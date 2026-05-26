@@ -4299,23 +4299,22 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "以木材、竹子、芦苇或废纸等为原料，通过制浆、造纸机械连续生产制造的纸张产品，包括文化用纸（铜版纸、双胶纸）、包装用纸（白卡纸、箱板纸）及特种纸等。",
+    "definition": "以植物纤维为原料，经制浆、造纸及后加工制成的各类纸张、纸板和纸浆产品。",
     "node_uuid": "f4475136-0e33-4fb6-83f7-6d3e8ec85e09",
     "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"ST晨鸣2024年年度报告\", \"source_url\": null, \"quote\": \"主要产品及劳务分别为机制纸、建筑材料、电及汽及其他。\"}]",
+    "evidence": "[{\"source_title\": \"青山纸业主营业务\", \"source_url\": null, \"quote\": \"主要产品:纸、卡、浆及副产品、碱、电产品、医药产品、营林业、商业贸易、光电子\"}]",
     "confidence": "HIGH",
     "aliases": [
-      "文化用纸",
-      "铜版纸",
-      "新闻纸",
-      "白卡纸"
+      "纸张",
+      "纸板",
+      "纸浆"
     ],
-    "canonical_name_en": "Machine-Made Paper",
+    "canonical_name_en": "Paper Product",
     "node_id": "paper_product",
-    "updated_at": "2026-05-23T16:24:28.278585000",
+    "updated_at": "2026-05-25T23:08:32.485447000",
     "created_at": "2026-05-23T16:24:28.278585000",
     "entity_type": "material",
-    "canonical_name_zh": "机制纸"
+    "canonical_name_zh": "纸制品"
   },
   {
     "__labels": [
@@ -10076,18 +10075,18 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "从海洋、湖泊、河流等水域捕捞或养殖获得的鱼、虾、蟹、贝、藻等食用或工业用生物产品，经加工后形成冷冻水产品、鱼罐头、鱼粉等产品。",
+    "definition": "通过海淡水养殖或捕捞获得并经加工处理的鱼、虾、贝类等食用产品。",
     "node_uuid": "b178c772-023c-4dc3-bd03-44cfcd07fd0a",
     "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"中水渔业 主营业务\", \"source_url\": null, \"quote\": \"水产品加工和销售\"}]",
+    "evidence": "[{\"source_title\": \"开创国际主营业务\", \"source_url\": null, \"quote\": \"主营业务:海淡水养殖、水产品加工和贸易\"}]",
     "confidence": "HIGH",
     "aliases": [
-      "水产",
-      "海鲜"
+      "海鲜",
+      "水产加工品"
     ],
     "canonical_name_en": "Aquatic Product",
     "node_id": "aquatic_product",
-    "updated_at": "2026-05-25T04:31:39.059472000",
+    "updated_at": "2026-05-25T23:06:50.522263000",
     "created_at": "2026-05-25T04:31:39.059472000",
     "entity_type": "material",
     "canonical_name_zh": "水产品"
@@ -11005,5 +11004,2127 @@
     "created_at": "2026-05-25T04:47:26.450166000",
     "entity_type": "infrastructure",
     "canonical_name_zh": "客运索道"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以石英砂、纯碱、石灰石、长石等无机矿物为主要原料，经1600℃高温熔融、成型（主要为浮法工艺）、退火等工序制成的板状钠钙硅酸盐玻璃。具有透光、透明、隔声等性能，是建筑采光、汽车车窗、光伏面板和电子显示等领域不可替代的基础材料。",
+    "node_uuid": "7d46d8db-87d3-4350-8f88-a35cafb3eb08",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"《平板玻璃术语》(GB/T15764-2008)\", \"source_url\": null, \"quote\": \"平板玻璃为板状的硅酸盐玻璃\"}, {\"source_title\": \"头豹研究院 平板玻璃行业报告\", \"source_url\": null, \"quote\": \"平板玻璃一般由石英砂、石灰石、长石、纯碱等无机矿物为原料制作，化学成分归属于纳钙硅酸盐玻璃\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "浮法玻璃",
+      "白片玻璃",
+      "钠钙玻璃"
+    ],
+    "canonical_name_en": "Flat Glass",
+    "node_id": "flat_glass",
+    "updated_at": "2026-05-25T05:45:44.634828000",
+    "created_at": "2026-05-25T05:45:44.634828000",
+    "entity_type": "material",
+    "canonical_name_zh": "平板玻璃"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "禾本科甘蔗属热带及亚热带多年生草本植物，茎秆富含蔗糖（12%-18%），是全球最重要的糖料作物（占全球食糖产量86%以上）。主要种植于南北纬34°之间的热带亚热带地区，中国主产区为广西、云南、广东、海南。除制糖外，蔗渣可造纸和生产环保餐具，糖蜜可发酵生产酒精和酵母，是综合利用价值极高的经济作物。",
+    "node_uuid": "efce4d5b-73b4-4a50-94ee-b32ae58ed3a2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"经合组织-粮农组织2022-2031农业展望\", \"source_url\": null, \"quote\": \"甘蔗是主要的(86%)糖料作物，主要用于制糖，同时也用于生产乙醇\"}, {\"source_title\": \"甘蔗制糖 百度百科\", \"source_url\": null, \"quote\": \"甘蔗是禾本科植物...中国种植甘蔗的省（区）有14个，以广东、广西、台湾、云南、福建等为主\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "糖料甘蔗",
+      "蔗"
+    ],
+    "canonical_name_en": "Sugar Cane",
+    "node_id": "sugar_cane",
+    "updated_at": "2026-05-25T05:45:44.668669000",
+    "created_at": "2026-05-25T05:45:44.668669000",
+    "entity_type": "material",
+    "canonical_name_zh": "甘蔗"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以油气田为主要工作场所，为石油天然气勘探、钻井、完井、采油、增产、集输及后期维护提供工程技术支持和解决方案的生产性服务行业。涵盖地球物理勘探、钻井工程、测井录井、完井修井、油气生产处理、油田化学品供应和油田信息化建设等五大板块，是油气产业链上游的重要组成部分。",
+    "node_uuid": "d9691985-0378-4f5b-a40f-76dd08a798fb",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中国油田服务行业市场发展监测及投资方向研究报告\", \"source_url\": null, \"quote\": \"中国油田服务行业是指为油气勘探、开发和生产提供各种技术支持和服务的行业...涵盖从油田地质勘探、钻井、完井、油气生产到后期维护等多个环节\"}, {\"source_title\": \"新疆科力新技术发展股份有限公司公开转让说明书\", \"source_url\": null, \"quote\": \"油田技术服务业，是伴随着油气资源勘探开发而形成的，是为石油天然气勘探与开发提供工程技术支持和解决方案的生产性服务行业\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "油田技术服务",
+      "油服",
+      "OFS"
+    ],
+    "canonical_name_en": "Oilfield Service",
+    "node_id": "oilfield_service",
+    "updated_at": "2026-05-25T05:45:44.672669000",
+    "created_at": "2026-05-25T05:45:44.672669000",
+    "entity_type": "service",
+    "canonical_name_zh": "油气田服务"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在城市或城际范围内向公众开放的、定线运营的客运交通服务系统，包括公共汽车、轨道交通（地铁、轻轨、有轨电车）、快速公交系统（BRT）、渡轮、索道等多种运输方式。公共交通系统由道路/轨道网络、交通工具、站点设施和运营管理系统构成，是城市客运的骨干和缓解交通拥堵的关键基础设施。",
+    "node_uuid": "52d8ca0e-2375-4163-9733-414ff0a642c2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"公共交通 百度百科\", \"source_url\": null, \"quote\": \"公共交通(Mass transit)，泛指所有收费提供交通服务的运输方式...狭义的公共交通包括城市范围内定线运营的公共汽车及轨道交通、渡轮、索道等交通方式\"}, {\"source_title\": \"《城市公共交通分类标准》(CJJ/T 114-2007)\", \"source_url\": null, \"quote\": \"城市公共交通分类标准\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "公共运输",
+      "大众运输",
+      "公交系统"
+    ],
+    "canonical_name_en": "Public Transportation",
+    "node_id": "public_transportation",
+    "updated_at": "2026-05-25T05:45:44.699491000",
+    "created_at": "2026-05-25T05:45:44.699491000",
+    "entity_type": "service",
+    "canonical_name_zh": "公共交通"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "能航行或停泊于水域进行运输或作业的交通工具，通常由船体、推进系统、导航设备和各类功能舱室组成。按用途可分为运输船（货船、客船、油轮、集装箱船等）、工程船（挖泥船、起重船等）、渔业船、军用舰艇等；按航区可分为海船和内河船。船舶是水上交通运输、海洋资源开发和国防建设的核心装备，现代船舶多为钢制结构，采用内燃机或电力推进。",
+    "node_uuid": "136bad44-0874-42a7-9b30-331c46348bfd",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"《船舶与海洋结构物构造》华南理工大学\", \"source_url\": null, \"quote\": \"船舶按航区分：海船和内河船。按推进动力分：风帆船，蒸汽机船，内燃机船和核动力船。按用途可分为运输船、工程船、渔业船、港务船、海洋调查船、战斗舰艇等\"}, {\"source_title\": \"前瞻产业研究院 2024年中国船舶制造行业全景图谱\", \"source_url\": null, \"quote\": \"船舶是能航行或停泊于水域进行运输或作业的交通工具...为海洋开发、水上交通运输、能源运输、国防建设等提供必要的技术装备\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "船只",
+      "舰船",
+      "海船"
+    ],
+    "canonical_name_en": "Ship",
+    "node_id": "ship",
+    "updated_at": "2026-05-25T05:45:44.704490000",
+    "created_at": "2026-05-25T05:45:44.704490000",
+    "entity_type": "system",
+    "canonical_name_zh": "船舶"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "含有可溶性钾盐的矿物矿石，是生产氯化钾等钾肥产品的主要原料。",
+    "node_uuid": "0e2d798d-e665-4684-8200-08e2e4ec3239",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"亚钾国际主营业务分析\", \"source_url\": null, \"quote\": \"主营业务为钾盐矿开采、加工，钾肥生产及销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "钾盐矿",
+      "钾矿石"
+    ],
+    "canonical_name_en": "Potassium Ore",
+    "node_id": "potassium_ore",
+    "updated_at": "2026-05-25T14:50:08.793768000",
+    "created_at": "2026-05-25T14:50:08.793768000",
+    "entity_type": "material",
+    "canonical_name_zh": "钾盐矿石"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "含有磷酸盐矿物的矿石，是生产磷肥、复合肥及磷化工产品的基础原料。",
+    "node_uuid": "2f8cef70-df29-433c-b436-33a58c3f4b23",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"新洋丰主营业务分析\", \"source_url\": null, \"quote\": \"主要业务:磷复肥、新型肥料的研发、生产和销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "磷矿",
+      "磷酸盐矿"
+    ],
+    "canonical_name_en": "Phosphate Ore",
+    "node_id": "phosphate_ore",
+    "updated_at": "2026-05-25T14:50:09.035680000",
+    "created_at": "2026-05-25T14:50:09.035680000",
+    "entity_type": "material",
+    "canonical_name_zh": "磷矿石"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "基于航天技术开发的终端应用产品，包括卫星导航、遥感设备、航天测控终端等。",
+    "node_uuid": "9b4c4bd3-22ec-4cb3-aa8e-51bf4d38857b",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"航天科技主营业务分析\", \"source_url\": null, \"quote\": \"主要产品:车联网及工业物联网、航天应用产品、汽车电子、电力设备\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "航天应用设备",
+      "航天产品"
+    ],
+    "canonical_name_en": "Aerospace Application Product",
+    "node_id": "aerospace_application_product",
+    "updated_at": "2026-05-25T14:50:09.043688000",
+    "created_at": "2026-05-25T14:50:09.043688000",
+    "entity_type": "device",
+    "canonical_name_zh": "航天应用产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于实现车辆与外部环境（车、路、人、云）信息交互的智能车载通信与感知设备。",
+    "node_uuid": "9ff52cf5-36b2-4bfd-a0b4-de6315439eb5",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"航天科技主营业务分析\", \"source_url\": null, \"quote\": \"主要产品:车联网及工业物联网、航天应用产品、汽车电子、电力设备\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "车载联网设备",
+      "V2X设备"
+    ],
+    "canonical_name_en": "Connected Vehicle Device",
+    "node_id": "connected_vehicle_device",
+    "updated_at": "2026-05-25T14:50:09.052940000",
+    "created_at": "2026-05-25T14:50:09.052940000",
+    "entity_type": "device",
+    "canonical_name_zh": "车联网设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以木材或木质复合材料为主要基材加工而成的地面铺装材料，包括实木地板、强化木地板和实木复合地板等。",
+    "node_uuid": "b4def4c6-947f-4fce-8bb3-d44ad4b231f5",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"大亚圣象主营业务分析\", \"source_url\": null, \"quote\": \"主要产品:中高密度板、木地板产品等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "实木地板",
+      "复合木地板"
+    ],
+    "canonical_name_en": "Wood Floor",
+    "node_id": "wood_floor",
+    "updated_at": "2026-05-25T14:54:48.392491000",
+    "created_at": "2026-05-25T14:54:17.573197000",
+    "entity_type": "component",
+    "canonical_name_zh": "木地板"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以内燃机或电动机为动力的两轮或三轮机动车辆整车产品。",
+    "node_uuid": "5f34e463-6ac1-410e-b605-45aba7f7825d",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"钱江摩托主营业务分析\", \"source_url\": null, \"quote\": \"主要产品:摩托车整车、摩托车配件及加工\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "摩托整车",
+      "两轮摩托车"
+    ],
+    "canonical_name_en": "Motorcycle",
+    "node_id": "motorcycle",
+    "updated_at": "2026-05-25T14:54:48.398006000",
+    "created_at": "2026-05-25T14:54:17.605297000",
+    "entity_type": "device",
+    "canonical_name_zh": "摩托车整车"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "采用机械化连续生产工艺制造的各种纸张产品，包括文化用纸、包装用纸和生活用纸等。",
+    "node_uuid": "a7af5a68-0830-4042-8821-651dae2d34c1",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"广糖主营业务分析\", \"source_url\": null, \"quote\": \"主要产品:机制糖、机制纸、蔗渣浆\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "工业用纸",
+      "机制纸张"
+    ],
+    "canonical_name_en": "Machine-made Paper",
+    "node_id": "mechanism_paper",
+    "updated_at": "2026-05-25T14:54:48.407588000",
+    "created_at": "2026-05-25T14:54:17.611804000",
+    "entity_type": "material",
+    "canonical_name_zh": "机制纸"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将电能转换为机械能的旋转动力设备，广泛应用于工业、交通及家电领域。",
+    "node_uuid": "abfc08c5-c29e-419f-a001-9ab54350521e",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"佳电股份主营业务\", \"source_url\": null, \"quote\": \"主要产品:继电器及继电保护装置类产品、控制保护屏产品、自动化及控制装置类产品\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "电机",
+      "驱动电机"
+    ],
+    "canonical_name_en": "Electric Motor",
+    "node_id": "electric_motor",
+    "updated_at": "2026-05-25T14:59:26.840841000",
+    "created_at": "2026-05-25T14:59:26.840841000",
+    "entity_type": "device",
+    "canonical_name_zh": "电动机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "具有选择性分离功能的薄膜材料，用于水处理、海水淡化及工业纯水制备。",
+    "node_uuid": "192ada35-29ed-4560-86bb-07f2a469e36c",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"沃顿科技主营业务\", \"source_url\": null, \"quote\": \"主要产品:铁路运输货车新造车、铁路车辆用弹簧、摇枕及侧架、棕纤维床垫、复合反渗透膜\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "RO膜",
+      "反渗透膜"
+    ],
+    "canonical_name_en": "Composite Reverse Osmosis Membrane",
+    "node_id": "composite_ro_membrane",
+    "updated_at": "2026-05-25T14:59:26.871959000",
+    "created_at": "2026-05-25T14:59:26.871959000",
+    "entity_type": "material",
+    "canonical_name_zh": "复合反渗透膜"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "由多根高强度钢丝捻制而成的线材，主要用于子午线轮胎的骨架材料。",
+    "node_uuid": "5b36c4ab-61da-41f9-92ec-0a17e1bdb99a",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"福星股份主营业务\", \"source_url\": null, \"quote\": \"主营业务:金属丝、绳及其制品的制造、销售和出口业务;商品房销售。主要产品:子午轮胎钢帘线、钢丝绳系列\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "轮胎钢丝",
+      "子午线轮胎钢帘线"
+    ],
+    "canonical_name_en": "Steel Cord",
+    "node_id": "steel_cord",
+    "updated_at": "2026-05-25T14:59:26.878275000",
+    "created_at": "2026-05-25T14:59:26.878275000",
+    "entity_type": "material",
+    "canonical_name_zh": "钢帘线"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于铁路运输的货运车辆，包括敞车、棚车、罐车及特种车辆。",
+    "node_uuid": "cd13ee07-25e1-42d6-b7aa-df4d5b04842a",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"沃顿科技主营业务\", \"source_url\": null, \"quote\": \"主要产品:铁路运输货车新造车、铁路车辆用弹簧、摇枕及侧架\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "铁路车辆",
+      "货运列车车厢"
+    ],
+    "canonical_name_en": "Railway Freight Car",
+    "node_id": "railway_freight_car",
+    "updated_at": "2026-05-25T14:59:26.903339000",
+    "created_at": "2026-05-25T14:59:26.903339000",
+    "entity_type": "device",
+    "canonical_name_zh": "铁路货车"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经发芽、烘干处理的大麦，是啤酒酿造的核心原料。",
+    "node_uuid": "02667c49-b854-4fc0-aff3-8ce8cba60b3f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"兰州黄河主营业务\", \"source_url\": null, \"quote\": \"主要产品:啤酒、麦芽、饮料\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "啤酒麦芽"
+    ],
+    "canonical_name_en": "Malt",
+    "node_id": "malt",
+    "updated_at": "2026-05-25T14:59:26.908339000",
+    "created_at": "2026-05-25T14:59:26.908339000",
+    "entity_type": "material",
+    "canonical_name_zh": "麦芽"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "由葡萄糖分子聚合而成的多糖，是重要的食品原料和工业原料。",
+    "node_uuid": "d6b3589b-f71a-43b5-8362-51c8ce428352",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中粮科技主营业务\", \"source_url\": null, \"quote\": \"主要产品包括淀粉、淀粉糖、燃料乙醇、食用酒精、消毒及医用酒精、味精、柠檬酸、糊精\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "玉米淀粉",
+      "食用淀粉"
+    ],
+    "canonical_name_en": "Starch",
+    "node_id": "starch",
+    "updated_at": "2026-05-25T15:02:01.271992000",
+    "created_at": "2026-05-25T15:02:01.271992000",
+    "entity_type": "material",
+    "canonical_name_zh": "淀粉"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以生物质为原料生产的可作为汽油添加剂或替代品的乙醇燃料。",
+    "node_uuid": "4e004490-ce8a-4a7f-a87d-4ffa8c3b8c7f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中粮科技主营业务\", \"source_url\": null, \"quote\": \"主要产品包括淀粉、淀粉糖、燃料乙醇、食用酒精、消毒及医用酒精、味精、柠檬酸、糊精\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "车用乙醇汽油"
+    ],
+    "canonical_name_en": "Fuel Ethanol",
+    "node_id": "fuel_ethanol",
+    "updated_at": "2026-05-25T15:02:01.281566000",
+    "created_at": "2026-05-25T15:02:01.281566000",
+    "entity_type": "material",
+    "canonical_name_zh": "燃料乙醇"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以粮食为原料经发酵提纯制成的鲜味调味品。",
+    "node_uuid": "5eafd59e-fd2d-4d1c-820d-edbce28ef4d5",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中粮科技主营业务\", \"source_url\": null, \"quote\": \"主要产品包括淀粉、淀粉糖、燃料乙醇、食用酒精、消毒及医用酒精、味精、柠檬酸、糊精\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "谷氨酸钠",
+      "味素"
+    ],
+    "canonical_name_en": "Monosodium Glutamate",
+    "node_id": "monosodium_glutamate",
+    "updated_at": "2026-05-25T15:02:01.315500000",
+    "created_at": "2026-05-25T15:02:01.315500000",
+    "entity_type": "material",
+    "canonical_name_zh": "味精"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "一种重要的有机酸，广泛用于食品、饮料、医药及化工行业。",
+    "node_uuid": "6643ad5a-7bfa-4461-a3bd-a724f6dbd397",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中粮科技主营业务\", \"source_url\": null, \"quote\": \"主要产品包括淀粉、淀粉糖、燃料乙醇、食用酒精、消毒及医用酒精、味精、柠檬酸、糊精\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "枸橼酸"
+    ],
+    "canonical_name_en": "Citric Acid",
+    "node_id": "citric_acid",
+    "updated_at": "2026-05-25T15:02:01.324019000",
+    "created_at": "2026-05-25T15:02:01.324019000",
+    "entity_type": "material",
+    "canonical_name_zh": "柠檬酸"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "铝的氧化物，是电解铝生产的主要原料，也用于陶瓷、耐火材料等领域。",
+    "node_uuid": "2ad72144-6343-40d4-81eb-320e8924712c",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"神火股份主营业务\", \"source_url\": null, \"quote\": \"主要业务:煤炭、发电(基本为自发自用)、氧化铝、铝产品的生产、加工和销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "铝氧",
+      "刚玉"
+    ],
+    "canonical_name_en": "Alumina",
+    "node_id": "alumina",
+    "updated_at": "2026-05-25T15:02:01.330017000",
+    "created_at": "2026-05-25T15:02:01.330017000",
+    "entity_type": "material",
+    "canonical_name_zh": "氧化铝"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以铝或铝合金为原料加工制成的板材、型材、箔材及铸件等产品。",
+    "node_uuid": "d0898669-1808-4724-937a-e962a4d6c3a8",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"神火股份主营业务\", \"source_url\": null, \"quote\": \"主要业务:煤炭、发电(基本为自发自用)、氧化铝、铝产品的生产、加工和销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "铝材",
+      "铝制品"
+    ],
+    "canonical_name_en": "Aluminum Product",
+    "node_id": "aluminum_product",
+    "updated_at": "2026-05-25T15:02:01.344160000",
+    "created_at": "2026-05-25T15:02:01.344160000",
+    "entity_type": "material",
+    "canonical_name_zh": "铝产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "一种水溶性维生素，也是重要的饲料添加剂和医药原料药。",
+    "node_uuid": "cd45a493-9502-41d7-a9a4-28feee2b2621",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"广济药业主营业务\", \"source_url\": null, \"quote\": \"主要产品:核黄素\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "维生素B2",
+      "VB2"
+    ],
+    "canonical_name_en": "Riboflavin",
+    "node_id": "riboflavin",
+    "updated_at": "2026-05-25T15:03:16.557711000",
+    "created_at": "2026-05-25T15:03:16.557711000",
+    "entity_type": "material",
+    "canonical_name_zh": "核黄素"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "不经传统纺织工艺，由纤维直接通过物理或化学方法粘合而成的片状材料。",
+    "node_uuid": "25f7743b-5f12-436b-b3a6-1b97dd77781e",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"欣龙控股主营业务\", \"source_url\": null, \"quote\": \"主要产品:水刺产品、无纺深加工制品、热轧及其衬布产品、贸易\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "非织造布",
+      "水刺无纺布"
+    ],
+    "canonical_name_en": "Non-woven Fabric",
+    "node_id": "non_woven_fabric",
+    "updated_at": "2026-05-25T15:03:16.564541000",
+    "created_at": "2026-05-25T15:03:16.564541000",
+    "entity_type": "material",
+    "canonical_name_zh": "无纺布"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以锡精矿为原料经冶炼提纯后铸成的金属锭，是锡加工的基础原料。",
+    "node_uuid": "6cd74c2c-d5d5-47af-a307-210b842891cd",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"锡业股份主营业务\", \"source_url\": null, \"quote\": \"主要产品:锡锭、阴极铜、锡铅焊料及无铅焊料、锡材、锡基合金、有机锡化工、无机锡化工\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "精锡",
+      "电解锡"
+    ],
+    "canonical_name_en": "Tin Ingot",
+    "node_id": "tin_ingot",
+    "updated_at": "2026-05-25T15:03:16.570540000",
+    "created_at": "2026-05-25T15:03:16.570540000",
+    "entity_type": "material",
+    "canonical_name_zh": "锡锭"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以钛或钛合金为原料加工制成的板材、棒材、丝材及制品。",
+    "node_uuid": "cba9e374-af53-420f-af14-e96e5b43f8e2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"东方钽业主营业务\", \"source_url\": null, \"quote\": \"主要产品:钽金属及合金制品、铌金属及合金制品、铍合金材料、钛金属及合金材料、光伏\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "钛材",
+      "钛合金制品"
+    ],
+    "canonical_name_en": "Titanium Product",
+    "node_id": "titanium_product",
+    "updated_at": "2026-05-25T15:03:16.575545000",
+    "created_at": "2026-05-25T15:03:16.575545000",
+    "entity_type": "material",
+    "canonical_name_zh": "钛产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于输送气体、提供通风或增压的旋转机械设备，广泛应用于环保、建筑及工业领域。",
+    "node_uuid": "522a0acb-bcee-4164-a3fc-a6d9b46cfc1b",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"盈峰环境主营业务\", \"source_url\": null, \"quote\": \"主要产品:风机及配件、冷冻设备、电子元件、漆包线\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "通风机",
+      "鼓风机"
+    ],
+    "canonical_name_en": "Ventilation Fan",
+    "node_id": "ventilation_fan",
+    "updated_at": "2026-05-25T15:04:41.157763000",
+    "created_at": "2026-05-25T15:04:41.157763000",
+    "entity_type": "device",
+    "canonical_name_zh": "风机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以吸附状态储存于煤层中的非常规天然气，主要成分为甲烷，可通过抽采利用。",
+    "node_uuid": "601031fd-f1eb-4eec-a78d-8552da0f7411",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"蓝焰控股主营业务\", \"source_url\": null, \"quote\": \"主要业务为煤矿瓦斯治理及煤层气勘查、开发与利用。主要产品为煤层气(煤矿瓦斯)\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "煤矿瓦斯",
+      "煤层甲烷"
+    ],
+    "canonical_name_en": "Coalbed Methane",
+    "node_id": "coalbed_methane",
+    "updated_at": "2026-05-25T15:04:41.164284000",
+    "created_at": "2026-05-25T15:04:41.164284000",
+    "entity_type": "material",
+    "canonical_name_zh": "煤层气"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "原子排列长程无序的金属材料，具有优异的软磁性能、耐腐蚀性和高强度。",
+    "node_uuid": "77d9b1be-bde9-4515-8966-3d64181271f7",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"安泰科技主营业务\", \"source_url\": null, \"quote\": \"主要产品:非晶/纳米晶带材及制品\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "金属玻璃",
+      "非晶纳米晶带材"
+    ],
+    "canonical_name_en": "Amorphous Alloy",
+    "node_id": "non_crystalline_alloy",
+    "updated_at": "2026-05-25T15:04:41.172385000",
+    "created_at": "2026-05-25T15:04:41.172385000",
+    "entity_type": "material",
+    "canonical_name_zh": "非晶合金"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "具有铁磁性或亚铁磁性的功能材料，广泛用于电机、电子器件及新能源领域。",
+    "node_uuid": "f36ae0e8-7cbd-41f6-98fb-88df5a0024b3",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中科三环主营业务\", \"source_url\": null, \"quote\": \"主要产品:磁材产品\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "磁材",
+      "永磁材料"
+    ],
+    "canonical_name_en": "Magnetic Material",
+    "node_id": "magnetic_material",
+    "updated_at": "2026-05-25T15:04:41.177892000",
+    "created_at": "2026-05-25T15:04:41.177892000",
+    "entity_type": "material",
+    "canonical_name_zh": "磁性材料"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以番茄为原料加工制成的食品，包括番茄酱、番茄汁、番茄罐头等。",
+    "node_uuid": "f909f102-bf1c-4132-8a4d-8a11e7c2b484",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"ST中基主营业务\", \"source_url\": null, \"quote\": \"主要业务:番茄制品的加工、销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "番茄酱",
+      "番茄汁"
+    ],
+    "canonical_name_en": "Tomato Product",
+    "node_id": "tomato_product",
+    "updated_at": "2026-05-25T15:04:41.187423000",
+    "created_at": "2026-05-25T15:04:41.187423000",
+    "entity_type": "material",
+    "canonical_name_zh": "番茄制品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过钢带和可变直径带轮实现无级变速的自动变速器，用于汽车传动系统。",
+    "node_uuid": "9ca65aba-b45f-47a3-86e4-452a6f576066",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"山子高科主营业务\", \"source_url\": null, \"quote\": \"主要产品:无级变速器(CVT)、双离合变速器(DCT)、混合动力系统、电驱动系统\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "CVT",
+      "无级变速箱"
+    ],
+    "canonical_name_en": "CVT Transmission",
+    "node_id": "cvt_transmission",
+    "updated_at": "2026-05-25T15:33:16.833423000",
+    "created_at": "2026-05-25T15:33:16.833423000",
+    "entity_type": "component",
+    "canonical_name_zh": "无级变速器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "采用两组离合器交替换挡的自动变速器，兼具手动变速器的效率和自动变速器的便利性。",
+    "node_uuid": "5cc21cc6-1c87-4549-ac59-7c1200a95d96",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"山子高科主营业务\", \"source_url\": null, \"quote\": \"主要产品:无级变速器(CVT)、双离合变速器(DCT)、混合动力系统、电驱动系统\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "DCT",
+      "双离合变速箱"
+    ],
+    "canonical_name_en": "DCT Transmission",
+    "node_id": "dct_transmission",
+    "updated_at": "2026-05-25T15:33:16.838258000",
+    "created_at": "2026-05-25T15:33:16.838258000",
+    "entity_type": "component",
+    "canonical_name_zh": "双离合变速器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "由内燃机和电动机组合驱动的车辆动力系统，可实现能量回收和多种驱动模式切换。",
+    "node_uuid": "9d12c9ab-cbef-4007-aa09-017d4004269c",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"山子高科主营业务\", \"source_url\": null, \"quote\": \"主要产品:无级变速器(CVT)、双离合变速器(DCT)、混合动力系统、电驱动系统\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "混动系统"
+    ],
+    "canonical_name_en": "Hybrid Power System",
+    "node_id": "hybrid_power_system",
+    "updated_at": "2026-05-25T15:33:16.842453000",
+    "created_at": "2026-05-25T15:33:16.842453000",
+    "entity_type": "subsystem",
+    "canonical_name_zh": "混合动力系统"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以电动机为核心，配合减速器和电控单元构成的车辆动力驱动系统。",
+    "node_uuid": "01b1f4da-1163-4460-845f-81dd8c6d81a0",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"山子高科主营业务\", \"source_url\": null, \"quote\": \"主要产品:无级变速器(CVT)、双离合变速器(DCT)、混合动力系统、电驱动系统\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "电驱系统",
+      "电动车驱动系统"
+    ],
+    "canonical_name_en": "Electric Drive System",
+    "node_id": "electric_drive_system",
+    "updated_at": "2026-05-25T15:33:16.846498000",
+    "created_at": "2026-05-25T15:33:16.846498000",
+    "entity_type": "subsystem",
+    "canonical_name_zh": "电驱动系统"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "具有粘结性、可用于高炉炼焦的烟煤，是钢铁冶炼的关键原料。",
+    "node_uuid": "2cb25ba9-0668-4f39-8dcf-7443890c69c1",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"山西焦煤主营业务\", \"source_url\": null, \"quote\": \"主要产品为焦煤、肥煤、瘦煤、贫瘦煤等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "冶金煤"
+    ],
+    "canonical_name_en": "Coking Coal",
+    "node_id": "coking_coal",
+    "updated_at": "2026-05-25T15:33:16.849503000",
+    "created_at": "2026-05-25T15:33:16.849503000",
+    "entity_type": "material",
+    "canonical_name_zh": "焦煤"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以石油裂解副产物为原料合成的热塑性树脂，用于胶粘剂、涂料和橡胶助剂。",
+    "node_uuid": "a8bae402-86be-4e4f-83dd-bf828769588d",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"大庆华科主营业务\", \"source_url\": null, \"quote\": \"主要产品:聚丙烯、石油树脂\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "碳五碳九树脂"
+    ],
+    "canonical_name_en": "Petroleum Resin",
+    "node_id": "petroleum_resin",
+    "updated_at": "2026-05-25T15:33:16.870504000",
+    "created_at": "2026-05-25T15:33:16.870504000",
+    "entity_type": "material",
+    "canonical_name_zh": "石油树脂"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以驴皮为主要原料熬制加工而成的补血养颜中成药制品。",
+    "node_uuid": "7b3e864d-8c2a-4aac-9b14-e2b0c2e1c244",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"九芝堂主营业务\", \"source_url\": null, \"quote\": \"主要产品:驴胶补血颗粒、斯奇康注射液\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "阿胶制品",
+      "驴胶颗粒"
+    ],
+    "canonical_name_en": "Donkey-hide Gelatin Product",
+    "node_id": "donkey_hide_gelatin",
+    "updated_at": "2026-05-25T15:33:16.875502000",
+    "created_at": "2026-05-25T15:33:16.875502000",
+    "entity_type": "material",
+    "canonical_name_zh": "驴胶补血产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于商户收单、银行卡刷卡、扫码支付的电子终端设备。",
+    "node_uuid": "a98c09f6-0a06-480a-8fc8-e46167ec5674",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"新大陆主营业务\", \"source_url\": null, \"quote\": \"经营业务主要为商户支付服务行业和信息识别行业提供终端产品、系统解决方案\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "POS机",
+      "支付设备"
+    ],
+    "canonical_name_en": "Payment Terminal",
+    "node_id": "payment_terminal",
+    "updated_at": "2026-05-25T15:35:00.236034000",
+    "created_at": "2026-05-25T15:35:00.236034000",
+    "entity_type": "device",
+    "canonical_name_zh": "支付终端"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "一类维持人体正常生理功能所必需的微量有机化合物，广泛用于医药、食品和饲料添加剂。",
+    "node_uuid": "14d4ec2c-e073-445e-89cd-a53ab9b765cc",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"新和成主营业务\", \"source_url\": null, \"quote\": \"主要经营维生素、香精香料、医药中间体系列产品\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "维他命",
+      "VIT"
+    ],
+    "canonical_name_en": "Vitamin",
+    "node_id": "vitamin",
+    "updated_at": "2026-05-25T15:35:00.246540000",
+    "created_at": "2026-05-25T15:35:00.246540000",
+    "entity_type": "material",
+    "canonical_name_zh": "维生素"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以报纸、期刊为载体的信息采集、编辑、印刷及发行业务。",
+    "node_uuid": "ebfa1d63-3710-4869-85c9-bf83542f9445",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"粤传媒主营业务\", \"source_url\": null, \"quote\": \"经营业务:报纸出版经营、印刷、报刊发行等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "报刊出版"
+    ],
+    "canonical_name_en": "Newspaper Publishing",
+    "node_id": "newspaper_publishing",
+    "updated_at": "2026-05-25T15:35:00.251751000",
+    "created_at": "2026-05-25T15:35:00.251751000",
+    "entity_type": "service",
+    "canonical_name_zh": "报纸出版"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "银行机构提供的存款、贷款、结算、票据承兑与贴现等金融服务。",
+    "node_uuid": "f3f27d20-c1f6-4e4d-8579-be628c0f9f4f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"浦发银行主营业务\", \"source_url\": null, \"quote\": \"经营业务:吸收公众存款;发放短期、中期和长期贷款;办理结算;办理票据贴现\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "金融服务",
+      "存贷业务"
+    ],
+    "canonical_name_en": "Banking Service",
+    "node_id": "banking_service",
+    "updated_at": "2026-05-25T15:35:00.259661000",
+    "created_at": "2026-05-25T15:35:00.259661000",
+    "entity_type": "service",
+    "canonical_name_zh": "银行服务"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于企业办公经营活动的高层商业建筑物业。",
+    "node_uuid": "3c1d872b-4bbb-4de7-8ad2-903bac38c4bc",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中国国贸主营业务\", \"source_url\": null, \"quote\": \"主要业务:高级写字楼、高级公寓、商场等物业出租及经营\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "办公楼",
+      "商务楼宇"
+    ],
+    "canonical_name_en": "Office Building",
+    "node_id": "office_building",
+    "updated_at": "2026-05-25T15:36:56.683596000",
+    "created_at": "2026-05-25T15:36:56.683596000",
+    "entity_type": "infrastructure",
+    "canonical_name_zh": "写字楼"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在炼钢过程中加入稀土元素以改善性能的特殊钢材，具有优异的韧性和耐磨性。",
+    "node_uuid": "bb18d889-0550-4618-9ba4-0cddfe298e72",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"包钢股份主营业务\", \"source_url\": null, \"quote\": \"主要产品:稀土钢产品和板材产品\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "稀土处理钢"
+    ],
+    "canonical_name_en": "Rare Earth Steel",
+    "node_id": "rare_earth_steel",
+    "updated_at": "2026-05-25T15:36:56.708155000",
+    "created_at": "2026-05-25T15:36:56.708155000",
+    "entity_type": "material",
+    "canonical_name_zh": "稀土钢"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过高温焚烧处理城市固体废弃物并回收热能用于发电的环保技术。",
+    "node_uuid": "95b6186f-b524-4878-a7ee-1f7dd98c7a4a",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"首创环保主营业务\", \"source_url\": null, \"quote\": \"供水、污水处理、固废处理、大气治理、餐厨及污泥处理\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "固废焚烧",
+      "垃圾焚烧发电"
+    ],
+    "canonical_name_en": "Waste Incineration",
+    "node_id": "waste_incineration",
+    "updated_at": "2026-05-25T15:36:56.712156000",
+    "created_at": "2026-05-25T15:36:56.712156000",
+    "entity_type": "service",
+    "canonical_name_zh": "垃圾焚烧"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "专门用于运输石油及石油制品的大型船舶。",
+    "node_uuid": "7a7ae53e-c10a-48c4-84fb-cfb7cf888bc0",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中远海能主营业务\", \"source_url\": null, \"quote\": \"主要业务:石油运输、煤炭运输\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "油船",
+      "原油运输船"
+    ],
+    "canonical_name_en": "Oil Tanker",
+    "node_id": "oil_tanker",
+    "updated_at": "2026-05-25T15:38:55.592711000",
+    "created_at": "2026-05-25T15:38:55.592711000",
+    "entity_type": "device",
+    "canonical_name_zh": "油轮"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于减少机械摩擦、冷却和防锈的石油基或合成基液体。",
+    "node_uuid": "9ff3768f-81be-486f-a4e1-b28e5e62db35",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中国石化主营业务\", \"source_url\": null, \"quote\": \"主要产品:原油、天然气、汽油、柴油、煤油、润滑油、合成树脂、合成纤维\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "机油",
+      "润滑脂"
+    ],
+    "canonical_name_en": "Lubricant",
+    "node_id": "lubricant",
+    "updated_at": "2026-05-25T15:38:55.597718000",
+    "created_at": "2026-05-25T15:38:55.597718000",
+    "entity_type": "material",
+    "canonical_name_zh": "润滑油"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于混凝土搅拌、输送、浇筑及泵送的工程机械。",
+    "node_uuid": "5daca252-fa12-4f7c-a336-caf7989799cf",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"三一重工主营业务\", \"source_url\": null, \"quote\": \"主要业务:混凝土机械、挖掘机械、液压压路机、摊铺机等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "混凝土泵车",
+      "搅拌站"
+    ],
+    "canonical_name_en": "Concrete Machinery",
+    "node_id": "concrete_machinery",
+    "updated_at": "2026-05-25T15:38:55.601717000",
+    "created_at": "2026-05-25T15:38:55.601717000",
+    "entity_type": "device",
+    "canonical_name_zh": "混凝土机械"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于沥青或混凝土路面摊铺作业的工程机械。",
+    "node_uuid": "04ab8edc-d474-4087-a304-3247afd9abf9",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"三一重工主营业务\", \"source_url\": null, \"quote\": \"主要业务:混凝土机械、挖掘机械、液压压路机、摊铺机等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "沥青摊铺机"
+    ],
+    "canonical_name_en": "Road Paver",
+    "node_id": "road_paver",
+    "updated_at": "2026-05-25T15:38:55.605770000",
+    "created_at": "2026-05-25T15:38:55.605770000",
+    "entity_type": "device",
+    "canonical_name_zh": "摊铺机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "证券公司提供的投资银行、经纪、资产管理及研究咨询等金融服务。",
+    "node_uuid": "b3ea15a2-511c-43b8-b074-e44aa55be536",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中信证券主营业务\", \"source_url\": null, \"quote\": \"投资银行业务、债券承销结构融资业务、经纪业务、资管业务\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "投行服务",
+      "券商业务"
+    ],
+    "canonical_name_en": "Securities Service",
+    "node_id": "securities_service",
+    "updated_at": "2026-05-25T15:38:55.610286000",
+    "created_at": "2026-05-25T15:38:55.610286000",
+    "entity_type": "service",
+    "canonical_name_zh": "证券服务"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以旋翼为主要升力面和操纵面的航空器，可垂直起降、悬停及向任意方向飞行。",
+    "node_uuid": "14f9ffc1-f08f-4624-ab12-e5ead80099b4",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中直股份主营业务\", \"source_url\": null, \"quote\": \"主要业务:直升机、Y12系列多用途飞机、EC120直升机等航空产品研制生产\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "直升飞机",
+      "旋翼机"
+    ],
+    "canonical_name_en": "Helicopter",
+    "node_id": "helicopter",
+    "updated_at": "2026-05-25T15:40:46.641952000",
+    "created_at": "2026-05-25T15:40:46.641952000",
+    "entity_type": "device",
+    "canonical_name_zh": "直升机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "各类桥梁的结构设计、基础施工、上部结构架设及桥面铺装等工程建设服务。",
+    "node_uuid": "76e977ae-235f-4cd2-afc5-39f32f033484",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"四川路桥主营业务\", \"source_url\": null, \"quote\": \"主要业务:桥梁施工、道路施工、交通设施、房屋建筑\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "桥梁工程",
+      "路桥施工"
+    ],
+    "canonical_name_en": "Bridge Construction",
+    "node_id": "bridge_construction",
+    "updated_at": "2026-05-25T15:40:46.654270000",
+    "created_at": "2026-05-25T15:40:46.654270000",
+    "entity_type": "service",
+    "canonical_name_zh": "桥梁施工"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过有线或无线网络提供语音、数据及互联网接入等通信服务。",
+    "node_uuid": "9bc1f723-ea3c-4eb4-8059-2f44d5cc9003",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中国联通主营业务\", \"source_url\": null, \"quote\": \"主要业务:电信业务投资\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "通信服务",
+      "移动网络服务"
+    ],
+    "canonical_name_en": "Telecommunications Service",
+    "node_id": "telecom_service",
+    "updated_at": "2026-05-25T15:40:46.662316000",
+    "created_at": "2026-05-25T15:40:46.662316000",
+    "entity_type": "service",
+    "canonical_name_zh": "电信服务"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用X射线穿透人体成像原理进行医学诊断的放射影像设备。",
+    "node_uuid": "b0958a04-d68c-4a8f-839d-7606c67a9ca9",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"万东医疗主营业务\", \"source_url\": null, \"quote\": \"主要产品为医用X射线诊断设备、磁共振成像设备\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "X光机",
+      "医用X射线机"
+    ],
+    "canonical_name_en": "X-ray Diagnostic Equipment",
+    "node_id": "x_ray_equipment",
+    "updated_at": "2026-05-25T15:40:46.667319000",
+    "created_at": "2026-05-25T15:40:46.667319000",
+    "entity_type": "device",
+    "canonical_name_zh": "X射线诊断设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用强磁场和射频脉冲使人体组织产生共振信号并重建图像的医学影像设备。",
+    "node_uuid": "1fbe4062-e533-4a0d-a701-044b51686c35",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"万东医疗主营业务\", \"source_url\": null, \"quote\": \"主要产品为医用X射线诊断设备、磁共振成像设备\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "MRI",
+      "核磁共振设备"
+    ],
+    "canonical_name_en": "MRI Equipment",
+    "node_id": "mri_equipment",
+    "updated_at": "2026-05-25T15:40:46.674332000",
+    "created_at": "2026-05-25T15:40:46.674332000",
+    "entity_type": "device",
+    "canonical_name_zh": "磁共振成像设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以糯米、小麦和水为原料，经发酵酿造而成的中国传统低度酿造酒。",
+    "node_uuid": "093f27ce-c368-48cb-8b97-ea61f0e964dc",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"古越龙山主营业务\", \"source_url\": null, \"quote\": \"主要产品:绍兴加饭酒、绍兴元红酒、绍兴香雪酒、绍兴善酿酒和绍兴花雕酒等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "花雕酒",
+      "加饭酒",
+      "元红酒"
+    ],
+    "canonical_name_en": "Shaoxing Rice Wine",
+    "node_id": "shaoxing_wine",
+    "updated_at": "2026-05-25T23:03:11.135548000",
+    "created_at": "2026-05-25T23:03:11.135548000",
+    "entity_type": "material",
+    "canonical_name_zh": "绍兴黄酒"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将药物配制成供注入体内的无菌溶液、乳状液或混悬液制剂。",
+    "node_uuid": "4f407f43-c3c1-42d4-a203-100810f84315",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"华润双鹤主营业务\", \"source_url\": null, \"quote\": \"主要产品:大容量注射剂、小容量注射剂、冻干粉针剂、冲洗剂、口服溶液剂等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "针剂",
+      "注射液"
+    ],
+    "canonical_name_en": "Injection",
+    "node_id": "injection",
+    "updated_at": "2026-05-25T23:03:11.220063000",
+    "created_at": "2026-05-25T23:03:11.220063000",
+    "entity_type": "material",
+    "canonical_name_zh": "注射剂"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以聚乙烯醇为原料制成的高强度合成纤维，广泛用于水泥增强、橡胶制品等领域。",
+    "node_uuid": "b8c1c61c-810d-4676-8773-a0899016f392",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"皖维高业主营业务\", \"source_url\": null, \"quote\": \"主要产品:聚乙烯醇、高强高模PVA纤维、水泥、聚脂切片、陶瓷膜\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "聚乙烯醇纤维",
+      "维纶"
+    ],
+    "canonical_name_en": "PVA Fiber",
+    "node_id": "pva_fiber",
+    "updated_at": "2026-05-25T23:03:11.257890000",
+    "created_at": "2026-05-25T23:03:11.257890000",
+    "entity_type": "material",
+    "canonical_name_zh": "PVA纤维"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以铜或铝为导体，表面涂覆绝缘漆层的电线，用于电机、变压器等绕组。",
+    "node_uuid": "dcb7ce1f-6220-4c75-8728-aae16981ab4b",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"冠城新材主营业务\", \"source_url\": null, \"quote\": \"主要产品:漆包线、钢芯铝绞线、其他线、房地产\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "电磁线",
+      "绕组线"
+    ],
+    "canonical_name_en": "Enamelled Wire",
+    "node_id": "enamelled_wire",
+    "updated_at": "2026-05-25T23:03:11.264894000",
+    "created_at": "2026-05-25T23:03:11.264894000",
+    "entity_type": "material",
+    "canonical_name_zh": "漆包线"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用光学原理对光线进行折射、反射或聚焦的精密光学元件。",
+    "node_uuid": "040adbe6-fd83-4e13-95da-785eef2a637d",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"凤凰光学主营业务\", \"source_url\": null, \"quote\": \"主要产品:光学镜片、光学镜头、照相器材、望远镜、钢片快门、水晶饰品、电子产品及通信设备、光学原材料、仪器零配件等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "光学镜头",
+      "透镜"
+    ],
+    "canonical_name_en": "Optical Lens",
+    "node_id": "optical_lens",
+    "updated_at": "2026-05-25T23:03:11.270889000",
+    "created_at": "2026-05-25T23:03:11.270889000",
+    "entity_type": "component",
+    "canonical_name_zh": "光学镜片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将食品原料经预处理、装罐、密封、杀菌等工艺制成的可长期保存的即食食品。",
+    "node_uuid": "083e73cb-18d5-4ce2-97db-c3b651c72488",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"光明肉业主营业务\", \"source_url\": null, \"quote\": \"主要产品为猪肉、牛肉、羊肉、罐头、蜂蜜、大白兔奶糖、保健酒、味精、烘焙食品、饮用水等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "肉罐头",
+      "水果罐头"
+    ],
+    "canonical_name_en": "Canned Food",
+    "node_id": "canned_food",
+    "updated_at": "2026-05-25T23:05:00.303946000",
+    "created_at": "2026-05-25T23:05:00.303946000",
+    "entity_type": "material",
+    "canonical_name_zh": "罐头食品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以电解食盐水为基础生产的烧碱、氯气和氢气及其下游化工产品。",
+    "node_uuid": "d5fb1471-bda2-4247-b296-f58a5abaf287",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"新疆天业主营业务\", \"source_url\": null, \"quote\": \"主营业务:氯碱化工和塑料节水器材\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "聚氯乙烯",
+      "烧碱",
+      "液氯"
+    ],
+    "canonical_name_en": "Chlor-alkali Product",
+    "node_id": "chlor_alkali_product",
+    "updated_at": "2026-05-25T23:05:00.313317000",
+    "created_at": "2026-05-25T23:05:00.313317000",
+    "entity_type": "material",
+    "canonical_name_zh": "氯碱化工产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于集装箱内部的承重底板材料，需具备高强度、耐磨和防腐性能。",
+    "node_uuid": "bd485b8c-3247-4f63-8599-a2b7e103351f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"康欣新材主营业务\", \"source_url\": null, \"quote\": \"主要从事集装箱底板等优质、新型木质复合材料的研发、生产和销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "集装箱木地板",
+      "COSB底板"
+    ],
+    "canonical_name_en": "Container Floor",
+    "node_id": "container_floor",
+    "updated_at": "2026-05-25T23:05:00.321597000",
+    "created_at": "2026-05-25T23:05:00.321597000",
+    "entity_type": "component",
+    "canonical_name_zh": "集装箱底板"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以磷矿石为原料生产的黄磷、磷酸及其盐类化工产品。",
+    "node_uuid": "bb673709-66ac-4207-b1fd-95f3e9c09da2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"澄星股份主营业务\", \"source_url\": null, \"quote\": \"主要业务:黄磷、磷酸及磷酸盐类系列产品的生产和销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "黄磷",
+      "磷酸",
+      "磷酸盐"
+    ],
+    "canonical_name_en": "Phosphorus Chemical",
+    "node_id": "phosphorus_chemical",
+    "updated_at": "2026-05-25T23:05:00.327598000",
+    "created_at": "2026-05-25T23:05:00.327598000",
+    "entity_type": "material",
+    "canonical_name_zh": "磷化工产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "能使机体或机体局部暂时失去知觉及痛觉的药物，主要用于手术麻醉和疼痛管理。",
+    "node_uuid": "b1c220e0-67ef-41a3-ae32-fd0b09d3a3af",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"人福医药主营业务\", \"source_url\": null, \"quote\": \"宜昌人福枸橼酸芬太尼注射液、枸橼酸舒芬太尼注射液、注射用盐酸瑞芬太尼等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "麻醉剂",
+      "镇痛药"
+    ],
+    "canonical_name_en": "Anesthetic Product",
+    "node_id": "anesthetic_product",
+    "updated_at": "2026-05-25T23:05:00.338783000",
+    "created_at": "2026-05-25T23:05:00.338783000",
+    "entity_type": "material",
+    "canonical_name_zh": "麻醉药品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于船舶制造、维修和运营的各类机械、电气及舾装零部件。",
+    "node_uuid": "0fd3a8e3-77c5-4cbe-9319-aff06e220d9e",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中船科技主营业务\", \"source_url\": null, \"quote\": \"主要产品:工程设计、勘察、咨询和监理、工程总承包、土地整理服务、船舶配件等\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "船用配件",
+      "船舶零部件"
+    ],
+    "canonical_name_en": "Ship Accessory",
+    "node_id": "ship_accessory",
+    "updated_at": "2026-05-25T23:05:00.349687000",
+    "created_at": "2026-05-25T23:05:00.349687000",
+    "entity_type": "component",
+    "canonical_name_zh": "船舶配件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以电影、电视剧、纪录片为载体的创意内容策划、拍摄、后期制作及发行业务。",
+    "node_uuid": "61861039-dc9f-4263-a6d6-87ad6a4eb8fb",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中视传媒主营业务\", \"source_url\": null, \"quote\": \"主要业务:影视拍摄、电视剧节目制作、销售经营、影视设备租赁\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "影视拍摄",
+      "电视剧制作"
+    ],
+    "canonical_name_en": "Film Production",
+    "node_id": "film_production",
+    "updated_at": "2026-05-25T23:06:50.504415000",
+    "created_at": "2026-05-25T23:06:50.504415000",
+    "entity_type": "service",
+    "canonical_name_zh": "影视制作"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于输送和分配电能的绝缘导线，包括高压、中压和低压电缆。",
+    "node_uuid": "24cf405c-ae3b-49c3-97e6-ab0665979fa6",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"特变电工主营业务\", \"source_url\": null, \"quote\": \"主要业务:变压器、电线电缆及其辅助设备的制造与销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "电线电缆",
+      "输电线缆"
+    ],
+    "canonical_name_en": "Power Cable",
+    "node_id": "power_cable",
+    "updated_at": "2026-05-25T23:06:50.512263000",
+    "created_at": "2026-05-25T23:06:50.512263000",
+    "entity_type": "component",
+    "canonical_name_zh": "电力电缆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "可为多种机械设备提供动力的小型内燃机，广泛应用于农林机械、工程机械及发电机组。",
+    "node_uuid": "be5cdf39-e446-496b-b8f9-bf42074cb7ea",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"林海股份主营业务\", \"source_url\": null, \"quote\": \"主要产品:通用发动机及其配套的特种车辆、汽油机、摩托车及全地形车、林机\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "通用汽油机",
+      "小型发动机"
+    ],
+    "canonical_name_en": "General Purpose Engine",
+    "node_id": "general_engine",
+    "updated_at": "2026-05-25T23:06:50.582852000",
+    "created_at": "2026-05-25T23:06:50.582852000",
+    "entity_type": "device",
+    "canonical_name_zh": "通用发动机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "构成汽车整车的各类零部件，包括动力总成、底盘系统、内外饰及电子电器等。",
+    "node_uuid": "12f2e5d8-6b96-4e2a-a5dd-8261f2f12227",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"上汽集团主营业务\", \"source_url\": null, \"quote\": \"主营业务:整车(含乘用车、商用车)的研发、生产和销售,零部件的研发、生产、销售\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "汽车配件",
+      "汽车零件"
+    ],
+    "canonical_name_en": "Automobile Part",
+    "node_id": "automobile_part",
+    "updated_at": "2026-05-25T23:08:32.572004000",
+    "created_at": "2026-05-25T23:08:32.572004000",
+    "entity_type": "component",
+    "canonical_name_zh": "汽车零部件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以西式裁剪工艺制作的男士或女士套装，包括上衣和裤子/裙子，常用于商务及正式场合。",
+    "node_uuid": "183ceb4e-bf71-4365-9b90-6e8bc7635d0b",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"美尔雅主营业务\", \"source_url\": null, \"quote\": \"主要产品:美尔雅高级西服、晚礼服及职业装\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "西装",
+      "高级定制西服"
+    ],
+    "canonical_name_en": "Western Suit",
+    "node_id": "western_suit",
+    "updated_at": "2026-05-25T23:08:32.579508000",
+    "created_at": "2026-05-25T23:08:32.579508000",
+    "entity_type": "component",
+    "canonical_name_zh": "西服"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以稀土元素为主要成分，具有特殊磁、光、电、催化等功能的高性能材料。",
+    "node_uuid": "5fe54f1e-e6de-4df6-aee5-d6f0a9456bc4",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"北方稀土主营业务\", \"source_url\": null, \"quote\": \"主要生产经营稀土原料产品、稀土功能材料产品(稀土磁性材料、抛光材料、贮氢材料、发光材料、催化材料)\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "稀土磁性材料",
+      "稀土抛光材料"
+    ],
+    "canonical_name_en": "Rare Earth Functional Material",
+    "node_id": "rare_earth_functional_material",
+    "updated_at": "2026-05-25T23:08:32.584511000",
+    "created_at": "2026-05-25T23:08:32.584511000",
+    "entity_type": "material",
+    "canonical_name_zh": "稀土功能材料"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以金属粉末为原料，经压制成型和烧结工艺制成的精密机械零件。",
+    "node_uuid": "ac897020-0992-4345-9f78-8037af358032",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"东睦股份主营业务\", \"source_url\": null, \"quote\": \"摩托车、空调压缩机、冰箱压缩机、电动工具和轿车粉末冶金零件\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "粉末冶金件",
+      "金属粉末成型件"
+    ],
+    "canonical_name_en": "Powder Metallurgy Part",
+    "node_id": "powder_metallurgy_part",
+    "updated_at": "2026-05-25T23:09:47.097291000",
+    "created_at": "2026-05-25T23:09:47.097291000",
+    "entity_type": "component",
+    "canonical_name_zh": "粉末冶金零件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "围绕地球或其他天体运行的航天器，用于通信、导航、遥感及科学研究。",
+    "node_uuid": "d8a4b1d8-caf6-4b94-8082-cf1f05c3144e",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"中国卫星主营业务\", \"source_url\": null, \"quote\": \"主要产品:小卫星制造、微小卫星制造、部组件制造、卫星应用系统集成与产品制造\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "人造卫星",
+      "小卫星"
+    ],
+    "canonical_name_en": "Satellite",
+    "node_id": "satellite",
+    "updated_at": "2026-05-25T23:09:47.101289000",
+    "created_at": "2026-05-25T23:09:47.101289000",
+    "entity_type": "device",
+    "canonical_name_zh": "卫星"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.557151000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "铁路货运及物流运输服务",
+    "node_uuid": "5a5f8ec4-2e17-48cb-86b8-703c59e3f544",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 铁路物流\"}]",
+    "created_at": "2026-05-25T23:28:36.642289000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "铁路物流",
+    "node_id": "rail_logistics"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.597160000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "稻谷加工而成的食用大米",
+    "node_uuid": "2bf5fe01-a4d0-40dc-86e4-8d244e284927",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 大米\"}]",
+    "created_at": "2026-05-25T23:28:36.758122000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "大米",
+    "node_id": "rice"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.629373000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "小麦加工而成的食用面粉",
+    "node_uuid": "8ebcb384-cd77-430e-9678-386a71fe1640",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 面粉\"}]",
+    "created_at": "2026-05-25T23:28:36.791439000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "面粉",
+    "node_id": "flour"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.634561000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "商品进出口代理及贸易经纪服务",
+    "node_uuid": "24244a36-5c1f-48bb-8e32-7d8c4af560a8",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 贸易代理\"}]",
+    "created_at": "2026-05-25T23:28:36.799813000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "贸易代理",
+    "node_id": "trade_agent"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.639562000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "集聚科技企业的产业园区基础设施",
+    "node_uuid": "1d536fbc-8bff-43f4-9b15-e87b1d446f68",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 科技园区\"}]",
+    "created_at": "2026-05-25T23:28:36.806034000",
+    "confidence": "HIGH",
+    "entity_type": "infrastructure",
+    "aliases": [],
+    "canonical_name_zh": "科技园区",
+    "node_id": "tech_park"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.675461000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "大气污染治理、环保咨询及环境治理服务",
+    "node_uuid": "35f3abc9-7cb7-4812-96f1-276860301903",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 环保服务\"}]",
+    "created_at": "2026-05-25T23:28:36.836845000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "环保服务",
+    "node_id": "environmental_service"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.680548000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于摄影成像的感光材料",
+    "node_uuid": "e44e5a73-b0ad-4ed7-b02b-adbdf4a5bc79",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 感光胶片\"}]",
+    "created_at": "2026-05-25T23:28:36.844082000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "感光胶片",
+    "node_id": "photographic_film"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:17.686547000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "太阳能电池用硅片、电池片及组件材料",
+    "node_uuid": "d9bd8a75-47ea-41e6-898a-703c34ec6739",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 051: 光伏材料\"}]",
+    "created_at": "2026-05-25T23:28:36.849184000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "光伏材料",
+    "node_id": "solar_pv_material"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.766418000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "电视剧、电影及影视节目的制作与发行服务",
+    "node_uuid": "2d4c947c-5043-4f4d-b103-6e4163ae6752",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 影视传媒\"}]",
+    "created_at": "2026-05-25T23:28:41.010522000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "影视传媒",
+    "node_id": "film_tv"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.776061000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "体育赛事运营、体育场馆管理及体育经纪服务",
+    "node_uuid": "b06a34ad-2ff0-4941-8b77-3d18b03c6a8a",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 体育服务\"}]",
+    "created_at": "2026-05-25T23:28:41.015826000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "体育服务",
+    "node_id": "sports_service"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.784063000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "针织内衣及贴身服饰产品",
+    "node_uuid": "de4942de-32e8-4062-a36b-a2f1b1409a53",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 内衣\"}]",
+    "created_at": "2026-05-25T23:28:41.020287000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "内衣",
+    "node_id": "underwear"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.791634000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "汽车传动系统中的离合器总成及零部件",
+    "node_uuid": "18a87818-9633-48b7-9fc8-d91e3f247ec0",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 汽车离合器\"}]",
+    "created_at": "2026-05-25T23:28:41.027295000",
+    "confidence": "HIGH",
+    "entity_type": "component",
+    "aliases": [],
+    "canonical_name_zh": "汽车离合器",
+    "node_id": "automobile_clutch"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.798809000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "清洁供能项目投资、建设及运营服务",
+    "node_uuid": "4fe05edc-c90f-4dca-a532-717102cfc12f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 清洁能源供应\"}]",
+    "created_at": "2026-05-25T23:28:41.032297000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "清洁能源供应",
+    "node_id": "clean_energy_supply"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.806596000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "民用及军用船舶的设计、建造与修理",
+    "node_uuid": "65e8f4d7-151e-40c6-9768-80a12b2a9313",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 船舶制造\"}]",
+    "created_at": "2026-05-25T23:28:41.035515000",
+    "confidence": "HIGH",
+    "entity_type": "system",
+    "aliases": [],
+    "canonical_name_zh": "船舶制造",
+    "node_id": "shipbuilding"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.814273000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "硅片、电池片及光伏组件的制造与销售",
+    "node_uuid": "c8efbab0-3e52-4316-b386-5c05005d7f91",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 太阳能电池\"}]",
+    "created_at": "2026-05-25T23:28:41.041880000",
+    "confidence": "HIGH",
+    "entity_type": "component",
+    "aliases": [],
+    "canonical_name_zh": "太阳能电池",
+    "node_id": "solar_cell"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.821274000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "聚合物电池、铝壳电池等消费电子产品用电池",
+    "node_uuid": "79cfa260-e436-41aa-b5df-d1bf33883e20",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 消费类电池\"}]",
+    "created_at": "2026-05-25T23:28:41.046879000",
+    "confidence": "HIGH",
+    "entity_type": "component",
+    "aliases": [],
+    "canonical_name_zh": "消费类电池",
+    "node_id": "consumer_battery"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:24.828777000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "大宗商品采购、分销及供应链管理服务",
+    "node_uuid": "de4e87d8-2dbd-42ee-9e77-9707fc2fba3e",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 供应链服务\"}]",
+    "created_at": "2026-05-25T23:28:41.051382000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "供应链服务",
+    "node_id": "supply_chain_service"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:29.170620000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "PVC、PE等塑料管道型材产品",
+    "node_uuid": "6b02955a-b245-40b7-b6d9-e162d3338712",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 塑料管材\"}]",
+    "created_at": "2026-05-25T23:28:46.298951000",
+    "confidence": "HIGH",
+    "entity_type": "component",
+    "aliases": [],
+    "canonical_name_zh": "塑料管材",
+    "node_id": "plastic_pipe"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:29.177621000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "苎麻纱线、坯布及麻类纺织品",
+    "node_uuid": "ad6ac87e-20aa-4452-a71e-ea3127f53db2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 苎麻纺织\"}]",
+    "created_at": "2026-05-25T23:28:46.303001000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "苎麻纺织",
+    "node_id": "ramie_textile"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:29.184703000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "氟制冷剂、含氟聚合物及氟精细化学品",
+    "node_uuid": "d5b91e91-f1fd-45ee-963d-a32e9cf6740f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 氟化工产品\"}]",
+    "created_at": "2026-05-25T23:28:46.308959000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "氟化工产品",
+    "node_id": "fluorochemical"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:29.191702000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "人用及兽用疫苗制品",
+    "node_uuid": "a921302e-aecd-43d9-afc9-a685c2c8bff7",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 疫苗\"}]",
+    "created_at": "2026-05-25T23:28:46.314960000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "疫苗",
+    "node_id": "vaccine"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:29.230971000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "陆上及海上风力发电项目开发与运营",
+    "node_uuid": "e1e60720-f86d-4136-b53b-763f09d54b61",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 风力发电\"}]",
+    "created_at": "2026-05-25T23:28:46.347884000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "风力发电",
+    "node_id": "wind_power"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:29.237973000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "木质及煤质活性炭制品",
+    "node_uuid": "6f95c810-20fe-4b25-a58a-30e3e4b82a62",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 活性炭\"}]",
+    "created_at": "2026-05-25T23:28:46.353876000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "活性炭",
+    "node_id": "activated_carbon"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:29.270157000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "生物基可降解材料及合成树脂产品",
+    "node_uuid": "989ac9a3-365b-46be-9cf6-9ba9e2af99fe",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 生物基材料\"}]",
+    "created_at": "2026-05-25T23:28:46.378370000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "生物基材料",
+    "node_id": "biomaterial"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:33.781035000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "乘用车、商用车及新能源汽车整车制造",
+    "node_uuid": "38581d9d-e8b2-48f4-8b14-4ccb14395770",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 汽车整车\"}]",
+    "created_at": "2026-05-25T23:28:50.584071000",
+    "confidence": "HIGH",
+    "entity_type": "system",
+    "aliases": [],
+    "canonical_name_zh": "汽车整车",
+    "node_id": "automobile"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:33.793990000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "自来水生产供应、污水处理及再生水利用",
+    "node_uuid": "62b1db1d-7fe1-4075-81c5-685cbcdf801d",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 水务处理\"}]",
+    "created_at": "2026-05-25T23:28:50.590070000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "水务处理",
+    "node_id": "water_treatment"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:33.812114000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "房屋建筑、市政工程及基础设施建设施工",
+    "node_uuid": "36fc71d8-dfbd-4de1-8ced-1214587ee8cd",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 建筑工程\"}]",
+    "created_at": "2026-05-25T23:28:50.598248000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "建筑工程",
+    "node_id": "construction_engineering"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:33.823115000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "模拟和数模混合集成电路芯片设计与制造",
+    "node_uuid": "38527154-28cf-4efd-8606-23bad944b22f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 集成电路\"}]",
+    "created_at": "2026-05-25T23:28:50.605783000",
+    "confidence": "HIGH",
+    "entity_type": "component",
+    "aliases": [],
+    "canonical_name_zh": "集成电路",
+    "node_id": "integrated_circuit"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:33.834629000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "超硬材料、金刚石制品及复合材料",
+    "node_uuid": "2b942a1c-119c-4c1b-a644-4b63650a88fa",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 人造金刚石\"}]",
+    "created_at": "2026-05-25T23:28:50.612786000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "人造金刚石",
+    "node_id": "synthetic_diamond"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:33.845107000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "玻璃纤维及制品、高性能纤维及复合材料",
+    "node_uuid": "86f5f820-b1e9-48c2-9143-ea992e1f7a10",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 玻璃纤维\"}]",
+    "created_at": "2026-05-25T23:28:50.619786000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "玻璃纤维",
+    "node_id": "fiberglass"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:33.852612000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "西服、衬衫等成衣服饰产品",
+    "node_uuid": "a3f3544c-db00-44e9-9ca3-0ae3331553e4",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 服装\"}]",
+    "created_at": "2026-05-25T23:28:50.629925000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "服装",
+    "node_id": "garment"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.507340000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "汽油、柴油及新能源汽车用发动机总成",
+    "node_uuid": "b712a810-8df5-42e4-95ee-b8fea0f66ee2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 汽车发动机\"}]",
+    "created_at": "2026-05-25T23:28:54.960414000",
+    "confidence": "HIGH",
+    "entity_type": "component",
+    "aliases": [],
+    "canonical_name_zh": "汽车发动机",
+    "node_id": "auto_engine"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.516341000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "国际及国内集装箱海运、多式联运物流服务",
+    "node_uuid": "01ab5eaa-d835-423a-a253-2377a7fd91eb",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 集装箱航运\"}]",
+    "created_at": "2026-05-25T23:28:54.966920000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "集装箱航运",
+    "node_id": "container_shipping"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.525340000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "印制电路板用覆铜板和粘结片",
+    "node_uuid": "1f50226b-7653-4e29-bed2-93e80d5b3854",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 覆铜板\"}]",
+    "created_at": "2026-05-25T23:28:54.970923000",
+    "confidence": "HIGH",
+    "entity_type": "component",
+    "aliases": [],
+    "canonical_name_zh": "覆铜板",
+    "node_id": "copper_clad_laminate"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.537645000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "光学仪器、防务产品用特种玻璃材料",
+    "node_uuid": "7cc22a1b-2bdd-4c03-bbd9-a763ea5b6968",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 光学玻璃\"}]",
+    "created_at": "2026-05-25T23:28:54.976278000",
+    "confidence": "HIGH",
+    "entity_type": "material",
+    "aliases": [],
+    "canonical_name_zh": "光学玻璃",
+    "node_id": "optical_glass"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.544862000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "军用光电设备及防务系统集成产品",
+    "node_uuid": "4afd809c-a23f-4fb1-9c0b-c05a11e64160",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 防务装备\"}]",
+    "created_at": "2026-05-25T23:28:54.981278000",
+    "confidence": "HIGH",
+    "entity_type": "system",
+    "aliases": [],
+    "canonical_name_zh": "防务装备",
+    "node_id": "defense_equipment"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.554175000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "离岛免税、口岸免税及市内免税商品销售",
+    "node_uuid": "f37595e5-796d-482f-9805-06dda9c49835",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 免税商品\"}]",
+    "created_at": "2026-05-25T23:28:54.986366000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "免税商品",
+    "node_id": "duty_free"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.562222000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "城市市政供排水及水务基础设施运营",
+    "node_uuid": "d279a14e-1a46-45fd-acd8-e98650f3b2a0",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 供水服务\"}]",
+    "created_at": "2026-05-25T23:28:54.991367000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "供水服务",
+    "node_id": "water_supply_service"
+  },
+  {
+    "updated_at": "2026-05-25T23:29:38.568220000",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "煤炭开采、洗选加工及煤化工",
+    "node_uuid": "c73b0c71-c1f9-4d5d-94eb-f857beefaef2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 煤炭开采\"}]",
+    "created_at": "2026-05-25T23:28:54.996365000",
+    "confidence": "HIGH",
+    "entity_type": "service",
+    "aliases": [],
+    "canonical_name_zh": "煤炭开采",
+    "node_id": "coal_mining"
   }
 ]

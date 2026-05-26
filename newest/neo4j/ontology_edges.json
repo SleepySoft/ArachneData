@@ -82,5 +82,33 @@
     "__to": "special_steel",
     "confidence": "HIGH",
     "edge_uuid": "1367dd49-e52b-4b4c-b960-81adfc00b383"
+  },
+  {
+    "__type": "ONTOLOGY",
+    "edge_type": "is_a",
+    "updated_at": "2026-05-25T14:50:09.379269000",
+    "edge_id": "compound_fertilizer_is_a_chemical_fertilizer",
+    "description": "复合肥是一种化学肥料，含有两种或两种以上营养元素。",
+    "evidence": "[{\"source_title\": \"化肥分类常识\", \"source_url\": null, \"quote\": \"复合肥是指含有氮、磷、钾三种元素中至少两种的化学肥料\"}]",
+    "edge_namespace": "ontology",
+    "created_at": "2026-05-25T14:50:09.379269000",
+    "__from": "compound_fertilizer",
+    "__to": "chemical_fertilizer",
+    "confidence": "HIGH",
+    "edge_uuid": "c9b528a9-d272-4cb9-b936-84195b6baf9e"
+  },
+  {
+    "__type": "ONTOLOGY",
+    "edge_type": "is_a",
+    "updated_at": "2026-05-25T15:04:41.228920000",
+    "edge_id": "non_crystalline_is_a_magnetic",
+    "description": "非晶合金是一种具有优异软磁性能的磁性材料，属于alias/synonym关系中的is_a分类。",
+    "evidence": "[{\"source_title\": \"材料分类\", \"source_url\": null, \"quote\": \"非晶合金属于软磁材料的一种\"}]",
+    "edge_namespace": "ontology",
+    "created_at": "2026-05-25T15:04:41.228920000",
+    "__from": "non_crystalline_alloy",
+    "__to": "magnetic_material",
+    "confidence": "HIGH",
+    "edge_uuid": "fd8f1111-424d-4ee5-9887-f9672396f437"
   }
 ]
