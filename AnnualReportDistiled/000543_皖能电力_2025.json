@@ -1,0 +1,423 @@
+{
+  "company_name_mentioned": "安徽省皖能股份有限公司",
+  "produces": [
+    {
+      "name": "电力及相关产品",
+      "type": "service",
+      "revenue_proportion": "85.89%",
+      "quote": "分产品 电力及相关产品 23,451,689,115.81 85.89%"
+    },
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": "11.39%",
+      "quote": "分产品 煤炭 3,110,940,532.73 11.39%"
+    },
+    {
+      "name": "运输",
+      "type": "service",
+      "revenue_proportion": "1.50%",
+      "quote": "分产品 运输 409,086,516.86 1.50%"
+    },
+    {
+      "name": "垃圾处理",
+      "type": "service",
+      "revenue_proportion": "1.01%",
+      "quote": "分产品 垃圾处理 274,975,164.92 1.01%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃煤",
+      "target_product": "电力",
+      "cost_proportion": "59.58% (占发电行业营业成本比重)",
+      "quote": "分行业 发电行业 原材料 13,622,690,968.55 59.58%"
+    },
+    {
+      "name": "石灰石",
+      "target_product": "电力（脱硫）",
+      "cost_proportion": null,
+      "quote": "公司主要采购燃煤、石灰石等原材料。"
+    },
+    {
+      "name": "设备及配件",
+      "target_product": "电力生产",
+      "cost_proportion": null,
+      "quote": "公司主要采购燃煤、石灰石等原材料，以及设备及配件等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工商业生产和居民生活用电",
+      "source_product": "电力",
+      "quote": "公司所售电力最终用于工商业生产和居民生活用电。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李明",
+      "role": "董事长",
+      "quote": "公司负责人李明、主管会计工作负责人徐文宫及会计机构负责人（会计主管人员）陈新宜声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "徐文宫",
+      "role": "总经理",
+      "quote": "徐文宫：男，工程硕士，高级工程师。现任本公司党委书记、董事、总经理。"
+    },
+    {
+      "name": "卢浩",
+      "role": "副董事长",
+      "quote": "卢浩：男，博士研究生，管理学博士，高级经济师。现任安徽省能源集团有限公司党委委员、副总经理，本公司副董事长。"
+    },
+    {
+      "name": "刘亚成",
+      "role": "董事",
+      "quote": "刘亚成：男，硕士研究生，工学硕士，高级工程师。现任安徽省能源集团有限公司党委委员、副总经理，安徽省页岩气开发有限公司董事长、总经理，煤制天然气项目筹备处主任，本公司董事。"
+    },
+    {
+      "name": "沈春水",
+      "role": "董事会秘书",
+      "quote": "沈春水：男，研究生，会计师。现任本公司董事会秘书。"
+    },
+    {
+      "name": "陈新宜",
+      "role": "财务总监",
+      "quote": "陈新宜：女，本科，管理学学士。现任本公司党委委员、财务总监。"
+    },
+    {
+      "name": "刘养炯",
+      "role": "总工程师",
+      "quote": "刘养炯：男，研究生，工商管理硕士，高级工程师。现任本公司总工程师兼氨邦科技有限公司董事长。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "安徽省能源集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股54.93%。",
+      "quote": "控股股东名称：安徽省能源集团有限公司；控股股东性质：地方国有控股；控股股东类型：法人"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年第一大客户，销售额占年度销售总额比例81.21%。",
+      "quote": "公司前5大客户资料 序号 1 客户名称 国家电网有限公司 销售额（元） 22,175,968,284.23 占年度销售总额比例 81.21%"
+    },
+    {
+      "name": "中煤新集利辛发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司。",
+      "quote": "中煤新集利辛、利辛公司 指 中煤新集利辛发电有限公司"
+    },
+    {
+      "name": "国能神皖能源有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，持股49%。",
+      "quote": "神皖能源公司、国能神皖能源公司 指 国能神皖能源有限责任公司"
+    },
+    {
+      "name": "氨邦科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司研发平台，聚焦绿色氨燃料技术。",
+      "quote": "氨邦科技公司、氨邦科技、氨邦公司 指 氨邦科技有限公司"
+    },
+    {
+      "name": "聚变新能（安徽）有限公司",
+      "relation_type": "investor",
+      "business_details": "间接参股，布局聚变产业链。",
+      "quote": "间接参股聚变新能（安徽）有限公司，建设紧凑型聚变试验装置（BEST），布局聚变产业链集群。"
+    },
+    {
+      "name": "东方电气风电股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "共同成立合资公司，开发木垒100万千瓦风电项目，皖能能源交易持股51%，东方风电持股49%。",
+      "quote": "交易公司与东方风电共同成立合资公司，其中交易公司持股51%。东方风电持股 49%。合资公司注册资本为：185,683.0205 万元"
+    },
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "2025年度年报审计机构。",
+      "quote": "会计师事务所名称 容诚会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力及相关产品",
+      "segment_type": "product_line",
+      "revenue_amount": "23,451,689,115.81元",
+      "revenue_proportion": "85.89%",
+      "gross_margin": "17.59%",
+      "yoy_change": "-1.09%",
+      "quote": "分产品 电力及相关产品 23,451,689,115.81 85.89% -1.09% 17.59% 3.69%"
+    },
+    {
+      "name": "煤炭",
+      "segment_type": "product_line",
+      "revenue_amount": "3,110,940,532.73元",
+      "revenue_proportion": "11.39%",
+      "gross_margin": "0.97%",
+      "yoy_change": "-43.86%",
+      "quote": "分产品 煤炭 3,110,940,532.73 11.39% -43.86% 0.97% 0.20%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "24,277,703,381.28元",
+      "revenue_proportion": "88.91%",
+      "gross_margin": "12.65%",
+      "yoy_change": "-13.48%",
+      "quote": "分地区 华东地区 24,277,703,381.28 88.91% -13.48% 12.65% 2.45%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "2,997,572,509.67元",
+      "revenue_proportion": "10.98%",
+      "gross_margin": null,
+      "yoy_change": "49.56%",
+      "quote": "分地区 西北地区 2,997,572,509.67 10.98% 49.56%"
+    },
+    {
+      "name": "发电行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "23,451,689,115.81元",
+      "revenue_proportion": "85.89%",
+      "gross_margin": null,
+      "yoy_change": "-1.09%",
+      "quote": "分行业 发电行业 23,451,689,115.81 85.89% -1.09%"
+    },
+    {
+      "name": "煤炭行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,110,940,532.73元",
+      "revenue_proportion": "11.39%",
+      "gross_margin": null,
+      "yoy_change": "-43.86%",
+      "quote": "分行业 煤炭行业 3,110,940,532.73 11.39% -43.86%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "发电机组",
+      "metric_type": "capacity",
+      "value": "1912万千瓦",
+      "period": "2025年末",
+      "quote": "主要生产经营信息 项目 总装机容量（万千瓦） 本报告期 1,912"
+    },
+    {
+      "product": "发电机组",
+      "metric_type": "production_volume",
+      "value": "622.1亿千瓦时",
+      "period": "2025年",
+      "quote": "主要生产经营信息 项目 发电量（亿千瓦时） 本报告期 622.1"
+    },
+    {
+      "product": "发电机组",
+      "metric_type": "sales_volume",
+      "value": "585.6亿千瓦时",
+      "period": "2025年",
+      "quote": "主要生产经营信息 项目 上网电量或售电量（亿千瓦时） 本报告期 585.6"
+    },
+    {
+      "product": "售电业务",
+      "metric_type": "sales_volume",
+      "value": "124.56亿千瓦时",
+      "period": "2025年",
+      "quote": "2025年公司下属售电公司、能源交易公司共销售电量124.56亿千瓦时。"
+    },
+    {
+      "product": "发电机组",
+      "metric_type": "capacity_utilization",
+      "value": "4352小时",
+      "period": "2025年",
+      "quote": "主要生产经营信息 项目 发电厂利用小时数（小时） 本报告期 4,352"
+    },
+    {
+      "product": "发电厂",
+      "metric_type": "other",
+      "value": "5.86%",
+      "period": "2025年",
+      "quote": "主要生产经营信息 项目 发电厂平均用电率（%） 本报告期 5.86%"
+    },
+    {
+      "product": "发电机组",
+      "metric_type": "capacity",
+      "value": "100万千瓦",
+      "period": "2025年",
+      "quote": "新投产机组的装机容量（万千瓦） 100"
+    },
+    {
+      "product": "发电机组",
+      "metric_type": "capacity",
+      "value": "425万千瓦",
+      "period": "2025年",
+      "quote": "在建项目的计划装机容量（万千瓦） 425"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "钱营孜二期百万千瓦煤电机组",
+      "project_type": "capacity_expansion",
+      "location": "安徽",
+      "investment_amount": null,
+      "designed_capacity": "百万千瓦",
+      "progress": "顺利投产",
+      "expected_completion_time": null,
+      "quote": "钱营孜二期百万千瓦煤电机组顺利投产"
+    },
+    {
+      "name": "新疆奇台80万千瓦光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "新疆奇台",
+      "investment_amount": null,
+      "designed_capacity": "80万千瓦",
+      "progress": "全容量并网",
+      "expected_completion_time": "2025年12月27日",
+      "quote": "2025年12月27日，新疆奇台80万光伏全容量并网"
+    },
+    {
+      "name": "明阳吐鲁番一二期合计75万千瓦风电项目",
+      "project_type": "acquisition_project",
+      "location": "新疆吐鲁番",
+      "investment_amount": null,
+      "designed_capacity": "75万千瓦",
+      "progress": "并购完成",
+      "expected_completion_time": null,
+      "quote": "在新疆成功实施的合计175万千瓦的并购项目：明阳吐鲁番一二期合计75万千瓦风电"
+    },
+    {
+      "name": "东方电气木垒100万千瓦风电项目",
+      "project_type": "acquisition_project",
+      "location": "新疆木垒",
+      "investment_amount": null,
+      "designed_capacity": "100万千瓦",
+      "progress": "并购完成，合资公司设立",
+      "expected_completion_time": null,
+      "quote": "东方电气木垒100万千瓦风电"
+    },
+    {
+      "name": "滁州南谯区30万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽滁州",
+      "investment_amount": null,
+      "designed_capacity": "30万千瓦",
+      "progress": "申报获批",
+      "expected_completion_time": null,
+      "quote": "利用省内煤电配套新能源指标申报获批30万千瓦，即滁州南谯区30万千瓦风电项目"
+    },
+    {
+      "name": "“陕电入皖”项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "取得实质进展",
+      "expected_completion_time": null,
+      "quote": "“陕电入皖”项目取得实质进展。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "煤电机组掺烧绿氨技术",
+      "asset_type": "core_technology",
+      "related_product": "氨能综合利用",
+      "quantitative_info": "完成全国首次1000MW机组液氨直接燃烧试验；荣获国家能源局“首台套”等多项荣誉。",
+      "quote": "在氨能燃烧技术领域已取得重大突破，荣获国家能源局“首台套”等多项荣誉，相关成果水平国内领先、国际先进。"
+    },
+    {
+      "name": "智慧监盘系统",
+      "asset_type": "technical_platform",
+      "related_product": "火电厂运行优化",
+      "quantitative_info": null,
+      "quote": "安徽钱营孜百万超超临界机组智慧监盘系统开发与应用"
+    },
+    {
+      "name": "5G专网及安全智能管控系统",
+      "asset_type": "process_technology",
+      "related_product": "火电厂安全管理",
+      "quantitative_info": null,
+      "quote": "皖能铜陵大型火电企业安全智能管控系统研发"
+    },
+    {
+      "name": "超净排放技术",
+      "asset_type": "process_technology",
+      "related_product": "燃煤电厂环保",
+      "quantitative_info": "烟尘≤5mg/Nm³、氮氧化物≤35/Nm³、二氧化硫≤25mg/Nm³",
+      "quote": "临涣中利高效环保超净排放技术创新与应用"
+    },
+    {
+      "name": "大型液氨蒸发器",
+      "asset_type": "other",
+      "related_product": "掺氨燃烧关键设备",
+      "quantitative_info": null,
+      "quote": "皖能氨邦科技大型蒸发器升级优化"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "专利授权58项，其中发明专利9项",
+      "quote": "专利授权58项，其中发明专利9项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "88.92%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 24,280,771,436.61 前五名客户合计销售金额占年度销售总额比例 88.92%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "81.21%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 1 客户名称 国家电网有限公司 销售额（元） 22,175,968,284.23 占年度销售总额比例 81.21%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "38.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 8,805,807,559.87 前五名供应商合计采购金额占年度采购总额比例 38.51%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "13.49%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 1 供应商名称 供应商一 采购额（元） 3,083,104,340.07 占年度采购总额比例 13.49%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "燃料成本管控压力持续加大。煤炭市场走势不确定性增强，价格波动给燃料成本预测、采购节奏把控、库存策略优化带来较大难度，所属发电企业难以有效锁定成本区间。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "（三）燃料成本管控压力持续加大。近年来，煤炭市场走势不确定性增强，价格波动给燃料成本预测、采购节奏把控、库存策略优化带来较大难度，所属发电企业难以有效锁定成本区间。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场化改革加速推进，电力市场化交易电量和电价的不确定性风险日益凸显。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "（二）电力市场交易不确定性增加。随着电力体制改革深入，市场化交易电量和电价的不确定性风险日益凸显。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "“十五五”期间，绿色低碳转型要求大幅提升可再生能源消费比重。传统发电企业盈利模式面临严峻考验。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（一）宏观环境与行业转型双重挤压。“十五五”期间，国家能源安全新战略深化实施，绿色低碳转型要求大幅提升可再生能源消费比重。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "省内装机容量快速增长，受新能源波动性、间歇性及外来电冲击影响，公司机组利用小时数预计下滑，电量主体地位向保供兜底转变。",
+      "related_entity": null,
+      "related_product": "火电",
+      "quote": "同时，省内装机容量快速增长，受新能源波动性、间歇性及外来电冲击影响，公司机组利用小时数预计下滑，电量主体地位向保供兜底转变，经营压力增大。"
+    }
+  ]
+}

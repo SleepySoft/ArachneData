@@ -1,0 +1,453 @@
+{
+  "company_name_mentioned": "云鼎科技股份有限公司",
+  "produces": [
+    {
+      "name": "鼎云工业互联网平台",
+      "type": "software",
+      "revenue_proportion": "34.21%",
+      "quote": "公司主要业务包括工业互联网业务、智能矿山业务、智能洗选业务、智慧电力新能源业务、智慧化工业务、ERP实施及运维服务业务。"
+    },
+    {
+      "name": "AI大模型及相关应用场景解决方案",
+      "type": "technology",
+      "revenue_proportion": "报告期内，公司AI业务确认收入2.53亿元。",
+      "quote": "打造全球首个矿山领域AI大模型，成功发布“伏羲化工大模型”，具备视觉、自然语言、预测推演、多模态四大能力...公司基于AI大模型技术已开发覆盖矿山、化工、油气等领域220余类应用场景的智能化解决方案。"
+    },
+    {
+      "name": "智能矿山产品及解决方案",
+      "type": "service",
+      "revenue_proportion": "29.59%",
+      "quote": "公司智能矿山业务是利用新一代信息技术...实现矿山生产环境的全域感知...主要包括地质生态产品、智能软件产品、智能物联产品、智能定位产品四大类。"
+    },
+    {
+      "name": "智能洗选产品及解决方案",
+      "type": "service",
+      "revenue_proportion": "20.02%",
+      "quote": "智能洗选业务在传统工业自动化基础上...帮助选煤厂...实现自动监测、智能控制、智能管理与决策等功能...主要产品和服务包括煤炭洗选自动化系统集成、选煤厂智能化解决方案、智能在线灰分检测系统和工矿智能化配套设备。"
+    },
+    {
+      "name": "ERP实施及运维服务",
+      "type": "service",
+      "revenue_proportion": "13.63%",
+      "quote": "ERP实施及运维服务业务主要是为企业数字化转型提供数字化创新服务、套装软件咨询及实施、IT开发管理解决方案和服务..."
+    },
+    {
+      "name": "智能电力新能源产品及解决方案",
+      "type": "service",
+      "revenue_proportion": "2.24%",
+      "quote": "智慧电力新能源业务依托工业互联网平台，结合火电、风电、光伏等电力行业自身特点...主要产品有风光储集控巡检运维系统、新能源功率预测与交易决策系统..."
+    },
+    {
+      "name": "智能高低压配电设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要是各类智能高低压开关柜，公司在传统的高低压开关柜基础上开发了远程停送电系统..."
+    },
+    {
+      "name": "工业视觉智能一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "为工业场景定制的智能视觉平台，内置矿山、化工、油气等领域丰富的即用模型，通过“硬件+模型+平台+场景”的深度整合，实现了工业大模型与边缘计算的创新协同。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、服务",
+      "target_product": null,
+      "cost_proportion": "79.60%",
+      "quote": "2025年 原材料、服务 844,021,947.28 79.60%"
+    },
+    {
+      "name": "人员费用",
+      "target_product": null,
+      "cost_proportion": "19.60%",
+      "quote": "2025年 人员费用 207,800,045.34 19.60%"
+    },
+    {
+      "name": "设备、软件、服务",
+      "target_product": "工业智能软硬件产品体系",
+      "cost_proportion": null,
+      "quote": "公司采取“以产定购”的采购模式，按照“物资全链条总成本最优”的采购理念，通过信息化手段实现采购需求、招采作业、交付进度全流程管控，严格执行供应商全生命周期线上管理，保障采购质量，控制采购成本。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "矿山（煤矿及非煤矿山）",
+      "source_product": "智能矿山业务、智能洗选业务、AI大模型",
+      "quote": "公司深耕信息技术与能源行业融合应用的细分领域...为矿山、化工、电力新能源等行业客户提供集系统研发、设计、实施、运营、维护于一体的信息化、数字化、智能化综合解决方案。"
+    },
+    {
+      "name": "化工（煤化工、焦化工、盐化工、精细化工等）",
+      "source_product": "智慧化工业务、AI大模型",
+      "quote": "智慧化工业务聚焦行业的数智化转型，深度践行“人工智能+化工”战略...围绕煤化工、焦化工、盐化工、精细化工等领域的核心工艺、管理流程及安全环保痛点..."
+    },
+    {
+      "name": "电力新能源（火电、风电、光伏、储能等）",
+      "source_product": "智慧电力新能源业务",
+      "quote": "智慧电力新能源业务依托工业互联网平台，结合火电、风电、光伏等电力行业自身特点..."
+    },
+    {
+      "name": "采煤、掘进、主运、通风等煤矿生产环节",
+      "source_product": "AI应用平台",
+      "quote": "当前已覆盖煤矿中采煤、掘进、主运等主要专业与油气、电力、化工、园区、制造等各类行业场景。"
+    },
+    {
+      "name": "选煤厂",
+      "source_product": "智能洗选业务",
+      "quote": "智能洗选业务...帮助选煤厂在煤炭洗选生产过程中实现自动监测、智能控制、智能管理与决策等功能..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘波",
+      "role": "董事、总经理",
+      "quote": "公司负责人刘波先生、主管会计工作负责人郑云红先生及会计机构负责人杨豹先生声明..."
+    },
+    {
+      "name": "郑云红",
+      "role": "董事、财务总监",
+      "quote": "公司负责人刘波先生、主管会计工作负责人郑云红先生及会计机构负责人杨豹先生声明..."
+    },
+    {
+      "name": "杨豹",
+      "role": "会计机构负责人",
+      "quote": "公司负责人刘波先生、主管会计工作负责人郑云红先生及会计机构负责人杨豹先生声明..."
+    },
+    {
+      "name": "刘健",
+      "role": "董事长",
+      "quote": "姓名 刘健 男 57 现任 董事长"
+    },
+    {
+      "name": "曹怀轩",
+      "role": "董事、副总经理、安全总监",
+      "quote": "姓名 曹怀轩 男 46 现任 董事、副总经理、安全总监"
+    },
+    {
+      "name": "向瑛",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 向瑛"
+    },
+    {
+      "name": "周建朋",
+      "role": "副总经理、运营总监",
+      "quote": "姓名 周建朋 男 47 现任 副总经理、运营总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "山东能源集团有限公司",
+      "relation_type": "customer",
+      "business_details": "控股股东，也是第一大客户。公司为山能集团及其下属企业提供智能化解决方案。",
+      "quote": "控股股东性质：地方国有控股...控股股东名称 山能集团...公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 山能集团 1,012,086,470.24 66.27%"
+    },
+    {
+      "name": "北斗天地股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事信息技术服务和工业智能化应用，公司持有其95.34%股权。",
+      "quote": "北斗天地股份有限公司，主要从事信息技术服务和工业智能化应用，截至本报告期末公司持有其95.34%股权"
+    },
+    {
+      "name": "山东能源数字科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事提供ERP系统的解决方案及实施、运维服务，公司持有其50.10%股权。",
+      "quote": "山东能源数字科技有限公司，主要从事提供ERP系统的解决方案及实施、运维服务，截至本报告期末公司持有其50.10%股权"
+    },
+    {
+      "name": "天津德通电气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事提供选煤厂自动化与智能化解决方案及相关配套设备的生产及销售，公司持有其57.41%股权。",
+      "quote": "天津德通电气有限公司，主要从事提供选煤厂自动化与智能化解决方案及相关配套设备的生产及销售，截至本报告期末公司持有其57.41%股权"
+    },
+    {
+      "name": "山东能源集团财务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东控制的子公司，为公司提供金融服务。",
+      "quote": "山东能源集团财务有限公司（“山能财务公司”）...山能财务公司在经营范围内为公司及公司控股子公司提供存款、综合授信、其他金融服务..."
+    },
+    {
+      "name": "山东黄金",
+      "relation_type": "customer",
+      "business_details": "公司与其建立业务链接，拓展非煤矿山市场。",
+      "quote": "公司积极联动华为、腾讯、中控等生态伙伴，与山东黄金、万华化学等16家目标客户建立业务链接..."
+    },
+    {
+      "name": "万华化学",
+      "relation_type": "customer",
+      "business_details": "公司与其建立业务链接。",
+      "quote": "公司积极联动华为、腾讯、中控等生态伙伴，与山东黄金、万华化学等16家目标客户建立业务链接..."
+    },
+    {
+      "name": "华为",
+      "relation_type": "competitor",
+      "business_details": "生态伙伴，公司在AI技术上有合作，同时也面临其跨界竞争。",
+      "quote": "公司不仅面临传统服务商的挑战，也需应对大型科技企业的跨界竞争...公司积极联动华为、腾讯、中控等生态伙伴..."
+    },
+    {
+      "name": "腾讯",
+      "relation_type": "competitor",
+      "business_details": "生态伙伴，联合发布数据治理白皮书。",
+      "quote": "联合腾讯云发布《矿业数据治理白皮书》...公司积极联动华为、腾讯、中控等生态伙伴..."
+    },
+    {
+      "name": "安徽丰原集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东。",
+      "quote": "公司持股5%以上股东安徽丰原集团有限公司因自身生产经营需要..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业互联网平台产品",
+      "segment_type": "product_line",
+      "revenue_amount": "522,380,606.26",
+      "revenue_proportion": "34.21%",
+      "gross_margin": "26.30%",
+      "yoy_change": "56.88%",
+      "quote": "分产品 工业互联网平台产品 522,380,606.26 34.21%"
+    },
+    {
+      "name": "智能矿山产品及解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "451,888,651.57",
+      "revenue_proportion": "29.59%",
+      "gross_margin": "28.93%",
+      "yoy_change": "-3.49%",
+      "quote": "分产品 智能矿山产品及解决方案 451,888,651.57 29.59%"
+    },
+    {
+      "name": "智能洗选产品及解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "305,685,103.14",
+      "revenue_proportion": "20.02%",
+      "gross_margin": "38.86%",
+      "yoy_change": "-1.66%",
+      "quote": "分产品 智能洗选产品及解决方案 305,685,103.14 20.02%"
+    },
+    {
+      "name": "ERP实施及运维服务",
+      "segment_type": "product_line",
+      "revenue_amount": "208,077,988.32",
+      "revenue_proportion": "13.63%",
+      "gross_margin": "32.34%",
+      "yoy_change": "9.61%",
+      "quote": "分产品 ERP实施及运维服务 208,077,988.32 13.63%"
+    },
+    {
+      "name": "智能电力新能源产品及解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "34,267,594.86",
+      "revenue_proportion": "2.24%",
+      "gross_margin": null,
+      "yoy_change": "49.64%",
+      "quote": "分产品 智能电力新能源产品及解决方案 34,267,594.86 2.24%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "899,145,260.82",
+      "revenue_proportion": "58.88%",
+      "gross_margin": "30.13%",
+      "yoy_change": "8.75%",
+      "quote": "分地区 华东地区 899,145,260.82 58.88%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "328,244,399.52",
+      "revenue_proportion": "21.49%",
+      "gross_margin": "34.59%",
+      "yoy_change": "59.69%",
+      "quote": "分地区 华北地区 328,244,399.52 21.49%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "251,155,328.92",
+      "revenue_proportion": "16.45%",
+      "gross_margin": "28.60%",
+      "yoy_change": "-10.59%",
+      "quote": "分地区 西北地区 251,155,328.92 16.45%"
+    },
+    {
+      "name": "煤炭开采和洗选业客户",
+      "segment_type": "customer_type",
+      "revenue_amount": "704,425,258.42",
+      "revenue_proportion": null,
+      "gross_margin": "32.45%",
+      "yoy_change": "-4.64%",
+      "quote": "分客户所处行业 煤炭开采和洗选业 704,425,258.42 475,857,930.76 32.45% -4.64%"
+    },
+    {
+      "name": "信息技术服务业客户",
+      "segment_type": "customer_type",
+      "revenue_amount": "156,459,018.69",
+      "revenue_proportion": null,
+      "gross_margin": "16.79%",
+      "yoy_change": "40.35%",
+      "quote": "分客户所处行业 软件和信息技术服务业 156,459,018.69 130,195,130.32 16.79% 40.35%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "AI业务确认收入2.53亿元",
+      "period": "报告期",
+      "quote": "报告期内，公司AI业务确认收入2.53亿元。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "低代码平台V2.0研究与应用",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "项目名称 低代码平台V2.0研究与应用...进展 已结项"
+    },
+    {
+      "name": "矿山AI模型国产化适配及轻量化部署研究与应用",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "项目名称 矿山AI模型国产化适配及轻量化部署研究与应用...进展 已结项"
+    },
+    {
+      "name": "基于煤矿安全生产的行业高质量数据集技术研究及应用",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "项目名称 基于煤矿安全生产的行业高质量数据集技术研究及应用...进展 已结项"
+    },
+    {
+      "name": "矿山领域人工智能大模型智能体研究与开发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "项目名称 矿山领域人工智能大模型智能体研究与开发...进展 已结项"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "矿山领域AI大模型",
+      "asset_type": "core_technology",
+      "related_product": "AI大模型及相关应用场景解决方案",
+      "quantitative_info": "全球首个商用于矿山行业的人工智能大模型；已成功构建220余类人工智能应用场景",
+      "quote": "公司与合作伙伴联合发布了全球首个商用于矿山行业的人工智能大模型...已成功构建220余类人工智能应用场景..."
+    },
+    {
+      "name": "鼎云工业互联网平台",
+      "asset_type": "technical_platform",
+      "related_product": "工业互联网平台产品",
+      "quantitative_info": "跨行业、跨领域工业互联网平台",
+      "quote": "依托自主研发的跨行业、跨领域鼎云工业互联网平台..."
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "合计拥有发明专利55项",
+      "quote": "截至本报告期末，公司合计拥有发明专利55项..."
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "软件著作权420项",
+      "quote": "截至本报告期末，公司合计拥有...软件著作权420项..."
+    },
+    {
+      "name": "AI应用平台、低代码平台",
+      "asset_type": "core_technology",
+      "related_product": "工业互联网平台产品",
+      "quantitative_info": "成功入选第八批、第九批山东省首版次高端软件名单",
+      "quote": "AI应用平台、低代码平台成功入选第八批、第九批山东省首版次高端软件名单。"
+    },
+    {
+      "name": "人员精确定位系统",
+      "asset_type": "core_technology",
+      "related_product": "智能定位产品",
+      "quantitative_info": "系统整体符合最新煤矿井下人员定位系统通用技术条件（AQ1119-2023）相关要求",
+      "quote": "以UWB定位模组为基础...该系统整体符合最新煤矿井下人员定位系统通用技术条件（AQ1119-2023）相关要求。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "83.92%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 83.92%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "66.27%",
+      "related_entity": "山能集团",
+      "period": "2025年度",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 山能集团 1,012,086,470.24 66.27%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "15.03%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 15.03%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "鉴于关联销售和关联方应收账款涉及金额较大，是否真实发生或存在、关联销售价格公允性对财务报表影响较大。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司客户集中度较高，前五大客户销售占比83.92%，其中第一大客户（山能集团）销售占比66.27%，对控股股东存在重大依赖。",
+      "related_entity": "山能集团",
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 83.92%...前五名客户销售额中关联方销售额占年度销售总额比例 74.85%...公司前5大客户资料 1 山能集团 1,012,086,470.24 66.27%"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司所在的行业竞争日益激烈，呈现出生态化、融合化的竞争态势。公司不仅面临传统服务商的挑战，也需应对大型科技企业的跨界竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司所在的行业在数字经济发展趋势与相关政策的推动下，竞争日益激烈，呈现出生态化、融合化的竞争态势。公司不仅面临传统服务商的挑战，也需应对大型科技企业的跨界竞争..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "人工智能与先进制造技术正加速结合，行业技术更新换代节奏不断加快。公司面临研发方向选择偏差、关键技术储备不足或更新不及时等挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人工智能与先进制造技术正加速结合，行业技术更新换代节奏不断加快。公司面临研发方向选择偏差、关键技术储备不足或更新不及时等挑战..."
+    },
+    {
+      "risk_type": "other",
+      "description": "人才流失风险：市场对既懂技术又懂业务的复合型高端人才争夺日趋激烈，公司可能面临核心技术骨干流失风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在数字化转型深入推进的背景下，市场对既懂技术又懂业务的复合型高端人才争夺日趋激烈。公司可能面临核心技术骨干流失、人才梯队建设与员工职业发展需求脱节等风险..."
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司涉及与广东华立实业集团公司的历史债权诉讼，以及就泰德新能源贷款担保代偿的诉讼，相关案件仍在执行阶段，暂无法判断对公司利润的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司于2005年12月13日向广东省茂名市中级人民法院递交了诉前财产保全申请并就华立集团对公司债务提起诉讼...公司向济南市历下区人民法院诉求判令泰德新能源偿还代偿款19,991,339.47元及利息...本案已终审判决...因本案件尚处于执行阶段，暂无法判断对公司本期及期后利润的影响。"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "company_name_mentioned": "国泰海通证券股份有限公司",
+  "produces": [
+    {
+      "name": "财富管理业务",
+      "type": "service",
+      "revenue_proportion": "报告期营业收入为24，949，618，551元，占总营业收入的39.52%（根据下表计算）",
+      "quote": "财富管理 24,949,618,551 ... 占总营业收入的比例(%) 39.52"
+    },
+    {
+      "name": "投资银行业务",
+      "type": "service",
+      "revenue_proportion": "报告期营业收入为4，746，946，908元，占总营业收入的7.52%（根据下表计算）",
+      "quote": "投资银行 4,746,946,908 ... 占总营业收入的比例(%) 7.52"
+    },
+    {
+      "name": "机构及交易业务",
+      "type": "service",
+      "revenue_proportion": "报告期营业收入为19，594，461，418元，占总营业收入的31.05%（根据下表计算）",
+      "quote": "机构及交易 19,594,461,418 ... 占总营业收入的比例(%) 31.05"
+    },
+    {
+      "name": "投资管理业务",
+      "type": "service",
+      "revenue_proportion": "报告期营业收入为7，615，891，734元，占总营业收入的12.07%（根据下表计算）",
+      "quote": "投资管理 7,615,891,734 ... 占总营业收入的比例(%) 12.07"
+    },
+    {
+      "name": "融资租赁业务",
+      "type": "service",
+      "revenue_proportion": "报告期营业收入为5，490，588，613元，占总营业收入的8.70%（根据下表计算）",
+      "quote": "融资租赁 5,490,588,613 ... 占总营业收入的比例(%) 8.70"
+    }
+  ],
+  "procures": [
+    {
+      "name": "业务及管理费",
+      "target_product": "公司运营",
+      "cost_proportion": "本年占总支出比例84.36%",
+      "quote": "业务及管理费 28,183,130,181 84.36 16,462,296,793 96.75 71.20"
+    },
+    {
+      "name": "信用减值损失",
+      "target_product": "公司资产",
+      "cost_proportion": "本年占总支出比例11.56%",
+      "quote": "信用减值损失 3,863,344,238 11.56 249,973,085 1.47 1,445.50"
+    }
+  ],
+  "applications": [
+    {
+      "name": "科技创新",
+      "source_product": "投资银行业务、财富管理业务、另类投资等",
+      "quote": "科技金融赋能彰显，强化投资、投行、投研联动，为科创企业提供全链条全生命周期金融服务...累计构建近700亿元科创主题基金矩阵，新增投资硬科技规模超60亿元，服务36家科创类企业股权融资近440亿元"
+    },
+    {
+      "name": "绿色发展",
+      "source_product": "投资银行业务、碳金融等",
+      "quote": "绿色金融引领示范...绿色债券承销规模排名行业第二，碳金融业务累计成交量近1亿吨"
+    },
+    {
+      "name": "上海“五个中心”建设",
+      "source_product": "综合金融服务",
+      "quote": "深耕重点行业和核心区域，做深企业客户服务价值链...积极服务上海“五个中心”建设"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱健",
+      "role": "董事长",
+      "quote": "公司负责人朱健...董事长：朱健"
+    },
+    {
+      "name": "李俊杰",
+      "role": "总裁、执行董事",
+      "quote": "公司总经理 李俊杰"
+    },
+    {
+      "name": "聂小刚",
+      "role": "副总裁、首席风险官、董事会秘书",
+      "quote": "副总裁、首席风险官...聂小刚"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海通证券",
+      "relation_type": "subsidiary",
+      "business_details": "原海通证券被吸收合并",
+      "quote": "2025年3月，经中国证监会核准及香港联交所批准，公司向海通证券的全体A股换股股东发行...H股股票换股吸收合并海通证券"
+    },
+    {
+      "name": "国泰海通资管",
+      "relation_type": "subsidiary",
+      "business_details": "证券资产管理业务、公募基金管理业务",
+      "quote": "国泰海通资管 上海国泰海通证券资产管理有限公司 20亿元"
+    },
+    {
+      "name": "华安基金",
+      "relation_type": "subsidiary",
+      "business_details": "公募基金管理",
+      "quote": "华安基金 华安基金管理有限公司 1.5亿元"
+    },
+    {
+      "name": "海富通基金",
+      "relation_type": "subsidiary",
+      "business_details": "公募基金管理",
+      "quote": "海富通基金 海富通基金管理有限公司 3亿元"
+    },
+    {
+      "name": "海通恒信",
+      "relation_type": "subsidiary",
+      "business_details": "融资租赁",
+      "quote": "海通恒信 海通恒信国际融资租赁股份有限公司...由海通恒信金融集团有限公司控股并在香港联交所上市的公众公司"
+    },
+    {
+      "name": "国泰君安国际",
+      "relation_type": "subsidiary",
+      "business_details": "境外证券业务、财富管理、投行",
+      "quote": "国泰君安国际 国泰君安国际控股有限公司，由国泰海通金融控股有限公司控股并在香港联交所上市的公众公司"
+    },
+    {
+      "name": "交通银行",
+      "relation_type": "customer",
+      "business_details": "投行服务（资本金补充）",
+      "quote": "助力交通银行、建设银行、中国银行等国有大行千亿级资本金补充圆满落地"
+    },
+    {
+      "name": "建设银行",
+      "relation_type": "customer",
+      "business_details": "投行服务（资本金补充）",
+      "quote": "助力交通银行、建设银行、中国银行等国有大行千亿级资本金补充圆满落地"
+    },
+    {
+      "name": "中国银行",
+      "relation_type": "customer",
+      "business_details": "投行服务（资本金补充）",
+      "quote": "助力交通银行、建设银行、中国银行等国有大行千亿级资本金补充圆满落地"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "财富管理",
+      "segment_type": "business_unit",
+      "revenue_amount": "24,949,618,551元",
+      "revenue_proportion": "占总营业收入的39.52%（根据表格计算）",
+      "gross_margin": "54.01%",
+      "yoy_change": "114.77%",
+      "quote": "财富管理 24,949,618,551 11,473,627,072 54.01 114.77 62.29 上升14.87个百分点"
+    },
+    {
+      "name": "投资银行",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,746,946,908元",
+      "revenue_proportion": "占总营业收入的7.52%（根据表格计算）",
+      "gross_margin": "26.14%",
+      "yoy_change": "60.21%",
+      "quote": "投资银行 4,746,946,908 3,506,154,336 26.14 60.21 92.33 下降12.34个百分点"
+    },
+    {
+      "name": "机构及交易",
+      "segment_type": "business_unit",
+      "revenue_amount": "19,594,461,418元",
+      "revenue_proportion": "占总营业收入的31.05%（根据表格计算）",
+      "gross_margin": "68.98%",
+      "yoy_change": "43.99%",
+      "quote": "机构及交易 19,594,461,418 6,077,693,137 68.98 43.99 104.26 下降9.16个百分点"
+    },
+    {
+      "name": "投资管理",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,615,891,734元",
+      "revenue_proportion": "占总营业收入的12.07%（根据表格计算）",
+      "gross_margin": "42.95%",
+      "yoy_change": "63.18%",
+      "quote": "投资管理 7,615,891,734 4,344,579,610 42.95 63.18 54.84 上升3.07个百分点"
+    },
+    {
+      "name": "融资租赁",
+      "segment_type": "business_unit",
+      "revenue_amount": "5,490,588,613元",
+      "revenue_proportion": "占总营业收入的8.70%（根据表格计算）",
+      "gross_margin": "33.62%",
+      "yoy_change": "不适用",
+      "quote": "融资租赁 5,490,588,613 3,644,797,892 33.62 不适用 不适用 不适用"
+    },
+    {
+      "name": "上海",
+      "segment_type": "region",
+      "revenue_amount": "24,185,720,085元（表格显示为24,185,720,085，但数字格式可能为24,185,720,085）",
+      "revenue_proportion": "占总营业收入的38.32%（根据表格计算）",
+      "gross_margin": "54.08%",
+      "yoy_change": "45.78%",
+      "quote": "上海 24,185,720,085 ... 占总营业收入的比例(%) 38.32"
+    },
+    {
+      "name": "广东",
+      "segment_type": "region",
+      "revenue_amount": "8,545,885,885元",
+      "revenue_proportion": "占总营业收入的13.54%（根据表格计算）",
+      "gross_margin": "55.21%",
+      "yoy_change": "45.21%",
+      "quote": "广东 8,545,885,885 ... 占总营业收入的比例(%) 13.54"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "财富管理-零售客户",
+      "metric_type": "sales_volume",
+      "value": "3,933万户",
+      "period": "报告期末",
+      "quote": "报告期末，境内客户数3,933万户，较上年末增长6.6%，排名行业第一"
+    },
+    {
+      "product": "财富管理-交易份额",
+      "metric_type": "other",
+      "value": "股基交易市场份额8.56%",
+      "period": "报告期",
+      "quote": "股基交易市场份额8.56%，较上年提升0.03个百分点，均排名行业第一"
+    },
+    {
+      "product": "投资银行业务-境内IPO",
+      "metric_type": "production_volume",
+      "value": "主承销19家",
+      "period": "报告期内",
+      "quote": "报告期内IPO主承销19家，报告期末IPO在审44家、辅导备案193家，均排名行业首位"
+    },
+    {
+      "product": "投资银行业务-再融资",
+      "metric_type": "sales_volume",
+      "value": "主承销金额1，291.53亿元",
+      "period": "报告期内",
+      "quote": "报告期内再融资主承销金额1,291.53亿元，同比增长706.4%"
+    },
+    {
+      "product": "投资银行业务-债券承销",
+      "metric_type": "sales_volume",
+      "value": "承销金额13，552.14亿元",
+      "period": "报告期内",
+      "quote": "报告期内债券承销金额13,552.14亿元，排名行业第二"
+    },
+    {
+      "product": "财富管理-产品保有规模",
+      "metric_type": "inventory_volume",
+      "value": "6,573亿元",
+      "period": "报告期末",
+      "quote": "产品保有规模6,573亿元，较上年末增长26.7%"
+    },
+    {
+      "product": "投资管理-公募基金规模（华安基金）",
+      "metric_type": "other",
+      "value": "8，141.24亿元",
+      "period": "2025年末",
+      "quote": "华安基金...公募基金管理规模 8,141.24 6,931.69"
+    },
+    {
+      "product": "投资管理-私募股权基金（海通开元）",
+      "metric_type": "other",
+      "value": "存续投资项目201个，投资金额194.60亿元",
+      "period": "报告期末",
+      "quote": "报告期末，存续投资项目201个，投资金额194.60亿元"
+    },
+    {
+      "product": "融资租赁业务",
+      "metric_type": "inventory_volume",
+      "value": "资产总额1，077.56亿元，不良资产率1.16%",
+      "period": "报告期末",
+      "quote": "报告期末，海通恒信资产总额1,077.56亿元，不良资产率1.16%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "吸收合并海通证券",
+      "project_type": "acquisition_project",
+      "location": "中国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年3月14日完成换股交割，2026年1月完成客户及业务迁移",
+      "expected_completion_time": null,
+      "quote": "作为中国资本市场史上规模最大的A+H双边市场吸收合并案例，我们高效完成交易交割、有序推进整合融合"
+    },
+    {
+      "name": "收购印尼证券公司",
+      "project_type": "acquisition_project",
+      "location": "印度尼西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "境外子公司收购印尼证券公司进程获董事会审议通过",
+      "expected_completion_time": null,
+      "quote": "稳步推进境外子公司收购印尼证券公司进程"
+    },
+    {
+      "name": "公司名称及注册资本变更",
+      "project_type": "other",
+      "location": "中国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "2025年4月3日，公司中英文名称分别变更为“国泰海通证券股份有限公司”、“GUOTAI HAITONG SECURITIES CO., LTD.”，注册资本变更为176.29708696亿元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "新一代全AI智能APP灵犀",
+      "asset_type": "technical_platform",
+      "related_product": "财富管理业务",
+      "quantitative_info": null,
+      "quote": "业内首发新一代全AI智能APP灵犀并跨越升级至2.0版本，并实现大模型在多个业务领域的全场景、规模化应用"
+    },
+    {
+      "name": "君弘灵犀大模型",
+      "asset_type": "core_technology",
+      "related_product": "全业务",
+      "quantitative_info": "千亿参数多模态证券垂类大模型",
+      "quote": "发布行业首个千亿参数多模态证券垂类大模型“君弘灵犀”"
+    },
+    {
+      "name": "OneLink一体化数智展业平台",
+      "asset_type": "technical_platform",
+      "related_product": "全业务",
+      "quantitative_info": null,
+      "quote": "完成企业级数据库搭建，升级一体化数智展业平台OneLink"
+    },
+    {
+      "name": "全链路全栈信创分布式证券核心交易体系",
+      "asset_type": "process_technology",
+      "related_product": "经纪业务、客户迁移",
+      "quantitative_info": "承载近4，000万客户",
+      "quote": "业内首家完成全链路全栈信创分布式证券核心交易体系的建设和切换...切换后，公司核心交易体系承载近4,000万客户"
+    },
+    {
+      "name": "连续18年获得A类AA级最高监管评级",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "18年",
+      "quote": "公司在行业内唯一连续18年获得A类AA级最高监管评级"
+    },
+    {
+      "name": "中资券商最高国际信用评级",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "标普BBB+和穆迪Baa1",
+      "quote": "保持中资券商最高的国际信用评级"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "约占营业总收入的1%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "2025年，本集团的前五大客户所贡献的收入约为营业总收入的1%，前五大客户均非关联方"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "没有主要供应商",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "由于业务性质的原因，本集团没有主要供应商"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着证券行业并购重组持续推进，行业机构特别是头部券商之间的竞争日趋激烈，行业集中度和转型升级力度将进一步提升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "伴随着证券行业并购重组持续推进，行业机构特别是头部券商之间的竞争日趋激烈，行业集中度和转型升级力度将进一步提升"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "因市场价格的不利变动而使公司可能发生损失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "因市场价格的不利变动而使公司可能发生损失的风险"
+    },
+    {
+      "risk_type": "credit_liquidity",
+      "description": "证券发行人、交易对手、债务人未能履行合同所规定的义务或由于信用评级的变动、履约能力的变化导致债务的市场价值变动，从而对公司造成损失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "证券发行人、交易对手、债务人未能履行合同所规定的义务或由于信用评级的变动、履约能力的变化导致债务的市场价值变动，从而对公司造成损失的风险"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司无法以合理成本及时获得充足资金，以偿付到期债务、履行其他支付义务和满足正常业务开展的资金需求的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司无法以合理成本及时获得充足资金，以偿付到期债务、履行其他支付义务和满足正常业务开展的资金需求的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "由于内部制度流程失效、员工行为不当、信息技术风险，以及外部事件影响所造成损失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "由于内部制度流程失效、员工行为不当、信息技术风险，以及外部事件影响所造成损失的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "因公司经营、管理及其他行为或外部事件导致对公司声誉产生负面评价的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "因公司经营、管理及其他行为或外部事件导致对公司声誉产生负面评价的风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "人民币汇率双向波动常态化，给业务经营带来更高挑战。",
+      "related_entity": null,
+      "related_product": "衍生品、大宗商品及外汇业务",
+      "quote": "随着衍生品、大宗商品及外汇业务规模的扩张，人民币汇率双向波动常态化，给业务经营带来更高挑战"
+    }
+  ]
+}

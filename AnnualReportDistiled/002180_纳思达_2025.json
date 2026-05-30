@@ -1,0 +1,555 @@
+{
+  "company_name_mentioned": "纳思达股份有限公司",
+  "produces": [
+    {
+      "name": "原装打印机及耗材",
+      "type": "device",
+      "revenue_proportion": "65.94%",
+      "quote": "分产品 原装打印机及耗材 10,889,787,373.67 65.94%"
+    },
+    {
+      "name": "通用耗材及配件",
+      "type": "material",
+      "revenue_proportion": "25.55%",
+      "quote": "分产品 通用耗材及配件 4,218,942,484.03 25.55%"
+    },
+    {
+      "name": "芯片",
+      "type": "component",
+      "revenue_proportion": "3.74%",
+      "quote": "分产品 芯片 618,110,393.30 3.74%"
+    },
+    {
+      "name": "打印机SoC芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "打印机主控SoC芯片业务均位居全球细分行业前列。"
+    },
+    {
+      "name": "打印耗材芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "通用耗材芯片业务位居全球细分行业前列。"
+    },
+    {
+      "name": "通用MCU",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "通用MCU和专用SoC为主"
+    },
+    {
+      "name": "实时控制DSP",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "G32R501实时控制DSP"
+    },
+    {
+      "name": "机器人芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "机器人芯片、电机芯片、传感器、实时控制DSP、工业通信芯片等作为核心部件"
+    },
+    {
+      "name": "电机驱动芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "G32M3101专用电机驱动SoC等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料成本",
+      "target_product": "打印行业",
+      "cost_proportion": "75.46%",
+      "quote": "打印行业 材料成本 8,319,550,020.80 75.46%"
+    },
+    {
+      "name": "材料成本",
+      "target_product": "集成电路产业",
+      "cost_proportion": "97.58%",
+      "quote": "集成电路产业 材料成本 598,077,793.55 97.58%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "办公打印",
+      "source_product": "激光打印机",
+      "quote": "打印机在信息安全领域占据重要地位，作为计算机核心外设"
+    },
+    {
+      "name": "家庭与个人打印",
+      "source_product": "打印机",
+      "quote": "家庭与个人打印输出需求增长"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "工控安全芯片、通用MCU、实时控制DSP",
+      "quote": "为工业控制、消费电子、医疗设备、智能家居以及汽车应用等领域提供高品质的产品与服务。"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "消费级产品芯片",
+      "quote": "消费级产品芯片"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "汽车电子芯片、车规级MCU",
+      "quote": "汽车电子及智慧能源等领域"
+    },
+    {
+      "name": "机器人",
+      "source_product": "机器人芯片、电机芯片、编码器专用MCU",
+      "quote": "已构建起从工业机器人到人形机器人的完整芯片产品矩阵，覆盖人形机器人关节控制器、灵巧手电机驱动、智能编码器、电池充电器及电池管理系统（BMS）主控、测距雷达传感器主控等核心环节"
+    },
+    {
+      "name": "数字能源",
+      "source_product": "实时控制DSP芯片",
+      "quote": "推出面向AI服务器电源、直流充电、储能等场景的系列化解决方案"
+    },
+    {
+      "name": "信创市场",
+      "source_product": "打印机",
+      "quote": "奔图信创打印机销量同比下降20.49%"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "汪东颖",
+      "role": "董事长",
+      "quote": "公司负责人汪东颖...现任本公司董事长。"
+    },
+    {
+      "name": "汪栋杰",
+      "role": "总经理",
+      "quote": "汪栋杰先生，总经理...现任本公司总经理。"
+    },
+    {
+      "name": "张剑洲",
+      "role": "副总经理",
+      "quote": "张剑洲先生，副总经理...现任本公司副总经理。"
+    },
+    {
+      "name": "陈磊",
+      "role": "财务负责人",
+      "quote": "陈磊先生，财务负责人...现任本公司财务负责人。"
+    },
+    {
+      "name": "尹爱国",
+      "role": "技术负责人",
+      "quote": "尹爱国先生，技术负责人...现任本公司技术负责人。"
+    },
+    {
+      "name": "武安阳",
+      "role": "董事会秘书",
+      "quote": "武安阳先生，董事会秘书...现任本公司董事会秘书。"
+    },
+    {
+      "name": "孔德珠",
+      "role": "董事",
+      "quote": "孔德珠先生，董事...现任本公司董事。"
+    },
+    {
+      "name": "曾阳云",
+      "role": "董事",
+      "quote": "曾阳云先生，董事...现任本公司董事。"
+    },
+    {
+      "name": "孟庆一",
+      "role": "董事",
+      "quote": "孟庆一先生，董事...现任本公司董事。"
+    },
+    {
+      "name": "程仪玲",
+      "role": "职工代表董事",
+      "quote": "程仪玲女士，职工代表董事...现任本公司职工代表董事、企划部总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "珠海赛纳科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东珠海赛纳科技有限公司"
+    },
+    {
+      "name": "极海微电子股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "公司控股子公司极海微电子股份有限公司"
+    },
+    {
+      "name": "珠海奔图电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司",
+      "quote": "珠海奔图电子有限公司（合并）"
+    },
+    {
+      "name": "Lexmark International II, LLC",
+      "relation_type": "subsidiary",
+      "business_details": "已出售的境外子公司",
+      "quote": "Lexmark International II, LLC股权于2025年7月1日完成交割。"
+    },
+    {
+      "name": "Xerox Corporation",
+      "relation_type": "subsidiary",
+      "business_details": "交易对方",
+      "quote": "Xerox Corporation"
+    },
+    {
+      "name": "广汽集团",
+      "relation_type": "customer",
+      "business_details": "汽车电子领域合作客户",
+      "quote": "与广汽集团联合发布国产首款量产车规级芯片"
+    },
+    {
+      "name": "宇树科技",
+      "relation_type": "customer",
+      "business_details": "机器人领域客户",
+      "quote": "部分产品已向宇树科技、汇川技术等机器人及工业自动化头部企业批量出货。"
+    },
+    {
+      "name": "汇川技术",
+      "relation_type": "customer",
+      "business_details": "工业自动化领域客户",
+      "quote": "部分产品已向宇树科技、汇川技术等机器人及工业自动化头部企业批量出货。"
+    },
+    {
+      "name": "特来电",
+      "relation_type": "customer",
+      "business_details": "数字能源领域战略合作伙伴",
+      "quote": "与国内规模最大的电动汽车充电网运营商特来电签订了战略合作协议"
+    },
+    {
+      "name": "华芯投资有限责任公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "华芯投资有限责任公司业务二部资深主管"
+    },
+    {
+      "name": "PAG Asia Capital Lexmark Holding Limited",
+      "relation_type": "other",
+      "business_details": "仲裁案件申请人",
+      "quote": "申请人PAG Asia Capital Lexmark Holding Limited主张纳思达向其支付不少于689,018,524美元现金及利息。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "打印行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "15,422,779,569.95",
+      "revenue_proportion": "93.39%",
+      "gross_margin": "28.34%",
+      "yoy_change": "-38.29%",
+      "quote": "分行业 打印行业 15,422,779,569.95 93.39% ... 28.34% -38.29%"
+    },
+    {
+      "name": "集成电路产业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,092,181,364.86",
+      "revenue_proportion": "6.61%",
+      "gross_margin": "43.88%",
+      "yoy_change": "-23.18%",
+      "quote": "分行业 集成电路产业 1,092,181,364.86 6.61% ... 43.88% -23.18%"
+    },
+    {
+      "name": "原装打印机及耗材",
+      "segment_type": "product_line",
+      "revenue_amount": "10,889,787,373.67",
+      "revenue_proportion": "65.94%",
+      "gross_margin": "31.22%",
+      "yoy_change": "-45.00%",
+      "quote": "分产品 原装打印机及耗材 10,889,787,373.67 65.94% ... 31.22% -45.00%"
+    },
+    {
+      "name": "通用耗材及配件",
+      "segment_type": "product_line",
+      "revenue_amount": "4,218,942,484.03",
+      "revenue_proportion": "25.55%",
+      "gross_margin": "22.61%",
+      "yoy_change": "-13.30%",
+      "quote": "分产品 通用耗材及配件 4,218,942,484.03 25.55% ... 22.61% -13.30%"
+    },
+    {
+      "name": "芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "618,110,393.30",
+      "revenue_proportion": "3.74%",
+      "gross_margin": "32.70%",
+      "yoy_change": "-24.71%",
+      "quote": "分产品 芯片 618,110,393.30 3.74% ... 32.70% -24.71%"
+    },
+    {
+      "name": "中国境外（含出口）",
+      "segment_type": "region",
+      "revenue_amount": "10,839,455,609.00",
+      "revenue_proportion": "65.63%",
+      "gross_margin": "29.49%",
+      "yoy_change": "-39.51%",
+      "quote": "分地区 中国境外（含出口） 10,839,455,609.00 65.63% ... 29.49% -39.51%"
+    },
+    {
+      "name": "中国境内",
+      "segment_type": "region",
+      "revenue_amount": "5,675,505,325.81",
+      "revenue_proportion": "34.37%",
+      "gross_margin": "29.13%",
+      "yoy_change": "-33.19%",
+      "quote": "分地区 中国境内 5,675,505,325.81 34.37% ... 29.13% -33.19%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "11,110,140,790.12",
+      "revenue_proportion": "67.27%",
+      "gross_margin": "36.08%",
+      "yoy_change": "-36.09%",
+      "quote": "分销售模式 分销 11,110,140,790.12 67.27% ... 36.08% -36.09%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,404,820,144.69",
+      "revenue_proportion": "32.73%",
+      "gross_margin": "15.56%",
+      "yoy_change": "-40.15%",
+      "quote": "分销售模式 直销 5,404,820,144.69 32.73% ... 15.56% -40.15%"
+    },
+    {
+      "name": "奔图",
+      "segment_type": "business_unit",
+      "revenue_amount": "37.71",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "-19.05%",
+      "quote": "2025年，奔图实现营业收入37.71亿元，同比下降19.05%"
+    },
+    {
+      "name": "极海微",
+      "segment_type": "business_unit",
+      "revenue_amount": "10.92",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "-21.99%",
+      "quote": "2025年，极海微实现营业收入10.92亿元，同比下降21.99%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "芯片",
+      "metric_type": "sales_volume",
+      "value": "60,818.73万/PCS",
+      "period": "2025年",
+      "quote": "芯片 销售量 万/PCS 60,818.73 2025年"
+    },
+    {
+      "product": "芯片",
+      "metric_type": "production_volume",
+      "value": "64,907.95万/PCS",
+      "period": "2025年",
+      "quote": "芯片 生产量 万/PCS 64,907.95 2025年"
+    },
+    {
+      "product": "芯片",
+      "metric_type": "inventory_volume",
+      "value": "11,646.98万/PCS",
+      "period": "2025年末",
+      "quote": "芯片 库存量 万/PCS 11,646.98 2025年末"
+    },
+    {
+      "product": "耗材",
+      "metric_type": "sales_volume",
+      "value": "20,045.29万/PCS",
+      "period": "2025年",
+      "quote": "耗材 销售量 万/PCS 20,045.29 2025年"
+    },
+    {
+      "product": "耗材",
+      "metric_type": "production_volume",
+      "value": "19,009.64万/PCS",
+      "period": "2025年",
+      "quote": "耗材 生产量 万/PCS 19,009.64 2025年"
+    },
+    {
+      "product": "耗材",
+      "metric_type": "inventory_volume",
+      "value": "1,358.47万/PCS",
+      "period": "2025年末",
+      "quote": "耗材 库存量 万/PCS 1,358.47 2025年末"
+    },
+    {
+      "product": "打印业务",
+      "metric_type": "sales_volume",
+      "value": "1,494.73万/PCS",
+      "period": "2025年",
+      "quote": "打印业务 销售量 万/PCS 1,494.73 2025年"
+    },
+    {
+      "product": "打印业务",
+      "metric_type": "production_volume",
+      "value": "1,529.55万/PCS",
+      "period": "2025年",
+      "quote": "打印业务 生产量 万/PCS 1,529.55 2025年"
+    },
+    {
+      "product": "打印业务",
+      "metric_type": "inventory_volume",
+      "value": "286.14万/PCS",
+      "period": "2025年末",
+      "quote": "打印业务 库存量 万/PCS 286.14 2025年末"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "激光打印机高端装备制造项目（含纳思达激光打印机产业园一期首期项目）",
+      "project_type": "capacity_expansion",
+      "location": "珠海",
+      "investment_amount": "1,474,163,707.33元",
+      "designed_capacity": null,
+      "progress": "98.00%",
+      "expected_completion_time": null,
+      "quote": "激光打印机高端装备制造项目（含纳思达激光打印机产业园一期首期项目）...截至报告期末累计实际投入金额 1,474,163,707.33 ... 98.00%"
+    },
+    {
+      "name": "奔图打印机及耗材生产基地项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "67,677,730.27元",
+      "designed_capacity": null,
+      "progress": "94.00%",
+      "expected_completion_time": null,
+      "quote": "奔图打印机及耗材生产基地项目...截至报告期末累计实际投入金额 67,677,730.27 ... 94.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "4,178项（其中，发明专利1,678项，实用新型专利1,914项，外观设计专利586项）",
+      "quote": "截至2025年12月31日，公司拥有自主研发的已取得专利权的专利4,178项（其中，发明专利1,678项，实用新型专利1,914项，外观设计专利586项）"
+    },
+    {
+      "name": "软件著作权与集成电路布图设计",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "358项",
+      "quote": "软件著作权与集成电路布图设计358项"
+    },
+    {
+      "name": "打印机SoC芯片设计技术",
+      "asset_type": "core_technology",
+      "related_product": "打印机主控SoC芯片",
+      "quantitative_info": null,
+      "quote": "拥有CPU设计技术、多核SoC专用芯片设计技术、安全芯片设计技术、通用耗材芯片设计技术等多项核心技术。"
+    },
+    {
+      "name": "嵌入式安全eSE芯片设计技术",
+      "asset_type": "core_technology",
+      "related_product": "安全芯片",
+      "quantitative_info": null,
+      "quote": "以安全子系统与应用子系统实行物理隔离，实现嵌入式硬件级安全防护的嵌入式安全 eSE 芯片设计技术"
+    },
+    {
+      "name": "多核异构SoC芯片设计技术",
+      "asset_type": "core_technology",
+      "related_product": "打印机SoC芯片",
+      "quantitative_info": null,
+      "quote": "实现双核至七核SoC芯片设计和国产C-SKY内核、ARM内核、专用DSP混编异构设计的多核异构SoC芯片设计技术"
+    },
+    {
+      "name": "一站式SoC/ASIC芯片设计平台技术",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "支持芯片从需求到量产交付推广的一站式SoC/ASIC芯片设计平台技术"
+    },
+    {
+      "name": "《安全可靠测评工作指南（V3.0）》相关认证",
+      "asset_type": "certification",
+      "related_product": "信创打印机",
+      "quantitative_info": null,
+      "quote": "2025年7月1日中国信息安全测评中心发布《安全可靠测评工作指南（V3.0）》，相较于2024年11月26日发布的2.0版本，本次新增激光或喷墨打印机搭载的主控芯片及人工智能训练推理芯片纳入测评范围"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,161,199,890.50元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,161,199,890.50"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.09%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 13.09%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "2,481,803,040.35元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,481,803,040.35"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "18.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 18.52%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五名客户销售额占年度销售总额比例为13.09%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 13.09%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司前五名供应商采购额占年度采购总额比例为18.52%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 18.52%"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "通用耗材市场整体竞争激烈，行业内价格战频发。",
+      "related_entity": null,
+      "related_product": "通用打印耗材",
+      "quote": "近年来，通用耗材市场整体竞争激烈，行业内价格战频发。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "打印机行业技术路线竞争加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "全球打印行业正在经历深刻的结构性变革，技术路线竞争加剧"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "信创市场受政策测评标准调整影响。",
+      "related_entity": null,
+      "related_product": "奔图信创打印机",
+      "quote": "2025年7月1日中国信息安全测评中心发布《安全可靠测评工作指南（V3.0）》...奔图信创市场的出货节奏出现相应调整。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司报告期内计提了存货跌价准备。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值 -267,541,674.14 ... 主要系计提的存货跌价准备导致。"
+    },
+    {
+      "risk_type": "other",
+      "description": "涉及重大诉讼，存在大额现金流出及利润减少的风险。",
+      "related_entity": "PAG Asia Capital Lexmark Holding Limited",
+      "related_product": null,
+      "quote": "申请人PAG Asia Capital Lexmark Holding Limited主张纳思达向其支付不少于689,018,524美元现金及利息。...如仲裁结果对纳思达不利，可能导致纳思达大额现金流出及利润减少。"
+    }
+  ]
+}

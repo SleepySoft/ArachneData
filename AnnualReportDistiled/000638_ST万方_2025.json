@@ -1,0 +1,345 @@
+{
+  "company_name_mentioned": "万方城镇投资发展股份有限公司",
+  "produces": [
+    {
+      "name": "农产品（玉米、水稻原粮、大米）",
+      "type": "material",
+      "revenue_proportion": "78.62%",
+      "quote": "农业业务的主要产品是原粮或饲料玉米、大米...农产品加工及销售收入193，859，777.38元，占营业收入的78.62%"
+    },
+    {
+      "name": "红法夫酵母虾青素系列产品",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司主要产品为红法夫酵母虾青素系列产品，以及使用虾青素喂养的农产品如：鸡蛋、大闸蟹、小龙虾等，红法夫酵母虾青素目前主要应用于养殖饲料领域。"
+    },
+    {
+      "name": "精密加工服务（军工产品）",
+      "type": "service",
+      "revenue_proportion": "6.26%",
+      "quote": "军工业务的主要产品是...军工业务收入为15，429，135.19元，占营业收入的6.26%"
+    },
+    {
+      "name": "有色金属",
+      "type": "material",
+      "revenue_proportion": "10.41%",
+      "quote": "有色金属贸易及加工收入25，668，838.37元，占营业收入的10.41%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "玉米及水稻原粮",
+      "target_product": "农产品",
+      "cost_proportion": null,
+      "quote": "公司农业业务的经营模式是利用属地农业资源优势收购玉米及水稻原粮"
+    },
+    {
+      "name": "各类原、辅材料（军工业务）",
+      "target_product": "军工产品",
+      "cost_proportion": null,
+      "quote": "公司军工业务的采购模式均为按需采购，即根据客户订单情况，编制采购计划，下达采购订单，集中或分批向供应商采购各类原、辅材料。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "玉米深加工、饲料及食品领域",
+      "source_product": "农产品",
+      "quote": "农业业务的主要产品是原粮或饲料玉米、大米，广泛应用于玉米深加工、饲料及食品领域。"
+    },
+    {
+      "name": "养殖饲料领域（水产品、蛋禽、宠物等）",
+      "source_product": "红法夫酵母虾青素系列产品",
+      "quote": "红法夫酵母虾青素目前主要应用于养殖饲料领域...公司研发的虾青素鸡蛋和系列宠物饲料已经上市销售。"
+    },
+    {
+      "name": "航空、航天、船舶、兵装行业（飞行器、航行器、车载装备）",
+      "source_product": "精密加工服务",
+      "quote": "公司军工板块的主营业务是为航空、航天、船舶、兵装行业的飞行器、航行器、车载装备中的轻量化、高精度、高强度重要金属功能部件提供精密加工与特种焊接制造服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘玉",
+      "role": "董事长兼总经理",
+      "quote": "公司负责人刘玉、主管会计工作负责人刘玉及会计机构负责人（会计主管人员）刘玉声明...2025年1月至今担任万方发展董事长。"
+    },
+    {
+      "name": "张晖",
+      "role": "原董事长",
+      "quote": "2025年1月15日，公司董事会收到张晖先生因身体原因辞去公司董事长及董事会战略委员会主任委员职务的辞职报告"
+    },
+    {
+      "name": "苏建青",
+      "role": "董事",
+      "quote": "董事苏建青，因出差未参会，未能出席本次年报的董事会会议"
+    },
+    {
+      "name": "郭子斌",
+      "role": "原副董事长、副总经理兼董事会秘书",
+      "quote": "2026年3月6日，公司收到副董事长、副总经理兼董事会秘书郭子斌女士的辞呈"
+    },
+    {
+      "name": "曹曲",
+      "role": "董事",
+      "quote": "2025年2月至今担任万方发展董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "吉林九台农村商业银行股份有限公司",
+      "relation_type": "investor",
+      "business_details": "成为公司第一大股东",
+      "quote": "九台农商行成为公司第一大股东。公司变更为无控股股东、无实际控制人。"
+    },
+    {
+      "name": "吉林万方迈捷农业产业发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "粮食加工及销售",
+      "quote": "子公司吉林万方迈捷农业产业发展有限公司实现的玉米贸易收入...吉林万方迈捷农业产业发展有限公司（以下简称“万方迈捷”）"
+    },
+    {
+      "name": "湖北九耀精密科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "计算机、通信和其他电子设备制造业",
+      "quote": "公司旗下三家控股子公司新瑞光、九耀精密、腾威机械积极开拓航空航天...湖北九耀精密科技有限公司"
+    },
+    {
+      "name": "湖北腾威机械设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "通用设备制造业",
+      "quote": "公司旗下三家控股子公司新瑞光、九耀精密、腾威机械积极开拓航空航天...湖北腾威机械设备有限公司"
+    },
+    {
+      "name": "吉林万方东巽虾青素产业科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "研究和试验发展",
+      "quote": "万方东巽红法夫酵母虾青素的产业化项目通过了吉林省企业投资项目备案信息登记...吉林万方东巽虾青素产业科技发展有限公司"
+    },
+    {
+      "name": "威海东巽生物科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "提供虾青素生产技术",
+      "quote": "公司于2022年3月通过增资参股威海东巽生物科技有限公司，正式进军虾青素产业领域。"
+    },
+    {
+      "name": "湖南盛鑫精创金属材料有限公司（原白山市盛鑫金属材料有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "金属材料销售",
+      "quote": "2024年2月，公司与湖南双君矿业有限公司共同设立了控股子公司盛鑫金属...湖南盛鑫精创金属材料有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "农产品加工及销售",
+      "segment_type": "product_line",
+      "revenue_amount": "193,859,777.38",
+      "revenue_proportion": "78.62%",
+      "gross_margin": "1.57%",
+      "yoy_change": "-40.01%",
+      "quote": "农产品加工及销售收入193，859，777.38.元，占营业收入的78.62%...农产品加工及销售毛利率比上年同期增减-0.93%"
+    },
+    {
+      "name": "军工产品",
+      "segment_type": "product_line",
+      "revenue_amount": "15,429,135.19",
+      "revenue_proportion": "6.26%",
+      "gross_margin": "7.12%",
+      "yoy_change": "-29.75%",
+      "quote": "军工业务收入为15，429，135.19元，占营业收入的6.26%...军工产品毛利率比上年同期增减-32.87%"
+    },
+    {
+      "name": "有色金属",
+      "segment_type": "product_line",
+      "revenue_amount": "25,668,838.37",
+      "revenue_proportion": "10.41%",
+      "gross_margin": "3.63%",
+      "yoy_change": "-26.45%",
+      "quote": "有色金属贸易及加工收入25，668，838.37元，占营业收入的10.41%...有色金属毛利率比上年同期增减-1.00%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "111,867,444.36",
+      "revenue_proportion": "45.37%",
+      "gross_margin": "1.55%",
+      "yoy_change": "-61.15%",
+      "quote": "东北地区收入...45.37%...东北地区毛利率比上年同期增减-0.19%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "88,922,036.10",
+      "revenue_proportion": "36.06%",
+      "gross_margin": "3.70%",
+      "yoy_change": "73.22%",
+      "quote": "华中地区收入...36.06%...华中地区毛利率比上年同期增减-8.27%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "军工产品",
+      "metric_type": "sales_volume",
+      "value": "71，750.00",
+      "period": "2025年",
+      "quote": "军工产品销售量 71，750.00 件"
+    },
+    {
+      "product": "军工产品",
+      "metric_type": "production_volume",
+      "value": "107，376.00",
+      "period": "2025年",
+      "quote": "军工产品生产量 107，376.00 件"
+    },
+    {
+      "product": "军工产品",
+      "metric_type": "inventory_volume",
+      "value": "58，656.00",
+      "period": "2025年末",
+      "quote": "军工产品库存量 58，656.00 件"
+    },
+    {
+      "product": "农产品加工及销售",
+      "metric_type": "sales_volume",
+      "value": "110，970.30",
+      "period": "2025年",
+      "quote": "农产品加工及销售销售量 110，970.30 吨"
+    },
+    {
+      "product": "农产品加工及销售",
+      "metric_type": "production_volume",
+      "value": "99，445.99",
+      "period": "2025年",
+      "quote": "农产品加工及销售生产量 99，445.99 吨"
+    },
+    {
+      "product": "农产品加工及销售",
+      "metric_type": "inventory_volume",
+      "value": "8，488.94",
+      "period": "2025年末",
+      "quote": "农产品加工及销售库存量 8，488.94 吨"
+    },
+    {
+      "product": "有色金属",
+      "metric_type": "sales_volume",
+      "value": "5，690.21",
+      "period": "2025年",
+      "quote": "有色金属销售量 5，690.21 吨"
+    },
+    {
+      "product": "有色金属",
+      "metric_type": "production_volume",
+      "value": "5，764.34",
+      "period": "2025年",
+      "quote": "有色金属生产量 5，764.34 吨"
+    },
+    {
+      "product": "有色金属",
+      "metric_type": "inventory_volume",
+      "value": "3，808.38",
+      "period": "2025年末",
+      "quote": "有色金属库存量 3，808.38 吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "红法夫酵母虾青素项目",
+      "project_type": "capacity_expansion",
+      "location": "白山市江源区",
+      "investment_amount": "10,289,072.82（本报告期投入）",
+      "designed_capacity": "年产12,000吨红法夫酵母虾青素",
+      "progress": "竞拍取得土地使用权，取得不动产权证，用于项目建设",
+      "expected_completion_time": null,
+      "quote": "公司年产12，000吨红法夫酵母虾青素项目...万方东巽通过竞拍取得白山市江源区自然资源局以挂牌方式出让的编号为JYCBK-268-1号地块的国有建设用地使用权...用于红法夫酵母虾青素项目的建设。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "红法夫酵母高产虾青素技术",
+      "asset_type": "core_technology",
+      "related_product": "红法夫酵母虾青素系列产品",
+      "quantitative_info": "虾青素含量达到1.5%，超过国家标准3倍以上",
+      "quote": "该技术以天然红法夫酵母为菌种，通过筛选高产菌株，以现代生物高密度发酵技术来制备高抗氧化能力的天然虾青素...目前，技术团队已经克服了红法夫酵母高产虾青素的技术瓶颈，虾青素含量达到1.5%，超过国家标准3倍以上"
+    },
+    {
+      "name": "《微生物发酵法合成虾青素技术要求》团体标准",
+      "asset_type": "standard",
+      "related_product": "红法夫酵母虾青素系列产品",
+      "quantitative_info": null,
+      "quote": "是《微生物发酵法合成虾青素技术要求》团体标准的牵头起草人。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "37.22%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 37.22%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "17.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 17.68%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "8.02%",
+      "related_entity": "南阳市南地北粮粮贸有限公司",
+      "period": "2025年",
+      "quote": "客户名称 南阳市南地北粮粮贸有限公司...占年度销售总额比例 8.02%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "4.82%",
+      "related_entity": "湖南方尔矿业有限公司",
+      "period": "2025年",
+      "quote": "供应商名称 湖南方尔矿业有限公司...占年度采购总额比例 4.82%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "宏观调控政策、国际贸易政策和环保政策的变化可能对行业产生重大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观调控政策、国际贸易政策和环保政策的变化可能对行业产生重大影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "在民用产品严重内卷的形势下，军品的市场竞争也愈发激烈。如果公司没有硬科技的拳头类产品，可能面临市场份额和利润下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "近年来，越来越多的竞争者进入农业产业，在民用产品严重内卷的形势下，军品的市场竞争也愈发激烈。如果公司没有硬科技的拳头类产品，可能面临市场份额和利润下降的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司面临生产质量、内部管理和内部控制的考验，若内部管控不能紧跟业务发展的步伐，可能面临资金、安全等各种风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司面临生产质量、内部管理和内部控制的考验，若内部管控不能紧跟业务发展的步伐，可能面临资金、安全等各种风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "子公司吉林万方迈捷农业产业发展有限公司实现的玉米贸易收入，无法判断贸易收入适用总额法还是净额法，无法判断相关的内部控制是否得到有效执行，导致财务报告内部控制存在重大缺陷。",
+      "related_entity": "吉林万方迈捷农业产业发展有限公司",
+      "related_product": "玉米贸易收入",
+      "quote": "子公司吉林万方迈捷农业产业发展有限公司实现的玉米贸易收入，无法判断贸易收入适用总额法还是净额法，无法判断相关的内部控制是否得到有效执行，导致财务报告内部控制存在重大缺陷。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司流动负债高于流动资产总额，且存在短期借款逾期，表明存在可能导致对公司持续经营能力产生重大疑虑的重大不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "我们提醒财务报表使用者关注，万方发展2025年度发生净亏损...流动负债高于流动资产总额...财务报表附注五（21）所示的3，855.64万元短期借款逾期...上述事项表明存在可能导致对万方发展持续经营能力产生重大疑虑的重大不确定性。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司收到中国证券监督管理委员会出具的《立案告知书》，因涉嫌信息披露违法违规被立案调查。",
+      "related_entity": "中国证券监督管理委员会",
+      "related_product": null,
+      "quote": "万方发展2025年7月25日收到中国证券监督管理委员会出具的《立案告知书》（证监立案字0202025009号），因涉嫌信息披露违法违规...中国证监会决定对万方发展立案"
+    }
+  ]
+}

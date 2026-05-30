@@ -1,0 +1,590 @@
+{
+  "company_name_mentioned": "广东韶能集团股份有限公司",
+  "produces": [
+    {
+      "name": "清洁可再生能源（电力）",
+      "type": "service",
+      "revenue_proportion": "40.28%",
+      "quote": "分行业电力 1,931,573,710.73 40.28%"
+    },
+    {
+      "name": "热力（供汽）",
+      "type": "service",
+      "revenue_proportion": "3.29%",
+      "quote": "分行业热力 157,541,641.49 3.29%"
+    },
+    {
+      "name": "汽车零配件（精密制造）",
+      "type": "component",
+      "revenue_proportion": "16.65%",
+      "quote": "分产品汽车零配件（精密制造）798,463,589.91 16.65%"
+    },
+    {
+      "name": "生态纸餐具",
+      "type": "material",
+      "revenue_proportion": "12.60%",
+      "quote": "分产品生态纸餐具 604,222,048.70 12.60%"
+    },
+    {
+      "name": "纸浆、原纸、成品纸",
+      "type": "material",
+      "revenue_proportion": "24.39%",
+      "quote": "分产品纸浆、原纸、成品纸 1,169,782,422.36 24.39%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "生物质燃料",
+      "target_product": "生物质能发电",
+      "cost_proportion": null,
+      "quote": "全年生物质燃料采购量同比增加 102 万吨，同比增长 56.48%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "电力（含热力）",
+      "cost_proportion": "23.85%",
+      "quote": "原材料 974,885,957.13 23.85"
+    },
+    {
+      "name": "原材料",
+      "target_product": "精密（智能）制造",
+      "cost_proportion": "12.47%",
+      "quote": "原材料 509,778,950.22 12.47"
+    },
+    {
+      "name": "原材料",
+      "target_product": "生态植物纤维环保纸餐具",
+      "cost_proportion": "5.39%",
+      "quote": "原材料 220,312,694.86 5.39"
+    },
+    {
+      "name": "原材料",
+      "target_product": "纸浆、原纸、成品纸",
+      "cost_proportion": "20.78%",
+      "quote": "原材料 849,676,948.73 20.78"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工商业用电",
+      "source_product": "清洁可再生能源（电力）",
+      "quote": "广东省规模以上的工商业企业数量多，用电需求大"
+    },
+    {
+      "name": "园区供热",
+      "source_product": "热力（供汽）",
+      "quote": "可为周边工业园区用热企业提供高质量的蒸汽及热能"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "汽车零配件（精密制造）",
+      "quote": "在新能源汽车零部件细分市场中的轴、减速箱、齿轮等新能源汽车产品"
+    },
+    {
+      "name": "餐饮包装",
+      "source_product": "生态纸餐具",
+      "quote": "满足生鲜、预制菜等冷链食品的包装与盛装需求"
+    },
+    {
+      "name": "生活用纸",
+      "source_product": "纸浆、原纸、成品纸",
+      "quote": "原纸（抄纸）是生活用纸的上游行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "胡启金",
+      "role": "董事长",
+      "quote": "公司董事长胡启金先生"
+    },
+    {
+      "name": "韩卫宁/Han Weining",
+      "role": "副董事长、总经理",
+      "quote": "副董事长、总经理韩卫宁 Han Weining"
+    },
+    {
+      "name": "朱运绍",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人朱运绍先生"
+    },
+    {
+      "name": "欧阳旭春",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人欧阳旭春先生"
+    },
+    {
+      "name": "何俊健",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 何俊健"
+    },
+    {
+      "name": "邱啟华",
+      "role": "职工董事、常务副总经理",
+      "quote": "职工董事、常务副总经理邱啟华"
+    },
+    {
+      "name": "蓝江",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理蓝江"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "韶关市工业资产经营有限公司",
+      "relation_type": "investor",
+      "business_details": "第一大股东",
+      "quote": "目前工业资产为公司第一大股东"
+    },
+    {
+      "name": "韶关市金财投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "拟向其发行股票",
+      "quote": "公司与本次发行的发行对象金财投资...签署了...股份认购协议"
+    },
+    {
+      "name": "韶关市产业投资控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "承诺维持公司独立性",
+      "quote": "产投集团承诺：维持公司在业务、资产、人员、财务、机构等方面的独立性"
+    },
+    {
+      "name": "深圳兆伟恒发能源有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，承诺不谋求控制权",
+      "quote": "深圳兆伟承诺将不会谋求韶能股份第一大股东或控股股东或实际控制人地位"
+    },
+    {
+      "name": "深圳日昇创沅资产管理有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "深圳日昇创沅资产管理有限公司"
+    },
+    {
+      "name": "韶能集团韶关宏大齿轮有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "精密（智能）制造业务核心企业",
+      "quote": "目前公司从事精密（智能）制造业务的核心企业为宏大公司、精锻科技公司"
+    },
+    {
+      "name": "韶能集团（韶关）华南精锻科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "精密（智能）制造业务核心企业",
+      "quote": "目前公司从事精密（智能）制造业务的核心企业为宏大公司、精锻科技公司"
+    },
+    {
+      "name": "韶能集团耒阳蔡伦纸品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原纸（抄纸）业务",
+      "quote": "蔡伦纸品将聚焦原纸（抄纸）业务"
+    },
+    {
+      "name": "韶能集团韶关市日昇生物质发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "生物质能发电",
+      "quote": "日昇生物质电厂 指 韶能集团韶关市日昇生物质发电有限公司"
+    },
+    {
+      "name": "韶能集团新丰旭能生物质发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "生物质能发电",
+      "quote": "旭能生物质电厂 指 韶能集团新丰旭能生物质发电有限公司"
+    },
+    {
+      "name": "韶能集团翁源致能生物质发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "生物质能发电",
+      "quote": "致能生物质电厂 指 韶能集团翁源致能生物质发电有限公司"
+    },
+    {
+      "name": "广东韶能集团绿洲科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "生态纸餐具",
+      "quote": "绿洲科技公司 指 广东韶能集团绿洲科技发展有限公司"
+    },
+    {
+      "name": "广东韶能集团绿洲生态科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "制浆、工业用纸",
+      "quote": "绿洲（南雄）公司 指 韶能集团广东绿洲生态科技有限公司；韶能本色分公司 指 韶能集团广东绿洲生态科技有限公司韶能本色分公司"
+    },
+    {
+      "name": "广东韶能算电融合投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "源网荷储业务平台",
+      "quote": "韶能算电公司 指 广东韶能算电融合投资有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "1,931,573,710.73元",
+      "revenue_proportion": "40.28%",
+      "gross_margin": "25.97%",
+      "yoy_change": "16.37%",
+      "quote": "电力 1,931,573,710.73 40.28%"
+    },
+    {
+      "name": "热力",
+      "segment_type": "product_line",
+      "revenue_amount": "157,541,641.49元",
+      "revenue_proportion": "3.29%",
+      "gross_margin": "34.98%",
+      "yoy_change": "7.89%",
+      "quote": "热力 157,541,641.49 3.29%"
+    },
+    {
+      "name": "精密（智能）制造",
+      "segment_type": "product_line",
+      "revenue_amount": "798,463,589.91元",
+      "revenue_proportion": "16.65%",
+      "gross_margin": "13.72%",
+      "yoy_change": "19.65%",
+      "quote": "精密（智能）制造 798,463,589.91 16.65%"
+    },
+    {
+      "name": "生态植物纤维制品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,774,004,471.06元",
+      "revenue_proportion": "36.99%",
+      "gross_margin": "0.24%",
+      "yoy_change": "0.21%",
+      "quote": "生态植物纤维制品 1,774,004,471.06 36.99%"
+    },
+    {
+      "name": "广东省内",
+      "segment_type": "region",
+      "revenue_amount": "2,302,538,910.42元",
+      "revenue_proportion": "48.01%",
+      "gross_margin": "22.70%",
+      "yoy_change": "8.24%",
+      "quote": "广东省内 2,302,538,910.42 48.01%"
+    },
+    {
+      "name": "广东省外",
+      "segment_type": "region",
+      "revenue_amount": "2,493,032,969.43元",
+      "revenue_proportion": "51.99%",
+      "gross_margin": "8.39%",
+      "yoy_change": "7.72%",
+      "quote": "广东省外 2,493,032,969.43 51.99%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,021,567,408.79元",
+      "revenue_proportion": "63.01%",
+      "yoy_change": "13.11%",
+      "quote": "直销 3,021,567,408.79 63.01%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,774,004,471.06元",
+      "revenue_proportion": "36.99%",
+      "yoy_change": "0.21%",
+      "quote": "经销 1,774,004,471.06 36.99%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "水电",
+      "metric_type": "capacity",
+      "value": "68万千瓦",
+      "period": "报告期末",
+      "quote": "水电装机68万千瓦"
+    },
+    {
+      "product": "生物质能发电",
+      "metric_type": "capacity",
+      "value": "36万千瓦",
+      "period": "报告期末",
+      "quote": "生物质能发电装机36万千瓦"
+    },
+    {
+      "product": "新能源变速箱",
+      "metric_type": "capacity",
+      "value": "年产能8万台",
+      "period": "报告期末",
+      "quote": "现有产品年产能：新能源变速箱8万台"
+    },
+    {
+      "product": "齿轮",
+      "metric_type": "capacity",
+      "value": "年产能1,000万件",
+      "period": "报告期末",
+      "quote": "齿轮1,000万件"
+    },
+    {
+      "product": "环保纸餐具",
+      "metric_type": "capacity",
+      "value": "年产能10万吨",
+      "period": "报告期末",
+      "quote": "环保纸餐具10万吨"
+    },
+    {
+      "product": "生活用纸原纸",
+      "metric_type": "capacity",
+      "value": "年产能37万吨",
+      "period": "报告期末",
+      "quote": "生活用纸原纸37万吨"
+    },
+    {
+      "product": "本色竹浆",
+      "metric_type": "capacity",
+      "value": "年产能6.5万吨",
+      "period": "报告期末",
+      "quote": "本色竹浆6.5万吨"
+    },
+    {
+      "product": "新能源变速器总成",
+      "metric_type": "sales_volume",
+      "value": "48,238台/套",
+      "period": "2025年",
+      "quote": "新能源变速器总成销售量 台/套 48,238"
+    },
+    {
+      "product": "新能源变速器总成",
+      "metric_type": "production_volume",
+      "value": "48,242台/套",
+      "period": "2025年",
+      "quote": "生产量 台/套 48,242"
+    },
+    {
+      "product": "新能源乘用车零部件",
+      "metric_type": "sales_volume",
+      "value": "963,587件/套",
+      "period": "2025年",
+      "quote": "新能源乘用车零部件销售量 件/套 963,587"
+    },
+    {
+      "product": "新能源乘用车零部件",
+      "metric_type": "production_volume",
+      "value": "1,029,268件/套",
+      "period": "2025年",
+      "quote": "生产量 件/套 1,029,268"
+    },
+    {
+      "product": "生态植物纤维纸餐具",
+      "metric_type": "sales_volume",
+      "value": "43,403.11吨",
+      "period": "2025年",
+      "quote": "生态植物纤维纸餐具销售量 吨 43,403.11"
+    },
+    {
+      "product": "纸浆、原纸、成品纸",
+      "metric_type": "sales_volume",
+      "value": "227,114.83吨",
+      "period": "2025年",
+      "quote": "纸浆、原纸、成品纸销售量 吨 227,114.83"
+    },
+    {
+      "product": "电力",
+      "metric_type": "other",
+      "value": "总装机121.20万千瓦",
+      "period": "报告期末",
+      "quote": "截至报告期末公司电力总装机121.20万千瓦"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "发电量42.64亿千瓦时",
+      "period": "2025年",
+      "quote": "发电量（亿千瓦时）42.64"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "上网电量40.52亿千瓦时",
+      "period": "2025年",
+      "quote": "上网电量（亿千瓦时）40.52"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "宏大公司年产2.4万台新能源变速箱零部件和3,600台宽体矿卡变速箱项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "2,576.00万元（本报告期）",
+      "designed_capacity": null,
+      "progress": "部分设备投产，部分生产线在建",
+      "expected_completion_time": null,
+      "quote": "宏大公司年产2.4万台新能源变速箱零部件和3,600台宽体矿卡变速箱项目"
+    },
+    {
+      "name": "智能集控中心建设项目一期工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "615.34万元",
+      "designed_capacity": null,
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "智能集控中心建设项目一期工程"
+    },
+    {
+      "name": "翁城供热工程项目",
+      "project_type": "construction_project",
+      "location": "韶关市曲江区白土",
+      "investment_amount": "2,908.42万元（本报告期）",
+      "designed_capacity": null,
+      "progress": "2025年6月投产",
+      "expected_completion_time": null,
+      "quote": "翁城供热工程项目"
+    },
+    {
+      "name": "瑞储新能公司投资建设分布式光伏发电二期第四批项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "662.49万元",
+      "designed_capacity": null,
+      "progress": "部分子项目投产，部分在建",
+      "expected_completion_time": null,
+      "quote": "瑞储新能公司投资建设分布式光伏发电二期第四批项目"
+    },
+    {
+      "name": "源网荷储电力一体化项目",
+      "project_type": "capacity_expansion",
+      "location": "韶关市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "获得市政府及省发改委支持，正推进各项业务支持文件",
+      "expected_completion_time": null,
+      "quote": "公司大力拓展源网荷储业务...规划投资建设运营韶关集群源网荷储电力一体化项目"
+    },
+    {
+      "name": "再融资（向特定对象发行股票）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "募集资金总额不超过人民币 40,000万元",
+      "designed_capacity": null,
+      "progress": "2025年10月24日获得深圳证券交易所受理",
+      "expected_completion_time": null,
+      "quote": "公司拟向金财投资发行股票...募集资金总额不超过人民币 40,000万元（含本数）"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智能集控中心项目",
+      "asset_type": "technical_platform",
+      "related_product": "水电业务",
+      "quantitative_info": "对11座水电站智能化改造",
+      "quote": "实施并完成智能集控中心建设项目一期工程，对11座水电站智能化改造，促进清洁可再生能源业务的运营朝着“少人值守、无人值班”的信息化、智能化、集约化方向发展"
+    },
+    {
+      "name": "热电联产技术",
+      "asset_type": "process_technology",
+      "related_product": "生物质能发电业务、生态纸餐具、原纸",
+      "quantitative_info": null,
+      "quote": "在内部产业联动方面，通过生物质能发电与餐具业务有机结合，采用热电联产的运营模式...由公司旗下耒杨发电厂为耒阳抄纸项目供应蒸汽与电力，实现热电联产"
+    },
+    {
+      "name": "主导参与制订生态纸餐具行业标准",
+      "asset_type": "standard",
+      "related_product": "生态纸餐具",
+      "quantitative_info": null,
+      "quote": "主导参与制订了行业标准"
+    },
+    {
+      "name": "高端齿轮制造、机加工、锻造、热处理及检测设备",
+      "asset_type": "other",
+      "related_product": "精密（智能）制造",
+      "quantitative_info": "共2,149台套",
+      "quote": "公司从事精密（智能）制造业务的企业现拥有一批国际先进的高端齿轮制造、机加工、锻造、热处理及检测等先进设备，共2,149台套"
+    },
+    {
+      "name": "新能源重型卡车双电机高速四挡铝壳体自动变速器制造关键技术开发",
+      "asset_type": "core_technology",
+      "related_product": "新能源变速器总成",
+      "quantitative_info": "已产业化",
+      "quote": "主要研发项目名称 新能源重型卡车双电机高速四挡铝壳体自动变速器制造关键技术开发"
+    },
+    {
+      "name": "新能源乘用车减速器高速传动内花键齿轮精密制造关键技术开发",
+      "asset_type": "core_technology",
+      "related_product": "新能源乘用车零部件",
+      "quantitative_info": "已产业化",
+      "quote": "主要研发项目名称 新能源乘用车减速器高速传动内花键齿轮精密制造关键技术开发"
+    },
+    {
+      "name": "高温无氟工艺优化创新",
+      "asset_type": "process_technology",
+      "related_product": "生态纸餐具",
+      "quantitative_info": "已产业化",
+      "quote": "主要研发项目名称 高温无氟工艺优化创新"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "52.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例（%） 52.88"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "30.66%",
+      "related_entity": "单位A",
+      "period": "2025年",
+      "quote": "单位A 1,470,411,193.69 30.66"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "19.39%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例（%） 19.39"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.79%",
+      "related_entity": "单位A",
+      "period": "2025年",
+      "quote": "单位A 389,075,000.27 6.79"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "偏大",
+      "related_entity": null,
+      "period": "报告期末",
+      "quote": "截至报告期末，公司应收账款21.44亿元，与年初比增加4.27亿元，应收账款金额偏大"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "风电、太阳能发电这两类新能源上网电量全面进入电力市场，预计这两类新能源业务的市场竞争将增大。",
+      "related_entity": null,
+      "related_product": "风电、太阳能发电",
+      "quote": "按照《新能源电价通知》的规定，推动风电、太阳能发电这两类新能源上网电量全面进入电力市场，自2025年6月1日起执行，预计这两类新能源业务的市场竞争将增大。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国内禁塑政策执行效果不理想，生态纸餐具国内市场的开拓可能需经历一个缓慢爬坡过程。",
+      "related_entity": null,
+      "related_product": "生态纸餐具",
+      "quote": "国内市场方面，虽然目前海南省、河南省出台并实施禁塑令，全国部分省市也陆续出台禁塑政策，但国内禁塑政策执行效果不理想，公司生态纸餐具国内市场的开拓可能需经历一个缓慢爬坡过程。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受上游浆板价格大幅波动、下游市场激烈竞争等因素影响，浆纸价格倒挂，经营业绩承压。",
+      "related_entity": null,
+      "related_product": "纸浆、原纸、成品纸",
+      "quote": "报告期内，公司从事原纸（抄纸）业务的企业持续拓展销售业务，原纸销售量同比增长31%，但受上游浆板价格大幅波动、下游市场激烈竞争等因素影响，浆纸价格倒挂，经营业绩承压。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "国外贸易政策变化导致纸餐具出口业务的订单下滑。",
+      "related_entity": null,
+      "related_product": "生态纸餐具",
+      "quote": "报告期内，受国外贸易政策变化等因素影响，公司纸餐具出口业务的订单下滑，销售量同比下降14.65%，经营业绩承压。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款金额偏大，回款工作仍需长期不懈地跟进、抓好。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末，公司应收账款21.44亿元，与年初比增加4.27亿元，应收账款金额偏大，回款工作仍需长期不懈地跟进、抓好。"
+    }
+  ]
+}

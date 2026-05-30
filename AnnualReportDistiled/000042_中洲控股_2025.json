@@ -1,0 +1,326 @@
+{
+  "company_name_mentioned": "深圳市中洲投资控股股份有限公司",
+  "produces": [
+    {
+      "name": "房地产",
+      "type": "service",
+      "revenue_proportion": "83.38%",
+      "quote": "房地产 2,163,294,256.79 83.38%"
+    },
+    {
+      "name": "服务",
+      "type": "service",
+      "revenue_proportion": "7.72%",
+      "quote": "服务 200,248,725.14 7.72%"
+    },
+    {
+      "name": "酒店",
+      "type": "service",
+      "revenue_proportion": "8.47%",
+      "quote": "酒店 219,732,936.94 8.47%"
+    },
+    {
+      "name": "施工",
+      "type": "service",
+      "revenue_proportion": "0.43%",
+      "quote": "施工 11,206,857.60 0.43%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "建安工程服务",
+      "target_product": null,
+      "cost_proportion": "89.38%",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 89.38%"
+    },
+    {
+      "name": "中航建筑工程有限公司",
+      "target_product": null,
+      "cost_proportion": "80.77%",
+      "quote": "1 中航建筑工程有限公司 2,524,704,469.75 80.77%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "住宅开发与销售",
+      "source_product": "房地产",
+      "quote": "公司致力于成为国内一流城市综合运营商，业务涵盖地产开发、酒店经营、物业服务、商业管理等领域。"
+    },
+    {
+      "name": "商业综合体运营",
+      "source_product": "商业管理",
+      "quote": "中洲滨海商业中心、中洲滨海华府项目位于福田中心区，由公司受托经营管理，...打造成集办公、居住、购物、休闲、娱乐为一体的大型都市综合体。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "贾帅",
+      "role": "董事长",
+      "quote": "公司负责人贾帅、主管会计工作负责人叶晓东及会计机构负责人（会计主管人员）唐大平声明...董事长：贾帅"
+    },
+    {
+      "name": "叶晓东",
+      "role": "副总裁、财务总监、董事会秘书",
+      "quote": "叶晓东：2017年6月起任本公司副总裁、财务总监，2021年1月起兼任本公司董事会秘书。"
+    },
+    {
+      "name": "谭华森",
+      "role": "副董事长",
+      "quote": "谭华森：2011年4月起任本公司董事，2014年1月起任本公司副董事长。"
+    },
+    {
+      "name": "黄光苗",
+      "role": "实际控制人",
+      "quote": "实际控制人性质：境外自然人，实际控制人姓名：黄光苗"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳中洲集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东名称：深圳中洲集团有限公司"
+    },
+    {
+      "name": "德勤华永会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "会计师事务所名称 德勤华永会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "深业进智物流发展有限公司",
+      "relation_type": "customer",
+      "business_details": "诉讼案件原告（被告为公司及子公司）",
+      "quote": "深业进智物流发展有限公司诉深圳市中洲投资控股股份有限公司、深圳市长城物流有限公司纠纷案"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "房地产",
+      "segment_type": "product_line",
+      "revenue_amount": "2,163,294,256.79元",
+      "revenue_proportion": "83.38%",
+      "gross_margin": "39.26%",
+      "yoy_change": "-41.72%",
+      "quote": "房地产 2,163,294,256.79 83.38% ... 毛利率 39.26% ... 营业收入比上年增减 -41.72%"
+    },
+    {
+      "name": "服务",
+      "segment_type": "product_line",
+      "revenue_amount": "200,248,725.14元",
+      "revenue_proportion": "7.72%",
+      "gross_margin": null,
+      "yoy_change": "-36.85%",
+      "quote": "服务 200,248,725.14 7.72% ... 营业收入比上年增减 -36.85%"
+    },
+    {
+      "name": "酒店",
+      "segment_type": "product_line",
+      "revenue_amount": "219,732,936.94元",
+      "revenue_proportion": "8.47%",
+      "gross_margin": null,
+      "yoy_change": "-21.78%",
+      "quote": "酒店 219,732,936.94 8.47% ... 营业收入比上年增减 -21.78%"
+    },
+    {
+      "name": "施工",
+      "segment_type": "product_line",
+      "revenue_amount": "11,206,857.60元",
+      "revenue_proportion": "0.43%",
+      "gross_margin": null,
+      "yoy_change": "-19.46%",
+      "quote": "施工 11,206,857.60 0.43% ... 营业收入比上年增减 -19.46%"
+    },
+    {
+      "name": "广东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,653,068,470.32元",
+      "revenue_proportion": "63.71%",
+      "gross_margin": "29.50%",
+      "yoy_change": "-60.09%",
+      "quote": "广东地区 1,653,068,470.32 63.71% ... 毛利率 29.50% ... 营业收入比上年增减 -60.09%"
+    },
+    {
+      "name": "四川地区",
+      "segment_type": "region",
+      "revenue_amount": "931,067,388.09元",
+      "revenue_proportion": "35.89%",
+      "gross_margin": "51.17%",
+      "yoy_change": "478.76%",
+      "quote": "四川地区 931,067,388.09 35.89% ... 毛利率 51.17% ... 营业收入比上年增减 478.76%"
+    },
+    {
+      "name": "上海地区",
+      "segment_type": "region",
+      "revenue_amount": "10,346,918.06元",
+      "revenue_proportion": "0.40%",
+      "gross_margin": null,
+      "yoy_change": "-49.78%",
+      "quote": "上海地区 10,346,918.06 0.40% ... 营业收入比上年增减 -49.78%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "房地产",
+      "metric_type": "sales_volume",
+      "value": "22.83 万平方米",
+      "period": "2025年",
+      "quote": "全年公司实现房地产销售面积 22.83 万平方米，销售金额 84.71 亿元（含委托经营项目）"
+    },
+    {
+      "product": "房地产",
+      "metric_type": "sales_volume",
+      "value": "84.71 亿元",
+      "period": "2025年",
+      "quote": "全年公司实现房地产销售面积 22.83 万平方米，销售金额 84.71 亿元（含委托经营项目）"
+    },
+    {
+      "product": "房地产",
+      "metric_type": "other",
+      "value": "同比下降 43.93%",
+      "period": "2025年 vs 2024年",
+      "quote": "销售金额降幅较大主要原因是本期深圳地区产品销售进入尾盘期，叠加销售单价较高，导致同比整体销售下降明显。"
+    },
+    {
+      "product": "投资性房地产",
+      "metric_type": "capacity",
+      "value": "可出租面积详见表格",
+      "period": "2025年",
+      "quote": "主要项目出租情况...可出租面积（㎡）"
+    },
+    {
+      "product": "投资性房地产",
+      "metric_type": "other",
+      "value": "平均出租率详见表格",
+      "period": "2025年",
+      "quote": "主要项目出租情况...平均出租率"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity_utilization",
+      "value": "93%",
+      "period": "2025年",
+      "quote": "全年综合回款率达到 93%，高于年初制定的目标10个百分点以上"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "深圳中洲坊创意中心",
+      "project_type": "construction_project",
+      "location": "深圳市罗湖区",
+      "investment_amount": null,
+      "designed_capacity": "物流商业",
+      "progress": "在建（01、02#地块在建，03#地块竣工）",
+      "expected_completion_time": null,
+      "quote": "中洲坊创意中心项目位于罗湖区笋岗清水河片区门户地段...项目业态：物流商业"
+    },
+    {
+      "name": "深圳迎玺花园",
+      "project_type": "construction_project",
+      "location": "深圳市龙华区",
+      "investment_amount": null,
+      "designed_capacity": "商住、商办",
+      "progress": "在建（51.00%）",
+      "expected_completion_time": null,
+      "quote": "迎玺花园...深圳龙华区...项目业态：商住、商办"
+    },
+    {
+      "name": "惠州半岛城邦",
+      "project_type": "construction_project",
+      "location": "惠州市博罗县",
+      "investment_amount": null,
+      "designed_capacity": "商住",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "半岛城邦...惠州博罗...项目业态：商住"
+    },
+    {
+      "name": "成都三岔湖项目",
+      "project_type": "construction_project",
+      "location": "成都",
+      "investment_amount": null,
+      "designed_capacity": "总建筑面积84.43万㎡",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "成都三岔湖项目...总建筑面积（万㎡）84.43"
+    },
+    {
+      "name": "深圳宝安26区项目",
+      "project_type": "construction_project",
+      "location": "深圳市宝安区",
+      "investment_amount": null,
+      "designed_capacity": "总建筑面积29.33万㎡",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "深圳宝安26区项目...总建筑面积（万㎡）29.33"
+    }
+  ],
+  "technology_assets": [],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "447,593,960.99 元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 447,593,960.99"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "17.24%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 17.24%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "2,793,731,625.79 元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,793,731,625.79"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "89.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 89.38%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "80.77%",
+      "related_entity": "中航建筑工程有限公司",
+      "period": "2025年",
+      "quote": "1 中航建筑工程有限公司 2,524,704,469.75 80.77%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "2025年全国新建商品房销售面积约8.81亿平方米，同比下降8.7%；房地产开发投资82,788亿元，同比下降17.2%，其中住宅投资63,514亿元，下降16.3%。...行业仍处于深度调整过程中，市场全面回稳仍面临挑战。",
+      "related_entity": null,
+      "related_product": "房地产",
+      "quote": "国家统计局数据显示，2025年全国新建商品房销售面积约8.81亿平方米，同比下降8.7%；房地产开发投资82,788亿元，同比下降17.2%...行业仍处于深度调整过程中，市场全面回稳仍面临挑战。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "2025年房企融资仍然呈现收缩态势...公司融资仍面临多重挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年房企融资仍然呈现收缩态势，全年融资规模达4,143亿，仍然处于低位。...2026 年，公司融资仍面临多重挑战。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "惠州中洲置业有限公司涉及多起诉讼案件，主要涉及股权转让合同解除及合作纠纷，诉讼金额较大。",
+      "related_entity": "惠州中洲置业有限公司",
+      "related_product": null,
+      "quote": "关于惠州中洲置业有限公司诉惠州市水清木华信息技术有限公司等公司股权合作纠纷...主要诉讼请求为解除几方签订的股权转让合同，要求被告返还已支付的合作价款及利息共计人民币2.2亿元。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "深业进智物流发展有限公司诉本公司及子公司深圳市长城物流有限公司土地置换协议纠纷，要求赔偿损失124,052,190元，目前一审判决已驳回原告其他诉讼请求，双方已上诉。",
+      "related_entity": "深业进智物流发展有限公司",
+      "related_product": null,
+      "quote": "深业进智物流发展有限公司诉深圳市中洲投资控股股份有限公司、深圳市长城物流有限公司纠纷案...要求：（1）判决解除原告与公司签订的《土地置换协议》；（2）判令公司赔偿因违约给原告造成的损失人民币124,052,190元；（3）判令长城物流就公司因违约给原告造成的损失承担连带赔偿责任。"
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "company_name_mentioned": "中节能太阳能股份有限公司",
+  "produces": [
+    {
+      "name": "太阳能电力",
+      "type": "service",
+      "revenue_proportion": "86.18%",
+      "quote": "太阳能电力销售 4,272,494,761.85 86.18%"
+    },
+    {
+      "name": "太阳能组件",
+      "type": "device",
+      "revenue_proportion": "12.31%",
+      "quote": "太阳能产品销售 610,128,591.72 12.31%"
+    },
+    {
+      "name": "光伏组件回收服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "组件回收业务落地运营，首套集装箱式组件回收设备已累计处理约8,200块废旧组件，核心产物铝边框和玻璃纯度突破99%"
+    },
+    {
+      "name": "综合能源解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "围绕“零碳园区、零碳工厂、源网荷储一体化”三大场景，打造一站式清洁能源解决服务方案，已实现订单落地。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "光伏组件及电池片生产原材料",
+      "target_product": "太阳能产品",
+      "cost_proportion": "93.11%",
+      "quote": "太阳能产品制造 原材料费用 556,203,166.47 93.11%"
+    },
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "19.27%",
+      "quote": "供应商一 922,244,532.92 19.27%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "7.67%",
+      "quote": "供应商二 367,221,850.00 7.67%"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "6.68%",
+      "quote": "供应商三 319,999,680.00 6.68%"
+    },
+    {
+      "name": "供应商四",
+      "target_product": null,
+      "cost_proportion": "6.21%",
+      "quote": "供应商四 297,246,106.57 6.21%"
+    },
+    {
+      "name": "供应商五",
+      "target_product": null,
+      "cost_proportion": "5.12%",
+      "quote": "供应商五 245,042,403.48 5.12%"
+    },
+    {
+      "name": "电力、能源等",
+      "target_product": "光伏电站",
+      "cost_proportion": null,
+      "quote": "太阳能发电 原材料费用 97,402.37 0.00%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网并网发电",
+      "source_product": "太阳能电力",
+      "quote": "公司光伏电站所生产的电力主要出售给国家电网、南方电网。"
+    },
+    {
+      "name": "集中式光伏电站",
+      "source_product": "太阳能组件",
+      "quote": "巩固主流地面电站市场优势，提升单位功率收益与品牌溢价。"
+    },
+    {
+      "name": "分布式光伏项目",
+      "source_product": "太阳能组件",
+      "quote": "构建覆盖集中式与分布式的量产产品梯队"
+    },
+    {
+      "name": "零碳园区/工厂",
+      "source_product": "综合能源解决方案",
+      "quote": "围绕“零碳园区、零碳工厂、源网荷储一体化”三大场景，打造一站式清洁能源解决服务方案"
+    },
+    {
+      "name": "海外市场（欧洲、亚太等）",
+      "source_product": "太阳能组件",
+      "quote": "光伏产品及服务远销海内外，境外核心市场涵盖欧洲、亚太等地。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张会学",
+      "role": "党委书记、董事长",
+      "quote": "公司负责人张会学、主管会计工作负责人程欣及会计机构负责人（会计主管人员）肖宏浩声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "杨忠绪",
+      "role": "总经理",
+      "quote": "经公司2026年4月2日召开的第十一届董事会第二十七次会议审议通过《关于聘任总经理的议案》，杨忠绪被聘任为公司总经理。"
+    },
+    {
+      "name": "程欣",
+      "role": "总会计师",
+      "quote": "主管会计工作负责人程欣"
+    },
+    {
+      "name": "郭毅",
+      "role": "副总经理、董事会秘书、总法律顾问",
+      "quote": "董事会秘书 证券事务代表 姓名 郭毅"
+    },
+    {
+      "name": "杜虎",
+      "role": "副总经理",
+      "quote": "经第十一届董事会第二十五次会议审议通过，被聘任为公司副总经理"
+    },
+    {
+      "name": "李菁楠",
+      "role": "总经理助理",
+      "quote": "现任公司总经理助理、中节能太阳能科技（镇江）有限公司董事长。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国节能环保集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司的控股股东中国节能环保集团有限公司"
+    },
+    {
+      "name": "中节能太阳能科技（镇江）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光伏产品生产、销售",
+      "quote": "镇江公司 指 中节能太阳能科技（镇江）有限公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "电力销售的主要客户",
+      "quote": "客户一为国家电网有限公司。"
+    },
+    {
+      "name": "南方电网",
+      "relation_type": "customer",
+      "business_details": "电力销售客户",
+      "quote": "公司光伏电站所生产的电力主要出售给国家电网、南方电网。"
+    },
+    {
+      "name": "中节能财务有限公司",
+      "relation_type": "supplier",
+      "business_details": "提供金融服务（存款、贷款等）",
+      "quote": "中节能财务有限公司向本公司及下属子公司提供金融财务服务，主要包括：存款服务、贷款服务"
+    },
+    {
+      "name": "致同会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计服务",
+      "quote": "会计师事务所名称 致同会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "华泰联合证券有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "保荐机构",
+      "quote": "保荐机构名称 保荐机构办公地址 保荐代表人姓名 持续督导期间 华泰联合证券有限责任公司 许可、孙轩"
+    },
+    {
+      "name": "太极集团",
+      "relation_type": "other",
+      "business_details": "公司原控股股东（历史）",
+      "quote": "太极集团 指 重庆太极实业（集团）股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "太阳能发电",
+      "segment_type": "product_line",
+      "revenue_amount": "4,272,494,761.85元",
+      "revenue_proportion": "86.18%",
+      "gross_margin": "54.08%",
+      "yoy_change": "-1.40%",
+      "quote": "太阳能发电 4,272,494,761.85 86.18%"
+    },
+    {
+      "name": "太阳能产品制造",
+      "segment_type": "product_line",
+      "revenue_amount": "610,128,591.72元",
+      "revenue_proportion": "12.31%",
+      "gross_margin": "2.09%",
+      "yoy_change": "-63.72%",
+      "quote": "太阳能产品制造 610,128,591.72 12.31%"
+    },
+    {
+      "name": "华东区",
+      "segment_type": "region",
+      "revenue_amount": "1,367,830,786.04元",
+      "revenue_proportion": "27.59%",
+      "gross_margin": "63.57%",
+      "yoy_change": "4.69%",
+      "quote": "华东区 1,367,830,786.04 27.59%"
+    },
+    {
+      "name": "镇江（公司）",
+      "segment_type": "region",
+      "revenue_amount": "597,215,953.44元",
+      "revenue_proportion": "12.05%",
+      "gross_margin": "4.56%",
+      "yoy_change": "-61.83%",
+      "quote": "镇江 597,215,953.44 12.05%"
+    },
+    {
+      "name": "西中区",
+      "segment_type": "region",
+      "revenue_amount": "684,779,453.67元",
+      "revenue_proportion": "13.81%",
+      "gross_margin": "52.36%",
+      "yoy_change": "-5.55%",
+      "quote": "西中区 684,779,453.67 13.81%"
+    },
+    {
+      "name": "华北区",
+      "segment_type": "region",
+      "revenue_amount": "630,177,761.94元",
+      "revenue_proportion": "12.71%",
+      "gross_margin": "52.07%",
+      "yoy_change": "38.93%",
+      "quote": "华北区 630,177,761.94 12.71%"
+    },
+    {
+      "name": "新疆区",
+      "segment_type": "region",
+      "revenue_amount": "598,839,752.17元",
+      "revenue_proportion": "12.08%",
+      "gross_margin": "46.66%",
+      "yoy_change": "-2.14%",
+      "quote": "新疆区 598,839,752.17 12.08%"
+    },
+    {
+      "name": "西北区",
+      "segment_type": "region",
+      "revenue_amount": "433,175,564.19元",
+      "revenue_proportion": "8.74%",
+      "gross_margin": null,
+      "yoy_change": "-43.03%",
+      "quote": "西北区 433,175,564.19 8.74%"
+    },
+    {
+      "name": "华中区",
+      "segment_type": "region",
+      "revenue_amount": "422,175,517.13元",
+      "revenue_proportion": "8.52%",
+      "gross_margin": "60.46%",
+      "yoy_change": "18.27%",
+      "quote": "华中区 422,175,517.13 8.52%"
+    },
+    {
+      "name": "华南区",
+      "segment_type": "region",
+      "revenue_amount": "209,260,140.75元",
+      "revenue_proportion": "4.22%",
+      "gross_margin": null,
+      "yoy_change": "47.61%",
+      "quote": "华南区 209,260,140.75 4.22%"
+    },
+    {
+      "name": "海外",
+      "segment_type": "region",
+      "revenue_amount": "14,022,333.78元",
+      "revenue_proportion": "0.28%",
+      "gross_margin": null,
+      "yoy_change": "-88.17%",
+      "quote": "海外 14,022,333.78 0.28%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,957,477,263.11元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "46.58%",
+      "yoy_change": "-17.91%",
+      "quote": "直销模式 4,957,477,263.11 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "太阳能光伏高效组件",
+      "metric_type": "capacity",
+      "value": "3.5吉瓦",
+      "period": "2025年末",
+      "quote": "公司太阳能光伏高效组件年产能为3.5吉瓦"
+    },
+    {
+      "product": "独立储能项目",
+      "metric_type": "capacity",
+      "value": "250MW/500MWh",
+      "period": "2025年末",
+      "quote": "独立储能项目运营规模合计为250MW/500MWh"
+    },
+    {
+      "product": "光伏组件回收集装箱",
+      "metric_type": "capacity",
+      "value": "万吨级",
+      "period": "2025年末",
+      "quote": "组件回收集装箱年处理能力为万吨级。"
+    },
+    {
+      "product": "光伏电站",
+      "metric_type": "capacity",
+      "value": "12.261吉瓦",
+      "period": "2025年末",
+      "quote": "截至2025年12月底，公司运营电站、在建电站、拟建设及已签署预收购协议的电站规模合计约12.261吉瓦。"
+    },
+    {
+      "product": "光伏电站",
+      "metric_type": "capacity",
+      "value": "7.170吉瓦",
+      "period": "2025年末（运营）",
+      "quote": "截至2025年12月底，公司运营电站约7.170GW"
+    },
+    {
+      "product": "光伏电站",
+      "metric_type": "capacity",
+      "value": "1.511吉瓦",
+      "period": "2025年末（在建）",
+      "quote": "在建电站约1.511GW"
+    },
+    {
+      "product": "光伏电站",
+      "metric_type": "production_volume",
+      "value": "83.69亿千瓦时",
+      "period": "2025年度",
+      "quote": "公司2025年全部销售电量约83.69亿千瓦时"
+    },
+    {
+      "product": "太阳能组件",
+      "metric_type": "sales_volume",
+      "value": "1,024.56 MW",
+      "period": "2025年度",
+      "quote": "销售量 MW 1,024.56"
+    },
+    {
+      "product": "太阳能组件",
+      "metric_type": "production_volume",
+      "value": "404.69 MW",
+      "period": "2025年度",
+      "quote": "生产量 MW 404.69"
+    },
+    {
+      "product": "太阳能组件",
+      "metric_type": "inventory_volume",
+      "value": "52.56 MW",
+      "period": "2025年末",
+      "quote": "库存量 MW 52.56"
+    },
+    {
+      "product": "太阳能电池片",
+      "metric_type": "sales_volume",
+      "value": "1.04 MW",
+      "period": "2025年度",
+      "quote": "销售量 MW 1.04"
+    },
+    {
+      "product": "太阳能电池片",
+      "metric_type": "production_volume",
+      "value": "0.00 MW",
+      "period": "2025年度",
+      "quote": "生产量 MW 0.00"
+    },
+    {
+      "product": "太阳能电池片",
+      "metric_type": "inventory_volume",
+      "value": "29.69 MW",
+      "period": "2025年末",
+      "quote": "库存量 MW 29.69"
+    },
+    {
+      "product": "售电业务",
+      "metric_type": "sales_volume",
+      "value": "1,325.676万度",
+      "period": "2025年度",
+      "quote": "2025年全年完成电力代理销售1,325.676万度"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中节能太阳能牟平一期100兆瓦光伏复合发电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "100兆瓦",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "中节能太阳能牟平一期100兆瓦光伏复合发电项目"
+    },
+    {
+      "name": "中节能第十二师产业园区低碳转型50万千瓦光伏项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "50万千瓦",
+      "progress": "2025年尚未并网及运营",
+      "expected_completion_time": null,
+      "quote": "中节能第十二师产业园区低碳转型50万千瓦光伏项目"
+    },
+    {
+      "name": "察布查尔县25万千瓦/100万千瓦时全钒液流电池储能+100万千瓦市场化并网光伏发电项目一期300兆瓦项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "103,000.00万元（调整后）",
+      "designed_capacity": "300兆瓦",
+      "progress": "100%",
+      "expected_completion_time": "2025年6月",
+      "quote": "察布查尔县25万千瓦/100万千瓦时全钒液流电池储能+100万千瓦市场化并网光伏发电项目一期300兆瓦项目"
+    },
+    {
+      "name": "中节能太阳能吉木萨尔县15万千瓦“光伏+储能”一体化清洁能源示范项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "38,000.00万元（调整后）",
+      "designed_capacity": "15万千瓦",
+      "progress": "100%",
+      "expected_completion_time": "2024年6月",
+      "quote": "中节能太阳能吉木萨尔县15万千瓦“光伏+储能”一体化清洁能源示范项目"
+    },
+    {
+      "name": "中节能扬州真武150MW渔光互补光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "54,000.00万元（调整后）",
+      "designed_capacity": "150MW",
+      "progress": "27.82%",
+      "expected_completion_time": "2026年12月",
+      "quote": "中节能扬州真武150MW渔光互补光伏发电项目"
+    },
+    {
+      "name": "中节能关岭县普利长田100MW农业光伏电站项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "35,000.00万元（调整后）",
+      "designed_capacity": "100MW",
+      "progress": "77.54%",
+      "expected_completion_time": "2026年12月",
+      "quote": "中节能关岭县普利长田100MW农业光伏电站项目"
+    },
+    {
+      "name": "中节能册亨县弼佑秧项100MW农业光伏电站项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "32,000.00万元（调整后）",
+      "designed_capacity": "100MW",
+      "progress": "81.68%",
+      "expected_completion_time": "2025年6月",
+      "quote": "中节能册亨县弼佑秧项100MW农业光伏电站项目"
+    },
+    {
+      "name": "中节能册亨县双江秧绕100MW农业光伏电站项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "33,000.00万元（调整后）",
+      "designed_capacity": "100MW",
+      "progress": "69.44%",
+      "expected_completion_time": "2026年12月",
+      "quote": "中节能册亨县双江秧绕100MW农业光伏电站项目"
+    },
+    {
+      "name": "中节能滨海太平镇300兆瓦光伏复合发电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "110,100.00万元（承诺）",
+      "designed_capacity": "300兆瓦",
+      "progress": "89.92%",
+      "expected_completion_time": "2024年12月",
+      "quote": "中节能滨海太平镇300兆瓦光伏复合发电项目"
+    },
+    {
+      "name": "10MW钙钛矿/晶硅叠层电池中试产线",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "10MW",
+      "progress": "规划布局",
+      "expected_completion_time": null,
+      "quote": "布局建设10MW钙钛矿/晶硅叠层电池中试产线。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效专利授权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "507项（其中有效发明92项，实用新型404项，外观11项）",
+      "quote": "截至2025年12月31日，公司拥有有效专利授权507项，其中有效发明92项，实用新型404项，外观11项"
+    },
+    {
+      "name": "授权软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "70项",
+      "quote": "共获得授权软件著作权70项"
+    },
+    {
+      "name": "国家标准编制、修订",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主持或参与31项（其中已印发19项）",
+      "quote": "公司主持或参与国家标准编制、修订共31项，其中已经印发19项"
+    },
+    {
+      "name": "行业标准编写",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主持或参与16项（其中已印发8项）",
+      "quote": "主持或参与行业标准编写16项，其中已经印发8项"
+    },
+    {
+      "name": "团体标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主持或参与56项（其中已印发19项）",
+      "quote": "主持或参与团体标准56项，其中已经印发19项"
+    },
+    {
+      "name": "地方标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "正在参与编制、修订6项",
+      "quote": "目前正在参与编制、修订的地方标准6项。"
+    },
+    {
+      "name": "CNAS实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有国家级CNAS实验室"
+    },
+    {
+      "name": "TUV莱茵目击实验室资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "TUV莱茵目击实验室资质"
+    },
+    {
+      "name": "182N、210N、210RN等高效电池片技术",
+      "asset_type": "core_technology",
+      "related_product": "太阳能电池片",
+      "quantitative_info": null,
+      "quote": "聚焦182N、210N、210RN等高效电池片，构建覆盖集中式与分布式的量产产品梯队"
+    },
+    {
+      "name": "钙钛矿/晶硅叠层电池技术",
+      "asset_type": "core_technology",
+      "related_product": "新型太阳能电池",
+      "quantitative_info": null,
+      "quote": "持续深入探索高效宽带隙钙钛矿晶硅叠层太阳能电池关键技术研究"
+    },
+    {
+      "name": "AI智能体平台（五智体系）",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "13个业务应用模块上线运行",
+      "quote": "完成AI智能体平台搭建，覆盖行政管理、生产运维等多个领域的“五智（智享、智库、智管、智维、智造）”智能体体系，实现13个业务应用模块上线运行"
+    },
+    {
+      "name": "研发平台",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "17个研发平台",
+      "quote": "公司拥有江苏省（中节能）晶硅太阳能电池及组件工程技术研究中心、江苏省企业技术中心、北京市企业技术中心等17个研发平台"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "6家",
+      "quote": "6家高新技术企业（均在有效期）"
+    },
+    {
+      "name": "专精特新中小企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "5家",
+      "quote": "5家“专精特新”中小企业"
+    },
+    {
+      "name": "组件回收技术",
+      "asset_type": "process_technology",
+      "related_product": "光伏组件回收",
+      "quantitative_info": null,
+      "quote": "首套集装箱式组件回收设备已累计处理约8,200块废旧组件，核心产物铝边框和玻璃纯度突破99%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "75.95%",
+      "related_entity": "客户一（国家电网有限公司）",
+      "period": "2025年度",
+      "quote": "客户一 4,211,059,052.88 75.95%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "93.66%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 93.66%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "44.95%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 44.95%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "19.27%",
+      "related_entity": "供应商一",
+      "period": "2025年度",
+      "quote": "供应商一 922,244,532.92 19.27%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "光伏电站业务，面临各大发电集团的市场竞争。光伏制造业务，面临头部企业一体化竞争和行业整体形势的双重竞争压力，及新型电池技术迭代带来的机遇和挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.竞争风险。光伏电站业务，面临各大发电集团的市场竞争。...光伏制造业务，面临头部企业一体化竞争和行业整体形势的双重竞争压力..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "土地各种费用等非技术成本有不断提高的趋势，给公司项目收益率水平带来挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.非技术成本较高。2023年以来光伏组件产品价格大幅下降，但土地各种费用等非技术成本有不断提高的趋势，给公司项目收益率水平带来挑战。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场化改革带来电价波动风险，收益模式重构。新能源全面入市后，整体电价的时空分布差异明显...电价与供需之间的联系愈发紧密，供大于求地区和时段的电价出现明显下滑。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.电价波动及限电问题压力凸显。电力市场化改革带来电价波动风险，收益模式重构。新能源全面入市后，整体电价的时空分布差异明显..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "受光伏制造行业技术迭代加速与产能阶段性过剩的双重挤压，全行业普遍面临经营压力。",
+      "related_entity": null,
+      "related_product": "光伏制造",
+      "quote": "4．光伏制造出现全环节承压。受光伏制造行业技术迭代加速与产能阶段性过剩的双重挤压，全行业普遍面临经营压力。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "光伏产品制造原材料费用占成本比重高，受市场行情影响大。",
+      "related_entity": null,
+      "related_product": "太阳能产品",
+      "quote": "太阳能产品制造原材料费用较上年同期下降60.68%，主要原因为受光伏制造业技术迭代及市场行情影响，本期产量较上年同期大幅下降，导致原材料费用下降。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "面临新型电池技术迭代带来的机遇和挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "光伏制造业务...面临...新型电池技术迭代带来的机遇和挑战。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司资产负债率较高，长期借款规模大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "长期借款 13,489,130,684.60 26.02%"
+    }
+  ]
+}

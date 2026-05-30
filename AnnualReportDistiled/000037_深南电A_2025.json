@@ -1,0 +1,420 @@
+{
+  "company_name_mentioned": "深圳南山热电股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "电力生产销售收入为279,495,457.00元，占营业收入的69.58%。",
+      "quote": "分产品 电力生产销售 279,495,457.00 69.58%..."
+    },
+    {
+      "name": "综合能源服务",
+      "type": "service",
+      "revenue_proportion": "综合能源服务收入为136,569,934.67元，占营业收入的34.00%。",
+      "quote": "分产品 综合能源服务 136,569,934.67 34.00%..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料（天然气）",
+      "target_product": "电力",
+      "cost_proportion": "燃料成本为185,180,604.72元，占总营业成本比重的58.74%。",
+      "quote": "电力行业 燃料 185,180,604.72 58.74%..."
+    },
+    {
+      "name": "制造费用",
+      "target_product": "电力",
+      "cost_proportion": "制造费用为58,722,420.92元，占总营业成本比重的18.63%。",
+      "quote": "电力行业 制造费用 58,722,420.92 18.63%..."
+    },
+    {
+      "name": "项目分包",
+      "target_product": "电力",
+      "cost_proportion": "项目分包成本为35,020,350.62元，占总营业成本比重的11.11%。",
+      "quote": "电力行业 项目分包 35,020,350.62 11.11%..."
+    },
+    {
+      "name": "职工薪酬",
+      "target_product": "电力",
+      "cost_proportion": "职工薪酬为25,373,240.69元，占总营业成本比重的8.05%。",
+      "quote": "电力行业 职工薪酬 25,373,240.69 8.05%..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "电力",
+      "quote": "公司主要销售客户情况：1 深圳供电局有限公司 279,762,843.78 69.65%；2 广东电网有限责任公司 59,717,844.45 14.87%"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "孔国梁",
+      "role": "董事长",
+      "quote": "公司负责人及主管会计工作负责人孔国梁...2022年9月至今任本公司董事长"
+    },
+    {
+      "name": "胡明",
+      "role": "副董事长",
+      "quote": "副董事长 胡明"
+    },
+    {
+      "name": "张小银",
+      "role": "财务总监",
+      "quote": "财务总监张小银"
+    },
+    {
+      "name": "邹奕",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 邹奕"
+    },
+    {
+      "name": "陈玉辉",
+      "role": "董事、总经理（报告期内离任）",
+      "quote": "董事 陈玉辉 男 60...2025年9月30日...因达到法定退休年龄辞去公司董事、总经理职务"
+    },
+    {
+      "name": "巫国文",
+      "role": "董事、常务副总经理（报告期内离任）",
+      "quote": "董事 巫国文 男 60...2025年6月11日...因达到法定退休年龄辞去公司董事、常务副总经理职务"
+    },
+    {
+      "name": "李超",
+      "role": "副总经理",
+      "quote": "副总经理 李超"
+    },
+    {
+      "name": "陶琳",
+      "role": "副总经理",
+      "quote": "副总经理 陶琳"
+    },
+    {
+      "name": "黄庆",
+      "role": "董事",
+      "quote": "董事 黄庆"
+    },
+    {
+      "name": "陈晔东",
+      "role": "董事",
+      "quote": "董事 陈晔东"
+    },
+    {
+      "name": "林涌铮",
+      "role": "董事、副总经理",
+      "quote": "董事 林涌铮 男 35...副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深南电（中山）电力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "燃气发电、余热发电、供电和供热等。",
+      "quote": "深南电（中山）电力有限公司（简称“深南电中山公司”）...主要业务 燃气—蒸汽联合循环发电厂（站）的建设工程技术咨询服务..."
+    },
+    {
+      "name": "深圳深南电燃机工程技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "燃气—蒸汽联合循环发电厂（站）运行设备维护和检修；工程管理服务等。",
+      "quote": "深圳深南电燃机工程技术有限公司...主要业务 燃气—蒸汽联合循环发电厂（站）运行设备维护和检修；工程管理服务..."
+    },
+    {
+      "name": "深圳深南电环保有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "售电业务、新能源运维服务等。",
+      "quote": "深圳深南电环保有限公司...深南电环保公司积极拓展售电业务...全面开拓运维类、光储充类等综合能源服务项目"
+    },
+    {
+      "name": "深圳协孚能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "能源集团物业租赁管理服务业务。",
+      "quote": "协孚公司积极拓展业务版图，聚焦能源集团物业租赁管理服务业务"
+    },
+    {
+      "name": "深圳新电力实业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "深圳新电力实业有限公司（简称“新电力公司”）"
+    },
+    {
+      "name": "深南电西湾能源（中山）有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "独立储能电站项目的投资、建设、运营。",
+      "quote": "深南电西湾能源（中山）有限责任公司...中山独立储能电站（一期）项目于2025年6月正式转入商业运行"
+    },
+    {
+      "name": "深南电能源科技（四川）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新能源工程建设、储能、光伏等领域EPC业务。",
+      "quote": "能源科技公司紧扣公司整体发展战略，聚焦新能源工程建设领域，以“快速融入、高效协同、精准破局”为目标，依托EPC专业优势深耕储能、光伏领域"
+    },
+    {
+      "name": "深圳市能源集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持有公司10.80%股份，通过香港南海洋行（国际）有限公司间接持有15.28%股份。与公司存在关联交易。",
+      "quote": "深圳市能源集团有限公司 10.80% 65,106,130...深圳市能源集团有限公司为公司关联法人"
+    },
+    {
+      "name": "深圳供电局有限公司",
+      "relation_type": "customer",
+      "business_details": "公司最大客户，销售金额占比69.65%。",
+      "quote": "1 深圳供电局有限公司 279,762,843.78 69.65%"
+    },
+    {
+      "name": "广东电网有限责任公司",
+      "relation_type": "customer",
+      "business_details": "公司第二大客户，销售金额占比14.87%。",
+      "quote": "2 广东电网有限责任公司 59,717,844.45 14.87%"
+    },
+    {
+      "name": "深圳市燃气集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司最大供应商，采购金额占比40.31%，供应燃料（天然气）。",
+      "quote": "1 深圳市燃气集团股份有限公司 185,180,604.72 40.31%"
+    },
+    {
+      "name": "南方电网电力科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司第二大供应商，采购金额占比31.00%。",
+      "quote": "2 南方电网电力科技股份有限公司 142,391,548.99 31.00%"
+    },
+    {
+      "name": "中国铁建港航局集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司供应商，采购金额占比8.02%。",
+      "quote": "3 中国铁建港航局集团有限公司 36,841,734.80 8.02%"
+    },
+    {
+      "name": "福建恒景投资有限公司",
+      "relation_type": "customer",
+      "business_details": "购买深南电中山公司发电机组及相关资产。",
+      "quote": "深南电中山公司与福建恒景投资有限公司签订了《实物资产交易合同》，两套发电机组设备及相关资产转让价款为63,726,928.75元"
+    },
+    {
+      "name": "深圳市科陆电子科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "向其出售四川锐南75%股权。",
+      "quote": "公司以1,833.75万元的对价，从深圳市科陆电子科技股份有限公司受让四川锐南75%的股权"
+    },
+    {
+      "name": "香港南海洋行（国际）有限公司",
+      "relation_type": "investor",
+      "business_details": "持有公司15.28%股份。",
+      "quote": "香港南海洋行（国际）有限公司 15.28% 92,123,248"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力行业",
+      "segment_type": "product_line",
+      "revenue_amount": "389,841,302.96",
+      "revenue_proportion": "97.05%",
+      "gross_margin": "20.51%",
+      "yoy_change": "收入同比下降10.86%，毛利率同比增加15.22个百分点。",
+      "quote": "分行业 电力行业 389,841,302.96 97.05%...毛利率 20.51%...营业收入比上年同期增减 -10.86%...毛利率比上年同期增减 15.22%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "11,840,280.14",
+      "revenue_proportion": "2.95%",
+      "gross_margin": "54.83%",
+      "yoy_change": "收入同比增长109.86%，毛利率同比下降23.48个百分点。",
+      "quote": "分行业 其他 11,840,280.14 2.95%...毛利率 54.83%...营业收入比上年同期增减 109.86%...毛利率比上年同期增减 -23.48%"
+    },
+    {
+      "name": "电力生产销售",
+      "segment_type": "product_line",
+      "revenue_amount": "279,495,457.00",
+      "revenue_proportion": "69.58%",
+      "gross_margin": "9.79%",
+      "yoy_change": "收入同比下降33.44%，毛利率同比增加6.28个百分点。",
+      "quote": "分产品 电力生产销售 279,495,457.00 69.58%...毛利率 9.79%...营业收入比上年同期增减 -33.44%...毛利率比上年同期增减 6.28%"
+    },
+    {
+      "name": "综合能源服务",
+      "segment_type": "product_line",
+      "revenue_amount": "136,569,934.67",
+      "revenue_proportion": "34.00%",
+      "gross_margin": "39.50%",
+      "yoy_change": "收入同比增长246.78%，毛利率同比增加11.95个百分点。",
+      "quote": "分产品 综合能源服务 136,569,934.67 34.00%...毛利率 39.50%...营业收入比上年同期增减 246.78%...毛利率比上年同期增减 11.95%"
+    },
+    {
+      "name": "其他业务（产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "12,488,919.77",
+      "revenue_proportion": "3.11%",
+      "gross_margin": "56.82%",
+      "yoy_change": "收入同比增长116.51%，毛利率同比下降21.96个百分点。",
+      "quote": "分产品 其他 12,488,919.77 3.11%...毛利率 56.82%...营业收入比上年同期增减 116.51%...毛利率比上年同期增减 -21.96%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "401,681,583.10",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "21.52%",
+      "yoy_change": "收入同比下降9.32%。",
+      "quote": "分地区 境内 401,681,583.10 100.00%...毛利率 21.52%...营业收入比上年同期增减 -9.32%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "燃气-蒸汽联合循环发电机组（南山热电厂）",
+      "metric_type": "capacity",
+      "value": "54万千瓦",
+      "period": "报告期末",
+      "quote": "主要生产经营信息 项目 本报告期 上年同期 总装机容量（万千瓦） 54 54"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "2.84亿千瓦时",
+      "period": "2025年度",
+      "quote": "主要生产经营信息 项目 本报告期 上年同期 发电量（亿千瓦时） 2.84 5.12"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "2.82亿千瓦时",
+      "period": "2025年度",
+      "quote": "主要生产经营信息 项目 本报告期 上年同期 上网电量或售电量（亿千瓦时） 2.82 5.10"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity_utilization",
+      "value": "517小时",
+      "period": "2025年度",
+      "quote": "主要生产经营信息 项目 本报告期 上年同期 发电厂利用小时数（小时） 517 933"
+    },
+    {
+      "product": "独立储能电站（深南电西湾公司）",
+      "metric_type": "production_volume",
+      "value": "累计充放电量分别为8,210.66万千瓦时、7,268.71万千瓦时",
+      "period": "2025年6月转入商业运行后至报告期",
+      "quote": "深南电西湾公司中山独立储能电站（一期）项目于2025年6月正式转入商业运行，累计充放电量分别为8,210.66万千瓦时、7,268.71万千瓦时"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中山独立储能电站（一期）项目",
+      "project_type": "capacity_expansion",
+      "location": "中山市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "于2025年6月正式转入商业运行。",
+      "expected_completion_time": null,
+      "quote": "深南电西湾公司中山独立储能电站（一期）项目于2025年6月正式转入商业运行"
+    },
+    {
+      "name": "中山古镇镇150MW/300MWh独立储能电站EPC项目",
+      "project_type": "capacity_expansion",
+      "location": "中山古镇镇",
+      "investment_amount": "2.23亿元",
+      "designed_capacity": "150MW/300MWh",
+      "progress": "能源科技公司以2.23亿元中标。",
+      "expected_completion_time": null,
+      "quote": "能源科技公司以2.23亿元中标中山古镇镇150MW/300MWh独立储能电站EPC项目"
+    },
+    {
+      "name": "柬埔寨国公省2×450MW燃机联合循环电站运维服务项目",
+      "project_type": "other",
+      "location": "柬埔寨国公省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "成功中标，实现海外市场重要突破。",
+      "expected_completion_time": null,
+      "quote": "深南电工程公司...成功中标柬埔寨国公省2×450MW燃机联合循环电站运维服务项目，实现海外市场重要突破。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "自主发明专利、实用新型专利、软件著作权",
+      "asset_type": "patent",
+      "related_product": "电力生产、综合能源服务",
+      "quantitative_info": "总授权专利数达到47项（含5项发明专利）、软著13项。",
+      "quote": "公司拥有多项自主发明专利、实用新型专利和软件著作权...公司总授权专利数达到47项（含5项发明专利）、软著13项"
+    },
+    {
+      "name": "国家标准起草",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "联合起草编写国家标准1项。",
+      "quote": "联合起草编写国家标准1项"
+    },
+    {
+      "name": "燃机电厂建设及运营管理技术",
+      "asset_type": "core_technology",
+      "related_product": "电力生产销售、工程技术服务",
+      "quantitative_info": null,
+      "quote": "公司深耕燃机发电行业三十余年，依托行业影响力，汇聚并培育了一批专业技术专家与骨干人才，在燃机电厂建设及运营管理方面具备丰富实践经验。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "375,596,720.70元，占年度销售总额比例93.51%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 375,596,720.70；前五名客户合计销售金额占年度销售总额比例 93.51%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "279,762,843.78元，占年度销售总额比例69.65%",
+      "related_entity": "深圳供电局有限公司",
+      "period": "2025年度",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例；1 深圳供电局有限公司 279,762,843.78 69.65%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "385,060,182.69元，占年度采购总额比例83.83%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 385,060,182.69；前五名供应商合计采购金额占年度采购总额比例 83.83%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "185,180,604.72元，占年度采购总额比例40.31%",
+      "related_entity": "深圳市燃气集团股份有限公司",
+      "period": "2025年度",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例；1 深圳市燃气集团股份有限公司 185,180,604.72 40.31%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司电力生产主营业务仍然面临着困难和挑战，现有9E机组在市场竞争中面临更大挑战。",
+      "related_entity": null,
+      "related_product": "电力生产销售",
+      "quote": "近年来，受宏观经济形势和燃机发电行业共性问题的影响，公司电力生产主营业务仍然面临着困难和挑战...公司现有9E机组在市场竞争中面临更大挑战。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "天然气采购价格受国际燃料市场影响，整体价格水平仍然偏高，气源单一化带来负面影响。",
+      "related_entity": "深圳市燃气集团股份有限公司",
+      "related_product": "燃料（天然气）",
+      "quote": "2026年，公司天然气采购价格主要取决于国际燃料市场的变化情况和公司现有供应商的销售价格。受中东地缘冲突影响，预计2026年公司天然气采购整体价格水平仍然偏高。此外，公司气源的单一化对供气稳定性、气量协调灵活度以及气价经济性等方面均带来负面影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "南山热电厂土地面临被政府收储的风险。",
+      "related_entity": "深圳市规划和自然资源局",
+      "related_product": "南山热电厂土地",
+      "quote": "深圳市2026年度土地整备计划中仍包括公司下属的南山热电厂土地收储及相关内容。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司经营业绩持续向好，但电力主营业务仍面临燃料成本偏高与机组能效落后的巨大压力，获利艰难。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2026年，受多重因素影响，公司下属电厂面临燃料成本偏高与机组能效落后的巨大压力，9E机组在与更高效、成本更低机组竞争的压力之下获利艰难。"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全管理方面，随着公司业务多元化发展，安全风险交织叠加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "安全管理方面：随着公司业务多元化发展，安全风险交织叠加。"
+    }
+  ]
+}

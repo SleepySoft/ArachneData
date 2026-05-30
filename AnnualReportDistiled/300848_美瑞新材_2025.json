@@ -1,0 +1,626 @@
+{
+  "company_name_mentioned": "美瑞新材料股份有限公司",
+  "produces": [
+    {
+      "name": "聚氨酯新材料",
+      "type": "material",
+      "revenue_proportion": "91.45%",
+      "quote": "聚氨酯新材料 1,597,157,559.79 91.45%"
+    },
+    {
+      "name": "TPU",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "TPU全称为热塑性聚氨酯弹性体，是聚氨酯行业的一个分支"
+    },
+    {
+      "name": "PUR",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "聚氨酯胶黏剂，可与水反应固化，和传统油性胶黏剂相比没有溶剂，空气接触即可反应，为环保型胶黏剂"
+    },
+    {
+      "name": "PUD",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "为水性聚氨酯分散体及胶黏剂，其可由水分散，具有无污染、安全可靠、机械性能优良等优点"
+    },
+    {
+      "name": "PBS",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "在堆肥及微生物的作用下易发生降解，最终形成二氧化碳和水。其可通过注塑，吹塑，吹膜吸塑，层压，发泡，纺丝等多种加工工艺加工成型"
+    },
+    {
+      "name": "功能化工品原料",
+      "type": "material",
+      "revenue_proportion": "8.41%",
+      "quote": "功能化工品原料 146,935,285.48 8.41%"
+    },
+    {
+      "name": "特种异氰酸酯",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司的功能化工品原料分为两大类，分别是特种异氰酸酯和特种胺，其中特种异氰酸酯产品有HDI、CHDI和PPDI"
+    },
+    {
+      "name": "HDI",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "HDI产品是特种异氰酸酯中最重要的单体，公司HDI产品的设计产能为10万吨，为全球单套产能最大的HDI装置。"
+    },
+    {
+      "name": "CHDI",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "CHDI装置为该种产品的全球首套工业化装置"
+    },
+    {
+      "name": "PPDI",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PPDI装置为该种产品的全球规模最大的工业化装置"
+    },
+    {
+      "name": "特种胺",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司的特种胺产品包括PNA、PPDA和CHDA，均为公司CHDI/PPDI产线的关键中间产品。"
+    },
+    {
+      "name": "PNA",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PNA全称对硝基苯胺，属于芳香胺，主要作为染料、防老剂的中间体使用"
+    },
+    {
+      "name": "PPDA",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PPDA全称对苯二胺，属于芳香族二胺，结构规整，可用于生产染料、防老剂、聚酰胺及弹性体等领域"
+    },
+    {
+      "name": "CHDA",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "CHDA全称1,4-环己烷二胺，属于脂肪族二胺，结构规整，不易黄变，可用于染料、聚酰胺、环氧树脂、弹性体及医药中间体等领域"
+    },
+    {
+      "name": "副产品及其他",
+      "type": "material",
+      "revenue_proportion": "0.14%",
+      "quote": "副产品及其他 2,424,405.88 0.14%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "A原材料",
+      "target_product": null,
+      "cost_proportion": "22.89%",
+      "quote": "A原材料 年度合约 22.89%"
+    },
+    {
+      "name": "B原材料",
+      "target_product": null,
+      "cost_proportion": "13.71%",
+      "quote": "B原材料 年度合约 13.71%"
+    },
+    {
+      "name": "C原材料",
+      "target_product": null,
+      "cost_proportion": "9.23%",
+      "quote": "C原材料 年度合约 9.23%"
+    },
+    {
+      "name": "MDI",
+      "target_product": "TPU",
+      "cost_proportion": null,
+      "quote": "TPU生产所需的MDI、多元醇、BDO、己二酸、EDO等原材料"
+    },
+    {
+      "name": "多元醇",
+      "target_product": "TPU",
+      "cost_proportion": null,
+      "quote": "TPU生产所需的MDI、多元醇、BDO、己二酸、EDO等原材料"
+    },
+    {
+      "name": "BDO",
+      "target_product": "TPU",
+      "cost_proportion": null,
+      "quote": "TPU生产所需的MDI、多元醇、BDO、己二酸、EDO等原材料"
+    },
+    {
+      "name": "己二酸",
+      "target_product": "TPU",
+      "cost_proportion": null,
+      "quote": "TPU生产所需的MDI、多元醇、BDO、己二酸、EDO等原材料"
+    },
+    {
+      "name": "对硝基氯苯",
+      "target_product": "特种胺",
+      "cost_proportion": null,
+      "quote": "公司的特种胺生产采用连续化工艺，以对硝基氯苯为主要原料。"
+    },
+    {
+      "name": "直接材料",
+      "target_product": null,
+      "cost_proportion": "82.46%",
+      "quote": "直接材料 1,249,012,879.00 82.46%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": null,
+      "cost_proportion": "12.57%",
+      "quote": "制造费用 190,360,000.07 12.57%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子",
+      "source_product": "TPU",
+      "quote": "消费电子、汽车制造、运动休闲、高端装备、绿色能源、家居生活、工业涂装、密封传动、3D打印、食品卫生等领域"
+    },
+    {
+      "name": "汽车制造",
+      "source_product": "TPU",
+      "quote": "消费电子、汽车制造、运动休闲、高端装备、绿色能源、家居生活、工业涂装、密封传动、3D打印、食品卫生等领域"
+    },
+    {
+      "name": "运动休闲",
+      "source_product": "TPU",
+      "quote": "消费电子、汽车制造、运动休闲、高端装备、绿色能源、家居生活、工业涂装、密封传动、3D打印、食品卫生等领域"
+    },
+    {
+      "name": "涂料",
+      "source_product": "HDI",
+      "quote": "涂料、油漆、弹性体、胶粘剂等"
+    },
+    {
+      "name": "油漆",
+      "source_product": "HDI",
+      "quote": "涂料、油漆、弹性体、胶粘剂等"
+    },
+    {
+      "name": "弹性体",
+      "source_product": "HDI",
+      "quote": "涂料、油漆、弹性体、胶粘剂等"
+    },
+    {
+      "name": "胶粘剂",
+      "source_product": "HDI",
+      "quote": "涂料、油漆、弹性体、胶粘剂等"
+    },
+    {
+      "name": "军工航天",
+      "source_product": "PPDI",
+      "quote": "军工航天、高档汽车减震器、石油钻井设备密封件、煤矿选煤传输带等"
+    },
+    {
+      "name": "汽车减震器",
+      "source_product": "PPDI",
+      "quote": "军工航天、高档汽车减震器、石油钻井设备密封件、煤矿选煤传输带等"
+    },
+    {
+      "name": "石油钻井密封件",
+      "source_product": "PPDI",
+      "quote": "军工航天、高档汽车减震器、石油钻井设备密封件、煤矿选煤传输带等"
+    },
+    {
+      "name": "染料",
+      "source_product": "PNA",
+      "quote": "染料中间体、医药中间体、农药中间体、抗氧剂中间体等"
+    },
+    {
+      "name": "医药中间体",
+      "source_product": "PNA",
+      "quote": "染料中间体、医药中间体、农药中间体、抗氧剂中间体等"
+    },
+    {
+      "name": "芳纶",
+      "source_product": "PPDA",
+      "quote": "偶氮染料、硫化染料、对位芳纶、聚酰亚胺等"
+    },
+    {
+      "name": "风电叶片",
+      "source_product": "CHDA",
+      "quote": "天冬聚脲、风电叶片、环氧地坪、聚酰胺材料"
+    },
+    {
+      "name": "环氧地坪",
+      "source_product": "CHDA",
+      "quote": "天冬聚脲、风电叶片、环氧地坪、聚酰胺材料"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王仁鸿",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人王仁鸿、主管会计工作负责人都英涛及会计机构负责人(会计主管人员)王越声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张生",
+      "role": "董事、总经理",
+      "quote": "张生先生，1978年出生...任美瑞新材董事、总经理。"
+    },
+    {
+      "name": "刘沪光",
+      "role": "董事",
+      "quote": "刘沪光先生，1971年出生...任美瑞新材董事。"
+    },
+    {
+      "name": "任光雷",
+      "role": "董事、副总经理",
+      "quote": "任光雷先生，1979年出生...任美瑞新材董事、副总经理、营销总监。"
+    },
+    {
+      "name": "宋红玮",
+      "role": "副总经理",
+      "quote": "宋红玮先生，1983年出生...任美瑞新材副总经理、研发总监。"
+    },
+    {
+      "name": "都英涛",
+      "role": "董事会秘书、财务总监",
+      "quote": "都英涛先生，1976年出生...任美瑞新材财务总监、董事会秘书。"
+    },
+    {
+      "name": "于元波",
+      "role": "独立董事",
+      "quote": "于元波先生，1955年出生...任美瑞新材独立董事。"
+    },
+    {
+      "name": "唐云",
+      "role": "独立董事",
+      "quote": "唐云先生，1966年出生...任美瑞新材独立董事。"
+    },
+    {
+      "name": "张建明",
+      "role": "独立董事",
+      "quote": "张建明先生，1973年出生...任美瑞新材独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "美瑞科技（河南）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "美瑞科技(河南)有限公司于2021年8月23日注册成立，注册资本为750,680,418.00元，公司对其拥有70.03%表决权，为公司的控股子公司，主要业务为化工产品生产与制造。",
+      "quote": "美瑞科技 指 美瑞科技（河南）有限公司，公司控股子公司"
+    },
+    {
+      "name": "美瑞新材料创新中心（山东）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "创新中心 指 美瑞新材料创新中心（山东）有限公司，公司全资子公司",
+      "quote": "创新中心 指 美瑞新材料创新中心（山东）有限公司，公司全资子公司"
+    },
+    {
+      "name": "美瑞新材企业发展（上海）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "美瑞上海 指 美瑞新材企业发展（上海）有限公司，公司控股子公司",
+      "quote": "美瑞上海 指 美瑞新材企业发展（上海）有限公司，公司控股子公司"
+    },
+    {
+      "name": "美瑞新材料（福建）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "美瑞福建 指 美瑞新材料（福建）有限公司，公司全资子公司",
+      "quote": "美瑞福建 指 美瑞新材料（福建）有限公司，公司全资子公司"
+    },
+    {
+      "name": "山东瑞创投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "控股股东、实际控制人 指 王仁鸿，山东瑞创 指 山东瑞创投资合伙企业（有限合伙），公司股东",
+      "quote": "山东瑞创 指 山东瑞创投资合伙企业（有限合伙），公司股东"
+    },
+    {
+      "name": "山东尚格投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "山东尚格 指 山东尚格投资合伙企业（有限合伙），公司股东",
+      "quote": "山东尚格 指 山东尚格投资合伙企业（有限合伙），公司股东"
+    },
+    {
+      "name": "鹤壁市宝山资产管理有限公司",
+      "relation_type": "supplier",
+      "business_details": "子公司美瑞科技与鹤壁市宝山资产管理有限公司签订房屋租赁合同",
+      "quote": "子公司美瑞科技与鹤壁市宝山资产管理有限公司签订房屋租赁合同"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化学原料和化学制品制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,746,517,251.15元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "13.27%",
+      "yoy_change": "5.31%",
+      "quote": "化学原料和化学制品制造业 1,746,517,251.15 1,514,749,643.73 13.27% 5.31% 4.87% 0.36%"
+    },
+    {
+      "name": "聚氨酯新材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,597,157,559.79元",
+      "revenue_proportion": "91.45%",
+      "gross_margin": "13.54%",
+      "yoy_change": "-3.38%",
+      "quote": "聚氨酯新材料 1,597,157,559.79 91.45%"
+    },
+    {
+      "name": "功能化工品原料",
+      "segment_type": "product_line",
+      "revenue_amount": "146,935,285.48元",
+      "revenue_proportion": "8.41%",
+      "gross_margin": null,
+      "yoy_change": "44,145.35%",
+      "quote": "功能化工品原料 146,935,285.48 8.41%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,585,923,673.59元",
+      "revenue_proportion": "90.80%",
+      "gross_margin": "12.37%",
+      "yoy_change": "4.83%",
+      "quote": "境内销售 1,585,923,673.59 90.80%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "160,593,577.56元",
+      "revenue_proportion": "9.20%",
+      "gross_margin": null,
+      "yoy_change": "10.26%",
+      "quote": "境外销售 160,593,577.56 9.20%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "761,779,162.91元",
+      "revenue_proportion": "43.62%",
+      "gross_margin": "11.27%",
+      "yoy_change": "8.08%",
+      "quote": "经销 761,779,162.91 43.62%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "984,738,088.24元",
+      "revenue_proportion": "56.38%",
+      "gross_margin": "14.82%",
+      "yoy_change": "3.26%",
+      "quote": "直销 984,738,088.24 56.38%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "聚氨酯新材料",
+      "metric_type": "capacity",
+      "value": "19万吨",
+      "period": "报告期",
+      "quote": "聚氨酯新材料 19万吨"
+    },
+    {
+      "product": "聚氨酯新材料",
+      "metric_type": "capacity_utilization",
+      "value": "52.55%",
+      "period": "报告期",
+      "quote": "聚氨酯新材料 19万吨 52.55%"
+    },
+    {
+      "product": "聚氨酯新材料",
+      "metric_type": "other",
+      "value": "3万吨产能处于建设阶段",
+      "period": "报告期",
+      "quote": "聚氨酯新材料 19万吨 52.55% 3万吨 3万吨产能处于建设阶段"
+    },
+    {
+      "product": "特种异氰酸酯",
+      "metric_type": "capacity",
+      "value": "12万吨",
+      "period": "报告期",
+      "quote": "特种异氰酸酯 12万吨"
+    },
+    {
+      "product": "特种异氰酸酯",
+      "metric_type": "other",
+      "value": "因特种异氰酸酯装置2025年大部分时间处于试运行期，并于四季度末才转入连续稳定生产，故本年不进行产能利用率计算。",
+      "period": "报告期",
+      "quote": "因特种异氰酸酯装置2025年大部分时间处于试运行期，并于四季度末才转入连续稳定生产，故本年不进行产能利用率计算。"
+    },
+    {
+      "product": "HDI",
+      "metric_type": "capacity",
+      "value": "10万吨",
+      "period": "报告期",
+      "quote": "公司HDI产品的设计产能为10万吨，为全球单套产能最大的HDI装置。"
+    },
+    {
+      "product": "CHDI和PPDI",
+      "metric_type": "capacity",
+      "value": "2万吨",
+      "period": "报告期",
+      "quote": "CHDI和PPDI的设计产能合计为2万吨"
+    },
+    {
+      "product": "聚氨酯新材料",
+      "metric_type": "production_volume",
+      "value": "99,822.09吨",
+      "period": "报告期",
+      "quote": "聚氨酯新材料 99,822.09吨"
+    },
+    {
+      "product": "聚氨酯新材料",
+      "metric_type": "sales_volume",
+      "value": "100,435.27吨",
+      "period": "报告期",
+      "quote": "聚氨酯新材料 99,822.09吨 100,435.27吨"
+    },
+    {
+      "product": "化学原料和化学制品制造业",
+      "metric_type": "sales_volume",
+      "value": "108,181.10吨",
+      "period": "报告期",
+      "quote": "销售量 吨 108,181.10"
+    },
+    {
+      "product": "化学原料和化学制品制造业",
+      "metric_type": "production_volume",
+      "value": "109,446.27吨",
+      "period": "报告期",
+      "quote": "生产量 吨 109,446.27"
+    },
+    {
+      "product": "化学原料和化学制品制造业",
+      "metric_type": "inventory_volume",
+      "value": "17,932.37吨",
+      "period": "报告期末",
+      "quote": "库存量 吨 17,932.37"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "聚氨酯新材料产业园一期项目",
+      "project_type": "capacity_expansion",
+      "location": "河南鹤壁",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目投产",
+      "expected_completion_time": null,
+      "quote": "聚氨酯新材料产业园一期项目...项目投产"
+    },
+    {
+      "name": "年产1万吨膨胀型热塑性聚氨酯弹性体项目",
+      "project_type": "capacity_expansion",
+      "location": "山东烟台大季家厂区",
+      "investment_amount": "5,740.65万元",
+      "designed_capacity": "1万吨",
+      "progress": "正在进行设备管道安装、电仪施工。",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "位于山东烟台大季家厂区的年产1万吨膨胀型热塑性聚氨酯弹性体项目于2024年四季度开工建设，正在进行设备管道安装、电仪施工。"
+    },
+    {
+      "name": "年产3万吨水性聚氨酯项目",
+      "project_type": "capacity_expansion",
+      "location": "山东烟台大季家厂区",
+      "investment_amount": "13,958.27万元",
+      "designed_capacity": "3万吨",
+      "progress": "已完成钢结构施工，正在进行设备管道安装、电仪施工。",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "位于山东烟台大季家厂区的年产3万吨水性聚氨酯项目于2024年四季度开工建设，截至目前已完成钢结构施工，正在进行设备管道安装、电仪施工。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "差异化技术创新优势",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "差异化的技术创新优势：（1）生产配方差异化：...（2）生产工艺差异化：..."
+    },
+    {
+      "name": "生产配方差异化",
+      "asset_type": "process_technology",
+      "related_product": "聚氨酯新材料",
+      "quantitative_info": null,
+      "quote": "公司通过中间体的分子结构与设计，结合公司自主产业链上的特种异氰酸酯原料，融合公司多年积累的功能化助剂的复配和组合技术，以及分子量的设计与调控技术，建立了符合相应要求的产品配方及性能数据库"
+    },
+    {
+      "name": "生产工艺差异化",
+      "asset_type": "process_technology",
+      "related_product": "聚氨酯新材料",
+      "quantitative_info": null,
+      "quote": "为了满足客户对于差异化产品的功能需求，按照不同配方产品对于工艺的要求，独立或联合上下游合作伙伴设计了差异化的生产装置"
+    },
+    {
+      "name": "特种异氰酸酯生产技术",
+      "asset_type": "core_technology",
+      "related_product": "特种异氰酸酯",
+      "quantitative_info": null,
+      "quote": "特种异氰酸酯具有十分优异的性能，但技术壁垒较高，生产被跨国公司垄断...公司研发团队针对以上市场痛点，研发出规模化、低成本及高品质的生产设备及工艺"
+    },
+    {
+      "name": "特种胺连续化生产工艺",
+      "asset_type": "process_technology",
+      "related_product": "特种胺",
+      "quantitative_info": null,
+      "quote": "公司的特种胺生产采用连续化工艺，以对硝基氯苯为主要原料。该原材料市场供应较为稳定，结合连续化生产工艺路线的高效性，显著降低了产品的生产成本。"
+    },
+    {
+      "name": "专利技术",
+      "asset_type": "patent",
+      "related_product": "聚氨酯新材料",
+      "quantitative_info": "多项授权专利",
+      "quote": "公司在核心设备、工艺、产品方面拥有多项授权专利"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": "特种异氰酸酯",
+      "quantitative_info": "多项发明专利",
+      "quote": "公司在核心设备、工艺、产品方面拥有多项发明专利"
+    },
+    {
+      "name": "ISO14001:2015环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了ISO14001:2015环境管理体系认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "30.39%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 30.39%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "41.88%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 41.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品主要直接材料成本占生产成本的比重较高，主要直接材料价格波动对公司生产成本及经营成果有较大的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司产品主要直接材料成本占生产成本的比重较高，主要直接材料价格波动对公司生产成本及经营成果有较大的影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "未来若公司不能持续创新、满足客户中高端产品需求，并进一步提升生产效率，激烈的市场竞争将对公司经营产生不利影响。",
+      "related_entity": null,
+      "related_product": "TPU",
+      "quote": "未来若公司不能持续创新、满足客户中高端产品需求，并进一步提升生产效率，激烈的市场竞争将对公司经营产生不利影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "随着国家经济增长模式的转变和可持续发展战略的全面实施，环保和清洁生产政策的要求日益提高，环保标准可能进一步趋严，公司可能需要增加环保投入，从而导致生产经营成本提高",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着国家经济增长模式的转变和可持续发展战略的全面实施，环保和清洁生产政策的要求日益提高，环保标准可能进一步趋严，公司可能需要增加环保投入，从而导致生产经营成本提高"
+    },
+    {
+      "risk_type": "other",
+      "description": "人工成本上升的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人工成本上升的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "新业务不及预期的风险",
+      "related_entity": "美瑞科技",
+      "related_product": "聚氨酯产业园一期项目",
+      "quote": "美瑞科技的聚氨酯产业园一期项目的生产经营可能受到项目管理、组织实施以及市场需求等因素影响，未来的经营状况存在不确定性。"
+    },
+    {
+      "risk_type": "capacity_utilization",
+      "description": "随着年产10万吨弹性体一体化项目及聚氨酯产业园项目陆续投产，公司的产能规模迅速扩大，新增产能是否达产并实现预期收益，与下游市场需求、产品研发进度和市场开发情况密切相关。如果市场容量增长不及预期，或者研发、销售部门的配套能力不足，都可能导致新增产能利用不足",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着年产10万吨弹性体一体化项目及聚氨酯产业园项目陆续投产，公司的产能规模迅速扩大，新增产能是否达产并实现预期收益，与下游市场需求、产品研发进度和市场开发情况密切相关。如果市场容量增长不及预期，或者研发、销售部门的配套能力不足，都可能导致新增产能利用不足"
+    }
+  ]
+}

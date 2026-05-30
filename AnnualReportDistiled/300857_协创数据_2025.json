@@ -1,0 +1,432 @@
+{
+  "company_name_mentioned": "协创数据技术股份有限公司",
+  "produces": [
+    {
+      "name": "数据存储设备",
+      "type": "device",
+      "revenue_proportion": "2025年占营业收入比重36.72%，金额4,492,693,389.47元",
+      "quote": "分产品：数据存储设备 4,492,693,389.47 36.72%"
+    },
+    {
+      "name": "物联网智能终端",
+      "type": "device",
+      "revenue_proportion": "2025年占营业收入比重12.85%，金额1,571,798,914.09元",
+      "quote": "分产品：物联网智能终端 1,571,798,914.09 12.85%"
+    },
+    {
+      "name": "智能算力产品及服务",
+      "type": "service",
+      "revenue_proportion": "2025年占营业收入比重22.57%，金额2,760,972,318.81元",
+      "quote": "分产品：智能算力产品及服务 2,760,972,318.81 22.57%"
+    },
+    {
+      "name": "服务器及周边再制造",
+      "type": "service",
+      "revenue_proportion": "2025年占营业收入比重21.04%，金额2,574,914,960.41元",
+      "quote": "分产品：服务器及周边再制造 2,574,914,960.41 21.04%"
+    },
+    {
+      "name": "企业级SSD",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司在SSD产品上具备完整的产品线，推出的企业级SSD具备高速运算的性能、更好的可靠性、更大的单盘容量以及更高的使用寿命"
+    },
+    {
+      "name": "AIoT终端（智能摄像机、智能门铃、太阳能电池摄像机等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要消费类产品包括智能摄像机、智能门铃、太阳能电池摄像机、黑光玻璃相机、宠物摄像机、小孩看护摄像机、LTE智能摄像机、家庭清洁机器人及车联网智能终端。"
+    },
+    {
+      "name": "InfiSight 智睿视界AI协同管理系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "InfiSight 智睿视界是一套面向连锁门店管理场景的 AI 协同管理系统。"
+    },
+    {
+      "name": "Fcloud跨境云服务SaaS系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司主要应用于图像渲染加速的X86服务器，在视频创作上已投入使用，为电商企业提供跨境电商Fcloud平台服务"
+    },
+    {
+      "name": "协创云视频服务（VSaaS）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "协创云视频在全球多区域通过公有云和私有云设立服务节点"
+    },
+    {
+      "name": "算力服务器及集群解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "针对人工智能及高性能计算需求，公司完成了多型号算力服务器的研发测试与性能提升改配。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": null,
+      "cost_proportion": "2025年占营业成本比重89.28%",
+      "quote": "行业分类：直接材料 金额 8,822,638,563.38 占营业成本比重 89.28%"
+    },
+    {
+      "name": "算力服务器等设备",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司2025年采购金额比去年大幅增加，主要系因为公司新增算力业务，大量投入算力服务器等设备作为固定资产"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能家居",
+      "source_product": "AIoT终端",
+      "quote": "AIoT终端在智能家居、智能穿戴、智慧安防等领域的渗透率持续提升"
+    },
+    {
+      "name": "智能安防",
+      "source_product": "AIoT终端",
+      "quote": "智能安防终端作为AIoT的重要组成部分"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "数据存储设备、算力服务器",
+      "quote": "超大规模数据中心将继续成为数据存储行业增长的主要需求。"
+    },
+    {
+      "name": "云计算",
+      "source_product": "算力服务、VSaaS",
+      "quote": "为客户提供以高端算力为基础的云算力租赁业务。"
+    },
+    {
+      "name": "人工智能模型训练与推理",
+      "source_product": "算力服务",
+      "quote": "重点服务于头部互联网公司模型训练推理、自动驾驶、生物医药等领域客户。"
+    },
+    {
+      "name": "跨境电商",
+      "source_product": "Fcloud跨境云服务SaaS系统",
+      "quote": "为跨境电商企业提供社媒矩阵运营、短视频种草、全球直播、流量代投、店铺本地化等全栈营销服务"
+    },
+    {
+      "name": "连锁门店管理",
+      "source_product": "InfiSight 智睿视界AI协同管理系统",
+      "quote": "重点聚焦连锁经营过程中难以通过传统人工方式持续管理的过程性指标与隐性成本因素"
+    },
+    {
+      "name": "具身智能机器人应用（安防巡检等）",
+      "source_product": "具身机器人应用",
+      "quote": "当前重点聚焦安防巡检场景进行技术验证与落地应用"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "耿康铭",
+      "role": "董事长",
+      "quote": "公司负责人潘文俊、主管会计工作负责人瞿亚能及会计机构负责人(会计主管人员)瞿亚能声明；耿康铭先生：男，1974年10月生...2017年1月至今担任公司董事长"
+    },
+    {
+      "name": "潘文俊",
+      "role": "董事、总经理",
+      "quote": "公司负责人潘文俊...潘文俊先生：男，1979年10月生...2017年1月至今，担任公司董事、总经理"
+    },
+    {
+      "name": "林坤煌",
+      "role": "副董事长",
+      "quote": "林坤煌先生：男，1963年11月生...2024年9月至今，担任公司副董事长。"
+    },
+    {
+      "name": "瞿亚能",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人瞿亚能及会计机构负责人(会计主管人员)瞿亚能声明"
+    },
+    {
+      "name": "甘杏",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 甘杏"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "东莞协创",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "东莞协创 指 东莞市协创数据技术有限公司，为公司全资子公司"
+    },
+    {
+      "name": "安徽协创",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要业务物联网智能终端及数据存储类产品",
+      "quote": "安徽协创 指 安徽协创物联网技术有限公司，为公司全资子公司；安徽协创物联网技术有限公司，为公司全资子公司，主要物联网智能终端及存储设备生产、销售及研发"
+    },
+    {
+      "name": "协创香港",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要生产制造及贸易",
+      "quote": "协创香港 指 协创数据技术（香港）有限公司，为公司全资子公司；协创数据技术(香港)有限公司:为公司全资子公司:主要生产制造及贸易"
+    },
+    {
+      "name": "Semsotai North Inc.",
+      "relation_type": "subsidiary",
+      "business_details": "协创香港在美国设立的控股子公司，从事服务器再制造业务",
+      "quote": "Semsotai North lnc. 指 美国公司，为协创新加坡在美国设立的控股子公司。；服务器再制造业务方面，公司控股子公司Semsotai North Inc.在北美开展服务器的回收、拆解"
+    },
+    {
+      "name": "联想集团",
+      "relation_type": "customer",
+      "business_details": "知名科技型企业客户",
+      "quote": "目前已经与联想集团、安克创新、小米生态链企业（创米科技）...等知名科技型企业...建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "安克创新",
+      "relation_type": "customer",
+      "business_details": "知名科技型企业客户",
+      "quote": "目前已经与联想集团、安克创新、小米生态链企业（创米科技）...等知名科技型企业...建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "小米生态链企业",
+      "relation_type": "customer",
+      "business_details": "小米合作提供相关产品的企业",
+      "quote": "小米生态链企业 指 小米科技有限责任公司...投资但并不控股的企业，与小米合作提供相关产品，包括上海创米科技有限公司等企业。"
+    },
+    {
+      "name": "中国移动集团（下属专业公司）",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "中国移动集团（下属专业公司） 指 中国移动通信集团有限公司"
+    },
+    {
+      "name": "360集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "360集团 指 三六零安全科技股份有限公司"
+    },
+    {
+      "name": "NVIDIA（英伟达）",
+      "relation_type": "customer",
+      "business_details": "奥佳软件已正式取得 NVIDIA CLOUD PARTNER 资质，存在深度合作",
+      "quote": "公司依托与英伟达（NVIDIA）的深度合作（奥佳软件已正式取得 NVIDIA CLOUD PARTNER 资质"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "物联网智能终端",
+      "segment_type": "product_line",
+      "revenue_amount": "1,571,798,914.09元",
+      "revenue_proportion": "12.85%",
+      "gross_margin": "27.65%",
+      "yoy_change": "同比下降30.42%",
+      "quote": "分产品：物联网智能终端 1,571,798,914.09 12.85% 30.48% -30.42%"
+    },
+    {
+      "name": "数据存储设备",
+      "segment_type": "product_line",
+      "revenue_amount": "4,492,693,389.47元",
+      "revenue_proportion": "36.72%",
+      "gross_margin": "14.89%",
+      "yoy_change": "同比增长28.31%",
+      "quote": "分产品：数据存储设备 4,492,693,389.47 36.72% 47.26% 28.31%"
+    },
+    {
+      "name": "智能算力产品及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "2,760,972,318.81元",
+      "revenue_proportion": "22.57%",
+      "gross_margin": "25.53%",
+      "yoy_change": "同比增长1727.17%",
+      "quote": "分产品：智能算力产品及服务 2,760,972,318.81 22.57% 151,106,624.18 2.04% 1,727.17%"
+    },
+    {
+      "name": "服务器及周边再制造",
+      "segment_type": "product_line",
+      "revenue_amount": "2,574,914,960.41元",
+      "revenue_proportion": "21.04%",
+      "gross_margin": "15.02%",
+      "yoy_change": "同比增长169.25%",
+      "quote": "分产品：服务器及周边再制造 2,574,914,960.41 21.04% 955,961,129.15 12.90% 169.35%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "6,044,323,943.16元",
+      "revenue_proportion": "49.40%",
+      "gross_margin": "24.99%",
+      "yoy_change": "同比增长65.09%",
+      "quote": "分地区：境内 6,044,323,943.16 49.40% 3,661,249,148.35 49.41% 65.09%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "6,191,221,702.88元",
+      "revenue_proportion": "50.60%",
+      "gross_margin": "13.62%",
+      "yoy_change": "同比增长65.16%",
+      "quote": "分地区：境外 6,191,221,702.88 50.60% 3,748,591,614.33 50.59% 65.16%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "计算机、通信和其他电子设备制造业（主要为物联网智能终端、数据存储设备和服务器及周边再制造中硬件产品）",
+      "metric_type": "sales_volume",
+      "value": "10,185.65万（台/套）",
+      "period": "2025年",
+      "quote": "销售量 万（台/套） 10,185.65"
+    },
+    {
+      "product": "计算机、通信和其他电子设备制造业（主要为物联网智能终端、数据存储设备和服务器及周边再制造中硬件产品）",
+      "metric_type": "production_volume",
+      "value": "9,963.42万（台/套）",
+      "period": "2025年",
+      "quote": "生产量 万（台/套） 9,963.42"
+    },
+    {
+      "product": "计算机、通信和其他电子设备制造业（主要为物联网智能终端、数据存储设备和服务器及周边再制造中硬件产品）",
+      "metric_type": "inventory_volume",
+      "value": "466.04万（台/套）",
+      "period": "2025年末",
+      "quote": "库存量 万（台/套） 466.04"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "投资设立多家算力及云服务相关子公司",
+      "project_type": "capacity_expansion",
+      "location": "深圳、福州、乌兰察布、马鞍山等地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "报告期内公司投资设立...协创智算科技（深圳）有限公司...等，上述公司自投资设立之日起将其纳入合并范围。",
+      "expected_completion_time": null,
+      "quote": "报告期内公司投资设立上海富奥佳智能科技有限公司、深圳市协创享存智能计算系统有限公司、SHARETRONIC AI INC.、协创智算科技（深圳）有限公司...协创智驰算谷（深圳）科技有限公司，上述公司自投资设立之日起将其纳入合并范围。"
+    },
+    {
+      "name": "协创智算（乌兰察布）大数据有限公司",
+      "project_type": "capacity_expansion",
+      "location": "乌兰察布",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "协创智算（乌兰察布）大数据有限公司，为公司全资子公司。"
+    },
+    {
+      "name": "协创智算科技（马鞍山）有限公司",
+      "project_type": "capacity_expansion",
+      "location": "马鞍山",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "协创智算科技（马鞍山）有限公司，为公司全资子公司。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "国内已授权专利达437件，其中发明专利50件、实用新型专利248件、外观专利138件，还有集成电路布图设计1件，软件著作权245件。在海外市场，公司也取得了8项专利。",
+      "quote": "截至2025年12月31日，公司在知识产权方面成果斐然。国内已授权专利达437件...软件著作权245件。在海外市场，公司也取得了8项专利..."
+    },
+    {
+      "name": "核心技术",
+      "asset_type": "core_technology",
+      "related_product": "AIoT终端",
+      "quantitative_info": null,
+      "quote": "公司目前AIoT终端的技术演进方向主要包括以下几个方面：（1）轻量化 AI 模型端侧部署...（2）多模态融合感知系统...（3）通过芯片升级、电源管理算法与太阳能供电方案..."
+    },
+    {
+      "name": "服务器再制造技术",
+      "asset_type": "process_technology",
+      "related_product": "服务器再制造",
+      "quantitative_info": "已实现高端AI服务器再制造技术的新突破，成功构建芯片拆解自动化作业的核心能力。",
+      "quote": "2025年，协创数据服务器再制造业务保持稳健发展...已实现高端AI服务器再制造技术的新突破，成功构建芯片拆解自动化作业的核心能力"
+    },
+    {
+      "name": "资质认证",
+      "asset_type": "certification",
+      "related_product": "服务器再制造",
+      "quantitative_info": "公司主体已取得《再生资源再利用服务企业甲级资质证书》和《废旧服务器回收服务企业一级资质证书》，公司控股子公司 Semsotai North Inc.已获得 ISO14001:2015、R2:2013...等认证证书。",
+      "quote": "公司主体已取得《再生资源再利用服务企业甲级资质证书》和《废旧服务器回收服务企业一级资质证书》，公司控股子公司 Semsotai North Inc.已获得 ISO14001:2015、R2:2013...等认证证书。"
+    },
+    {
+      "name": "NVIDIA CLOUD PARTNER 资质",
+      "asset_type": "certification",
+      "related_product": "算力服务",
+      "quantitative_info": null,
+      "quote": "奥佳软件已正式取得 NVIDIA CLOUD PARTNER 资质"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "5,720,173,450.39元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 5,720,173,450.39"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "46.75%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 46.75%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "11,999,113,483.11元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 11,999,113,483.11"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "51.89%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 51.89%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "由于中美贸易战导致的关税增加，可能会提高我们的运营成本并影响市场竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.国际贸易壁垒风险：由于中美贸易战导致的关税增加，可能会提高我们的运营成本并影响市场竞争力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "若公司不能紧跟行业技术的发展趋势，后续研发投入不足，则仍将面临因无法保持持续创新能力导致市场竞争力下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.产品研发风险：...若公司不能紧跟行业技术的发展趋势...后续研发投入不足，则仍将面临因无法保持持续创新能力导致市场竞争力下降的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济的不确定性持续加剧...对全球消费电子产品行业的持续发展可能造成不利影响，进而给公司业绩表现带来一定压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.宏观经济环境变化的风险：近年来...若宏观经济的不确定性持续加剧...对全球消费电子产品行业的持续发展可能造成不利影响..."
+    },
+    {
+      "risk_type": "other",
+      "description": "全球化经营可能面临语言、文化、政治和经济体制等差异带来的复杂挑战，以及地缘政治环境恶化的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.全球化经营风险：...这一战略可能面临语言、文化、政治和经济体制等差异带来的复杂挑战...如果地缘政治环境进一步恶化，公司在部分国家与地区的经营可能受到不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着多业务板块的协同发展与规模扩张，对公司现有的组织架构、运营管理、制度流程、专业人才储备等核心管理领域带来较大挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5.管理组织人才建设的风险：...随着多业务板块的协同发展与规模扩张...如果公司的管理水平不能及时适应公司发展变化，公司将面临组织快速发展带来的管理风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "云平台服务面临数据泄漏、系统故障、数据丢失、服务中断等安全风险，以及因法律法规变化引发的合规风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6.云平台服务的数据安全及用户信息保护风险：...数据泄漏风险也在不断增加...计算机病毒、电力供应故障、自然灾害...亦有可能导致公司出现系统故障、数据丢失、服务中断等后果。"
+    }
+  ]
+}

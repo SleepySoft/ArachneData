@@ -1,0 +1,444 @@
+{
+  "company_name_mentioned": "中国石化山东泰山石油股份有限公司",
+  "produces": [
+    {
+      "name": "汽油",
+      "type": "material",
+      "revenue_proportion": "68.64%",
+      "quote": "分产品：汽油 2,173,250,250.74 68.64%"
+    },
+    {
+      "name": "柴油",
+      "type": "material",
+      "revenue_proportion": "23.19%",
+      "quote": "柴油 734,304,932.91 23.19%"
+    },
+    {
+      "name": "天然气（LNG）",
+      "type": "material",
+      "revenue_proportion": "4.39%",
+      "quote": "天然气 138,868,346.06 4.39%"
+    },
+    {
+      "name": "非油品业务（日用百货、食品经营等）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "非油品业务依托公司主业为消费者提供系列化、便利化服务，主要包括日用百货销售、食品经营、食用农产品零售、洗车服务、机动车充电服务、业务培训等业务。"
+    },
+    {
+      "name": "其他产品",
+      "type": "material",
+      "revenue_proportion": "3.78%",
+      "quote": "其他 119,848,985.51 3.78%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "成品油（汽油、柴油等）",
+      "target_product": "汽油、柴油、天然气",
+      "cost_proportion": null,
+      "quote": "营业成本构成：汽油 销售成本 1,727,159,553.06 65.60%；柴油 销售成本 669,906,245.98 25.44%；天然气 销售成本 133,430,507.62 5.07%"
+    },
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "21.93%",
+      "quote": "公司前5大供应商资料：1 供应商一 518,516,919.00 21.93%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "16.91%",
+      "quote": "2 供应商二 399,901,984.40 16.91%"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "12.89%",
+      "quote": "3 供应商三 304,870,921.90 12.89%"
+    },
+    {
+      "name": "供应商四",
+      "target_product": null,
+      "cost_proportion": "6.85%",
+      "quote": "4 供应商四 161,905,186.60 6.85%"
+    },
+    {
+      "name": "供应商五",
+      "target_product": null,
+      "cost_proportion": "5.62%",
+      "quote": "5 供应商五 132,944,894.60 5.62%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "交通运输",
+      "source_product": "汽油、柴油、天然气",
+      "quote": "影响需求变化的主要因素有：一是受居民出行意愿影响成品油汽油零售市场；二是国内部分大型物流运输车辆改用天然气，柴油量受影响；三是新能源电动汽车的发展持续影响汽油市场。"
+    },
+    {
+      "name": "日用百货消费、餐饮服务、车辆服务",
+      "source_product": "非油品业务",
+      "quote": "非油品业务依托公司主业为消费者提供系列化、便利化服务，主要包括日用百货销售、食品经营、食用农产品零售、洗车服务、机动车充电服务、业务培训等业务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王明昌",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人王明昌；法定代表人 王明昌；王明昌先生，1971年5月出生...现任中国石化山东泰山石油股份有限公司党委书记、董事长。"
+    },
+    {
+      "name": "孙学刚",
+      "role": "副董事长、总经理",
+      "quote": "孙学刚先生，1972年6月出生...现任中国石化山东泰山石油股份有限公司副董事长、总经理。"
+    },
+    {
+      "name": "管振雨",
+      "role": "副总经理、总会计师",
+      "quote": "主管会计工作负责人管振雨；管振雨先生，1977年7月出生...现任中国石化山东泰山石油股份有限公司党委委员、副总经理、总会计师。"
+    },
+    {
+      "name": "孙建生",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 孙建生；孙建生先生，1973年6月出生...现任中国石化山东泰山石油股份有限公司董事会秘书兼董事会办公室主任。"
+    },
+    {
+      "name": "张书淼",
+      "role": "董事",
+      "quote": "张书淼先生，1974年7月出生...现任中国石化销售股份有限公司山东石油分公司审计部经理、中国石化山东泰山石油股份有限公司董事。"
+    },
+    {
+      "name": "董瑞海",
+      "role": "董事",
+      "quote": "董瑞海先生，1982年7月出生...现任中国石化销售股份有限公司山东石油分公司财务资产部经理、中国石化山东泰山石油股份有限公司董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国石油化工股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东为中国石油化工股份有限公司。"
+    },
+    {
+      "name": "山东石油分公司及其下属企业和单位",
+      "relation_type": "supplier",
+      "business_details": "向其采购天然气（LNG）、易捷商品等，并接受其提供的住宿、餐饮、会议服务等。",
+      "quote": "关联方：山东石油分公司及其下属企业和单位；关联交易内容：向关联方采购产品（天然气（LNG）、易捷商品）；向关联方提供服务（住宿、餐饮、会议服务等）"
+    },
+    {
+      "name": "德州大陆架石油工程技术有限公司",
+      "relation_type": "customer",
+      "business_details": "向其提供住宿、餐饮、会议服务等。",
+      "quote": "关联方：德州大陆架石油工程技术有限公司；关联交易内容：向关联方提供服务（住宿、餐饮、会议服务等）"
+    },
+    {
+      "name": "中石化胜利油建工程有限公司",
+      "relation_type": "supplier",
+      "business_details": "向其采购防静电工服。",
+      "quote": "关联方：中石化胜利油建工程有限公司；关联交易内容：向关联方采购产品（防静电工服）"
+    },
+    {
+      "name": "易捷咖啡（北京）有限公司",
+      "relation_type": "supplier",
+      "business_details": "向其采购咖啡设备、咖啡原料、耗材、器具等特许产品。",
+      "quote": "关联方：易捷咖啡（北京）有限公司；关联交易内容：向关联方采购产品（咖啡设备、咖啡原料、耗材、器具等特许产品）"
+    },
+    {
+      "name": "天津中石化悦泰科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "向其采购化工产品。",
+      "quote": "关联方：天津中石化悦泰科技有限公司；关联交易内容：向关联方采购产品（化工产品）"
+    },
+    {
+      "name": "中国石油化工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人名称：中国石油化工集团有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "商品流通行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,166,272,515.22元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "16.84%",
+      "yoy_change": "-4.22%",
+      "quote": "分行业：商品流通行业 3,166,272,515.22 100.00%；毛利率 16.84%；营业收入比上年同期增减 -4.22%"
+    },
+    {
+      "name": "汽油",
+      "segment_type": "product_line",
+      "revenue_amount": "2,173,250,250.74元",
+      "revenue_proportion": "68.64%",
+      "gross_margin": "20.53%",
+      "yoy_change": "-8.64%",
+      "quote": "分产品：汽油 2,173,250,250.74 68.64%；毛利率 20.53%；营业收入比上年同期增减 -8.64%"
+    },
+    {
+      "name": "柴油",
+      "segment_type": "product_line",
+      "revenue_amount": "734,304,932.91元",
+      "revenue_proportion": "23.19%",
+      "gross_margin": "8.77%",
+      "yoy_change": "-5.95%",
+      "quote": "柴油 734,304,932.91 23.19%；毛利率 8.77%；营业收入比上年同期增减 -5.95%"
+    },
+    {
+      "name": "天然气",
+      "segment_type": "product_line",
+      "revenue_amount": "138,868,346.06元",
+      "revenue_proportion": "4.39%",
+      "gross_margin": null,
+      "yoy_change": "301.01%",
+      "quote": "天然气 138,868,346.06 4.39%；营业收入比上年同期增减 301.01%"
+    },
+    {
+      "name": "泰安地区",
+      "segment_type": "region",
+      "revenue_amount": "2,812,385,571.15元",
+      "revenue_proportion": "88.82%",
+      "gross_margin": "16.52%",
+      "yoy_change": "-3.78%",
+      "quote": "分地区：泰安 2,812,385,571.15 88.82%；毛利率 16.52%；营业收入比上年同期增减 -3.78%"
+    },
+    {
+      "name": "青岛地区",
+      "segment_type": "region",
+      "revenue_amount": "331,472,882.44元",
+      "revenue_proportion": "10.47%",
+      "gross_margin": "19.57%",
+      "yoy_change": "-8.00%",
+      "quote": "青岛 331,472,882.44 10.47%；毛利率 19.57%；营业收入比上年同期增减 -8.00%"
+    },
+    {
+      "name": "曲阜地区",
+      "segment_type": "region",
+      "revenue_amount": "22,414,061.63元",
+      "revenue_proportion": "0.71%",
+      "gross_margin": null,
+      "yoy_change": "0.01%",
+      "quote": "曲阜 22,414,061.63 0.71%；营业收入比上年同期增减 0.01%"
+    },
+    {
+      "name": "传统销售模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,166,272,515.22元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "16.84%",
+      "yoy_change": "-4.22%",
+      "quote": "分销售模式：传统销售模式 3,166,272,515.22 100.00%；毛利率 16.84%；营业收入比上年同期增减 -4.22%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "成品油",
+      "metric_type": "sales_volume",
+      "value": "37.21万吨",
+      "period": "2025年度",
+      "quote": "公司2025年成品油经营总量达到37.21万吨"
+    },
+    {
+      "product": "成品油（批发零售业）",
+      "metric_type": "sales_volume",
+      "value": "40.50万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减；销售量 万吨 40.50 38.23 5.94%"
+    },
+    {
+      "product": "成品油（批发零售业）",
+      "metric_type": "inventory_volume",
+      "value": "4.55万吨",
+      "period": "2025年末",
+      "quote": "库存量 万吨 4.55 8.90 -48.88%"
+    },
+    {
+      "product": "LNG",
+      "metric_type": "sales_volume",
+      "value": "3.3万吨",
+      "period": "2025年",
+      "quote": "2025年策划零售营销活动10期，新增权益会员9.2万户...全年成品油销售37.21万吨，LNG销售3.3万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新建LNG站",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新建3座",
+      "expected_completion_time": null,
+      "quote": "新建3座LNG站"
+    },
+    {
+      "name": "新建充电站",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "90个充电终端",
+      "progress": "投营10座充电站",
+      "expected_completion_time": null,
+      "quote": "投营10座充电站、90个充电终端"
+    },
+    {
+      "name": "易捷咖啡门店",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "增加13座",
+      "expected_completion_time": null,
+      "quote": "增加13座易捷咖啡门店"
+    },
+    {
+      "name": "新型网络门店",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成2座",
+      "expected_completion_time": null,
+      "quote": "建成2座新型网络门店"
+    },
+    {
+      "name": "甲醇加注项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成设计评审",
+      "expected_completion_time": null,
+      "quote": "甲醇加注项目完成设计评审"
+    },
+    {
+      "name": "加油站经营权租赁（王家庄）",
+      "project_type": "acquisition_project",
+      "location": "山东省泰安市泰山区泰前街道东岳大街486号",
+      "investment_amount": "2176.74万元",
+      "designed_capacity": null,
+      "progress": "自2025年7月1日至2035年6月30日",
+      "expected_completion_time": null,
+      "quote": "加油站经营权：出租方：泰安市泰山...；位置：山东省泰安市...；租赁期限：自2025年7月1日至2035年6月30日；租赁金额（万元）：2176.74"
+    },
+    {
+      "name": "土地使用权租赁（迎胜）",
+      "project_type": "acquisition_project",
+      "location": "泰安市擂鼓石大街与迎胜路交汇口东100米处路北",
+      "investment_amount": "4370.10万元",
+      "designed_capacity": null,
+      "progress": "自合同签订之日起至2040年5月31日止",
+      "expected_completion_time": null,
+      "quote": "土地使用权：出租方：泰安市迎胜置业实业有限公司；位置：...；租赁期限：自合同签订之日起至2040年5月31日止；租赁金额（万元）：4370.10"
+    },
+    {
+      "name": "加油站租赁经营（高速服务区）",
+      "project_type": "acquisition_project",
+      "location": "山东省青兰高速泰山、泰新高速新汶服务区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "自合同生效之日起至2028年6月30日",
+      "expected_completion_time": null,
+      "quote": "加油站租赁经营：出租方：山东高速泰安分公司；位置：山东省青兰高速泰山、泰新高速新汶服务区的加油站；租赁期限：自合同生效之日起至2028年6月30日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "A级标准质检室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建成A级标准质检室"
+    },
+    {
+      "name": "深交所信息披露B级评级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获深交所信息披露B级评级"
+    },
+    {
+      "name": "企业微信专用小程序",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "自主研发农行自助流水接口，搭建企业微信专用小程序实现投币管理全流程线上化并覆盖所有站点"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "174,395,529.48元，占年度销售总额比例5.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元）174,395,529.48；前五名客户合计销售金额占年度销售总额比例5.51%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,518,139,906.47元，占年度采购总额比例64.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元）1,518,139,906.47；前五名供应商合计采购金额占年度采购总额比例64.20%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "118,909,876.41元，占年度销售总额比例3.76%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料：1 客户一 118,909,876.41 3.76%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "518,516,919.00元，占年度采购总额比例21.93%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料：1 供应商一 518,516,919.00 21.93%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额占年度采购总额比例5.62%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例5.62%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "成品油市场需求缩减，行业竞争加剧；新能源电动汽车的发展持续影响汽油市场。",
+      "related_entity": null,
+      "related_product": "汽油、柴油",
+      "quote": "公司发展中或将面临多重风险，一是成品油市场需求缩减，行业竞争加剧；...三是新能源电动汽车的发展持续影响汽油市场。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新能源转型充电、LNG等业务布局面临投入大、回报周期长的资源配置风险。",
+      "related_entity": null,
+      "related_product": "充电服务、LNG",
+      "quote": "二是新能源转型充电、LNG等业务布局面临投入大、回报周期长的资源配置风险；"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "油价波动可能影响企业效益。",
+      "related_entity": null,
+      "related_product": "成品油",
+      "quote": "四是油价波动、运营成本上升可能影响企业效益。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "新业态、新业务运营带来的安全管理与合规风控挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三是新业态、新业务运营带来的安全管理与合规风控挑战；"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国际原油持续下跌导致成本支撑减弱，叠加新能源汽车渗透率持续上升压制传统汽柴油需求，市场形成供大于求的态势，成品油行业竞争压力加大。",
+      "related_entity": null,
+      "related_product": "成品油",
+      "quote": "报告期内国际原油持续下跌导致成本支撑减弱，叠加新能源汽车渗透率持续上升压制传统汽柴油需求，市场形成供大于求的态势，成品油行业竞争压力加大。"
+    }
+  ]
+}

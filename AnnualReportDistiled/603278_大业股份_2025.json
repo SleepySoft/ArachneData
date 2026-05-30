@@ -1,0 +1,395 @@
+{
+  "company_name_mentioned": "山东大业股份有限公司",
+  "produces": [
+    {
+      "name": "胎圈钢丝",
+      "type": "component",
+      "revenue_proportion": "收入2,149,446,097.52元，毛利率9.35%",
+      "quote": "公司专注于胎圈钢丝、钢帘线以及胶管钢丝的研发、生产和销售...胎圈钢丝 2,149,446,097.52 1,948,406,189.72 9.35"
+    },
+    {
+      "name": "钢帘线",
+      "type": "component",
+      "revenue_proportion": "收入2,492,683,666.22元，毛利率3.44%",
+      "quote": "公司专注于胎圈钢丝、钢帘线以及胶管钢丝的研发、生产和销售...钢帘线 2,492,683,666.22 2,407,049,374.68 3.44"
+    },
+    {
+      "name": "胶管钢丝",
+      "type": "component",
+      "revenue_proportion": "收入295,385,495.44元，毛利率11.74%",
+      "quote": "公司专注于胎圈钢丝、钢帘线以及胶管钢丝的研发、生产和销售...胶管钢丝 295,385,495.44 260,695,186.42 11.74"
+    },
+    {
+      "name": "喷涂",
+      "type": "service",
+      "revenue_proportion": "收入3,383,378.00元，毛利率22.81%",
+      "quote": "喷涂 3,383,378.00 2,611,572.09 22.81"
+    },
+    {
+      "name": "桥坯（汽车配件加工制造）",
+      "type": "component",
+      "revenue_proportion": "收入17,326,049.09元，毛利率19.21%",
+      "quote": "桥坯 17,326,049.09 13,997,874.26 19.21"
+    }
+  ],
+  "procures": [
+    {
+      "name": "盘条",
+      "target_product": "钢丝产品",
+      "cost_proportion": "直接材料占成本的66.31%",
+      "quote": "成本构成项目 本期金额 上年同期金额...直接材料 3,073,170,638.94 66.31...主要是报告期内主要产品采购盘条单价下降"
+    },
+    {
+      "name": "电力",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "依托厂区周边丰富的光、风及生物质燃料资源，持续加大新能源一体化开发力度。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "轮胎制品",
+      "source_product": "胎圈钢丝、钢帘线、胶管钢丝",
+      "quote": "产品广泛应用于乘用车轮胎、载重轮胎、工程轮胎以及航空轮胎等各类高端轮胎制品"
+    },
+    {
+      "name": "特种橡胶制品",
+      "source_product": "胶管钢丝等",
+      "quote": "同时适配多种特种橡胶制品"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "窦勇",
+      "role": "董事长",
+      "quote": "公司负责人窦勇...窦勇 董事长 男 50"
+    },
+    {
+      "name": "郑洪霞",
+      "role": "董事、总经理",
+      "quote": "主管会计工作负责人郑洪霞...郑洪霞 董事、总经理 女 55"
+    },
+    {
+      "name": "牛海平",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 牛海平"
+    },
+    {
+      "name": "李霞",
+      "role": "财务总监、会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）李霞...李霞 财务总监 女 46"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中策橡胶",
+      "relation_type": "customer",
+      "business_details": "国内客户涵盖中策橡胶",
+      "quote": "国内客户囊括中策橡胶、玲珑轮胎、赛轮轮胎、风神股份、森麒麟、恒丰橡塑、华盛橡胶、昊华轮胎、佳通轮胎等"
+    },
+    {
+      "name": "玲珑轮胎",
+      "relation_type": "customer",
+      "business_details": "国内客户涵盖玲珑轮胎",
+      "quote": "国内客户囊括中策橡胶、玲珑轮胎、赛轮轮胎..."
+    },
+    {
+      "name": "赛轮轮胎",
+      "relation_type": "customer",
+      "business_details": "国内客户涵盖赛轮轮胎",
+      "quote": "国内客户囊括中策橡胶、玲珑轮胎、赛轮轮胎..."
+    },
+    {
+      "name": "米其林",
+      "relation_type": "customer",
+      "business_details": "国际客户覆盖米其林",
+      "quote": "国际客户覆盖米其林、普利司通、固特异、德国大陆、住友橡胶、韩泰轮胎、倍耐力等"
+    },
+    {
+      "name": "普利司通",
+      "relation_type": "customer",
+      "business_details": "国际客户覆盖普利司通",
+      "quote": "国际客户覆盖米其林、普利司通、固特异..."
+    },
+    {
+      "name": "建发系列",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "前五名供应商...1 建发系列 98,229.22 18.84"
+    },
+    {
+      "name": "国网系列",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "2 国网系列 57,463.46 11.02"
+    },
+    {
+      "name": "上海睿景能源科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "3 上海睿景能源科技有限公司 56,050.50 10.75"
+    },
+    {
+      "name": "山东胜通钢帘线有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，生产销售钢帘线等产品",
+      "quote": "山东胜通钢帘线有限公司 子公司...生产、销售...胶管钢丝、钢帘线（非绝缘的钢铁绞股线）、胎圈钢丝"
+    },
+    {
+      "name": "山东大业新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，生产销售金属丝绳及其制品等",
+      "quote": "山东大业新材料有限公司 子公司...高性能纤维及复合材料制造；金属丝绳及其制品制造"
+    },
+    {
+      "name": "DAYE MOROCCO CO., LTD",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，在摩洛哥筹备生产基地",
+      "quote": "DAYE MOROCCO CO., LTD 子公司...正在开展项目开工前准备工作"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金属丝绳制品",
+      "segment_type": "product_line",
+      "revenue_amount": "4,937,515,259.18元",
+      "revenue_proportion": null,
+      "gross_margin": "6.51%",
+      "yoy_change": "营业收入比上年增减（%） -1.41",
+      "quote": "金属丝绳制品 4,937,515,259.18 4,616,150,750.82 6.51 -1.41"
+    },
+    {
+      "name": "胎圈钢丝",
+      "segment_type": "product_line",
+      "revenue_amount": "2,149,446,097.52元",
+      "revenue_proportion": null,
+      "gross_margin": "9.35%",
+      "yoy_change": "营业收入比上年增减（%） -1.71",
+      "quote": "胎圈钢丝 2,149,446,097.52 1,948,406,189.72 9.35 -1.71"
+    },
+    {
+      "name": "钢帘线",
+      "segment_type": "product_line",
+      "revenue_amount": "2,492,683,666.22元",
+      "revenue_proportion": null,
+      "gross_margin": "3.44%",
+      "yoy_change": "营业收入比上年增减（%） 0.73",
+      "quote": "钢帘线 2,492,683,666.22 2,407,049,374.68 3.44 0.73"
+    },
+    {
+      "name": "胶管钢丝",
+      "segment_type": "product_line",
+      "revenue_amount": "295,385,495.44元",
+      "revenue_proportion": null,
+      "gross_margin": "11.74%",
+      "yoy_change": "营业收入比上年增减（%） -8.62",
+      "quote": "胶管钢丝 295,385,495.44 260,695,186.42 11.74 -8.62"
+    },
+    {
+      "name": "山东省",
+      "segment_type": "region",
+      "revenue_amount": "2,275,647,487.56元",
+      "revenue_proportion": null,
+      "gross_margin": "1.54%",
+      "yoy_change": "营业收入比上年增减（%） 2.52",
+      "quote": "山东省 2,275,647,487.56 2,240,597,861.28 1.54 2.52"
+    },
+    {
+      "name": "出口（含港澳台地区）",
+      "segment_type": "region",
+      "revenue_amount": "1,228,690,920.98元",
+      "revenue_proportion": null,
+      "gross_margin": "14.79%",
+      "yoy_change": "营业收入比上年增减（%） -3.06",
+      "quote": "出口（含港澳台地区） 1,228,690,920.98 1,046,907,496.65 14.79 -3.06"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,876,738,563.99元",
+      "revenue_proportion": null,
+      "gross_margin": "6.4%",
+      "yoy_change": "营业收入比上年增减（%） -1.44",
+      "quote": "直销 4,876,738,563.99 4,564,644,167.65 6.4 -1.44"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "各类钢丝",
+      "metric_type": "production_volume",
+      "value": "85.88万吨",
+      "period": "2025年",
+      "quote": "生产各类钢丝85.88万吨，比上年增长1.15%"
+    },
+    {
+      "product": "各类钢丝",
+      "metric_type": "sales_volume",
+      "value": "84.81万吨",
+      "period": "2025年",
+      "quote": "销售各类钢丝84.81万吨，比上年增长3.86%"
+    },
+    {
+      "product": "胎圈钢丝",
+      "metric_type": "production_volume",
+      "value": "44.67万吨",
+      "period": "2025年",
+      "quote": "其中胎圈钢丝44.67万吨、钢帘线36.28万吨、胶管钢丝4.92万吨"
+    },
+    {
+      "product": "胎圈钢丝",
+      "metric_type": "sales_volume",
+      "value": "44.30万吨",
+      "period": "2025年",
+      "quote": "其中胎圈钢丝44.30万吨、钢帘线35.70万吨、胶管钢丝4.81万吨"
+    },
+    {
+      "product": "胎圈钢丝",
+      "metric_type": "production_volume",
+      "value": "42.80万吨",
+      "period": "2023年",
+      "quote": "2023—2025年，公司胎圈钢丝产量分别达到42.80万吨、43.60万吨、44.67万吨"
+    },
+    {
+      "product": "胎圈钢丝",
+      "metric_type": "capacity_utilization",
+      "value": "国内市场占有率36.23%",
+      "period": "2025年",
+      "quote": "国内市场占有率分别为38.27%、37.53%、36.23%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "200兆瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "200兆瓦",
+      "progress": "已进入建设收尾阶段",
+      "expected_completion_time": "2026年二季度陆续投入运行",
+      "quote": "200兆瓦风电项目、一期35兆瓦生物质热电联产项目、一期30兆瓦/60兆瓦时储能项目已进入建设收尾阶段...将于2026年二季度陆续投入运行"
+    },
+    {
+      "name": "一期35兆瓦生物质热电联产项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "35兆瓦",
+      "progress": "已进入建设收尾阶段",
+      "expected_completion_time": "2026年二季度陆续投入运行",
+      "quote": "200兆瓦风电项目、一期35兆瓦生物质热电联产项目、一期30兆瓦/60兆瓦时储能项目已进入建设收尾阶段...将于2026年二季度陆续投入运行"
+    },
+    {
+      "name": "一期30兆瓦/60兆瓦时储能项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "30兆瓦/60兆瓦时",
+      "progress": "已进入建设收尾阶段",
+      "expected_completion_time": "2026年二季度陆续投入运行",
+      "quote": "200兆瓦风电项目、一期35兆瓦生物质热电联产项目、一期30兆瓦/60兆瓦时储能项目已进入建设收尾阶段...将于2026年二季度陆续投入运行"
+    },
+    {
+      "name": "垦利厂区14.9兆瓦光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "垦利厂区",
+      "investment_amount": null,
+      "designed_capacity": "14.9兆瓦",
+      "progress": "加快推进",
+      "expected_completion_time": null,
+      "quote": "同时，加快推进垦利厂区14.9兆瓦光伏项目建设。"
+    },
+    {
+      "name": "摩洛哥生产基地",
+      "project_type": "capacity_expansion",
+      "location": "摩洛哥",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正在开展项目开工前准备工作",
+      "expected_completion_time": null,
+      "quote": "重点建设摩洛哥生产基地...目前正在开展项目开工前准备工作。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ISO 16650:2025《胎圈钢丝》国际标准",
+      "asset_type": "standard",
+      "related_product": "胎圈钢丝",
+      "quantitative_info": "牵头修订",
+      "quote": "2025年，公司牵头修订的ISO 16650:2025《胎圈钢丝》国际标准正式发布"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有国家级企业技术中心、全国石油和化工行业高性能轮胎胎圈钢丝工程研究中心、橡胶骨架材料标准研发基地等多个高水平创新平台。"
+    },
+    {
+      "name": "国家知识产权示范企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2023年公司被国家知识产局认定为国家知识产权示范企业"
+    },
+    {
+      "name": "国家绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2024年公司被国家工信部认定为国家绿色工厂"
+    },
+    {
+      "name": "山东省先进级智能工厂（钢帘线）",
+      "asset_type": "certification",
+      "related_product": "钢帘线",
+      "quantitative_info": null,
+      "quote": "2025年，公司钢帘线智能工厂获评山东省先进级智能工厂。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "143,258.31万元，占年度销售总额28.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额143,258.31万元，占年度销售总额28.51%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "285,731.74万元，占年度采购总额54.81%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额285,731.74万元，占年度采购总额54.81%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "98,229.22万元，占年度采购总额比例18.84%",
+      "related_entity": "建发系列",
+      "period": "2025年",
+      "quote": "1 建发系列 98,229.22 18.84"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "人才储备不足与流失风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、人才储备不足与流失风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "管理能力匹配不足风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、管理能力匹配不足风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧与行业集中加剧风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、市场竞争加剧与行业集中加剧风险"
+    }
+  ]
+}

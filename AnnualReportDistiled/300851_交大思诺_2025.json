@@ -1,0 +1,485 @@
+{
+  "company_name_mentioned": "北京交大思诺科技股份有限公司",
+  "produces": [
+    {
+      "name": "应答器系统",
+      "type": "device",
+      "revenue_proportion": "53.14%",
+      "quote": "分产品 应答器系统 214,132,588.98 53.14%"
+    },
+    {
+      "name": "普速列控车载设备",
+      "type": "device",
+      "revenue_proportion": "32.43%",
+      "quote": "普速列控车载设备 130,673,129.17 32.43%"
+    },
+    {
+      "name": "轨道电路读取器（TCR）",
+      "type": "device",
+      "revenue_proportion": "11.64%",
+      "quote": "轨道电路读取器 46,913,471.67 11.64%"
+    },
+    {
+      "name": "其他",
+      "type": "service",
+      "revenue_proportion": "2.79%",
+      "quote": "其他 11,234,658.31 2.79%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "通用电子元器件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购的原材料主要包括通用电子元器件、结构件、PCB等"
+    },
+    {
+      "name": "结构件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购的原材料主要包括通用电子元器件、结构件、PCB等"
+    },
+    {
+      "name": "PCB",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购的原材料主要包括通用电子元器件、结构件、PCB等"
+    },
+    {
+      "name": "外协加工品",
+      "target_product": null,
+      "cost_proportion": "84.79%",
+      "quote": "轨道交通行业 直接材料 115,421,297.41 84.79%...直接材料为最主要构成部分，包括原材料和外协加工品两部分"
+    }
+  ],
+  "applications": [
+    {
+      "name": "高速铁路（200km/h及以上）",
+      "source_product": "应答器系统、轨道电路读取器（TCR）",
+      "quote": "公司提供的主要产品为...广泛应用于城轨、普铁、高铁等领域。...应答器系统...应用于200km/h及以上高速铁路"
+    },
+    {
+      "name": "普速铁路（160km/h及以下）",
+      "source_product": "普速列控车载设备（机车信号CPU组件、列车运行监控装置）",
+      "quote": "普速列控车载设备...应用于160km/h及以下的普速铁路"
+    },
+    {
+      "name": "城市轨道交通",
+      "source_product": "应答器系统、轨道电路读取器（TCR）",
+      "quote": "应答器系统...应用于...城市轨道交通...机车信号车载设备...应用于...城市轨道交通"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李伟",
+      "role": "董事长",
+      "quote": "公司负责人李伟...现任公司董事长"
+    },
+    {
+      "name": "张一弛",
+      "role": "总经理",
+      "quote": "张一弛：男，1982年7月出生...担任公司总经理"
+    },
+    {
+      "name": "张民",
+      "role": "董事兼副总经理",
+      "quote": "张民：男，1972年10月出生...现任公司董事兼副总经理"
+    },
+    {
+      "name": "赵胜凯",
+      "role": "董事",
+      "quote": "赵胜凯：男，1972年11月出生...现任公司董事"
+    },
+    {
+      "name": "陈锋华",
+      "role": "副总经理",
+      "quote": "陈锋华：男，1975年11月出生...担任公司副总经理、思诺研究院院长"
+    },
+    {
+      "name": "童欣",
+      "role": "副总经理兼董事会秘书",
+      "quote": "童欣：女，1973年8月出生...现任公司副总经理兼董事会秘书"
+    },
+    {
+      "name": "徐红梅",
+      "role": "财务总监",
+      "quote": "徐红梅：女，1987年12月出生...担任公司财务总监"
+    },
+    {
+      "name": "刘星宇",
+      "role": "副总经理",
+      "quote": "刘星宇：男，1984年6月出生...担任公司副总经理"
+    },
+    {
+      "name": "邱宽民",
+      "role": "控股股东、实际控制人、创始人",
+      "quote": "控股股东、实际控制人...邱宽民...公司创始人邱宽民、徐迅等人"
+    },
+    {
+      "name": "徐迅",
+      "role": "创始人、核心技术人员",
+      "quote": "公司创始人邱宽民、徐迅等人"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "交控科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "列控系统集成商，长期合作客户",
+      "quote": "主要客户为列控系统集成商...交控科技...等"
+    },
+    {
+      "name": "北京全路通信信号研究设计院集团有限公司（通号设计院）",
+      "relation_type": "customer",
+      "business_details": "列控系统集成商，长期合作客户",
+      "quote": "主要客户为列控系统集成商...通号设计院...等"
+    },
+    {
+      "name": "北京和利时系统工程有限公司（和利时）",
+      "relation_type": "customer",
+      "business_details": "列控系统集成商，长期合作客户",
+      "quote": "主要客户为列控系统集成商...和利时...等"
+    },
+    {
+      "name": "浙江众合科技股份有限公司（众合科技）",
+      "relation_type": "customer",
+      "business_details": "列控系统集成商",
+      "quote": "主要客户为列控系统集成商...众合科技等集团客户"
+    },
+    {
+      "name": "中国中铁股份有限公司",
+      "relation_type": "customer",
+      "business_details": "铁路“四电”工程总承包商",
+      "quote": "工程总承包商主要为中国中铁、中国铁建等大型央企，均为公司客户"
+    },
+    {
+      "name": "中国铁建股份有限公司",
+      "relation_type": "customer",
+      "business_details": "铁路“四电”工程总承包商",
+      "quote": "工程总承包商主要为中国中铁、中国铁建等大型央企，均为公司客户"
+    },
+    {
+      "name": "中国铁路通信信号股份有限公司（中国通号）",
+      "relation_type": "customer",
+      "business_details": "列控系统集成商（母公司）",
+      "quote": "列控系统集成商主要包括中国通号...等集团客户"
+    },
+    {
+      "name": "西北铁道电子股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "公司前5大客户资料...西北铁道电子股份有限公司 9,570,849.58 2.38%"
+    },
+    {
+      "name": "北京北交信飞科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联供应商，公司参股子公司",
+      "quote": "公司前5名供应商资料...北京北交信飞科技有限公司 5,411,144.56 3.81%...北交信飞为公司关联法人...公司的参股子公司"
+    },
+    {
+      "name": "北京益弘泰科技发展有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "公司前5名供应商资料...北京益弘泰科技发展有限责任公司 3,979,318.59 2.80%"
+    },
+    {
+      "name": "思维列控",
+      "relation_type": "competitor",
+      "business_details": "普速列控车载设备列车运行监控装置主要竞争者",
+      "quote": "主要竞争者包括思维列控、时代电气"
+    },
+    {
+      "name": "深圳市长龙铁路电子工程有限公司（深圳长龙）",
+      "relation_type": "competitor",
+      "business_details": "机车信号的主要竞争者",
+      "quote": "机车信号的主要竞争者包括山西润泽丰、深圳长龙等"
+    },
+    {
+      "name": "山西润泽丰科技开发有限公司（山西润泽丰）",
+      "relation_type": "competitor",
+      "business_details": "机车信号的主要竞争者",
+      "quote": "机车信号的主要竞争者包括山西润泽丰、深圳长龙等"
+    },
+    {
+      "name": "华铁信息",
+      "relation_type": "competitor",
+      "business_details": "应答器系统、轨道电路读取器的主要竞争者",
+      "quote": "应答器系统的主要竞争者为通号设计院、华铁信息等；轨道电路读取器的主要竞争者为和利时、华铁信息等"
+    },
+    {
+      "name": "黄骅市交大思诺科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，生产基地",
+      "quote": "黄骅思诺 指 黄骅市交大思诺科技有限公司，系公司子公司...黄骅思诺为公司全资子公司"
+    },
+    {
+      "name": "北京思诺信安科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "思诺信安 指 北京思诺信安科技有限公司，系公司子公司"
+    },
+    {
+      "name": "北京海德维尔技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "海德维尔 指 北京海德维尔技术有限公司，系公司控股子公司"
+    },
+    {
+      "name": "北京北交信通科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股子公司",
+      "quote": "北交信通 指 北京北交信通科技有限公司，系公司参股子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "应答器系统",
+      "segment_type": "product_line",
+      "revenue_amount": "214,132,588.98元",
+      "revenue_proportion": "53.14%",
+      "gross_margin": "68.97%",
+      "yoy_change": "15.03%",
+      "quote": "分产品 应答器系统 214,132,588.98 53.14%...毛利率 68.97%...营业收入比上年同期增减 15.03%"
+    },
+    {
+      "name": "普速列控车载设备",
+      "segment_type": "product_line",
+      "revenue_amount": "130,673,129.17元",
+      "revenue_proportion": "32.43%",
+      "gross_margin": "64.53%",
+      "yoy_change": "16.71%",
+      "quote": "普速列控车载设备 130,673,129.17 32.43%...毛利率 64.53%...营业收入比上年同期增减 16.71%"
+    },
+    {
+      "name": "轨道电路读取器",
+      "segment_type": "product_line",
+      "revenue_amount": "46,913,471.67元",
+      "revenue_proportion": "11.64%",
+      "gross_margin": "57.69%",
+      "yoy_change": "66.11%",
+      "quote": "轨道电路读取器 46,913,471.67 11.64%...毛利率 57.69%...营业收入比上年同期增减 66.11%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "11,234,658.31元",
+      "revenue_proportion": "2.79%",
+      "gross_margin": "68.94%",
+      "yoy_change": "2.50%",
+      "quote": "其他 11,234,658.31 2.79%...毛利率 68.94%...营业收入比上年同期增减 2.50%"
+    },
+    {
+      "name": "轨道交通行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "395,992,856.37元",
+      "revenue_proportion": "98.27%",
+      "gross_margin": "66.15%",
+      "yoy_change": "20.00%",
+      "quote": "分行业 轨道交通行业 395,992,856.37 98.27%...毛利率 66.15%...营业收入比上年同期增减 20.00%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "234,816,419.39元",
+      "revenue_proportion": "58.27%",
+      "gross_margin": "61.11%",
+      "yoy_change": "6.58%",
+      "quote": "分地区 华北地区 234,816,419.39 58.27%...毛利率 61.11%...营业收入比上年同期增减 6.58%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "59,447,787.22元",
+      "revenue_proportion": "14.75%",
+      "gross_margin": "74.79%",
+      "yoy_change": "-3.57%",
+      "quote": "华东地区 59,447,787.22 14.75%...毛利率 74.79%...营业收入比上年同期增减 -3.57%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "39,698,889.94元",
+      "revenue_proportion": "9.85%",
+      "gross_margin": "79.29%",
+      "yoy_change": "243.05%",
+      "quote": "东北地区 39,698,889.94 9.85%...毛利率 79.29%...营业收入比上年同期增减 243.05%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "轨道交通行业",
+      "metric_type": "sales_volume",
+      "value": "29,008台",
+      "period": "2025年",
+      "quote": "销售量 台 29,008 24,997 16.05%"
+    },
+    {
+      "product": "轨道交通行业",
+      "metric_type": "production_volume",
+      "value": "31,649台",
+      "period": "2025年",
+      "quote": "生产量 台 31,649 33,829 -6.44%"
+    },
+    {
+      "product": "轨道交通行业",
+      "metric_type": "inventory_volume",
+      "value": "10,085台",
+      "period": "2025年末",
+      "quote": "库存量 台 10,085 12,318 -18.13%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "列控产品及配套设备生产基地项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "黄骅思诺为公司首次公开发行股票募集资金投资项目“列控产品及配套设备生产基地项目”的实施主体",
+      "expected_completion_time": null,
+      "quote": "黄骅思诺为公司首次公开发行股票募集资金投资项目“列控产品及配套设备生产基地项目”的实施主体"
+    },
+    {
+      "name": "黄骅生产基地",
+      "project_type": "capacity_expansion",
+      "location": "黄骅",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "持续强化黄骅生产基地的核心支柱地位，全面升级自主生产制造体系与产品交付保障能力。...黄骅基地营业收入与营业利润双双实现强劲增长",
+      "expected_completion_time": null,
+      "quote": "在产能建设层面，公司持续强化黄骅生产基地的核心支柱地位...黄骅基地自主转化的应答器产品成功切入国铁、城市轨道交通列控市场...黄骅基地营业收入与营业利润双双实现强劲增长"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "SIL4级安全评估",
+      "asset_type": "certification",
+      "related_product": "普速列控车载设备、应答器系统、轨道电路读取器",
+      "quantitative_info": null,
+      "quote": "公司普速列控车载设备、应答器系统和轨道电路读取器均获得了国际独立第三方颁发的国际最高级别安全等级SIL4安全评估证书"
+    },
+    {
+      "name": "一种LKJ在列车自动折返运行的控制方法",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "ZL202211169643X",
+      "quote": "一种LKJ在列车自动折返运行的控制方法 ZL202211169643X"
+    },
+    {
+      "name": "Y.FB无源应答器软件V1.4",
+      "asset_type": "software_copyright",
+      "related_product": "应答器系统",
+      "quantitative_info": "2025SR2280092",
+      "quote": "Y.FB无源应答器软件V1.4 2025SR2280092"
+    },
+    {
+      "name": "地面电子单元LEU软件V5.0",
+      "asset_type": "software_copyright",
+      "related_product": "应答器系统",
+      "quantitative_info": "2025SR2528948",
+      "quote": "地面电子单元LEU软件V5.0 2025SR2528948"
+    },
+    {
+      "name": "《TB/T3484-2017列控系统应答器应用原则》",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及公司相关人员主持或参与编制了...《TB/T3484-2017列控系统应答器应用原则》"
+    },
+    {
+      "name": "铁路400MHz无线通信关键技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "开展利用铁路400MHz无线通信传输车地安全列控信息关键技术研究和应用"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "88.49%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 88.49%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "28.88%",
+      "related_entity": "第一名",
+      "period": "报告期",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 116,353,428.74 28.88%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "57.68%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 57.68%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "42.84%",
+      "related_entity": "第一名",
+      "period": "报告期",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 60,881,150.70 42.84%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "报告期内，公司对前五大客户的销售收入合计占主营业务收入的比例较高。若公司主要客户流失或主要客户因自身经营及资质等方面产生不利变化导致其需求大幅减少，将对公司业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司对前五大客户的销售收入合计占主营业务收入的比例较高。若公司主要客户流失或主要客户因自身经营及资质等方面产生不利变化导致其需求大幅减少，将对公司业绩产生不利影响。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "报告期内，公司向前五大供应商采购额占采购总额的比例较高。若公司主要供应商的产品制造质量出现问题、自身经营发生不利变化或无法持续取得硬件生产所必须的资质认证，导致其不能向公司及时供应产品，将对公司的经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司向前五大供应商采购额占采购总额的比例较高。若公司主要供应商的产品制造质量出现问题、自身经营发生不利变化或无法持续取得硬件生产所必须的资质认证，导致其不能向公司及时供应产品，将对公司的经营产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "在轨道交通列控系统关键设备领域，目前与公司构成直接竞争关系的主要是国内厂商...若公司产品质量、技术水平进步不足，将会削弱公司市场竞争力及盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在轨道交通列控系统关键设备领域，目前与公司构成直接竞争关系的主要是国内厂商...若公司产品质量、技术水平进步不足，将会削弱公司市场竞争力及盈利能力。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "根据《铁路安全管理条例》等相关规定，国家对境内生产铁路运输基础设备的企业实行行政许可...一旦出现产品不能取得许可或认证的情形，将对公司经营造成严重不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "根据《铁路安全管理条例》（国务院令第639号）等相关规定...公司核心产品需在取得行政许可及认证后方可进行生产销售...一旦出现产品不能取得许可或认证的情形，将对公司经营造成严重不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "受行业惯例影响，铁路、城轨通常集中于下半年甚至年末开通，公司的收入主要集中在下半年，部分季度的收入占比较小，存在一定季节性亏损风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受行业惯例影响，铁路、城轨通常集中于下半年甚至年末开通，公司的收入主要集中在下半年，部分季度的收入占比较小，存在一定季节性亏损风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司应答器系统产品自发货至确认收入的间隔期较长，公司各期期末发出商品余额较高...使得公司流动性和业绩面临一定风险。",
+      "related_entity": null,
+      "related_product": "应答器系统",
+      "quote": "公司应答器系统产品自发货至确认收入的间隔期较长，公司各期期末发出商品余额较高...使得公司流动性和业绩面临一定风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "随着公司经营规模的扩大，应收账款仍将保持在较高水平，存在一定的回收风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着公司经营规模的扩大，应收账款仍将保持在较高水平，存在一定的回收风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "如果公司未来无法准确把握行业技术发展趋势并跟进技术研发方向，或产品研发速度无法匹配行业与主管部门对技术更新的需求，公司的市场竞争力和持续发展将受到不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如果公司未来无法准确把握行业技术发展趋势并跟进技术研发方向，或产品研发速度无法匹配行业与主管部门对技术更新的需求，公司的市场竞争力和持续发展将受到不利影响。"
+    }
+  ]
+}

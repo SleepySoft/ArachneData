@@ -1,0 +1,442 @@
+{
+  "company_name_mentioned": "中船汉光科技股份有限公司",
+  "produces": [
+    {
+      "name": "墨粉",
+      "type": "material",
+      "revenue_proportion": "静电成像设备及耗材产业收入占比95.04%",
+      "quote": "公司主要从事打印复印静电成像设备及成像耗材业务、特种精密加工业务，主要产品为墨粉、OPC鼓、打印复印设备、特种精密加工产品，其中墨粉和OPC鼓是打印机、复印机、多功能一体机的核心消耗材料"
+    },
+    {
+      "name": "有机光导鼓（OPC鼓）",
+      "type": "component",
+      "revenue_proportion": "静电成像设备及耗材产业收入占比95.04%",
+      "quote": "有机光导鼓（Organic Photo-Conductor Drum），俗称“鼓芯”，是有机复合功能材料等涂覆在鼓基上制成的、广泛应用在普通光、激光及LED打印机、数码复印机和多功能一体机等静电成像设备中的最为核心的光电转换和信息输出器件"
+    },
+    {
+      "name": "打印复印设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "打印复印设备分为信息安全复印机业务、普通打印复印设备业务。信息安全复印机业务分为安全增强复印机和信息化安全复合机"
+    },
+    {
+      "name": "特种精密加工产品",
+      "type": "component",
+      "revenue_proportion": "精密加工收入占比3.84%",
+      "quote": "公司提供的特种精密加工产品主要是军事装备的配套零部件。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "树脂",
+      "target_product": "墨粉",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 墨粉 树脂、磁粉、电荷调节剂等"
+    },
+    {
+      "name": "磁粉",
+      "target_product": "墨粉",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 墨粉 树脂、磁粉、电荷调节剂等"
+    },
+    {
+      "name": "电荷调节剂",
+      "target_product": "墨粉",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 墨粉 树脂、磁粉、电荷调节剂等"
+    },
+    {
+      "name": "铝基管",
+      "target_product": "OPC鼓",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 ... OPC鼓 铝基管、齿轮、树脂、电子产生材料、电子传输材料等"
+    },
+    {
+      "name": "齿轮",
+      "target_product": "OPC鼓",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 ... OPC鼓 铝基管、齿轮、树脂、电子产生材料、电子传输材料等"
+    },
+    {
+      "name": "树脂",
+      "target_product": "OPC鼓",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 ... OPC鼓 铝基管、齿轮、树脂、电子产生材料、电子传输材料等"
+    },
+    {
+      "name": "电子产生材料（CGM）",
+      "target_product": "OPC鼓",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 ... OPC鼓 铝基管、齿轮、树脂、电子产生材料、电子传输材料等"
+    },
+    {
+      "name": "电子传输材料（CTM）",
+      "target_product": "OPC鼓",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 ... OPC鼓 铝基管、齿轮、树脂、电子产生材料、电子传输材料等"
+    },
+    {
+      "name": "打印机复印机配套部件",
+      "target_product": "打印复印设备",
+      "cost_proportion": null,
+      "quote": "公司主要产品所用原材料如下：产品 原材料 ... 打印复印设备 打印机复印机配套部件等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "打印复印静电成像设备",
+      "source_product": "墨粉、OPC鼓",
+      "quote": "基于静电成像技术的打印机、复印机、多功能一体机等设备"
+    },
+    {
+      "name": "办公自动化",
+      "source_product": "墨粉、OPC鼓、打印复印设备",
+      "quote": "公司主要从事打印复印静电成像设备及成像耗材业务"
+    },
+    {
+      "name": "信息安全",
+      "source_product": "信息安全复印机",
+      "quote": "公司主要向政府机关、军队、军工单位、企事业单位等组织提供有信息安全要求和需求的安全增强复印机和信息化安全复合机。"
+    },
+    {
+      "name": "军事装备配套",
+      "source_product": "特种精密加工产品",
+      "quote": "公司提供的特种精密加工产品主要是军事装备的配套零部件。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄立新",
+      "role": "董事长",
+      "quote": "公司负责人黄立新"
+    },
+    {
+      "name": "苏电礼",
+      "role": "总经理",
+      "quote": "现任中船汉光科技股份有限公司总经理、董事、OPC事业部总经理。"
+    },
+    {
+      "name": "李欢",
+      "role": "主管会计工作负责人/财务总监",
+      "quote": "主管会计工作负责人李欢"
+    },
+    {
+      "name": "李彤晖",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人(会计主管人员)李彤晖"
+    },
+    {
+      "name": "王冬雪",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书 王冬雪"
+    },
+    {
+      "name": "杨旭东",
+      "role": "副总经理",
+      "quote": "杨旭东 男 50 副总经理 现任"
+    },
+    {
+      "name": "张建昌",
+      "role": "职工董事",
+      "quote": "张建昌 男 54 职工董事 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "河北汉光重工有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 河北汉光重工有限责任公司"
+    },
+    {
+      "name": "中船重工集团",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "中船重工集团 指 中国船舶重工集团有限公司，公司间接控股股东"
+    },
+    {
+      "name": "中国船舶集团",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "中国船舶集团 指 中国船舶集团有限公司，公司间接控股股东"
+    },
+    {
+      "name": "国资委",
+      "relation_type": "investor",
+      "business_details": "最终实际控制人",
+      "quote": "国资委 指 国务院国有资产监督管理委员会，公司最终实际控制人"
+    },
+    {
+      "name": "邯郸汉光办公自动化耗材有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "汉光耗材 指 邯郸汉光办公自动化耗材有限公司，公司子公司"
+    },
+    {
+      "name": "中船汉光（福州）信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "汉光福州 指 中船汉光（福州）信息技术有限公司，公司控股子公司。"
+    },
+    {
+      "name": "中国科学院化学研究所",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "股东名称 ... 中国科学院化学研究所"
+    },
+    {
+      "name": "中船财务有限责任公司",
+      "relation_type": "investor",
+      "business_details": "同一最终控制方，存在存款、贷款、授信等关联交易",
+      "quote": "关联方 关联关系 ... 中船财务有限责任公司 同一最终控制方"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "静电成像设备及耗材产业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,132,429,224.80",
+      "revenue_proportion": "95.04%",
+      "gross_margin": "18.78%",
+      "yoy_change": "0.02%",
+      "quote": "营业收入 ... 分行业 ... 静电成像设备及耗材产业 1,132,429,224.80 95.04%"
+    },
+    {
+      "name": "精密加工",
+      "segment_type": "product_line",
+      "revenue_amount": "45,744,752.34",
+      "revenue_proportion": "3.84%",
+      "gross_margin": null,
+      "yoy_change": "29.40%",
+      "quote": "营业收入 ... 分行业 ... 精密加工 45,744,752.34 3.84%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "other",
+      "revenue_amount": "13,410,816.88",
+      "revenue_proportion": "1.13%",
+      "gross_margin": null,
+      "yoy_change": "-5.07%",
+      "quote": "营业收入 ... 分行业 ... 其他 13,410,816.88 1.13%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,018,774,168.14",
+      "revenue_proportion": "85.50%",
+      "gross_margin": "17.84%",
+      "yoy_change": "0.58%",
+      "quote": "营业收入 ... 分地区 ... 国内 1,018,774,168.14 85.50%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "172,810,625.88",
+      "revenue_proportion": "14.50%",
+      "gross_margin": "24.01%",
+      "yoy_change": "2.39%",
+      "quote": "营业收入 ... 分地区 ... 国外 172,810,625.88 14.50%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,106,895,965.72",
+      "revenue_proportion": "92.89%",
+      "gross_margin": "19.45%",
+      "yoy_change": "2.67%",
+      "quote": "营业收入 ... 分销售模式 ... 直销 1,106,895,965.72 92.89%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "84,688,828.30",
+      "revenue_proportion": "7.11%",
+      "gross_margin": "10.46%",
+      "yoy_change": "-18.23%",
+      "quote": "营业收入 ... 分销售模式 ... 经销 84,688,828.30 7.11%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "静电成像设备及耗材产业",
+      "metric_type": "sales_volume",
+      "value": "41,147.63 吨/万支/台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 吨/万支/台 41,147.63 42,079.18 -2.21%"
+    },
+    {
+      "product": "静电成像设备及耗材产业",
+      "metric_type": "production_volume",
+      "value": "41,290.73 吨/万支/台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 生产量 吨/万支/台 41,290.73 39,679.17 4.06%"
+    },
+    {
+      "product": "静电成像设备及耗材产业",
+      "metric_type": "inventory_volume",
+      "value": "6,611.34 吨/万支/台",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 库存量 吨/万支/台 6,611.34 5,565.35 18.79%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "彩色墨粉项目",
+      "project_type": "capacity_expansion",
+      "location": "河北省邯郸市",
+      "investment_amount": "11,500.00万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "已完成2条生产线建设；拟增加建设生产厂房1座、库房1座，新增3套墨粉球形化设备",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "1.彩色墨粉项目：近年来，为确保产能利用率保持在合理水平，避免造成产能闲置，公司根据墨粉市场需求，审慎分步开展项目建设...将“彩色墨粉项目”达到预定可使用状态时间从2023年6月30日延期至2024年12月31日...将“彩色墨粉项目”、“激光有机光导鼓项目”、“工程技术研究中心项目”达到预定可使用状态的时间从2024年12月31日延期至2025年12月31日...对“彩色墨粉项目”进行投资总额及实施内容、实施主体增加、实施方式调整和项目延期...计划剩余2条生产线的建设...由于没有现有厂房和库房可利用，公司需调整该项目建设内容，增加建设生产厂房1座、库房1座；另外为了提高产品质量，需新增3套墨粉球形化设备。...将存放于全资子公司汉光耗材募集资金专户的未确定使用用途的2,352万元募集资金、“黑色墨粉项目”节余募集资金580.37万元用于调整后的“彩色墨粉项目”"
+    },
+    {
+      "name": "黑色墨粉项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,981.00万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已完工",
+      "expected_completion_time": "2019年4月30日",
+      "quote": "2.黑色墨粉项目...项目达到预定可使用状态日期 ... 2019年4月30日 ... 项目可行性发生重大变化的情况说明 ... 黑色墨粉项目承诺投资总额为1,981万元，截至2025年11月30日，该项目资金投入已全部完成"
+    },
+    {
+      "name": "激光有机光导鼓（耗材产业园区）项目",
+      "project_type": "capacity_expansion",
+      "location": "汉光耗材产业园",
+      "investment_amount": "9,986.04万元（拟投资总额）",
+      "designed_capacity": null,
+      "progress": "尚未开始建设",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "终止“激光有机光导鼓项目”和“工程技术研究中心项目”，实施新项目“激光有机光导鼓（耗材产业园区）项目”...新项目在汉光耗材产业园建设适应最新市场需求的激光有机光导鼓现代化智能化生产线。"
+    },
+    {
+      "name": "工程技术研究中心项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "5,800.00万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": "2025年12月31日（原计划）",
+      "quote": "4.工程技术研究中心项目...项目达到预定可使用状态日期 ... 2025年12月31日...终止“工程技术研究中心项目”，将尚未使用的募集资金5,648.86万元用途变更为“激光有机光导鼓项目（耗材产业园区）项目”。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "OPC鼓的鼓基加工技术",
+      "asset_type": "core_technology",
+      "related_product": "OPC鼓",
+      "quantitative_info": null,
+      "quote": "公司已经全面掌握了OPC鼓的鼓基加工、涂层配方、电子产生材料（CGM）合成、电子传输材料（CTM）合成、自动化涂布生产线系统集成等技术。"
+    },
+    {
+      "name": "OPC鼓涂层配方技术",
+      "asset_type": "core_technology",
+      "related_product": "OPC鼓",
+      "quantitative_info": null,
+      "quote": "公司已经全面掌握了OPC鼓的鼓基加工、涂层配方、电子产生材料（CGM）合成、电子传输材料（CTM）合成、自动化涂布生产线系统集成等技术。"
+    },
+    {
+      "name": "电子产生材料（CGM）合成技术",
+      "asset_type": "core_technology",
+      "related_product": "OPC鼓",
+      "quantitative_info": null,
+      "quote": "公司已经全面掌握了OPC鼓的鼓基加工、涂层配方、电子产生材料（CGM）合成、电子传输材料（CTM）合成、自动化涂布生产线系统集成等技术。"
+    },
+    {
+      "name": "电子传输材料（CTM）合成技术",
+      "asset_type": "core_technology",
+      "related_product": "OPC鼓",
+      "quantitative_info": null,
+      "quote": "公司已经全面掌握了OPC鼓的鼓基加工、涂层配方、电子产生材料（CGM）合成、电子传输材料（CTM）合成、自动化涂布生产线系统集成等技术。"
+    },
+    {
+      "name": "自动化涂布生产线系统集成技术",
+      "asset_type": "core_technology",
+      "related_product": "OPC鼓",
+      "quantitative_info": null,
+      "quote": "公司已经全面掌握了OPC鼓的鼓基加工、涂层配方、电子产生材料（CGM）合成、电子传输材料（CTM）合成、自动化涂布生产线系统集成等技术。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司已获得授权的专利39项（其中发明专利20项，实用新型专利19项）、软件著作16项、商标31项",
+      "quote": "截至报告期末，公司已获得授权的专利39项（其中发明专利20项，实用新型专利19项）、软件著作16项、商标31项"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司为高新技术企业、河北省制造业单项冠军企业、河北省专精特新中小企业、河北省创新型中小企业、邯郸市科技领军企业。"
+    },
+    {
+      "name": "省级有机光电材料实验室",
+      "asset_type": "technical_platform",
+      "related_product": "OPC鼓",
+      "quantitative_info": null,
+      "quote": "经河北省发展改革委员会批准，公司于2015年设立了省级有机光电材料实验室，进行有机光电基础材料及应用材料研究"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.80%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 34.80%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "15.14%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 180,424,301.09 15.14%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "33.61%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 33.61%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "7.43%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 52,957,238.88 7.43%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司主要产品墨粉、OPC鼓...其研发和生产需要资源投入较大，进入门槛较高。但公司下游硒鼓制造业组装匹配门槛较低，由于产业链的打通、成本的降低，下游市场激烈的竞争可能会对墨粉、OPC鼓价格造成一定的不利影响。此外，市场上一些资质不齐的企业为降低成本，生产伪劣产品以低价冲击市场，影响耗材市场的发展。",
+      "related_entity": null,
+      "related_product": "墨粉、OPC鼓",
+      "quote": "1.市场竞争进一步加剧的风险 公司主要产品墨粉、OPC鼓作为打印机、复印机、多功能一体机的通用耗材配件，其研发和生产需要资源投入较大，进入门槛较高。但公司下游硒鼓制造业组装匹配门槛较低，由于产业链的打通、成本的降低，下游市场激烈的竞争可能会对墨粉、OPC鼓价格造成一定的不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "信息安全复印机由于客户采购模式变化等因素导致市场竞争逐渐加剧，诸多品牌为入围相继降价，如果公司不能采取有效措施扩大市场份额、提升产品质量，将对公司盈利能力造成不利影响。",
+      "related_entity": null,
+      "related_product": "信息安全复印机",
+      "quote": "信息安全复印机由于客户采购模式变化等因素导致市场竞争逐渐加剧，诸多品牌为入围相继降价，如果公司不能采取有效措施扩大市场份额、提升产品质量，将对公司盈利能力造成不利影响。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司所处行业具有较高的技术和知识产权壁垒...行业内企业特别是国际知名企业为独占或垄断部分市场，不断加强对自身知识产权的保护...未来不排除可能会面临被其他厂商提起知识产权诉讼的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.知识产权风险 公司所处行业具有较高的技术和知识产权壁垒，公司产品墨粉、OPC鼓生产制造的技术门槛较高，行业内企业特别是国际知名企业为独占或垄断部分市场，不断加强对自身知识产权的保护，以限制其他厂商效仿或生产替代产品...未来不排除可能会面临被其他厂商提起知识产权诉讼的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受供求变动、地缘政治冲突等方面因素影响，可能会引发某些原材料供应链中断、价格上升等，若未来原材料发生大幅波动，则将可能对公司盈利能力造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.原材料价格波动风险...受供求变动、地缘政治冲突等方面因素影响，可能会引发某些原材料供应链中断、价格上升等，若未来原材料发生大幅波动，则将可能对公司盈利能力造成不利影响。"
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "company_name_mentioned": "北京首都在线科技股份有限公司",
+  "produces": [
+    {
+      "name": "智算容器云产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "智算容器云产品基于云原生技术栈重构，依托Kubernetes框架打造全托管容器集群...构建微秒级调度的高密度算力平台。产品聚焦AI训练、科学计算等高并发场景..."
+    },
+    {
+      "name": "向量数据库产品",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "向量数据库产品采用优化后的高维数据计算引擎架构...可支持PB级向量数据的亚毫秒级近邻检索。核心引擎融合高效索引与压缩算法..."
+    },
+    {
+      "name": "MaaS平台",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "MaaS平台通过独特的算力纳管与交易机制，汇聚多方算力资源，实现高效管理与调度...平台核心服务集成了国内外主流大模型API..."
+    },
+    {
+      "name": "AI Infra平台",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "AI Infra平台主要为算法工程师提供一站式模型研发和微调开发环境。它整合了高性能计算资源、分布式训练框架、自动化调优工具和开放的模型库..."
+    },
+    {
+      "name": "工作流平台",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "工作流平台构建了一套面向内容生产场景的工作流平台，用于承载复杂生成任务的稳定运行与规模化交付...平台以调度能力为核心..."
+    },
+    {
+      "name": "云主机产品",
+      "type": "service",
+      "revenue_proportion": "55.07%",
+      "quote": "公司云主机产品以CPU计算资源为核心，基于自主研发的GIC全球云管平台，实现计算资源的统一管理、弹性调度与快速交付...云主机及相关服务收入680,985,626.42元，占比55.07%..."
+    },
+    {
+      "name": "对象存储产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司对象存储产品采用分布式架构设计，面向图片、视频、日志及业务文件等非结构化数据场景，提供高可靠、可扩展的存储服务..."
+    },
+    {
+      "name": "计算容器云产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司计算容器云产品基于Kubernetes架构构建，与云主机和裸金属资源池实现统一纳管和调度，为客户提供稳定、灵活的容器运行环境..."
+    },
+    {
+      "name": "IDC转售服务",
+      "type": "service",
+      "revenue_proportion": "40.28%",
+      "quote": "公司IDC业务以IDC转售与AIDC双业务为核心...IDC服务实现收入49,807.48万元，同比下降35.51%..."
+    },
+    {
+      "name": "AIDC产品及服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司AIDC业务多采用自建数据中心模式，支持设备托管，配备了冗余和高度可靠的电力供应系统、先进的制冷技术以及完善的消防和监控系统..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "通信资源",
+      "target_product": "云服务、IDC服务",
+      "cost_proportion": "51.40%",
+      "quote": "公司核心采购品类聚焦通信资源与软硬件设备两大板块。其中通信资源涵盖带宽、IP、机柜等核心品类...通信资源费552,621,414.66元，占营业成本比重51.40%..."
+    },
+    {
+      "name": "软硬件设备",
+      "target_product": "云服务、IDC服务",
+      "cost_proportion": null,
+      "quote": "软硬件设备则以网络设备、服务器、存储设备为主，均优选华为、日立、戴尔、思科等行业一线品牌..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "大模型及AIGC应用",
+      "source_product": "智算云业务产品、计算业务产品、IDC服务",
+      "quote": "公司致力于为大模型及AIGC应用、政务、金融、教育、传媒、互联网等行业客户构建稳定、高效的云网一体化服务...2025年，智算云业务收入占总收入比例由5.2%上升至23.8%，智算云业务有望成为公司业务发展的核心引擎。"
+    },
+    {
+      "name": "泛互联网行业（游戏、音视频、电子商务等）",
+      "source_product": "计算业务产品、IDC服务",
+      "quote": "公司为千行百业提供包括通用计算和智算在内的云服务...覆盖游戏、音视频、电子商务等行业...2025年，游戏行业收入占比14.28%，视频行业收入占比7.82%。"
+    },
+    {
+      "name": "政务",
+      "source_product": "智算云业务产品、计算业务产品、IDC服务",
+      "quote": "公司致力于为大模型及AIGC应用、政务、金融、教育、传媒、互联网等行业客户构建稳定、高效的云网一体化服务..."
+    },
+    {
+      "name": "金融",
+      "source_product": "智算云业务产品、计算业务产品、IDC服务",
+      "quote": "公司致力于为大模型及AIGC应用、政务、金融、教育、传媒、互联网等行业客户构建稳定、高效的云网一体化服务..."
+    },
+    {
+      "name": "教育",
+      "source_product": "计算业务产品、IDC服务",
+      "quote": "公司致力于为大模型及AIGC应用、政务、金融、教育、传媒、互联网等行业客户构建稳定、高效的云网一体化服务...2025年，在线教育行业收入占比2.76%。"
+    },
+    {
+      "name": "传媒",
+      "source_product": "计算业务产品、IDC服务",
+      "quote": "公司致力于为大模型及AIGC应用、政务、金融、教育、传媒、互联网等行业客户构建稳定、高效的云网一体化服务..."
+    },
+    {
+      "name": "跨境电商",
+      "source_product": "计算云业务（云主机等）",
+      "quote": "2025年，公司围绕南美重点市场巴西，持续推进计算云资源投入与能力建设...公司进一步将计算云能力向跨境电商等业务场景延伸..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "曲宁",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人曲宁...曲宁先生，1968年出生...2005年至今历任公司董事长、总经理。目前任公司董事长、总经理。"
+    },
+    {
+      "name": "姚巍",
+      "role": "董事、执行总裁",
+      "quote": "姚巍先生，1978年出生...目前任公司董事、执行总裁。"
+    },
+    {
+      "name": "杨丽萍",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "杨丽萍女士，1975年出生...目前任公司董事、副总经理、董事会秘书。"
+    },
+    {
+      "name": "张丽莎",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人张丽莎...张丽莎女士，1980年出生...目前任公司财务总监。"
+    },
+    {
+      "name": "赵永志",
+      "role": "董事",
+      "quote": "赵永志先生，1970年出生...目前任公司董事。"
+    },
+    {
+      "name": "赵西卜",
+      "role": "独立董事",
+      "quote": "赵西卜先生，1963年出生...现任...北京首都在线科技股份有限公司独立董事、审计委员会召集人、薪酬与考核委员会委员。"
+    },
+    {
+      "name": "石静霞",
+      "role": "独立董事",
+      "quote": "石静霞女士，1970年出生...现任...北京首都在线科技股份有限公司独立董事、提名委员会召集人、审计委员会委员。"
+    },
+    {
+      "name": "刘云淮",
+      "role": "独立董事",
+      "quote": "刘云淮，1977年出生...现任北京首都在线科技股份有限公司独立董事、薪酬与考核委员会召集人、提名委员会委员、战略委员会委员。"
+    },
+    {
+      "name": "姜萍",
+      "role": "副总经理",
+      "quote": "姜萍女士，1976年出生...目前任公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国电信集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "通信资源采购",
+      "quote": "采购端优先选择电信运营商资源，依托长期稳定的合作关系与规模化采购体量，形成明显的成本议价优势...通信资源涵盖带宽、IP、机柜等核心品类。"
+    },
+    {
+      "name": "中国联合网络通信集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "通信资源采购",
+      "quote": "采购端优先选择电信运营商资源，依托长期稳定的合作关系与规模化采购体量，形成明显的成本议价优势...通信资源涵盖带宽、IP、机柜等核心品类。"
+    },
+    {
+      "name": "中国移动通信集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "通信资源采购",
+      "quote": "采购端优先选择电信运营商资源，依托长期稳定的合作关系与规模化采购体量，形成明显的成本议价优势...通信资源涵盖带宽、IP、机柜等核心品类。"
+    },
+    {
+      "name": "华为",
+      "relation_type": "supplier",
+      "business_details": "网络设备、服务器等硬件采购",
+      "quote": "软硬件设备则以网络设备、服务器、存储设备为主，均优选华为、日立、戴尔、思科等行业一线品牌..."
+    },
+    {
+      "name": "日立",
+      "relation_type": "supplier",
+      "business_details": "服务器、存储设备等硬件采购",
+      "quote": "软硬件设备则以网络设备、服务器、存储设备为主，均优选华为、日立、戴尔、思科等行业一线品牌..."
+    },
+    {
+      "name": "戴尔",
+      "relation_type": "supplier",
+      "business_details": "服务器等硬件采购",
+      "quote": "软硬件设备则以网络设备、服务器、存储设备为主，均优选华为、日立、戴尔、思科等行业一线品牌..."
+    },
+    {
+      "name": "思科",
+      "relation_type": "supplier",
+      "business_details": "网络设备采购",
+      "quote": "软硬件设备则以网络设备、服务器、存储设备为主，均优选华为、日立、戴尔、思科等行业一线品牌..."
+    },
+    {
+      "name": "庆阳市人民政府",
+      "relation_type": "investor",
+      "business_details": "人工智能产业发展全面战略合作",
+      "quote": "公司与庆阳市人民政府达成人工智能产业发展全面战略合作..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智算云业务",
+      "segment_type": "product_line",
+      "revenue_amount": "29,456.06万元",
+      "revenue_proportion": "23.8%",
+      "gross_margin": null,
+      "yoy_change": "61.08%",
+      "quote": "报告期内，公司智算云业务实现收入29,456.06万元，同比增长61.08%...智算云业务收入占总收入比例由5.2%上升至23.8%。"
+    },
+    {
+      "name": "计算云业务（云主机及相关服务）",
+      "segment_type": "product_line",
+      "revenue_amount": "38,642.50万元",
+      "revenue_proportion": "55.07%",
+      "gross_margin": "7.06%",
+      "yoy_change": "18.57%",
+      "quote": "计算云业务实现收入38,642.50万元，与去年同期基本持平...云主机及相关服务收入68,985,626.42元，占营业收入比重55.07%，毛利率7.06%，同比增长18.57%。"
+    },
+    {
+      "name": "IDC业务",
+      "segment_type": "product_line",
+      "revenue_amount": "49,807.48万元",
+      "revenue_proportion": "40.28%",
+      "gross_margin": "18.65%",
+      "yoy_change": "-35.51%",
+      "quote": "报告期内，IDC业务实现收入49,807.48万元，同比下降35.51%...IDC服务收入49,807,816.68元，占营业收入比重40.28%，毛利率18.65%。"
+    },
+    {
+      "name": "大模型及AICG行业客户",
+      "segment_type": "customer_type",
+      "revenue_amount": "26,090.31万元",
+      "revenue_proportion": "21.10%",
+      "gross_margin": "6.55%",
+      "yoy_change": "65.88%",
+      "quote": "大模型及AIGC行业收入260,903,069.04元，占营业收入比重21.10%，毛利率6.55%，同比增长65.88%。"
+    },
+    {
+      "name": "海外业务",
+      "segment_type": "region",
+      "revenue_amount": "34,814.80万元",
+      "revenue_proportion": "28.15%",
+      "gross_margin": "14.01%",
+      "yoy_change": "3.67%",
+      "quote": "海外收入348,147,970.27元，占营业收入比重28.15%，毛利率14.01%，同比增长3.67%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智算集群",
+      "metric_type": "capacity",
+      "value": "超2万片算力集群",
+      "period": "报告期末",
+      "quote": "目前，公司全球业务覆盖50多个国家和地区...在国内核心节点布局超2万片算力集群。"
+    },
+    {
+      "product": "庆阳节点智算集群",
+      "metric_type": "capacity",
+      "value": "万P级规模",
+      "period": "报告期末",
+      "quote": "其中庆阳节点作为核心战略节点，已突破单节点万P规模，成为公司智算业务的重要支撑。"
+    },
+    {
+      "product": "智算容器云产品",
+      "metric_type": "yield_rate",
+      "value": "85%以上",
+      "period": null,
+      "quote": "千节点大模型训练实测中，GPU利用率提升至85%以上..."
+    },
+    {
+      "product": "计算容器云产品",
+      "metric_type": "capacity_utilization",
+      "value": "80%以上",
+      "period": null,
+      "quote": "通过容器与底层计算资源的协同调度，资源利用率提升至80%以上..."
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "怀来数据中心项目",
+      "project_type": "construction_project",
+      "location": "怀来（张家口数据中心集群）",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正式启动",
+      "expected_completion_time": null,
+      "quote": "公司位于“东数西算”八大核心枢纽之一张家口数据中心集群的怀来数据中心正式启动，为公司重点自建数据中心项目。"
+    },
+    {
+      "name": "海南文昌AIDC项目",
+      "project_type": "capacity_expansion",
+      "location": "海南文昌（国家枢纽节点关联区域）",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "规划建设",
+      "expected_completion_time": null,
+      "quote": "在“东数西算”政策及人工智能产业需求驱动下，公司同步布局海外美国达拉斯，国内海南文昌（国家枢纽节点关联区域）、安徽芜湖（算力中心城市）等核心节点，规划建设自营AIDC。"
+    },
+    {
+      "name": "安徽芜湖AIDC项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽芜湖（算力中心城市）",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "规划建设",
+      "expected_completion_time": null,
+      "quote": "在“东数西算”政策及人工智能产业需求驱动下，公司同步布局海外美国达拉斯，国内海南文昌（国家枢纽节点关联区域）、安徽芜湖（算力中心城市）等核心节点，规划建设自营AIDC。"
+    },
+    {
+      "name": "美国达拉斯节点算力升级项目",
+      "project_type": "capacity_expansion",
+      "location": "美国达拉斯",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成升级",
+      "expected_completion_time": null,
+      "quote": "北美市场凭借成熟的商业体系与强劲的付费意愿...公司完成达拉斯节点GPU算力升级，搭载最新GPU集群与高速网络架构，实现毫秒级互联..."
+    },
+    {
+      "name": "深圳首云科技有限公司（新设子公司）",
+      "project_type": "acquisition_project",
+      "location": "深圳",
+      "investment_amount": "10,000,000.00元",
+      "designed_capacity": null,
+      "progress": "已设立",
+      "expected_completion_time": null,
+      "quote": "深圳首云科技有限公司，成立于2025年11月10日，报告期内运营规模较小。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "算力池化方法、装置、电子设备",
+      "asset_type": "core_technology",
+      "related_product": "GPU裸金属/云主机/容器",
+      "quantitative_info": null,
+      "quote": "通过GPU算力抽象层类化技术，实现异构算力的统一纳管...GPU裸金属/云主机/容器"
+    },
+    {
+      "name": "模型适配与Token生成方法、装置、电子设备",
+      "asset_type": "core_technology",
+      "related_product": "MaaS",
+      "quantitative_info": null,
+      "quote": "通过底层模型适配引擎与标准化服务层，实现对各类异构AI模型的集中纳管、灵活调度与统一输出...MaaS"
+    },
+    {
+      "name": "大规模数据中心网络方法、装置",
+      "asset_type": "core_technology",
+      "related_product": "云网络",
+      "quantitative_info": null,
+      "quote": "在一个POD集群部署架构，构建高可靠、可扩展的网络底座...云网络"
+    },
+    {
+      "name": "基于双Squid集群与专线直连的跨境高可用加速系统及双机热备方法",
+      "asset_type": "core_technology",
+      "related_product": "云网络",
+      "quantitative_info": null,
+      "quote": "设计融合双Squid集群与BGP专线直连的高可用加速系统及双机热备方法...云网络"
+    },
+    {
+      "name": "MaaS平台、系统",
+      "asset_type": "core_technology",
+      "related_product": "MaaS",
+      "quantitative_info": null,
+      "quote": "面向大模型产业化落地打造的模型即服务（Model as a Service）分布式推理架构...MaaS"
+    },
+    {
+      "name": "AI算力服务平台、系统",
+      "asset_type": "core_technology",
+      "related_product": "GpuGeek",
+      "quantitative_info": null,
+      "quote": "面向AI开发者、中小企业及科研机构的全栈AI算力基础设施平台...GpuGeek"
+    },
+    {
+      "name": "模型实例自动构建方法、装置、设备以及存储介质",
+      "asset_type": "core_technology",
+      "related_product": "MaaS",
+      "quantitative_info": null,
+      "quote": "通过声明式配置与自动化能力解决传统容器化流程中的Dockerfile编写、CUDA环境适配...MaaS"
+    },
+    {
+      "name": "基于硬件拓扑感知的CPU调度优化方法及系统",
+      "asset_type": "core_technology",
+      "related_product": "云主机",
+      "quantitative_info": null,
+      "quote": "针对AMD等现代多核CPU架构（如NUMA、CCD/CCX）的深度调度优化方法...云主机"
+    },
+    {
+      "name": "基于碎片感知的集群资源调度优化方法及系统",
+      "asset_type": "core_technology",
+      "related_product": "云主机",
+      "quantitative_info": null,
+      "quote": "通过实时分析与量化集群中计算、内存及存储资源的碎片化程度，动态调整调度策略...云主机"
+    },
+    {
+      "name": "资源调度方法、装置、设备以及存储介质",
+      "asset_type": "core_technology",
+      "related_product": "容器",
+      "quantitative_info": null,
+      "quote": "集成Virtual Kubelet框架实现Kubernetes集群与弹性容器实例的无缝对接，支持按需秒级创建容器实例。"
+    },
+    {
+      "name": "容器实例配置方法、装置、设备以及存储介质",
+      "asset_type": "core_technology",
+      "related_product": "容器",
+      "quantitative_info": null,
+      "quote": "核心依托Kata-Containers安全隔离特性与弹性调度能力，构建“安全可控、极速启停、弹性伸缩、性能接近原生”的容器运行环境..."
+    },
+    {
+      "name": "基于安全容器的运算资源动态分配方法、装置及电子设备",
+      "asset_type": "core_technology",
+      "related_product": "容器",
+      "quantitative_info": null,
+      "quote": "通过改造开源Containerd源码...实现GPU设备的安全隔离与热插拔...GPU资源调配延迟从分钟级降至秒级乃至毫秒级..."
+    },
+    {
+      "name": "服务器纳管方法、装置",
+      "asset_type": "core_technology",
+      "related_product": "GPU裸金属",
+      "quantitative_info": null,
+      "quote": "通过标准模式构建第三方算力的业务纳管能力，补齐算力池规模并解决无业务增值...GPU裸金属"
+    },
+    {
+      "name": "测试方法、装置、电子设备及存储介质",
+      "asset_type": "core_technology",
+      "related_product": "GPU裸金属",
+      "quantitative_info": null,
+      "quote": "通过对AI服务器的CPU型号与数量、内存的大小与数量...进行标准的推理过程验证、输出标准的性能指标，实现服务器上架过程的自动化测试评估和验收。"
+    },
+    {
+      "name": "训练集群管理方法、装置、电子设备及存储介质",
+      "asset_type": "core_technology",
+      "related_product": "GPU裸金属",
+      "quantitative_info": null,
+      "quote": "通过集成开源SLURM框架，采用双master的管理节点实现master服务分钟内故障切换...GPU裸金属"
+    },
+    {
+      "name": "基于实时供需博弈的竞价实例动态定价与秒级计费方法",
+      "asset_type": "core_technology",
+      "related_product": "云管系统",
+      "quantitative_info": null,
+      "quote": "构建基于资源池实时负载率与下单购买的动态价格发现模型，通过秒级供需博弈定价机制与精准计费清算体系，实现闲置算力的市场化弹性变现与消费端成本透明化..."
+    },
+    {
+      "name": "存储调度方法、装置、电子设备及存储介质",
+      "asset_type": "core_technology",
+      "related_product": "文件存储",
+      "quantitative_info": null,
+      "quote": "采用分布式并行I/O架构，多节点并发读写打破“IO墙”...单节点带宽达160GB/s，集群实现TB级每秒吞吐..."
+    },
+    {
+      "name": "存储调度方法、装置、电子设备及存储介质",
+      "asset_type": "core_technology",
+      "related_product": "对象存储",
+      "quantitative_info": null,
+      "quote": "围绕存储链路与元数据管理架构优化，依托全闪存储池与纠删码技术的协同设计，实现海量小文件智能合并...将存储空间利用率从33%大幅提升..."
+    },
+    {
+      "name": "CloudOS云平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司自研云平台CloudOS...构建了演练方法，提前发现风险，显著减少故障。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "20.94%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元）258,980,819.76，前五名客户合计销售金额占年度销售总额比例20.94%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "34.71%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元）419,943,595.15，前五名供应商合计采购金额占年度采购总额比例34.71%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着人工智能行业的蓬勃发展，云计算及IDC服务的市场规模逐步扩大、规范程度不断提高，具有丰富资本和技术实力的企业数量显著提升，市场竞争将更加激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司将通过加大研发投入，以技术创新提升产品差异化，增强竞争力。同时优化成本管理，降低运营成本来维持利润率。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司从事云计算及IDC业务均基于网络带宽、机柜、IP地址等基础通信资源，我国的基础通信资源，尤其是带宽资源主要由基础通信运营商提供，基础通信运营商的市场政策对我国IDC及云计算行业影响较大。",
+      "related_entity": "基础通信运营商",
+      "related_product": "通信资源",
+      "quote": "如果基础电信运营商市场政策出现变化导致通信资源价格上涨或资源供给限制，将对公司经营带来不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "云计算行业仍处于快速发展阶段，技术更新及产品迭代较快，且应用场景也在不断丰富...若公司不能及时把握云计算行业的技术发展趋势，不断更新产品与技术，将导致公司云计算产品性能指标无法满足市场需求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司拥有专业技术团队紧盯行业趋势，加大研发投入，加速产品技术更新。"
+    },
+    {
+      "risk_type": "other",
+      "description": "市场及客户需求波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司业务包含云计算及IDC服务，主要客户包括大模型及AIGC应用、政务、金融、教育、传媒、互联网等行业客户。客户需求受宏观经济影响存在波动，也受国家发布的各项政策影响..."
+    },
+    {
+      "risk_type": "other",
+      "description": "不可抗力风险。",
+      "related_entity": null,
+      "related_product": "智算云板块业务",
+      "quote": "公司智算云板块业务，包含部署算力基础设施与引入先进GPU服务器等关键环节。在实际运营中，受不可抗力因素影响，该板块相关产品和业务面临诸多风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "境外业务风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司分别在全球多个国家或地区通过境外数据中心部署了境外云计算网络节点...如果未来境外数据中心所在国的相关法律政策发生重大变化，将对本公司境外业务和经营状况构成不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才资源风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司的核心管理团队和核心技术团队具备多年的云计算及IDC行业从业经验，是公司的核心竞争力之一。如果公司无法对核心团队进行有效激励以保证核心人员的积极性和创造性，将存在核心人员流失的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "经营管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着公司的资产规模进一步增加，公司经营决策、运作实施和风险控制的难度将有所增加，对公司经营层的管理水平也提出了更高的要求。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "资产减值风险。",
+      "related_entity": null,
+      "related_product": "服务器等硬件设备",
+      "quote": "公司云计算资源池需采购服务器等硬件设备并根据客户需求提供满足指标要求的云计算产品，由于当前服务器等硬件设备处于快速迭代阶段，新技术的发明会导致服务器等设备性能出现显著提升，从而导致公司原有服务器所能提供的云计算服务无法完全满足客户需求。"
+    },
+    {
+      "risk_type": "other",
+      "description": "业绩下滑风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司持续投入资金进行资源池建设以保持公司业务竞争力...由于市场竞争存在加剧可能，公司可能需适当降低产品售价以应对市场竞争，进一步导致毛利率存在下降风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司业务广泛，在中国境内及境外多个地区均有布局，结算货币涉及人民币、美元等。在全球经济形势复杂多变的大环境下，汇率频繁波动产生汇兑损益。"
+    }
+  ]
+}

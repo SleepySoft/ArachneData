@@ -1,0 +1,386 @@
+{
+  "company_name_mentioned": "北京科拓恒通生物技术股份有限公司",
+  "produces": [
+    {
+      "name": "食用益生菌制品",
+      "type": "material",
+      "revenue_proportion": "72.30%",
+      "quote": "分产品 食用益生菌制品 264,583,822.47 72.30% ... 14.23%"
+    },
+    {
+      "name": "动植物微生态制剂",
+      "type": "material",
+      "revenue_proportion": "16.59%",
+      "quote": "分产品 ... 动植物微生态制 剂 60,701,081.75 16.59% ... 121.03%"
+    },
+    {
+      "name": "复配食品添加剂",
+      "type": "material",
+      "revenue_proportion": "9.93%",
+      "quote": "分产品 ... 复配食品添加剂 36,322,323.84 9.93% ... -7.48%"
+    },
+    {
+      "name": "益生菌技术服务",
+      "type": "service",
+      "revenue_proportion": "0.91%",
+      "quote": "分产品 ... 益生菌技术服务 3,329,988.79 0.91% ... -0.64%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "食用益生菌制品、动植物微生态制剂、复配食品添加剂",
+      "cost_proportion": null,
+      "quote": "采购模式 采购内容 主要采购内容的金额 外部采购 原材料 88,157,468.95 ... 公司食用益生菌制品的主要原材料为益生菌原料菌粉以及奶粉、糊精、低聚糖等配料 ... 复配食品添加剂的主要原料为变性淀粉、果胶和琼脂等。"
+    },
+    {
+      "name": "包装材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "外部采购 包装材料 18,378,700.20"
+    }
+  ],
+  "applications": [
+    {
+      "name": "食品工业",
+      "source_product": "食用益生菌制品、复配食品添加剂",
+      "quote": "公司产品广泛应用于食品工业、健康医疗、日化美容、畜牧养殖、农业种植等领域"
+    },
+    {
+      "name": "健康医疗",
+      "source_product": "食用益生菌制品",
+      "quote": "公司产品广泛应用于食品工业、健康医疗、日化美容、畜牧养殖、农业种植等领域"
+    },
+    {
+      "name": "畜牧养殖",
+      "source_product": "动植物微生态制剂",
+      "quote": "公司动物微生态制剂主要包括应用于畜牧养殖业的微生态饲料添加剂和青贮饲料微生态制剂。"
+    },
+    {
+      "name": "农业种植",
+      "source_product": "动植物微生态制剂",
+      "quote": "植物微生态制剂主要应用于农作物种植，能够改良土壤，预防土壤板结，提高肥料转化率，促进农作物生长。"
+    },
+    {
+      "name": "日化美容",
+      "source_product": "食用益生菌制品（后生元）",
+      "quote": "公司后生元系列应用示例如下： ... 可用于口腔护肤的后生元 Pbio-99® 牙膏、漱口水、面膜等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "孙天松",
+      "role": "董事长、首席科学家",
+      "quote": "孙天松女士 ... 现任公司董事长、首席科学家（复配食品添加剂方向）。"
+    },
+    {
+      "name": "刘晓军",
+      "role": "董事、总经理",
+      "quote": "刘晓军先生 ... 现任公司法定代表人、董事、总经理。"
+    },
+    {
+      "name": "张和平",
+      "role": "首席科学家（技术顾问）",
+      "quote": "公司与张和平教授发生日常关联交易金额为150万元...公司首席科学家张和平教授"
+    },
+    {
+      "name": "乔向前",
+      "role": "董事、副总经理",
+      "quote": "乔向前先生 ... 现任公司董事、副总经理。"
+    },
+    {
+      "name": "马杰",
+      "role": "职工代表董事、生产运营总监",
+      "quote": "马杰先生 ... 现任公司生产运营总监、职工代表董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "蒙牛乳业",
+      "relation_type": "customer",
+      "business_details": "公司复配食品添加剂和益生菌原料菌粉客户",
+      "quote": "报告期内，蒙牛乳业、光明乳业、完达山乳业、新希望乳业、江中药业、上药信谊、圣牧高科等国内领先的乳制品企业、制药企业和畜牧养殖企业均为公司客户"
+    },
+    {
+      "name": "光明乳业",
+      "relation_type": "customer",
+      "business_details": "公司复配食品添加剂和益生菌原料菌粉客户",
+      "quote": "报告期内，蒙牛乳业、光明乳业、完达山乳业、新希望乳业、江中药业、上药信谊、圣牧高科等国内领先的乳制品企业、制药企业和畜牧养殖企业均为公司客户"
+    },
+    {
+      "name": "圣牧高科",
+      "relation_type": "customer",
+      "business_details": "公司动植物微生态制剂客户",
+      "quote": "巴彦淖尔市圣牧高科生态草业有限公司 17,405,399.82 4.76%"
+    },
+    {
+      "name": "江中药业",
+      "relation_type": "customer",
+      "business_details": "益生菌新药联合技术开发",
+      "quote": "公司与江中药业签署了《技术开发（合作）合同》...开发治疗肠易激综合征、炎症性肠病的益生菌新药项目工作"
+    },
+    {
+      "name": "科汉森",
+      "relation_type": "competitor",
+      "business_details": "益生菌原料菌粉主要竞争对手",
+      "quote": "在国内益生菌原料市场中，杜邦和科汉森等跨国公司合计市场占 有率仍超过80%"
+    },
+    {
+      "name": "杜邦",
+      "relation_type": "competitor",
+      "business_details": "益生菌原料菌粉主要竞争对手",
+      "quote": "在国内益生菌原料市场中，杜邦和科汉森等跨国公司合计市场占 有率仍超过80%"
+    },
+    {
+      "name": "丹尼斯克",
+      "relation_type": "competitor",
+      "business_details": "复配食品添加剂领域主要竞争对手",
+      "quote": "在应用于乳制品的复配食品添加剂领域，公司主要面临着国际食品添加剂巨头丹尼斯克、嘉吉的竞争"
+    },
+    {
+      "name": "内蒙科拓",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，负责食品板块研发生产基地项目实施",
+      "quote": "内蒙科拓 指 内蒙古科拓生物有限公司，公司全资子公司"
+    },
+    {
+      "name": "科拓微生态",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，负责动植物微生态制剂生产",
+      "quote": "科拓微生态 指 内蒙古科拓微生态科技发展有限公司，公司全资子公司"
+    },
+    {
+      "name": "金华银河",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事食用益生菌制品业务",
+      "quote": "金华银河 指 金华银河生物科技有限公司，公司全资子公司...金华银河系公司全资子公司，主要从事食用益生菌制品业务"
+    },
+    {
+      "name": "深圳君拓",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "深圳君拓 指 深圳君拓生物科技有限公司，公司的参股公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "食用益生菌制品",
+      "segment_type": "product_line",
+      "revenue_amount": "264,583,822.47",
+      "revenue_proportion": "72.30%",
+      "gross_margin": "63.20%",
+      "yoy_change": "14.23%",
+      "quote": "分产品 食用益生菌制品 264,583,822.47 72.30% ... 14.23% ... 毛利率 63.20%"
+    },
+    {
+      "name": "动植物微生态制剂",
+      "segment_type": "product_line",
+      "revenue_amount": "60,701,081.75",
+      "revenue_proportion": "16.59%",
+      "gross_margin": "15.39%",
+      "yoy_change": "121.03%",
+      "quote": "分产品 ... 动植物微生态制 剂 60,701,081.75 16.59% ... 121.03% ... 毛利率 15.39%"
+    },
+    {
+      "name": "复配食品添加剂",
+      "segment_type": "product_line",
+      "revenue_amount": "36,322,323.84",
+      "revenue_proportion": "9.93%",
+      "gross_margin": "25.07%",
+      "yoy_change": "-7.48%",
+      "quote": "分产品 ... 复配食品添加剂 36,322,323.84 9.93% ... -7.48% ... 毛利率 25.07%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "113,129,205.05",
+      "revenue_proportion": "30.92%",
+      "gross_margin": null,
+      "yoy_change": "26.42%",
+      "quote": "分地区 华东地区 113,129,205.05 30.92% ... 26.42%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "137,538,875.11",
+      "revenue_proportion": "37.58%",
+      "gross_margin": null,
+      "yoy_change": "30.55%",
+      "quote": "分地区 华北地区 137,538,875.11 37.58% ... 30.55%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "361,619,695.40",
+      "revenue_proportion": "98.82%",
+      "gross_margin": "51.46%",
+      "yoy_change": "22.06%",
+      "quote": "分销售模式 直销 361,619,695.40 98.82% ... 22.06% ... 毛利率 51.46%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,303,018.34",
+      "revenue_proportion": "1.18%",
+      "gross_margin": "55.31%",
+      "yoy_change": "-34.01%",
+      "quote": "分销售模式 经销 4,303,018.34 1.18% ... -34.01% ... 毛利率 55.31%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "食用益生菌制品",
+      "metric_type": "production_volume",
+      "value": "566.05",
+      "period": "2025年",
+      "quote": "生产量 吨 566.05 434.22 30.36%"
+    },
+    {
+      "product": "食用益生菌制品",
+      "metric_type": "sales_volume",
+      "value": "514.02",
+      "period": "2025年",
+      "quote": "销售量 吨 514.02 438.87 17.12%"
+    },
+    {
+      "product": "动植物微生态制剂",
+      "metric_type": "production_volume",
+      "value": "19,158.51",
+      "period": "2025年",
+      "quote": "生产量 吨 19,158.51 1,664.55 1,050.97%"
+    },
+    {
+      "product": "动植物微生态制剂",
+      "metric_type": "sales_volume",
+      "value": "18,840.49",
+      "period": "2025年",
+      "quote": "销售量 吨 18,840.49 1,680.43 1,021.17%"
+    },
+    {
+      "product": "复配食品添加剂",
+      "metric_type": "production_volume",
+      "value": "834.38",
+      "period": "2025年",
+      "quote": "生产量 吨 834.38 811.68 2.80%"
+    },
+    {
+      "product": "复配食品添加剂",
+      "metric_type": "sales_volume",
+      "value": "854.11",
+      "period": "2025年",
+      "quote": "销售量 吨 854.11 846.24 0.93%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "食品板块研发生产基地项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古自治区和林格尔新区",
+      "investment_amount": "71,513.40万元 (调整后投资总额)",
+      "designed_capacity": null,
+      "progress": "67.08%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "食品板块研发生产 基地项目 ... 截至期末累计投入金额(2) 47,970.99 ... 项目达到 预定 可使用 状态日 期 2026年12月31日"
+    },
+    {
+      "name": "微生态制剂生产基地项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古自治区和林格尔新区",
+      "investment_amount": "14,947.78万元 (原承诺投资总额)",
+      "designed_capacity": null,
+      "progress": "106.47%",
+      "expected_completion_time": "2024年06月30日",
+      "quote": "微生态制剂生 产基地项目 ... 截至期末累计投入金额(2) 15,914.46 ... 项目达到 预定 可使用 状态日 期 2024年06月30日 ... 项目已完成建设，于2025年4月8日取得了不动产 权证书。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "益生菌菌种资源库",
+      "asset_type": "technical_platform",
+      "related_product": "食用益生菌制品",
+      "quantitative_info": "包含50,000余株乳酸菌（含益生菌）的菌种资源库",
+      "quote": "公司拥有包含 50,000 余株乳酸菌（含益生菌）的菌种资源库"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": "益生菌等相关",
+      "quantitative_info": "111项（含2项国外专利）",
+      "quote": "截至2025年12月31日拥有与益生菌等相关的发明专利111项（含2项国外专利）"
+    },
+    {
+      "name": "参与制定《保健食品原料 益生菌》国家标准",
+      "asset_type": "standard",
+      "related_product": "食用益生菌制品",
+      "quantitative_info": null,
+      "quote": "公司参与国家标准《保健食品原料 益生菌》的编制工作。"
+    },
+    {
+      "name": "主导制定《益生菌食品》团体标准",
+      "asset_type": "standard",
+      "related_product": "食用益生菌制品",
+      "quantitative_info": null,
+      "quote": "公司主导并参与制定的团体标准《益生菌食品》T/CNFIA 131-2021"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.50%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 151,856,587.58 前五名客户合计销售金额占年度销售总额比例 41.50%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "26.87%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 29,894,558.68 前五名供应商合计采购金额占年度采购总额比例 26.87%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "公司前五大客户销售额占年度销售总额比例为41.50%",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 41.50%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司在食用益生菌、动植物微生态制剂和复配食品添加剂三大领域均面临国内外企业的激烈竞争，相对于跨国公司，在品牌认知度上存在差距。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争的风险 ... 公司食用益生菌原料菌粉的研发、生产、销售主要面临杜邦、科汉森等跨国企业的竞争...益生菌终端消费品主要面临合生元、Life Space等品牌的竞争...动植物微生态制剂领域，公司主要面临抗生素、酶制剂、芽孢制剂生产企业的竞争...在应用于乳制品的复配食品添加剂领域，公司主要面临着国际食品添加剂巨头丹尼斯克、嘉吉的竞争"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "下游快消品行业消费者偏好易变、产品更新换代快，可能影响公司产品销售。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "下游市场波动的风险 ... 终端产品的更新换代会导致某款或某类产品，乃至细分行业整体市场销量出现较大起伏，这种起伏也会间接影响到公司产品的销售。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司核心技术、产品配方和核心数据存在泄密风险，可能导致丧失技术优势和市场机会。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心技术、产品配方和核心数据等泄密的风险 ... 核心技术泄密会使公司丧失部分技术优势，产品配方、检测数据泄密不仅会使公司失去市场机会，还可能导致公司客户遭受损失"
+    },
+    {
+      "risk_type": "other",
+      "description": "募投项目投产后固定资产大幅增加将导致折旧费用增加，可能影响净利润。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "固定资产折旧增加导致利润下降的风险 ... 募投项目投产后固定资产规模的大幅增加将导致公司每年折旧费用相应增加...可能导致公司净利润的下滑。"
+    },
+    {
+      "risk_type": "other",
+      "description": "募投项目在实施过程中可能受市场、政策等因素影响，导致项目盈利时间和实际盈利水平与预期出现差异。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "募投项目建设风险 ... 项目在实施过程中可能受到市场环境变化、产业政策变化以及产品市场销售情况等变化因素的影响，致使项目的开始盈利时间和实际盈利水平与公司预测出现差异"
+    }
+  ]
+}

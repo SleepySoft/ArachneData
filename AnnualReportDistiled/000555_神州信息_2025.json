@@ -1,0 +1,481 @@
+{
+  "company_name_mentioned": "神州数码信息服务集团股份有限公司",
+  "produces": [
+    {
+      "name": "软件开发及技术服务",
+      "type": "service",
+      "revenue_proportion": "2025年收入7,301,970,191.66元，占营业收入比例55.47%",
+      "quote": "其中软件开发和技术服务收入73.02亿元"
+    },
+    {
+      "name": "系统集成",
+      "type": "service",
+      "revenue_proportion": "2025年收入5,856,815,290.20元，占营业收入比例44.50%",
+      "quote": "系统集成 5,856,815,290.20 44.50%"
+    },
+    {
+      "name": "金融科技解决方案（含核心业务、信贷、中间业务、支付、渠道、管理、架构等）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司核心业务解决方案整合分布式银行核心业务系统、交易级大总账系统、客户中心微服务系统等核心产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "设备类采购款",
+      "target_product": "系统集成业务",
+      "cost_proportion": "2025年占营业成本比重49.48%",
+      "quote": "设备类采购款 5,705,102,980.36 49.48%"
+    },
+    {
+      "name": "人工及技术协作",
+      "target_product": "软件开发及技术服务业务",
+      "cost_proportion": "2025年占营业成本比重42.05%",
+      "quote": "人工及技术协作 4,848,409,359.14 42.05%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "金融科技（银行等金融机构）",
+      "source_product": "金融科技解决方案",
+      "quote": "深耕金融科技领域多年，凭借深厚的行业积淀与客户积累，我们不断将AI for Process理念落地应用到各类金融场景。"
+    },
+    {
+      "name": "政企数字化（如税务）",
+      "source_product": "政企数字化解决方案",
+      "quote": "在政企数字化领域，报告期内，公司政企业务实现收入71.72亿元。凭借在税务数字化领域积淀的深厚业务经验与技术实力，公司深度投身金税三期、四期系统建设工作"
+    },
+    {
+      "name": "运营商数字化",
+      "source_product": "通信大数据网络优化产品及服务",
+      "quote": "在运营商数字化领域，报告期内，公司运营商业务实现收入14.45亿元。公司作为国内领先的第三方网络优化厂商之一，紧密围绕通讯服务业务数字化转型、数字业务升维等领域，向运营商提供通信大数据网络优化产品及服务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郭为",
+      "role": "董事长",
+      "quote": "神州数码信息服务集团股份有限公司 董事长：郭为"
+    },
+    {
+      "name": "徐启昌",
+      "role": "总裁",
+      "quote": "公司负责人徐启昌、主管会计工作负责人刘伟刚及会计机构负责人（会计主管人员）王晨旭声明"
+    },
+    {
+      "name": "李鸿春",
+      "role": "联席董事长",
+      "quote": "联席董事长：李鸿春"
+    },
+    {
+      "name": "刘伟刚",
+      "role": "财务总监、董事会秘书",
+      "quote": "主管会计工作负责人刘伟刚及会计机构负责人（会计主管人员）王晨旭声明"
+    },
+    {
+      "name": "蔡英华",
+      "role": "董事",
+      "quote": "蔡英华 男 47 董事 现任"
+    },
+    {
+      "name": "于宏志",
+      "role": "常务副总裁",
+      "quote": "于宏志 男 51 常务副总裁 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "供应商一",
+      "relation_type": "supplier",
+      "business_details": "2025年采购额3,098,530,005.27元，占年度采购总额比例35.79%",
+      "quote": "供应商一 3,098,530,005.27 35.79%"
+    },
+    {
+      "name": "供应商二",
+      "relation_type": "supplier",
+      "business_details": "2025年采购额1,558,774,411.32元，占年度采购总额比例18.01%",
+      "quote": "供应商二 1,558,774,411.32 18.01%"
+    },
+    {
+      "name": "供应商三",
+      "relation_type": "supplier",
+      "business_details": "2025年采购额260,187,458.59元，占年度采购总额比例3.01%",
+      "quote": "供应商三 260,187,458.59 3.01%"
+    },
+    {
+      "name": "供应商四",
+      "relation_type": "supplier",
+      "business_details": "2025年采购额208,524,329.18元，占年度采购总额比例2.41%",
+      "quote": "供应商四 208,524,329.18 2.41%"
+    },
+    {
+      "name": "供应商五",
+      "relation_type": "supplier",
+      "business_details": "2025年采购额122,050,982.75元，占年度采购总额比例1.41%",
+      "quote": "供应商五 122,050,982.75 1.41%"
+    },
+    {
+      "name": "客户一",
+      "relation_type": "customer",
+      "business_details": "2025年销售额1,951,907,049.88元，占年度销售总额比例14.83%",
+      "quote": "客户一 1,951,907,049.88 14.83%"
+    },
+    {
+      "name": "客户二",
+      "relation_type": "customer",
+      "business_details": "2025年销售额881,299,397.47元，占年度销售总额比例6.70%",
+      "quote": "客户二 881,299,397.47 6.70%"
+    },
+    {
+      "name": "客户三",
+      "relation_type": "customer",
+      "business_details": "2025年销售额447,735,397.38元，占年度销售总额比例3.40%",
+      "quote": "客户三 447,735,397.38 3.40%"
+    },
+    {
+      "name": "客户四",
+      "relation_type": "customer",
+      "business_details": "2025年销售额354,856,550.99元，占年度销售总额比例2.70%",
+      "quote": "客户四 354,856,550.99 2.70%"
+    },
+    {
+      "name": "客户五",
+      "relation_type": "customer",
+      "business_details": "2025年销售额338,661,435.94元，占年度销售总额比例2.57%",
+      "quote": "客户五 338,661,435.94 2.57%"
+    },
+    {
+      "name": "华为云",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "公司牵头联合华为云、腾讯云、阿里云，率先组建行业首个国产云金融核心系统联盟"
+    },
+    {
+      "name": "腾讯云",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "并与华为、腾讯云等科技企业共同发起行业首个AIGC大模型金融生态体系"
+    },
+    {
+      "name": "阿里云",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "公司牵头联合华为云、腾讯云、阿里云，率先组建行业首个国产云金融核心系统联盟"
+    },
+    {
+      "name": "神州数码软件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，持股比例39.78%",
+      "quote": "截至2025年12月31日，公司控股股东仍为神码软件。因其在报告期内合规减持公司股票，持股比例变动至39.78%。"
+    },
+    {
+      "name": "神州数码控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东的控股股东",
+      "quote": "神州控股为神码软件的间接控股股东"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金融行业",
+      "segment_type": "region",
+      "revenue_amount": "4,525,621,091.67元",
+      "revenue_proportion": "34.38%",
+      "gross_margin": "16.01%",
+      "yoy_change": "-7.86%",
+      "quote": "分行业 金融 4,525,621,091.67 34.38%"
+    },
+    {
+      "name": "政企行业",
+      "segment_type": "region",
+      "revenue_amount": "7,172,317,697.54元",
+      "revenue_proportion": "54.49%",
+      "gross_margin": "10.37%",
+      "yoy_change": "100.81%",
+      "quote": "政企 7,172,317,697.54 54.49%"
+    },
+    {
+      "name": "运营商业",
+      "segment_type": "region",
+      "revenue_amount": "1,445,438,903.35元",
+      "revenue_proportion": "10.98%",
+      "gross_margin": "11.16%",
+      "yoy_change": "-3.12%",
+      "quote": "运营商 1,445,438,903.35 10.98%"
+    },
+    {
+      "name": "软件开发及技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "7,301,970,191.66元",
+      "revenue_proportion": "55.47%",
+      "gross_margin": "15.93%",
+      "yoy_change": "6.32%",
+      "quote": "软件开发及技术服务 7,301,970,191.66 55.47%"
+    },
+    {
+      "name": "系统集成",
+      "segment_type": "product_line",
+      "revenue_amount": "5,856,815,290.20元",
+      "revenue_proportion": "44.50%",
+      "gross_margin": "7.94%",
+      "yoy_change": "87.15%",
+      "quote": "系统集成 5,856,815,290.20 44.50%"
+    },
+    {
+      "name": "国内地区",
+      "segment_type": "region",
+      "revenue_amount": "13,137,489,273.32元",
+      "revenue_proportion": "99.81%",
+      "gross_margin": "12.40%",
+      "yoy_change": "31.44%",
+      "quote": "国内地区 13,137,489,273.32 99.81%"
+    },
+    {
+      "name": "国外地区",
+      "segment_type": "region",
+      "revenue_amount": "25,322,632.20元",
+      "revenue_proportion": "0.19%",
+      "gross_margin": null,
+      "yoy_change": "231.00%",
+      "quote": "国外地区 25,322,632.20 0.19%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "云原生金融PaaS平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "云原生金融PaaS平台 旨在为金融行业客户提供完整的分布式技术中台解决方案"
+    },
+    {
+      "name": "市场风险研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "市场风险研发项目 对原有产品改造升级，覆盖金融衍生品估值、VaR等功能"
+    },
+    {
+      "name": "银行一体化业务处理系统研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "银行一体化业务处理系统研发项目 聚焦海外金融市场拓展，通过系统集成与多语言改造，打造适用海外及外资银行分行的OneBank整体业务系统"
+    },
+    {
+      "name": "核心系统标准版本研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "核心系统标准版本研发项目 基于SOA设计理念构建灵活稳定的业务与技术架构，实现数字化银行再造。"
+    },
+    {
+      "name": "交易级大总账研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "交易级大总账研发项目 顺应银行中台架构转型趋势，通过建设全行统一核算中心提升核算能力"
+    },
+    {
+      "name": "微服务平台研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "微服务平台研发项目 应对复杂IT架构导致的开发运维难题，打造基于云原生的企业级微服务平台。"
+    },
+    {
+      "name": "财资云研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "财资云研发项目 通过建立财资SaaS云服务，打造金融科技赋能的一站式企业资金管理。"
+    },
+    {
+      "name": "建模工艺平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "建模工艺平台 顺应业务建模2.0阶段，以工程化IT实施工艺为指导，融合业务与科技，全面满足开发、测试、运行监控等多维度需求。"
+    },
+    {
+      "name": "全面风险研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "全面风险研发项目 助力银行建立全面风险管理架构与内部资本充足评估模型，涵盖操作与信用风险"
+    },
+    {
+      "name": "资产负债研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "资产负债研发项目 旨在对银行原有管理会计系统进行迭代升级，满足职能转变与创新应用发展需求。"
+    },
+    {
+      "name": "六合上甲研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已按计划完成年度研发工作",
+      "expected_completion_time": null,
+      "quote": "六合上甲研发项目 致力于打造一体化、自动化、可追溯且安全高效的现代数据研发解决方案"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "新增专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内新增11件",
+      "quote": "公司新增专利11件"
+    },
+    {
+      "name": "新增软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "报告期内新增168件",
+      "quote": "软件著作权168件"
+    },
+    {
+      "name": "累计专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计146件",
+      "quote": "拥有软件著作权及专利累计达2，560项，其中专利146件"
+    },
+    {
+      "name": "累计软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "累计2，414件",
+      "quote": "软件著作权2，414件"
+    },
+    {
+      "name": "“通专融合”技术",
+      "asset_type": "core_technology",
+      "related_product": "AI金融解决方案",
+      "quantitative_info": null,
+      "quote": "公司依托“通专融合”技术，将通用大模型精准转化为适配金融场景的专业模型，深度匹配银行业务需求。"
+    },
+    {
+      "name": "“九天揽月”云原生金融PaaS平台",
+      "asset_type": "technical_platform",
+      "related_product": "分布式技术中台",
+      "quantitative_info": null,
+      "quote": "九天揽月是企业级云原生金融PaaS平台，提供涵盖底座、低代码开发及中台管控的完整分布式技术中台方案。"
+    },
+    {
+      "name": "ModelB@nk5.0未来银行应用架构",
+      "asset_type": "core_technology",
+      "related_product": "银行数智化解决方案",
+      "quantitative_info": null,
+      "quote": "以“数云融合”为核心的未来银行应用架构ModelB@nk5.0为指引"
+    },
+    {
+      "name": "发布或参与制定标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "已发布标准累计超100项，在研各类标准共计92项。",
+      "quote": "截至目前，公司已发布标准累计超100项，在研各类标准共计92项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "30.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 30.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "60.63%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 60.63%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.83%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "客户一 1,951,907,049.88 14.83%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "35.79%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "供应商一 3,098,530,005.27 35.79%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "受银行业净息差持续处于低位的影响，降本增效已成为银行业的主流经营导向。在此背景下，加之金融科技行业市场格局较为分散，各厂商之间的竞争愈发激烈",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业竞争加剧的风险 受银行业净息差持续处于低位的影响，降本增效已成为银行业的主流经营导向。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "近年来，金融领域数智化转型进程持续加快，叠加人工智能技术的飞速发展，对金融科技产品的智能化水平与技术先进性提出了更为严苛的要求。若公司未能紧跟技术迭代步伐推进产品研发工作，可能导致自身技术与产品的市场竞争力出现下滑。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、产品和技术不及预期的风险 近年来，金融领域数智化转型进程持续加快，叠加人工智能技术的飞速发展，对金融科技产品的智能化水平与技术先进性提出了更为严苛的要求。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术人员与关键岗位管理人员是支撑公司研发创新、保障运营管理高效推进的核心力量，公司的持续发展高度依赖此类人才的稳定留存与优质引入。当前，信息技术领域优秀人才的竞争日趋白热化，不仅推高了企业的人力成本，也增加了优秀人才的吸引与留存难度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、团队和人才流失风险 核心技术人员与关键岗位管理人员是支撑公司研发创新、保障运营管理高效推进的核心力量，公司的持续发展高度依赖此类人才的稳定留存与优质引入。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司因诉讼导致受限资金增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、经营活动产生的现金流量净额较上年同期减少142.51%，主要是报告期内因诉讼导致受限资金增加所致；"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司及子公司因案件冻结资金。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末受限货币资金为441，089，712.07元，其中因案件冻结的资金429，579，017.95元"
+    }
+  ]
+}

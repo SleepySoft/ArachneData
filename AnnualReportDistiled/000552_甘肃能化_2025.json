@@ -1,0 +1,473 @@
+{
+  "company_name_mentioned": "甘肃能化股份有限公司",
+  "produces": [
+    {
+      "name": "煤炭（配焦煤、动力煤、硅煤）",
+      "type": "material",
+      "revenue_proportion": "64.08%",
+      "quote": "公司主营业务为煤炭开采与销售...全年公司煤炭、电力、化工三大产业营收占比分别达到64.08%、17.58%、10.87%"
+    },
+    {
+      "name": "电力（发电、供热、供汽）",
+      "type": "service",
+      "revenue_proportion": "17.58%",
+      "quote": "全年公司煤炭、电力、化工三大产业营收占比分别达到64.08%、17.58%、10.87%"
+    },
+    {
+      "name": "化工产品（合成氨、尿素、甲醇、三聚氰胺等）",
+      "type": "material",
+      "revenue_proportion": "10.87%",
+      "quote": "全年公司煤炭、电力、化工三大产业营收占比分别达到64.08%、17.58%、10.87%"
+    },
+    {
+      "name": "建安施工",
+      "type": "service",
+      "revenue_proportion": "3.59%",
+      "quote": "建安施工 281,735,497.16 3.59%"
+    },
+    {
+      "name": "机械产品",
+      "type": "device",
+      "revenue_proportion": "0.45%",
+      "quote": "机械产品 35,711,232.65 0.45%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "采掘设备、支护设备、钢材、木料等耗用材料、井巷工程劳务",
+      "target_product": "煤炭",
+      "cost_proportion": null,
+      "quote": "公司日常经营中主要采购物资为采掘设备、支护设备以及钢材、木料等耗用材料，井巷工程劳务等。"
+    },
+    {
+      "name": "电煤、检修服务、检修物资、备品备件等",
+      "target_product": "电力",
+      "cost_proportion": null,
+      "quote": "白银热电、新区热电日常生产经营主要采购为电煤以及机组检修、维护等服务、检修物资、备品备件、大宗物资等"
+    },
+    {
+      "name": "煤（原料）",
+      "target_product": "化工产品",
+      "cost_proportion": null,
+      "quote": "化工项目以公司本地煤为原料"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力、化工、冶金、建材等行业",
+      "source_product": "煤炭（动力煤）",
+      "quote": "属优质环保动力煤，广泛用于电力、化工、冶金、建材等行业"
+    },
+    {
+      "name": "工业硅生产（还原剂）",
+      "source_product": "煤炭（硅煤）",
+      "quote": "部分精煤筛分后产出硅煤，用于工业硅生产还原剂"
+    },
+    {
+      "name": "市政供热、工业用汽",
+      "source_product": "电力（热电联产）",
+      "quote": "从汽轮机抽出部分做过功的中温中压蒸汽至热网加热器加热网水实现市政供热，以及为工业用汽用户提供所需工业蒸汽。"
+    },
+    {
+      "name": "农业生产（肥料）",
+      "source_product": "化工产品（尿素、尿素硝铵溶液等）",
+      "quote": "产出合成氨、尿素、液氨、甲醇、三聚氰胺、尿素硝铵溶液、液体二氧化碳、硫磺等产品"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谢晓锋",
+      "role": "董事长",
+      "quote": "公司负责人谢晓锋、主管会计工作负责人张安国及会计机构负责人（会计主管人员）魏陇喆声明...现任甘肃能源化工投资集团有限公司党委书记、董事长，本公司党委书记、董事长。"
+    },
+    {
+      "name": "苏统亨",
+      "role": "董事、总经理",
+      "quote": "现任本公司董事、总经理。"
+    },
+    {
+      "name": "张安国",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人张安国...现任本公司财务总监。"
+    },
+    {
+      "name": "滕万军",
+      "role": "副总经理、董事会秘书",
+      "quote": "现任本公司副总经理、董事会秘书。"
+    },
+    {
+      "name": "张田录",
+      "role": "副总经理",
+      "quote": "现任公司下属靖煤公司党委书记、董事长，本公司副总经理。"
+    },
+    {
+      "name": "张应芳",
+      "role": "副总经理",
+      "quote": "现任公司下属窑煤公司党委书记、董事长，本公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "甘肃能源化工投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东变更为甘肃能源化工投资集团有限公司。"
+    },
+    {
+      "name": "甘肃省国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人类型：法人；实际控制人名称：甘肃省国有资产监督管理委员会"
+    },
+    {
+      "name": "窑街煤电集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，负责煤炭开采与销售",
+      "quote": "2022年，公司发行股份购买窑街煤电100%股权"
+    },
+    {
+      "name": "甘肃靖煤能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，负责煤炭开采与销售",
+      "quote": "甘肃靖煤能源有限公司 -子公司 煤炭开采、销售"
+    },
+    {
+      "name": "靖远煤业集团刘化化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，负责化工项目建设运营",
+      "quote": "公司化工业务由刘化化工负责建设运营"
+    },
+    {
+      "name": "靖煤（白银）热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，负责电力生产",
+      "quote": "白银热电、新区热电均配置 2×350MW 超临界燃煤空冷热电联产机组"
+    },
+    {
+      "name": "山东电力工程咨询院有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购工程相关服务",
+      "quote": "公司前5大供应商资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 山东电力工程咨询院有限公司 721,116,046.83 8.61%"
+    },
+    {
+      "name": "上海电气集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商，采购设备",
+      "quote": "2 上海电气集团股份有限公司 422,940,000.00 5.05%"
+    },
+    {
+      "name": "中国电力工程顾问集团西北电力设计院有限公司",
+      "relation_type": "supplier",
+      "business_details": "第三大供应商，采购设计服务",
+      "quote": "3 中国电力工程顾问集团西北电力设计院有限公司 369,575,140.73 4.41%"
+    },
+    {
+      "name": "国网甘肃省电力公司",
+      "relation_type": "customer",
+      "business_details": "电力产品主要客户",
+      "quote": "白银热电、新区热电属于甘肃省公网电厂，所发电量主要由国网甘肃省电力公司收购"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "采掘业（煤炭）",
+      "segment_type": "product_line",
+      "revenue_amount": "5,022,690,416.99",
+      "revenue_proportion": "64.08%",
+      "gross_margin": "17.94%",
+      "yoy_change": "-32.57%",
+      "quote": "分行业 采掘业 5,022,690,416.99 64.08% 7,448,610,876.90 76.84% -32.57%"
+    },
+    {
+      "name": "电力行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,378,044,385.23",
+      "revenue_proportion": "17.58%",
+      "gross_margin": "16.16%",
+      "yoy_change": "2.25%",
+      "quote": "电力行业 1,378,044,385.23 17.58% 1,347,713,488.00 13.90% 2.25%"
+    },
+    {
+      "name": "化工行业",
+      "segment_type": "product_line",
+      "revenue_amount": "851,748,648.63",
+      "revenue_proportion": "10.87%",
+      "gross_margin": "2.55%",
+      "yoy_change": "122.12%",
+      "quote": "化工行业 851,748,648.63 10.87% 383,457,025.61 3.96% 122.12%"
+    },
+    {
+      "name": "省内",
+      "segment_type": "region",
+      "revenue_amount": "5,937,138,810.29",
+      "revenue_proportion": "75.74%",
+      "gross_margin": "17.36%",
+      "yoy_change": "-1.33%",
+      "quote": "分地区 省内 5,937,138,810.29 75.74% 6,017,336,787.34 62.08% -1.33%"
+    },
+    {
+      "name": "省外",
+      "segment_type": "region",
+      "revenue_amount": "1,901,492,184.63",
+      "revenue_proportion": "24.26%",
+      "gross_margin": "10.92%",
+      "yoy_change": "-48.27%",
+      "quote": "省外 1,901,492,184.63 24.26% 3,675,641,177.51 37.92% -48.27%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "煤炭",
+      "metric_type": "production_volume",
+      "value": "1,662.92万吨",
+      "period": "2025年",
+      "quote": "报告期内，公司煤炭产品产量1,662.92万吨"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "sales_volume",
+      "value": "1,589.84万吨",
+      "period": "2025年",
+      "quote": "销量1,589.84万吨"
+    },
+    {
+      "product": "电力（售电量）",
+      "metric_type": "sales_volume",
+      "value": "41.26亿度",
+      "period": "2025年",
+      "quote": "售电量41.26亿度"
+    },
+    {
+      "product": "电力（供热）",
+      "metric_type": "sales_volume",
+      "value": "541.96万吉焦",
+      "period": "2025年",
+      "quote": "供热541.96万吉焦"
+    },
+    {
+      "product": "电力（供汽）",
+      "metric_type": "sales_volume",
+      "value": "121.6万吉焦",
+      "period": "2025年",
+      "quote": "供汽量121.6万吉焦"
+    },
+    {
+      "product": "尿素",
+      "metric_type": "production_volume",
+      "value": "50.72万吨",
+      "period": "2025年",
+      "quote": "尿素综合产量50.72万吨"
+    },
+    {
+      "product": "尿素",
+      "metric_type": "sales_volume",
+      "value": "40.72万吨",
+      "period": "2025年",
+      "quote": "销量40.72万吨"
+    },
+    {
+      "product": "化工项目一期（合成氨）",
+      "metric_type": "capacity",
+      "value": "40万吨/年",
+      "period": null,
+      "quote": "项目一期已形成装置规模合成氨 40 万吨/年"
+    },
+    {
+      "product": "化工项目一期（尿素）",
+      "metric_type": "capacity",
+      "value": "35万吨/年",
+      "period": null,
+      "quote": "尿素 35 万吨/年"
+    },
+    {
+      "product": "化工项目二期（合成氨）",
+      "metric_type": "capacity",
+      "value": "40万吨/年",
+      "period": null,
+      "quote": "项目二期装置规模为合成氨40万吨/年"
+    },
+    {
+      "product": "化工项目二期（尿素）",
+      "metric_type": "capacity",
+      "value": "35万吨/年",
+      "period": null,
+      "quote": "尿素35万吨/年"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "清洁高效气化气（搬迁改造）项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "一期：合成氨40万吨/年，尿素35万吨/年等；二期：合成氨40万吨/年，尿素35万吨/年",
+      "progress": "一期工程已产出合格产品；二期工程正在顺利建设中",
+      "expected_completion_time": null,
+      "quote": "公司化工业务由刘化化工负责建设运营，目前项目一期已产出合格产品，二期工程正在顺利建设中。"
+    },
+    {
+      "name": "兰州新区2×1000MW火电项目",
+      "project_type": "capacity_expansion",
+      "location": "兰州新区",
+      "investment_amount": null,
+      "designed_capacity": "2×1000MW",
+      "progress": "已完成三大主机招标工作，项目初步设计完成审查，地基强夯工程已完工。",
+      "expected_completion_time": null,
+      "quote": "兰州新区2×1000MW发电项目已顺利完成三大主机招标工作。"
+    },
+    {
+      "name": "庆阳2×660MW煤电项目",
+      "project_type": "capacity_expansion",
+      "location": "庆阳",
+      "investment_amount": "1,005,634,100.00（累计实际投入）",
+      "designed_capacity": "2×660MW",
+      "progress": "已全面开工建设",
+      "expected_completion_time": null,
+      "quote": "庆阳2×660MW电厂已全面开工建设"
+    },
+    {
+      "name": "景泰白岩子矿井及选煤厂项目",
+      "project_type": "construction_project",
+      "location": "景泰",
+      "investment_amount": "2,103,114,600.00（累计实际投入）",
+      "designed_capacity": "90万吨/年",
+      "progress": "已完成竣工验收，正式转入规模化生产阶段",
+      "expected_completion_time": "2025年（已完工）",
+      "quote": "景泰白岩子90万吨/年煤矿顺利通过竣工验收，正式转入规模化生产阶段"
+    },
+    {
+      "name": "天宝红沙梁矿井及选煤厂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "2,531,834,800.00（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "正在建设中",
+      "expected_completion_time": null,
+      "quote": "天宝红沙梁矿井尚在建设中。"
+    },
+    {
+      "name": "天宝红沙梁露天矿项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "1,517,572,400.00（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "已完工并通过竣工验收",
+      "expected_completion_time": "2025年（已完工）",
+      "quote": "景泰白岩子煤矿、红沙梁露天矿顺利完成竣工验收并正式投产"
+    },
+    {
+      "name": "收购甘肃能化煤炭储运有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "10,150.17万元",
+      "designed_capacity": null,
+      "progress": "已完成工商变更登记",
+      "expected_completion_time": "2025年（已完工）",
+      "quote": "2025年，公司收购甘肃能化煤炭储运有限公司股权...收购价格为10,150.17万元...储运公司已完成工商变更登记。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "煤与瓦斯突出防治、冲击地压治理、大倾角及急倾斜煤层开采等技术",
+      "asset_type": "core_technology",
+      "related_product": "煤炭",
+      "quantitative_info": null,
+      "quote": "熟练掌握煤与瓦斯突出防治、冲击地压治理、大倾角及急倾斜煤层开采等一系列关键核心技术"
+    },
+    {
+      "name": "粉煤加压气化、气体净化、低压氨合成、二氧化碳汽提尿素、三聚氰胺等技术",
+      "asset_type": "process_technology",
+      "related_product": "化工产品",
+      "quantitative_info": null,
+      "quote": "气化气项目采用粉煤加压气化、气体净化、低压氨合成、二氧化碳汽提尿素、三聚氰胺等技术"
+    },
+    {
+      "name": "智慧矿山/智能化示范矿井",
+      "asset_type": "technical_platform",
+      "related_product": "煤炭",
+      "quantitative_info": "省级创新中心及国家智能化示范矿井5个",
+      "quote": "打造省级创新中心及国家智能化示范矿井5个"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计申请专利158项",
+      "quote": "累计申请专利158项"
+    },
+    {
+      "name": "5G全光网井工矿井",
+      "asset_type": "certification",
+      "related_product": "煤炭",
+      "quantitative_info": "全省首个",
+      "quote": "建成全省首个5G全光网井工矿井"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "35.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 35.17%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "24.89%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 24.89%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.27%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 1,075,293,648.50 14.27%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "8.61%",
+      "related_entity": "山东电力工程咨询院有限公司",
+      "period": "2025年",
+      "quote": "1 山东电力工程咨询院有限公司 721,116,046.83 8.61%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "受宏观经济周期波动的传导影响较为显著，同时，煤炭、电力、化工三大核心产业受产业政策调整、监管调控影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "作为传统周期性行业，公司主营业务受宏观经济周期波动的传导影响较为显著，同时，煤炭、电力、化工三大核心产业受产业政策调整、监管调控影响较大。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "全国原煤产量保持增长态势，煤炭消费量增速缓慢，煤炭进口量维持高位，疆煤入甘冲击省内市场，导致煤炭市场供需失衡。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "从市场形势看，当前国内经济运行不确定性因素增多，全国原煤产量保持增长态势，煤炭消费量增速缓慢，煤炭进口量维持高位，疆煤入甘冲击省内市场，导致煤炭市场供需失衡"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司下属矿井开采深度持续延伸，瓦斯突出、冲击地压等重大灾害呈现加剧态势，灾害防控的复杂性、艰巨性显著提升。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "随着公司下属矿井开采深度持续延伸，瓦斯突出、冲击地压等重大灾害呈现加剧态势，灾害防控的复杂性、艰巨性显著提升"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司经营质效仍有较大提升空间，存在煤质管控精细化程度不够、管控举措落实不够严实，煤炭开采固定成本持续增加，市场销售布局较为单一等情形。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司经营质效仍有较大提升空间，存在煤质管控精细化程度不够、管控举措落实不够严实，煤炭开采固定成本持续增加，市场销售布局较为单一等情形"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "2025年，全国煤炭市场持续低迷、煤炭产品价格大幅下行",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "2025年，面对全国煤炭市场持续低迷、煤炭产品价格大幅下行的严峻挑战与多重压力"
+    }
+  ]
+}

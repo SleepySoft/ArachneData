@@ -1,0 +1,334 @@
+{
+  "company_name_mentioned": "亚普汽车部件股份有限公司",
+  "produces": [
+    {
+      "name": "燃油系统（含混动汽车高压燃油系统）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "燃油箱 8,412,130,518.40"
+    },
+    {
+      "name": "电池包壳体",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "电池包壳体"
+    },
+    {
+      "name": "燃料电池储氢系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "燃料电池储氢系统"
+    },
+    {
+      "name": "热管理集成模块",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "热管理集成模块"
+    },
+    {
+      "name": "旋转变压器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "旋转变压器"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "燃油箱及其他",
+      "cost_proportion": "81.51%",
+      "quote": "原材料 612,312.77 81.51"
+    },
+    {
+      "name": "制造费用等",
+      "target_product": "燃油箱及其他",
+      "cost_proportion": "18.49%",
+      "quote": "制造费用等 138,900.82 18.49"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车（乘用车）",
+      "source_product": "燃油系统、电池包壳体、储氢系统、热管理集成模块、旋转变压器",
+      "quote": "公司主要客户包括大众、奥迪、通用、斯泰兰蒂斯、福特、奔驰、日产、丰田、比亚迪、吉利、奇瑞、长安、上汽等60多家客户品牌。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "丁后稳",
+      "role": "董事长",
+      "quote": "公司负责人丁后稳、主管会计工作负责人李鹏勇及会计机构负责人（会计主管人员）陈超声明"
+    },
+    {
+      "name": "徐平",
+      "role": "副董事长",
+      "quote": "徐平 副董事长"
+    },
+    {
+      "name": "赵政",
+      "role": "董事、总经理",
+      "quote": "赵政 董事、总经理"
+    },
+    {
+      "name": "李鹏勇",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人李鹏勇"
+    },
+    {
+      "name": "朱磊",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 朱磊"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国投高科技投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 国投高科技投资有限公司"
+    },
+    {
+      "name": "国家开发投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人 国家开发投资集团有限公司"
+    },
+    {
+      "name": "华域汽车系统股份有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "华域汽车系统股份有限公司 0 152,550,000 29.76 0 无 0 国有法人"
+    },
+    {
+      "name": "东风亚普汽车部件有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "合营企业",
+      "quote": "公司合营企业东风亚普"
+    },
+    {
+      "name": "上海赢双电机科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "赢双科技 指 上海赢双电机科技股份有限公司"
+    },
+    {
+      "name": "上汽大众汽车有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方客户",
+      "quote": "上汽大众汽车有限公司【注3】"
+    },
+    {
+      "name": "上汽通用汽车有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方客户",
+      "quote": "上汽通用汽车有限公司【注4】"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "8,808,314,223.13",
+      "revenue_proportion": null,
+      "gross_margin": "14.72%",
+      "yoy_change": "13.51%",
+      "quote": "汽车零部件 8,808,314,223.13 7,512,135,883.92 14.72 13.51 13.24 增加0.21个百分点"
+    },
+    {
+      "name": "燃油箱",
+      "segment_type": "product_line",
+      "revenue_amount": "8,412,130,518.40",
+      "revenue_proportion": null,
+      "gross_margin": "13.94%",
+      "yoy_change": "11.88%",
+      "quote": "燃油箱 8,412,130,518.40 7,239,502,764.04 13.94 11.88 12.27 减少0.30个百分点"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "396,183,704.73",
+      "revenue_proportion": null,
+      "gross_margin": "31.19%",
+      "yoy_change": "64.59%",
+      "quote": "其他 396,183,704.73 272,633,119.88 31.19 64.59 47.00 增加8.23个百分点"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "5,202,092,608.54",
+      "revenue_proportion": null,
+      "gross_margin": "17.10%",
+      "yoy_change": "5.27%",
+      "quote": "国内 5,202,092,608.54 4,312,477,176.85 17.10 5.27 4.00 增加1.01个百分点"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "3,606,221,614.59",
+      "revenue_proportion": null,
+      "gross_margin": "11.27%",
+      "yoy_change": "27.95%",
+      "quote": "国外 3,606,221,614.59 3,199,658,707.07 11.27 27.95 28.64 减少0.47个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "燃油箱",
+      "metric_type": "capacity",
+      "value": "550",
+      "period": "报告期",
+      "quote": "亚普本部 550"
+    },
+    {
+      "product": "燃油箱",
+      "metric_type": "production_volume",
+      "value": "10,890,186",
+      "period": "报告期",
+      "quote": "燃油箱 只 10,890,186.00 10,795,375.00 832,336.00 12.52 11.16 12.86"
+    },
+    {
+      "product": "燃油箱",
+      "metric_type": "sales_volume",
+      "value": "10,795,375",
+      "period": "报告期",
+      "quote": "燃油箱 只 10,890,186.00 10,795,375.00 832,336.00 12.52 11.16 12.86"
+    },
+    {
+      "product": "旋转变压器",
+      "metric_type": "capacity",
+      "value": "1,000",
+      "period": "报告期",
+      "quote": "赢双科技 1,000"
+    },
+    {
+      "product": "旋转变压器",
+      "metric_type": "production_volume",
+      "value": "4,409,981",
+      "period": "报告期",
+      "quote": "旋转变压器 台 4,409,981.00 4,153,947.00 760,537.00"
+    },
+    {
+      "product": "旋转变压器",
+      "metric_type": "sales_volume",
+      "value": "4,153,947",
+      "period": "报告期",
+      "quote": "旋转变压器 台 4,409,981.00 4,153,947.00 760,537.00"
+    },
+    {
+      "product": "亚普印度",
+      "metric_type": "capacity_utilization",
+      "value": "94%",
+      "period": "报告期",
+      "quote": "亚普印度 100 100 94"
+    },
+    {
+      "product": "亚普捷克",
+      "metric_type": "capacity_utilization",
+      "value": "99%",
+      "period": "报告期",
+      "quote": "亚普捷克 80 80 99"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购上海赢双电机科技股份有限公司部分股份",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "5.78亿元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司完成对赢双科技约54.50%股份的控股收购。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "混动汽车高压燃油系统",
+      "asset_type": "core_technology",
+      "related_product": "高压燃油系统",
+      "quantitative_info": null,
+      "quote": "以混动汽车高压燃油系统为代表的新技术产品已进入市场成熟增长阶段"
+    },
+    {
+      "name": "吹塑、模压成型、注塑、缠绕四大工艺",
+      "asset_type": "process_technology",
+      "related_product": "储氢系统等",
+      "quantitative_info": null,
+      "quote": "公司具备吹塑、模压成型、注塑、缠绕四大工艺能力"
+    },
+    {
+      "name": "新增授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "53件",
+      "quote": "报告期内，公司新增授权专利53件，其中发明专利23件。"
+    },
+    {
+      "name": "储氢系统相关产品（35MPa与70MPa加氢口、瓶口组合阀及尾阀）",
+      "asset_type": "certification",
+      "related_product": "储氢系统",
+      "quantitative_info": "通过新国标强制认证",
+      "quote": "储氢系统相关产品（35MPa与70MPa加氢口、瓶口组合阀及尾阀）通过新国标强制认证。"
+    },
+    {
+      "name": "参与制定国家标准《GB/T 46439-2025氢能源汽车管路用不锈钢无缝钢管》",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "1项国家标准",
+      "quote": "公司参与制定了1项国家标准《GB/T 46439-2025氢能源汽车管路用不锈钢无缝钢管》"
+    },
+    {
+      "name": "特种设备制造许可证（B3级）",
+      "asset_type": "certification",
+      "related_product": "储氢系统",
+      "quantitative_info": "获得",
+      "quote": "成功获批特种设备制造许可证（B3级），标志着公司正式迈入氢能装备核心领域。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "379,000.67万元，占年度销售总额41.50%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额379,000.67万元，占年度销售总额41.50%；其中前五名客户销售额中关联方销售额132,311.53万元，占年度销售总额14.49% 。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "163,686.52万元，占年度采购总额24.72%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额163,686.52万元，占年度采购总额24.72%；其中前五名供应商采购额中关联方采购额40,977.98万元，占年度采购总额6.19%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧风险。汽车零部件行业竞争日趋激烈，尤其是新能源领域的参与者持续增加，如公司不能在技术、成本等方面保持优势，可能面临产品议价能力下降、毛利率下滑的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "四是市场竞争加剧风险。汽车零部件行业竞争日趋激烈，尤其是新能源领域的参与者持续增加，如公司不能在技术、成本等方面保持优势，可能面临产品议价能力下降、毛利率下滑的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "产业变革与业务转型风险。随着汽车消费需求向新能源转型，新能源汽车渗透率持续提升，可能对公司传统燃油系统业务的长期发展空间带来挑战，存在传统业务被逐步替代的风险。",
+      "related_entity": null,
+      "related_product": "燃油系统",
+      "quote": "二是产业变革与业务转型风险。随着汽车消费需求向新能源转型，新能源汽车渗透率持续提升，可能对公司传统燃油系统业务的长期发展空间带来挑战，存在传统业务被逐步替代的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "国际化运营风险。公司全球化布局广泛，海外业务所在国的政治、经济、文化差异及贸易壁垒等不确定因素，可能给海外子公司的运营效率和盈利能力带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三是国际化运营风险。公司全球化布局广泛，海外业务所在国的政治、经济、文化差异及贸易壁垒等不确定因素，可能给海外子公司的运营效率和盈利能力带来不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济与市场风险。全球经济增长放缓等不稳定因素，可能导致汽车行业增速下滑甚至出现负增长，行业景气度可能出现下降，进而影响公司整体市场需求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "一是宏观经济与市场风险。全球经济增长放缓等不稳定因素，可能导致汽车行业增速下滑甚至出现负增长，行业景气度可能出现下降，进而影响公司整体市场需求。"
+    }
+  ]
+}

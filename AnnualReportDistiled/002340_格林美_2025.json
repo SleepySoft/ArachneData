@@ -1,0 +1,550 @@
+{
+  "company_name_mentioned": "格林美股份有限公司",
+  "produces": [
+    {
+      "name": "三元前驱体",
+      "type": "component",
+      "revenue_proportion": "30.98%",
+      "quote": "三元前驱体 11,501,722,680.34 30.98%"
+    },
+    {
+      "name": "四氧化三钴",
+      "type": "component",
+      "revenue_proportion": "14.83%",
+      "quote": "四氧化三钴 5,504,961,287.52 14.83%"
+    },
+    {
+      "name": "三元正极材料",
+      "type": "component",
+      "revenue_proportion": "7.96%",
+      "quote": "正极材料 2,955,477,409.84 7.96%"
+    },
+    {
+      "name": "镍资源(MHP、镍板)",
+      "type": "material",
+      "revenue_proportion": "19.74%",
+      "quote": "镍资源(MHP、镍板) 7,328,924,848.49 19.74%"
+    },
+    {
+      "name": "钴回收业务（钴粉、钴片等）",
+      "type": "material",
+      "revenue_proportion": "6.72%",
+      "quote": "钴回收业务（钴粉、钴片等） 2,493,613,750.46 6.72%"
+    },
+    {
+      "name": "钨资源回收利用业务（APT、碳化钨粉等）",
+      "type": "material",
+      "revenue_proportion": "6.57%",
+      "quote": "钨资源回收利用业务（APT、碳化钨粉等） 2,438,464,754.90 6.57%"
+    },
+    {
+      "name": "动力电池综合利用",
+      "type": "service",
+      "revenue_proportion": "3.37%",
+      "quote": "动力电池综合利用 1,252,130,829.22 3.37%"
+    },
+    {
+      "name": "报废汽车综合利用",
+      "type": "service",
+      "revenue_proportion": "1.52%",
+      "quote": "报废汽车综合利用 564,691,137.32 1.52%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "前五大供应商采购",
+      "target_product": null,
+      "cost_proportion": "25.98%",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.98%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车动力电池",
+      "source_product": "三元前驱体、三元正极材料",
+      "quote": "公司循环生产的动力电池用三元前驱体、三元正极材料与3C数码电池用四氧化三钴材料、再生碳酸锂等新能源材料主力供应CATL、BYD等中国新能源领军企业"
+    },
+    {
+      "name": "3C数码电池",
+      "source_product": "四氧化三钴",
+      "quote": "3C数码电池用四氧化三钴材料"
+    },
+    {
+      "name": "硬质合金",
+      "source_product": "超细钴粉",
+      "quote": "超细钴粉凭借优异的产品性能，成为全球硬质合金行业优质品牌，占全球市场50%份额"
+    },
+    {
+      "name": "人形机器人",
+      "source_product": "超高镍三元前驱体、正极材料",
+      "quote": "超比能正极材料成功装备4680大圆柱与人形机器人电池"
+    },
+    {
+      "name": "固态电池",
+      "source_product": "固态电池用前驱体、固态正极电池材料",
+      "quote": "全固态锂电用超比能材料与富锂锰基材料技术获得突破"
+    },
+    {
+      "name": "钠离子电池",
+      "source_product": "钠电聚阴离子正极材料",
+      "quote": "钠电正极材料技术达到产业化阶段并建成万吨级钠电正极材料示范线"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "许开华",
+      "role": "创始人、董事长兼总经理",
+      "quote": "公司负责人许开华...格林美由创始人许开华教授基于绿色生态制造（G—Green E—Eco M—Manufacture）的绿色理想在深圳设立"
+    },
+    {
+      "name": "王敏",
+      "role": "董事",
+      "quote": "主管会计工作负责人穆猛刚及会计机构负责人（会计主管人员）穆猛刚声明...王敏女士...现任公司董事"
+    },
+    {
+      "name": "周波",
+      "role": "董事、常务副总经理",
+      "quote": "周波先生...现任公司董事、常务副总经理"
+    },
+    {
+      "name": "潘骅",
+      "role": "董事、高级副总经理、董事会秘书",
+      "quote": "潘骅先生...现任公司董事、高级副总经理、董事会秘书"
+    },
+    {
+      "name": "潘峰",
+      "role": "独立董事",
+      "quote": "潘峰先生...现任公司独立董事"
+    },
+    {
+      "name": "汤胜",
+      "role": "独立董事",
+      "quote": "汤胜先生...现任公司独立董事"
+    },
+    {
+      "name": "张坤",
+      "role": "高级副总经理",
+      "quote": "张坤先生...现任公司高级副总经理、中央研究院院长、格林美（荆门）总经理"
+    },
+    {
+      "name": "穆猛刚",
+      "role": "高级副总经理、财务总监",
+      "quote": "穆猛刚先生...现任公司高级副总经理、财务总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁德时代（CATL）",
+      "relation_type": "customer",
+      "business_details": "主力供应动力电池用三元前驱体、三元正极材料，并形成镍钴锂的定向循环合作关系",
+      "quote": "与BYD、CATL、EVE、丰田汽车形成镍钴锂的定向循环合作关系"
+    },
+    {
+      "name": "比亚迪（BYD）",
+      "relation_type": "customer",
+      "business_details": "主力供应动力电池用三元前驱体、三元正极材料，并形成镍钴锂的定向循环合作关系",
+      "quote": "与BYD、CATL、EVE、丰田汽车形成镍钴锂的定向循环合作关系"
+    },
+    {
+      "name": "SAMSUNG SDI",
+      "relation_type": "customer",
+      "business_details": "进入国际新能源锂电池头部产业链",
+      "quote": "同时进入SAMSUNG SDI、SK On、LGC、ECOPRO等国际新能源锂电池头部产业链"
+    },
+    {
+      "name": "ECOPRO",
+      "relation_type": "customer",
+      "business_details": "进入国际新能源锂电池头部产业链，并签署战略合作备忘录共建IGIP园区",
+      "quote": "同时进入SAMSUNG SDI、SK On、LGC、ECOPRO等国际新能源锂电池头部产业链；公司与ECOPRO签署共建“资源—产品—市场”第一竞争力联盟"
+    },
+    {
+      "name": "SK On",
+      "relation_type": "customer",
+      "business_details": "进入国际新能源锂电池头部产业链",
+      "quote": "同时进入SAMSUNG SDI、SK On、LGC、ECOPRO等国际新能源锂电池头部产业链"
+    },
+    {
+      "name": "Apple",
+      "relation_type": "customer",
+      "business_details": "循环再生的超细钨粉、超细钴粉、镍钴资源主力供应",
+      "quote": "循环再生的超细钨粉、超细钴粉、镍钴资源主力供应Apple、Sandvik、三星SDI、中国五矿、厦钨等全球供应链"
+    },
+    {
+      "name": "广汽集团",
+      "relation_type": "customer",
+      "business_details": "剩余能量梯次利用再制造的动力电池组在广汽等企业商用化",
+      "quote": "剩余能量梯次利用再制造的动力电池组在广汽、中联重科等企业商用化"
+    },
+    {
+      "name": "当升科技",
+      "relation_type": "customer",
+      "business_details": "达成或建成了定向循环、市场合作、资源合作等多方位合作关系",
+      "quote": "公司与CATL（邦普）、Apple、BYD、三星SDI、LGC、EVE、广汽、中创新航、当升、丰田、松下、蔚蓝锂芯等全球头部优质企业达成或建成了定向循环、市场合作、资源合作等多方位合作关系"
+    },
+    {
+      "name": "丰田汽车",
+      "relation_type": "customer",
+      "business_details": "进入丰田产业链，与丰田研究总院建立战略合作，形成镍钴锂的定向循环合作关系",
+      "quote": "与丰田研究总院建立战略合作，构建“资源—材料—回收”的新能源全生命周期价值链；与BYD、CATL、EVE、丰田汽车形成镍钴锂的定向循环合作关系"
+    },
+    {
+      "name": "广东邦普循环科技有限公司",
+      "relation_type": "customer",
+      "business_details": "达成或建成了定向循环、市场合作、资源合作等多方位合作关系",
+      "quote": "公司与CATL（邦普）、Apple、BYD、三星SDI、LGC、EVE、广汽、中创新航、当升、丰田、松下、蔚蓝锂芯等全球头部优质企业达成或建成了定向循环、市场合作、资源合作等多方位合作关系"
+    },
+    {
+      "name": "亿纬锂能",
+      "relation_type": "customer",
+      "business_details": "达成或建成了定向循环、市场合作、资源合作等多方位合作关系",
+      "quote": "公司与CATL（邦普）、Apple、BYD、三星SDI、LGC、EVE、广汽、中创新航、当升、丰田、松下、蔚蓝锂芯等全球头部优质企业达成或建成了定向循环、市场合作、资源合作等多方位合作关系"
+    },
+    {
+      "name": "嘉能可",
+      "relation_type": "supplier",
+      "business_details": "全球供应链集团合作升级",
+      "quote": "公司与象屿、建发、嘉能可、英美资源、阪和等全球供应链集团合作升级"
+    },
+    {
+      "name": "英美资源",
+      "relation_type": "supplier",
+      "business_details": "全球供应链集团合作升级",
+      "quote": "公司与象屿、建发、嘉能可、英美资源、阪和等全球供应链集团合作升级"
+    },
+    {
+      "name": "印尼国家主权财富基金（Danantara）",
+      "relation_type": "joint_venture",
+      "business_details": "签署以印尼国际绿色工业园共建“资源—产品—市场”第一竞争力联盟",
+      "quote": "公司与印尼国家主权财富基金（Danantara）、印尼淡水河谷（PT. Vale）、韩国ECOPRO成功签约以镍资源项目为合作纽带的印尼国际绿色工业园"
+    },
+    {
+      "name": "淡水河谷印尼公司（VALE）",
+      "relation_type": "joint_venture",
+      "business_details": "签署以印尼国际绿色工业园共建“资源—产品—市场”第一竞争力联盟",
+      "quote": "公司与印尼国家主权财富基金（Danantara）、印尼淡水河谷（PT. Vale）、韩国ECOPRO成功签约以镍资源项目为合作纽带的印尼国际绿色工业园"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "关键金属的提取与回收",
+      "segment_type": "business_unit",
+      "revenue_amount": "12,934,186,355.33元",
+      "revenue_proportion": "34.85%",
+      "gross_margin": "16.88%",
+      "yoy_change": "28.10%",
+      "quote": "关键金属的提取与回收业务实现营业收入129.34亿元，同比增长28.10%，占总销售规模的34.85%；...关键金属的提取 12,934,186,355.33 34.85%"
+    },
+    {
+      "name": "动力锂电池循环利用",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,816,821,966.54元",
+      "revenue_proportion": "4.89%",
+      "gross_margin": "8.15%",
+      "yoy_change": "2.15%",
+      "quote": "动力锂电池循环利用业务实现营业收入18.17亿元，同比增长2.15%，占总销售规模的4.89%；...动力锂电池循环 1,816,821,966.54 4.89%"
+    },
+    {
+      "name": "新能源电池材料",
+      "segment_type": "business_unit",
+      "revenue_amount": "19,962,161,377.70元",
+      "revenue_proportion": "53.77%",
+      "gross_margin": "15.60%",
+      "yoy_change": "0.24%",
+      "quote": "新能源电池材料业务实现营业收入199.62亿元，同比增长0.24%，占总销售规模的53.77%；...新能源电池材料 19,962,161,377.70 53.77%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "24,313,732,091.74元",
+      "revenue_proportion": "65.49%",
+      "gross_margin": null,
+      "yoy_change": "-4.09%",
+      "quote": "境内 24,313,732,091.74 65.49% 25,351,754,837.27 76.36% -4.09%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "12,809,852,690.59元",
+      "revenue_proportion": "34.51%",
+      "gross_margin": null,
+      "yoy_change": "63.22%",
+      "quote": "境外 12,809,852,690.59 34.51% 7,848,074,526.31 23.64% 63.22%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "关键金属（镍、钴、钨、锂）",
+      "metric_type": "production_volume",
+      "value": "约20万吨",
+      "period": "2025年",
+      "quote": "关键金属镍、钴、钨、锂的提取与回收总量约20万吨"
+    },
+    {
+      "product": "印尼镍资源（镍金属）",
+      "metric_type": "sales_volume",
+      "value": "110,839吨",
+      "period": "2025年",
+      "quote": "印尼镍资源项目镍金属出货超110,839吨（含参股产能），同比增长114%"
+    },
+    {
+      "product": "钴",
+      "metric_type": "production_volume",
+      "value": "超过1.5万吨",
+      "period": "2025年",
+      "quote": "战略金属钴回收量超过1.5万吨，同比增长约48%"
+    },
+    {
+      "product": "钨资源",
+      "metric_type": "sales_volume",
+      "value": "7,266吨",
+      "period": "2025年",
+      "quote": "公司回收钨资源出货量达到7,266吨，同比增长12%"
+    },
+    {
+      "product": "动力锂电池",
+      "metric_type": "production_volume",
+      "value": "52,576吨",
+      "period": "2025年",
+      "quote": "动力锂电池回收拆解量52,576吨，同比增长46%"
+    },
+    {
+      "product": "三元前驱体材料",
+      "metric_type": "sales_volume",
+      "value": "149,790吨",
+      "period": "2025年",
+      "quote": "三元前驱体材料出货量149,790吨"
+    },
+    {
+      "product": "四氧化三钴",
+      "metric_type": "sales_volume",
+      "value": "29,040吨",
+      "period": "2025年",
+      "quote": "四氧化三钴产销量强力恢复，出货量达29,040吨，同比增长41%"
+    },
+    {
+      "product": "三元正极材料",
+      "metric_type": "sales_volume",
+      "value": "26,578吨",
+      "period": "2025年",
+      "quote": "三元正极材料高端产能释放，出货量26,578吨，同比增长32%"
+    },
+    {
+      "product": "关键金属的提取与回收",
+      "metric_type": "sales_volume",
+      "value": "104,649.87吨",
+      "period": "2025年",
+      "quote": "销售量 吨 104,649.87"
+    },
+    {
+      "product": "关键金属的提取与回收",
+      "metric_type": "production_volume",
+      "value": "105,012.22吨",
+      "period": "2025年",
+      "quote": "生产量 吨 105,012.22"
+    },
+    {
+      "product": "关键金属的提取与回收",
+      "metric_type": "inventory_volume",
+      "value": "2,161.20吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 2,161.20"
+    },
+    {
+      "product": "新能源电池材料",
+      "metric_type": "sales_volume",
+      "value": "205,407.58吨",
+      "period": "2025年",
+      "quote": "销售量 吨 205,407.58"
+    },
+    {
+      "product": "新能源电池材料",
+      "metric_type": "production_volume",
+      "value": "199,153.19吨",
+      "period": "2025年",
+      "quote": "生产量 吨 199,153.19"
+    },
+    {
+      "product": "新能源电池材料",
+      "metric_type": "inventory_volume",
+      "value": "8,178.13吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 8,178.13"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "印尼国际绿色工业园区（IGIP）",
+      "project_type": "capacity_expansion",
+      "location": "印度尼西亚",
+      "investment_amount": null,
+      "designed_capacity": "6.6万吨镍/年（一期）",
+      "progress": "共同建设，一期工程将在2026年投入运行",
+      "expected_completion_time": "2026年",
+      "quote": "公司与韩国、印尼合作伙伴正在共同建设的印尼国际绿色工业园区（IGIP），将成为印尼首个致力于实现零碳排放的绿色镍资源与循环经济产业园...一期工程将在2026年投入运行；印尼IGIP园区完成6.6万吨镍/年EPC项目建设"
+    },
+    {
+      "name": "青美邦 HPAL 项目三期",
+      "project_type": "capacity_expansion",
+      "location": "印度尼西亚",
+      "investment_amount": null,
+      "designed_capacity": "镍金属年产能15万吨",
+      "progress": "完成三期建设及工艺升级，实现满产",
+      "expected_completion_time": null,
+      "quote": "青美邦 HPAL 项目完成三期建设及工艺升级，镍金属年产能实现15万金吨满产（全球HPAL项目前三位）"
+    },
+    {
+      "name": "各园区智能制造升级工程",
+      "project_type": "other",
+      "location": "中国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全面竣工",
+      "expected_completion_time": null,
+      "quote": "各园区智能制造升级工程全面竣工，极大提升劳动生产率"
+    },
+    {
+      "name": "智能装备再制造工厂",
+      "project_type": "other",
+      "location": "中国（荆门、武汉）",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "初步建成，已发挥效力",
+      "expected_completion_time": null,
+      "quote": "智能装备再制造工厂初步建成，已发挥效力"
+    },
+    {
+      "name": "格林美（荆门）零碳园区建设",
+      "project_type": "other",
+      "location": "中国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "成功入选国家发改委第一批国家级零碳园区建设名单",
+      "expected_completion_time": null,
+      "quote": "格林美（荆门）作为核心企业成功入选国家发改委第一批国家级零碳园区建设名单"
+    },
+    {
+      "name": "武汉市动力电池低碳循环产业创新联合实验室",
+      "project_type": "r_and_d_project",
+      "location": "中国（武汉）",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "揭牌成立",
+      "expected_completion_time": null,
+      "quote": "2025年8月15日，武汉市动力电池低碳循环产业创新联合实验室在格林美（武汉）城市矿山低碳产业园揭牌成立"
+    },
+    {
+      "name": "中印尼卓越工程师学院",
+      "project_type": "other",
+      "location": "印度尼西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "联合共建",
+      "expected_completion_time": null,
+      "quote": "格林美携手中南大学、万隆理工学院、青美邦与三一集团，联合共建中印尼卓越工程师学院"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "退役锂动力电池柔性拆解、剩余能量梯次利用再制造、定向提锂等系列关键技术",
+      "asset_type": "core_technology",
+      "related_product": "动力锂电池循环利用",
+      "quantitative_info": "锂回收率>96.5%，镍钴回收率>99.5%，石墨回收率>95%，磷回收率>95%，铁回收率>90%",
+      "quote": "公司开发了退役锂动力电池柔性拆解、剩余能量梯次利用再制造、定向提锂、镍钴锰共萃、低价值组分经济化回收、材料原位再制造等系列关键技术和全新设备...锂回收率>96.5%，镍钴回收率>99.5%，石墨回收率>95%，磷回收率>95%，铁回收率>90%"
+    },
+    {
+      "name": "超高镍9系核壳前驱体材料制备技术",
+      "asset_type": "core_technology",
+      "related_product": "超高镍9系三元核壳前驱体、超高镍9系四元核壳前驱体",
+      "quantitative_info": "全球唯一具备核壳前驱体量产能力的企业",
+      "quote": "连续发布全球首款超高镍9系三元核壳前驱体和超高镍9系四元核壳前驱体，并先后正式量产出货...格林美成为全球唯一具备核壳前驱体量产能力的企业"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计申请专利6,200件，其中授权且有效专利2,265件，PCT申请及海外申请871件",
+      "quote": "截至2025年底，公司累计申请专利6,200件，同比增长23%，其中授权且有效专利2,265件，PCT申请及海外申请871件，同比增长13%"
+    },
+    {
+      "name": "标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "累计主导/参与标准630项",
+      "quote": "公司累计主导/参与标准630项，同比增长15%"
+    },
+    {
+      "name": "国家电子废弃物循环利用工程技术研究中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后建成国家电子废弃物循环利用工程技术研究中心、国家企业技术中心、国家能源金属资源与新材料重点实验室、退役动力电池高值化利用湖北省重点实验室等一系列国家级和省部级重大科技创新平台"
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后建成国家电子废弃物循环利用工程技术研究中心、国家企业技术中心、国家能源金属资源与新材料重点实验室、退役动力电池高值化利用湖北省重点实验室等一系列国家级和省部级重大科技创新平台"
+    },
+    {
+      "name": "国家能源金属资源与新材料重点实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后建成国家电子废弃物循环利用工程技术研究中心、国家企业技术中心、国家能源金属资源与新材料重点实验室、退役动力电池高值化利用湖北省重点实验室等一系列国家级和省部级重大科技创新平台"
+    },
+    {
+      "name": "5N级高纯电积镍、钴一步电沉积法制备关键技术",
+      "asset_type": "core_technology",
+      "related_product": "5N级高纯电积镍、钴",
+      "quantitative_info": null,
+      "quote": "突破5N级高纯电积镍、钴一步电沉积法制备关键技术，产品满足高端溅射靶材标准，达到国际先进水平"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.30%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.98%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "世界行业竞争加剧，关税贸易战升级，给行业发展带来不确定性，给公司销售与业绩增长带来挑战。关税战将加剧全球行业竞争，公司将面临更加严峻的行业全球竞争格局。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，世界行业竞争加剧，关税贸易战升级...给公司销售与业绩增长带来挑战...公司将面临更加严峻的行业全球竞争格局。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "关键金属价格变动频繁，给行业发展带来不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，世界行业竞争加剧，关税贸易战升级，关键金属价格变动频繁，给行业发展带来不确定性"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司经营规模不断扩大，产业链不断延伸，尤其是出海规模快速增量，公司的安环管理与经营管理的风险加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着公司经营规模不断扩大，产业链不断延伸，尤其是出海规模快速增量，公司的安环管理与经营管理的风险加大。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "世界经济形势风云变幻，必须保持稳健经营，维持现金流的稳定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "世界经济形势风云变幻，必须保持稳健经营，维持现金流的稳定性。"
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "company_name_mentioned": "吉林敖东药业集团股份有限公司",
+  "produces": [
+    {
+      "name": "中成药",
+      "type": "device",
+      "revenue_proportion": "60.99%",
+      "quote": "中药板块实现收入142,424.92万元，占营业收入比重60.99%"
+    },
+    {
+      "name": "化学药品",
+      "type": "device",
+      "revenue_proportion": "12.62%",
+      "quote": "化学药品板块收入29,473.16万元，占营业收入比重12.62%"
+    },
+    {
+      "name": "连锁药店批发和零售业务",
+      "type": "service",
+      "revenue_proportion": "16.34%",
+      "quote": "连锁药店批发和零售业务收入38,150.69万元，占营业收入比重16.34%"
+    },
+    {
+      "name": "大健康产品（保健食品、食品等）",
+      "type": "device",
+      "revenue_proportion": "7.85%",
+      "quote": "大健康实现销售收入18,336.79万元，占营业收入比重为7.85%。报告期内，公司共生产销售保健功能性食品、膳食营养补充剂等大健康产品200多种"
+    },
+    {
+      "name": "安神补脑液",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主导产品“安神补脑液”，自1983年上市至今已经畅销市场43年"
+    },
+    {
+      "name": "小儿柴桂退热口服液",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品“小儿柴桂退热口服液”作为全国独家专利产品"
+    },
+    {
+      "name": "养血饮口服液",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "养血饮口服液、肾复康片、慢肝解郁胶囊、生脉饮口服液、伸筋片、复方金银花颗粒、杜蛭丸、杞黄益肾口服液等重点培育品种均实现稳步增长"
+    },
+    {
+      "name": "注射用核糖核酸Ⅱ",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "化药核心品种注射用核糖核酸II持续推行“临床+终端”模式"
+    },
+    {
+      "name": "中药配方颗粒",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "配方颗粒已累计获得535个《中药配方颗粒上市备案凭证》"
+    },
+    {
+      "name": "中药饮片",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "中药饮片业务稳健发展"
+    }
+  ],
+  "procures": [
+    {
+      "name": "中药材（如人参、鹿茸等）",
+      "target_product": "中成药、中药配方颗粒、中药饮片、大健康产品",
+      "cost_proportion": null,
+      "quote": "上游行业为中药材种植加工业和原料药制造业"
+    },
+    {
+      "name": "原料药",
+      "target_product": "化学药品",
+      "cost_proportion": null,
+      "quote": "上游行业为中药材种植加工业和原料药制造业"
+    },
+    {
+      "name": "原辅料、包装材料等",
+      "target_product": "药品生产",
+      "cost_proportion": null,
+      "quote": "公司基于信息系统动态优化采购批次与库存结构，实现原材料合理储备"
+    },
+    {
+      "name": "山东奥康医药有限公司供应的商品",
+      "target_product": null,
+      "cost_proportion": "6.32%",
+      "quote": "公司前5名供应商资料：1. 山东奥康医药有限公司，采购额（元）53,867,451.82，占年度采购总额比例6.32%"
+    },
+    {
+      "name": "吉林华康药业股份有限公司供应的商品",
+      "target_product": null,
+      "cost_proportion": "4.17%",
+      "quote": "公司前5名供应商资料：4. 吉林华康药业股份有限公司，采购额（元）35,588,781.58，占年度采购总额比例4.17%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "医疗健康（中医药治疗）",
+      "source_product": "安神补脑液、小儿柴桂退热口服液、养血饮口服液、注射用核糖核酸Ⅱ等",
+      "quote": "安神补脑液...生精补髓，益气养血，强脑安神。用于肾精不足、气血两亏所致的头晕、乏力、健忘、失眠；神经衰弱症见上述证候者。"
+    },
+    {
+      "name": "心脑血管疾病治疗",
+      "source_product": "血府逐瘀口服液、少腹逐瘀颗粒等",
+      "quote": "血府逐瘀口服液...活血祛瘀，行气止痛。用于气滞血瘀所致的胸痹、头痛日久、痛如针刺而有定处、内热烦闷、心悸失眠、易燥易怒。"
+    },
+    {
+      "name": "儿科用药",
+      "source_product": "小儿柴桂退热口服液",
+      "quote": "小儿柴桂退热口服液...发汗解表，清里退热。用于小儿外感发热。"
+    },
+    {
+      "name": "肿瘤辅助治疗",
+      "source_product": "注射用核糖核酸Ⅱ、注射用盐酸平阳霉素",
+      "quote": "注射用核糖核酸Ⅱ...免疫调节药。适用于胰腺癌、肝癌、胃癌、肺癌、乳腺癌、软组织肉瘤及其他癌症的辅助治疗"
+    },
+    {
+      "name": "泌尿系统疾病治疗",
+      "source_product": "肾复康片",
+      "quote": "肾复康片...清热利尿，益肾化浊。用于热淋涩痛，急性肾炎水肿，慢性肾炎急性发作。"
+    },
+    {
+      "name": "糖尿病治疗",
+      "source_product": "金芪降糖胶囊",
+      "quote": "金芪降糖胶囊...清热益气。主治气虚兼内热之消渴病，症见口渴喜饮，易饥多食，气短乏力等，用于轻、中型非胰岛素依赖型糖尿病。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李秀林",
+      "role": "董事长",
+      "quote": "公司负责人李秀林...2000年2月至今任吉林敖东药业集团股份有限公司董事长。"
+    },
+    {
+      "name": "郭淑芹",
+      "role": "副董事长兼总经理",
+      "quote": "2017年7月至今任吉林敖东药业集团股份有限公司副董事长兼总经理、吉林敖东延边药业股份有限公司董事长兼总经理。"
+    },
+    {
+      "name": "杨凯",
+      "role": "董事兼副总经理",
+      "quote": "2017年7月至今任吉林敖东药业集团股份有限公司董事、副总经理。"
+    },
+    {
+      "name": "张淑媛",
+      "role": "董事、副总经理兼财务总监",
+      "quote": "2017年7月至今任吉林敖东药业集团股份有限公司副总经理、财务总监，2020年7月至今任吉林敖东药业集团股份有限公司董事。"
+    },
+    {
+      "name": "王振宇",
+      "role": "董事、副总经理兼董事会秘书",
+      "quote": "2017年7月至今任吉林敖东药业集团股份有限公司董事会秘书，2020年7月至今任吉林敖东药业集团股份有限公司董事，2022年1月至今任吉林敖东药业集团股份有限公司副总经理"
+    },
+    {
+      "name": "赵大龙",
+      "role": "董事、党委书记",
+      "quote": "2020年7月至今任吉林敖东药业集团股份有限公司董事。"
+    },
+    {
+      "name": "李鹏",
+      "role": "独立董事",
+      "quote": "2020年7月至今任吉林敖东药业集团股份有限公司独立董事"
+    },
+    {
+      "name": "肖维维",
+      "role": "独立董事",
+      "quote": "2020年7月至今任吉林敖东药业集团股份有限公司独立董事。"
+    },
+    {
+      "name": "张春颖",
+      "role": "独立董事",
+      "quote": "2025年11月至今，任吉林敖东药业集团股份有限公司独立董事。"
+    },
+    {
+      "name": "林晓林",
+      "role": "副总经理",
+      "quote": "2022年1月至今任吉林敖东药业集团股份有限公司副总经理"
+    },
+    {
+      "name": "王超",
+      "role": "副总经理",
+      "quote": "2025年4月至今任吉林敖东药业集团股份有限公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广发证券股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司为广发证券的第一大股东，采用权益法作为长期股权投资核算，本期投资收益为256,342.03万元。",
+      "quote": "公司采用权益法作为长期股权投资核算，...公司为广发证券的第一大股东。"
+    },
+    {
+      "name": "第一医药",
+      "relation_type": "investor",
+      "business_details": "直接持有第一医药10,988,525股，占第一医药总股本的4.93%",
+      "quote": "直接持有第一医药10,988,525股，占第一医药总股本的4.93%"
+    },
+    {
+      "name": "南京医药",
+      "relation_type": "investor",
+      "business_details": "直接持有南京医药30,159,656股，占南京医药总股本的2.30%",
+      "quote": "直接持有南京医药30,159,656股，占南京医药总股本的2.30%"
+    },
+    {
+      "name": "辽宁成大",
+      "relation_type": "investor",
+      "business_details": "公司及子公司延边药业合计持有辽宁成大103,625,476股，占辽宁成大总股本的6.77%",
+      "quote": "公司及子公司延边药业合计持有辽宁成大103,625,476股，占辽宁成大总股本的6.77%"
+    },
+    {
+      "name": "绿叶制药",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "同时公司还是绿叶制药等上市公司的股东。"
+    },
+    {
+      "name": "山东奥康医药有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前5名供应商之一，年度采购额53,867,451.82元，占比6.32%",
+      "quote": "公司前5名供应商资料：1. 山东奥康医药有限公司，采购额（元）53,867,451.82，占年度采购总额比例6.32%"
+    },
+    {
+      "name": "吉林华康药业股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前5名供应商之一，年度采购额35,588,781.58元，占比4.17%",
+      "quote": "公司前5名供应商资料：4. 吉林华康药业股份有限公司，采购额（元）35,588,781.58，占年度采购总额比例4.17%"
+    },
+    {
+      "name": "延边中医医院延吉市中医医院",
+      "relation_type": "customer",
+      "business_details": "公司前5大客户之一，年度销售额36,411,041.80元，占比1.56%",
+      "quote": "公司前5大客户资料：5. 延边中医医院延吉市中医医院，销售额（元）36,411,041.80，占年度销售总额比例1.56%"
+    },
+    {
+      "name": "珠海广发信德敖东医药产业投资中心（有限合伙）",
+      "relation_type": "joint_venture",
+      "business_details": "公司出资2亿元参与设立，占该基金出资总额的40.00%",
+      "quote": "公司出资2亿元参与设立敖东医药基金，占该基金出资总额的40.00%"
+    },
+    {
+      "name": "吉林敖东延边药业股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司直接持有88,790.00万股，占该公司总股本的99.99％，表决权比例为100％",
+      "quote": "吉林敖东延边药业股份有限公司...我公司直接持有88,790.00万股，占该公司总股本的99.99％，表决权比例为100％"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药制造（中药+化学药品）",
+      "segment_type": "product_line",
+      "revenue_amount": "1,718,980,824.36元",
+      "revenue_proportion": "73.61%",
+      "gross_margin": "55.65%",
+      "yoy_change": "-8.68%",
+      "quote": "分行业：医药...金额1,718,980,824.36...占营业收入比重73.61%...毛利率55.65%...营业收入比上年增减-8.68%"
+    },
+    {
+      "name": "中药",
+      "segment_type": "product_line",
+      "revenue_amount": "1,424,249,226.64元",
+      "revenue_proportion": "60.99%",
+      "gross_margin": "56.68%",
+      "yoy_change": "-11.29%",
+      "quote": "分产品：中药...金额1,424,249,226.64...占营业收入比重60.99%...毛利率56.68%...营业收入比上年增减-11.29%"
+    },
+    {
+      "name": "化学药品",
+      "segment_type": "product_line",
+      "revenue_amount": "294,731,597.72元",
+      "revenue_proportion": "12.62%",
+      "gross_margin": "50.64%",
+      "yoy_change": "6.46%",
+      "quote": "分产品：化学药品...金额294,731,597.72...占营业收入比重12.62%...毛利率50.64%...营业收入比上年增减6.46%"
+    },
+    {
+      "name": "连锁药店批发和零售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "381,506,909.40元",
+      "revenue_proportion": "16.34%",
+      "gross_margin": "25.97%",
+      "yoy_change": "-2.52%",
+      "quote": "分产品：连锁药店批发和零售...金额381,506,909.40...占营业收入比重16.34%...毛利率25.97%...营业收入比上年增减-2.52%"
+    },
+    {
+      "name": "食品（大健康产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "183,367,937.61元",
+      "revenue_proportion": "7.85%",
+      "gross_margin": null,
+      "yoy_change": "-13.56%",
+      "quote": "分产品：食品...金额183,367,937.61...占营业收入比重7.85%...营业收入比上年增减-13.56%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "842,995,112.99元",
+      "revenue_proportion": "36.10%",
+      "gross_margin": "40.05%",
+      "yoy_change": "-12.94%",
+      "quote": "分地区：东北...金额842,995,112.99...占营业收入比重36.10%...毛利率40.05%...营业收入比上年增减-12.94%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "526,546,394.82元",
+      "revenue_proportion": "22.55%",
+      "gross_margin": "53.73%",
+      "yoy_change": "8.51%",
+      "quote": "分地区：华东...金额526,546,394.82...占营业收入比重22.55%...毛利率53.73%...营业收入比上年增减8.51%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "医药产品",
+      "metric_type": "sales_volume",
+      "value": "122,329,361.00盒",
+      "period": "2025年",
+      "quote": "医药 行业分类 销售量 单位 盒 2025年 122,329,361.00"
+    },
+    {
+      "product": "医药产品",
+      "metric_type": "production_volume",
+      "value": "142,388,389.00盒",
+      "period": "2025年",
+      "quote": "医药 行业分类 生产量 单位 盒 2025年 142,388,389.00"
+    },
+    {
+      "product": "医药产品",
+      "metric_type": "inventory_volume",
+      "value": "57,795,219.00盒",
+      "period": "2025年",
+      "quote": "医药 行业分类 库存量 单位 盒 2025年 57,795,219.00"
+    },
+    {
+      "product": "食品（大健康产品）",
+      "metric_type": "sales_volume",
+      "value": "19,174,212.00盒",
+      "period": "2025年",
+      "quote": "食品 行业分类 销售量 单位 盒 2025年 19,174,212.00"
+    },
+    {
+      "product": "食品（大健康产品）",
+      "metric_type": "production_volume",
+      "value": "19,206,786.00盒",
+      "period": "2025年",
+      "quote": "食品 行业分类 生产量 单位 盒 2025年 19,206,786.00"
+    },
+    {
+      "product": "食品（大健康产品）",
+      "metric_type": "inventory_volume",
+      "value": "1,196,293.00盒",
+      "period": "2025年",
+      "quote": "食品 行业分类 库存量 单位 盒 2025年 1,196,293.00"
+    },
+    {
+      "product": "专用化学品制造",
+      "metric_type": "sales_volume",
+      "value": "123,453.00公斤",
+      "period": "2025年",
+      "quote": "专用化学品制造 行业分类 销售量 单位 公斤 2025年 123,453.00"
+    },
+    {
+      "product": "专用化学品制造",
+      "metric_type": "production_volume",
+      "value": "102,000.00公斤",
+      "period": "2025年",
+      "quote": "专用化学品制造 行业分类 生产量 单位 公斤 2025年 102,000.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "吉林敖东延边药业股份有限公司扩建升级项目二期工程项目",
+      "project_type": "capacity_expansion",
+      "location": "吉林省敦化市",
+      "investment_amount": "原计划85,200万元，调整后41,000万元",
+      "designed_capacity": null,
+      "progress": "已按预计进度达到预期可使用状态，已结项。",
+      "expected_completion_time": "2023年12月31日",
+      "quote": "吉林敖东延边药业股份有限公司扩建升级项目二期工程项目...募集资金承诺投资总额85,200万元，调整后投资总额41,000万元...项目达到预定可使用状态日期2023年12月31日"
+    },
+    {
+      "name": "吉林敖东洮南药业股份有限公司自动化生产线建设项目",
+      "project_type": "capacity_expansion",
+      "location": "吉林省洮南市",
+      "investment_amount": "30,600万元",
+      "designed_capacity": null,
+      "progress": "已按预计进度达到预期可使用状态，已结项。",
+      "expected_completion_time": "2023年7月31日",
+      "quote": "吉林敖东洮南药业股份有限公司自动化生产线建设项目...募集资金承诺投资总额30,600万元...项目达到预定可使用状态日期2023年7月31日"
+    },
+    {
+      "name": "吉林敖东延边药业股份有限公司中药配方颗粒项目",
+      "project_type": "capacity_expansion",
+      "location": "吉林省敦化市",
+      "investment_amount": "44,200万元",
+      "designed_capacity": null,
+      "progress": "累计投入27,014.88万元，投资进度61.12%。",
+      "expected_completion_time": "2025年06月30日",
+      "quote": "吉林敖东延边药业股份有限公司中药配方颗粒项目...拟投入募集资金总额44,200万元...截至期末累计投入金额27,014.88万元...投资进度61.12%...项目达到预定可使用状态日期2025年06月30日"
+    },
+    {
+      "name": "吉林敖东延吉药业科技园建设项目（已变更）",
+      "project_type": "capacity_expansion",
+      "location": "吉林省延吉市",
+      "investment_amount": "原计划51,500万元，变更后50,974.83万元用于补充流动资金",
+      "designed_capacity": null,
+      "progress": "已结项，节余资金补充流动资金。",
+      "expected_completion_time": null,
+      "quote": "吉林敖东延吉药业科技园建设项目...拟投入募集资金51,500.00万元...同意将尚未投入的募集资金50,974.83万元及利息的用途变更为永久补充流动资金。"
+    },
+    {
+      "name": "洮南药业厂区改扩建工程建设项目一期工程",
+      "project_type": "construction_project",
+      "location": "吉林省洮南市",
+      "investment_amount": "51,706,049.35元（累计）",
+      "designed_capacity": null,
+      "progress": "进度80.00%",
+      "expected_completion_time": null,
+      "quote": "洮南药业厂区改扩建工程建设项目一期工程...截至报告期末累计实际投入金额51,706,049.35元...进度80.00%"
+    },
+    {
+      "name": "配方颗粒前处理提取车间",
+      "project_type": "capacity_expansion",
+      "location": "吉林省敦化市",
+      "investment_amount": "145,776,005.27元（累计）",
+      "designed_capacity": null,
+      "progress": "进度100.00%",
+      "expected_completion_time": null,
+      "quote": "吉林敖东延边药业股份有限公司中药配方颗粒项目-配方颗粒前处理提取车间...截至报告期末累计实际投入金额145,776,005.27元...进度100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "独家品种、独家剂型产品",
+      "asset_type": "core_technology",
+      "related_product": "丹香清脂颗粒、杜蛭丸、龟芪参口服液等46个产品",
+      "quantitative_info": "46个",
+      "quote": "公司现有生产批准文号630个...包含46个独家品种、独家剂型产品"
+    },
+    {
+      "name": "国家基本医疗保险、工伤保险和生育保险药品目录产品",
+      "asset_type": "certification",
+      "related_product": "214个产品",
+      "quantitative_info": "214个",
+      "quote": "公司共有214个产品被列入《国家基本医疗保险、工伤保险和生育保险药品目录（2025年版）》"
+    },
+    {
+      "name": "国家基本药物目录产品",
+      "asset_type": "certification",
+      "related_product": "93个产品",
+      "quantitative_info": "93个",
+      "quote": "共有93个产品进入《国家基本药物目录（2018年版）》"
+    },
+    {
+      "name": "安神补脑液相关专利",
+      "asset_type": "patent",
+      "related_product": "安神补脑液",
+      "quantitative_info": "四项发明专利",
+      "quote": "安神补脑液累计获得《安神补脑液中维生素B₁的质量控制方法》《安神补脑液的膜生产工艺及其产品》《安神补脑液在制备防治阿尔茨海默病药物中的应用》《安神补脑液在制备治疗抗衰老药物中的应用》四项发明专利"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有国家级企业技术中心、国家级博士后科研工作站。"
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有国家级企业技术中心、国家级博士后科研工作站。"
+    },
+    {
+      "name": "中华老字号",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2024年2月，“敖东”品牌被...认定为第三批“中华老字号”。"
+    },
+    {
+      "name": "参与起草团体标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "两项",
+      "quote": "延边药业...参与起草《全国诚信经营示范企业要求》（T/CERDS6-2023）和《全国优秀诚信企业家要求》（T/CERDS7-2023）两项团体标准"
+    },
+    {
+      "name": "“敖东梅花鹿”品种",
+      "asset_type": "core_technology",
+      "related_product": "鹿系列产品",
+      "quantitative_info": "国内首个以企业命名的国家审定梅花鹿品种",
+      "quote": "公司培育的“敖东梅花鹿”为国内首个以企业命名的国家审定梅花鹿品种"
+    },
+    {
+      "name": "中药配方颗粒备案凭证",
+      "asset_type": "certification",
+      "related_product": "中药配方颗粒",
+      "quantitative_info": "535个",
+      "quote": "配方颗粒已累计获得535个《中药配方颗粒上市备案凭证》"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "32.55%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 32.55%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "23.74%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 23.74%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "16.53%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司前5大客户资料：1. 第一客户，销售额（元）385,932,684.45，占年度销售总额比例16.53%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.32%",
+      "related_entity": "山东奥康医药有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料：1. 山东奥康医药有限公司，采购额（元）53,867,451.82，占年度采购总额比例6.32%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "医药行业受国家政策、集采政策、监管政策等影响较大，医药行业监管趋严，医保谈判降价、集采扩围、退市常态化等政策，压缩企业利润空间，直接对医药企业产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）行业政策风险...医药行业受国家政策、集采政策、监管政策等影响较大..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "医药行业药品原材料，尤其是道地药材受产能波动、市场供需变化影响，采购成本波动较大。部分药材供应链稳定性不足...价格仍呈上涨趋势，挤压企业盈利空间。",
+      "related_entity": null,
+      "related_product": "道地药材",
+      "quote": "（2）原料成本风险...医药行业药品原材料，尤其是道地药材受产能波动、市场供需变化影响，采购成本波动较大..."
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "中药材的生长环境复杂多变，种植技术、采摘时节等因素均会影响其质量，而药品的生产工艺复杂...任何环节的疏漏都可能影响产品质量。国家强化药品全链条监管...对产品质量标准要求大幅提升。",
+      "related_entity": null,
+      "related_product": "中药材、药品",
+      "quote": "（3）产品质量风险...中药材的生长环境复杂多变，种植技术、采摘时节等因素均会影响其质量..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "医药行业同质化竞争加剧，主要体现在产品价格、质量、研发能力、市场营销和品牌建设等方面。集采降价引发价格战...中小企业市场份额受压，利润品种面临需求下滑与竞争挤压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）市场竞争风险...医药行业同质化竞争加剧..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "创新药研发难度加大，临床成功率低，研发周期长、投入高，同时技术迭代快，部分在研项目易面临研发滞后市场变化的风险。仿制药研发受集采影响存在回报下滑等风险。",
+      "related_entity": null,
+      "related_product": "创新药、仿制药",
+      "quote": "（5）药品研发风险...创新药研发难度加大...技术迭代快..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "资本市场波动大，医药板块估值回调，证券投资市值存在波动，同时医药、生物产业基金投资项目受行业周期影响，面临投资回报不及预期、退出困难等风险，影响公司投资收益。",
+      "related_entity": "广发证券、医药产业基金",
+      "related_product": null,
+      "quote": "（6）证券投资风险...资本市场波动大...证券投资市值存在波动..."
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "company_name_mentioned": "江苏图南合金股份有限公司",
+  "produces": [
+    {
+      "name": "铸造高温合金",
+      "type": "material",
+      "revenue_proportion": "23.83%（2025年度）",
+      "quote": "报告期内，公司实现合并营业收入112,572.72万元...其中，铸造高温合金实现销售收入26,822.12万元，较上年同期减少35.58%；"
+    },
+    {
+      "name": "变形高温合金",
+      "type": "material",
+      "revenue_proportion": "47.85%（2025年度）",
+      "quote": "报告期内，公司实现合并营业收入112,572.72万元...变形高温合金实现销售收入53,870.32万元，较上年同期增长3.22%；"
+    },
+    {
+      "name": "特种不锈钢",
+      "type": "material",
+      "revenue_proportion": "5.21%（2025年度）",
+      "quote": "报告期内，公司实现合并营业收入112,572.72万元...特种不锈钢实现销售收入5,863.04万元，较上年同期减少11.02%；"
+    },
+    {
+      "name": "其他合金制品",
+      "type": "material",
+      "revenue_proportion": "9.32%（2025年度）",
+      "quote": "报告期内，公司实现合并营业收入112,572.72万元...其他合金制品实现销售收入10,492.05万元，较上年同期减少36.19%；"
+    },
+    {
+      "name": "中小零部件",
+      "type": "component",
+      "revenue_proportion": "5.25%（2025年度）",
+      "quote": "报告期内，公司实现合并营业收入112,572.72万元...中小零部件实现销售收入5,915.01万元。"
+    },
+    {
+      "name": "铸造高温合金母合金",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司的铸造高温合金包含铸造高温合金母合金及精密铸件...铸造高温合金母合金是用铸造方法成型零件的一类高温合金..."
+    },
+    {
+      "name": "精密铸件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司的铸造高温合金包含铸造高温合金母合金及精密铸件...精密铸件是应用于航空发动机、燃气轮机热端部分的关键部件..."
+    },
+    {
+      "name": "棒材、丝材、管材等型材",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司生产的变形高温合金可通过冷、热加工工艺，形成棒材、丝材、带材、管材等型材..."
+    },
+    {
+      "name": "特种不锈钢棒材和无缝管材",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司生产的特种不锈钢主要以棒材和无缝管材为主..."
+    },
+    {
+      "name": "精密合金、高电阻电热合金、焊丝等",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司其他合金制品主要包括精密合金、高电阻电热合金、焊丝等产品..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "电解镍",
+      "target_product": "高温合金、特种不锈钢等产品",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为电解镍、金属钴、金属铬等金属材料..."
+    },
+    {
+      "name": "金属钴",
+      "target_product": "高温合金、特种不锈钢等产品",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为电解镍、金属钴、金属铬等金属材料..."
+    },
+    {
+      "name": "金属铬",
+      "target_product": "高温合金、特种不锈钢等产品",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为电解镍、金属钴、金属铬等金属材料..."
+    },
+    {
+      "name": "生产用原辅材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "针对军品和高端民品订单，公司在《合格供应商名录》范围内采购品质纯净、质量稳定的生产用原辅材料；"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空发动机",
+      "source_product": "铸造高温合金、变形高温合金、特种不锈钢",
+      "quote": "产品广泛应用于航空发动机、燃气轮机、石油化工等军用及高端民用领域。"
+    },
+    {
+      "name": "燃气轮机",
+      "source_product": "铸造高温合金、变形高温合金、特种不锈钢",
+      "quote": "产品广泛应用于航空发动机、燃气轮机、石油化工等军用及高端民用领域。"
+    },
+    {
+      "name": "石油化工",
+      "source_product": "变形高温合金、其他合金制品",
+      "quote": "产品广泛应用于航空发动机、燃气轮机、石油化工等军用及高端民用领域。"
+    },
+    {
+      "name": "核电装备",
+      "source_product": "变形高温合金、特种不锈钢",
+      "quote": "公司生产的变形高温合金...产品主要应用于航空、燃气轮机、石油化工、核电及火电等领域。"
+    },
+    {
+      "name": "飞机制造",
+      "source_product": "铸造高温合金、变形高温合金、特种不锈钢",
+      "quote": "飞机、航空发动机产品销售：一类为按照年度订货计划下达的订单..."
+    },
+    {
+      "name": "舰船",
+      "source_product": "变形高温合金、特种不锈钢",
+      "quote": "公司生产的特种不锈钢主要以棒材和无缝管材为主，特种不锈钢棒材主要应用于航空、交通运输、船舶及核电等领域；"
+    },
+    {
+      "name": "汽车增压涡轮",
+      "source_product": "高温合金等先进金属材料",
+      "quote": "高温合金等先进金属材料已经广泛应用在航空航天发动机、燃气轮机、核电、汽车增压涡轮、石油化工、玻璃制造、原子能工业等产业领域..."
+    },
+    {
+      "name": "高铁",
+      "source_product": "中小零部件",
+      "quote": "中小零部件主要包括异形结构件、普通类紧固件及高强类紧固件、密封件以及作动筒类零部件，该类产品具有种类多、数量大、结构多样的特点，目前主要应用于航空领域，可拓展应用至燃机、高铁、船舶、石化等领域高端装备的制造。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "万柏方",
+      "role": "董事长、总经理",
+      "quote": "公司负责人万柏方、主管会计工作负责人何剑及会计机构负责人(会计主管人员)何剑声明..."
+    },
+    {
+      "name": "何剑",
+      "role": "董事、副总经理、财务总监、董事会秘书",
+      "quote": "公司负责人万柏方、主管会计工作负责人何剑及会计机构负责人(会计主管人员)何剑声明..."
+    },
+    {
+      "name": "李洪东",
+      "role": "职工代表董事、副总经理",
+      "quote": "李洪东先生，中国国籍，无境外永久居留权，本科学历...2024年1月至今任公司董事、副总经理。"
+    },
+    {
+      "name": "陈建平",
+      "role": "董事",
+      "quote": "陈建平先生，中国国籍，无境外永久居留权，中欧国际商学院 MBA硕士研究生学历...2021年1月至今任公司董事；"
+    },
+    {
+      "name": "张建国",
+      "role": "副总经理",
+      "quote": "张建国先生，中国国籍，无境外永久居留权，大专学历...2015年1月至今任公司副总经理。"
+    },
+    {
+      "name": "王林涛",
+      "role": "总工程师",
+      "quote": "王林涛先生，中国国籍，无境外永久居留权，硕士研究生学历...2018年1月至今任公司总工程师。"
+    },
+    {
+      "name": "金建海",
+      "role": "独立董事",
+      "quote": "金建海先生，中国国籍，无境外永久居留权，硕士研究生学历，注册会计师，高级会计师...2024年1月至今任公司独立董事；"
+    },
+    {
+      "name": "李伟群",
+      "role": "独立董事",
+      "quote": "李伟群先生，中国国籍，无境外永久居留权，法学博士，华东政法大学法学学科博士后，教授，博士生导师...2024年1月至今任公司独立董事。"
+    },
+    {
+      "name": "周珺",
+      "role": "独立董事",
+      "quote": "周珺先生，中国国籍，无境外永久居留权，法学博士，教授...2024年1月至今任公司独立董事；"
+    },
+    {
+      "name": "范路璐",
+      "role": "证券事务代表",
+      "quote": "董事会秘书 证券事务代表 姓名 何剑 范路璐"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "沈阳图南精密部件制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，开展中小零部件生产制造、销售业务。",
+      "quote": "并以图南智能、图南部件（以下合称“沈阳图南”）为主体开展中小零部件生产制造、销售业务。"
+    },
+    {
+      "name": "沈阳图南智能制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，开展中小零部件生产制造、销售业务。",
+      "quote": "并以图南智能、图南部件（以下合称“沈阳图南”）为主体开展中小零部件生产制造、销售业务。"
+    },
+    {
+      "name": "丹阳立枫投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "实际控制人万柏方、万金宜的一致行动人，控股股东。",
+      "quote": "实际控制人万柏方、万金宜的一致行动人立枫投资承诺..."
+    },
+    {
+      "name": "丹阳立松投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "持股5%以上的股东。",
+      "quote": "持股5%以上的股东立松投资（本次公开发行前持有公司5.25%的股份）..."
+    },
+    {
+      "name": "丹阳盛宇鸿图创业投资合伙企业（有限合伙）",
+      "relation_type": "joint_venture",
+      "business_details": "公司作为有限合伙人参与的投资基金。",
+      "quote": "公司作为有限合伙人与上海盛宇股权投资基金管理有限公司、陈建平等共同投资设立的丹阳盛宇鸿图创业投资合伙企业（有限合伙）（以下简称“基金”）..."
+    },
+    {
+      "name": "南京耀尊金属材料有限公司",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户之一（经销模式终端客户）。",
+      "quote": "4 客户4【南京耀尊金属材料有限公司】 59,694,319.17 5.30%"
+    },
+    {
+      "name": "西部超导材料科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之一。",
+      "quote": "4 供应商4【西部超导材料科技股份有限公司】 38,801,805.35 3.99%"
+    },
+    {
+      "name": "上海盛宇股权投资基金管理有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与公司共同投资设立丹阳盛宇鸿图创业投资合伙企业（有限合伙）。",
+      "quote": "公司作为有限合伙人与上海盛宇股权投资基金管理有限公司、陈建平等共同投资设立..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "有色金属冶炼和压延加工业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "970,475,202.45元",
+      "revenue_proportion": "86.21%",
+      "gross_margin": "28.66%",
+      "yoy_change": "-16.95%",
+      "quote": "分行业：有色金属冶炼和压延加工 970,475,202.45 86.21%...1,168,578,667.55 92.91% -16.95%"
+    },
+    {
+      "name": "零部件制造业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "59,150,099.89元",
+      "revenue_proportion": "5.25%",
+      "gross_margin": "21.89%",
+      "yoy_change": null,
+      "quote": "分行业：零部件制造 59,150,099.89 5.25% - - -"
+    },
+    {
+      "name": "其他行业业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "96,101,912.71元",
+      "revenue_proportion": "8.54%",
+      "gross_margin": "25.46%",
+      "yoy_change": "7.78%",
+      "quote": "分行业：其他行业001 96,101,912.71 8.54% 89,168,638.01 7.09% 7.78%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,009,911,356.24元",
+      "revenue_proportion": "89.71%",
+      "gross_margin": "27.04%",
+      "yoy_change": "-11.37%",
+      "quote": "分地区：境内 1,009,911,356.24 89.71%...1,139,488,534.38 90.60% -11.37%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "115,815,858.81元",
+      "revenue_proportion": "10.29%",
+      "gross_margin": "36.68%",
+      "yoy_change": "-2.07%",
+      "quote": "分地区：境外 115,815,858.81 10.29%...118,258,771.18 9.40% -2.07%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "954,479,423.20元",
+      "revenue_proportion": "84.79%",
+      "gross_margin": "28.40%",
+      "yoy_change": "-13.33%",
+      "quote": "分销售模式：直销 954,479,423.20 84.79%...1,101,297,787.19 87.56% -13.33%"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "171,247,791.85元",
+      "revenue_proportion": "15.21%",
+      "gross_margin": "25.96%",
+      "yoy_change": "9.46%",
+      "quote": "分销售模式：经销 171,247,791.85 15.21%...156,449,518.37 12.44% 9.46%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "高温合金、特种不锈钢等高性能合金材料及其制品（有色金属冶炼和压延加工业务）",
+      "metric_type": "sales_volume",
+      "value": "4,632.81吨",
+      "period": "2025年度",
+      "quote": "2025年度公司高温合金、特种不锈钢等高性能合金材料及其制品销售总量为4,632.81吨，较2024年度减少5.35%"
+    },
+    {
+      "product": "高温合金、特种不锈钢等高性能合金材料及其制品（有色金属冶炼和压延加工业务）",
+      "metric_type": "production_volume",
+      "value": "4,399.41吨",
+      "period": "2025年度",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 生产量 吨 4,399.41 4,976.88 -11.60%"
+    },
+    {
+      "product": "高温合金、特种不锈钢等高性能合金材料及其制品（有色金属冶炼和压延加工业务）",
+      "metric_type": "inventory_volume",
+      "value": "510.28吨",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 库存量 吨 510.28 743.68 -31.38%"
+    },
+    {
+      "product": "中小零部件（零部件制造业务）",
+      "metric_type": "sales_volume",
+      "value": "54.22万件（套）",
+      "period": "2025年度",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 万件（套） 54.22 - -"
+    },
+    {
+      "product": "中小零部件（零部件制造业务）",
+      "metric_type": "production_volume",
+      "value": "296.52万件（套）",
+      "period": "2025年度",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 生产量 万件（套） 296.52 - -"
+    },
+    {
+      "product": "中小零部件（零部件制造业务）",
+      "metric_type": "inventory_volume",
+      "value": "242.30万件（套）",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 库存量 万件（套） 242.30 - -"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产1,000万件航空用中小零部件自动化产线建设项目",
+      "project_type": "capacity_expansion",
+      "location": "沈阳",
+      "investment_amount": "559,189,448.50元（累计实际投入）",
+      "designed_capacity": "年产1,000万件航空用中小零部件",
+      "progress": "73.90%",
+      "expected_completion_time": null,
+      "quote": "图南智能“年产1,000万件航空用中小零部件自动化产线建设项目”本期持续开展各项建设投入工作，其主要建设内容已全面完成，项目已具备1,000万件航空用中小零部件的年度生产交付能力。"
+    },
+    {
+      "name": "航空用中小零部件自动化加工产线建设项目",
+      "project_type": "capacity_expansion",
+      "location": "沈阳",
+      "investment_amount": null,
+      "designed_capacity": "年产各类航空用中小零部件50万件（套）",
+      "progress": "已建成投产",
+      "expected_completion_time": null,
+      "quote": "图南部件“航空用中小零部件自动化加工产线建设项目”已建成投产，形成年产各类航空用中小零部件50万件（套）加工生产能力；"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超纯净高温合金熔炼技术",
+      "asset_type": "core_technology",
+      "related_product": "铸造高温合金、变形高温合金",
+      "quantitative_info": null,
+      "quote": "目前，公司所掌握的关键核心技术包括超纯净高温合金熔炼技术..."
+    },
+    {
+      "name": "组织均匀性控制技术",
+      "asset_type": "core_technology",
+      "related_product": "高温合金材料",
+      "quantitative_info": null,
+      "quote": "目前，公司所掌握的关键核心技术包括...组织均匀性控制技术..."
+    },
+    {
+      "name": "近净型熔模精密铸造技术",
+      "asset_type": "core_technology",
+      "related_product": "大型高温合金复杂薄壁精密铸件",
+      "quantitative_info": null,
+      "quote": "在引进国际先进工艺的基础上实现了技术再创新，建立了完善的大型复杂薄壁件的精密铸造体系，形成了先进的近净型熔模精密铸造技术..."
+    },
+    {
+      "name": "高精度无缝管材制造技术",
+      "asset_type": "core_technology",
+      "related_product": "特种不锈钢无缝管材",
+      "quantitative_info": null,
+      "quote": "公司摒除传统制管工艺的不足之处，开展了高精度无缝管材制造技术开发和技术创新..."
+    },
+    {
+      "name": "金属材料激光选区熔化成形技术",
+      "asset_type": "core_technology",
+      "related_product": "增材制造产品",
+      "quantitative_info": null,
+      "quote": "目前，公司所掌握的关键核心技术包括...金属材料激光选区熔化成形技术..."
+    },
+    {
+      "name": "航空用中小零部件精密加工技术",
+      "asset_type": "core_technology",
+      "related_product": "中小零部件",
+      "quantitative_info": null,
+      "quote": "目前，公司所掌握的关键核心技术包括...航空用中小零部件精密加工技术等。"
+    },
+    {
+      "name": "国家发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得45项",
+      "quote": "截至报告期末，公司累计获得国家发明专利授权45项，实用新型专利授权20项。"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得20项",
+      "quote": "截至报告期末，公司累计获得国家发明专利授权45项，实用新型专利授权20项。"
+    },
+    {
+      "name": "GB/T19001-2016质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已通过 GB/T19001-2016质量管理体系、AS9100D航空航天质量管理体系、IATF 16949:2016汽车质量管理体系和API Q1石油天然气行业质量管理体系等多项质量管理体系认证。"
+    },
+    {
+      "name": "AS9100D航空航天质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已通过 GB/T19001-2016质量管理体系、AS9100D航空航天质量管理体系、IATF 16949:2016汽车质量管理体系和API Q1石油天然气行业质量管理体系等多项质量管理体系认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "58.31%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 58.31%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "36.81%",
+      "related_entity": "客户1",
+      "period": "2025年度",
+      "quote": "1 客户1 414,333,324.64 36.81%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "63.53%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 63.53%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "25.79%",
+      "related_entity": "供应商1",
+      "period": "2025年度",
+      "quote": "1 供应商1 250,644,239.44 25.79%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "1、客户集中度较高的风险...公司主要下游客户在其所处行业均占据市场优势地位...如果现有客户需求受国家国防政策变化的影响而大幅下降，则较高的客户集中度将对公司的经营产生一定的影响。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "我国航空航天行业高度集中的经营模式导致上游配套企业普遍具有客户集中的特征。公司生产的高性能合金材料及其制品已通过了多款航空发动机型号验证，成为了国内大型航空发动机制造厂商的主要供应商之一...如果现有客户需求受国家国防政策变化的影响而大幅下降，则较高的客户集中度将对公司的经营产生一定的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、客户集中度较高的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "军品的研制均需经过立项、方案论证、工程研制、定型等阶段，从研制到实现销售的研发周期长、研发投入高、研发风险大...如果未来公司新产品的研发失败或者未能在规定期限内通过客户的论证或考核，将影响公司新产品作为定型产品的批量销售，对公司未来业绩增长带来一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、军品市场开发风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司所从事的军品科研、生产和销售业务需要取得相应的军工资质...如果未来公司因政策调整等原因不能持续取得这些资格，则将面临重大风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、许可资质丧失的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司部分销售合同约定的产品价格为暂定价格...如果最终审定价格与暂定价格差异较大，公司存在收入及业绩波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、暂定价格与审定价格差异风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "高温合金行业是技术密集型行业...虽然公司已建立了完善的保密管理制度，但若个别相关人员在有意或无意状态下...泄露了公司个别重要的工艺、技术数据、研发成果或其他敏感信息，会给公司生产经营带来一定负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、技术泄密的风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "尽管公司一直致力于科技创新...但不排除国内外竞争对手或潜在竞争对手率先在上述领域取得重大突破，而推出更先进、更具竞争力的技术和产品，或出现其他替代产品和技术，从而使本公司的产品和技术失去领先优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、技术不能保持先进性的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品的主要原材料为电解镍、金属钴、金属铬等金属材料，其价格的波动对本行业原材料的采购价格具有较大影响...如果原材料价格持续上升，产品成本上升，而产品售价无法及时相应调整，将会对毛利率和经营业绩造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、原材料价格上涨风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "根据《武器装备科研生产单位保密资质管理办法》...虽然公司采取了各项有效措施保守国家秘密，但不排除一些意外情况发生导致有关国家秘密泄露，进而可能对公司产生一定的不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "8、国家秘密泄露的风险"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "本期期末存货金额（包括原材料、在产品、库存商品、发出商品等）大幅增加...因相关产品从生产交付到收入确认需要一定周期，期末发出商品余额大幅增加所致。",
+      "related_entity": null,
+      "related_product": "中小零部件",
+      "quote": "存货期末金额比期初增长105.40%，主要为本期沈阳图南在手订单充足，中小零部件产品已进入规模化转产阶段，期末相关的原材料、在产品、库存商品余额大幅增加，同时因相关产品从生产交付到收入确认需要一定周期，期末发出商品余额大幅增加所致。"
+    }
+  ]
+}

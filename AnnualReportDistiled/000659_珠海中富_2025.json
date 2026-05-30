@@ -1,0 +1,488 @@
+{
+  "company_name_mentioned": "珠海中富实业股份有限公司",
+  "produces": [
+    {
+      "name": "PET瓶",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "PET瓶胚",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "标签",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "外包装薄膜",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "胶罐",
+      "type": "device",
+      "revenue_proportion": "1.01%",
+      "quote": "分产品：... 胶罐业务 9,978,963.86 1.01% ..."
+    },
+    {
+      "name": "饮料代加工（OEM）服务",
+      "type": "service",
+      "revenue_proportion": "34.67%",
+      "quote": "分产品：饮料加工 342,252,759.61 34.67% ..."
+    },
+    {
+      "name": "饮料包装制品",
+      "type": "device",
+      "revenue_proportion": "62.90%",
+      "quote": "分产品：饮料包装制品 620,978,629.44 62.90% ..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "PET原料",
+      "target_product": "PET瓶、瓶胚等",
+      "cost_proportion": "40.09%",
+      "quote": "饮料行业（包装+代工） 原材料 333,749,209.42 40.09% ..."
+    },
+    {
+      "name": "供应商1",
+      "target_product": null,
+      "cost_proportion": "19.16%",
+      "quote": "公司前5大供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商1 102,660,819.16 19.16%"
+    },
+    {
+      "name": "供应商2",
+      "target_product": null,
+      "cost_proportion": "8.90%",
+      "quote": "公司前5大供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 2 供应商2 47,667,873.00 8.90%"
+    },
+    {
+      "name": "供应商3",
+      "target_product": null,
+      "cost_proportion": "5.80%",
+      "quote": "公司前5大供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 3 供应商3 31,072,987.00 5.80%"
+    },
+    {
+      "name": "供应商4",
+      "target_product": null,
+      "cost_proportion": "5.27%",
+      "quote": "公司前5大供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 4 供应商4 28,205,094.80 5.27%"
+    },
+    {
+      "name": "供应商5",
+      "target_product": null,
+      "cost_proportion": "4.43%",
+      "quote": "公司前5大供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 5 供应商5 23,753,928.00 4.43%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "碳酸饮料包装",
+      "source_product": "PET瓶、PET瓶胚等",
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "热灌装饮料包装",
+      "source_product": "PET瓶、PET瓶胚等",
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "饮用水包装",
+      "source_product": "PET瓶、PET瓶胚等",
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "啤酒包装",
+      "source_product": "PET瓶、PET瓶胚等",
+      "quote": "公司目前主要从事碳酸饮料、热灌装饮料、饮用水和啤酒包装用 PET 瓶、PET 瓶胚、标签、外包装薄膜、胶罐的生产与销售"
+    },
+    {
+      "name": "食品包装、药品包装、化工包装",
+      "source_product": "PET包装",
+      "quote": "近年来，PET 包装除广泛用于包装饮用水、碳酸饮料、茶饮料和果汁饮料等以外，还用于食品包装、药品包装、化工包装等方面"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "许仁硕",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人许仁硕... 公司的法定代表人 许仁硕"
+    },
+    {
+      "name": "高加",
+      "role": "总经理",
+      "quote": "主管会计工作负责人高加... 2025年03月14日 董事会聘任"
+    },
+    {
+      "name": "陈衔佩",
+      "role": "副董事长",
+      "quote": "副董事长 陈衔佩"
+    },
+    {
+      "name": "韩惠明",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书 韩惠明"
+    },
+    {
+      "name": "曾建辉",
+      "role": "财务总监",
+      "quote": "会计机构负责人（会计主管人员）曾建辉"
+    },
+    {
+      "name": "赵光辉",
+      "role": "副总经理",
+      "quote": "副总经理 赵光辉"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "陕西新丝路进取一号投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "截至目前，其持有公司股份 201,961,208 股，占公司总股本的15.71%，为公司第一大股东。... 陕西新丝路进取一号投资合伙企业（有限合伙）成为公司的控股股东。"
+    },
+    {
+      "name": "深圳市捷安德实业有限公司",
+      "relation_type": "investor",
+      "business_details": "历史控股股东",
+      "quote": "2015年1月20日... 公司控股股东变更为深圳市捷安德实业有限公司。"
+    },
+    {
+      "name": "Asia Bottles(HK) Company Limited",
+      "relation_type": "investor",
+      "business_details": "历史控股股东",
+      "quote": "2007年10月18日... 控股股东变更为 Asia Bottles(HK) Company Limited。"
+    },
+    {
+      "name": "新疆盛林智慧智能制造有限公司",
+      "relation_type": "customer",
+      "business_details": "公司子公司新疆中富包装有限公司向其出售不动产",
+      "quote": "公司全资子公司新疆中富包装有限公司向新疆盛林智慧智能制造有限公司出售其名下不动产"
+    },
+    {
+      "name": "陕西仁创科能经营管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东的执行事务合伙人",
+      "quote": "陕西仁创科能 指 陕西仁创科能经营管理有限公司（原名：陕西西咸新区新丝路资产管理有限公司）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "饮料行业（包装+代工）",
+      "segment_type": "other",
+      "revenue_amount": "973,210,352.91",
+      "revenue_proportion": "98.58%",
+      "gross_margin": "15.56%",
+      "yoy_change": "-3.36%",
+      "quote": "分行业 饮料行业（包装+代工） 973,210,352.91 98.58% ... 毛利率 15.56% ... 营业收入比上年同期增减 -3.36%"
+    },
+    {
+      "name": "处置投资性房地产",
+      "segment_type": "other",
+      "revenue_amount": "14,055,479.15",
+      "revenue_proportion": "1.42%",
+      "gross_margin": "22.62%",
+      "yoy_change": "100.00%",
+      "quote": "分行业：处置投资性房地产 14,055,479.15 1.42% ... 毛利率 22.62% ... 营业收入比上年同期增减 100.00%"
+    },
+    {
+      "name": "饮料包装制品",
+      "segment_type": "product_line",
+      "revenue_amount": "620,978,629.44",
+      "revenue_proportion": "62.90%",
+      "gross_margin": "23.65%",
+      "yoy_change": "-4.22%",
+      "quote": "分产品 饮料包装制品 620,978,629.44 62.90% ... 毛利率 23.65% ... 营业收入比上年同期增减 -4.22%"
+    },
+    {
+      "name": "饮料加工",
+      "segment_type": "product_line",
+      "revenue_amount": "342,252,759.61",
+      "revenue_proportion": "34.67%",
+      "gross_margin": "1.20%",
+      "yoy_change": "-1.06%",
+      "quote": "分产品 饮料加工 342,252,759.61 34.67% ... 毛利率 1.20% ... 营业收入比上年同期增减 -1.06%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "231,458,181.14",
+      "revenue_proportion": "23.44%",
+      "gross_margin": "15.37%",
+      "yoy_change": "0.72%",
+      "quote": "分地区 华南地区 231,458,181.14 23.44% ... 毛利率 15.37% ... 营业收入比上年同期增减 0.72%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "120,702,055.48",
+      "revenue_proportion": "12.23%",
+      "gross_margin": "12.54%",
+      "yoy_change": "21.49%",
+      "quote": "分地区 东北地区 120,702,055.48 12.23% ... 毛利率 12.54% ... 营业收入比上年同期增减 21.49%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "216,095,469.33",
+      "revenue_proportion": "21.89%",
+      "gross_margin": "11.54%",
+      "yoy_change": "-23.22%",
+      "quote": "分地区 西南地区 216,095,469.33 21.89% ... 毛利率 11.54% ... 营业收入比上年同期增减 -23.22%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "126,391,458.00",
+      "revenue_proportion": "12.80%",
+      "gross_margin": "15.85%",
+      "yoy_change": "29.20%",
+      "quote": "分地区 西北地区 126,391,458.00 12.80% ... 毛利率 15.85% ... 营业收入比上年同期增减 29.20%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "973,210,352.91",
+      "revenue_proportion": "98.58%",
+      "gross_margin": "15.56%",
+      "yoy_change": "-3.36%",
+      "quote": "分销售模式 直销 973,210,352.91 98.58% ... 毛利率 15.56% ... 营业收入比上年同期增减 -3.36%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "瓶胚",
+      "metric_type": "sales_volume",
+      "value": "5,874,864,840.00",
+      "period": "2025年",
+      "quote": "瓶胚 销售量 支 5,874,864,840.00"
+    },
+    {
+      "product": "瓶胚",
+      "metric_type": "production_volume",
+      "value": "5,973,744,514.00",
+      "period": "2025年",
+      "quote": "瓶胚 生产量 支 5,973,744,514.00"
+    },
+    {
+      "product": "瓶胚",
+      "metric_type": "inventory_volume",
+      "value": "454,990,526.00",
+      "period": "2025年末",
+      "quote": "瓶胚 库存量 支 454,990,526.00"
+    },
+    {
+      "product": "PET瓶",
+      "metric_type": "sales_volume",
+      "value": "1,323,777,550.00",
+      "period": "2025年",
+      "quote": "PET瓶 销售量 支 1,323,777,550.00"
+    },
+    {
+      "product": "PET瓶",
+      "metric_type": "production_volume",
+      "value": "1,323,661,040.00",
+      "period": "2025年",
+      "quote": "PET瓶 生产量 支 1,323,661,040.00"
+    },
+    {
+      "product": "PET瓶",
+      "metric_type": "inventory_volume",
+      "value": "114,592.00",
+      "period": "2025年末",
+      "quote": "PET瓶 库存量 支 114,592.00"
+    },
+    {
+      "product": "OEM饮料",
+      "metric_type": "sales_volume",
+      "value": "1,145,871,682.00",
+      "period": "2025年",
+      "quote": "OEM饮料 销售量 支 1,145,871,682.00"
+    },
+    {
+      "product": "OEM饮料",
+      "metric_type": "production_volume",
+      "value": "1,143,466,532.00",
+      "period": "2025年",
+      "quote": "OEM饮料 生产量 支 1,143,466,532.00"
+    },
+    {
+      "product": "OEM饮料",
+      "metric_type": "inventory_volume",
+      "value": "6,954,997.00",
+      "period": "2025年末",
+      "quote": "OEM饮料 库存量 支 6,954,997.00"
+    },
+    {
+      "product": "胶膜",
+      "metric_type": "sales_volume",
+      "value": "6,800,474.57",
+      "period": "2025年",
+      "quote": "胶膜 销售量 公斤 6,800,474.57"
+    },
+    {
+      "product": "胶膜",
+      "metric_type": "production_volume",
+      "value": "6,787,690.70",
+      "period": "2025年",
+      "quote": "胶膜 生产量 公斤 6,787,690.70"
+    },
+    {
+      "product": "胶膜",
+      "metric_type": "inventory_volume",
+      "value": "340,899.13",
+      "period": "2025年末",
+      "quote": "胶膜 库存量 公斤 340,899.13"
+    },
+    {
+      "product": "胶罐",
+      "metric_type": "sales_volume",
+      "value": "466,535.00",
+      "period": "2025年",
+      "quote": "胶罐 销售量 个 466,535.00"
+    },
+    {
+      "product": "胶罐",
+      "metric_type": "production_volume",
+      "value": "455,879.00",
+      "period": "2025年",
+      "quote": "胶罐 生产量 个 455,879.00"
+    },
+    {
+      "product": "胶罐",
+      "metric_type": "inventory_volume",
+      "value": "18,579.00",
+      "period": "2025年末",
+      "quote": "胶罐 库存量 个 18,579.00"
+    },
+    {
+      "product": "标签",
+      "metric_type": "sales_volume",
+      "value": "41,597.50",
+      "period": "2025年",
+      "quote": "标签 销售量 万张 41,597.50"
+    },
+    {
+      "product": "标签",
+      "metric_type": "production_volume",
+      "value": "42,309.21",
+      "period": "2025年",
+      "quote": "标签 生产量 万张 42,309.21"
+    },
+    {
+      "product": "标签",
+      "metric_type": "inventory_volume",
+      "value": "910.66",
+      "period": "2025年末",
+      "quote": "标签 库存量 万张 910.66"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新增长沙、青岛、北京等工厂的瓶胚线",
+      "project_type": "capacity_expansion",
+      "location": "长沙、青岛、北京等",
+      "investment_amount": null,
+      "designed_capacity": "增加瓶胚年产能4万吨",
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "报告期内... 新增长沙、青岛、北京等工厂的瓶胚线，增加瓶胚年产能 4 万吨"
+    },
+    {
+      "name": "新增上海的无菌线和中山的超洁净线",
+      "project_type": "capacity_expansion",
+      "location": "上海、中山",
+      "investment_amount": null,
+      "designed_capacity": "增加无菌类产品产能 2.2 亿瓶",
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "新增上海的无菌线和中山的超洁净线，增加无菌类产品产能 2.2 亿瓶"
+    },
+    {
+      "name": "新增沈阳的易拉罐线",
+      "project_type": "capacity_expansion",
+      "location": "沈阳",
+      "investment_amount": null,
+      "designed_capacity": "增加易拉罐产品产能3.6亿罐",
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "新增沈阳的易拉罐线，增加易拉罐产品产能3.6亿罐"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "工程技术中心",
+      "asset_type": "technical_platform",
+      "related_product": "饮料包装、PET啤酒包装",
+      "quantitative_info": "珠海市重点企业技术中心",
+      "quote": "公司工程技术中心具有国内领先的饮料及PET啤酒包装研发能力... 公司的研发机构工程技术中心是珠海市重点企业技术中心"
+    },
+    {
+      "name": "高新技术企业资格",
+      "asset_type": "certification",
+      "related_product": "PET啤酒瓶",
+      "quantitative_info": null,
+      "quote": "全资子公司珠海保税区中富聚酯啤酒瓶有限公司保持“高新技术企业”与“专精特新中小企业”资格"
+    },
+    {
+      "name": "专精特新中小企业资格",
+      "asset_type": "certification",
+      "related_product": "PET啤酒瓶",
+      "quantitative_info": null,
+      "quote": "全资子公司珠海保税区中富聚酯啤酒瓶有限公司保持“高新技术企业”与“专精特新中小企业”资格"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "66.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 66.98%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "33.00%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "1 客户1 308,481,059.57 33.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "43.56%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 43.56%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "19.16%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "1 供应商1 102,660,819.16 19.16%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "饮料包装市场竞争仍然激烈，产能优势不能充分发挥，产品成本较高。公司业务模式偏向加工，设备专用性强，产品转型难度大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、饮料包装市场竞争激烈的风险 饮料包装市场竞争仍然激烈，产能优势不能充分发挥，产品成本较高。公司业务模式偏向加工，设备专用性强，产品转型难度大。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "由于行业客户比较集中，公司的销售依赖于几个主要的客户，这些主要客户的市场表现对公司的影响较大。在行业竞争激烈的环境下，生产商为争取订单相互存在激烈的市场竞争。近年来，客户存在自我配套减少外购的可能，将直接影响现有产品的生产和销售。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、客户集中及自我配套的风险 由于行业客户比较集中，公司的销售依赖于几个主要的客户，这些主要客户的市场表现对公司的影响较大。在行业竞争激烈的环境下，生产商为争取订单相互存在激烈的市场竞争。近年来，客户存在自我配套减少外购的可能，将直接影响现有产品的生产和销售。"
+    }
+  ]
+}

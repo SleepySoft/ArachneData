@@ -1,0 +1,473 @@
+{
+  "company_name_mentioned": "山东金岭矿业股份有限公司",
+  "produces": [
+    {
+      "name": "铁精粉",
+      "type": "material",
+      "revenue_proportion": "69.46%",
+      "quote": "公司主要产品铁精粉……铁精粉115,555.43万元，占营业收入比重69.46%"
+    },
+    {
+      "name": "球团矿",
+      "type": "material",
+      "revenue_proportion": "18.14%",
+      "quote": "球团301,757,649.41元，占营业收入比重18.14%"
+    },
+    {
+      "name": "铜精粉",
+      "type": "material",
+      "revenue_proportion": "5.78%",
+      "quote": "铜精粉96,228,616.26元，占营业收入比重5.78%"
+    },
+    {
+      "name": "铲运机、破碎机、矿车、罐笼等设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司下属单位矿业服务事业部所生产的铲运机、破碎机、矿车、罐笼等设备主要用于自用、国内各规模矿山企业"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铁矿石",
+      "target_product": "铁精粉",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料铁矿石来源于自产和外购"
+    }
+  ],
+  "applications": [
+    {
+      "name": "黑色冶炼企业及各大钢厂",
+      "source_product": "铁精粉",
+      "quote": "公司的主要产品铁精粉主要销售给黑色冶炼企业及各大钢厂"
+    },
+    {
+      "name": "高炉冶炼",
+      "source_product": "球团矿",
+      "quote": "公司球团矿品位63±3%，主要销售给黑色冶炼企业及各大钢厂，用于高炉冶炼。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王其成",
+      "role": "公司负责人/总经理",
+      "quote": "公司负责人王其成、主管会计工作负责人邱卫东及会计机构负责人（会计主管人员）毕伟声明"
+    },
+    {
+      "name": "邱卫东",
+      "role": "主管会计工作负责人/董事会秘书/财务负责人",
+      "quote": "主管会计工作负责人邱卫东；董事会秘书 邱卫东；财务负责人 邱卫东"
+    },
+    {
+      "name": "毕伟",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）毕伟"
+    },
+    {
+      "name": "迟明杰",
+      "role": "董事长/董事",
+      "quote": "迟明杰 男 52 董事长；迟明杰 男 52 董事"
+    },
+    {
+      "name": "王尧伟",
+      "role": "董事",
+      "quote": "王尧伟 男 56 董事"
+    },
+    {
+      "name": "刘纯",
+      "role": "董事",
+      "quote": "刘纯 男 57 董事"
+    },
+    {
+      "name": "吕永刚",
+      "role": "董事",
+      "quote": "吕永刚 男 57 董事"
+    },
+    {
+      "name": "肖岩",
+      "role": "独立董事",
+      "quote": "肖岩 男 57 独立董事"
+    },
+    {
+      "name": "刘江宁",
+      "role": "独立董事",
+      "quote": "刘江宁 女 47 独立董事"
+    },
+    {
+      "name": "刘元锁",
+      "role": "独立董事",
+      "quote": "刘元锁 男 53 独立董事"
+    },
+    {
+      "name": "马金宝",
+      "role": "副总经理",
+      "quote": "马金宝 男 44 副总经理"
+    },
+    {
+      "name": "董峻岭",
+      "role": "副总经理/总工程师",
+      "quote": "董峻岭 男 55 副总经理；董峻岭 男 55 副总经理、总工程师"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "山东钢铁集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东（持有58.41%表决权）",
+      "quote": "控股股东由金岭铁矿变更为山钢集团。"
+    },
+    {
+      "name": "山东金岭铁矿有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东（金岭铁矿将持有的股份表决权委托给山钢集团）",
+      "quote": "控股股东由金岭铁矿变更为山钢集团。"
+    },
+    {
+      "name": "山东金召矿业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "全资子公司金召矿业、金钢矿业"
+    },
+    {
+      "name": "塔什库尔干县金钢矿业有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "全资子公司金召矿业、金钢矿业"
+    },
+    {
+      "name": "喀什金岭球团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司（持股70%）",
+      "quote": "控股喀什球团"
+    },
+    {
+      "name": "山东金鼎矿业有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司（持股40%）",
+      "quote": "参股金鼎矿业"
+    },
+    {
+      "name": "山东钢铁集团财务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司（持股6%）",
+      "quote": "参股山钢财务公司"
+    },
+    {
+      "name": "山东钢铁股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户（关联方）",
+      "quote": "1 山东钢铁集团有限公司 296,771,659.88 17.84%"
+    },
+    {
+      "name": "喀什工投物流有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户",
+      "quote": "2 喀什工投物流有限公司 186,396,547.42 11.20%"
+    },
+    {
+      "name": "德天（天津）国际贸易发展有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户",
+      "quote": "3 德天（天津）国际贸易发展有限公司 172,541,613.87 10.37%"
+    },
+    {
+      "name": "金鼎重工有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户",
+      "quote": "4 金鼎重工有限公司 169,986,828.06 10.22%"
+    },
+    {
+      "name": "石横特钢集团有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户",
+      "quote": "5 石横特钢集团有限公司 127,559,908.07 7.67%"
+    },
+    {
+      "name": "山东金鼎矿业有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商（关联方）",
+      "quote": "1 山东金鼎矿业有限责任公司 383,093,208.19 29.62%"
+    },
+    {
+      "name": "淄博正元矿业有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商",
+      "quote": "2 淄博正元矿业有限公司 153,020,020.02 11.83%"
+    },
+    {
+      "name": "新疆葱岭能源有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商",
+      "quote": "3 新疆葱岭能源有限公司 89,205,521.24 6.90%"
+    },
+    {
+      "name": "青岛陆洋兴达国际贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商",
+      "quote": "4 青岛陆洋兴达国际贸易有限公司 79,715,200.72 6.16%"
+    },
+    {
+      "name": "喀什天鑫矿产品销售有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商",
+      "quote": "5 喀什天鑫矿产品销售有限公司 75,811,809.30 5.86%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "黑色金属",
+      "segment_type": "product_line",
+      "revenue_amount": "1,553,540,530.52",
+      "revenue_proportion": "93.39%",
+      "gross_margin": "23.56%",
+      "yoy_change": "7.55%",
+      "quote": "黑色金属 1,553,540,530.52 93.39% 1,444,517,106.50 93.47% 7.55%"
+    },
+    {
+      "name": "铁精粉",
+      "segment_type": "product_line",
+      "revenue_amount": "1,155,554,264.85",
+      "revenue_proportion": "69.46%",
+      "gross_margin": "21.31%",
+      "yoy_change": "5.46%",
+      "quote": "铁精粉 1,155,554,264.85 69.46% 1,095,771,120.83 70.90% 5.46%"
+    },
+    {
+      "name": "铜精粉",
+      "segment_type": "product_line",
+      "revenue_amount": "96,228,616.26",
+      "revenue_proportion": "5.78%",
+      "gross_margin": "86.09%",
+      "yoy_change": "114.36%",
+      "quote": "铜精粉 96,228,616.26 5.78% 44,891,269.70 2.90% 114.36%"
+    },
+    {
+      "name": "球团",
+      "segment_type": "product_line",
+      "revenue_amount": "301,757,649.41",
+      "revenue_proportion": "18.14%",
+      "gross_margin": "12.25%",
+      "yoy_change": "-0.69%",
+      "quote": "球团 301,757,649.41 18.14% 303,854,715.97 19.66% -0.69%"
+    },
+    {
+      "name": "机械加工",
+      "segment_type": "product_line",
+      "revenue_amount": "4,362,602.48",
+      "revenue_proportion": "0.26%",
+      "gross_margin": null,
+      "yoy_change": "0.39%",
+      "quote": "机械加工 4,362,602.48 0.26% 4,345,654.84 0.28% 0.39%"
+    },
+    {
+      "name": "其他业务收入",
+      "segment_type": "product_line",
+      "revenue_amount": "105,669,170.08",
+      "revenue_proportion": "6.35%",
+      "gross_margin": null,
+      "yoy_change": "9.37%",
+      "quote": "其他业务收入 105,669,170.08 6.35% 96,615,314.36 6.25% 9.37%"
+    },
+    {
+      "name": "省内",
+      "segment_type": "region",
+      "revenue_amount": "841,167,283.40",
+      "revenue_proportion": "50.56%",
+      "gross_margin": "20.61%",
+      "yoy_change": "15.29%",
+      "quote": "省内 841,167,283.40 50.56% 729,581,278.62 47.21% 15.29%"
+    },
+    {
+      "name": "省外",
+      "segment_type": "region",
+      "revenue_amount": "822,405,019.68",
+      "revenue_proportion": "49.44%",
+      "gross_margin": "23.34%",
+      "yoy_change": "0.80%",
+      "quote": "省外 822,405,019.68 49.44% 815,896,797.08 52.79% 0.80%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "铁精粉（本部）",
+      "metric_type": "production_volume",
+      "value": "1,351,524.00吨",
+      "period": "2025年",
+      "quote": "采掘业（本部铁精粉） 生产量 吨 1,351,524.00"
+    },
+    {
+      "product": "铁精粉（本部）",
+      "metric_type": "sales_volume",
+      "value": "1,348,882.51吨",
+      "period": "2025年",
+      "quote": "采掘业（本部铁精粉） 销售量 吨 1,348,882.51"
+    },
+    {
+      "product": "铁精粉（本部）",
+      "metric_type": "inventory_volume",
+      "value": "7,770.19吨",
+      "period": "2025年末",
+      "quote": "采掘业（本部铁精粉） 库存量 吨 7,770.19"
+    },
+    {
+      "product": "球团（子公司）",
+      "metric_type": "production_volume",
+      "value": "524,975.21吨",
+      "period": "2025年",
+      "quote": "采掘业（子公司球团） 生产量 吨 524,975.21"
+    },
+    {
+      "product": "球团（子公司）",
+      "metric_type": "sales_volume",
+      "value": "533,835.95吨",
+      "period": "2025年",
+      "quote": "采掘业（子公司球团） 销售量 吨 533,835.95"
+    },
+    {
+      "product": "球团（子公司）",
+      "metric_type": "inventory_volume",
+      "value": "1,545.37吨",
+      "period": "2025年末",
+      "quote": "采掘业（子公司球团） 库存量 吨 1,545.37"
+    },
+    {
+      "product": "铜精粉（铜金属量）",
+      "metric_type": "production_volume",
+      "value": "1124.01吨",
+      "period": "2025年",
+      "quote": "生产铜精粉铜金属量1124.01吨"
+    },
+    {
+      "product": "铜精粉（铜金属量）",
+      "metric_type": "sales_volume",
+      "value": "1102.66吨",
+      "period": "2025年",
+      "quote": "销售1102.66吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "山东省齐河县大张地区铁矿普查探矿权项目",
+      "project_type": "construction_project",
+      "location": "山东省齐河县",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已取得探矿权证，项目迈入系统性勘探开发新阶段",
+      "expected_completion_time": null,
+      "quote": "公司已取得山东省齐河县大张地区铁矿普查探矿权证，标志着项目迈入系统性勘探开发新阶段。"
+    },
+    {
+      "name": "数智金岭项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "一期项目成功上线运行，物流平台、检化验系统、生产系统及远程无人计量系统投入使用",
+      "expected_completion_time": null,
+      "quote": "“数智金岭”建设加速推进，一期项目成功上线运行，物流平台、检化验系统、生产系统及远程无人计量系统投入使用"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "铁精粉",
+      "asset_type": "certification",
+      "related_product": "铁精粉",
+      "quantitative_info": "获得国家同类产品唯一“金质奖章”",
+      "quote": "主要产品铁精粉获得国家同类产品唯一“金质奖章”。"
+    },
+    {
+      "name": "山东省博士后创新实践基地",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "成功认定",
+      "quote": "成功认定山东省博士后创新实践基地并引进首位博士"
+    },
+    {
+      "name": "淄博市市级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "公司技术中心被认定",
+      "quote": "公司技术中心被认定为淄博市市级企业技术中心"
+    },
+    {
+      "name": "高纯铁基材料研发",
+      "asset_type": "core_technology",
+      "related_product": "铁精粉",
+      "quantitative_info": null,
+      "quote": "高纯铁基材料研发 项目目的:为加快推进公司高附加值产品技术瓶颈突破"
+    },
+    {
+      "name": "提高铜硫回收率项目研究",
+      "asset_type": "core_technology",
+      "related_product": "铜精粉",
+      "quantitative_info": "将铜、硫回收率较之前提高5个百分点以上",
+      "quote": "已将铜、硫回收率较之前提高5个百分点以上。"
+    },
+    {
+      "name": "铁精粉脱硫技术及工艺研究",
+      "asset_type": "core_technology",
+      "related_product": "铁精粉",
+      "quantitative_info": null,
+      "quote": "铁精粉脱硫技术及工艺研究 项目目的:研发一种新的工艺流程及药剂制度，用于高硫铁精矿脱硫"
+    },
+    {
+      "name": "矿山便携式激光雷达扫描装置研发",
+      "asset_type": "technology_assets",
+      "related_product": null,
+      "quantitative_info": "测量效率提升10倍、人力成本降低70%，设备成本仅为进口60%-70%",
+      "quote": "自主研发便携式激光雷达扫描装置……测量效率提升10倍、人力成本降低70%，设备成本仅为进口60%-70%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "57.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 57.30%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "17.84%",
+      "related_entity": "山东钢铁集团有限公司",
+      "period": "2025年",
+      "quote": "1 山东钢铁集团有限公司 296,771,659.88 17.84%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "60.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 60.37%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "29.62%",
+      "related_entity": "山东金鼎矿业有限责任公司",
+      "period": "2025年",
+      "quote": "1 山东金鼎矿业有限责任公司 383,093,208.19 29.62%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "铁矿石作为钢铁行业的原料，其价格受市场供需关系变化、经济形势、政策调整等多种因素影响，呈现出较强的波动性。由于国内矿山在全球铁矿石定价体系中缺乏定价权，国内铁矿石价格与国际市场高度联动，易受全球供应链调整及主要矿山产能释放等因素冲击。",
+      "related_entity": null,
+      "related_product": "铁精粉",
+      "quote": "市场价格波动风险：铁矿石作为钢铁行业的原料，其价格受市场供需关系变化、经济形势、政策调整等多种因素影响，呈现出较强的波动性。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着矿山的开采年限缩短，产量逐年下降，深部开采比例提升，铁矿石开采难度逐步加大，成本逐渐提高，可能会影�未来公司的经营业绩。",
+      "related_entity": null,
+      "related_product": "铁矿石",
+      "quote": "经营风险：随着矿山的开采年限缩短，产量逐年下降，深部开采比例提升，铁矿石开采难度逐步加大，成本逐渐提高，可能会影ติด未来公司的经营业绩。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "安全环保是矿山企业生产经营的底线要求，国家对矿山行业的安全环保标准持续提高，监管力度不断加大，增加安全环保方面的投入会暂时导致企业成本的上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "安全环保风险：安全环保是矿山企业生产经营的底线要求，国家对矿山行业的安全环保标准持续提高，监管力度不断加大，增加安全环保方面的投入会暂时导致企业成本的上升。"
+    }
+  ]
+}

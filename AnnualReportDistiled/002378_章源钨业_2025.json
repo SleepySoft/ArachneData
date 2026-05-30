@@ -1,0 +1,645 @@
+{
+  "company_name_mentioned": "崇义章源钨业股份有限公司",
+  "produces": [
+    {
+      "name": "钨精矿",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司上游主要产品为钨精矿，是钨冶炼系列产品的主要原料。"
+    },
+    {
+      "name": "仲钨酸铵（APT）",
+      "type": "material",
+      "revenue_proportion": "0.30%",
+      "quote": "分产品：仲钨酸铵 15,619,469.03 0.30%"
+    },
+    {
+      "name": "氧化钨",
+      "type": "material",
+      "revenue_proportion": "0.01%",
+      "quote": "分产品：氧化钨 434,180.55 0.01%"
+    },
+    {
+      "name": "钨粉",
+      "type": "material",
+      "revenue_proportion": "31.02%",
+      "quote": "分产品：钨粉 1,613,633,069.28 31.02%"
+    },
+    {
+      "name": "碳化钨粉",
+      "type": "material",
+      "revenue_proportion": "35.68%",
+      "quote": "分产品：碳化钨粉 1,855,983,576.35 35.68%"
+    },
+    {
+      "name": "硬质合金",
+      "type": "component",
+      "revenue_proportion": "23.37%",
+      "quote": "分产品：硬质合金 1,215,698,227.99 23.37%"
+    },
+    {
+      "name": "金属陶瓷刀片、超硬刀片等",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "以及金属陶瓷刀片、超硬刀片等产品的生产及销售"
+    },
+    {
+      "name": "高强度钨丝",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "高强度钨丝是专为光伏太阳能硅片切割工艺设计的高性能材料"
+    },
+    {
+      "name": "热喷涂粉",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "热喷涂粉是以碳化钨粉、钴、镍等为主要原料...的一种硬质合金粉末。"
+    },
+    {
+      "name": "整体硬质合金刀具（立铣刀、钻头、丝锥等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "整体硬质合金立铣刀...整体硬质合金钻头...整体硬质合金丝锥..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "钨精矿",
+      "target_product": "仲钨酸铵、钨粉末等",
+      "cost_proportion": null,
+      "quote": "公司自产钨精矿全部自用，为满足中下游产能需要，公司需对外采购钨精矿及仲钨酸铵。"
+    },
+    {
+      "name": "仲钨酸铵",
+      "target_product": "钨粉、碳化钨粉等",
+      "cost_proportion": null,
+      "quote": "公司自产钨精矿全部自用，为满足中下游产能需要，公司需对外采购钨精矿及仲钨酸铵。"
+    },
+    {
+      "name": "大余县福鑫矿业有限公司、大余福盛矿业有限公司（采购）",
+      "target_product": null,
+      "cost_proportion": "37.59%",
+      "quote": "大余县福鑫矿业有限公司、大余福盛矿业有限公司采购额占年度采购总额37.59%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "机械加工",
+      "source_product": "硬质合金、刀具",
+      "quote": "钨的主要特性为高熔点、高硬度及高密度，其合金材料与化合物经特殊工艺处理后...被广泛应用于机械加工、国防军工、电子工业及交通运输等领域。"
+    },
+    {
+      "name": "汽车工业",
+      "source_product": "硬质合金刀具",
+      "quote": "为汽车行业凸轮轴、缸体、涡轮壳、曲轴等提供刀具加工解决方案。"
+    },
+    {
+      "name": "能源行业（汽轮机、风力发电机）",
+      "source_product": "硬质合金刀具",
+      "quote": "为能源行业汽轮机转子、风力发电机轮毂等提供刀具加工解决方案。"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "硬质合金刀具",
+      "quote": "为航空航天行业飞机起落架、襟翼导向轨、机匣、叶片等提供刀具加工解决方案。"
+    },
+    {
+      "name": "小零件（医疗、消费电子等）",
+      "source_product": "硬质合金刀具",
+      "quote": "为小零件行业镜头圈、表壳、传感器部件、液压阀部件、快插接头零部件、医疗骨钉、接骨板等提供刀具加工解决方案。"
+    },
+    {
+      "name": "工程机械",
+      "source_product": "硬质合金刀具",
+      "quote": "为工程机械行业挖掘机主机机架、支撑臂、液压阀体等提供刀具加工解决方案。"
+    },
+    {
+      "name": "光伏太阳能硅片切割",
+      "source_product": "高强度钨丝",
+      "quote": "高强度钨丝是专为光伏太阳能硅片切割工艺设计的高性能材料"
+    },
+    {
+      "name": "矿山采掘、石油钻探、资源开发等",
+      "source_product": "硬质合金球齿、截齿等",
+      "quote": "硬质合金球齿、截齿、挖路齿、钎片等...适用于矿山采掘、石油钻探、资源开发、地质勘探、水利交通、建筑工程等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄泽兰",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人黄世春、主管会计工作负责人范迪曜...黄泽兰 男 70 董事长 现任"
+    },
+    {
+      "name": "黄世春",
+      "role": "副董事长、总经理",
+      "quote": "黄世春 男 44 董事 现任...副董事长 现任...总经理 现任"
+    },
+    {
+      "name": "范迪曜",
+      "role": "董事、常务副总经理、财务总监",
+      "quote": "范迪曜 男 61 董事 现任...财务总监 现任...常务副总经理 现任"
+    },
+    {
+      "name": "刘佶",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "刘佶 女 55 董事 现任...副 总 经 理、董事会秘书 现任"
+    },
+    {
+      "name": "潘峰",
+      "role": "董事",
+      "quote": "潘峰 男 62 董事 现任"
+    },
+    {
+      "name": "王京彬",
+      "role": "独立董事",
+      "quote": "王京彬 男 64 独立董事 现任"
+    },
+    {
+      "name": "王平",
+      "role": "独立董事",
+      "quote": "王平 男 55 独立董事 现任"
+    },
+    {
+      "name": "吴崎右",
+      "role": "独立董事",
+      "quote": "吴崎右 女 46 独立董事 现任"
+    },
+    {
+      "name": "曾桂玲",
+      "role": "职工董事",
+      "quote": "曾桂玲 女 55 0 0 0 0 0 职工董事 现任"
+    },
+    {
+      "name": "陈邦明",
+      "role": "副总经理（原董事）",
+      "quote": "陈邦明 男 56 副总经理 现任...董事 离任"
+    },
+    {
+      "name": "黄文",
+      "role": "副总经理",
+      "quote": "黄文 男 59 副总经理 现任"
+    },
+    {
+      "name": "石雨生",
+      "role": "副总经理",
+      "quote": "石雨生 男 46 副总经理 现任"
+    },
+    {
+      "name": "赖昌洪",
+      "role": "副总经理",
+      "quote": "赖昌洪 男 56 副总经理 现任"
+    },
+    {
+      "name": "徐国钻",
+      "role": "副总经理",
+      "quote": "徐国钻 男 41 副总经理 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "KBM Corporation",
+      "relation_type": "customer",
+      "business_details": "向其销售钨类产品，销售额占年度销售总额比例5.88%。梦想加对其持有6%股权。",
+      "quote": "公司前5大客户资料...KBM Corporation 305,785,016.16 5.88%...公司客户KBM Corporation系公司全资子公司梦想加的参股公司，梦想加对其持有6%股权"
+    },
+    {
+      "name": "西安华山金属材料科技有限公司",
+      "relation_type": "customer",
+      "business_details": "联营企业，向其销售钨粉末产品等，关联交易金额4,585.65万元。",
+      "quote": "西安华山金属材料科技有限公司...钨粉 末 类产品...市场价...4,585.65...联营企业"
+    },
+    {
+      "name": "大余县福鑫矿业有限公司、大余福盛矿业有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要供应商，采购额占年度采购总额37.59%。",
+      "quote": "大余县福鑫矿业有限公司、大余福盛矿业有限公司 1,885,528,294.26 37.59%"
+    },
+    {
+      "name": "赣州澳克泰工具技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营高档硬质合金及其工具的研发、生产及销售。",
+      "quote": "公司的全资子公司-赣州澳克泰工具技术有限公司"
+    },
+    {
+      "name": "章源喷涂",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营工件表面喷涂服务。",
+      "quote": "公司的全资子公司-德州章源喷涂技术有限公司"
+    },
+    {
+      "name": "章源科创",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司。",
+      "quote": "公司的全资子公司-章源国际科技创新（深圳）有限公司"
+    },
+    {
+      "name": "梦想加",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司。",
+      "quote": "公司的全资子公司-梦想加有限公司"
+    },
+    {
+      "name": "赣州澳普科斯材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "赣州澳克泰的控股子公司（2025年7月设立），专注于超硬刀具的研发、生产与销售。",
+      "quote": "赣州澳克泰的控股子公司-赣州澳普科斯材料科技有限公司...专注于超硬刀具的研发、生产与销售"
+    },
+    {
+      "name": "崇义章源投资控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例56.73%。",
+      "quote": "公司的控股股东-崇义章源投资控股有限公司...崇义章源投资控股有限公司 56.73%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "有色金属采掘、冶炼、金属加工",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,914,359,179.49元",
+      "revenue_proportion": "94.47%",
+      "gross_margin": "13.30%",
+      "yoy_change": "43.72%",
+      "quote": "分行业：有色金属采掘、冶炼、金属加工 4,914,359,179.49 94.47%...毛利率 13.30%...比上年增减 43.72%"
+    },
+    {
+      "name": "钨粉",
+      "segment_type": "product_line",
+      "revenue_amount": "1,613,633,069.28元",
+      "revenue_proportion": "31.02%",
+      "gross_margin": "8.52%",
+      "yoy_change": "55.71%",
+      "quote": "分产品：钨粉 1,613,633,069.28 31.02%...毛利率 8.52%...比上年增减 55.71%"
+    },
+    {
+      "name": "碳化钨粉",
+      "segment_type": "product_line",
+      "revenue_amount": "1,855,983,576.35元",
+      "revenue_proportion": "35.68%",
+      "gross_margin": "11.47%",
+      "yoy_change": "48.54%",
+      "quote": "分产品：碳化钨粉 1,855,983,576.35 35.68%...毛利率 11.47%...比上年增减 48.54%"
+    },
+    {
+      "name": "硬质合金",
+      "segment_type": "product_line",
+      "revenue_amount": "1,215,698,227.99元",
+      "revenue_proportion": "23.37%",
+      "gross_margin": "19.76%",
+      "yoy_change": "31.54%",
+      "quote": "分产品：硬质合金 1,215,698,227.99 23.37%...毛利率 19.76%...比上年增减 31.54%"
+    },
+    {
+      "name": "国内地区",
+      "segment_type": "region",
+      "revenue_amount": "4,462,920,246.18元",
+      "revenue_proportion": "85.79%",
+      "gross_margin": "17.82%",
+      "yoy_change": "49.46%",
+      "quote": "分地区：国内地区 4,462,920,246.18 85.79%...毛利率 17.82%...比上年增减 49.46%"
+    },
+    {
+      "name": "国外地区",
+      "segment_type": "region",
+      "revenue_amount": "739,023,747.57元",
+      "revenue_proportion": "14.21%",
+      "gross_margin": "6.77%",
+      "yoy_change": "7.53%",
+      "quote": "分地区：国外地区 739,023,747.57 14.21%...毛利率 6.77%...比上年增减 7.53%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,215,101,243.45元",
+      "revenue_proportion": "81.03%",
+      "gross_margin": "17.73%",
+      "yoy_change": "45.28%",
+      "quote": "分销售模式：直销模式 4,215,101,243.45 81.03%...毛利率 17.73%...比上年增减 45.28%"
+    },
+    {
+      "name": "分销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "986,842,750.30元",
+      "revenue_proportion": "18.97%",
+      "gross_margin": "9.94%",
+      "yoy_change": "27.86%",
+      "quote": "分销售模式：分销模式 986,842,750.30 18.97%...毛利率 9.94%...比上年增减 27.86%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "钨粉",
+      "metric_type": "sales_volume",
+      "value": "4,928吨",
+      "period": "2025年",
+      "quote": "钨粉 销售量 吨 4,928"
+    },
+    {
+      "product": "钨粉",
+      "metric_type": "production_volume",
+      "value": "12,277吨",
+      "period": "2025年",
+      "quote": "钨粉 生产量 吨 12,277"
+    },
+    {
+      "product": "钨粉",
+      "metric_type": "inventory_volume",
+      "value": "614吨",
+      "period": "2025年末",
+      "quote": "钨粉 库存量 吨 614"
+    },
+    {
+      "product": "碳化钨粉",
+      "metric_type": "sales_volume",
+      "value": "5,812吨",
+      "period": "2025年",
+      "quote": "碳化钨粉 销售量 吨 5,812"
+    },
+    {
+      "product": "碳化钨粉",
+      "metric_type": "production_volume",
+      "value": "7,742吨",
+      "period": "2025年",
+      "quote": "碳化钨粉 生产量 吨 7,742"
+    },
+    {
+      "product": "碳化钨粉",
+      "metric_type": "inventory_volume",
+      "value": "896吨",
+      "period": "2025年末",
+      "quote": "碳化钨粉 库存量 吨 896"
+    },
+    {
+      "product": "本部硬质合金",
+      "metric_type": "sales_volume",
+      "value": "1,363吨",
+      "period": "2025年",
+      "quote": "本部硬质合金 销售量 吨 1,363"
+    },
+    {
+      "product": "本部硬质合金",
+      "metric_type": "production_volume",
+      "value": "3,181吨",
+      "period": "2025年",
+      "quote": "本部硬质合金 生产量 吨 3,181"
+    },
+    {
+      "product": "本部硬质合金",
+      "metric_type": "inventory_volume",
+      "value": "513吨",
+      "period": "2025年末",
+      "quote": "本部硬质合金 库存量 吨 513"
+    },
+    {
+      "product": "刀片及整体硬质合金刀具",
+      "metric_type": "sales_volume",
+      "value": "2,711万片、万支",
+      "period": "2025年",
+      "quote": "刀片及整体硬质合金刀具 销售量 万片、万支 2,711"
+    },
+    {
+      "product": "刀片及整体硬质合金刀具",
+      "metric_type": "production_volume",
+      "value": "2,324万片、万支",
+      "period": "2025年",
+      "quote": "刀片及整体硬质合金刀具 生产量 万片、万支 2,324"
+    },
+    {
+      "product": "刀片及整体硬质合金刀具",
+      "metric_type": "inventory_volume",
+      "value": "1,118万片、万支",
+      "period": "2025年末",
+      "quote": "刀片及整体硬质合金刀具 库存量 万片、万支 1,118"
+    },
+    {
+      "product": "硬质合金棒材",
+      "metric_type": "sales_volume",
+      "value": "893吨",
+      "period": "2025年",
+      "quote": "硬质合金棒材 销售量 吨 893"
+    },
+    {
+      "product": "硬质合金棒材",
+      "metric_type": "production_volume",
+      "value": "896吨",
+      "period": "2025年",
+      "quote": "硬质合金棒材 生产量 吨 896"
+    },
+    {
+      "product": "硬质合金棒材",
+      "metric_type": "inventory_volume",
+      "value": "232吨",
+      "period": "2025年末",
+      "quote": "硬质合金棒材 库存量 吨 232"
+    },
+    {
+      "product": "热喷涂粉",
+      "metric_type": "sales_volume",
+      "value": "440吨",
+      "period": "2025年",
+      "quote": "热喷涂粉 销售量 吨 440"
+    },
+    {
+      "product": "热喷涂粉",
+      "metric_type": "production_volume",
+      "value": "442吨",
+      "period": "2025年",
+      "quote": "热喷涂粉 生产量 吨 442"
+    },
+    {
+      "product": "热喷涂粉",
+      "metric_type": "inventory_volume",
+      "value": "38吨",
+      "period": "2025年末",
+      "quote": "热喷涂粉 库存量 吨 38"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "高性能光伏等多用途钨丝智能制造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "落地实施，产品已通过多家客户的认证并实现销售",
+      "expected_completion_time": null,
+      "quote": "公司高性能光伏等多用途钨丝智能制造项目落地实施，通过...关键技术，产品已通过多家客户的认证并实现销售"
+    },
+    {
+      "name": "废钨资源绿色高效回收项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成工艺设计、厂房设计、设备选型等前期工作",
+      "expected_completion_time": "未来将形成“废料回收-再生-再利用”的闭环模式",
+      "quote": "公司废钨资源绿色高效回收项目完成工艺设计、厂房设计、设备选型等前期工作"
+    },
+    {
+      "name": "新增年产1,000万片高性能硬质合金精密刀具改扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "具备年产3,000万片刀具的生产能力",
+      "progress": "竣工验收",
+      "expected_completion_time": null,
+      "quote": "赣州澳克泰“新增年产1,000万片高性能硬质合金精密刀具改扩建项目”竣工验收，具备年产3,000万片刀具的生产能力。"
+    },
+    {
+      "name": "大余石雷钨矿深部改扩建项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "按计划实施中",
+      "expected_completion_time": null,
+      "quote": "大余石雷钨矿深部改扩建项目（一期）按计划实施中。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司设有“博士后科研工作站”，并拥有“国家认定企业技术中心”"
+    },
+    {
+      "name": "博士后科研工作站",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司设有“博士后科研工作站”"
+    },
+    {
+      "name": "国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司为“国家高新技术企业”"
+    },
+    {
+      "name": "国家级“绿色工厂”",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "作为国家级“绿色工厂”"
+    },
+    {
+      "name": "国家级“绿色矿山”（淘锡坑钨矿、新安子钨锡矿、大余石雷钨矿）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司在采矿山均为国家级“绿色矿山”"
+    },
+    {
+      "name": "累计授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "559项，其中发明专利277项，实用新型专利218项，外观设计专利64项",
+      "quote": "截至报告期末，公司累计授权专利559项，其中发明专利277项，实用新型专利218项，外观设计专利64项"
+    },
+    {
+      "name": "主持和参与制定国家标准、行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "41项",
+      "quote": "主持和参与制定国家标准、行业标准41项"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业（赣州澳克泰）",
+      "asset_type": "certification",
+      "related_product": "硬质合金刀具",
+      "quantitative_info": null,
+      "quote": "赣州澳克泰是国家级专精特新“小巨人”企业"
+    },
+    {
+      "name": "国家“卓越级智能工厂”",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "报告期内，公司荣获国家“卓越级智能工厂”"
+    },
+    {
+      "name": "2025年研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "210,949,264.85元，占营业收入比例4.06%",
+      "quote": "研发投入金额（元） 210,949,264.85...研发投入占营业收入比例 4.06%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "26.54%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 26.54%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "7.61%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 395,691,238.91 7.61%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "68.39%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 68.39%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "37.59%",
+      "related_entity": "大余县福鑫矿业有限公司、大余福盛矿业有限公司",
+      "period": "2025年",
+      "quote": "大余县福鑫矿业有限公司、大余福盛矿业有限公司 1,885,528,294.26 37.59%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "国家对钨矿开采实施总量管控及配额生产，公司自产钨精矿无法完全满足生产需求，需外购钨精矿或仲钨酸铵。2025年至今钨原料价格经历大幅上涨，未来若钨原料价格出现大幅波动，将直接影响公司各环节生产成本的控制和管理，进而对经营业绩造成影响。",
+      "related_entity": null,
+      "related_product": "钨精矿、仲钨酸铵",
+      "quote": "2.原材料价格波动风险...2025年至今钨原料价格经历大幅上涨，未来若钨原料价格出现大幅波动，将直接影响公司各环节生产成本的控制和管理，进而对经营业绩造成影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济环境将影响市场需求和钨产品价格，进而影响公司经营业绩。",
+      "related_entity": null,
+      "related_product": "钨产品",
+      "quote": "1.市场风险...宏观经济环境将影响市场需求和钨产品价格，进而影响公司经营业绩。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "研发成果能否转化成业绩存在不确定性。同时，行业竞争日益激烈，若公司技术研发不能紧跟市场，存在产品竞争力下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.技术风险...研发成果能否转化成业绩存在不确定性。同时，行业竞争日益激烈，若公司技术研发不能紧跟市场，存在产品竞争力下降的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司及赣州澳克泰出口业务收入结算货币主要为美元，若美元兑人民币汇率出现较大波动，可能对公司经营业绩产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.汇率波动风险...公司及赣州澳克泰出口业务收入结算货币主要为美元，若美元兑人民币汇率出现较大波动，可能对公司经营业绩产生影响。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司每年结合历史合作记录及客户资信状况，对部分客户授予信用额度与账期，但存在一定的应收账款坏账风险。...以及供应商未按约定交付产品导致的履约风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5.信用风险...对部分客户授予信用额度与账期，但存在一定的应收账款坏账风险。...以及供应商未按约定交付产品导致的履约风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "地缘政治及地区冲突等因素可能导致贸易政策及经济环境发生变化，从而给公司出口业务及整体经营业绩带来影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6.地缘政治风险...地缘政治及地区冲突等因素可能导致贸易政策及经济环境发生变化，从而给公司出口业务及整体经营业绩带来影响。"
+    }
+  ]
+}
