@@ -1,0 +1,601 @@
+{
+  "company_name_mentioned": "宁波华翔电子股份有限公司",
+  "produces": [
+    {
+      "name": "内饰件",
+      "type": "component",
+      "revenue_proportion": "51.76%",
+      "quote": "内饰件 13,552,670,939.60 51.76%"
+    },
+    {
+      "name": "外饰件",
+      "type": "component",
+      "revenue_proportion": "18.58%",
+      "quote": "外饰件 4,866,308,866.57 18.58%"
+    },
+    {
+      "name": "金属件",
+      "type": "component",
+      "revenue_proportion": "18.55%",
+      "quote": "金属件 4,857,732,846.14 18.55%"
+    },
+    {
+      "name": "电子件",
+      "type": "component",
+      "revenue_proportion": "8.62%",
+      "quote": "电子件 2,256,111,868.58 8.62%"
+    },
+    {
+      "name": "机器人",
+      "type": "device",
+      "revenue_proportion": "0.10%",
+      "quote": "机器人 24,972,126.78 0.10%"
+    },
+    {
+      "name": "其他",
+      "type": "service",
+      "revenue_proportion": "2.39%",
+      "quote": "其他 628,013,721.43 2.39%"
+    },
+    {
+      "name": "汽车内外饰系统",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主要产品为汽车内外饰系统、车身金属件、电子电器附件等，其中汽车内外饰包括仪表板、门板、中控台、顶棚、地毯、装饰条、后视镜模块等产品"
+    },
+    {
+      "name": "车身金属件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "车身金属件包括车身结构件、电池盒壳体等产品"
+    },
+    {
+      "name": "电子电器附件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "电子电器附件包括线路线束保护系统、高压防护塑料组件、储能模组塑料件等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "内饰件",
+      "cost_proportion": "76.79%",
+      "quote": "内饰件 直接材料 76.79%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "外饰件",
+      "cost_proportion": "85.16%",
+      "quote": "外饰件 直接材料 85.16%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "金属件",
+      "cost_proportion": "77.60%",
+      "quote": "金属件 直接材料 77.60%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "电子件",
+      "cost_proportion": "67.42%",
+      "quote": "电子件 直接材料 67.42%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "机器人",
+      "cost_proportion": "21.57%",
+      "quote": "机器人 直接材料 21.57%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "乘用车",
+      "source_product": "汽车内外饰系统、车身金属件、电子电器附件",
+      "quote": "公司主要从事汽车零部件的设计、开发、生产和销售，主要产品为汽车内外饰系统、车身金属件、电子电器附件等"
+    },
+    {
+      "name": "智能电动车",
+      "source_product": null,
+      "quote": "主要客户基本涵盖国内外主流传统OEM车企和智能电动车企"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周晓峰",
+      "role": "董事长兼总经理",
+      "quote": "公司负责人周晓峰、主管会计工作负责人马婕及会计机构负责人（会计主管人员）周丹红声明"
+    },
+    {
+      "name": "马婕",
+      "role": "主管会计工作负责人",
+      "quote": "公司负责人周晓峰、主管会计工作负责人马婕"
+    },
+    {
+      "name": "周丹红",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）周丹红"
+    },
+    {
+      "name": "张远达",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 张远达"
+    },
+    {
+      "name": "陈梦梦",
+      "role": "证券事务代表",
+      "quote": "证券事务代表 姓名 陈梦梦"
+    },
+    {
+      "name": "李景华",
+      "role": "董事",
+      "quote": "姓名 职务 任期起始日期 任期终止日期 李景华 董事"
+    },
+    {
+      "name": "王世平",
+      "role": "董事",
+      "quote": "姓名 职务 任期起始日期 任期终止日期 王世平 董事"
+    },
+    {
+      "name": "杨筱球",
+      "role": "独立董事",
+      "quote": "杨筱球 独立董事"
+    },
+    {
+      "name": "杨纾庆",
+      "role": "独立董事",
+      "quote": "杨纾庆 独立董事"
+    },
+    {
+      "name": "韩铭扬",
+      "role": "职工代表董事",
+      "quote": "韩铭扬 职工代表董事"
+    },
+    {
+      "name": "孙岩",
+      "role": "总经理（离任）",
+      "quote": "总经理 孙岩 男 63 离任"
+    },
+    {
+      "name": "井丽华",
+      "role": "副总经理（离任）",
+      "quote": "副总经理 井丽华 女 51 离任"
+    },
+    {
+      "name": "孙润尧",
+      "role": "副总经理（任免）",
+      "quote": "副总经理 孙润尧 男 45 任免"
+    },
+    {
+      "name": "马学虎",
+      "role": "副总经理（任免）",
+      "quote": "副总经理 马学虎 男 50 任免"
+    },
+    {
+      "name": "闪星",
+      "role": "副总经理",
+      "quote": "副总经理 闪星 男 47 现任"
+    },
+    {
+      "name": "李娜",
+      "role": "副总经理",
+      "quote": "副总经理 李娜 女 44 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "一汽-大众",
+      "relation_type": "customer",
+      "business_details": "第一大客户",
+      "quote": "1 一汽-大众 3,491,831,841.19 13.33%"
+    },
+    {
+      "name": "上汽-大众",
+      "relation_type": "customer",
+      "business_details": "第二大客户",
+      "quote": "2 上汽-大众 1,557,089,334.19 5.95%"
+    },
+    {
+      "name": "T车厂",
+      "relation_type": "customer",
+      "business_details": "第三大客户",
+      "quote": "3 T车厂 1,153,282,038.01 4.40%"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "第四大客户",
+      "quote": "4 比亚迪 877,107,378.12 3.35%"
+    },
+    {
+      "name": "一汽-股份",
+      "relation_type": "customer",
+      "business_details": "第五大客户",
+      "quote": "5 一汽-股份 876,222,341.94 3.35%"
+    },
+    {
+      "name": "上海住友商事有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商",
+      "quote": "1 上海住友商事有限公司 882,913,277.80 4.03%"
+    },
+    {
+      "name": "丰田通商",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "2 丰田通商 493,773,613.02 2.25%"
+    },
+    {
+      "name": "美视伊汽车镜控（苏州）有限公司",
+      "relation_type": "supplier",
+      "business_details": "第三大供应商",
+      "quote": "3 美视伊汽车镜控（苏州）有限公司 268,152,611.07 1.22%"
+    },
+    {
+      "name": "象山华杰塑业有限公司",
+      "relation_type": "supplier",
+      "business_details": "第四大供应商",
+      "quote": "4 象山华杰塑业有限公司 211,791,649.96 0.97%"
+    },
+    {
+      "name": "Gentex Corporation",
+      "relation_type": "supplier",
+      "business_details": "第五大供应商",
+      "quote": "5 Gentex Corporation 133,543,283.38 0.61%"
+    },
+    {
+      "name": "宁波井上华翔汽车零部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "宁波井上华翔汽车零部件有限公司 子公司"
+    },
+    {
+      "name": "华翔汽车内饰系统有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "华翔汽车内饰系统有限公司 子公司"
+    },
+    {
+      "name": "宁波诗兰姆汽车零部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "宁波诗兰姆汽车零部件有限公司 子公司"
+    },
+    {
+      "name": "宁波胜维德赫华翔汽车镜有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "宁波胜维德赫华翔汽车镜有限公司 子公司"
+    },
+    {
+      "name": "华翔金属科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "华翔金属科技股份有限公司 子公司"
+    },
+    {
+      "name": "宁波劳伦斯汽车内饰件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "宁波劳伦斯汽车内饰件有限公司 子公司"
+    },
+    {
+      "name": "华翔集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "关联公司",
+      "quote": "华翔集团 指 华翔集团股份有限公司，关联公司"
+    },
+    {
+      "name": "宁波峰梅股权投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东名称 宁波峰梅股权投资有限公司"
+    },
+    {
+      "name": "上海智元新创技术有限公司",
+      "relation_type": "customer",
+      "business_details": "委托生产合同，未来三年生产部分全尺寸双足机器人产品",
+      "quote": "上海华翔启源智能科技有限公司与上海智元新创技术有限公司签订了《委托生产合同》，将在未来三年内生产其部分全尺寸双足机器人产品"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "内饰件",
+      "segment_type": "product_line",
+      "revenue_amount": "13,552,670,939.60元",
+      "revenue_proportion": "51.76%",
+      "gross_margin": "15.80%",
+      "yoy_change": "0.36%",
+      "quote": "内饰件 13,552,670,939.60 51.76% 15.80% 0.36%"
+    },
+    {
+      "name": "外饰件",
+      "segment_type": "product_line",
+      "revenue_amount": "4,866,308,866.57元",
+      "revenue_proportion": "18.58%",
+      "gross_margin": "13.92%",
+      "yoy_change": "-4.23%",
+      "quote": "外饰件 4,866,308,866.57 18.58% 13.92% -4.23%"
+    },
+    {
+      "name": "金属件",
+      "segment_type": "product_line",
+      "revenue_amount": "4,857,732,846.14元",
+      "revenue_proportion": "18.55%",
+      "gross_margin": "15.02%",
+      "yoy_change": "0.15%",
+      "quote": "金属件 4,857,732,846.14 18.55% 15.02% 0.15%"
+    },
+    {
+      "name": "电子件",
+      "segment_type": "product_line",
+      "revenue_amount": "2,256,111,868.58元",
+      "revenue_proportion": "8.62%",
+      "gross_margin": "27.39%",
+      "yoy_change": "-4.35%",
+      "quote": "电子件 2,256,111,868.58 8.62% 27.39% -4.35%"
+    },
+    {
+      "name": "机器人",
+      "segment_type": "product_line",
+      "revenue_amount": "24,972,126.78元",
+      "revenue_proportion": "0.10%",
+      "gross_margin": "11.63%",
+      "yoy_change": null,
+      "quote": "机器人 24,972,126.78 0.10% 11.63%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "628,013,721.43元",
+      "revenue_proportion": "2.39%",
+      "gross_margin": null,
+      "yoy_change": "18.51%",
+      "quote": "其他 628,013,721.43 2.39% 529,917,265.44 2.01% 18.51%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "22,435,707,055.51元",
+      "revenue_proportion": "85.68%",
+      "gross_margin": "16.38%",
+      "yoy_change": "8.47%",
+      "quote": "国内 22,435,707,055.51 85.68% 16.38% 8.47%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "3,750,103,313.59元",
+      "revenue_proportion": "14.32%",
+      "gross_margin": "15.91%",
+      "yoy_change": "-33.51%",
+      "quote": "国外 3,750,103,313.59 14.32% 15.91% -33.51%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "汽车配件",
+      "metric_type": "production_volume",
+      "value": "21,913,777,198.16元",
+      "period": "2025年",
+      "quote": "生产量 21,913,777,198.16"
+    },
+    {
+      "product": "汽车配件",
+      "metric_type": "sales_volume",
+      "value": "26,185,810,369.10元",
+      "period": "2025年",
+      "quote": "销售量 26,185,810,369.10"
+    },
+    {
+      "product": "汽车配件",
+      "metric_type": "inventory_volume",
+      "value": "2,118,434,478.23元",
+      "period": "2025年末",
+      "quote": "库存量 2,118,434,478.23"
+    },
+    {
+      "product": "内饰件（新能源汽车）",
+      "metric_type": "production_volume",
+      "value": "4,089,443,679.94元",
+      "period": null,
+      "quote": "内饰件 产量 4,089,443,679.94"
+    },
+    {
+      "product": "外饰件（新能源汽车）",
+      "metric_type": "production_volume",
+      "value": "1,325,841,372.74元",
+      "period": null,
+      "quote": "外饰件 产量 1,325,841,372.74"
+    },
+    {
+      "product": "金属件（新能源汽车）",
+      "metric_type": "production_volume",
+      "value": "721,617,095.98元",
+      "period": null,
+      "quote": "金属件 产量 721,617,095.98"
+    },
+    {
+      "product": "电子件（新能源汽车）",
+      "metric_type": "production_volume",
+      "value": "551,108,626.77元",
+      "period": null,
+      "quote": "电子件 产量 551,108,626.77"
+    },
+    {
+      "product": "全尺寸双足机器人（为智元生产）",
+      "metric_type": "production_volume",
+      "value": "1198台",
+      "period": "2025年",
+      "quote": "公司已成为智元机器人的重要合作伙伴...2025年上海临港工厂全尺寸双足机器人出货量为1198台"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已获得高新技术企业、科技小巨人、专精特新小巨人、企业研究院等省级以上荣誉"
+    },
+    {
+      "name": "科技小巨人",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已获得高新技术企业、科技小巨人、专精特新小巨人、企业研究院等省级以上荣誉"
+    },
+    {
+      "name": "专精特新小巨人",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已获得高新技术企业、科技小巨人、专精特新小巨人、企业研究院等省级以上荣誉"
+    },
+    {
+      "name": "企业研究院",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已获得高新技术企业、科技小巨人、专精特新小巨人、企业研究院等省级以上荣誉"
+    },
+    {
+      "name": "真木表面（凸起）透光信标",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "真木表面（凸起）透光信标 2024年完成样件研发；2025年市场推广，已为蔚来、通用完成样件开发。"
+    },
+    {
+      "name": "石皮新材料装饰条",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "石皮新材料装饰条 2024年第四季度完成各项测试及样件开发；2025年市场推广，完成美国通用样件试制。"
+    },
+    {
+      "name": "一体式后视镜",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "一体式后视镜 2025年一季度实现量产。"
+    },
+    {
+      "name": "SH100折叠电机",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "SH100折叠电机 2025年四季度完成DV样件验证。"
+    },
+    {
+      "name": "智能座舱数智化设计解决方案",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "智能座舱数智化设计解决方案融合AIGC与XR技术...2025年三季度交付使用。"
+    },
+    {
+      "name": "星空顶",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "星空顶 2025年四季度完成A样。"
+    },
+    {
+      "name": "石墨烯加热",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "石墨烯加热 2025年四季度获得红旗顶棚加热项目。"
+    },
+    {
+      "name": "柔性面光源",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "柔性面光源 2025年四季度完成上汽奥迪多款车型门板发光内嵌板开发，并实现小批量生产。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "30.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 30.38%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9.08%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 9.08%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "13.33%",
+      "related_entity": "一汽-大众",
+      "period": "2025年",
+      "quote": "1 一汽-大众 3,491,831,841.19 13.33%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "4.03%",
+      "related_entity": "上海住友商事有限公司",
+      "period": "2025年",
+      "quote": "1 上海住友商事有限公司 882,913,277.80 4.03%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "产品降价与成本上升的双重压力",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）产品降价与成本上升的双重压力"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料ABS、聚丙烯、尼龙等石化产品和钢材等大宗商品价格不断波动",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要原材料ABS、聚丙烯、尼龙等石化产品和钢材等大宗商品价格不断波动"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、汇率波动风险：在汇率行情变动较大的情况下..."
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际地缘政治风险导致的贸易壁垒加剧",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国际地缘政治风险导致的贸易壁垒加剧"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术和品牌的风险，汽车市场不断向上发展，“智能化”、“个性化”、“轻量化”以及对“舒适性”的追求不断提升",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）技术和品牌的风险 汽车市场不断向上发展，“智能化”、“个性化”、“轻量化”以及对“舒适性”的追求不断提升"
+    },
+    {
+      "risk_type": "other",
+      "description": "海外经营的风险，面临“人才、技术、文化、法律”等诸多方面的挑战",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）海外经营的风险...应对全球化进程仍面临着“人才、技术、文化、法律”等诸多方面的挑战"
+    },
+    {
+      "risk_type": "other",
+      "description": "引入高新技术人才的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）引入高新技术人才的风险"
+    }
+  ]
+}

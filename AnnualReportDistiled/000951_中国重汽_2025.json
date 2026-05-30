@@ -1,0 +1,358 @@
+{
+  "company_name_mentioned": "中国重汽集团济南卡车股份有限公司",
+  "produces": [
+    {
+      "name": "重型载重汽车",
+      "type": "device",
+      "revenue_proportion": "整车销售44，609，597，041.64元，占营业收入77.27%",
+      "quote": "公司...主要从事重型载重汽车、重型专用车底盘、车桥等汽车配件的制造及销售业务。"
+    },
+    {
+      "name": "重型专用车底盘",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司...主要从事重型载重汽车、重型专用车底盘、车桥等汽车配件的制造及销售业务。"
+    },
+    {
+      "name": "车桥",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司...主要从事重型载重汽车、重型专用车底盘、车桥等汽车配件的制造及销售业务。"
+    },
+    {
+      "name": "汽车配件",
+      "type": "component",
+      "revenue_proportion": "配件销售13，021，645，794.30元，占营业收入22.55%",
+      "quote": "公司...主要从事重型载重汽车、重型专用车底盘、车桥等汽车配件的制造及销售业务。"
+    },
+    {
+      "name": "新能源重卡",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品类别：新能源重卡；产能状况：公司现有产能可以满足新能源重卡需求；产量：21，743；销量：17，944；销售收入：8，099，675，793.05元。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料及配套件",
+      "target_product": "整车、零部件",
+      "cost_proportion": "汽车制造业原材料及配套件成本49，794，101，821.98元，占营业成本93.54%",
+      "quote": "汽车制造业 原材料及配套件 49，794，101，821.98 93.54%"
+    },
+    {
+      "name": "整车及零部件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购整车及零部件：前五名供应商合计采购金额31，486，605，716.35元，占年度采购总额比例58.50%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "物流运输",
+      "source_product": "重型载重汽车",
+      "quote": "公司产品属于国家经济生活中的重要生产资料，主要用于物流运输、工程建设以及城市清洁、消防等领域。"
+    },
+    {
+      "name": "工程建设",
+      "source_product": "重型载重汽车",
+      "quote": "公司产品属于国家经济生活中的重要生产资料，主要用于物流运输、工程建设以及城市清洁、消防等领域。"
+    },
+    {
+      "name": "城市清洁",
+      "source_product": "重型载重汽车",
+      "quote": "公司产品属于国家经济生活中的重要生产资料，主要用于物流运输、工程建设以及城市清洁、消防等领域。"
+    },
+    {
+      "name": "消防",
+      "source_product": "重型载重汽车",
+      "quote": "公司产品属于国家经济生活中的重要生产资料，主要用于物流运输、工程建设以及城市清洁、消防等领域。"
+    },
+    {
+      "name": "出口",
+      "source_product": "整车",
+      "quote": "产品畅销国内外，借助重汽国际公司实现产品出口，目前已覆盖世界一百五十多个国家和地区，连续二十一年位居国内重卡行业出口首位。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘洪勇",
+      "role": "董事长",
+      "quote": "公司负责人刘洪勇...2025年1月至本报告期末任本公司董事、董事长。"
+    },
+    {
+      "name": "赵海",
+      "role": "总经理",
+      "quote": "赵海...现任本公司党委副书记、总经理、质量总监。2025年7月至本报告期末任本公司董事。"
+    },
+    {
+      "name": "毕研勋",
+      "role": "财务总监",
+      "quote": "毕研勋...现任本公司党委委员，2022年4月至本报告期末任本公司财务总监，2022年8月至本报告期末任本公司董事。"
+    },
+    {
+      "name": "张欣",
+      "role": "董事会秘书",
+      "quote": "张欣...2025年6月至本报告期末任本公司董事会秘书兼证券事务代表。"
+    },
+    {
+      "name": "史志刚",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）史志刚"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国重汽（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东为中国重汽（香港）有限公司。"
+    },
+    {
+      "name": "山东重工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "最终控股公司",
+      "quote": "最终控股公司为山东重工集团有限公司（“山东重工集团”）。"
+    },
+    {
+      "name": "中国重汽集团国际有限公司",
+      "relation_type": "customer",
+      "business_details": "负责出口业务",
+      "quote": "产品依托重汽国际公司实现出口。"
+    },
+    {
+      "name": "重汽（济南）车桥有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产车桥产品，优先满足公司内部配套",
+      "quote": "公司旗下有控股子公司重汽（济南）车桥有限公司...主要为本公司及中国重汽集团旗下其他相关整车企业提供各类型号的车桥产品。"
+    },
+    {
+      "name": "重汽（济南）后市场智慧服务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "以及全资子公司重汽（济南）后市场智慧服务有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "整车销售",
+      "segment_type": "product_line",
+      "revenue_amount": "44，609，597，041.64元",
+      "revenue_proportion": "77.27%",
+      "gross_margin": "6.73%",
+      "yoy_change": "收入比上年同期增减24.14%",
+      "quote": "整车销售 44，609，597，041.64 77.27% 24.14%"
+    },
+    {
+      "name": "配件销售",
+      "segment_type": "product_line",
+      "revenue_amount": "13，021，645，794.30元",
+      "revenue_proportion": "22.55%",
+      "gross_margin": "10.89%",
+      "yoy_change": "收入比上年同期增减46.20%",
+      "quote": "配件销售 13，021，645，794.30 22.55% 46.20%"
+    },
+    {
+      "name": "租赁收入",
+      "segment_type": "product_line",
+      "revenue_amount": "23，205，319.78元",
+      "revenue_proportion": "0.04%",
+      "gross_margin": null,
+      "yoy_change": "收入比上年同期增减-17.07%",
+      "quote": "租赁收入 23，205，319.78 0.04% -17.07%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "82，754，025.25元",
+      "revenue_proportion": "0.14%",
+      "gross_margin": null,
+      "yoy_change": "收入比上年同期增减35.78%",
+      "quote": "其他 82，754，025.25 0.14% 35.78%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "57，737，202，180.97元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "7.80%",
+      "yoy_change": "收入比上年同期增减28.51%",
+      "quote": "国内销售 57，737，202，180.97 100.00% 28.51%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "57，737，202，180.97元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "7.80%",
+      "yoy_change": "收入比上年同期增减28.51%",
+      "quote": "经销 57，737，202，180.97 100.00% 28.51%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "重型货车",
+      "metric_type": "capacity",
+      "value": "公司现有产能可以满足新能源重卡需求",
+      "period": "报告期",
+      "quote": "整车产品产销情况：产量 本报告期 158，871 上年同期 112，656 与上年同比增减 41.02%"
+    },
+    {
+      "product": "重型货车",
+      "metric_type": "production_volume",
+      "value": "158，871辆",
+      "period": "2025年",
+      "quote": "报告期内，公司整车生产15.89万辆，同比增长41.02%"
+    },
+    {
+      "product": "重型货车",
+      "metric_type": "sales_volume",
+      "value": "173，909辆",
+      "period": "2025年",
+      "quote": "销售重卡17.39万辆，同比增长30.77%"
+    },
+    {
+      "product": "重型货车",
+      "metric_type": "inventory_volume",
+      "value": "10，122辆",
+      "period": "报告期末",
+      "quote": "库存量 辆 2025年 10，122 上年同期 7，170"
+    },
+    {
+      "product": "新能源重卡",
+      "metric_type": "production_volume",
+      "value": "21，743辆",
+      "period": "报告期",
+      "quote": "产品类别：新能源重卡...产量 21，743"
+    },
+    {
+      "product": "新能源重卡",
+      "metric_type": "sales_volume",
+      "value": "17，944辆",
+      "period": "报告期",
+      "quote": "产品类别：新能源重卡...销量 17，944"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能网联（新能源）重卡项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "累计实际投入金额4，628，198，335.62元",
+      "designed_capacity": null,
+      "progress": "75.70%",
+      "expected_completion_time": "2026年12月",
+      "quote": "智能网联（新能源）重卡项目...截至报告期末累计实际投入金额 4，628，198，335.62元...项目进度 75.70%...预计投产或完工时间 2026年12月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": "车桥",
+      "quantitative_info": "将连续三年享受国家关于高新技术企业的相关税收优惠政策",
+      "quote": "济南车桥公司还获评“高新技术企业”称号，将连续三年享受国家关于高新技术企业的相关税收优惠政策。"
+    },
+    {
+      "name": "模块化设计",
+      "asset_type": "process_technology",
+      "related_product": "整车",
+      "quantitative_info": null,
+      "quote": "在智能化技术创新方面，通过模块化设计理念，实现研发、生产、售后无缝衔接，提升全产业链协同效应与规模效应。"
+    },
+    {
+      "name": "整车仿真平台与整车域控制系统",
+      "asset_type": "technical_platform",
+      "related_product": "整车",
+      "quantitative_info": null,
+      "quote": "整车仿真平台与整车域控制系统升级，提升车辆关键性能指标与智能化水平，为用户带来全新驾驶体验。"
+    },
+    {
+      "name": "自动驾驶、智能网联和车联网技术",
+      "asset_type": "core_technology",
+      "related_product": "整车",
+      "quantitative_info": null,
+      "quote": "在智能化技术方面，公司绝大部分车型融合自动驾驶、智能网联和车联网等技术，为商用车行业智能化升级提供中国方案。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "33，695，859，622.66元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 33，695，859，622.66"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "58.36%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 58.36%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "55.46%",
+      "related_entity": "山东重工",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 55.46%。公司前5大客户资料：1 山东重工 32，020，195，893.99元 55.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "31，486，605，716.35元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 31，486，605，716.35"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "58.50%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 58.50%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "47.59%",
+      "related_entity": "山东重工",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 47.59%。公司前5名供应商资料：1 山东重工 25，617，353，327.89元 47.59%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例58.36%，其中关联方山东重工占比55.46%。",
+      "related_entity": "山东重工",
+      "related_product": "整车及配件",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 58.36%...前五名客户销售额中关联方销售额占年度销售总额比例 55.46%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "前五名供应商合计采购金额占年度采购总额比例58.50%，其中关联方山东重工占比47.59%。",
+      "related_entity": "山东重工",
+      "related_product": "整车及零部件",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 58.50%...前五名供应商采购额中关联方采购额占年度采购总额比例 47.59%"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业整体竞争加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年，公司持续提升产品核心竞争力，不断深耕细分市场，精准制定营销策略，践行全价值链营销模式创新，灵活优化促销政策结构，在行业整体竞争加剧的背景下，在重点细分市场取得了突破。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国四及以下老旧营运货车以旧换新补贴政策等宏观政策影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受国四及以下老旧营运货车以旧换新补贴政策影响，国内市场需求持续增长。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "营业成本中原材料及配套件占比93.54%，原材料价格波动对成本影响显著。",
+      "related_entity": null,
+      "related_product": "原材料及配套件",
+      "quote": "营业成本构成：汽车制造业 原材料及配套件 49，794，101，821.98 93.54%"
+    }
+  ]
+}

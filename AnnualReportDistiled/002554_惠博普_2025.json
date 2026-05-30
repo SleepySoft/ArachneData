@@ -1,0 +1,543 @@
+{
+  "company_name_mentioned": "华油惠博普科技股份有限公司",
+  "produces": [
+    {
+      "name": "油气工程及服务",
+      "type": "service",
+      "revenue_proportion": "75.85%",
+      "quote": "油气工程及服务实现收入 176,589.34 万元，同比减少 11.39%，在营业收入中占比 75.85%。"
+    },
+    {
+      "name": "环境工程及服务",
+      "type": "service",
+      "revenue_proportion": "4.75%",
+      "quote": "环境工程及服务业务实现收入 11,064.43 万元，同比增加 21.18%，在营业收入中占比 4.75%。"
+    },
+    {
+      "name": "油气资源开发利用",
+      "type": "service",
+      "revenue_proportion": "19.40%",
+      "quote": "油气资源开发利用实现收入 45,153.20万元，同比减少 13.86%，在营业收入中占比 19.40%。"
+    },
+    {
+      "name": "EPCC 总承包服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主营业务包括油气工程及运营服务（EPCC）、环境工程及服务、油气资源开发及利用。"
+    },
+    {
+      "name": "油气处理系统装备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品种类繁多，可根据用户要求个性化设计制造成套装备或单体设备。"
+    },
+    {
+      "name": "碳捕集利用和封存（CCUS）技术与装备",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "重点形成以碳捕集、碳回收利用为核心的专有工艺技术包及其产品化的成套装备。"
+    },
+    {
+      "name": "城市乡镇生活污水处理厂",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "目前公司市政环保业务主要提供：城市乡镇生活污水处理厂、河道湖泊城市水系综合治理、锅炉烟气净化、区域环境降尘。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料",
+      "target_product": "油气工程及服务、环境工程及服务、油气资源开发及利用",
+      "cost_proportion": "55.02%（占油气工程及服务成本比重）",
+      "quote": "油气工程及服务 材料 1,121,502,472.46 55.02%。"
+    },
+    {
+      "name": "人工",
+      "target_product": "油气工程及服务、环境工程及服务",
+      "cost_proportion": "3.51%（占油气工程及服务成本比重）",
+      "quote": "油气工程及服务 人工 71,486,530.90 3.51%。"
+    },
+    {
+      "name": "费用",
+      "target_product": "油气工程及服务、环境工程及服务、油气资源开发及利用",
+      "cost_proportion": "15.56%（占油气工程及服务成本比重）",
+      "quote": "油气工程及服务 费用 317,160,338.06 15.56%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "油气田开发",
+      "source_product": "油气工程及服务",
+      "quote": "公司产品累计覆盖海外 30 多个国家和地区超过 50 个油田。"
+    },
+    {
+      "name": "石油石化环保",
+      "source_product": "环境工程及服务",
+      "quote": "石油石化环保是对原油开采及储运过程中产生大量的含油污泥、含油污水、废气等污染物进行环保处理的设施和操作。"
+    },
+    {
+      "name": "市政污水处理",
+      "source_product": "环境工程及服务",
+      "quote": "目前公司市政环保业务主要提供：城市乡镇生活污水处理厂、河道湖泊城市水系综合治理、锅炉烟气净化、区域环境降尘。"
+    },
+    {
+      "name": "居民、公服、工业用户天然气供应",
+      "source_product": "油气资源开发利用",
+      "quote": "为居民、公服、工业用户长期提供稳定、清洁、高效的天然气资源。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "卢炜",
+      "role": "总经理",
+      "quote": "公司负责人卢炜、主管会计工作负责人张中炜及会计机构负责人（会计主管人员）范丽亭声明...；2025 年1月起任公司总经理。"
+    },
+    {
+      "name": "张中炜",
+      "role": "董事、董事会秘书、常务副总经理、财务负责人",
+      "quote": "主管会计工作负责人张中炜...；2025年1月至今任公司董事、董事会秘书、常务副总经理，兼任财务负责人。"
+    },
+    {
+      "name": "范丽亭",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人卢炜、主管会计工作负责人张中炜及会计机构负责人（会计主管人员）范丽亭声明..."
+    },
+    {
+      "name": "潘青",
+      "role": "董事长",
+      "quote": "潘青 女 58 现任 2023年02月28日至今 董事长。"
+    },
+    {
+      "name": "周彤群",
+      "role": "董事",
+      "quote": "周彤群 女 57 现任 2024年07月08日至今 董事。"
+    },
+    {
+      "name": "周耀武",
+      "role": "董事",
+      "quote": "周耀武 男 50 现任 2024年10月14日至今 董事。"
+    },
+    {
+      "name": "刘剑",
+      "role": "董事",
+      "quote": "刘剑 男 42 现任 2025年02月10日至今 董事。"
+    },
+    {
+      "name": "崔松鹤",
+      "role": "独立董事",
+      "quote": "崔松鹤 男 56 现任 2019年09月25日至今 独立董事。"
+    },
+    {
+      "name": "宋东升",
+      "role": "独立董事",
+      "quote": "宋东升 男 64 现任 2019年09月25日至今 独立董事。"
+    },
+    {
+      "name": "董秀成",
+      "role": "独立董事",
+      "quote": "董秀成 男 64 现任 2023年02月28日至今 独立董事。"
+    },
+    {
+      "name": "周学深",
+      "role": "副总经理",
+      "quote": "周学深 男 56 现任 2019年09月25日至今 副总经理。"
+    },
+    {
+      "name": "金翊龙",
+      "role": "副总经理",
+      "quote": "金翊龙 男 47 现任 2024年06月21日至今 副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "长沙水业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东由黄松、白明垠和肖荣三人变更为长沙水业集团有限公司。"
+    },
+    {
+      "name": "长沙市人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人名称 长沙市人民政府国有资产监督管理委员会。"
+    },
+    {
+      "name": "香港惠华环球科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，石油设备自动化产品贸易与技术服务",
+      "quote": "香港惠华 子公司 石油设备自动化产品贸易与技术服务。"
+    },
+    {
+      "name": "大庆惠博普石油机械设备制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，石油设备制造销售",
+      "quote": "大庆惠博普石油机械设备制造有限公司 子公司 石油设备制造销售。"
+    },
+    {
+      "name": "北京华油科思能源管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事城市燃气、天然气管道运营管理、LNG业务",
+      "quote": "惠博普集团旗下全资子公司，北京华油科思能源管理有限公司是一家专门从事城市燃气、天然气管道运营管理、LNG业务的专业化公司。"
+    },
+    {
+      "name": "惠博普能源技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "惠博普能源 指 惠博普能源技术有限公司。"
+    },
+    {
+      "name": "惠博普环境工程技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "惠博普环境工程 指 惠博普环境工程技术有限公司。"
+    },
+    {
+      "name": "凯特数智科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "凯特数智 指 凯特数智科技有限公司。"
+    },
+    {
+      "name": "河南省啄木鸟地下管线检测有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "啄木鸟公司 指 河南省啄木鸟地下管线检测有限公司。"
+    },
+    {
+      "name": "马来西亚国家石油公司",
+      "relation_type": "customer",
+      "business_details": "国际石油公司合格供应商",
+      "quote": "公司已经获得马来西亚国家石油公司、卢克石油等国际石油公司的合格供应商准入资格。"
+    },
+    {
+      "name": "卢克石油",
+      "relation_type": "customer",
+      "business_details": "国际石油公司合格供应商",
+      "quote": "公司已经获得马来西亚国家石油公司、卢克石油等国际石油公司的合格供应商准入资格。"
+    },
+    {
+      "name": "中南水务科技有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方，向其购买水处理等设备",
+      "quote": "向关联方采购商品/接受劳务 购买水处理等设备。"
+    },
+    {
+      "name": "中南水务工程有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方，向其购买土建装修服务",
+      "quote": "向关联方采购商品/接受劳务 购买土建装修服务。"
+    },
+    {
+      "name": "中国石油大学",
+      "relation_type": "other",
+      "business_details": "合作研发机构",
+      "quote": "公司还与中国石油大学、中科院力学所等科研机构进行了多项合作研发。"
+    },
+    {
+      "name": "中科院力学所",
+      "relation_type": "other",
+      "business_details": "合作研发机构",
+      "quote": "公司还与中国石油大学、中科院力学所等科研机构进行了多项合作研发。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "油气工程及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,765,893,363.42 元",
+      "revenue_proportion": "75.85%",
+      "gross_margin": "14.27%",
+      "yoy_change": "-11.39%",
+      "quote": "油气工程及服务 1,765,893,363.42 75.85% ... 毛利率 14.27%。"
+    },
+    {
+      "name": "环境工程及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "110,644,330.27 元",
+      "revenue_proportion": "4.75%",
+      "gross_margin": "12.12%",
+      "yoy_change": "21.18%",
+      "quote": "环境工程及服务 110,644,330.27 4.75% ... 毛利率 12.12%。"
+    },
+    {
+      "name": "油气资源开发及利用",
+      "segment_type": "product_line",
+      "revenue_amount": "451,531,974.59 元",
+      "revenue_proportion": "19.40%",
+      "gross_margin": "5.36%",
+      "yoy_change": "-13.86%",
+      "quote": "油气资源开发及利用 451,531,974.59 19.40% ... 毛利率 5.36%。"
+    },
+    {
+      "name": "海外",
+      "segment_type": "region",
+      "revenue_amount": "1,514,862,312.04 元",
+      "revenue_proportion": "65.07%",
+      "gross_margin": "11.82%",
+      "yoy_change": "-8.35%",
+      "quote": "海外 1,514,862,312.04 65.07% ... 毛利率 11.82%。"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "544,122,871.27 元",
+      "revenue_proportion": "23.37%",
+      "gross_margin": "9.40%",
+      "yoy_change": "-16.46%",
+      "quote": "华北 544,122,871.27 23.37% ... 毛利率 9.40%。"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,328,069,668.28 元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "12.44%",
+      "yoy_change": "-10.74%",
+      "quote": "分销售模式 直接销售 2,328,069,668.28 100.00% ... 毛利率 12.44%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "石油和天然气开采服务行业",
+      "metric_type": "sales_volume",
+      "value": "852 个项目",
+      "period": "2025年",
+      "quote": "销售量 项目数量 852。"
+    },
+    {
+      "product": "石油和天然气开采服务行业",
+      "metric_type": "production_volume",
+      "value": "817 个项目",
+      "period": "2025年",
+      "quote": "生产量 项目数量 817。"
+    },
+    {
+      "product": "石油和天然气开采服务行业",
+      "metric_type": "inventory_volume",
+      "value": "368 个项目",
+      "period": "2025年末",
+      "quote": "库存量 项目数量 368。"
+    },
+    {
+      "product": "石油和天然气开采服务行业",
+      "metric_type": "capacity",
+      "value": "在手订单60.25亿元",
+      "period": "报告期末",
+      "quote": "期末在手订单60.25亿元，主要来源于海外地区的油气工程服务项目。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "天然气提氦催化脱氢技术研究",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "研发中",
+      "expected_completion_time": null,
+      "quote": "天然气提氦催化脱氢技术研究 项目1 研发中。"
+    },
+    {
+      "name": "开发完整性检测平台研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "开发完整性检测平台研发项目 项目2 已完成。"
+    },
+    {
+      "name": "开发二氧化碳储能技术与装备",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "研发中",
+      "expected_completion_time": null,
+      "quote": "开发二氧化碳储能技术与装备 项目3 研发中。"
+    },
+    {
+      "name": "开发高效除油器产品研发及系列化",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "研发中",
+      "expected_completion_time": null,
+      "quote": "开发高效除油器产品研发及系列化 项目4 研发中。"
+    },
+    {
+      "name": "开发面向油气管道组态连通性动态监视系统",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "开发面向油气管道组态连通性动态监视系统 项目5 已完成。"
+    },
+    {
+      "name": "开发油田含盐废水零排放技术",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "研发中",
+      "expected_completion_time": null,
+      "quote": "开发油田含盐废水零排放技术 项目6 研发中。"
+    },
+    {
+      "name": "墨西哥天然气发电项目",
+      "project_type": "other",
+      "location": "墨西哥",
+      "investment_amount": "180,228.29万美元（合同总金额）",
+      "designed_capacity": null,
+      "progress": "受重大仲裁相关事项影响",
+      "expected_completion_time": null,
+      "quote": "联邦电力委员会墨西哥天然气发电项目 180,228.29万美元。"
+    },
+    {
+      "name": "埃塞俄比亚天然气集输及处理EPCC项目",
+      "project_type": "other",
+      "location": "埃塞俄比亚",
+      "investment_amount": "31,158.46万美元（合同总金额）",
+      "designed_capacity": null,
+      "progress": "尚未开工",
+      "expected_completion_time": null,
+      "quote": "埃塞俄比亚天然气集输及处理EPCC项目 31,158.46万美元。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "以分离技术为核心的油气处理领域专业化技术",
+      "asset_type": "core_technology",
+      "related_product": "油气工程及服务",
+      "quantitative_info": null,
+      "quote": "公司多年来形成了以分离技术为核心的油气处理领域的专业化优势。"
+    },
+    {
+      "name": "工艺系统解决方案优化、创新技术",
+      "asset_type": "core_technology",
+      "related_product": "油气工程及服务",
+      "quantitative_info": null,
+      "quote": "公司的技术优势还体现为三个层面：首先体现为工艺系统解决方案的优化、创新能力。"
+    },
+    {
+      "name": "碳捕集利用和封存（CCUS）工艺技术包",
+      "asset_type": "process_technology",
+      "related_product": "碳捕集利用和封存（CCUS）",
+      "quantitative_info": null,
+      "quote": "重点形成以碳捕集、碳回收利用为核心的专有工艺技术包及其产品化的成套装备。"
+    },
+    {
+      "name": "天然气提氦工艺技术",
+      "asset_type": "process_technology",
+      "related_product": "天然气提氦",
+      "quantitative_info": null,
+      "quote": "通过天然气提氦工艺优化设计研究、提氦设备优化设计研究、提氦装置布置优化设计研究形成天然气提氦工程设计应用能力。"
+    },
+    {
+      "name": "油田含盐废水零排放技术",
+      "asset_type": "process_technology",
+      "related_product": "油田环保",
+      "quantitative_info": null,
+      "quote": "开发油田含盐废水零排放技术。"
+    },
+    {
+      "name": "国际标准认证体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "较早参与国际化的竞争，促使公司建立了较为完善的国际化标准体系，健全了完善的国际标准认证体系。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "1,768,937,387.73元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,768,937,387.73。"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "75.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 75.98%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "542,315,152.52元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 542,315,152.52。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "27.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 27.13%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司客户主要为我国国有大型石油集团和外国大型能源类巨头，普遍具有数量少、规模大、实力强的特点；加之油田服务项目往往投资金额较大，服务期限较长，从而导致客户集中度较高。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "如果宏观经济环境或产业政策发生变化，导致原油价格持续低迷，各大石油公司将会较为一致地采取压缩投资，削减成本的策略...从而降低对本公司产品和服务的需求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、依赖石油行业及油价波动的风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国内宏观政策和产业政策可能发生的新变化，包括：成品油价格机制进一步完善，天然气价格形成机制改革和完善，资源税改革和环境税改革等，会影响能源需求以及油气勘探开发的投资规模和速度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、油气行业政策变化风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "全球油气资源主要集中在中东地区如伊拉克等国家，这些国家动荡的政治环境、政府市场监管态度的转变以及经营生产安全条件的恶化为国际市场开发以及海外项目的开展带来了一定的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、海外业务所在地的政策风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "EPC项目管理对进度、质量和成本三者的控制能力和水平有着极高的专业要求。如果未来公司在业务扩张中不能同步加强EPC项目管理体系的建设...将会在项目实施过程中遇到各类问题，甚至导致整个EPC项目的失败。",
+      "related_entity": null,
+      "related_product": "EPC项目",
+      "quote": "4、EPC项目经营风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司客户主要为我国国有大型石油集团和外国大型能源类巨头...从而导致客户集中度较高...若公司与主要客户的合作出现不利变化或新市场新客户拓展开发不及预期，将对公司业务的持续和稳定带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、主要客户依赖风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "海外项目的收入多以美元计价，加之人民币与主要结算货币美元、欧元等汇率波动幅度较大...如果未来人民币汇率持续剧烈波动，将会对公司海外业务的结算带来不利影响，造成汇兑损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、汇率波动的风险。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "申请人能建国际就与公司于2022年7月15日签订的《墨西哥莱多天然气发电厂项目委托实施合同》所引起的争议向北仲递交了《仲裁申请书》...预计将对公司2025年度净利润产生一定影响。仲裁反请求亦正在审理中，对公司本期利润及期后利润的影响尚存在不确定性。",
+      "related_entity": "能建国际",
+      "related_product": "墨电项目",
+      "quote": "主要系墨电项目仲裁等因素综合影响。"
+    }
+  ]
+}

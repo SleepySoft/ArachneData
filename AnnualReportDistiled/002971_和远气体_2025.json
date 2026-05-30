@@ -1,0 +1,575 @@
+{
+  "company_name_mentioned": "湖北和远气体股份有限公司",
+  "produces": [
+    {
+      "name": "氧气、氮气、氩气、氢气、高纯氨等",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司分别在宜昌、潜江、襄阳、黄冈建设了四大液态气体生产基地...主要产品...电子级高纯氨、高纯一氧化碳等产品已稳产、量产并开始销售"
+    },
+    {
+      "name": "电子特气及电子化学品",
+      "type": "material",
+      "revenue_proportion": "4.14%",
+      "quote": "分产品：1、电子特气及电子化学品 68,863,740.32 4.14%"
+    },
+    {
+      "name": "硅基功能性新材料（硅烷偶联剂）",
+      "type": "material",
+      "revenue_proportion": "0.18%",
+      "quote": "分产品：2、硅基功能性新材料 3,062,597.34 0.18%"
+    },
+    {
+      "name": "大宗气体（氧、氮、氩、二氧化碳等）",
+      "type": "device",
+      "revenue_proportion": "47.53%",
+      "quote": "分产品：3、大宗气体 790,972,752.05 47.53%"
+    },
+    {
+      "name": "工业级化学品（液氨、氨水等）",
+      "type": "material",
+      "revenue_proportion": "28.52%",
+      "quote": "分产品：4、工业级化学品 474,633,176.82 28.52%"
+    },
+    {
+      "name": "清洁能源（燃料电池用氢气、纯氢、超纯氢、液化天然气）",
+      "type": "device",
+      "revenue_proportion": "14.09%",
+      "quote": "分产品：5、清洁能源 234,446,453.29 14.09%"
+    },
+    {
+      "name": "污水处理服务",
+      "type": "service",
+      "revenue_proportion": "2.68%",
+      "quote": "分产品：8、污水处理服务 44,554,760.22 2.68%"
+    },
+    {
+      "name": "委托加工尾气回收",
+      "type": "service",
+      "revenue_proportion": "0.68%",
+      "quote": "分产品：6、委托加工尾气回收 11,290,223.71 0.68%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "粗氨",
+      "target_product": "高纯氨等",
+      "cost_proportion": "30.13%",
+      "quote": "主要原材料 粗氨 原材料 30.13%"
+    },
+    {
+      "name": "粗氢",
+      "target_product": "氢气等",
+      "cost_proportion": "6.45%",
+      "quote": "主要原材料 粗氢 原材料 6.45%"
+    },
+    {
+      "name": "粗氢（尾气回收）",
+      "target_product": "氢气等",
+      "cost_proportion": "0.61%",
+      "quote": "主要原材料 粗氢 尾气回收 0.61%"
+    },
+    {
+      "name": "电力",
+      "target_product": "各类气体产品",
+      "cost_proportion": null,
+      "quote": "主要能源类型 电 125,214,770.31 223,520,545 142,696,621.41 250,559,051"
+    },
+    {
+      "name": "金属硅、盐酸等（产业园原料）",
+      "target_product": "电子特气、功能性新材料",
+      "cost_proportion": null,
+      "quote": "宜昌电子特气及功能性材料产业园项目和潜江电子特气产业园项目...投产后原料采购占比将增大，达到总采购额的80%，包括金属硅、盐酸..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "化工、钢铁、食品、家电、机械等基础行业",
+      "source_product": "大宗气体、工业级化学品",
+      "quote": "产品广泛服务于化工、钢铁、食品、家电、机械等基础行业"
+    },
+    {
+      "name": "半导体、新能源、生物医药等新兴产业",
+      "source_product": "电子特气及电子化学品、清洁能源等",
+      "quote": "以及半导体、新能源、生物医药等新兴产业"
+    },
+    {
+      "name": "集成电路、显示面板、LED、太阳能电池、光伏、光纤等行业",
+      "source_product": "电子特气及电子化学品",
+      "quote": "产品广泛应用于集成电路、显示面板、LED、太阳能电池、光伏、光纤等行业，在光刻、刻蚀、成膜、清洗、掺杂、沉积等工艺环节"
+    },
+    {
+      "name": "建筑建材、电子、新能源汽车等领域",
+      "source_product": "硅基功能性新材料（硅烷偶联剂）",
+      "quote": "广泛应用于建筑建材、电子、新能源汽车等领域"
+    },
+    {
+      "name": "加气站、新能源加氢站、芯片工厂、液晶面板厂等",
+      "source_product": "清洁能源（氢气、LNG）",
+      "quote": "客户群体有加气站、新能源加氢站、芯片工厂、液晶面板厂、精细化工、生物医药、光伏、光纤工厂等"
+    },
+    {
+      "name": "食品加工领域",
+      "source_product": "液氮冷冻技术",
+      "quote": "公司将液氮从传统工业领域拓展到食品加工领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨涛",
+      "role": "董事长、总经理",
+      "quote": "公司负责人杨涛...2012年7月至今，任和远气体董事长、总经理"
+    },
+    {
+      "name": "李吉鹏",
+      "role": "董事、董事会秘书",
+      "quote": "李吉鹏...2012年7月至今，任和远气体董事、董事会秘书"
+    },
+    {
+      "name": "王臣",
+      "role": "董事、副总经理",
+      "quote": "王臣...2016年5月至今，任和远气体副总经理；2022年3月至今，任和远气体董事"
+    },
+    {
+      "name": "江罗",
+      "role": "副总经理、首席专家",
+      "quote": "江罗：1987年出生，博士...公司首席专家...2024年7月至今，任和远气体副总经理"
+    },
+    {
+      "name": "赵晓风",
+      "role": "财务总监",
+      "quote": "赵晓风...2022年2月至今，任和远气体财务总监"
+    },
+    {
+      "name": "方强",
+      "role": "研发一部主任、技术负责人",
+      "quote": "方强：1985年出生...公司研发一部主任，技术负责人"
+    },
+    {
+      "name": "杜鹏举",
+      "role": "研发二部主任、技术负责人",
+      "quote": "杜鹏举：1988年出生...公司研发二部主任，技术负责人"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宜昌蓝天气体有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "宜昌蓝天 指 公司全资子公司，宜昌蓝天气体有限公司"
+    },
+    {
+      "name": "和远潜江电子特种气体有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "潜江特气 指 公司控股子公司，和远潜江电子特种气体有限公司"
+    },
+    {
+      "name": "湖北和远新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "和远新材料 指 公司控股子公司，湖北和远新材料有限公司"
+    },
+    {
+      "name": "湖北长阳农村商业银行股份有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "长阳农商行 指 公司参股公司，湖北长阳农村商业银行股份有限公司"
+    },
+    {
+      "name": "宜昌思远产业投资基金合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "思远基金 指 公司参股公司，宜昌思远产业投资基金合伙企业（有限合伙）"
+    },
+    {
+      "name": "兴发集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "其中，传统大宗气体领域包括兴发集团..."
+    },
+    {
+      "name": "菲利华",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "菲利华..."
+    },
+    {
+      "name": "邦普时代",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "邦普时代..."
+    },
+    {
+      "name": "晶科能源",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "电子特气及电子化学品、硅基功能性新材料领域包括晶科能源..."
+    },
+    {
+      "name": "通威股份",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通威股份..."
+    },
+    {
+      "name": "湖北和远气体运输有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "和远运输 指 公司全资子公司，湖北和远气体运输有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "主营业务收入（气体销售等）",
+      "segment_type": "other",
+      "revenue_amount": "1,571,978,719.82元",
+      "revenue_proportion": "94.47%",
+      "gross_margin": "18.41%",
+      "yoy_change": "6.78%",
+      "quote": "分行业：1、主营业务收入（气体销售等） 1,571,978,719.82 94.47%"
+    },
+    {
+      "name": "其他业务收入（委托加工尾气回收、租赁及技术服务等）",
+      "segment_type": "other",
+      "revenue_amount": "92,056,174.77元",
+      "revenue_proportion": "5.53%",
+      "gross_margin": "26.99%",
+      "yoy_change": "51.37%",
+      "quote": "2、其他业务收入（委托加工尾气回收、租赁及技术服务等） 92,056,174.77 5.53%"
+    },
+    {
+      "name": "湖北省内",
+      "segment_type": "region",
+      "revenue_amount": "1,407,336,135.65元",
+      "revenue_proportion": "84.57%",
+      "gross_margin": "19.63%",
+      "yoy_change": "5.42%",
+      "quote": "分地区：1、湖北省内 1,407,336,135.65 84.57%"
+    },
+    {
+      "name": "湖北省外",
+      "segment_type": "region",
+      "revenue_amount": "256,698,758.94元",
+      "revenue_proportion": "15.43%",
+      "gross_margin": "14.81%",
+      "yoy_change": "29.65%",
+      "quote": "2、湖北省外 256,698,758.94 15.43%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "氧气",
+      "metric_type": "capacity",
+      "value": "42万吨",
+      "period": "2025年",
+      "quote": "主要产品 设计产能 产能利用率...氧气 42万吨 80.34%"
+    },
+    {
+      "product": "氮气",
+      "metric_type": "capacity",
+      "value": "76万吨",
+      "period": "2025年",
+      "quote": "氮气 76万吨 76.17%"
+    },
+    {
+      "product": "氩气",
+      "metric_type": "capacity",
+      "value": "1万吨",
+      "period": "2025年",
+      "quote": "氩气 1万吨 79.53%"
+    },
+    {
+      "product": "氢气",
+      "metric_type": "capacity",
+      "value": "8800万m³",
+      "period": "2025年",
+      "quote": "氢气 8800万m³ 81.90%"
+    },
+    {
+      "product": "高纯氨",
+      "metric_type": "capacity",
+      "value": "1万吨",
+      "period": "2025年",
+      "quote": "高纯氨 1万吨 68.17%"
+    },
+    {
+      "product": "氧气",
+      "metric_type": "capacity_utilization",
+      "value": "80.34%",
+      "period": "2025年",
+      "quote": "氧气 42万吨 80.34%"
+    },
+    {
+      "product": "氮气",
+      "metric_type": "capacity_utilization",
+      "value": "76.17%",
+      "period": "2025年",
+      "quote": "氮气 76万吨 76.17%"
+    },
+    {
+      "product": "氩气",
+      "metric_type": "capacity_utilization",
+      "value": "79.53%",
+      "period": "2025年",
+      "quote": "氩气 1万吨 79.53%"
+    },
+    {
+      "product": "氢气",
+      "metric_type": "capacity_utilization",
+      "value": "81.90%",
+      "period": "2025年",
+      "quote": "氢气 8800万m³ 81.90%"
+    },
+    {
+      "product": "高纯氨",
+      "metric_type": "capacity_utilization",
+      "value": "68.17%",
+      "period": "2025年",
+      "quote": "高纯氨 1万吨 68.17%"
+    },
+    {
+      "product": "氧气",
+      "metric_type": "sales_volume",
+      "value": "446,185.96吨",
+      "period": "2025年",
+      "quote": "氧气 销售量 吨 446,185.96"
+    },
+    {
+      "product": "氮气",
+      "metric_type": "sales_volume",
+      "value": "720,629.96吨",
+      "period": "2025年",
+      "quote": "氮气 销售量 吨 720,629.96"
+    },
+    {
+      "product": "氩气",
+      "metric_type": "sales_volume",
+      "value": "36,686.23吨",
+      "period": "2025年",
+      "quote": "氩气 销售量 吨 36,686.23"
+    },
+    {
+      "product": "氢气",
+      "metric_type": "sales_volume",
+      "value": "7,751.89万方（气态）",
+      "period": "2025年",
+      "quote": "氢气 销售量 气态万方 7,751.89"
+    },
+    {
+      "product": "工业氨气",
+      "metric_type": "sales_volume",
+      "value": "235,480.78吨",
+      "period": "2025年",
+      "quote": "工业氨气 销售量 吨 235,480.78"
+    },
+    {
+      "product": "氧气",
+      "metric_type": "production_volume",
+      "value": "337,425.01吨",
+      "period": "2025年",
+      "quote": "氧气 生产量 吨 337,425.01"
+    },
+    {
+      "product": "氮气",
+      "metric_type": "production_volume",
+      "value": "578,879.95吨",
+      "period": "2025年",
+      "quote": "氮气 生产量 吨 578,879.95"
+    },
+    {
+      "product": "氩气",
+      "metric_type": "production_volume",
+      "value": "7,953.35吨",
+      "period": "2025年",
+      "quote": "氩气 生产量 吨 7,953.35"
+    },
+    {
+      "product": "氢气",
+      "metric_type": "production_volume",
+      "value": "7,207.00万方（气态）",
+      "period": "2025年",
+      "quote": "氢气 生产量 气态万方 7,207.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "宜昌电子特气及功能性材料产业园项目",
+      "project_type": "capacity_expansion",
+      "location": "宜昌",
+      "investment_amount": "2,590,040,638.73元（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "99.60%",
+      "expected_completion_time": null,
+      "quote": "宜昌电子特气及功能性材料产业园项目...累计实际投入金额...进度 99.60%"
+    },
+    {
+      "name": "潜江新增电子特气和电子化学品项目",
+      "project_type": "capacity_expansion",
+      "location": "潜江",
+      "investment_amount": "736,896,577.22元（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "99.80%",
+      "expected_completion_time": null,
+      "quote": "新增电子特气和电子化学品项目...累计实际投入金额...进度 99.80%"
+    },
+    {
+      "name": "年输送1.6亿标方氢气管道建设项目(厂区至王场盐化工业园段)",
+      "project_type": "construction_project",
+      "location": "潜江",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2026年3月4日取得环评批复",
+      "expected_completion_time": null,
+      "quote": "和远潜江电子特种气体有限公司的“年输送1.6亿标方氢气管道建设项目(厂区至王场盐化工业园段)”项目...2026年3月4日取得环评批复"
+    },
+    {
+      "name": "电子特气前驱体和功能性材料及配套工程项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "宜昌",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年9月3日取得环评批复",
+      "expected_completion_time": null,
+      "quote": "湖北和远新材料有限公司的“电子特气前驱体和功能性材料及配套工程项目（一期）”，于2025年9月3日取得环评批复"
+    },
+    {
+      "name": "扩建4500吨/年电子级三氟化氮项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "宜昌",
+      "investment_amount": null,
+      "designed_capacity": "4500吨/年",
+      "progress": "2025年12月5日通过专家评审",
+      "expected_completion_time": null,
+      "quote": "湖北和远新材料有限公司的“扩建4500吨/年电子级三氟化氮项目（一期）”项目...2025年12月5日通过专家评审"
+    },
+    {
+      "name": "集成电路先进制程用7N级及以上超纯氨制造关键技术研究",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2027年8月",
+      "quote": "以工业氨为原料，采用先进的纯化、精馏、循环热泵、杂质在线检测集成技术，研制7N电子级超纯氨产品...2025年8月至2027年8月，进行中"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "26项",
+      "quote": "公司拥有26项发明专利"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "161项",
+      "quote": "161项实用新型专利"
+    },
+    {
+      "name": "国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与编制18项，其中已发布13项",
+      "quote": "参与编制了18项国家标准，其中已发布13项"
+    },
+    {
+      "name": "分析与检测中心",
+      "asset_type": "other",
+      "related_product": "气体分析与检测",
+      "quantitative_info": null,
+      "quote": "公司建立了分析与检测中心，配备了ICP-MS、GC-MS等国内外最先进的分析检测设备，是国内规模最大、检测项目最齐全的气体分析与检测实验室之一"
+    },
+    {
+      "name": "空分系统节能降耗技术",
+      "asset_type": "core_technology",
+      "related_product": "氧气、氮气、氩气",
+      "quantitative_info": null,
+      "quote": "公司在空分系统节能降耗、工业尾气回收净化利用、电子特气、新材料生产技术、液氮冷冻等方面持续开展技术研发"
+    },
+    {
+      "name": "工业尾气回收净化利用技术",
+      "asset_type": "core_technology",
+      "related_product": "氢气、氩气等",
+      "quantitative_info": null,
+      "quote": "工业尾气回收净化利用...将气体分离、提纯技术成功运用到...尾气回收再利用"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "21.45%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 21.45%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "68.21%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 68.21%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "6.22%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 103,582,141.12 6.22%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "36.58%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 443,458,469.47 36.58%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "安全生产风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）安全生产风险...具体包括工艺安全风险、设备设施风险、人为因素风险、承包商管理风险、运输风险、污染物排放风险、事故次生环境风险等"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "行业政策风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）行业政策风险...受国家经济环境和总体发展速度等因素的影响较大"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "行业监管风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）行业监管风险...气体类的工业产品由实施《生产许可证》管理转为实施产品认证管理"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "生产成本波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）生产成本波动风险...电力作为最主要的能源动力之一...可能会给电价带来一定波动；而原材料和外购气体成本受到市场波动的影响较大"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）市场竞争风险...国外行业巨头逐步加大在国内市场的拓展力度，同时国内气体企业也日益发展壮大，行业内的竞争渐趋激烈"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "债务流动性风险（隐含）",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产负债率70%以上，实控人定增落地后将降至70%以内"
+    }
+  ]
+}

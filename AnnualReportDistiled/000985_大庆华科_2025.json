@@ -1,0 +1,481 @@
+{
+  "company_name_mentioned": "大庆华科股份有限公司",
+  "produces": [
+    {
+      "name": "聚丙烯",
+      "type": "material",
+      "revenue_proportion": "38.95%",
+      "quote": "聚丙烯及其改性产品 719,027,360.07 38.95%"
+    },
+    {
+      "name": "C5馏分产品",
+      "type": "material",
+      "revenue_proportion": "22.60%",
+      "quote": "C5馏分产品 417,265,894.50 22.60%"
+    },
+    {
+      "name": "C9馏分产品",
+      "type": "material",
+      "revenue_proportion": "28.82%",
+      "quote": "C9馏分产品 531,997,816.92 28.82%"
+    },
+    {
+      "name": "石油树脂产品",
+      "type": "material",
+      "revenue_proportion": "8.41%",
+      "quote": "石油树脂产品 155,160,409.61 8.41%"
+    },
+    {
+      "name": "液化石油气 商品丁烷",
+      "type": "material",
+      "revenue_proportion": "1.05%",
+      "quote": "液化石油气 商品丁烷 19,468,590.71 1.05%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "工业用丙烯",
+      "target_product": "聚丙烯",
+      "cost_proportion": "37.72%",
+      "quote": "工业用丙烯 管输 37.72%"
+    },
+    {
+      "name": "工业用裂解碳九",
+      "target_product": "C9系列产品",
+      "cost_proportion": "29.02%",
+      "quote": "工业用裂解碳九 管输 29.02%"
+    },
+    {
+      "name": "工业用裂解碳五",
+      "target_product": "C5系列产品",
+      "cost_proportion": "26.82%",
+      "quote": "工业用裂解碳五 管输 26.82%"
+    },
+    {
+      "name": "含炔碳四",
+      "target_product": null,
+      "cost_proportion": "1.17%",
+      "quote": "含炔碳四 管输 1.17%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "编织袋、扁丝、捆扎绳、日用注塑制品",
+      "source_product": "聚丙烯",
+      "quote": "生产的聚丙烯粉料主要应用于编织袋、扁丝、捆扎绳、日用注塑制品等领域"
+    },
+    {
+      "name": "压敏胶黏剂、热熔胶、路标漆、橡胶增黏剂、印刷油墨添加剂",
+      "source_product": "C5石油树脂",
+      "quote": "在压敏胶黏剂、热熔胶、路标漆、橡胶增黏剂和印刷油墨添加剂等领域有着广泛的应用"
+    },
+    {
+      "name": "不饱和树脂、彩色沥青、油漆、粘合剂、油墨、橡胶",
+      "source_product": "C9石油树脂",
+      "quote": "公司生产的C9系列石油树脂产品广泛应用于不饱和树脂、彩色沥青、油漆、粘合剂、油墨、橡胶等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张彩虹",
+      "role": "董事长",
+      "quote": "现任中国石油大庆石化公司党委委员、总会计师，本公司董事长。"
+    },
+    {
+      "name": "窦岩",
+      "role": "董事、党委书记、总经理",
+      "quote": "现任本公司董事、党委书记、总经理。"
+    },
+    {
+      "name": "武云峰",
+      "role": "财务总监",
+      "quote": "现任本公司党委委员、财务总监。"
+    },
+    {
+      "name": "孟凡礼",
+      "role": "董事会秘书",
+      "quote": "现任本公司董事会秘书。"
+    },
+    {
+      "name": "姜波",
+      "role": "副总经理",
+      "quote": "现任本公司党委委员、副总经理。"
+    },
+    {
+      "name": "郭英爽",
+      "role": "副总经理、安全总监",
+      "quote": "现任本公司党委委员、副总经理、安全总监。"
+    },
+    {
+      "name": "刘彬",
+      "role": "副总经理",
+      "quote": "现任本公司党委委员、副总经理。"
+    },
+    {
+      "name": "李天宇",
+      "role": "党委副书记、纪委书记、工会主席",
+      "quote": "现任本公司党委副书记、纪委书记、工会主席。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国石油天然气股份有限公司大庆石化分公司",
+      "relation_type": "supplier",
+      "business_details": "采购商品及接受劳务",
+      "quote": "中国石油天然气股份有限公司大庆石化分公司 采购商品及接受劳务 1,716,645,744.72"
+    },
+    {
+      "name": "大庆市盛顺德化工科技有限公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "大庆市盛顺德化工科技有限公司 178,242,866.25 9.66%"
+    },
+    {
+      "name": "抚顺伊科思新材料有限公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "抚顺伊科思新材料有限公司 168,550,131.02 9.13%"
+    },
+    {
+      "name": "黑龙江平弘晟化工科技有限公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "黑龙江平弘晟化工科技有限公司 102,799,383.38 5.57%"
+    },
+    {
+      "name": "盘锦晶盈商贸有限公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "盘锦晶盈商贸有限公司 99,989,026.51 5.42%"
+    },
+    {
+      "name": "锦州鑫发物资经贸有限公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "锦州鑫发物资经贸有限公司 83,781,796.29 4.54%"
+    },
+    {
+      "name": "大庆龙化建筑安装有限公司",
+      "relation_type": "supplier",
+      "business_details": "接受劳务",
+      "quote": "大庆龙化建筑安装有限公司 21,169,501.70 1.14%"
+    },
+    {
+      "name": "大庆石化建设有限公司",
+      "relation_type": "supplier",
+      "business_details": "接受劳务",
+      "quote": "大庆石化建设有限公司 17,454,996.45 0.94%"
+    },
+    {
+      "name": "大庆贝世康人力资源外包服务有限公司",
+      "relation_type": "supplier",
+      "business_details": "接受劳务",
+      "quote": "大庆贝世康人力资源外包服务有限公司 7,014,335.18 0.38%"
+    },
+    {
+      "name": "辽宁宏峰包装有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购商品",
+      "quote": "辽宁宏峰包装有限公司 5,977,934.79 0.32%"
+    },
+    {
+      "name": "中石油燃料油有限责任公司东北销售分公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "中石油燃料油有限责任公司东北销售分公司 80,258,639.06"
+    },
+    {
+      "name": "中国石油天然气股份有限公司东北化工销售分公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "中国石油天然气股份有限公司东北化工销售分公司 10,802,734.54"
+    },
+    {
+      "name": "中国石油大庆石油化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "中国石油大庆石油化工有限公司持有公司7133.97万股股份，仍为公司第一大股东。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化工",
+      "segment_type": "product_line",
+      "revenue_amount": "1,845,908,205.22",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "5.11%",
+      "yoy_change": "-6.22%",
+      "quote": "分行业 化工 1,845,908,205.22 100.00% 5.11% -6.22%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,814,137,433.14",
+      "revenue_proportion": "98.28%",
+      "gross_margin": null,
+      "yoy_change": "-5.89%",
+      "quote": "分地区 境内 1,814,137,433.14 98.28% -5.89%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "31,770,772.08",
+      "revenue_proportion": "1.72%",
+      "gross_margin": null,
+      "yoy_change": "-23.86%",
+      "quote": "境外 31,770,772.08 1.72% -23.86%"
+    },
+    {
+      "name": "C5馏分产品",
+      "segment_type": "product_line",
+      "revenue_amount": "417,265,894.50",
+      "revenue_proportion": "22.60%",
+      "gross_margin": "-1.65%",
+      "yoy_change": "-14.55%",
+      "quote": "C5馏分产品 417,265,894.50 22.60% -1.65% -14.55%"
+    },
+    {
+      "name": "C9馏分产品",
+      "segment_type": "product_line",
+      "revenue_amount": "531,997,816.92",
+      "revenue_proportion": "28.82%",
+      "gross_margin": "5.70%",
+      "yoy_change": "1.13%",
+      "quote": "C9馏分产品 531,997,816.92 28.82% 5.70% 1.13%"
+    },
+    {
+      "name": "石油树脂产品",
+      "segment_type": "product_line",
+      "revenue_amount": "155,160,409.61",
+      "revenue_proportion": "8.41%",
+      "gross_margin": "12.84%",
+      "yoy_change": "-38.72%",
+      "quote": "石油树脂产品 155,160,409.61 8.41% 12.84% -38.72%"
+    },
+    {
+      "name": "聚丙烯及其改性产品",
+      "segment_type": "product_line",
+      "revenue_amount": "719,027,360.07",
+      "revenue_proportion": "38.95%",
+      "gross_margin": "5.49%",
+      "yoy_change": "5.71%",
+      "quote": "聚丙烯及其改性产品 719,027,360.07 38.95% 5.49% 5.71%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "聚丙烯",
+      "metric_type": "capacity",
+      "value": "11万吨/年",
+      "period": null,
+      "quote": "主要产品 设计产能 聚丙烯 11万吨/年"
+    },
+    {
+      "product": "聚丙烯",
+      "metric_type": "capacity_utilization",
+      "value": "75.45%",
+      "period": null,
+      "quote": "聚丙烯 11万吨/年 75.45%"
+    },
+    {
+      "product": "碳五石油树脂",
+      "metric_type": "capacity",
+      "value": "2.5万吨/年",
+      "period": null,
+      "quote": "碳五石油树脂 2.5万吨/年"
+    },
+    {
+      "product": "碳五石油树脂",
+      "metric_type": "capacity_utilization",
+      "value": "85.74%",
+      "period": null,
+      "quote": "碳五石油树脂 2.5万吨/年 85.74%"
+    },
+    {
+      "product": "碳九系列产品",
+      "metric_type": "capacity",
+      "value": "10万吨/年",
+      "period": null,
+      "quote": "碳九系列产品 10万吨/年"
+    },
+    {
+      "product": "碳九系列产品",
+      "metric_type": "capacity_utilization",
+      "value": "84.15%",
+      "period": null,
+      "quote": "碳九系列产品 10万吨/年 84.15%"
+    },
+    {
+      "product": "碳五系列产品",
+      "metric_type": "capacity",
+      "value": "12.5万吨/年",
+      "period": null,
+      "quote": "碳五系列产品 12.5万吨/年"
+    },
+    {
+      "product": "碳五系列产品",
+      "metric_type": "capacity_utilization",
+      "value": "79.08%",
+      "period": null,
+      "quote": "碳五系列产品 12.5万吨/年 79.08%"
+    },
+    {
+      "product": "碳四炔烃尾气回收装置",
+      "metric_type": "capacity",
+      "value": "1.08万吨/年",
+      "period": null,
+      "quote": "碳四炔烃尾气回收装置 1.08万吨/年"
+    },
+    {
+      "product": "碳四炔烃尾气回收装置",
+      "metric_type": "capacity_utilization",
+      "value": "100.20%",
+      "period": null,
+      "quote": "碳四炔烃尾气回收装置 1.08万吨/年 100.20%"
+    },
+    {
+      "product": "化工行业",
+      "metric_type": "sales_volume",
+      "value": "448,165.77吨",
+      "period": "2025年",
+      "quote": "化工行业 销售量 吨 448,165.77"
+    },
+    {
+      "product": "化工行业",
+      "metric_type": "production_volume",
+      "value": "445,318.25吨",
+      "period": "2025年",
+      "quote": "化工行业 生产量 吨 445,318.25"
+    },
+    {
+      "product": "化工行业",
+      "metric_type": "inventory_volume",
+      "value": "6,696.83吨",
+      "period": "2025年末",
+      "quote": "化工行业 库存量 吨 6,696.83"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "异戊二烯加氢装置扩能改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "异戊二烯加氢装置扩能改造项目 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ZL200810084686.1",
+      "asset_type": "patent",
+      "related_product": "碳五石油树脂",
+      "quantitative_info": null,
+      "quote": "ZL200810084686.1"
+    },
+    {
+      "name": "ZL201110380610.5",
+      "asset_type": "patent",
+      "related_product": "碳五石油树脂",
+      "quantitative_info": null,
+      "quote": "ZL201110380610.5"
+    },
+    {
+      "name": "ZL200810084685.7",
+      "asset_type": "patent",
+      "related_product": "碳九系列产品",
+      "quantitative_info": null,
+      "quote": "ZL200810084685.7"
+    },
+    {
+      "name": "ZL201610333632.9",
+      "asset_type": "patent",
+      "related_product": "碳九系列产品",
+      "quantitative_info": null,
+      "quote": "ZL201610333632.9"
+    },
+    {
+      "name": "ZL201110407805.4",
+      "asset_type": "patent",
+      "related_product": "碳五系列产品",
+      "quantitative_info": null,
+      "quote": "ZL201110407805.4"
+    },
+    {
+      "name": "国家专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得国家专利16项，其中国家发明专利11项",
+      "quote": "截止2025年末，公司累计获得国家专利16项，其中国家发明专利11项"
+    },
+    {
+      "name": "《安全生产许可证》",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "有效期至2027年1月22日",
+      "quote": "《安全生产许可证》有效期至2027年1月22日。"
+    },
+    {
+      "name": "《危险化学品经营许可证》",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "有效期至2029年2月12日",
+      "quote": "《危险化学品经营许可证》有效期至2029年2月12日。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "633,363,203.45",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 633,363,203.45"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.32%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 34.32%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,768,262,512.84",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,768,262,512.84"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "95.60%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 95.60%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "178,242,866.25",
+      "related_entity": "大庆市盛顺德化工科技有限公司",
+      "period": "2025年",
+      "quote": "大庆市盛顺德化工科技有限公司 178,242,866.25 9.66%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1,716,645,744.72",
+      "related_entity": "中国石油天然气股份有限公司大庆石化分公司",
+      "period": "2025年",
+      "quote": "中国石油天然气股份有限公司大庆石化分公司 1,716,645,744.72 92.82%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "inventory_impairment",
+      "description": "为本年计提的存货跌价准备",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值 1,997,739.14 17.85% 为本年计提的存货跌价准备"
+    }
+  ]
+}

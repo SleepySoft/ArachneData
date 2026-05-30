@@ -1,0 +1,428 @@
+{
+  "company_name_mentioned": "山东民和牧业股份有限公司",
+  "produces": [
+    {
+      "name": "商品代肉雏鸡",
+      "type": "device",
+      "revenue_proportion": "40.72%",
+      "quote": "公司主要产品为商品代肉鸡苗...分产品：雏鸡 880,112,967.89 40.72%"
+    },
+    {
+      "name": "鸡肉制品",
+      "type": "material",
+      "revenue_proportion": "51.82%",
+      "quote": "根据客户的不同需求，提供肉鸡分割产品、熟食和调理品...分产品：鸡肉制品 1,120,020,306.80 51.82%"
+    },
+    {
+      "name": "淘汰鸡",
+      "type": "material",
+      "revenue_proportion": "2.80%",
+      "quote": "分产品：淘汰鸡 60,552,352.93 2.80%"
+    },
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "1.01%",
+      "quote": "分产品：电力 21,811,860.80 1.01%"
+    },
+    {
+      "name": "生物有机肥",
+      "type": "material",
+      "revenue_proportion": "0.91%",
+      "quote": "分产品：生物有机肥 19,739,163.52 0.91%"
+    },
+    {
+      "name": "生物燃气",
+      "type": "material",
+      "revenue_proportion": "0.36%",
+      "quote": "分产品：生物燃气 7,783,863.74 0.36%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "父母代肉鸡苗",
+      "target_product": "商品代肉雏鸡",
+      "cost_proportion": null,
+      "quote": "（1）种鸡鸡苗采购：父母代种鸡苗的采购系生产部根据公司产能、市场预测和发展规划制订本年度总采购计划..."
+    },
+    {
+      "name": "饲料原料（玉米、豆粕、花生粕、鱼粉及添加剂等）",
+      "target_product": "饲料",
+      "cost_proportion": null,
+      "quote": "（2）饲料原料采购：公司饲料生产所需原料主要包括玉米、豆粕、花生粕、鱼粉及添加剂等..."
+    },
+    {
+      "name": "肉鸡及鸡肉半成品",
+      "target_product": "鸡肉制品",
+      "cost_proportion": null,
+      "quote": "（3）肉鸡及鸡肉半成品采购：公司鸡肉产品的生产加工由民和食品完成。报告期内...熟食和调理品业务根据自身的生产需求采购符合质量标准的鸡肉。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "商品鸡养殖",
+      "source_product": "商品代肉雏鸡",
+      "quote": "主要销售给大型养殖公司、大中型养殖户和经销商用以进行商品鸡养殖"
+    },
+    {
+      "name": "食品加工企业、餐饮企业",
+      "source_product": "鸡肉制品",
+      "quote": "一是直接销售给双汇、喜旺、龙大、中宠等食品加工企业、餐饮企业、贸易公司和经销商"
+    },
+    {
+      "name": "线上零售平台（天猫、抖音等）",
+      "source_product": "鸡肉熟食调理品",
+      "quote": "二是在天猫商城、微信商城、抖音直播等线上平台进行直接销售"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "孙宪法",
+      "role": "董事长、总经理（任期至2025年12月10日）",
+      "quote": "公司负责人孙宪法...孙宪法先生...历任...民和股份董事长、总经理。2025年4月当选公司第九届董事会董事长..."
+    },
+    {
+      "name": "张东明",
+      "role": "董事、总经理、董事会秘书",
+      "quote": "董事会秘书 张东明...张东明先生...历任...民和股份董事会秘书、董事、副总经理。2025年4月当选公司第九届董事会董事，现任公司董事、总经理兼董事会秘书..."
+    },
+    {
+      "name": "周东",
+      "role": "董事、副总经理",
+      "quote": "周东先生...历任...民和股份董事、生产部副经理、生产部经理。2025年4月当选公司第九届董事会董事，现任公司董事兼副总经理。"
+    },
+    {
+      "name": "钟宪军",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人钟宪军...钟宪军先生...现任公司财务总监。"
+    },
+    {
+      "name": "郭志春",
+      "role": "董事",
+      "quote": "郭志春先生...历任...民和股份...2025年4月当选公司第九届董事会董事，现任公司董事，兼任民和养殖总经理、潍坊民和董事、杭州民悦和执行董事、民信食品总经理、民和食品总经理。"
+    },
+    {
+      "name": "孙希民",
+      "role": "实际控制人、前董事长",
+      "quote": "孙希民先生为公司资深董事长...2022年3月30日，因继承导致股权变动，股份变更后公司实际控制人由孙希民变更为孙希民、孙宪法及孙宪秋"
+    },
+    {
+      "name": "孙宪秋",
+      "role": "实际控制人、第三管理区经理",
+      "quote": "孙宪秋女士为公司第三管理区经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "蓬莱民和食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事肉鸡屠宰加工业务",
+      "quote": "民和食品 指 蓬莱民和食品有限公司，公司全资子公司"
+    },
+    {
+      "name": "山东民和生物科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，从事沼气发电、生物天然气提纯、有机肥生产销售等业务",
+      "quote": "民和生物/生物科技 指 山东民和生物科技股份有限公司，公司子公司"
+    },
+    {
+      "name": "潍坊民和食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，运营鸡肉熟食及调理品业务",
+      "quote": "潍坊民和 指 潍坊民和食品有限公司，公司控股子公司"
+    },
+    {
+      "name": "北大荒宝泉岭农牧发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司参股公司，从事肉鸡饲养屠宰加工",
+      "quote": "宝泉岭农牧 指 北大荒宝泉岭农牧发展有限公司，公司参股公司"
+    },
+    {
+      "name": "Tasiting (HK) Holdings Limited",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户之首",
+      "quote": "公司前5大客户资料：序号 1 客户名称 Tasiting (HK) Holdings Limited 销售额（元） 64,291,035.32"
+    },
+    {
+      "name": "双汇",
+      "relation_type": "customer",
+      "business_details": "食品加工企业客户",
+      "quote": "一是直接销售给双汇、喜旺、龙大、中宠等食品加工企业"
+    },
+    {
+      "name": "喜旺",
+      "relation_type": "customer",
+      "business_details": "食品加工企业客户",
+      "quote": "一是直接销售给双汇、喜旺、龙大、中宠等食品加工企业"
+    },
+    {
+      "name": "龙大",
+      "relation_type": "customer",
+      "business_details": "食品加工企业客户",
+      "quote": "一是直接销售给双汇、喜旺、龙大、中宠等食品加工企业"
+    },
+    {
+      "name": "中宠",
+      "relation_type": "customer",
+      "business_details": "食品加工企业客户",
+      "quote": "一是直接销售给双汇、喜旺、龙大、中宠等食品加工企业"
+    },
+    {
+      "name": "中粮油脂（龙口）有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之首",
+      "quote": "公司前5名供应商资料：序号 1 供应商名称 中粮油脂（龙口）有限公司 采购额（元） 139,246,873.84"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "畜牧业",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,111,224,339.05",
+      "revenue_proportion": "97.67%",
+      "gross_margin": "4.28%",
+      "yoy_change": "0.52%",
+      "quote": "分行业：畜牧业 2,111,224,339.05 97.67%"
+    },
+    {
+      "name": "电力生产",
+      "segment_type": "business_unit",
+      "revenue_amount": "21,811,860.80",
+      "revenue_proportion": "1.01%",
+      "gross_margin": null,
+      "yoy_change": "-10.24%",
+      "quote": "分行业：电力生产 21,811,860.80 1.01%"
+    },
+    {
+      "name": "肥料制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "20,680,620.36",
+      "revenue_proportion": "0.96%",
+      "gross_margin": null,
+      "yoy_change": "-24.64%",
+      "quote": "分行业：肥料制造 20,680,620.36 0.96%"
+    },
+    {
+      "name": "燃气生产",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,783,863.74",
+      "revenue_proportion": "0.36%",
+      "gross_margin": null,
+      "yoy_change": "1.59%",
+      "quote": "分行业：燃气生产 7,783,863.74 0.36%"
+    },
+    {
+      "name": "省内",
+      "segment_type": "region",
+      "revenue_amount": "1,172,368,944.18",
+      "revenue_proportion": "54.24%",
+      "gross_margin": "1.56%",
+      "yoy_change": "1.29%",
+      "quote": "分地区：省内 1,172,368,944.18 54.24%"
+    },
+    {
+      "name": "省外",
+      "segment_type": "region",
+      "revenue_amount": "989,131,739.77",
+      "revenue_proportion": "45.76%",
+      "gross_margin": "8.71%",
+      "yoy_change": "-1.31%",
+      "quote": "分地区：省外 989,131,739.77 45.76%"
+    },
+    {
+      "name": "线上",
+      "segment_type": "sales_channel",
+      "revenue_amount": "164,047,101.62",
+      "revenue_proportion": null,
+      "gross_margin": "39.10%",
+      "yoy_change": "-29.76%",
+      "quote": "渠道：线上 164,047,101.62 99,906,832.84 39.10% -29.76% -32.86% 2.82%"
+    },
+    {
+      "name": "线下",
+      "segment_type": "sales_channel",
+      "revenue_amount": "955,973,205.18",
+      "revenue_proportion": null,
+      "gross_margin": "-3.17%",
+      "yoy_change": "4.85%",
+      "quote": "渠道：线下 955,973,205.18 986,319,404.03 -3.17% 4.85% 4.45% 0.40%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "商品代雏鸡",
+      "metric_type": "capacity",
+      "value": "3.5 亿羽",
+      "period": "报告期",
+      "quote": "目前公司商品代雏鸡产量 3.5 亿羽，并适当增加新的产能"
+    },
+    {
+      "product": "商品代雏鸡",
+      "metric_type": "production_volume",
+      "value": "35,152 万只",
+      "period": "2025年",
+      "quote": "雏鸡：生产量 万只 35,152"
+    },
+    {
+      "product": "商品代雏鸡",
+      "metric_type": "sales_volume",
+      "value": "31,480 万只",
+      "period": "2025年",
+      "quote": "雏鸡：销售量 万只 31,480"
+    },
+    {
+      "product": "鸡肉制品",
+      "metric_type": "production_volume",
+      "value": "101,214 吨",
+      "period": "2025年",
+      "quote": "鸡肉制品：生产量 吨 101,214"
+    },
+    {
+      "product": "鸡肉制品",
+      "metric_type": "sales_volume",
+      "value": "101,584 吨",
+      "period": "2025年",
+      "quote": "鸡肉制品：销售量 吨 101,584"
+    },
+    {
+      "product": "鸡肉制品",
+      "metric_type": "inventory_volume",
+      "value": "4,592 吨",
+      "period": "2025年末",
+      "quote": "鸡肉制品：库存量 吨 4,592"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年孵化1亿只商品代肉雏鸡孵化厂建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已经正式投产运营",
+      "expected_completion_time": null,
+      "quote": "“年孵化1亿只商品代肉雏鸡孵化厂建设项目”已经正式投产运营"
+    },
+    {
+      "name": "潍坊民和项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "剩余生产线已全部完成安装、调试与试运行，各项指标均达到设计产能要求",
+      "expected_completion_time": null,
+      "quote": "潍坊民和项目剩余生产线已全部完成安装、调试与试运行，各项指标均达到设计产能要求。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "肉用种鸡全程笼养新技术开发",
+      "asset_type": "core_technology",
+      "related_product": "商品代肉雏鸡",
+      "quantitative_info": null,
+      "quote": "公司自主研发了“肉用种鸡全程笼养新技术开发”...该技术改变了传统垫料平养模式..."
+    },
+    {
+      "name": "鸡鲜精稀释及冻业技术研究",
+      "asset_type": "core_technology",
+      "related_product": "商品代肉雏鸡",
+      "quantitative_info": null,
+      "quote": "在人工授精技术的基础上研发了“鸡鲜精稀释及冻业技术”。"
+    },
+    {
+      "name": "商品肉鸡全程笼养技术研究",
+      "asset_type": "core_technology",
+      "related_product": "商品代肉鸡",
+      "quantitative_info": null,
+      "quote": "公司自主研发了...“商品肉鸡全程笼养技术研究”"
+    },
+    {
+      "name": "肉鸡无高致病性禽流感生物安全隔离区",
+      "asset_type": "certification",
+      "related_product": "肉鸡",
+      "quantitative_info": null,
+      "quote": "公司被农业部认定为“肉鸡无高致病性禽流感生物安全隔离区”"
+    },
+    {
+      "name": "亚洲家禽企业五十强",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后被认定为“亚洲家禽企业五十强”、“中国畜牧行业优秀企业”、“农业产业化国家重点龙头企业”"
+    },
+    {
+      "name": "肉种鸡新型饲养方式中试研发",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：肉种鸡新型饲养方式中试研发"
+    },
+    {
+      "name": "肉种鸡楼宇式多层养殖模式研发",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：肉种鸡楼宇式多层养殖模式研发"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "10.29%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 10.29%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "31.86%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 31.86%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "疫病防治与控制的风险。禽流感是影响肉鸡行业最为严重的禽病。",
+      "related_entity": null,
+      "related_product": "父母代种鸡、商品代肉鸡",
+      "quote": "1、疫病防治与控制的风险。公司生产过程中饲养和销售父母代种鸡、商品代肉鸡，其中父母代种鸡是公司的核心资产，禽流感是影响肉鸡行业最为严重的禽病..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "产品价格波动的风险。公司主营产品商品代鸡苗价格的影响因素较多，价格波动频繁且幅度较大。",
+      "related_entity": null,
+      "related_product": "商品代鸡苗",
+      "quote": "2、产品价格波动的风险。公司主营产品商品代鸡苗价格的影响因素较多，价格波动频繁且幅度较大。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动及人工费用上涨的风险。主要原料玉米、豆粕等市场供给及价格受多种因素影响，采购价格大幅波动。",
+      "related_entity": null,
+      "related_product": "饲料原材料",
+      "quote": "3、原材料价格波动及人工费用上涨的风险。我国土地可耕种面积有限，资源紧张，生产经营主要原料玉米、豆粕等市场供给及价格受到国家粮食政策、国际贸易往来、市场供需状况、气候天气及自然灾害等多种因素的影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环境保护风险。环保标准日益严格，可能增加公司运营成本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、环境保护风险。国家全面推进畜禽养殖废弃物资源化利用...随着整个社会环保意识的不断增强，一方面环保及其他相关政府部门将会逐步颁布和实施日益严格的环保法律法规、提高排污标准..."
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全风险。食品安全问题可能损害公司品牌形象。",
+      "related_entity": null,
+      "related_product": "鸡肉产品",
+      "quote": "5、食品安全风险。食品安全问题已成为广大人民群众最为关心的问题之一...公司仍可能因对相关产品质量控制不到位，引发食品安全问题..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司母公司存在未弥补亏损，不满足现金分红条件。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末，公司母公司财务报表中存在累计未弥补亏损239,331,714.91元...公司目前不满足实施现金分红的前提条件。"
+    }
+  ]
+}

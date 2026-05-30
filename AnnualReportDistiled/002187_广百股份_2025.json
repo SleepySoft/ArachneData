@@ -1,0 +1,235 @@
+{
+  "company_name_mentioned": "广州市广百股份有限公司",
+  "produces": [
+    {
+      "name": "百货零售服务",
+      "type": "service",
+      "revenue_proportion": "商品销售占营业收入83.70%，租赁占9.70%，其他业务收入占6.61%",
+      "quote": "公司从事的主要业务为百货零售，经营业态包括百货商场、购物中心、超市、专业店以及线上商品销售等。"
+    },
+    {
+      "name": "物业出租服务",
+      "type": "service",
+      "revenue_proportion": "租赁业务收入占营业收入的9.70%",
+      "quote": "物业出租：是在本公司经营场所里进行的租赁经营，其利润来源于租金收入扣除物业成本后的余额。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品",
+      "target_product": "用于零售的商品",
+      "cost_proportion": "2025年公司向前五名供应商采购额145,836.41万元，占年度采购总额29.77%",
+      "quote": "2025年公司向前五名供应商采购额145,836.41万元，占年度采购总额29.77%。"
+    },
+    {
+      "name": "物流配送服务",
+      "target_product": "用于商品配送",
+      "cost_proportion": null,
+      "quote": "公司物流配送业务均已外包，报告期内物流配送支出约2,734.52万元。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "终端消费市场",
+      "source_product": "百货零售服务及商品",
+      "quote": "公司加快数字化转型，推进线上线下融合发展，优化现有门店运营管理，依托优越的门店位置，丰富的供应商资源和积极的市场研究，不断提升在区域内的竞争力。"
+    },
+    {
+      "name": "购物中心、奥特莱斯、电商及即时零售",
+      "source_product": "传统百货零售",
+      "quote": "购物中心、奥特莱斯、电商及即时零售持续分流客流与品牌资源，传统联营模式盈利空间受限。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "康永平",
+      "role": "党委书记、董事长",
+      "quote": "公司负责人康永平、主管会计工作负责人王玟及会计机构负责人（会计主管人员）曹细妹声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "蔡劲松",
+      "role": "党委副书记、董事、总经理",
+      "quote": "蔡劲松先生，中国国籍，1980年1月出生，本科学历，经济师，中共党员。曾任广州市广百太阳新天地商贸有限公司总经理，公司总经理助理（期间兼任广百北京路店总经理）、公司副总经理。现任公司党委副书记、董事、总经理。"
+    },
+    {
+      "name": "王玟",
+      "role": "副总经理、财务负责人、董事会秘书",
+      "quote": "王玟先生，中国国籍，1984年2月出生，研究生学历，管理学硕士，会计师，中共党员。...现任本公司副总经理、财务负责人、董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中免集团",
+      "relation_type": "investor",
+      "business_details": "与中免集团合资设立广州首家市内免税店",
+      "quote": "积极拓展商业新业态，与中免集团合资设立广州首家市内免税店"
+    },
+    {
+      "name": "广州岭南集团控股股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东岭南商旅的控股子公司，共同投资设立免税店公司",
+      "quote": "控股股东、实际控制人同时担任上市公司董事长和总经理的情况 □适用 ☑不适用 在股东单位任职情况 □适用 ☑不适用 在其他单位任职情况 ☑适用 □不适用"
+    },
+    {
+      "name": "广州市8字连锁店有限公司",
+      "relation_type": "customer",
+      "business_details": "公司受托经营管理该公司",
+      "quote": "2025年2月27日，公司与广州市粮食集团有限责任公司、广州市8字连锁店有限公司签订《委托管理协议》，公司受托经营管理广州市8字连锁店有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "商品销售",
+      "segment_type": "product_line",
+      "revenue_amount": "28.55898亿元",
+      "revenue_proportion": "83.70%",
+      "gross_margin": "18.58%",
+      "yoy_change": "营业收入同比下降41.95%",
+      "quote": "商品销售 2,855,898,010.68 83.70% 4,919,854,014.24 88.99% -41.95%"
+    },
+    {
+      "name": "租赁",
+      "segment_type": "product_line",
+      "revenue_amount": "3.3089亿元",
+      "revenue_proportion": "9.70%",
+      "gross_margin": "65.51%",
+      "yoy_change": "营业收入同比下降6.02%",
+      "quote": "租赁 330,891,682.39 9.70% 352,077,657.03 6.37% -6.02%"
+    },
+    {
+      "name": "广州市",
+      "segment_type": "region",
+      "revenue_amount": "33.8017亿元",
+      "revenue_proportion": "99.06%",
+      "gross_margin": "27.82%",
+      "yoy_change": "营业收入同比下降38.39%",
+      "quote": "广州市 3,380,174,922.44 99.06% 5,486,324,231.46 99.24% -38.39%"
+    },
+    {
+      "name": "广东省内其他城市",
+      "segment_type": "region",
+      "revenue_amount": "0.3199亿元",
+      "revenue_proportion": "0.94%",
+      "gross_margin": "70.33%",
+      "yoy_change": "营业收入同比下降24.09%",
+      "quote": "广东省其他城市 31,994,947.38 0.94% 42,150,881.11 0.76% -24.09%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "门店经营",
+      "metric_type": "capacity",
+      "value": "截至本报告期末，公司已在广州市区及广东省内其他城市开设门店26家，经营面积合计约60万平方米。",
+      "period": "报告期末",
+      "quote": "截至本报告期末，公司已在广州市区及广东省内其他城市开设门店26家，其中广州市区综合百货店12家，购物中心4家，超市专业店4家，钟表专业店1家；广东省其他城市综合百货店3家，购物中心1家，超市专业店1家，经营面积合计约60万平方米。"
+    },
+    {
+      "product": "门店经营",
+      "metric_type": "production_volume",
+      "value": "2025年公司门店营业收入为240,051万元。",
+      "period": "报告期",
+      "quote": "公司所有门店均为直营门店，2025年公司门店营业收入为240,051万元。"
+    },
+    {
+      "product": "门店经营",
+      "metric_type": "sales_volume",
+      "value": "2025年线上销售交易额43,296万元，营业收入30,249万元。",
+      "period": "报告期",
+      "quote": "2025年在自建销售平台以及第三方销售平台实现线上销售交易额43,296万元，营业收入30,249万元。"
+    },
+    {
+      "product": "门店经营",
+      "metric_type": "capacity_utilization",
+      "value": "可比门店店面坪效14,652元/m²",
+      "period": "2025年",
+      "quote": "公司2025年分地区及业态可比门店情况如下：...合计 19 14,652 -32.86% -42.64%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中免市内免税品（广州）有限公司",
+      "project_type": "joint_venture",
+      "location": "广州市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成工商登记设立手续",
+      "expected_completion_time": null,
+      "quote": "2025年5月16日，公司第七届董事会第二十二次会议审议通过了《关于共同投资设立广州市内免税店有限公司暨关联交易的议案》，...中免市内免税品（广州）有限公司已完成工商登记设立手续。"
+    },
+    {
+      "name": "新增门店（广百超市技师学院店、广百超市水榕路店、友谊云城超市）",
+      "project_type": "capacity_expansion",
+      "location": "惠州市、广州市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已开业",
+      "expected_completion_time": null,
+      "quote": "报告期内新增3家门店，具体情况如下：...名称 地址 开业日期 经营业态 物业权属...广百超市技师学院店 广东省惠州市 2025年3月 超市 租赁..."
+    },
+    {
+      "name": "岭南海港汇购物中心（暂定名）",
+      "project_type": "capacity_expansion",
+      "location": "广州市海珠区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "承租物业，用于开设购物中心",
+      "expected_completion_time": "租期十二年",
+      "quote": "2025年8月27日，公司第七届董事会第二十三次会议审议通过了《关于投资岭南海港汇购物中心项目的议案》，...承租广州市海珠区瑞宝街大干围路12号星汇润锦广场自编F栋1-5层商业裙楼物业，用于开设岭南海港汇购物中心（暂定名），租期十二年"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "数字化转型与数智科技公司平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "统筹搭建数智科技公司平台架构，组建专业运营实体统筹推进数字化转型，打通旗下各品牌数据壁垒，构建一体化运营管理平台"
+    },
+    {
+      "name": "AI应用体系与智能补货模型",
+      "asset_type": "core_technology",
+      "related_product": "美妆品类",
+      "quantitative_info": null,
+      "quote": "强化智能化技术赋能，构建AI应用体系，在美妆等重点品类成功试点智能补货模型，持续优化供应链决策能力"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "56,025,053.98元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 56,025,053.98 前五名客户合计销售金额占年度销售总额比例 1.96%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,458,364,060.23元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,458,364,060.23 前五名供应商合计采购金额占年度采购总额比例 29.77%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "线上电商及即时零售平台持续分流线下客流，会员店、折扣店、社区店等新兴业态快速扩张，进一步挤压传统百货经营空间，行业同质化竞争加剧，市场竞争日趋激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险 线上电商及即时零售平台持续分流线下客流，会员店、折扣店、社区店等新兴业态快速扩张，进一步挤压传统百货经营空间，行业同质化竞争加剧，市场竞争日趋激烈。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "尽管政策持续发力托底，但消费市场全面复苏的基础仍较脆弱，居民消费信心偏弱，消费行为更趋理性谨慎，可能造成政策拉动效应递减，进而制约行业整体增长空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "消费需求风险 尽管政策持续发力托底，但消费市场全面复苏的基础仍较脆弱，居民消费信心偏弱，消费行为更趋理性谨慎，可能造成政策拉动效应递减，进而制约行业整体增长空间。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "门店优化调整、闭店止损、数字化改造等转型投入较大、回报周期较长。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "企业转型风险 门店优化调整、闭店止损、数字化改造等转型投入较大、回报周期较长。"
+    }
+  ]
+}

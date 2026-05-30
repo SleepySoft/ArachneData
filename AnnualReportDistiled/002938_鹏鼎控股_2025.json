@@ -1,0 +1,533 @@
+{
+  "company_name_mentioned": "鹏鼎控股（深圳）股份有限公司",
+  "produces": [
+    {
+      "name": "印制电路板（PCB）",
+      "type": "device",
+      "revenue_proportion": "99.22%",
+      "quote": "公司是主要从事各类印制电路板的研发、设计、制造、销售与服务为一体的专业大型厂商...分行业：印制电路板 38,842,549,642.22 99.22%"
+    },
+    {
+      "name": "通讯用板",
+      "type": "device",
+      "revenue_proportion": "64.98%",
+      "quote": "通讯用板主要包括应用于手机、路由器和交换机等通讯产品上的各类印制电路板...分产品：通讯用板 25,436,736,536.74 64.98%"
+    },
+    {
+      "name": "消费电子及计算机用板",
+      "type": "device",
+      "revenue_proportion": "28.83%",
+      "quote": "消费电子及计算机用板主要应用于平板电脑、笔记本电脑、可穿戴设备、游戏机和智能家居设备等...分产品：消费电子及计算机用板 11,286,967,768.28 28.83%"
+    },
+    {
+      "name": "汽车/服务器用板及其他用板",
+      "type": "device",
+      "revenue_proportion": "5.41%",
+      "quote": "汽车\\服务器用板及其他用板主要应用于传统及电动汽车、服务器、光模块等行业...分产品：汽车/服务器用板及其他用板 2,118,845,337.20 5.41%"
+    },
+    {
+      "name": "柔性印制电路板（FPC）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的通讯用板包括柔性印制电路板、刚性印制电路板、高密度连接板、类载板（SLP）等多类产品"
+    },
+    {
+      "name": "高密度连接板（HDI）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的通讯用板包括柔性印制电路板、刚性印制电路板、高密度连接板、类载板（SLP）等多类产品"
+    },
+    {
+      "name": "类载板（SLP）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的通讯用板包括柔性印制电路板、刚性印制电路板、高密度连接板、类载板（SLP）等多类产品"
+    },
+    {
+      "name": "刚性印制电路板（RPCB）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的通讯用板包括柔性印制电路板、刚性印制电路板、高密度连接板、类载板（SLP）等多类产品"
+    },
+    {
+      "name": "软硬结合板（Rigid Flex）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要产品范围涵盖FPC、SMA、SLP、HDI、RPCB、Rigid Flex等多类产品"
+    },
+    {
+      "name": "智慧型高密度互连板（IHDI）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "Intelligent High Density Interconnect，智慧型高密度互连板，是印刷电路板（PCB）技术的进化版，专为应对AI时代的高算力需求而设计。"
+    },
+    {
+      "name": "高多层印刷电路板（HLC）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "High Layer Count PCB，高多层印刷电路板,是具有高密度、高复杂度的电路板，层数通常在10层以上，广泛应用于AI服务器、数据中心及高端通讯设备。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子零件",
+      "target_product": "印制电路板",
+      "cost_proportion": null,
+      "quote": "公司的PCB产品以电子零件、铜箔基板、钢片、背胶、覆盖膜、金盐、半固化片、油墨、铜球和铜粉等为主要原材料"
+    },
+    {
+      "name": "铜箔基板",
+      "target_product": "印制电路板",
+      "cost_proportion": null,
+      "quote": "公司的PCB产品以电子零件、铜箔基板、钢片、背胶、覆盖膜、金盐、半固化片、油墨、铜球和铜粉等为主要原材料"
+    },
+    {
+      "name": "前五名供应商采购",
+      "target_product": null,
+      "cost_proportion": "21.28%",
+      "quote": "前五名供应商合计采购金额 6,728,693,830.51 前五名供应商合计采购金额占年度采购总额比例 21.28%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "手机",
+      "source_product": "通讯用板",
+      "quote": "公司生产的印制电路板广泛应用于通讯电子产业的多类终端产品上，并以智能手机领域为主"
+    },
+    {
+      "name": "网络设备（路由器、交换机）",
+      "source_product": "通讯用板",
+      "quote": "通讯用板主要包括应用于手机、路由器和交换机等通讯产品上的各类印制电路板"
+    },
+    {
+      "name": "平板电脑",
+      "source_product": "消费电子及计算机用板",
+      "quote": "消费电子及计算机用板主要应用于平板电脑、笔记本电脑、可穿戴设备、游戏机和智能家居设备等"
+    },
+    {
+      "name": "笔记本电脑",
+      "source_product": "消费电子及计算机用板",
+      "quote": "消费电子及计算机用板主要应用于平板电脑、笔记本电脑、可穿戴设备、游戏机和智能家居设备等"
+    },
+    {
+      "name": "可穿戴设备",
+      "source_product": "消费电子及计算机用板",
+      "quote": "消费电子及计算机用板主要应用于平板电脑、笔记本电脑、可穿戴设备、游戏机和智能家居设备等"
+    },
+    {
+      "name": "AI眼镜",
+      "source_product": "消费电子及计算机用板",
+      "quote": "公司目前已成为全球AI眼镜的重要供应商...公司AI眼镜类业务实现营业收入较2024年成长4倍以上"
+    },
+    {
+      "name": "服务器/储存器",
+      "source_product": "汽车/服务器用板",
+      "quote": "产品广泛应用于手机、网络设备、平板电脑、可穿戴设备、笔记本电脑、服务器/储存器、汽车电子等下游领域"
+    },
+    {
+      "name": "AI服务器",
+      "source_product": "汽车/服务器用板",
+      "quote": "公司加速推进AI服务器相关技术的研发...2025年，公司AI服务器类产品实现营业收入较2024年增长超1倍"
+    },
+    {
+      "name": "光模块（800G/1.6T）",
+      "source_product": "汽车/服务器用板",
+      "quote": "自2024年起，公司SLP产品已成功切入800G/1.6T光模块这一高增长领域"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "汽车/服务器用板",
+      "quote": "产品广泛应用于...汽车电子等下游领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "沈庆芳",
+      "role": "董事长兼首席执行官",
+      "quote": "公司负责人沈庆芳、主管会计工作负责人萧得望及会计机构负责人（会计主管人员）萧得望声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "萧得望",
+      "role": "主管会计工作负责人兼财务总监",
+      "quote": "公司负责人沈庆芳、主管会计工作负责人萧得望及会计机构负责人（会计主管人员）萧得望声明"
+    },
+    {
+      "name": "周红",
+      "role": "副总经理兼董事会秘书",
+      "quote": "董事会秘书 周红"
+    },
+    {
+      "name": "林益弘",
+      "role": "董事兼总经理",
+      "quote": "林益弘 兼总经理"
+    },
+    {
+      "name": "陈国声",
+      "role": "总经理",
+      "quote": "2023年10月30日 陈国声 总经理"
+    },
+    {
+      "name": "钟佳宏",
+      "role": "副总经理",
+      "quote": "钟佳宏 副总经理"
+    },
+    {
+      "name": "高国乾",
+      "role": "副总经理",
+      "quote": "高国乾 副总经理"
+    },
+    {
+      "name": "杨维贞",
+      "role": "副总经理",
+      "quote": "杨维贞 副总经理"
+    },
+    {
+      "name": "罗安智",
+      "role": "副总经理",
+      "quote": "罗安智 副总经理"
+    },
+    {
+      "name": "马丽梅",
+      "role": "证券事务代表",
+      "quote": "证券事务代表 马丽梅"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "鸿海集团及其控股子公司",
+      "relation_type": "customer",
+      "business_details": "向鸿海集团及其控股子公司销售商品、设备及提供服务等；向鸿海集团及其控股子公司采购原材料、机器设备、服务等。报告期内关联交易金额销售253，079.40万元，采购94，829.97万元。",
+      "quote": "主要客户B为鸿海集团及其控股子公司...主要供应商 E 为鸿海集团及其控股子公司"
+    },
+    {
+      "name": "臻鼎科技控股股份有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东。其全资子公司美港实业和集辉国际为公司控股股东。",
+      "quote": "臻鼎控股/间接控股股东 指 臻鼎科技控股股份有限公司（Zhen Ding Technology Holding Limited）"
+    },
+    {
+      "name": "美港实业有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例66.19%。",
+      "quote": "美港实业/控股股东 指 美港实业有限公司（Mayco Industrial Limited）"
+    },
+    {
+      "name": "集辉国际有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，持股比例5.71%。",
+      "quote": "集辉国际 指 集辉国际有限公司（Pacific Fair International Limited）"
+    },
+    {
+      "name": "庆鼎精密电子（淮安）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司境内全资子公司。2025年营业收入140.23亿元。",
+      "quote": "庆鼎精密 指 庆鼎精密电子（淮安）有限公司，公司境内全资子公司"
+    },
+    {
+      "name": "宏启胜精密电子（秦皇岛）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司境内全资子公司。2025年营业收入97.49亿元。",
+      "quote": "宏启胜 指 宏启胜精密电子（秦皇岛）有限公司，公司境内全资子公司"
+    },
+    {
+      "name": "香港鹏鼎国际有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司香港全资子公司。",
+      "quote": "香港鹏鼎 指 鹏鼎国际有限公司，公司香港全资子公司"
+    },
+    {
+      "name": "台湾鹏鼎科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司台湾全资子公司。",
+      "quote": "台湾鹏鼎 指 鹏鼎科技股份有限公司，公司台湾全资子公司"
+    },
+    {
+      "name": "鹏鼎泰国公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司泰国子公司。泰国一厂已于2025年5月进入试产阶段。",
+      "quote": "鹏鼎泰国公司 指 Peng Shen Technology (Thailand) Co.,Ltd. 公司泰国子公司"
+    },
+    {
+      "name": "无锡华阳科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司收购的控股子公司，持股53.68%。主营车载模块生产及传感器研发、生产与销售。",
+      "quote": "无锡华阳 指 无锡华阳科技有限公司，公司收购的控股子公司"
+    },
+    {
+      "name": "礼鼎半导体科技（深圳）有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，持股比例13.72%。",
+      "quote": "公司投资关联公司礼鼎半导体科技（深圳）有限公司...本次减资完成后...公司对礼鼎半导体的持股比例由8.47%增加至13.72%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "印制电路板",
+      "segment_type": "product_line",
+      "revenue_amount": "38,842,549,642.22",
+      "revenue_proportion": "99.22%",
+      "gross_margin": "21.53%",
+      "yoy_change": "10.93%",
+      "quote": "分行业：印制电路板 38,842,549,642.22 99.22% ... 毛利率 21.53% ... 营业收入比上年同期增减 10.93%"
+    },
+    {
+      "name": "通讯用板",
+      "segment_type": "product_line",
+      "revenue_amount": "25,436,736,536.74",
+      "revenue_proportion": "64.98%",
+      "gross_margin": "19.03%",
+      "yoy_change": "4.95%",
+      "quote": "分产品：通讯用板 25,436,736,536.74 64.98% ... 营业收入 25,436,736,536.74 ... 毛利率 19.03% ... 营业收入比上年同期增减 4.95%"
+    },
+    {
+      "name": "消费电子及计算机用板",
+      "segment_type": "product_line",
+      "revenue_amount": "11,286,967,768.28",
+      "revenue_proportion": "28.83%",
+      "gross_margin": "27.15%",
+      "yoy_change": "15.72%",
+      "quote": "分产品：消费电子及计算机用板 11,286,967,768.28 28.83% ... 营业收入 11,286,967,768.28 ... 毛利率 27.15% ... 营业收入比上年同期增减 15.72%"
+    },
+    {
+      "name": "汽车/服务器用板及其他用板",
+      "segment_type": "product_line",
+      "revenue_amount": "2,118,845,337.20",
+      "revenue_proportion": "5.41%",
+      "gross_margin": "21.55%",
+      "yoy_change": "106.67%",
+      "quote": "分产品：汽车/服务器用板及其他用板 2,118,845,337.20 5.41% ... 汽车\\服务器用板业务毛利率为21.55% ... 汽车\\服务器用板业务实现营业收入21.19亿元，同比增长106.67%"
+    },
+    {
+      "name": "美国",
+      "segment_type": "region",
+      "revenue_amount": "31,235,667,873.87",
+      "revenue_proportion": "79.79%",
+      "gross_margin": "21.32%",
+      "yoy_change": "8.14%",
+      "quote": "分地区：美国 31,235,667,873.87 79.79% ... 营业收入 31,235,667,873.87 ... 毛利率 21.32% ... 营业收入比上年同期增减 8.14%"
+    },
+    {
+      "name": "大中华地区",
+      "segment_type": "region",
+      "revenue_amount": "6,522,040,451.42",
+      "revenue_proportion": "16.66%",
+      "gross_margin": "23.12%",
+      "yoy_change": "27.60%",
+      "quote": "分地区：大中华地区 6,522,040,451.42 16.66% ... 营业收入 6,522,040,451.42 ... 毛利率 23.12% ... 营业收入比上年同期增减 27.60%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "39,071,415,588.45",
+      "revenue_proportion": "99.81%",
+      "gross_margin": "21.44%",
+      "yoy_change": "11.37%",
+      "quote": "分销售模式：直接销售 39,071,415,588.45 99.81% ... 营业收入 39,071,415,588.45 ... 毛利率 21.44% ... 营业收入比上年同期增减 11.37%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "印制电路板",
+      "metric_type": "sales_volume",
+      "value": "30,481,034,398.76",
+      "period": "2025年",
+      "quote": "印制电路板行业 销售量 人民币：元 30,481,034,398.76"
+    },
+    {
+      "product": "印制电路板",
+      "metric_type": "production_volume",
+      "value": "30,286,115,652.43",
+      "period": "2025年",
+      "quote": "印制电路板行业 生产量 人民币：元 30,286,115,652.43"
+    },
+    {
+      "product": "印制电路板",
+      "metric_type": "inventory_volume",
+      "value": "1,559,485,928.16",
+      "period": "2025年末",
+      "quote": "印制电路板行业 库存量 人民币：元 1,559,485,928.16"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "淮安PCB产业园项目",
+      "project_type": "capacity_expansion",
+      "location": "淮安",
+      "investment_amount": "80亿元人民币",
+      "designed_capacity": null,
+      "progress": "项目正在建设中",
+      "expected_completion_time": "2025年下半年至2028年期间",
+      "quote": "公司计划于2025年下半年至2028年期间，累计投入80亿元人民币，在淮安园区整合并建设淮安PCB产业园"
+    },
+    {
+      "name": "淮安高端PCB项目生产基地",
+      "project_type": "capacity_expansion",
+      "location": "淮安经济技术开发区",
+      "investment_amount": "110亿元",
+      "designed_capacity": null,
+      "progress": "2026年初签署投资协议",
+      "expected_completion_time": null,
+      "quote": "公司于2026年初与淮安经济技术开发区签署投资协议，拟于未来投资110亿建设高端PCB项目生产基地"
+    },
+    {
+      "name": "泰国生产基地",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "一期已建成试产，二、三、五厂及钻孔中心同步建设",
+      "expected_completion_time": null,
+      "quote": "公司泰国一期的产能建设已于2025年上半年圆满建成并顺利进入试产阶段，二期、三期工程已同步开工建设。"
+    },
+    {
+      "name": "淮安三园区年产526.75万平方英尺高阶HDI及SLP印刷电路板扩产项目",
+      "project_type": "capacity_expansion",
+      "location": "淮安",
+      "investment_amount": null,
+      "designed_capacity": "年产526.75万平方英尺",
+      "progress": "项目正在建设中",
+      "expected_completion_time": null,
+      "quote": "淮安产业园项目（含淮安第三园区年产526.75万平方英尺高阶HDI及SLP印刷电路板扩产项目）"
+    },
+    {
+      "name": "台湾高雄FPC项目",
+      "project_type": "capacity_expansion",
+      "location": "台湾高雄",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "一期投资计划已建成，未单独核算收益",
+      "expected_completion_time": null,
+      "quote": "台湾高雄FPC项目一期投资计划"
+    },
+    {
+      "name": "软板扩充投资计划",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目正在建设中",
+      "expected_completion_time": null,
+      "quote": "公司软板扩充投资计划"
+    },
+    {
+      "name": "收购并增资无锡华阳科技有限公司股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "356,724,164.00元",
+      "designed_capacity": null,
+      "progress": "已完成过户",
+      "expected_completion_time": "2025年10月30日",
+      "quote": "于2025年10月30日，本公司以人民币356,724,164.00元为对价受让无锡华阳53.68%股权"
+    },
+    {
+      "name": "向全资子公司台湾鹏鼎增资",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "新台币30亿元",
+      "designed_capacity": null,
+      "progress": "2025年6月完成",
+      "expected_completion_time": null,
+      "quote": "公司向香港鹏鼎增资1亿美元，再由香港鹏鼎向台湾鹏鼎增资新台币30亿元用于建设台湾高雄FPC项目。"
+    },
+    {
+      "name": "向全资子公司宏恒胜增资",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "人民币5亿元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司向全资子公司宏恒胜电子科技（淮安）有限公司增资人民币5亿元。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高阶HDI产品（6阶以上）",
+      "asset_type": "core_technology",
+      "related_product": "印制电路板",
+      "quantitative_info": "已具备量产6阶以上HDI产品的能力",
+      "quote": "公司凭借在消费电子用HDI领域积累的丰富经验，已具备量产6阶以上HDI产品的能力"
+    },
+    {
+      "name": "累计专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计申请专利2,801件，累计获证1,647件",
+      "quote": "截至2025年12月31日，鹏鼎控股累计申请专利2,801件，累计获证1,647件。"
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2023年公司被认定为国家企业技术中心",
+      "quote": "2023年公司被认定为国家企业技术中心。"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及子公司宏启胜、庆鼎精密均取得知识产权贯标，并已被认定为高新技术企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "89.45%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 35,017,196,944.57 前五名客户合计销售金额占年度销售总额比例 89.45%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "79.65%",
+      "related_entity": "A",
+      "period": "2025年",
+      "quote": "序号 1 客户名称 A 销售额（元） 31,181,618,986.77 占年度销售总额比例 79.65%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "21.28%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 6,728,693,830.51 前五名供应商合计采购金额占年度采购总额比例 21.28%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格的波动将对公司产品的毛利率水平产生一定影响",
+      "related_entity": null,
+      "related_product": "印制电路板",
+      "quote": "原材料价格的波动将对公司产品的毛利率水平产生一定影响；同时公司生产中需要大量电力，电力供应及电力价格亦受能源供应及能源价格波动影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司主要客户及供应商为境外企业，美元汇率走势的不确定性显著增强，公司面临的汇率波动风险随之加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要客户及供应商为境外企业，公司出口商品、进口原材料主要使用美元结算...公司面临的汇率波动风险随之加剧。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业变化较快及市场竞争加剧的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业变化较快及市场竞争加剧的风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "全球贸易格局变化的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "全球贸易格局变化的风险"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例89.45%，客户集中度较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 89.45%"
+    }
+  ]
+}

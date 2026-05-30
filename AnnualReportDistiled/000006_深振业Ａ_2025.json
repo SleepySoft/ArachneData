@@ -1,0 +1,524 @@
+{
+  "company_name_mentioned": "深圳市振业(集团)股份有限公司",
+  "produces": [
+    {
+      "name": "普通居民住宅",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司以房地产开发经营为主营业务...产品类别涉及普通居民住宅、商用物业等多种类型。"
+    },
+    {
+      "name": "商用物业",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司以房地产开发经营为主营业务...产品类别涉及普通居民住宅、商用物业等多种类型。"
+    },
+    {
+      "name": "房产销售",
+      "type": "service",
+      "revenue_proportion": "91.60%",
+      "quote": "房产销售 2,398,098,203.82 91.60% 5,901,200,052.40 97.30% -59.36%"
+    },
+    {
+      "name": "房产租赁",
+      "type": "service",
+      "revenue_proportion": "5.01%",
+      "quote": "房产租赁 131,264,727.40 5.01% 134,989,508.40 2.23% -2.76%"
+    },
+    {
+      "name": "物管服务",
+      "type": "service",
+      "revenue_proportion": "0.65%",
+      "quote": "物管服务 17,139,654.21 0.65% 8,551,507.88 0.14% 100.43%"
+    },
+    {
+      "name": "代建及旧改前期服务",
+      "type": "service",
+      "revenue_proportion": "0.13%",
+      "quote": "代建及旧改前期服务 3,382,674.58 0.13% 20,207,089.16 0.33% -83.26%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "深圳市规划和自然资源局光明管理局",
+      "target_product": "土地",
+      "cost_proportion": "82.37%",
+      "quote": "深圳市规划和自然资源局光明管理局 1,994,000,000.00 82.37%"
+    },
+    {
+      "name": "中国建筑第六工程局有限公司",
+      "target_product": "工程建设服务",
+      "cost_proportion": "3.02%",
+      "quote": "中国建筑第六工程局有限公司 73,042,849.10 3.02%"
+    },
+    {
+      "name": "湖南康盛建设工程有限公司",
+      "target_product": "工程建设服务",
+      "cost_proportion": "2.25%",
+      "quote": "湖南康盛建设工程有限公司 54,449,541.29 2.25%"
+    },
+    {
+      "name": "深圳市建工集团股份有限公司",
+      "target_product": "工程建设服务",
+      "cost_proportion": "1.27%",
+      "quote": "深圳市建工集团股份有限公司 30,786,919.29 1.27%"
+    },
+    {
+      "name": "中核华泰建设有限公司",
+      "target_product": "工程建设服务",
+      "cost_proportion": "1.20%",
+      "quote": "中核华泰建设有限公司 29,091,391.95 1.20%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "居民居住",
+      "source_product": "普通居民住宅",
+      "quote": "产品类别涉及普通居民住宅、商用物业等多种类型"
+    },
+    {
+      "name": "商业经营",
+      "source_product": "商用物业",
+      "quote": "产品类别涉及普通居民住宅、商用物业等多种类型"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "宋扬",
+      "role": "董事长",
+      "quote": "公司负责人宋扬、主管会计工作负责人李伟..."
+    },
+    {
+      "name": "李伟",
+      "role": "董事、总裁",
+      "quote": "公司负责人宋扬、主管会计工作负责人李伟..."
+    },
+    {
+      "name": "李普",
+      "role": "董事、财务总监",
+      "quote": "公司负责人宋扬、主管会计工作负责人李伟、分管会计工作负责人李普..."
+    },
+    {
+      "name": "杜汛",
+      "role": "副总裁、董事会秘书",
+      "quote": "董事会秘书 杜汛"
+    },
+    {
+      "name": "郭经纬",
+      "role": "独立董事",
+      "quote": "郭经纬 男 64 独立董事"
+    },
+    {
+      "name": "谢玲敏",
+      "role": "独立董事",
+      "quote": "谢玲敏 女 40 独立董事"
+    },
+    {
+      "name": "李固根",
+      "role": "独立董事",
+      "quote": "李固根 男 42 独立董事"
+    },
+    {
+      "name": "叶文峰",
+      "role": "副总裁",
+      "quote": "叶文峰 男 48 副总裁"
+    },
+    {
+      "name": "吕红军",
+      "role": "副总裁",
+      "quote": "吕红军 男 53 副总裁"
+    },
+    {
+      "name": "聂浩",
+      "role": "副总裁",
+      "quote": "聂浩 男 49 副总裁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳市资本运营集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持股15.06%",
+      "quote": "深圳市资本运营集团有限公司 203,356,775 15.06%"
+    },
+    {
+      "name": "深圳市前海天健房地产开发有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "联合竞拍深圳市光明区A509-0074地块，权益比例30%",
+      "quote": "公司与深圳市前海天健房地产开发有限公司、深圳市建辰投资发展有限公司以联合竞拍方式取得深圳市光明区A509-0074地块使用权。根据约定，三方权益比例分别为我司40%、深圳市前海天健房地产开发有限公司30%、深圳市建辰投资发展有限公司30%"
+    },
+    {
+      "name": "深圳市建辰投资发展有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "联合竞拍深圳市光明区A509-0074地块，权益比例30%",
+      "quote": "公司与深圳市前海天健房地产开发有限公司、深圳市建辰投资发展有限公司以联合竞拍方式取得深圳市光明区A509-0074地块使用权。根据约定，三方权益比例分别为我司40%、深圳市前海天健房地产开发有限公司30%、深圳市建辰投资发展有限公司30%"
+    },
+    {
+      "name": "深圳市规划和自然资源局光明管理局",
+      "relation_type": "supplier",
+      "business_details": "土地供应方，采购额19.94亿元",
+      "quote": "深圳市规划和自然资源局光明管理局 1,994,000,000.00 82.37%"
+    },
+    {
+      "name": "中国建筑第六工程局有限公司",
+      "relation_type": "supplier",
+      "business_details": "工程建设服务供应商，采购额7304.28万元",
+      "quote": "中国建筑第六工程局有限公司 73,042,849.10 3.02%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "房产销售",
+      "segment_type": "product_line",
+      "revenue_amount": "2,398,098,203.82元",
+      "revenue_proportion": "91.60%",
+      "gross_margin": "16.72%",
+      "yoy_change": "-59.36%",
+      "quote": "房产销售 2,398,098,203.82 91.60% 5,901,200,052.40 97.30% -59.36%"
+    },
+    {
+      "name": "房产租赁",
+      "segment_type": "product_line",
+      "revenue_amount": "131,264,727.40元",
+      "revenue_proportion": "5.01%",
+      "gross_margin": "40.24%",
+      "yoy_change": "-2.76%",
+      "quote": "房产租赁 131,264,727.40 5.01% 134,989,508.40 2.23% -2.76%"
+    },
+    {
+      "name": "物管服务",
+      "segment_type": "product_line",
+      "revenue_amount": "17,139,654.21元",
+      "revenue_proportion": "0.65%",
+      "gross_margin": "-78.34%",
+      "yoy_change": "100.43%",
+      "quote": "物管服务 17,139,654.21 0.65% 8,551,507.88 0.14% 100.43%"
+    },
+    {
+      "name": "代建及旧改前期服务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,382,674.58元",
+      "revenue_proportion": "0.13%",
+      "gross_margin": "-69.15%",
+      "yoy_change": "-83.26%",
+      "quote": "代建及旧改前期服务 3,382,674.58 0.13% 20,207,089.16 0.33% -83.26%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "68,131,121.30元",
+      "revenue_proportion": "2.60%",
+      "gross_margin": "90.92%",
+      "yoy_change": "-",
+      "quote": "其他业务 68,131,121.30 2.60% - - -"
+    },
+    {
+      "name": "广东省",
+      "segment_type": "region",
+      "revenue_amount": "1,683,095,038.47元",
+      "revenue_proportion": "64.29%",
+      "gross_margin": "19.62%",
+      "yoy_change": "118.87%",
+      "quote": "广东省 1,683,095,038.47 64.29% 768,978,952.00 12.68% 118.87%"
+    },
+    {
+      "name": "江苏省",
+      "segment_type": "region",
+      "revenue_amount": "442,529,127.41元",
+      "revenue_proportion": "16.90%",
+      "gross_margin": "17.70%",
+      "yoy_change": "-89.56%",
+      "quote": "江苏省 442,529,127.41 16.90% 4,238,779,139.79 69.89% -89.56%"
+    },
+    {
+      "name": "天津市",
+      "segment_type": "region",
+      "revenue_amount": "224,421,847.02元",
+      "revenue_proportion": "8.57%",
+      "gross_margin": "24.85%",
+      "yoy_change": "-50.28%",
+      "quote": "天津市 224,421,847.02 8.57% 451,345,278.30 7.44% -50.28%"
+    },
+    {
+      "name": "陕西省",
+      "segment_type": "region",
+      "revenue_amount": "138,978,458.51元",
+      "revenue_proportion": "5.31%",
+      "gross_margin": "11.04%",
+      "yoy_change": "-32.81%",
+      "quote": "陕西省 138,978,458.51 5.31% 206,837,091.11 3.41% -32.81%"
+    },
+    {
+      "name": "湖南省",
+      "segment_type": "region",
+      "revenue_amount": "97,345,484.03元",
+      "revenue_proportion": "3.72%",
+      "gross_margin": "15.55%",
+      "yoy_change": "-74.17%",
+      "quote": "湖南省 97,345,484.03 3.72% 376,868,289.30 6.21% -74.17%"
+    },
+    {
+      "name": "广西壮族自治区",
+      "segment_type": "region",
+      "revenue_amount": "31,646,425.87元",
+      "revenue_proportion": "1.21%",
+      "gross_margin": "16.14%",
+      "yoy_change": "42.94%",
+      "quote": "广西壮族自治区 31,646,425.87 1.21% 22,139,407.34 0.37% 42.94%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "博文雅苑（深圳龙岗区）",
+      "metric_type": "sales_volume",
+      "value": "3,319平方米（本期预售/销售面积）",
+      "period": "2025年",
+      "quote": "深圳博文雅苑 ... 本期预售（销售）面积 3,319"
+    },
+    {
+      "product": "博文雅苑（深圳龙岗区）",
+      "metric_type": "sales_volume",
+      "value": "10,196万元（本期预售/销售金额）",
+      "period": "2025年",
+      "quote": "深圳博文雅苑 ... 本期预售（销售）金额 10,196"
+    },
+    {
+      "product": "天境云庭（深圳光明区）",
+      "metric_type": "sales_volume",
+      "value": "22,090平方米（本期预售/销售面积）",
+      "period": "2025年",
+      "quote": "深圳天境云庭 ... 本期预售（销售）面积 22,090"
+    },
+    {
+      "product": "天境云庭（深圳光明区）",
+      "metric_type": "sales_volume",
+      "value": "99,796万元（本期预售/销售金额）",
+      "period": "2025年",
+      "quote": "深圳天境云庭 ... 本期预售（销售）金额 99,796"
+    },
+    {
+      "product": "振业城五期（长沙岳麓区）",
+      "metric_type": "sales_volume",
+      "value": "11,348平方米（本期预售/销售面积）",
+      "period": "2025年",
+      "quote": "长沙振业城五期 ... 本期预售（销售）面积 11,348"
+    },
+    {
+      "product": "振业城五期（长沙岳麓区）",
+      "metric_type": "sales_volume",
+      "value": "13,851万元（本期预售/销售金额）",
+      "period": "2025年",
+      "quote": "长沙振业城五期 ... 本期预售（销售）金额 13,851"
+    },
+    {
+      "product": "主要项目出租情况",
+      "metric_type": "other",
+      "value": "平均出租率70.96%",
+      "period": "报告期末",
+      "quote": "合计 ... 平均出租率 70.96%"
+    },
+    {
+      "product": "振业大厦",
+      "metric_type": "capacity_utilization",
+      "value": "61.69%（平均出租率）",
+      "period": "报告期末",
+      "quote": "振业大厦 ... 平均出租率 61.69%"
+    },
+    {
+      "product": "振业峦山谷",
+      "metric_type": "capacity_utilization",
+      "value": "97.61%（平均出租率）",
+      "period": "报告期末",
+      "quote": "振业峦山谷 ... 平均出租率 97.61%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "天境云玺",
+      "project_type": "capacity_expansion",
+      "location": "深圳市光明区",
+      "investment_amount": "199,400万元（土地总价）",
+      "designed_capacity": "计容建筑面积108,487平方米",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "天境云玺 ... 光明区周家大道与华夏路交汇处西南侧 ... 34,996 ... 108,487 ... 199,400 ... 2025.8 ... 在建"
+    },
+    {
+      "name": "天境云庭",
+      "project_type": "capacity_expansion",
+      "location": "深圳市光明区",
+      "investment_amount": "126,962万元（累计投资总额）",
+      "designed_capacity": "规划计容建筑面积178,501平方米",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "天境云庭 ... 光明区新湖街道 ... 178,501 ... 126,962 ... 2023.9 ... 在建"
+    },
+    {
+      "name": "振业城五期",
+      "project_type": "capacity_expansion",
+      "location": "长沙市岳麓区",
+      "investment_amount": "36,334万元（累计投资总额）",
+      "designed_capacity": "规划计容建筑面积83,787平方米",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "振业城五期 ... 长沙岳麓区 ... 83,787 ... 36,334 ... 2024.1 ... 在建"
+    },
+    {
+      "name": "振业城U组团",
+      "project_type": "capacity_expansion",
+      "location": "惠州市惠阳经济开发区",
+      "investment_amount": "188,692万元（累计投资总额）",
+      "designed_capacity": "规划计容建筑面积234,177平方米",
+      "progress": "90%（部分竣工）",
+      "expected_completion_time": null,
+      "quote": "振业城U组团 ... 惠阳经济开发区叶挺大道西侧 ... 234,177 ... 188,692 ... 2021.2 ... 90%"
+    },
+    {
+      "name": "振业深河湾二期二标段",
+      "project_type": "capacity_expansion",
+      "location": "河源市高新区",
+      "investment_amount": "17,516万元（累计投资总额）",
+      "designed_capacity": "规划计容建筑面积40,503平方米",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "振业深河湾二期二标段 ... 河源高新区兴业大道东、科技大道南 ... 40,503 ... 17,516 ... 2021.05 ... 在建"
+    },
+    {
+      "name": "天津御湖",
+      "project_type": "construction_project",
+      "location": "天津市滨海高新区",
+      "investment_amount": "1,702,230,260.28元（截至报告期末累计实际投入金额）",
+      "designed_capacity": null,
+      "progress": "竣工",
+      "expected_completion_time": null,
+      "quote": "天津御湖 ... 截至报告期末累计实际投入金额 1,702,230,260.28 ... 项目进度 竣工"
+    },
+    {
+      "name": "南京铭著风华",
+      "project_type": "construction_project",
+      "location": "南京市江宁区",
+      "investment_amount": "2,600,082,867.29元（截至报告期末累计实际投入金额）",
+      "designed_capacity": null,
+      "progress": "竣工",
+      "expected_completion_time": null,
+      "quote": "南京铭著风华 ... 截至报告期末累计实际投入金额 2,600,082,867.29 ... 项目进度 竣工"
+    },
+    {
+      "name": "广州振业天成",
+      "project_type": "construction_project",
+      "location": "广州市黄埔区",
+      "investment_amount": "3,572,600,425.98元（截至报告期末累计实际投入金额）",
+      "designed_capacity": null,
+      "progress": "竣工",
+      "expected_completion_time": null,
+      "quote": "广州振业天成 ... 截至报告期末累计实际投入金额 3,572,600,425.98 ... 项目进度 竣工"
+    },
+    {
+      "name": "非公开发行公司债券",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "总额不超过人民币15亿元",
+      "designed_capacity": null,
+      "progress": "已获深交所无异议函",
+      "expected_completion_time": "无异议函出具之日起12个月内提交挂牌申请",
+      "quote": "公司分别于2025年9月25日、2025年10月13日召开...审议通过非公开发行公司债券相关事项，拟面向专业投资者非公开发行总额不超过人民币15亿元(含15亿元)公司债券。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "保障房智慧管理系统",
+      "asset_type": "technical_platform",
+      "related_product": "保障性租赁住房项目",
+      "quantitative_info": null,
+      "quote": "研发保障性租赁住房智慧管理系统...已基本完成系统开发及上线。"
+    },
+    {
+      "name": "测量机器人等智能技术",
+      "asset_type": "other",
+      "related_product": "房地产开发项目",
+      "quantitative_info": null,
+      "quote": "年内引入测量机器人等智能技术，赋能项目工程质量管理。"
+    },
+    {
+      "name": "人工智能大模型应用",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "积极运用人工智能大模型，实现本地化部署。"
+    },
+    {
+      "name": "全屋智能应用",
+      "asset_type": "other",
+      "related_product": "房地产项目",
+      "quantitative_info": null,
+      "quote": "深化全屋智能应用，实现家居远程操控与安全预警。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "91,899,529.62元，占年度销售总额比例3.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 91,899,529.62 前五名客户合计销售金额占年度销售总额比例 3.51%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "2,181,370,701.63元，占年度采购总额比例90.11%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,181,370,701.63 前五名供应商合计采购金额占年度采购总额比例 90.11%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1,994,000,000.00元，占年度采购总额比例82.37%",
+      "related_entity": "深圳市规划和自然资源局光明管理局",
+      "period": "2025年",
+      "quote": "深圳市规划和自然资源局光明管理局 1,994,000,000.00 82.37%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "40,062,000.00元，占年度销售总额比例1.53%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "客户1 40,062,000.00 1.53%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "房地产行业投资端、销售端依旧承压，系列宽松政策落地及效应释放存在周期滞后性，市场修复进程缓慢，叠加存量房库存高、人口结构变化、项目去化周期拉长等因素影响，公司面临较大外部不确定性，市场端风险仍较为突出。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场风险。当前，房地产行业投资端、销售端依旧承压，系列宽松政策落地及效应释放存在周期滞后性，市场修复进程缓慢，叠加存量房库存高、人口结构变化、项目去化周期拉长等因素影响，公司面临较大外部不确定性，市场端风险仍较为突出。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "2026年，房地产行业资金面整体仍偏紧，行业信用风险尚未完全出清，资金监管政策持续从严，房企融资渠道收窄、融资成本趋高，若出现债务集中到期、销售回款不畅等问题，房企资金链管控压力将加大，流动性缺口风险上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、资金风险。2026年，房地产行业资金面整体仍偏紧，行业信用风险尚未完全出清，资金监管政策持续从严，房企融资渠道收窄、融资成本趋高，若出现债务集中到期、销售回款不畅等问题，房企资金链管控压力将加大，流动性缺口风险上升。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司需遵守《深圳证券交易所上市公司自律监管指引第3号——行业信息披露》中房地产业的披露要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司需遵守《深圳证券交易所上市公司自律监管指引第3号——行业信息披露》中房地产业的披露要求。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司存在多项历史遗留诉讼案件，如与佰富利集团的仲裁请求一案，报告期内仍在执行中。",
+      "related_entity": "B&F&LGROUPLIMITED（佰富利集团）",
+      "related_product": null,
+      "quote": "公司前期披露的与公司长沙项目合作方B&F&LGROUPLIMITED...仲裁请求一案...报告期内，公司收到湖南长沙中院执行裁定书..."
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "报告期内计提存货跌价准备1.39亿元。",
+      "related_entity": null,
+      "related_product": "存货",
+      "quote": "报告期内公司经营活动产生的现金净流量与本年度净利润存在重大差异的原因说明 本年度计提存货跌价准备1.39亿元。"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "company_name_mentioned": "德龙汇能集团股份有限公司",
+  "produces": [
+    {
+      "name": "燃气供应及其相关服务",
+      "type": "service",
+      "revenue_proportion": "93.77%",
+      "quote": "燃气供应及其相关收入 93.77%"
+    },
+    {
+      "name": "节能服务",
+      "type": "service",
+      "revenue_proportion": "2.33%",
+      "quote": "节能服务收入 2.33%"
+    },
+    {
+      "name": "LNG工业点供及贸易",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "开展LNG工业点供及贸易业务"
+    },
+    {
+      "name": "分布式光伏",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "积极拓展分布式光伏开发与运营"
+    },
+    {
+      "name": "合同能源管理服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "开展合同能源管理服务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "天然气",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "从上游天然气供应商购入天然气"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工商业用气",
+      "source_product": "燃气供应及其相关服务",
+      "quote": "精准匹配工商业、居民等各类终端用户"
+    },
+    {
+      "name": "居民用气",
+      "source_product": "燃气供应及其相关服务",
+      "quote": "精准匹配工商业、居民等各类终端用户"
+    },
+    {
+      "name": "工业能源供应",
+      "source_product": "LNG工业点供及贸易",
+      "quote": "全方位市场化地满足工业用户能源需求"
+    },
+    {
+      "name": "交通运输能源补给",
+      "source_product": "LNG工业点供及贸易",
+      "quote": "LNG重卡在干线物流及清洁运输场景"
+    },
+    {
+      "name": "化工园区氢能利用",
+      "source_product": "氢能业务",
+      "quote": "与江苏扬州化学工业园区建立战略合作"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "樊春田",
+      "role": "公司负责人、董事、总裁",
+      "quote": "公司负责人樊春田"
+    },
+    {
+      "name": "秦亮",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人秦亮"
+    },
+    {
+      "name": "陈嘉熙",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）陈嘉熙"
+    },
+    {
+      "name": "郑蜀闽",
+      "role": "董事会秘书、副总裁",
+      "quote": "董事会秘书 郑蜀闽"
+    },
+    {
+      "name": "王新杰",
+      "role": "董事长",
+      "quote": "董事长 王新杰"
+    },
+    {
+      "name": "朱明",
+      "role": "联席总裁",
+      "quote": "联席总裁 朱明"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "东阳诺信芯材企业管理合伙企业(有限合伙)",
+      "relation_type": "subsidiary",
+      "business_details": "2026年2月变更为公司控股股东。",
+      "quote": "公司控股股东变更为东阳诺信芯材"
+    },
+    {
+      "name": "德阳市旌能天然气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有100%权益的子公司。",
+      "quote": "德阳市旌能天然气有限公司（本公司拥有100%权益）"
+    },
+    {
+      "name": "上饶市大通燃气工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有100%权益的子公司。",
+      "quote": "上饶市大通燃气工程有限公司（本公司拥有100%权益）"
+    },
+    {
+      "name": "德阳罗江兴能天然气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有100%权益的子公司。",
+      "quote": "德阳罗江兴能天然气有限公司（本公司拥有100%权益）"
+    },
+    {
+      "name": "苏州天泓燃气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有90%权益的子公司。",
+      "quote": "苏州天泓燃气有限公司（本公司拥有90%权益）"
+    },
+    {
+      "name": "曲靖市马龙区盛能燃气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有70%权益的子公司。",
+      "quote": "曲靖市马龙区盛能燃气有限公司（本公司拥有70%权益）"
+    },
+    {
+      "name": "大连新世纪燃气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有100%权益的子公司。",
+      "quote": "大连新世纪燃气有限公司（本公司拥有100%权益）"
+    },
+    {
+      "name": "四川大通睿恒能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有97.56%权益的子公司。",
+      "quote": "四川大通睿恒能源有限公司（本公司拥有97.56%权益）"
+    },
+    {
+      "name": "成都华联商厦有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有100%权益的子公司。",
+      "quote": "成都华联商厦有限责任公司（本公司拥有100%权益）"
+    },
+    {
+      "name": "珠海金石石油化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司拥有48%权益的联营企业。",
+      "quote": "珠海金石石油化工有限公司（本公司拥有48%权益）"
+    },
+    {
+      "name": "北京顶信瑞通科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内的控股股东。",
+      "quote": "控股股东 北京顶信瑞通科技发展有限公司"
+    },
+    {
+      "name": "中石化江苏石油分公司",
+      "relation_type": "joint_venture",
+      "business_details": "联合投资建设氢能中心一期项目。",
+      "quote": "联合中石化江苏石油分公司共同投资建设"
+    },
+    {
+      "name": "四川华信（集团）会计师事务所(特殊普通合伙)",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所。",
+      "quote": "公司聘请的会计师事务所名称 四川华信（集团）会计师事务所(特殊普通合伙)"
+    }
+  ]
+}

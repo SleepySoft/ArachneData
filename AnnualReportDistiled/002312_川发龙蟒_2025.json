@@ -1,0 +1,564 @@
+{
+  "company_name_mentioned": "四川发展龙蟒股份有限公司",
+  "produces": [
+    {
+      "name": "工业级磷酸一铵",
+      "type": "material",
+      "revenue_proportion": "21.34%",
+      "quote": "分产品 工业级磷酸一铵 2,124,151,071.07 21.34%"
+    },
+    {
+      "name": "饲料级磷酸氢钙",
+      "type": "material",
+      "revenue_proportion": "19.37%",
+      "quote": "分产品 饲料级磷酸氢钙 1,928,230,479.67 19.37%"
+    },
+    {
+      "name": "肥料系列产品",
+      "type": "material",
+      "revenue_proportion": "41.85%",
+      "quote": "分产品 肥料系列产品 4,166,888,629.45 41.85%"
+    },
+    {
+      "name": "磷酸铁",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "攀枝花项目首期5万吨磷酸铁装置正常投产中；德阳项目首期10万吨磷酸铁处于试运行阶段"
+    },
+    {
+      "name": "磷酸铁锂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "德阿项目6万吨/年磷酸铁锂装置已实现量产量销"
+    },
+    {
+      "name": "新能源产品（磷酸铁、磷酸铁锂）",
+      "type": "material",
+      "revenue_proportion": "2.77%",
+      "quote": "分产品 新能源产品 276,177,029.40 2.77%"
+    },
+    {
+      "name": "副产及衍生品（铁精粉、水泥缓凝剂等）",
+      "type": "material",
+      "revenue_proportion": "5.34%",
+      "quote": "分产品 副产及衍生品 531,790,840.14 5.34%"
+    },
+    {
+      "name": "磷矿",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司目前拥有磷矿资源储量约1.3亿吨，原矿产能410万吨/年，2025年生产磷矿231.15万吨"
+    }
+  ],
+  "procures": [
+    {
+      "name": "磷矿",
+      "target_product": "工业级磷酸一铵、饲料级磷酸氢钙、肥料系列产品、磷酸铁等",
+      "cost_proportion": "20.36%",
+      "quote": "磷矿 库内比选 20.36% 否 716.83 676.91"
+    },
+    {
+      "name": "硫酸",
+      "target_product": "工业级磷酸一铵、饲料级磷酸氢钙、肥料系列产品、磷酸铁等",
+      "cost_proportion": "7.99%",
+      "quote": "硫酸 库内比选 7.99% 否 466.29 572.65"
+    },
+    {
+      "name": "硫磺",
+      "target_product": "工业级磷酸一铵、饲料级磷酸氢钙、肥料系列产品、磷酸铁等",
+      "cost_proportion": "8.49%",
+      "quote": "硫磺 库内比选 8.49% 否 1，870.41 2，570.56"
+    },
+    {
+      "name": "尿素",
+      "target_product": "肥料系列产品、复合肥",
+      "cost_proportion": "1.72%",
+      "quote": "尿素 库内比选 1.72% 否 1，727.19 1，527.81"
+    },
+    {
+      "name": "氯化钾",
+      "target_product": "复合肥",
+      "cost_proportion": "1.34%",
+      "quote": "氯化钾 库内比选 1.34% 否 2，595.26 2，805.88"
+    },
+    {
+      "name": "碳酸锂",
+      "target_product": "磷酸铁锂",
+      "cost_proportion": "2.40%",
+      "quote": "碳酸锂 库内比选 2.40% 否 61，371.16 75，919.51"
+    }
+  ],
+  "applications": [
+    {
+      "name": "农业（肥料、饲料添加剂）",
+      "source_product": "工业级磷酸一铵、饲料级磷酸氢钙、肥料系列产品",
+      "quote": "工业级磷酸一铵是一种优质的阻燃、灭火剂，广泛用于木材、纸张、织物的阻燃...也用作高档水溶肥料、磷酸铁锂前驱体磷酸铁原料"
+    },
+    {
+      "name": "新能源汽车、储能电池（正极材料前驱体）",
+      "source_product": "磷酸铁、磷酸铁锂、磷酸二氢锂",
+      "quote": "磷酸铁主要用于制造磷酸铁锂电池正极材料...磷酸铁锂是一种新能源正极材料，它具备较高的安全稳定性、较长的循环寿命，是电动汽车产业、储能产业现阶段最具发展潜力的电池正极材料之一。"
+    },
+    {
+      "name": "消防灭火剂",
+      "source_product": "工业级磷酸一铵",
+      "quote": "工业级磷酸一铵...广泛用于...干粉灭火剂等"
+    },
+    {
+      "name": "饲料添加剂",
+      "source_product": "饲料级磷酸氢钙",
+      "quote": "饲料级磷酸氢钙（英文简称“DCP”），是一种在畜禽饲料中添加的用于补充畜禽磷和钙两类矿物质营养元素的饲料添加剂"
+    },
+    {
+      "name": "复合肥",
+      "source_product": "肥料级磷酸一铵、肥料级磷酸氢钙",
+      "quote": "复合肥是指含有两种或两种以上营养元素的化肥...对于平衡施肥，提高肥料利用率，促进作物的高产稳产有着十分重要的作用。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱全芳",
+      "role": "董事长",
+      "quote": "公司负责人朱全芳...2021年4月起任公司党委副书记、董事、总裁，2024年6月起任公司党委书记、董事长。"
+    },
+    {
+      "name": "王利伟",
+      "role": "董事、总裁",
+      "quote": "王利伟，男...2024年6月至今任公司党委副书记、董事、总裁。"
+    },
+    {
+      "name": "宋华梅",
+      "role": "董事会秘书、职工代表董事",
+      "quote": "董事会秘书 宋华梅...2015年7月至今任公司董事会秘书...2024年6月至今兼任公司职工代表董事"
+    },
+    {
+      "name": "朱光辉",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人朱光辉...现任公司财务总监"
+    },
+    {
+      "name": "何丰",
+      "role": "总工程师",
+      "quote": "何丰，男...2024年6月起任公司总工程师兼工程中心主任。"
+    },
+    {
+      "name": "吕娴",
+      "role": "副总裁",
+      "quote": "吕娴，女...现任公司党委委员、副总裁"
+    },
+    {
+      "name": "陈俊",
+      "role": "常务副总裁",
+      "quote": "陈俊，男...2024年6月至今任公司常务副总裁。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川省先进材料产业投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例25.72%",
+      "quote": "控股股东/四川先进材料集团 指 四川省先进材料产业投资集团有限公司"
+    },
+    {
+      "name": "四川发展（控股）有限责任公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人四川省政府国资委通过四川发展持有控股股东100%股权",
+      "quote": "四川发展 指 四川发展（控股）有限责任公司，持有公司控股股东四川先进材料集团100%股权"
+    },
+    {
+      "name": "龙蟒大地农业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营磷化工",
+      "quote": "龙蟒大地 指 龙蟒大地农业有限公司，公司全资子公司"
+    },
+    {
+      "name": "南漳龙蟒磷制品有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营磷化工及磷矿采选",
+      "quote": "南漳龙蟒 指 南漳龙蟒磷制品有限责任公司，公司全资子公司"
+    },
+    {
+      "name": "四川发展天瑞矿业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营磷矿采选",
+      "quote": "天瑞矿业 指 四川发展天瑞矿业有限公司，公司全资子公司"
+    },
+    {
+      "name": "德阳川发龙蟒新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营新能源材料（磷酸铁、磷酸铁锂）",
+      "quote": "德阳川发龙蟒 指 德阳川发龙蟒新材料有限公司，公司全资子公司"
+    },
+    {
+      "name": "攀枝花川发龙蟒新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营新能源材料（磷酸铁）",
+      "quote": "攀枝花川发龙蟒 指 攀枝花川发龙蟒新材料有限公司，公司全资子公司"
+    },
+    {
+      "name": "四川国拓矿业投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主营锂矿资源",
+      "quote": "国拓矿业 指 四川国拓矿业投资有限公司，公司控股子公司"
+    },
+    {
+      "name": "重庆钢铁集团矿业有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司（49%股权），主营钒钛磁铁矿采选",
+      "quote": "重钢矿业 指 重庆钢铁集团矿业有限公司，公司参股公司"
+    },
+    {
+      "name": "天宝动物营养科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "通过南漳龙蟒控股（60%）并纳入合并范围，主营饲料级磷酸氢钙生产销售",
+      "quote": "天宝公司 指 天宝动物营养科技股份有限公司，南漳龙蟒控股子公司"
+    },
+    {
+      "name": "HIVEBOXHOLDINGSLIMITED",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，持股比例5.77%",
+      "quote": "丰巢开曼、HiveBox 指 HIVEBOXHOLDINGSLIMITED，丰巢控股有限公司，公司参股公司"
+    },
+    {
+      "name": "四川西部锂业集团有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，布局川内锂矿资源",
+      "quote": "西部锂业 指 四川西部锂业集团有限公司，公司参股公司"
+    },
+    {
+      "name": "四川发展天盛矿业有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司（10%），旗下拥有雷波县小沟磷矿",
+      "quote": "天盛矿业 指 四川发展天盛矿业有限公司，公司参股公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "磷化工",
+      "segment_type": "product_line",
+      "revenue_amount": "8，497，938，336.23元",
+      "revenue_proportion": "85.35%",
+      "gross_margin": "13.45%",
+      "yoy_change": "增加0.94个百分点",
+      "quote": "分行业 磷化工 8，497，938，336.23 85.35%...毛利率 13.45%...减少1.31个百分点"
+    },
+    {
+      "name": "新能源材料",
+      "segment_type": "product_line",
+      "revenue_amount": "529，299，713.50元",
+      "revenue_proportion": "5.32%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "分行业 新能源材料 529，299，713.50 5.32%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "8，371，236，848.09元",
+      "revenue_proportion": "84.08%",
+      "gross_margin": "13.55%",
+      "yoy_change": "增加0.94个百分点",
+      "quote": "分地区 国内 8，371，236，848.09 84.08%...毛利率 13.55%...减少0.18个百分点"
+    },
+    {
+      "name": "国际销售",
+      "segment_type": "region",
+      "revenue_amount": "1，585，118，226.92元",
+      "revenue_proportion": "15.92%",
+      "gross_margin": "14.75%",
+      "yoy_change": "减少4.02个百分点",
+      "quote": "分地区 国际 1，585，118，226.92 15.92%...毛利率 14.75%...减少4.02个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5，024，039，252.06元",
+      "revenue_proportion": "50.46%",
+      "gross_margin": "16.23%",
+      "yoy_change": "增加0.94个百分点",
+      "quote": "分销售模式 直销 5，024，039，252.06 50.46%...毛利率 16.23%...减少0.39个百分点"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4，932，315，822.95元",
+      "revenue_proportion": "49.54%",
+      "gross_margin": "11.21%",
+      "yoy_change": "增加0.94个百分点",
+      "quote": "分销售模式 经销 4，932，315，822.95 49.54%...毛利率 11.21%...减少0.29个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工业级磷酸一铵",
+      "metric_type": "capacity",
+      "value": "30万吨/年",
+      "period": "报告期末",
+      "quote": "主要产品 设计产能 工业级磷酸一铵 30万吨/年"
+    },
+    {
+      "product": "工业级磷酸一铵",
+      "metric_type": "capacity_utilization",
+      "value": "128.90%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 产能利用率 工业级磷酸一铵 30万吨/年 128.90%"
+    },
+    {
+      "product": "饲料级磷酸钙盐",
+      "metric_type": "capacity",
+      "value": "114万吨/年",
+      "period": "报告期末",
+      "quote": "主要产品 设计产能 饲料级磷酸钙盐 114万吨/年"
+    },
+    {
+      "product": "饲料级磷酸钙盐",
+      "metric_type": "capacity_utilization",
+      "value": "66.58%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 产能利用率 饲料级磷酸钙盐 114万吨/年 66.58%"
+    },
+    {
+      "product": "肥料系列产品",
+      "metric_type": "capacity",
+      "value": "180万吨/年",
+      "period": "报告期末",
+      "quote": "主要产品 设计产能 肥料系列产品 180万吨/年"
+    },
+    {
+      "product": "肥料系列产品",
+      "metric_type": "capacity_utilization",
+      "value": "110.42%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 产能利用率 肥料系列产品 180万吨/年 110.42%"
+    },
+    {
+      "product": "磷酸铁锂",
+      "metric_type": "capacity",
+      "value": "6万吨/年",
+      "period": "报告期末",
+      "quote": "主要产品 设计产能 磷酸铁锂 6万吨/年"
+    },
+    {
+      "product": "磷酸铁锂",
+      "metric_type": "capacity_utilization",
+      "value": "20.83%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 产能利用率 磷酸铁锂 6万吨/年 20.83%"
+    },
+    {
+      "product": "磷酸铁",
+      "metric_type": "capacity",
+      "value": "15万吨/年",
+      "period": "报告期末",
+      "quote": "主要产品 设计产能 磷酸铁 15万吨/年"
+    },
+    {
+      "product": "磷酸铁",
+      "metric_type": "capacity_utilization",
+      "value": "26.00%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 产能利用率 磷酸铁 15万吨/年 26.00%"
+    },
+    {
+      "product": "磷矿",
+      "metric_type": "production_volume",
+      "value": "231.15万吨",
+      "period": "2025年",
+      "quote": "2025年生产磷矿231.15万吨"
+    },
+    {
+      "product": "工业级磷酸一铵",
+      "metric_type": "production_volume",
+      "value": "38.67万吨",
+      "period": "报告期内",
+      "quote": "报告期内公司主要产品产量合计为297.42万吨，其中工业级磷酸一铵38.67万吨"
+    },
+    {
+      "product": "肥料系列产品",
+      "metric_type": "production_volume",
+      "value": "198.75万吨",
+      "period": "报告期内",
+      "quote": "报告期内公司主要产品产量合计为297.42万吨...肥料系列产品198.75万吨"
+    },
+    {
+      "product": "饲料级磷酸钙盐",
+      "metric_type": "production_volume",
+      "value": "57.45万吨",
+      "period": "报告期内",
+      "quote": "报告期内公司主要产品产量合计为297.42万吨...饲料级磷酸钙盐57.45万吨"
+    },
+    {
+      "product": "新能源材料产品",
+      "metric_type": "production_volume",
+      "value": "2.55万吨",
+      "period": "报告期内",
+      "quote": "报告期内公司主要产品产量合计为297.42万吨...新能源材料产品2.55万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "德阳川发龙蟒锂电新能源材料项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "德阿新材料化工园区",
+      "investment_amount": "1，517，206，226.58元（累计实际投入）",
+      "designed_capacity": "包含磷酸铁、磷酸铁锂、磷酸二氢锂等产能",
+      "progress": "99.00%",
+      "expected_completion_time": null,
+      "quote": "投资 投资金额 项目进度 德阳川发龙蟒 新能源材料项目（一期） 自建 1，517，206，226.58 99.00%"
+    },
+    {
+      "name": "攀枝花川发龙蟒年产20万吨新材料项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "攀枝花钒钛化工园区",
+      "investment_amount": "1，121，811，290.73元（累计实际投入）",
+      "designed_capacity": "5万吨/年磷酸铁",
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "投资 投资金额 项目进度 攀枝花川发龙蟒年产20万吨新材料项目（一期） 自建 1，121，811，290.73 100.00%"
+    },
+    {
+      "name": "10万吨/年磷酸二氢锂项目",
+      "project_type": "capacity_expansion",
+      "location": "德阿新材料化工园区（德阳川发龙蟒）",
+      "investment_amount": null,
+      "designed_capacity": "10万吨/年",
+      "progress": "在建",
+      "expected_completion_time": "2026年年内按期建成",
+      "quote": "重点攻坚德阿10万吨/年磷酸二氢锂项目建设...确保项目年内按期建成，并尽早实现投产目标"
+    },
+    {
+      "name": "17.5万吨/年高压密磷酸铁锂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "17.5万吨/年",
+      "progress": "合作建设，已审议通过",
+      "expected_completion_time": null,
+      "quote": "关于德阳川发龙蟒新材料有限公司合作建设17.5万吨/年高压密磷酸铁锂项目暨参与设立合资公司的议案"
+    },
+    {
+      "name": "雷波县小沟磷矿",
+      "project_type": "construction_project",
+      "location": "雷波县",
+      "investment_amount": null,
+      "designed_capacity": "设计生产规模550万吨/年",
+      "progress": "正在建设阶段",
+      "expected_completion_time": null,
+      "quote": "天盛矿业10%股权，旗下雷波县小沟磷矿拥有资源量4.01亿吨，设计生产规模550万吨/年，目前正在建设阶段"
+    },
+    {
+      "name": "磷石膏无害化利用项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已审议通过",
+      "expected_completion_time": null,
+      "quote": "关于投资建设磷石膏无害化利用项目的议案"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“硫-磷-钛”循环经济清洁生产工艺",
+      "asset_type": "process_technology",
+      "related_product": "磷化工全产业链",
+      "quantitative_info": null,
+      "quote": "公司德阳新市、襄阳南漳两大磷化工基地均采用“硫-磷-钛”循环经济清洁生产技术组织生产"
+    },
+    {
+      "name": "磷酸除杂工艺、工业级磷酸一铵连续结晶工艺",
+      "asset_type": "core_technology",
+      "related_product": "工业级磷酸一铵",
+      "quantitative_info": null,
+      "quote": "自主研发的除杂、结晶技术，相比类似工艺装置收率高、质量好，成本低"
+    },
+    {
+      "name": "高纯磷酸铁制备技术",
+      "asset_type": "core_technology",
+      "related_product": "磷酸铁",
+      "quantitative_info": null,
+      "quote": "自主开发工业磷铵净化制备差异化性能磷酸铁，实现磷资源的增值利用"
+    },
+    {
+      "name": "高压实磷酸铁锂制备技术",
+      "asset_type": "core_technology",
+      "related_product": "磷酸铁锂",
+      "quantitative_info": null,
+      "quote": "高压实磷酸铁锂制备技术"
+    },
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计拥有授权专利227件",
+      "quote": "累计拥有授权专利227件"
+    },
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "目前已拥有国家认定企业技术中心、国家技术创新示范企业、国家知识产权优势企业3个国家级资质平台"
+    },
+    {
+      "name": "饲料级磷酸氢钙国家标准起草单位",
+      "asset_type": "standard",
+      "related_product": "饲料级磷酸氢钙",
+      "quantitative_info": null,
+      "quote": "公司系饲料级磷酸氢钙、磷酸二氢钙和磷酸一二钙现行国家标准的起草单位之一"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "1，046，662，807.17元，占年度销售总额比例10.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1，046，662，807.17 前五名客户合计销售金额占年度销售总额比例 10.51%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1，177，285，223.14元，占年度采购总额比例11.89%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1，177，285，223.14 前五名供应商合计采购金额占年度采购总额比例 11.89%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 10.51%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "供应商集中度较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 11.89%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料及主要产品价格波动引起的各项风险。公司主要原材料及主要产品的价格随国内外宏观经济变化、行业供需格局等因素呈周期性波动，若前述因素出现重大不利变化，则可能对公司的采购、销售管理带来负面影响，不排除会出现生产成本增加以及毛利率下降的风险。",
+      "related_entity": null,
+      "related_product": "磷矿石、硫磺、硫酸、液氨、尿素、氯化钾、碳酸锂、磷酸一铵、磷酸氢钙等",
+      "quote": "1、原材料及主要产品价格波动引起的各项风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全生产风险。公司生产环境包含矿山、化工、物流、工程建设、新能源材料等行业，矿山生产涉及井下采矿、选矿，化工生产涉及破碎、球磨、萃取、过滤、中和、浓缩及结晶等工序，生产过程会涉及磷酸、硫酸、盐酸和液氨等腐蚀性化学品。如果发生安全生产事故，公司需要承担一定损失或赔偿责任，相关设备可能因此停产，对正常生产经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、安全生产风险"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环境保护风险。公司在生产过程中会产生废水、废气及危险废弃物，如果出现处理不当或者环保设备故障等情形，可能导致污染物超标排放，甚至引发突发环境事件，从而面临高额赔偿、行政处罚或停产整改风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、环境保护风险"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "company_name_mentioned": "江苏法尔胜股份有限公司",
+  "produces": [
+    {
+      "name": "金属制品（钢丝及制品）",
+      "type": "material",
+      "revenue_proportion": "74.10% (2025年), 229,777,036.48元",
+      "quote": "公司金属制品业务主要是生产、销售多种用途、不同规格的钢丝产品，主要有产品规格涵盖0.5mm-12mm的各类钢丝及其制品...2025年营业收入229,777,036.48元，占营业收入比重74.10%"
+    },
+    {
+      "name": "生活垃圾渗滤液处理设备及运营管理服务",
+      "type": "service",
+      "revenue_proportion": "25.90% (2025年), 80,302,724.93元",
+      "quote": "公司环保业务主要以控股子公司广泰源为主体开展...主要从事生活垃圾渗滤液处理设备的开发、生产以及生活垃圾渗滤液处理设备的运营管理服务。2025年营业收入80,302,724.93元，占营业收入比重25.90%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "金属制品、环保业务",
+      "cost_proportion": "金属制品业务原材料占营业成本67.38%，环保业务原材料占营业成本3.83%",
+      "quote": "金属制品 原材料 67.38%；环保业务 原材料 3.83%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车座椅、船运码头输送带、矿山输送带",
+      "source_product": "金属制品（钢丝及制品）",
+      "quote": "主要用于汽车座椅、船运码头输送带、矿山输送带等领域"
+    },
+    {
+      "name": "生活垃圾渗滤液处理（垃圾填埋场、焚烧厂）",
+      "source_product": "生活垃圾渗滤液处理设备及运营管理服务",
+      "quote": "其处理需求主要来源于垃圾填埋场与垃圾焚烧厂两大核心场景"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈明军",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人陈明军、主管会计工作负责人陈明军...董事长、总经理：陈明军"
+    },
+    {
+      "name": "周玲",
+      "role": "董事、副总经理、财务总监",
+      "quote": "主管会计工作负责人陈明军及会计机构负责人（会计主管人员）周玲...周玲女士：自2014年4月起担任本公司财务总监，2016年6月起担任本公司董事，2023年6月起担任本公司副总经理。"
+    },
+    {
+      "name": "许方园",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 姓名 许方园"
+    },
+    {
+      "name": "黄芳",
+      "role": "董事（在控股股东处任财务总监）",
+      "quote": "黄芳女士：自2016年6月起担任本公司董事；现任法尔胜泓昇集团有限公司财务总监、财务中心部长。"
+    },
+    {
+      "name": "黄彦郡",
+      "role": "董事（在控股股东处任督查中心部长）",
+      "quote": "黄彦郡先生：自2020年5月起担任本公司董事；现任法尔胜泓昇集团有限公司督查中心部长。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "法尔胜泓昇集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股26.82%。提供资金支持（如8500万元现金捐赠、拆入资金），是关联方。",
+      "quote": "泓昇集团 指 法尔胜泓昇集团有限公司，公司控股股东...控股股东报告期内控股和参股的其他境内内外上市公司的股权情况不适用"
+    },
+    {
+      "name": "大连广泰源环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事环保业务（生活垃圾渗滤液处理等）。",
+      "quote": "广泰源/大连广泰源 指 大连广泰源环保科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "中国贝卡尔特钢帘线有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原为公司参股公司（10%股权），报告期内已出售该股权。",
+      "quote": "贝卡尔特钢帘线 指 中国贝卡尔特钢帘线有限公司，公司参股公司"
+    },
+    {
+      "name": "BEKAERT STEEL CORD PRODUCTS HONG KONG LIMITED",
+      "relation_type": "customer",
+      "business_details": "公司向其出售所持贝卡尔特钢帘线10%股权的交易对手方。",
+      "quote": "公司向BEKAERT STEEL CORD PRODUCTS HONG KONG LIMITED出售直接持有的中国贝卡尔特钢帘线有限公司10%股权"
+    },
+    {
+      "name": "江苏法尔胜精工科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "同一实际控制人下的关联方，向公司采购原材料（2025年交易额172.57万元）。",
+      "quote": "江苏法尔胜精工科技有限公司 关联关系 同一实际控制人 关联交易类型 向关联人采购原材料"
+    },
+    {
+      "name": "江阴法尔胜金属制品有限公司",
+      "relation_type": "supplier",
+      "relation_type_comment": "原文为向关联人采购原材料，故应为supplier",
+      "business_details": "同一实际控制人下的关联方，向公司采购原材料（2025年交易额1,086.78万元）。",
+      "quote": "江阴法尔胜金属制品有限公司 关联关系 同一实际控制人 关联交易类型 向关联人采购原材料"
+    },
+    {
+      "name": "江苏法尔胜特钢制品有限公司",
+      "relation_type": "customer",
+      "business_details": "同一实际控制人下的关联方，公司向其销售产品（2025年交易额19,671.85万元）。",
+      "quote": "江苏法尔胜特钢制品有限公司 关联关系 同一实际控制人 关联交易类型 向关联人销售产品、商品"
+    },
+    {
+      "name": "江阴法尔胜金属制品有限公司",
+      "relation_type": "customer",
+      "business_details": "同一实际控制人下的关联方，公司向其销售产品（2025年交易额953.37万元）。",
+      "quote": "江阴法尔胜金属制品有限公司 关联关系 同一实际控制人 关联交易类型 向关联人销售产品、商品"
+    },
+    {
+      "name": "江苏法尔胜金属线缆销售有限公司",
+      "relation_type": "customer",
+      "business_details": "同一实际控制人下的关联方，公司向其销售产品（2025年交易额1,808.77万元）。",
+      "quote": "江苏法尔胜金属线缆销售有限公司 关联关系 同一实际控制人 关联交易类型 向关联人销售产品、商品"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金属制品",
+      "segment_type": "product_line",
+      "revenue_amount": "229,777,036.48",
+      "revenue_proportion": "74.10%",
+      "gross_margin": "3.29%",
+      "yoy_change": "营业收入同比增减5.73%",
+      "quote": "分行业 金属制品 229,777,036.48 74.10% 224,678,987.63 71.95% 2.15%"
+    },
+    {
+      "name": "环保业务",
+      "segment_type": "product_line",
+      "revenue_amount": "80,302,724.93",
+      "revenue_proportion": "25.90%",
+      "gross_margin": "22.62%",
+      "yoy_change": "营业收入同比增减-7.97%",
+      "quote": "分行业 环保业务 80,302,724.93 25.90% 87,590,064.73 28.05% -2.15%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "309,383,876.19",
+      "revenue_proportion": "99.78%",
+      "gross_margin": "8.32%",
+      "quote": "分地区 境内 309,383,876.19 99.78% 309,928,492.89 99.25% 0.53%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "695,885.22",
+      "revenue_proportion": "0.22%",
+      "gross_margin": "0.00%",
+      "quote": "分地区 境外 695,885.22 0.22% 2,340,559.47 0.75% -0.53%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "310,079,761.41",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "8.30%",
+      "quote": "分销售模式 直销模式 310,079,761.41 100.00% 312,269,052.36 100.00% -0.70%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "金属制品",
+      "metric_type": "sales_volume",
+      "value": "36,762.30吨",
+      "period": "2025年",
+      "quote": "金属制品业 销售量 吨 36,762.30 37,077.64 -0.85%"
+    },
+    {
+      "product": "金属制品",
+      "metric_type": "production_volume",
+      "value": "36,559.33吨",
+      "period": "2025年",
+      "quote": "金属制品业 生产量 吨 36,559.33 37,208.80 -1.75%"
+    },
+    {
+      "product": "金属制品",
+      "metric_type": "inventory_volume",
+      "value": "206.48吨",
+      "period": "2025年末",
+      "quote": "金属制品业 库存量 吨 206.48 409.46 -49.57%"
+    },
+    {
+      "product": "环保行业",
+      "metric_type": "sales_volume",
+      "value": "431,434.74吨",
+      "period": "2025年",
+      "quote": "环保行业 销售量 吨 431,434.74 221,867.44 94.46%"
+    },
+    {
+      "product": "环保行业",
+      "metric_type": "production_volume",
+      "value": "431,434.74吨",
+      "period": "2025年",
+      "quote": "环保行业 生产量 吨 431,434.74 221,867.44 94.46%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "向特定对象发行股票",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "不超过31，000万元",
+      "designed_capacity": null,
+      "progress": "预案阶段，需经深交所审核及证监会注册",
+      "expected_completion_time": null,
+      "quote": "向特定对象（公司控股股东泓昇集团）发行股票预案，本次向特定对象发行股票募集资金总额不超过31，000万元（含本数），扣除发行费用后的募集资金净额将全部用于补充流动资金及偿还借款"
+    },
+    {
+      "name": "重大资产出售（出售贝卡尔特10%股权）",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "16，100.00万元",
+      "designed_capacity": null,
+      "progress": "已实施完毕",
+      "expected_completion_time": "2026年3月10日",
+      "quote": "公司向BEKAERT STEEL CORD PRODUCTS HONG KONG LIMITED出售直接持有的中国贝卡尔特钢帘线有限公司10%股权，本次交易价格为16，100.00万元...本次重大资产出售已实施完毕。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "垃圾渗滤液处理核心技术（V-MVR+VP蒸发技术）",
+      "asset_type": "core_technology",
+      "related_product": "生活垃圾渗滤液处理设备及服务",
+      "quantitative_info": null,
+      "quote": "子公司广泰源掌握自主核心技术，拥有十余项国家专利，在垃圾渗滤液处理领域形成技术壁垒。依托V-MVR+VP核心蒸发技术实现高质量处置"
+    },
+    {
+      "name": "国家专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "十余项",
+      "quote": "拥有十余项国家专利"
+    },
+    {
+      "name": "第三代集装箱式标准化设备",
+      "asset_type": "process_technology",
+      "related_product": "应急垃圾渗滤液处理",
+      "quantitative_info": "50/100/200/300吨/日标准化系列产品",
+      "quote": "广泰源自主研发第三代集装箱式标准化设备，集成蒸发、冷却、洗气、干化等多功能模块，形成50/100/200/300吨/日标准化系列产品"
+    },
+    {
+      "name": "飞灰资源化处理技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "飞灰资源化处理技术开发"
+    },
+    {
+      "name": "陈腐垃圾填埋场异位修复技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "陈腐垃圾填埋场异位修复技术研发"
+    },
+    {
+      "name": "工业高盐废水资源化处理技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "工业高盐废水资源化处理技术开发"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": "大连广泰源环保科技有限公司",
+      "quantitative_info": "所得税减按15%税率征收",
+      "quote": "大连广泰源环保科技有限公司取得...高新技术企业证书，高新技术企业认定有效期三年，所得税减按15%税率征收。"
+    },
+    {
+      "name": "专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": "大连广泰源环保科技有限公司",
+      "quantitative_info": null,
+      "quote": "2021年7月被国家工信部认定为专精特新“小巨人”企业，2024年9月通过国家工信部专精特新“小巨人”复评"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "86.18%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 86.18%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "67.55%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 67.55%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "63.44%",
+      "related_entity": "单位一（隐含）",
+      "period": "2025年",
+      "quote": "1 单位一 196，718，496.76 63.44%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "金属制品行业中小企业数量较多，市场集中度不高，同质化竞争较为激烈，产品价格竞争较为普遍，对公司毛利率及市场拓展带来一定压力。",
+      "related_entity": null,
+      "related_product": "金属制品",
+      "quote": "1、市场竞争风险 公司金属制品行业中小企业数量较多，市场集中度不高，同质化竞争较为激烈，产品价格竞争较为普遍，对公司毛利率及市场拓展带来一定压力。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司部分生产原材料供应渠道相对集中，议价能力有限，高性能原材料获取难度及成本相对较高；大宗商品价格波动可能对原材料供应、采购成本及产品盈利水平带来不确定性影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、原材料价格波动风险 公司部分生产原材料供应渠道相对集中，议价能力有限，高性能原材料获取难度及成本相对较高；大宗商品价格波动可能对原材料供应、采购成本及产品盈利水平带来不确定性影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司金属制品生产环节涉及废酸、重金属等污染物处理，若出现设备运行异常、操作管理不规范等情形，可能存在环保事故及合规管控风险。",
+      "related_entity": null,
+      "related_product": "金属制品",
+      "quote": "3、环保合规风险 公司金属制品生产环节涉及废酸、重金属等污染物处理，若出现设备运行异常、操作管理不规范等情形，可能存在环保事故及合规管控风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "受宏观经济及地方财政支出影响，政府类环保项目投入阶段性放缓，对公司存量项目运营、新项目拓展及资金回笼造成一定压力，环保业务发展面临阶段性挑战。",
+      "related_entity": null,
+      "related_product": "环保业务",
+      "quote": "4、环保业务发展风险 受宏观经济及地方财政支出影响，政府类环保项目投入阶段性放缓，对公司存量项目运营、新项目拓展及资金回笼造成一定压力，环保业务发展面临阶段性挑战。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司合并报表及母公司报表未分配利润均为负数，且短期借款占总资产比例较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "鉴于公司合并报表及母公司报表未分配利润均为负数...短期借款 704，864，919.80 74.60%"
+    }
+  ]
+}

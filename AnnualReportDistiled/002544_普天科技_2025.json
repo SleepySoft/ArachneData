@@ -1,0 +1,480 @@
+{
+  "company_name_mentioned": "中电科普天科技股份有限公司",
+  "produces": [
+    {
+      "name": "通信信息技术服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "在公网通信领域，公司以服务（咨询规划设计、优化与运维、总承包、监理等）+产品（小基站、直放站、数据治理平台等）为基础业务品类。"
+    },
+    {
+      "name": "通信网络产品（如小基站、直放站）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "推出全国产化5G小基站、5G一体化基站、5G大功率数字直放站、5G数字微分布系统等系列产品。"
+    },
+    {
+      "name": "专网通信系统产品与解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "提供程控交换系统、软交换系统、IMS系统、TETRA数字集群系统、PDT数字集群系统、LTE宽带集群系统、MCX公网集群系统等多体制系列化产品。"
+    },
+    {
+      "name": "智慧应用解决方案（如智慧水务、智慧燃气）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "打造智慧水务、智慧燃气、智慧园区综合解决方案。"
+    },
+    {
+      "name": "印制电路板（PCB）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司专注多品种、样品及中小批量、短交期、高可靠性、特殊要求的PCB设计、制造、贴装一站式服务，是国内较大的特种用途PCB制造企业。"
+    },
+    {
+      "name": "时频器件（如恒温晶振、温补晶振）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司拥有从晶片切割到晶振组装测试全流程的生产能力，可为通信、测试计量、导航授时、雷达、物联网、航空航天等领域提供高精度定制化产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "板材",
+      "target_product": "印制电路板（PCB）",
+      "cost_proportion": null,
+      "quote": "向关联人采购...板材、安防产品、印制电路板...等。"
+    },
+    {
+      "name": "安防产品",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "向关联人采购...板材、安防产品、印制电路板...等。"
+    },
+    {
+      "name": "印制电路板",
+      "target_product": "通信设备、系统集成服务",
+      "cost_proportion": null,
+      "quote": "向关联人采购...板材、安防产品、印制电路板...等。"
+    },
+    {
+      "name": "监控设备",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "向关联人采购...监控设备、图像传输设备等。"
+    },
+    {
+      "name": "软件与技术服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "向关联人采购...软件与技术服务等。"
+    },
+    {
+      "name": "通信设备及相关研发服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "向关联人采购卫星天线、手持终端、结构件等通信设备（含北斗相关）、技术服务、硬件开发服务。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电信运营商网络",
+      "source_product": "通信信息技术服务、通信网络产品",
+      "quote": "积极服务于电信运营商、卫星运营商以及政企行业客户。"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "专网通信系统产品",
+      "quote": "可以向城轨行业客户提供公务电话、专用电话、TETRA专用无线、LTE-M车地无线通信...等专网通信解决方案。"
+    },
+    {
+      "name": "智慧能源（电力、石油石化）",
+      "source_product": "专网通信系统产品与解决方案",
+      "quote": "面向石油石化专网通信、生产数字化等业务领域提供调度电话、无线通信、电信系统、油气田智能井场、智能巡检等场景化解决方案。"
+    },
+    {
+      "name": "智慧应急",
+      "source_product": "应急指挥通信解决方案",
+      "quote": "为行业用户提供应急指挥窄带无线通信网解决方案、应急卫星通信网解决方案...等。"
+    },
+    {
+      "name": "智慧水务",
+      "source_product": "智慧水务运营管理平台、灌区信息化管理平台",
+      "quote": "服务于中大型水务集团、灌区管理单位和城镇给排水公司等。"
+    },
+    {
+      "name": "智慧燃气",
+      "source_product": "智慧燃气综合运营管理、智慧场站管理",
+      "quote": "主要为城市燃气集团提供综合解决方案...主要为城市燃气公司提供智慧场站综合解决方案。"
+    },
+    {
+      "name": "通信、电力、工业控制、安防、医疗、航空航天",
+      "source_product": "印制电路板（PCB）",
+      "quote": "在通讯、电力、工业控制、安防、医疗行业、卫星通信、航空航天等领域拥有优质的客户群体。"
+    },
+    {
+      "name": "通信、测试计量、导航授时、雷达、物联网、航空航天",
+      "source_product": "时频器件",
+      "quote": "可为通信、测试计量、导航授时、雷达、物联网、航空航天等领域提供高精度定制化产品。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "沈文明",
+      "role": "董事、总裁、法定代表人",
+      "quote": "公司负责人沈文明...2024年12月起任公司党委副书记、总裁。2025年1月起任公司董事。"
+    },
+    {
+      "name": "蒋仕宝",
+      "role": "副总裁、财务总监",
+      "quote": "主管会计工作负责人蒋仕宝...2020年8月起任副总裁，2021年6月起任公司财务总监。"
+    },
+    {
+      "name": "梁金贵",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）梁金贵"
+    },
+    {
+      "name": "周震",
+      "role": "副总裁、董事会秘书",
+      "quote": "周震先生（董事会秘书、副总裁）...2022年2月起任公司副总裁、董事会秘书。"
+    },
+    {
+      "name": "牛景昌",
+      "role": "副总裁",
+      "quote": "牛景昌先生（副总裁）...2024年7月起任公司副总裁。"
+    },
+    {
+      "name": "何兆龙",
+      "role": "副总裁",
+      "quote": "何兆龙先生（副总裁）...2024年7月起任公司副总裁。"
+    },
+    {
+      "name": "齐幸辉",
+      "role": "副总裁",
+      "quote": "齐幸辉先生（副总裁）...2020年8月起任公司副总裁。"
+    },
+    {
+      "name": "周忠国",
+      "role": "董事长",
+      "quote": "周忠国先生（董事长）...现任中电网络通信集团有限公司副总经理。2024年7月起任公司董事、董事长。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国电子科技集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "公司实际控制人不变，仍为中国电科。"
+    },
+    {
+      "name": "中电网络通信集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东由七所变更为中电网通。"
+    },
+    {
+      "name": "珠海杰赛科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "从事计算机、通信和其他电子设备制造",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：珠海杰赛科技有限公司"
+    },
+    {
+      "name": "广州杰赛电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "从事计算机、通信和其他电子设备制造",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：广州杰赛电子科技有限公司"
+    },
+    {
+      "name": "河北远东通信系统工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "从事交换调度与数字集群系统的生产和销售、专网通信系统集成服务、高端时频器件生产和销售",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：河北远东通信系统工程有限公司"
+    },
+    {
+      "name": "北京中网华通设计咨询有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "从事通信网络规划及工程设计",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：北京中网华通设计咨询有限公司"
+    },
+    {
+      "name": "北京华通天畅工程监理咨询有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "从事通信网络工程监理",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：北京华通天畅工程监理咨询有限公司"
+    },
+    {
+      "name": "中国联通",
+      "relation_type": "customer",
+      "business_details": "客户",
+      "quote": "最终控制人为中国联合网络通信集团有限公司的公司"
+    },
+    {
+      "name": "中国移动",
+      "relation_type": "customer",
+      "business_details": "客户",
+      "quote": "最终控制人为中国移动通信集团有限公司的公司"
+    },
+    {
+      "name": "中国铁路",
+      "relation_type": "customer",
+      "business_details": "客户",
+      "quote": "最终控制人为中国铁路工程集团有限公司的公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "公网通信",
+      "segment_type": "product_line",
+      "revenue_amount": "1,458,280,094.23",
+      "revenue_proportion": "29.85%",
+      "gross_margin": "7.69%",
+      "yoy_change": "-7.45%",
+      "quote": "分产品：公网通信 1,458,280,094.23 ... 占营业收入比重 29.85% ... 同比增减 -7.45% ... 毛利率 7.69%"
+    },
+    {
+      "name": "专网通信与智慧应用",
+      "segment_type": "product_line",
+      "revenue_amount": "2,155,642,048.28",
+      "revenue_proportion": "44.12%",
+      "gross_margin": "17.37%",
+      "yoy_change": "-3.70%",
+      "quote": "分产品：专网通信与智慧应用 2,155,642,048.28 ... 占营业收入比重 44.12% ... 同比增减 -3.70% ... 毛利率 17.37%"
+    },
+    {
+      "name": "智能制造",
+      "segment_type": "product_line",
+      "revenue_amount": "1,261,336,023.21",
+      "revenue_proportion": "25.82%",
+      "gross_margin": "20.67%",
+      "yoy_change": "9.75%",
+      "quote": "分产品：智能制造 1,261,336,023.21 ... 占营业收入比重 25.82% ... 同比增减 9.75% ... 毛利率 20.67%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "4,611,929,677.44",
+      "revenue_proportion": "94.40%",
+      "gross_margin": "16.13%",
+      "yoy_change": "-2.09%",
+      "quote": "分地区：国内 4,611,929,677.44 ... 占营业收入比重 94.40% ... 同比增减 -2.09% ... 毛利率 16.13%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "273,411,795.70",
+      "revenue_proportion": "5.60%",
+      "gross_margin": "3.15%",
+      "yoy_change": "4.27%",
+      "quote": "分地区：国外 273,411,795.70 ... 占营业收入比重 5.60% ... 同比增减 4.27% ... 毛利率 3.15%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,885,341,473.14",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "15.40%",
+      "yoy_change": "-1.75%",
+      "quote": "分销售模式：直接销售 4,885,341,473.14 ... 占营业收入比重 100.00% ... 同比增减 -1.75% ... 毛利率 15.40%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "下一代移动通信产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "38,957",
+      "designed_capacity": null,
+      "progress": "2025年12月31日达到预定可使用状态",
+      "expected_completion_time": "2025年12月31日",
+      "quote": "下一代移动通信产业化项目 ... 调整后投资总额(1) 38,929.45 ... 项目达到预定可使用状态日期 2025年12月31日"
+    },
+    {
+      "name": "5G高端通信振荡器的研发与产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "5,012",
+      "designed_capacity": null,
+      "progress": "2023年06月30日达到预定可使用状态",
+      "expected_completion_time": "2023年06月30日",
+      "quote": "5G高端通信振荡器的研发与产业化项目 ... 调整后投资总额(1) 5,012 ... 项目达到预定可使用状态日期 2023年06月30日"
+    },
+    {
+      "name": "泛在智能公共安全专网装备研发及产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "30,242",
+      "designed_capacity": null,
+      "progress": "2022年12月31日达到预定可使用状态（已变更为永久补充流动资金）",
+      "expected_completion_time": "2022年12月31日",
+      "quote": "泛在智能公共安全专网装备研发及产业化项目 ... 调整后投资总额(1) 2,788.48 ... 项目达到预定可使用状态日期 2022年12月31日"
+    },
+    {
+      "name": "信息技术服务基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "40,708",
+      "designed_capacity": null,
+      "progress": "2025年12月31日达到预定可使用状态（已变更为永久补充流动资金）",
+      "expected_completion_time": "2025年12月31日",
+      "quote": "信息技术服务基地建设项目 ... 调整后投资总额(1) 35,194.46 ... 项目达到预定可使用状态日期 2025年12月31日"
+    },
+    {
+      "name": "珠海厂区二期工程建设项目",
+      "project_type": "construction_project",
+      "location": "珠海",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设期，控制建设节奏",
+      "expected_completion_time": null,
+      "quote": "珠海厂区二期工程建设项目 ... 是否为固定资产投资 是 ... 项目进度 建设期（根据相关业务实际情况控制建设节奏）"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "自主研制的TETRA数字集群设备",
+      "asset_type": "core_technology",
+      "related_product": "专网通信",
+      "quantitative_info": null,
+      "quote": "自主研制的TETRA 数字集群设备开创国内轨道交通采用国产TETRA 集群建设的先例。"
+    },
+    {
+      "name": "370MHz PDT数字集群通信系统",
+      "asset_type": "core_technology",
+      "related_product": "应急通信",
+      "quantitative_info": null,
+      "quote": "自主研制的370MHzPDT数字集群通信系统，率先建成部-省-市-现场四级联网的应急指挥窄带无线通信网。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年，公司（含子公司）申请专利239项（发明专利186项），获得授权128项（发明专利96项）",
+      "quote": "2025年，公司（含子公司）申请专利239项（发明专利186项），获得授权128项（发明专利96项）。"
+    },
+    {
+      "name": "参与制定国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "公司参编发布《IPv6支持度评测指标与评测方法第3部分：IP承载网》（GB/T46335.3-2025）国家标准",
+      "quote": "公司参编发布《IPv6支持度评测指标与评测方法第3部分：IP承载网》（GB/T46335.3-2025）国家标准。"
+    },
+    {
+      "name": "恒温晶振专用集成电路芯片",
+      "asset_type": "core_technology",
+      "related_product": "时频器件",
+      "quantitative_info": null,
+      "quote": "自主设计和开发多款恒温晶振专用集成电路芯片，实现了高端恒温晶体振荡器关键核心技术自主可控。"
+    },
+    {
+      "name": "DSMM（数据安全能力成熟度模型）三级认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过DSMM（数据安全能力成熟度模型）三级认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,033,943,752.69",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,033,943,752.69"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "37.54%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 37.54%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "928,801,829.77",
+      "related_entity": "客户一（关联方）",
+      "period": "2025年",
+      "quote": "序号 1 客户名称 客户一（关联方） 销售额（元） 928,801,829.77"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "17.14%",
+      "related_entity": "客户一（关联方）",
+      "period": "2025年",
+      "quote": "占年度销售总额比例 17.14%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "645,005,981.02",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 645,005,981.02"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "18.27%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 18.27%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "228,457,201.74",
+      "related_entity": "供应商一（关联方）",
+      "period": "2025年",
+      "quote": "序号 1 供应商名称 供应商一（关联方） 采购额（元） 228,457,201.74"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.47%",
+      "related_entity": "供应商一（关联方）",
+      "period": "2025年",
+      "quote": "占年度采购总额比例 6.47%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例37.54%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 37.54%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "前五名供应商合计采购金额占年度采购总额比例18.27%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 18.27%"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "受运营商投资下降、行业竞争加剧影响，新签合同、营业收入及利润均同比下滑。",
+      "related_entity": null,
+      "related_product": "公网通信",
+      "quote": "公网通信板块，持续稳固业务基本盘，但受运营商投资下降、行业竞争加剧影响，新签合同、营业收入及利润均同比下滑。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "2025年由于上游原材料等价格上涨，对该板块利润产生一定的影响。",
+      "related_entity": null,
+      "related_product": "智能制造",
+      "quote": "2025年由于上游原材料等价格上涨，对该板块利润产生一定的影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司卫星通信、人工智能、低空经济等新兴领域的新业务均尚在布局、培育期，预计短期内对公司主营业务收入的贡献较低。",
+      "related_entity": null,
+      "related_product": "新业务",
+      "quote": "公司卫星通信、人工智能、低空经济等新兴领域的新业务均尚在布局、培育期，预计短期内对公司主营业务收入的贡献较低，请投资者注意投资风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "部分客户财政紧张，项目验收延缓导致营业收入同比下降。",
+      "related_entity": null,
+      "related_product": "专网通信与智慧应用",
+      "quote": "因部分客户财政紧张，项目验收延缓导致营业收入同比下降。"
+    }
+  ]
+}

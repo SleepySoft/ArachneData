@@ -1,0 +1,513 @@
+{
+  "company_name_mentioned": "苏州东山精密制造股份有限公司",
+  "produces": [
+    {
+      "name": "软板 (FPC)",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "软板是一种 PCB，以聚醯亚胺或聚酯薄膜等柔性材料为基材，通过铜箔层实现电气互联。...软板广泛应用于边缘 AI设备、消费电子及汽车电子领域。"
+    },
+    {
+      "name": "硬板 (多层PCB, HDI)",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "硬板是采用不可弯曲或扭曲的刚性基板制成的 PCB。我们的硬板产品涵盖单层 PCB、多层 PCB及HDI，以满足客户在AI计算及消费电子等不同行业的需求。"
+    },
+    {
+      "name": "软硬结合板",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "软硬结合板由多层刚性线路层及柔性线路板组成，通过电镀通孔连接，使其能良好适配紧凑及复杂的电子产品结构设计。"
+    },
+    {
+      "name": "光芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "依托子公司索尔思光电，公司布局以高速 EML 芯片为核心的光芯片产品体系，速率覆盖 2.5G至200G全系列矩阵，采用IDM 全流程自研与规模化量产模式。"
+    },
+    {
+      "name": "数据中心光模块",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在AI计算与应用快速发展的推动下，我们的数据中心光模块专为满足 AI基础设施的需求而设计。...专注于模组QSFP-DD、QSFP112及OSFP封装的400G光模块，以及基于DSP、LPO与 LRO架构的 OSFP及 QSFP-DD 800G光模块。"
+    },
+    {
+      "name": "电信光模块",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "我们的电信产品主要包括用于光传输、无线传输及宽带的产品。"
+    },
+    {
+      "name": "汽车零部件 (电池壳体、水冷板、EV电机壳体)",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "我们提供各类汽车结构件与功能模组产品，适配整车不断升级的功能需求，核心产品涵盖电池壳体、水冷板、EV 电机壳体等。"
+    },
+    {
+      "name": "移动通信组件 (天线、滤波器)",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司可提供定制化高性能通信零部件产品，适配全球通信网络升级建设需求，核心产品涵盖移动通信天线、移动通信滤波器。"
+    },
+    {
+      "name": "触控面板 (TP)",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "触控面板广泛应用于消费类电子（平板，笔记本电脑，一体机）、工控、医疗、车载（中控屏、副驾屏、后排娱乐屏）。"
+    },
+    {
+      "name": "显示模组 (LCD&OLED)",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "显示模组（LCD&OLED）可实现 “一体化解决方案”，...LCD 显示模组广泛应用于消费类电子（手机，笔记本电脑，一体机）、工控、医疗、车载。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "电子电路、光模块、精密组件、光电显示模组",
+      "cost_proportion": null,
+      "quote": "根据采购规模，公司主要原材料包括电子元器件、连接器、显示器件、覆铜板、压铸件、晶片、铝材等。"
+    },
+    {
+      "name": "前五大供应商采购",
+      "target_product": null,
+      "cost_proportion": "21.87%",
+      "quote": "前五名供应商合计采购金额（元） 5,737,450,383.42；前五名供应商合计采购金额占年度采购总额比例 21.87%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子",
+      "source_product": "软板、硬板、光电显示模组等",
+      "quote": "我们的软板...广泛应用于边缘 AI设备、消费电子及汽车电子领域。...全球多家领先品牌的 AI 智能手机、可穿戴设备及其他智能设备均采用了我们的软板。"
+    },
+    {
+      "name": "数据中心/AI 服务器",
+      "source_product": "高多层PCB, HDI PCB, 光模块, 光芯片",
+      "quote": "其特别适用于高频及高速数据传输至关重要的 AI 算力基础设施。...为 AI 服务器、超算高速互联等高端场景的严苛应用需求。"
+    },
+    {
+      "name": "汽车 (智能汽车、新能源汽车)",
+      "source_product": "软板、电池壳体、水冷板、EV电机壳体、显示模组、触控面板",
+      "quote": "在汽车领域，我们的软板可在空间受限环境中实现复杂布线，为汽车电池管理系统、车载信息娱乐系统等关键系统提供支持。"
+    },
+    {
+      "name": "通信设备 (基站)",
+      "source_product": "移动通信天线、滤波器",
+      "quote": "产品融合低无源互调、高功率承载、宽频覆盖等技术，...可满足全球主流移动通信网络的技术标准与应用需求。"
+    },
+    {
+      "name": "AR&VR设备",
+      "source_product": "软板、硬板、软硬结合板",
+      "quote": "产品广泛应用于...AR&VR设备、可穿戴设备、机器人等。"
+    },
+    {
+      "name": "医疗设备",
+      "source_product": "软硬结合板、触控面板、显示模组",
+      "quote": "此产品特别适用于医疗器械和汽车系统等行业...触控面板广泛应用于...医疗。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "袁永刚",
+      "role": "董事长、实际控制人",
+      "quote": "袁永刚先生...公司控股股东、实际控制人。现任本公司董事长。"
+    },
+    {
+      "name": "袁永峰",
+      "role": "董事、总经理、实际控制人",
+      "quote": "袁永峰先生...公司控股股东、实际控制人。现任本公司董事、总经理。"
+    },
+    {
+      "name": "袁富根",
+      "role": "实际控制人",
+      "quote": "袁永刚、袁永峰系袁富根之子，上述父子三人系公司的实际控制人。"
+    },
+    {
+      "name": "赵秀田",
+      "role": "副董事长",
+      "quote": "赵秀田先生：美国国籍...现任本公司副董事长。"
+    },
+    {
+      "name": "单建斌",
+      "role": "董事、执行总裁",
+      "quote": "单建斌先生...现任本公司董事、执行总裁。"
+    },
+    {
+      "name": "王旭",
+      "role": "董事、高级副总裁、财务总监",
+      "quote": "王旭先生...现任本公司董事、高级副总裁、财务总监。"
+    },
+    {
+      "name": "冒小燕",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "冒小燕女士...现任本公司董事、副总经理、董事会秘书。"
+    },
+    {
+      "name": "马力强",
+      "role": "职工代表董事、Multek首席运营官兼中国区总裁",
+      "quote": "马力强先生...现任本公司职工代表董事、Multek首席运营官兼中国区总裁。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "MFLEX (Multi-Fineline Electronix, Inc.)",
+      "relation_type": "subsidiary",
+      "business_details": "为Dragon Holdings的全资子公司，从事FPC业务。",
+      "quote": "MFLEX 指 Multi-Fineline Electronix, Inc.，为Dragon Holdings的全资子公司。"
+    },
+    {
+      "name": "Multek Group (Hong Kong) Limited",
+      "relation_type": "subsidiary",
+      "business_details": "为香港控股的全资子公司，从事PCB业务。",
+      "quote": "Multek Group 指 Multek Group (Hong Kong) Limited，为香港控股的全资子公司。"
+    },
+    {
+      "name": "索尔思光电 (Source Photonics Holdings(Cayman) Limited)",
+      "relation_type": "subsidiary",
+      "business_details": "为公司子公司，从事光模块及光芯片业务。",
+      "quote": "索尔思光电 指 Source Photonics Holdings(Cayman) Limited，为公司子公司。"
+    },
+    {
+      "name": "GMD集团 (Groupe Mécanique Découpage)",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司，从事汽车精密部件业务。",
+      "quote": "GMD集团 指 Groupe Mécanique Découpage，为公司全资子公司。"
+    },
+    {
+      "name": "前五大客户",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 64.33%"
+    },
+    {
+      "name": "前五大供应商",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 21.87%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电子电路产品",
+      "segment_type": "product_line",
+      "revenue_amount": "25,620,292,915.99元",
+      "revenue_proportion": "63.85%",
+      "gross_margin": "17.59%",
+      "yoy_change": "3.30%",
+      "quote": "电子电路产品 25,620,292,915.99 63.85%... 17.59% 3.30%"
+    },
+    {
+      "name": "光电显示模组",
+      "segment_type": "product_line",
+      "revenue_amount": "5,985,629,058.48元",
+      "revenue_proportion": "14.92%",
+      "gross_margin": "5.18%",
+      "yoy_change": "-6.03%",
+      "quote": "光电显示模组 5,985,629,058.48 14.92%... 5.18% -6.03%"
+    },
+    {
+      "name": "精密组件产品",
+      "segment_type": "product_line",
+      "revenue_amount": "5,930,242,495.99元",
+      "revenue_proportion": "14.78%",
+      "gross_margin": "9.22%",
+      "yoy_change": "30.61%",
+      "quote": "精密组件产品 5,930,242,495.99 14.78%... 9.22% 30.61%"
+    },
+    {
+      "name": "光模块",
+      "segment_type": "product_line",
+      "revenue_amount": "1,435,534,921.96元",
+      "revenue_proportion": "3.58%",
+      "gross_margin": "36.74%",
+      "yoy_change": null,
+      "quote": "光模块 1,435,534,921.96 3.58%... 36.74%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "7,459,672,435.12元",
+      "revenue_proportion": "18.59%",
+      "gross_margin": "4.06%",
+      "yoy_change": "20.56%",
+      "quote": "内销 7,459,672,435.12 18.59%... 4.06% 20.56%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "32,665,186,404.40元",
+      "revenue_proportion": "81.41%",
+      "gross_margin": "16.38%",
+      "yoy_change": "6.81%",
+      "quote": "外销 32,665,186,404.40 81.41%... 16.38% 6.81%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电子电路产品",
+      "metric_type": "sales_volume",
+      "value": "6,693,546.90 平方米",
+      "period": "2025年",
+      "quote": "电子电路产品 销售量 平方米 6,693,546.90"
+    },
+    {
+      "product": "电子电路产品",
+      "metric_type": "production_volume",
+      "value": "6,978,762.29 平方米",
+      "period": "2025年",
+      "quote": "电子电路产品 生产量 平方米 6,978,762.29"
+    },
+    {
+      "product": "电子电路产品",
+      "metric_type": "inventory_volume",
+      "value": "429,386.72 平方米",
+      "period": "2025年末",
+      "quote": "电子电路产品 库存量 平方米 429,386.72"
+    },
+    {
+      "product": "光电显示模组",
+      "metric_type": "sales_volume",
+      "value": "9,487,921.00 片",
+      "period": "2025年",
+      "quote": "光电显示模组 销售量 片 9,487,921.00"
+    },
+    {
+      "product": "光电显示模组",
+      "metric_type": "production_volume",
+      "value": "9,565,558.00 片",
+      "period": "2025年",
+      "quote": "光电显示模组 生产量 片 9,565,558.00"
+    },
+    {
+      "product": "光电显示模组",
+      "metric_type": "inventory_volume",
+      "value": "4,231,468.00 片",
+      "period": "2025年末",
+      "quote": "光电显示模组 库存量 片 4,231,468.00"
+    },
+    {
+      "product": "光模块",
+      "metric_type": "sales_volume",
+      "value": "2,793,339.00 件",
+      "period": "2025年",
+      "quote": "光模块 销售量 件 2,793,339.00"
+    },
+    {
+      "product": "光模块",
+      "metric_type": "production_volume",
+      "value": "2,872,624.00 件",
+      "period": "2025年",
+      "quote": "光模块 生产量 件 2,872,624.00"
+    },
+    {
+      "product": "光模块",
+      "metric_type": "inventory_volume",
+      "value": "410,579.00 件",
+      "period": "2025年末",
+      "quote": "光模块 库存量 件 410,579.00"
+    },
+    {
+      "product": "精密组件产品",
+      "metric_type": "sales_volume",
+      "value": "183,720,228.00 件",
+      "period": "2025年",
+      "quote": "精密组件产品 销售量 件 183,720,228.00"
+    },
+    {
+      "product": "精密组件产品",
+      "metric_type": "production_volume",
+      "value": "190,751,830.00 件",
+      "period": "2025年",
+      "quote": "精密组件产品 生产量 件 190,751,830.00"
+    },
+    {
+      "product": "精密组件产品",
+      "metric_type": "inventory_volume",
+      "value": "38,519,272.00 件",
+      "period": "2025年末",
+      "quote": "精密组件产品 库存量 件 38,519,272.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购索尔思光电",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司通过收购索尔思光电，成功切入光通信领域，新增光模块（含光芯片）相关业务。"
+    },
+    {
+      "name": "收购法国GMD集团",
+      "project_type": "acquisition_project",
+      "location": "法国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司完成了对法国GMD集团的战略收购。"
+    },
+    {
+      "name": "高端印制电路板项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "审议《关于投资建设高端印制电路板项目的议案》"
+    },
+    {
+      "name": "向特定对象发行股票补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "1,404,000,000元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "向特定对象发行股票...发行数量为125,693,822股，发行价格为11.17元/股，共计募集资金1,403,999,991.74元。"
+    },
+    {
+      "name": "光模块（含光芯片）产能扩充",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "按计划有序推进",
+      "expected_completion_time": null,
+      "quote": "索尔思同步加快光芯片和光模块产能建设，有效匹配下游客户放量节奏与行业需求增长趋势。"
+    },
+    {
+      "name": "AI PCB 产能扩充",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "超10亿美元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司凭借 Multek具备 78层及以上超高多层与 7阶厚板 HDI PCB的专业制造能力，并果断投入超 10亿美元扩充高端产能。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高速 EML 芯片技术",
+      "asset_type": "core_technology",
+      "related_product": "光芯片",
+      "quantitative_info": "速率覆盖 2.5G 至 200G全系列矩阵",
+      "quote": "公司布局以高速 EML 芯片为核心的光芯片产品体系，速率覆盖 2.5G 至 200G全系列矩阵。"
+    },
+    {
+      "name": "IDM全流程自研与量产模式",
+      "asset_type": "process_technology",
+      "related_product": "光芯片",
+      "quantitative_info": null,
+      "quote": "采用IDM 全流程自研与规模化量产模式。"
+    },
+    {
+      "name": "ELIC技术",
+      "asset_type": "core_technology",
+      "related_product": "HDI PCB",
+      "quantitative_info": null,
+      "quote": "我们的ELIC 技术是 HDI 领域的领先技术，它能够实现任意层之间的互连。"
+    },
+    {
+      "name": "超高多层PCB制造技术",
+      "asset_type": "process_technology",
+      "related_product": "高多层PCB",
+      "quantitative_info": "78层及以上",
+      "quote": "Multek已具备78层及以上超高多层与7阶厚板HDI PCB的专业制造能力。"
+    },
+    {
+      "name": "光芯片至光模块全链条技术体系",
+      "asset_type": "technical_platform",
+      "related_product": "光模块、光芯片",
+      "quantitative_info": null,
+      "quote": "索尔思光电深耕行业多年，自主掌握多项关键核心技术，实现光芯片核心技术自主可控；同时配套自研芯片封装与可靠性验证体系。"
+    },
+    {
+      "name": "一体化冲压成型、高精度激光焊接工艺",
+      "asset_type": "process_technology",
+      "related_product": "电池壳体",
+      "quantitative_info": "8200吨",
+      "quote": "公司采用8200 吨一体化冲压成型、高精度激光焊接等先进工艺。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "46.46%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 18,642,838,150.75 46.46%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "64.33%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 64.33%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "21.87%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 21.87%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "公司前五大客户收入占比较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司前五大客户收入占比较高,未来仍有进一步增加的可能。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五大客户收入占比较高，如果主要客户的经营状况发生重大不利变化，将会对公司经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "客户集中度风险：公司前五大客户收入占比较高,未来仍有进一步增加的可能，如果主要客户的经营状况发生重大不利变化，将会对公司经营产生不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司业务涵盖技术密集的电子电路、光模块（光芯片）、精密组件、光电显示模组等领域，如果公司研发制造能力无法匹配下游产品技术快速升级换代的速度，则存在公司产品和技术被淘汰的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业技术快速升级换代带来的风险：...如果公司研发制造能力无法匹配下游产品技术快速升级换代的速度，则存在公司产品和技术被淘汰的风险。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司主要客户群体包括国际知名企业，连续多年公司出口销售额稳步增长。但近年来区域性摩擦愈演愈烈，未来相关贸易政策仍然存在一定的不确定性，公司面临一定的国际贸易风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国际贸易环境变动风险：...公司面临一定的国际贸易风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处行业技术迭代迅速、产品生命周期较短、市场竞争激烈。若公司无法持续紧跟行业技术发展趋势，研发投入不足，不能及时满足现有核心客户以及下游行业不断升级的产品和技术需求，...将可能导致订单不足、市场份额被挤压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场拓展的风险：...若公司无法持续紧跟行业技术发展趋势，研发投入不足...将可能导致订单不足、市场份额被挤压，进而对公司产品销量、营业收入、盈利水平及经营业绩造成不利影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司产品在生产过程涉及外延生长、蚀刻、钝化、光刻、显影、清晰以及电镀等关键工序，会产生废水、废气、固体废弃物及各类有毒有害物质，环保管控要求较高。...若发生污染事件或违反环保相关法律法规，可能面临处罚、整改及声誉受损。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环保风险：...若发生污染事件或违反环保相关法律法规，可能面临处罚、整改及声誉受损，进而对公司生产经营造成不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司外销收入占比较高。由于公司日常运营中涉及美元等外币，而公司的合并报表采用人民币编制。伴随着人民币与美元之间的汇率变动，将可能给公司未来运营带来汇兑风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险：...伴随着人民币与美元之间的汇率变动，将可能给公司未来运营带来汇兑风险。"
+    }
+  ]
+}

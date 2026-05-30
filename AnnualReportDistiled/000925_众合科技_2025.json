@@ -1,0 +1,456 @@
+{
+  "company_name_mentioned": "浙江众合科技股份有限公司",
+  "produces": [
+    {
+      "name": "轨道交通信号系统",
+      "type": "device",
+      "revenue_proportion": "67.24% (1,536,019,394.08元)",
+      "quote": "分产品 轨道交通信号系统 1,536,019,394.08 67.24%"
+    },
+    {
+      "name": "自动售检票系统",
+      "type": "device",
+      "revenue_proportion": "9.31% (212,696,372.09元)",
+      "quote": "分产品 自动售检票系统 212,696,372.09 9.31%"
+    },
+    {
+      "name": "半导体单晶硅材料及其制品",
+      "type": "material",
+      "revenue_proportion": "19.83% (453,096,832.18元)",
+      "quote": "分产品 单晶硅及其制品 453,096,832.18 19.83%"
+    },
+    {
+      "name": "数智产品",
+      "type": "software",
+      "revenue_proportion": "2.38% (54,461,793.37元)",
+      "quote": "分产品 数智产品 54,461,793.37 2.38%"
+    },
+    {
+      "name": "UniTFCC三余度飞控计算机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司为低空无人飞行器的飞控系统...包括UniTFCC三余度飞控计算机...其中UniTFCC三余度飞控计算机，是高风险（起飞重量大于25KG）飞行器的核心部件"
+    },
+    {
+      "name": "UniSpace低空综合服务平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "...UniSpace低空综合服务平台...是面向无人机、电动垂直起降航空器、传统通航飞机及低空娱乐飞行器等多用户统一管理的服务平台"
+    },
+    {
+      "name": "MBSE工业软件（天枢、天玑、摇光等）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "...基于MBSE建模仿真软件成功推出天枢数字化协同平台、天玑体系建模与仿真系统、摇光需求管理系统等六款核心软件产品"
+    },
+    {
+      "name": "智能太空算控一体计算机平台",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "...研发拓展智能太空算控一体计算机平台，显著提升卫星在轨自主感知、决策、规划与控制能力"
+    },
+    {
+      "name": "矿山智能化整体解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "...公司能源矿山业务...主要为客户提供软硬件一体化智能矿山解决方案..."
+    },
+    {
+      "name": "合成生物学终端健康产品（“无限未来”品牌）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "...无限未来专注合成生物学终端健康产品研发与生产...致力于为全球客户提供可直接面向消费市场的创新型健康产品解决方案。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "主要设备及材料",
+      "target_product": "智慧交通业务",
+      "cost_proportion": "72.78% (935,115,490.42元)",
+      "quote": "智慧交通业 主要设备及材料 935,115,490.42 72.78%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "泛半导体制造业",
+      "cost_proportion": "52.86% (158,225,466.88元)",
+      "quote": "泛半导体制造业 原材料 158,225,466.88 52.86%"
+    },
+    {
+      "name": "主要设备及材料",
+      "target_product": "数智化业务",
+      "cost_proportion": "56.52% (18,257,601.23元)",
+      "quote": "数智化业务 主要设备及材料 18,257,601.23 56.52%"
+    },
+    {
+      "name": "前五名供应商采购",
+      "target_product": null,
+      "cost_proportion": "34.05% (740,961,941.83元)",
+      "quote": "前五名供应商合计采购金额（元） 740,961,941.83 前五名供应商合计采购金额占年度采购总额比例 34.05%"
+    },
+    {
+      "name": "第一名供应商",
+      "target_product": null,
+      "cost_proportion": "20.40% (443,843,253.69元)",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 443,843,253.69 20.40%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市轨道交通",
+      "source_product": "轨道交通信号系统、自动售检票系统",
+      "quote": "公司提供轨道交通信号系统和自动售检票及清分系统两大机电系统产品。"
+    },
+    {
+      "name": "通信、新能源、汽车电子、消费电子、工业电子、家用电器、安防",
+      "source_product": "半导体单晶硅材料及其制品",
+      "quote": "公司主要产品和服务应用于半导体分立器件、集成电路领域，终端应用场景包括通信、新能源、汽车电子、消费电子、工业电子、家用电器、安防等产品。"
+    },
+    {
+      "name": "低空无人飞行器（如eVTOL、工业无人机）",
+      "source_product": "UniTFCC三余度飞控计算机",
+      "quote": "...UniTFCC三余度飞控计算机，是高风险（起飞重量大于25KG）飞行器的核心部件，能够满足载人航空器运行的计算平台..."
+    },
+    {
+      "name": "商业航天、卫星互联网",
+      "source_product": "智能太空算控一体计算机平台、MBSE工业软件",
+      "quote": "...为商业航天高效能、智能化发展提供核心支撑。...是构建未来空间信息基础设施的核心硬件载体。"
+    },
+    {
+      "name": "矿山（煤矿、非煤矿山）",
+      "source_product": "矿山智能化整体解决方案、无人矿卡解决方案等",
+      "quote": "...已在山西、新疆等多个矿山企业应用。...中标公司首个矿山轨道运输无人驾驶项目，拓展公司信号技术在矿山领域的跨行业落地突破。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "潘丽春",
+      "role": "董事长兼CEO",
+      "quote": "公司负责人潘丽春...2012年4月起任公司董事长兼CEO。"
+    },
+    {
+      "name": "边劲飞",
+      "role": "总裁、董事",
+      "quote": "主管会计工作负责人边劲飞...2024年5月17日起任公司总裁、董事。"
+    },
+    {
+      "name": "何昊",
+      "role": "副董事长、执行总裁",
+      "quote": "何昊...2024年5月17日起任公司执行总裁、董事；2024年8月28日起任公司副董事长。"
+    },
+    {
+      "name": "何俊丽",
+      "role": "副总裁兼董事会秘书",
+      "quote": "董事会秘书 何俊丽...2020年4月起任公司董事会秘书，2021年5月起任公司副总裁。"
+    },
+    {
+      "name": "王美娇",
+      "role": "财务总监",
+      "quote": "会计机构负责人（会计主管人员）王美娇...2022年2月10日起任本公司财务总监。"
+    },
+    {
+      "name": "贾利民",
+      "role": "独立董事",
+      "quote": "贾利民...现任北京交通大学交通运输学院教授、博士生导师...2020年8月起任本公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江海纳半导体股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司之控股子公司；主要产品包括3-8英寸直拉单晶硅锭、半导体级抛光片、研磨片",
+      "quote": "浙江海纳半导体股份有限公司...公司之控股子公司；已于2023年3月在全国中小企业股份转让系统挂牌公开转让"
+    },
+    {
+      "name": "众合智行轨道交通技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司之控股子公司；承接各类行业解决方案集成业务的主要平台公司",
+      "quote": "众合智行轨道交通技术有限公司...公司之控股子公司...逐步发展成为承接各类行业解决方案集成业务的主要平台公司"
+    },
+    {
+      "name": "北京鸢飞科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "众合智航之联营公司；公司对其进行了战略投资",
+      "quote": "北京鸢飞科技有限公司（众合智航之联营公司）...公司已完成对鸢飞科技的战略投资..."
+    },
+    {
+      "name": "辰极数智卫星技术（浙江）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司通过收购成为控股股东；专注于数字卫星系统性解决方案",
+      "quote": "辰极数智卫星技术（浙江）有限公司...公司于2025年2月战略入股...公司持股62.7848%"
+    },
+    {
+      "name": "浙江博众数智科技创新集团有限公司",
+      "relation_type": "shareholder",
+      "business_details": "公司股东",
+      "quote": "浙江博众数智科技创新集团有限公司...曾用名浙江浙大网新机电科技集团有限公司...2021年6月更名为浙江博众数智科技创新集团有限公司"
+    },
+    {
+      "name": "杭州城投资本集团有限公司",
+      "relation_type": "investor",
+      "business_details": "对公司进行了战略投资",
+      "quote": "杭州城投资本集团有限公司已完成对公司的战略投资..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智慧交通业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,748,715,766.17元",
+      "revenue_proportion": "76.55%",
+      "gross_margin": "26.53%",
+      "yoy_change": "14.29%",
+      "quote": "分行业 智慧交通业 1,748,715,766.17 76.55% ... 智慧交通业 1,748,715,766.17 1,284,798,012.36 26.53% 14.29% 26.30% -6.99%"
+    },
+    {
+      "name": "泛半导体制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "453,096,832.18元",
+      "revenue_proportion": "19.83%",
+      "gross_margin": "33.94%",
+      "yoy_change": "12.33%",
+      "quote": "分行业 泛半导体制造业 453,096,832.18 19.83% ... 泛半导体制造业 453,096,832.18 299,333,971.06 33.94% 12.33% 7.97% 2.66%"
+    },
+    {
+      "name": "轨道交通信号系统",
+      "segment_type": "product_line",
+      "revenue_amount": "1,536,019,394.08元",
+      "revenue_proportion": "67.24%",
+      "gross_margin": "27.50%",
+      "yoy_change": "22.20%",
+      "quote": "分产品 轨道交通信号系统 1,536,019,394.08 67.24% ... 轨道交通信号系统 1,536,019,394.08 1,113,611,570.26 27.50% 22.20% 38.29% -8.43%"
+    },
+    {
+      "name": "自动售检票系统",
+      "segment_type": "product_line",
+      "revenue_amount": "212,696,372.09元",
+      "revenue_proportion": "9.31%",
+      "gross_margin": "19.52%",
+      "yoy_change": "-22.11%",
+      "quote": "分产品 自动售检票系统 212,696,372.09 9.31% ... 自动售检票系统 212,696,372.09 171,186,442.10 19.52% -22.11% -19.23% -2.87%"
+    },
+    {
+      "name": "单晶硅及其制品",
+      "segment_type": "product_line",
+      "revenue_amount": "453,096,832.18元",
+      "revenue_proportion": "19.83%",
+      "gross_margin": "33.94%",
+      "yoy_change": "12.33%",
+      "quote": "分产品 单晶硅及其制品 453,096,832.18 19.83% ... 单晶硅及其制品 453,096,832.18 299,333,971.06 33.94% 12.33% 7.97% 2.66%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "2,167,518,867.70元",
+      "revenue_proportion": "94.88%",
+      "gross_margin": "27.68%",
+      "yoy_change": "13.90%",
+      "quote": "分地区 国内销售 2,167,518,867.70 94.88% ... 国内销售 2,167,518,867.70 1,567,562,170.43 27.68% 13.90% 22.73% -5.20%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "116,976,279.35元",
+      "revenue_proportion": "5.12%",
+      "gross_margin": "47.28%",
+      "yoy_change": "-3.11%",
+      "quote": "分地区 国外销售 116,976,279.35 5.12% ... 国外销售 116,976,279.35 61,667,989.16 47.28% -3.11% -14.96% 7.35%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "泛半导体制造业（单晶硅片）",
+      "metric_type": "sales_volume",
+      "value": "1,380.00万片",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 泛半导体制造业 销售量 万片 1,380.00 1,126 22.56%"
+    },
+    {
+      "product": "泛半导体制造业（单晶硅片）",
+      "metric_type": "production_volume",
+      "value": "1,391.98万片",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 泛半导体制造业 生产量 万片 1,391.98 1,152 20.83%"
+    },
+    {
+      "product": "泛半导体制造业（单晶硅片）",
+      "metric_type": "inventory_volume",
+      "value": "287.52万片",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 泛半导体制造业 库存量 万片 287.52 275.54 4.35%"
+    },
+    {
+      "product": "智慧交通业",
+      "metric_type": "sales_volume",
+      "value": "1,748,715,766.17元",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 智慧交通业 销售量 元 1,748,715,766.17 1,530,044,807.40 14.29%"
+    },
+    {
+      "product": "智慧交通业",
+      "metric_type": "production_volume",
+      "value": "1,748,715,766.17元",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 智慧交通业 生产量 元 1,748,715,766.17 1,530,044,807.40 14.29%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "金华抛光片基地建设项目",
+      "project_type": "capacity_expansion",
+      "location": "金华浦江",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在建工程大幅增加，主要原因是该项目建设投入",
+      "expected_completion_time": null,
+      "quote": "主要系金华抛光片基地建设项目本期投入...在建工程 607,909,349.32 ...主要系金华抛光片基地建设投入增加所致"
+    },
+    {
+      "name": "山西单晶硅锭基地",
+      "project_type": "capacity_expansion",
+      "location": "山西",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "产能持续爬坡",
+      "expected_completion_time": null,
+      "quote": "山西工厂单晶炉调试率已超80%，产能持续爬坡"
+    },
+    {
+      "name": "智能太空算控一体计算机平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成总体设计方案评审、硬件原理样机开发等",
+      "expected_completion_time": "产品预计于2026年10月随卫星发射升空",
+      "quote": "...立项研发的智能太空算控一体计算机平台...已完成系统总体架构评审，所有硬件设备选型、并完成了辐照实验，产品预计将在2026年下半年随卫星发射升空并控制卫星在轨运行。"
+    },
+    {
+      "name": "UniTFCC-B三余度飞控计算机",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成首版B级飞控产品发布，并签订产品订购合同",
+      "expected_completion_time": null,
+      "quote": "...全面开发具备高载重和载人的UniTFCC-B三余度飞控计算机...并与多家主机厂商签订产品订购合同。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "众合芯S101001",
+      "asset_type": "core_technology",
+      "related_product": "轨道交通信号系统",
+      "quantitative_info": "国内首款符合国际最高安全标准SIL4等级的自研芯片",
+      "quote": "...基于国内首款符合国际最高安全标准SIL4等级的自研芯片——众合芯S101001，成功研制出全自主化的安全计算机平台"
+    },
+    {
+      "name": "SIL4级安全认证",
+      "asset_type": "certification",
+      "related_product": "轨道交通信号系统、飞控计算机",
+      "quantitative_info": null,
+      "quote": "...安全风险控制在10⁻⁹以内...通过了第三方机构的SIL4安全认证..."
+    },
+    {
+      "name": "全自主化安全计算机平台",
+      "asset_type": "core_technology",
+      "related_product": "轨道交通信号系统",
+      "quantitative_info": "关键器件100%国产化，操作系统自主可控",
+      "quote": "...该平台实现了关键器件100%国产化，操作系统自主可控，彻底打破我国在CPU、FPGA、操作系统等领域对国外产品的依赖"
+    },
+    {
+      "name": "通用高安全可靠计算机平台",
+      "asset_type": "technical_platform",
+      "related_product": "轨道交通、低空、卫星等",
+      "quantitative_info": null,
+      "quote": "通用高安全可靠计算机平台...是基于众合科技十余年高安全高可靠信号行业积累而研发的面向泛工业领域应用的高安全、高可靠、可灵活组合扩展的工业控制计算机"
+    },
+    {
+      "name": "授权专利累计数",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "339项（其中发明专利204项）",
+      "quote": "授权专利累计数 项 339 ... 授权发明专利累计数 项 204"
+    },
+    {
+      "name": "软件著作累计数",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "409项",
+      "quote": "软件著作累计数 项 409"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "53.39% (1,219,695,352.05元)",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,219,695,352.05 前五名客户合计销售金额占年度销售总额比例 53.39%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "17.27% (394,529,078.36元)",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 394,529,078.36 17.27%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "34.05% (740,961,941.83元)",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 740,961,941.83 前五名供应商合计采购金额占年度采购总额比例 34.05%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "20.40% (443,843,253.69元)",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 443,843,253.69 20.40%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "低空经济领域，行业竞争主体加速涌入，可能存在低空基础设施投入不足和业务拓展不及预期的情况。",
+      "related_entity": null,
+      "related_product": "低空综合服务系统、智慧起降场产品",
+      "quote": "新产品新业务拓展不及预期的风险...低空综合服务系统和智慧起降场产品作为低空基础设施，行业竞争主体加速涌入，可能存在低空基础设施投入不足和业务拓展不及预期的情况。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司可能面临技术验证周期延长与产业化进度不及预期的风险，例如飞控计算机需要与主机厂完成产品适配和技术对接工作后共同申请适航证，技术验证周期存在不确定性。",
+      "related_entity": null,
+      "related_product": "UniTFCC三余度飞控计算机",
+      "quote": "新产品新业务拓展不及预期的风险...例如，UniTFCC三余度飞控计算机需要与无人飞行器主机厂完成产品适配和技术对接工作后共同申请适航证，技术验证周期存在不确定性"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主营产品毛利率水平主要受原材料价格等多种因素的影响，若发生持续不利变化，毛利率将面临下降风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "毛利率波动风险...公司主营业务毛利率水平主要受行业发展状况...原材料价格...等多种因素的影响，若上述因素发生持续不利变化，公司产品的毛利率将面临下降风险"
+    },
+    {
+      "risk_type": "talent_concentration",
+      "description": "公司属于技术密集型行业，目前市场人才竞争加剧，存在人才不足或流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才不足和流失的风险...目前市场人才竞争加剧，随着公司技术的不断迭代创新和产业链的延伸，公司存在人才不足或流失的风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "轨道交通领域，行业投资受政策规划和地方财政支出影响较大，地铁线路的调整、交付节奏的放缓，都可能导致新增订单放缓或收入确认延迟。",
+      "related_entity": null,
+      "related_product": "轨道交通设备",
+      "quote": "行业周期波动的风险...轨道交通领域，行业投资受政策规划和地方财政支出影响较大，地铁线路的调整、交付节奏的放缓，都可能导致新增订单放缓或收入确认延迟"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "报告期资产减值损失中包含存货跌价损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值 -73,849,943.21 359.22% 主要系存货跌价损失及长期股权投资减值损失。"
+    }
+  ]
+}

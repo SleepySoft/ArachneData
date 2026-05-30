@@ -1,0 +1,648 @@
+{
+  "company_name_mentioned": "昆明云内动力股份有限公司",
+  "produces": [
+    {
+      "name": "车用柴油发动机（DEV系列）",
+      "type": "device",
+      "revenue_proportion": "84.02% (发动机产品，包含DEV系列等)",
+      "quote": "分产品：发动机 3,934,899,130.89 84.02%"
+    },
+    {
+      "name": "非道路柴油发动机（YN系列、DEF系列）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "非道路柴油发动机：YN系列柴油发动机（经典动力）与DEF系列柴油发动机（高端动力）均已满足非道路国四排放法规。"
+    },
+    {
+      "name": "汽油发动机（G系列）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "汽油发动机：自主研发的G系列汽油机具有低油耗、低成本及低速扭矩充沛的优势，并为江淮、福田、上汽等主流厂商的微卡、轻卡及皮卡车型提供配套。"
+    },
+    {
+      "name": "燃气发动机（YN30NF等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "燃气发动机:公司持续引领创新，旗下YN30NF燃气机是国内首款批量投产的国Ⅵ四缸燃气机，荣获行业奖项。报告期内，公司进一步丰富了燃气机产品线，推出了D45等新机型。"
+    },
+    {
+      "name": "工业级电子设备（加油/气机支付系统、充电桩支付系统、自助终端支付系统、汽车线束）",
+      "type": "device",
+      "revenue_proportion": "1.46% (工业级电子产品)",
+      "quote": "工业级电子产品 68,312,671.73 1.46%"
+    },
+    {
+      "name": "发动机配件及其他",
+      "type": "component",
+      "revenue_proportion": "10.50%",
+      "quote": "配件及其他 491,681,026.44 10.50%"
+    },
+    {
+      "name": "技术服务",
+      "type": "service",
+      "revenue_proportion": "0.82%",
+      "quote": "技术服务 38,370,575.05 0.82%"
+    },
+    {
+      "name": "混合动力发动机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司混合动力产品已在多家主流车企实现配套并获市场积极反馈。"
+    },
+    {
+      "name": "氢燃料电池系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司持续深化氢能产业链布局，构建覆盖电堆、系统及解决方案的产品体系。"
+    },
+    {
+      "name": "智能农机产品（如智能割胶机）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "其中智能农机产品已实现规模化批量销售并完成配套产能建设。"
+    },
+    {
+      "name": "L4级无人驾驶物流车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "L4级无人驾驶物流车在获取部分区域路权的基础上，已在多个应用场景实现小批量的试点运营与客户交付。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（发动机零部件等）",
+      "target_product": "发动机",
+      "cost_proportion": "87.08% (占发动机行业营业成本比重)",
+      "quote": "发动机行业 原材料 4,172,110,736.64 87.08%"
+    },
+    {
+      "name": "原材料（电子设备部件等）",
+      "target_product": "工业级电子产品",
+      "cost_proportion": "0.42% (占营业成本比重)",
+      "quote": "电子行业 原材料 20,020,904.84 0.42%"
+    },
+    {
+      "name": "零部件、设备等",
+      "target_product": "发动机及电子设备",
+      "cost_proportion": null,
+      "quote": "公司采购、生产、销售体系相对完整，业务较集中，采取“以销定产”模式。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "轻卡",
+      "source_product": "车用柴油发动机、汽油发动机",
+      "quote": "广泛配套于轻卡、中卡、轻客、皮卡、乘用车及重型商用车。"
+    },
+    {
+      "name": "中卡",
+      "source_product": "车用柴油发动机",
+      "quote": "广泛配套于轻卡、中卡、轻客、皮卡、乘用车及重型商用车。"
+    },
+    {
+      "name": "轻客",
+      "source_product": "车用柴油发动机",
+      "quote": "广泛配套于轻卡、中卡、轻客、皮卡、乘用车及重型商用车。"
+    },
+    {
+      "name": "皮卡",
+      "source_product": "车用柴油发动机、汽油发动机",
+      "quote": "广泛配套于轻卡、中卡、轻客、皮卡、乘用车及重型商用车。"
+    },
+    {
+      "name": "乘用车",
+      "source_product": "车用柴油发动机、汽油发动机",
+      "quote": "广泛配套于轻卡、中卡、轻客、皮卡、乘用车及重型商用车。"
+    },
+    {
+      "name": "重型商用车",
+      "source_product": "车用柴油发动机",
+      "quote": "广泛配套于轻卡、中卡、轻客、皮卡、乘用车及重型商用车。"
+    },
+    {
+      "name": "工程机械",
+      "source_product": "非道路柴油发动机",
+      "quote": "公司是国内主要的多缸小缸径柴油机研发与制造企业，车用产品和非道路产品应用配套范围广泛。...非道路柴油发动机...YN系列主打经济性，适配性价比机型；DEF系列具备动力强、油耗低、噪音小、可靠性高等特点，主攻中高端市场。"
+    },
+    {
+      "name": "农业机械",
+      "source_product": "非道路柴油发动机、智能农机产品",
+      "quote": "公司是国内主要的多缸小缸径柴油机研发与制造企业，车用产品和非道路产品应用配套范围广泛。...非道路柴油发动机...YN系列主打经济性，适配性价比机型；DEF系列具备动力强、油耗低、噪音小、可靠性高等特点，主攻中高端市场。...智能农机产品已实现规模化批量销售。"
+    },
+    {
+      "name": "加油（气）机",
+      "source_product": "工业级电子设备（支付系统）",
+      "quote": "产品广泛运用于加油（气）机行业、新能源充电桩行业、自助终端支付及新零售等领域。"
+    },
+    {
+      "name": "新能源充电桩",
+      "source_product": "工业级电子设备（支付系统）",
+      "quote": "产品广泛运用于加油（气）机行业、新能源充电桩行业、自助终端支付及新零售等领域。"
+    },
+    {
+      "name": "自助终端",
+      "source_product": "工业级电子设备（支付系统）",
+      "quote": "产品广泛运用于加油（气）机行业、新能源充电桩行业、自助终端支付及新零售等领域。"
+    },
+    {
+      "name": "新零售",
+      "source_product": "工业级电子设备（支付系统）",
+      "quote": "产品广泛运用于加油（气）机行业、新能源充电桩行业、自助终端支付及新零售等领域。"
+    },
+    {
+      "name": "物流配送",
+      "source_product": "L4级无人驾驶物流车",
+      "quote": "L4级无人驾驶物流车在获取部分区域路权的基础上，已在多个应用场景实现小批量的试点运营与客户交付。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨波",
+      "role": "公司负责人、董事长、总经理",
+      "quote": "公司负责人杨波、主管会计工作负责人朱国友及会计机构负责人（会计主管人员）熊瑞声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "朱国友",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人杨波、主管会计工作负责人朱国友及会计机构负责人（会计主管人员）熊瑞声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "熊瑞",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人杨波、主管会计工作负责人朱国友及会计机构负责人（会计主管人员）熊瑞声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "翟建峰",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 翟建峰"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "云南云内动力集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "云内集团、控股股东 指 云南云内动力集团有限公司"
+    },
+    {
+      "name": "北汽福田汽车股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "客户名称：北汽福田汽车股份有限公司"
+    },
+    {
+      "name": "安徽江淮汽车集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "安徽江淮汽车集团股份有限公司"
+    },
+    {
+      "name": "一汽解放汽车有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "一汽解放汽车有限公司"
+    },
+    {
+      "name": "东风汽车集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "东风汽车集团股份有限公司"
+    },
+    {
+      "name": "博世动力总成有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "供应商名称：博世动力总成有限公司"
+    },
+    {
+      "name": "无锡威孚高科技集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "无锡威孚高科技集团股份有限公司"
+    },
+    {
+      "name": "深圳市森世泰科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，关联方",
+      "quote": "深圳市森世泰科技有限公司为公司关联方。"
+    },
+    {
+      "name": "博世（中国）投资有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "博世（中国）投资有限公司"
+    },
+    {
+      "name": "成都云内动力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "成都云内 指 成都云内动力有限公司"
+    },
+    {
+      "name": "深圳市铭特科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事工业级电子设备业务",
+      "quote": "铭特科技 指 深圳市铭特科技有限公司"
+    },
+    {
+      "name": "山东云内动力有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "山东云内 非道路系列柴油机及零配件的生产"
+    },
+    {
+      "name": "合肥云内动力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "合肥云内 “85、90”系列柴油机的生产与销售"
+    },
+    {
+      "name": "昆明市人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "昆明市国资委 指 昆明市人民政府国有资产监督管理委员会"
+    },
+    {
+      "name": "中交机电工程局有限公司",
+      "relation_type": "customer",
+      "business_details": "燃料电池发电系统集成采购合同方",
+      "quote": "公司与中交机电工程局有限公司（以下简称“中交机电”）签订了《燃料电池发电系统集成采购合同》"
+    },
+    {
+      "name": "山西云内动力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东的子公司，存在同业竞争承诺",
+      "quote": "云内集团于2021年11月收购的山西云内产品与公司发动机产品型号不同...存在同业竞争的可能性。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "发动机行业",
+      "segment_type": "product_line",
+      "revenue_amount": "4,464,950,732.38",
+      "revenue_proportion": "95.34%",
+      "gross_margin": "-4.87%",
+      "yoy_change": "-1.96%",
+      "quote": "发动机行业 4,464,950,732.38 95.34% -1.96%"
+    },
+    {
+      "name": "电子行业",
+      "segment_type": "product_line",
+      "revenue_amount": "68,312,671.73",
+      "revenue_proportion": "1.46%",
+      "gross_margin": "65.44%",
+      "yoy_change": "-8.92%",
+      "quote": "电子行业 68,312,671.73 1.46% -8.92%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "other",
+      "revenue_amount": "150,149,709.06",
+      "revenue_proportion": "3.21%",
+      "gross_margin": null,
+      "yoy_change": "47.25%",
+      "quote": "其他业务 150,149,709.06 3.21% 47.25%"
+    },
+    {
+      "name": "发动机",
+      "segment_type": "product_line",
+      "revenue_amount": "3,934,899,130.89",
+      "revenue_proportion": "84.02%",
+      "gross_margin": "-6.86%",
+      "yoy_change": "-0.70%",
+      "quote": "发动机 3,934,899,130.89 84.02% -0.70%"
+    },
+    {
+      "name": "配件及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "491,681,026.44",
+      "revenue_proportion": "10.50%",
+      "gross_margin": "7.91%",
+      "yoy_change": "-11.49%",
+      "quote": "配件及其他 491,681,026.44 10.50% -11.49%"
+    },
+    {
+      "name": "技术服务",
+      "segment_type": "service",
+      "revenue_amount": "38,370,575.05",
+      "revenue_proportion": "0.82%",
+      "gross_margin": "35.42%",
+      "yoy_change": "5.22%",
+      "quote": "技术服务 38,370,575.05 0.82% 5.22%"
+    },
+    {
+      "name": "工业级电子产品",
+      "segment_type": "product_line",
+      "revenue_amount": "68,312,671.73",
+      "revenue_proportion": "1.46%",
+      "gross_margin": "65.44%",
+      "yoy_change": "-8.92%",
+      "quote": "工业级电子产品 68,312,671.73 1.46% -8.92%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "4,658,526,185.08",
+      "revenue_proportion": "99.47%",
+      "gross_margin": "-3.85%",
+      "yoy_change": "-1.40%",
+      "quote": "国内 4,658,526,185.08 99.47% -1.40%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "24,886,928.09",
+      "revenue_proportion": "0.53%",
+      "gross_margin": "3.16%",
+      "yoy_change": "280.60%",
+      "quote": "国外 24,886,928.09 0.53% 280.60%"
+    },
+    {
+      "name": "自销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,458,609,047.91",
+      "revenue_proportion": "73.85%",
+      "gross_margin": "-6.46%",
+      "yoy_change": "-0.41%",
+      "quote": "自销 3,458,609,047.91 73.85% -0.41%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,224,804,065.26",
+      "revenue_proportion": "26.15%",
+      "gross_margin": "3.36%",
+      "yoy_change": "-2.68%",
+      "quote": "分销 1,224,804,065.26 26.15% -2.68%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "发动机",
+      "metric_type": "production_volume",
+      "value": "376153台",
+      "period": "2025年",
+      "quote": "发动机 376153台"
+    },
+    {
+      "product": "发动机",
+      "metric_type": "sales_volume",
+      "value": "368100台",
+      "period": "2025年",
+      "quote": "发动机 368100台"
+    },
+    {
+      "product": "发动机",
+      "metric_type": "inventory_volume",
+      "value": "18666台",
+      "period": "2025年末",
+      "quote": "发动机 库存量 台 18,666"
+    },
+    {
+      "product": "电子行业产品",
+      "metric_type": "production_volume",
+      "value": "399437套",
+      "period": "2025年",
+      "quote": "电子行业 生产量 套 399,437"
+    },
+    {
+      "product": "电子行业产品",
+      "metric_type": "sales_volume",
+      "value": "427765套",
+      "period": "2025年",
+      "quote": "电子行业 销售量 套 427,765"
+    },
+    {
+      "product": "电子行业产品",
+      "metric_type": "inventory_volume",
+      "value": "30441套",
+      "period": "2025年末",
+      "quote": "电子行业 库存量 套 30,441"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "国六柴油机开发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本期持续投入开发新机型，正在进行台架及整车标定",
+      "expected_completion_time": null,
+      "quote": "国六柴油机开发项目"
+    },
+    {
+      "name": "非道路柴油机开发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本期持续投入开发新机型，正在进行台架及整车标定；前期已取得公告的项目正在进行应用开发。",
+      "expected_completion_time": null,
+      "quote": "非道路柴油机开发项目"
+    },
+    {
+      "name": "轻型商用车用汽油机开发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本期持续投入开发新机型，正在进行台架标定。",
+      "expected_completion_time": null,
+      "quote": "轻型商用车用汽油机开发项目"
+    },
+    {
+      "name": "出口机型开发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本期持续投入开发新机型，正在进行整车标定。",
+      "expected_completion_time": null,
+      "quote": "出口机型开发项目"
+    },
+    {
+      "name": "天然气发动机开发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本期持续投入开发新机型，正在进行台架及整车标定",
+      "expected_completion_time": null,
+      "quote": "天然气发动机开发项目"
+    },
+    {
+      "name": "无人值守（UPT）支付终端项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "样机已完成，现进入到小批中试阶段。",
+      "expected_completion_time": null,
+      "quote": "无人值守（UPT）支付终端项目"
+    },
+    {
+      "name": "加油机读卡器及打印机国产化项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加油机读卡器国产替代方案已完成中试，待客户送样通过后进行小批量试产。加油机打印机国产替代方案通过小批产试产，现在导入批量生产。",
+      "expected_completion_time": null,
+      "quote": "加油机读卡器及打印机国产化项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发动机领域有效专利",
+      "asset_type": "patent",
+      "related_product": "发动机",
+      "quantitative_info": "407项（其中实用新型304项，外观65项，发明38项）",
+      "quote": "截至2025年12月31日，公司在发动机领域拥有有效专利407项，其中实用新型专利304项，外观专利65项，发明专利38项。"
+    },
+    {
+      "name": "工业级电子设备领域有效专利",
+      "asset_type": "patent",
+      "related_product": "工业级电子产品",
+      "quantitative_info": "43项（其中实用新型28项，外观5项，发明10项）",
+      "quote": "截至2025年12月31日，公司累计拥有有效专利43项，其中实用新型专利28项、外观专利5项、发明专利10项。"
+    },
+    {
+      "name": "IATF16949:2016质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建立了完善的质量保障体系，严格按照IATF16949:2016质量管理体系标准运行。"
+    },
+    {
+      "name": "欧盟E-mark认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "部分产品已获得欧盟E-mark认证。"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托国家级企业技术中心、国际联合研究中心、工程研究中心、重点实验室、工业设计中心及院士专家工作站等高效研发平台。"
+    },
+    {
+      "name": "PBOC、EMV等国内外权威支付标准认证",
+      "asset_type": "certification",
+      "related_product": "工业级电子设备",
+      "quantitative_info": null,
+      "quote": "产品不仅通过PBOC、EMV等国内外权威支付标准认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "43.63%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 43.63%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "19.95%",
+      "related_entity": "北汽福田汽车股份有限公司",
+      "period": "2025年",
+      "quote": "1 北汽福田汽车股份有限公司 934,403,852.18 19.95%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "30.82%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 30.82%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "20.67%",
+      "related_entity": "云南云内动力集团有限公司",
+      "period": "2025年",
+      "quote": "1 云南云内动力集团有限公司 859,837,297.50 20.67%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司前5大客户资料"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司前5名供应商资料"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新能源商用车市场快速发展，对传统内燃机配套领域形成结构性冲击；国内商用车市场竞争持续加剧。",
+      "related_entity": null,
+      "related_product": "发动机",
+      "quote": "环保政策及市场结构风险：在“双碳”目标持续推进的背景下，新能源商用车市场快速发展，对传统内燃机配套领域形成结构性冲击。...国际形势与市场经营风险：...且国内商用车市场竞争持续加剧。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国六、非道路国四等排放标准的全面实施，以及油耗、噪声等法规不断加严。",
+      "related_entity": null,
+      "related_product": "发动机",
+      "quote": "随着国六、非道路国四等排放标准的全面实施，以及油耗、噪声等法规不断加严，对发动机技术研发与产品迭代提出了更高要求。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新能源、混合动力等技术路径的产品市场空间扩大，技术迭代加快。",
+      "related_entity": null,
+      "related_product": "发动机",
+      "quote": "在政策引导与环保要求下，新能源、混合动力等技术路径的产品市场空间有望持续扩大。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司于2017年收购铭特科技产生了较大金额的商誉，若铭特科技未来盈利水平达不到预期，公司仍存在商誉减值的风险。",
+      "related_entity": "深圳市铭特科技有限公司",
+      "related_product": "工业级电子产品",
+      "quote": "商誉减值风险：公司于2017年收购铭特科技产生了较大金额的商誉，若铭特科技2026年盈利水平达不到预期，公司仍存在商誉减值的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性。若2026年度经营不及预期，可能因净资产为负触及风险警示情形。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性...若2026年度经营不及预期，可能因净资产为负触及《深圳证券交易所股票上市规则》9.3.1条的风险警示情形。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五大客户销售集中，存在一定依赖风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 43.63%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司前五大供应商采购集中，存在一定依赖风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 30.82%"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司存在未达到重大诉讼披露标准的其他诉讼汇总。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "未达到重大诉讼披露标准的其他诉讼汇总 9,201.87万元"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "风险及应对措施部分提及原材料价格波动。"
+    }
+  ]
+}

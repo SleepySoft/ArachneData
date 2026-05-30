@@ -1,0 +1,551 @@
+{
+  "company_name_mentioned": "四川雅化实业集团股份有限公司",
+  "produces": [
+    {
+      "name": "电池级氢氧化锂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品包括电池级氢氧化锂、电池级碳酸锂、磷酸锂等系列产品"
+    },
+    {
+      "name": "电池级碳酸锂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品包括电池级氢氧化锂、电池级碳酸锂、磷酸锂等系列产品"
+    },
+    {
+      "name": "磷酸锂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品包括电池级氢氧化锂、电池级碳酸锂、磷酸锂等系列产品"
+    },
+    {
+      "name": "锂精矿",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "目前该矿山已达到年处理锂矿石230万吨采选规模，年采选锂精矿35万吨。"
+    },
+    {
+      "name": "工业炸药",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "民爆产品的生产与销售是公司传统业务，主要产品包括工业炸药、工业雷管和工业索类产品"
+    },
+    {
+      "name": "工业雷管",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "民爆产品的生产与销售是公司传统业务，主要产品包括工业炸药、工业雷管和工业索类产品"
+    },
+    {
+      "name": "工业索类产品（工业导爆索、塑料导爆管）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "民爆产品的生产与销售是公司传统业务，主要产品包括工业炸药、工业雷管和工业索类产品"
+    },
+    {
+      "name": "爆破及矿服一体化服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "爆破及矿服业务范围不断拓展...主要包括土石方爆破、爆破服务、定向爆破、特种爆破、爆破加工以及爆破设计、咨询、监理，现场混装炸药爆破一体化、矿山一体化服务、城市整体拆迁等服务"
+    },
+    {
+      "name": "危化品运输服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "可提供民爆产品、危化品、危废品、放射性物品、普通货物等运输服务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "锂精矿",
+      "target_product": "锂盐产品",
+      "cost_proportion": null,
+      "quote": "公司锂盐生产采购的原辅材料主要是锂精矿、液碱、纯碱和硫酸等"
+    },
+    {
+      "name": "液碱",
+      "target_product": "锂盐产品",
+      "cost_proportion": null,
+      "quote": "公司锂盐生产采购的原辅材料主要是锂精矿、液碱、纯碱和硫酸等"
+    },
+    {
+      "name": "纯碱",
+      "target_product": "锂盐产品",
+      "cost_proportion": null,
+      "quote": "公司锂盐生产采购的原辅材料主要是锂精矿、液碱、纯碱和硫酸等"
+    },
+    {
+      "name": "硫酸",
+      "target_product": "锂盐产品",
+      "cost_proportion": null,
+      "quote": "公司锂盐生产采购的原辅材料主要是锂精矿、液碱、纯碱和硫酸等"
+    },
+    {
+      "name": "硝酸铵",
+      "target_product": "工业炸药",
+      "cost_proportion": null,
+      "quote": "公司民爆产品主要原材料包括硝酸铵、油相等"
+    },
+    {
+      "name": "油相",
+      "target_product": "工业炸药",
+      "cost_proportion": null,
+      "quote": "公司民爆产品主要原材料包括硝酸铵、油相等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车动力电池",
+      "source_product": "锂盐产品",
+      "quote": "广泛应用于消费、动力和储能等领域"
+    },
+    {
+      "name": "储能电池",
+      "source_product": "锂盐产品",
+      "quote": "广泛应用于消费、动力和储能等领域"
+    },
+    {
+      "name": "矿山开采",
+      "source_product": "民爆产品及服务",
+      "quote": "广泛应用于矿山开采、水利水电、交通建设、城市改造、地质勘探、爆炸加工等领域"
+    },
+    {
+      "name": "基础设施建设（水利水电、交通、建筑）",
+      "source_product": "民爆产品及服务",
+      "quote": "广泛应用于矿山开采、水利水电、交通建设、城市改造、地质勘探、爆炸加工等领域"
+    },
+    {
+      "name": "正极材料厂商",
+      "source_product": "锂盐产品",
+      "quote": "公司是锂盐产品尤其是电池级氢氧化锂的主要生产商，是全球知名车企、电池厂商、正极材料等行业头部企业的核心供应商"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑戎",
+      "role": "董事长",
+      "quote": "公司负责人孟岩、主管会计工作负责人杨庆及会计机构负责人（会计主管人员）周利娟声明"
+    },
+    {
+      "name": "孟岩",
+      "role": "副董事长、总裁",
+      "quote": "2018年6月至2021年6月，任本公司董事、副总裁。2021年6月至2024年4月，任本公司副董事长。2024年4月至今，任本公司副董事长、总裁。"
+    },
+    {
+      "name": "杨庆",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人杨庆"
+    },
+    {
+      "name": "郑璐",
+      "role": "董事会秘书",
+      "quote": "董事会秘书郑璐"
+    },
+    {
+      "name": "梁元强",
+      "role": "董事、副总裁",
+      "quote": "2015年6月至今，任本公司董事、副总裁"
+    },
+    {
+      "name": "牟科向",
+      "role": "董事、副总裁",
+      "quote": "2024年7月至今，任本公司董事、副总裁"
+    },
+    {
+      "name": "张洪文",
+      "role": "副总裁",
+      "quote": "2015年6月至今，任本公司副总裁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "TESLA",
+      "relation_type": "customer",
+      "business_details": "电池级氢氧化锂、碳酸锂产品供应商",
+      "quote": "TESLA、LGES、SK ON、LGC、L&F、松下、宁德时代、振华新材、厦钨新能、当升科技、瑞翔股份、容百科技、五矿新能等头部企业都是公司长期重要的合作伙伴"
+    },
+    {
+      "name": "LGES",
+      "relation_type": "customer",
+      "business_details": "电池级氢氧化锂产品供应商",
+      "quote": "TESLA、LGES、SK ON、LGC、L&F、松下、宁德时代、振华新材、厦钨新能、当升科技、瑞翔股份、容百科技、五矿新能等头部企业都是公司长期重要的合作伙伴"
+    },
+    {
+      "name": "SK ON",
+      "relation_type": "customer",
+      "business_details": "电池级氢氧化锂产品供应商",
+      "quote": "TESLA、LGES、SK ON、LGC、L&F、松下、宁德时代、振华新材、厦钨新能、当升科技、瑞翔股份、容百科技、五矿新能等头部企业都是公司长期重要的合作伙伴"
+    },
+    {
+      "name": "LGC",
+      "relation_type": "customer",
+      "business_details": "电池级氢氧化锂产品供应商",
+      "quote": "TESLA、LGES、SK ON、LGC、L&F、松下、宁德时代、振华新材、厦钨新能、当升科技、瑞翔股份、容百科技、五矿新能等头部企业都是公司长期重要的合作伙伴"
+    },
+    {
+      "name": "宁德时代",
+      "relation_type": "customer",
+      "business_details": "电池级氢氧化锂、碳酸锂产品供应商",
+      "quote": "TESLA、LGES、SK ON、LGC、L&F、松下、宁德时代、振华新材、厦钨新能、当升科技、瑞翔股份、容百科技、五矿新能等头部企业都是公司长期重要的合作伙伴"
+    },
+    {
+      "name": "皮尔巴拉矿业有限公司",
+      "relation_type": "supplier",
+      "business_details": "锂精矿长协供应商",
+      "quote": "公司锁定澳洲皮尔巴拉、DMCC、巴西ATLAS、巴西MGLIT等优质锂矿资源，通过长协包销方式锁定锂精矿供应量"
+    },
+    {
+      "name": "Electramin DMCC",
+      "relation_type": "supplier",
+      "business_details": "锂精矿长协供应商",
+      "quote": "公司锁定澳洲皮尔巴拉、DMCC、巴西ATLAS、巴西MGLIT等优质锂矿资源，通过长协包销方式锁定锂精矿供应量"
+    },
+    {
+      "name": "四川能投锂业有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司持有其37.25%股权，合作开发四川李家沟锂矿",
+      "quote": "2017年公司与四川国企能投集团合作，对股权进行重组，目前持有能投锂业37.25%股权，并享有锂精矿优先供应权。"
+    },
+    {
+      "name": "西藏高争民爆股份有限公司",
+      "relation_type": "partner",
+      "business_details": "公司是高争民爆第二大股东和运输业务合作伙伴，提供民爆产品保供",
+      "quote": "公司与西藏高争保持长期的战略合作关系，作为高争民爆第二大股东和运输业务合作伙伴"
+    },
+    {
+      "name": "中铁建",
+      "relation_type": "customer",
+      "business_details": "签订战略合作协议，供应民爆器材和爆破服务",
+      "quote": "公司是我国西部矿山和基础建设项目所需民爆器材和爆破服务的重要供应商和服务商，与中铁建、中电建、中建材、神华集团等大型央企签订了战略合作协议。"
+    },
+    {
+      "name": "中电建",
+      "relation_type": "customer",
+      "business_details": "签订战略合作协议，供应民爆器材和爆破服务",
+      "quote": "公司是我国西部矿山和基础建设项目所需民爆器材和爆破服务的重要供应商和服务商，与中铁建、中电建、中建材、神华集团等大型央企签订了战略合作协议。"
+    },
+    {
+      "name": "深圳市金奥博科技股份有限公司",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "金奥博 指 深圳市金奥博科技股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "锂业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,823,559,316.56元",
+      "revenue_proportion": "56.46%",
+      "gross_margin": "12.22%",
+      "yoy_change": "17.19%",
+      "quote": "锂业务 4,823,559,316.56 56.46% 4,116,052,844.84 53.35% 17.19%"
+    },
+    {
+      "name": "民爆业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,316,218,691.02元",
+      "revenue_proportion": "38.82%",
+      "gross_margin": "37.46%",
+      "yoy_change": "1.64%",
+      "quote": "民爆业务 3,316,218,691.02 38.82% 3,262,639,458.00 42.29% 1.64%"
+    },
+    {
+      "name": "运输业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "403,393,256.32元",
+      "revenue_proportion": "4.72%",
+      "gross_margin": null,
+      "yoy_change": "19.71%",
+      "quote": "运输业务 403,393,256.32 4.72% 336,983,937.54 4.37% 19.71%"
+    },
+    {
+      "name": "民爆产品",
+      "segment_type": "product_line",
+      "revenue_amount": "2,141,237,167.84元",
+      "revenue_proportion": null,
+      "gross_margin": "47.22%",
+      "yoy_change": "-5.99%",
+      "quote": "民爆产品 2,141,237,167.84 1,130,210,537.92 47.22% -5.99% -10.64% 2.75%"
+    },
+    {
+      "name": "爆破服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,174,981,523.18元",
+      "revenue_proportion": null,
+      "gross_margin": "19.67%",
+      "yoy_change": "19.28%",
+      "quote": "爆破服务 1,174,981,523.18 943,899,911.22 19.67% 19.28% 23.45% -2.71%"
+    },
+    {
+      "name": "西南区域",
+      "segment_type": "region",
+      "revenue_amount": "7,651,402,439.19元",
+      "revenue_proportion": "89.56%",
+      "gross_margin": null,
+      "yoy_change": "14.99%",
+      "quote": "西南区域 7,651,402,439.19 89.56% 6,654,134,260.84 86.24% 14.99%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工业炸药",
+      "metric_type": "capacity",
+      "value": "26.25万吨（报告期末许可产能）；33万吨（截至2026年4月许可产能）",
+      "period": "2025年末；2026年4月",
+      "quote": "工业炸药 26.25万吨 83.74% ... 截至2026年4月公司工业炸药许可产能已达33万吨。"
+    },
+    {
+      "product": "工业炸药",
+      "metric_type": "capacity_utilization",
+      "value": "83.74%",
+      "period": "2025年",
+      "quote": "工业炸药 26.25万吨 83.74%"
+    },
+    {
+      "product": "工业雷管",
+      "metric_type": "capacity",
+      "value": "8777万发（报告期末许可产能）；近9000万发（截至2026年4月许可产能）",
+      "period": "2025年末；2026年4月",
+      "quote": "工业雷管 8777万发 78.5% ... 工业雷管许可产能近9000万发"
+    },
+    {
+      "product": "工业雷管",
+      "metric_type": "capacity_utilization",
+      "value": "78.5%",
+      "period": "2025年",
+      "quote": "工业雷管 8777万发 78.5%"
+    },
+    {
+      "product": "锂产品",
+      "metric_type": "sales_volume",
+      "value": "69,493.81吨",
+      "period": "2025年",
+      "quote": "锂产品销售量 吨 69,493.81 48,036 44.67%"
+    },
+    {
+      "product": "锂产品",
+      "metric_type": "production_volume",
+      "value": "68,615.26吨",
+      "period": "2025年",
+      "quote": "锂产品生产量 吨 68,615.26 48,324 41.99%"
+    },
+    {
+      "product": "锂盐",
+      "metric_type": "capacity",
+      "value": "近13万吨（综合设计产能）",
+      "period": "报告期",
+      "quote": "公司现有锂盐综合设计产能近13万吨"
+    },
+    {
+      "product": "津巴布韦卡玛蒂维锂矿",
+      "metric_type": "capacity",
+      "value": "年处理锂矿石230万吨采选规模，年采选锂精矿35万吨",
+      "period": "截至报告期",
+      "quote": "目前该矿山已达到年处理锂矿石230万吨采选规模，年采选锂精矿35万吨。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "津巴布韦卡玛蒂维锂矿资源建设项目",
+      "project_type": "capacity_expansion",
+      "location": "津巴布韦",
+      "investment_amount": "自筹",
+      "designed_capacity": "年处理锂矿石230万吨，年产锂精矿35万吨",
+      "progress": "项目第一和第二阶段项目已于2024年全线建成，目前已达到设计规模。项目爬产以及锂精矿价格波动较大",
+      "expected_completion_time": "2024年全线建成",
+      "quote": "第一阶段于2023年底建成投产，第二阶段于2024年底建成投产，截至目前，该项目已达到年处理锂矿石230万吨采选规模。"
+    },
+    {
+      "name": "高等级锂电新能源材料生产线建设项目（雅安锂业三期）",
+      "project_type": "capacity_expansion",
+      "location": "四川雅安",
+      "investment_amount": "30,412.59万元（募集资金承诺投资）",
+      "designed_capacity": "年产3万吨电池级氢氧化锂等",
+      "progress": "截至2025年12月厂房已建设完成，设备已进入调试中。截至2026年4月，该项目公司已完成结项。",
+      "expected_completion_time": "2025年12月（已延期）",
+      "quote": "高等级锂电新能源材料生产线建设项目...2025年12月厂房已建设完成，设备已进入调试中。截至2026年4月，该项目公司已完成结项。"
+    },
+    {
+      "name": "四川李家沟锂矿采选项目",
+      "project_type": "capacity_expansion",
+      "location": "四川阿坝州金川县",
+      "investment_amount": null,
+      "designed_capacity": "年产105万吨采选规模，建成后将年产锂精矿约18-20万吨",
+      "progress": "已于2025年9月进入正式生产，并实现达标达产",
+      "expected_completion_time": "2025年9月投产",
+      "quote": "李家沟锂矿按年产105万吨采选规模进行建设，项目建成后将年产锂精矿约18-20万吨，已于2025年9月进入正式生产，并实现达标达产"
+    },
+    {
+      "name": "高端锂电新能源材料生产线建设项目（雅安锂业二期）",
+      "project_type": "capacity_expansion",
+      "location": "四川雅安",
+      "investment_amount": "75,287.41万元（累计投入）",
+      "designed_capacity": "新增年产5万吨电池级氢氧化锂、1.1万吨氯化锂及其制品（部分）",
+      "progress": "已完成其中3万吨氢氧化锂产线建设",
+      "expected_completion_time": "部分已完成",
+      "quote": "投入雅安锂业新增年产5万吨电池级氢氧化锂、1.1万吨氯化锂及其制品项目73,061.29万元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "锂辉石低温焙烧技术",
+      "asset_type": "core_technology",
+      "related_product": "锂盐",
+      "quantitative_info": null,
+      "quote": "开展KMC矿选矿冶炼联动技术、锂辉石低温焙烧技术、固态电池用硫化锂制备技术攻关"
+    },
+    {
+      "name": "固态电池用硫化锂制备技术",
+      "asset_type": "core_technology",
+      "related_product": "固态电池用硫化锂",
+      "quantitative_info": "已基本掌握硫化锂制备技术，形成硫化锂实验室制备工艺技术及实验室试验线",
+      "quote": "固态电池用硫化锂制备技术研究及应用...已基本掌握硫化锂制备技术，形成硫化锂实验室制备工艺技术及实验室试验线"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年底，公司共拥有专利736个，其中发明专利131个、实用新型专利605个。2025年共获得专利授权43项，其中发明专利12项，实用新型专利31项。",
+      "quote": "截至2025年底，公司共拥有专利736个，其中发明专利131个、实用新型专利605个。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "48项",
+      "quote": "此外，公司还拥有48项软件著作权授权。"
+    },
+    {
+      "name": "锂业装备DCS集中控制系统",
+      "asset_type": "process_technology",
+      "related_product": "锂盐",
+      "quantitative_info": null,
+      "quote": "公司锂盐产品生产采用DCS集中控制系统，实现生产过程的自动化运行"
+    },
+    {
+      "name": "行业标准制定",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主持或参与《碳酸锂、单水氢氧化锂、氯化锂中磁性异物金属颗粒的测定洁净度仪测试法》等10余项国家、行业标准的制定",
+      "quote": "主导了《氢氧化锂智能生产通用技术要求》行业标准编写，截至2025年底，公司已主持或参与...等10余项国家、行业标准的制定"
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有民爆行业唯一的国家企业技术中心"
+    },
+    {
+      "name": "CNAS认可实验室",
+      "asset_type": "certification",
+      "related_product": "检测",
+      "quantitative_info": "雅安锂业检测中心获得中国合格评定国家认可委员会（CNAS）颁发的实验室认可证书（注册号：CNASL22622）",
+      "quote": "雅安锂业检测中心...并取得中国合格评定国家认可委员会（CNAS）颁发的实验室认可证书（注册号：CNASL22622）"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.72%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 3,563,841,170.76 前五名客户合计销售金额占年度销售总额比例 41.72%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "24.75%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,634,812,422.95 前五名供应商合计采购金额占年度采购总额比例 24.75%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "锂业务头部企业营收占比超90%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "2025年公司锂业务头部企业营收占比超90%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "锂业务头部企业营收占比高，存在客户集中风险。",
+      "related_entity": null,
+      "related_product": "锂盐产品",
+      "quote": "2025年公司锂业务头部企业营收占比超90%，优质的客户结构成为公司锂业务“稳定器”，增强了公司的抗风险能力"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "硝酸铵等民爆产品核心原材料的价格波动，影响公司民爆业务业绩。",
+      "related_entity": null,
+      "related_product": "工业炸药",
+      "quote": "硝酸铵等核心原材料的价格波动，也将影响公司民爆业务的业绩表现。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "锂精矿在原材料成本占比较高，上游资源价格周期性波动带来影响。",
+      "related_entity": null,
+      "related_product": "锂盐产品",
+      "quote": "因锂精矿在原材料成本占比较高，拥有自有锂资源布局的锂企有着更高的盈利安全边际，也带来更强的穿越周期实现可持续增长的能力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "锂盐行业及民爆行业市场竞争加剧，可能压缩盈利空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "民爆行业正处于深度整合期...同时，由于民爆产品同质化严重，民爆企业普遍面临价格压力...锂业务：由于新能源行业呈现全球一体化的竞争格局...未来的市场竞争必将进一步加剧"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "民爆产品的生产、销售、购买、运输、爆破作业均受到国家的严格管控。",
+      "related_entity": null,
+      "related_product": "民爆产品",
+      "quote": "民用爆炸物品的生产、销售、购买、运输、爆破作业均受到国家的严格管控，远距离销售物流成本高、安全风险大"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "锂盐生产产生的少量废气、废渣、废水等污染物，可能对周边环境造成影响。",
+      "related_entity": null,
+      "related_product": "锂盐产品",
+      "quote": "公司进行采矿活动，在生产过程中产生的少量废气、废渣、废水等污染物，可能对周边环境造成一定影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "氢氧化锂纳入危险化学品进行管理，存在安全环保风险。",
+      "related_entity": null,
+      "related_product": "电池级氢氧化锂",
+      "quote": "公司锂业务的主要产品之一氢氧化锂纳入危险化学品进行管理...但仍不能完全排除发生安全事故的可能"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "全球部分锂资源储备丰富的国家调整锂产业发展策略，倾向于在本土推进锂产业链一体化，影响公司海外拓展。",
+      "related_entity": null,
+      "related_product": "锂盐产品",
+      "quote": "全球部分锂资源储备丰富的国家...正逐步调整锂产业发展策略，更加倾向于在本土完整推进锂产业链的上下游一体化建设...严重影响了公司的全球化发展战略"
+    },
+    {
+      "risk_type": "other",
+      "description": "津巴布韦暂停锂精矿及未加工锂矿物出口政策风险。",
+      "related_entity": "Kamativi Mining Company(Private) Limited",
+      "related_product": "锂精矿",
+      "quote": "2026年2月26日，津巴布韦宣布全面暂停锂精矿及未加工锂矿物出口，公司积极与津巴布韦矿业部及相关部门沟通，2026年4月公司获得津巴布韦6个月的锂精矿出口配额批文"
+    },
+    {
+      "risk_type": "other",
+      "description": "锂盐产品价格波动较大，受行业周期性影响。",
+      "related_entity": null,
+      "related_product": "锂盐产品",
+      "quote": "锂盐产品近年来价格波动较大，其价格走势核心取决于全球锂资源供给释放节奏与下游终端需求增速的匹配度"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司存在货币资金或其他资产被股东单位或其他关联方占用的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司不存在货币资金或其他资产被股东单位或其他关联方占用的情形，也不存在为股东或其他关联方提供担保的情形。"
+    }
+  ]
+}

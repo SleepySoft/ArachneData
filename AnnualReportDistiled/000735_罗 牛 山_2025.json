@@ -1,0 +1,489 @@
+{
+  "company_name_mentioned": "罗牛山股份有限公司",
+  "produces": [
+    {
+      "name": "商品猪",
+      "type": "material",
+      "revenue_proportion": "35.72%",
+      "quote": "2025年度公司实现营业收入33.77亿元...其中，生猪销售收入12.06亿元...生猪销售收入...占年度销售总额比例35.72%"
+    },
+    {
+      "name": "仔猪",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司共销售生猪68.56万头...其中销售商品猪65.48万头...销售仔猪3.05万头"
+    },
+    {
+      "name": "白条猪肉",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "肉制品业务（含白条猪肉、鲜分割猪肉和冻猪肉等）销售收入1.50亿元"
+    },
+    {
+      "name": "鲜分割猪肉",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "肉制品业务（含白条猪肉、鲜分割猪肉和冻猪肉等）销售收入1.50亿元"
+    },
+    {
+      "name": "冻猪肉",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "肉制品业务（含白条猪肉、鲜分割猪肉和冻猪肉等）销售收入1.50亿元"
+    },
+    {
+      "name": "代宰服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主要产品为商品猪、仔猪、白条及分割品等猪肉产品、代宰服务"
+    },
+    {
+      "name": "第三方冷链物流服务",
+      "type": "service",
+      "revenue_proportion": "2.57%",
+      "quote": "冷链物流服务收入0.87亿元...冷藏物流服务...占年度销售总额比例2.57%"
+    },
+    {
+      "name": "商品房",
+      "type": "device",
+      "revenue_proportion": "36.48%",
+      "quote": "商品房销售收入12.32亿元...商品房...占年度销售总额比例36.48%"
+    },
+    {
+      "name": "教学服务",
+      "type": "service",
+      "revenue_proportion": "5.30%",
+      "quote": "教育收入1.79亿元...教育...占年度销售总额比例5.30%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "饲料原料",
+      "target_product": "饲料",
+      "cost_proportion": null,
+      "quote": "公司在海南配建饲料厂，自主研发营养配方并生产饲料以满足项目各阶段生猪的饲养需求。饲料厂根据饲料原料的市场行情变化及时优化调整饲料配方，有效控制养殖成本。"
+    },
+    {
+      "name": "兽药",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "上海同仁药业股份有限公司，充分发挥老品牌优势，动保成本得到有效控制。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "海南本地市场",
+      "source_product": "商品猪",
+      "quote": "公司为海南省生猪养殖龙头企业，以供应海南市场为主"
+    },
+    {
+      "name": "商超/特渠",
+      "source_product": "冷鲜产品",
+      "quote": "冷鲜产品切入商超/特渠"
+    },
+    {
+      "name": "农贸市场",
+      "source_product": "热鲜产品",
+      "quote": "热鲜产品覆盖农贸市场"
+    },
+    {
+      "name": "肉食品加工企业",
+      "source_product": "冻品",
+      "quote": "冻品主要面向肉食品加工企业"
+    },
+    {
+      "name": "高端食品供应商",
+      "source_product": "冷链物流服务",
+      "quote": "公司以高端食品供应商为主要销售拓展对象，致力于为客户提供定制化服务，打造差异化竞争优势。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐自力",
+      "role": "董事长兼总裁",
+      "quote": "公司负责人徐自力...2011年11月至今，任本公司董事长；2021年7月2日至今，兼任本公司总裁。"
+    },
+    {
+      "name": "徐霄杨",
+      "role": "副董事长兼副总裁",
+      "quote": "徐霄杨，男，32岁...2025年11月至今，任公司副总裁、副董事长。"
+    },
+    {
+      "name": "王大林",
+      "role": "董事兼副总裁",
+      "quote": "王大林，男，49岁...2021年7月至今，任本公司副总裁；2022年10月至今，任本公司董事。"
+    },
+    {
+      "name": "张慧",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张慧...2014年8月至今，任本公司董事会秘书。"
+    },
+    {
+      "name": "胡旭义",
+      "role": "财务总监",
+      "quote": "胡旭义...2025年11月至今，任本公司财务总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "罗牛山集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "罗牛山集团 指 罗牛山集团有限公司...控股股东"
+    },
+    {
+      "name": "海南罗牛山畜牧有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "畜牧业",
+      "quote": "畜牧公司 指 海南罗牛山畜牧有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况"
+    },
+    {
+      "name": "海南罗牛山食品集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "屠宰加工、冷链物流等",
+      "quote": "食品集团、冷链物流园区、园区 指 海南罗牛山食品集团有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况"
+    },
+    {
+      "name": "海南罗牛山种猪育种有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "种猪育种公司 指 海南罗牛山种猪育种有限公司"
+    },
+    {
+      "name": "海南(潭牛)文昌鸡股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料...海南（潭牛）文昌鸡股份有限公司及其下属子公司 销售额103,393,950.98元"
+    },
+    {
+      "name": "海南澄迈新希望农牧有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料...海南澄迈新希望农牧有限公司 销售额30,889,570.12元"
+    },
+    {
+      "name": "海南鸿粮贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前5名供应商资料...海南鸿粮贸易有限公司 采购额90,352,627.50元"
+    },
+    {
+      "name": "海南宇坤建设工程有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前5名供应商资料...海南宇坤建设工程有限公司 采购额59,125,402.04元"
+    },
+    {
+      "name": "上海同仁药业股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "动保（兽药）",
+      "quote": "上海同仁药业股份有限公司，充分发挥老品牌优势，动保成本得到有效控制。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "畜牧业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,532,439,120.03元",
+      "revenue_proportion": "45.38%",
+      "gross_margin": "8.45%",
+      "yoy_change": "11.94%",
+      "quote": "分行业 畜牧业 2025年 金额 1,532,439,120.03 占营业收入比重 45.38% 同比增减 11.94%...毛利率 8.45%"
+    },
+    {
+      "name": "房地产业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,253,011,043.24元",
+      "revenue_proportion": "37.11%",
+      "gross_margin": "48.31%",
+      "yoy_change": "-4.35%",
+      "quote": "分行业 房地产业 2025年 金额 1,253,011,043.24 占营业收入比重 37.11% 同比增减 -4.35%...毛利率 48.31%"
+    },
+    {
+      "name": "教育业",
+      "segment_type": "business_unit",
+      "revenue_amount": "179,059,150.86元",
+      "revenue_proportion": "5.30%",
+      "gross_margin": null,
+      "yoy_change": "11.70%",
+      "quote": "分行业 教育业 2025年 金额 179,059,150.86 占营业收入比重 5.30% 同比增减 11.70%"
+    },
+    {
+      "name": "海南省内",
+      "segment_type": "region",
+      "revenue_amount": "3,084,301,813.48元",
+      "revenue_proportion": "91.34%",
+      "gross_margin": "26.89%",
+      "yoy_change": "3.51%",
+      "quote": "分地区 海南省内 2025年 金额 3,084,301,813.48 占营业收入比重 91.34% 同比增减 3.51%...毛利率 26.89%"
+    },
+    {
+      "name": "海南省外",
+      "segment_type": "region",
+      "revenue_amount": "292,560,733.20元",
+      "revenue_proportion": "8.66%",
+      "gross_margin": null,
+      "yoy_change": "-17.04%",
+      "quote": "分地区 海南省外 2025年 金额 292,560,733.20 占营业收入比重 8.66% 同比增减 -17.04%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,195,107,064.41元",
+      "revenue_proportion": "94.62%",
+      "gross_margin": "26.50%",
+      "yoy_change": "3.41%",
+      "quote": "分销售模式 直销 2025年 金额 3,195,107,064.41 占营业收入比重 94.62% 同比增减 3.41%...毛利率 26.50%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "养殖场产能",
+      "metric_type": "capacity",
+      "value": "120万头/年",
+      "period": "截至2025年末",
+      "quote": "截至2025年末，公司已交付使用养殖场产能约120万头/年"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "sales_volume",
+      "value": "685,551.00头",
+      "period": "2025年度",
+      "quote": "销售量 头 685,551.00 2025年"
+    },
+    {
+      "product": "商品猪",
+      "metric_type": "sales_volume",
+      "value": "65.48万头",
+      "period": "2025年度",
+      "quote": "其中销售商品猪65.48万头"
+    },
+    {
+      "product": "仔猪",
+      "metric_type": "sales_volume",
+      "value": "3.05万头",
+      "period": "2025年度",
+      "quote": "销售仔猪3.05万头"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "production_volume",
+      "value": "818,403.00头",
+      "period": "2025年度",
+      "quote": "生产量 头 818,403.00 2025年"
+    },
+    {
+      "product": "商品猪",
+      "metric_type": "inventory_volume",
+      "value": "50.29万头",
+      "period": "报告期末",
+      "quote": "报告期末，商品猪存栏50.29万头"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "inventory_volume",
+      "value": "502,935.00头",
+      "period": "报告期末",
+      "quote": "库存量 头 502,935.00 2025年"
+    },
+    {
+      "product": "屠宰",
+      "metric_type": "production_volume",
+      "value": "103.23万头",
+      "period": "报告期内",
+      "quote": "屠宰量为103.23万头"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "潭牛饲料厂",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "2025年潭牛饲料厂建成投产，饲料板块产能释放进一步充实。"
+    },
+    {
+      "name": "海口118项目（璞域项目）",
+      "project_type": "construction_project",
+      "location": "海口",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "尚在开发",
+      "expected_completion_time": null,
+      "quote": "公司尚在开发的房地产项目为海口 118 项目（即璞域项目）"
+    },
+    {
+      "name": "罗牛山广场商业楼",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "尚在开发",
+      "expected_completion_time": null,
+      "quote": "公司尚在开发的房地产项目...罗牛山广场商业楼。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "丹系种猪繁育技术",
+      "asset_type": "core_technology",
+      "related_product": "种猪",
+      "quantitative_info": "完整的曾祖代—祖代—父母代—商品代金字塔繁殖体系",
+      "quote": "品种优势：历经30年发展，公司成为国内成熟的丹系种猪繁育企业，拥有完整的曾祖代—祖代—父母代—商品代金字塔繁殖体系。"
+    },
+    {
+      "name": "屯昌黑猪新品系",
+      "asset_type": "core_technology",
+      "related_product": "屯昌黑猪",
+      "quantitative_info": "全黑毛色、抗逆性强",
+      "quote": "创新突破：成功研发屯昌黑猪新品种（全黑毛色、抗逆性强），助力优化海南特色猪种"
+    },
+    {
+      "name": "全基因组选留选配技术",
+      "asset_type": "process_technology",
+      "related_product": "种猪",
+      "quantitative_info": null,
+      "quote": "应用全基因组选留选配技术"
+    },
+    {
+      "name": "国家级标准化屠宰示范厂",
+      "asset_type": "certification",
+      "related_product": "屠宰服务",
+      "quantitative_info": "海口屠宰厂是省内唯一",
+      "quote": "海口屠宰厂是省内唯一国家级标准化屠宰示范厂"
+    },
+    {
+      "name": "农业产业化国家重点龙头企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "连续24年",
+      "quote": "公司已连续24年评为“农业产业化国家重点龙头企业”。"
+    },
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建立涵盖ISO9001质量管理体系、ISO22000食品安全管理体系等在内的体系"
+    },
+    {
+      "name": "ISO22000食品安全管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建立涵盖ISO9001质量管理体系、ISO22000食品安全管理体系等在内的体系"
+    },
+    {
+      "name": "HACCP认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获得无公害产品认证、国家级生猪活体储备基地场评定、出境动物养殖企业注册和供港注册认证、HACCP认证"
+    },
+    {
+      "name": "智能饲喂算法",
+      "asset_type": "process_technology",
+      "related_product": "养殖",
+      "quantitative_info": null,
+      "quote": "依托“饲料-动保-养殖-屠宰” 的生态闭环，公司通过智能饲喂算法的升级"
+    },
+    {
+      "name": "智慧养殖系统",
+      "asset_type": "technical_platform",
+      "related_product": "养殖",
+      "quantitative_info": "自动喂料、自动饮水、自动环控、空气过滤新风系统、大数据管理",
+      "quote": "各项目猪舍均配备自动喂料、自动饮水、自动环控、空气过滤新风系统、大数据管理等智慧养殖系统"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "8.30%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 280,421,202.29...前五名客户合计销售金额占年度销售总额比例 8.30%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.07%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 825,728,084.25...前五名供应商合计采购金额占年度采购总额比例 39.07%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "3.06%",
+      "related_entity": "海南（潭牛）文昌鸡股份有限公司及其下属子公司",
+      "period": "2025年度",
+      "quote": "公司前5大客户资料...海南（潭牛）文昌鸡股份有限公司及其下属子公司...占年度销售总额比例 3.06%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "14.47%",
+      "related_entity": "供应商1",
+      "period": "2025年度",
+      "quote": "公司前5名供应商资料...供应商1...占年度采购总额比例 14.47%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "生猪养殖行业普遍面临显著的周期性价格波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "周期波动及价格风险：生猪养殖行业普遍面临显著的周期性价格波动风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "冷链竞争加剧",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "冷链竞争加剧：公司以高端食品供应商为主要销售拓展对象，致力于为客户提供定制化服务，打造差异化竞争优势。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "养殖行业面临重大动物疫病的持续威胁",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "疫病及生物安全风险：养殖行业面临重大动物疫病的持续威胁。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司下属子公司在与第三方合作运营中会存在因监督覆盖不到位，发生食品安全的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "食品安全风险：公司下属子公司在与第三方合作运营中会存在因监督覆盖不到位，发生食品安全的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "饲料原材料价格波动、生产效率差异、防疫投入增加等因素共同推高成本控制难度",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "成本控制风险：养殖成本高低是生猪养殖企业最核心的竞争力指标...饲料原材料价格波动、生产效率差异、防疫投入增加等因素共同推高成本控制难度。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "养殖废弃物处理、无害化处理等环保标准政策变动，可能影响养殖成本",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环保政策风险：养殖废弃物处理、无害化处理等环保标准政策变动，可能影响养殖成本"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "2025年有关部门多次召集会议商讨产能调控政策方案",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "产能调控政策风险：为避免行业产能过剩，2025年有关部门多次召集会议商讨产能调控政策方案"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "我国房地产开发行业仍处于深度调整期",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "房地产调控风险：2025年，我国房地产开发行业仍处于深度调整期。"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "company_name_mentioned": "城发环境股份有限公司",
+  "produces": [
+    {
+      "name": "生活垃圾焚烧发电服务",
+      "type": "service",
+      "revenue_proportion": "43.71%",
+      "quote": "固体废弃物处理业务 2,868,793,853.34 43.71%"
+    },
+    {
+      "name": "环卫服务（清扫保洁、垃圾收运等）",
+      "type": "service",
+      "revenue_proportion": "15.13%",
+      "quote": "环境卫生服务业务 993,148,560.45 15.13%"
+    },
+    {
+      "name": "水处理服务（供水、污水处理）",
+      "type": "service",
+      "revenue_proportion": "7.81%",
+      "quote": "水处理业务 512,713,356.91 7.81%"
+    },
+    {
+      "name": "高速公路通行服务",
+      "type": "service",
+      "revenue_proportion": "20.31%",
+      "quote": "高速公路业务 1,333,139,736.72 20.31%"
+    },
+    {
+      "name": "环保方案集成服务（设备、工程）",
+      "type": "service",
+      "revenue_proportion": "10.56%",
+      "quote": "环保方案集成服务业务 693,118,189.44 10.56%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "人力资源服务",
+      "target_product": null,
+      "cost_proportion": "前五名供应商合计采购金额占年度采购总额比例 9.24%",
+      "quote": "前五名供应商合计采购金额（元） 502,215,450.74"
+    },
+    {
+      "name": "工程建设/设备采购",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "环保方案集成服务业务 设备成本 117,488,133.15"
+    },
+    {
+      "name": "原材料及人工成本",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "环保方案集成服务业务 原材料成本、人工成本 468,151,632.96"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市生活垃圾处理",
+      "source_product": "生活垃圾焚烧发电服务",
+      "quote": "生活垃圾焚烧发电业务主要以BOT等特许经营的模式进行，具体由负责垃圾处理的政府部门通过招标或其他方式选择服务商"
+    },
+    {
+      "name": "城市环境卫生管理",
+      "source_product": "环卫服务",
+      "quote": "公司从事的环境卫生服务业务以清扫保洁、生活垃圾收集转运、垃圾中转站建设及运营、垃圾分类、园林绿化等城乡环卫业务为基础"
+    },
+    {
+      "name": "居民/企业用水",
+      "source_product": "水处理服务",
+      "quote": "公司的自来水供应业务主要通过生产制水，为区域内的居民和企业提供生活和生产用水"
+    },
+    {
+      "name": "交通运输",
+      "source_product": "高速公路通行服务",
+      "quote": "公司高速公路业务主要是通过对收费高速公路进行综合开发经营...按照行业监管部门制定的收费标准对过往车辆收取车辆通行费"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄新民",
+      "role": "董事长、法定代表人、总经理",
+      "quote": "公司负责人黄新民...董事长黄新民先生"
+    },
+    {
+      "name": "荣建军",
+      "role": "主管会计工作负责人（总会计师）",
+      "quote": "主管会计工作负责人荣建军...总会计师荣建军先生"
+    },
+    {
+      "name": "李飞飞",
+      "role": "董事会秘书、证券事务代表",
+      "quote": "董事会秘书 李飞飞...证券事务代表 姓名 李飞飞"
+    },
+    {
+      "name": "李戈",
+      "role": "总经理、董事",
+      "quote": "总经理 李戈先生...董事李戈先生"
+    },
+    {
+      "name": "牛鸿武",
+      "role": "副总经理",
+      "quote": "副总经理 牛鸿武先生"
+    },
+    {
+      "name": "弓新刚",
+      "role": "副总经理",
+      "quote": "副总经理 弓新刚先生"
+    },
+    {
+      "name": "马小宇",
+      "role": "副总经理",
+      "quote": "副总经理 马小宇先生"
+    },
+    {
+      "name": "李文强",
+      "role": "董事",
+      "quote": "董事李文强先生"
+    },
+    {
+      "name": "王璞",
+      "role": "董事",
+      "quote": "董事王璞女士"
+    },
+    {
+      "name": "孙良",
+      "role": "董事",
+      "quote": "董事孙良先生"
+    },
+    {
+      "name": "胡坤",
+      "role": "董事",
+      "quote": "董事胡坤先生"
+    },
+    {
+      "name": "郭予鹏",
+      "role": "职工董事",
+      "quote": "职工董事 郭予鹏女士"
+    },
+    {
+      "name": "海福安",
+      "role": "独立董事",
+      "quote": "独立董事 海福安先生"
+    },
+    {
+      "name": "徐强胜",
+      "role": "独立董事",
+      "quote": "独立董事 徐强胜先生"
+    },
+    {
+      "name": "万俊锋",
+      "role": "独立董事",
+      "quote": "独立董事 万俊锋先生"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "河南投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "河南投资集团、控股股东 指 河南投资集团有限公司"
+    },
+    {
+      "name": "河南省财政厅",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人类型：法人 实际控制人名称 河南省财政厅"
+    },
+    {
+      "name": "中国联合水泥集团有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "中国联合水泥集团有限公司 8.01% 51,400,000"
+    },
+    {
+      "name": "长城人寿保险股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "长城人寿保险股份有限公司－自有资金 6.64% 42,625,218"
+    },
+    {
+      "name": "河南郑路洁环境科技有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户",
+      "quote": "1 河南郑路洁环境科技有限公司 158,744,031.69 2.42%"
+    },
+    {
+      "name": "东方电气集团东方锅炉股份有限公司",
+      "relation_type": "customer",
+      "business_details": "第二大客户",
+      "quote": "2 东方电气集团东方锅炉股份有限公司 149,652,233.54 2.28%"
+    },
+    {
+      "name": "国网河南省电力公司安阳供电公司",
+      "relation_type": "customer",
+      "business_details": "第三大客户",
+      "quote": "3 国网河南省电力公司安阳供电公司 125,811,428.65 1.92%"
+    },
+    {
+      "name": "河南国际物流枢纽建设运营有限公司",
+      "relation_type": "customer",
+      "business_details": "第四大客户",
+      "quote": "4 河南国际物流枢纽建设运营有限公司 118,297,478.23 1.80%"
+    },
+    {
+      "name": "国网河南省电力公司漯河供电公司",
+      "relation_type": "customer",
+      "business_details": "第五大客户",
+      "quote": "5 国网河南省电力公司漯河供电公司 98,006,117.72 1.49%"
+    },
+    {
+      "name": "河南省汇融人力资本有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商",
+      "quote": "1 河南省汇融人力资本有限公司 173,006,365.27 4.23%"
+    },
+    {
+      "name": "安徽汇融人力资源管理有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "2 安徽汇融人力资源管理有限公司 79,165,657.02 1.93%"
+    },
+    {
+      "name": "濮阳人才发展集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "第三大供应商",
+      "quote": "3 濮阳人才发展集团有限公司 53,065,870.15 1.30%"
+    },
+    {
+      "name": "河南沃克曼建设工程有限公司",
+      "relation_type": "supplier",
+      "business_details": "第四大供应商",
+      "quote": "4 河南沃克曼建设工程有限公司 34,586,851.56 0.85%"
+    },
+    {
+      "name": "郑州一建集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "第五大供应商",
+      "quote": "5 郑州一建集团有限公司 34,093,091.51 0.83%"
+    },
+    {
+      "name": "河南城市发展投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司城发环保能源受托管理其全资子公司城发环保能源（郑州）有限公司项目",
+      "quote": "为避免上市公司潜在的同业竞争...城发环境全资子公司环保能源受托管理河南城市发展投资有限公司全资子公司城发环保能源（郑州）有限公司的生活垃圾焚烧发电项目"
+    },
+    {
+      "name": "河南沃克曼建设工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内处置的子公司",
+      "quote": "公司名称 报告期内取得和处置子公司方式 对整体生产经营和业绩的影响...河南沃克曼建设工程有限公司 股权转让 调整公司业务"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "环保行业",
+      "segment_type": "other",
+      "revenue_amount": "5,215,201,086.93",
+      "revenue_proportion": "79.46%",
+      "gross_margin": "34.81%",
+      "yoy_change": "-0.39%",
+      "quote": "分行业 环保行业 5,215,201,086.93 79.46% 5,235,527,210.54 79.20% -0.39%"
+    },
+    {
+      "name": "高速公路行业",
+      "segment_type": "other",
+      "revenue_amount": "1,348,146,900.63",
+      "revenue_proportion": "20.54%",
+      "gross_margin": "57.75%",
+      "yoy_change": "-1.96%",
+      "quote": "高速公路行业 1,348,146,900.63 20.54% 1,375,141,135.88 20.80% -1.96%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "5,277,322,152.91",
+      "revenue_proportion": "80.41%",
+      "gross_margin": null,
+      "yoy_change": "-2.98%",
+      "quote": "分地区 华中地区 5,277,322,152.91 80.41% 5,439,545,578.85 82.28% -2.98%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "281,899,545.28",
+      "revenue_proportion": "4.30%",
+      "gross_margin": null,
+      "yoy_change": "41.59%",
+      "quote": "东北地区 281,899,545.28 4.30% 199,102,354.20 3.01% 41.59%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "317,891,061.38",
+      "revenue_proportion": "4.84%",
+      "gross_margin": null,
+      "yoy_change": "-2.79%",
+      "quote": "华北地区 317,891,061.38 4.84% 327,009,037.91 4.95% -2.79%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "414,423,641.14",
+      "revenue_proportion": "6.31%",
+      "gross_margin": null,
+      "yoy_change": "8.43%",
+      "quote": "华东地区 414,423,641.14 6.31% 382,212,802.23 5.78% 8.43%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "142,095,694.51",
+      "revenue_proportion": "2.16%",
+      "gross_margin": null,
+      "yoy_change": "4.62%",
+      "quote": "西南地区 142,095,694.51 2.16% 135,817,265.94 2.05% 4.62%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "129,715,892.34",
+      "revenue_proportion": "1.98%",
+      "gross_margin": null,
+      "yoy_change": "2.15%",
+      "quote": "西北地区 129,715,892.34 1.98% 126,981,307.29 1.92% 2.15%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "生活垃圾焚烧发电",
+      "metric_type": "capacity",
+      "value": "39,550吨/日",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司管理运营生活垃圾焚烧发电项目45个，合计处理能力39,550吨/日。"
+    },
+    {
+      "product": "生活垃圾焚烧发电（控股项目）",
+      "metric_type": "capacity",
+      "value": "30,750吨/日",
+      "period": "报告期末",
+      "quote": "公司控股生活垃圾焚烧发电项目35个，均已投入运营，合计处理能力30,750吨/日"
+    },
+    {
+      "product": "生活垃圾焚烧发电（委托运营）",
+      "metric_type": "capacity",
+      "value": "6800吨/日",
+      "period": "报告期末",
+      "quote": "委托运营项目9个，处理能力6800吨/日"
+    },
+    {
+      "product": "医疗废弃物处置",
+      "metric_type": "capacity",
+      "value": "1.937万吨/年",
+      "period": "报告期末",
+      "quote": "公司医废处置项目5个，合计年处理规模1.937万吨"
+    },
+    {
+      "product": "危险废物处置",
+      "metric_type": "capacity",
+      "value": "22.25万吨/年",
+      "period": "报告期末",
+      "quote": "危废处置项目4个，合计年处理规模22.25万吨"
+    },
+    {
+      "product": "有机垃圾处置（餐厨）",
+      "metric_type": "capacity",
+      "value": "370吨/日",
+      "period": "报告期末",
+      "quote": "公司有机垃圾处置项目8个（含委托运营），餐厨处理规模370吨/日"
+    },
+    {
+      "product": "有机垃圾处置（污泥）",
+      "metric_type": "capacity",
+      "value": "850吨/日",
+      "period": "报告期末",
+      "quote": "污泥处理规模850吨/日"
+    },
+    {
+      "product": "环境卫生服务",
+      "metric_type": "other",
+      "value": "年化合同额约为12.78亿元",
+      "period": "报告期末",
+      "quote": "公司环境卫生服务在运营项目47个，年化合同额约为12.78亿元。"
+    },
+    {
+      "product": "供排水",
+      "metric_type": "capacity",
+      "value": "183.24万吨/日",
+      "period": "报告期末",
+      "quote": "公司供排水规模（含委托运营）共183.24万吨/日"
+    },
+    {
+      "product": "高速公路运营",
+      "metric_type": "other",
+      "value": "255.36公里",
+      "period": "报告期末",
+      "quote": "运营里程255.36公里"
+    },
+    {
+      "product": "生活垃圾焚烧发电",
+      "metric_type": "production_volume",
+      "value": "1,212.84万吨",
+      "period": "2025年度",
+      "quote": "入场垃圾量（万吨） 1,212.84 3.95%"
+    },
+    {
+      "product": "生活垃圾焚烧发电",
+      "metric_type": "other",
+      "value": "351,473.64万千瓦时",
+      "period": "2025年度",
+      "quote": "发电量（万千瓦时） 351,473.64 2.78%"
+    },
+    {
+      "product": "生活垃圾焚烧发电",
+      "metric_type": "sales_volume",
+      "value": "297,731.02万千瓦时",
+      "period": "2025年度",
+      "quote": "上网电量（万千瓦时） 297,731.02 3.36%"
+    },
+    {
+      "product": "生活垃圾焚烧发电",
+      "metric_type": "other",
+      "value": "147.17万吨",
+      "period": "2025年度",
+      "quote": "外供蒸汽量（万吨） 147.17 9.01%"
+    },
+    {
+      "product": "医疗废弃物",
+      "metric_type": "production_volume",
+      "value": "12,761.60吨",
+      "period": "2025年度",
+      "quote": "医废处理量（吨） 12,761.60 -2.56%"
+    },
+    {
+      "product": "危险废物",
+      "metric_type": "production_volume",
+      "value": "42,863.38吨",
+      "period": "2025年度",
+      "quote": "危废处理量（吨） 42,863.38 -11.34%"
+    },
+    {
+      "product": "环境卫生服务",
+      "metric_type": "other",
+      "value": "5.18亿元",
+      "period": "2025年度",
+      "quote": "环卫新增单年合同额（亿元） 5.18 33.16%"
+    },
+    {
+      "product": "污水处理",
+      "metric_type": "production_volume",
+      "value": "27,058.13万吨",
+      "period": "2025年度",
+      "quote": "污水处理量（含委托运营）（万吨） 27,058.13 21.65%"
+    },
+    {
+      "product": "供水",
+      "metric_type": "production_volume",
+      "value": "13,963.54万吨",
+      "period": "2025年度",
+      "quote": "供水量（含委托运营）（万吨） 13,963.54 144.45%"
+    },
+    {
+      "product": "高速公路",
+      "metric_type": "other",
+      "value": "129,161万元",
+      "period": "2025年度",
+      "quote": "通行费收入（万元） 129,161 -1.61%"
+    },
+    {
+      "product": "高速公路",
+      "metric_type": "other",
+      "value": "41,427辆",
+      "period": "2025年度",
+      "quote": "日均交通车流量（辆） 41,427 -5.93%"
+    },
+    {
+      "product": "有机垃圾",
+      "metric_type": "production_volume",
+      "value": "212,946.5吨",
+      "period": "2025年度",
+      "quote": "餐厨污泥处理量（吨） 212,946.5 94.92%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "许平南改扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "处于项目审批阶段",
+      "expected_completion_time": null,
+      "quote": "高速公路业务方面，许平南改扩建项目获省交通运输厅政策支持，被正式列入河南省重大项目清单，处于项目审批阶段"
+    },
+    {
+      "name": "匈牙利项目",
+      "project_type": "other",
+      "location": "匈牙利",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "顺利开工",
+      "expected_completion_time": null,
+      "quote": "匈牙利项目顺利开工，成为公司进军中东欧市场的桥头堡"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智火大模型",
+      "asset_type": "core_technology",
+      "related_product": "垃圾焚烧发电",
+      "quantitative_info": "覆盖垃圾焚烧‘燃烧’‘烟气’等关键环节...实现245个设备模型算法的自动控制",
+      "quote": "公司研发上线‘智火大模型’，覆盖垃圾焚烧‘燃烧’‘烟气’等关键环节，在焦东、安阳等项目率先应用，实现245个设备模型算法的自动控制"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "新增专利21项",
+      "quote": "报告期内，新增专利21项"
+    },
+    {
+      "name": "高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "新增高新技术企业2家",
+      "quote": "新增高新技术企业2家"
+    },
+    {
+      "name": "省级科创平台",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "省级科创平台2个",
+      "quote": "新增...省级科创平台2个"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "9.91%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 9.91%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9.24%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 9.24%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "关联方销售额占年度销售总额比例 1.80%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 1.80%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "关联方采购额占年度采购总额比例 7.01%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 7.01%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司环保业务对国家产业政策和环保政策的依赖较强，政策调整可能带来合规成本增加、技术升级改造压力、补贴退坡等风险。",
+      "related_entity": null,
+      "related_product": "环保业务",
+      "quote": "1.行业政策变动风险 公司环保业务对国家产业政策和环保政策的依赖较强，政府对环境保护越来越重视...国补退坡、竞价上网等因素给项目经营带来新的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "环保行业逐步走向成熟，市场竞争逐渐加剧，项目建设标准、运营质量要求提升，获取新项目难度可能加大。",
+      "related_entity": null,
+      "related_product": "固废处理、水务业务",
+      "quote": "2.行业竞争加剧风险...固体废弃物处置项目的年均增量、平均规模逐步降低，行业走向成熟期，市场竞争逐渐加剧...如未来行业竞争进一步增强，可能使公司获取新项目的难度加大"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司业务快速扩张对管理能力、人才资源、组织架构提出更高要求；海外经营面临政治法律环境差异、跨文化管理、地缘政治、汇率波动等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.业务扩张带来的管理风险...公司的资产规模和经营规模快速扩大，从而对公司的管理能力、人才资源、组织架构等提出更高的要求...随着公司海外战略推进，跨国经营需应对政治法律环境差异、跨文化管理及地缘政治风险等挑战，同时面临汇率波动..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款增加可能导致经营性现金流承压、资金周转效率下降及坏账计提比例提升。",
+      "related_entity": null,
+      "related_product": "垃圾处理费、国补及省补电费",
+      "quote": "4.应收账款增加风险 报告期内，公司应收账款增加主要是垃圾处理费和国补及省补电费等应收账款随着项目运营规模和营业收入的提升而相应增加。但可能导致经营性现金流承压、资金周转效率下降及坏账计提比例提升。"
+    }
+  ]
+}

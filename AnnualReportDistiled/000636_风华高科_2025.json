@@ -1,0 +1,435 @@
+{
+  "company_name_mentioned": "广东风华高新科技股份有限公司",
+  "produces": [
+    {
+      "name": "片式多层陶瓷电容器(MLCC)",
+      "type": "component",
+      "revenue_proportion": "98.19%",
+      "quote": "产品广泛应用于...等领域"
+    },
+    {
+      "name": "片式电阻器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...片式电阻器"
+    },
+    {
+      "name": "电感器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...电感器"
+    },
+    {
+      "name": "压敏电阻器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...压敏电阻器"
+    },
+    {
+      "name": "热敏电阻器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...热敏电阻器"
+    },
+    {
+      "name": "铝电解电容器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...铝电解电容器"
+    },
+    {
+      "name": "圆片电容器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...圆片电容器"
+    },
+    {
+      "name": "陶瓷滤波器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...陶瓷滤波器"
+    },
+    {
+      "name": "超级电容器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营产品包括...超级电容器"
+    },
+    {
+      "name": "电子浆料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "产品还包括电子浆料"
+    },
+    {
+      "name": "瓷粉",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "产品还包括...瓷粉"
+    },
+    {
+      "name": "陶瓷熔断器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "根据客户需求可以定制...陶瓷熔断器"
+    },
+    {
+      "name": "陶瓷基板",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "根据客户需求可以定制...陶瓷基板"
+    },
+    {
+      "name": "电子元器件及电子材料",
+      "type": "service",
+      "revenue_proportion": "98.19%",
+      "quote": "电子元器件及电子材料5,652,377,358.61元"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "电子元器件",
+      "cost_proportion": "54.93%",
+      "quote": "原材料2,600,612,567.37元 占54.93%"
+    },
+    {
+      "name": "金属材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "有效对冲了...金属材料价格翻倍增长"
+    },
+    {
+      "name": "电子材料",
+      "target_product": "电子元器件",
+      "cost_proportion": null,
+      "quote": "公司产品包括电子浆料、瓷粉等电子功能材料"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家电",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于家电"
+    },
+    {
+      "name": "通讯",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...通讯"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "车规级MLCC、电阻、电感等",
+      "quote": "公司产品应用于...汽车电子"
+    },
+    {
+      "name": "工控/工业及控制自动化",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...工控"
+    },
+    {
+      "name": "新能源",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...新能源"
+    },
+    {
+      "name": "AI算力",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...AI算力"
+    },
+    {
+      "name": "智能终端",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "产品广泛应用于...智能终端"
+    },
+    {
+      "name": "PC/计算机",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...PC"
+    },
+    {
+      "name": "医疗电子",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...医疗"
+    },
+    {
+      "name": "无人机",
+      "source_product": "超级电容器、MLCC等",
+      "quote": "公司产品应用于...无人机"
+    },
+    {
+      "name": "储能",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...储能"
+    },
+    {
+      "name": "智能三表",
+      "source_product": "超级电容器",
+      "quote": "公司产品应用于智能三表"
+    },
+    {
+      "name": "智能家居",
+      "source_product": "超级电容器",
+      "quote": "公司产品应用于智能家居"
+    },
+    {
+      "name": "智能工控",
+      "source_product": "超级电容器",
+      "quote": "公司产品应用于智能工控"
+    },
+    {
+      "name": "工业机器人",
+      "source_product": "超级电容器",
+      "quote": "公司产品应用于...工业机器人"
+    },
+    {
+      "name": "照明控制",
+      "source_product": "超级电容器",
+      "quote": "公司产品应用于...照明控制"
+    },
+    {
+      "name": "无线基站",
+      "source_product": "陶瓷滤波器",
+      "quote": "公司产品应用于无线基站"
+    },
+    {
+      "name": "卫星通信",
+      "source_product": "陶瓷滤波器",
+      "quote": "公司产品应用于卫星通信"
+    },
+    {
+      "name": "导航系统",
+      "source_product": "陶瓷滤波器",
+      "quote": "公司产品应用于导航系统"
+    },
+    {
+      "name": "电力",
+      "source_product": "陶瓷熔断器",
+      "quote": "公司产品应用于...电力"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "MLCC、片式电阻器等",
+      "quote": "公司产品应用于...消费电子"
+    },
+    {
+      "name": "新能源车载",
+      "source_product": "陶瓷熔断器、陶瓷基板",
+      "quote": "公司产品应用于新能源车载"
+    },
+    {
+      "name": "低空经济",
+      "source_product": null,
+      "quote": "聚焦新能源汽车、算力产业、低空经济"
+    },
+    {
+      "name": "智能机器人",
+      "source_product": null,
+      "quote": "AI算力、智能机器人、光储充等赛道"
+    },
+    {
+      "name": "光储充",
+      "source_product": null,
+      "quote": "AI算力、智能机器人、光储充等赛道"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李程",
+      "role": "董事长",
+      "quote": "公司负责人李程"
+    },
+    {
+      "name": "杨晓平",
+      "role": "总裁",
+      "quote": "现任公司党委副书记、董事、总裁"
+    },
+    {
+      "name": "黄洪刚",
+      "role": "董事",
+      "quote": "现兼任公司董事"
+    },
+    {
+      "name": "杨文意",
+      "role": "董事",
+      "quote": "现兼任公司董事"
+    },
+    {
+      "name": "吴建锋",
+      "role": "董事",
+      "quote": "现兼任公司董事"
+    },
+    {
+      "name": "王海涛",
+      "role": "董事",
+      "quote": "现兼任公司董事"
+    },
+    {
+      "name": "张津源",
+      "role": "董事",
+      "quote": "现兼任公司董事"
+    },
+    {
+      "name": "张荣武",
+      "role": "独立董事",
+      "quote": "现兼任公司独立董事"
+    },
+    {
+      "name": "崔成强",
+      "role": "独立董事",
+      "quote": "现兼任公司独立董事"
+    },
+    {
+      "name": "高峰",
+      "role": "独立董事",
+      "quote": "现兼任公司独立董事"
+    },
+    {
+      "name": "黄纳川",
+      "role": "独立董事",
+      "quote": "现兼任公司独立董事"
+    },
+    {
+      "name": "曹秀华",
+      "role": "副总裁",
+      "quote": "现任公司党委委员、副总裁"
+    },
+    {
+      "name": "周庆波",
+      "role": "副总裁",
+      "quote": "现任公司党委委员、副总裁"
+    },
+    {
+      "name": "殷健",
+      "role": "董事会秘书",
+      "quote": "现任公司董事会秘书"
+    },
+    {
+      "name": "王雪华",
+      "role": "财务负责人",
+      "quote": "现任公司财务负责人"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广东省广晟控股集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "广晟控股集团变更成为公司控股股东"
+    },
+    {
+      "name": "深圳市中金岭南有色金属股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东控股的上市公司",
+      "quote": "释义项 指 中金岭南"
+    },
+    {
+      "name": "佛山电器照明股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东控股的上市公司",
+      "quote": "释义项 指 佛山照明"
+    },
+    {
+      "name": "佛山市国星光电股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东控股的上市公司",
+      "quote": "释义项 指 国星光电"
+    },
+    {
+      "name": "东江环保股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东控股的上市公司",
+      "quote": "释义项 指 东江环保"
+    },
+    {
+      "name": "广东省电子信息产业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，受同一控股股东控制",
+      "quote": "与广东省电子信息产业集团有限公司转让广东风华新能源股份有限公司股权"
+    },
+    {
+      "name": "广东风华新能源股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，报告期内处置其21.5041%股权",
+      "quote": "处置参股公司广东风华新能源股份有限公司21.5041%股权"
+    },
+    {
+      "name": "客户1",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占比6.47%",
+      "quote": "前五大客户合计销售金额1,189,083,580.84元，占20.66%"
+    },
+    {
+      "name": "客户2",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占比5.54%",
+      "quote": "前五大客户合计销售金额1,189,083,580.84元，占20.66%"
+    },
+    {
+      "name": "客户3",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占比3.04%",
+      "quote": "前五大客户合计销售金额1,189,083,580.84元，占20.66%"
+    },
+    {
+      "name": "客户4",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占比2.84%",
+      "quote": "前五大客户合计销售金额1,189,083,580.84元，占20.66%"
+    },
+    {
+      "name": "客户5",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占比2.77%",
+      "quote": "前五大客户合计销售金额1,189,083,580.84元，占20.66%"
+    },
+    {
+      "name": "供应商1",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比6.50%",
+      "quote": "前五名供应商合计采购金额925,494,950.48元，占23.79%"
+    },
+    {
+      "name": "供应商2",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比5.20%",
+      "quote": "前五名供应商合计采购金额925,494,950.48元，占23.79%"
+    },
+    {
+      "name": "供应商3",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比4.80%",
+      "quote": "前五名供应商合计采购金额925,494,950.48元，占23.79%"
+    },
+    {
+      "name": "供应商4",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比3.76%",
+      "quote": "前五名供应商合计采购金额925,494,950.48元，占23.79%"
+    },
+    {
+      "name": "供应商5",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比3.53%",
+      "quote": "前五名供应商合计采购金额925,494,950.48元，占23.79%"
+    },
+    {
+      "name": "信永中和会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "年度审计机构",
+      "quote": "公司聘请的会计师事务所 信永中和会计师事务所"
+    },
+    {
+      "name": "国投创新投资管理有限公司",
+      "relation_type": "investor",
+      "business_details": "前十大股东之一（通过先进制造产业投资基金二期）",
+      "quote": "国投招商投资管理有限公司-先进制造产业投资基金二期（有限合伙）"
+    },
+    {
+      "name": "广东恒阔投资有限公司",
+      "relation_type": "investor",
+      "business_details": "前十大股东之一",
+      "quote": "广东恒阔投资有限公司"
+    }
+  ]
+}

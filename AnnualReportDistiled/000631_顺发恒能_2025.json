@@ -1,0 +1,401 @@
+{
+  "company_name_mentioned": "顺发恒能股份公司",
+  "produces": [
+    {
+      "name": "天然气发电及供热",
+      "type": "service",
+      "revenue_proportion": "48.88%",
+      "quote": "分行业\n天然气发电及供热\n240,972,342.12\n48.88%"
+    },
+    {
+      "name": "物业服务",
+      "type": "service",
+      "revenue_proportion": "16.81%",
+      "quote": "分行业\n物业服务\n82,883,552.41\n16.81%"
+    },
+    {
+      "name": "风力发电",
+      "type": "service",
+      "revenue_proportion": "9.84%",
+      "quote": "分行业\n风力发电\n48,495,908.78\n9.84%"
+    },
+    {
+      "name": "食堂餐饮服务",
+      "type": "service",
+      "revenue_proportion": "5.12%",
+      "quote": "分行业\n食堂餐饮服务\n25,244,035.29\n5.12%"
+    },
+    {
+      "name": "房地产销售",
+      "type": "service",
+      "revenue_proportion": "4.86%",
+      "quote": "分行业\n房地产销售\n23,969,804.71\n4.86%"
+    },
+    {
+      "name": "综合能源服务",
+      "type": "service",
+      "revenue_proportion": "2.78%",
+      "quote": "分行业\n综合能源服务\n13,705,497.84\n2.78%"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "1.38%",
+      "quote": "分行业\n光伏发电\n6,803,080.69\n1.38%"
+    },
+    {
+      "name": "电力（清洁能源发电）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "将风能、太阳能转换为绿电，以天然气为燃料生产电力后销售；主要产品：电力。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "28.40%",
+      "quote": "序号\n供应商名称\n采购额（元）\n占年度采购总额比例\n1\n供应商一\n98,837,562.89\n28.40%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "21.00%",
+      "quote": "序号\n供应商名称\n采购额（元）\n占年度采购总额比例\n2\n供应商二\n73,081,628.32\n21.00%"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "7.80%",
+      "quote": "序号\n供应商名称\n采购额（元）\n占年度采购总额比例\n3\n供应商三\n27,134,445.67\n7.80%"
+    },
+    {
+      "name": "供应商四",
+      "target_product": null,
+      "cost_proportion": "3.12%",
+      "quote": "序号\n供应商名称\n采购额（元）\n占年度采购总额比例\n4\n供应商四\n10,849,852.16\n3.12%"
+    },
+    {
+      "name": "供应商五",
+      "target_product": null,
+      "cost_proportion": "3.07%",
+      "quote": "序号\n供应商名称\n采购额（元）\n占年度采购总额比例\n5\n供应商五\n10,701,398.66\n3.07%"
+    },
+    {
+      "name": "天然气",
+      "target_product": "天然气发电",
+      "cost_proportion": null,
+      "quote": "以天然气为燃料生产电力后销售"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力销售",
+      "source_product": "天然气发电、风力发电、光伏发电",
+      "quote": "以天然气为燃料生产电力后销售；主要产品：电力。"
+    },
+    {
+      "name": "工商业能源服务",
+      "source_product": "综合智慧能源服务",
+      "quote": "通过数智化技术提供定制化综合能源服务，帮助企业降本增效。"
+    },
+    {
+      "name": "城市居民与商业运营",
+      "source_product": "物业服务",
+      "quote": "房产销售，并自持部分物业运营，以及提供物业服务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈利军",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人陈利军"
+    },
+    {
+      "name": "王红民",
+      "role": "财务负责人兼董事会秘书",
+      "quote": "主管会计工作负责人王红民及会计机构负责人（会计主管人员）王红民"
+    },
+    {
+      "name": "盛树浩",
+      "role": "总经理",
+      "quote": "总经 理\n盛树浩\n男\n43"
+    },
+    {
+      "name": "李历兵",
+      "role": "独立董事",
+      "quote": "独立 董事\n李历兵\n男\n55"
+    },
+    {
+      "name": "邵劭",
+      "role": "独立董事",
+      "quote": "独立 董事\n邵劭\n女\n50"
+    },
+    {
+      "name": "郑刚",
+      "role": "独立董事",
+      "quote": "独立 董事\n郑刚\n男\n50"
+    },
+    {
+      "name": "李爽",
+      "role": "董事",
+      "quote": "李爽\n女\n33\n董事"
+    },
+    {
+      "name": "凌感",
+      "role": "董事",
+      "quote": "凌感\n女\n32\n董事"
+    },
+    {
+      "name": "崔立国",
+      "role": "董事",
+      "quote": "崔立国\n男\n45\n董事"
+    },
+    {
+      "name": "裘亦文",
+      "role": "董事",
+      "quote": "裘亦文\n男\n39\n董事"
+    },
+    {
+      "name": "赵子瑜",
+      "role": "董事",
+      "quote": "赵子瑜\n男\n51\n董事"
+    },
+    {
+      "name": "鲁伟鼎",
+      "role": "实际控制人",
+      "quote": "实际控制人鲁伟鼎先生"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "万向集团公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东由万向资源有限公司变更为万向集团。"
+    },
+    {
+      "name": "顺发能城有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，综合能源、物业运营等",
+      "quote": "顺发能城\n指\n顺发能城有限公司"
+    },
+    {
+      "name": "淮南顺发置业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，房地产开发、物业",
+      "quote": "淮南顺发\n指\n淮南顺发置业有限公司"
+    },
+    {
+      "name": "浙江东海德迦风力发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，风力发电",
+      "quote": "德迦风电\n指\n浙江东海德迦风力发电有限公司"
+    },
+    {
+      "name": "顺发大陈风电场（台州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，风力发电",
+      "quote": "大陈风电场\n指\n顺发大陈风电场（台州）有限公司"
+    },
+    {
+      "name": "浙江万兴恒服务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，物业服务",
+      "quote": "万兴恒\n指\n浙江万兴恒服务有限公司"
+    },
+    {
+      "name": "顺发源储（桐庐）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，储能、能源服务",
+      "quote": "顺发源储\n指\n顺发源储（桐庐）有限公司"
+    },
+    {
+      "name": "顺发德能（德清）电力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，天然气发电",
+      "quote": "顺发德能\n指\n顺发德能（德清）电力有限公司"
+    },
+    {
+      "name": "顺发（衢州）热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，热电",
+      "quote": "顺发衢州\n指\n顺发（衢州）热电有限公司"
+    },
+    {
+      "name": "普星能（香港）有限公司",
+      "relation_type": "supplier",
+      "business_details": "股权交易对手方（收购顺发德能股权）",
+      "quote": "顺发恒能公司以14,272.00万元受让普星能(香港)有限公司持有的顺发德能公司51%股权。"
+    },
+    {
+      "name": "万向财务有限公司",
+      "relation_type": "investor",
+      "business_details": "关联财务公司，提供存款、贷款服务",
+      "quote": "万向财务\n指\n万向财务有限公司"
+    },
+    {
+      "name": "杭州万科大家房地产开发有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "万科大家\n指\n杭州万科大家房地产开发有限公司"
+    },
+    {
+      "name": "普星聚能股份公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，盛树浩曾担任总裁",
+      "quote": "普星聚能\n指\n普星聚能股份公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "天然气发电及供热",
+      "segment_type": "product_line",
+      "revenue_amount": "240,972,342.12",
+      "revenue_proportion": "48.88%",
+      "gross_margin": "32.09%",
+      "yoy_change": "-6.62%",
+      "quote": "天然气发电及 163,642,513.8\n240,972,342.12 32.09% -6.62% -7.86% 0.92%\n供热 7"
+    },
+    {
+      "name": "物业服务",
+      "segment_type": "product_line",
+      "revenue_amount": "82,883,552.41",
+      "revenue_proportion": "16.81%",
+      "gross_margin": "14.25%",
+      "yoy_change": "0.16%",
+      "quote": "物业服务 82,883,552.41 16.81% 82,753,533.43 14.49% 0.16%"
+    },
+    {
+      "name": "风力发电",
+      "segment_type": "product_line",
+      "revenue_amount": "48,495,908.78",
+      "revenue_proportion": "9.84%",
+      "gross_margin": "26.54%",
+      "yoy_change": "-12.38%",
+      "quote": "风力发电 48,495,908.78 9.84% 55,346,955.12 9.69% -12.38%"
+    },
+    {
+      "name": "综合能源服务",
+      "segment_type": "product_line",
+      "revenue_amount": "13,705,497.84",
+      "revenue_proportion": "2.78%",
+      "gross_margin": null,
+      "yoy_change": "1,240.72%",
+      "quote": "综合能源服务 13,705,497.84 2.78% 1,022,249.90 0.18% 1,240.72%"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "6,803,080.69",
+      "revenue_proportion": "1.38%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "光伏发电 6,803,080.69 1.38% 0.00"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "收购顺发德能51%股权",
+      "project_type": "acquisition_project",
+      "location": "德清",
+      "investment_amount": "142,720,000.00",
+      "designed_capacity": null,
+      "progress": "已完成工商变更及支付对价，于2025年5月31日纳入合并报表",
+      "expected_completion_time": null,
+      "quote": "2024年12月30日，签订《股权转让协议》...顺发恒能公司以14,272.00万元受让普星能(香港)有限公司持有的顺发德能公司51%股权。...公司于2025年5月30日完成向普星能(香港)有限公司支付100%的股权转让价款，已拥有该公司的实质控制权，故将2025年5月31日确定为合并日。"
+    },
+    {
+      "name": "顺发大陈风电场（台州）有限公司股权划转",
+      "project_type": "capacity_expansion",
+      "location": "台州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成股权划转及工商变更",
+      "expected_completion_time": null,
+      "quote": "2025年6月16日，顺发能城有限公司将其持有的浙江星星风力发电有限公司65%股权划转至顺发恒能股份公司，同日，浙江星星风力发电有限公司将其名称变更为顺发大陈风电场（台州）有限公司。"
+    },
+    {
+      "name": "桐庐电网侧储能项目",
+      "project_type": "capacity_expansion",
+      "location": "桐庐",
+      "investment_amount": null,
+      "designed_capacity": "50MW/100Mwh",
+      "progress": "已签订合作协议并租赁土地",
+      "expected_completion_time": null,
+      "quote": "根据本公司与出租方桐庐博旺工贸有限公司的桐庐县富春江镇50MW/100Mwh电网侧储能项目合作协议，本公司向其租赁110kv长富变电所及周边15亩土地用于建设电网侧储能项目以及新能源示范项目，租赁期20年"
+    },
+    {
+      "name": "临安太阳镇光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": "临安",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已签订合作协议并租赁土地",
+      "expected_completion_time": null,
+      "quote": "根据本公司与出租方杭州广蓄生态农业开发有限公司的临安太阳镇光伏发电项目合作协议，本公司向其租赁太阳镇304亩土地用于建设太阳能光伏发电项目，租赁期25年"
+    }
+  ],
+  "technology_assets": [],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "63.28%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 311,922,564.32\n前五名客户合计销售金额占年度销售总额比例 63.28%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "47.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例\n1 客户一 233,175,082.46 47.30%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "63.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 220,604,887.70\n前五名供应商合计采购金额占年度采购总额比例 63.38%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "28.40%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例\n1 供应商一 98,837,562.89 28.40%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家宏观调控及产业政策的调整可能对公司经营造成不确定性影响。随着电力体制改革深入推进，新能源项目电价从政策主导过渡到市场主导。“136号文”推动新能源上网电量全部进入电力市场，上网电价通过市场交易形成。由于新能源发电具有随机性、间歇性和波动性，新能源入市将加大电力现货市场价格的波动，在新能源集中出力时段可能出现较低电价情况。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、政策风险\n国家宏观调控及产业政策的调整可能对公司经营造成不确定性影响。随着电力体制改革深入推进，新能源项目电价从政策主导过渡到市场主导。“136号文”推动新能源上网电量全部进入电力市场，上网电价通过市场交易形成。由于新能源发电具有随机性、间歇性和波动性，新能源入市将加大电力现货市场价格的波动，在新能源集中出力时段可能出现较低电价情况。增量项目虽短期受机制电价保护，但未来机制电量比例将逐渐下降，可能对公司拓展新业务造成一定冲击。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "目前国内清洁能源行业竞争较为激烈，公司在项目开发、技术创新和资源获取方面面临较大挑战。随着行业集中度提升，优质项目资源日益稀缺，公司在市场开拓方面可能不及预期。同时，随着电力体制改革加速推进，各省电力交易规则逐步完善，对企业的电力交易能力提出更高要求，可能对公司的售电量和交易电价带来不确定性，进而影响项目的盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、市场竞争风险\n目前国内清洁能源行业竞争较为激烈，公司在项目开发、技术创新和资源获取方面面临较大挑战。随着行业集中度提升，优质项目资源日益稀缺，公司在市场开拓方面可能不及预期。同时，随着电力体制改革加速推进，各省电力交易规则逐步完善，对企业的电力交易能力提出更高要求，可能对公司的售电量和交易电价带来不确定性，进而影响项目的盈利能力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司风电项目均分布在浙江沿海地区，易受台风等恶劣天气威胁。极端恶劣天气引发的自然灾害可能对设备、输电线路等造成损坏，进而影响项目发电能力，对风电场发电量和营收造成不利影响。",
+      "related_entity": null,
+      "related_product": "风电",
+      "quote": "4、自然条件风险\n公司风电项目均分布在浙江沿海地区，易受台风等恶劣天气威胁。极端恶劣天气引发的自然灾害可能对设备、输电线路等造成损坏，进而影响项目发电能力，对风电场发电量和营收造成不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司发展战略实施，公司业务范围发生调整，对人才储备、运营管理及公司治理提出更高要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、管理风险\n随着公司发展战略实施，公司业务范围发生调整，对人才储备、运营管理及公司治理提出更高要求。"
+    }
+  ]
+}

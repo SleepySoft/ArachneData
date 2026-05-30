@@ -1,0 +1,564 @@
+{
+  "company_name_mentioned": "国投丰乐种业股份有限公司",
+  "produces": [
+    {
+      "name": "杂交玉米种子",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要业务为种子、农化和香料产业。种子产业主要产品为杂交玉米种子、青贮玉米种子、杂交水稻种子、常规水稻种子、小麦种子、西瓜甜瓜种子"
+    },
+    {
+      "name": "青贮玉米种子",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "种子产业主要产品为杂交玉米种子、青贮玉米种子、杂交水稻种子、常规水稻种子、小麦种子、西瓜甜瓜种子"
+    },
+    {
+      "name": "杂交水稻种子",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "种子产业主要产品为杂交玉米种子、青贮玉米种子、杂交水稻种子、常规水稻种子、小麦种子、西瓜甜瓜种子"
+    },
+    {
+      "name": "常规水稻种子",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "种子产业主要产品为杂交玉米种子、青贮玉米种子、杂交水稻种子、常规水稻种子、小麦种子、西瓜甜瓜种子"
+    },
+    {
+      "name": "小麦种子",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "种子产业主要产品为杂交玉米种子、青贮玉米种子、杂交水稻种子、常规水稻种子、小麦种子、西瓜甜瓜种子"
+    },
+    {
+      "name": "西瓜甜瓜种子",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "种子产业主要产品为杂交玉米种子、青贮玉米种子、杂交水稻种子、常规水稻种子、小麦种子、西瓜甜瓜种子"
+    },
+    {
+      "name": "农药",
+      "type": "device",
+      "revenue_proportion": "农药类产品实现营业收入96,120.02万元",
+      "quote": "农化产业主要产品为农药、化肥。"
+    },
+    {
+      "name": "化肥",
+      "type": "device",
+      "revenue_proportion": "肥料业务实现营业收入57,532.27万元",
+      "quote": "农化产业主要产品为农药、化肥。"
+    },
+    {
+      "name": "天然薄荷产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "香料产业主要产品为天然薄荷、合成凉味剂等。天然薄荷系列有薄荷脑、薄荷素油、椒样薄荷油、留兰香油"
+    },
+    {
+      "name": "合成凉味剂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "合成凉味剂系列有WS-23、WS-3。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "氰氟草酯原药",
+      "target_product": "农药生产",
+      "cost_proportion": "4.70%",
+      "quote": "主要原材料采购情况 单位：元 氰氟草酯原药（用于农药生产） 询比价采购 4.70% 否 105,000.00 105,000.00"
+    },
+    {
+      "name": "丙酸",
+      "target_product": "农药生产",
+      "cost_proportion": "2.56%",
+      "quote": "丙酸（用于农药生产） 询比价采购 2.56% 否 77,000.00 74,400.00"
+    },
+    {
+      "name": "苯达松水剂",
+      "target_product": "农药生产",
+      "cost_proportion": "2.20%",
+      "quote": "苯达松水剂（用于农药生产） 询比价采购 2.20% 否 28,000.00 28,000.00"
+    },
+    {
+      "name": "氟磺胺草醚原药",
+      "target_product": "农药生产",
+      "cost_proportion": "2.00%",
+      "quote": "氟磺胺草醚原药（用于农药生产） 询比价采购 2.00% 否 108,000.00 105,000.00"
+    },
+    {
+      "name": "油酸甲酯",
+      "target_product": "农药生产",
+      "cost_proportion": "1.90%",
+      "quote": "油酸甲酯（用于农药生产） 询比价采购 1.90% 否 8,170.00 7,980.00"
+    },
+    {
+      "name": "使它隆原药",
+      "target_product": "农药生产",
+      "cost_proportion": "1.60%",
+      "quote": "使它隆原药（用于农药生产） 询比价采购 1.60% 否 72,000.00 75,000.00"
+    },
+    {
+      "name": "甲维盐",
+      "target_product": "农药生产",
+      "cost_proportion": "1.60%",
+      "quote": "甲维盐（用于农药生产） 询比价采购 1.60% 否 643,000.00 630,000.00"
+    },
+    {
+      "name": "烟磺酰胺",
+      "target_product": "农药生产",
+      "cost_proportion": "1.54%",
+      "quote": "烟磺酰胺（用于农药生产） 询比价采购 1.54% 否 151,000.00 150,000.00"
+    },
+    {
+      "name": "尿素",
+      "target_product": "化肥生产",
+      "cost_proportion": "42.10%",
+      "quote": "尿素（用于化肥生产） 询比价采购 42.10% 否 1,666.12 1,530.44"
+    },
+    {
+      "name": "氯化铵",
+      "target_product": "化肥生产",
+      "cost_proportion": "17.50%",
+      "quote": "氯化铵（用于化肥生产） 询比价采购 17.50% 否 580.00 480.00"
+    },
+    {
+      "name": "磷矿石/粉",
+      "target_product": "化肥生产",
+      "cost_proportion": "15.67%",
+      "quote": "磷矿石/粉（用于化肥生产） 询比价采购 15.67% 否 354.92 762.45"
+    },
+    {
+      "name": "硫酸钾",
+      "target_product": "化肥生产",
+      "cost_proportion": "2.57%",
+      "quote": "硫酸钾（用于化肥生产） 询比价采购 2.57% 否 3,228.76 3,302.75"
+    },
+    {
+      "name": "磷铵",
+      "target_product": "化肥生产",
+      "cost_proportion": "2.27%",
+      "quote": "磷铵（用于化肥生产） 询比价采购 2.27% 否 3,265.09 3,233.95"
+    },
+    {
+      "name": "薄荷提取物初制品",
+      "target_product": "香料生产",
+      "cost_proportion": null,
+      "quote": "天然薄荷产品采用外购的薄荷提取物初制品，经预处理、过滤、结晶、烘干等工序，加工成天然香料成品"
+    },
+    {
+      "name": "化工原料",
+      "target_product": "合成凉味剂生产",
+      "cost_proportion": null,
+      "quote": "合成凉味剂从国内采购化工原料，通过高温反应、过滤、结晶、干燥等工序，加工成成品。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "农业种植",
+      "source_product": "种子",
+      "quote": "公司主要业务为种子、农化和香料产业。种子产业主要产品为...杂交玉米种子、青贮玉米种子..."
+    },
+    {
+      "name": "田间作物除草、防治病虫害",
+      "source_product": "农药",
+      "quote": "公司农药产品主要有原药、制剂类产品...主要用于田间作物除草、防治病虫害，保护农作物生长，提高农作物产量。"
+    },
+    {
+      "name": "食品、日化、医药行业",
+      "source_product": "香料产品",
+      "quote": "香料产业是采购原材料后进行深加工再供应给日化、食品、医药行业的国内外企业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "包跃基",
+      "role": "法定代表人、董事、总经理",
+      "quote": "公司负责人包跃基... 2024年05月30日至2027年05月29日 董事 现任... 2025年06月24日至2027年05月29日 总经理 现任"
+    },
+    {
+      "name": "杜黎龙",
+      "role": "董事长",
+      "quote": "杜黎龙 男 49 董事长 现任 2026年03月26日至2027年05月29日"
+    },
+    {
+      "name": "李宗乐",
+      "role": "主管会计工作负责人、总会计师",
+      "quote": "主管会计工作负责人李宗乐... 2024年05月30日至2027年05月29日 总会计师 现任"
+    },
+    {
+      "name": "杨念龙",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）杨念龙"
+    },
+    {
+      "name": "顾晓新",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 顾晓新"
+    },
+    {
+      "name": "戴登安",
+      "role": "原董事长、原总经理",
+      "quote": "2025年02月10日至2026年03月04日 董事长 离任... 2018年11月28日至2025年02月07日 总经理 离任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国投种业科技有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "2024年4月26日...国投种业成为公司控股股东。股权过户后公司实际控制人变更为国务院国有资产监督管理委员会。"
+    },
+    {
+      "name": "国务院国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "股权过户后公司实际控制人变更为国务院国有资产监督管理委员会。"
+    },
+    {
+      "name": "安徽丰乐农化有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "公司全资子公司丰乐农化从事化工行业相关业务"
+    },
+    {
+      "name": "安徽丰乐香料有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "公司全资子公司丰乐香料...是中国知名的天然薄荷和合成凉味剂生产企业。"
+    },
+    {
+      "name": "湖北丰乐生态肥业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "2026年2月，丰乐农化将其持有的湖北丰乐51%股权无偿划转至公司，湖北丰乐成为公司控股子公司。"
+    },
+    {
+      "name": "四川同路农业科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "同路农业 指 四川同路农业科技有限责任公司"
+    },
+    {
+      "name": "国投种业科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "控股股东、关联方采购",
+      "quote": "公司主要供应商情况 前五名供应商采购额中关联方采购额占年度采购总额比例 0.00%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "种子类",
+      "segment_type": "product_line",
+      "revenue_amount": "1,071,769,803.63",
+      "revenue_proportion": "36.92%",
+      "gross_margin": "32.41%",
+      "yoy_change": null,
+      "quote": "分行业 （1）种子类 1,071,769,803.63 36.92%"
+    },
+    {
+      "name": "农化类",
+      "segment_type": "product_line",
+      "revenue_amount": "1,536,522,936.51",
+      "revenue_proportion": "52.93%",
+      "gross_margin": "6.90%",
+      "yoy_change": null,
+      "quote": "分行业 （2）农化类 1,536,522,936.51 52.93%"
+    },
+    {
+      "name": "香料类",
+      "segment_type": "product_line",
+      "revenue_amount": "294,685,864.17",
+      "revenue_proportion": "10.15%",
+      "gross_margin": "8.47%",
+      "yoy_change": null,
+      "quote": "分行业 （3）香料类 294,685,864.17 10.15%"
+    },
+    {
+      "name": "原药",
+      "segment_type": "product_line",
+      "revenue_amount": "150,075,683.91",
+      "revenue_proportion": null,
+      "gross_margin": "-11.94%",
+      "yoy_change": null,
+      "quote": "其中：原药 -11.94%"
+    },
+    {
+      "name": "制剂",
+      "segment_type": "product_line",
+      "revenue_amount": "647,255,595.21",
+      "revenue_proportion": null,
+      "gross_margin": "14.76%",
+      "yoy_change": null,
+      "quote": "制剂 14.76%"
+    },
+    {
+      "name": "化肥",
+      "segment_type": "product_line",
+      "revenue_amount": "575,322,742.65",
+      "revenue_proportion": null,
+      "gross_margin": "4.33%",
+      "yoy_change": null,
+      "quote": "化肥 4.33%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "2,717,634,424.24",
+      "revenue_proportion": "93.62%",
+      "gross_margin": "16.83%",
+      "yoy_change": null,
+      "quote": "分地区 国内 2,717,634,424.24 93.62%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "185,344,180.07",
+      "revenue_proportion": "6.38%",
+      "gross_margin": "11.19%",
+      "yoy_change": null,
+      "quote": "国外 185,344,180.07 6.38%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "农药原药",
+      "metric_type": "capacity",
+      "value": "2,750吨/年",
+      "period": null,
+      "quote": "主要产品 设计产能 农药原药 2,750吨/年"
+    },
+    {
+      "product": "农药原药",
+      "metric_type": "capacity_utilization",
+      "value": "36.60%",
+      "period": null,
+      "quote": "农药原药... 产能利用率 36.60%"
+    },
+    {
+      "product": "农药制剂",
+      "metric_type": "capacity",
+      "value": "20,000吨/年",
+      "period": null,
+      "quote": "农药制剂 20,000吨/年"
+    },
+    {
+      "product": "农药制剂",
+      "metric_type": "capacity_utilization",
+      "value": "74.43%",
+      "period": null,
+      "quote": "农药制剂... 产能利用率 74.43%"
+    },
+    {
+      "product": "复合肥",
+      "metric_type": "capacity",
+      "value": "200,000吨/年",
+      "period": null,
+      "quote": "复合肥 200,000吨/年"
+    },
+    {
+      "product": "复合肥",
+      "metric_type": "capacity_utilization",
+      "value": "16.77%",
+      "period": null,
+      "quote": "复合肥... 产能利用率 16.77%"
+    },
+    {
+      "product": "过磷酸钙",
+      "metric_type": "capacity",
+      "value": "250,000吨/年",
+      "period": null,
+      "quote": "过磷酸钙 250,000吨/年"
+    },
+    {
+      "product": "过磷酸钙",
+      "metric_type": "capacity_utilization",
+      "value": "34.00%",
+      "period": null,
+      "quote": "过磷酸钙... 产能利用率 34.00%"
+    },
+    {
+      "product": "磷精矿粉",
+      "metric_type": "capacity",
+      "value": "150,000吨/年",
+      "period": null,
+      "quote": "磷精矿粉 150,000吨/年"
+    },
+    {
+      "product": "磷精矿粉",
+      "metric_type": "capacity_utilization",
+      "value": "82.00%",
+      "period": null,
+      "quote": "磷精矿粉... 产能利用率 82.00%"
+    },
+    {
+      "product": "种子（制种面积）",
+      "metric_type": "capacity",
+      "value": "27.27万亩",
+      "period": "2025年",
+      "quote": "2025年，公司制种面积27.27万亩，总产量11,577.70万公斤"
+    },
+    {
+      "product": "种子（制种产量）",
+      "metric_type": "production_volume",
+      "value": "11,577.70万公斤",
+      "period": "2025年",
+      "quote": "2025年，公司制种面积27.27万亩，总产量11,577.70万公斤"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产5000吨天然薄荷脑、薄荷素油等系列天然香料及合成香料建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "累计投资金额 82,118.68万元，进度 99.00%",
+      "expected_completion_time": null,
+      "quote": "丰乐香料投资建设年产5000吨天然薄荷脑、薄荷素油等系列天然香料及合成香料项目... 累计投资金额 82,118.68 万元... 进度 99.00%... 正常"
+    },
+    {
+      "name": "向特定对象发行A股股票",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10.89亿元",
+      "designed_capacity": null,
+      "progress": "2026年1月21日，本次发行新增股份上市流通",
+      "expected_completion_time": null,
+      "quote": "报告期，公司向特定对象发行股票事项获得中国证监会同意注册的批复，募集资金10.89亿元...2026年1月21日，本次发行新增股份上市流通"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是农业部首批育繁推一体化种子企业...拥有国家级企业技术中心和国家级博士后科研工作站等研发平台"
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是农业部首批育繁推一体化种子企业...拥有国家级企业技术中心和国家级博士后科研工作站等研发平台"
+    },
+    {
+      "name": "农业农村部江淮玉米生物育种重点实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "承担高产优质抗逆水稻种质创制及品种选育安徽省联合共建学科重点实验室、省西瓜甜瓜工程技术研究中心等建设任务...农业农村部江淮玉米生物育种重点实验室"
+    },
+    {
+      "name": "种业国内注册商标",
+      "asset_type": "patent",
+      "related_product": "种业",
+      "quantitative_info": "176枚",
+      "quote": "公司种业拥有国内注册商标176枚"
+    },
+    {
+      "name": "种业申请植物新品种权",
+      "asset_type": "patent",
+      "related_product": "种业",
+      "quantitative_info": "88项",
+      "quote": "申请植物新品种权保护88项"
+    },
+    {
+      "name": "种业国内发明专利",
+      "asset_type": "patent",
+      "related_product": "种业",
+      "quantitative_info": "25项",
+      "quote": "国内发明专利25项"
+    },
+    {
+      "name": "农化行业国内发明专利",
+      "asset_type": "patent",
+      "related_product": "农化行业",
+      "quantitative_info": "45项",
+      "quote": "农化行业拥有...国内发明专利45项"
+    },
+    {
+      "name": "香料行业发明专利",
+      "asset_type": "patent",
+      "related_product": "香料行业",
+      "quantitative_info": "14项",
+      "quote": "香料行业拥有...发明专利14项。"
+    },
+    {
+      "name": "通过审定农作物品种",
+      "asset_type": "certification",
+      "related_product": "种子",
+      "quantitative_info": "30个（2025年）",
+      "quote": "报告期公司通过审定农作物品种30个，其中水稻7个...玉米21个...大豆2个"
+    },
+    {
+      "name": "授权品种权",
+      "asset_type": "patent",
+      "related_product": "种子",
+      "quantitative_info": "41个（2025年）",
+      "quote": "授权品种权41个，其中水稻6个，玉米35个。"
+    },
+    {
+      "name": "精喹禾灵原药及乳油的检测方法",
+      "asset_type": "process_technology",
+      "related_product": "精喹禾灵",
+      "quantitative_info": "成为国际农药分析协作委员会（CIPAC）准分析方法",
+      "quote": "其精喹禾灵原药及乳油的检测方法成为国际农药分析协作委员会（CIPAC）准分析方法"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "293,636,249.28元，占年度销售总额10.11%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 293,636,249.28 前五名客户合计销售金额占年度销售总额比例 10.11%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "302,330,953.79元，占年度采购总额12.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 302,330,953.79 前五名供应商合计采购金额占年度采购总额比例 12.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争更趋充分规范，品种结构与核心创新能力成为决定企业竞争优势与盈利水平的关键，综合性状优良、具有自主知识产权的优势品种市场竞争力与溢价能力更为突出，同质化常规品种竞争压力相对较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争更趋充分规范，品种结构与核心创新能力成为决定企业竞争优势与盈利水平的关键，综合性状优良、具有自主知识产权的优势品种市场竞争力与溢价能力更为突出，同质化常规品种竞争压力相对较大。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "种业、农化行业属于政策导向型行业，产业扶持、市场准入、质量管控等相关政策调整，将对公司研发、生产、销售全链条运营带来一定不确定性",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "种业、农化行业属于政策导向型行业，产业扶持、市场准入、质量管控等相关政策调整，将对公司研发、生产、销售全链条运营带来一定不确定性，进而影响经营规划落地成效。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "随着国家生态环保与安全生产监管标准持续完善、监管力度不断加大，行业合规管控要求稳步提升。公司农化、香料板块涉及生产储运环节，均需持续适配最新监管规范",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着国家生态环保与安全生产监管标准持续完善、监管力度不断加大，行业合规管控要求稳步提升。公司农化、香料板块涉及生产储运环节，均需持续适配最新监管规范"
+    },
+    {
+      "risk_type": "other",
+      "description": "种子产品作为特殊的商品，有生产销售季节性波动、自然条件和灾害性气候变化影响、市场价格波动、种子库存和储存质量下降等风险因素",
+      "related_entity": null,
+      "related_product": "种子产品",
+      "quote": "种子产品作为特殊的商品，有生产销售季节性波动、自然条件和灾害性气候变化影响、市场价格波动、种子库存和储存质量下降等风险因素"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "安徽丰乐农化有限责任公司...合成车间配套建设的废气处理设施因沸石转轮故障无法正常开启...违反《中华人民共和国大气污染防治法》",
+      "related_entity": "安徽丰乐农化有限责任公司",
+      "related_product": null,
+      "quote": "违法《中华人民共和国大气污染防治法》第四十五条的规定...合肥市生态环境局对丰乐农化处以行政罚款52,400元"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "company_name_mentioned": "深圳市建艺装饰集团股份有限公司",
+  "produces": [
+    {
+      "name": "建筑工程",
+      "type": "service",
+      "revenue_proportion": "72.31%",
+      "quote": "建筑工程业务 2,597,702,669.07 72.31%"
+    },
+    {
+      "name": "装饰工程",
+      "type": "service",
+      "revenue_proportion": "20.41%",
+      "quote": "装饰工程业务 733,213,597.22 20.41%"
+    },
+    {
+      "name": "新能源业务",
+      "type": "service",
+      "revenue_proportion": "1.60%",
+      "quote": "新能源业务 57,324,528.64 1.60%"
+    },
+    {
+      "name": "商业运营业务",
+      "type": "service",
+      "revenue_proportion": "2.94%",
+      "quote": "商业运营业务 105,485,982.54 2.94%"
+    },
+    {
+      "name": "装饰设计",
+      "type": "service",
+      "revenue_proportion": "0.46%",
+      "quote": "装饰设计业务 16,437,060.13 0.46%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "人工",
+      "target_product": "装饰工程业务",
+      "cost_proportion": "7.09%",
+      "quote": "装饰工程业务 人工 7.09%"
+    },
+    {
+      "name": "材料费",
+      "target_product": "装饰工程业务",
+      "cost_proportion": "15.64%",
+      "quote": "装饰工程业务 材料费 15.64%"
+    },
+    {
+      "name": "人工",
+      "target_product": "建筑工程业务",
+      "cost_proportion": "24.91%",
+      "quote": "建筑工程业务 人工 24.91%"
+    },
+    {
+      "name": "材料费",
+      "target_product": "建筑工程业务",
+      "cost_proportion": "38.06%",
+      "quote": "建筑工程业务 材料费 38.06%"
+    },
+    {
+      "name": "人工",
+      "target_product": "新能源业务",
+      "cost_proportion": "0.68%",
+      "quote": "新能源业务 人工 0.68%"
+    },
+    {
+      "name": "材料费",
+      "target_product": "新能源业务",
+      "cost_proportion": "0.86%",
+      "quote": "新能源业务 材料费 0.86%"
+    },
+    {
+      "name": "项目费用",
+      "target_product": "商业运营业务",
+      "cost_proportion": "2.24%",
+      "quote": "商业运营业务 项目费用 2.24%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "政府机关建筑",
+      "source_product": "装饰装修、建筑工程",
+      "quote": "政府机关建筑、写字楼等商业建筑、星级酒店、文教体卫等公共建筑、住宅、机场地铁等交通设施"
+    },
+    {
+      "name": "写字楼",
+      "source_product": "装饰装修、建筑工程",
+      "quote": "政府机关建筑、写字楼等商业建筑、星级酒店、文教体卫等公共建筑、住宅、机场地铁等交通设施"
+    },
+    {
+      "name": "星级酒店",
+      "source_product": "装饰装修、建筑工程",
+      "quote": "人民大会堂湖北厅、深圳市民中心、深圳大沙河长廊项目、珠海城市阳台、武汉东湖国际会议中心、深圳蛇口希尔顿南海酒店、三亚海棠湾开维凯宾斯基酒店、重庆美高梅酒店、广州南沙青少年宫、深圳大学西丽校区图书馆、中山大学珠海校区二号学院群楼等"
+    },
+    {
+      "name": "文教体卫等公共建筑",
+      "source_product": "装饰装修、建筑工程",
+      "quote": "政府机关建筑、写字楼等商业建筑、星级酒店、文教体卫等公共建筑、住宅、机场地铁等交通设施"
+    },
+    {
+      "name": "住宅",
+      "source_product": "装饰装修、建筑工程",
+      "quote": "政府机关建筑、写字楼等商业建筑、星级酒店、文教体卫等公共建筑、住宅、机场地铁等交通设施"
+    },
+    {
+      "name": "机场地铁等交通设施",
+      "source_product": "装饰装修、建筑工程",
+      "quote": "政府机关建筑、写字楼等商业建筑、星级酒店、文教体卫等公共建筑、住宅、机场地铁等交通设施"
+    },
+    {
+      "name": "分布式光伏",
+      "source_product": "新能源业务",
+      "quote": "聚焦分布式光伏、充电站、储能等领域的投资、建设与运营"
+    },
+    {
+      "name": "充电站",
+      "source_product": "新能源业务",
+      "quote": "聚焦分布式光伏、充电站、储能等领域的投资、建设与运营"
+    },
+    {
+      "name": "储能",
+      "source_product": "新能源业务",
+      "quote": "聚焦分布式光伏、充电站、储能等领域的投资、建设与运营"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张有文",
+      "role": "法定代表人、董事、总经理",
+      "quote": "公司负责人张有文"
+    },
+    {
+      "name": "曾艳",
+      "role": "主管会计工作负责人、会计机构负责人、副总经理、财务负责人",
+      "quote": "主管会计工作负责人曾艳及会计机构负责人（会计主管人员）曾艳"
+    },
+    {
+      "name": "石访",
+      "role": "董事长",
+      "quote": "现任珠海正方集团有限公司董事、副总经理，建艺集团董事长。"
+    },
+    {
+      "name": "庄萱萍",
+      "role": "副董事长",
+      "quote": "现任建艺集团副董事长。"
+    },
+    {
+      "name": "刘珊",
+      "role": "副董事长",
+      "quote": "现任副董事长。"
+    },
+    {
+      "name": "钟孟光",
+      "role": "董事会秘书",
+      "quote": "现任公司董事会秘书。"
+    },
+    {
+      "name": "万杰",
+      "role": "副总经理、广东建星建造集团有限公司副董事长",
+      "quote": "现任广东建星建造集团有限公司副董事长，公司副总经理。"
+    },
+    {
+      "name": "刘海云",
+      "role": "原控股股东",
+      "quote": "原控股股东刘海云先生"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "珠海正方集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，为公司提供业务、资源、资金等支持",
+      "quote": "公司控股股东珠海正方集团有限公司"
+    },
+    {
+      "name": "广东建星建造集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "持股80%的控股子公司，从事建筑工程施工服务",
+      "quote": "公司持股80%的控股子公司建星建造具备建筑工程总承包特级资质"
+    },
+    {
+      "name": "广东建艺石业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新设子公司，从事石材矿开采加工销售",
+      "quote": "广东建艺石业有限公司 新设子公司"
+    },
+    {
+      "name": "广东粤明绿能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "绿色能源业务的专业运营主体",
+      "quote": "广东粤明绿能科技有限公司作为公司绿色能源业务的专业运营主体"
+    },
+    {
+      "name": "珠海华聚开发建设有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第一名",
+      "quote": "珠海华聚开发建设有限公司 379,591,624.15 10.57%"
+    },
+    {
+      "name": "珠海十字门中央商务区建设控股有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第二名",
+      "quote": "珠海十字门中央商务区建设控股有限公司 357,519,200.56 9.95%"
+    },
+    {
+      "name": "珠海正方兴格城市更新有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第三名",
+      "quote": "珠海正方兴格城市更新有限公司 321,192,594.66 8.94%"
+    },
+    {
+      "name": "广东南粤建筑工程有限公司",
+      "relation_type": "competitor",
+      "business_details": "控股股东旗下与上市公司存在同业竞争的企业",
+      "quote": "广东南粤建筑工程有限公司（以下简称“南粤建筑”）与建星建造构成同业竞争"
+    },
+    {
+      "name": "珠海正方市政园林绿化工程有限公司",
+      "relation_type": "competitor",
+      "business_details": "控股股东旗下与上市公司存在同业竞争的企业",
+      "quote": "珠海正方市政园林绿化工程有限公司（以下简称“正方园林”）与建星建造构成同业竞争"
+    },
+    {
+      "name": "山西盈盛建筑工程劳务有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商第一名",
+      "quote": "山西盈盛建筑工程劳务有限公司 147,861,877.64 4.34%"
+    },
+    {
+      "name": "山西晋鼎鑫建筑工程劳务有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商第二名",
+      "quote": "山西晋鼎鑫建筑工程劳务有限公司 140,143,164.83 4.11%"
+    },
+    {
+      "name": "珠海国仁佳豪建材有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商第三名",
+      "quote": "珠海国仁佳豪建材有限公司 113,203,324.64 3.32%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "装饰工程业务",
+      "segment_type": "product_line",
+      "revenue_amount": "733,213,597.22元",
+      "revenue_proportion": "20.41%",
+      "gross_margin": "-13.64%",
+      "yoy_change": "-38.98%",
+      "quote": "装饰工程业务 733,213,597.22 20.41%"
+    },
+    {
+      "name": "建筑工程业务",
+      "segment_type": "product_line",
+      "revenue_amount": "2,597,702,669.07元",
+      "revenue_proportion": "72.31%",
+      "gross_margin": "9.16%",
+      "yoy_change": "-43.65%",
+      "quote": "建筑工程业务 2,597,702,669.07 72.31%"
+    },
+    {
+      "name": "新能源业务",
+      "segment_type": "product_line",
+      "revenue_amount": "57,324,528.64元",
+      "revenue_proportion": "1.60%",
+      "gross_margin": null,
+      "yoy_change": "-71.60%",
+      "quote": "新能源业务 57,324,528.64 1.60%"
+    },
+    {
+      "name": "南部地区",
+      "segment_type": "region",
+      "revenue_amount": "3,271,508,616.55元",
+      "revenue_proportion": "91.06%",
+      "gross_margin": "7.14%",
+      "yoy_change": "-41.00%",
+      "quote": "南部地区 3,271,508,616.55 91.06%"
+    },
+    {
+      "name": "东部地区",
+      "segment_type": "region",
+      "revenue_amount": "240,577,391.73元",
+      "revenue_proportion": "6.70%",
+      "gross_margin": null,
+      "yoy_change": "-55.12%",
+      "quote": "东部地区 240,577,391.73 6.70%"
+    },
+    {
+      "name": "建筑承包工程",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,597,702,669.07元",
+      "revenue_proportion": null,
+      "gross_margin": "9.16%",
+      "yoy_change": null,
+      "quote": "建筑承包工程 2,597,702,669.07 2,359,866,203.08 9.16%"
+    },
+    {
+      "name": "公共装修",
+      "segment_type": "business_unit",
+      "revenue_amount": "676,462,930.74元",
+      "revenue_proportion": null,
+      "gross_margin": "-7.19%",
+      "yoy_change": null,
+      "quote": "公共装修 676,462,930.74 725,071,334.60 -7.19%"
+    },
+    {
+      "name": "住宅装修",
+      "segment_type": "business_unit",
+      "revenue_amount": "56,750,666.48元",
+      "revenue_proportion": null,
+      "gross_margin": "-90.52%",
+      "yoy_change": null,
+      "quote": "住宅装修 56,750,666.48 108,122,389.60 -90.52%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "3,235,972,275.75元",
+      "period": "报告期",
+      "quote": "未完工项目 3,235,972,275.75"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "2,006,751,512.26元",
+      "period": "报告期",
+      "quote": "累计确认产值 2,006,751,512.26"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "木溪矿区开发",
+      "project_type": "capacity_expansion",
+      "location": "粤东北苏区（梅州市平远县）",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成了矿区征地及林地报批工作，已取得第三方技术服务与安全设施设计批复。2025年7月，公司摘牌木溪矿区工业场地平整土石方资产，并在主矿区投产前，利用该资产配合自有石材加工厂开展前期生产与销售。",
+      "expected_completion_time": null,
+      "quote": "2025年，公司聚焦木溪矿区核心业务，全力推进开发进程。报告期内积极协调当地政府部门，完成了矿区征地及林地报批工作，已取得第三方技术服务与安全设施设计批复。"
+    },
+    {
+      "name": "粤东北苏区（梅州市平远县）现代化循环经济建材产业园项目",
+      "project_type": "other",
+      "location": "梅州市平远县",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已获批复，并完成了C地块专用道路的招标工作。",
+      "expected_completion_time": null,
+      "quote": "与当地政府合作打造的粤东北苏区（梅州市平远县）现代化循环经济建材产业园项目已获批复，并完成了C地块专用道路的招标工作。"
+    },
+    {
+      "name": "和园·颐养项目",
+      "project_type": "other",
+      "location": "珠海市香洲区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已于2025年1月通过评审并获评五星级养老机构。",
+      "expected_completion_time": null,
+      "quote": "旗下位于珠海市香洲区的区级养老机构——和园・颐养项目，已于2025年1月通过评审并获评五星级养老机构"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "93项",
+      "quote": "截至报告期末，发明专利93项"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "372项",
+      "quote": "实用新型专利372项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "76项",
+      "quote": "软著76项"
+    },
+    {
+      "name": "智能建造垂直运输无人化升降机体系技术",
+      "asset_type": "core_technology",
+      "related_product": "智能建造垂直运输",
+      "quantitative_info": null,
+      "quote": "智能建造垂直运输无人化升降机体系技术研究"
+    },
+    {
+      "name": "高层建筑大悬挑模板-爬架附着双体系技术",
+      "asset_type": "core_technology",
+      "related_product": "超高层异形结构施工",
+      "quantitative_info": null,
+      "quote": "高层建筑大悬挑模板-爬架附着双体系技术研究"
+    },
+    {
+      "name": "龙鳞板幕墙高效精准调节装置关键技术",
+      "asset_type": "core_technology",
+      "related_product": "龙鳞板幕墙施工",
+      "quantitative_info": null,
+      "quote": "龙鳞板幕墙高效精准调节装置关键技术研究"
+    },
+    {
+      "name": "ISO9001/ISO14001/OHSAS18001管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在 2003 年即通过了 ISO9001/ISO14001/OHSAS18001管理体系的认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.47%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 41.47%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "10.57%",
+      "related_entity": "珠海华聚开发建设有限公司",
+      "period": "2025年",
+      "quote": "珠海华聚开发建设有限公司 379,591,624.15 10.57%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.21%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 16.21%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "4.34%",
+      "related_entity": "山西盈盛建筑工程劳务有限公司",
+      "period": "2025年",
+      "quote": "山西盈盛建筑工程劳务有限公司 147,861,877.64 4.34%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性。母公司报表层面未分配利润为-2,640,529,367.53元，可能存在较长时间内无法实施现金分红的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，且最近一年审计报告显示公司持续经营能力存在不确定性"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例为41.47%，存在一定客户集中风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 41.47%"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司存在多项重大诉讼、仲裁事项，部分诉讼对手方为已发生债务危机的房地产企业，存在应收账款回收风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "详见本报告第五节重要事项、十一、重大诉讼、仲裁事项"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司控股股东正方集团旗下企业广东南粤建筑工程有限公司、珠海正方市政园林绿化工程有限公司与上市公司构成同业竞争，可能对公司业务构成不利影响。",
+      "related_entity": "广东南粤建筑工程有限公司、珠海正方市政园林绿化工程有限公司",
+      "related_product": null,
+      "quote": "广东南粤建筑工程有限公司（以下简称“南粤建筑”）、珠海正方市政园林绿化工程有限公司（以下简称“正方园林”）与建星建造构成同业竞争"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "报告期内公司计提了商誉减值和坏账准备等减值损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要系报告期内计提的商誉减值"
+    }
+  ]
+}

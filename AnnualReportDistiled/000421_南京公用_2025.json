@@ -1,0 +1,219 @@
+{
+  "company_name_mentioned": "南京公用发展股份有限公司",
+  "produces": [
+    {
+      "name": "燃气销售",
+      "type": "service",
+      "revenue_proportion": "38.72%",
+      "quote": "燃气销售收入270,349.67万元，占营业收入38.72%"
+    },
+    {
+      "name": "房产开发",
+      "type": "service",
+      "revenue_proportion": "46.16%",
+      "quote": "房产开发收入322,236.27万元，占46.16%"
+    },
+    {
+      "name": "汽车营运",
+      "type": "service",
+      "revenue_proportion": "2.29%",
+      "quote": "汽车营运收入15,971.58万元，占2.29%"
+    },
+    {
+      "name": "燃气工程",
+      "type": "service",
+      "revenue_proportion": "5.19%",
+      "quote": "燃气工程收入36,203.74万元，占5.19%"
+    },
+    {
+      "name": "新能源业务",
+      "type": "technology",
+      "revenue_proportion": "0.61%",
+      "quote": "新能源业务收入4,265.94万元，占0.61%"
+    },
+    {
+      "name": "旅游服务",
+      "type": "service",
+      "revenue_proportion": "1.32%",
+      "quote": "旅游服务收入9,199.83万元，占1.32%"
+    },
+    {
+      "name": "汽车销售",
+      "type": "service",
+      "revenue_proportion": "0.25%",
+      "quote": "汽车销售收入1,773.18万元，占0.25%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "天然气",
+      "target_product": "燃气销售",
+      "cost_proportion": "43.75%",
+      "quote": "中国石油天然气股份有限公司江苏销售分公司采购额占43.75%"
+    },
+    {
+      "name": "天然气",
+      "target_product": "燃气销售",
+      "cost_proportion": "11.29%",
+      "quote": "江苏省天然气销售有限公司采购额占11.29%"
+    },
+    {
+      "name": "建设工程",
+      "target_product": "燃气工程",
+      "cost_proportion": "8.12%",
+      "quote": "江苏建峰建设有限公司采购额占8.12%"
+    },
+    {
+      "name": "商品",
+      "target_product": null,
+      "cost_proportion": "2.98%",
+      "quote": "南京普鲁迪商贸有限公司采购额占2.98%"
+    },
+    {
+      "name": "天然气",
+      "target_product": "燃气销售",
+      "cost_proportion": "0.61%",
+      "quote": "港华国际能源贸易有限公司采购额占0.61%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市居民用气",
+      "source_product": "燃气销售",
+      "quote": "南京市主城区燃气供应领域占据主导地位"
+    },
+    {
+      "name": "住宅开发",
+      "source_product": "房产开发",
+      "quote": "公司深耕南京住宅类项目开发三十余载"
+    },
+    {
+      "name": "出租车运营",
+      "source_product": "汽车营运",
+      "quote": "公司在运巡游出租车1780辆，新能源出租车占97.64%"
+    },
+    {
+      "name": "光伏电站",
+      "source_product": "新能源业务",
+      "quote": "公司已运营光伏电站36个，总装机规模达37.69兆瓦"
+    },
+    {
+      "name": "充电网络",
+      "source_product": "新能源业务",
+      "quote": "累计在线运营充电站点231个，配备充电终端3315个"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王巍",
+      "role": "董事长",
+      "quote": "公司负责人王巍"
+    },
+    {
+      "name": "孙彬",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人孙彬"
+    },
+    {
+      "name": "张瑞环",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人张瑞环"
+    },
+    {
+      "name": "周伟",
+      "role": "董事、总经理",
+      "quote": "周伟：董事、总经理"
+    },
+    {
+      "name": "徐宁",
+      "role": "副总经理、董事会秘书",
+      "quote": "徐宁：副总经理兼董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国石油天然气股份有限公司江苏销售分公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购天然气",
+      "quote": "中国石油天然气股份有限公司江苏销售分公司采购额占43.75%"
+    },
+    {
+      "name": "江苏省天然气销售有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购天然气",
+      "quote": "江苏省天然气销售有限公司采购额占11.29%"
+    },
+    {
+      "name": "江苏建峰建设有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购建设工程",
+      "quote": "江苏建峰建设有限公司采购额占8.12%"
+    },
+    {
+      "name": "南京普鲁迪商贸有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购商品",
+      "quote": "南京普鲁迪商贸有限公司采购额占2.98%"
+    },
+    {
+      "name": "港华国际能源贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购天然气",
+      "quote": "港华国际能源贸易有限公司采购额占0.61%"
+    },
+    {
+      "name": "爱尔集新能源（南京）有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售商品",
+      "quote": "爱尔集新能源（南京）有限公司销售额1.49%"
+    },
+    {
+      "name": "弓箭玻璃器皿（中国）有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售商品",
+      "quote": "弓箭玻璃器皿（中国）有限公司销售额1.22%"
+    },
+    {
+      "name": "南京电气绝缘子有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售商品",
+      "quote": "南京电气绝缘子有限公司销售额0.78%"
+    },
+    {
+      "name": "南京华新有色金属有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售商品",
+      "quote": "南京华新有色金属有限公司销售额0.66%"
+    },
+    {
+      "name": "南京安居保障房建设发展有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售商品",
+      "quote": "南京安居保障房建设发展有限公司销售额0.27%"
+    },
+    {
+      "name": "南京港华燃气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事城市燃气业务",
+      "quote": "南京港华燃气有限公司是南京市规模最大的管道燃气经营企业"
+    },
+    {
+      "name": "南京新能源产业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，定位智慧新能源系统解决方案服务商",
+      "quote": "公司全资子公司南京新能源集团定位城市级智慧新能源系统解决方案服务商"
+    },
+    {
+      "name": "上海博般数据技术有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "合资成立南京能网云创新能源科技有限公司，开展虚拟电厂业务",
+      "quote": "与上海博般数据技术有限公司合资成立南京能网云创新能源科技有限公司"
+    },
+    {
+      "name": "南京市城市建设投资控股（集团）有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东：南京公用控股（集团）有限公司，实际控制人：南京市人民政府国有资产监督管理委员会"
+    }
+  ]
+}

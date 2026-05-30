@@ -1,0 +1,506 @@
+{
+  "company_name_mentioned": "东港股份有限公司",
+  "produces": [
+    {
+      "name": "印刷产品",
+      "type": "service",
+      "revenue_proportion": "印刷产品 653,156,431.79 占营业收入比重 55.09%",
+      "quote": "报告期内，公司印刷产品营业收入减少13.81%"
+    },
+    {
+      "name": "智能卡和无线射频产品",
+      "type": "device",
+      "revenue_proportion": "智能卡和无线射频产品 313,596,496.73 占营业收入比重 26.45%",
+      "quote": "报告期内，公司智能卡和无线射频产品获得了一定的发展，实现营业收入31,359.65万元，同比增长60.66%"
+    },
+    {
+      "name": "技术服务",
+      "type": "service",
+      "revenue_proportion": "技术服务 197,590,906.78 占营业收入比重 16.67%",
+      "quote": "报告期内，公司实现营业收入11.86亿元...技术服务 197,590,906.78...16.67%"
+    },
+    {
+      "name": "商业票证印刷",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "目前公司的主要业务分为印刷类产品...其中印刷类产品包括：商业票证印刷，数据处理打印与邮发封装，个性化彩色印刷和普通商业标签"
+    },
+    {
+      "name": "数据处理打印与邮发封装",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "其中印刷类产品包括：商业票证印刷，数据处理打印与邮发封装，个性化彩色印刷和普通商业标签"
+    },
+    {
+      "name": "个性化彩色印刷",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "其中印刷类产品包括：商业票证印刷，数据处理打印与邮发封装，个性化彩色印刷和普通商业标签"
+    },
+    {
+      "name": "普通商业标签",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "其中印刷类产品包括：商业票证印刷，数据处理打印与邮发封装，个性化彩色印刷和普通商业标签"
+    },
+    {
+      "name": "智能卡（社保卡、证件卡、支付卡、金融卡等）的印制、天线与芯片封装、个人化服务、初始化服务、邮发服务",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能卡与无线射频类产品包括：社保卡、证件卡、支付卡、金融卡等智能卡的印制、天线与芯片封装、个人化服务、初始化服务、邮发服务和采用无线射频技术的标签、证照以及其他相关产品"
+    },
+    {
+      "name": "采用无线射频技术的标签、证照以及其他相关产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能卡与无线射频类产品包括：...和采用无线射频技术的标签、证照以及其他相关产品"
+    },
+    {
+      "name": "电子票证服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "技术服务类业务包括：电子票证服务，AI具身机器人，档案存储与数字化服务等"
+    },
+    {
+      "name": "AI具身机器人",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "技术服务类业务包括：电子票证服务，AI具身机器人，档案存储与数字化服务等"
+    },
+    {
+      "name": "档案存储与数字化服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "技术服务类业务包括：电子票证服务，AI具身机器人，档案存储与数字化服务等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "印刷产品",
+      "cost_proportion": "印刷产品 原材料 252,453,917.03 占营业成本比 58.73%",
+      "quote": "印刷产品 原材料 252,453,917.03 58.73%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "智能卡和无线射频产品",
+      "cost_proportion": "智能卡和无线射频产品 原材料 164,400,313.86 占营业成本比 69.34%",
+      "quote": "智能卡和无线射频产品 原材料 164,400,313.86 69.34%"
+    },
+    {
+      "name": "材料",
+      "target_product": "技术服务",
+      "cost_proportion": "技术服务 材料 17,724,761.38 占营业成本比 15.17%",
+      "quote": "技术服务 材料 17,724,761.38 15.17%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "银行、保险等金融企业",
+      "source_product": "公司各类产品",
+      "quote": "公司各类产品的主要客户均为银行、保险等金融企业客户"
+    },
+    {
+      "name": "财政、税务等政府类客户",
+      "source_product": "公司各类产品",
+      "quote": "公司各类产品的主要客户均为...财政、税务等政府类客户"
+    },
+    {
+      "name": "大型企业类客户",
+      "source_product": "公司各类产品",
+      "quote": "公司各类产品的主要客户均为...以及大型企业类客户"
+    },
+    {
+      "name": "电商平台",
+      "source_product": "电子票证服务",
+      "quote": "公司电子票证类产品已形成电子发票服务平台...为国内大型电子商务平台、企事业单位提供电子发票和非税电子收据服务"
+    },
+    {
+      "name": "零售与服装",
+      "source_product": "无线射频标签",
+      "quote": "零售与服装是无线射频标签最大应用场景，2025年服装零售行业RFID渗透率超35%"
+    },
+    {
+      "name": "物流仓储",
+      "source_product": "RFID技术",
+      "quote": "RFID技术成为物流仓储智能化改造的核心支撑"
+    },
+    {
+      "name": "医疗健康",
+      "source_product": "RFID技术",
+      "quote": "医疗健康是RFID行业增速最快的细分领域"
+    },
+    {
+      "name": "交通（电子车牌、智慧停车、公共交通一卡通）",
+      "source_product": "RFID技术",
+      "quote": "在智慧城市与政务场景中，RFID 技术应用持续深化，涵盖电子车牌、智慧停车、公共交通一卡通等交通领域"
+    },
+    {
+      "name": "政务（社保卡、居住证）",
+      "source_product": "RFID技术",
+      "quote": "以及社保卡、居住证等政务证照管理"
+    },
+    {
+      "name": "档案管理",
+      "source_product": "档案存储与数字化服务",
+      "quote": "档案存储及数字化业务指档案服务机构为满足社会各方面对档案管理和利用的需求，运用专业知识和技术，提供的一系列档案相关服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "史建中",
+      "role": "董事长",
+      "quote": "公司负责人史建中...2021年9月起任公司董事长"
+    },
+    {
+      "name": "唐国奇",
+      "role": "主管会计工作负责人、总裁",
+      "quote": "主管会计工作负责人唐国奇...2021年9月起任本公司职工代表董事，2023年3月起任本公司总裁"
+    },
+    {
+      "name": "郑理",
+      "role": "会计机构负责人、副总裁、财务负责人",
+      "quote": "会计机构负责人（会计主管人员）郑理...2006年3月起任副总裁兼财务负责人"
+    },
+    {
+      "name": "齐利国",
+      "role": "董事会秘书、副总裁",
+      "quote": "董事会秘书 齐利国...2006年3月起任本公司副总裁兼董事会秘书、办公室主任"
+    },
+    {
+      "name": "刘宏",
+      "role": "副总裁",
+      "quote": "副总裁刘宏先生...2006年3月起担任本公司副总裁"
+    },
+    {
+      "name": "朱震",
+      "role": "副总裁",
+      "quote": "副总裁朱震先生...2006年3月起任本公司副总裁"
+    },
+    {
+      "name": "楚伦巴特尔",
+      "role": "董事",
+      "quote": "董事楚伦巴特尔先生...2019年6月起任本公司董事"
+    },
+    {
+      "name": "张萌",
+      "role": "董事",
+      "quote": "董事张萌先生...2024年9月起任本公司董事"
+    },
+    {
+      "name": "张松旺",
+      "role": "独立董事",
+      "quote": "独立董事张松旺先生...2021年9月起任本公司独立董事"
+    },
+    {
+      "name": "冯威",
+      "role": "独立董事",
+      "quote": "独立董事冯威女士...2021年9月起任本公司独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京中嘉华信息技术有限公司",
+      "relation_type": "investor",
+      "business_details": "持股11.64%",
+      "quote": "北京中嘉华信息技术有限公司 11.64%"
+    },
+    {
+      "name": "香港喜多来集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持股9.73%",
+      "quote": "香港喜多来集团有限公司 9.73%"
+    },
+    {
+      "name": "济南发展国有工业资产经营有限公司",
+      "relation_type": "investor",
+      "business_details": "持股9.47%",
+      "quote": "济南发展国有工业资产经营有限公司 9.47%"
+    },
+    {
+      "name": "北京东港嘉华安全信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事档案存储、电子票证等",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...北京东港嘉华安全信息技术有限公司...主要业务：档案存储，电子票证等"
+    },
+    {
+      "name": "北京中嘉华信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司董事长史建中兼任其董事长",
+      "quote": "现兼任北京中嘉华信息技术有限公司董事长"
+    },
+    {
+      "name": "信永中和会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 信永中和会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "印刷业",
+      "segment_type": "product_line",
+      "revenue_amount": "966,752,928.52",
+      "revenue_proportion": "81.54%",
+      "gross_margin": "31.01%",
+      "yoy_change": "1.44%",
+      "quote": "分行业 印刷业 966,752,928.52 81.54%...毛利率 31.01%"
+    },
+    {
+      "name": "服务业",
+      "segment_type": "product_line",
+      "revenue_amount": "197,590,906.78",
+      "revenue_proportion": "16.67%",
+      "gross_margin": "40.89%",
+      "yoy_change": "1.96%",
+      "quote": "分行业 服务业 197,590,906.78 16.67%...毛利率 40.89%"
+    },
+    {
+      "name": "印刷产品",
+      "segment_type": "product_line",
+      "revenue_amount": "653,156,431.79",
+      "revenue_proportion": "55.09%",
+      "gross_margin": "34.18%",
+      "yoy_change": "-13.81%",
+      "quote": "分产品 印刷产品 653,156,431.79 55.09%...毛利率 34.18%...同比增减 -13.81%"
+    },
+    {
+      "name": "智能卡和无线射频产品",
+      "segment_type": "product_line",
+      "revenue_amount": "313,596,496.73",
+      "revenue_proportion": "26.45%",
+      "gross_margin": "24.39%",
+      "yoy_change": "60.66%",
+      "quote": "分产品 智能卡和无线射频产品 313,596,496.73 26.45%...毛利率 24.39%...同比增减 60.66%"
+    },
+    {
+      "name": "技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "197,590,906.78",
+      "revenue_proportion": "16.67%",
+      "gross_margin": "40.89%",
+      "yoy_change": "1.96%",
+      "quote": "分产品 技术服务 197,590,906.78 16.67%...毛利率 40.89%...同比增减 1.96%"
+    },
+    {
+      "name": "南方",
+      "segment_type": "region",
+      "revenue_amount": "299,962,678.90",
+      "revenue_proportion": "25.30%",
+      "gross_margin": "25.25%",
+      "yoy_change": "74.72%",
+      "quote": "分地区 南方 299,962,678.90 25.30%...毛利率 25.25%...同比增减 74.72%"
+    },
+    {
+      "name": "北方",
+      "segment_type": "region",
+      "revenue_amount": "885,695,938.00",
+      "revenue_proportion": "74.70%",
+      "gross_margin": "36.21%",
+      "yoy_change": "-11.95%",
+      "quote": "分地区 北方 885,695,938.00 74.70%...毛利率 36.21%...同比增减 -11.95%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能卡",
+      "metric_type": "capacity",
+      "value": "产能提升",
+      "period": "报告期内",
+      "quote": "公司通过新增生产设备和系统化流程管理，有效提升了智能卡产品的产能与生产效率"
+    },
+    {
+      "product": "第三代社保卡",
+      "metric_type": "production_volume",
+      "value": "截至2025年底，全国第三代社保卡累计发行超9亿张",
+      "period": "2025年底",
+      "quote": "截止2025年底，全国第三代社保卡累计发行超9亿张"
+    },
+    {
+      "product": "第三代社保卡",
+      "metric_type": "sales_volume",
+      "value": "2025年净增约1.5亿张（含新办+换发）",
+      "period": "2025年",
+      "quote": "2025年净增约1.5亿张（含新办+换发）"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "东港北京产业园区",
+      "project_type": "construction_project",
+      "location": "北京",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "东港北京产业园区...东港北京产业园区"
+    },
+    {
+      "name": "票证防伪项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本项目的多项产品已于2025年完成研发工作",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：票证防伪项目...本项目的多项产品已于2025年完成研发工作"
+    },
+    {
+      "name": "标签防伪技术研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本项目在2025年进行了技术方案研发等工作",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：标签防伪技术研发项目...本项目在2025年进行了技术方案研发等工作"
+    },
+    {
+      "name": "智能卡产品升级",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年主要进行了...研发工作，研发成功了多种智能IC卡新系统、新产品",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：智能卡产品升级...2025年主要进行了...研发工作，研发成功了多种智能IC卡新系统、新产品"
+    },
+    {
+      "name": "RFID管理系统研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年进行了RFID金融押品管理系统及RFID服装供应链智能管理系统研发，达到了预期目标",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：RFID管理系统研发...2025年进行了RFID金融押品管理系统及RFID服装供应链智能管理系统研发，达到了预期目标"
+    },
+    {
+      "name": "彩色印刷产品研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目在2025初步进行了技术方案的研发工作",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：彩色印刷产品研发...项目在2025初步进行了技术方案的研发工作"
+    },
+    {
+      "name": "智能情感陪伴机器人研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "目前正在进行软件算法与硬件结构的最后匹配调试",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：智能情感陪伴机器人研发...目前正在进行软件算法与硬件结构的最后匹配调试"
+    },
+    {
+      "name": "养老陪伴机器人专项研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正在进行核心算法与硬件方案的针对性论证",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：养老陪伴机器人专项研发...正在进行核心算法与硬件方案的针对性论证"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "北京和济南设有省级企业技术中心"
+    },
+    {
+      "name": "防伪技术",
+      "asset_type": "core_technology",
+      "related_product": "票证、标签",
+      "quantitative_info": null,
+      "quote": "公司在防伪技术、信息技术、智能卡技术、智能标签技术、人工智能技术投入了大量资源"
+    },
+    {
+      "name": "信息技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司在防伪技术、信息技术、智能卡技术、智能标签技术、人工智能技术投入了大量资源"
+    },
+    {
+      "name": "智能卡技术",
+      "asset_type": "core_technology",
+      "related_product": "智能卡",
+      "quantitative_info": null,
+      "quote": "公司在防伪技术、信息技术、智能卡技术、智能标签技术、人工智能技术投入了大量资源"
+    },
+    {
+      "name": "智能标签技术",
+      "asset_type": "core_technology",
+      "related_product": "RFID标签",
+      "quantitative_info": null,
+      "quote": "公司在防伪技术、信息技术、智能卡技术、智能标签技术、人工智能技术投入了大量资源"
+    },
+    {
+      "name": "人工智能技术",
+      "asset_type": "core_technology",
+      "related_product": "AI机器人",
+      "quantitative_info": null,
+      "quote": "公司在防伪技术、信息技术、智能卡技术、智能标签技术、人工智能技术投入了大量资源"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "本公司取得了编号为GR202337005832的高新技术企业证书"
+    },
+    {
+      "name": "商用密码产品生产、销售资质",
+      "asset_type": "certification",
+      "related_product": "商用密码产品",
+      "quantitative_info": null,
+      "quote": "经营范围变更为：...商用密码产品生产；商用密码产品销售；"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "16.81%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 16.81%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.24%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 29.24%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "15.75%",
+      "related_entity": "供应商A",
+      "period": "2025年度",
+      "quote": "公司前5名供应商资料...供应商A 108,742,249.73 15.75%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "传统票证印刷业务市场总体规模减少；市场竞争加剧，产品盈利能力降低",
+      "related_entity": null,
+      "related_product": "票证印刷产品",
+      "quote": "公司面临传统票证印刷业务市场总体规模减少；市场竞争加剧，产品盈利能力降低；"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新技术、新产品不断涌现，技术迭代加速，公司产品需要不断技术升级",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "新技术、新产品不断涌现，技术迭代加速，公司产品需要不断技术升级等风险"
+    }
+  ]
+}

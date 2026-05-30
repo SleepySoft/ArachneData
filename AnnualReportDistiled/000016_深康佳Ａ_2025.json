@@ -1,0 +1,452 @@
+{
+  "company_name_mentioned": "康佳集团股份有限公司",
+  "produces": [
+    {
+      "name": "彩电业务",
+      "type": "device",
+      "revenue_proportion": "42.62%",
+      "quote": "分产品：彩电业务 4,192,163,402.41 42.62%"
+    },
+    {
+      "name": "白电业务",
+      "type": "device",
+      "revenue_proportion": "38.79%",
+      "quote": "分产品：白电业务 3,815,259,215.10 38.79%"
+    },
+    {
+      "name": "半导体及存储芯片业务",
+      "type": "component",
+      "revenue_proportion": "1.65%",
+      "quote": "分产品：半导体及存储芯片业务 162,222,125.34 1.65%"
+    },
+    {
+      "name": "PCB业务",
+      "type": "component",
+      "revenue_proportion": "5.39%",
+      "quote": "分产品：PCB业务 529,852,068.40 5.39%"
+    },
+    {
+      "name": "其他业务",
+      "type": "other",
+      "revenue_proportion": "11.55%",
+      "quote": "分产品：其他业务 1,135,978,105.28 11.55%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、零部件等",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "前五名供应商合计采购金额（元） 3,020,537,484.75"
+    },
+    {
+      "name": "京东方科技集团股份有限公司",
+      "target_product": null,
+      "cost_proportion": "21.37%",
+      "quote": "公司前5名供应商资料：1 京东方科技集团股份有限公司 1,811,149,152.09 21.37%"
+    },
+    {
+      "name": "咸阳彩虹光电科技有限公司",
+      "target_product": null,
+      "cost_proportion": "6.43%",
+      "quote": "公司前5名供应商资料：2 咸阳彩虹光电科技有限公司 545,041,350.94 6.43%"
+    },
+    {
+      "name": "安徽德姆勒科技股份有限公司",
+      "target_product": null,
+      "cost_proportion": "3.61%",
+      "quote": "公司前5名供应商资料：3 安徽德姆勒科技股份有限公司 305,922,976.92 3.61%"
+    },
+    {
+      "name": "深圳市鼎盛光电有限公司",
+      "target_product": null,
+      "cost_proportion": "2.34%",
+      "quote": "公司前5名供应商资料：4 深圳市鼎盛光电有限公司 198,648,102.46 2.34%"
+    },
+    {
+      "name": "惠科股份有限公司",
+      "target_product": null,
+      "cost_proportion": "1.88%",
+      "quote": "公司前5名供应商资料：5 惠科股份有限公司 159,775,902.34 1.88%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "全球消费电子市场",
+      "source_product": "彩电业务、白电业务",
+      "quote": "公司的消费电子业务主要由彩电业务和白电业务构成...白电业务主要经营冰箱、洗衣机、空调、冷柜、洗碗机等产品，业务模式为B2B和B2C，主要面对全球市场"
+    },
+    {
+      "name": "新能源、汽车电子、通信及数据中心、新消费电子",
+      "source_product": "PCB业务",
+      "quote": "PCB 业务...产品聚焦新能源、汽车电子、通信及数据中心和新消费电子四大电子领域"
+    },
+    {
+      "name": "半导体光电及存储领域",
+      "source_product": "半导体业务",
+      "quote": "目前，公司在半导体光电及存储领域进行了布局，其中光电业务重点聚焦Micro LED及Mini LED芯片、巨量转移、显示三大业务板块"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邬建军",
+      "role": "董事长、党委书记",
+      "quote": "邬建军 男 55 董事长...现任华润（集团）有限公司助理总经理，康佳集团党委书记、董事、董事长。"
+    },
+    {
+      "name": "余惠良",
+      "role": "董事、财务总监、董事会秘书",
+      "quote": "余惠良 男 45 董事、财务总监、董事会秘书...现任康佳集团党委委员、董事、财务总监、董事会秘书。"
+    },
+    {
+      "name": "史宏超",
+      "role": "副总裁",
+      "quote": "史宏超 男 59 副总裁...现任康佳集团党委委员、副总裁。"
+    },
+    {
+      "name": "董钢",
+      "role": "副总裁",
+      "quote": "董钢 男 49 副总裁...现任康佳集团党委委员、副总裁。"
+    },
+    {
+      "name": "林洪藩",
+      "role": "副总裁",
+      "quote": "林洪藩 男 55 副总裁...现任康佳集团党委委员、副总裁。"
+    },
+    {
+      "name": "姚尔芳",
+      "role": "总法律顾问",
+      "quote": "姚尔芳 女 43 总法律顾问...现任康佳集团总法律顾问、法律合规部总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国华润有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "公司实际控制人已变更为中国华润，最终实际控制人仍为国务院国资委。"
+    },
+    {
+      "name": "磐石润创（深圳）信息管理有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "磐石润创成为公司控股股东，公司实际控制人已变更为中国华润"
+    },
+    {
+      "name": "华侨城集团有限公司",
+      "relation_type": "investor",
+      "business_details": "原控股股东",
+      "quote": "为推进央企之间专业化整合，优化资源配置，2025年7月，公司原控股股东华侨城集团及其一致行动人将其持有的公司全部股权无偿划转给中国华润下属全资子企业磐石润创及合贸有限公司。"
+    },
+    {
+      "name": "北京京东世纪贸易有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户",
+      "quote": "公司前5大客户资料：1 北京京东世纪贸易有限公司 1,238,996,252.74 12.60%"
+    },
+    {
+      "name": "北京小米电子产品有限公司",
+      "relation_type": "customer",
+      "business_details": "第二大客户",
+      "quote": "公司前5大客户资料：2 北京小米电子产品有限公司 1,132,246,021.52 11.51%"
+    },
+    {
+      "name": "京东方科技集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商",
+      "quote": "公司前5名供应商资料：1 京东方科技集团股份有限公司 1,811,149,152.09 21.37%"
+    },
+    {
+      "name": "咸阳彩虹光电科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "公司前5名供应商资料：2 咸阳彩虹光电科技有限公司 545,041,350.94 6.43%"
+    },
+    {
+      "name": "阿里巴巴（中国）网络技术有限公司",
+      "relation_type": "customer",
+      "business_details": "股权转让纠纷涉及方",
+      "quote": "因股权转让纠纷，阿里巴巴（中国）网络技术有限公司起诉安徽开开视界电子商务有限公司、本公司"
+    },
+    {
+      "name": "江苏长电科技股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "存在业务重合或潜在竞争",
+      "quote": "截至本承诺函出具之日，中国华润控制的企业江苏长电科技股份有限公司与上市公司子公司康佳芯云半导体科技（盐城）有限公司在对外封测业务方面存在业务重合或潜在竞争。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "消费电子行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "8,918,039,059.06",
+      "revenue_proportion": "90.67%",
+      "gross_margin": "2.57%",
+      "yoy_change": "-12.02%",
+      "quote": "分行业：消费电子行业 8,918,039,059.06 90.67%...毛利率 2.57%"
+    },
+    {
+      "name": "半导体及存储芯片行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "162,222,125.34",
+      "revenue_proportion": "1.65%",
+      "gross_margin": null,
+      "yoy_change": "-4.69%",
+      "quote": "分行业：半导体及存储芯片行业 162,222,125.34 1.65%"
+    },
+    {
+      "name": "彩电业务",
+      "segment_type": "product_line",
+      "revenue_amount": "4,192,163,402.41",
+      "revenue_proportion": "42.62%",
+      "gross_margin": "-2.11%",
+      "yoy_change": "-16.62%",
+      "quote": "分产品：彩电业务 4,192,163,402.41 42.62%...毛利率 -2.11%"
+    },
+    {
+      "name": "白电业务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,815,259,215.10",
+      "revenue_proportion": "38.79%",
+      "gross_margin": "5.49%",
+      "yoy_change": "-7.56%",
+      "quote": "分产品：白电业务 3,815,259,215.10 38.79%...毛利率 5.49%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "6,753,418,875.25",
+      "revenue_proportion": "68.66%",
+      "gross_margin": "4.18%",
+      "yoy_change": "-14.55%",
+      "quote": "分地区：境内销售 6,753,418,875.25 68.66%...毛利率 4.18%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "3,082,056,041.28",
+      "revenue_proportion": "31.34%",
+      "gross_margin": "3.97%",
+      "yoy_change": "-4.02%",
+      "quote": "分地区：境外销售 3,082,056,041.28 31.34%...毛利率 3.97%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,784,213,234.28",
+      "revenue_proportion": "58.81%",
+      "gross_margin": "5.16%",
+      "yoy_change": "14.34%",
+      "quote": "分销售模式：直销模式 5,784,213,234.28 58.81%...毛利率 5.16%"
+    },
+    {
+      "name": "分销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,051,261,682.25",
+      "revenue_proportion": "41.19%",
+      "gross_margin": "2.63%",
+      "yoy_change": "-33.10%",
+      "quote": "分销售模式：分销模式 4,051,261,682.25 41.19%...毛利率 2.63%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "消费电子行业",
+      "metric_type": "sales_volume",
+      "value": "896万台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减：消费电子行业 销售量 万台 896 912 -1.75%"
+    },
+    {
+      "product": "消费电子行业",
+      "metric_type": "production_volume",
+      "value": "869万台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减：消费电子行业 生产量 万台 869 912 -4.71%"
+    },
+    {
+      "product": "消费电子行业",
+      "metric_type": "inventory_volume",
+      "value": "54万台",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减：消费电子行业 库存量 万台 54 81 -33.33%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "遂宁康佳电子科技产业园",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "85,606,931.30元（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "正在建设中",
+      "expected_completion_time": null,
+      "quote": "项目名称：遂宁康佳电子科技产业园...项目进度：正在建设中"
+    },
+    {
+      "name": "重庆康佳半导体光电产业园",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "半导体光电研究院项目建设已竣工验收",
+      "expected_completion_time": null,
+      "quote": "项目名称：重庆康佳半导体光电产业园...项目进度：半导体光电研究院项目建设已竣工验收"
+    },
+    {
+      "name": "新飞制冷产业园",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "项目名称：新飞制冷产业园...项目进度：新飞制冷产业园园区已投产"
+    },
+    {
+      "name": "MIP量产性验证项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "良率提升阶段",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：MIP量产性验证项目...项目进展：良率提升阶段"
+    },
+    {
+      "name": "台式8套洗碗机项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "开发样机阶段",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：台式8套洗碗机项目...项目进展：开发样机阶段"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "三级研发体系",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在研发方面，公司构建了“研究院+研究中心+基础研究”的三级研发体系"
+    },
+    {
+      "name": "Micro LED及Mini LED芯片、巨量转移、显示技术",
+      "asset_type": "core_technology",
+      "related_product": "半导体光电业务",
+      "quantitative_info": null,
+      "quote": "光电业务重点聚焦Micro LED及Mini LED芯片、巨量转移、显示三大业务板块"
+    },
+    {
+      "name": "MIP（Micro LED in package）工艺",
+      "asset_type": "process_technology",
+      "related_product": "MIP量产性验证项目",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：MIP量产性验证项目...项目目的：开发MIP（Micro LED in package）工艺"
+    },
+    {
+      "name": "RGB Mini LED显示系统",
+      "asset_type": "core_technology",
+      "related_product": "RGB Mini LED背光产品",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：RGB Mini LED显示系统...项目目的：研发RGB Mini LED背光算法、画质芯片核心技术及光学引擎"
+    },
+    {
+      "name": "热电分离金属基板技术",
+      "asset_type": "process_technology",
+      "related_product": "PCB业务",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：热电分离金属基板的研发及产业化"
+    },
+    {
+      "name": "镭射+电镀填孔铜基板技术",
+      "asset_type": "process_technology",
+      "related_product": "PCB业务",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：镭射+电镀填孔铜基板的研发"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年金额386,105,836.96元，占营业收入比例3.93%",
+      "quote": "公司研发投入情况：2025年 研发投入金额（元） 386,105,836.96...研发投入占营业收入比例 3.93%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "3,212,864,972.70元，占年度销售总额比例32.66%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 3,212,864,972.70；前五名客户合计销售金额占年度销售总额比例 32.66%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "1,238,996,252.74元，占年度销售总额比例12.60%",
+      "related_entity": "北京京东世纪贸易有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料：1 北京京东世纪贸易有限公司 1,238,996,252.74 12.60%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "3,020,537,484.75元，占年度采购总额比例35.63%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 3,020,537,484.75；前五名供应商合计采购金额占年度采购总额比例 35.63%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1,811,149,152.09元，占年度采购总额比例21.37%",
+      "related_entity": "京东方科技集团股份有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料：1 京东方科技集团股份有限公司 1,811,149,152.09 21.37%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "公司持续经营能力存在不确定性，被出具带持续经营重大不确定性段落的无保留意见审计报告",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "信永中和会计师事务所（特殊普通合伙）为公司 2025 年年度财务报告出具了带持续经营重大不确定性段落的无保留意见的审计报告"
+    },
+    {
+      "risk_type": "other",
+      "description": "归属于上市公司股东的净资产为负值，面临退市风险警示",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经公司聘请的信永中和会计师事务所（特殊普通合伙）审计确认，公司2025年度经审计的归母净资产为-6,083,071,689.95元。根据《深圳证券交易所股票上市规则》第9.3.1条第（二）款规定，上市公司出现“最近一个会计年度经审计的期末净资产为负值”的情形，对其股票交易实施退市风险警示。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司因同时触及退市风险警示和其他风险警示的情形，股票被实施*ST",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "综上所述，由于公司同时触及对股票实施退市风险警示和其他风险警示的情形，公司股票自2026年4月30日起被实施退市风险警示和其他风险警示，公司证券简称由“深康佳A”“深康佳B”变更为“*ST康佳A”“*ST康佳B”"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "消费电子业务受产品竞争力不足影响，营业收入下滑，仍处亏损状态",
+      "related_entity": null,
+      "related_product": "消费电子业务",
+      "quote": "2025年，公司消费电子业务受产品竞争力不足影响，营业收入下滑，虽整体费用同比有所压降，但毛利仍未有效覆盖费用支出，消费电子业务仍处亏损状态。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司存在多项重大诉讼、仲裁事项",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "十一、重大诉讼、仲裁事项 √ 适用 □ 不适用"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司资产负债率高，偿债压力大",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产负债率 126.22% 95.37% 30.85%"
+    }
+  ]
+}

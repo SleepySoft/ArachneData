@@ -1,0 +1,390 @@
+{
+  "company_name_mentioned": "本钢板材股份有限公司",
+  "produces": [
+    {
+      "name": "钢板",
+      "type": "device",
+      "revenue_proportion": "97.41%",
+      "quote": "分产品：钢板 45,189,113,153.31 97.41%"
+    },
+    {
+      "name": "其他（包括原材料、废品、劳务等）",
+      "type": "service",
+      "revenue_proportion": "2.59%",
+      "quote": "其他 1,203,137,341.17 2.59%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "钢铁产品",
+      "cost_proportion": "53.34%",
+      "quote": "营业成本构成：原材料 25,838,219,184.07 53.34%"
+    },
+    {
+      "name": "燃料",
+      "target_product": "钢铁产品",
+      "cost_proportion": "28.82%",
+      "quote": "燃料 13,961,313,622.33 28.82%"
+    },
+    {
+      "name": "动力",
+      "target_product": "钢铁产品",
+      "cost_proportion": "5.32%",
+      "quote": "动力 2,579,048,972.41 5.32%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车",
+      "source_product": "汽车面板、汽车钢",
+      "quote": "汽车面板、家电板、石油管线钢、集装箱板、船板等主导产品，被广泛应用于汽车、家电、石油化工、航空航天、机械制造、能源交通、建筑装潢和金属制品等领域"
+    },
+    {
+      "name": "家电",
+      "source_product": "家电板",
+      "quote": "供美的、格力等家电头部企业销量增长27%"
+    },
+    {
+      "name": "石油化工",
+      "source_product": "石油管线钢",
+      "quote": "被广泛应用于汽车、家电、石油化工、航空航天、机械制造、能源交通、建筑装潢和金属制品等领域"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "钢材产品",
+      "quote": "被广泛应用于汽车、家电、石油化工、航空航天、机械制造、能源交通、建筑装潢和金属制品等领域"
+    },
+    {
+      "name": "机械制造",
+      "source_product": "钢材产品",
+      "quote": "被广泛应用于汽车、家电、石油化工、航空航天、机械制造、能源交通、建筑装潢和金属制品等领域"
+    },
+    {
+      "name": "能源交通",
+      "source_product": "集装箱板、船板",
+      "quote": "被广泛应用于汽车、家电、石油化工、航空航天、机械制造、能源交通、建筑装潢和金属制品等领域"
+    },
+    {
+      "name": "建筑装潢",
+      "source_product": "钢材产品",
+      "quote": "被广泛应用于汽车、家电、石油化工、航空航天、机械制造、能源交通、建筑装潢和金属制品等领域"
+    },
+    {
+      "name": "光伏支架",
+      "source_product": "耐腐蚀热冲压钢",
+      "quote": "超高强稀土热冲压耐蚀光伏支架系列用钢PHS1500A/PHS1500P...实现全球首发"
+    },
+    {
+      "name": "氢能储运",
+      "source_product": "输氢管线用钢",
+      "quote": "成功开发系列输氢管线用钢，在纯氢环境中表现优异，满足高压纯氢管线需求"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄作为",
+      "role": "公司负责人（法定代表人）",
+      "quote": "公司负责人黄作为"
+    },
+    {
+      "name": "刘铁成",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人刘铁成"
+    },
+    {
+      "name": "鄂嘉楠",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）鄂嘉楠"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "鞍钢集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人：鞍钢集团有限公司"
+    },
+    {
+      "name": "本溪钢铁（集团）有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "直接控股股东",
+      "quote": "本公司直接控股股东保持不变，仍为本溪钢铁（集团）有限责任公司。"
+    },
+    {
+      "name": "本钢浦项冷轧薄板有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事钢材加工及销售",
+      "quote": "本钢浦项冷轧薄板有限责任公司 子公司 钢材加工及销售"
+    },
+    {
+      "name": "德邻陆港供应链服务有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，占年度销售总额6.51%",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 德邻陆港供应链服务有限公司 3,018,807,232.23 6.51%"
+    },
+    {
+      "name": "本溪北营钢铁（集团）股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，占年度采购总额27.78%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 本溪北营钢铁（集团）股份有限公司 13,428,325,290.67 27.78%"
+    },
+    {
+      "name": "鞍钢股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "同属鞍钢集团的上市公司",
+      "quote": "鞍钢集团有限公司间接控股鞍钢股份53.97%股份"
+    },
+    {
+      "name": "凌源钢铁股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "同属鞍钢集团的上市公司",
+      "quote": "鞍钢集团有限公司间接控股凌钢股份37.46%股份"
+    },
+    {
+      "name": "攀钢集团钒钛资源股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "同属鞍钢集团的上市公司",
+      "quote": "鞍钢集团有限公司直接及间接控股钒钛股份49.90%股份"
+    },
+    {
+      "name": "鞍钢绿金产业发展有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "共同出资设立绿金（本溪）再生资源有限公司",
+      "quote": "同意与关联方鞍钢绿金产业发展有限公司共同出资6,000万元人民币设立绿金（本溪）再生资源有限公司，其中，公司以自有资金出资3,060万元，持有合资公司51%股权，鞍钢绿金产业发展有限公司以自有资金出资2,940万元，持有合资公司49%股权。"
+    },
+    {
+      "name": "鞍钢集团财务有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联财务公司，存在存款及授信业务",
+      "quote": "鞍钢集团财务有限责任公司 同属鞍钢集团"
+    },
+    {
+      "name": "东北大学",
+      "relation_type": "supplier",
+      "business_details": "校企合作方，签订技术合作项目",
+      "quote": "强化校企合作，与东北大学、北京科技大学签订对外技术合作项目4项"
+    },
+    {
+      "name": "北京科技大学",
+      "relation_type": "supplier",
+      "business_details": "校企合作方，签订技术合作项目",
+      "quote": "强化校企合作，与东北大学、北京科技大学签订对外技术合作项目4项"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业",
+      "segment_type": "product_line",
+      "revenue_amount": "46,392,250,494.48",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "-4.42%",
+      "yoy_change": "-9.51%",
+      "quote": "分行业：工业 46,392,250,494.48 100.00%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "37,098,713,832.08",
+      "revenue_proportion": "79.97%",
+      "gross_margin": "-3.98%",
+      "yoy_change": "-12.01%",
+      "quote": "分地区：境内 37,098,713,832.08 79.97%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "9,293,536,662.40",
+      "revenue_proportion": "20.03%",
+      "gross_margin": "-6.18%",
+      "yoy_change": "2.06%",
+      "quote": "境外 9,293,536,662.40 20.03%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "30,081,663,332.86",
+      "revenue_proportion": "64.84%",
+      "gross_margin": "-4.10%",
+      "yoy_change": "-1.54%",
+      "quote": "分销售模式：直销 30,081,663,332.86 64.84%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "16,310,587,161.62",
+      "revenue_proportion": "35.16%",
+      "gross_margin": "-4.99%",
+      "yoy_change": "-21.26%",
+      "quote": "分销 16,310,587,161.62 35.16%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "生铁",
+      "metric_type": "production_volume",
+      "value": "959万吨",
+      "period": "2025年",
+      "quote": "全年完成生铁产量959万吨"
+    },
+    {
+      "product": "粗钢",
+      "metric_type": "production_volume",
+      "value": "1003万吨",
+      "period": "2025年",
+      "quote": "粗钢产量1003万吨"
+    },
+    {
+      "product": "商品材",
+      "metric_type": "production_volume",
+      "value": "1364万吨",
+      "period": "2025年",
+      "quote": "商品材1364万吨"
+    },
+    {
+      "product": "钢压延加工业",
+      "metric_type": "sales_volume",
+      "value": "13,710,113.83吨",
+      "period": "2025年",
+      "quote": "销售量 吨 13,710,113.83"
+    },
+    {
+      "product": "钢压延加工业",
+      "metric_type": "production_volume",
+      "value": "13,643,486.70吨",
+      "period": "2025年",
+      "quote": "生产量 吨 13,643,486.70"
+    },
+    {
+      "product": "钢压延加工业",
+      "metric_type": "inventory_volume",
+      "value": "310,989.31吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 310,989.31"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "炼铁总厂焦炉系统超低排项目",
+      "project_type": "capacity_expansion",
+      "progress": "已投产",
+      "quote": "炼铁总厂焦炉系统超低排、炼铁总厂化产区域VOCS收集及物料运输项目已投产。"
+    },
+    {
+      "name": "炼铁总厂焦化工序雨污分流治理项目",
+      "project_type": "construction_project",
+      "progress": "正在实施",
+      "quote": "炼铁总厂焦化工序雨污分流治理项目、热连轧厂2300线提质增效改造项目正在实施。"
+    },
+    {
+      "name": "热连轧厂2300线提质增效改造项目",
+      "project_type": "capacity_expansion",
+      "progress": "正在实施",
+      "quote": "热连轧厂2300线提质增效改造项目正在实施。"
+    },
+    {
+      "name": "特钢电炉升级改造工程项目（募投项目）",
+      "project_type": "fundraising_project",
+      "investment_amount": "141,600万元",
+      "progress": "91.13%（截至期末累计投资）",
+      "quote": "特钢电炉升级改造工程项目 141,600 141,600 0 129,042.92 91.13%"
+    },
+    {
+      "name": "CCPP发电工程项目（募投项目）",
+      "project_type": "fundraising_project",
+      "investment_amount": "83,300万元",
+      "progress": "52.22%（截至期末累计投资）",
+      "quote": "CCPP发电工程项目 83,300 83,300 76.3 43,499.08 52.22%"
+    },
+    {
+      "name": "高牌号高磁感无取向硅钢工程项目（募投项目）",
+      "project_type": "fundraising_project",
+      "investment_amount": "101,620万元",
+      "progress": "0.14%（截至期末累计投资）",
+      "quote": "高牌号高磁感无取向硅钢工程项目 否 101,620 101,620 0 141 0.14%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超高强稀土热冲压耐蚀钢",
+      "asset_type": "core_technology",
+      "related_product": "光伏支架用钢",
+      "quote": "超高强稀土热冲压耐蚀光伏支架系列用钢PHS1500A/PHS1500P...实现全球首发。"
+    },
+    {
+      "name": "低碳竞优解锁家电板生产技术",
+      "asset_type": "core_technology",
+      "related_product": "家电板",
+      "quote": "“低碳竞优解锁家电板生产技术”...实现全球首发。"
+    },
+    {
+      "name": "输氢管线用钢生产技术",
+      "asset_type": "core_technology",
+      "related_product": "输氢管线用钢",
+      "quote": "成功开发系列输氢管线用钢，在纯氢环境中表现优异，满足高压纯氢管线需求。"
+    },
+    {
+      "name": "低碳排放汽车钢生产技术",
+      "asset_type": "core_technology",
+      "related_product": "低碳排汽车钢",
+      "quote": "依托半钢工艺路径，实现综合降低碳排放30-50%。"
+    },
+    {
+      "name": "国家标准制定",
+      "asset_type": "standard",
+      "quantitative_info": "牵头完成国家标准2项，参与完成国家标准11项，牵头完成行业标准1项，参与完成行业标准3项，参与完成团体标准7项",
+      "quote": "牵头完成国家标准2项，参与完成国家标准11项，牵头完成行业标准1项，参与完成行业标准3项，参与完成团体标准7项。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "quantitative_info": "受理专利数量292件，其中海外专利受理13件；授权专利数量159件，其中发明专利79件",
+      "quote": "受理专利数量292件，其中海外专利受理13件；授权专利数量159件，其中发明专利79件。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "20.07%",
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 20.07%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "6.51%",
+      "related_entity": "德邻陆港供应链服务有限公司",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 6.51%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "49.93%",
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 49.93%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "40.56%",
+      "related_entity": "本溪北营钢铁（集团）股份有限公司等关联方",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 40.56%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "传统用钢领域需求不及预期，普材同质化竞争激烈，钢价震荡下行，毛利率持续承压；下游订单不足，产销衔接不畅，产品结构偏传统，高端汽车板、家电板认证与放量不足，盈利韧性弱。",
+      "quote": "1.市场与价格波动风险：传统用钢领域需求不及预期，普材同质化竞争激烈，钢价震荡下行，毛利率持续承压；下游订单不足，产销衔接不畅，产品结构偏传统，高端汽车板、家电板认证与放量不足，盈利韧性弱。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "超低排放改造与监测评估未达标，面临限产；碳核算体系不完善，欧盟 CBAM 碳关税增加出口成本，碳配额不足制约产能；绿色改造资金投入大，短期加重财务压力。",
+      "quote": "2.环保与低碳合规风险：超低排放改造与监测评估未达标，面临限产；碳核算体系不完善，欧盟 CBAM 碳关税增加出口成本，碳配额不足制约产能；绿色改造资金投入大，短期加重财务压力。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "资产负债率偏高，有息负债规模大，短期偿债压力突出；经营活动现金流净额波动，资金链紧张，可转债兑付存在压力；连续经营亏损，融资成本上升。",
+      "quote": "3.财务与流动性风险：资产负债率偏高，有息负债规模大，短期偿债压力突出；经营活动现金流净额波动，资金链紧张，可转债兑付存在压力；连续经营亏损，融资成本上升。"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "company_name_mentioned": "潍柴重机股份有限公司",
+  "produces": [
+    {
+      "name": "船舶动力产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司专业开发、制造和销售船舶动力和发电设备市场用34-13600马力的中高速柴油机、发电机组、推进系统及动力集成系统，及80米以下尺寸的钢质、铝质、各类复合材质高性能船艇"
+    },
+    {
+      "name": "发电机组",
+      "type": "device",
+      "revenue_proportion": "发电机组 3,049,825,936.69 49.85%",
+      "quote": "公司专业开发、制造和销售船舶动力和发电设备市场用34-13600马力的中高速柴油机、发电机组、推进系统及动力集成系统，及80米以下尺寸的钢质、铝质、各类复合材质高性能船艇"
+    },
+    {
+      "name": "船艇",
+      "type": "device",
+      "revenue_proportion": "船艇 156,405,730.69 2.56%",
+      "quote": "及80米以下尺寸的钢质、铝质、各类复合材质高性能船艇"
+    },
+    {
+      "name": "发动机",
+      "type": "device",
+      "revenue_proportion": "发动机 1,935,887,445.69 31.64%",
+      "quote": "报告期内，公司销售各类发动机、发电机组及船艇 2.53 万台（艘）"
+    },
+    {
+      "name": "配件及加工劳务",
+      "type": "service",
+      "revenue_proportion": "配件及加工劳务 536,803,172.54 8.77%",
+      "quote": "配件及加工劳务 536,803,172.54 8.77%"
+    },
+    {
+      "name": "后市场及其他",
+      "type": "service",
+      "revenue_proportion": "后市场及其他 439,295,004.60 7.18%",
+      "quote": "后市场及其他 439,295,004.60 7.18%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料成本",
+      "target_product": null,
+      "cost_proportion": "原材料成本 4,077,605,355.39 74.17%",
+      "quote": "原材料成本 4,077,605,355.39 74.17%"
+    },
+    {
+      "name": "其他成本",
+      "target_product": null,
+      "cost_proportion": "其他成本 1,263,427,993.71 22.98%",
+      "quote": "其他成本 1,263,427,993.71 22.98%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "内河船舶",
+      "source_product": "船舶动力产品",
+      "quote": "船舶动力产品广泛应用于内河船舶、沿海货船、渔船、工程船，客船、公务船艇等多个市场"
+    },
+    {
+      "name": "沿海货船",
+      "source_product": "船舶动力产品",
+      "quote": "船舶动力产品广泛应用于内河船舶、沿海货船、渔船、工程船，客船、公务船艇等多个市场"
+    },
+    {
+      "name": "渔船",
+      "source_product": "船舶动力产品",
+      "quote": "船舶动力产品广泛应用于内河船舶、沿海货船、渔船、工程船，客船、公务船艇等多个市场"
+    },
+    {
+      "name": "工程船",
+      "source_product": "船舶动力产品",
+      "quote": "船舶动力产品广泛应用于内河船舶、沿海货船、渔船、工程船，客船、公务船艇等多个市场"
+    },
+    {
+      "name": "客船",
+      "source_product": "船舶动力产品",
+      "quote": "船舶动力产品广泛应用于内河船舶、沿海货船、渔船、工程船，客船、公务船艇等多个市场"
+    },
+    {
+      "name": "公务船艇",
+      "source_product": "船舶动力产品",
+      "quote": "船舶动力产品广泛应用于内河船舶、沿海货船、渔船、工程船，客船、公务船艇等多个市场"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "发电机组",
+      "quote": "发电机组产品广泛应用于数据中心、通讯市场、船舶、海工平台、风电安装、油田、医疗等多个场景"
+    },
+    {
+      "name": "通讯市场",
+      "source_product": "发电机组",
+      "quote": "发电机组产品广泛应用于数据中心、通讯市场、船舶、海工平台、风电安装、油田、医疗等多个场景"
+    },
+    {
+      "name": "船舶",
+      "source_product": "发电机组",
+      "quote": "发电机组产品广泛应用于数据中心、通讯市场、船舶、海工平台、风电安装、油田、医疗等多个场景"
+    },
+    {
+      "name": "海工平台",
+      "source_product": "发电机组",
+      "quote": "发电机组产品广泛应用于数据中心、通讯市场、船舶、海工平台、风电安装、油田、医疗等多个场景"
+    },
+    {
+      "name": "风电安装",
+      "source_product": "发电机组",
+      "quote": "发电机组产品广泛应用于数据中心、通讯市场、船舶、海工平台、风电安装、油田、医疗等多个场景"
+    },
+    {
+      "name": "油田",
+      "source_product": "发电机组",
+      "quote": "发电机组产品广泛应用于数据中心、通讯市场、船舶、海工平台、风电安装、油田、医疗等多个场景"
+    },
+    {
+      "name": "医疗",
+      "source_product": "发电机组",
+      "quote": "发电机组产品广泛应用于数据中心、通讯市场、船舶、海工平台、风电安装、油田、医疗等多个场景"
+    },
+    {
+      "name": "公务",
+      "source_product": "船艇",
+      "quote": "船艇产品适用于公务、工作及休闲等场景"
+    },
+    {
+      "name": "工作",
+      "source_product": "船艇",
+      "quote": "船艇产品适用于公务、工作及休闲等场景"
+    },
+    {
+      "name": "休闲",
+      "source_product": "船艇",
+      "quote": "船艇产品适用于公务、工作及休闲等场景"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "傅强",
+      "role": "董事长、董事",
+      "quote": "公司负责人傅强、主管会计工作负责人温涛及会计机构负责人（会计主管人员）温涛声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "温涛",
+      "role": "主管会计工作负责人、会计机构负责人（会计主管人员）、财务总监",
+      "quote": "公司负责人傅强、主管会计工作负责人温涛及会计机构负责人（会计主管人员）温涛声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "尹晓青",
+      "role": "董事、总经理、技术总监",
+      "quote": "尹晓青先生，中国籍，1980年10月出生，现任本公司董事、总经理、技术总监等职"
+    },
+    {
+      "name": "王德华",
+      "role": "董事、销售总监",
+      "quote": "王德华先生，中国籍，1970年10月出生，现任本公司董事、销售总监、船舶动力推进系统销售公司总经理等职"
+    },
+    {
+      "name": "张良富",
+      "role": "董事",
+      "quote": "张良富先生，中国籍，1969年5月出生，本公司董事"
+    },
+    {
+      "name": "盛卫宁",
+      "role": "董事会秘书",
+      "quote": "盛卫宁先生，中国籍，1979年11月出生，现任本公司董事会秘书"
+    },
+    {
+      "name": "慕德刚",
+      "role": "副总经理",
+      "quote": "慕德刚先生，中国籍，1982年7月出生，现任本公司副总经理、安全总监、制造安全部高级主管等职"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "潍柴控股集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "潍柴集团指潍柴控股集团有限公司"
+    },
+    {
+      "name": "山东重工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "山东重工指山东重工集团有限公司"
+    },
+    {
+      "name": "潍柴动力股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "同一母公司控制的企业，为主要供应商和客户",
+      "quote": "客户1是山东重工实际控制的企业。供应商1是山东重工实际控制的企业。"
+    },
+    {
+      "name": "山东重工集团财务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "联营公司，提供财务服务",
+      "quote": "重工财务公司指山东重工集团财务有限公司"
+    },
+    {
+      "name": "山重融资租赁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "提供融资租赁服务",
+      "quote": "融资租赁公司指山重融资租赁有限公司"
+    },
+    {
+      "name": "潍柴电力设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事发电设备制造销售等",
+      "quote": "电力设备公司指潍柴电力设备有限公司"
+    },
+    {
+      "name": "常州玻璃钢造船厂有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内收购的全资子公司，从事船舶制造及销售",
+      "quote": "常玻公司指常州玻璃钢造船厂有限公司；公司于本年度收购了公司控股股东潍柴集团持有的常玻公司100%股权"
+    },
+    {
+      "name": "渤星船舶科技（青岛）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "渤星公司指渤星船舶科技（青岛）有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "通用设备制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "5,939,149,606.88",
+      "revenue_proportion": "97.07%",
+      "gross_margin": "10.07%",
+      "yoy_change": "48.59%",
+      "quote": "通用设备制造业 5,939,149,606.88 97.07%"
+    },
+    {
+      "name": "船舶设备制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "179,067,683.33",
+      "revenue_proportion": "2.93%",
+      "gross_margin": null,
+      "yoy_change": "0.03%",
+      "quote": "船舶设备制造业 179,067,683.33 2.93%"
+    },
+    {
+      "name": "发动机",
+      "segment_type": "product_line",
+      "revenue_amount": "1,935,887,445.69",
+      "revenue_proportion": "31.64%",
+      "gross_margin": "16.02%",
+      "yoy_change": "7.20%",
+      "quote": "发动机 1,935,887,445.69 31.64%"
+    },
+    {
+      "name": "发电机组",
+      "segment_type": "product_line",
+      "revenue_amount": "3,049,825,936.69",
+      "revenue_proportion": "49.85%",
+      "gross_margin": "6.41%",
+      "yoy_change": "102.54%",
+      "quote": "发电机组 3,049,825,936.69 49.85%"
+    },
+    {
+      "name": "船艇",
+      "segment_type": "product_line",
+      "revenue_amount": "156,405,730.69",
+      "revenue_proportion": "2.56%",
+      "gross_margin": null,
+      "yoy_change": "11.41%",
+      "quote": "船艇 156,405,730.69 2.56%"
+    },
+    {
+      "name": "配件及加工劳务",
+      "segment_type": "product_line",
+      "revenue_amount": "536,803,172.54",
+      "revenue_proportion": "8.77%",
+      "gross_margin": null,
+      "yoy_change": "45.44%",
+      "quote": "配件及加工劳务 536,803,172.54 8.77%"
+    },
+    {
+      "name": "后市场及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "439,295,004.60",
+      "revenue_proportion": "7.18%",
+      "gross_margin": null,
+      "yoy_change": "23.80%",
+      "quote": "后市场及其他 439,295,004.60 7.18%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "4,596,155,884.46",
+      "revenue_proportion": "75.12%",
+      "gross_margin": "12.09%",
+      "yoy_change": "49.76%",
+      "quote": "国内 4,596,155,884.46 75.12%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "1,522,061,405.75",
+      "revenue_proportion": "24.88%",
+      "gross_margin": "4.25%",
+      "yoy_change": "37.49%",
+      "quote": "国外 1,522,061,405.75 24.88%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "6,118,217,290.21",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "10.14%",
+      "yoy_change": "46.51%",
+      "quote": "直销 6,118,217,290.21 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "发动机、发电机组（通用设备制造业）",
+      "metric_type": "sales_volume",
+      "value": "25,266",
+      "period": "2025年",
+      "quote": "销售量 台 25,266"
+    },
+    {
+      "product": "发动机、发电机组（通用设备制造业）",
+      "metric_type": "production_volume",
+      "value": "20,278",
+      "period": "2025年",
+      "quote": "生产量 台 20,278"
+    },
+    {
+      "product": "发动机、发电机组（通用设备制造业）",
+      "metric_type": "inventory_volume",
+      "value": "2,469",
+      "period": "2025年末",
+      "quote": "库存量 台 2,469"
+    },
+    {
+      "product": "船艇（船舶设备制造业）",
+      "metric_type": "sales_volume",
+      "value": "48",
+      "period": "2025年",
+      "quote": "销售量 艘 48"
+    },
+    {
+      "product": "船艇（船舶设备制造业）",
+      "metric_type": "production_volume",
+      "value": "49",
+      "period": "2025年",
+      "quote": "生产量 艘 49"
+    },
+    {
+      "product": "船艇（船舶设备制造业）",
+      "metric_type": "inventory_volume",
+      "value": "7",
+      "period": "2025年末",
+      "quote": "库存量 艘 7"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购常州玻璃钢造船厂有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": "常州",
+      "investment_amount": "491,669,385.50",
+      "designed_capacity": null,
+      "progress": "交割已完成",
+      "expected_completion_time": "2025年10月",
+      "quote": "公司于2025年9月30日完成了对常玻公司100%股权的收购，本次收购属于同一控制下企业合并；投资金额：491,669,385.50元；进展：交割已完成"
+    },
+    {
+      "name": "向山东重工集团财务有限公司增资",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "261,360,000.00",
+      "designed_capacity": null,
+      "progress": "增资款已实缴到位",
+      "expected_completion_time": "2024年11月",
+      "quote": "增资款 261,360,000.00 元；进展：增资款已实缴到位；预计时间：2024年11月12日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "替代燃料技术（LNG、甲醇、生物燃料）",
+      "asset_type": "core_technology",
+      "related_product": "替代燃料发动机",
+      "quantitative_info": "在 LNG 燃料方面，布局了 11+平台，功率覆盖 40-2000kW；在甲醇燃料方面，布局了 4+平台，功率覆盖 248-1103kW；在生物柴油方面，布局了5+平台，功率覆盖182-1800kW",
+      "quote": "公司进一步夯实“LNG+甲醇+生物燃料”多元技术体系。在 LNG 燃料方面，布局了 11+平台，功率覆盖 40-2000kW；在甲醇燃料方面，布局了 4+平台，功率覆盖 248-1103kW；在生物柴油方面，布局了5+平台，功率覆盖182-1800kW"
+    },
+    {
+      "name": "WH20LNG微喷气体机、6WH17甲醇机",
+      "asset_type": "core_technology",
+      "related_product": "替代燃料发动机",
+      "quantitative_info": null,
+      "quote": "在行业内率先推出 WH20LNG微喷气体机、6WH17甲醇机等替代燃料产品"
+    },
+    {
+      "name": "国家级“绿色工厂”认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获工信部认证国家级“绿色工厂”"
+    },
+    {
+      "name": "CCS认证（生物柴油全系列）",
+      "asset_type": "certification",
+      "related_product": "生物柴油发动机",
+      "quantitative_info": "全系列取得CCS认证",
+      "quote": "全系列取得CCS认证"
+    },
+    {
+      "name": "6WH17甲醇船用发动机开发",
+      "asset_type": "core_technology",
+      "related_product": "6WH17甲醇发动机",
+      "quantitative_info": "已实现批量配套",
+      "quote": "完成6WH17甲醇发动机开发，已实现批量配套"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "45.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 45.30%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "33.20%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "客户1 2,031,086,021.13 33.20%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中关联方销售额占年度销售总额比例 33.20%",
+      "related_entity": "客户1（山东重工实际控制的企业）",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 33.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.67%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.67%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "42.21%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "供应商1 2,586,355,822.08 42.21%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额占年度采购总额比例 42.21%",
+      "related_entity": "供应商1（山东重工实际控制的企业）",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 42.21%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "全球经济相对低迷及地缘政治冲突，全球新船订单同比出现明显萎缩",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受全球经济相对低迷及地缘政治冲突等扰动影响，全球新船订单同比出现明显萎缩"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "2026年初修订发布的《交通运输老旧营运船舶报废更新补贴实施细则》，推动市场订单向技术实力强的龙头企业集中",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2026 年初修订发布的《交通运输老旧营运船舶报废更新补贴实施细则》，通过调整补贴系数、强化 CCS 检验要求及十年运营承诺等条款，进一步优化了政策激励的精准性与长效性，推动市场订单向技术实力强的龙头企业集中。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "在环保法规和能源转型双重驱动下，绿色船舶成为发展主线，需要持续进行技术迭代",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在环保法规和能源转型双重驱动下，绿色船舶成为发展主线"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司营业成本中原材料成本占比高，原材料价格波动影响大",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料成本 4,077,605,355.39 74.17%"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户集中度较高，前五大客户销售占比达45.30%",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 45.30%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "供应商集中度较高，前五大供应商采购占比达50.67%",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.67%"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "全球贸易体系不确定性加剧，地缘政治冲突持续外溢",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025 年，全球贸易体系不确定性加剧，地缘政治冲突持续外溢，共同导致国际经济增长放缓，国际供应链体系承压"
+    }
+  ]
+}

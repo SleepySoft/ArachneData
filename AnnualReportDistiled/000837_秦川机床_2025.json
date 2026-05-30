@@ -1,0 +1,709 @@
+{
+  "company_name_mentioned": "秦川机床工具集团股份公司",
+  "produces": [
+    {
+      "name": "精密磨齿机",
+      "type": "device",
+      "revenue_proportion": "50.48%",
+      "quote": "机床类 2,064,471,807.55 50.48%"
+    },
+    {
+      "name": "数控车床 CK/BL系列",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "数控车床 CK/BL系列"
+    },
+    {
+      "name": "五轴卧式加工中心（SAJO系列）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "五轴卧式加工中心（SAJO系列）"
+    },
+    {
+      "name": "五轴立式铣车（车铣）复合加工中心",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "五轴立式铣车（车铣）复合加工中心"
+    },
+    {
+      "name": "五轴卧式车铣（铣车）复合加工中心",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "五轴卧式车铣（铣车）复合加工中心"
+    },
+    {
+      "name": "龙门式车铣复合加工中心",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "龙门式车铣复合加工中心"
+    },
+    {
+      "name": "数控外螺纹磨床",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "数控外螺纹磨床"
+    },
+    {
+      "name": "数控内螺纹磨床",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "数控内螺纹磨床"
+    },
+    {
+      "name": "外圆磨床",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "外圆磨床"
+    },
+    {
+      "name": "自动化产线",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "自动化产线"
+    },
+    {
+      "name": "测量设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "测量设备"
+    },
+    {
+      "name": "滚珠丝杠",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "滚珠丝杠"
+    },
+    {
+      "name": "滚动直线导轨",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "滚动直线导轨"
+    },
+    {
+      "name": "高端复杂刀具",
+      "type": "component",
+      "revenue_proportion": "9.05%",
+      "quote": "工具类 370,007,630.74 9.05%"
+    },
+    {
+      "name": "工业机器人关节减速器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "工业机器人关节减速器"
+    },
+    {
+      "name": "齿轮箱系列",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "齿轮箱系列"
+    },
+    {
+      "name": "传动齿轮",
+      "type": "component",
+      "revenue_proportion": "35.99%",
+      "quote": "零部件类 1,471,863,882.66 35.99%"
+    },
+    {
+      "name": "数控系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "数控系统"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司数控机床整机及功能部件所需的原材料主要包括钢材、生铁等"
+    },
+    {
+      "name": "生铁",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司数控机床整机及功能部件所需的原材料主要包括钢材、生铁等"
+    },
+    {
+      "name": "核心零部件（国外进口）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "部分核心零部件主要从国外进口"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车工业",
+      "source_product": "精密磨齿机、数控车床、加工中心、自动化产线、刀具等",
+      "quote": "主要适用于汽车、工程机械、海洋工程、机床、石油化工等领域。在新能源汽车、精密减速器领域广泛应用。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "精密磨齿机、滚动功能部件、齿轮",
+      "quote": "在新能源汽车、精密减速器领域广泛应用。"
+    },
+    {
+      "name": "工程机械",
+      "source_product": "精密磨齿机、加工中心、刀具等",
+      "quote": "主要适用于汽车、工程机械、海洋工程、机床、石油化工等领域。"
+    },
+    {
+      "name": "工业机器人",
+      "source_product": "工业机器人关节减速器、滚动功能部件",
+      "quote": "主要应用在工业机器人、精密转台、机床刀塔、机床 ATC 刀库、医疗器械等各个工业领域"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "滚动功能部件、外圆磨床",
+      "quote": "适用于数控机床、轨道交通、汽车制造、机械制造、塑料机械、机器人、自动化、医疗、金属冶炼等领域"
+    },
+    {
+      "name": "能源（风电、油气等）",
+      "source_product": "加工中心、齿轮箱",
+      "quote": "主要适用于风电、能源、油气、螺杆、曲轴及通用加工领域。"
+    },
+    {
+      "name": "医疗器械",
+      "source_product": "加工中心、工业机器人关节减速器",
+      "quote": "适用于新能源、半导体、靶材、汽车、机械、摩托车、电机、轴承、液压等领域。"
+    },
+    {
+      "name": "智能家电",
+      "source_product": "高端复杂刀具",
+      "quote": "主要用于汽车、新能源、机器人、智能家电、工程机械、机床等高端制造行业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "马旭耀",
+      "role": "董事长",
+      "quote": "公司负责人马旭耀、主管会计工作负责人刘源及会计机构负责人（会计主管人员）石列文声明"
+    },
+    {
+      "name": "刘源",
+      "role": "财务总监、主管会计工作负责人",
+      "quote": "公司负责人马旭耀、主管会计工作负责人刘源及会计机构负责人（会计主管人员）石列文声明"
+    },
+    {
+      "name": "石列文",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人马旭耀、主管会计工作负责人刘源及会计机构负责人（会计主管人员）石列文声明"
+    },
+    {
+      "name": "李静",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 李静"
+    },
+    {
+      "name": "刘金勇",
+      "role": "总经理、董事",
+      "quote": "刘金勇 男 57 总经理 现任"
+    },
+    {
+      "name": "寇植达",
+      "role": "董事",
+      "quote": "寇植达 男 43 董事 现任"
+    },
+    {
+      "name": "华斌",
+      "role": "职工董事",
+      "quote": "华 斌 男 53 职工董事 现任"
+    },
+    {
+      "name": "刘耀",
+      "role": "副总经理",
+      "quote": "刘 耀 男 42 副总经理 现任"
+    },
+    {
+      "name": "曾冉",
+      "role": "副总经理",
+      "quote": "曾 冉 男 47 副总经理 现任"
+    },
+    {
+      "name": "庞亮",
+      "role": "副总经理",
+      "quote": "庞 亮 男 46 副总经理 现任"
+    },
+    {
+      "name": "聂丽洁",
+      "role": "独立董事",
+      "quote": "聂丽洁 女 66 独立董事 现任"
+    },
+    {
+      "name": "李学楠",
+      "role": "独立董事",
+      "quote": "李学楠 女 48 独立董事 现任"
+    },
+    {
+      "name": "李兵",
+      "role": "独立董事",
+      "quote": "李 兵 男 60 独立董事 现任"
+    },
+    {
+      "name": "王俊锋",
+      "role": "董事",
+      "quote": "王俊锋 男 58 董事 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "陕西法士特汽车传动集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "2020年04月27日公司控股股东由陕西省国资委变更为法士特集团"
+    },
+    {
+      "name": "陕西省人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "陕西省国资委 指 陕西省人民政府国有资产监督管理委员会"
+    },
+    {
+      "name": "陕西省产业投资有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "陕西产投 指 陕西省产业投资有限公司"
+    },
+    {
+      "name": "中国长城资产管理股份有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "长城资产 指 中国长城资产管理股份有限公司"
+    },
+    {
+      "name": "宝鸡机床集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营机床",
+      "quote": "宝鸡机床 指 宝鸡机床集团有限公司"
+    },
+    {
+      "name": "陕西汉江机床有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营机床、零部件",
+      "quote": "汉江机床 指 陕西汉江机床有限公司"
+    },
+    {
+      "name": "汉江工具有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营机床工具",
+      "quote": "汉江工具 指 汉江工具有限责任公司"
+    },
+    {
+      "name": "陕西法士特沃克齿轮有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营齿轮部件制造",
+      "quote": "沃克齿轮 指 陕西法士特沃克齿轮有限公司"
+    },
+    {
+      "name": "陕西秦川格兰德机床有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "秦川格兰德 指 陕西秦川格兰德机床有限公司"
+    },
+    {
+      "name": "秦川集团宝鸡仪表有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "秦川宝仪 指 秦川集团宝鸡仪表有限公司"
+    },
+    {
+      "name": "西安秦川数控系统工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营数控系统",
+      "quote": "秦川数控 指 西安秦川数控系统工程有限公司"
+    },
+    {
+      "name": "陕西智能机床创新中心有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "创新中心 指 陕西智能机床创新中心有限公司"
+    },
+    {
+      "name": "中信证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "保荐机构",
+      "quote": "中信证券股份有限公司"
+    },
+    {
+      "name": "天职国际会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "审计机构",
+      "quote": "天职国际会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "西安法士特汽车传动有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方客户，销售商品、提供劳务",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 14.80%"
+    },
+    {
+      "name": "国开发展基金有限公司",
+      "relation_type": "other",
+      "business_details": "投资者，持有子公司股份",
+      "quote": "按投资回购计划于2025年11月23日一次性回购国开发展基金持有的本公司子公司陕西秦川设备成套服务有限公司股份"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "机床类",
+      "segment_type": "product_line",
+      "revenue_amount": "2,064,471,807.55",
+      "revenue_proportion": "50.48%",
+      "gross_margin": "19.98%",
+      "yoy_change": "6.02%",
+      "quote": "机床类 2,064,471,807.55 50.48% 1,947,172,137.08 50.44% 6.02%"
+    },
+    {
+      "name": "零部件类",
+      "segment_type": "product_line",
+      "revenue_amount": "1,471,863,882.66",
+      "revenue_proportion": "35.99%",
+      "gross_margin": "10.54%",
+      "yoy_change": "7.14%",
+      "quote": "零部件类 1,471,863,882.66 35.99% 1,373,799,905.13 35.59% 7.14%"
+    },
+    {
+      "name": "工具类",
+      "segment_type": "product_line",
+      "revenue_amount": "370,007,630.74",
+      "revenue_proportion": "9.05%",
+      "gross_margin": null,
+      "yoy_change": "13.60%",
+      "quote": "工具类 370,007,630.74 9.05% 325,699,814.08 8.44% 13.60%"
+    },
+    {
+      "name": "仪器仪表类",
+      "segment_type": "product_line",
+      "revenue_amount": "89,527,464.45",
+      "revenue_proportion": "2.19%",
+      "gross_margin": null,
+      "yoy_change": "0.60%",
+      "quote": "仪器仪表类 89,527,464.45 2.19% 88,996,441.76 2.31% 0.60%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,703,115,835.02",
+      "revenue_proportion": "41.64%",
+      "gross_margin": "15.06%",
+      "yoy_change": "28.37%",
+      "quote": "华东地区 1,703,115,835.02 41.64% 1,326,707,411.76 34.37% 28.37%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "1,044,350,665.95",
+      "revenue_proportion": "25.54%",
+      "gross_margin": "23.20%",
+      "yoy_change": "-5.07%",
+      "quote": "西北地区 1,044,350,665.95 25.54% 1,100,162,655.71 28.50% -5.07%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "机床类",
+      "metric_type": "sales_volume",
+      "value": "8,907",
+      "period": "2025",
+      "quote": "销售量 台 8,907 9,656 -7.76%"
+    },
+    {
+      "product": "机床类",
+      "metric_type": "production_volume",
+      "value": "8,859",
+      "period": "2025",
+      "quote": "生产量 台 8,859 9,295 -4.69%"
+    },
+    {
+      "product": "机床类",
+      "metric_type": "inventory_volume",
+      "value": "1,255",
+      "period": "2025年末",
+      "quote": "库存量 台 1,255 1,303 -3.68%"
+    },
+    {
+      "product": "零部件类",
+      "metric_type": "sales_volume",
+      "value": "12,381,656",
+      "period": "2025",
+      "quote": "销售量 件 12,381,656 11,298,259 9.59%"
+    },
+    {
+      "product": "零部件类",
+      "metric_type": "production_volume",
+      "value": "14,626,788",
+      "period": "2025",
+      "quote": "生产量 件 14,626,788 11,514,617 27.03%"
+    },
+    {
+      "product": "零部件类",
+      "metric_type": "inventory_volume",
+      "value": "4,333,632",
+      "period": "2025年末",
+      "quote": "库存量 件 4,333,632 2,088,500 107.50%"
+    },
+    {
+      "product": "工具类",
+      "metric_type": "sales_volume",
+      "value": "136,174",
+      "period": "2025",
+      "quote": "销售量 件 136,174 125,205 8.76%"
+    },
+    {
+      "product": "工具类",
+      "metric_type": "production_volume",
+      "value": "136,108",
+      "period": "2025",
+      "quote": "生产量 件 136,108 122,494 11.11%"
+    },
+    {
+      "product": "仪器仪表类",
+      "metric_type": "sales_volume",
+      "value": "554,793",
+      "period": "2025",
+      "quote": "销售量 个 554,793 512,202 8.32%"
+    },
+    {
+      "product": "仪器仪表类",
+      "metric_type": "production_volume",
+      "value": "553,515",
+      "period": "2025",
+      "quote": "生产量 个 553,515 521,081 6.22%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "秦创原·秦川集团高档工业母机创新基地项目（一期）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "45,396.23",
+      "designed_capacity": null,
+      "progress": "77.43%",
+      "expected_completion_time": "2025年02月28日",
+      "quote": "秦创原·秦川集团高档工业母机创新基地项目(一期)"
+    },
+    {
+      "name": "新能源汽车领域滚动功能部件研发与产业化建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "18,000.00",
+      "designed_capacity": null,
+      "progress": "99.85%",
+      "expected_completion_time": "2025年06月30日",
+      "quote": "新能源汽车领域滚动功能部件研发与产业化建设项目"
+    },
+    {
+      "name": "新能源乘用车零部件建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "12,955.00",
+      "designed_capacity": null,
+      "progress": "94.43%",
+      "expected_completion_time": "2024年05月31日",
+      "quote": "新能源乘用车零部件建设项目"
+    },
+    {
+      "name": "复杂刀具产业链强链补链赋能提升技术改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10,000.00",
+      "designed_capacity": null,
+      "progress": "100.12%",
+      "expected_completion_time": "2025年06月30日",
+      "quote": "复杂刀具产业链强链补链赋能提升技术改造项目"
+    },
+    {
+      "name": "宝鸡机床集团高档金属切削机床制造工业园（一期）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "99,000,000.00",
+      "designed_capacity": null,
+      "progress": "42.57%",
+      "expected_completion_time": null,
+      "quote": "宝鸡机床集团高档金属切削机床制造工业园（一期）"
+    },
+    {
+      "name": "新能源乘用车高精齿轮高端化改造项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "审议《关于子公司沃克齿轮投资建设“新能源乘用车高精齿轮高端化改造项目”的议案》"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "蜗杆磨、成形磨、复合磨三大系列精密数控磨齿机",
+      "asset_type": "core_technology",
+      "related_product": "精密磨齿机",
+      "quantitative_info": "具备蜗杆磨、成形磨、复合磨三大系列、20多个主流规格型号",
+      "quote": "公司已具备蜗杆磨、成形磨、复合磨三大系列、20 多个主流规格型号的精密数控磨齿机研发与制造能力"
+    },
+    {
+      "name": "工业机器人关节减速器",
+      "asset_type": "core_technology",
+      "related_product": "工业机器人关节减速器",
+      "quantitative_info": "6大系列、50多种规格、200多种速比",
+      "quote": "秦川机床的工业机器人关节减速器已形成 6大系列、50多种规格、200多种速比"
+    },
+    {
+      "name": "QCNC68系列数控系统",
+      "asset_type": "core_technology",
+      "related_product": "数控系统",
+      "quantitative_info": null,
+      "quote": "其自主研发的 QCNC68系列数控系统，已成功应用于齿轮机床、五轴机床等高端机床设备"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年申请专利 74 件（发明专利 31件），授权专利 51项（发明专利 7件）",
+      "quote": "公司全年申请专利 74 件（发明专利 31件），授权专利 51项（发明专利 7件）"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "获软件著作权 25项",
+      "quote": "获软件著作权 25项"
+    },
+    {
+      "name": "国家科技进步一等奖",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获得“国家科技进步一等奖”"
+    },
+    {
+      "name": "国家科技进步二等奖",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“国家科技进步二等奖”"
+    },
+    {
+      "name": "中国工业大奖项目表彰奖",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“中国工业大奖项目表彰奖”"
+    },
+    {
+      "name": "制造业单项冠军产品",
+      "asset_type": "certification",
+      "related_product": "数控磨齿机",
+      "quantitative_info": null,
+      "quote": "国家工信部“制造业单项冠军产品”与“制造业单项冠军企业”称号"
+    },
+    {
+      "name": "中国驰名商标",
+      "asset_type": "certification",
+      "related_product": "“秦川 QINCHUAN”商标",
+      "quantitative_info": null,
+      "quote": "“秦川 QINCHUAN”商标荣获“中国驰名商标”称号。"
+    },
+    {
+      "name": "标准制定",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "制定标准 20余项（参与制定国家标准4项）",
+      "quote": "制定标准 20余项（参与制定国家标准4项）"
+    },
+    {
+      "name": "“高性能制造颤振宽频域监控技术及系列化装备”",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司参与的“高性能制造颤振宽频域监控技术及系列化装备”和主导的“高效能车齿核心技术攻关及产业化应用”分别荣获陕西省科学技术发明奖一等奖和科学技术进步奖三等奖"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "22.61%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 22.61%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.80%",
+      "related_entity": "第一名客户",
+      "period": "2025",
+      "quote": "第一名客户 605,375,373.71 14.80%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "13.94%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 13.94%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 14.80%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": null,
+      "related_entity": "国外进口",
+      "period": null,
+      "quote": "部分核心零部件主要从国外进口"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "高端数控机床市场仍主要由德国、日本等国际领先企业占据，国内企业在技术积淀、全球化服务网络等方面仍存差距。",
+      "related_entity": null,
+      "related_product": "高端数控机床",
+      "quote": "当前，高端数控机床市场仍主要由德国、日本等国际领先企业占据，国内企业在技术积淀、全球化服务网络等方面仍存差距。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司数控机床整机及功能部件所需的原材料主要包括钢材、生铁等，该类原材料受大宗商品期货市场价格和汇率影响，可能引发原材料价格波动风险；部分核心零部件主要从国外进口，受国际贸易环境的影响，可能导致公司采购成本增加。",
+      "related_entity": null,
+      "related_product": "数控机床整机及功能部件",
+      "quote": "原材料价格波动带来的风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "部分核心零部件主要从国外进口，受国际贸易环境的影响，可能导致公司采购成本增加。",
+      "related_entity": null,
+      "related_product": "核心零部件",
+      "quote": "部分核心零部件主要从国外进口，受国际贸易环境的影响，可能导致公司采购成本增加。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济不确定性增强，国内固定资产投资增速可能受宏观经济不确定性抑制，抑或是核心产品主要应用领域行业终端需求萎缩或技术升级放缓等不利因素会带来行业景气度波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济和行业景气度波动风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "国家政策调整等不可抗力可能导致本公司及本公司控股子公司未来从事的业务与秦川机床现有业务产生竞争或可能导致竞争。",
+      "related_entity": "控股股东法士特集团",
+      "related_product": null,
+      "quote": "若因国家政策调整等不可抗力导致本公司及本公司控股子公司未来从事的业务与秦川机床现有业务产生竞争或可能导致竞争的"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例22.61%，其中关联方销售额占比14.80%，存在一定的客户集中风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 22.61%"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "本报告期公司对应收账款、存货等资产进行了减值测试，共计提各项减值准备10,324万元。",
+      "related_entity": null,
+      "related_product": "应收账款、存货",
+      "quote": "本报告期公司对应收账款、存货等资产进行了减值测试，共 计提各项减值准备10,324万元"
+    }
+  ]
+}

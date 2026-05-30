@@ -1,0 +1,538 @@
+{
+  "company_name_mentioned": "炬申物流集团股份有限公司",
+  "produces": [
+    {
+      "name": "运输服务",
+      "type": "service",
+      "revenue_proportion": "83.44%",
+      "quote": "运输服务 1,576,388,491.68 83.44%"
+    },
+    {
+      "name": "仓储综合服务",
+      "type": "service",
+      "revenue_proportion": "16.18%",
+      "quote": "仓储综合服务 305,743,124.42 16.18%"
+    },
+    {
+      "name": "其他业务收入",
+      "type": "service",
+      "revenue_proportion": "0.37%",
+      "quote": "其他业务收入 7,040,251.86 0.37%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "运费",
+      "target_product": null,
+      "cost_proportion": "77.95%",
+      "quote": "运费 1,304,068,431.23 77.95%"
+    },
+    {
+      "name": "仓储及装卸费",
+      "target_product": null,
+      "cost_proportion": "4.40%",
+      "quote": "仓储及装卸费 73,584,777.22 4.40%"
+    },
+    {
+      "name": "折旧及摊销",
+      "target_product": null,
+      "cost_proportion": "4.82%",
+      "quote": "折旧及摊销 80,651,293.98 4.82%"
+    },
+    {
+      "name": "职工薪酬",
+      "target_product": null,
+      "cost_proportion": "6.18%",
+      "quote": "职工薪酬 103,469,463.34 6.18%"
+    },
+    {
+      "name": "油费",
+      "target_product": null,
+      "cost_proportion": "2.82%",
+      "quote": "油费 47,152,916.27 2.82%"
+    },
+    {
+      "name": "低值易耗品",
+      "target_product": null,
+      "cost_proportion": "1.35%",
+      "quote": "低值易耗品 22,553,662.43 1.35%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "大宗商品物流仓储",
+      "source_product": "运输服务、仓储综合服务",
+      "quote": "公司所处大类行业为现代物流业中的大宗商品专业物流细分领域，核心业务涵盖物流综合服务与仓储综合服务两大板块"
+    },
+    {
+      "name": "有色金属",
+      "source_product": "仓储综合服务",
+      "quote": "服务品类现已涵盖铝锭、铝棒、氧化铝、电解铜、不锈钢、铝合金锭、铝卷、锌锭、锡锭、铸造铝合金、工业硅、PVC、棉纱及原木等品种"
+    },
+    {
+      "name": "期货交割",
+      "source_product": "仓储综合服务",
+      "quote": "目前公司拥有上期所铝、铜、锌、锡、氧化铝、铸造铝合金、不锈钢期货指定交割仓库资质、广期所工业硅期货指定交割仓库资质、郑商所棉纱期货指定交割仓库资质和大商所原木指定车板交割场所资质"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "雷琦",
+      "role": "董事长、总经理",
+      "quote": "公司负责人雷琦... 2016年6月至今，担任公司董事长、总经理"
+    },
+    {
+      "name": "李俊斌",
+      "role": "董事、副总经理",
+      "quote": "2021年6月至今任公司董事；2021年12月至今任公司副总经理"
+    },
+    {
+      "name": "曾勇发",
+      "role": "董事、副总经理",
+      "quote": "2022年6月至今任公司董事、副总经理"
+    },
+    {
+      "name": "陈升",
+      "role": "董事",
+      "quote": "2016年6月至今，担任公司董事"
+    },
+    {
+      "name": "李萍",
+      "role": "独立董事",
+      "quote": "2020年7月至今，担任公司独立董事"
+    },
+    {
+      "name": "匡同春",
+      "role": "独立董事",
+      "quote": "2020年7月至今，担任公司独立董事"
+    },
+    {
+      "name": "石安琴",
+      "role": "独立董事",
+      "quote": "2025年6月至今，担任公司独立董事"
+    },
+    {
+      "name": "余思榆",
+      "role": "财务负责人",
+      "quote": "现任公司财务中心总监、财务负责人"
+    },
+    {
+      "name": "裴爽",
+      "role": "董事会秘书",
+      "quote": "2023年3月至今担任公司董事会秘书职务"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "天山铝业",
+      "relation_type": "customer",
+      "business_details": "服务客户包括...天山铝业",
+      "quote": "服务客户包括天山铝业、中铝集团、东方希望、嘉能可、信发集团、中国宏桥及国家电投等"
+    },
+    {
+      "name": "中铝集团",
+      "relation_type": "customer",
+      "business_details": "服务客户包括...中铝集团",
+      "quote": "服务客户包括天山铝业、中铝集团、东方希望、嘉能可、信发集团、中国宏桥及国家电投等"
+    },
+    {
+      "name": "东方希望",
+      "relation_type": "customer",
+      "business_details": "服务客户包括...东方希望",
+      "quote": "服务客户包括天山铝业、中铝集团、东方希望、嘉能可、信发集团、中国宏桥及国家电投等"
+    },
+    {
+      "name": "嘉能可",
+      "relation_type": "customer",
+      "business_details": "服务客户包括...嘉能可",
+      "quote": "服务客户包括天山铝业、中铝集团、东方希望、嘉能可、信发集团、中国宏桥及国家电投等"
+    },
+    {
+      "name": "信发集团",
+      "relation_type": "customer",
+      "business_details": "服务客户包括...信发集团",
+      "quote": "服务客户包括天山铝业、中铝集团、东方希望、嘉能可、信发集团、中国宏桥及国家电投等"
+    },
+    {
+      "name": "中国宏桥",
+      "relation_type": "customer",
+      "business_details": "服务客户包括...中国宏桥",
+      "quote": "服务客户包括天山铝业、中铝集团、东方希望、嘉能可、信发集团、中国宏桥及国家电投等"
+    },
+    {
+      "name": "国家电投",
+      "relation_type": "customer",
+      "business_details": "服务客户包括...国家电投",
+      "quote": "服务客户包括天山铝业、中铝集团、东方希望、嘉能可、信发集团、中国宏桥及国家电投等"
+    },
+    {
+      "name": "上海期货交易所",
+      "relation_type": "customer",
+      "business_details": "公司与国内四大期货（商品）交易所建立了长期合作",
+      "quote": "公司与国内四大期货（商品）交易所建立了长期合作"
+    },
+    {
+      "name": "广州期货交易所",
+      "relation_type": "customer",
+      "business_details": "公司与国内四大期货（商品）交易所建立了长期合作",
+      "quote": "公司与国内四大期货（商品）交易所建立了长期合作"
+    },
+    {
+      "name": "郑州商品交易所",
+      "relation_type": "customer",
+      "business_details": "公司与国内四大期货（商品）交易所建立了长期合作",
+      "quote": "公司与国内四大期货（商品）交易所建立了长期合作"
+    },
+    {
+      "name": "大连商品交易所",
+      "relation_type": "customer",
+      "business_details": "公司与国内四大期货（商品）交易所建立了长期合作",
+      "quote": "公司与国内四大期货（商品）交易所建立了长期合作"
+    },
+    {
+      "name": "第一名",
+      "relation_type": "customer",
+      "business_details": "前五名客户合计销售金额736,319,002.56元",
+      "quote": "第一名 308,945,966.35 16.35%"
+    },
+    {
+      "name": "第二名",
+      "relation_type": "customer",
+      "business_details": "前五名客户合计销售金额736,319,002.56元",
+      "quote": "第二名 160,604,249.89 8.50%"
+    },
+    {
+      "name": "第三名",
+      "relation_type": "customer",
+      "business_details": "前五名客户合计销售金额736,319,002.56元",
+      "quote": "第三名 101,191,764.65 5.36%"
+    },
+    {
+      "name": "第四名",
+      "relation_type": "customer",
+      "business_details": "前五名客户合计销售金额736,319,002.56元",
+      "quote": "第四名 90,241,175.63 4.78%"
+    },
+    {
+      "name": "第五名",
+      "relation_type": "customer",
+      "business_details": "前五名客户合计销售金额736,319,002.56元",
+      "quote": "第五名 75,335,846.04 3.99%"
+    },
+    {
+      "name": "第一名",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商合计采购金额1,065,774,941.59元",
+      "quote": "第一名 537,811,681.99 35.56%"
+    },
+    {
+      "name": "第二名",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商合计采购金额1,065,774,941.59元",
+      "quote": "第二名 199,203,932.34 13.17%"
+    },
+    {
+      "name": "第三名",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商合计采购金额1,065,774,941.59元",
+      "quote": "第三名 159,269,004.14 10.53%"
+    },
+    {
+      "name": "第四名",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商合计采购金额1,065,774,941.59元",
+      "quote": "第四名 133,639,151.83 8.84%"
+    },
+    {
+      "name": "第五名",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商合计采购金额1,065,774,941.59元",
+      "quote": "第五名 35,851,171.29 2.37%"
+    },
+    {
+      "name": "Elite Mining Guinea S.A.",
+      "relation_type": "customer",
+      "business_details": "已签订的重大销售合同",
+      "quote": "几内亚 Elite Mining Guinea S.A.公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "运输服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,576,388,491.68元",
+      "revenue_proportion": "83.44%",
+      "gross_margin": "2.38%",
+      "yoy_change": "108.76%",
+      "quote": "运输服务 1,576,388,491.68 83.44% ... 毛利率比上年同期增减 -0.74%"
+    },
+    {
+      "name": "仓储综合服务",
+      "segment_type": "product_line",
+      "revenue_amount": "305,743,124.42元",
+      "revenue_proportion": "16.18%",
+      "gross_margin": "57.30%",
+      "yoy_change": "11.85%",
+      "quote": "仓储综合服务 305,743,124.42 16.18% ... 毛利率比上年同期增减 -1.90%"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "704,826,783.58元",
+      "revenue_proportion": "37.31%",
+      "gross_margin": null,
+      "yoy_change": "134.10%",
+      "quote": "华南 704,826,783.58 37.31% ... 同比增减 134.10%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "368,084,292.60元",
+      "revenue_proportion": "19.48%",
+      "gross_margin": null,
+      "yoy_change": "21.49%",
+      "quote": "华东 368,084,292.60 19.48% ... 同比增减 21.49%"
+    },
+    {
+      "name": "西南",
+      "segment_type": "region",
+      "revenue_amount": "84,048,299.60元",
+      "revenue_proportion": "4.45%",
+      "gross_margin": null,
+      "yoy_change": "12.21%",
+      "quote": "西南 84,048,299.60 4.45% ... 同比增减 12.21%"
+    },
+    {
+      "name": "西北",
+      "segment_type": "region",
+      "revenue_amount": "326,727,399.11元",
+      "revenue_proportion": "17.29%",
+      "gross_margin": null,
+      "yoy_change": "132.13%",
+      "quote": "西北 326,727,399.11 17.29% ... 同比增减 132.13%"
+    },
+    {
+      "name": "华中",
+      "segment_type": "region",
+      "revenue_amount": "141,801,867.05元",
+      "revenue_proportion": "7.51%",
+      "gross_margin": null,
+      "yoy_change": "36.60%",
+      "quote": "华中 141,801,867.05 7.51% ... 同比增减 36.60%"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "154,904,670.23元",
+      "revenue_proportion": "8.20%",
+      "gross_margin": null,
+      "yoy_change": "43.63%",
+      "quote": "华北 154,904,670.23 8.20% ... 同比增减 43.63%"
+    },
+    {
+      "name": "东北",
+      "segment_type": "region",
+      "revenue_amount": "672,361.07元",
+      "revenue_proportion": "0.04%",
+      "gross_margin": null,
+      "yoy_change": "-6.27%",
+      "quote": "东北 672,361.07 0.04% ... 同比增减 -6.27%"
+    },
+    {
+      "name": "港澳台地区及海外",
+      "segment_type": "region",
+      "revenue_amount": "108,106,194.72元",
+      "revenue_proportion": "5.72%",
+      "gross_margin": null,
+      "yoy_change": "1,262.23%",
+      "quote": "港澳台地区及海外 108,106,194.72 5.72% ... 同比增减 1,262.23%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "炬申仓储四期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "3,232.96万元",
+      "designed_capacity": null,
+      "progress": "88.95%",
+      "expected_completion_time": "2026年08月",
+      "quote": "炬申仓储四期项目 ... 截至报告期末累计投入金额 2,875.84万元 ... 投资进度 88.95% ... 项目达到预定可使用状态日期 2026年08月"
+    },
+    {
+      "name": "巩义大宗商品交易交割中心项目",
+      "project_type": "capacity_expansion",
+      "location": "巩义",
+      "investment_amount": "1,019.27万元",
+      "designed_capacity": null,
+      "progress": "100.03%",
+      "expected_completion_time": "2027年08月",
+      "quote": "炬申股份巩义大宗商品交易交割中心项目 ... 截至报告期末累计投入金额 1,019.54万元 ... 投资进度 100.03% ... 项目达到预定可使用状态日期 2027年08月"
+    },
+    {
+      "name": "炬申大宗商品物流仓储中心项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "7,000万元",
+      "designed_capacity": null,
+      "progress": "100.55%",
+      "expected_completion_time": "2026年05月",
+      "quote": "炬申大宗商品物流仓储中心项目 ... 截至报告期末累计投入金额 7,038.49万元 ... 投资进度 100.55% ... 项目达到预定可使用状态日期 2026年05月"
+    },
+    {
+      "name": "炬申准东陆路港项目",
+      "project_type": "capacity_expansion",
+      "location": "准东",
+      "investment_amount": "22,326.43万元",
+      "designed_capacity": null,
+      "progress": "90.16%",
+      "expected_completion_time": "已投产",
+      "quote": "炬申准东陆路港项目 ... 截至报告期末累计投入金额 14,801.07万元 ... 投资进度 90.16% ... 项目达到预定可使用状态日期 2023年08月"
+    },
+    {
+      "name": "钦州临港物流园项目",
+      "project_type": "capacity_expansion",
+      "location": "钦州",
+      "investment_amount": "1,177.00万元",
+      "designed_capacity": null,
+      "progress": "100.92%",
+      "expected_completion_time": "已投产",
+      "quote": "钦州临港物流园项目 ... 截至报告期末累计投入金额 5,733.28万元 ... 投资进度 100.92% ... 项目达到预定可使用状态日期 2022年06月"
+    },
+    {
+      "name": "供应链管理信息化升级建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "3,637.09万元",
+      "designed_capacity": null,
+      "progress": "105.43%",
+      "expected_completion_time": "2024年12月",
+      "quote": "供应链管理信息化升级建设项目 ... 截至报告期末累计投入金额 514.13万元 ... 投资进度 105.43% ... 项目达到预定可使用状态日期 2024年12月"
+    },
+    {
+      "name": "海南驳运项目",
+      "project_type": "capacity_expansion",
+      "location": "海南",
+      "investment_amount": "138,480.08万元",
+      "designed_capacity": null,
+      "progress": "38.60%",
+      "expected_completion_time": null,
+      "quote": "海南驳运项目 ... 截至报告期末累计投入金额 138,480.08万元 ... 投资进度 38.60%"
+    },
+    {
+      "name": "香港驳运项目",
+      "project_type": "capacity_expansion",
+      "location": "香港",
+      "investment_amount": "208,580.46万元",
+      "designed_capacity": null,
+      "progress": "41.72%",
+      "expected_completion_time": null,
+      "quote": "香港驳运项目 ... 截至报告期末累计投入金额 208,580.46万元 ... 投资进度 41.72%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "炬申集团管理平台",
+      "asset_type": "technical_platform",
+      "related_product": "物流、仓储业务",
+      "quantitative_info": "已顺利通过信息系统安全等级保护三级认证",
+      "quote": "公司研发的“炬申集团管理平台”，作为公司业务管理的核心平台载体，覆盖直运、仓储、多式联运等核心板块业务运营管理，平台已顺利通过信息系统安全等级保护三级认证"
+    },
+    {
+      "name": "区块链电子签管控平台",
+      "asset_type": "technical_platform",
+      "related_product": "业务流程",
+      "quantitative_info": null,
+      "quote": "公司携手契约锁和蚂蚁区块链，将区块链技术融入业务流程，搭建电子签管控平台"
+    },
+    {
+      "name": "AGV智能搬运机器人",
+      "asset_type": "device",
+      "related_product": "仓储作业",
+      "quantitative_info": null,
+      "quote": "公司积极引入 AGV 智能搬运机器人，借助预设路径规划和智能导航技术，实现了货物在仓库内的高效搬运与短距离运输"
+    },
+    {
+      "name": "上期所铝、铜、锌、锡、氧化铝、铸造铝合金、不锈钢期货指定交割仓库资质",
+      "asset_type": "certification",
+      "related_product": "仓储综合服务",
+      "quantitative_info": null,
+      "quote": "子公司炬申仓储已获批成为上期所铝、铜、锌、锡、氧化铝、不锈钢、铸造铝合金期货指定交割仓库"
+    },
+    {
+      "name": "广期所工业硅期货指定交割仓库资质",
+      "asset_type": "certification",
+      "related_product": "仓储综合服务",
+      "quantitative_info": null,
+      "quote": "广期所工业硅期货指定交割仓库"
+    },
+    {
+      "name": "郑商所棉纱期货指定交割仓库资质",
+      "asset_type": "certification",
+      "related_product": "仓储综合服务",
+      "quantitative_info": null,
+      "quote": "郑商所棉纱期货指定交割仓库"
+    },
+    {
+      "name": "大商所原木指定车板交割场所资质",
+      "asset_type": "certification",
+      "related_product": "仓储综合服务",
+      "quantitative_info": null,
+      "quote": "大商所原木指定车板交割场所资质"
+    },
+    {
+      "name": "炬申智运网络货运平台",
+      "asset_type": "software",
+      "related_product": "代理运输服务",
+      "quantitative_info": null,
+      "quote": "公司自主开发了炬申智运网络货运平台，整合社会运力资源，并通过调度技术实现车货匹配"
+    },
+    {
+      "name": "铁路专用线",
+      "asset_type": "process_technology",
+      "related_product": "物流综合服务",
+      "quantitative_info": null,
+      "quote": "此外，公司具备铁路专用线，进一步完善了物流服务方式，提升了物流服务效率"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "38.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 38.98%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "70.47%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 70.47%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济波动的风险。公司业务前景与宏观经济波动息息相关。若我国整体经济发生波动，从而可能直接对物流企业的业绩造成冲击。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济波动的风险...若我国整体经济发生波动，从而可能直接对物流企业的业绩造成冲击"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "海外业务拓展的风险。海外项目的当地政治、经济、社会、文化及环保等方面与国内存在一定差异，公司海外业务可能会受到当地政局动荡、社会性突发事件、政策变化、安全风险及客户需求变化等因素的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、海外业务拓展的风险...公司海外业务可能会受到当地政局动荡、社会性突发事件、政策变化、安全风险及客户需求变化等因素的影响"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "资质无法续期或被取消资质的风险。未来，若公司未能遵守相关资质管理规定或无法满足资质标准，可能将面临资质被取消或无法续期的风险，将对公司未来可持续发展产生影响。",
+      "related_entity": null,
+      "related_product": "期货交割仓库资质",
+      "quote": "3、资质无法续期或被取消资质的风险...可能将面临资质被取消或无法续期的风险，将对公司未来可持续发展产生影响"
+    }
+  ]
+}

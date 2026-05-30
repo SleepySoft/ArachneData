@@ -1,0 +1,569 @@
+{
+  "company_name_mentioned": "重庆宗申动力机械股份有限公司",
+  "produces": [
+    {
+      "name": "发动机及配件",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重37.33%（2025年）",
+      "quote": "公司主要产品包括：发动机及配件；"
+    },
+    {
+      "name": "通用汽油机、耕作机、割草机、水泵机组、汽油发电机组等整机及零部件",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重48.83%（2025年）",
+      "quote": "通用汽油机、耕作机、割草机、水泵机组、汽油发电机组等整机及零部件；"
+    },
+    {
+      "name": "摩托车零部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "摩托车零部件、"
+    },
+    {
+      "name": "汽车零部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "汽车零部件、"
+    },
+    {
+      "name": "锂电储能设备及配件",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重6.43%（2025年）",
+      "quote": "锂电储能设备及配件、"
+    },
+    {
+      "name": "锂离子电池及配件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "锂离子电池及配件、"
+    },
+    {
+      "name": "电子元器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "电子元器件、"
+    },
+    {
+      "name": "电池控制系统",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "电池控制系统。"
+    },
+    {
+      "name": "航空活塞发动机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "宗申航发公司是国内少数实现自主研发、制造并取得适航认证的国家高新技术民营航空动力企业，已形成以中小型航空活塞发动机为主的产品线"
+    },
+    {
+      "name": "储能产品及解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "聚焦家庭储能和工商业储能应用场景，提供定制化的储能产品和一站式储能综合供应解决方案"
+    },
+    {
+      "name": "电驱动系统（发卡电机等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "宗申集研公司以发卡电机技术为核心，打造涵盖发卡电机、绕线电机及智能控制器的多元化产品矩阵"
+    },
+    {
+      "name": "氢燃料电池系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "自主研发的SL15、SL20等系列水冷燃料电池系统已在园区内2吨、3.5吨叉车等场景实现示范应用"
+    },
+    {
+      "name": "高端铝合金铸件及零部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司高端零部件产品广泛应用于汽车四驱系统、变速箱、新能源电驱动系统、发动机系统、摩托车动力系统、通用动力等领域"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "主要产品",
+      "cost_proportion": "占营业成本比重89.66%（2025年）",
+      "quote": "原材料 9,536,988,650.47 89.66%"
+    },
+    {
+      "name": "前五名供应商采购",
+      "target_product": null,
+      "cost_proportion": "合计采购金额占年度采购总额比例14.91%",
+      "quote": "前五名供应商合计采购金额（元） 1,406,511,352.42 前五名供应商合计采购金额占年度采购总额比例 14.91%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "户外施工、应急抢险、休闲娱乐、农业生产、园林养护、工业清洗等场景",
+      "source_product": "通用汽油机、发电机组、高压清洗机、微耕机、田园管理机、搬运车等",
+      "quote": "相关产品兼具实用性与便捷性，广泛覆盖户外施工、应急抢险、休闲娱乐、农业生产、园林养护、工业清洗等场景"
+    },
+    {
+      "name": "家庭储能备用、户外露营供电、农田作业、园艺养护、市政保洁、应急救援供电、居家小型供电等场景",
+      "source_product": "全功率段储能产品（100W-5kW）以及完整的户外电动工具系列",
+      "quote": "广泛应用于家庭储能备用、户外露营供电、农田作业、园艺养护、市政保洁、应急救援供电、居家小型供电等场景"
+    },
+    {
+      "name": "旋翼、固定翼等通航飞机和无人机等航空飞行器",
+      "source_product": "中小型航空活塞发动机",
+      "quote": "主要为旋翼、固定翼等通航飞机和无人机等航空飞行器提供动力系统解决方案"
+    },
+    {
+      "name": "家庭储能和工商业储能",
+      "source_product": "储能产品和一站式储能综合供应解决方案",
+      "quote": "聚焦家庭储能和工商业储能应用场景，提供定制化的储能产品和一站式储能综合供应解决方案"
+    },
+    {
+      "name": "高尔夫球车、工业车辆等",
+      "source_product": "锂/钠电池系统解决方案",
+      "quote": "动力电池业务主要为高尔夫球车、工业车辆等提供锂/钠电池系统解决方案"
+    },
+    {
+      "name": "电动两轮/三轮车、园林机械、观光车及UTV等",
+      "source_product": "发卡电机、绕线电机及智能控制器",
+      "quote": "广泛应用于电动两轮/三轮车、园林机械、观光车及UTV等多类场景"
+    },
+    {
+      "name": "园区叉车等场景",
+      "source_product": "氢燃料电池系统",
+      "quote": "自主研发的SL15、SL20等系列水冷燃料电池系统已在园区内2吨、3.5吨叉车等场景实现示范应用"
+    },
+    {
+      "name": "汽车四驱系统、变速箱、新能源电驱动系统、发动机系统、摩托车动力系统、通用动力等领域",
+      "source_product": "高端铝合金铸件及零部件",
+      "quote": "公司高端零部件产品广泛应用于汽车四驱系统、变速箱、新能源电驱动系统、发动机系统、摩托车动力系统、通用动力等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "左宗申",
+      "role": "董事长",
+      "quote": "公司负责人左宗申先生、黄培国先生..."
+    },
+    {
+      "name": "黄培国",
+      "role": "董事、总经理",
+      "quote": "主管会计工作负责人刘源洪先生及会计机构负责人（会计主管人员）夏丹女士"
+    },
+    {
+      "name": "刘源洪",
+      "role": "副总经理、财务总监",
+      "quote": "主管会计工作负责人刘源洪先生"
+    },
+    {
+      "name": "夏丹",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）夏丹女士"
+    },
+    {
+      "name": "胡显源",
+      "role": "董事",
+      "quote": "董事：胡显源"
+    },
+    {
+      "name": "李耀",
+      "role": "董事",
+      "quote": "董事：李耀"
+    },
+    {
+      "name": "王大英",
+      "role": "董事",
+      "quote": "董事：王大英"
+    },
+    {
+      "name": "郭强",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理：郭强"
+    },
+    {
+      "name": "郑亚光",
+      "role": "独立董事",
+      "quote": "独立董事：郑亚光"
+    },
+    {
+      "name": "易继明",
+      "role": "独立董事",
+      "quote": "独立董事：易继明"
+    },
+    {
+      "name": "贾滨",
+      "role": "独立董事",
+      "quote": "独立董事：贾滨"
+    },
+    {
+      "name": "彭科",
+      "role": "副总经理",
+      "quote": "副总经理：彭科"
+    },
+    {
+      "name": "林艺",
+      "role": "副总经理、董事会秘书",
+      "quote": "副总经理、董事会秘书：林艺"
+    },
+    {
+      "name": "周加平",
+      "role": "副总经理",
+      "quote": "副总经理：周加平"
+    },
+    {
+      "name": "邓伟",
+      "role": "副总经理",
+      "quote": "副总经理：邓伟"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "隆鑫通用动力股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "存在同业竞争关系，公司拟将所持有的摩托车发动机业务相关资产与负债与隆鑫通用持有的通用机械业务相关资产与负债进行置换",
+      "quote": "隆鑫通用部分业务与公司形成同业竞争。"
+    },
+    {
+      "name": "重庆宗申高速艇开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "宗申高速艇公司、控股股东 指 重庆宗申高速艇开发有限公司"
+    },
+    {
+      "name": "宗申产业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "实际控制人控制的企业",
+      "quote": "宗申产业集团 指 宗申产业集团有限公司"
+    },
+    {
+      "name": "重庆宗申发动机制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事摩托车发动机业务",
+      "quote": "发动机公司、宗申发动机公司 指 重庆宗申发动机制造有限公司"
+    },
+    {
+      "name": "重庆宗申通用动力机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事通用机械业务",
+      "quote": "宗申通机公司、通机公司 指 重庆宗申通用动力机械有限公司"
+    },
+    {
+      "name": "重庆大江动力设备制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事通用机械业务",
+      "quote": "大江动力、大江动力公司 指 重庆大江动力设备制造有限公司"
+    },
+    {
+      "name": "重庆宗申航空发动机制造股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事航空动力业务",
+      "quote": "宗申航发公司、航发公司、航发 指 重庆宗申航空发动机制造股份有限公司"
+    },
+    {
+      "name": "东莞市锂智慧能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事储能业务",
+      "quote": "东莞锂智慧、东莞锂智慧公司、锂智慧、锂智慧公司 指 东莞市锂智慧能源有限公司"
+    },
+    {
+      "name": "重庆宗申集研机电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资孙公司，从事电驱动系统业务",
+      "quote": "宗申集研公司 指 重庆宗申集研机电科技有限公司"
+    },
+    {
+      "name": "重庆宗申氢能源动力科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资孙公司，从事氢能源业务",
+      "quote": "宗申氢能源公司 指 重庆宗申氢能源动力科技有限公司"
+    },
+    {
+      "name": "重庆宗申新智造科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，公司实际控制人间接控制",
+      "quote": "新智造公司、宗申新智造 指 重庆宗申新智造科技有限公司"
+    },
+    {
+      "name": "重庆赛科龙摩托车制造有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方，向其销售整机及配件",
+      "quote": "重庆赛科龙摩托车制造有限公司...公司实际控制人间接控制的法人"
+    },
+    {
+      "name": "江苏宗申车业有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方，向其销售整机及配件",
+      "quote": "江苏宗申车业有限公司...公司实际控制人间接控制的法人"
+    },
+    {
+      "name": "重庆新隆鑫机电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "隆鑫通用子公司，是公司拟置入资产的核心",
+      "quote": "以重庆新隆鑫机电有限公司股权为核心"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "机械制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "11,959,347,400.97元",
+      "revenue_proportion": "97.16%",
+      "gross_margin": "13.28%",
+      "yoy_change": "营业收入比上年增减18.11%",
+      "quote": "分行业 机械制造业 11,959,347,400.97 97.16% 10,125,447,667.49 97.51% 18.11%"
+    },
+    {
+      "name": "通用机械产品",
+      "segment_type": "product_line",
+      "revenue_amount": "6,010,647,271.00元",
+      "revenue_proportion": "48.83%",
+      "gross_margin": "15.30%",
+      "yoy_change": "营业收入比上年同期增减15.11%",
+      "quote": "分产品 通用机械产品 6,010,647,271.00 48.83% 5,221,686,244.07 50.29% 15.11%"
+    },
+    {
+      "name": "发动机产品",
+      "segment_type": "product_line",
+      "revenue_amount": "4,593,456,835.87元",
+      "revenue_proportion": "37.33%",
+      "gross_margin": "10.50%",
+      "yoy_change": "营业收入比上年同期增减20.30%",
+      "quote": "分产品 发动机产品 4,593,456,835.87 37.33% 3,818,259,393.27 36.76% 20.30%"
+    },
+    {
+      "name": "新能源产品",
+      "segment_type": "product_line",
+      "revenue_amount": "792,105,285.16元",
+      "revenue_proportion": "6.43%",
+      "gross_margin": null,
+      "yoy_change": "营业收入比上年同期增减36.77%",
+      "quote": "分产品 新能源产品 792,105,285.16 6.43% 579,169,354.18 5.58% 36.77%"
+    },
+    {
+      "name": "产品零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "563,138,008.94元",
+      "revenue_proportion": "4.57%",
+      "gross_margin": "13.87%",
+      "yoy_change": "营业收入比上年同期增减11.22%",
+      "quote": "分产品 产品零部件 563,138,008.94 4.57% 506,332,675.97 4.88% 11.22%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "6,488,136,510.36元",
+      "revenue_proportion": "52.71%",
+      "gross_margin": "12.52%",
+      "yoy_change": "营业收入比上年同期增减20.19%",
+      "quote": "分地区 内 销 6,488,136,510.36 52.71% 5,398,132,961.55 51.99% 20.19%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "5,821,405,823.01元",
+      "revenue_proportion": "47.29%",
+      "gross_margin": "14.78%",
+      "yoy_change": "营业收入比上年同期增减16.77%",
+      "quote": "分地区 外 销 5,821,405,823.01 47.29% 4,985,391,198.16 48.01% 16.77%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "6,844,065,329.05元",
+      "revenue_proportion": "55.60%",
+      "gross_margin": "13.89%",
+      "yoy_change": "营业收入比上年同期增减19.18%",
+      "quote": "分销售模式 直 销 6,844,065,329.05 55.60% 5,742,679,540.28 55.31% 19.18%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,465,477,004.32元",
+      "revenue_proportion": "44.40%",
+      "gross_margin": "13.22%",
+      "yoy_change": "营业收入比上年同期增减17.77%",
+      "quote": "分销售模式 经 销 5,465,477,004.32 44.40% 4,640,844,619.43 44.69% 17.77%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "通用机械行业产品",
+      "metric_type": "sales_volume",
+      "value": "5,136,470台",
+      "period": "2025年",
+      "quote": "销售量 台 5,136,470"
+    },
+    {
+      "product": "通用机械行业产品",
+      "metric_type": "production_volume",
+      "value": "5,120,129台",
+      "period": "2025年",
+      "quote": "生产量 台 5,120,129"
+    },
+    {
+      "product": "通用机械行业产品",
+      "metric_type": "inventory_volume",
+      "value": "258,748台",
+      "period": "2025年末",
+      "quote": "库存量 台 258,748"
+    },
+    {
+      "product": "摩托车发动机行业产品",
+      "metric_type": "sales_volume",
+      "value": "3,659,858台",
+      "period": "2025年",
+      "quote": "销售量 台 3,659,858"
+    },
+    {
+      "product": "摩托车发动机行业产品",
+      "metric_type": "production_volume",
+      "value": "3,673,304台",
+      "period": "2025年",
+      "quote": "生产量 台 3,673,304"
+    },
+    {
+      "product": "摩托车发动机行业产品",
+      "metric_type": "inventory_volume",
+      "value": "44,427台",
+      "period": "2025年末",
+      "quote": "库存量 台 44,427"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "大江动力公司10万平方米智能工厂",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "主体工程已全面竣工",
+      "expected_completion_time": null,
+      "quote": "大江动力公司以行业领先标准打造的10万平方米智能工厂主体工程已全面竣工"
+    },
+    {
+      "name": "越南新制造基地",
+      "project_type": "capacity_expansion",
+      "location": "越南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已具备批量生产能力",
+      "expected_completion_time": null,
+      "quote": "越南新制造基地已具备批量生产能力"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "1436项",
+      "quote": "截至报告期末，公司拥有有效专利1436项"
+    },
+    {
+      "name": "PCS（双向逆变器）、BMS（锂电池管理系统）、EMS（能量管理系统）",
+      "asset_type": "core_technology",
+      "related_product": "新能源产品",
+      "quantitative_info": null,
+      "quote": "公司已掌握PCS（双向逆变器）、BMS（锂电池管理系统）、EMS（能量管理系统）等核心技术"
+    },
+    {
+      "name": "发卡电机技术",
+      "asset_type": "core_technology",
+      "related_product": "电驱动系统",
+      "quantitative_info": null,
+      "quote": "宗申集研公司以发卡电机技术为核心"
+    },
+    {
+      "name": "国家卓越级智能工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司成功获评“2025国家卓越级智能工厂”"
+    },
+    {
+      "name": "国家级5G工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "入选“国家级5G工厂”名录"
+    },
+    {
+      "name": "国家绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“国家绿色工厂”"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及宗申通机公司、大江动力公司、宗申航发公司先后获得国家级专精特新“小巨人”企业认定"
+    },
+    {
+      "name": "工业4.0智能生产线",
+      "asset_type": "process_technology",
+      "related_product": "发动机",
+      "quantitative_info": null,
+      "quote": "建立发动机行业首条工业4.0智能生产线"
+    },
+    {
+      "name": "铝合金铸件年产能",
+      "asset_type": "other",
+      "related_product": "高端零部件",
+      "quantitative_info": "2.2万吨",
+      "quote": "年产能2.2万吨铝合金铸件"
+    },
+    {
+      "name": "铝合金零部件年产能",
+      "asset_type": "other",
+      "related_product": "高端零部件",
+      "quantitative_info": "2000万件",
+      "quote": "年产能2000万件铝合金零部件"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,694,858,373.61元，占年度销售总额比例21.90%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,694,858,373.61 前五名客户合计销售金额占年度销售总额比例 21.90%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,406,511,352.42元，占年度采购总额比例14.91%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,406,511,352.42 前五名供应商合计采购金额占年度采购总额比例 14.91%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "面临国内禁限摩政策、产品替代、市场同质化竞争、生产成本上涨等多重挑战。",
+      "related_entity": null,
+      "related_product": "摩托车发动机",
+      "quote": "公司作为国内摩托车发动机制造龙头企业之一，长期以来都面临着国内禁限摩政策、产品替代、市场同质化竞争、生产成本上涨等多重挑战。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "中美贸易摩擦加剧、关税摩擦升温、地缘政治紧张等多重压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年，全球经济在关税摩擦升温、地缘政治紧张等多重压力下展现脆弱韧性"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动对公司经营造成影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "财务费用...主要系本期美元兑人民币汇率波动形成的汇兑收益同比减少所致。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "面临原材料和生产成本上涨的压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2026年，公司将继续面临中美贸易摩擦、汇率波动、原材料和生产成本上涨、市场竞争激烈等经营压力和外部困难。"
+    }
+  ]
+}

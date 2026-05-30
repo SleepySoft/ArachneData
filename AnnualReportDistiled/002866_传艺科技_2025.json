@@ -1,0 +1,578 @@
+{
+  "company_name_mentioned": "江苏传艺科技股份有限公司",
+  "produces": [
+    {
+      "name": "笔记本/台式机电脑键盘、平板电脑外接键盘、触控模组、鼠标",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司输入类设备产品可以分为笔记本/台式机电脑键盘、平板电脑外接键盘、触控模组和鼠标等"
+    },
+    {
+      "name": "笔记本及台式机电脑键盘等输入设备及配件",
+      "type": "device",
+      "revenue_proportion": "66.28%",
+      "quote": "笔记本及台式机电脑键盘等输入设备及配件 1,422,094,156.90 66.28%"
+    },
+    {
+      "name": "笔记本电脑触控板及按键（Button/Touchpad）",
+      "type": "component",
+      "revenue_proportion": "23.62%",
+      "quote": "笔记本电脑触控板及按键（Button/Touchpad） 506,761,122.50 23.62%"
+    },
+    {
+      "name": "笔记本电脑等消费电子产品所用柔性印刷线路板（FPC）",
+      "type": "component",
+      "revenue_proportion": "7.27%",
+      "quote": "笔记本电脑等消费电子产品所用柔性印刷线路板（FPC） 155,975,633.32 7.27%"
+    },
+    {
+      "name": "柔性线路板（FPC）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司FPC产品可以分为通讯用板、消费电子和计算机用板等"
+    },
+    {
+      "name": "圆柱型钠离子电池",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "具体包括圆柱型钠离子电池（主要应用于低速电动车等领域）"
+    },
+    {
+      "name": "方型钠离子电池",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "方型钠离子电池（主要应用于工程机械车辆、储能等领域）等"
+    },
+    {
+      "name": "正极材料、负极材料、电解液材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主营业务为钠离子电池产品以及正、负极、电解液材料的研发、生产和销售"
+    },
+    {
+      "name": "钠离子电池pack产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司通过自建pack产线的方式，研发、生产适配于二轮电动车的钠离子电池pack产品"
+    },
+    {
+      "name": "新能源电池系统及其材料",
+      "type": "device",
+      "revenue_proportion": "0.80%",
+      "quote": "新能源电池系统及其材料 17,226,336.36 0.80%"
+    },
+    {
+      "name": "笔记本电脑键盘薄膜开关线路板（MTS）",
+      "type": "component",
+      "revenue_proportion": "0.08%",
+      "quote": "笔记本电脑键盘薄膜开关线路板（MTS） 1,804,513.98 0.08%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子零件、铜箔基板、铜球、塑料粒子",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司以电子零件、铜箔基板、铜球和塑料粒子等为主要原材料"
+    },
+    {
+      "name": "第一名供应商",
+      "target_product": null,
+      "cost_proportion": "10.61%",
+      "quote": "第一名 135,067,718.81 10.61%"
+    },
+    {
+      "name": "第二名供应商",
+      "target_product": null,
+      "cost_proportion": "6.25%",
+      "quote": "第二名 79,521,891.82 6.25%"
+    },
+    {
+      "name": "第三名供应商",
+      "target_product": null,
+      "cost_proportion": "3.75%",
+      "quote": "第三名 47,710,593.28 3.75%"
+    },
+    {
+      "name": "第四名供应商",
+      "target_product": null,
+      "cost_proportion": "3.31%",
+      "quote": "第四名 42,094,517.91 3.31%"
+    },
+    {
+      "name": "第五名供应商",
+      "target_product": null,
+      "cost_proportion": "2.76%",
+      "quote": "第五名 35,073,371.71 2.76%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "笔记本电脑、平板电脑、台式机电脑",
+      "source_product": "笔记本/台式机电脑键盘、平板电脑外接键盘、触控模组、鼠标",
+      "quote": "其具体应用在笔记本电脑、平板电脑、台式机电脑等下游计算机类产品"
+    },
+    {
+      "name": "可穿戴设备、汽车电子、笔记本电脑、手机/平板",
+      "source_product": "柔性线路板（FPC）",
+      "quote": "并广泛应用于可穿戴设备、汽车电子、笔记本电脑和手机/平板等产品领域"
+    },
+    {
+      "name": "低速电动车",
+      "source_product": "圆柱型钠离子电池",
+      "quote": "圆柱型钠离子电池（主要应用于低速电动车等领域）"
+    },
+    {
+      "name": "电动二轮车",
+      "source_product": "钠离子电池pack产品",
+      "quote": "公司大力发展钠离子电池在电动二轮车领域的应用，公司通过自建pack产线的方式，研发、生产适配于二轮电动车的钠离子电池pack产品"
+    },
+    {
+      "name": "工程机械车辆、储能",
+      "source_product": "方型钠离子电池",
+      "quote": "方型钠离子电池（主要应用于工程机械车辆、储能等领域）"
+    },
+    {
+      "name": "储能",
+      "source_product": null,
+      "quote": "公司积极推进钠离子电池在储能领域的应用"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邹伟民",
+      "role": "董事长、总经理",
+      "quote": "公司负责人邹伟民、主管会计工作负责人杨锦刚及会计机构负责人（会计主管人员）杨锦刚声明"
+    },
+    {
+      "name": "杨锦刚",
+      "role": "主管会计工作负责人、会计机构负责人、董事、副总经理",
+      "quote": "主管会计工作负责人杨锦刚及会计机构负责人（会计主管人员）杨锦刚声明"
+    },
+    {
+      "name": "徐壮",
+      "role": "董事会秘书、董事、副总经理",
+      "quote": "董事会秘书 证券事务代表 姓名 徐壮 戴长霞"
+    },
+    {
+      "name": "陈敏",
+      "role": "实际控制人、控股股东一致行动人",
+      "quote": "邹伟民与陈敏系夫妻，邹伟民、陈敏为一致行动人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "Thinkpad",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要大型客户包括 Thinkpad、Lenovo、惠普、华为、SONY、TOSHIBA、SAMSUNG、小米等。"
+    },
+    {
+      "name": "Lenovo",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要大型客户包括 Thinkpad、Lenovo、惠普、华为、SONY、TOSHIBA、SAMSUNG、小米等。"
+    },
+    {
+      "name": "惠普",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要大型客户包括 Thinkpad、Lenovo、惠普、华为、SONY、TOSHIBA、SAMSUNG、小米等。"
+    },
+    {
+      "name": "华为",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要大型客户包括 Thinkpad、Lenovo、惠普、华为、SONY、TOSHIBA、SAMSUNG、小米等。"
+    },
+    {
+      "name": "SAMSUNG",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务的客户包括富士康、华为、Lenovo、SAMSUNG、technicolor、元太等。"
+    },
+    {
+      "name": "富士康",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务的客户包括富士康、华为、Lenovo、SAMSUNG、technicolor、元太等。"
+    },
+    {
+      "name": "technicolor",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务的客户包括富士康、华为、Lenovo、SAMSUNG、technicolor、元太等。"
+    },
+    {
+      "name": "元太",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务的客户包括富士康、华为、Lenovo、SAMSUNG、technicolor、元太等。"
+    },
+    {
+      "name": "SONY",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要大型客户包括 Thinkpad、Lenovo、惠普、华为、SONY、TOSHIBA、SAMSUNG、小米等。"
+    },
+    {
+      "name": "TOSHIBA",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要大型客户包括 Thinkpad、Lenovo、惠普、华为、SONY、TOSHIBA、SAMSUNG、小米等。"
+    },
+    {
+      "name": "小米",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要大型客户包括 Thinkpad、Lenovo、惠普、华为、SONY、TOSHIBA、SAMSUNG、小米等。"
+    },
+    {
+      "name": "重庆营志电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "笔记本电脑薄膜开关线路板生产、销售",
+      "quote": "重庆营志电子有限公司"
+    },
+    {
+      "name": "东莞美泰电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "笔记本及台式机电脑键盘等输入设备及配件销售",
+      "quote": "东莞美泰电子有限公司"
+    },
+    {
+      "name": "江苏胜帆电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新型电子元器件及其他电子产品的研发、制造、加工，销售",
+      "quote": "江苏胜帆电子科技有限公司"
+    },
+    {
+      "name": "江苏智纬电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "研发、生产、销售新型电子元器件、模组、电脑输入产品、电脑精密组件等",
+      "quote": "江苏智纬电子科技有限公司"
+    },
+    {
+      "name": "江苏传艺钠电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "钠离子及锂离子电池正极材料、负极材料、电解液等原材料的研发、生产、销售",
+      "quote": "江苏传艺钠电科技有限公司"
+    },
+    {
+      "name": "江苏传艺钠电新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电子专用材料研发；新材料技术研发；电子专用材料销售；电子专用材料制造等",
+      "quote": "江苏传艺钠电新材料有限公司"
+    },
+    {
+      "name": "TRANSIMAGE OVERSEAS PTE. LTD.",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "TRANSIMAGE OVERSEAS PTE. LTD. 传艺海外有限公司"
+    },
+    {
+      "name": "越南传艺科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "越南传艺科技有限公司"
+    },
+    {
+      "name": "东吴证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "保荐机构",
+      "quote": "保荐机构 指 东吴证券股份有限公司"
+    },
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "审计机构、验资机构",
+      "quote": "审计机构、验资机构 指 容诚会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "京能钠电",
+      "relation_type": "joint_venture",
+      "business_details": null,
+      "quote": "江苏传艺京能钠电新能源科技有限公司 京能钠电 指 江苏传艺京能钠电新能源科技有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电子信息零组件",
+      "segment_type": "product_line",
+      "revenue_amount": "2,128,499,684.88",
+      "revenue_proportion": "99.20%",
+      "gross_margin": "24.99%",
+      "yoy_change": "10.08%",
+      "quote": "电子信息零组件 2,128,499,684.88 99.20%"
+    },
+    {
+      "name": "电气机械和器材制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "17,226,336.36",
+      "revenue_proportion": "0.80%",
+      "gross_margin": null,
+      "yoy_change": "-19.51%",
+      "quote": "电气机械和器材制造业 17,226,336.36 0.80%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "997,271,036.20",
+      "revenue_proportion": "46.48%",
+      "gross_margin": "16.56%",
+      "yoy_change": "17.58%",
+      "quote": "内销 997,271,036.20 46.48%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "1,148,454,985.04",
+      "revenue_proportion": "53.52%",
+      "gross_margin": "27.73%",
+      "yoy_change": "3.76%",
+      "quote": "外销 1,148,454,985.04 53.52%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,145,726,021.24",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "22.54%",
+      "yoy_change": "9.76%",
+      "quote": "直销 2,145,726,021.24 100.00%"
+    },
+    {
+      "name": "笔记本电脑触控板及按键（Button/Touchpad）",
+      "segment_type": "product_line",
+      "revenue_amount": "506,761,122.50",
+      "revenue_proportion": "23.62%",
+      "gross_margin": "20.85%",
+      "yoy_change": "1.76%",
+      "quote": "笔记本电脑触控板及按键（Button/Touchpad） 506,761,122.50 23.62%"
+    },
+    {
+      "name": "笔记本电脑等消费电子产品所用柔性印刷线路板（FPC）",
+      "segment_type": "product_line",
+      "revenue_amount": "155,975,633.32",
+      "revenue_proportion": "7.27%",
+      "gross_margin": "21.95%",
+      "yoy_change": "-6.30%",
+      "quote": "笔记本电脑等消费电子产品所用柔性印刷线路板（FPC） 155,975,633.32 7.27%"
+    },
+    {
+      "name": "笔记本及台式机电脑键盘等输入设备及配件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,422,094,156.90",
+      "revenue_proportion": "66.28%",
+      "gross_margin": "25.84%",
+      "yoy_change": "15.66%",
+      "quote": "笔记本及台式机电脑键盘等输入设备及配件 1,422,094,156.90 66.28%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电子信息零组件",
+      "metric_type": "sales_volume",
+      "value": "28,675.95万PCS",
+      "period": "2025年",
+      "quote": "销售量 万PCS 28,675.95"
+    },
+    {
+      "product": "电子信息零组件",
+      "metric_type": "production_volume",
+      "value": "28,178.97万PCS",
+      "period": "2025年",
+      "quote": "生产量 万PCS 28,178.97"
+    },
+    {
+      "product": "电子信息零组件",
+      "metric_type": "inventory_volume",
+      "value": "7,930.41万PCS",
+      "period": "2025年",
+      "quote": "库存量 万PCS 7,930.41"
+    },
+    {
+      "product": "电气机械和器材制造业",
+      "metric_type": "sales_volume",
+      "value": "229.25万PCS",
+      "period": "2025年",
+      "quote": "销售量 万PCS 229.25"
+    },
+    {
+      "product": "电气机械和器材制造业",
+      "metric_type": "production_volume",
+      "value": "1,058.13万PCS",
+      "period": "2025年",
+      "quote": "生产量 万PCS 1,058.13"
+    },
+    {
+      "product": "电气机械和器材制造业",
+      "metric_type": "inventory_volume",
+      "value": "2,588.03万PCS",
+      "period": "2025年",
+      "quote": "库存量 万PCS 2,588.03"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "越南工厂",
+      "project_type": "capacity_expansion",
+      "location": "越南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正式开工建设",
+      "expected_completion_time": "2026年3月投产",
+      "quote": "公司注册成立越南传艺科技有限公司，越南工厂正式开工建设并于2026年3月投产"
+    },
+    {
+      "name": "年产18万平方米中高端印制电路板建设项目",
+      "project_type": "fundraising_project",
+      "location": "江苏省高邮市",
+      "investment_amount": "42,044.28万元",
+      "designed_capacity": "年产18万平方米",
+      "progress": "已变更用途，剩余募集资金补充流动资金",
+      "expected_completion_time": null,
+      "quote": "年产18万平方米中高端印制电路板建设项目 ... 实施完毕 ... 公司决定将上述募投项目结项并将节余募集资金永久补充流动资金"
+    },
+    {
+      "name": "钠离子电池制造二期5.5GWh项目",
+      "project_type": "fundraising_project",
+      "location": "江苏省高邮市城南经济新区",
+      "investment_amount": "15,946.51万元",
+      "designed_capacity": "5.5GWh",
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "公司将2019年度非公开发行股票募集资金投资项目之‘钠离子电池制造二期5.5GWh项目’终止"
+    },
+    {
+      "name": "TRANSIMAGE OVERSEAS PTE. LTD.",
+      "project_type": "other",
+      "location": "新加坡",
+      "investment_amount": "预计不超过500万美元",
+      "designed_capacity": null,
+      "progress": "已完成工商注册",
+      "expected_completion_time": null,
+      "quote": "TRANSIMAGE OVERSEAS PTE. LTD.并于2025年3月11日已经完成工商注册登记手续"
+    },
+    {
+      "name": "越南传艺科技有限公司",
+      "project_type": "other",
+      "location": "越南",
+      "investment_amount": "77,220,000,000越南盾",
+      "designed_capacity": null,
+      "progress": "已完成工商注册",
+      "expected_completion_time": null,
+      "quote": "越南传艺科技有限公司并于2025年6月6日已经完成工商注册登记手续"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "提高钠离子电池针刺安全性的改性方法",
+      "asset_type": "core_technology",
+      "related_product": "钠离子电池",
+      "quantitative_info": null,
+      "quote": "公司通过自主研发，创新性发明了一种提高钠离子电池针刺安全性的改性方法等在内的完整技术体系。"
+    },
+    {
+      "name": "薄膜键盘技术",
+      "asset_type": "process_technology",
+      "related_product": "键盘",
+      "quantitative_info": null,
+      "quote": "公司凭借自身领先的研发能力和丰富的行业经验，致力于薄膜键盘技术的优化升级"
+    },
+    {
+      "name": "机械键盘创新研发",
+      "asset_type": "core_technology",
+      "related_product": "键盘",
+      "quantitative_info": null,
+      "quote": "同时，开展机械键盘创新研发，在轴体设计、手感提升、功能拓展等方面进行探索"
+    },
+    {
+      "name": "无线连接与低功耗技术",
+      "asset_type": "core_technology",
+      "related_product": "输入设备",
+      "quantitative_info": null,
+      "quote": "专注于无线连接与低功耗技术的研发，优化无线传输性能，降低功耗"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "58.42%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 58.42%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "25.99%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 557,726,269.39 25.99%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "26.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 26.68%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "10.61%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 135,067,718.81 10.61%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "近年来，国际贸易摩擦加剧，政策不确定性风险影响加大，全球市场都不可避免地受此系统性风险的影响。国际贸易政策的变化以及贸易摩擦给全球商业环境带来了一定的不确定性，部分国家通过加征关税等方式，对贸易双方造成了一定阻碍。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、国际贸易正常不确定性带来的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "消费电子产品市场持续快速增长，竞争也持续加剧。公司主营输入类设备是消费电子产品的上游行业，也会面临行业竞争加剧的挑战。这一挑战既有竞争对手企业的竞争，同时还有新竞争者持续加入市场的压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、消费电子行业市场竞争加剧的风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司主要客户及供应商为境外企业，公司出口商品、进口原材料主要使用美元结算，导致公司持续持有较大数额的美元资产。随着生产、销售规模的扩大，公司原材料进口和产品出口金额将不断增加，外汇结算量将继续增大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、汇率波动的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司以电子零件、铜箔基板、铜球和塑料粒子等为主要原材料，原材料价格的波动将直接影响公司产品的毛利率水平。随着地缘冲突的影响，全球能源及大宗商品价格持续回升，尽管目前对公司原材料价格影响较小，但若上游大宗商品价格持续上涨，则有可能导致公司出现原材料紧缺及价格上涨的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、原材料紧缺及价格上涨的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司通过设立直营店、招募经销商以及向电动二轮车厂商送样等方式拓展钠离子电池在电动二轮车市场的应用，但由于目前铅酸电池相较于钠离子电池仍具有一定的成本优势等原因，公司存在电动二轮车市场开拓不如预期的风险。",
+      "related_entity": null,
+      "related_product": "钠离子电池",
+      "quote": "（1）市场开拓失败的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "目前，钠离子电池行业处于产业化快速推进的关键时期，面对广阔的发展前景和旺盛的下游市场需求，除公司外行业内亦存在一定数量的企业规划了数GWh级的钠离子电池产能建设计划。未来，若行业内企业钠离子电池产能大规模释放而下游市场需求未能同步释放，则行业将存在一定产能过剩的风险。",
+      "related_entity": null,
+      "related_product": "钠离子电池",
+      "quote": "（2）钠离子电池行业产能过剩风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "钠离子电池作为电池领域的新兴产品，主要凭借成本、安全性等方面的优势具备在部分细分应用领域替代锂电池、铅蓄电池等产品的潜力。但考虑到钠离子电池尚未建立起成熟供应链体系，相关技术路线的选择仍存在一定不确定性。此外，新能源行业作为新兴行业，其具有行业技术更新速度快等特点，固态钠离子电池等各类新技术或将在未来成为新的发展方向，可能出现技术换代更迭的风险。",
+      "related_entity": null,
+      "related_product": "钠离子电池",
+      "quote": "（3）技术替代风险"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "company_name_mentioned": "安徽安纳达钛业股份有限公司",
+  "produces": [
+    {
+      "name": "钛白粉",
+      "type": "material",
+      "revenue_proportion": "67.10%",
+      "quote": "公司主要产品为金红石型钛白粉、锐钛型钛白粉等系列产品...报告期，钛白粉实现营业收入1,134,432,861.78元...占营业收入比重67.10%"
+    },
+    {
+      "name": "磷酸铁",
+      "type": "material",
+      "revenue_proportion": "28.39%",
+      "quote": "公司控股子公司铜陵纳源主要生产产品为磷酸铁...报告期，磷酸铁实现营业收入480,037,541.34元...占营业收入比重28.39%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钛精矿",
+      "target_product": "钛白粉",
+      "cost_proportion": "21.48%",
+      "quote": "主要原材料的采购模式...钛矿 21.48%"
+    },
+    {
+      "name": "硫酸",
+      "target_product": "钛白粉、磷酸铁",
+      "cost_proportion": "8.65%",
+      "quote": "主要原材料的采购模式...硫酸 8.65%"
+    },
+    {
+      "name": "磷酸",
+      "target_product": "磷酸铁",
+      "cost_proportion": "9.09%",
+      "quote": "主要原材料的采购模式...磷酸 9.09%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "涂料",
+      "source_product": "钛白粉",
+      "quote": "钛白粉产品可广泛用于涂料、塑料、橡胶、油墨、造纸、化纤、日化、医药等行业...我国的钛白粉需求端主要集中在涂料、塑料和造纸"
+    },
+    {
+      "name": "塑料",
+      "source_product": "钛白粉",
+      "quote": "钛白粉产品可广泛用于涂料、塑料、橡胶、油墨、造纸、化纤、日化、医药等行业"
+    },
+    {
+      "name": "磷酸铁锂电池",
+      "source_product": "磷酸铁",
+      "quote": "磷酸铁是制造磷酸铁锂电池正极材料的主要原料之一...下游主要应用于磷酸铁锂新能源电池行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李崇军",
+      "role": "董事长",
+      "quote": "公司负责人李崇军...现为公司董事长。"
+    },
+    {
+      "name": "张汝山",
+      "role": "总经理",
+      "quote": "张汝山...2024年4月起任安徽安纳达钛业股份有限公司总经理。"
+    },
+    {
+      "name": "陈毅峰",
+      "role": "董事（控股股东委派）",
+      "quote": "陈毅峰...现任万华化学集团股份有限公司高级副总裁、公司董事会董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "万华化学集团电池科技有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股15.20%",
+      "quote": "万华电池/控股股东 指 万华化学集团电池科技有限公司，截至披露日持有公司15.2%的股份，为公司控股股东"
+    },
+    {
+      "name": "铜陵化学工业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "一致行动人，持股14.7999%",
+      "quote": "铜化集团 指 铜陵化学工业集团有限公司，截至披露日持有公司14.7999%的股份，与万华化学集团电池科技有限公司为一致行动人。"
+    },
+    {
+      "name": "铜陵纳源材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事磷酸铁生产",
+      "quote": "铜陵纳源/纳源科技 指 铜陵纳源材料科技有限公司，为本公司的控股子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化学原料及化学品制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,614,470,403.12元",
+      "revenue_proportion": "95.49%",
+      "gross_margin": "-0.76%",
+      "yoy_change": "-13.74%",
+      "quote": "分行业...化学原料及化学品制造业 1,614,470,403.12 95.49% ...毛利率 -0.76% ...同比增减 -13.74%"
+    },
+    {
+      "name": "钛白粉",
+      "segment_type": "product_line",
+      "revenue_amount": "1,134,432,861.78元",
+      "revenue_proportion": "67.10%",
+      "gross_margin": "2.01%",
+      "yoy_change": "-11.25%",
+      "quote": "分产品...钛白粉 1,134,432,861.78 67.10% ...毛利率 2.01% ...同比增减 -11.25%"
+    },
+    {
+      "name": "磷酸铁",
+      "segment_type": "product_line",
+      "revenue_amount": "480,037,541.34元",
+      "revenue_proportion": "28.39%",
+      "gross_margin": "-7.32%",
+      "yoy_change": "-19.10%",
+      "quote": "分产品...磷酸铁 480,037,541.34 28.39% ...毛利率 -7.32% ...同比增减 -19.10%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,292,280,623.19元",
+      "revenue_proportion": "76.43%",
+      "yoy_change": "-14.29%",
+      "quote": "分地区...境内 1,292,280,623.19 76.43% ...同比增减 -14.29%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "398,435,935.64元",
+      "revenue_proportion": "23.57%",
+      "yoy_change": "5.14%",
+      "quote": "分地区...境外 398,435,935.64 23.57% ...同比增减 5.14%"
+    },
+    {
+      "name": "境内直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "882,285,785.81元",
+      "revenue_proportion": "52.18%",
+      "yoy_change": "-20.13%",
+      "quote": "分销售模式...境内直接销售 882,285,785.81 52.18% ...同比增减 -20.13%"
+    },
+    {
+      "name": "境内区域经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "409,994,837.38元",
+      "revenue_proportion": "24.25%",
+      "yoy_change": "1.72%",
+      "quote": "分销售模式...境内区域经销 409,994,837.38 24.25% ...同比增减 1.72%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "钛白粉",
+      "metric_type": "capacity",
+      "value": "8万吨",
+      "period": "2025年",
+      "quote": "主要产品的产能情况...钛白粉 设计产能 8万吨"
+    },
+    {
+      "product": "钛白粉",
+      "metric_type": "production_volume",
+      "value": "9.52万吨",
+      "period": "2025年",
+      "quote": "报告期，公司钛白粉销量9.52万吨...生产钛白粉9.52万吨"
+    },
+    {
+      "product": "钛白粉",
+      "metric_type": "sales_volume",
+      "value": "9.52万吨",
+      "period": "2025年",
+      "quote": "报告期，公司钛白粉销量9.52万吨"
+    },
+    {
+      "product": "钛白粉",
+      "metric_type": "capacity_utilization",
+      "value": "118.95%",
+      "period": "2025年",
+      "quote": "主要产品的产能情况...钛白粉 ...产能利用率 118.95%"
+    },
+    {
+      "product": "磷酸铁",
+      "metric_type": "capacity",
+      "value": "15万吨",
+      "period": "2025年",
+      "quote": "主要产品的产能情况...磷酸铁 设计产能 15万吨"
+    },
+    {
+      "product": "磷酸铁",
+      "metric_type": "production_volume",
+      "value": "5.08万吨",
+      "period": "2025年",
+      "quote": "报告期，公司磷酸铁产量5.08万吨"
+    },
+    {
+      "product": "磷酸铁",
+      "metric_type": "sales_volume",
+      "value": "4.99万吨",
+      "period": "2025年",
+      "quote": "报告期，子公司磷酸铁销量4.99万吨"
+    },
+    {
+      "product": "磷酸铁",
+      "metric_type": "capacity_utilization",
+      "value": "33.84%",
+      "period": "2025年",
+      "quote": "主要产品的产能情况...磷酸铁 ...产能利用率 33.84%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "磷酸铁污水处理技术升级改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "利用公司已有厂房和场地升级改造磷酸铁污水处理装置，新增调节池，购置膜系统和MVR蒸发系统...实现磷酸铁生产污水‘零排’目标"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "钛白粉生产研发专利技术",
+      "asset_type": "patent",
+      "related_product": "钛白粉",
+      "quantitative_info": "累计28项（实用新型专利21项，发明专利7项）",
+      "quote": "公司累计拥有钛白粉生产研发专利技术28项，其中实用新型专利21项，发明专利7项。"
+    },
+    {
+      "name": "磷酸铁生产研发专利",
+      "asset_type": "patent",
+      "related_product": "磷酸铁",
+      "quantitative_info": "累计授权发明专利3项，授权实用新型专利28项",
+      "quote": "纳源公司...公司累计授权发明专利3项，授权实用新型专利28项。"
+    },
+    {
+      "name": "研发费用投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入金额48,781,672.28元，占营业收入比例2.89%",
+      "quote": "研发投入金额（元） 48,781,672.28...研发投入占营业收入比例 2.89%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "43.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 43.71%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "19.49%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "客户一 329,538,033.69 19.49%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "32.21%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 32.21%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "7.83%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "供应商一 153,873,129.00 7.83%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内新建或在建的钛白粉项目陆续增加投产，总规模不断增大...市场竞争激烈。磷酸铁产品...国内外动力锂离子电池生产企业纷纷宣布扩产...市场竞争亦将日趋激烈。",
+      "related_entity": null,
+      "related_product": "钛白粉、磷酸铁",
+      "quote": "（二）主要产品的市场竞争风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "钛精矿是公司生产钛白粉的主要原材料...未来如果攀西地区因环保、产业政策等各种因素减少了钛矿的供应，或因钛矿原料供应紧张，造成钛精矿价格大幅上涨，则将增加公司的采购和生产成本。",
+      "related_entity": null,
+      "related_product": "钛白粉",
+      "quote": "（三）主要原材料供应及价格波动的风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "磷酸铁锂行业技术路线迭代加快，具有成本、品质优势的企业才能发展。",
+      "related_entity": null,
+      "related_product": "磷酸铁",
+      "quote": "技术路线迭代加快，具有成本、品质优势的企业才能发展。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家发改委...颁布《产业结构调整指导目录（2024年本）》...限制硫酸法钛白粉(联产法工艺除外)...环保监管的趋严也将推动行业向绿色、高效生产转型。",
+      "related_entity": null,
+      "related_product": "钛白粉",
+      "quote": "（一）宏观经济及下游行业周期性波动变化的风险...环保监管的趋严也将推动行业向绿色、高效生产转型。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司主要客户为长期战略合作客户...如果未来公司主要客户受行业政策影响或经营情况发生较大变化，仍然存在应收账款不能按合同约定及时收回或发生坏账的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（五）销售账款回收风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口产品销售业务主要以美元、欧元报价和结算，若相关外币兑人民币的结算汇率出现大幅下跌，公司的出口业务可能会面临汇兑损失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（六）汇率波动风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "欧盟对中国钛白粉实施为期五年的反倾销税，出口市场受阻。",
+      "related_entity": "欧盟",
+      "related_product": "钛白粉",
+      "quote": "叠加欧盟对中国钛白粉实施为期五年的反倾销税，出口市场受阻。"
+    }
+  ]
+}

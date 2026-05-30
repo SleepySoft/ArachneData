@@ -1,0 +1,506 @@
+{
+  "company_name_mentioned": "深圳市奋达科技股份有限公司",
+  "produces": [
+    {
+      "name": "电声产品",
+      "type": "device",
+      "revenue_proportion": "51.49%",
+      "quote": "分产品... 电声产品 1,396,322,169.81 51.49% ... 毛利率比上年同期增减... -6.88%"
+    },
+    {
+      "name": "健康电器",
+      "type": "device",
+      "revenue_proportion": "26.08%",
+      "quote": "分产品... 健康电器 707,242,797.60 26.08% ... 毛利率比上年同期增减... -5.65%"
+    },
+    {
+      "name": "智能门锁",
+      "type": "device",
+      "revenue_proportion": "8.51%",
+      "quote": "分产品... 智能门锁 230,783,914.37 8.51% ... 毛利率比上年同期增减... 0.96%"
+    },
+    {
+      "name": "智能可穿戴产品",
+      "type": "device",
+      "revenue_proportion": "3.49%",
+      "quote": "分产品... 智能可穿戴产品 94,613,540.21 3.49% ... 毛利率比上年同期增减... 5.78%"
+    },
+    {
+      "name": "其他产品",
+      "type": "device",
+      "revenue_proportion": "2.94%",
+      "quote": "分产品... 其他产品 79,821,154.64 2.94%"
+    },
+    {
+      "name": "租赁及其他业务",
+      "type": "service",
+      "revenue_proportion": "7.48%",
+      "quote": "分产品... 其他业务 202,887,634.05 7.48%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "芯片、电容、电阻和包装材料等",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需原材料主要包括芯片、电容、电阻和包装材料等，占公司主营业务成本的比重较大。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子（如音频设备、智能家居）",
+      "source_product": "电声产品",
+      "quote": "公司主营消费电子整机及其核心部件的研发、设计、生产与销售... 主要产品包括电声产品、智能穿戴、智能门锁及其他新型智能硬件、健康电器等四大系列"
+    },
+    {
+      "name": "健康管理、运动健身",
+      "source_product": "智能穿戴产品",
+      "quote": "智能穿戴设备领域，公司围绕运动识别及心率、血氧、血压等生命体征连续检测方面的核心技术体系，聚焦于中高端户外运动、健身房以及健康医疗监护场景"
+    },
+    {
+      "name": "美发护理",
+      "source_product": "健康电器",
+      "quote": "健康电器领域，公司主要专注于美发电器专业级和消费级市场"
+    },
+    {
+      "name": "智能家居、安防",
+      "source_product": "智能门锁",
+      "quote": "通过设立全资子公司奋达智能家居，致力于智能锁等智能家居领域的技术、产品和内容整合的研发、制造、销售"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "肖奋",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人肖奋... 现任公司董事长"
+    },
+    {
+      "name": "夏泽华",
+      "role": "总经理",
+      "quote": "夏泽华先生，公司总经理"
+    },
+    {
+      "name": "肖韵",
+      "role": "董事、副总经理",
+      "quote": "肖韵女士... 现任公司董事，2021年8月至今任公司副总经理"
+    },
+    {
+      "name": "肖晓",
+      "role": "董事、财务负责人",
+      "quote": "肖晓先生... 2021年8月至今任公司董事，2022年6月至今任公司财务负责人"
+    },
+    {
+      "name": "周桂清",
+      "role": "副总经理、董事会秘书",
+      "quote": "周桂清先生... 2022年4月至今任公司副总经理及董事会秘书"
+    },
+    {
+      "name": "谢玉平",
+      "role": "副董事长",
+      "quote": "谢玉平女士... 2026年2月至今任公司副董事长"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "越南奋达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电声及美发电器产品的生产",
+      "quote": "越南奋达科技... 电声及美发电器产品的生产"
+    },
+    {
+      "name": "深圳市奋达智能技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能可穿戴产品的研发、生产与销售",
+      "quote": "奋达智能... 智能可穿戴产品的研发、生产与销售"
+    },
+    {
+      "name": "珠海市奋达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电声产品的研发、生产与销售",
+      "quote": "珠海奋达科技... 电声产品的研发、生产与销售"
+    },
+    {
+      "name": "东莞奋达技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "美发电器的生产",
+      "quote": "东莞奋达技术... 美发电器的生产"
+    },
+    {
+      "name": "深圳市罗漫斯智能家居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能门锁及扫地机器人等智能家居产品的研发、生产与销售",
+      "quote": "奋达智能家居... 智能门锁及扫地机器人等智能家居产品的研发、生产与销售（ODM及JDM模式）"
+    },
+    {
+      "name": "广东奋达医疗有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能可穿戴产品的研发、生产与销售",
+      "quote": "广东奋达医疗... 智能可穿戴产品的研发、生产与销售"
+    },
+    {
+      "name": "商汤科技",
+      "relation_type": "customer",
+      "business_details": "合作生产AI棋类机器人“元萝卜”",
+      "quote": "公司与商汤合作生产的AI棋类机器人“元萝卜”"
+    },
+    {
+      "name": "华为",
+      "relation_type": "customer",
+      "business_details": "智能音箱等产品合作",
+      "quote": "公司较早进入智能音箱行业... 与主流智能音箱品牌商如阿里巴巴、华为、荣耀、百度等均建立了合作关系"
+    },
+    {
+      "name": "阿里巴巴",
+      "relation_type": "customer",
+      "business_details": "智能音箱产品合作",
+      "quote": "公司较早进入智能音箱行业... 与主流智能音箱品牌商如阿里巴巴、华为、荣耀、百度等均建立了合作关系"
+    },
+    {
+      "name": "百度",
+      "relation_type": "customer",
+      "business_details": "智能音箱产品合作",
+      "quote": "公司较早进入智能音箱行业... 与主流智能音箱品牌商如阿里巴巴、华为、荣耀、百度等均建立了合作关系"
+    },
+    {
+      "name": "WalMart",
+      "relation_type": "customer",
+      "business_details": "主要客户，销售电声产品等",
+      "quote": "主要客户包括WalMart、Amazon、LG、BestBuy、Creative、Yoto等国内外知名企业"
+    },
+    {
+      "name": "Amazon",
+      "relation_type": "customer",
+      "business_details": "主要客户，销售电声产品等",
+      "quote": "主要客户包括WalMart、Amazon、LG、BestBuy、Creative、Yoto等国内外知名企业"
+    },
+    {
+      "name": "LG",
+      "relation_type": "customer",
+      "business_details": "主要客户，销售电声产品等",
+      "quote": "主要客户包括WalMart、Amazon、LG、BestBuy、Creative、Yoto等国内外知名企业"
+    },
+    {
+      "name": "Philips",
+      "relation_type": "customer",
+      "business_details": "主要客户，销售智能穿戴、健康电器等",
+      "quote": "智能穿戴设备领域... 主要客户包括Philips、Amazfit、Wahoo、OTF、Keep、Kumi、华为、荣耀等... 健康电器领域... 主要客户有FaroukSystem、HOT、Philips、GHD、Panasonic、TESCOM、MTG等业内知名企业"
+    },
+    {
+      "name": "FaroukSystem",
+      "relation_type": "customer",
+      "business_details": "主要客户，销售健康电器（美发电器）",
+      "quote": "健康电器领域... 主要客户有FaroukSystem、HOT、Philips、GHD、Panasonic、TESCOM、MTG等业内知名企业"
+    },
+    {
+      "name": "汤姆猫",
+      "relation_type": "joint_venture",
+      "business_details": "签署战略合作协议，共同进军消费级AI智能陪伴机器人领域",
+      "quote": "公司与汤姆猫、福莱新材签署战略合作协议，共同进军消费级AI智能陪伴机器人领域"
+    },
+    {
+      "name": "福莱新材",
+      "relation_type": "joint_venture",
+      "business_details": "签署战略合作协议，共同进军消费级AI智能陪伴机器人领域",
+      "quote": "公司与汤姆猫、福莱新材签署战略合作协议，共同进军消费级AI智能陪伴机器人领域"
+    },
+    {
+      "name": "深圳市高新投集团有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "深圳市高新投集团有限公司... 国有法人... 持股比例 2.19%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电声产品",
+      "segment_type": "product_line",
+      "revenue_amount": "139,632.22万元",
+      "revenue_proportion": "51.49%",
+      "gross_margin": "18.21%",
+      "yoy_change": "-15.93%",
+      "quote": "（一）电声产品：报告期内，公司电声产品业务板块实现销售收入139,632.22万元，同比下降15.93%... 电声产品 18.21%"
+    },
+    {
+      "name": "健康电器",
+      "segment_type": "product_line",
+      "revenue_amount": "70,724.28万元",
+      "revenue_proportion": "26.08%",
+      "gross_margin": "19.11%",
+      "yoy_change": "-15.40%",
+      "quote": "（二）健康电器：报告期内，公司健康电器业务板块实现销售收入70,724.28万元，同比下降15.40%... 健康电器 19.11%"
+    },
+    {
+      "name": "智能可穿戴",
+      "segment_type": "product_line",
+      "revenue_amount": "9,461.35万元",
+      "revenue_proportion": "3.49%",
+      "gross_margin": "10.57%",
+      "yoy_change": "-49.36%",
+      "quote": "（三）智能可穿戴：报告期内，公司智能可穿戴业务板块实现销售收入9,461.35万元，同比下降49.36%... 智能可穿戴产品 10.57%"
+    },
+    {
+      "name": "智能门锁及其他新型智能硬件",
+      "segment_type": "product_line",
+      "revenue_amount": "23,078.39万元",
+      "revenue_proportion": "8.51%",
+      "gross_margin": "3.00%",
+      "yoy_change": "-2.12%",
+      "quote": "（四）智能门锁及其他新型智能硬件产品：报告期内，公司智能门锁业务板块实现销售收入23,078.39万元，同比下降2.12%... 智能门锁 3.00%"
+    },
+    {
+      "name": "亚洲地区（不含国内）",
+      "segment_type": "region",
+      "revenue_amount": "353,285,371.85元",
+      "revenue_proportion": "13.03%",
+      "gross_margin": "16.36%",
+      "yoy_change": "-20.17%",
+      "quote": "分地区... 亚洲地区（不含国内） 353,285,371.85 13.03%... 营业收入比上年同期增减 -20.17%... 毛利率比上年... 16.36%"
+    },
+    {
+      "name": "欧洲地区",
+      "segment_type": "region",
+      "revenue_amount": "694,076,002.79元",
+      "revenue_proportion": "25.60%",
+      "gross_margin": "21.68%",
+      "yoy_change": "-29.64%",
+      "quote": "分地区... 欧洲地区 694,076,002.79 25.60%... 营业收入比上年同期增减 -29.64%... 毛利率比上年... 21.68%"
+    },
+    {
+      "name": "美洲地区",
+      "segment_type": "region",
+      "revenue_amount": "890,522,713.77元",
+      "revenue_proportion": "32.84%",
+      "gross_margin": "18.66%",
+      "yoy_change": "-8.47%",
+      "quote": "分地区... 美洲地区 890,522,713.77 32.84%... 营业收入比上年同期增减 -8.47%... 毛利率比上年... 18.66%"
+    },
+    {
+      "name": "国内地区",
+      "segment_type": "region",
+      "revenue_amount": "560,138,765.48元",
+      "revenue_proportion": "20.66%",
+      "gross_margin": "5.10%",
+      "yoy_change": "4.49%",
+      "quote": "分地区... 国内地区 560,138,765.48 20.66%... 营业收入比上年同期增减 4.49%... 毛利率比上年... 5.10%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电声产品",
+      "metric_type": "sales_volume",
+      "value": "708.56万套",
+      "period": "2025年",
+      "quote": "电声产品... 销售量 万套 708.56"
+    },
+    {
+      "product": "电声产品",
+      "metric_type": "production_volume",
+      "value": "714.40万套",
+      "period": "2025年",
+      "quote": "电声产品... 生产量 万套 714.40"
+    },
+    {
+      "product": "电声产品",
+      "metric_type": "inventory_volume",
+      "value": "17.76万套",
+      "period": "2025年末",
+      "quote": "电声产品... 库存量 万套 17.76"
+    },
+    {
+      "product": "健康电器",
+      "metric_type": "sales_volume",
+      "value": "885.18万套",
+      "period": "2025年",
+      "quote": "健康电器... 销售量 万套 885.18"
+    },
+    {
+      "product": "健康电器",
+      "metric_type": "production_volume",
+      "value": "889.88万套",
+      "period": "2025年",
+      "quote": "健康电器... 生产量 万套 889.88"
+    },
+    {
+      "product": "健康电器",
+      "metric_type": "inventory_volume",
+      "value": "19.79万套",
+      "period": "2025年末",
+      "quote": "健康电器... 库存量 万套 19.79"
+    },
+    {
+      "product": "智能门锁",
+      "metric_type": "sales_volume",
+      "value": "101.36万套",
+      "period": "2025年",
+      "quote": "智能门锁... 销售量 万套 101.36"
+    },
+    {
+      "product": "智能门锁",
+      "metric_type": "production_volume",
+      "value": "101.34万套",
+      "period": "2025年",
+      "quote": "智能门锁... 生产量 万套 101.34"
+    },
+    {
+      "product": "智能可穿戴产品",
+      "metric_type": "sales_volume",
+      "value": "71.09万套",
+      "period": "2025年",
+      "quote": "智能可穿戴产品... 销售量 万套 71.09"
+    },
+    {
+      "product": "智能可穿戴产品",
+      "metric_type": "production_volume",
+      "value": "67.08万套",
+      "period": "2025年",
+      "quote": "智能可穿戴产品... 生产量 万套 67.08"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "约2,000万套（主要产品）",
+      "period": null,
+      "quote": "主要产品产能约2,000万套"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "越南北宁新生产基地",
+      "project_type": "capacity_expansion",
+      "location": "越南北宁",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年6月正式建成投产，快速进入产能爬坡阶段，自9月起员工总数已突破千人，整体运行步入稳定阶段并顺利实现满产",
+      "expected_completion_time": null,
+      "quote": "公司于2025年3月启动了越南北宁新生产基地的筹建工作... 北宁生产基地于2025年6月正式建成投产... 新生产基地快速进入产能爬坡阶段，自9月起员工总数已突破千人，整体运行步入稳定阶段并顺利实现满产"
+    },
+    {
+      "name": "珠海园区物业租赁",
+      "project_type": "other",
+      "location": "广东省珠海市金湾区三灶镇格创·云谷北区",
+      "investment_amount": null,
+      "designed_capacity": "租赁面积为21.2万平方米",
+      "progress": null,
+      "expected_completion_time": "租期10年",
+      "quote": "公司于2023年2月与珠海格创科技产业发展有限公司... 签订了《格创·云谷北区物业租赁合同》，约定租赁其位于广东省珠海市金湾区三灶镇的格创·云谷北区项目物业，租赁面积为21.2万平方米，租期10年。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利及软件著作权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年末，公司及主要子公司累计拥有专利及软件著作权共1,473项，其中发明专利119项、实用新型专利706项、外观设计专利332项、软件著作权316项",
+      "quote": "截至2025年末，公司及主要子公司累计拥有专利及软件著作权共1,473项，其中发明专利119项、实用新型专利706项、外观设计专利332项、软件著作权316项"
+    },
+    {
+      "name": "新增专利及软件著作权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年度公司及主要子公司新增专利及软件著作权289项，其中发明专利42项，实用新型专利146项、外观设计专利60项，软件著作权41项",
+      "quote": "2025年度公司及主要子公司新增专利及软件著作权289项，其中发明专利42项，实用新型专利146项、外观设计专利60项，软件著作权41项"
+    },
+    {
+      "name": "质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有完善的质量控制体系，已取得 ISO9001:2000质量体系认证、ISO14001:2004 环境管理体系认证、IECQQC08000:2012有害物质管理体系认证"
+    },
+    {
+      "name": "CNAS认证检测中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "检测中心通过了CNAS认证"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年度研发投入21,119.26万元，同比增长21.87%，占营业收入比例7.79%",
+      "quote": "2025年度研发投入21,119.26万元，同比增长21.87%，占营业收入比例7.79%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "48.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 48.68%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "18.96%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "公司前5大客户资料... 客户1 514,127,238.78 18.96%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 9.68%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "3.15%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料... 供应商1 58,797,069.17 3.15%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "消费电子行业竞争激烈，行业技术发展迅速、产品更新迭代频繁导致消费者偏好转变较快，产品生命周期普遍较短。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术研发及行业竞争风险... 公司所处的消费电子行业竞争激烈，行业技术发展迅速、产品更新迭代频繁导致消费者偏好转变较快，产品生命周期普遍较短。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司坚持大客户战略，核心客户的收入占比较高，其中2025年前五大客户的销售比重近50%... 如果未来主要客户的经营状况出现重大不利变化... 将会对公司的生产经营带来负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "客户相对集中的风险... 公司坚持大客户战略，核心客户的收入占比较高，其中2025年前五大客户的销售比重近50%... 如果未来公司主要客户的经营状况出现重大不利变化... 将会对公司的生产经营带来负面影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司产品主要销往海外市场... 如美国滥施关税，可能导致公司部分美国客户流失、订单量和售价下调，进而对公司收入及盈利水平形成压力。",
+      "related_entity": "美国",
+      "related_product": null,
+      "quote": "国际贸易风险... 公司产品主要以出口为主，其中美国出口占总营收比重约三成，如美国滥施关税，可能导致公司部分美国客户流失、订单量和售价下调，进而对公司收入及盈利水平形成压力。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产所需原材料主要包括芯片、电容、电阻和包装材料等，占公司主营业务成本的比重较大。当前稀有金属、存储芯片的供求缺口持续扩大，原材料供应的稳定性及价格走势都将影响公司的产品质量及盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人民币汇率及原材料价格波动的风险... 公司生产所需原材料主要包括芯片、电容、电阻和包装材料等，占公司主营业务成本的比重较大。当前稀有金属、存储芯片的供求缺口持续扩大，原材料供应的稳定性及价格走势都将影响公司的产品质量及盈利能力。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司产品以外销为主，出口产品主要以美元报价和结算... 人民币兑美元汇率上升将会直接对公司出口业务造成一定汇兑损失，从而对公司的盈利稳定性带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人民币汇率及原材料价格波动的风险... 公司产品以外销为主，出口产品主要以美元报价和结算... 人民币兑美元汇率上升将会直接对公司出口业务造成一定汇兑损失，从而对公司的盈利稳定性带来不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "宏观经济、国际经贸规则重构等不确定风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观环境的风险... 国际货币基金组织... 预计放缓至3.1%。... 宏观环境的不确定性将直接对全球产业供应链及消费者信心产生冲击... 公司可能面临市场需求整体萎缩、国际市场开拓难度加大、原有客户订单减少的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "如若公司的技术研发及产品创新能力无法与市场需求转变及产品技术升级换代的速度相匹配，或核心技术人才在行业竞争中流失，将存在因竞争力下降而导致产品及技术面临淘汰的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术研发及行业竞争风险... 如若公司的技术研发及产品创新能力无法与市场需求转变及产品技术升级换代的速度相匹配，或核心技术人才在行业竞争中流失，将存在因竞争力下降而导致产品及技术面临淘汰的风险。"
+    }
+  ]
+}

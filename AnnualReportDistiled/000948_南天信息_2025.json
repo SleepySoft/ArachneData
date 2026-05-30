@@ -1,0 +1,601 @@
+{
+  "company_name_mentioned": "云南南天电子信息产业股份有限公司",
+  "produces": [
+    {
+      "name": "软件开发及服务",
+      "type": "service",
+      "revenue_proportion": "26.50%",
+      "quote": "分产品 软件开发及服务 2,650,641,179.67 26.50%"
+    },
+    {
+      "name": "集成解决方案",
+      "type": "service",
+      "revenue_proportion": "33.70%",
+      "quote": "分产品 集成解决方案 3,371,491,818.97 33.70%"
+    },
+    {
+      "name": "IT产品销售及产业互联网",
+      "type": "service",
+      "revenue_proportion": "38.28%",
+      "quote": "分产品 IT产品销售及产业互联网 3,829,793,894.78 38.28%"
+    },
+    {
+      "name": "智能渠道解决方案",
+      "type": "service",
+      "revenue_proportion": "1.20%",
+      "quote": "分产品 智能渠道解决方案 120,046,459.55 1.20%"
+    },
+    {
+      "name": "创新业务",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "创新业务围绕主营业务升级和新技术应用需求，持续开展人工智能、大数据、区块链、数字人民币、信创等方向的研发、验证和场景化应用探索。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "IT产品",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "IT产品销售及产业互联网以IT产品销售和渠道运营为基础，持续开展服务器、AI智算、半导体、网络设备、软件及相关产品经营"
+    }
+  ],
+  "applications": [
+    {
+      "name": "金融行业（银行、保险、信托等）",
+      "source_product": "软件开发及服务、集成解决方案、智能渠道解决方案",
+      "quote": "公司深耕行业信息化、数字化领域四十年，长期以金融科技和数字化服务为主要业务方向"
+    },
+    {
+      "name": "电力、通信、智慧交通及相关政企领域",
+      "source_product": "集成解决方案、IT产品销售及产业互联网",
+      "quote": "面向数字经济相关场景，公司依托既有基础设施建设、解决方案、交付服务等能力，在电力、通信、智慧交通及相关政企领域持续开展业务拓展和能力复制。"
+    },
+    {
+      "name": "能源、电力、交通、电信、教育、医院、政务等行业应用",
+      "source_product": "创新业务、集成解决方案",
+      "quote": "公司围绕行业应用信创持续开展相关业务布局，重点拓展金融、能源、电力、交通、电信、教育、医院、政务等领域的应用机会。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐宏灿",
+      "role": "董事长、董事",
+      "quote": "公司负责人徐宏灿、主管会计工作负责人陈宇峰及会计机构负责人（会计主管人员）郑勇勇声明"
+    },
+    {
+      "name": "陈宇峰",
+      "role": "总裁、董事、副董事长",
+      "quote": "主管会计工作负责人陈宇峰"
+    },
+    {
+      "name": "熊辉",
+      "role": "副总裁、董事",
+      "quote": "熊辉：博士研究生学历；现任本公司董事、副总裁、软件业务集团执行总裁"
+    },
+    {
+      "name": "郑勇勇",
+      "role": "财务总监、董事",
+      "quote": "2025年3月18日，公司召开第九届董事会第十七次会议，会议审议通过《关于变更公司财务总监的议案》，郑勇勇先生自2025年3月18日起担任公司财务总监"
+    },
+    {
+      "name": "王琨",
+      "role": "董事",
+      "quote": "王琨：工学学士，工程师；现任本公司董事，工投集团专职外部董事"
+    },
+    {
+      "name": "喻强",
+      "role": "董事",
+      "quote": "喻强：工学学士，高级工程师；现任本公司董事，工投集团专职外部董事"
+    },
+    {
+      "name": "张旭明",
+      "role": "独立董事",
+      "quote": "张旭明：中国人民大学财政学博士，高级会计师、国务院特殊津贴专家、教授级高级工程师。现任本公司独立董事"
+    },
+    {
+      "name": "刘洋",
+      "role": "独立董事",
+      "quote": "刘洋：执业律师、注册会计师、高级会计师、注册税务师、银行从业资格、证券从业资格，中国政法大学学士、北京大学法律硕士。现任本公司独立董事"
+    },
+    {
+      "name": "李红琨",
+      "role": "独立董事",
+      "quote": "李红琨：财务管理博士，现任本公司独立董事，云南财经大学教授、硕士研究生导师"
+    },
+    {
+      "name": "何立",
+      "role": "副总裁",
+      "quote": "何立：硕士研究生学历，中级工程师；现任本公司副总裁、集成服务集团执行总裁"
+    },
+    {
+      "name": "赵起高",
+      "role": "董事会秘书、总法律顾问",
+      "quote": "赵起高：本科学历，中级会计师，注册会计师、审计师、注册评估师，通过国家司法考试，现任本公司董事会秘书、总法律顾问"
+    },
+    {
+      "name": "谢海英",
+      "role": "副总裁",
+      "quote": "谢海英：计算机工学学士，EMBA工商工商管理硕士。现任本公司副总裁、软件业务集团副总裁"
+    },
+    {
+      "name": "郁杨",
+      "role": "副总裁",
+      "quote": "郁杨：南开大学工学学士和管理学学士，现任本公司副总裁、云业务事业群总经理"
+    },
+    {
+      "name": "许宁",
+      "role": "副总裁",
+      "quote": "许宁：本科学历，高级工程师；现任本公司副总裁、软件业务集团执行副总裁、创新业务发展部/创新研究院任院长"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "云南省工业投资控股集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "工投集团直接持有南天信息87,237,219股股份...占南天信息总股本的35.38%，成为南天信息的控股股东"
+    },
+    {
+      "name": "云南工投数字科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原南天电子信息产业集团公司（南天集团），控股股东的一致行动人",
+      "quote": "工投数科 指 云南工投数字科技发展有限公司（原南天电子信息产业集团公司，即南天集团）"
+    },
+    {
+      "name": "北京南天软件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，软件、集成、服务等业务",
+      "quote": "北京南软 指 北京南天软件有限公司"
+    },
+    {
+      "name": "北京南天信息工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "北信工 指 北京南天信息工程有限公司"
+    },
+    {
+      "name": "上海南天电脑系统有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，软件、集成、服务等业务",
+      "quote": "上海南天 指 上海南天电脑系统有限公司"
+    },
+    {
+      "name": "广州南天电脑系统有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，软件、集成、服务等业务",
+      "quote": "广州南天 指 广州南天电脑系统有限公司"
+    },
+    {
+      "name": "云南南天凯玛科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，2025年清算注销",
+      "quote": "南天凯玛 指 云南南天凯玛科技有限责任公司"
+    },
+    {
+      "name": "北京星链南天科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，IT产品销售及产业互联网业务",
+      "quote": "星链南天 指 北京星链南天科技有限公司"
+    },
+    {
+      "name": "云南南天信息设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "南天设备 指 云南南天信息设备有限公司"
+    },
+    {
+      "name": "北京南天智联信息科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，2025年丧失控制权，智慧城市业务",
+      "quote": "南天智联 指 北京南天智联信息科技股份有限公司"
+    },
+    {
+      "name": "北京南天系统集成技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年新设子公司",
+      "quote": "2025年，公司新设子公司北京南天系统集成技术有限公司"
+    },
+    {
+      "name": "北京星立方科技发展股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，教育数据服务",
+      "quote": "星立方 指 北京星立方科技发展股份有限公司"
+    },
+    {
+      "name": "云南红岭云科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，互联网数据服务等",
+      "quote": "红岭云 指 云南红岭云科技股份有限公司"
+    },
+    {
+      "name": "华为技术有限公司",
+      "relation_type": "customer",
+      "business_details": "合作伙伴，行业+AI解决方案精英伙伴",
+      "quote": "公司与华为、新华三、浪潮、腾讯云等头部厂商的战略合作，成为华为“行业+AI解决方案精英伙伴”"
+    },
+    {
+      "name": "腾讯云计算（北京）有限责任公司",
+      "relation_type": "customer",
+      "business_details": "合作伙伴，联合发布全栈AI大模型解决方案",
+      "quote": "与腾讯联合发布“全栈AI大模型解决方案”"
+    },
+    {
+      "name": "阿里巴巴集团控股有限公司",
+      "relation_type": "customer",
+      "business_details": "合作伙伴，阿里瓴羊核心孵化认证合作伙伴",
+      "quote": "成为“阿里瓴羊核心孵化认证合作伙伴”"
+    },
+    {
+      "name": "联想集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "上游厂商合作",
+      "quote": "公司已与联想、戴尔、AMD、MSI、锐捷等上游头部厂商建立了较为稳定的合作关系"
+    },
+    {
+      "name": "戴尔科技公司",
+      "relation_type": "supplier",
+      "business_details": "上游厂商合作",
+      "quote": "公司已与联想、戴尔、AMD、MSI、锐捷等上游头部厂商建立了较为稳定的合作关系"
+    },
+    {
+      "name": "AMD公司",
+      "relation_type": "supplier",
+      "business_details": "上游厂商合作",
+      "quote": "公司已与联想、戴尔、AMD、MSI、锐捷等上游头部厂商建立了较为稳定的合作关系"
+    },
+    {
+      "name": "MSI微星科技",
+      "relation_type": "supplier",
+      "business_details": "上游厂商合作",
+      "quote": "公司已与联想、戴尔、AMD、MSI、锐捷等上游头部厂商建立了较为稳定的合作关系"
+    },
+    {
+      "name": "锐捷网络股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "上游厂商合作",
+      "quote": "公司已与联想、戴尔、AMD、MSI、锐捷等上游头部厂商建立了较为稳定的合作关系"
+    },
+    {
+      "name": "麒麟软件有限公司",
+      "relation_type": "customer",
+      "business_details": "合作伙伴，最高等级卓越伙伴",
+      "quote": "成为麒麟软件最高等级卓越伙伴"
+    },
+    {
+      "name": "三峡集团",
+      "relation_type": "customer",
+      "business_details": "客户，承建敏捷智能分析评价与决策支持平台",
+      "quote": "其中，为三峡集团承建的“敏捷智能分析评价与决策支持平台”"
+    },
+    {
+      "name": "信永中和会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "信永中和 指 信永中和会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "软件开发及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "2,650,641,179.67",
+      "revenue_proportion": "26.50%",
+      "gross_margin": "30.43%",
+      "yoy_change": "7.59%",
+      "quote": "分产品 软件开发及服务 2,650,641,179.67 26.50% 2,463,682,089.19 26.07% 7.59%"
+    },
+    {
+      "name": "集成解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "3,371,491,818.97",
+      "revenue_proportion": "33.70%",
+      "gross_margin": "6.87%",
+      "yoy_change": "-13.91%",
+      "quote": "分产品 集成解决方案 3,371,491,818.97 33.70% 3,916,400,042.25 41.44% -13.91%"
+    },
+    {
+      "name": "IT产品销售及产业互联网",
+      "segment_type": "product_line",
+      "revenue_amount": "3,829,793,894.78",
+      "revenue_proportion": "38.28%",
+      "gross_margin": "3.45%",
+      "yoy_change": "32.20%",
+      "quote": "分产品 IT产品销售及产业互联网 3,829,793,894.78 38.28% 2,896,918,065.34 30.65% 32.20%"
+    },
+    {
+      "name": "智能渠道解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "120,046,459.55",
+      "revenue_proportion": "1.20%",
+      "gross_margin": null,
+      "yoy_change": "-16.31%",
+      "quote": "分产品 智能渠道解决方案 120,046,459.55 1.20% 143,442,543.90 1.52% -16.31%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "4,472,512,748.14",
+      "revenue_proportion": "44.71%",
+      "gross_margin": "18.11%",
+      "yoy_change": "-9.04%",
+      "quote": "分地区 华北 4,472,512,748.14 44.71% 4,917,083,153.48 52.03% -9.04%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "2,205,542,603.84",
+      "revenue_proportion": "22.05%",
+      "gross_margin": "8.85%",
+      "yoy_change": "15.02%",
+      "quote": "分地区 华东 2,205,542,603.84 22.05% 1,917,568,283.68 20.29% 15.02%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,410,539,412.66",
+      "revenue_proportion": "14.10%",
+      "gross_margin": "4.45%",
+      "yoy_change": "44.22%",
+      "quote": "分地区 华南 1,410,539,412.66 14.10% 978,059,277.13 10.35% 44.22%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,095,344,219.12",
+      "revenue_proportion": "10.94%",
+      "gross_margin": "9.00%",
+      "yoy_change": "1.56%",
+      "quote": "分地区 西南 1,095,344,219.12 10.94% 1,078,572,315.74 11.41% 1.56%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "南天元河数智运维平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "13,957,356.16",
+      "designed_capacity": null,
+      "progress": "开发中",
+      "expected_completion_time": null,
+      "quote": "南天元河数智运维平台 13,957,356.16 开发中"
+    },
+    {
+      "name": "银政智慧园区平台升级",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "3,514,437.72",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "银政智慧园区平台升级 3,514,437.72 已完成"
+    },
+    {
+      "name": "数据魔方产品簇产品",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "3,324,822.16",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "数据魔方产品簇产品 3,324,822.16 已完成"
+    },
+    {
+      "name": "智能化资源外包业务运营平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "2,558,545.88",
+      "designed_capacity": null,
+      "progress": "研发基本完成",
+      "expected_completion_time": null,
+      "quote": "智能化资源外包业务运营平台 2,558,545.88 研发基本完成"
+    },
+    {
+      "name": "南天轻量化智能交互式自助终端",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "2,325,520.14",
+      "designed_capacity": null,
+      "progress": "开发中",
+      "expected_completion_time": null,
+      "quote": "南天轻量化智能交互式自助终端 2,325,520.14 开发中"
+    },
+    {
+      "name": "基于大模型的银行业务场景智能化应用平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "5,294,699.57",
+      "designed_capacity": null,
+      "progress": "研发基本完成",
+      "expected_completion_time": null,
+      "quote": "基于大模型的银行业务场景智能化应用平台 5,294,699.57 研发基本完成"
+    },
+    {
+      "name": "一体化智能风控策略平台升级",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "2,219,174.68",
+      "designed_capacity": null,
+      "progress": "研发基本完成",
+      "expected_completion_time": null,
+      "quote": "一体化智能风控策略平台升级 2,219,174.68 研发基本完成"
+    },
+    {
+      "name": "银行零售客户经营与运营管理平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "2,109,091.39",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "银行零售客户经营与运营管理平台 2,109,091.39 已完成"
+    },
+    {
+      "name": "基于大模型的软件开发辅助平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "1,537,727.62",
+      "designed_capacity": null,
+      "progress": "研发基本完成",
+      "expected_completion_time": null,
+      "quote": "基于大模型的软件开发辅助平台 1,537,727.62 研发基本完成"
+    },
+    {
+      "name": "南天信创激光文印产品线",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "1,397,544.45",
+      "designed_capacity": null,
+      "progress": "研发完成，已投产",
+      "expected_completion_time": null,
+      "quote": "南天信创激光文印产品线 1,397,544.45 研发完成，已投产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是国家发改委、科技部、财政部、海关总署及国家税务局五部委联合认定的“国家认定企业技术中心”"
+    },
+    {
+      "name": "信息系统建设和服务能力CS5级（杰出级）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获得全国首批“信息系统建设和服务能力CS5级（杰出级）”资质"
+    },
+    {
+      "name": "国产化信息系统集成和服务能力LS4评估",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过国产化信息系统集成和服务能力最高等级（LS4）评估"
+    },
+    {
+      "name": "CMMI3.0 ML5",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "南天信息与子公司南天软件通过CMMI3.0 ML5正式评估"
+    },
+    {
+      "name": "ISO38505数据治理管理体系等认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "报告期内，公司获得 ISO38505 数据治理管理体系、ISO27701 隐私信息管理体系、ISO50001 能源管理体系、GB/T35770合规管理体系、GB/T45341数字化转型管理体系(AA)证书"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计拥有专利175项，报告期内新增授权专利22项（发明专利10项）",
+      "quote": "报告期内，公司...新增授权专利22项（发明专利10项）和软件著作权124项，累计拥有专利175项、软件著作权1355项。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "累计拥有软件著作权1355项，报告期内新增124项",
+      "quote": "报告期内，公司...新增授权专利22项（发明专利10项）和软件著作权124项，累计拥有专利175项、软件著作权1355项。"
+    },
+    {
+      "name": "全栈AI大模型解决方案",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "成功推出全栈AI大模型解决方案、ChatTask（Agent助手平台）等系列产品及方案。"
+    },
+    {
+      "name": "ChatTask（Agent助手平台）",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "成功推出全栈AI大模型解决方案、ChatTask（Agent助手平台）等系列产品及方案。"
+    },
+    {
+      "name": "鸿蒙联合创新解决方案",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "与华为携手推出“鸿蒙联合创新解决方案”"
+    },
+    {
+      "name": "金融信创实验室",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托“云南国资国企信创实验室”的平台优势，公司在行业信创领域具备了从适配测试到项目落地的全链条服务能力。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "26.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,652,692,293.50 前五名客户合计销售金额占年度销售总额比例 26.52%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "8.66%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 865,916,669.01 8.66%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.73%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 5,118,382,912.18 前五名供应商合计采购金额占年度采购总额比例 42.73%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "12.82%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 1,535,951,924.05 12.82%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司客户以银行等金融机构为主，业务发展受监管政策导向影响较大。随着数字金融监管持续深化，监管部门对金融机构合规管理、数据安全及风险控制的要求不断提高，可能增加公司项目实施难度、提高交付标准，进而对公司业务开展产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业政策风险...公司客户以银行等金融机构为主，业务发展受监管政策导向影响较大。随着数字金融监管持续深化，监管部门对金融机构合规管理、数据安全及风险控制的要求不断提高，可能增加公司项目实施难度、提高交付标准，进而对公司业务开展产生一定影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "除传统金融IT服务商外，互联网科技企业、云服务厂商及央国企背景数字科技公司加速布局金融科技领域，依托自身技术、资金及生态资源优势抢占市场份额，市场竞争日趋激烈。同时，云计算、人工智能等技术快速发展，推动行业商业模式由传统项目制向平台化、产品化转型，进一步加剧市场竞争压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争风险...除传统金融IT服务商外，互联网科技企业、云服务厂商及央国企背景数字科技公司加速布局金融科技领域，依托自身技术、资金及生态资源优势抢占市场份额，市场竞争日趋激烈。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "人工智能等前沿技术迭代速度加快，若公司技术升级、产品研发进度未能及时匹配市场需求变化与技术发展趋势，可能削弱公司市场竞争力。结合公司业务特点，主要技术风险体现在三个方面：一是人工智能，尤其是大模型技术发展迅猛，若未能有效实现大模型技术与金融业务场景的深度融合，可能影响相关产品落地成效与市场接受度；二是数据安全、模型可靠性及算法可解释性等要求不断提高，对金融IT系统的稳定性、安全性与合规性提出了更高标准；三是信创环境下软硬件产品适配的复杂度较高，可能对系统集成、项目实施效率及交付质量带来挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、技术风险...人工智能等前沿技术迭代速度加快，若公司技术升级、产品研发进度未能及时匹配市场需求变化与技术发展趋势，可能削弱公司市场竞争力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司所处行业为技术密集型行业，高度依赖技术与业务复合型人才。随着人工智能、大数据、云计算等前沿技术快速发展，既具备金融业务深度理解能力、又掌握新兴技术的复合型人才需求持续增长，行业人才竞争日益激烈，同时推动行业人力成本持续上升。若公司核心技术人才、核心管理人才出现流失，可能对公司项目交付效率、技术创新能力及业务拓展产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、人才流失风险...公司所处行业为技术密集型行业，高度依赖技术与业务复合型人才。"
+    },
+    {
+      "risk_type": "other",
+      "description": "全球经济环境不确定性加剧，地缘政治冲突、贸易摩擦、供应链波动等外部因素，可能对公司经营发展带来潜在影响。尤其公司硬件集成、数据中心建设等相关业务，关键元器件供应的不确定性与不稳定性，可能影响项目交付进度与质量，进而对公司业务开展产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、经济环境风险...全球经济环境不确定性加剧，地缘政治冲突、贸易摩擦、供应链波动等外部因素，可能对公司经营发展带来潜在影响。"
+    }
+  ]
+}

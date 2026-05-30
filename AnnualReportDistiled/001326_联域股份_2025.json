@@ -1,0 +1,426 @@
+{
+  "company_name_mentioned": "深圳市联域光电股份有限公司",
+  "produces": [
+    {
+      "name": "LED灯具",
+      "type": "device",
+      "revenue_proportion": "88.24%",
+      "quote": "分产品 LED灯具 1,357,045,398.48 88.24%"
+    },
+    {
+      "name": "LED光源",
+      "type": "device",
+      "revenue_proportion": "4.65%",
+      "quote": "分产品 LED光源 71,460,610.10 4.65%"
+    },
+    {
+      "name": "配件",
+      "type": "component",
+      "revenue_proportion": "5.47%",
+      "quote": "分产品 配件 84,066,335.26 5.47%"
+    },
+    {
+      "name": "充电桩",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新能源业务情况...目前，上述新能源业务尚处于市场拓展前期阶段，销售收入占比较小，对公司经营业绩暂未形成实质性贡献。"
+    },
+    {
+      "name": "储能产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "深圳市海搏数智科技有限公司...聚焦充电桩、储能产品的研发、生产及销售业务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电源",
+      "target_product": "LED灯具",
+      "cost_proportion": "69.89%",
+      "quote": "公司主营业务主要原材料为电源、灯珠、结构件等。LED灯具 材料 867,706,274.22 69.89%"
+    },
+    {
+      "name": "灯珠",
+      "target_product": "LED灯具",
+      "cost_proportion": null,
+      "quote": "公司主营业务主要原材料为电源、灯珠、结构件等。"
+    },
+    {
+      "name": "结构件",
+      "target_product": "LED灯具",
+      "cost_proportion": null,
+      "quote": "公司主营业务主要原材料为电源、灯珠、结构件等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "户外照明",
+      "source_product": "LED灯具（路灯、壁灯、泛光灯）",
+      "quote": "户外照明产品主要有路灯、壁灯、泛光灯等，可应用于市政道路、户外停车场、机场、船舶港口等场所。"
+    },
+    {
+      "name": "工业照明",
+      "source_product": "LED灯具（工矿灯）",
+      "quote": "工业照明产品主要有UFO工矿灯、面板工矿灯，用于工厂、仓库、车间等场所。"
+    },
+    {
+      "name": "植物照明",
+      "source_product": "LED灯具（植物灯）",
+      "quote": "特种照明产品涵盖植物灯、球场灯及防爆灯等用于专业照明场所如温室、石油石化区、大型体育场馆等场景。"
+    },
+    {
+      "name": "体育照明",
+      "source_product": "LED灯具（球场灯）",
+      "quote": "特种照明产品涵盖植物灯、球场灯及防爆灯等用于专业照明场所如温室、石油石化区、大型体育场馆等场景。"
+    },
+    {
+      "name": "防爆照明",
+      "source_product": "LED灯具（防爆灯）",
+      "quote": "特种照明产品涵盖植物灯、球场灯及防爆灯等用于专业照明场所如温室、石油石化区、大型体育场馆等场景。"
+    },
+    {
+      "name": "充电桩场景",
+      "source_product": "充电桩",
+      "quote": "其中，壁挂式充电设备主要面向家庭、社区等小功率、低频次充电场景；落地式充电终端适用于商场、高速服务区等大功率、高流量充电场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐建勇",
+      "role": "董事长",
+      "quote": "公司负责人潘年华...徐建勇先生，董事长...2021年6月至今任联域股份董事长。"
+    },
+    {
+      "name": "潘年华",
+      "role": "副董事长、总经理",
+      "quote": "公司负责人潘年华、主管会计工作负责人李群艳...潘年华先生，副董事长、总经理...2021年6月至今任联域股份副董事长、总经理。"
+    },
+    {
+      "name": "甘周聪",
+      "role": "董事、副总经理",
+      "quote": "甘周聪先生，董事、副总经理...2021年6月至今任联域股份董事、副总经理。"
+    },
+    {
+      "name": "郭垒庆",
+      "role": "董事、营销中心总监",
+      "quote": "郭垒庆先生，董事...2021年6月至今任联域股份董事、营销中心总监。"
+    },
+    {
+      "name": "徐建军",
+      "role": "董事、深圳海搏副总经理",
+      "quote": "徐建军先生，董事...2025年6月至今任深圳海搏副总经理；2021年6月至今任联域股份董事。"
+    },
+    {
+      "name": "梁燕",
+      "role": "董事、董事长特助",
+      "quote": "梁燕女士...2025年5月至今任联域股份董事长特助；2024年6月至今任联域股份董事。"
+    },
+    {
+      "name": "樊华",
+      "role": "独立董事",
+      "quote": "樊华先生，独立董事...2021年10月至今任联域股份独立董事。"
+    },
+    {
+      "name": "钱可元",
+      "role": "独立董事",
+      "quote": "钱可元先生，独立董事...2021年10月至今任联域股份独立董事。"
+    },
+    {
+      "name": "程小燕",
+      "role": "独立董事",
+      "quote": "程小燕女士，独立董事...2024年11月至今任联域股份独立董事。"
+    },
+    {
+      "name": "戴京剑",
+      "role": "副总经理",
+      "quote": "戴京剑先生...2021年6月至今，任联域股份副总经理。"
+    },
+    {
+      "name": "李群艳",
+      "role": "董事会秘书、财务总监",
+      "quote": "主管会计工作负责人李群艳及会计机构负责人（会计主管人员）李群艳...李群艳女士...2024年6月至今，任联域股份董事会秘书、财务总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "朗德万斯（LEDVANCE集团）",
+      "relation_type": "customer",
+      "business_details": "已与...朗德万斯（LEDVANCE）等国际或区域知名品牌商建立了稳定的业务合作关系。",
+      "quote": "目前已与朗德万斯（LEDVANCE）、昕诺飞（SIGNIFY）、RAB照明（RABLIGHTING）、美国合保（HUBBELL）等国际或区域知名品牌商建立了稳定的业务合作关系。"
+    },
+    {
+      "name": "昕诺飞",
+      "relation_type": "customer",
+      "business_details": "已与...昕诺飞（SIGNIFY）等国际或区域知名品牌商建立了稳定的业务合作关系。",
+      "quote": "目前已与朗德万斯（LEDVANCE）、昕诺飞（SIGNIFY）、RAB照明（RABLIGHTING）、美国合保（HUBBELL）等国际或区域知名品牌商建立了稳定的业务合作关系。"
+    },
+    {
+      "name": "RAB照明",
+      "relation_type": "customer",
+      "business_details": "已与...RAB照明（RAB LIGHTING）等国际或区域知名品牌商建立了稳定的业务合作关系。",
+      "quote": "目前已与朗德万斯（LEDVANCE）、昕诺飞（SIGNIFY）、RAB照明（RABLIGHTING）、美国合保（HUBBELL）等国际或区域知名品牌商建立了稳定的业务合作关系。"
+    },
+    {
+      "name": "美国合保",
+      "relation_type": "customer",
+      "business_details": "已与...美国合保（HUBBELL）等国际或区域知名品牌商建立了稳定的业务合作关系。",
+      "quote": "目前已与朗德万斯（LEDVANCE）、昕诺飞（SIGNIFY）、RAB照明（RABLIGHTING）、美国合保（HUBBELL）等国际或区域知名品牌商建立了稳定的业务合作关系。"
+    },
+    {
+      "name": "欧司朗",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "世界三大照明巨头之一，全球领先的照明公司，主要产品包括LED照明光源、LED通用照明、特殊照明灯具及照明系统解决方案等。"
+    },
+    {
+      "name": "洛阳奥维特精密轴承有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司战略参股洛阳奥维特精密轴承有限公司...公司持有洛阳奥维特18%的股权。",
+      "quote": "公司战略参股洛阳奥维特精密轴承有限公司...2025年9月，公司与洛阳奥维特精密轴承有限公司（以下简称“洛阳奥维特”）签署了《投资协议》，战略入股洛阳奥维特。目前，公司持有洛阳奥维特18%的股权"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "照明器具",
+      "segment_type": "product_line",
+      "revenue_amount": "1,512,572,343.84",
+      "revenue_proportion": "98.36%",
+      "gross_margin": "18.98%",
+      "yoy_change": "3.11%",
+      "quote": "分行业 照明器具 1,512,572,343.84 98.36%...照明器具 1,512,572,343.84 1,225,430,346.42 18.98% 3.11%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "25,179,249.60",
+      "revenue_proportion": "1.64%",
+      "gross_margin": null,
+      "yoy_change": "559.88%",
+      "quote": "分行业 其他 25,179,249.60 1.64%"
+    },
+    {
+      "name": "LED灯具",
+      "segment_type": "product_line",
+      "revenue_amount": "1,357,045,398.48",
+      "revenue_proportion": "88.24%",
+      "gross_margin": "19.09%",
+      "yoy_change": "3.84%",
+      "quote": "分产品 LED灯具 1,357,045,398.48 88.24%...LED灯具 1,357,045,398.48 1,097,993,394.71 19.09% 3.84%"
+    },
+    {
+      "name": "LED光源",
+      "segment_type": "product_line",
+      "revenue_amount": "71,460,610.10",
+      "revenue_proportion": "4.65%",
+      "gross_margin": null,
+      "yoy_change": "-16.92%",
+      "quote": "分产品 LED光源 71,460,610.10 4.65%"
+    },
+    {
+      "name": "配件",
+      "segment_type": "product_line",
+      "revenue_amount": "84,066,335.26",
+      "revenue_proportion": "5.47%",
+      "gross_margin": null,
+      "yoy_change": "13.47%",
+      "quote": "分产品 配件 84,066,335.26 5.47%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,471,993,575.08",
+      "revenue_proportion": "95.72%",
+      "gross_margin": "19.83%",
+      "yoy_change": "4.67%",
+      "quote": "分地区 境外 1,471,993,575.08 95.72%...境外 1,471,993,575.08 1,180,065,688.88 19.83% 4.67%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "65,758,018.36",
+      "revenue_proportion": "4.28%",
+      "gross_margin": null,
+      "yoy_change": "2.19%",
+      "quote": "分地区 境内 65,758,018.36 4.28%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "LED灯具",
+      "metric_type": "sales_volume",
+      "value": "5,194,773",
+      "period": "2025年",
+      "quote": "LED灯具 销售量 个 5,194,773"
+    },
+    {
+      "product": "LED灯具",
+      "metric_type": "production_volume",
+      "value": "5,148,760",
+      "period": "2025年",
+      "quote": "LED灯具 生产量 个 5,148,760"
+    },
+    {
+      "product": "LED灯具",
+      "metric_type": "inventory_volume",
+      "value": "402,131",
+      "period": "2025年末",
+      "quote": "LED灯具 库存量 个 402,131"
+    },
+    {
+      "product": "LED光源",
+      "metric_type": "sales_volume",
+      "value": "501,126",
+      "period": "2025年",
+      "quote": "LED光源 销售量 个 501,126"
+    },
+    {
+      "product": "LED光源",
+      "metric_type": "production_volume",
+      "value": "522,499",
+      "period": "2025年",
+      "quote": "LED光源 生产量 个 522,499"
+    },
+    {
+      "product": "LED光源",
+      "metric_type": "inventory_volume",
+      "value": "51,937",
+      "period": "2025年末",
+      "quote": "LED光源 库存量 个 51,937"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能照明生产总部基地项目",
+      "project_type": "capacity_expansion",
+      "location": "广东省中山市",
+      "investment_amount": "44,490.85万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "智能照明生产总部基地项目 44,490.85 26,516.11 101.03%...2024年12月31日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "11,417.8万元",
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "研发中心建设项目 11,417.8 11,417.8...2026年12月31日"
+    },
+    {
+      "name": "智能照明越南生产基地建设项目",
+      "project_type": "capacity_expansion",
+      "location": "越南海阳省平江县福田工业园区A15地块",
+      "investment_amount": "18,243.96万元",
+      "designed_capacity": null,
+      "progress": "建设中",
+      "expected_completion_time": "2027年11月07日",
+      "quote": "智能照明越南生产基地建设项目 18,243.96 173.84 0.95%...2027年11月07日"
+    },
+    {
+      "name": "越南生产基地",
+      "project_type": "capacity_expansion",
+      "location": "越南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已实现规模化稳定运营",
+      "expected_completion_time": null,
+      "quote": "越南基地作为海外核心产能枢纽，已实现规模化稳定运营"
+    },
+    {
+      "name": "墨西哥生产基地",
+      "project_type": "capacity_expansion",
+      "location": "墨西哥",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "运营中",
+      "expected_completion_time": null,
+      "quote": "墨西哥基地作为战略补充型生产基地...进一步增强全球供应体系的抗风险能力。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "LED照明产品设计与制造技术",
+      "asset_type": "core_technology",
+      "related_product": "LED灯具、光源、充电桩",
+      "quantitative_info": null,
+      "quote": "公司是一家专注于中、大功率LED照明产品研发、生产与销售的高新技术企业"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计共有专利389项",
+      "quote": "截至2025年12月31日，公司累计共有专利389项。"
+    },
+    {
+      "name": "国际认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "FCC/UL/DLC/CUL/CE/ROHS/SAA等",
+      "quote": "公司产品目前已通过了FCC/UL/DLC/CUL/CE/ROHS/SAA等一系列国内、国际认证"
+    },
+    {
+      "name": "省级工业设计中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年，公司企业工业设计中心入选省级工业设计中心"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.91%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 34.91%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "34.10%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 34.10%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司以外销为主，以美元作为主要结算货币...人民币汇率波动，一方面影响公司产品出口销售价格，另一方面也会使公司产生汇兑损益。因此，公司业务经营在一定程度上受到汇率风险的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、汇率变动风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着户外照明、工业照明领域逐步向专业化发展，传统照明企业也通过收购兼并等方式快速进入这一市场，加剧了市场竞争。如果未来市场竞争不断加剧，公司未能保持竞争力，将面临产品价格下降，可能处于不利的市场竞争地位。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主营业务主要原材料为电源、灯珠、结构件等。原材料成本占公司产品成本的比例较高，原材料价格的波动将对公司营业成本产生影响。如果原材料的市场供应情况出现大幅波动、原材料价格大幅上涨，而公司又不能顺利将成本上涨传导至产品销售价格时，会对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、原材料价格波动的风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "报告期内，公司外销收入占营业收入的比例较高，公司产品主要销往北美、欧洲、亚洲等地区。当前国际贸易环境受地缘政治博弈加剧、贸易保护主义抬头等因素影响，特别是关税壁垒的不确定性对公司海外业务构成较大挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、国际贸易政策风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司全资子公司深圳海搏聚焦充电桩、储能产品的研发、生产及销售...目前，深圳海搏新能源业务整体处于市场开拓起步阶段，品牌影响力与海外渠道资源仍需逐步积累；同时相关产品以海外市场为核心，面临各国差异化准入认证、贸易政策壁垒及地缘环境波动等外部不确定因素，存在市场拓展、订单获取不及预期进而导致经营业绩不及预期的风险。",
+      "related_entity": "深圳海搏",
+      "related_product": "充电桩、储能产品",
+      "quote": "5、新能源业务推进不及预期的风险"
+    }
+  ]
+}

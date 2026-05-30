@@ -1,0 +1,637 @@
+{
+  "company_name_mentioned": "国光电器股份有限公司",
+  "produces": [
+    {
+      "name": "音箱及扬声器",
+      "type": "device",
+      "revenue_proportion": "79.78% (2025年), 81.28% (2024年)",
+      "quote": "分产品 ... 音箱及扬声器 79.78% ... 6,308,622,943.94"
+    },
+    {
+      "name": "电池（聚合物锂离子电池）",
+      "type": "device",
+      "revenue_proportion": "7.12% (2025年), 6.52% (2024年)",
+      "quote": "分产品 ... 电池 7.12% ... 562,922,406.32"
+    },
+    {
+      "name": "电子零配件",
+      "type": "component",
+      "revenue_proportion": "11.11% (2025年), 10.37% (2024年)",
+      "quote": "分产品 ... 电子零配件 11.11% ... 878,927,809.67"
+    },
+    {
+      "name": "智能穿戴设备整机组装业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司新增智能穿戴设备整机组装业务，涉及AI眼镜、AI吊坠、AI耳机等产品。目前该业务尚处起步阶段，对公司整体营收及利润贡献均较为有限。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子元器件",
+      "target_product": "音响电声类产品",
+      "cost_proportion": null,
+      "quote": "公司日常生产所用主要原材料包括电子元器件、钢材、T 铁、盆架、音圈等，报告期内原材料占公司主营业务成本的比例较大。"
+    },
+    {
+      "name": "钢材",
+      "target_product": "音响电声类产品",
+      "cost_proportion": null,
+      "quote": "公司日常生产所用主要原材料包括电子元器件、钢材、T 铁、盆架、音圈等。"
+    },
+    {
+      "name": "T 铁",
+      "target_product": "音响电声类产品",
+      "cost_proportion": null,
+      "quote": "公司日常生产所用主要原材料包括电子元器件、钢材、T 铁、盆架、音圈等。"
+    },
+    {
+      "name": "盆架",
+      "target_product": "音响电声类产品",
+      "cost_proportion": null,
+      "quote": "公司日常生产所用主要原材料包括电子元器件、钢材、T 铁、盆架、音圈等。"
+    },
+    {
+      "name": "音圈",
+      "target_product": "音响电声类产品",
+      "cost_proportion": null,
+      "quote": "公司日常生产所用主要原材料包括电子元器件、钢材、T 铁、盆架、音圈等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能音响",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    },
+    {
+      "name": "耳机",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    },
+    {
+      "name": "VR/AR",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "车载功放、AVAS、车载扬声器、低音炮",
+      "quote": "汽车音响板块包括：车载功放、AVAS、车载扬声器、低音炮等产品。"
+    },
+    {
+      "name": "智能手机",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    },
+    {
+      "name": "平板电脑",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    },
+    {
+      "name": "笔记本电脑",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    },
+    {
+      "name": "台式电脑",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    },
+    {
+      "name": "智能电视",
+      "source_product": "扬声器与音箱",
+      "quote": "公司的主要产品扬声器与音箱为电声设备中的重要元件，广泛应用于以下产品（如：智能音响、耳机、VR/AR、AI眼镜、汽车、智能手机、平板电脑、笔记本电脑、台式电脑、智能电视等产品）。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陆宏达",
+      "role": "董事长、总裁",
+      "quote": "公司负责人陆宏达、主管会计工作负责人陆宏达 ... 陆宏达先生，公司现任董事长、总裁。"
+    },
+    {
+      "name": "王婕",
+      "role": "董事、副总裁、董事会秘书",
+      "quote": "董事会秘书 王婕 ... 王婕女士，公司现任董事、副总裁、董事会秘书、投资总监、人力资源总监。"
+    },
+    {
+      "name": "郑崖民",
+      "role": "副总裁",
+      "quote": "郑崖民先生，公司现任副总裁。"
+    },
+    {
+      "name": "谢守华",
+      "role": "副总裁",
+      "quote": "谢守华先生，公司现任副总裁。"
+    },
+    {
+      "name": "黄文同",
+      "role": "副总裁",
+      "quote": "黄文同先生，公司现任副总裁。"
+    },
+    {
+      "name": "王东",
+      "role": "副总裁",
+      "quote": "王东先生，现任公司副总裁、越南基地总经理、第三事业部总经理。"
+    },
+    {
+      "name": "孙朋朋",
+      "role": "副总裁",
+      "quote": "孙朋朋先生，现任公司副总裁、销售负责人。"
+    },
+    {
+      "name": "汤晓宇",
+      "role": "副总裁",
+      "quote": "汤晓宇先生，现任公司副总裁、制造运营负责人。"
+    },
+    {
+      "name": "王钰山",
+      "role": "财务总监",
+      "quote": "会计机构负责人（会计主管人员）王钰山 ... 王钰山先生，现任公司财务总监。"
+    },
+    {
+      "name": "顾大伟",
+      "role": "董事",
+      "quote": "顾大伟先生，公司现任董事。"
+    },
+    {
+      "name": "杨流江",
+      "role": "职工代表董事",
+      "quote": "杨流江先生，公司现任职工代表董事、供应链管理中心总监、内审部经理。"
+    },
+    {
+      "name": "谭光荣",
+      "role": "独立董事",
+      "quote": "谭光荣先生，公司现任独立董事。"
+    },
+    {
+      "name": "冀志斌",
+      "role": "独立董事",
+      "quote": "冀志斌先生，公司现任独立董事。"
+    },
+    {
+      "name": "辜明安",
+      "role": "独立董事",
+      "quote": "辜明安先生，公司现任独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳智度国光投资发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "第一大股东",
+      "quote": "国光投资、第一大股东 指 深圳智度国光投资发展有限公司"
+    },
+    {
+      "name": "广州市国光电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "国光科技 指 广州市国光电子科技有限公司"
+    },
+    {
+      "name": "国光电器（美国）有限公司（GGEC AMERICA INC.）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "国光电器（美国）有限公司（GGEC AMERICA INC.）"
+    },
+    {
+      "name": "国光电器（香港）有限公司（GGEC HONG KONG LIMITED.）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "国光电器（香港）有限公司（GGEC HONG KONG LIMITED.）"
+    },
+    {
+      "name": "国光电器（欧洲）有限公司（GGEC EUROPE LIMITED.）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "国光电器（欧洲）有限公司（GGEC EUROPE LIMITED.）"
+    },
+    {
+      "name": "国光电器（越南）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "越南子公司 指 国光电器（越南）有限公司"
+    },
+    {
+      "name": "国光电器（新加坡）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新加坡子公司 指 国光电器（新加坡）有限公司"
+    },
+    {
+      "name": "梧州恒声电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "梧州恒声 指 梧州恒声电子科技有限公司"
+    },
+    {
+      "name": "广东国光电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "软包电池业务",
+      "quote": "国光电子、软包电池业务 指 广东国光电子有限公司"
+    },
+    {
+      "name": "KV2 Audio Inc.",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "KV2、KV2 公司 指 KV2 Audio Inc."
+    },
+    {
+      "name": "广州锂宝新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广州锂宝 指 广州锂宝新材料有限公司"
+    },
+    {
+      "name": "梧州国光科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "梧州科技 指 梧州国光科技发展有限公司"
+    },
+    {
+      "name": "广州国光资产管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "资产管理公司 指 广州国光资产管理有限公司"
+    },
+    {
+      "name": "广州国光智能电子产业园有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "产业园公司、广州产业园 指 广州国光智能电子产业园有限公司"
+    },
+    {
+      "name": "广州爱浪智能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广州爱浪 指 广州爱浪智能科技有限公司"
+    },
+    {
+      "name": "南京乐韵瑞信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "乐韵瑞、南京乐韵瑞 指 南京乐韵瑞信息技术有限公司"
+    },
+    {
+      "name": "广州国光国际贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "国际贸易公司 指 广州国光国际贸易有限公司"
+    },
+    {
+      "name": "广州威发音响有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广州威发 指 广州威发音响有限公司"
+    },
+    {
+      "name": "智度科技股份有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "公司股东智度股份（000676.SZ）"
+    },
+    {
+      "name": "智度集团有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "智度集团、间接控股股东 指 智度集团有限公司"
+    },
+    {
+      "name": "天衡会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 天衡会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "申万宏源证券承销保荐有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "保荐机构",
+      "quote": "公司聘请的报告期内履行持续督导职责的保荐机构 保荐机构名称 申万宏源证券承销保荐有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电子元器件",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,750,473,159.93",
+      "revenue_proportion": "98.01%",
+      "gross_margin": "11.07%",
+      "yoy_change": "-0.09%",
+      "quote": "分行业 电子元器件 98.01% ... 7,750,473,159.93"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "157,319,435.96",
+      "revenue_proportion": "1.99%",
+      "gross_margin": null,
+      "yoy_change": "9.05%",
+      "quote": "分行业 ... 其他业务 1.99% ... 157,319,435.96"
+    },
+    {
+      "name": "音箱及扬声器",
+      "segment_type": "product_line",
+      "revenue_amount": "6,308,622,943.94",
+      "revenue_proportion": "79.78%",
+      "gross_margin": "10.95%",
+      "yoy_change": "-1.77%",
+      "quote": "分产品 音箱及扬声器 79.78% ... 6,308,622,943.94"
+    },
+    {
+      "name": "电池",
+      "segment_type": "product_line",
+      "revenue_amount": "562,922,406.32",
+      "revenue_proportion": "7.12%",
+      "gross_margin": "11.89%",
+      "yoy_change": "9.28%",
+      "quote": "分产品 电池 7.12% ... 562,922,406.32"
+    },
+    {
+      "name": "电子零配件",
+      "segment_type": "product_line",
+      "revenue_amount": "878,927,809.67",
+      "revenue_proportion": "11.11%",
+      "gross_margin": "11.35%",
+      "yoy_change": "7.25%",
+      "quote": "分产品 电子零配件 11.11% ... 878,927,809.67"
+    },
+    {
+      "name": "中国内地",
+      "segment_type": "region",
+      "revenue_amount": "2,629,013,115.31",
+      "revenue_proportion": "33.25%",
+      "gross_margin": "16.78%",
+      "yoy_change": "12.89%",
+      "quote": "分地区 中国内地 33.25% ... 2,629,013,115.31"
+    },
+    {
+      "name": "欧洲地区",
+      "segment_type": "region",
+      "revenue_amount": "1,277,500,161.47",
+      "revenue_proportion": "16.15%",
+      "gross_margin": "10.55%",
+      "yoy_change": "-7.63%",
+      "quote": "分地区 欧洲地区 16.15% ... 1,277,500,161.47"
+    },
+    {
+      "name": "美国地区",
+      "segment_type": "region",
+      "revenue_amount": "2,156,763,833.06",
+      "revenue_proportion": "27.27%",
+      "gross_margin": "7.02%",
+      "yoy_change": "0.56%",
+      "quote": "分地区 美国地区 27.27% ... 2,156,763,833.06"
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "1,844,515,486.05",
+      "revenue_proportion": "23.33%",
+      "gross_margin": "13.39%",
+      "yoy_change": "-9.79%",
+      "quote": "分地区 其他地区 23.33% ... 1,844,515,486.05"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "7,907,792,595.89",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "12.32%",
+      "yoy_change": "0.08%",
+      "quote": "分销售模式 直销 100.00% ... 7,907,792,595.89"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电子元器件业务",
+      "metric_type": "sales_volume",
+      "value": "112,937,829.00 PCS",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 ... 电子元器件业务 生产量 PCS 114,495,294.00"
+    },
+    {
+      "product": "电子元器件业务",
+      "metric_type": "production_volume",
+      "value": "114,495,294.00 PCS",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 ... 电子元器件业务 生产量 PCS 114,495,294.00"
+    },
+    {
+      "product": "电子元器件业务",
+      "metric_type": "inventory_volume",
+      "value": "14,095,960.00 PCS",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 ... 电子元器件业务 库存量 PCS 14,095,960.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新型音响智能制造升级项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "调整后投资总额 1,434.60 万元（原计划）",
+      "designed_capacity": null,
+      "progress": "截至期末累计投入 1,434.60 万元，进度 100%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "项目名称 新型音响智能制造升级项目 ... 调整后投资总额 1,434.60 万元 ... 项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "汽车音响项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "63,043.34 万元（原计划）",
+      "designed_capacity": null,
+      "progress": "项目可行性发生重大变化，已变更用途",
+      "expected_completion_time": null,
+      "quote": "项目名称 汽车音响项目 ... 承诺投资总额 63,043.34 万元 ... 项目可行性是否发生重大变化 是"
+    },
+    {
+      "name": "越南基地音响产品生产项目",
+      "project_type": "capacity_expansion",
+      "location": "越南广南省电盘镇电南北坊电南-电玉工业区",
+      "investment_amount": "62,170.98 万元（变更后）",
+      "designed_capacity": null,
+      "progress": "项目建设周期为24个月，即2027年5月达到预定可使用状态",
+      "expected_completion_time": "2027年5月",
+      "quote": "变更后的项目名称 越南基地音响产品生产项目 ... 资金总额 62,170.98 万元 ... 项目达到预定可使用状态日期 2027年5月31日"
+    },
+    {
+      "name": "VR整机及声学模组项目",
+      "project_type": "fundraising_project",
+      "location": "广东省广州市花都区新雅街镜湖大道8号国光工业园（G9厂房）",
+      "investment_amount": "34,395.64 万元（原计划）",
+      "designed_capacity": null,
+      "progress": "项目延期至2026年12月31日达到预定可使用状态",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "项目名称 VR整机及声学模组项目 ... 承诺投资总额 34,395.64 万元 ... 项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "越南二期制造基地建设",
+      "project_type": "capacity_expansion",
+      "location": "越南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "截至报告期末累计实际投入金额 325,530.70 万元",
+      "expected_completion_time": null,
+      "quote": "项目名称 越南二期制造基地建设 ... 截至报告期末累计实际投入金额 325,530.70 万元"
+    },
+    {
+      "name": "自建光学实验室",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已正式投入使用",
+      "expected_completion_time": null,
+      "quote": "报告期内公司自建光学实验室已正式投入使用"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "扬声器设计及制造经验",
+      "asset_type": "core_technology",
+      "related_product": "扬声器及音响系统产品",
+      "quantitative_info": "积累了70余年",
+      "quote": "公司积累了70余年扬声器设计及制造经验"
+    },
+    {
+      "name": "信号动态均衡及虚拟环绕声技术",
+      "asset_type": "core_technology",
+      "related_product": "多媒体音响、平板电视音响",
+      "quantitative_info": null,
+      "quote": "掌握和运用信号动态均衡及虚拟环绕声技术。"
+    },
+    {
+      "name": "空间声学测量和自适应参数调整技术",
+      "asset_type": "core_technology",
+      "related_product": "专业音响调试、声学应用",
+      "quantitative_info": null,
+      "quote": "掌握和运用空间声学测量和自适应参数调整技术。"
+    },
+    {
+      "name": "空间声效处理技术",
+      "asset_type": "core_technology",
+      "related_product": "多媒体产品、平板电视、效果器",
+      "quantitative_info": null,
+      "quote": "掌握和运用空间声效处理技术。"
+    },
+    {
+      "name": "阵列、波束形成技术",
+      "asset_type": "core_technology",
+      "related_product": "家用多媒体、专业场合",
+      "quantitative_info": null,
+      "quote": "掌握和运用阵列、波束形成技术。"
+    },
+    {
+      "name": "DSP音频处理核心技术",
+      "asset_type": "core_technology",
+      "related_product": "专业和民用音效处理",
+      "quantitative_info": "数十种专业领域音频算法",
+      "quote": "拥有多项完全自主的 DSP 音频处理核心技术，掌握可广泛运用于专业和民用各类音效处理场合的回声、混响、均衡、啸叫抑制等数十种专业领域音频算法。"
+    },
+    {
+      "name": "无线音频传输技术",
+      "asset_type": "core_technology",
+      "related_product": "Wi-Fi、蓝牙、2.4G 点对点产品",
+      "quantitative_info": null,
+      "quote": "聚焦于无线音频传输技术的研究，掌握并熟练运用包括 Wi-Fi、蓝牙、2.4G 点对点在内的多项无线音频传输技术"
+    },
+    {
+      "name": "ISO9001质量体系认证",
+      "asset_type": "certification",
+      "related_product": "全产品线",
+      "quantitative_info": "国内电声行业第一家",
+      "quote": "公司于 1994 年开始实施 ISO9000 系列质量管理体系，同年成为国内电声行业第一家通过 ISO9001 质量体系认证的公司。"
+    },
+    {
+      "name": "QS-9000、IATF16949 质量体系认证",
+      "asset_type": "certification",
+      "related_product": "全产品线",
+      "quantitative_info": null,
+      "quote": "为了进一步提高整体竞争力，公司又相继通过了 QS-9000、IATF16949 质量体系认证"
+    },
+    {
+      "name": "ISO14000 环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": "全产品线",
+      "quantitative_info": null,
+      "quote": "以及 ISO14000 环境管理体系认证。"
+    },
+    {
+      "name": "CNAS ISO/IEC17025认可",
+      "asset_type": "certification",
+      "related_product": "检测中心",
+      "quantitative_info": null,
+      "quote": "公司检测中心还通过了 CNAS 的 ISO/IEC17025 认可"
+    },
+    {
+      "name": "自动化线体",
+      "asset_type": "technical_platform",
+      "related_product": "生产制造",
+      "quantitative_info": "87条",
+      "quote": "近年来大力建设自动化线体共计 87 条"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "47.55%",
+      "related_entity": "第一大客户",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第一大客户 3,759,879,096.45 47.55%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "68.14%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 5,387,991,279.75 前五名客户合计销售金额占年度销售总额比例 68.14%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "2.44%",
+      "related_entity": "第一大供应商",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一大供应商 141,583,462.24 2.44%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9.97%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 578,936,622.21 前五名供应商合计采购金额占年度采购总额比例 9.97%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "存在依赖",
+      "related_entity": null,
+      "period": null,
+      "quote": "客户对公司的依赖程度，是公司与客户开展长期、稳定合作关系的基石。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务占主营业务收入比重较高，公司主要采用美元等外币进行结算，当汇率出现较大波动时，汇兑损益对公司的经营业绩会造成一定的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）人民币对美元汇率影响 公司出口业务占主营业务收入比重较高，公司主要采用美元等外币进行结算，当汇率出现较大波动时，汇兑损益对公司的经营业绩会造成一定的影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易环境的剧烈变化会对公司的出口业务产生一定的负面影响，可能使公司面临成本增加、订单减少的压力，导致公司出口业务规模下降、出口产品毛利降低。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）贸易摩擦风险 国际贸易环境的剧烈变化会对公司的出口业务产生一定的负面影响，可能使公司面临成本增加、订单减少的压力，导致公司出口业务规模下降、出口产品毛利降低。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料供应的稳定性和价格走势将影响公司未来生产的稳定性和盈利能力。尽管公司原材料供货渠道畅通、供应相对充足，但仍不能完全排除由相关原材料供需结构变化导致供应紧张或者价格、质量发生波动，进而对公司产品质量、成本和盈利能力带来不利影响的可能性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）原材料供应及价格波动风险 公司日常生产所用主要原材料包括电子元器件、钢材、T 铁、盆架、音圈等，报告期内原材料占公司主营业务成本的比例较大。原材料供应的稳定性和价格走势将影响公司未来生产的稳定性和盈利能力。"
+    }
+  ]
+}

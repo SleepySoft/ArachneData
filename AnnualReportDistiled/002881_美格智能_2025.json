@@ -1,0 +1,458 @@
+{
+  "company_name_mentioned": "美格智能技术股份有限公司",
+  "produces": [
+    {
+      "name": "无线通信模组及解决方案业务",
+      "type": "device",
+      "revenue_proportion": "96.31%",
+      "quote": "分行业/产品 无线通信模组及解决方案业务 3,608,768,171.72 96.31%"
+    },
+    {
+      "name": "智能模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能模组产品在提供高性价比和低功耗的网络连接基础上，开放的安卓等操作系统能实现复杂的控制功能和客户二次开发需求，丰富的外围接口能实现多屏幕、多摄像头接入和高清音视频录制播放，支持大容量智能存储，是通信与计算\\感知\\存储融合的代表性产品，是模组产业未来的发展方向。"
+    },
+    {
+      "name": "高算力模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "高算力模组：针对各类对CPU\\GPU\\NPU算力有强需求的专用场景开发的模组产品，可提供8T及以上的计算能力，可以支持大模型在端侧部署和运行，并可根据场景需求，灵活匹配5G\\WIFI\\千兆以太网等各类通信方式。"
+    },
+    {
+      "name": "数传模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "数传模组：以基带芯片为基础，主要功能为提供2G到5G的蜂窝网络连接的模组产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "芯片（SoC芯片、射频芯片、存储芯片等）及电子元器件等物料",
+      "target_product": "无线通信模组",
+      "cost_proportion": null,
+      "quote": "产品研发完成后，根据产品需求向上游采购各类芯片（SoC芯片、射频芯片、存储芯片等）及电子元器件等物料，通过委外加工的方式进行产品生产。"
+    },
+    {
+      "name": "存储芯片",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "存储芯片出现周期性价格上涨，给成本端带来一定压力。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "物联网（IoT）",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "公司主要产品包括无线通信模组（涵盖智能模组、高算力模组、数传模组等）、行业解决方案产品及相关技术开发服务。"
+    },
+    {
+      "name": "智能网联车",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "公司以模组产品为基础，持续强化在不同垂直行业的解决方案能力。... 智能网联车领域"
+    },
+    {
+      "name": "无线宽带/FWA",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "在 4G/5G 无线宽带领域，公司与行业头部主芯片厂商战略合作... 在 4G/5G无线宽带领域"
+    },
+    {
+      "name": "新零售",
+      "source_product": "智能模组",
+      "quote": "公司充分发挥在5G\\安卓\\行业定制方面的研发积累，在新能源车4G/5G智能座舱、ADAS\\DMS辅助驾驶、新零售等核心垂直应用领域不断提升智能模组产品价值。"
+    },
+    {
+      "name": "智慧物流",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "公司相关产品主要应用于（1）以新零售、金融支付、智慧物流、工业互联网、共享经济、智能家居为代表的物联网泛连接领域。"
+    },
+    {
+      "name": "工业互联网",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "公司相关产品主要应用于（1）以新零售、金融支付、智慧物流、工业互联网、共享经济、智能家居为代表的物联网泛连接领域。"
+    },
+    {
+      "name": "共享经济",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "公司相关产品主要应用于（1）以新零售、金融支付、智慧物流、工业互联网、共享经济、智能家居为代表的物联网泛连接领域。"
+    },
+    {
+      "name": "智能家居",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "公司相关产品主要应用于（1）以新零售、金融支付、智慧物流、工业互联网、共享经济、智能家居为代表的物联网泛连接领域。"
+    },
+    {
+      "name": "智能装备",
+      "source_product": "高算力模组",
+      "quote": "高算力模组是智能模组跟随产业进行功能迭代的重要分支... 在智能装备、arm架构服务器、新零售、云游戏、AR\\VR、工业视觉检测等领域有广阔应用空间。"
+    },
+    {
+      "name": "云游戏",
+      "source_product": "高算力模组",
+      "quote": "高算力模组是智能模组跟随产业进行功能迭代的重要分支... 在智能装备、arm架构服务器、新零售、云游戏、AR\\VR、工业视觉检测等领域有广阔应用空间。"
+    },
+    {
+      "name": "AR/VR",
+      "source_product": "高算力模组",
+      "quote": "高算力模组是智能模组跟随产业进行功能迭代的重要分支... 在智能装备、arm架构服务器、新零售、云游戏、AR\\VR、工业视觉检测等领域有广阔应用空间。"
+    },
+    {
+      "name": "工业视觉检测",
+      "source_product": "高算力模组",
+      "quote": "高算力模组是智能模组跟随产业进行功能迭代的重要分支... 在智能装备、arm架构服务器、新零售、云游戏、AR\\VR、工业视觉检测等领域有广阔应用空间。"
+    },
+    {
+      "name": "金融支付",
+      "source_product": "无线通信模组及解决方案",
+      "quote": "公司相关产品主要应用于（1）以新零售、金融支付、智慧物流、工业互联网、共享经济、智能家居为代表的物联网泛连接领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王平",
+      "role": "董事长兼总经理",
+      "quote": "公司负责人王平、主管会计工作负责人夏有庆及会计机构负责人（会计主管人员）周舟声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "杜国彬",
+      "role": "副董事长",
+      "quote": "杜国彬先生，1980年出生，中国国籍，无境外永久居留权，硕士研究生学历。... 现任公司副董事长。"
+    },
+    {
+      "name": "夏有庆",
+      "role": "董事、副总经理、财务总监",
+      "quote": "夏有庆先生，1976年出生，中国国籍，无境外永久居留权，本科学历。... 现任公司董事、副总经理，财务总监。"
+    },
+    {
+      "name": "黄敏",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "黄敏先生，1986年出生，中国国籍，无境外永久居留权，本科学历。... 现任公司董事、副总经理、董事会秘书。"
+    },
+    {
+      "name": "杨政",
+      "role": "独立董事",
+      "quote": "杨政先生，1954年出生，中国国籍，拥有澳大利亚永久居留权，本科学历。... 现任公司独立董事"
+    },
+    {
+      "name": "马利军",
+      "role": "独立董事",
+      "quote": "马利军先生，1979年出生，中国国籍，无境外永久居留权，博士学历。2007年至今就职于深圳大学管理学院... 现任公司独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "西安兆格电子信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无线通信模组及解决方案的研发、销售、技术开发和服务",
+      "quote": "西安兆格电子信息技术有限公司，系本公司的全资子公司"
+    },
+    {
+      "name": "方格国际有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "境外销售、采购和融资",
+      "quote": "方格国际有限公司，系本公司的全资子公司"
+    },
+    {
+      "name": "众格智能科技（上海）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无线通信模组及解决方案的研发、销售、技术开发和服务",
+      "quote": "众格智能科技（上海）有限公司，系本公司的全资子公司"
+    },
+    {
+      "name": "深圳市美格智联信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无线通信模组及解决方案的研发、销售、技术开发和服务",
+      "quote": "深圳市美格智联信息技术有限公司，系本公司的全资子公司"
+    },
+    {
+      "name": "深圳市美格智投创业投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "股权投资、产业并购等",
+      "quote": "深圳市美格智投创业投资有限公司，系本公司的全资子公司"
+    },
+    {
+      "name": "上海美骁智能信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "上海美骁智能信息技术有限公司，系本公司的全资子公司"
+    },
+    {
+      "name": "MeiG Smart Technology (Europe) GmbH",
+      "relation_type": "subsidiary",
+      "business_details": "移动通信设备、物联网设备、无线通信模块的研发及销售；无线通信技术及物联网技术的技术开发、技术咨询和技术服务；进出口业务",
+      "quote": "MeiG Smart Technology (Europe) GmbH,系本公司的全资子公司"
+    },
+    {
+      "name": "众格智能技术（南通）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无线通信模组及解决方案的研发、销售、技术开发和服务",
+      "quote": "众格智能技术（南通）有限公司，系本公司的全资子公司"
+    },
+    {
+      "name": "MEIG SMART TECHNOLOGY FRANCE",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "MEIG SMART TECHNOLOGY FRANCE，系本公司的全资孙公司"
+    },
+    {
+      "name": "硕格智能技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "硕格智能技术有限公司，系本公司的参股公司"
+    },
+    {
+      "name": "株式会社MeiLink",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "株式会社MeiLink，系本公司子公司的参股公司"
+    },
+    {
+      "name": "深圳市品速智联信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "深圳市品速智联信息技术有限公司，系本公司子公司的参股公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "无线通信模组及解决方案业务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,608,768,171.72元",
+      "revenue_proportion": "96.31%",
+      "gross_margin": "13.84%",
+      "yoy_change": "28.49%",
+      "quote": "分行业/产品 无线通信模组及解决方案业务 3,608,768,171.72 96.31% ... 毛利率 13.84% ... 营业收入比上年 28.49%"
+    },
+    {
+      "name": "其他业务收入",
+      "segment_type": "product_line",
+      "revenue_amount": "138,364,280.77元",
+      "revenue_proportion": "3.69%",
+      "gross_margin": null,
+      "yoy_change": "4.18%",
+      "quote": "其他业务收入 138,364,280.77 3.69% ... 营业收入比上年 4.18%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,400,886,351.85元",
+      "revenue_proportion": "37.39%",
+      "gross_margin": "13.34%",
+      "yoy_change": "74.47%",
+      "quote": "分地区 境外 37.39% 1,400,886,351.85 ... 毛利率 13.34% ... 营业收入比上年 74.47%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,157,624,109.01元",
+      "revenue_proportion": "30.89%",
+      "gross_margin": "14.99%",
+      "yoy_change": "-22.98%",
+      "quote": "华南地区 30.89% 1,157,624,109.01 ... 毛利率 14.99% ... 营业收入比上年 -22.98%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "854,773,125.22元",
+      "revenue_proportion": "22.81%",
+      "gross_margin": "14.94%",
+      "yoy_change": "91.41%",
+      "quote": "华北地区 22.81% 854,773,125.22 ... 毛利率 14.94% ... 营业收入比上年 91.41%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "569,010,776.23元",
+      "revenue_proportion": "15.19%",
+      "gross_margin": "13.28%",
+      "yoy_change": "13.17%",
+      "quote": "华东地区 15.19% 569,010,776.23 ... 毛利率 13.28% ... 营业收入比上年 13.17%"
+    },
+    {
+      "name": "境内其他",
+      "segment_type": "region",
+      "revenue_amount": "30,880,755.55元",
+      "revenue_proportion": "0.82%",
+      "gross_margin": null,
+      "yoy_change": "-1.86%",
+      "quote": "境内其他 0.82% 30,880,755.55 ... 营业收入比上年 -1.86%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,476,406,749.78元",
+      "revenue_proportion": "92.78%",
+      "gross_margin": "13.80%",
+      "yoy_change": "24.82%",
+      "quote": "分销售模式 直销 92.78% 3,476,406,749.78 ... 毛利率 13.80% ... 营业收入比上年 24.82%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "270,725,702.71元",
+      "revenue_proportion": "7.22%",
+      "gross_margin": null,
+      "yoy_change": "73.20%",
+      "quote": "经销 7.22% 270,725,702.71 ... 营业收入比上年 73.20%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "无线通信模组及解决方案产品",
+      "metric_type": "sales_volume",
+      "value": "13,162,353个",
+      "period": "2025年",
+      "quote": "销售量 个 13,162,353"
+    },
+    {
+      "product": "无线通信模组及解决方案产品",
+      "metric_type": "production_volume",
+      "value": "13,557,674个",
+      "period": "2025年",
+      "quote": "生产量 个 13,557,674"
+    },
+    {
+      "product": "无线通信模组及解决方案产品",
+      "metric_type": "inventory_volume",
+      "value": "811,506个",
+      "period": "2025年末",
+      "quote": "库存量 个 811,506"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "公司模组产品均由公司自主设计和研发、以公司自有品牌MeiGLink在国内及海外公开市场进行销售。",
+      "period": null,
+      "quote": "本公司无线通信模组产品均由公司自主设计和研发、以公司自有品牌MeiGLink在国内及海外公开市场进行销售。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "5G+AIoT模组及解决方案产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "39,229.85万元（调整后投资总额）",
+      "designed_capacity": "生产建设",
+      "progress": "正在建设中，预计达到可使用状态日期延期至2028年2月23日",
+      "expected_completion_time": "2028年2月23日",
+      "quote": "项目名称 5G+AIoT模组及解决方案产业化项目 ... 承诺投资总额 39,229.85 ... 达到可使用状态日期 2028年02月23日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "5,063.20万元（调整后投资总额）",
+      "designed_capacity": "研发项目",
+      "progress": "正在建设中，预计达到可使用状态日期延期至2028年2月23日",
+      "expected_completion_time": "2028年2月23日",
+      "quote": "项目名称 研发中心建设项目 ... 承诺投资总额 5,063.20 ... 达到可使用状态日期 2028年02月23日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "15,000.00万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "已投入使用",
+      "expected_completion_time": null,
+      "quote": "项目名称 补充流动资金 ... 承诺投资总额 15,000.00 ... 截至期末累计投入金额 15,000.00"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智能模组技术",
+      "asset_type": "core_technology",
+      "related_product": "智能模组、高算力模组",
+      "quantitative_info": null,
+      "quote": "公司多年来深耕智能模组和算力模组方向，建立了在4G/5G无线通信、安卓系统、高性能低功耗计算、边缘侧和终端侧计算方面独具优势的全面技术能力。"
+    },
+    {
+      "name": "安卓系统底层驱动和性能优化、功耗控制等技术",
+      "asset_type": "process_technology",
+      "related_product": "智能模组",
+      "quantitative_info": null,
+      "quote": "公司研发团队在安卓系统底层驱动和性能优化、功耗控制、安卓中间件和应用集成开发；屏幕、摄像头、音视频等多媒体外围开发... 等领域积累了大量的智能模组研发Know-How"
+    },
+    {
+      "name": "5G智能座舱解决方案",
+      "asset_type": "core_technology",
+      "related_product": "5G智能模组",
+      "quantitative_info": null,
+      "quote": "公司5G智能模组产品在智能座舱领域出货量处于行业领先地位。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "21.77%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户1 815,564,173.26 21.77%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "43.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,636,109,921.39 前五名客户合计销售金额占年度销售总额比例 43.68%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "36.45%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商1 1,271,246,679.61 36.45%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "54.89%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,914,217,356.05 前五名供应商合计采购金额占年度采购总额比例 54.89%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "无线通信模组及解决方案领域的市场开拓和市场竞争风险。随着中国通信行业水平的整体进步，势必有更多的竞争者进入这一领域，抢夺客户和市场资源，市场竞争将进一步加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、无线通信模组及解决方案领域的市场开拓和市场竞争风险... 虽然无线通信模组产品具有一定的技术门槛，但随着中国通信行业水平的整体进步，势必有更多的竞争者进入这一领域，抢夺客户和市场资源，市场竞争将进一步加剧。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术人员流失和核心技术泄露风险。无线通信模组与技术开发服务对核心技术人员存在依赖性，掌握行业核心技术与保持核心技术团队稳定是公司生存和发展的根本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、核心技术人员流失和核心技术泄露风险... 无线通信模组与技术开发服务对核心技术人员存在依赖性，掌握行业核心技术与保持核心技术团队稳定是公司生存和发展的根本。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "无线通信模组产品质量管控风险。如果公司模组产品在品质控制方面出现批量性问题，对应产生的产品维修维护成本和退换货成本将极为昂贵，并且还有可能产生终端客户的索赔成本。",
+      "related_entity": null,
+      "related_product": "无线通信模组",
+      "quote": "3、无线通信模组产品质量管控风险... 如果公司模组产品在品质控制方面出现批量性问题，对应产生的产品维修维护成本和退换货成本将极为昂贵，并且还有可能产生终端客户的索赔成本。"
+    },
+    {
+      "risk_type": "other",
+      "description": "应收账款坏账风险。截至报告期末，公司应收账款账面金额约为4.97亿元，整体规模较大。如果客户经营状况发生重大不利变化，则公司应收账款存在坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、应收账款坏账风险... 截至报告期末，公司应收账款账面金额约为4.97亿元，整体规模较大。虽然公司目前应收账款回收情况良好，如果客户经营状况发生重大不利变化，则公司应收账款存在坏账风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动风险。公司模组及解决方案产品的原材料采购以美金结算为主，销售则以人民币结算为主，如汇率波动较大，则公司将经营将面临较大的汇率风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、汇率波动风险... 公司模组及解决方案产品的原材料采购以美金结算为主，销售则以人民币结算为主，如汇率波动较大，则公司经营将面临较大的汇率风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "存储芯片价格波动给成本端带来压力。",
+      "related_entity": null,
+      "related_product": "存储芯片",
+      "quote": "报告期内，公司主营业务毛利率为13.84% ,较上年同期有所下降，主要原因如下：1、受出货产品结构影响，部分毛利水平较低产品在报告期内集中出货，阶段性拉低整体毛利率水平；2、存储芯片出现周期性价格上涨，给成本端带来一定压力。"
+    }
+  ]
+}

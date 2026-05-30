@@ -1,0 +1,472 @@
+{
+  "company_name_mentioned": "广东通宇通讯股份有限公司",
+  "produces": [
+    {
+      "name": "基站天线",
+      "type": "device",
+      "revenue_proportion": "55.09%",
+      "quote": "基站天线 611,680,077.48 55.09%"
+    },
+    {
+      "name": "射频器件",
+      "type": "component",
+      "revenue_proportion": "16.96%",
+      "quote": "射频器件 188,282,085.12 16.96%"
+    },
+    {
+      "name": "微波天线",
+      "type": "device",
+      "revenue_proportion": "19.19%",
+      "quote": "微波天线 213,119,947.70 19.19%"
+    },
+    {
+      "name": "卫星天线",
+      "type": "device",
+      "revenue_proportion": "4.87%",
+      "quote": "卫星天线 54,051,144.88 4.87%"
+    },
+    {
+      "name": "新能源电柜（智能换电柜和通信机房节能储能系统）",
+      "type": "device",
+      "revenue_proportion": "1.32%",
+      "quote": "新能源电柜 14,661,250.22 1.32%"
+    },
+    {
+      "name": "光模块",
+      "type": "component",
+      "revenue_proportion": "0.36%",
+      "quote": "光模块 3,982,733.91 0.36%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商A",
+      "target_product": null,
+      "cost_proportion": "9.77%",
+      "quote": "供应商A 70,667,944.43 9.77%"
+    },
+    {
+      "name": "供应商B",
+      "target_product": null,
+      "cost_proportion": "7.84%",
+      "quote": "供应商B 56,689,780.70 7.84%"
+    },
+    {
+      "name": "供应商C",
+      "target_product": null,
+      "cost_proportion": "4.97%",
+      "quote": "供应商C 35,916,913.63 4.97%"
+    },
+    {
+      "name": "供应商D",
+      "target_product": null,
+      "cost_proportion": "4.57%",
+      "quote": "供应商D 33,030,482.69 4.57%"
+    },
+    {
+      "name": "供应商E",
+      "target_product": null,
+      "cost_proportion": "2.79%",
+      "quote": "供应商E 20,157,750.11 2.79%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "移动通信网络无线覆盖（2G, 3G, 4G, 5G等）",
+      "source_product": "基站天线",
+      "quote": "基站天线主要应用于移动通信网络无线覆盖领域，涵盖2G、3G、4G、5G以及其他通信网络。"
+    },
+    {
+      "name": "信息、通信、国防安全、航空航天、交通等领域",
+      "source_product": "射频器件",
+      "quote": "射频器件主要应用于信息、通信、国防安全、航空航天、交通等领域，保证其通讯系统、数据网络的使用与稳定。"
+    },
+    {
+      "name": "数字微波中继通信的干线网络及地面接力网络系统",
+      "source_product": "微波天线",
+      "quote": "微波天线...广泛运用于数字微波中继通信的干线网络及地面接力网络系统。"
+    },
+    {
+      "name": "低轨通信卫星（星载相控阵天线）",
+      "source_product": "卫星天线",
+      "quote": "星载卫星通信天线主要为星载相控阵天线，支持Ka/Ku双频段，已小批量应用于低轨通信卫星；"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴中林",
+      "role": "董事长、董事",
+      "quote": "公司负责人吴中林、主管会计工作负责人李文波及会计机构负责人（会计主管人员）杨超声明...现任公司董事、董事长。"
+    },
+    {
+      "name": "时桂清",
+      "role": "董事、总经理",
+      "quote": "现任公司董事、通宇香港董事。时桂清女士长期管理国内销售、采购等工作，具备丰富的企业管理经验，现任公司董事、总经理。"
+    },
+    {
+      "name": "刘木林",
+      "role": "职工代表董事",
+      "quote": "刘木林先生：男，1979年6月出生...2025年9月起，任公司职工代表董事。"
+    },
+    {
+      "name": "黄华",
+      "role": "副总经理、董事会秘书",
+      "quote": "2023年10月起任公司董事会秘书...2026年1月起，任公司副总经理。"
+    },
+    {
+      "name": "李文波",
+      "role": "财务总监",
+      "quote": "2025年8月加入公司，2026年1月起任公司财务总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国移动通信集团有限公司",
+      "relation_type": "customer",
+      "business_details": "公司主要客户为国内外的通信运营商及通信设备集成商。在国内市场，公司产品主要销售给中国移动...等移动通信运营商",
+      "quote": "在国内市场，公司产品主要销售给中国移动、中国电信、中国联通等移动通信运营商"
+    },
+    {
+      "name": "中国电信集团有限公司",
+      "relation_type": "customer",
+      "business_details": "公司主要客户为国内外的通信运营商及通信设备集成商。在国内市场，公司产品主要销售给...中国电信...等移动通信运营商",
+      "quote": "在国内市场，公司产品主要销售给中国移动、中国电信、中国联通等移动通信运营商"
+    },
+    {
+      "name": "中国联合通信集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司主要客户为国内外的通信运营商及通信设备集成商。在国内市场，公司产品主要销售给...中国联通等移动通信运营商",
+      "quote": "在国内市场，公司产品主要销售给中国移动、中国电信、中国联通等移动通信运营商"
+    },
+    {
+      "name": "华为技术有限公司",
+      "relation_type": "customer",
+      "business_details": "公司产品主要销售给...华为公司...等通信设备集成商",
+      "quote": "在国内市场，公司产品主要销售给...华为公司、中兴通讯、大唐电信等通信设备集成商；"
+    },
+    {
+      "name": "中兴通讯股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司产品主要销售给...中兴通讯...等通信设备集成商",
+      "quote": "在国内市场，公司产品主要销售给...华为公司、中兴通讯、大唐电信等通信设备集成商；"
+    },
+    {
+      "name": "Ericsson",
+      "relation_type": "customer",
+      "business_details": "在国外市场，公司成功通过爱立信、诺基亚、三星等设备集成商...的认证",
+      "quote": "在国外市场，公司成功通过爱立信、诺基亚、三星等设备集成商和沃达丰、阿联酋电信、澳洲电信、加拿大电信、挪威电信、MTN集团等系统运营商的认证"
+    },
+    {
+      "name": "Nokia Solutions and Networks（诺基亚解决方案与网络）",
+      "relation_type": "customer",
+      "business_details": "在国外市场，公司成功通过...诺基亚...等设备集成商...的认证",
+      "quote": "在国外市场，公司成功通过爱立信、诺基亚、三星等设备集成商和沃达丰、阿联酋电信、澳洲电信、加拿大电信、挪威电信、MTN集团等系统运营商的认证"
+    },
+    {
+      "name": "Alcatel-Lucent",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "阿尔卡特-朗讯 指 Alcatel-Lucent. 全球领先的电信设备集成商及解决方案供应商"
+    },
+    {
+      "name": "TONGYU COMMUNICATION (AUSTRALIA) PTY LTD",
+      "relation_type": "subsidiary",
+      "business_details": "系通宇香港全资子公司",
+      "quote": "通宇澳洲 指 TONGYU COMMUNICATION (AUSTRALIA) PTY LTD，系通宇香港全资子公司"
+    },
+    {
+      "name": "TONGYU COMMUNICATION USA INC.",
+      "relation_type": "subsidiary",
+      "business_details": "系通宇香港全资子公司",
+      "quote": "通宇美国 指 TONGYU COMMUNICATION USA INC.，系通宇香港全资子公司"
+    },
+    {
+      "name": "SIA\"TONGYU COMMUNICATION\"",
+      "relation_type": "subsidiary",
+      "business_details": "系通宇香港全资子公司",
+      "quote": "通宇拉脱维亚 指 SIA\"TONGYU COMMUNICATION\"系通宇香港全资子公司"
+    },
+    {
+      "name": "Tongyu Technology India Private Limited",
+      "relation_type": "subsidiary",
+      "business_details": "系通宇香港全资子公司",
+      "quote": "通宇印度 指 Tongyu Technology India Private Limited，系通宇香港全资子公司"
+    },
+    {
+      "name": "Tongyu Technology Oy",
+      "relation_type": "subsidiary",
+      "business_details": "系通宇香港全资子公司",
+      "quote": "通宇芬兰 指 Tongyu Technology Oy，系通宇香港全资子公司"
+    },
+    {
+      "name": "TONGYU BRASIL LTDA",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "通宇巴西 指 TONGYU BRASIL LTDA，系公司全资子公司"
+    },
+    {
+      "name": "广东昭达通宇投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "昭达通宇 指 广东昭达通宇投资有限公司，系公司全资子公司"
+    },
+    {
+      "name": "通宇（中山）无线技术研究院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "通宇无线 指 通宇（中山）无线技术研究院有限公司，系公司全资子公司"
+    },
+    {
+      "name": "湖北中洪通宇空间技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司控股子公司",
+      "quote": "中洪通宇 指 湖北中洪通宇空间技术有限公司，系公司控股子公司"
+    },
+    {
+      "name": "深圳广通智能技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "广通智能 指 深圳广通智能技术有限公司，系公司全资子公司"
+    },
+    {
+      "name": "成都俱吉毫米波技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "成都俱吉 指 成都俱吉毫米波技术有限公司，系公司全资子公司"
+    },
+    {
+      "name": "通宇卫星通讯（湖北）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "湖北通宇 指 通宇卫星通讯（湖北）有限公司，系公司全资子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "通信天线及射频器件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,067,133,255.18元",
+      "revenue_proportion": "96.11%",
+      "gross_margin": "20.74%",
+      "yoy_change": "-8.24%",
+      "quote": "通信天线及射频器件 1,067,133,255.18 96.11% 1,162,956,932.07 97.40% -8.24%"
+    },
+    {
+      "name": "光通信",
+      "segment_type": "product_line",
+      "revenue_amount": "3,982,733.91元",
+      "revenue_proportion": "0.36%",
+      "gross_margin": "9.92%",
+      "yoy_change": "-28.26%",
+      "quote": "光通信 3,982,733.91 0.36% 5,551,449.69 0.46% -28.26%"
+    },
+    {
+      "name": "新能源电柜",
+      "segment_type": "product_line",
+      "revenue_amount": "14,661,250.22元",
+      "revenue_proportion": "1.32%",
+      "gross_margin": "-2.50%",
+      "yoy_change": "16.50%",
+      "quote": "新能源电柜 14,661,250.22 1.32% 12,585,219.22 1.05% 16.50%"
+    },
+    {
+      "name": "中国大陆",
+      "segment_type": "region",
+      "revenue_amount": "665,837,321.90元",
+      "revenue_proportion": "59.97%",
+      "gross_margin": "12.51%",
+      "yoy_change": "-12.17%",
+      "quote": "中国大陆 665,837,321.90 59.97% 758,072,244.63 63.49% -12.17%"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "444,473,686.58元",
+      "revenue_proportion": "40.03%",
+      "gross_margin": "31.65%",
+      "yoy_change": "1.96%",
+      "quote": "境外地区 444,473,686.58 40.03% 435,930,138.95 36.51% 1.96%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "994,609,226.69元",
+      "revenue_proportion": "89.58%",
+      "gross_margin": "20.63%",
+      "yoy_change": "-9.25%",
+      "quote": "直销 994,609,226.69 89.58% 1,095,994,534.65 91.79% -9.25%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "115,701,781.79元",
+      "revenue_proportion": "10.42%",
+      "gross_margin": "16.22%",
+      "yoy_change": "18.05%",
+      "quote": "经销 115,701,781.79 10.42% 98,007,848.93 8.21% 18.05%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "基站天线",
+      "metric_type": "production_volume",
+      "value": "72.89万套",
+      "period": "2025年",
+      "quote": "基站天线 生产量 万套 72.89"
+    },
+    {
+      "product": "基站天线",
+      "metric_type": "sales_volume",
+      "value": "67.26万套",
+      "period": "2025年",
+      "quote": "基站天线 销售量 万套 67.26"
+    },
+    {
+      "product": "基站天线",
+      "metric_type": "inventory_volume",
+      "value": "12.63万套",
+      "period": "2025年末",
+      "quote": "基站天线 库存量 万套 12.63"
+    },
+    {
+      "product": "射频器件",
+      "metric_type": "production_volume",
+      "value": "49.68万套",
+      "period": "2025年",
+      "quote": "射频器件 生产量 万套 49.68"
+    },
+    {
+      "product": "射频器件",
+      "metric_type": "sales_volume",
+      "value": "54.01万套",
+      "period": "2025年",
+      "quote": "射频器件 销售量 万套 54.01"
+    },
+    {
+      "product": "射频器件",
+      "metric_type": "inventory_volume",
+      "value": "4.01万套",
+      "period": "2025年末",
+      "quote": "射频器件 库存量 万套 4.01"
+    },
+    {
+      "product": "微波天线",
+      "metric_type": "production_volume",
+      "value": "18.63万套",
+      "period": "2025年",
+      "quote": "微波天线 生产量 万套 18.63"
+    },
+    {
+      "product": "微波天线",
+      "metric_type": "sales_volume",
+      "value": "18.71万套",
+      "period": "2025年",
+      "quote": "微波天线 销售量 万套 18.71"
+    },
+    {
+      "product": "微波天线",
+      "metric_type": "inventory_volume",
+      "value": "0.87万套",
+      "period": "2025年末",
+      "quote": "微波天线 库存量 万套 0.87"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "下一代高性能天线项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "44,475.02万元",
+      "designed_capacity": null,
+      "progress": "24.68%",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "下一代高性能天线项目 44,475.02 3,520.71 10,976.24 24.68% 06月30日"
+    },
+    {
+      "name": "卫星地面终端波束自适应通信天线技术研究项目",
+      "project_type": "research_project",
+      "location": null,
+      "investment_amount": "419.56万元",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "卫星地面终端波束自适应通信天线技术研究项目 0 419.56 58.35 419.56 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "基站天线和滤波器集成化设计技术",
+      "asset_type": "core_technology",
+      "related_product": "基站天线、射频器件",
+      "quantitative_info": null,
+      "quote": "公司在通信天线及射频器件领域形成行业领先的技术研发优势...是业界少有的同时具备基站天线和滤波器集成化设计技术的公司。"
+    },
+    {
+      "name": "AFU（天线滤波器一体化）5G大规模MIMO解决方案",
+      "asset_type": "core_technology",
+      "related_product": "5G基站天线",
+      "quantitative_info": null,
+      "quote": "公司在业界最先推出...AFU（天线滤波器一体化）的5G大规模MIMO解决方案..."
+    },
+    {
+      "name": "有效授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "706项（其中国际专利38项，国内发明专利259项，实用新型专利351项，外观设计专利11项）",
+      "quote": "截止2025年12月31日，公司在射频通信领域拥有有效授权专利706项，其中国际专利38项，国内发明专利259项，实用新型专利351项，外观设计专利11项..."
+    },
+    {
+      "name": "商标与软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "47项",
+      "quote": "...商标与软件著作权47项..."
+    },
+    {
+      "name": "参与制定《移动通信天线通用技术规范GB/T9410-2008》国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后参与了移动通信国家标准《移动通信天线通用技术规范GB/T9410-2008》..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "62.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 62.38%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.93%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 29.93%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "公司如不能有效地进行组织结构调整，进一步提升管理标准及理念、完善管理流程和内部控制制度，市场竞争力将在一定程度上受到影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）经营管理的风险 公司2021年非公开发行完成后，公司经营规模有所扩张，在经营管理、资源整合、市场开拓、统筹管理等方面对公司提出更高的要求。公司如不能有效地进行组织结构调整，进一步提升管理标准及理念、完善管理流程和内部控制制度，市场竞争力将在一定程度上受到影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "海外市场业务受国际贸易政策等影响较大，随着公司海外市场的持续推进，海外业务拓展风险会逐渐增多。未来如果国际贸易摩擦进一步加剧，甚至出现不可控的政治风险，将对公司海外市场拓展带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）海外市场拓展风险 海外市场一直以来为公司重要的市场之一，2025年海外市场销售收入占比公司营业收入的比重为40.03%。当前复杂严峻国际经济形势和国际贸易摩擦给国际贸易环境带来了诸多不确定性。海外市场业务受国际贸易政策等影响较大，随着公司海外市场的持续推进，海外业务拓展风险会逐渐增多。未来如果国际贸易摩擦进一步加剧，甚至出现不可控的政治风险，将对公司海外市场拓展带来不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "可能存在因经济环境、国家产业政策、技术发展方向发生变化，或市场需求变化及其他不确定性因素的影响，造成项目不能按期达产等，最终导致募投项目投资周期延长、投产延迟，未能实现预期效益的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）募集资金投资项目的风险 公司在投资的募集资金投资项目经过充分的市场调研和分析论证...在项目实施过程中，可能存在因经济环境、国家产业政策、技术发展方向发生变化，或市场需求变化及其他不确定性因素的影响，造成项目不能按期达产等，最终导致募投项目投资周期延长、投产延迟，未能实现预期效益的风险。"
+    }
+  ]
+}

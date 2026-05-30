@@ -1,0 +1,361 @@
+{
+  "company_name_mentioned": "九阳股份有限公司",
+  "produces": [
+    {
+      "name": "食品加工机系列（包含豆浆机、破壁机等）",
+      "type": "device",
+      "revenue_proportion": "37.80%",
+      "quote": "食品加工机系列 3,102,866,346.95 37.80% 3,993,752,463.42 33.83% 3.64%"
+    },
+    {
+      "name": "营养煲系列（包含电饭煲、电压力锅等）",
+      "type": "device",
+      "revenue_proportion": "37.22%",
+      "quote": "营养煲系列 3,056,038,847.35 37.22% 3,621,561,909.57 40.92% -15.62%"
+    },
+    {
+      "name": "西式电器系列（包含空气炸锅、咖啡机等）",
+      "type": "device",
+      "revenue_proportion": "18.59%",
+      "quote": "西式电器系列 1,526,190,003.23 18.59% 1,685,834,700.39 19.05% -9.47%"
+    },
+    {
+      "name": "炊具系列",
+      "type": "device",
+      "revenue_proportion": "4.04%",
+      "quote": "炊具系列 331,273,282.37 4.04% 314,601,061.98 3.56% 5.30%"
+    },
+    {
+      "name": "其他产品",
+      "type": "device",
+      "revenue_proportion": "1.54%",
+      "quote": "其他 126,594,807.32 1.54% 128,119,723.07 1.45% -1.19%"
+    },
+    {
+      "name": "小家电产品（OEM产成品）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要小家电 OEM产成品 1,851,817,736.57 30.80%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（铁、不锈钢、铝、铜、塑料等）",
+      "target_product": "主要小家电",
+      "cost_proportion": "67.95%",
+      "quote": "主要小家电 原材料 4,085,186,339.76 67.95%"
+    },
+    {
+      "name": "OEM产成品",
+      "target_product": "主要小家电",
+      "cost_proportion": "30.80%",
+      "quote": "主要小家电 OEM产成品 1,851,817,736.57 30.80%"
+    },
+    {
+      "name": "零部件（电机、面板、集成电路等）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "对外采购零部件主要包括电机、面板、集成电路等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家庭厨房",
+      "source_product": "豆浆机、破壁机、电饭煲等",
+      "quote": "公司自2014年起承担中国空间站“太空厨房”研制任务...公司坚持发挥放大“太空科技”技术路径，将“太空科技”积累应用于民用产品创新。"
+    },
+    {
+      "name": "公益厨房（乡村学校）",
+      "source_product": "蒸、炒、储存、消毒、净化及电气化设备",
+      "quote": "为1,743余所“公益厨房”的60余万乡村学童改善营养膳食"
+    },
+    {
+      "name": "太空厨房（中国空间站）",
+      "source_product": "热风加热装置、饮水设备",
+      "quote": "所研发的热风加热装置采用立体热风循环加热技术...饮水设备则保障航天员随时获取适宜温度的洁净饮水。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨宁宁",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人杨宁宁、主管会计工作负责人阚建刚及会计机构负责人（会计主管人员）郭雯声明...杨宁宁女士，生于1979年，香港城市大学工商管理博士。现任公司董事长"
+    },
+    {
+      "name": "韩润",
+      "role": "副董事长",
+      "quote": "韩润女士，生于1979年，北京大学光华管理学院工商管理硕士。现任公司副董事长"
+    },
+    {
+      "name": "姜广勇",
+      "role": "董事",
+      "quote": "姜广勇先生，生于1970年，长江商学院工商管理硕士。现任公司董事"
+    },
+    {
+      "name": "朱宏韬",
+      "role": "职工代表董事",
+      "quote": "朱宏韬先生，生于1970年，新加坡南洋理工大学工商管理硕士。现任公司职工代表董事"
+    },
+    {
+      "name": "阚建刚",
+      "role": "财务总监",
+      "quote": "阚建刚先生，男，1981年出生，硕士学位，澳大利亚注册会计师。现任公司财务负责人"
+    },
+    {
+      "name": "缪敏鑫",
+      "role": "董事会秘书",
+      "quote": "缪敏鑫先生，男，1987年出生，硕士学位。现任公司董事会秘书、证券部总监"
+    },
+    {
+      "name": "王旭宁",
+      "role": "实际控制人",
+      "quote": "实际控制人姓名 王旭宁 本人 中国 是"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "SharkNinja (Hong Kong) Company Limited",
+      "relation_type": "customer",
+      "business_details": "公司实际控制人王旭宁先生控制的企业，为主要关联销售客户。",
+      "quote": "公司前五大客户中客户2为公司关联方，包含SharkNinja(HongKong)CompanyLimited...前五名客户销售额中关联方销售额占年度销售总额比例 8.79%"
+    },
+    {
+      "name": "JS环球生活有限公司及其下属子公司/孙公司",
+      "relation_type": "customer",
+      "business_details": "公司实际控制人王旭宁先生控制的企业。",
+      "quote": "公司前五大客户中客户2为公司关联方...包含SharkNinja(HongKong)CompanyLimited、JSGlobalTradingHKLimited和SNAPACHoldingHKLimited，JoyoungInternationalHoldingHKLimited"
+    },
+    {
+      "name": "杭州信多达电子科技有限公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "为主要关联供应商之一。",
+      "quote": "公司前5名供应商资料 2 杭州信多达电子科技有限公司及其子公司 350,288,613.66 6.67%"
+    },
+    {
+      "name": "杭州九阳小家电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "家用电器的生产和销售的主要子公司。",
+      "quote": "公司名 称 类型 杭州九阳公司 子公司 家用电器的生产和销售"
+    },
+    {
+      "name": "杭州九阳生活电器有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "吸收合并了杭州九阳电子信息公司。",
+      "quote": "杭州九阳电子信息技术有限公司 被生活电器公司吸收合并"
+    },
+    {
+      "name": "九阳股份（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "境外子公司。",
+      "quote": "九阳香港公司 指 九阳股份（香港）有限公司"
+    },
+    {
+      "name": "上海力鸿企业管理有限公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东。",
+      "quote": "上海力鸿公司 指 上海力鸿企业管理有限公司，本公司控股股东"
+    },
+    {
+      "name": "JSGlobal Capital Management Limited (原BILTING DEVELOPMENTS LIMITED)",
+      "relation_type": "investor",
+      "business_details": "公司控股股东的一致行动人，实际控制人王旭宁控制的企业。",
+      "quote": "JSGlobal 指 JSGlobalLifestyleCo.,LTD. (注：年报在股东部分提及BILTING DEVELOPMENTS LIMITED更名为JSGlobal Capital Management Limited)"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "家电行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "8,142,963,287.22元",
+      "revenue_proportion": "99.19%",
+      "gross_margin": "26.78%",
+      "yoy_change": null,
+      "quote": "家电行业 8,142,963,287.22 99.19%...毛利率 26.78%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "7,384,636,114.75元",
+      "revenue_proportion": "89.95%",
+      "gross_margin": "29.02%",
+      "yoy_change": null,
+      "quote": "境内销售 7,384,636,114.75 89.95%...毛利率 29.02%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "825,127,010.61元",
+      "revenue_proportion": "10.05%",
+      "gross_margin": "6.59%",
+      "yoy_change": null,
+      "quote": "境外销售 825,127,010.61 10.05%...毛利率 6.59%"
+    },
+    {
+      "name": "线上销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,467,498,218.95元",
+      "revenue_proportion": "66.60%",
+      "gross_margin": "28.93%",
+      "yoy_change": null,
+      "quote": "线上销售 5,467,498,218.95 66.60%...毛利率 28.93%"
+    },
+    {
+      "name": "线下销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,742,264,906.41元",
+      "revenue_proportion": "33.40%",
+      "gross_margin": "22.46%",
+      "yoy_change": null,
+      "quote": "线下销售 2,742,264,906.41 33.40%...毛利率 22.46%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "家电行业",
+      "metric_type": "sales_volume",
+      "value": "5,821万台",
+      "period": "2025年",
+      "quote": "销售量 万台 5,821 5,743 1.36%"
+    },
+    {
+      "product": "家电行业",
+      "metric_type": "production_volume",
+      "value": "5,747万台",
+      "period": "2025年",
+      "quote": "生产量 万台 5,747 5,763 -0.28%"
+    },
+    {
+      "product": "家电行业",
+      "metric_type": "inventory_volume",
+      "value": "402万台",
+      "period": "2025年末",
+      "quote": "库存量 万台 402 476 -15.55%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "太空厨房研制任务",
+      "project_type": "other",
+      "location": "中国空间站",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "相关设备于2021年4月随天和核心舱进入空间站，至今已稳定运行超1500天",
+      "expected_completion_time": null,
+      "quote": "公司自2014年起承担中国空间站“太空厨房”研制任务，相关设备于2021年4月随天和核心舱进入空间站，至今已稳定运行超1500天"
+    },
+    {
+      "name": "公益厨房项目",
+      "project_type": "other",
+      "location": "全国多省乡村学校",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年建成125所，历年来累计资助1,743所",
+      "expected_completion_time": null,
+      "quote": "2025年，项目...建成125所公益厨房，历年来累计资助1,743所"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利技术",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计15,070项（其中发明专利超过1,150项）",
+      "quote": "公司共拥有专利技术15,070项（其中发明专利1,150项，实用新型12,106项，外观设计1,814项）"
+    },
+    {
+      "name": "立体热风循环加热技术",
+      "asset_type": "core_technology",
+      "related_product": "太空厨房热风加热装置",
+      "quantitative_info": null,
+      "quote": "针对太空极端环境，公司攻克了高效加热、饮用水保障等技术难题。所研发的热风加热装置采用立体热风循环加热技术"
+    },
+    {
+      "name": "高效加热、饮用水保障等技术",
+      "asset_type": "core_technology",
+      "related_product": "太空厨房设备",
+      "quantitative_info": null,
+      "quote": "针对太空极端环境，公司攻克了高效加热、饮用水保障等技术难题。"
+    },
+    {
+      "name": "高端0涂层电饭煲关键技术",
+      "asset_type": "core_technology",
+      "related_product": "0涂层电饭煲",
+      "quantitative_info": null,
+      "quote": "高端0涂层电饭煲关键技术的研究与应用"
+    },
+    {
+      "name": "慧瞳遥感可视技术",
+      "asset_type": "core_technology",
+      "related_product": "豆浆机",
+      "quantitative_info": null,
+      "quote": "慧瞳遥感可视豆浆机研发"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "3,037,108,782.23元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 3,037,108,782.23"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "19.76%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "1 客户1 1,609,323,343.80 19.76%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,582,859,356.23元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,582,859,356.23"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "前五名客户合计销售金额占年度销售总额比例 37.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 37.30%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "i.原材料价格波动的风险 公司对外采购的原材料主要包括铁、不锈钢、铝、铜、塑料等...但是上述原材料的价格上涨...都会对公司的盈利能力产生影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争持续加剧，面临“快速饱和式”供应、非理性价格竞争常态化等行业性风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1）行业风险...行业竞争持续加剧，也带来了产品品质参差不齐、市场面临“快速饱和式”供应、非理性价格竞争常态化等行业性风险"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "产品发生质量问题的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "iii.产品发生质量问题的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "产品多元化所带来的管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "ii.产品多元化所带来的管理风险"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "存货跌价准备或减值准备 25,429,888.73"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "company_name_mentioned": "河钢股份有限公司",
+  "produces": [
+    {
+      "name": "钢材",
+      "type": "device",
+      "revenue_proportion": "钢铁行业收入1126.94亿元，占营业收入95.39%",
+      "quote": "公司钢铁产品分为板材、棒材、线材、型材四大类...冷轧薄板、热轧钢板、中厚板、高强螺纹钢筋等产品在国内外享有盛誉"
+    },
+    {
+      "name": "板材",
+      "type": "device",
+      "revenue_proportion": "2025年收入829.02亿元，占营业收入70.17%",
+      "quote": "分产品:板材 82,902,060,916.91 70.17%"
+    },
+    {
+      "name": "棒材及型材",
+      "type": "device",
+      "revenue_proportion": "2025年收入113.20亿元，占营业收入9.58%",
+      "quote": "分产品:棒材及型材 11,320,259,942.73 9.58%"
+    },
+    {
+      "name": "线材",
+      "type": "device",
+      "revenue_proportion": "2025年收入27.06亿元，占营业收入2.29%",
+      "quote": "分产品:线材 2,706,407,586.62 2.29%"
+    },
+    {
+      "name": "钢坯",
+      "type": "device",
+      "revenue_proportion": "2025年收入47.47亿元，占营业收入4.02%",
+      "quote": "分产品:钢坯 4,747,040,364.18 4.02%"
+    },
+    {
+      "name": "钒产品",
+      "type": "material",
+      "revenue_proportion": "2025年收入14.42亿元，占营业收入1.22%",
+      "quote": "钒产品主要有五氧化二钒（片剂、粉剂）、氧化钒、钒铁、氮化钒铁、钒铝合金等...分产品:钒产品 1,442,051,166.65 1.22%"
+    },
+    {
+      "name": "气体、水电等其他产品",
+      "type": "material",
+      "revenue_proportion": "2025年收入110.19亿元，占营业收入9.33%",
+      "quote": "分产品:气体、水电等其他产品 11,018,711,518.36 9.33%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "进口矿、焦炭、合金、废钢等",
+      "target_product": null,
+      "cost_proportion": "前五名供应商合计采购金额占年度采购总额比例83.31%",
+      "quote": "公司主要供应商情况:前五名供应商合计采购金额（元） 87,938,389,286.73;前五名供应商合计采购金额占年度采购总额比例 83.31%;公司前5名供应商资料:序号 1 河钢集团有限公司 采购额 80,522,404,741.68 占年度采购总额比例 76.28%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家电",
+      "source_product": "钢材，如家电板",
+      "quote": "覆盖家电、汽车、石油、铁路、桥梁、建筑、电力、交通、轻工、船舶、新能源等重要应用领域。冷轧薄板、热轧钢板、中厚板、高强螺纹钢筋等产品在国内外享有盛誉，汽车板、家电板、管线钢、核电用钢及含钒特钢等产品服务于国内外高端市场。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "钢材，如汽车板",
+      "quote": "覆盖家电、汽车、石油、铁路、桥梁、建筑、电力、交通、轻工、船舶、新能源等重要应用领域。...汽车板、家电板、管线钢、核电用钢及含钒特钢等产品服务于国内外高端市场。"
+    },
+    {
+      "name": "石油",
+      "source_product": "钢材，如管线钢",
+      "quote": "覆盖家电、汽车、石油、铁路、桥梁、建筑、电力、交通、轻工、船舶、新能源等重要应用领域。...汽车板、家电板、管线钢、核电用钢及含钒特钢等产品服务于国内外高端市场。"
+    },
+    {
+      "name": "铁路",
+      "source_product": "钢材",
+      "quote": "覆盖家电、汽车、石油、铁路、桥梁、建筑、电力、交通、轻工、船舶、新能源等重要应用领域。"
+    },
+    {
+      "name": "桥梁",
+      "source_product": "钢材",
+      "quote": "覆盖家电、汽车、石油、铁路、桥梁、建筑、电力、交通、轻工、船舶、新能源等重要应用领域。"
+    },
+    {
+      "name": "建筑",
+      "source_product": "钢材，如高强螺纹钢筋",
+      "quote": "覆盖家电、汽车、石油、铁路、桥梁、建筑、电力、交通、轻工、船舶、新能源等重要应用领域。冷轧薄板、热轧钢板、中厚板、高强螺纹钢筋等产品在国内外享有盛誉"
+    },
+    {
+      "name": "新能源",
+      "source_product": "钢材，钒钛产品",
+      "quote": "覆盖家电、汽车、石油、铁路、桥梁、建筑、电力、交通、轻工、船舶、新能源等重要应用领域。"
+    },
+    {
+      "name": "核电",
+      "source_product": "钢材，如核电用钢",
+      "quote": "汽车板、家电板、管线钢、核电用钢及含钒特钢等产品服务于国内外高端市场。"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "钒钛材料，如钒铝合金",
+      "quote": "钒钛材料应用于航空航天、钢铁冶金、超导材料和陶瓷印染等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邓建军",
+      "role": "董事长、党委书记",
+      "quote": "公司负责人邓建军、主管会计工作负责人王保卫及会计机构负责人勇本胜声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "王保卫",
+      "role": "董事、总会计师（主管会计工作负责人）",
+      "quote": "公司负责人邓建军、主管会计工作负责人王保卫及会计机构负责人勇本胜声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张爱民",
+      "role": "副董事长、总经理",
+      "quote": "邓建军...现任河钢股份董事长、党委书记。张爱民...现任河钢股份副董事长、总经理、党委副书记。"
+    },
+    {
+      "name": "王文多",
+      "role": "董事会秘书",
+      "quote": "董事会秘书:姓名 王文多"
+    },
+    {
+      "name": "勇本胜",
+      "role": "会计机构负责人",
+      "quote": "公司负责人邓建军、主管会计工作负责人王保卫及会计机构负责人勇本胜声明：保证本年度报告中财务报告的真实、准确、完整。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "河钢集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司最终控制方为河钢集团有限公司。河钢集团有限公司是公司第一大客户和第一大供应商。",
+      "quote": "河钢集团 指 河钢集团有限公司；公司主要销售客户情况:序号 1 河钢集团有限公司 销售额 58,936,264,464.54 占年度销售总额比例 49.89%；公司主要供应商情况:序号 1 河钢集团有限公司 采购额 80,522,404,741.68 占年度采购总额比例 76.28%"
+    },
+    {
+      "name": "邯郸钢铁集团有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股股东为邯郸钢铁集团有限责任公司。",
+      "quote": "控股股东名称 法定代表人/单位负责人 成立日期 组织机构代码 主要经营业务:邯郸钢铁集团有限责任公司 韩健 1995年12月28日 91130400105566107P 黑色金属冶炼"
+    },
+    {
+      "name": "唐山钢铁集团有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "唐山钢铁集团有限责任公司是公司主要股东（持股18.41%），且为控股股东一致行动人。",
+      "quote": "唐山钢铁集团有限责任公司 指 唐山钢铁集团有限责任公司；前5名股东持股情况:股东名称 唐山钢铁集团有限责任公司 持股比例 18.41%"
+    },
+    {
+      "name": "承德钢铁集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "承德钢铁集团有限公司是公司主要股东（持股4.18%），且同受河钢集团有限公司控制。",
+      "quote": "前5名股东持股情况:股东名称 承德钢铁集团有限公司 持股比例 4.18%"
+    },
+    {
+      "name": "厦门轻工集团商贸有限公司",
+      "relation_type": "customer",
+      "business_details": "公司第二大客户。",
+      "quote": "公司前5大客户资料:序号 2 厦门轻工集团商贸有限公司 销售额 2,864,317,453.92 占年度销售总额比例 2.42%"
+    },
+    {
+      "name": "鞍钢集团国际经济贸易有限公司",
+      "relation_type": "customer",
+      "business_details": "公司第三大客户。",
+      "quote": "公司前5大客户资料:序号 3 鞍钢集团国际经济贸易有限公司 销售额 2,235,312,242.41 占年度销售总额比例 1.89%"
+    },
+    {
+      "name": "物产中大金属集团有限公司",
+      "relation_type": "customer",
+      "business_details": "公司第四大客户。",
+      "quote": "公司前5大客户资料:序号 4 物产中大金属集团有限公司 销售额 1,960,477,940.03 占年度销售总额比例 1.66%"
+    },
+    {
+      "name": "厦门建发金属有限公司",
+      "relation_type": "customer",
+      "business_details": "公司第五大客户。",
+      "quote": "公司前5大客户资料:序号 5 厦门建发金属有限公司 销售额 1,909,740,237.05 占年度销售总额比例 1.62%"
+    },
+    {
+      "name": "河北华增达国际物流有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司第二大供应商。",
+      "quote": "公司前5名供应商资料:序号 2 河北华增达国际物流有限公司 采购额 2,127,751,654.01 占年度采购总额比例 2.02%"
+    },
+    {
+      "name": "国网冀北电力有限公司唐山供电公司",
+      "relation_type": "supplier",
+      "business_details": "公司第三大供应商。",
+      "quote": "公司前5名供应商资料:序号 3 国网冀北电力有限公司唐山供电公司 采购额 1,867,732,225.90 占年度采购总额比例 1.77%"
+    },
+    {
+      "name": "国网河北省电力有限公司邯郸供电分公司",
+      "relation_type": "supplier",
+      "business_details": "公司第四大供应商。",
+      "quote": "公司前5名供应商资料:序号 4 国网河北省电力有限公司邯郸供电分公司 采购额 1,749,238,263.24 占年度采购总额比例 1.66%"
+    },
+    {
+      "name": "唐山中润煤化工有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司第五大供应商。",
+      "quote": "公司前5名供应商资料:序号 5 唐山中润煤化工有限公司 采购额 1,671,262,401.90 占年度采购总额比例 1.58%"
+    },
+    {
+      "name": "河北钢铁集团矿业有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，同受河钢集团有限公司控制。",
+      "quote": "同受河钢集团有限公司控制 采购 商品 矿石、石粉等 市场价 市场价 81,695.26 0.91%"
+    },
+    {
+      "name": "河钢集团财务有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "联营企业，提供存款、授信等金融服务。",
+      "quote": "河钢集团财务有限公司 联营企业 1,500,000 1.15%-2.85% 685,476.21 61,083,063.96 61,146,330.8 622,209.37"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "钢铁行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "112,694,480,328.80",
+      "revenue_proportion": "95.39%",
+      "gross_margin": "10.69%",
+      "yoy_change": "-2.30%",
+      "quote": "分行业:钢铁行业 112,694,480,328.80 95.39%"
+    },
+    {
+      "name": "化工行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,442,051,166.65",
+      "revenue_proportion": "1.22%",
+      "gross_margin": null,
+      "yoy_change": "15.93%",
+      "quote": "分行业:化工行业 1,442,051,166.65 1.22%"
+    },
+    {
+      "name": "板材",
+      "segment_type": "product_line",
+      "revenue_amount": "82,902,060,916.91",
+      "revenue_proportion": "70.17%",
+      "gross_margin": "11.82%",
+      "yoy_change": "0.01%",
+      "quote": "分产品:板材 82,902,060,916.91 70.17%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "61,785,859,476.15",
+      "revenue_proportion": "52.29%",
+      "gross_margin": "13.69%",
+      "yoy_change": "-8.99%",
+      "quote": "分地区:华北地区 61,785,859,476.15 52.29%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "32,870,907,284.64",
+      "revenue_proportion": "27.82%",
+      "gross_margin": "7.17%",
+      "yoy_change": "23.60%",
+      "quote": "分地区:华东地区 32,870,907,284.64 27.82%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "65,963,522,323.39",
+      "revenue_proportion": "55.84%",
+      "gross_margin": "9.96%",
+      "yoy_change": "-2.99%",
+      "quote": "分销售模式:直销模式 65,963,522,323.39 55.84%"
+    },
+    {
+      "name": "分销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "52,173,732,309.57",
+      "revenue_proportion": "44.16%",
+      "gross_margin": "11.53%",
+      "yoy_change": "-2.70%",
+      "quote": "分销售模式:分销模式 52,173,732,309.57 44.16%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "钢材（钢铁行业）",
+      "metric_type": "production_volume",
+      "value": "2,809万吨",
+      "period": "2025年",
+      "quote": "公司产铁3144万吨、粗钢2979万吨、钢材2809万吨，钒渣26万吨。"
+    },
+    {
+      "product": "钢材（钢铁行业）",
+      "metric_type": "sales_volume",
+      "value": "2,812万吨",
+      "period": "2025年",
+      "quote": "钢铁行业:销售量 万吨 2,812"
+    },
+    {
+      "product": "钒渣",
+      "metric_type": "production_volume",
+      "value": "26万吨",
+      "period": "2025年",
+      "quote": "公司产铁3144万吨、粗钢2979万吨、钢材2809万吨，钒渣26万吨。"
+    },
+    {
+      "product": "钒产品（化工行业）",
+      "metric_type": "production_volume",
+      "value": "23,352吨",
+      "period": "2025年",
+      "quote": "化工行业:生产量 吨 23,352"
+    },
+    {
+      "product": "钒产品（化工行业）",
+      "metric_type": "sales_volume",
+      "value": "21,621吨",
+      "period": "2025年",
+      "quote": "化工行业:销售量 吨 21,621"
+    },
+    {
+      "product": "钢材（钢铁行业）",
+      "metric_type": "production_volume",
+      "value": "2,642万吨",
+      "period": "2024年",
+      "quote": "钢铁行业:生产量 万吨 2,809 2,642"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "唐钢新区（河钢乐亭钢铁有限公司）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "加快释放唐钢新区、邯钢新区两大新建生产基地的区位、装备、技术、人才等综合比较优势。唐钢新区：行业首次从长流程工艺设计层面应用冶金流程工程学原理..."
+    },
+    {
+      "name": "邯钢新区（邯钢能嘉钢铁有限公司）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "加快释放唐钢新区、邯钢新区两大新建生产基地的区位、装备、技术、人才等综合比较优势。邯钢新区：成功实现全流程紧凑型钢铁生产工艺技术突破。"
+    },
+    {
+      "name": "向河钢乐亭钢铁有限公司增资",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "470,000.00万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "经公司2025年12月12日召开的六届六次董事会和2025年12月29日召开的2025年第三次临时股东会批准，公司向乐钢公司增资470,000.00万元，增资后乐钢注册资本增至2,127,231.00万元，其中河钢股份持股80.21%，转型基金持股19.79%。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "3个",
+      "quote": "拥有国家认定企业技术中心3个、通过CNAS认可理化试验室3个、省级产业研究院2个、重点实验室4个、省级技术创新中心3个、省级工程技术研究中心3个、博士后科研工作站3个、4个国家级职工创新工作室。"
+    },
+    {
+      "name": "通过CNAS认可理化试验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "3个",
+      "quote": "拥有国家认定企业技术中心3个、通过CNAS认可理化试验室3个、省级产业研究院2个、重点实验室4个、省级技术创新中心3个、省级工程技术研究中心3个、博士后科研工作站3个、4个国家级职工创新工作室。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "申报专利691项，获授权430项",
+      "quote": "创新体系建设成果丰硕。申报专利691项，获授权430项，获省部级科技奖10项。"
+    },
+    {
+      "name": "高品质热轧带钢板形板廓智能检测及控制应用",
+      "asset_type": "technical_platform",
+      "related_product": "热轧带钢",
+      "quantitative_info": null,
+      "quote": "“高品质热轧带钢板形板廓智能检测及控制应用”入选工信部人工智能赋能新型工业化典型应用案例名单，实现了板形板廓的高精度、动态闭环控制，达到行业领先水平。"
+    },
+    {
+      "name": "钒钛冶炼和钒产品生产技术",
+      "asset_type": "core_technology",
+      "related_product": "钒钛产品",
+      "quantitative_info": null,
+      "quote": "公司在钒钛钢铁冶炼和钒产品生产技术方面处于世界领先地位"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "57.48%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要销售客户情况:前五名客户合计销售金额（元） 67,906,112,337.95;前五名客户合计销售金额占年度销售总额比例 57.48%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "83.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要供应商情况:前五名供应商合计采购金额（元） 87,938,389,286.73;前五名供应商合计采购金额占年度采购总额比例 83.31%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "49.89%",
+      "related_entity": "河钢集团有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料:序号 1 河钢集团有限公司 销售额（元） 58,936,264,464.54 占年度销售总额比例 49.89%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "76.28%",
+      "related_entity": "河钢集团有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料:序号 1 河钢集团有限公司 采购额（元） 80,522,404,741.68 占年度采购总额比例 76.28%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "environmental_compliance",
+      "description": "随着国家对环境保护力度的不断加强以及“碳达峰、碳中和”的推进，钢铁企业面临的环保压力越来越大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（二）可能面临的风险与对策:1.环境保护风险:风险：随着国家对环境保护力度的不断加强以及“碳达峰、碳中和”的推进，钢铁企业面临的环保压力越来越大。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "2026年，钢铁行业复杂严峻的市场形势依然存在，下游需求增长仍存在不确定性，行业处于由存量优化向减量发展转变时期，当前及今后很长一段时间仍将面临供需失衡的挑战，市场竞争会更加激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.市场竞争风险:风险：2026年，钢铁行业复杂严峻的市场形势依然存在，下游需求增长仍存在不确定性，行业处于由存量优化向减量发展转变时期，当前及今后很长一段时间仍将面临供需失衡的挑战，市场竞争会更加激烈。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司资产负债率较高，国家信贷政策的调整将引起公司利息费用的波动，从而影响经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.资产负债率较高的风险:风险：公司资产负债率较高，国家信贷政策的调整将引起公司利息费用的波动，从而影响经营业绩。"
+    }
+  ]
+}

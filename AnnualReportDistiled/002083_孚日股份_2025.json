@@ -1,0 +1,137 @@
+{
+  "company_name_mentioned": null,
+  "produces": [
+    {
+      "name": "风力发电服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "本公司主要业务为风力发电项目的开发、建设、运营"
+    }
+  ],
+  "procures": [],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "风力发电服务",
+      "quote": "通过并网发电为电网提供清洁能源"
+    }
+  ],
+  "key_personnel": [],
+  "company_relations": [
+    {
+      "name": "丰宁满族自治县万润风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "公司直接及通过丰宁满族自治县万润风电有限公司等子公司"
+    },
+    {
+      "name": "滦平慧通光伏发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "以及滦平慧通光伏发电有限公司等"
+    }
+  ],
+  "business_segments": [],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "大元山风电场项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "48MW",
+      "progress": "预计于2023年4月30日前并网",
+      "expected_completion_time": "2023年4月30日前",
+      "quote": "大元山风电场项目（48MW，预计于2023年4月30日前并网）"
+    },
+    {
+      "name": "兴隆县集中式光伏项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "100MW",
+      "progress": "已取得核准，正在积极推进建设前准备工作",
+      "expected_completion_time": null,
+      "quote": "兴隆县集中式光伏项目（100MW，已取得核准，正在积极推进建设前准备工作）"
+    },
+    {
+      "name": "老窝铺二期风电场项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "100MW",
+      "progress": "正积极申报",
+      "expected_completion_time": null,
+      "quote": "老窝铺二期风电场项目（100MW）等后续储备项目正积极申报"
+    },
+    {
+      "name": "古铜沟风电场项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "48MW",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "古铜沟风电场项目（48MW）"
+    },
+    {
+      "name": "东梁风电场项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "49.5MW",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "东梁风电场项目（49.5MW）"
+    },
+    {
+      "name": "老窝铺一期风电场项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "48MW",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "老窝铺一期风电场项目（48MW）"
+    }
+  ],
+  "technology_assets": [],
+  "concentration_metrics": [],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "上网电价风险：公司主要收入来源为风力发电并网后的售电收入。风力发电上网电价受国家政策影响，如果未来国家对可再生能源的补贴政策发生变化，可能会对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": "风力发电服务",
+      "quote": "1. 上网电价风险：公司主要收入来源为风力发电并网后的售电收入。风力发电上网电价受国家政策影响，如果未来国家对可再生能源的补贴政策发生变化，可能会对公司经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "政策风险：风力发电行业受国家产业政策、能源政策及环保政策的影响较大。",
+      "related_entity": null,
+      "related_product": "风力发电服务",
+      "quote": "2. 政策风险：风力发电行业受国家产业政策、能源政策及环保政策的影响较大。"
+    },
+    {
+      "risk_type": "other",
+      "description": "弃风限电风险：由于风力发电具有间歇性和不稳定性，可能受到电网调度限电的影响，从而影响发电量。",
+      "related_entity": null,
+      "related_product": "风力发电服务",
+      "quote": "3. 弃风限电风险：由于风力发电具有间歇性和不稳定性，可能受到电网调度限电的影响，从而影响发电量。"
+    },
+    {
+      "risk_type": "other",
+      "description": "风资源不确定性风险：风力发电量受项目所在地风力资源状况影响，而风资源具有波动性和不确定性。",
+      "related_entity": null,
+      "related_product": "风力发电服务",
+      "quote": "4. 风资源不确定性风险：风力发电量受项目所在地风力资源状况影响，而风资源具有波动性和不确定性。"
+    },
+    {
+      "risk_type": "other",
+      "description": "市场竞争风险：随着风电行业快速发展，市场竞争日趋激烈，可能导致项目获取难度加大、成本上升。",
+      "related_entity": null,
+      "related_product": "风力发电服务",
+      "quote": "5. 市场竞争风险：随着风电行业快速发展，市场竞争日趋激烈，可能导致项目获取难度加大、成本上升。"
+    }
+  ]
+}

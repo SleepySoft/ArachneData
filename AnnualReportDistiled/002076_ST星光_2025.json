@@ -1,0 +1,551 @@
+{
+  "company_name_mentioned": "广东星光发展股份有限公司",
+  "produces": [
+    {
+      "name": "LED照明系列（含半导体LED封装）",
+      "type": "device",
+      "revenue_proportion": "41.87%",
+      "quote": "分产品：LED照明系列 159,081,203.30 41.87%"
+    },
+    {
+      "name": "锂电池生产设备",
+      "type": "device",
+      "revenue_proportion": "20.02%",
+      "quote": "分产品：锂电池生产设备系列 76,072,127.55 20.02%"
+    },
+    {
+      "name": "汽车照明系列",
+      "type": "device",
+      "revenue_proportion": "8.24%",
+      "quote": "分产品：汽车照明系列 31,309,973.19 8.24%"
+    },
+    {
+      "name": "光伏组件系列",
+      "type": "device",
+      "revenue_proportion": "9.85%",
+      "quote": "分产品：光伏组件系列 37,429,772.71 9.85%"
+    },
+    {
+      "name": "紫外线杀菌灯系列",
+      "type": "device",
+      "revenue_proportion": "6.18%",
+      "quote": "分产品：紫外线杀菌灯系列 23,491,884.18 6.18%"
+    },
+    {
+      "name": "荧光灯系列",
+      "type": "device",
+      "revenue_proportion": "4.30%",
+      "quote": "分产品：荧光灯系列 16,343,960.89 4.30%"
+    },
+    {
+      "name": "分布式光伏电站建设开发（光伏电站EPC）",
+      "type": "service",
+      "revenue_proportion": "3.24%",
+      "quote": "分产品：分布式光伏电站建设开发（光伏电站EPC） 12,297,432.40 3.24%"
+    },
+    {
+      "name": "信息安全与系统集成系列",
+      "type": "service",
+      "revenue_proportion": "2.29%",
+      "quote": "分产品：信息安全与系统集成系列 8,702,838.40 2.29%"
+    },
+    {
+      "name": "分布式光伏电站投资运营",
+      "type": "service",
+      "revenue_proportion": "0.61%",
+      "quote": "分产品：分布式光伏电站投资运营 2,324,797.21 0.61%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电池片",
+      "target_product": "光伏组件",
+      "cost_proportion": null,
+      "quote": "公司主要产品的原材料采购主要包括电池片、生产所需的其他原辅料（如玻璃、铝边框等）以及其他配件等"
+    },
+    {
+      "name": "玻璃",
+      "target_product": "光伏组件",
+      "cost_proportion": null,
+      "quote": "公司主要产品的原材料采购主要包括电池片、生产所需的其他原辅料（如玻璃、铝边框等）以及其他配件等"
+    },
+    {
+      "name": "铝边框",
+      "target_product": "光伏组件",
+      "cost_proportion": null,
+      "quote": "公司主要产品的原材料采购主要包括电池片、生产所需的其他原辅料（如玻璃、铝边框等）以及其他配件等"
+    },
+    {
+      "name": "光伏组件",
+      "target_product": "分布式光伏电站建设开发",
+      "cost_proportion": null,
+      "quote": "采购的设备及材料主要包括光伏组件、逆变器、箱变、光伏支架、电缆、升压站设备等"
+    },
+    {
+      "name": "逆变器",
+      "target_product": "分布式光伏电站建设开发",
+      "cost_proportion": null,
+      "quote": "采购的设备及材料主要包括光伏组件、逆变器、箱变、光伏支架、电缆、升压站设备等"
+    },
+    {
+      "name": "计算机硬件",
+      "target_product": "信息安全与系统集成",
+      "cost_proportion": null,
+      "quote": "采购内容主要包括计算机硬件、外购软件以及外购劳务等"
+    },
+    {
+      "name": "外购软件",
+      "target_product": "信息安全与系统集成",
+      "cost_proportion": null,
+      "quote": "采购内容主要包括计算机硬件、外购软件以及外购劳务等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "室内外照明工程",
+      "source_product": "LED照明系列",
+      "quote": "产品广泛应用于室内外照明工程、市政照明工程、文旅亮化照明工程以及健康护眼照明等多个领域"
+    },
+    {
+      "name": "市政照明工程",
+      "source_product": "LED照明系列",
+      "quote": "产品广泛应用于室内外照明工程、市政照明工程、文旅亮化照明工程以及健康护眼照明等多个领域"
+    },
+    {
+      "name": "文旅亮化照明工程",
+      "source_product": "LED照明系列",
+      "quote": "产品广泛应用于室内外照明工程、市政照明工程、文旅亮化照明工程以及健康护眼照明等多个领域"
+    },
+    {
+      "name": "健康护眼照明",
+      "source_product": "LED照明系列",
+      "quote": "产品广泛应用于室内外照明工程、市政照明工程、文旅亮化照明工程以及健康护眼照明等多个领域"
+    },
+    {
+      "name": "医院、教室、家庭等空间场所消毒",
+      "source_product": "紫外线消毒台灯、空气净化器等环境净化系列产品",
+      "quote": "产品广泛应用于医院、教室、家庭、车间、商场、办公楼等各类空间场所"
+    },
+    {
+      "name": "消毒柜、净水机、空气净化器等小家电",
+      "source_product": "222nm准分子灯及杀菌模组等",
+      "quote": "也可应用于消毒柜、净水机、空气净化器、除螨仪等小家电"
+    },
+    {
+      "name": "医疗器械设备领域",
+      "source_product": "308准分子光源产品等",
+      "quote": "医疗器械设备领域"
+    },
+    {
+      "name": "工业废水废气治理",
+      "source_product": "污水净化系列",
+      "quote": "工业中废水废气的治理"
+    },
+    {
+      "name": "各类车型（后改装市场）",
+      "source_product": "LED汽车大灯、LED透镜雾灯等汽车照明系列",
+      "quote": "可满足不同客户的多样化需求，广泛适配各类车型"
+    },
+    {
+      "name": "新能源动力电池生产",
+      "source_product": "锂电池生产设备",
+      "quote": "公司锂电池生产设备业务主要为新能源动力电池生产企业提供锂电池整条生产工艺链的中后段设备"
+    },
+    {
+      "name": "分布式光伏发电",
+      "source_product": "分布式光伏电站建设开发、投资运营及光伏组件",
+      "quote": "光伏电站建设开发、运营及光伏组件"
+    },
+    {
+      "name": "智慧城市综合运营中心建设、国产化信创及信息安全解决方案",
+      "source_product": "信息安全与系统集成",
+      "quote": "专注于智慧城市综合运营中心建设、国产化信创及信息安全解决方案、大数据管理平台"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "戴俊威",
+      "role": "实际控制人、董事、董事长",
+      "quote": "公司负责人李振江、主管会计工作负责人李振江及会计机构负责人（会计主管人员）肖访声明：保证本年度报告中财务报告的真实、准确、完整。...2022年12月20日起，公司控股股东变更为佳德轩（广州）资本管理有限公司，公司实际控制人变更为戴俊威。...戴俊威 男 51 现任 董事长 2023年01月30日"
+    },
+    {
+      "name": "李振江",
+      "role": "董事、总经理、财务负责人",
+      "quote": "李振江 男 44 现任 董事 2023年01月30日...总经理 2023年01月09日...财务负责人 2024年12月05日"
+    },
+    {
+      "name": "张桃华",
+      "role": "董事、董事会秘书",
+      "quote": "张桃华 男 38 现任 董事会秘书 2018年01月22日...董事 2020年12月14日"
+    },
+    {
+      "name": "陈文基",
+      "role": "副总经理",
+      "quote": "陈文基 男 48 现任 副总经理 2024年01月03日"
+    },
+    {
+      "name": "刘由材",
+      "role": "副总经理",
+      "quote": "刘由材 男 49 现任 副总经理 2024年12月05日"
+    },
+    {
+      "name": "张丹丹",
+      "role": "独立董事",
+      "quote": "张丹丹 女 33 现任 独立董事 2021年11月29日"
+    },
+    {
+      "name": "倪振年",
+      "role": "独立董事",
+      "quote": "倪振年 男 52 现任 独立董事 2024年12月05日"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "佳德轩（广州）资本管理有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "2022年12月20日起，公司控股股东变更为佳德轩（广州）资本管理有限公司"
+    },
+    {
+      "name": "深圳市卓誉自动化科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，深耕锂电池生产设备",
+      "quote": "公司全资子公司卓誉自动化深耕自动化设备行业十余载"
+    },
+    {
+      "name": "佛山雪莱特光电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，经营照明等业务",
+      "quote": "光电科技、雪莱特光电 指 佛山雪莱特光电科技有限公司"
+    },
+    {
+      "name": "广东星光新能源技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，运营光伏组件",
+      "quote": "光伏组件由公司控股子公司星光新能源负责运营"
+    },
+    {
+      "name": "广东中能半导体技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，经营LED封装",
+      "quote": "中能半导体 指 广东中能半导体技术有限公司"
+    },
+    {
+      "name": "广东星光智慧城市科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，经营数智城市业务",
+      "quote": "星光智慧 指 广东星光智慧城市科技有限公司"
+    },
+    {
+      "name": "广东星光神州量子信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，经营量子信息安全业务",
+      "quote": "神州量子信息技术、星光量子 指 广东星光神州量子信息技术有限公司"
+    },
+    {
+      "name": "瑞浦兰钧能源股份有限公司",
+      "relation_type": "customer",
+      "business_details": "中标锂电池生产设备采购合同",
+      "quote": "公司收到全资子公司深圳市卓誉自动化科技有限公司（以下简称“卓誉自动化”）与招标单位瑞浦兰钧能源股份有限公司签订中标项目的《设备采购合同》，合同金额为2,228.00万元"
+    },
+    {
+      "name": "广东富泰控股有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人控制的企业，曾增持公司股份；亦作为关联方接收子公司股权转让",
+      "quote": "公司实际控制人、董事长戴俊威先生...其控制的企业“广东富泰控股有限公司”自2025年4月29日起未来3个月内...计划增持...本次增持计划的实施期间，广东富泰控股有限公司通过集中竞价的方式合计增持公司股份550万股...公司将持有元生信息51%股权以人民币1,000万元的价格转让给广东富泰控股有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电器机械及器材制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "230,227,021.56",
+      "revenue_proportion": "60.59%",
+      "gross_margin": "25.11%",
+      "yoy_change": "107.11%",
+      "quote": "分行业：电器机械及器材制造业 230,227,021.56 60.59%...25.11%...107.11%"
+    },
+    {
+      "name": "锂电池生产设备行业",
+      "segment_type": "product_line",
+      "revenue_amount": "76,072,127.55",
+      "revenue_proportion": "20.02%",
+      "gross_margin": "19.04%",
+      "yoy_change": "34.72%",
+      "quote": "分行业：锂电池生产设备行业 76,072,127.55 20.02%...19.04%...34.72%"
+    },
+    {
+      "name": "光伏组件行业",
+      "segment_type": "product_line",
+      "revenue_amount": "37,429,772.71",
+      "revenue_proportion": "9.85%",
+      "gross_margin": "14.33%",
+      "yoy_change": "100.00%",
+      "quote": "分行业：光伏组件行业 37,429,772.71 9.85%...14.33%...100.00%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "225,747,016.59",
+      "revenue_proportion": "59.41%",
+      "gross_margin": "27.13%",
+      "yoy_change": "181.73%",
+      "quote": "分地区：华南地区 225,747,016.59 59.41%...27.13%...181.73%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "71,094,240.56",
+      "revenue_proportion": "18.71%",
+      "gross_margin": "27.49%",
+      "yoy_change": "2.78%",
+      "quote": "分地区：华东地区 71,094,240.56 18.71%...27.49%...2.78%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "57,443,235.28",
+      "revenue_proportion": "15.12%",
+      "gross_margin": "22.59%",
+      "yoy_change": "110.17%",
+      "quote": "分地区：国外 57,443,235.28 15.12%...22.59%...110.17%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "275,976,859.05",
+      "revenue_proportion": "72.63%",
+      "gross_margin": "25.16%",
+      "yoy_change": "100.05%",
+      "quote": "分销售模式：直销 275,976,859.05 72.63%...25.16%...100.05%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "103,998,172.87",
+      "revenue_proportion": "27.37%",
+      "gross_margin": "30.63%",
+      "yoy_change": "92.80%",
+      "quote": "分销售模式：分销 103,998,172.87 27.37%...30.63%...92.80%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电器机械及器材",
+      "metric_type": "sales_volume",
+      "value": "15,536,404.00",
+      "period": "2025",
+      "quote": "电器机械及器材制造业行业 销售量 支/套 15,536,404.00"
+    },
+    {
+      "product": "电器机械及器材",
+      "metric_type": "production_volume",
+      "value": "16,021,328.00",
+      "period": "2025",
+      "quote": "电器机械及器材制造业行业 生产量 支/套 16,021,328.00"
+    },
+    {
+      "product": "电器机械及器材",
+      "metric_type": "inventory_volume",
+      "value": "3,876,215.00",
+      "period": "2025",
+      "quote": "电器机械及器材制造业行业 库存量 支/套 3,876,215.00"
+    },
+    {
+      "product": "锂电池生产设备",
+      "metric_type": "sales_volume",
+      "value": "46.00",
+      "period": "2025",
+      "quote": "锂电池生产设备行业 销售量 台 46.00"
+    },
+    {
+      "product": "锂电池生产设备",
+      "metric_type": "production_volume",
+      "value": "67.00",
+      "period": "2025",
+      "quote": "锂电池生产设备行业 生产量 台 67.00"
+    },
+    {
+      "product": "锂电池生产设备",
+      "metric_type": "inventory_volume",
+      "value": "80.00",
+      "period": "2025",
+      "quote": "锂电池生产设备行业 库存量 台 80.00"
+    },
+    {
+      "product": "光伏组件",
+      "metric_type": "sales_volume",
+      "value": "90,053.00",
+      "period": "2025",
+      "quote": "光伏组件行业 销售量 片 90,053.00"
+    },
+    {
+      "product": "光伏组件",
+      "metric_type": "production_volume",
+      "value": "101,214.00",
+      "period": "2025",
+      "quote": "光伏组件行业 生产量 片 101,214.00"
+    },
+    {
+      "product": "光伏组件",
+      "metric_type": "inventory_volume",
+      "value": "11,161.00",
+      "period": "2025",
+      "quote": "光伏组件行业 库存量 片 11,161.00"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "CNAS实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后成立了CNAS实验室、省级企业技术中心"
+    },
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后成立了CNAS实验室、省级企业技术中心"
+    },
+    {
+      "name": "中外专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "超过500项",
+      "quote": "截至报告期末，公司及子公司先后获得中外专利超过500项"
+    },
+    {
+      "name": "国家科学技术进步二等奖",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后获得“国家科学技术进步二等奖”"
+    },
+    {
+      "name": "中国专利优秀奖",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后获得“中国专利优秀奖”"
+    },
+    {
+      "name": "国家知识产权优势企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获评“国家知识产权优势企业”"
+    },
+    {
+      "name": "国家知识产权示范企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获评“国家知识产权示范企业”"
+    },
+    {
+      "name": "道路机动车辆灯泡性能要求（GB/T15766.2-2007）",
+      "asset_type": "standard",
+      "related_product": "汽车照明系列",
+      "quantitative_info": null,
+      "quote": "曾参与起草《道路机动车辆灯泡性能要求》（GB/T15766.2-2007）"
+    },
+    {
+      "name": "道路机动车辆灯泡尺寸、光电性能要求（GB15766.1-2008）",
+      "asset_type": "standard",
+      "related_product": "汽车照明系列",
+      "quantitative_info": null,
+      "quote": "《道路机动车辆灯泡尺寸、光电性能要求》（GB15766.1-2008）"
+    },
+    {
+      "name": "十万级无尘车间",
+      "asset_type": "process_technology",
+      "related_product": "半导体LED封装",
+      "quantitative_info": null,
+      "quote": "依托十万级无尘车间，专注于SMD、LAMP等多种类型LED半导体光源的研发与生产"
+    },
+    {
+      "name": "全自动化生产线",
+      "asset_type": "process_technology",
+      "related_product": "光伏组件",
+      "quantitative_info": null,
+      "quote": "公司光伏组件生产基地采用全自动化生产线，利用高度集成、智能协同的制造系统"
+    },
+    {
+      "name": "CCS线束集成自动化生产线",
+      "asset_type": "technical_platform",
+      "related_product": "锂电池生产设备",
+      "quantitative_info": null,
+      "quote": "卓誉自动化推出了锂电池关键模组CCS线束集成自动化生产线"
+    },
+    {
+      "name": "增值电信业务经营许可证（IDC）",
+      "asset_type": "certification",
+      "related_product": "信息安全与系统集成",
+      "quantitative_info": null,
+      "quote": "公司全资子公司广东星光云计算有限公司已于2025年3月取得增值电信业务经营许可证（IDC）"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28.43%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名客户合计销售金额（元） 108,033,151.06 前五名客户合计销售金额占年度销售总额比例 28.43%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "12.69%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名供应商合计采购金额（元） 45,628,426.87 前五名供应商合计采购金额占年度采购总额比例 12.69%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "28.43%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 28.43%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "litigation",
+      "description": "公司因普洱普顺的经营合作涉及回购义务。2025年9月，一审判决公司应支付回购款1,396.88万元予普洱普顺。目前上述诉讼尚未终审判决。",
+      "related_entity": "普洱普顺智能科技有限公司",
+      "related_product": null,
+      "quote": "公司于2018年...签署《合资协议书》，成立普洱普顺智能科技有限公司（以下简称“普洱普顺”）。公司因普洱普顺的经营合作涉及回购义务...2025年9月，一审判决公司应支付回购款1,396.88万元予普洱普顺。目前上述诉讼尚未终审判决"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司对外出租的厂房发生火灾事故，公司不排除在未来通过协商谈判或司法诉讼等合法途径，向相关责任方主张经济赔偿。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年4月13日，公司对外出租的厂房发生火灾事故...公司不排除在未来通过协商谈判或司法诉讼等合法途径，向相关责任方主张经济赔偿"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司就自然人徐某等三人起诉公司证券虚假陈述责任纠纷（起诉金额合计约为15.41万元），目前尚未出具判决结果。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司就自然人徐某等三人起诉公司证券虚假陈述责任纠纷（起诉金额合计约为15.41万元）...目前尚未出具判决结果"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司已符合申请撤销退市风险警示的条件，该申请尚需深圳证券交易所核准，能否获得批准存在不确定性。",
+      "related_entity": "深圳证券交易所",
+      "related_product": null,
+      "quote": "公司已符合申请撤销退市风险警示的条件，并于2026年4月28日向深圳证券交易所提交了撤销退市风险警示的申请。该申请尚需深圳证券交易所核准，能否获得批准存在不确定性"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司涉及三项代位权纠纷，系子公司佛山雪莱特借款引起的纠纷。判决已生效，部分未执行。",
+      "related_entity": "佛山雪莱特照明有限公司",
+      "related_product": null,
+      "quote": "佛山雪莱特代位权纠纷...系子公司佛山雪莱特借款引起的纠纷，根据判决，星光股份无需承担连带清偿责任"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "company_name_mentioned": "宏达高科控股股份有限公司",
+  "produces": [
+    {
+      "name": "交运面料（汽车内饰面料）",
+      "type": "material",
+      "revenue_proportion": "42.62%",
+      "quote": "分产品 交运面料 210,437,253.20 42.62%"
+    },
+    {
+      "name": "服饰面料",
+      "type": "material",
+      "revenue_proportion": "38.02%",
+      "quote": "分产品 服饰面料 187,687,529.77 38.02%"
+    },
+    {
+      "name": "染整和家纺",
+      "type": "material",
+      "revenue_proportion": "0.46%",
+      "quote": "分产品 染整和家纺 2,251,005.50 0.46%"
+    },
+    {
+      "name": "医疗器械（超声诊断、治疗设备等）",
+      "type": "device",
+      "revenue_proportion": "10.66%",
+      "quote": "分产品 医疗器械 52,646,956.51 10.66%"
+    },
+    {
+      "name": "贸易",
+      "type": "service",
+      "revenue_proportion": "6.12%",
+      "quote": "分产品 贸易 30,225,128.39 6.12%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "锦纶丝、涤纶丝、低弹丝等原料丝",
+      "target_product": "面料织造",
+      "cost_proportion": null,
+      "quote": "面料织造业务主要原材料为锦纶丝、涤纶丝、低弹丝等原料丝及各类染料助剂"
+    },
+    {
+      "name": "各类染料助剂",
+      "target_product": "面料织造",
+      "cost_proportion": null,
+      "quote": "面料织造业务主要原材料为锦纶丝、涤纶丝、低弹丝等原料丝及各类染料助剂"
+    },
+    {
+      "name": "原材料或外购商品",
+      "target_product": "交运面料",
+      "cost_proportion": "59.12%",
+      "quote": "主营业务成本构成 原材料或外购商品 7,490.78 59.12% 交运面料"
+    },
+    {
+      "name": "原材料或外购商品",
+      "target_product": "服饰面料",
+      "cost_proportion": "61.38%",
+      "quote": "主营业务成本构成 原材料或外购商品 8,690.45 61.38% 服饰面料"
+    },
+    {
+      "name": "原材料或外购商品",
+      "target_product": "染整与家纺",
+      "cost_proportion": "70.79%",
+      "quote": "主营业务成本构成 原材料或外购商品 105.42 70.79% 染整与家纺"
+    },
+    {
+      "name": "原材料或外购商品",
+      "target_product": "医疗器械",
+      "cost_proportion": "80.07%",
+      "quote": "主营业务成本构成 原材料或外购商品 1,997.39 80.07% 医疗器械"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车整车（内饰面料）",
+      "source_product": "交运面料（汽车内饰面料）",
+      "quote": "公司已为宝马、奔驰、奥迪、比亚迪、大众、通用、长城、吉利等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "服饰（运动功能、旅游休闲、内衣泳衣等）",
+      "source_product": "服饰面料",
+      "quote": "公司也生产各类可用于运动功能、旅游休闲、内衣泳衣等不同服装...的高附加值面料"
+    },
+    {
+      "name": "高档家纺",
+      "source_product": "服饰面料",
+      "quote": "以及用于高档家纺产品的高附加值面料"
+    },
+    {
+      "name": "医疗器械（超声诊断、治疗设备）",
+      "source_product": "医疗器械",
+      "quote": "公司全资子公司威尔德主要从事超声诊断、治疗设备等的研发、生产与销售。"
+    },
+    {
+      "name": "新能源、低空经济等前沿领域",
+      "source_product": "高端功能性面料和碳纤维复合材料",
+      "quote": "未来产品在新能源、低空经济等前沿领域有广泛应用前景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "沈国甫",
+      "role": "董事长",
+      "quote": "公司负责人沈国甫"
+    },
+    {
+      "name": "毛志林",
+      "role": "副董事长",
+      "quote": "毛志林先生：副董事长"
+    },
+    {
+      "name": "沈珺",
+      "role": "副董事长",
+      "quote": "沈珺先生：副董事长"
+    },
+    {
+      "name": "许建舟",
+      "role": "董事、总经理",
+      "quote": "许建舟先生：董事兼总经理"
+    },
+    {
+      "name": "顾伟锋",
+      "role": "董事、副总经理",
+      "quote": "顾伟锋先生：董事兼副总经理"
+    },
+    {
+      "name": "王凤娟",
+      "role": "董事、副总经理、财务总监",
+      "quote": "王凤娟女士：董事兼副总经理、财务总监"
+    },
+    {
+      "name": "于斌",
+      "role": "独立董事",
+      "quote": "于斌先生：独立董事"
+    },
+    {
+      "name": "陈相瑜",
+      "role": "独立董事",
+      "quote": "陈相瑜先生：独立董事"
+    },
+    {
+      "name": "张敏华",
+      "role": "独立董事",
+      "quote": "张敏华女士：独立董事"
+    },
+    {
+      "name": "孙云浩",
+      "role": "副总经理",
+      "quote": "孙云浩先生：副总经理"
+    },
+    {
+      "name": "金小红",
+      "role": "副总经理",
+      "quote": "金小红先生：副总经理"
+    },
+    {
+      "name": "马强强",
+      "role": "董事会秘书",
+      "quote": "马强强先生：董事会秘书"
+    },
+    {
+      "name": "王凤娟",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人王凤娟"
+    },
+    {
+      "name": "李振杰",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）李振杰"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳市威尔德医疗电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事医疗器械生产与销售",
+      "quote": "威尔德 指 深圳市威尔德医疗电子有限公司，公司全资子公司"
+    },
+    {
+      "name": "杭州宏智新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "宏智新材 指 杭州宏智新材料有限公司，公司全资子公司"
+    },
+    {
+      "name": "嘉兴市宏达进出口有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，贸易业务",
+      "quote": "进出口公司 指 嘉兴市宏达进出口有限公司，公司全资子公司"
+    },
+    {
+      "name": "浙江威尔德数智医疗科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "威尔德全资子公司，加快超声诊断设备车间建设，自主生产智能理疗设备及智能按摩机器人",
+      "quote": "浙江威尔德 指 浙江威尔德数智医疗科技有限公司，威尔德全资子公司"
+    },
+    {
+      "name": "深圳市君智达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "威尔德全资子公司",
+      "quote": "君智达 指 深圳市君智达科技有限公司，威尔德全资子公司"
+    },
+    {
+      "name": "上海宏航医疗器械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "威尔德控股子公司，报告期后变为威尔德全资子公司",
+      "quote": "上海宏航 指 上海宏航医疗器械有限公司，威尔德控股子公司，报告期后，该公司已变更为威尔德全资子公司"
+    },
+    {
+      "name": "海宁宏达小额贷款股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司参股公司，持股比例26.8052%，报告期内对其长期股权投资计提减值准备",
+      "quote": "宏达小贷 指 海宁宏达小额贷款股份有限公司，公司参股公司，持股比例26.8052%"
+    },
+    {
+      "name": "浙江富特科技股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股公司，报告期末持股比例2.3333%，创业板上市公司，报告期内部分减持",
+      "quote": "富特科技 指 浙江富特科技股份有限公司，公司参股公司，报告期末持股比例2.3333%，创业板上市公司"
+    },
+    {
+      "name": "海宁中国皮革城股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股公司，持股比例1.4930%",
+      "quote": "海宁皮城 指 海宁中国皮革城股份有限公司，公司参股公司，持股比例1.4930%"
+    },
+    {
+      "name": "宏达控股集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司关联方",
+      "quote": "宏达控股集团 指 宏达控股集团有限公司，公司关联方"
+    },
+    {
+      "name": "海宁宏达股权投资管理有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司参股公司，持股比例29.4118%",
+      "quote": "宏达投资公司 指 海宁宏达股权投资管理有限公司，公司参股公司，持股比例29.4118%"
+    },
+    {
+      "name": "杭州宏达君合资产管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "嘉兴迪鑫的管理合伙人，公司关联方",
+      "quote": "宏达君合 指 杭州宏达君合资产管理有限公司，嘉兴迪鑫的管理合伙人，公司关联方"
+    },
+    {
+      "name": "宝马",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为宝马...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "奔驰",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为...奔驰...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "奥迪",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为...奥迪...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为...比亚迪...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "大众",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为...大众...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "通用",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为...通用...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "长城",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为...长城...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "吉利",
+      "relation_type": "customer",
+      "business_details": "为其配套车用内饰面料进行批量化生产",
+      "quote": "公司目前已为...吉利...等中高端品牌配套的车用内饰面料进行批量化生产。"
+    },
+    {
+      "name": "迈瑞医疗",
+      "relation_type": "competitor",
+      "business_details": "国内行业龙头企业，在超声设备领域竞争",
+      "quote": "国内行业龙头企业持续加大研发投入...迈瑞医疗、开立生物等厂商推出的智能超声系统..."
+    },
+    {
+      "name": "开立生物",
+      "relation_type": "competitor",
+      "business_details": "国内行业龙头企业，在超声设备领域竞争",
+      "quote": "国内行业龙头企业持续加大研发投入...迈瑞医疗、开立生物等厂商推出的智能超声系统..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "面料织造",
+      "segment_type": "product_line",
+      "revenue_amount": "398,124,782.97元",
+      "revenue_proportion": "80.64%",
+      "gross_margin": "32.61%",
+      "yoy_change": "-10.96%",
+      "quote": "面料织造 398,124,782.97 80.64% ... 32.61% -10.96%"
+    },
+    {
+      "name": "染整和家纺",
+      "segment_type": "product_line",
+      "revenue_amount": "2,251,005.50元",
+      "revenue_proportion": "0.46%",
+      "gross_margin": "33.85%",
+      "yoy_change": "10.13%",
+      "quote": "染整和家纺 2,251,005.50 0.46% ... 33.85% 10.13%"
+    },
+    {
+      "name": "医疗器械",
+      "segment_type": "product_line",
+      "revenue_amount": "52,646,956.51元",
+      "revenue_proportion": "10.66%",
+      "gross_margin": "52.62%",
+      "yoy_change": "-16.17%",
+      "quote": "医疗器械 52,646,956.51 10.66% ... 52.62% -16.17%"
+    },
+    {
+      "name": "贸易",
+      "segment_type": "product_line",
+      "revenue_amount": "30,225,128.39元",
+      "revenue_proportion": "6.12%",
+      "gross_margin": "9.52%",
+      "yoy_change": "-68.15%",
+      "quote": "贸易 30,225,128.39 6.12% ... 9.52% -68.15%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "10,458,732.54元",
+      "revenue_proportion": "2.12%",
+      "gross_margin": "60.46%",
+      "yoy_change": "-8.46%",
+      "quote": "其他 10,458,732.54 2.12% ... 60.46% -8.46%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "356,523,587.54元",
+      "revenue_proportion": "72.21%",
+      "gross_margin": "37.12%",
+      "yoy_change": "-11.19%",
+      "quote": "国内 356,523,587.54 72.21% ... 37.12% -11.19%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "137,183,018.37元",
+      "revenue_proportion": "27.79%",
+      "gross_margin": "25.64%",
+      "yoy_change": "-36.73%",
+      "quote": "国外 137,183,018.37 27.79% ... 25.64% -36.73%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "交运面料",
+      "metric_type": "sales_volume",
+      "value": "571.90万米",
+      "period": "2025年",
+      "quote": "销售量 万米 571.90"
+    },
+    {
+      "product": "交运面料",
+      "metric_type": "production_volume",
+      "value": "596.66万米",
+      "period": "2025年",
+      "quote": "生产量 万米 596.66"
+    },
+    {
+      "product": "交运面料",
+      "metric_type": "inventory_volume",
+      "value": "138.12万米",
+      "period": "2025年",
+      "quote": "库存量 万米 138.12"
+    },
+    {
+      "product": "服饰面料",
+      "metric_type": "sales_volume",
+      "value": "4,640.63吨",
+      "period": "2025年",
+      "quote": "销售量 吨 4,640.63"
+    },
+    {
+      "product": "服饰面料",
+      "metric_type": "production_volume",
+      "value": "4,602.08吨",
+      "period": "2025年",
+      "quote": "生产量 吨 4,602.08"
+    },
+    {
+      "product": "服饰面料",
+      "metric_type": "inventory_volume",
+      "value": "557.90吨",
+      "period": "2025年",
+      "quote": "库存量 吨 557.90"
+    },
+    {
+      "product": "染整和家纺",
+      "metric_type": "sales_volume",
+      "value": "63.00吨",
+      "period": "2025年",
+      "quote": "染整和家纺 销售量 吨 63.00"
+    },
+    {
+      "product": "染整和家纺",
+      "metric_type": "production_volume",
+      "value": "59.76吨",
+      "period": "2025年",
+      "quote": "生产量 吨 59.76"
+    },
+    {
+      "product": "染整和家纺",
+      "metric_type": "inventory_volume",
+      "value": "10.08吨",
+      "period": "2025年",
+      "quote": "库存量 吨 10.08"
+    },
+    {
+      "product": "医疗器械",
+      "metric_type": "sales_volume",
+      "value": "7,371台",
+      "period": "2025年",
+      "quote": "医疗器械 销售量 台 7,371"
+    },
+    {
+      "product": "医疗器械",
+      "metric_type": "production_volume",
+      "value": "7,254台",
+      "period": "2025年",
+      "quote": "生产量 台 7,254"
+    },
+    {
+      "product": "医疗器械",
+      "metric_type": "inventory_volume",
+      "value": "1,437台",
+      "period": "2025年",
+      "quote": "库存量 台 1,437"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "8000吨",
+      "period": "2025年",
+      "quote": "总产能 8000吨"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity_utilization",
+      "value": "77.00%",
+      "period": "2025年",
+      "quote": "产能利用率 77.00%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "产业化升级项目（包含零地技改和新建高端功能性面料和碳纤维复合材料智能工厂及商业一体化项目）",
+      "project_type": "capacity_expansion",
+      "location": "浙江省海宁市许村镇",
+      "investment_amount": "20亿元（其中固定资产投资不低于15亿元）",
+      "designed_capacity": null,
+      "progress": "2025年3月30日举行集中开工仪式。报告期内项目已顺利完成土地平整、设计规划，正在加速推进设备采购与厂房建设。",
+      "expected_completion_time": "力争项目早日落地达产",
+      "quote": "拟由公司以自有资金及自筹资金20亿元实施...征地新建项目总用地面积89.58亩...报告期内，项目已顺利完成土地平整、设计规划，正在加速推进设备采购与厂房建设..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超声诊断和超声治疗相关专利",
+      "asset_type": "patent",
+      "related_product": "医疗器械（威尔德）",
+      "quantitative_info": "累计取得一百二十余项",
+      "quote": "截至2025年底，威尔德已累计取得有超声诊断和超声治疗相关专利一百二十余项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": "医疗器械（威尔德）",
+      "quantitative_info": "九十余项",
+      "quote": "软件著作权九十余项"
+    },
+    {
+      "name": "“W+”超声影像平台",
+      "asset_type": "technical_platform",
+      "related_product": "医疗器械（浙江威尔德）",
+      "quantitative_info": null,
+      "quote": "依托多年自主核心技术沉淀研发出的“W+”超声影像平台及其系列超声产品"
+    },
+    {
+      "name": "“动态实时AI技术”",
+      "asset_type": "core_technology",
+      "related_product": "医疗器械（浙江威尔德）",
+      "quantitative_info": null,
+      "quote": "深入开发创新且领先的“动态实时AI技术”"
+    },
+    {
+      "name": "高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "证书编号：GR202333004359（宏达高科），GR202444200209（威尔德）",
+      "quote": "本公司于 2023 年 12 月 8 日通过高新技术企业的重新认定，取得《高新技术企业证书》（证书编号：GR202333004359）...子公司深圳市威尔德医疗电子有限公司于2024年12月26日通过高新技术企业重新认定，取得《高新技术企业证书》（证书编号：GR202444200209）"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "36.12%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 36.12%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "27.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 27.01%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "16.14%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "1 客户1 79,687,873.70 16.14%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.75%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "1 供应商1 23,596,449.90 6.75%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司核心业务为面料织造与医疗器械，受全球经济周期性波动及美伊战争引发的油价上涨影响，2026年全球汽车产业增速放缓，我国汽车生产与消费仍面临不确定性，直接影响公司汽车内饰面料产品销售；同时，国家及社会对纺织行业环保要求持续提升...医疗器械业务方面...市场竞争持续加剧：一方面，跨国企业凭借雄厚研发实力与全系列产品优势，仍主导中高端超声诊断市场，且逐步下沉基层市场，进一步挤压国内企业生存空间；另一方面，国内超声设备生产企业纷纷扩产，行业同质化竞争加剧，同时国产替代向高端领域推进，行业竞争门槛持续提升，公司医疗器械业务面临较大竞争压力。",
+      "related_entity": null,
+      "related_product": "面料织造、医疗器械",
+      "quote": "1、市场竞争风险。公司核心业务为面料织造与医疗器械...直接影响公司汽车内饰面料产品销售...公司医疗器械业务面临较大竞争压力。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "面料织造业务主要原材料为锦纶丝、涤纶丝、低弹丝等原料丝及各类染料助剂，2026年以来，受美伊战争持续升级影响...带动染料关键中间体、分散染料及各类化纤原料价格大幅飙升...原材料价格波动幅度进一步加大，不确定性显著提升。若原材料价格持续上涨或剧烈波动，将直接大幅增加公司生产成本，若无法有效将成本压力传导至下游，将对公司生产经营及盈利水平产生显著不利影响。",
+      "related_entity": null,
+      "related_product": "面料织造",
+      "quote": "2、原材料价格波动风险。面料织造业务主要原材料为锦纶丝、涤纶丝、低弹丝等原料丝及各类染料助剂...将对公司生产经营及盈利水平产生显著不利影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "2026年逆全球化思潮仍未消退，以美国为代表的主要发达国家仍可能通过加征关税、设置技术贸易壁垒、动用贸易救济措施等方式限制进口，中美贸易高税率环境仍将持续；同时美伊战争持续升级，不仅导致国际油价暴涨、化工原材料价格波动，还加剧了全球地缘政治动荡，影响全球供应链稳定，国际贸易环境不确定性显著增加...全球贸易格局调整、贸易壁垒升级及地缘冲突带来的供应链扰动，将间接影响公司上下游产业协同及长期发展...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、国际市场风险。2026年逆全球化思潮仍未消退...中美贸易高税率环境仍将持续...全球贸易格局调整、贸易壁垒升级及地缘冲突带来的供应链扰动，将间接影响公司上下游产业协同及长期发展..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "医疗器械行业属于技术密集型行业...核心技术是公司核心竞争力的关键支撑。尽管公司已建立严密的技术保密制度，与相关人员签订保密协议，但2026年行业人才竞争加剧，核心技术人员流失风险有所上升，若出现核心技术人员流失、技术引进不当或其他不可预见因素，可能导致公司核心保密技术泄露，影响公司技术优势与市场竞争力。",
+      "related_entity": null,
+      "related_product": "医疗器械",
+      "quote": "4、技术失密风险。医疗器械行业属于技术密集型行业...影响公司技术优势与市场竞争力。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司流动资产中持有一定比例存货，2026年行业竞争加剧、产品迭代速度加快...若在存货周转期内出现产品价格下跌、市场滞销，或原材料价格大幅回落导致存货减值，将面临存货跌价风险；...应收账款可能随之增加...可能导致应收账款难以收回，产生坏账风险，影响公司现金流稳定与盈利质量；同时，原材料价格上涨带来的成本压力，也可能导致公司现金流紧张，加剧财务风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、财务风险。公司流动资产中持有一定比例存货...影响公司现金流稳定与盈利质量...加剧财务风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司目前已形成医疗器械、面料织造双主业格局，同时涉足贸易、染整加工等业务...公司业务范围不断拓展、规模持续扩张，涉及行业日益增多。这将进一步增加公司经营决策与风险控制的难度...若管理体系未能及时适配公司发展规模及应对突发市场变化，可能出现经营管理效率下降、风险管控不到位等问题，进而影响公司稳健运营。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、经营管理风险。公司目前已形成医疗器械、面料织造双主业格局...进而影响公司稳健运营。"
+    }
+  ]
+}

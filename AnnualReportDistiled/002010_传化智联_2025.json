@@ -1,0 +1,684 @@
+{
+  "company_name_mentioned": "传化智联股份有限公司",
+  "produces": [
+    {
+      "name": "纺织印染助剂",
+      "type": "material",
+      "revenue_proportion": "占营业收入比重29.53%",
+      "quote": "纺织印染助剂 7,407,103,718.25 29.53%"
+    },
+    {
+      "name": "顺丁橡胶",
+      "type": "material",
+      "revenue_proportion": "占营业收入比重12.21%",
+      "quote": "顺丁橡胶 3,062,632,478.80 12.21%"
+    },
+    {
+      "name": "网络货运平台业务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重46.50%",
+      "quote": "网络货运平台业务 11,663,580,421.95 46.50%"
+    },
+    {
+      "name": "智能公路港业务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重4.74%",
+      "quote": "智能公路港业务 1,188,067,391.91 4.74%"
+    },
+    {
+      "name": "物流供应链业务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重2.10%",
+      "quote": "物流供应链业务 526,959,183.00 2.10%"
+    },
+    {
+      "name": "涂料及建筑化学品",
+      "type": "material",
+      "revenue_proportion": "占营业收入比重3.34%",
+      "quote": "涂料及建筑化学品 838,295,087.64 3.34%"
+    },
+    {
+      "name": "功能化学品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司功能化学品业务以表界面技术为核心发展逻辑...涵盖纺织与纤维化学品核心业务，以及功能聚合物、汽车与电子化学品等培育孵化业务"
+    },
+    {
+      "name": "化工新材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司高规格设立新材料事业部，构建以合成橡胶为核心支柱，树脂材料、色彩材料协同发力的三大高端化工新材料业务体系"
+    },
+    {
+      "name": "纺织和纤维化学品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "纺织和纤维化学品核心业务：作为公司核心优势板块...印染助剂已构建覆盖纺织全产业链的产品体系"
+    },
+    {
+      "name": "纤维化学品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "纤维化学品广泛应用于纤维生产与加工全流程，通过赋予纤维抗静电、润滑、柔软等功能特性，满足后道纺织加工及终端产品使用需求。"
+    },
+    {
+      "name": "水性聚氨酯分散体",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "水性聚氨酯分散体深度契合‘油改水’环保升级方向，应用从纺织贴合胶黏剂成功拓展到高端运动鞋材、汽车内饰和汽车车身涂装等多元场景，打破国际公司技术垄断，成功实现进口替代。"
+    },
+    {
+      "name": "稀土顺丁橡胶",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "稀土顺丁橡胶作为事业部核心战略产品，凭借超高顺式结构，具备高弹性、低生热、超耐磨、耐极低温等国际一流性能，是新能源汽车轮胎、高性能绿色轮胎、节能轮胎的首选核心原料"
+    },
+    {
+      "name": "聚酯树脂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "树脂材料：公司聚焦粉末涂料用聚酯树脂、丙烯酸树脂等高端成膜材料"
+    },
+    {
+      "name": "高性能有机颜料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "色彩材料：公司以高性能有机颜料为核心，精准布局化纤纺丝、高端塑料、工业油墨、特种涂料四大高附加值赛道。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": "占营业成本比重36.63%",
+      "quote": "原材料 7,809,209,042.04 36.63%"
+    },
+    {
+      "name": "运输成本",
+      "target_product": null,
+      "cost_proportion": "占营业成本比重55.06%",
+      "quote": "运输成本 11,739,677,031.33 55.06%"
+    },
+    {
+      "name": "人工工资",
+      "target_product": null,
+      "cost_proportion": "占营业成本比重1.25%",
+      "quote": "人工工资 265,830,884.76 1.25%"
+    },
+    {
+      "name": "折旧",
+      "target_product": null,
+      "cost_proportion": "占营业成本比重0.67%",
+      "quote": "折旧 142,088,405.68 0.67%"
+    },
+    {
+      "name": "能源",
+      "target_product": null,
+      "cost_proportion": "占营业成本比重1.52%",
+      "quote": "能源 323,752,809.07 1.52%"
+    },
+    {
+      "name": "租赁成本",
+      "target_product": null,
+      "cost_proportion": "占营业成本比重0.50%",
+      "quote": "租赁成本 106,460,318.11 0.50%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "服装、汽车、电子、医疗",
+      "source_product": "功能化学品",
+      "quote": "面向服装、汽车、电子、医疗等多个领域，提供定制化、一体化解决方案"
+    },
+    {
+      "name": "高性能轮胎、新能源汽车配件、高端鞋材",
+      "source_product": "稀土顺丁橡胶",
+      "quote": "产品广泛应用于高性能轮胎、新能源汽车配件、高端鞋材、特种减震、医疗制品等关键领域"
+    },
+    {
+      "name": "家电、汽车、一般工业及建筑建材",
+      "source_product": "聚酯树脂",
+      "quote": "深度服务家电、汽车、一般工业及建筑建材领域"
+    },
+    {
+      "name": "化纤纺丝、高端塑料、工业油墨、特种涂料",
+      "source_product": "高性能有机颜料",
+      "quote": "精准布局化纤纺丝、高端塑料、工业油墨、特种涂料四大高附加值赛道"
+    },
+    {
+      "name": "新能源、化工、快消、科技",
+      "source_product": "物流业务",
+      "quote": "物流服务业务聚焦新能源、化工、快消、科技等重点行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周家海",
+      "role": "董事长、董事",
+      "quote": "公司负责人周家海、主管会计工作负责人周升学及会计机构负责人（会计主管人员）徐永鑫声明"
+    },
+    {
+      "name": "周升学",
+      "role": "董事、总经理",
+      "quote": "主管会计工作负责人周升学"
+    },
+    {
+      "name": "徐永鑫",
+      "role": "财务总监",
+      "quote": "会计机构负责人（会计主管人员）徐永鑫"
+    },
+    {
+      "name": "朱江英",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事会秘书 朱江英"
+    },
+    {
+      "name": "屈亚平",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理 屈亚平"
+    },
+    {
+      "name": "傅幼林",
+      "role": "职工董事",
+      "quote": "傅幼林 职工董事"
+    },
+    {
+      "name": "徐炎",
+      "role": "副总经理",
+      "quote": "徐炎 副总经理"
+    },
+    {
+      "name": "王胜鹏",
+      "role": "副总经理",
+      "quote": "王胜鹏 副总经理"
+    },
+    {
+      "name": "徐冠巨",
+      "role": "实际控制人",
+      "quote": "徐氏父子 指 徐传化、徐冠巨、徐观宝三人"
+    },
+    {
+      "name": "徐观宝",
+      "role": "实际控制人",
+      "quote": "徐氏父子 指 徐传化、徐冠巨、徐观宝三人"
+    },
+    {
+      "name": "徐传化",
+      "role": "实际控制人",
+      "quote": "徐氏父子 指 徐传化、徐冠巨、徐观宝三人"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "传化集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、传化集团 指 传化集团有限公司"
+    },
+    {
+      "name": "传化物流集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，经营物流业务",
+      "quote": "传化物流 指 传化物流集团有限公司"
+    },
+    {
+      "name": "浙江传化合成材料股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，经营顺丁橡胶等合成新材料的生产及销售",
+      "quote": "浙江传化合成材料股份有限公司...子公司...主要业务：经营顺丁橡胶等合成新材料的生产及销售"
+    },
+    {
+      "name": "浙江传化华洋化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "浙江传化华洋化工有限公司总经理"
+    },
+    {
+      "name": "浙江新安化工集团股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "控股股东传化集团控股的另一家上市公司",
+      "quote": "公司控股股东传化集团同时为上市公司浙江新安化工集团股份有限公司的控股股东。"
+    },
+    {
+      "name": "江苏锦鸡实业股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，公司为其第二大股东",
+      "quote": "江苏锦鸡实业股份有限公司（以下简称“锦鸡股份”）系本公司的参股公司。2022年11月21日...锦鸡股份处于无实际控制人状态。鉴于公司为其第二大股东"
+    },
+    {
+      "name": "重庆蚂蚁消费金融有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司",
+      "quote": "重庆蚂蚁消费金融有限公司 参股公司 消费金融"
+    },
+    {
+      "name": "马来西亚国家石油公司",
+      "relation_type": "supplier",
+      "business_details": "签署战略合作框架协议，推动边佳兰橡胶项目",
+      "quote": "与马来西亚国家石油公司签署战略合作框架协议，推动边佳兰橡胶项目"
+    },
+    {
+      "name": "宁德时代",
+      "relation_type": "customer",
+      "business_details": "物流业务头部客户，沉淀新能源行业解决方案",
+      "quote": "围绕宁德时代、特来电、中石化等头部客户沉淀行业解决方案"
+    },
+    {
+      "name": "特来电",
+      "relation_type": "customer",
+      "business_details": "物流业务头部客户",
+      "quote": "围绕宁德时代、特来电、中石化等头部客户沉淀行业解决方案"
+    },
+    {
+      "name": "中石化",
+      "relation_type": "customer",
+      "business_details": "物流业务头部客户",
+      "quote": "围绕宁德时代、特来电、中石化等头部客户沉淀行业解决方案"
+    },
+    {
+      "name": "宁德时代骐骥",
+      "relation_type": "partner",
+      "business_details": "联合构建重卡充换电场景",
+      "quote": "联合宁德时代骐骥、中石化、国家电网构建重卡充换电场景"
+    },
+    {
+      "name": "蚂蚁科技",
+      "relation_type": "partner",
+      "business_details": "联合探索具身智能场景开发",
+      "quote": "联合蚂蚁科技、宇树科技、智元机器人等头部企业共同探索具身智能场景开发。"
+    },
+    {
+      "name": "宇树科技",
+      "relation_type": "partner",
+      "business_details": "联合探索具身智能场景开发",
+      "quote": "联合蚂蚁科技、宇树科技、智元机器人等头部企业共同探索具身智能场景开发。"
+    },
+    {
+      "name": "智元机器人",
+      "relation_type": "partner",
+      "business_details": "联合探索具身智能场景开发",
+      "quote": "联合蚂蚁科技、宇树科技、智元机器人等头部企业共同探索具身智能场景开发。"
+    },
+    {
+      "name": "国家电网",
+      "relation_type": "partner",
+      "business_details": "联合构建重卡充换电场景",
+      "quote": "联合宁德时代骐骥、中石化、国家电网构建重卡充换电场景"
+    },
+    {
+      "name": "武汉纺织大学",
+      "relation_type": "partner",
+      "business_details": "共建联合研发中心",
+      "quote": "与武汉纺织大学共建联合研发中心"
+    },
+    {
+      "name": "浙江大学",
+      "relation_type": "partner",
+      "business_details": "深化产学研合作",
+      "quote": "深化与浙江大学、中科院等高校院所的产学研合作"
+    },
+    {
+      "name": "中科院",
+      "relation_type": "partner",
+      "business_details": "深化产学研合作",
+      "quote": "深化与浙江大学、中科院等高校院所的产学研合作"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化学业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "113.08亿元",
+      "revenue_proportion": "占营业收入比重45.08%",
+      "gross_margin": "毛利率21.22%",
+      "yoy_change": "营业收入同比增长5.64%",
+      "quote": "2025年实现营业收入113.08亿元，同比增长5.64%。"
+    },
+    {
+      "name": "物流业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "137.76亿元",
+      "revenue_proportion": "占营业收入比重54.92%",
+      "gross_margin": "毛利率9.89%",
+      "yoy_change": "营业收入同比下降13.87%",
+      "quote": "物流 13,776,436,744.03 54.92%"
+    },
+    {
+      "name": "纺织印染助剂",
+      "segment_type": "product_line",
+      "revenue_amount": "7,407,103,718.25元",
+      "revenue_proportion": "占营业收入比重29.53%",
+      "gross_margin": "毛利率26.27%",
+      "yoy_change": "营业收入同比增长4.79%",
+      "quote": "纺织印染助剂 7,407,103,718.25 29.53%"
+    },
+    {
+      "name": "顺丁橡胶",
+      "segment_type": "product_line",
+      "revenue_amount": "3,062,632,478.80元",
+      "revenue_proportion": "占营业收入比重12.21%",
+      "gross_margin": "毛利率11.10%",
+      "yoy_change": "营业收入同比增长20.20%",
+      "quote": "顺丁橡胶 3,062,632,478.80 12.21%"
+    },
+    {
+      "name": "网络货运平台业务",
+      "segment_type": "product_line",
+      "revenue_amount": "11,663,580,421.95元",
+      "revenue_proportion": "占营业收入比重46.50%",
+      "gross_margin": "毛利率2.37%",
+      "yoy_change": "营业收入同比下降12.67%",
+      "quote": "网络货运平台业务 11,663,580,421.95 46.50%"
+    },
+    {
+      "name": "智能公路港业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,188,067,391.91元",
+      "revenue_proportion": "占营业收入比重4.74%",
+      "gross_margin": "毛利率80.86%",
+      "yoy_change": "营业收入同比下降2.12%",
+      "quote": "智能公路港业务 1,188,067,391.91 4.74%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "15,808,031,671.90元",
+      "revenue_proportion": "占营业收入比重63.02%",
+      "gross_margin": "毛利率16.40%",
+      "yoy_change": "营业收入同比下降3.44%",
+      "quote": "华东 15,808,031,671.90 63.02%"
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "6,810,849,092.50元",
+      "revenue_proportion": "占营业收入比重27.15%",
+      "gross_margin": "毛利率12.69%",
+      "yoy_change": "营业收入同比下降7.17%",
+      "quote": "其他 6,810,849,092.50 27.15%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "稀土顺丁橡胶",
+      "metric_type": "sales_volume",
+      "value": "实现销量6.2万吨，同比增长28%",
+      "period": "2025年",
+      "quote": "稀土顺丁橡胶实现销量6.2万吨，同比增长28%"
+    },
+    {
+      "product": "橡胶战略客户",
+      "metric_type": "sales_volume",
+      "value": "销量12.9万吨，同比增长16%",
+      "period": "2025年",
+      "quote": "橡胶战略客户销量12.9万吨，同比增长16%"
+    },
+    {
+      "product": "橡胶业务海外",
+      "metric_type": "sales_volume",
+      "value": "实现海外销量11.84万吨，同比增长69%",
+      "period": "2025年",
+      "quote": "全年实现海外销量11.84万吨，同比增长69%"
+    },
+    {
+      "product": "聚酯树脂新产品",
+      "metric_type": "sales_volume",
+      "value": "实现销量1.6万吨，同比增长24%",
+      "period": "2025年",
+      "quote": "新产品实现销量1.6万吨，同比增长24%"
+    },
+    {
+      "product": "聚酯树脂战略客户",
+      "metric_type": "sales_volume",
+      "value": "销量超7000吨，同比增长41%",
+      "period": "2025年",
+      "quote": "战略客户销量超7000吨，同比增长41%"
+    },
+    {
+      "product": "聚酯树脂海外",
+      "metric_type": "sales_volume",
+      "value": "实现海外销量近6000吨，同比增长35%",
+      "period": "2025年",
+      "quote": "实现海外销量近6000吨，同比增长35%"
+    },
+    {
+      "product": "合成橡胶",
+      "metric_type": "capacity",
+      "value": "27万吨级柔性联产装置",
+      "period": null,
+      "quote": "建成27万吨级柔性联产装置"
+    },
+    {
+      "product": "物流仓储",
+      "metric_type": "capacity",
+      "value": "自持物业面积超600万平方米，其中仓储面积达392万平方米",
+      "period": "报告期末",
+      "quote": "公路港自持物业面积超600万平方米，其中仓储面积达392万平方米"
+    },
+    {
+      "product": "物流仓储运营",
+      "metric_type": "other",
+      "value": "累计运营仓储面积36.4万平方米",
+      "period": "报告期末",
+      "quote": "截至报告期末，累计运营仓储面积36.4万平方米"
+    },
+    {
+      "product": "公路港",
+      "metric_type": "other",
+      "value": "全国布局公路港项目70个，占地面积达1354.88万平方米",
+      "period": "报告期末",
+      "quote": "目前已在全国21个省市自治区布局公路港项目70个，占地面积达1354.88万平方米"
+    },
+    {
+      "product": "公路港经营",
+      "metric_type": "other",
+      "value": "经营面积602.48万平方米，出租率87.1%",
+      "period": "报告期末",
+      "quote": "经营面积602.48平方米，出租率87.1%"
+    },
+    {
+      "product": "公路港运营",
+      "metric_type": "other",
+      "value": "累计入驻企业8964家",
+      "period": "报告期末",
+      "quote": "截至报告期末，累计入驻企业8964家"
+    },
+    {
+      "product": "光伏电站",
+      "metric_type": "capacity",
+      "value": "累计运营光伏电站14座，总装机量突破20兆瓦",
+      "period": "报告期末",
+      "quote": "累计运营光伏电站14座，总装机量突破20兆瓦"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "华南基地",
+      "project_type": "capacity_expansion",
+      "location": "华南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全面开工",
+      "expected_completion_time": null,
+      "quote": "华南基地全面开工"
+    },
+    {
+      "name": "泰国一期扩产项目",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进入试运营",
+      "expected_completion_time": null,
+      "quote": "泰国一期扩产进入试运营"
+    },
+    {
+      "name": "边佳兰橡胶项目",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "签署战略合作框架协议",
+      "expected_completion_time": null,
+      "quote": "与马来西亚国家石油公司签署战略合作框架协议，推动边佳兰橡胶项目"
+    },
+    {
+      "name": "重卡充换电站",
+      "project_type": "capacity_expansion",
+      "location": "全国公路港",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "重卡充电站落地10港，换电站签约15港",
+      "expected_completion_time": null,
+      "quote": "重卡充电站落地10港，换电站签约15港"
+    },
+    {
+      "name": "传化合成材料股份有限公司少数股东股权收购",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "26,021.1万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": "2025年1月11日",
+      "quote": "收购传化科创基金持有的浙江传化合成材料股份有限公司（以下简称“传化合成”）股权...转让价格为加每年单利5%的收益率计算...已完成"
+    },
+    {
+      "name": "传化支付有限公司股权出售",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "31,500万元（交易价格）",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "出售传化支付有限公司股权和青岛传化物流基地有限公司股权确认相关投资收益"
+    },
+    {
+      "name": "青岛传化物流基地有限公司股权出售",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "50,952.94万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "出售...青岛传化物流基地有限公司股权...交易金额为50,952.94万元人民币。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "稀土顺丁橡胶生产技术",
+      "asset_type": "core_technology",
+      "related_product": "稀土顺丁橡胶",
+      "quantitative_info": "成功攻克稀土橡胶多项‘卡脖子’技术，在国内首创镍系与稀土顺丁橡胶柔性连续制备工艺",
+      "quote": "公司成功攻克稀土橡胶多项‘卡脖子’技术，在国内首创镍系与稀土顺丁橡胶柔性连续制备工艺"
+    },
+    {
+      "name": "水性聚氨酯分散体技术",
+      "asset_type": "core_technology",
+      "related_product": "水性聚氨酯分散体",
+      "quantitative_info": "打破国际公司技术垄断，成功实现进口替代",
+      "quote": "水性聚氨酯分散体...打破国际公司技术垄断，成功实现进口替代。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年授权国家发明专利21件",
+      "quote": "全年授权国家发明专利21件"
+    },
+    {
+      "name": "国家级高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "新增国家高新技术企业及专精特新‘小巨人’各1家",
+      "quote": "新增国家高新技术企业及专精特新‘小巨人’各1家"
+    },
+    {
+      "name": "专精特新‘小巨人’企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "新增国家高新技术企业及专精特新‘小巨人’各1家"
+    },
+    {
+      "name": "省级科技奖项",
+      "asset_type": "certification",
+      "related_product": "稀土橡胶等",
+      "quantitative_info": "获省部级科技奖2项",
+      "quote": "获省部级科技奖2项"
+    },
+    {
+      "name": "Bluesign、GOTS等国际权威认证",
+      "asset_type": "certification",
+      "related_product": "产品",
+      "quantitative_info": "167只获得Bluesign、GOTS等国际权威认证",
+      "quote": "167只获得Bluesign、GOTS等国际权威认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "前五名客户合计销售金额1,684,622,965.27元，占年度销售总额比例6.72%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,684,622,965.27 前五名客户合计销售金额占年度销售总额比例 6.72%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "前五名供应商合计采购金额2,332,275,233.37元，占年度采购总额比例11.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,332,275,233.37 前五名供应商合计采购金额占年度采购总额比例 11.38%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 6.72%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "供应商集中度较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 11.38%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "全球经济复苏仍具不确定性，地缘政治冲突、战争及贸易保护主义等因素对产业链供应链带来挑战，引起原材料价格波动，导致生产成本提高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2）市场风险 全球经济复苏仍具不确定性，地缘政治冲突、战争及贸易保护主义等因素对产业链供应链带来挑战，引起原材料价格波动，导致生产成本提高。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司属化工行业，生产经营过程中若管理控制不当或遭遇不可抗力，可能存在安全环保相关风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1）安全环保风险 公司属化工行业，生产经营过程中若管理控制不当或遭遇不可抗力，可能存在安全环保相关风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济增速放缓或处于下行周期时，制造业产出与消费市场需求双重萎缩，直接导致社会物流总额增速放缓。",
+      "related_entity": null,
+      "related_product": "物流业务",
+      "quote": "1）宏观经济波动的风险 物流行业是连接生产与消费的纽带...当经济增速放缓或处于下行周期时，制造业产出与消费市场需求双重萎缩，直接导致社会物流总额增速放缓。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "物流仓储市场竞争加剧。全国物流仓储基础设施投资稳步增长，新建仓储设施投入市场，造成市场供给过剩加剧；经济增速放缓、市场需求尚未显著改善，整体物流市场承租压力持续。",
+      "related_entity": null,
+      "related_product": "物流业务",
+      "quote": "2）物流仓储市场竞争加剧的挑战 从供给侧看，过去几年全国物流仓储基础设施投资呈现稳步增长的态势，随着新建仓储设施陆续投入市场，造成市场供给过剩加剧；从需求侧看，经济增速放缓、市场需求尚未显著改善，整体物流市场承租压力持续。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司资产减值损失主要系坏账损失，金额为-492,189,936.63元。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值 -492,189,936.63 主要系坏账损失"
+    }
+  ]
+}

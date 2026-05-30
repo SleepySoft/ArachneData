@@ -1,0 +1,380 @@
+{
+  "company_name_mentioned": "烟台中宠食品股份有限公司",
+  "produces": [
+    {
+      "name": "宠物食品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司以宠物食品的研发、生产和销售为主要业务"
+    },
+    {
+      "name": "宠物零食",
+      "type": "material",
+      "revenue_proportion": "64.76%",
+      "quote": "分产品...宠物零食 3,381,252,084.20 64.76%"
+    },
+    {
+      "name": "宠物主粮",
+      "type": "material",
+      "revenue_proportion": "29.75%",
+      "quote": "分产品...宠物主粮 1,553,396,218.54 29.75%"
+    },
+    {
+      "name": "宠物用品及其他",
+      "type": "material",
+      "revenue_proportion": "5.49%",
+      "quote": "分产品...宠物用品及其他 286,821,541.09 5.49%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "鸡肉",
+      "target_product": "宠物食品",
+      "cost_proportion": null,
+      "quote": "原料主要为各种肉类，其中以鸡胸肉、鸭胸肉为主。"
+    },
+    {
+      "name": "鸭肉",
+      "target_product": "宠物食品",
+      "cost_proportion": null,
+      "quote": "原料主要为各种肉类，其中以鸡胸肉、鸭胸肉为主。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "宠物（犬、猫等）",
+      "source_product": "宠物食品",
+      "quote": "产品覆盖犬用及猫用宠物食品主粮、零食等品类。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郝忠礼",
+      "role": "董事长、总裁、实际控制人",
+      "quote": "公司负责人郝忠礼...中宠股份创始人"
+    },
+    {
+      "name": "伊藤范和",
+      "role": "副董事长",
+      "quote": "副董事长...日本伊藤株式会社...本公司股东"
+    },
+    {
+      "name": "江移山",
+      "role": "董事、常务副总裁",
+      "quote": "董事、常务副...总裁"
+    },
+    {
+      "name": "董海风",
+      "role": "职工代表董事、副总裁",
+      "quote": "职工代...表董事...副总裁"
+    },
+    {
+      "name": "张蕴暖",
+      "role": "董事、副总裁",
+      "quote": "董事、副总裁"
+    },
+    {
+      "name": "郝宸龙",
+      "role": "董事",
+      "quote": "董事"
+    },
+    {
+      "name": "肖明岩",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人肖明岩"
+    },
+    {
+      "name": "任福照",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...任福照"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "日本伊藤株式会社",
+      "relation_type": "investor",
+      "business_details": "本公司股东",
+      "quote": "日本伊藤 指 日本伊藤株式会社，本公司股东"
+    },
+    {
+      "name": "烟台中幸生物科技有限公司",
+      "relation_type": "investor",
+      "business_details": "本公司控股股东",
+      "quote": "烟台中幸、中幸生物 指 烟台中幸生物科技有限公司，本公司控股股东"
+    },
+    {
+      "name": "烟台和正投资中心（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "本公司股东",
+      "quote": "烟台和正、和正投资 指 烟台和正投资中心（有限合伙），本公司股东"
+    },
+    {
+      "name": "The Natural Pet Treat Company (NPTC)",
+      "relation_type": "subsidiary",
+      "business_details": "新西兰ZEAL真致®品牌持有方",
+      "quote": "公司于 2018 年收购旗下27年发展历史以及拥有新西兰 ZEAL真致品牌的宠物食品公司 -The NaturalPet Treat Company Limited100% 股权"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "宠物食品及用品",
+      "segment_type": "product_line",
+      "revenue_amount": "4,993,271,013.16元",
+      "revenue_proportion": "95.63%",
+      "gross_margin": "30.56%",
+      "yoy_change": "16.33%",
+      "quote": "分行业...宠物食品及用品 4,993,271,013.16 95.63%...毛利率 30.56%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "228,198,830.67元",
+      "revenue_proportion": "4.37%",
+      "gross_margin": null,
+      "yoy_change": "32.36%",
+      "quote": "分行业...其他业务 228,198,830.67 4.37%"
+    },
+    {
+      "name": "宠物零食",
+      "segment_type": "product_line",
+      "revenue_amount": "3,381,252,084.20元",
+      "revenue_proportion": "64.76%",
+      "gross_margin": "29.30%",
+      "yoy_change": "7.94%",
+      "quote": "分产品...宠物零食 3,381,252,084.20 64.76%...毛利率 29.30%"
+    },
+    {
+      "name": "宠物主粮",
+      "segment_type": "product_line",
+      "revenue_amount": "1,553,396,218.54元",
+      "revenue_proportion": "29.75%",
+      "gross_margin": "34.14%",
+      "yoy_change": "40.39%",
+      "quote": "分产品...宠物主粮 1,553,396,218.54 29.75%...毛利率 34.14%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,872,863,205.15元",
+      "revenue_proportion": "35.87%",
+      "gross_margin": "38.83%",
+      "yoy_change": "32.44%",
+      "quote": "分地区...境内 1,872,863,205.15 35.87%...毛利率 38.83%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "3,348,606,638.68元",
+      "revenue_proportion": "64.13%",
+      "gross_margin": "24.34%",
+      "yoy_change": "9.77%",
+      "quote": "分地区...境外 3,348,606,638.68 64.13%...毛利率 24.34%"
+    },
+    {
+      "name": "OEM",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,874,924,748.15元",
+      "revenue_proportion": "55.06%",
+      "gross_margin": "27.71%",
+      "yoy_change": "9.90%",
+      "quote": "分销售模式...OEM 2,874,924,748.15 55.06%...毛利率 27.71%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,265,353,626.43元",
+      "revenue_proportion": "24.23%",
+      "gross_margin": "25.70%",
+      "yoy_change": "5.92%",
+      "quote": "分销售模式...经销 1,265,353,626.43 24.23%...毛利率 25.70%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,081,191,469.25元",
+      "revenue_proportion": "20.71%",
+      "gross_margin": "38.87%",
+      "yoy_change": "65.27%",
+      "quote": "分销售模式...直销 1,081,191,469.25 20.71%...毛利率 38.87%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "宠物食品及用品",
+      "metric_type": "sales_volume",
+      "value": "139,771.14吨",
+      "period": "2025年",
+      "quote": "销售量 吨 139,771.14"
+    },
+    {
+      "product": "宠物食品及用品",
+      "metric_type": "production_volume",
+      "value": "147,466.88吨",
+      "period": "2025年",
+      "quote": "生产量 吨 147,466.88"
+    },
+    {
+      "product": "宠物食品及用品",
+      "metric_type": "inventory_volume",
+      "value": "24,968.23吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 24,968.23"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产6万吨高品质宠物干粮项目",
+      "project_type": "fundraising_project",
+      "location": "烟台市莱山区新兴产业园",
+      "investment_amount": "22,960.71万元",
+      "designed_capacity": "6万吨",
+      "progress": "0.77%",
+      "expected_completion_time": "2027年06月30日",
+      "quote": "年产6万吨高品质宠物干粮项目...承诺投资总额 22,960.71...进度 0.77%...预计完成时间 2027年06月30日"
+    },
+    {
+      "name": "年产4万吨新型宠物湿粮项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "25,552.34万元",
+      "designed_capacity": "4万吨",
+      "progress": "1.06%",
+      "expected_completion_time": "2026年11月30日",
+      "quote": "年产4万吨新型宠物湿粮项目...承诺投资总额 25,552.34...进度 1.06%...预计完成时间 2026年11月30日"
+    },
+    {
+      "name": "年产2000吨冻干宠物食品项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "5,254.86万元",
+      "designed_capacity": "2000吨",
+      "progress": "92.39%",
+      "expected_completion_time": "2022年09月30日",
+      "quote": "年产2000吨冻干宠物食品项目...承诺投资总额 5,254.86...进度 92.39%...预计完成时间 2022年09月30日"
+    },
+    {
+      "name": "平面仓库智能立体化改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "3,636.68万元",
+      "designed_capacity": null,
+      "progress": "75.02%",
+      "expected_completion_time": "2022年11月30日",
+      "quote": "平面仓库智能立体化改造项目...承诺投资总额 3,636.68...进度 75.02%...预计完成时间 2022年11月30日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "19,500万元",
+      "designed_capacity": null,
+      "progress": "100.04%",
+      "expected_completion_time": null,
+      "quote": "补充流动资金...承诺投资总额 19,500...进度 100.04%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得400项国家专利（含 18项发明专利）",
+      "quote": "公司已累计获得400项国家专利（含 18项发明专利）"
+    },
+    {
+      "name": "质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "ISO9001、ISO22000、ISO14001、HACCP、GMP、BRCGS等20项全球权威认证",
+      "quote": "通过ISO9001质量管理体系认证、ISO22000食品安全管理体系认证、ISO14001环境管理体系认证、HACCP危害分析及关键控制点体系验证、GMP良好操作规范体系验证、BRCGS食品安全全球标准认证等20项全球权威认证"
+    },
+    {
+      "name": "全球研发创新服务中心（研发中心3.0）",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "建筑面积超12000平方米",
+      "quote": "研发中心3.0成功落地...建筑面积超12000平方米"
+    },
+    {
+      "name": "宠物营养与健康研究院",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "总面积10000㎡，实验大猫数量300余只",
+      "quote": "宠物营养健康研究院总面积10000㎡...实验大猫数量300余只"
+    },
+    {
+      "name": "CNAS国家认可实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "通过美国 AOAC、FDA 及国标等 67 项检测标准",
+      "quote": "其核心承载的 CNAS 国家认可实验室，已通过美国 AOAC、FDA 及国标等 67 项检测标准"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,203,924,041.69元，占比42.21%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,203,924,041.69...前五名客户合计销售金额占年度销售总额比例 42.21%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "781,702,144.65元，占比26.79%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 781,702,144.65...前五名供应商合计采购金额占年度采购总额比例 26.79%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "803,729,068.43元，占比15.39%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 803,729,068.43 15.39%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "453,644,406.02元，占比15.54%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 453,644,406.02 15.54%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司主营业务收入主要源于境外市场，存在一定的海外市场拓展风险。随着全球经济一体化进程的推进，泰国、越南等新兴经济体也逐渐加入到国际市场竞争中...面临海外市场竞争加剧的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争风险...公司主营业务收入主要源于境外市场，存在一定的海外市场拓展风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "近年来随着居民收入水平的提高，国内宠物食品市场增长较快...公司面临的市场竞争将进一步加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "②近年来随着居民收入水平的提高，国内宠物食品市场增长较快...公司面临的市场竞争将进一步加剧。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "由于公司营业收入中外销占比较大，结算币种主要为美元及部分其他外汇。随着业务规模的扩大，汇率波动可能会产生相应汇兑损失，将对公司及子公司的经营业绩造成一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、汇率波动风险...由于公司营业收入中外销占比较大，结算币种主要为美元及部分其他外汇。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料成本是公司主营业务成本中占比最大的部分，公司的主要原材料为鸡肉、鸭肉等肉类产品。原材料价格波动对公司经营的影响有两方面...公司将面临原材料价格波动风险。",
+      "related_entity": null,
+      "related_product": "宠物食品",
+      "quote": "4、原材料价格波动风险...原材料成本是公司主营业务成本中占比最大的部分，公司的主要原材料为鸡肉、鸭肉等肉类产品。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "近年来，全球经济增长步伐逐渐放缓...特别是今年，美国对中国以及全球众多贸易顺差国大规模加征关税。这一行为极有可能对公司产生一定程度的负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、贸易摩擦引发的风险...近年来，全球经济增长步伐逐渐放缓...特别是今年，美国对中国以及全球众多贸易顺差国大规模加征关税。"
+    }
+  ]
+}

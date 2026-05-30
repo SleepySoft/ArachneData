@@ -1,0 +1,337 @@
+{
+  "company_name_mentioned": "四川升达林业产业股份有限公司",
+  "produces": [
+    {
+      "name": "LNG（液化天然气）",
+      "type": "material",
+      "revenue_proportion": "89.53% (LNG及燃气销售收入占营业收入比重)",
+      "quote": "分产品 LNG及燃气销售 894,942,613.71 89.53%；本报告期内，公司主营业务为天然气液化加工，还涉及城镇燃气运营、加气站运营等业务。"
+    },
+    {
+      "name": "受托加工LNG（液化天然气）",
+      "type": "service",
+      "revenue_proportion": "10.17% (LNG加工费收入占营业收入比重)",
+      "quote": "分产品 LNG加工费 101,652,996.47 10.17%；天然气液化加工业务包括自产自销以及受托加工两种模式。受托加工模式为委托方提供天然气气源，由工厂代为加工成LNG，委托方自行提货。"
+    },
+    {
+      "name": "城镇燃气",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "城镇燃气运营业务。公司从上游供应商购入CNG、LNG等气源，通过天然气支线管道输送和分配给城镇居民、商业、工业等用户；为客户提供能源供应服务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "天然气气源",
+      "target_product": "LNG",
+      "cost_proportion": "80.44% (原材料占营业成本比重)",
+      "quote": "分行业燃气行业 原材料 723,603,631.82 80.44%；自产自销模式为从上游天然气开采企业购买天然气气源后，液化加工成LNG并对外销售。"
+    },
+    {
+      "name": "电力（能源和动力）",
+      "target_product": "LNG",
+      "cost_proportion": "8.97% (能源和动力占营业成本比重)",
+      "quote": "分行业燃气行业 能源和动力 80,655,264.48 8.97%"
+    },
+    {
+      "name": "采购成品LNG",
+      "target_product": "加气站运营、城镇燃气",
+      "cost_proportion": "2.37% (采购成品LNG占营业成本比重)",
+      "quote": "分行业燃气行业 采购成品LNG 21,339,906.38 2.37%；加气站运营业务。公司从上游供应商购入LNG，销售给过往天然气重卡。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "天然气重卡燃料",
+      "source_product": "LNG",
+      "quote": "车用需求明显提升；加气站运营业务。公司从上游供应商购入LNG，销售给过往天然气重卡。"
+    },
+    {
+      "name": "城镇居民、商业、工业用燃气",
+      "source_product": "城镇燃气",
+      "quote": "通过天然气支线管道输送和分配给城镇居民、商业、工业等用户；为客户提供能源供应服务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赖旭日",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人赖旭日、主管会计工作负责人陆洲及会计机构负责人（会计主管人员）唐学勇声明；赖旭日 男 63 董事长 现任"
+    },
+    {
+      "name": "陆洲",
+      "role": "董事、总经理、财务总监",
+      "quote": "主管会计工作负责人陆洲；陆 洲 男 50 董事、总经理、财务总监 现任"
+    },
+    {
+      "name": "杜雪鹏",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事会秘书 杜雪鹏；杜雪鹏 男 39 董事、副总经理、董事会秘书 现任"
+    },
+    {
+      "name": "唐学勇",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）唐学勇声明"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "新奥能源贸易有限公司",
+      "relation_type": "customer",
+      "business_details": "公司第一大客户，销售额占年度销售总额比例27.77%",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 新奥能源贸易有限公司 277,622,423.95 27.77%"
+    },
+    {
+      "name": "陕西中概联石化有限公司",
+      "relation_type": "customer",
+      "business_details": "公司第二大客户，销售额占年度销售总额比例22.22%",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 2 陕西中概联石化有限公司 222,140,045.96 22.22%"
+    },
+    {
+      "name": "中国石油天然气股份有限公司天然气销售陕西分公司",
+      "relation_type": "customer",
+      "business_details": "公司第五大客户，销售额占年度销售总额比例10.54%",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 5 中国石油天然气股份有限公司天然气销售陕西分公司 105,383,381.66 10.54%"
+    },
+    {
+      "name": "中国石油天然气股份有限公司天然气销售陕西分公司",
+      "relation_type": "supplier",
+      "business_details": "公司第一大供应商，采购额占年度采购总额比例80.48%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 中国石油天然气股份有限公司天然气销售陕西分公司 751,517,355.43 80.48%"
+    },
+    {
+      "name": "华宝信托有限责任公司",
+      "relation_type": "investor",
+      "business_details": "公司第一大股东“华宝信托有限责任公司-华宝宝升宏达集合资金信托计划”的管理人，持股比例28.33%；与公司存在债务重组等关联债务往来。",
+      "quote": "公司第一大股东为“华宝信托有限责任公司-华宝宝升宏达集合资金信托计划”；华宝信托 指 华宝信托有限责任公司；华宝信托 第一大股东的受托管理人 债务重组 14,368.95 ... 9,500 ... 8.00% 1,124.48 4,868.95"
+    },
+    {
+      "name": "四川升达林产工业集团有限公司（升达集团）",
+      "relation_type": "competitor",
+      "business_details": "公司原控股股东，涉及多项诉讼及原控股股东违规资金占用。",
+      "quote": "公司诉升达集团、青白江家居、广元升达、温江升达建筑装饰、上海升达林产有限公司、刘东斌、江山等追偿权纠纷；四川升达林产工业集团有限公司 原控股股东违规资金占用 915,290,177.48"
+    },
+    {
+      "name": "宝武装备智能科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司第一大股东管理人的关联公司，为公司提供设备维修服务。",
+      "quote": "第一大股东的受托管理人的关联公司；关联方 宝武装备智能科技有限公司 受托 其他 设备维修"
+    },
+    {
+      "name": "榆林金源天然气有限公司（榆林金源）",
+      "relation_type": "subsidiary",
+      "business_details": "公司主要子公司之一，从事LNG生产及销售。",
+      "quote": "榆林金源 指 榆林金源天然气有限公司；主要子公司在职员工的数量（人） 220；公司两个工厂所在位置处于西北地区"
+    },
+    {
+      "name": "米脂绿源天然气有限公司（米脂绿源）",
+      "relation_type": "subsidiary",
+      "business_details": "公司主要子公司之一。",
+      "quote": "米脂绿源 指 米脂绿源天然气有限公司；米脂绿源与榆林金源积极投身公益事业"
+    },
+    {
+      "name": "广元升达林业产业有限责任公司（广元升达）",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司。",
+      "quote": "广元升达 指 广元升达林业产业有限责任公司"
+    },
+    {
+      "name": "四川中海天然气有限公司（四川中海）",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，涉及诉讼及股权冻结。",
+      "quote": "四川中海 指 四川中海天然气有限公司；长期股权投资 0.00 0.00 四川中海天然气有限公司"
+    },
+    {
+      "name": "成都市青白江升达家居制品有限公司（青白江家居）",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，涉及诉讼。",
+      "quote": "青白江家居 指 成都市青白江升达家居制品有限公司；公司诉升达集团、青白江家居...追偿权纠纷"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "LNG及燃气销售",
+      "segment_type": "product_line",
+      "revenue_amount": "894,942,613.71",
+      "revenue_proportion": "89.53%",
+      "gross_margin": "6.45%",
+      "yoy_change": "营业收入比上年增减 55.48%；营业成本比上年增减 62.02%；毛利率比上年增减 -3.77%",
+      "quote": "分产品 LNG及燃气销售 894,942,613.71 89.53% 575,596,714.58 78.57% 55.48%；营业收入 营业成本 毛利率 LNG及燃气销售 894,942,613.71 837,260,379.62 6.45% 55.48% 62.02% -3.77%"
+    },
+    {
+      "name": "LNG加工费",
+      "segment_type": "product_line",
+      "revenue_amount": "101,652,996.47",
+      "revenue_proportion": "10.17%",
+      "gross_margin": "39.75%",
+      "yoy_change": "营业收入比上年增减 -30.96%；营业成本比上年增减 -23.59%；毛利率比上年增减 -5.81%",
+      "quote": "分产品 LNG加工费 101,652,996.47 10.17% 147,241,868.50 20.10% -30.96%；营业收入 营业成本 毛利率 LNG加工费 101,652,996.47 61,248,461.57 39.75% -30.96% -23.59% -5.81%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "999,504,565.98",
+      "revenue_proportion": "99.99%",
+      "gross_margin": "10.02%",
+      "yoy_change": "营业收入比上年增减 36.54%；营业成本比上年增减 49.61%；毛利率比上年增减 -6.74%",
+      "quote": "分地区 西北地区 999,504,565.98 99.99% 732,002,571.62 99.93% 36.54%；营业收入 营业成本 毛利率 西北地区 999,504,565.98 899,395,067.55 10.02% 36.54% 49.61% -6.74%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "999,597,477.90",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "10.00%",
+      "yoy_change": "营业收入比上年增减 36.45%；营业成本比上年增减 49.59%；毛利率比上年增减 -7.91%",
+      "quote": "分销售模式 直接销售 999,597,477.90 100.00% 732,549,585.35 100.00% 36.45%；营业收入 营业成本 毛利率 直接销售 999,597,477.90 899,597,137.35 10.00% 36.45% 49.59% -7.91%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "燃气行业（LNG）",
+      "metric_type": "production_volume",
+      "value": "38.44 万吨",
+      "period": "2025年",
+      "quote": "燃气行业（LNG） 生产量 万吨 38.44 34.03 12.96%"
+    },
+    {
+      "product": "燃气行业（LNG）",
+      "metric_type": "sales_volume",
+      "value": "38.71 万吨",
+      "period": "2025年",
+      "quote": "燃气行业（LNG） 销售量 万吨 38.71 34.78 11.30%"
+    },
+    {
+      "product": "燃气行业（LNG）",
+      "metric_type": "inventory_volume",
+      "value": "0.59 万吨",
+      "period": "2025年",
+      "quote": "燃气行业（LNG） 库存量 万吨 0.59 0.31 90.32%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "彭山县年产40万吨清洁能源项目",
+      "project_type": "fundraising_project",
+      "location": "彭山",
+      "investment_amount": "77,997.81万元",
+      "designed_capacity": "年产40万吨清洁能源",
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 彭山县年产40万吨清洁能源项目；承诺投资总额 77,997.81；项目进度 0；项目可行性发生重大变化 是；项目可行性发生重大变化的情况说明：根据公司战略调整及市场变化，募投项目已终止..."
+    },
+    {
+      "name": "子洲天然气综合利用存储调峰液化项目配套物流工程",
+      "project_type": "construction_project",
+      "location": "子洲",
+      "investment_amount": "150,000,000.00元",
+      "designed_capacity": null,
+      "progress": "工程进度 14.54%",
+      "expected_completion_time": null,
+      "quote": "项目名称 工程预算 数 期初 余额 ... 期末 余额 工程进度 子洲天然气综合利用存储调峰液化项目配套物流工程 150,000,000.00 21,807,197.34 ... 21,807,197.34 14.54%"
+    },
+    {
+      "name": "内蒙古通辽市扎鲁特旗供气工程",
+      "project_type": "construction_project",
+      "location": "内蒙古通辽市扎鲁特旗",
+      "investment_amount": "80,000,000.00元",
+      "designed_capacity": null,
+      "progress": "工程进度 1.70%",
+      "expected_completion_time": null,
+      "quote": "项目名称 工程预算 数 期初 余额 ... 期末 余额 工程进度 内蒙古通辽市扎鲁特旗供气工程 80,000,000.00 1,166,445.24 ... 1,362,279.48 1.70%"
+    },
+    {
+      "name": "米脂工厂冷井改造",
+      "project_type": "capacity_expansion",
+      "location": "米脂",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "项目名称 ... 米脂工厂冷井改造 ... 1,350,909.34"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "双重预防机制数字化建设",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在风险防控与信息化建设方面，公司进一步优化双重预防机制数字化建设..."
+    },
+    {
+      "name": "工艺报警优化、关键机泵状态监测、人员定位系统、特殊作业票系统",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "完成工艺报警优化、关键机泵状态监测、人员定位系统、特殊作业票系统等工作。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "87.26%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 872,277,657.90；前五名客户合计销售金额占年度销售总额比例 87.26%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "27.77%",
+      "related_entity": "新奥能源贸易有限公司",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 新奥能源贸易有限公司 277,622,423.95 27.77%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "96.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 898,288,345.52；前五名供应商合计采购金额占年度采购总额比例 96.20%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "80.48%",
+      "related_entity": "中国石油天然气股份有限公司天然气销售陕西分公司",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 中国石油天然气股份有限公司天然气销售陕西分公司 751,517,355.43 80.48%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司所处行业与国家能源规划发展、实体经济紧密相关，经营可能受到宏观经济政策、行业监管机构政策的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）政策风险；公司所处行业与国家能源规划发展、实体经济紧密相关，经营可能受到宏观经济政策、行业监管机构政策的影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "因行业特性，燃气设施极易发生因第三方破坏、人为操作失误、管道损坏等引发的火灾、爆炸等安全事故。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）安全风险；因行业特性，燃气设施极易发生因第三方破坏、人为操作失误、管道损坏等引发的火灾、爆炸等安全事故..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司因债务违约，银行账户、投资性房地产等资产被司法冻结；涉及多起重大诉讼，形成较大金额预计负债。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "货币资金 100,095,673.00 ... 司法冻结 债务违约被司法冻结；投资性房地产 ... 司法冻结 债务违约被司法冻结；公司涉及或有事项导致的预计负债共计2.80亿元..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "2025年，国内LNG均价为4,247元/吨，较2024年下跌6.53%，市场竞争加剧。",
+      "related_entity": null,
+      "related_product": "LNG",
+      "quote": "2025年，国内LNG均价为4,247元/吨，较2024年下跌6.53%；经营活动产生的现金流量净额...同比增减 -40.06% 主要系报告期内LNG市场竞争加剧毛利率下降所致。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "业绩受上游定价机制、国际LNG价格、原料气采购成本等因素影响。",
+      "related_entity": null,
+      "related_product": "LNG",
+      "quote": "业绩受上游定价机制、产品储存能力、国际LNG价格、受托加工费用、销售半径内城镇燃气、工业、交通运输需求以及季节性等因素影响；气源采购成本和政府价格管控措施是决定天然气购销价差的主要因素。"
+    }
+  ]
+}

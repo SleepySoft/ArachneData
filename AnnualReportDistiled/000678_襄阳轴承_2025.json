@@ -1,0 +1,236 @@
+{
+  "company_name_mentioned": "襄阳汽车轴承股份有限公司",
+  "produces": [
+    {
+      "name": "汽车轴承",
+      "type": "component",
+      "revenue_proportion": "69.52%",
+      "quote": "公司主要产品为汽车轴承、等速万向节、轮毂轴承单元等...分产品：轴承 1,070,053,326.05 69.52%"
+    },
+    {
+      "name": "等速万向节",
+      "type": "component",
+      "revenue_proportion": "23.39%",
+      "quote": "公司主要产品为汽车轴承、等速万向节、轮毂轴承单元等...分产品：等速万向节 360,087,925.43 23.39%"
+    },
+    {
+      "name": "轮毂轴承单元",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司主要产品为汽车轴承、等速万向节、轮毂轴承单元等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "轴承钢和钢制品（直接材料）",
+      "target_product": null,
+      "cost_proportion": "62.48%",
+      "quote": "公司产品中直接材料成本占生产成本的比重较大，主要是轴承钢和钢制品...汽车零部件 直接材料 830,607,179.66 62.48%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车整车制造（主机配套市场）",
+      "source_product": "汽车轴承、等速万向节",
+      "quote": "公司的汽车零部件产品主要面向整机配套市场...主要客户为整车制造商"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "等速万向节、轮毂轴承单元、轴承",
+      "quote": "公司开展新能源汽车相关业务...等速万向节 17210万元 轮毂轴承单元 17647万元 轴承 1703万元"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "高少兵",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人高少兵...高少兵先生：男，汉族，1956年12月出生...现任襄阳汽车轴承股份有限公司党委书记、董事长。"
+    },
+    {
+      "name": "张雷",
+      "role": "董事、总经理",
+      "quote": "主管会计工作负责人张雷...张雷先生：男，汉族，1963年3月出生...现任襄阳汽车轴承股份有限公司党委副书记、董事、总经理。"
+    },
+    {
+      "name": "张同军",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）张同军"
+    },
+    {
+      "name": "孟杰",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 孟杰...孟杰先生：男，1987年6月出生...现任襄阳汽车轴承股份有限公司董事会秘书..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "三环集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东仍为三环集团...三环集团有限公司 128,400,000.00股 27.94%"
+    },
+    {
+      "name": "长江产业投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "长江产业集团为公司间接控股股东"
+    },
+    {
+      "name": "湖北省人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人仍为湖北省国资委"
+    },
+    {
+      "name": "湖北三环国际股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购材料",
+      "quote": "湖北三环国际股份有限公司...采购 材料 - 17.31万元"
+    },
+    {
+      "name": "湖北三环铸造股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购材料",
+      "quote": "湖北三环铸造股份有限公司...采购 材料 - 33.04万元"
+    },
+    {
+      "name": "湖北三环车桥有限公司",
+      "relation_type": "customer",
+      "business_details": "销售轴承、检测费",
+      "quote": "湖北三环车桥有限公司...销售 轴承、检测费 - 73.84万元"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,430,141,251.48元",
+      "revenue_proportion": "92.91%",
+      "gross_margin": "11.79%",
+      "yoy_change": "6.60%",
+      "quote": "分行业：汽车零部件 1,430,141,251.48 92.91%...毛利率 11.79%...营业收入比上年同期增减 6.60%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "795,805,032.52元",
+      "revenue_proportion": "51.70%",
+      "gross_margin": "10.93%",
+      "yoy_change": "12.69%",
+      "quote": "分地区：国内 795,805,032.52 51.70%...毛利率 10.93%...营业收入比上年同期增减 12.69%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "743,457,768.60元",
+      "revenue_proportion": "48.30%",
+      "gross_margin": "16.52%",
+      "yoy_change": "-0.75%",
+      "quote": "分地区：国外 743,457,768.60 48.30%...毛利率 16.52%...营业收入比上年同期增减 -0.75%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "轴承",
+      "metric_type": "production_volume",
+      "value": "3,154.39万套/根",
+      "period": "2025年",
+      "quote": "按零部件类别：轴承 产量（万套/根） 3,154.39"
+    },
+    {
+      "product": "轴承",
+      "metric_type": "sales_volume",
+      "value": "3,233.52万套/根",
+      "period": "2025年",
+      "quote": "按零部件类别：轴承 销售量（万套/根） 3,233.52"
+    },
+    {
+      "product": "等速万向节",
+      "metric_type": "production_volume",
+      "value": "216.00万套/根",
+      "period": "2025年",
+      "quote": "按零部件类别：等速万向节 产量（万套/根） 216.00"
+    },
+    {
+      "product": "等速万向节",
+      "metric_type": "sales_volume",
+      "value": "243.00万套/根",
+      "period": "2025年",
+      "quote": "按零部件类别：等速万向节 销售量（万套/根） 243.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "巴西工厂建设",
+      "project_type": "capacity_expansion",
+      "location": "巴西",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设工作全面完成，进入正常生产经营阶段",
+      "expected_completion_time": "预计2026年上半年量产",
+      "quote": "巴西工厂建设工作全面完成，进入正常生产经营阶段，预计2026年上半年量产。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "77项（其中发明专利15项，实用新型专利57项，外观专利2项，软件著作权3项）",
+      "quote": "截至2025年底，公司拥有各类有效知识产权77项（其中发明专利15项，实用新型专利57项，外观专利2项，软件著作权3项）"
+    },
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有“国家认定企业技术中心”、“CNAS 实验室”、“国家博士后科研工作站”、“湖北省汽车轴承工程技术研究中心”等研发平台"
+    },
+    {
+      "name": "ISO9001、IATF16949等汽车行业专项体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "取得 ISO9001、IATF16949、ISO45001、ISO14001、ISO/IEC17025 等汽车行业的各种专项体系认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "709,093,755.88元（占比46.07%）",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 709,093,755.88 前五名客户合计销售金额占年度销售总额比例 46.07%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "196,987,770.91元（占比16.49%）",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 196,987,770.91 前五名供应商合计采购金额占年度采购总额比例 16.49%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品中直接材料成本占生产成本的比重较大，主要是轴承钢和钢制品，钢材价格的波动对公司的成本控制带来一定压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动风险：公司产品中直接材料成本占生产成本的比重较大，主要是轴承钢和钢制品，钢材价格的波动对公司的成本控制带来一定压力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "汽车零部件企业市场竞争愈加白热化，汽车零部件行业整体经营盈利能力受挤压，同时激烈的市场竞争也使公司在市场开拓和技术升级等方面面临一定的挑战和竞争风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险：汽车零部件企业市场竞争愈加白热化，汽车零部件行业整体经营盈利能力受挤压，同时激烈的市场竞争也使公司在市场开拓和技术升级等方面面临一定的挑战和竞争风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务主要以美元、欧元结算，虽然公司将预期的汇率变动作为产品报价的重要考虑因素计入成本，仍有可能无法避免汇率波动所带来的财务风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率变动的风险：公司出口业务主要以美元、欧元结算，虽然公司将预期的汇率变动作为产品报价的重要考虑因素计入成本，仍有可能无法避免汇率波动所带来的财务风险。"
+    }
+  ]
+}

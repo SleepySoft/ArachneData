@@ -1,0 +1,603 @@
+{
+  "company_name_mentioned": "浙江金洲管道科技股份有限公司",
+  "produces": [
+    {
+      "name": "热浸镀锌钢管",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有热浸镀锌钢管、钢塑复合管材管件、不锈钢管材管件、大口径卷制直缝埋弧焊接钢管、双面埋弧焊螺旋钢管、直缝埋弧焊钢管、高频电阻焊钢管、FBE/2PE/3PE防腐钢管。"
+    },
+    {
+      "name": "钢塑复合管材管件",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有热浸镀锌钢管、钢塑复合管材管件、不锈钢管材管件..."
+    },
+    {
+      "name": "不锈钢管材管件",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有热浸镀锌钢管、钢塑复合管材管件、不锈钢管材管件..."
+    },
+    {
+      "name": "大口径卷制直缝埋弧焊接钢管",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有...大口径卷制直缝埋弧焊接钢管..."
+    },
+    {
+      "name": "双面埋弧焊螺旋钢管",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有...双面埋弧焊螺旋钢管..."
+    },
+    {
+      "name": "直缝埋弧焊钢管",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有...直缝埋弧焊钢管..."
+    },
+    {
+      "name": "高频电阻焊钢管",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有...高频电阻焊钢管..."
+    },
+    {
+      "name": "FBE/2PE/3PE防腐钢管",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主导产品有...FBE/2PE/3PE防腐钢管。"
+    },
+    {
+      "name": "能源输送类管道产品",
+      "type": "material",
+      "revenue_proportion": "37.73%",
+      "quote": "能源输送类 1,606,152,187.86 37.73%"
+    },
+    {
+      "name": "绿色民用类管道产品",
+      "type": "material",
+      "revenue_proportion": "52.30%",
+      "quote": "绿色民用类 2,226,535,172.91 52.30%"
+    },
+    {
+      "name": "电网设施类产品",
+      "type": "material",
+      "revenue_proportion": "1.85%",
+      "quote": "电网设施类 78,905,623.89 1.85%"
+    },
+    {
+      "name": "配件与服务",
+      "type": "service",
+      "revenue_proportion": "3.45%",
+      "quote": "配件与服务 146,842,586.61 3.45%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "热轧卷板",
+      "target_product": "焊接钢管",
+      "cost_proportion": "90%左右",
+      "quote": "生产这些产品的主要原材料为热轧卷板和锌锭，这两种原材料的成本占公司主要产品生产成本的比例较高，一直以来都维持在90%左右。"
+    },
+    {
+      "name": "锌锭",
+      "target_product": "镀锌钢管等",
+      "cost_proportion": "90%左右",
+      "quote": "生产这些产品的主要原材料为热轧卷板和锌锭，这两种原材料的成本占公司主要产品生产成本的比例较高，一直以来都维持在90%左右。"
+    },
+    {
+      "name": "原材料（综合）",
+      "target_product": null,
+      "cost_proportion": "84.60%",
+      "quote": "原材料 322,436.59 84.60%"
+    },
+    {
+      "name": "燃料动力",
+      "target_product": null,
+      "cost_proportion": "1.99%",
+      "quote": "燃料动力 7,566.07 1.99%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "石油天然气输送",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "化工",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "给水",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "排水",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "消防",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "燃气",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "建筑",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "数据中心",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "氢能",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    },
+    {
+      "name": "特高压电力铁塔",
+      "source_product": null,
+      "quote": "产品被广泛应用于石油天然气输送、化工、给水、排水、消防、燃气、建筑、数据中心、氢能、特高压电力铁塔等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李云南",
+      "role": "董事长",
+      "quote": "公司负责人李云南...保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "柴华良",
+      "role": "主管会计工作负责人、会计机构负责人（会计主管人员）、财务总监、副总经理",
+      "quote": "主管会计工作负责人柴华良及会计机构负责人（会计主管人员）柴华良声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "杨林峰",
+      "role": "副董事长、总经理",
+      "quote": "2025年12月至今任公司总经理"
+    },
+    {
+      "name": "薛俊",
+      "role": "董事会秘书、董事、副总经理",
+      "quote": "2025年3月至今任公司董事会秘书，2025年12月至今任公司董事、副总经理。"
+    },
+    {
+      "name": "杨伟芳",
+      "role": "副总经理",
+      "quote": "2014年1月起任公司副总经理并相继兼任技术中心副主任、主任"
+    },
+    {
+      "name": "朱利新",
+      "role": "副总经理",
+      "quote": "2021年至今任公司副总经理。"
+    },
+    {
+      "name": "牛璟",
+      "role": "副总经理、首席信息官",
+      "quote": "2024年至今担任公司首席信息官，2025年12月至今担任公司副总经理。"
+    },
+    {
+      "name": "初宜红",
+      "role": "独立董事",
+      "quote": "2023年5月至今任公司独立董事。"
+    },
+    {
+      "name": "张莉",
+      "role": "独立董事",
+      "quote": "2022年12月至今任公司独立董事。"
+    },
+    {
+      "name": "吴海",
+      "role": "独立董事",
+      "quote": "2025年12月至今任公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中石油（中国石油天然气股份有限公司及其下属分子公司）",
+      "relation_type": "customer",
+      "business_details": "核心管道供应商",
+      "quote": "成为中石油、中石化、中海油、港华燃气、新奥燃气、华润燃气、中国燃气、昆仑燃气、国家电网等国内知名能源及基建企业的核心管道供应商。"
+    },
+    {
+      "name": "中石化（中国石油化工股份有限公司及其下属分子公司）",
+      "relation_type": "customer",
+      "business_details": "核心管道供应商",
+      "quote": "成为中石油、中石化、中海油、港华燃气、新奥燃气、华润燃气、中国燃气、昆仑燃气、国家电网等国内知名能源及基建企业的核心管道供应商。"
+    },
+    {
+      "name": "中海油（中国海洋石油总公司及其下属分子公司）",
+      "relation_type": "customer",
+      "business_details": "核心管道供应商",
+      "quote": "成为中石油、中石化、中海油、港华燃气、新奥燃气、华润燃气、中国燃气、昆仑燃气、国家电网等国内知名能源及基建企业的核心管道供应商。"
+    },
+    {
+      "name": "港华燃气（港华投资有限公司及其下属分子公司）",
+      "relation_type": "customer",
+      "business_details": "核心管道供应商",
+      "quote": "成为中石油、中石化、中海油、港华燃气、新奥燃气、华润燃气、中国燃气、昆仑燃气、国家电网等国内知名能源及基建企业的核心管道供应商。"
+    },
+    {
+      "name": "新奥燃气（新奥集团股份有限公司及其下属分子公司）",
+      "relation_type": "customer",
+      "business_details": "核心管道供应商",
+      "quote": "成为中石油、中石化、中海油、港华燃气、新奥燃气、华润燃气、中国燃气、昆仑燃气、国家电网等国内知名能源及基建企业的核心管道供应商。"
+    },
+    {
+      "name": "华润燃气（华润燃气（集团）有限公司及其下属分子公司）",
+      "relation_type": "customer",
+      "business_details": "核心管道供应商",
+      "quote": "成为中石油、中石化、中海油、港华燃气、新奥燃气、华润燃气、中国燃气、昆仑燃气、国家电网等国内知名能源及基建企业的核心管道供应商。"
+    },
+    {
+      "name": "中国燃气（中国燃气控股有限公司及其下属分子公司）",
+      "relation_type": "customer",
+      "business_details": "核心管道供应商",
+      "quote": "成为中石油、中石化、中海油、港华燃气、新奥燃气、华润燃气、中国燃气、昆仑燃气、国家电网等国内知名能源及基建企业的核心管道供应商。"
+    },
+    {
+      "name": "张家港沙钢金洲管道有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事管道制造与销售",
+      "quote": "沙钢金洲 指 控股子公司张家港沙钢金洲管道有限公司"
+    },
+    {
+      "name": "浙江金洲管道工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事管道制造与销售",
+      "quote": "管道工业 指 全资子公司浙江金洲管道工业有限公司"
+    },
+    {
+      "name": "湖州金洲石油天然气管道有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "金洲石油、湖州金洲公司 指 全资子公司湖州金洲石油天然气管道有限公司"
+    },
+    {
+      "name": "金洲智慧新材料（上海）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "金洲智慧 指 全资子公司金洲智慧新材料（上海）有限公司"
+    },
+    {
+      "name": "金洲天创机器人科技(南京)有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "金洲天创 指 控股子公司金洲天创机器人科技(南京)有限公司"
+    },
+    {
+      "name": "浙江春申投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "春申投资 指 全资子公司浙江春申投资有限公司"
+    },
+    {
+      "name": "南京天创智能科技股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与公司设立合资公司金洲天创机器人科技（南京）有限公司，并接受公司投资",
+      "quote": "公司与南京天创智能科技股份有限公司（简称“天创机器人”）设立金洲天创机器人科技(南京)有限公司...公司拟投资天创机器人 1000 万元人民币"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "管道制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,257,509,223.11元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "-7.79%",
+      "quote": "分行业 管道制造 4,257,509,223.11 100.00%"
+    },
+    {
+      "name": "能源输送类",
+      "segment_type": "product_line",
+      "revenue_amount": "1,606,152,187.86元",
+      "revenue_proportion": "37.73%",
+      "gross_margin": "12.76%",
+      "yoy_change": "-3.01%",
+      "quote": "能源输送类 1,606,152,187.86 37.73%...能源输送类 12.76% -3.01%"
+    },
+    {
+      "name": "绿色民用类",
+      "segment_type": "product_line",
+      "revenue_amount": "2,226,535,172.91元",
+      "revenue_proportion": "52.30%",
+      "gross_margin": "9.36%",
+      "yoy_change": "-13.68%",
+      "quote": "绿色民用类 2,226,535,172.91 52.30%...绿色民用类 9.36% -13.68%"
+    },
+    {
+      "name": "电网设施类",
+      "segment_type": "product_line",
+      "revenue_amount": "78,905,623.89元",
+      "revenue_proportion": "1.85%",
+      "gross_margin": "7.34%",
+      "yoy_change": "59.22%",
+      "quote": "电网设施类 78,905,623.89 1.85%...电网设施类 7.34% 59.22%"
+    },
+    {
+      "name": "配件与服务",
+      "segment_type": "product_line",
+      "revenue_amount": "146,842,586.61元",
+      "revenue_proportion": "3.45%",
+      "gross_margin": "19.26%",
+      "yoy_change": "25.17%",
+      "quote": "配件与服务 146,842,586.61 3.45%...配件与服务 19.26% 25.17%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "other",
+      "revenue_amount": "199,073,651.84元",
+      "revenue_proportion": "4.68%",
+      "gross_margin": "-0.67%",
+      "yoy_change": "-7.26%",
+      "quote": "其他业务 199,073,651.84 4.68%...其他业务 -0.67% -7.26%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "4,257,509,223.11元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "-7.79%",
+      "quote": "分地区 国内 4,257,509,223.11 100.00%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,257,509,223.11元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "-7.79%",
+      "quote": "分销售模式 直接销售 4,257,509,223.11 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "管道产品",
+      "metric_type": "sales_volume",
+      "value": "87.69万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 管道制造 销售量 万吨 87.69 90.96 -4.00%"
+    },
+    {
+      "product": "管道产品",
+      "metric_type": "production_volume",
+      "value": "82.52万吨",
+      "period": "2025年",
+      "quote": "生产量 万吨 82.52 92.89 -11.00%"
+    },
+    {
+      "product": "管道产品",
+      "metric_type": "inventory_volume",
+      "value": "5.23万吨",
+      "period": "2025年末",
+      "quote": "库存量 万吨 5.23 10.4 -49.70%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产100万吨清洁能源及高端装备用精密管未来工厂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产100万吨",
+      "progress": "暂缓实施",
+      "expected_completion_time": null,
+      "quote": "公司投资建设年产 100 万吨清洁能源及高端装备用精密管未来工厂项目...公司决定暂缓实施该项目。"
+    },
+    {
+      "name": "设立浙江金洲管道科技股份有限公司墨脱分公司",
+      "project_type": "other",
+      "location": "西藏自治区林芝市墨脱县",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已成立",
+      "expected_completion_time": null,
+      "quote": "2025 年 9 月 22 日，公司在西藏自治区林芝市墨脱县成立浙江金洲管道科技股份有限公司墨脱分公司"
+    },
+    {
+      "name": "达茂旗至包头20公里氢气长输管道工程供管项目",
+      "project_type": "other",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "年设计输氢量达10万吨",
+      "progress": "承接",
+      "expected_completion_time": null,
+      "quote": "公司控股子公司——张家港沙钢金洲管道有限公司正式承接达茂旗至包头市区 20 公里氢气长输管道工程供管"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司投建的研发总部，配备国际先进的管道检测实验室、材料分析中心及智能焊接中试基地...拥有国家企业技术中心、CNAS认可实验室、省级企业研究院、省级工程技术中心等一系列科研平台。"
+    },
+    {
+      "name": "CNAS认可实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有国家企业技术中心、CNAS认可实验室..."
+    },
+    {
+      "name": "省级企业研究院",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有国家企业技术中心、CNAS认可实验室、省级企业研究院..."
+    },
+    {
+      "name": "省级工程技术研究中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有国家企业技术中心、CNAS认可实验室、省级企业研究院、省级工程技术中心..."
+    },
+    {
+      "name": "ISO9001、ISO14001、ISO45001、ISO50001、中国特种设备（压力管道元件）制造许可、美国APISPEC5L、APISPEC5CT等认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已通过 ISO9001、ISO14001、ISO45001、ISO50001、中国特种设备（压力管道元件）制造许可、美国 APISPEC5L、APISPEC5CT、知识产权管理体系、碳排放管理体系、中国环境标志产品、节水产品、中国绿色建材产品、绿色企业、CMISI 产品等认证"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年获授权发明专利 6 件",
+      "quote": "全年获授权发明专利 6 件"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年获授权...实用新型专利 8 件",
+      "quote": "全年获授权发明专利 6 件、实用新型专利 8 件"
+    },
+    {
+      "name": "外观设计专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年获授权...外观设计专利 1 件",
+      "quote": "全年获授权发明专利 6 件、实用新型专利 8 件和外观设计专利 1 件"
+    },
+    {
+      "name": "螺旋缝埋弧焊管预精焊二步法工艺",
+      "asset_type": "process_technology",
+      "related_product": "螺旋缝埋弧焊管系列",
+      "quantitative_info": null,
+      "quote": "螺旋缝埋弧焊管系列（Φ219～Φ2620）采用国际领先的预精焊二步法工艺"
+    },
+    {
+      "name": "直缝埋弧焊管JCOE成型工艺",
+      "asset_type": "process_technology",
+      "related_product": "直缝埋弧焊管系列",
+      "quantitative_info": null,
+      "quote": "直缝埋弧焊管系列（Φ406～Φ1626）采用 JCOE 成型工艺"
+    },
+    {
+      "name": "不锈钢管材“P+T双枪焊接工艺”",
+      "asset_type": "process_technology",
+      "related_product": "薄壁不锈钢管材管件",
+      "quantitative_info": null,
+      "quote": "不锈钢管材采用\"P+T双枪焊接工艺\"、\"在线焊缝内整平\"等国内领先工艺"
+    },
+    {
+      "name": "主持或参与制定国家标准和行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主持制修订...两项国家标准，参与制修订并发布...11 项国家标准和 1 项行业标准",
+      "quote": "主持制修订《绿色产品评价钢管》和《结构用碳素钢和低合金钢焊接钢管》两项国家标准，参与制修订并发布 GB/T3091-2025《低压流体输送用焊接钢管》、GB/T46599-2025《氢气储输管道用钢管》等 11 项国家标准和 1 项行业标准"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "774,646,558.69元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 774,646,558.69"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "18.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 18.19%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "212,272,001.51元",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 212,272,001.51 4.99%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "4.99%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 212,272,001.51 4.99%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,363,039,590.28元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,363,039,590.28"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "36.91%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 36.91%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "408,446,963.79元",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 408,446,963.79 11.06%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "11.06%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 408,446,963.79 11.06%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内管道行业的产业集中度仍然不高，生产能力存在优化提升空间，低价竞争加剧，在未来一段时间内将面临激烈的市场竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争风险：目前，国内管道行业的产业集中度仍然不高，生产能力存在优化提升空间，低价竞争加剧，在未来一段时间内将面临激烈的市场竞争..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要产品为焊接钢管，生产这些产品的主要原材料为热轧卷板和锌锭，这两种原材料的成本占公司主要产品生产成本的比例较高，一直以来都维持在90%左右。若热轧钢带或锌锭价格波动较大，将对公司产品销售和原材料库存管理带来一定的影响。",
+      "related_entity": null,
+      "related_product": "焊接钢管",
+      "quote": "原材料价格波动风险：公司主要产品为焊接钢管，生产这些产品的主要原材料为热轧卷板和锌锭，这两种原材料的成本占公司主要产品生产成本的比例较高，一直以来都维持在90%左右。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "未来，如果公司不符合或持续符合高新技术企业的认定条件，或相关的税收优惠和政府补助政策发生重大变化，将对公司的经营成果产生一定的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "税收优惠和财政补贴政策变化的风险：根据浙江省科学技术厅、浙江省财政厅、浙江省国家税务局和浙江省地方税务局联合颁发的《高新技术企业证书》，公司及子公司管道工业、沙钢金洲均被认定为高新技术企业。"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全风险：公司主要原材料和产成品在搬运、存储、运输等环节的作业环境较复杂...仍可能无法完全消除因工作人员违反相关规程制度作业、安全监管不到位、操作不规范、难以预见的意外因素和自然灾害等原因而造成安全事故的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "安全风险：公司主要原材料和产成品在搬运、存储、运输等环节的作业环境较复杂，主要产品在生产制造过程中会涉及使用特种设备、电气机械设备、化学品、高温高空、有限空间、危废处置、电力、燃气以及其他可能导致伤害的相关因素。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才保障与管理风险：若公司人才引育、激励约束与职业发展体系未能同步适配战略发展需要，出现核心人才流失、人才结构失衡、团队执行力不足等情形，将可能影响公司技术创新效率、市场拓展成效与经营管理质量。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才保障与管理风险：随着行业技术迭代加快、市场竞争日趋激烈，企业对高端技术研发、精益生产管理、市场营销及国际化经营等专业人才的需求持续提升。"
+    }
+  ]
+}

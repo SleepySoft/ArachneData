@@ -1,0 +1,406 @@
+{
+  "company_name_mentioned": "山东隆基机械股份有限公司",
+  "produces": [
+    {
+      "name": "制动盘",
+      "type": "component",
+      "revenue_proportion": "86.29%",
+      "quote": "分产品...制动盘 1,760,073,627.95 86.29%"
+    },
+    {
+      "name": "载重车制动毂",
+      "type": "component",
+      "revenue_proportion": "10.37%",
+      "quote": "分产品...载重车制动毂 211,523,149.46 10.37%"
+    },
+    {
+      "name": "普通制动毂",
+      "type": "component",
+      "revenue_proportion": "2.40%",
+      "quote": "分产品...普通制动毂 48,879,067.79 2.40%"
+    },
+    {
+      "name": "轮毂",
+      "type": "component",
+      "revenue_proportion": "0.08%",
+      "quote": "分产品...轮毂 1,657,719.53 0.08%"
+    },
+    {
+      "name": "铸件",
+      "type": "material",
+      "revenue_proportion": "0.79%",
+      "quote": "分产品...铸件 16,021,625.15 0.79%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "废钢",
+      "target_product": "制动部件",
+      "cost_proportion": null,
+      "quote": "公司生产所需主要原材料为废钢等，均采用外购模式"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车制动系统",
+      "source_product": "制动盘、制动毂、轮毂等",
+      "quote": "公司深耕汽车制动部件领域，专业从事汽车用制动盘、制动毂等核心产品研发、生产与销售...产品适配全品类车型制动系统需求。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张海燕",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人张海燕...现任本公司董事长兼总经理、隆基集团执行董事、隆基环保科技董事长。"
+    },
+    {
+      "name": "刘建",
+      "role": "董事会秘书、财务总监",
+      "quote": "主管会计工作负责人刘建...现任公司副总经理、财务总监、董事会秘书。"
+    },
+    {
+      "name": "王德生",
+      "role": "董事、副总经理",
+      "quote": "会计机构负责人（会计主管人员）王德生...现任隆基机械董事、副总经理、隆基制动部件总经理、隆基精确制动总经理、隆基集团监事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "隆基集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "隆基集团 指 隆基集团有限公司，公司控股股东。"
+    },
+    {
+      "name": "龙口隆基制动毂有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "隆基制动毂 指 龙口隆基制动毂有限公司，发行人之控股子公司，发行人持有其75%的股权。"
+    },
+    {
+      "name": "龙口隆基精确制动有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "隆基精确制动 指 龙口隆基精确制动有限公司，发行人之控股子公司，发行人持有其70%的股权。"
+    },
+    {
+      "name": "山东隆基制动部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "隆基制动部件 指 山东隆基制动部件有限公司，发行人之全资子公司。"
+    },
+    {
+      "name": "山东隆基环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "隆基步德威/隆基环保科技 指 山东隆基步德威制动钳有限公司...更名为山东隆基环保科技有限公司，发行人之控股子公司，发行人持有其84.62%的股权。"
+    },
+    {
+      "name": "上海车易信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股子公司",
+      "quote": "车易信息 指 上海车易信息科技有限公司，发行人之参股子公司，发行人持有其37.088%的股权。"
+    },
+    {
+      "name": "长安",
+      "relation_type": "customer",
+      "business_details": "国内整车厂客户",
+      "quote": "已与长安、奇瑞、吉利、广汽、沃尔沃、比亚迪...等标杆企业建立了深厚合作关系"
+    },
+    {
+      "name": "奇瑞",
+      "relation_type": "customer",
+      "business_details": "国内整车厂客户",
+      "quote": "已与长安、奇瑞、吉利、广汽、沃尔沃、比亚迪...等标杆企业建立了深厚合作关系"
+    },
+    {
+      "name": "吉利",
+      "relation_type": "customer",
+      "business_details": "国内整车厂客户",
+      "quote": "已与长安、奇瑞、吉利、广汽、沃尔沃、比亚迪...等标杆企业建立了深厚合作关系"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "国内整车厂客户",
+      "quote": "已与长安、奇瑞、吉利、广汽、沃尔沃、比亚迪...等标杆企业建立了深厚合作关系"
+    },
+    {
+      "name": "Brembo",
+      "relation_type": "customer",
+      "business_details": "国际知名汽车零部件连锁商、经销商",
+      "quote": "已与Brembo、PE、GPC(NAPA)、Meritor、Advance、PHCVALEO等国际知名汽车零部件连锁商、经销商...建立长期稳定的合作关系"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "机械制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "2,038,155,189.88",
+      "revenue_proportion": "99.92%",
+      "gross_margin": "10.05%",
+      "yoy_change": "-14.35%",
+      "quote": "分行业...机械制造业 2,038,155,189.88 99.92%...毛利率 10.05%...营业收入比上年同期增减 -14.35%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,438,850,172.52",
+      "revenue_proportion": "70.54%",
+      "gross_margin": "9.89%",
+      "yoy_change": "7.18%",
+      "quote": "分地区...国内 1,438,850,172.52 70.54%...毛利率 9.89%...营业收入比上年同期增减 7.18%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "600,881,244.82",
+      "revenue_proportion": "29.46%",
+      "gross_margin": "10.69%",
+      "yoy_change": "-42.14%",
+      "quote": "分地区...国外 600,881,244.82 29.46%...毛利率 10.69%...营业收入比上年同期增减 -42.14%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,039,731,417.34",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "10.12%",
+      "yoy_change": "-14.33%",
+      "quote": "分销售模式...直销 2,039,731,417.34 100.00%...毛利率 10.12%...营业收入比上年同期增减 -14.33%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "普通制动毂",
+      "metric_type": "production_volume",
+      "value": "737520件",
+      "period": "2025年",
+      "quote": "普通制动毂（件） 737520"
+    },
+    {
+      "product": "制动盘",
+      "metric_type": "production_volume",
+      "value": "26612263件",
+      "period": "2025年",
+      "quote": "制动盘（件） 26612263"
+    },
+    {
+      "product": "载重车制动毂",
+      "metric_type": "production_volume",
+      "value": "692049件",
+      "period": "2025年",
+      "quote": "载重车制动毂（件） 692049"
+    },
+    {
+      "product": "轮毂",
+      "metric_type": "production_volume",
+      "value": "6939件",
+      "period": "2025年",
+      "quote": "轮毂（件） 6939"
+    },
+    {
+      "product": "普通制动毂",
+      "metric_type": "sales_volume",
+      "value": "709660件",
+      "period": "2025年",
+      "quote": "普通制动毂（件）...销售量...709660"
+    },
+    {
+      "product": "制动盘",
+      "metric_type": "sales_volume",
+      "value": "26866717件",
+      "period": "2025年",
+      "quote": "制动盘（件）...销售量...26866717"
+    },
+    {
+      "product": "载重车制动毂",
+      "metric_type": "sales_volume",
+      "value": "739372件",
+      "period": "2025年",
+      "quote": "载重车制动毂（件）...销售量...739372"
+    },
+    {
+      "product": "轮毂",
+      "metric_type": "sales_volume",
+      "value": "6874件",
+      "period": "2025年",
+      "quote": "轮毂（件）...销售量...6874"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "制动盘1500万件/年",
+      "period": "2025年（新能源汽车部分）",
+      "quote": "新能源汽车整车及零部件的生产经营情况...产品类别...制动盘（件）...产能状况 1500万件/年"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "普通制动毂35万件/年",
+      "period": "2025年（新能源汽车部分）",
+      "quote": "新能源汽车整车及零部件的生产经营情况...产品类别...普通制动毂（件）...产能状况 35万件/年"
+    },
+    {
+      "product": "新能源汽车制动盘",
+      "metric_type": "production_volume",
+      "value": "9569911件",
+      "period": "2025年",
+      "quote": "新能源汽车整车及零部件的生产经营情况...产品类别...制动盘（件）...产量 9569911"
+    },
+    {
+      "product": "新能源汽车制动盘",
+      "metric_type": "sales_volume",
+      "value": "9069529件",
+      "period": "2025年",
+      "quote": "新能源汽车整车及零部件的生产经营情况...产品类别...制动盘（件）...销量 9069529"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "28,048,771.00件",
+      "period": "2025年（整体）",
+      "quote": "机械制造业...生产量...28,048,771.00"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "28,322,623.00件",
+      "period": "2025年（整体）",
+      "quote": "机械制造业...销售量...28,322,623.00"
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "4,582,745.00件",
+      "period": "2025年末",
+      "quote": "机械制造业...库存量...4,582,745.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "汽车制动盘智能化升级改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "8,147万元",
+      "designed_capacity": "新增年产120万件高端制动盘产能",
+      "progress": "项目进行中",
+      "expected_completion_time": "预计2026年投产",
+      "quote": "公司首次公开发行股票募集资金投资项目...汽车制动盘智能化升级改造项目...投资总额8,147万元...项目进展...项目进行中...拟达到的目标...新增年产120万件高端制动盘产能...预计对公司未来发展的影响...预计2026年投产"
+    },
+    {
+      "name": "在建工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "在建工程 13,660,169.33 19,225,093.83"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "CNAS认可的国家级检测中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获批省级...并建成通过“CNAS认可的国家级检测中心”"
+    },
+    {
+      "name": "IATF16949全系列汽车行业质量体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已顺利通过 IATF16949 全系列汽车行业质量体系认证"
+    },
+    {
+      "name": "ISO14001、ISO45001、ISO50001管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "同时取得 ISO14001、ISO45001、ISO50001多项管理体系认证"
+    },
+    {
+      "name": "汽车制动毂、汽车制动盘、球墨铸铁件等国家标准主要起草单位及参与起草单位",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司作为汽车制动毂、汽车制动盘、球墨铸铁件等国家标准主要起草单位及参与起草单位"
+    },
+    {
+      "name": "累计拥有知识产权、技术成果等百余项",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "百余项",
+      "quote": "公司已累计拥有知识产权、技术成果等百余项"
+    },
+    {
+      "name": "省级“汽车制动器件工程技术研究中心”“技术中心”“工业设计中心”“博士后创新实践基地”",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获批省级“汽车制动器件工程技术研究中心”“技术中心”“工业设计中心”“博士后创新实践基地”"
+    },
+    {
+      "name": "与同济大学、东北大学、辽宁工业大学、山东建筑大学、济南大学、中国机械科学研究总院等高校院所的产学研合作",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "与同济大学、东北大学、辽宁工业大学、山东建筑大学、济南大学、中国机械科学研究总院等高校院所建立长期稳定合作"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "18.33%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料...1 客户一 373,793,076.97 18.33%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "37.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 37.13%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "18.06%",
+      "related_entity": "单位一",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料...1 单位一 281,526,425.59 18.06%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "41.65%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 41.65%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产所需主要原材料为废钢，原材料采购价格受国内钢铁市场供需影响，存在一定波动性，从而直接影响公司产品售价。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动风险...公司生产所需主要原材料为废钢，原材料采购价格受国内钢铁市场供需影响，存在一定波动性，从而直接影响公司产品售价。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处行业企业数量众多且梯队分化明显，不同企业在生产工艺、品控能力、技术水平上差距较大，导致市场产品质量参差不齐；同时行业内低价内卷、无序价格竞争现象突出，叠加行业整体市场竞争日趋白热化，市场竞争压力持续攀升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争的风险...公司所处行业企业数量众多且梯队分化明显，不同企业在生产工艺、品控能力、技术水平上差距较大，导致市场产品质量参差不齐；同时行业内低价内卷、无序价格竞争现象突出，叠加行业整体市场竞争日趋白热化，市场竞争压力持续攀升。"
+    },
+    {
+      "risk_type": "other",
+      "description": "当前宏观经济环境复杂多变，叠加外部经济形势波动、行业政策调整及市场需求变化等多重因素，公司市场经营面临不确定性与潜在挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济与市场波动的影响...当前宏观经济环境复杂多变，叠加外部经济形势波动、行业政策调整及市场需求变化等多重因素，公司市场经营面临不确定性与潜在挑战。"
+    }
+  ]
+}

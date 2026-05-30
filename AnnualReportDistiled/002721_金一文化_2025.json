@@ -1,0 +1,370 @@
+{
+  "company_name_mentioned": "北京金一文化发展股份有限公司",
+  "produces": [
+    {
+      "name": "珠宝首饰",
+      "type": "device",
+      "revenue_proportion": "48.70%",
+      "quote": "分产品 珠宝行业-珠宝首饰 427,252,853.13 48.70%"
+    },
+    {
+      "name": "投资金条",
+      "type": "device",
+      "revenue_proportion": "1.23%",
+      "quote": "分产品 珠宝行业-投资金条 10,821,635.88 1.23%"
+    },
+    {
+      "name": "纯金制品",
+      "type": "device",
+      "revenue_proportion": "0.52%",
+      "quote": "分产品 珠宝行业-纯金制品 4,563,336.34 0.52%"
+    },
+    {
+      "name": "纯银制品",
+      "type": "device",
+      "revenue_proportion": "0.01%",
+      "quote": "分产品 珠宝行业-纯银制品 49,065.45 0.01%"
+    },
+    {
+      "name": "财富管理与金融市场业务解决方案",
+      "type": "service",
+      "revenue_proportion": "24.28%",
+      "quote": "分产品 软件与信息技术服务业-财富管理与金融市场业务解决方案 213,059,102.18 24.28%"
+    },
+    {
+      "name": "支付清算业务解决方案",
+      "type": "service",
+      "revenue_proportion": "12.34%",
+      "quote": "分产品 软件与信息技术服务业-支付清算业务解决方案 108,236,418.21 12.34%"
+    },
+    {
+      "name": "智能数字化客户服务解决方案",
+      "type": "service",
+      "revenue_proportion": "12.12%",
+      "quote": "分产品 软件与信息技术服务业-智能数字化客户服务解决方案 106,349,458.14 12.12%"
+    },
+    {
+      "name": "运维及数字化咨询服务",
+      "type": "service",
+      "revenue_proportion": "0.56%",
+      "quote": "分产品 软件与信息技术服务业-运维及数字化咨询服务 4,916,403.90 0.56%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "黄金类（现货交易）",
+      "target_product": "黄金珠宝产品",
+      "cost_proportion": null,
+      "quote": "现货交易 黄金类（克） 425,441 30,822.18"
+    },
+    {
+      "name": "K金类（现货交易）",
+      "target_product": "珠宝首饰",
+      "cost_proportion": null,
+      "quote": "现货交易 K金类（克） 638 41.47"
+    },
+    {
+      "name": "白银类（现货交易）",
+      "target_product": "珠宝首饰",
+      "cost_proportion": null,
+      "quote": "现货交易 白银类（克） 492 0.53"
+    }
+  ],
+  "applications": [
+    {
+      "name": "珠宝零售与投资",
+      "source_product": "珠宝首饰、投资金条、纯金制品、纯银制品",
+      "quote": "公司致力于为消费者提供做工精良、设计精美、性价比高，兼具审美与文化价值的黄金珠宝产品"
+    },
+    {
+      "name": "银行等金融机构",
+      "source_product": "财富管理及金融市场业务解决方案、支付清算业务解决方案、智能数字化客户服务解决方案",
+      "quote": "主要为银行等金融机构提供财富管理及金融市场、支付清算、智能数字化客户服务等领域的软件开发及技术服务、运维及咨询服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张波",
+      "role": "法定代表人、公司负责人、董事长",
+      "quote": "公司负责人张波"
+    },
+    {
+      "name": "蒋学福",
+      "role": "主管会计工作负责人、会计机构负责人、财务总监",
+      "quote": "主管会计工作负责人蒋学福及会计机构负责人（会计主管人员）蒋学福"
+    },
+    {
+      "name": "杨培琴",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 杨培琴"
+    },
+    {
+      "name": "王晓峰",
+      "role": "董事、总经理",
+      "quote": "王晓峰 男 52 现任 董事，总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京海鑫资产管理有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "海鑫资产、控股股东 指 北京海鑫资产管理有限公司"
+    },
+    {
+      "name": "北京市海淀区人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "海淀区国资委、实际控制人 指 北京市海淀区人民政府国有资产监督管理委员会"
+    },
+    {
+      "name": "北京开科唯识技术股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主营软件与信息技术服务",
+      "quote": "2025年4月，公司通过收购股权以及接受表决权委托的方式合计控制了开科唯识57.48%的表决权，开科唯识成为公司的控股子公司"
+    },
+    {
+      "name": "北京越王文化有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，整合珠宝零售业务",
+      "quote": "2025年2月，公司新设立全资子公司北京越王文化有限公司"
+    },
+    {
+      "name": "浙江越王珠宝有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司（已划转至北京越王）",
+      "quote": "浙江越王、越王珠宝 指 浙江越王珠宝有限公司"
+    },
+    {
+      "name": "江苏海金盈泰文化发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司（已划转至北京越王）",
+      "quote": "海金盈泰 指 江苏海金盈泰文化发展有限公司"
+    },
+    {
+      "name": "上海黄金交易所",
+      "relation_type": "supplier",
+      "business_details": "黄金原料采购渠道",
+      "quote": "上海黄金交易所 197,709,284.24 58.95%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "珠宝行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "444,823,702.50",
+      "revenue_proportion": "50.70%",
+      "gross_margin": "29.74%",
+      "yoy_change": "19.34%",
+      "quote": "珠宝行业 444,823,702.50 50.70%"
+    },
+    {
+      "name": "软件与信息技术服务业",
+      "segment_type": "business_unit",
+      "revenue_amount": "432,561,382.43",
+      "revenue_proportion": "49.30%",
+      "gross_margin": "40.75%",
+      "yoy_change": "100.00%",
+      "quote": "软件与信息技术服务业 432,561,382.43 49.30%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "397,894,527.45",
+      "revenue_proportion": "45.35%",
+      "gross_margin": "30.72%",
+      "yoy_change": "28.85%",
+      "quote": "华东 397,894,527.45 45.35%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "257,946,381.85",
+      "revenue_proportion": "29.40%",
+      "gross_margin": "38.97%",
+      "yoy_change": "556.31%",
+      "quote": "华北 257,946,381.85 29.40%"
+    },
+    {
+      "name": "零售（珠宝行业）",
+      "segment_type": "sales_channel",
+      "revenue_amount": "444,747,718.43",
+      "revenue_proportion": "50.69%",
+      "gross_margin": "29.74%",
+      "yoy_change": "22.05%",
+      "quote": "珠宝行业-零售 444,747,718.43 50.69%"
+    },
+    {
+      "name": "银行客户（软件与信息技术服务业）",
+      "segment_type": "customer_type",
+      "revenue_amount": "398,055,781.54",
+      "revenue_proportion": "45.37%",
+      "gross_margin": "38.75%",
+      "yoy_change": "100.00%",
+      "quote": "软件与信息技术服务业-银行客户 398,055,781.54 45.37%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "珠宝行业",
+      "metric_type": "production_volume",
+      "value": "110,391件",
+      "period": "2025年",
+      "quote": "生产量 件 110,391"
+    },
+    {
+      "product": "珠宝行业",
+      "metric_type": "sales_volume",
+      "value": "121,443件",
+      "period": "2025年",
+      "quote": "销售量 件 121,443"
+    },
+    {
+      "product": "珠宝行业",
+      "metric_type": "inventory_volume",
+      "value": "490,942件",
+      "period": "2025年末",
+      "quote": "库存量 件 490,942"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购北京开科唯识技术股份有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "412,398,605.00元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "以交易对价412,398,605元收购43.18%开科唯识股份"
+    },
+    {
+      "name": "设立北京越王文化有限公司",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "30,000,000.00元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "北京越王文化有限公司 投资金额 30,000,000.00 持股比例 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "基于分布式架构的系统调度与一致性保障技术",
+      "asset_type": "core_technology",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": null,
+      "quote": "开科唯识自主研发了基于分布式架构的系统调度与一致性保障技术"
+    },
+    {
+      "name": "大规模批量数据的快速处理技术",
+      "asset_type": "core_technology",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": null,
+      "quote": "大规模批量数据的快速处理技术"
+    },
+    {
+      "name": "海量实时数据的快速处理技术",
+      "asset_type": "core_technology",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": null,
+      "quote": "海量实时数据的快速处理技术"
+    },
+    {
+      "name": "量化金融市场计算技术",
+      "asset_type": "core_technology",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": null,
+      "quote": "量化金融市场计算技术"
+    },
+    {
+      "name": "金融指标实时计算技术",
+      "asset_type": "core_technology",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": null,
+      "quote": "金融指标实时计算"
+    },
+    {
+      "name": "基于人工智能的金融模型开发、训练及测试技术",
+      "asset_type": "core_technology",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": null,
+      "quote": "基于人工智能的金融模型开发、训练及测试技术"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": "25项",
+      "quote": "截止2025年12月31日，开科唯识已取得25项专利"
+    },
+    {
+      "name": "计算机软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": "180余项",
+      "quote": "拥有180余项计算机软件著作权"
+    },
+    {
+      "name": "CMMI5级认证",
+      "asset_type": "certification",
+      "related_product": "软件与信息技术服务",
+      "quantitative_info": null,
+      "quote": "CMMI5级认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "197,094,032.01元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 197,094,032.01 前五名客户合计销售金额占年度销售总额比例 22.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "243,514,918.62元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 243,514,918.62 前五名供应商合计采购金额占年度采购总额比例 72.60%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "197,709,284.24元（占比58.95%）",
+      "related_entity": "上海黄金交易所",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 上海黄金交易所 197,709,284.24 58.95%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "国际金价的剧烈波动对公司的经营成本产生一定影响，金价持续维持高位震荡会直接拉高进货成本，或导致门店备货资金压力增加；同时黄金价格在短期内的大幅波动也可能对黄金珠宝的短期市场需求产生影响。",
+      "related_entity": null,
+      "related_product": "黄金珠宝产品",
+      "quote": "1、金价大幅波动风险 ... 国际黄金价格的剧烈波动对公司的经营成本产生一定影响"
+    },
+    {
+      "risk_type": "other",
+      "description": "无论是黄金珠宝业务还是软件及信息技术服务业务，均有一定的季节性。公司珠宝板块在春节、婚庆、节日是旺季；开科唯识客户主要是以银行为主的金融机构，该类客户对业务系统采购一般都实施严格的预算管理，下半年则陆续开展对供应商开发的业务系统进行测试、验收、回款等工作。因此，公司经营业绩及现金流情况存在季节性波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、业务的周期性风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "黄金珠宝各企业在内地品牌、港资品牌及外资品牌相互竞争的环境下，竞争同质化现象比较突出。软件与信息技术业务方面，国内金融机构对金融科技的投入规模整体呈现增速放缓，加之原有竞争对手竞争力的提升，可能导致公司子公司开科唯识所处行业竞争存在进一步加剧风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、市场竞争风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "黄金珠宝零售业务消费者审美与消费习惯快速变化，新技术、新模式应用落地难度大、回报周期长，具有一定的创新风险。软件与信息技术服务业具有技术更新快、政策响应要求高、产品附加值高等突出特点。不能确保在新技术、新产品的研发上长期保持领先地位，或者现有技术、产品被行业新技术、新产品所替代，从而给公司产品的市场竞争力带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、创新风险与技术风险"
+    }
+  ]
+}

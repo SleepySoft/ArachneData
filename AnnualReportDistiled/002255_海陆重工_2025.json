@@ -1,0 +1,426 @@
+{
+  "company_name_mentioned": "苏州海陆重工股份有限公司",
+  "produces": [
+    {
+      "name": "工业余热锅炉",
+      "type": "device",
+      "revenue_proportion": "40.11%",
+      "quote": "公司产品“高温高压自然循环干熄焦余热锅炉”...公司是国家干熄焦余热锅炉国家标准的起草、制定单位之一...分产品锅炉及相关配套产品931,481,812.54元，占营业收入比重40.11%"
+    },
+    {
+      "name": "大型及特种材质压力容器",
+      "type": "device",
+      "revenue_proportion": "28.22%",
+      "quote": "公司生产的大型及特种材质压力容器，主要用于煤化工、石油化工、精细化工、环保工程等领域...分产品压力容器产品655,323,439.35元，占营业收入比重28.22%"
+    },
+    {
+      "name": "核安全设备",
+      "type": "device",
+      "revenue_proportion": "13.90%",
+      "quote": "公司核安全设备包括：真空室冷屏、安注箱、堆内构件吊篮筒体、高温气冷堆金属堆芯支承...产品主要用于国内外核能发电、医用同位素生产及新技术研发项目等...分产品核电产品322,805,125.28元，占营业收入比重13.90%"
+    },
+    {
+      "name": "环境综合治理服务",
+      "type": "service",
+      "revenue_proportion": "5.85%",
+      "quote": "公司全资子公司格锐环境主要从事废水、废气处理及环保工程建设等环境综合治理服务...分产品环保工程服务135,836,311.27元，占营业收入比重5.85%"
+    },
+    {
+      "name": "光伏电站运营服务",
+      "type": "service",
+      "revenue_proportion": "5.93%",
+      "quote": "公司全资子公司张家港海陆新能源有限公司主营业务为光伏电站运营，主要产品为电...分产品新能源电力销售137,662,013.99元，占营业收入比重5.93%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "工业余热锅炉、大型及特种材质压力容器、核安全设备等",
+      "cost_proportion": "83.47%",
+      "quote": "工业制造成本中原材料1,144,417,741.38元，占营业成本比重83.47%"
+    },
+    {
+      "name": "钢板",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "钢板、合金钢、钢管、锻件等是公司产品生产的核心原材料，占生产成本比重较高。"
+    },
+    {
+      "name": "合金钢",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "钢板、合金钢、钢管、锻件等是公司产品生产的核心原材料，占生产成本比重较高。"
+    },
+    {
+      "name": "钢管",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "钢板、合金钢、钢管、锻件等是公司产品生产的核心原材料，占生产成本比重较高。"
+    },
+    {
+      "name": "锻件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "钢板、合金钢、钢管、锻件等是公司产品生产的核心原材料，占生产成本比重较高。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "钢铁行业",
+      "source_product": "工业余热锅炉",
+      "quote": "产品覆盖钢铁、有色、焦化、建材、石化、化工、造纸、电力等各个应用领域。"
+    },
+    {
+      "name": "有色行业",
+      "source_product": "工业余热锅炉",
+      "quote": "产品覆盖钢铁、有色、焦化、建材、石化、化工、造纸、电力等各个应用领域。"
+    },
+    {
+      "name": "焦化行业",
+      "source_product": "工业余热锅炉",
+      "quote": "产品覆盖钢铁、有色、焦化、建材、石化、化工、造纸、电力等各个应用领域。"
+    },
+    {
+      "name": "石化行业",
+      "source_product": "大型及特种材质压力容器、工业余热锅炉",
+      "quote": "公司生产的大型及特种材质压力容器，主要用于煤化工、石油化工、精细化工、环保工程等领域。产品覆盖钢铁、有色、焦化、建材、石化、化工、造纸、电力等各个应用领域。"
+    },
+    {
+      "name": "化工行业",
+      "source_product": "大型及特种材质压力容器、工业余热锅炉",
+      "quote": "公司生产的大型及特种材质压力容器，主要用于煤化工、石油化工、精细化工、环保工程等领域。产品覆盖钢铁、有色、焦化、建材、石化、化工、造纸、电力等各个应用领域。"
+    },
+    {
+      "name": "电力行业",
+      "source_product": "工业余热锅炉",
+      "quote": "产品覆盖钢铁、有色、焦化、建材、石化、化工、造纸、电力等各个应用领域。"
+    },
+    {
+      "name": "核能发电",
+      "source_product": "核安全设备",
+      "quote": "产品主要用于国内外核能发电、医用同位素生产及新技术研发项目等。"
+    },
+    {
+      "name": "环保工程",
+      "source_product": "环境综合治理服务",
+      "quote": "格锐环境主要从事污水处理、环保工程等业务。"
+    },
+    {
+      "name": "光伏发电",
+      "source_product": "光伏电站运营服务",
+      "quote": "公司全资子公司张家港海陆新能源有限公司主营业务为光伏电站运营，主要产品为电。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐元生",
+      "role": "董事长、法定代表人、实际控制人",
+      "quote": "公司负责人徐元生...公司法定代表人徐元生...控股股东、实际控制人徐元生...现任公司董事长。"
+    },
+    {
+      "name": "徐冉",
+      "role": "总经理、实际控制人一致行动人",
+      "quote": "徐冉...现任公司总经理。徐元生之子。"
+    },
+    {
+      "name": "张卫兵",
+      "role": "董事",
+      "quote": "张卫兵...现任公司董事。"
+    },
+    {
+      "name": "张展宇",
+      "role": "董事",
+      "quote": "张展宇...现任公司董事。"
+    },
+    {
+      "name": "邹雪峰",
+      "role": "职工代表董事",
+      "quote": "邹雪峰...现任公司职工代表董事。"
+    },
+    {
+      "name": "顾建平",
+      "role": "独立董事",
+      "quote": "顾建平...独立董事。"
+    },
+    {
+      "name": "管亚梅",
+      "role": "独立董事",
+      "quote": "管亚梅...独立董事。"
+    },
+    {
+      "name": "钱坤",
+      "role": "独立董事",
+      "quote": "钱坤...独立董事。"
+    },
+    {
+      "name": "张郭一",
+      "role": "董事会秘书",
+      "quote": "张郭一...现任公司董事会秘书。"
+    },
+    {
+      "name": "黄淑英",
+      "role": "财务负责人",
+      "quote": "黄淑英...现任公司财务负责人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "张家港市格锐环境工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事废水、废气处理及环保工程建设等环境综合治理服务。",
+      "quote": "2015年，公司发行股份及支付现金购买了张家港市格锐环境工程有限公司100%股权，格锐环境主营业务为废水、危废等污染物处理及回收利用的环境综合治理服务。"
+    },
+    {
+      "name": "张家港海陆新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营业务为光伏电站运营。",
+      "quote": "2016年，公司成立张家港海陆新能源有限公司，主营业务为光伏电站运营。"
+    },
+    {
+      "name": "杭州海陆重工有限公司",
+      "relation_type": "customer",
+      "business_details": "关联参股公司，向其采购原材料及销售产品。",
+      "quote": "关联参股公司杭州海陆...向关联人采购原材料714.67万元...向关联人销售产品479.30万元。"
+    },
+    {
+      "name": "张家港华兴合力能源有限公司",
+      "relation_type": "customer",
+      "business_details": "关联参股公司，向其销售蒸汽及商品，采购蒸汽。",
+      "quote": "关联参股公司张家港华兴合力能源有限公司...向关联人销售产品142.77万元...向关联人采购蒸汽29.31万元。"
+    },
+    {
+      "name": "江苏中科海陆工程科技有限公司",
+      "relation_type": "customer",
+      "business_details": "关联参股公司，向其销售产品、提供劳务。",
+      "quote": "关联参股公司江苏中科海陆工程科技有限公司...向关联人销售产品0元...接受关联人提供的劳务77.43万元。"
+    },
+    {
+      "name": "浙江海陆众领智慧能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原参股公司，报告期内通过减资及股权转让不再纳入合并报表范围。",
+      "quote": "2025年9月至10月，公司对浙江海陆众领智慧能源科技有限公司实施非同比例减资并转让股权...转让完成后，公司仍持有浙江海陆众领智慧能源科技有限公司11.7647%股权。"
+    },
+    {
+      "name": "Raschka Holding AG",
+      "relation_type": "subsidiary",
+      "business_details": "原参股公司，报告期内转让部分股权后不再纳入合并报表范围。",
+      "quote": "2025年6月，公司将持有的Raschka Holding AG 6%股权以人民币563.16万元的价格转让...转让完成后，公司仍持有Raschka Holding AG 45.00%股权。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,909,610,377.17元",
+      "revenue_proportion": "82.23%",
+      "gross_margin": "28.21%",
+      "yoy_change": "-18.82%",
+      "quote": "分行业工业制造1,909,610,377.17元，占营业收入比重82.23%...毛利率28.21%...营业收入比上年同期增减-18.82%"
+    },
+    {
+      "name": "环保工程服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "135,836,311.27元",
+      "revenue_proportion": "5.85%",
+      "gross_margin": null,
+      "yoy_change": "-28.79%",
+      "quote": "分产品环保工程服务135,836,311.27元，占营业收入比重5.85%...同比增减-28.79%"
+    },
+    {
+      "name": "环保运营",
+      "segment_type": "business_unit",
+      "revenue_amount": "88,466,500.83元",
+      "revenue_proportion": "3.81%",
+      "gross_margin": null,
+      "yoy_change": "-13.83%",
+      "quote": "分行业环保运营88,466,500.83元，占营业收入比重3.81%...同比增减-13.83%"
+    },
+    {
+      "name": "新能源业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "137,662,013.99元",
+      "revenue_proportion": "5.93%",
+      "gross_margin": "59.40%",
+      "yoy_change": "35.93%",
+      "quote": "分行业新能源业务137,662,013.99元，占营业收入比重5.93%...毛利率59.40%...营业收入比上年同期增减35.93%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "2,185,152,541.03元",
+      "revenue_proportion": "94.10%",
+      "gross_margin": "30.45%",
+      "yoy_change": "-15.13%",
+      "quote": "分地区境内销售2,185,152,541.03元，占营业收入比重94.10%...毛利率30.45%...营业收入比上年同期增减-15.13%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "137,074,722.93元",
+      "revenue_proportion": "5.90%",
+      "gross_margin": null,
+      "yoy_change": "-35.92%",
+      "quote": "分地区境外销售137,074,722.93元，占营业收入比重5.90%...同比增减-35.92%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工业制造（主要涉及锅炉、压力容器、核电产品）",
+      "metric_type": "sales_volume",
+      "value": "1,370,975,947.51元",
+      "period": "2025年",
+      "quote": "工业制造销售量1,370,975,947.51元"
+    },
+    {
+      "product": "工业制造（主要涉及锅炉、压力容器、核电产品）",
+      "metric_type": "production_volume",
+      "value": "1,308,365,390.07元",
+      "period": "2025年",
+      "quote": "工业制造生产量1,308,365,390.07元"
+    },
+    {
+      "product": "工业制造（主要涉及锅炉、压力容器、核电产品）",
+      "metric_type": "inventory_volume",
+      "value": "83,961,281.84元",
+      "period": "2025年",
+      "quote": "工业制造库存量83,961,281.84元"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "第四代核电装备项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "360,000,000.00元",
+      "designed_capacity": "年产12套金属堆芯支承",
+      "progress": "0.00%",
+      "expected_completion_time": null,
+      "quote": "第四代核电装备项目，投资总额360,000,000.00元，资金来源为自有资金，截至报告期末累计实际投入金额0.00元，项目进度0.00%。2026年3月11日，已签署《国有建设用地使用权出让合同》。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "干熄焦余热锅炉技术",
+      "asset_type": "core_technology",
+      "related_product": "工业余热锅炉",
+      "quantitative_info": null,
+      "quote": "产品“高温高压自然循环干熄焦余热锅炉”获国家科技进步二等奖、国家冶金科学技术一等奖、国家重点新产品，并被列为国家863计划、国家火炬计划项目。"
+    },
+    {
+      "name": "核电吊篮筒体制造技术",
+      "asset_type": "core_technology",
+      "related_product": "核安全设备",
+      "quantitative_info": null,
+      "quote": "公司为上海第一机床厂加工的堆内构件吊篮筒体，是制造核反应堆的心脏设备，该产品的成功研发与生产，替代了一直依赖国外进口的状态，填补了国内空白，达到了国际先进水平。"
+    },
+    {
+      "name": "有效专利（母公司）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "181项，其中71项发明专利",
+      "quote": "截至本年度报告披露日，母公司累计取得有效专利181项，其中71项发明专利。"
+    },
+    {
+      "name": "有效专利（格锐环境）",
+      "asset_type": "patent",
+      "related_product": "环保服务",
+      "quantitative_info": "102项，其中20项发明专利",
+      "quote": "全资子公司格锐环境累计取得有效专利102项，其中20项发明专利。"
+    },
+    {
+      "name": "核安全设备相关专利",
+      "asset_type": "patent",
+      "related_product": "核安全设备",
+      "quantitative_info": "20项（发明专利13项，实用新型专利7项）",
+      "quote": "截至到本年度报告披露日，公司核安全设备相关的专利共20项（发明专利13项，实用新型专利7项）。"
+    },
+    {
+      "name": "民用核安全设备制造许可证（2、3级）",
+      "asset_type": "certification",
+      "related_product": "核安全设备",
+      "quantitative_info": null,
+      "quote": "公司拥有A级锅炉、A1级和A3级压力容器设计和制造许可证，以及民用核安全设备制造许可证（2、3级）。"
+    },
+    {
+      "name": "A1、A3级压力容器设计和制造许可证",
+      "asset_type": "certification",
+      "related_product": "大型及特种材质压力容器",
+      "quantitative_info": null,
+      "quote": "公司拥有A级锅炉、A1级和A3级压力容器设计和制造许可证。"
+    },
+    {
+      "name": "美国机械工程师协会（ASME）授权证书",
+      "asset_type": "certification",
+      "related_product": "锅炉、压力容器",
+      "quantitative_info": null,
+      "quote": "公司还获得了美国机械工程师协会（ASME）颁发的'S'、'U'、'U2'钢印和授权证书。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "803,531,913.23元，占比34.60%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额803,531,913.23元，前五名客户合计销售金额占年度销售总额比例34.60%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "349,065,098.43元，占比15.03%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "序号1 客户一 销售额349,065,098.43元 占年度销售总额比例15.03%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "220,422,151.04元，占比14.40%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额220,422,151.04元，前五名供应商合计采购金额占年度采购总额比例14.40%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "61,244,252.21元，占比4.00%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "序号1 供应商一 采购额61,244,252.21元 占年度采购总额比例4.00%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司主营制造产品所处行业市场化程度较高，行业竞争格局日趋激烈，叠加行业整体产能持续扩张，市场供需关系面临调整。在此背景下，公司可能面临市场份额挤压、产品毛利率下行的经营压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险 公司主营制造产品所处行业市场化程度较高，行业竞争格局日趋激烈，叠加行业整体产能持续扩张，市场供需关系面临调整。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "钢板、合金钢、钢管、锻件等是公司产品生产的核心原材料，占生产成本比重较高。原材料市场价格易受宏观经济、供需关系、大宗商品行情等多重因素影响，生产周期内价格可能发生较大变化，直接影响公司生产成本控制与整体盈利水平。",
+      "related_entity": null,
+      "related_product": "工业余热锅炉、压力容器等",
+      "quote": "原材料价格波动风险 钢板、合金钢、钢管、锻件等是公司产品生产的核心原材料，占生产成本比重较高。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "当前国内外宏观经济形势错综复杂，下游各行业市场需求波动加剧，存在各类不确定、不稳定因素，势必会对公司整体生产规划、产品销售及业务拓展造成一定影响，进而波及公司经营业绩的稳定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济风险 当前国内外宏观经济形势错综复杂，下游各行业市场需求波动加剧，存在各类不确定、不稳定因素。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司产品采用“以销定产”的定制化生产模式，合同款项多采取分期付款方式结算，履约周期较长。实操过程中，若出现交货进度延迟、客户资金调度不畅、经营状况变动等情况，仍可能导致应收账款回收周期拉长，甚至引发呆账、坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "应收账款发生呆账的风险 公司产品采用“以销定产”的定制化生产模式，合同款项多采取分期付款方式结算，履约周期较长。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司重大资产重组并购标的宁夏江南集成科技有限公司业绩承诺方未完成业绩承诺，应支付的补偿存在无法收回的风险。业绩承诺方之一吴卫文在交易中获取的全部股份已被质押且本人已被羁押，业绩承诺方之一聚宝行在交易中获取的全部股份被公司首轮冻结，股权转让合同纠纷一案暂时中止。",
+      "related_entity": "吴卫文、聚宝行控股集团有限公司",
+      "related_product": null,
+      "quote": "2017年，公司发行股份及支付现金购买了宁夏江南集成科技有限公司83.6%股权。三年业绩承诺期满，江南集成实际经营业绩远未达承诺。目前，业绩承诺方之一吴卫文在交易中获取的全部股份已被质押，业绩承诺方之一聚宝行在交易中获取的全部股份被公司首轮冻结，上述股权转让合同纠纷一案暂时中止，公司业绩补偿存在无法收回的风险。"
+    }
+  ]
+}

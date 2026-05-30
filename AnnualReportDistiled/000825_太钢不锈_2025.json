@@ -1,0 +1,532 @@
+{
+  "company_name_mentioned": "山西太钢不锈钢股份有限公司",
+  "produces": [
+    {
+      "name": "不锈钢材",
+      "type": "material",
+      "revenue_proportion": "68.50%",
+      "quote": "不锈钢材 61,911,004,789.00 68.50%"
+    },
+    {
+      "name": "普通钢材",
+      "type": "material",
+      "revenue_proportion": "24.09%",
+      "quote": "普通钢材 21,770,819,957.92 24.09%"
+    },
+    {
+      "name": "普碳钢坯",
+      "type": "material",
+      "revenue_proportion": "5.21%",
+      "quote": "普碳钢坯 4,711,448,539.42 5.21%"
+    },
+    {
+      "name": "风水电气等其他商品",
+      "type": "service",
+      "revenue_proportion": "2.06%",
+      "quote": "风水电气等其他商品 1,857,697,237.97 2.06%"
+    },
+    {
+      "name": "冷轧硅钢",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要产品有不锈钢、冷轧硅钢、碳钢热轧卷板、火车轮轴钢、合金模具钢等。"
+    },
+    {
+      "name": "碳钢热轧卷板",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要产品有不锈钢、冷轧硅钢、碳钢热轧卷板、火车轮轴钢、合金模具钢等。"
+    },
+    {
+      "name": "火车轮轴钢",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要产品有不锈钢、冷轧硅钢、碳钢热轧卷板、火车轮轴钢、合金模具钢等。"
+    },
+    {
+      "name": "合金模具钢",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要产品有不锈钢、冷轧硅钢、碳钢热轧卷板、火车轮轴钢、合金模具钢等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原辅材料",
+      "target_product": "不锈钢材",
+      "cost_proportion": "56.07%",
+      "quote": "原辅材料 49,710,585,235.84 56.07%"
+    },
+    {
+      "name": "原辅材料",
+      "target_product": "普通钢材",
+      "cost_proportion": "17.89%",
+      "quote": "原辅材料 15,863,278,433.40 17.89%"
+    },
+    {
+      "name": "原辅材料",
+      "target_product": "普碳钢坯",
+      "cost_proportion": "3.31%",
+      "quote": "原辅材料 2,938,190,326.65 3.31%"
+    },
+    {
+      "name": "能源动力",
+      "target_product": "不锈钢材",
+      "cost_proportion": "8.30%",
+      "quote": "能源动力 7,358,423,459.28 8.30%"
+    },
+    {
+      "name": "能源动力",
+      "target_product": "普通钢材",
+      "cost_proportion": "4.20%",
+      "quote": "能源动力 3,724,937,285.54 4.20%"
+    },
+    {
+      "name": "能源动力",
+      "target_product": "普碳钢坯",
+      "cost_proportion": "1.23%",
+      "quote": "能源动力 1,088,504,764.14 1.23%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "石油化工",
+      "source_product": "不锈钢、镍基合金产品",
+      "quote": "一大批高精尖特产品广泛应用于航空航天、能源电站、交通运输和高端装备等领域...针对石油化工行业苛刻服役环境用材需求，开发相关镍基合金产品"
+    },
+    {
+      "name": "造船",
+      "source_product": "不锈钢",
+      "quote": "重点产品批量应用于石油、化工、造船、集装箱、铁路、汽车、城市轻轨、大型电站等重点领域"
+    },
+    {
+      "name": "集装箱",
+      "source_product": "不锈钢",
+      "quote": "重点产品批量应用于石油、化工、造船、集装箱、铁路、汽车、城市轻轨、大型电站等重点领域"
+    },
+    {
+      "name": "铁路",
+      "source_product": "火车轮轴钢、铁路客货车用钢",
+      "quote": "铁路客货车用钢、火车轮轴钢市场占有率国内第一"
+    },
+    {
+      "name": "汽车",
+      "source_product": "不锈钢、高牌号硅钢",
+      "quote": "重点产品批量应用于...汽车、城市轻轨...新能源汽车用高牌号硅钢"
+    },
+    {
+      "name": "城市轻轨",
+      "source_product": "不锈钢",
+      "quote": "重点产品批量应用于...城市轻轨、大型电站等重点领域"
+    },
+    {
+      "name": "大型电站（水电）",
+      "source_product": "磁轭钢、超级马氏体不锈钢",
+      "quote": "针对水电行业发展趋势...开发出高转速抽水蓄能机组用高等级级磁轭钢...超级马氏体不锈钢特厚板主要用于制作水电站转轮室中的导叶、尾板等部件"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "航空航天级不锈钢",
+      "quote": "航空航天级不锈钢用于国内首个10米级大直径不锈钢贮箱制造"
+    },
+    {
+      "name": "能源装备（LNG储罐）",
+      "source_product": "304LG冷轧不锈钢板、LNG运输船/陆地罐专用不锈钢",
+      "quote": "304LG冷轧不锈钢板用于国内首个MARK III型薄膜技术陆地储罐；薄膜型LNG运输船/陆地罐用不锈钢"
+    },
+    {
+      "name": "新能源（光伏）",
+      "source_product": "铁镍基合金（多晶硅用）",
+      "quote": "开发光电转换关键材料多晶硅用铁镍基合金，满足光伏行业核心装备技术要求"
+    },
+    {
+      "name": "电子芯片",
+      "source_product": "镍基精密膨胀合金",
+      "quote": "开发多种镍基精密膨胀合金，替代进口，满足我国航空事业和电子芯片行业的特殊需求"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴小弟",
+      "role": "董事长",
+      "quote": "公司负责人吴小弟...2025年01月17日 2028年12月19日 董事长"
+    },
+    {
+      "name": "李华",
+      "role": "副董事长",
+      "quote": "李华 男 53 副董事长 现任"
+    },
+    {
+      "name": "尚佳君",
+      "role": "董事、总经理、主管会计工作负责人",
+      "quote": "尚佳君 男 51 董事、总经理 现任"
+    },
+    {
+      "name": "张志君",
+      "role": "董事会秘书、会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）张志君...张志君 女 51 董事会秘书 现任"
+    },
+    {
+      "name": "南海",
+      "role": "董事、副总经理",
+      "quote": "南海 男 54 董事、副总经理 现任"
+    },
+    {
+      "name": "王清洁",
+      "role": "董事",
+      "quote": "王清洁 男 58 董事 现任"
+    },
+    {
+      "name": "牛国栋",
+      "role": "职工董事",
+      "quote": "牛国栋 男 50 职工董事 现任"
+    },
+    {
+      "name": "刘新权",
+      "role": "独立董事",
+      "quote": "刘新权 男 71 独立董事 现任"
+    },
+    {
+      "name": "汪建华",
+      "role": "独立董事",
+      "quote": "汪建华 男 52 独立董事 现任"
+    },
+    {
+      "name": "王东升",
+      "role": "独立董事",
+      "quote": "王东升 男 55 独立董事 现任"
+    },
+    {
+      "name": "张其生",
+      "role": "独立董事",
+      "quote": "张其生 男 59 独立董事 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "太原钢铁（集团）有限公司",
+      "relation_type": "supplier",
+      "business_details": "控股股东，提供原料、能源介质、综合服务、土地租赁等",
+      "quote": "太钢集团 指 太原钢铁（集团）有限公司...采购商品/接受劳务 原料 协议价 777,165.12"
+    },
+    {
+      "name": "中国宝武钢铁集团有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东，实际控制人",
+      "quote": "中国宝武、宝武集团 指 中国宝武钢铁集团有限公司...实际控制人"
+    },
+    {
+      "name": "山东太钢鑫海不锈钢有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产基地之一",
+      "quote": "太钢鑫海公司 指 山东太钢鑫海不锈钢有限公司...公司拥有太原本部、太钢鑫海公司、天津天管公司三大生产基地"
+    },
+    {
+      "name": "天津太钢天管不锈钢有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产基地之一",
+      "quote": "天津天管公司 指 天津太钢天管不锈钢有限公司...公司拥有太原本部、太钢鑫海公司、天津天管公司三大生产基地"
+    },
+    {
+      "name": "宁波宝新不锈钢有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "受托管理，解决同业竞争",
+      "quote": "宁波宝新 指 宁波宝新不锈钢有限公司...受托管理宁波宝新不锈钢有限公司...公司与太钢集团签署《委托管理协议》，由太钢不锈受托管理太钢集团持有的宁波宝新73.97%股权"
+    },
+    {
+      "name": "宝武集团财务有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，提供存款、贷款等金融服务",
+      "quote": "宝武财务公司 指 宝武集团财务有限责任公司...存款业务、贷款业务"
+    },
+    {
+      "name": "太重轨道公司",
+      "relation_type": "customer",
+      "business_details": "联营公司，销售钢材",
+      "quote": "太重轨道公司 指 太原重工轨道交通设备有限公司...联营公司"
+    },
+    {
+      "name": "太钢集团临汾钢铁有限公司",
+      "relation_type": "supplier",
+      "business_details": "租赁其生产线资产",
+      "quote": "临钢公司 指 太钢集团临汾钢铁有限公司...临汾中厚板公司租入临钢公司下属中板生产线所有在用设备、房屋和各类构筑物以及其他相关资产"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "冶金钢铁行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "90,375,497,603.88",
+      "revenue_proportion": "100%",
+      "gross_margin": "1.90%",
+      "yoy_change": "-9.97%",
+      "quote": "分行业 冶金钢铁行业 90,375,497,603.88 100%"
+    },
+    {
+      "name": "不锈钢材",
+      "segment_type": "product_line",
+      "revenue_amount": "61,911,004,789.00",
+      "revenue_proportion": "68.50%",
+      "gross_margin": "1.84%",
+      "yoy_change": "-11.55%",
+      "quote": "不锈钢材 61,911,004,789.00 68.50%"
+    },
+    {
+      "name": "普通钢材",
+      "segment_type": "product_line",
+      "revenue_amount": "21,770,819,957.92",
+      "revenue_proportion": "24.09%",
+      "gross_margin": "1.68%",
+      "yoy_change": "-9.54%",
+      "quote": "普通钢材 21,770,819,957.92 24.09%"
+    },
+    {
+      "name": "普碳钢坯",
+      "segment_type": "product_line",
+      "revenue_amount": "4,711,448,539.42",
+      "revenue_proportion": "5.21%",
+      "gross_margin": "3.33%",
+      "yoy_change": "13.37%",
+      "quote": "普碳钢坯 4,711,448,539.42 5.21%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "5,288,056,096.92",
+      "revenue_proportion": "5.85%",
+      "gross_margin": "2.94%",
+      "yoy_change": "-16.87%",
+      "quote": "国外 5,288,056,096.92 5.85%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "85,087,441,506.96",
+      "revenue_proportion": "94.15%",
+      "gross_margin": "1.83%",
+      "yoy_change": "-9.50%",
+      "quote": "国内 85,087,441,506.96 94.15%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "46,859,695,507.61",
+      "revenue_proportion": "51.85%",
+      "gross_margin": "2.39%",
+      "yoy_change": "-40.76%",
+      "quote": "直销 46,859,695,507.61 51.85%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "43,515,802,096.27",
+      "revenue_proportion": "48.15%",
+      "gross_margin": "1.37%",
+      "yoy_change": "104.49%",
+      "quote": "经销 43,515,802,096.27 48.15%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "不锈钢",
+      "metric_type": "production_volume",
+      "value": "528.41 万吨",
+      "period": "2025年",
+      "quote": "不锈钢 生产量 万吨 528.41"
+    },
+    {
+      "product": "不锈钢",
+      "metric_type": "sales_volume",
+      "value": "529.96 万吨",
+      "period": "2025年",
+      "quote": "不锈钢 销售量 万吨 529.96"
+    },
+    {
+      "product": "不锈钢",
+      "metric_type": "inventory_volume",
+      "value": "11.71 万吨",
+      "period": "2025年末",
+      "quote": "不锈钢 库存量 万吨 11.71"
+    },
+    {
+      "product": "碳钢",
+      "metric_type": "production_volume",
+      "value": "750.21 万吨",
+      "period": "2025年",
+      "quote": "碳钢 生产量 万吨 750.21"
+    },
+    {
+      "product": "碳钢",
+      "metric_type": "sales_volume",
+      "value": "748.86 万吨",
+      "period": "2025年",
+      "quote": "碳钢 销售量 万吨 748.86"
+    },
+    {
+      "product": "碳钢",
+      "metric_type": "inventory_volume",
+      "value": "5.59 万吨",
+      "period": "2025年末",
+      "quote": "碳钢 库存量 万吨 5.59"
+    },
+    {
+      "product": "钢铁",
+      "metric_type": "other",
+      "value": "全年产钢1349.29万吨，其中不锈钢 560.81 万吨；全年钢材销量 1278.82 万吨，其中不锈材 529.96 万吨；出口钢材 96.65万吨，其中不锈材26.79万吨。",
+      "period": "2025年",
+      "quote": "2025年，公司全年产钢1349.29万吨，其中不锈钢 560.81 万吨；全年钢材销量 1278.82 万吨，其中不锈材 529.96 万吨；出口钢材 96.65万吨，其中不锈材26.79万吨。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "太钢鑫海162万吨高端不锈钢合金材料工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "2,500,729,575.07元（累计）",
+      "designed_capacity": null,
+      "progress": "97.70%",
+      "expected_completion_time": null,
+      "quote": "太钢鑫海162万吨高端不锈钢合金材料工程...本报告期投入金额 74,768,519.43...累计投入金额 2,500,729,575.07...项目进度 97.70%"
+    },
+    {
+      "name": "高端冷轧取向硅钢工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "2,370,189,974.19元（累计）",
+      "designed_capacity": null,
+      "progress": "89.99%",
+      "expected_completion_time": null,
+      "quote": "高端冷轧取向硅钢工程...本报告期投入金额 486,986,753.05...累计投入金额 2,370,189,974.19...项目进度 89.99%"
+    },
+    {
+      "name": "太钢鑫海热轧项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,595,630,865.48元（累计）",
+      "designed_capacity": null,
+      "progress": "89.92%",
+      "expected_completion_time": null,
+      "quote": "太钢鑫海热轧项目...本报告期投入金额 22,457,129.95...累计投入金额 1,595,630,865.48...项目进度 89.92%"
+    },
+    {
+      "name": "太钢鑫海热酸退项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "806,885,514.23元（累计）",
+      "designed_capacity": null,
+      "progress": "89.48%",
+      "expected_completion_time": null,
+      "quote": "太钢鑫海热酸退项目...本报告期投入金额 171,432,758.64...累计投入金额 806,885,514.23...项目进度 89.48%"
+    },
+    {
+      "name": "太钢2×300MW机组低碳节能综合利用升级改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "430,000,000.00元（累计）",
+      "designed_capacity": null,
+      "progress": "95.29%",
+      "expected_completion_time": null,
+      "quote": "太钢2×300MW机组低碳节能综合利用升级改造项目...本报告期投入金额 151,210,516.42...累计投入金额 430,000,000.00...项目进度 95.29%"
+    },
+    {
+      "name": "太钢不锈新建1780mm热连轧生产线项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "330,040,261.17元（累计）",
+      "designed_capacity": null,
+      "progress": "13.89%",
+      "expected_completion_time": null,
+      "quote": "太钢不锈新建1780mm热连轧生产线项目...本报告期投入金额 245,168,983.03...累计投入金额 330,040,261.17...项目进度 13.89%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "以不锈钢为主的具有自主知识产权的核心和专有技术",
+      "asset_type": "core_technology",
+      "related_product": "不锈钢、冷轧硅钢、高强韧系列钢材等",
+      "quantitative_info": "800多项",
+      "quote": "形成800多项以不锈钢为主的具有自主知识产权的核心和专有技术"
+    },
+    {
+      "name": "不锈钢板带类产品标准",
+      "asset_type": "standard",
+      "related_product": "不锈钢板带类产品",
+      "quantitative_info": "主持或参与完成我国超过70%的不锈钢板带类产品标准",
+      "quote": "主持或参与完成我国超过70%的不锈钢板带类产品标准"
+    },
+    {
+      "name": "软态不锈钢精密箔材（手撕钢）",
+      "asset_type": "other",
+      "related_product": "不锈钢精密箔材",
+      "quantitative_info": null,
+      "quote": "软态不锈钢精密箔材（手撕钢）、笔尖钢、高锰高氮不锈钢等新产品为我国关键材料的国产化发挥着重要作用"
+    },
+    {
+      "name": "笔尖钢",
+      "asset_type": "other",
+      "related_product": "笔尖钢",
+      "quantitative_info": null,
+      "quote": "软态不锈钢精密箔材（手撕钢）、笔尖钢、高锰高氮不锈钢等新产品为我国关键材料的国产化发挥着重要作用"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建有国家级企业技术中心、国家不锈钢产业计量测试中心等创新平台"
+    },
+    {
+      "name": "国家不锈钢产业计量测试中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建有国家级企业技术中心、国家不锈钢产业计量测试中心等创新平台"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "21.94%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 21.94%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "51.91%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 51.91%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前5大客户中公司2为本公司的关联方，上述销售数据中属于同一实际控制人控制的客户合并列示。",
+      "related_entity": "公司2（关联方）",
+      "period": "2025年",
+      "quote": "前5大客户中公司2为本公司的关联方，上述销售数据中属于同一实际控制人控制的客户合并列示。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前5名供应商中公司1为本公司的关联方，上述采购数据中属于同一实际控制人控制的供应商合并列示。",
+      "related_entity": "公司1（关联方）",
+      "period": "2025年",
+      "quote": "前5名供应商中公司1为本公司的关联方，上述采购数据中属于同一实际控制人控制的供应商合并列示。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "当前，钢铁行业供需结构性矛盾加剧，行业需求不足导致市场竞争异常激烈，不锈钢、特殊钢市场处于白热化竞争格局，产业链供应链也持续受到较大冲击，公司生产经营、生存发展面临巨大压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，钢铁行业供需结构性矛盾加剧，行业需求不足导致市场竞争异常激烈，不锈钢、特殊钢市场处于白热化竞争格局，产业链供应链也持续受到较大冲击，公司生产经营、生存发展面临巨大压力。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产经营、生存发展面临巨大压力。（隐含原材料成本压力）",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司生产经营、生存发展面临巨大压力。"
+    }
+  ]
+}

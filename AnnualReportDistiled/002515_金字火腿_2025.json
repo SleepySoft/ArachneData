@@ -1,0 +1,439 @@
+{
+  "company_name_mentioned": "金字火腿股份有限公司",
+  "produces": [
+    {
+      "name": "火腿",
+      "type": "material",
+      "revenue_proportion": "56.40%",
+      "quote": "分产品：火腿 178,753,944.16 56.40%"
+    },
+    {
+      "name": "特色肉制品",
+      "type": "material",
+      "revenue_proportion": "25.39%",
+      "quote": "分产品：特色肉制品 80,486,396.73 25.39%"
+    },
+    {
+      "name": "品牌肉",
+      "type": "material",
+      "revenue_proportion": "6.67%",
+      "quote": "分产品：品牌肉 21,124,994.76 6.67%"
+    },
+    {
+      "name": "冷链服务",
+      "type": "service",
+      "revenue_proportion": "7.44%",
+      "quote": "分产品：冷链服务 23,572,878.14 7.44%"
+    },
+    {
+      "name": "火腿制品",
+      "type": "material",
+      "revenue_proportion": "1.68%",
+      "quote": "分产品：火腿制品 5,333,784.14 1.68%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "猪肉相关部位（后腿、二号肉、四号肉、中方、六分体等）",
+      "target_product": "火腿、特色肉制品、品牌肉",
+      "cost_proportion": "70.95%（火腿肉制品行业直接材料占营业成本比重）",
+      "quote": "采购模式及采购内容：国内采购（由采购部门统一组织采购） 猪肉相关部位，如后腿、二号肉、四号肉、中方、六分体等 205,016,000.11；行业和产品分类：火腿肉制品行业 直接材料 168,011,467.75 70.95%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "餐饮",
+      "source_product": "火腿、特色肉制品",
+      "quote": "销售渠道：线下渠道则主要有餐饮、烘焙、食品加工、商超、流通、直营门店、团购客户等"
+    },
+    {
+      "name": "烘焙",
+      "source_product": "火腿、火腿馅料",
+      "quote": "销售渠道：线下渠道则主要有餐饮、烘焙、食品加工、商超、流通、直营门店、团购客户等"
+    },
+    {
+      "name": "食品加工",
+      "source_product": "火腿、火腿制品",
+      "quote": "销售渠道：线下渠道则主要有餐饮、烘焙、食品加工、商超、流通、直营门店、团购客户等"
+    },
+    {
+      "name": "商超",
+      "source_product": "火腿、特色肉制品、品牌肉",
+      "quote": "销售渠道：线下渠道则主要有餐饮、烘焙、食品加工、商超、流通、直营门店、团购客户等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑庆昇",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人郑庆昇...2025年5月30日完成过户登记手续。此次协议转让完成后，郑庆昇成为公司第一大股东。公司控股股东、实际控制人由任贵龙先生变更为郑庆昇先生。"
+    },
+    {
+      "name": "郑虎",
+      "role": "总裁",
+      "quote": "2025年12月至今任金字火腿股份有限公司总裁。"
+    },
+    {
+      "name": "马晓钟",
+      "role": "总工程师、非遗传承人",
+      "quote": "总工程师；非物质文化遗产金华火腿腌制技艺国家级代表性传承人1人"
+    },
+    {
+      "name": "孙月康",
+      "role": "副总裁、财务总监",
+      "quote": "2025年7月至今任金字火腿股份有限公司副总裁、财务总监。"
+    },
+    {
+      "name": "李妮莎",
+      "role": "董事、董事会秘书",
+      "quote": "2025年7月至今任金字火腿股份有限公司董事、董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "金华金字火腿有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "食品生产与销售",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：金华金字火腿有限公司 子公司 食品生产与销售"
+    },
+    {
+      "name": "金字冷冻食品城有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "货物仓储服务、集贸市场管理服务",
+      "quote": "金字冷冻食品城有限公司 子公司 货物仓储服务、集贸市场管理服务"
+    },
+    {
+      "name": "福建金字半导体有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新设",
+      "quote": "报告期内取得和处置子公司的情况：福建金字半导体有限公司 新设"
+    },
+    {
+      "name": "金字芯（上海）科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "半导体产品批发和销售",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：金字芯（上海）科技有限公司 子公司 半导体产品批发和销售"
+    },
+    {
+      "name": "肉掌门网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "肉掌门网络科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "中晟微电子（杭州）有限公司",
+      "relation_type": "investor",
+      "business_details": "公司全资子公司以1亿元认购其新增注册资本，持有9.0909%股权",
+      "quote": "报告期内，公司全资子公司以1亿元认购中晟微电子（杭州）有限公司新增注册资本29.7353万元（对应9.0909%的股权）。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "火腿行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "285,699,119.79",
+      "revenue_proportion": "90.14%",
+      "gross_margin": "23.62%",
+      "yoy_change": "毛利率比上年增减 4.39个百分点",
+      "quote": "分行业：火腿行业 285,699,119.79 90.14%；占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况：分行业：火腿行业 285,699,119.79 218,224,966.96 23.62%"
+    },
+    {
+      "name": "冷链行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "23,572,878.14",
+      "revenue_proportion": "7.44%",
+      "gross_margin": "35.15%",
+      "yoy_change": "毛利率比上年增减 -4.39个百分点",
+      "quote": "分行业：冷链行业 23,572,878.14 7.44%；酒店餐饮...冷链行业...毛利率比上年增减减少4.39个百分点"
+    },
+    {
+      "name": "火腿",
+      "segment_type": "product_line",
+      "revenue_amount": "178,753,944.16",
+      "revenue_proportion": "56.40%",
+      "gross_margin": "27.83%",
+      "yoy_change": "毛利率比上年增减 1.69个百分点",
+      "quote": "分产品：火腿 178,753,944.16 56.40%；占公司营业收入或营业利润10%以上...分产品：火腿 178,753,944.16 129,003,190.48 27.83%"
+    },
+    {
+      "name": "特色肉制品",
+      "segment_type": "product_line",
+      "revenue_amount": "80,486,396.73",
+      "revenue_proportion": "25.39%",
+      "gross_margin": "19.15%",
+      "yoy_change": "毛利率比上年增减 11.48个百分点",
+      "quote": "分产品：特色肉制品 80,486,396.73 25.39%；占公司营业收入或营业利润10%以上...分产品：特色肉制品 80,486,396.73 65,073,843.69 19.15%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "314,584,113.04",
+      "revenue_proportion": "99.26%",
+      "gross_margin": "25.50%",
+      "yoy_change": "毛利率比上年增减 3.18个百分点",
+      "quote": "分地区：国内 314,584,113.04 99.26%；占公司营业收入或营业利润10%以上...分地区：国内 314,584,113.04 234,351,360.66 25.50%"
+    },
+    {
+      "name": "线上销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "111,081,408.23",
+      "revenue_proportion": "35.05%",
+      "gross_margin": "25.68%",
+      "yoy_change": "毛利率比上年增减 5.84个百分点",
+      "quote": "分销售模式：线上销售 111,081,408.23 35.05%；占公司营业收入或营业利润10%以上...分销售模式：线上销售 111,081,408.23 82,553,529.18 25.68%"
+    },
+    {
+      "name": "线下销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "174,617,711.56",
+      "revenue_proportion": "55.09%",
+      "gross_margin": "22.30%",
+      "yoy_change": "毛利率比上年增减 3.43个百分点",
+      "quote": "分销售模式：线下销售 174,617,711.56 55.09%；占公司营业收入或营业利润10%以上...分销售模式：线下销售 174,617,711.56 135,671,437.78 22.30%"
+    },
+    {
+      "name": "酒店餐饮",
+      "segment_type": "customer_type",
+      "revenue_amount": "874.60",
+      "revenue_proportion": null,
+      "gross_margin": "8.73%",
+      "yoy_change": "毛利率比上年增加6.32个百分点",
+      "quote": "序号：1 酒店餐饮 874.60 798.24 8.73% -283.44 -331.93 增加6.32个百分点"
+    },
+    {
+      "name": "KA流通",
+      "segment_type": "customer_type",
+      "revenue_amount": "10,826.58",
+      "revenue_proportion": null,
+      "gross_margin": "23.96%",
+      "yoy_change": "毛利率比上年增加4.98个百分点",
+      "quote": "序号：2 KA流通 10,826.58 8,232.95 23.96% 796.73 106.89 增加4.98个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "火腿产品",
+      "metric_type": "sales_volume",
+      "value": "1,836,206",
+      "period": "2025年",
+      "quote": "行业分类：火腿产品 项目：销售量 单位：公斤 2025年：1,836,206"
+    },
+    {
+      "product": "火腿产品",
+      "metric_type": "production_volume",
+      "value": "1,885,480",
+      "period": "2025年",
+      "quote": "行业分类：火腿产品 项目：生产量 单位：公斤 2025年：1,885,480"
+    },
+    {
+      "product": "火腿产品",
+      "metric_type": "inventory_volume",
+      "value": "697,974",
+      "period": "2025年末",
+      "quote": "行业分类：火腿产品 项目：库存量 单位：公斤 2025年：697,974"
+    },
+    {
+      "product": "特色肉制品",
+      "metric_type": "sales_volume",
+      "value": "1,212,656",
+      "period": "2025年",
+      "quote": "行业分类：特色肉制品 项目：销售量 单位：公斤 2025年：1,212,656"
+    },
+    {
+      "product": "特色肉制品",
+      "metric_type": "production_volume",
+      "value": "1,159,643",
+      "period": "2025年",
+      "quote": "行业分类：特色肉制品 项目：生产量 单位：公斤 2025年：1,159,643"
+    },
+    {
+      "product": "特色肉制品",
+      "metric_type": "inventory_volume",
+      "value": "310,871",
+      "period": "2025年末",
+      "quote": "行业分类：特色肉制品 项目：库存量 单位：公斤 2025年：310,871"
+    },
+    {
+      "product": "品牌肉",
+      "metric_type": "sales_volume",
+      "value": "1,392,084",
+      "period": "2025年",
+      "quote": "行业分类：品牌肉 项目：销售量 单位：公斤 2025年：1,392,084"
+    },
+    {
+      "product": "品牌肉",
+      "metric_type": "production_volume",
+      "value": "1,349,764",
+      "period": "2025年",
+      "quote": "行业分类：品牌肉 项目：生产量 单位：公斤 2025年：1,349,764"
+    },
+    {
+      "product": "品牌肉",
+      "metric_type": "inventory_volume",
+      "value": "5,580",
+      "period": "2025年末",
+      "quote": "行业分类：品牌肉 项目：库存量 单位：公斤 2025年：5,580"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产5万吨肉制品数字智能产业基地建设项目",
+      "project_type": "fundraising_project",
+      "location": "金华市开发区仙华南街1377号",
+      "investment_amount": "94,707.80万元（承诺投资总额）",
+      "designed_capacity": "年产5万吨肉制品",
+      "progress": "主体工程通过竣工验收后，主要在装修进程中，包括设备采购、安装调试，以及试生产前的各项准备工作",
+      "expected_completion_time": "2026年4月30日",
+      "quote": "新工厂建设项目有序推进。在主体工程通过竣工验收后...；承诺投资项目：年产5万吨肉制品数字智能产业基地建设项目 2022年度 2023年08月25日 生产建设 94,707.80 94,707.80 2026年04月30日"
+    },
+    {
+      "name": "金字冷冻食品城有限公司数字智能化立体冷库项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "9,100.00万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目：金字冷冻食品城有限公司数字智能化立体冷库项目...公司基于市场环境情况与实际经营情况考虑...公司决定终止“金字冷冻食品城有限公司数字智能化立体冷库项目”。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "一种在控温控湿和封闭条件下生产低盐金华火腿的方法",
+      "asset_type": "patent",
+      "related_product": "火腿",
+      "quantitative_info": "国家发明专利",
+      "quote": "公司拥有四项国家发明专利，分别为“一种在控温控湿和封闭条件下生产低盐金华火腿的方法”"
+    },
+    {
+      "name": "一种火腿高汤的制作工艺",
+      "asset_type": "patent",
+      "related_product": "火腿制品",
+      "quantitative_info": "国家发明专利",
+      "quote": "“一种火腿高汤的制作工艺”"
+    },
+    {
+      "name": "一种火腿仿形可变量自动上盐机",
+      "asset_type": "patent",
+      "related_product": "火腿生产设备",
+      "quantitative_info": "国家发明专利",
+      "quote": "“一种火腿仿形可变量自动上盐机”"
+    },
+    {
+      "name": "一种全自动火腿上盐设备",
+      "asset_type": "patent",
+      "related_product": "火腿生产设备",
+      "quantitative_info": "国家发明专利",
+      "quote": "“一种全自动火腿上盐设备”"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司严格依照 ISO9001 质量管理体系、ISO22000 食品安全管理体系、ISO14001 环境管理体系及国家的相关标准执行"
+    },
+    {
+      "name": "ISO22000食品安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO22000 食品安全管理体系"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO14001 环境管理体系"
+    },
+    {
+      "name": "《发酵肉制品》国际标准（主要起草单位）",
+      "asset_type": "standard",
+      "related_product": "发酵肉制品",
+      "quantitative_info": "国际标准",
+      "quote": "公司也是《发酵肉制品》《干腌火腿》国际标准...主要起草单位。"
+    },
+    {
+      "name": "《干腌火腿》国际标准（主要起草单位）",
+      "asset_type": "standard",
+      "related_product": "火腿",
+      "quantitative_info": "国际标准",
+      "quote": "《发酵肉制品》《干腌火腿》国际标准"
+    },
+    {
+      "name": "《地理标志产品质量要求 金华火腿》国家标准（主要起草单位）",
+      "asset_type": "standard",
+      "related_product": "金华火腿",
+      "quantitative_info": "国家标准",
+      "quote": "《地理标志产品质量要求 金华火腿》...国家标准"
+    },
+    {
+      "name": "《中式火腿质量要求》国家标准（主要起草单位）",
+      "asset_type": "standard",
+      "related_product": "中式火腿",
+      "quantitative_info": "国家标准",
+      "quote": "《中式火腿质量要求》...国家标准"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "30.26%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 95,890,189.43；前五名客户合计销售金额占年度销售总额比例 30.26%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.80%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料：序号 1 客户一 46,899,609.12 14.80%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "54.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 142,353,573.49；前五名供应商合计采购金额占年度采购总额比例 54.17%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "15.57%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料：序号 1 供应商一 40,911,830.84 15.57%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主营业务的主要原材料是猪肉，因此猪肉价格的变动会直接影响到公司原料采购的成本。猪肉价格由于受猪的生长周期、存栏量、饲料价格、市场供求等多因素的影响，波动的幅度比较大，直接影响公司业务的盈利水平。",
+      "related_entity": null,
+      "related_product": "猪肉",
+      "quote": "1.猪肉价格波动对公司经营的风险：公司主营业务的主要原材料是猪肉，因此猪肉价格的变动会直接影响到公司原料采购的成本。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全和质量控制已成为食品加工企业生产经营的重中之重。",
+      "related_entity": null,
+      "related_product": "食品",
+      "quote": "2.食品质量安全风险：随着国家对食品安全的日趋重视、消费者食品安全意识的加强以及权益保护意识的增强，食品安全和质量控制已成为食品加工企业生产经营的重中之重。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "火腿是一种需要较长生产周期的发酵肉制品...火腿的这一生产特点决定了存货在公司流动资产中所占的比例较大，存在特殊的资产结构引起的流动性风险。",
+      "related_entity": null,
+      "related_product": "火腿",
+      "quote": "3.特殊的资产结构引起的流动性风险：火腿是一种需要较长生产周期的发酵肉制品...火腿的这一生产特点决定了存货在公司流动资产中所占的比例较大，存在特殊的资产结构引起的流动性风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "面对激烈的市场竞争环境和猪肉价格的市场波动...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "面对激烈的市场竞争环境和猪肉价格的市场波动，公司大力发展..."
+    }
+  ]
+}

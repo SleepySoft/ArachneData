@@ -1,0 +1,171 @@
+{
+  "company_name_mentioned": "安道麦股份有限公司",
+  "produces": [
+    {
+      "name": "除草剂",
+      "type": "device",
+      "revenue_proportion": "42.2%",
+      "quote": "除草剂 12,218,900 42.2%"
+    },
+    {
+      "name": "杀虫剂",
+      "type": "device",
+      "revenue_proportion": "28.8%",
+      "quote": "杀虫剂 8,342,439 28.8%"
+    },
+    {
+      "name": "杀菌剂",
+      "type": "device",
+      "revenue_proportion": "21.0%",
+      "quote": "杀菌剂 6,088,328 21.0%"
+    },
+    {
+      "name": "精细化工产品",
+      "type": "material",
+      "revenue_proportion": "7.9%",
+      "quote": "精细化工产品 2,294,919 7.9%"
+    },
+    {
+      "name": "植保产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要以非专利原药为基础，从事作物保护产品的开发、生产及销售"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原药",
+      "target_product": null,
+      "cost_proportion": "34%",
+      "quote": "原药 34% 无 41.73"
+    },
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": "25%",
+      "quote": "原材料 25% 无 6.17"
+    },
+    {
+      "name": "助剂",
+      "target_product": null,
+      "cost_proportion": "8%",
+      "quote": "助剂 8% 无 15.66"
+    },
+    {
+      "name": "制剂产品",
+      "target_product": null,
+      "cost_proportion": "19%",
+      "quote": "制剂产品 19% 无 28.15"
+    },
+    {
+      "name": "包材",
+      "target_product": null,
+      "cost_proportion": "8%",
+      "quote": "包材 8% 无 1.69"
+    }
+  ],
+  "applications": [
+    {
+      "name": "农业种植",
+      "source_product": "除草剂",
+      "quote": "应用于大豆、玉米、谷物、水稻及棉花的除草剂"
+    },
+    {
+      "name": "农业种植",
+      "source_product": "杀虫剂",
+      "quote": "应用于蔬果、玉米、棉花及大豆的杀虫剂"
+    },
+    {
+      "name": "农业种植",
+      "source_product": "杀菌剂",
+      "quote": "最为广泛使用杀菌剂的作物包括谷物、水果、蔬菜"
+    },
+    {
+      "name": "非农业用途",
+      "source_product": null,
+      "quote": "针对非农业用途（消费者及专业解决方案）开发、生产和销售"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "覃衡德",
+      "role": "董事长",
+      "quote": "覃衡德 董事长"
+    },
+    {
+      "name": "Gaël Hili",
+      "role": "总裁兼首席执行官",
+      "quote": "公司负责人（总裁兼首席执行官）兼法定代表人 Gaël Hili"
+    },
+    {
+      "name": "Efrat Nagar",
+      "role": "首席财务官",
+      "quote": "主管会计工作负责人（首席财务官）及会计机构负责人 Efrat Nagar"
+    },
+    {
+      "name": "郭治",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 郭治"
+    },
+    {
+      "name": "刘红生",
+      "role": "董事",
+      "quote": "刘红生 董事"
+    },
+    {
+      "name": "安礼如",
+      "role": "董事",
+      "quote": "安礼如 董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "先正达集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，自2020年6月15日起成为公司的控股股东。",
+      "quote": "先正达集团...自2020年6月15日起成为公司的控股股东"
+    },
+    {
+      "name": "Syngenta AG及其子公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，向其采购原材料及产品。",
+      "quote": "Syngenta AG及其子公司...购买原材料及产品"
+    },
+    {
+      "name": "中国中化控股有限责任公司",
+      "relation_type": "investor",
+      "business_details": "最终控股股东，先正达集团及本集团由中国中化控股有限责任公司最终控股。",
+      "quote": "先正达集团及本集团由中国中化控股有限责任公司最终控股"
+    },
+    {
+      "name": "拜耳",
+      "relation_type": "competitor",
+      "business_details": "竞争对手，是全球七大跨国企业之一，原研型公司。",
+      "quote": "包括集团在内的七大跨国企业领航...拜耳"
+    },
+    {
+      "name": "先正达",
+      "relation_type": "competitor",
+      "business_details": "竞争对手，是全球七大跨国企业之一，原研型公司。",
+      "quote": "包括集团在内的七大跨国企业领航...先正达"
+    },
+    {
+      "name": "科迪华",
+      "relation_type": "competitor",
+      "business_details": "竞争对手，是全球七大跨国企业之一，原研型公司。",
+      "quote": "包括集团在内的七大跨国企业领航...科迪华"
+    },
+    {
+      "name": "巴斯夫",
+      "relation_type": "competitor",
+      "business_details": "竞争对手，是全球七大跨国企业之一，原研型公司。",
+      "quote": "包括集团在内的七大跨国企业领航...巴斯夫"
+    },
+    {
+      "name": "富美实",
+      "relation_type": "competitor",
+      "business_details": "竞争对手，是全球七大跨国企业之一，原研型公司。",
+      "quote": "包括集团在内的七大跨国企业领航...富美实"
+    }
+  ]
+}

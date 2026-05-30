@@ -1,0 +1,496 @@
+{
+  "company_name_mentioned": "电光防爆科技股份有限公司",
+  "produces": [
+    {
+      "name": "矿用防爆开关",
+      "type": "device",
+      "revenue_proportion": "2025年收入为658,832,433.60元，占营业收入比重为56.35%",
+      "quote": "分产品：矿用防爆开关 658,832,433.60 56.35%"
+    },
+    {
+      "name": "智能化装备及系统类",
+      "type": "device",
+      "revenue_proportion": "2025年收入为155,497,934.99元，占营业收入比重为13.30%",
+      "quote": "分产品：智能化装备及系统类 155,497,934.99 13.30%"
+    },
+    {
+      "name": "驱动设备",
+      "type": "device",
+      "revenue_proportion": "2025年收入为147,843,721.10元，占营业收入比重为12.65%",
+      "quote": "分产品：驱动设备 147,843,721.10 12.65%"
+    },
+    {
+      "name": "算力服务",
+      "type": "service",
+      "revenue_proportion": "2025年收入为117,911,090.53元，占营业收入比重为10.09%",
+      "quote": "分产品：算力服务 117,911,090.53 10.09%"
+    },
+    {
+      "name": "电力设备",
+      "type": "device",
+      "revenue_proportion": "2025年收入为60,808,188.23元，占营业收入比重为5.20%",
+      "quote": "分产品：电力设备 60,808,188.23 5.20%"
+    },
+    {
+      "name": "永磁电机产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "第二，永磁电机产品，如永磁同步变频调速一体机、永磁直驱同步变频电机、永磁滚筒、矿用隔爆高速永磁电机及变频通用永磁电机等产品"
+    },
+    {
+      "name": "石化及工厂防爆产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "第三，石化及工厂防爆产品，如防爆照明设备、防爆操作柱、防爆控制箱、防爆启动器及防爆正压柜等产品"
+    },
+    {
+      "name": "电力成套设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "第四，电力成套设备，如移变用组合开关柜、低压抽出式开关柜、真空软启动柜及金属封闭开关柜等产品"
+    },
+    {
+      "name": "智慧系统类",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "第五，智慧系统类，如矿用无线通信系统、智能化供电系统、矿井通风监测与控制系统、矿用图像监视系统及矿用运输监控系统等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "防爆电器、电力设备、驱动设备等",
+      "cost_proportion": null,
+      "quote": "公司的采购项目主要包括原材料采购、零部件采购和工艺单元件采购"
+    },
+    {
+      "name": "零部件",
+      "target_product": "防爆电器、电力设备、驱动设备等",
+      "cost_proportion": null,
+      "quote": "公司的采购项目主要包括原材料采购、零部件采购和工艺单元件采购"
+    },
+    {
+      "name": "工艺单元件",
+      "target_product": "防爆电器、电力设备、驱动设备等",
+      "cost_proportion": null,
+      "quote": "公司的采购项目主要包括原材料采购、零部件采购和工艺单元件采购"
+    }
+  ],
+  "applications": [
+    {
+      "name": "煤矿井下",
+      "source_product": "矿用防爆产品",
+      "quote": "矿用防爆产品，如高低压变频器、馈电开关、起动器、高爆、移动变压器等产品，主要用于煤矿井下含有甲烷、煤尘等爆炸性混合物的危险环境"
+    },
+    {
+      "name": "煤炭、矿山、冶金、建材、电力、化工等工业领域",
+      "source_product": "永磁电机产品",
+      "quote": "永磁电机产品，如永磁同步变频调速一体机、永磁直驱同步变频电机、永磁滚筒、矿用隔爆高速永磁电机及变频通用永磁电机等产品，主要用于煤炭、矿山、冶金、建材、电力、化工等工业领域的皮带运输、提升、通风、排水、搅拌、风机、水泵等重载传动场景"
+    },
+    {
+      "name": "石油、化工、天然气、制药、油漆、仓储等存在易燃易爆气体的危险作业环境",
+      "source_product": "石化及工厂防爆产品",
+      "quote": "石化及工厂防爆产品，如防爆照明设备、防爆操作柱、防爆控制箱、防爆启动器及防爆正压柜等产品，主要用于石油、化工、天然气、制药、油漆、仓储等存在易燃易爆气体、蒸汽或粉尘的危险作业环境"
+    },
+    {
+      "name": "矿山、工厂、石化、电力、建筑及工矿企业等场所的供配电系统",
+      "source_product": "电力成套设备",
+      "quote": "电力成套设备，如移变用组合开关柜、低压抽出式开关柜、真空软启动柜及金属封闭开关柜等产品，主要用于矿山、工厂、石化、电力、建筑及工矿企业等场所的供配电系统"
+    },
+    {
+      "name": "煤矿及非煤矿山等井下高危作业环境",
+      "source_product": "智慧系统类",
+      "quote": "智慧系统类，如矿用无线通信系统、智能化供电系统、矿井通风监测与控制系统、矿用图像监视系统及矿用运输监控系统等产品，主要用于煤矿及非煤矿山等井下高危作业环境"
+    },
+    {
+      "name": "隧道掘进开挖、石油化工厂安全生产、核电等领域",
+      "source_product": "安全技术",
+      "quote": "公司还将丰富的安全技术经验应用到更多的行业场景，为隧道掘进开挖、石油化工厂安全生产、核电等领域提供安全、可靠的解决方案"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "石晓霞",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人石晓霞、主管会计工作负责人陈爱微及会计机构负责人（会计主管人员）刘娜声明"
+    },
+    {
+      "name": "石向才",
+      "role": "董事、总裁",
+      "quote": "石向才先生，现任公司董事兼总裁"
+    },
+    {
+      "name": "陈爱微",
+      "role": "财务总监",
+      "quote": "公司负责人石晓霞、主管会计工作负责人陈爱微及会计机构负责人（会计主管人员）刘娜声明"
+    },
+    {
+      "name": "叶忠松",
+      "role": "董事、副总裁",
+      "quote": "叶忠松先生，现任公司董事和副总裁"
+    },
+    {
+      "name": "何成锋",
+      "role": "董事、副总裁",
+      "quote": "何成锋先生，现任电光防爆科技股份有限公司董事和副总裁"
+    },
+    {
+      "name": "杨涛",
+      "role": "董事会秘书、副总裁",
+      "quote": "杨涛先生：现任公司董事会秘书、副总裁。"
+    },
+    {
+      "name": "袁庆国",
+      "role": "副总裁",
+      "quote": "袁庆国先生：现任公司副总裁，华夏天信智能物联（大连）有限公司董事长。"
+    },
+    {
+      "name": "刘江",
+      "role": "副总裁",
+      "quote": "刘江先生：现任公司副总裁，华夏天信智能物联（大连）有限公司总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "电光防爆科技（上海）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "电光上海 指 电光防爆科技（上海）有限公司，公司全资子公司"
+    },
+    {
+      "name": "电光防爆电气（宿州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "电光宿州 指 电光防爆电气（宿州）有限公司，公司全资子公司"
+    },
+    {
+      "name": "达得利电力设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "达得利 指 达得利电力设备有限公司，公司全资子公司"
+    },
+    {
+      "name": "泰亿达电气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "泰亿达 指 泰亿达电气有限公司，公司全资孙公司"
+    },
+    {
+      "name": "河北新四达电机股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "新四达 指 河北新四达电机股份有限公司，公司控股子公司"
+    },
+    {
+      "name": "电光防爆电气（浙江）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "电光浙江 指 电光防爆电气（浙江）有限公司，公司控股子公司"
+    },
+    {
+      "name": "浙江电光云科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "浙江电光云 指 浙江电光云科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "北京电光云信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "北京电光云 指 北京电光云信息技术有限公司，公司控股子公司"
+    },
+    {
+      "name": "乐清市电光云信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "乐清电光云 指 乐清市电光云信息科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "华夏天信智能物联（大连）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "华夏天信大连公司 指 华夏天信智能物联（大连）有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,051,247,692.44元",
+      "revenue_proportion": "89.91%",
+      "gross_margin": "39.10%",
+      "yoy_change": "-9.23%",
+      "quote": "分行业：制造业 1,051,247,692.44 89.91% -9.23%"
+    },
+    {
+      "name": "服务业",
+      "segment_type": "business_unit",
+      "revenue_amount": "117,911,090.53元",
+      "revenue_proportion": "10.09%",
+      "gross_margin": "31.89%",
+      "yoy_change": "280.72%",
+      "quote": "分行业：服务业 117,911,090.53 10.09% 280.72%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "1,165,337,795.43元",
+      "revenue_proportion": "99.67%",
+      "gross_margin": "38.36%",
+      "yoy_change": "-1.94%",
+      "quote": "分地区：内销 1,165,337,795.43 99.67% -1.94%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "3,820,987.54元",
+      "revenue_proportion": "0.33%",
+      "gross_margin": null,
+      "yoy_change": "370.43%",
+      "quote": "分地区：外销 3,820,987.54 0.33% 370.43%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "780,062,146.39元",
+      "revenue_proportion": "66.72%",
+      "gross_margin": "38.55%",
+      "yoy_change": "-1.18%",
+      "quote": "分销售模式：直销 780,062,146.39 66.72% -1.18%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "389,096,636.58元",
+      "revenue_proportion": "33.28%",
+      "gross_margin": "38.03%",
+      "yoy_change": "-2.68%",
+      "quote": "分销售模式：经销 389,096,636.58 33.28% -2.68%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "矿用防爆开关",
+      "metric_type": "sales_volume",
+      "value": "35,394台",
+      "period": "2025年",
+      "quote": "矿用防爆开关 销售量 台 35,394.00"
+    },
+    {
+      "product": "矿用防爆开关",
+      "metric_type": "production_volume",
+      "value": "34,647台",
+      "period": "2025年",
+      "quote": "矿用防爆开关 生产量 台 34,647.00"
+    },
+    {
+      "product": "矿用防爆开关",
+      "metric_type": "inventory_volume",
+      "value": "2,347台",
+      "period": "2025年末",
+      "quote": "矿用防爆开关 库存量 台 2,347.00"
+    },
+    {
+      "product": "智能化装备及系统类",
+      "metric_type": "sales_volume",
+      "value": "923台/套",
+      "period": "2025年",
+      "quote": "智能化装备及系统类 销售量 台/套 923.00"
+    },
+    {
+      "product": "智能化装备及系统类",
+      "metric_type": "production_volume",
+      "value": "980台/套",
+      "period": "2025年",
+      "quote": "智能化装备及系统类 生产量 台/套 980.00"
+    },
+    {
+      "product": "智能化装备及系统类",
+      "metric_type": "inventory_volume",
+      "value": "145台/套",
+      "period": "2025年末",
+      "quote": "智能化装备及系统类 库存量 台/套 145.00"
+    },
+    {
+      "product": "电力设备类",
+      "metric_type": "sales_volume",
+      "value": "174,065台/只",
+      "period": "2025年",
+      "quote": "电力设备类 销售量 台/只 174,065.00"
+    },
+    {
+      "product": "电力设备类",
+      "metric_type": "production_volume",
+      "value": "171,971台/只",
+      "period": "2025年",
+      "quote": "电力设备类 生产量 台/只 171,971.00"
+    },
+    {
+      "product": "电力设备类",
+      "metric_type": "inventory_volume",
+      "value": "12,050台/只",
+      "period": "2025年末",
+      "quote": "电力设备类 库存量 台/只 12,050.00"
+    },
+    {
+      "product": "驱动设备",
+      "metric_type": "sales_volume",
+      "value": "960台",
+      "period": "2025年",
+      "quote": "驱动设备 销售量 台 960.00"
+    },
+    {
+      "product": "驱动设备",
+      "metric_type": "production_volume",
+      "value": "942台",
+      "period": "2025年",
+      "quote": "驱动设备 生产量 台 942.00"
+    },
+    {
+      "product": "驱动设备",
+      "metric_type": "inventory_volume",
+      "value": "251台",
+      "period": "2025年末",
+      "quote": "驱动设备 库存量 台 251.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智慧矿山系统及高端智能化装备项目（一期）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "调整后拟投入募集资金金额26,135.09万元",
+      "designed_capacity": null,
+      "progress": "厂房已于2025年4月2日达到预定可使用状态。后续设备购置、安装及调试工作仍有序推进",
+      "expected_completion_time": null,
+      "quote": "公司于2025年2月12日召开了第五届董事会第十八次会议、第五届监事会第十三次会议，审议通过《关于调整募投项目间募集资金投资金额的议案》，同意将“智慧矿山研究及产业化中心”项目剩余募集资金2,530万元调整至“智慧矿山系统及高端智能化装备项目（一期）”项目使用。"
+    },
+    {
+      "name": "智慧矿山研究及产业化中心",
+      "project_type": "fundraising_project",
+      "location": "变更至浙江乐清",
+      "investment_amount": "投入募集资金金额76.00万元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "调整后“智慧矿山研究及产业化中心”项目投入募集资金金额76.00万元"
+    },
+    {
+      "name": "北京电光云信息技术有限公司（设立）",
+      "project_type": "other",
+      "location": "北京",
+      "investment_amount": "出资额5,500,000.00元",
+      "designed_capacity": null,
+      "progress": "已完成工商登记",
+      "expected_completion_time": null,
+      "quote": "北京电光云公司 新设 2025年7月 5,500,000.00 55.00%"
+    },
+    {
+      "name": "超智融合算力平台建设",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司将算力服务作为核心发展赛道，以超智融合算力平台建设为核心基础设施抓手"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "多项核心专利与软件著作权",
+      "asset_type": "patent",
+      "related_product": "防爆电器、驱动设备等",
+      "quantitative_info": "报告期内，公司及下属子公司新增发明专利8项、实用新型21项、外观专利14项、软件著作权14项。",
+      "quote": "公司凭借自主研发与产品升级，荣获多项知识产权"
+    },
+    {
+      "name": "省级企业研究院",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "荣获浙江省科学技术厅、发展和改革委员会、经济和信息化委员会颁发的省级企业研究院称号"
+    },
+    {
+      "name": "浙江省企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "技术中心被认定为浙江省企业技术中心"
+    },
+    {
+      "name": "主导及参与多项国家及行业标准制定",
+      "asset_type": "standard",
+      "related_product": "防爆电器等",
+      "quantitative_info": null,
+      "quote": "主导及参与多项国家及行业标准制定"
+    },
+    {
+      "name": "ISO9001、ISO14001、OHSAS18001认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是行业内较早获得ISO9001体系认证，并通过了ISO14001环境管理体系认证OHSAS18001职业健康安全管理体系认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "16.12%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 188,456,882.73 前五名客户合计销售金额占年度销售总额比例 16.12%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "20.21%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 116,606,752.35 前五名供应商合计采购金额占年度采购总额比例 20.21%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": null,
+      "related_entity": null,
+      "period": null,
+      "quote": "下游企业往往倾向于与产品可靠、品牌过硬的防爆电器供应商建立长期稳定的战略合作关系。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着智慧矿山相关政策的持续支持以及市场需求的快速增长，潜在新进入者可能持续涌入，加剧行业市场竞争，产品价格竞争也将日趋激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "针对市场竞争加剧风险：公司清醒意识到，尽管行业存在较高的技术壁垒，但随着智慧矿山相关政策的持续支持以及市场需求的快速增长，潜在新进入者可能持续涌入，加剧行业市场竞争，产品价格竞争也将日趋激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "当前，国际大宗商品市场波动加剧，对国内大宗商品价格造成较大影响，近年来铜、铝等核心原材料价格上涨态势尤为明显。公司部分产品生产受原材料价格影响较大，若原材料价格持续上涨，将进一步压缩公司利润空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "针对原材料涨价风险：当前，国际大宗商品市场波动加剧，对国内大宗商品价格造成较大影响，近年来铜、铝等核心原材料价格上涨态势尤为明显。公司部分产品生产受原材料价格影响较大，若原材料价格持续上涨，将进一步压缩公司利润空间。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "煤矿行业发展易受宏观经济波动影响，在全球政治经济环境复杂多变、不确定性因素增多的背景下，行业发展面临一定挑战。煤炭企业对防爆电器的采购投入受煤炭企业效益好坏影响十分明显。",
+      "related_entity": "煤炭行业",
+      "related_product": "防爆电器",
+      "quote": "针对经济周期及产业政策风险：公司明确认识到，煤矿行业发展易受宏观经济波动影响，在全球政治经济环境复杂多变、不确定性因素增多的背景下，行业发展面临一定挑战。煤炭企业对防爆电器的采购投入受煤炭企业效益好坏影响十分明显。"
+    },
+    {
+      "risk_type": "other",
+      "description": "算力租赁行业属于新兴行业，行业发展仍处于探索阶段，算力需求的周期性波动、行业竞争对手的激烈竞争，均可能影响租赁业务的稳定性；此外，客户对算力服务的价格、服务质量、专业技术水平均有较高要求，进一步增加了业务运营难度。",
+      "related_entity": null,
+      "related_product": "算力服务",
+      "quote": "针对算力租赁市场经营风险：公司明确认识到，算力租赁行业属于新兴行业，行业发展仍处于探索阶段，算力需求的周期性波动、行业竞争对手的激烈竞争，均可能影响租赁业务的稳定性；此外，客户对算力服务的价格、服务质量、专业技术水平均有较高要求，进一步增加了业务运营难度。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "煤炭价格的波动导致煤矿生产企业经济效益出现不稳定情况，煤矿企业投资意愿有所下降，进而导致客户付款周期拉长。目前，公司应收账款占比仍处于较高水平，未来存在部分应收账款无法及时收回的潜在风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "针对应收账款风险：煤炭价格的波动导致煤矿生产企业经济效益出现不稳定情况，煤矿企业投资意愿有所下降，进而导致客户付款周期拉长。目前，公司应收账款占比仍处于较高水平，未来存在部分应收账款无法及时收回的潜在风险。"
+    }
+  ]
+}

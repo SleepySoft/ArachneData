@@ -1,0 +1,303 @@
+{
+  "company_name_mentioned": "美年大健康产业控股股份有限公司",
+  "produces": [
+    {
+      "name": "健康体检服务",
+      "type": "service",
+      "revenue_proportion": "95.66%",
+      "quote": "分产品\n体检服务 9,909,461,279.67 95.66%"
+    },
+    {
+      "name": "其他服务",
+      "type": "service",
+      "revenue_proportion": "4.34%",
+      "quote": "分产品\n其他服务 450,069,391.63 4.34%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "医疗设备",
+      "target_product": "体检服务",
+      "cost_proportion": null,
+      "quote": "硬件设备上，公司采购西门子、飞利浦、东芝、联影、佳能等具有影响力的中外品牌"
+    },
+    {
+      "name": "检验服务",
+      "target_product": "体检服务",
+      "cost_proportion": null,
+      "quote": "医疗行业 外送成本 1,425,774,883.25 23.47%"
+    },
+    {
+      "name": "体检耗材",
+      "target_product": "体检服务",
+      "cost_proportion": null,
+      "quote": "医疗行业 体检直接耗材 848,544,172.45 13.97%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "健康体检",
+      "source_product": "健康体检服务",
+      "quote": "公司以健康体检为核心，集健康咨询、健康评估、健康干预于一体"
+    },
+    {
+      "name": "企业健康管理",
+      "source_product": "健康管理服务",
+      "quote": "为企业和个人客户提供更高品质的健康管理服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "俞熔",
+      "role": "董事长、实际控制人",
+      "quote": "公司实际控制人为俞熔先生"
+    },
+    {
+      "name": "郭美玲",
+      "role": "副董事长",
+      "quote": "副董事长 郭美玲"
+    },
+    {
+      "name": "徐涛",
+      "role": "职工代表董事、总裁",
+      "quote": "徐涛 男 51 总裁 2022年01月28日 至今 现任"
+    },
+    {
+      "name": "林琳",
+      "role": "高级副总裁、COO、北京及北方区域总经理",
+      "quote": "林琳 女 50 高级副总裁、COO、北京及北方区域总经理 现任"
+    },
+    {
+      "name": "侯灵昌",
+      "role": "副总裁、首席财务官",
+      "quote": "副总裁、首席财务官 侯灵昌"
+    },
+    {
+      "name": "万晓晓",
+      "role": "副总裁、董事会秘书",
+      "quote": "副总裁、董事会秘书 万晓晓"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "慈铭健康体检管理集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "旗下有“美年大健康”、“慈铭体检”、“慈铭奥亚”、“美兆健康”四大品牌。",
+      "quote": "慈铭体检 指 慈铭健康体检管理集团有限公司"
+    },
+    {
+      "name": "嘉兴信文淦富股权投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "为公司实际控制人俞熔先生控制的企业，存在同业竞争关系。",
+      "quote": "嘉兴信文淦富/嘉兴信文淦富基金 指 嘉兴信文淦富股权投资合伙企业（有限合伙）"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "relation_type": "investor",
+      "business_details": "与公司有合作，开展多病筛查先进技术和相关产品的商业化落地探索。",
+      "quote": "阿里巴巴集团 指 Alibaba Group Holding Limited"
+    },
+    {
+      "name": "美因健康科技（北京）有限公司",
+      "relation_type": "investor",
+      "business_details": "为公司实际控制人俞熔先生及其控制企业与公司董事郭美玲女士及其控制企业控制的公司，存在关联交易。",
+      "quote": "美因健康科 技（北京） 有限公司及 董事郭 美玲女 士及其 控制企 业控制 的公司"
+    },
+    {
+      "name": "上海美维口腔医疗管理集团有限公司",
+      "relation_type": "investor",
+      "business_details": "为公司实际控制人俞熔先生控制的企业，存在关联交易。",
+      "quote": "上海美维口 腔医疗管理 集团有限公 司及下属子 公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医疗行业",
+      "segment_type": "other",
+      "revenue_amount": "10,296,246,402.73",
+      "revenue_proportion": "99.39%",
+      "gross_margin": "41.23%",
+      "yoy_change": "-3.38%",
+      "quote": "分行业\n医疗行业 10,296,246,402.73 99.39%"
+    },
+    {
+      "name": "体检服务",
+      "segment_type": "product_line",
+      "revenue_amount": "9,909,461,279.67",
+      "revenue_proportion": "95.66%",
+      "gross_margin": "40.00%",
+      "yoy_change": "-4.08%",
+      "quote": "分产品\n体检服务 9,909,461,279.67 95.66%"
+    },
+    {
+      "name": "华东区",
+      "segment_type": "region",
+      "revenue_amount": "3,533,397,942.18",
+      "revenue_proportion": "34.11%",
+      "gross_margin": "39.28%",
+      "yoy_change": "-1.84%",
+      "quote": "分地区\n华东区 3,533,397,942.18 34.11%"
+    },
+    {
+      "name": "华北区",
+      "segment_type": "region",
+      "revenue_amount": "2,322,962,903.77",
+      "revenue_proportion": "22.42%",
+      "gross_margin": "43.20%",
+      "yoy_change": "-2.67%",
+      "quote": "分地区\n华北区 2,322,962,903.77 22.42%"
+    },
+    {
+      "name": "华南区",
+      "segment_type": "region",
+      "revenue_amount": "1,282,103,773.47",
+      "revenue_proportion": "12.38%",
+      "gross_margin": "39.65%",
+      "yoy_change": "1.64%",
+      "quote": "分地区\n华南区 1,282,103,773.47 12.38%"
+    },
+    {
+      "name": "中南区",
+      "segment_type": "region",
+      "revenue_amount": "1,292,856,782.94",
+      "revenue_proportion": "12.48%",
+      "gross_margin": "44.50%",
+      "yoy_change": "-4.06%",
+      "quote": "分地区\n中南区 1,292,856,782.94 12.48%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "体检服务",
+      "metric_type": "capacity",
+      "value": "561家",
+      "period": "2025年末",
+      "quote": "截至 2025年 12月 31日，分院总数 561家"
+    },
+    {
+      "product": "体检服务",
+      "metric_type": "production_volume",
+      "value": "2,411万人次",
+      "period": "2025年度",
+      "quote": "2025年度，公司共计接待 2,411万人次"
+    },
+    {
+      "product": "体检服务",
+      "metric_type": "other",
+      "value": "647元",
+      "period": "2025年",
+      "quote": "2025年公司体检客单价 647元"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购衡阳美年健康体检中心有限公司84%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "33,600,000.00",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "衡阳美年 发\n健康 健康\n健康体检 收 行 长\n体检 33,600,000.00 84.00%"
+    },
+    {
+      "name": "收购宁德美年大健康管理有限公司81%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "30,780,000.00",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "宁德美年 发\n健康 健康\n大健康管 收 行 长\n体检 30,780,000.00 81.00%"
+    },
+    {
+      "name": "收购武汉美慈奥亚科技管理有限公司52.81%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "43,621,800.00",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "武汉美慈 发\n健康 健康\n奥亚科技 收 行 长\n体检 43,621,800.00 52.81%"
+    },
+    {
+      "name": "设立苏州东拓颐兰庭健康科技有限公司",
+      "project_type": "construction_project",
+      "location": "苏州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "苏州东拓颐兰庭健康科技有限公司 设立"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "扁鹊体检SAAS系统",
+      "asset_type": "software",
+      "related_product": "体检服务",
+      "quantitative_info": null,
+      "quote": "软件方面自主研发扁鹊体检系统"
+    },
+    {
+      "name": "肺结节AI辅助诊断模块",
+      "asset_type": "core_technology",
+      "related_product": "体检服务",
+      "quantitative_info": "550余家体检中心上线",
+      "quote": "截止 2025 年底，550 余家体检中心上线肺结节 AI 辅助诊断模块"
+    },
+    {
+      "name": "智能主检系统（健康小美）",
+      "asset_type": "core_technology",
+      "related_product": "体检服务",
+      "quantitative_info": "已上线297家体检中心，累计审核并生成超千万份体检报告",
+      "quote": "健康小美“智能主检系统”已上线 297 家体检中心，累计审核并生成超千万份体检报告"
+    },
+    {
+      "name": "ISO15189标准医学实验室质量管理和保障体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "构建基于 ISO15189标准的医学实验室质量管理和保障体系"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "4.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 4.68%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "14.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 14.13%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "product_quality",
+      "description": "健康体检服务的基本特征是以先进设备和规范操作采集数据和发现疾病线索，出现医疗风险概率较低，但也存在因不确定性因素导致发生漏检、误检及医疗纠纷的风险。",
+      "related_entity": null,
+      "related_product": "体检服务",
+      "quote": "健康体检服务的基本特征是以先进设备和规范操作采集数据和发现疾病线索，出现医疗风险概率较低，但也存在因不确定性因素导致发生漏检、误检及医疗纠纷的风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司在历次收购过程中，产生了一定金额的商誉资产。...不排除被收购公司在收购后未达收益预期，存在商誉减值的风险。商誉减值会直接影响公司经营业绩，减少公司当期利润。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在历次收购过程中，产生了一定金额的商誉资产。...在日常经营中不排除被收购公司在收购后未达收益预期，存在商誉减值的风险。商誉减值会直接影响公司经营业绩，减少公司当期利润。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着新媒体时代的发展，多元化信息传播速度加快，舆论环境发生巨大改变。在人人都是“自媒体”的当下，某些个体事件很有可能被放大发酵为行业性事件的风险，公司可能因此受到波及或影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着新媒体时代的发展，多元化信息传播速度加快，舆论环境发生巨大改变。在人人都是“自媒体”的当下，某些个体事件很有可能被放大发酵为行业性事件的风险，公司可能因此受到波及或影响。"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "company_name_mentioned": "盐津铺子食品股份有限公司",
+  "produces": [
+    {
+      "name": "魔芋零食",
+      "type": "device",
+      "revenue_proportion": "占营业收入30.15%",
+      "quote": "分产品：魔芋零食 1,737,380,012.06 30.15%"
+    },
+    {
+      "name": "海味零食",
+      "type": "device",
+      "revenue_proportion": "占营业收入13.19%",
+      "quote": "海味零食 759,954,924.35 13.19%"
+    },
+    {
+      "name": "健康蛋制品",
+      "type": "device",
+      "revenue_proportion": "占营业收入10.90%",
+      "quote": "健康蛋制品 628,174,334.73 10.90%"
+    },
+    {
+      "name": "休闲豆制品",
+      "type": "device",
+      "revenue_proportion": "占营业收入6.25%",
+      "quote": "休闲豆制品 360,170,739.61 6.25%"
+    },
+    {
+      "name": "果干果冻",
+      "type": "device",
+      "revenue_proportion": "占营业收入13.00%",
+      "quote": "果干果冻 749,168,226.21 13.00%"
+    },
+    {
+      "name": "烘焙薯类",
+      "type": "device",
+      "revenue_proportion": "占营业收入15.59%",
+      "quote": "烘焙薯类 898,117,691.50 15.59%"
+    },
+    {
+      "name": "休闲食品（综合）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司一直聚焦主业，专注休闲食品行业，长期坚持自主制造。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原辅料",
+      "target_product": "生产休闲食品",
+      "cost_proportion": null,
+      "quote": "采购内容 主要采购内容的金额：原辅料 1,890,109,461.96"
+    },
+    {
+      "name": "包装物",
+      "target_product": "产品包装",
+      "cost_proportion": null,
+      "quote": "采购内容 主要采购内容的金额：包 装 物 639,235,209.89"
+    },
+    {
+      "name": "魔芋精粉",
+      "target_product": "魔芋零食",
+      "cost_proportion": "作为主要原材料，其价格同比变动超过30%",
+      "quote": "主要外购原材料价格同比变动超过30%：报告期内，公司主要原材料魔芋精粉采购均价较上年同期变动超过30%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "休闲食品消费",
+      "source_product": "公司生产的六大品类休闲食品",
+      "quote": "公司是一家集休闲食品研发、生产和销售为一体的现代化制造企业，主要产品包括：魔芋零食、海味零食、健康蛋制品、休闲豆制品、果干果冻以及烘焙薯类等六大品类。"
+    },
+    {
+      "name": "商超渠道",
+      "source_product": "公司全线产品",
+      "quote": "公司的直营商超客户主要是知名大型连锁商超，如沃尔玛、大润发、华润万家、天虹百货等。"
+    },
+    {
+      "name": "零食量贩渠道",
+      "source_product": "公司全线产品",
+      "quote": "零食新渠道与鸣鸣很忙集团、零食有鸣等头部企业深化合作。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张学武",
+      "role": "实际控制人、董事长、总经理",
+      "quote": "公司负责人张学武、主管会计工作负责人杨峰及会计机构负责人(会计主管人员)杨峰声明：保证本年度报告中财务报告的真实、准确、完整。实际控制人 指 张学武及张学文。现任盐津铺子食品股份有限公司董事长兼总经理。"
+    },
+    {
+      "name": "张学文",
+      "role": "实际控制人",
+      "quote": "实际控制人 指 张学武及张学文。"
+    },
+    {
+      "name": "杨峰",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人杨峰及会计机构负责人(会计主管人员)杨峰。"
+    },
+    {
+      "name": "张杨",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表：姓名 张 杨。"
+    },
+    {
+      "name": "兰波",
+      "role": "董事、副总经理",
+      "quote": "姓名 兰 波 职务 董事、副总经理。"
+    },
+    {
+      "name": "杨林广",
+      "role": "董事、副总经理",
+      "quote": "姓名 杨林广 职务 董事、副总经理。"
+    },
+    {
+      "name": "黄敏胜",
+      "role": "副总经理",
+      "quote": "姓名 黄敏胜 职务 副总经理。"
+    },
+    {
+      "name": "张磊",
+      "role": "副总经理",
+      "quote": "姓名 张 磊 职务 副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "湖南盐津铺子控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、盐津控股 指 湖南盐津铺子控股有限公司。"
+    },
+    {
+      "name": "云南津绝魔芋食品有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联供应商，供应魔芋精粉，控股股东持有其52.50%的股份",
+      "quote": "供应商一为云南津绝魔芋食品有限公司，公司控股股东湖南盐津铺子控股有限公司自2023年2月7日起持有云南津绝魔芋食品有限公司52.50%的股份，公司与云南津绝魔芋食品有限公司的交易构成关联交易。"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "天健 指 天健会计师事务所（特殊普通合伙）。"
+    },
+    {
+      "name": "沃尔玛（中国）",
+      "relation_type": "customer",
+      "business_details": "直营商超客户",
+      "quote": "沃尔玛 指 Wal-MartStores，Inc旗下中国商超系统。公司的直营商超客户主要是知名大型连锁商超，如沃尔玛..."
+    },
+    {
+      "name": "山姆会员店",
+      "relation_type": "customer",
+      "business_details": "会员高势能渠道",
+      "quote": "山姆会员店 指 沃尔玛旗下仓储式会员商店系统。蛋皇品牌...溏心鹌鹑蛋于2025年10月正式上架山姆会员商店..."
+    },
+    {
+      "name": "大润发",
+      "relation_type": "customer",
+      "business_details": "直营商超客户",
+      "quote": "大润发 指 阿里巴巴旗下（原大润发流通事业股份有限公司旗下）商超系统。"
+    },
+    {
+      "name": "华润万家",
+      "relation_type": "customer",
+      "business_details": "直营商超客户",
+      "quote": "华润万家 指 华润万家有限公司旗下商超系统。"
+    },
+    {
+      "name": "鸣鸣很忙",
+      "relation_type": "customer",
+      "business_details": "零食量贩渠道合作方",
+      "quote": "鸣鸣很忙 指 湖南鸣鸣很忙商业连锁有限公司。"
+    },
+    {
+      "name": "零食很忙",
+      "relation_type": "customer",
+      "business_details": "零食量贩渠道合作方",
+      "quote": "零食很忙 指 湖南零食很忙商业连锁有限公司。"
+    },
+    {
+      "name": "赵一鸣",
+      "relation_type": "customer",
+      "business_details": "零食量贩渠道合作方",
+      "quote": "赵一鸣 指 宜春市赵一鸣商贸有限公司。"
+    },
+    {
+      "name": "零食有鸣",
+      "relation_type": "customer",
+      "business_details": "零食量贩渠道合作方",
+      "quote": "零食有鸣 指 成都零食有鸣商业管理有限公司。"
+    },
+    {
+      "name": "农心集团",
+      "relation_type": "competitor",
+      "business_details": "国际知名品牌，与公司有品牌联名合作",
+      "quote": "品牌端，与国际知名品牌农心集团开展品牌联名，联合研发辛辣豆腐新品上市。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "魔芋零食",
+      "segment_type": "product_line",
+      "revenue_amount": "1,737,380,012.06元",
+      "revenue_proportion": "占营业收入30.15%",
+      "gross_margin": "34.48%",
+      "yoy_change": "107.23%",
+      "quote": "魔芋零食 1,737,380,012.06 30.15% ... 营业收入比上年同期增减 107.23% ... 毛利率比上年同期增减 1.21%"
+    },
+    {
+      "name": "海味零食",
+      "segment_type": "product_line",
+      "revenue_amount": "759,954,924.35元",
+      "revenue_proportion": "占营业收入13.19%",
+      "gross_margin": "45.64%",
+      "yoy_change": "12.53%",
+      "quote": "海味零食 759,954,924.35 13.19% ... 营业收入比上年同期增减 12.53% ... 毛利率比上年同期增减 -7.54%"
+    },
+    {
+      "name": "健康蛋制品",
+      "segment_type": "product_line",
+      "revenue_amount": "628,174,334.73元",
+      "revenue_proportion": "占营业收入10.90%",
+      "gross_margin": "27.73%",
+      "yoy_change": "8.35%",
+      "quote": "健康蛋制品 628,174,334.73 10.90% ... 营业收入比上年同期增减 8.35% ... 毛利率比上年同期增减 5.63%"
+    },
+    {
+      "name": "休闲豆制品",
+      "segment_type": "product_line",
+      "revenue_amount": "360,170,739.61元",
+      "revenue_proportion": "占营业收入6.25%",
+      "gross_margin": "30.25%",
+      "yoy_change": "-0.39%",
+      "quote": "休闲豆制品 360,170,739.61 6.25% ... 营业收入比上年同期增减 -0.39% ... 毛利率比上年同期增减 -6.25%"
+    },
+    {
+      "name": "果干果冻",
+      "segment_type": "product_line",
+      "revenue_amount": "749,168,226.21元",
+      "revenue_proportion": "占营业收入13.00%",
+      "gross_margin": "20.93%",
+      "yoy_change": "4.32%",
+      "quote": "果干果冻 749,168,226.21 13.00% ... 营业收入比上年同期增减 4.32% ... 毛利率比上年同期增减 0.30%"
+    },
+    {
+      "name": "烘焙薯类",
+      "segment_type": "product_line",
+      "revenue_amount": "898,117,691.50元",
+      "revenue_proportion": "占营业收入15.59%",
+      "gross_margin": "27.42%",
+      "yoy_change": "-22.43%",
+      "quote": "烘焙薯类 898,117,691.50 15.59% ... 营业收入比上年同期增减 -22.43% ... 毛利率比上年同期增减 -1.96%"
+    },
+    {
+      "name": "华中地区（含江西省）",
+      "segment_type": "region",
+      "revenue_amount": "1,828,017,946.28元",
+      "revenue_proportion": "占线下渠道营业收入31.72%",
+      "gross_margin": "30.96%",
+      "yoy_change": "-1.97%",
+      "quote": "分地区 华中地区（含江西省） 1,828,017,946.28 31.72% ... 营业收入比上年同期增减 -1.97%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,228,768,881.23元",
+      "revenue_proportion": "占线下渠道营业收入21.32%",
+      "gross_margin": "29.03%",
+      "yoy_change": "59.61%",
+      "quote": "华东地区 1,228,768,881.23 21.32% ... 营业收入比上年同期增减 59.61%"
+    },
+    {
+      "name": "线下渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,840,564,791.28元",
+      "revenue_proportion": "占营业收入84.01%",
+      "gross_margin": "30.15%",
+      "yoy_change": "16.79%",
+      "quote": "线下渠道 4,840,564,791.28 84.01% ... 营业收入比上年同期增减 16.79% ... 毛利率比上年同期增减 0.18%"
+    },
+    {
+      "name": "线上渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "921,664,940.16元",
+      "revenue_proportion": "占营业收入15.99%",
+      "gross_margin": "34.21%",
+      "yoy_change": "-20.50%",
+      "quote": "线上渠道 921,664,940.16 15.99% ... 营业收入比上年同期增减 -20.50% ... 毛利率比上年同期增减 0.94%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "魔芋零食",
+      "metric_type": "sales_volume",
+      "value": "69,786.61吨",
+      "period": "2025年",
+      "quote": "魔芋零食 销售量 吨 69,786.61"
+    },
+    {
+      "product": "魔芋零食",
+      "metric_type": "production_volume",
+      "value": "77,051.66吨",
+      "period": "2025年",
+      "quote": "魔芋零食 生产量 吨 77,051.66"
+    },
+    {
+      "product": "魔芋零食",
+      "metric_type": "inventory_volume",
+      "value": "2,924.60吨",
+      "period": "2025年末",
+      "quote": "魔芋零食 库存量 吨 2,924.60"
+    },
+    {
+      "product": "海味零食",
+      "metric_type": "sales_volume",
+      "value": "26,988.87吨",
+      "period": "2025年",
+      "quote": "海味零食 销售量 吨 26,988.87"
+    },
+    {
+      "product": "海味零食",
+      "metric_type": "production_volume",
+      "value": "26,914.78吨",
+      "period": "2025年",
+      "quote": "海味零食 生产量 吨 26,914.78"
+    },
+    {
+      "product": "海味零食",
+      "metric_type": "inventory_volume",
+      "value": "955.71吨",
+      "period": "2025年末",
+      "quote": "海味零食 库存量 吨 955.71"
+    },
+    {
+      "product": "健康蛋制品",
+      "metric_type": "sales_volume",
+      "value": "18,484.85吨",
+      "period": "2025年",
+      "quote": "健康蛋制品 销售量 吨 18,484.85"
+    },
+    {
+      "product": "健康蛋制品",
+      "metric_type": "production_volume",
+      "value": "17,814.39吨",
+      "period": "2025年",
+      "quote": "健康蛋制品 生产量 吨 17,814.39"
+    },
+    {
+      "product": "健康蛋制品",
+      "metric_type": "inventory_volume",
+      "value": "642.65吨",
+      "period": "2025年末",
+      "quote": "健康蛋制品 库存量 吨 642.65"
+    },
+    {
+      "product": "休闲豆制品",
+      "metric_type": "sales_volume",
+      "value": "17,656.81吨",
+      "period": "2025年",
+      "quote": "休闲豆制品 销售量 吨 17,656.81"
+    },
+    {
+      "product": "休闲豆制品",
+      "metric_type": "production_volume",
+      "value": "17,593.84吨",
+      "period": "2025年",
+      "quote": "休闲豆制品 生产量 吨 17,593.84"
+    },
+    {
+      "product": "休闲豆制品",
+      "metric_type": "inventory_volume",
+      "value": "606.10吨",
+      "period": "2025年末",
+      "quote": "休闲豆制品 库存量 吨 606.10"
+    },
+    {
+      "product": "果干果冻",
+      "metric_type": "sales_volume",
+      "value": "41,615.36吨",
+      "period": "2025年",
+      "quote": "果干果冻 销售量 吨 41,615.36"
+    },
+    {
+      "product": "果干果冻",
+      "metric_type": "production_volume",
+      "value": "40,087.58吨",
+      "period": "2025年",
+      "quote": "果干果冻 生产量 吨 40,087.58"
+    },
+    {
+      "product": "果干果冻",
+      "metric_type": "inventory_volume",
+      "value": "3,484.70吨",
+      "period": "2025年末",
+      "quote": "果干果冻 库存量 吨 3,484.70"
+    },
+    {
+      "product": "烘焙薯类",
+      "metric_type": "sales_volume",
+      "value": "46,988.83吨",
+      "period": "2025年",
+      "quote": "烘焙薯类 销售量 吨 46,988.83"
+    },
+    {
+      "product": "烘焙薯类",
+      "metric_type": "production_volume",
+      "value": "45,478.96吨",
+      "period": "2025年",
+      "quote": "烘焙薯类 生产量 吨 45,478.96"
+    },
+    {
+      "product": "烘焙薯类",
+      "metric_type": "inventory_volume",
+      "value": "836.48吨",
+      "period": "2025年末",
+      "quote": "烘焙薯类 库存量 吨 836.48"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "蛋皇纪（二期）",
+      "project_type": "capacity_expansion",
+      "location": "江西",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已竣工投产",
+      "expected_completion_time": null,
+      "quote": "2025年，蛋皇纪（二期）顺利竣工并投产，公司鹌鹑养殖农场总占地面积与养殖总出栏量均提升约100%。"
+    },
+    {
+      "name": "魔芋精粉加工产线",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成",
+      "expected_completion_time": null,
+      "quote": "公司建设的魔芋精粉加工产线，通过研发创新打造的大魔王“素毛肚”，一经推出成为行业内的现象级产品。"
+    },
+    {
+      "name": "马铃薯全粉加工基地",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成",
+      "expected_completion_time": null,
+      "quote": "已建成的马铃薯全粉加工基地，为薯类零食发展奠定坚实基础。"
+    },
+    {
+      "name": "湖南浏阳、江西修水、河南漯河、广西凭祥生产基地",
+      "project_type": "capacity_expansion",
+      "location": "湖南浏阳、江西修水、河南漯河、广西凭祥",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成运营",
+      "expected_completion_time": null,
+      "quote": "公司目前在湖南浏阳、江西修水、河南漯河、广西凭祥共有4个生产基地。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": "全品类产品",
+      "quantitative_info": null,
+      "quote": "ISO9001 指 是全球使用最广泛的质量管理标准..."
+    },
+    {
+      "name": "HACCP食品安全管理体系",
+      "asset_type": "certification",
+      "related_product": "全品类产品",
+      "quantitative_info": null,
+      "quote": "HACCP 指 《中华人民共和国食品安全法》明确鼓励食品企业实施危害分析与关键控制点体系..."
+    },
+    {
+      "name": "ISO22000食品安全管理体系",
+      "asset_type": "certification",
+      "related_product": "全品类产品",
+      "quantitative_info": null,
+      "quote": "ISO22000 指 规定了食品安全管理体系(FSMS)的要求..."
+    },
+    {
+      "name": "CMA、CNAS认证检测能力",
+      "asset_type": "certification",
+      "related_product": "食品检测",
+      "quantitative_info": null,
+      "quote": "公司先后建成三个省级创新平台，拥有CMA、CNAS认证的检测公司。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "食品生产、配方、设备",
+      "quantitative_info": "超百项",
+      "quote": "公司及其子公司共拥有专利超百项，改良多个产品的传统配方，设计改造食品生产线..."
+    },
+    {
+      "name": "实验工厂研发模式",
+      "asset_type": "technical_platform",
+      "related_product": "新品研发",
+      "quantitative_info": null,
+      "quote": "公司采用“实验工厂”模式开展已有产品的改进和新产品的研发工作，将研发环节和生产环节有机结合。"
+    },
+    {
+      "name": "智能制造示范工厂",
+      "asset_type": "certification",
+      "related_product": "生产制造",
+      "quantitative_info": null,
+      "quote": "烘焙食品智能制造示范工厂入围工信部智能制造示范工厂，成为唯一入榜的A股休闲零食上市公司。"
+    },
+    {
+      "name": "中国驰名商标",
+      "asset_type": "certification",
+      "related_product": "盐津铺子品牌",
+      "quantitative_info": null,
+      "quote": "2011年，“盐津铺子”商标被国家市场监督管理总局认定为“中国驰名商标”。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,466,981,272.98元，占年度销售总额比例42.81%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,466,981,272.98 前五名客户合计销售金额占年度销售总额比例 42.81%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "1,777,464,226.77元，占年度销售总额比例30.85%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 1,777,464,226.77 30.85%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "965,726,134.59元，占年度采购总额比例31.78%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 965,726,134.59 前五名供应商合计采购金额占年度采购总额比例 31.78%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "401,578,256.90元，占年度采购总额比例13.22%",
+      "related_entity": "供应商一（云南津绝魔芋食品有限公司）",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 401,578,256.90 13.22%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全控制风险，包括监管趋严、添加剂政策变化、运营疏忽导致食品安全事故，影响品牌和经营。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）食品质量安全控制的风险：随着消费者对食品安全和权益保护意识的增强及政府部门对食品安全监管的日趋严格，食品质量控制已经成为食品加工企业的重中之重。此类风险将体现为三个方面：一是食品质量安全监管的趋严，将促使公司加大投入而导致成本上升；二是国家有关添加剂的政策发生变化，如禁止添加某种添加剂或要求大幅减少，在短期难以迅速调整工艺配方的情况下可能会影响某种产品的生产经营；三是公司的运营过程中出现疏忽，发生食品安全问题或事故，可能影响公司的品牌和美誉度，从而对公司的业务、财务状况或经营业绩产生重大不利影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "行业内重大食品安全事故风险，可能波及整个行业，影响公司形象和消费者信心。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）行业内重大食品安全事故导致的行业发展风险：公司所处的休闲食品行业...如果个别企业发生重大食品安全事故，所产生的负面影响将会波及整个行业，对行业形象、消费者信心造成严重损害，从而会对包括本公司在内的行业内的企业产生重大影响。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "市场出现假冒伪劣产品风险，影响公司声誉、品牌形象及经济效益。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）市场出现假冒伪劣产品风险：...部分不法人员或企业可能生产或销售涉及公司品牌的假冒伪劣及侵权产品，若上述违法行为不能得到及时的制止，将会给公司声誉、品牌形象及经济效益等诸多方面造成一定的不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争风险，新兴品牌及跨界资本涌入，导致行业竞争格局持续升级。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）市场竞争风险：公司目前整体运营稳健...传统风味休闲食品行业具有准入门槛相对较低、产品迭代周期短等特点，近年来伴随消费升级趋势，新兴品牌及跨界资本持续涌入赛道，导致行业竞争格局呈现持续升级态势。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料魔芋精粉价格大幅波动风险，因供给端（气候、种植面积）和需求端（健康零食需求、产业资本涌入）因素导致价格上涨。",
+      "related_entity": null,
+      "related_product": "魔芋零食",
+      "quote": "报告期内，公司主要原材料魔芋精粉采购均价较上年同期变动超过30%，主要系：（1）原材料供给端：气候因素...种植结构调整...（2）市场需求端：健康零食需求爆发...产业资本涌入..."
+    }
+  ]
+}

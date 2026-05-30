@@ -1,0 +1,472 @@
+{
+  "company_name_mentioned": "江苏沙钢股份有限公司",
+  "produces": [
+    {
+      "name": "优特钢",
+      "type": "material",
+      "revenue_proportion": "92.12% (钢铁行业收入占比，优特钢为主要构成)",
+      "quote": "公司主要从事黑色金属冶炼、压延加工，主营优特钢及商用车齿轮的研发、生产与销售。目前公司生产线采用长短流程相结合的模式，精整工序配套完备，工艺装备行业先进，具备年产优特钢320万吨、商用车齿轮220万件的生产能力。"
+    },
+    {
+      "name": "棒材",
+      "type": "material",
+      "revenue_proportion": "80.45%",
+      "quote": "棒材 营业收入 10,556,339,439.97 占营业收入比重 80.45%"
+    },
+    {
+      "name": "钢坯",
+      "type": "material",
+      "revenue_proportion": "11.66%",
+      "quote": "钢坯 营业收入 1,530,186,925.01 占营业收入比重 11.66%"
+    },
+    {
+      "name": "商用车齿轮",
+      "type": "component",
+      "revenue_proportion": "1.52% (齿轮行业收入占比，商用车齿轮为主要构成)",
+      "quote": "具备年产优特钢320万吨、商用车齿轮220万件的生产能力。公司齿轮产品包含汽车发动机齿轮、变速箱齿轮、后桥齿轮、螺旋伞齿轮、商用车齿轮及新能源汽车齿轮等，主要应用于汽车发动机、变速箱、商用车、新能源汽车、船舶发动机、发电机组、高端农机等装备领域。"
+    },
+    {
+      "name": "服务",
+      "type": "service",
+      "revenue_proportion": "0.17%",
+      "quote": "服务行业 营业收入 22,546,207.30 占营业收入比重 0.17%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "钢铁生产",
+      "cost_proportion": "50.66% (钢铁行业原辅材料成本占比)",
+      "quote": "煤炭、焦炭、部分主要合金等关键原材料采用与厂矿直接合作的年度长协直供模式。"
+    },
+    {
+      "name": "焦炭",
+      "target_product": "钢铁生产",
+      "cost_proportion": null,
+      "quote": "煤炭、焦炭、部分主要合金等关键原材料采用与厂矿直接合作的年度长协直供模式。"
+    },
+    {
+      "name": "铁矿石",
+      "target_product": "钢铁生产",
+      "cost_proportion": null,
+      "quote": "铁矿石以国内港口现货议价采购为主。"
+    },
+    {
+      "name": "废钢",
+      "target_product": "钢铁生产",
+      "cost_proportion": null,
+      "quote": "废钢由综合实力较强的基地供应商实行年度长协供应。"
+    },
+    {
+      "name": "合金",
+      "target_product": "钢铁生产",
+      "cost_proportion": null,
+      "quote": "耐材、合金、炉料辅料、含钙溶剂、生产辅料、设备配件及外包服务等主要通过公开招标方式采购。"
+    },
+    {
+      "name": "耐火材料",
+      "target_product": "钢铁生产",
+      "cost_proportion": null,
+      "quote": "耐材、合金、炉料辅料、含钙溶剂、生产辅料、设备配件及外包服务等主要通过公开招标方式采购。"
+    },
+    {
+      "name": "设备配件及外包服务",
+      "target_product": "生产运营",
+      "cost_proportion": null,
+      "quote": "耐材、合金、炉料辅料、含钙溶剂、生产辅料、设备配件及外包服务等主要通过公开招标方式采购。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车",
+      "source_product": "优特钢（汽车用钢）、齿轮（发动机齿轮、变速箱齿轮等）",
+      "quote": "广泛应用于汽车、轨道交通、工程机械、能源装备、工业机械、海洋装备等重点领域。"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "优特钢（轨道交通用钢）",
+      "quote": "广泛应用于汽车、轨道交通、工程机械、能源装备、工业机械、海洋装备等重点领域。"
+    },
+    {
+      "name": "工程机械",
+      "source_product": "优特钢（工程机械用钢）",
+      "quote": "广泛应用于汽车、轨道交通、工程机械、能源装备、工业机械、海洋装备等重点领域。"
+    },
+    {
+      "name": "能源装备",
+      "source_product": "优特钢（能源用钢）",
+      "quote": "广泛应用于汽车、轨道交通、工程机械、能源装备、工业机械、海洋装备等重点领域。"
+    },
+    {
+      "name": "工业机械",
+      "source_product": "优特钢（机械工业用钢）",
+      "quote": "广泛应用于汽车、轨道交通、工程机械、能源装备、工业机械、海洋装备等重点领域。"
+    },
+    {
+      "name": "海洋装备",
+      "source_product": "优特钢（船用锚链钢等）",
+      "quote": "广泛应用于汽车、轨道交通、工程机械、能源装备、工业机械、海洋装备等重点领域。"
+    },
+    {
+      "name": "商用车",
+      "source_product": "齿轮（商用车齿轮）",
+      "quote": "主要应用于汽车发动机、变速箱、商用车、新能源汽车、船舶发动机、发电机组、高端农机等装备领域。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "齿轮（新能源汽车齿轮）",
+      "quote": "主要应用于汽车发动机、变速箱、商用车、新能源汽车、船舶发动机、发电机组、高端农机等装备领域。"
+    },
+    {
+      "name": "船舶发动机",
+      "source_product": "齿轮",
+      "quote": "主要应用于汽车发动机、变速箱、商用车、新能源汽车、船舶发动机、发电机组、高端农机等装备领域。"
+    },
+    {
+      "name": "军工领域",
+      "source_product": "齿轮（部分产品）",
+      "quote": "部分产品随主要客户配套应用于相关军工领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "季永新",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人季永新。现任：江苏沙钢股份有限公司董事长；江苏沙钢集团淮钢特钢股份有限公司董事长、党委书记。"
+    },
+    {
+      "name": "钱洪建",
+      "role": "董事、总经理",
+      "quote": "钱洪建先生，男，60岁，董事、总经理，现任。"
+    },
+    {
+      "name": "杨华",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "杨华先生，男，47岁，董事、副总经理、董事会秘书，现任。"
+    },
+    {
+      "name": "张兆斌",
+      "role": "财务总监",
+      "quote": "张兆斌先生，男，63岁，财务总监，现任。"
+    },
+    {
+      "name": "沈彬",
+      "role": "实际控制人",
+      "quote": "实际控制人姓名：沈彬。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "江苏沙钢集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "沙钢集团 指 江苏沙钢集团有限公司（公司控股股东）。控股股东报告期末控股和参股的其他境内上市公司的股权情况：截至2025年12月31日，沙钢集团直接持有公司587,871,726股股份，占公司总股本的26.80%。"
+    },
+    {
+      "name": "江苏沙钢集团淮钢特钢股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主要业务为钢铁冶炼",
+      "quote": "淮钢公司 指 江苏沙钢集团淮钢特钢股份有限公司（公司控股子公司）。主要子公司及对公司净利润影响达10%以上的参股公司情况：江苏沙钢集团淮钢特钢股份有限公司，公司类型：子公司，主要业务：钢铁冶炼。"
+    },
+    {
+      "name": "山东鹰轮机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主要业务为轴承、齿轮和传动部件制造",
+      "quote": "山东鹰轮 指 山东鹰轮机械有限公司（公司控股子公司）。主要子公司及对公司净利润影响达10%以上的参股公司情况：山东鹰轮机械有限公司，公司类型：子公司，主要业务：轴承、齿轮和传动部件制造。"
+    },
+    {
+      "name": "江苏利淮钢铁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "淮钢公司控股子公司，主要业务为钢铁冶炼",
+      "quote": "江苏利淮 指 江苏利淮钢铁有限公司（淮钢公司控股子公司）。主要子公司及对公司净利润影响达10%以上的参股公司情况：江苏利淮钢铁有限公司，公司类型：子公司，主要业务：钢铁冶炼。"
+    },
+    {
+      "name": "东北特殊钢集团股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "实际控制人通过锦程沙洲投资持有其43%的股权，其特钢业务与公司形成同业竞争",
+      "quote": "东北特殊钢集团股份有限公司...其特钢产品与淮钢公司虽然在产品结构、销售区域及终端客户等方面存在差异，但均属特钢领域，所以与公司形成同业竞争。"
+    },
+    {
+      "name": "客户1",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "客户1 销售额（元） 858,222,084.41 占年度销售总额比例 6.54%"
+    },
+    {
+      "name": "供应商1",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，为关联方",
+      "quote": "供应商1 采购额（元） 1,775,066,025.52 占年度采购总额比例 16.65%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "钢铁行业",
+      "segment_type": "product_line",
+      "revenue_amount": "12,086,526,364.98",
+      "revenue_proportion": "92.12%",
+      "gross_margin": "9.06%",
+      "yoy_change": "-7.35%",
+      "quote": "钢铁行业 营业收入 12,086,526,364.98 占营业收入比重 92.12% 毛利率 9.06% 营业收入比上年同期增减 -7.35%"
+    },
+    {
+      "name": "齿轮行业",
+      "segment_type": "product_line",
+      "revenue_amount": "199,384,968.08",
+      "revenue_proportion": "1.52%",
+      "gross_margin": null,
+      "yoy_change": "-11.70%",
+      "quote": "齿轮行业 营业收入 199,384,968.08 占营业收入比重 1.52% 营业收入比上年同期增减 -11.70%"
+    },
+    {
+      "name": "服务行业",
+      "segment_type": "product_line",
+      "revenue_amount": "22,546,207.30",
+      "revenue_proportion": "0.17%",
+      "gross_margin": null,
+      "yoy_change": "-13.72%",
+      "quote": "服务行业 营业收入 22,546,207.30 占营业收入比重 0.17% 营业收入比上年同期增减 -13.72%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "other",
+      "revenue_amount": "812,603,028.01",
+      "revenue_proportion": "6.19%",
+      "gross_margin": null,
+      "yoy_change": "-27.37%",
+      "quote": "其他业务 营业收入 812,603,028.01 占营业收入比重 6.19% 营业收入比上年同期增减 -27.37%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "12,751,548,126.45",
+      "revenue_proportion": "97.18%",
+      "gross_margin": "9.23%",
+      "yoy_change": "-8.00%",
+      "quote": "国内销售 营业收入 12,751,548,126.45 占营业收入比重 97.18% 毛利率 9.23% 营业收入比上年同期增减 -8.00%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "369,512,441.92",
+      "revenue_proportion": "2.82%",
+      "gross_margin": null,
+      "yoy_change": "-33.52%",
+      "quote": "国外销售 营业收入 369,512,441.92 占营业收入比重 2.82% 营业收入比上年同期增减 -33.52%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "优特钢",
+      "metric_type": "capacity",
+      "value": "320万吨",
+      "period": "报告期末",
+      "quote": "具备年产优特钢320万吨、商用车齿轮220万件的生产能力。"
+    },
+    {
+      "product": "商用车齿轮",
+      "metric_type": "capacity",
+      "value": "220万件",
+      "period": "报告期末",
+      "quote": "具备年产优特钢320万吨、商用车齿轮220万件的生产能力。"
+    },
+    {
+      "product": "钢铁行业",
+      "metric_type": "sales_volume",
+      "value": "3,457,799吨",
+      "period": "2025年",
+      "quote": "钢铁行业 销售量 吨 3,457,799"
+    },
+    {
+      "product": "钢铁行业",
+      "metric_type": "production_volume",
+      "value": "3,439,868吨",
+      "period": "2025年",
+      "quote": "钢铁行业 生产量 吨 3,439,868"
+    },
+    {
+      "product": "钢铁行业",
+      "metric_type": "inventory_volume",
+      "value": "244,178吨",
+      "period": "2025年末",
+      "quote": "钢铁行业 库存量 吨 244,178"
+    },
+    {
+      "product": "优特钢",
+      "metric_type": "other",
+      "value": "101.1%",
+      "period": "2025年",
+      "quote": "全年实现销售开票347.52万吨，产销率101.1%。"
+    },
+    {
+      "product": "品种钢",
+      "metric_type": "other",
+      "value": "62.49%",
+      "period": "2025年",
+      "quote": "品种钢占比提升至62.49%，同比增加4.35%。"
+    },
+    {
+      "product": "直供比例",
+      "metric_type": "other",
+      "value": "47.27%",
+      "period": "2025年",
+      "quote": "直供比达47.27%，同比提高6%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "2#1350m³高炉建设工程",
+      "project_type": "capacity_expansion",
+      "location": "江苏省淮安市",
+      "investment_amount": "53,213.75845万元（报告期投入）",
+      "designed_capacity": null,
+      "progress": "25.00%",
+      "expected_completion_time": null,
+      "quote": "高炉绿色低碳升级改造项目（2#高炉工程） 投资总额 53,213.75845万元 进度 25.00%。公司全力推进“十四五”规划项目建设，2025年启动2#1350m³高炉建设。"
+    },
+    {
+      "name": "2#银亮线改造",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "公司全力推进2#1350m³高炉、2#银亮线改造、100MWCCPP发电机组等重点项目。"
+    },
+    {
+      "name": "100MWCCPP发电机组",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "公司全力推进2#1350m³高炉、2#银亮线改造、100MWCCPP发电机组等重点项目。"
+    },
+    {
+      "name": "超低排技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "2,000余万元",
+      "designed_capacity": null,
+      "progress": "全部完成热调试并投入运行",
+      "expected_completion_time": null,
+      "quote": "投资2,000余万元实施焦化烟气脱硫脱硝、臭气收集处理等超低排技改项目，全部完成热调试并投入运行。"
+    },
+    {
+      "name": "新能源商用车齿轮生产基地",
+      "project_type": "capacity_expansion",
+      "location": "依托公司现有20亩自有地块",
+      "investment_amount": null,
+      "designed_capacity": "30万件新能源商用车齿轮",
+      "progress": "计划建设",
+      "expected_completion_time": "2026年末",
+      "quote": "加快新能源齿轮生产基地建设。按照公司整体战略部署规划，依托公司现有20亩自有地块，计划建设1个智能化热后精磨车间，建成后将实现30万件新能源商用车齿轮的产能规模。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "省级企业技术中心、省级重点实验室、省级工程技术研究中心",
+      "asset_type": "technical_platform",
+      "related_product": "优特钢、齿轮",
+      "quantitative_info": "三大省级创新平台",
+      "quote": "目前，公司构建了“省级+市级”全覆盖的创新研发体系，拥有省级企业技术中心、省级重点实验室、省级工程技术研究中心三大省级创新平台。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年累计申报专利65项，获授权专利47项（其中发明专利18项）",
+      "quote": "2025年累计申报专利65项，获授权专利47项（其中发明专利18项），成功入选国家知识产权示范企业。"
+    },
+    {
+      "name": "主导参与国家标准及行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "2025年主导、参与发布3项国家标准及1项行业标准",
+      "quote": "2025年主导、参与发布3项国家标准（承压设备用钢锻件、轧制或锻制钢棒系列）及1项行业标准（贝氏体合金钢辙叉超声检测方法）。"
+    },
+    {
+      "name": "先进钢铁材料高效低碳电炉短流程技术",
+      "asset_type": "core_technology",
+      "related_product": "优特钢",
+      "quantitative_info": null,
+      "quote": "“先进钢铁材料高效低碳电炉短流程技术”“新一代高速列车关键部件评价及关键合金低碳技术”等重大项目成功入选“工信部国家科技重大专项项目”。"
+    },
+    {
+      "name": "齿轮加工精度",
+      "asset_type": "process_technology",
+      "related_product": "齿轮",
+      "quantitative_info": "达到GB10095国家标准5级，技术能力可达4级精度水平",
+      "quote": "公司齿轮产品加工精度达到GB10095国家标准5级，技术能力可达GB10095国家标准4级精度水平。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "24.18%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 3,172,220,410.63 前五名客户合计销售金额占年度销售总额比例 24.18%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "6.54%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "客户1 销售额（元） 858,222,084.41 占年度销售总额比例 6.54%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "36.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 3,859,968,029.87 前五名供应商合计采购金额占年度采购总额比例 36.20%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "16.65%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "供应商1 采购额（元） 1,775,066,025.52 占年度采购总额比例 16.65%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "特钢行业市场竞争日趋激烈，众多普钢企业推行“普转优”“优转特”策略，导致公司重点产品面临的市场竞争压力持续加大。",
+      "related_entity": null,
+      "related_product": "优特钢",
+      "quote": "特钢行业市场竞争日趋激烈，尽管国内经济保持“稳中求进”总基调...但受特钢产品较高盈利水平吸引，众多普钢企业纷纷推行“普转优”“优转特”的多元化发展策略，导致公司重点产品面临的市场竞争压力持续加大。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "齿轮行业正处于新旧动能转换关键期，新能源汽车等细分领域对齿轮产品的精度、承载能力、轻量化及低噪音特性提出了更高要求。",
+      "related_entity": null,
+      "related_product": "齿轮",
+      "quote": "随着新能源汽车、智能制造等新兴产业快速发展，齿轮行业正处于新旧动能转换、培育新质生产力的关键窗口期...下游市场对齿轮产品的精度、承载能力提出了更高要求，同时对产品轻量化、低噪音等特性的标准也更为严苛。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料市场价格受多重因素影响，异常上涨导致采购成本上升、企业利润空间受压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料市场价格受宏观经济、供需关系、政策调控等多重因素影响，呈现瞬息万变、跌宕起伏的态势，主要是市场价格异常上涨导致采购成本上升、企业利润空间受压的风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "国家对钢铁行业超低排放、能耗双控及碳达峰目标提出刚性要求，环保治理投入与合规压力不断加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着《“十四五”节能减排综合工作方案》深入实施，国家对钢铁行业超低排放、能耗双控及碳达峰目标提出刚性要求，钢铁企业环保管理标准持续提升，环保治理投入与环保合规压力不断加大。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "钢铁行业淘汰落后、准入门槛等产业政策动态完善，若公司未能及时顺应政策导向，可能面临竞争劣势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在“双碳”目标引领下，国家持续优化能源供给结构、推动消费模式转型，钢铁行业市场格局加速调整，行业淘汰落后、准入门槛等产业政策动态完善。若公司未能及时顺应政策导向，可能在行业结构优化升级过程中面临竞争劣势。"
+    }
+  ]
+}

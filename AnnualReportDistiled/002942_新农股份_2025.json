@@ -1,0 +1,574 @@
+{
+  "company_name_mentioned": "浙江新农化工股份有限公司",
+  "produces": [
+    {
+      "name": "噻唑锌系列制剂",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司杀菌剂以自主创新化合物噻唑锌及其制剂产品（碧氏系列）为核心...公司主要产品噻唑锌（碧生®）属于杀菌剂中的细菌性病害防治药剂。"
+    },
+    {
+      "name": "吡唑醚菌酯系列制剂",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "吡唑醚菌酯是一种广谱杀菌剂...公司掌握了吡唑醚菌酯从原药到制剂的一整套流程工艺。"
+    },
+    {
+      "name": "毒死蜱系列制剂",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "毒死蜱系又一取代高毒农药的杀虫剂类产品...毒死蜱系列产品曾获得国家科学技术进步二等奖。"
+    },
+    {
+      "name": "三唑磷系列制剂",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司拥有国内首条三唑磷原药生产线并实现规模化生产。"
+    },
+    {
+      "name": "三唑磷原药",
+      "type": "material",
+      "revenue_proportion": "自用",
+      "quote": "三唑磷原药...自用"
+    },
+    {
+      "name": "毒死蜱原药",
+      "type": "material",
+      "revenue_proportion": "15-20%",
+      "quote": "毒死蜱原药...15-20%"
+    },
+    {
+      "name": "噻唑锌原药",
+      "type": "material",
+      "revenue_proportion": "自用",
+      "quote": "噻唑锌原药...自用"
+    },
+    {
+      "name": "吡唑醚菌酯原药",
+      "type": "material",
+      "revenue_proportion": "自用",
+      "quote": "吡唑醚菌酯原药...自用"
+    },
+    {
+      "name": "乙基氯化物",
+      "type": "material",
+      "revenue_proportion": "自用为主，余量外销",
+      "quote": "乙基氯化物...自用为主，余量外销"
+    },
+    {
+      "name": "N-（1-乙基丙基)-3,4-二甲基苯胺",
+      "type": "material",
+      "revenue_proportion": "30%",
+      "quote": "N-（1-乙基丙基)-3,4-二甲基苯胺...30%"
+    },
+    {
+      "name": "苯肼及苯肼盐",
+      "type": "material",
+      "revenue_proportion": "25%",
+      "quote": "苯肼及苯肼盐...25%"
+    },
+    {
+      "name": "1,3-环己二酮",
+      "type": "material",
+      "revenue_proportion": "40-50%",
+      "quote": "1,3-环己二酮...40-50%"
+    },
+    {
+      "name": "农药制剂",
+      "type": "device",
+      "revenue_proportion": "45.26%",
+      "quote": "分产品：制剂 501,598,848.01元，占营业收入比重45.26%。"
+    },
+    {
+      "name": "原药及中间体",
+      "type": "material",
+      "revenue_proportion": "49.72%",
+      "quote": "分产品：原药及中间体 550,946,308.99元，占营业收入比重49.72%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "A材料",
+      "target_product": null,
+      "cost_proportion": "11.20%",
+      "quote": "主要原材料...A材料 向供应商直接议价采购 11.20%"
+    },
+    {
+      "name": "B材料",
+      "target_product": null,
+      "cost_proportion": "7.94%",
+      "quote": "主要原材料...B材料 向供应商直接议价采购 7.94%"
+    },
+    {
+      "name": "C材料",
+      "target_product": null,
+      "cost_proportion": "4.34%",
+      "quote": "主要原材料...C材料 向供应商直接议价采购 4.34%"
+    },
+    {
+      "name": "D材料",
+      "target_product": null,
+      "cost_proportion": "3.50%",
+      "quote": "主要原材料...D材料 向供应商直接议价采购 3.50%"
+    },
+    {
+      "name": "E材料",
+      "target_product": null,
+      "cost_proportion": "1.49%",
+      "quote": "主要原材料...E材料 向供应商直接议价采购 1.49%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "粮食作物",
+      "source_product": "噻唑锌系列制剂、毒死蜱系列制剂、三唑磷系列制剂",
+      "quote": "噻唑锌系列制剂 防治大田、果树、蔬菜等细菌性病害...三唑磷系列制剂 防治果树、棉花、粮食类作物上的鳞翅目害虫、害螨、蝇类幼虫及地下害虫等。"
+    },
+    {
+      "name": "果树",
+      "source_product": "噻唑锌系列制剂、吡唑醚菌酯系列制剂、毒死蜱系列制剂",
+      "quote": "噻唑锌系列制剂 防治大田、果树、蔬菜等细菌性病害...吡唑醚菌酯系列制剂 防治果树、蔬菜等真菌性病害...毒死蜱系列制剂 果树虫害（蚧壳虫、木虱、蚜虫等）"
+    },
+    {
+      "name": "蔬菜",
+      "source_product": "噻唑锌系列制剂、吡唑醚菌酯系列制剂",
+      "quote": "噻唑锌系列制剂 防治大田、果树、蔬菜等细菌性病害...吡唑醚菌酯系列制剂 防治果树、蔬菜等真菌性病害"
+    },
+    {
+      "name": "棉花",
+      "source_product": "三唑磷系列制剂",
+      "quote": "三唑磷系列制剂 防治果树、棉花、粮食类作物上的鳞翅目害虫、害螨、蝇类幼虫及地下害虫等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐群辉",
+      "role": "董事长、总经理、法定代表人、实际控制人",
+      "quote": "公司负责人徐群辉...董事长、总经理...徐群辉先生，公司董事长、总经理。"
+    },
+    {
+      "name": "徐月星",
+      "role": "董事、实际控制人",
+      "quote": "徐月星先生，公司董事...实际控制人徐群辉、徐月星、泮玉燕。"
+    },
+    {
+      "name": "泮玉燕",
+      "role": "董事、实际控制人",
+      "quote": "泮玉燕女士，公司董事...实际控制人徐群辉、徐月星、泮玉燕。"
+    },
+    {
+      "name": "王湛钦",
+      "role": "董事、副总经理",
+      "quote": "王湛钦先生，公司董事、副总经理。"
+    },
+    {
+      "name": "张坚荣",
+      "role": "董事、副总经理",
+      "quote": "张坚荣先生，公司董事、副总经理。"
+    },
+    {
+      "name": "方建芬",
+      "role": "职工代表董事",
+      "quote": "方建芬女士，公司职工代表董事。"
+    },
+    {
+      "name": "张红英",
+      "role": "独立董事",
+      "quote": "张红英女士，公司独立董事。"
+    },
+    {
+      "name": "魏彬",
+      "role": "独立董事",
+      "quote": "魏彬女士，公司独立董事。"
+    },
+    {
+      "name": "吴茵",
+      "role": "独立董事",
+      "quote": "吴茵女士，公司独立董事。"
+    },
+    {
+      "name": "丁珍珍",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人丁珍珍...丁珍珍女士，公司财务总监。"
+    },
+    {
+      "name": "姚钢",
+      "role": "副总经理、董事会秘书",
+      "quote": "姚钢先生，公司副总经理、董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江新辉投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "新辉投资 指 浙江新辉投资有限公司，公司控股股东"
+    },
+    {
+      "name": "浙江新农进出口有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "新农进出口 指 浙江新农进出口有限公司，公司全资子公司"
+    },
+    {
+      "name": "江苏新农化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司（通过新农进出口持有2.5%）",
+      "quote": "江苏新农 指 江苏新农化工有限公司，公司全资子公司（通过新农进出口持有2.5%）"
+    },
+    {
+      "name": "浙江新农化工销售有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "新农销售、销售公司 指 浙江新农化工销售有限公司，公司全资子公司"
+    },
+    {
+      "name": "台州新农科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "新农科技 指 台州新农科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "新农（杭州）生物技术研究院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "新农研究院 指 新农（杭州）生物技术研究院有限公司，公司全资子公司"
+    },
+    {
+      "name": "浙江仙居农村商业银行股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股企业",
+      "quote": "仙居农商行、仙居农村信用社 指 浙江仙居农村商业银行股份有限公司，曾用名仙居县农村信用合作联社，公司参股企业"
+    },
+    {
+      "name": "江苏南大环保科技有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股企业",
+      "quote": "南大环保 指 江苏南大环保科技有限公司，公司参股企业"
+    },
+    {
+      "name": "巴斯夫",
+      "relation_type": "customer",
+      "business_details": "国际农化企业，建立了战略合作关系；海外客户主要包括巴斯夫",
+      "quote": "与国际农化企业巴斯夫、先正达、FMC 等多家农化类跨国公司建立了战略合作关系...拥有的海外客户主要包括巴斯夫、科迪华、拜耳、FMC 等多家国际知名农化企业。"
+    },
+    {
+      "name": "先正达",
+      "relation_type": "customer",
+      "business_details": "国际农化企业，建立了战略合作关系",
+      "quote": "与国际农化企业巴斯夫、先正达、FMC 等多家农化类跨国公司建立了战略合作关系"
+    },
+    {
+      "name": "FMC",
+      "relation_type": "customer",
+      "business_details": "国际农化企业，建立了战略合作关系；海外客户主要包括FMC",
+      "quote": "与国际农化企业巴斯夫、先正达、FMC 等多家农化类跨国公司建立了战略合作关系...拥有的海外客户主要包括巴斯夫、科迪华、拜耳、FMC 等多家国际知名农化企业。"
+    },
+    {
+      "name": "科迪华",
+      "relation_type": "customer",
+      "business_details": "国际农化企业，海外客户主要包括科迪华",
+      "quote": "拥有的海外客户主要包括巴斯夫、科迪华、拜耳、FMC 等多家国际知名农化企业。"
+    },
+    {
+      "name": "拜耳",
+      "relation_type": "customer",
+      "business_details": "国际农化企业，海外客户主要包括拜耳",
+      "quote": "拥有的海外客户主要包括巴斯夫、科迪华、拜耳、FMC 等多家国际知名农化企业。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "农药行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,052,545,157.00",
+      "revenue_proportion": "94.98%",
+      "gross_margin": "30.25%",
+      "yoy_change": "13.03%",
+      "quote": "分行业：农药行业 1,052,545,157.00元，占营业收入比重94.98%...毛利率30.25%"
+    },
+    {
+      "name": "原药及中间体",
+      "segment_type": "product_line",
+      "revenue_amount": "550,946,308.99",
+      "revenue_proportion": "49.72%",
+      "gross_margin": "11.00%",
+      "yoy_change": "7.77%",
+      "quote": "分产品：原药及中间体 550,946,308.99元，占营业收入比重49.72%...毛利率11.00%"
+    },
+    {
+      "name": "制剂",
+      "segment_type": "product_line",
+      "revenue_amount": "501,598,848.01",
+      "revenue_proportion": "45.26%",
+      "gross_margin": "51.39%",
+      "yoy_change": "19.45%",
+      "quote": "分产品：制剂 501,598,848.01元，占营业收入比重45.26%...毛利率51.39%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "843,238,610.97",
+      "revenue_proportion": "76.09%",
+      "gross_margin": null,
+      "yoy_change": "13.78%",
+      "quote": "分地区：国内 843,238,610.97元，占营业收入比重76.09%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "264,988,062.50",
+      "revenue_proportion": "23.91%",
+      "gross_margin": null,
+      "yoy_change": "19.82%",
+      "quote": "分地区：国外 264,988,062.50元，占营业收入比重23.91%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "781,082,374.37",
+      "revenue_proportion": "70.48%",
+      "gross_margin": null,
+      "yoy_change": "16.24%",
+      "quote": "分销售模式：直销 781,082,374.37元，占营业收入比重70.48%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "327,144,299.10",
+      "revenue_proportion": "29.52%",
+      "gross_margin": null,
+      "yoy_change": "12.69%",
+      "quote": "分销售模式：分销 327,144,299.10元，占营业收入比重29.52%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "制剂",
+      "metric_type": "capacity",
+      "value": "9,000 吨/年",
+      "period": null,
+      "quote": "主要产品的产能情况：制剂 设计产能 9,000 吨/年"
+    },
+    {
+      "product": "制剂",
+      "metric_type": "capacity_utilization",
+      "value": "100.00%",
+      "period": null,
+      "quote": "主要产品的产能情况：制剂...产能利用率 100.00%"
+    },
+    {
+      "product": "原药及中间体",
+      "metric_type": "capacity",
+      "value": "46,300吨/年",
+      "period": null,
+      "quote": "主要产品的产能情况：原药及中间体 设计产能 46,300吨/年"
+    },
+    {
+      "product": "原药及中间体",
+      "metric_type": "capacity_utilization",
+      "value": "42.61%",
+      "period": null,
+      "quote": "主要产品的产能情况：原药及中间体...产能利用率 42.61%"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "29,001.07",
+      "period": "2025年",
+      "quote": "农药行业 生产量 吨 29,001.07"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "25,442.17",
+      "period": "2025年",
+      "quote": "农药行业 销售量 吨 25,442.17"
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "2,174.31",
+      "period": "2025年末",
+      "quote": "农药行业 库存量 吨 2,174.31"
+    },
+    {
+      "product": "原药及中间体",
+      "metric_type": "production_volume",
+      "value": "19,729.53",
+      "period": null,
+      "quote": "产品名称 原药及中间体 产量（吨） 19,729.53"
+    },
+    {
+      "product": "原药及中间体",
+      "metric_type": "sales_volume",
+      "value": "16,115.77",
+      "period": null,
+      "quote": "产品名称 原药及中间体...销量（吨） 16,115.77"
+    },
+    {
+      "product": "制剂",
+      "metric_type": "production_volume",
+      "value": "9,271.54",
+      "period": null,
+      "quote": "产品名称 制剂 产量（吨） 9,271.54"
+    },
+    {
+      "product": "制剂",
+      "metric_type": "sales_volume",
+      "value": "9,326.40",
+      "period": null,
+      "quote": "产品名称 制剂...销量（吨） 9,326.40"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产 20,000 吨绿色数字化环保型制剂、生物制剂及配套项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "20,000 吨/年",
+      "progress": "土建工程阶段",
+      "expected_completion_time": null,
+      "quote": "主要产品的产能情况：制剂...在建产能 20,000 吨/年...投资建设情况：土建工程阶段"
+    },
+    {
+      "name": "年产 20,000 吨绿色数字化环保型制剂、生物制剂及配套项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "55,545,417.56元",
+      "designed_capacity": null,
+      "progress": "18.50%",
+      "expected_completion_time": null,
+      "quote": "报告期内正在进行的重大的非股权投资情况：项目名称：年产 20,000 吨绿色数字化环保型制剂、生物制剂及配套项目...投资金额：55,545,417.56元...项目进度：18.50%"
+    },
+    {
+      "name": "年产3000吨N-（1-乙基丙基）-3,4-二甲基苯胺、1500 吨1,3-环己二酮技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已收到环评批复",
+      "expected_completion_time": null,
+      "quote": "报告期内正在申请或者新增取得的环评批复情况：2025年，台州新农科技有限公司“年产3000吨N-（1-乙基丙基）-3,4-二甲基苯胺、1500 吨1,3-环己二酮技改项目”申请环评，该项目已于2026年3月2日收到台州市生态环境局下发的批复"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "噻二唑类金属络合物及其制备方法和用途（专利号 ZL00132119.6）",
+      "asset_type": "patent",
+      "related_product": "噻唑锌",
+      "quantitative_info": "中国专利金奖",
+      "quote": "2016 年 12 月，公司所申请的“噻二唑类金属络合物及其制备方法和用途”（专利号 ZL00132119.6）专利被国家知识产权局和世界知识产权组织授予第十八届“中国专利金奖”。"
+    },
+    {
+      "name": "专利总数",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得专利总数达 170件（国内 155件，国外15件；有效 128件），其中发明专利 60件；在审专利25件（国内17件，国外8件），其中20件为发明专利。",
+      "quote": "截至报告期末，公司及子公司累计获得专利总数达 170件（国内 155件，国外15件；有效 128件），其中发明专利 60件；在审专利25件（国内17件，国外8件），其中20件为发明专利。"
+    },
+    {
+      "name": "毒死蜱清洁生产工艺开发",
+      "asset_type": "core_technology",
+      "related_product": "毒死蜱",
+      "quantitative_info": "国家863计划项目",
+      "quote": "“毒死蜱的清洁生产工艺开发”被列入国家 863 计划项目。"
+    },
+    {
+      "name": "噻唑锌杀菌剂的创制开发",
+      "asset_type": "core_technology",
+      "related_product": "噻唑锌",
+      "quantitative_info": "国家“十二五科技支撑计划”",
+      "quote": "“噻唑锌杀菌剂的创制开发”和“磺草酮的清洁生产技术”两个研发项目被列入国家“十二五科技支撑计划”。"
+    },
+    {
+      "name": "国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后被评定为国家高新技术企业、国家知识产权优势企业..."
+    },
+    {
+      "name": "知识产权合规管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "有效期2028-02-13",
+      "quote": "知识产权合规管理体系认证证书...有效期 2028-02-13"
+    },
+    {
+      "name": "自动化数据采集与集散控制技术（DCS）生产装置",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "并在行业内率先引进自动化数据采集与集散控制技术（DCS）生产装置。"
+    },
+    {
+      "name": "加氢、氯化、重氮等核心工艺",
+      "asset_type": "process_technology",
+      "related_product": "中间体",
+      "quantitative_info": null,
+      "quote": "中间体...自主研发、拥有加氢、氯化、重氮等核心工艺优势。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "247,008,265.67元，占年度销售总额比例22.29%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 247,008,265.67...前五名客户合计销售金额占年度销售总额比例 22.29%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "178,173,608.55元，占年度采购总额比例32.11%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 178,173,608.55...前五名供应商合计采购金额占年度采购总额比例 32.11%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内农药新增产能投产，供大于求趋势未改变，市场竞争日益加剧；国际农药行业巨头逐步进入国内市场，进一步加剧了行业竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司所在农药行业发展状况及趋势如下：...（1）市场竞争风险：截至 2025 年 12月底，全国农药生产企业 1805家...国际农药行业巨头逐步进入国内市场，进一步加剧了行业竞争。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料成本占营业成本较大，原材料价格的波动对营业成本及毛利率会有较大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）原材料价格波动风险：报告期内，公司原材料成本占营业成本较大，原材料价格的波动对营业成本及毛利率会有较大影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "部分原料、半成品或产成品为易燃、易爆、腐蚀性或有毒物质。产品生产过程中涉及高温、高压等工艺，对操作要求较高，不排除因设备工艺不完善、物品保管及操作不当或自然灾害等原因而造成意外安全事故。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）安全生产风险：本公司主要从事化学农药原药、制剂及精细化工中间体的生产，部分原料、半成品或产成品为易燃、易爆、腐蚀性或有毒物质...仍不排除因设备工艺不完善、物品保管及操作不当或自然灾害等原因而造成意外安全事故。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "随着国家经济增长模式的转变及新《环境保护法》的实施，地方政府及企业的环保责任大大增强，未来可能出台更为严格的环保标准，需要公司进一步加大环保投入。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）环境保护风险：...随着国家整体环保意识的不断增强，未来可能出台更为严格的环保标准...环保标准的提高需要公司进一步加大环保投入。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司市场及营收规模的不断增大，公司的资产、经营规模、营销人员、销售网络不断扩大，对高水平研发、销售、管理、财务人才的需求大幅上升，对公司的管理提出了更高的要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）公司经营管理风险：随着公司市场及营收规模的不断增大...对高水平研发、销售、管理、财务人才的需求大幅上升，对公司的管理提出了更高的要求。"
+    },
+    {
+      "risk_type": "other",
+      "description": "2025年的农化行业，是面对挑战和结构性变革的一年。一方面随着国内农药新增产能的投产，供大于求的趋势仍未改变，市场竞争日益加剧；另一方面政策强监管、合规洗牌加速。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年的农化行业，是面对挑战和结构性变革的一年。一方面随着国内农药新增产能的投产，供大于求的趋势仍未改变，市场竞争日益加剧；另一方面政策强监管、合规洗牌加速。"
+    }
+  ]
+}

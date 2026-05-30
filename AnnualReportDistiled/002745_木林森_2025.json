@@ -1,0 +1,337 @@
+{
+  "company_name_mentioned": "木林森股份有限公司",
+  "produces": [
+    {
+      "name": "LED封装器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司是一家专注为全球市场提供 LED 封装、照明应用产品及整体解决方案的全球领先的照明企业，核心业务涵盖 LED 封装器件、通用照明、智能照明等领域。"
+    },
+    {
+      "name": "通用照明产品（朗德万斯/LEDVANCE品牌）",
+      "type": "device",
+      "revenue_proportion": "53.04%",
+      "quote": "朗德万斯 53.04% 9,250,176,249.76元"
+    },
+    {
+      "name": "照明应用产品（木林森品牌）",
+      "type": "device",
+      "revenue_proportion": "43.76%",
+      "quote": "木林森 43.76% 7,630,805,069.68元"
+    },
+    {
+      "name": "LED照明器件（如LED灯珠、LED灯丝、LED贴片）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "产品分类 产品名称 图例 应用场景 ... LED 照明器件 ... LED灯珠"
+    },
+    {
+      "name": "LED显示器件（如LED显示灯珠、显示模组）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "产品分类 产品名称 图例 应用场景 ... LED 显示器件 ... LED显示灯珠（室内）"
+    }
+  ],
+  "procures": [
+    {
+      "name": "芯片",
+      "target_product": "LED封装及照明产品",
+      "cost_proportion": null,
+      "quote": "公司采购原材料主要包括芯片、支架及支架生产所用原料、焊线材料、PCB、环氧树脂及其他辅料等的采购。"
+    },
+    {
+      "name": "支架",
+      "target_product": "LED封装",
+      "cost_proportion": null,
+      "quote": "公司采购原材料主要包括芯片、支架及支架生产所用原料、焊线材料、PCB、环氧树脂及其他辅料等的采购。"
+    },
+    {
+      "name": "PCB/PCB线路板",
+      "target_product": "LED封装及照明产品",
+      "cost_proportion": null,
+      "quote": "公司采购原材料主要包括芯片、支架及支架生产所用原料、焊线材料、PCB、环氧树脂及其他辅料等的采购。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "通用照明",
+      "source_product": "LED封装器件、通用照明产品",
+      "quote": "应用场景 ... 家居卧室、酒店客房、咖啡厅等移动式局部照明"
+    },
+    {
+      "name": "商业照明",
+      "source_product": "专业灯具、智能照明",
+      "quote": "应用场景 ... 商场、酒店、办公室等基础照明与重点辅助照明"
+    },
+    {
+      "name": "智能照明",
+      "source_product": "SMART+系列产品",
+      "quote": "应用场景 ... 智能家居全屋、智能酒店、智能办公等一体化智能照明控制"
+    },
+    {
+      "name": "显示背光",
+      "source_product": "背光系列LED",
+      "quote": "应用场景 ... 电视、显示器、平板、广告屏等液晶背光照明"
+    },
+    {
+      "name": "教育照明",
+      "source_product": "健康照明产品",
+      "quote": "应用场景 ... 学校教室黑板区域专用无眩光、高均匀度照明"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "孙清焕",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人孙清焕、主管会计工作负责人李冠群及会计机构负责人（会计主管人员）王宝真声明"
+    },
+    {
+      "name": "李冠群",
+      "role": "董事、副总经理、财务总监、董事会秘书",
+      "quote": "公司负责人孙清焕、主管会计工作负责人李冠群及会计机构负责人（会计主管人员）王宝真声明"
+    },
+    {
+      "name": "周立宏",
+      "role": "董事、副董事长、副总经理",
+      "quote": "周立宏先生，... 2025年8月起连任第六届董事会副董事长、副总经理。"
+    },
+    {
+      "name": "唐国庆",
+      "role": "执行总经理",
+      "quote": "唐国庆先生，执行总经理，..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "LEDVANCE GmbH",
+      "relation_type": "subsidiary",
+      "business_details": "专注海外高端通用照明与智能照明业务，覆盖欧美主流市场。",
+      "quote": "LEDVANCE、朗德万斯 指 LEDVANCE GmbH ... 公司拥有以“LEDVANCE”与“SYLVANIA”为核心的全球品牌集群"
+    },
+    {
+      "name": "普瑞光电（厦门）股份有限公司",
+      "relation_type": "customer",
+      "business_details": "2026年1月通过股权收购控股，打通全产业链，双方存在采购和销售关联交易。",
+      "quote": "2026年1月通过股权收购控股普瑞光电，成功打通“LED芯片-LED封装-照明应用”全产业链"
+    },
+    {
+      "name": "普瑞光电（厦门）股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购商品，交易金额19,239.97万元。",
+      "quote": "普瑞光电（厦门）股份有限公司 ... 采购商品 ... 19,239.97万元"
+    },
+    {
+      "name": "中山市木林森照明科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "深耕国内照明市场，实现渠道全域下沉。",
+      "quote": "木林森照明深耕国内照明市场，实现渠道全域下沉"
+    },
+    {
+      "name": "Signify（原飞利浦照明）",
+      "relation_type": "competitor",
+      "business_details": "高端照明市场的国际知名品牌。",
+      "quote": "高端照明市场中，国际知名品牌如 Signify（原飞利浦照明）、欧司朗等企业仍具有强大的品牌认知度、渠道资源及技术优势"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "朗德万斯（品牌业务）",
+      "segment_type": "product_line",
+      "revenue_amount": "9,250,176,249.76",
+      "revenue_proportion": "53.04%",
+      "gross_margin": "39.98%",
+      "yoy_change": "-4.12%",
+      "quote": "朗德万斯 53.04% 9,250,176,249.76 ... 毛利率 39.98% -4.12%"
+    },
+    {
+      "name": "木林森（品牌业务）",
+      "segment_type": "product_line",
+      "revenue_amount": "7,630,805,069.68",
+      "revenue_proportion": "43.76%",
+      "gross_margin": "10.21%",
+      "yoy_change": "12.75%",
+      "quote": "木林森 43.76% 7,630,805,069.68 ... 毛利率 10.21% 12.75%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "7,853,065,427.63",
+      "revenue_proportion": "45.03%",
+      "gross_margin": "10.46%",
+      "yoy_change": "13.89%",
+      "quote": "境内 45.03% 7,853,065,427.63 ... 毛利率 10.46% 13.89%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "9,585,711,204.71",
+      "revenue_proportion": "54.97%",
+      "gross_margin": "38.68%",
+      "yoy_change": "-4.28%",
+      "quote": "境外 54.97% 9,585,711,204.71 ... 毛利率 38.68% -4.28%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,716,465,851.26",
+      "revenue_proportion": "27.05%",
+      "gross_margin": "15.27%",
+      "yoy_change": "74.11%",
+      "quote": "直销 27.05% 4,716,465,851.26 ... 毛利率 15.27% 74.11%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "12,722,310,781.08",
+      "revenue_proportion": "72.95%",
+      "gross_margin": "29.94%",
+      "yoy_change": "-10.41%",
+      "quote": "经销 72.95% 12,722,310,781.08 ... 毛利率 29.94% -10.41%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "半导体光电器件及照明灯具制造业",
+      "metric_type": "sales_volume",
+      "value": "131,001,669.23",
+      "period": "2025年",
+      "quote": "销售量 万只 131,001,669.23"
+    },
+    {
+      "product": "半导体光电器件及照明灯具制造业",
+      "metric_type": "production_volume",
+      "value": "136,653,768.42",
+      "period": "2025年",
+      "quote": "生产量 万只 136,653,768.42"
+    },
+    {
+      "product": "半导体光电器件及照明灯具制造业",
+      "metric_type": "inventory_volume",
+      "value": "36,798,149.23",
+      "period": "2025年末",
+      "quote": "库存量 万只 36,798,149.23"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "小榄SMD LED封装技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "61,575.53",
+      "designed_capacity": null,
+      "progress": "100.76%",
+      "expected_completion_time": null,
+      "quote": "小榄SMD LED封装技改项目 ... 截至期末累计投入 61,575.53 ... 投资进度 100.76%"
+    },
+    {
+      "name": "义乌LED照明应用产品自动化生产项目",
+      "project_type": "capacity_expansion",
+      "location": "义乌",
+      "investment_amount": "90,161.24",
+      "designed_capacity": null,
+      "progress": "4.46%",
+      "expected_completion_time": null,
+      "quote": "义乌LED照明应用产品自动化生产项目 ... 截至期末累计投入 4,019.72 ... 投资进度 4.46%"
+    },
+    {
+      "name": "收购普瑞光电（厦门）股份有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2026年1月完成控股",
+      "expected_completion_time": null,
+      "quote": "2026年1月通过股权收购控股普瑞光电"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "多晶可以分别单独控制晶片并串的高光效LED支架研发",
+      "asset_type": "core_technology",
+      "related_product": "LED支架",
+      "quantitative_info": "获得1项科技成果，并以此形成了新技术1项。",
+      "quote": "通过自主研发，本项目获得1项科技成果，并以此形成了新技术1项。"
+    },
+    {
+      "name": "微间距显示SMD封装产品技术的研发",
+      "asset_type": "core_technology",
+      "related_product": "微间距显示SMD封装产品",
+      "quantitative_info": null,
+      "quote": "掌握微间距显示核心技术，满足市场对超高清、高密度显示产品的需求，提升公司在小间距LED市场的技术壁垒与市场份额。"
+    },
+    {
+      "name": "SMD大功率倒装芯片封装",
+      "asset_type": "process_technology",
+      "related_product": "大背光和照明系列产品",
+      "quantitative_info": null,
+      "quote": "替代正装产品 ... 试产阶段"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "18.77%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 18.77%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "4.55%",
+      "related_entity": "客户A",
+      "period": "2025年",
+      "quote": "1 客户A 768,574,651.93 4.55%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.35%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 16.35%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "5.80%",
+      "related_entity": "供应商A",
+      "period": "2025年",
+      "quote": "1 供应商A 720,749,909.96 5.80%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "高端照明市场中，国际知名品牌如 Signify（原飞利浦照明）、欧司朗等企业仍具有强大的品牌认知度、渠道资源及技术优势；中端市场中，部分国内品牌及跨界企业依托资本与技术资源加快布局；低端市场则聚集大量中小企业，产品同质化问题突出，价格战频发。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争的风险 ... 若公司未能及时响应行业技术变革及市场需求变化，持续优化产品结构和服务能力，可能对市场份额及盈利能力造成不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品中原材料成本占比较高，主要原材料包括 LED 芯片、电子元器件、金属材料及塑胶件等，受大宗商品价格波动、市场供需关系、地缘政治及贸易政策等多重因素影响。若未来原材料价格出现大幅上涨，或出现因突发事件导致的原材料供应紧张，将对公司采购成本、生产节奏及盈利能力造成直接影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动和供应不确定性风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司海外业务覆盖全球 150 余个国家及地区，旗下朗德万斯等品牌主要以美元、欧元、港币等外币结算，人民币与这些主要结算货币的双向波动趋势持续加大。汇率波动不仅会直接影响境外子公司营收折算为人民币后的金额，还会对跨境采购付款、外汇资金调拨产生汇兑损益，进而影响公司整体业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术创新始终是 LED 封装行业发展的核心驱动力。Mini/Micro-LED 技术持续进步，成本不断优化，在超高清、车载、商用显示等领域持续渗透，带来新的增长空间。",
+      "related_entity": null,
+      "related_product": "LED封装技术",
+      "quote": "Mini/Micro-LED 技术持续进步，成本不断优化，在超高清、车载、商用显示等领域持续渗透，带来新的增长空间。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "海外并购子公司经营业绩未达到预期，根据评估机构对子公司商誉减值测试的结果，遵循谨慎性原则，对其计提大额商誉减值准备。",
+      "related_entity": "海外并购子公司",
+      "related_product": null,
+      "quote": "公司经营业绩变动的主要受2025年市场环境的变化、成本上升及下游需求不及预期的影响，海外并购子公司经营业绩未达到预期，根据评估机构对子公司商誉减值测试的结果，遵循谨慎性原则，对其计提大额商誉减值准备。"
+    }
+  ]
+}

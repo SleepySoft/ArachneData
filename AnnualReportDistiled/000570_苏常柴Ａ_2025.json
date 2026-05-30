@@ -1,0 +1,214 @@
+{
+  "company_name_mentioned": "常柴股份有限公司",
+  "produces": [
+    {
+      "name": "柴油机",
+      "type": "device",
+      "revenue_proportion": "92.25%",
+      "quote": "柴油机 2,284,464,160.03 92.25%"
+    },
+    {
+      "name": "汽油机",
+      "type": "device",
+      "revenue_proportion": "5.52%",
+      "quote": "汽油机 136,656,821.30 5.52%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": "78.01%",
+      "quote": "原材料 1,661,076,461.27 78.01%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "农业机械",
+      "source_product": "柴油机",
+      "quote": "公司产品主要用于农业机械、小型工程机械、发电机组和船机"
+    },
+    {
+      "name": "小型工程机械",
+      "source_product": "柴油机",
+      "quote": "公司产品主要用于农业机械、小型工程机械、发电机组和船机"
+    },
+    {
+      "name": "发电机组",
+      "source_product": "柴油机",
+      "quote": "公司产品主要用于农业机械、小型工程机械、发电机组和船机"
+    },
+    {
+      "name": "船机",
+      "source_product": "柴油机",
+      "quote": "公司产品主要用于农业机械、小型工程机械、发电机组和船机"
+    },
+    {
+      "name": "农业机械",
+      "source_product": "汽油机",
+      "quote": "公司汽油机产品主要为通用小型汽油机...主要应用于农业机械、小型工程机械"
+    },
+    {
+      "name": "小型工程机械",
+      "source_product": "汽油机",
+      "quote": "公司汽油机产品主要为通用小型汽油机...主要应用于农业机械、小型工程机械"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谢国忠",
+      "role": "总经理",
+      "quote": "公司负责人、主管会计工作负责人谢国忠"
+    },
+    {
+      "name": "蒋鹤",
+      "role": "总会计师",
+      "quote": "会计机构负责人（会计主管人员）蒋鹤"
+    },
+    {
+      "name": "沈喆",
+      "role": "董事长",
+      "quote": "姓名 沈喆 性别 男 年龄 39 职务 董事长"
+    },
+    {
+      "name": "谈洁",
+      "role": "董事",
+      "quote": "姓名 谈洁 性别 女 年龄 46 职务 董事"
+    },
+    {
+      "name": "杨峰",
+      "role": "董事",
+      "quote": "姓名 杨峰 性别 男 年龄 53 职务 董事"
+    },
+    {
+      "name": "孙建中",
+      "role": "副总经理",
+      "quote": "姓名 孙建中 性别 男 年龄 53 职务 副总经理"
+    },
+    {
+      "name": "何建江",
+      "role": "副总经理兼董事会秘书",
+      "quote": "姓名 何建江 性别 男 年龄 46 职务 副总经理、董事会秘书"
+    },
+    {
+      "name": "王静",
+      "role": "副总经理",
+      "quote": "姓名 王静 性别 男 年龄 38 职务 副总经理"
+    },
+    {
+      "name": "王伟峰",
+      "role": "总工程师",
+      "quote": "姓名 王伟峰 性别 男 年龄 54 职务 总工程师"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "客户一",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售金额633,351,973.74元，占年度销售总额25.58%",
+      "quote": "客户一 633,351,973.74 25.58%"
+    },
+    {
+      "name": "客户二",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售金额211,837,504.85元，占年度销售总额8.55%",
+      "quote": "客户二 211,837,504.85 8.55%"
+    },
+    {
+      "name": "客户三",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售金额92,506,755.47元，占年度销售总额3.74%",
+      "quote": "客户三 92,506,755.47 3.74%"
+    },
+    {
+      "name": "客户四",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售金额82,921,750.95元，占年度销售总额3.35%",
+      "quote": "客户四 82,921,750.95 3.35%"
+    },
+    {
+      "name": "客户五",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售金额78,766,646.32元，占年度销售总额3.18%",
+      "quote": "客户五 78,766,646.32 3.18%"
+    },
+    {
+      "name": "供应商一",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额93,351,901.50元，占年度采购总额5.12%",
+      "quote": "供应商一 93,351,901.50 5.12%"
+    },
+    {
+      "name": "供应商二",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额78,913,276.61元，占年度采购总额4.33%",
+      "quote": "供应商二 78,913,276.61 4.33%"
+    },
+    {
+      "name": "供应商三",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额57,819,949.02元，占年度采购总额3.17%",
+      "quote": "供应商三 57,819,949.02 3.17%"
+    },
+    {
+      "name": "供应商四",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额53,040,631.38元，占年度采购总额2.91%",
+      "quote": "供应商四 53,040,631.38 2.91%"
+    },
+    {
+      "name": "供应商五",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额50,655,968.46元，占年度采购总额2.78%",
+      "quote": "供应商五 50,655,968.46 2.78%"
+    },
+    {
+      "name": "常州市常牛机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资孙公司，主营柴油机配件生产",
+      "quote": "常牛公司 指 常州市常牛机械有限公司"
+    },
+    {
+      "name": "常州常柴奔牛柴油机配件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，已被常牛公司吸收合并",
+      "quote": "常奔公司 指 常州常柴奔牛柴油机配件有限公司"
+    },
+    {
+      "name": "常柴万州柴油机有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营柴油机装配",
+      "quote": "常万公司 指 常柴万州柴油机有限公司"
+    },
+    {
+      "name": "常州厚生投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营对外投资与咨询",
+      "quote": "厚生投资 指 常州厚生投资有限公司"
+    },
+    {
+      "name": "常州常柴厚生农业装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，已被常柴罗宾吸收合并",
+      "quote": "厚生农装 指 常州常柴厚生农业装备有限公司"
+    },
+    {
+      "name": "常州富士常柴罗宾汽油机有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营汽油机装配",
+      "quote": "常柴罗宾 指 常州富士常柴罗宾汽油机有限公司"
+    },
+    {
+      "name": "江苏常柴机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营内燃机及其配件",
+      "quote": "常柴机械 指 江苏常柴机械有限公司"
+    },
+    {
+      "name": "镇江四洋柴油机制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主营船用柴油机制造与销售",
+      "quote": "镇江四洋 指 镇江四洋柴油机制造有限公司"
+    }
+  ]
+}

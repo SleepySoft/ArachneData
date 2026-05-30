@@ -1,0 +1,621 @@
+{
+  "company_name_mentioned": "浙江夏厦精密制造股份有限公司",
+  "produces": [
+    {
+      "name": "汽车齿轮",
+      "type": "component",
+      "revenue_proportion": "58.06%",
+      "quote": "分产品：汽车齿轮 447,703,470.14 58.06%"
+    },
+    {
+      "name": "电动工具齿轮",
+      "type": "component",
+      "revenue_proportion": "15.06%",
+      "quote": "分产品：电动工具齿轮 116,169,307.24 15.06%"
+    },
+    {
+      "name": "减速机及其他",
+      "type": "component",
+      "revenue_proportion": "20.97%",
+      "quote": "分产品：减速机及其他 161,689,181.55 20.97%"
+    },
+    {
+      "name": "刀具和设备",
+      "type": "device",
+      "revenue_proportion": "5.91%",
+      "quote": "分产品：刀具和设备 45,599,134.98 5.91%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "毛坯件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购流程如下：公司的采购内容主要为生产领用的原材料及辅助材料，主要包括毛坯件、钢材类、刀量具等。"
+    },
+    {
+      "name": "钢材类",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购流程如下：公司的采购内容主要为生产领用的原材料及辅助材料，主要包括毛坯件、钢材类、刀量具等。"
+    },
+    {
+      "name": "刀量具",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购流程如下：公司的采购内容主要为生产领用的原材料及辅助材料，主要包括毛坯件、钢材类、刀量具等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "汽车齿轮",
+      "quote": "公司主要产品已经广泛应用于新能源汽车、燃油汽车、机器人、电动工具、智能家居、医疗器械、安防等领域。"
+    },
+    {
+      "name": "燃油汽车",
+      "source_product": "汽车齿轮",
+      "quote": "公司主要产品已经广泛应用于新能源汽车、燃油汽车、机器人、电动工具、智能家居、医疗器械、安防等领域。"
+    },
+    {
+      "name": "机器人",
+      "source_product": "减速机及其配件",
+      "quote": "公司主要产品已经广泛应用于新能源汽车、燃油汽车、机器人、电动工具、智能家居、医疗器械、安防等领域。"
+    },
+    {
+      "name": "电动工具",
+      "source_product": "电动工具齿轮",
+      "quote": "公司主要产品已经广泛应用于新能源汽车、燃油汽车、机器人、电动工具、智能家居、医疗器械、安防等领域。"
+    },
+    {
+      "name": "智能家居",
+      "source_product": "智能家居齿轮",
+      "quote": "公司主要产品已经广泛应用于新能源汽车、燃油汽车、机器人、电动工具、智能家居、医疗器械、安防等领域。"
+    },
+    {
+      "name": "医疗器械",
+      "source_product": null,
+      "quote": "公司主要产品已经广泛应用于新能源汽车、燃油汽车、机器人、电动工具、智能家居、医疗器械、安防等领域。"
+    },
+    {
+      "name": "安防",
+      "source_product": "安防齿轮",
+      "quote": "公司主要产品已经广泛应用于新能源汽车、燃油汽车、机器人、电动工具、智能家居、医疗器械、安防等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "夏建敏",
+      "role": "董事长、副总经理",
+      "quote": "公司负责人夏建敏、主管会计工作负责人邱麟凯及会计机构负责人（会计主管人员）郑英声明：...；2020年10月至今，任夏厦精密董事长、副总经理。"
+    },
+    {
+      "name": "夏挺",
+      "role": "董事、总经理",
+      "quote": "夏挺先生...2020年10月至今，任夏厦精密董事、总经理。"
+    },
+    {
+      "name": "郑英",
+      "role": "董事、财务部经理",
+      "quote": "郑英女士...2020年10月至今，任夏厦精密董事、财务部经理。"
+    },
+    {
+      "name": "夏爱娟",
+      "role": "副总经理",
+      "quote": "夏爱娟女士...2020年10月至今任夏厦精密副总经理。"
+    },
+    {
+      "name": "夏云",
+      "role": "副总经理",
+      "quote": "夏云先生...2020年10月至今，任夏厦精密副总经理。"
+    },
+    {
+      "name": "邱麟凯",
+      "role": "财务总监",
+      "quote": "邱麟凯...2025年5月至今任公司财务总监。"
+    },
+    {
+      "name": "张波杰",
+      "role": "董事会秘书",
+      "quote": "张波杰先生...2024年3月至今，任公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "牧田集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：牧田集团 指 牧田株式会社及其关联的企业，是世界上大规模专门生产专业电动工具的制造商之一"
+    },
+    {
+      "name": "博世集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：博世集团 指 Robert Bosch GmbH及其关联的企业，全球知名企业..."
+    },
+    {
+      "name": "泉峰科技",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：泉峰科技 指 南京泉峰科技有限公司...，专业从事电动工具及相关产品研发、设计、制造、测试、销售和售后服务的行业解决方案提供商"
+    },
+    {
+      "name": "日本电产",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：日本电产 指 日本电产株式会社（NIDEC CORPORATION）及其关联的企业，经营范围覆盖精密小型马达至超大型电机的“全球颇具实力的综合机电产品制造商”"
+    },
+    {
+      "name": "海康集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：海康集团 指 杭州海康威视数字技术股份有限公司及其关联的企业，主营业务涉及汽车、机器人、安防等多个领域"
+    },
+    {
+      "name": "博格华纳",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：博格华纳 指 博格华纳汽车零部件（宁波）有限公司及其关联的企业，是全球汽车零部件供应商之一"
+    },
+    {
+      "name": "创科集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：创科集团 指 Techtronic Industries及其关联的企业，是全球领先的电动工具、配件、手动工具、户外园艺工具及地板护理产品企业"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：比亚迪 指 比亚迪股份有限公司及其关联的企业，是国内著名的整车厂商"
+    },
+    {
+      "name": "舍弗勒",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：舍弗勒 指 Schaeffler及其关联的企业，是一家全球性的汽车和工业产品供应商..."
+    },
+    {
+      "name": "麦格纳",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：麦格纳 指 Magna及其关联方，是全球汽车零部件供应商之一"
+    },
+    {
+      "name": "采埃孚",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：采埃孚 指 采埃孚集团及其关联方，全球汽车零部件供应商之一"
+    },
+    {
+      "name": "库卡",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：库卡 指 库卡机器人（上海）有限公司及其关联方，是智能自动化解决方案全球供应商..."
+    },
+    {
+      "name": "ABB",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：ABB 指 ABB Robotics及其关联的企业，是电力和自动化技术领域的领导者..."
+    },
+    {
+      "name": "延锋安道拓",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：延锋安道拓 指 延锋汽车饰件系统有限公司及其关联的企业，专注于汽车内外饰、汽车座椅、座舱电子及被动安全领域..."
+    },
+    {
+      "name": "奇瑞",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：奇瑞 指 奇瑞汽车股份有限公司及其关联的企业，是国内著名的整车厂商"
+    },
+    {
+      "name": "零跑",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：零跑 指 浙江零跑科技股份有限公司及其关联的企业，是国内著名的整车厂商"
+    },
+    {
+      "name": "星驱",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：星驱 指 无锡星驱动力科技有限公司及其关联公司，吉利控股集团控制的子公司"
+    },
+    {
+      "name": "魔法原子",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：魔法原子 指 魔法原子机器人科技（无锡）有限公司及其关联的企业，是国内著名通用机器人和四足机器人厂商"
+    },
+    {
+      "name": "云深处",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "释义：云深处 指 杭州云深处科技股份有限公司及其关联方，国内著名机器人厂商"
+    },
+    {
+      "name": "夏厦投资",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "释义：夏厦投资 指 宁波夏厦投资控股有限公司，系本公司控股股东"
+    },
+    {
+      "name": "宁波振鳞",
+      "relation_type": "investor",
+      "business_details": "股东之一",
+      "quote": "释义：宁波振鳞 指 宁波振鳞企业管理合伙企业（有限合伙），系本公司股东之一"
+    },
+    {
+      "name": "夏拓智能",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "释义：夏拓智能、夏拓智能公司 指 宁波夏拓智能科技有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "夏厦东欧",
+      "relation_type": "subsidiary",
+      "business_details": "在斯洛伐克设立的全资子公司",
+      "quote": "释义：夏厦东欧、夏厦东欧公司 指 Xiasha Eastern European R&D Centers.r.o.，系本公司在斯洛伐克设立的全资子公司"
+    },
+    {
+      "name": "拓远惠达",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "释义：拓远惠达、拓远惠达公司 指 拓远惠达（宁波）投资发展有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "夏厦新加坡",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "释义：夏厦新加坡、夏厦新加坡公司 指 XIASHA SINGAPORE PTE. LTD，系本公司全资子公司"
+    },
+    {
+      "name": "夏厦越南",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "释义：夏厦越南、夏厦越南公司 指 XIASHA VIETNAM COMPANY LIMITED，系本公司全资子公司"
+    },
+    {
+      "name": "欣贝电器",
+      "relation_type": "other",
+      "business_details": null,
+      "quote": "释义：欣贝电器、欣贝电器公司 指 宁波市镇海欣贝电器有限公司"
+    },
+    {
+      "name": "夏润塑胶厂",
+      "relation_type": "other",
+      "business_details": null,
+      "quote": "释义：夏润塑胶厂 指 宁波市镇海夏润塑胶制品厂"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "通用设备制造业",
+      "segment_type": "other",
+      "revenue_amount": "771,161,093.91元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "14.96%",
+      "yoy_change": "15.87%",
+      "quote": "分行业：通用设备制造业 771,161,093.91 100.00% ... 毛利率比上年增减 -7.23%"
+    },
+    {
+      "name": "汽车齿轮",
+      "segment_type": "product_line",
+      "revenue_amount": "447,703,470.14元",
+      "revenue_proportion": "58.06%",
+      "gross_margin": "7.72%",
+      "yoy_change": "14.44%",
+      "quote": "分产品：汽车齿轮 447,703,470.14 58.06% ... 毛利率比上年增减 -11.74%"
+    },
+    {
+      "name": "电动工具齿轮",
+      "segment_type": "product_line",
+      "revenue_amount": "116,169,307.24元",
+      "revenue_proportion": "15.06%",
+      "gross_margin": "15.42%",
+      "yoy_change": "-17.02%",
+      "quote": "分产品：电动工具齿轮 116,169,307.24 15.06% ... 毛利率比上年增减 -4.64%"
+    },
+    {
+      "name": "减速机及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "161,689,181.55元",
+      "revenue_proportion": "20.97%",
+      "gross_margin": "29.20%",
+      "yoy_change": "65.07%",
+      "quote": "分产品：减速机及其他 161,689,181.55 20.97% ... 毛利率比上年增减 -1.27%"
+    },
+    {
+      "name": "刀具和设备",
+      "segment_type": "product_line",
+      "revenue_amount": "45,599,134.98元",
+      "revenue_proportion": "5.91%",
+      "gross_margin": null,
+      "yoy_change": "25.48%",
+      "quote": "分产品：刀具和设备 45,599,134.98 5.91% 36,340,223.74 5.46% 25.48%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "664,598,012.69元",
+      "revenue_proportion": "86.18%",
+      "gross_margin": "11.63%",
+      "yoy_change": "17.99%",
+      "quote": "分地区：内销 664,598,012.69 86.18% ... 毛利率比上年增减 -8.54%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "106,563,081.22元",
+      "revenue_proportion": "13.82%",
+      "gross_margin": "35.71%",
+      "yoy_change": "4.21%",
+      "quote": "分地区：外销 106,563,081.22 13.82% ... 毛利率比上年增减 2.43%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "762,471,775.40元",
+      "revenue_proportion": "98.87%",
+      "gross_margin": "14.83%",
+      "yoy_change": "15.88%",
+      "quote": "分销售模式：直销模式 762,471,775.40 98.87% ... 毛利率比上年增减 -7.24%"
+    },
+    {
+      "name": "贸易商模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,689,318.51元",
+      "revenue_proportion": "1.13%",
+      "gross_margin": null,
+      "yoy_change": "15.68%",
+      "quote": "分销售模式：贸易商模式 8,689,318.51 1.13% 7,511,806.92 1.13% 15.68%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "汽车齿轮",
+      "metric_type": "production_volume",
+      "value": "45,429,460",
+      "period": "本报告期",
+      "quote": "按零部件类别：汽车齿轮（件） 产量：本报告期 45,429,460"
+    },
+    {
+      "product": "汽车齿轮",
+      "metric_type": "sales_volume",
+      "value": "41,936,987",
+      "period": "本报告期",
+      "quote": "按零部件类别：汽车齿轮（件） 销售量：本报告期 41,936,987"
+    },
+    {
+      "product": "新能源汽车齿轮",
+      "metric_type": "capacity",
+      "value": "约1,025万件",
+      "period": "截至报告期末",
+      "quote": "新能源汽车齿轮产能状况：截至报告期末，公司新能源汽车齿轮产能约1,025万件"
+    },
+    {
+      "product": "新能源汽车齿轮",
+      "metric_type": "production_volume",
+      "value": "5,426,762",
+      "period": null,
+      "quote": "新能源汽车齿轮 产量：5,426,762件"
+    },
+    {
+      "product": "新能源汽车齿轮",
+      "metric_type": "sales_volume",
+      "value": "4,953,319",
+      "period": null,
+      "quote": "新能源汽车齿轮 销量：4,953,319件"
+    },
+    {
+      "product": "通用设备制造业（整体）",
+      "metric_type": "sales_volume",
+      "value": "63,661,150",
+      "period": "2025年",
+      "quote": "行业分类：通用设备制造业，项目：销售量，单位：件，2025年 63,661,150"
+    },
+    {
+      "product": "通用设备制造业（整体）",
+      "metric_type": "production_volume",
+      "value": "67,211,648",
+      "period": "2025年",
+      "quote": "行业分类：通用设备制造业，项目：生产量，单位：件，2025年 67,211,648"
+    },
+    {
+      "product": "通用设备制造业（整体）",
+      "metric_type": "inventory_volume",
+      "value": "10,022,442",
+      "period": "2025年",
+      "quote": "行业分类：通用设备制造业，项目：库存量，单位：件，2025年 10,022,442"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产30万套新能源汽车驱动减速机构项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "19,526.7万元",
+      "designed_capacity": null,
+      "progress": "达到预定可使用状态日期：2025年12月31日",
+      "expected_completion_time": "2025年12月31日",
+      "quote": "承诺投资项目：年产30万套新能源汽车驱动减速机构项目，达到预定可使用状态日期：2025年12月31日"
+    },
+    {
+      "name": "年产40万套新能源汽车三合一变速器技术改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "16,539.42万元",
+      "designed_capacity": null,
+      "progress": "达到预定可使用状态日期：2025年8月31日",
+      "expected_completion_time": "2025年8月31日",
+      "quote": "承诺投资项目：年产40万套新能源汽车三合一变速器技术改造项目，达到预定可使用状态日期：2025年8月31日"
+    },
+    {
+      "name": "年产7.2万套工业机器人新结构减速器技术改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "12,110.84万元",
+      "designed_capacity": null,
+      "progress": "达到预定可使用状态日期：2025年8月31日",
+      "expected_completion_time": "2025年8月31日",
+      "quote": "承诺投资项目：年产7.2万套工业机器人新结构减速器技术改造项目，达到预定可使用状态日期：2025年8月31日"
+    },
+    {
+      "name": "夏厦精密研发中心项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "6,000万元",
+      "designed_capacity": null,
+      "progress": "达到预定可使用状态日期：2025年8月31日",
+      "expected_completion_time": "2025年8月31日",
+      "quote": "承诺投资项目：夏厦精密研发中心项目，达到预定可使用状态日期：2025年8月31日"
+    },
+    {
+      "name": "智能传动系统核心零部件产业化及装备协同开发建设项目",
+      "project_type": "capacity_expansion",
+      "location": "宁波市镇海区",
+      "investment_amount": "不超过10亿元",
+      "designed_capacity": null,
+      "progress": "已开工建设",
+      "expected_completion_time": null,
+      "quote": "重大事项说明：1、公司...同意公司本次购买土地使用权并投资建设“智能传动系统核心零部件产业化及装备协同开发建设项目”（暂定名称）...总投资金额不超过10亿元（含上述土地出让金）...截至本报告披露日，公司已开工建设上述项目。"
+    },
+    {
+      "name": "越南年产100万套精密传动结构产品项目",
+      "project_type": "capacity_expansion",
+      "location": "越南",
+      "investment_amount": "不超过1500万美元",
+      "designed_capacity": "年产100万套精密传动结构产品",
+      "progress": "部分生产设备已安装完成，处于试生产阶段",
+      "expected_completion_time": null,
+      "quote": "公司子公司重大事项：1、公司基于未来业务发展和海外市场拓展的需要，拟在越南投资建设年产100万套精密传动结构产品项目，计划以自有资金或自筹资金投资金额不超过1500万美元...截至本报告披露日，夏厦越南的部分生产设备已安装完成，处于试生产阶段。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超过百项专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "超过百项",
+      "quote": "截至报告期末，公司拥有超过百项专利，涵盖产品工艺、设备等领域，在主营业务产品方面形成了较为深厚技术沉淀。"
+    },
+    {
+      "name": "小模数齿轮的高速干切滚齿技术",
+      "asset_type": "core_technology",
+      "related_product": "小模数齿轮",
+      "quantitative_info": null,
+      "quote": "公司在生产过程中形成了小模数齿轮的高速干切滚齿技术，高转速、低噪音汽车齿轮磨削方案技术...等核心技术。"
+    },
+    {
+      "name": "高转速、低噪音汽车齿轮磨削方案技术",
+      "asset_type": "core_technology",
+      "related_product": "汽车齿轮",
+      "quantitative_info": null,
+      "quote": "公司在生产过程中形成了小模数齿轮的高速干切滚齿技术，高转速、低噪音汽车齿轮磨削方案技术...等核心技术。"
+    },
+    {
+      "name": "超硬超细高速干切硬质合金齿轮滚刀等刀具相关的核心技术",
+      "asset_type": "core_technology",
+      "related_product": "刀具",
+      "quantitative_info": null,
+      "quote": "公司已研发形成超硬超细高速干切硬质合金齿轮滚刀等刀具相关的核心技术，实现进口替代。"
+    },
+    {
+      "name": "硬质合金滚刀最小模数达到0.05mm",
+      "asset_type": "core_technology",
+      "related_product": "滚刀",
+      "quantitative_info": "最小模数达到0.05mm",
+      "quote": "公司在微小模数滚刀方面实现突破，硬质合金滚刀最小模数达到0.05mm，达到行业领先水平。"
+    },
+    {
+      "name": "ISO9001、IATF16949质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司严格贯彻质量控制体系...公司按照ISO9001、IATF16949等标准建立并实施高标准的质量管理体系。"
+    },
+    {
+      "name": "参与“圆柱齿轮精度制”国家标准的修订",
+      "asset_type": "standard",
+      "related_product": "圆柱齿轮",
+      "quantitative_info": null,
+      "quote": "公司作为中国机械通用零部件工业协会齿轮与电驱动分会理事单位，参与了“圆柱齿轮精度制”国家标准的修订。"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2020年12月，公司被认定为工业和信息化部第二批专精特新“小巨人”企业；2021年5月，公司被认定为国家级专精特新“小巨人”企业(第一批第一年)。"
+    },
+    {
+      "name": "制造业单项冠军企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2022年10月，公司入选第七批制造业单项冠军企业。"
+    },
+    {
+      "name": "浙江省企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2022年公司被认定为浙江省企业技术中心。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "45.77%",
+      "related_entity": null,
+      "period": "本报告期",
+      "quote": "公司主要销售客户情况：前五名客户合计销售金额占年度销售总额比例 45.77%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.55%",
+      "related_entity": null,
+      "period": "本报告期",
+      "quote": "公司主要供应商情况：前五名供应商合计采购金额占年度采购总额比例 22.55%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内目前齿轮行业低端产能占比较大...众多规模较小的企业在低端市场竞争，不利于形成品牌效应和产品技术创新，也不利于行业整体竞争能力的提升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（二）公司面临的风险和应对措施 2、市场竞争加剧风险 国内目前齿轮行业低端产能占比较大...众多规模较小的企业在低端市场竞争，不利于形成品牌效应和产品技术创新，也不利于行业整体竞争能力的提升。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "齿轮生产主要原材料包括毛坯件、钢材类、刀量具等，直接材料价格的波动对产品成本具有一定影响。...如若原材料持续发生剧烈波动，将引起公司产品成本的大幅变化，则可能对公司经营业绩产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（二）公司面临的风险和应对措施 3、原材料价格波动风险 齿轮生产主要原材料包括毛坯件、钢材类、刀量具等...如若原材料持续发生剧烈波动，将引起公司产品成本的大幅变化，则可能对公司经营业绩产生一定影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "受国内汽车行业竞争加剧影响，报告期内毛利率降低；同时，公司按照《企业会计准则》及财务管理相关要求，对存货计提存货跌价准备增加。",
+      "related_entity": null,
+      "related_product": "汽车齿轮",
+      "quote": "公司营业收入增长但净利润下降主要原因:1）公司产品的下游应用包括新能源汽车、燃油汽车、机器人、电动工具等多个行业领域，其中汽车齿轮业务占公司收入比例最大。受国内汽车行业竞争加剧影响，报告期内毛利率降低；同时，公司按照《企业会计准则》及财务管理相关要求，对存货计提存货跌价准备增加。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着募投项目固定资产陆续转固、员工人数的增加，设备折旧、人员薪酬等固定成本对应增加，由于募投项目规模效应尚未释放导致产品单位成本上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司营业收入增长但净利润下降主要原因:...2）报告期内，随着募投项目固定资产陆续转固、员工人数的增加，设备折旧、人员薪酬等固定成本对应增加，由于募投项目规模效应尚未释放导致产品单位成本上升。"
+    },
+    {
+      "risk_type": "other",
+      "description": "为了加快公司新市场新产品的拓展，公司在技术创新与市场开拓方面的投入仍保持着较高水平，报告期内公司对新产品研发及越南工厂持续投入，同时报告期内公司募集资金余额减少、借款增加，导致公司利息收入、理财收益减少，利息支出增加，以及按照《企业会计准则》要求对本期授予的限制性股票确认了股份支付费用，使得公司成本、期间费用增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司营业收入增长但净利润下降主要原因:...3）为了加快公司新市场新产品的拓展...使得公司成本、期间费用增加。"
+    }
+  ]
+}

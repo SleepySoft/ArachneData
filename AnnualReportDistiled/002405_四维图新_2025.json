@@ -1,0 +1,410 @@
+{
+  "company_name_mentioned": "北京四维图新科技股份有限公司",
+  "produces": [
+    {
+      "name": "数据合规托管服务（智云业务）",
+      "type": "service",
+      "revenue_proportion": "70.42%",
+      "quote": "智云业务收入实现大幅度增长...公司智云业务收入29.04亿元，同比增长28.85%。...占比70.42%"
+    },
+    {
+      "name": "车载电子芯片（MCU、SoC，智芯业务）",
+      "type": "component",
+      "revenue_proportion": "15.99%",
+      "quote": "智芯业务实现营业收入6.59亿元，同比增长16.59%。...占比15.99%"
+    },
+    {
+      "name": "辅助驾驶解决方案（智驾业务）",
+      "type": "technology",
+      "revenue_proportion": "6.13%",
+      "quote": "智驾业务实现营业收入2.53亿元，同比减少6.58%。...占比6.13%"
+    },
+    {
+      "name": "智能座舱解决方案（智舱业务）",
+      "type": "software",
+      "revenue_proportion": "6.07%",
+      "quote": "智舱业务实现营业收入2.50亿元，同比减少37.88%。...占比6.07%"
+    },
+    {
+      "name": "高精度地图",
+      "type": "data",
+      "revenue_proportion": null,
+      "quote": "凭借在高精度地图、汽车智能化、智慧交通、数据治理等领域深厚积淀...致力于构建精准动态时空数据基座"
+    },
+    {
+      "name": "自动驾驶专属云平台",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司依托多年积累的数据能力和AI技术优势，为客户提供覆盖数据采集、处理、合规及云端管理的一站式解决方案"
+    }
+  ],
+  "procures": [
+    {
+      "name": "云服务资源",
+      "target_product": "智云业务",
+      "cost_proportion": null,
+      "quote": "随着合规业务收入规模持续增长，为稳步推动合规项目落地，公司与底层云服务商的合作更为紧密，云资源消耗占比提升"
+    },
+    {
+      "name": "芯片物料成本",
+      "target_product": "智芯业务",
+      "cost_proportion": "100.00%（智芯业务成本构成）",
+      "quote": "智芯业务成本构成...物料成本 477,133,550.79 100.00%"
+    },
+    {
+      "name": "前五名供应商采购",
+      "target_product": null,
+      "cost_proportion": "34.35%",
+      "quote": "前五名供应商合计采购金额（元） 1,337,364,461.69...前五名供应商合计采购金额占年度采购总额比例 34.35%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车辅助驾驶（智云）",
+      "source_product": "数据合规托管服务、高精度地图",
+      "quote": "公司提供采集、脱敏、应用的全链条数据合规托管服务，建立了‘合规先行’‘安全可控’的数据流通基础...为辅助驾驶系统提供持续优化的数据支撑。"
+    },
+    {
+      "name": "车身控制、智能座舱、电池管理、动力底盘、域控（智芯）",
+      "source_product": "MCU、SoC芯片",
+      "quote": "MCU产品已从传统的车门车窗等简单控制领域，升级至无线充、数字钥匙、TBOX等智能化场景...产品覆盖车身控制、BMS等十大主流应用场景。"
+    },
+    {
+      "name": "自动驾驶（智驾）",
+      "source_product": "辅助驾驶解决方案",
+      "quote": "打造AI关键能力-行业SOTA世界模型OmniNWM...显著提升在复杂驾驶场景下的鲁棒性和泛化能力"
+    },
+    {
+      "name": "智能座舱（智舱）",
+      "source_product": "智能座舱解决方案",
+      "quote": "智能座舱产业正从‘技术堆砌’向‘体验升级’转型。未来，在AI技术的持续推动下，公司将持续深化AIAgent、多模态融合与舱驾一体技术的研发"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "程鹏",
+      "role": "副董事长、总经理",
+      "quote": "程鹏，中国国籍，拥有美国居留权，1976年1月出生，本科学历，现任公司副董事长、总经理。"
+    },
+    {
+      "name": "毕垒",
+      "role": "董事、副总经理",
+      "quote": "毕垒，中国国籍，无境外居留权，1976年11月出生，本科学历，高级工程师，现任公司董事、副总经理。"
+    },
+    {
+      "name": "姜晓明",
+      "role": "董事、副总经理、财务总监",
+      "quote": "姜晓明，中国国籍，无境外居留权，1980年7月出生，注册会计师，硕士研究生，现任公司董事、副总经理、财务总监。"
+    },
+    {
+      "name": "孟庆昕",
+      "role": "副总经理、董事会秘书",
+      "quote": "孟庆昕，中国国籍，无境外居留权，1974年4月出生，硕士，高级经济师，现任公司副总经理、董事会秘书。"
+    },
+    {
+      "name": "梁永杰",
+      "role": "副总经理",
+      "quote": "梁永杰，中国国籍，无境外居留权，1977年11月出生，本科学历，现任公司副总经理。"
+    },
+    {
+      "name": "张盈",
+      "role": "董事长",
+      "quote": "张盈，中国国籍，无境外居留权，1986年2月出生...现任公司董事长..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宝马",
+      "relation_type": "customer",
+      "business_details": "智云业务客户",
+      "quote": "公司的客户覆盖国内外主流车企宝马、长城、丰田等"
+    },
+    {
+      "name": "长城汽车",
+      "relation_type": "customer",
+      "business_details": "智云业务及智驾业务客户",
+      "quote": "公司的客户覆盖国内外主流车企宝马、长城、丰田等...赢得了长安汽车、长城汽车等国内头部车企的信赖与合作。"
+    },
+    {
+      "name": "丰田",
+      "relation_type": "customer",
+      "business_details": "智云业务客户",
+      "quote": "公司的客户覆盖国内外主流车企宝马、长城、丰田等"
+    },
+    {
+      "name": "阿里云",
+      "relation_type": "partner",
+      "business_details": "云平台合作",
+      "quote": "并与阿里云、亚马逊云、火山引擎等云平台合作"
+    },
+    {
+      "name": "亚马逊云",
+      "relation_type": "partner",
+      "business_details": "云平台合作",
+      "quote": "并与阿里云、亚马逊云、火山引擎等云平台合作"
+    },
+    {
+      "name": "火山引擎",
+      "relation_type": "partner",
+      "business_details": "云平台合作",
+      "quote": "并与阿里云、亚马逊云、火山引擎等云平台合作"
+    },
+    {
+      "name": "高通",
+      "relation_type": "partner",
+      "business_details": "战略合作",
+      "quote": "在战略合作伙伴方面，公司与高通、地平线、华为云、阿里云、火山引擎、航盛、卓驭科技、霍尼韦尔、中汽创智等知名企业达成了深度合作"
+    },
+    {
+      "name": "地平线",
+      "relation_type": "partner",
+      "business_details": "智驾业务芯片合作",
+      "quote": "在战略合作伙伴方面，公司与高通、地平线...知名企业达成了深度合作...低阶层面，基于地平线征程®2系列芯片的辅助驾驶方案持续放量"
+    },
+    {
+      "name": "华为云",
+      "relation_type": "partner",
+      "business_details": "云平台合作",
+      "quote": "在战略合作伙伴方面，公司与...华为云...知名企业达成了深度合作"
+    },
+    {
+      "name": "PhiGent Robotics Limited (鉴智开曼)",
+      "relation_type": "investor",
+      "business_details": "四维图新投资并持有其39.14%股份，成为其第一大股东",
+      "quote": "公司以2.5亿元人民币认购鉴智开曼发行的...股票...本次投资完成后，公司将合计持有鉴智开曼39.14%股份，成为鉴智开曼第一大股东，但不是控股股东。"
+    },
+    {
+      "name": "四维图新智驾（北京）科技有限公司 (图新智驾)",
+      "relation_type": "subsidiary",
+      "business_details": "已处置的子公司",
+      "quote": "本期完成与鉴智开曼的业务重组，处置子公司四维图新智驾（北京）科技有限公司（以下简称图新智驾）产生投资收益15.68亿元所致。"
+    },
+    {
+      "name": "合肥杰发科技有限公司 (杰发科技)",
+      "relation_type": "subsidiary",
+      "business_details": "智芯业务运营主体",
+      "quote": "旗下杰发科技芯片具备高可靠性与车规级品质...智芯业务实现营业收入6.59亿元"
+    },
+    {
+      "name": "四维智联（南京）科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，智能座舱业务",
+      "quote": "四维智联（南京）科技股份有限公司...智能座舱软件与软硬一体化解决方案供应"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智云",
+      "segment_type": "product_line",
+      "revenue_amount": "29.04亿元",
+      "revenue_proportion": "70.42%",
+      "gross_margin": "26.02%",
+      "yoy_change": "同比增长28.85%",
+      "quote": "智云业务营业收入29.04亿元，同比增长28.85%...毛利率26.02%"
+    },
+    {
+      "name": "智芯",
+      "segment_type": "product_line",
+      "revenue_amount": "6.59亿元",
+      "revenue_proportion": "15.99%",
+      "gross_margin": "27.64%",
+      "yoy_change": "同比增长16.59%",
+      "quote": "智芯业务实现营业收入6.59亿元，同比增长16.59%...毛利率27.64%"
+    },
+    {
+      "name": "智驾",
+      "segment_type": "product_line",
+      "revenue_amount": "2.53亿元",
+      "revenue_proportion": "6.13%",
+      "gross_margin": "17.82%",
+      "yoy_change": "同比减少6.58%",
+      "quote": "智驾业务实现营业收入2.53亿元，同比减少6.58%...毛利率17.82%"
+    },
+    {
+      "name": "智舱",
+      "segment_type": "product_line",
+      "revenue_amount": "2.50亿元",
+      "revenue_proportion": "6.07%",
+      "gross_margin": "6.99%",
+      "yoy_change": "同比减少37.88%",
+      "quote": "智舱业务实现营业收入2.50亿元，同比减少37.88%...毛利率6.99%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "35.34亿元",
+      "revenue_proportion": "85.68%",
+      "gross_margin": "24.28%",
+      "yoy_change": "同比增长18.53%",
+      "quote": "直销 3,534,065,208.36 85.68%...毛利率24.28%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5.90亿元",
+      "revenue_proportion": "14.32%",
+      "gross_margin": "27.42%",
+      "yoy_change": "同比增长10.14%",
+      "quote": "经销 590,499,453.40 14.32%...毛利率27.42%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "芯片（杰发科技）",
+      "metric_type": "sales_volume",
+      "value": "全球累计出货量已超3.12亿颗",
+      "period": "截至报告期末",
+      "quote": "杰发科技通过与全球优质客户开展深度技术合作与项目协同...芯片全球累计出货量已超3.12亿颗"
+    },
+    {
+      "product": "SoC芯片",
+      "metric_type": "sales_volume",
+      "value": "出货量破亿",
+      "period": "截至报告期末",
+      "quote": "SoC与MCU出货量双双破亿"
+    },
+    {
+      "product": "MCU芯片",
+      "metric_type": "sales_volume",
+      "value": "出货量破亿",
+      "period": "截至报告期末",
+      "quote": "SoC与MCU出货量双双破亿"
+    },
+    {
+      "product": "MCU芯片",
+      "metric_type": "other",
+      "value": "出货量同比增长近40%",
+      "period": "2025年",
+      "quote": "报告期内，MCU芯片出货量同比增长近40%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能网联汽车芯片研发项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "123,987.00万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "项目投入进度61.55%",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "智能网联汽车研发芯片研发项目...承诺投资总额123,987.00万元...截至期末累计投入76,310.51万元...项目达到预定可使用状态日期2028年12月31日"
+    },
+    {
+      "name": "自动驾驶地图更新及应用开发项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "101,776.81万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "项目投入进度98.17%",
+      "expected_completion_time": "2024年12月31日（已延期）",
+      "quote": "自动驾驶地图更新及应用开发项目...承诺投资总额101,776.81万元...截至期末累计投入99,910.03万元...项目达到预定可使用状态日期2024年12月31日（注：报告提及项目已完成并结项）"
+    },
+    {
+      "name": "自动驾驶专属云平台项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "72,416.56万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "项目投入进度76.25%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "自动驾驶专属研发云平台项目...承诺投资总额72,416.56万元...截至期末累计投入55,215.73万元...项目达到预定可使用状态日期2026年12月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "导航电子地图甲级测绘资质",
+      "asset_type": "certification",
+      "related_product": "高精度地图、智云业务",
+      "quantitative_info": null,
+      "quote": "公司拥有国内首批导航电子地图甲级测绘资质，并通过国家相关安全审查"
+    },
+    {
+      "name": "AEC-Q100车规认证",
+      "asset_type": "certification",
+      "related_product": "智芯业务芯片",
+      "quantitative_info": null,
+      "quote": "产品通过AEC-Q100车规认证"
+    },
+    {
+      "name": "ISO26262 ASIL-D功能安全等级（MCU）",
+      "asset_type": "certification",
+      "related_product": "MCU芯片",
+      "quantitative_info": "支持到ASIL-D的功能安全等级",
+      "quote": "MCU产品支持到ASIL-D的功能安全等级"
+    },
+    {
+      "name": "EVITA Full信息安全等级",
+      "asset_type": "certification",
+      "related_product": "MCU芯片",
+      "quantitative_info": "从EVITALight到EVITAFull的信息安全等级",
+      "quote": "以及从EVITALight到EVITAFull的信息安全等级"
+    },
+    {
+      "name": "参与制定多项国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "全年累计发布国家和行业标准88项",
+      "quote": "全年累计发布国家和行业标准88项，并发布《智能网联汽车网络技术路线图（2025—2030）》"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "456,775,096.71元，占年度销售总额比例11.08%",
+      "related_entity": "单位1",
+      "period": "2025年度",
+      "quote": "前5大客户资料：1 单位1 456,775,096.71元 占年度销售总额比例11.08%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "1,390,460,447.33元，占年度销售总额比例33.71%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 1,390,460,447.33...前五名客户合计销售金额占年度销售总额比例 33.71%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "358,060,229.48元，占年度采购总额比例9.20%",
+      "related_entity": "单位1",
+      "period": "2025年度",
+      "quote": "前5名供应商资料：1 单位1 358,060,229.48元 占年度采购总额比例9.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,337,364,461.69元，占年度采购总额比例34.35%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 1,337,364,461.69...前五名供应商合计采购金额占年度采购总额比例 34.35%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "外部经营环境不确定性增加的风险，汽车行业淘汰赛进一步深化，市场格局加速重塑，行业竞争已从单一产品技术比拼升级为全价值链体系能力的综合较量。若行业竞争持续加剧，公司可能面临市场拓展不及预期、产品议价能力下滑、毛利率下降及盈利水平波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、外部经营环境不确定性增加的风险...汽车行业淘汰赛进一步深化...若行业竞争持续加剧，公司可能面临市场拓展不及预期、产品议价能力下滑、毛利率下降及盈利水平波动的风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新业务、新产品研发投入变现速度不及预期的风险。为把握行业机遇，公司需在智能辅助驾驶、智能座舱、车规级芯片等核心领域持续高强度研发投入。前述领域研发具有资金规模大、技术迭代快、验证周期长、商业化转化不确定性高等特点，若出现研发方向与市场需求错配等情形，公司将面临研发投入收益不及预期、市场竞争优势削弱的风险。",
+      "related_entity": null,
+      "related_product": "智能辅助驾驶、智能座舱、车规级芯片",
+      "quote": "2、新业务、新产品研发投入变现速度不及预期的风险...智能辅助驾驶、智能座舱、车规级芯片等核心领域...技术迭代快...若出现研发方向与市场需求错配...将面临研发投入收益不及预期的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "优秀人才选育用留机制无法适配公司快速发展需求的风险。公司所处汽车智能化赛道，亟需大量掌握核心技术且具备丰富前装量产经验的高端研发人才，以及适配全球化布局的复合型管理人才。当前行业高端人才争夺日趋激烈，若公司未能持续完善人才培养、引进、激励与留存体系，将面临核心人才流失、人才梯队建设滞后的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、优秀人才选育用留机制无法适配公司快速发展需求的风险...若公司未能持续完善人才培养、引进、激励与留存体系...将面临核心人才流失、人才梯队建设滞后的风险"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "知识产权被侵犯的风险。公司在核心技术研发、产品迭代、全球化业务拓展过程中，面临软件著作权、专利权、商标权、商业秘密等核心知识产权被侵权、核心技术人员流动引发商业秘密泄露等风险；若公司未能完善核心领域全球专利布局与全流程知识产权保护体系，将面临核心竞争力受损、知识产权纠纷等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、知识产权被侵犯的风险...面临软件著作权、专利权、商标权、商业秘密等核心知识产权被侵权...将面临核心竞争力受损、知识产权纠纷等风险"
+    }
+  ]
+}

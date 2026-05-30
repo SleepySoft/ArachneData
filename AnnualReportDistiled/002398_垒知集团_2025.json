@@ -1,0 +1,479 @@
+{
+  "company_name_mentioned": "垒知控股集团股份有限公司",
+  "produces": [
+    {
+      "name": "混凝土外加剂",
+      "type": "material",
+      "revenue_proportion": "外加剂新材料业务实现营业收入18.23亿元、净利润3,638.57万元（科之杰集团）；分产品‘外加剂新材料’收入占营业收入比重76.81%",
+      "quote": "科之杰新材料集团有限公司主要为建筑、核电、港口、桥梁、隧道、公路、高铁、地铁、水利、电力等工程提供高环保、高性能、高寿命混凝土制造和施工解决方案...拥有聚羧酸合成、萘系合成、脂肪族合成、氨基合成等多种外加剂合成生产线，国内合成总产能截至本报告期末已达158.9万吨，可提供100余种混凝土外加剂及相关产品。"
+    },
+    {
+      "name": "综合技术服务（工程检测、设计、咨询等）",
+      "type": "service",
+      "revenue_proportion": "健研检测集团综合技术服务业务保持业绩稳定，实现营业收入3.22亿元、净利润2,520.35万元；分产品‘技术服务’收入占营业收入比重13.55%",
+      "quote": "健研检测集团有限公司主要为工程可研、建设、运维全寿命周期提供测绘、勘察、设计、检测、评估、咨询和培训等技术服务...服务范围涵盖建设工程、交通工程、电子电气、新能源汽车电子等领域。"
+    },
+    {
+      "name": "商品混凝土",
+      "type": "material",
+      "revenue_proportion": "分产品‘商品混凝土’收入占营业收入比重5.46%",
+      "quote": "分产品...商品混凝土 129,497,376.11 5.46%..."
+    },
+    {
+      "name": "数字化产品与服务（如垒知造远程质量控制系统、垒知智能化审图等）",
+      "type": "software",
+      "revenue_proportion": "垒知科技集团数字化服务业务实现净利润301.76万元；分行业‘软硬件销售及服务’收入占营业收入比重2.91%",
+      "quote": "垒知科技集团依托公司建筑科研领域深厚积淀...聚焦建筑产业互联网、大数据、物联网、智能化综合解决方案研发...截至报告期末，公司已有“垒知造（LetsMake）”、“垒知星（LetsGalaxy）”、“垒知沃（LetsWork）”、“垒知智能化审图（LetsReview）”、“垒知仿生看料系统（LetsRobotMI)”、“垒知道（LetsAware，混凝土智能监测APP）”等多款自研产品成功面市并远销海外，形成稳定业绩贡献。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "外加剂新材料原材料",
+      "target_product": "混凝土外加剂",
+      "cost_proportion": "公司销售的外加剂新材料的原材料成本占其营业成本的比重在80%以上",
+      "quote": "公司销售的外加剂新材料的原材料成本占其营业成本的比重在80%以上，其他为运费、人工工资、折旧、能源等"
+    },
+    {
+      "name": "商品混凝土原材料",
+      "target_product": "商品混凝土",
+      "cost_proportion": "公司销售的商品混凝土的原材料成本占其营业成本的比重在70%以上",
+      "quote": "公司销售的商品混凝土的原材料成本占其营业成本的比重在70%以上，其他为人工工资、折旧、能源等"
+    },
+    {
+      "name": "其他化工产品等",
+      "target_product": null,
+      "cost_proportion": "前五名供应商合计采购金额占年度采购总额比例56.81%",
+      "quote": "公司主要供应商情况...前五名供应商合计采购金额（元） 906,627,284.39...前五名供应商合计采购金额占年度采购总额比例 56.81%"
+    },
+    {
+      "name": "万华化学（烟台）销售有限公司供应的产品",
+      "target_product": null,
+      "cost_proportion": "公司前5名供应商资料...第五名 万华化学（烟台）销售有限公司...占年度采购总额比例 5.68%",
+      "quote": "公司前5名供应商资料...序号 供应商名称 采购额（元） 占年度采购总额比例...5 万华化学（烟台）销售有限公司 90,711,028.00 5.68%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "建设工程",
+      "source_product": "混凝土外加剂、综合技术服务",
+      "quote": "科之杰新材料集团有限公司主要为建筑、核电、港口、桥梁、隧道、公路、高铁、地铁、水利、电力等工程提供...解决方案...健研检测集团有限公司主要为工程可研、建设、运维全寿命周期提供..."
+    },
+    {
+      "name": "基础设施建设（核电、港口、桥梁、隧道、公路、高铁、地铁、水利、电力）",
+      "source_product": "混凝土外加剂",
+      "quote": "科之杰新材料集团有限公司主要为建筑、核电、港口、桥梁、隧道、公路、高铁、地铁、水利、电力等工程提供高环保、高性能、高寿命混凝土制造和施工解决方案"
+    },
+    {
+      "name": "绿色建筑、建筑节能及新能源解决方案",
+      "source_product": "综合技术服务",
+      "quote": "健研检测集团还专注于绿色建筑、建筑节能及新能源解决方案的科技研发及成果转化，垒知光合已拥有在建筑节能及新能源应用领域的技术研发及应用实力。"
+    },
+    {
+      "name": "电子电气、汽车电子检测认证",
+      "source_product": "综合技术服务（检测认证）",
+      "quote": "在电子电气检测业务领域，电子电气检测中心持续拓展检测资质与服务品类，检测范围已从通信电子、汽车电子领域，延伸至工业及新能源电子、医疗电子、光储一体化产品等多个领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "蔡永太",
+      "role": "董事长兼总经理、实际控制人",
+      "quote": "公司负责人蔡永太...董事长：蔡永太...蔡永太先生：1963年出生...教授级高级工程师...现任公司董事长兼总经理。"
+    },
+    {
+      "name": "林祥毅",
+      "role": "董事兼董事会秘书",
+      "quote": "董事会秘书 林祥毅...林祥毅先生：1976年出生...高级工程师。现任公司董事兼董事会秘书。"
+    },
+    {
+      "name": "刘静颖",
+      "role": "董事兼财务部部长、主管会计工作负责人",
+      "quote": "主管会计工作负责人刘静颖...刘静颖女士：1976年出生...高级会计师。现任公司董事兼财务部部长。"
+    },
+    {
+      "name": "戴兴华",
+      "role": "董事",
+      "quote": "戴兴华先生：1981年出生...高级工程师。现任公司董事。"
+    },
+    {
+      "name": "潘志峰",
+      "role": "董事",
+      "quote": "潘志峰先生：1981年出生...高级工程师。现任公司董事。"
+    },
+    {
+      "name": "黄小文",
+      "role": "职工董事",
+      "quote": "黄小文先生：1981年出生...教授级高级工程师。现任公司职工董事。"
+    },
+    {
+      "name": "王凤洲",
+      "role": "独立董事",
+      "quote": "王凤洲先生: 1960 年出生...管理学博士...本公司第七届董事会独立董事。"
+    },
+    {
+      "name": "杨春娇",
+      "role": "独立董事",
+      "quote": "杨春娇女士：1978年出生...厦门大学经济法学博士。本公司第七届董事会独立董事。"
+    },
+    {
+      "name": "李万凯",
+      "role": "独立董事",
+      "quote": "李万凯先生: 1961年出生...本公司第七届董事会独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "健研检测集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合技术服务业务的主要实施主体",
+      "quote": "健研检测集团有限公司主要为工程可研、建设、运维全寿命周期提供测绘、勘察、设计、检测、评估、咨询和培训等技术服务...是福建省规模最大、资质最全的建设工程质量检测龙头企业"
+    },
+    {
+      "name": "科之杰新材料集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "外加剂新材料业务的主要实施主体，行业龙头",
+      "quote": "科之杰新材料集团有限公司主要为建筑、核电、港口、桥梁、隧道、公路、高铁、地铁、水利、电力等工程提供...解决方案...是中国外加剂新材料行业龙头企业"
+    },
+    {
+      "name": "垒智设计集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "提供设计服务",
+      "quote": "垒智设计集团有限公司拥有建筑行业（建筑工程）甲级、岩土勘察专业类（岩土工程〈勘察，设计，物探测试检测监测〉）甲级..."
+    },
+    {
+      "name": "垒知科技集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "数字化服务业务的主要实施主体",
+      "quote": "报告期内，公司子公司垒知科技集团依托公司建筑科研领域深厚积淀...聚焦建筑产业互联网、大数据、物联网、智能化综合解决方案研发"
+    },
+    {
+      "name": "KZJ CONSTRUCTION CHEMICALS INC.",
+      "relation_type": "subsidiary",
+      "business_details": "海外外加剂业务基地（美国）",
+      "quote": "释义项 指 释义内容...KZJ（美国） 指 KZJ CONSTRUCTION CHEMICALS INC."
+    },
+    {
+      "name": "Lao KZJ New Materials Sole Co.,LTD",
+      "relation_type": "subsidiary",
+      "business_details": "海外外加剂业务基地（老挝）",
+      "quote": "释义项 指 释义内容...Lao KZJ（老挝） 指 Lao KZJ New Materials Sole Co.,LTD"
+    },
+    {
+      "name": "KTOP Materials Co.,Ltd.",
+      "relation_type": "subsidiary",
+      "business_details": "海外外加剂业务基地（泰国）",
+      "quote": "释义项 指 释义内容...KTOP（泰国） 指 KTOP Materials Co.,Ltd."
+    },
+    {
+      "name": "德国TUVSUD、加拿大CSA、德国TUV莱茵、德国DEKRA、瑞士SGS、法国BV、美国UL",
+      "relation_type": "customer",
+      "business_details": "健研检测集团与其建立深度合作并获得相关认可，可为其提供检测认证服务",
+      "quote": "健研检测集团已与德国TUVSUD、加拿大CSA、德国TUV莱茵、德国DEKRA、瑞士SGS、法国BV、美国UL等多家国际知名认证机构建立深度合作并获得相关认可"
+    },
+    {
+      "name": "赛力斯汽车、东风柳汽",
+      "relation_type": "customer",
+      "business_details": "健研检测集团获得其授权的第三方实验室资质，为其供应链电子零部件企业提供合规检测服务",
+      "quote": "在汽车电子领域，公司已获得赛力斯、东风柳汽认可的第三方实验室资质授权，可为其供应链电子零部件企业提供合规检测服务。"
+    },
+    {
+      "name": "云南招标股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，主要业务为招投标代理服务",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...云南招标股份有限公司...主要业务 招投标代理服务"
+    },
+    {
+      "name": "福建省金皇环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，主要业务为环保咨询服务",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...福建省金皇环保科技有限公司...主要业务 环保咨询服务"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "建设综合技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "321,622,730.13",
+      "revenue_proportion": "13.55%",
+      "gross_margin": "39.79%",
+      "yoy_change": "营业收入比上年同期增减 -2.34%",
+      "quote": "分行业...建设综合技术服务 321,622,730.13 13.55%...营业收入比上年同期增减 -2.34%...毛利率 39.79%"
+    },
+    {
+      "name": "新型建筑材料（主要为外加剂新材料）",
+      "segment_type": "product_line",
+      "revenue_amount": "1,955,826,131.15",
+      "revenue_proportion": "82.42%",
+      "gross_margin": "19.33%",
+      "yoy_change": "营业收入比上年同期增减 -8.08%",
+      "quote": "分行业...新型建筑材料 1,955,826,131.15 82.42%...营业收入比上年同期增减 -8.08%...毛利率 19.33%"
+    },
+    {
+      "name": "技术服务（主要为检测、设计等）",
+      "segment_type": "product_line",
+      "revenue_amount": "321,622,730.13",
+      "revenue_proportion": "13.55%",
+      "gross_margin": "39.79%",
+      "yoy_change": "营业收入比上年同期增减 -2.34%",
+      "quote": "分产品...技术服务 321,622,730.13 13.55%...营业收入比上年同期增减 -2.34%...毛利率 39.79%"
+    },
+    {
+      "name": "外加剂新材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,822,709,121.55",
+      "revenue_proportion": "76.81%",
+      "gross_margin": "19.56%",
+      "yoy_change": "营业收入比上年同期增减 -6.78%",
+      "quote": "分产品...外加剂新材料 1,822,709,121.55 76.81%...营业收入比上年同期增减 -6.78%...毛利率 19.56%"
+    },
+    {
+      "name": "商品混凝土",
+      "segment_type": "product_line",
+      "revenue_amount": "129,497,376.11",
+      "revenue_proportion": "5.46%",
+      "gross_margin": null,
+      "yoy_change": "营业收入比上年同期增减 -15.25%",
+      "quote": "分产品...商品混凝土 129,497,376.11 5.46%...营业收入比上年同期增减 -15.25%"
+    },
+    {
+      "name": "软硬件销售及服务（数字化服务等）",
+      "segment_type": "product_line",
+      "revenue_amount": "69,038,928.24",
+      "revenue_proportion": "2.91%",
+      "gross_margin": null,
+      "yoy_change": "营业收入比上年同期增减 -48.35%",
+      "quote": "分行业...软硬件销售及服务 69,038,928.24 2.91%...营业收入比上年同期增减 -48.35%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,074,023,567.25",
+      "revenue_proportion": "45.26%",
+      "gross_margin": "28.76%",
+      "yoy_change": "营业收入比上年同期增减 -9.87%",
+      "quote": "分地区...华东地区 1,074,023,567.25 45.26%...营业收入比上年同期增减 -9.87%...毛利率 28.76%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "434,187,560.38",
+      "revenue_proportion": "18.30%",
+      "gross_margin": "16.66%",
+      "yoy_change": "营业收入比上年同期增减 -5.44%",
+      "quote": "分地区...西南地区 434,187,560.38 18.30%...营业收入比上年同期增减 -5.44%...毛利率 16.66%"
+    },
+    {
+      "name": "中南地区",
+      "segment_type": "region",
+      "revenue_amount": "571,804,157.58",
+      "revenue_proportion": "24.10%",
+      "gross_margin": "20.99%",
+      "yoy_change": "营业收入比上年同期增减 -12.16%",
+      "quote": "分地区...中南地区 571,804,157.58 24.10%...营业收入比上年同期增减 -12.16%...毛利率 20.99%"
+    },
+    {
+      "name": "国外地区",
+      "segment_type": "region",
+      "revenue_amount": "60,868,099.03",
+      "revenue_proportion": "2.56%",
+      "gross_margin": null,
+      "yoy_change": "营业收入比上年同期增减 66.62%",
+      "quote": "分地区...国外地区 60,868,099.03 2.56%...营业收入比上年同期增减 66.62%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "外加剂新材料",
+      "metric_type": "capacity",
+      "value": "158.9万吨",
+      "period": "报告期末",
+      "quote": "国内合成总产能截至本报告期末已达158.9万吨"
+    },
+    {
+      "product": "外加剂新材料",
+      "metric_type": "production_volume",
+      "value": "130万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减...生产量 万吨 130 131 -0.76%"
+    },
+    {
+      "product": "外加剂新材料",
+      "metric_type": "sales_volume",
+      "value": "130万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减...销售量 万吨 130 131 -0.76%"
+    },
+    {
+      "product": "外加剂新材料",
+      "metric_type": "other",
+      "value": "11.5%",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减...市场占有率 % 11.5 10.5 1.00%"
+    },
+    {
+      "product": "商品混凝土",
+      "metric_type": "production_volume",
+      "value": "40万立方米",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减...生产量 万立方米 40 45 -11.11%"
+    },
+    {
+      "product": "商品混凝土",
+      "metric_type": "sales_volume",
+      "value": "40万立方米",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减...销售量 万立方米 40 45 -11.11%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "垒知上海科创园项目",
+      "project_type": "construction_project",
+      "location": "上海",
+      "investment_amount": null,
+      "designated_capacity": null,
+      "progress": "项目验收转固",
+      "expected_completion_time": null,
+      "quote": "固定资产较期初增加428,354,262.02元，增长66.51%，主要原因系本期垒知上海科创园等项目验收转固所致。...在建工程较期初减少481,288,284.47元，下降97.14%，主要原因系本期垒知上海科创园等项目验收转固所致。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "聚羧酸合成技术",
+      "asset_type": "process_technology",
+      "related_product": "混凝土外加剂",
+      "quantitative_info": null,
+      "quote": "拥有聚羧酸合成、萘系合成、脂肪族合成、氨基合成等多种外加剂合成生产线"
+    },
+    {
+      "name": "授权有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计拥有授权有效专利682件（报告期初660件，新增77件）",
+      "quote": "报告期初，公司拥有授权有效专利660件；2025年度新增授权有效专利77件，截至报告期末，公司累计拥有授权有效专利682件。"
+    },
+    {
+      "name": "CMA资质认定",
+      "asset_type": "certification",
+      "related_product": "检测服务",
+      "quantitative_info": null,
+      "quote": "健研检测集团是福建省综合能力最强的工程检测机构，拥有CMA资质认定..."
+    },
+    {
+      "name": "CNAS实验室认可与检验机构认可",
+      "asset_type": "certification",
+      "related_product": "检测服务",
+      "quantitative_info": null,
+      "quote": "健研检测集团...拥有...CNAS实验室认可与检验机构认可..."
+    },
+    {
+      "name": "建设工程质量检测机构全部九个专项资质",
+      "asset_type": "certification",
+      "related_product": "检测服务",
+      "quantitative_info": null,
+      "quote": "健研检测集团...拥有...建设工程质量检测机构全部九个专项资质..."
+    },
+    {
+      "name": "澳大利亚SAAApprovals认可实验室资质",
+      "asset_type": "certification",
+      "related_product": "电子电气检测服务",
+      "quantitative_info": null,
+      "quote": "健研检测集团已获得澳大利亚SAAApprovals认可实验室资质，成为福建省首家获得澳洲SAA资质的独立第三方检测机构。"
+    },
+    {
+      "name": "国家博士后科研工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2015年公司获批成立博士后工作站...国家级科技平台1个（国家博士后科研工作站）"
+    },
+    {
+      "name": "国家装配式建筑产业基地",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2017年获批国家装配式建筑产业基地"
+    },
+    {
+      "name": "院士专家工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2018年组建院士专家工作站"
+    },
+    {
+      "name": "垒知造-新拌混凝土远程质量控制系统",
+      "asset_type": "core_technology",
+      "related_product": "数字化产品（垒知造）",
+      "quantitative_info": "报告期内合同签约量超700台套",
+      "quote": "报告期内，“垒知造-新拌混凝土远程质量控制系统”市场拓展成效显著，合同签约量超700台套..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "41,617,987.56元",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5大客户资料...序号 客户名称 销售额（元） 占年度销售总额比例...1 第一名 41,617,987.56 1.75%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "141,478,332.95元，占年度销售总额比例5.96%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要销售客户情况...前五名客户合计销售金额（元） 141,478,332.95...前五名客户合计销售金额占年度销售总额比例 5.96%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "287,205,037.65元",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料...序号 供应商名称 采购额（元） 占年度采购总额比例...1 第一名 287,205,037.65 18.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "906,627,284.39元，占年度采购总额比例56.81%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要供应商情况...前五名供应商合计采购金额（元） 906,627,284.39...前五名供应商合计采购金额占年度采购总额比例 56.81%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处的建筑行业，发展与国家基础设施建设、房地产投资规模高度相关，若市场复苏不及预期，将对公司经营业绩产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.市场景气度风险...公司所处的建筑行业，发展与国家基础设施建设、房地产投资规模高度相关，若市场复苏不及预期，将对公司经营业绩产生一定影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受国家环保政策及国际局势变化影响，国内化工行业开工率存在不确定性，2026年公司产品主要原材料的市场供应与价格可能出现波动，给公司成本控制带来不确定性风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.原材料价格波动风险...受国家环保政策及国际局势变化影响，国内化工行业开工率存在不确定性，2026年公司产品主要原材料的市场供应与价格可能出现波动，给公司成本控制带来不确定性风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "受生活成本上升、社会保障标准提高等因素影响，行业性人力资源成本上涨趋势不可避免，2026年公司仍面临薪酬调整带来的成本上升压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.人力资源成本上升风险...受生活成本上升、社会保障标准提高等因素影响，行业性人力资源成本上涨趋势不可避免，2026年公司仍面临薪酬调整带来的成本上升压力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司主营业务所处细分行业市场化程度较高，市场竞争日趋激烈，公司面临行业竞争加剧的相关风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.行业竞争加剧风险...公司主营业务所处细分行业市场化程度较高，市场竞争日趋激烈，公司面临行业竞争加剧的相关风险。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易风险、海外政治局势变化等因素，可能对公司海外布局、产品出口、供应链稳定造成一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5.国际环境不确定性风险...国际贸易风险、海外政治局势变化等因素，可能对公司海外布局、产品出口、供应链稳定造成一定影响。"
+    }
+  ]
+}

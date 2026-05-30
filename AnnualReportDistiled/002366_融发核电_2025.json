@@ -1,0 +1,608 @@
+{
+  "company_name_mentioned": "融发核电设备股份有限公司",
+  "produces": [
+    {
+      "name": "核电主管道",
+      "type": "component",
+      "revenue_proportion": "21.10%",
+      "quote": "核电主管道是核岛主设备之一，是融发核电主要产品。...反应堆一回路主管道 191,109,216.19 21.10%"
+    },
+    {
+      "name": "反应堆冷却剂循环主泵泵壳",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "反应堆冷却剂循环主泵是核电站的重要动力设备...而泵壳更是首当其冲。...融发核电通过引进消化吸收，已经实现了国产化"
+    },
+    {
+      "name": "容器类锻件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "容器类锻件...反应堆压力容器、蒸汽发生器、稳压器属于核岛主设备"
+    },
+    {
+      "name": "核电主设备支承铸件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "核电主设备支承铸件...主设备支承主要是指反应堆压力容器支承、蒸汽发生器支承及稳压器支承"
+    },
+    {
+      "name": "石化装备产品",
+      "type": "component",
+      "revenue_proportion": "31.66%",
+      "quote": "主要产品包括高压容器、高温合金炉管、各类石化锻件等。...石化装备产品 286,741,885.97 31.66%"
+    },
+    {
+      "name": "大型环轧成型产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "大型环轧成型产品...公司环轧系统具备最大16m直径，高度4.88m的一次环轧成型能力"
+    },
+    {
+      "name": "其他行业用高端材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要包括火电、水电、油气等行业的流体机械用泵、阀铸件；汽轮机相关铸件...等产品。"
+    },
+    {
+      "name": "锻造产品",
+      "type": "component",
+      "revenue_proportion": "34.17%",
+      "quote": "锻造产品 309,472,570.17 34.17%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "生铁",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购物项是生铁、废钢、钢材、合金等原材料以及燃气、电等能源。"
+    },
+    {
+      "name": "废钢",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购物项是生铁、废钢、钢材、合金等原材料以及燃气、电等能源。"
+    },
+    {
+      "name": "钢材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购物项是生铁、废钢、钢材、合金等原材料以及燃气、电等能源。"
+    },
+    {
+      "name": "合金",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购物项是生铁、废钢、钢材、合金等原材料以及燃气、电等能源。"
+    },
+    {
+      "name": "燃气",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购物项是生铁、废钢、钢材、合金等原材料以及燃气、电等能源。"
+    },
+    {
+      "name": "电",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购物项是生铁、废钢、钢材、合金等原材料以及燃气、电等能源。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "核电",
+      "source_product": "核电主管道、反应堆冷却剂循环主泵泵壳、容器类锻件、核电主设备支承铸件",
+      "quote": "公司主要从事高端装备机械制造及高端材料业务，为核电、石化、能源、冶金及国防等提供重大技术装备、高新部件、高端材料和技术服务。"
+    },
+    {
+      "name": "石化",
+      "source_product": "石化装备产品",
+      "quote": "融发核电在石化装备领域具备技术、设备及生产优势。主要产品包括高压容器、高温合金炉管、各类石化锻件等。"
+    },
+    {
+      "name": "能源",
+      "source_product": "高端材料",
+      "quote": "为核电、石化、能源、冶金及国防等提供重大技术装备、高新部件、高端材料和技术服务。"
+    },
+    {
+      "name": "冶金",
+      "source_product": "高端材料",
+      "quote": "为核电、石化、能源、冶金及国防等提供重大技术装备、高新部件、高端材料和技术服务。"
+    },
+    {
+      "name": "国防",
+      "source_product": "高端材料",
+      "quote": "为核电、石化、能源、冶金及国防等提供重大技术装备、高新部件、高端材料和技术服务。"
+    },
+    {
+      "name": "火电",
+      "source_product": "高端材料",
+      "quote": "主要包括火电、水电、油气等行业的流体机械用泵、阀铸件；汽轮机相关铸件...等产品。"
+    },
+    {
+      "name": "水电",
+      "source_product": "高端材料",
+      "quote": "主要包括火电、水电、油气等行业的流体机械用泵、阀铸件；汽轮机相关铸件...等产品。"
+    },
+    {
+      "name": "船舶",
+      "source_product": "高端材料",
+      "quote": "火电、水电、船舶等相关转子、上冠下环、轴类锻件等产品。"
+    },
+    {
+      "name": "航空航天",
+      "source_product": null,
+      "quote": "配置了针对核电领域、石化领域、海工领域、增材制造领域、航空航天领域、精密铸造领域等专业的市场销售事业部"
+    },
+    {
+      "name": "海工",
+      "source_product": "大型环轧成型产品",
+      "quote": "公司环轧系统具备最大16m直径，高度4.88m的一次环轧成型能力...海工装备大型支撑节点制造技术"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈伟",
+      "role": "公司负责人、董事长、法定代表人",
+      "quote": "公司负责人陈伟...现任融发核电设备股份有限公司董事长。"
+    },
+    {
+      "name": "郝燕存",
+      "role": "主管会计工作负责人、董事、副总经理、财务负责人",
+      "quote": "主管会计工作负责人郝燕存...现任融发核电设备股份有限公司董事、副总经理、财务负责人。"
+    },
+    {
+      "name": "王惠",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）王惠"
+    },
+    {
+      "name": "刘宝江",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 刘宝江"
+    },
+    {
+      "name": "车嘉益",
+      "role": "证券事务代表",
+      "quote": "证券事务代表 车嘉益"
+    },
+    {
+      "name": "于相金",
+      "role": "董事",
+      "quote": "于相金 男 52 董事 现任"
+    },
+    {
+      "name": "马骏",
+      "role": "职工代表董事",
+      "quote": "马骏 男 54 职工代表董事 现任"
+    },
+    {
+      "name": "方玉诚",
+      "role": "独立董事",
+      "quote": "方玉诚 男 64 独立董事 现任"
+    },
+    {
+      "name": "董和平",
+      "role": "独立董事",
+      "quote": "董和平 男 63 独立董事 现任"
+    },
+    {
+      "name": "孙燕芳",
+      "role": "独立董事",
+      "quote": "孙燕芳 女 49 独立董事 现任"
+    },
+    {
+      "name": "姜伟波",
+      "role": "控股股东法定代表人",
+      "quote": "青岛军民融合发展集团有限公司 姜伟波 2014年04月10日"
+    },
+    {
+      "name": "王雪欣",
+      "role": "前实际控制人、前控股股东法定代表人",
+      "quote": "烟台市台海集团股份有限公司 王雪欣 2001年04月02日"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "青岛军民融合发展集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东、实际控制人由...变更为青岛军民融合发展集团有限公司、青岛西海岸新区国有资产管理局。"
+    },
+    {
+      "name": "青岛西海岸新区国有资产管理局",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "控股股东、实际控制人由...变更为青岛军民融合发展集团有限公司、青岛西海岸新区国有资产管理局。"
+    },
+    {
+      "name": "烟台市台海集团有限公司",
+      "relation_type": "competitor",
+      "business_details": "前控股股东",
+      "quote": "控股股东、实际控制人由烟台市台海集团有限公司、王雪欣变更为...。"
+    },
+    {
+      "name": "烟台台海玛努尔核电设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为核电设备制造",
+      "quote": "烟台台海玛努尔核电设备有限公司...核电站成套设备、大型零部件、泵、阀、叶轮、铸锻件以及其他电力设备和工业设备用各种铸锻件的生产与销售。"
+    },
+    {
+      "name": "德阳融发能源装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为核级及其他锻件的锻造加工",
+      "quote": "德阳融发能源装备有限公司...核级锻件及其他锻件的锻造加工、生产和销售"
+    },
+    {
+      "name": "烟台玛努尔高温合金有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为金属材料及设备制造",
+      "quote": "烟台玛努尔高温合金有限公司...金属材料制造；专用装备制造..."
+    },
+    {
+      "name": "青岛融发装配技术保障中心有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为增材制造等",
+      "quote": "青岛融发装配技术保障中心有限公司...增材制造装备销售；增材制造；..."
+    },
+    {
+      "name": "烟台台海材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为专用机械及金属制品",
+      "quote": "烟台台海材料科技有限公司...专用机械及成套设备、金属制品、开发、设计、制造、销售、技术服务。"
+    },
+    {
+      "name": "烟台玛努尔核电检测技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为检验检测服务",
+      "quote": "烟台玛努尔核电检测技术有限公司...检验检测服务；特种设备检验检测；..."
+    },
+    {
+      "name": "山东融发戍海智能装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为海洋智能装备等",
+      "quote": "山东融发戍海智能装备有限公司...为海洋智能装备设计、生产、维护及技术咨询服务..."
+    },
+    {
+      "name": "青岛融发戍海供应链管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为供应链管理",
+      "quote": "青岛融发戍海供应链管理有限公司...供应链管理服务;..."
+    },
+    {
+      "name": "尤尼泰振青会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "尤尼泰振青、审计机构 指 尤尼泰振青会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "中国石油大学（华东）",
+      "relation_type": "customer",
+      "business_details": "独立董事孙燕芳任职单位",
+      "quote": "现任中国石油大学（华东）经济管理学院教授、博士生导师"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "核电行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "294,059,563.41元",
+      "revenue_proportion": "32.47%",
+      "gross_margin": "31.01%",
+      "yoy_change": "-33.10%",
+      "quote": "核电行业 294,059,563.41 32.47%...毛利率 31.01%...营业收入比上年增减 -33.10%"
+    },
+    {
+      "name": "其他专用设备行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "596,214,456.14元",
+      "revenue_proportion": "65.84%",
+      "gross_margin": "-1.46%",
+      "yoy_change": "9.68%",
+      "quote": "其他专用设备行业 596,214,456.14 65.84%...毛利率 -1.46%...营业收入比上年增减 9.68%"
+    },
+    {
+      "name": "反应堆一回路主管道",
+      "segment_type": "product_line",
+      "revenue_amount": "191,109,216.19元",
+      "revenue_proportion": "21.10%",
+      "gross_margin": "47.62%",
+      "yoy_change": "-48.97%",
+      "quote": "反应堆一回路主管道 191,109,216.19 21.10%...毛利率 47.62%...营业收入比上年增减 -48.97%"
+    },
+    {
+      "name": "其他核电设备",
+      "segment_type": "product_line",
+      "revenue_amount": "102,950,347.22元",
+      "revenue_proportion": "11.37%",
+      "gross_margin": "0.18%",
+      "yoy_change": "58.30%",
+      "quote": "其他核电设备 102,950,347.22 11.37%...毛利率 0.18%...营业收入比上年增减 58.30%"
+    },
+    {
+      "name": "石化装备产品",
+      "segment_type": "product_line",
+      "revenue_amount": "286,741,885.97元",
+      "revenue_proportion": "31.66%",
+      "gross_margin": "9.01%",
+      "yoy_change": "61.99%",
+      "quote": "石化装备产品 286,741,885.97 31.66%...毛利率 9.01%...营业收入比上年增减 61.99%"
+    },
+    {
+      "name": "锻造产品",
+      "segment_type": "product_line",
+      "revenue_amount": "309,472,570.17元",
+      "revenue_proportion": "34.17%",
+      "gross_margin": "-11.17%",
+      "yoy_change": "-15.58%",
+      "quote": "锻造产品 309,472,570.17 34.17%...毛利率 -11.17%...营业收入比上年增减 -15.58%"
+    },
+    {
+      "name": "国内地区",
+      "segment_type": "region",
+      "revenue_amount": "732,078,138.38元",
+      "revenue_proportion": "80.84%",
+      "gross_margin": "7.81%",
+      "yoy_change": "-26.87%",
+      "quote": "国内地区 732,078,138.38 80.84%...毛利率 7.81%...营业收入比上年增减 -26.87%"
+    },
+    {
+      "name": "国外地区",
+      "segment_type": "region",
+      "revenue_amount": "173,494,105.46元",
+      "revenue_proportion": "19.16%",
+      "gross_margin": "10.85%",
+      "yoy_change": "3,017.90%",
+      "quote": "国外地区 173,494,105.46 19.16%...毛利率 10.85%...营业收入比上年增减 3,017.90%"
+    },
+    {
+      "name": "订单销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "905,572,243.84元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "8.39%",
+      "yoy_change": "-10.03%",
+      "quote": "订单销售 905,572,243.84 100.00%...毛利率 8.39%...营业收入比上年增减 -10.03%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "核电行业",
+      "metric_type": "sales_volume",
+      "value": "294,059,563.41元",
+      "period": "2025年",
+      "quote": "核电行业 销售量 元 294,059,563.41"
+    },
+    {
+      "product": "核电行业",
+      "metric_type": "production_volume",
+      "value": "294,059,563.41元",
+      "period": "2025年",
+      "quote": "核电行业 生产量 元 294,059,563.41"
+    },
+    {
+      "product": "其他专用设备行业",
+      "metric_type": "sales_volume",
+      "value": "596,214,456.14元",
+      "period": "2025年",
+      "quote": "其他专用设备行业 销售量 元 596,214,456.14"
+    },
+    {
+      "product": "其他专用设备行业",
+      "metric_type": "production_volume",
+      "value": "596,214,456.14元",
+      "period": "2025年",
+      "quote": "其他专用设备行业 生产量 元 596,214,456.14"
+    },
+    {
+      "product": "其他",
+      "metric_type": "sales_volume",
+      "value": "15,298,224.29元",
+      "period": "2025年",
+      "quote": "其他 销售量 元 15,298,224.29"
+    },
+    {
+      "product": "其他",
+      "metric_type": "production_volume",
+      "value": "15,298,224.29元",
+      "period": "2025年",
+      "quote": "其他 生产量 元 15,298,224.29"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "烟台玛努尔高温合金有限公司重整",
+      "project_type": "acquisition_project",
+      "location": "山东省烟台市",
+      "investment_amount": "20,472,399.43元",
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "烟台玛努尔高温合金有限公司...2025年6月28日，山东省烟台市莱山区法院裁定:确认《烟台玛努尔高温合金有限公司重整计划》执行完毕"
+    },
+    {
+      "name": "在建工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "在建工程 1,829,614,295.17"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "150吨级大型不锈钢电渣钢锭冶炼工艺",
+      "asset_type": "core_technology",
+      "related_product": "核电设备",
+      "quantitative_info": null,
+      "quote": "突出表现在掌握150吨级大型不锈钢电渣钢锭冶炼工艺..."
+    },
+    {
+      "name": "三代核电奥氏体钢主泵泵壳整体铸造技术",
+      "asset_type": "core_technology",
+      "related_product": "反应堆冷却剂循环主泵泵壳",
+      "quantitative_info": null,
+      "quote": "三代核电奥氏体钢主泵泵壳整体铸造技术..."
+    },
+    {
+      "name": "四代高温气冷堆压力容器/蒸汽发生器锻件材料制造技术",
+      "asset_type": "core_technology",
+      "related_product": "高温气冷堆部件",
+      "quantitative_info": null,
+      "quote": "四代高温气冷堆压力容器/蒸汽发生器锻件材料制造技术..."
+    },
+    {
+      "name": "四代快堆蒸发器管板锻件材料制造技术",
+      "asset_type": "core_technology",
+      "related_product": "快堆蒸发器",
+      "quantitative_info": null,
+      "quote": "四代快堆蒸发器管板锻件材料制造技术..."
+    },
+    {
+      "name": "超级双相钢大型海水循环泵叶轮铸造技术",
+      "asset_type": "core_technology",
+      "related_product": "海水循环泵叶轮",
+      "quantitative_info": null,
+      "quote": "超级双相钢大型海水循环泵叶轮铸造技术..."
+    },
+    {
+      "name": "海工装备大型支撑节点制造技术",
+      "asset_type": "core_technology",
+      "related_product": "海工装备",
+      "quantitative_info": null,
+      "quote": "海工装备大型支撑节点制造技术..."
+    },
+    {
+      "name": "超高压容器制造技术",
+      "asset_type": "core_technology",
+      "related_product": "超高压容器",
+      "quantitative_info": null,
+      "quote": "超高压容器制造技术..."
+    },
+    {
+      "name": "火电超临界汽轮机转子材料制造技术",
+      "asset_type": "core_technology",
+      "related_product": "汽轮机转子",
+      "quantitative_info": null,
+      "quote": "火电超临界汽轮机转子材料制造技术..."
+    },
+    {
+      "name": "二代半核电主管道全流程制造技术",
+      "asset_type": "process_technology",
+      "related_product": "核电主管道",
+      "quantitative_info": null,
+      "quote": "主要核心装备制造技术表现一是二代半核电主管道全流程制造技术..."
+    },
+    {
+      "name": "三代主管道全流程制造技术",
+      "asset_type": "process_technology",
+      "related_product": "核电主管道",
+      "quantitative_info": null,
+      "quote": "二是三代主管道全流程制造技术，涵盖目前华龙一号、AP1000、CAP1400等所有国内主流技术路线..."
+    },
+    {
+      "name": "高温气冷堆/快堆等小型堆核岛主设备关键装备制造技术",
+      "asset_type": "process_technology",
+      "related_product": "小型堆核岛主设备",
+      "quantitative_info": null,
+      "quote": "三是高温气冷堆/快堆等小型堆核岛主设备关键装备制造技术..."
+    },
+    {
+      "name": "乏燃料储运容器制造技术",
+      "asset_type": "process_technology",
+      "related_product": "乏燃料储运容器",
+      "quantitative_info": null,
+      "quote": "四是...完全掌握了乏燃料储运容器制造技术及核废后处理系统装备制造技术..."
+    },
+    {
+      "name": "核废后处理系统装备制造技术",
+      "asset_type": "process_technology",
+      "related_product": "核废后处理系统装备",
+      "quantitative_info": null,
+      "quote": "四是...完全掌握了乏燃料储运容器制造技术及核废后处理系统装备制造技术..."
+    },
+    {
+      "name": "民用核安全机械设备制造许可证",
+      "asset_type": "certification",
+      "related_product": "核级产品",
+      "quantitative_info": null,
+      "quote": "自2008年取得民用核安全机械设备制造许可证以来..."
+    },
+    {
+      "name": "API Q1认证证书",
+      "asset_type": "certification",
+      "related_product": "石油设备",
+      "quantitative_info": null,
+      "quote": "在石油设备制造资质认证方面，公司获得API Q1认证证书。"
+    },
+    {
+      "name": "ASME U钢印、ASME NPT钢印及NS证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在国际市场资质认证方面，获得美国机械工程师协会颁发的ASME U钢印、ASME NPT钢印及NS证书。"
+    },
+    {
+      "name": "HAF003核质量保证体系",
+      "asset_type": "technical_platform",
+      "related_product": "核级产品",
+      "quantitative_info": null,
+      "quote": "公司建立了符合HAF003核质量保证体系...等管理体系。"
+    },
+    {
+      "name": "GB/T19001质量管理体系证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获得北京国金恒信管理体系认证有限公司颁发的GB/T19001质量管理体系证书..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.54%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 41.54%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "15.24%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "客户一 销售额（元） 138,010,689.94 占年度销售总额比例 15.24%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "17.57%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 17.57%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "5.86%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "供应商一 采购额（元） 58,707,970.74 占年度采购总额比例 5.86%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司主要产品受行业短期政策影响，公司订单及开工情况低于上年同期，直接导致公司主要指标受到较大影响。",
+      "related_entity": null,
+      "related_product": "核电设备",
+      "quote": "公司主要产品受行业短期政策影响，公司订单及开工情况低于上年同期，直接导致公司主要指标受到较大影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "核电设备制造是装备制造业中的高端领域...在核岛主管道设备、核后处理装备、核一级容器类锻件、核一级泵阀/支承类铸件这一细分市场，处于国内外领先地位。",
+      "related_entity": null,
+      "related_product": "核岛装备材料",
+      "quote": "公司历经十年多的奋斗历程...在核岛主管道设备、核后处理装备、核一级容器类锻件、核一级泵阀/支承类铸件这一细分市场，处于国内外领先地位..."
+    }
+  ]
+}

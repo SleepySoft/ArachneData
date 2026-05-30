@@ -1,0 +1,599 @@
+{
+  "company_name_mentioned": "赛隆药业集团股份有限公司",
+  "produces": [
+    {
+      "name": "AI服务器",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重69.01%",
+      "quote": "分产品 AI服务器 357,982,654.68 69.01%"
+    },
+    {
+      "name": "通用服务器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "双路通用服务器，基于AMD EPYC处理器打造，兼具卓越计算性能与超高性价比..."
+    },
+    {
+      "name": "图形工作站",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "桌面级专业生产力平台，面向3D设计、影视渲染、科研仿真、低精度运算等场景..."
+    },
+    {
+      "name": "存储服务器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "企业海量数据存储优选，适配数据备份归档、混合读写、多终端数据共享等场景..."
+    },
+    {
+      "name": "药品（制剂）",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重27.53%（药品销售）",
+      "quote": "分产品 药品销售 142,825,000.88 27.53%"
+    },
+    {
+      "name": "药品（代理）",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重1.25%",
+      "quote": "分产品 药品销售（代理） 6,507,535.57 1.25%"
+    },
+    {
+      "name": "原料药",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要生产、销售以及拥有生产批文的医药品种情况如下：②原料药产品"
+    },
+    {
+      "name": "饮品",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重1.02%",
+      "quote": "分产品 饮品销售 5,304,424.86 1.02%"
+    },
+    {
+      "name": "代加工业务服务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重0.31%",
+      "quote": "分产品 代加工业务 1,617,572.97 0.31%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "GPU",
+      "target_product": "AI服务器",
+      "cost_proportion": null,
+      "quote": "高端AI服务器核心部件（如高端GPU、特定型号CPU）全球供应集中度高..."
+    },
+    {
+      "name": "CPU",
+      "target_product": "AI服务器",
+      "cost_proportion": null,
+      "quote": "高端AI服务器核心部件（如高端GPU、特定型号CPU）全球供应集中度高..."
+    },
+    {
+      "name": "主板",
+      "target_product": "AI服务器",
+      "cost_proportion": null,
+      "quote": "公司算力服务器业务采购的物资主要包括：生产集成所需的核心硬件组件（如CPU、GPU、内存、存储、主板、电源等）..."
+    },
+    {
+      "name": "内存",
+      "target_product": "AI服务器",
+      "cost_proportion": null,
+      "quote": "公司算力服务器业务采购的物资主要包括：生产集成所需的核心硬件组件（如CPU、GPU、内存、存储、主板、电源等）..."
+    },
+    {
+      "name": "存储设备",
+      "target_product": "AI服务器",
+      "cost_proportion": null,
+      "quote": "公司算力服务器业务采购的物资主要包括：生产集成所需的核心硬件组件（如CPU、GPU、内存、存储、主板、电源等）..."
+    },
+    {
+      "name": "电源",
+      "target_product": "AI服务器",
+      "cost_proportion": null,
+      "quote": "公司算力服务器业务采购的物资主要包括：生产集成所需的核心硬件组件（如CPU、GPU、内存、存储、主板、电源等）..."
+    },
+    {
+      "name": "药品原辅料",
+      "target_product": "药品（制剂/原料药）",
+      "cost_proportion": null,
+      "quote": "生产用原辅料、与药品直接接触的包装材料需从质量管理部批准的具有相应资质的供应商处采购..."
+    },
+    {
+      "name": "药品包装材料",
+      "target_product": "药品（制剂/原料药）",
+      "cost_proportion": null,
+      "quote": "生产用原辅料、与药品直接接触的包装材料需从质量管理部批准的具有相应资质的供应商处采购..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "智算中心",
+      "source_product": "AI服务器",
+      "quote": "公司核心产品算力服务器主要面向智算中心、大模型公司、AI垂直应用企业等企业进行销售..."
+    },
+    {
+      "name": "大模型训练与推理",
+      "source_product": "AI服务器",
+      "quote": "AI服务器 适配大语言模型（LLM）微调、训练AIGC、文生图、文生视频、多模态模型训练、科学计算、流体仿真、渲染、私有化超算节点、AI 推理集群主力机高并发AI服务、多容器GPU虚拟化、AI一体机等核心场景..."
+    },
+    {
+      "name": "云数据中心",
+      "source_product": "AI服务器",
+      "quote": "优化硬件选型与散热方案设计，标准化生产流程，提升产能规模与交付效率，快速抢占通用算力服务器市场份额。"
+    },
+    {
+      "name": "科研用途",
+      "source_product": "AI服务器",
+      "quote": "聚焦大模型训练、智算中心、云数据中心、科研用途等当前主流场景..."
+    },
+    {
+      "name": "医疗卫生机构",
+      "source_product": "药品（制剂/原料药）",
+      "quote": "公司产品主要为处方药，终端客户为各级医疗卫生机构..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈科",
+      "role": "副董事长、总裁、法定代表人",
+      "quote": "公司负责人陈科、主管会计工作负责人高京及会计机构负责人（会计主管人员）曲棠能声明..."
+    },
+    {
+      "name": "殷惠军",
+      "role": "董事长",
+      "quote": "任期起始日期2025年10月10日 殷惠军 董事长"
+    },
+    {
+      "name": "陈顿斐",
+      "role": "董事",
+      "quote": "任期起始日期2025年08月26日 陈顿斐 董事"
+    },
+    {
+      "name": "张光扬",
+      "role": "董事",
+      "quote": "任期起始日期2025年08月26日 张光扬 董事"
+    },
+    {
+      "name": "陈榕辉",
+      "role": "董事",
+      "quote": "任期起始日期2025年08月26日 陈榕辉 董事"
+    },
+    {
+      "name": "李童瑶",
+      "role": "董事",
+      "quote": "任期起始日期2025年08月26日 李童瑶 董事"
+    },
+    {
+      "name": "王淑芳",
+      "role": "独立董事",
+      "quote": "任期起始日期2025年08月26日 王淑芳 独立董事"
+    },
+    {
+      "name": "张建民",
+      "role": "独立董事",
+      "quote": "任期起始日期2025年08月26日 张建民 独立董事"
+    },
+    {
+      "name": "张凯",
+      "role": "独立董事",
+      "quote": "任期起始日期2025年08月26日 张凯 独立董事"
+    },
+    {
+      "name": "李剑峰",
+      "role": "副总裁、研发中心副主任、首席技术官",
+      "quote": "现任公司副总裁、研发中心主任、首席技术官"
+    },
+    {
+      "name": "张旭",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张旭"
+    },
+    {
+      "name": "高京",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人 高京"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "湖南赛隆药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品生产、研发、销售",
+      "quote": "湖南赛隆 指 湖南赛隆药业有限公司，本公司全资子公司"
+    },
+    {
+      "name": "湖南赛隆药业（长沙）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品生产、研发、销售",
+      "quote": "长沙赛隆、长沙新厂 指 湖南赛隆药业（长沙）有限公司，本公司全资子公司"
+    },
+    {
+      "name": "湖南赛隆生物制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "生物制药 指 湖南赛隆生物制药有限公司，本公司全资子公司"
+    },
+    {
+      "name": "华容湘楚生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "华容湘楚 指 华容湘楚生物科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "珠海横琴赛隆悦佳信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "赛隆悦佳 指 珠海横琴赛隆悦佳信息科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "湖南赛博达化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "湖南赛博达 指 湖南赛博达化工有限公司，本公司全资子公司"
+    },
+    {
+      "name": "新疆赛隆信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新疆赛隆 指 新疆赛隆信息科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "珠海赛隆国际投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "项目公司、赛隆国际 指 珠海赛隆国际投资有限公司"
+    },
+    {
+      "name": "上海觅烯医药科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "上海觅烯 指 上海觅烯医药科技发展有限公司，本公司全资子公司"
+    },
+    {
+      "name": "深圳市赛隆易联科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "赛隆易联 指 深圳市赛隆易联科技有限公司，本公司控股子公司"
+    },
+    {
+      "name": "珠海市横琴赛隆严选生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "赛隆严选 指 珠海市横琴赛隆严选生物科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "长沙赛隆神经节苷脂科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "节苷脂公司 指 长沙赛隆神经节苷脂科技有限公司,本公司全资子公司"
+    },
+    {
+      "name": "北京红山信息科技研究院有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户第一名",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 北京红山信息科技研究院有限公司 177,654,867.26 34.25%"
+    },
+    {
+      "name": "新疆克融云算数字科技有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户第二名",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 新疆克融云算数字科技有限公司 57,775,241.55 11.14%"
+    },
+    {
+      "name": "四川脑动极光医疗科技有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户第三名",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 四川脑动极光医疗科技有限公司 47,345,132.52 9.13%"
+    },
+    {
+      "name": "杭州顺铖科技有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户第四名",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 杭州顺铖科技有限公司 18,690,265.49 3.60%"
+    },
+    {
+      "name": "深圳易信科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户第五名",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 深圳易信科技股份有限公司 18,269,573.55 3.52%"
+    },
+    {
+      "name": "深圳市远新鸿科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商第一名",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 深圳市远新鸿科技有限公司 105,021,238.94 27.86%"
+    },
+    {
+      "name": "比特智算人工智能科技（深圳）有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商第二名",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 比特智算人工智能科技（深圳）有限公司 82,574,513.28 21.90%"
+    },
+    {
+      "name": "畅快算信息产业（北京）有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商第三名",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 畅快算信息产业（北京）有限公司 40,601,769.93 10.77%"
+    },
+    {
+      "name": "山西普德药业有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商第四名",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 山西普德药业有限公司 13,890,945.15 3.68%"
+    },
+    {
+      "name": "山西玩家时代电子科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商第五名",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 山西玩家时代电子科技有限公司 8,141,592.92 2.16%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药行业",
+      "segment_type": "industry",
+      "revenue_amount": "157,581,561.53",
+      "revenue_proportion": "30.38%",
+      "gross_margin": "23.25%",
+      "yoy_change": "-39.64%",
+      "quote": "分行业 医药行业 157,581,561.53 30.38% ... 毛利率 23.25%"
+    },
+    {
+      "name": "电子行业",
+      "segment_type": "industry",
+      "revenue_amount": "359,252,159.05",
+      "revenue_proportion": "69.25%",
+      "gross_margin": "10.92%",
+      "yoy_change": null,
+      "quote": "分行业 电子行业 359,252,159.05 69.25% ... 毛利率 10.92%"
+    },
+    {
+      "name": "AI服务器",
+      "segment_type": "product_line",
+      "revenue_amount": "357,982,654.68",
+      "revenue_proportion": "69.01%",
+      "gross_margin": "10.61%",
+      "yoy_change": null,
+      "quote": "分产品 AI服务器 357,982,654.68 69.01% ... 毛利率 10.61%"
+    },
+    {
+      "name": "药品销售",
+      "segment_type": "product_line",
+      "revenue_amount": "142,825,000.88",
+      "revenue_proportion": "27.53%",
+      "gross_margin": null,
+      "yoy_change": "-37.27%",
+      "quote": "分产品 药品销售 142,825,000.88 27.53%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "159,511,111.77",
+      "revenue_proportion": "30.75%",
+      "gross_margin": "21.51%",
+      "yoy_change": "-39.48%",
+      "quote": "分销售模式 经销 159,511,111.77 30.75% ... 毛利率 21.51%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "359,252,159.05",
+      "revenue_proportion": "69.25%",
+      "gross_margin": "10.92%",
+      "yoy_change": null,
+      "quote": "分销售模式 直销 359,252,159.05 69.25% ... 毛利率 10.92%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "原料药",
+      "metric_type": "sales_volume",
+      "value": "9,332.83 公斤",
+      "period": "2025年",
+      "quote": "销售量 公斤 9,332.83"
+    },
+    {
+      "product": "原料药",
+      "metric_type": "production_volume",
+      "value": "15,334.31 公斤",
+      "period": "2025年",
+      "quote": "生产量 公斤 15,334.31"
+    },
+    {
+      "product": "原料药",
+      "metric_type": "inventory_volume",
+      "value": "9,827.66 公斤",
+      "period": "2025年",
+      "quote": "库存量 公斤 9,827.66"
+    },
+    {
+      "product": "注射剂",
+      "metric_type": "sales_volume",
+      "value": "68,768,150.00 支",
+      "period": "2025年",
+      "quote": "销售量 支 68,768,150.00"
+    },
+    {
+      "product": "注射剂",
+      "metric_type": "production_volume",
+      "value": "69,411,488.00 支",
+      "period": "2025年",
+      "quote": "生产量 支 69,411,488.00"
+    },
+    {
+      "product": "注射剂",
+      "metric_type": "inventory_volume",
+      "value": "6,223,066.00 支",
+      "period": "2025年",
+      "quote": "库存量 支 6,223,066.00"
+    },
+    {
+      "product": "服务器",
+      "metric_type": "sales_volume",
+      "value": "1,510.00 台",
+      "period": "2025年",
+      "quote": "销售量 台 1,510.00"
+    },
+    {
+      "product": "服务器",
+      "metric_type": "production_volume",
+      "value": "1,510.00 台",
+      "period": "2025年",
+      "quote": "生产量 台 1,510.00"
+    },
+    {
+      "product": "服务器",
+      "metric_type": "inventory_volume",
+      "value": "0 台",
+      "period": "2025年",
+      "quote": "库存量 台 0"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "长沙赛隆神经节苷脂科技有限公司（新设）",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "新设子公司 公司名称 设立时间 长沙赛隆神经节苷脂科技有限公司 2025年11月27日"
+    },
+    {
+      "name": "上海觅烯医药科技发展有限公司（新设）",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "新设子公司 公司名称 设立时间 上海觅烯医药科技发展有限公司 2025年07月23日"
+    },
+    {
+      "name": "新疆赛隆信息科技有限公司（新设）",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "新设子公司 公司名称 设立时间 新疆赛隆信息科技有限公司 2025年05月23日"
+    },
+    {
+      "name": "深圳市赛隆易联科技有限公司（新设）",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "新设子公司 公司名称 设立时间 深圳市赛隆易联科技有限公司 2025年08月08日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "GMP认证",
+      "asset_type": "certification",
+      "related_product": "药品（制剂/原料药）",
+      "quantitative_info": null,
+      "quote": "严格按照国家GMP要求建立药品生产制造中心"
+    },
+    {
+      "name": "仿制药一致性评价",
+      "asset_type": "certification",
+      "related_product": "药品（制剂/原料药）",
+      "quantitative_info": "18个品种通过",
+      "quote": "截至报告期末，公司主要生产、销售及拥有生产批文的制剂品种【24】个，其中【18】品种通过仿制药一致性评价"
+    },
+    {
+      "name": "原料药上市申请批准通知书",
+      "asset_type": "other",
+      "related_product": "原料药",
+      "quantitative_info": "25种原料药获批",
+      "quote": "截至本公告日，公司已获得替加环素、普瑞巴林、富马酸丙酚替诺福韦、赖氨匹林、福沙匹坦双葡甲胺等25种原料药上市申请批准通知书"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "319,735,080.37元，占年度销售总额比例61.64%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 319,735,080.37 前五名客户合计销售金额占年度销售总额比例 61.64%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "328,319,970.42元，占年度采购总额比例58.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 328,319,970.42 前五名供应商合计采购金额占年度采购总额比例 58.20%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五大客户合计销售金额占比61.64%，且第一大客户北京红山信息科技研究院有限公司收入占比34.25%，客户集中度较高。",
+      "related_entity": "北京红山信息科技研究院有限公司",
+      "related_product": "AI服务器",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 61.64%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司前五大供应商合计采购金额占比58.20%，且第一大供应商深圳市远新鸿科技有限公司采购额占比27.86%，供应商集中度较高。",
+      "related_entity": "深圳市远新鸿科技有限公司",
+      "related_product": "AI服务器",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 58.20%"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "AI服务器行业技术迭代速度快，公司需持续投入研发以保持技术竞争力。",
+      "related_entity": null,
+      "related_product": "AI服务器",
+      "quote": "AI服务器作为支撑人工智能产业发展的核心算力基础设施，近年来受到国家政策的高度重视与大力扶持。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "医药行业面临产品降价风险，尤其是国家药品集采政策持续推进；AI服务器行业竞争激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）产品降价风险 药品获批上市后，除了应对市场竞争，还受到医保、招标，尤其是带量采购等行业政策多方面因素影响，随着国家药品集采的持续进行，医药企业面临药品降价的压力。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "医药行业受国家医保目录、带量采购、研发指导原则、行业反腐等政策影响较大。",
+      "related_entity": null,
+      "related_product": "药品（制剂/原料药）",
+      "quote": "（1）行业政策变化风险 医药行业关系着国计民生，受政策影响较大，比如医保目录的执行与动态调整、带量采购政策持续落地、新的研发指导原则推出、医药行业反腐集中整治等均对医药行业未来发展带来了深远的影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "药品和AI服务器产品质量问题均可能对公司声誉和经营造成重大风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（6）质量风险 医药生产流程长、工艺复杂，对生产设备、环境以及人员的技术要求都比较高，公司严控生产过程，建立了较为完善的质量管理体系，但产品从生产到销售环节较多，若产品质量出现问题，将对公司带来极大风险。 （9）产品质量与交付风险 AI 服务器产品需满足7x24小时不间断运行的苛刻要求，任何硬件故障或系统缺陷都可能对客户的关键业务造成重大损失，进而引发客户索赔并严重损害公司声誉。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司存在短期借款、长期借款等债务，需关注偿债能力和流动性风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "短期借款 84,932,291.67 ... 长期借款 8,000,000.00"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司存在股权质押风险。控股股东、实际控制人同时担任上市公司董事长和总经理的情况。",
+      "related_entity": "蔡南桂",
+      "related_product": null,
+      "quote": "公司控股股东或第一大股东及其一致行动人累计质押股份数量占其所持公司股份数量比例达到80%"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司2025年度AI服务器业务收入确认存在重大疑虑，被审计机构出具无法表示意见的审计报告，可能导致公司股票被终止上市。",
+      "related_entity": "新疆克融云算数字科技有限公司",
+      "related_product": "AI服务器",
+      "quote": "2025年度，赛隆药业用总额法确认了AI服务器加工业务收入35,798.27万元。赛隆药业2025年度服务器业务主要的终端客户新疆克融云算数字科技有限公司，赛隆药业对该终端客户确认的加工业务收入金额为29,809.73万元，经现场核查，我们发现存在以下情况... 我们无法确定上述事项对财务报表的潜在影响..."
+    }
+  ]
+}

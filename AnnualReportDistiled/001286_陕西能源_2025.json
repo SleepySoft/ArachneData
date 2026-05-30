@@ -1,0 +1,618 @@
+{
+  "company_name_mentioned": "陕西能源投资股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "71.38%",
+      "quote": "电力业务 16,386,469,463.93 71.38%"
+    },
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": "25.87%",
+      "quote": "煤炭业务 5,939,116,695.25 25.87%"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "2.23%",
+      "quote": "热力业务 512,876,810.66 2.23%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "能源建设服务",
+      "target_product": null,
+      "cost_proportion": "10.50%",
+      "quote": "中国能源建设集团有限公司 1,928,757,346.78 10.50%"
+    },
+    {
+      "name": "电力相关设备及服务",
+      "target_product": null,
+      "cost_proportion": "8.76%",
+      "quote": "国家电力投资集团有限公司 1,609,270,749.52 8.76%"
+    },
+    {
+      "name": "煤炭",
+      "target_product": null,
+      "cost_proportion": "5.40%",
+      "quote": "陕西煤业化工集团有限责任公司 991,990,954.40 5.40%"
+    },
+    {
+      "name": "发电设备",
+      "target_product": null,
+      "cost_proportion": "4.78%",
+      "quote": "东方电气股份有限公司 877,430,372.18 4.78%"
+    },
+    {
+      "name": "煤炭",
+      "target_product": null,
+      "cost_proportion": "2.84%",
+      "quote": "中国中煤能源集团有限公司 521,109,529.15 2.84%"
+    }
+  ],
+  "applications": [],
+  "key_personnel": [
+    {
+      "name": "王栋",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人王栋"
+    },
+    {
+      "name": "王琛",
+      "role": "副董事长、总经理",
+      "quote": "王琛 男 39 董事 现任 2025年03月26日 2028年09月04日"
+    },
+    {
+      "name": "徐子睿",
+      "role": "副总经理、董事会秘书",
+      "quote": "徐子睿 男 56 现任 2019年05月28日 2028年09月04日"
+    },
+    {
+      "name": "张奇功",
+      "role": "副总经理",
+      "quote": "张奇功 男 52 副总经理 现任 2019年05月28日 2028年09月04日"
+    },
+    {
+      "name": "杨佳强",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人杨佳强"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "国家电网有限公司 16,169,242,634.12 70.43%"
+    },
+    {
+      "name": "陕西延长石油（集团）有限责任公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "陕西延长石油（集团）有限责任公司 564,881,209.33 2.46%"
+    },
+    {
+      "name": "陕西腾龙煤电集团有限责任公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "陕西腾龙煤电集团有限责任公司 325,723,979.60 1.42%"
+    },
+    {
+      "name": "西安市热力集团有限责任公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "西安市热力集团有限责任公司 279,217,464.32 1.22%"
+    },
+    {
+      "name": "神木市金元伏化工有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "神木市金元伏化工有限公司 267,398,781.47 1.16%"
+    },
+    {
+      "name": "中国能源建设集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "中国能源建设集团有限公司 1,928,757,346.78 10.50%"
+    },
+    {
+      "name": "国家电力投资集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "国家电力投资集团有限公司 1,609,270,749.52 8.76%"
+    },
+    {
+      "name": "陕西煤业化工集团有限责任公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "陕西煤业化工集团有限责任公司 991,990,954.40 5.40%"
+    },
+    {
+      "name": "东方电气股份有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "东方电气股份有限公司 877,430,372.18 4.78%"
+    },
+    {
+      "name": "中国中煤能源集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "中国中煤能源集团有限公司 521,109,529.15 2.84%"
+    },
+    {
+      "name": "新疆皖能江布发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "皖能江布发电 指 新疆皖能江布发电有限公司"
+    },
+    {
+      "name": "陕西投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "陕投集团 指 陕西投资集团有限公司"
+    },
+    {
+      "name": "陕西投资集团财务有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "财务公司 指 陕西投资集团财务有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力业务",
+      "segment_type": "product_line",
+      "revenue_amount": "16,386,469,463.93",
+      "revenue_proportion": "71.38%",
+      "gross_margin": "31.10%",
+      "yoy_change": "-7.25%",
+      "quote": "电力业务 16,386,469,463.93 71.38%"
+    },
+    {
+      "name": "煤炭业务",
+      "segment_type": "product_line",
+      "revenue_amount": "5,939,116,695.25",
+      "revenue_proportion": "25.87%",
+      "gross_margin": "57.10%",
+      "yoy_change": "22.63%",
+      "quote": "煤炭业务 5,939,116,695.25 25.87%"
+    },
+    {
+      "name": "热力业务",
+      "segment_type": "product_line",
+      "revenue_amount": "512,876,810.66",
+      "revenue_proportion": "2.23%",
+      "gross_margin": null,
+      "yoy_change": "4.23%",
+      "quote": "热力业务 512,876,810.66 2.23%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "119,542,722.97",
+      "revenue_proportion": "0.52%",
+      "gross_margin": null,
+      "yoy_change": "-22.24%",
+      "quote": "其他业务 119,542,722.97 0.52%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "3,349,082,725.26",
+      "revenue_proportion": "14.59%",
+      "gross_margin": null,
+      "yoy_change": "-0.05%",
+      "quote": "华北地区 3,349,082,725.26 14.59%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "2,034,128,458.50",
+      "revenue_proportion": "8.86%",
+      "gross_margin": null,
+      "yoy_change": "-0.07%",
+      "quote": "华东地区 2,034,128,458.50 8.86%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "13,776,153,858.65",
+      "revenue_proportion": "60.01%",
+      "gross_margin": null,
+      "yoy_change": "-8.62%",
+      "quote": "西北地区 13,776,153,858.65 60.01%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "3,598,179,206.99",
+      "revenue_proportion": "15.67%",
+      "gross_margin": null,
+      "yoy_change": "39.13%",
+      "quote": "华中地区 3,598,179,206.99 15.67%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "煤电",
+      "metric_type": "capacity",
+      "value": "1725万千瓦",
+      "period": "截至2025年12月末",
+      "quote": "公司煤电装机总规模为1725万千瓦"
+    },
+    {
+      "product": "煤电",
+      "metric_type": "capacity",
+      "value": "1123万千瓦",
+      "period": "截至2025年12月末",
+      "quote": "在役装机1123万千瓦"
+    },
+    {
+      "product": "煤电",
+      "metric_type": "capacity",
+      "value": "402万千瓦",
+      "period": "截至2025年12月末",
+      "quote": "在建装机402万千瓦"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "capacity",
+      "value": "3000万吨/年",
+      "period": "截至2025年12月末",
+      "quote": "公司核准煤炭产能共计3000万吨/年"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "capacity",
+      "value": "2400万吨/年",
+      "period": "截至2025年12月末",
+      "quote": "已投产产能2400万吨/年"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "capacity",
+      "value": "600万吨/年",
+      "period": "截至2025年12月末",
+      "quote": "在建产能600万吨/年"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "506.66亿千瓦时",
+      "period": "2025年",
+      "quote": "2025年，公司发电量506.66亿千瓦时"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "production_volume",
+      "value": "2254.74万吨",
+      "period": "2025年",
+      "quote": "公司煤炭产量2254.74万吨"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "sales_volume",
+      "value": "1344.61万吨",
+      "period": "2025年",
+      "quote": "自产煤外销量1344.61万吨"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "474.02亿千瓦时",
+      "period": "2025年",
+      "quote": "上网电量或售电量（亿千瓦时） 474.02"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity_utilization",
+      "value": "4512小时",
+      "period": "2025年",
+      "quote": "发电厂利用小时数（小时） 4512"
+    },
+    {
+      "product": "电力",
+      "metric_type": "other",
+      "value": "5.10%",
+      "period": "2025年",
+      "quote": "发电厂平均用电率（%） 5.10"
+    },
+    {
+      "product": "电力",
+      "metric_type": "other",
+      "value": "0.34元/千瓦时",
+      "period": "2025年",
+      "quote": "平均上网电价或售电价（元/千瓦时，不含税） 0.34"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "inventory_volume",
+      "value": "13.99万吨",
+      "period": "2025年",
+      "quote": "库存量 万吨 13.99"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "商洛电厂二期（2×660MW）项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2×660MW",
+      "progress": null,
+      "expected_completion_time": "2026年12月31日",
+      "quote": "在建装机402万千瓦，包括商洛电厂二期（2×660MW）项目"
+    },
+    {
+      "name": "延安热电二期（2×350MW）项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2×350MW",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "在建装机402万千瓦，包括...延安热电二期（2×350MW）项目"
+    },
+    {
+      "name": "信丰电厂（2×1000MW）项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2×1000MW",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "在建装机402万千瓦，包括...信丰电厂（2×1000MW）项目"
+    },
+    {
+      "name": "赵石畔煤电二期（2×1000MW）项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2×1000MW",
+      "progress": "筹建",
+      "expected_completion_time": null,
+      "quote": "筹建赵石畔煤电二期（2×1000MW）项目"
+    },
+    {
+      "name": "赵石畔矿井",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "600万吨/年",
+      "progress": "2025年8月进入联合试运转",
+      "expected_completion_time": null,
+      "quote": "在建产能600万吨/年（赵石畔矿井已于2025年8月进入联合试运转）"
+    },
+    {
+      "name": "丈八煤矿",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "69.97亿元（项目总投资）",
+      "designed_capacity": "规划产能400万吨/年",
+      "progress": "正在积极推进办理项目前期手续",
+      "expected_completion_time": null,
+      "quote": "公司持有丈八煤矿（规划产能400万吨/年...）矿业权，正在积极推进办理项目前期手续。"
+    },
+    {
+      "name": "钱阳山煤矿",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "规划产能600万吨/年",
+      "progress": "正在积极推进办理项目前期手续",
+      "expected_completion_time": null,
+      "quote": "公司持有...钱阳山煤矿（规划产能600万吨/年...）矿业权，正在积极推进办理项目前期手续。"
+    },
+    {
+      "name": "信丰能源2×1000MW机组扩建工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "3,754,505,048.67",
+      "designed_capacity": "2×1000MW",
+      "progress": "47.40%",
+      "expected_completion_time": null,
+      "quote": "信丰能源 2×1000MW 机组扩建工程"
+    },
+    {
+      "name": "商洛电厂二期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "3,273,831,261.76",
+      "designed_capacity": "2×660MW",
+      "progress": "59.43%",
+      "expected_completion_time": null,
+      "quote": "商洛电厂 二期项目"
+    },
+    {
+      "name": "陕投延安2×350MW热电联产工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,838,388,942.15",
+      "designed_capacity": "2×350MW",
+      "progress": "52.54%",
+      "expected_completion_time": null,
+      "quote": "陕投延安 2×350MW 热电联产工程"
+    },
+    {
+      "name": "赵石畔煤矿项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "8,637,959,568.70",
+      "designed_capacity": "600万吨/年",
+      "progress": "91.88%",
+      "expected_completion_time": null,
+      "quote": "赵石畔煤 矿项目"
+    },
+    {
+      "name": "钱阳山煤矿项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "299,112,430.27",
+      "designed_capacity": null,
+      "progress": "3.06%",
+      "expected_completion_time": null,
+      "quote": "钱阳山煤 矿项目"
+    },
+    {
+      "name": "麟北煤业丈八矿井项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "256,043,241.37",
+      "designed_capacity": null,
+      "progress": "3.66%",
+      "expected_completion_time": null,
+      "quote": "麟北煤业 丈八矿井 项目"
+    },
+    {
+      "name": "陕投赵石畔电厂二期 2×1000MW 机组项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "87,079,669.58",
+      "designed_capacity": "2×1000MW",
+      "progress": "1.11%",
+      "expected_completion_time": null,
+      "quote": "陕投赵石 峡电厂二期 2×1000MW 机组项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超（超）临界机组技术",
+      "asset_type": "process_technology",
+      "related_product": "火力发电",
+      "quantitative_info": "已核准装机中超（超）临界机组占89.04%",
+      "quote": "已核准装机中超（超）临界机组占89.04%"
+    },
+    {
+      "name": "智慧电厂、智能矿山（三智工程）",
+      "asset_type": "technical_platform",
+      "related_product": "火力发电、煤炭开采",
+      "quantitative_info": null,
+      "quote": "公司推进“三智工程”（智慧电厂、智能矿山、智识办公），电厂推广5G巡检、无人机智慧巡检、AI识别系统等技术，煤矿建设智能化系统"
+    },
+    {
+      "name": "赵石畔煤电#2机1000MW级超超临界空冷机组",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "连续四年获“5A级优胜机组”",
+      "quote": "赵石畔煤电#2机连续四年获1000MW级超超临界空冷机组“5A级优胜机组”"
+    },
+    {
+      "name": "商洛发电#1机600MW级超超临界空冷机组",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "获“5A级优胜机组”",
+      "quote": "商洛发电#1机获600MW级超超临界空冷机组“5A级优胜机组”"
+    },
+    {
+      "name": "陕能新疆#1机600MW级超超临界空冷机组",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "获“3A级优胜机组”“厂用电率最优机组”",
+      "quote": "陕能新疆#1机获600MW级超超临界空冷机组“3A级优胜机组”“厂用电率最优机组”"
+    },
+    {
+      "name": "麟北发电#2机350MW超临界空冷供热机组",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "获“5A级优胜机组”",
+      "quote": "麟北发电#2机获“5A级优胜机组”"
+    },
+    {
+      "name": "赵石畔煤电#2机1000MW级煤粉炉机组",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "可靠性第1名",
+      "quote": "赵石畔煤电#2机获1000MW级煤粉炉机组可靠性第1名"
+    },
+    {
+      "name": "协同调度的智能换电站系统",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "协同调度的智能换电站系统研发与应用"
+    },
+    {
+      "name": "充换电智慧管控平台",
+      "asset_type": "software",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "充换电智慧管控平台项目"
+    },
+    {
+      "name": "煤矸石分级分质全组分利用关键技术",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "煤矸石分级分质全组分利用关键技术研究与示范"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "76.69%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 76.69%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "70.43%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "国家电网有限公司 16,169,242,634.12 70.43%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "32.27%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 32.27%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "全国电力装机规模增速大于社会用电量增速，新能源装机与发电量大幅提升，火电进一步向支撑性、调节性电源转变，受行业形势变化影响，电力板块上网电量、上网电价同步走低。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "全国电力装机规模增速大于社会用电量增速，新能源装机与发电量大幅提升，火电进一步向支撑性、调节性电源转变，受行业形势变化影响，电力板块上网电量、上网电价同步走低。"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全生产风险。公司主营业务为火力发电、煤炭生产和销售，煤炭开采属于高危行业，同时拥有众多发电机组和在建工程项目。上述业务在日常生产经营中，存在意外事故、设备故障、自然灾害等造成的人员伤亡或设备损坏的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主营业务为火力发电、煤炭生产和销售，煤炭开采属于高危行业，同时拥有众多发电机组和在建工程项目。上述业务在日常生产经营中，存在意外事故、设备故障、自然灾害等造成的人员伤亡或设备损坏的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "能源结构转型风险。2025年我国风电光伏发电装机首次超过火电，西北电网新能源装机规模更是突破4亿千瓦、占区域总电源装机的60%，新能源装机实现高速增长，但电力消费需求增速相对放缓，供需结构失衡下，煤电功能定位从传统基荷电源向电力系统“压舱石”转变，其发电利用小时数因此面临较大冲击。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年我国风电光伏发电装机首次超过火电，西北电网新能源装机规模更是突破4亿千瓦、占区域总电源装机的60%，新能源装机实现高速增长，但电力消费需求增速相对放缓，供需结构失衡下，煤电功能定位从传统基荷电源向电力系统“压舱石”转变，其发电利用小时数因此面临较大冲击。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "煤炭价格波动的风险。煤炭市场的价格受多种因素的影响，这些因素包括但不限于：全球及中国的经济发展，石油、天然气等能源的竞争，电力、钢铁、化工、建材等煤炭主要下游行业的变化，以及煤炭产能增减、进出口变化等。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "煤炭市场的价格受多种因素的影响，这些因素包括但不限于：全球及中国的经济发展，石油、天然气等能源的竞争，电力、钢铁、化工、建材等煤炭主要下游行业的变化，以及煤炭产能增减、进出口变化等。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "电力市场竞争及电价市场化形成机制的风险。2026年，我公司参与省内现货交易的机组装机容量预计将增至788万千瓦。陕西省电力现货市场于7月1日正式运行，随着市场参与主体日趋多元、交易电量稳步攀升，电力交易市场竞争将加剧，使公司未来在现货市场中的电价水平和电量消纳面临较大不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2026年，我公司参与省内现货交易的机组装机容量预计将增至788万千瓦。陕西省电力现货市场于7月1日正式运行，随着市场参与主体日趋多元、交易电量稳步攀升，电力交易市场竞争将加剧，使公司未来在现货市场中的电价水平和电量消纳面临较大不确定性"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司客户集中度较高，前五大客户合计销售金额占年度销售总额比例为76.69%，其中第一大客户国家电网有限公司占比为70.43%。",
+      "related_entity": "国家电网有限公司",
+      "related_product": null,
+      "quote": "前五名客户合计销售金额（元） 17,606,464,068.84，前五名客户合计销售金额占年度销售总额比例 76.69%"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "company_name_mentioned": "深圳市英威腾电气股份有限公司",
+  "produces": [
+    {
+      "name": "工业自动化产品（变频器类）",
+      "type": "device",
+      "revenue_proportion": "53.69%（2025年）",
+      "quote": "分产品：变频器类 2,402,217,683.74 53.69%"
+    },
+    {
+      "name": "网络能源产品（数据中心类）",
+      "type": "device",
+      "revenue_proportion": "16.29%（2025年）",
+      "quote": "分产品：数据中心类 729,023,340.87 16.29%"
+    },
+    {
+      "name": "新能源动力产品（电驱及车载电源类）",
+      "type": "device",
+      "revenue_proportion": "16.91%（2025年）",
+      "quote": "分产品：电驱及车载电源类 756,491,449.01 16.91%"
+    },
+    {
+      "name": "光伏储能产品（逆变器类）",
+      "type": "device",
+      "revenue_proportion": "3.30%（2025年）",
+      "quote": "分产品：逆变器类 147,507,424.33 3.30%"
+    },
+    {
+      "name": "其他产品",
+      "type": "device",
+      "revenue_proportion": "9.81%（2025年）",
+      "quote": "分产品：其他 438,710,560.69 9.81%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（电子元器件、结构件等）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要原材料为电子元器件、结构件等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业自动化应用行业",
+      "source_product": "工业自动化产品",
+      "quote": "广泛应用于石油炼化、化工、煤矿煤机、海工船舶、冶金、机床、半导体设备、物流仓储等行业"
+    },
+    {
+      "name": "网络能源应用领域",
+      "source_product": "网络能源产品",
+      "quote": "广泛应用于AI、云计算、智能驾驶、金融、通信、电力、教育、医疗、能源、物联网、先进制造、供应链管理、交通、气象及体育赛事等多个领域"
+    },
+    {
+      "name": "新能源商用车",
+      "source_product": "新能源动力产品",
+      "quote": "报告期以商用车领域为主，包括微面、微卡、轻卡、重卡及工程机械等全系列商用车车型。"
+    },
+    {
+      "name": "分布式智慧能源场景",
+      "source_product": "光伏储能产品",
+      "quote": "应用场景包括但不限于村级光伏电站、户用并网光伏系统、户用光储充一体化、户用离网光伏系统、商用光储充系统、商用屋顶光伏系统、光储充停车棚、渔光互补光伏系统等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄申力",
+      "role": "董事长、法定代表人、实际控制人",
+      "quote": "公司负责人黄申力、主管会计工作负责人田华臣及会计机构负责人（会计主管人员）周芳声明...；公司的法定代表人 黄申力；控股股东姓名 黄申力"
+    },
+    {
+      "name": "田华臣",
+      "role": "董事、总裁、财务负责人",
+      "quote": "主管会计工作负责人田华臣；姓名 田华臣 职务 董事、总裁、财务负责人"
+    },
+    {
+      "name": "杨林",
+      "role": "董事、副总裁",
+      "quote": "姓名 杨林 职务 董事、副总裁"
+    },
+    {
+      "name": "徐铁柱",
+      "role": "副总裁",
+      "quote": "姓名 徐铁柱 职务 副总裁"
+    },
+    {
+      "name": "左桃林",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 左桃林"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京德皓国际会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计服务",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 北京德皓国际会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业自动化",
+      "segment_type": "business_unit",
+      "revenue_amount": "281,114,340.79",
+      "revenue_proportion": "62.83%",
+      "gross_margin": "36.44%",
+      "yoy_change": "5.15%",
+      "quote": "工业自动化 2,811,143,400.79 62.83% ... 36.44% ... 5.15%"
+    },
+    {
+      "name": "网络能源",
+      "segment_type": "business_unit",
+      "revenue_amount": "72,910,455.04",
+      "revenue_proportion": "16.30%",
+      "gross_margin": "28.81%",
+      "yoy_change": "-7.90%",
+      "quote": "网络能源 729,104,555.04 16.30% ... 28.81% ... -7.90%"
+    },
+    {
+      "name": "新能源动力",
+      "segment_type": "business_unit",
+      "revenue_amount": "76,415,899.60",
+      "revenue_proportion": "17.08%",
+      "gross_margin": "18.48%",
+      "yoy_change": "30.71%",
+      "quote": "新能源动力 764,158,999.60 17.08% ... 18.48% ... 30.71%"
+    },
+    {
+      "name": "光伏储能",
+      "segment_type": "business_unit",
+      "revenue_amount": "16,954,350.32",
+      "revenue_proportion": "3.79%",
+      "gross_margin": "17.13%",
+      "yoy_change": "-23.57%",
+      "quote": "光伏储能 169,543,503.21 3.79% ... 17.13% ... -23.57%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "308,241,155.02",
+      "revenue_proportion": "68.90%",
+      "gross_margin": "28.52%",
+      "yoy_change": "2.96%",
+      "quote": "国内 3,082,411,554.02 68.90% ... 28.52% ... 2.96%"
+    },
+    {
+      "name": "海外销售",
+      "segment_type": "region",
+      "revenue_amount": "139,153,890.46",
+      "revenue_proportion": "31.10%",
+      "gross_margin": "37.77%",
+      "yoy_change": "4.79%",
+      "quote": "海外 1,391,538,904.62 31.10% ... 37.77% ... 4.79%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "225,175,466.75",
+      "revenue_proportion": "50.33%",
+      "gross_margin": "27.72%",
+      "yoy_change": "24.20%",
+      "quote": "直销 2,251,754,663.75 50.33% ... 27.72% ... 24.20%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "222,219,579.89",
+      "revenue_proportion": "49.67%",
+      "gross_margin": "35.12%",
+      "yoy_change": "-11.42%",
+      "quote": "经销 2,222,195,794.89 49.67% ... 35.12% ... -11.42%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工业自动化",
+      "metric_type": "sales_volume",
+      "value": "2,054,302台/套",
+      "period": "2025年",
+      "quote": "工业自动化：销售量 台/套 2,054,302"
+    },
+    {
+      "product": "工业自动化",
+      "metric_type": "production_volume",
+      "value": "2,058,235台/套",
+      "period": "2025年",
+      "quote": "工业自动化：生产量 台/套 2,058,235"
+    },
+    {
+      "product": "工业自动化",
+      "metric_type": "inventory_volume",
+      "value": "86,858台/套",
+      "period": "2025年末",
+      "quote": "工业自动化：库存量 台/套 86,858"
+    },
+    {
+      "product": "网络能源",
+      "metric_type": "sales_volume",
+      "value": "95,785台/套",
+      "period": "2025年",
+      "quote": "网络能源：销售量 台/套 95,785"
+    },
+    {
+      "product": "网络能源",
+      "metric_type": "production_volume",
+      "value": "97,708台/套",
+      "period": "2025年",
+      "quote": "网络能源：生产量 台/套 97,708"
+    },
+    {
+      "product": "网络能源",
+      "metric_type": "inventory_volume",
+      "value": "16,959台/套",
+      "period": "2025年末",
+      "quote": "网络能源：库存量 台/套 16,959"
+    },
+    {
+      "product": "新能源动力",
+      "metric_type": "sales_volume",
+      "value": "150,513台/套",
+      "period": "2025年",
+      "quote": "新能源动力：销售量 台/套 150,513"
+    },
+    {
+      "product": "新能源动力",
+      "metric_type": "production_volume",
+      "value": "153,292台/套",
+      "period": "2025年",
+      "quote": "新能源动力：生产量 台/套 153,292"
+    },
+    {
+      "product": "新能源动力",
+      "metric_type": "inventory_volume",
+      "value": "22,775台/套",
+      "period": "2025年末",
+      "quote": "新能源动力：库存量 台/套 22,775"
+    },
+    {
+      "product": "光伏储能",
+      "metric_type": "sales_volume",
+      "value": "35,621台/套",
+      "period": "2025年",
+      "quote": "光伏储能：销售量 台/套 35,621"
+    },
+    {
+      "product": "光伏储能",
+      "metric_type": "production_volume",
+      "value": "34,557台/套",
+      "period": "2025年",
+      "quote": "光伏储能：生产量 台/套 34,557"
+    },
+    {
+      "product": "光伏储能",
+      "metric_type": "inventory_volume",
+      "value": "5,423台/套",
+      "period": "2025年末",
+      "quote": "光伏储能：库存量 台/套 5,423"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "英威腾华南产业基地一期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "490,458,359.90元（截至报告期末累计实际投入）",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "英威腾华南产业基地一期项目... 截至报告期末累计实际投入金额 490,458,359.90... 项目进度 100.00%"
+    },
+    {
+      "name": "英威腾华南产业基地二期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "132,624,827.46元（截至报告期末累计实际投入）",
+      "designed_capacity": null,
+      "progress": "35.00%",
+      "expected_completion_time": null,
+      "quote": "英威腾华南产业基地二期项目... 截至报告期末累计实际投入金额 132,624,827.46... 项目进度 35.00%"
+    },
+    {
+      "name": "英威腾苏州产业园三期高端装备制造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "296,110,925.68元（截至报告期末累计实际投入）",
+      "designed_capacity": null,
+      "progress": "40.00%",
+      "expected_completion_time": null,
+      "quote": "英威腾苏州产业园三期高端装备制造项目... 截至报告期末累计实际投入金额 296,110,925.68... 项目进度 40.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "研发团队",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "规模达1,300人",
+      "quote": "2025年，公司研发团队规模达1,300人"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "5.11亿元，占营业收入比例高达11.42%",
+      "quote": "研发投入总额5.11亿元，占营业收入比例高达11.42%"
+    },
+    {
+      "name": "专利及软件著作权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得2,080项，其中发明专利485项",
+      "quote": "截至报告期末，累计获得专利及软件著作权2,080项，其中发明专利485项"
+    },
+    {
+      "name": "国家标准起草单位",
+      "asset_type": "standard",
+      "related_product": "低压变频器",
+      "quantitative_info": null,
+      "quote": "公司为低压变频器国家标准起草单位，还重点参与了《1kV及以下通用变频调速设备》《调速电气传动系统》《可编程序控制器》等多项国家标准的编制。"
+    },
+    {
+      "name": "ISO9001:2015和IATF16949:2016认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过ISO9001:2015和IATF16949:2016认证"
+    },
+    {
+      "name": "CNAS认可及德国TÜV、美国UL授权",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "研发实验室获CNAS认可及德国TÜV、美国UL授权"
+    },
+    {
+      "name": "UL、CE等国际权威认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "产品陆续通过UL、CE等国际权威认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "14.65%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 14.65%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.42%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 16.42%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "宏观经济复苏节奏存在不确定性，国内下游制造业投资需求可能出现波动。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受国内外整体环境影响，宏观经济复苏节奏存在不确定性，国内下游制造业投资需求可能出现波动。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "核心技术人才流失、产品开发创新不达预期。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若核心技术储备不足，或核心人才流失，导致公司无法跟上行业技术发展趋势，产品开发创新不达预期，将面临市场竞争力下降以及新质业务拓展不利的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动、供应链中断、采购成本上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动、地缘政治冲突、自然灾害等因素，可能导致供应链中断、采购成本上升，进而影响公司盈利能力与交付能力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争日趋激烈，中低端市场同质化竞争导致毛利率承压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "头部企业持续加速产品迭代，外资品牌在高端市场降价抢占份额，中低端市场同质化竞争导致毛利率承压。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动、地缘政治冲突、贸易壁垒变化对海外业务造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着公司海外业务持续拓展，汇率波动、地缘政治冲突、海外各国政策法规差异、贸易壁垒变化等因素，可能对公司海外业务拓展造成不利影响。"
+    }
+  ]
+}

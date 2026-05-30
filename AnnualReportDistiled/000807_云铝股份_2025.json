@@ -1,0 +1,565 @@
+{
+  "company_name_mentioned": "云南铝业股份有限公司",
+  "produces": [
+    {
+      "name": "氧化铝",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司从事的主要业务是铝土矿开采、氧化铝、电解铝、铝加工及铝用炭素生产和销售，主要产品有氧化铝..."
+    },
+    {
+      "name": "铝用阳极炭素",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...铝用阳极炭素..."
+    },
+    {
+      "name": "石墨化阴极",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...石墨化阴极..."
+    },
+    {
+      "name": "重熔用铝锭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...重熔用铝锭...主要用于铝产品的初级加工及深加工。"
+    },
+    {
+      "name": "重熔用精铝锭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...重熔用精铝锭...广泛用于电子工业、航空航天工业、交通领域、光学应用及化工冶金工业等领域"
+    },
+    {
+      "name": "变形铝及铝合金圆铸锭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...变形铝及铝合金圆铸锭..."
+    },
+    {
+      "name": "变形铝及铝合金扁铸锭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...变形铝及铝合金扁铸锭..."
+    },
+    {
+      "name": "铸造铝合金锭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...铸造铝合金锭..."
+    },
+    {
+      "name": "电工圆铝杆",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...电工圆铝杆..."
+    },
+    {
+      "name": "铝及铝合金焊材",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品有...铝及铝合金焊材..."
+    },
+    {
+      "name": "电解铝",
+      "type": "device",
+      "revenue_proportion": "56.80%",
+      "quote": "分产品：电解铝 34,104,891,613.80元 56.80%"
+    },
+    {
+      "name": "铝加工产品",
+      "type": "device",
+      "revenue_proportion": "42.01%",
+      "quote": "分产品：铝加工产品 25,222,786,803.53元 42.01%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "氧化铝",
+      "target_product": "电解铝",
+      "cost_proportion": null,
+      "quote": "公司还具备铝用阳极炭素产能80万吨...与索通发展合资建设的年产90万吨阳极炭素项目已达产，铝用炭素自给率进一步提升。"
+    },
+    {
+      "name": "阳极炭素",
+      "target_product": "电解铝",
+      "cost_proportion": null,
+      "quote": "铝用阳极炭素...电解铝行业重要的、不可或缺的原材料"
+    },
+    {
+      "name": "电力",
+      "target_product": "电解铝",
+      "cost_proportion": "31.87%",
+      "quote": "前五名供应商合计采购金额 40,246,766,715.36元...中国南方电网有限责任公司 15,923,535,209.64元 31.87%"
+    },
+    {
+      "name": "石油焦、金属硅等大宗原辅料",
+      "target_product": "电解铝及铝加工",
+      "cost_proportion": null,
+      "quote": "受宏观经济走势以及铝行业整体景气程度的变化影响，氧化铝、阳极炭素、石油焦、金属硅等大宗原辅料存在价格波动风险"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "铝锭、铸造铝合金、扁铸锭、圆铸锭、焊材等",
+      "quote": "汽车轻量化领域，相关材料通过降低车身重量显著提升燃油效率，满足全球汽车产业新能源转型的迫切需求，在新能源汽车电池结构件和轮毂制造中成为首选材料。"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "铝锭、铸造铝合金、扁铸锭、圆铸锭、焊材等",
+      "quote": "轨道交通方面，产品应用于高铁车厢框架和城市地铁部件，兼顾轻量化与安全承载要求，为公共交通系统高效化升级提供支撑。"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "高纯度铝材",
+      "quote": "航空航天领域，高纯度铝材应用于飞机蒙皮和航天器结构件，以低密度特性助力飞行器减重增效"
+    },
+    {
+      "name": "国防军工",
+      "source_product": "铝制品",
+      "quote": "国防军工中，材料以高强度与抗冲击性能，支撑武器装备轻量化革新。"
+    },
+    {
+      "name": "电力线缆",
+      "source_product": "电工圆铝杆和焊材",
+      "quote": "电力线缆行业，电工圆铝杆和焊材凭借优良导电性与稳定性，成为输电线路和新能源设备的关键组件，适应全球能源转型趋势。"
+    },
+    {
+      "name": "包装",
+      "source_product": "铝箔和铝合金容器",
+      "quote": "包装领域，铝箔和铝合金容器依托环保可回收优势，逐步替代传统材料，契合可持续消费潮流。"
+    },
+    {
+      "name": "家具和电子电器",
+      "source_product": "铝制产品",
+      "quote": "家具和电子电器方面，铝制产品防水、防火、抗菌等多重功能，在铝制家具、消费电子结构件等场景中，满足现代家居对安全性与耐用性的双重需求。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张得教",
+      "role": "董事长、党委书记",
+      "quote": "公司负责人张得教...现任云南铝业股份有限公司董事长、党委书记。"
+    },
+    {
+      "name": "黄力",
+      "role": "董事、总经理",
+      "quote": "现任云南铝业股份有限公司董事、总经理。"
+    },
+    {
+      "name": "马颜",
+      "role": "财务总监、董事会秘书",
+      "quote": "主管会计工作负责人马颜...现任云南铝业股份有限公司财务总监、董事会秘书。"
+    },
+    {
+      "name": "王冀奭",
+      "role": "会计机构负责人（会计主管人员）、证券事务代表",
+      "quote": "会计机构负责人（会计主管人员）王冀奭...证券事务代表 王冀奭"
+    },
+    {
+      "name": "詹勇刚",
+      "role": "副总经理",
+      "quote": "詹勇刚...现任云南铝业股份有限公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国铝业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "最终控股股东；前五大客户（销售占比32.18%）及前五大供应商（采购占比46.53%）",
+      "quote": "中国铝业集团有限公司为公司最终控股股东，与公司构成关联关系。...前五名客户合计销售金额占年度销售总额比例 42.69%...中国铝业集团有限公司 19,321,272,621.76元 32.18%...前五名供应商合计采购金额占年度采购总额比例 80.55%...中国铝业集团有限公司 23,245,816,583.47元 46.53%"
+    },
+    {
+      "name": "中国铝业股份有限公司",
+      "relation_type": "investor",
+      "business_details": "直接控股股东（持股29.10%）",
+      "quote": "2022年11月公司控股股东由云南冶金变更为中国铝业...中国铝业股份有限公司持股比例29.10%"
+    },
+    {
+      "name": "云南冶金集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "股东（持股13.00%）",
+      "quote": "云南冶金集团股份有限公司持股比例13.00%"
+    },
+    {
+      "name": "云铝文山",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事铝土矿资源开发、氧化铝生产、铝冶炼",
+      "quote": "云铝文山 指 云南文山铝业有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况：云铝文山...主要业务 铝土矿资源开发、氧化铝生产、铝冶炼"
+    },
+    {
+      "name": "云铝涌鑫",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事铝冶炼及铝加工",
+      "quote": "云铝涌鑫 指 云南云铝涌鑫铝业有限公司...主要子公司...云铝涌鑫...主要业务 铝冶炼及铝加工"
+    },
+    {
+      "name": "云铝润鑫",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事铝冶炼及铝加工",
+      "quote": "云铝润鑫 指 云南云铝润鑫铝业有限公司...主要子公司...云铝润鑫...主要业务 铝冶炼及铝加工"
+    },
+    {
+      "name": "索通发展",
+      "relation_type": "supplier",
+      "business_details": "合资建设阳极炭素项目",
+      "quote": "公司还具备铝用阳极炭素产能80万吨...与索通发展合资建设的年产90万吨阳极炭素项目已达产"
+    },
+    {
+      "name": "长沙戴湘汽配科技有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一（销售占比2.94%）",
+      "quote": "公司前5大客户资料：2 长沙戴湘汽配科技有限公司 1,762,973,036.64元 2.94%"
+    },
+    {
+      "name": "中国南方电网有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一（采购占比31.87%）",
+      "quote": "公司前5名供应商资料：2 中国南方电网有限责任公司 15,923,535,209.64元 31.87%"
+    },
+    {
+      "name": "安永华明会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所：安永华明会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "有色金属冶炼行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "34,104,891,613.80元",
+      "revenue_proportion": "56.80%",
+      "gross_margin": "18.16%",
+      "yoy_change": "10.11%",
+      "quote": "分行业：有色金属冶炼行业 34,104,891,613.80元 56.80%...营业收入比上年增减 10.11%...毛利率 18.16%"
+    },
+    {
+      "name": "铝材加工行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "25,222,786,803.53元",
+      "revenue_proportion": "42.01%",
+      "gross_margin": "15.24%",
+      "yoy_change": "10.42%",
+      "quote": "分行业：铝材加工行业 25,222,786,803.53元 42.01%...营业收入比上年增减 10.42%...毛利率 15.24%"
+    },
+    {
+      "name": "电解铝",
+      "segment_type": "product_line",
+      "revenue_amount": "34,104,891,613.80元",
+      "revenue_proportion": "56.80%",
+      "gross_margin": "18.16%",
+      "yoy_change": "10.11%",
+      "quote": "分产品：电解铝 34,104,891,613.80元 56.80%...营业收入比上年增减 10.11%...毛利率 18.16%"
+    },
+    {
+      "name": "铝加工产品",
+      "segment_type": "product_line",
+      "revenue_amount": "25,222,786,803.53元",
+      "revenue_proportion": "42.01%",
+      "gross_margin": "15.24%",
+      "yoy_change": "10.42%",
+      "quote": "分产品：铝加工产品 25,222,786,803.53元 42.01%...营业收入比上年增减 10.42%...毛利率 15.24%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "60,040,657,032.74元",
+      "revenue_proportion": "99.9962%",
+      "gross_margin": "16.79%",
+      "yoy_change": "10.27%",
+      "quote": "分地区：国内 60,040,657,032.74元 99.9962%...营业收入比上年增减 10.27%...毛利率 16.79%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "2,278,726.19元",
+      "revenue_proportion": "0.0038%",
+      "gross_margin": "21.47%",
+      "yoy_change": "100%",
+      "quote": "分地区：国外 2,278,726.19元 0.0038%...营业收入比上年增减 100%...毛利率 21.47%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "氧化铝",
+      "metric_type": "capacity",
+      "value": "140万吨",
+      "period": "报告期",
+      "quote": "已构建起完整的绿色铝产业链，形成年产氧化铝140万吨"
+    },
+    {
+      "product": "电解铝",
+      "metric_type": "capacity",
+      "value": "308万吨",
+      "period": "报告期",
+      "quote": "电解铝308万吨"
+    },
+    {
+      "product": "阳极炭素",
+      "metric_type": "capacity",
+      "value": "80万吨",
+      "period": "报告期",
+      "quote": "阳极炭素80万吨"
+    },
+    {
+      "product": "石墨化阴极",
+      "metric_type": "capacity",
+      "value": "2万吨",
+      "period": "报告期",
+      "quote": "石墨化阴极2万吨"
+    },
+    {
+      "product": "绿色铝合金",
+      "metric_type": "capacity",
+      "value": "161万吨",
+      "period": "报告期",
+      "quote": "绿色铝合金161万吨"
+    },
+    {
+      "product": "铝商品",
+      "metric_type": "production_volume",
+      "value": "322.59万吨",
+      "period": "2025年",
+      "quote": "报告期内，公司生产氧化铝130.36万吨；铝商品322.59万吨，同比增长6.47%。"
+    },
+    {
+      "product": "铝商品",
+      "metric_type": "sales_volume",
+      "value": "323.44万吨",
+      "period": "2025年",
+      "quote": "铝行业：铝商品销售量 万吨 323.44"
+    },
+    {
+      "product": "铝商品",
+      "metric_type": "inventory_volume",
+      "value": "4.31万吨",
+      "period": "2025年末",
+      "quote": "铝行业：铝商品库存量 万吨 4.31"
+    },
+    {
+      "product": "铝用阳极炭素（合资项目）",
+      "metric_type": "capacity",
+      "value": "90万吨",
+      "period": null,
+      "quote": "与索通发展合资建设的年产90万吨阳极炭素项目已达产"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购云铝涌鑫28.7425%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "1,450,819,495.40元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "被投资公司名称：云铝涌鑫...投资金额 1,450,819,495.40元...进度：已完成"
+    },
+    {
+      "name": "收购云铝润鑫27.3137%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "787,566,468.03元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "被投资公司名称：云铝润鑫...投资金额 787,566,468.03元...进度：已完成"
+    },
+    {
+      "name": "投资中铝铝箔（云南）有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "500,000,000.00元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "被投资公司名称：中铝铝箔（云南）有限公司...投资金额 500,000,000.00元...进度：已完成"
+    },
+    {
+      "name": "云铝源鑫建水生产区回转窑改造项目",
+      "project_type": "construction_project",
+      "location": "建水",
+      "investment_amount": "115,897,076.05元（截至报告期末累计投入）",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "项目名称：云铝源鑫建水生产区回转窑改造项目...投资方式 自建...资金来源 自筹、超长期国债资金...项目进度 100.00%...截至报告期末累计实际投入金额 115,897,076.05元"
+    },
+    {
+      "name": "云铝阳宗海5万吨“全自动一体化”再生铝示范线",
+      "project_type": "capacity_expansion",
+      "location": "阳宗海",
+      "investment_amount": null,
+      "designed_capacity": "5万吨",
+      "progress": "建成",
+      "expected_completion_time": null,
+      "quote": "云铝阳宗海建成5万吨“全自动一体化”再生铝示范线"
+    },
+    {
+      "name": "云铝文山智能工厂",
+      "project_type": "construction_project",
+      "location": "文山",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投入运行",
+      "expected_completion_time": null,
+      "quote": "云铝文山、云铝源鑫智能工厂投入运行"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "光伏发电直流接入电解铝生产用电技术",
+      "asset_type": "core_technology",
+      "related_product": "电解铝",
+      "quantitative_info": "达到国际先进水平",
+      "quote": "公司分布式光伏直流接入铝电解槽关键技术...成果达到国际先进水平"
+    },
+    {
+      "name": "铝灰绿色协同利用高有机物铝土矿的关键技术及应用",
+      "asset_type": "core_technology",
+      "related_product": "氧化铝、资源综合利用",
+      "quantitative_info": null,
+      "quote": "近年来，成功开发应用了“铝灰绿色协同利用高有机物铝土矿的关键技术及应用”等一批国内领先、国际先进的科技创新成果"
+    },
+    {
+      "name": "高端铝合金焊接材料关键技术开发与应用",
+      "asset_type": "core_technology",
+      "related_product": "铝及铝合金焊材",
+      "quantitative_info": "达到国际先进水平",
+      "quote": "高端铝合金焊接材料关键技术等成果达到国际先进水平"
+    },
+    {
+      "name": "铝电解节能降碳工艺装备新技术开发及产业化",
+      "asset_type": "core_technology",
+      "related_product": "电解铝",
+      "quantitative_info": null,
+      "quote": "近年来，成功开发应用了...“铝电解节能降碳工艺装备新技术开发及产业化”等一批国内领先、国际先进的科技创新成果"
+    },
+    {
+      "name": "铝电解槽大修渣协同无害化、资源化处理生产线",
+      "asset_type": "process_technology",
+      "related_product": "资源综合利用",
+      "quantitative_info": null,
+      "quote": "铝电解槽大修渣协同无害化、资源化处理生产线"
+    },
+    {
+      "name": "铝灰资源化利用生产线",
+      "asset_type": "process_technology",
+      "related_product": "资源综合利用",
+      "quantitative_info": null,
+      "quote": "铝灰资源化利用生产线"
+    },
+    {
+      "name": "绿铝云慧鉴”数字化大模型",
+      "asset_type": "technical_platform",
+      "related_product": "数智化生产",
+      "quantitative_info": null,
+      "quote": "“绿铝云慧鉴”数字化大模型"
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年通过国家企业技术中心认定，成为国家级科技创新平台。"
+    },
+    {
+      "name": "ASI绩效（PS）标准和监管链（CoC）标准认证",
+      "asset_type": "certification",
+      "related_product": "全产业链",
+      "quantitative_info": "全产业链认证",
+      "quote": "是中国唯一一家完成铝土矿、氧化铝、电解铝、铝加工全产业链 ASI 绩效（PS）标准和监管链（CoC）标准认证的企业。"
+    },
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "839项（其中发明专利189项）",
+      "quote": "截至2025年末，公司及所属各企业拥有国内有效专利839项，其中发明专利189项，实用新型专利648项，外观设计专利2项，国际专利39项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "42.69%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 25,634,439,241.84...前五名客户合计销售金额占年度销售总额比例 42.69%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "32.18%",
+      "related_entity": "中国铝业集团有限公司",
+      "period": "2025年度",
+      "quote": "公司前5大客户资料：1 中国铝业集团有限公司 19,321,272,621.76元 32.18%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "80.55%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 40,246,766,715.36...前五名供应商合计采购金额占年度采购总额比例 80.55%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "46.53%",
+      "related_entity": "中国铝业集团有限公司",
+      "period": "2025年度",
+      "quote": "公司前5名供应商资料：1 中国铝业集团有限公司 23,245,816,583.47元 46.53%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "主要客户其他情况说明：中国铝业集团有限公司为公司最终控股股东，与公司构成关联关系。...公司对前两大客户的销售收入占比较大，存在一定的客户依赖风险。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "受宏观经济走势以及铝行业整体景气程度的变化影响，氧化铝、阳极炭素、石油焦、金属硅等大宗原辅料存在价格波动风险",
+      "related_entity": null,
+      "related_product": "氧化铝、阳极炭素、石油焦、金属硅等",
+      "quote": "2. 大宗原辅料价格波动和持续稳定供应风险：受宏观经济走势以及铝行业整体景气程度的变化影响，氧化铝、阳极炭素、石油焦、金属硅等大宗原辅料存在价格波动风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "电价上调及电力供应存在不确定性（公司所在区域以水电为主，受来水影响）",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "3. 电价调整及电力供应存在不确定性的风险：原铝生产耗电量大，电力成本占总成本的比重高，如电价上调可能给公司生产经营带来不确定性；同时公司所在区域的云南省发电以水电为主，水电发电量与来水密切相关，来水的不确定性，可能给公司生产经营带来影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "国家对环境保护要求趋严，公司可能面临环保风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4. 环保风险：随着国家在生态文明建设、环境保护方面的要求更加严格，公司可能面临相应的环保风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "主要产品铝锭和铝加工产品市场价格存在波动性",
+      "related_entity": null,
+      "related_product": "铝锭、铝加工产品",
+      "quote": "1. 产品价格波动风险：公司主要产品为铝锭和铝加工产品，其价格受国内外宏观经济周期、产业政策和供求关系等多种因素影响，公司主要产品市场价格存在一定的波动性。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "固定资产减值风险（报告期内计提固定资产减值准备2.93亿元）",
+      "related_entity": null,
+      "related_product": "固定资产",
+      "quote": "资产减值损失（损失以“-”号填列） -293,401,331.38...主要是本报告期内计提固定资产减值。"
+    },
+    {
+      "risk_type": "other",
+      "description": "子公司云铝沥鑫破产清算",
+      "related_entity": "云铝沥鑫",
+      "related_product": null,
+      "quote": "公司控股子公司云铝沥鑫已资不抵债，且无持续经营能力，公司对云铝沥鑫实施破产清算，可进一步减少损失，维护公司和股东合法权益。"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "company_name_mentioned": "江苏银河电子股份有限公司",
+  "produces": [
+    {
+      "name": "技术保障装备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司智能机电业务主要包括智能特种装备业务和智能终端业务。①智能特种装备业务主要是技术保障装备、智能供配电系统、综合电子信息系统、综合环境控制系统等产品的研发、生产、销售和服务。"
+    },
+    {
+      "name": "智能供配电系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能供配电系统从发电、储能、电源变换、电源管理等角度为装备提供电气系统整体解决方案"
+    },
+    {
+      "name": "综合电子信息系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "综合电子信息系统对装备中各类设备对包括但不限于对装备动力舱、成员舱等数据进行采集管理，具有设备状态动态监测、状态控制、数据管理、数据分析、故障诊断、故障预测、辅助维修、远程运维管理等功能"
+    },
+    {
+      "name": "综合环境控制系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "综合环境控制系统对装备具有温度、湿度、压力、空气净化和新风调节，高海拔环境下人员补氧，核生化探测、防护等功能"
+    },
+    {
+      "name": "IPTV/OTT终端",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括IPTV/OTT终端，智能融合型网关、全系列广电接收终端，以及EPON/GPON/XGPON、WiFi5/6/7路由器、FTTR等智能接入网产品"
+    },
+    {
+      "name": "智能融合型网关",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括IPTV/OTT终端，智能融合型网关、全系列广电接收终端"
+    },
+    {
+      "name": "广电接收终端",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括...全系列广电接收终端"
+    },
+    {
+      "name": "PON/GPON/XGPON路由器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括...EPON/GPON/XGPON、WiFi5/6/7路由器、FTTR等智能接入网产品"
+    },
+    {
+      "name": "WiFi5/6/7路由器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括...WiFi5/6/7路由器"
+    },
+    {
+      "name": "FTTR智能接入网产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括...FTTR等智能接入网产品"
+    },
+    {
+      "name": "光伏逆变类产品精密结构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "现有产品涵盖光伏逆变类产品、储能系统类产品、新能源电动汽车动力电池箱、安防系统类产品等各类精密结构件。"
+    },
+    {
+      "name": "储能系统类产品精密结构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "现有产品涵盖光伏逆变类产品、储能系统类产品、新能源电动汽车动力电池箱、安防系统类产品等各类精密结构件。"
+    },
+    {
+      "name": "新能源电动汽车动力电池箱",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "现有产品涵盖...新能源电动汽车动力电池箱"
+    },
+    {
+      "name": "安防系统类产品精密结构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "现有产品涵盖...安防系统类产品等各类精密结构件。"
+    },
+    {
+      "name": "智能机电业务",
+      "type": "service",
+      "revenue_proportion": "50.03%",
+      "quote": "公司智能机电业务实现主营业务收入27,405.62万元...占营业收入比重 50.03%"
+    },
+    {
+      "name": "新能源业务",
+      "type": "service",
+      "revenue_proportion": "43.29%",
+      "quote": "公司新能源业务实现主营业务收入23,713.94万元...占营业收入比重 43.29%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "DDR内存",
+      "target_product": "智能终端",
+      "cost_proportion": null,
+      "quote": "公司智能终端业务受DDR内存、FLASH闪存、PCB电路板等主要原材料涨价影响"
+    },
+    {
+      "name": "FLASH闪存",
+      "target_product": "智能终端",
+      "cost_proportion": null,
+      "quote": "公司智能终端业务受DDR内存、FLASH闪存、PCB电路板等主要原材料涨价影响"
+    },
+    {
+      "name": "PCB电路板",
+      "target_product": "智能终端",
+      "cost_proportion": null,
+      "quote": "公司智能终端业务受DDR内存、FLASH闪存、PCB电路板等主要原材料涨价影响"
+    },
+    {
+      "name": "原材料（智能机电产品）",
+      "target_product": null,
+      "cost_proportion": "80.57%",
+      "quote": "智能机电产品 原材料 160,678,010.56 80.57%"
+    },
+    {
+      "name": "原材料（新能源产品）",
+      "target_product": null,
+      "cost_proportion": "71.82%",
+      "quote": "新能源产品 原材料 156,747,479.07 71.82%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "坦克、装甲车、自行火炮、指挥车、通信车、侦察车、技术保障、后勤等各型军用特种车辆",
+      "source_product": "智能供配电系统、综合电子信息系统、综合环境控制系统、技术保障装备",
+      "quote": "上述各分系统主要用于坦克、装甲车、自行火炮、指挥车、通信车、侦察车、技术保障、后勤等各型军用特种车辆"
+    },
+    {
+      "name": "陆、海、空、火和武警等军种各类型号装备",
+      "source_product": null,
+      "quote": "产品为陆、海、空、火和武警等军种各类型号装备配套。"
+    },
+    {
+      "name": "家庭视听娱乐",
+      "source_product": "IPTV/OTT终端，智能融合型网关、全系列广电接收终端，以及EPON/GPON/XGPON、WiFi5/6/7路由器、FTTR等智能接入网产品",
+      "quote": "广泛应用于家庭视听娱乐、宽带接入、智慧家居联动等场景。"
+    },
+    {
+      "name": "宽带接入",
+      "source_product": null,
+      "quote": "广泛应用于家庭视听娱乐、宽带接入、智慧家居联动等场景。"
+    },
+    {
+      "name": "智慧家居联动",
+      "source_product": null,
+      "quote": "广泛应用于家庭视听娱乐、宽带接入、智慧家居联动等场景。"
+    },
+    {
+      "name": "光伏",
+      "source_product": "光伏逆变类产品精密结构件",
+      "quote": "新能源轻量化精密结构件业务主要是为光伏、储能、新能源动力电池、安防等行业内的大客户配套各种精密结构件"
+    },
+    {
+      "name": "储能",
+      "source_product": "储能系统类产品精密结构件",
+      "quote": "新能源轻量化精密结构件业务主要是为光伏、储能、新能源动力电池、安防等行业内的大客户配套各种精密结构件"
+    },
+    {
+      "name": "新能源动力电池",
+      "source_product": "新能源电动汽车动力电池箱",
+      "quote": "新能源轻量化精密结构件业务主要是为光伏、储能、新能源动力电池、安防等行业内的大客户配套各种精密结构件"
+    },
+    {
+      "name": "安防",
+      "source_product": "安防系统类产品精密结构件",
+      "quote": "新能源轻量化精密结构件业务主要是为光伏、储能、新能源动力电池、安防等行业内的大客户配套各种精密结构件"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴建明",
+      "role": "董事长、总经理（总裁）",
+      "quote": "公司负责人吴建明、主管会计工作负责人徐敏及会计机构负责人（会计主管人员）徐敏声明"
+    },
+    {
+      "name": "徐敏",
+      "role": "主管会计工作负责人、会计机构负责人（会计主管人员）、财务负责人",
+      "quote": "公司负责人吴建明、主管会计工作负责人徐敏及会计机构负责人（会计主管人员）徐敏声明"
+    },
+    {
+      "name": "徐鸽",
+      "role": "董事会秘书、副总经理（副总裁）",
+      "quote": "董事会秘书 证券事务代表 姓名 徐鸽"
+    },
+    {
+      "name": "冯熠",
+      "role": "证券事务代表",
+      "quote": "董事会秘书 证券事务代表 姓名 徐鸽 冯熠"
+    },
+    {
+      "name": "吴刚",
+      "role": "董事、副总经理（副总裁）",
+      "quote": "吴刚 男 51 现任... 董事、副总经理（副总裁）"
+    },
+    {
+      "name": "孙胜友",
+      "role": "董事",
+      "quote": "孙胜友 男 57 现任... 董事"
+    },
+    {
+      "name": "郭静娟",
+      "role": "独立董事",
+      "quote": "郭静娟 女 61 现任... 独立董事"
+    },
+    {
+      "name": "陈友春",
+      "role": "独立董事",
+      "quote": "陈友春 男 73 现任... 独立董事"
+    },
+    {
+      "name": "张拥军",
+      "role": "独立董事（离任）",
+      "quote": "张拥军 男 64 独立董事 离任"
+    },
+    {
+      "name": "庞绍熙",
+      "role": "控股股东银河电子集团法定代表人/单位负责人",
+      "quote": "控股股东名称 成立日期 组织机构代码 主要经营业务 法定代表人/ 单位负责人 银河电子集团投资有限公司 庞绍熙"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "银河电子集团投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东：银河电子集团投资有限公司"
+    },
+    {
+      "name": "合肥同智机电控制技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营业务为保障类电源、智能供配电系统、综合电子信息系统和综合环境控制系统及技术保障类装备",
+      "quote": "同智机电 指 本公司全资子公司，合肥同智机电控制技术有限公司"
+    },
+    {
+      "name": "江苏亿都智能特种装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营业务为新能源轻量化精密结构件",
+      "quote": "亿都智能 指 本公司全资子公司，江苏亿都智能特种装备有限公司"
+    },
+    {
+      "name": "江苏亿泰新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "亿泰新能源 指 本公司全资子公司，江苏亿泰新能源有限公司"
+    },
+    {
+      "name": "江苏银河致新投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "银河致新 指 本公司全资子公司，江苏银河致新投资有限公司"
+    },
+    {
+      "name": "合肥合试检测股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "银河致新控股子公司，提供CNAS、DILAC和CMA试验能力认证的检测服务",
+      "quote": "合试检测 指 银河致新控股子公司，合肥合试检测股份有限公司"
+    },
+    {
+      "name": "安徽骁骏智能装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "银河致新全资子公司，专注军用智能供配电、机电综合管理、综合环境控制、军用无人驾驶等领域",
+      "quote": "骁骏智能 指 银河致新全资子公司，安徽骁骏智能装备有限公司"
+    },
+    {
+      "name": "合肥亮源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "银河致新全资子公司，报告期内因战略需要被收购",
+      "quote": "亮源科技 指 银河致新全资子公司，合肥亮源科技有限公司"
+    },
+    {
+      "name": "江苏时代亿能新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "时代亿能 指 本公司控股子公司，江苏时代亿能新能源有限公司"
+    },
+    {
+      "name": "江苏盛海智能科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，发生房产租赁、销售水电、采购商品、销售商品、委托研发等关联交易",
+      "quote": "江苏盛海智能科技有限公司...关联交易类型 包括房产租赁、销售水电、采购商品、销售商品、委托研发"
+    },
+    {
+      "name": "合肥红宝石创投股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要投资者个人控制的其他企业，发生房产租赁关联交易",
+      "quote": "合肥红宝石创投股份有限公司...本公司主要投资者个人控制的其他企业...房产租赁"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智能机电业务",
+      "segment_type": "product_line",
+      "revenue_amount": "274,056,171.50",
+      "revenue_proportion": "50.03%",
+      "gross_margin": "27.23%",
+      "yoy_change": "40.12%",
+      "quote": "智能机电业务 274,056,171.50 50.03% ... 毛利率 27.23% ... 营业收入比上年同期增减 40.12%"
+    },
+    {
+      "name": "新能源业务",
+      "segment_type": "product_line",
+      "revenue_amount": "237,139,444.29",
+      "revenue_proportion": "43.29%",
+      "gross_margin": "7.96%",
+      "yoy_change": "-19.58%",
+      "quote": "新能源业务 237,139,444.29 43.29% ... 毛利率 7.96% ... 营业收入比上年同期增减 -19.58%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "36,586,840.76",
+      "revenue_proportion": "6.68%",
+      "gross_margin": null,
+      "yoy_change": "-4.67%",
+      "quote": "其他 36,586,840.76 6.68% ... 营业收入比上年同期增减 -4.67%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "529,876,940.30",
+      "revenue_proportion": "96.73%",
+      "gross_margin": "22.22%",
+      "yoy_change": "3.71%",
+      "quote": "内销 529,876,940.30 96.73% ... 毛利率 22.22% ... 营业收入比上年同期增减 3.71%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "17,905,516.25",
+      "revenue_proportion": "3.27%",
+      "gross_margin": null,
+      "yoy_change": "-0.10%",
+      "quote": "外销 17,905,516.25 3.27% ... 营业收入比上年同期增减 -0.10%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "547,782,456.55",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "22.36%",
+      "yoy_change": "3.58%",
+      "quote": "直销 547,782,456.55 100.00% ... 毛利率 22.36% ... 营业收入比上年同期增减 3.58%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能机电产品",
+      "metric_type": "sales_volume",
+      "value": "27,405.62万元",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 ... 销售量 万元 27,405.62"
+    },
+    {
+      "product": "智能机电产品",
+      "metric_type": "inventory_volume",
+      "value": "65,950.16万元",
+      "period": "2025年末",
+      "quote": "智能机电产品 ... 库存量 万元 65,950.16"
+    },
+    {
+      "product": "新能源产品",
+      "metric_type": "sales_volume",
+      "value": "23,713.94万元",
+      "period": "2025年",
+      "quote": "新能源产品 ... 销售量 万元 23,713.94"
+    },
+    {
+      "product": "新能源产品",
+      "metric_type": "inventory_volume",
+      "value": "6,332.76万元",
+      "period": "2025年末",
+      "quote": "新能源产品 ... 库存量 万元 6,332.76"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购亮源科技100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司因战略需要收购了亮源科技100%股权。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "总计440项，其中发明专利79项",
+      "quote": "截止报告期末，公司共拥有授权专利总计440项，其中发明专利79项。"
+    },
+    {
+      "name": "同智机电及骁骏智能专利",
+      "asset_type": "patent",
+      "related_product": "军用智能供配电、机电综合管理、综合环境控制、军用无人驾驶等领域",
+      "quantitative_info": "285项，其中发明专利43项",
+      "quote": "截止报告期末，同智机电及骁骏智能共拥有各项专利285项，其中发明专利43项。"
+    },
+    {
+      "name": "合试检测专利",
+      "asset_type": "patent",
+      "related_product": "试验检测服务",
+      "quantitative_info": "30项，其中发明专利2项",
+      "quote": "截止报告期末，合试检测共拥有各项专利30项，其中发明专利2项。"
+    },
+    {
+      "name": "亿都智能专利",
+      "asset_type": "patent",
+      "related_product": "精密结构件智能制造控制和集成技术、高强度轻量化材料加工工艺",
+      "quantitative_info": "55项，其中发明专利6项",
+      "quote": "截止报告期末，亿都智能共拥有各项专利总计55项，其中发明专利6项。"
+    },
+    {
+      "name": "CNAS试验能力认证",
+      "asset_type": "certification",
+      "related_product": "合试检测",
+      "quantitative_info": null,
+      "quote": "子公司合试检测目前已通过CNAS、DILAC和CMA试验能力认证"
+    },
+    {
+      "name": "DILAC试验能力认证",
+      "asset_type": "certification",
+      "related_product": "合试检测",
+      "quantitative_info": null,
+      "quote": "子公司合试检测目前已通过CNAS、DILAC和CMA试验能力认证"
+    },
+    {
+      "name": "CMA试验能力认证",
+      "asset_type": "certification",
+      "related_product": "合试检测",
+      "quantitative_info": null,
+      "quote": "子公司合试检测目前已通过CNAS、DILAC和CMA试验能力认证"
+    },
+    {
+      "name": "二级保密资格",
+      "asset_type": "certification",
+      "related_product": "合试检测",
+      "quantitative_info": null,
+      "quote": "获取了二级保密资格、高新技术企业证书"
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托公司拥有的国家级博士后科研工作站、省级研究生工作站、省级企业技术中心、省级工程技术研究中心"
+    },
+    {
+      "name": "省级研究生工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托公司拥有的国家级博士后科研工作站、省级研究生工作站、省级企业技术中心、省级工程技术研究中心"
+    },
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托公司拥有的国家级博士后科研工作站、省级研究生工作站、省级企业技术中心、省级工程技术研究中心"
+    },
+    {
+      "name": "省级工程技术研究中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托公司拥有的国家级博士后科研工作站、省级研究生工作站、省级企业技术中心、省级工程技术研究中心"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "352,004,278.34元，占年度销售总额比例64.26%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 352,004,278.34 前五名客户合计销售金额占年度销售总额比例 64.26%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "188,812,928.45元，占年度销售总额比例34.47%",
+      "related_entity": "单位1",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 单位1 188,812,928.45 34.47%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "110,320,981.41元，占年度采购总额比例29.64%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 110,320,981.41 前五名供应商合计采购金额占年度采购总额比例 29.64%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "32,735,304.24元，占年度采购总额比例8.80%",
+      "related_entity": "单位1",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 单位1 32,735,304.24 8.80%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "特种装备市场进入门槛逐步降低，公司特种装备业务面临的市场竞争环境也将日趋激烈，产品售价存在下降风险。民品行业：随着新能源行业以及智能终端领域技术水平的不断发展，公司业务面临技术不断创新、价格持续下降及盈利模式等方面的压力，从而降低竞争力的风险。",
+      "related_entity": null,
+      "related_product": "特种装备、新能源、智能终端",
+      "quote": "1、市场竞争风险 特种装备行业：受到军民融合政策的影响，特种装备市场进入门槛逐步降低...民品行业：...公司业务面临技术不断创新、价格持续下降及盈利模式等方面的压力..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产所需的原材料受相关材料价格变动及市场供需情况的影响，产业链供应链不确定性因素较多，当前公司智能终端业务受DDR内存、FLASH闪存、PCB电路板等主要原材料涨价影响，成本上升、毛利率有所下滑。",
+      "related_entity": null,
+      "related_product": "智能终端",
+      "quote": "2、原材料价格涨价和供应不足风险 ...公司智能终端业务受DDR内存、FLASH闪存、PCB电路板等主要原材料涨价影响，成本上升、毛利率有所下滑。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司业务转型发展，现有人才已很难满足业务发展的需要。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、人才储备不足 随着公司业务转型发展，现有人才已很难满足业务发展的需要。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "子公司同智机电因其在前期经营期间存在违规行为，被管理部门自2025年6月16日起36个月禁止参加全军装备采购活动。",
+      "related_entity": "合肥同智机电控制技术有限公司",
+      "related_product": "军品",
+      "quote": "4、同智机电面临禁止三年参加全军装备采购风险 子公司同智机电因其在前期经营期间存在违规行为，被管理部门自2025年6月16日起36个月禁止参加全军装备采购活动。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "同智机电被起诉涉嫌单位行贿，已宣判犯单位行贿罪，判处罚金300万元。",
+      "related_entity": "合肥同智机电控制技术有限公司",
+      "related_product": null,
+      "quote": "同时，同智机电收到某检察院提起的《起诉书》，对同智机电原法定代表人张红及同智机电涉嫌单位行贿提起诉讼。截至本报告日，该诉讼已宣判，同智机电犯单位行贿罪，判处罚金300万元。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司部分特种装备产品尚未完成全部审价，且军方对产品的价格审定过程可能较长，最终审定价格与暂定价格的差异幅度具有不确定性，可能导致公司的经营业绩在价格差异调整年度内出现波动。前期，同智机电由于有关部门对往年销售合同审价审核调查，上交了合同审价退款，目前有关部门对合同审价的调查仍在进行中，尚无结论。",
+      "related_entity": "合肥同智机电控制技术有限公司",
+      "related_product": "特种装备",
+      "quote": "5、特种装备审价风险 ...同智机电由于有关部门对往年销售合同审价审核调查，上交了合同审价退款，目前有关部门对合同审价的调查仍在进行中，尚无结论。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "截止报告期末，同智机电军品业务应收账款规模较大，受行业竞争加剧、军方采购预算调整、项目验收及结算周期延长、客户付款节奏放缓等因素影响，回款速度不及预期、逾期账款增加、资金回笼压力加大。",
+      "related_entity": "合肥同智机电控制技术有限公司",
+      "related_product": "军品",
+      "quote": "6、应收账款回款风险 截止报告期末，同智机电军品业务应收账款规模较大...回款速度不及预期、逾期账款增加、资金回笼压力加大。"
+    }
+  ]
+}

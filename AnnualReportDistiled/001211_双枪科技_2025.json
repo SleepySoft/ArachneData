@@ -1,0 +1,565 @@
+{
+  "company_name_mentioned": "双枪科技股份有限公司",
+  "produces": [
+    {
+      "name": "筷子",
+      "type": "device",
+      "revenue_proportion": "15.53%",
+      "quote": "筷子 247,962,262.66 15.53%"
+    },
+    {
+      "name": "砧板",
+      "type": "device",
+      "revenue_proportion": "25.37%",
+      "quote": "砧板 404,865,880.08 25.37%"
+    },
+    {
+      "name": "签类",
+      "type": "device",
+      "revenue_proportion": "3.42%",
+      "quote": "签类 54,620,093.91 3.42%"
+    },
+    {
+      "name": "勺铲",
+      "type": "device",
+      "revenue_proportion": "7.41%",
+      "quote": "勺铲 118,202,744.42 7.41%"
+    },
+    {
+      "name": "其他餐厨具",
+      "type": "device",
+      "revenue_proportion": "32.29%",
+      "quote": "其他餐厨具 515,318,737.51 32.29%"
+    },
+    {
+      "name": "其他产品",
+      "type": "device",
+      "revenue_proportion": "14.87%",
+      "quote": "其他产品 237,417,150.52 14.87%"
+    },
+    {
+      "name": "其他业务收入",
+      "type": "service",
+      "revenue_proportion": "1.11%",
+      "quote": "其他业务收入 17,766,162.81 1.11%"
+    },
+    {
+      "name": "金钢瓷（NPET-280）材料及产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司基于在合金筷产品领域积累的深厚加工经验，与中国科学院宁波材料技术与工程研究所共同研发新型材料“金钢瓷”（NPET-280），该材料具备耐高温、可回收等优势，直击传统密胺餐具痛点，应用场景广泛。"
+    },
+    {
+      "name": "竹基禾塑工业托盘",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的竹基禾塑工业托盘依托中国科学院宁波材料技术与工程研究所技术，添加高比例竹材加工余料替代塑料基材，兼具成本与性能优势"
+    },
+    {
+      "name": "竹笋（极野鲜笋）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司致力于日用餐厨具的研发、设计、生产、销售，并在碗筷、刀板、锅铲三大产品组合销售以外，积极布局餐饮市场，拓展竹笋、竹炭等产品"
+    },
+    {
+      "name": "竹炭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "进入生活耗材（竹炭等）领域，持续不断探索餐饮客户"
+    }
+  ],
+  "procures": [
+    {
+      "name": "武夷山广达竹木有限公司",
+      "target_product": "竹材及制品",
+      "cost_proportion": "2.62%",
+      "quote": "武夷山广达竹木有限公司 24,772,184.37 2.62%"
+    },
+    {
+      "name": "浙江京申竹木有限公司",
+      "target_product": "竹材及制品",
+      "cost_proportion": "1.97%",
+      "quote": "浙江京申竹木有限公司 18,597,943.26 1.97%"
+    },
+    {
+      "name": "龙泉市永金竹木制品厂",
+      "target_product": "竹材及制品",
+      "cost_proportion": "1.80%",
+      "quote": "龙泉市永金竹木制品厂 17,002,264.70 1.80%"
+    },
+    {
+      "name": "福建省邵武市明昌竹制品有限公司",
+      "target_product": "竹材及制品",
+      "cost_proportion": "1.78%",
+      "quote": "福建省邵武市明昌竹制品有限公司 16,886,441.26 1.78%"
+    },
+    {
+      "name": "福建省升竹科技有限公司",
+      "target_product": "竹材及制品",
+      "cost_proportion": "1.75%",
+      "quote": "福建省升竹科技有限公司 16,595,162.18 1.75%"
+    },
+    {
+      "name": "竹条、木材、PPS、散筷、板坯、不锈钢件、竹笋、竹粉等",
+      "target_product": "生产原材料",
+      "cost_proportion": null,
+      "quote": "公司生产所需的原材料主要为竹条、木材、PPS、散筷、板坯、不锈钢件、竹笋、竹粉等，原材料成本是公司生产成本的主要构成部分。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家庭用餐厨具",
+      "source_product": "碗筷、刀板、锅铲等",
+      "quote": "产品使用场景从家庭到餐饮"
+    },
+    {
+      "name": "餐饮市场",
+      "source_product": "一次性餐具、竹笋、竹炭等耗品",
+      "quote": "公司致力于日用餐厨具的研发、设计、生产、销售，并在碗筷、刀板、锅铲三大产品组合销售以外，积极布局餐饮市场，拓展竹笋、竹炭等产品"
+    },
+    {
+      "name": "工业物流托盘",
+      "source_product": "竹基禾塑工业托盘",
+      "quote": "竹基禾塑托盘可服务于光伏产业太阳能光伏板运输、新能源锂电池产业的运输，大型物流企业、港口集团、化工企业等"
+    },
+    {
+      "name": "光伏面板支撑架、汽车零部件等轻量化材料",
+      "source_product": "竹基禾塑材料",
+      "quote": "后续也可探索竹基禾塑材料基于刚性特性在光伏面板支撑架、汽车零部件等轻量化材料"
+    },
+    {
+      "name": "宠物餐具",
+      "source_product": "金钢瓷产品",
+      "quote": "挖掘多元应用潜力，关注宠物餐具领域潜在机会"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑承烈",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人郑承烈、主管会计工作负责人朱卫清及会计机构负责人（会计主管人员）李琳声明"
+    },
+    {
+      "name": "朱卫清",
+      "role": "财务负责人、董事会秘书",
+      "quote": "主管会计工作负责人朱卫清"
+    },
+    {
+      "name": "李琳",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）李琳"
+    },
+    {
+      "name": "李朝珍",
+      "role": "董事、副总经理",
+      "quote": "李朝珍先生...2017年9月至今任公司董事、副总经理"
+    },
+    {
+      "name": "周兆成",
+      "role": "董事",
+      "quote": "周兆成先生...2017年9月至今任公司董事"
+    },
+    {
+      "name": "徐洪昌",
+      "role": "董事、副总经理",
+      "quote": "徐洪昌先生...2022年9月至今任公司副总经理，2022年10月至今任公司董事"
+    },
+    {
+      "name": "张美云",
+      "role": "董事、副总经理",
+      "quote": "张美云女士...2017年9月至今任公司董事、副总经理"
+    },
+    {
+      "name": "沈学明",
+      "role": "独立董事",
+      "quote": "沈学明先生...独立董事"
+    },
+    {
+      "name": "许雄伟",
+      "role": "独立董事",
+      "quote": "许雄伟先生...独立董事"
+    },
+    {
+      "name": "万立祥",
+      "role": "独立董事",
+      "quote": "万立祥先生...独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江双枪竹木有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "日用餐厨具生产与销售",
+      "quote": "浙江双枪竹木有限公司"
+    },
+    {
+      "name": "浙江千束家居用品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "日用餐厨具生产与销售",
+      "quote": "千束家居 指 浙江千束家居用品有限公司"
+    },
+    {
+      "name": "杭州漫轩电子商务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "日用餐厨具销售",
+      "quote": "杭州漫轩 指 杭州漫轩电子商务有限公司"
+    },
+    {
+      "name": "双枪家居用品越南有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "日用餐厨具生产与销售",
+      "quote": "双枪越南 指 双枪家居用品越南有限公司"
+    },
+    {
+      "name": "桃江极野食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "农副产品生产与销售",
+      "quote": "桃江极野 指 桃江极野食品有限公司"
+    },
+    {
+      "name": "浙江天珺供应链发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东 指 浙江天珺供应链发展有限公司"
+    },
+    {
+      "name": "沃尔玛集团",
+      "relation_type": "customer",
+      "business_details": "全球性商超战略合作",
+      "quote": "公司已与沃尔玛等全球性商超建立战略合作关系"
+    },
+    {
+      "name": "海底捞国际控股有限公司",
+      "relation_type": "customer",
+      "business_details": "餐饮大客户",
+      "quote": "海底捞国际控股有限公司 42,917,229.42 2.69%"
+    },
+    {
+      "name": "老娘舅",
+      "relation_type": "customer",
+      "business_details": "餐饮大客户",
+      "quote": "公司的定制业务主要客户有海底捞、老娘舅、宜家、双立人、雀巢"
+    },
+    {
+      "name": "宜家",
+      "relation_type": "customer",
+      "business_details": "直营定制大客户",
+      "quote": "直营定制渠道通过差异化产品创新，定制化服务深度绑定宜家、双立人等大客户"
+    },
+    {
+      "name": "双立人",
+      "relation_type": "customer",
+      "business_details": "直营定制大客户",
+      "quote": "直营定制渠道通过差异化产品创新，定制化服务深度绑定宜家、双立人等大客户"
+    },
+    {
+      "name": "雀巢",
+      "relation_type": "customer",
+      "business_details": "定制业务客户，已切入宠物用品领域",
+      "quote": "雀巢（除常规品类外，已切入雀巢宠物用品领域）"
+    },
+    {
+      "name": "名创优品",
+      "relation_type": "customer",
+      "business_details": "定制业务客户",
+      "quote": "名创优品等"
+    },
+    {
+      "name": "中国科学院宁波材料技术与工程研究所",
+      "relation_type": "supplier",
+      "business_details": "共同研发新型材料“金钢瓷”（NPET-280）及竹基禾塑材料技术",
+      "quote": "与中国科学院宁波材料技术与工程研究所共同研发新型材料“金钢瓷”（NPET-280）"
+    },
+    {
+      "name": "深圳远大方略管理咨询公司",
+      "relation_type": "supplier",
+      "business_details": "提供精益生产改造管理咨询",
+      "quote": "公司于2025年10月开始引入深圳远大方略管理咨询公司，对核心工厂进行精益生产改造。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "日用餐厨具行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,596,153,031.91元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "33.01%",
+      "yoy_change": "16.68%",
+      "quote": "分行业 日用餐厨具行业 1,596,153,031.91 100.00% 1,367,986,771.66 100.00% 16.68%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,154,137,922.37元",
+      "revenue_proportion": "72.31%",
+      "gross_margin": "29.60%",
+      "yoy_change": "14.35%",
+      "quote": "分地区 境内 1,154,137,922.37 72.31% 1,009,328,481.90 73.78% 14.35%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "442,015,109.54元",
+      "revenue_proportion": "27.69%",
+      "gross_margin": "41.90%",
+      "yoy_change": "23.24%",
+      "quote": "分地区 境外 442,015,109.54 27.69% 358,658,289.76 26.22% 23.24%"
+    },
+    {
+      "name": "线上销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "519,853,874.28元",
+      "revenue_proportion": "32.57%",
+      "gross_margin": "51.59%",
+      "yoy_change": "34.47%",
+      "quote": "分销售模式 线上销售 519,853,874.28 32.57% 386,603,248.77 28.26% 34.47%"
+    },
+    {
+      "name": "线下销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,076,299,157.63元",
+      "revenue_proportion": "67.43%",
+      "gross_margin": "24.04%",
+      "yoy_change": "9.67%",
+      "quote": "分销售模式 线下销售 1,076,299,157.63 67.43% 981,383,522.89 71.74% 9.67%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "竹制品",
+      "metric_type": "capacity",
+      "value": "江西资溪年加工20万吨毛竹项目",
+      "period": "规划及建设中",
+      "quote": "江西资溪年加工20万吨毛竹项目...尚处于产能爬坡期"
+    },
+    {
+      "product": "竹制品",
+      "metric_type": "capacity",
+      "value": "安徽广德年加工20万吨毛竹绿色循环产业项目",
+      "period": "规划及建设中",
+      "quote": "安徽广德年加工20万吨毛竹绿色循环产业项目...目前尚未正式开工建设"
+    },
+    {
+      "product": "竹制品",
+      "metric_type": "capacity",
+      "value": "浙江安吉年加工利用15万吨毛竹项目",
+      "period": "建设中",
+      "quote": "浙江安吉年加工利用15万吨毛竹项目...目前正处于厂房建设阶段。"
+    },
+    {
+      "product": "竹制品及竹炭",
+      "metric_type": "other",
+      "value": "越南工厂开始承接部分欧美客户订单，并处于爬坡期",
+      "period": "2025年",
+      "quote": "公司的越南工厂于2025年1月成立并于2025年8月起进行试产，目前已开始承接部分欧美客户订单，并处于爬坡期"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "浙江安吉年加工利用15万吨毛竹项目",
+      "project_type": "capacity_expansion",
+      "location": "浙江省湖州市安吉县",
+      "investment_amount": "2.2亿元",
+      "designed_capacity": "年加工利用15万吨毛竹",
+      "progress": "20.42%",
+      "expected_completion_time": null,
+      "quote": "浙江安吉年加工利用15万吨毛竹项目...投资总额仍按2.2亿元计算...目前正处于厂房建设阶段。"
+    },
+    {
+      "name": "江西资溪年加工20万吨毛竹项目",
+      "project_type": "capacity_expansion",
+      "location": "江西省抚州市资溪县",
+      "investment_amount": null,
+      "designed_capacity": "年加工20万吨毛竹",
+      "progress": "63.73%",
+      "expected_completion_time": null,
+      "quote": "江西资溪年加工20万吨毛竹项目...尚处于产能爬坡期，暂未实现盈亏平衡。"
+    },
+    {
+      "name": "安徽广德年加工20万吨毛竹绿色循环产业项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽省宣城市广德市",
+      "investment_amount": null,
+      "designed_capacity": "年加工20万吨毛竹",
+      "progress": "13.81%",
+      "expected_completion_time": null,
+      "quote": "安徽广德年加工20万吨毛竹绿色循环产业项目...原计划建设周期为2024年下半年至2026年，目前尚未正式开工建设"
+    },
+    {
+      "name": "湖南桃江全竹绿色循环高效产业园项目",
+      "project_type": "capacity_expansion",
+      "location": "湖南省益阳市桃江县",
+      "investment_amount": "1.8亿元（扣除工程费用预算1.2亿后）",
+      "designed_capacity": null,
+      "progress": "0.43%",
+      "expected_completion_time": null,
+      "quote": "湖南桃江全竹绿色循环高效产业园项目...本项目投资总额为1.8亿元扣除工程费用预算1.2亿后的余额。"
+    },
+    {
+      "name": "日用餐厨具自动化生产基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "17,497.34万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2025年9月",
+      "quote": "日用餐厨具自动化生产基地建设项目...该项目于2025年9月结项"
+    },
+    {
+      "name": "年产3000万件餐厨配件生产基地建设项目",
+      "project_type": "fundraising_project",
+      "location": "龙泉双枪家居用品有限公司",
+      "investment_amount": "10,000.05万元",
+      "designed_capacity": "年产3000万件餐厨配件",
+      "progress": "已结项",
+      "expected_completion_time": "2024年12月",
+      "quote": "年产3000万件餐厨配件生产基地建设项目...于2024年12月结项"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "多材质双色注塑工艺、多材质包胶工艺、无缝锻造模具工艺、筷子无胶拼接工艺等",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有自主知识产权的“多材质双色注塑工艺”“多材质包胶工艺”“无缝锻造模具工艺”“筷子无胶拼接工艺”等一系列行业领先水平的工艺技术"
+    },
+    {
+      "name": "金钢瓷材料（NPET-280）",
+      "asset_type": "core_technology",
+      "related_product": "金钢瓷产品",
+      "quantitative_info": null,
+      "quote": "成功开发出金钢瓷材料（NPET-280）、抗菌复合材料、抗菌不锈钢材料。"
+    },
+    {
+      "name": "竹材综合利用技术",
+      "asset_type": "core_technology",
+      "related_product": "竹制品",
+      "quantitative_info": null,
+      "quote": "成功研发竹材综合利用技术，助力产业提升。"
+    },
+    {
+      "name": "自动切边设备、自动抛光机、自动包装机、自动激光雕刻机等",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已成功研发出“自动切边设备”“自动抛光机”“自动包装机”“自动激光雕刻机”等一系列自动化设备。"
+    },
+    {
+      "name": "发明专利、实用新型专利、外观专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "59项发明专利、49项实用新型专利和92项外观专利",
+      "quote": "截至报告期末，公司及下属子公司共计拥有59项发明专利、49项实用新型专利和92项外观专利"
+    },
+    {
+      "name": "高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "子公司浙江双枪是高新技术企业"
+    },
+    {
+      "name": "气炭联产供热系统及零排放自循环污水处理系统",
+      "asset_type": "process_technology",
+      "related_product": "竹炭、热能",
+      "quantitative_info": null,
+      "quote": "公司自行研发的气炭联产供热系统及零排放自循环污水处理系统，让公司真正实现“原竹进来，成品出去”的产业链加工模式。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 447,097,736.44 前五名客户合计销售金额占年度销售总额比例 28.01%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "15.87%",
+      "related_entity": "沃尔玛集团",
+      "period": "2025年",
+      "quote": "沃尔玛集团 253,352,179.12 15.87%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9.92%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 93,853,995.77 前五名供应商合计采购金额占年度采购总额比例 9.92%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "2.62%",
+      "related_entity": "武夷山广达竹木有限公司",
+      "period": "2025年",
+      "quote": "武夷山广达竹木有限公司 24,772,184.37 2.62%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业初期进入门槛低、行业参与者众多、充分竞争、行业集中度低...中低端产品同质化严重，促销周期缩短...非理性价格竞争常态化",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "日用餐厨具行业初期进入门槛低、行业参与者众多、充分竞争、行业集中度低，产品质量参差不齐，行业竞争激烈...中低端产品同质化严重，促销周期缩短...非理性价格竞争常态化"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产所需的原材料主要为竹条、木材、PPS、散筷、板坯、不锈钢件、竹笋、竹粉等，原材料价格的波动仍会对公司的经营成本和业绩造成一定的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格的波动仍会对公司的经营成本和业绩造成一定的影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款余额较大的风险...若不能及时回收应收账款，则会对公司的现金流转、财务状况及经营成果造成一定的不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "应收账款余额较大的风险...若不能及时回收应收账款，则会对公司的现金流转、财务状况及经营成果造成一定的不利影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货余额较大的风险...如果公司未来不能有效制定生产计划并管理存货而导致存货增长过快...并可能带来较大金额的存货跌价的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "存货余额较大的风险...如果公司未来不能有效制定生产计划并管理存货而导致存货增长过快...并可能带来较大金额的存货跌价的风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "关税和汇率波动的风险...公司外贸业务收入主要以美元结算，美元兑人民币汇率的波动，不仅直接影响公司以人民币计价的销售收入，还可能形成汇兑损益，对经营利润造成影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "关税和汇率波动的风险...公司外贸业务收入主要以美元结算，美元兑人民币汇率的波动，不仅直接影响公司以人民币计价的销售收入，还可能形成汇兑损益，对经营利润造成影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "2025年以来，美国对全球贸易伙伴加征关税，导致全球贸易规则与贸易秩序发生重大调整。美国作为全球成熟的核心消费市场之一，其关税政策的实施，可能对公司直接及间接出口业务产生不利影响",
+      "related_entity": "美国",
+      "related_product": null,
+      "quote": "2025年以来，美国对全球贸易伙伴加征关税，导致全球贸易规则与贸易秩序发生重大调整。美国作为全球成熟的核心消费市场之一，其关税政策的实施，可能对公司直接及间接出口业务产生不利影响"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例 28.01%",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 28.01%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "前五名供应商合计采购金额占年度采购总额比例 9.92%",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 9.92%"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "存在未达到重大诉讼仲裁披露标准的事项汇总，涉案金额1,626万元，主要系合同纠纷。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "未达到重大诉讼仲裁披露标准的事 项汇总 1,626 ...主要系合同纠纷，对公 司无重大影响"
+    }
+  ]
+}

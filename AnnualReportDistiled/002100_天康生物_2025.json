@@ -1,0 +1,549 @@
+{
+  "company_name_mentioned": "天康生物股份有限公司",
+  "produces": [
+    {
+      "name": "饲料",
+      "type": "material",
+      "revenue_proportion": "30.62%",
+      "quote": "2025年度，公司饲料业务销售收入为519,964.85万元，同比下降2.72%，占营业收入的比重为30.62%。"
+    },
+    {
+      "name": "动物疫苗",
+      "type": "technology",
+      "revenue_proportion": "5.13%",
+      "quote": "2025年度，公司制药业务销售收入为87,080.08万元，同比下降12.79%。占营业收入的比重为5.13%。"
+    },
+    {
+      "name": "生猪养殖及食品加工（含肉制品销售）",
+      "type": "service",
+      "revenue_proportion": "33.71%",
+      "quote": "2025年度，公司生猪养殖及食品加工业务销售收入为572,414.43万元，同比下降7.02%，占营业收入的比重为33.71%。"
+    },
+    {
+      "name": "植物蛋白及油脂加工",
+      "type": "material",
+      "revenue_proportion": "12.55%",
+      "quote": "2025年度，公司植物蛋白及油脂加工业务销售收入为213,187.13万元，同比增长27.54%，占营业收入的比重为12.55%。"
+    },
+    {
+      "name": "玉米收储",
+      "type": "material",
+      "revenue_proportion": "14.10%",
+      "quote": "2025年度，玉米收储业务销售收入为239,441.16万元，同比增加11.72%，占营业收入的比重为14.10%。"
+    },
+    {
+      "name": "种猪繁育",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "形成了饲料及饲用植物蛋白、动物疫苗、种猪繁育、生猪养殖、屠宰加工及肉制品销售的全产业链架构。"
+    },
+    {
+      "name": "猪瘟病毒E2亚单位基因工程灭活疫苗",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司完全自主研发的猪瘟病毒E2亚单位基因工程灭活疫苗开创了中国猪瘟病毒疫苗的先河。"
+    },
+    {
+      "name": "布氏菌病基因缺失活疫苗",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "自主研制的布氏菌病基因缺失活疫苗为国家防控重大人畜共患传染病提供了有力手段。"
+    },
+    {
+      "name": "猪口蹄疫O型、A型二价合成肽疫苗",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "经试验证明，该疫苗抗原可以产生有效的抗体应答效果，在免疫猪后可以抵抗O型和A型口蹄疫病毒的攻击。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "玉米",
+      "target_product": "饲料",
+      "cost_proportion": "95.62% (占饲料营业成本比重)",
+      "quote": "饲料 原料 4,514,367,143.10 95.62%"
+    },
+    {
+      "name": "豆粕",
+      "target_product": "饲料",
+      "cost_proportion": null,
+      "quote": "公司的主要原材料包括玉米、豆粕等，大宗农产品的价格波动，将对公司饲料业务的业绩产生不利影响。"
+    },
+    {
+      "name": "兽用生物制品原料",
+      "target_product": "动物疫苗",
+      "cost_proportion": "42.45% (占制药营业成本比重)",
+      "quote": "制药 原料 152,731,153.82 42.45%"
+    },
+    {
+      "name": "植物油料（如棉籽）",
+      "target_product": "植物蛋白及油脂加工",
+      "cost_proportion": "95.27% (占蛋白油脂营业成本比重)",
+      "quote": "蛋白油脂 原料 1,884,338,881.89 95.27%"
+    },
+    {
+      "name": "饲料原料",
+      "target_product": "生猪养殖",
+      "cost_proportion": "89.73% (占食品养殖营业成本比重)",
+      "quote": "食品养殖 原料 4,787,500,614.10 89.73%"
+    },
+    {
+      "name": "玉米",
+      "target_product": "玉米收储",
+      "cost_proportion": "95.10% (占玉米收储营业成本比重)",
+      "quote": "玉米收储 原料 2,188,097,864.71 95.10%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "畜牧业/畜禽养殖",
+      "source_product": "饲料、动物疫苗、种猪繁育",
+      "quote": "公司实现了现代畜牧业畜禽良种繁育-饲料与饲养管理-动物药品及畜禽病害防治-畜产品加工销售4个关键环节的完整闭合。"
+    },
+    {
+      "name": "猪养殖",
+      "source_product": "猪饲料、猪用疫苗、种猪",
+      "quote": "猪饲料产量16,639.4万吨，增长15.6%。"
+    },
+    {
+      "name": "禽类养殖",
+      "source_product": "禽用饲料、禽用疫苗",
+      "quote": "蛋禽饲料产量3,282.0万吨，增长1.4%；肉禽饲料产量10,097.7万吨，增长3.5%。"
+    },
+    {
+      "name": "牛羊养殖",
+      "source_product": "反刍饲料、牛羊用疫苗",
+      "quote": "反刍动物饲料产量1,475.8万吨，增长1.8%。"
+    },
+    {
+      "name": "食品加工与销售",
+      "source_product": "屠宰加工肉制品",
+      "quote": "屠宰加工及肉制品销售的全产业链架构。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张杰",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人张杰...声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "许衡",
+      "role": "董事、总经理",
+      "quote": "许衡先生...现任公司党委副书记、第九届董事会董事、总经理。"
+    },
+    {
+      "name": "董海英",
+      "role": "董事",
+      "quote": "董海英女士...现任公司第九届董事会董事、天康制药股份有限公司董事。"
+    },
+    {
+      "name": "黄海滨",
+      "role": "董事、副总经理",
+      "quote": "黄海滨先生...现任公司党委委员、第九届董事会董事、副总经理。"
+    },
+    {
+      "name": "李刚",
+      "role": "独立董事",
+      "quote": "李刚先生...现任公司第九届董事会独立董事，新疆财经大学会计学院教授。"
+    },
+    {
+      "name": "陈克峰",
+      "role": "独立董事",
+      "quote": "陈克峰先生...现任公司第九届董事会独立董事、新疆四至律师事务所主任、专职律师。"
+    },
+    {
+      "name": "屈勇刚",
+      "role": "独立董事",
+      "quote": "屈勇刚先生...现任公司第九届董事会独立董事、石河子大学动物科技学院教授。"
+    },
+    {
+      "name": "王潇",
+      "role": "主管会计工作负责人、总会计师",
+      "quote": "主管会计工作负责人王潇...声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "段效岩",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）段效岩声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "于振江",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 于振江"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "新疆生产建设兵团国有资产经营有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东、实际控制人",
+      "quote": "控股股东、实际控制人、控股股东 新疆生产建设兵团国有资产经营有限责任公司 指"
+    },
+    {
+      "name": "胡杨河天康植物蛋白有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "植物蛋白、粕及食用植物油生产、销售",
+      "quote": "胡杨河天康植物蛋白有限公司...子公司...植物蛋白、粕及食用植物油生产、销售"
+    },
+    {
+      "name": "天康制药股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "从事生物技术领域内的技术开发",
+      "quote": "天康制药股份有限公司...子公司...从事生物技术领域内的技术开发"
+    },
+    {
+      "name": "河南天康宏展农牧科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "生猪养殖、销售",
+      "quote": "河南天康宏展农牧科技有限公司...子公司...生猪养殖、销售"
+    },
+    {
+      "name": "天康畜牧科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "种畜繁育及相关产品的销售",
+      "quote": "天康畜牧科技有限公司...子公司...种畜繁育及相关产品的销售"
+    },
+    {
+      "name": "天康饲料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "饲料生产、销售",
+      "quote": "天康饲料有限公司...子公司...饲料生产、销售"
+    },
+    {
+      "name": "新疆天康汇通农业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "农副产品收购及销售",
+      "quote": "新疆天康汇通农业有限公司...子公司...农副产品收购及销售"
+    },
+    {
+      "name": "新疆康正农业科技开发有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "向关联人采购玉米等原材料",
+      "quote": "新疆康正农业科技开发有限责任公司...采购玉米等原材料"
+    },
+    {
+      "name": "新疆三赢农业科技发展有限公司",
+      "relation_type": "supplier",
+      "business_details": "向关联人采购化肥",
+      "quote": "新疆三赢农业科技发展有限公司...采购化肥"
+    },
+    {
+      "name": "新疆中新建农牧有限责任公司",
+      "relation_type": "customer",
+      "business_details": "出售参股公司14%股权",
+      "quote": "新疆中新建农牧有限责任公司...出售参股公司新疆天熙生物有限责任公司14%股权"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "生猪养殖产业链行业",
+      "segment_type": "product_line",
+      "revenue_amount": "5,724,144,335.96元",
+      "revenue_proportion": "33.71%",
+      "gross_margin": "6.80%",
+      "yoy_change": "-7.02%",
+      "quote": "生猪养殖产业链行业 5,724,144,335.96 33.71%"
+    },
+    {
+      "name": "饲料行业",
+      "segment_type": "product_line",
+      "revenue_amount": "5,199,648,514.59元",
+      "revenue_proportion": "30.62%",
+      "gross_margin": "9.21%",
+      "yoy_change": "-2.72%",
+      "quote": "饲料行业 5,199,648,514.59 30.62%"
+    },
+    {
+      "name": "兽药行业",
+      "segment_type": "product_line",
+      "revenue_amount": "870,800,831.46元",
+      "revenue_proportion": "5.13%",
+      "gross_margin": "58.68%",
+      "yoy_change": "-12.79%",
+      "quote": "兽药行业 870,800,831.46 5.13%"
+    },
+    {
+      "name": "玉米收储行业",
+      "segment_type": "product_line",
+      "revenue_amount": "2,394,411,611.98元",
+      "revenue_proportion": "14.10%",
+      "gross_margin": "3.91%",
+      "yoy_change": "11.72%",
+      "quote": "玉米收储行业 2,394,411,611.98 14.10%"
+    },
+    {
+      "name": "蛋白油脂加工行业",
+      "segment_type": "product_line",
+      "revenue_amount": "2,131,871,347.85元",
+      "revenue_proportion": "12.55%",
+      "gross_margin": "7.22%",
+      "yoy_change": "27.54%",
+      "quote": "蛋白油脂加工行业 2,131,871,347.85 12.55%"
+    },
+    {
+      "name": "新疆区内",
+      "segment_type": "region",
+      "revenue_amount": "9,098,930,069.81元",
+      "revenue_proportion": "53.58%",
+      "gross_margin": "13.11%",
+      "yoy_change": "6.54%",
+      "quote": "新疆区内 9,098,930,069.81 53.58%"
+    },
+    {
+      "name": "新疆区外",
+      "segment_type": "region",
+      "revenue_amount": "7,882,144,629.45元",
+      "revenue_proportion": "46.42%",
+      "gross_margin": "6.35%",
+      "yoy_change": "-8.72%",
+      "quote": "新疆区外 7,882,144,629.45 46.42%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "饲料",
+      "metric_type": "sales_volume",
+      "value": "2,889,405 吨",
+      "period": "2025年",
+      "quote": "饲料 销售量 吨 2,889,405"
+    },
+    {
+      "product": "饲料",
+      "metric_type": "production_volume",
+      "value": "2,928,933 吨",
+      "period": "2025年",
+      "quote": "饲料 生产量 吨 2,928,933"
+    },
+    {
+      "product": "饲料",
+      "metric_type": "inventory_volume",
+      "value": "103,771 吨",
+      "period": "2025年末",
+      "quote": "饲料 库存量 吨 103,771"
+    },
+    {
+      "product": "动物疫苗",
+      "metric_type": "sales_volume",
+      "value": "202,107 万头份（毫升）",
+      "period": "2025年",
+      "quote": "制药 销售量 万头份（毫升） 202,107"
+    },
+    {
+      "product": "动物疫苗",
+      "metric_type": "production_volume",
+      "value": "176,678 万头份（毫升）",
+      "period": "2025年",
+      "quote": "制药 生产量 万头份（毫升） 176,678"
+    },
+    {
+      "product": "食品（肉制品）",
+      "metric_type": "sales_volume",
+      "value": "239,896 吨",
+      "period": "2025年",
+      "quote": "食品 销售量 吨 239,896"
+    },
+    {
+      "product": "食品（肉制品）",
+      "metric_type": "production_volume",
+      "value": "241,069 吨",
+      "period": "2025年",
+      "quote": "食品 生产量 吨 241,069"
+    },
+    {
+      "product": "蛋白油脂",
+      "metric_type": "sales_volume",
+      "value": "716,896 吨",
+      "period": "2025年",
+      "quote": "蛋白油脂 销售量 吨 716,896"
+    },
+    {
+      "product": "蛋白油脂",
+      "metric_type": "production_volume",
+      "value": "735,656 吨",
+      "period": "2025年",
+      "quote": "蛋白油脂 生产量 吨 735,656"
+    },
+    {
+      "product": "玉米",
+      "metric_type": "sales_volume",
+      "value": "1,231,775 吨",
+      "period": "2025年",
+      "quote": "玉米收储 销售量 吨 1,231,775"
+    },
+    {
+      "product": "玉米",
+      "metric_type": "production_volume",
+      "value": "1,507,516 吨",
+      "period": "2025年",
+      "quote": "玉米收储 生产量 吨 1,507,516"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "sales_volume",
+      "value": "319.02万头",
+      "period": "2025年",
+      "quote": "全年共出栏生猪319.02万头，同比增长5.34%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "陕西天康生物添加剂建设项目",
+      "project_type": "capacity_expansion",
+      "location": "陕西",
+      "investment_amount": "53,294,350.38元",
+      "designed_capacity": null,
+      "progress": "该项目于2025年11月开始投产，未达到满负荷运转生产",
+      "expected_completion_time": null,
+      "quote": "陕西天康生物添加剂建设项目...投资金额 53,294,350.38...该项目于2025年11月开始投产"
+    },
+    {
+      "name": "新疆天康金山农牧有限公司年出栏70000头种猪育成场项目",
+      "project_type": "capacity_expansion",
+      "location": "新疆",
+      "investment_amount": "59,754,239.80元",
+      "designed_capacity": null,
+      "progress": "该项目于2025年12月底开始试生产",
+      "expected_completion_time": null,
+      "quote": "新疆天康金山农牧有限公司年出栏70000头种猪育成场...投资金额 59,754,239.80...该项目于2025年12月底开始试生产"
+    },
+    {
+      "name": "新疆天康金山农牧有限公司2400头曾祖代繁育场项目",
+      "project_type": "capacity_expansion",
+      "location": "新疆",
+      "investment_amount": "50,432,063.82元",
+      "designed_capacity": null,
+      "progress": "项目尚未完工",
+      "expected_completion_time": null,
+      "quote": "新疆天康金山农牧有限公司2400头曾祖代繁育场...投资金额 50,432,063.82...项目尚未完工"
+    },
+    {
+      "name": "天康生物股份有限公司30万头仔猪繁育及20万头生猪育肥基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "43,000.07万元（调整后）",
+      "designed_capacity": null,
+      "progress": "变更了项目实施地点及实施主体，并顺延建设期限至2027年3月。",
+      "expected_completion_time": "2027年3月",
+      "quote": "天康生物股份有限公司30万头仔猪繁育及20万头生猪育肥基地建设项目...调整后投资总额 43,000.07...顺延建设期限至2027年3月。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家高等级生物安全三级实验室（P3）",
+      "asset_type": "certification",
+      "related_product": "动物疫苗研发",
+      "quantitative_info": null,
+      "quote": "拥有国家高等级生物安全三级实验室（P3），并通过中国合格评定国家认可委员会（CNAS）的评审。"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司研发中心是‘国家级企业技术中心’。"
+    },
+    {
+      "name": "新兽药证书",
+      "asset_type": "patent",
+      "related_product": "动物疫苗",
+      "quantitative_info": "30余项",
+      "quote": "取得30余项国家新兽药证书。"
+    },
+    {
+      "name": "发明和实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "300余项(含子公司）",
+      "quote": "300余项(含子公司）发明和实用新型专利。"
+    },
+    {
+      "name": "猪口蹄疫O型、A型二价合成肽疫苗",
+      "asset_type": "core_technology",
+      "related_product": "动物疫苗",
+      "quantitative_info": "取得《新兽药注册证书》和兽药产品批准文号",
+      "quote": "取得《新兽药注册证书》和兽药产品批准文号。用于预防猪只O型和A型口蹄疫病毒的攻击。"
+    },
+    {
+      "name": "猪伪狂犬病亚单位疫苗",
+      "asset_type": "core_technology",
+      "related_product": "动物疫苗",
+      "quantitative_info": "取得《新兽药注册证书》和兽药产品批准文号",
+      "quote": "取得《新兽药注册证书》和兽药产品批准文号。预防由猪伪狂犬病毒感染引起的疾病。"
+    },
+    {
+      "name": "布鲁氏菌病菌影疫苗（A19BG株）",
+      "asset_type": "core_technology",
+      "related_product": "动物疫苗",
+      "quantitative_info": "2025年11月获得临床试验批件",
+      "quote": "2025年11月获得临床试验批件。预防牛布鲁氏菌病。"
+    },
+    {
+      "name": "口蹄疫灭活疫苗工艺优化",
+      "asset_type": "process_technology",
+      "related_product": "口蹄疫疫苗",
+      "quantitative_info": null,
+      "quote": "通过对抗原培养、抗原纯化、制剂工艺等改进优化，完成对口蹄疫灭活疫苗的质量提升。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "11.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 11.88%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "5.07%",
+      "related_entity": "客户第一名",
+      "period": "2025年",
+      "quote": "1 客户第一名 860,431,738.91 5.07%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "5.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 5.01%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1.15%",
+      "related_entity": "供应商第一名",
+      "period": "2025年",
+      "quote": "1 供应商第一名 153,130,634.57 1.15%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "畜禽病害风险，特别是非洲猪瘟风险可能导致公司经营业绩波动。",
+      "related_entity": null,
+      "related_product": "生猪养殖、饲料、动物疫苗",
+      "quote": "1、畜禽病害风险...未来如果出现大规模不可控的畜禽病害，将在短期内引起公司经营业绩的波动。自2018年8月我国确定第一例‘非洲猪瘟’后，截至目前非洲猪瘟形势仍十分严峻。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "玉米、豆粕等主要原材料价格波动，将对公司饲料业务的业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": "饲料",
+      "quote": "2、原材料价格波动的风险...公司的主要原材料包括玉米、豆粕等，大宗农产品的价格波动，将对公司饲料业务的业绩产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "畜禽产品价格周期性波动，养殖效益下滑将对公司生猪养殖和饲料业务的业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": "生猪养殖、饲料",
+      "quote": "3、畜禽产品价格波动的风险...近年来国内畜禽产品价格呈现周期性的波动，养殖效益的下滑将对公司生猪养殖和饲料业务的业绩产生不利的影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全风险，一旦出现食品安全问题，将对公司的品牌和业绩产生不利的影响。",
+      "related_entity": null,
+      "related_product": "肉制品",
+      "quote": "4、食品安全的风险...一旦出现食品安全问题，将对公司的品牌和业绩产生不利的影响。"
+    }
+  ]
+}

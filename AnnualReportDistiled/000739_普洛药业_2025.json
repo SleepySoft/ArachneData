@@ -1,0 +1,444 @@
+{
+  "company_name_mentioned": "普洛药业股份有限公司",
+  "produces": [
+    {
+      "name": "创新药研发生产服务（CDMO）",
+      "type": "service",
+      "revenue_proportion": "22.46%",
+      "quote": "公司CDMO业务实现营业收入219,753.84万元，同比增长16.66%；...毛利率为45.24%。"
+    },
+    {
+      "name": "原料药中间体",
+      "type": "material",
+      "revenue_proportion": "63.02%",
+      "quote": "公司原料药中间体业务实现销售收入616,506.25万元，同比下降28.74%；...毛利率为13.53%。"
+    },
+    {
+      "name": "药品",
+      "type": "device",
+      "revenue_proportion": "11.75%",
+      "quote": "公司药品业务实现营业收入114,988.91万元，同比下降8.42%；...毛利率为61.55%。"
+    },
+    {
+      "name": "医美化妆品原料业务",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "医美化妆品原料业务拓展良好。"
+    }
+  ],
+  "procures": [],
+  "applications": [
+    {
+      "name": "创新药",
+      "source_product": "创新药研发生产服务（CDMO）",
+      "quote": "为全球创新药客户提供全生命周期的一站式研发生产服务"
+    },
+    {
+      "name": "医药制造",
+      "source_product": "原料药中间体",
+      "quote": "原料药中间体业务包括头孢系列、青霉素系列、精神类系列、心脑血管类系列和兽药原料药中间体系列"
+    },
+    {
+      "name": "医疗用药",
+      "source_product": "药品",
+      "quote": "药品业务包括抗感染类、心脑血管类、精神类和抗肿瘤类等品类。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "祝方猛",
+      "role": "董事长、公司负责人",
+      "quote": "公司负责人祝方猛"
+    },
+    {
+      "name": "何春",
+      "role": "总经理",
+      "quote": "现任公司总经理"
+    },
+    {
+      "name": "张进辉",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人张进辉"
+    },
+    {
+      "name": "石新跃",
+      "role": "会计机构负责人（会计主管人员）、职工代表董事",
+      "quote": "会计机构负责人（会计主管人员）石新跃"
+    },
+    {
+      "name": "周玉旺",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书周玉旺"
+    },
+    {
+      "name": "金旻",
+      "role": "高级副总经理",
+      "quote": "高级副总经理金旻"
+    },
+    {
+      "name": "蔡磊",
+      "role": "副总经理、CDMO事业部总经理",
+      "quote": "副总经理蔡磊"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "横店集团控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 指 横店集团控股有限公司"
+    },
+    {
+      "name": "东阳市横店社团经济企业联合会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人 指 东阳市横店社团经济企业联合会"
+    },
+    {
+      "name": "浙江普洛康裕制药有限公司（康裕制药）",
+      "relation_type": "subsidiary",
+      "business_details": "化学原料药及制剂制造等",
+      "quote": "公司名称：康裕制药，公司类型：子公司，主要业务：化学原料药及制剂制造等"
+    },
+    {
+      "name": "浙江普洛得邦制药有限公司（得邦制药）",
+      "relation_type": "subsidiary",
+      "business_details": "化学原料药及中间体制造等",
+      "quote": "公司名称：得邦制药，公司类型：子公司，主要业务：化学原料药及中间体制造等"
+    },
+    {
+      "name": "浙江横店普洛进出口有限公司（普洛进出口）",
+      "relation_type": "subsidiary",
+      "business_details": "自营和代理各类商品及技术进出口等",
+      "quote": "公司名称：普洛进出口，公司类型：子公司，主要业务：自营和代理各类商品及技术进出口等"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "原料药中间体",
+      "segment_type": "product_line",
+      "revenue_amount": "6,165,062,498.12元",
+      "revenue_proportion": "63.02%",
+      "gross_margin": "13.53%",
+      "yoy_change": null,
+      "quote": "原料药中间体：收入6,165,062,498.12元，占比63.02%，同比下降28.74%；毛利83,394.59万元，毛利率13.53%"
+    },
+    {
+      "name": "创新药研发生产服务",
+      "segment_type": "product_line",
+      "revenue_amount": "2,197,538,428.91元",
+      "revenue_proportion": "22.46%",
+      "gross_margin": "45.24%",
+      "yoy_change": null,
+      "quote": "创新药研发生产服务：收入2,197,538,428.91元，占比22.46%，同比增长16.66%；毛利99,419.82万元，毛利率45.24%"
+    },
+    {
+      "name": "药品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,149,889,050.37元",
+      "revenue_proportion": "11.75%",
+      "gross_margin": "61.55%",
+      "yoy_change": null,
+      "quote": "药品：收入1,149,889,050.37元，占比11.75%，同比下降8.42%；毛利70,774.86万元，毛利率61.55%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "5,447,500,987.69元",
+      "revenue_proportion": "55.68%",
+      "gross_margin": "24.58%",
+      "yoy_change": null,
+      "quote": "国内：收入5,447,500,987.69元，占比55.68%，同比下降17.87%；毛利率24.58%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "4,336,099,927.58元",
+      "revenue_proportion": "44.32%",
+      "gross_margin": "28.58%",
+      "yoy_change": null,
+      "quote": "国外：收入4,336,099,927.58元，占比44.32%，同比下降19.53%；毛利率28.58%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,633,711,864.90元",
+      "revenue_proportion": "88.25%",
+      "gross_margin": "21.67%",
+      "yoy_change": null,
+      "quote": "直销：收入8,633,711,864.90元，占比88.25%，同比下降19.81%；毛利率21.67%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "原料药中间体",
+      "metric_type": "sales_volume",
+      "value": "59,798,457.68 kg",
+      "period": "2025年",
+      "quote": "原料药中间体，销售量：59,798,457.68 kg"
+    },
+    {
+      "product": "原料药中间体",
+      "metric_type": "production_volume",
+      "value": "60,378,202.65 kg",
+      "period": "2025年",
+      "quote": "原料药中间体，生产量：60,378,202.65 kg"
+    },
+    {
+      "product": "创新药研发生产服务",
+      "metric_type": "sales_volume",
+      "value": "4,321,502.98 kg",
+      "period": "2025年",
+      "quote": "创新药研发生产服务，销售量：4,321,502.98 kg"
+    },
+    {
+      "product": "创新药研发生产服务",
+      "metric_type": "production_volume",
+      "value": "4,242,683.23 kg",
+      "period": "2025年",
+      "quote": "创新药研发生产服务，生产量：4,242,683.23 kg"
+    },
+    {
+      "product": "药品",
+      "metric_type": "sales_volume",
+      "value": "126,612,695.00 盒、瓶、支",
+      "period": "2025年",
+      "quote": "药品，销售量：126,612,695.00 盒、瓶、支"
+    },
+    {
+      "product": "药品",
+      "metric_type": "production_volume",
+      "value": "110,151,247.00 盒、瓶、支",
+      "period": "2025年",
+      "quote": "药品，生产量：110,151,247.00 盒、瓶、支"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "CDMO制造基地和美国波士顿实验室",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投入运营",
+      "expected_completion_time": null,
+      "quote": "CDMO制造基地和美国波士顿实验室投入运营"
+    },
+    {
+      "name": "生物发酵提取中试车间和多肽GMP中试生产线建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "生物发酵提取中试车间和多肽GMP中试生产线建设项目建成投产"
+    },
+    {
+      "name": "308、309氢化和溶剂回收车间",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投用",
+      "expected_completion_time": null,
+      "quote": "308、309氢化和溶剂回收车间已建成投用"
+    },
+    {
+      "name": "战略品种07101新工艺生产线建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "战略品种07101新工艺生产线建设项目完成"
+    },
+    {
+      "name": "年产200吨AP097、20吨AP111、40吨AP121技改项目以及年产500吨AP091和年产60吨AP089生产线扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产200吨AP097、20吨AP111、40吨AP121、500吨AP091、60吨AP089",
+      "progress": "建设完成",
+      "expected_completion_time": null,
+      "quote": "年产200吨AP097、20吨AP111、40吨AP121技改项目以及年产500吨AP091和年产60吨AP089生产线扩建项目建设完成"
+    },
+    {
+      "name": "2.2类司美格鲁肽注射液临床试验",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "Ⅲ期试验进展顺利，现已完成入组",
+      "expected_completion_time": null,
+      "quote": "对2.2类司美格鲁肽注射液进行临床试验，目前Ⅲ期试验进展顺利，现已完成入组"
+    },
+    {
+      "name": "预灌封注射剂生产线",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设完成，已在调试阶段",
+      "expected_completion_time": null,
+      "quote": "预灌封注射剂生产线建设完成，已在调试阶段"
+    },
+    {
+      "name": "年产20吨ZS25066A、100吨ZS25067A生产线技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产20吨ZS25066A、100吨ZS25067A",
+      "progress": "有序推进中",
+      "expected_completion_time": "预计2026年6月完工",
+      "quote": "年产20吨ZS25066A、100吨ZS25067A生产线技改项目有序推进中，预计2026年6月完工"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "流体化学技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "流体化学、晶体和粉体、合成生物学及酶催化、多肽、泛偶联、高活化合物、制备与纯化、寡核苷酸合成八个主要服务于API业务、CDMO业务和医美化妆品原料业务的技术平台。"
+    },
+    {
+      "name": "晶体和粉体技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "晶体与粉体技术平台可以为客户提供包括固态筛选、结晶工艺开发与优化到粉体加工与性能评估等一站式小分子药物开发服务。"
+    },
+    {
+      "name": "合成生物学及酶催化技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "合成生物学及酶催化技术平台致力于高效、稳定地开展生物生产过程研发工作..."
+    },
+    {
+      "name": "多肽技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "多肽技术平台专注于线性肽、环肽和修饰肽的固相合成（SPPS）、液相合成（LPPS）以及固液相结合的多肽合成技术..."
+    },
+    {
+      "name": "泛偶联技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "泛偶联技术平台可从靶点验证、靶点生成、先导化合物优化到临床开发，为靶向蛋白质降解疗法的开发提供全面的服务。"
+    },
+    {
+      "name": "高活化合物技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "高活化合物技术平台致力于高活化合物的开发和制造（包含ADC药物的毒素和连接子）..."
+    },
+    {
+      "name": "制备与纯化技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "制备与纯化技术平台专门从事制备色谱、手性分离和发酵产物分离..."
+    },
+    {
+      "name": "寡核苷酸合成技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "CDMO业务、原料药业务、医美化妆品原料业务",
+      "quantitative_info": null,
+      "quote": "寡核苷酸合成技术平台致力于寡核苷酸单体的合成与优化..."
+    },
+    {
+      "name": "缓控释制剂技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "药品业务",
+      "quantitative_info": null,
+      "quote": "在药品事业部，已建立了缓控释制剂、掩味技术和颗粒流体数字化三个技术平台。"
+    },
+    {
+      "name": "掩味技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "药品业务",
+      "quantitative_info": null,
+      "quote": "在药品事业部，已建立了缓控释制剂、掩味技术和颗粒流体数字化三个技术平台。"
+    },
+    {
+      "name": "颗粒流体数字化技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "药品业务",
+      "quantitative_info": null,
+      "quote": "在药品事业部，已建立了缓控释制剂、掩味技术和颗粒流体数字化三个技术平台。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司共递交专利申请427件（含PCT进入国家阶段专利申请46件）；拥有有效专利155件，其中，发明专利144件，实用新型专利11件。报告期内，公司共递交发明专利申请21件，获得发明专利授权11件。",
+      "quote": "截至本报告期末，公司共递交专利申请427件（含PCT进入国家阶段专利申请46件）；拥有有效专利155件，其中，发明专利144件，实用新型专利11件。报告期内，公司共递交发明专利申请21件，获得发明专利授权11件。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "1,223,541,055.31元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,223,541,055.31，前五名客户合计销售金额占年度销售总额比例 12.51%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,016,648,770.43元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,016,648,770.43，前五名供应商合计采购金额占年度采购总额比例 16.47%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "受外部宏观环境复杂多变、行业周期底部徘徊、相关品种需求疲软和行业竞争依旧激烈等多种因素影响，API业务面临较大的压力",
+      "related_entity": null,
+      "related_product": "原料药中间体",
+      "quote": "受外部宏观环境复杂多变、行业周期底部徘徊、相关品种需求疲软和行业竞争依旧激烈等多种因素影响，API业务面临较大的压力"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "近年来，随着医药政策改革的持续深化，国家出台了一系列政策法规，对药品研发、生产、销售各个环节的监管愈加严格，对药品生产企业的研发、生产、质量控制等各个方面提出了更高的要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业政策变动风险：...国家出台了一系列政策法规，对药品研发、生产、销售各个环节的监管愈加严格..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "医药行业的新产品研发周期长、难度大、技术要求高，同时可能受国家政策、市场环境、注册申报等多种不确定性造成的研发缓慢或失败的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "新产品研发注册风险：...受国家政策、市场环境、注册申报等多种不确定性造成的研发缓慢或失败的风险..."
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "在党中央生态文明建设及‘碳达峰、碳中和’战略目标的推动下，节能减排、安全环保的政策要求进一步提高，要求医药企业必须持续加大环保投入，保障绿色可持续生产。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "安全环保风险：...节能减排、安全环保的政策要求进一步提高，要求医药企业必须持续加大环保投入..."
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务收入主要以外币结算，受汇率波动影响；而汇率波动又受国内外政治、经济环境等多种复杂因素影响。汇率的波动会给公司带来汇兑损益",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险：公司出口业务收入主要以外币结算，受汇率波动影响；...汇率的波动会给公司带来汇兑损益..."
+    },
+    {
+      "risk_type": "other",
+      "description": "国际政治局势愈加复杂，全球供应链体系面临挑战，可能会对公司的国际化战略推进和海外业务拓展带来不利影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场环境变化风险：...国际政治局势愈加复杂，全球供应链体系面临挑战，可能会对公司的国际化战略推进和海外业务拓展带来不利影响..."
+    }
+  ]
+}

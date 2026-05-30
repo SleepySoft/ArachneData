@@ -1,0 +1,426 @@
+{
+  "company_name_mentioned": "浙江东晶电子股份有限公司",
+  "produces": [
+    {
+      "name": "石英晶体谐振器",
+      "type": "component",
+      "revenue_proportion": "66.41%",
+      "quote": "分产品 石英晶体元器件-谐振器 235,930,123.17 66.41%"
+    },
+    {
+      "name": "石英晶体振荡器",
+      "type": "component",
+      "revenue_proportion": "1.39%",
+      "quote": "分产品 ... 石英晶体元器件-振荡器 4,933,461.00 1.39%"
+    },
+    {
+      "name": "电池级碳酸锂",
+      "type": "material",
+      "revenue_proportion": "28.76%",
+      "quote": "分产品 ... 电池级碳酸锂 102,179,855.54 28.76%"
+    },
+    {
+      "name": "石英晶体元器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司一直专业从事石英晶体元器件的研发、生产和销售，主要经营产品包括石英晶体谐振器、振荡器等晶振产品。"
+    },
+    {
+      "name": "电池级碳酸锂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要从事电池级碳酸锂的生产和销售，电池级碳酸锂是磷酸铁锂、三元锂等锂离子电池正极材料的关键基础原料。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "外壳（DIP）/上盖（SMD）",
+      "target_product": "石英晶体元器件",
+      "cost_proportion": null,
+      "quote": "石英晶体元器件的原材料主要包括外壳（DIP）/上盖（SMD）、晶片、基座等。"
+    },
+    {
+      "name": "晶片",
+      "target_product": "石英晶体元器件",
+      "cost_proportion": null,
+      "quote": "石英晶体元器件的原材料主要包括外壳（DIP）/上盖（SMD）、晶片、基座等。"
+    },
+    {
+      "name": "基座",
+      "target_product": "石英晶体元器件",
+      "cost_proportion": null,
+      "quote": "石英晶体元器件的原材料主要包括外壳（DIP）/上盖（SMD）、晶片、基座等。"
+    },
+    {
+      "name": "工业级碳酸锂或粗制碳酸锂",
+      "target_product": "电池级碳酸锂",
+      "cost_proportion": null,
+      "quote": "公司采购的原材料主要包括工业级碳酸锂或粗制碳酸锂等，采购价格主要依据上海有色网（https://www.smm.cn）、我的钢铁网（https://www.mysteel.com）工业级碳酸锂现货价格前后一定期间均价每吨升水或贴水，或广州期货交易所（http://www.gfex.com.cn）电池级碳酸锂期货合约减去贴水而定。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "通讯、资讯、汽车电子、移动互联网、工业控制、家用电器、智能安防和航天军工",
+      "source_product": "石英晶体元器件",
+      "quote": "石英晶体元器件作为各类电子产品的重要组件之一，广泛应用于通讯、资讯、汽车电子、移动互联网、工业控制、家用电器、智能安防和航天军工等众多领域。"
+    },
+    {
+      "name": "新能源汽车动力电池、储能电池及消费电子类产品电池",
+      "source_product": "电池级碳酸锂",
+      "quote": "下游主要应用领域包括新能源汽车动力电池、储能电池及消费电子类产品电池等。"
+    },
+    {
+      "name": "电脑、调制解调器、机顶盒、无线系统等",
+      "source_product": "DIP晶体谐振器",
+      "quote": "序号 品类 主要用途 1 DIP晶体谐振器 电脑、调制解调器、机顶盒、无线系统等"
+    },
+    {
+      "name": "蓝牙、手机、无线局域网、视频/音频、硬盘、显示器、电视液晶屏、电脑外围设备、适用汽车电子等",
+      "source_product": "SMD晶体谐振器-SEAM",
+      "quote": "序号 品类 主要用途 ... 2 SMD晶体谐振器-SEAM 蓝牙、手机、无线局域网、视频/音频、硬盘、显示器、电视液晶屏、电脑外围设备、适用汽车电子等"
+    },
+    {
+      "name": "掌上电脑、无线局域网、数字无线电话、电脑外围设备、手提电脑、硬盘、MP3播放器、视频/音频、适用汽车电子等",
+      "source_product": "SMD晶体谐振器-GLASS",
+      "quote": "序号 品类 主要用途 ... 3 SMD晶体谐振器-GLASS 掌上电脑、无线局域网、数字无线电话、电脑外围设备、手提电脑、硬盘、MP3播放器、视频/音频、适用汽车电子等"
+    },
+    {
+      "name": "无线产品、通信产品自动化设备、全球定位系统和无线网络应用、适用汽车电子等",
+      "source_product": "SMD热敏晶体谐振器",
+      "quote": "序号 品类 主要用途 ... 4 SMD热敏晶体谐振器 无线产品、通信产品自动化设备、全球定位系统和无线网络应用、适用汽车电子等"
+    },
+    {
+      "name": "导航系统定位、通信定位、多媒体、高速数据中心、适用汽车电子等",
+      "source_product": "SMD音叉晶体谐振器",
+      "quote": "序号 品类 主要用途 ... 5 SMD音叉晶体谐振器 导航系统定位、通信定位、多媒体、高速数据中心、适用汽车电子等"
+    },
+    {
+      "name": "掌上电脑、无线局域网、PC、PDA、手机、蓝牙、高清电视、笔记本电脑、VGA卡、数字用户线路、机顶盒、适用汽车电子等",
+      "source_product": "SMD普通晶体振荡器",
+      "quote": "序号 品类 主要用途 ... 6 SMD普通晶体振荡器 掌上电脑、无线局域网、PC、PDA、手机、蓝牙、高清电视、笔记本电脑、VGA卡、数字用户线路、机顶盒、适用汽车电子等"
+    },
+    {
+      "name": "数字用户线库/IP电脑、无线局域网、高清电视、机顶盒等",
+      "source_product": "SMD压控晶体振荡器",
+      "quote": "序号 品类 主要用途 ... 7 SMD压控晶体振荡器 数字用户线库/IP电脑、无线局域网、高清电视、机顶盒等"
+    },
+    {
+      "name": "工业通讯、导航、雷达等",
+      "source_product": "SMD 差分晶体振荡器",
+      "quote": "序号 品类 主要用途 ... 8 SMD 差分晶体振荡器 工业通讯、导航、雷达等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱海飞",
+      "role": "公司负责人、董事长、总经理",
+      "quote": "公司负责人朱海飞、主管会计工作负责人胡静雯及会计机构负责人（会计主管人员）胡静雯声明..."
+    },
+    {
+      "name": "胡静雯",
+      "role": "主管会计工作负责人、会计机构负责人（会计主管人员）、财务总监",
+      "quote": "公司负责人朱海飞、主管会计工作负责人胡静雯及会计机构负责人（会计主管人员）胡静雯声明..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "无锡浩天一意投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司的控股股东变更为浩天一意。"
+    },
+    {
+      "name": "宁波梅山保税港区蓝海投控投资管理中心（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "同一控制下的企业（实际控制人均为朱海飞先生）",
+      "quote": "上述股东中，无锡浩天一意投资有限公司与宁波梅山保税港区蓝海投控投资管理中心（有限合伙）为同一控制下的企业（实际控制人均为朱海飞先生）。"
+    },
+    {
+      "name": "上海创锐投资管理有限公司",
+      "relation_type": "investor",
+      "business_details": "原股东，向浩天一意转让股份",
+      "quote": "上海创锐向浩天一意转让其持有的蓝海投控67.5302%有限合伙份额及思通卓志51%股权。"
+    },
+    {
+      "name": "宁波梅山保税港区思通卓志投资管理有限公司",
+      "relation_type": "investor",
+      "business_details": "原股东，向浩天一意转让股份",
+      "quote": "上海创锐向浩天一意转让其持有的蓝海投控67.5302%有限合伙份额及思通卓志51%股权。"
+    },
+    {
+      "name": "华金证券股份有限公司（代表华金证券—东吴证券尊选1号FOF单一资产管理计划—华金证券融汇321号单一资产管理计划，以下简称“华金资管”）",
+      "relation_type": "investor",
+      "business_details": "原股东，向浩天一意转让股份",
+      "quote": "华金资管向浩天一意转让其持有的公司股份21,456,036股（占公司总股本的8.81%）。"
+    },
+    {
+      "name": "华创证券有限责任公司（代表华创证券—华创证券钱景5号FOF单一资产管理计划—华创证券钱景8号单一资产管理计划，以下简称“华创资管”）",
+      "relation_type": "investor",
+      "business_details": "原股东，向浩天一意转让股份",
+      "quote": "华创资管向浩天一意转让其持有的公司股份14,580,000股（占公司总股本的5.99%）。"
+    },
+    {
+      "name": "宁波天沃贸易有限公司",
+      "relation_type": "investor",
+      "business_details": "原股东，向浩天一意转让股份",
+      "quote": "宁波天沃向浩天一意转让其持有的公司股份12,580,000股（占公司总股本的5.17%）。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "石英晶体元器件-谐振器",
+      "segment_type": "product_line",
+      "revenue_amount": "235,930,123.17元",
+      "revenue_proportion": "66.41%",
+      "gross_margin": "4.31%",
+      "yoy_change": "10.94%",
+      "quote": "分产品 石英晶体元器件-谐振器 235,930,123.17 66.41%"
+    },
+    {
+      "name": "石英晶体元器件-振荡器",
+      "segment_type": "product_line",
+      "revenue_amount": "4,933,461.00元",
+      "revenue_proportion": "1.39%",
+      "gross_margin": null,
+      "yoy_change": "63.46%",
+      "quote": "分产品 ... 石英晶体元器件-振荡器 4,933,461.00 1.39%"
+    },
+    {
+      "name": "电池级碳酸锂",
+      "segment_type": "product_line",
+      "revenue_amount": "102,179,855.54元",
+      "revenue_proportion": "28.76%",
+      "gross_margin": "8.25%",
+      "yoy_change": "100.00%",
+      "quote": "分产品 ... 电池级碳酸锂 102,179,855.54 28.76%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "12,224,198.57元",
+      "revenue_proportion": "3.44%",
+      "gross_margin": null,
+      "yoy_change": "714.48%",
+      "quote": "分产品 ... 其他 12,224,198.57 3.44%"
+    },
+    {
+      "name": "工业",
+      "segment_type": "other",
+      "revenue_amount": "355,267,638.28元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "6.80%",
+      "yoy_change": "63.57%",
+      "quote": "分行业 工业 355,267,638.28 100.00%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "324,664,067.18元",
+      "revenue_proportion": "91.39%",
+      "gross_margin": "4.36%",
+      "yoy_change": "69.19%",
+      "quote": "分地区 内销 324,664,067.18 91.39%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "30,603,571.10元",
+      "revenue_proportion": "8.61%",
+      "gross_margin": null,
+      "yoy_change": "20.94%",
+      "quote": "分地区 外销 30,603,571.10 8.61%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "174,559,816.50元",
+      "revenue_proportion": "49.14%",
+      "gross_margin": "13.00%",
+      "yoy_change": "177.70%",
+      "quote": "分销售模式 直销 174,559,816.50 49.14%"
+    },
+    {
+      "name": "中间商销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "168,483,623.21元",
+      "revenue_proportion": "47.42%",
+      "gross_margin": "-1.94%",
+      "yoy_change": "10.24%",
+      "quote": "分销售模式 中间商销售 168,483,623.21 47.42%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "石英晶体元器件",
+      "metric_type": "sales_volume",
+      "value": "172,248 万只",
+      "period": "2025年",
+      "quote": "石英晶体元器件 生产量 万只 172,248 147,902 16.46%"
+    },
+    {
+      "product": "石英晶体元器件",
+      "metric_type": "production_volume",
+      "value": "171,397 万只",
+      "period": "2025年",
+      "quote": "石英晶体元器件 生产量 万只 171,397 150,357 13.99%"
+    },
+    {
+      "product": "石英晶体元器件",
+      "metric_type": "inventory_volume",
+      "value": "4,546 万只",
+      "period": "2025年末",
+      "quote": "石英晶体元器件 ... 库存量 万只 4,546 5,397 -15.77%"
+    },
+    {
+      "product": "电池级碳酸锂",
+      "metric_type": "sales_volume",
+      "value": "1,274.90 吨",
+      "period": "2025年",
+      "quote": "电池级碳酸锂 ... 销售量 吨 1,274.90 100.00%"
+    },
+    {
+      "product": "电池级碳酸锂",
+      "metric_type": "production_volume",
+      "value": "1,314.90 吨",
+      "period": "2025年",
+      "quote": "电池级碳酸锂 ... 生产量 吨 1,314.90 100.00%"
+    },
+    {
+      "product": "电池级碳酸锂",
+      "metric_type": "inventory_volume",
+      "value": "40.00 吨",
+      "period": "2025年末",
+      "quote": "电池级碳酸锂 ... 库存量 吨 40.00 100.00%"
+    },
+    {
+      "product": "石英晶体元器件",
+      "metric_type": "capacity",
+      "value": "年产各类电子元器件20亿只",
+      "period": null,
+      "quote": "公司...已具备年产各类电子元器件20亿只的能力。"
+    },
+    {
+      "product": "电池级碳酸锂",
+      "metric_type": "capacity",
+      "value": "年产 5,000 吨电池级碳酸锂",
+      "period": null,
+      "quote": "形成了年产 5,000 吨电池级碳酸锂的产能规模。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "山西东拓电池级碳酸锂项目",
+      "project_type": "capacity_expansion",
+      "location": "山西",
+      "investment_amount": "2,000万元",
+      "designed_capacity": "年产5,000吨电池级碳酸锂",
+      "progress": "已完成设立并投产",
+      "expected_completion_time": null,
+      "quote": "2025年10月，公司获得大股东无息借款支持，在山西设立全资子公司，高效推进电池级碳酸锂业务的产业落地与投产运营...形成年产5,000吨电池级碳酸锂的规模化生产能力。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "核心知识产权",
+      "asset_type": "core_technology",
+      "related_product": "石英晶体元器件",
+      "quantitative_info": "数十项自主核心知识产权",
+      "quote": "公司深耕主业20余年...拥有数十项自主核心知识产权。"
+    },
+    {
+      "name": "专利权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司及子公司共拥有专利权86项，其中发明专利27项，实用新型专利59项。",
+      "quote": "截至报告期末，公司及子公司共拥有专利权86项，其中发明专利27项，实用新型专利59项。"
+    },
+    {
+      "name": "体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "ISO-9001、ISO-14001、ISO-45001、QC-080000、IATF-16949等体系认证以及AEC-Q200车规级被动元器件可靠性验证。",
+      "quote": "公司严格执行电子产业相关的国家标准、行业标准，已经通过ISO-9001、ISO-14001、ISO-45001、QC-080000、IATF-16949等体系认证以及AEC-Q200车规级被动元器件可靠性验证。"
+    },
+    {
+      "name": "光刻工艺攻克超高频技术壁垒",
+      "asset_type": "process_technology",
+      "related_product": "石英晶体元器件",
+      "quantitative_info": null,
+      "quote": "在此背景下，不少石英晶体元器件制造厂商趋于采用光刻工艺攻克超高频技术壁垒。"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "全资子公司东晶金华是国家级专精特新“小巨人”企业。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "48.08%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 48.08%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "18.20%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "1 第一名 64,673,574.56 18.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "64.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 64.15%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "27.61%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "1 第一名 78,179,187.47 27.61%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "公司股票被终止上市的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若公司2025年度出现《股票上市规则》第9.3.12条规定的相关情形，公司股票存在被终止上市的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "在石英晶体元器件领域，若未来发生下游终端需求减弱、行业竞争恶化、产品价格或毛利率持续下降等单方面或多方面的不利变化...；在电池级碳酸锂领域...产品价格也会受供需错配、库存周期等因素影响，可能导致短期内价格剧烈波动。",
+      "related_entity": null,
+      "related_product": "石英晶体元器件、电池级碳酸锂",
+      "quote": "公司主要从事石英晶体元器件的研发、生产与销售，以及电池级碳酸锂的生产与销售业务。在石英晶体元器件领域，若未来发生下游终端需求减弱、行业竞争恶化、产品价格或毛利率持续下降等单方面或多方面的不利变化...；在电池级碳酸锂领域...产品价格也会受供需错配、库存周期等因素影响，可能导致短期内价格剧烈波动..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "石英晶体元器件技术研发风险，如果行业实际发展状况脱离公司预期，或者公司技术研发遭遇技术瓶颈甚至失败、产品性能不及预期，将对公司产品的竞争力带来不利影响。",
+      "related_entity": null,
+      "related_product": "石英晶体元器件",
+      "quote": "电子信息产业技术发展迅猛...因而公司研发所涉及的技术升级和产品研发规划是在综合判断行业发展趋势、公司现有技术储备基础上做出的。如果行业实际发展状况脱离公司预期，或者公司技术研发遭遇技术瓶颈甚至失败、产品性能不及预期，将对公司产品的竞争力带来不利影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款回收和经营性现金流风险，如果客户发生重大不利或突发事件，或者公司不能持续完善应收账款的控制和管理，会造成应收账款不能及时收回而形成坏账，并影响公司当期净利润及经营性现金流。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末，公司应收账款期末余额8,155.18万元，占总资产的14.12%...未来如果客户发生重大不利或突发事件，或者公司不能持续完善应收账款的控制和管理，会造成应收账款不能及时收回而形成坏账，并影响公司当期净利润及经营性现金流。"
+    },
+    {
+      "risk_type": "other",
+      "description": "新兴业务拓展风险，如公司在新兴业务拓展方面因市场、技术、管理、合作等方面的原因遭遇引进、创新及整合风险，则可能延缓新兴业务的发展，进而可能拖累公司整体经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "除公司现有主营业务之外，公司也将探索其他新兴业务及合作样态。如公司在新兴业务拓展方面因市场、技术、管理、合作等方面的原因遭遇引进、创新及整合风险，则可能延缓新兴业务的发展，进而可能拖累公司整体经营业绩。"
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "company_name_mentioned": "英洛华科技股份有限公司",
+  "produces": [
+    {
+      "name": "烧结钕铁硼永磁材料",
+      "type": "material",
+      "revenue_proportion": "50.45%",
+      "quote": "公司是集钕铁硼永磁材料、电机系列产品、健康器材产品以及电子声学产品的研发、生产和销售为一体的多元化发展的高新技术企业。公司专业生产烧结、粘结钕铁硼永磁材料及磁组件...分产品：钕铁硼 1,959,548,222.26 50.45%"
+    },
+    {
+      "name": "粘结钕铁硼永磁材料",
+      "type": "material",
+      "revenue_proportion": "50.45%",
+      "quote": "公司是集钕铁硼永磁材料、电机系列产品、健康器材产品以及电子声学产品的研发、生产和销售为一体的多元化发展的高新技术企业。公司专业生产烧结、粘结钕铁硼永磁材料及磁组件...分产品：钕铁硼 1,959,548,222.26 50.45%"
+    },
+    {
+      "name": "电机系列产品",
+      "type": "device",
+      "revenue_proportion": "24.12%",
+      "quote": "公司电机系列产品主要包括交流、永磁直流、无刷、步进、伺服电机等微特电机和电动推杆执行器，平行轴、蜗轮、行星齿轮减速器、谐波减速器，以及各类电机驱动器...分产品：电机系列 936,999,515.45 24.12%"
+    },
+    {
+      "name": "电动轮椅及代步车系列（健康器材产品）",
+      "type": "device",
+      "revenue_proportion": "13.65%",
+      "quote": "公司延伸下游应用，目前涉及电动轮椅、电动代步车、助行器等健康器材产品...分产品：电动轮椅及代步车系列 530,055,010.89 13.65%"
+    },
+    {
+      "name": "音响扬声器类（电子声学产品）",
+      "type": "device",
+      "revenue_proportion": "7.38%",
+      "quote": "公司延伸下游应用，目前涉及...扬声器等电声产品的生产和销售。分产品：音响扬声器类 286,648,723.59 7.38%"
+    },
+    {
+      "name": "谐波减速器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司谐波减速器在传动精度、振动控制等关键性指标已跻身国内品牌第一梯队。"
+    },
+    {
+      "name": "磁组件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司专业生产烧结、粘结钕铁硼永磁材料及磁组件"
+    }
+  ],
+  "procures": [
+    {
+      "name": "稀土原材料（如钕、镝、铽、铈等）",
+      "target_product": "钕铁硼永磁材料",
+      "cost_proportion": null,
+      "quote": "原材料价格波动直接影响公司的生产成本、存货管理...公司将持续关注和优化原材料的库存管理，加强采购风险管控，与主要供应商建立长期稳定的合作关系，保障稳定的稀土原材料供应渠道。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车领域（包括新能源汽车）",
+      "source_product": "烧结、粘结钕铁硼永磁材料及磁组件",
+      "quote": "产品主要应用于汽车领域（包括新能源汽车）"
+    },
+    {
+      "name": "高端音响",
+      "source_product": "烧结、粘结钕铁硼永磁材料及磁组件",
+      "quote": "产品主要应用于...高端音响"
+    },
+    {
+      "name": "节能家电",
+      "source_product": "烧结、粘结钕铁硼永磁材料及磁组件",
+      "quote": "产品主要应用于...节能家电"
+    },
+    {
+      "name": "曳引机（电梯）",
+      "source_product": "烧结、粘结钕铁硼永磁材料及磁组件",
+      "quote": "产品主要应用于...曳引机"
+    },
+    {
+      "name": "节能电机",
+      "source_product": "烧结、粘结钕铁硼永磁材料及磁组件",
+      "quote": "产品主要应用于...节能电机"
+    },
+    {
+      "name": "智能消费电子",
+      "source_product": "烧结、粘结钕铁硼永磁材料及磁组件",
+      "quote": "产品主要应用于...智能消费电子"
+    },
+    {
+      "name": "风力发电",
+      "source_product": "烧结、粘结钕铁硼永磁材料及磁组件",
+      "quote": "产品主要应用于...风力发电等领域"
+    },
+    {
+      "name": "健康出行",
+      "source_product": "电机系列产品、电动轮椅、电动代步车",
+      "quote": "产品广泛应用于健康出行、园林农机、特色家电、安防领域、智能物流等领域"
+    },
+    {
+      "name": "园林农机",
+      "source_product": "电机系列产品",
+      "quote": "产品广泛应用于健康出行、园林农机、特色家电、安防领域、智能物流等领域"
+    },
+    {
+      "name": "特色家电",
+      "source_product": "电机系列产品",
+      "quote": "产品广泛应用于健康出行、园林农机、特色家电、安防领域、智能物流等领域"
+    },
+    {
+      "name": "安防领域",
+      "source_product": "电机系列产品",
+      "quote": "产品广泛应用于健康出行、园林农机、特色家电、安防领域、智能物流等领域"
+    },
+    {
+      "name": "智能物流",
+      "source_product": "电机系列产品",
+      "quote": "产品广泛应用于健康出行、园林农机、特色家电、安防领域、智能物流等领域"
+    },
+    {
+      "name": "泳池清洁机",
+      "source_product": "电机",
+      "quote": "欧美泳池保有量占据全球近九成...相比人工清洁，自动化设备清洁具备成本和效率优势，泳池清洁机市场持续扩容。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "魏中华",
+      "role": "公司负责人、董事长、总经理",
+      "quote": "公司负责人魏中华...现任本公司总经理、第十届董事会董事长"
+    },
+    {
+      "name": "刘桂平",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人刘桂平...现任本公司财务总监"
+    },
+    {
+      "name": "钱英红",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 钱英红"
+    },
+    {
+      "name": "徐文财",
+      "role": "董事",
+      "quote": "徐文财 男 60 董事 现任"
+    },
+    {
+      "name": "胡天高",
+      "role": "董事",
+      "quote": "胡天高 男 61 董事 现任"
+    },
+    {
+      "name": "厉宝平",
+      "role": "董事",
+      "quote": "厉宝平 男 62 董事 现任"
+    },
+    {
+      "name": "吴兴",
+      "role": "董事",
+      "quote": "吴 兴 男 54 董事 现任"
+    },
+    {
+      "name": "蒋懿",
+      "role": "董事（职工代表董事）",
+      "quote": "蒋 懿 男 39 董事 现任"
+    },
+    {
+      "name": "吴小康",
+      "role": "副总经理",
+      "quote": "吴小康 男 45 副总经理 现任"
+    },
+    {
+      "name": "厉世清",
+      "role": "副总经理",
+      "quote": "厉世清 男 61 副总经理 现任"
+    },
+    {
+      "name": "薛峰",
+      "role": "副总经理",
+      "quote": "薛 峰 男 43 副总经理 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "横店集团控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例39.48%",
+      "quote": "控股股东变更为横店集团控股有限公司。横店集团控股有限公司 境内非国有法人 39.48%"
+    },
+    {
+      "name": "东阳市横店社团经济企业联合会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "东阳市横店社团经济企业联合会为横店集团控股有限公司的控股股东，因此，东阳市横店社团经济企业联合会为本公司的实际控制人。"
+    },
+    {
+      "name": "横店集团东磁有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，持股比例8.65%，与控股股东为一致行动人",
+      "quote": "横店集团东磁有限公司 境内非国有法人 8.65%...横店集团控股有限公司与横店集团东磁有限公司、浙江横店进出口有限公司属于一致行动人。"
+    },
+    {
+      "name": "浙江横店进出口有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，持股比例1.07%，与控股股东为一致行动人",
+      "quote": "浙江横店进出口有限公司 境内非国有法人 1.07%...横店集团控股有限公司与横店集团东磁有限公司、浙江横店进出口有限公司属于一致行动人。"
+    },
+    {
+      "name": "浙江英洛华磁业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事钕铁硼磁性材料等业务",
+      "quote": "子公司英洛华磁业是高新技术企业...英洛华磁业 子公司 钕铁硼磁性材料、相关电子元器件、磁电产品的开发、生产、销售"
+    },
+    {
+      "name": "浙江联宜电机有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事电机、齿轮箱及配件业务",
+      "quote": "子公司联宜电机历史悠久...联宜电机 子公司 电机、齿轮箱及配件"
+    },
+    {
+      "name": "赣州市东磁稀土有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事稀土材料相关业务",
+      "quote": "子公司赣州东磁是高新技术企业...赣州东磁 子公司 （释义中提及）"
+    },
+    {
+      "name": "浙江英洛华康复器材有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事康复器材、电动轮椅、代步车业务",
+      "quote": "英洛华康复 子公司 康复器材、电动轮椅、代步车的研发、制造和销售"
+    },
+    {
+      "name": "浙江全方科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司（释义中提及）",
+      "quote": "全方科技 指 浙江全方科技有限公司"
+    },
+    {
+      "name": "TREFAN TECHNOLOGY (SINGAPORE) PTE. LTD.（新加坡全方）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，出资设立越南子公司",
+      "quote": "报告期内，TREFAN TECHNOLOGY (SINGAPORE) PTE. LTD.（“新加坡全方”）出资设立越南子公司"
+    },
+    {
+      "name": "TREFAN TECHNOLOGY(VIETNAM) COMPANY LIMITED（越南全方）",
+      "relation_type": "subsidiary",
+      "business_details": "孙公司，越南生产基地，由新加坡全方直接持股100%",
+      "quote": "越南子公司TREFAN TECHNOLOGY(VIETNAM) COMPANY LIMITED（“越南全方”），直接持股比例100%，本公司间接持股85%。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "钕铁硼",
+      "segment_type": "product_line",
+      "revenue_amount": "1,959,548,222.26元",
+      "revenue_proportion": "50.45%",
+      "gross_margin": "16.32%",
+      "yoy_change": "-7.41%",
+      "quote": "分产品：钕铁硼 1,959,548,222.26 50.45%...毛利率 16.32%...营业收入比上年同期增减 -7.41%"
+    },
+    {
+      "name": "电机系列",
+      "segment_type": "product_line",
+      "revenue_amount": "936,999,515.45元",
+      "revenue_proportion": "24.12%",
+      "gross_margin": "28.54%",
+      "yoy_change": "4.26%",
+      "quote": "分产品：电机系列 936,999,515.45 24.12%...毛利率 28.54%...营业收入比上年同期增减 4.26%"
+    },
+    {
+      "name": "电动轮椅及代步车系列",
+      "segment_type": "product_line",
+      "revenue_amount": "530,055,010.89元",
+      "revenue_proportion": "13.65%",
+      "gross_margin": "25.85%",
+      "yoy_change": "-11.45%",
+      "quote": "分产品：电动轮椅及代步车系列 530,055,010.89 13.65%...毛利率 25.85%...营业收入比上年同期增减 -11.45%"
+    },
+    {
+      "name": "音响扬声器类",
+      "segment_type": "product_line",
+      "revenue_amount": "286,648,723.59元",
+      "revenue_proportion": "7.38%",
+      "gross_margin": null,
+      "yoy_change": "36.55%",
+      "quote": "分产品：音响扬声器类 286,648,723.59 7.38%...营业收入比上年同期增减 36.55%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "171,054,035.92元",
+      "revenue_proportion": "4.40%",
+      "gross_margin": null,
+      "yoy_change": "-7.60%",
+      "quote": "分产品：其他 171,054,035.92 4.40%...营业收入比上年同期增减 -7.60%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "2,296,848,342.78元",
+      "revenue_proportion": "59.13%",
+      "gross_margin": "14.41%",
+      "yoy_change": "-0.73%",
+      "quote": "分地区：境内 2,296,848,342.78 59.13%...毛利率 14.41%...营业收入比上年同期增减 -0.73%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,587,457,165.33元",
+      "revenue_proportion": "40.87%",
+      "gross_margin": "28.42%",
+      "yoy_change": "-6.35%",
+      "quote": "分地区：境外 1,587,457,165.33 40.87%...毛利率 28.42%...营业收入比上年同期增减 -6.35%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "钕铁硼",
+      "metric_type": "sales_volume",
+      "value": "6,341.81 吨",
+      "period": "2025年",
+      "quote": "钕铁硼 销售量 吨 6,341.81"
+    },
+    {
+      "product": "钕铁硼",
+      "metric_type": "production_volume",
+      "value": "6,555.94 吨",
+      "period": "2025年",
+      "quote": "钕铁硼 生产量 吨 6,555.94"
+    },
+    {
+      "product": "钕铁硼",
+      "metric_type": "inventory_volume",
+      "value": "632.87 吨",
+      "period": "2025年末",
+      "quote": "钕铁硼 库存量 吨 632.87"
+    },
+    {
+      "product": "电机系列",
+      "metric_type": "sales_volume",
+      "value": "444.61 万台",
+      "period": "2025年",
+      "quote": "电机系列 销售量 万台 444.61"
+    },
+    {
+      "product": "电机系列",
+      "metric_type": "production_volume",
+      "value": "439.36 万台",
+      "period": "2025年",
+      "quote": "电机系列 生产量 万台 439.36"
+    },
+    {
+      "product": "电机系列",
+      "metric_type": "inventory_volume",
+      "value": "34.47 万台",
+      "period": "2025年末",
+      "quote": "电机系列 库存量 万台 34.47"
+    },
+    {
+      "product": "电动轮椅及代步车系列",
+      "metric_type": "sales_volume",
+      "value": "9.55 万台",
+      "period": "2025年",
+      "quote": "电动轮椅及代步车系列 销售量 万台 9.55"
+    },
+    {
+      "product": "电动轮椅及代步车系列",
+      "metric_type": "production_volume",
+      "value": "8.88 万台",
+      "period": "2025年",
+      "quote": "电动轮椅及代步车系列 生产量 万台 8.88"
+    },
+    {
+      "product": "电动轮椅及代步车系列",
+      "metric_type": "inventory_volume",
+      "value": "1.10 万台",
+      "period": "2025年末",
+      "quote": "电动轮椅及代步车系列 库存量 万台 1.10"
+    },
+    {
+      "product": "音响扬声器系列",
+      "metric_type": "sales_volume",
+      "value": "3,807.40 万只",
+      "period": "2025年",
+      "quote": "音响扬声器系列 销售量 万只 3,807.40"
+    },
+    {
+      "product": "音响扬声器系列",
+      "metric_type": "production_volume",
+      "value": "3,896.78 万只",
+      "period": "2025年",
+      "quote": "音响扬声器系列 生产量 万只 3,896.78"
+    },
+    {
+      "product": "音响扬声器系列",
+      "metric_type": "inventory_volume",
+      "value": "358.17 万只",
+      "period": "2025年末",
+      "quote": "音响扬声器系列 库存量 万只 358.17"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产5000吨烧结钕铁硼扩产项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "21,937,137.12元（截至报告期末累计投入）",
+      "designed_capacity": "年产5000吨烧结钕铁硼",
+      "progress": "60.00%",
+      "expected_completion_time": null,
+      "quote": "公司年产 5000 吨烧结钕铁硼扩产项目有序进行，目前主体厂房基建工程已基本完工，部分设备已进场调试安装。项目达产后，将有效扩大公司钕铁硼磁材的产能和业务规模...截至报告期末累计实际投入金额 21,937,137.12元...项目进度 60.00%"
+    },
+    {
+      "name": "越南生产基地",
+      "project_type": "other",
+      "location": "越南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正式投入运营，已实现多款电机的量产并发货",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司越南生产基地正式投入运营，已实现多款电机的量产并发货"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "晶界扩散和晶界重构技术",
+      "asset_type": "core_technology",
+      "related_product": "钕铁硼永磁材料",
+      "quantitative_info": null,
+      "quote": "公司通过高低温配方体系综合设计，晶界扩散和晶界重构技术在常规磁体、无重稀土磁体和含铈磁体等分类深化"
+    },
+    {
+      "name": "无重稀土技术",
+      "asset_type": "core_technology",
+      "related_product": "钕铁硼永磁材料",
+      "quantitative_info": null,
+      "quote": "快速转化量产多个具备高温稳定性的无重稀土 H 和 SH 牌号产品...加大无重稀土产品开发等举措"
+    },
+    {
+      "name": "压缩机低成本50SH材料",
+      "asset_type": "process_technology",
+      "related_product": "钕铁硼永磁材料",
+      "quantitative_info": "Hcj≥25.0kOe，Tb含量小于0.4%",
+      "quote": "开发压缩机用低成本材料，降低产品成本...已完成"
+    },
+    {
+      "name": "新能源汽车低成本用N48UH材料",
+      "asset_type": "process_technology",
+      "related_product": "钕铁硼永磁材料",
+      "quantitative_info": "Hcj＞26.38kOe，Dy含量小于0.05%，Tb含量小于0.5%",
+      "quote": "降低新能源汽车用磁体成本，提升产品毛利...已完成"
+    },
+    {
+      "name": "无重稀土48SH材料",
+      "asset_type": "process_technology",
+      "related_product": "钕铁硼永磁材料",
+      "quantitative_info": "Hcj≥20kOe；Dy和Tb含量小于0.05%",
+      "quote": "无重稀土材料需求...已完成"
+    },
+    {
+      "name": "新申请专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "126项",
+      "quote": "报告期内，公司新申请各类专利126项"
+    },
+    {
+      "name": "新获授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "162项",
+      "quote": "新获授权专利162项"
+    },
+    {
+      "name": "主导及参与制定标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主导国家标准1项、行业标准4项",
+      "quote": "公司主导国家标准1项、行业标准4项，均已正式发布"
+    },
+    {
+      "name": "国家级博士后工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "两家",
+      "quote": "公司拥有三家院士专家工作站、两家国家级博士后工作站"
+    },
+    {
+      "name": "省级博士后工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "一家",
+      "quote": "一家省级博士后工作站"
+    },
+    {
+      "name": "高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "英洛华磁业是高新技术企业...联宜电机是国家重点高新技术企业...赣州东磁是高新技术企业"
+    },
+    {
+      "name": "国家级专精特新‘小巨人’企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "赣州东磁获评国家专精特新‘小巨人’"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "767,382,368.74元，占年度销售总额比例19.76%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 767,382,368.74 前五名客户合计销售金额占年度销售总额比例 19.76%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "230,987,064.52元，占年度销售总额比例5.95%",
+      "related_entity": "第1名",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第1名 230,987,064.52 5.95%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "884,169,497.22元，占年度采购总额比例31.60%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 884,169,497.22 前五名供应商合计采购金额占年度采购总额比例 31.60%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "286,573,628.32元，占年度采购总额比例10.24%",
+      "related_entity": "第1名",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第1名 286,573,628.32 10.24%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司各板块业务面临日趋激烈的市场竞争，在开拓和维系客户，保持和提升利润率等方面存在一定的风险和挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争加剧的风险：公司各板块业务面临日趋激烈的市场竞争..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动直接影响公司的生产成本、存货管理，并在一定程度上造成销售收入的波动。",
+      "related_entity": null,
+      "related_product": "稀土原材料",
+      "quote": "原材料价格波动风险：原材料价格波动直接影响公司的生产成本、存货管理..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司所涉及产业的市场竞争力主要体现为产品和服务的技术领先性...如果出现核心技术人员流失或技术失密的情况，可能会在一定程度上影响公司技术实力和创新能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术失密和核心技术人员流失风险：公司所涉及产业的市场竞争力主要体现为产品和服务的技术领先性..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司所处行业发展与宏观经济政策、环境及下游行业景气度密切相关。若宏观经济政策发生变化或产业经济发展方向发生重大调整，或下游应用领域的需求发生变化，都会影响公司所处行业的发展趋势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济政策风险：公司所处行业发展与宏观经济政策、环境及下游行业景气度密切相关..."
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司存在一定比例的出口业务，因此人民币汇率的波动将在一定程度上给公司业绩带来影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险：公司存在一定比例的出口业务，因此人民币汇率的波动将在一定程度上给公司业绩带来影响。"
+    }
+  ]
+}

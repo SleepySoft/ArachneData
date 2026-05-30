@@ -1,0 +1,550 @@
+{
+  "company_name_mentioned": "安徽国风新材料股份有限公司",
+  "produces": [
+    {
+      "name": "双向拉伸聚丙烯薄膜（BOPP薄膜）",
+      "type": "material",
+      "revenue_proportion": "66.09%",
+      "quote": "薄膜材料 66.09%"
+    },
+    {
+      "name": "双向拉伸聚酯薄膜（BOPET薄膜）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "双向拉伸聚酯薄膜（BOPET薄膜）产品主要分为BOPET印刷及复合膜、BOPET热封膜、BOPET烫金转移基膜、BOPET电气绝缘薄膜..."
+    },
+    {
+      "name": "聚酰亚胺薄膜",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司聚酰亚胺薄膜材料可广泛应用于柔性显示、集成电路、芯片柔性封装、5G通信、新能源汽车、电气电子、航空航天等领域..."
+    },
+    {
+      "name": "新能源汽车配套材料",
+      "type": "component",
+      "revenue_proportion": "14.81%",
+      "quote": "新能源汽车配套材料 321,735,161.19 14.81%"
+    },
+    {
+      "name": "新型绿色环保木塑材料",
+      "type": "material",
+      "revenue_proportion": "5.65%",
+      "quote": "新型木塑材料 122,726,975.69 5.65%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "pp料",
+      "target_product": "薄膜材料",
+      "cost_proportion": "59.05%",
+      "quote": "主要原材料 采购模式 上半年平均价格 下半年平均价格 采购额占采购总额的比例 结算方式是否发生重大变化 pp料 市场化采购 59.05% 否 7,328.97 6,765.27"
+    },
+    {
+      "name": "PET料",
+      "target_product": "薄膜材料",
+      "cost_proportion": "17.58%",
+      "quote": "PET料 市场化采购 17.58% 否 6,086.58 5,850.21"
+    }
+  ],
+  "applications": [
+    {
+      "name": "中高端印刷包装",
+      "source_product": "双向拉伸聚丙烯薄膜（BOPP薄膜）",
+      "quote": "广泛用于中高端印刷包装、电子电器离型保护、建筑节能等领域。"
+    },
+    {
+      "name": "电子电器离型保护",
+      "source_product": "双向拉伸聚丙烯薄膜（BOPP薄膜）",
+      "quote": "广泛用于中高端印刷包装、电子电器离型保护、建筑节能等领域。"
+    },
+    {
+      "name": "印刷、复合、涂布、镀铝、热转移碳带、烫金转移、镭射、电气绝缘、医药包装、建筑等",
+      "source_product": "双向拉伸聚酯薄膜（BOPET薄膜）",
+      "quote": "广泛应用于印刷、复合、涂布、镀铝、热转移碳带、烫金转移、镭射、电气绝缘、医药包装、建筑等领域。"
+    },
+    {
+      "name": "柔性显示、集成电路、芯片柔性封装、5G通信、新能源汽车、电气电子、航空航天等",
+      "source_product": "聚酰亚胺薄膜",
+      "quote": "聚酰亚胺薄膜材料可广泛应用于柔性显示、集成电路、芯片柔性封装、5G通信、新能源汽车、电气电子、航空航天等领域"
+    },
+    {
+      "name": "国内国际的燃油、混动、纯电汽车零部件",
+      "source_product": "新能源汽车配套材料",
+      "quote": "主要应用于国内国际的燃油、混动、纯电汽车零部件"
+    },
+    {
+      "name": "户外设施、建筑装饰、室内家居、市政园林、旅游设施等",
+      "source_product": "新型绿色环保木塑材料",
+      "quote": "主要应用于户外设施、建筑装饰、室内家居、市政园林、旅游设施等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱亦斌",
+      "role": "董事长",
+      "quote": "公司负责人朱亦斌"
+    },
+    {
+      "name": "张家安",
+      "role": "董事、总经理",
+      "quote": "董事张家安...现任本公司党委副书记、董事、总经理。"
+    },
+    {
+      "name": "王冲",
+      "role": "总会计师",
+      "quote": "主管会计工作负责人王冲"
+    },
+    {
+      "name": "杨应林",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 杨应林"
+    },
+    {
+      "name": "李中亚",
+      "role": "董事",
+      "quote": "董事 李中亚"
+    },
+    {
+      "name": "毕功兵",
+      "role": "独立董事",
+      "quote": "独立董事 毕功兵"
+    },
+    {
+      "name": "尹宗成",
+      "role": "独立董事",
+      "quote": "独立董事 尹宗成"
+    },
+    {
+      "name": "李鹏峰",
+      "role": "独立董事",
+      "quote": "独立董事 李鹏峰"
+    },
+    {
+      "name": "徐文总",
+      "role": "独立董事",
+      "quote": "独立董事 徐文总"
+    },
+    {
+      "name": "程谦",
+      "role": "职工董事",
+      "quote": "职工董事 程谦"
+    },
+    {
+      "name": "李丰奎",
+      "role": "副总经理",
+      "quote": "副总经理 李丰奎"
+    },
+    {
+      "name": "门松涛",
+      "role": "副总经理",
+      "quote": "副总经理 门松涛"
+    },
+    {
+      "name": "吴明辉",
+      "role": "副总经理",
+      "quote": "副总经理 吴明辉"
+    },
+    {
+      "name": "刘振华",
+      "role": "副总经理",
+      "quote": "副总经理 刘振华"
+    },
+    {
+      "name": "孙善卫",
+      "role": "总工程师",
+      "quote": "总工程师 孙善卫"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "合肥市产业投资控股（集团）有限公司",
+      "relation_type": "investor",
+      "business_details": "系本公司控股股东",
+      "quote": "产投集团 指 合肥市产业投资控股（集团）有限公司，系本公司控股股东"
+    },
+    {
+      "name": "安徽国风木塑科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系本公司全资子公司",
+      "quote": "国风木塑公司 指 安徽国风木塑科技有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "合肥卓高资产管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系本公司全资子公司",
+      "quote": "合肥卓高公司 指 合肥卓高资产管理有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "芜湖国风塑胶科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系本公司全资子公司",
+      "quote": "芜湖国风公司 指 芜湖国风塑胶科技有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "合肥国风先进基础材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系本公司全资子公司",
+      "quote": "国风先基公司 指 合肥国风先进基础材料科技有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "安徽国风新材料技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系本公司全资子公司",
+      "quote": "国风新材料研究院 指 安徽国风新材料技术有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "安庆国风新能源材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系本公司全资子公司",
+      "quote": "安庆国风公司 指 安庆国风新能源材料有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "合肥国风光电材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系本公司全资子公司",
+      "quote": "国风光电公司 指 合肥国风光电材料有限公司，系本公司全资子公司"
+    },
+    {
+      "name": "合肥国耀资本投资管理有限公司",
+      "relation_type": "investor",
+      "business_details": "系本公司参股公司",
+      "quote": "国耀资本 指 合肥国耀资本投资管理有限公司，系本公司参股公司"
+    },
+    {
+      "name": "太湖金张科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司正推进并购其控股权。",
+      "quote": "金张科技 指 太湖金张科技股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "薄膜材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,435,241,736.00",
+      "revenue_proportion": "66.09%",
+      "gross_margin": "4.84%",
+      "yoy_change": "5.41%",
+      "quote": "薄膜材料 1,435,241,736.00 66.09% 1,361,635,994.05 58.84% 5.41%"
+    },
+    {
+      "name": "新能源汽车配套材料",
+      "segment_type": "product_line",
+      "revenue_amount": "321,735,161.19",
+      "revenue_proportion": "14.81%",
+      "gross_margin": "4.80%",
+      "yoy_change": "-21.41%",
+      "quote": "新能源汽车配套材料 321,735,161.19 14.81% 409,374,229.45 17.69% -21.41%"
+    },
+    {
+      "name": "新型木塑材料",
+      "segment_type": "product_line",
+      "revenue_amount": "122,726,975.69",
+      "revenue_proportion": "5.65%",
+      "gross_margin": "22.98%",
+      "yoy_change": "7.45%",
+      "quote": "新型木塑材料 122,726,975.69 5.65% 114,221,009.18 4.94% 7.45%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "292,008,077.63",
+      "revenue_proportion": "13.45%",
+      "gross_margin": "1.86%",
+      "yoy_change": "-31.94%",
+      "quote": "其他 292,008,077.63 13.45% 429,063,936.46 18.54% -31.94%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,860,351,887.65",
+      "revenue_proportion": "85.66%",
+      "gross_margin": "2.98%",
+      "yoy_change": "-6.92%",
+      "quote": "国内 1,860,351,887.65 85.66% 1,998,699,364.79 86.36% -6.92%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "311,360,062.86",
+      "revenue_proportion": "14.34%",
+      "gross_margin": "20.30%",
+      "yoy_change": "-1.34%",
+      "quote": "国外 311,360,062.86 14.34% 315,595,804.35 13.64% -1.34%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,596,098,810.54",
+      "revenue_proportion": "73.49%",
+      "gross_margin": null,
+      "yoy_change": "-18.12%",
+      "quote": "直销 1,596,098,810.54 73.49% 1,949,249,566.25 84.23% -18.12%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "575,613,139.97",
+      "revenue_proportion": "26.51%",
+      "gross_margin": null,
+      "yoy_change": "57.68%",
+      "quote": "经销 575,613,139.97 26.51% 365,045,602.89 15.77% 57.68%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "薄膜材料",
+      "metric_type": "capacity",
+      "value": "18.5万吨",
+      "period": "报告期",
+      "quote": "薄膜材料 18.5万吨"
+    },
+    {
+      "product": "薄膜材料",
+      "metric_type": "capacity_utilization",
+      "value": "79.03%",
+      "period": "报告期",
+      "quote": "79.03%"
+    },
+    {
+      "product": "薄膜材料",
+      "metric_type": "production_volume",
+      "value": "14.62万吨",
+      "period": "报告期",
+      "quote": "生产量 万吨 14.62"
+    },
+    {
+      "product": "薄膜材料",
+      "metric_type": "sales_volume",
+      "value": "14.15万吨",
+      "period": "报告期",
+      "quote": "销售量 万吨 14.15"
+    },
+    {
+      "product": "薄膜材料",
+      "metric_type": "inventory_volume",
+      "value": "0.86万吨",
+      "period": "报告期末",
+      "quote": "库存量 万吨 0.86"
+    },
+    {
+      "product": "新能源汽车配套材料",
+      "metric_type": "capacity",
+      "value": "0.76万吨",
+      "period": "报告期",
+      "quote": "新能源汽车配套材料 0.76万吨"
+    },
+    {
+      "product": "新能源汽车配套材料",
+      "metric_type": "capacity_utilization",
+      "value": "34.21%",
+      "period": "报告期",
+      "quote": "34.21%"
+    },
+    {
+      "product": "新能源汽车配套材料",
+      "metric_type": "production_volume",
+      "value": "0.26万吨",
+      "period": "报告期",
+      "quote": "生产量 万吨 0.26"
+    },
+    {
+      "product": "新能源汽车配套材料",
+      "metric_type": "sales_volume",
+      "value": "0.25万吨",
+      "period": "报告期",
+      "quote": "销售量 万吨 0.25"
+    },
+    {
+      "product": "新能源汽车配套材料",
+      "metric_type": "inventory_volume",
+      "value": "0.06万吨",
+      "period": "报告期末",
+      "quote": "库存量 万吨 0.06"
+    },
+    {
+      "product": "新型木塑材料",
+      "metric_type": "capacity",
+      "value": "4万吨",
+      "period": "报告期",
+      "quote": "新型木塑材料 4万吨"
+    },
+    {
+      "product": "新型木塑材料",
+      "metric_type": "capacity_utilization",
+      "value": "44.00%",
+      "period": "报告期",
+      "quote": "44.00%"
+    },
+    {
+      "product": "新型木塑材料",
+      "metric_type": "production_volume",
+      "value": "1.81万吨",
+      "period": "报告期",
+      "quote": "生产量 万吨 1.81"
+    },
+    {
+      "product": "新型木塑材料",
+      "metric_type": "sales_volume",
+      "value": "1.77万吨",
+      "period": "报告期",
+      "quote": "销售量 万吨 1.77"
+    },
+    {
+      "product": "新型木塑材料",
+      "metric_type": "inventory_volume",
+      "value": "0.23万吨",
+      "period": "报告期末",
+      "quote": "库存量 万吨 0.23"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产3.8万吨高端功能性聚丙烯薄膜项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投产后运行稳定，进入产能爬坡阶段",
+      "expected_completion_time": null,
+      "quote": "年产3.8万吨高端功能性薄膜项目投产后运行稳定，进入产能爬坡阶段"
+    },
+    {
+      "name": "年产10亿平米光学级聚酯基膜项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "G1线进入调试阶段，G2线启动设备安装工作",
+      "expected_completion_time": null,
+      "quote": "年产10亿平米光学基膜项目G1线进入调试阶段，G2线启动设备安装工作"
+    },
+    {
+      "name": "电子级聚酰亚胺薄膜生产线",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "化法电子级聚酰亚胺薄膜生产线顺利投料",
+      "expected_completion_time": null,
+      "quote": "化法电子级聚酰亚胺薄膜生产线顺利投料"
+    },
+    {
+      "name": "安庆新能源材料制造项目",
+      "project_type": "construction_project",
+      "location": "安庆",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成厂房联合验收",
+      "expected_completion_time": null,
+      "quote": "安庆新能源材料制造项目完成厂房联合验收。"
+    },
+    {
+      "name": "年产12000吨光学级聚酯功能材料产业化项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产12000吨光学级聚酯功能材料",
+      "progress": "取得环评批复",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司全资子公司合肥国风先进基础材料科技有限公司年产12000吨光学级聚酯功能材料产业化项目取得环评批复。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "薄膜材料产品相关专利",
+      "asset_type": "patent",
+      "related_product": "薄膜材料",
+      "quantitative_info": "发明专利105项，实用新型专利209项",
+      "quote": "公司拥有薄膜材料产品相关发明专利105项，实用新型专利209项。"
+    },
+    {
+      "name": "新能源汽车配套材料产品相关专利",
+      "asset_type": "patent",
+      "related_product": "新能源汽车配套材料",
+      "quantitative_info": "发明专利49项，实用新型专利45项",
+      "quote": "公司拥有新能源汽车配套材料产品相关发明专利49项，实用新型专利45项。"
+    },
+    {
+      "name": "新型木塑材料产品相关专利",
+      "asset_type": "patent",
+      "related_product": "新型木塑材料",
+      "quantitative_info": "发明专利17项，实用新型专利27项、外观设计专利23项",
+      "quote": "公司拥有新型木塑材料产品相关发明专利17项，实用新型专利27项、外观设计专利23项。"
+    },
+    {
+      "name": "授权专利总计",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "共获得授权专利481项，其中发明专利181项",
+      "quote": "截至报告期末，共获得授权专利481项，其中发明专利181项"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托国家级企业技术中心"
+    },
+    {
+      "name": "安徽省先进聚酰亚胺材料工程研究中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "加速推进安徽省先进聚酰亚胺材料工程研究中心建设"
+    },
+    {
+      "name": "5G通讯用高导热聚酰亚胺碳基膜研发团队",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "被认定为2020年庐州产业创新团队",
+      "quote": "5G通讯用高导热聚酰亚胺碳基膜研发团队被认定为2020年庐州产业创新团队"
+    },
+    {
+      "name": "高导热石墨膜用聚酰亚胺膜研发团队",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "入选安徽省“115”产业创新团队",
+      "quote": "高导热石墨膜用聚酰亚胺膜研发团队入选安徽省“115”产业创新团队。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "15.00%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 15.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "31.76%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 31.76%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "传统薄膜产品价格竞争加剧，中低端领域结构性供需错配问题依旧突出，市场竞争更趋白热化。",
+      "related_entity": null,
+      "related_product": "薄膜材料",
+      "quote": "受新增产能持续释放影响，行业产能保持增长，中低端领域结构性供需错配问题依旧突出，市场竞争更趋白热化，传统薄膜产品价格竞争加剧。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "高性能、特种薄膜国产化进程明显提速，需要持续投入研发以保持竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在电子信息、新型显示、新能源等新兴领域需求驱动下，高性能、特种薄膜国产化进程明显提速"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司2025年度未实现盈利，存在经营持续承压的严峻形势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净利润三者孰低为负值...面对经营持续承压的严峻形势"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "company_name_mentioned": "广东新宝电器股份有限公司",
+  "produces": [
+    {
+      "name": "西式小家电",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司目前主要业务是西式小家电的出口销售，同时大力开拓国内自主品牌业务"
+    },
+    {
+      "name": "厨房电器",
+      "type": "device",
+      "revenue_proportion": "69.03%",
+      "quote": "分产品：厨房电器 11,177,554,280.28 69.03%"
+    },
+    {
+      "name": "家居电器",
+      "type": "device",
+      "revenue_proportion": "16.77%",
+      "quote": "家居电器 2,715,025,693.39 16.77%"
+    },
+    {
+      "name": "其他产品",
+      "type": "device",
+      "revenue_proportion": "11.40%",
+      "quote": "其他产品 1,846,544,473.61 11.40%"
+    },
+    {
+      "name": "自主品牌产品",
+      "type": "device",
+      "revenue_proportion": "14.33%",
+      "quote": "分销售模式：自主品牌 2,319,909,136.04 14.33%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "小家电",
+      "cost_proportion": "75.02%",
+      "quote": "直接材料 9,431,668,184.04 75.02%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "小家电",
+      "cost_proportion": "12.91%",
+      "quote": "直接人工 1,623,581,454.49 12.91%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "小家电",
+      "cost_proportion": "9.86%",
+      "quote": "制造费用 1,239,660,103.64 9.86%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家庭厨房",
+      "source_product": "厨房电器",
+      "quote": "主要产品有电热水壶、电热咖啡机、面包机、打蛋机、多士炉、搅拌机、果汁机、吸尘器、电烤箱、食物处理器、空气炸锅、电熨斗、空气清新机、电动牙刷、暖奶器、打奶机、净水器、加湿器、煮茶器、制冰机等电器产品"
+    },
+    {
+      "name": "家居环境",
+      "source_product": "家居电器",
+      "quote": "在巩固提升现有厨房电器、家居电器等优势产品的基础上"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郭建刚",
+      "role": "董事长、实际控制人",
+      "quote": "郭建刚先生，1966年出生...现任本公司董事长。"
+    },
+    {
+      "name": "郭建强",
+      "role": "副董事长",
+      "quote": "郭建强先生，1968年出生...现任本公司副董事长。"
+    },
+    {
+      "name": "王伟",
+      "role": "董事、总裁",
+      "quote": "王伟先生，1972年出生...现任本公司董事、总裁"
+    },
+    {
+      "name": "曾展晖",
+      "role": "董事、管理顾问",
+      "quote": "曾展晖先生，1972年出生...现任本公司董事、管理顾问"
+    },
+    {
+      "name": "朱小梅",
+      "role": "董事、常务副总裁",
+      "quote": "朱小梅女士，1976年出生...现任本公司海外营销首席营销官、董事、常务副总裁"
+    },
+    {
+      "name": "蒋演彪",
+      "role": "高级副总裁、财务总监",
+      "quote": "蒋演彪先生，1975年出生...现任本公司高级副总裁、财务总监。"
+    },
+    {
+      "name": "张军",
+      "role": "营运副总裁",
+      "quote": "张军先生，1979年出生...现任公司营运副总裁"
+    },
+    {
+      "name": "陈景山",
+      "role": "董事会秘书",
+      "quote": "陈景山先生，1978年出生...现任本公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广东东菱凯琴集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "广东东菱凯琴集团有限公司（以下简称“东菱集团”）"
+    },
+    {
+      "name": "东菱电器集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东，由控股股东控制",
+      "quote": "东菱电器集团有限公司（DongLingElectricalGroupCo.Limited）"
+    },
+    {
+      "name": "印尼东菱科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司在印度尼西亚投资设立的境外制造基地",
+      "quote": "印尼东菱科技有限公司（PTDonlimTechnologyIndonesia）"
+    },
+    {
+      "name": "广东东菱智慧电器有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要业务为家用电器制造、研发等",
+      "quote": "广东东菱智慧电器有限公司是公司的全资子公司"
+    },
+    {
+      "name": "龙图企业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "龙图企业有限公司（DragonWillEnterpriseLimited）"
+    },
+    {
+      "name": "摩飞消费电器公司（MORPHYRICHARDSCONSUMERAPPLIANCESLIMITED）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "摩飞消费电器公司（MORPHYRICHARDSCONSUMERAPPLIANCESLIMITED）"
+    },
+    {
+      "name": "印尼和声东菱有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "印尼和声东菱有限公司（PTSelarasDonlimIndonesia）"
+    },
+    {
+      "name": "威林股份",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "威林股份 指 广东威林工程塑料股份有限公司"
+    },
+    {
+      "name": "凯恒电机",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "凯恒电机 指 广东凯恒电机有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "小家电行业",
+      "segment_type": "product_line",
+      "revenue_amount": "15,739,124,447.28元",
+      "revenue_proportion": "97.20%",
+      "gross_margin": "20.12%",
+      "yoy_change": "-4.70%",
+      "quote": "分行业：小家电行业 15,739,124,447.28 97.20% ... 毛利率 20.12% ... 营业收入比上年同期增减 -4.70%"
+    },
+    {
+      "name": "厨房电器",
+      "segment_type": "product_line",
+      "revenue_amount": "11,177,554,280.28元",
+      "revenue_proportion": "69.03%",
+      "gross_margin": "20.65%",
+      "yoy_change": "-2.88%",
+      "quote": "分产品：厨房电器 11,177,554,280.28 69.03% ... 毛利率 20.65% ... 营业收入比上年同期增减 -2.88%"
+    },
+    {
+      "name": "家居电器",
+      "segment_type": "product_line",
+      "revenue_amount": "2,715,025,693.39元",
+      "revenue_proportion": "16.77%",
+      "gross_margin": "18.71%",
+      "yoy_change": "-7.09%",
+      "quote": "家居电器 2,715,025,693.39 16.77% ... 毛利率 18.71% ... 营业收入比上年同期增减 -7.09%"
+    },
+    {
+      "name": "其他产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,846,544,473.61元",
+      "revenue_proportion": "11.40%",
+      "gross_margin": "18.98%",
+      "yoy_change": "-11.43%",
+      "quote": "其他产品 1,846,544,473.61 11.40% ... 毛利率 18.98% ... 营业收入比上年同期增减 -11.43%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "12,658,042,162.63元",
+      "revenue_proportion": "78.17%",
+      "gross_margin": "19.38%",
+      "yoy_change": "-3.78%",
+      "quote": "分地区：国外销售 12,658,042,162.63 78.17% ... 毛利率 19.38% ... 营业收入比上年同期增减 -3.78%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "3,534,011,635.09元",
+      "revenue_proportion": "21.83%",
+      "gross_margin": "25.92%",
+      "yoy_change": "-3.60%",
+      "quote": "国内销售 3,534,011,635.09 21.83% ... 毛利率 25.92% ... 营业收入比上年同期增减 -3.60%"
+    },
+    {
+      "name": "全球ODM/OEM等",
+      "segment_type": "sales_channel",
+      "revenue_amount": "13,872,144,661.68元",
+      "revenue_proportion": "85.67%",
+      "gross_margin": "18.84%",
+      "yoy_change": "-3.27%",
+      "quote": "分销售模式：全球ODM/OEM等 13,872,144,661.68 85.67% ... 毛利率 18.84% ... 营业收入比上年同期增减 -3.27%"
+    },
+    {
+      "name": "自主品牌",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,319,909,136.04元",
+      "revenue_proportion": "14.33%",
+      "gross_margin": "32.58%",
+      "yoy_change": "-6.43%",
+      "quote": "自主品牌 2,319,909,136.04 14.33% ... 毛利率 32.58% ... 营业收入比上年同期增减 -6.43%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "小家电行业",
+      "metric_type": "sales_volume",
+      "value": "13,717.96万台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 万台 13,717.96 14,859.78 -7.68%"
+    },
+    {
+      "product": "小家电行业",
+      "metric_type": "production_volume",
+      "value": "13,434.39万台",
+      "period": "2025年",
+      "quote": "生产量 万台 13,434.39 15,236.16 -11.83%"
+    },
+    {
+      "product": "小家电行业",
+      "metric_type": "inventory_volume",
+      "value": "1,267.73万台",
+      "period": "2025年末",
+      "quote": "库存量 万台 1,267.73 1,616.07 -21.55%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "印尼东菱科技有限公司二期制造基地",
+      "project_type": "capacity_expansion",
+      "location": "印度尼西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年开始投产，产能尚处于爬坡阶段",
+      "expected_completion_time": null,
+      "quote": "公司在印度尼西亚建设的二期制造基地2025年开始投产，产能尚处于爬坡阶段"
+    },
+    {
+      "name": "创意小家电建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "25,050.00万元",
+      "designed_capacity": null,
+      "progress": "仍处于建设期，投资进度为91.29%",
+      "expected_completion_time": "2027年12月31日",
+      "quote": "创意小家电建设项目 ... 承诺投资总额 25,050.00 ... 截至期末累计投入金额 22,867.94 ... 投资进度 91.29% ... 项目达到预定可使用状态日期 2027年12月31日"
+    },
+    {
+      "name": "压铸类小家电建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "30,200.00万元（调整后投资总额27,587.59万元）",
+      "designed_capacity": null,
+      "progress": "2025年12月15日已实施完毕达到预定可使用状态",
+      "expected_completion_time": "2025年12月15日（已完工）",
+      "quote": "压铸类小家电建设项目 ... 承诺投资总额 30,200.00 ... 调整后投资总额 27,587.59 ... 截至期末累计投入金额 26,706.02 ... 投资进度 100.00% ... 项目达到预定可使用状态日期 2025年12月15日"
+    },
+    {
+      "name": "品牌营销管理中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "36,350.00万元（调整后投资总额38,889.13万元）",
+      "designed_capacity": null,
+      "progress": "仍处于建设期，投资进度为15.40%",
+      "expected_completion_time": "2027年12月31日",
+      "quote": "品牌营销管理中心建设项目 ... 承诺投资总额 36,350.00 ... 调整后投资总额 38,889.13 ... 截至期末累计投入金额 5,988.57 ... 投资进度 15.40% ... 项目达到预定可使用状态日期 2027年12月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "电器研究院",
+      "asset_type": "technical_platform",
+      "related_product": "小家电",
+      "quantitative_info": null,
+      "quote": "公司于2024年设立了电器研究院，未来会扩展核心研究领域"
+    },
+    {
+      "name": "四级研发体系",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "坚持四级研发体系，增加对新宝电器研究院及基础性、前瞻性技术研究的投入：一级基础技术研究（新宝电器研究院）；二级创新产品研发；三级全新产品开发；四级衍生产品开发。"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入金额550,308,217.90元，占营业收入比例3.40%",
+      "quote": "研发投入金额（元） 550,308,217.90 ... 研发投入占营业收入比例 3.40%"
+    },
+    {
+      "name": "研发人员",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发人员数量3,066人，占员工总数比例8.75%",
+      "quote": "研发人员数量（人） 3,066 ... 研发人员数量占比 8.75%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "19.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 19.52%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "6.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 6.20%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "6.42%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "客户名称 销售额（元） 占年度销售总额比例 1 第一名 1,039,548,400.81 6.42%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1.53%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "供应商名称 采购额（元） 占年度采购总额比例 1 第一名 152,164,670.70 1.53%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国际市场需求下降风险：公司出口比例较高，产品主要销往美洲和欧洲。一旦国际市场需求不足，公司将面临销售收入下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场风险（1）国际市场需求下降风险...一旦国际市场需求不足，公司将面临国际市场需求下降导致销售收入下降的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内市场开拓风险：小家电国内市场行业内竞争持续加剧。如果未来国内市场出现重大变化或国内市场开拓不力，公司经营业绩的持续稳定增长将受到不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）国内市场开拓风险...如果未来国内市场出现重大变化或国内市场开拓不力，公司经营业绩的持续稳定增长将受到不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争风险：小家电行业竞争充分，行业内还存在一些不正当、不规范竞争现象，如设计抄袭、商标侵权、虚假宣传等。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）市场竞争风险...公司面临行业竞争加剧、不正当、不规范竞争带来的市场竞争风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动风险：公司进出口业务主要采用美元结算，受人民币汇率波动的影响较为明显。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、汇率波动风险...公司进出口业务主要采用美元结算，因此受人民币汇率波动的影响较为明显。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料价格波动风险：公司直接材料成本占主营业务成本的比例为75.02%，占比较高。未来主要原材料的价格仍存在大幅波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、主要原材料价格波动风险...公司直接材料成本占主营业务成本的比例分别为73.80%、75.89%和75.02%，公司直接材料成本占比较高...未来主要原材料的价格仍存在大幅波动的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "劳动力成本上升风险：随着劳动年龄总人口的下降及产业升级，企业用工综合成本在持续上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、劳动力成本上升风险...企业用工综合成本在持续上升，招人难、留人更难已成为国内许多企业面临的共性问题。"
+    },
+    {
+      "risk_type": "other",
+      "description": "对外投资风险：印度尼西亚制造基地在设立及运营过程中，存在一定的管理、运营和市场风险。",
+      "related_entity": "印尼东菱科技有限公司",
+      "related_product": null,
+      "quote": "5、对外投资风险...印度尼西亚的法律法规、政策体系、商业环境、文化特征等与国内存在较大差异，印度尼西亚制造基地在设立及运营过程中，存在一定的管理、运营和市场风险，对外投资效果能否达到预期存在不确定性。"
+    },
+    {
+      "risk_type": "other",
+      "description": "募集资金投资项目风险：募投项目在实施过程中仍然存在因工程进度放缓、投资成本上升、市场环境变化等各种不确定因素对项目实际收益产生不利影响的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、募集资金投资项目风险...但在项目实施过程中仍然存在因工程进度放缓、投资成本上升、市场环境变化等各种不确定因素对项目实际收益产生不利影响的风险。"
+    }
+  ]
+}

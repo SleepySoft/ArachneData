@@ -1,0 +1,579 @@
+{
+  "company_name_mentioned": "甘肃电投能源发展股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司从事的主要业务包括火力发电、水力发电、风力发电和光伏发电，未经营售电业务。主要产品为电力，业绩主要来源于发电收入。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（燃煤等）",
+      "target_product": "电力",
+      "cost_proportion": "占营业成本总额的比例为48.62%",
+      "quote": "成本项目主要由原材料费、折旧费、人工成本及其他各项费用构成，在成本项目中，原材料费用占成本总额的比例为48.62%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网供电",
+      "source_product": "电力",
+      "quote": "实现电量交割。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "卢继卿",
+      "role": "法定代表人、董事长",
+      "quote": "公司负责人卢继卿"
+    },
+    {
+      "name": "吕庆年",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人吕庆年"
+    },
+    {
+      "name": "张莉",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）张莉"
+    },
+    {
+      "name": "戴博文",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 戴博文"
+    },
+    {
+      "name": "寇世民",
+      "role": "总经理",
+      "quote": "寇世民 男 52 总经理 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "甘肃省电力投资集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东",
+      "quote": "电投集团/公司控股股东/控股股东 指 甘肃省电力投资集团有限责任公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "主要电力销售客户",
+      "quote": "1 国家电网有限公司 9,040,575,399.44 99.73%"
+    },
+    {
+      "name": "新疆哈密三塘湖能源开发建设有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商",
+      "quote": "1 新疆哈密三塘湖能源开发建设有限责任公司 542,823,773.47 21.06%"
+    },
+    {
+      "name": "广汇能源股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "2 广汇能源股份有限公司 430,733,739.82 16.71%"
+    },
+    {
+      "name": "中国长江电力股份有限公司",
+      "relation_type": "customer",
+      "business_details": "股东，同时也是采购服务关联方",
+      "quote": "中国长江电力股份有限公司"
+    },
+    {
+      "name": "国投甘肃小三峡发电有限公司",
+      "relation_type": "customer",
+      "business_details": "参股公司",
+      "quote": "小三峡公司 指 国投甘肃小三峡发电有限公司"
+    },
+    {
+      "name": "甘肃电投常乐发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主营火力发电",
+      "quote": "常乐公司 指 甘肃电投常乐发电有限责任公司"
+    },
+    {
+      "name": "甘肃电投大容电力有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "大容公司 指 甘肃电投大容电力有限责任公司"
+    },
+    {
+      "name": "甘肃电投炳灵水电开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "炳灵公司 指 甘肃电投炳灵水电开发有限责任公司"
+    },
+    {
+      "name": "甘肃电投九甸峡水电开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "九甸峡公司 指 甘肃电投九甸峡水电开发有限责任公司"
+    },
+    {
+      "name": "甘肃电投河西水电开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "河西公司 指 甘肃电投河西水电开发有限责任公司"
+    },
+    {
+      "name": "甘肃酒泉汇能风电开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "酒汇公司 指 甘肃酒泉汇能风电开发有限责任公司"
+    },
+    {
+      "name": "甘肃电投润能（武威）新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "润能公司 指 甘肃电投润能（武威）新能源有限公司"
+    },
+    {
+      "name": "甘肃电投民勤新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "民勤公司 指 甘肃电投民勤新能源有限公司"
+    },
+    {
+      "name": "甘肃西兴能源投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "西兴公司 指 甘肃西兴能源投资有限公司"
+    },
+    {
+      "name": "甘肃双冠水电投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "双冠公司 指 甘肃双冠水电投资有限公司"
+    },
+    {
+      "name": "张掖市龙汇水电开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "龙汇公司 指 张掖市龙汇水电开发有限责任公司"
+    },
+    {
+      "name": "甘肃汇能安北风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "安北公司 指 甘肃汇能安北风电有限公司"
+    },
+    {
+      "name": "甘肃鑫汇风电开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "鑫汇公司 指 甘肃鑫汇风电开发有限责任公司"
+    },
+    {
+      "name": "甘肃高台汇能新能源开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "高台汇能公司 指 甘肃高台汇能新能源开发有限责任公司"
+    },
+    {
+      "name": "甘肃电投庆阳新能源有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "庆阳新能源公司 指 甘肃电投庆阳新能源有限责任公司"
+    },
+    {
+      "name": "甘肃电投辰旭凉州太阳能发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "凉州公司 指 甘肃电投辰旭凉州太阳能发电有限公司"
+    },
+    {
+      "name": "甘肃电投永昌新能源有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "永昌新能源公司 指 甘肃电投永昌新能源有限责任公司"
+    },
+    {
+      "name": "甘肃电投鼎新风电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "鼎新公司 指 甘肃电投鼎新风电有限责任公司"
+    },
+    {
+      "name": "甘肃玉门汇能新能源开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "玉门公司 指 甘肃玉门汇能新能源开发有限责任公司"
+    },
+    {
+      "name": "甘肃电投集团财务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，提供财务公司服务",
+      "quote": "财务公司 指 甘肃电投集团财务有限公司"
+    },
+    {
+      "name": "国投酒泉第一风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "国投酒一 指 国投酒泉第一风电有限公司"
+    },
+    {
+      "name": "甘肃陇能物业管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，提供物业服务",
+      "quote": "陇能物业 指 甘肃陇能物业管理有限责任公司"
+    },
+    {
+      "name": "甘肃陇能大酒店有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方",
+      "quote": "陇能大酒店 指 甘肃陇能大酒店有限责任公司"
+    },
+    {
+      "name": "甘肃电投碳资产管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，提供碳资产服务",
+      "quote": "碳资产管理公司 指 甘肃电投碳资产管理有限责任公司"
+    },
+    {
+      "name": "甘肃紫金云大数据开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，提供信息技术服务",
+      "quote": "紫金云公司 指 甘肃紫金云大数据开发有限责任公司"
+    },
+    {
+      "name": "甘肃电投陇原电力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，提供电力服务",
+      "quote": "陇原电力 指 甘肃电投陇原电力有限公司"
+    },
+    {
+      "name": "甘肃大剧院管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方",
+      "quote": "甘肃大剧院 指 甘肃大剧院管理有限责任公司"
+    },
+    {
+      "name": "甘肃投资集团云天酒店有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方",
+      "quote": "云天酒店 指 甘肃投资集团云天酒店有限公司"
+    },
+    {
+      "name": "甘肃会展中心（集团）有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方",
+      "quote": "会展集团 指 甘肃会展中心（集团）有限责任公司"
+    },
+    {
+      "name": "甘肃省陇能煤炭物流有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，提供煤炭物流服务",
+      "quote": "陇能煤炭 指 甘肃省陇能煤炭物流有限公司"
+    },
+    {
+      "name": "甘肃电投金昌发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东子公司（托管）",
+      "quote": "金昌公司 指 甘肃电投金昌发电有限责任公司"
+    },
+    {
+      "name": "甘肃电投永明安装检修工程有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，提供检修服务",
+      "quote": "永明检修 指 甘肃电投永明安装检修工程有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "火电产品",
+      "segment_type": "product_line",
+      "revenue_amount": "6,702,890,968.55元",
+      "revenue_proportion": "73.93%",
+      "gross_margin": "45.15%",
+      "yoy_change": "10.43%",
+      "quote": "火电产品 6,702,890,968.55 73.93% ... 营业收入比上年同期增减 10.43% ... 毛利率比上年同 期增减 9.91%"
+    },
+    {
+      "name": "水电产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,626,762,216.00元",
+      "revenue_proportion": "17.95%",
+      "gross_margin": "39.45%",
+      "yoy_change": "9.17%",
+      "quote": "水电产品 1,626,762,216.00 17.95% ... 营业收入比上年同期增减 9.17% ... 毛利率比上年同 期增减 8.02%"
+    },
+    {
+      "name": "风电产品",
+      "segment_type": "product_line",
+      "revenue_amount": "532,139,740.09元",
+      "revenue_proportion": "5.87%",
+      "gross_margin": "24.81%",
+      "yoy_change": "-30.40%",
+      "quote": "风电产品 532,139,740.09 5.87% ... 营业收入比上年同期增减 -30.40% ... 毛利率比上年同 期增减 -22.81%"
+    },
+    {
+      "name": "光伏产品",
+      "segment_type": "product_line",
+      "revenue_amount": "179,481,214.25元",
+      "revenue_proportion": "1.98%",
+      "gross_margin": "-21.96%",
+      "yoy_change": "-45.39%",
+      "quote": "光伏产品 179,481,214.25 1.98% ... 营业收入比上年同期增减 -45.39% ... 毛利率比上年同 期增减 -52.53%"
+    },
+    {
+      "name": "甘肃地区",
+      "segment_type": "region",
+      "revenue_amount": "9,065,395,583.80元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "41.65%",
+      "yoy_change": "4.26%",
+      "quote": "甘肃地区注5 9,065,395,583.80 100.00% ... 营业收入比上年同期增减 4.26% ... 毛利率比上年同 期增减 5.92%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力（总体）",
+      "metric_type": "capacity",
+      "value": "953.97万千瓦",
+      "period": "截至2025年末",
+      "quote": "截至2025年末，公司已发电控股装机容量为953.97万千瓦"
+    },
+    {
+      "product": "火电",
+      "metric_type": "capacity",
+      "value": "600.00万千瓦",
+      "period": "截至2025年末",
+      "quote": "控股火电装机容量600万千瓦"
+    },
+    {
+      "product": "水电",
+      "metric_type": "capacity",
+      "value": "170.02万千瓦",
+      "period": "截至2025年末",
+      "quote": "控股水电装机容量170.02万千瓦"
+    },
+    {
+      "product": "风电",
+      "metric_type": "capacity",
+      "value": "110.35万千瓦",
+      "period": "截至2025年末",
+      "quote": "控股风电装机容量110.35万千瓦"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "capacity",
+      "value": "73.6万千瓦",
+      "period": "截至2025年末",
+      "quote": "控股光伏装机容量73.6万千瓦"
+    },
+    {
+      "product": "电力（总体）",
+      "metric_type": "production_volume",
+      "value": "296.03亿千瓦时",
+      "period": "报告期内",
+      "quote": "报告期内，公司所属电站完成发电量296.03亿千瓦时"
+    },
+    {
+      "product": "电力（总体）",
+      "metric_type": "sales_volume",
+      "value": "284.78亿千瓦时",
+      "period": "报告期内",
+      "quote": "完成上网电量284.78亿千瓦时"
+    },
+    {
+      "product": "火电",
+      "metric_type": "production_volume",
+      "value": "212.34亿千瓦时",
+      "period": "报告期内",
+      "quote": "火电发电量212.34亿千瓦时"
+    },
+    {
+      "product": "水电",
+      "metric_type": "production_volume",
+      "value": "57.66亿千瓦时",
+      "period": "报告期内",
+      "quote": "水电发电量57.66亿千瓦时"
+    },
+    {
+      "product": "风电",
+      "metric_type": "production_volume",
+      "value": "16.19亿千瓦时",
+      "period": "报告期内",
+      "quote": "风电发电量16.19亿千瓦时"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "production_volume",
+      "value": "9.84亿千瓦时",
+      "period": "报告期内",
+      "quote": "光伏发电量9.84亿千瓦时"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "常乐公司2×1,000兆瓦燃煤机组扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "甘肃省",
+      "investment_amount": null,
+      "designed_capacity": "200万千瓦",
+      "progress": "5号机组、6号机组分别于2025年9月6日、2025年10月16日正式投入商业运营",
+      "expected_completion_time": "2025年10月16日（6号机组）",
+      "quote": "受常乐公司2×1,000兆瓦燃煤机组扩建项目5号机组、6号机组分别于2025年9月6日、2025年10月16日正式投入商业运营等因素影响"
+    },
+    {
+      "name": "永昌河清滩100MW光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "10万千瓦",
+      "progress": "尚在建设期",
+      "expected_completion_time": null,
+      "quote": "投资建设永昌河清滩100MW光伏发电项目"
+    },
+    {
+      "name": "庆阳绿电聚合一期新能源项目",
+      "project_type": "capacity_expansion",
+      "location": "甘肃省庆阳市",
+      "investment_amount": null,
+      "designed_capacity": "风电项目75.025万千瓦、光伏项目25.02万千瓦",
+      "progress": "2026年1月30日，庆阳绿电聚合一期新能源项目首批风电机组（装机容量13.4兆瓦）已并网发电",
+      "expected_completion_time": null,
+      "quote": "投资建设甘肃庆阳东数西算产业园区绿电聚合试点项目一期工程100万千瓦新能源项目"
+    },
+    {
+      "name": "民勤100万千瓦风光电一体化项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "风电项目50万千瓦、光伏项目50万千瓦",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "投资建设民勤100万千瓦风光电一体化项目"
+    },
+    {
+      "name": "腾格里沙漠大基地600万千瓦新能源项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "凉州九墩滩300万千瓦光伏项目及民勤南湖100万千瓦风电项目、民勤100万千瓦风光电一体化项目（风电项目50万千瓦、光伏项目50万千瓦）",
+      "progress": "公司腾格里沙漠大基地600万千瓦新能源项目中凉州九墩滩300万千瓦光伏项目及民勤南湖100万千瓦风电项目、民勤100万千瓦风光电一体化项目（风电项目50万千瓦、光伏项目50万千瓦）。2026年2月，公司腾格里沙漠大基地600万千瓦新能源项目中民勤双茨科200万千瓦风电项目获得核准。",
+      "expected_completion_time": null,
+      "quote": "截至2025年末，公司已核准（备案）项目包括：腾格里沙漠大基地600万千瓦新能源项目中 凉州九墩滩300万千瓦光伏项目及民勤南湖100万千瓦风电项目、民勤100万千瓦风光电一体化项目（风电项目50万千瓦、光伏项目50万千瓦）。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "常乐公司机组宽负荷调峰协调控制系统优化开发应用",
+      "asset_type": "process_technology",
+      "related_product": "火电",
+      "quantitative_info": null,
+      "quote": "常乐公司机组宽负荷调峰协调控制系统优化开发应用"
+    },
+    {
+      "name": "常乐电厂#2机组燃烧优化调整试验技术应用",
+      "asset_type": "process_technology",
+      "related_product": "火电",
+      "quantitative_info": null,
+      "quote": "常乐电厂#2机组燃烧优化调整试验技术应用"
+    },
+    {
+      "name": "常乐电厂大型调峰火电锅炉辐射受热面防结焦、耐高温腐蚀关键技术研究及示范应用",
+      "asset_type": "core_technology",
+      "related_product": "火电",
+      "quantitative_info": null,
+      "quote": "常乐电厂大型调峰火电锅炉辐射受热面防结焦、耐高温腐蚀关键技术研究及示范应用"
+    },
+    {
+      "name": "常乐电厂5G+智慧电厂5、6号机组智慧管理相关功能补充研发项目",
+      "asset_type": "technical_platform",
+      "related_product": "火电",
+      "quantitative_info": null,
+      "quote": "常乐电厂5G+智慧电厂5、6号机组智慧管理相关功能补充研发项目"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "99.73%",
+      "related_entity": "国家电网有限公司",
+      "period": "报告期内",
+      "quote": "国家电网有限公司 9,040,575,399.44 99.73%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "99.83%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 99.83%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "21.06%",
+      "related_entity": "新疆哈密三塘湖能源开发建设有限责任公司",
+      "period": "报告期内",
+      "quote": "新疆哈密三塘湖能源开发建设有限责任公司 542,823,773.47 21.06%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "54.92%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 54.92%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "新建电力项目效益不及预期风险。由于市场整体新能源装机规模增大、电价下行、配套新增负荷未投产、消纳条件未落实等原因，从而可能对项目投资收益和公司整体业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、新建电力项目效益不及预期风险。由于市场整体新能源装机规模增大、电价下行、配套新增负荷未投产、消纳条件未落实等原因，从而可能对项目投资收益和公司整体业绩产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场风险。在省内常规能源调峰能力和省内用电量没有大幅提升情况下，新能源利用率将受到一定影响。同时，随着电力现货市场建设的加快推进，在市场化交易规模持续扩大、全国和省内政策变化、市场供需等多方面因素影响下，电价存在市场竞争，公司所属各类发电企业面临电价波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、电力市场风险。在省内常规能源调峰能力和省内用电量没有大幅提升情况下，新能源利用率将受到一定影响。同时，随着电力现货市场建设的加快推进，在市场化交易规模持续扩大、全国和省内政策变化、市场供需等多方面因素影响下，电价存在市场竞争，公司所属各类发电企业面临电价波动的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "自然因素、市场供需及不可抗力影响的风险。公司所属火电厂、光伏电站、风电场主要位于甘肃省河西地区，水电站分属甘肃省内不同流域，气候变化、来水不稳定、风能、光照资源以及供需变化将对公司发电量产生较大影响。发电量计划指标能否实现存在重大不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、自然因素、市场供需及不可抗力影响的风险。公司所属火电厂、光伏电站、风电场主要位于甘肃省河西地区，水电站分属甘肃省内不同流域，气候变化、来水不稳定、风能、光照资源以及供需变化将对公司发电量产生较大影响。发电量计划指标能否实现存在重大不确定性。"
+    },
+    {
+      "risk_type": "other",
+      "description": "货币政策变动引起的风险。货币政策调整和利率水平的变化，对公司在市场上获取资金的难易程度和经营业绩产生重要影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、货币政策变动引起的风险。货币政策调整和利率水平的变化，对公司在市场上获取资金的难易程度和经营业绩产生重要影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "生态环境保护政策的相关风险。随着社会发展对自然及生态环保要求的不断提高，国家有可能出台更为严格的生态环保政策，要求更高的自然生态环保水平、更严格的固废排放标准、资金投入和环保措施。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、生态环境保护政策的相关风险。随着社会发展对自然及生态环保要求的不断提高，国家有可能出台更为严格的生态环保政策，要求更高的自然生态环保水平、更严格的固废排放标准、资金投入和环保措施。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "安全生产风险。公司水电站分属省内不同流域，公司所属光伏、风电场、火电站主要位于甘肃省河西地区，面临的生产环境各有不同。在日常生产经营中，存在意外事故、设备故障、自然灾害等造成的人员伤亡或设备损坏的风险，可能对公司正常生产经营造成较大影响，公司面临一定的安全生产风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、安全生产风险。公司水电站分属省内不同流域，公司所属光伏、风电场、火电站主要位于甘肃省河西地区，面临的生产环境各有不同。在日常生产经营中，存在意外事故、设备故障、自然灾害等造成的人员伤亡或设备损坏的风险，可能对公司正常生产经营造成较大影响，公司面临一定的安全生产风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "火电企业煤炭供应及价格变动风险。可能受煤炭市场供需、煤炭市场价格波动、物流运输等因素，影响火电企业生产经营。",
+      "related_entity": null,
+      "related_product": "火电",
+      "quote": "7、火电企业煤炭供应及价格变动风险。可能受煤炭市场供需、煤炭市场价格波动、物流运输等因素，影响火电企业生产经营。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "税收风险。公司在多个地区缴纳企业所得税，在正常的经营活动中，可能存在因经营行为适用税法不准确等原因，造成应纳税而未纳税、少纳税，从而面临补税、罚款、加收滞纳金、刑罚处罚以及声誉损害等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "8、税收风险。公司在多个地区缴纳企业所得税，在正常的经营活动中，可能存在因经营行为适用税法不准确等原因，造成应纳税而未纳税、少纳税，从而面临补税、罚款、加收滞纳金、刑罚处罚以及声誉损害等风险。"
+    }
+  ]
+}

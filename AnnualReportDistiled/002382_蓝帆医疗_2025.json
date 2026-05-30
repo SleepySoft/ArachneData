@@ -1,0 +1,544 @@
+{
+  "company_name_mentioned": "蓝帆医疗股份有限公司",
+  "produces": [
+    {
+      "name": "心脑血管产品",
+      "type": "device",
+      "revenue_proportion": "2025年收入金额1,388,632,175.84元，占营业收入比重24.19%",
+      "quote": "分产品：心脑血管产品 1,388,632,175.84 24.19%"
+    },
+    {
+      "name": "健康防护产品",
+      "type": "device",
+      "revenue_proportion": "2025年收入金额4,061,299,202.52元，占营业收入比重70.76%",
+      "quote": "分产品：健康防护产品 4,061,299,202.52 70.76%"
+    },
+    {
+      "name": "应急救护产品",
+      "type": "device",
+      "revenue_proportion": "2025年收入金额212,289,308.46元，占营业收入比重3.70%",
+      "quote": "分产品：应急救护产品 212,289,308.46 3.70%"
+    },
+    {
+      "name": "新营销产品（抗体类、贻贝粘蛋白类）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "4、新营销产品 新营销产品主要包括抗体类产品和贻贝粘蛋白产品。"
+    },
+    {
+      "name": "药物支架",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "心脑血管事业部主要已上市产品包括药物支架、药物球囊、经导管主动脉瓣膜置换系统等创新医疗器械以及配套产品。"
+    },
+    {
+      "name": "药物球囊（BA9™药球）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "柏腾™优美莫司涂层冠状动脉球囊扩张导管（以下简称“BA9™ 药球”）是公司另一重磅产品管线。"
+    },
+    {
+      "name": "经导管主动脉瓣膜置换（TAVR）系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "结构性心脏病业务 ... ALLEGRA®系列经导管主动脉瓣膜置换（TAVR）系统"
+    },
+    {
+      "name": "一次性健康防护手套",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "健康防护事业部主要从事健康防护手套产品的研发、生产和销售业务。"
+    },
+    {
+      "name": "急救包及应急救护产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "应急救护事业部主要从事研发、生产、销售以急救箱包为主的各类应急救护产品和一次性健康防护用品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（丁腈胶乳、增塑剂、糊树脂等）",
+      "target_product": "健康防护手套",
+      "cost_proportion": null,
+      "quote": "对于主要原材料丁腈胶乳、增塑剂、糊树脂等物料，采用询价方式进行采购"
+    },
+    {
+      "name": "煤炭",
+      "target_product": "能源（热电联产）",
+      "cost_proportion": null,
+      "quote": "对于煤炭采取煤矿直采和招标两种模式并行。"
+    },
+    {
+      "name": "电力",
+      "target_product": "能源（热电联产）",
+      "cost_proportion": null,
+      "quote": "宏达热电 ... 为公司相关丁腈手套产能提供蒸汽和电力"
+    },
+    {
+      "name": "医用器械和商品",
+      "target_product": "心脑血管产品（代理）",
+      "cost_proportion": null,
+      "quote": "公司的子公司蓝帆柏盛及子公司拟向沃福曼医疗采购医疗器械相关产品"
+    }
+  ],
+  "applications": [
+    {
+      "name": "医用检查",
+      "source_product": "一次性健康防护手套、心脑血管介入器械",
+      "quote": "可广泛应用于医用检查、食品加工、工业劳保、日用防护等场景。"
+    },
+    {
+      "name": "食品加工",
+      "source_product": "一次性健康防护手套",
+      "quote": "可广泛应用于医用检查、食品加工、工业劳保、日用防护等场景。"
+    },
+    {
+      "name": "工业劳保",
+      "source_product": "一次性健康防护手套",
+      "quote": "可广泛应用于医用检查、食品加工、工业劳保、日用防护等场景。"
+    },
+    {
+      "name": "日用防护",
+      "source_product": "一次性健康防护手套、应急救护产品",
+      "quote": "可广泛应用于医用检查、食品加工、工业劳保、日用防护等场景。"
+    },
+    {
+      "name": "机动车、非机动车、摩托车、电动车、自行车",
+      "source_product": "车载应急系列急救包",
+      "quote": "车载应急系列 ... 机动车、非机动车、摩托车、电动车、自行车"
+    },
+    {
+      "name": "户外",
+      "source_product": "户外应急系列急救包",
+      "quote": "户外应急系列 ... 户外、防暑、防汛"
+    },
+    {
+      "name": "家庭护理/宠物",
+      "source_product": "家庭护理/应急系列急救包",
+      "quote": "家庭护理/应急系列 ... 家庭、宠物、餐饮"
+    },
+    {
+      "name": "上呼吸道护理",
+      "source_product": "蓝狙士®系列产品",
+      "quote": "鼻腔喷洗器、海盐水鼻腔喷雾与蓝狙士®系列产品形成产品矩阵，在上呼吸道护理领域形成更强竞争力。"
+    },
+    {
+      "name": "咽喉不适",
+      "source_product": "蓝狙士®贻贝粘蛋白口腔喷剂",
+      "quote": "有效缓解咽喉干痒痛、沙哑、异物感等咽喉不适症状的蓝狙士®贻贝粘蛋白口腔喷剂"
+    },
+    {
+      "name": "鼻炎治疗",
+      "source_product": "蓝狙士®贻贝粘蛋白鼻腔喷雾",
+      "quote": "有效改善鼻炎引起的鼻塞、流涕、鼻出血、鼻痒等鼻部不适症状的蓝狙士®贻贝粘蛋白鼻腔喷雾"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘文静",
+      "role": "董事长",
+      "quote": "公司负责人刘文静、主管会计工作负责人崔运涛及会计机构负责人（会计主管人员）崔运涛声明"
+    },
+    {
+      "name": "崔运涛",
+      "role": "主管会计工作负责人、副总裁、首席财务官",
+      "quote": "公司负责人刘文静、主管会计工作负责人崔运涛及会计机构负责人（会计主管人员）崔运涛声明"
+    },
+    {
+      "name": "钟舒乔",
+      "role": "董事、总裁",
+      "quote": "钟舒乔先生，1985年7月生 ... 现任本公司董事、总裁"
+    },
+    {
+      "name": "于苏华",
+      "role": "董事、心脑血管事业部总经理",
+      "quote": "于苏华先生，1981年8月生 ... 现任本公司董事、心脑血管事业部总经理"
+    },
+    {
+      "name": "王梓漪",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 王梓漪"
+    },
+    {
+      "name": "张木存",
+      "role": "副总裁、健康防护事业部副总经理",
+      "quote": "张木存先生 ... 现任本公司副总裁、健康防护事业部副总经理"
+    },
+    {
+      "name": "张永臣",
+      "role": "副总裁、应急救护事业部总经理",
+      "quote": "张永臣先生 ... 现任本公司副总裁、应急救护事业部总经理"
+    },
+    {
+      "name": "李振平",
+      "role": "董事",
+      "quote": "李振平先生，1956年8月生 ... 现任本公司董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "山东朗晖石油化学股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之第一大，采购原材料（糊树脂、增塑剂），属关联交易。",
+      "quote": "前5大客户资料：序号1 山东朗晖石油化学股份有限公司 390,922,481.40 10.51%"
+    },
+    {
+      "name": "淄博宏达热电有限公司",
+      "relation_type": "supplier",
+      "business_details": "2025年12月被山东健康科技收购80%股权，为公司丁腈手套产能提供蒸汽和电力。",
+      "quote": "山东健康科技完成收购淄博宏达热电有限公司（以下简称“宏达热电”）80%股权事项。宏达热电作为淄博市高新技术开发区内唯一的热源中心，...为公司相关丁腈手套产能提供蒸汽和电力"
+    },
+    {
+      "name": "上海百心安生物技术股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司代理其肾动脉射频消融系统（RDN）产品在海外市场。",
+      "quote": "销售代理方面，报告期内公司海外团队代理国内“出海”产品包括上海百心安生物技术股份有限公司的肾动脉射频消融系统（RDN）"
+    },
+    {
+      "name": "深圳北芯生命科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司代理其血管内超声系统（IVUS）产品在海外市场。",
+      "quote": "深圳北芯生命科技股份有限公司的血管内超声系统（IVUS）等多款创新医疗器械产品。"
+    },
+    {
+      "name": "苏州同心医疗科技股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司对外投资持股4.88%，该公司主营植入式左心室辅助装置（人工心脏）。",
+      "quote": "公司对外投资并持股4.88%的苏州同心医疗科技股份有限公司 ... 其核心产品CH-VAD是国内首个获批上市的全磁悬浮左心室辅助系统。"
+    },
+    {
+      "name": "特斯拉、奔驰、宝马、丰田、雷克萨斯、奥迪、雷诺等国际车企",
+      "relation_type": "customer",
+      "business_details": "应急救护事业部与这些车企及其供应商保持长期合作，提供车载应急包等产品。",
+      "quote": "公司已与特斯拉、奔驰、宝马、丰田、雷克萨斯、奥迪、雷诺等国际车企及其供应商保持长期合作"
+    },
+    {
+      "name": "吉利、比亚迪",
+      "relation_type": "customer",
+      "business_details": "应急救护事业部拓展的合作车企。",
+      "quote": "报告期内 ... 不断拓展包括吉利、比亚迪等优质企业合作"
+    },
+    {
+      "name": "稳健医疗用品股份有限公司",
+      "relation_type": "customer",
+      "business_details": "健康防护事业部在国内医疗渠道新增的合作企业。",
+      "quote": "公司积极新增与稳健医疗用品股份有限公司、威高集团有限公司等医疗企业合作"
+    },
+    {
+      "name": "威高集团有限公司",
+      "relation_type": "customer",
+      "business_details": "健康防护事业部在国内医疗渠道新增的合作企业。",
+      "quote": "公司积极新增与稳健医疗用品股份有限公司、威高集团有限公司等医疗企业合作"
+    },
+    {
+      "name": "HKG（泰国产业投资者）",
+      "relation_type": "investor",
+      "business_details": "健康防护事业部引入的产业投资者，完成了丁腈手套核心产能整合。",
+      "quote": "2025年引入泰国产业投资者HKG完成丁腈手套核心产能整合"
+    },
+    {
+      "name": "Nipro、Kaneka",
+      "relation_type": "partner",
+      "business_details": "心脑血管事业部合作的行业巨头。",
+      "quote": "公司还与Nipro、Kaneka等行业巨头保持稳定合作"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "专用设备制造业（心脑血管产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "1,388,632,175.84",
+      "revenue_proportion": "24.19%",
+      "gross_margin": "63.28%",
+      "yoy_change": "收入同比增长24.87%，成本同比增长25.76%",
+      "quote": "分行业：专用设备制造业 1,388,632,175.84 24.19% ... 分产品：心脑血管产品 ... 营业收入比上年同期增减 24.87% ... 营业成本比上年同期增减 25.76% ... 毛利率比上年同期增减 -0.26%"
+    },
+    {
+      "name": "橡胶和塑料制品业（健康防护产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "4,061,299,202.52",
+      "revenue_proportion": "70.76%",
+      "gross_margin": "-0.88%",
+      "yoy_change": "收入同比下降15.73%，成本同比下降10.26%",
+      "quote": "分行业：橡胶和塑料制品业 4,061,299,202.52 70.76% ... 分产品：健康防护产品 ... 营业收入比上年同期增减 -15.73% ... 营业成本比上年同期增减 -10.26% ... 毛利率比上年同期增减 -6.15%"
+    },
+    {
+      "name": "其他制造业（应急救护产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "212,289,308.46",
+      "revenue_proportion": "3.70%",
+      "gross_margin": "24.47%",
+      "yoy_change": "收入同比下降13.49%，成本同比下降13.79%",
+      "quote": "分行业：其他制造业 212,289,308.46 3.70% ... 分产品：应急救护产品 ... 营业收入比上年同期增减 -13.49% ... 营业成本比上年同期增减 -13.79% ... 毛利率比上年同期增减 0.27%"
+    },
+    {
+      "name": "境内市场",
+      "segment_type": "region",
+      "revenue_amount": "1,256,704,507.02",
+      "revenue_proportion": "21.89%",
+      "gross_margin": "33.55%",
+      "yoy_change": "收入同比增长48.94%",
+      "quote": "分地区：境内 1,256,704,507.02 21.89% ... 营业收入比上年同期增减 48.94%"
+    },
+    {
+      "name": "境外市场",
+      "segment_type": "region",
+      "revenue_amount": "4,482,988,045.58",
+      "revenue_proportion": "78.11%",
+      "gross_margin": "10.97%",
+      "yoy_change": "收入同比下降17.13%",
+      "quote": "分地区：境外 4,482,988,045.58 78.11% ... 营业收入比上年同期增减 -17.13%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "一次性丁腈手套、一次性PVC手套",
+      "metric_type": "capacity",
+      "value": "年产能共计约500亿支",
+      "period": "2025年",
+      "quote": "公司自有一次性丁腈手套、一次性PVC手套等手套年产能共计约500亿支"
+    },
+    {
+      "product": "健康防护手套",
+      "metric_type": "capacity_utilization",
+      "value": "2025年度整体开工率仍维持在80%以上的高位",
+      "period": "2025年",
+      "quote": "2025年度公司健康防护手套产品开工率整体仍维持在80%以上的高位"
+    },
+    {
+      "product": "健康防护产品（手套）",
+      "metric_type": "sales_volume",
+      "value": "433.05亿支",
+      "period": "2025年",
+      "quote": "健康防护产品 销售量 亿支 433.05"
+    },
+    {
+      "product": "健康防护产品（手套）",
+      "metric_type": "production_volume",
+      "value": "413.32亿支",
+      "period": "2025年",
+      "quote": "健康防护产品 生产量 亿支 413.32"
+    },
+    {
+      "product": "健康防护产品（手套）",
+      "metric_type": "inventory_volume",
+      "value": "54.19亿支",
+      "period": "2025年末",
+      "quote": "健康防护产品 库存量 亿支 54.19"
+    },
+    {
+      "product": "心脑血管产品（自产）",
+      "metric_type": "sales_volume",
+      "value": "128.58万条",
+      "period": "2025年",
+      "quote": "心脑血管产品 销售量 万条 128.58"
+    },
+    {
+      "product": "心脑血管产品（自产）",
+      "metric_type": "production_volume",
+      "value": "134.19万条",
+      "period": "2025年",
+      "quote": "心脑血管产品 生产量 万条 134.19"
+    },
+    {
+      "product": "心脑血管产品（自产）",
+      "metric_type": "inventory_volume",
+      "value": "30.29万条",
+      "period": "2025年末",
+      "quote": "心脑血管产品 库存量 万条 30.29"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "蓝帆医疗科创总部及产业化基地项目",
+      "project_type": "construction_project",
+      "location": "上海",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进度46.06%",
+      "expected_completion_time": null,
+      "quote": "蓝帆医疗科创总部及产业化基地项目 ... 进度46.06%"
+    },
+    {
+      "name": "丁腈手套核心产能整合",
+      "project_type": "capacity_expansion",
+      "location": "淄博、潍坊",
+      "investment_amount": "2亿美元（HKG增资款）",
+      "designed_capacity": null,
+      "progress": "2025年已完成整合",
+      "expected_completion_time": "已完成",
+      "quote": "2025年引入泰国产业投资者HKG完成丁腈手套核心产能整合"
+    },
+    {
+      "name": "绿源热力在建发电机组",
+      "project_type": "construction_project",
+      "location": "潍坊",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": "预计2026年第二季度投产",
+      "quote": "其在建的发电机组预计2026年第二季度投产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "BA9™ (Biolimus A9®) 专利药物",
+      "asset_type": "core_technology",
+      "related_product": "药物涂层球囊、药物涂层支架",
+      "quantitative_info": null,
+      "quote": "全球独家专利药物Biolimus A9®（以下简称“BA9™”）"
+    },
+    {
+      "name": "无聚合物药物涂层技术",
+      "asset_type": "process_technology",
+      "related_product": "BioFreedom®系列支架",
+      "quantitative_info": null,
+      "quote": "BioFreedom®无聚合物药物涂层冠脉支架"
+    },
+    {
+      "name": "经导管主动脉瓣膜置换（TAVR）技术",
+      "asset_type": "core_technology",
+      "related_product": "ALLEGRA®系列TAVR系统",
+      "quantitative_info": null,
+      "quote": "ALLEGRA®系列经导管主动脉瓣膜置换（TAVR）系统"
+    },
+    {
+      "name": "雷帕霉素类药物球囊技术",
+      "asset_type": "core_technology",
+      "related_product": "BA9™药球",
+      "quantitative_info": "BA9™药球是国内首款莫司类药物涂层球囊",
+      "quote": "BA9™ 药球是国内首款莫司类药物涂层球囊"
+    },
+    {
+      "name": "冠脉血管内冲击波治疗（IVL）技术",
+      "asset_type": "core_technology",
+      "related_product": "SoniCracker® IVL系统、Lithonic™ IVL系统",
+      "quantitative_info": null,
+      "quote": "冠脉血管内冲击波治疗系统（以下简称“IVL 系统”）方面，公司 SoniCracker® IVL 系统"
+    },
+    {
+      "name": "一次性手套全品类生产工艺",
+      "asset_type": "process_technology",
+      "related_product": "一次性丁腈、PVC、乳胶、TPE/CPE、聚氨酯手套",
+      "quantitative_info": "行业内首家完成一次性手套全品类布局的上市公司",
+      "quote": "是行业内首家完成一次性手套全品类布局的上市公司"
+    },
+    {
+      "name": "“热电联产”能源配套技术",
+      "asset_type": "process_technology",
+      "related_product": "健康防护手套（丁腈手套）",
+      "quantitative_info": null,
+      "quote": "“热电联产”模式将全面融入手套产品生产体系"
+    },
+    {
+      "name": "全球专利",
+      "asset_type": "patent",
+      "related_product": "心脑血管产品",
+      "quantitative_info": "心脑血管事业部拥有超过320项全球专利",
+      "quote": "截至报告期末，公司心脑血管事业部拥有超过320项全球专利。"
+    },
+    {
+      "name": "健康防护事业部专利",
+      "asset_type": "patent",
+      "related_product": "健康防护产品",
+      "quantitative_info": "拥有专利近120项，包括30余项发明专利、近80项实用新型专利。",
+      "quote": "截至报告期末，健康防护事业部拥有专利近 120 项，包括 30 余项发明专利、近 80 项实用新型专利。"
+    },
+    {
+      "name": "参与制定国家标准",
+      "asset_type": "standard",
+      "related_product": "医用手套",
+      "quantitative_info": "参与修订强制性国家标准GB 24788-2025《医用手套安全技术要求》",
+      "quote": "2025 年 5 月，由公司参与修订的强制性国家标准 GB 24788-2025《医用手套安全技术要求》正式发布"
+    },
+    {
+      "name": "欧盟CE认证（MDR）",
+      "asset_type": "certification",
+      "related_product": "Lithonic™ IVL系统",
+      "quantitative_info": null,
+      "quote": "海外子公司新加坡Biosensors Interventional Technologies Pte. Ltd.研发的Lithonic™ IVL系统顺利获欧盟CE MDR认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "539,212,193.51元，占年度销售总额比例9.40%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 539,212,193.51 前五名客户合计销售金额占年度销售总额比例 9.40%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,087,744,860.24元，占年度采购总额比例29.24%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,087,744,860.24 前五名供应商合计采购金额占年度采购总额比例 29.24%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额占年度采购总额比例10.51%",
+      "related_entity": "山东朗晖石油化学股份有限公司",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 10.51% ... 1 山东朗晖石油化学股份有限公司 390,922,481.40 10.51%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "医疗器械行业景气度与政策环境具有较高的相关性，医用耗材的带量采购已经成为常态化政策，预计后续集采范围和涉及地区将不断扩大。",
+      "related_entity": null,
+      "related_product": "心脑血管产品",
+      "quote": "行业政策或标准变动风险 ... 目前医用耗材的带量采购已经成为常态化政策，预计后续集采范围和涉及地区将不断扩大"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "医疗器械行业对技术创新和产品研发能力要求较高、研发周期较长，可能面临研发方向出现偏差、研发投入成本偏高、研发进程缓慢甚至研发失败的风险。",
+      "related_entity": null,
+      "related_product": "心脑血管产品、健康防护产品等",
+      "quote": "产品研发及迭代风险 ... 在新产品研发过程中，公司可能面临研发方向出现偏差、新产品研发投入成本偏高、研发进程缓慢甚至研发失败的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "创新医疗器械产品获批上市后，需面对长期的临床效果检验和来自市场竞争的压力，若未能取得市场认可，将对商业化造成不利影响。",
+      "related_entity": null,
+      "related_product": "心脑血管产品",
+      "quote": "在研产品商业化风险 ... 若上市的产品未能在医生、终端医院、患者及医学领域取得市场认可，则会对该等产品成功实现商业化并取得经济效益造成不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "健康防护手套行业具有周期波动特性，产品价格存在周期性波动风险。",
+      "related_entity": null,
+      "related_product": "健康防护手套",
+      "quote": "健康防护手套周期波动风险 ... 未来依然存在防护手套价格周期性波动风险"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "随着国家环保政策的日趋严格，公司健康防护事业部有可能存在因保护环境，部分工厂在部分时间段内被限制生产的风险。",
+      "related_entity": null,
+      "related_product": "健康防护手套",
+      "quote": "环保政策影响的风险 ... 公司健康防护事业部有可能存在因保护环境，部分工厂在部分时间段内被限制生产的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司境外销售收入占比较高，汇率波动将直接影响产品的价格竞争力，对营业收入、毛利率等造成一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动对公司销售结算带来的风险 ... 境外销售收入占比较高，汇率波动将直接影响产品的价格竞争力"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "2025年延续国际形势复杂多变态势，贸易保护主义思想抬头，增加了外贸出口难度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "贸易壁垒带来的市场风险 ... 2025 年延续国际形势复杂多变态势，伴随全球经济增速放缓，贸易保护主义思想抬头，贸易政策趋于收紧，增加了外贸出口难度。"
+    },
+    {
+      "risk_type": "other",
+      "description": "健康防护手套行业受国际贸易形势影响，订单形势波动，同时叠加销售价格承压。",
+      "related_entity": null,
+      "related_product": "健康防护产品",
+      "quote": "受国际贸易形势影响，公司健康防护事业部2025年订单形势波动，同时叠加销售价格承压"
+    }
+  ]
+}

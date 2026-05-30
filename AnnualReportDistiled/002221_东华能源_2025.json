@@ -1,0 +1,564 @@
+{
+  "company_name_mentioned": "东华能源股份有限公司",
+  "produces": [
+    {
+      "name": "聚丙烯",
+      "type": "material",
+      "revenue_proportion": "49.31%",
+      "quote": "分产品：聚丙烯 13,573,442,329.99元 49.31%"
+    },
+    {
+      "name": "丙烯",
+      "type": "material",
+      "revenue_proportion": "5.44%",
+      "quote": "分产品：丙烯2 1,498,681,814.08元 5.44%"
+    },
+    {
+      "name": "氢气等副产气",
+      "type": "material",
+      "revenue_proportion": "1.21%",
+      "quote": "分产品：氢气等副产气 331,811,370.03元 1.21%"
+    },
+    {
+      "name": "合成氨",
+      "type": "material",
+      "revenue_proportion": "1.06%",
+      "quote": "分产品：合成氨3 292,661,853.36元 1.06%"
+    },
+    {
+      "name": "液化石油气",
+      "type": "material",
+      "revenue_proportion": "42.02%",
+      "quote": "分产品：液化石油气 11,567,575,727.36元 42.02%"
+    },
+    {
+      "name": "仓储",
+      "type": "service",
+      "revenue_proportion": "0.11%",
+      "quote": "分产品：仓储 30,255,688.01元 0.11%"
+    },
+    {
+      "name": "物流服务",
+      "type": "service",
+      "revenue_proportion": "0.02%",
+      "quote": "分产品：物流服务 5,721,794.89元 0.02%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "LPG (液化石油气)",
+      "target_product": "丙烯、聚丙烯、合成氨等",
+      "cost_proportion": "77.98%",
+      "quote": "主要原材料的采购模式：LPG 合约、现货 77.98%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "BOPP薄膜",
+      "source_product": "聚丙烯",
+      "quote": "研发项目名称：适用于BOPP芯层的低黄变拉丝料；项目目的：开发适用于BOPP膜芯层的拉丝料"
+    },
+    {
+      "name": "纺织、卫材",
+      "source_product": "聚丙烯",
+      "quote": "研发项目名称：非邻苯卫材专用纤维料；项目目的：开发不含邻苯类增塑剂、流动性高、适合中高速纺丝生产的卫材专用纤维料"
+    },
+    {
+      "name": "食品包装、日用品包装",
+      "source_product": "聚丙烯",
+      "quote": "研发项目名称：高流动性透明聚丙烯的开发；适用于透明性要求高，耐热要求高的场合...适用于食品包装、日用品包装、胶带等领域"
+    },
+    {
+      "name": "汽车零部件、家用电器",
+      "source_product": "聚丙烯",
+      "quote": "研发项目名称：高抗冲高熔指共聚聚丙烯；适用于高端汽车零部件、家用电器等产品的制造"
+    },
+    {
+      "name": "3D打印",
+      "source_product": "聚丙烯及其复合材料",
+      "quote": "研发项目名称：聚丙烯及其复合材料在3D打印工艺中的应用研究；开发高性能打印耗材，适用于高精度3D打印领域"
+    },
+    {
+      "name": "新能源汽车、消费电子",
+      "source_product": "复合材料专用聚丙烯、短切碳纤维增强聚丙烯预浸料",
+      "quote": "研发项目名称：复合材料专用聚丙烯的开发；应用场景...拓宽了公司产品应用场景...开发短切碳纤维增强聚丙烯预浸料产品...适应消费电子、低空飞行、新能源汽车等产业需求"
+    },
+    {
+      "name": "碳纤维复合材料",
+      "source_product": "聚丙烯",
+      "quote": "研发项目名称：复合材料专用聚丙烯的开发；项目目的：开发高性能、低成本、具有特定功能且质量稳定的适用于碳纤维复合材料用聚丙烯专用料"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周一峰",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人周一峰、主管会计工作负责人方涛及会计机构负责人（会计主管人员）代维双声明...公司现任董事、高级管理人员专业背景、主要工作经历以及目前在公司的主要职责（1）非独立董事：周一峰，女，1978年7月生...现任...东华能源股份有限公司董事长。"
+    },
+    {
+      "name": "邵晓",
+      "role": "董事、总经理",
+      "quote": "董事和高级管理人员情况：邵晓，男，1970年11月生...现任东华能源股份有限公司董事与总经理。"
+    },
+    {
+      "name": "方涛",
+      "role": "董事、财务总监",
+      "quote": "董事和高级管理人员情况：方涛，男，1979年8月生...现任东华能源股份有限公司董事与财务总监。"
+    },
+    {
+      "name": "王耀华",
+      "role": "董事、宁波新材料总经理",
+      "quote": "董事和高级管理人员情况：王耀华，男，1978年12月生...现任东华能源（宁波）新材料有限公司总经理、东华能源股份有限公司董事。"
+    },
+    {
+      "name": "陈文辛",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事和高级管理人员情况：陈文辛，男，1982年1月生...现任东华能源股份有限公司董事会秘书、副总经理。"
+    },
+    {
+      "name": "严维山",
+      "role": "总工程师",
+      "quote": "董事和高级管理人员情况：严维山，男，1962年10月生...现任东华能源股份有限公司总工程师。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "马森能源（新加坡）有限公司及其子公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司受托管理马森能源全球贸易体系，发挥马森能源现货、纸货、船、库、金融一体优势，持续优化原料成本。",
+      "quote": "马森能源 指 马森能源（新加坡）有限公司及其子公司"
+    },
+    {
+      "name": "东华石油（长江）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，东华能源受托管理其持有的马森能源100%股权。",
+      "quote": "东华石油 指 东华石油（长江）有限公司"
+    },
+    {
+      "name": "东华能源（张家港）新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事丙烯、聚丙烯生产销售。",
+      "quote": "张家港新材料、张家港基地 指 东华能源（张家港）新材料有限公司"
+    },
+    {
+      "name": "东华能源（宁波）新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事丙烯、聚丙烯生产销售。",
+      "quote": "宁波新材料、宁波基地 指 东华能源（宁波）新材料有限公司"
+    },
+    {
+      "name": "东华能源（茂名）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事丙烯、聚丙烯、合成氨生产销售。",
+      "quote": "东华茂名 指 东华能源（茂名）有限公司"
+    },
+    {
+      "name": "东华能源（茂名）碳纤维有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事碳纤维材料生产。",
+      "quote": "茂名基地 指 东华能源（茂名）有限公司及东华能源（茂名）碳纤维有限公司"
+    },
+    {
+      "name": "宁波百地年液化石油气有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，提供仓储服务，采购金额10,544.87万元，占同类交易100.00%。",
+      "quote": "宁波百地年液化石油气有限公司：仓储服务，采购额10,544.87万元，占年度采购总额比例100.00%"
+    },
+    {
+      "name": "广西天盛港务有限公司",
+      "relation_type": "supplier",
+      "business_details": "联营公司，销售液化石油气，金额64,450.14万元。",
+      "quote": "广西天盛港务有限公司：液化石油气销售，金额64,450.14万元"
+    },
+    {
+      "name": "KEEGAN SHIPPING HOLDINGS PTE.LTD.",
+      "relation_type": "subsidiary",
+      "business_details": "同一实际控制人控制，提供运输服务和代理服务。",
+      "quote": "KEEGAN SHIPPING HOLDINGS PTE.LTD.：运输服务，金额116,356.85万元...代理服务，金额171.03万元"
+    },
+    {
+      "name": "马森能源（南京）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "同一实际控制人控制，销售液化石油气，租赁服务。",
+      "quote": "马森能源（南京）有限公司：液化石油气销售，金额20,292.72万元；租赁，金额32.16万元"
+    },
+    {
+      "name": "MATHESON ENERGY PTE LTD",
+      "relation_type": "subsidiary",
+      "business_details": "同一实际控制人控制，销售液化石油气，金额322,161.25万元，占同类交易31.50%。",
+      "quote": "MATHESON ENERGY PTE LTD：液化石油气销售，金额322,161.25万元，占年度采购总额比例31.50%"
+    },
+    {
+      "name": "马森能源（茂名）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "同一实际控制人控制，提供仓储服务，金额2,985.29万元。",
+      "quote": "马森能源（茂名）有限公司：仓储服务，金额2,985.29万元"
+    },
+    {
+      "name": "马森（宁海）包装材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "同一实际控制人控制，采购包装物，金额10,375.44万元，占同类交易79.24%。",
+      "quote": "马森（宁海）包装材料有限公司：包装物，采购额10,375.44万元，占年度采购总额比例79.24%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "生产、销售",
+      "segment_type": "business_unit",
+      "revenue_amount": "27,264,173,094.82",
+      "revenue_proportion": "99.05%",
+      "gross_margin": "3.71%",
+      "yoy_change": "-11.42%",
+      "quote": "分行业：生产、销售 27,264,173,094.82元 99.05%...毛利率 3.71%"
+    },
+    {
+      "name": "聚丙烯",
+      "segment_type": "product_line",
+      "revenue_amount": "13,573,442,329.99",
+      "revenue_proportion": "49.31%",
+      "gross_margin": "1.94%",
+      "yoy_change": "-9.89%",
+      "quote": "分产品：聚丙烯 13,573,442,329.99元 49.31%...毛利率 1.94%"
+    },
+    {
+      "name": "丙烯",
+      "segment_type": "product_line",
+      "revenue_amount": "1,498,681,814.08",
+      "revenue_proportion": "5.44%",
+      "gross_margin": "3.50%",
+      "yoy_change": "-31.24%",
+      "quote": "分产品：丙烯2 1,498,681,814.08元 5.44%...毛利率 3.50%"
+    },
+    {
+      "name": "氢气等副产气",
+      "segment_type": "product_line",
+      "revenue_amount": "331,811,370.03",
+      "revenue_proportion": "1.21%",
+      "gross_margin": "99.32%",
+      "yoy_change": "-32.13%",
+      "quote": "分产品：氢气等副产气 331,811,370.03元 1.21%...毛利率 99.32%"
+    },
+    {
+      "name": "合成氨",
+      "segment_type": "product_line",
+      "revenue_amount": "292,661,853.36",
+      "revenue_proportion": "1.06%",
+      "gross_margin": "-29.60%",
+      "yoy_change": "1,805.15%",
+      "quote": "分产品：合成氨3 292,661,853.36元 1.06%...毛利率 -29.60%"
+    },
+    {
+      "name": "液化石油气",
+      "segment_type": "product_line",
+      "revenue_amount": "11,567,575,727.36",
+      "revenue_proportion": "42.02%",
+      "gross_margin": "3.92%",
+      "yoy_change": "-11.23%",
+      "quote": "分产品：液化石油气 11,567,575,727.36元 42.02%...毛利率 3.92%"
+    },
+    {
+      "name": "江苏",
+      "segment_type": "region",
+      "revenue_amount": "3,295,075,584.89",
+      "revenue_proportion": "11.97%",
+      "gross_margin": "6.40%",
+      "yoy_change": "-27.74%",
+      "quote": "分地区：江苏 3,295,075,584.89元 11.97%...毛利率 6.40%"
+    },
+    {
+      "name": "华东地区（不含江苏）",
+      "segment_type": "region",
+      "revenue_amount": "9,442,652,428.36",
+      "revenue_proportion": "34.30%",
+      "gross_margin": "2.07%",
+      "yoy_change": "-4.28%",
+      "quote": "分地区：华东地区（不含江苏） 9,442,652,428.36元 34.30%...毛利率 2.07%"
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "14,787,909,305.39",
+      "revenue_proportion": "53.72%",
+      "gross_margin": "4.17%",
+      "yoy_change": "-10.44%",
+      "quote": "分地区：其他地区4 14,787,909,305.39元 53.72%...毛利率 4.17%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "9,793,439,348.13",
+      "revenue_proportion": "35.58%",
+      "yoy_change": "-19.81%",
+      "quote": "分销售模式：直销 9,793,439,348.13元 35.58%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "17,732,197,970.51",
+      "revenue_proportion": "64.42%",
+      "yoy_change": "-5.30%",
+      "quote": "分销售模式：经销 17,732,197,970.51元 64.42%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "聚丙烯 (PP)",
+      "metric_type": "capacity",
+      "value": "200万吨/年",
+      "period": "报告期末",
+      "quote": "主要产品的产能情况：聚丙烯 设计产能 200万吨/年"
+    },
+    {
+      "product": "聚丙烯 (PP)",
+      "metric_type": "capacity_utilization",
+      "value": "100.00%",
+      "period": "报告期",
+      "quote": "主要产品的产能情况：聚丙烯 产能利用率 100.00%"
+    },
+    {
+      "product": "丙烯",
+      "metric_type": "production_volume",
+      "value": "118.54万吨",
+      "period": "报告期",
+      "quote": "宁波基地生产丙烯118.54万吨"
+    },
+    {
+      "product": "聚丙烯",
+      "metric_type": "production_volume",
+      "value": "128.79万吨",
+      "period": "报告期",
+      "quote": "宁波基地生产聚丙烯128.79万吨"
+    },
+    {
+      "product": "丙烯",
+      "metric_type": "production_volume",
+      "value": "53.62万吨",
+      "period": "报告期",
+      "quote": "张家港基地生产丙烯53.62万吨"
+    },
+    {
+      "product": "聚丙烯",
+      "metric_type": "production_volume",
+      "value": "35.27万吨",
+      "period": "报告期",
+      "quote": "张家港基地生产聚丙烯35.27万吨"
+    },
+    {
+      "product": "丙烯",
+      "metric_type": "production_volume",
+      "value": "62.88万吨",
+      "period": "报告期",
+      "quote": "茂名基地PDH装置完成丙烯产量62.88万吨"
+    },
+    {
+      "product": "聚丙烯",
+      "metric_type": "production_volume",
+      "value": "53.58万吨",
+      "period": "报告期",
+      "quote": "茂名基地PP装置完成产量53.58万吨"
+    },
+    {
+      "product": "合成氨",
+      "metric_type": "production_volume",
+      "value": "12.66万吨",
+      "period": "报告期",
+      "quote": "茂名基地合成氨装置完成液氨产量12.66万吨"
+    },
+    {
+      "product": "氢气",
+      "metric_type": "sales_volume",
+      "value": "约2.51万吨",
+      "period": "报告期",
+      "quote": "报告期内，氢气实现销售约2.51万吨"
+    },
+    {
+      "product": "化工行业（合计）",
+      "metric_type": "production_volume",
+      "value": "514.45万吨",
+      "period": "2025年",
+      "quote": "化工行业：生产量 万吨 514.45"
+    },
+    {
+      "product": "化工行业（合计）",
+      "metric_type": "sales_volume",
+      "value": "511.70万吨",
+      "period": "2025年",
+      "quote": "化工行业：销售量 万吨 511.70"
+    },
+    {
+      "product": "丙烯",
+      "metric_type": "production_volume",
+      "value": "235.04万吨",
+      "period": "报告期",
+      "quote": "报告期内的售价...产品名称 丙烯 产量 235.04万吨"
+    },
+    {
+      "product": "聚丙烯",
+      "metric_type": "production_volume",
+      "value": "217.64万吨",
+      "period": "报告期",
+      "quote": "报告期内的售价...产品名称 聚丙烯 产量 217.64万吨"
+    },
+    {
+      "product": "聚丙烯",
+      "metric_type": "sales_volume",
+      "value": "216.51万吨",
+      "period": "报告期",
+      "quote": "报告期内的售价...产品名称 聚丙烯 销量 216.51万吨"
+    },
+    {
+      "product": "丙烯",
+      "metric_type": "sales_volume",
+      "value": "26.01万吨",
+      "period": "报告期",
+      "quote": "报告期内的售价...产品名称 丙烯 销量 26.01万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "茂名烷烃资源综合利用项目聚丙烯提质改造",
+      "project_type": "capacity_expansion",
+      "location": "茂名",
+      "progress": "取得环评批复",
+      "quote": "报告期内正在申请或者新增取得的环评批复情况：2025年3月31日取得《茂名市生态环境局关于东华能源(茂名)烷烃资源综合利用项目聚丙烯提质改造环境影响报告书的批复》"
+    },
+    {
+      "name": "茂名港吉达港区东二港池1#、2#液体散货泊位改造工程",
+      "project_type": "construction_project",
+      "location": "茂名",
+      "progress": "取得环评批复",
+      "quote": "报告期内正在申请或者新增取得的环评批复情况：2025年6月19日取得《茂名市生态环境局关于茂名港吉达港区东二港池1#、2#液体散货泊位改造工程环境影响报告书的批复》"
+    },
+    {
+      "name": "茂名烷烃资源综合利用（一期I）及配套项目",
+      "project_type": "capacity_expansion",
+      "location": "茂名",
+      "investment_amount": "8,721,169,073.77元",
+      "progress": "100.00%",
+      "quote": "报告期内正在进行的重大的非股权投资情况：项目名称 茂名烷烃资源综合利用（一期I）及配套项目，涉及行业 丙烯、聚丙烯，截至报告期末累计实际投入金额 8,721,169,073.77元，项目进度 100.00%"
+    },
+    {
+      "name": "东华能源（茂名）碳纤维有限公司",
+      "project_type": "acquisition_project",
+      "location": "茂名",
+      "investment_amount": "111,000,000.00元",
+      "progress": "完成",
+      "quote": "报告期内获取的重大的股权投资情况：被投资公司名称 东华能源（茂名）碳纤维有限公司，主要业务 碳纤维材料，投资金额 111,000,000.00元，持股比例 100.00%，投资进展 完成"
+    },
+    {
+      "name": "碳纤维一期项目",
+      "project_type": "capacity_expansion",
+      "location": "茂名",
+      "designed_capacity": "年产4,800吨高性能碳纤维",
+      "progress": "按计划施工中（进度75%）",
+      "expected_completion_time": "2026年",
+      "quote": "东华能源万吨级碳纤维项目...项目一期新建2条纺丝线、2条碳化线...建设完成后可实现年产4,800吨高性能碳纤维。项目一期于2024年5月开工，目前按计划施工中。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "Grace的Unipol气相流化床工艺",
+      "asset_type": "process_technology",
+      "related_product": "聚丙烯",
+      "quote": "主要产品生产技术情况：聚丙烯...引进专利技术及该专利外的自主创新，包括Grace的Unipol气相流化床工艺、UOP的Oleflex工艺等"
+    },
+    {
+      "name": "UOP的Oleflex工艺",
+      "asset_type": "process_technology",
+      "related_product": "聚丙烯",
+      "quote": "主要产品生产技术情况：聚丙烯...引进专利技术及该专利外的自主创新，包括Grace的Unipol气相流化床工艺、UOP的Oleflex工艺等"
+    },
+    {
+      "name": "研发中心",
+      "asset_type": "technical_platform",
+      "quote": "公司设有专门的研发中心，配套聚丙烯小试设备与相应的检测仪器设备"
+    },
+    {
+      "name": "二步法-干喷湿纺工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "碳纤维",
+      "quote": "采用全球领先的二步法-干喷湿纺工艺技术，推动低成本高性能碳纤维规模化量产，拥有完全独立自主知识产权"
+    },
+    {
+      "name": "聚丙烯专利技术",
+      "asset_type": "patent",
+      "related_product": "聚丙烯",
+      "quantitative_info": "专利技术",
+      "quote": "主要产品生产技术情况：聚丙烯...专利技术"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "22.89%",
+      "related_entity": "前五名客户合计",
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元）6,301,397,482.26；前五名客户合计销售金额占年度销售总额比例22.89%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "12.55%",
+      "related_entity": "客户A",
+      "period": "2025年",
+      "quote": "公司前5大客户资料：序号1 客户名称 A 销售额 3,454,714,160.26元 占年度销售总额比例 12.55%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.27%",
+      "related_entity": "前五名供应商合计",
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元）12,892,620,769.33；前五名供应商合计采购金额占年度采购总额比例42.27%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "14.29%",
+      "related_entity": "供应商A",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料：序号1 供应商名称 A 采购额 4,358,355,521.95元 占年度采购总额比例 14.29%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司LPG深加工项目主要原材料为进口LPG，其价格受国际原油价格、国际市场需求、气候变化和地区冲突甚至心理预期等诸多因素影响，波动较大。公司如对国际液化气价格走势判断失误，造成采购价格偏高，将增加公司的生产成本。",
+      "related_entity": null,
+      "related_product": "液化石油气 (LPG)",
+      "quote": "三、公司面临的风险和应对措施 3、主要原材料价格波动风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "2025年国内PP产能4822.5万吨，同比增长10.1%。...供过于求压力仍存，PDH行业盈利持续承压。",
+      "related_entity": null,
+      "related_product": "聚丙烯 (PP)",
+      "quote": "二、报告期内公司所处行业情况：2025年...国内PP产能4822.5万吨，同比增长10.1%。...供过于求压力仍存，PDH行业盈利持续承压。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "主要受中美国贸易战影响，转租航次增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "其他业务1 其他业务主要为转租船收入，本期受中美国贸易战影响，转租航次增加。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司于2025年7月28日收到香港特别行政区仲裁裁决文书...公司已申请香港高院撤销该仲裁，且仲裁最终还需经内地人民法院审查，目前效力待定...江苏省南京市中级人民法院作出民事裁定...保全公司价值人民币801,776,757.76元的财产（即公司持有的子公司东华能源（张家港）新材料有限公司股权）",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "十一、重大诉讼、仲裁事项：2025年7月28日，公司收到香港特别行政区仲裁裁决文书...公司已申请香港高院撤销该仲裁...江苏省南京市中级人民法院作出民事裁定...保全公司价值人民币801,776,757.76元的财产（即公司持有的子公司东华能源（张家港）新材料有限公司股权）"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济波动风险...如果未来全球经济发生较大波动，我国的经济增速持续放缓，则公司的经营业绩也可能会随着国内外宏观环境调整而出现波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三、公司面临的风险和应对措施 1、宏观经济波动风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "项目建设进度不及预期风险...公司重点布局的碳纤维及高温气冷堆核电站项目将对公司的战略转型及财务数据构成重大影响，但项目建设进度受国家政策、主管政府部门批复、行业发展状况等多种因素影响，存在不及预期的风险。",
+      "related_entity": null,
+      "related_product": "碳纤维",
+      "quote": "三、公司面临的风险和应对措施 2、项目建设进度不及预期风险"
+    }
+  ]
+}

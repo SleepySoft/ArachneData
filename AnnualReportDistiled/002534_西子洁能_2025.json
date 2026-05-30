@@ -1,0 +1,494 @@
+{
+  "company_name_mentioned": "西子清洁能源装备制造股份有限公司",
+  "produces": [
+    {
+      "name": "余热锅炉",
+      "type": "device",
+      "revenue_proportion": "22.42%",
+      "quote": "分产品：余热锅炉 1,399,081,719.75 22.42%"
+    },
+    {
+      "name": "清洁环保能源装备",
+      "type": "device",
+      "revenue_proportion": "18.15%",
+      "quote": "清洁环保能源装备 1,132,844,018.67 18.15%"
+    },
+    {
+      "name": "解决方案",
+      "type": "service",
+      "revenue_proportion": "46.20%",
+      "quote": "解决方案 2,883,705,861.90 46.20%"
+    },
+    {
+      "name": "备件及服务",
+      "type": "service",
+      "revenue_proportion": "10.84%",
+      "quote": "备件及服务 676,741,960.60 10.84%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原辅材料",
+      "target_product": "余热锅炉等",
+      "cost_proportion": null,
+      "quote": "公司采购主要包括原（辅）材料采购、外扩采购、配套件采购、外协服务采购、安装施工服务采购、运输服务采购及其他非生产物资采购。（1）原辅材料主要是钢管、钢板、圆钢、扁钢、锻件等钢材料"
+    },
+    {
+      "name": "外扩采购",
+      "target_product": "结构件、受压件等部件",
+      "cost_proportion": null,
+      "quote": "（2）外扩采购主要是由公司提供图纸、供应商制造的结构件、受压件等部件，外扩采购部件的主要材料亦是钢材等材料"
+    },
+    {
+      "name": "配套件",
+      "target_product": "定制化辅件",
+      "cost_proportion": null,
+      "quote": "（3）配套件主要包括公司设计部提供相关技术参数、供应商制造的泵、阀门、电机等定制化辅件"
+    },
+    {
+      "name": "外协服务",
+      "target_product": "零件或组件加工制作",
+      "cost_proportion": null,
+      "quote": "（4）外协服务则是由公司提供图纸和要求、供应商负责部分工序的零件或组件加工制作服务"
+    },
+    {
+      "name": "安装施工服务",
+      "target_product": "EPC等解决方案业务",
+      "cost_proportion": null,
+      "quote": "（5）安装施工服务则是EPC等解决方案业务中的服务分包业务"
+    },
+    {
+      "name": "运输服务",
+      "target_product": "产品发运",
+      "cost_proportion": null,
+      "quote": "（6）运输服务则是公司产品发运的服务业务"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力",
+      "source_product": "余热锅炉，电站锅炉等",
+      "quote": "锅炉是重要的能源转换设备，广泛应用于电力、供热、石化、化工、钢铁、有色金属等行业"
+    },
+    {
+      "name": "供热",
+      "source_product": "余热锅炉等",
+      "quote": "锅炉是重要的能源转换设备，广泛应用于电力、供热、石化、化工、钢铁、有色金属等行业"
+    },
+    {
+      "name": "石化",
+      "source_product": "余热锅炉，换热器等",
+      "quote": "锅炉是重要的能源转换设备，广泛应用于电力、供热、石化、化工、钢铁、有色金属等行业"
+    },
+    {
+      "name": "化工",
+      "source_product": "余热锅炉，换热器等",
+      "quote": "锅炉是重要的能源转换设备，广泛应用于电力、供热、石化、化工、钢铁、有色金属等行业"
+    },
+    {
+      "name": "钢铁",
+      "source_product": "干熄焦余热锅炉等",
+      "quote": "锅炉是重要的能源转换设备，广泛应用于电力、供热、石化、化工、钢铁、有色金属等行业"
+    },
+    {
+      "name": "有色金属",
+      "source_product": "余热锅炉等",
+      "quote": "锅炉是重要的能源转换设备，广泛应用于电力、供热、石化、化工、钢铁、有色金属等行业"
+    },
+    {
+      "name": "光热发电",
+      "source_product": "熔盐吸热器，熔盐蒸汽发生系统等",
+      "quote": "公司从 2010 年开始，就致力于熔盐储热-蒸汽发生系统等关键热力设备及系统的研究，公司自主研发的“适用于光热与储热系统的大功率熔盐吸热器与熔盐蒸汽发生系统”并荣获国家能源领域首台（套）重大技术装备"
+    },
+    {
+      "name": "用户侧储能",
+      "source_product": "熔盐储能系统",
+      "quote": "公司已建成国内首个零碳工厂-西子航空零碳工厂、浙江省最大的用户侧熔盐储能项目——绍兴绿电熔盐储能项目"
+    },
+    {
+      "name": "火电灵活性改造",
+      "source_product": "熔盐储能系统",
+      "quote": "在火电灵活性改造各种技术路线中，熔盐储能技术凭借储能容量大、使用寿命长、占地面积小、安全性高、储热成本低、环境友好、适用范围广等诸多特性与优势具有广阔应用空间。"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "熔盐储能系统",
+      "quote": "公司熔盐储能技术在数据中心场景中展现出独特的适配性：一方面能实现电力的“移峰填谷”，有效平抑电网负荷波动，保障算力中心供电的稳定性与经济性；另一方面，其储热特性可与液冷等先进散热技术深度结合，为高密度算力集群提供高效、精准的温控解决方案，真正达成“电—热—算”一体化协同。"
+    },
+    {
+      "name": "核电",
+      "source_product": "核电设备（核电常规岛辅机、民用核二三级设备）",
+      "quote": "核电设备（核电常规岛辅机、民用核二三级设备）"
+    },
+    {
+      "name": "垃圾焚烧",
+      "source_product": "垃圾焚烧锅炉",
+      "quote": "垃圾焚烧锅炉、生物质锅炉、天然气锅炉（L型及D型）、废水废气废物（包括污泥）锅炉"
+    },
+    {
+      "name": "生物质发电",
+      "source_product": "生物质锅炉",
+      "quote": "垃圾焚烧锅炉、生物质锅炉、天然气锅炉（L型及D型）、废水废气废物（包括污泥）锅炉"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王克飞",
+      "role": "董事长，董事会秘书",
+      "quote": "公司负责人王克飞、主管会计工作负责人胡世华及会计机构负责人（会计主管人员）刘淑华声明...现任西子清洁能源装备制造股份有限公司董事长兼董事会秘书"
+    },
+    {
+      "name": "王水福",
+      "role": "实际控制人，控股股东（西子电梯集团）董事长",
+      "quote": "实际控制人姓名：王水福；西子联合控股有限公司董事长、西子电梯集团有限公司董事长"
+    },
+    {
+      "name": "胡世华",
+      "role": "主管会计工作负责人，财务负责人",
+      "quote": "公司负责人王克飞、主管会计工作负责人胡世华...2024年11月至今，在西子清洁能源装备制造股份有限公司任董事长助理兼财务负责人职务"
+    },
+    {
+      "name": "刘淑华",
+      "role": "会计机构负责人（会计主管人员），职工董事",
+      "quote": "公司负责人王克飞、主管会计工作负责人胡世华及会计机构负责人（会计主管人员）刘淑华声明"
+    },
+    {
+      "name": "Chang Ian H（张仁爀）",
+      "role": "副董事长",
+      "quote": "现任西子清洁能源装备制造股份有限公司副董事长"
+    },
+    {
+      "name": "刘慧明",
+      "role": "董事，总经理",
+      "quote": "现任公司董事、总经理"
+    },
+    {
+      "name": "俞苗",
+      "role": "副总经理",
+      "quote": "现任西子清洁能源装备制造股份有限公司（原杭锅集团）党委书记兼副总经理"
+    },
+    {
+      "name": "李景福",
+      "role": "副总经理",
+      "quote": "现任公司副总经理"
+    },
+    {
+      "name": "毛一恺",
+      "role": "职工董事，证券事务代表",
+      "quote": "现任西子清洁能源装备制造股份有限公司职工董事、董事长助理兼设计处处长、产品研发处处长、证券事务代表"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "西子电梯集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "西子电梯集团有限公司：指 西子电梯集团有限公司；控股股东名称：西子电梯集团有限公司"
+    },
+    {
+      "name": "金润（香港）有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人控制的企业，股东",
+      "quote": "金润（香港）有限公司：指 金润（香港）有限公司；股东名称：金润（香港）有限公司"
+    },
+    {
+      "name": "杭州市实业投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "杭实集团：指 杭州市实业投资集团有限公司；股东名称：杭州市实业投资集团有限公司"
+    },
+    {
+      "name": "浙江可胜技术股份有限公司",
+      "relation_type": "customer",
+      "business_details": "提及，具体业务未详述",
+      "quote": "可胜技术：指 浙江可胜技术股份有限公司"
+    },
+    {
+      "name": "赫普能源环境科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股企业，公司计划转让部分股权",
+      "quote": "赫普股份：指 赫普能源环境科技股份有限公司；公司之下属子公司...参股企业赫普股份"
+    },
+    {
+      "name": "浙江西子联合工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "西子联合工程：指 浙江西子联合工程有限公司；公司之下属子公司西子联合工程"
+    },
+    {
+      "name": "杭州杭锅工业锅炉有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "杭锅工业锅炉：指 杭州杭锅工业锅炉有限公司"
+    },
+    {
+      "name": "杭州新世纪能源环保工程股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "新世纪能源：指 杭州新世纪能源环保工程股份有限公司；公司之下属子公司...新世纪能源"
+    },
+    {
+      "name": "浙江西子新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "西子新能源：指 浙江西子新能源有限公司"
+    },
+    {
+      "name": "杭州西子核能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新设子公司，聚焦核岛关键设备",
+      "quote": "2025 年 8 月，公司设立了合资公司杭州西子核能科技有限公司，公司聚焦核岛关键设备的研发生产制造"
+    },
+    {
+      "name": "北京清微智能科技有限公司",
+      "relation_type": "customer",
+      "business_details": "战略合作伙伴，围绕人工智能数据中心建设合作",
+      "quote": "2026年1月16日，公司与北京清微智能科技有限公司正式签署战略合作协议。双方围绕人工智能数据中心建设，推动算力和能源建设等全方位合作"
+    },
+    {
+      "name": "浙江西洁自有资金投资有限公司（原浙江国新股权投资有限公司）",
+      "relation_type": "customer",
+      "business_details": "诉讼对手方",
+      "quote": "浙江西洁自有资金投资有限公司（原浙江国新股权投资有限公司）诉王宇、熊仁海案件（股权回购纠纷）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "装备制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "6,056,661,883.98元",
+      "revenue_proportion": "97.04%",
+      "gross_margin": "18.41%",
+      "yoy_change": "-3.03%",
+      "quote": "分行业：装备制造业 6,056,661,883.98 97.04% 6,245,871,930.61 97.04% -3.03%"
+    },
+    {
+      "name": "贸易服务业",
+      "segment_type": "business_unit",
+      "revenue_amount": "184,628,805.55元",
+      "revenue_proportion": "2.96%",
+      "gross_margin": "39.04%",
+      "yoy_change": "-3.21%",
+      "quote": "贸易服务业 184,628,805.55 2.96% 190,755,913.77 2.96% -3.21%"
+    },
+    {
+      "name": "余热锅炉",
+      "segment_type": "product_line",
+      "revenue_amount": "1,399,081,719.75元",
+      "revenue_proportion": "22.42%",
+      "gross_margin": "19.96%",
+      "yoy_change": "-37.21%",
+      "quote": "分产品：余热锅炉 1,399,081,719.75 22.42% 2,228,051,131.92 34.62% -37.21%"
+    },
+    {
+      "name": "清洁环保能源装备",
+      "segment_type": "product_line",
+      "revenue_amount": "1,132,844,018.67元",
+      "revenue_proportion": "18.15%",
+      "gross_margin": "17.74%",
+      "yoy_change": "10.51%",
+      "quote": "清洁环保能源装备 1,132,844,018.67 18.15% 1,025,117,903.68 15.93% 10.51%"
+    },
+    {
+      "name": "解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "2,883,705,861.90元",
+      "revenue_proportion": "46.20%",
+      "gross_margin": "15.68%",
+      "yoy_change": "19.31%",
+      "quote": "解决方案 2,883,705,861.90 46.20% 2,416,985,191.76 37.55% 19.31%"
+    },
+    {
+      "name": "备件及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "676,741,960.60元",
+      "revenue_proportion": "10.84%",
+      "gross_margin": "26.27%",
+      "yoy_change": "13.78%",
+      "quote": "备件及服务 676,741,960.60 10.84% 594,787,920.48 9.24% 13.78%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "5,343,181,002.98元",
+      "revenue_proportion": "85.61%",
+      "gross_margin": "18.47%",
+      "yoy_change": "-7.97%",
+      "quote": "分地区：内销 5,343,181,002.98 85.61% 5,806,219,508.35 90.21% -7.97%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "898,109,686.55元",
+      "revenue_proportion": "14.39%",
+      "gross_margin": "22.28%",
+      "yoy_change": "42.46%",
+      "quote": "外销 898,109,686.55 14.39% 630,408,336.03 9.79% 42.46%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "6,241,290,689.53元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "19.02%",
+      "yoy_change": "-3.03%",
+      "quote": "分销售模式：直销 6,241,290,689.53 100.00% 6,436,627,844.38 100.00% -3.03%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "装备制造业",
+      "metric_type": "sales_volume",
+      "value": "245台套",
+      "period": "2025年",
+      "quote": "销售量 台套 245 237 3.38%"
+    },
+    {
+      "product": "装备制造业",
+      "metric_type": "production_volume",
+      "value": "245台套",
+      "period": "2025年",
+      "quote": "生产量 台套 245 237 3.38%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新能源科技制造产业基地（浙江西子新能源有限公司年产580台套光热太阳能吸热器、换热器及导热油换热器、锅炉项目）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "109,630.18万元（调整后投资总额）",
+      "designed_capacity": "年产580台套光热太阳能吸热器、换热器及导热油换热器、锅炉",
+      "progress": "2025年9月30日本项目正式投产并办理了募投项目结项",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目：新能源科技制造产业基地（浙江西子新能源有限公司年产580台套光热太阳能吸热器、换热器及导热油换热器、锅炉项目）...2025年9月30日本项目正式投产并办理了募投项目结项"
+    },
+    {
+      "name": "崇贤制造基地升级建设核电专用制造清洁车间",
+      "project_type": "capacity_expansion",
+      "location": "崇贤",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "2025 年 8 月，公司设立了合资公司杭州西子核能科技有限公司...公司在崇贤制造基地升级建设核电专用制造清洁车间"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "适用于光热与储热系统的大功率熔盐吸热器与熔盐蒸汽发生系统",
+      "asset_type": "core_technology",
+      "related_product": "光热发电/熔盐储能",
+      "quantitative_info": "国家能源领域首台（套）重大技术装备",
+      "quote": "自主研发的“适用于光热与储热系统的大功率熔盐吸热器与熔盐蒸汽发生系统”被认定为国家能源领域首台（套）重大技术装备"
+    },
+    {
+      "name": "规模化熔盐储能技术",
+      "asset_type": "core_technology",
+      "related_product": "火电灵活性改造/储能",
+      "quantitative_info": "入选《绿色技术推广目录（2024年版）》",
+      "quote": "公司“规模化熔盐储能技术”成功入选国家发改委等部门公布的《绿色技术推广目录（2024年版）》"
+    },
+    {
+      "name": "A级锅炉制造许可证",
+      "asset_type": "certification",
+      "related_product": "锅炉",
+      "quantitative_info": "国内最高等级",
+      "quote": "公司拥有国内最高等级的 A 级锅炉制造许可证"
+    },
+    {
+      "name": "大型高压容器设计、制造许可证",
+      "asset_type": "certification",
+      "related_product": "压力容器",
+      "quantitative_info": null,
+      "quote": "公司拥有...大型高压容器设计、制造许可证"
+    },
+    {
+      "name": "民用核安全设备二、三级容器、储罐制造许可证",
+      "asset_type": "certification",
+      "related_product": "核电设备",
+      "quantitative_info": null,
+      "quote": "民用核安全设备二、三级容器、储罐制造许可证"
+    },
+    {
+      "name": "美国机械工程师协会（ASME）S、U 钢印及授权证书",
+      "asset_type": "certification",
+      "related_product": "锅炉、压力容器",
+      "quantitative_info": null,
+      "quote": "公司获得美国机械工程师协会（ASME）S、U 钢印及授权证书"
+    },
+    {
+      "name": "欧标 EN ISO3834 认证",
+      "asset_type": "certification",
+      "related_product": "焊接质量",
+      "quantitative_info": null,
+      "quote": "欧标 EN ISO3834 认证"
+    },
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建设有国家认定企业技术中心"
+    },
+    {
+      "name": "浙江省智慧能源与储能重点企业研究院",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "浙江省智慧能源与储能重点企业研究院"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "15.58%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 15.58%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "7.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 7.68%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "钢材是公司制造过程中主要的原材料，未来其价格若出现较大波动，将对公司的经营业绩造成一定的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司存在原材料价格及利率汇率波动、应收账款信用损失、市场竞争订单下滑、投资项目不及预期、技术迭代升级等风险因素"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司下游客户主要为电力、冶金、建材、化工等高用能企业...导致公司应收账款也面临着回款周期延长、增大信用损失发生风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司存在原材料价格及利率汇率波动、应收账款信用损失、市场竞争订单下滑、投资项目不及预期、技术迭代升级等风险因素"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "在锅炉行业整体产能扩大及新增装机容量下降的背景下，市场竞争将日趋激烈，毛利水平不断降低。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司存在原材料价格及利率汇率波动、应收账款信用损失、市场竞争订单下滑、投资项目不及预期、技术迭代升级等风险因素"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司正处于新旧能源利用转换时期，随着各类新能源应用技术不断迭代创新，公司原有技术存在被替代而失去竞争力的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司存在原材料价格及利率汇率波动、应收账款信用损失、市场竞争订单下滑、投资项目不及预期、技术迭代升级等风险因素"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司2025年度海外市场实现营业收入8.98亿元...受地缘政治及国际贸易关税壁垒影响，全球金融市场利率及汇率波动风险也有所增大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司存在原材料价格及利率汇率波动、应收账款信用损失、市场竞争订单下滑、投资项目不及预期、技术迭代升级等风险因素"
+    }
+  ]
+}

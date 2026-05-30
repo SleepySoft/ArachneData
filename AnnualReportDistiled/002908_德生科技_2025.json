@@ -1,0 +1,527 @@
+{
+  "company_name_mentioned": "广东德生科技股份有限公司",
+  "produces": [
+    {
+      "name": "一卡通应用",
+      "type": "service",
+      "revenue_proportion": "68.35%",
+      "quote": "分产品 一卡通应用 382,797,143.57 68.35%"
+    },
+    {
+      "name": "人社运营及大数据服务",
+      "type": "service",
+      "revenue_proportion": "31.65%",
+      "quote": "人社运营及大数据服务 177,271,459.62 31.65%"
+    },
+    {
+      "name": "AI政务窗口服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "可提供社保政策咨询、业务智能导办、线上自助经办等AI政务窗口服务"
+    },
+    {
+      "name": "数字化就业服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司创新采用‘平台+运营’模式，构建就业全场景运营服务体系"
+    },
+    {
+      "name": "医疗金融服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司聚焦医疗机构支付体系数字化升级，以无感支付为核心抓手，为医疗机构搭建一体化便捷支付运营平台"
+    },
+    {
+      "name": "数据运营服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司深耕专业数据运营赛道，以高标准数据治理为核心根基，构建‘数据+模型+场景’的一体化闭环服务体系"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": null,
+      "cost_proportion": "63.37%",
+      "quote": "直接材料 200,245,730.09 63.37%"
+    },
+    {
+      "name": "人工及其他成本",
+      "target_product": null,
+      "cost_proportion": "36.63%",
+      "quote": "人工及其他成本 115,744,461.79 36.63%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "政务服务",
+      "source_product": "AI政务窗口服务、社保卡服务",
+      "quote": "助力政务服务提质增效"
+    },
+    {
+      "name": "就业服务",
+      "source_product": "数字化就业服务",
+      "quote": "深度覆盖零工市场、就业驿站、线下招聘会等多元就业场景"
+    },
+    {
+      "name": "医疗服务",
+      "source_product": "医疗金融服务",
+      "quote": "公司聚焦医疗机构支付体系数字化升级"
+    },
+    {
+      "name": "民生服务",
+      "source_product": "社保卡服务",
+      "quote": "社保卡作为民生服务核心的实名载体与关键流量入口"
+    },
+    {
+      "name": "C端（消费者、个人用户）",
+      "source_product": null,
+      "quote": "精准链接企业端（B端）与居民端（C端）供需两端"
+    },
+    {
+      "name": "B端（企业端）",
+      "source_product": null,
+      "quote": "精准链接企业端（B端）与居民端（C端）供需两端"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "虢晓彬",
+      "role": "控股股东、实际控制人、董事长兼总经理",
+      "quote": "控股股东、实际控制人 指 虢晓彬"
+    },
+    {
+      "name": "陈曲",
+      "role": "副总经理兼董事会秘书、财务总监",
+      "quote": "公司负责人虢晓彬、主管会计工作负责人陈曲"
+    },
+    {
+      "name": "张颖",
+      "role": "董事",
+      "quote": "张颖 女 48 董事"
+    },
+    {
+      "name": "王孝礼",
+      "role": "董事兼副总经理",
+      "quote": "王孝礼 男 59 董事兼副总经理"
+    },
+    {
+      "name": "肖雷",
+      "role": "董事兼副总经理",
+      "quote": "肖雷 男 44 董事兼副总经理"
+    },
+    {
+      "name": "谈明华",
+      "role": "董事",
+      "quote": "谈明华 男 64 董事"
+    },
+    {
+      "name": "邓荣飞",
+      "role": "董事",
+      "quote": "邓荣飞 男 64 董事"
+    },
+    {
+      "name": "王丹舟",
+      "role": "独立董事",
+      "quote": "王丹舟 女 62 独立董事"
+    },
+    {
+      "name": "张翼",
+      "role": "独立董事",
+      "quote": "张翼 男 56 独立董事"
+    },
+    {
+      "name": "付宇",
+      "role": "独立董事",
+      "quote": "付宇 男 51 独立董事"
+    },
+    {
+      "name": "凌琳",
+      "role": "副总经理",
+      "quote": "凌琳 男 49 副总经理"
+    },
+    {
+      "name": "唐汉",
+      "role": "副总经理",
+      "quote": "唐汉 男 46 副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广州德岳置业投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "德岳置业 指 广州德岳置业投资有限公司，系德生科技子公司"
+    },
+    {
+      "name": "广州德生智能信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "德生智能 指 广州德生智能信息技术有限公司，系德生科技子公司"
+    },
+    {
+      "name": "广东校园卫士网络科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "校园卫士 指 广东校园卫士网络科技有限责任公司，系德生科技孙公司"
+    },
+    {
+      "name": "四川德生数字科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "四川数科 指 四川德生数字科技有限公司，系德生科技子公司"
+    },
+    {
+      "name": "北京德生智通科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "德生智通 指 北京德生智通科技有限公司，系德生科技子公司"
+    },
+    {
+      "name": "广东德生云服信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广东云服 指 广东德生云服信息科技有限公司，系德生科技子公司"
+    },
+    {
+      "name": "云南德生云服科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "云南云服 指 云南德生云服科技有限公司，系德生科技孙公司"
+    },
+    {
+      "name": "北京金色华勤数据服务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "金色华勤 指 北京金色华勤数据服务有限公司，系德生科技子公司"
+    },
+    {
+      "name": "山东德生聚变数据服务股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "德生聚变 指 山东德生聚变数据服务股份有限公司，系德生科技子公司"
+    },
+    {
+      "name": "广东德生金信科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "德生金信 指 广东德生金信科技有限公司，系德生科技子公司"
+    },
+    {
+      "name": "毕节德生人力资源开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "毕节德生人力资源 指 毕节德生人力资源开发有限公司，系德生科技孙公司"
+    },
+    {
+      "name": "广州德生健康医疗科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "德生健康医疗 指 广州德生健康医疗科技有限公司，系德生科技子公司"
+    },
+    {
+      "name": "中国银联股份有限公司",
+      "relation_type": "customer",
+      "business_details": "联合医保、银联打造的‘就医无感支付’服务",
+      "quote": "中国银联 指 中国银联股份有限公司"
+    },
+    {
+      "name": "国泰海通证券股份有限公司",
+      "relation_type": "investor",
+      "business_details": "报告期内履行持续督导职责的保荐机构",
+      "quote": "保荐机构、主承销商 指 国泰海通证券股份有限公司"
+    },
+    {
+      "name": "致同会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "致同会计师事务所 指 致同会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "深圳证券交易所",
+      "relation_type": "other",
+      "business_details": null,
+      "quote": "深交所、交易所 指 深圳证券交易所"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "一卡通应用",
+      "segment_type": "product_line",
+      "revenue_amount": "382,797,143.57元",
+      "revenue_proportion": "68.35%",
+      "gross_margin": "42.04%",
+      "yoy_change": "-22.05%",
+      "quote": "一卡通应用 382,797,143.57 68.35% ... 营业收入比上年同期增减 -22.05% ... 毛利率 42.04%"
+    },
+    {
+      "name": "人社运营及大数据服务",
+      "segment_type": "product_line",
+      "revenue_amount": "177,271,459.62元",
+      "revenue_proportion": "31.65%",
+      "gross_margin": "46.91%",
+      "yoy_change": "6.33%",
+      "quote": "人社运营及大数据服务 177,271,459.62 31.65% ... 营业收入比上年同期增减 6.33% ... 毛利率 46.91%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "134,639,671.67元",
+      "revenue_proportion": "24.04%",
+      "gross_margin": "43.76%",
+      "yoy_change": "-13.54%",
+      "quote": "华东地区 134,639,671.67 24.04% ... 营业收入比上年同期增减 -13.54% ... 毛利率 43.76%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "110,735,140.26元",
+      "revenue_proportion": "19.77%",
+      "gross_margin": "51.25%",
+      "yoy_change": "-37.43%",
+      "quote": "华南地区 110,735,140.26 19.77% ... 营业收入比上年同期增减 -37.43% ... 毛利率 51.25%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "107,397,005.31元",
+      "revenue_proportion": "19.18%",
+      "gross_margin": "47.29%",
+      "yoy_change": "-18.80%",
+      "quote": "华北地区 107,397,005.31 19.18% ... 营业收入比上年同期增减 -18.80% ... 毛利率 47.29%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "67,945,245.87元",
+      "revenue_proportion": "12.13%",
+      "gross_margin": "28.83%",
+      "yoy_change": "42.69%",
+      "quote": "西北地区 67,945,245.87 12.13% ... 营业收入比上年同期增减 42.69% ... 毛利率 28.83%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "66,886,380.58元",
+      "revenue_proportion": "11.94%",
+      "gross_margin": "43.78%",
+      "yoy_change": "-2.42%",
+      "quote": "华中地区 66,886,380.58 11.94% ... 营业收入比上年同期增减 -2.42% ... 毛利率 43.78%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "39,025,579.69元",
+      "revenue_proportion": "6.97%",
+      "gross_margin": null,
+      "yoy_change": "-12.59%",
+      "quote": "西南地区 39,025,579.69 6.97% ... 营业收入比上年同期增减 -12.59%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "33,439,579.81元",
+      "revenue_proportion": "5.97%",
+      "gross_margin": null,
+      "yoy_change": "4.52%",
+      "quote": "东北地区 33,439,579.81 5.97% ... 营业收入比上年同期增减 4.52%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "2,172.91万张/万台",
+      "period": "2025年",
+      "quote": "销售量 万张、万台 2,172.91"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "2,194.81万张/万台",
+      "period": "2025年",
+      "quote": "生产量 万张、万台 2,194.81"
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "8.39万张/万台",
+      "period": "2025年末",
+      "quote": "库存量 万张、万台 8.39"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "2,951.91万张/万台",
+      "period": "2024年",
+      "quote": "销售量 万张、万台 ... 2,951.91"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "2,957.08万张/万台",
+      "period": "2024年",
+      "quote": "生产量 万张、万台 ... 2,957.08"
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "13.67万张/万台",
+      "period": "2024年末",
+      "quote": "库存量 万张、万台 ... 13.67"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "居民服务一卡通数字化运营服务体系技术改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "8,780.33万元（调整后）",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2026年03月31日",
+      "quote": "项目名称：居民服务一卡通数字化运营服务体系技术改造项目 ... 截至期末累计投入金额 9,325.95 ... 项目达到预定可使用状态日期 2026年03月31日"
+    },
+    {
+      "name": "数字化就业综合服务平台项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "2,273.50万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2026年03月31日",
+      "quote": "项目名称：数字化就业综合服务平台项目 ... 截至期末累计投入金额 2,273.5 ... 项目达到预定可使用状态日期 2026年03月31日"
+    },
+    {
+      "name": "数字化创新中心及大数据平台技术改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "8,221.58万元（调整后）",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2026年03月31日",
+      "quote": "项目名称：数字化创新中心及大数据平台技术改造 ... 截至期末累计投入金额 8,834.14 ... 项目达到预定可使用状态日期 2026年03月31日"
+    },
+    {
+      "name": "营销及服务网络技术改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "2,225.93万元（调整后）",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2026年03月31日",
+      "quote": "项目名称：营销及服务网络技术改造 ... 截至期末累计投入金额 2,367.3 ... 项目达到预定可使用状态日期 2026年03月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“知纬解语”大模型",
+      "asset_type": "core_technology",
+      "related_product": "AI政务窗口服务",
+      "quantitative_info": null,
+      "quote": "公司依托自研训练的垂类模型 ——‘知纬解语’，持续推进政务Agent体系规模化建设"
+    },
+    {
+      "name": "德生智能体平台文本生成算法",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "已正式通过国家网信部门备案",
+      "quote": "自主研发的‘知纬解语’大模型、‘德生智能体平台文本生成算法’、‘德生智能体平台视频生成算法’等核心技术成果，已正式通过国家网信部门备案"
+    },
+    {
+      "name": "德生智能体平台视频生成算法",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "已正式通过国家网信部门备案",
+      "quote": "自主研发的‘知纬解语’大模型、‘德生智能体平台文本生成算法’、‘德生智能体平台视频生成算法’等核心技术成果，已正式通过国家网信部门备案"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计申请17项",
+      "quote": "累计申请发明专利17项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "获得38项",
+      "quote": "获得软件著作权证书38项"
+    },
+    {
+      "name": "资质认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "新增6项",
+      "quote": "新增资质认证6项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "15.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 15.44%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "5.76%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 32,263,107.03 5.76%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "35.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 35.31%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "9.38%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 20,072,188.04 9.38%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家和行业相关政策的调整和变化，可能对公司的业务布局、经营策略及市场拓展产生不确定性影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业政策风险 ... 国家和行业相关政策的调整和变化，可能对公司的业务布局、经营策略及市场拓展产生不确定性影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着AI大模型技术迭代和数据要素建设的深入推进，行业市场参与者不断涌现，传统竞争对手也不断加大投入、优化服务，行业竞争格局进一步复杂化，可能对公司的业务推进、市场份额及盈利能力带来新的挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争加剧的风险 ... 行业竞争格局进一步复杂化，可能对公司的业务推进、市场份额及盈利能力带来新的挑战。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新技术迭代速度加快，给传统业务模式带来巨大冲击。公司在新技术的研发投入和技术成果应用转化方面面临一定挑战，若不能及时跟上技术发展步伐、实现技术与业务的深度融合，可能影响公司的市场领先地位。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、技术风险 ... 新技术迭代速度加快，给传统业务模式带来巨大冲击。"
+    },
+    {
+      "risk_type": "other",
+      "description": "创新业务作为公司发展的重要驱动力，也是构筑核心竞争力的关键。在公司新业务拓展及相关产品开发中，前期投入可能对公司业绩的持续增长造成阶段性影响；同时，新业务落地还可能面临市场接受度不足、场景适配不畅等问题，存在创新不及预期的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、业务创新风险 ... 存在创新不及预期的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司作为知识密集型高新技术企业，高素质专业人才与核心团队是业务发展的核心支撑。当前行业竞争加剧，高素质人才的竞争更加激烈，人力成本持续上涨，公司在核心人才的吸引、培养和保留方面面临较大压力，若人才队伍出现不稳定情况，可能影响公司的研发进度、业务落地及核心竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、人力成本不断上升的风险 ... 若人才队伍出现不稳定情况，可能影响公司的研发进度、业务落地及核心竞争力。"
+    }
+  ]
+}

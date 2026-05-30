@@ -1,0 +1,385 @@
+{
+  "company_name_mentioned": "广东德联集团股份有限公司",
+  "produces": [
+    {
+      "name": "汽车精细化学品",
+      "type": "material",
+      "revenue_proportion": "53.17%",
+      "quote": "分产品\n汽车精细化学品 3,023,794,834.83 53.17%"
+    },
+    {
+      "name": "油液品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "油液品涵盖冷却液、制动液、动力转向油、发动机润滑油、自动变速箱油、燃油添加剂、玻璃清洗液等"
+    },
+    {
+      "name": "胶粘剂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "胶粘剂包括结构胶、玻璃胶、水性可喷涂阻尼材料、电池胶等"
+    },
+    {
+      "name": "汽车销售与维修服务",
+      "type": "service",
+      "revenue_proportion": "41.68%",
+      "quote": "分产品\n汽车销售与维修 2,370,518,832.83 41.68%"
+    },
+    {
+      "name": "电镀中间体",
+      "type": "material",
+      "revenue_proportion": "1.02%",
+      "quote": "分产品\n电镀中间体 58,007,457.63 1.02%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、零部件、设备、软件、服务或能源",
+      "target_product": "汽车精细化学品、汽车销售与维修",
+      "cost_proportion": null,
+      "quote": "公司主要供应商包括国外授权方及国内化工原料供应商。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车整车厂（OEM市场）",
+      "source_product": "汽车精细化学品",
+      "quote": "作为下游整车厂的合格供应商，直接向整车厂销售产品并提供配套服务。"
+    },
+    {
+      "name": "汽车售后市场（AM市场）",
+      "source_product": "汽车精细化学品、汽车维修保养服务",
+      "quote": "零售市场，包括汽车领域市场和非汽车领域市场，其中汽车领域市场为销售非原厂维修部件的汽车零部件售后服务市场"
+    },
+    {
+      "name": "储能、风能、核能、电子冷却",
+      "source_product": "冷却液",
+      "quote": "公司冷却液凭借兼容性、长效性、安全性、低导电率、环保性等优势，在储能、风能、核能领域开拓了新应用场景"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐团华",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人徐团华、主管会计工作负责人谭照强及会计机构负责人（会计主管人员）谭照强声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "徐庆芳",
+      "role": "董事、副总经理、实际控制人",
+      "quote": "徐庆芳女士，现任本公司董事、副总经理，公司实际控制人。"
+    },
+    {
+      "name": "徐咸大",
+      "role": "实际控制人（一致行动人）",
+      "quote": "徐团华、徐庆芳、徐咸大、郭荣娜、杨樾...徐团华先生任公司董事长、总经理；徐庆芳女士任公司董事、副总经理。"
+    },
+    {
+      "name": "谭照强",
+      "role": "董事、财务总监",
+      "quote": "财务总监\n谭照强先生...2025年11月至今任本公司董事，2024年5月至今任本公司财务总监。"
+    },
+    {
+      "name": "陶张",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书\n陶张女士，现任公司董事会秘书、副总经理"
+    },
+    {
+      "name": "曹华",
+      "role": "副总经理",
+      "quote": "副总经理\n曹华先生...2014年4月至今任公司副总经理。"
+    },
+    {
+      "name": "郭荣娜",
+      "role": "董事",
+      "quote": "郭荣娜女士，现任本公司董事。"
+    },
+    {
+      "name": "孟晨鹦",
+      "role": "职工董事",
+      "quote": "孟晨鹦女士，现任本公司职工董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "长春德联化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车精细化学品生产与销售",
+      "quote": "长春德联 指 公司子公司长春德联化工有限公司"
+    },
+    {
+      "name": "上海德联化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车精细化学品生产与销售",
+      "quote": "上海德联 指 公司子公司上海德联化工有限公司"
+    },
+    {
+      "name": "佛山德联汽车用品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车精细化学品生产与销售",
+      "quote": "佛山德联 指 公司子公司佛山德联汽车用品有限公司"
+    },
+    {
+      "name": "成都德联汽车用品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车精细化学品生产与销售",
+      "quote": "成都德联 指 公司子公司成都德联汽车用品有限公司"
+    },
+    {
+      "name": "上海德联车护网络发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车维修保养业务",
+      "quote": "德联车护 指 公司子公司上海德联车护网络发展有限公司"
+    },
+    {
+      "name": "成都励合铭科新材料技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "成都励合铭科 指 公司参股公司成都励合铭科新材料技术有限公司"
+    },
+    {
+      "name": "巴斯夫",
+      "relation_type": "supplier",
+      "business_details": "技术和产品授权方，特定产品的国内长期、唯一合作方",
+      "quote": "在上游，取得了巴斯夫、科思创、陶氏化学等国际化工巨头的技术和产品授权，...公司与德国巴斯夫、美国杜邦、陶氏、雅富顿、科慕化学等国际化工企业建立了长期的战略合作关系，且为特定产品的国内长期、唯一合作方"
+    },
+    {
+      "name": "陶氏化学",
+      "relation_type": "supplier",
+      "business_details": "技术和产品授权方，战略合作伙伴",
+      "quote": "公司凭借与奔驰、宝马、一汽大众、上汽大众等国内外知名汽车商，以及全球领先的材料科学公司陶氏公司等国际知名企业的长期合作"
+    },
+    {
+      "name": "尚颀资本",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "尚颀资本 指 上海尚颀投资管理合伙企业（有限合伙）"
+    },
+    {
+      "name": "广汽资本",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "广汽资本 指 广汽资本有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车精细化学品",
+      "segment_type": "product_line",
+      "revenue_amount": "3,023,794,834.83",
+      "revenue_proportion": "53.17%",
+      "gross_margin": "14.72%",
+      "yoy_change": "0.76%",
+      "quote": "分行业\n汽车精细化学品 3,023,794,834.83 53.17%...汽车精细化学品 14.72% 0.76% 2.47% -1.43%"
+    },
+    {
+      "name": "汽车销售与维修",
+      "segment_type": "product_line",
+      "revenue_amount": "2,370,518,832.83",
+      "revenue_proportion": "41.68%",
+      "gross_margin": "1.11%",
+      "yoy_change": "46.02%",
+      "quote": "分行业\n汽车销售与维修 2,370,518,832.83 41.68%...汽车销售与维修 1.11% 46.02% 43.93% 1.44%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "3,889,404,157.41",
+      "revenue_proportion": "68.39%",
+      "gross_margin": null,
+      "yoy_change": "23.09%",
+      "quote": "分地区\n东北 3,889,404,157.41 68.39%...23.09%"
+    },
+    {
+      "name": "OEM/OES",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,751,275,852.35",
+      "revenue_proportion": "48.37%",
+      "gross_margin": null,
+      "yoy_change": "-3.51%",
+      "quote": "分销售模式\nOEM/OES 2,751,275,852.35 48.37%...-3.51%"
+    },
+    {
+      "name": "整车销售及售后服务",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,784,085,061.15",
+      "revenue_proportion": "48.95%",
+      "gross_margin": null,
+      "yoy_change": "43.14%",
+      "quote": "分销售模式\n整车销售及售后服务 2,784,085,061.15 48.95%...43.14%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "油液品",
+      "metric_type": "production_volume",
+      "value": "150,372.80吨",
+      "period": "2025年",
+      "quote": "产量（吨）\n油液品 150,372.80"
+    },
+    {
+      "product": "油液品",
+      "metric_type": "sales_volume",
+      "value": "136,229.23吨",
+      "period": "2025年",
+      "quote": "销售量（吨）\n油液品 136,229.23"
+    },
+    {
+      "product": "胶粘剂",
+      "metric_type": "production_volume",
+      "value": "23,104.89吨",
+      "period": "2025年",
+      "quote": "产量（吨）\n胶粘剂 23,104.89"
+    },
+    {
+      "product": "胶粘剂",
+      "metric_type": "sales_volume",
+      "value": "24,608.65吨",
+      "period": "2025年",
+      "quote": "销售量（吨）\n胶粘剂 24,608.65"
+    },
+    {
+      "product": "新能源汽车油液品",
+      "metric_type": "production_volume",
+      "value": "9,658.62吨",
+      "period": "2025年",
+      "quote": "产品类别 产能状况 产量 销量 销售收入\n油液品 良好 9,658.62吨"
+    },
+    {
+      "product": "新能源汽车胶粘剂",
+      "metric_type": "production_volume",
+      "value": "2376.91吨",
+      "period": "2025年",
+      "quote": "产品类别 产能状况 产量 销量 销售收入\n胶粘剂 良好 2376.91吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "德联汽车新材料胶黏剂研发和制造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "9,699.92万元",
+      "designed_capacity": null,
+      "progress": "已于2025年9月30日前实施完毕，达到预定可使用状态。截至报告期末，项目产品尚处于试生产和客户验证阶段，尚未产生效益。",
+      "expected_completion_time": "2025年9月30日",
+      "quote": "德联汽车新材料胶黏剂研发和制造项目...2025年09月30日...达到预定可使用状态...截至报告期末，项目产品尚处于试生产和客户验证阶段，尚未产生效益。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ISO9001、ISO/TS16949、OSHAS18001和ISO14001认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后通过了 ISO9001、ISO/TS16949、OSHAS18001 和 ISO14001 认证。"
+    },
+    {
+      "name": "高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "子公司上海德联、佛山德联、成都德联",
+      "quote": "子公司上海德联、佛山德联、成都德联均通过高新技术企业认定"
+    },
+    {
+      "name": "ISO/IEC17025认证（国家级实验室认证证书）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "长春及佛山两地实验室",
+      "quote": "长春及佛山两地实验室均已获得ISO/IEC17025认证（国家级实验室认证证书）"
+    },
+    {
+      "name": "环氧密封胶及其制备方法",
+      "asset_type": "core_technology",
+      "related_product": "环氧密封胶",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：环氧密封胶及其制备方法"
+    },
+    {
+      "name": "电动汽车冷却液及其制备方法",
+      "asset_type": "core_technology",
+      "related_product": "电动汽车冷却液",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：电动汽车冷却液及其制备方法"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.71%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "15.20%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5大客户资料\n序号 客户名称 销售额（元） 占年度销售总额比例\n1 第一名 864,587,947.53 15.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "49.66%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 49.66%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "16.56%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料\n序号 供应商名称 采购额（元） 占年度采购总额比例\n1 第一名 906,963,087.26 16.56%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内汽车市场竞争持续加剧，公司汽车精细化学品业务整体毛利率有所下滑。",
+      "related_entity": null,
+      "related_product": "汽车精细化学品",
+      "quote": "本报告期归属于上市公司股东的净利润同比下降，主要原因为：1.国内汽车市场竞争持续加剧，公司汽车精细化学品业务整体毛利率有所下滑。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "个别子公司经营业绩未达预期，管理层基于谨慎性原则，对其未来经营前景重新评估后，计提了相应的商誉减值准备。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.个别子公司经营业绩未达预期，管理层基于谨慎性原则，对其未来经营前景重新评估后，计提了相应的商誉减值准备。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "汽车行业技术迭代速度进一步加快，新技术、新国标的规模化应用，对汽车精细化学品的性能要求持续提升；同时，环保合规标准不断收紧，若公司未能及时跟上技术升级步伐，或研发投入不足导致产品无法满足新的技术和合规要求，可能出现产品竞争力下降、市场份额流失的风险，甚至面临合规处罚，影响公司正常生产经营。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5.技术迭代与合规风险\n2026年，汽车行业技术迭代速度进一步加快...若公司未能及时跟上技术升级步伐，或研发投入不足导致产品无法满足新的技术和合规要求，可能出现产品竞争力下降、市场份额流失的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司部分核心原材料与石油相关度较高...若国际政治局势持续不稳定，可能导致原油价格剧烈波动，直接影响公司原材料采购成本和产品毛利率。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.原材料波动和供应风险\n公司部分核心原材料与石油相关度较高...可能导致原油价格剧烈波动，直接影响公司原材料采购成本和产品毛利率。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "若市场需求出现不及预期的变动，或新能源产品技术迭代导致部分库存产品过时，可能出现存货无法及时销售、可变现净值降低的情况，不仅占用大量流动资金、增加财务风险，还可能产生存货减值损失，对公司经营成果和现金流量造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.存货增长较快相关风险\n...若市场需求出现不及预期的变动，或新能源产品技术迭代导致部分库存产品过时，可能出现存货无法及时销售、可变现净值降低的情况...还可能产生存货减值损失"
+    },
+    {
+      "risk_type": "other",
+      "description": "受汽车产业发展状况影响的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.受汽车产业发展状况影响的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "募投项目产能消化的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.募投项目产能消化的风险"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "company_name_mentioned": "珠海港股份有限公司",
+  "produces": [
+    {
+      "name": "港口航运物流服务",
+      "type": "service",
+      "revenue_proportion": "41.36%",
+      "quote": "港口航运物流 41.36%"
+    },
+    {
+      "name": "新能源（风力/光伏发电、管道燃气）",
+      "type": "service",
+      "revenue_proportion": "56.34%",
+      "quote": "新能源 56.34%"
+    },
+    {
+      "name": "港口板块",
+      "type": "service",
+      "revenue_proportion": "17.74%",
+      "quote": "港口板块 17.74%"
+    },
+    {
+      "name": "航运板块",
+      "type": "service",
+      "revenue_proportion": "8.80%",
+      "quote": "航运板块 8.80%"
+    },
+    {
+      "name": "物流板块",
+      "type": "service",
+      "revenue_proportion": "7.62%",
+      "quote": "物流板块 7.62%"
+    },
+    {
+      "name": "港口服务板块",
+      "type": "service",
+      "revenue_proportion": "7.20%",
+      "quote": "港口服务板块 7.20%"
+    },
+    {
+      "name": "新能源板块",
+      "type": "service",
+      "revenue_proportion": "56.34%",
+      "quote": "新能源板块 56.34%"
+    },
+    {
+      "name": "家电玻璃产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "家电玻璃产品主要面向冰箱、洗衣机、空调及厨电"
+    },
+    {
+      "name": "新能源玻璃产品（BIPV）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "新能源玻璃产品主要面向建筑立面、屋面及其他新能源配套场景"
+    }
+  ],
+  "procures": [
+    {
+      "name": "天然气",
+      "target_product": "管道燃气业务",
+      "cost_proportion": "16.42%",
+      "quote": "中国海洋石油集团有限公司 340,608,958.79 16.42%"
+    },
+    {
+      "name": "玻璃原片",
+      "target_product": "玻璃深加工产品",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括天然气、玻璃原片等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "物流运输与港口作业",
+      "source_product": "港口航运物流服务",
+      "quote": "主要从事港口的投资运营、船舶运输、物流及港航配套服务"
+    },
+    {
+      "name": "电力供应",
+      "source_product": "新能源（风力/光伏发电）",
+      "quote": "主要从事风力发电、光伏发电、管道燃气、天然气发电"
+    },
+    {
+      "name": "家电制造",
+      "source_product": "家电玻璃产品",
+      "quote": "家电玻璃产品主要面向冰箱、洗衣机、空调及厨电等应用场景"
+    },
+    {
+      "name": "建筑光伏一体化",
+      "source_product": "新能源玻璃产品（BIPV）",
+      "quote": "新能源玻璃产品主要面向建筑立面、屋面及其他新能源配套场景"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "蔡文",
+      "role": "董事局主席",
+      "quote": "蔡文 男 57 董事局主席 现任"
+    },
+    {
+      "name": "冯鑫",
+      "role": "董事、总裁",
+      "quote": "冯鑫 男 53 董事、总裁 现任"
+    },
+    {
+      "name": "陈虹",
+      "role": "财务总监",
+      "quote": "陈虹 女 52 财务总监 现任"
+    },
+    {
+      "name": "薛楠",
+      "role": "董事、副总裁、董事局秘书",
+      "quote": "薛楠 女 52 董事、副总裁、董事局秘书 现任"
+    },
+    {
+      "name": "朱文胜",
+      "role": "副总裁",
+      "quote": "朱文胜 男 58 副总裁 现任"
+    },
+    {
+      "name": "苗雨",
+      "role": "副总裁",
+      "quote": "苗雨 男 47 副总裁 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "珠海港控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股29.98%",
+      "quote": "珠海港控股集团有限公司 275,747,150 29.98%"
+    },
+    {
+      "name": "珠海交通控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "珠海交通控股集团有限公司 (交控集团)"
+    },
+    {
+      "name": "江苏秀强玻璃工艺股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事玻璃深加工产品的研发、生产和销售",
+      "quote": "旗下控股上市公司秀强股份深挖智能玻璃、BIPV产业潜力"
+    },
+    {
+      "name": "天伦燃气控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "非执行董事在该公司任职",
+      "quote": "2021年7月至今，任天伦燃气控股有限公司非执行董事"
+    },
+    {
+      "name": "海尔集团公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占7.70%",
+      "quote": "1 海尔集团公司 337,841,538.51 7.70%"
+    },
+    {
+      "name": "迁安市九江线材有限责任公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占6.07%",
+      "quote": "2 迁安市九江线材有限责任公司 266,421,823.04 6.07%"
+    },
+    {
+      "name": "欧港亚洲控股",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占5.77%",
+      "quote": "3 欧港亚洲控股 252,939,812.56 5.77%"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占5.69%",
+      "quote": "4 国家电网有限公司 249,829,232.53 5.69%"
+    },
+    {
+      "name": "惠而浦公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占5.41%",
+      "quote": "5 惠而浦公司 237,180,678.56 5.41%"
+    },
+    {
+      "name": "中国海洋石油集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占16.42%",
+      "quote": "1 中国海洋石油集团有限公司 340,608,958.79 16.42%"
+    },
+    {
+      "name": "中玻投资有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占3.93%",
+      "quote": "2 中玻投资有限公司 81,595,397.08 3.93%"
+    },
+    {
+      "name": "广州市建林船务有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占3.36%",
+      "quote": "3 广州市建林船务有限公司 69,807,799.75 3.36%"
+    },
+    {
+      "name": "金晶(集团)有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占3.31%",
+      "quote": "4 金晶(集团)有限公司 68,737,565.94 3.31%"
+    },
+    {
+      "name": "常熟耀皮特种玻璃有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占2.74%",
+      "quote": "5 常熟耀皮特种玻璃有限公司 56,862,881.40 2.74%"
+    },
+    {
+      "name": "国能珠海港务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，为国家煤炭应急储备基地",
+      "quote": "参股的珠海港务则为国家煤炭应急储备基地"
+    },
+    {
+      "name": "珠海港昇新能源股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，风电业务运营主体",
+      "quote": "公司风电业务运营主体珠海港昇作为新三板挂牌企业"
+    }
+  ]
+}

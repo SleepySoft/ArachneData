@@ -1,0 +1,468 @@
+{
+  "company_name_mentioned": "长春奥普光电技术股份有限公司",
+  "produces": [
+    {
+      "name": "光电测控仪器",
+      "type": "device",
+      "revenue_proportion": "2025年收入占比37.58%",
+      "quote": "光电测控仪器 300,500,087.50 37.58%"
+    },
+    {
+      "name": "光栅传感器",
+      "type": "component",
+      "revenue_proportion": "2025年收入占比21.12%",
+      "quote": "光栅传感器 168,880,037.12 21.12%"
+    },
+    {
+      "name": "复合材料制品",
+      "type": "material",
+      "revenue_proportion": "2025年收入占比38.15%",
+      "quote": "复合材料 305,100,185.89 38.15%"
+    },
+    {
+      "name": "光学材料",
+      "type": "material",
+      "revenue_proportion": "2025年收入占比1.72%",
+      "quote": "光学材料 13,724,644.94 1.72%"
+    },
+    {
+      "name": "光电经纬仪光机分系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "光电经纬仪是用于测量导弹、卫星、飞机等飞行物体飞行轨迹及坐标信息的高精度光学测量设备"
+    },
+    {
+      "name": "航空/航天相机光机分系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "航空/航天相机是以航空航天飞行器为平台，实施遥感测绘的专用光电测控仪器设备"
+    },
+    {
+      "name": "新型雷达天线座",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新型雷达天线座是一种用于支撑雷达天线探测目标的光电测控装置"
+    },
+    {
+      "name": "新型医疗仪器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新型医疗仪器是军民两用的专业检测仪器，主要用于飞行员、驾驶员、操作员等特殊人群的身体指标快速检测"
+    },
+    {
+      "name": "高性能碳纤维复合材料制品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "高性能碳纤维复合材料制品主要应用于航空航天、武器装备等领域"
+    }
+  ],
+  "procures": [
+    {
+      "name": "德国iC-HAUS",
+      "target_product": "光栅传感器相关部件",
+      "cost_proportion": "占年度采购总额比例4.44%",
+      "quote": "1 德国iC-HAUS 13,461,291.44 4.44%"
+    },
+    {
+      "name": "广州卡本复合材料有限公司",
+      "target_product": "复合材料相关",
+      "cost_proportion": "占年度采购总额比例2.91%",
+      "quote": "2 广州卡本复合材料有限公司 8,818,088.50 2.91%"
+    },
+    {
+      "name": "吉林省隆甫科技制造有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例2.80%",
+      "quote": "3 吉林省隆甫科技制造有限公司 8,494,271.06 2.80%"
+    },
+    {
+      "name": "长春长光睿视光电技术有限责任公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例2.57%",
+      "quote": "4 长春长光睿视光电技术有限责任公司 7,796,460.18 2.57%"
+    },
+    {
+      "name": "北京国科华仪科技有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例2.31%",
+      "quote": "5 北京国科华仪科技有限公司 7,008,946.90 2.31%"
+    },
+    {
+      "name": "高端k9光学玻璃",
+      "target_product": "光学系统产品",
+      "cost_proportion": null,
+      "quote": "高端k9光学玻璃主要用于加工高端光学元器件，是公司光学系统产品主要原材料之一。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "国防军工/航空航天",
+      "source_product": "光电测控仪器，高性能碳纤维复合材料制品",
+      "quote": "公司是研制光机电一体化产品的高新技术企业...曾参与多项国家重大工程项目，在国防光电测控领域处于同行业领先地位。"
+    },
+    {
+      "name": "深空探测",
+      "source_product": "光电测控仪器",
+      "quote": "公司及控股子公司长光宇航产品广泛应用于光电测控、航空航天遥感、深空探测等场景。"
+    },
+    {
+      "name": "高端装备制造/数控机床",
+      "source_product": "光栅传感器",
+      "quote": "光栅传感器广泛应用于自动化领域...是数控机床、交流伺服电机、电梯、重大科研仪器等领域中大量应用的关键测量传感器件"
+    },
+    {
+      "name": "工业机器人",
+      "source_product": "光栅传感器",
+      "quote": "高端绝对式光栅尺等高端产品已在工业母机等领域实现国产替代。"
+    },
+    {
+      "name": "武器装备",
+      "source_product": "高性能碳纤维复合材料制品",
+      "quote": "通过对碳纤维的加工成型，为航空航天载荷、导弹火箭等提供结构件及功能件"
+    },
+    {
+      "name": "飞行员、驾驶员等特殊人群健康监测",
+      "source_product": "新型医疗仪器",
+      "quote": "新型医疗仪器是军民两用的专业检测仪器，主要用于飞行员、驾驶员、操作员等特殊人群的身体指标快速检测"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "高劲松",
+      "role": "董事长",
+      "quote": "公司负责人高劲松、主管会计工作负责人徐爱民及会计机构负责人（会计主管人员）田光宗声明..."
+    },
+    {
+      "name": "徐爱民",
+      "role": "主管会计工作负责人",
+      "quote": "公司负责人高劲松、主管会计工作负责人徐爱民及会计机构负责人（会计主管人员）田光宗声明..."
+    },
+    {
+      "name": "田光宗",
+      "role": "会计机构负责人",
+      "quote": "公司负责人高劲松、主管会计工作负责人徐爱民及会计机构负责人（会计主管人员）田光宗声明..."
+    },
+    {
+      "name": "沈娟",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 沈娟 周健"
+    },
+    {
+      "name": "周健",
+      "role": "证券事务代表",
+      "quote": "董事会秘书 证券事务代表 姓名 沈娟 周健"
+    },
+    {
+      "name": "赵嵩",
+      "role": "总经理",
+      "quote": "2024 2027 年01 年01 月16 月15 日 日 0 0 0 0 0 总经 理"
+    },
+    {
+      "name": "赵贵军",
+      "role": "副总经理",
+      "quote": "赵贵 男 58 副总 现任 2020 2027 军 经理 年10 年01 月26 月15 日 日 0 0 0 0 0"
+    },
+    {
+      "name": "韩诚山",
+      "role": "董事 (在控股股东长春光机所任副所长)",
+      "quote": "韩诚山 男 54 董事 现任 0 0 0 0 0"
+    },
+    {
+      "name": "薛栋林",
+      "role": "董事 (在控股股东长春光机所任所务委员)",
+      "quote": "薛栋林 男 47 董事 现任 0 0 0 0 0"
+    },
+    {
+      "name": "刘艳春",
+      "role": "董事 (在风华高科任职)",
+      "quote": "刘艳春 女 51 董事 现任 0 0 0 0 0"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国科学院长春光学精密机械与物理研究所",
+      "relation_type": "investor",
+      "business_details": "控股股东，第一大客户（关联销售），采购软件商品的供应商（关联采购），厂房出租方",
+      "quote": "控股股东名称 中国科学院长春光学精密机械与物理研究所...公司前5大客户资料 1 第一名 252,987,098.35 31.64%...公司前5名供应商资料...中国科学院长春光学精密机械与物理研究所...332.11 1.10%"
+    },
+    {
+      "name": "广东风华高新科技股份有限公司",
+      "relation_type": "investor",
+      "business_details": "股东（持股比例4.99%）",
+      "quote": "股东名称 ... 广东风华高新科技股份有限公司 ... 持股比例 4.99%"
+    },
+    {
+      "name": "长春禹衡光学有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营光栅传感器等",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...长春禹衡光学有限 子公司 ... 主要业务 光电编码器、光学仪器、长光栅、数 控机床、伺服拖动系统及相 关产品的生产、研发、开发 和销售"
+    },
+    {
+      "name": "长春长光宇航复合材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营复合材料制品",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...长春长光宇航复合材料有限 子公司 ... 主要业务 复合材料、纤维复合材料制品、树脂材料、金属材料及其生产设备的研发、开发、生产、销售、安装、调试、技术转让、技术咨询服务"
+    },
+    {
+      "name": "长春长光辰芯微电子股份有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司，主营光电芯片、传感器等",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...长春长光辰芯微电子股份有限 参股公司 ... 主要业务 光电芯片、传感器、仪器设备、相关平台及应用软件的研发、生产、销售"
+    },
+    {
+      "name": "长春长光睿视光电技术有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "4 长春长光睿视光电技术有限 责任公司 7,796,460.18 2.57%"
+    },
+    {
+      "name": "德国iC-HAUS",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商（采购芯片等）",
+      "quote": "1 德国iC-HAUS 13,461,291.44 4.44%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光电测控仪器",
+      "segment_type": "product_line",
+      "revenue_amount": "300,500,087.50元",
+      "revenue_proportion": "37.58%",
+      "gross_margin": "20.49%",
+      "yoy_change": "收入同比增14.48%",
+      "quote": "光电测控仪器 300,500,087.50 37.58% ... 光电测控仪器 20.49% 14.48%"
+    },
+    {
+      "name": "光栅传感器",
+      "segment_type": "product_line",
+      "revenue_amount": "168,880,037.12元",
+      "revenue_proportion": "21.12%",
+      "gross_margin": "41.88%",
+      "yoy_change": "收入同比增0.95%",
+      "quote": "光栅传感器 168,880,037.12 21.12% ... 光栅传感器 41.88% 0.95%"
+    },
+    {
+      "name": "复合材料",
+      "segment_type": "product_line",
+      "revenue_amount": "305,100,185.89元",
+      "revenue_proportion": "38.15%",
+      "gross_margin": "42.49%",
+      "yoy_change": "收入同比增3.18%",
+      "quote": "复合材料 305,100,185.89 38.15% ... 复合材料 42.49% 3.18%"
+    },
+    {
+      "name": "光学材料",
+      "segment_type": "product_line",
+      "revenue_amount": "13,724,644.94元",
+      "revenue_proportion": "1.72%",
+      "gross_margin": null,
+      "yoy_change": "收入同比减0.36%",
+      "quote": "光学材料 13,724,644.94 1.72%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "799,640,976.49元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "收入同比增7.27%",
+      "quote": "分地区 国内 799,640,976.49 100.00%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "799,640,976.49元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "收入同比增7.27%",
+      "quote": "分销售模式 直销 799,640,976.49 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光栅传感器",
+      "metric_type": "sales_volume",
+      "value": "实现快速增长",
+      "period": "报告期",
+      "quote": "光栅传感领域：经受住复杂的市场环境考验，营收及利润均实现增长，尤其是高端光栅尺营收实现快速增长"
+    },
+    {
+      "product": "封闭式钢带尺",
+      "metric_type": "capacity",
+      "value": "大量程突破至50米",
+      "period": "报告期",
+      "quote": "大量程封闭式钢带尺测量长度突破至50米，实现在龙门机床领域的批量化国产替代"
+    },
+    {
+      "product": "碳纤维复合材料制品",
+      "metric_type": "other",
+      "value": "数十件产品随型号任务顺利完成14次发射、7次飞试",
+      "period": "报告期",
+      "quote": "研制的数十件产品随型号任务顺利完成14次发射、7次飞试"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "光电产品集成中心",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "光电跟瞄类产品批量集成化制造能力得到大幅提升",
+      "progress": "于三季度建设完成并投入运行",
+      "expected_completion_time": null,
+      "quote": "“光电产品集成中心”于三季度建设完成并投入运行，光电跟瞄类产品批量集成化制造能力得到大幅提升"
+    },
+    {
+      "name": "精密光学制造中心",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "新建产线占地面积8800平方米，打造了从万级到百级的洁净生产环境",
+      "progress": "完成基础条件建设及团队建设，新建产线占地面积8800平方米",
+      "expected_completion_time": null,
+      "quote": "“精密光学制造中心”完成基础条件建设及团队建设，新建产线占地面积8800平方米，打造了从万级到百级的洁净生产环境"
+    },
+    {
+      "name": "水下成像产品项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "由研发阶段转入小批量生产阶段，全年交付数百台套",
+      "expected_completion_time": null,
+      "quote": "自主研发的水下成像产品由研发阶段转入小批量生产阶段，全年交付数百台套"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "光电跟踪与测量技术",
+      "asset_type": "core_technology",
+      "related_product": "光电测控仪器",
+      "quantitative_info": null,
+      "quote": "公司在光电跟踪与测量、特种成像技术方面的积累，顺应了装备集成化的发展方向。"
+    },
+    {
+      "name": "光栅传感技术",
+      "asset_type": "core_technology",
+      "related_product": "光栅传感器",
+      "quantitative_info": "五项国家级重点研发项目通过验收",
+      "quote": "行业正朝着超高测量精度、超高转速响应、绝对式编码技术方向发展...五项国家级重点研发项目通过验收"
+    },
+    {
+      "name": "基于Fibersim的非规则结构高精度仿真分析技术",
+      "asset_type": "process_technology",
+      "related_product": "复合材料制品",
+      "quantitative_info": null,
+      "quote": "在仿真分析及结构设计领域，形成基于Fibersim的非规则结构高精度仿真分析技术"
+    },
+    {
+      "name": "国防科技工业体系全套资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "全套",
+      "quote": "3、国防科技工业体系全套资质"
+    },
+    {
+      "name": "医疗器械生产许可证",
+      "asset_type": "certification",
+      "related_product": "新型医疗仪器",
+      "quantitative_info": null,
+      "quote": "4、医疗产品生产许可 公司拥有吉林省食品药品监督管理局颁发的《医疗器械生产许可证》。"
+    },
+    {
+      "name": "已获授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "123项",
+      "quote": "2、专利 已获授权专利：...123 钳工竞赛精加工工装 2025202228853 实用新型"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "12项",
+      "quote": "已获得的软件著作权 ... 12 AR眼镜异源图像融合系统 12321306 软件著作"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "51.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 51.88%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "31.64%",
+      "related_entity": "中国科学院长春光学精密机械与物理研究所（关联方）",
+      "period": "2025年",
+      "quote": "1 第一名 252,987,098.35 31.64%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "15.03%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 15.03%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "4.44%",
+      "related_entity": "德国iC-HAUS",
+      "period": "2025年",
+      "quote": "1 德国iC-HAUS 13,461,291.44 4.44%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中关联方销售额占年度销售总额比例 31.64%",
+      "related_entity": "中国科学院长春光学精密机械与物理研究所",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 31.64%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "军品采购具有高度的计划性、定制性等特点，军方采购计划的实施进度直接影响到行业内企业的发展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "挑战：军品采购具有高度的计划性、定制性等特点，军方采购计划的实施进度直接影响到行业内企业的发展。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "光栅传感器领域市场仍由德国、英国及日本等国外产品主导，行业集中度相对较高。倒逼公司必须加大研发投入、优化生产工艺，尽快实现技术突破。",
+      "related_entity": null,
+      "related_product": "光栅传感器",
+      "quote": "光栅传感器领域市场仍由德国、英国及日本等国外产品主导，行业集中度相对较高。倒逼公司必须加大研发投入、优化生产工艺，尽快实现技术突破"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "在民用高端编码器领域，虽然海德汉、雷尼绍等国际品牌仍占据高端市场主要份额。",
+      "related_entity": "海德汉、雷尼绍",
+      "related_product": "编码器",
+      "quote": "在民用高端编码器领域，虽然海德汉、雷尼绍等国际品牌仍占据高端市场主要份额"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "报告期受客观情况影响，行业整体招投标、合同签订、项目验收、回款等进度放缓...多重因素叠加，对企业的资金运营能力带来巨大挑战",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内受客观情况影响，行业整体招投标、合同签订、项目验收、回款等进度放缓。同时，因产品用途特殊性，研发及生产加工周期较长，企业通常需要先期投入经费。多重因素叠加，对企业的资金运营能力带来巨大挑战"
+    },
+    {
+      "risk_type": "other",
+      "description": "政策及市场风险：如果未来政策形势或市场环境等方面发生不利变化，则存在业绩或项目收益不达预期的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "政策及市场风险：公司主营业务及投入的建设项目符合国家产业政策和行业发展趋势，有良好的市场前景，但如果未来政策形势或市场环境等方面发生不利变化，则存在业绩或项目收益不达预期的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才流失风险：如果他们当中的部分或全部人员因种种原因离开公司，公司将在短期内难以或无法找到合适的替代人选。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才流失风险：在长期的生产经营中，公司培养并拥有一支高素质且有一定经验的研发团队、高级技师和技术工人队伍...如果他们当中的部分或全部人员因种种原因离开公司，公司将在短期内难以或无法找到合适的替代人选。"
+    }
+  ]
+}

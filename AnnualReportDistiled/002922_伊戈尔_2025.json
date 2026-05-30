@@ -1,0 +1,637 @@
+{
+  "company_name_mentioned": "伊戈尔电气股份有限公司",
+  "produces": [
+    {
+      "name": "变压设备产品（包括新能源产品、数据中心产品、配电产品、工业控制产品）",
+      "type": "device",
+      "revenue_proportion": "72.45%",
+      "quote": "分产品 变压设备产品 3,813,505,469.01 72.45%"
+    },
+    {
+      "name": "照明产品（包括照明电源、灯具）",
+      "type": "device",
+      "revenue_proportion": "17.54%",
+      "quote": "分产品 照明产品 922,998,124.79 17.54%"
+    },
+    {
+      "name": "其他产品（包括车载电感、车载电源、通讯电源、新能源汽车充电桩）",
+      "type": "device",
+      "revenue_proportion": "10.01%",
+      "quote": "分产品 其他产品 527,229,929.85 10.01%"
+    },
+    {
+      "name": "新能源变压器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新能源变压器产品主要包括应用于光伏发电、电化学储能及氢能等新能源电力场景的产品"
+    },
+    {
+      "name": "箱式变电站",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "箱式变电站集成变压器、传感器、通信技术及智能控制装置等模块"
+    },
+    {
+      "name": "高频磁性器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "高频磁性器件是光伏逆变器设备核心元器件，具有低噪音、高稳定性、轻量化设计、结构紧凑及高效率等特点"
+    },
+    {
+      "name": "数据中心变压器（移相变压器、油浸式变压器、干式变压器）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "数据中心变压器产品主要包括应用于数据中心的移相变压器、油浸式变压器及干式变压器"
+    },
+    {
+      "name": "数据中心供电系统",
+      "type": "system",
+      "revenue_proportion": null,
+      "quote": "数据中心供电系统通过电能转换技术及系统级集成，为数据中心应用提供稳定、高效的供电解决方案"
+    },
+    {
+      "name": "配电变压器（单相变压器、三相变压器）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "配电变压器主要包括单相变压器及三相变压器，作为中低压电网的核心设备"
+    },
+    {
+      "name": "工业控制变压器（环形变压器、方形变压器、开关电源）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "工业控制变压器主要包括环形变压器、方形变压器、开关电源等产品"
+    },
+    {
+      "name": "照明电源",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "照明电源产品主要配套于商业、家居及户外灯具，具有高效率、高功率因数、结构紧凑及无频闪运行等特点"
+    },
+    {
+      "name": "灯具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "灯具产品主要为北美市场的客户开发及供应定制化灯具，涵盖吊灯、壁灯、枝形吊灯、筒灯及低压景观灯等室内外产品"
+    },
+    {
+      "name": "车载电感",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "车载电感产品应用于纯电动汽车、混合动力汽车及氢燃料电池汽车"
+    },
+    {
+      "name": "车载电源（DC/DC直流转换器、车载充电器（OBC））",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "车载电源产品核心包括两大类：DC/DC直流转换器，专为驱动车载电子系统的12V或24V电池充电；车载充电器（“OBC”），负责将交流输入转换为直流输出，以满足新能源汽车的充电需求"
+    },
+    {
+      "name": "通讯电源",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "通讯电源产品专为通信网络基础设施设计"
+    },
+    {
+      "name": "新能源汽车充电桩",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新能源汽车充电桩涵盖超级充电集、交流充电桩、直流一体式充电桩、直流分体式充电机以及共直流母线式光储充一体化系统等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "硅钢片",
+      "target_product": "变压设备产品等",
+      "cost_proportion": "84.85%（变压设备产品直接材料成本占比）",
+      "quote": "公司原材料主要为硅钢片、铜材、电子元器件...变压设备产品 直接材料 84.85%"
+    },
+    {
+      "name": "铜材",
+      "target_product": "变压设备产品等",
+      "cost_proportion": "84.85%（变压设备产品直接材料成本占比）",
+      "quote": "公司原材料主要为硅钢片、铜材、电子元器件"
+    },
+    {
+      "name": "电子元器件",
+      "target_product": "照明产品、其他产品等",
+      "cost_proportion": "78.55%（照明产品直接材料成本占比）",
+      "quote": "公司原材料主要为硅钢片、铜材、电子元器件"
+    }
+  ],
+  "applications": [
+    {
+      "name": "光伏发电",
+      "source_product": "新能源变压器、高频磁性器件",
+      "quote": "新能源变压器产品主要包括应用于光伏发电、电化学储能及氢能等新能源电力场景的产品...高频磁性器件是光伏逆变器设备核心元器件"
+    },
+    {
+      "name": "电化学储能",
+      "source_product": "新能源变压器",
+      "quote": "新能源变压器产品主要包括应用于光伏发电、电化学储能及氢能等新能源电力场景的产品"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "数据中心变压器、数据中心供电系统",
+      "quote": "数据中心变压器产品主要包括应用于数据中心的移相变压器、油浸式变压器及干式变压器...数据中心供电系统通过电能转换技术及系统级集成，为数据中心应用提供稳定、高效的供电解决方案"
+    },
+    {
+      "name": "电网配电",
+      "source_product": "配电变压器（单相变压器、三相变压器）",
+      "quote": "配电变压器主要包括单相变压器及三相变压器，作为中低压电网的核心设备，其可将高压电能转换为终端用户适用的低电压，广泛支持家庭、工业及新能源并网场景"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "工业控制变压器（环形变压器、方形变压器、开关电源）",
+      "quote": "工业控制变压器主要包括环形变压器、方形变压器、开关电源等产品，主要应用于节能环保型设备，以及医疗、安防等应用场景"
+    },
+    {
+      "name": "商业、家居及户外照明",
+      "source_product": "照明电源、灯具",
+      "quote": "照明电源产品主要配套于商业、家居及户外灯具...灯具产品主要为北美市场的客户开发及供应定制化灯具，涵盖吊灯、壁灯、枝形吊灯、筒灯及低压景观灯等室内外产品"
+    },
+    {
+      "name": "新能源汽车（纯电动汽车、混合动力汽车、氢燃料电池汽车）",
+      "source_product": "车载电感、车载电源、新能源汽车充电桩",
+      "quote": "车载电感产品应用于纯电动汽车、混合动力汽车及氢燃料电池汽车...车载电源产品核心包括两大类：DC/DC直流转换器，专为驱动车载电子系统的12V或24V电池充电；车载充电器（“OBC”），负责将交流输入转换为直流输出，以满足新能源汽车的充电需求"
+    },
+    {
+      "name": "通信网络基础设施",
+      "source_product": "通讯电源",
+      "quote": "通讯电源产品专为通信网络基础设施设计"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "肖俊承",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人肖俊承...董事长肖俊承先生，毕业于华中科技大学电力系电机专业，并在 2008 年取得香港科技大学 EMBA 学位"
+    },
+    {
+      "name": "赵楠楠",
+      "role": "董事、总经理",
+      "quote": "主管会计工作负责人赵楠楠...赵楠楠，男，1982年出生...现任伊戈尔董事、总经理"
+    },
+    {
+      "name": "陈丽君",
+      "role": "财务负责人、会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）陈丽君...陈丽君，女，1986年出生...现任公司财务负责人"
+    },
+    {
+      "name": "梁伦商",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...梁伦商，男，1983年出生...现任公司董事会秘书"
+    },
+    {
+      "name": "柳景元",
+      "role": "副总经理",
+      "quote": "柳景元，男，1981年出生...现任公司副总经理"
+    },
+    {
+      "name": "黄慧杰",
+      "role": "副总经理",
+      "quote": "黄慧杰，男，1986年出生...现任公司副总经理"
+    },
+    {
+      "name": "吴豫辉",
+      "role": "副总经理",
+      "quote": "吴豫辉，男，1986年出生...现任公司副总经理"
+    },
+    {
+      "name": "郭石光",
+      "role": "副总经理",
+      "quote": "郭石光，男，1986年出生...现任公司副总经理"
+    },
+    {
+      "name": "陈亮",
+      "role": "副总经理",
+      "quote": "陈亮，男，1988年出生...现任公司副总经理"
+    },
+    {
+      "name": "郭振岩",
+      "role": "董事",
+      "quote": "郭振岩，男，1964年出生...现任伊戈尔董事"
+    },
+    {
+      "name": "龙建刚",
+      "role": "董事",
+      "quote": "龙建刚，男，1964年出生...现任伊戈尔董事"
+    },
+    {
+      "name": "鄢国祥",
+      "role": "独立董事",
+      "quote": "鄢国祥，男，1966年出生...伊戈尔独立董事"
+    },
+    {
+      "name": "傅捷",
+      "role": "独立董事",
+      "quote": "傅捷，女，1978年出生...伊戈尔独立董事"
+    },
+    {
+      "name": "唐都远",
+      "role": "独立董事",
+      "quote": "唐都远，男，1978年出生...伊戈尔独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "佛山市麦格斯投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东名称 佛山市麦格斯投资有限公司"
+    },
+    {
+      "name": "江西伊戈尔数字能源技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "江西数字能源 指 江西伊戈尔数字能源技术有限公司（全资子公司）"
+    },
+    {
+      "name": "佛山市顺德区伊戈尔电力科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "顺德伊戈尔 指 佛山市顺德区伊戈尔电力科技有限公司（全资子公司）"
+    },
+    {
+      "name": "吉安伊戈尔电气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "吉安伊戈尔 指 吉安伊戈尔电气有限公司（全资子公司）"
+    },
+    {
+      "name": "吉安伊戈尔磁电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "伊戈尔磁电 指 吉安伊戈尔磁电科技有限公司（全资子公司）"
+    },
+    {
+      "name": "安徽能启电气科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "安徽能启 指 安徽能启电气科技有限公司（全资子公司）"
+    },
+    {
+      "name": "广东英备特电气科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "广东英备特 指 广东英备特电气科技有限公司（全资子公司）"
+    },
+    {
+      "name": "Eaglerise Electric & Electronic (Thailand) Co., Ltd.",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "泰国伊戈尔 指 Eaglerise Electric & Electronic (Thailand) Co., Ltd.（全资子公司）"
+    },
+    {
+      "name": "Eaglerise E&E(USA), Inc.",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "洛杉矶伊戈尔 指 Eaglerise E&E(USA), Inc.（全资子公司）"
+    },
+    {
+      "name": "伊戈爾企業發展(香港)有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "香港伊戈尔 指 伊戈爾企業發展(香港)有限公司（全资子公司）"
+    },
+    {
+      "name": "江西吉仕邦科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "江西吉仕邦 指 江西吉仕邦科技有限公司（全资子公司）"
+    },
+    {
+      "name": "深圳市鼎硕同邦科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "深圳市鼎硕同邦科技有限公司（子公司）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电气机械和器材制造业",
+      "segment_type": "industry",
+      "revenue_amount": "5,214,011,894.87元",
+      "revenue_proportion": "99.06%",
+      "gross_margin": "17.87%",
+      "yoy_change": "13.28%",
+      "quote": "分行业 电气机械和器材制造业 5,214,011,894.87 99.06% 17.87% 13.28%"
+    },
+    {
+      "name": "变压设备产品",
+      "segment_type": "product_line",
+      "revenue_amount": "3,813,505,469.01元",
+      "revenue_proportion": "72.45%",
+      "gross_margin": "17.72%",
+      "yoy_change": "12.49%",
+      "quote": "分产品 变压设备产品 3,813,505,469.01 72.45% 17.72% 12.49%"
+    },
+    {
+      "name": "照明产品",
+      "segment_type": "product_line",
+      "revenue_amount": "922,998,124.79元",
+      "revenue_proportion": "17.54%",
+      "gross_margin": "18.62%",
+      "yoy_change": "-5.66%",
+      "quote": "分产品 照明产品 922,998,124.79 17.54% 18.62% -5.66%"
+    },
+    {
+      "name": "其他产品",
+      "segment_type": "product_line",
+      "revenue_amount": "527,229,929.85元",
+      "revenue_proportion": "10.01%",
+      "gross_margin": "17.59%",
+      "yoy_change": "92.87%",
+      "quote": "分产品 其他产品 527,229,929.85 10.01% 17.59% 92.87%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "3,354,010,652.07元",
+      "revenue_proportion": "63.72%",
+      "gross_margin": "12.49%",
+      "yoy_change": "2.11%",
+      "quote": "分地区 1、境内 3,354,010,652.07 63.72% 12.49% 1.81%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,909,722,871.58元",
+      "revenue_proportion": "36.28%",
+      "gross_margin": "27.17%",
+      "yoy_change": "40.72%",
+      "quote": "分地区 2、境外 1,909,722,871.58 36.28% 27.17% 40.72%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,964,163,138.58元",
+      "revenue_proportion": "94.31%",
+      "gross_margin": "17.92%",
+      "yoy_change": "13.75%",
+      "quote": "分销售模式 直销 4,964,163,138.58 94.31% 17.92% 13.72%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "299,570,385.07元",
+      "revenue_proportion": "5.69%",
+      "gross_margin": null,
+      "yoy_change": "7.77%",
+      "quote": "分销售模式 经销 299,570,385.07 5.69% 7.77%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电气机械和器材制造业",
+      "metric_type": "sales_volume",
+      "value": "101,504,732.00台、只",
+      "period": "2025年",
+      "quote": "销售量 台、只 101,504,732.00"
+    },
+    {
+      "product": "电气机械和器材制造业",
+      "metric_type": "production_volume",
+      "value": "106,030,176.00台、只",
+      "period": "2025年",
+      "quote": "生产量 台、只 106,030,176.00"
+    },
+    {
+      "product": "电气机械和器材制造业",
+      "metric_type": "inventory_volume",
+      "value": "3,601,393.00台、只",
+      "period": "2025年末",
+      "quote": "库存量 台、只 3,601,393.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中压直流供电系统智能制造建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "57,834.44万元",
+      "designed_capacity": null,
+      "progress": "101.88%",
+      "expected_completion_time": "2025年08月31日",
+      "quote": "中压直流供电系统智能制造建设项目...57,834.44...101.88%...2025年08月31日"
+    },
+    {
+      "name": "智能箱变及储能系列产品数字化工厂建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "22,436.25万元",
+      "designed_capacity": null,
+      "progress": "100.21%",
+      "expected_completion_time": "2025年09月01日",
+      "quote": "智能箱变及储能系列产品数字化工厂建设项目...22,436.25...100.21%...2025年09月01日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "25,113.58万元",
+      "designed_capacity": null,
+      "progress": "50.85%",
+      "expected_completion_time": "2026年08月31日",
+      "quote": "研发中心建设项目...25,113.58...50.85%...2026年08月31日"
+    },
+    {
+      "name": "安徽生产基地项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽淮南",
+      "investment_amount": "1,268.91万元（截至报告期末累计实际投入）",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "安徽 生产基地项目...累计实际投入金额 1,268.91...100.00%"
+    },
+    {
+      "name": "墨西哥生产基地",
+      "project_type": "capacity_expansion",
+      "location": "墨西哥",
+      "investment_amount": "559,825.98元（截至报告期末累计实际投入）",
+      "designed_capacity": null,
+      "progress": "92.79%",
+      "expected_completion_time": null,
+      "quote": "墨西哥 生产基地...累计实际投入金额 559,825.98...92.79%"
+    },
+    {
+      "name": "泰国工厂",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投产",
+      "expected_completion_time": null,
+      "quote": "2025 年顺利完成泰国工厂、美国工厂、吉州生产基地及相关产线投产"
+    },
+    {
+      "name": "美国德克萨斯州智能变压器制造工厂",
+      "project_type": "capacity_expansion",
+      "location": "美国德克萨斯州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年10月投产",
+      "expected_completion_time": null,
+      "quote": "美国德克萨斯州设立的智能变压器制造工厂于 2025 年 10 月投产"
+    },
+    {
+      "name": "吉州生产基地",
+      "project_type": "capacity_expansion",
+      "location": "江西吉安",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投产",
+      "expected_completion_time": null,
+      "quote": "2025 年顺利完成泰国工厂、美国工厂、吉州生产基地及相关产线投产"
+    },
+    {
+      "name": "SST实验室和电力电子产线",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "全力推进泰国工厂、墨西哥基地、中山研发中心、吉州二期基地、SST实验室和电力电子产线等多个项目建设"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "584项（截至2025年12月31日中国境内）",
+      "quote": "中国境内拥专利 584 项"
+    },
+    {
+      "name": "高频磁性器件技术",
+      "asset_type": "core_technology",
+      "related_product": "高频磁性器件",
+      "quantitative_info": null,
+      "quote": "高频磁性器件，以其低噪音、高稳定性成为国内主流光伏逆变器厂商的核心产品"
+    },
+    {
+      "name": "PPS一体注塑成型技术",
+      "asset_type": "process_technology",
+      "related_product": "车载电感",
+      "quantitative_info": null,
+      "quote": "在车载电感产品的开发及制造中，公司采用 PPS 一体注塑成型技术"
+    },
+    {
+      "name": "“铝线替代铜线+纯粉芯”技术方案",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "首创“铝线替代铜线+纯粉芯”技术方案等"
+    },
+    {
+      "name": "多项国际认证（UL、CSA、CE、TÜV、PSE等）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司产品符合中国国家标准(GB)、美国保险商试验所标准(UL)、加拿大标准协会认证(CSA)、欧盟 CE认证、德国 TÜV认证以及日本电气用品安全法(PSE)等多项国际主要市场的准入要求"
+    },
+    {
+      "name": "参与制定行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "参与制定行业标准"
+    },
+    {
+      "name": "固态变压器技术研发",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司正积极布局下一代电力电子技术。固态变压器作为数据中心供配电体系的重要技术路径...公司积极投入相关技术的研发，目前已开展固态变压器相关产品的研发工作"
+    },
+    {
+      "name": "巴拿马电源等新型高效供电系统",
+      "asset_type": "technical_platform",
+      "related_product": "数据中心供电系统",
+      "quantitative_info": null,
+      "quote": "同时，也在积极投入资源开拓巴拿马电源等新型高效供电系统市场"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "39.79%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 39.79%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "23.59%",
+      "related_entity": "第一名",
+      "period": "2025年度",
+      "quote": "第一名 1,241,843,546.97 23.59%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "13.58%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 13.58%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "4.21%",
+      "related_entity": "第一名",
+      "period": "2025年度",
+      "quote": "第一名 210,259,458.74 4.21%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务主要以美元、欧元、日元结算，人民币对美元、欧元、日元的汇率波动可能对公司业绩产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "近年来国际知名厂商在我国建立生产基地...市场竞争将更为激烈。如果发生决策失误，市场拓展不力，不能保持技术、生产水平的先进性，或者市场供求状况发生了重大不利变化，公司将会面临不利的市场竞争局面。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争加剧的风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "由于各项技术不断处于更新换代过程中，以及受自身研发条件限制，某些新技术成果可能无法按照计划完成开发...如果公司技术研发偏离了下游行业的技术发展方向，将导致公司技术研发成果无法应用于市场，从而对公司业务发展造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术更新迭代风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司原材料主要为硅钢片、铜材、电子元器件，硅钢片和铜材为大宗商品，其采购价格受近年来大宗商品市场影响。未来，如果大宗商品市场价格大幅波动，则可能对本公司经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要原材料价格波动的风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司出口业务占营业收入比重较大，公司产品覆盖多个国家和地区。国外市场受国际政治、经济变动、汇率波动和国际贸易冲突与摩擦的影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国际化经营风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司规模不断扩大，公司的资产规模、产销规模、人员规模等将进一步扩大...如果公司管理不能适应快速发展的需要，将对公司的发展造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "管理风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "近年来我国劳动力成本持续上升，公司产品人工成本亦呈逐年上升趋势。如果劳动力成本增幅过快，将对公司利润带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "劳动力成本上升风险"
+    }
+  ]
+}

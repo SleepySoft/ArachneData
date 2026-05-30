@@ -1,0 +1,570 @@
+{
+  "company_name_mentioned": "四川海特高新技术股份有限公司",
+  "produces": [
+    {
+      "name": "全动飞行模拟机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "已成功研制并交付空客A320CEO/NEO、波音737NG、波音737MAX全动飞行模拟机，同时具备空客、波音窄体机D级全动模拟机研发、制造、取证能力"
+    },
+    {
+      "name": "国产商用飞机客舱氧气系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "牵头承担某型号国产商用飞机客舱氧气系统核心研制重任。该系统已顺利通过适航取证、完成试验验证并实现规模化交付"
+    },
+    {
+      "name": "飞行员供氧系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "多型号直升机机组供氧系统已实现规模化批量交付。该产品在国内首创数字脉冲供氧尖端技术"
+    },
+    {
+      "name": "航空发动机主要零部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "开展中小型发动机研发与制造工作；完成某型号发动机部分零部件研制工作并已批量供应"
+    },
+    {
+      "name": "直升机电动救援绞车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "多型号直升机电动救援绞车已实现批量交付，产品系列化发展"
+    },
+    {
+      "name": "航空发动机全权限数字控制系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "航空发动机全权限数字控制系统等产品，目前已经有多个型号产品交付客户"
+    },
+    {
+      "name": "航空仪表（机载导航系统航向指示器）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "机载导航系统航向指示器等，具有精密度高、可靠性强等特征"
+    },
+    {
+      "name": "航空发动机维修保障服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主要开展涡轴、涡桨中小型航空发动机大修，涵盖国内外主流航空发动机厂商多个系列、数十种型号"
+    },
+    {
+      "name": "飞机客机改货机服务（B737NG, A321）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司是国内唯一能同时执行波音B737NG与空客A321系列两大主力窄体机型客机改货机业务的民营企业"
+    },
+    {
+      "name": "飞机大修与维修服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "服务机型覆盖波音B737NG系列及空客A320/A321系列，业务涵盖飞机大修、航线维护、退租检全链条服务"
+    },
+    {
+      "name": "飞行培训服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "面向航空公司及飞行学院，提供涵盖波音、空客及直升机系列的飞行员、乘务员、安保及机务人员全方位培训业务"
+    },
+    {
+      "name": "航空部附件维修服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "维修机型包括国产商用飞机、欧美主流窄体机与宽体机...涉及70多种机型，维修服务范围包括飞行计算机系统、通讯导航系统、雷达系统等"
+    },
+    {
+      "name": "航空检测设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "具备电子与机械自动检测设备的全流程研发制造能力，为客户提供高精尖的检测服务及定制化设备设施"
+    },
+    {
+      "name": "eVTOL模拟器及相关仿真解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "成功研制并交付国内首台eVTOL模拟器，推动eVTOL仿真培训模拟器研制工作"
+    },
+    {
+      "name": "无人机发动机控制系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "成功研发国内首款600千瓦级涡轴无人机发动机控制系统，已开始小批量交付客户"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、零部件、设备、软件、服务或能源",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "无原文明确提及的采购项目列表"
+    }
+  ],
+  "applications": [
+    {
+      "name": "民用航空运输",
+      "source_product": "飞机大修、客机改货机、航空部附件维修、飞行模拟机",
+      "quote": "服务机型覆盖波音B737NG系列及空客A320/A321系列，业务涵盖飞机大修、航线维护、退租检全链条服务"
+    },
+    {
+      "name": "通用航空/公务机",
+      "source_product": "公务机维修、飞行培训",
+      "quote": "公务机领域：公司已获得美国FAA、欧洲EASA、中国CAAC...等多个国家和地区的维修许可授权"
+    },
+    {
+      "name": "国产商用飞机",
+      "source_product": "国产商用飞机客舱氧气系统、航空部附件维修",
+      "quote": "深度融入国产大飞机战略配套产业链，牵头承担某型号国产商用飞机客舱氧气系统核心研制重任"
+    },
+    {
+      "name": "军用/应急救援直升机",
+      "source_product": "直升机电动救援绞车、飞行员供氧系统",
+      "quote": "多型号直升机电动救援绞车已实现批量交付...同时参与海洋、森林、警用、消防等航空应急救援体系建设"
+    },
+    {
+      "name": "eVTOL（电动垂直起降飞行器）",
+      "source_product": "eVTOL模拟器、分系统研发",
+      "quote": "与eVTOL头部主机厂家保持密切的合作，开展定制化模拟器及分系统研发与制造业务"
+    },
+    {
+      "name": "无人机",
+      "source_product": "无人机发动机控制系统、救援系统、航电系统",
+      "quote": "推动无人机救援系统研制工作...推动无人机航电系统、eVTOL动力系统及配套产品的研制工作"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邓珍容",
+      "role": "董事长",
+      "quote": "公司负责人邓珍容...声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "谭建国",
+      "role": "副董事长、总经理",
+      "quote": "副董事长兼总经理谭建国"
+    },
+    {
+      "name": "郑德华",
+      "role": "董事",
+      "quote": "董事郑德华"
+    },
+    {
+      "name": "王胜杰",
+      "role": "董事",
+      "quote": "董事王胜杰"
+    },
+    {
+      "name": "汤继顺",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理汤继顺"
+    },
+    {
+      "name": "方玉凤",
+      "role": "董事",
+      "quote": "董事方玉凤"
+    },
+    {
+      "name": "朱晓刚",
+      "role": "独立董事",
+      "quote": "独立董事朱晓刚"
+    },
+    {
+      "name": "许兵伦",
+      "role": "独立董事",
+      "quote": "独立董事许兵伦"
+    },
+    {
+      "name": "钟德超",
+      "role": "独立董事",
+      "quote": "独立董事钟德超"
+    },
+    {
+      "name": "赵小东",
+      "role": "副总经理",
+      "quote": "副总经理赵小东"
+    },
+    {
+      "name": "张龙勇",
+      "role": "副总经理",
+      "quote": "副总经理张龙勇"
+    },
+    {
+      "name": "张鸿志",
+      "role": "副总经理",
+      "quote": "副总经理张鸿志"
+    },
+    {
+      "name": "张晨",
+      "role": "财务总监、董事会秘书",
+      "quote": "财务总监张晨...董事会秘书刘恒"
+    },
+    {
+      "name": "刘恒",
+      "role": "董事会秘书",
+      "quote": "董事会秘书刘恒"
+    },
+    {
+      "name": "李飚",
+      "role": "控股股东、实际控制人",
+      "quote": "截止目前，李飚先生持有公司 13.16%的股权，为公司控股股东。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "成都海威华芯科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "高性能第二代/第三代集成电路设计与制造产业投资：参股公司华芯科技建有国内首条6吋化合物半导体生产线",
+      "quote": "参股公司华芯科技建有国内首条6吋化合物半导体生产线"
+    },
+    {
+      "name": "数智星通（公司）",
+      "relation_type": "subsidiary",
+      "business_details": "卫星互联网产业投资：公司通过投资数智星通，在卫星互联网行业提前布局。",
+      "quote": "公司通过投资数智星通，在卫星互联网行业提前布局。"
+    },
+    {
+      "name": "四川亚美动力技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "亚美动力指四川亚美动力技术有限公司"
+    },
+    {
+      "name": "沈阳飞安飞行科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "沈阳飞安指沈阳飞安飞行科技有限公司"
+    },
+    {
+      "name": "昆明飞安航空训练有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "昆明飞安指昆明飞安航空训练有限公司"
+    },
+    {
+      "name": "四川奥特附件维修有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "奥特附件指四川奥特附件维修有限责任公司"
+    },
+    {
+      "name": "Aviation Safety and Training Pte.Ltd.",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新加坡AST指 Aviation Safety and Training Pte.Ltd."
+    },
+    {
+      "name": "上海沪特航空技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "上海沪特指上海沪特航空技术有限公司"
+    },
+    {
+      "name": "江西昌海航空零部件制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "江西昌海指江西昌海航空零部件制造有限公司"
+    },
+    {
+      "name": "天津飞安航空训练有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津飞安指天津飞安航空训练有限公司"
+    },
+    {
+      "name": "天津宜捷海特通用航空服务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津宜捷海特指天津宜捷海特通用航空服务有限公司"
+    },
+    {
+      "name": "天津翔宇航空维修工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津翔宇指天津翔宇航空维修工程有限公司"
+    },
+    {
+      "name": "天津海特飞机工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津海特飞机工程指天津海特飞机工程有限公司"
+    },
+    {
+      "name": "天津海特航空产业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津海特航空指天津海特航空产业有限公司"
+    },
+    {
+      "name": "亚美航泰（天津）航空装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "亚美航泰指亚美航泰（天津）航空装备有限公司"
+    },
+    {
+      "name": "成都海飞航空投资管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "成都海飞指成都海飞航空投资管理有限公司"
+    },
+    {
+      "name": "安胜（天津）飞行模拟系统有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "安胜指安胜（天津）飞行模拟系统有限公司"
+    },
+    {
+      "name": "华新飞机租赁（天津）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "华新租赁天津指华新飞机租赁（天津）有限公司"
+    },
+    {
+      "name": "以色列航空工业公司",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "IAI指以色列航空工业公司"
+    },
+    {
+      "name": "德国空中客车改装公司易北飞机有限公司",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "EFW指德国空中客车改装公司易北飞机有限公司"
+    },
+    {
+      "name": "中国商用飞机有限责任公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "中商飞指中国商用飞机有限责任公司"
+    },
+    {
+      "name": "青岛金水海特投资有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "青岛金水海特投资有限公司（股东）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "航空工程技术与服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,003,696,242.40元",
+      "revenue_proportion": "64.40%",
+      "gross_margin": "30.91%",
+      "yoy_change": "1.29%",
+      "quote": "航空工程技术与服务 64.40% 1,003,696,242.40 693,475,834.76 30.91% 1.29% 5.78% -2.93%"
+    },
+    {
+      "name": "高端核心装备研制与保障",
+      "segment_type": "product_line",
+      "revenue_amount": "488,177,558.08元",
+      "revenue_proportion": "31.32%",
+      "gross_margin": "31.52%",
+      "yoy_change": "86.08%",
+      "quote": "高端核心装备研制与保障 31.32% 488,177,558.08 334,315,276.41 31.52% 86.08% 61.98% 10.19%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "525,911,653.49元",
+      "revenue_proportion": "33.74%",
+      "gross_margin": "28.43%",
+      "yoy_change": "26.32%",
+      "quote": "华东 33.74% 525,911,653.49 376,386,321.99 28.43% 26.32% 40.60% -7.27%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "534,063,873.18元",
+      "revenue_proportion": "34.26%",
+      "gross_margin": "35.30%",
+      "yoy_change": "70.03%",
+      "quote": "华北 34.26% 534,063,873.18 345,556,552.75 35.30% 70.03% 59.59% 4.24%"
+    },
+    {
+      "name": "境外业务",
+      "segment_type": "region",
+      "revenue_amount": "221,928,344.64元",
+      "revenue_proportion": "14.24%",
+      "gross_margin": "26.77%",
+      "yoy_change": "-15.68%",
+      "quote": "境外业务 14.24% 221,928,344.64 162,523,573.76 26.77% -15.68% -6.72% -7.04%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "飞行员培训",
+      "metric_type": "other",
+      "value": "年飞行员培训能力超9万小时",
+      "period": null,
+      "quote": "年飞行员培训能力超9万小时"
+    },
+    {
+      "product": "乘务员培训",
+      "metric_type": "other",
+      "value": "年乘务员培训能力超2万人次",
+      "period": null,
+      "quote": "年乘务员培训能力超2万人次"
+    },
+    {
+      "product": "全动飞行模拟机",
+      "metric_type": "other",
+      "value": "15台全动D级模拟机",
+      "period": null,
+      "quote": "配置 15 台全动 D 级模拟机"
+    },
+    {
+      "product": "窄体机维修产线",
+      "metric_type": "other",
+      "value": "拥有十余条窄体机产线的能力",
+      "period": null,
+      "quote": "公司拥有十余条窄体机产线的能力和公务机产线能力"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "天津三期机库投产",
+      "project_type": "capacity_expansion",
+      "location": "天津",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年7月投产",
+      "expected_completion_time": "2025年7月",
+      "quote": "2025年 7 月天津三期机库投产后，目前公司拥有十余条窄体机产线的能力和公务机产线能力。"
+    },
+    {
+      "name": "上海智能化产线新建",
+      "project_type": "capacity_expansion",
+      "location": "上海",
+      "investment_amount": null,
+      "designed_capacity": "多条智能化产线",
+      "progress": "建设中",
+      "expected_completion_time": "2026年3季度投产",
+      "quote": "在上海投资新建多条智能化产线，预计 2026 年 3 季度投产。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "申请专利总计 960 项，其中发明专利 339 项、实用新型专利 602 项，已取得有效授权专利 700 项。",
+      "quote": "截止目前，公司申请专利总计 960 项，其中发明专利 339 项、实用新型专利 602 项，已取得有效授权专利 700 项。"
+    },
+    {
+      "name": "B737-700、B737-800客机改货机STC",
+      "asset_type": "certification",
+      "related_product": "B737NG客改货",
+      "quantitative_info": null,
+      "quote": "公司已成功获得波音B737-700、B737-800客机改货机STC，成为全球首家同时拥有B737-700、B737-800客机改货机改装方案的服务商"
+    },
+    {
+      "name": "D级全动飞行模拟机研制技术",
+      "asset_type": "core_technology",
+      "related_product": "全动飞行模拟机",
+      "quantitative_info": null,
+      "quote": "公司具备D级全动飞行模拟机研制的技术优势，成功研制并交付国产首台A320CEO/NEO和B737NG 、B737MAX D级全动飞行模拟机"
+    },
+    {
+      "name": "数字脉冲供氧技术",
+      "asset_type": "core_technology",
+      "related_product": "飞行员供氧系统",
+      "quantitative_info": null,
+      "quote": "该产品在国内首创数字脉冲供氧尖端技术"
+    },
+    {
+      "name": "自适应控制算法（发动机控制系统）",
+      "asset_type": "core_technology",
+      "related_product": "航空发动机全权限数字控制系统",
+      "quantitative_info": null,
+      "quote": "该产品采用先进的自适应控制算法，产品性能突出、可靠，具有完全自主知识产权。"
+    },
+    {
+      "name": "机载设备维修许可",
+      "asset_type": "certification",
+      "related_product": "航空部附件维修",
+      "quantitative_info": "已取得1,900余项机载电子设备和2,400余项机载机械设备的适航维修项目许可，具备4万多个件号的维修能力",
+      "quote": "已取得1,900余项机载电子设备和2,400余项机载机械设备的适航维修项目许可，具备4万多个件号的维修能力"
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是“国家企业技术中心”"
+    },
+    {
+      "name": "先进航空发动机控制技术四川省重点实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2017年12月建成“先进航空发动机控制技术四川省重点实验室”"
+    },
+    {
+      "name": "民用飞行模拟训练设备数据交换要求（团体标准）",
+      "asset_type": "standard",
+      "related_product": "飞行模拟机",
+      "quantitative_info": null,
+      "quote": "牵头制定了《民用飞行模拟训练设备数据交换要求》团体标准。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "44.89%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 699,616,514.08 前五名客户合计销售金额占年度销售总额比例 44.89%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "19.23%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "客户1 299,771,210.26 19.23%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "20.11%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 185,976,963.13 前五名供应商合计采购金额占年度采购总额比例 20.11%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "供应商1 58,925,722.84 6.37%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "asset_impairment",
+      "description": "公司对联营企业成都海威华芯科技有限公司的长期股权投资计提大额资产减值损失，且对其账面价值和投资收益的确认存在审计保留意见。",
+      "related_entity": "成都海威华芯科技有限公司",
+      "related_product": null,
+      "quote": "资产减值损失（损失以“-”号填列） -605,151,085.70 ... 对华芯科技长期股权投资账面价值...仅能参考评估机构采用市场法出具的估值报告...我们也无法就...获取充分、适当的审计证据"
+    },
+    {
+      "risk_type": "investment_loss",
+      "description": "公司投资收益为负，主要由于采用权益法核算的长期股权投资收益变动所致。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "投资收益 -64,432,841.89 13.35% 主要系公司采用权益法核算的长期股权投资收益变动所致。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司持有美元资产以归还美元贷款，存在汇率风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "美元余额为5,014万美元...持有目的主要为归还美元贷款和支付飞机大修金，降低汇率风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司报告期经审计利润总额、净利润、扣除非经常性损益后的净利润三者孰低为负值。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净利润三者孰低为负值"
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "company_name_mentioned": "北京东方中科集成科技股份有限公司",
+  "produces": [
+    {
+      "name": "电子测量仪器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "通用测试业务产品的硬件载体主要为电子测量仪器，其作为公司为客户提供综合测试服务的主要硬件载体，种类众多；按照其基础测试功能，可划分为信号发生器、电压测量仪器、频率与时间测量仪器、信号分析仪器、电子元器件测试仪器、网络特性测试仪器等。公司提供的主要产品包括：信号发生器、示波器、综合测试仪、视频分析仪、音视频测试仪、逻辑分析仪、频谱分析仪、温度测试仪、元器件测试仪器 、网络分析仪等。"
+    },
+    {
+      "name": "测试应用系统集成",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "测试应用系统集成主要针对客户在汽车电子的复杂测试需求，提供包括技术咨询、测试方案设计、软硬件选型与集成、软件系统开发在内的全面测试应用解决方案，目前已推出的成熟方案主要面对三大方向：主要针对燃油车的网络总线测试、主要针对电动车的新能源测试，以及包括V2X、ADAS、HIL测试等在内的智能网联测试。"
+    },
+    {
+      "name": "信息安全保密产品",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司信息安全保密类产品适配主流国产 CPU、国产操作系统、国产数据库及国产中间件，围绕通用保密安全构建了包含监测预警、安全防护、检查清除、工作秘密防护、办公应用、网络安全和电磁安全等各方面业务的产品体系，围绕公安保密安全构建了包含技术防范、合规装备等方面业务的产品体系，覆盖了终端、网络、人员、数据，形成了“四维一体”的立体化保密防控体系。"
+    },
+    {
+      "name": "虹膜识别产品及解决方案",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司提供一系列虹膜识别产品和解决方案，应用于公共安全、人口精准化管理、重要场所门禁、计算机终端安全登录、网络化身份认证等领域。公司开发的系列虹膜采集识别设备可用于政府、矿山、金融、机场、监狱、看守所、教育部门等行业。"
+    },
+    {
+      "name": "政务集成解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "传统政务集成为机关、大型国有企业提供计算机网络系统、网络安全系统以及电子政务应用系统的规划、设计、实施、运维、技术支持等全面服务。"
+    },
+    {
+      "name": "数智应用产品及解决方案",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司专注于公共安全、社会治理、智慧城市、数字政府等关键场景，以“AI + 数据智能”为核心驱动力，聚焦客户在复杂指挥决策场景中的核心需求与痛点，提供从多源数据集成、数据产品开发、数智能力开放到智能辅助决策应用的一站式、一体化解决方案。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子测量仪器",
+      "target_product": "测试技术服务",
+      "cost_proportion": "前五名供应商合计采购金额占年度采购总额比例 31.97%",
+      "quote": "前五名供应商合计采购金额（元） 833,051,582.04\n前五名供应商合计采购金额占年度采购总额比例 31.97%"
+    },
+    {
+      "name": "专用 U 盘、光单导、虹膜镜头、操作系统、计算机、服务器、应用软件等",
+      "target_product": "数字安全与数智应用业务",
+      "cost_proportion": null,
+      "quote": "数字安全与数智应用板块对外采购主要包括软硬件产品（专用 U 盘、光单导、虹膜镜头、操作系统、计算机、服务器、应用软件等）及技术服务（安装调试、技术培训、技术支持、系统运维、非核心功能的开发测试以及其他服务等）。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子",
+      "source_product": "通用测试业务",
+      "quote": "通用测试业务客户涉及消费电子、半导体、通讯及信息技术、教育科研、航空航天、智能装备、轨道交通、新能源（汽车）等众多行业和领域。"
+    },
+    {
+      "name": "半导体",
+      "source_product": "通用测试业务",
+      "quote": "通用测试业务客户涉及消费电子、半导体、通讯及信息技术、教育科研、航空航天、智能装备、轨道交通、新能源（汽车）等众多行业和领域。"
+    },
+    {
+      "name": "通讯及信息技术",
+      "source_product": "通用测试业务",
+      "quote": "通用测试业务客户涉及消费电子、半导体、通讯及信息技术、教育科研、航空航天、智能装备、轨道交通、新能源（汽车）等众多行业和领域。"
+    },
+    {
+      "name": "教育科研",
+      "source_product": "通用测试业务",
+      "quote": "通用测试业务客户涉及消费电子、半导体、通讯及信息技术、教育科研、航空航天、智能装备、轨道交通、新能源（汽车）等众多行业和领域。"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "通用测试业务",
+      "quote": "通用测试业务客户涉及消费电子、半导体、通讯及信息技术、教育科研、航空航天、智能装备、轨道交通、新能源（汽车）等众多行业和领域。"
+    },
+    {
+      "name": "智能装备",
+      "source_product": "通用测试业务",
+      "quote": "通用测试业务客户涉及消费电子、半导体、通讯及信息技术、教育科研、航空航天、智能装备、轨道交通、新能源（汽车）等众多行业和领域。"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "通用测试业务",
+      "quote": "通用测试业务客户涉及消费电子、半导体、通讯及信息技术、教育科研、航空航天、智能装备、轨道交通、新能源（汽车）等众多行业和领域。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "（新能源）汽车测试业务",
+      "quote": "（新能源）汽车测试业务，为整车厂和零部件企业提供从测试工具、专用测试设备、测试应用方案到实车测试服务的（新能源）汽车全产业链测试应用服务能力。"
+    },
+    {
+      "name": "信息安全保密",
+      "source_product": "信息安全保密产品及解决方案",
+      "quote": "公司信息安全保密类产品及服务应用单位的网络环境包括互联网、外网及内网...覆盖了终端、网络、人员、数据，形成了“四维一体”的立体化保密防控体系。"
+    },
+    {
+      "name": "公共安全",
+      "source_product": "虹膜识别产品及解决方案、数智应用产品",
+      "quote": "公司提供一系列虹膜识别产品和解决方案，应用于公共安全、人口精准化管理、重要场所门禁...数智应用业务聚焦公共安全、社会治理、智慧城市、数字政府等核心场景。"
+    },
+    {
+      "name": "智慧城市",
+      "source_product": "数智应用产品及解决方案",
+      "quote": "数智应用业务聚焦公共安全、社会治理、智慧城市、数字政府等核心场景。"
+    },
+    {
+      "name": "数字政府",
+      "source_product": "数智应用产品及解决方案",
+      "quote": "数智应用业务聚焦公共安全、社会治理、智慧城市、数字政府等核心场景。"
+    },
+    {
+      "name": "金融",
+      "source_product": "虹膜识别产品及解决方案",
+      "quote": "虹膜识别设备可用于政府、矿山、金融、机场、监狱、看守所、教育部门等行业。"
+    },
+    {
+      "name": "医疗",
+      "source_product": "虹膜识别产品及解决方案",
+      "quote": "医疗行业的虹膜识别应用解决方案主要应用于医疗行业涉及到身份认证的场景中，如身份认证、重点药品管理、手术室等重要部位及通道门禁通行等场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑大伟",
+      "role": "董事长、总经理",
+      "quote": "公司负责人郑大伟、主管会计工作负责人郑鹏及会计机构负责人（会计主管人员）李威声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "郑鹏",
+      "role": "主管会计工作负责人、副总经理、财务总监",
+      "quote": "公司负责人郑大伟、主管会计工作负责人郑鹏及会计机构负责人（会计主管人员）李威声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "常虹",
+      "role": "副总经理、董事会秘书、职工董事",
+      "quote": "董事会秘书 常虹 证券事务代表 邓狄"
+    },
+    {
+      "name": "张启明",
+      "role": "副总经理",
+      "quote": "张启明先生，1983 年 7 月出生...现任本公司副总经理。"
+    },
+    {
+      "name": "陈义钢",
+      "role": "副总经理",
+      "quote": "陈义钢先生，1976 年 8月出生...现任本公司副总经理。"
+    },
+    {
+      "name": "吴旭",
+      "role": "副总经理",
+      "quote": "吴旭先生，1981 年 1月出生...现任本公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "福禄克/Fluke",
+      "relation_type": "supplier",
+      "business_details": "全球提供电子测试工具生产、分销和服务的主要企业之一",
+      "quote": "福禄克电子仪器仪表公司，全球提供电子测试工具生产、分销和服务的主要企业之一"
+    },
+    {
+      "name": "泰克/Tektronix",
+      "relation_type": "supplier",
+      "business_details": "全球主要的测试、测量和监测解决方案提供商之一",
+      "quote": "泰克科技有限公司，全球主要的测试、测量和监测解决方案提供商之一"
+    },
+    {
+      "name": "是德科技/Keysight/是德",
+      "relation_type": "supplier",
+      "business_details": "是德科技（中国）有限公司",
+      "quote": "是德科技（中国）有限公司"
+    },
+    {
+      "name": "Vector公司",
+      "relation_type": "supplier",
+      "business_details": "专业测试工具代理主要从事德国 Vector 公司产品的代理业务，目前已经成为其在中国区域最主要的代理商之一。Vector 公司是一家专门从事现场总线的研究、开发和应用的高科技公司，在Controller Area Networks总线领域内提供了一系列强有力的软硬件工具",
+      "quote": "专业测试工具代理主要从事德国 Vector 公司产品的代理业务，目前已经成为其在中国区域最主要的代理商之一。Vector 公司是一家专门从事现场总线的研究、开发和应用的高科技公司"
+    },
+    {
+      "name": "北京万里红科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "数字安全和保密业务",
+      "quote": "北京万里红科技有限公司 指 子公司 数字安全和保密业务"
+    },
+    {
+      "name": "上海北汇信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "技术服务",
+      "quote": "上海北汇信息科技有限公司 指 子公司 技术服务"
+    },
+    {
+      "name": "东方国际招标有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "招标代理业务",
+      "quote": "东方国际招标有限责任公司 指 子公司 招标代理业务"
+    },
+    {
+      "name": "东科（上海）商业保理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "商业保理业务",
+      "quote": "东科（上海）商业保理有限公司 指 子公司"
+    },
+    {
+      "name": "北京中科鸿略科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "开源鸿蒙操作系统等数字安全应用项目",
+      "quote": "北京中科鸿略科技有限公司 指 子公司"
+    },
+    {
+      "name": "北京中科领虹科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "虹膜识别相关业务",
+      "quote": "北京中科领虹科技有限公司 指 子公司"
+    },
+    {
+      "name": "北京中科惠捷科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "半导体实验室验证自动化测试业务",
+      "quote": "报告期内，公司合并范围内新增中科惠捷一户子公司。"
+    },
+    {
+      "name": "北京中科锦智数字技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "数智应用业务",
+      "quote": "公司于 2022 年设立子公司中科锦智，其业务聚焦客户复杂指挥决策场景中的核心需求，是智能辅助决策平台服务商。"
+    },
+    {
+      "name": "东方科仪控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东/东方科仪控股 指 东方科仪控股集团有限公司"
+    },
+    {
+      "name": "中国科学院控股有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人/国科控股 指 中国科学院控股有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "测试技术与服务行业",
+      "segment_type": "product_line",
+      "revenue_amount": "2,612,466,023.07",
+      "revenue_proportion": "80.94%",
+      "gross_margin": "18.61%",
+      "yoy_change": "7.48%",
+      "quote": "测试技术与服务行业 2,612,466,023.07 80.94% 2,430,716,552.78 82.24% 7.48%"
+    },
+    {
+      "name": "数字安全与数智应用行业",
+      "segment_type": "product_line",
+      "revenue_amount": "615,256,750.33",
+      "revenue_proportion": "19.06%",
+      "gross_margin": "22.12%",
+      "yoy_change": "17.17%",
+      "quote": "数字安全与数智应用行业 615,256,750.33 19.06% 525,093,478.05 17.76% 17.17%"
+    },
+    {
+      "name": "通用测试业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,886,355,593.40",
+      "revenue_proportion": "58.44%",
+      "gross_margin": "9.35%",
+      "yoy_change": "5.71%",
+      "quote": "通用测试业务 1,886,355,593.40 58.44% 1,784,393,624.63 60.37% 5.71%"
+    },
+    {
+      "name": "（新能源）汽车测试业务",
+      "segment_type": "product_line",
+      "revenue_amount": "498,182,279.34",
+      "revenue_proportion": "15.43%",
+      "gross_margin": "37.20%",
+      "yoy_change": "19.03%",
+      "quote": "（新能源）汽车测试业务 498,182,279.34 15.43% 418,541,701.60 14.16% 19.03%"
+    },
+    {
+      "name": "专业服务业务",
+      "segment_type": "product_line",
+      "revenue_amount": "219,960,398.51",
+      "revenue_proportion": "6.81%",
+      "gross_margin": null,
+      "yoy_change": "1.27%",
+      "quote": "专业服务业务 219,960,398.51 6.81% 217,204,527.61 7.35% 1.27%"
+    },
+    {
+      "name": "政务集成业务",
+      "segment_type": "product_line",
+      "revenue_amount": "506,587,575.10",
+      "revenue_proportion": "15.69%",
+      "gross_margin": "14.81%",
+      "yoy_change": "21.95%",
+      "quote": "政务集成业务 506,587,575.10 15.69% 415,398,843.93 14.05% 21.95%"
+    },
+    {
+      "name": "安全保密业务",
+      "segment_type": "product_line",
+      "revenue_amount": "39,716,742.78",
+      "revenue_proportion": "1.23%",
+      "gross_margin": null,
+      "yoy_change": "-38.02%",
+      "quote": "安全保密业务 39,716,742.78 1.23% 64,076,198.77 2.17% -38.02%"
+    },
+    {
+      "name": "虹膜识别业务",
+      "segment_type": "product_line",
+      "revenue_amount": "32,586,240.18",
+      "revenue_proportion": "1.01%",
+      "gross_margin": null,
+      "yoy_change": "37.55%",
+      "quote": "虹膜识别业务 32,586,240.18 1.01% 23,690,409.07 0.80% 37.55%"
+    },
+    {
+      "name": "数智应用业务",
+      "segment_type": "product_line",
+      "revenue_amount": "36,366,192.27",
+      "revenue_proportion": "1.13%",
+      "gross_margin": null,
+      "yoy_change": "65.84%",
+      "quote": "数智应用业务 36,366,192.27 1.13% 21,928,026.28 0.74% 65.84%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "1,297,799,705.89",
+      "revenue_proportion": "40.21%",
+      "gross_margin": "16.54%",
+      "yoy_change": "3.56%",
+      "quote": "华东 1,297,799,705.89 40.21% 1,253,168,293.29 42.40% 3.56%"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "1,039,290,238.92",
+      "revenue_proportion": "32.20%",
+      "gross_margin": "20.87%",
+      "yoy_change": "4.17%",
+      "quote": "华北 1,039,290,238.92 32.20% 997,725,942.13 33.75% 4.17%"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "342,858,418.53",
+      "revenue_proportion": "10.62%",
+      "gross_margin": "22.55%",
+      "yoy_change": "45.51%",
+      "quote": "华南 342,858,418.53 10.62% 235,629,453.64 7.97% 45.51%"
+    },
+    {
+      "name": "西南",
+      "segment_type": "region",
+      "revenue_amount": "283,111,088.69",
+      "revenue_proportion": "8.77%",
+      "gross_margin": null,
+      "yoy_change": "13.55%",
+      "quote": "西南 283,111,088.69 8.77% 249,331,738.29 8.44% 13.55%"
+    },
+    {
+      "name": "华中",
+      "segment_type": "region",
+      "revenue_amount": "122,503,507.68",
+      "revenue_proportion": "3.80%",
+      "gross_margin": null,
+      "yoy_change": "54.99%",
+      "quote": "华中 122,503,507.68 3.80% 79,038,007.89 2.67% 54.99%"
+    },
+    {
+      "name": "东北",
+      "segment_type": "region",
+      "revenue_amount": "81,122,128.24",
+      "revenue_proportion": "2.51%",
+      "gross_margin": null,
+      "yoy_change": "-8.60%",
+      "quote": "东北 81,122,128.24 2.51% 88,753,725.31 3.00% -8.60%"
+    },
+    {
+      "name": "西北",
+      "segment_type": "region",
+      "revenue_amount": "61,037,685.45",
+      "revenue_proportion": "1.89%",
+      "gross_margin": null,
+      "yoy_change": "17.01%",
+      "quote": "西北 61,037,685.45 1.89% 52,162,870.28 1.76% 17.01%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,694,945,762.57",
+      "revenue_proportion": "83.49%",
+      "gross_margin": null,
+      "yoy_change": "8.73%",
+      "quote": "直销 2,694,945,762.57 83.49% 2,478,454,634.51 83.85% 8.73%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "532,777,010.83",
+      "revenue_proportion": "16.51%",
+      "gross_margin": null,
+      "yoy_change": "11.61%",
+      "quote": "分销 532,777,010.83 16.51% 477,355,396.32 16.15% 11.61%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "年成交客户4000家左右",
+      "period": null,
+      "quote": "公司作为中国领先的先进测试技术与科技服务商，拥有广泛且持续、稳定的客户群体...年成交客户 4000家左右，奠定了业务稳定增长的客户基础。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "数字安全与数智应用服务能力提升项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司经本次董事会审议通过的利润分配预案为：以 238,374,612 为基数...注：公司首发募投项目“数字安全与数智应用服务能力提升项目”已投资完成，详见公司于 2024 年 4 月 26 日发布的《关于首发募投项目结项并将节余募集资金永久补充流动资金的公告》。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "虹膜识别算法",
+      "asset_type": "core_technology",
+      "related_product": "虹膜识别产品",
+      "quantitative_info": "在国际权威评测中屡创佳绩，识别精度和速度均处于世界领先水平",
+      "quote": "公司自主研发的虹膜识别算法，在国际权威评测中屡创佳绩，识别精度和速度均处于世界领先水平"
+    },
+    {
+      "name": "信息安全保密技术",
+      "asset_type": "core_technology",
+      "related_product": "信息安全保密产品",
+      "quantitative_info": null,
+      "quote": "公司在 AI 技术浪潮下，公司在业内率先开展 AI+保密技术的研发与应用，在数智密脑、辅助定密等应用场景取得显著成果。"
+    },
+    {
+      "name": "开源鸿蒙行业发行版（OROS）",
+      "asset_type": "process_technology",
+      "related_product": "移动办公终端",
+      "quantitative_info": "具备开源鸿蒙南北向全栈技术研发能力",
+      "quote": "公司结合在政务与安全保密行业的丰富经验，推出了基于开源鸿蒙的行业发行版 OROS，并且与合作伙伴联合发布超 50 款搭载此操作系统的终端设备。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "拥有 500 余项软件著作权",
+      "quote": "公司拥有 500 余项软件著作权，专利百余项。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "专利百余项；子公司万里红拥有专利 108 项（包含 67 项发明专利、24 项实用新型、17 项外观专利），438 项软著；子公司中科锦智已拥有 140+项核心专利及软件著作权",
+      "quote": "公司拥有 500 余项软件著作权，专利百余项。...截至 2025 年 12 月 31 日，子公司万里红拥有专利 108 项（包含 67 项发明专利、24 项实用新型、17 项外观专利），438 项软著...子公司中科锦智已拥有 140+项核心专利及软件著作权。"
+    },
+    {
+      "name": "资质认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "公司资质及产品资质共900余种",
+      "quote": "公司资质及产品资质共900余种，覆盖安全保密、大数据、网络安全、虹膜生物识别等各大领域。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "10.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 327,030,373.53\n前五名客户合计销售金额占年度销售总额比例 10.13%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "31.97%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 833,051,582.04\n前五名供应商合计采购金额占年度采购总额比例 31.97%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "整体社会需求仍然有所不足，产业“内卷式竞争”问题凸显。公司在测试领域的行业竞争壁垒与护城河优势，为公司业务持续稳健发展提供了强有力保障。",
+      "related_entity": null,
+      "related_product": "测试技术与服务",
+      "quote": "2025 年，整体社会需求仍然有所不足，产业“内卷式竞争”问题凸显。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "随着中美贸易摩擦和全球贸易保护主义的抬头，以美国为主的仪器设备厂商对国内客户的供应限制也开始出现，公司主要代理美国进口产品，因此存在对部分客户供应受限的风险。",
+      "related_entity": "是德科技、福禄克、泰克等",
+      "related_product": "电子测量仪器",
+      "quote": "随着中美贸易摩擦和全球贸易保护主义的抬头，以美国为主的仪器设备厂商对国内客户的供应限制也开始出现，公司主要代理美国进口产品，因此存在对部分客户供应受限的风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "目前外部宏观环境影响虽然有所缓解，但整体经济所受影响远未恢复，加上以美国主导的两极化趋势日趋明显，与电子测试测量相关的产品出口增速有可能进一步放缓，从而影响客户在测试应用方面的预算投入，对公司的盈利能力可能造成不利影响。",
+      "related_entity": null,
+      "related_product": "测试技术与服务",
+      "quote": "目前外部宏观环境影响虽然有所缓解，但整体经济所受影响远未恢复，加上以美国主导的两极化趋势日趋明显，与电子测试测量相关的产品出口增速有可能进一步放缓，从而影响客户在测试应用方面的预算投入，对公司的盈利能力可能造成不利影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司自营租赁资产持续投入，随着测试技术的发展和更新，电子测量仪器会不断更新换代与技术淘汰，进而产生自营租赁资产减值的风险。",
+      "related_entity": null,
+      "related_product": "自营租赁仪器",
+      "quote": "公司自营租赁资产持续投入，随着测试技术的发展和更新，电子测量仪器会不断更新换代与技术淘汰，进而产生自营租赁资产减值的风险。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司通过发行股份的方式向万里锦程创业投资有限公司等 20 名股东购买其持有的万里红 78.33%股权，万里红未完成 2022 年度承诺业绩...截至目前，尚有 14 名业绩承诺方未履行其业绩补偿义务。公司已向中国国际经济贸易仲裁委员会提起仲裁...本次仲裁事项已进行第三次开庭审理，庭审阶段工作已全部结束，但本次开庭庭审结果尚未确定。",
+      "related_entity": "万里锦程创业投资有限公司等14名业绩承诺方",
+      "related_product": null,
+      "quote": "截至目前，尚有 14 名业绩承诺方未履行其业绩补偿义务。公司已向中国国际经济贸易仲裁委员会提起仲裁，相关仲裁事项已被中国国际经济贸易仲裁委员会受理。...本次仲裁事项已进行第三次开庭审理，庭审阶段工作已全部结束，但本次开庭庭审结果尚未确定。"
+    }
+  ]
+}

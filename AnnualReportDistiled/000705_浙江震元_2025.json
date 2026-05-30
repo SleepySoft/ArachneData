@@ -1,0 +1,446 @@
+{
+  "company_name_mentioned": "浙江震元股份有限公司",
+  "produces": [
+    {
+      "name": "医药流通-批发",
+      "type": "service",
+      "revenue_proportion": "24.26%",
+      "quote": "商业-批发 ... 552,113,072.59 ... 24.26%"
+    },
+    {
+      "name": "医药流通-零售",
+      "type": "service",
+      "revenue_proportion": "48.40%",
+      "quote": "商业-零售 ... 1,101,311,084.27 ... 48.40%"
+    },
+    {
+      "name": "原料药",
+      "type": "material",
+      "revenue_proportion": "7.54%",
+      "quote": "工业-原料药 171,674,867.42 7.54%"
+    },
+    {
+      "name": "制剂",
+      "type": "component",
+      "revenue_proportion": "14.94%",
+      "quote": "工业-制剂 339,881,360.83 14.94%"
+    },
+    {
+      "name": "合成生物产品",
+      "type": "material",
+      "revenue_proportion": "0.93%",
+      "quote": "工业-合成生物 21,121,376.14 0.93%"
+    },
+    {
+      "name": "中药饮片",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "子公司绍兴震元中药饮片有限公司...饮片年加工产能约 3,000 吨"
+    },
+    {
+      "name": "健康服务",
+      "type": "service",
+      "revenue_proportion": "3.06%",
+      "quote": "健康服务 69,651,467.20 3.06%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "药品、药材、医疗器械等",
+      "target_product": "医药流通-批发",
+      "cost_proportion": null,
+      "quote": "批发业务：公司主要批发经营药品、药材、中药饮片、医疗器械等"
+    },
+    {
+      "name": "中药材",
+      "target_product": "中药饮片",
+      "cost_proportion": null,
+      "quote": "中药材价格波动明显...对公司的采购成本和毛利影响较大"
+    },
+    {
+      "name": "化学原料药",
+      "target_product": "制剂",
+      "cost_proportion": null,
+      "quote": "部分化学原料药...价格呈现不稳定态势"
+    }
+  ],
+  "applications": [
+    {
+      "name": "医院、基层医疗卫生机构",
+      "source_product": "医药流通-批发",
+      "quote": "与省内公立医院、民营医院、基层医疗卫生机构等长年保持业务往来"
+    },
+    {
+      "name": "个人消费者",
+      "source_product": "医药流通-零售",
+      "quote": "DTP药房是直接面向患者提供更有价值的专业服务的药房"
+    },
+    {
+      "name": "抗感染、消炎镇痛、消化系统治疗",
+      "source_product": "原料药、制剂",
+      "quote": "主要生产抗生素类、消炎镇痛类及消化系统类药物"
+    },
+    {
+      "name": "医美、食品、饲料添加剂",
+      "source_product": "合成生物产品",
+      "quote": "目前的销售终端市场涉及医美、食品等领域，饲料添加剂领域...还在努力开拓"
+    },
+    {
+      "name": "中医药治疗与保健",
+      "source_product": "中药饮片",
+      "quote": "中药饮片...具有较强的地区影响力"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴海明",
+      "role": "公司负责人、董事长",
+      "quote": "公司负责人吴海明...保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张斌",
+      "role": "主管会计工作负责人（财务总监）",
+      "quote": "主管会计工作负责人张斌...保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "周巧米",
+      "role": "副董事长、总经理",
+      "quote": "周巧米...现任公司党委副书记、第十一届董事会副董事长、总经理"
+    },
+    {
+      "name": "张誉锋",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张誉锋"
+    },
+    {
+      "name": "柴军",
+      "role": "原副董事长、总经理（离任）",
+      "quote": "柴军...因工作调动的原因，不再担任公司副董事长、总经理职务"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "绍兴震元健康产业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "绍兴震元健康产业集团有限公司，为公司控股股东"
+    },
+    {
+      "name": "华润医药商业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "战略投资者，入股子公司震元医药（现华润震元医药）",
+      "quote": "全资子公司震元医药以公开挂牌方式实施增资扩股引入战略投资者华润医药商业集团有限公司"
+    },
+    {
+      "name": "绍兴市人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "绍兴市人民政府国有资产监督管理委员会，为公司实际控制人"
+    },
+    {
+      "name": "浙江震元制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，医药工业",
+      "quote": "浙江震元制药有限公司，为公司全资子公司"
+    },
+    {
+      "name": "浙江震元生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，合成生物",
+      "quote": "浙江震元生物科技有限公司，为公司控股子公司"
+    },
+    {
+      "name": "浙江震元医药连锁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，医药零售",
+      "quote": "浙江震元医药连锁有限公司，为公司全资子公司"
+    },
+    {
+      "name": "绍兴震元中药饮片有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，中药饮片",
+      "quote": "绍兴震元中药饮片有限公司，为公司全资子公司"
+    },
+    {
+      "name": "浙江震元健康科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，健康产品",
+      "quote": "浙江震元健康科技有限公司，为公司全资子公司"
+    },
+    {
+      "name": "华润震元医药（浙江）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原全资子公司，现为公司持有49%股权的参股公司",
+      "quote": "原为公司全资子公司绍兴震元医药经营有限责任公司...更名为华润震元医药（浙江）有限公司，为公司参股公司。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药工业",
+      "segment_type": "business_unit",
+      "revenue_amount": "539,572,809.03元",
+      "revenue_proportion": "23.71%",
+      "gross_margin": "44.26%",
+      "yoy_change": "-19.70%",
+      "quote": "医药工业 539,572,809.03 23.71% ... 44.26% ... -19.70%"
+    },
+    {
+      "name": "医药商业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,736,038,340.17元",
+      "revenue_proportion": "76.29%",
+      "gross_margin": "18.93%",
+      "yoy_change": "-43.43%",
+      "quote": "医药商业 1,736,038,340.17 76.29% ... 18.93% ... -43.43%"
+    },
+    {
+      "name": "原料药",
+      "segment_type": "product_line",
+      "revenue_amount": "171,674,867.42元",
+      "revenue_proportion": "7.54%",
+      "gross_margin": "34.81%",
+      "yoy_change": "-32.27%",
+      "quote": "工业-原料药 171,674,867.42 7.54% ... 34.81% ... -32.27%"
+    },
+    {
+      "name": "制剂",
+      "segment_type": "product_line",
+      "revenue_amount": "339,881,360.83元",
+      "revenue_proportion": "14.94%",
+      "gross_margin": "56.77%",
+      "yoy_change": "-17.45%",
+      "quote": "工业-制剂 339,881,360.83 14.94% ... 56.77% ... -17.45%"
+    },
+    {
+      "name": "合成生物",
+      "segment_type": "product_line",
+      "revenue_amount": "21,121,376.14元",
+      "revenue_proportion": "0.93%",
+      "gross_margin": "-69.14%",
+      "yoy_change": null,
+      "quote": "工业-合成生物 21,121,376.14 0.93% ... -69.14%"
+    },
+    {
+      "name": "药品中成药批发",
+      "segment_type": "product_line",
+      "revenue_amount": "289,436,187.73元",
+      "revenue_proportion": null,
+      "gross_margin": "6.75%",
+      "yoy_change": "-79.57%",
+      "quote": "药品中成药批发 289,436,187.73 ... 6.75% ... -79.57%"
+    },
+    {
+      "name": "中药材及中药饮片批发",
+      "segment_type": "product_line",
+      "revenue_amount": "234,190,788.44元",
+      "revenue_proportion": null,
+      "gross_margin": "27.91%",
+      "yoy_change": "-3.84%",
+      "quote": "中药材及中药饮片批发 234,190,788.44 ... 27.91% ... -3.84%"
+    },
+    {
+      "name": "零售",
+      "segment_type": "product_line",
+      "revenue_amount": "1,180,017,513.54元",
+      "revenue_proportion": null,
+      "gross_margin": "19.47%",
+      "yoy_change": "-4.77%",
+      "quote": "零售 1,180,017,513.54 ... 19.47% ... -4.77%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "2,239,707,304.87元",
+      "revenue_proportion": "98.42%",
+      "gross_margin": "24.39%",
+      "yoy_change": "-39.81%",
+      "quote": "国内 2,239,707,304.87 98.42% ... 24.39% ... -39.81%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "35,903,844.33元",
+      "revenue_proportion": "1.58%",
+      "gross_margin": "59.13%",
+      "yoy_change": "82.17%",
+      "quote": "国外 35,903,844.33 1.58% ... 59.13% ... 82.17%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "中药饮片",
+      "metric_type": "capacity",
+      "value": "约3,000吨/年",
+      "period": null,
+      "quote": "饮片年加工产能约 3,000 吨"
+    },
+    {
+      "product": "合成生物产品（组氨酸等）",
+      "metric_type": "capacity",
+      "value": "项目设计产能为组氨酸（盐酸组氨酸）2400吨/年、左旋多巴1000吨/年、酪氨酸1000吨/年",
+      "period": null,
+      "quote": "项目设计产能为组氨酸（盐酸组氨酸）2400 吨/年、左旋多巴 1000吨/年、酪氨酸 1000 吨/年"
+    },
+    {
+      "product": "合成生物产品（组氨酸）",
+      "metric_type": "production_volume",
+      "value": "S1产线正式投产，产能结合销售需求逐步释放",
+      "period": "2025年",
+      "quote": "该项目S1 产线（组氨酸产品）于 2025 年8 月30 日正式投产，结合销售需求逐步释放产能"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "震元生物上虞基地项目（生物定向合成上虞基地项目）",
+      "project_type": "capacity_expansion",
+      "location": "上虞",
+      "investment_amount": null,
+      "designed_capacity": "组氨酸（盐酸组氨酸）2400吨/年、左旋多巴1000吨/年、酪氨酸1000吨/年",
+      "progress": "S1产线（组氨酸）于2025年8月30日正式投产；S2产线按计划推进建设，计划2026年投产",
+      "expected_completion_time": "S2产线计划2026年投产",
+      "quote": "同意子公司浙江震元生物科技有限公司投资建设生物定向合成上虞基地项目，项目设计产能为...该项目S1 产线...于 2025 年8 月30 日正式投产...S2产线按工程进度推进建设，计划2026年投产。"
+    },
+    {
+      "name": "震元制药原料药集聚提升项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "按计划推进建设",
+      "expected_completion_time": null,
+      "quote": "全力推进震元生物上虞基地项目和震元制药原料药集聚提升项目建设"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "生物发酵技术",
+      "asset_type": "core_technology",
+      "related_product": "原料药、合成生物产品",
+      "quantitative_info": "五十余年的生产经验及技术积累",
+      "quote": "子公司浙江震元制药有限公司...在生物发酵方面具有五十余年的生产经验及技术积累"
+    },
+    {
+      "name": "合成生物学技术",
+      "asset_type": "core_technology",
+      "related_product": "合成生物产品",
+      "quantitative_info": null,
+      "quote": "震元生物...利用‘合成生物学技术’开发新产品、新技术"
+    },
+    {
+      "name": "发明专利（震元制药）",
+      "asset_type": "patent",
+      "related_product": "原料药、制剂",
+      "quantitative_info": "累计授权发明专利24项",
+      "quote": "震元制药获得专利授权 1 项、新增申请 4 项，累计授权发明专利24项"
+    },
+    {
+      "name": "发明专利（震元生物）",
+      "asset_type": "patent",
+      "related_product": "合成生物产品",
+      "quantitative_info": "累计授权发明专利13项",
+      "quote": "新获得发明专利授权1项，累计授权发明专利13项"
+    },
+    {
+      "name": "药品GMP认证",
+      "asset_type": "certification",
+      "related_product": "原料药及制剂",
+      "quantitative_info": null,
+      "quote": "所有原料药及其制剂产品全部通过药品 GMP 认证"
+    },
+    {
+      "name": "美国FDA认证",
+      "asset_type": "certification",
+      "related_product": "原料药",
+      "quantitative_info": "部分产品品种通过",
+      "quote": "部分产品品种通过美国 FDA 和德国 GMP 认证"
+    },
+    {
+      "name": "德国GMP认证",
+      "asset_type": "certification",
+      "related_product": "原料药",
+      "quantitative_info": "部分产品品种通过",
+      "quote": "部分产品品种通过美国 FDA 和德国 GMP 认证"
+    },
+    {
+      "name": "省级博士后工作站、浙江省企业技术中心等",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建有绍兴市专家工作站、省级博士后工作站、浙江省企业技术中心、省级高新技术企业研究开发中心、省级企业研究院等"
+    },
+    {
+      "name": "浙江省省级中药饮片工程实验室",
+      "asset_type": "technical_platform",
+      "related_product": "中药饮片",
+      "quantitative_info": null,
+      "quote": "建有浙江省省级中药饮片工程实验室"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "305,845,929.41元，占年度销售总额比例13.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 305,845,929.41 ... 前五名客户合计销售金额占年度销售总额比例 13.44%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "82,640,911.91元，占年度销售总额比例3.63%",
+      "related_entity": "绍兴市人民医院（绍兴市干部保健中心）",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 绍兴市人民医院（绍兴市干部保健中心） 82,640,911.91 3.63%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "679,701,016.42元，占年度采购总额比例40.60%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 679,701,016.42 ... 前五名供应商合计采购金额占年度采购总额比例 40.60%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "177,831,574.19元，占年度采购总额比例10.61%",
+      "related_entity": "华润医药控股有限公司",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 华润医药控股有限公司 177,831,574.19 10.61%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "集采政策风险。公司两大核心产品注射用氯诺昔康、注射用丁二磺酸腺苷蛋氨酸均被纳入集采目录，导致销售额下降、市场被稀释、利润减少。",
+      "related_entity": null,
+      "related_product": "注射用氯诺昔康、注射用丁二磺酸腺苷蛋氨酸",
+      "quote": "1.集采政策风险。随着第十一批国家药品集采的正式启动，公司两大核心产品注射用氯诺昔康、注射用丁二磺酸腺苷蛋氨酸均被纳入集采目录。...销售额下降、市场被稀释、利润减少已成为必须面对的事实。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争风险。医药领域竞争激烈，全国性龙头扩张加剧区域竞争，新竞争对手不断涌现，患者对药品质量、疗效及价格的敏感度提高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.市场竞争风险。医药领域竞争激烈，全国性龙头扩张加剧区域竞争；同时，新竞争对手不断涌现...患者对药品质量、疗效及价格的敏感度日益提高，使得市场竞争更加激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动和生产技术风险。中药材价格波动明显，部分化学原料药价格不稳定；生产技术更新迭代迅速，存在技术落后风险。",
+      "related_entity": null,
+      "related_product": "中药材、化学原料药",
+      "quote": "3.原材料价格波动和生产技术风险。中药材价格波动明显，30余个主流品种价格腰斩；部分化学原料药...价格呈现不稳定态势；生产技术更新迭代迅速，若公司未能及时跟进，可能面临技术落后、生产效率低下等问题。"
+    },
+    {
+      "risk_type": "other",
+      "description": "药品研发创新及仿制药一致性评价风险。研发周期长、投入大、风险高，存在研发失败或进度滞后的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.药品研发创新及仿制药一致性评价风险。药品的研发周期长、投入大、风险高，存在研发失败或进度滞后的风险，创新不足则导致市场份额流失风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "项目投资风险。项目建设进度、实施效果存在不确定性，面临市场环境、销售模式变化，新增产能存在不能完全消化的风险。",
+      "related_entity": "震元生物上虞基地项目、震元制药原料药集聚提升项目",
+      "related_product": null,
+      "quote": "5.项目投资风险。项目的建设...在建设进度、实施过程和实施效果等方面存在不确定性...其产品能否实现大规模销售存在不确定性...将使公司面临新增产能不能完全消化的风险"
+    }
+  ]
+}

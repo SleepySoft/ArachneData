@@ -1,0 +1,388 @@
+{
+  "company_name_mentioned": "广东和胜工业铝材股份有限公司",
+  "produces": [
+    {
+      "name": "新能源汽车电池结构件（电池下箱体、模组结构件、电芯外壳、电芯顶盖）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "新能源业务的主要产品包括：新能源汽车电池下箱体、模组结构件、电芯外壳、电芯顶盖等电池结构件产品"
+    },
+    {
+      "name": "新能源汽车车身结构件（防撞梁、底盘门槛梁）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "以及防撞梁、底盘门槛梁等车身结构件产品"
+    },
+    {
+      "name": "消费电子板材（手机中框和背板、平板电脑中框和背板、笔记本电脑外壳）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "消费电子业务的主要产品包括：手机中框和背板、平板电脑中框和背板、笔记本电脑外壳等消费电子板材"
+    },
+    {
+      "name": "消费电子精密结构件（电脑硬盘磁碟臂、激光打印机感光鼓）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "电脑硬盘磁碟臂、激光打印机感光鼓等消费电子精密结构件"
+    },
+    {
+      "name": "消费电子外观结构件（移动电源外壳）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "以及移动电源外壳等消费电子外观结构件"
+    },
+    {
+      "name": "耐用消费品结构件（淋浴房、婴儿车、吸尘器等）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "耐用消费品业务的主要产品包括淋浴房、婴儿车、吸尘器等结构件"
+    },
+    {
+      "name": "铝型材",
+      "type": "material",
+      "revenue_proportion": "92.13%",
+      "quote": "分产品 铝型材 3,695,475,433.02 92.13%"
+    },
+    {
+      "name": "铝表面处理加工、铝棒受托加工",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "其他业务主要包括铝表面处理加工、铝棒受托加工等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铝锭",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为铝锭"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "新能源汽车电池结构件（电池下箱体、模组结构件、电芯外壳、电芯顶盖）、新能源汽车车身结构件（防撞梁、底盘门槛梁）",
+      "quote": "公司综合运用熔铸、挤压、深加工、集成装配等环节的各项工艺技术，为新能源行业和消费电子行业客户提供‘一站式’整体解决方案"
+    },
+    {
+      "name": "消费电子（智能手机、平板电脑、笔记本电脑、激光打印机、移动电源等）",
+      "source_product": "消费电子板材（手机中框和背板、平板电脑中框和背板、笔记本电脑外壳）、消费电子精密结构件（电脑硬盘磁碟臂、激光打印机感光鼓）、消费电子外观结构件（移动电源外壳）",
+      "quote": "公司是技术驱动的新材料和新能源集成部件提供商，致力于推动高端工业铝合金在消费电子和新能源领域的应用"
+    },
+    {
+      "name": "耐用消费品（淋浴房、婴儿车、吸尘器等）",
+      "source_product": "耐用消费品结构件",
+      "quote": "耐用消费品业务的主要产品包括淋浴房、婴儿车、吸尘器等结构件"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李建湘",
+      "role": "董事长、总经理、法定代表人、实际控制人、控股股东",
+      "quote": "公司负责人李建湘...李建湘先生：1963 年出生...2012年5月至今任公司董事长...李建湘 男 63 董事长、董事、总经理 现任"
+    },
+    {
+      "name": "李信",
+      "role": "董事、副董事长、副总经理、财务总监",
+      "quote": "主管会计工作负责人李信...李信女士：1991年出生...2020年6月至今任公司财务总监；2021年5月至今任公司董事；2023年4月至今任公司副总经理；...2025年8月28日至今任公司副董事长"
+    },
+    {
+      "name": "李江",
+      "role": "董事、董事会秘书",
+      "quote": "董事会秘书 李江...李江先生：1967年出生...2018年7月至今任公司董事兼董事会秘书"
+    },
+    {
+      "name": "黄嘉辉",
+      "role": "董事",
+      "quote": "黄嘉辉 男 42 董事 现任...黄嘉辉先生：1984年出生...2012年5月至今任本公司董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁德时代",
+      "relation_type": "customer",
+      "business_details": "作为宁德时代核心战略合作伙伴，公司已与其形成全领域、深层次、高规模的战略合作关系",
+      "quote": "公司深度绑定宁德时代、比亚迪等新能源产业链头部客户"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "深度绑定宁德时代、比亚迪等行业巨头",
+      "quote": "公司深度绑定宁德时代、比亚迪等新能源产业链头部客户"
+    },
+    {
+      "name": "比亚迪电子",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "客户矩阵覆盖消费电子领域的富士康、比亚迪电子、瑞声科技"
+    },
+    {
+      "name": "富士康",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "客户矩阵覆盖消费电子领域的富士康、比亚迪电子、瑞声科技"
+    },
+    {
+      "name": "瑞声科技",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "客户矩阵覆盖消费电子领域的富士康、比亚迪电子、瑞声科技"
+    },
+    {
+      "name": "广汽埃安",
+      "relation_type": "customer",
+      "business_details": "成功切入广汽埃安、本田等主流车企供应链体系",
+      "quote": "并成功切入广汽埃安、本田等主流整车厂供应链"
+    },
+    {
+      "name": "本田",
+      "relation_type": "customer",
+      "business_details": "成功切入广汽埃安、本田等主流车企供应链体系",
+      "quote": "并成功切入广汽埃安、本田等主流整车厂供应链"
+    },
+    {
+      "name": "德国奔驰",
+      "relation_type": "customer",
+      "business_details": "2025年公司成功入选德国奔驰全球铝合金型材供应商白名单，获得向奔驰全球各生产基地及一级供应商（Tier1）直接供应铝合金型材的资质",
+      "quote": "2025年，公司成功入选德国奔驰全球铝合金型材供应商白名单"
+    },
+    {
+      "name": "广东和胜新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为新能源汽车零部件研发、生产和销售",
+      "quote": "广东和胜新能源 指 广东和胜新能源科技有限公司"
+    },
+    {
+      "name": "江苏和胜新能源汽车配件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "江苏和胜新能源 指 江苏和胜新能源汽车配件有限公司"
+    },
+    {
+      "name": "安徽和胜新能源汽车部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "安徽和胜新能源 指 安徽和胜新能源汽车部件有限公司"
+    },
+    {
+      "name": "四川和胜新能源汽车部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "四川和胜新能源 指 四川和胜新能源汽车部件有限公司"
+    },
+    {
+      "name": "中山瑞泰铝业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "瑞泰铝业 指 中山瑞泰铝业有限公司"
+    },
+    {
+      "name": "马鞍山市新马精密铝业有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新马精密 指 马鞍山市新马精密铝业有限责任公司"
+    },
+    {
+      "name": "国泰海通证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "报告期内履行持续督导职责的保荐机构",
+      "quote": "国泰海通证券股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车部件",
+      "segment_type": "product_line",
+      "revenue_amount": "2,769,533,564.88元",
+      "revenue_proportion": "69.05%",
+      "gross_margin": "12.52%",
+      "yoy_change": "30.49%",
+      "quote": "汽车部件 2,769,533,564.88 69.05% 2,122,451,020.04 63.68% 30.49%"
+    },
+    {
+      "name": "电子消费品",
+      "segment_type": "product_line",
+      "revenue_amount": "819,862,336.26元",
+      "revenue_proportion": "20.44%",
+      "gross_margin": "20.73%",
+      "yoy_change": "13.10%",
+      "quote": "电子消费品 819,862,336.26 20.44% 724,878,799.97 21.75% 13.10%"
+    },
+    {
+      "name": "耐用消费品",
+      "segment_type": "product_line",
+      "revenue_amount": "199,354,633.93元",
+      "revenue_proportion": "4.97%",
+      "gross_margin": null,
+      "yoy_change": "-5.66%",
+      "quote": "耐用消费品 199,354,633.93 4.97% 211,324,632.33 6.34% -5.66%"
+    },
+    {
+      "name": "其他类",
+      "segment_type": "product_line",
+      "revenue_amount": "52,162,178.03元",
+      "revenue_proportion": "1.30%",
+      "gross_margin": null,
+      "yoy_change": "8.79%",
+      "quote": "其他类 52,162,178.03 1.30% 47,949,005.86 1.44% 8.79%"
+    },
+    {
+      "name": "铝型材",
+      "segment_type": "product_line",
+      "revenue_amount": "3,695,475,433.02元",
+      "revenue_proportion": "92.13%",
+      "gross_margin": "13.28%",
+      "yoy_change": "21.09%",
+      "quote": "分产品 铝型材 3,695,475,433.02 92.13% 3,051,901,739.89 91.56% 21.09%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "3,935,164,106.53元",
+      "revenue_proportion": "98.11%",
+      "gross_margin": "14.69%",
+      "yoy_change": "21.57%",
+      "quote": "分地区 国内销售 3,935,164,106.53 98.11% 3,237,033,653.57 97.12% 21.57%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "75,843,510.54元",
+      "revenue_proportion": "1.89%",
+      "gross_margin": null,
+      "yoy_change": "-21.03%",
+      "quote": "国外销售 75,843,510.54 1.89% 96,041,214.17 2.88% -21.03%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "铝型材",
+      "metric_type": "sales_volume",
+      "value": "88,082,731.72 KG",
+      "period": "2025年",
+      "quote": "销售量 KG 88,082,731.72"
+    },
+    {
+      "product": "铝型材",
+      "metric_type": "production_volume",
+      "value": "88,060,329.99 KG",
+      "period": "2025年",
+      "quote": "生产量 KG 88,060,329.99"
+    },
+    {
+      "product": "铝型材",
+      "metric_type": "inventory_volume",
+      "value": "5,702,148.29 KG",
+      "period": "2025年末",
+      "quote": "库存量 KG 5,702,148.29"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能移动终端金属结构件项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "5,000万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "截至2025年末累计投入723.22万元，投资进度14.46%",
+      "expected_completion_time": "2027年08月21日",
+      "quote": "智能移动终端金属结构件项目 否 7,500 5,000 723.2 723.2 14.46% 2027年08月21日"
+    },
+    {
+      "name": "安徽和胜新能源生产基地项目（一期）",
+      "project_type": "fundraising_project",
+      "location": "安徽",
+      "investment_amount": "42,000万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "截至2025年末累计投入4,619.23万元，投资进度15.40%",
+      "expected_completion_time": "2028年08月21日",
+      "quote": "安徽和胜新能源生产基地项目（一期） 否 42,000 30,000 4,619 4,619 15.40% 2028年08月21日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "14,386.71万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "已全部投入，投资进度100%",
+      "expected_completion_time": null,
+      "quote": "补充流动资金 否 18,500 14,386.71 14,386.71 14,386.71 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效专利（截至披露日）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "拥有有效专利305件，其中国内发明专利97件，国内实用新型专利203件，外观设计2件，美国发明专利1件，澳大利亚创新专利（实用新型）2件",
+      "quote": "截止到披露日，拥有有效专利305件，其中国内发明专利97件，国内实用新型专利203件，外观设计2件，美国发明专利1件，澳大利亚创新专利（实用新型）2件"
+    },
+    {
+      "name": "参与制定的标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定《一般工业用铝及铝合金挤压型材》等国家标准5项，《电动汽车用铝合金电池包下壳体》等行业标准、团体标准5项",
+      "quote": "参与制定《一般工业用铝及铝合金挤压型材》等国家标准5项，《电动汽车用铝合金电池包下壳体》等行业标准、团体标准5项"
+    },
+    {
+      "name": "高强高亮铝合金材料研发与制造工艺",
+      "asset_type": "core_technology",
+      "related_product": "消费电子板材（如折叠屏中框）",
+      "quantitative_info": "现已成为国内少数实现屈服强度超400MPa高强度高亮度6系铝合金、超500MPa 7系铝合金稳定量产的企业行列",
+      "quote": "现已跻身国内少数实现屈服强度超400MPa高强度高亮度6系铝合金、超500MPa 7系铝合金稳定量产的企业行列"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "66.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,655,337,288.61 前五名客户合计销售金额占年度销售总额比例 66.20%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "49.32%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "1 第一名 1,978,260,464.23 49.32%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.69%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,010,164,948.06 前五名供应商合计采购金额占年度采购总额比例 29.69%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司的生产经营受整体宏观经济发展的影响。若国内经济发展缓慢，或经济出现周期性波动，整个国民经济中消费也将相应放缓，进而影响到公司下游客户，将对公司未来盈利能力产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）宏观经济周期和产业政策变化的风险 公司的生产经营受整体宏观经济发展的影响。若国内经济发展缓慢，或经济出现周期性波动，整个国民经济中消费也将相应放缓，进而影响到公司下游客户，将对公司未来盈利能力产生不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品的主要原材料为铝锭。近年来，受到宏观经济、市场供需及政策层面的影响，主要原材料市场价格出现较大幅度波动。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）原材料价格波动风险 公司产品的主要原材料为铝锭。近年来，受到宏观经济、市场供需及政策层面的影响，主要原材料市场价格出现较大幅度波动。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司生产的汽车零部件对产品质量要求较高。报告期内，公司对产品质量总体管控较好，但随着公司经营规模的扩大，若公司在产品质量管控方面出现漏洞，公司可能会面临下游客户的质量索赔，公司将面临承担产品质量责任的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）产品质量责任风险 公司生产的汽车零部件对产品质量要求较高。报告期内，公司对产品质量总体管控较好，但随着公司经营规模的扩大，若公司在产品质量管控方面出现漏洞，公司可能会面临下游客户的质量索赔，公司将面临承担产品质量责任的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司所处行业技术迭代迅速、高端人才竞争激烈，伴随业务持续拓展与研发投入加大，对铝挤压技术的升级以及对新领域的核心技术人才需求显著提升。若公司无法及时引进、培养并稳定相关专业人才，可能导致研发进度不及预期、技术创新能力受限，进而对公司市场竞争力与长期发展造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）核心技术人才短缺风险 公司所处行业技术迭代迅速、高端人才竞争激烈，伴随业务持续拓展与研发投入加大，对铝挤压技术的升级以及对新领域的核心技术人才需求显著提升。若公司无法及时引进、培养并稳定相关专业人才，可能导致研发进度不及预期、技术创新能力受限，进而对公司市场竞争力与长期发展造成不利影响。"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "company_name_mentioned": "现代投资股份有限公司",
+  "produces": [
+    {
+      "name": "高速公路通行服务",
+      "type": "service",
+      "revenue_proportion": "45.49%（道路运输业）",
+      "quote": "分行业：道路运输业 45.49%"
+    },
+    {
+      "name": "大宗商品贸易",
+      "type": "service",
+      "revenue_proportion": "44.91%（商品贸易）",
+      "quote": "分产品：大宗商品贸易 2,664,895,760.20 44.91%"
+    },
+    {
+      "name": "期货经纪服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "大有期货 有限公司（公司全资子公司）"
+    },
+    {
+      "name": "银行金融服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "湖南岳阳巴陵农村商业银行股份有限公司（公司控股子公司）"
+    },
+    {
+      "name": "环保项目投资与运营（垃圾焚烧、危废处置）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "湖南现代环境科技股份有限公司（公司全资子公司）"
+    },
+    {
+      "name": "新能源服务（路域光伏、储能）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "湖南现代新能源有限公司（公司全资子公司）"
+    },
+    {
+      "name": "数智物流信息服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "湖南数智物流信息有限公司（公司控股子公司）"
+    }
+  ],
+  "procures": [
+    {
+      "name": "标准仓单（大宗商品）",
+      "target_product": "大宗商品贸易",
+      "cost_proportion": null,
+      "quote": "企业应当将其签订的买卖标准仓单的合同视同金融工具"
+    },
+    {
+      "name": "原材料、商品、劳务、服务等（贸易业务）",
+      "target_product": "大宗商品贸易",
+      "cost_proportion": "15.01%（前五名供应商采购额占比）",
+      "quote": "前五名供应商合计采购金额（元） 646,146,165.06；前五名供应商合计采购金额占年度采购总额比例 15.01%"
+    },
+    {
+      "name": "银行存款（金融机构业务）",
+      "target_product": "银行金融服务",
+      "cost_proportion": null,
+      "quote": "吸收存款及同业存放 12,963,778,715.27"
+    }
+  ],
+  "applications": [
+    {
+      "name": "高速公路运营与交通服务",
+      "source_product": "高速公路通行服务",
+      "quote": "公司继续保持“一体两翼”的发展格局。“一体”为高速公路投资建设经营管理。"
+    },
+    {
+      "name": "交通能源融合（分布式光伏、储能）",
+      "source_product": "新能源服务（路域光伏、储能）",
+      "quote": "公司未来发展前景广阔。...公司全面实施。"
+    },
+    {
+      "name": "高速公路环保（噪声治理、废渣处理、服务区污水治理）",
+      "source_product": "环保项目投资与运营（垃圾焚烧、危废处置）",
+      "quote": "在高速噪声治理、施工废渣处理、服务区污水治理及沿线生态修复等领域形成创新业务增长点"
+    },
+    {
+      "name": "物流行业数字化服务（数据驱动、车货匹配）",
+      "source_product": "数智物流信息服务",
+      "quote": "打造以数据驱动为核心、深度融合实体物流与数字科技的省级物流大数据运营服务主平台。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "罗卫华",
+      "role": "董事长，法定代表人",
+      "quote": "公司负责人罗卫华；2023年6月至今任公司党委书记，2023年7月至今任公司党委书记、董事长。"
+    },
+    {
+      "name": "唐前松",
+      "role": "副董事长，总经理",
+      "quote": "主管会计工作负责人曾永长；2021年5月至今任公司党委副书记、副董事长、总经理。"
+    },
+    {
+      "name": "曾永长",
+      "role": "总会计师",
+      "quote": "主管会计工作负责人曾永长；2021年3月至今任公司党委委员、总会计师。"
+    },
+    {
+      "name": "朱成芳",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 朱成芳；2021年4月至今任公司董事会秘书。"
+    },
+    {
+      "name": "杨建国",
+      "role": "董事（由股东招商公路委派）",
+      "quote": "杨建国，男，1967年生...2025年11月至今任公司董事。"
+    },
+    {
+      "name": "易斌斌",
+      "role": "董事（由股东湖南轨道委派）",
+      "quote": "易斌斌，女，1984年10月生...2024年5月至今任公司董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "湖南省高速公路集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股27.19%。公司受托管理其下属路段。",
+      "quote": "控股股东、实际控制人：湖南省高速公路集团有限公司；高速集团 指 湖南省高速公路集团有限公司；公司受托管理长芷高速新溆怀化段、沅辰高速、杭长高速长永段"
+    },
+    {
+      "name": "湖南轨道交通控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "第二大股东，持股11.32%。",
+      "quote": "湖南轨道交通控股集团有限公司 持股比例 11.32%"
+    },
+    {
+      "name": "招商局公路网络科技控股股份有限公司",
+      "relation_type": "investor",
+      "business_details": "第三大股东，持股8.04%。",
+      "quote": "招商局公路网络科技控股股份有限公司 持股比例 8.04%"
+    },
+    {
+      "name": "湖南省交通规划勘察设计院有限公司",
+      "relation_type": "supplier",
+      "business_details": "提供设计、咨询等服务。",
+      "quote": "接受关联人提供的产品、商品、原材料、劳务、服务：湖南省交通规划勘察设计院有限公司"
+    },
+    {
+      "name": "湖南高速集团财务有限公司",
+      "relation_type": "supplier",
+      "business_details": "提供存款、贷款等金融服务。",
+      "quote": "湖南高速集团 财务有限公司 存款、贷款业务"
+    },
+    {
+      "name": "湖南数智物流信息有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，持股52%。",
+      "quote": "投资控股湖南数智物流信息集团有限公司，打造省级核心物流大数据运营服务平台"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "道路运输业（高速公路通行费）",
+      "segment_type": "product_line",
+      "revenue_amount": "2,699,313,277.24",
+      "revenue_proportion": "45.49%",
+      "gross_margin": "49.11%",
+      "yoy_change": "-5.96%",
+      "quote": "分行业：道路运输业 2,699,313,277.24 45.49%；毛利率 49.11%；营业收入比上年增减 -5.96%"
+    },
+    {
+      "name": "商品贸易（大宗商品贸易）",
+      "segment_type": "product_line",
+      "revenue_amount": "2,664,895,760.20",
+      "revenue_proportion": "44.91%",
+      "gross_margin": "-0.58%",
+      "yoy_change": "27.89%",
+      "quote": "分行业：商品贸易 2,664,895,760.20 44.91%；毛利率 -0.58%；营业收入比上年增减 27.89%"
+    },
+    {
+      "name": "湘衡高速公路通行费",
+      "segment_type": "product_line",
+      "revenue_amount": "1,086,989,632.03",
+      "revenue_proportion": "18.32%",
+      "gross_margin": "49.46%",
+      "yoy_change": "2.52%",
+      "quote": "分产品：湘衡高速公路通行费 1,086,989,632.03 18.32%；毛利率 49.46%；营业收入比上年增减 2.52%"
+    },
+    {
+      "name": "上海市",
+      "segment_type": "region",
+      "revenue_amount": "2,664,761,918.93",
+      "revenue_proportion": "44.91%",
+      "gross_margin": "-0.59%",
+      "yoy_change": "40.05%",
+      "quote": "分地区：上海市 2,664,761,918.93 44.91%；毛利率 -0.59%；营业收入比上年增减 40.05%"
+    },
+    {
+      "name": "湖南省",
+      "segment_type": "region",
+      "revenue_amount": "3,257,735,362.58",
+      "revenue_proportion": "54.90%",
+      "gross_margin": "49.09%",
+      "yoy_change": "-9.54%",
+      "quote": "分地区：湖南省 3,257,735,362.58 54.90%；毛利率 49.09%；营业收入比上年增减 -9.54%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "高速公路",
+      "metric_type": "capacity",
+      "value": "运营总里程约563公里",
+      "period": "报告期",
+      "quote": "公司经营高速公路5条...经营里程共计约450公里，受托管理...里程约113公里，运营总里程约563公里。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "与关联方共同出资设立湖南数智物流信息有限公司",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "注册资本20亿元",
+      "designed_capacity": null,
+      "progress": "2026年1月，数智物流公司已完成工商登记注册并取得营业执照。",
+      "expected_completion_time": null,
+      "quote": "公司于2025年11月24日...同意公司与...共同出资设立湖南数智物流信息有限公司，注册资本20亿元。"
+    },
+    {
+      "name": "高速公路光伏试点建设",
+      "project_type": "capacity_expansion",
+      "location": "湖南省高速公路沿线及服务区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "公司未来发展前景广阔。...公司全面实施。",
+      "expected_completion_time": null,
+      "quote": "湖南省交通运输厅专门印发了《湖南省高速公路光伏试点建设工作方案》，高速集团部署由公司全面实施。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "模块化智慧污水处理关键技术",
+      "asset_type": "core_technology",
+      "related_product": "高速公路环保服务",
+      "quantitative_info": "荣获中华环保联合会科学技术奖二等奖",
+      "quote": "现代环境自主开发的“模块化智慧污水处理关键技术”荣获中华环保联合会科学技术奖二等奖"
+    },
+    {
+      "name": "新增授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年，公司新增授权专利11项",
+      "quote": "2025年，公司新增授权专利11项"
+    },
+    {
+      "name": "新增软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "2025年，公司新增授权...软件著作权3项",
+      "quote": "2025年，公司新增授权...软件著作权3项"
+    },
+    {
+      "name": "干线通道主动管控系统建设、数智云收费站等数字化技术",
+      "asset_type": "technical_platform",
+      "related_product": "高速公路数字化运营",
+      "quantitative_info": "车道资源利用率提升30%—50%，高峰通行时间缩短40%以上",
+      "quote": "在京港澳长潭路段完成干线通道主动管控系统建设，将昭山站打造成为数智云收费站...车道资源利用率提升30%—50%，高峰通行时间缩短40%以上"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "14.10%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 14.10%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "15.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 15.01%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "集中度较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 14.10%"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "集中度较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 15.01%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "期货行业监管进一步趋严，市场波动不确定性增加，银行业利差进一步收窄，对金融业务盈利能力带来挑战。",
+      "related_entity": "大有期货有限公司、湖南岳阳巴陵农村商业银行股份有限公司",
+      "related_product": null,
+      "quote": "金融板块：期货行业监管进一步趋严，市场波动不确定性增加，银行业利差进一步收窄，对金融业务盈利能力带来挑战。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "受国际、国内经济环境的影响，优质项目市场竞争日趋激烈，部分环保业务客户支付能力下降。",
+      "related_entity": "湖南现代环境科技股份有限公司",
+      "related_product": "环保项目",
+      "quote": "产业板块：受国际、国内经济环境的影响，优质项目市场竞争日趋激烈，部分环保业务客户支付能力下降。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "子公司湘衡公司实施债务置换，通过借入低利率借款置换原有存量债务。",
+      "related_entity": "湖南湘衡高速公路有限公司",
+      "related_product": null,
+      "quote": "主要原因系子公司湘衡公司实施债务置换，通过借入低利率借款置换原有存量债务所致。"
+    },
+    {
+      "risk_type": "other",
+      "description": "标准仓单交易相关会计政策变更，对收入确认方式产生影响。",
+      "related_entity": "上海夯石商贸有限公司（贸易业务）",
+      "related_product": "大宗商品贸易",
+      "quote": "根据财政部于2025年7月8日发布的标准仓单交易相关会计处理实施问答的要求...本公司自2025年1月1日起执行上述会计政策。"
+    }
+  ]
+}

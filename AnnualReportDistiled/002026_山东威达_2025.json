@@ -1,0 +1,531 @@
+{
+  "company_name_mentioned": "山东威达机械股份有限公司",
+  "produces": [
+    {
+      "name": "钻夹头",
+      "type": "component",
+      "revenue_proportion": "50.43% (电动工具配件产品整体占比)",
+      "quote": "公司以电动工具配件业务为主轴，专注于为史丹利百得、博世、TTI、牧田等电动工具行业领先客户提供各种规格、型号的钻夹头、新能源储能锂电池包、电动工具开关、粉末冶金件、精密铸造件、锯片等电动工具配件产品"
+    },
+    {
+      "name": "新能源储能锂电池包",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "为手电钻等电动工具提供电池包及其管理控制系统；为打草机、割草机等园林工具提供电池包及其管理控制系统"
+    },
+    {
+      "name": "粉末冶金件",
+      "type": "component",
+      "revenue_proportion": "7.37%",
+      "quote": "粉末冶金件 141,651,223.35 7.37%"
+    },
+    {
+      "name": "精密铸造件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司子公司威达精铸在熔模精密铸造产品制造加工领域拥有先进的硅溶胶等复合工艺...具备年产3,000万件精密铸造件的生产能力"
+    },
+    {
+      "name": "锯片产品",
+      "type": "component",
+      "revenue_proportion": "1.84%",
+      "quote": "锯片产品 35,438,894.50 1.84%"
+    },
+    {
+      "name": "电动工具开关",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "各种规格、型号的交、直流开关、充电器等"
+    },
+    {
+      "name": "数控机床及附件",
+      "type": "device",
+      "revenue_proportion": "2.52% (机床产品)",
+      "quote": "公司子公司济南一机生产、销售“济一机”品牌的机床及附件，包括各种规格、型号的中高档数控车床、车削中心、加工中心、数控镗铣床、数控专用机床、高速切割锯床、自动化设备及附件等"
+    },
+    {
+      "name": "自动化装备及系统集成",
+      "type": "service",
+      "revenue_proportion": "6.74% (自动化装备产品)",
+      "quote": "公司子公司苏州德迈科是国内领先的从智能产品、智能装备到整体系统集成的一站式智能制造解决方案提供商"
+    },
+    {
+      "name": "新能源汽车快速换电站",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司控股孙公司昆山斯沃普智能装备有限公司致力于新能源汽车电力供应基础设施包含自动化换电站...的设计研发、生产制造、销售、安装、运营、咨询、技术服务等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "圆钢、钢板等钢材",
+      "target_product": "电动工具配件、精密铸造件等",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为圆钢、钢板等钢材，钢材价格的波动将给公司的生产经营带来影响"
+    },
+    {
+      "name": "电芯",
+      "target_product": "新能源储能锂电池包",
+      "cost_proportion": null,
+      "quote": "上海拜骋所生产的锂电池包部分电芯客供"
+    },
+    {
+      "name": "原材料、电力、辅助材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "山东威达及其威海地区子公司生产所需的原材料、电力、辅助材料的采购由公司供应处直接采购"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电动工具行业",
+      "source_product": "钻夹头、电动工具开关、粉末冶金件、精密铸造件、锯片等",
+      "quote": "可用于电动工具行业专业人士、DIY家用级金属切削类工具产品配套和各种金属切割加工、木工加工等，如电钻、园林机械、五金工具、仪表等"
+    },
+    {
+      "name": "家用电器",
+      "source_product": "粉末冶金产品、精密铸造产品、电池包产品等",
+      "quote": "部分粉末冶金产品、精密铸造产品、电池包产品和机床产品...可应用于家用电器、汽车等行业"
+    },
+    {
+      "name": "汽车行业",
+      "source_product": "粉末冶金件、精密铸造件、机床等",
+      "quote": "可应用于汽车、军工、电子、轨道交通等领域"
+    },
+    {
+      "name": "智能家电（如扫地机器人）",
+      "source_product": "电池包及其管理控制系统",
+      "quote": "为扫地机器人等智能家电及家用、户外储能产品提供电池包及其管理控制系统"
+    },
+    {
+      "name": "便捷交通工具（如电动自行车、电动滑板车）",
+      "source_product": "电池包及其管理控制系统",
+      "quote": "为便捷交通工具领域的电动自行车、电动滑板车、儿童电动汽车等提供电池包及其管理控制系统"
+    },
+    {
+      "name": "储能领域",
+      "source_product": "储能产品",
+      "quote": "以及其他家用、户外储能、机器人等领域"
+    },
+    {
+      "name": "新能源汽车充换电",
+      "source_product": "新能源汽车快速换电站",
+      "quote": "为新能源汽车产业提供换电站从研发到制造的一站式服务"
+    },
+    {
+      "name": "工厂自动化、物流自动化、仓储自动化",
+      "source_product": "智能装备解决方案",
+      "quote": "自动化产品主要应用于消费品、食品饮料、精细化工、电商物流、电子、汽车、货物仓储、工程设备、机加工等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨明燕",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人杨明燕、主管会计工作负责人曹原培及会计机构负责人（会计主管人员）曹原培声明"
+    },
+    {
+      "name": "杨桂军",
+      "role": "副董事长",
+      "quote": "副董事长杨桂军先生担任雷姆公司的副董事长"
+    },
+    {
+      "name": "李铁松",
+      "role": "董事",
+      "quote": "董事李铁松先生担任雷姆公司的总经理"
+    },
+    {
+      "name": "梁勇",
+      "role": "董事、副总经理",
+      "quote": "现任山东威达机械股份有限公司董事兼副总经理"
+    },
+    {
+      "name": "刘友财",
+      "role": "董事（曾任总经理）",
+      "quote": "现任山东威达机械股份有限公司董事"
+    },
+    {
+      "name": "宋战友",
+      "role": "副总经理",
+      "quote": "副总经理宋战友先生担任雷姆公司的董事"
+    },
+    {
+      "name": "陈杰",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 陈杰"
+    },
+    {
+      "name": "曹原培",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人曹原培"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "山东威达集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，持有公司36.40%的股份",
+      "quote": "威达集团 指 山东威达集团有限公司，为公司控股股东，持有公司36.40%的股份"
+    },
+    {
+      "name": "史丹利百得",
+      "relation_type": "customer",
+      "business_details": "电动工具行业领先客户",
+      "quote": "专注于为史丹利百得、博世、TTI、牧田等电动工具行业领先客户提供...产品"
+    },
+    {
+      "name": "博世",
+      "relation_type": "customer",
+      "business_details": "电动工具行业领先客户",
+      "quote": "专注于为史丹利百得、博世、TTI、牧田等电动工具行业领先客户提供...产品"
+    },
+    {
+      "name": "TTI",
+      "relation_type": "customer",
+      "business_details": "电动工具行业领先客户",
+      "quote": "专注于为史丹利百得、博世、TTI、牧田等电动工具行业领先客户提供...产品"
+    },
+    {
+      "name": "牧田",
+      "relation_type": "customer",
+      "business_details": "电动工具行业领先客户",
+      "quote": "专注于为史丹利百得、博世、TTI、牧田等电动工具行业领先客户提供...产品"
+    },
+    {
+      "name": "安海",
+      "relation_type": "customer",
+      "business_details": "锂电池包客户",
+      "quote": "上海拜骋公司的新能源储能锂电池包产品...成为安海、TTI、小米、东成和美的等行业知名企业供应商"
+    },
+    {
+      "name": "小米",
+      "relation_type": "customer",
+      "business_details": "锂电池包客户",
+      "quote": "上海拜骋公司的新能源储能锂电池包产品...成为安海、TTI、小米、东成和美的等行业知名企业供应商"
+    },
+    {
+      "name": "山东威达雷姆机械有限公司",
+      "relation_type": "supplier",
+      "business_details": "合营企业，也是公司供应商",
+      "quote": "“供应商一”为公司参股50%的合营企业山东威达雷姆机械有限公司"
+    },
+    {
+      "name": "艾利特智能机器人股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司投资参股，持有0.7825%股份",
+      "quote": "公司完成投资艾利特智能机器人股份有限公司，成功取得其 0.7825%的股份"
+    },
+    {
+      "name": "蔚来汽车",
+      "relation_type": "customer",
+      "business_details": "换电站客户",
+      "quote": "报告期内，昆山斯沃普公司已为蔚来汽车供货四代、五代换电站设备"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电动工具配件业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,146,375,517.19元",
+      "revenue_proportion": "59.64%",
+      "gross_margin": "19.41%",
+      "yoy_change": "0.71%",
+      "quote": "电动工具配件业务 1,146,375,517.19 59.64% 1,138,320,443.79 51.25% 0.71%"
+    },
+    {
+      "name": "高端智能装备制造业务",
+      "segment_type": "product_line",
+      "revenue_amount": "178,055,123.85元",
+      "revenue_proportion": "9.26%",
+      "gross_margin": "17.87%",
+      "yoy_change": "-11.42%",
+      "quote": "高端智能装备制造业务 178,055,123.85 9.26% 200,999,501.67 9.05% -11.42%"
+    },
+    {
+      "name": "新能源行业业务",
+      "segment_type": "product_line",
+      "revenue_amount": "544,983,130.45元",
+      "revenue_proportion": "28.35%",
+      "gross_margin": "35.54%",
+      "yoy_change": "-32.63%",
+      "quote": "新能源行业业务 544,983,130.45 28.35% 808,985,936.44 36.43% -32.63%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,175,769,671.11元",
+      "revenue_proportion": "61.17%",
+      "gross_margin": "25.31%",
+      "yoy_change": "-18.07%",
+      "quote": "国内 1,175,769,671.11 61.17% 1,435,024,270.35 64.61% -18.07%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "746,244,048.24元",
+      "revenue_proportion": "38.83%",
+      "gross_margin": "21.78%",
+      "yoy_change": "-5.04%",
+      "quote": "国外 746,244,048.24 38.83% 785,872,819.91 35.39% -5.04%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电动工具配件",
+      "metric_type": "production_volume",
+      "value": "180,924,391支/只",
+      "period": "2025年",
+      "quote": "电动工具配件业务 生产量 支/只 180,924,391"
+    },
+    {
+      "product": "电动工具配件",
+      "metric_type": "sales_volume",
+      "value": "180,756,715支/只",
+      "period": "2025年",
+      "quote": "电动工具配件业务 销售量 支/只 180,756,715"
+    },
+    {
+      "product": "高端智能装备制造业务（机床）",
+      "metric_type": "production_volume",
+      "value": "189台",
+      "period": "2025年",
+      "quote": "高端智能装备制造业务 生产量 台 189"
+    },
+    {
+      "product": "高端智能装备制造业务（机床）",
+      "metric_type": "sales_volume",
+      "value": "181台",
+      "period": "2025年",
+      "quote": "高端智能装备制造业务 销售量 台 181"
+    },
+    {
+      "product": "新能源行业业务",
+      "metric_type": "production_volume",
+      "value": "11,310,084个",
+      "period": "2025年",
+      "quote": "新能源行业业务 生产量 个 11,310,084"
+    },
+    {
+      "product": "新能源行业业务",
+      "metric_type": "sales_volume",
+      "value": "11,105,314个",
+      "period": "2025年",
+      "quote": "新能源行业业务 销售量 个 11,105,314"
+    },
+    {
+      "product": "钻夹头",
+      "metric_type": "capacity",
+      "value": "年生产8,000万只",
+      "period": null,
+      "quote": "公司拥有年生产钻夹头8,000万只...的生产能力"
+    },
+    {
+      "product": "粉末冶金零部件",
+      "metric_type": "capacity",
+      "value": "年生产12,000吨",
+      "period": null,
+      "quote": "公司拥有...12,000吨粉末冶金零部件...的生产能力"
+    },
+    {
+      "product": "精密铸造件",
+      "metric_type": "capacity",
+      "value": "年产3,000万件",
+      "period": null,
+      "quote": "具备年产3,000万件精密铸造件的生产能力"
+    },
+    {
+      "product": "新能源储能锂电池包",
+      "metric_type": "capacity",
+      "value": "年生产3,000余万只",
+      "period": null,
+      "quote": "公司拥有...3,000余万只新能源储能锂电池包...的生产能力"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "威达墨西哥制造有限公司生产基地",
+      "project_type": "capacity_expansion",
+      "location": "墨西哥",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已实现投产",
+      "expected_completion_time": null,
+      "quote": "威达墨西哥制造有限公司已实现投产"
+    },
+    {
+      "name": "投资艾利特智能机器人股份有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "自有资金20,000,000元（转让+增资）",
+      "designed_capacity": null,
+      "progress": "已完成工商变更",
+      "expected_completion_time": null,
+      "quote": "公司拟以自有资金6,277,873.07元...受让...0.3400%；...以自有资金13,722,126.93元...认购...0.4440%"
+    },
+    {
+      "name": "高效率精准换电装置的研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已落地",
+      "expected_completion_time": null,
+      "quote": "高效率精准换电装置的研发...已落地"
+    },
+    {
+      "name": "换电站自动化加解锁枪技术的研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已进入详细设计与系统开发阶段",
+      "expected_completion_time": null,
+      "quote": "换电站自动化加解锁枪技术的研发...已进入详细设计与系统开发阶段"
+    },
+    {
+      "name": "齿轮箱在无刷电钻上的应用研究",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成齿轮箱批量供货",
+      "expected_completion_time": null,
+      "quote": "齿轮箱在无刷电钻上的应用研究...目前已完成齿轮箱批量供货"
+    },
+    {
+      "name": "一种粉末冶金注射成型高密度不锈钢技术的研发和应用",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成原料配方优化试验，开展试生产",
+      "expected_completion_time": null,
+      "quote": "完成原料配方优化试验，确定核心成型工艺参数，开展试生产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利组合",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月31日，公司拥有发明专利112项，实用新型专利384项，外观设计专利40项",
+      "quote": "截至2025年12月31日，公司拥有发明专利112项，实用新型专利384项，外观设计专利40项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "著作权75项",
+      "quote": "著作权75项"
+    },
+    {
+      "name": "国家知识产权示范企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "历获...“国家知识产权示范企业”"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "certification",
+      "related_product": "机床",
+      "quantitative_info": null,
+      "quote": "济南一机拥有国家级企业技术中心"
+    },
+    {
+      "name": "智能存储、智能监控、智能输送和智能货运站4大核心智能物流技术",
+      "asset_type": "core_technology",
+      "related_product": "智能物流装备",
+      "quantitative_info": null,
+      "quote": "通过多年的技术积累和经验总结，苏州德迈科还研究开发出包括智能存储、智能监控、智能输送和智能货运站4大核心智能物流技术"
+    },
+    {
+      "name": "熔模精密铸造硅溶胶等复合工艺",
+      "asset_type": "process_technology",
+      "related_product": "精密铸造件",
+      "quantitative_info": "可生产80多种材质",
+      "quote": "公司子公司威达精铸在熔模精密铸造产品制造加工领域拥有先进的硅溶胶等复合工艺，可生产普通碳素钢、低合金钢、不锈钢、耐热钢、耐磨铸钢等80多种材质的精密铸造件"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "58.05%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,115,748,336.10 前五名客户合计销售金额占年度销售总额比例 58.05%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "25.11%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "客户一 482,568,672.08 25.11%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "11.99%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 149,508,093.50 前五名供应商合计采购金额占年度采购总额比例 11.99%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "2.91%",
+      "related_entity": "山东威达雷姆机械有限公司（供应商一）",
+      "period": "2025年",
+      "quote": "供应商一 36,261,135.98 2.91%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处行业为充分竞争的行业...随着对手的增多、竞争的日趋激烈，将对公司主要国内外客户的毛利率和产品交付均产生影响，盈利空间将可能受到压缩，存在毛利率下滑和订单不达预期的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "存在毛利率下滑和订单不达预期的风险，进而影响公司的利润水平"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品的主要原材料为圆钢、钢板等钢材，钢材价格的波动将给公司的生产经营带来影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如未来钢材价格波动幅度进一步加大，将会提高产品成本控制难度"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司主营业务电动工具配件类产品出口占比较大...上述区域内的国家...仍有可能出台相应税收、行业、汇率政策，如提高关税、反倾销及汇率贬值等政策...这将会直接影响公司产品在国际市场的销售，并可能导致公司出现汇兑损益",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司产品在国际市场的销售，并可能导致公司出现汇兑损益，对公司财务状况和经营成果产生一定影响"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "海外政策及汇率变动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主营业务电动工具配件类产品出口占比较大，主要区域为欧洲及北美地区...上述区域内的国家出于保护本国经济、产业的目的，仍有可能出台相应税收、行业、汇率政策"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观环境的风险：当前，受国际贸易摩擦等影响，全球经济面临极大挑战...给公司业务带来了很多风险和挑战",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "另一方面，我国经济发展面临需求收缩、供给冲击、预期转弱三重压力，市场竞争明显加剧，企业经营面临巨大的考验"
+    },
+    {
+      "risk_type": "other",
+      "description": "子公司管理风险：随着公司资产规模的不断扩大，组织管理体系日趋复杂...如果公司组织结构、管理水平和管理模式不能随着公司的发展速度及时进行调整和完善...都将阻碍公司的正常发展",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司投资了多家境内外子公司...对公司在经营管理、风险控制、市场开拓、资源整合、产品技术研发、质量管理、人力资源管理、财务管理等方面都提出了更高的要求"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "资产减值损失主要为本期计提存货跌价准备",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值 -22,299,813.31 -7.70% 主要为本期计提存货跌价准备"
+    }
+  ]
+}

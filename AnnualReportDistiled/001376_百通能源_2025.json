@@ -1,0 +1,395 @@
+{
+  "company_name_mentioned": "江西百通能源股份有限公司",
+  "produces": [
+    {
+      "name": "蒸汽",
+      "type": "material",
+      "revenue_proportion": "89.34%",
+      "quote": "分产品 蒸汽 954,845,537.98 89.34% 1,019,611,431.34 90.03% -6.35%"
+    },
+    {
+      "name": "电力",
+      "type": "material",
+      "revenue_proportion": "10.17%",
+      "quote": "电力 108,734,799.00 10.17% 107,796,079.62 9.52% 0.87%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "蒸汽、电力",
+      "cost_proportion": null,
+      "quote": "公司采购的主要原材料为煤炭，公司会安排第三方运输方运送煤炭至项目公司。"
+    },
+    {
+      "name": "蒸汽",
+      "target_product": "蒸汽转售",
+      "cost_proportion": null,
+      "quote": "报告期内，公司的项目子公司大龙百通、松滋百通和泗阳百通向当地热源采购蒸汽进行销售。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业园区集中供热",
+      "source_product": "蒸汽",
+      "quote": "公司自成立以来专注于为工业园区、产业聚集区企业提供集中供热服务。"
+    },
+    {
+      "name": "食品行业",
+      "source_product": "蒸汽",
+      "quote": "生产的蒸汽向工业园区内的食品、酿酒、化工、纺织、造纸、医药等众多热用户企业供应"
+    },
+    {
+      "name": "酿酒行业",
+      "source_product": "蒸汽",
+      "quote": "生产的蒸汽向工业园区内的食品、酿酒、化工、纺织、造纸、医药等众多热用户企业供应"
+    },
+    {
+      "name": "化工行业",
+      "source_product": "蒸汽",
+      "quote": "生产的蒸汽向工业园区内的食品、酿酒、化工、纺织、造纸、医药等众多热用户企业供应"
+    },
+    {
+      "name": "纺织行业",
+      "source_product": "蒸汽",
+      "quote": "生产的蒸汽向工业园区内的食品、酿酒、化工、纺织、造纸、医药等众多热用户企业供应"
+    },
+    {
+      "name": "造纸行业",
+      "source_product": "蒸汽",
+      "quote": "生产的蒸汽向工业园区内的食品、酿酒、化工、纺织、造纸、医药等众多热用户企业供应"
+    },
+    {
+      "name": "医药行业",
+      "source_product": "蒸汽",
+      "quote": "生产的蒸汽向工业园区内的食品、酿酒、化工、纺织、造纸、医药等众多热用户企业供应"
+    },
+    {
+      "name": "电力销售（国家电网）",
+      "source_product": "电力",
+      "quote": "电力直接出售给国家电网。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张春龙",
+      "role": "董事长、总经理",
+      "quote": "公司负责人张春龙、主管会计工作负责人刘宜峰及会计机构负责人（会计主管人员）刘宜峰声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "刘宜峰",
+      "role": "副总经理、董事会秘书、财务负责人",
+      "quote": "董事会秘书 姓名 刘宜峰 联系地址 北京市西城区白广路四号院钢设总院六层A区"
+    },
+    {
+      "name": "刘木良",
+      "role": "副总经理",
+      "quote": "刘木良 男 47 副总经理"
+    },
+    {
+      "name": "于瑞怀",
+      "role": "董事",
+      "quote": "于瑞怀 男 55 董事"
+    },
+    {
+      "name": "杜建华",
+      "role": "董事",
+      "quote": "杜建华 男 49 董事"
+    },
+    {
+      "name": "张立娟",
+      "role": "独立董事",
+      "quote": "张立娟 女 42 独立董事"
+    },
+    {
+      "name": "郝国敏",
+      "role": "独立董事",
+      "quote": "郝国敏 男 53 独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "南昌百通环保科技有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 南昌百通环保科技有限公司"
+    },
+    {
+      "name": "北京百通衡宇科技有限公司",
+      "relation_type": "investor",
+      "business_details": "发起人股东",
+      "quote": "北京衡宇 指 公司发起人股东北京百通衡宇科技有限公司"
+    },
+    {
+      "name": "国家电网有限公司及其关联机构",
+      "relation_type": "customer",
+      "business_details": "电力购买方",
+      "quote": "电力直接出售给国家电网。"
+    },
+    {
+      "name": "洋河股份（证券代码：002304）及其子公司双沟酒业",
+      "relation_type": "customer",
+      "business_details": "重要客户",
+      "quote": "公司的客户群体中不乏大型知名企业。其中，洋河股份（证券代码：002304）及其子公司双沟酒业为公司重要客户"
+    },
+    {
+      "name": "江苏新海石化有限公司",
+      "relation_type": "customer",
+      "business_details": "大型石油化工企业客户",
+      "quote": "江苏新海石化有限公司为江苏省大型石油化工企业"
+    },
+    {
+      "name": "江苏好彩头食品有限公司",
+      "relation_type": "customer",
+      "business_details": "知名食品饮料制造商客户",
+      "quote": "江苏好彩头食品有限公司、欢乐家（证券代码：300997）的全资子公司山东欢乐家食品有限公司均为国内知名食品饮料制造商"
+    },
+    {
+      "name": "山东欢乐家食品有限公司",
+      "relation_type": "customer",
+      "business_details": "知名食品饮料制造商客户",
+      "quote": "江苏好彩头食品有限公司、欢乐家（证券代码：300997）的全资子公司山东欢乐家食品有限公司均为国内知名食品饮料制造商"
+    },
+    {
+      "name": "中伟股份(证券代码：300919）",
+      "relation_type": "customer",
+      "business_details": "锂电池新能源材料综合服务商客户",
+      "quote": "中伟股份(证券代码：300919）为专业的锂电池新能源材料综合服务商"
+    },
+    {
+      "name": "华泰联合证券有限责任公司",
+      "relation_type": "other",
+      "business_details": "保荐机构",
+      "quote": "华泰联合证券、保荐机构 指 华泰联合证券有限责任公司"
+    },
+    {
+      "name": "大华会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "审计机构",
+      "quote": "会计师事务所名称 大华会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "热力生产和供应",
+      "segment_type": "product_line",
+      "revenue_amount": "342,857,830.52",
+      "revenue_proportion": "32.08%",
+      "gross_margin": "17.77%",
+      "yoy_change": null,
+      "quote": "热力生产和供应 342,857,830.52 32.08% 337,718,850.57 29.82% 1.52%"
+    },
+    {
+      "name": "热电联产",
+      "segment_type": "product_line",
+      "revenue_amount": "720,722,506.46",
+      "revenue_proportion": "67.43%",
+      "gross_margin": "40.43%",
+      "yoy_change": null,
+      "quote": "热电联产 720,722,506.46 67.43% 789,688,660.39 69.73% -8.73%"
+    },
+    {
+      "name": "江苏省",
+      "segment_type": "region",
+      "revenue_amount": "570,396,575.48",
+      "revenue_proportion": "53.37%",
+      "gross_margin": "37.59%",
+      "yoy_change": null,
+      "quote": "江苏省 570,396,575.48 53.37% 626,745,892.93 55.34% -8.99%"
+    },
+    {
+      "name": "山东省",
+      "segment_type": "region",
+      "revenue_amount": "281,665,686.62",
+      "revenue_proportion": "26.35%",
+      "gross_margin": "36.40%",
+      "yoy_change": null,
+      "quote": "山东省 281,665,686.62 26.35% 308,215,724.36 27.22% -8.61%"
+    },
+    {
+      "name": "江西省",
+      "segment_type": "region",
+      "revenue_amount": "95,799,662.32",
+      "revenue_proportion": "8.97%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "江西省 95,799,662.32 8.97% 105,832,492.01 9.35% -9.48%"
+    },
+    {
+      "name": "贵州省",
+      "segment_type": "region",
+      "revenue_amount": "102,731,270.86",
+      "revenue_proportion": "9.61%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "贵州省 102,731,270.86 9.61% 76,010,847.85 6.71% 35.15%"
+    },
+    {
+      "name": "湖北省",
+      "segment_type": "region",
+      "revenue_amount": "18,174,619.39",
+      "revenue_proportion": "1.70%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "湖北省 18,174,619.39 1.70% 15,680,747.02 1.38% 15.90%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "热力",
+      "metric_type": "sales_volume",
+      "value": "394.88万吨",
+      "period": "2025年",
+      "quote": "热力 销售量 万吨 394.88 394.03 0.22%"
+    },
+    {
+      "product": "热力",
+      "metric_type": "production_volume",
+      "value": "459.12万吨",
+      "period": "2025年",
+      "quote": "热力 生产量 万吨 459.12 466.39 -1.56%"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "30,216.37万千瓦时",
+      "period": "2025年",
+      "quote": "电力 销售量 万千瓦时 30,216.37 29,777.74 1.47%"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "38,364.51万千瓦时",
+      "period": "2025年",
+      "quote": "电力 生产量 万千瓦时 38,364.51 38,080.20 0.75%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "泗阳百通热电联产二期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "泗阳百通热电联产二期项目 是 50,958,311.49 219,902,966.61 100.00%"
+    },
+    {
+      "name": "连云港百通热电联产项目1#机组及配套工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "17.00%",
+      "expected_completion_time": null,
+      "quote": "连云港百通热电联产项目1#机组及配套工程 是 8,623.00 28,370,598.34 金/募 17.00%"
+    },
+    {
+      "name": "曹县百通热电联产3#炉",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "曹县百通热电联产3#炉 是 61,047,464.71 61,047,464.71 金/募 100.00%"
+    },
+    {
+      "name": "曹县百通热电联产二期项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10,914.77万元（调整后）",
+      "designed_capacity": null,
+      "progress": "94.27%",
+      "expected_completion_time": "2025年12月31日",
+      "quote": "曹县百通热电联产二期项目 是 5,500 10,914.77 4,789.18 10,289.50 94.27% 12月31日"
+    },
+    {
+      "name": "连云港百通热电联产项目（募集资金用途变更）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "原拟投入7,000万元，变更后剩余5,414.77万元转入曹县项目",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司将“连云港百通热电联产项目”尚未使用的募集资金5,367.72万元及募集资金专户中产生的存款利息47.05万元，共计5,414.77万元转入“曹县百通热电联产二期项目”。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "热电联产技术",
+      "asset_type": "process_technology",
+      "related_product": "蒸汽、电力",
+      "quantitative_info": null,
+      "quote": "热电联产项目为公司目前主要生产模式与发展方向。相较传统的集中供热锅炉房，热电联产项目能实现电能和热能同时生产，使能量得到梯级利用，减少能源损失，并采用较为先进的循环流化床锅炉，具有更高的热效率。"
+    },
+    {
+      "name": "循环流化床锅炉",
+      "asset_type": "process_technology",
+      "related_product": "蒸汽、电力",
+      "quantitative_info": null,
+      "quote": "热电联产项目能实现电能和热能同时生产，使能量得到梯级利用，减少能源损失，并采用较为先进的循环流化床锅炉，具有更高的热效率。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "450,008,417.86元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 450,008,417.86 前五名客户合计销售金额占年度销售总额比例 42.10%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "324,733,435.32元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 324,733,435.32 前五名供应商合计采购金额占年度采购总额比例 45.20%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "139,319,083.02元",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 139,319,083.02 13.04%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "84,801,372.94元",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 84,801,372.94 11.80%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济波动风险。公司主营业务为工业园区集中供热，下游客户的热力需求受宏观经济影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济波动风险。公司主营业务为工业园区集中供热，为下游工业客户提供热能服务，公司的收入来源主要是为客户提供的蒸汽产品销售收入，客户的用汽量、用汽稳定性是影响公司盈利能力的重要因素。当前我国经济处于经济结构调整、经济增长速度趋于平稳的态势。如果未来宏观经济波动加剧、宏观经济增速下降，下游客户的热力需求也存在减少或增速放缓的可能性。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "煤炭价格波动风险。公司主要燃料为煤炭，其价格波动对公司毛利率影响重大，且价格传导存在滞后和局限。",
+      "related_entity": null,
+      "related_product": "蒸汽、电力",
+      "quote": "2、煤炭价格波动风险。目前公司工业园区集中供热业务所使用的燃料主要为煤炭，煤炭价格的波动对公司主营业务毛利率的波动影响重大。煤炭市场价格受国家政策、宏观经济波动、国际形势、电力和钢铁等煤炭主要下游行业需求变化、煤炭产能增减等多种因素影响。尽管在供热业务的定价上，可推动实施煤热联动机制，上游煤炭价格波动可通过供热价格调整适当向下游传导，但限于部分项目公司的煤热联动机制并不明确细化，不能及时根据动力煤的实际价格波动进行调价，价格调整存在滞后性和局限性，同时供电价格主要为政府定价，公司自主定价的空间较小，无法完全消除煤炭价格大幅波动的影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环保风险。公司以煤炭为燃料，产生污染物，面临日益严格的环保标准和潜在的成本增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、环保风险。公司的蒸汽生产主要依靠以煤炭为主的化石能源在锅炉中燃烧获取热能与动能，将不可避免地产生烟气、灰渣、废水、噪音等污染物。公司自成立以来，一直高度重视环境保护和治理工作，严格按照国家及各项目公司所在地的环保法律法规，针对各类污染物进行有效处理，环保设施均按要求办理环保验收手续，各项环保排放指标均达标。公司的热电联产锅炉均已实现烟气的超低排放，全部供热锅炉均达到了环保部门的排放限值要求。但随着我国环保政策要求日益提高，国家和各地方政府可能会制定更严格的环保标准，届时公司将面临环保支出持续增加，从而增加公司的经营成本。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "安全生产风险。公司处于高温高压环境，存在因设备故障、维护不当等导致安全事故的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、安全生产风险。虽然公司始终将安全生产放在生产经营的首位，建立了完善的安全生产管理体系，并严格按照安全生产相关法律法规进行规范生产。但由于热力供应企业长期处于高温高压环境下，如果公司因锅炉、汽轮机、发电机、变压器、压力容器（管道）等设备故障、维护不当、自然灾害不可抗力等原因导致安全生产事故的发生，可能对公司的业务经营造成负面影响。"
+    }
+  ]
+}

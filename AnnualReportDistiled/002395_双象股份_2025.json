@@ -1,0 +1,595 @@
+{
+  "company_name_mentioned": "无锡双象超纤材料股份有限公司",
+  "produces": [
+    {
+      "name": "超细纤维超真皮革（超纤）",
+      "type": "material",
+      "revenue_proportion": "25.18%",
+      "quote": "分产品 超纤 648,468,228.74 25.18%"
+    },
+    {
+      "name": "聚氨酯合成革（PU）",
+      "type": "material",
+      "revenue_proportion": "1.02%",
+      "quote": "分产品 PU 26,156,248.15 1.02%"
+    },
+    {
+      "name": "聚甲基丙烯酸甲酯树脂（PMMA）",
+      "type": "material",
+      "revenue_proportion": "57.78%",
+      "quote": "分产品 PMMA 1,487,791,683.20 57.78%"
+    },
+    {
+      "name": "苯乙烯-甲基丙烯酸甲酯共聚物（MS）",
+      "type": "material",
+      "revenue_proportion": "4.75%",
+      "quote": "分产品 MS 122,251,843.24 4.75%"
+    },
+    {
+      "name": "PMMA板材",
+      "type": "component",
+      "revenue_proportion": "4.21%",
+      "quote": "分产品 PMMA板材 108,504,108.43 4.21%"
+    },
+    {
+      "name": "MS板材",
+      "type": "component",
+      "revenue_proportion": "3.55%",
+      "quote": "分产品 MS板材 91,541,868.80 3.55%"
+    },
+    {
+      "name": "危废处置服务",
+      "type": "service",
+      "revenue_proportion": "1.36%",
+      "quote": "分产品 危废业务 35,097,992.33 1.36%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原料A",
+      "target_product": null,
+      "cost_proportion": "60.77%",
+      "quote": "主要原材料 原料A（吨） 自主采购 60.77%"
+    },
+    {
+      "name": "原料B",
+      "target_product": null,
+      "cost_proportion": "4.45%",
+      "quote": "主要原材料 原料B（吨） 自主采购 4.45%"
+    },
+    {
+      "name": "原料C",
+      "target_product": null,
+      "cost_proportion": "4.31%",
+      "quote": "主要原材料 原料C（吨） 自主采购 4.31%"
+    },
+    {
+      "name": "原料D",
+      "target_product": null,
+      "cost_proportion": "3.76%",
+      "quote": "主要原材料 原料D（吨） 自主采购 3.76%"
+    },
+    {
+      "name": "原料E",
+      "target_product": null,
+      "cost_proportion": "2.43%",
+      "quote": "主要原材料 原料E（吨） 自主采购 2.43%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "鞋类",
+      "source_product": "超纤革，PU",
+      "quote": "下游行业主要为鞋类、服装、箱包、汽车内饰、沙发家具、球类、装饰等消费品行业。"
+    },
+    {
+      "name": "服装",
+      "source_product": "超纤革，PU",
+      "quote": "下游行业主要为鞋类、服装、箱包、汽车内饰、沙发家具、球类、装饰等消费品行业。"
+    },
+    {
+      "name": "箱包",
+      "source_product": "超纤革，PU",
+      "quote": "下游行业主要为鞋类、服装、箱包、汽车内饰、沙发家具、球类、装饰等消费品行业。"
+    },
+    {
+      "name": "汽车内饰",
+      "source_product": "超纤革，PU",
+      "quote": "下游行业主要为鞋类、服装、箱包、汽车内饰、沙发家具、球类、装饰等消费品行业。"
+    },
+    {
+      "name": "沙发家具",
+      "source_product": "超纤革，PU",
+      "quote": "下游行业主要为鞋类、服装、箱包、汽车内饰、沙发家具、球类、装饰等消费品行业。"
+    },
+    {
+      "name": "球类",
+      "source_product": "超纤革，PU",
+      "quote": "下游行业主要为鞋类、服装、箱包、汽车内饰、沙发家具、球类、装饰等消费品行业。"
+    },
+    {
+      "name": "装饰",
+      "source_product": "超纤革，PU",
+      "quote": "下游行业主要为鞋类、服装、箱包、汽车内饰、沙发家具、球类、装饰等消费品行业。"
+    },
+    {
+      "name": "液晶显示屏",
+      "source_product": "PMMA，MS",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃...等领域"
+    },
+    {
+      "name": "LED照明",
+      "source_product": "PMMA，MS",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃...等领域"
+    },
+    {
+      "name": "汽车尾灯、仪表盘",
+      "source_product": "PMMA，MS",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃...等领域"
+    },
+    {
+      "name": "光学玻璃",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃...等领域"
+    },
+    {
+      "name": "防辐射PMMA",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA...等领域"
+    },
+    {
+      "name": "光学纤维",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维...等领域"
+    },
+    {
+      "name": "太阳能光伏电池",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池...等领域"
+    },
+    {
+      "name": "防弹玻璃",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃...等领域"
+    },
+    {
+      "name": "飞机座舱玻璃",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃、飞机座舱玻璃...等领域"
+    },
+    {
+      "name": "医用高分子材料",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃、飞机座舱玻璃、医用高分子材料...等领域"
+    },
+    {
+      "name": "军用光学设备",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃、飞机座舱玻璃、医用高分子材料、军用光学设备...等领域"
+    },
+    {
+      "name": "高铁车窗",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃、飞机座舱玻璃、医用高分子材料、军用光学设备、高铁车窗...等领域"
+    },
+    {
+      "name": "警用盾牌",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃、飞机座舱玻璃、医用高分子材料、军用光学设备、高铁车窗、警用盾牌...等领域"
+    },
+    {
+      "name": "高端潜水镜",
+      "source_product": "PMMA",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃、飞机座舱玻璃、医用高分子材料、军用光学设备、高铁车窗、警用盾牌、高端潜水镜...等领域"
+    },
+    {
+      "name": "高档容器包装",
+      "source_product": "PMMA，MS",
+      "quote": "广泛应用于液晶显示屏、LED照明、汽车尾灯、仪表盘、光学玻璃、防辐射PMMA、光学纤维、太阳能光伏电池、防弹玻璃、飞机座舱玻璃、医用高分子材料、军用光学设备、高铁车窗、警用盾牌、高端潜水镜、高档容器包装等领域。"
+    },
+    {
+      "name": "导光板",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    },
+    {
+      "name": "汽车内外饰件",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    },
+    {
+      "name": "仪表盘",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    },
+    {
+      "name": "医用器械",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    },
+    {
+      "name": "消费电子外壳",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    },
+    {
+      "name": "家用电器控制面板",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    },
+    {
+      "name": "广告",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    },
+    {
+      "name": "建筑",
+      "source_product": "MS",
+      "quote": "广泛应用于液晶显示屏、LED 照明、导光板、汽车内外饰件、仪表盘、医用器械、消费电子外壳、家用电器控制面板、广告、建筑、高档容器包装及其他工业应用等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘连伟",
+      "role": "董事、总经理",
+      "quote": "公司负责人刘连伟、主管会计工作负责人金梅及会计机构负责人（会计主管人员）华晓萍声明"
+    },
+    {
+      "name": "金梅",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人刘连伟、主管会计工作负责人金梅及会计机构负责人（会计主管人员）华晓萍声明"
+    },
+    {
+      "name": "华晓萍",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人刘连伟、主管会计工作负责人金梅及会计机构负责人（会计主管人员）华晓萍声明"
+    },
+    {
+      "name": "顾希红",
+      "role": "董事长",
+      "quote": "顾希红 男 51 现任 董事长"
+    },
+    {
+      "name": "桑平",
+      "role": "董事会秘书",
+      "quote": "桑 平 男 36 董秘 现任"
+    },
+    {
+      "name": "唐炳泉",
+      "role": "实际控制人",
+      "quote": "实际控制人唐炳泉，实际控制人性质：境内自然人，实际控制人类型：自然人"
+    },
+    {
+      "name": "罗红兵",
+      "role": "副总经理",
+      "quote": "罗红兵 男 49 副总经理 现任"
+    },
+    {
+      "name": "沈铭",
+      "role": "副总经理",
+      "quote": "沈 铭 男 52 副总经理 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "江苏双象集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持有公司64.52%股份。其部分控股子公司为公司供应商，采购关联原材料MMA等。",
+      "quote": "控股股东、双象集团 指 江苏双象集团有限公司"
+    },
+    {
+      "name": "苏州双象光学材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营PMMA的制造、加工和销售。",
+      "quote": "全资子公司、苏州光学 指 苏州双象光学材料有限公司"
+    },
+    {
+      "name": "无锡双象光电材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，新增PMMA板材和MS板材的生产和销售。",
+      "quote": "全资子公司、无锡光电 指 无锡双象光电材料有限公司"
+    },
+    {
+      "name": "重庆双象超纤材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营超纤、聚氨酯树脂的生产销售及危废处置业务。",
+      "quote": "全资子公司、重庆超纤 指 重庆双象超纤材料有限公司"
+    },
+    {
+      "name": "重庆双象光学材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营PMMA/MS的制造、加工和销售。",
+      "quote": "全资子公司、重庆光学 指 重庆双象光学材料有限公司"
+    },
+    {
+      "name": "重庆奕翔化工有限公司",
+      "relation_type": "supplier",
+      "business_details": "为控股股东江苏双象集团有限公司全资子公司，向公司稳定供应主要原材料MMA。",
+      "quote": "公司控股股东双象集团从本公司及整个集团长远发展战略考虑...在重庆市长寿经济技术开发区全资设立了重庆奕翔化工有限公司建设MMA项目，并于2019年下半年建成投产，向公司稳定供应MMA原材料。"
+    },
+    {
+      "name": "重庆双象电子材料有限公司",
+      "relation_type": "supplier",
+      "business_details": "为控股股东江苏双象集团有限公司全资子公司，向公司供应蒸汽等。",
+      "quote": "前五大供应商中江苏双象集团有限公司部分控股子公司包含重庆奕翔化工有限公司、重庆双象电子材料有限公司、无锡双象橡塑机械有限公司，江苏双象集团有限公司为公司控股股东，故上述供应商与公司存在关联关系"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "人造革合成革行业",
+      "segment_type": "product_line",
+      "revenue_amount": "725,347,371.10",
+      "revenue_proportion": "28.17%",
+      "gross_margin": "16.38%",
+      "yoy_change": "2.99%",
+      "quote": "分行业 人造革合成革行业 725,347,371.10 28.17% ... 16.38% ... 2.99%"
+    },
+    {
+      "name": "PMMA行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,814,779,146.25",
+      "revenue_proportion": "70.47%",
+      "gross_margin": "14.13%",
+      "yoy_change": "16.19%",
+      "quote": "分行业 PMMA行业 1,814,779,146.25 70.47% ... 14.13% ... 16.19%"
+    },
+    {
+      "name": "危废业务",
+      "segment_type": "product_line",
+      "revenue_amount": "35,097,992.33",
+      "revenue_proportion": "1.36%",
+      "gross_margin": "17.46%",
+      "yoy_change": "49.33%",
+      "quote": "分行业 危废业务 35,097,992.33 1.36% ... 17.46% ... 49.33%"
+    },
+    {
+      "name": "出口销售",
+      "segment_type": "region",
+      "revenue_amount": "290,408,162.52",
+      "revenue_proportion": "11.27%",
+      "gross_margin": "10.45%",
+      "yoy_change": "38.47%",
+      "quote": "分地区 出口销售 290,408,162.52 11.27% ... 10.45% ... 38.47%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,336,301,233.75",
+      "revenue_proportion": "51.89%",
+      "gross_margin": "16.25%",
+      "yoy_change": "4.79%",
+      "quote": "分地区 华东地区 1,336,301,233.75 51.89% ... 16.25% ... 4.79%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "813,656,422.43",
+      "revenue_proportion": "31.59%",
+      "gross_margin": "13.85%",
+      "yoy_change": "17.75%",
+      "quote": "分地区 华南地区 813,656,422.43 31.59% ... 13.85% ... 17.75%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "超纤",
+      "metric_type": "capacity",
+      "value": "2600万米/年",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 ... 超纤 2600万米/年"
+    },
+    {
+      "product": "超纤",
+      "metric_type": "capacity_utilization",
+      "value": "85.38%",
+      "period": "报告期",
+      "quote": "主要产品 ... 产能利用率 ... 超纤 ... 85.38%"
+    },
+    {
+      "product": "PMMA",
+      "metric_type": "capacity",
+      "value": "23万吨/年",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 ... PMMA 23万吨/年"
+    },
+    {
+      "product": "PMMA",
+      "metric_type": "capacity_utilization",
+      "value": "58.34%",
+      "period": "报告期",
+      "quote": "主要产品 ... 产能利用率 ... PMMA ... 58.34%"
+    },
+    {
+      "product": "MS",
+      "metric_type": "capacity",
+      "value": "7.5万吨/年",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 ... MS 7.5万吨/年"
+    },
+    {
+      "product": "MS",
+      "metric_type": "capacity_utilization",
+      "value": "22.73%",
+      "period": "报告期",
+      "quote": "主要产品 ... 产能利用率 ... MS ... 22.73%"
+    },
+    {
+      "product": "PMMA/MS板材",
+      "metric_type": "capacity",
+      "value": "2.5万吨/年",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 ... PMMA/MS板材 2.5万吨/年"
+    },
+    {
+      "product": "PMMA/MS板材",
+      "metric_type": "capacity_utilization",
+      "value": "57.57%",
+      "period": "报告期",
+      "quote": "主要产品 ... 产能利用率 ... PMMA/MS板材 ... 57.57%"
+    },
+    {
+      "product": "超纤",
+      "metric_type": "production_volume",
+      "value": "29,604,087.14米",
+      "period": "2025年",
+      "quote": "超纤 生产量 元 29,604,087.14"
+    },
+    {
+      "product": "超纤",
+      "metric_type": "sales_volume",
+      "value": "28,398,817.23米",
+      "period": "2025年",
+      "quote": "超纤 销售量 元 28,398,817.23"
+    },
+    {
+      "product": "PMMA",
+      "metric_type": "production_volume",
+      "value": "134,172,272.70千克",
+      "period": "2025年",
+      "quote": "PMMA 产量 134,172,272.70 千克"
+    },
+    {
+      "product": "PMMA",
+      "metric_type": "sales_volume",
+      "value": "128,441,975.00千克",
+      "period": "2025年",
+      "quote": "PMMA 销量 128,441,975.00 千克"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "MS在建产能",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "7.5万吨/年",
+      "progress": "在建产能正陆续投产",
+      "expected_completion_time": null,
+      "quote": "主要产品 设计产能 ... MS 7.5万吨/年 22.73% 7.5万吨/年 在建产能正陆续投产"
+    },
+    {
+      "name": "重庆光学PMMA/MS新材料项目",
+      "project_type": "capacity_expansion",
+      "location": "重庆市长寿经济技术开发区",
+      "investment_amount": null,
+      "designed_capacity": "30万吨/年",
+      "progress": "加快达产步伐",
+      "expected_completion_time": null,
+      "quote": "加快年产30万吨光学级PMMA/MS新材料项目达产步伐，巩固公司在国内光学级PMMA/MS材料行业的龙头型企业地位"
+    },
+    {
+      "name": "重庆超纤二期项目",
+      "project_type": "capacity_expansion",
+      "location": "重庆市长寿经济技术开发区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快产能释放",
+      "expected_completion_time": null,
+      "quote": "同时，通过加大研发投入...进一步巩固公司在人造革合成革行业的技术领先地位...通过加快二期项目产能释放。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超细纤维超真皮革关键技术研究",
+      "asset_type": "core_technology",
+      "related_product": "超纤",
+      "quantitative_info": "国家863计划项目",
+      "quote": "公司具有业内领先的自主创新能力和研发实力，是行业内唯一承担并完成“国家863计划项目”--超细纤维超真皮革关键技术研究的企业"
+    },
+    {
+      "name": "光学级PMMA连续本体聚合工艺技术",
+      "asset_type": "process_technology",
+      "related_product": "PMMA，MS",
+      "quantitative_info": "少数几家生产企业掌握此技术，技术门槛较高",
+      "quote": "公司目前光学级PMMA/MS材料采用连续本体聚合工艺技术。该工艺技术对设备、工艺要求苛刻，存在传质、传热和聚合转化率控制等技术难点，目前，只有德国、美国、日本及中国等少数几家生产企业掌握此技术，技术门槛较高。"
+    },
+    {
+      "name": "专利技术（超纤相关）",
+      "asset_type": "patent",
+      "related_product": "超纤",
+      "quantitative_info": "多项专利",
+      "quote": "获得数十项国家发明专利，并承担、参与了30项国家标准、行业标准的起草和修订工作"
+    },
+    {
+      "name": "专利技术（PMMA相关）",
+      "asset_type": "patent",
+      "related_product": "PMMA",
+      "quantitative_info": "三十余项专利",
+      "quote": "公司为江苏省高新技术企业，已获授权发明专利和实用新型专利三十余项。"
+    },
+    {
+      "name": "ISO9001、IATF16949:2016质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后通过了ISO9001、IATF16949:2016质量管理体系认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "15.22%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 15.22%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "73.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 73.46%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "63.67%",
+      "related_entity": "江苏双象集团有限公司部分控股子公司",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 63.67%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司存在汇率波动风险、主要原材料价格波动的风险、管理风险，敬请广大投资者注意投资风险。"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "供应商集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司存在汇率波动风险、主要原材料价格波动的风险、管理风险，敬请广大投资者注意投资风险。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口销售主要以美元作为结算货币，随着公司出口业务量的不断增加，公司可能因汇率的波动增加汇率风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）汇率波动风险 公司出口销售主要以美元作为结算货币，随着公司出口业务量的不断增加，公司可能因汇率的波动增加汇率风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料价格波动会影响公司的生产成本，进而增加公司的经营风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）主要原材料价格波动的风险 主要原材料价格波动会影响公司的生产成本，进而增加公司的经营风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司面临国内外先进制造厂商的竞争。",
+      "related_entity": null,
+      "related_product": "PMMA",
+      "quote": "公司全资子公司苏州光学、重庆光学主要定位于研发生产经营高端的高性能光学级PMMA材料，主要竞争对手是国外先进制造厂商"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "人造革合成革及光学材料行业存在技术更新和产品迭代风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心竞争力分析 部分提及技术优势，隐含技术迭代风险。"
+    }
+  ]
+}

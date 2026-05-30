@@ -1,0 +1,606 @@
+{
+  "company_name_mentioned": "岳阳兴长石化股份有限公司",
+  "produces": [
+    {
+      "name": "丙烯、液化石油气",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品丙烯、液化石油气"
+    },
+    {
+      "name": "MTBE",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "MTBE 13.5万吨/年"
+    },
+    {
+      "name": "工业异辛烷",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "工业异辛烷 20万吨/年"
+    },
+    {
+      "name": "车用汽油",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "车用汽油 50万吨/年"
+    },
+    {
+      "name": "特种聚烯烃",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "特种聚烯烃 30万吨/年"
+    },
+    {
+      "name": "邻甲酚",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "邻甲酚 1.5万吨/年"
+    },
+    {
+      "name": "2，6-二甲酚",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "2，6-二甲酚 4000吨/年"
+    },
+    {
+      "name": "间对甲酚",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "间对甲酚 7000吨/年"
+    },
+    {
+      "name": "煅烧焦",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "煅烧焦 20万吨/年"
+    },
+    {
+      "name": "3.5MPa蒸汽",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "3.5MPa蒸汽 22万吨/年"
+    },
+    {
+      "name": "MOFs材料",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "MOFs材料规模化生产及成型应用项目"
+    },
+    {
+      "name": "钢铁烧结尾气一氧化碳转化催化剂",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "钢铁烧结尾气一氧化碳转化催化剂"
+    },
+    {
+      "name": "VOCs治理催化剂",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司已为中石化、中石油、中海油、宝武、中国五矿等大型央企和行业龙头企业提供高品质催化剂、吸附剂产品及一体化工程技术服务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "液态烃",
+      "target_product": "丙烯、液化石油气",
+      "cost_proportion": "29.16%",
+      "quote": "主要原材料 采购模式 上半年平均价格 下半年平均价格 采购额占采购总额的比例 液态烃 关联交易价格采购 29.16% 否"
+    },
+    {
+      "name": "醚前碳四",
+      "target_product": null,
+      "cost_proportion": "3.34%",
+      "quote": "醚前碳四 关联交易价格采购 3.34% 否"
+    },
+    {
+      "name": "醚后碳四",
+      "target_product": null,
+      "cost_proportion": "5.99%",
+      "quote": "醚后碳四 关联交易价格采购 5.99% 否"
+    },
+    {
+      "name": "丙烯",
+      "target_product": null,
+      "cost_proportion": "15.73%",
+      "quote": "丙烯 市场询价采购 15.73% 否"
+    },
+    {
+      "name": "石油焦",
+      "target_product": "煅烧焦",
+      "cost_proportion": "23.14%",
+      "quote": "石油焦 市场询价采购 23.14% 否"
+    },
+    {
+      "name": "甲醇",
+      "target_product": null,
+      "cost_proportion": "2.20%",
+      "quote": "甲醇 市场询价采购 2.20% 否"
+    },
+    {
+      "name": "苯酚",
+      "target_product": null,
+      "cost_proportion": "2.73%",
+      "quote": "苯酚 市场询价采购 2.73% 否"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽油燃料",
+      "source_product": "车用汽油",
+      "quote": "车用汽油"
+    },
+    {
+      "name": "包装、管材、纤维、注塑、改性",
+      "source_product": "特种聚烯烃",
+      "quote": "高端聚烯烃 指 产品性能优于普通聚烯烃，可应用于包装、管材、纤维、注塑、改性等多个领域的聚烯烃材料"
+    },
+    {
+      "name": "无纺布和纺丝、注塑、膜材料",
+      "source_product": "茂金属聚丙烯、mPP",
+      "quote": "茂金属聚丙烯、mPP 指 通过茂金属催化剂制备的聚丙烯，高端聚丙烯的一种，广泛应用于无纺布和纺丝、注塑、膜材料等领域"
+    },
+    {
+      "name": "集成电路、电子元器件封装",
+      "source_product": "邻甲酚醛环氧合成树脂、ECON",
+      "quote": "邻甲酚醛环氧合成树脂、ECON 指 …广泛作为集成电路、电子元器件，以及民用弱电制品等封装材料的主粘接材料"
+    },
+    {
+      "name": "负极材料原料",
+      "source_product": "煅烧焦",
+      "quote": "由于高品质煅烧焦具备高能量密度的性能优势，契合长续航动力电池的产业发展需求，其在负极材料原料中的占比持续提升。"
+    },
+    {
+      "name": "VOCs治理",
+      "source_product": "VOCs治理催化剂",
+      "quote": "在VOCs治理领域，公司开发了适用的VOCs治理催化剂、吸附剂和多技术耦合工艺，处于国内前列。"
+    },
+    {
+      "name": "钢铁烧结尾气治理",
+      "source_product": "钢铁烧结尾气一氧化碳转化催化剂",
+      "quote": "钢铁烧结尾气一氧化碳转化催化剂在东华钢铁、晋城钢铁成功应用"
+    },
+    {
+      "name": "空气除湿、CO₂捕集",
+      "source_product": "MOFs材料",
+      "quote": "MOFs材料凭借超高比表面积、精准吸附、长循环寿命等优势，在VOCs治理中效率较活性炭提升50%以上，在CO₂捕集中吸附容量较传统分子筛提升35%"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王妙云",
+      "role": "董事长",
+      "quote": "公司负责人王妙云…2017年4月至今，任公司董事；2018年3月至今，任公司董事长。"
+    },
+    {
+      "name": "付锋",
+      "role": "董事、总经理",
+      "quote": "2019年3月14日至2020年5月8日，任公司党委书记、副总经理；2020年5月8日至2022年8月23日，任公司总经理、党委书记、财务负责人；2022年8月23日至2025年1月9日，任公司总经理、党委书记；2025年1月9日至今，任公司经理。"
+    },
+    {
+      "name": "邹海波",
+      "role": "董事、副总经理、董事会秘书、党委书记",
+      "quote": "2020年10月至2025年1月，任公司副总经理、董事会秘书；2025年1月至今，任公司党委书记、副经理、董事会秘书。"
+    },
+    {
+      "name": "李湘波",
+      "role": "副总经理、财务负责人",
+      "quote": "2019年3月至今，任公司副总经理；2022年8月至今，任公司主管会计工作负责人。"
+    },
+    {
+      "name": "霍国良",
+      "role": "副总经理",
+      "quote": "2019年3月至今，任公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国石化集团资产经营管理有限公司",
+      "relation_type": "investor",
+      "business_details": "公司第一大股东",
+      "quote": "中石化资产公司 指 中国石化集团资产经营管理有限公司(公司第一大股东)"
+    },
+    {
+      "name": "中国石油化工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "公司第一大股东母公司",
+      "quote": "中国石化集团 指 中国石油化工集团有限公司(公司第一大股东母公司)"
+    },
+    {
+      "name": "中国石化化工销售有限公司华中分公司",
+      "relation_type": "customer",
+      "business_details": "向其销售商品",
+      "quote": "华中化销分公司 指 中国石化化工销售有限公司华中分公司(公司第一大股东关联公司)"
+    },
+    {
+      "name": "中国石化化工销售有限公司华南分公司",
+      "relation_type": "customer",
+      "business_details": "向其采购原材料",
+      "quote": "华南化销分公司 指 中国石化化工销售有限公司华南分公司(公司第一大股东关联公司)"
+    },
+    {
+      "name": "中国石化炼油销售有限公司",
+      "relation_type": "supplier",
+      "business_details": "向其采购原材料",
+      "quote": "中石化炼销公司 指 中国石化炼油销售有限公司(公司第一大股东关联公司)"
+    },
+    {
+      "name": "湖南银行股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司投资联营企业",
+      "quote": "湖南银行 指 湖南银行股份有限公司"
+    },
+    {
+      "name": "中信建投证券股份有限公司",
+      "relation_type": "customer",
+      "business_details": "保荐机构",
+      "quote": "保荐机构名称：中信建投证券股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "石油化工行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,682,735,704.51",
+      "revenue_proportion": "99.27%",
+      "gross_margin": "14.77%",
+      "yoy_change": "-2.84%",
+      "quote": "石油化工行业 3,682,735,704.51 99.27%"
+    },
+    {
+      "name": "能源化工",
+      "segment_type": "product_line",
+      "revenue_amount": "1,870,076,626.47",
+      "revenue_proportion": "50.41%",
+      "gross_margin": "18.74%",
+      "yoy_change": "-29.90%",
+      "quote": "能源化工 1,870,076,626.47 50.41%"
+    },
+    {
+      "name": "化工新材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,351,671,082.90",
+      "revenue_proportion": "36.43%",
+      "gross_margin": "5.08%",
+      "yoy_change": "70.49%",
+      "quote": "化工新材料 1,351,671,082.90 36.43%"
+    },
+    {
+      "name": "成品油",
+      "segment_type": "product_line",
+      "revenue_amount": "460,987,995.14",
+      "revenue_proportion": "12.43%",
+      "gross_margin": "27.04%",
+      "yoy_change": "39.62%",
+      "quote": "成品油 460,987,995.14 12.43%"
+    },
+    {
+      "name": "湖南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,494,244,593.74",
+      "revenue_proportion": "40.28%",
+      "gross_margin": "14.20%",
+      "yoy_change": "1.91%",
+      "quote": "湖南地区 1,494,244,593.74 40.28%"
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "2,215,730,482.84",
+      "revenue_proportion": "59.72%",
+      "gross_margin": "15.26%",
+      "yoy_change": "-5.97%",
+      "quote": "其他地区 2,215,730,482.84 59.72%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,709,975,076.58",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "14.84%",
+      "yoy_change": "-2.95%",
+      "quote": "直销 3,709,975,076.58 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "丙烯、液化石油气",
+      "metric_type": "capacity",
+      "value": "28.7万吨/年",
+      "period": "报告期",
+      "quote": "丙烯、液化石油气 28.7万吨/年"
+    },
+    {
+      "product": "丙烯、液化石油气",
+      "metric_type": "capacity_utilization",
+      "value": "74.76%",
+      "period": "报告期",
+      "quote": "产能利用率 74.76%"
+    },
+    {
+      "product": "MTBE",
+      "metric_type": "capacity",
+      "value": "13.5万吨/年",
+      "period": "报告期",
+      "quote": "MTBE 13.5万吨/年"
+    },
+    {
+      "product": "MTBE",
+      "metric_type": "capacity_utilization",
+      "value": "43.17%",
+      "period": "报告期",
+      "quote": "产能利用率 43.17%"
+    },
+    {
+      "product": "工业异辛烷",
+      "metric_type": "capacity",
+      "value": "20万吨/年",
+      "period": "报告期",
+      "quote": "工业异辛烷 20万吨/年"
+    },
+    {
+      "product": "工业异辛烷",
+      "metric_type": "capacity_utilization",
+      "value": "49.02%",
+      "period": "报告期",
+      "quote": "产能利用率 49.02%"
+    },
+    {
+      "product": "车用汽油",
+      "metric_type": "capacity",
+      "value": "50万吨/年",
+      "period": "报告期",
+      "quote": "车用汽油 50万吨/年"
+    },
+    {
+      "product": "车用汽油",
+      "metric_type": "capacity_utilization",
+      "value": "8.31%",
+      "period": "报告期",
+      "quote": "产能利用率 8.31%"
+    },
+    {
+      "product": "特种聚烯烃",
+      "metric_type": "capacity",
+      "value": "30万吨/年",
+      "period": "报告期",
+      "quote": "特种聚烯烃 30万吨/年"
+    },
+    {
+      "product": "特种聚烯烃",
+      "metric_type": "capacity_utilization",
+      "value": "28.14%",
+      "period": "报告期",
+      "quote": "产能利用率 28.14%"
+    },
+    {
+      "product": "邻甲酚",
+      "metric_type": "capacity",
+      "value": "1.5万吨/年",
+      "period": "报告期",
+      "quote": "邻甲酚 1.5万吨/年"
+    },
+    {
+      "product": "邻甲酚",
+      "metric_type": "capacity_utilization",
+      "value": "79.15%",
+      "period": "报告期",
+      "quote": "产能利用率 79.15%"
+    },
+    {
+      "product": "煅烧焦",
+      "metric_type": "capacity",
+      "value": "20万吨/年",
+      "period": "报告期",
+      "quote": "煅烧焦 20万吨/年"
+    },
+    {
+      "product": "煅烧焦",
+      "metric_type": "capacity_utilization",
+      "value": "70.22%",
+      "period": "报告期",
+      "quote": "产能利用率 70.22%"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "582,005.63吨",
+      "period": "2025年",
+      "quote": "化工产品 生产量 吨 582,005.63"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "509,950.70吨",
+      "period": "2025年",
+      "quote": "化工产品 销售量 吨 509,950.70"
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "13,162.30吨",
+      "period": "2025年末",
+      "quote": "化工产品 库存量 吨 13,162.30"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "惠州立拓30万吨/年聚烯烃新材料项目",
+      "project_type": "capacity_expansion",
+      "location": "惠州",
+      "investment_amount": null,
+      "designed_capacity": "30万吨/年",
+      "progress": "2024年初投入试生产，设备工艺调试工作持续开展。",
+      "expected_completion_time": null,
+      "quote": "惠州立拓30万吨/年聚烯烃新材料项目自2024年初投入试生产，设备工艺调试工作持续开展。"
+    },
+    {
+      "name": "MOFs材料规模化生产及成型应用项目",
+      "project_type": "capacity_expansion",
+      "location": "岳阳县高新技术产业开发区",
+      "investment_amount": "2.18亿元",
+      "designed_capacity": null,
+      "progress": "已完成土地出让合同签订及建筑方案图，预计2026年10月实现竣工投产。",
+      "expected_completion_time": "2026年10月",
+      "quote": "2025年12月，公司与岳阳县高新技术产业开发区正式签署MOFs材料规模化生产及成型应用项目合作协议，投资2.18亿元打造国内MOFs材料产业化基地"
+    },
+    {
+      "name": "间对甲酚项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "间对甲酚项目完成技改，实现了全工序贯通及产品生产销售。",
+      "expected_completion_time": null,
+      "quote": "2025年，公司间对甲酚项目完成技改，实现了全工序贯通及产品生产销售"
+    },
+    {
+      "name": "惠州二期10万吨/年气分装置",
+      "project_type": "capacity_expansion",
+      "location": "惠州",
+      "investment_amount": null,
+      "designed_capacity": "10万吨/年",
+      "progress": "试生产成功",
+      "expected_completion_time": null,
+      "quote": "新材料板块，惠州二期10万吨/年气分装置试生产成功"
+    },
+    {
+      "name": "1万吨/年聚丙烯蜡装置",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "1万吨/年",
+      "progress": "正在建设中",
+      "expected_completion_time": null,
+      "quote": "1万吨/年聚丙烯蜡正在建设中"
+    },
+    {
+      "name": "TMA、MAO产业化中试装置",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设完成，试生产一次成功，产品合格",
+      "expected_completion_time": null,
+      "quote": "湖南立弘TMA、MAO产业化中试装置建设完成，试生产一次成功，产品合格"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "茂金属聚烯烃全流程技术",
+      "asset_type": "core_technology",
+      "related_product": "茂金属聚丙烯、茂金属聚乙烯",
+      "quantitative_info": null,
+      "quote": "公司自主研发了茂金属化合物合成、茂金属催化剂制备、聚合工艺、产品改性和市场开发成套技术，为目前国内首家掌握茂金属聚烯烃全流程技术的企业。"
+    },
+    {
+      "name": "MOFs材料低成本生产工艺",
+      "asset_type": "core_technology",
+      "related_product": "MOFs材料",
+      "quantitative_info": null,
+      "quote": "拥有多种MOF材料自主知识产权低成本生产工艺，成功打通“实验室技术”到“产业化应用”关键路径"
+    },
+    {
+      "name": "三氟化硼改性硅胶及其制备方法和应用、负载型催化剂及制备方法和应用",
+      "asset_type": "patent",
+      "related_product": "特种聚烯烃",
+      "quantitative_info": null,
+      "quote": "《三氟化硼改性硅胶及其制备方法和应用、负载型催化剂及制备方法和应用》"
+    },
+    {
+      "name": "一种制备邻甲酚和2，6-二甲酚的方法",
+      "asset_type": "patent",
+      "related_product": "邻甲酚、2，6-二甲酚",
+      "quantitative_info": null,
+      "quote": "《一种制备邻甲酚和2，6-二甲酚的方法》"
+    },
+    {
+      "name": "ISCC PLUS Certificate",
+      "asset_type": "certification",
+      "related_product": "特种聚烯烃",
+      "quantitative_info": null,
+      "quote": "ISCC PLUS Certificate"
+    },
+    {
+      "name": "高新技术企业证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "GR202243002900",
+      "quote": "高新技术企业证书 GR202243002900"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "52.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 52.01%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "36.66%",
+      "related_entity": "第一大股东资产公司关联方",
+      "period": "2025年",
+      "quote": "第一大股东资产公司关联方 … 占年度销售总额比例 36.66%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "77.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 77.44%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "58.18%",
+      "related_entity": "第一大股东资产公司关联方",
+      "period": "2025年",
+      "quote": "第一大股东资产公司关联方 … 占年度采购总额比例 58.18%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格是盈利能力的“双刃剑”，原油价格及化工原料价格大幅震荡上行，推高公司原料采购成本，压缩盈利空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原油价格及化工原料价格大幅震荡上行，推高公司原料采购成本，压缩盈利空间"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "传统业务毛利率承压，化工新材料领域技术壁垒被突破后，大型石化企业和跨界资本涌入，可能挤压盈利空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "传统业务毛利率承压；高端赛道门槛虽高，但竞争者众"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "核心技术和工艺存在被快速模仿、技术迭代的风险，同时面临不同技术路线的竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心技术替代与扩散：保持领先的难度加大；技术迭代风险"
+    },
+    {
+      "risk_type": "project_investment",
+      "description": "项目投资方面，惠州立拓一期聚烯烃项目采用自主研发的全新技术，试验性生产动作较多，导致进度低于预期，高附加值产品产能有待释放。",
+      "related_entity": "惠州立拓",
+      "related_product": "聚烯烃新材料项目",
+      "quote": "惠州立拓一期聚烯烃项目采用自主研发的全新技术，试验性生产动作较多，导致进度低于预期，高附加值产品产能有待释放"
+    },
+    {
+      "risk_type": "other",
+      "description": "中东地缘冲突升级，导致原油、化工原料和产品价格剧烈波动，给公司生产经营带来不确定性影响急剧提升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "中东地缘冲突升级，导致原油、化工原料和产品、贵金属价格剧烈波动，给公司生产经营带来不确定性影响急剧提升。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司所处危化品行业安全环保底线要求严苛，主体装置运行时间较长，加之新技术研发和新项目建设运行带来的不确定性，导致安全环保风险较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司所处危化品行业安全环保底线要求严苛，主体装置运行时间较长，加之新技术研发和新项目建设运行带来的不确定性，导致安全环保风险较高"
+    }
+  ]
+}

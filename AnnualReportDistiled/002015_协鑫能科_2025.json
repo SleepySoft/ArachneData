@@ -1,0 +1,400 @@
+{
+  "company_name_mentioned": "协鑫能源科技股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "51.93%",
+      "quote": "电力销售 5,361,764,755.10 51.93%"
+    },
+    {
+      "name": "热力（蒸汽）",
+      "type": "service",
+      "revenue_proportion": "23.70%",
+      "quote": "热力销售 2,447,499,362.39 23.70%"
+    },
+    {
+      "name": "能源服务",
+      "type": "service",
+      "revenue_proportion": "17.36%",
+      "quote": "能源服务 1,792,587,870.47 17.36%"
+    },
+    {
+      "name": "节能与技术服务",
+      "type": "service",
+      "revenue_proportion": "12.26%",
+      "quote": "其中：节能与技术服务 1,266,331,195.88 12.26%"
+    },
+    {
+      "name": "交易服务",
+      "type": "service",
+      "revenue_proportion": "5.10%",
+      "quote": "交易服务 526,256,674.59 5.10%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料",
+      "target_product": "电力、热力",
+      "cost_proportion": "58.92%",
+      "quote": "燃料成本 58.92%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "电力、热力",
+      "cost_proportion": "3.94%",
+      "quote": "直接人工 290,992,709.31 3.94%"
+    },
+    {
+      "name": "折旧费",
+      "target_product": "电力、热力",
+      "cost_proportion": "15.63%",
+      "quote": "折旧费 1,155,906,397.89 15.63%"
+    },
+    {
+      "name": "其他",
+      "target_product": "电力、热力",
+      "cost_proportion": "21.51%",
+      "quote": "其他 1,590,596,624.63 21.51%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工商业及居民用电、用热",
+      "source_product": "电力、热力",
+      "quote": "公司以电力、热力销售为业务根基"
+    },
+    {
+      "name": "工业园区综合能源服务",
+      "source_product": "能源服务",
+      "quote": "零碳园区、绿电直连、光储融合、光储充一体等应用场景"
+    },
+    {
+      "name": "数据中心/算力基础设施",
+      "source_product": "电力",
+      "quote": "公司持续探索‘电力+算力’协同发展新方向，为中国电信等提供算力租赁支持，服务城市政务云、医疗云、教育云等民生业务数智化升级和满足部分科技型企业的算力需求。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱共山",
+      "role": "董事，实际控制人",
+      "quote": "实际控制人朱共山先生"
+    },
+    {
+      "name": "朱钰峰",
+      "role": "董事长，法定代表人",
+      "quote": "公司负责人朱钰峰"
+    },
+    {
+      "name": "费智",
+      "role": "副董事长、总裁",
+      "quote": "副董事长兼总裁费智"
+    },
+    {
+      "name": "彭毅",
+      "role": "董事、副总裁、财务总监",
+      "quote": "主管会计工作负责人彭毅"
+    },
+    {
+      "name": "牛曙斌",
+      "role": "副总裁",
+      "quote": "公司副总裁牛曙斌"
+    },
+    {
+      "name": "杨而立",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 杨而立"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "协鑫集成科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第四名供应商协鑫集成与公司受同一最终控制方控制，系公司关联方。",
+      "quote": "第四名供应商协鑫集成与公司受同一最终控制方控制，系公司关联方。"
+    },
+    {
+      "name": "蚂蚁数科",
+      "relation_type": "joint_venture",
+      "business_details": "成立合资公司‘蚂蚁鑫能’，聚焦电站智能运维、电力交易策略优化及虚拟电厂协同控制。",
+      "quote": "报告期内，公司携手蚂蚁数科成立合资公司‘蚂蚁鑫能’，通过融合蚂蚁数科的尖端数字技术与公司深耕能源产业的场景积淀，聚焦电站智能运维、电力交易策略优化及虚拟电厂协同控制三大核心场景的 AI 技术落地。"
+    },
+    {
+      "name": "中国电信",
+      "relation_type": "customer",
+      "business_details": "为中国电信等提供算力租赁支持。",
+      "quote": "为中国电信等提供算力租赁支持"
+    },
+    {
+      "name": "协鑫新能源控股有限公司",
+      "relation_type": "competitor",
+      "business_details": "存在同业竞争，承诺在2027年12月31日前处置其控制的光伏电站。",
+      "quote": "协鑫新能源控股股东Golden Concord Group Limited（协鑫集团有限公司.HK）、实际控制人朱共山先生已出具承诺，将督促协鑫新能源在2027年12月31日前将控制的光伏电站以合法方式予以处置"
+    },
+    {
+      "name": "协鑫科技控股有限公司",
+      "relation_type": "competitor",
+      "business_details": "存在同业竞争，承诺在2027年12月31日前处置其控制的光伏电站。",
+      "quote": "协鑫科技控股有限公司股东Happy Genius Holdings Limited（智悦控股有限公司）、实际控制人朱共山先生已出具承诺，将督促协鑫科技在2027年12月31日前将控制的光伏电站以合法方式予以处置"
+    },
+    {
+      "name": "协鑫集成科技股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "存在同业竞争，承诺在2027年12月31日前处置其控制的光伏电站。",
+      "quote": "协鑫集成控股股东及其一致行动人协鑫集团有限公司、江苏协鑫建设管理有限公司及营口其印投资管理有限公司，实际控制人朱共山先生已出具承诺，将督促协鑫集成在2027年12月31日前将控制的光伏电站以合法方式予以处置"
+    },
+    {
+      "name": "杭州鑫瑀企业管理有限公司",
+      "relation_type": "investor",
+      "business_details": "协议转让受让股份，并作出保持上市公司独立性、避免同业竞争等承诺。",
+      "quote": "杭州鑫瑀企业管理有限公司...关于保持上市公司独立性的承诺函"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "5,361,764,755.10元",
+      "revenue_proportion": "51.93%",
+      "gross_margin": "27.48%",
+      "yoy_change": "2.43%",
+      "quote": "电力销售 5,361,764,755.10 51.93% ... 毛利率 27.48% ... 营业收入比上年同期增减 2.43%"
+    },
+    {
+      "name": "热力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "2,447,499,362.39元",
+      "revenue_proportion": "23.70%",
+      "gross_margin": "21.10%",
+      "yoy_change": "-8.63%",
+      "quote": "热力销售 2,447,499,362.39 23.70% ... 毛利率 21.10% ... 营业收入比上年同期增减 -8.63%"
+    },
+    {
+      "name": "能源服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,792,587,870.47元",
+      "revenue_proportion": "17.36%",
+      "gross_margin": "43.30%",
+      "yoy_change": "50.19%",
+      "quote": "能源服务 1,792,587,870.47 17.36% ... 毛利率 43.30% ... 营业收入比上年同期增减 50.19%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "10,325,548,111.80元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "28.40%",
+      "yoy_change": "5.40%",
+      "quote": "国内销售 10,325,548,111.80 100.00% ... 毛利率 28.40% ... 营业收入比上年同期增减 5.40%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "公司全部发电业务",
+      "metric_type": "capacity",
+      "value": "610.66万千瓦",
+      "period": "2025年末",
+      "quote": "总装机容量（万千瓦） 610.66"
+    },
+    {
+      "product": "公司全部发电业务",
+      "metric_type": "production_volume",
+      "value": "108.29亿千瓦时",
+      "period": "2025年",
+      "quote": "发电量（亿千瓦时） 108.29"
+    },
+    {
+      "product": "公司全部发电业务",
+      "metric_type": "sales_volume",
+      "value": "102.93亿千瓦时",
+      "period": "2025年",
+      "quote": "上网电量或售电量（亿千瓦时） 102.93"
+    },
+    {
+      "product": "公司售电业务",
+      "metric_type": "sales_volume",
+      "value": "约470亿kWh",
+      "period": "报告期内",
+      "quote": "报告期内，公司管理售电量约470亿kWh"
+    },
+    {
+      "product": "外购电量",
+      "metric_type": "sales_volume",
+      "value": "约458.43亿kWh",
+      "period": "报告期内",
+      "quote": "其中外购电量约458.43亿kWh"
+    },
+    {
+      "product": "分布式光伏项目",
+      "metric_type": "capacity",
+      "value": "1,686.32MW",
+      "period": "截至2025年12月31日",
+      "quote": "公司分布式光伏项目并网装机容量 1,686.32MW"
+    },
+    {
+      "product": "分布式光伏",
+      "metric_type": "capacity",
+      "value": "1,686.32MW",
+      "period": "截至2025年12月31日",
+      "quote": "光伏发电 2,150.03MW（分布式光伏1,686.32MW）"
+    },
+    {
+      "product": "虚拟电厂业务",
+      "metric_type": "capacity",
+      "value": "约855MW",
+      "period": "截至2025年12月31日",
+      "quote": "公司虚拟电厂业务可调负荷规模约 855MW"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "海门异地重建热电联产项目",
+      "project_type": "capacity_expansion",
+      "location": "海门",
+      "investment_amount": null,
+      "designed_capacity": "27MW",
+      "progress": "正在按照既定建设节点稳步推进中",
+      "expected_completion_time": null,
+      "quote": "公司海门异地重建热电联产项目（27MW）...正在按照既定建设节点稳步推进中"
+    },
+    {
+      "name": "湖州热电联产技改项目",
+      "project_type": "capacity_expansion",
+      "location": "湖州",
+      "investment_amount": null,
+      "designed_capacity": "20MW",
+      "progress": "正在按照既定建设节点稳步推进中",
+      "expected_completion_time": null,
+      "quote": "湖州热电联产技改项目（20MW）...正在按照既定建设节点稳步推进中"
+    },
+    {
+      "name": "建德抽水蓄能电站项目",
+      "project_type": "construction_project",
+      "location": "建德",
+      "investment_amount": null,
+      "designed_capacity": "2,400MW",
+      "progress": "正在按照既定建设节点稳步推进中",
+      "expected_completion_time": null,
+      "quote": "建德抽水蓄能电站项目（2,400MW）等重点项目正在按照既定建设节点稳步推进中"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "聚星虚拟电厂平台",
+      "asset_type": "technical_platform",
+      "related_product": "虚拟电厂",
+      "quantitative_info": "至2026年2月，系统已在全国23个省、56个地级市实现落地应用",
+      "quote": "聚星虚拟电厂作为能源互联网领域的创新实践...至2026年2月，系统已在全国23个省、56个地级市实现落地应用，形成了覆盖城市级、运营商级、企业级的全层级应用格局。"
+    },
+    {
+      "name": "储能数智运营平台",
+      "asset_type": "technical_platform",
+      "related_product": "储能",
+      "quantitative_info": null,
+      "quote": "储能数智运营平台项目已全面完成建设任务。平台主体功能开发、系统集成与联调测试均顺利结束"
+    },
+    {
+      "name": "电力交易辅助决策支持系统",
+      "asset_type": "technical_platform",
+      "related_product": "电力交易",
+      "quantitative_info": "获得2-3项软件著作权",
+      "quote": "电力交易辅助决策支持系统研发项目已全部完成...获得2-3项软件著作权"
+    },
+    {
+      "name": "数字孪生项目（一期）",
+      "asset_type": "technical_platform",
+      "related_product": "配电网运维",
+      "quantitative_info": null,
+      "quote": "数字孪生项目一期研发已完成"
+    },
+    {
+      "name": "AI数智平台",
+      "asset_type": "technical_platform",
+      "related_product": "综合能源服务",
+      "quantitative_info": null,
+      "quote": "公司加快推进能源数字化转型之路，持续打造AI数智平台"
+    },
+    {
+      "name": "蚂蚁鑫能合资公司技术",
+      "asset_type": "technical_platform",
+      "related_product": "电站运维、电力交易、虚拟电厂",
+      "quantitative_info": null,
+      "quote": "公司携手蚂蚁数科成立合资公司‘蚂蚁鑫能’...聚焦电站智能运维、电力交易策略优化及虚拟电厂协同控制三大核心场景的 AI 技术落地。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "53.95%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 53.95%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "26.16%",
+      "related_entity": "第一名",
+      "period": "报告期内",
+      "quote": "第一名 2,701,344,175.47 26.16%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "43.36%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 43.36%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "17.52%",
+      "related_entity": "第一名",
+      "period": "报告期内",
+      "quote": "第一名 1,672,281,236.36 17.52%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "关联方采购额占年度采购总额比例2.77%",
+      "related_entity": "协鑫集成",
+      "period": "报告期内",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 2.77%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新赛道的开启往往伴随着激烈的低价竞争，为快速抢占市场份额，部分竞争对手可能采取激进的价格策略，通过短期让利换取规模扩张，导致行业整体盈利空间承压。",
+      "related_entity": null,
+      "related_product": "能源服务",
+      "quote": "激烈的竞争之下，公司市场开拓可能不及预期，整体收益可能亦将受到影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "随着电力市场化改革深入推进，电价形成机制面临重大调整，新能源项目面临电价无法达到预期导致收益率下降的风险。2025年5月31日后并网的电站，已不再实行固定电价。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "电价和电量方面实施新老划断政策，2025年5月31日后并网的电站，已不再实行固定电价。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "发电项目的设计、建设、并网发电和上网电价等各个环节都需不同政府部门的审批和许可。如果未来新发电项目的审批标准更加严格，或审批及核准所需时间延长，公司未来可能因为申请程序的拖延而失去项目开发的最佳时机，或者因为建设期延长而对项目的投资回收期产生不利影响。",
+      "related_entity": null,
+      "related_product": "发电项目",
+      "quote": "政府审批风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司2025年12月29日，因控股股东非经营性资金占用、未按规定审议和披露关联交易、募集资金现金管理超期未审议披露、募集资金专项报告信息披露不准确，中国证监会江苏监管局对公司及相关责任人采取出具警示函的行政监管措施。",
+      "related_entity": "协鑫集团有限公司",
+      "related_product": null,
+      "quote": "2025年12月29日，因控股股东非经营性资金占用、未按规定审议和披露关联交易、募集资金现金管理超期未审议披露、募集资金专项报告信息披露不准确，中国证监会江苏监管局对公司实际控制人（董事）朱共山、董事长朱钰峰、副董事长费智、财务总监彭毅、董事会秘书杨而立采取出具警示函的行政监管措施。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司内部控制审计报告带强调事项段，涉及子公司南通协鑫热电有限公司作为募投项目投资主体，通过募集资金专户向外部供应商累计支付款项后，项目进度变化导致退回部分款项至一般户，未及时划转至募集资金专户且信息披露不准确。",
+      "related_entity": "南通协鑫热电有限公司",
+      "related_product": null,
+      "quote": "我们提醒内部控制审计报告使用者关注，公司子公司南通协鑫热电有限公司作为募投项目‘南通协鑫热电有限公司热电联产项目’的投资主体，2025年 9月至 11月通过募集资金专户向外部供应商累计支付 148,910,817.50元。后因该募投项目建设进度发生变化，外部供应商于 2025年 9月至 11月期间将已收到的部分工程设备款退回至南通协鑫热电有限公司的银行一般户，累计退回金额为 141,113,000.00 元，项目公司未及时将该款项划转至募集资金专户且公司未准确披露项目使用募集资金进度。"
+    }
+  ]
+}

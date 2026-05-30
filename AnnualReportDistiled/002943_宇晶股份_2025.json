@@ -1,0 +1,519 @@
+{
+  "company_name_mentioned": "湖南宇晶机器股份有限公司",
+  "produces": [
+    {
+      "name": "多线切割机",
+      "type": "device",
+      "revenue_proportion": "73.19%",
+      "quote": "报告期内，公司研发、生产、销售的主要产品为多线切磨机、研磨抛光机、金刚石线、热场系统系列产品、硅片，同时提供硅片的切片加工业务...高精密数控切、磨、抛设备 610,850,988.52 73.19%"
+    },
+    {
+      "name": "研磨抛光机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司自设立以来，专注于从事高精密切、磨、抛数控设备研发、生产、销售与服务"
+    },
+    {
+      "name": "金刚石线",
+      "type": "material",
+      "revenue_proportion": "0.98%",
+      "quote": "金刚石线 8,170,040.03 0.98%"
+    },
+    {
+      "name": "热场系统系列产品",
+      "type": "component",
+      "revenue_proportion": "1.73%",
+      "quote": "热场系统系列产品 14,451,321.12 1.73%"
+    },
+    {
+      "name": "硅片及切片加工服务",
+      "type": "service",
+      "revenue_proportion": "17.11%",
+      "quote": "硅片及切片加工服务 142,836,530.00 17.11%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "机械类材料",
+      "target_product": "设备类产品",
+      "cost_proportion": null,
+      "quote": "公司设备类产品主要的原材料为机械类、电气控制类。机械类材料受钢材等基础材料价格影响较大"
+    },
+    {
+      "name": "电气控制类材料",
+      "target_product": "设备类产品",
+      "cost_proportion": null,
+      "quote": "电气控制类主要为行业知名品牌，若上游供应商提高产品价格，将对公司产品成本造成较大影响。"
+    },
+    {
+      "name": "金刚石",
+      "target_product": "金刚石线",
+      "cost_proportion": null,
+      "quote": "金刚石线主要原材料为金刚石、母线、镍饼"
+    },
+    {
+      "name": "母线",
+      "target_product": "金刚石线",
+      "cost_proportion": null,
+      "quote": "金刚石线主要原材料为金刚石、母线、镍饼"
+    },
+    {
+      "name": "镍饼",
+      "target_product": "金刚石线",
+      "cost_proportion": null,
+      "quote": "金刚石线主要原材料为金刚石、母线、镍饼"
+    },
+    {
+      "name": "碳纤维",
+      "target_product": "碳碳热场系列产品",
+      "cost_proportion": null,
+      "quote": "碳碳热场系列产品主要原材料为碳纤维"
+    },
+    {
+      "name": "单晶硅棒",
+      "target_product": "硅片",
+      "cost_proportion": null,
+      "quote": "硅片及切片加工服务业务主要以代工模式为主，由客户提供单晶硅棒，公司按照约定标准和计划将单晶硅棒加工成硅片后向客户交付合格硅片并收取代工费。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "光伏行业",
+      "source_product": "多线切割机、金刚石线、热场系统系列产品、硅片及切片加工服务",
+      "quote": "主要用于102-230mm大尺寸单/多晶硅棒切割...主要用于晶体硅、蓝宝石等高硬脆性材料的切割。晶体硅片主要应用于太阳能光伏产业；蓝宝石薄片主要用作 LED 照明设备衬底、消费电子等产业。"
+    },
+    {
+      "name": "半导体行业",
+      "source_product": "多线切割机、研磨抛光机",
+      "quote": "主要用于切割碳化硅（2-8 英寸）、水晶、陶瓷、化合物、氧化物、人造宝石、单晶硅等各种硬脆材料"
+    },
+    {
+      "name": "消费电子行业",
+      "source_product": "多线切割机、研磨抛光机",
+      "quote": "主要用于切割蓝宝石（2-8 英寸）、水晶、陶瓷、化合物、氧化物、人造宝石等硬脆材料"
+    },
+    {
+      "name": "磁性材料行业",
+      "source_product": "多线切割机",
+      "quote": "主要用于切割磁性材料"
+    },
+    {
+      "name": "石材行业",
+      "source_product": "多线切割机、金刚石线",
+      "quote": "主要用于石材的切割"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨宇红",
+      "role": "董事长、法定代表人、控股股东、实际控制人",
+      "quote": "公司负责人杨宇红...控股股东杨宇红先生...董事长：杨宇红，男，1962 年生"
+    },
+    {
+      "name": "杨佳葳",
+      "role": "董事、总经理、控股股东、实际控制人",
+      "quote": "杨宇红和杨佳葳系父子关系...董事、总经理：杨佳葳，男，1988 年生"
+    },
+    {
+      "name": "罗群强",
+      "role": "董事",
+      "quote": "董事：罗群强，男，1962 年生"
+    },
+    {
+      "name": "邓湘浩",
+      "role": "职工董事",
+      "quote": "职工董事：邓湘浩，男，1968年生"
+    },
+    {
+      "name": "杜新宇",
+      "role": "独立董事",
+      "quote": "独立董事：杜新宇，男，出生于 1967 年 9 月"
+    },
+    {
+      "name": "唐曦",
+      "role": "独立董事",
+      "quote": "独立董事：唐曦，男，出生于 1988 年 12 月"
+    },
+    {
+      "name": "许定胜",
+      "role": "独立董事",
+      "quote": "独立董事：许定胜，男，出生于 1968 年 4 月"
+    },
+    {
+      "name": "周波评",
+      "role": "副总经理、董事会秘书",
+      "quote": "副总经理、董事会秘书：周波评，男，1979 年11 月出生"
+    },
+    {
+      "name": "谭鹏",
+      "role": "财务总监、主管会计工作负责人",
+      "quote": "主管会计工作负责人谭鹏...财务总监：谭鹏，男，1988 年 11月出生"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "双良节能系统股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户，销售商品，2025年度关联销售金额94,990,947.31元。",
+      "quote": "双良节能系统股份有限公司 94,990,947.31 11.38%"
+    },
+    {
+      "name": "江苏双晶新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司（持股74%），主要业务为硅片生产和销售。",
+      "quote": "江苏双晶新能源科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "湖南益缘新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要业务为金刚石线生产销售。",
+      "quote": "湖南益缘新材料科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "湖南宇星碳素有限公司（2026年4月已更名为湖南宇星新材料有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，主要业务为碳碳产品生产及销售。",
+      "quote": "湖南宇星碳素有限公司（2026年4月已更名为湖南宇星新材料有限公司），公司控股子公司"
+    },
+    {
+      "name": "湖南宇诚精密科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司。",
+      "quote": "宇诚精密 指 湖南宇诚精密科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "湖南宇一精密科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要业务为设备生产及销售。",
+      "quote": "宇一精密 指 湖南宇一精密科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "湖南宇晶新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要业务为光伏发电。",
+      "quote": "宇晶新能源 指 湖南宇晶新能源科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "湖南宇晶光伏科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司。",
+      "quote": "宇晶光伏 指 湖南宇晶光伏科技有限公司，公司全资孙公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金属加工机械制造行业",
+      "segment_type": "product_line",
+      "revenue_amount": "650,328,174.22",
+      "revenue_proportion": "77.92%",
+      "gross_margin": "32.24%",
+      "yoy_change": "-8.39%",
+      "quote": "分行业 金属加工机械制造行业 650,328,174.22 77.92% 709,889,549.03 68.42% -8.39%"
+    },
+    {
+      "name": "硅片及切片加工服务行业",
+      "segment_type": "product_line",
+      "revenue_amount": "160,646,350.46",
+      "revenue_proportion": "19.25%",
+      "gross_margin": "-0.31%",
+      "yoy_change": "-37.76%",
+      "quote": "硅片及切片加工服务行业 160,646,350.46 19.25% 258,098,464.83 24.88% -37.76%"
+    },
+    {
+      "name": "热场系统系列行业",
+      "segment_type": "product_line",
+      "revenue_amount": "14,451,321.12",
+      "revenue_proportion": "1.73%",
+      "gross_margin": null,
+      "yoy_change": "-70.52%",
+      "quote": "热场系统系列行业 14,451,321.12 1.73% 49,017,633.86 4.72% -70.52%"
+    },
+    {
+      "name": "超硬材料制品行业",
+      "segment_type": "product_line",
+      "revenue_amount": "9,182,571.83",
+      "revenue_proportion": "1.10%",
+      "gross_margin": null,
+      "yoy_change": "-55.25%",
+      "quote": "超硬材料制品行业 9,182,571.83 1.10% 20,520,076.03 1.98% -55.25%"
+    },
+    {
+      "name": "高精密数控切、磨、抛设备",
+      "segment_type": "product_line",
+      "revenue_amount": "610,850,988.52",
+      "revenue_proportion": "73.19%",
+      "gross_margin": "32.25%",
+      "yoy_change": "-11.85%",
+      "quote": "分产品 高精密数控切、磨、抛设备 610,850,988.52 73.19% 692,968,599.17 66.79% -11.85%"
+    },
+    {
+      "name": "硅片及切片加工服务",
+      "segment_type": "product_line",
+      "revenue_amount": "142,836,530.00",
+      "revenue_proportion": "17.11%",
+      "gross_margin": "-12.65%",
+      "yoy_change": "-38.87%",
+      "quote": "硅片及切片加工服务 142,836,530.00 17.11% 233,674,117.07 22.52% -38.87%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "806,937,240.10",
+      "revenue_proportion": "96.68%",
+      "gross_margin": "26.10%",
+      "yoy_change": "-18.03%",
+      "quote": "分地区 境内 806,937,240.10 96.68% 984,464,448.69 94.89% -18.03%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "27,671,177.53",
+      "revenue_proportion": "3.32%",
+      "gross_margin": null,
+      "yoy_change": "-47.85%",
+      "quote": "境外 27,671,177.53 3.32% 53,061,275.06 5.11% -47.85%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "金属加工机械制造行业（设备）",
+      "metric_type": "sales_volume",
+      "value": "442",
+      "period": "2025年",
+      "quote": "金属加工机械制造行业 销售量 台 442 817.00 -45.90%"
+    },
+    {
+      "product": "金属加工机械制造行业（设备）",
+      "metric_type": "production_volume",
+      "value": "274",
+      "period": "2025年",
+      "quote": "生产量 台 274 624.00 -56.09%"
+    },
+    {
+      "product": "金属加工机械制造行业（设备）",
+      "metric_type": "inventory_volume",
+      "value": "326",
+      "period": "2025年末",
+      "quote": "库存量 台 326 494 -34.01%"
+    },
+    {
+      "product": "超硬材料制品行业（金刚石线）",
+      "metric_type": "sales_volume",
+      "value": "536,376.50",
+      "period": "2025年",
+      "quote": "销售量 千米 536,376.50 3,486,908.29 -84.62%"
+    },
+    {
+      "product": "超硬材料制品行业（金刚石线）",
+      "metric_type": "production_volume",
+      "value": "496,532.50",
+      "period": "2025年",
+      "quote": "生产量 千米 496,532.50 2,801,922.49 -82.28%"
+    },
+    {
+      "product": "超硬材料制品行业（金刚石线）",
+      "metric_type": "inventory_volume",
+      "value": "465,234.00",
+      "period": "2025年末",
+      "quote": "库存量 千米 465,234.00 505,078.00 -7.89%"
+    },
+    {
+      "product": "热场系统系列行业",
+      "metric_type": "sales_volume",
+      "value": "92,430.58",
+      "period": "2025年",
+      "quote": "销售量 千克 92,430.58 210,908.38 -56.18%"
+    },
+    {
+      "product": "热场系统系列行业",
+      "metric_type": "production_volume",
+      "value": "63,005.30",
+      "period": "2025年",
+      "quote": "生产量 千克 63,005.30 252,501.91 -75.05%"
+    },
+    {
+      "product": "热场系统系列行业",
+      "metric_type": "inventory_volume",
+      "value": "29,245.67",
+      "period": "2025年末",
+      "quote": "库存量 千克 29,245.67 252,501.91 -88.42%"
+    },
+    {
+      "product": "硅片及切片加工服务行业",
+      "metric_type": "sales_volume",
+      "value": "74,192.53",
+      "period": "2025年",
+      "quote": "销售量 万片 74,192.53 82,371.19 -9.93%"
+    },
+    {
+      "product": "硅片及切片加工服务行业",
+      "metric_type": "production_volume",
+      "value": "75,562.30",
+      "period": "2025年",
+      "quote": "生产量 万片 75,562.30 81,707.62 -7.52%"
+    },
+    {
+      "product": "硅片及切片加工服务行业",
+      "metric_type": "inventory_volume",
+      "value": "3,866.39",
+      "period": "2025年末",
+      "quote": "库存量 万片 3,866.39 2,496.62 54.86%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "五轴六工位上摆式技术的异形抛光机研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "五轴六工位上摆式技术的异形抛光机研发...已完成"
+    },
+    {
+      "name": "双工位正立切片技术的磁材切片机研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "双工位正立切片技术的磁材切片机研发...已完成"
+    },
+    {
+      "name": "12寸半导体硅切割技术的多线切产品改制研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "12寸半导体硅切割技术的多线切产品改制研发...已完成"
+    },
+    {
+      "name": "大尺寸硅片的薄片化量产切割技术的研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": null,
+      "quote": "大尺寸硅片的薄片化量产切割技术的研发...进行中"
+    },
+    {
+      "name": "冷却液低置换循环应用的关键技术研究",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "冷却液低置换循环应用的关键技术研究...完成"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利授权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已获专利授权233项，其中发明专利69项，实用新型专利157项，外观设计专利7项",
+      "quote": "截至本报告期末，公司及子公司已获专利授权233项，其中发明专利69项，实用新型专利157项，外观设计专利7项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "45项",
+      "quote": "软件著作权45项"
+    },
+    {
+      "name": "数控多线切割机核心技术",
+      "asset_type": "core_technology",
+      "related_product": "多线切割机",
+      "quantitative_info": null,
+      "quote": "“数控多线切割机核心技术开发及其产品研制项目”获得由中国机械工业联合会和中国机械工程学会颁发的“中国机械工业科学技术一等奖”"
+    },
+    {
+      "name": "“高精密切磨抛设备湖南省工业设计中心”等技术研发平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建立了“高精密切磨抛设备湖南省工业设计中心”、“湖南省企业技术中心”、“硬脆性基片制造成型装备湖南省工程研究中心”、“湖南省硬脆材料数控加工装备工程技术研究中心”等多个技术研发平台。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "73.70%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 73.70%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "50.50%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 421,504,293.98 50.50%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "40.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 40.15%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "14.32%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 44,949,783.14 14.32%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "受宏观经济波动、贸易摩擦、产业链发展不均衡以及阶段性产能过剩等多重因素影响，行业存在较大市场波动进而影响公司产品市场需求。在同业竞争加剧或下游市场需求收缩时，将会对公司的生产经营产生负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）行业风险 受宏观经济波动、贸易摩擦、产业链发展不均衡以及阶段性产能过剩等多重因素影响，行业存在较大市场波动进而影响公司产品市场需求。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "当前国际形势复杂多变，贸易政策不确定性增加，贸易摩擦和贸易壁垒日趋严重，外部环境依然复杂严峻。若国际经济贸易环境或地缘政治环境发生重大不利变化，可能对公司产品出口产生不利影响，公司海外业务开展存在不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）国际环境风险 当前国际形势复杂多变，贸易政策不确定性增加，贸易摩擦和贸易壁垒日趋严重，外部环境依然复杂严峻。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "随着公司国际业务收入所占比重的增加，如未来发生汇率大幅波动，将会加大公司海外业务的拓展难度，汇率波动对公司经营成果的影响将越来越大，存在汇率波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）汇率波动风险 随着公司国际业务收入所占比重的增加，如未来发生汇率大幅波动，将会加大公司海外业务的拓展难度"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司设备类产品主要的原材料为机械类、电气控制类...金刚石线主要原材料为金刚石、母线、镍饼；碳碳热场系列产品主要原材料为碳纤维，由于原材料成本占公司产品成本的比例较高，原材料价格的波动将会直接影响公司产品的成本和利润水平，如果出现原材料价格快速上涨的情况，将会导致公司产品成本的快速上升...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）原材料价格波动风险 公司设备类产品主要的原材料为机械类、电气控制类...由于原材料成本占公司产品成本的比例较高，原材料价格的波动将会直接影响公司产品的成本和利润水平"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "近年来，同类产品市场竞争日趋激烈，若公司不能持续保持产品技术的先进性，保持并提高公司在行业内的竞争优势，公司可能面临毛利率下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）毛利率下降风险 近年来，同类产品市场竞争日趋激烈"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司部分设备类产品由于公司产品定制化程度较高...若相关客户经营状况发生变化而取消订单，公司存货可能面临跌价的风险。耗材类产品采用订单+适当备货方式生产...若因行业发展路线、下游市场需求发生变化，客户需求降低或将导致公司产品大幅降价或呆滞，公司可能面临大幅计提存货跌价准备的风险...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（7）存货跌价风险 公司部分设备类产品由于公司产品定制化程度较高...公司可能面临大幅计提存货跌价准备的风险"
+    }
+  ]
+}

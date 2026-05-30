@@ -1,0 +1,402 @@
+{
+  "company_name_mentioned": "深圳赫美集团股份有限公司",
+  "produces": [
+    {
+      "name": "液化天然气",
+      "type": "material",
+      "revenue_proportion": "69.21%",
+      "quote": "分产品: 液化天然气 403,392,983.86 69.21% 192,195,627.44 47.27% 109.89%"
+    },
+    {
+      "name": "氢气",
+      "type": "material",
+      "revenue_proportion": "6.64%",
+      "quote": "分产品: 氢气 38,704,789.65 6.64% 4,646,920.06 1.14% 732.91%"
+    },
+    {
+      "name": "服饰",
+      "type": "device",
+      "revenue_proportion": "18.55%",
+      "quote": "分产品: 服饰 108,121,361.74 18.55% 170,591,190.69 41.96% -36.62%"
+    },
+    {
+      "name": "日用百货",
+      "type": "device",
+      "revenue_proportion": "2.71%",
+      "quote": "分产品: 日用百货 15,776,417.66 2.71% 0.00 0.00% 100.00%"
+    },
+    {
+      "name": "黄金首饰",
+      "type": "device",
+      "revenue_proportion": "1.22%",
+      "quote": "分产品: 黄金首饰 7,115,186.16 1.22% 35,888,167.28 8.83% -80.17%"
+    },
+    {
+      "name": "共享单车运营服务",
+      "type": "service",
+      "revenue_proportion": "0.88%",
+      "quote": "分产品: 共享单车运营 5,133,011.06 0.88% 1,363,599.06 0.34% 276.43%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "天然气（LNG）",
+      "target_product": "综合能源站运营",
+      "cost_proportion": "55.02%（关联采购占年度采购总额比例）",
+      "quote": "公司前5名供应商资料: 1 孝义市盛世富源甲醇制造有限公司 310,472,949.36 55.02%"
+    },
+    {
+      "name": "氢气",
+      "target_product": "综合能源站运营",
+      "cost_proportion": null,
+      "quote": "公司主要销售客户情况: 前五名客户销售额中关联方销售额占年度销售总额比例 6.56%"
+    },
+    {
+      "name": "商品货品",
+      "target_product": "商业零售",
+      "cost_proportion": null,
+      "quote": "（1）采购模式：公司的品牌运营部门组织买手向品牌方采购货品，公司一般按 SS(Spring/Summer)、FW(Fall/Winter)两次主要的采购季，提前3-6个月提交订单。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "重卡运输补能",
+      "source_product": "天然气、氢气",
+      "quote": "聚焦为大型重卡提供能源补给...精准匹配煤炭运输、大宗物流等高频次、高能耗场景需求"
+    },
+    {
+      "name": "煤炭运输",
+      "source_product": "天然气",
+      "quote": "山西作为煤炭主产区，重卡运输需求刚性且规模庞大，公司补能站点深度嵌入煤炭运输廊道"
+    },
+    {
+      "name": "国际品牌零售",
+      "source_product": "服饰、黄金首饰等",
+      "quote": "公司商业零售业务继续深耕国际品牌代理与零售领域...覆盖北京、上海、三亚、济南、郑州等市场"
+    },
+    {
+      "name": "购物中心、奥特莱斯",
+      "source_product": "服饰、黄金首饰等",
+      "quote": "公司主要在购物中心、城市综合体、商业街、专业市场（奥特莱斯等）、电子商城渠道等租赁商业物业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑梓微",
+      "role": "董事长",
+      "quote": "郑梓微女士：公司董事长...现任海南至微科技有限公司董事兼总经理。郑梓微女士与公司副董事长郑梓豪先生为姐弟关系。"
+    },
+    {
+      "name": "郑梓豪",
+      "role": "副董事长、实际控制人",
+      "quote": "郑梓豪先生：公司副董事长...为公司控股股东时代榕光及其一致行动人孝义富源的实际控制人...现任山西鹏飞集团有限公司副总裁"
+    },
+    {
+      "name": "许明",
+      "role": "董事、总经理",
+      "quote": "许明先生：公司董事、总经理"
+    },
+    {
+      "name": "马小龙",
+      "role": "董事",
+      "quote": "马小龙先生：公司董事...现任山西鹏飞集团有限公司执行董事兼总经理"
+    },
+    {
+      "name": "郝斌",
+      "role": "董事",
+      "quote": "郝斌先生：公司董事...目前担任山西鹏飞集团有限公司财务副总经理"
+    },
+    {
+      "name": "于阳",
+      "role": "副总经理",
+      "quote": "于阳先生：公司副总经理...拥有多年国际品牌运营管理经验"
+    },
+    {
+      "name": "田希",
+      "role": "副总经理、董事会秘书",
+      "quote": "田希女士：公司副总经理、董事会秘书"
+    },
+    {
+      "name": "宋晓飞",
+      "role": "财务总监",
+      "quote": "宋晓飞先生：公司财务总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海南时代榕光实业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 指 海南时代榕光实业投资合伙企业（有限合伙）、孝义市富源金来热源有限公司"
+    },
+    {
+      "name": "孝义市富源金来热源有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 指 海南时代榕光实业投资合伙企业（有限合伙）、孝义市富源金来热源有限公司"
+    },
+    {
+      "name": "山西鹏飞集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，董事马小龙同时担任其执行董事兼总经理，采购燃料服务等",
+      "quote": "主要供应商情况: 前五名供应商采购额中关联方采购额占年度采购总额比例 55.02%...公司主要销售客户情况: 前五名客户销售额中关联方销售额占年度销售总额比例 6.56%"
+    },
+    {
+      "name": "山西鹏飞氢美能源绿色发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "核心运营主体，从事综合能源站、风光电制绿氢绿醇、共享两轮车业务",
+      "quote": "能源板块为公司报告期主要业务，由控股子公司鹏飞氢美作为核心运营主体"
+    },
+    {
+      "name": "孝义市盛世富源甲醇制造有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联采购，采购LNG、氢气等商品",
+      "quote": "公司前5名供应商资料: 1 孝义市盛世富源甲醇制造有限公司 310,472,949.36 55.02%"
+    },
+    {
+      "name": "山西大华通新能源物流有限公司",
+      "relation_type": "customer",
+      "business_details": "关联销售",
+      "quote": "公司前5大客户资料: 2 山西大华通新能源物流有限公司 38,220,856.45 6.56%"
+    },
+    {
+      "name": "山西巨能新燃料有限公司",
+      "relation_type": "competitor",
+      "business_details": "同业竞争方",
+      "quote": "因公司收购能源站而形成与关联方山西巨能新燃料有限公司（山西鹏飞集团有限公司控制的企业）在综合能源站运营业务的同业竞争"
+    },
+    {
+      "name": "山西郑旺氢能源科技有限公司",
+      "relation_type": "competitor",
+      "business_details": "同业竞争方",
+      "quote": "如项目后续投产后，将与关联方山西郑旺氢能源科技有限公司（山西鹏飞集团有限公司控制的企业）的焦炉尾气制氢项目、干熄焦余热发电配套水电解制绿氢项目形成同业竞争"
+    },
+    {
+      "name": "北京至简能源有限公司",
+      "relation_type": "supplier",
+      "business_details": "实际控制人郑梓豪控制的企业，采购技术服务",
+      "quote": "公司主要销售客户情况: 前五名客户销售额中关联方销售额占年度销售总额比例 6.56%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "能源销售及加注",
+      "segment_type": "business_unit",
+      "revenue_amount": "442,446,210.30",
+      "revenue_proportion": "75.91%",
+      "gross_margin": "8.64%",
+      "yoy_change": "124.67%",
+      "quote": "分行业: 能源销售及加注 442,446,210.30 75.91% 196,930,125.60 48.44% 124.67%"
+    },
+    {
+      "name": "商业",
+      "segment_type": "business_unit",
+      "revenue_amount": "131,049,033.16",
+      "revenue_proportion": "22.48%",
+      "gross_margin": "31.31%",
+      "yoy_change": "-36.55%",
+      "quote": "分行业: 商业 131,049,033.16 22.48% 206,530,613.59 50.80% -36.55%"
+    },
+    {
+      "name": "北方",
+      "segment_type": "region",
+      "revenue_amount": "539,249,683.77",
+      "revenue_proportion": "92.51%",
+      "gross_margin": "13.46%",
+      "yoy_change": "112.43%",
+      "quote": "分地区: 北方 539,249,683.77 92.51% 253,854,133.70 62.44% 112.43%"
+    },
+    {
+      "name": "南方",
+      "segment_type": "region",
+      "revenue_amount": "43,642,148.65",
+      "revenue_proportion": "7.49%",
+      "gross_margin": "17.13%",
+      "yoy_change": "-71.42%",
+      "quote": "分地区: 南方 43,642,148.65 7.49% 152,722,136.20 37.56% -71.42%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "液化天然气",
+      "metric_type": "sales_volume",
+      "value": "101,833.32 吨",
+      "period": "2025年",
+      "quote": "液化天然气: 销售量 吨 101,833.32 44,906.92 126.77%"
+    },
+    {
+      "product": "液化天然气",
+      "metric_type": "inventory_volume",
+      "value": "179.96 吨",
+      "period": "2025年末",
+      "quote": "液化天然气: 库存量 吨 179.96 132.04 36.29%"
+    },
+    {
+      "product": "氢气",
+      "metric_type": "sales_volume",
+      "value": "1,749.45 吨",
+      "period": "2025年",
+      "quote": "氢气: 销售量 吨 1,749.45 204.67 754.77%"
+    },
+    {
+      "product": "氢气",
+      "metric_type": "inventory_volume",
+      "value": "0.51 吨",
+      "period": "2025年末",
+      "quote": "氢气: 库存量 吨 0.51 0.42 21.43%"
+    },
+    {
+      "product": "服饰",
+      "metric_type": "sales_volume",
+      "value": "85,479 件",
+      "period": "2025年",
+      "quote": "服饰: 销售量 件 85,479 111,428 -23.29%"
+    },
+    {
+      "product": "服饰",
+      "metric_type": "inventory_volume",
+      "value": "168,546 件",
+      "period": "2025年末",
+      "quote": "服饰: 库存量 件 168,546 196,348 -14.16%"
+    },
+    {
+      "product": "黄金首饰",
+      "metric_type": "sales_volume",
+      "value": "799 件",
+      "period": "2025年",
+      "quote": "黄金首饰: 销售量 件 799 5,268 -84.83%"
+    },
+    {
+      "product": "黄金首饰",
+      "metric_type": "inventory_volume",
+      "value": "30 件",
+      "period": "2025年末",
+      "quote": "黄金首饰: 库存量 件 30 51 -41.18%"
+    },
+    {
+      "product": "门店",
+      "metric_type": "other",
+      "value": "28家",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司共有门店28家，全部为直营门店"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "沁源氢美120MW光伏发电制1000吨/年绿氢项目",
+      "project_type": "capacity_expansion",
+      "location": "山西省长治市沁源经济技术开发区",
+      "investment_amount": null,
+      "designed_capacity": "100MW光伏发电，制1000吨/年绿氢",
+      "progress": "被列入“山西省2025年风电、光伏发电保障性并网年度建设计划”，主体工程尚未正式开工建设及投产，处于前期筹备阶段",
+      "expected_completion_time": null,
+      "quote": "报告期内，鹏飞氢美（长治市沁源经济技术开发区）能源绿色发展有限公司100MW光伏发电项目被列入“山西省2025年风电、光伏发电保障性并网年度建设计划”...目前两个项目的主体工程尚未正式开工建设及投产"
+    },
+    {
+      "name": "宁城氢美262.5MW风力发电制0.8万吨/年绿氢及15万吨/年绿色甲醇一体化项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古自治区赤峰市宁城县",
+      "investment_amount": null,
+      "designed_capacity": "26.25万千瓦风电，制0.8万吨/年绿氢及15万吨/年绿色甲醇",
+      "progress": "已获得行政审批核准，主体工程尚未正式开工建设及投产，处于前期筹备阶段",
+      "expected_completion_time": null,
+      "quote": "鹏飞氢美宁城县风光制氢一体化项目（26.25万千瓦风电部分）已获得行政审批核准，目前两个项目的主体工程尚未正式开工建设及投产"
+    }
+  ],
+  "technology_assets": [],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "32.24%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 32.24%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "17.66%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料: 1 客户一 102,917,746.51 17.66%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "72.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 72.30%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "55.02%",
+      "related_entity": "孝义市盛世富源甲醇制造有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料: 1 孝义市盛世富源甲醇制造有限公司 310,472,949.36 55.02%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "关联方销售额占年度销售总额比例 6.56%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 6.56%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "关联方采购额占年度采购总额比例 55.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 55.02%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "LNG与氢气价格受国际能源市场、行业供需影响存在波动，可能导致成本承压。",
+      "related_entity": null,
+      "related_product": "LNG、氢气",
+      "quote": "气源价格波动风险：LNG与氢气价格受国际能源市场、行业供需影响存在波动，可能导致成本承压。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "氢能重卡市场渗透速度可能低于预期，绿氢项目投资回报周期较长。",
+      "related_entity": null,
+      "related_product": "氢能",
+      "quote": "氢能商业化进程不及预期风险：氢能重卡市场渗透速度可能低于预期，绿氢项目投资回报周期较长。"
+    },
+    {
+      "risk_type": "other",
+      "description": "风光电制氢等项目投资规模大，可能导致阶段性现金流紧张。",
+      "related_entity": null,
+      "related_product": "风光电制氢项目",
+      "quote": "项目建设资金风险：风光电制氢等项目投资规模大，可能导致阶段性现金流紧张。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司能源业务核心布局山西，市场需求以重卡物流为主，业务增长受区域市场限制。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "区域市场依赖风险：公司能源业务核心布局山西，市场需求以重卡物流为主，业务增长受区域市场限制。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济增速放缓可能影响居民消费能力，进而冲击高端品牌零售业务。",
+      "related_entity": null,
+      "related_product": "商业零售业务",
+      "quote": "消费市场波动风险：宏观经济增速放缓可能影响居民消费能力，进而冲击高端品牌零售业务。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国际高端品牌加速布局国内市场、本土高端品牌崛起，行业竞争日趋激烈。",
+      "related_entity": null,
+      "related_product": "商业零售业务",
+      "quote": "市场竞争加剧风险：国际高端品牌加速布局国内市场、本土高端品牌崛起，行业竞争日趋激烈。"
+    },
+    {
+      "risk_type": "other",
+      "description": "若线上运营布局推进缓慢，可能导致店铺流量受限、业绩增长乏力。",
+      "related_entity": null,
+      "related_product": "商业零售业务",
+      "quote": "线上线下融合不及预期风险：若线上运营布局推进缓慢，可能导致店铺流量受限、业绩增长乏力。"
+    }
+  ]
+}

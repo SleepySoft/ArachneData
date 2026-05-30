@@ -1,0 +1,484 @@
+{
+  "company_name_mentioned": "永兴特种材料科技股份有限公司",
+  "produces": [
+    {
+      "name": "不锈钢棒线材及特殊合金材料",
+      "type": "material",
+      "revenue_proportion": "2025年特钢新材料业务收入55.34亿元，占营业收入74.55%",
+      "quote": "公司特钢新材料业务以不锈废钢为主要原料，采用短流程工艺生产不锈钢棒线材及特殊合金材料...分行业：特钢新材料业务 5,533,879,250.25 74.55%"
+    },
+    {
+      "name": "棒材",
+      "type": "material",
+      "revenue_proportion": "2025年收入34.03亿元，占营业收入45.85%",
+      "quote": "分产品：棒材 3,403,206,875.97 45.85%"
+    },
+    {
+      "name": "线材",
+      "type": "material",
+      "revenue_proportion": "2025年收入18.64亿元，占营业收入25.12%",
+      "quote": "分产品：线材 1,864,406,903.00 25.12%"
+    },
+    {
+      "name": "电池级碳酸锂",
+      "type": "material",
+      "revenue_proportion": "2025年收入16.15亿元，占营业收入21.76%",
+      "quote": "分产品：碳酸锂 1,615,319,742.43 21.76%"
+    },
+    {
+      "name": "钛酸锂电池（电芯、模组、电池PACK及系统）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司锂离子电池业务专注于超高安全、超宽温区、超长寿命、超快充放电速度、超高功率钛酸锂电池的电芯、模组、电池 PACK 及系统的研发、生产和销售，目前主要产品为方形铝壳钛酸锂电池及其模组、PACK 与系统"
+    }
+  ],
+  "procures": [
+    {
+      "name": "不锈废钢",
+      "target_product": "不锈钢棒线材",
+      "cost_proportion": "2025年特钢新材料业务直接材料成本44.42亿元，占特钢业务成本71.06%；主要原材料（不锈废钢、镍合金和铬铁合金等）占生产成本的比重在90%左右",
+      "quote": "公司特钢新材料业务以不锈废钢为主要原料...特钢新材料业务 直接材料 4,441,502,596.54 71.06%"
+    },
+    {
+      "name": "镍合金、铬铁合金等",
+      "target_product": "不锈钢棒线材",
+      "cost_proportion": null,
+      "quote": "公司的主要原材料为不锈废钢、镍合金和铬铁合金等"
+    },
+    {
+      "name": "锂瓷石（锂云母矿）",
+      "target_product": "电池级碳酸锂",
+      "cost_proportion": null,
+      "quote": "公司碳酸锂业务依托国内自有锂矿资源，搭建从采矿、选矿到电池级碳酸锂深加工的一体化全产业链...以自有矿山的锂瓷石为主要原料"
+    },
+    {
+      "name": "辅料、燃料及动力",
+      "target_product": "碳酸锂",
+      "cost_proportion": "2025年锂电新能源业务直接材料成本3.90亿元，占锂电业务成本29.76%；燃料及动力成本4.10亿元，占比31.29%",
+      "quote": "锂电新能源业务 直接材料 389,616,906.07 6.23%...锂电新能源业务 燃料及动力 409,640,187.52 6.55%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "油气开采及炼化",
+      "source_product": "不锈钢棒线材及特殊合金材料",
+      "quote": "产品经下游加工后广泛应用于油气开采及炼化、电力装备制造、交通装备制造、人体植入和医疗器械及其他高端机械装备制造等工业领域"
+    },
+    {
+      "name": "电力装备制造",
+      "source_product": "不锈钢棒线材及特殊合金材料",
+      "quote": "同上"
+    },
+    {
+      "name": "交通装备制造",
+      "source_product": "不锈钢棒线材及特殊合金材料",
+      "quote": "同上"
+    },
+    {
+      "name": "人体植入和医疗器械",
+      "source_product": "不锈钢棒线材及特殊合金材料",
+      "quote": "同上"
+    },
+    {
+      "name": "锂离子电池正极材料（三元、磷酸铁锂、钴酸锂、锰酸锂等）及电解质材料",
+      "source_product": "电池级碳酸锂",
+      "quote": "作为锂离子电池材料的原材料，电池级碳酸锂广泛应用于三元、磷酸铁锂、钴酸锂、锰酸锂等多种锂离子电池正极材料及电解质材料"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "电池级碳酸锂",
+      "quote": "并最终应用于新能源汽车、储能、3C 等领域"
+    },
+    {
+      "name": "储能系统",
+      "source_product": "电池级碳酸锂/钛酸锂电池",
+      "quote": "并最终应用于新能源汽车、储能、3C 等领域...可广泛应用于储能、电网调频/调峰及无功补偿、再生能源并网、轨道交通、港口机械、家用储能、极寒地区室外电源、工程机械、重型卡车、高功率装备、数据中心UPS电源、特种工业设备UPS电源等领域"
+    },
+    {
+      "name": "轨道交通、港口机械、工程机械、重型卡车等",
+      "source_product": "钛酸锂电池",
+      "quote": "同上"
+    },
+    {
+      "name": "AI液冷散热系统、智能机器人、半导体电解抛光管",
+      "source_product": "特殊性能的棒线材产品",
+      "quote": "特殊性能的棒线材产品被应用于 AI 液冷散热系统的分歧管、水冷快接头，智能机器人的连接件、腱绳、夹持器，半导体电解抛光管等部件"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "高兴江",
+      "role": "董事长、总经理",
+      "quote": "公司负责人高兴江、主管会计工作负责人张骅...高兴江，男，1963年11月出生，中国国籍，工商管理硕士，高级经济师。"
+    },
+    {
+      "name": "邹伟民",
+      "role": "董事",
+      "quote": "邹伟民 董事...2022年8月至今任本公司董事"
+    },
+    {
+      "name": "杨国华",
+      "role": "职工代表董事",
+      "quote": "杨国华 职工代表董事...2025年9月至今任本公司职工代表董事"
+    },
+    {
+      "name": "姚国华",
+      "role": "董事",
+      "quote": "姚国华 董事...2025年9月至今任本公司董事"
+    },
+    {
+      "name": "郑卓群",
+      "role": "董事",
+      "quote": "郑卓群 董事...2023年2月至今任本公司董事"
+    },
+    {
+      "name": "李郑周",
+      "role": "董事",
+      "quote": "李郑周 董事...2019年9月至今任本公司董事"
+    },
+    {
+      "name": "朱光",
+      "role": "独立董事",
+      "quote": "朱光 独立董事...2025年9月至今任本公司独立董事"
+    },
+    {
+      "name": "叶芙蕾",
+      "role": "独立董事",
+      "quote": "叶芙蕾 独立董事...2025年9月至今任本公司独立董事"
+    },
+    {
+      "name": "徐宇辰",
+      "role": "独立董事",
+      "quote": "徐宇辰 独立董事...2025年9月至今任本公司独立董事"
+    },
+    {
+      "name": "高亦斌",
+      "role": "副总经理",
+      "quote": "高亦斌 副总经理...2018年4月至今任本公司副总经理"
+    },
+    {
+      "name": "李永东",
+      "role": "副总经理",
+      "quote": "李永东 副总经理...2025年9月至今任本公司副总经理"
+    },
+    {
+      "name": "顾晓暾",
+      "role": "副总经理",
+      "quote": "顾晓暾 副总经理...2024年4月至今任本公司副总经理"
+    },
+    {
+      "name": "张骅",
+      "role": "财务负责人",
+      "quote": "张骅 财务负责人...2022年8月至今任本公司财务负责人"
+    },
+    {
+      "name": "沈毅",
+      "role": "董事会秘书",
+      "quote": "沈毅 董事会秘书...2025年9月至今任本公司董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江久立特材科技股份有限公司（久立特材）",
+      "relation_type": "customer",
+      "business_details": "公司向其销售不锈钢棒线材等；同时，久立特材为持有公司股份5%以上股东。",
+      "quote": "客户1 为过去十二个月内持有公司股份 5%以上股东久立特材（包含控股子公司）及其关联方...公司向其销售不锈钢棒线材等"
+    },
+    {
+      "name": "浙江久立特材科技股份有限公司（久立特材）",
+      "relation_type": "supplier",
+      "business_details": "公司向其采购产品及物资、镍板、镍铁、高碳铬铁等。",
+      "quote": "供应商3 为过去十二个月内持有公司股份5%以上股东久立特材（包含控股子公司）及其关联方...公司向其采购产品及物资...采购镍板、镍铁、高碳铬铁等"
+    },
+    {
+      "name": "江西永兴特钢新能源科技有限公司（永兴新能源）",
+      "relation_type": "subsidiary",
+      "business_details": "公司锂电新能源业务的主要运营主体，从事碳酸锂生产。",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...永兴新能源 子公司 无机盐化工业"
+    },
+    {
+      "name": "湖州永兴特种不锈钢有限公司（永兴特钢）",
+      "relation_type": "subsidiary",
+      "business_details": "公司特钢新材料业务的主要运营主体之一。",
+      "quote": "永兴特钢 子公司 黑色金属冶炼和压延加工业"
+    },
+    {
+      "name": "江西永诚锂业科技有限公司（永诚锂业）",
+      "relation_type": "subsidiary",
+      "business_details": "公司锂电新能源业务的子公司。",
+      "quote": "永诚锂业 子公司 非金属矿物制品业"
+    },
+    {
+      "name": "湖州久立永兴特种合金材料有限公司（永兴合金）",
+      "relation_type": "joint_venture",
+      "business_details": "公司为参股公司提供担保。公司与久立特材共同成立技术创新中心。",
+      "quote": "公司为合金公司向银行申请授信额度提供最高额不超过26,460.00万元担保...与钢铁研究总院、久立特材、永兴合金共同成立技术创新中心"
+    },
+    {
+      "name": "久立集团股份有限公司（久立集团）",
+      "relation_type": "investor",
+      "business_details": "李郑周先生任久立集团副董事长，并任公司董事。",
+      "quote": "李郑周...现任...久立集团股份有限公司副董事长...2019年9月至今任本公司董事"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "特钢新材料业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "5,533,879,250.25元",
+      "revenue_proportion": "74.55%",
+      "gross_margin": "10.71%",
+      "yoy_change": "营业收入同比下降2.20%",
+      "quote": "分行业：特钢新材料业务 5,533,879,250.25 74.55%...特钢新材料业务 5,533,879,250.25 4,941,156,271.32 10.71% -2.20%"
+    },
+    {
+      "name": "锂电新能源业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,889,217,145.58元",
+      "revenue_proportion": "25.45%",
+      "gross_margin": "30.71%",
+      "yoy_change": "营业收入同比下降21.78%",
+      "quote": "分行业：锂电新能源业务 1,889,217,145.58 25.45%...锂电新能源业务 1,889,217,145.58 1,309,043,425.04 30.71% -21.78%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "7,371,816,929.18元",
+      "revenue_proportion": "99.31%",
+      "gross_margin": null,
+      "yoy_change": "同比下降7.94%",
+      "quote": "分地区：境内 7,371,816,929.18 99.31%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "51,279,466.65元",
+      "revenue_proportion": "0.69%",
+      "gross_margin": null,
+      "yoy_change": "同比下降22.63%",
+      "quote": "分地区：境外 51,279,466.65 0.69%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "特钢新材料",
+      "metric_type": "sales_volume",
+      "value": "312,451吨",
+      "period": "2025年",
+      "quote": "特钢新材料业务 销售量 吨 312,451"
+    },
+    {
+      "product": "特钢新材料",
+      "metric_type": "production_volume",
+      "value": "314,126吨",
+      "period": "2025年",
+      "quote": "特钢新材料业务 生产量 吨 314,126"
+    },
+    {
+      "product": "特钢新材料",
+      "metric_type": "inventory_volume",
+      "value": "7,097吨",
+      "period": "2025年末",
+      "quote": "特钢新材料业务 库存量 吨 7,097"
+    },
+    {
+      "product": "锂电新能源（碳酸锂）",
+      "metric_type": "sales_volume",
+      "value": "25,051吨",
+      "period": "2025年",
+      "quote": "锂电新能源业务 销售量 吨 25,051"
+    },
+    {
+      "product": "锂电新能源（碳酸锂）",
+      "metric_type": "production_volume",
+      "value": "24,823吨",
+      "period": "2025年",
+      "quote": "锂电新能源业务 生产量 吨 24,823"
+    },
+    {
+      "product": "锂电新能源（碳酸锂）",
+      "metric_type": "inventory_volume",
+      "value": "225吨",
+      "period": "2025年末",
+      "quote": "锂电新能源业务 库存量 吨 225"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "白市化山瓷石矿年采900万吨改扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "江西省宜丰县",
+      "investment_amount": "截至报告期末累计实际投入金额3064.30万元，本报告期投入549.79万元",
+      "designed_capacity": null,
+      "progress": "进度17.00%",
+      "expected_completion_time": null,
+      "quote": "白市化山瓷石矿年采900万吨改扩建项目...截至报告期末累计实际投入金额30,643,007.55...进度17.00%"
+    },
+    {
+      "name": "矿石胶带运输管廊及矿山配套项目",
+      "project_type": "capacity_expansion",
+      "location": "江西省宜丰县",
+      "investment_amount": "截至报告期末累计实际投入金额3047.02万元",
+      "designed_capacity": null,
+      "progress": "进度8.00%",
+      "expected_completion_time": null,
+      "quote": "矿石胶带运输管廊及矿山配套项目...截至报告期末累计实际投入金额30,470,220.66...进度8.00%"
+    },
+    {
+      "name": "锂云母绿色智能高效提锂综合技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "截至报告期末累计实际投入金额1.84亿元",
+      "designed_capacity": null,
+      "progress": "进度70.00%",
+      "expected_completion_time": "预计2026年01月21日",
+      "quote": "锂云母绿色智能高效提锂综合技改项目...截至报告期末累计实际投入金额183,532,235.01...进度70.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "不锈钢相关有效专利",
+      "asset_type": "patent",
+      "related_product": "不锈钢棒线材",
+      "quantitative_info": "106件，其中发明专利59件",
+      "quote": "公司拥有不锈钢相关有效专利 106 件，其中发明专利 59 件"
+    },
+    {
+      "name": "选矿及碳酸锂制备相关专利",
+      "asset_type": "patent",
+      "related_product": "电池级碳酸锂",
+      "quantitative_info": "71项，其中发明专利20项",
+      "quote": "公司拥有选矿及碳酸锂制备相关专利 71 项，其中发明专利 20 项"
+    },
+    {
+      "name": "复合盐低温焙烧技术",
+      "asset_type": "core_technology",
+      "related_product": "电池级碳酸锂",
+      "quantitative_info": null,
+      "quote": "公司采用的复合盐低温焙烧技术，固氟技术先进，固氟率高，大大减少设备腐蚀"
+    },
+    {
+      "name": "先成型后隧道窑焙烧工艺",
+      "asset_type": "process_technology",
+      "related_product": "电池级碳酸锂",
+      "quantitative_info": null,
+      "quote": "采用的先成型后隧道窑焙烧工艺，温度控制更精准稳定，有利于锂的转化反应，大幅提升锂的浸出率"
+    },
+    {
+      "name": "回转窑焙烧工艺（新一代）",
+      "asset_type": "process_technology",
+      "related_product": "电池级碳酸锂",
+      "quantitative_info": null,
+      "quote": "积极实施锂云母绿色智能高效提锂综合技改项目，通过引入先进环保技术、优化生产流程与装备配置，采用新一代回转窑焙烧工艺"
+    },
+    {
+      "name": "分段磨矿技术",
+      "asset_type": "core_technology",
+      "related_product": "电池级碳酸锂",
+      "quantitative_info": null,
+      "quote": "公司根据自有矿产资源属性，自主研发了分段磨矿技术，有效增加选矿阶段锂云母收得率"
+    },
+    {
+      "name": "CNAS认证（中国合格评定国家认可委员会）",
+      "asset_type": "certification",
+      "related_product": "不锈钢棒线材",
+      "quantitative_info": null,
+      "quote": "公司特种不锈钢研究院下属的理化检测中心已通过了中国合格评定国家认可委员会（CNAS）认证"
+    },
+    {
+      "name": "船级社认证（CCS, DNV, LR, ABS, BV, PED&AD）",
+      "asset_type": "certification",
+      "related_product": "不锈钢棒线材",
+      "quantitative_info": null,
+      "quote": "目前已经取得中国船级社（CCS）、挪威船级社（DNV）、英国劳氏船级社（LR）、美国船级社（ABS）、法国船级社（BV）、德国莱茵（PED＆AD）等产品认证"
+    },
+    {
+      "name": "IATF16949, API Spec Q1等质量体系认证",
+      "asset_type": "certification",
+      "related_product": "不锈钢棒线材",
+      "quantitative_info": null,
+      "quote": "汽车行业IATF16949和石油天然气行业API Spec Q1质量体系等认证"
+    },
+    {
+      "name": "国家级“绿色工厂”认定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "永兴特钢取得国家级“绿色工厂”“引领型钢铁规范企业”认定"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "24.96%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 24.96%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "10.30%",
+      "related_entity": "久立特材（包含控股子公司）及其关联方",
+      "period": "2025年",
+      "quote": "客户1 764,383,304.10 10.30%...客户 1 为过去十二个月内持有公司股份 5%以上股东久立特材（包含控股子公司）及其关联方。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.12%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 29.12%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "9.13%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "供应商1 578,854,080.92 9.13%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司特钢新材料业务的主要原材料为不锈废钢、镍合金和铬铁合金等，原材料价格的波动会对公司的生产经营带来一定影响。",
+      "related_entity": null,
+      "related_product": "不锈钢棒线材",
+      "quote": "公司的主要原材料为不锈废钢、镍合金和铬铁合金等...原材料价格的波动会对公司的生产经营带来一定影响"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "中高端不锈钢产品领域对生产企业的要求高，但行业内企业持续加大对产品开发和市场推广的力度，市场竞争日趋激烈。",
+      "related_entity": null,
+      "related_product": "不锈钢棒线材",
+      "quote": "中高端不锈钢产品领域对生产企业的要求高，行业进入门槛较高，但行业内企业持续加大对产品开发和市场推广的力度，市场竞争日趋激烈"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "碳酸锂价格走势和市场需求密切相关，若未来锂电材料企业扩产、行业内新增产能陆续释放，或下游需求显著不及预期，电池级碳酸锂价格大幅下跌或长期低迷，将对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": "电池级碳酸锂",
+      "quote": "如未来锂电材料企业扩产、行业内新增产能陆续释放，或下游需求显著不及预期，供求关系发生剧烈变化，电池级碳酸锂价格大幅下跌或者长期低迷，则可能导致公司销量下滑、售价下跌，从而对公司的经营业绩产生不利影响"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "目前锂电材料是新能源汽车及储能设备等行业使用最为广泛的产品，但随着各类提锂技术发展，如果未来出现完全优于公司技术路线的锂电材料，或出现更具竞争力的新能源材料替代目前的锂电材料，将对公司未来盈利产生不利影响。",
+      "related_entity": null,
+      "related_product": "电池级碳酸锂",
+      "quote": "随着各类提锂技术发展，如果未来出现完全优于公司技术路线的锂电材料，则可能导致公司锂电新能源产品现有竞争优势弱化；或一旦出现能源技术变革，产生更具竞争力的新能源材料替代目前的锂电材料，则可能出现公司锂电新能源产品需求市场规模紧缩"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司锂离子电池业务仍处于运营初期，如未来下游行业需求显著不及预期，或者出现新的技术变革产生完全优于公司锂离子电池的产品，都将给锂离子电池项目运营带来不利影响。",
+      "related_entity": null,
+      "related_product": "钛酸锂电池",
+      "quote": "虽然公司锂离子电池产品拥有...优点...但公司锂离子电池业务仍处于运营初期，如未来公司锂离子电池产品下游行业需求显著不及预期，或者出现新的技术变革产生完全优于公司锂离子电池的产品，都将给锂离子电池项目运营带来不利影响"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "新《矿产资源法》实施，锂矿作为战略性矿产资源，开采门槛提高，资源端成为产业链核心壁垒。",
+      "related_entity": null,
+      "related_product": "锂瓷石矿/碳酸锂",
+      "quote": "2025年7月新《矿产资源法》实施，锂矿作为战略性矿产资源，开采门槛提高，资源端成为产业链核心壁垒"
+    }
+  ]
+}

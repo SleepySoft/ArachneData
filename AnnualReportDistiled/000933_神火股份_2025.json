@@ -1,0 +1,543 @@
+{
+  "company_name_mentioned": "河南神火煤电股份有限公司",
+  "produces": [
+    {
+      "name": "电解铝（液铝和铝锭）",
+      "type": "material",
+      "revenue_proportion": "2025年收入28,978,868,617.76元，占营业收入比重70.27%",
+      "quote": "电解铝业务的主要产品为液铝和铝锭，主要运用于建筑、电力、交通运输等行业。...电解铝 28,978,868,617.76 70.27"
+    },
+    {
+      "name": "煤炭（无烟煤、贫瘦煤，包括精煤、块煤、洗混煤等）",
+      "type": "material",
+      "revenue_proportion": "2025年收入5,596,342,300.95元，占营业收入比重13.57%",
+      "quote": "煤炭业务的主要产品为无烟煤、贫瘦煤...产品种类分为精煤、块煤、洗混煤等...煤炭 5,596,342,300.95 13.57"
+    },
+    {
+      "name": "铝箔（电池铝箔、包装箔）",
+      "type": "component",
+      "revenue_proportion": "2025年收入2,865,444,383.93元，占营业收入比重6.95%",
+      "quote": "铝箔业务的主要产品为电池铝箔、包装箔...铝箔 2,865,444,383.93 6.95"
+    },
+    {
+      "name": "铝箔坯料",
+      "type": "component",
+      "revenue_proportion": "2025年收入2,052,604,915.59元，占营业收入比重4.98%",
+      "quote": "铝箔坯料 2,052,604,915.59 4.98"
+    },
+    {
+      "name": "阳极炭块",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "新疆炭素、云南炭素主要生产阳极炭块。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电力",
+      "target_product": "电解铝",
+      "cost_proportion": "燃料及动力成本占有色金属冶炼和压延加工业营业成本的19.35%",
+      "quote": "原材料 16,817,023,264.20 53.21 ... 燃料及动力 6,115,809,688.58 19.35 ... 云南电解铝项目利用绿色无污染的水电作为主要能源"
+    },
+    {
+      "name": "氧化铝",
+      "target_product": "电解铝",
+      "cost_proportion": null,
+      "quote": "公司主要原材料氧化铝主要依赖外购"
+    },
+    {
+      "name": "原材料（泛指）",
+      "target_product": null,
+      "cost_proportion": "原材料成本占有色金属冶炼和压延加工业营业成本的53.21%",
+      "quote": "原材料 16,817,023,264.20 53.21"
+    },
+    {
+      "name": "能源（泛指）",
+      "target_product": null,
+      "cost_proportion": "燃料及动力成本占采掘业营业成本的1.29%",
+      "quote": "燃料及动力 408,487,304.53 1.29"
+    }
+  ],
+  "applications": [
+    {
+      "name": "建筑、电力、交通运输行业",
+      "source_product": "电解铝",
+      "quote": "电解铝业务的主要产品为液铝和铝锭，主要运用于建筑、电力、交通运输等行业。"
+    },
+    {
+      "name": "冶金、化工、电力行业",
+      "source_product": "煤炭",
+      "quote": "煤炭业务的主要产品为无烟煤、贫瘦煤...主要应用于冶金、化工、电力等行业。"
+    },
+    {
+      "name": "新能源电池、食品、医药行业",
+      "source_product": "铝箔",
+      "quote": "铝箔业务的主要产品为电池铝箔、包装箔，主要运用于新能源电池、食品、医药等行业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘德学",
+      "role": "董事长",
+      "quote": "公司负责人刘德学先生"
+    },
+    {
+      "name": "张文章",
+      "role": "总经理",
+      "quote": "张文章 男 48 总经理"
+    },
+    {
+      "name": "陈光",
+      "role": "总会计师",
+      "quote": "陈光 先生...主管会计工作负责人"
+    },
+    {
+      "name": "李元勋",
+      "role": "董事会秘书",
+      "quote": "李元勋 男 46 董事会秘书"
+    },
+    {
+      "name": "常振",
+      "role": "副总经理",
+      "quote": "常振 男 56 副总经理"
+    },
+    {
+      "name": "刘京领",
+      "role": "副总经理",
+      "quote": "刘京领 男 55 副总经理"
+    },
+    {
+      "name": "刘子成",
+      "role": "副总经理",
+      "quote": "刘子成 男 54 副总经理"
+    },
+    {
+      "name": "曹广远",
+      "role": "安全监察与应急管理局局长",
+      "quote": "曹广远 男 55 安全监察与应急管理局局长"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "河南神火集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "神火集团、控股股东 指 河南神火集团有限公司"
+    },
+    {
+      "name": "新疆神火煤电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产电解铝",
+      "quote": "新疆煤电 指 新疆神火煤电有限公司"
+    },
+    {
+      "name": "云南神火铝业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产电解铝",
+      "quote": "云南神火 指 云南神火铝业有限公司"
+    },
+    {
+      "name": "新疆神火炭素制品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产阳极炭块",
+      "quote": "新疆炭素 指 新疆神火炭素制品有限公司"
+    },
+    {
+      "name": "云南神火炭素有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产阳极炭块",
+      "quote": "云南炭素 指 云南神火炭素有限公司"
+    },
+    {
+      "name": "神火新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产电池铝箔",
+      "quote": "神火新材 指 神火新材料科技有限公司"
+    },
+    {
+      "name": "上海神火铝箔有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产包装箔",
+      "quote": "上海铝箔 指 上海神火铝箔有限公司"
+    },
+    {
+      "name": "商丘阳光铝材有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产铝箔坯料",
+      "quote": "阳光铝材 指 商丘阳光铝材有限公司"
+    },
+    {
+      "name": "云南神火新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产铝箔坯料",
+      "quote": "云南新材 指 云南神火新材料科技有限公司"
+    },
+    {
+      "name": "广西龙州新翔生态铝业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "对净利润影响达10%以上的参股公司",
+      "quote": "龙州铝业 指 广西龙州新翔生态铝业有限公司"
+    },
+    {
+      "name": "新疆皓粤铝业有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年销售额4,780,112,315.81元，占年度销售总额11.59%",
+      "quote": "新疆皓粤铝业有限公司 4,780,112,315.81 11.59"
+    },
+    {
+      "name": "云南桂铝铝业有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年销售额3,723,010,736.91元，占年度销售总额9.03%",
+      "quote": "云南桂铝铝业有限公司 3,723,010,736.91 9.03"
+    },
+    {
+      "name": "云南电网有限责任公司文山供电局",
+      "relation_type": "supplier",
+      "business_details": "2025年采购额4,944,704,698.50元，占年度采购总额15.63%",
+      "quote": "云南电网有限责任公司文山供电局 4,944,704,698.50 15.63"
+    },
+    {
+      "name": "山东信发华源贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "2025年采购额2,601,679,084.03元，占年度采购总额8.23%",
+      "quote": "山东信发华源贸易有限公司 2,601,679,084.03 8.23"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "有色金属冶炼和压延加工",
+      "segment_type": "product_line",
+      "revenue_amount": "33,910,092,992.83元",
+      "revenue_proportion": "82.22%",
+      "gross_margin": "26.41%",
+      "yoy_change": "13.50%",
+      "quote": "有色金属冶炼和压延加工 33,910,092,992.83 82.22 ... 毛利率（%） 26.41"
+    },
+    {
+      "name": "采掘业",
+      "segment_type": "product_line",
+      "revenue_amount": "5,601,611,013.93元",
+      "revenue_proportion": "13.58%",
+      "gross_margin": "7.70%",
+      "yoy_change": "-18.94%",
+      "quote": "采掘业 5,601,611,013.93 13.58 ... 毛利率（%） 7.70"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "8,862,258,671.66元",
+      "revenue_proportion": "21.49%",
+      "gross_margin": "11.03%",
+      "yoy_change": "-37.00%",
+      "quote": "华东地区 8,862,258,671.66 21.49 ... 毛利率（%） 11.03"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "7,020,196,145.44元",
+      "revenue_proportion": "17.02%",
+      "gross_margin": "22.04%",
+      "yoy_change": "-15.67%",
+      "quote": "华中地区 7,020,196,145.44 17.02 ... 毛利率（%） 22.04"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "10,692,113,581.73元",
+      "revenue_proportion": "25.93%",
+      "gross_margin": "29.94%",
+      "yoy_change": "137.98%",
+      "quote": "西北地区 10,692,113,581.73 25.93 ... 毛利率（%） 29.94"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "11,205,849,047.54元",
+      "revenue_proportion": "27.17%",
+      "gross_margin": "28.75%",
+      "yoy_change": "91.76%",
+      "quote": "西南地区 11,205,849,047.54 27.17 ... 毛利率（%） 28.75"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电解铝",
+      "metric_type": "capacity",
+      "value": "170万吨/年（新疆煤电80万吨/年、云南神火90万吨/年）",
+      "period": "截至2025年12月31日",
+      "quote": "公司电解铝产能170万吨/年（新疆煤电80万吨/年、云南神火90万吨/年）"
+    },
+    {
+      "product": "阳极炭块",
+      "metric_type": "capacity",
+      "value": "80万吨/年（新疆炭素40万吨/年、云南炭素40万吨/年）",
+      "period": "截至2025年12月31日",
+      "quote": "阳极炭块产能80万吨/年（新疆炭素40万吨/年、云南炭素40万吨/年）"
+    },
+    {
+      "product": "铝箔",
+      "metric_type": "capacity",
+      "value": "14万吨/年（神火新材11.5万吨/年、上海铝箔2.5万吨/年）",
+      "period": "截至2025年12月31日",
+      "quote": "公司铝箔产能14万吨/年（神火新材11.5万吨/年、上海铝箔2.5万吨/年）"
+    },
+    {
+      "product": "铝箔坯料",
+      "metric_type": "capacity",
+      "value": "26.5万吨/年（阳光铝材15.5万吨/年、云南新材11万吨/年）",
+      "period": "截至2025年12月31日",
+      "quote": "铝箔坯料产能26.5万吨/年（阳光铝材15.5万吨/年、云南新材11万吨/年）"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "capacity",
+      "value": "核定产能855.00万吨",
+      "period": "截至2025年12月31日",
+      "quote": "核定产能（万吨）...合计 855.00"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "production_volume",
+      "value": "716.53万吨",
+      "period": "2025年度",
+      "quote": "生产煤炭716.53万吨"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "sales_volume",
+      "value": "721.68万吨",
+      "period": "2025年度",
+      "quote": "销售721.68万吨"
+    },
+    {
+      "product": "电解铝",
+      "metric_type": "production_volume",
+      "value": "首次满产",
+      "period": "2025年度",
+      "quote": "2025年度公司电解铝首次满产"
+    },
+    {
+      "product": "铝箔",
+      "metric_type": "production_volume",
+      "value": "10.83万吨",
+      "period": "2025年度",
+      "quote": "生产铝箔10.83万吨"
+    },
+    {
+      "product": "铝箔",
+      "metric_type": "sales_volume",
+      "value": "10.74万吨",
+      "period": "2025年度",
+      "quote": "销售10.74万吨"
+    },
+    {
+      "product": "碳素产品",
+      "metric_type": "production_volume",
+      "value": "57.75万吨",
+      "period": "2025年度",
+      "quote": "生产碳素产品57.75万吨"
+    },
+    {
+      "product": "碳素产品",
+      "metric_type": "sales_volume",
+      "value": "57.02万吨",
+      "period": "2025年度",
+      "quote": "销售57.02万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "裕中煤业煤矿建设工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "累计实际投入2,896,810,642.87元",
+      "designed_capacity": null,
+      "progress": "项目进度61.60%",
+      "expected_completion_time": null,
+      "quote": "裕中煤业煤矿建设工程...累计实际投入金额 2,896,810,642.87...项目进度（%） 61.60"
+    },
+    {
+      "name": "云南新材绿色新能源铝箔项目",
+      "project_type": "capacity_expansion",
+      "location": "云南",
+      "investment_amount": "累计实际投入709,162,421.81元",
+      "designed_capacity": "年产11万吨绿色新能源铝箔坯料",
+      "progress": "项目进度25.21%，一期铝箔坯料项目已于报告期内建成投产",
+      "expected_completion_time": null,
+      "quote": "云南新材绿色新能源铝箔项目...累计实际投入金额 709,162,421.81...项目进度（%） 25.21...云南新材年产 11 万吨绿色新能源铝箔坯料项目达到预定可使用状态"
+    },
+    {
+      "name": "云南神火炭素项目",
+      "project_type": "capacity_expansion",
+      "location": "云南",
+      "investment_amount": "累计实际投入1,072,823,806.03元",
+      "designed_capacity": "年产40万吨炭素",
+      "progress": "项目进度76.44%，已于报告期内建成投产",
+      "expected_completion_time": null,
+      "quote": "云南神火炭素项目...累计实际投入金额 1,072,823,806.03...项目进度（%） 76.44...云南炭素年产 40 万吨炭素项目达到预定可使用状态"
+    },
+    {
+      "name": "新疆80万KW风电项目",
+      "project_type": "capacity_expansion",
+      "location": "新疆",
+      "investment_amount": null,
+      "designed_capacity": "80万KW",
+      "progress": "已实现首期并网发电",
+      "expected_completion_time": null,
+      "quote": "新疆煤电与中国电力国际发展有限公司合作，共同投资建设80万KW风电项目以实现绿电替代，目前项目已实现首期并网发电"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "退火炉节能新工艺技术的研究及应用",
+      "asset_type": "core_technology",
+      "related_product": "铝加工",
+      "quantitative_info": "炉内温度波动范围控制在±3℃以内，降低炉体表面温度",
+      "quote": "退火炉节能新工艺技术的研究及应用...完成"
+    },
+    {
+      "name": "碳中和背景下电解铝提效降耗、节能降碳的研究",
+      "asset_type": "core_technology",
+      "related_product": "电解铝",
+      "quantitative_info": "电流效率达到92.5%以上；铝液可比交流电耗达到13300kWh/t-AL以下",
+      "quote": "碳中和背景下电解铝提效降耗、节能降碳的研究...完成"
+    },
+    {
+      "name": "铝电解循环物料纯净技术的研究",
+      "asset_type": "core_technology",
+      "related_product": "电解铝",
+      "quantitative_info": "碳块、铝块杂物识别率99%以上；智能机器人抓取准确率90%以上",
+      "quote": "铝电解循环物料纯净技术的研究...完成"
+    },
+    {
+      "name": "降低氟化铝消耗的技术研究",
+      "asset_type": "core_technology",
+      "related_product": "电解铝",
+      "quantitative_info": "将氟化铝吨铝消耗稳定在16.5公斤以下",
+      "quote": "降低氟化铝消耗的技术研究...完成"
+    },
+    {
+      "name": "0.0053mm电容器箔开发与研究",
+      "asset_type": "core_technology",
+      "related_product": "铝箔",
+      "quantitative_info": "开发并能量产5.3μm超薄电容器箔产品",
+      "quote": "0.0053mm电容器箔开发与研究...完成"
+    },
+    {
+      "name": "1235D合金8μm双面光电池箔开发工艺研究",
+      "asset_type": "core_technology",
+      "related_product": "铝箔",
+      "quantitative_info": "开发并能量产1235D合金8μm电池箔产品",
+      "quote": "1235D合金8μm双面光电池箔开发工艺研究...完成"
+    },
+    {
+      "name": "提高电晕速度的技术研究",
+      "asset_type": "core_technology",
+      "related_product": "铝箔",
+      "quantitative_info": "将电晕机运行速度从原有120m/min提升至200m/min",
+      "quote": "提高电晕速度的技术研究...完成"
+    },
+    {
+      "name": "靶向精细探查技术应用与研究",
+      "asset_type": "core_technology",
+      "related_product": "煤炭",
+      "quantitative_info": null,
+      "quote": "靶向精细探查技术应用与研究...完成"
+    },
+    {
+      "name": "钻扩抽一体化精准抽采关键技术及装备研究",
+      "asset_type": "core_technology",
+      "related_product": "煤炭",
+      "quantitative_info": null,
+      "quote": "钻扩抽一体化精准抽采关键技术及装备研究...完成"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.70%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例（%） 41.70"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "37.95%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例（%） 37.95"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "11.59%",
+      "related_entity": "新疆皓粤铝业有限公司",
+      "period": "2025年",
+      "quote": "新疆皓粤铝业有限公司 4,780,112,315.81 11.59"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "15.63%",
+      "related_entity": "云南电网有限责任公司文山供电局",
+      "period": "2025年",
+      "quote": "云南电网有限责任公司文山供电局 4,944,704,698.50 15.63"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司主营产品铝锭、煤炭及主要原材料氧化铝均属大宗商品，其市场价格受宏观经济形势、行业整体景气程度及市场供需基本面等多种因素影响，存在一定的价格波动风险，从而对公司的经营业绩造成影响。",
+      "related_entity": null,
+      "related_product": "铝锭、煤炭、氧化铝",
+      "quote": "公司主营产品铝锭、煤炭及主要原材料氧化铝均属大宗商品，其市场价格受宏观经济形势、行业整体景气程度及市场供需基本面等多种因素影响，存在一定的价格波动风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司是国内规模较大的电解铝生产企业，但主要原材料氧化铝主要依赖外购，导致公司电解铝生产成本会因上游产品价格波动受到较大影响。",
+      "related_entity": null,
+      "related_product": "氧化铝",
+      "quote": "公司是国内规模较大的电解铝生产企业，但主要原材料氧化铝主要依赖外购，导致公司电解铝生产成本会因上游产品价格波动受到较大影响"
+    },
+    {
+      "risk_type": "other",
+      "description": "后备资源储备不足的风险。虽然公司一直以来积极参与煤炭资源整合，但与同行业优势企业相比，煤炭资源储备相对较少，一定程度上制约了公司煤炭主业的进一步发展壮大。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "虽然公司一直以来积极参与煤炭资源整合，但与同行业优势企业相比，煤炭资源储备相对较少，一定程度上制约了公司煤炭主业的进一步发展壮大"
+    },
+    {
+      "risk_type": "other",
+      "description": "开采条件趋于复杂多变的风险。随着矿井开采深度增加，运转环节增多，且可能发生断层、涌水及其它地质条件变化，成本压力增大，将影响和制约公司煤炭板块的盈利能力。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "随着矿井开采深度增加，运转环节增多，且可能发生断层、涌水及其它地质条件变化，成本压力增大，将影响和制约公司煤炭板块的盈利能力"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "电价调整及限电风险。公司云南电解铝项目所需电力均来自网电，电力成本占总成本的比重较高，如电价上调将给公司生产经营带来不确定性；同时，云南地区发电以水电为主，发电量与来水密切相关，来水的不确定性可能给公司生产经营带来影响。",
+      "related_entity": null,
+      "related_product": "电解铝",
+      "quote": "公司云南电解铝项目所需电力均来自网电，电力成本占总成本的比重较高，如电价上调将给公司生产经营带来不确定性；同时，云南地区发电以水电为主，发电量与来水密切相关，来水的不确定性可能给公司生产经营带来影响"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环保风险。公司主营业务电解铝、煤炭和电力在生产过程中排放的废水、废气、废渣等废弃物中含有一定的有害物质，若治理不当会对周边土地、空气和水资源等方面造成不同程度的影响。随着国家在生态文明建设、环境保护方面的要求更加严格，公司面临的节能、减排、环保约束进一步加大。",
+      "related_entity": null,
+      "related_product": "电解铝、煤炭、电力",
+      "quote": "公司主营业务电解铝、煤炭和电力在生产过程中排放的废水、废气、废渣等废弃物中含有一定的有害物质...公司面临的节能、减排、环保约束进一步加大"
+    },
+    {
+      "risk_type": "other",
+      "description": "管理风险。公司持续推进一体化发展，通过并购和项目投资等方式，在产业链上下游同时推进，子公司数量较多，且分布于不同地区、分属于不同行业，对公司的经营管理水平要求较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司持续推进一体化发展...子公司数量较多，且分布于不同地区、分属于不同行业，对公司的经营管理水平要求较高"
+    },
+    {
+      "risk_type": "other",
+      "description": "金融衍生工具风险。公司铝产品和原材料氧化铝价格波动较大，需应用金融衍生工具（期货套期保值）应对市场价格波动的风险，可能由于机制不健全、管控不到位、误判市场走势、交易策略失当、未及时止损等原因，对公司财务状况和运营业绩产生重大影响。",
+      "related_entity": null,
+      "related_product": "电解铝、氧化铝",
+      "quote": "公司铝产品和原材料氧化铝价格波动较大，需应用金融衍生工具（期货套期保值）应对市场价格波动的风险"
+    }
+  ]
+}

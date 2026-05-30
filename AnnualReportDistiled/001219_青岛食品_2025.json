@@ -1,0 +1,491 @@
+{
+  "company_name_mentioned": "青岛食品股份有限公司",
+  "produces": [
+    {
+      "name": "钙奶饼干",
+      "type": "device",
+      "revenue_proportion": "84.15%",
+      "quote": "分产品 饼干产品 458,747,163.94 84.15%"
+    },
+    {
+      "name": "休闲饼干",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要产品包括“青食”品牌钙奶饼干、“青食”品牌休闲饼干和“海友”品牌花生酱"
+    },
+    {
+      "name": "花生酱",
+      "type": "material",
+      "revenue_proportion": "7.76%",
+      "quote": "分产品 花生酱 42,327,560.90 7.76%"
+    },
+    {
+      "name": "花生酱（OEM代工）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "同时亦通过OEM模式代工生产少量花生酱产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "钙奶饼干、休闲饼干、花生酱",
+      "cost_proportion": null,
+      "quote": "采购模式及采购内容 外部采购 原材料 182,041,429.60"
+    },
+    {
+      "name": "包装",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购模式及采购内容 外部采购 包装 37,935,945.10"
+    },
+    {
+      "name": "成品（外购）",
+      "target_product": "部分休闲饼干、豆馅、豆沙、面粉、挂面、月饼礼盒等",
+      "cost_proportion": null,
+      "quote": "采购模式及采购内容 外部采购 成品 84,741,623.07 公司少量产品采用委托加工再出售的模式"
+    },
+    {
+      "name": "燃料和动力",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购模式及采购内容 外部采购 燃料和动力 12,378,484.41"
+    }
+  ],
+  "applications": [],
+  "key_personnel": [
+    {
+      "name": "苏青林",
+      "role": "公司负责人、董事长、法定代表人",
+      "quote": "公司负责人苏青林、主管会计工作负责人程相伟...声明；股票上市证券交易所 深圳证券交易所 公司的法定代表人 苏青林"
+    },
+    {
+      "name": "程相伟",
+      "role": "主管会计工作负责人、财务负责人、董事",
+      "quote": "主管会计工作负责人程相伟... 2022年2月至今任公司财务负责人。"
+    },
+    {
+      "name": "胡沙沙",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）胡沙沙"
+    },
+    {
+      "name": "张松涛",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张松涛 2023年2月至今任公司董事会秘书、董事会办公室主任、战略投资部部长。"
+    },
+    {
+      "name": "王正",
+      "role": "职工代表董事、副总经理",
+      "quote": "职工代表董事 王正 男 53 事、副总经理"
+    },
+    {
+      "name": "于明洁",
+      "role": "董事",
+      "quote": "于明洁 男 44 董事 现任"
+    },
+    {
+      "name": "宁文红",
+      "role": "董事",
+      "quote": "宁文红 女 49 董事 现任"
+    },
+    {
+      "name": "解万翠",
+      "role": "独立董事",
+      "quote": "解万翠 女 56 独立董事 现任"
+    },
+    {
+      "name": "尹美群",
+      "role": "独立董事",
+      "quote": "尹美群 女 55 独立董事 现任"
+    },
+    {
+      "name": "霍中彦",
+      "role": "独立董事",
+      "quote": "霍中彦 男 45 独立董事 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "青岛华通国有资本投资运营集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东、实际控制人",
+      "quote": "控股股东、实际控制人、华通集团 指 青岛华通国有资本投资运营集团有限公司"
+    },
+    {
+      "name": "青岛青食有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事饼干等休闲食品的生产和销售",
+      "quote": "青食有限 指 青岛青食有限公司，公司控股子公司"
+    },
+    {
+      "name": "青岛天源科贸有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事批发、零售等",
+      "quote": "天源科贸 指 青岛天源科贸有限公司，公司全资子公司"
+    },
+    {
+      "name": "青岛海友汇泉食品科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事批发、零售等",
+      "quote": "海友汇泉 指 青岛海友汇泉食品科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "青岛汇泉海洋科技开发有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与公司合资设立青岛海友汇泉食品科技有限公司",
+      "quote": "拟与青岛汇泉海洋科技开发有限公司（以下简称“汇泉公司”）成立合资公司"
+    },
+    {
+      "name": "青岛钟表总公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，涉及房产产权转移的关联交易",
+      "quote": "因青岛钟表总公司属于公司关联方，本事项构成关联交易。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "食品行业",
+      "segment_type": "product_line",
+      "revenue_amount": "540,189,454.08",
+      "revenue_proportion": "99.09%",
+      "gross_margin": "39.24%",
+      "yoy_change": "3.47%",
+      "quote": "食品行业 540,189,454.08 99.09%"
+    },
+    {
+      "name": "饼干产品",
+      "segment_type": "product_line",
+      "revenue_amount": "458,747,163.94",
+      "revenue_proportion": "84.15%",
+      "gross_margin": "44.37%",
+      "yoy_change": "4.18%",
+      "quote": "分产品 饼干产品 458,747,163.94 84.15%"
+    },
+    {
+      "name": "花生酱",
+      "segment_type": "product_line",
+      "revenue_amount": "42,327,560.90",
+      "revenue_proportion": "7.76%",
+      "gross_margin": "10.89%",
+      "yoy_change": "-12.83%",
+      "quote": "分产品 花生酱 42,327,560.90 7.76%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "441,317,005.23",
+      "revenue_proportion": "80.95%",
+      "gross_margin": "42.22%",
+      "yoy_change": "5.24%",
+      "quote": "分地区 国内 441,317,005.23 80.95%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "36,137,406.73",
+      "revenue_proportion": "6.63%",
+      "gross_margin": "15.25%",
+      "yoy_change": "-14.18%",
+      "quote": "分地区 国外 36,137,406.73 6.63%"
+    },
+    {
+      "name": "线上销售",
+      "segment_type": "region",
+      "revenue_amount": "67,688,914.90",
+      "revenue_proportion": "12.42%",
+      "gross_margin": "35.80%",
+      "yoy_change": "5.11%",
+      "quote": "分地区 线上销售 67,688,914.90 12.42%"
+    },
+    {
+      "name": "国内经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "346,336,043.67",
+      "revenue_proportion": "63.53%",
+      "gross_margin": "41.86%",
+      "yoy_change": "-1.37%",
+      "quote": "分销售模式 国内经销 346,336,043.67 63.53%"
+    },
+    {
+      "name": "国内直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "115,795,191.00",
+      "revenue_proportion": "21.24%",
+      "gross_margin": "43.66%",
+      "yoy_change": "10.51%",
+      "quote": "分销售模式 国内直销 115,795,191.00 21.24%"
+    },
+    {
+      "name": "线上直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "27,099,992.39",
+      "revenue_proportion": "4.97%",
+      "gross_margin": "34.06%",
+      "yoy_change": "86.54%",
+      "quote": "分销售模式 线上直销 27,099,992.39 4.97%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "other",
+      "revenue_amount": "19,774,693.07",
+      "revenue_proportion": "3.63%",
+      "gross_margin": "29.28%",
+      "yoy_change": "48.71%",
+      "quote": "分销售模式 其他业务 19,774,693.07 3.63%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "饼干产品",
+      "metric_type": "production_volume",
+      "value": "32,561",
+      "period": "2025年",
+      "quote": "饼干产品 生产量 吨 32,561"
+    },
+    {
+      "product": "饼干产品",
+      "metric_type": "sales_volume",
+      "value": "32,383",
+      "period": "2025年",
+      "quote": "饼干产品 销售量 吨 32,383"
+    },
+    {
+      "product": "饼干产品",
+      "metric_type": "inventory_volume",
+      "value": "1,502",
+      "period": "2025年末",
+      "quote": "饼干产品 库存量 吨 1,502"
+    },
+    {
+      "product": "花生酱",
+      "metric_type": "production_volume",
+      "value": "2,623",
+      "period": "2025年",
+      "quote": "花生酱 生产量 吨 2,623"
+    },
+    {
+      "product": "花生酱",
+      "metric_type": "sales_volume",
+      "value": "2,613",
+      "period": "2025年",
+      "quote": "花生酱 销售量 吨 2,613"
+    },
+    {
+      "product": "花生酱",
+      "metric_type": "inventory_volume",
+      "value": "170",
+      "period": "2025年末",
+      "quote": "花生酱 库存量 吨 170"
+    },
+    {
+      "product": "外购产品",
+      "metric_type": "production_volume",
+      "value": "13,343",
+      "period": "2025年",
+      "quote": "外购产品 生产量 吨 13,343"
+    },
+    {
+      "product": "外购产品",
+      "metric_type": "sales_volume",
+      "value": "20,568",
+      "period": "2025年",
+      "quote": "外购产品 销售量 吨 20,568"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能化工厂改扩建项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "22,350.80",
+      "designed_capacity": "新建智能仓储中心和饼干生产线扩建",
+      "progress": "正在推进项目建设工作",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目 智能化工厂改扩建项目 22,350.80... 将该募投项目达到预定可使用状态日期延期至2026年12月31日。"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "8,550.83",
+      "designed_capacity": "研发检测场所建设和人才招聘",
+      "progress": "正在进行研发大楼建设筹备方案设计",
+      "expected_completion_time": "2026年10月31日",
+      "quote": "承诺投资项目 研发中心建设项目 8,550.83... 将该募投项目达到预定可使用状态日期延期至2026年10月31日。"
+    },
+    {
+      "name": "营销网络及信息化建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "4,831.06",
+      "designed_capacity": "省外营销网络建设、多渠道营销宣传投入、公司配套信息化系统升级",
+      "progress": "继续推进多渠道营销宣传，不断加强市场推广和广告宣传力度，同时持续进行信息化建设投入",
+      "expected_completion_time": "2026年10月31日",
+      "quote": "承诺投资项目 营销网络及信息化建设项目 4,831.06... 将该募投项目达到预定可使用状态日期延期至2026年10月31日。"
+    },
+    {
+      "name": "投资新设合资公司（青岛海友汇泉食品科技有限公司）",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "510",
+      "designed_capacity": "主营业务为销售海洋休闲产品、青岛伴手礼等预包装休闲食品及青岛特色旅游文创产品",
+      "progress": "2025年7月9日，已完成工商登记",
+      "expected_completion_time": null,
+      "quote": "拟与青岛汇泉海洋科技开发有限公司（以下简称“汇泉公司”）成立合资公司，合资公司注册资本为人民币1,000万元，其中公司以自有资金认缴合计510万元... 2025年7月9日，已完成工商登记，合资公司名称为青岛海友汇泉食品科技有限公司。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "1项（2025年12月26日终止）",
+      "quote": "截至2025年报告期末，公司累计拥有发明专利1项（2025年12月26日终止）"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "5项",
+      "quote": "实用新型专利5项"
+    },
+    {
+      "name": "外观专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "4项",
+      "quote": "外观专利4项"
+    },
+    {
+      "name": "GB/T 20980《饼干质量通则》",
+      "asset_type": "standard",
+      "related_product": "饼干",
+      "quantitative_info": null,
+      "quote": "作为国家标准制定者，公司参与制定了GB/T 20980《饼干质量通则》"
+    },
+    {
+      "name": "QB/T 1733.1-QB/T 1733.7花生制品系列行业标准",
+      "asset_type": "standard",
+      "related_product": "花生制品",
+      "quantitative_info": null,
+      "quote": "并主导参与了QB/T 1733.1-QB/T 1733.7花生制品系列行业标准的制定"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已通过ISO9001质量管理体系认证"
+    },
+    {
+      "name": "HACCP认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "HACCP认证"
+    },
+    {
+      "name": "ISO22000食品安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO22000食品安全管理体系认证"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO14001环境管理体系认证"
+    },
+    {
+      "name": "BRCGS体系认证",
+      "asset_type": "certification",
+      "related_product": "花生酱",
+      "quantitative_info": null,
+      "quote": "其中花生酱生产通过BRCGS体系认证"
+    },
+    {
+      "name": "省级技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司设立省级技术中心"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.11%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.11%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "8.00%",
+      "related_entity": "客户1",
+      "period": "2025年度",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户1 43,621,402.17 8.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "30.71%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 30.71%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "11.88%",
+      "related_entity": "供应商1",
+      "period": "2025年度",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商1 36,448,227.32 11.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全风险。若供应商向公司出售不合格原材料且公司未能检验发现，或公司在生产、储存、销售环节有所疏漏，均可能导致食品安全问题的发生，从而对公司声誉和业绩造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）食品安全风险 公司系食品制造业企业...若供应商向公司出售不合格原材料且公司未能检验发现，或公司在领料、生产、人员卫生管理、工艺控制、产品检验等环节有所疏漏...均可能导致食品安全问题的发生，从而对公司声誉和业绩造成不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "品牌被侵害的风险。存在不法厂商采用与公司相似的商标和外包装以生产销售与公司相近产品的情形，可能侵占公司的市场份额并降低公司的市场声誉。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）品牌被侵害的风险 基于公司已形成的品牌效应，可能存在或发生不法厂商采用与公司相似的商标和外包装以生产销售与公司相近产品的情形...进而对公司生产经营和盈利能力带来不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "经销模式引致的风险。若经销商怠于开拓和维护市场区域，或不遵从公司的价格体系，或违反经销协议约定而窜货销售，将有损于公司的经销网络体系、整体市场覆盖和产品品牌形象。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）经销模式引致的风险 公司的销售模式以经销模式为主...若经销商怠于开拓和维护其所负责的市场区域，或不遵从公司的价格体系，抑或违反经销协议约定而擅自在负责区域外窜货销售，都将有损于公司的经销网络体系、整体市场覆盖和产品品牌形象，进而对公司的经营业绩造成不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "销售区域集中的风险。销售渠道的拓展和消费者习惯的培养需要一定时间，公司销售区域集中的现状在短期内预计仍将存在。若山东省内的市场环境、居民可支配收入、消费习惯、人口结构等发生重大不利变化，均将对公司的生产经营和业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）销售区域集中的风险 虽公司致力于开拓发展山东省外市场...但销售渠道的拓展和消费者习惯的培养需要一定时间，公司销售区域集中的现状在短期内预计仍将存在。因此，若山东省内的市场环境、居民可支配收入、消费习惯、人口结构等发生重大不利变化，均将对公司的生产经营和业绩产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "跨区域经营的风险。未来公司将大力开拓省外市场，但由于我国地域广阔，各地区经济发展程度、消费者的消费能力和消费习惯、休闲食品行业的区域竞争情况和仓储物流等配套设施的健全程度等均存在一定差异，公司的跨区域发展对经营管理的要求较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）跨区域经营的风险...未来公司将利用募集资金大力开拓省外市场，实现跨区域发展。但由于我国地域广阔，各地区经济发展程度、消费者的消费能力和消费习惯、休闲食品行业的区域竞争情况和仓储物流等配套设施的健全程度等均存在一定差异，因此，公司的跨区域发展对经营管理的要求较高。"
+    },
+    {
+      "risk_type": "other",
+      "description": "突发公共事件引致的风险。作为日常消费品行业的参与者，公司的生产经营和业绩在一定程度上依赖于社会秩序的常态运行。倘若突发公共事件影响了公司经营所处上下游和外部环境的一般状态，例如出现开工延期、交通受限、集中性交易场所关停以及海外市场需求下降等情形，则将会对公司的生产和销售带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（6）突发公共事件引致的风险...公司的生产经营和业绩在一定程度上依赖于社会秩序的常态运行。倘若突发公共事件影响了公司经营所处上下游和外部环境的一般状态...则将会对公司的生产和销售带来不利影响，进而影响公司的盈利能力。"
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "company_name_mentioned": "科华数据股份有限公司",
+  "produces": [
+    {
+      "name": "数据中心基础设施产品及解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司打造全栈自主可控的数据中心全系列产品体系，覆盖供配电、精密温控、机柜系统、智能运维管理等算力基础设施核心环节"
+    },
+    {
+      "name": "模块化UPS及高压直流产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司持续推进模块化 UPS 产品的创新与迭代升级...公司持续深耕高压直流系列产品，直流产品覆盖240V、400V、800V等电压等级"
+    },
+    {
+      "name": "液冷温控产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司持续推动冷板式液冷技术及相关产品落地。WiseCol-LD 系列液冷温控单元，为液冷服务器提供循环冷却介质"
+    },
+    {
+      "name": "高端电源（UPS）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司智慧电能业务以高端电源核心，产品功率范围覆盖 0.5kVA-1200kVA，涵盖工业电源、电力电源、通信电源、电梯电源、精卫系列、蓄电池及选件"
+    },
+    {
+      "name": "光伏逆变器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要产品包含光伏逆变器、光伏离网控制器、储能变流器、离网逆变器产品及相应配套系统解决方案服务"
+    },
+    {
+      "name": "储能变流器（PCS）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "储能作为综合能源系统的枢纽，一直以来是公司新能源业务的发展重点...拥有全系列、全场景储能解决方案"
+    },
+    {
+      "name": "IDC服务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比例 15.73%",
+      "quote": "分产品 IDC服务收入 1,283,893,845.08 15.73%"
+    },
+    {
+      "name": "数据中心产品",
+      "type": "device",
+      "revenue_proportion": "占营业收入比例 27.44%",
+      "quote": "分产品 数据中心产品 2,239,034,564.24 27.44%"
+    },
+    {
+      "name": "智慧电能产品",
+      "type": "device",
+      "revenue_proportion": "占营业收入比例 9.11%",
+      "quote": "分产品 智慧电能产品 743,767,283.05 9.11%"
+    },
+    {
+      "name": "新能源产品",
+      "type": "device",
+      "revenue_proportion": "占营业收入比例 46.56%",
+      "quote": "分产品 新能源产品 3,799,130,249.21 46.56%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（数据中心产品）",
+      "target_product": "数据中心产品",
+      "cost_proportion": "占营业成本比重 93.99%",
+      "quote": "数据中心产品 原材料 1,431,522,054.54 93.99%"
+    },
+    {
+      "name": "原材料（智慧电能产品）",
+      "target_product": "智慧电能产品",
+      "cost_proportion": "占营业成本比重 94.30%",
+      "quote": "智慧电能 原材料 423,652,279.83 94.30%"
+    },
+    {
+      "name": "原材料（新能源产品）",
+      "target_product": "新能源产品",
+      "cost_proportion": "占营业成本比重 96.34%",
+      "quote": "新能源产品 原材料 3,005,810,833.12 96.34%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智算中心（互联网、AI、金融、政务等行业）",
+      "source_product": "数据中心基础设施产品",
+      "quote": "为互联网、AI、金融、政务等行业提供高效可靠的算力支撑"
+    },
+    {
+      "name": "交通（轨道交通、高速公路、机场港口）",
+      "source_product": "智慧电能产品（UPS）",
+      "quote": "公司保障世界最长高速公路隧道乌尉高速、澳门大桥、沈海高速等项目运营...中标厦门新机场及福州机场二期扩建工程不间断电源UPS采购及安装项目"
+    },
+    {
+      "name": "工业（石油炼化、煤化工、精细化工）",
+      "source_product": "智慧电能产品（UPS）",
+      "quote": "截至目前已成功服务 200 多家超大型石油炼化、煤化工、精细化工企业，覆盖三桶油、浙江石油化工、山东裕龙石化、北方华锦精细化工、盛虹石化、万华化学、宝丰能源、陕煤集团等行业头部客户"
+    },
+    {
+      "name": "电力领域（电网、发电集团）",
+      "source_product": "智慧电能产品（UPS）",
+      "quote": "目前产品及方案已成功应用于国家电网、南方电网、中国华能、中国华电、国家能源集团、国投电力等能源电力央企项目"
+    },
+    {
+      "name": "大型光伏电站",
+      "source_product": "光伏逆变器",
+      "quote": "交付了新疆吐鲁番 1GW 光伏+光热项目、新疆英吉沙500MW光伏治沙项目、新疆精河340MW光伏项目、广东潮南200MW渔光互补光伏项目、江苏如东 400M 光氢储一体化项目等众多百 MW 级光伏项目"
+    },
+    {
+      "name": "储能系统（发电侧、电网侧、用户侧）",
+      "source_product": "储能变流器（PCS）",
+      "quote": "公司在发电侧、电网侧、用电侧以及微网储能等领域进行布局...打造了国内最大的内蒙古阿荣旗 1GW/4GWh 构网型储能项目、新疆克州阿图什 200MW/800MWh 独立储能项目等标杆工程"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈成辉",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人陈成辉...2010 年 9 月至今任本公司董事长，兼任厦门科华伟业股份有限公司董事长"
+    },
+    {
+      "name": "陈四雄",
+      "role": "副董事长兼总裁",
+      "quote": "副董事长兼总裁。中国国籍，无境外永久居留权，1970年生，福建漳州人，EMBA硕士学位，正高级工程师...2020年7月至今，任公司总裁职务；2021年10月至今，任本公司副董事长职务"
+    },
+    {
+      "name": "陈皓",
+      "role": "董事兼副总裁",
+      "quote": "董事兼副总裁。中国国籍，无境外永久居留权，1987年生，福建漳州人...2021年10月至今，担任本公司董事兼任副总裁。2024年3月至今，兼任公司海外营销中心总裁"
+    },
+    {
+      "name": "庄伟聪",
+      "role": "财务总监、主管会计工作负责人",
+      "quote": "主管会计工作负责人庄伟聪及会计机构负责人（会计主管人员）庄伟聪声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "赖紫婷",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 赖紫婷"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "厦门科华伟业股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "科华伟业 指 厦门科华伟业股份有限公司、系本公司控股股东"
+    },
+    {
+      "name": "厦门科华数能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新能源业务主要子公司",
+      "quote": "科华数能 指 厦门科华数能科技有限公司...科华数能 子公司 新能源"
+    },
+    {
+      "name": "漳州科华电气技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能制造基地项目实施主体",
+      "quote": "漳州电气 指 漳州科华电气技术有限公司...增加公司全资子公司漳州科华电气技术有限公司为募集资金投资项目“智能制造基地建设项目（一期）”的共同实施主体"
+    },
+    {
+      "name": "广东科云辰航计算科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "云计算系统服务",
+      "quote": "广东科云 指 广东科云辰航计算科技有限责任公司...广东科云 子公司 云计算系统服务"
+    },
+    {
+      "name": "壁仞科技、燧原科技、沐曦股份、天数智芯、清微智能、希姆计算、摩尔线程、中昊芯英",
+      "relation_type": "supplier",
+      "business_details": "AI芯片合作伙伴",
+      "quote": "公司与壁仞科技、燧原科技、沐曦股份、天数智芯、清微智能、希姆计算、摩尔线程、中昊芯英等多家国产头部AI芯片厂商合作"
+    },
+    {
+      "name": "某互联网大厂",
+      "relation_type": "customer",
+      "business_details": "联合研发弹性直流一体柜、DC STS等产品",
+      "quote": "报告期内，公司与某互联网大厂联合研发的弹性直流一体柜，深度匹配AIDC场景下的算力负载特性，目前已成功交付超 2000 台；携手某互联网大厂研发 DC STS 静态转换开关"
+    },
+    {
+      "name": "快手",
+      "relation_type": "customer",
+      "business_details": "联合研发极简UPS",
+      "quote": "携手快手研发的极简 UPS，实现供电链路效率提升与投资成本降低"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "数据中心行业",
+      "segment_type": "product_line",
+      "revenue_amount": "3,522,928,409.32 元",
+      "revenue_proportion": "43.17%",
+      "gross_margin": "27.00%",
+      "yoy_change": "11.77%",
+      "quote": "分行业 数据中心行业 3,522,928,409.32 43.17%...毛利率 27.00%"
+    },
+    {
+      "name": "智慧电能行业",
+      "segment_type": "product_line",
+      "revenue_amount": "743,767,283.05 元",
+      "revenue_proportion": "9.11%",
+      "gross_margin": "39.60%",
+      "yoy_change": "-19.32%",
+      "quote": "分行业 智慧电能行业 743,767,283.05 9.11%...毛利率 39.60%"
+    },
+    {
+      "name": "新能源行业",
+      "segment_type": "product_line",
+      "revenue_amount": "3,799,130,249.21 元",
+      "revenue_proportion": "46.56%",
+      "gross_margin": "17.87%",
+      "yoy_change": "5.31%",
+      "quote": "分行业 新能源行业 3,799,130,249.21 46.56%...毛利率 17.87%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "7,128,665,409.06 元",
+      "revenue_proportion": "87.36%",
+      "gross_margin": null,
+      "yoy_change": "1.37%",
+      "quote": "分地区 国内 7,128,665,409.06 87.36%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "1,031,597,068.55 元",
+      "revenue_proportion": "12.64%",
+      "gross_margin": null,
+      "yoy_change": "42.27%",
+      "quote": "分地区 国外 1,031,597,068.55 12.64%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "数据中心行业",
+      "metric_type": "sales_volume",
+      "value": "497,123 台/套",
+      "period": "2025年",
+      "quote": "数据中心行业 销售量 台/套 497,123"
+    },
+    {
+      "product": "数据中心行业",
+      "metric_type": "production_volume",
+      "value": "495,357 台/套",
+      "period": "2025年",
+      "quote": "数据中心行业 生产量 台/套 495,357"
+    },
+    {
+      "product": "数据中心行业",
+      "metric_type": "inventory_volume",
+      "value": "23,187 台/套",
+      "period": "2025年末",
+      "quote": "数据中心行业 库存量 台/套 23,187"
+    },
+    {
+      "product": "智慧电能",
+      "metric_type": "sales_volume",
+      "value": "83,367 台/套",
+      "period": "2025年",
+      "quote": "智慧电能 销售量 台/套 83,367"
+    },
+    {
+      "product": "智慧电能",
+      "metric_type": "production_volume",
+      "value": "69,743 台/套",
+      "period": "2025年",
+      "quote": "智慧电能 生产量 台/套 69,743"
+    },
+    {
+      "product": "智慧电能",
+      "metric_type": "inventory_volume",
+      "value": "11,386 台/套",
+      "period": "2025年末",
+      "quote": "智慧电能 库存量 台/套 11,386"
+    },
+    {
+      "product": "新能源产品",
+      "metric_type": "sales_volume",
+      "value": "71,842 台/套",
+      "period": "2025年",
+      "quote": "新能源产品 销售量 台/套 71,842"
+    },
+    {
+      "product": "新能源产品",
+      "metric_type": "production_volume",
+      "value": "64,527 台/套",
+      "period": "2025年",
+      "quote": "新能源产品 生产量 台/套 64,527"
+    },
+    {
+      "product": "新能源产品",
+      "metric_type": "inventory_volume",
+      "value": "17,899 台/套",
+      "period": "2025年末",
+      "quote": "新能源产品 库存量 台/套 17,899"
+    },
+    {
+      "product": "新能源工厂",
+      "metric_type": "capacity",
+      "value": "年产68GW",
+      "period": "2025年度",
+      "quote": "2025年度，新能源工厂效率提升，主流产品交付周期缩短，产能通过效率提升实现增长，达到年产68GW。"
+    },
+    {
+      "product": "全球光伏产品",
+      "metric_type": "sales_volume",
+      "value": "超68GW",
+      "period": "截至2025年底",
+      "quote": "截至2025年底，公司全球光伏产品出货量超68GW"
+    },
+    {
+      "product": "全球储能",
+      "metric_type": "capacity",
+      "value": "超过53GW",
+      "period": "截至2025年底",
+      "quote": "截至2025年底，公司全球储能累计装机规模超过53GW"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能制造基地建设项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "厦门、漳州",
+      "investment_amount": "74,774.67 万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已累计投入 11,768.38 万元，投资进度 15.98%",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "智能制造基地建设项目（一期）...承诺投资总额 74,774.67 万元...截至报告期末累计投入 11,768.38 万元...达到预定可使用状态日期 2028年12月31日"
+    },
+    {
+      "name": "科华研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "14,627.43 万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已累计投入 2,228.06 万元，投资进度 15.23%",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "科华研发中心建设项目...承诺投资总额 14,627.43 万元...截至报告期末累计投入 2,228.06 万元...达到预定可使用状态日期 2028年12月31日"
+    },
+    {
+      "name": "科华数字化企业建设项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "15,104.75 万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已累计投入 2,729.69 万元，投资进度 18.07%",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "科华数字化企业建设项目...承诺投资总额 15,104.75 万元...截至报告期末累计投入 2,729.69 万元...达到预定可使用状态日期 2028年12月31日"
+    },
+    {
+      "name": "补充流动资金项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "44,700.00 万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已累计投入 44,700.00 万元，投资进度 100.00%",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "补充流动资金项目...承诺投资总额 44,700.00 万元...截至报告期末累计投入 44,700.00 万元...达到预定可使用状态日期 2028年12月31日"
+    },
+    {
+      "name": "马来西亚智造基地",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设初具规模",
+      "expected_completion_time": null,
+      "quote": "海外马来西亚工厂建设初具规模，为海外业务战略布局奠定基础。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年度，公司提交专利申请362件...获得专利授权320件...截至2025年底，公司共拥有有效知识产权2,564项，其中：发明专利822件（包含22件海外专利）、实用新型专利707件、外观设计专利132件",
+      "quote": "2025年度，公司提交专利申请362件（其中发明专利申请235件、实用新型专利申请116件、外观设计专利申请11 件）；获得专利授权320件（其中发明专利授权214件，包含8件海外专利），著作权40项，商标注册3项。截至2025年底，公司共拥有有效知识产权2,564项，其中：发明专利822件（包含22件海外专利）、实用新型专利707件、外观设计专利132件，著作权备案671项，商标232件（含国外商标27件）。"
+    },
+    {
+      "name": "电力电子技术",
+      "asset_type": "core_technology",
+      "related_product": "智慧电能、智算中心基础设施",
+      "quantitative_info": null,
+      "quote": "以电力电子技术为核心...依托近40年的电力电子核心技术沉淀"
+    },
+    {
+      "name": "构网技术",
+      "asset_type": "core_technology",
+      "related_product": "储能变流器",
+      "quantitative_info": "全球构网型储能PCS累计出货量超8GW",
+      "quote": "构网技术实现跨越式突破...全球构网型储能PCS累计出货量超8GW"
+    },
+    {
+      "name": "液冷技术",
+      "asset_type": "core_technology",
+      "related_product": "液冷温控产品、液冷POD",
+      "quantitative_info": null,
+      "quote": "公司持续推动冷板式液冷技术及相关产品落地...液冷POD单柜功率密度可达40-120kW，PUE低至1.15"
+    },
+    {
+      "name": "国家认定企业技术中心、国家级工业设计中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司依托“国家认定企业技术中心”和“国家级工业设计中心”平台优势"
+    },
+    {
+      "name": "国家级绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "成功获评国家级绿色工厂"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "18.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 18.71%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "5.63%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 459,473,407.08 5.63%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "24.64%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 24.64%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "9.48%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 602,092,732.74 9.48%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争日趋激烈，市场参与者通过多样化的策略争夺份额，可能对公司的市场地位和盈利能力带来挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场需求变化与竞争加剧风险...行业竞争日趋激烈，市场参与者通过多样化的策略争夺份额，可能对公司的市场地位和盈利能力带来挑战。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "如果公司对技术路线、产品方向和市场需求判断出现偏差，或未能及时将新技术、新工艺融入产品，可能导致产品竞争力下降。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "产品与技术迭代风险...如果公司对技术路线、产品方向和市场需求判断出现偏差，或未能及时将新技术、新工艺融入产品，可能导致产品竞争力下降。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "关键原材料、核心部件的价格波动和供应时效性，可能影响公司的成本控制与生产交付。对单一供应商或特定区域存在较高依赖的环节，其潜在供应中断风险仍需关注。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "供应链保障风险...关键原材料、核心部件的价格波动和供应时效性，可能影响公司的成本控制与生产交付。对单一供应商或特定区域存在较高依赖的环节，其潜在供应中断风险仍需关注。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "项目执行周期、客户付款节奏等因素可能影响公司运营资金的周转效率。若部分客户因行业景气度、自身经营状况等原因出现付款延迟，将导致应收账款增加，可能对公司现金流造成压力，并增加坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "回款与现金流风险...项目执行周期、客户付款节奏等因素可能影响公司运营资金的周转效率。若部分客户因行业景气度、自身经营状况等原因出现付款延迟，将导致应收账款增加，可能对公司现金流造成压力，并增加坏账风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "规模的扩张对公司的战略规划、资源配置、组织管理及内部控制能力提出了更高要求。如果管理体系、人才梯队及风险控制能力未能同步提升，可能引发运营效率降低、管理成本上升等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "规模扩张与经营管理风险...规模的扩张对公司的战略规划、资源配置、组织管理及内部控制能力提出了更高要求。如果管理体系、人才梯队及风险控制能力未能同步提升，可能引发运营效率降低、管理成本上升等风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着行业竞争加剧，特别是对高端技术、市场及管理人才的争夺日趋激烈，公司可能面临核心人才流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心人才流失与竞争风险...随着行业竞争加剧，特别是对高端技术、市场及管理人才的争夺日趋激烈，公司可能面临核心人才流失的风险。"
+    }
+  ]
+}

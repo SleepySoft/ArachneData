@@ -1,0 +1,541 @@
+{
+  "company_name_mentioned": "湖南泰嘉新材料科技股份有限公司",
+  "produces": [
+    {
+      "name": "双金属带锯条",
+      "type": "device",
+      "revenue_proportion": "44.47%",
+      "quote": "分产品，锯切-双金属带锯条，44.47%"
+    },
+    {
+      "name": "硬质合金带锯条",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "硬质合金带锯条是国内少数实现规模化生产并替代进口的企业"
+    },
+    {
+      "name": "高速钢带锯条",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司深耕带锯条行业20余年，双金属带锯条年产能规模超过3000万米，目前公司双金属带锯条销量处在国内第一，全球前三"
+    },
+    {
+      "name": "消费电子电源",
+      "type": "device",
+      "revenue_proportion": "42.90%",
+      "quote": "电源-消费电子电源，42.90%"
+    },
+    {
+      "name": "大功率电源",
+      "type": "device",
+      "revenue_proportion": "9.34%",
+      "quote": "电源-大功率电源，9.34%"
+    },
+    {
+      "name": "光伏逆变器、光伏优化器、储能变流器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新能源智能光伏/储能电源业务主要包含光伏优化器、光伏逆变器、储能变流器等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "冷轧合金钢带、高速钢丝、合金刀头",
+      "target_product": "锯切产品",
+      "cost_proportion": null,
+      "quote": "生产用原材料包含冷轧合金钢带、高速钢丝、合金刀头等，属于高性能、高精度特种金属材料，采用MRP采购模式，直接从生产厂家采购。"
+    },
+    {
+      "name": "塑胶壳、PCB板、电容、电阻、MOS管、电感、变压器、插头",
+      "target_product": "电源产品",
+      "cost_proportion": null,
+      "quote": "电源产品主要原材料有塑胶壳、PCB板、电容、电阻、MOS管、电感、变压器、插头等"
+    },
+    {
+      "name": "高速钢丝、硬质合金刀头、变压器、电容电阻、电感及芯片等元器件",
+      "target_product": "锯切产品、电源产品",
+      "cost_proportion": null,
+      "quote": "公司锯切产品核心原材料包括高速钢丝、硬质合金刀头等；公司电源产品主要原材料包括变压器、电容电阻、电感及芯片等元器件。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "轨道交通、汽车制造、大型锻造、工程机械、风电、核电、钢铁冶金、模具加工",
+      "source_product": "双金属带锯条",
+      "quote": "主要用于切割黑色金属、有色金属以及石墨、泡沫材料、木质材料等非金属材料，广泛应用于轨道交通、汽车制造、大型锻造、工程机械、风电、核电、钢铁冶金、模具加工等各个制造领域。"
+    },
+    {
+      "name": "智能手机、笔记本电脑、智能穿戴设备、智能家居等智能终端产品",
+      "source_product": "消费电子电源",
+      "quote": "主要应用于消费电子行业，包括智能手机、笔记本电脑、智能穿戴设备、智能家居等智能终端产品"
+    },
+    {
+      "name": "新能源光伏系统（光伏逆变器、光伏优化器、储能变流器）",
+      "source_product": "大功率电源",
+      "quote": "产品主要为光伏逆变器、光伏优化器和储能变流器，三者都是新能源光伏系统中的核心部件。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "方鸿",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人方鸿...现任本公司董事长"
+    },
+    {
+      "name": "谢映波",
+      "role": "总裁、董事",
+      "quote": "谢映波先生：出生于1972年...现任本公司总裁、董事"
+    },
+    {
+      "name": "杨乾勋",
+      "role": "董事、副总裁",
+      "quote": "杨乾勋先生：出生于1981年...现任公司董事、副总裁"
+    },
+    {
+      "name": "申柯",
+      "role": "董事",
+      "quote": "申柯先生：出生于1971年...现任本公司董事"
+    },
+    {
+      "name": "解浩然",
+      "role": "独立董事",
+      "quote": "解浩然先生：出生于1976年...现任本公司独立董事"
+    },
+    {
+      "name": "易玄",
+      "role": "独立董事",
+      "quote": "易玄女士：出生于1973年...任公司独立董事"
+    },
+    {
+      "name": "杨军",
+      "role": "独立董事",
+      "quote": "杨军先生：出生于1964年...现任本公司独立董事"
+    },
+    {
+      "name": "彭飞舟",
+      "role": "副总裁",
+      "quote": "彭飞舟先生：出生于1962年...现任本公司副总裁。"
+    },
+    {
+      "name": "谢朝勃",
+      "role": "财务总监、副总裁",
+      "quote": "谢朝勃先生：出生于1971年...现任本公司财务总监、副总裁。"
+    },
+    {
+      "name": "谭杰伦",
+      "role": "副总裁、董事会秘书",
+      "quote": "谭杰伦先生：出生于1984年...现任本公司副总裁、董事会秘书。"
+    },
+    {
+      "name": "肖建民",
+      "role": "副总裁",
+      "quote": "肖建民先生：出生于1971年...现任本公司副总裁、锯切事业部总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "长沙正元企业管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东、实际控制人情况，控股股东名称：长沙正元企业管理有限公司"
+    },
+    {
+      "name": "中联重科股份有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东",
+      "quote": "中联重科股份有限公司，持股比例15.07%"
+    },
+    {
+      "name": "邦中投资有限公司",
+      "relation_type": "investor",
+      "business_details": "原控股股东，现持股6.99%",
+      "quote": "邦中投资有限公司，持股比例6.99%"
+    },
+    {
+      "name": "ARNTZ GmbH + Co. KG",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，公司全资孙公司参股公司",
+      "quote": "ARNTZ GmbH + Co. KG，公司全资孙公司参股公司；序号5，客户名称：ARNTZ GmbH + Co. KG，销售额26,227,708.61元"
+    },
+    {
+      "name": "罗定雅达（雅达电子（罗定）有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资孙公司，电源业务生产基地",
+      "quote": "罗定雅达 指 雅达电子（罗定）有限公司，公司全资孙公司"
+    },
+    {
+      "name": "铂泰电子（长沙铂泰电子有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "铂泰电子 指 长沙铂泰电子有限公司...公司全资子公司"
+    },
+    {
+      "name": "美特森（江苏美特森切削工具有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "美特森 指 江苏美特森切削工具有限公司，公司全资子公司"
+    },
+    {
+      "name": "泰嘉合金（湖南泰嘉合金材料科技有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，合金钢带项目",
+      "quote": "泰嘉合金 指 湖南泰嘉合金材料科技有限公司，公司控股子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金属制品业（锯切业务）",
+      "segment_type": "product_line",
+      "revenue_amount": "708,724,583.08元",
+      "revenue_proportion": "46.39%",
+      "gross_margin": "43.26%",
+      "yoy_change": "5.91%",
+      "quote": "分行业，金属制品业，708,724,583.08元，46.39%"
+    },
+    {
+      "name": "电源行业",
+      "segment_type": "product_line",
+      "revenue_amount": "819,031,352.98元",
+      "revenue_proportion": "53.61%",
+      "gross_margin": "-1.32%",
+      "yoy_change": "-22.87%",
+      "quote": "分行业，电源行业，819,031,352.98元，53.61%"
+    },
+    {
+      "name": "锯切-双金属带锯条",
+      "segment_type": "product_line",
+      "revenue_amount": "679,460,985.10元",
+      "revenue_proportion": "44.47%",
+      "gross_margin": "42.17%",
+      "yoy_change": "5.72%",
+      "quote": "分产品，锯切-双金属带锯条，679,460,985.10元，44.47%"
+    },
+    {
+      "name": "电源-消费电子电源",
+      "segment_type": "product_line",
+      "revenue_amount": "655,418,079.70元",
+      "revenue_proportion": "42.90%",
+      "gross_margin": "1.25%",
+      "yoy_change": "-24.39%",
+      "quote": "分产品，电源-消费电子电源，655,418,079.70元，42.90%"
+    },
+    {
+      "name": "电源-大功率电源",
+      "segment_type": "product_line",
+      "revenue_amount": "142,656,185.56元",
+      "revenue_proportion": "9.34%",
+      "gross_margin": "-21.11%",
+      "yoy_change": "-19.03%",
+      "quote": "分产品，电源-大功率电源，142,656,185.56元，9.34%"
+    },
+    {
+      "name": "锯切-国外",
+      "segment_type": "region",
+      "revenue_amount": "195,916,667.16元",
+      "revenue_proportion": "12.82%",
+      "gross_margin": "51.96%",
+      "yoy_change": "0.62%",
+      "quote": "分地区，锯切-国外，195,916,667.16元，12.82%"
+    },
+    {
+      "name": "电源-国外",
+      "segment_type": "region",
+      "revenue_amount": "408,538,715.16元",
+      "revenue_proportion": "26.74%",
+      "gross_margin": "5.85%",
+      "yoy_change": "-5.37%",
+      "quote": "分地区，电源-国外，408,538,715.16元，26.74%"
+    },
+    {
+      "name": "锯切-经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "665,399,003.50元",
+      "revenue_proportion": "43.55%",
+      "gross_margin": "42.88%",
+      "yoy_change": "5.72%",
+      "quote": "分销售模式，锯切-经销，665,399,003.50元，43.55%"
+    },
+    {
+      "name": "电源-直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "819,031,352.98元",
+      "revenue_proportion": "53.61%",
+      "gross_margin": "-1.32%",
+      "yoy_change": "-22.87%",
+      "quote": "分销售模式，电源-直销，819,031,352.98元，53.61%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "双金属带锯条",
+      "metric_type": "capacity",
+      "value": "超过3000万米（年产能）",
+      "period": null,
+      "quote": "目前公司双金属带锯条年产能规模超过3000万米"
+    },
+    {
+      "product": "双金属带锯条",
+      "metric_type": "sales_volume",
+      "value": "2957.87万米",
+      "period": "2025年",
+      "quote": "销售量 2957.87（万米）"
+    },
+    {
+      "product": "双金属带锯条",
+      "metric_type": "production_volume",
+      "value": "2950.58万米",
+      "period": "2025年",
+      "quote": "生产量 2950.58（万米）"
+    },
+    {
+      "product": "双金属带锯条",
+      "metric_type": "inventory_volume",
+      "value": "504.53万米",
+      "period": "2025年末",
+      "quote": "库存量 504.53（万米）"
+    },
+    {
+      "product": "电源行业",
+      "metric_type": "sales_volume",
+      "value": "22,353,236.00 PCS",
+      "period": "2025年",
+      "quote": "电源行业，销售量 22,353,236.00（PCS）"
+    },
+    {
+      "product": "电源行业",
+      "metric_type": "production_volume",
+      "value": "22,061,014.00 PCS",
+      "period": "2025年",
+      "quote": "电源行业，生产量 22,061,014.00（PCS）"
+    },
+    {
+      "product": "电源行业",
+      "metric_type": "inventory_volume",
+      "value": "522,002.00 PCS",
+      "period": "2025年末",
+      "quote": "电源行业，库存量 522,002.00（PCS）"
+    },
+    {
+      "product": "充电器",
+      "metric_type": "capacity",
+      "value": "年生产能力最高达到1.6亿只",
+      "period": null,
+      "quote": "广东罗定基地充电器年生产能力最高达到1.6亿只"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "硬质合金带锯条产线建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "9,844.21万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "建设期延长至2026年9月20日",
+      "expected_completion_time": "2026年9月20日",
+      "quote": "募投项目，硬质合金带锯条产线建设项目，承诺投资总额9,844.21万元，项目达到预定可使用状态日期：2026年09月20日"
+    },
+    {
+      "name": "高速钢双金属带锯条产线建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "9,849.40万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "建设期延长至2026年9月20日",
+      "expected_completion_time": "2026年9月20日",
+      "quote": "募投项目，高速钢双金属带锯条产线建设项目，承诺投资总额9,849.40万元，项目达到预定可使用状态日期：2026年09月20日"
+    },
+    {
+      "name": "新能源电源及储能电源生产基地项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "20,122.59万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已终止实施",
+      "expected_completion_time": null,
+      "quote": "新能源电源及储能电源生产基地项目，承诺投资总额20,122.59万元，公司重新论证并终止实施“新能源电源及储能电源生产基地项目”"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "3,000万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已终止实施",
+      "expected_completion_time": null,
+      "quote": "研发中心建设项目，承诺投资总额3,000万元，公司重新论证并终止实施“研发中心建设项目”"
+    },
+    {
+      "name": "泰国基地项目",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": "5,000,000.00元（预算）",
+      "designed_capacity": null,
+      "progress": "项目建设有序推进中",
+      "expected_completion_time": null,
+      "quote": "泰国基地，该项目建设有序推进中。投资总额5,000,000.00元"
+    },
+    {
+      "name": "合金钢带项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "20,000,000.00元（预算）",
+      "designed_capacity": null,
+      "progress": "已完成产品试制、测试工作，并实现小批量量产",
+      "expected_completion_time": null,
+      "quote": "合金钢带项目已完成产品试制、测试工作，并实现小批量量产。投资总额20,000,000.00元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "双金属带锯条生产工艺并实现规模化生产",
+      "asset_type": "process_technology",
+      "related_product": "双金属带锯条",
+      "quantitative_info": null,
+      "quote": "公司是掌握双金属带锯条生产工艺并实现规模化生产的业内领先企业"
+    },
+    {
+      "name": "硬质合金带锯条规模生产与进口替代",
+      "asset_type": "process_technology",
+      "related_product": "硬质合金带锯条",
+      "quantitative_info": null,
+      "quote": "实现硬质合金带锯条规模生产与进口替代的国内企业"
+    },
+    {
+      "name": "高速高效锯切的带锯条PVD涂层关键技术",
+      "asset_type": "core_technology",
+      "related_product": "带锯条",
+      "quantitative_info": "科技成果鉴定为填补国内空白，达到国际先进水平",
+      "quote": "开发的“面向高速高效锯切的带锯条PVD涂层关键技术”科技成果鉴定为填补国内空白，达到国际先进水平。"
+    },
+    {
+      "name": "国家标准《金属切割带锯条》等",
+      "asset_type": "standard",
+      "related_product": "带锯条",
+      "quantitative_info": "主持起草了双金属带锯条国家标准和硬质合金带锯条行业标准",
+      "quote": "公司作为全国刀具标准化技术委员会成员单位，公司承担起行业发展重任，主持起草了双金属带锯条国家标准和硬质合金带锯条行业标准"
+    },
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司锯切业务有效专利数共计200项，其中发明专利90项",
+      "quote": "截至报告期末，公司锯切业务有效专利数共计200项，其中发明专利90项，实用新型109项，外观专利1项"
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "并获批建立了国家级博士后科研工作站"
+    },
+    {
+      "name": "雅达品牌",
+      "asset_type": "other",
+      "related_product": "电源产品",
+      "quantitative_info": "五十多年品牌历史",
+      "quote": "雅达品牌1971年创立于香港，拥有五十多年品牌历史"
+    },
+    {
+      "name": "IATF16949认证（电源）",
+      "asset_type": "certification",
+      "related_product": "电源",
+      "quantitative_info": null,
+      "quote": "也取得了IATF16949认证（认证范围：电源），能够向车载电源拓展业务。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "54.05%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 54.05%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "24.81%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 379,000,051.26 24.81%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.28%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 29.28%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "11.49%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 115,084,931.32 11.49%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "电源业务客户集中度相对较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "6、电源业务客户相对集中的风险。公司电源业务立足大客户战略，客户集中度相对较高"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "消费电子行业竞争日益加剧，部分项目量产晚于预期",
+      "related_entity": null,
+      "related_product": "消费电子电源",
+      "quote": "主要受消费电子行业竞争日益加剧，叠加部分项目量产晚于预期的影响"
+    },
+    {
+      "risk_type": "other",
+      "description": "电源业务收入下降及持续亏损的风险",
+      "related_entity": null,
+      "related_product": "电源业务",
+      "quote": "1、电源业务收入下降及持续亏损的风险。2023-2025年，电源业务板块营业收入持续下降，业绩也持续亏损"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款风险，可能无法收回形成坏账损失",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、应收账款风险。...如果客户经营状况恶化或出现财务困难，应收账款可能无法收回的风险，形成坏账损失。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "产能难以消化的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、产能难以消化的风险。...如遇市场需求不足、订单下降，存在产能难以消化的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料涨价风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、原材料涨价风险。...自2025年以来，部分原材料价格出现不同程度上涨，尤其2026年以来，涨势明显加剧"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "综合毛利率下降的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、综合毛利率下降的风险。市场竞争、地缘政治冲突、宏观经济不景气或原材料价格上涨等因素均会导致产品价格下降或成本上升，公司面临综合毛利率下降的风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "电源业务客户相对集中的风险",
+      "related_entity": null,
+      "related_product": "电源业务",
+      "quote": "6、电源业务客户相对集中的风险。...如若重要客户发生严重的经营问题或调整业务结构，公司电源业务也将面临一定的经营风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动的风险",
+      "related_entity": null,
+      "related_product": "锯切产品、电源业务",
+      "quote": "7、汇率波动的风险。公司锯切产品出口至境外多个国家和地区，主要以欧元和美元进行结算，另外，部分电源业务以美元结算，汇率的波动将会对公司的业绩产生一定的影响，存在汇率波动风险。"
+    }
+  ]
+}

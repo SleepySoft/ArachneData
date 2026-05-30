@@ -1,0 +1,411 @@
+{
+  "company_name_mentioned": "奥瑞金科技股份有限公司",
+  "produces": [
+    {
+      "name": "包装产品及服务",
+      "type": "service",
+      "revenue_proportion": "93.41%",
+      "quote": "包装产品及服务 22,438,200,775 93.41%"
+    },
+    {
+      "name": "灌装服务",
+      "type": "service",
+      "revenue_proportion": "0.50%",
+      "quote": "灌装服务 120,597,456 0.50%"
+    },
+    {
+      "name": "食品罐",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "用于包装水果、酱料、肉类、水产品、奶粉等食品，由马口铁为主要材料制成的金属包装"
+    },
+    {
+      "name": "饮料罐",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "用于包装各类饮料、啤酒等，由马口铁或铝材为主要材料制成的金属包装"
+    },
+    {
+      "name": "塑胶包装",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "用吹塑或注塑工艺等制成，主要用于盛装个人护理、日化产品及食品饮料等产品的塑胶包装制品"
+    },
+    {
+      "name": "工业钢桶",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "以薄钢板为主要材料制成的 200L及以上容积的钢桶，主要用于盛装化工产品及大包装的食用油等食品原料"
+    },
+    {
+      "name": "新能源电池结构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "食品罐、饮料罐、塑胶包装、工业钢桶、新能源电池结构件等业务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "马口铁",
+      "target_product": "食品罐、饮料罐等金属包装",
+      "cost_proportion": null,
+      "quote": "公司拥有以马口铁、铝材和盖子为主的原材料供应链"
+    },
+    {
+      "name": "铝材",
+      "target_product": "二片罐等金属包装",
+      "cost_proportion": null,
+      "quote": "公司拥有以马口铁、铝材和盖子为主的原材料供应链"
+    },
+    {
+      "name": "盖子",
+      "target_product": "金属包装",
+      "cost_proportion": null,
+      "quote": "公司拥有以马口铁、铝材和盖子为主的原材料供应链"
+    }
+  ],
+  "applications": [
+    {
+      "name": "食品饮料行业",
+      "source_product": "包装产品及服务、灌装服务",
+      "quote": "服务领域聚焦食品饮料行业，覆盖功能饮料、茶饮、啤酒、乳品、植物蛋白饮料、果蔬汁、咖啡、碳酸饮料等主流饮料品类，以及奶粉、八宝粥、燕窝、调味品、罐头、干果、粮油、茶叶、宠物食品等多元食品品类。"
+    },
+    {
+      "name": "日化行业",
+      "source_product": "塑胶包装",
+      "quote": "报告期内，公司完成对原中粮包装的市场化战略收购，工业钢桶及塑胶包装业务纳入产品组合，服务范围拓展至日化行业，覆盖个人护理、家居护理、工业化工等细分品类市场。"
+    },
+    {
+      "name": "工业化工",
+      "source_product": "工业钢桶",
+      "quote": "覆盖个人护理、家居护理、工业化工等细分品类市场。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周云杰",
+      "role": "董事长、实际控制人、控股股东上海原龙投资控股（集团）有限公司董事长",
+      "quote": "公司负责人周云杰...周云杰先生为公司实际控制人，现任公司董事长及公司控股股东上海原龙投资控股（集团）有限公司董事长。"
+    },
+    {
+      "name": "沈陶",
+      "role": "董事、总经理",
+      "quote": "沈陶先生...现任公司董事、总经理，同时兼任公司控股股东上海原龙投资控股（集团）有限公司董事。"
+    },
+    {
+      "name": "周原",
+      "role": "副董事长",
+      "quote": "周原先生...现任公司副董事长，同时兼任公司控股股东上海原龙投资控股（集团）有限公司董事。"
+    },
+    {
+      "name": "周云海",
+      "role": "董事、副总经理、深加工产品事业部总经理",
+      "quote": "周云海先生...现任公司董事、副总经理、深加工产品事业部总经理。"
+    },
+    {
+      "name": "仝芳妍",
+      "role": "董事",
+      "quote": "仝芳妍女士...现任公司董事及公司控股股东上海原龙投资控股（集团）有限公司总经理。"
+    },
+    {
+      "name": "许文才",
+      "role": "独立董事",
+      "quote": "许文才先生...现任公司独立董事。"
+    },
+    {
+      "name": "张力上",
+      "role": "独立董事",
+      "quote": "张力上先生...现任公司独立董事。"
+    },
+    {
+      "name": "周波",
+      "role": "独立董事",
+      "quote": "周波先生...现任公司独立董事。"
+    },
+    {
+      "name": "张晔",
+      "role": "常务副总经理",
+      "quote": "张晔先生...现任公司常务副总经理，同时担任中国包装联合会金属容器专业委员会主任委员。"
+    },
+    {
+      "name": "陈玉飞",
+      "role": "副总经理、三片罐事业部总经理、研发中心总经理",
+      "quote": "陈玉飞先生...现任公司副总经理、三片罐事业部总经理、研发中心总经理。"
+    },
+    {
+      "name": "马斌云",
+      "role": "副总经理、二片罐及灌装事业部总经理",
+      "quote": "马斌云先生...现任公司副总经理、二片罐及灌装事业部总经理。"
+    },
+    {
+      "name": "张少军",
+      "role": "副总经理",
+      "quote": "张少军先生...现任公司副总经理。"
+    },
+    {
+      "name": "高树军",
+      "role": "副总经理、董事会秘书",
+      "quote": "高树军先生...现任公司副总经理、董事会秘书。"
+    },
+    {
+      "name": "瞿洪亮",
+      "role": "副总经理",
+      "quote": "瞿洪亮先生...现任公司副总经理。"
+    },
+    {
+      "name": "高礼兵",
+      "role": "财务总监",
+      "quote": "高礼兵先生...现任公司财务总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华瑞凤泉包装控股有限公司（原中粮包装控股有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "系公司控股子公司，于报告期内完成收购并私有化。",
+      "quote": "华瑞凤泉包装控股有限公司（原中粮包装控股有限公司，简称“中粮包装”），系公司控股子公司"
+    },
+    {
+      "name": "ORG UAC Company（原Ball United Arab Can Manufacturing LLC）",
+      "relation_type": "subsidiary",
+      "business_details": "系公司控股子公司，位于沙特阿拉伯。",
+      "quote": "沙特公司 指 ORG UAC Company，系公司控股子公司"
+    },
+    {
+      "name": "上海原龙投资控股（集团）有限公司",
+      "relation_type": "investor",
+      "business_details": "系公司控股股东。",
+      "quote": "上海原龙 指 上海原龙投资控股（集团）有限公司（曾用名“海南原龙投资有限公司”、“上海原龙投资有限公司”），系公司控股股东"
+    },
+    {
+      "name": "黄山永新股份有限公司",
+      "relation_type": "investor",
+      "business_details": "系公司参股的公司。",
+      "quote": "永新股份 指 黄山永新股份有限公司，系公司参股的公司"
+    },
+    {
+      "name": "Rexam Limited",
+      "relation_type": "customer",
+      "business_details": "报告期内，公司向其出售比利时和匈牙利子公司部分股权。",
+      "quote": "报告期内，公司与 Rexam Limited于 2025年8月26日签署股权买卖协议"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "包装产品及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "22,438,200,775元",
+      "revenue_proportion": "93.41%",
+      "gross_margin": "14.01%",
+      "yoy_change": "85.09%",
+      "quote": "包装产品及服务 22,438,200,775 93.41% ... 毛利率 14.01% ... 同比增减 85.09%"
+    },
+    {
+      "name": "灌装服务",
+      "segment_type": "product_line",
+      "revenue_amount": "120,597,456元",
+      "revenue_proportion": "0.50%",
+      "gross_margin": null,
+      "yoy_change": "-27.20%",
+      "quote": "灌装服务 120,597,456 0.50% ... 同比增减 -27.20%"
+    },
+    {
+      "name": "境内地区",
+      "segment_type": "region",
+      "revenue_amount": "21,616,941,117元",
+      "revenue_proportion": "89.99%",
+      "gross_margin": "13.62%",
+      "yoy_change": "73.09%",
+      "quote": "境内地区 21,616,941,117 89.99% ... 毛利率 13.62% ... 同比增减 73.09%"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "2,403,262,499元",
+      "revenue_proportion": "10.01%",
+      "gross_margin": "5.87%",
+      "yoy_change": "102.95%",
+      "quote": "境外地区 2,403,262,499 10.01% ... 毛利率 5.87% ... 同比增减 102.95%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "包装产品",
+      "metric_type": "sales_volume",
+      "value": "338.43亿罐",
+      "period": "2025年",
+      "quote": "包装产品 销售量 338.43 亿罐"
+    },
+    {
+      "product": "包装产品",
+      "metric_type": "production_volume",
+      "value": "333.82亿罐",
+      "period": "2025年",
+      "quote": "包装产品 生产量 333.82 亿罐"
+    },
+    {
+      "product": "包装产品",
+      "metric_type": "inventory_volume",
+      "value": "24.79亿罐",
+      "period": "2025年末",
+      "quote": "包装产品 库存量 24.79 亿罐"
+    },
+    {
+      "product": "灌装",
+      "metric_type": "sales_volume",
+      "value": "4.47亿罐",
+      "period": "2025年",
+      "quote": "灌装 销售量 4.47 亿罐"
+    },
+    {
+      "product": "灌装",
+      "metric_type": "production_volume",
+      "value": "4.29亿罐",
+      "period": "2025年",
+      "quote": "灌装 生产量 4.29 亿罐"
+    },
+    {
+      "product": "灌装",
+      "metric_type": "inventory_volume",
+      "value": "0.22亿罐",
+      "period": "2025年末",
+      "quote": "灌装 库存量 0.22 亿罐"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "泰国二片罐生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": "约人民币4.4亿元",
+      "designed_capacity": null,
+      "progress": "建设中，未产生收益。",
+      "expected_completion_time": null,
+      "quote": "投资约人民币4.4亿元在泰国新建二片罐工厂；... 截至报告期期末，泰国二片罐生产线项目处于建设中，未产生收益"
+    },
+    {
+      "name": "哈萨克斯坦二片罐生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "哈萨克斯坦",
+      "investment_amount": "约人民币6.5亿元",
+      "designed_capacity": null,
+      "progress": "已完成所需的境外投资备案手续，并在当地设立了项目实施的相关主体，尚未开工建设。",
+      "expected_completion_time": null,
+      "quote": "投资约人民币6.5亿元在哈萨克斯坦新建二片罐工厂；... 哈萨克斯坦二片罐生产线项目已完成所需的境外投资备案手续，并在当地设立了项目实施的相关主体，尚未开工建设。"
+    },
+    {
+      "name": "收购沙特波尔22亿罐项目",
+      "project_type": "acquisition_project",
+      "location": "沙特阿拉伯",
+      "investment_amount": "约1.19亿美元",
+      "designed_capacity": null,
+      "progress": "已完成交割，标的公司已更名为ORG UAC Company，纳入合并报表范围。",
+      "expected_completion_time": null,
+      "quote": "完成对沙特波尔 22亿罐项目并购... 以约1.19亿美元收购 Ball United Arab Can Manufacturing LLC（已更名为ORG UAC Company）65.5%股权，布局中东市场。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家级、市级技术资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "经北京市科委认定，获得北京市设计创新中心称号；经北京市经济和信息化局认定为北京市企业技术中心以及北京市高精尖产业设计中心；经国家知识产权局认定为国家知识产权示范企业。"
+    },
+    {
+      "name": "奶粉罐低温底油和光油应用项目",
+      "asset_type": "process_technology",
+      "related_product": "奶粉罐",
+      "quantitative_info": null,
+      "quote": "实现低温底油与光油在奶粉罐上的规模化应用，为罐身涂装工艺的绿色升级提供可行路径。"
+    },
+    {
+      "name": "旋口盖开发与研究",
+      "asset_type": "core_technology",
+      "related_product": "铝旋口盖",
+      "quantitative_info": null,
+      "quote": "开发符合行业及安全标准的新一代铝旋口盖产品。"
+    },
+    {
+      "name": "铁离子析出控制项目",
+      "asset_type": "core_technology",
+      "related_product": "啤酒罐",
+      "quantitative_info": null,
+      "quote": "建立啤酒罐铁离子控制技术规范，将推动金属包装行业啤酒罐的发展升级和质量提升。"
+    },
+    {
+      "name": "冲拔罐智能预变形技术",
+      "asset_type": "core_technology",
+      "related_product": "冲拔罐",
+      "quantitative_info": null,
+      "quote": "解决传统工艺依赖经验、调试周期长、试错成本高问题，通过智能预变形技术实现工艺参数智能推荐。"
+    },
+    {
+      "name": "BPA-free型旋开盖的研发",
+      "asset_type": "core_technology",
+      "related_product": "旋开盖",
+      "quantitative_info": null,
+      "quote": "应对欧盟法规对双酚A及双酚衍生物的全面禁用要求，确保旋开盖出口合规。"
+    },
+    {
+      "name": "新型啤酒铝瓶研发",
+      "asset_type": "core_technology",
+      "related_product": "单片啤酒铝瓶",
+      "quantitative_info": null,
+      "quote": "对接大客户铝瓶新产品需求，开展针对性研发和推广应用工作。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "43.21%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 10,379,074,150 前五名客户合计销售金额占年度销售总额比例 43.21%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "47.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 7,947,854,789 前五名供应商合计采购金额占年度采购总额比例 47.38%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "20.34%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "客户1 4,885,315,663 20.34%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "部分品类产品客户集中度较高。公司与主要客户形成长期稳定的相互合作关系，若主要客户因自身原因或终端消费市场的重大不利变化导致对公司产品的需求大幅下降，公司经营业绩在短中期内将受到较大不利影响。",
+      "related_entity": "中国红牛",
+      "related_product": "三片罐",
+      "quote": "1. 部分品类产品客户集中度较高的风险 公司始终坚持与主要客户相互依托的发展模式，与中国红牛等主要客户形成长期稳定的相互合作关系。若公司主要客户由于自身原因或终端消费市场的重大不利变化而导致对公司产品的需求大幅下降，公司经营业绩在短中期内将受到较大不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险。公司主营产品的主要原材料为马口铁、铝材，业绩对原材料价格波动较为敏感。采购价格上涨幅度过大，公司无法有效化解成本压力，经营业绩短期内将会受到不利影响。",
+      "related_entity": null,
+      "related_product": "金属包装",
+      "quote": "2. 原材料价格波动的风险 公司主营产品的主要原材料为马口铁、铝材，与公司生产成本密切相关，公司业绩对原材料价格波动较为敏感。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业格局持续优化，但伴随行业整合深入推进，头部企业的经营目标更加侧重盈利能力回归，行业竞争依然存在。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业格局持续优化，共建良性发展生态。伴随行业整合深入推进，金属包装行业集中度有所提升，市场格局进一步优化，头部企业的经营目标更加侧重盈利能力回归。"
+    },
+    {
+      "risk_type": "other",
+      "description": "外延式发展引起的运营管理风险。在新业务开展、公司融合的过程中可能存在因人才管理、团队建设、管理经验、文化差异等方面经验不足而影响运营的风险，能否顺利发挥协同效应具有一定的不确定性。",
+      "related_entity": "原中粮包装",
+      "related_product": null,
+      "quote": "4. 外延式发展引起的运营管理风险 随着公司综合包装解决方案提供商战略定位的推进，公司适度整合以及拓展关联行业。尽管公司已经建立了一套完整的公司治理制度，但在新业务开展、公司融合的过程中可能存在因人才管理、团队建设、管理经验、文化差异等方面经验不足而影响运营的风险，能否顺利发挥协同效应具有一定的不确定性。"
+    }
+  ]
+}

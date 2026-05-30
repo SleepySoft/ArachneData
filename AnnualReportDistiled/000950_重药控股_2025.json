@@ -1,0 +1,402 @@
+{
+  "company_name_mentioned": "重药控股股份有限公司",
+  "produces": [
+    {
+      "name": "药品（含西药、中药、麻精、医美产品、特医食品、放射性药品等）",
+      "type": "material",
+      "revenue_proportion": "79.81%",
+      "quote": "经营产品 营业收入-亿元 收入占比 药品 658.00 79.81%"
+    },
+    {
+      "name": "医疗器械（耗材、IVD、骨科及外科器械、生殖健康领域设备等）",
+      "type": "device",
+      "revenue_proportion": "17.82%",
+      "quote": "经营产品 营业收入-亿元 收入占比 器械 146.91 17.82%"
+    },
+    {
+      "name": "中药（中成药、中药饮片等）",
+      "type": "material",
+      "revenue_proportion": "17.73%",
+      "quote": "经营产品 营业收入-亿元 收入占比 其中：中药 146.16 17.73%"
+    },
+    {
+      "name": "麻醉药品和第一类精神药品",
+      "type": "material",
+      "revenue_proportion": "4.22%",
+      "quote": "经营产品 营业收入-亿元 收入占比 麻精 34.77 4.22%"
+    },
+    {
+      "name": "医药商业服务（批发、零售、仓储物流、供应链增值服务）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司现阶段主要从事医药商业、仓储物流、医药工业和研发等业务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "药品（化学药、中成药、麻精药品等）",
+      "target_product": "药品（用于批发、零售）",
+      "cost_proportion": null,
+      "quote": "公司与近2万家国内外供应商开展紧密合作...公司确保了产品线的丰富性和市场竞争力。"
+    },
+    {
+      "name": "医疗器械",
+      "target_product": "医疗器械（用于批发、零售）",
+      "cost_proportion": null,
+      "quote": "与国际知名医疗器械生产商构建了长期稳定的商业配送关系，系国内知名品牌的指定配送商。"
+    },
+    {
+      "name": "中药饮片及中药材",
+      "target_product": "中药饮片（用于生产与销售）",
+      "cost_proportion": null,
+      "quote": "构建了集中药材种植、中药材初加工、中药饮片生产、中药大健康产品开发、智慧中药房服务于一体的中医药全产业链生态体系"
+    }
+  ],
+  "applications": [
+    {
+      "name": "医院（纯销业务）",
+      "source_product": "药品、医疗器械、中药饮片等",
+      "quote": "公司拥有二级及以上纯销客户超9,550家。"
+    },
+    {
+      "name": "医药商业企业（分销业务）",
+      "source_product": "药品、医疗器械等",
+      "quote": "商业分销作为公司的重要经营业态，有助于实现规模经济效益，增强产品引进能力，并推动销售渠道多元化，其销售客户广泛分布于全国。"
+    },
+    {
+      "name": "零售终端（社区健康药房、DTP处方药房）",
+      "source_product": "药品、医疗器械、健康护理产品等",
+      "quote": "依托“和平药房”“和平新健康”“诚信大药房”多品牌矩阵，以“商品+服务”双轮驱动终端市场增长。"
+    },
+    {
+      "name": "基层医疗机构（乡镇卫生院、社区卫生服务中心、诊所等）",
+      "source_product": "药品、医疗器械等",
+      "quote": "公司的配送网络不仅覆盖等级医疗机构，还拓展至各区县级医疗机构、乡镇卫生院、社区和街道卫生服务中心、社会药店、单体药店等基层终端。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "袁泉",
+      "role": "董事长、党委书记",
+      "quote": "公司负责人袁泉、主管会计工作负责人杨磊及会计机构负责人（会计主管人员）殷怡声明...现任重药控股股份有限公司及重庆医药（集团）股份有限公司党委书记、董事长"
+    },
+    {
+      "name": "刘伟",
+      "role": "总经理、董事、党委副书记",
+      "quote": "重药控股股份有限公司党委副书记、董事、总经理"
+    },
+    {
+      "name": "李少宏",
+      "role": "董事、副总经理",
+      "quote": "现任重药控股股份有限公司党委委员、董事、副总经理，重庆医药（集团）股份有限公司党委委员、副总经理，重庆药友制药有限责任公司副董事长。"
+    },
+    {
+      "name": "陈义海",
+      "role": "董事、副总经理",
+      "quote": "现任重药控股股份有限公司党委委员、董事、副总经理，重庆医药（集团）股份有限公司党委委员、副总经理。"
+    },
+    {
+      "name": "杨磊",
+      "role": "总会计师",
+      "quote": "现任重药控股股份有限公司及重庆医药（集团）股份有限公司总会计师。"
+    },
+    {
+      "name": "邱天",
+      "role": "董事会秘书",
+      "quote": "现任重药控股股份有限公司及重庆医药（集团）股份有限公司董事会秘书，重庆化医控股集团财务有限公司董事，重庆药友制药有限责任公司监事会主席。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "重庆药友制药有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要参股工业公司，报告期内实现营业收入52.06亿元，归母净利润12.54亿元。重庆药友致力于打造全球领先的创新平台...",
+      "quote": "公司主要参股工业子公司重庆药友，报告期内实现营业收入52.06亿元，归母净利润12.54亿元。"
+    },
+    {
+      "name": "重庆医药（集团）股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事药品、医疗器械的批发和零售等。",
+      "quote": "重庆医药（集团）股份有限公司 子公司 药品、医疗器械的批发和零售等"
+    },
+    {
+      "name": "阿斯利康(无锡)贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "报告期内第一大供应商，采购额19.87亿元。",
+      "quote": "1 阿斯利康(无锡)贸易有限公司 1,986,625,618.73 2.46%"
+    },
+    {
+      "name": "上海医药集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "报告期内第二大供应商，采购额18.39亿元。",
+      "quote": "2 上海医药集团股份有限公司 1,839,121,215.39 2.28%"
+    },
+    {
+      "name": "重庆医科大学附属第一医院",
+      "relation_type": "customer",
+      "business_details": "报告期内第一大客户，销售额12.72亿元。",
+      "quote": "1 重庆医科大学附属第一医院 1,272,496,072.36 1.54%"
+    },
+    {
+      "name": "中国通用技术（集团）控股有限责任公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东。重庆化医控股（集团）公司将所持控股股东重庆医药健康产业有限公司2%国有股权无偿划转给中国通用技术（集团）控股有限责任公司，使其成为公司间接控股股东。",
+      "quote": "基于上述事项，中国通用技术（集团）控股有限责任公司将直接持有公司直接控股股东重庆医药24%股权，并通过控股子公司中国医药持有公司直接控股股东重庆医药27%股权，中国通用技术（集团）控股有限责任公司成为公司间接控股股东。"
+    },
+    {
+      "name": "重庆医药健康产业有限公司",
+      "relation_type": "investor",
+      "business_details": "直接控股股东，持股比例38.47%。",
+      "quote": "重庆医药健康产业有限公司 国有法人 38.47% 664,900,806"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药批发",
+      "segment_type": "business_unit",
+      "revenue_amount": "778.71亿元",
+      "revenue_proportion": "94.45%",
+      "gross_margin": "6.76%",
+      "yoy_change": null,
+      "quote": "业务渠道 营业收入-亿元 收入占比 医药批发 778.71 94.45% ... 医药批发 77,871,133,825.94 72,604,321,439.53 6.76% 1.71% 1.97% -0.23%"
+    },
+    {
+      "name": "医药零售",
+      "segment_type": "business_unit",
+      "revenue_amount": "41.79亿元",
+      "revenue_proportion": "5.07%",
+      "gross_margin": "13.06%",
+      "yoy_change": null,
+      "quote": "业务渠道 营业收入-亿元 收入占比 医药零售 41.79 5.07% ... 医药零售 4,179,672,446.51 3,633,786,810.41 13.06% 13.12% 15.59% -1.86%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "3.97亿元",
+      "revenue_proportion": "0.48%",
+      "gross_margin": "32.18%",
+      "yoy_change": null,
+      "quote": "业务渠道 营业收入-亿元 收入占比 其他 3.97 0.48% ... 其他 396,602,900.33 268,964,701.51 32.18% 29.18% 19.88% 5.26%"
+    },
+    {
+      "name": "药品类",
+      "segment_type": "product_line",
+      "revenue_amount": "658.00亿元",
+      "revenue_proportion": "79.81%",
+      "gross_margin": "7.02%",
+      "yoy_change": null,
+      "quote": "经营产品 营业收入-亿元 收入占比 药品 658.00 79.81% ... 药品类 65,799,951,914.12 61,181,720,296.48 7.02% -0.52% -1.03% 0.47%"
+    },
+    {
+      "name": "医疗器械类",
+      "segment_type": "product_line",
+      "revenue_amount": "146.91亿元",
+      "revenue_proportion": "17.82%",
+      "gross_margin": "5.52%",
+      "yoy_change": null,
+      "quote": "经营产品 营业收入-亿元 收入占比 器械 146.91 17.82% ... 医疗器械类 14,691,154,867.26 13,879,612,389.38 5.52% 15.24% 22.69% -5.74%"
+    },
+    {
+      "name": "重庆总部区域",
+      "segment_type": "region",
+      "revenue_amount": "276.07亿元",
+      "revenue_proportion": "33.48%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "经营片区 营业收入-亿元 收入占比 重庆总部区域 276.07 33.48%"
+    },
+    {
+      "name": "南方销售区域",
+      "segment_type": "region",
+      "revenue_amount": "251.44亿元",
+      "revenue_proportion": "30.50%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "经营片区 营业收入-亿元 收入占比 南方销售区域 251.44 30.50%"
+    },
+    {
+      "name": "北方销售区域",
+      "segment_type": "region",
+      "revenue_amount": "296.96亿元",
+      "revenue_proportion": "36.02%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "经营片区 营业收入-亿元 收入占比 北方销售区域 296.96 36.02%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "中药饮片",
+      "metric_type": "capacity",
+      "value": "约5000吨",
+      "period": "报告期内",
+      "quote": "报告期内实现产能规模约5000吨，实现收入超6亿元。"
+    },
+    {
+      "product": "中药饮片",
+      "metric_type": "sales_volume",
+      "value": "超6亿元",
+      "period": "报告期内",
+      "quote": "报告期内实现产能规模约5000吨，实现收入超6亿元。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "进口分销物流项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "推进进口分销物流、四川物流二期、天津物流等建设项目"
+    },
+    {
+      "name": "四川物流二期项目",
+      "project_type": "construction_project",
+      "location": "四川",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "推进进口分销物流、四川物流二期、天津物流等建设项目"
+    },
+    {
+      "name": "天津物流项目",
+      "project_type": "construction_project",
+      "location": "天津",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "推进进口分销物流、四川物流二期、天津物流等建设项目"
+    },
+    {
+      "name": "重庆、山西、湖南仓储中心改扩建",
+      "project_type": "construction_project",
+      "location": "重庆、山西、湖南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "同时完成重庆、山西、湖南仓储中心改扩建。"
+    },
+    {
+      "name": "SPD供应链服务项目",
+      "project_type": "capacity_expansion",
+      "location": "全国22个省份",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "持续开展，累计228个项目",
+      "expected_completion_time": null,
+      "quote": "截至报告期末公司已在全国22个省份累计开展228个项目"
+    },
+    {
+      "name": "江西栀子、浙江紫苏、白及、薄荷，湖南茯苓等种植基地项目",
+      "project_type": "other",
+      "location": "江西、浙江、湖南等",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "报告期内推进江西栀子，浙江紫苏、白及、薄荷，湖南茯苓等种植基地项目。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "全国麻精药品批发资质",
+      "asset_type": "certification",
+      "related_product": "麻醉药品、第一类精神药品等",
+      "quantitative_info": "全国性批发企业共3家，公司是其中之一；销售网络覆盖全国31个省、直辖市及自治区。",
+      "quote": "公司是国内仅有三家经营麻醉药品和第一类精神药品的全国性批发企业之一，主要经营麻醉药品、第一类精神药品、第二类精神药品、药品类易制毒化学品单方制剂等，麻精药品的销售网络覆盖全国31个省、直辖市及自治区"
+    },
+    {
+      "name": "重庆药友制药创新平台（含微通道连续反应、杂质分离及合成、高难度注射剂与缓控释给药系统四大平台）",
+      "asset_type": "technical_platform",
+      "related_product": "化学药品制剂",
+      "quantitative_info": null,
+      "quote": "重庆药友致力于打造全球领先的创新平台，创新方向聚焦“新、先、难”，搭建了仿创结合的研发体系，形成了微通道连续反应、杂质分离及合成、高难度注射剂与缓控释给药系统等四大创新平台。"
+    },
+    {
+      "name": "美国cGMP认证（固体制剂生产线）",
+      "asset_type": "certification",
+      "related_product": "制剂产品",
+      "quantitative_info": "全国为数不多，西部首家通过美国cGMP认证的制药企业",
+      "quote": "固体制剂生产线成为全国为数不多，西部首家通过美国cGMP认证的制药企业"
+    },
+    {
+      "name": "加拿大cGMP认证（处方制剂）",
+      "asset_type": "certification",
+      "related_product": "处方制剂",
+      "quantitative_info": "中国第一家处方制剂通过加拿大cGMP认证的制药企业",
+      "quote": "成为中国第一家处方制剂通过加拿大cGMP认证的制药企业"
+    },
+    {
+      "name": "欧美cGMP认证（原料药）",
+      "asset_type": "certification",
+      "related_product": "原料药",
+      "quantitative_info": "主要产品通过，75%以上销往欧美市场",
+      "quote": "在原料药领域，主要产品通过欧美cGMP认证，75%以上均销往欧美市场"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "6.42%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 5,297,010,373.56 前五名客户合计销售金额占年度销售总额比例 6.42%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "1.54%",
+      "related_entity": "重庆医科大学附属第一医院",
+      "period": "2025年",
+      "quote": "1 重庆医科大学附属第一医院 1,272,496,072.36 1.54%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9.94%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 8,026,057,249.33 前五名供应商合计采购金额占年度采购总额比例 9.94%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "2.46%",
+      "related_entity": "阿斯利康(无锡)贸易有限公司",
+      "period": "2025年",
+      "quote": "1 阿斯利康(无锡)贸易有限公司 1,986,625,618.73 2.46%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司可能存在行业竞争、经营与管理、市场、国家政策等风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司可能存在行业竞争、经营与管理、市场、国家政策等风险，敬请广大投资者注意投资风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款基数增大，受区域经济条件影响回款周期延长；经营资金需求攀升，带息负债规模扩大，对利润产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "伴随公司批发业务规模的持续扩张，应收账款基数进一步增大。鉴于公司在西部地区的收入占比较高，受区域经济条件的影响，公司应收账款的回款周期有所延长。公司经营资金的需求持续攀升，带息负债的规模随之扩大，对公司利润产生了一定程度的影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "全国药价管控趋严、集采扩围、医保支付改革等政策给公司发展带来影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，国家出台的新政策给公司发展带来一定积极影响，主要如下：1、全国药价管控趋严，创新引领医药高质量发展..."
+    },
+    {
+      "risk_type": "other",
+      "description": "信息披露不准确，被证券监管机构采取行政监管措施。",
+      "related_entity": "重药控股股份有限公司，袁泉，刘伟，邱天",
+      "related_product": null,
+      "quote": "中国证券监督管理委员会重庆监管局决定对公司采取责令改正并出具警示函的行政监管措施...公司董事长袁泉、总经理刘伟、财务总监兼董秘邱天未按照《上市公司信息披露管理办法》第五十一条第三款的规定履行勤勉尽责义务，对上述问题负有主要责任。"
+    }
+  ]
+}

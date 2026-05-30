@@ -1,0 +1,566 @@
+{
+  "company_name_mentioned": "中石化石油机械股份有限公司",
+  "produces": [
+    {
+      "name": "石油机械设备",
+      "type": "device",
+      "revenue_proportion": "57.72%",
+      "quote": "产品结构：石油机械设备、钻头及钻具、油气钢管三大核心主业收入占比分别升至57.72%、10.41%、17.22%"
+    },
+    {
+      "name": "钻头及钻具",
+      "type": "device",
+      "revenue_proportion": "10.41%",
+      "quote": "产品结构：石油机械设备、钻头及钻具、油气钢管三大核心主业收入占比分别升至57.72%、10.41%、17.22%"
+    },
+    {
+      "name": "油气钢管",
+      "type": "device",
+      "revenue_proportion": "17.22%",
+      "quote": "产品结构：石油机械设备、钻头及钻具、油气钢管三大核心主业收入占比分别升至57.72%、10.41%、17.22%"
+    },
+    {
+      "name": "氢能装备",
+      "type": "device",
+      "revenue_proportion": "0.98%",
+      "quote": "氢能装备：实现营业收入0.7亿元，同比增长21.86%。公司抢抓氢能产业发展机遇...（注：原文提及占比0.98%见分行业表格）"
+    },
+    {
+      "name": "压裂装备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "175MPa压裂装备、CCUS封隔器等新产品实现规模化应用"
+    },
+    {
+      "name": "天然气压缩机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "压裂装备、天然气压缩机国内市场占有率均位居行业前列。"
+    },
+    {
+      "name": "可控震源车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "石油地震勘探装备领域：构建行业领先的可控震源勘探技术体系，研制可控震源车、仪器车、5G节点仪和检波器等产品"
+    },
+    {
+      "name": "绿色再制造服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "1.绿色再制造服务：开展装备及工具、部件的检测、大修、升级业务和装备自动化、智能化改造服务"
+    },
+    {
+      "name": "装备检验检测服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "2.装备检验检测服务：依托国家油气钻采设备质量检验检测中心（湖北）及5项国家级检测资质，提供精密测量、理化分析、无损检测和性能试验等全维度检测服务。"
+    },
+    {
+      "name": "天然气增压技术服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "3.天然气增压技术服务：提供基于压缩机技术的提高油气采收率技术服务，以及井口气回收、单井综合治理、气井开发等技术服务。"
+    },
+    {
+      "name": "装备租赁服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "4.装备租赁服务：通过直接或间接设备租赁的形式，向承租方出让设备资产使用权以实现经营收益，为客户提供轻量化装备使用方案。"
+    },
+    {
+      "name": "数字化增值服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "5.数字化增值服务：实施“人工智能+油气和新能源装备”行动，打造钻头钻具研选平台、压缩机远程运维平台、SOFElink数智管理平台"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": null,
+      "cost_proportion": "77.38%",
+      "quote": "直接材料 直接材料 4,788,466,976.95 77.38%"
+    },
+    {
+      "name": "职工薪酬",
+      "target_product": null,
+      "cost_proportion": "10.05%",
+      "quote": "职工薪酬 职工薪酬 621,744,352.39 10.05%"
+    },
+    {
+      "name": "折旧及摊销",
+      "target_product": null,
+      "cost_proportion": "3.88%",
+      "quote": "折旧及摊销 折旧及摊销 240,236,883.25 3.88%"
+    },
+    {
+      "name": "外委加工费",
+      "target_product": null,
+      "cost_proportion": "3.53%",
+      "quote": "外委加工费 外委加工费 218,464,515.85 3.53%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "油气开采",
+      "source_product": "石油机械设备、钻头及钻具等",
+      "quote": "产品与服务可满足陆地、海洋、沙漠、万米深地等全场景能源开发需求"
+    },
+    {
+      "name": "油气集输",
+      "source_product": "油气钢管、集输装备等",
+      "quote": "核心业务覆盖油气开采高端装备研发制造及服务、油气集输、加氢制氢装备研发制造及服务"
+    },
+    {
+      "name": "氢能开发",
+      "source_product": "氢能装备",
+      "quote": "布局氢能装备、LNG装备、炼化压缩机组、CCUS配套装备等战略性新兴产业"
+    },
+    {
+      "name": "LNG加注",
+      "source_product": "LNG装备",
+      "quote": "LNG装备领域：构建标准化橇装站、常规站用LNG加气设备系列化型谱"
+    },
+    {
+      "name": "石油地震勘探",
+      "source_product": "可控震源车、仪器车等",
+      "quote": "石油地震勘探装备领域：构建行业领先的可控震源勘探技术体系，研制可控震源车、仪器车、5G节点仪和检波器等产品"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王峻乔",
+      "role": "董事长、党委书记",
+      "quote": "公司负责人王峻乔、主管会计工作负责人魏钢及会计机构负责人杨璐声明...现任本公司董事长、党委书记。"
+    },
+    {
+      "name": "刘强",
+      "role": "副董事长、总经理、党委副书记",
+      "quote": "现任本公司副董事长、总经理、党委副书记。"
+    },
+    {
+      "name": "魏钢",
+      "role": "财务总监、党委委员",
+      "quote": "主管会计工作负责人魏钢...现任本公司财务总监、党委委员。"
+    },
+    {
+      "name": "王庆群",
+      "role": "副总经理兼总法律顾问、首席合规官、党委委员",
+      "quote": "现任本公司副总经理兼总法律顾问、首席合规官、党委委员。"
+    },
+    {
+      "name": "潘灵永",
+      "role": "副总经理、党委委员",
+      "quote": "现任本公司副总经理、党委委员。"
+    },
+    {
+      "name": "王务红",
+      "role": "董事会秘书兼综合管理部主任",
+      "quote": "董事会秘书 证券事务代表 姓名 王务红 周艳霞...现任本公司董事会秘书兼综合管理部（党委办公室、董事会办公室、保密管理办公室）主任。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国石油化工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东名称：中国石油化工集团有限公司"
+    },
+    {
+      "name": "中国石化集团资本有限公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东的一致行动人",
+      "quote": "公司控股股东的一致行动人中国石化集团资本有限公司自愿承诺..."
+    },
+    {
+      "name": "中石化四机石油机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为机械制造",
+      "quote": "中石化四机石油机械有限公司 子公司 机械制造"
+    },
+    {
+      "name": "中石化江钻石油机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为机械制造",
+      "quote": "中石化江钻石油机械有限公司 子公司 机械制造"
+    },
+    {
+      "name": "四机赛瓦石油钻采设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为机械制造",
+      "quote": "四机赛瓦石油钻采设备有限公司 子公司 机械制造"
+    },
+    {
+      "name": "荆州市世纪派创石油机械检测有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为设备检测",
+      "quote": "荆州市世纪派创石油机械检测有限公司 子公司 设备检测"
+    },
+    {
+      "name": "中石化氢能机械（武汉）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为机械制造（氢能装备）",
+      "quote": "中石化氢能机械（武汉）有限公司 子公司 机械制造"
+    },
+    {
+      "name": "沙特阿美",
+      "relation_type": "customer",
+      "business_details": "与沙特阿美等国际能源巨头建立合作关系",
+      "quote": "深化与沙特阿美、ADNOC、道达尔等国际能源巨头建立合作关系"
+    },
+    {
+      "name": "国家石油天然气管网集团有限公司",
+      "relation_type": "customer",
+      "business_details": "核心客户",
+      "quote": "与国内主要油气企业、国家管网集团等核心客户建立长期稳定战略合作关系"
+    },
+    {
+      "name": "中国石化财务有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "向公司提供存款、贷款等金融服务的关联财务公司",
+      "quote": "中石化财务公司 指 中国石化财务有限责任公司及其分支机构"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "石油机械设备",
+      "segment_type": "product_line",
+      "revenue_amount": "4,158,135,978.17",
+      "revenue_proportion": "57.72%",
+      "gross_margin": "16.10%",
+      "yoy_change": "-7.59%",
+      "quote": "分行业 石油机械设备 4,158,135,978.17 57.72% 4,499,563,334.85 55.99% -7.59%"
+    },
+    {
+      "name": "钻头及钻具",
+      "segment_type": "product_line",
+      "revenue_amount": "750,204,344.02",
+      "revenue_proportion": "10.41%",
+      "gross_margin": "24.46%",
+      "yoy_change": "-6.04%",
+      "quote": "钻头及钻具 750,204,344.02 10.41% 798,424,939.46 9.93% -6.04%"
+    },
+    {
+      "name": "油气钢管",
+      "segment_type": "product_line",
+      "revenue_amount": "1,240,597,178.98",
+      "revenue_proportion": "17.22%",
+      "gross_margin": "1.31%",
+      "yoy_change": "-8.87%",
+      "quote": "油气钢管 1,240,597,178.98 17.22% 1,361,415,629.90 16.94% -8.87%"
+    },
+    {
+      "name": "氢能装备",
+      "segment_type": "product_line",
+      "revenue_amount": "70,344,455.18",
+      "revenue_proportion": "0.98%",
+      "gross_margin": "-3.49%",
+      "yoy_change": "21.86%",
+      "quote": "氢能装备 70,344,455.18 0.98% 57,724,387.20 0.72% 21.86%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "984,395,850.11",
+      "revenue_proportion": "13.67%",
+      "gross_margin": "15.06%",
+      "yoy_change": "-25.41%",
+      "quote": "其他 984,395,850.11 13.67% 1,319,669,495.88 16.42% -25.41%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "5,948,148,077.52",
+      "revenue_proportion": "82.57%",
+      "gross_margin": "14.70%",
+      "yoy_change": "-10.89%",
+      "quote": "境内 5,948,148,077.52 82.57% 6,675,074,203.75 83.06% -10.89%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,255,529,728.94",
+      "revenue_proportion": "17.43%",
+      "gross_margin": "11.21%",
+      "yoy_change": "-7.80%",
+      "quote": "境外 1,255,529,728.94 17.43% 1,361,723,583.54 16.94% -7.80%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "石油机械设备",
+      "metric_type": "sales_volume",
+      "value": "3,488,698,942.16元",
+      "period": "2025年",
+      "quote": "销售量 元 3,488,698,942.16 3,567,601,397.38 -2.21%"
+    },
+    {
+      "product": "石油机械设备",
+      "metric_type": "production_volume",
+      "value": "3,384,174,388.14元",
+      "period": "2025年",
+      "quote": "生产量 元 3,384,174,388.14 3,349,028,926.94 1.05%"
+    },
+    {
+      "product": "石油机械设备",
+      "metric_type": "inventory_volume",
+      "value": "593,438,022.38元",
+      "period": "2025年末",
+      "quote": "库存量 元 593,438,022.38 697,962,576.40 -14.98%"
+    },
+    {
+      "product": "钻头及钻具",
+      "metric_type": "sales_volume",
+      "value": "34,212只（套）",
+      "period": "2025年",
+      "quote": "销售量 只（套） 34,212 34,336 -0.36%"
+    },
+    {
+      "product": "钻头及钻具",
+      "metric_type": "production_volume",
+      "value": "34,704只（套）",
+      "period": "2025年",
+      "quote": "生产量 只（套） 34,704 39,154 -11.37%"
+    },
+    {
+      "product": "钻头及钻具",
+      "metric_type": "inventory_volume",
+      "value": "15,520只（套）",
+      "period": "2025年末",
+      "quote": "库存量 只（套） 15,520 18,028 -13.91%"
+    },
+    {
+      "product": "油气钢管",
+      "metric_type": "sales_volume",
+      "value": "215,315吨",
+      "period": "2025年",
+      "quote": "销售量 吨 215,315 195,686 10.03%"
+    },
+    {
+      "product": "油气钢管",
+      "metric_type": "production_volume",
+      "value": "212,189吨",
+      "period": "2025年",
+      "quote": "生产量 吨 212,189 179,483 18.22%"
+    },
+    {
+      "product": "油气钢管",
+      "metric_type": "inventory_volume",
+      "value": "44,594吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 44,594 47,720 -6.55%"
+    },
+    {
+      "product": "氢能装备",
+      "metric_type": "sales_volume",
+      "value": "72,799,191.49元",
+      "period": "2025年",
+      "quote": "销售量 元 72,799,191.49 57,695,689.18 26.18%"
+    },
+    {
+      "product": "氢能装备",
+      "metric_type": "production_volume",
+      "value": "68,850,987.85元",
+      "period": "2025年",
+      "quote": "生产量 元 68,850,987.85 66,616,616.12 3.35%"
+    },
+    {
+      "product": "氢能装备",
+      "metric_type": "inventory_volume",
+      "value": "9,274,149.21元",
+      "period": "2025年末",
+      "quote": "库存量 元 9,274,149.21 13,222,352.85 -29.86%"
+    },
+    {
+      "product": "天然气",
+      "metric_type": "sales_volume",
+      "value": "338,670,713立方米",
+      "period": "2025年",
+      "quote": "销售量 立方米 338,670,713 510,279,911 -33.63%"
+    },
+    {
+      "product": "天然气",
+      "metric_type": "production_volume",
+      "value": "338,670,713立方米",
+      "period": "2025年",
+      "quote": "生产量 立方米 338,670,713 510,279,911 -33.63%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "电动压裂装备一体化服务项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "32,000万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2022年06月30日",
+      "quote": "电动压裂装备一体化服务项目 是 32,000 22,475.77 22,475.77 100.00% 06月30日 1,154.42 6,618.27 是 否"
+    },
+    {
+      "name": "螺旋焊管机组升级更新改造工程",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "7,280万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2022年12月31日",
+      "quote": "螺旋焊管机组升级更新改造工程 否 7,280 7,280 7,276.29 99.95% 12月31日 -837.97 -4,288.04 否 否"
+    },
+    {
+      "name": "油气田增压采收压缩机产线智能化升级改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "18,000万元",
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": "2025年08月31日",
+      "quote": "油气田增压采收压缩机产线智能化升级改造项目 否 18,000 18,000 4,682.87 14,097.88 78.32% 08月31日 387.06 387.06 不适用 否"
+    },
+    {
+      "name": "氢能装备集成制造与测试项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "23,519万元",
+      "designed_capacity": null,
+      "progress": "在建（延期）",
+      "expected_completion_time": "2028年03月31日",
+      "quote": "氢能装备集成制造与测试 否 23,519 3,174.11 3,174.11 13.50% 03月31日 不适用 否"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "30,000万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "补充流动资金 补流 否 30,000 30,000 3.71 29,626.35 98.75% 不适用 否"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“4超”核心技术",
+      "asset_type": "core_technology",
+      "related_product": "压裂泵、压缩机等",
+      "quantitative_info": null,
+      "quote": "形成超高压结构、超高硬材料、超高能控制、超高精制造“4 超”核心技术系列"
+    },
+    {
+      "name": "175MPa 压裂泵",
+      "asset_type": "core_technology",
+      "related_product": "压裂装备",
+      "quantitative_info": null,
+      "quote": "175MPa 压裂泵、90MPa 压缩机...达到国际先进水平"
+    },
+    {
+      "name": "90MPa 压缩机",
+      "asset_type": "core_technology",
+      "related_product": "天然气压缩机",
+      "quantitative_info": null,
+      "quote": "175MPa 压裂泵、90MPa 压缩机...达到国际先进水平"
+    },
+    {
+      "name": "累计授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "充足（原文未给出具体数字）",
+      "quote": "累计授权专利充足，主导或参与多项国家及行业标准制定"
+    },
+    {
+      "name": "API认证等国内外权威体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "50余项",
+      "quote": "持有 API、ISO 9001、TSG 等 50 余项国内外权威体系及产品认证"
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托国家企业技术中心、院士工作站、博士后工作站等高端创新平台"
+    },
+    {
+      "name": "国家级制造业单项冠军",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "3项",
+      "quote": "拥有 3 项国家级制造业单项冠军"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "4,455,596,728.26元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 4,455,596,728.26"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "61.85%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 61.85%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "2,350,346,479.21元",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 2,350,346,479.21 32.63%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "2,022,669,193.78元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,022,669,193.78"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 29.13%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "953,357,064.16元",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 953,357,064.16 13.73%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国际油价震荡下行导致上游油气勘探投资缩减，国内装备市场陷入‘内卷式’价格竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1. 市场波动风险...国际油价或维持宽幅震荡态势，若油价下行导致油公司缩减勘探开发投入，将引发油气装备及服务市场需求收缩，加剧市场竞争"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司国际业务部分采用外币结算，汇率波动可能影响公司产品价格竞争力及外币结算收益。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司国际业务部分采用外币结算，人民币对美元、欧元等货币的汇率波动，可能影响公司产品价格竞争力及外币结算收益，给经营业绩带来不确定性。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司面临应收账款与存货双高的流动性风险，若管控不力将影响公司资金周转效率。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3. 两金占用与现金流风险...公司面临应收账款与存货双高的流动性风险，若管控不力将影响公司资金周转效率"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "氢能装备业务仍处于产业化培育阶段，行业技术路线尚未完全定型，存在研发投入较大、成果转化不及预期等风险。",
+      "related_entity": null,
+      "related_product": "氢能装备",
+      "quote": "4. 氢能装备业务不确定性风险...氢能行业技术路线尚未完全定型，核心零部件与关键材料国产化程度不高，存在研发投入较大、成果转化不及预期等风险"
+    }
+  ]
+}

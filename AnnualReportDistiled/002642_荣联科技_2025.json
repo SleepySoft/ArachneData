@@ -1,0 +1,553 @@
+{
+  "company_name_mentioned": "荣联科技集团股份有限公司",
+  "produces": [
+    {
+      "name": "系统集成服务",
+      "type": "service",
+      "revenue_proportion": "70.66%",
+      "quote": "分产品系统集成 1,377,466,534.93 70.66%"
+    },
+    {
+      "name": "技术开发与服务",
+      "type": "service",
+      "revenue_proportion": "21.03%",
+      "quote": "技术开发与服务 410,045,229.65 21.03%"
+    },
+    {
+      "name": "系统产品",
+      "type": "device",
+      "revenue_proportion": "7.72%",
+      "quote": "系统产品 150,535,851.65 7.72%"
+    },
+    {
+      "name": "IT运维服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "IT 运维服务主要面向 IT 基础设施，包括服务器、存储、网络等设备，以及操作系统、数据库系统、中间件系统、备份系统、云管理平台、大数据平台、各种生产和管理应用软件等。"
+    },
+    {
+      "name": "物联网和大数据服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "在物联网领域，公司具备数据采集、数据接入、边缘计算、数据管理和运营服务能力...在大数据领域，公司具备多源数据（PC 互联网、移动互联网、IOT）和异构（文本、图片、视频、音频、结构化数据库）采集能力..."
+    },
+    {
+      "name": "精准诊断平台",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "目前已经推出精准诊断平台、生物信息分析系统、生信一体机，并能提供架构咨询、数据中心建设、高性能集群建设、生信分析云平台建设的完整解决方案。"
+    },
+    {
+      "name": "生物信息分析系统",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "目前已经推出精准诊断平台、生物信息分析系统、生信一体机，并能提供架构咨询、数据中心建设、高性能集群建设、生信分析云平台建设的完整解决方案。"
+    },
+    {
+      "name": "生信一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "目前已经推出精准诊断平台、生物信息分析系统、生信一体机，并能提供架构咨询、数据中心建设、高性能集群建设、生信分析云平台建设的完整解决方案。"
+    },
+    {
+      "name": "荣联知识库管理与智能应答平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "荣联知识库管理与智能应答平台入选中国信息通信研究院“高质量数字化转型技术解决方案集”；荣联数据分析私有云平台成功获评“数字企业出海典型案例”。"
+    },
+    {
+      "name": "荣联数据分析私有云平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "荣联数据分析私有云平台成功获评“数字企业出海典型案例”。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "华为技术有限公司产品及服务",
+      "target_product": "IT设备、云服务等",
+      "cost_proportion": "45.30%",
+      "quote": "1 华为技术有限公司 1,072,387,853.77 45.30%"
+    },
+    {
+      "name": "浪潮集团有限公司产品",
+      "target_product": null,
+      "cost_proportion": "3.98%",
+      "quote": "2 浪潮集团有限公司 94,191,099.52 3.98%"
+    },
+    {
+      "name": "紫光股份有限公司产品",
+      "target_product": null,
+      "cost_proportion": "2.93%",
+      "quote": "3 紫光股份有限公司 69,435,305.23 2.93%"
+    },
+    {
+      "name": "北京明易达科技股份有限公司产品",
+      "target_product": null,
+      "cost_proportion": "2.89%",
+      "quote": "4 北京明易达科技股份有限公司 68,445,590.91 2.89%"
+    },
+    {
+      "name": "上海壁仞科技股份有限公司产品",
+      "target_product": null,
+      "cost_proportion": "2.32%",
+      "quote": "5 上海壁仞科技股份有限公司 54,973,922.16 2.32%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "金融",
+      "source_product": null,
+      "quote": "深耕金融、互联网、政府公用、智能制造及生物医疗等行业领域"
+    },
+    {
+      "name": "互联网",
+      "source_product": null,
+      "quote": "深耕金融、互联网、政府公用、智能制造及生物医疗等行业领域"
+    },
+    {
+      "name": "政府公用",
+      "source_product": null,
+      "quote": "深耕金融、互联网、政府公用、智能制造及生物医疗等行业领域"
+    },
+    {
+      "name": "智能制造",
+      "source_product": null,
+      "quote": "深耕金融、互联网、政府公用、智能制造及生物医疗等行业领域"
+    },
+    {
+      "name": "生物医疗",
+      "source_product": null,
+      "quote": "深耕金融、互联网、政府公用、智能制造及生物医疗等行业领域"
+    },
+    {
+      "name": "能源",
+      "source_product": null,
+      "quote": "分行业能源 52,162,724.53 2.68%"
+    },
+    {
+      "name": "电信",
+      "source_product": null,
+      "quote": "分行业电信 60,127,492.92 3.08%"
+    },
+    {
+      "name": "汽车营销",
+      "source_product": null,
+      "quote": "报告期内，公司在生物医疗、汽车营销、能源材料等领域与用户建立战略合作"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张旭光",
+      "role": "经理（总经理），法定代表人",
+      "quote": "公司负责人张旭光、主管会计工作负责人李莉及会计机构负责人（会计主管人员）郑卉声明"
+    },
+    {
+      "name": "李莉",
+      "role": "主管会计工作负责人（财务总监），董事，副经理",
+      "quote": "公司负责人张旭光、主管会计工作负责人李莉"
+    },
+    {
+      "name": "郑卉",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人张旭光、主管会计工作负责人李莉及会计机构负责人（会计主管人员）郑卉声明"
+    },
+    {
+      "name": "邓前",
+      "role": "董事会秘书，副经理",
+      "quote": "董事会秘书 证券事务代表姓名 邓前"
+    },
+    {
+      "name": "张亮",
+      "role": "董事长",
+      "quote": "2021年5月至今任公司董事长。"
+    },
+    {
+      "name": "李莉",
+      "role": "董事，副经理兼财务总监",
+      "quote": "2024年2月至今任公司董事、副经理兼任公司财务总监。"
+    },
+    {
+      "name": "孙修顺",
+      "role": "董事",
+      "quote": "2022年9月至今任公司董事。"
+    },
+    {
+      "name": "曹阳",
+      "role": "职工代表董事",
+      "quote": "2025年9月至今任公司职工代表董事。"
+    },
+    {
+      "name": "戴天婧",
+      "role": "独立董事",
+      "quote": "2024年1月至今担任公司独立董事。"
+    },
+    {
+      "name": "杨璐",
+      "role": "独立董事",
+      "quote": "2021年5月至今担任公司独立董事。"
+    },
+    {
+      "name": "宋恒杰",
+      "role": "独立董事",
+      "quote": "2021年5月至今担任公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华为技术有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司作为华为多产品钻石经销商，与华为的战略合作实现全面升级...公司自主研发的“荣联知识库管理与智能应答平台”继通过华为昇腾 AI 技术认证后，2025 年进一步完成华为鲲鹏双项技术认证...",
+      "quote": "公司不仅继续与华为、H3C、浪潮、曙光、腾讯、阿里、百度等国内头部企业保持长期紧密的战略合作...作为华为多产品钻石经销商，与华为的战略合作实现全面升级"
+    },
+    {
+      "name": "H3C（新华三）",
+      "relation_type": "supplier",
+      "business_details": "报告期内，公司与新华三联合推出基于新华三 LinSeerCube大模型一体机的汽车行业专属 AI营销运营解决方案",
+      "quote": "公司不仅继续与华为、H3C、浪潮、曙光、腾讯、阿里、百度等国内头部企业保持长期紧密的战略合作"
+    },
+    {
+      "name": "阿里云",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司不仅继续与华为、H3C、浪潮、曙光、腾讯、阿里、百度等国内头部企业保持长期紧密的战略合作"
+    },
+    {
+      "name": "百度",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司不仅继续与华为、H3C、浪潮、曙光、腾讯、阿里、百度等国内头部企业保持长期紧密的战略合作"
+    },
+    {
+      "name": "腾讯",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司不仅继续与华为、H3C、浪潮、曙光、腾讯、阿里、百度等国内头部企业保持长期紧密的战略合作"
+    },
+    {
+      "name": "钢研纳克",
+      "relation_type": "customer",
+      "business_details": "与钢研纳克达成战略合作，构建“业务需求-技术适配-场景落地”全链条合作模式，为其提供 AI 及相关领域技术支撑方案",
+      "quote": "公司承建的钢研纳克知识管理与 AI 智能应答平台入选中国信息通信研究院“高质量数字化转型典型案例”"
+    },
+    {
+      "name": "天下秀",
+      "relation_type": "customer",
+      "business_details": "与天下秀灵感岛联合发布汽车行业 AI营销解决方案",
+      "quote": "与天下秀灵感岛联合发布汽车行业 AI营销解决方案"
+    },
+    {
+      "name": "山东经达科技产业发展有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "2021年3月25日，山东经达成为公司控股股东"
+    },
+    {
+      "name": "北京达佳互联信息技术有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第一名",
+      "quote": "1 北京达佳互联信息技术有限公司 224,298,530.86 11.51%"
+    },
+    {
+      "name": "中科软科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第二名",
+      "quote": "2 中科软科技股份有限公司 82,080,074.19 4.21%"
+    },
+    {
+      "name": "沃尔沃汽车(中国)投资有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第三名",
+      "quote": "3 沃尔沃汽车(中国)投资有限公司 63,357,953.37 3.25%"
+    },
+    {
+      "name": "北京抖音信息服务有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第四名",
+      "quote": "4 北京抖音信息服务有限公司 57,947,998.02 2.97%"
+    },
+    {
+      "name": "国家开发银行",
+      "relation_type": "customer",
+      "business_details": "前五大客户第五名",
+      "quote": "5 国家开发银行 53,146,722.74 2.73%"
+    },
+    {
+      "name": "深圳市赞融电子技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "深圳市赞融电子技术有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金融",
+      "segment_type": "customer_type",
+      "revenue_amount": "563,631,849.17",
+      "revenue_proportion": "28.91%",
+      "gross_margin": "11.93%",
+      "yoy_change": "-25.87%",
+      "quote": "金融 563,631,849.17 28.91% ... 11.93% -25.87%"
+    },
+    {
+      "name": "行业应用服务商",
+      "segment_type": "customer_type",
+      "revenue_amount": "602,641,916.59",
+      "revenue_proportion": "30.91%",
+      "gross_margin": "14.11%",
+      "yoy_change": "51.75%",
+      "quote": "行业应用服务商 602,641,916.59 30.91% ... 14.11% 51.75%"
+    },
+    {
+      "name": "制造",
+      "segment_type": "customer_type",
+      "revenue_amount": "239,276,318.17",
+      "revenue_proportion": "12.27%",
+      "gross_margin": "18.82%",
+      "yoy_change": "-10.91%",
+      "quote": "制造 239,276,318.17 12.27% ... 18.82% -10.91%"
+    },
+    {
+      "name": "政府",
+      "segment_type": "customer_type",
+      "revenue_amount": "256,492,670.98",
+      "revenue_proportion": "13.16%",
+      "gross_margin": "10.22%",
+      "yoy_change": "7.04%",
+      "quote": "政府 256,492,670.98 13.16% ... 10.22% 7.04%"
+    },
+    {
+      "name": "系统集成",
+      "segment_type": "product_line",
+      "revenue_amount": "1,377,466,534.93",
+      "revenue_proportion": "70.66%",
+      "gross_margin": "11.41%",
+      "yoy_change": "3.72%",
+      "quote": "系统集成 1,377,466,534.93 70.66% ... 11.41% 3.72%"
+    },
+    {
+      "name": "技术开发与服务",
+      "segment_type": "product_line",
+      "revenue_amount": "410,045,229.65",
+      "revenue_proportion": "21.03%",
+      "gross_margin": "20.26%",
+      "yoy_change": "-17.57%",
+      "quote": "技术开发与服务 410,045,229.65 21.03% ... 20.26% -17.57%"
+    },
+    {
+      "name": "系统产品",
+      "segment_type": "product_line",
+      "revenue_amount": "150,535,851.65",
+      "revenue_proportion": "7.72%",
+      "gross_margin": "11.63%",
+      "yoy_change": "-21.09%",
+      "quote": "系统产品 150,535,851.65 7.72% ... 11.63% -21.09%"
+    },
+    {
+      "name": "北区",
+      "segment_type": "region",
+      "revenue_amount": "1,050,552,885.65",
+      "revenue_proportion": "53.89%",
+      "gross_margin": "14.16%",
+      "yoy_change": "1.41%",
+      "quote": "北区 1,050,552,885.65 53.89% ... 14.16% 1.41%"
+    },
+    {
+      "name": "东区",
+      "segment_type": "region",
+      "revenue_amount": "501,929,842.23",
+      "revenue_proportion": "25.75%",
+      "gross_margin": "16.50%",
+      "yoy_change": "-14.51%",
+      "quote": "东区 501,929,842.23 25.75% ... 16.50% -14.51%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "订单与备件协同管理系统",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "订单与备件协同管理系统...已结项"
+    },
+    {
+      "name": "工业互联网平台AI中台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "工业互联网平台AI中台...已结项"
+    },
+    {
+      "name": "采购系统优化",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "采购系统优化...已结项"
+    },
+    {
+      "name": "汽车行业AI+数字化营销平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "汽车行业AI+数字化营销平台...已结项"
+    },
+    {
+      "name": "数字孪生系统",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "数字孪生系统...已结项"
+    },
+    {
+      "name": "销售与售后运营集成中心系统",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "销售与售后运营集成中心系统...已结项"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "计算机软件著作权及各类专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "418项",
+      "quote": "公司累计拥有计算机软件著作权及各类专利418项。"
+    },
+    {
+      "name": "云超算国家标准GB/T45400-2025《信息技术 云计算 云超算通用要求》",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司作为主要参编单位，参与了我国首个云超算国家标准GB/T45400-2025《信息技术 云计算 云超算通用要求》的起草工作"
+    },
+    {
+      "name": "ITSS信息技术服务运行维护标准符合性证书（二级）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司完成了ITSS信息技术服务运行维护标准符合性证书（二级）的更新年审"
+    },
+    {
+      "name": "ITSS云计算服务能力标准符合性证书（三级）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "完成 ITSS 云计算服务能力标准符合性证书（三级）"
+    },
+    {
+      "name": "信息系统建设和服务能力评估三级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "信息系统建设和服务能力评估三级"
+    },
+    {
+      "name": "CMMI5级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "CMMI5级"
+    },
+    {
+      "name": "ISO9001",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了 ISO9001"
+    },
+    {
+      "name": "ISO20000",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO20000"
+    },
+    {
+      "name": "ISO27001",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO27001"
+    },
+    {
+      "name": "高新技术企业证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "中关村高新技术企业证书"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "24.66%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 24.66%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "57.42%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 57.42%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "11.51%",
+      "related_entity": "北京达佳互联信息技术有限公司",
+      "period": "2025年度",
+      "quote": "1 北京达佳互联信息技术有限公司 224,298,530.86 11.51%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "45.30%",
+      "related_entity": "华为技术有限公司",
+      "period": "2025年度",
+      "quote": "1 华为技术有限公司 1,072,387,853.77 45.30%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司涉及的云计算、大数据、人工智能、物联网、生物医疗等领域均属于高科技产业范畴。核心技术路径的演进、行业标准的更新、跨界技术的融合，均可能对现有产品架构、服务模式及竞争格局产生深远影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司涉及的云计算、大数据、人工智能、物联网、生物医疗等领域均属于高科技产业范畴。核心技术路径的演进、行业标准的更新、跨界技术的融合，均可能对现有产品架构、服务模式及竞争格局产生深远影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司所处软件与信息技术服务业作为国家重点支持的战略性新兴产业...产业政策具有阶段性、导向性特征，若未来相关政策发生重大调整或支持力度减弱，则可能对公司在相关领域的发展带来潜在不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司所处软件与信息技术服务业作为国家重点支持的战略性新兴产业...产业政策具有阶段性、导向性特征，若未来相关政策发生重大调整或支持力度减弱，则可能对公司在相关领域的发展带来潜在不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着数字经济成为国民经济发展的核心驱动力，软件与信息技术服务市场规模持续扩张，行业竞争态势呈现出多维化、生态化的复杂特征。众多具备强大用户基础、资本实力和数据资源的互联网科技企业纷纷跨界渗透至企业级服务市场，对行业竞争格局形成一定冲击。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着数字经济成为国民经济发展的核心驱动力，软件与信息技术服务市场规模持续扩张，行业竞争态势呈现出多维化、生态化的复杂特征。众多具备强大用户基础、资本实力和数据资源的互联网科技企业纷纷跨界渗透至企业级服务市场，对行业竞争格局形成一定冲击。"
+    }
+  ]
+}

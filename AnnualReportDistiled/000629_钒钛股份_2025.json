@@ -1,0 +1,180 @@
+{
+  "company_name_mentioned": "攀钢集团钒钛资源股份有限公司",
+  "produces": [
+    {
+      "name": "钒产品（氧化钒、钒铁、钒氮合金、钒铝合金、高纯五氧化二钒、钒电解液）",
+      "type": "material",
+      "revenue_proportion": "43.17%",
+      "quote": "钒产品 3,837,802,669.67 43.17%"
+    },
+    {
+      "name": "钛白粉",
+      "type": "material",
+      "revenue_proportion": "35.73%",
+      "quote": "钛白粉 3,176,172,451.78 35.73%"
+    },
+    {
+      "name": "钛渣",
+      "type": "material",
+      "revenue_proportion": "6.03%",
+      "quote": "钛渣 536,124,114.74 6.03%"
+    },
+    {
+      "name": "电",
+      "type": "service",
+      "revenue_proportion": "4.82%",
+      "quote": "电 428,283,536.61 4.82%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钛精矿和粗钒渣",
+      "target_product": "钛白粉、钒产品",
+      "cost_proportion": "68.81%（前五大供应商采购关联方采购额占年度采购总额比例）",
+      "quote": "主要原料钛精矿由公司控股股东攀钢集团提供"
+    }
+  ],
+  "applications": [
+    {
+      "name": "钢铁冶金",
+      "source_product": "钒产品（钒铁、钒氮合金等）",
+      "quote": "主要应用于钢铁、有色冶金、化工、能源等领域"
+    },
+    {
+      "name": "储能（全钒液流电池）",
+      "source_product": "钒产品（高纯五氧化二钒、钒电解液）",
+      "quote": "钒是制备全钒液流电池（VRFB）的关键材料"
+    },
+    {
+      "name": "涂料、塑料、造纸、油墨",
+      "source_product": "钛白粉",
+      "quote": "广泛应用于涂料、塑料、造纸、油墨等众多领域"
+    },
+    {
+      "name": "钛合金（海绵钛生产）",
+      "source_product": "钛渣",
+      "quote": "主要用于生产钛白粉、海绵钛"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "马朝辉",
+      "role": "董事长",
+      "quote": "公司负责人王绍东、主管会计工作负责人谢正敏"
+    },
+    {
+      "name": "王绍东",
+      "role": "总经理",
+      "quote": "公司负责人王绍东、主管会计工作负责人谢正敏"
+    },
+    {
+      "name": "谢正敏",
+      "role": "副总经理、财务负责人、董事会秘书",
+      "quote": "主管会计工作负责人谢正敏及会计机构负责人（会计主管人员）周静利"
+    },
+    {
+      "name": "杨东",
+      "role": "职工董事",
+      "quote": "杨 东 男 58 职工董事 现任"
+    },
+    {
+      "name": "朱波",
+      "role": "董事",
+      "quote": "朱 波 男 50 董事 现任"
+    },
+    {
+      "name": "曲绍勇",
+      "role": "董事",
+      "quote": "曲绍勇 男 52 董事 现任"
+    },
+    {
+      "name": "周玉昌",
+      "role": "副总经理",
+      "quote": "周玉昌 男 43 副总经理 现任"
+    },
+    {
+      "name": "文本超",
+      "role": "副总经理",
+      "quote": "文本超 男 56 副总经理 现任"
+    },
+    {
+      "name": "徐聪",
+      "role": "副总经理",
+      "quote": "徐 聪 男 40 副总经理 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "鞍钢集团有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第一，向其销售钒钛产品及电力",
+      "quote": "鞍钢集团有限公司 3,374,699,863.28 27.49%"
+    },
+    {
+      "name": "鞍钢集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商第一，向其采购原辅材料及电力",
+      "quote": "鞍钢集团有限公司 6,887,449,831.67 68.81%"
+    },
+    {
+      "name": "攀钢集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，提供主要原料钛精矿",
+      "quote": "攀钢集团 指 攀钢集团有限公司"
+    },
+    {
+      "name": "鞍钢集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "鞍钢集团 指 鞍钢集团有限公司"
+    },
+    {
+      "name": "大连融科储能集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "储能用钒原料供应合作伙伴",
+      "quote": "2026年与大连融科再次签订年度储能用钒原料供应框架协议"
+    },
+    {
+      "name": "攀钢集团钛业有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事钛产品生产",
+      "quote": "钛业公司 指 攀钢集团钛业有限责任公司"
+    },
+    {
+      "name": "攀钢集团西昌钒制品科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事钒制品生产",
+      "quote": "西昌钒制品 指 攀钢集团西昌钒制品科技有限公司"
+    },
+    {
+      "name": "攀钢集团重庆钛业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事钛白粉生产",
+      "quote": "重庆钛业 指 攀钢集团重庆钛业有限公司"
+    },
+    {
+      "name": "攀枝花东方钛业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事钛白粉生产销售",
+      "quote": "东方钛业 指 攀枝花东方钛业有限公司"
+    },
+    {
+      "name": "攀枝花市国钛科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事钛渣生产",
+      "quote": "国钛科技 指 攀枝花市国钛科技有限公司"
+    },
+    {
+      "name": "四川钒融储能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事钒制品生产",
+      "quote": "钒融科技 指 四川钒融储能科技有限公司"
+    },
+    {
+      "name": "攀枝花市阳润科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事钒制品生产",
+      "quote": "阳润科技 指 攀枝花市阳润科技有限公司"
+    }
+  ]
+}

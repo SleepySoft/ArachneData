@@ -1,0 +1,507 @@
+{
+  "company_name_mentioned": "浙江大华技术股份有限公司",
+  "produces": [
+    {
+      "name": "智慧物联产品及方案",
+      "type": "device",
+      "revenue_proportion": "80.65%",
+      "quote": "分产品：智慧物联产品及方案 26,408,997,437.86 80.65%"
+    },
+    {
+      "name": "软件业务",
+      "type": "software",
+      "revenue_proportion": "5.60%",
+      "quote": "其中：软件业务 1,832,591,919.52 5.60%"
+    },
+    {
+      "name": "创新业务",
+      "type": "device",
+      "revenue_proportion": "17.32%",
+      "quote": "创新业务（注2） 5,670,492,055.81 17.32%"
+    },
+    {
+      "name": "星汉大模型",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "（1）星汉大模型驱动“智算”升级，赋能政企数智化深度转型"
+    },
+    {
+      "name": "智慧物联解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司是全球领先的以视频为核心的智慧物联解决方案提供商和运营服务商"
+    },
+    {
+      "name": "机器视觉及移动机器人",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司创新业务主要包括：机器视觉与移动机器人、热成像、汽车电子、智慧安检、智慧消防、报警等创新业务。"
+    },
+    {
+      "name": "热成像产品及解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "集团旗下子公司华感科技以热成像技术为核心，面向全球提供热成像机芯模组、个人视觉产品、整机产品、平台软件及全场景数智解决方案。"
+    },
+    {
+      "name": "汽车电子产品及解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "集团旗下子公司华锐捷专注于智能车载产品和行业解决方案...致力于成为行业领先的以视频技术为核心的智能汽车电子产品供应商和解决方案提供商。"
+    },
+    {
+      "name": "智慧安检装备与服务",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "集团旗下子公司浙江华视智检科技有限公司是智慧安检整体解决方案的提供商及运营服务商。"
+    },
+    {
+      "name": "智慧消防产品及解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "集团旗下子公司华消科技是集成先进技术研发、产品体系、平台能力及交付服务的“安消电”一体化综合解决方案及运营服务提供商。"
+    },
+    {
+      "name": "报警产品及解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司在报警业务领域提供行业领先的入侵报警产品与解决方案。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "存储芯片",
+      "target_product": "智慧物联产品",
+      "cost_proportion": null,
+      "quote": "受存储芯片原厂减产、停产导致市场供应价格暴涨"
+    },
+    {
+      "name": "大宗金属材料",
+      "target_product": "智慧物联产品",
+      "cost_proportion": null,
+      "quote": "大宗金属材料上涨幅度，导致受影响的物料都有不同幅度的价格上涨。"
+    },
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "全球地缘政治持续紧张，材料价格高位震荡，部分原材料出现紧缺行情"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市治理",
+      "source_product": "智慧物联解决方案",
+      "quote": "在城市业务领域，围绕“城市高效治理、城市运行自治、安全体系升级、生态协同治理”目标"
+    },
+    {
+      "name": "企业数智化升级",
+      "source_product": "智慧物联解决方案",
+      "quote": "在企业业务领域，将AI、大数据等先进技术与行业场景深度融合，洞察产业变革趋势，深入千行百业，挖掘企业数字化、智能化需求"
+    },
+    {
+      "name": "交通",
+      "source_product": null,
+      "quote": "在交通、交警、社会治理、公共民生、生态环境等行业，深耕城市业务场景"
+    },
+    {
+      "name": "能源生产",
+      "source_product": null,
+      "quote": "在电力、石化、有色金属、工业制造、教育、文旅等重点行业实现突破性进展与规模化落地"
+    },
+    {
+      "name": "教育",
+      "source_product": null,
+      "quote": "在建筑、教育、制造、石化、煤炭、电力、钢铁、农产、物流、文旅、医疗、金融、商业连锁等领域"
+    },
+    {
+      "name": "医疗",
+      "source_product": null,
+      "quote": "在建筑、教育、制造、石化、煤炭、电力、钢铁、农产、物流、文旅、医疗、金融、商业连锁等领域"
+    },
+    {
+      "name": "金融",
+      "source_product": null,
+      "quote": "在建筑、教育、制造、石化、煤炭、电力、钢铁、农产、物流、文旅、医疗、金融、商业连锁等领域"
+    },
+    {
+      "name": "低空经济",
+      "source_product": "热成像产品",
+      "quote": "华感科技以热成像技术为核心...广泛应用于低空经济、应急管理、工业测温...等众多领域。"
+    },
+    {
+      "name": "智能制造",
+      "source_product": "机器视觉及移动机器人",
+      "quote": "华睿科技...产品与解决方案已服务全球众多知名企业...向医药、食品等高价值行业拓展应用生态。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "傅利泉",
+      "role": "公司负责人/法定代表人",
+      "quote": "公司负责人傅利泉、主管会计工作负责人徐巧芬及会计机构负责人（会计主管人员）朱竹玲声明"
+    },
+    {
+      "name": "徐巧芬",
+      "role": "主管会计工作负责人",
+      "quote": "公司负责人傅利泉、主管会计工作负责人徐巧芬及会计机构负责人（会计主管人员）朱竹玲声明"
+    },
+    {
+      "name": "朱竹玲",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人傅利泉、主管会计工作负责人徐巧芬及会计机构负责人（会计主管人员）朱竹玲声明"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江零跑科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "序号3：浙江零跑科技股份有限公司（关联方） 618,088,827.63 1.89%"
+    },
+    {
+      "name": "中国移动通信集团有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "序号5：中国移动通信集团有限公司（关联方） 360,716,570.05 1.10%"
+    },
+    {
+      "name": "Intelbras S.A.",
+      "relation_type": "joint_venture",
+      "business_details": null,
+      "quote": "INTELBRAS S.A. INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA BRASILEIRA"
+    },
+    {
+      "name": "上海挚澄科技有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "交易对方：上海挚澄科技有限公司"
+    },
+    {
+      "name": "杭州华橙网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "出售的子公司",
+      "quote": "公司子公司杭州华橙网络科技有限公司于本期转让，自转让之日起杭州华橙网络科技有限公司及其控制的子公司不再纳入合并范围。"
+    },
+    {
+      "name": "浙江华睿科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "集团旗下子公司浙江华睿科技股份有限公司（以下简称：华睿科技）"
+    },
+    {
+      "name": "华感科技",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "集团旗下子公司华感科技以热成像技术为核心"
+    },
+    {
+      "name": "华锐捷",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "集团旗下子公司华锐捷专注于智能车载产品和行业解决方案"
+    },
+    {
+      "name": "浙江华视智检科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "集团旗下子公司浙江华视智检科技有限公司是智慧安检整体解决方案的提供商及运营服务商。"
+    },
+    {
+      "name": "华消科技",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "集团旗下子公司华消科技是集成先进技术研发、产品体系、平台能力及交付服务的“安消电”一体化综合解决方案及运营服务提供商"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智慧物联产品及方案",
+      "segment_type": "product_line",
+      "revenue_amount": "26,408,997,437.86",
+      "revenue_proportion": "80.65%",
+      "gross_margin": "42.44%",
+      "yoy_change": "2.46%",
+      "quote": "分产品：智慧物联产品及方案 26,408,997,437.86 80.65% 25,775,422,871.14 80.09% 2.46% ... 毛利率 42.44%"
+    },
+    {
+      "name": "软件业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,832,591,919.52",
+      "revenue_proportion": "5.60%",
+      "gross_margin": "65.33%",
+      "yoy_change": "8.73%",
+      "quote": "其中：软件业务 1,832,591,919.52 5.60% 1,685,487,112.56 5.24% 8.73% ... 毛利率 65.33%"
+    },
+    {
+      "name": "创新业务",
+      "segment_type": "product_line",
+      "revenue_amount": "5,670,492,055.81",
+      "revenue_proportion": "17.32%",
+      "gross_margin": "34.89%",
+      "yoy_change": "1.87%",
+      "quote": "创新业务（注2） 5,670,492,055.81 17.32% 5,566,291,857.39 17.30% 1.87% ... 毛利率 34.89%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "16,752,032,126.82",
+      "revenue_proportion": "51.16%",
+      "gross_margin": "34.97%",
+      "yoy_change": "5.44%",
+      "quote": "分地区：境内 16,752,032,126.82 51.16% 15,886,994,088.01 49.37% 5.44% ... 毛利率 34.97%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "15,991,751,216.98",
+      "revenue_proportion": "48.84%",
+      "gross_margin": "46.54%",
+      "yoy_change": "-1.85%",
+      "quote": "境外 15,991,751,216.98 48.84% 16,293,937,739.16 50.63% -1.85% ... 毛利率 46.54%"
+    },
+    {
+      "name": "To G",
+      "segment_type": "customer_type",
+      "revenue_amount": "4,119,857,827.46",
+      "revenue_proportion": "24.59%",
+      "gross_margin": "38.31%",
+      "yoy_change": "1.54%",
+      "quote": "境内分业务板块：To G 4,119,857,827.46 24.59% ... 同比增减 1.54% ... 毛利率 38.31%"
+    },
+    {
+      "name": "To B",
+      "segment_type": "customer_type",
+      "revenue_amount": "9,700,882,198.65",
+      "revenue_proportion": "57.91%",
+      "gross_margin": "36.54%",
+      "yoy_change": "11.38%",
+      "quote": "To B 9,700,882,198.65 57.91% ... 同比增减 11.38% ... 毛利率 36.54%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智慧物联行业",
+      "metric_type": "sales_volume",
+      "value": "89,375,686台/套",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 智慧物联行业 销售量 台/套 89,375,686 89,318,564 0.06%"
+    },
+    {
+      "product": "智慧物联行业",
+      "metric_type": "production_volume",
+      "value": "93,262,233台/套",
+      "period": "2025年",
+      "quote": "智慧物联行业 生产量 台/套 93,262,233 91,286,526 2.16%"
+    },
+    {
+      "product": "智慧物联行业",
+      "metric_type": "inventory_volume",
+      "value": "13,356,583台/套",
+      "period": "2025年末",
+      "quote": "智慧物联行业 库存量 台/套 13,356,583 11,908,069 12.16%"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "全球180多个国家和地区",
+      "period": null,
+      "quote": "公司是全球领先的以视频为核心的智慧物联解决方案提供商和运营服务商...业务覆盖全球180多个国家和地区。"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "200多个国内办事处",
+      "period": null,
+      "quote": "在国内设立200多个办事处，覆盖100%省份直辖市自治区、100%地级市和70%以上区县"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "75个海外分子公司",
+      "period": null,
+      "quote": "在海外设立75个分子公司"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "募集资金项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "详见第五节 十六、募集资金使用情况"
+    },
+    {
+      "name": "研发中心建设",
+      "project_type": "r_and_d_project",
+      "location": "杭州、西安、成都、欧洲、拉美",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "并以杭州总部为中心，在西安、成都、欧洲、拉美建立4个研发分中心，拓展全球化研发体系布局。"
+    },
+    {
+      "name": "制造中心建设",
+      "project_type": "capacity_expansion",
+      "location": "杭州、长沙、海外",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "目前已形成两大国内制造中心（杭州、长沙）、一个海外制造中心、两个欧洲HUB仓以及覆盖N个核心市场的海外国家仓的全球多级供应网络。"
+    },
+    {
+      "name": "华锐捷制造工厂建设",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "随着产品业务的扩大，公司还大力投入制造工厂建设，新增了多条AA线体，整体产能持续扩展"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "星汉大模型",
+      "asset_type": "core_technology",
+      "related_product": "智慧物联解决方案",
+      "quantitative_info": "V、M、L三大系列",
+      "quote": "公司将“AIoT智慧物联”全面升级为“智感”、“物联数智平台”全面升级为“智算”，构建全新的智慧物联技术体系...以星汉大模型为核心"
+    },
+    {
+      "name": "国产化计算框架",
+      "asset_type": "process_technology",
+      "related_product": "大模型",
+      "quantitative_info": null,
+      "quote": "自研‘芯片-算子-框架-模型’计算框架，构建了统一的模型编译工具链"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "公司整体",
+      "quantitative_info": "累计申请专利600+，其中发明专利300+",
+      "quote": "截至2025年底，公司累计申请专利600+，其中发明专利300+"
+    },
+    {
+      "name": "ISO 27001信息安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "目前已获得的认证主要包括：ISO 27001信息安全管理体系认证、ISO 27701隐私信息管理体系认证等"
+    },
+    {
+      "name": "CC EAL3+、FIPS 140-2等产品安全认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "CC EAL3+、FIPS 140-2、商用密码认证等产品安全认证"
+    },
+    {
+      "name": "参与国家标准与行业标准制定",
+      "asset_type": "standard",
+      "related_product": "报警业务",
+      "quantitative_info": null,
+      "quote": "积极参与多项国家标准与行业标准的制定"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "10.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 10.71%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "3.45%",
+      "related_entity": "单位1",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 单位1 1,129,760,649.25 3.45%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "19.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 19.31%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.41%",
+      "related_entity": "单位1",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 单位1 1,352,452,223.15 6.41%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "智慧物联行业是典型的技术密集型行业，行业更新换代极为迅速。若公司不能紧跟行业技术的发展趋势...则仍将面临因无法保持持续创新能力导致市场竞争力下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）技术更新换代的风险：智慧物联行业是典型的技术密集型行业，行业更新换代极为迅速。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着物联网、人工智能、大数据、云计算、网络通信等技术的发展和智能终端应用方式的升级，物联网时代的商业模式可能对传统行业发展带来冲击，如企业不能及时把握商业模式转变带来的机遇，则可能面临原有市场格局被打破的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）商业模式转变风险：随着物联网、人工智能、大数据、云计算、网络通信等技术的发展和智能终端应用方式的升级，物联网时代的商业模式可能对传统行业发展带来冲击"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "目前，部分地方财政债务水平较高、支付能力下降，可能导致行业需求增速放缓，工程项目工期延长，企业资金回笼周期拉长，客户支付延期等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）地方财政支付能力下降风险：目前，部分地方财政债务水平较高、支付能力下降"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "当前全球经济仍处于周期性调整之中，公司在国际化经营过程中还面临多方面的风险...数据安全、碳关税、ESG等管控要求常态化导致公司的合规能力建设要求及成本投入不断提高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）国际化经营的风险：当前全球经济仍处于周期性调整之中...数据安全、碳关税、ESG等管控要求常态化导致公司的合规能力建设要求及成本投入不断提高。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口销售的结算货币以美元为主，且海外业务处于持续增长中。因此汇率的波动，可能影响公司的盈利水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）汇率风险：2026年全球汇率格局呈现美元持续弱势...公司出口销售的结算货币以美元为主...汇率的波动，可能影响公司的盈利水平。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司高度重视产品安全...但仍可能存在遭受拒绝服务、暴力破解、SQL注入、恶意软件等攻击，导致系统故障或服务中断的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（6）产品安全风险：公司高度重视产品安全...但仍可能存在遭受拒绝服务、暴力破解、SQL注入、恶意软件等攻击，导致系统故障或服务中断的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司全球化战略及自主品牌战略的推进，将有可能导致公司面临产权保护及专利侵权等方面的知识产权风险，并有可能带来商务关系、舆论环境波动及法律诉讼事件增多、费用成本上升等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（7）知识产权风险：公司全球化战略及自主品牌战略的推进，将有可能导致公司面临产权保护及专利侵权等方面的知识产权风险"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "全球地缘政治持续紧张，材料价格高位震荡，部分原材料出现紧缺行情；受存储芯片原厂减产、停产导致市场供应价格暴涨。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（8）供应链安全风险：全球地缘政治持续紧张，材料价格高位震荡，部分原材料出现紧缺行情；受存储芯片原厂减产、停产导致市场供应价格暴涨。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "全球地缘政治持续紧张，材料价格高位震荡，部分原材料出现紧缺行情；受存储芯片原厂减产、停产导致市场供应价格暴涨；大宗金属材料上涨幅度，导致受影响的物料都有不同幅度的价格上涨。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（8）供应链安全风险：全球地缘政治持续紧张，材料价格高位震荡，部分原材料出现紧缺行情；受存储芯片原厂减产、停产导致市场供应价格暴涨；大宗金属材料上涨幅度，导致受影响的物料都有不同幅度的价格上涨。"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "company_name_mentioned": "慈文传媒股份有限公司",
+  "produces": [
+    {
+      "name": "影视剧",
+      "type": "service",
+      "revenue_proportion": "99.46%",
+      "quote": "公司影视业务主要包括影视IP内容的投资、开发、制作及发行，产品形态包括电视剧、网络剧、电影、网络电影、网络微短剧、互动剧、小程序短剧等...2025年度，公司影视剧业务实现收入39,568.15万元，占营业收入的99.45%"
+    },
+    {
+      "name": "移动休闲游戏及渠道推广",
+      "type": "service",
+      "revenue_proportion": "0.01%",
+      "quote": "分行业 游戏产品及渠道推广业 48,581.93 0.01%"
+    },
+    {
+      "name": "演唱会",
+      "type": "service",
+      "revenue_proportion": "0.39%",
+      "quote": "分行业 演唱会 1,555,090.77 0.39%"
+    },
+    {
+      "name": "艺人经纪服务",
+      "type": "service",
+      "revenue_proportion": "0.04%",
+      "quote": "分行业 艺人经纪服务 134,339.62 0.04%"
+    },
+    {
+      "name": "其他业务（如房租）",
+      "type": "service",
+      "revenue_proportion": "0.14%",
+      "quote": "分行业 其他 574,496.12 0.14% 主要系房屋租赁收入"
+    }
+  ],
+  "procures": [
+    {
+      "name": "影视剧制作相关服务及支出",
+      "target_product": "影视剧",
+      "cost_proportion": null,
+      "quote": "公司营业成本包括影视剧的剧本创作费、策划费、制作费、演职人员费用、发行费及其他剧组直接支出。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "视频播出平台",
+      "source_product": "影视剧",
+      "quote": "公司有2部电影、3部电视剧、5部网络剧与6部网络微短剧先后实现首轮播出...（播出平台包括）CCTV-8、爱奇艺、北京卫视、东方卫视、优酷、芒果TV、央视频等。"
+    },
+    {
+      "name": "线下演出",
+      "source_product": "演唱会",
+      "quote": "全年累计策划执行各类音乐演出项目 7 场...覆盖大型体育场、体育馆、LIVEHOUSE多类演唱会，触达观众超5万人次。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周敏",
+      "role": "公司负责人、总经理、法定代表人",
+      "quote": "公司负责人周敏、主管会计工作负责人杜立民...声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "杜立民",
+      "role": "主管会计工作负责人、财务总监、会计机构负责人",
+      "quote": "公司负责人周敏、主管会计工作负责人杜立民及会计机构负责人（会计主管人员）杜立民声明..."
+    },
+    {
+      "name": "花玉萍",
+      "role": "董事长",
+      "quote": "姓名 花玉萍...职务 董事长 现任 2019年05月28日 2025年06月13日"
+    },
+    {
+      "name": "翁志超",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 姓名 翁志超"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华章天地传媒投资控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 指 华章天地传媒投资控股集团有限公司，系本公司之控股股东"
+    },
+    {
+      "name": "江西省出版传媒集团有限公司",
+      "relation_type": "investor",
+      "business_details": "华章投资之控股股东，实际控制人相关主体",
+      "quote": "江西出版传媒集团 指 原名江西省出版集团公司，于2021年7月更名为“江西省出版传媒集团有限公司”，系华章投资之控股股东"
+    },
+    {
+      "name": "无锡慈文传媒有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司全资子公司",
+      "quote": "无锡慈文 指 无锡慈文传媒有限公司，系上市公司全资子公司"
+    },
+    {
+      "name": "江西慈文影视文化传媒有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司全资子公司",
+      "quote": "江西慈文 指 江西慈文影视文化传媒有限公司，系上市公司全资子公司"
+    },
+    {
+      "name": "上海慈文影视传播有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司之全资子公司",
+      "quote": "上海慈文 指 上海慈文影视传播有限公司，系上市公司之全资子公司"
+    },
+    {
+      "name": "北京慈文影视制作有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之全资子公司",
+      "quote": "北京慈文 指 北京慈文影视制作有限公司，系无锡慈文之全资子公司"
+    },
+    {
+      "name": "东阳紫风影视制作有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之全资子公司",
+      "quote": "东阳紫风 指 东阳紫风影视制作有限公司，系无锡慈文之全资子公司"
+    },
+    {
+      "name": "正视觉国际影视文化发展（北京）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之全资子公司",
+      "quote": "正视觉 指 正视觉国际影视文化发展（北京）有限公司，系无锡慈文之全资子公司"
+    },
+    {
+      "name": "福建慈容影视文化传媒有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之全资子公司",
+      "quote": "原新疆建纬传媒有限公司，系无锡慈文之全资子公司，于2026年1月更名为“福建慈容影视文化传媒有限公司”"
+    },
+    {
+      "name": "北京慈文投资管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之全资子公司",
+      "quote": "慈文投资 指 北京慈文投资管理有限公司，系无锡慈文之全资子公司"
+    },
+    {
+      "name": "四川锦慈文化传媒有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之全资子公司",
+      "quote": "四川锦慈 指 四川锦慈文化传媒有限公司，系无锡慈文之全资子公司"
+    },
+    {
+      "name": "北京慈文电影发行有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之控股子公司",
+      "quote": "慈文电影 指 北京慈文电影发行有限公司，系无锡慈文之控股子公司"
+    },
+    {
+      "name": "慈文（厦门）影视文化传播有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "无锡慈文之全资子公司",
+      "quote": "厦门慈文 指 慈文（厦门）影视文化传播有限责任公司，系无锡慈文之全资子公司"
+    },
+    {
+      "name": "霍尔果斯定坤影视传播有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上海慈文之全资子公司",
+      "quote": "定坤影视 指 霍尔果斯定坤影视传播有限公司，系上海慈文之全资子公司"
+    },
+    {
+      "name": "上海蜜淘影业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上海慈文之控股子公司",
+      "quote": "蜜淘影业 指 上海蜜淘影业有限公司，系上海慈文之控股子公司"
+    },
+    {
+      "name": "上海微颗影业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上海慈文之控股子公司",
+      "quote": "微颗影业 指 上海微颗影业有限公司，系上海慈文之控股子公司"
+    },
+    {
+      "name": "上海视骊影视制作有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上海慈文之控股子公司",
+      "quote": "视骊影视 指 上海视骊影视制作有限公司，系上海慈文之控股子公司"
+    },
+    {
+      "name": "上海慈文影业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上海慈文之全资子公司",
+      "quote": "慈文影业 指 上海慈文影业有限公司（原上海慈文文化经纪有限公司），系上海慈文之全资子公司"
+    },
+    {
+      "name": "北京赞成科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上海慈文之全资子公司",
+      "quote": "赞成科技 指 北京赞成科技发展有限公司，系上海慈文之全资子公司"
+    },
+    {
+      "name": "北京思凯通科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上海慈文之全资子公司",
+      "quote": "思凯通 指 北京思凯通科技有限公司，系上海慈文之全资子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "影视剧业",
+      "segment_type": "product_line",
+      "revenue_amount": "395,681,532.03",
+      "revenue_proportion": "99.46%",
+      "gross_margin": "4.45%",
+      "yoy_change": "12.13%",
+      "quote": "分行业 影视剧业 395,681,532.03 99.46% ... 营业成本 378,072,078.97 ... 毛利率 4.45% ... 营业收入比上年同期增减 12.13%"
+    },
+    {
+      "name": "游戏产品及渠道推广业",
+      "segment_type": "product_line",
+      "revenue_amount": "48,581.93",
+      "revenue_proportion": "0.01%",
+      "gross_margin": null,
+      "yoy_change": "-72.56%",
+      "quote": "分行业 游戏产品及渠道推广业 48,581.93 0.01% ... 营业收入比上年同期增减 -72.56%"
+    },
+    {
+      "name": "演唱会",
+      "segment_type": "product_line",
+      "revenue_amount": "1,555,090.77",
+      "revenue_proportion": "0.39%",
+      "gross_margin": null,
+      "yoy_change": "-87.19%",
+      "quote": "分行业 演唱会 1,555,090.77 0.39% ... 营业收入比上年同期增减 -87.19%"
+    },
+    {
+      "name": "国内地区",
+      "segment_type": "region",
+      "revenue_amount": "397,622,881.93",
+      "revenue_proportion": "99.94%",
+      "gross_margin": "3.92%",
+      "yoy_change": "8.77%",
+      "quote": "分地区 国内地区 397,622,881.93 99.94% ... 营业成本 382,033,593.43 ... 毛利率 3.92% ... 营业收入比上年同期增减 8.77%"
+    },
+    {
+      "name": "海外地区",
+      "segment_type": "region",
+      "revenue_amount": "236,818.92",
+      "revenue_proportion": "0.06%",
+      "gross_margin": null,
+      "yoy_change": "-52.16%",
+      "quote": "分地区 海外地区 236,818.92 0.06% ... 营业收入比上年同期增减 -52.16%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "397,859,700.85",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "3.98%",
+      "yoy_change": "8.69%",
+      "quote": "分销售模式 直销 397,859,700.85 100.00% ... 营业成本 382,033,593.43 ... 毛利率 3.98% ... 营业收入比上年同期增减 8.69%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "影视剧",
+      "metric_type": "production_volume",
+      "value": "有27部影视剧取得发行（公映）许可证，6部在后期制作中，2部在拍摄中",
+      "period": "截至本报告披露日",
+      "quote": "截至本报告披露日，公司有27部影视剧（包括电视剧、网络剧、网络微短剧、电影等品类）取得发行（公映）许可证，6部在后期制作中，2部在拍摄中。"
+    },
+    {
+      "product": "影视剧",
+      "metric_type": "sales_volume",
+      "value": "有2部电影、3部电视剧、5部网络剧与6部网络微短剧先后实现首轮播出",
+      "period": "报告期内",
+      "quote": "截至本报告披露日，公司有2部电影、3部电视剧、5部网络剧与6部网络微短剧先后实现首轮播出，部分剧集实现多轮播出"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "多个影视剧拍摄制作项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "包括开机、后期制作、备播、上线播出等不同进度",
+      "expected_completion_time": null,
+      "quote": "2026年预计上线播出、完成制作或开机项目如下：序号 暂定剧名...生产计划（包括上线播出、完成制作、拟2/3/4季度开机等）"
+    },
+    {
+      "name": "青城山文旅项目“白蛇·一念青城”",
+      "project_type": "other",
+      "location": "四川省都江堰市青城山风景区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "于2025年6月正式启动试运营",
+      "expected_completion_time": null,
+      "quote": "公司联合打造的第一个实体文旅产业项目“白蛇·一念青城”于2025年6月正式启动试运营。项目地处四川省都江堰市青城山风景区"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "剧集创作生产全流程管理体系",
+      "asset_type": "process_technology",
+      "related_product": "影视剧",
+      "quantitative_info": null,
+      "quote": "推进实施电视剧创作生产全流程管理体系，为公司的精品影视生产以及后续衍生价值的挖掘提供了充足的内容保障。"
+    },
+    {
+      "name": "原创及IP矩阵体系",
+      "asset_type": "technical_platform",
+      "related_product": "影视剧、IP运营",
+      "quantitative_info": null,
+      "quote": "公司坚持精品原创和IP开发并重，建立了原创及IP矩阵体系。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "87.25%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 87.25%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "69.70%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 69.70%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "影视行业受国家有关法律、法规及政策的影响较大。如果公司未来不能完全贴合政策导向，可能面临影视作品无法进入市场的风险。",
+      "related_entity": null,
+      "related_product": "影视剧",
+      "quote": "政策风险和行业竞争风险：影视行业作为具有意识形态特殊属性的重要产业，受国家有关法律、法规及政策的影响较大。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着行业竞争加剧，公司影视项目开发面临激烈的市场竞争，存在市场份额下降及经营业绩下滑的风险。",
+      "related_entity": null,
+      "related_product": "影视剧",
+      "quote": "同时，随着行业竞争加剧，公司影视项目开发面临激烈的市场竞争，存在市场份额下降及经营业绩下滑的风险。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "影视剧制作企业难以准确预测作品的适销性，难以确保每一部影视作品都能够得到市场的认可。",
+      "related_entity": null,
+      "related_product": "影视剧",
+      "quote": "影视剧目适销性的风险：影视剧是一种文化产品...影视剧制作企业难以准确预测作品的适销性，难以确保每一部影视作品都能够得到市场的认可。"
+    },
+    {
+      "risk_type": "other",
+      "description": "专业人才是文化创意产业的核心资源，在市场竞争不断加剧的情况下，对专业人才的竞争也必将日趋激烈。同时，公司业务拓展增大了管理的难度，可能导致经营管理风险增强。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才流失风险和管理风险：专业人才是文化创意产业的核心资源...公司的影视业务、创新业务与整体经营规模不断拓展...使得管理的跨度和半径愈来愈大，进而提升了管理的难度，可能导致经营管理风险增强。"
+    }
+  ]
+}

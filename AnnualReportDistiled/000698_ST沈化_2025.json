@@ -1,0 +1,580 @@
+{
+  "company_name_mentioned": "沈阳化工股份有限公司",
+  "produces": [
+    {
+      "name": "聚氯乙烯糊树脂",
+      "type": "material",
+      "revenue_proportion": "23.75%",
+      "quote": "糊树脂 1,332,642,653.09 23.75%"
+    },
+    {
+      "name": "烧碱",
+      "type": "material",
+      "revenue_proportion": "9.70%",
+      "quote": "烧碱 544,248,839.08 9.70%"
+    },
+    {
+      "name": "聚醚多元醇",
+      "type": "material",
+      "revenue_proportion": "64.99%",
+      "quote": "聚醚 3,646,208,381.57 64.99%"
+    },
+    {
+      "name": "其他产品",
+      "type": "other",
+      "revenue_proportion": "1.56%",
+      "quote": "其他产品 87,633,556.88 1.56%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电石",
+      "target_product": "聚氯乙烯糊树脂",
+      "cost_proportion": "14.56%",
+      "quote": "电石 集中采购 14.56%"
+    },
+    {
+      "name": "原盐",
+      "target_product": "烧碱",
+      "cost_proportion": "1.99%",
+      "quote": "原盐 集中采购 1.99%"
+    },
+    {
+      "name": "环氧丙烷（淄博）",
+      "target_product": "聚醚多元醇",
+      "cost_proportion": "37.70%",
+      "quote": "环氧丙烷（淄博） 询比价 37.70%"
+    },
+    {
+      "name": "环氧乙烷（淄博）",
+      "target_product": "聚醚多元醇",
+      "cost_proportion": "3.44%",
+      "quote": "环氧乙烷（淄博） 询比价 3.44%"
+    },
+    {
+      "name": "环氧丙烷（泉州）",
+      "target_product": "聚醚多元醇",
+      "cost_proportion": "14.47%",
+      "quote": "环氧丙烷（泉州） 询比价 14.47%"
+    },
+    {
+      "name": "环氧乙烷（泉州）",
+      "target_product": "聚醚多元醇",
+      "cost_proportion": "1.78%",
+      "quote": "环氧乙烷（泉州） 询比价 1.78%"
+    },
+    {
+      "name": "电",
+      "target_product": "生产用电",
+      "cost_proportion": null,
+      "quote": "电（kwh） 192,298,644.59 355,338,315 195,919,943.39 364,704,155"
+    },
+    {
+      "name": "蒸汽",
+      "target_product": "生产用蒸汽",
+      "cost_proportion": null,
+      "quote": "蒸汽(吨) 52,226,038.74 279,679 42,122,978.60 226,460"
+    },
+    {
+      "name": "水",
+      "target_product": "生产用水",
+      "cost_proportion": null,
+      "quote": "水（吨） 6,047,501.99 1,424,450 5,860,347.29 1,388,813"
+    }
+  ],
+  "applications": [
+    {
+      "name": "医用手套",
+      "source_product": "聚氯乙烯糊树脂",
+      "quote": "医用手套专用糊树脂牌号"
+    },
+    {
+      "name": "氯醋共聚糊树脂",
+      "source_product": "聚氯乙烯糊树脂",
+      "quote": "氯醋共聚糊树脂系列牌号"
+    },
+    {
+      "name": "聚氨酯（汽车、涂料等）",
+      "source_product": "聚醚多元醇",
+      "quote": "替代进口，自主研发全球首款工业化低碳环保防水涂料专用聚醚。深耕绿色研发，生物基聚醚可助下游降碳，产品低VOC、低气味，环保指标领先。通过产学研协同创新定向育才，主导多项国家行业标准，技术实力获巴斯夫等跨国巨头认可，成为高端汽车领域全覆盖供应商。"
+    },
+    {
+      "name": "软体家居",
+      "source_product": "聚醚多元醇",
+      "quote": "房地产市场疲软难振，相关软体家居、防水涂料等需求影响较大。"
+    },
+    {
+      "name": "防水涂料",
+      "source_product": "聚醚多元醇",
+      "quote": "房地产市场疲软难振，相关软体家居、防水涂料等需求影响较大。"
+    },
+    {
+      "name": "PVC手套",
+      "source_product": "聚氯乙烯糊树脂",
+      "quote": "下游PVC手套、涂层布、玩具等行业整体开工率下降。"
+    },
+    {
+      "name": "涂层布",
+      "source_product": "聚氯乙烯糊树脂",
+      "quote": "下游PVC手套、涂层布、玩具等行业整体开工率下降。"
+    },
+    {
+      "name": "玩具",
+      "source_product": "聚氯乙烯糊树脂",
+      "quote": "下游PVC手套、涂层布、玩具等行业整体开工率下降。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈立国",
+      "role": "法定代表人，党委书记、总经理",
+      "quote": "公司负责人陈立国、主管会计工作负责人孙红云及会计机构负责人（会计主管人员）梁一墨声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "孙红云",
+      "role": "主管会计工作负责人（财务总监）",
+      "quote": "公司负责人陈立国、主管会计工作负责人孙红云及会计机构负责人（会计主管人员）梁一墨声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "朱斌",
+      "role": "董事长",
+      "quote": "朱斌 男 56 董事长 现任"
+    },
+    {
+      "name": "张羽超",
+      "role": "董事会秘书、总法律顾问、首席合规官",
+      "quote": "董事会秘书 证券事务代表 姓名 张羽超 张茜"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中化石化销售有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购环氧丙烷",
+      "quote": "中化石化销售有限公司...采购环氧丙烷...采购额...79,393.94...16.38%"
+    },
+    {
+      "name": "中化塑料有限公司",
+      "relation_type": "customer",
+      "business_details": "销售聚醚多元醇",
+      "quote": "中化塑料有限公司...销售聚醚多元醇...销售额...15,205.86...2.71%"
+    },
+    {
+      "name": "黎明化工研究设计院有限责任公司",
+      "relation_type": "customer",
+      "business_details": "销售聚醚多元醇",
+      "quote": "黎明化工研究设计院有限责任公司...销售聚醚多元醇...销售额...8,182.94...1.46%"
+    },
+    {
+      "name": "SINOCHEM INTERNATIONAL(OVERSEAS) PTE.LTD.",
+      "relation_type": "customer",
+      "business_details": "销售聚醚多元醇",
+      "quote": "SINOCHEM INTERNATIONAL(OVERSEAS) PTE.LTD....销售聚醚多元醇...销售额...7,758.31...1.38%"
+    },
+    {
+      "name": "中蓝国际化工有限公司",
+      "relation_type": "customer",
+      "business_details": "销售聚醚多元醇",
+      "quote": "中蓝国际化工有限公司...销售聚醚多元醇...销售额...3,571.72...0.64%"
+    },
+    {
+      "name": "中化国际(控股)股份有限公司",
+      "relation_type": "customer",
+      "business_details": "销售糊树脂及聚醚多元醇",
+      "quote": "中化国际(控股)股份有限公司...销售糊树脂及聚醚多元醇...销售额...1,695.6...0.30%"
+    },
+    {
+      "name": "中化东大（淄博）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "聚醚化工及相关产品",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...中化东大(淄博)有限公司...聚醚化工及相关产品..."
+    },
+    {
+      "name": "中化东大（泉州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "聚醚化工及相关产品",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...中化东大(泉州)有限公司...聚醚化工及相关产品..."
+    },
+    {
+      "name": "沈阳化工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "母公司，控股股东",
+      "quote": "沈化集团/公司母公司 指 沈阳化工集团有限公司"
+    },
+    {
+      "name": "中国蓝星（集团）股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "蓝星集团 指 中国蓝星（集团）股份有限公司"
+    },
+    {
+      "name": "中国中化控股有限责任公司",
+      "relation_type": "investor",
+      "business_details": "最终控股方",
+      "quote": "中国中化 指 中国中化控股有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "氯碱化工行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,930,183,290.25",
+      "revenue_proportion": "34.40%",
+      "gross_margin": "9.49%",
+      "yoy_change": "0.19%",
+      "quote": "氯碱化工行业 1,930,183,290.25 34.40%"
+    },
+    {
+      "name": "聚醚化工行业",
+      "segment_type": "product_line",
+      "revenue_amount": "3,646,208,381.57",
+      "revenue_proportion": "64.99%",
+      "gross_margin": "5.26%",
+      "yoy_change": "22.51%",
+      "quote": "聚醚化工行业 3,646,208,381.57 64.99%"
+    },
+    {
+      "name": "其他行业",
+      "segment_type": "other",
+      "revenue_amount": "34,341,758.80",
+      "revenue_proportion": "0.61%",
+      "gross_margin": null,
+      "yoy_change": "-40.93%",
+      "quote": "其他行业 34,341,758.80 0.61%"
+    },
+    {
+      "name": "国内其他地区",
+      "segment_type": "region",
+      "revenue_amount": "4,918,934,042.20",
+      "revenue_proportion": "87.67%",
+      "gross_margin": "6.74%",
+      "yoy_change": "11.60%",
+      "quote": "其他地区（国内） 4,918,934,042.20 87.67%"
+    },
+    {
+      "name": "国外地区",
+      "segment_type": "region",
+      "revenue_amount": "598,645,811.07",
+      "revenue_proportion": "10.67%",
+      "gross_margin": "4.28%",
+      "yoy_change": "18.31%",
+      "quote": "其他地区（国外） 598,645,811.07 10.67%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,926,622,345.56",
+      "revenue_proportion": "87.81%",
+      "gross_margin": "7.31%",
+      "yoy_change": "11.30%",
+      "quote": "直销模式 4,926,622,345.56 87.81%"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "684,111,085.06",
+      "revenue_proportion": "12.19%",
+      "gross_margin": "3.63%",
+      "yoy_change": "15.20%",
+      "quote": "经销模式 684,111,085.06 12.19%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "烧碱",
+      "metric_type": "capacity",
+      "value": "20万吨/年",
+      "period": "2025",
+      "quote": "烧碱 20万吨/年 100.00% 0 不适用"
+    },
+    {
+      "product": "烧碱",
+      "metric_type": "capacity_utilization",
+      "value": "100.00%",
+      "period": "2025",
+      "quote": "烧碱 20万吨/年 100.00%"
+    },
+    {
+      "product": "糊树脂",
+      "metric_type": "capacity",
+      "value": "20万吨/年",
+      "period": "2025",
+      "quote": "糊树脂 20万吨/年 100.00% 0 不适用"
+    },
+    {
+      "product": "糊树脂",
+      "metric_type": "capacity_utilization",
+      "value": "100.00%",
+      "period": "2025",
+      "quote": "糊树脂 20万吨/年 100.00%"
+    },
+    {
+      "product": "聚醚多元醇",
+      "metric_type": "capacity",
+      "value": "64万吨/年",
+      "period": "2025",
+      "quote": "聚醚多元醇 64万吨/年 72.40% 8万吨"
+    },
+    {
+      "product": "聚醚多元醇",
+      "metric_type": "capacity_utilization",
+      "value": "72.40%",
+      "period": "2025",
+      "quote": "聚醚多元醇 64万吨/年 72.40%"
+    },
+    {
+      "product": "聚醚多元醇",
+      "metric_type": "inventry_volume",
+      "value": "8万吨",
+      "period": null,
+      "quote": "中化东大（泉州）有限公司8万吨/年高端特种聚醚多元醇项目"
+    },
+    {
+      "product": "聚醚多元醇",
+      "metric_type": "sales_volume",
+      "value": "465,331.72吨",
+      "period": "2025",
+      "quote": "聚醚化工行业 生产量 吨 464,285.83 317,706.05 46.14% 销售量 吨 465,331.72 334,104.25 39.28%"
+    },
+    {
+      "product": "聚醚多元醇",
+      "metric_type": "production_volume",
+      "value": "464,285.83吨",
+      "period": "2025",
+      "quote": "聚醚化工行业 生产量 吨 464,285.83 317,706.05 46.14%"
+    },
+    {
+      "product": "聚醚多元醇",
+      "metric_type": "inventory_volume",
+      "value": "18,402.73吨",
+      "period": "2025年末",
+      "quote": "聚醚化工行业 库存量 吨 18,402.73 10,824.84 70.00%"
+    },
+    {
+      "product": "氯碱化工行业（主要为烧碱及糊树脂）",
+      "metric_type": "sales_volume",
+      "value": "586,337.93吨",
+      "period": "2025",
+      "quote": "氯碱化工行业 销售量 吨 586,337.93 537,955.19 8.99%"
+    },
+    {
+      "product": "氯碱化工行业（主要为烧碱及糊树脂）",
+      "metric_type": "production_volume",
+      "value": "640,255.60吨",
+      "period": "2025",
+      "quote": "氯碱化工行业 生产量 吨 640,255.60 574,591.60 11.43%"
+    },
+    {
+      "product": "氯碱化工行业（主要为烧碱及糊树脂）",
+      "metric_type": "inventory_volume",
+      "value": "11,215.38吨",
+      "period": "2025年末",
+      "quote": "氯碱化工行业 库存量 吨 11,215.38 9,609.48 16.71%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中化东大（泉州）有限公司24万吨/年聚醚多元醇项目",
+      "project_type": "capacity_expansion",
+      "location": "福建泉州泉惠石化工业园",
+      "investment_amount": null,
+      "designed_capacity": "24万吨/年",
+      "progress": "已完成中交并开始试生产",
+      "expected_completion_time": "2025年3月投料试车",
+      "quote": "东大泉州24万吨/年聚醚多元醇项目于2024年12月27日中交，2025年3月投料试车，用不到3个月的时间即投料试车，并实现了“一次试车成功”。"
+    },
+    {
+      "name": "中化东大（淄博）有限公司聚醚装置工艺优化及技术改造项目",
+      "project_type": "capacity_expansion",
+      "location": "淄博",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年9月12日通过环境影响报告书批复",
+      "expected_completion_time": null,
+      "quote": "中化东大（淄博）有限公司聚醚装置工艺优化及技术改造项目环境影响报告书于2025年9月12日通过淄博市生态环境局的批复（淄环审[2025]56号）。"
+    },
+    {
+      "name": "中化东大（淄博）有限公司聚醚多元醇产品扩能项目",
+      "project_type": "capacity_expansion",
+      "location": "淄博",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "验收完成，2024年11月18日完成危险化学品安全使用许可证换证",
+      "expected_completion_time": null,
+      "quote": "中化东大（淄博）有限公司聚醚多元醇产品扩能项目验收，2024年11月18日公司完成危险化学品安全使用许可证换证。"
+    },
+    {
+      "name": "中化东大（泉州）有限公司8万吨/年高端特种聚醚多元醇项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "9741.87万元",
+      "designed_capacity": "8万吨/年",
+      "progress": "当前正在可研编制阶段",
+      "expected_completion_time": null,
+      "quote": "在建产能 8万吨 中化东大（泉州）有限公司8万吨/年高端特种聚醚多元醇项目 ， 项 目 总 投 资 9741.87 万元，当前正在可研编制阶段。"
+    },
+    {
+      "name": "淄博公司高端聚氨酯储罐建设",
+      "project_type": "construction_project",
+      "location": "淄博",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年11月完成",
+      "expected_completion_time": "2025年11月",
+      "quote": "淄博公司 2025 年11月完成高端聚氨酯储罐建设，提升了公司高附加值产品的周转供应能力，满足下游客户需求。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "PVC糊树脂中试试验基地及产品专业研究中心",
+      "asset_type": "technical_platform",
+      "related_product": "聚氯乙烯糊树脂",
+      "quantitative_info": null,
+      "quote": "一直是国内唯一的“PVC糊树脂中试试验基地”及“PVC糊树脂产品专业研究中心”。"
+    },
+    {
+      "name": "聚氯乙烯聚合联合研发中心（与北京化工大学共建）",
+      "asset_type": "technical_platform",
+      "related_product": "聚氯乙烯糊树脂",
+      "quantitative_info": null,
+      "quote": "2024年，与北京化工大学建立了聚氯乙烯聚合联合研发中心。"
+    },
+    {
+      "name": "国家级制造业单项冠军资质",
+      "asset_type": "certification",
+      "related_product": "聚醚多元醇",
+      "quantitative_info": null,
+      "quote": "依托国家级制造业单项冠军资质与行业唯一聚醚多元醇工程技术中心，构建深厚技术壁垒。"
+    },
+    {
+      "name": "聚醚多元醇工程技术中心",
+      "asset_type": "technical_platform",
+      "related_product": "聚醚多元醇",
+      "quantitative_info": null,
+      "quote": "依托国家级制造业单项冠军资质与行业唯一聚醚多元醇工程技术中心。"
+    },
+    {
+      "name": "聚醚多元醇相关专利",
+      "asset_type": "patent",
+      "related_product": "聚醚多元醇",
+      "quantitative_info": "拥有有效专利60余项",
+      "quote": "累计拥有有效专利60余项。"
+    },
+    {
+      "name": "PVC糊树脂相关专利",
+      "asset_type": "patent",
+      "related_product": "聚氯乙烯糊树脂",
+      "quantitative_info": "拥有有效发明专利十余件",
+      "quote": "拥有有效发明专利十余件。"
+    },
+    {
+      "name": "高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "从2008年至今连续被认定",
+      "quote": "公司从 2008 年至今，连续被认定为国家级高新技术企业。"
+    },
+    {
+      "name": "中国名牌产品",
+      "asset_type": "certification",
+      "related_product": "PVC糊树脂",
+      "quantitative_info": null,
+      "quote": "PVC 糊树脂被评为“中国名牌产品”。"
+    },
+    {
+      "name": "中国驰名商标",
+      "asset_type": "certification",
+      "related_product": "星塔牌",
+      "quantitative_info": null,
+      "quote": "“星塔”牌商标获得“中国驰名商标”称号。"
+    },
+    {
+      "name": "辽宁省先进级智能工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年公司还获得了“辽宁省先进级智能工厂”的称号。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "3.56%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户1 199,874,587.62 3.56%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.78%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 773,342,388.63 前五名客户合计销售金额占年度销售总额比例 13.78%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2.71%",
+      "related_entity": "关联方销售额",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 2.71%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "16.38%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商1 793,939,364.43 16.38%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "46.34%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,245,791,630.32 前五名供应商合计采购金额占年度采购总额比例 46.34%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.38%",
+      "related_entity": "关联方采购额",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 16.38%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内PVC糊树脂行业产能新增17万吨，行业竞争进一步加剧。2025年聚醚多元醇市场新一轮扩能高峰集中释放，年内161万吨新增产能释放，行业竞争激烈。",
+      "related_entity": null,
+      "related_product": "聚氯乙烯糊树脂，聚醚多元醇",
+      "quote": "2025年国内PVC糊树脂行业产能新增17万吨，整体产能较上一年大幅增加，行业竞争进一步加剧。...2025年聚醚多元醇市场新一轮扩能高峰集中释放，年内161万吨新增产能释放，截至目前聚醚产能1068万吨，同比增长17.8%，行业竞争激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险。报告提及电石、原盐、环氧丙烷、环氧乙烷价格受供需、政策、成本等多重因素影响呈现波动走势。",
+      "related_entity": null,
+      "related_product": "电石，原盐，环氧丙烷，环氧乙烷",
+      "quote": "原材料价格较上一报告期发生重大变化的原因：1.电石价格下降原因...2.原盐价格下降原因...3.环氧丙烷价格波动原因...4.环氧乙烷价格波动原因..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "美国贸易关税对全球贸易带来的扰动影响一定程度利空聚醚出口。",
+      "related_entity": null,
+      "related_product": "聚醚多元醇",
+      "quote": "美国贸易关税对全球贸易带来的扰动影响一定程度利空聚醚出口。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司因年度报告财务指标存在虚假记载被中国证券监督管理委员会辽宁监管局处以700万元罚款，并被实施其他风险警示。",
+      "related_entity": "沈阳化工股份有限公司",
+      "related_product": null,
+      "quote": "公司披露的年度报告财务指标存在虚假记载...公司被实施其他风险警示，并处以700万元的罚款。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "于2025年12月31日，本集团的流动负债已超过流动资产约人民币637,056,748.51元。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "于2025年12月31日，本集团的流动负债已超过流动资产约人民币637,056,748.51元。"
+    }
+  ]
+}

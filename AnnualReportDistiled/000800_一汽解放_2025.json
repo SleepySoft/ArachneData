@@ -1,0 +1,362 @@
+{
+  "company_name_mentioned": "一汽解放集团股份有限公司",
+  "produces": [
+    {
+      "name": "中重型卡车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是商用车制造企业，生产车型涵盖重型、中型、轻型卡车、客车，以及发动机、变速箱、车桥等核心零部件"
+    },
+    {
+      "name": "轻型卡车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是商用车制造企业，生产车型涵盖重型、中型、轻型卡车、客车，以及发动机、变速箱、车桥等核心零部件"
+    },
+    {
+      "name": "客车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是商用车制造企业，生产车型涵盖重型、中型、轻型卡车、客车，以及发动机、变速箱、车桥等核心零部件"
+    },
+    {
+      "name": "发动机",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司是商用车制造企业，生产车型涵盖重型、中型、轻型卡车、客车，以及发动机、变速箱、车桥等核心零部件"
+    },
+    {
+      "name": "变速箱",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司是商用车制造企业，生产车型涵盖重型、中型、轻型卡车、客车，以及发动机、变速箱、车桥等核心零部件"
+    },
+    {
+      "name": "车桥",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司是商用车制造企业，生产车型涵盖重型、中型、轻型卡车、客车，以及发动机、变速箱、车桥等核心零部件"
+    },
+    {
+      "name": "商用车",
+      "type": "device",
+      "revenue_proportion": "92.68%",
+      "quote": "分产品：商用车 58,087,328,191.81 92.68%"
+    },
+    {
+      "name": "备品及其他",
+      "type": "service",
+      "revenue_proportion": "7.32%",
+      "quote": "分产品：...备品及其他 4,590,672,847.23 7.32%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料成本",
+      "target_product": "汽车制造业",
+      "cost_proportion": "96.58%",
+      "quote": "营业成本构成：汽车制造业 材料 56,270,200,000.00 96.58%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "牵引",
+      "source_product": "商用车",
+      "quote": "公司产品主要用于牵引、载货、自卸、专用、公路客运、公交客运等各个细分市场"
+    },
+    {
+      "name": "载货",
+      "source_product": "商用车",
+      "quote": "公司产品主要用于牵引、载货、自卸、专用、公路客运、公交客运等各个细分市场"
+    },
+    {
+      "name": "自卸",
+      "source_product": "商用车",
+      "quote": "公司产品主要用于牵引、载货、自卸、专用、公路客运、公交客运等各个细分市场"
+    },
+    {
+      "name": "专用",
+      "source_product": "商用车",
+      "quote": "公司产品主要用于牵引、载货、自卸、专用、公路客运、公交客运等各个细分市场"
+    },
+    {
+      "name": "公路客运",
+      "source_product": "客车",
+      "quote": "公司产品主要用于牵引、载货、自卸、专用、公路客运、公交客运等各个细分市场"
+    },
+    {
+      "name": "公交客运",
+      "source_product": "客车",
+      "quote": "公司产品主要用于牵引、载货、自卸、专用、公路客运、公交客运等各个细分市场"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李胜",
+      "role": "董事长",
+      "quote": "公司负责人李胜、主管会计工作负责人于长信及会计机构负责人（会计主管人员）杨丽声明"
+    },
+    {
+      "name": "于长信",
+      "role": "董事、总经理",
+      "quote": "公司负责人李胜、主管会计工作负责人于长信及会计机构负责人（会计主管人员）杨丽声明"
+    },
+    {
+      "name": "杨丽",
+      "role": "会计机构负责人",
+      "quote": "公司负责人李胜、主管会计工作负责人于长信及会计机构负责人（会计主管人员）杨丽声明"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "解放赋界（天津）科技产业有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司前5大客户资料：1 解放赋界（天津）科技产业有限公司 2,186,929,424.18 3.49%"
+    },
+    {
+      "name": "解放时代新能源科技有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司前5大客户资料：2 解放时代新能源科技有限公司 1,768,437,137.19 2.82%"
+    },
+    {
+      "name": "中国第一汽车集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料：3 中国第一汽车集团有限公司 1,556,426,935.91 2.77%"
+    },
+    {
+      "name": "富奥汽车零部件股份有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料：4 富奥汽车零部件股份有限公司 1,554,626,359.24 2.76%"
+    },
+    {
+      "name": "一汽奔腾汽车股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东之一致行动人",
+      "quote": "上述股东中，一汽奔腾为一汽股份控股子公司，属于《上市公司收购管理办法》中规定的一致行动人"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "62,233,813,433.10",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "6.76%",
+      "yoy_change": null,
+      "quote": "分行业：汽车制造业 62,233,813,433.10 100.00% 58,029,080,171.90 6.76%"
+    },
+    {
+      "name": "商用车",
+      "segment_type": "product_line",
+      "revenue_amount": "58,087,328,191.81",
+      "revenue_proportion": "92.68%",
+      "gross_margin": "6.21%",
+      "yoy_change": null,
+      "quote": "分产品：商用车 58,087,328,191.81 92.68% 54,478,254,386.87 6.21%"
+    },
+    {
+      "name": "备品及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "4,146,485,241.29",
+      "revenue_proportion": null,
+      "gross_margin": "14.37%",
+      "yoy_change": null,
+      "quote": "分产品：...备品及其他 4,146,485,241.29 ... 3,550,825,785.03 14.37%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "整车",
+      "metric_type": "capacity",
+      "value": "41.8万辆/年",
+      "period": null,
+      "quote": "总产能41.8万辆/年"
+    },
+    {
+      "product": "中重型卡车",
+      "metric_type": "production_volume",
+      "value": "245,173辆",
+      "period": "2025年",
+      "quote": "中重型卡车 产量 245,173 辆"
+    },
+    {
+      "product": "中重型卡车",
+      "metric_type": "sales_volume",
+      "value": "254,743辆",
+      "period": "2025年",
+      "quote": "中重型卡车 销售量 254,743 辆"
+    },
+    {
+      "product": "轻型卡车",
+      "metric_type": "production_volume",
+      "value": "26,520辆",
+      "period": "2025年",
+      "quote": "轻型卡车 产量 26,520 辆"
+    },
+    {
+      "product": "轻型卡车",
+      "metric_type": "sales_volume",
+      "value": "25,109辆",
+      "period": "2025年",
+      "quote": "轻型卡车 销售量 25,109 辆"
+    },
+    {
+      "product": "客车",
+      "metric_type": "production_volume",
+      "value": "116辆",
+      "period": "2025年",
+      "quote": "客车 产量 116 辆"
+    },
+    {
+      "product": "客车",
+      "metric_type": "sales_volume",
+      "value": "148辆",
+      "period": "2025年",
+      "quote": "客车 销售量 148 辆"
+    },
+    {
+      "product": "商用车（新能源）",
+      "metric_type": "production_volume",
+      "value": "37,899辆",
+      "period": "2025年",
+      "quote": "新能源汽车整车及零部件的生产经营情况：商用车 产能状况：公司现有产能可以满足新能源商用车需求 产量 37,899"
+    },
+    {
+      "product": "商用车（新能源）",
+      "metric_type": "sales_volume",
+      "value": "45,063辆",
+      "period": "2025年",
+      "quote": "新能源汽车整车及零部件的生产经营情况：商用车 销量 45,063"
+    },
+    {
+      "product": "汽车制造业",
+      "metric_type": "sales_volume",
+      "value": "28.00万辆",
+      "period": "2025年",
+      "quote": "行业分类：汽车制造业 销售量 万辆 2025年 28.00"
+    },
+    {
+      "product": "汽车制造业",
+      "metric_type": "production_volume",
+      "value": "27.18万辆",
+      "period": "2025年",
+      "quote": "行业分类：汽车制造业 生产量 万辆 2025年 27.18"
+    },
+    {
+      "product": "汽车制造业",
+      "metric_type": "inventory_volume",
+      "value": "1.10万辆",
+      "period": "2025年末",
+      "quote": "行业分类：汽车制造业 库存量 万辆 2025年 1.10"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "一汽解放无锡研发基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "延期",
+      "expected_completion_time": "2026年6月30日",
+      "quote": "同意将募投项目“一汽解放无锡研发基地建设项目”结项日期延期至2026年6月30日"
+    },
+    {
+      "name": "一汽解放传动事业部车桥基地建设项目暨重型换代桥技术升级（一期）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "延期",
+      "expected_completion_time": "2025年4月30日",
+      "quote": "同意将募投项目“一汽解放传动事业部车桥基地建设项目暨重型换代桥技术升级（一期）”结项日期延期至2025年4月30日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "五大核心能力",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有技术创新、性能开发、精益设计、试验试制、试验认证五大核心能力"
+    },
+    {
+      "name": "五大技术平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "打造了节能环保、安全舒适、可靠耐久、电控智能、材料工艺五大技术平台"
+    },
+    {
+      "name": "ISO9001、IATF16949质量体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过ISO9001、IATF16949质量体系认证，是国家级自主汽车产品研发及试验认证基地"
+    },
+    {
+      "name": "研发团队",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "超过 3000人",
+      "quote": "形成了一支超过 3000 人的高效协同研发团队"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "7,103,406,449.57元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 7,103,406,449.57"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "11.33%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 11.33%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "17,279,466,433.88元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 17,279,466,433.88"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "30.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 30.71%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "2026年国内商用车市场竞争格局将进一步加剧，行业呈现结构性变革与存量博弈并存的发展态势。在传统友商与跨界企业的双重挤压下，市场竞争压力及相关风险持续加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）行业竞争风险 2026 年国内商用车市场竞争格局将进一步加剧，行业呈现结构性变革与存量博弈并存的发展态势。在传统友商与跨界企业的双重挤压下，市场竞争压力及相关风险持续加剧。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "新能源商用车市场蓬勃发展，渗透率持续提升，公司新能源业务仍需进一步巩固并扩大现有优势。新能源商用车研发需要大量资金、人力投入，且技术迭代速度较快，若公司未能在电池续航、充电配套、智能化应用等核心领域拉开与友商的差距，将在市场中面临更为激烈的竞争态势。",
+      "related_entity": null,
+      "related_product": "新能源商用车",
+      "quote": "（2）新能源市场竞争风险 新能源商用车市场蓬勃发展，渗透率持续提升，公司新能源业务仍需进一步巩固并扩大现有优势。新能源商用车研发需要大量资金、人力投入，且技术迭代速度较快，若公司未能在电池续航、充电配套、智能化应用等核心领域拉开与友商的差距，将在市场中面临更为激烈的竞争态势。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "海外市场对商用车企业的战略价值日益凸显，在海外拓展进程中，公司面临诸多阻碍与潜在风险。在市场拓展层面，全球经济复苏乏力导致部分国家及地区卡车需求持续疲软，部分国家进一步加征卡车进口关税，并计划扩大碳边境调节机制覆盖范围，显著增加了卡车出口难度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）海外市场拓展风险 海外市场对商用车企业的战略价值日益凸显，在海外拓展进程中，公司面临诸多阻碍与潜在风险。在市场拓展层面，全球经济复苏乏力导致部分国家及地区卡车需求持续疲软，部分国家进一步加征卡车进口关税，并计划扩大碳边境调节机制覆盖范围，显著增加了卡车出口难度"
+    }
+  ]
+}

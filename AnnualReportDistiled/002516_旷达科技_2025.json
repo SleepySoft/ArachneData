@@ -1,0 +1,591 @@
+{
+  "company_name_mentioned": "旷达科技集团股份有限公司",
+  "produces": [
+    {
+      "name": "织物面料",
+      "type": "material",
+      "revenue_proportion": "35.47%",
+      "quote": "分产品：面料 807,211,750.71 35.47%"
+    },
+    {
+      "name": "合成革",
+      "type": "material",
+      "revenue_proportion": "29.77%",
+      "quote": "分产品：合成革 677,538,999.38 29.77%"
+    },
+    {
+      "name": "超纤仿麂皮",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司内饰件业务聚焦汽车内饰材料领域，已形成织物面料、生态合成革、超纤仿麂皮三大核心产品系列"
+    },
+    {
+      "name": "座套",
+      "type": "component",
+      "revenue_proportion": "15.04%",
+      "quote": "分产品：座套 342,351,471.03 15.04%"
+    },
+    {
+      "name": "电力（光伏发电）",
+      "type": "service",
+      "revenue_proportion": "6.13%",
+      "quote": "分产品：电力 139,525,252.83 6.13%"
+    },
+    {
+      "name": "射频前端滤波器（通过参股公司芯投微）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，重要参股公司芯投微实现营业收入9,842.85万元"
+    }
+  ],
+  "procures": [
+    {
+      "name": "通用性材料（联合采购）",
+      "target_product": "内饰件",
+      "cost_proportion": null,
+      "quote": "采购模式：针对下属公司多、地域分布广的特点，公司采用联合采购模式：对通用性材料实施统一谈价，对其他辅助材料则通过信息共享、分别采购的方式，兼顾规模效益与采购灵活性。"
+    },
+    {
+      "name": "原材料（纱线、面料、底布等）",
+      "target_product": "内饰材料",
+      "cost_proportion": null,
+      "quote": "营业成本构成...纱线 66.02%...机织 87.73%...经编 89.72%...纬编 87.82%...座套 85.60%...合成 86.26%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "乘用车内饰",
+      "source_product": "织物面料、合成革、超纤仿麂皮、座套",
+      "quote": "核心业务聚焦汽车内饰材料研发、生产与供应，业务发展与汽车行业整体景气度、技术迭代及市场需求深度关联。"
+    },
+    {
+      "name": "新能源汽车内饰",
+      "source_product": "环保材料、轻量化方案、柔性织物",
+      "quote": "优化产品结构，推广轻量化方案，加大投入柔性织物生产线，以适配新能源汽车发展需求"
+    },
+    {
+      "name": "高铁、航空、游艇内饰",
+      "source_product": "高性能内饰复合表皮材料",
+      "quote": "推动核心业务从汽车内饰向高铁、航空、游艇等高端领域延伸"
+    },
+    {
+      "name": "消费电子、柔性电子材料",
+      "source_product": "智能纤维材料与器件",
+      "quote": "布局消费电子及柔性电子材料等前沿赛道"
+    },
+    {
+      "name": "射频前端（手机、智能汽车）",
+      "source_product": "射频滤波器（芯投微产品）",
+      "quote": "芯投微相关产品已批量应用于国内头部厂商的旗舰手机，并成功落地应用于国产高端智能汽车。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘娟",
+      "role": "公司负责人",
+      "quote": "公司负责人刘娟、主管会计工作负责人刘芳芳及会计机构负责人（会计主管人员）吴娟声明"
+    },
+    {
+      "name": "刘芳芳",
+      "role": "主管会计工作负责人、董事会秘书",
+      "quote": "主管会计工作负责人刘芳芳及会计机构负责人（会计主管人员）吴娟声明"
+    },
+    {
+      "name": "吴凯",
+      "role": "董事长（报告期内离任）",
+      "quote": "吴凯 男 40 董事长 离任"
+    },
+    {
+      "name": "龚旭东",
+      "role": "副董事长、总裁（报告期内离任总裁）",
+      "quote": "龚旭东 男 54 总裁 离任...副董事长 现任"
+    },
+    {
+      "name": "陈乐乐",
+      "role": "董事、财务负责人（报告期内离任）",
+      "quote": "陈乐乐 女 44 董事、财务负 离任"
+    },
+    {
+      "name": "吴双全",
+      "role": "董事、总工程师",
+      "quote": "吴双全 男 42 董事 离任...总工程师 现任"
+    },
+    {
+      "name": "王守波",
+      "role": "副总裁",
+      "quote": "王守波 男 53 副总裁 现任"
+    },
+    {
+      "name": "沈介良",
+      "role": "原控股股东、实际控制人（报告期内变更）",
+      "quote": "公司原控股股东、实际控制人沈介良与株洲启创签订《股份转让协议》《表决权放弃协议》，并于2025年12月18日完成股份过户登记手续，公司控股股东变更为株洲启创，公司实际控制人变更为株洲市国资委。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "株洲启创一号产业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "新控股股东",
+      "quote": "公司控股股东变更为株洲启创"
+    },
+    {
+      "name": "株洲市国资委",
+      "relation_type": "investor",
+      "business_details": "新实际控制人",
+      "quote": "公司实际控制人变更为株洲市国资委"
+    },
+    {
+      "name": "芯投微电子科技（安徽）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "重要参股公司，射频滤波器业务",
+      "quote": "重要参股公司芯投微实现营业收入9,842.85万元"
+    },
+    {
+      "name": "NDK SAW devices Co., Ltd. (NSD)",
+      "relation_type": "subsidiary",
+      "business_details": "通过收购进入射频前端领域",
+      "quote": "公司下属公司于2020年10月完成对NSD控股权的联合收购"
+    },
+    {
+      "name": "旷达汽车饰件系统有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "核心子公司，汽车内饰业务",
+      "quote": "公司下属全资子公司旷达汽车饰件系统有限公司及其下属公司为汽车主机厂的二级供应商"
+    },
+    {
+      "name": "旷达新能源投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光伏发电业务平台",
+      "quote": "旷达新能源 指 旷达新能源投资有限公司"
+    },
+    {
+      "name": "江苏旷达创业投资有限公司",
+      "relation_type": "investor",
+      "business_details": "原控股股东一致行动人",
+      "quote": "沈介良及其一致行动人江苏旷达创业投资有限公司、旷达控股集团有限公司与株洲启创签署了《表决权放弃协议》"
+    },
+    {
+      "name": "旷达控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "原控股股东一致行动人",
+      "quote": "沈介良及其一致行动人江苏旷达创业投资有限公司、旷达控股集团有限公司"
+    },
+    {
+      "name": "客户1",
+      "relation_type": "customer",
+      "business_details": "第一大客户，销售额占比9.11%",
+      "quote": "客户1 207,430,499.34 9.11%"
+    },
+    {
+      "name": "供应商1",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购额占比5.36%",
+      "quote": "供应商1 76,103,658.58 5.36%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车用品行业（汽车内饰业务）",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,136,160,950.21元",
+      "revenue_proportion": "93.87%",
+      "gross_margin": "23.65%",
+      "yoy_change": "10.92%",
+      "quote": "分行业：汽车用品行业 2,136,160,950.21 93.87%...毛利率 23.65%...10.92%"
+    },
+    {
+      "name": "电力行业（光伏发电业务）",
+      "segment_type": "business_unit",
+      "revenue_amount": "139,585,842.26元",
+      "revenue_proportion": "6.13%",
+      "gross_margin": "38.74%",
+      "yoy_change": "-19.03%",
+      "quote": "分行业：电力行业 139,585,842.26 6.13%...毛利率 38.74%...-19.03%"
+    },
+    {
+      "name": "面料",
+      "segment_type": "product_line",
+      "revenue_amount": "807,211,750.71元",
+      "revenue_proportion": "35.47%",
+      "gross_margin": "23.71%",
+      "yoy_change": "12.14%",
+      "quote": "分产品：面料 807,211,750.71 35.47%...毛利率 23.71%...12.14%"
+    },
+    {
+      "name": "合成革",
+      "segment_type": "product_line",
+      "revenue_amount": "677,538,999.38元",
+      "revenue_proportion": "29.77%",
+      "gross_margin": "23.18%",
+      "yoy_change": "14.21%",
+      "quote": "分产品：合成革 677,538,999.38 29.77%...毛利率 23.18%...14.21%"
+    },
+    {
+      "name": "座套",
+      "segment_type": "product_line",
+      "revenue_amount": "342,351,471.03元",
+      "revenue_proportion": "15.04%",
+      "gross_margin": "20.01%",
+      "yoy_change": "10.61%",
+      "quote": "分产品：座套 342,351,471.03 15.04%...毛利率 20.01%...10.61%"
+    },
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "139,525,252.83元",
+      "revenue_proportion": "6.13%",
+      "gross_margin": "38.74%",
+      "yoy_change": "-14.23%",
+      "quote": "分产品：电力 139,525,252.83 6.13%...毛利率 38.74%...-14.23%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "2,258,954,018.55元",
+      "revenue_proportion": "99.26%",
+      "gross_margin": null,
+      "yoy_change": "8.33%",
+      "quote": "分地区：国内 2,258,954,018.55 99.26%...8.33%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "16,792,773.92元",
+      "revenue_proportion": "0.74%",
+      "gross_margin": null,
+      "yoy_change": "28.71%",
+      "quote": "分地区：国外 16,792,773.92 0.74%...28.71%"
+    },
+    {
+      "name": "直营销售（直销）",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,275,746,792.47元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "8.46%",
+      "quote": "分销售模式：直销 2,275,746,792.47 100.00%...8.46%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "纱线",
+      "metric_type": "capacity",
+      "value": "13,170.05吨",
+      "period": "本报告期",
+      "quote": "纱线 吨 13,170.05"
+    },
+    {
+      "product": "纱线",
+      "metric_type": "capacity_utilization",
+      "value": "65.37%",
+      "period": "本报告期",
+      "quote": "纱线 吨 13,170.05 65.37%"
+    },
+    {
+      "product": "单面料",
+      "metric_type": "capacity",
+      "value": "2336.48万米",
+      "period": "本报告期",
+      "quote": "单面料 万米 2336.48"
+    },
+    {
+      "product": "单面料",
+      "metric_type": "capacity_utilization",
+      "value": "65.74%",
+      "period": "本报告期",
+      "quote": "单面料 万米 2336.48 65.74%"
+    },
+    {
+      "product": "座套",
+      "metric_type": "capacity",
+      "value": "265.56万套",
+      "period": "本报告期",
+      "quote": "座套 万套 265.56"
+    },
+    {
+      "product": "座套",
+      "metric_type": "capacity_utilization",
+      "value": "86.86%",
+      "period": "本报告期",
+      "quote": "座套 万套 265.56 86.86%"
+    },
+    {
+      "product": "合成革",
+      "metric_type": "capacity",
+      "value": "1,010.88万米",
+      "period": "本报告期",
+      "quote": "合成革 万米 1,010.88"
+    },
+    {
+      "product": "合成革",
+      "metric_type": "capacity_utilization",
+      "value": "98%",
+      "period": "本报告期",
+      "quote": "合成革 万米 1,010.88 98%"
+    },
+    {
+      "product": "超纤产品",
+      "metric_type": "capacity",
+      "value": "115.20万米",
+      "period": "本报告期",
+      "quote": "超纤产品 万米 115.20"
+    },
+    {
+      "product": "超纤产品",
+      "metric_type": "capacity_utilization",
+      "value": "45%",
+      "period": "本报告期",
+      "quote": "超纤产品 万米 115.20 45%"
+    },
+    {
+      "product": "机织类产品",
+      "metric_type": "sales_volume",
+      "value": "966.52万米",
+      "period": "2025年",
+      "quote": "机织类产品：销售量 万米 966.52"
+    },
+    {
+      "product": "经编类产品",
+      "metric_type": "sales_volume",
+      "value": "1,893.43万米",
+      "period": "2025年",
+      "quote": "经编类产品：销售量 万米 1,893.43"
+    },
+    {
+      "product": "纬编类产品",
+      "metric_type": "sales_volume",
+      "value": "714.14万米",
+      "period": "2025年",
+      "quote": "纬编类产品：销售量 万米 714.14"
+    },
+    {
+      "product": "合成革",
+      "metric_type": "sales_volume",
+      "value": "1,938.73万米",
+      "period": "2025年",
+      "quote": "合成革：销售量 万米 1,938.73"
+    },
+    {
+      "product": "汽车座椅面套",
+      "metric_type": "sales_volume",
+      "value": "141.22万套",
+      "period": "2025年",
+      "quote": "汽车座椅面套：销售量 万套 141.22"
+    },
+    {
+      "product": "电（光伏发电）",
+      "metric_type": "sales_volume",
+      "value": "20,651.74万度",
+      "period": "2025年",
+      "quote": "电：销售量 万度 20,651.74"
+    },
+    {
+      "product": "电（光伏发电）",
+      "metric_type": "production_volume",
+      "value": "2.07亿千瓦时",
+      "period": "本报告期",
+      "quote": "发电量（亿千瓦时） 2.07"
+    },
+    {
+      "product": "电（光伏发电）",
+      "metric_type": "capacity",
+      "value": "200兆瓦",
+      "period": "本报告期末",
+      "quote": "总装机容量（万千瓦） 20...截至本报告期末，公司拥有7座集中式地面光伏电站，总装机容量200兆瓦"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "合成革工厂二期厂房",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "3条涂布线的规模化生产能力",
+      "progress": "投用",
+      "expected_completion_time": null,
+      "quote": "合成革工厂二期厂房投用，形成 3 条涂布线的规模化生产能力"
+    },
+    {
+      "name": "飞织项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "当年投入、当年满产",
+      "expected_completion_time": null,
+      "quote": "飞织项目实现 “当年投入、当年满产”"
+    },
+    {
+      "name": "超纤仿麂皮扩产项目",
+      "project_type": "capacity_expansion",
+      "location": "合成革工厂闲置空地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行选址及投资论证",
+      "expected_completion_time": null,
+      "quote": "对超纤仿麂皮扩产项目进行选址及投资论证"
+    },
+    {
+      "name": "西安旷达汽车座套有限公司",
+      "project_type": "capacity_expansion",
+      "location": "陕西省西安市经济开发区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "设立并投产量产",
+      "expected_completion_time": null,
+      "quote": "公司全资子公司旷达饰件于2025年2月21日在陕西省西安市经济开发区设立子公司西安旷达汽车座套有限公司"
+    },
+    {
+      "name": "株洲旷达科技有限公司",
+      "project_type": "capacity_expansion",
+      "location": "湖南省株洲市天元区",
+      "investment_amount": "5,000万元",
+      "designed_capacity": null,
+      "progress": "设立",
+      "expected_completion_time": null,
+      "quote": "公司于2025年12月29日设立全资子公司株洲旷达科技有限公司"
+    },
+    {
+      "name": "射频滤波器产能提升（芯投微）",
+      "project_type": "capacity_expansion",
+      "location": "国内外双工厂",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "产能建设与技术验证，良率提升",
+      "expected_completion_time": null,
+      "quote": "芯投微国内工厂已顺利完成产能建设与技术验证，核心产品良率持续提升至行业领先水平"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "水性定岛超纤革",
+      "asset_type": "process_technology",
+      "related_product": "超纤仿麂皮",
+      "quantitative_info": "通过GRS全球回收标准认证",
+      "quote": "在环保材料领域，水性定岛超纤革、再生纤维等产品通过 GRS 全球回收标准认证"
+    },
+    {
+      "name": "GRS全球回收标准认证",
+      "asset_type": "certification",
+      "related_product": "水性定岛超纤革、再生纤维",
+      "quantitative_info": null,
+      "quote": "水性定岛超纤革、再生纤维等产品通过 GRS 全球回收标准认证"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2025年入选",
+      "quote": "于 2025 年入选国家级专精特新 “小巨人” 企业"
+    },
+    {
+      "name": "国家绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司旗下子公司先后获评国家绿色工厂、国家绿色供应链管理企业"
+    },
+    {
+      "name": "国家绿色供应链管理企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司旗下子公司先后获评国家绿色工厂、国家绿色供应链管理企业"
+    },
+    {
+      "name": "DNV挪威船级社MED-B与MED-D双证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "获得",
+      "quote": "以获得DNV挪威船级社MED-B与MED-D双证为契机"
+    },
+    {
+      "name": "火焰复合机（自主研制）",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司自主研制的火焰复合机顺利启用"
+    },
+    {
+      "name": "多项研发专利（报告期内）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "多项",
+      "quote": "获得1项实用新型专利...获得专利2项...获得1项实用新型专利及1项发明专利...获得2项实用新型专利...获得1项发明专利...获得2项实用新型专利"
+    },
+    {
+      "name": "美国USDA生物基主要含量认证",
+      "asset_type": "certification",
+      "related_product": "车用低碳生物基合成革材料",
+      "quantitative_info": null,
+      "quote": "获得美国USDA的生物基主要含量的认证"
+    },
+    {
+      "name": "TC/TF-SAW全线通线（芯投微）",
+      "asset_type": "process_technology",
+      "related_product": "射频滤波器",
+      "quantitative_info": null,
+      "quote": "国内工厂高端产品良率稳步提升...顺利通过三体系认证并实现 TC/TF-SAW 全线通线"
+    },
+    {
+      "name": "三体系认证（芯投微）",
+      "asset_type": "certification",
+      "related_product": "射频滤波器",
+      "quantitative_info": null,
+      "quote": "顺利通过三体系认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "32.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 743,811,481.87...前五名客户合计销售金额占年度销售总额比例 32.68%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "21.97%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 311,770,364.09...前五名供应商合计采购金额占年度采购总额比例 21.97%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "汽车内饰行业市场竞争格局日趋多元，下游客户对产品性价比要求提升；新能源汽车产业政策优化、市场需求结构变化可能带来经营不确定性。",
+      "related_entity": null,
+      "related_product": "汽车内饰业务",
+      "quote": "汽车内饰行业市场竞争格局日趋多元，下游客户对产品性价比要求提升；新能源汽车产业政策优化、市场需求结构变化可能带来经营不确定性"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动，对公司未来发展战略和经营目标实现可能产生一定影响。",
+      "related_entity": null,
+      "related_product": "汽车内饰业务",
+      "quote": "叠加原材料价格波动，对公司未来发展战略和经营目标实现可能产生一定影响"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "汽车行业需求、订单及技术迭代存在不确定性，可能导致存货跌价的风险。",
+      "related_entity": null,
+      "related_product": "汽车内饰业务",
+      "quote": "汽车行业需求、订单及技术迭代存在不确定性，可能导致存货跌价的风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "光伏业务受电网消纳能力、市场化交易电价波动、设备老化等因素影响显著，未来仍存在持续下行压力。",
+      "related_entity": null,
+      "related_product": "光伏发电业务",
+      "quote": "光伏业务受电网消纳能力、市场化交易电价波动、设备老化等因素影响显著，未来仍存在持续下行压力"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "射频滤波器高端市场由国际巨头主导，中低端市场国内企业竞争充分，芯投微在高端产品研发、产能释放及客户拓展等方面存在一定不确定性。",
+      "related_entity": "芯投微电子科技（安徽）有限公司",
+      "related_product": "射频滤波器",
+      "quote": "射频滤波器高端市场由国际巨头主导，中低端市场国内企业竞争充分，芯投微在高端产品研发、产能释放及客户拓展等方面存在一定不确定性"
+    }
+  ]
+}

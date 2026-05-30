@@ -1,0 +1,541 @@
+{
+  "company_name_mentioned": "箭牌家居集团股份有限公司",
+  "produces": [
+    {
+      "name": "智能坐便器",
+      "type": "device",
+      "revenue_proportion": "占公司主营业务收入比重为 23.01%",
+      "quote": "智能坐便器产品销售数量124.81万台，同比增长4.92%，销售收入14.71亿元，同比下降3.45%……智能坐便器收入占公司主营业务收入比重为 23.01%，同比提升 1.43 个百分点。"
+    },
+    {
+      "name": "卫生陶瓷",
+      "type": "device",
+      "revenue_proportion": "46.87%",
+      "quote": "卫生陶瓷 3,034,975,502.48 46.87%"
+    },
+    {
+      "name": "龙头五金",
+      "type": "device",
+      "revenue_proportion": "30.06%",
+      "quote": "龙头五金 1,946,330,259.24 30.06%"
+    },
+    {
+      "name": "浴室家具",
+      "type": "device",
+      "revenue_proportion": "12.58%",
+      "quote": "浴室家具 814,244,999.31 12.58%"
+    },
+    {
+      "name": "浴缸浴房",
+      "type": "device",
+      "revenue_proportion": "4.44%",
+      "quote": "浴缸浴房 287,163,839.17 4.44%"
+    },
+    {
+      "name": "瓷砖",
+      "type": "material",
+      "revenue_proportion": "3.95%",
+      "quote": "瓷砖 256,058,828.79 3.95%"
+    },
+    {
+      "name": "全系列家居产品（含智能卫浴、卫生陶瓷、龙头五金、浴室家具、浴缸浴房、瓷砖）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是一家集研发、生产、销售与服务于一体的大型现代化制造企业，致力于为消费者提供一站式智慧家居解决方案，生产产品品类范围覆盖卫生陶瓷（含智能坐便器）、龙头五金、浴室家具、浴缸浴房、瓷砖等全系列家居产品"
+    },
+    {
+      "name": "智慧家居",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "并将智慧家居确立为全新的整合型产品品类"
+    }
+  ],
+  "procures": [
+    {
+      "name": "泥原料",
+      "target_product": "卫生陶瓷",
+      "cost_proportion": null,
+      "quote": "公司所处行业的上游材料主要为各类原材料，包括泥原料、釉原料、聚丙烯、铜材、原纸和木材等，及水电燃气等能源。"
+    },
+    {
+      "name": "釉原料",
+      "target_product": "卫生陶瓷",
+      "cost_proportion": null,
+      "quote": "公司所处行业的上游材料主要为各类原材料，包括泥原料、釉原料、聚丙烯、铜材、原纸和木材等，及水电燃气等能源。"
+    },
+    {
+      "name": "聚丙烯",
+      "target_product": "可能用于塑料部件",
+      "cost_proportion": null,
+      "quote": "公司所处行业的上游材料主要为各类原材料，包括泥原料、釉原料、聚丙烯、铜材、原纸和木材等，及水电燃气等能源。"
+    },
+    {
+      "name": "铜材",
+      "target_product": "龙头五金",
+      "cost_proportion": null,
+      "quote": "公司所处行业的上游材料主要为各类原材料，包括泥原料、釉原料、聚丙烯、铜材、原纸和木材等，及水电燃气等能源。"
+    },
+    {
+      "name": "原纸",
+      "target_product": "可能用于包装",
+      "cost_proportion": null,
+      "quote": "公司所处行业的上游材料主要为各类原材料，包括泥原料、釉原料、聚丙烯、铜材、原纸和木材等，及水电燃气等能源。"
+    },
+    {
+      "name": "木材",
+      "target_product": "浴室家具",
+      "cost_proportion": null,
+      "quote": "公司所处行业的上游材料主要为各类原材料，包括泥原料、釉原料、聚丙烯、铜材、原纸和木材等，及水电燃气等能源。"
+    },
+    {
+      "name": "水电燃气",
+      "target_product": "生产过程能源",
+      "cost_proportion": null,
+      "quote": "及水电燃气等能源。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家居生活场所",
+      "source_product": "全系列家居产品",
+      "quote": "使用场景包括卫浴空间、厨房空间、客厅空间、卧室空间、阳台空间等家居生活场所"
+    },
+    {
+      "name": "公共场所（学校、医院、大型场馆、交通枢纽）",
+      "source_product": "全系列家居产品",
+      "quote": "以及学校、医院、大型场馆、交通枢纽等公共场所"
+    },
+    {
+      "name": "商业场所（酒店、商场、写字楼）",
+      "source_product": "全系列家居产品",
+      "quote": "酒店、商场、写字楼等商业场所"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谢岳荣",
+      "role": "董事长、总经理",
+      "quote": "公司负责人谢岳荣"
+    },
+    {
+      "name": "邓庆慧",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人邓庆慧"
+    },
+    {
+      "name": "林健军",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人(会计主管人员)林健军"
+    },
+    {
+      "name": "杨伟华",
+      "role": "副总经理、董事会秘书",
+      "quote": "副总经理、董事会秘书杨伟华先生"
+    },
+    {
+      "name": "ZHEN HUI HUO",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理ZHEN HUI HUO先生"
+    },
+    {
+      "name": "霍少容",
+      "role": "董事",
+      "quote": "董事霍少容"
+    },
+    {
+      "name": "霍秋洁",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理霍秋洁女士"
+    },
+    {
+      "name": "谢安琪",
+      "role": "董事",
+      "quote": "董事谢安琪女士"
+    },
+    {
+      "name": "谢炜",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理谢炜先生"
+    },
+    {
+      "name": "刘广仁",
+      "role": "副总经理",
+      "quote": "副总经理刘广仁先生"
+    },
+    {
+      "name": "卢金辉",
+      "role": "副总经理",
+      "quote": "副总经理卢金辉先生"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "佛山市乐华恒业实业投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "公司控股股东为佛山市乐华恒业实业投资有限公司"
+    },
+    {
+      "name": "佛山市霍陈贸易有限公司",
+      "relation_type": "investor",
+      "business_details": "公司股东",
+      "quote": "霍陈贸易 指 佛山市霍陈贸易有限公司，公司股东"
+    },
+    {
+      "name": "共青城乐华嘉悦投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司股东，员工持股平台",
+      "quote": "乐华嘉悦 指 共青城乐华嘉悦投资合伙企业（有限合伙），公司股东，员工持股平台"
+    },
+    {
+      "name": "佛山市顺德区乐华陶瓷洁具有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "顺德乐华 指 佛山市顺德区乐华陶瓷洁具有限公司，公司子公司"
+    },
+    {
+      "name": "佛山市高明安华陶瓷洁具有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "高明安华 指 佛山市高明安华陶瓷洁具有限公司，公司子公司"
+    },
+    {
+      "name": "肇庆乐华陶瓷洁具有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "肇庆乐华 指 肇庆乐华陶瓷洁具有限公司，公司子公司"
+    },
+    {
+      "name": "韶关市乐华陶瓷洁具有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "韶关乐华 指 韶关市乐华陶瓷洁具有限公司，公司子公司"
+    },
+    {
+      "name": "应城乐华厨卫有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "应城乐华 指 应城乐华厨卫有限公司，公司子公司"
+    },
+    {
+      "name": "德州市乐华陶瓷洁具有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "德州乐华 指 德州市乐华陶瓷洁具有限公司，公司子公司"
+    },
+    {
+      "name": "广东乐华智能卫浴有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "智能卫浴 指 广东乐华智能卫浴有限公司，公司子公司"
+    },
+    {
+      "name": "北京宏华骏成科贸有限公司及其关联方",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户之一，且为关联方",
+      "quote": "第 3 大客户北京宏华骏成科贸有限公司及其关联方为公司关联方，其主要股东及法人为公司董事长、总经理谢岳荣先生的表弟。"
+    },
+    {
+      "name": "佛山农村商业银行股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股公司",
+      "quote": "佛山农商行 指 佛山农村商业银行股份有限公司，公司参股公司"
+    },
+    {
+      "name": "鸿蒙智选",
+      "relation_type": "partner",
+      "business_details": "生态合作伙伴",
+      "quote": "2025年9月，ARROW 箭牌作为卫浴行业代表成为鸿蒙智选首批生态合作伙伴"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "卫生陶瓷",
+      "segment_type": "product_line",
+      "revenue_amount": "3,034,975,502.48元",
+      "revenue_proportion": "46.87%",
+      "gross_margin": "26.89%",
+      "yoy_change": "-13.16%",
+      "quote": "卫生陶瓷 3,034,975,502.48 46.87% ... 毛利率 26.89% ... 营业收入比上年同期增减 -13.16%"
+    },
+    {
+      "name": "龙头五金",
+      "segment_type": "product_line",
+      "revenue_amount": "1,946,330,259.24元",
+      "revenue_proportion": "30.06%",
+      "gross_margin": "23.54%",
+      "yoy_change": "-5.64%",
+      "quote": "龙头五金 1,946,330,259.24 30.06% ... 毛利率 23.54% ... 营业收入比上年同期增减 -5.64%"
+    },
+    {
+      "name": "浴室家具",
+      "segment_type": "product_line",
+      "revenue_amount": "814,244,999.31元",
+      "revenue_proportion": "12.58%",
+      "gross_margin": "24.82%",
+      "yoy_change": "3.15%",
+      "quote": "浴室家具 814,244,999.31 12.58% ... 毛利率 24.82% ... 营业收入比上年同期增减 3.15%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "6,373,604,292.20元",
+      "revenue_proportion": "98.44%",
+      "gross_margin": "26.24%",
+      "yoy_change": "-6.58%",
+      "quote": "境内 6,373,604,292.20 98.44% ... 毛利率 26.24% ... 营业收入比上年同期增减 -6.58%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,487,776,536.02元",
+      "revenue_proportion": "84.76%",
+      "gross_margin": "25.77%",
+      "yoy_change": "-9.47%",
+      "quote": "经销 5,487,776,536.02 84.76% ... 毛利率 25.77% ... 营业收入比上年同期增减 -9.47%"
+    },
+    {
+      "name": "国内经销零售收入",
+      "segment_type": "other",
+      "revenue_amount": "26.03亿元",
+      "revenue_proportion": "40.71%",
+      "gross_margin": null,
+      "yoy_change": "4.96%",
+      "quote": "公司2025年国内经销零售收入26.03亿元，同比增长4.96%，占比40.71%。"
+    },
+    {
+      "name": "电商渠道收入",
+      "segment_type": "sales_channel",
+      "revenue_amount": "12.95亿元",
+      "revenue_proportion": "20.25%",
+      "gross_margin": null,
+      "yoy_change": "-15.36%",
+      "quote": "2025年，公司电商渠道收入为 12.95 亿元，同比下降 15.36%，占比 20.25%"
+    },
+    {
+      "name": "家装渠道收入",
+      "segment_type": "sales_channel",
+      "revenue_amount": "11.03亿元",
+      "revenue_proportion": "17.25%",
+      "gross_margin": null,
+      "yoy_change": "-6.67%",
+      "quote": "2025 年，公司家装渠道收入为 11.03 亿元，同比下降 6.67%，占比 17.25%。"
+    },
+    {
+      "name": "工程渠道收入",
+      "segment_type": "sales_channel",
+      "revenue_amount": "12.82亿元",
+      "revenue_proportion": "20.06%",
+      "gross_margin": null,
+      "yoy_change": "-17.30%",
+      "quote": "2025年，公司工程渠道收入12.82亿元，同比下降17.30%，占比20.06%。"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "100,770,261.70元",
+      "revenue_proportion": "1.56%",
+      "gross_margin": null,
+      "yoy_change": "-67.41%",
+      "quote": "境外 100,770,261.70 1.56%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "卫生陶瓷",
+      "metric_type": "sales_volume",
+      "value": "827.41 万件",
+      "period": "2025年",
+      "quote": "销售量 万件 827.41"
+    },
+    {
+      "product": "卫生陶瓷",
+      "metric_type": "production_volume",
+      "value": "775.50 万件",
+      "period": "2025年",
+      "quote": "生产量 万件 775.50"
+    },
+    {
+      "product": "卫生陶瓷",
+      "metric_type": "inventory_volume",
+      "value": "206.00 万件",
+      "period": "2025年末",
+      "quote": "库存量 万件 206.00"
+    },
+    {
+      "product": "龙头五金",
+      "metric_type": "sales_volume",
+      "value": "1,523.11 万个",
+      "period": "2025年",
+      "quote": "销售量 万个 1,523.11"
+    },
+    {
+      "product": "龙头五金",
+      "metric_type": "production_volume",
+      "value": "1,527.71 万个",
+      "period": "2025年",
+      "quote": "生产量 万个 1,527.71"
+    },
+    {
+      "product": "龙头五金",
+      "metric_type": "inventory_volume",
+      "value": "80.55 万个",
+      "period": "2025年末",
+      "quote": "库存量 万个 80.55"
+    },
+    {
+      "product": "浴室家具",
+      "metric_type": "sales_volume",
+      "value": "147.20 万套",
+      "period": "2025年",
+      "quote": "销售量 万套 147.20"
+    },
+    {
+      "product": "浴室家具",
+      "metric_type": "production_volume",
+      "value": "144.90 万套",
+      "period": "2025年",
+      "quote": "生产量 万套 144.90"
+    },
+    {
+      "product": "浴室家具",
+      "metric_type": "inventory_volume",
+      "value": "17.94 万套",
+      "period": "2025年末",
+      "quote": "库存量 万套 17.94"
+    },
+    {
+      "product": "智能坐便器",
+      "metric_type": "sales_volume",
+      "value": "124.81万台",
+      "period": "2025年",
+      "quote": "智能坐便器产品销售数量124.81万台"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能家居产品产能技术改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "同时，公司积极践行绿色发展战略……持续推动智能家居产品产能技术改造项目"
+    },
+    {
+      "name": "年产 1000 万套水龙头、300 万套花洒项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产 1000 万套水龙头、300 万套花洒",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "以及年产 1000 万套水龙头、300 万套花洒项目等募集资金产能建设项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": "全品类",
+      "quantitative_info": "截至2026年3月31日，公司拥有授权专利数量3,615项，其中发明专利381项",
+      "quote": "截至2026年3月31日，公司拥有授权专利数量3,615项，其中发明专利381项"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": "智能控制、节水技术及新材料应用等",
+      "quantitative_info": "2025年提交427项专利申请，其中133项发明专利申请；新增授权专利581项，其中新增发明专利授权115项",
+      "quote": "2025 年，公司提交了427项专利申请，其中133项发明专利申请，新增授权专利数581项，其中新增发明专利授权115项"
+    },
+    {
+      "name": "研发费用",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入达3.35亿元，占营业收入比例为5.18%",
+      "quote": "2025年研发投入达3.35亿元，占营业收入比例为5.18%"
+    },
+    {
+      "name": "CNAS认证实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2个国家级CNAS认证的中心实验室",
+      "quote": "拥有2个国家级CNAS认证的中心实验室"
+    },
+    {
+      "name": "主导或参与制定标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主导或参与制定了近100项国家及行业标准",
+      "quote": "主导或参与制定了近100项国家及行业标准"
+    },
+    {
+      "name": "核心洁具产品销量",
+      "asset_type": "other",
+      "related_product": "智能坐便器、连体坐便器、蹲便器",
+      "quantitative_info": "2025年核心洁具产品销售数量合计超过500万台",
+      "quote": "2025 年，公司核心洁具产品（智能坐便器、连体坐便器、蹲便器）销售数量合计超过 500 万台"
+    },
+    {
+      "name": "智能马桶全球销量",
+      "asset_type": "other",
+      "related_product": "智能坐便器",
+      "quantitative_info": "截至2025年末，公司智能马桶全球销量已突破750万台",
+      "quote": "截至2025年末，公司智能马桶全球销量已突破750万台"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "16.84%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,090,009,905.39 前五名客户合计销售金额占年度销售总额比例 16.84%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "5.86%",
+      "related_entity": "第1大客户",
+      "period": "2025年",
+      "quote": "第1大客户 379,573,711.12 5.86%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9.48%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 282,152,801.28 前五名供应商合计采购金额占年度采购总额比例 9.48%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "2.81%",
+      "related_entity": "第1名供应商",
+      "period": "2025年",
+      "quote": "第1名供应商 83,592,901.99 2.81%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "目前卫浴行业集中度较低，且已进入存量竞争阶段，市场竞争尤为激烈，价格内卷现象凸显。注重品牌建设、绿色智造和持续研发投入的头部企业优势将更加突出。若公司不能在新产品研发迭代、产能规模与效率、品牌高端化建设、渠道精细化运营及绿色智能制造等方面持续保持或扩大竞争优势，可能对公司的市场份额、定价能力及盈利水平造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）市场竞争加剧的风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司工程渠道业务与房地产市场具有一定相关性，若房地产回暖不及预期，可能继续影响该渠道销售。同时，尽管存量房更新、局部改造及适老化需求潜力巨大，但若消费者收入增长不及预期、消费信心不足，将可能使得整体装修需求增长放缓，或导致消费意愿向更具性价比的产品倾斜，从而对公司产品销售及结构升级带来挑战。",
+      "related_entity": "房地产市场",
+      "related_product": null,
+      "quote": "（2）房地产市场波动及消费需求结构性分化的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司的主要原材料包括水件盖板、泥砂、金属材料、化工材料、木质材料、包装材料等，生产经营过程所需能源包括水、电、天然气等。若主要原材料及能源价格出现波动，将会给公司生产经营及盈利水平带来较大影响，若出现采购价格大幅上升而公司不能将相关成本及时向下游转移的情况，公司盈利水平将面临下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）原材料价格波动的风险"
+    }
+  ]
+}

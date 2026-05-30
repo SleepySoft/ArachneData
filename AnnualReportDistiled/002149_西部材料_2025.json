@@ -1,0 +1,494 @@
+{
+  "company_name_mentioned": "西部金属材料股份有限公司",
+  "produces": [
+    {
+      "name": "钛制品",
+      "type": "material",
+      "revenue_proportion": "2,209,741,320.98元，占营业收入比重68.40%",
+      "quote": "分产品\n钛制品 2,209,741,320.98 68.40% 2,104,928,151.41 71.46% 4.98%"
+    },
+    {
+      "name": "其他稀有金属",
+      "type": "material",
+      "revenue_proportion": "868,941,940.96元，占营业收入比重26.90%",
+      "quote": "其他稀有金属 868,941,940.96 26.90% 654,619,207.73 22.22% 32.74%"
+    },
+    {
+      "name": "其他收入",
+      "type": "other",
+      "revenue_proportion": "151,852,251.60元，占营业收入比重4.70%",
+      "quote": "其他收入 151,852,251.60 4.70% 186,174,676.50 6.32% -18.44%"
+    },
+    {
+      "name": "钛、锆加工材",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司现已成为我国一流的稀有金属材料研发、生产基地之一，主营业务按产品大类分为钛、锆加工材业务，金属复合材料业务，贵金属材料业务，难熔金属材料业务和其他几个业务板块。"
+    },
+    {
+      "name": "层状金属复合材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司是国内层状金属复合材料行业龙头...产品通过中核、中广核、国核...等国内主要大型装备制造商和BP、Shell、GE、SIEMENS...等国外知名厂商的供应许可认证。"
+    },
+    {
+      "name": "贵金属材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司贵金属产业板块主要涵盖航天、核电、航空、兵器、舰船、电子等领域用贵金属材料的研发、生产和销售。"
+    },
+    {
+      "name": "难熔金属材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司难熔金属材料主要包括钨、钼、钽、铌、铪及其合金材料等，具体形态有板材、带材、管材、棒材、丝材、制品、组件等..."
+    },
+    {
+      "name": "钛及钛合金精密铸造业务",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "钛及钛合金精密铸造产业板块主要面向航空航天、兵器装备等战略性领域，专注于高性能钛及钛合金精密铸件的研发、生产与销售..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "稀有金属材料",
+      "cost_proportion": "1,701,503,910.68元，占营业成本比重67.63%",
+      "quote": "营业成本构成\n行业分类\n行业分类\n单位：元\n2025年 2024年\n行业分类 项目 占营业成本比重 金额 金额\n稀有金属压延加工业 原材料 1,701,503,910.68 67.63% 1,419,955,085.94 65.73% 19.83%"
+    },
+    {
+      "name": "海绵钛",
+      "target_product": "钛加工材",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料包括海绵钛、海绵锆、难熔金属、贵金属以及中间合金等。"
+    },
+    {
+      "name": "海绵锆",
+      "target_product": "锆加工材",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料包括海绵钛、海绵锆、难熔金属、贵金属以及中间合金等。"
+    },
+    {
+      "name": "难熔金属",
+      "target_product": "难熔金属材料",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料包括海绵钛、海绵锆、难熔金属、贵金属以及中间合金等。"
+    },
+    {
+      "name": "贵金属",
+      "target_product": "贵金属材料",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料包括海绵钛、海绵锆、难熔金属、贵金属以及中间合金等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空航天",
+      "source_product": "钛、锆加工材，贵金属材料，难熔金属材料",
+      "quote": "产品广泛应用于航空航天、兵器、舰船、海洋、核能、化工装备及半导体制造等战略性新兴产业。"
+    },
+    {
+      "name": "兵器",
+      "source_product": "钛、锆加工材，贵金属材料",
+      "quote": "产品广泛应用于航空航天、兵器、舰船、海洋、核能、化工装备及半导体制造等战略性新兴产业。"
+    },
+    {
+      "name": "舰船",
+      "source_product": "钛、锆加工材",
+      "quote": "产品广泛应用于航空航天、兵器、舰船、海洋、核能、化工装备及半导体制造等战略性新兴产业。"
+    },
+    {
+      "name": "海洋工程",
+      "source_product": "钛、锆加工材，层状金属复合材料",
+      "quote": "产品广泛应用于航空航天、兵器、舰船、海洋、核能、化工装备及半导体制造等战略性新兴产业。"
+    },
+    {
+      "name": "核能/核电",
+      "source_product": "层状金属复合材料，贵金属材料（核电用银合金控制棒）",
+      "quote": "产品广泛应用于航空航天、兵器、舰船、海洋、核能、化工装备及半导体制造等战略性新兴产业。...公司是我国核电用银合金控制棒的唯一生产商..."
+    },
+    {
+      "name": "化工装备",
+      "source_product": "锆加工材，层状金属复合材料",
+      "quote": "产品广泛应用于航空航天、兵器、舰船、海洋、核能、化工装备及半导体制造等战略性新兴产业。"
+    },
+    {
+      "name": "半导体制造",
+      "source_product": "难熔金属材料（钨铜合金、钼铜合金等热沉材料）",
+      "quote": "产品广泛应用于航空航天、兵器、舰船、海洋、核能、化工装备及半导体制造等战略性新兴产业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨延安",
+      "role": "公司负责人/法定代表人/董事长",
+      "quote": "公司负责人杨延安、主管会计工作负责人刘咏及会计机构负责人（会计主管人员）叶闽敏声明：...杨延安，男，汉族，1966年生，中共党员，硕士，正高级工程师...2023年4月至今任公司董事长。"
+    },
+    {
+      "name": "刘咏",
+      "role": "主管会计工作负责人/财务负责人",
+      "quote": "公司负责人杨延安、主管会计工作负责人刘咏及会计机构负责人（会计主管人员）叶闽敏声明：...刘咏，男，汉族，1978年生，中共党员，会计硕士，正高级会计师...2017年4月至今任公司财务负责人。"
+    },
+    {
+      "name": "康彦",
+      "role": "董事/总经理",
+      "quote": "康彦，男，汉族，1979年生，中共党员，工学博士，正高级工程师...2022年6月至今任西部材料公司总经理，2023年12月至今任西部材料公司党委副书记。2024年7月至今任公司董事。"
+    },
+    {
+      "name": "顾亮",
+      "role": "副总经理/董事会秘书",
+      "quote": "顾亮，男，汉族，1968年生，中共党员，硕士，高级工程师...2010年1月至今任公司董事会秘书，2017年4月至今任公司副总经理。"
+    },
+    {
+      "name": "黄张洪",
+      "role": "副总经理",
+      "quote": "黄张洪，男，汉族，1979年生，中共党员，工学博士，正高级工程师...2024年8月至今任公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "西北有色金属研究院",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、西北院 指 西北有色金属研究院，为公司控股股东...西北有色金属研究院 120,468,988 24.68%..."
+    },
+    {
+      "name": "西安航天科技工业有限公司",
+      "relation_type": "investor",
+      "business_details": "第二大股东",
+      "quote": "西安航天 指 西安航天科技工业有限公司，为公司第二大股东...西安航天科技工业有限公司 41,687,552 8.54%..."
+    },
+    {
+      "name": "西部钛业有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，钛制品业务",
+      "quote": "西部钛业 指 西部钛业有限责任公司，为公司控股子公司...西部钛业 子公司 钛制品..."
+    },
+    {
+      "name": "西安天力金属复合材料股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，层状金属复合材料业务",
+      "quote": "天力复合 指 西安天力金属复合材料股份有限公司，为公司控股子公司...天力复合 子公司 层状金属复合材料..."
+    },
+    {
+      "name": "西安诺博尔稀贵金属材料股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，稀贵金属材料业务",
+      "quote": "西诺稀贵 指 西安诺博尔稀贵金属材料股份有限公司，为公司控股子公司...西诺稀贵 子公司 稀贵金属材料..."
+    },
+    {
+      "name": "西安菲尔特金属过滤材料股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，金属纤维及纤维毡业务",
+      "quote": "菲尔特 指 西安菲尔特金属过滤材料股份有限公司，为公司控股子公司...菲尔特 子公司 金属纤维及纤维毡..."
+    },
+    {
+      "name": "西安西材精铸有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年新设的控股子公司，钛及钛合金精密铸造业务",
+      "quote": "西材精铸 指 西安西材精铸有限公司，为公司控股子公司...公司报告期内新设一家控股子公司，控股子公司西材精铸于2025年6月19日成立..."
+    },
+    {
+      "name": "西部超导材料科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "西北院控股子公司，为关联方",
+      "quote": "西部超导 指 西部超导材料科技股份有限公司，为西北院控股子公司..."
+    },
+    {
+      "name": "西安凯立新材料股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "西北院控股子公司，为关联方",
+      "quote": "凯立新材 指 西安凯立新材料股份有限公司，为西北院控股子公司..."
+    },
+    {
+      "name": "朝阳金达钛业股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司参股公司",
+      "quote": "金钛股份 指 朝阳金达钛业股份有限公司，为公司参股公司..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "钛制品",
+      "segment_type": "product_line",
+      "revenue_amount": "2,209,741,320.98元",
+      "revenue_proportion": "68.40%",
+      "gross_margin": "17.10%",
+      "yoy_change": "4.98%",
+      "quote": "分产品\n钛制品 2,209,741,320.98 68.40%...毛利率 17.10%..."
+    },
+    {
+      "name": "其他稀有金属",
+      "segment_type": "product_line",
+      "revenue_amount": "868,941,940.96元",
+      "revenue_proportion": "26.90%",
+      "gross_margin": "21.28%",
+      "yoy_change": "32.74%",
+      "quote": "其他稀有金属 868,941,940.96 26.90%...毛利率 21.28%..."
+    },
+    {
+      "name": "其他收入",
+      "segment_type": "product_line",
+      "revenue_amount": "151,852,251.60元",
+      "revenue_proportion": "4.70%",
+      "gross_margin": "4.41%",
+      "yoy_change": "-18.44%",
+      "quote": "其他收入 151,852,251.60 4.70%...毛利率 4.41%..."
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "3,082,087,112.75元",
+      "revenue_proportion": "95.40%",
+      "gross_margin": "18.44%",
+      "yoy_change": "14.68%",
+      "quote": "分地区\n境内 3,082,087,112.75 95.40%...毛利率 18.44%..."
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "148,448,400.79元",
+      "revenue_proportion": "4.60%",
+      "gross_margin": "0.71%",
+      "yoy_change": "-42.48%",
+      "quote": "境外 148,448,400.79 4.60%...毛利率 0.71%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "钛材制品",
+      "metric_type": "sales_volume",
+      "value": "6,134吨",
+      "period": "2025年",
+      "quote": "销售量 吨 6,134 6,767.00 -9.35%"
+    },
+    {
+      "product": "钛材制品",
+      "metric_type": "production_volume",
+      "value": "5,924吨",
+      "period": "2025年",
+      "quote": "生产量 吨 5,924 6,788.00 -12.73%"
+    },
+    {
+      "product": "钛材制品",
+      "metric_type": "inventory_volume",
+      "value": "689吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 689 899.00 -23.36%"
+    },
+    {
+      "product": "稀有金属复合材料及制品",
+      "metric_type": "sales_volume",
+      "value": "26,921吨",
+      "period": "2025年",
+      "quote": "销售量 吨 26,921.00 23,542.00 14.35%"
+    },
+    {
+      "product": "稀有金属复合材料及制品",
+      "metric_type": "production_volume",
+      "value": "28,415吨",
+      "period": "2025年",
+      "quote": "生产量 吨 28,415.00 17,485.17 62.51%"
+    },
+    {
+      "product": "稀有金属复合材料及制品",
+      "metric_type": "inventory_volume",
+      "value": "3,529吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 3,529.00 2,035.00 73.42%"
+    },
+    {
+      "product": "金属纤维及制品",
+      "metric_type": "sales_volume",
+      "value": "151,623.43平方米",
+      "period": "2025年",
+      "quote": "销售量 平方米 151,623.43 191,304.20 -20.74%"
+    },
+    {
+      "product": "金属纤维及制品",
+      "metric_type": "production_volume",
+      "value": "111,635.56平方米",
+      "period": "2025年",
+      "quote": "生产量 平方米 111,635.56 225,453.67 -50.48%"
+    },
+    {
+      "product": "难熔金属制品",
+      "metric_type": "sales_volume",
+      "value": "204.97吨",
+      "period": "2025年",
+      "quote": "销售量 吨 204.97 154.93 32.30%"
+    },
+    {
+      "product": "难熔金属制品",
+      "metric_type": "production_volume",
+      "value": "203.83吨",
+      "period": "2025年",
+      "quote": "生产量 吨 203.83 162.05 25.78%"
+    },
+    {
+      "product": "贵金属制品",
+      "metric_type": "sales_volume",
+      "value": "19.99吨",
+      "period": "2025年",
+      "quote": "销售量 吨 19.99 15.62 27.98%"
+    },
+    {
+      "product": "贵金属制品",
+      "metric_type": "production_volume",
+      "value": "20.17吨",
+      "period": "2025年",
+      "quote": "生产量 吨 20.17 15.38 31.14%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "海洋工程用大规格低成本钛合金生产线技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "运行顺利，全年锻造通过量超2.5万吨",
+      "expected_completion_time": null,
+      "quote": "“海洋工程用大规格低成本钛合金生产线技改项目”运行顺利，全年锻造通过量超2.5万吨，大幅提升了公司钛产业链竞争力。"
+    },
+    {
+      "name": "航天及核用高性能难熔金属材料产业化项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设整体推进，主体厂房竣工，主要设备安装完成，进入试车阶段",
+      "expected_completion_time": null,
+      "quote": "“航天及核用高性能难熔金属材料产业化项目”建设整体推进，主体厂房竣工，主要设备安装完成，进入试车阶段。"
+    },
+    {
+      "name": "海洋工程用大规格低成本钛合金生产线技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "55,585,374.53元（本年投入）",
+      "designed_capacity": null,
+      "progress": "进度70.66%",
+      "expected_completion_time": null,
+      "quote": "海洋工程用大规格低成本钛合金生产线技改项目...自建...有色金属压延与加工业...投资金额...55,585,374.53...进度70.66%..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获批了国家级企业技术中心...等多个国家级研发中试平台..."
+    },
+    {
+      "name": "钛合金加工技术国家地方联合工程研究中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获批了...钛合金加工技术国家地方联合工程研究中心..."
+    },
+    {
+      "name": "层状复合金属材料国家地方联合工程研究中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获批了...层状复合金属材料国家地方联合工程研究中心..."
+    },
+    {
+      "name": "超大规格钛合金铸锭均质熔炼技术",
+      "asset_type": "core_technology",
+      "related_product": "钛合金",
+      "quantitative_info": null,
+      "quote": "超大规格钛合金铸锭均质熔炼技术。公司攻克了直径超过φ1000mm的超大规格钛合金成分均匀性及成材率控制难题..."
+    },
+    {
+      "name": "核电凝汽器复合材料制备技术",
+      "asset_type": "core_technology",
+      "related_product": "层状金属复合材料",
+      "quantitative_info": null,
+      "quote": "核电凝汽器复合材料制备技术。...通过自主研发攻克大面积钛复合管板技术瓶颈，彻底改变该类产品长期依赖进口的局面..."
+    },
+    {
+      "name": "核电反应堆用银合金中子吸收体制备技术",
+      "asset_type": "core_technology",
+      "related_product": "贵金属材料（核电用银合金控制棒）",
+      "quantitative_info": null,
+      "quote": "核电反应堆用银合金中子吸收体制备技术。...产品目前已应用于国内外40余个核电机组。"
+    },
+    {
+      "name": "航天发动机用高温铌合金制备技术",
+      "asset_type": "core_technology",
+      "related_product": "难熔金属材料",
+      "quantitative_info": null,
+      "quote": "航天发动机用高温铌合金制备技术。公司研发了大规格铌合金铸锭成分均匀性控制技术..."
+    },
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "515项",
+      "quote": "获得有效专利515项，制定国家及行业标准196项..."
+    },
+    {
+      "name": "国家及行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "196项",
+      "quote": "获得有效专利515项，制定国家及行业标准196项..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.36%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,109,851,206.34\n前五名客户合计销售金额占年度销售总额比例 34.36%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "9.80%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 316,587,653.17 9.80%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 600,905,313.99\n前五名供应商合计采购金额占年度采购总额比例 22.98%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.36%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 166,266,150.34 6.36%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司核心业务聚焦军工、航空航天、新能源等战略领域，与国家政策、宏观经济环境密切相关，若相关政策、经济环境出现重大变化，将会影响公司所处行业的发展趋势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.国家政策与宏观经济环境变化风险\n公司核心业务聚焦军工、航空航天、新能源等战略领域，与国家政策、宏观经济环境密切相关，若相关政策、经济环境出现重大变化，将会影响公司所处行业的发展趋势。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "近年来稀有金属行业市场竞争日趋激烈，新兴赛道入局企业增多，面临市场竞争加剧的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.市场竞争风险\n近年来稀有金属行业市场竞争日趋激烈，新兴赛道入局企业增多，面临市场竞争加剧的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司是稀有金属材料加工企业，存在原材料价格波动带来的经营风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.原材料价格波动风险\n公司是稀有金属材料加工企业，存在原材料价格波动带来的经营风险。"
+    }
+  ]
+}

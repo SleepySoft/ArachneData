@@ -1,0 +1,409 @@
+{
+  "company_name_mentioned": "广州金逸影视传媒股份有限公司",
+  "produces": [
+    {
+      "name": "电影放映",
+      "type": "service",
+      "revenue_proportion": "85.01%",
+      "quote": "分产品 电影放映收入 977,344,546.44 85.01%"
+    },
+    {
+      "name": "卖品销售",
+      "type": "material",
+      "revenue_proportion": "8.85%",
+      "quote": "卖品收入 101,694,942.77 8.85%"
+    },
+    {
+      "name": "广告服务",
+      "type": "service",
+      "revenue_proportion": "4.80%",
+      "quote": "广告服务收入 55,137,233.93 4.80%"
+    },
+    {
+      "name": "院线发行",
+      "type": "service",
+      "revenue_proportion": "0.74%",
+      "quote": "院线发行收入 8,464,459.90 0.74%"
+    },
+    {
+      "name": "影视剧收入",
+      "type": "service",
+      "revenue_proportion": "0.47%",
+      "quote": "影视剧收入 5,390,457.10 0.47%"
+    },
+    {
+      "name": "设备租赁",
+      "type": "service",
+      "revenue_proportion": "0.06%",
+      "quote": "设备租赁收入 674,871.84 0.06%"
+    },
+    {
+      "name": "投资性房地产收入",
+      "type": "service",
+      "revenue_proportion": "0.09%",
+      "quote": "投资性房地产收入 998,308.07 0.09%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电影放映相关采购",
+      "target_product": "电影放映",
+      "cost_proportion": null,
+      "quote": "公司主要供应商情况 前五名供应商合计采购金额（元） 722,976,158.40 前五名供应商合计采购金额占年度采购总额比例 65.86%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "观众观影",
+      "source_product": "电影放映",
+      "quote": "为观众提供影片放映业务以及相关的配套服务。"
+    },
+    {
+      "name": "观影伴随消费",
+      "source_product": "卖品销售",
+      "quote": "向观众提供固定卖品、随机卖品、市场热点卖品、电影衍生产品，满足观影人群观影伴随消费及珍藏的需求。"
+    },
+    {
+      "name": "广告主",
+      "source_product": "广告服务",
+      "quote": "影院会与广告代理商洽谈相关的广告业务，包括映前广告、阵地广告等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李晓文",
+      "role": "董事长",
+      "quote": "董事长：李晓文"
+    },
+    {
+      "name": "李晓东",
+      "role": "董事、总经理",
+      "quote": "董事、 总经理 李晓东"
+    },
+    {
+      "name": "易海",
+      "role": "董事、副总经理",
+      "quote": "董事、 副总经 理 易海"
+    },
+    {
+      "name": "许斌彪",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事、 副总经 理、董 事会秘 书 许斌彪"
+    },
+    {
+      "name": "曾凡清",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人曾凡清"
+    },
+    {
+      "name": "丘晓东",
+      "role": "职工董事",
+      "quote": "职工董 事 丘晓东"
+    },
+    {
+      "name": "李玉珍",
+      "role": "控股股东、实际控制人",
+      "quote": "控股股东姓名 李玉珍 实际控制人姓名 李玉珍"
+    },
+    {
+      "name": "李根长",
+      "role": "控股股东、实际控制人",
+      "quote": "李玉珍、李根长为兄妹关系。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广州金逸珠江电影院线有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下金逸院线",
+      "quote": "金逸院线 指 广州金逸珠江电影院线有限公司"
+    },
+    {
+      "name": "五洲电影发行有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联公司，董事许斌彪兼任其董事",
+      "quote": "五洲电影发行 指 五洲电影发行有限公司 董事、总经理 许斌彪... 现任五洲电影发行有限公司董事"
+    },
+    {
+      "name": "广东珠江电影院线有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联公司，董事易海、许斌彪兼任其董事",
+      "quote": "珠江院线 指 广东珠江电影院线有限公司 现任广州金逸珠江电影院线有限公司董事长，广东珠江电影院线有限公司董事。"
+    },
+    {
+      "name": "霍尔果斯金逸电影放映有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "霍尔果斯放映 指 霍尔果斯金逸电影放映有限公司"
+    },
+    {
+      "name": "金逸锦翊（天津）投资管理中心（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "文化产业投资基金，经营期5年已于2025年3月到期，已启动解散清算。",
+      "quote": "金逸锦翊 指 金逸锦翊（天津）投资管理中心（有限合伙）... 根据《合伙协议》，金逸锦翊文化产业投资基金的经营期限已于2025年3月23日到期。"
+    },
+    {
+      "name": "广州融海投资企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "持股平台，持股9.52%",
+      "quote": "融海投资 指 广州融海投资企业（有限合伙） 广州融海投资企业（有限合伙） 26,880,000 9.52%"
+    },
+    {
+      "name": "信永中和会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "会计师、信永中和 指 信永中和会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "加拿大IMAX集团",
+      "relation_type": "supplier",
+      "business_details": "IMAX放映技术及设备供应商",
+      "quote": "加拿大 IMAX 集团所研发的一种巨型银幕...IMAX 体验由三大技术成 分 组成：IMAX 放映机、IMAX 银幕和顶级数字环绕音响系统"
+    },
+    {
+      "name": "RealD",
+      "relation_type": "supplier",
+      "business_details": "LUXE巨幕技术合作方",
+      "quote": "LUXE 是基于 RealD 终极银幕和 RealD3D）驱动的全球化巨幕品 牌。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电影行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,149,704,820.05",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "23.59%",
+      "yoy_change": "13.56%",
+      "quote": "分行业 电影行业 1,149,704,820.05 100.00%... 营业收入比上 营业成本比上 毛利率比上年 年同期增减 年同期增减 同期增减 电影行业 878,519,486.95 23.59% 13.56% 1.13% 9.40%"
+    },
+    {
+      "name": "电影放映收入",
+      "segment_type": "product_line",
+      "revenue_amount": "977,344,546.44",
+      "revenue_proportion": "85.01%",
+      "gross_margin": "14.05%",
+      "yoy_change": "14.02%",
+      "quote": "电影放映收入 977,344,546.44 839,997,669.72 14.05% 14.02% 0.80% 11.27%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,149,294,780.18",
+      "revenue_proportion": "99.96%",
+      "gross_margin": "23.94%",
+      "yoy_change": "13.59%",
+      "quote": "分地区 境内 1,149,294,780.18 874,191,512.19 23.94% 13.59% 0.95% 9.52%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,149,704,820.05",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "23.59%",
+      "yoy_change": "13.56%",
+      "quote": "分销售模式 直销 1,149,704,820.05 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "影院",
+      "metric_type": "capacity",
+      "value": "403家",
+      "period": "截至2025年12月31日",
+      "quote": "截至 2025 年 12 月 31 日，院线旗下共拥有403家已开业影院"
+    },
+    {
+      "product": "银幕",
+      "metric_type": "capacity",
+      "value": "2，573块",
+      "period": "截至2025年12月31日",
+      "quote": "银幕2,573块"
+    },
+    {
+      "product": "直营影院",
+      "metric_type": "capacity",
+      "value": "150家，银幕1，097块",
+      "period": "截至2025年12月31日",
+      "quote": "其中直营影院150家，银幕1,097块"
+    },
+    {
+      "product": "加盟影院",
+      "metric_type": "capacity",
+      "value": "253家，银幕1，476块",
+      "period": "截至2025年12月31日",
+      "quote": "加盟影院253家，银幕1,476块"
+    },
+    {
+      "product": "院线票房",
+      "metric_type": "sales_volume",
+      "value": "194,034.52万元",
+      "period": "2025年",
+      "quote": "院线实现票房194,034.52万元"
+    },
+    {
+      "product": "直营影院票房",
+      "metric_type": "sales_volume",
+      "value": "106,565.99万元",
+      "period": "2025年",
+      "quote": "直营影院票房106,565.99万元"
+    },
+    {
+      "product": "加盟影院票房",
+      "metric_type": "sales_volume",
+      "value": "87,468.52万元",
+      "period": "2025年",
+      "quote": "加盟影院票房87,468.52万元"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新签约优质影院项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年新签约优质影院项目4家",
+      "expected_completion_time": null,
+      "quote": "2025 年新签约优质影院项目4家"
+    },
+    {
+      "name": "新开直营影城",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新开直营影城2家",
+      "expected_completion_time": null,
+      "quote": "新开直营影城2家"
+    },
+    {
+      "name": "核心城市优质影院改造升级",
+      "project_type": "capacity_expansion",
+      "location": "核心城市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "对6家核心城市的优质影院项目进行改造与升级",
+      "expected_completion_time": null,
+      "quote": "同时对6家核心城市的优质影院项目进行改造与升级"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "IMAX",
+      "asset_type": "process_technology",
+      "related_product": "电影放映",
+      "quantitative_info": "IMAX 厅52个",
+      "quote": "公司直营影院共有...IMAX 厅52个...IMAX 是目前世界上最 好的影像系统及\"电影的终极体验\"。"
+    },
+    {
+      "name": "LUXE",
+      "asset_type": "process_technology",
+      "related_product": "电影放映",
+      "quantitative_info": "LUXE 厅3个",
+      "quote": "公司直营影院共有...LUXE 厅3个...LUXE 是基于 RealD 终极银幕...的技术 + 豪华影厅 + 顶级体验品牌。"
+    },
+    {
+      "name": "CINITY",
+      "asset_type": "process_technology",
+      "related_product": "电影放映",
+      "quantitative_info": "CINITY 厅6个",
+      "quote": "公司直营影院共有...CINITY 厅6个"
+    },
+    {
+      "name": "金逸电商矩阵（微信公众号、小程序、APP）",
+      "asset_type": "technical_platform",
+      "related_product": "电影票及卖品销售",
+      "quantitative_info": null,
+      "quote": "公司持续升级 “金逸电影” 微信公众号、小程序、APP 等自营电商矩阵"
+    },
+    {
+      "name": "管理和运营机制",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "自成立之初，公司充分借鉴了国际知名院线的先进管理经验...形成了公司股份独特的管理和运营机制，并取得了领先于其他城市院线的运营效率。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "71.82%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 71.82%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "65.86%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 65.86%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "47.27%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 543,460,201.45 47.27%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "45.05%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 494,593,041.53 45.05%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "突发重大公共卫生安全事件具有起源不明、偶发随机、危害甄别难、传播速度快等特征，若发生此类事件，电影院作为密闭式、集聚性消费场所，需根据政府防控决策部署及行业监管要求，一定时间内对经营场所进行暂停营业，将直接导致公司票房、非票等各项收入大幅下降，同时公司仍需承担租金、人力等固定成本，对公司经营业绩带来重大不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、突发重大公共卫生事件的风险 突发重大公共卫生安全事件具有起源不明、偶发随机、危害甄别难、传播速度快等特征..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "影院的选址直接影响影院经营业绩及投资回收周期...若对选址区域的未来运营环境判断失误，将会对新设影院的盈利能力产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、影院选址的风险 影院的选址直接影响影院经营业绩及投资回收周期..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "未来电影行业终端放映环节的竞争将进一步加剧。一方面，影院拓展与设备升级的投入持续加大，推高行业运营成本；另一方面，单影院、单银幕收入仍面临被稀释的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、行业竞争加剧的风险 根据国家电影局数据，2025 年全国银幕总数已达 93,187 块...未来电影行业终端放映环节的竞争将进一步加剧。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "在整个电影产业链中，发行放映属于较为被动的环节，影院的业绩一定程度取决于电影制片商推出优秀作品的数量...电影制片商或发行商无法持续推出或引进质量上乘的优秀影片，导致观众观影热情下降，也难以确保较高的观影人次及上座率，从而会对公司营业收入及盈利水平产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、对上游电影制作依赖的风险...电影制片商或发行商无法持续推出或引进质量上乘的优秀影片..."
+    },
+    {
+      "risk_type": "other",
+      "description": "电影行业存在着明显的档期现象，行业的票房收入根据档期的不同呈现出较为明显的季节性特征。目前，夏季（暑期档）和冬季（贺岁档及春节档）是国内电影票房收入的两个波峰。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、票房季节性波动的经营业绩风险 电影行业存在着明显的档期现象..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "移动互联网对电影行业的影响持续深化...短视频普及进一步加剧娱乐碎片化，对影院经营形成叠加冲击...短剧、网络电影、短视频等业态以碎片化、即时性、强互动的特点抢占用户时间，持续分流年轻群体的线下观影意愿，对院线放映业务形成长期竞争压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、（移动）互联网带来的持续挑战 移动互联网对电影行业的影响持续深化，短视频普及进一步加剧娱乐碎片化..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司积极拓展“影院+”业态，但该业态目前仍处于深度探索阶段，存在内容引进匹配度难、受众群体培育慢、盈利模式不成熟等问题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、“影院+”业态拓展的风险 报告期内，公司积极拓展“影院+”业态，但该业态目前仍处于深度探索阶段..."
+    }
+  ]
+}

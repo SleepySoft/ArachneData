@@ -1,0 +1,576 @@
+{
+  "company_name_mentioned": "广州珠江啤酒股份有限公司",
+  "produces": [
+    {
+      "name": "啤酒",
+      "type": "material",
+      "revenue_proportion": "分行业（1）啤酒销售 5,686,664,327.38元，占比96.74%",
+      "quote": "公司主营业务为啤酒生产销售及相关业务。"
+    },
+    {
+      "name": "高档啤酒（纯生啤酒、雪堡啤酒等）",
+      "type": "material",
+      "revenue_proportion": "分产品，高档 4,332,956,582.05元，占营业收入比重73.71%",
+      "quote": "高端产品主要为纯生啤酒、雪堡啤酒等"
+    },
+    {
+      "name": "中档啤酒（零度啤酒等）",
+      "type": "material",
+      "revenue_proportion": "分产品，中档 950,760,458.43元，占营业收入比重16.18%",
+      "quote": "中档产品主要为零度啤酒等"
+    },
+    {
+      "name": "大众化啤酒",
+      "type": "material",
+      "revenue_proportion": "分产品，大众化 402,947,286.90元，占营业收入比重6.85%",
+      "quote": "大众化产品主要为传统啤酒等"
+    },
+    {
+      "name": "酵母饲料",
+      "type": "material",
+      "revenue_proportion": "分行业（2）酵母饲料销售 38,816,919.65元，占比0.66%",
+      "quote": "分行业（2）酵母饲料销售"
+    },
+    {
+      "name": "包装材料",
+      "type": "material",
+      "revenue_proportion": "分行业（3）包装材料 6,910,410.61元，占比0.12%",
+      "quote": "分行业（3）包装材料"
+    },
+    {
+      "name": "租赁餐饮服务",
+      "type": "service",
+      "revenue_proportion": "分行业（4）租赁餐饮服务 70,237,479.78元，占比1.20%",
+      "quote": "分行业（4）租赁餐饮服务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "麦芽",
+      "target_product": "啤酒",
+      "cost_proportion": null,
+      "quote": "比选采购 麦芽 360,614,056.52元"
+    },
+    {
+      "name": "大米",
+      "target_product": "啤酒",
+      "cost_proportion": null,
+      "quote": "比选采购 大米 138,085,148.28元"
+    },
+    {
+      "name": "纸箱",
+      "target_product": "啤酒",
+      "cost_proportion": null,
+      "quote": "比选采购 纸箱 257,568,722.30元"
+    },
+    {
+      "name": "易拉罐",
+      "target_product": "啤酒",
+      "cost_proportion": null,
+      "quote": "比选采购 易拉罐 810,643,191.44元"
+    },
+    {
+      "name": "玻璃瓶",
+      "target_product": "啤酒",
+      "cost_proportion": null,
+      "quote": "比选采购 玻璃瓶 271,425,609.58元"
+    },
+    {
+      "name": "原材料（整体）",
+      "target_product": "啤酒",
+      "cost_proportion": "营业成本构成，原材料 70.95%",
+      "quote": "营业成本构成情况 原材料 70.95%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "餐饮消费",
+      "source_product": "啤酒",
+      "quote": "公司在华南地区具有较高的品牌知名度和影响力"
+    },
+    {
+      "name": "休闲娱乐",
+      "source_product": "啤酒",
+      "quote": "推出雪堡精酿桃沁酿、珠江凤凰单丛茶啤等11款风味啤酒及迭代升级产品"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄文胜",
+      "role": "董事长",
+      "quote": "公司负责人黄文胜"
+    },
+    {
+      "name": "曾海涛",
+      "role": "主管会计工作负责人、总会计师",
+      "quote": "主管会计工作负责人曾海涛"
+    },
+    {
+      "name": "唐远义",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）唐远义"
+    },
+    {
+      "name": "李宽宽",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 李宽宽"
+    },
+    {
+      "name": "陈劭",
+      "role": "证券事务代表",
+      "quote": "证券事务代表 陈劭"
+    },
+    {
+      "name": "程衍俊",
+      "role": "副董事长",
+      "quote": "程衍俊 现任公司副董事长、百威亚太控股有限公司首席执行官、联席主席、执行董事及授权代表"
+    },
+    {
+      "name": "张涌",
+      "role": "副董事长、总经理",
+      "quote": "张涌先生，现任公司党委副书记、副董事长、总经理"
+    },
+    {
+      "name": "罗志军",
+      "role": "董事、副总经理",
+      "quote": "罗志军先生，现任公司党委委员、董事、副总经理"
+    },
+    {
+      "name": "Craig Katerberg（中文名：柯睿格）",
+      "role": "董事",
+      "quote": "Craig Katerberg（中文名：柯睿格）先生，美国国籍，现任公司董事。柯睿格先生亦是百威集团亚太区首席法律及企业事务官"
+    },
+    {
+      "name": "韩振平",
+      "role": "独立董事",
+      "quote": "韩振平先生，现任公司独立董事"
+    },
+    {
+      "name": "何兴强",
+      "role": "独立董事",
+      "quote": "何兴强先生，现任公司独立董事"
+    },
+    {
+      "name": "曹庸",
+      "role": "独立董事",
+      "quote": "曹庸先生，现任公司独立董事"
+    },
+    {
+      "name": "涂京霞",
+      "role": "副总经理、总工程师",
+      "quote": "涂京霞女士，现任公司党委委员、副总经理、总工程师"
+    },
+    {
+      "name": "卢春平",
+      "role": "营销总监",
+      "quote": "卢春平先生，现任公司营销总监"
+    },
+    {
+      "name": "何雄",
+      "role": "总法律顾问",
+      "quote": "何雄先生，现任公司总法律顾问、法律事务部部长"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广州产业投资控股集团有限公司（广州产投集团、广州国发）",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "2022年3月，公司控股股东由广州珠江啤酒集团有限公司变更为广州产业投资控股集团有限公司。"
+    },
+    {
+      "name": "INTERBREW INVESTMENT INTERNATIONAL HOLDING LIMITED（英特布鲁国际）",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "INTERBREW INVESTMENT INTERNATIONAL HOLDING LIMITED，英特布鲁国际的间接控股股东，是一家总部位于比利时的公司"
+    },
+    {
+      "name": "百威英博集团（Anheuser-Busch INBEV SA/NV）",
+      "relation_type": "investor",
+      "business_details": "英特布鲁国际的间接控股股东",
+      "quote": "Anheuser-Busch INBEV SA/NV，英特布鲁国际的间接控股股东，是一家总部位于比利时的公司"
+    },
+    {
+      "name": "广州珠江啤酒集团有限公司（珠啤集团）",
+      "relation_type": "subsidiary",
+      "business_details": "前身公司",
+      "quote": "广州珠江啤酒集团有限公司，其前身为广州市珠江啤酒集团公司"
+    },
+    {
+      "name": "广州南沙珠江啤酒有限公司（南沙珠啤）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "南沙珠啤 指 广州南沙珠江啤酒有限公司"
+    },
+    {
+      "name": "梅州珠江啤酒有限公司（梅州珠啤）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "梅州珠啤 指 梅州珠江啤酒有限公司"
+    },
+    {
+      "name": "湛江珠江啤酒有限公司（湛江珠啤）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "湛江珠啤 指 湛江珠江啤酒有限公司"
+    },
+    {
+      "name": "东莞市珠江啤酒有限公司（东莞珠啤）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "东莞珠啤 指 东莞市珠江啤酒有限公司"
+    },
+    {
+      "name": "中山珠江啤酒有限公司（中山珠啤）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "中山珠啤 指 中山珠江啤酒有限公司"
+    },
+    {
+      "name": "广州市国资委",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "广州市人民政府国有资产监督管理委员会"
+    },
+    {
+      "name": "广东中职信会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "会计师事务所名称 广东中职信会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "第一大客户（名称未披露）",
+      "relation_type": "customer",
+      "business_details": "前五大客户之首",
+      "quote": "1、第一名 211,880,453.85 3.60%"
+    },
+    {
+      "name": "第一大供应商（名称未披露）",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之首，采购额398,433,504.15元，占比17.16%",
+      "quote": "1、第一名 398,433,504.15 17.16%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "啤酒销售",
+      "segment_type": "product_line",
+      "revenue_amount": "5,686,664,327.38元",
+      "revenue_proportion": "96.74%",
+      "gross_margin": "47.53%",
+      "yoy_change": "3.18%",
+      "quote": "（1）啤酒销售 5,686,664,327.38 96.74% 47.53% 3.18%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "5,622,448,924.14元",
+      "revenue_proportion": "95.66%",
+      "gross_margin": "49.44%",
+      "yoy_change": "2.39%",
+      "quote": "华南地区 5,622,448,924.14 95.66% 49.44% 2.39%"
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "255,157,016.67元",
+      "revenue_proportion": "4.34%",
+      "gross_margin": "23.89%",
+      "yoy_change": "6.28%",
+      "quote": "其他地区 255,157,016.67 4.34% 23.89% 6.28%"
+    },
+    {
+      "name": "线上销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "312,371,219.02元",
+      "revenue_proportion": "5.31%",
+      "gross_margin": "52.35%",
+      "yoy_change": "342.33%",
+      "quote": "线上 312,371,219.02 5.31% 52.35% 342.33%"
+    },
+    {
+      "name": "线下销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,565,234,721.79元",
+      "revenue_proportion": "94.69%",
+      "gross_margin": "48.11%",
+      "yoy_change": "-1.68%",
+      "quote": "线下 5,565,234,721.79 94.69% 48.11% -1.68%"
+    },
+    {
+      "name": "普通渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,035,303,406.27元",
+      "revenue_proportion": null,
+      "gross_margin": "46.85%",
+      "yoy_change": "-2.32%",
+      "quote": "普通 5,035,303,406.27 ... 46.85% -2.32%"
+    },
+    {
+      "name": "商超渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "267,332,352.96元",
+      "revenue_proportion": null,
+      "gross_margin": "57.22%",
+      "yoy_change": "35.06%",
+      "quote": "商超 267,332,352.96 ... 57.22% 35.06%"
+    },
+    {
+      "name": "夜场渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "71,657,349.13元",
+      "revenue_proportion": null,
+      "gross_margin": "38.04%",
+      "yoy_change": "-18.44%",
+      "quote": "夜场 71,657,349.13 ... 38.04% -18.44%"
+    },
+    {
+      "name": "电商渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "312,371,219.02元",
+      "revenue_proportion": null,
+      "gross_margin": "52.35%",
+      "yoy_change": "342.33%",
+      "quote": "电商 312,371,219.02 ... 52.35% 342.33%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "啤酒",
+      "metric_type": "sales_volume",
+      "value": "146.24万吨",
+      "period": "2025年",
+      "quote": "2025年，公司实现啤酒销量146.24万吨，同比增长1.58%"
+    },
+    {
+      "product": "啤酒",
+      "metric_type": "production_volume",
+      "value": "144.15万吨",
+      "period": "2025年",
+      "quote": "啤酒 生产量 万吨 144.15 144.97 -0.57%"
+    },
+    {
+      "product": "啤酒",
+      "metric_type": "inventory_volume",
+      "value": "3.13万吨",
+      "period": "2025年末",
+      "quote": "啤酒 库存量 万吨 3.13 5.22 -40.04%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "梅州公司产能扩建升级项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "完成梅州公司、湛江公司、中山公司等产能扩建升级项目。"
+    },
+    {
+      "name": "湛江公司产能扩建升级项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "完成梅州公司、湛江公司、中山公司等产能扩建升级项目。"
+    },
+    {
+      "name": "中山公司产能扩建升级项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "完成梅州公司、湛江公司、中山公司等产能扩建升级项目。"
+    },
+    {
+      "name": "珠江啤酒大厦项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成底板浇筑",
+      "expected_completion_time": null,
+      "quote": "珠江啤酒大厦项目完成底板浇筑"
+    },
+    {
+      "name": "酒店商业综合体项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "动工建设",
+      "expected_completion_time": null,
+      "quote": "酒店商业综合体项目动工建设"
+    },
+    {
+      "name": "珠江云手商业综合体",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "竣工验收",
+      "expected_completion_time": null,
+      "quote": "珠江云手”商业综合体竣工验收"
+    },
+    {
+      "name": "珠江·琶醍啤酒文化创意园区改造升级项目（募投项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "140,000万元",
+      "designed_capacity": null,
+      "progress": "41.24%",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "珠江·琶醍啤酒文化创意园区改造升级项目 承诺投资总额 140,000万元 报告期末累计投入 271,000万元 项目进度 41.24% 预计达到可使用状态日期 2028年12月31日"
+    },
+    {
+      "name": "现代化营销网络建设及升级项目（募投项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "80,000万元",
+      "designed_capacity": null,
+      "progress": "已完工",
+      "expected_completion_time": null,
+      "quote": "现代化营销网络建设及升级项目 投资总额 80,000万元 截至报告期末累计投入 22,837.93万元 项目进度 94.46% 项目状态 已完工"
+    },
+    {
+      "name": "南沙珠啤二期年产100万kl啤酒项目（募投项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "86,000万元",
+      "designed_capacity": "年产100万千升啤酒",
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "南沙珠啤二期年产100万kl啤酒项目 投资总额 86,000万元 截至报告期末累计投入 231,915.02万元 项目进度 99.78% 项目状态 已投产"
+    },
+    {
+      "name": "东莞珠啤新增年产30万kl酿造及10万kl灌装啤酒项目（更名为：东莞珠啤扩建工程项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "40,000万元",
+      "designed_capacity": "新增年产30万千升酿造及10万千升灌装啤酒",
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "东莞珠啤新增年产30万kl酿造及10万kl灌装啤酒项目 投资总额 40,000万元 截至报告期末累计投入 67,856.13万元 项目进度 95.55% 项目状态 已投产"
+    },
+    {
+      "name": "湛江珠啤新增年产20万kl啤酒项目（募投项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "40,000万元",
+      "designed_capacity": "新增年产20万千升啤酒",
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "湛江珠啤新增年产20万kl啤酒项目 投资总额 40,000万元 截至报告期末累计投入 4,556.29万元 项目进度 56.95% 项目状态 已投产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "精酿啤酒菌种资源的开发及品质一致性技术研究",
+      "asset_type": "technical_platform",
+      "related_product": "精酿啤酒",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称: 精酿啤酒菌种资源的开发及品质一致性技术研究"
+    },
+    {
+      "name": "啤酒酿造大麦品种筛选及酿造适应性研究",
+      "asset_type": "core_technology",
+      "related_product": "啤酒",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称: 啤酒酿造大麦品种筛选及酿造适应性研究"
+    },
+    {
+      "name": "啤酒微生物识别新方法",
+      "asset_type": "core_technology",
+      "related_product": "啤酒",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称: 外源引入和内源环境改变视角下的啤酒微生物识别新方法"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "189,074,689.16元，占营业收入比例3.22%",
+      "quote": "研发投入金额（元） 189,074,689.16 研发投入占营业收入比例 3.22%"
+    },
+    {
+      "name": "研发人员",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "615人，占比13.48%",
+      "quote": "研发人员数量（人） 615 研发人员数量占比 13.48%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "950,144,777.47元，占比16.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 950,144,777.47 前五名客户合计销售金额占年度销售总额比例 16.17%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "823,279,137.97元，占比35.45%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 823,279,137.97 前五名供应商合计采购金额占年度采购总额比例 35.45%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "398,433,504.15元，占比17.16%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "1、第一名 398,433,504.15 17.16%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "啤酒行业竞争形势日趋激烈，本公司虽然拥有技术领先优势和卓越的产品质量，在华南地区具有较高的品牌知名度和影响力，近年来通过持续完善全国营销网络增强公司在其他地区的影响力，但未来仍将面临一定的竞争风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司啤酒生产的主要原料是大麦麦芽，公司主要使用进口啤酒大麦制造的麦芽，主要向国内专业麦芽生产企业采购。如果国际主要大麦产地对啤酒大麦的供应数量不足，将对公司生产能力造成不利影响；大麦麦芽的价格波动也将影响公司的盈利能力。",
+      "related_entity": null,
+      "related_product": "麦芽",
+      "quote": "（1）原材料供应及价格波动风险"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司具有严格的质量保证体系，但是如果由于管理或不可预见原因发生产品质量问题，可能会给公司品牌形象、行业声誉和经营业绩产生负面影响。",
+      "related_entity": null,
+      "related_product": "啤酒",
+      "quote": "（2）产品质量风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "消费者对啤酒口味和品质的要求持续提高，本公司拥有业内领先的技术水平，但仍可能由于技术开发的滞后没有及时推出符合市场需求的新产品，影响公司的经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）新产品开发风险"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司环保合规情况良好，但随着公司生产规模的扩大以及国家环保标准的提高，公司仍然面临一定的环保风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）环保风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "2017年公司非公开增发股票，根据公司发展战略和本次募集资金使用计划，未来公司资产和业务规模将迅速扩大，运营管理的跨度和幅度将有所增加，同时公司将面临各种机遇和挑战。由于本次投资项目需要一定的建设期，在项目实施过程中，如果市场环境、技术、地方政策等方面出现重大变化，将影响项目的实施进度和效果，从而影响公司的预期收益。",
+      "related_entity": "募投项目",
+      "related_product": null,
+      "quote": "2、募集资金投资项目实施风险"
+    }
+  ]
+}

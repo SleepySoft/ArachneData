@@ -1,0 +1,445 @@
+{
+  "company_name_mentioned": "广东香山衡器集团股份有限公司",
+  "produces": [
+    {
+      "name": "空气管理系统",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司空气管理系统产品包括机械式出风口...以及电动式出风口..."
+    },
+    {
+      "name": "豪华智能饰件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司豪华智能饰件产品主要包括真木表面饰件、真铝表面饰件、碳纤维表面饰件、新材料表面饰件..."
+    },
+    {
+      "name": "智能充电桩",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司智能充电桩产品从面向商业运营场景的高端充电桩系列，到满足户外应急补能、充放一体等需求的随车充与放电枪产品..."
+    },
+    {
+      "name": "新能源充配电产品（充电插座、高压充电线束、充电小门、BDU、PDU、EVCC等）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司车内充电系统产品包括充电插座、高压充电线束、充电小门等；配电系统产品包括电池包断路单元BDU、高压配电盒单元PDU、电动汽车通讯控制器EVCC等。"
+    },
+    {
+      "name": "衡器产品",
+      "type": "device",
+      "revenue_proportion": "12.90%",
+      "quote": "衡器业务 777,661,829.83 12.90%"
+    },
+    {
+      "name": "汽车智能座舱部件",
+      "type": "component",
+      "revenue_proportion": "63.49%",
+      "quote": "汽车智能座舱部 3,828,788,809.10 63.49%"
+    },
+    {
+      "name": "新能源汽车配件、充配电业务及其他",
+      "type": "component",
+      "revenue_proportion": "22.67%",
+      "quote": "新能源汽车配 1,367,236,135.24 22.67% 件、充配电业务及其他"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": "占汽车零部件业务营业成本比重为71.75%",
+      "quote": "汽车零部件业 原材料 2,929,507,66 71.75% 务 1.30"
+    },
+    {
+      "name": "电子元器件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "均胜电子及其子公司采购商品、销售商品...电子元器件等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车行业（智能座舱）",
+      "source_product": "空气管理系统、豪华智能饰件",
+      "quote": "智能座舱业务主要包括空气管理系统和豪华智能饰件两大领域，为高端汽车内饰提供智能解决方案..."
+    },
+    {
+      "name": "新能源汽车行业（充配电系统）",
+      "source_product": "智能充电桩、新能源充配电产品",
+      "quote": "公司目前是国内外知名的汽车主机厂新能源充配电系统重要的供应商之一..."
+    },
+    {
+      "name": "eVTOL（电动垂直起降飞行器）",
+      "source_product": "多合一充配电产品",
+      "quote": "多合一充配电产品不仅受到了新能源汽车客户的高度认可，同时作为核心零部件应用在eVTOL（电动垂直起降飞行器）等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘玉达",
+      "role": "董事长、总裁",
+      "quote": "公司负责人刘玉达...现任公司董事长、总裁"
+    },
+    {
+      "name": "王剑峰",
+      "role": "实际控制人",
+      "quote": "实际控制人由赵玉昆先生变更为王剑峰先生"
+    },
+    {
+      "name": "尤佳",
+      "role": "主管会计工作负责人（财务总监）",
+      "quote": "主管会计工作负责人尤佳"
+    },
+    {
+      "name": "龙伟胜",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 龙伟胜"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁波均胜电子股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东：宁波均胜电子股份有限公司"
+    },
+    {
+      "name": "宁波均胜群英汽车系统股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主要经营汽车零部件业务",
+      "quote": "均胜群英：宁波均胜群英汽车系统股份有限公司，系公司控股子公司"
+    },
+    {
+      "name": "上海群英均悦能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，从事新能源充配电业务",
+      "quote": "均悦能源：上海群英均悦能源科技有限公司，系公司子公司"
+    },
+    {
+      "name": "JOYSONQUIN Automotive Systems GmbH",
+      "relation_type": "subsidiary",
+      "business_details": "智能座舱部件研发、生产、销售，为均胜群英的全资子公司",
+      "quote": "JOYSONQUIN Automotive Systems GmbH为均胜群英的全资子公司"
+    },
+    {
+      "name": "客户A",
+      "relation_type": "customer",
+      "business_details": "销售额为914,863,972.84元，占年度销售总额比例为15.17%",
+      "quote": "客户A 914,863,972.84 15.17%"
+    },
+    {
+      "name": "客户B",
+      "relation_type": "customer",
+      "business_details": "销售额为910,581,070.36元，占年度销售总额比例为15.10%",
+      "quote": "客户B 910,581,070.36 15.10%"
+    },
+    {
+      "name": "客户C",
+      "relation_type": "customer",
+      "business_details": "销售额为844,286,119.95元，占年度销售总额比例为14.00%",
+      "quote": "客户C 844,286,119.95 14.00%"
+    },
+    {
+      "name": "供应商A",
+      "relation_type": "supplier",
+      "business_details": "采购额为100,613,009.87元，占年度采购总额比例为2.80%",
+      "quote": "供应商A 100,613,009.87 2.80%"
+    },
+    {
+      "name": "供应商B",
+      "relation_type": "supplier",
+      "business_details": "采购额为97,439,447.73元，占年度采购总额比例为2.71%",
+      "quote": "供应商B 97,439,447.73 2.71%"
+    },
+    {
+      "name": "供应商C",
+      "relation_type": "supplier",
+      "business_details": "采购额为80,361,647.74元，占年度采购总额比例为2.23%",
+      "quote": "供应商C 80,361,647.74 2.23%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车零部件业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "5,196,024,944.34",
+      "revenue_proportion": "86.16%",
+      "gross_margin": "21.42%",
+      "yoy_change": null,
+      "quote": "汽车零部件业务 86.16% 5,196,024,944.34"
+    },
+    {
+      "name": "衡器业务",
+      "segment_type": "product_line",
+      "revenue_amount": "777,661,829.83",
+      "revenue_proportion": "12.90%",
+      "gross_margin": "32.98%",
+      "yoy_change": null,
+      "quote": "衡器业务 12.90% 777,661,829.83"
+    },
+    {
+      "name": "中国境内",
+      "segment_type": "region",
+      "revenue_amount": "3,079,726,326.24",
+      "revenue_proportion": "51.07%",
+      "gross_margin": "23.35%",
+      "yoy_change": null,
+      "quote": "中国境内 51.07% 3,079,726,326.24"
+    },
+    {
+      "name": "中国境外",
+      "segment_type": "region",
+      "revenue_amount": "2,950,697,160.74",
+      "revenue_proportion": "48.93%",
+      "gross_margin": "22.57%",
+      "yoy_change": null,
+      "quote": "中国境外 48.93% 2,950,697,160.74"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能座舱部件",
+      "metric_type": "production_volume",
+      "value": "4,207.25万件",
+      "period": "2025年",
+      "quote": "智能座舱部件 4,207.25 万件"
+    },
+    {
+      "product": "智能座舱部件",
+      "metric_type": "sales_volume",
+      "value": "4,339.45万件",
+      "period": "2025年",
+      "quote": "4,339.45 万件"
+    },
+    {
+      "product": "新能源汽车配件、充配电系统",
+      "metric_type": "production_volume",
+      "value": "309.09万件",
+      "period": "2025年",
+      "quote": "新能源汽车配件、充配电系 309.09 万件"
+    },
+    {
+      "product": "新能源汽车配件、充配电系统",
+      "metric_type": "sales_volume",
+      "value": "299.38万件",
+      "period": "2025年",
+      "quote": "299.38 万件"
+    },
+    {
+      "product": "新能源汽车配件、充配电业务及其他",
+      "metric_type": "capacity_utilization",
+      "value": "74.45%",
+      "period": null,
+      "quote": "新能源汽车配件、充 单线产能利用率 74.45% 配电业务及其他"
+    },
+    {
+      "product": "衡器产品",
+      "metric_type": "production_volume",
+      "value": "1,759.00万台",
+      "period": "2025年",
+      "quote": "衡器业务 生产量 万台 1,759.00"
+    },
+    {
+      "product": "衡器产品",
+      "metric_type": "sales_volume",
+      "value": "2,241.00万台",
+      "period": "2025年",
+      "quote": "衡器业务 销售量 万台 2,241.00"
+    },
+    {
+      "product": "汽车零部件业务",
+      "metric_type": "inventory_volume",
+      "value": "556.70万件",
+      "period": "2025年末",
+      "quote": "汽车零部件业务 库存量 万件 556.70"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "飞行汽车多合一PDU研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "PV测试阶段",
+      "expected_completion_time": "预计2026年量产",
+      "quote": "飞行汽车多合一PDU 制，并实现产品 PV测试阶段，预计 2026年量产 研发 在飞行汽车上的应 用；"
+    },
+    {
+      "name": "BDMU产品研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "功能样件阶段",
+      "expected_completion_time": "预计2026年上半年进行DV，2026年底进行PV",
+      "quote": "BDMU产品研发 方案，并集成BMS功 功能样件阶段 2026年上半年进行 增强产品系的护城河 能，实现二合一产品 DV，2026年底进行PV 的交付"
+    },
+    {
+      "name": "第四代充电口平台化开发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "功能样件阶段",
+      "expected_completion_time": "预计2026年进行PV并实现量产",
+      "quote": "第四代充电口平台化 导入低成本端子解决 功能样件阶段 2026年进行PV并实 开发 方案，实现零件层级 现量产 的低成本平台化"
+    },
+    {
+      "name": "新一代焊接BDU的研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "功能测试阶段",
+      "expected_completion_time": "预计2026年上半年进行DV，2026年底进行PV",
+      "quote": "新一代焊接BDU的研 的方式，降低产品的成 功能测试阶段 2026年上半年进行 增强产品系的护城河 发 本，同时提高载流能 DV，2026年底进行PV 力"
+    },
+    {
+      "name": "基于功能安全的充电口研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "功能测试阶段",
+      "expected_completion_time": "预计2026年上半年进行DV，2026年底进行PV",
+      "quote": "基于功能安全的充电 可靠性，并与市面普通 功能测试阶段 2026年上半年进行 增强产品系的护城河 口研发 产品实现差异化和核 DV，2026年底进行PV 心竞争力"
+    },
+    {
+      "name": "目的地充电站建设项目（募投项目）",
+      "project_type": "fundraising_project",
+      "location": "宁波、上海、杭州、苏州、深圳、南京、温州、嘉兴",
+      "investment_amount": "5,713万元",
+      "designed_capacity": null,
+      "progress": "已按期完成建设投入",
+      "expected_completion_time": "2024年4月30日达到预定可使用状态",
+      "quote": "目的地充电站建设项目 已按期完成建设投入。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "空气管理系统",
+      "asset_type": "core_technology",
+      "related_product": "空气管理系统",
+      "quantitative_info": "连续6年国内市场占有率排名第一名、全球市场占有率排名第二",
+      "quote": "均胜群英汽车空气管理系统产品2019-2024年连续6年实现国内市场占有率排名第一、全球市场占有率排名第二，并获评国家级制造业单项冠军产品。"
+    },
+    {
+      "name": "真木PUR、OPO、PMMA处理工艺等",
+      "asset_type": "process_technology",
+      "related_product": "豪华智能饰件",
+      "quantitative_info": null,
+      "quote": "公司在智能豪华饰件业务上掌握真木PUR、OPO、PMMA处理工艺，真铝表面处理和生产工艺，碳纤维生产工艺..."
+    },
+    {
+      "name": "汽车零部件业务领域授权专利",
+      "asset_type": "patent",
+      "related_product": "汽车零部件",
+      "quantitative_info": "国内授权专利近600项，其中发明专利140余项；境外授权专利30余项",
+      "quote": "截至报告期末，公司在国内已获汽车零部件业务领域各类授权专利近600项，其中发明专利140余项，另有软件著作权近100项；境外已获授权专利30余项..."
+    },
+    {
+      "name": "国家级CNAS认证实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "企业实验室经过国家级CNAS认证，也获得各大汽车主机厂认证，能自主检测零件性能。"
+    },
+    {
+      "name": "TUV欧标充电桩CE认证和美标充电桩UL认证",
+      "asset_type": "certification",
+      "related_product": "出口充电桩产品",
+      "quantitative_info": null,
+      "quote": "出口产品已取得TUV欧标充电桩CE认证和美标充电桩UL认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "60.64%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 60.64%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "11.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 11.46%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "存在客户相对集中的风险",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司前五大客户的销售占比较高，虽然不存在对单一客户的严重依赖，但存在客户相对集中的风险"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五大客户的销售占比较高，虽然不存在对单一客户的严重依赖，但存在客户相对集中的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司前五大客户的销售占比较高，虽然不存在对单一客户的严重依赖，但存在客户相对集中的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "全球汽车零部件行业竞争加剧，汽车终端销售价格承压，可能导致公司产品价格承压、毛利率下滑、市场份额被挤压",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "竞争加剧的风险：全球汽车零部件行业竞争加剧，汽车终端销售价格承压，可能导致公司产品价格承压、毛利率下滑、市场份额被挤压，进而对公司整体业绩产生不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术迭代速度快，研发投入强度高。若公司在主要产品和创新领域研发投入不足...可能导致产品竞争力下降",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "研发投入的风险：当前汽车行业正加速向电动化、智能化、网联化转型，技术迭代速度快，研发投入强度高。若公司在主要产品和创新领域研发投入不足...可能导致产品竞争力下降"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "面临多重维度的汇率波动风险，包括外币收入折算、外币之间交叉汇率波动以及海外子公司财务报表折算风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司面临多重维度的汇率波动风险。首先，公司存在以外币（如美元、欧元等）结算的收入在折算为人民币计量时产生的汇率波动风险...其次，公司的汇率风险不仅局限于人民币，还广泛存在于各种外币之间的交叉汇率波动风险...此外，公司在海外子公司的财务报表折算过程中，也面临着因当地货币与记账本位币汇率变动而产生的折算风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料价格波动可能会使公司面临制造成本上升的压力。若主要原材料价格持续上涨，公司将面临营业成本上升、毛利率水平下降等风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要原材料价格波动可能会使公司面临制造成本上升的压力。由于原材料价格的波动将直接影响公司的毛利率水平，若主要原材料价格持续上涨，公司将面临营业成本上升、毛利率水平下降等风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "受美国关税政策波动等宏观不确定性因素影响，公司外销产品价格承压，导致出口业务毛利率出现一定程度回落",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受美国关税政策波动等宏观不确定性因素影响，公司外销产品价格承压，导致出口业务毛利率出现一定程度回落"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司收购均胜群英51%股份以后，在本公司合并资产负债表中将因本次收购形成较大金额的商誉...如果未来宏观经济、下游客户行业、市场环境等发生重大不利变化，或相关子公司未来年度经营业绩未达到预期效益，则面临商誉减值的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司收购均胜群英51%股份以后，在本公司合并资产负债表中将因本次收购形成较大金额的商誉...如果未来宏观经济、下游客户行业、市场环境等发生重大不利变化，或相关子公司未来年度经营业绩未达到预期效益，则面临商誉减值的风险"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司对均胜群英的收购为现金收购且交易金额较大，资金来源为上市公司自有资金以及金融机构提供的信贷支持...但如果未来上市公司不能产生足够的现金流用于归还新增借款，则将对上市公司持续经营产生不利影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司对均胜群英的收购为现金收购且交易金额较大，资金来源为上市公司自有资金以及金融机构提供的信贷支持...但如果未来上市公司不能产生足够的现金流用于归还新增借款，则将对上市公司持续经营产生不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "如果国家汽车产业发展政策发生转变，如出台汽车限购、汽车补贴退坡等政策，将间接影响到汽车零部件的需求，从而给公司生产经营带来一定的不利影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如果国家汽车产业发展政策发生转变，如出台汽车限购、汽车补贴退坡等政策，将间接影响到汽车零部件的需求，从而给公司生产经营带来一定的不利影响。"
+    }
+  ]
+}

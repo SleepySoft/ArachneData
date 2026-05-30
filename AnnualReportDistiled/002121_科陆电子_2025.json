@@ -1,0 +1,369 @@
+{
+  "company_name_mentioned": "深圳市科陆电子科技股份有限公司",
+  "produces": [
+    {
+      "name": "标准仪器仪表",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要包括标准仪器仪表、智能电表、用电信息采集和智能配电网一二次产品和设备。"
+    },
+    {
+      "name": "智能电表",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能用电设备。为智能电网建设提供各种标准的智能电表、用电信息采集装置及提供AMI解决方案。"
+    },
+    {
+      "name": "用电信息采集装置",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能用电设备。为智能电网建设提供各种标准的智能电表、用电信息采集装置及提供AMI解决方案。"
+    },
+    {
+      "name": "一二次融合柱上开关",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能配电网一二次设备。聚焦智能配电网建设，提供一二次融合柱上开关、一二次融合环网箱、智能配电终端、故障指示器、柱上开关、环网箱、配电变压器、高低压配电柜等设备。"
+    },
+    {
+      "name": "一二次融合环网箱",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能配电网一二次设备。聚焦智能配电网建设，提供一二次融合柱上开关、一二次融合环网箱、智能配电终端、故障指示器、柱上开关、环网箱、配电变压器、高低压配电柜等设备。"
+    },
+    {
+      "name": "集装箱式电池储能系统（BESS）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司新型电化学储能业务主要产品包括集装箱式电池储能系统（BESS）、储能变流器（PCS）、电池管理系统（BMS）、能量管理系统（EMS）等"
+    },
+    {
+      "name": "储能变流器（PCS）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司新型电化学储能业务主要产品包括集装箱式电池储能系统（BESS）、储能变流器（PCS）、电池管理系统（BMS）、能量管理系统（EMS）等"
+    },
+    {
+      "name": "电池管理系统（BMS）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司新型电化学储能业务主要产品包括集装箱式电池储能系统（BESS）、储能变流器（PCS）、电池管理系统（BMS）、能量管理系统（EMS）等"
+    },
+    {
+      "name": "能量管理系统（EMS）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司新型电化学储能业务主要产品包括集装箱式电池储能系统（BESS）、储能变流器（PCS）、电池管理系统（BMS）、能量管理系统（EMS）等"
+    },
+    {
+      "name": "虚拟电厂系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "打造新一代物联网区块链数字孪生架构的区域虚拟电厂系统，包括现货市场出清系统平台、聚合系统平台、云边协调装备等"
+    },
+    {
+      "name": "储能系统集成服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "从储能变流器（PCS）、电池管理系统（BMS）、能量管理系统（EMS）到储能系统集成、全生命周期运维的产品与技术服务"
+    },
+    {
+      "name": "售电服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "并依托储能系统拓展售电、虚拟电厂（MVPP）等多元化增值服务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "磷酸铁锂电池",
+      "target_product": "集装箱式电池储能系统（BESS）",
+      "cost_proportion": null,
+      "quote": "蒙西 GW 级智慧混储项目中，公司承担核心磷酸铁锂电池舱任务"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能电网建设",
+      "source_product": "智能电表、配电设备等",
+      "quote": "为智能电网建设提供产品服务和系统解决方案。"
+    },
+    {
+      "name": "省级计量院和供电所",
+      "source_product": "标准仪器仪表",
+      "quote": "主要用于电网各省级计量院和供电所，为智能电表、智能终端、智能开关、分布式电源接入单元及电动汽车充电桩等产品提供智能检定服务。"
+    },
+    {
+      "name": "发电侧储能",
+      "source_product": "集装箱式电池储能系统（BESS）",
+      "quote": "具体包括：发电侧储能场景，包括火电厂联合调频、新能源配套储能"
+    },
+    {
+      "name": "电网侧储能",
+      "source_product": "集装箱式电池储能系统（BESS）",
+      "quote": "电网侧支撑场景，包括独立储能电站、输配电拥堵缓解、输配电安全支撑，以及面向配电网末端的台区储能应用"
+    },
+    {
+      "name": "用户侧储能",
+      "source_product": "集装箱式电池储能系统（BESS）",
+      "quote": "用户侧场景，包括工商储调峰、用户侧峰谷套利"
+    },
+    {
+      "name": "数据中心储能",
+      "source_product": "储能系统",
+      "quote": "在美洲地区签署 GW 级储能系统供应合同，产品将应用于数据中心储能场景"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李葛丰",
+      "role": "公司负责人、董事长、总裁",
+      "quote": "公司负责人李葛丰、主管会计工作负责人谢伟光及会计机构负责人（会计主管人员）翁丽华声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "谢伟光",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人李葛丰、主管会计工作负责人谢伟光及会计机构负责人（会计主管人员）翁丽华声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "翁丽华",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人李葛丰、主管会计工作负责人谢伟光及会计机构负责人（会计主管人员）翁丽华声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "黄幼平",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 黄幼平"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "美的集团股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "美的集团 指 美的集团股份有限公司，系公司控股股东"
+    },
+    {
+      "name": "深圳市资本运营集团有限公司",
+      "relation_type": "investor",
+      "business_details": "第二大股东",
+      "quote": "深圳资本集团 指 深圳市资本运营集团有限公司，系公司第二大股东"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "国网、国家电网 指 国家电网有限公司"
+    },
+    {
+      "name": "中国南方电网有限责任公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "南网、南方电网 指 中国南方电网有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智能电网",
+      "segment_type": "product_line",
+      "revenue_amount": "2,453,823,760.75元",
+      "revenue_proportion": "38.89%",
+      "gross_margin": "31.37%",
+      "yoy_change": "-14.34%",
+      "quote": "智能电网 2,453,823,760.75 38.89% ... 31.37% -14.34%"
+    },
+    {
+      "name": "储能业务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,796,833,276.78元",
+      "revenue_proportion": "60.17%",
+      "gross_margin": "17.03%",
+      "yoy_change": "160.74%",
+      "quote": "储能业务 3,796,833,276.78 60.17% ... 17.03% 160.74%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "3,540,700,855.10元",
+      "revenue_proportion": "56.11%",
+      "gross_margin": "16.14%",
+      "yoy_change": "20.18%",
+      "quote": "国内 3,540,700,855.10 56.11% ... 16.14% 20.18%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "2,769,691,393.24元",
+      "revenue_proportion": "43.89%",
+      "gross_margin": "31.40%",
+      "yoy_change": "86.54%",
+      "quote": "国外 2,769,691,393.24 43.89% ... 31.40% 86.54%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "储能设备",
+      "metric_type": "sales_volume",
+      "value": "6,754兆瓦时（MWh）",
+      "period": "2025年",
+      "quote": "销售量 兆瓦时（MWh） 6,754 1,386 387.30%"
+    },
+    {
+      "product": "储能设备",
+      "metric_type": "production_volume",
+      "value": "7,036兆瓦时（MWh）",
+      "period": "2025年",
+      "quote": "生产量 兆瓦时（MWh） 7,036 1,694 315.35%"
+    },
+    {
+      "product": "储能设备",
+      "metric_type": "inventory_volume",
+      "value": "943兆瓦时（MWh）",
+      "period": "2025年末",
+      "quote": "库存量 兆瓦时（MWh） 943 661 42.66%"
+    },
+    {
+      "product": "宜春储能基地",
+      "metric_type": "capacity",
+      "value": "年产能为 12GWh",
+      "period": null,
+      "quote": "公司宜春储能基地目前年产能为 12GWh"
+    },
+    {
+      "product": "印度尼西亚储能生产基地",
+      "metric_type": "capacity",
+      "value": "初期规划产能 3GWh",
+      "period": null,
+      "quote": "印度尼西亚储能生产基地初期规划产能 3GWh，计划 2026 年正式投产"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智慧能源产业园项目（光明产业园）",
+      "project_type": "construction_project",
+      "location": "深圳光明",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已暂估转固，截至本报告期末尚未完成竣工决算",
+      "expected_completion_time": null,
+      "quote": "智慧能源产业园项目（光明产业园）已于2023年5月暂估转固，截至本报告期末尚未完成竣工决算。"
+    },
+    {
+      "name": "宜春储能基地",
+      "project_type": "capacity_expansion",
+      "location": "宜春",
+      "investment_amount": null,
+      "designed_capacity": "年产能为 12GWh",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司宜春储能基地目前年产能为 12GWh"
+    },
+    {
+      "name": "印度尼西亚储能生产基地",
+      "project_type": "capacity_expansion",
+      "location": "印度尼西亚",
+      "investment_amount": null,
+      "designed_capacity": "初期规划产能 3GWh",
+      "progress": null,
+      "expected_completion_time": "计划 2026 年正式投产",
+      "quote": "印度尼西亚储能生产基地初期规划产能 3GWh，计划 2026 年正式投产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高精度量测技术",
+      "asset_type": "core_technology",
+      "related_product": "智能电网产品",
+      "quantitative_info": null,
+      "quote": "核心技术是高精度量测技术、边缘计算技术、电力系统保护控制技术和一二次融合技术"
+    },
+    {
+      "name": "边缘计算技术",
+      "asset_type": "core_technology",
+      "related_product": "智能电网产品",
+      "quantitative_info": null,
+      "quote": "核心技术是高精度量测技术、边缘计算技术、电力系统保护控制技术和一二次融合技术"
+    },
+    {
+      "name": "储能系统控制核心单元（PCS、BMS、EMS、DC/DC、O&MS）全面自研自产",
+      "asset_type": "process_technology",
+      "related_product": "储能系统",
+      "quantitative_info": null,
+      "quote": "已实现 PCS、BMS、EMS、DC/DC（直流-直流变换器）和 O&MS 等储能系统控制核心单元全面自研自产"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月31日，共申请专利2,461项，获得专利1,649项。",
+      "quote": "截至2025年12月31日，共申请专利2,461项，获得专利1,649项。"
+    },
+    {
+      "name": "国际认证体系",
+      "asset_type": "certification",
+      "related_product": "智能电表、储能产品",
+      "quantitative_info": null,
+      "quote": "公司产品通过 UL、IEC、VDE 等多项国际权威认证，通过 TUV 南德、CSA 等知名国际第三方权威认证机构认可"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "49.79%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 49.79%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.17%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 39.17%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "若公司未能紧跟行业技术革新步伐、及时推进研发成果转化，或是在经营决策过程中出现失误、市场开拓工作推进不力，将面临市场份额下滑的风险。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "若国家基于宏观调控的整体需求，对储能及智能电网相关产业政策进行调整，或是高新技术企业享有的税收优惠政策发生变化，有可能对公司的经营发展带来一定的不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若国家基于宏观调控的整体需求，对储能及智能电网相关产业政策进行调整，或是高新技术企业享有的税收优惠政策发生变化，有可能对公司的经营发展带来一定的不利影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "部分国家和地区为维护本土产业发展、实现自身政治经济目标，加大贸易保护力度，通过强化关税壁垒、出台本土产能制造限制等相关政策，阻碍海外企业进入其市场。若未来国际贸易摩擦进一步升级加剧，可能导致公司产品出口难度增加、出口成本上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "部分国家和地区为维护本土产业发展、实现自身政治经济目标，加大贸易保护力度，通过强化关税壁垒、出台本土产能制造限制等相关政策，阻碍海外企业进入其市场。若未来国际贸易摩擦进一步升级加剧，可能导致公司产品出口难度增加、出口成本上升"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "当前，构建以新能源为主体的新型电力系统已成为行业发展趋势，在此背景下，储能行业迎来快速发展期，业内企业纷纷加大资金投入与技术研发力度，行业市场竞争日趋激烈。同时，储能领域新技术迭代速度加快，产品生命周期不断缩短，市场客户对产品性能指标、个性化服务的要求也不断提升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，构建以新能源为主体的新型电力系统已成为行业发展趋势，在此背景下，储能行业迎来快速发展期，业内企业纷纷加大资金投入与技术研发力度，行业市场竞争日趋激烈。同时，储能领域新技术迭代速度加快，产品生命周期不断缩短，市场客户对产品性能指标、个性化服务的要求也不断提升。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "由于全球市场供应链受供求关系、投机炒作、市场预期、地缘政治等多重因素影响，原材料市场可能出现价格大幅波动或阶段性供需失衡等问题，短期内直接影响公司的采购成本，挤压公司业务利润空间，同时也可能对公司项目交付进度造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "由于全球市场供应链受供求关系、投机炒作、市场预期、地缘政治等多重因素影响，原材料市场可能出现价格大幅波动或阶段性供需失衡等问题，短期内直接影响公司的采购成本，挤压公司业务利润空间，同时也可能对公司项目交付进度造成不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "随着公司全球化战略布局的不断推进，海外市场业务占比持续提升，目前公司产品已远销非洲、美洲、亚洲等多个地区，境外销售业务主要采用美元、埃及镑等货币结算。受国内外政治局势、经济发展水平、货币政策调整等多种因素影响，全球汇率市场变动存在不确定性。若未来美元和埃及镑等结算货币汇率出现持续大幅波动，将可能导致公司产生汇兑损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着公司全球化战略布局的不断推进，海外市场业务占比持续提升，目前公司产品已远销非洲、美洲、亚洲等多个地区，境外销售业务主要采用美元、埃及镑等货币结算。受国内外政治局势、经济发展水平、货币政策调整等多种因素影响，全球汇率市场变动存在不确定性。若未来美元和埃及镑等结算货币汇率出现持续大幅波动，将可能导致公司产生汇兑损失。"
+    }
+  ]
+}

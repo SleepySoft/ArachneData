@@ -1,0 +1,409 @@
+{
+  "company_name_mentioned": "广西河池化工股份有限公司",
+  "produces": [
+    {
+      "name": "医药中间体（综合）",
+      "type": "material",
+      "revenue_proportion": "59.47%",
+      "quote": "分行业：医药中间体 106,850,343.73 59.47%"
+    },
+    {
+      "name": "传统医药中间体",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "传统产品销售收入9,783.52万元，同比增长35.00%"
+    },
+    {
+      "name": "CDMO服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "CDMO业务板块...2025年实现销售收入901.51万元，同比下降57.48%"
+    },
+    {
+      "name": "化工业务产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "化工业务板块...2025年...全年实现销售收入777.82万元，同比下降34.24%"
+    },
+    {
+      "name": "化工产品",
+      "type": "material",
+      "revenue_proportion": "4.33%",
+      "quote": "分产品：化工产品 7,778,214.60 4.33%"
+    },
+    {
+      "name": "尿素产品",
+      "type": "material",
+      "revenue_proportion": "36.12%",
+      "quote": "分产品：尿素产品 64,896,064.21 36.12%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "主要原材料（综合）",
+      "target_product": "医药中间体",
+      "cost_proportion": null,
+      "quote": "南松医药的原材料均通过采购部统一采购。"
+    },
+    {
+      "name": "原材料（尿素）",
+      "target_product": "尿素产品",
+      "cost_proportion": null,
+      "quote": "尿素产品 直接材料 62,588,593.63 42.08%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "制药行业",
+      "source_product": "医药中间体",
+      "quote": "主要产品涵盖抗疟疾类、孕激素类、营养剂类等品类的医药中间体"
+    },
+    {
+      "name": "农业",
+      "source_product": "尿素产品",
+      "quote": "尿素委托加工销售业务...农业生产活动受阻，农业用肥需求大幅萎缩"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨和荣",
+      "role": "公司实际控制人、董事长",
+      "quote": "公司负责人杨和荣...2025年12月18日...公司实际控制人变更为杨和荣先生。"
+    },
+    {
+      "name": "魏一雪",
+      "role": "副董事长",
+      "quote": "副董事长：魏一雪"
+    },
+    {
+      "name": "何建国",
+      "role": "总经理",
+      "quote": "总经理：何建国"
+    },
+    {
+      "name": "戴栗峰",
+      "role": "财务总监、董事会秘书",
+      "quote": "财务总监 董事会秘书：戴栗峰"
+    },
+    {
+      "name": "施伟光",
+      "role": "离任董事长",
+      "quote": "施伟光...离任...原因：换届"
+    },
+    {
+      "name": "江鲁奔",
+      "role": "离任董事、总经理",
+      "quote": "江鲁奔...离任...原因：换届"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁波中哲瑞和企业管理咨询有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "2025年12月18日，宁波银亿控股有限公司将其持有的本公司8700万股股份协议转让给宁波中哲瑞和企业管理咨询有限公司，本公司控股股东变更为宁波中哲瑞和企业管理咨询有限公司"
+    },
+    {
+      "name": "重庆中哲南松医药科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "医药中间体研发、生产、销售",
+      "quote": "重庆中哲南松医药科技有限公司...系由重庆南松医药科技有限公司更名。"
+    },
+    {
+      "name": "广西河化生物科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "尿素委托加工及销售",
+      "quote": "河化生物（广西河化生物科技有限责任公司）...主要业务：化肥、饲料、化工产品等批发零售"
+    },
+    {
+      "name": "重庆南松凯博生物制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司南松医药的全资子公司",
+      "quote": "南松医药的全资子公司南松凯博是国家高新技术企业..."
+    },
+    {
+      "name": "广西河池化学工业集团有限公司",
+      "relation_type": "shareholder",
+      "business_details": "股东（持股10.24%）",
+      "quote": "广西河池化学工业集团有限公司...10.24% 37,493,589"
+    },
+    {
+      "name": "前五大客户",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 62.90%"
+    },
+    {
+      "name": "前五大供应商",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 82.30%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药中间体行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "106,850,343.73",
+      "revenue_proportion": "59.47%",
+      "gross_margin": "31.08%",
+      "yoy_change": "14.27%",
+      "quote": "分行业：医药中间体 106,850,343.73 59.47%...毛利率 31.08%...营业收入比上年同期增减 14.27%"
+    },
+    {
+      "name": "化工行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "72,674,278.81",
+      "revenue_proportion": "40.45%",
+      "gross_margin": "-3.26%",
+      "yoy_change": "-38.37%",
+      "quote": "分行业：化工行业 72,674,278.81 40.45%...毛利率 -3.26%...营业收入比上年同期增减 -38.37%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "154,729,716.83",
+      "revenue_proportion": "86.11%",
+      "gross_margin": "14.60%",
+      "yoy_change": "-16.07%",
+      "quote": "分地区：境内 154,729,716.83 86.11%...毛利率 14.60%...营业收入比上年同期增减 -16.07%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "24,949,160.46",
+      "revenue_proportion": "13.89%",
+      "gross_margin": "33.54%",
+      "yoy_change": "-8.15%",
+      "quote": "分地区：境外 24,949,160.46 13.89%...毛利率 33.54%...营业收入比上年同期增减 -8.15%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "179,678,877.29",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "17.23%",
+      "yoy_change": "-15.05%",
+      "quote": "分销售模式：直销 179,678,877.29 100.00%...毛利率 17.23%...营业收入比上年同期增减 -15.05%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "医药中间体产品",
+      "metric_type": "sales_volume",
+      "value": "467.11吨",
+      "period": "2025年",
+      "quote": "行业分类：医药中间体产品 项目：销售量 单位：吨 2025年：467.11"
+    },
+    {
+      "product": "医药中间体产品",
+      "metric_type": "production_volume",
+      "value": "414.72吨",
+      "period": "2025年",
+      "quote": "行业分类：医药中间体产品 项目：生产量 单位：吨 2025年：414.72"
+    },
+    {
+      "product": "医药中间体产品",
+      "metric_type": "inventory_volume",
+      "value": "45.72吨",
+      "period": "2025年末",
+      "quote": "行业分类：医药中间体产品 项目：库存量 单位：吨 2025年：45.72"
+    },
+    {
+      "product": "化工产品",
+      "metric_type": "sales_volume",
+      "value": "119.62吨",
+      "period": "2025年",
+      "quote": "行业分类：化工产品 项目：销售量 单位：吨 2025年：119.62"
+    },
+    {
+      "product": "化工产品",
+      "metric_type": "production_volume",
+      "value": "143.67吨",
+      "period": "2025年",
+      "quote": "行业分类：化工产品 项目：生产量 单位：吨 2025年：143.67"
+    },
+    {
+      "product": "化工产品",
+      "metric_type": "inventory_volume",
+      "value": "52.23吨",
+      "period": "2025年末",
+      "quote": "行业分类：化工产品 项目：库存量 单位：吨 2025年：52.23"
+    },
+    {
+      "product": "尿素产品",
+      "metric_type": "sales_volume",
+      "value": "37,961.00吨",
+      "period": "2025年",
+      "quote": "行业分类：尿素产品 项目：销售量 单位：吨 2025年：37,961.00"
+    },
+    {
+      "product": "尿素产品",
+      "metric_type": "production_volume",
+      "value": "37,961.00吨",
+      "period": "2025年",
+      "quote": "行业分类：尿素产品 项目：生产量 单位：吨 2025年：37,961.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "医药储能项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "5,586,526.22元",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "项目名称：医药储能项目...投资方式：自建...截至报告期末累计实际投入金额：5,586,526.22元...项目进度：100.00%"
+    },
+    {
+      "name": "医药仓储库房",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "168,243.08元",
+      "designed_capacity": null,
+      "progress": "1.00%",
+      "expected_completion_time": null,
+      "quote": "项目名称：医药仓储库房...投资方式：自建...截至报告期末累计实际投入金额：168,243.08元...项目进度：1.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "氯喹侧链技术",
+      "asset_type": "core_technology",
+      "related_product": "氯喹侧链",
+      "quantitative_info": null,
+      "quote": "氯喹侧链、羟基氯喹侧链和二噁烷技术经过多年打磨与沉淀，在医药中间体的相关细分领域有较高的技术壁垒"
+    },
+    {
+      "name": "羟基氯喹侧链技术",
+      "asset_type": "core_technology",
+      "related_product": "羟基氯喹侧链",
+      "quantitative_info": null,
+      "quote": "氯喹侧链、羟基氯喹侧链和二噁烷技术经过多年打磨与沉淀，在医药中间体的相关细分领域有较高的技术壁垒"
+    },
+    {
+      "name": "二噁烷技术",
+      "asset_type": "core_technology",
+      "related_product": "二噁烷",
+      "quantitative_info": null,
+      "quote": "氯喹侧链、羟基氯喹侧链和二噁烷技术经过多年打磨与沉淀，在医药中间体的相关细分领域有较高的技术壁垒"
+    },
+    {
+      "name": "催化加氢工艺",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "催化加氢工艺，涉及高危氢气操作及特殊反应装置，经相关监管部门审批，能够精准实现复杂转化，属于稀缺资源。"
+    },
+    {
+      "name": "氨化反应工艺",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "氨化反应工艺，公司掌握液相氨解、气相氨化等多元技术路径，可高效构建含氮杂环与胺基结构，实现定向氨化，可大幅提升反应收率"
+    },
+    {
+      "name": "高温高真空精馏技术",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "高温高真空精馏技术，依托定制化多级精馏塔设备，在极低压环境下实现热敏性医药中间体的高纯度分离"
+    },
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司严格按照ISO9001质量管理体系、ISO14001环境管理体系、OHSAS18001职业健康安全管理体系等的要求进行生产管理。"
+    },
+    {
+      "name": "ISO14001环境管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司严格按照ISO9001质量管理体系、ISO14001环境管理体系、OHSAS18001职业健康安全管理体系等的要求进行生产管理。"
+    },
+    {
+      "name": "OHSAS18001职业健康安全管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司严格按照ISO9001质量管理体系、ISO14001环境管理体系、OHSAS18001职业健康安全管理体系等的要求进行生产管理。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "62.90%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 62.90%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "28.88%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "客户一 51,891,012.85 28.88%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "82.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 82.30%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "58.29%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "供应商一 62,595,502.98 58.29%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "医疗改革‘带量采购’相关政策的出台对大部分制剂产品价格体系产生了较大影响，市场普遍担心带量采购全面推行后，药品终端价格大幅降低导致相关医药中间体出现产品价格下降的风险。",
+      "related_entity": null,
+      "related_product": "医药中间体",
+      "quote": "1、药品带量采购政策影响风险...药品终端价格大幅降低导致相关医药中间体出现产品价格下降的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务收入主要以外币结算。鉴于国际形势复杂多变，汇率变化会直接影响到原材料、商品的价格，对公司出口产品的价格竞争力产生一定的影响。",
+      "related_entity": null,
+      "related_product": "出口产品",
+      "quote": "2、汇率波动风险...汇率变化会直接影响到原材料、商品的价格，对公司出口产品的价格竞争力产生一定的影响"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着疟原虫对磷酸氯喹出现耐药性，氯喹侧链的实用价值可能下降，导致订单逐年萎缩的情况。",
+      "related_entity": null,
+      "related_product": "氯喹侧链",
+      "quote": "3、产品市场需求波动风险...氯喹侧链的实用价值可能下降，导致订单逐年萎缩的情况。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司部分原材料、半成品或产成品是易燃、易爆、腐蚀性或有毒物质，正常生产过程中会产生一定数量的废水、废气、固体废物，存在一定的安全和环保风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、安全环保相关风险...存在一定的安全和环保风险。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "因进口国政策变动、税率调整或贸易摩擦导致关税成本上升，进而削弱产品价格竞争力，可能引发利润下降、订单流失或合规纠纷等问题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、贸易政策变动的风险...可能引发利润下降、订单流失或合规纠纷等问题"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "主要系本期计提存货跌价准备",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值 -2,234,961.38...主要系本期计提存货跌价准备"
+    }
+  ]
+}

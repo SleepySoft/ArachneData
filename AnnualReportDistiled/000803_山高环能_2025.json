@@ -1,0 +1,308 @@
+{
+  "company_name_mentioned": "山高环能集团股份有限公司",
+  "produces": [
+    {
+      "name": "油脂产品",
+      "type": "material",
+      "revenue_proportion": "51.33%",
+      "quote": "报告期内，公司全年实现营业收入144,656.99万元，较上年同期下降0.17%，其中油脂产品加工和销售业务收入74,256.10万元，较上年同期下降9.55%"
+    },
+    {
+      "name": "环保无害化处理服务",
+      "type": "service",
+      "revenue_proportion": "25.36%",
+      "quote": "环保无害化处理收入36,692.70万元，较上年同期增长17.37%"
+    },
+    {
+      "name": "供暖服务",
+      "type": "service",
+      "revenue_proportion": "21.56%",
+      "quote": "供暖业务收入31,180.94万元，较上年同期增长1.78%"
+    },
+    {
+      "name": "节能环保装备与配套工程",
+      "type": "device",
+      "revenue_proportion": "1.39%",
+      "quote": "节能环保装备与配套工程业务收入2,008.00万元，较上年同期增长248.03%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "餐厨垃圾",
+      "target_product": "油脂产品",
+      "cost_proportion": null,
+      "quote": "公司通过处理餐厨垃圾和外购油脂，经加工后获得UCO等可再生产品"
+    },
+    {
+      "name": "外购油脂",
+      "target_product": "油脂产品",
+      "cost_proportion": null,
+      "quote": "公司通过处理餐厨垃圾和外购油脂，经加工后获得UCO等可再生产品"
+    }
+  ],
+  "applications": [
+    {
+      "name": "生物柴油",
+      "source_product": "UCO（废弃油脂）",
+      "quote": "生物柴油是废弃油脂利用的理想途径，具有重要的社会和环境意义"
+    },
+    {
+      "name": "生物航煤（SAF）",
+      "source_product": "UCO（废弃油脂）",
+      "quote": "餐厨废弃油脂不仅可以生产生物柴油，还可以制备生物航煤，实现航空领域的碳减排"
+    },
+    {
+      "name": "城市清洁供暖",
+      "source_product": null,
+      "quote": "新城热力主要以城市清洁供暖为主营业务，是集供热服务、供热项目投资运营、合同能源管理、供热技术咨询服务于一体的专业化城市能源服务企业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谢欣",
+      "role": "公司负责人（董事长）",
+      "quote": "公司负责人谢欣、主管会计工作负责人谢丽娟及会计机构负责人（会计主管人员）谢丽娟声明"
+    },
+    {
+      "name": "谢丽娟",
+      "role": "主管会计工作负责人（财务总监）",
+      "quote": "公司负责人谢欣、主管会计工作负责人谢丽娟及会计机构负责人（会计主管人员）谢丽娟声明"
+    },
+    {
+      "name": "杜业鹏",
+      "role": "董事、总裁",
+      "quote": "杜业鹏，男，46岁，董事、总裁"
+    },
+    {
+      "name": "吴延平",
+      "role": "副总裁",
+      "quote": "吴延平，男，47岁，副总裁"
+    },
+    {
+      "name": "宋玉飞",
+      "role": "董事会秘书",
+      "quote": "宋玉飞，男，36岁，董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "山高光伏电力发展有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "山高新能源通过下属公司山高光伏、红牛壹号、山高禹阳合计持有公司股份112,745,751股，占公司总股本24.18%，为公司控股股东"
+    },
+    {
+      "name": "山东高速集团有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "山东高速集团有限公司（间接控股股东）"
+    },
+    {
+      "name": "维多(中国)能源有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，销售额260,687,017.59元，占年度销售总额比例18.02%",
+      "quote": "公司前5大客户资料：1、维多(中国)能源有限公司，销售额260,687,017.59元，占年度销售总额比例18.02%"
+    },
+    {
+      "name": "东营海源投资咨询有限公司",
+      "relation_type": "customer",
+      "business_details": "第二大客户，销售额258,044,112.17元，占年度销售总额比例17.84%",
+      "quote": "2、东营海源投资咨询有限公司，销售额258,044,112.17元，占年度销售总额比例17.84%"
+    },
+    {
+      "name": "北京京能热力发展有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购额136,908,245.77元，占年度采购总额比例18.45%",
+      "quote": "公司前5名供应商资料：1、北京京能热力发展有限公司，采购额136,908,245.77元，占年度采购总额比例18.45%"
+    },
+    {
+      "name": "晋州市永盛日用品有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商，采购额45,335,519.78元，占年度采购总额比例6.11%",
+      "quote": "2、晋州市永盛日用品有限公司，采购额45,335,519.78元，占年度采购总额比例6.11%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "油脂产品加工和销售",
+      "segment_type": "product_line",
+      "revenue_amount": "742,561,047.19",
+      "revenue_proportion": "51.33%",
+      "gross_margin": "28.72%",
+      "yoy_change": "-9.55%",
+      "quote": "油脂产品加工和销售，营业收入742,561,047.19元，占营业收入比重51.33%，同比增减-9.55%，毛利率28.72%"
+    },
+    {
+      "name": "环保无害化处理",
+      "segment_type": "product_line",
+      "revenue_amount": "366,927,043.70",
+      "revenue_proportion": "25.36%",
+      "gross_margin": "15.99%",
+      "yoy_change": "17.37%",
+      "quote": "环保无害化处理，营业收入366,927,043.70元，占营业收入比重25.36%，同比增减17.37%，毛利率15.99%"
+    },
+    {
+      "name": "供暖业务",
+      "segment_type": "product_line",
+      "revenue_amount": "311,809,387.04",
+      "revenue_proportion": "21.56%",
+      "gross_margin": "24.42%",
+      "yoy_change": "1.78%",
+      "quote": "供暖业务，营业收入311,809,387.04元，占营业收入比重21.56%，同比增减1.78%，毛利率24.42%"
+    },
+    {
+      "name": "节能环保装备与配套工程",
+      "segment_type": "product_line",
+      "revenue_amount": "20,080,047.55",
+      "revenue_proportion": "1.39%",
+      "gross_margin": "14.33%",
+      "yoy_change": "248.03%",
+      "quote": "节能环保装备与配套工程，营业收入20,080,047.55元，占营业收入比重1.39%，同比增减248.03%，毛利率14.33%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "餐厨垃圾处理",
+      "metric_type": "capacity",
+      "value": "5,610吨/日",
+      "period": "报告期末",
+      "quote": "公司运营餐厨项目产能已达5,610吨/日（包含托管项目）"
+    },
+    {
+      "product": "餐厨垃圾处理",
+      "metric_type": "capacity",
+      "value": "8,000-10,000吨/日",
+      "period": "未来目标",
+      "quote": "逐渐将处理能力稳步提升至8,000-10,000吨/日以稳固行业地位"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新城热力扩容及改造项目",
+      "project_type": "capacity_expansion",
+      "location": "北京",
+      "investment_amount": "4,029.08万元",
+      "designed_capacity": null,
+      "progress": "于2024年4月完成调试并达到预定可使用状态",
+      "expected_completion_time": "2024年4月",
+      "quote": "“新城热力扩容及改造项目”由公司控股子公司北京新城热力有限公司实施...于2024年4月达到预定可使用状态"
+    },
+    {
+      "name": "十方环能餐厨垃圾处理技改项目",
+      "project_type": "capacity_expansion",
+      "location": "济南、青岛、烟台",
+      "investment_amount": "11,490.63万元",
+      "designed_capacity": null,
+      "progress": "于2024年4月达到预定可使用状态",
+      "expected_completion_time": "2024年4月",
+      "quote": "“十方环能餐厨垃圾处理技改项目”...于2024年4月达到预定可使用状态"
+    },
+    {
+      "name": "收购北京驰奈生物能源科技有限公司99.996%股权",
+      "project_type": "acquisition_project",
+      "location": "北京、大同、兰州",
+      "investment_amount": "23,655.05万元",
+      "designed_capacity": null,
+      "progress": "已支付完毕",
+      "expected_completion_time": null,
+      "quote": "“收购北京驰奈生物能源科技有限公司99.996%股权”项目...该项目以标的公司北京驰奈生物能源科技有限公司的净资产评估值为定价依据，拟使用募集资金23,655.05万元用于支付股权转让对价"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高效预处理技术：涡流制浆系统与三相分离系统",
+      "asset_type": "core_technology",
+      "related_product": "餐厨垃圾处理",
+      "quantitative_info": "可将固形物含水率降低到65%以下，出渣率小于10%，餐厨油脂提油率4%—6%",
+      "quote": "公司拥有高效预处理技术：涡流制浆系统与三相分离系统两级核心分离工序，可将固形物含水率降低到65%以下，出渣率小于10%，餐厨油脂提油率4%—6%"
+    },
+    {
+      "name": "沼气提纯生产天然气技术",
+      "asset_type": "core_technology",
+      "related_product": "沼气利用",
+      "quantitative_info": "热电效率高可达88%",
+      "quote": "沼气提纯生产天然气，热电效率高可达88%"
+    },
+    {
+      "name": "数字化溯源系统（OpenDigitalTraceabilitySystem, OpenDT）",
+      "asset_type": "technical_platform",
+      "related_product": "餐厨垃圾收运处置管理",
+      "quantitative_info": "该系统已取得包括1项国家发明专利在内的25项知识产权",
+      "quote": "公司自主研发了数字化溯源系统（OpenDigitalTraceabilitySystem，OpenDT）...该系统已取得包括1项国家发明专利在内的25项知识产权"
+    },
+    {
+      "name": "欧盟可持续和碳认证（ISCC）",
+      "asset_type": "certification",
+      "related_product": "UCO出口",
+      "quantitative_info": null,
+      "quote": "公司通过欧盟可持续和碳认证（ISCC），获得UCO销往欧盟各国的通行证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "51.46%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额744,454,663.67元，前五名客户合计销售金额占年度销售总额比例51.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "36.12%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额268,015,913.40元，前五名供应商合计采购金额占年度采购总额比例36.12%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "18.02%",
+      "related_entity": "维多(中国)能源有限公司",
+      "period": "2025年度",
+      "quote": "公司前5大客户资料：1、维多(中国)能源有限公司，销售额260,687,017.59元，占年度销售总额比例18.02%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "18.45%",
+      "related_entity": "北京京能热力发展有限公司",
+      "period": "2025年度",
+      "quote": "公司前5名供应商资料：1、北京京能热力发展有限公司，采购额136,908,245.77元，占年度采购总额比例18.45%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内SAF规划产能较多，行业竞争或将加剧",
+      "related_entity": null,
+      "related_product": "生物航煤",
+      "quote": "根据开源证券研究报告显示我国SAF规划产能较多，行业竞争或将加剧"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "环保产业政策和地方补贴变化",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环保产业政策和地方补贴变化：近年来，随着我国城镇化水平提高、城乡居民基数增长，环保行业得到国家相关部门和地方政府的大力支持，地方政府在垃圾处置及资源利用方面给予了一定的财政补贴。但如果未来行业政策或者地方补贴发生变化，则会给公司的未来经营产生不利影响"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "出口政策变动，影响UCO出口",
+      "related_entity": null,
+      "related_product": "UCO",
+      "quote": "出口政策变动：目前出口仍是UCO消纳的重要方向，出口政策的变化会对UCO的价格产生影响"
+    },
+    {
+      "risk_type": "other",
+      "description": "餐厨项目进展不及预期",
+      "related_entity": null,
+      "related_product": "餐厨垃圾处理项目",
+      "quote": "餐厨项目进展不及预期：油脂产销量提升将为公司未来业绩增长带来显著贡献。若项目收购进展、投产运营情况等不及预期，将对公司业绩造成影响"
+    },
+    {
+      "risk_type": "other",
+      "description": "供暖收费价格、热源价格波动风险",
+      "related_entity": "新城热力",
+      "related_product": "供暖服务",
+      "quote": "供暖收费价格、热源价格：新城热力属于城市供热行业，经营活动受国家产业政策的影响较大。由于供暖收费标准直接影响到企业和居民的切身利益，政府对供暖价格实行政策性调控，公司本身不具备定价权。如果政府调整供暖价格，将对公司的生产经营和盈利能力产生影响。新城热力的热源主要来自工业余热，按实际使用热量结算，该热量结算价格一般参考政府指导定价。如果未来热源价格产生波动，将会对新城热力的生产经营和盈利能力产生影响"
+    }
+  ]
+}

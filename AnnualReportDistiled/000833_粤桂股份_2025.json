@@ -1,0 +1,442 @@
+{
+  "company_name_mentioned": "广西粤桂广业控股股份有限公司",
+  "produces": [
+    {
+      "name": "机制糖（白砂糖、赤砂糖）",
+      "type": "material",
+      "revenue_proportion": "16.44%",
+      "quote": "分产品 ... 机制糖 ... 502,843,040.29 16.44%"
+    },
+    {
+      "name": "纸浆（机制浆）",
+      "type": "material",
+      "revenue_proportion": "13.66%",
+      "quote": "分产品 ... 机制浆 417,863,960.39 13.66%"
+    },
+    {
+      "name": "硫精矿",
+      "type": "material",
+      "revenue_proportion": "36.04%",
+      "quote": "分产品 ... 硫精矿 1,102,242,467.94 36.04%"
+    },
+    {
+      "name": "硫酸",
+      "type": "material",
+      "revenue_proportion": "7.52%",
+      "quote": "分产品 ... 硫酸 229,979,941.14 7.52%"
+    },
+    {
+      "name": "磷肥",
+      "type": "material",
+      "revenue_proportion": "2.11%",
+      "quote": "分产品 ... 磷肥 64,471,501.62 2.11%"
+    },
+    {
+      "name": "银粉",
+      "type": "material",
+      "revenue_proportion": "7.61%",
+      "quote": "分产品 ... 银粉 232,752,251.70 7.61%"
+    },
+    {
+      "name": "氨基磺酸",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要业务为：... 氨基磺酸、银粉。"
+    },
+    {
+      "name": "特种纸（文化纸）",
+      "type": "material",
+      "revenue_proportion": "0.74%",
+      "quote": "分产品 ... 文化纸 22,648,250.33 0.74%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "甘蔗",
+      "target_product": "机制糖",
+      "cost_proportion": null,
+      "quote": "机制糖以甘蔗为主要原料，甘蔗由农户自主种植。"
+    },
+    {
+      "name": "蔗渣、桉木次材",
+      "target_product": "纸浆",
+      "cost_proportion": null,
+      "quote": "机制浆以蔗渣、桉木次材为主要原料。"
+    },
+    {
+      "name": "硫铁矿（原矿）",
+      "target_product": "硫精矿、硫酸等",
+      "cost_proportion": null,
+      "quote": "公司具备采矿、运输、破碎、筛分、选矿、尾矿回收等硫铁矿全流程生产能力。"
+    },
+    {
+      "name": "硝酸银等",
+      "target_product": "银粉",
+      "cost_proportion": null,
+      "quote": "新能源材料 原材料 228,177,673.32 97.75%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "食品加工、医药加工、日常食用",
+      "source_product": "机制糖",
+      "quote": "机制糖是日常生活食品，主要用于食品加工、医药加工、日常食用"
+    },
+    {
+      "name": "造纸原料",
+      "source_product": "纸浆",
+      "quote": "纸浆属造纸原料。"
+    },
+    {
+      "name": "生产硫酸、磷肥、冶炼、污水处理、新能源等行业",
+      "source_product": "硫铁矿",
+      "quote": "硫铁矿主要用于生产硫酸、磷肥，还应用于冶炼、污水处理、新能源等行业。"
+    },
+    {
+      "name": "化工原料、农业等",
+      "source_product": "硫酸",
+      "quote": "硫酸是许多化工产品的原料，还广泛应用于农业、工业等国民生产各领域中。"
+    },
+    {
+      "name": "光伏电池浆料、电子元器件导电材料",
+      "source_product": "银粉",
+      "quote": "银粉主要应用于光伏电池浆料、电子元器件导电材料等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "于怀星",
+      "role": "董事、董事长",
+      "quote": "公司负责人于怀星、主管会计工作负责人曾营基及会计机构负责人（会计主管人员）吴晓如声明"
+    },
+    {
+      "name": "卢勇滨",
+      "role": "总经理",
+      "quote": "总经理 卢勇滨"
+    },
+    {
+      "name": "赵松",
+      "role": "副总经理、董事会秘书",
+      "quote": "副总经理、董事会秘书：赵松"
+    },
+    {
+      "name": "曾营基",
+      "role": "副总经理、财务负责人",
+      "quote": "副总经理、财务负责人：曾营基"
+    },
+    {
+      "name": "许欣",
+      "role": "副总经理",
+      "quote": "副总经理：许欣"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "云浮广业硫铁矿集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，持有公司31.31%股权。",
+      "quote": "云硫集团 指 云浮广业硫铁矿集团有限公司 ... 控股股东名称 云浮广业硫铁矿集团有限公司 ... 持股比例 31.31%"
+    },
+    {
+      "name": "广东省环保集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "实际控制人。",
+      "quote": "实际控制人名称 广东省环保集团有限公司"
+    },
+    {
+      "name": "广东广业云硫矿业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "核心子公司，负责硫化工产业。",
+      "quote": "云硫矿业 指 广东广业云硫矿业有限公司 ... 公司各业务板块由核心子公司实体运营：... 云硫矿业负责硫化工产业"
+    },
+    {
+      "name": "广西广业贵糖糖业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "核心子公司，负责糖浆纸产业。",
+      "quote": "贵糖集团 指 广西广业贵糖糖业集团有限公司 ... 贵糖集团负责糖浆纸产业"
+    },
+    {
+      "name": "广东广业华晶科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，负责新能源材料银粉业务。",
+      "quote": "华晶科技 指 广东广业华晶科技有限责任公司"
+    },
+    {
+      "name": "德信（清远）矿业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，负责新能源材料石英矿业务。",
+      "quote": "德信矿业 指 德信（清远）矿业有限公司"
+    },
+    {
+      "name": "广东粤桂晶源矿业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新设全资子公司，2025年9月成立，参与石英岩矿投资。",
+      "quote": "晶源矿业 指 广东粤桂晶源矿业有限公司 ... 2025年9月，公司以现金出资方式，投资设立全资子公司“广东粤桂晶源矿业有限公司”"
+    },
+    {
+      "name": "云浮市云硫劳动服务有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，接受其提供的劳务及其他服务。",
+      "quote": "云浮市云硫劳动服务有限公司 ... 接受关联方提供的劳务及其其他"
+    },
+    {
+      "name": "广东宏达控股集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，向其采购爆破工程费。",
+      "quote": "广东宏达控股集团股份有限公司 ... 向关联人采购 爆破工程费"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "机制糖",
+      "segment_type": "product_line",
+      "revenue_amount": "502,843,040.29元",
+      "revenue_proportion": "16.44%",
+      "gross_margin": "7.97%",
+      "yoy_change": "-7.14%",
+      "quote": "分产品 ... 机制糖 502,843,040.29 16.44% ... 毛利率 7.97% ... 营业收入比上年同期增减 -7.14%"
+    },
+    {
+      "name": "机制浆",
+      "segment_type": "product_line",
+      "revenue_amount": "417,863,960.39元",
+      "revenue_proportion": "13.66%",
+      "gross_margin": "13.20%",
+      "yoy_change": "-11.95%",
+      "quote": "分产品 ... 机制浆 417,863,960.39 13.66% ... 毛利率 13.20% ... 营业收入比上年同期增减 -11.95%"
+    },
+    {
+      "name": "硫精矿",
+      "segment_type": "product_line",
+      "revenue_amount": "1,102,242,467.94元",
+      "revenue_proportion": "36.04%",
+      "gross_margin": "62.00%",
+      "yoy_change": "33.61%",
+      "quote": "分产品 ... 硫精矿 1,102,242,467.94 36.04% ... 毛利率 62.00% ... 营业收入比上年同期增减 33.61%"
+    },
+    {
+      "name": "银粉",
+      "segment_type": "product_line",
+      "revenue_amount": "232,752,251.70元",
+      "revenue_proportion": "7.61%",
+      "gross_margin": null,
+      "yoy_change": "6,403.10%",
+      "quote": "分产品 ... 银粉 232,752,251.70 7.61% ... 营业收入比上年同期增减 6,403.10%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "2,162,518,449.83元",
+      "revenue_proportion": "70.71%",
+      "gross_margin": "33.91%",
+      "yoy_change": "-2.00%",
+      "quote": "分地区 ... 华南 2,162,518,449.83 70.71% ... 毛利率 33.91% ... 营业收入比上年同期增减 -2.00%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "371,067,032.38元",
+      "revenue_proportion": "12.13%",
+      "gross_margin": "60.48%",
+      "yoy_change": "45.81%",
+      "quote": "分地区 ... 西南 371,067,032.38 12.13% ... 毛利率 60.48% ... 营业收入比上年同期增减 45.81%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "机制糖",
+      "metric_type": "production_volume",
+      "value": "88,844.55吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 生产量 吨 88,844.55"
+    },
+    {
+      "product": "机制糖",
+      "metric_type": "sales_volume",
+      "value": "98,333.25吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 销售量 吨 98,333.25"
+    },
+    {
+      "product": "硫精矿",
+      "metric_type": "production_volume",
+      "value": "1,097,931.82吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 生产量 吨 1,097,931.82"
+    },
+    {
+      "product": "硫精矿",
+      "metric_type": "sales_volume",
+      "value": "1,050,918.89吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 ... 销售量 吨 1,050,918.89"
+    },
+    {
+      "product": "氨基磺酸",
+      "metric_type": "production_volume",
+      "value": "9,781.29吨",
+      "period": "2025年",
+      "quote": "2025年氨基磺酸产量9,781吨"
+    },
+    {
+      "product": "氨基磺酸",
+      "metric_type": "sales_volume",
+      "value": "10,010.29吨",
+      "period": "2025年",
+      "quote": "销量10,010吨"
+    },
+    {
+      "product": "银粉",
+      "metric_type": "production_volume",
+      "value": "27.25吨",
+      "period": "2025年",
+      "quote": "生产量 吨 27.25"
+    },
+    {
+      "product": "银粉",
+      "metric_type": "sales_volume",
+      "value": "25.17吨",
+      "period": "2025年",
+      "quote": "销售量 吨 25.17"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产10万吨/年精制湿法磷酸项目",
+      "project_type": "capacity_expansion",
+      "location": "云浮市",
+      "investment_amount": "881,162,400.00元",
+      "designed_capacity": "年产10万吨精制湿法磷酸",
+      "progress": "项目工程整体进度88.31%",
+      "expected_completion_time": null,
+      "quote": "公司年产10万吨精制湿法磷酸项目建设进展顺利... 截至报告期末项目工程整体进度88.31%。"
+    },
+    {
+      "name": "云硫矿业碎磨系统大型化、自动化改造项目",
+      "project_type": "capacity_expansion",
+      "location": "云硫矿业矿区",
+      "investment_amount": "259,555,421元（累计）",
+      "designed_capacity": "提升硫铁矿选矿处理能力",
+      "progress": "100%，已投入生产",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司碎磨系统改造顺利试产... 已累计投入资金26,116.13万元。"
+    },
+    {
+      "name": "德信矿业白面石矿区玻璃用石英砂岩矿项目",
+      "project_type": "capacity_expansion",
+      "location": "英德市",
+      "investment_amount": "106,098,900.00元（累计）",
+      "designed_capacity": "玻璃用石英砂岩矿",
+      "progress": "49.25%",
+      "expected_completion_time": null,
+      "quote": "下太镇白面石矿区玻璃用石英砂岩矿投资项目 ... 截至报告期末累计实际投入金额 106,098,900.00 ... 项目进度 49.25%"
+    },
+    {
+      "name": "晶源矿业连州市反背冲石英岩矿矿权投资",
+      "project_type": "acquisition_project",
+      "location": "连州市",
+      "investment_amount": "263,291,082.14元",
+      "designed_capacity": "玻璃用石英岩矿",
+      "progress": "100%",
+      "expected_completion_time": null,
+      "quote": "连州反背冲矿权投资项目 ... 截至报告期末累计实际投入金额 263,291,082.14 ... 项目进度 100%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "甘蔗制糖制浆产业链关键技术创新及应用",
+      "asset_type": "core_technology",
+      "related_product": "糖、浆、纸",
+      "quantitative_info": "荣获2025年度广西科学院科学技术奖——科技进步二等奖",
+      "quote": "贵糖集团“甘蔗制糖制浆产业链关键技术创新及应用”项目荣获2025年度广西科学院科学技术奖——科技进步二等奖"
+    },
+    {
+      "name": "无元素氯ECF流程制浆工艺",
+      "asset_type": "process_technology",
+      "related_product": "纸浆",
+      "quantitative_info": "国内领先水平，国际清洁生产领先水平",
+      "quote": "浆厂在工艺和技术方面实现国内领先水平，采用先进的无元素氯ECF流程，生产工艺及装备达到国家政策要求的国际清洁生产领先水平"
+    },
+    {
+      "name": "超细银粉工业化生产工艺与装备",
+      "asset_type": "core_technology",
+      "related_product": "银粉",
+      "quantitative_info": "自主研发，生产线的软件、机械加工、系统控制及生产工艺均实现自主开发",
+      "quote": "华晶科技... 掌握多项生产关键技术，研发出独有的超细银粉工业化生产工艺与装备，生产线的软件、机械加工、系统控制及生产工艺均实现自主开发。"
+    },
+    {
+      "name": "硫铁矿尾矿基新型低碳胶凝材料技术研究与应用",
+      "asset_type": "core_technology",
+      "related_product": "尾矿综合利用",
+      "quantitative_info": "入选省国资委拓新项目B类",
+      "quote": "云硫矿业“硫铁矿尾矿基新型低碳胶凝材料技术研究与应用”入选省国资委拓新项目B类"
+    },
+    {
+      "name": "微系列低温银浆专用纳米银粉",
+      "asset_type": "core_technology",
+      "related_product": "银粉",
+      "quantitative_info": "入选省国资委拓新项目C类，获评“广东省科技型中小企业”",
+      "quote": "华晶科技入选省国资委拓新企业C类，“微系列低温银浆专用纳米银粉”入选省国资委拓新项目C类，获评“广东省科技型中小企业”。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "9.07%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前5大客户资料 ... 1 客户1 ... 占年度销售总额比例 9.07%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "29.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 29.31%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "20.10%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前5名供应商资料 ... 1 供应商1 ... 占年度采购总额比例 20.10%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "46.56%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 46.56%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "受国际硫磺市场供应收缩影响，进口硫磺价格上升，影响硫酸等产品供应。",
+      "related_entity": null,
+      "related_product": "硫酸",
+      "quote": "硫酸库存同比减少83.25%，主要是硫磺成本暴涨、供应收缩... 国际硫磺供应缺口扩大，进口硫磺价格上升"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "-3mm矿因下游客户生产线技术升级，转而使用制酸效率更高的产品替代，导致客户流失。",
+      "related_entity": null,
+      "related_product": "-3mm矿",
+      "quote": "-3MM矿销售量同比下降66.54%，主要是主要客户因为生产线技术升级，转而改用硫精矿、硫磺等制酸效率高、渣量少、综合成本更低的产品替代"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内造纸行业新增产能投放与实际需求增长不匹配，产能利用率较往年有所回落。",
+      "related_entity": null,
+      "related_product": "纸浆",
+      "quote": "国内造纸产能仍在持续扩张，内需保持温和增长，但由于新增产能投放与实际需求增长不匹配，各主要纸种的产能利用率较往年有所回落。"
+    },
+    {
+      "risk_type": "other",
+      "description": "贵糖集团整体搬迁协议款未按协议约定时间到位。",
+      "related_entity": "贵糖集团",
+      "related_product": null,
+      "quote": "截至本报告披露日，公司与协议方的合同权益11.87亿元搬迁款项未按协议约定时间到位"
+    }
+  ]
+}

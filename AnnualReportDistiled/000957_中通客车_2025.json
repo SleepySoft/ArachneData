@@ -1,0 +1,493 @@
+{
+  "company_name_mentioned": "中通客车股份有限公司",
+  "produces": [
+    {
+      "name": "传统客车",
+      "type": "device",
+      "revenue_proportion": "46.06%",
+      "quote": "分产品\n传统客车 3,375,785,642.22 46.06%"
+    },
+    {
+      "name": "新能源客车",
+      "type": "device",
+      "revenue_proportion": "49.82%",
+      "quote": "新能源客车 3,651,162,216.36 49.82%"
+    },
+    {
+      "name": "其他",
+      "type": "service",
+      "revenue_proportion": "4.12%",
+      "quote": "其他 302,108,013.90 4.12%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "客车",
+      "cost_proportion": "90.67%",
+      "quote": "营业成本构成...客车制造业 原材料 5,474,233,524.09 90.67%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "公路客运",
+      "source_product": "客车",
+      "quote": "产品涵\n盖5米至27米多种系列、不同档次，用途主要为公路、公交、旅游、团体、校车等细分市场。"
+    },
+    {
+      "name": "公交出行",
+      "source_product": "客车",
+      "quote": "用途主要为公路、公交、旅游、团体、校车等细分市场。"
+    },
+    {
+      "name": "旅游团体",
+      "source_product": "客车",
+      "quote": "用途主要为公路、公交、旅游、团体、校车等细分市场。"
+    },
+    {
+      "name": "校车服务",
+      "source_product": "客车",
+      "quote": "用途主要为公路、公交、旅游、团体、校车等细分市场。"
+    },
+    {
+      "name": "景区通勤、机场接驳、短途客运、团体租赁及通学班车等场景",
+      "source_product": "新能源客车",
+      "quote": "新能源客车正加快向公路客运领域渗透，重点应用于景区通勤、机场接驳、短途客运、团体租赁及通学班车等场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王兴富",
+      "role": "董事长、公司负责人",
+      "quote": "公司负责人王兴富...现任本公司董事长。"
+    },
+    {
+      "name": "何伟",
+      "role": "主管会计工作负责人、财务总监、董事",
+      "quote": "主管会计工作负责人何伟...现任本公司财务负责人、董事。"
+    },
+    {
+      "name": "赵玉欣",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）赵玉欣"
+    },
+    {
+      "name": "张峰",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张峰"
+    },
+    {
+      "name": "李鹏程",
+      "role": "总经理、董事",
+      "quote": "李鹏程先生...现任本公司董事、总经理。"
+    },
+    {
+      "name": "张燕",
+      "role": "董事",
+      "quote": "张燕女士...现任...本公司董事等职。"
+    },
+    {
+      "name": "赵洪清",
+      "role": "职工代表董事",
+      "quote": "赵洪清先生...现任本公司职工代表董事。"
+    },
+    {
+      "name": "田景东",
+      "role": "董事",
+      "quote": "田景东先生...现任...本公司董事。"
+    },
+    {
+      "name": "王晓明",
+      "role": "独立董事",
+      "quote": "王晓明先生...兼任本公司独立董事。"
+    },
+    {
+      "name": "王德建",
+      "role": "独立董事",
+      "quote": "王德建先生...兼任...本公司独立董事。"
+    },
+    {
+      "name": "李洪武",
+      "role": "独立董事",
+      "quote": "李洪武先生...兼任...本公司独立董事。"
+    },
+    {
+      "name": "李晨",
+      "role": "副总经理",
+      "quote": "李晨先生...现任本公司副总经理。"
+    },
+    {
+      "name": "康乃元",
+      "role": "副总经理",
+      "quote": "康乃元先生...现任本公司副总经理。"
+    },
+    {
+      "name": "刘海军",
+      "role": "副总经理",
+      "quote": "刘海军先生...现任本公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "山东通洋氢能动力科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "购买商品/接受劳务，内容为氢燃料电池及其他配件",
+      "quote": "山东通洋氢能动力科技有限公司...联营企业...关联交易内容 氢燃料电池及其他配件"
+    },
+    {
+      "name": "潍柴控股集团公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "受同一控股股东及最终控制方控制的企业，采购发动机、燃料电池、变速箱、车桥等客车配件；销售客车及配件",
+      "quote": "潍柴控股集团公司及其子公司 受同一控股股东及最终控制方控制的企业...购买商品/接受劳务...发动机、燃料电池、变速箱、车桥等客车配件...销售商品/提供劳务...客车及配件"
+    },
+    {
+      "name": "中国重汽集团公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "受同一控股股东及最终控制方控制的企业，采购底盘、燃油、发动机总成等配件；销售客车及配件",
+      "quote": "中国重汽集团公司及其子公司 受同一控股股东及最终控制方控制的企业...购买商品/接受劳务...底盘、燃油、发动机总成等配件...销售商品/提供劳务...客车及配件"
+    },
+    {
+      "name": "山东重工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "公司实际控制人",
+      "quote": "实际控制人名称 山东重工集团有限公司"
+    },
+    {
+      "name": "中国重型汽车集团有限公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东",
+      "quote": "控股股东名称 中国重型汽车集团有限公司"
+    },
+    {
+      "name": "山东省国有资产投资控股有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上的股东",
+      "quote": "山东省国有资产投资控股有限公司...持股比例 11.97%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "客车制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "7,329,055,872.48元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "17.62%",
+      "yoy_change": "27.82%",
+      "quote": "分行业\n客车制造业 7,329,055,872.48 100.00%...毛利率 17.62%...营业收入比上\n年同期增减 27.82%"
+    },
+    {
+      "name": "传统客车",
+      "segment_type": "product_line",
+      "revenue_amount": "3,375,785,642.22元",
+      "revenue_proportion": "46.06%",
+      "gross_margin": null,
+      "yoy_change": "-11.66%",
+      "quote": "分产品\n传统客车 3,375,785,642.22 46.06%...同比增减...-11.66%"
+    },
+    {
+      "name": "新能源客车",
+      "segment_type": "product_line",
+      "revenue_amount": "3,651,162,216.36元",
+      "revenue_proportion": "49.82%",
+      "gross_margin": null,
+      "yoy_change": "113.12%",
+      "quote": "新能源客车 3,651,162,216.36 49.82%...同比增减...113.12%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "302,108,013.90元",
+      "revenue_proportion": "4.12%",
+      "gross_margin": "23.71%",
+      "yoy_change": "51.61%",
+      "quote": "其他 302,108,013.90 4.12%...毛利率 23.71%...同比增减...51.61%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "3,026,026,834.11元",
+      "revenue_proportion": "41.29%",
+      "gross_margin": "11.14%",
+      "yoy_change": "20.01%",
+      "quote": "分地区\n国内 3,026,026,834.11 41.29%...毛利率 11.14%...同比增减...20.01%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "4,303,029,038.37元",
+      "revenue_proportion": "58.71%",
+      "gross_margin": "22.18%",
+      "yoy_change": "33.95%",
+      "quote": "国外 4,303,029,038.37 58.71%...毛利率 22.18%...同比增减...33.95%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,858,405,847.44元",
+      "revenue_proportion": "52.65%",
+      "gross_margin": null,
+      "yoy_change": "202.26%",
+      "quote": "分销售模式\n经销 3,858,405,847.44 52.65%...同比增减...202.26%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,470,650,025.04元",
+      "revenue_proportion": "47.35%",
+      "gross_margin": null,
+      "yoy_change": "-22.14%",
+      "quote": "直销 3,470,650,025.04 47.35%...同比增减...-22.14%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "大型客车",
+      "metric_type": "production_volume",
+      "value": "7254",
+      "period": "2025年",
+      "quote": "大型客车 7254"
+    },
+    {
+      "product": "大型客车",
+      "metric_type": "sales_volume",
+      "value": "7172",
+      "period": "2025年",
+      "quote": "7172"
+    },
+    {
+      "product": "中型客车",
+      "metric_type": "production_volume",
+      "value": "4804",
+      "period": "2025年",
+      "quote": "中型客车 4804"
+    },
+    {
+      "product": "中型客车",
+      "metric_type": "sales_volume",
+      "value": "4361",
+      "period": "2025年",
+      "quote": "4361"
+    },
+    {
+      "product": "轻型客车",
+      "metric_type": "production_volume",
+      "value": "872",
+      "period": "2025年",
+      "quote": "轻型客车 872"
+    },
+    {
+      "product": "轻型客车",
+      "metric_type": "sales_volume",
+      "value": "830",
+      "period": "2025年",
+      "quote": "830"
+    },
+    {
+      "product": "境内地区",
+      "metric_type": "production_volume",
+      "value": "6112",
+      "period": "2025年",
+      "quote": "境内地区 6112"
+    },
+    {
+      "product": "境内地区",
+      "metric_type": "sales_volume",
+      "value": "6028",
+      "period": "2025年",
+      "quote": "6028"
+    },
+    {
+      "product": "境外地区",
+      "metric_type": "production_volume",
+      "value": "6818",
+      "period": "2025年",
+      "quote": "境外地区 6818"
+    },
+    {
+      "product": "境外地区",
+      "metric_type": "sales_volume",
+      "value": "6335",
+      "period": "2025年",
+      "quote": "6335"
+    },
+    {
+      "product": "新能源客车整车",
+      "metric_type": "capacity",
+      "value": "20000辆",
+      "period": null,
+      "quote": "产能状况...20000辆"
+    },
+    {
+      "product": "新能源客车整车",
+      "metric_type": "production_volume",
+      "value": "4991",
+      "period": "2025年",
+      "quote": "产量 4,991"
+    },
+    {
+      "product": "新能源客车整车",
+      "metric_type": "sales_volume",
+      "value": "5006",
+      "period": "2025年",
+      "quote": "销量 5,006"
+    },
+    {
+      "product": "客车制造业",
+      "metric_type": "production_volume",
+      "value": "12,930",
+      "period": "2025年",
+      "quote": "生产量 辆 12,930"
+    },
+    {
+      "product": "客车制造业",
+      "metric_type": "sales_volume",
+      "value": "12,363",
+      "period": "2025年",
+      "quote": "销售量 辆 12,363"
+    },
+    {
+      "product": "客车制造业",
+      "metric_type": "inventory_volume",
+      "value": "1,451",
+      "period": "2025年末",
+      "quote": "库存量 辆 1,451"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "股份回购",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已回购数量 8,254,900股",
+      "expected_completion_time": "本次回购的股份将用于实施股权激励或员工持股计划。如公司未能在股份回购实施完成之后36个月内将已回购股份使用完毕，尚未使用的已回购股份将被注销。",
+      "quote": "股份回购的实施进展情况...已回购数量 8,254,900...本次回购的股份将用于实施股权激励或员工持股计划。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家级工业设计中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "目前已拥有国家级工业设计中心"
+    },
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "国家认定企业技术中心"
+    },
+    {
+      "name": "CNAS认可实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "CNAS认可实验室"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获得高新技术企业...等荣誉称号。"
+    },
+    {
+      "name": "国家、行业、地方及团体标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "共参与完成105项...其中83项已经发布。",
+      "quote": "截至报告期末，公司共参与完成105项国家、行业、地方及团体标准制修定工作，其中83项已经发布。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "拥有有效专利538项，其中发明178项，实用新型285项，外观设计75项",
+      "quote": "截至报告期末，公司拥有有效专利538项，其中发明178项，实用新型285项，外观设计75项"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "研发投入2.55亿元，占营业收入比例达3.48%。",
+      "quote": "报告期内，公司研发投入2.55亿元，占营业收入比例达3.48%。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,148,408,832.72元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,148,408,832.72"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "29.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 29.31%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "1,337,917,427.75元",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "客户一 1,337,917,427.75 18.25%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,816,859,855.51元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,816,859,855.51"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "34.27%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 34.27%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1,002,776,683.43元",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "供应商一 1,002,776,683.43 18.91%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "客运市场可能继续受高铁、地铁、民航、私家车、共享单车等替代影响，出行方式的多元化使得国内客车市场有效需求不足，社会预期偏弱的局面短期难以根本改变，市场复苏动力有待进一步释放。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、客运市场可能继续受高铁、地铁、民航、私家车、共享单车等替代影响，出行方式的多元化使\n得国内客车市场有效需求不足，社会预期偏弱的局面短期难以根本改变，市场复苏动力有待进一步释\n放。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "从国际环境看，地缘动荡与地区冲突频发，世界经济复苏乏力，不确定性因素显著增多。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、从国际环境看，地缘动荡与地区冲突频发，世界经济复苏乏力，不确定性因素显著增多。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受原材料价格及出口运输费波动、国内劳动力成本上升影响，可能增加公司各项成本的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、受原材料价格及出口运输费波动、国内劳动力成本上升影响，可能增加公司各项成本的风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司对部分客户选择通过合适的融资方式融资购车承担回购担保责任，截止2025年12月31日，公司为此承担的回购担保责任余额为171,189.01万元。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "根据公司与相关金融机构签订的合作协议，公司对部分客户选择通过合适的融资方式融资购车承担回购担保责任，\n截止2025年12月31日，公司为此承担的回购担保责任余额为171,189.01万元。"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "company_name_mentioned": "广东日丰电缆股份有限公司",
+  "produces": [
+    {
+      "name": "特种装备电缆",
+      "type": "device",
+      "revenue_proportion": "17.87%",
+      "quote": "分产品：特种装备电缆 807,404,517.59 17.87%"
+    },
+    {
+      "name": "通信装备组件",
+      "type": "device",
+      "revenue_proportion": "20.62%",
+      "quote": "分产品：通信装备组件 931,718,799.30 20.62%"
+    },
+    {
+      "name": "空调连接线组件",
+      "type": "component",
+      "revenue_proportion": "30.62%",
+      "quote": "分产品：空调连接线组件 1,383,288,829.21 30.62%"
+    },
+    {
+      "name": "小家电配线组件",
+      "type": "component",
+      "revenue_proportion": "11.97%",
+      "quote": "分产品：小家电配线组件 541,010,390.51 11.97%"
+    },
+    {
+      "name": "新能源电缆",
+      "type": "device",
+      "revenue_proportion": "10.32%",
+      "quote": "分产品：新能源电缆 466,322,049.62 10.32%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜材",
+      "target_product": "电线电缆",
+      "cost_proportion": null,
+      "quote": "公司采购主要的原材料是用于电线电缆生产的铜材、化工原料和辅助材料等。"
+    },
+    {
+      "name": "化工原料",
+      "target_product": "电线电缆",
+      "cost_proportion": null,
+      "quote": "对于化工原料采购，公司采用年初集中招标采购模式进行采购"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源（风电/光伏等）",
+      "source_product": "新能源电缆",
+      "quote": "产品广泛应用于新能源（风电/光伏等）...等领域。"
+    },
+    {
+      "name": "人工智能（AI数据中心服务器）",
+      "source_product": "特种装备电缆",
+      "quote": "产品广泛应用于...人工智能（AI数据中心服务器）...等领域。"
+    },
+    {
+      "name": "智能制造（工业机器人）",
+      "source_product": null,
+      "quote": "产品广泛应用于...智能制造（工业机器人）...等领域。"
+    },
+    {
+      "name": "储能（锂电池连接/化成分容等)",
+      "source_product": null,
+      "quote": "产品广泛应用于...储能（锂电池连接/化成分容等)..."
+    },
+    {
+      "name": "低空经济（电动垂直起降飞行器eVTOL）",
+      "source_product": null,
+      "quote": "产品广泛应用于...低空经济（电动垂直起降飞行器eVTOL）..."
+    },
+    {
+      "name": "通信设备（5G基站等）",
+      "source_product": "通信装备组件",
+      "quote": "产品广泛应用于...通信设备（5G基站等）..."
+    },
+    {
+      "name": "家电（空调/漏电保护器等）",
+      "source_product": "空调连接线组件、小家电配线组件",
+      "quote": "产品广泛应用于...家电（空调/漏电保护器等）..."
+    },
+    {
+      "name": "电源及电动工具",
+      "source_product": null,
+      "quote": "产品广泛应用于...电源及电动工具等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "冯就景",
+      "role": "董事长、实际控制人、控股股东",
+      "quote": "公司负责人冯就景...；公司法定代表人 冯就景；实际控制人 冯就景 本人"
+    },
+    {
+      "name": "李强",
+      "role": "董事、总经理",
+      "quote": "李强先生...2009年12月至今，担任公司董事、总经理。"
+    },
+    {
+      "name": "冯宇棠",
+      "role": "董事、副总经理",
+      "quote": "冯宇棠先生...2022年12月至今担任公司董事、副总经理。"
+    },
+    {
+      "name": "黄海威",
+      "role": "主管会计工作负责人（财务负责人）",
+      "quote": "主管会计工作负责人黄海威...；2021年12月至今任公司财务总监。"
+    },
+    {
+      "name": "黎宇晖",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 黎宇晖"
+    },
+    {
+      "name": "黄洪燕",
+      "role": "独立董事",
+      "quote": "黄洪燕 男 55 独立董事 现任"
+    },
+    {
+      "name": "李伟阳",
+      "role": "独立董事",
+      "quote": "李伟阳 男 61 独立董事 现任"
+    },
+    {
+      "name": "陈洵",
+      "role": "独立董事",
+      "quote": "陈洵 男 45 独立董事 现任"
+    },
+    {
+      "name": "张立超",
+      "role": "职工董事",
+      "quote": "张立超 男 43 职工董事 现任"
+    },
+    {
+      "name": "侯林林",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）侯林林"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广东日丰国际电工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司全资子公司",
+      "quote": "国际电工 指 广东日丰国际电工有限公司，本公司全资子公司"
+    },
+    {
+      "name": "香港日丰（RifengCableInternationalCompanyLimited）",
+      "relation_type": "subsidiary",
+      "business_details": "本公司香港全资子公司",
+      "quote": "香港日丰 指 RifengCableInternationalCompanyLimited（日丰电缆国际有限公司），本公司香港全资子公司"
+    },
+    {
+      "name": "安徽日丰科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司全资子公司（报告期内注销）",
+      "quote": "安徽日丰 指 安徽日丰科技有限公司，本公司全资子公司；报告期内，安徽日丰科技有限公司于2025年8月23日完成清算注销"
+    },
+    {
+      "name": "中山市日丰智能电气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司控股子公司",
+      "quote": "日丰智能 指 中山市日丰智能电气有限公司，本公司控股子公司"
+    },
+    {
+      "name": "广东日丰新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司全资子公司",
+      "quote": "日丰新材料 指 广东日丰新材料有限公司，本公司全资子公司"
+    },
+    {
+      "name": "广东日丰电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司控股子公司",
+      "quote": "日丰电子 指 广东日丰电子有限公司，本公司控股子公司"
+    },
+    {
+      "name": "中山艾姆倍新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司控股子公司",
+      "quote": "中山艾姆倍 指 中山艾姆倍新能源科技有限公司，本公司控股子公司"
+    },
+    {
+      "name": "天津有容蒂康通讯技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司全资子公司",
+      "quote": "天津有容 指 天津有容蒂康通讯技术有限公司，本公司全资子公司"
+    },
+    {
+      "name": "美的集团",
+      "relation_type": "customer",
+      "business_details": "空调连接线组件等产品客户",
+      "quote": "空调连接线组件...得到美的集团、格力电器...等国内知名家电生产厂商...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "格力电器",
+      "relation_type": "customer",
+      "business_details": "空调连接线组件等产品客户",
+      "quote": "空调连接线组件...得到...格力电器...等国内知名家电生产厂商...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "TCL集团",
+      "relation_type": "customer",
+      "business_details": "空调连接线组件等产品客户",
+      "quote": "空调连接线组件...得到...TCL集团...等国内知名家电生产厂商...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "奥克斯空调",
+      "relation_type": "customer",
+      "business_details": "空调连接线组件等产品客户",
+      "quote": "空调连接线组件...得到...奥克斯空调等国内知名家电生产厂商...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "徐工集团",
+      "relation_type": "customer",
+      "business_details": "特种装备电缆等产品客户（工程机械）",
+      "quote": "特种装备电缆...得到...徐工集团、三一重工、中联重科、大汉科技等工程机械龙头企业...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "三一重工",
+      "relation_type": "customer",
+      "business_details": "特种装备电缆等产品客户（工程机械）",
+      "quote": "特种装备电缆...得到...徐工集团、三一重工、中联重科、大汉科技等工程机械龙头企业...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "中联重科",
+      "relation_type": "customer",
+      "business_details": "特种装备电缆等产品客户（工程机械）",
+      "quote": "特种装备电缆...得到...徐工集团、三一重工、中联重科、大汉科技等工程机械龙头企业...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "大汉科技",
+      "relation_type": "customer",
+      "business_details": "特种装备电缆等产品客户（工程机械）",
+      "quote": "特种装备电缆...得到...徐工集团、三一重工、中联重科、大汉科技等工程机械龙头企业...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "华为技术",
+      "relation_type": "customer",
+      "business_details": "通信装备组件产品客户",
+      "quote": "通信装备组件...得到...华为技术、中兴通讯、烽火通信等通讯设备生产企业...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "中兴通讯",
+      "relation_type": "customer",
+      "business_details": "通信装备组件产品客户",
+      "quote": "通信装备组件...得到...华为技术、中兴通讯、烽火通信等通讯设备生产企业...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "烽火通信",
+      "relation_type": "customer",
+      "business_details": "通信装备组件产品客户",
+      "quote": "通信装备组件...得到...华为技术、中兴通讯、烽火通信等通讯设备生产企业...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "远景能源",
+      "relation_type": "customer",
+      "business_details": "新能源电缆产品客户（新能源厂商）",
+      "quote": "新能源电缆...得到...远景能源、明阳智能等新能源厂商...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "明阳智能",
+      "relation_type": "customer",
+      "business_details": "新能源电缆产品客户（新能源厂商）",
+      "quote": "新能源电缆...得到...远景能源、明阳智能等新能源厂商...提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "泰科电子",
+      "relation_type": "customer",
+      "business_details": "人工智能算力产业链关键公司",
+      "quote": "以及泰科电子、安费诺、维谛技术等人工智能算力产业链关键公司提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "安费诺",
+      "relation_type": "customer",
+      "business_details": "人工智能算力产业链关键公司",
+      "quote": "以及泰科电子、安费诺、维谛技术等人工智能算力产业链关键公司提供可靠的产品和解决方案。"
+    },
+    {
+      "name": "维谛技术",
+      "relation_type": "customer",
+      "business_details": "人工智能算力产业链关键公司",
+      "quote": "以及泰科电子、安费诺、维谛技术等人工智能算力产业链关键公司提供可靠的产品和解决方案。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电线电缆行业",
+      "segment_type": "product_line",
+      "revenue_amount": "4,518,026,496.36",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "11.17%",
+      "yoy_change": null,
+      "quote": "分行业：电线电缆行业 4,518,026,496.36 100.00%；毛利率：11.17%"
+    },
+    {
+      "name": "特种装备电缆",
+      "segment_type": "product_line",
+      "revenue_amount": "807,404,517.59",
+      "revenue_proportion": "17.87%",
+      "gross_margin": "14.59%",
+      "yoy_change": null,
+      "quote": "分产品：特种装备电缆 807,404,517.59 17.87%；毛利率：14.59%"
+    },
+    {
+      "name": "通信装备电缆",
+      "segment_type": "product_line",
+      "revenue_amount": "931,718,799.30",
+      "revenue_proportion": "20.62%",
+      "gross_margin": "8.09%",
+      "yoy_change": null,
+      "quote": "分产品：通信装备电缆 931,718,799.30 20.62%；毛利率：8.09%"
+    },
+    {
+      "name": "空调连接线组件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,383,288,829.21",
+      "revenue_proportion": "30.62%",
+      "gross_margin": "13.22%",
+      "yoy_change": null,
+      "quote": "分产品：空调连接线组件 1,383,288,829.21 30.62%；毛利率：13.22%"
+    },
+    {
+      "name": "小家电配线组件",
+      "segment_type": "product_line",
+      "revenue_amount": "541,010,390.51",
+      "revenue_proportion": "11.97%",
+      "gross_margin": "10.07%",
+      "yoy_change": null,
+      "quote": "分产品：小家电配线组件 541,010,390.51 11.97%；毛利率：10.07%"
+    },
+    {
+      "name": "新能源电缆",
+      "segment_type": "product_line",
+      "revenue_amount": "466,322,049.62",
+      "revenue_proportion": "10.32%",
+      "gross_margin": "13.09%",
+      "yoy_change": null,
+      "quote": "分产品：新能源电缆 466,322,049.62 10.32%；毛利率：13.09%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "388,281,910.13",
+      "revenue_proportion": "8.59%",
+      "gross_margin": "3.35%",
+      "yoy_change": null,
+      "quote": "分产品：其他 388,281,910.13 8.59%；毛利率：3.35%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "3,641,163,930.46",
+      "revenue_proportion": "80.59%",
+      "gross_margin": "11.01%",
+      "yoy_change": null,
+      "quote": "分地区：内销 3,641,163,930.46 80.59%；毛利率：11.01%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "876,862,565.90",
+      "revenue_proportion": "19.41%",
+      "gross_margin": "11.81%",
+      "yoy_change": null,
+      "quote": "分地区：外销 876,862,565.90 19.41%；毛利率：11.81%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电线电缆",
+      "metric_type": "sales_volume",
+      "value": "708,154.02千米",
+      "period": "2025年",
+      "quote": "销售量 千米 708,154.02"
+    },
+    {
+      "product": "电线电缆",
+      "metric_type": "production_volume",
+      "value": "695,276.86千米",
+      "period": "2025年",
+      "quote": "生产量 千米 695,276.86"
+    },
+    {
+      "product": "电线电缆",
+      "metric_type": "inventory_volume",
+      "value": "40,947.92千米",
+      "period": "2025年末",
+      "quote": "库存量 千米 40,947.92"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新能源及特种装备电缆组件项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "37,164.53万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "2025年6月30日建设完成并结项",
+      "expected_completion_time": "2025年6月30日",
+      "quote": "2025年公司可转换公司债券募集资金项目“新能源及特种装备电缆组件项目”已于2025年6月30日建设完成并结项；项目性质 生产建设；项目达到预定可使用状态日期 2025年06月30日"
+    },
+    {
+      "name": "向特定对象发行股票项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "22,627.48万元（募集资金净额）",
+      "designed_capacity": null,
+      "progress": "2025年11月12日上市，已使用48.61%",
+      "expected_completion_time": null,
+      "quote": "向特定对象发行股票...公司本次募集资金总额为人民币229,999,997.37元...实际募集资金净额为人民币226,274,817.38元；募集资金承诺项目：补充流动资金、偿还银行贷款；投资总额(1) 22,627.48"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "辐照交联技术",
+      "asset_type": "process_technology",
+      "related_product": "橡套类电线电缆",
+      "quantitative_info": null,
+      "quote": "采用国际先进的辐照交联技术逐步替代传统的蒸汽交联技术，在我国橡套类电线电缆细分领域内，公司对该技术的应用达到行业前列。"
+    },
+    {
+      "name": "多项强制性产品安全认证（UL、CE、VDE等）",
+      "asset_type": "certification",
+      "related_product": "电线电缆产品",
+      "quantitative_info": "获得20多个国家及地区的强制性产品安全认证",
+      "quote": "公司的电线电缆产品...获得了美国UL认证、CM认证、欧盟CE认证、德国VDE认证、法国NF认证、英国BSI认证、加拿大CSA认证、韩国KC认证、日本PSE认证等20多个国家及地区的强制性产品安全认证。"
+    },
+    {
+      "name": "ISO9001质量体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后通过了ISO9001质量体系...的认证。"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后通过了...ISO14001环境管理体系...的认证。"
+    },
+    {
+      "name": "IATF16949汽车行业质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后通过了...IATF16949汽车行业质量管理体系...的认证。"
+    },
+    {
+      "name": "ISO45001职业健康安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后通过了...ISO45001职业健康安全管理体系...的认证。"
+    },
+    {
+      "name": "ISO50001能源管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后通过了...ISO50001能源管理体系的认证。"
+    },
+    {
+      "name": "中国合格评定国家认可委员会实验室认可证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司取得中国合格评定国家认可委员会实验室认可证书"
+    },
+    {
+      "name": "六大专业研发团队（高分子材料、新能源、电器装备线缆、特种装备线缆、智能元器件、5G通信电缆）",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有高分子材料、新能源、电器装备线缆、特种装备线缆、智能元器件、5G通信电缆六大专业研发团队"
+    },
+    {
+      "name": "广东省博士后创新实践基地",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "并获批设立广东省博士后创新实践基地"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.29%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 41.29%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.56%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "客户1 657,887,042.54 14.56%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "80.39%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 80.39%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "56.04%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "供应商1 2,073,357,370.03 56.04%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "铜材价格的波动将直接影响公司的产品成本、毛利水平及营运资金。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、原材料价格波动的风险 公司铜材成本占产品成本的比例较高。铜材价格的波动将直接影响公司的产品成本。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争日益激烈，如公司不能持续推出高附加值新产品，将面临经营业绩难以实现增长的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争风险 从线缆行业整体来看...市场竞争日益激烈...如公司不能持续增加对业务和资源的投入，不能及时调整产品结构并不断推出高附加值的新产品...将面临因市场竞争加剧导致经营业绩存在难以实现增长的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济、行业或客户经营变化可能导致应收账款无法收回，产生坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、应收账款无法收回的风险 未来若宏观经济环境、行业状况、客户经营情况等因素发生重大不利变化，公司应收账款可能出现不能按时收回，产生坏账的风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "相关税收优惠政策变动或公司不再满足条件，将导致税负上升，影响经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、税收优惠政策变动风险...如果未来国家或地方关于上述相关税收优惠政策发生变化，或公司不再满足相关法律法规规定的税收优惠政策条件，则将导致公司税负上升，对公司经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "出口销售以美元等外币结算，汇率波动对公司财务状况和经营业绩产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、汇率波动风险 公司出口销售主要以美元等外币结算，结算货币与人民币之间的汇率可能随着国内外政治、经济环境的变化而波动，使得公司面临汇率变动的风险。"
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "company_name_mentioned": "润建股份有限公司",
+  "produces": [
+    {
+      "name": "算力中心管理运维服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "为算力中心及IDC提供全生命周期一站式服务...提供全栈式的算力运维服务，包括咨询设计、建设、运维、节能改造、优化、运营以及算力调优、调度等服务"
+    },
+    {
+      "name": "智算云服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "五象云谷智算中心打造符合国标A级、国际T3级设计标准、满足国家绿色数据中心标准的标杆人工智能产业园区...采购高性能算力服务器，打造润建股份智能算力中心，采取Token、卡时等灵活计费模式"
+    },
+    {
+      "name": "数据服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "可为客户提供一体化的AI模型及数据服务，包括数据治理、训练、调优、算法工具箱等"
+    },
+    {
+      "name": "“曲尺”人工智能开放平台",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "“曲尺”平台是公司开发的一款生成式人工智能行业模型开发平台...专注于训练视觉、语音、文本的人工智能算法，并引入大模型（LLM）和智能体（AIagent）能力"
+    },
+    {
+      "name": "通信网络管维服务",
+      "type": "service",
+      "revenue_proportion": "42.94%",
+      "quote": "公司是通信网络管维领域规模最大的民营企业...为运营商、中国铁塔等客户提供全生命周期一体化管维服务...通信网络业务收入44.43亿元，占营业收入比重42.94%"
+    },
+    {
+      "name": "数字网络业务（数字化解决方案、数据服务、“曲尺”平台）",
+      "type": "service",
+      "revenue_proportion": "19.04%",
+      "quote": "以“曲尺”人工智能开放平台为底座，打造多个专精特新行业模型和标杆应用...数字网络业务收入19.71亿元，占营业收入比重19.04%"
+    },
+    {
+      "name": "能源网络业务（能源设计、基建、运维、安全与能效提升、增值服务）",
+      "type": "service",
+      "revenue_proportion": "30.09%",
+      "quote": "全面布局能源网络，打造“发电-输电-配电-储能-用电-云服务”全流程、全专业的技术服务能力...能源网络业务收入31.14亿元，占营业收入比重30.09%"
+    },
+    {
+      "name": "算力网络业务",
+      "type": "service",
+      "revenue_proportion": "7.83%",
+      "quote": "算力网络业务取得快速增长...算力网络业务收入8.10亿元，占营业收入比重7.83%"
+    },
+    {
+      "name": "零碳智慧园区",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "零碳智慧园区以智能化为基础、以数据为纽带、以运营为核心、以管理为载体进行打造"
+    },
+    {
+      "name": "社会综合治理平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "为公安、交警、城管等搭建智慧街面巡防系统、社会治安实战融合平台、城市管理一体化平台等智慧管控数字化产品"
+    },
+    {
+      "name": "教育数字化产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司利用大数据、人工智能、OCR识别等高新技术，给教育行业提供信息化环境下创新教育教学辅助工具"
+    },
+    {
+      "name": "RunDoBidder虚拟电厂",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司RunDoBidder虚拟电厂基于新型电力系统建设要求...聚合用户侧分布式电源、可调节负荷、储能等分散资源"
+    },
+    {
+      "name": "综合能源管理服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "为客户的算力中心、通信机房、基站等提供加装光伏、能耗监控、节能改造、储能应用、智能运维等多场景多业务需求下的综合能源管理解决方案"
+    },
+    {
+      "name": "充电站建维一体化服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "累计参与建设充电站超过1000座，运维充电桩超过50000台"
+    }
+  ],
+  "procures": [
+    {
+      "name": "高性能算力服务器",
+      "target_product": "智算云服务/智能算力中心",
+      "cost_proportion": null,
+      "quote": "采购高性能算力服务器，打造润建股份智能算力中心"
+    },
+    {
+      "name": "职工薪酬",
+      "target_product": "管理和运维业务",
+      "cost_proportion": "8.22%",
+      "quote": "营业成本构成：职工薪酬 745,635,542.68元，占营业成本比重8.22%"
+    },
+    {
+      "name": "外协费用",
+      "target_product": "管理和运维业务",
+      "cost_proportion": "45.63%",
+      "quote": "营业成本构成：外协费用 4,140,394,868.10元，占营业成本比重45.63%"
+    },
+    {
+      "name": "技术服务费",
+      "target_product": "管理和运维业务",
+      "cost_proportion": "18.58%",
+      "quote": "营业成本构成：技术服务费 1,685,952,733.70元，占营业成本比重18.58%"
+    },
+    {
+      "name": "材料费",
+      "target_product": "管理和运维业务",
+      "cost_proportion": "23.54%",
+      "quote": "营业成本构成：材料费 2,136,353,312.54元，占营业成本比重23.54%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "通信网络（5G基站、核心网、传输网、接入网等）",
+      "source_product": "通信网络管维服务、曲尺通信运维大模型",
+      "quote": "赋能通信网络、数字网络、能源网络等业务领域...为运营商、中国铁塔等客户提供全生命周期一体化管维服务，覆盖5G基站、核心网、传输网、接入网等通信基础设施"
+    },
+    {
+      "name": "算力中心/IDC",
+      "source_product": "算力中心管理运维服务、智算云服务",
+      "quote": "为算力中心及IDC提供全生命周期一站式服务...五象云谷智算中心打造...人工智能产业园区"
+    },
+    {
+      "name": "AI大模型训练与推理",
+      "source_product": "智算云服务、数据服务、曲尺平台",
+      "quote": "建成后主要提供AI大模型训练、推理算力、图形渲染算力服务，服务于人工智能大模型、行业模型等"
+    },
+    {
+      "name": "数字乡村/乡村振兴",
+      "source_product": "数字网络业务",
+      "quote": "为全面赋能数字乡村建设，提升数字乡村综合服务管理水平"
+    },
+    {
+      "name": "智慧园区/社区",
+      "source_product": "零碳智慧园区",
+      "quote": "零碳智慧园区以智能化为基础...支撑园区科学、准确、及时决策"
+    },
+    {
+      "name": "社会治安/城市管理",
+      "source_product": "社会综合治理平台",
+      "quote": "为公安、交警、城管等搭建智慧街面巡防系统、社会治安实战融合平台"
+    },
+    {
+      "name": "教育数字化",
+      "source_product": "教育数字化产品",
+      "quote": "给教育行业提供信息化环境下创新教育教学辅助工具...帮助学校实现轻松备课、精准教学"
+    },
+    {
+      "name": "新能源电站（光伏、风力、储能）",
+      "source_product": "能源网络业务",
+      "quote": "为新能源发电站（光伏、风力、储能等）提供从前期开发到建设、运维的全生命周期服务"
+    },
+    {
+      "name": "电网智能化监测巡检",
+      "source_product": "能源网络业务",
+      "quote": "拓展无人机巡检、电网地质灾害监测、变电站智能监测、刀闸闭合视频AI监测等业务"
+    },
+    {
+      "name": "电力市场交易（虚拟电厂）",
+      "source_product": "RunDoBidder虚拟电厂",
+      "quote": "协助电力市场新型经营主体参与需求响应、辅助服务和电能量交易"
+    },
+    {
+      "name": "通信基站/机房/数据中心综合能源管理",
+      "source_product": "综合能源管理服务",
+      "quote": "为客户的算力中心、通信机房、基站等提供...综合能源管理解决方案"
+    },
+    {
+      "name": "东盟地区数字化基础设施",
+      "source_product": "海外业务（通信网络、数字网络、能源网络）",
+      "quote": "公司在东盟地区持续创新并拓展端到端能力，积极参与东盟数字化基础设施建设"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "许文杰",
+      "role": "公司负责人、副董事长、总经理",
+      "quote": "公司负责人许文杰、主管会计工作负责人黄宇及会计机构负责人（会计主管人员）王念梅声明：保证本年度报告中财务报告的真实、准确、完整"
+    },
+    {
+      "name": "黄宇",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人许文杰、主管会计工作负责人黄宇及会计机构负责人（会计主管人员）王念梅声明"
+    },
+    {
+      "name": "王念梅",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人许文杰、主管会计工作负责人黄宇及会计机构负责人（会计主管人员）王念梅声明"
+    },
+    {
+      "name": "李建国",
+      "role": "董事长",
+      "quote": "公司法定代表人许文杰；李建国先生：公司董事长"
+    },
+    {
+      "name": "梁姬",
+      "role": "董事、副总经理",
+      "quote": "梁姬女士：公司董事、副总经理"
+    },
+    {
+      "name": "罗剑涛",
+      "role": "董事、董事会秘书",
+      "quote": "董事会秘书：罗剑涛"
+    },
+    {
+      "name": "周冠宇",
+      "role": "董事、副总经理",
+      "quote": "周冠宇先生：公司董事、副总经理"
+    },
+    {
+      "name": "方培豪",
+      "role": "董事",
+      "quote": "方培豪先生：公司董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国移动通信集团有限公司",
+      "relation_type": "customer",
+      "business_details": "主要客户，通信网络管维业务",
+      "quote": "中国移动及其下属分、子公司是公司主要的客户"
+    },
+    {
+      "name": "中国电信集团有限公司",
+      "relation_type": "customer",
+      "business_details": "通信网络管维业务",
+      "quote": "释义：中国电信 指 中国电信集团有限公司"
+    },
+    {
+      "name": "中国联合网络通信集团有限公司",
+      "relation_type": "customer",
+      "business_details": "通信网络管维业务",
+      "quote": "释义：中国联通 指 中国联合网络通信集团有限公司"
+    },
+    {
+      "name": "中国铁塔股份有限公司",
+      "relation_type": "customer",
+      "business_details": "通信网络管维业务，五星级的服务商",
+      "quote": "中国铁塔 指 中国铁塔股份有限公司；公司是...中国铁塔五星级的服务商"
+    },
+    {
+      "name": "中国广播电视网络集团有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "中国广电 指 中国广播电视网络集团有限公司"
+    },
+    {
+      "name": "中国南方电网有限责任公司",
+      "relation_type": "customer",
+      "business_details": "能源网络业务",
+      "quote": "南方电网 指 中国南方电网有限责任公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "能源网络业务",
+      "quote": "国家电网 指 国家电网有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "通信网络业务",
+      "segment_type": "product_line",
+      "revenue_amount": "4,443,909,760.69元",
+      "revenue_proportion": "42.94%",
+      "gross_margin": "16.87%",
+      "yoy_change": "营业收入同比下降2.76%，营业成本同比上升0.22%",
+      "quote": "分产品：通信网络业务收入44.44亿元，占营业收入比重42.94%，毛利率16.87%，营业收入比上年同期增减-2.76%，营业成本比上年同期增减0.22%，毛利率比上年同期增减-2.48%"
+    },
+    {
+      "name": "能源网络业务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,114,062,660.56元",
+      "revenue_proportion": "30.09%",
+      "gross_margin": "10.48%",
+      "yoy_change": "营业收入同比增长88.27%，营业成本同比增长97.25%",
+      "quote": "分产品：能源网络业务收入31.14亿元，占营业收入比重30.09%，毛利率10.48%，营业收入比上年同期增减88.27%，营业成本比上年同期增减97.25%，毛利率比上年同期增减-4.08%"
+    },
+    {
+      "name": "数字网络业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,970,509,571.98元",
+      "revenue_proportion": "19.04%",
+      "gross_margin": "7.12%",
+      "yoy_change": "营业收入同比下降19.40%，营业成本同比下降15.31%",
+      "quote": "分产品：数字网络业务收入19.71亿元，占营业收入比重19.04%，毛利率7.12%，营业收入比上年同期增减-19.40%，营业成本比上年同期增减-15.31%，毛利率比上年同期增减-4.49%"
+    },
+    {
+      "name": "算力网络业务",
+      "segment_type": "product_line",
+      "revenue_amount": "810,084,330.65元",
+      "revenue_proportion": "7.83%",
+      "gross_margin": null,
+      "yoy_change": "营业收入同比增长53.24%",
+      "quote": "分产品：算力网络业务收入8.10亿元，占营业收入比重7.83%，营业收入比上年同期增减53.24%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "4,159,707,267.55元",
+      "revenue_proportion": "40.20%",
+      "gross_margin": "10.52%",
+      "yoy_change": "营业收入同比增长8.73%，营业成本同比增长14.51%",
+      "quote": "分地区：华南地区收入41.60亿元，占营业收入比重40.20%，毛利率10.52%，营业收入比上年同期增减8.73%，营业成本比上年同期增减14.51%，毛利率比上年同期增减-4.49%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "1,621,128,735.95元",
+      "revenue_proportion": "15.66%",
+      "gross_margin": "12.52%",
+      "yoy_change": "营业收入同比增长27.89%，营业成本同比增长12.04%",
+      "quote": "分地区：华北地区收入16.21亿元，占营业收入比重15.66%，毛利率12.52%，营业收入比上年同期增减27.89%，营业成本比上年同期增减12.04%，毛利率比上年同期增减-2.34%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,580,745,697.58元",
+      "revenue_proportion": "15.27%",
+      "gross_margin": "9.88%",
+      "yoy_change": "营业收入同比增长6.33%，营业成本同比增长31.67%",
+      "quote": "分地区：华东地区收入15.81亿元，占营业收入比重15.27%，毛利率9.88%，营业收入比上年同期增减6.33%，营业成本比上年同期增减31.67%，毛利率比上年同期增减-4.77%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,374,276,930.27元",
+      "revenue_proportion": "13.28%",
+      "gross_margin": "16.46%",
+      "yoy_change": "营业收入同比增长20.04%，营业成本同比下降9.30%",
+      "quote": "分地区：西南地区收入13.74亿元，占营业收入比重13.28%，毛利率16.46%，营业收入比上年同期增减20.04%，营业成本比上年同期增减-9.30%，毛利率比上年同期增减1.60%"
+    },
+    {
+      "name": "管理和运维业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "10,338,566,323.88元",
+      "revenue_proportion": "99.90%",
+      "gross_margin": "12.23%",
+      "yoy_change": "营业收入同比增长12.41%，营业成本同比增长16.99%",
+      "quote": "分行业：管理和运维业务收入103.39亿元，占营业收入比重99.90%，毛利率12.23%，营业收入比上年同期增减12.41%，营业成本比上年同期增减16.99%，毛利率比上年同期增减-3.44%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "10,348,910,493.99元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "12.23%",
+      "yoy_change": "营业收入同比增长12.50%，营业成本同比增长16.99%",
+      "quote": "分销售模式：直接销售收入103.49亿元，占营业收入比重100.00%，毛利率12.23%，营业收入比上年同期增减12.50%，营业成本比上年同期增减16.99%，毛利率比上年同期增减-3.44%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "新能源电站（光伏、风力、储能）",
+      "metric_type": "capacity",
+      "value": "服务和储备的风力、光伏、储能项目装机总容量超过38GW",
+      "period": "2025年",
+      "quote": "公司服务和储备的风力、光伏、储能项目装机总容量超过38GW"
+    },
+    {
+      "product": "虚拟电厂（柔性资源）",
+      "metric_type": "capacity",
+      "value": "柔性资源最大可调能力达247MW",
+      "period": "报告期",
+      "quote": "累计接入站点250个，柔性资源最大可调能力达247MW"
+    },
+    {
+      "product": "虚拟电厂（交易电量）",
+      "metric_type": "sales_volume",
+      "value": "累计交易运营电量超60亿kWh",
+      "period": "报告期",
+      "quote": "累计交易运营电量超60亿kWh"
+    },
+    {
+      "product": "充电站/充电桩",
+      "metric_type": "production_volume",
+      "value": "累计参与建设充电站超过1000座，运维充电桩超过50000台",
+      "period": "报告期",
+      "quote": "累计参与建设充电站超过1000座，运维充电桩超过50000台"
+    },
+    {
+      "product": "能源巡检作业",
+      "metric_type": "other",
+      "value": "能源行业累计巡检里程已超过45万公里，新能源巡检作业规模突破1.7GW",
+      "period": "报告期",
+      "quote": "能源行业累计巡检里程已超过45万公里，新能源巡检作业规模突破1.7GW"
+    },
+    {
+      "product": "综合能源业务项目",
+      "metric_type": "other",
+      "value": "业务已落地29个省份超过500个项目",
+      "period": "报告期",
+      "quote": "业务已落地29个省份超过500个项目"
+    },
+    {
+      "product": "虚拟电厂运营商及用户",
+      "metric_type": "other",
+      "value": "已为14家虚拟电厂运营商提供专业化平台服务，成功聚合157个电力用户",
+      "period": "报告期",
+      "quote": "目前已为14家虚拟电厂运营商提供专业化平台服务，成功聚合157个电力用户"
+    },
+    {
+      "product": "算力中心/数据中心（海外项目）",
+      "metric_type": "other",
+      "value": "累计交付数据中心或算力中心项目约30个",
+      "period": "报告期",
+      "quote": "累计交付数据中心或算力中心项目约30个"
+    },
+    {
+      "product": "五象云谷智算中心",
+      "metric_type": "capacity",
+      "value": "截至目前为止广西最高等级、最大规模的智算中心",
+      "period": "2025年",
+      "quote": "五象云谷智算中心打造...是截至目前为止广西最高等级、最大规模的智算中心"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "五象云谷智算中心项目",
+      "project_type": "fundraising_project",
+      "location": "广西",
+      "investment_amount": "10.9亿元（募集资金）",
+      "designed_capacity": "6000个机柜（2022年安装2000个，后续4000个根据需求逐步安装）",
+      "progress": "已达到预定可使用状态，项目已结项",
+      "expected_completion_time": null,
+      "quote": "公司公开发行A股可转换公司债券募集资金人民币10.9亿元用于建设五象云谷智算中心项目...公司审慎决定对募投项目进行部分延期...五象云谷云计算中心”已达到预定可使用状态，同意将该募投项目予以结项"
+    },
+    {
+      "name": "润建股份智能算力中心项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已使用自筹资金投入建设",
+      "expected_completion_time": null,
+      "quote": "在五象云谷智算中心项目基础上，公司加大投入升级算力服务，采购高性能算力服务器，打造润建股份智能算力中心...公司已使用自筹资金投入建设润建股份智能算力中心"
+    },
+    {
+      "name": "五象云谷二期",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "开始规划建设工作",
+      "expected_completion_time": null,
+      "quote": "开始五象云谷二期规划建设工作"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“曲尺”人工智能开放平台",
+      "asset_type": "technical_platform",
+      "related_product": "数字网络业务、数据服务、AI赋能各业务",
+      "quantitative_info": null,
+      "quote": "“曲尺”平台是公司开发的一款生成式人工智能行业模型开发平台...引入大语言模型能力，专注于生成各种视觉、语音和文本领域的智能算法"
+    },
+    {
+      "name": "专利、软件著作权等知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "超过1,000项",
+      "quote": "目前已获得专利、软著等知识产权超过1,000项"
+    },
+    {
+      "name": "曲尺通信运维大模型",
+      "asset_type": "core_technology",
+      "related_product": "通信网络管维服务",
+      "quantitative_info": "已通过国家网信办备案",
+      "quote": "公司“曲尺通信运维大模型”已经过国家网信办备案"
+    },
+    {
+      "name": "一体化智能运维管理平台",
+      "asset_type": "software_copyright",
+      "related_product": "算力中心管理运维服务",
+      "quantitative_info": null,
+      "quote": "公司设立智能运维联合创新中心，研发了一体化智能运维管理平台"
+    },
+    {
+      "name": "RunDoBidder虚拟电厂技术",
+      "asset_type": "process_technology",
+      "related_product": "虚拟电厂业务",
+      "quantitative_info": null,
+      "quote": "公司RunDoBidder虚拟电厂基于新型电力系统建设要求，采用云平台+物联网+边缘智能终端系统架构"
+    },
+    {
+      "name": "WEBGPU适配框架",
+      "asset_type": "core_technology",
+      "related_product": "软硬一体的算法交付",
+      "quantitative_info": null,
+      "quote": "依托自行研发的WEBGPU适配框架，平台生产的算法支持国内外主流的移动端芯片"
+    },
+    {
+      "name": "大语言模型（LLM）与新能源专业知识图谱（KG）混合架构",
+      "asset_type": "core_technology",
+      "related_product": "新能源数字专家",
+      "quantitative_info": null,
+      "quote": "融合多模态大语言模型（LLM）与新能源专业知识图谱（KG）"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "57.80%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 57.80%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "30.09%",
+      "related_entity": "中国移动（推断）",
+      "period": "2025年",
+      "quote": "公司前5大客户资料：序号1 销售额3,113,992,328.49元，占年度销售总额比例30.09%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "19.41%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 19.41%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "对大客户依赖的风险",
+      "related_entity": "中国移动及其下属分、子公司",
+      "period": null,
+      "quote": "中国移动及其下属分、子公司是公司主要的客户...主要客户的经营策略、服务商准入条件、盈利水平等情况发生重大不利变化，都有可能对包括公司在内的通信网络管维企业造成不利影响"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司业务涉及通信、能源、信息等多个专业，企业众多，竞争激烈，存在因行业竞争激烈影响公司盈利水平的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要存在市场竞争的风险..."
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "中国移动及其下属分、子公司是公司主要的客户，主要客户的经营策略、服务商准入条件、盈利水平等情况发生重大不利变化，都有可能对包括公司在内的通信网络管维企业造成不利影响。",
+      "related_entity": "中国移动",
+      "related_product": "通信网络管维服务",
+      "quote": "公司主要存在...对大客户依赖的风险..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司业务种类多、服务范围遍布全国，对经营决策、业务实施、人力资源管理、风险控制等方面的管理要求越来越高。公司若不能进一步提高管理水平，统筹人员和业务规模，将可能面临快速发展带来的管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要存在...公司快速发展带来的管理风险..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司业务涉及通信、能源、信息等多个专业，各个专业的技术和产品不断升级，公司原有技术和产品也存在更新的需要，如果公司的技术和产品没有跟上专业技术的发展，无法保持适用性和先进性，则影响公司的市场竞争能力和盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要存在...技术和产品更新的风险..."
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司在开展各类并购时会形成商誉，随着公司并购项目的不断增多，因并购形成的商誉存在计提减值的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要存在...商誉减值风险造成的风险..."
+    }
+  ]
+}

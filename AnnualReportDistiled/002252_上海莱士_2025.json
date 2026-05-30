@@ -1,0 +1,477 @@
+{
+  "company_name_mentioned": "上海莱士血液制品股份有限公司",
+  "produces": [
+    {
+      "name": "人血白蛋白",
+      "type": "device",
+      "revenue_proportion": "自产白蛋白收入1,271,479,949.85元，占比17.30%；进口白蛋白收入3,255,511,977.50元，占比44.30%",
+      "quote": "公司的主营业务为生产和销售血液制品，主要产品为人血白蛋白、静注人免疫球蛋白、特异性免疫球蛋白、凝血因子类产品等...自产白蛋白 1,271,479,949.85 17.30%...进口白蛋白 3,255,511,977.50 44.30%"
+    },
+    {
+      "name": "静注人免疫球蛋白（pH4）",
+      "type": "device",
+      "revenue_proportion": "收入1,491,135,961.19元，占比20.29%",
+      "quote": "静丙 1,491,135,961.19 20.29%"
+    },
+    {
+      "name": "其他血液制品（含人凝血酶原复合物、人凝血因子Ⅷ、人凝血酶、人纤维蛋白原、人纤维蛋白粘合剂等）",
+      "type": "device",
+      "revenue_proportion": "收入1,233,779,558.92元，占比16.79%",
+      "quote": "其他血液制品 1,233,779,558.92 16.79%"
+    },
+    {
+      "name": "检测设备及试剂（血液筛查系统、血液筛查检测试剂及血液筛查试剂盒）",
+      "type": "device",
+      "revenue_proportion": "收入87,842,819.14元，占比1.20%",
+      "quote": "检测设备及试剂 87,842,819.14 1.20%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "健康人血浆",
+      "target_product": "血液制品",
+      "cost_proportion": null,
+      "quote": "血液制品的主要原料为健康人血浆，单采血浆站作为血液制品生产企业生产原料的专门供应机构，由血液制品生产企业设置和管理，与血液制品企业建立“一对一”的供浆关系。"
+    },
+    {
+      "name": "药用原辅料、药用包材等",
+      "target_product": "血液制品生产",
+      "cost_proportion": null,
+      "quote": "其他生产所需原料，如药用原辅料、药用包材等，采用与合格供应商建立长期稳定的战略合作关系，签署年度合同或战略合作框架协议等多种采购模式..."
+    },
+    {
+      "name": "进口人血白蛋白（代理采购）",
+      "target_product": "在中国大陆地区销售",
+      "cost_proportion": null,
+      "quote": "公司通过下属全资公司同路医药，获得关联方基立福控股子公司基立福全球及GDS授权，作为人血白蛋白产品以及血液筛查系统、血液筛查检测试剂及血液筛查试剂盒产品在中国大陆地区的独家经销商..."
+    },
+    {
+      "name": "血液筛查系统、检测试剂及试剂盒（代理采购）",
+      "target_product": "在中国大陆地区销售",
+      "cost_proportion": null,
+      "quote": "同上"
+    }
+  ],
+  "applications": [
+    {
+      "name": "失血创伤、烧伤引起的休克；脑水肿及损伤引起的颅内压升高；肝硬化及肾病引起的水肿或腹水；低蛋白血症的防治；新生儿高胆红素血症；用于心肺分流术、烧伤的辅助治疗、血液透析的辅助治疗和成人呼吸窘迫综合征",
+      "source_product": "人血白蛋白",
+      "quote": "1、人血白蛋白：失血创伤、烧伤引起的休克；脑水肿及损伤引起的颅内压升高；肝硬化及肾病引起的水肿或腹水；低蛋白血症的防治；新生儿高胆红素血症；用于心肺分流术、烧伤的辅助治疗、血液透析的辅助治疗和成人呼吸窘迫综合征。"
+    },
+    {
+      "name": "原发性免疫球蛋白缺乏症；继发性免疫球蛋白缺乏症；自身免疫性疾病",
+      "source_product": "静注人免疫球蛋白",
+      "quote": "2、静注人免疫球蛋白：原发性免疫球蛋白缺乏症，如X联锁低免疫球蛋白血症...继发性免疫球蛋白缺乏症...自身免疫性疾病..."
+    },
+    {
+      "name": "治疗先天性和获得性凝血因子Ⅱ、Ⅶ、Ⅸ、Ⅹ缺乏症...抗凝剂过量、维生素K缺乏症；因肝病导致的凝血机制紊乱...",
+      "source_product": "人凝血酶原复合物",
+      "quote": "3、人凝血酶原复合物：主要用于治疗先天性和获得性凝血因子Ⅱ、Ⅶ、Ⅸ、Ⅹ缺乏症包括...抗凝剂过量、维生素K缺乏症；因肝病导致的凝血机制紊乱..."
+    },
+    {
+      "name": "防治甲型血友病和获得性凝血因子Ⅷ缺乏而致的出血症状及这类病人的手术出血治疗",
+      "source_product": "人凝血因子Ⅷ",
+      "quote": "4、人凝血因子Ⅷ：...主要用于防治甲型血友病和获得性凝血因子Ⅷ缺乏而致的出血症状及这类病人的手术出血治疗。"
+    },
+    {
+      "name": "辅助用于处理普通外科腹部切口，肝脏手术创面和扁桃腺手术创面的渗血",
+      "source_product": "人凝血酶",
+      "quote": "5、人凝血酶：局部止血药。辅助用于处理普通外科腹部切口，肝脏手术创面和扁桃腺手术创面的渗血。"
+    },
+    {
+      "name": "先天性纤维蛋白原减少或缺乏症；获得性纤维蛋白原减少症",
+      "source_product": "人纤维蛋白原",
+      "quote": "6、人纤维蛋白原：...适用于先天性纤维蛋白原减少或缺乏症；获得性纤维蛋白原减少症：肝硬化、弥散性血管内凝血、产后大出血和因大手术、外伤或内出血等引起的纤维蛋白原缺乏而造成的凝血障碍。"
+    },
+    {
+      "name": "辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血",
+      "source_product": "人纤维蛋白粘合剂",
+      "quote": "7、人纤维蛋白粘合剂：局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谭丽霞",
+      "role": "董事长",
+      "quote": "公司负责人 Jun Xu（徐俊）先生、主管会计工作负责人陈乐奇先生及会计机构负责人（会计主管人员）赵曦女士声明...谭丽霞 女 56 董事长 现任 2024年07月30日 至今"
+    },
+    {
+      "name": "JunXu（徐俊）",
+      "role": "副董事长、总经理",
+      "quote": "JunXu 男 62 副董事长 现任 2024年07月30日 至今...总经理 现任 2022年10月19日 至今"
+    },
+    {
+      "name": "陈乐奇",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人陈乐奇先生"
+    },
+    {
+      "name": "赵曦",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）赵曦女士"
+    },
+    {
+      "name": "刘峥",
+      "role": "副总经理、董事会秘书",
+      "quote": "刘峥 男 56 副总经理 现任 2004年06月 至今...董事会秘书 现任 2007年04月06日 至今"
+    },
+    {
+      "name": "沈积慧",
+      "role": "副总经理",
+      "quote": "沈积慧 男 60 副总经理 现任 2004年05月 至今"
+    },
+    {
+      "name": "陆晖",
+      "role": "副总经理",
+      "quote": "陆晖 男 51 副总经理 现任 2013年03月26日 至今"
+    },
+    {
+      "name": "宋正敏",
+      "role": "副总经理",
+      "quote": "宋正敏 女 58 副总经理 现任 2020年05月21日 至今"
+    },
+    {
+      "name": "黄勤兵",
+      "role": "副总经理",
+      "quote": "黄勤兵 男 49 副总经理 现任 2024年07月30日 至今"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "Grifols,S.A.（基立福）",
+      "relation_type": "investor",
+      "business_details": "基立福是公司股东（持股比例6.58%），并将其表决权委托给控股股东海盈康行使；同时是公司第一大供应商（进口白蛋白独家代理商）和关联方。",
+      "quote": "海尔集团 指 海尔集团公司（2024年7月30日成为公司实际控制人）...基立福 指 Grifols,S.A....公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 GrifolsWorldwideOperationsLimited（基立福） 2,963,382,040.32 58.32%"
+    },
+    {
+      "name": "海盈康（青岛）医疗科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股股东，持股比例23.31%。",
+      "quote": "海盈康 指 海盈康（青岛）医疗科技有限公司（2024年7月30日成为公司控股股东）"
+    },
+    {
+      "name": "海尔集团公司",
+      "relation_type": "investor",
+      "business_details": "公司实际控制人，通过海盈康间接控制公司29.90%的表决权。",
+      "quote": "海尔集团 指 海尔集团公司（2024年7月30日成为公司实际控制人）"
+    },
+    {
+      "name": "GrifolsWorldwideOperationsLimited（基立福全球）",
+      "relation_type": "supplier",
+      "business_details": "公司第一大供应商，为公司提供进口人血白蛋白产品。",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 GrifolsWorldwideOperationsLimited（基立福） 2,963,382,040.32 58.32%"
+    },
+    {
+      "name": "GrifolsDiagnosticSolutionsInc.（GDS）",
+      "relation_type": "supplier",
+      "business_details": "公司供应商（采购血液筛查等产品），同时是公司的联营公司（持股45%）。",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 2 GrifolsDiagnosticSolutionsLnc. 103,054,821.94 2.03%"
+    },
+    {
+      "name": "海尔血液技术重庆有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司第三大供应商，为关联方。",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 3 海尔血液技术重庆有限公司 45,190,048.00 0.89%"
+    },
+    {
+      "name": "郑州莱士血液制品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事血液制品生产与销售。",
+      "quote": "郑州莱士 指 郑州莱士血液制品有限公司"
+    },
+    {
+      "name": "同路生物制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事血液制品生产与销售。",
+      "quote": "同路生物 指 同路生物制药有限公司"
+    },
+    {
+      "name": "广西莱士生物制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事血液制品生产与销售。",
+      "quote": "广西莱士 指 广西莱士生物制药有限公司"
+    },
+    {
+      "name": "浙江海康生物制品有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事血液制品生产与销售。",
+      "quote": "浙江海康 指 浙江海康生物制品有限责任公司"
+    },
+    {
+      "name": "安徽同路医药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，负责进口产品及血筛产品的独家经销业务。",
+      "quote": "同路医药 指 安徽同路医药有限公司"
+    },
+    {
+      "name": "南岳生物制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司于2025年6月完成收购的全资子公司，从事血液制品生产与销售。",
+      "quote": "南岳生物 指 南岳生物制药有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "血液制品生产及销售",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,251,907,447.46",
+      "revenue_proportion": "98.69%",
+      "gross_margin": "37.47%",
+      "yoy_change": "-9.94%",
+      "quote": "分行业 血液制品生产及销售 7,251,907,447.46 98.69% 8,052,459,365.49 98.48% -9.94%"
+    },
+    {
+      "name": "自产白蛋白",
+      "segment_type": "product_line",
+      "revenue_amount": "1,271,479,949.85",
+      "revenue_proportion": "17.30%",
+      "gross_margin": "37.99%",
+      "yoy_change": "-14.90%",
+      "quote": "分产品 自产白蛋白 1,271,479,949.85 17.30% 1,494,060,050.48 18.27% -14.90%"
+    },
+    {
+      "name": "进口白蛋白",
+      "segment_type": "product_line",
+      "revenue_amount": "3,255,511,977.50",
+      "revenue_proportion": "44.30%",
+      "gross_margin": "15.07%",
+      "yoy_change": "-10.23%",
+      "quote": "进口白蛋白 3,255,511,977.50 44.30% 3,626,557,503.89 44.35% -10.23%"
+    },
+    {
+      "name": "静丙",
+      "segment_type": "product_line",
+      "revenue_amount": "1,491,135,961.19",
+      "revenue_proportion": "20.29%",
+      "gross_margin": "54.33%",
+      "yoy_change": "-12.22%",
+      "quote": "静丙 1,491,135,961.19 20.29% 1,698,689,402.21 20.78% -12.22%"
+    },
+    {
+      "name": "其他血液制品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,233,779,558.92",
+      "revenue_proportion": "16.79%",
+      "gross_margin": "75.64%",
+      "yoy_change": "0.05%",
+      "quote": "其他血液制品 1,233,779,558.92 16.79% 1,233,152,408.91 15.08% 0.05%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "2,598,534,448.87",
+      "revenue_proportion": "35.36%",
+      "yoy_change": "-13.09%",
+      "quote": "分地区 华东地区 2,598,534,448.87 35.36% 2,990,001,982.78 36.57% -13.09%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,545,016,597.50",
+      "revenue_proportion": "21.03%",
+      "yoy_change": "-8.53%",
+      "quote": "华南地区 1,545,016,597.50 21.03% 1,689,171,799.46 20.66% -8.53%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "2,093,927,156.80",
+      "revenue_proportion": "28.50%",
+      "yoy_change": "-0.36%",
+      "quote": "华北地区 2,093,927,156.80 28.50% 2,101,560,504.22 25.70% -0.36%"
+    },
+    {
+      "name": "自产自销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,996,395,469.96",
+      "revenue_proportion": "54.39%",
+      "yoy_change": "-9.70%",
+      "quote": "分销售模式 自产自销 3,996,395,469.96 54.39% 4,425,901,861.60 54.13% -9.70%"
+    },
+    {
+      "name": "委托代销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,343,354,796.64",
+      "revenue_proportion": "45.50%",
+      "yoy_change": "-10.79%",
+      "quote": "委托代销 3,343,354,796.64 45.50% 3,747,712,445.02 45.84% -10.79%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "血液制品（原料血浆）",
+      "metric_type": "production_volume",
+      "value": "全年采浆量超过2,000吨",
+      "period": "2025年",
+      "quote": "报告期内，公司拓浆成果显著：全年采浆量超过2,000吨，同比增长超过8%，高于行业平均增幅"
+    },
+    {
+      "product": "血液制品",
+      "metric_type": "capacity",
+      "value": "生产基地扩增至6个，覆盖上海、郑州、合肥、温州、南宁、衡阳6大核心区域",
+      "period": "2025年末",
+      "quote": "生产基地扩增至6个，覆盖上海、郑州、合肥、温州、南宁、衡阳6大核心区域"
+    },
+    {
+      "product": "血液制品",
+      "metric_type": "capacity_utilization",
+      "value": "广西区域...单吨利用率居行业前列",
+      "period": "2025年",
+      "quote": "广西区域...单吨利用率居行业前列"
+    },
+    {
+      "product": "血液制品",
+      "metric_type": "other",
+      "value": "浆站数量增长至55家（含分站），位列行业前三",
+      "period": "2025年末",
+      "quote": "浆站数量增长至55家（含分站），位列行业前三"
+    },
+    {
+      "product": "血液制品",
+      "metric_type": "other",
+      "value": "销售量 25,134,543瓶",
+      "period": "2025年",
+      "quote": "血液制品生产及销售 销售量 瓶 25,134,543"
+    },
+    {
+      "product": "血液制品",
+      "metric_type": "other",
+      "value": "生产及进口量 28,357,883瓶",
+      "period": "2025年",
+      "quote": "生产及进口量 瓶 28,357,883"
+    },
+    {
+      "product": "血液制品",
+      "metric_type": "inventory_volume",
+      "value": "库存量 19,482,606瓶",
+      "period": "2025年末",
+      "quote": "库存量 瓶 19,482,606"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "奉贤生产基地扩建工程",
+      "project_type": "capacity_expansion",
+      "location": "上海",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已于2025年11月18日完成结构封顶",
+      "expected_completion_time": null,
+      "quote": "同时，公司奉贤生产基地扩建工程项目推进顺利，已于2025年11月18日完成结构封顶，为后续采浆量转化、产能释放奠定坚实基础"
+    },
+    {
+      "name": "收购南岳生物制药有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": "湖南",
+      "investment_amount": "42亿元（基础对价）",
+      "designed_capacity": null,
+      "progress": "2025年6月成功完成交割，已成为公司全资子公司",
+      "expected_completion_time": "已完成",
+      "quote": "2025年6月成功完成南岳生物100%股权交割...公司拟以支付现金的方式收购南岳生物制药有限公司100%股权。本次交易基础对价对应标的公司100%股权作价42亿元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "SR604注射液（活化蛋白C单抗）",
+      "asset_type": "core_technology",
+      "related_product": "创新药",
+      "quantitative_info": "全球首个针对活化蛋白C的血友病单抗产品，研发进展顺利，血友病适应症已进入Ⅱb期（多次给药）临床试验阶段",
+      "quote": "SR604注射液”作为全球首个针对活化蛋白C的血友病单抗产品，研发进展顺利，血友病适应症已进入Ⅱb期（多次给药）临床试验阶段"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "血液制品及创新药",
+      "quantitative_info": "新获授权专利11项，其中发明专利3项（中国2项、美国1项），实用新型专利8项",
+      "quote": "报告期内，公司新获授权专利11项，其中发明专利3项（中国2项、美国1项），实用新型专利8项"
+    },
+    {
+      "name": "MES（制造执行系统）",
+      "asset_type": "other",
+      "related_product": "生产管理",
+      "quantitative_info": "报告期内，公司推动集团5家子公司同步上线MES系统",
+      "quote": "报告期内，公司推动集团5家子公司同步上线MES系统，力争实现原料血浆接收、投料、分离、纯化至成品出库全链条数据实时采集"
+    },
+    {
+      "name": "QMS（质量管理系统）",
+      "asset_type": "other",
+      "related_product": "质量管理",
+      "quantitative_info": "启动QMS系统集团化统一建设",
+      "quote": "报告期内，公司启动QMS系统集团化统一建设，核心亮点是搭建统一检验标准、偏差管理、不良事件追溯三大核心模块"
+    },
+    {
+      "name": "人纤维蛋白原（CFD适应症）",
+      "asset_type": "process_technology",
+      "related_product": "人纤维蛋白原",
+      "quantitative_info": "同路生物人纤维蛋白原先天性缺乏症（CFD）适应症获得《药品注册证书》",
+      "quote": "报告期内，同路生物人纤维蛋白原先天性缺乏症（CFD）适应症获得《药品注册证书》"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "22.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,643,828,946.83 前五名客户合计销售金额占年度销售总额比例 22.37%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "6.45%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户1 473,781,872.40 6.45%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "62.35%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 3,168,200,659.49 前五名供应商合计采购金额占年度采购总额比例 62.35%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "58.32%",
+      "related_entity": "GrifolsWorldwideOperationsLimited（基立福）",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 GrifolsWorldwideOperationsLimited（基立福） 2,963,382,040.32 58.32%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额占年度采购总额比例 61.24%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 61.24%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "product_quality",
+      "description": "血液制品的原料是健康人血浆，生产过程中虽然对原料血浆进行了相关病原体的筛查，并在生产工艺中加入了去除和灭活病毒的措施，但理论上仍存在传播某些已知和未知病原体的潜在风险。",
+      "related_entity": null,
+      "related_product": "血液制品",
+      "quote": "1、产品潜在的安全性风险 血液制品的原料是健康人血浆，生产过程中虽然对原料血浆进行了相关病原体的筛查，并在生产工艺中加入了去除和灭活病毒的措施，但理论上仍存在传播某些已知和未知病原体的潜在风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受外出务工收入提高及物价水平上升等因素影响，单采血浆站面临供浆员流失压力。",
+      "related_entity": null,
+      "related_product": "健康人血浆",
+      "quote": "2、血浆成本存在上升风险 受外出务工收入提高及物价水平上升等因素影响，单采血浆站面临供浆员流失压力。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司控股合并郑州莱士、同路生物、广西莱士、浙江海康及南岳生物后，在上市公司合并资产负债表中形成一定金额的商誉...如果郑州莱士、同路生物、广西莱士、浙江海康及南岳生物未来经营状况出现重大不利变化，则可能存在商誉减值的风险。",
+      "related_entity": "郑州莱士、同路生物、广西莱士、浙江海康、南岳生物",
+      "related_product": null,
+      "quote": "3、商誉减值风险 公司控股合并郑州莱士、同路生物、广西莱士、浙江海康及南岳生物后，在上市公司合并资产负债表中形成一定金额的商誉...如果郑州莱士、同路生物、广西莱士、浙江海康及南岳生物未来经营状况出现重大不利变化，则可能存在商誉减值的风险..."
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司关联交易业务涉及进口贸易，业务以美元结算为主，存在一定的汇率波动风险。",
+      "related_entity": "基立福",
+      "related_product": "进口人血白蛋白等",
+      "quote": "4、汇率风险 公司关联交易业务涉及进口贸易，业务以美元结算为主，存在一定的汇率波动风险。"
+    }
+  ]
+}

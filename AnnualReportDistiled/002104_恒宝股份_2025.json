@@ -1,0 +1,449 @@
+{
+  "company_name_mentioned": "恒宝股份有限公司",
+  "produces": [
+    {
+      "name": "票证类产品",
+      "type": "device",
+      "revenue_proportion": "1.17%",
+      "quote": "分产品 票证类 10,164,097.48 1.17%"
+    },
+    {
+      "name": "制卡类产品",
+      "type": "device",
+      "revenue_proportion": "74.77%",
+      "quote": "分产品 制卡类 647,858,224.28 74.77%"
+    },
+    {
+      "name": "模块类产品",
+      "type": "component",
+      "revenue_proportion": "23.57%",
+      "quote": "分产品 模块类 204,211,037.79 23.57%"
+    },
+    {
+      "name": "支付产品（智能卡等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能 Ukey 产品已完成主流国产化芯片及麒麟、统信等国产操作系统的适配，并结合抗量子算法发展趋势开展相关的技术预研。"
+    },
+    {
+      "name": "数字金融产品（软件平台）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司深化与国内外银行在数字化平台领域的产品及项目合作，提供即时制卡平台、DIY 自助申卡平台、订单管理平台、会员服务平台等一系列软件产品。"
+    },
+    {
+      "name": "数字发行与支付产品（码牌、云音箱等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "2025 年，公司发布了支持第三方支付和数字人民币支付、支持二维码和NFC碰一碰的码牌和云音箱系列产品，相关产品取得第三方认证，并通过多家国内外银行及持牌支付公司的产品测试，实现量产交付"
+    },
+    {
+      "name": "央行数字货币产品（发行终端、受理终端、硬件钱包等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司打造了涵盖数字人民币发行终端、受理终端、硬件钱包及管理平台的完整产品线"
+    },
+    {
+      "name": "通信连接产品（SIM卡、M2M卡、eSIM等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在通信连接产品方面，公司提供 SIM卡、M2M卡、超级 SIM卡及 eSIM产品。"
+    },
+    {
+      "name": "平台及服务（eSIM远程管理平台等）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "在平台及服务方面，公司主要面向全球运营商、物联网企业及垂直行业客户提供 eSIM 远程管理平台、连接管理后台及安全通信方案"
+    },
+    {
+      "name": "交通票务系统解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司面向城市公共交通、城际铁路、高速公路等场景，提供涵盖公交一卡通、地铁票卡、ETC 车载单元及后台清算系统的交通票务系统解决方案。"
+    },
+    {
+      "name": "政务服务及证照产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司面向政府及公共服务部门，提供政务服务大厅自助终端、政务卡发行与管理平台、电子证照库系统等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": "85.37%",
+      "quote": "营业成本 原材料 524,621,222.36 85.37%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "金融支付（银行、支付机构）",
+      "source_product": "支付产品、数字金融产品、央行数字货币产品",
+      "quote": "报告期内，公司深入贯彻2023年中央金融工作会议精神，...赋能国内及亚太中东非洲地区的银行、交通、校园、商铺、教育等客户。"
+    },
+    {
+      "name": "通信连接（运营商、物联网）",
+      "source_product": "SIM卡、M2M卡、eSIM产品、管理平台",
+      "quote": "在国内与四大通信运营商、物联网厂商及方案商建立稳定合作，在海外通过与本土制造商战略合作，拓展东南亚、南亚、非洲等市场"
+    },
+    {
+      "name": "交通出行",
+      "source_product": "交通票务系统解决方案、公交一卡通、地铁票卡、ETC",
+      "quote": "报告期内，公司面向城市公共交通、城际铁路、高速公路等场景，提供涵盖公交一卡通、地铁票卡、ETC 车载单元及后台清算系统的交通票务系统解决方案。"
+    },
+    {
+      "name": "政府公共服务（社保、政务）",
+      "source_product": "政务服务产品、居民服务“一卡通”",
+      "quote": "报告期内，公司积极响应总书记关于“探索以社会保障卡为载体建立居民服务‘一卡通’”重要指示要求，...实现了一卡通在公共服务、政务服务、交通出行、旅游观光、文化体验、医疗健康等领域的广泛应用。"
+    },
+    {
+      "name": "商业客户（零售、餐饮等）",
+      "source_product": "智能识别产品、智慧校园、智慧食堂解决方案",
+      "quote": "在金融场景领域，公司积极拓展智慧校园、智慧园区、智慧食堂、智慧养老等业务场景，发布全新产品标识恒 e 付。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "钱京",
+      "role": "董事长、总裁",
+      "quote": "公司负责人钱京、主管会计工作负责人徐霄凌及会计机构负责人（会计主管人员）刘春莲声明：... 公司法定代表人 钱京"
+    },
+    {
+      "name": "徐霄凌",
+      "role": "董事、副总裁、财务总监",
+      "quote": "主管会计工作负责人徐霄凌 女 48 董事 副总裁、财务总监"
+    },
+    {
+      "name": "陈妹妹",
+      "role": "董事、副总裁",
+      "quote": "陈妹妹女士：1986年2月出生，硕士学历。2014年4月起就职本公司...现任公司董事、副总裁。"
+    },
+    {
+      "name": "檀霞",
+      "role": "董事、通信与物联网事业部总经理",
+      "quote": "檀霞女士：1972年7月出生，大专学历。...现任公司董事、通信与物联网事业部总经理。"
+    },
+    {
+      "name": "毛伟伟",
+      "role": "董事、制造服务事业部总经理",
+      "quote": "毛伟伟先生：1982年8月出生，本科学历。...现任公司董事、制造服务事业部总经理。"
+    },
+    {
+      "name": "王坚",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 王坚"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "银联、VISA、MasterCard、American Express、JCB",
+      "relation_type": "customer",
+      "business_details": "公司与银联、VISA、MasterCard、American Express、JCB等国际支付组织保持良好的合作伙伴关系",
+      "quote": "公司是最早获得银联、VISA、MasterCard、American Express、JCB等组织认证的特许制造商之一"
+    },
+    {
+      "name": "四大通信运营商",
+      "relation_type": "customer",
+      "business_details": "在国内与四大通信运营商、物联网厂商及方案商建立稳定合作",
+      "quote": "在国内市场，公司赢得了国家十大部委等政府机关的信任，与超过百家银行及四大通信运营商建立了稳固的合作关系"
+    },
+    {
+      "name": "中国工商银行、中国建设银行等国有大行及股份制银行、城商行、农商行",
+      "relation_type": "customer",
+      "business_details": "报告期内，公司积极拓展国有大行、股份制银行、城商行、农商行及海外银行客户",
+      "quote": "公司成功中标中国工商银行全行金融IC卡集中采购项目、中国建设银行通用网银盾和共享盾采购项目。"
+    },
+    {
+      "name": "国家十大部委等政府机关",
+      "relation_type": "customer",
+      "business_details": "公司赢得了国家十大部委等政府机关的信任",
+      "quote": "在国内市场，公司赢得了国家十大部委等政府机关的信任"
+    },
+    {
+      "name": "新加坡国际 (恒宝国际有限责任公司)",
+      "relation_type": "subsidiary",
+      "business_details": "释义项：新加坡国际 指 恒宝国际有限责任公司",
+      "quote": "新加坡国际 指 恒宝国际有限责任公司"
+    },
+    {
+      "name": "智能系统 (江苏恒宝智能系统技术有限公司)",
+      "relation_type": "subsidiary",
+      "business_details": "释义项：智能系统 指 江苏恒宝智能系统技术有限公司",
+      "quote": "智能系统 指 江苏恒宝智能系统技术有限公司"
+    },
+    {
+      "name": "云宝金服 (云宝金服（北京）科技有限公司)",
+      "relation_type": "subsidiary",
+      "business_details": "释义项：云宝金服 指 云宝金服（北京）科技有限公司",
+      "quote": "云宝金服 指 云宝金服（北京）科技有限公司"
+    },
+    {
+      "name": "东方数字 (恒宝东方数字科技（北京）有限公司)",
+      "relation_type": "subsidiary",
+      "business_details": "释义项：东方数字 指 恒宝东方数字科技（北京）有限公司",
+      "quote": "东方数字 指 恒宝东方数字科技（北京）有限公司"
+    },
+    {
+      "name": "恒宝润芯 (恒宝润芯数字科技有限公司)",
+      "relation_type": "subsidiary",
+      "business_details": "释义项：恒宝润芯 指 恒宝润芯数字科技有限公司",
+      "quote": "恒宝润芯 指 恒宝润芯数字科技有限公司"
+    },
+    {
+      "name": "江苏镇江云宝科技产业发展股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内新设立子公司",
+      "quote": "本报告期公司于2025年5 月22日新设立子公司江苏镇江云宝科技产业发展股份有限公司，纳入公司合并报表范围。"
+    },
+    {
+      "name": "HENGBAO GLOBAL TECHNOLOGIES LIMITED",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内新设立子公司",
+      "quote": "本报告期公司于2025年12月17日新设立子公司HENGBAO GLOBAL TECHNOLOGIES LIMITED，纳入公司合并报表范围。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业",
+      "segment_type": "product_line",
+      "revenue_amount": "862,233,359.55元",
+      "revenue_proportion": "99.51%",
+      "gross_margin": "28.91%",
+      "yoy_change": "-3.96%",
+      "quote": "分行业 工业 862,233,359.55 99.51% 897,741,956.82 99.44% -3.96%"
+    },
+    {
+      "name": "其他业务收入",
+      "segment_type": "other",
+      "revenue_amount": "4,258,916.00元",
+      "revenue_proportion": "0.49%",
+      "gross_margin": null,
+      "yoy_change": "-15.70%",
+      "quote": "其他业务收入 4,258,916.00 0.49% 5,052,174.16 0.56% -15.70%"
+    },
+    {
+      "name": "票证类",
+      "segment_type": "product_line",
+      "revenue_amount": "10,164,097.48元",
+      "revenue_proportion": "1.17%",
+      "gross_margin": "62.49%",
+      "yoy_change": "65.17%",
+      "quote": "分产品 票证类 10,164,097.48 1.17% 6,153,877.41 0.68% 65.17%"
+    },
+    {
+      "name": "制卡类",
+      "segment_type": "product_line",
+      "revenue_amount": "647,858,224.28元",
+      "revenue_proportion": "74.77%",
+      "gross_margin": "33.98%",
+      "yoy_change": "-10.66%",
+      "quote": "分产品 制卡类 647,858,224.28 74.77% 725,199,141.94 80.33% -10.66%"
+    },
+    {
+      "name": "模块类",
+      "segment_type": "product_line",
+      "revenue_amount": "204,211,037.79元",
+      "revenue_proportion": "23.57%",
+      "gross_margin": "11.16%",
+      "yoy_change": "22.73%",
+      "quote": "分产品 模块类 204,211,037.79 23.57% 166,388,937.47 18.43% 22.73%"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "163,594,921.96元",
+      "revenue_proportion": "18.88%",
+      "gross_margin": "23.25%",
+      "yoy_change": "74.74%",
+      "quote": "分地区 境外地区 163,594,921.96 18.88% 93,624,314.33 10.37% 74.74%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "制卡类",
+      "metric_type": "sales_volume",
+      "value": "39,146 万张",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 制卡类 销售量 万张 39,146 38,881 0.68%"
+    },
+    {
+      "product": "制卡类",
+      "metric_type": "production_volume",
+      "value": "39,280 万张",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 制卡类 生产量 万张 39,280 40,179 -2.24%"
+    },
+    {
+      "product": "制卡类",
+      "metric_type": "inventory_volume",
+      "value": "11,211 万张",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 制卡类 库存量 万张 11,211 11,077 1.21%"
+    },
+    {
+      "product": "模块类",
+      "metric_type": "sales_volume",
+      "value": "46,754 万只",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 模块类 销售量 万只 46,754 53,729 -12.98%"
+    },
+    {
+      "product": "模块类",
+      "metric_type": "production_volume",
+      "value": "45,239 万只",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 模块类 生产量 万只 45,239 53,519 -15.47%"
+    },
+    {
+      "product": "模块类",
+      "metric_type": "inventory_volume",
+      "value": "6,660 万只",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 模块类 库存量 万只 6,660 8,175 -18.53%"
+    },
+    {
+      "product": "票证类",
+      "metric_type": "sales_volume",
+      "value": "1,950 万张",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 票证类 销售量 万张 1,950 2,266 -13.95%"
+    },
+    {
+      "product": "票证类",
+      "metric_type": "production_volume",
+      "value": "1,955 万张",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 票证类 生产量 万张 1,955 2,300 -15.00%"
+    },
+    {
+      "product": "票证类",
+      "metric_type": "inventory_volume",
+      "value": "185 万张",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 票证类 库存量 万张 185 180 2.78%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新加坡孙公司装修厂房",
+      "project_type": "construction_project",
+      "location": "新加坡",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "发生装修费",
+      "expected_completion_time": null,
+      "quote": "报告期末，在建工程比年初增加465.36 万元，主要是新加坡孙公司装修厂房发生的装修费影响所致。"
+    },
+    {
+      "name": "新设子公司江苏镇江云宝科技产业发展股份有限公司",
+      "project_type": "acquisition_project",
+      "location": "江苏镇江",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新设",
+      "expected_completion_time": "2025年5月22日",
+      "quote": "本报告期公司于2025年5 月22日新设立子公司江苏镇江云宝科技产业发展股份有限公司，纳入公司合并报表范围。"
+    },
+    {
+      "name": "新设子公司HENGBAO GLOBAL TECHNOLOGIES LIMITED",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新设",
+      "expected_completion_time": "2025年12月17日",
+      "quote": "本报告期公司于2025年12月17日新设立子公司HENGBAO GLOBAL TECHNOLOGIES LIMITED，纳入公司合并报表范围。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计申请665项专利",
+      "quote": "截至2025年末，公司及子公司累计申请665项专利"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "360项软件著作权",
+      "quote": "360项软件著作权"
+    },
+    {
+      "name": "参与制定标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定7项国家标准、8项行业标准、1项团体标准",
+      "quote": "参与制定7项国家标准、8项行业标准、1项团体标准"
+    },
+    {
+      "name": "国家密码管理局证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "11个产品获得国家密码管理局颁发的证书",
+      "quote": "11个产品获得国家密码管理局颁发的证书"
+    },
+    {
+      "name": "车规级智能卡设计和制造能力",
+      "asset_type": "certification",
+      "related_product": "智能卡",
+      "quantitative_info": null,
+      "quote": "是行业内率先获得车规级智能卡设计和制造能力的企业之一。"
+    },
+    {
+      "name": "国家级智能卡研发和产业化基地",
+      "asset_type": "certification",
+      "related_product": "智能卡",
+      "quantitative_info": null,
+      "quote": "是国家发改委批准的国家级智能卡研发和产业化基地"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "46.16%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 46.16%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "16.00%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 138,637,881.01 16.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "64.11%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 64.11%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "21.83%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 99,972,812.98 21.83%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新产品、新业务市场拓展带来的经营风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）新产品、新业务市场拓展带来的经营风险 公司正在积极调整产品结构和业务模式，产业战略布局已取得初步成果。从单纯硬件产品向系统平台服务、数字化解决方案与服务运营模式转型。由于产品结构和业务模式变革，产品初期竞争力，可能仍受限于公司在初期业务支撑能力、市场拓展能力、落地商业模式等因素不够完善，在打开新市场会存在一定客观难度。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧对公司主营业务和利润带来的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）市场竞争加剧对公司主营业务和利润带来的风险 目前，公司主营业务的竞争能力主要体现在企业资金实力、设计开发能力、产品品质水平、产品成本控制能力，整体解决方案能力和售后服务能力等环节。尤其最近几年，产业链内企业相互渗透，行业内投资并购和合作发展情况越来越多，加剧了行业市场竞争的程度，产品价格成为后进企业最直接的竞争手段，有时会导致市场恶性竞争。"
+    }
+  ]
+}

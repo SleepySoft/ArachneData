@@ -1,0 +1,490 @@
+{
+  "company_name_mentioned": "中钢天源股份有限公司",
+  "produces": [
+    {
+      "name": "检验检测服务",
+      "type": "service",
+      "revenue_proportion": "18.49%",
+      "quote": "检验检测 578,901,001.39 18.49%"
+    },
+    {
+      "name": "电池级四氧化三锰",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "电池级四氧化三锰主要用于制备锰酸锂、三元材料、磷酸锰铁锂，材料具有优异的电学性能、高耐腐蚀性和很好的化学稳定性，是较为理想的新能源电池正极材料。"
+    },
+    {
+      "name": "电子级四氧化三锰",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "电子级四氧化三锰是制备锰锌铁氧体等软磁材料的重要原料，广泛应用于汽车、光伏、电子、家电、5G通讯、电力、充电桩等行业，也可用于光学玻璃、热敏电阻等功能材料。"
+    },
+    {
+      "name": "稀土永磁器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "稀土永磁器件产品是以铁、钕、硼以及少量的添加剂镝、铽等为原料烧结制成的钕铁硼产品，是目前市场主流稀土永磁材料，广泛应用于航空航天、新能源汽车、节能变频空调、工业节能电机、消费电子、轨道交通等领域。"
+    },
+    {
+      "name": "永磁器件（永磁铁氧体器件）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "永磁器件包括永磁铁氧体器件，是由铁的氧化物和一种或多种其他金属氧化物组成的具有亚铁磁性的复合氧化物，广泛应用于汽车相关电机制造、智能家居、智能穿戴、新能源、大数据等多个领域。"
+    },
+    {
+      "name": "铁硅粉、铁硅铝粉等铁基软磁粉末",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "铁硅粉、铁硅铝粉等铁基软磁粉末可用于生产软磁金属磁粉芯，广泛用于电子通讯、雷达、手机、光伏发电、新能源汽车、5G新基建、轨道交通等领域。"
+    },
+    {
+      "name": "锰锌/镍锌铁氧体",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "锰锌/镍锌铁氧体以铁红为主成分的磁性氧化物，适用于MHz段高频低功率工作场景，主要应用于电子系统，特别是各种电子变压器、电感器、滤波器等领域。"
+    },
+    {
+      "name": "弹性材料",
+      "type": "material",
+      "revenue_proportion": "17.24%",
+      "quote": "弹性材料主要产品油淬火-回火弹簧钢丝、不锈弹簧钢丝...弹性材料（金属制品） 539,647,509.33 17.24%"
+    },
+    {
+      "name": "冶金、矿山、机电工程专用设备",
+      "type": "device",
+      "revenue_proportion": "3.93%",
+      "quote": "冶金、矿山、机电工程专用设备 122,901,676.43 3.93%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "14.87%",
+      "quote": "1 供应商一 362,353,091.50 14.87%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "10.92%",
+      "quote": "2 供应商二 265,957,030.50 10.92%"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "5.06%",
+      "quote": "3 供应商三 123,232,838.00 5.06%"
+    },
+    {
+      "name": "供应商四",
+      "target_product": null,
+      "cost_proportion": "4.87%",
+      "quote": "4 供应商四 118,538,507.03 4.87%"
+    },
+    {
+      "name": "供应商五",
+      "target_product": null,
+      "cost_proportion": "3.01%",
+      "quote": "5 供应商五 73,286,387.00 3.01%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源电池",
+      "source_product": "电池级四氧化三锰",
+      "quote": "电池级四氧化三锰主要用于制备锰酸锂、三元材料、磷酸锰铁锂，材料具有优异的电学性能、高耐腐蚀性和很好的化学稳定性，是较为理想的新能源电池正极材料。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "电子级四氧化三锰、永磁铁氧体器件",
+      "quote": "电子级四氧化三锰...广泛应用于汽车、光伏、电子、家电、5G通讯、电力、充电桩等行业...永磁器件...广泛应用于汽车相关电机制造..."
+    },
+    {
+      "name": "光伏",
+      "source_product": "电子级四氧化三锰、铁基软磁粉末",
+      "quote": "电子级四氧化三锰...广泛应用于...光伏...铁硅粉、铁硅铝粉等铁基软磁粉末...广泛用于...光伏发电..."
+    },
+    {
+      "name": "电子",
+      "source_product": "电子级四氧化三锰、稀土永磁器件",
+      "quote": "电子级四氧化三锰...广泛应用于...电子...稀土永磁器件...广泛应用于...消费电子..."
+    },
+    {
+      "name": "5G通讯",
+      "source_product": "电子级四氧化三锰、铁基软磁粉末",
+      "quote": "电子级四氧化三锰...广泛应用于...5G通讯...铁硅粉、铁硅铝粉等铁基软磁粉末...广泛用于...5G新基建..."
+    },
+    {
+      "name": "航空航天",
+      "source_product": "稀土永磁器件、检验检测服务",
+      "quote": "稀土永磁器件...广泛应用于航空航天...检验检测服务...主要包括金属与合金类材料...航空航天..."
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "稀土永磁器件、永磁铁氧体器件、铁基软磁粉末",
+      "quote": "稀土永磁器件...广泛应用于...新能源汽车...永磁器件...广泛应用于...新能源...铁硅粉...广泛用于...新能源汽车..."
+    },
+    {
+      "name": "变频空调",
+      "source_product": "稀土永磁器件",
+      "quote": "稀土永磁器件...广泛应用于...节能变频空调..."
+    },
+    {
+      "name": "铁路工程",
+      "source_product": "检验检测服务",
+      "quote": "检验检测服务...授权3000+标准、12000+参数的检测能力和经验，主要包括...铁路工程..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴刚",
+      "role": "董事长",
+      "quote": "公司负责人吴刚...吴刚 男 49 董事长 现任"
+    },
+    {
+      "name": "余进",
+      "role": "总经理",
+      "quote": "总经理余进...余进 男 53 总经理 现任"
+    },
+    {
+      "name": "唐静",
+      "role": "财务总监、董事会秘书（代行）",
+      "quote": "主管会计工作负责人唐静...唐静 女 50 财务总监 现任...董事会秘书 唐静（代行董事会秘书职责）"
+    },
+    {
+      "name": "杨永红",
+      "role": "副总经理",
+      "quote": "杨永红 男 56 副总经理 现任"
+    },
+    {
+      "name": "裴晓东",
+      "role": "总工程师",
+      "quote": "裴晓东 男 55 总工程师 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中钢集团郑州金属制品研究院股份有限公司（中钢制品院）",
+      "relation_type": "subsidiary",
+      "business_details": "开展检验检测服务",
+      "quote": "检验检测服务通过中钢国检（国家金属制品质量检验检测中心/中钢集团郑州金属制品研究院股份有限公司）开展"
+    },
+    {
+      "name": "铜陵纳源材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为磷酸铁",
+      "quote": "铜陵纳源材料科技有限公司 参股公司 磷酸铁"
+    },
+    {
+      "name": "中钢资本控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "中钢资本控股有限公司 国有法人 17.67%...控股股东名称 中钢资本控股有限公司"
+    },
+    {
+      "name": "中国中钢集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人下属企业",
+      "quote": "中钢集团 指 中国中钢集团有限公司"
+    },
+    {
+      "name": "中国宝武钢铁集团有限公司",
+      "relation_type": "investor",
+      "business_details": "最终实际控制人",
+      "quote": "中国宝武 指 中国宝武钢铁集团有限公司...集团最终母公司为中国宝武钢铁集团有限公司。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,493,925,220.65",
+      "revenue_proportion": "79.67%",
+      "gross_margin": "18.11%",
+      "yoy_change": "16.77%",
+      "quote": "制造业 2,493,925,220.65 79.67%...制造业 18.11% 16.77%"
+    },
+    {
+      "name": "服务业（检验检测）",
+      "segment_type": "business_unit",
+      "revenue_amount": "578,901,001.39",
+      "revenue_proportion": "18.49%",
+      "gross_margin": "46.57%",
+      "yoy_change": "8.05%",
+      "quote": "服务业 578,901,001.39 18.49%...服务业 46.57% 8.05%"
+    },
+    {
+      "name": "工业原料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,131,431,915.96",
+      "revenue_proportion": "36.14%",
+      "gross_margin": "12.88%",
+      "yoy_change": "31.01%",
+      "quote": "工业原料 1,131,431,915.96 36.14%...工业原料 12.88% 31.01%"
+    },
+    {
+      "name": "电子元器件",
+      "segment_type": "product_line",
+      "revenue_amount": "699,944,118.93",
+      "revenue_proportion": "22.36%",
+      "gross_margin": "18.23%",
+      "yoy_change": "11.03%",
+      "quote": "电子元器件 699,944,118.93 22.36%...电子元器件 18.23% 11.03%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "2,961,141,231.79",
+      "revenue_proportion": "94.59%",
+      "gross_margin": "23.17%",
+      "yoy_change": "14.23%",
+      "quote": "国内 2,961,141,231.79 94.59%...国内 23.17% 14.23%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "169,358,648.12",
+      "revenue_proportion": "5.41%",
+      "gross_margin": null,
+      "yoy_change": "43.41%",
+      "quote": "国外 169,358,648.12 5.41%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,130,499,879.91",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "23.66%",
+      "yoy_change": "15.50%",
+      "quote": "直销 3,130,499,879.91 100.00%...直销 23.66% 15.50%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "四氧化三锰",
+      "metric_type": "capacity",
+      "value": "85,000吨",
+      "period": "报告期末",
+      "quote": "公司磁性材料产业拥有85,000吨四氧化三锰（其中：电子级四氧化三锰50,000吨，电池级四氧化三锰35,000吨）"
+    },
+    {
+      "product": "永磁铁氧体器件",
+      "metric_type": "capacity",
+      "value": "20,000吨",
+      "period": "报告期末",
+      "quote": "20,000吨永磁铁氧体器件"
+    },
+    {
+      "product": "软磁器件",
+      "metric_type": "capacity",
+      "value": "5,000吨",
+      "period": "报告期末",
+      "quote": "5,000吨软磁器件"
+    },
+    {
+      "product": "金属磁粉芯",
+      "metric_type": "capacity",
+      "value": "4,000吨",
+      "period": "报告期末",
+      "quote": "4,000吨金属磁粉芯"
+    },
+    {
+      "product": "稀土永磁器件",
+      "metric_type": "capacity",
+      "value": "2,000吨",
+      "period": "报告期末",
+      "quote": "2,000吨稀土永磁器件"
+    },
+    {
+      "product": "金属制品（弹性材料）",
+      "metric_type": "capacity",
+      "value": "70,000吨",
+      "period": "报告期末",
+      "quote": "弹性材料产业拥有70,000吨金属制品生产能力"
+    },
+    {
+      "product": "工业原料制造业",
+      "metric_type": "sales_volume",
+      "value": "97,525.31吨",
+      "period": "2025年",
+      "quote": "销售量 吨 97,525.31"
+    },
+    {
+      "product": "工业原料制造业",
+      "metric_type": "production_volume",
+      "value": "96,808.40吨",
+      "period": "2025年",
+      "quote": "生产量 吨 96,808.40"
+    },
+    {
+      "product": "电子元件制造业",
+      "metric_type": "sales_volume",
+      "value": "18,263.61吨",
+      "period": "2025年",
+      "quote": "销售量 吨 18,263.61"
+    },
+    {
+      "product": "电子元件制造业",
+      "metric_type": "production_volume",
+      "value": "18,831.32吨",
+      "period": "2025年",
+      "quote": "生产量 吨 18,831.32"
+    },
+    {
+      "product": "弹性材料（金属制品）",
+      "metric_type": "sales_volume",
+      "value": "39,593.50吨",
+      "period": "2025年",
+      "quote": "销售量 吨 39,593.50"
+    },
+    {
+      "product": "弹性材料（金属制品）",
+      "metric_type": "production_volume",
+      "value": "41,397.08吨",
+      "period": "2025年",
+      "quote": "生产量 吨 41,397.08"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "电池级四氧化三锰年产1万吨扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "1万吨",
+      "progress": "2025年3月按期达产达效，达产率100%",
+      "expected_completion_time": null,
+      "quote": "电池级四氧化三锰年产1万吨扩建项目于2025年3月按期达产达效，达产率100%"
+    },
+    {
+      "name": "1000吨钕铁硼募投项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "1000吨",
+      "progress": null,
+      "expected_completion_time": "2026年建成",
+      "quote": "按时建成二个重点项目：即1000吨钕铁硼募投项目；12000吨电池级四氧化三锰扩建项目。"
+    },
+    {
+      "name": "12000吨电池级四氧化三锰扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "12000吨",
+      "progress": null,
+      "expected_completion_time": "2026年建成",
+      "quote": "按时建成二个重点项目：即1000吨钕铁硼募投项目；12000吨电池级四氧化三锰扩建项目。"
+    },
+    {
+      "name": "年产15,000吨高性能软磁铁氧体材料及器件建设项目（已终止）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "23,925.42万元",
+      "designed_capacity": null,
+      "progress": "已终止实施",
+      "expected_completion_time": null,
+      "quote": "对“年产15,000吨高性能软磁铁氧体材料及器件建设项目”和“高性能永磁铁氧体绿色制造生产建设项目”两个项目终止实施"
+    },
+    {
+      "name": "高性能永磁铁氧体绿色制造生产建设项目（已终止）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "44,700.00万元",
+      "designed_capacity": null,
+      "progress": "已终止实施",
+      "expected_completion_time": null,
+      "quote": "对“年产15,000吨高性能软磁铁氧体材料及器件建设项目”和“高性能永磁铁氧体绿色制造生产建设项目”两个项目终止实施"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "参与制定IEC 63093-15:2025《铁氧体磁心尺寸和表面缺陷极限导则第15部分：U型磁心》国际标准",
+      "asset_type": "standard",
+      "related_product": "磁性材料",
+      "quantitative_info": null,
+      "quote": "由公司参与制定的IEC63093-15:2025《铁氧体磁心尺寸和表面缺陷极限导则第15部分：U型磁心》正式发布，这是公司在磁性材料领域参与制定的首项国际标准"
+    },
+    {
+      "name": "国家金属制品质量监督检验中心",
+      "asset_type": "certification",
+      "related_product": "检验检测服务",
+      "quantitative_info": null,
+      "quote": "检验检测服务通过中钢国检（国家金属制品质量检验检测中心/中钢集团郑州金属制品研究院股份有限公司）开展"
+    },
+    {
+      "name": "累计有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "近600项",
+      "quote": "累计有效专利近600项"
+    },
+    {
+      "name": "PCT专利授权",
+      "asset_type": "patent",
+      "related_product": "新材料",
+      "quantitative_info": "零的突破，在美国获得发明专利1项",
+      "quote": "PCT专利授权实现零的突破，在美国获得发明专利1项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "14.34%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 14.34%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "38.72%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 38.72%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "3.29%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 103,113,700.00 3.29%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "14.87%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 362,353,091.50 14.87%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处的产业可能受到市场供需变化、宏观经济波动、政策调整等因素的影响，导致产业发展不平衡...有的企业产品结构单一，抵御市场风险能力还比较薄弱。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "平衡性协调性风险：公司所处的产业可能受到市场供需变化、宏观经济波动、政策调整等因素的影响，导致产业发展不平衡...有的企业产品结构单一，抵御市场风险能力还比较薄弱。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "产研结合还不够紧密，重大原创性技术成果缺乏，产品差异化竞争能力参差不齐，数智化转型任重道远...随着科技不断进步，公司所处行业的技术更新换代，如果公司不能及时跟上技术发展的步伐，研发保持竞争力的新产品和新技术，可能会被市场淘汰。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术风险：产研结合还不够紧密，重大原创性技术成果缺乏，产品差异化竞争能力参差不齐，数智化转型任重道远...随着科技不断进步，公司所处行业的技术更新换代，如果公司不能及时跟上技术发展的步伐，研发保持竞争力的新产品和新技术，可能会被市场淘汰。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司的生产过程中可能存在各种安全隐患，如火灾、危废排放等。这些安全隐患可能会导致人员伤亡和财产损失，影响公司的正常生产经营。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "安全生产风险：公司的生产过程中可能存在各种安全隐患，如火灾、危废排放等。这些安全隐患可能会导致人员伤亡和财产损失，影响公司的正常生产经营。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司下游客户货款结算周期比较长，随着公司销售规模持续扩大，应收账款规模相应增长，将影响公司的资金周转速度和经营活动现金流量。如果应收账款长期无法收回，可能会形成坏账损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "应收账款风险：公司下游客户货款结算周期比较长，随着公司销售规模持续扩大，应收账款规模相应增长，将影响公司的资金周转速度和经营活动现金流量。如果应收账款长期无法收回，可能会形成坏账损失。"
+    }
+  ]
+}

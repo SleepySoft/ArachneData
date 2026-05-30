@@ -1,0 +1,616 @@
+{
+  "company_name_mentioned": "鲁西化工集团股份有限公司",
+  "produces": [
+    {
+      "name": "聚碳酸酯",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "聚碳酸酯广泛应用于电子电器、汽车零部件、光学照明、医疗器械、建筑板材等多领域"
+    },
+    {
+      "name": "己内酰胺",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "己内酰胺、尼龙6 成熟应用阶段"
+    },
+    {
+      "name": "尼龙6",
+      "type": "material",
+      "revenue_proportion": "5,774,053,122.86元",
+      "quote": "尼龙6 681,533.12 667,243.92 5,774,053,122.86"
+    },
+    {
+      "name": "甲酸",
+      "type": "material",
+      "revenue_proportion": "1,216,187,736.10元",
+      "quote": "甲酸 392,957.36 386,736.61 1,216,187,736.10"
+    },
+    {
+      "name": "有机硅（DMC等）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司有机硅产品主要包括DMC（二甲基硅氧烷混合环体）、线性体、D4（八甲基环四硅氧烷）等"
+    },
+    {
+      "name": "丁醇、辛醇（多元醇）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司多元醇主要包括正丁醇、辛醇、新戊二醇等。正丁醇下游主要是丙烯酸丁酯、醋酸丁酯、DBP（邻苯二甲酸二丁酯）"
+    },
+    {
+      "name": "甲烷氯化物",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "甲烷氯化物包括一氯甲烷、二氯甲烷、三氯甲烷（也称氯仿）、四氯乙烯等"
+    },
+    {
+      "name": "氟材料（六氟丙烯等）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "氟材料产品主要包括六氟丙烯、聚全氟乙丙烯、聚四氟乙烯等。"
+    },
+    {
+      "name": "二甲基甲酰胺（DMF）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "二甲基甲酰胺主要用于PU浆料及电子行业、甜味剂三氯蔗糖的合成，农药、医药中间体。"
+    },
+    {
+      "name": "烧碱",
+      "type": "material",
+      "revenue_proportion": "473,515,259.11元",
+      "quote": "烧碱 1,348,142.78 612,619.13 473,515,259.11"
+    },
+    {
+      "name": "化肥产品（复合肥、硝基肥等）",
+      "type": "material",
+      "revenue_proportion": "3,546,942,779.69元",
+      "quote": "化肥产品 3,546,942,779.69 12.17%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料A",
+      "target_product": null,
+      "cost_proportion": "13.15%",
+      "quote": "原材料A 直接采购 13.15%"
+    },
+    {
+      "name": "原材料B",
+      "target_product": null,
+      "cost_proportion": "11.22%",
+      "quote": "原材料B 直接采购 11.22%"
+    },
+    {
+      "name": "原材料C",
+      "target_product": null,
+      "cost_proportion": "10.57%",
+      "quote": "原材料C 直接采购 10.57%"
+    },
+    {
+      "name": "原材料D",
+      "target_product": null,
+      "cost_proportion": "6.85%",
+      "quote": "原材料D 直接采购 6.85%"
+    },
+    {
+      "name": "煤炭",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司外购煤炭、丙烯、纯苯等原料满足生产需要"
+    },
+    {
+      "name": "丙烯",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司外购煤炭、丙烯、纯苯等原料满足生产需要"
+    },
+    {
+      "name": "纯苯",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司外购煤炭、丙烯、纯苯等原料满足生产需要"
+    },
+    {
+      "name": "工业盐、卤水",
+      "target_product": "烧碱",
+      "cost_proportion": null,
+      "quote": "主要原料工业盐、卤水"
+    }
+  ],
+  "applications": [
+    {
+      "name": "纺织",
+      "source_product": null,
+      "quote": "下游产业涵盖纺织、复合材料、绝缘材料、电子电气、建筑、信息存储、交通运输及化工、机械等众多领域。"
+    },
+    {
+      "name": "电子电器",
+      "source_product": "聚碳酸酯",
+      "quote": "聚碳酸酯广泛应用于电子电器、汽车零部件、光学照明、医疗器械、建筑板材等多领域"
+    },
+    {
+      "name": "汽车零部件",
+      "source_product": "聚碳酸酯、尼龙6",
+      "quote": "聚碳酸酯广泛应用于电子电器、汽车零部件、光学照明、医疗器械、建筑板材等多领域"
+    },
+    {
+      "name": "涂料",
+      "source_product": "正丁醇",
+      "quote": "正丁醇下游主要是丙烯酸丁酯、醋酸丁酯、DBP（邻苯二甲酸二丁酯），终端主要用于涂料、胶黏剂、塑料软制品"
+    },
+    {
+      "name": "PVC膜、电缆",
+      "source_product": "辛醇",
+      "quote": "辛醇下游主要是DOP（增塑剂邻苯二甲酸二辛酯）、DOTP（增塑剂对苯二甲酸二辛酯）、丙烯酸异辛酯、异辛酸，下游主要应用领域为PVC膜类、电缆、手套、胶带、香精香料等行业。"
+    },
+    {
+      "name": "建材",
+      "source_product": "有机硅",
+      "quote": "终端产品主要包括硅橡胶、硅油、硅树脂和硅烷偶联剂四大类。尽管建筑领域需求显著下滑，但在电子电器、新能源汽车、光伏电池等新兴领域带动下，整体需求仍保持增长。"
+    },
+    {
+      "name": "制冷剂",
+      "source_product": "甲烷氯化物（二氯甲烷、三氯甲烷）",
+      "quote": "二氯甲烷用于生产制冷剂 R32（二氟甲烷），三氯甲烷主要用于生产制冷剂R22（二氟一氯甲烷），四氯乙烯主要用于制冷剂R125(五氟乙烷)及清洗行业。"
+    },
+    {
+      "name": "农业",
+      "source_product": "化肥",
+      "quote": "公司深耕化肥行业，构建多维度核心竞争优势，依托电商平台搭建数字化营销体系，持续迭代系统当家工程，优化客户一站式下单新模式"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王延吉",
+      "role": "董事、总经理",
+      "quote": "公司负责人王延吉、主管会计工作负责人毛江强及会计机构负责人（会计主管人员）姜鹏声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "毛江强",
+      "role": "财务总监、总法律顾问、首席合规官",
+      "quote": "公司负责人王延吉、主管会计工作负责人毛江强及会计机构负责人（会计主管人员）姜鹏声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "刘月刚",
+      "role": "总经理助理、董事会秘书",
+      "quote": "总经理助理、董事会秘书 现任"
+    },
+    {
+      "name": "王富兴",
+      "role": "副总经理",
+      "quote": "副总经理 现任"
+    },
+    {
+      "name": "段绍书",
+      "role": "副总经理、HSE总监",
+      "quote": "副总经理、HSE总监 现任"
+    },
+    {
+      "name": "宿玉海",
+      "role": "独立董事",
+      "quote": "宿玉海 先生：...现任公司第九届董事会独立董事。"
+    },
+    {
+      "name": "陈碧锋",
+      "role": "董事长",
+      "quote": "陈碧锋先生：...现任鲁西化工集团股份有限公司董事长。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国中化控股有限责任公司",
+      "relation_type": "investor",
+      "business_details": "最终控制方",
+      "quote": "最终控制方 国务院国资委 指 国务院国有资产监督管理委员会 中国中化 指 中国中化控股有限责任公司"
+    },
+    {
+      "name": "中化投资发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "中化投资 指 中化投资发展有限公司"
+    },
+    {
+      "name": "鲁西集团有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "鲁西集团 指 鲁西集团有限公司"
+    },
+    {
+      "name": "国家能源投资集团有限责任公司煤炭经营分公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "供应商四为国家能源投资集团有限责任公司煤炭经营分公司，为本年度前五大供应商中新增供应商。"
+    },
+    {
+      "name": "中化塑料有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "客户五为中化塑料有限公司，为本年度前五大客户中新增客户。"
+    },
+    {
+      "name": "天职国际会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "年审会计师事务所 指 天职国际会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "中化集团财务有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，提供存款、贷款、授信服务",
+      "quote": "中化集团财务有限责任公司...同受最终控制方控制"
+    },
+    {
+      "name": "昊华化工科技集团股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "存在同业竞争（氟产品）",
+      "quote": "公司与昊华化工科技集团股份有限公司全资子公司中化蓝天集团贸易有限公司签订《氟产品框架合作协议》，对存在同业竞争的氟产品业务进行整合"
+    },
+    {
+      "name": "江苏扬农化工集团有限公司",
+      "relation_type": "competitor",
+      "business_details": "存在部分产品重合（聚碳酸酯）",
+      "quote": "中化塑料和扬农集团均与鲁西化工存在部分产品重合或相似的情形"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化工新材料行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "18,877,376,164.46元",
+      "revenue_proportion": "64.77%",
+      "gross_margin": "10.13%",
+      "yoy_change": "-7.31%",
+      "quote": "化工新材料行业 18,877,376,164.46 64.77% 20,366,372,331.79 68.43% -7.31%"
+    },
+    {
+      "name": "基础化工行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "5,912,181,964.94元",
+      "revenue_proportion": "20.29%",
+      "gross_margin": "17.23%",
+      "yoy_change": "2.02%",
+      "quote": "基础化工行业 5,912,181,964.94 20.29% 5,795,123,823.25 19.47% 2.02%"
+    },
+    {
+      "name": "化肥行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,546,942,779.69元",
+      "revenue_proportion": "12.17%",
+      "gross_margin": "5.38%",
+      "yoy_change": "15.71%",
+      "quote": "化肥行业 3,546,942,779.69 12.17% 3,065,287,478.12 10.30% 15.71%"
+    },
+    {
+      "name": "其他行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "806,960,314.09元",
+      "revenue_proportion": "2.77%",
+      "gross_margin": "9.44%",
+      "yoy_change": "50.57%",
+      "quote": "其他行业 806,960,314.09 2.77% 535,926,383.01 1.80% 50.57%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "27,162,158,739.72元",
+      "revenue_proportion": "93.20%",
+      "gross_margin": "10.98%",
+      "yoy_change": "-4.37%",
+      "quote": "国内 27,162,158,739.72 93.20% 28,403,419,342.02 95.43% -4.37%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "1,981,302,483.46元",
+      "revenue_proportion": "6.80%",
+      "gross_margin": "10.82%",
+      "yoy_change": "45.76%",
+      "quote": "国外 1,981,302,483.46 6.80% 1,359,290,674.15 4.57% 45.76%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "己内酰胺",
+      "metric_type": "capacity",
+      "value": "70万吨",
+      "period": "报告期",
+      "quote": "己内酰胺 70"
+    },
+    {
+      "product": "己内酰胺",
+      "metric_type": "capacity_utilization",
+      "value": "102.29%",
+      "period": "报告期",
+      "quote": "己内酰胺 70 102.29%"
+    },
+    {
+      "product": "尼龙6",
+      "metric_type": "capacity",
+      "value": "70万吨",
+      "period": "报告期",
+      "quote": "尼龙6 70"
+    },
+    {
+      "product": "尼龙6",
+      "metric_type": "capacity_utilization",
+      "value": "97.36%",
+      "period": "报告期",
+      "quote": "尼龙6 70 97.36%"
+    },
+    {
+      "product": "有机硅",
+      "metric_type": "capacity",
+      "value": "45万吨",
+      "period": "报告期",
+      "quote": "有机硅 45"
+    },
+    {
+      "product": "有机硅",
+      "metric_type": "capacity_utilization",
+      "value": "76.65%",
+      "period": "报告期",
+      "quote": "有机硅 45 76.65%"
+    },
+    {
+      "product": "甲酸",
+      "metric_type": "capacity",
+      "value": "40万吨",
+      "period": "报告期",
+      "quote": "甲酸 40"
+    },
+    {
+      "product": "甲酸",
+      "metric_type": "capacity_utilization",
+      "value": "98.24%",
+      "period": "报告期",
+      "quote": "甲酸 40 98.24%"
+    },
+    {
+      "product": "多元醇",
+      "metric_type": "capacity",
+      "value": "75万吨",
+      "period": "报告期",
+      "quote": "多元醇 75"
+    },
+    {
+      "product": "多元醇",
+      "metric_type": "capacity_utilization",
+      "value": "97.34%",
+      "period": "报告期",
+      "quote": "多元醇 75 97.34%"
+    },
+    {
+      "product": "化工制造业",
+      "metric_type": "production_volume",
+      "value": "534.36万吨",
+      "period": "2025年",
+      "quote": "化工制造业 生产量 万吨 534.36"
+    },
+    {
+      "product": "化工制造业",
+      "metric_type": "sales_volume",
+      "value": "528.57万吨",
+      "period": "2025年",
+      "quote": "化工制造业 销售量 万吨 528.57"
+    },
+    {
+      "product": "化工制造业",
+      "metric_type": "inventory_volume",
+      "value": "16.29万吨",
+      "period": "2025年末",
+      "quote": "化工制造业 库存量 万吨 16.29"
+    },
+    {
+      "product": "化肥制造业",
+      "metric_type": "production_volume",
+      "value": "227.24万吨",
+      "period": "2025年",
+      "quote": "化肥制造业 生产量 万吨 227.24"
+    },
+    {
+      "product": "化肥制造业",
+      "metric_type": "sales_volume",
+      "value": "221.67万吨",
+      "period": "2025年",
+      "quote": "化肥制造业 销售量 万吨 221.67"
+    },
+    {
+      "product": "化肥制造业",
+      "metric_type": "inventory_volume",
+      "value": "12.77万吨",
+      "period": "2025年末",
+      "quote": "化肥制造业 库存量 万吨 12.77"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "绿色低碳高端化学品项目（80万吨/年硫磺制酸项目）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "80万吨/年",
+      "progress": "取得环评批复",
+      "expected_completion_time": null,
+      "quote": "2025年1月23日，取得了《关于鲁西化工集团股份有限公司绿色低碳高端化学品项目（80万吨/年硫磺制酸项目）环境影响报告书的批复"
+    },
+    {
+      "name": "聚碳酸酯装置节能减排扩产升级改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "取得环评批复",
+      "expected_completion_time": null,
+      "quote": "2025年8月11日，取得了《关于聊城鲁西聚碳酸酯有限公司聚碳酸酯装置节能减排扩产升级改造项目环境影响报告表的批复"
+    },
+    {
+      "name": "10万吨/年粉末涂料添加剂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "10万吨/年",
+      "progress": "取得环评批复",
+      "expected_completion_time": null,
+      "quote": "2025年9月30日，取得了《鲁西化工集团股份有限公司绿色低碳高端化学品项目(10万吨/年粉末涂料添加剂项目)环境影响报告书批复"
+    },
+    {
+      "name": "聚碳酸酯装置节能减排扩产优化提升项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "取得环评批复",
+      "expected_completion_time": null,
+      "quote": "2025年12月2日，取得了《聊城鲁西聚碳酸酯有限公司聚碳酸酯装置节能减排扩产优化提升项目环境影响报告书批复"
+    },
+    {
+      "name": "24万吨/年乙烯下游一体化项目（二期工程）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "24万吨/年",
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "强化项目全过程管理，24万吨/年乙烯下游一体化项目（二期工程）、15万吨/年丙酸项目建成投产"
+    },
+    {
+      "name": "15万吨/年丙酸项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "15万吨/年",
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "24万吨/年乙烯下游一体化项目（二期工程）、15万吨/年丙酸项目建成投产"
+    },
+    {
+      "name": "有机硅项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "40万吨",
+      "progress": "试生产",
+      "expected_completion_time": null,
+      "quote": "报告期内有机硅项目试生产，设计产能为40万吨"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "聚碳酸酯生产技术",
+      "asset_type": "core_technology",
+      "related_product": "聚碳酸酯",
+      "quantitative_info": "授权专利60项，其中发明专利26件，实用新型专利34件。",
+      "quote": "聚碳酸酯 成熟应用阶段 均为本公司在职员工 授权专利60项，其中发明专利26件，实用新型专利34件。 采用自主知识产权技术，达到国内领先水平。"
+    },
+    {
+      "name": "己内酰胺、尼龙6生产技术",
+      "asset_type": "core_technology",
+      "related_product": "己内酰胺、尼龙6",
+      "quantitative_info": "授权专利75项，其中发明专利24件，实用新型专利51件。",
+      "quote": "己内酰胺、尼龙6 成熟应用阶段 均为本公司在职员工 授权专利75项，其中发明专利24件，实用新型专利51件。"
+    },
+    {
+      "name": "甲酸生产技术",
+      "asset_type": "core_technology",
+      "related_product": "甲酸",
+      "quantitative_info": "授权专利47项，其中发明专利12件，实用新型专利35件。",
+      "quote": "甲酸 成熟应用阶段 均为本公司在职员工 授权专利47项，其中发明专利12件，实用新型专利35件。"
+    },
+    {
+      "name": "有机硅生产技术",
+      "asset_type": "core_technology",
+      "related_product": "有机硅",
+      "quantitative_info": "授权专利47项，其中发明专利28件，实用新型专利19件。",
+      "quote": "有机硅 成熟应用阶段 均为本公司在职员工 授权专利47项，其中发明专利28件，实用新型专利19件。"
+    },
+    {
+      "name": "安全生产许可证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "有效期至2026年7月9日",
+      "quote": "安全生产许可证 2023年7月10日至2026年7月9日"
+    },
+    {
+      "name": "监控化学品许可证",
+      "asset_type": "certification",
+      "related_product": "二氟甲烷、五氟乙烷、四氟乙烯、六氟丙烯、八氟异丁烯",
+      "quantitative_info": "有效期至2030年9月8日",
+      "quote": "监控化学品许可证 2025年9月8日至2030年9月8日 二氟甲烷、五氟乙烷、四氟乙烯、六氟丙烯、八氟异丁烯"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,254,479,831.96元",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额（元） 2,254,479,831.96"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "7.74%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 7.74%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "6,364,287,144.08元",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额（元） 6,364,287,144.08"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25.33%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.33%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 7.74%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "供应商集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.33%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "受国际市场、能源供应波动等因素影响，大宗原材料价格持续震荡，叠加行业新增产能集中释放，市场竞争加剧。同时，下游建材、纺织等行业需求复苏不及预期，碳一化学品、化工新材料等主要产品价格承压，利润同比大幅收窄，对公司生产经营造成影响。",
+      "related_entity": null,
+      "related_product": "碳一化学品、化工新材料",
+      "quote": "（2）市场风险 受国际市场、能源供应波动等因素影响，大宗原材料价格持续震荡，叠加行业新增产能集中释放，市场竞争加剧。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受国际市场、能源供应波动等因素影响，大宗原材料价格持续震荡",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受国际市场、能源供应波动等因素影响，大宗原材料价格持续震荡"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司的主要经营位于中国境内，主要业务以人民币结算。公司出口业务结算货币以美元为主，若未来汇率波动加大依然存在外汇风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司的主要经营位于中国境内，主要业务以人民币结算。公司出口业务结算货币以美元为主，若未来汇率波动加大依然存在外汇风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司生产的化工产品及使用的化工原料多为危险化学品，部分化工生产装置涉及重点监管的危险化工工艺，在产品的生产、储存、灌装、运输等环节，存在一定的安全环保风险，需进一步筑牢安全生产防线。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）安全环保风险 公司生产的化工产品及使用的化工原料多为危险化学品，部分化工生产装置涉及重点监管的危险化工工艺，在产品的生产、储存、灌装、运输等环节，存在一定的安全环保风险"
+    }
+  ]
+}

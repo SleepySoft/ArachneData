@@ -1,0 +1,244 @@
+{
+  "company_name_mentioned": "成都红旗连锁股份有限公司",
+  "produces": [
+    {
+      "name": "食品",
+      "type": "material",
+      "revenue_proportion": "44.72%",
+      "quote": "食品 4,273,497,171.47 44.72%"
+    },
+    {
+      "name": "烟酒",
+      "type": "material",
+      "revenue_proportion": "34.92%",
+      "quote": "烟酒 3,336,387,372.51 34.92%"
+    },
+    {
+      "name": "日用百货",
+      "type": "material",
+      "revenue_proportion": "12.56%",
+      "quote": "日用百货 1,200,396,914.91 12.56%"
+    },
+    {
+      "name": "其他业务收入",
+      "type": "service",
+      "revenue_proportion": "7.80%",
+      "quote": "其他业务收入 745,386,150.53 7.80%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品（食品、烟酒、日用百货等）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司与上千家供货商建立了良好的互利双赢的商业合作关系"
+    }
+  ],
+  "applications": [
+    {
+      "name": "社区居民日常生活消费",
+      "source_product": "食品、烟酒、日用百货等商品",
+      "quote": "满足便利性的日常生活消费需求"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "曹世如",
+      "role": "总经理",
+      "quote": "公司负责人曹世如...2010年5月20日起任公司董事长、总经理，2024年12月2日辞去公司董事长职务，现任公司总经理。"
+    },
+    {
+      "name": "袁继国",
+      "role": "董事长",
+      "quote": "袁继国先生...现任公司董事长。"
+    },
+    {
+      "name": "曹曾俊",
+      "role": "副总经理",
+      "quote": "曹曾俊先生...现任成都红旗连锁股份有限公司副总经理。"
+    },
+    {
+      "name": "谭磊",
+      "role": "副总经理",
+      "quote": "谭磊先生...2007年8月至今担任公司副总经理。"
+    },
+    {
+      "name": "谭柳",
+      "role": "副总经理、董事会秘书",
+      "quote": "谭柳先生...现任公司副总经理、董事会秘书。"
+    },
+    {
+      "name": "李欢",
+      "role": "财务负责人",
+      "quote": "李欢女士...2024年12月至今任公司财务负责人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川新网银行股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "联营企业",
+      "quote": "长期股权投资 1,313,510,113.23...新网银行...权益法核算的长期股权投资收益 165,503,080.68"
+    },
+    {
+      "name": "四川商投投资有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东名称：四川商投投资有限责任公司"
+    },
+    {
+      "name": "永辉超市股份有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上的股东",
+      "quote": "永辉超市股份有限公司 境内非国有法人 8.99%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "商业",
+      "segment_type": "other",
+      "revenue_amount": "9,555,667,609.42",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "-5.61%",
+      "quote": "分行业：商业 9,555,667,609.42 100.00%... -5.61%"
+    },
+    {
+      "name": "食品",
+      "segment_type": "product_line",
+      "revenue_amount": "4,273,497,171.47",
+      "revenue_proportion": "44.72%",
+      "gross_margin": null,
+      "yoy_change": "-6.27%",
+      "quote": "分产品：食品 4,273,497,171.47 44.72%... -6.27%"
+    },
+    {
+      "name": "烟酒",
+      "segment_type": "product_line",
+      "revenue_amount": "3,336,387,372.51",
+      "revenue_proportion": "34.92%",
+      "gross_margin": null,
+      "yoy_change": "-5.32%",
+      "quote": "分产品：烟酒 3,336,387,372.51 34.92%... -5.32%"
+    },
+    {
+      "name": "日用百货",
+      "segment_type": "product_line",
+      "revenue_amount": "1,200,396,914.91",
+      "revenue_proportion": "12.56%",
+      "gross_margin": null,
+      "yoy_change": "-6.77%",
+      "quote": "分产品：日用百货 1,200,396,914.91 12.56%... -6.77%"
+    },
+    {
+      "name": "成都市区",
+      "segment_type": "region",
+      "revenue_amount": "5,319,735,034.45",
+      "revenue_proportion": "55.67%",
+      "gross_margin": null,
+      "yoy_change": "0.97%",
+      "quote": "分地区：成都市区 5,319,735,034.45 55.67%... 0.97%"
+    },
+    {
+      "name": "郊县分区",
+      "segment_type": "region",
+      "revenue_amount": "3,124,483,899.72",
+      "revenue_proportion": "32.70%",
+      "gross_margin": null,
+      "yoy_change": "-15.84%",
+      "quote": "分地区：郊县分区 3,124,483,899.72 32.70%... -15.84%"
+    },
+    {
+      "name": "二级市区",
+      "segment_type": "region",
+      "revenue_amount": "366,062,524.72",
+      "revenue_proportion": "3.83%",
+      "gross_margin": null,
+      "yoy_change": "-6.03%",
+      "quote": "分地区：二级市区 366,062,524.72 3.83%... -6.03%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "24小时门店",
+      "metric_type": "capacity",
+      "value": "突破500家",
+      "period": "报告期末",
+      "quote": "报告期末，24小时门店已突破500家，争取2026年达1500家，2027年实现全覆盖。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "川南区域配送中心布局",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "稳步推进",
+      "expected_completion_time": null,
+      "quote": "2025年公司着力完善仓储物流网络的建设，稳步推进川南区域配送中心布局，提升区域物流响应效率与覆盖能力"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "红旗云平台",
+      "asset_type": "technical_platform",
+      "related_product": "供应链管理",
+      "quantitative_info": null,
+      "quote": "红旗云平台长期向合作供应商全面开放，共享核心资源与服务能力，打破信息壁垒，构建高效联动的供应链生态。"
+    },
+    {
+      "name": "24小时云值守门店技术",
+      "asset_type": "core_technology",
+      "related_product": "门店运营",
+      "quantitative_info": null,
+      "quote": "公司坚持成熟点位优先、稳步复制推广的原则，聚焦客流稳定、夜间需求突出的优质门店分批落地，以数字化值守替代传统人工值守，实现门店24小时不间断营业"
+    },
+    {
+      "name": "先进的信息化管理技术",
+      "asset_type": "core_technology",
+      "related_product": "公司运营管理",
+      "quantitative_info": null,
+      "quote": "公司建立了一套适合自身的信息化管理系统 ，实现了公司—分场—财务—配送等快速联网，加快了商品配送、周转、收银、核算等各个环节的工作效率"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "0.58%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 0.58%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.65%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 42.65%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "零售业是我国开放最早、市场化程度最高、竞争最为激烈的行业之一。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "零售业是我国开放最早、市场化程度最高、竞争最为激烈的行业之一。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济走势直接影响消费需求的变化，经济稳定增长、居民收入水平稳步提升，有利于零售业的持续快速发展；未来经济增速如果持续放缓，将会影响居民消费信心的提升，抑制社会消费需求，从而对行业和公司的发展带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济走势直接影响消费需求的变化，经济稳定增长、居民收入水平稳步提升，有利于零售业的持续快速发展；未来经济增速如果持续放缓，将会影响居民消费信心的提升，抑制社会消费需求，从而对行业和公司的发展带来不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着经济的快速发展，市场竞争加剧，商业物业租赁成本、人员工资及促销等费用支出呈上涨趋势不可避免，公司面临运营成本持续增长的风险，对公司经营形成较大压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着经济的快速发展，市场竞争加剧，商业物业租赁成本、人员工资及促销等费用支出呈上涨趋势不可避免，公司面临运营成本持续增长的风险，对公司经营形成较大压力。"
+    }
+  ]
+}

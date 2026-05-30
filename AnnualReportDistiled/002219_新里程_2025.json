@@ -1,0 +1,377 @@
+{
+  "company_name_mentioned": "新里程健康科技集团股份有限公司",
+  "produces": [
+    {
+      "name": "药品及医疗产品",
+      "type": "material",
+      "revenue_proportion": "13.23%",
+      "quote": "医药行业 403,974,006.91 13.23%"
+    },
+    {
+      "name": "医疗服务",
+      "type": "service",
+      "revenue_proportion": "85.59%",
+      "quote": "医疗行业 2,612,699,658.48 85.59%"
+    },
+    {
+      "name": "康养服务",
+      "type": "service",
+      "revenue_proportion": "1.18%",
+      "quote": "康养行业 36,064,843.44 1.18%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "中药材（独一味草等）及原辅包材",
+      "target_product": "药品及医疗产品",
+      "cost_proportion": null,
+      "quote": "医药原材料主要为独一味草等中药材及原辅包材"
+    },
+    {
+      "name": "药品及医用耗材",
+      "target_product": "医疗服务",
+      "cost_proportion": null,
+      "quote": "医疗服务原材料主要为药品及医用耗材"
+    }
+  ],
+  "applications": [
+    {
+      "name": "肿瘤、心血管、脑血管、骨科等老龄化疾病诊疗",
+      "source_product": "医疗服务",
+      "quote": "聚焦肿瘤、心血管、脑血管、骨科等老龄化疾病"
+    },
+    {
+      "name": "老年人群医养结合服务",
+      "source_product": "康养服务",
+      "quote": "专注于高龄（75岁以上）老人，以及失能、半失能或失智的老龄群体"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "林杨林",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人林杨林、主管会计工作负责人刘军及会计机构负责人（会计主管人员）许海文声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "刘军",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人刘军"
+    },
+    {
+      "name": "宋丽华",
+      "role": "董事、高级副总裁兼医疗管理中心总经理",
+      "quote": "宋丽华：现任公司高级副总裁，简历详见“（一）董事会人员情况”。"
+    },
+    {
+      "name": "张延苓",
+      "role": "副董事长",
+      "quote": "张延苓：女，1963年出生，中国国籍，无境外永久居留权，硕士。曾任阳光保险集团股份有限公司副董事长兼副总裁；现任爱心人寿保险股份有限公司董事长，新里程健康科技集团股份有限公司副董事长。"
+    },
+    {
+      "name": "徐旭",
+      "role": "副总裁、董事会秘书",
+      "quote": "徐旭：男，1983年出生，中国国籍，无境外永久居留权，博士。现任新里程健康科技集团股份有限公司副总裁、董事会秘书兼战略投资部总经理。"
+    },
+    {
+      "name": "聂晨",
+      "role": "副总裁兼医疗管理中心副总经理",
+      "quote": "聂晨：男，1967年出生，中国国籍，无境外永久居留权，硕士。现任新里程健康科技集团股份有限公司副总裁兼医疗管理中心副总经理、学科建设委员会主任委员。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "康县独一味生物制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "医药生产",
+      "quote": "独一味制药 指 康县独一味生物制药有限公司"
+    },
+    {
+      "name": "甘肃佛仁制药科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "医药生产",
+      "quote": "佛仁制药 指 甘肃佛仁制药科技有限公司"
+    },
+    {
+      "name": "瓦房店第三医院有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合医疗服务业务",
+      "quote": "瓦房店第三医院 指 瓦房店第三医院有限责任公司"
+    },
+    {
+      "name": "盱眙恒山中医医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合医疗服务业务",
+      "quote": "盱眙中医院 指 盱眙恒山中医医院有限公司"
+    },
+    {
+      "name": "兰考第一医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合医疗服务业务",
+      "quote": "兰考第一医院 指 兰考第一医院有限公司"
+    },
+    {
+      "name": "泗阳县人民医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合医疗服务业务",
+      "quote": "泗阳医院 指 泗阳县人民医院有限公司"
+    },
+    {
+      "name": "崇州二医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合医疗服务业务",
+      "quote": "崇州二医院 指 崇州二医院有限公司"
+    },
+    {
+      "name": "绵阳爱贝尔妇产医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "妇产医院",
+      "quote": "爱贝尔妇产医院 指 绵阳爱贝尔妇产医院有限公司"
+    },
+    {
+      "name": "萍乡市赣西医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合医疗服务业务",
+      "quote": "赣西医院 指 萍乡市赣西医院有限公司"
+    },
+    {
+      "name": "萍乡市赣西肿瘤医院有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "肿瘤医疗服务",
+      "quote": "赣西肿瘤医院 指 萍乡市赣西肿瘤医院有限责任公司"
+    },
+    {
+      "name": "蓬溪恒道中医（骨科）医院有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "中医骨科医院",
+      "quote": "蓬溪医院 指 蓬溪恒道中医（骨科）医院有限责任公司"
+    },
+    {
+      "name": "重庆新里程医疗管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "康养集团管理总部",
+      "quote": "重庆新里程 指 重庆新里程医疗管理有限公司"
+    },
+    {
+      "name": "四川福慧医药有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "医药相关",
+      "quote": "福慧医药 指 四川福慧医药有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药行业",
+      "segment_type": "product_line",
+      "revenue_amount": "403,974,006.91元",
+      "revenue_proportion": "13.23%",
+      "gross_margin": "43.68%",
+      "yoy_change": "-46.37%",
+      "quote": "医药行业 403,974,006.91 13.23% ... 毛利率 43.68% ... -46.37%"
+    },
+    {
+      "name": "医疗行业",
+      "segment_type": "product_line",
+      "revenue_amount": "2,612,699,658.48元",
+      "revenue_proportion": "85.59%",
+      "gross_margin": "26.46%",
+      "yoy_change": "-13.46%",
+      "quote": "医疗行业 2,612,699,658.48 85.59% ... 毛利率 26.46% ... -13.46%"
+    },
+    {
+      "name": "康养行业",
+      "segment_type": "product_line",
+      "revenue_amount": "36,064,843.44元",
+      "revenue_proportion": "1.18%",
+      "gross_margin": null,
+      "yoy_change": "35.86%",
+      "quote": "康养行业 36,064,843.44 1.18% ... 35.86%"
+    },
+    {
+      "name": "东北",
+      "segment_type": "region",
+      "revenue_amount": "472,344,594.41元",
+      "revenue_proportion": "15.47%",
+      "gross_margin": "28.24%",
+      "yoy_change": "-25.03%",
+      "quote": "东北 472,344,594.41 15.47% ... 毛利率 28.24% ... -25.03%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "1,117,456,539.62元",
+      "revenue_proportion": "36.61%",
+      "gross_margin": "26.19%",
+      "yoy_change": "-13.69%",
+      "quote": "华东 1,117,456,539.62 36.61% ... 毛利率 26.19% ... -13.69%"
+    },
+    {
+      "name": "华中",
+      "segment_type": "region",
+      "revenue_amount": "537,377,730.55元",
+      "revenue_proportion": "17.60%",
+      "gross_margin": "35.69%",
+      "yoy_change": "-8.68%",
+      "quote": "华中 537,377,730.55 17.60% ... 毛利率 35.69% ... -8.68%"
+    },
+    {
+      "name": "西南",
+      "segment_type": "region",
+      "revenue_amount": "424,413,823.07元",
+      "revenue_proportion": "13.90%",
+      "gross_margin": "25.85%",
+      "yoy_change": "-23.11%",
+      "quote": "西南 424,413,823.07 13.90% ... 毛利率 25.85% ... -23.11%"
+    },
+    {
+      "name": "直辖市",
+      "segment_type": "region",
+      "revenue_amount": "333,762,482.30元",
+      "revenue_proportion": "10.93%",
+      "gross_margin": "27.31%",
+      "yoy_change": "-34.96%",
+      "quote": "直辖市 333,762,482.30 10.93% ... 毛利率 27.31% ... -34.96%"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "353,185,889.70元",
+      "revenue_proportion": "11.57%",
+      "gross_margin": "49.29%",
+      "yoy_change": "-48.67%",
+      "quote": "经销模式 353,185,889.70 11.57% ... 毛利率 49.29% ... -48.67%"
+    },
+    {
+      "name": "终端模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,699,552,619.13元",
+      "revenue_proportion": "88.43%",
+      "gross_margin": "26.13%",
+      "yoy_change": "-13.22%",
+      "quote": "终端模式 2,699,552,619.13 88.43% ... 毛利率 26.13% ... -13.22%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "医养结合床位",
+      "metric_type": "capacity",
+      "value": "超2000张",
+      "period": "报告期末",
+      "quote": "医养结合床位超2000张，其中养老床位近1000张。"
+    },
+    {
+      "product": "AI影像辅助诊断报告",
+      "metric_type": "sales_volume",
+      "value": "20.8万份",
+      "period": "报告期内",
+      "quote": "影像AI累计完成辅助诊断报告20.8万份"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "崇州二医院在建工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投入增加",
+      "expected_completion_time": null,
+      "quote": "报告期子公司崇州二医院、盱眙中医院在建工程投入增加。"
+    },
+    {
+      "name": "盱眙中医院在建工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投入增加",
+      "expected_completion_time": null,
+      "quote": "报告期子公司崇州二医院、盱眙中医院在建工程投入增加。"
+    },
+    {
+      "name": "康养床位扩张计划",
+      "project_type": "capacity_expansion",
+      "location": "医疗机构所在城市和相应省会城市",
+      "investment_amount": null,
+      "designed_capacity": "三年内预计控股康养床位达10000张",
+      "progress": "规划中",
+      "expected_completion_time": "三年内",
+      "quote": "公司将通过现有医疗机构牵头，在医疗机构所在城市和相应省会城市，持续新设开展康养业务，并通过在一线城市和省会城市并购扩张，三年内预计控股康养床位达10000张。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "独一味胶囊指纹图谱研究",
+      "asset_type": "core_technology",
+      "related_product": "独一味胶囊",
+      "quantitative_info": null,
+      "quote": "独一味胶囊指纹图谱研究 建立专属性的指纹图谱或质控指标"
+    },
+    {
+      "name": "独一味胶囊质量标准提升",
+      "asset_type": "core_technology",
+      "related_product": "独一味胶囊",
+      "quantitative_info": null,
+      "quote": "独一味胶囊质量标准提升 增加独一味胶囊指纹图谱标准"
+    },
+    {
+      "name": "“独一味”品牌",
+      "asset_type": "certification",
+      "related_product": "独一味系列产品",
+      "quantitative_info": "中国驰名商标",
+      "quote": "“独一味”是中国驰名商标"
+    },
+    {
+      "name": "佛仁制药品牌",
+      "asset_type": "certification",
+      "related_product": "佛仁制药产品",
+      "quantitative_info": "中华老字号",
+      "quote": "佛仁制药是“中华老字号”企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "4.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 4.52%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "30.85%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 30.85%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "独一味系列产品中选全国中成药采购联盟集中带量采购，对公司业绩产生影响。",
+      "related_entity": "康县独一味生物制药有限公司",
+      "related_product": "独一味系列产品",
+      "quote": "独一味制药旗下“独一味”系列产品成功中选全国中成药采购联盟集中带量采购... 1、子公司康县独一味生物制药有限公司净利润较上年同期减少8,241万元，下降416.26%，主要系独一味系列产品集采的影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "医保清算政策对子公司业绩产生影响。",
+      "related_entity": "盱眙恒山中医医院有限公司",
+      "related_product": "医疗服务",
+      "quote": "2、子公司盱眙恒山中医医院有限公司净利润较上年同期减少3,110万元，下降666.38%，主要系医保清算影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处医疗、医药行业竞争激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司需面对行业竞争加剧等风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司资产负债率较高，且存在未弥补亏损，面临一定的偿债和流动性压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至2025年12月31日，公司未分配利润为-2,934,118,967.04元，母公司未分配利润为-2,880,722,203.24元，公司未分配利润为负... 公司净流动负债为人民币1,632,690,981.69元。"
+    }
+  ]
+}

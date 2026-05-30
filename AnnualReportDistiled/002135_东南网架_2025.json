@@ -1,0 +1,586 @@
+{
+  "company_name_mentioned": "浙江东南网架股份有限公司",
+  "produces": [
+    {
+      "name": "钢构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司生产的钢构件产品广泛应用在大跨度公共建筑、高层建筑、工业厂房（轻钢）、桥梁、住宅等。"
+    },
+    {
+      "name": "涤纶长丝",
+      "type": "material",
+      "revenue_proportion": "29.56%",
+      "quote": "公司化纤板块主要业务为涤纶长丝的生产和销售，由控股子公司东南新材料（杭州）股份有限公司负责生产和经营，产品包括涤纶预取向丝（POY）、涤纶牵引丝（FDY）、拉伸变形丝（DTY）、聚酯切片等系列。"
+    },
+    {
+      "name": "涤纶预取向丝（POY）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "产品包括涤纶预取向丝（POY）、涤纶牵引丝（FDY）、拉伸变形丝（DTY）、聚酯切片等系列。"
+    },
+    {
+      "name": "涤纶牵引丝（FDY）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "产品包括涤纶预取向丝（POY）、涤纶牵引丝（FDY）、拉伸变形丝（DTY）、聚酯切片等系列。"
+    },
+    {
+      "name": "拉伸变形丝（DTY）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "产品包括涤纶预取向丝（POY）、涤纶牵引丝（FDY）、拉伸变形丝（DTY）、聚酯切片等系列。"
+    },
+    {
+      "name": "聚酯切片",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "产品包括涤纶预取向丝（POY）、涤纶牵引丝（FDY）、拉伸变形丝（DTY）、聚酯切片等系列。"
+    },
+    {
+      "name": "工程总承包服务",
+      "type": "service",
+      "revenue_proportion": "67.20%",
+      "quote": "公司建筑板块主要业务包括钢结构建筑及围护系统的设计、制造、安装以及房屋建筑和市政基础设施等项目的工程总承包，提供从设计、采购、制作、施工、项目管理全过程的工程总承包服务。"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "0.76%",
+      "quote": "公司新能源板块业务主要为光伏建筑业务领域，业务主要涵盖了公共建筑、工商业厂房领域光伏电站EPC、光伏电站运营、储能领域等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "钢构件",
+      "cost_proportion": null,
+      "quote": "公司钢结构生产所需的主要原材料为钢材，原材料占公司主营业务成本比例较高。"
+    },
+    {
+      "name": "PTA",
+      "target_product": "涤纶长丝",
+      "cost_proportion": null,
+      "quote": "从上游来看，涤纶长丝的生产主要依赖于PTA、MEG等原料，PTA、MEG的生产又受到石油等大宗商品价格的影响。"
+    },
+    {
+      "name": "MEG",
+      "target_product": "涤纶长丝",
+      "cost_proportion": null,
+      "quote": "从上游来看，涤纶长丝的生产主要依赖于PTA、MEG等原料，PTA、MEG的生产又受到石油等大宗商品价格的影响。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "大跨度公共建筑",
+      "source_product": "钢构件",
+      "quote": "其中，大跨度公共建筑包括交通枢纽（车站、机场）、文体与展览中心、能源（电厂等）类建筑。"
+    },
+    {
+      "name": "高层建筑",
+      "source_product": "钢构件",
+      "quote": "公司生产的钢构件产品广泛应用在大跨度公共建筑、高层建筑、工业厂房（轻钢）、桥梁、住宅等。"
+    },
+    {
+      "name": "工业厂房（轻钢）",
+      "source_product": "钢构件",
+      "quote": "公司生产的钢构件产品广泛应用在大跨度公共建筑、高层建筑、工业厂房（轻钢）、桥梁、住宅等。"
+    },
+    {
+      "name": "桥梁",
+      "source_product": "钢构件",
+      "quote": "公司生产的钢构件产品广泛应用在大跨度公共建筑、高层建筑、工业厂房（轻钢）、桥梁、住宅等。"
+    },
+    {
+      "name": "住宅",
+      "source_product": "钢构件",
+      "quote": "公司生产的钢构件产品广泛应用在大跨度公共建筑、高层建筑、工业厂房（轻钢）、桥梁、住宅等。"
+    },
+    {
+      "name": "服装",
+      "source_product": "涤纶长丝",
+      "quote": "从下游来看，产品主要应用于服装、家纺和产业用纺织品等领域。"
+    },
+    {
+      "name": "家纺",
+      "source_product": "涤纶长丝",
+      "quote": "从下游来看，产品主要应用于服装、家纺和产业用纺织品等领域。"
+    },
+    {
+      "name": "产业用纺织品",
+      "source_product": "涤纶长丝",
+      "quote": "从下游来看，产品主要应用于服装、家纺和产业用纺织品等领域。"
+    },
+    {
+      "name": "光伏建筑一体化（BIPV）",
+      "source_product": "光伏发电",
+      "quote": "公司以“装配式+EPC+BIPV”的建设模式及“投资、建设、运维一体化”的运营模式来拓展光伏建筑一体化市场。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郭明明",
+      "role": "董事长、实际控制人",
+      "quote": "公司实际控制人郭明明先生为本公司创始人，同时担任公司董事长。"
+    },
+    {
+      "name": "徐春祥",
+      "role": "董事、总经理",
+      "quote": "公司负责人徐春祥、主管会计工作负责人徐佳玮及会计机构负责人（会计主管人员）胡古松声明：保证本年度报告中财务报告的真实、准确、完整。现任公司董事、总经理。"
+    },
+    {
+      "name": "周观根",
+      "role": "董事、常务副总经理、设计院院长、总工程师",
+      "quote": "现任公司董事兼常务副总经理、设计院院长、总工程师。"
+    },
+    {
+      "name": "何月珍",
+      "role": "董事、副总经理",
+      "quote": "现任公司董事兼副总经理。"
+    },
+    {
+      "name": "蒋建华",
+      "role": "董事会秘书",
+      "quote": "董事会秘书姓名 蒋建华"
+    },
+    {
+      "name": "徐佳玮",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人徐佳玮"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江东南网架集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东，东南集团 指 浙江东南网架集团有限公司"
+    },
+    {
+      "name": "东南新材料（杭州）股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司化纤板块主要业务由该公司负责生产和经营",
+      "quote": "东南新材料公司 指 东南新材料（杭州）股份有限公司，系公司控股子公司"
+    },
+    {
+      "name": "天津东南钢结构有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津东南公司 指 天津东南钢结构有限公司，系公司全资子公司"
+    },
+    {
+      "name": "浙江东南钢结构有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "浙江东南公司 指 浙江东南钢结构有限公司，系公司全资子公司"
+    },
+    {
+      "name": "成都东南钢结构有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "成都东南公司 指 成都东南钢结构有限公司，系公司全资子公司"
+    },
+    {
+      "name": "广州五羊钢结构有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广州五羊公司 指 广州五羊钢结构有限公司，系公司全资子公司"
+    },
+    {
+      "name": "杭州东南国际工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东南国际公司 指 杭州东南国际工程有限公司，系公司全资子公司"
+    },
+    {
+      "name": "浙江东南绿建集成科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东南绿建公司 指 浙江东南绿建集成科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "浙江东南碳中和科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东南碳中和公司 指 浙江东南碳中和科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "东南国际贸易（海南）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "其他业务主要包括大宗商品供应链等业务",
+      "quote": "公司其他业务主要包括大宗商品供应链等业务。公司全资子公司东南国际贸易（海南）有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "建筑行业",
+      "segment_type": "product_line",
+      "revenue_amount": "6,302,168,393.49元",
+      "revenue_proportion": "67.20%",
+      "gross_margin": "11.07%",
+      "yoy_change": "-19.67%",
+      "quote": "建筑行业 6,302,168,393.49 67.20% 7,844,979,607.18 69.78% -19.67%"
+    },
+    {
+      "name": "化纤行业",
+      "segment_type": "product_line",
+      "revenue_amount": "2,772,179,484.33元",
+      "revenue_proportion": "29.56%",
+      "gross_margin": "0.86%",
+      "yoy_change": "-11.27%",
+      "quote": "化纤行业 2,772,179,484.33 29.56% 3,124,181,854.69 27.79% -11.27%"
+    },
+    {
+      "name": "光伏行业",
+      "segment_type": "product_line",
+      "revenue_amount": "71,838,189.40元",
+      "revenue_proportion": "0.76%",
+      "gross_margin": null,
+      "yoy_change": "-0.50%",
+      "quote": "光伏行业 71,838,189.40 0.76% 72,196,889.78 0.64% -0.50%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "other",
+      "revenue_amount": "232,285,851.50元",
+      "revenue_proportion": "2.48%",
+      "gross_margin": null,
+      "yoy_change": "15.61%",
+      "quote": "其他 232,285,851.50 2.48% 200,926,799.07 1.79% 15.61%"
+    },
+    {
+      "name": "建筑施工",
+      "segment_type": "product_line",
+      "revenue_amount": "6,302,168,393.49元",
+      "revenue_proportion": "67.20%",
+      "gross_margin": "11.07%",
+      "yoy_change": "-19.67%",
+      "quote": "建筑施工 6,302,168,393.49 67.20% 7,844,979,607.18 69.78% -19.67%"
+    },
+    {
+      "name": "涤纶长丝",
+      "segment_type": "product_line",
+      "revenue_amount": "2,772,179,484.33元",
+      "revenue_proportion": "29.56%",
+      "gross_margin": "0.86%",
+      "yoy_change": "-11.27%",
+      "quote": "涤纶长丝 2,772,179,484.33 29.56% 3,124,181,854.69 27.79% -11.27%"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "71,838,189.40元",
+      "revenue_proportion": "0.77%",
+      "gross_margin": null,
+      "yoy_change": "-0.50%",
+      "quote": "光伏发电 71,838,189.40 0.77% 72,196,889.78 0.64% -0.50%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "9,280,333,572.51元",
+      "revenue_proportion": "98.95%",
+      "gross_margin": "8.48%",
+      "yoy_change": "-17.28%",
+      "quote": "国内 9,280,333,572.51 98.95% 11,219,372,898.82 99.80% -17.28%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "98,138,346.21元",
+      "revenue_proportion": "1.05%",
+      "gross_margin": null,
+      "yoy_change": "328.32%",
+      "quote": "国外 98,138,346.21 1.05% 22,912,251.90 0.20% 328.32%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "涤纶长丝",
+      "metric_type": "capacity",
+      "value": "年产50万吨差别化功能性聚酯纤维产品",
+      "period": null,
+      "quote": "目前公司设计产能已达到年产50万吨差别化功能性聚酯纤维产品。"
+    },
+    {
+      "product": "建筑钢结构行业",
+      "metric_type": "sales_volume",
+      "value": "31.38万吨",
+      "period": "2025年",
+      "quote": "建筑钢结构行业 销售量 万吨 31.38"
+    },
+    {
+      "product": "建筑钢结构行业",
+      "metric_type": "production_volume",
+      "value": "28.71万吨",
+      "period": "2025年",
+      "quote": "建筑钢结构行业 生产量 万吨 28.71"
+    },
+    {
+      "product": "建筑钢结构行业",
+      "metric_type": "inventory_volume",
+      "value": "2.57万吨",
+      "period": "2025年末",
+      "quote": "建筑钢结构行业 库存量 万吨 2.57"
+    },
+    {
+      "product": "化纤行业",
+      "metric_type": "sales_volume",
+      "value": "46.27万吨",
+      "period": "2025年",
+      "quote": "化纤行业 销售量 万吨 46.27"
+    },
+    {
+      "product": "化纤行业",
+      "metric_type": "production_volume",
+      "value": "45.63万吨",
+      "period": "2025年",
+      "quote": "化纤行业 生产量 万吨 45.63"
+    },
+    {
+      "product": "化纤行业",
+      "metric_type": "inventory_volume",
+      "value": "4.72万吨",
+      "period": "2025年末",
+      "quote": "化纤行业 库存量 万吨 4.72"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "other",
+      "value": "累计实现光伏总装机容量1.6GW",
+      "period": "截至报告期",
+      "quote": "目前，累计实现光伏总装机容量1.6GW。"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "other",
+      "value": "五年来投资光伏230MW",
+      "period": null,
+      "quote": "五年来投资光伏230MW、用户侧储能30MW。"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "other",
+      "value": "用户侧储能30MW",
+      "period": null,
+      "quote": "五年来投资光伏230MW、用户侧储能30MW。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "萧山西电电子科技产业园EPC总承包项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "90,000.00万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已累计投入44,344.58万元，累计毛利率14.75%",
+      "expected_completion_time": null,
+      "quote": "萧山西电电子科技产业园EPC总承包项目 截止2025年12月底，公司募集资金已投入44,344.58万元，累计毛利26,581.32万元，累计毛利率14.75%"
+    },
+    {
+      "name": "杭州国际博览中心二期地块EPC总承包项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "60,000.00万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已累计投入57,600.56万元，累计毛利率10.46%，暂未达到预计效益",
+      "expected_completion_time": null,
+      "quote": "杭州国际博览中心二期地块EPC总承包项目 截止2025年12月底，公司募集资金已投入57,600.56万元，累计毛利18,131.39万元，累计毛利率10.46%，暂未达到预计效益"
+    },
+    {
+      "name": "萧山（浦阳）零碳桃源里110MW农光互补光伏电站项目",
+      "project_type": "capacity_expansion",
+      "location": "浙江省杭州市萧山区浦阳镇",
+      "investment_amount": "约5亿元",
+      "designed_capacity": "交流侧容量110MW，直流侧130MWp",
+      "progress": "正在建设中",
+      "expected_completion_time": "预计2026年竣工并网发电",
+      "quote": "公司拟利用浦阳镇广阔耕地、林地投资建设大型集中式光伏电站、储能项目。...目前该项目正在建设中，预计2026年竣工并网发电。"
+    },
+    {
+      "name": "钱江世纪城智能综合科创园EPC工程总承包",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "合同金额：11.83亿元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "报告期内，公司承接了钱江世纪城智能综合科创园EPC工程总承包（合同金额：11.83亿元）"
+    },
+    {
+      "name": "杭政储出（2025）20号智能机器人及康养医疗科技研发基地项目一期EPC工程总承包",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "合同金额：13.23亿元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "杭政储出（2025）20号智能机器人及康养医疗科技研发基地项目一期EPC工程总承包（合同金额：13.23亿元）"
+    },
+    {
+      "name": "浦沿街道五村联合统筹开发项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "合同金额：16.86亿元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "浦沿街道五村联合统筹开发项目（合同金额：16.86亿元）"
+    },
+    {
+      "name": "中国视谷产业基地（标准厂房）项目EPC工程总承包",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "合同金额：8.87亿元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "中国视谷产业基地（标准厂房）项目EPC工程总承包（合同金额：8.87亿元）"
+    },
+    {
+      "name": "杭州国际博览中心二期项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "项目金额412,405.413万元，公司承担约210,000万元",
+      "designed_capacity": null,
+      "progress": "履约进度90%",
+      "expected_completion_time": null,
+      "quote": "杭州国际博览中心二期项目（萧政储出（2020）8号）地块EPC总承包 项目金额 4,124,054,130.00 业务模式 工程总承包EPC 履约进度 90%"
+    },
+    {
+      "name": "20万吨新型装配式钢结构数字化工厂",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "20万吨新型装配式钢结构",
+      "progress": "入选“2021年杭州市未来工厂首批培育企业名单”等",
+      "expected_completion_time": null,
+      "quote": "公司投资建设行业首家“20万吨新型装配式钢结构数字化工厂”，引入了自动化、智能化柔性生产线...入选“2021年杭州市未来工厂首批培育企业名单”"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "十大核心技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "总体处于世界先进水平，其中五项处于世界领先水平",
+      "quote": "形成了国家重大科学装置结构建造技术、旋转开合屋盖技术、大型公共建筑综合建造技术、桁架加劲多腔体钢板组合剪力墙建筑体系、复杂形体超高层高耸结构建造技术、高性能精细化金属围护系统、钢结构数智建造技术、东南SPB光伏建筑一体化技术、空间网格结构全自产一体化技术、张拉结构建造技术等十大核心技术，总体处于世界先进水平"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "拥有专利500余项，其中国际专利2项，发明专利141项",
+      "quote": "截至目前，公司拥有在空间网格结构、装配式钢结构、光伏建筑一体化等方面专利500余项，其中国际专利2项，发明专利141项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "48项",
+      "quote": "软件著作48项"
+    },
+    {
+      "name": "科学技术进步奖",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "获得国家科学技术进步一等奖、省部级以上科学技术进步奖61项",
+      "quote": "获得国家科学技术进步一等奖、省部级以上科学技术进步奖61项"
+    },
+    {
+      "name": "国家及行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主编或参编了82项国家、地方、行业标准及规程规范",
+      "quote": "主编或参编了82项国家、地方、行业标准及规程规范"
+    },
+    {
+      "name": "建筑工程施工总承包特级资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年10月，经住建部核准，公司获得建筑工程施工总承包特级资质。"
+    },
+    {
+      "name": "装配式钢结构住宅低碳技术创新及产业化示范基地",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "全国唯一",
+      "quote": "作为国家发改委批准的全国唯一“装配式钢结构住宅低碳技术创新及产业化示范基地”"
+    },
+    {
+      "name": "国家装配式建筑产业基地",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "全国首批",
+      "quote": "和住建部全国首批“国家装配式建筑产业基地”"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "行业首家",
+      "quote": "公司拥有行业首家国家级企业技术中心"
+    },
+    {
+      "name": "全国示范院士专家工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "国家级博士后科研工作站、全国示范院士专家工作站"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "7.21%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "前5大客户资料 序号 1 客户名称 客户一 销售额（元） 676,201,196.56 占年度销售总额比例 7.21%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "19.76%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,853,794,732.37 前五名客户合计销售金额占年度销售总额比例 19.76%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "20.92%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "前5名供应商资料 序号 1 供应商名称 供应商一 采购额（元） 944,121,020.67 占年度采购总额比例 20.92%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "54.80%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,472,594,968.75 前五名供应商合计采购金额占年度采购总额比例 54.80%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济政策变化及经济增长放缓，将对公司长远发展产生影响。如果国内经济发展缓慢，或经济出现周期性波动，整个国民经济中固定资产投资速度也将相应放缓，进而影响到公司下游客户投资意愿，将对公司未来盈利能力产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济周期风险 公司所属建筑钢结构行业与宏观经济政策和景气度密切相关，固定资产投资规模、城市化进程、基础设施建设等因素对公司发展战略影响深远且重大，宏观经济政策变化及经济增长放缓，将对公司长远发展产生影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司钢结构生产所需的主要原材料为钢材，原材料占公司主营业务成本比例较高。随着主要原材料供求关系和市场竞争状况的不断变化，公司主营业务成本也随之波动。如果公司工程投标定价未能根据钢材价格波动做出适时调整，或者公司工程合同签约后钢材价格出现大幅波动，而公司又没有在恰当时机安排采购，对于公司已签订闭口合同的订单而言，将形成一定的风险敞口，对公司未来的盈利能力产生不利影响。对于公司涤纶长丝业务而言，原材料PTA、MEG价格是决定涤纶长丝价格的主要因素，原材料价格的大幅波动将增大公司存货管理的难度，引致存货跌价损失的风险，并且会造成公司产品毛利率一定幅度的波动，进而导致公司涤纶长丝业务的利润水平波动。",
+      "related_entity": null,
+      "related_product": "钢材、涤纶长丝",
+      "quote": "2、原材料价格大幅波动风险 公司钢结构生产所需的主要原材料为钢材，原材料占公司主营业务成本比例较高。...对于公司涤纶长丝业务而言，原材料PTA、MEG价格是决定涤纶长丝价格的主要因素..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司应收账款余额较大，应收账款净额占总资产比例较高是由所处行业的特点决定的。随着本公司业务规模的扩大，公司应收账款余额总体上呈增加趋势，应收账款净额占总资产的比例预计仍将可能保持较高水平。如果公司应收账款的催收不利或者因工程业主资信和经营状况恶化导致工程款不能按合同及时支付，将影响公司的资金周转速度和经营活动现金流量，从而对公司的生产经营及业绩水平造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、应收账款回款风险 公司应收账款余额较大，应收账款净额占总资产比例较高是由所处行业的特点决定的。...如果公司应收账款的催收不利或者因工程业主资信和经营状况恶化导致工程款不能按合同及时支付，将影响公司的资金周转速度和经营活动现金流量..."
+    }
+  ]
+}

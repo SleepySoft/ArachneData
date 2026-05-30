@@ -1,0 +1,436 @@
+{
+  "company_name_mentioned": "唐人神集团股份有限公司",
+  "produces": [
+    {
+      "name": "饲料",
+      "type": "material",
+      "revenue_proportion": "占营业收入总额比重为60.03%",
+      "quote": "2025年，公司实现饲料内外销量657.24万吨，同比增长4.65%，实现营业收入145.35亿元，占营业收入总额比重为60.03%。"
+    },
+    {
+      "name": "生猪",
+      "type": "material",
+      "revenue_proportion": "占营业收入总额比重为34.25%",
+      "quote": "2025年，公司销售生猪533.25万头，同比增长22.98%，实现营业收入82.94亿元，占营业收入总额比重为34.25%。"
+    },
+    {
+      "name": "肉品",
+      "type": "material",
+      "revenue_proportion": "占营业收入总额比重为5.66%",
+      "quote": "2025年公司肉品业务实现营业收入13.72亿元，占营业收入总额比重为5.66%。"
+    },
+    {
+      "name": "动物保健产品",
+      "type": "material",
+      "revenue_proportion": "0.06%",
+      "quote": "动物保健 13,667,225.92 0.06%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "玉米、小麦、豆粕、菜粕、棉粕、鱼粉、各种维生素及矿物质等",
+      "target_product": "饲料",
+      "cost_proportion": null,
+      "quote": "饲料业务成本主要由玉米、小麦、豆粕、菜粕、棉粕、鱼粉、各种维生素及矿物质等原材料构成。"
+    },
+    {
+      "name": "猪肉",
+      "target_product": "肉制品",
+      "cost_proportion": null,
+      "quote": "公司肉制品加工业务的主要原料是猪肉。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "养殖（猪、禽、水产）",
+      "source_product": "饲料",
+      "quote": "公司饲料产品以猪料、禽料、水产料为主...组建以技术和销售为核心的“铁三角”团队，重点开发规模猪场。"
+    },
+    {
+      "name": "食品消费",
+      "source_product": "肉品",
+      "quote": "致力于农家富裕，打造绿色食品，为居民提供安全放心的肉制品...已和盒马鲜生、山姆会员店等新型商超建立合作，也逐步构建了包括天猫、抖音、小红书等在内的营销矩阵。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陶一山",
+      "role": "实际控制人、董事长",
+      "quote": "公司的实际控制人陶一山...陶一山先生，中国国籍...现任公司董事长。"
+    },
+    {
+      "name": "陶业",
+      "role": "董事、副董事长、总裁",
+      "quote": "陶业先生...2018年7月至今担任公司总裁，2019年7月至今担任公司副董事长。"
+    },
+    {
+      "name": "孙双胜",
+      "role": "董事、董事会秘书",
+      "quote": "孙双胜先生...2011年11月至今担任公司董事会秘书，2016年6月至今担任公司董事。"
+    },
+    {
+      "name": "杨志",
+      "role": "董事、财务总监",
+      "quote": "杨志先生...2019年11月至今担任公司财务总监，2022年6月至今担任公司董事。"
+    },
+    {
+      "name": "于红清",
+      "role": "董事、行政总监",
+      "quote": "于红清先生...2022年12月至今担任公司行政总监，2024年3月至今担任公司董事。"
+    },
+    {
+      "name": "李娟",
+      "role": "职工董事、人力资源总监",
+      "quote": "李娟女士...2022年12月至今担任公司人力资源总监，2025年7月至今担任公司职工董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "湖南唐人神控股投资股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、唐人神控股 指 湖南唐人神控股投资股份有限公司"
+    },
+    {
+      "name": "大生行饲料有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "大生行 指 大生行饲料有限公司"
+    },
+    {
+      "name": "山东和美集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "饲料生产、销售",
+      "quote": "和美、和美集团、山东和美 指 山东和美集团有限公司"
+    },
+    {
+      "name": "湖南香乡猪食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "香乡猪 指 湖南香乡猪食品有限公司"
+    },
+    {
+      "name": "中科院亚热带农业生态研究所",
+      "relation_type": "other",
+      "business_details": "育种技术合作",
+      "quote": "并与中科院亚热带农业生态研究所、湖南农业大学、华中农业大学等机构深度合作。"
+    },
+    {
+      "name": "江南大学",
+      "relation_type": "other",
+      "business_details": "食养产品研发合作",
+      "quote": "与江南大学深度产学研合作，联合科研团队共建“唐小厨食养产品研发中心”。"
+    },
+    {
+      "name": "盒马鲜生",
+      "relation_type": "customer",
+      "business_details": "销售渠道合作",
+      "quote": "公司已和盒马鲜生、山姆会员店等新型商超建立合作。"
+    },
+    {
+      "name": "山姆会员店",
+      "relation_type": "customer",
+      "business_details": "销售渠道合作",
+      "quote": "公司已和盒马鲜生、山姆会员店等新型商超建立合作。"
+    },
+    {
+      "name": "中国饲料工业协会",
+      "relation_type": "other",
+      "business_details": "行业组织，负责人任职",
+      "quote": "陶一山先生...中国饲料工业协会常务副会长"
+    },
+    {
+      "name": "中国畜牧业协会猪业分会",
+      "relation_type": "other",
+      "business_details": "行业组织，负责人任职",
+      "quote": "陶业先生...中国畜牧业协会猪业分会副会长"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "饲料",
+      "segment_type": "product_line",
+      "revenue_amount": "14,535,494,318.69元",
+      "revenue_proportion": "60.03%",
+      "gross_margin": "6.85%",
+      "yoy_change": "-3.40%",
+      "quote": "饲料 14,535,494,318.69 60.03%...14,535,494,318 .69 13,540,477,723 .29 6.85% -3.40% -3.70% 0.30%"
+    },
+    {
+      "name": "养殖",
+      "segment_type": "product_line",
+      "revenue_amount": "8,294,013,450.67元",
+      "revenue_proportion": "34.25%",
+      "gross_margin": "-1.07%",
+      "yoy_change": "8.27%",
+      "quote": "养殖 8,294,013,450.67 34.25%...8,294,013,450. 67 8,383,029,474. 18 -1.07% 8.27% 26.69% -14.69%"
+    },
+    {
+      "name": "屠宰及肉类",
+      "segment_type": "product_line",
+      "revenue_amount": "1,371,685,930.71元",
+      "revenue_proportion": "5.66%",
+      "gross_margin": null,
+      "yoy_change": "-15.33%",
+      "quote": "屠宰及肉类 1,371,685,930.71 5.66%"
+    },
+    {
+      "name": "华中",
+      "segment_type": "region",
+      "revenue_amount": "8,640,049,648.23元",
+      "revenue_proportion": "35.68%",
+      "gross_margin": null,
+      "yoy_change": "8.09%",
+      "quote": "华中 8,640,049,648.23 35.68%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "7,393,314,102.43元",
+      "revenue_proportion": "30.53%",
+      "gross_margin": null,
+      "yoy_change": "-4.63%",
+      "quote": "华东 7,393,314,102.43 30.53%"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "5,910,604,016.79元",
+      "revenue_proportion": "24.41%",
+      "gross_margin": null,
+      "yoy_change": "-0.50%",
+      "quote": "华南 5,910,604,016.79 24.41%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "饲料",
+      "metric_type": "sales_volume",
+      "value": "6,572,446.34吨",
+      "period": "2025年",
+      "quote": "销售量 吨 6,572,446.34"
+    },
+    {
+      "product": "饲料",
+      "metric_type": "production_volume",
+      "value": "6,573,944.72吨",
+      "period": "2025年",
+      "quote": "生产量 吨 6,573,944.72"
+    },
+    {
+      "product": "饲料",
+      "metric_type": "inventory_volume",
+      "value": "52,848.43吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 52,848.43"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "sales_volume",
+      "value": "5,332,516.00头",
+      "period": "2025年",
+      "quote": "销售量 头 5,332,516.00"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "production_volume",
+      "value": "5,575,471.00头",
+      "period": "2025年",
+      "quote": "生产量 头 5,575,471.00"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "inventory_volume",
+      "value": "2,323,581.00头",
+      "period": "2025年末",
+      "quote": "库存量 头 2,323,581.00"
+    },
+    {
+      "product": "肉品",
+      "metric_type": "sales_volume",
+      "value": "86,741.01吨",
+      "period": "2025年",
+      "quote": "销售量 吨 86,741.01"
+    },
+    {
+      "product": "肉品",
+      "metric_type": "production_volume",
+      "value": "86,724.21吨",
+      "period": "2025年",
+      "quote": "生产量 吨 86,724.21"
+    },
+    {
+      "product": "肉品",
+      "metric_type": "inventory_volume",
+      "value": "344.50吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 344.50"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "茶陵县严塘镇十里冲年存栏3万头繁殖基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "28,000.26万元",
+      "designed_capacity": "年存栏3万头",
+      "progress": "已完工",
+      "expected_completion_time": "2021年11月01日",
+      "quote": "茶陵县严塘镇十里冲年存栏3万头繁殖基地建设项目 ... 28,000.26 100.38%"
+    },
+    {
+      "name": "云浮市云安温氏生态养殖有限公司猪苗养殖生产建设项目",
+      "project_type": "fundraising_project",
+      "location": "云浮市云安",
+      "investment_amount": "10,489.42万元",
+      "designed_capacity": null,
+      "progress": "已完工",
+      "expected_completion_time": "2023年08月31日",
+      "quote": "云浮市云安温氏生态养殖有限公司猪苗养殖生产建设项目 ... 10,489.42 100.28%"
+    },
+    {
+      "name": "雅安美神养殖有限公司红岩9600头基础母猪苗猪场项目",
+      "project_type": "fundraising_project",
+      "location": "四川省雅安市",
+      "investment_amount": "5,291.46万元",
+      "designed_capacity": "9600头基础母猪",
+      "progress": "在建（产能利用率逐步提升）",
+      "expected_completion_time": "2025年08月31日",
+      "quote": "雅安美神养殖有限公司红岩9600头基础母猪苗猪场项目 ... 5,291.46 91.23%"
+    },
+    {
+      "name": "集团化云平台建设与升级项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "8,608万元",
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": "2028年06月30日",
+      "quote": "集团化云平台建设与升级项目 ... 8,608 67.28%"
+    },
+    {
+      "name": "数字智能化养殖体系建设与升级项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "21,392万元",
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": "2028年06月30日",
+      "quote": "数字智能化养殖体系建设与升级项目 ... 21,392 12.61%"
+    },
+    {
+      "name": "茶陵香乡猪生产基地",
+      "project_type": "capacity_expansion",
+      "location": "茶陵",
+      "investment_amount": null,
+      "designed_capacity": "年出栏生猪180万头",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司重点投资建设完成茶陵香乡猪生产基地，具有年出栏生猪180万头的产能。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "新丹系GGP种猪及“美神”种猪",
+      "asset_type": "process_technology",
+      "related_product": "生猪",
+      "quantitative_info": null,
+      "quote": "公司于2020年从丹麦引进新丹系GGP种猪，经过5年选育，目前公司已拥有曾祖代原种母猪核心群，培育出拥有各种优秀性能的“美神”新丹系种猪。"
+    },
+    {
+      "name": "生物饲料技术",
+      "asset_type": "core_technology",
+      "related_product": "饲料",
+      "quantitative_info": null,
+      "quote": "聚焦生物饲料技术和智能配方技术，致力于通过饲料营养新技术提升猪场母猪繁殖性能，提高原料消化率，降低育肥猪全程料肉比。"
+    },
+    {
+      "name": "低蛋白日粮技术",
+      "asset_type": "core_technology",
+      "related_product": "饲料",
+      "quantitative_info": null,
+      "quote": "专注于饲料原料营养价值评估、低蛋白日粮技术以及生物发酵技术的研究。"
+    },
+    {
+      "name": "食养产品技术（4P营养技术、急冻锁鲜技术等）",
+      "asset_type": "core_technology",
+      "related_product": "肉品",
+      "quantitative_info": null,
+      "quote": "运用“香乡猪”无抗鲜肉，与江南大学深度产学研合作，联合科研团队共建“唐小厨食养产品研发中心”，首创4P营养技术，结合-38℃急冻锁鲜技术和“10分钟”空气炸锅的烹饪技术。"
+    },
+    {
+      "name": "ISO9001质量管理体系、ISO14001环境管理体系、ISO22000食品安全管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司在生产经营过程中严格推行ISO9001质量管理体系、ISO14001环境管理体系和ISO22000食品安全管理体系。"
+    },
+    {
+      "name": "国家级企业技术中心和农业农村部猪基因组智能设计育种重点实验室",
+      "asset_type": "other",
+      "related_product": "生猪育种",
+      "quantitative_info": null,
+      "quote": "建立了国家级企业技术中心和农业农村部猪基因组智能设计育种重点实验室。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "10.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,512,066,228.87...前五名客户合计销售金额占年度销售总额比例 10.37%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "13.10%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 3,553,288,401.03...前五名供应商合计采购金额占年度采购总额比例 13.10%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司的饲料生产、生猪养殖和肉制品加工等业务环节不可避免的会产生噪音、气味、污水等污染...若公司生产过程中未达到环保相关法规的要求，可能面临受到环保主管部门处罚甚至面临被起诉的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、环保风险...公司的饲料生产、生猪养殖和肉制品加工等业务环节不可避免的会产生噪音、气味、污水等污染。"
+    },
+    {
+      "risk_type": "other",
+      "description": "疫病风险是养殖行业在经营发展中面临的主要风险之一...若公司周边地区或所在场区疫病发生频繁，或公司疫病防控体系执行不力，公司将可能面临生猪疫病所引致的产量下降、成本上升甚至亏损等风险。",
+      "related_entity": null,
+      "related_product": "生猪",
+      "quote": "2、疫病风险...生猪养殖过程中发生的疫病包括蓝耳病、猪流行性腹泻、猪伪狂犬病等疫病。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "饲料业务成本主要由玉米、小麦、豆粕、菜粕、棉粕、鱼粉、各种维生素及矿物质等原材料构成...如果上述原材料价格持续上涨或者持续下跌的情形，将对饲料产品的生产成本、销售价格、毛利率带来直接的影响。",
+      "related_entity": null,
+      "related_product": "饲料",
+      "quote": "3、原材料价格波动风险...饲料业务成本主要由玉米、小麦、豆粕、菜粕、棉粕、鱼粉、各种维生素及矿物质等原材料构成。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "生猪养殖业务是公司的主营业务之一，由于受到猪的生长周期、存栏量、饲料价格、市场供求等多因素影响，生猪市场价格的周期性波动会导致生猪养殖业务的毛利率等呈现周期性波动。",
+      "related_entity": null,
+      "related_product": "生猪",
+      "quote": "4、生猪价格波动风险...生猪市场价格的周期性波动会导致生猪养殖业务的毛利率等呈现周期性波动。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "若出现上述产品质量或食品安全问题，可能面临消费者投诉、民事赔偿以及行政处罚等不利影响，公司声誉和经营业绩将会遭受不利影响。",
+      "related_entity": null,
+      "related_product": "饲料、生猪、肉制品",
+      "quote": "5、产品质量与食品安全风险...但是仍有可能出现质量控制失误而导致产品质量和食品安全问题。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司规模迅速扩大，子公司数量逐年增加...由于各子公司在地理位置分布上相对比较分散，信息的传递反馈环节较多，将有可能产生管理和控制风险，影响公司正常的生产经营。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、管理控制风险...公司规模迅速扩大，子公司数量逐年增加...将有可能产生管理和控制风险。"
+    }
+  ]
+}

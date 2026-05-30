@@ -1,0 +1,559 @@
+{
+  "company_name_mentioned": "海控南海发展股份有限公司",
+  "produces": [
+    {
+      "name": "幕墙工程",
+      "type": "service",
+      "revenue_proportion": "75.94%",
+      "quote": "分产品\n幕墙工程 75.94%"
+    },
+    {
+      "name": "幕墙玻璃制品",
+      "type": "product",
+      "revenue_proportion": "8.09%",
+      "quote": "分产品\n幕墙玻璃制品 8.09%"
+    },
+    {
+      "name": "特玻材料",
+      "type": "material",
+      "revenue_proportion": "6.92%",
+      "quote": "分产品\n特玻材料 6.92%"
+    },
+    {
+      "name": "电商运营",
+      "type": "service",
+      "revenue_proportion": "9.46%",
+      "quote": "分产品\n电商运营 9.46%"
+    },
+    {
+      "name": "特种玻璃技术输出",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司特种玻璃深加工业务涵盖特种玻璃深加工、特种与普通玻璃生产线设计以及工程技术输出，同时还涉及特种玻璃节能环保技术输出。"
+    },
+    {
+      "name": "Low-E节能玻璃等系列建筑玻璃产品",
+      "type": "product",
+      "revenue_proportion": null,
+      "quote": "其产品线丰富，包括低辐射 Low-E 节能玻璃、高透型Low-E玻璃、遮阳型Low-E玻璃、双银Low-E玻璃、热反射镀膜玻璃、钢化/半钢化玻璃、中空玻璃、夹层玻璃、弯玻璃、双曲弯钢玻璃、弯钢化玻璃、热弯玻璃、彩色打印玻璃、彩釉玻璃等，适用于建筑和装饰的全系列玻璃产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商A",
+      "target_product": null,
+      "cost_proportion": "4.90%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例\n1 供应商A 148,382,629.49 4.90%"
+    },
+    {
+      "name": "供应商B",
+      "target_product": null,
+      "cost_proportion": "3.74%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例\n2 供应商B 113,393,334.25 3.74%"
+    },
+    {
+      "name": "供应商C",
+      "target_product": null,
+      "cost_proportion": "2.67%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例\n3 供应商C 80,804,877.70 2.67%"
+    },
+    {
+      "name": "供应商D",
+      "target_product": null,
+      "cost_proportion": "2.64%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例\n4 供应商D 79,957,181.77 2.64%"
+    },
+    {
+      "name": "供应商E",
+      "target_product": null,
+      "cost_proportion": "2.08%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例\n5 供应商E 62,920,392.96 2.08%"
+    },
+    {
+      "name": "前五大供应商合计采购",
+      "target_product": null,
+      "cost_proportion": "16.02%",
+      "quote": "前五名供应商合计采购金额（元） 485,458,416.17\n前五名供应商合计采购金额占年度采购总额比例 16.02%"
+    },
+    {
+      "name": "铝型材、钢材等原材料",
+      "target_product": "建筑装饰行业",
+      "cost_proportion": null,
+      "quote": "建筑装饰行业对铝型材、钢材等主要原材料价格波动较为敏感，若原材料价格持续上涨，可能导致公司成本上升，对毛利率水平产生不利影响。"
+    },
+    {
+      "name": "品牌方授权商品",
+      "target_product": "电商运营业务",
+      "cost_proportion": null,
+      "quote": "零售模式下，公司取得品牌方授权后在天猫、抖音、唯品会等平台开设店铺，并负责店铺运营、营销、物流等全流程。公司以货品买断的形式向品牌方进行采购，直接将产品通过线上渠道销售至终端消费者。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "政府公共建筑",
+      "source_product": "幕墙工程",
+      "quote": "在幕墙工程领域，公司主要承接政府公共建筑和高层建筑等项目的施工"
+    },
+    {
+      "name": "高层建筑、超高层建筑",
+      "source_product": "幕墙工程",
+      "quote": "在幕墙工程领域，公司主要承接政府公共建筑和高层建筑等项目的施工...在设计施工大空间、复杂结构、特殊形状、超高层等高难度幕墙项目方面具有专长"
+    },
+    {
+      "name": "机场建筑",
+      "source_product": "幕墙工程",
+      "quote": "北京大兴机场、上海浦东国际机场卫星厅、北京首都机场T3、广州白云机场、深圳宝安机场T3、马尔代夫机场等多个国内外重要机场的幕墙工程"
+    },
+    {
+      "name": "建筑装饰",
+      "source_product": "特种玻璃深加工产品",
+      "quote": "适用于建筑和装饰的全系列玻璃产品"
+    },
+    {
+      "name": "食品行业",
+      "source_product": "电商运营服务",
+      "quote": "品牌客户主要聚焦在食品、宠物、母婴和美妆等领域"
+    },
+    {
+      "name": "宠物行业",
+      "source_product": "电商运营服务",
+      "quote": "品牌客户主要聚焦在食品、宠物、母婴和美妆等领域"
+    },
+    {
+      "name": "母婴行业",
+      "source_product": "电商运营服务",
+      "quote": "品牌客户主要聚焦在食品、宠物、母婴和美妆等领域"
+    },
+    {
+      "name": "美妆个护行业",
+      "source_product": "电商运营服务",
+      "quote": "品牌客户主要聚焦在食品、宠物、母婴和美妆等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨晓强",
+      "role": "董事长",
+      "quote": "杨晓强 董事长 2025年08月08日"
+    },
+    {
+      "name": "马珺",
+      "role": "董事、总经理",
+      "quote": "马珺 董事、总经理 2022年09月19日"
+    },
+    {
+      "name": "林婵娟",
+      "role": "董事",
+      "quote": "林婵娟 董事 2022年01月07日"
+    },
+    {
+      "name": "马东艳",
+      "role": "董事",
+      "quote": "马东艳 董事 2024年10月16日"
+    },
+    {
+      "name": "周军",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "周军 董事、副总经理、董事会秘书 2020年06月15日"
+    },
+    {
+      "name": "祁生彪",
+      "role": "董事、总会计师",
+      "quote": "祁生彪 董事、总会计师 2021年05月31日"
+    },
+    {
+      "name": "孟兆胜",
+      "role": "独立董事",
+      "quote": "孟兆胜 独立董事 2022年01月07日"
+    },
+    {
+      "name": "刘红滨",
+      "role": "独立董事",
+      "quote": "刘红滨 独立董事 2020年06月15日"
+    },
+    {
+      "name": "李丽",
+      "role": "独立董事",
+      "quote": "李丽 独立董事 2020年11月10日"
+    },
+    {
+      "name": "王超伟",
+      "role": "常务副总经理",
+      "quote": "王超伟 常务副总经理 2025年01月22日"
+    },
+    {
+      "name": "刘宝",
+      "role": "副总经理",
+      "quote": "刘宝 副总经理 2020年06月15日"
+    },
+    {
+      "name": "易琳雅",
+      "role": "副总经理",
+      "quote": "易琳雅 副总经理 2022年10月10日"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海南省发展控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东海南控股"
+    },
+    {
+      "name": "海南省国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "公司实际控制人变更为海南省国有资产监督管理委员会"
+    },
+    {
+      "name": "深圳市三鑫科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，专注于幕墙工程",
+      "quote": "公司控股子公司三鑫科技"
+    },
+    {
+      "name": "杭州网营科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事电商运营服务",
+      "quote": "公司控股子公司网营科技"
+    },
+    {
+      "name": "广东海控特种玻璃技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，专注于建筑节能玻璃生产",
+      "quote": "公司全资子公司海控特玻"
+    },
+    {
+      "name": "海南海控特玻科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，涉及特种玻璃技术和产品研发等",
+      "quote": "公司控股子公司海控科技"
+    },
+    {
+      "name": "海控三鑫（蚌埠）新能源材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，特玻材料业务",
+      "quote": "子公司海控三鑫（蚌埠）新能源材料有限公司"
+    },
+    {
+      "name": "海南金融控股股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东的一致行动人",
+      "quote": "海南控股及其一致行动人海南金融控股股份有限公司"
+    },
+    {
+      "name": "客户A",
+      "relation_type": "customer",
+      "business_details": "第一大客户，销售额占比24.75%",
+      "quote": "1 客户A 866,303,689.54 24.75%"
+    },
+    {
+      "name": "客户B",
+      "relation_type": "customer",
+      "business_details": "第二大客户，销售额占比9.80%",
+      "quote": "2 客户B 343,001,173.82 9.80%"
+    },
+    {
+      "name": "供应商A",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购额占比4.90%",
+      "quote": "1 供应商A 148,382,629.49 4.90%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "建筑装饰",
+      "segment_type": "product_line",
+      "revenue_amount": "2,657,914,929.44元",
+      "revenue_proportion": "75.94%",
+      "gross_margin": "9.93%",
+      "yoy_change": "-5.97%",
+      "quote": "分行业\n建筑装饰 2,657,914,929.44 75.94%...毛利率 9.93%...营业收入比上年同期增减 -6.19%"
+    },
+    {
+      "name": "玻璃及深加工制造",
+      "segment_type": "product_line",
+      "revenue_amount": "523,025,987.71元",
+      "revenue_proportion": "14.94%",
+      "gross_margin": "10.58%",
+      "yoy_change": "-53.45%",
+      "quote": "分行业\n玻璃及深加工制造 523,025,987.71 14.94%...毛利率 10.58%...营业收入比上年同期增减 -53.77%"
+    },
+    {
+      "name": "大消费",
+      "segment_type": "product_line",
+      "revenue_amount": "331,113,287.22元",
+      "revenue_proportion": "9.46%",
+      "gross_margin": "36.56%",
+      "yoy_change": null,
+      "quote": "分行业\n大消费 331,113,287.22 9.46%...毛利率 36.56%"
+    },
+    {
+      "name": "幕墙工程",
+      "segment_type": "product_line",
+      "revenue_amount": "2,657,914,929.44元",
+      "revenue_proportion": "75.94%",
+      "gross_margin": "9.93%",
+      "yoy_change": "-5.97%",
+      "quote": "分产品\n幕墙工程 2,657,914,929.44 75.94%...毛利率 9.93%...营业收入比上年同期增减 -6.19%"
+    },
+    {
+      "name": "幕墙玻璃制品",
+      "segment_type": "product_line",
+      "revenue_amount": "283,264,331.99元",
+      "revenue_proportion": "8.09%",
+      "gross_margin": "21.46%",
+      "yoy_change": "-21.38%",
+      "quote": "分产品\n幕墙玻璃制品 283,264,331.99 8.09%...毛利率 21.46%...营业收入比上年同期增减 -18.64%"
+    },
+    {
+      "name": "特玻材料",
+      "segment_type": "product_line",
+      "revenue_amount": "242,067,838.79元",
+      "revenue_proportion": "6.92%",
+      "gross_margin": "-1.55%",
+      "yoy_change": "-68.25%",
+      "quote": "分产品\n特玻材料 242,067,838.79 6.92%...毛利率 -1.55%...营业收入比上年同期增减 -68.80%"
+    },
+    {
+      "name": "电商运营",
+      "segment_type": "product_line",
+      "revenue_amount": "331,113,287.22元",
+      "revenue_proportion": "9.46%",
+      "gross_margin": "36.56%",
+      "yoy_change": null,
+      "quote": "分产品\n电商运营 331,113,287.22 9.46%...毛利率 36.56%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "3,211,612,808.62元",
+      "revenue_proportion": "91.75%",
+      "gross_margin": "10.70%",
+      "yoy_change": "-10.10%",
+      "quote": "分地区\n境内 3,211,612,808.62 91.75%...毛利率 10.70%...营业收入比上年同期增减 -10.66%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "288,623,211.54元",
+      "revenue_proportion": "8.25%",
+      "gross_margin": "32.44%",
+      "yoy_change": "-14.92%",
+      "quote": "分地区\n境外 288,623,211.54 8.25%...毛利率 32.44%...营业收入比上年同期增减 -16.21%"
+    },
+    {
+      "name": "淘系平台销售收入",
+      "segment_type": "sales_channel",
+      "revenue_amount": "21,724万元",
+      "revenue_proportion": "65.60%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "2025年8-12月在各平台销售情况：\n平台 销售收入（万元） 销售收入占比\n淘系 21,724 65.60%"
+    },
+    {
+      "name": "抖音平台销售收入",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,849万元",
+      "revenue_proportion": "11.60%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "2025年8-12月在各平台销售情况：\n平台 销售收入（万元） 销售收入占比\n抖音 3,849 11.60%"
+    },
+    {
+      "name": "食品品类销售收入",
+      "segment_type": "customer_type",
+      "revenue_amount": "9,078万元",
+      "revenue_proportion": "27.40%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "2025年8-12月各品类销售情况：\n平台 销售收入（万元） 销售收入占比\n食品 9,078 27.40%"
+    },
+    {
+      "name": "宠物品类销售收入",
+      "segment_type": "customer_type",
+      "revenue_amount": "7,698万元",
+      "revenue_proportion": "23.20%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "2025年8-12月各品类销售情况：\n平台 销售收入（万元） 销售收入占比\n宠物 7,698 23.20%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "全面停产",
+      "period": "2025年9月底",
+      "quote": "子公司海控三鑫于2025年9月底实施全面停产，公司报告期内停止光伏玻璃业务"
+    },
+    {
+      "product": "电商运营服务",
+      "metric_type": "sales_volume",
+      "value": "33,111万元",
+      "period": "2025年8-12月",
+      "quote": "2025年8-12月在各平台销售情况：\n总计 33,111 100.00%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购杭州网营科技股份有限公司51%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "438,424,560元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司拟以现金方式收购...合计持有的杭州网营科技股份有限公司 51%的股份...确定标的公司整体估值为人民币85,965.60万元，本次股权转让所涉标的公司51%股权的转让价格为人民币43,842.46万元"
+    },
+    {
+      "name": "珠海太阳能光伏建筑一体化及节能幕墙节能门窗生产基地二期建设项目",
+      "project_type": "capacity_expansion",
+      "location": "珠海",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "企业自筹，截至报告期末累计实际投入0.00元，进度0.00%",
+      "expected_completion_time": null,
+      "quote": "项目名称 珠海三鑫太阳能光伏建筑一体化及节能幕墙节能门窗生产基地（二期）建设项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "建筑幕墙工程设计专项甲级、施工壹级资质",
+      "asset_type": "certification",
+      "related_product": "幕墙工程",
+      "quantitative_info": null,
+      "quote": "拥有建筑幕墙工程设计专项甲级、施工壹级资质、建筑工程施工总承包贰级资质、钢结构专业承包二级资质证书"
+    },
+    {
+      "name": "建筑幕墙工程专业承包一级、建筑工程施工总承包二级资质",
+      "asset_type": "certification",
+      "related_product": "幕墙工程",
+      "quantitative_info": null,
+      "quote": "截止2025年12月31日，公司2025年新取得或换发新证资质如下:\n企业 资质类别 资质内容\n深圳市三鑫科技发展有限公司 建筑业企业资质 建筑幕墙工程专业承包一级"
+    },
+    {
+      "name": "建筑金属屋（墙）面设计与施工评价特级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "企业 资质类别 资质内容\n深圳市三鑫科技发展有限公司 建筑金属屋(墙)面设计与施工评价等级 建筑金属屋（墙）面设计与施工特级"
+    },
+    {
+      "name": "部级科技项目计划技术成果",
+      "asset_type": "core_technology",
+      "related_product": "幕墙工程",
+      "quantitative_info": "多项",
+      "quote": "单层索网结构玻璃幕墙、大跨度空间建筑复杂幕墙结构体系、点支式玻璃幕墙和采光顶、复杂造型单元式精致建造技术、遮阳节能系统、BIM 建筑 5D 模型信息化管理平台等多项技术成果被住建部列为部级科技项目计划"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "多项",
+      "quote": "获得了国家住建部、广东省、深圳市等政府和行业协会的奖励以及多项国家级科研成果和发明专利"
+    },
+    {
+      "name": "报告期内荣获专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "36项",
+      "quote": "报告期内荣获 36 项专利"
+    },
+    {
+      "name": "热带海洋工程材料及评价全国重点实验室",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "与海南大学、北京航空航天大学联合共建热带海洋工程材料及评价全国重点实验室"
+    },
+    {
+      "name": "TiO₂基高透过低反射Low-E镀膜及制品的开发",
+      "asset_type": "core_technology",
+      "related_product": "特种玻璃",
+      "quantitative_info": "已结题",
+      "quote": "主要研发项目名称 项目目的 项目进展\nTiO₂基高透过低反射Low-E镀膜及制品的开发...已结题"
+    },
+    {
+      "name": "立式激光除膜工艺设计",
+      "asset_type": "process_technology",
+      "related_product": "玻璃深加工",
+      "quantitative_info": "已结题",
+      "quote": "主要研发项目名称 项目目的 项目进展\n立式激光除膜工艺设计...已结题"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "48.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 48.19%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "24.75%",
+      "related_entity": "客户A",
+      "period": "2025年",
+      "quote": "1 客户A 866,303,689.54 24.75%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 16.02%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "4.90%",
+      "related_entity": "供应商A",
+      "period": "2025年",
+      "quote": "1 供应商A 148,382,629.49 4.90%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "幕墙行业市场集中度较低，从事建筑装饰的同类企业较多，市场竞争激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.市场竞争风险\n幕墙行业市场集中度较低，从事建筑装饰的同类企业较多，市场竞争激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "建筑装饰行业对铝型材、钢材等主要原材料价格波动较为敏感，若原材料价格持续上涨，可能导致公司成本上升，对毛利率水平产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.主要原材料价格波动风险\n建筑装饰行业对铝型材、钢材等主要原材料价格波动较为敏感，若原材料价格持续上涨，可能导致公司成本上升，对毛利率水平产生不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "在海外业务拓展过程中，受国际市场变化影响，人民币与境外货币汇率波动区间明显扩大，外币折算产生的汇兑损益存在不确定性，易形成汇兑损失，进而对公司经营效益及年度目标达成带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.汇率风险\n在海外业务拓展过程中，受国际市场变化影响，人民币与境外货币汇率波动区间明显扩大，外币折算产生的汇兑损益存在不确定性，易形成汇兑损失，进而对公司经营效益及年度目标达成带来不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "境外业务拓展与落地推进过程中，受国际贸易环境变化影响，境外经营存在诸多不确定性。各国属地监管规则、产业政策、财税体系、劳动用工及合规要求差异较大，跨境经营合规管控难度提升，易引发制度适配、合规履约等方面风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在境外业务拓展与落地推进过程中，受国际贸易环境变化影响，境外经营存在诸多不确定性。各国属地监管规则、产业政策、财税体系、劳动用工及合规要求差异较大，跨境经营合规管控难度提升，易引发制度适配、合规履约等方面风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "收购网营科技形成的商誉存在减值风险。",
+      "related_entity": "杭州网营科技股份有限公司",
+      "related_product": null,
+      "quote": "业绩承诺的完成情况及其对商誉减值测试的影响\n网营科技2025年度经审计的核定利润5,778.70万元，低于承诺数6,200万元...本报告期末公司已委托评估机构对因收购网营科技所形成的商誉进行减值测试。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "子公司精美特破产清算案中，公司及子公司申报的债权部分暂缓确认，存在不确定性。",
+      "related_entity": "深圳市三鑫精美特玻璃有限公司",
+      "related_product": null,
+      "quote": "公司作为债权人申报的78,205,020.94元债权尚待管理人、法院等进行核查确认，能否得到确认存在不确定性"
+    }
+  ]
+}

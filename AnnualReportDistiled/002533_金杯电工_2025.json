@@ -1,0 +1,549 @@
+{
+  "company_name_mentioned": "金杯电工股份有限公司",
+  "produces": [
+    {
+      "name": "扁电磁线",
+      "type": "component",
+      "revenue_proportion": "电磁线产品 8,014,711,270.01 元，占营业收入比重 39.44%。",
+      "quote": "公司是一家从事扁电磁线与电线电缆生产的专业制造商...扁电磁线产品矩阵丰富，涵盖换位导线、纸包线、漆包线、绕包线、立绕线、薄膜烧结线、利兹线、导电铜铝排、复合绝缘线等系列产品...电磁线产品 8,014,711,270.01 39.44%"
+    },
+    {
+      "name": "电线电缆",
+      "type": "component",
+      "revenue_proportion": "电线电缆产品 12,218,924,613.18 元，占营业收入比重 60.13%。",
+      "quote": "公司线缆产品广泛应用于智能配电网、风光储清洁能源、工业机器人、数据中心、新能源汽车（车内连接、充电桩）、工业装备配套、轨道交通（高铁、地铁、磁悬浮）及核电等有特殊要求的领域...电线电缆产品 12,218,924,613.18 60.13%"
+    },
+    {
+      "name": "冷链及汽车后市场服务",
+      "type": "service",
+      "revenue_proportion": "冷链及汽车后市场服务 87,523,212.04 元，占营业收入比重 0.43%。",
+      "quote": "公司子公司云冷冷链定位湖湘人民城市“大冰箱”...冷链及汽车后市场服务 87,523,212.04 0.43%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电解铜",
+      "target_product": "扁电磁线、电线电缆",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为电解铜、铜杆、铝杆、电缆料、钢丝、钢绞线、绝缘漆、绝缘纸、辅助材料及其他自制材料等...其中铜、铝作为核心原材料在总成本中占比高达约80%。"
+    },
+    {
+      "name": "铜杆",
+      "target_product": "扁电磁线、电线电缆",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为电解铜、铜杆、铝杆、电缆料...其中铜、铝作为核心原材料在总成本中占比高达约80%。"
+    },
+    {
+      "name": "铝杆",
+      "target_product": "扁电磁线、电线电缆",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为电解铜、铜杆、铝杆、电缆料...其中铜、铝作为核心原材料在总成本中占比高达约80%。"
+    },
+    {
+      "name": "电缆料",
+      "target_product": "电线电缆",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为电解铜、铜杆、铝杆、电缆料、钢丝、钢绞线、绝缘漆、绝缘纸、辅助材料及其他自制材料等。"
+    },
+    {
+      "name": "电力、燃气",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "所需能源动力为电力、燃气等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "特高压/高压变压器",
+      "source_product": "扁电磁线",
+      "quote": "产品直接或间接地广泛应用于特高压/高压变压器、智能配电网...在高压及特高压电力变压器领域，主要客户包括中国电气装备集团、特变电工集团、西门子集团、思源电气等行业领军企业"
+    },
+    {
+      "name": "智能配电网",
+      "source_product": "电线电缆",
+      "quote": "产品直接或间接地广泛应用于特高压/高压变压器、智能配电网...应用于智能电网领域的客户有电网及地方电力公司等。"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "电线电缆",
+      "quote": "产品直接或间接地广泛应用于...AI数据中心...目前已有电磁线产品应用于北美、欧洲和国内AI数据中心变压器领域。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "扁电磁线、电线电缆",
+      "quote": "产品直接或间接地广泛应用于...新能源汽车...在新能源汽车驱动电机领域，产品广泛配套于汇川技术等第三方电机厂，并为理想、广汽、上汽、零跑、一汽、大众、长城、奇瑞、吉利、长安等主流车企提供配套支持"
+    },
+    {
+      "name": "高压快充",
+      "source_product": "扁电磁线",
+      "quote": "产品直接或间接地广泛应用于...高压快充"
+    },
+    {
+      "name": "工业机器人",
+      "source_product": "电线电缆",
+      "quote": "产品直接或间接地广泛应用于...工业机器人、智能装备...针对港口机械、工业机器人、盾构机、风电、大功率充电等复杂应用场景，成功研发了海上风电用耐扭曲软电缆等多款高性能特种电缆"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "电线电缆",
+      "quote": "产品直接或间接地广泛应用于...轨道交通...深度参与了包括新建成渝中线铁路、川藏铁路、长沙黄花机场T3航站楼等一系列国家重点工程"
+    },
+    {
+      "name": "风光储清洁能源",
+      "source_product": "电线电缆",
+      "quote": "产品直接或间接地广泛应用于...风光储清洁能源...应用于清洁能源领域的客户有大唐、明阳、三一重能、中车风能以及终端汽车客户吉利、五菱、广汽等"
+    },
+    {
+      "name": "核电工程",
+      "source_product": "电线电缆",
+      "quote": "产品直接或间接地广泛应用于...核电工程...深度参与了...核电工程...等一批关乎国计民生的重大工程"
+    },
+    {
+      "name": "家庭装修、公建装修",
+      "source_product": "电线电缆",
+      "quote": "产品直接或间接地广泛应用于...以及家庭装修、公建装修等各类建筑及安防控制、电气设备连接等基础领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴学愚",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人吴学愚...实际控制人或实际控制人及一致行动人 指 吴学愚、孙文利夫妇...2007年10月至今任公司董事长。"
+    },
+    {
+      "name": "孙文利",
+      "role": "实际控制人（吴学愚配偶）",
+      "quote": "实际控制人或实际控制人及一致行动人 指 吴学愚、孙文利夫妇"
+    },
+    {
+      "name": "周祖勤",
+      "role": "副董事长、总裁",
+      "quote": "周祖勤 男 62 副董事长、总裁 现任"
+    },
+    {
+      "name": "陈海兵",
+      "role": "董事、副总裁",
+      "quote": "陈海兵 男 52 董事、副总裁 现任"
+    },
+    {
+      "name": "蒋华",
+      "role": "董事、副总裁",
+      "quote": "蒋华 男 54 董事 现任...蒋华 男 54 副总裁 现任"
+    },
+    {
+      "name": "范志宏",
+      "role": "副总裁（原董事、副董事长）",
+      "quote": "范志宏 男 60 副总裁 现任...范志宏 男 60 副董事长 离任"
+    },
+    {
+      "name": "钟华",
+      "role": "财务总监",
+      "quote": "钟华 女 51 财务总监 现任"
+    },
+    {
+      "name": "黄跃宇",
+      "role": "董事会秘书",
+      "quote": "黄跃宇 男 46 董事会秘书 现任"
+    },
+    {
+      "name": "谢良琼",
+      "role": "高级副总裁",
+      "quote": "谢良琼 男 50 高级副总裁 现任"
+    },
+    {
+      "name": "夏君山",
+      "role": "董事（金杯电缆总经理）",
+      "quote": "夏君山 男 59 董事 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳市能翔投资发展有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东/能翔投资 指 深圳市能翔投资发展有限公司...持股比例 15.69%"
+    },
+    {
+      "name": "湖南闽能投资有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "闽能投资 指 湖南闽能投资有限公司...持股比例 4.08%"
+    },
+    {
+      "name": "金杯电工衡阳电缆有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "金杯电缆 指 金杯电工衡阳电缆有限公司，公司全资子公司"
+    },
+    {
+      "name": "武汉第二电线电缆有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "武汉二线 指 武汉第二电线电缆有限公司，公司控股子公司"
+    },
+    {
+      "name": "金杯电工（成都）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "金杯成都 指 金杯电工（成都）有限公司，公司控股子公司"
+    },
+    {
+      "name": "江西金杯赣昌电缆有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "金杯赣昌 指 江西金杯赣昌电缆有限公司，公司控股子公司"
+    },
+    {
+      "name": "德力导体科技(常州)有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "德力导体 指 德力导体科技(常州)有限公司，公司控股子公司"
+    },
+    {
+      "name": "金杯电工电磁线有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "金杯电磁线 指 金杯电工电磁线有限公司，公司全资子公司"
+    },
+    {
+      "name": "无锡统力电工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股公司",
+      "quote": "统力电工 指 无锡统力电工有限公司，公司控股公司"
+    },
+    {
+      "name": "Gold Cup Toly Europe Electromagnetic Wire s.r.o.",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司（欧洲生产基地）",
+      "quote": "欧洲电磁线 指 Gold Cup Toly Europe Electromagnetic Wire s.r.o.，公司全资公司"
+    },
+    {
+      "name": "湖南云冷冷链股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "云冷冷链 指 湖南云冷冷链股份有限公司，公司控股子公司"
+    },
+    {
+      "name": "GOLD CUP ELECTRIC APPARATUS INTERNATIONAL INVESTMENT PTE. LTD.",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司（新加坡，新设）",
+      "quote": "报告期内，公司于 2025 年 1 月设立全资子公司 GOLD CUP ELECTRIC APPARATUS INTERNATIONAL INVESTMENT PTE. LTD."
+    },
+    {
+      "name": "中国电气装备集团",
+      "relation_type": "customer",
+      "business_details": "特高压电力变压器领域主要客户",
+      "quote": "在高压及特高压电力变压器领域，主要客户包括中国电气装备集团、特变电工集团、西门子集团、思源电气等行业领军企业"
+    },
+    {
+      "name": "特变电工集团",
+      "relation_type": "customer",
+      "business_details": "特高压电力变压器领域主要客户",
+      "quote": "在高压及特高压电力变压器领域，主要客户包括中国电气装备集团、特变电工集团、西门子集团、思源电气等行业领军企业"
+    },
+    {
+      "name": "湖南惟楚线缆高分子材料有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方（董事高管担任执行董事的企业），采购绝缘材料等",
+      "quote": "湖南惟楚线缆高分子材料有限公司...采购 电缆绝缘料、护套料、胶片等...本公司董事、高管担任执行董事的企业"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电线电缆产品",
+      "segment_type": "product_line",
+      "revenue_amount": "12,218,924,613.18",
+      "revenue_proportion": "60.13%",
+      "gross_margin": "9.98%",
+      "yoy_change": "11.38%",
+      "quote": "电线电缆产品 12,218,924,613.18 60.13%...毛利率 9.98%...营业收入比上年同期增减 11.38%"
+    },
+    {
+      "name": "电磁线产品",
+      "segment_type": "product_line",
+      "revenue_amount": "8,014,711,270.01",
+      "revenue_proportion": "39.44%",
+      "gross_margin": "10.40%",
+      "yoy_change": "22.16%",
+      "quote": "电磁线产品 8,014,711,270.01 39.44%...毛利率 10.40%...营业收入比上年同期增减 22.16%"
+    },
+    {
+      "name": "智能电网应用",
+      "segment_type": "other",
+      "revenue_amount": "5,639,220,127.40",
+      "revenue_proportion": "27.75%",
+      "gross_margin": "11.33%",
+      "yoy_change": "12.58%",
+      "quote": "智能电网应用 5,639,220,127.40 27.75%...毛利率 11.33%...营业收入比上年同期增减 12.58%"
+    },
+    {
+      "name": "绿色建筑应用",
+      "segment_type": "other",
+      "revenue_amount": "5,496,845,824.08",
+      "revenue_proportion": "27.05%",
+      "gross_margin": "10.18%",
+      "yoy_change": "-4.42%",
+      "quote": "绿色建筑应用 5,496,845,824.08 27.05%...毛利率 10.18%...营业收入比上年同期增减 -4.42%"
+    },
+    {
+      "name": "清洁能源应用",
+      "segment_type": "other",
+      "revenue_amount": "2,825,116,370.24",
+      "revenue_proportion": "13.90%",
+      "gross_margin": "11.61%",
+      "yoy_change": "46.02%",
+      "quote": "清洁能源应用 2,825,116,370.24 13.90%...毛利率 11.61%...营业收入比上年同期增减 46.02%"
+    },
+    {
+      "name": "重大工程应用",
+      "segment_type": "other",
+      "revenue_amount": "3,439,088,660.99",
+      "revenue_proportion": "16.92%",
+      "gross_margin": "8.68%",
+      "yoy_change": "16.68%",
+      "quote": "重大工程应用 3,439,088,660.99 16.92%...毛利率 8.68%...营业收入比上年同期增减 16.68%"
+    },
+    {
+      "name": "智能装备应用",
+      "segment_type": "other",
+      "revenue_amount": "2,233,047,228.91",
+      "revenue_proportion": "10.99%",
+      "gross_margin": "9.55%",
+      "yoy_change": "62.44%",
+      "quote": "智能装备应用 2,233,047,228.91 10.99%...毛利率 9.55%...营业收入比上年同期增减 62.44%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "19,690,401,312.44",
+      "revenue_proportion": "96.90%",
+      "gross_margin": "10.02%",
+      "yoy_change": "14.44%",
+      "quote": "国内 19,690,401,312.44 96.90%...毛利率 10.02%...营业收入比上年同期增减 14.44%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "630,757,782.79",
+      "revenue_proportion": "3.10%",
+      "gross_margin": null,
+      "yoy_change": "36.26%",
+      "quote": "国外 630,757,782.79 3.10%...营业收入比上年同期增减 36.26%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电线电缆",
+      "metric_type": "sales_volume",
+      "value": "2,530,412.08 公里",
+      "period": "2025年",
+      "quote": "电线电缆 销售量 公里 2,530,412.08"
+    },
+    {
+      "product": "电线电缆",
+      "metric_type": "production_volume",
+      "value": "2,536,260.10 公里",
+      "period": "2025年",
+      "quote": "电线电缆 生产量 公里 2,536,260.10"
+    },
+    {
+      "product": "电线电缆",
+      "metric_type": "inventory_volume",
+      "value": "95,962.41 公里",
+      "period": "2025年末",
+      "quote": "电线电缆 库存量 公里 95,962.41"
+    },
+    {
+      "product": "电磁线",
+      "metric_type": "sales_volume",
+      "value": "96,950.13 吨",
+      "period": "2025年",
+      "quote": "电磁线 销售量 吨 96,950.13"
+    },
+    {
+      "product": "电磁线",
+      "metric_type": "production_volume",
+      "value": "98,793.43 吨",
+      "period": "2025年",
+      "quote": "电磁线 生产量 吨 98,793.43"
+    },
+    {
+      "product": "电磁线",
+      "metric_type": "inventory_volume",
+      "value": "6,479.18 吨",
+      "period": "2025年末",
+      "quote": "电磁线 库存量 吨 6,479.18"
+    },
+    {
+      "product": "电磁线（特高压电力变压器）",
+      "metric_type": "sales_volume",
+      "value": "6,800 吨",
+      "period": "2025年",
+      "quote": "在特高压变压器用电磁线领域，公司网内主变市场领先优势进一步稳固，出货量达 6,800吨"
+    },
+    {
+      "product": "电磁线（新能源汽车驱动电机）",
+      "metric_type": "sales_volume",
+      "value": "17,000 吨",
+      "period": "2025年",
+      "quote": "在新能源汽车驱动电机用电磁线领域，出货量17,000吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "欧洲电磁线捷克生产基地",
+      "project_type": "capacity_expansion",
+      "location": "捷克",
+      "investment_amount": null,
+      "designed_capacity": "规划年产能20,000吨，分两期建设：第一期规划年产能8,000吨，第二期规划年产能12,000吨。",
+      "progress": "已设立全资子公司GoldCupTolyEuropeElectromagneticWires.r.o.，完成厂房产权转移手续。",
+      "expected_completion_time": null,
+      "quote": "公司前瞻性地迈出了产能全球布局的关键一步，设立首个规模化海外生产基地——欧洲电磁线捷克生产基地。该基地规划年产能20,000吨，分两期建设...2025年10月，公司全资子公司GoldCupTolyEuropeElectromagneticWires.r.o.完成捷克生产基地厂房(含土地)产权转移全部手续"
+    },
+    {
+      "name": "新能源汽车电机专用扁电磁线建设项目三期综合扩能项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "新增新能源汽车驱动电机用电磁线产能16,000吨",
+      "progress": "首批设备顺利投产",
+      "expected_completion_time": null,
+      "quote": "随着公司新能源汽车电机专用扁电磁线建设项目三期综合扩能项目首批设备顺利投产，全年已新增新能源汽车驱动电机用电磁线产能16,000吨"
+    },
+    {
+      "name": "智能装备车间",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "专用于工业线缆项目",
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "公司专用于工业线缆项目的智能装备车间建成投产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "新能源驱动电机用200级漆包铝扁线",
+      "asset_type": "core_technology",
+      "related_product": "电磁线",
+      "quantitative_info": null,
+      "quote": "公司拥有一系列行业核心技术如...新能源驱动电机用200级漆包铝扁线"
+    },
+    {
+      "name": "1,000万次超高柔工业机器人用拖链电缆",
+      "asset_type": "core_technology",
+      "related_product": "电线电缆",
+      "quantitative_info": null,
+      "quote": "公司拥有一系列行业核心技术如1,000万次超高柔工业机器人用拖链电缆"
+    },
+    {
+      "name": "电化学储能系统用直流侧连接电缆",
+      "asset_type": "core_technology",
+      "related_product": "电线电缆",
+      "quantitative_info": "产品通过省级鉴定，达国际先进水平",
+      "quote": "电缆产业中心研发的电化学储能系统用直流侧连接电缆...斩获国际先进水平评价"
+    },
+    {
+      "name": "PEEK绝缘电磁线发明专利",
+      "asset_type": "patent",
+      "related_product": "电磁线",
+      "quantitative_info": null,
+      "quote": "公司拥有一系列行业核心技术如...PEEK绝缘电磁线发明专利"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有国家级和省级企业技术中心、国家级博士后科研工作站、国家级CNAS 实验室...等10大国家级、省级重点研发平台"
+    },
+    {
+      "name": "参与起草国家及行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与起草几十项国家及行业标准，主导或参与了7项国家标准的编制",
+      "quote": "参与起草几十项国家及行业标准...主导或参与了7项国家标准的编制"
+    },
+    {
+      "name": "多项产品认证（UL， VDE， TÜV， CE等）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获得了全国工业产品生产许可证、CCC、PCCC、CQC、UL、VDE、TÜV、CE、CB、ROHS、MA、CCS等产品认证证书"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "24.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 5,055,145,052.96...前五名客户合计销售金额占年度销售总额比例 24.51%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "7.50%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "1 客户1 1,546,433,834.88 7.50%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "60.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 12,872,828,656.32...前五名供应商合计采购金额占年度采购总额比例 60.31%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "23.43%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "1 供应商1 5,002,031,047.29 23.43%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品成本结构呈现出典型的“料重工轻”特征，其中铜、铝作为核心原材料在总成本中占比高达约80%。该类原材料价格受全球货币政策周期、地缘政治博弈及ESG约束下供给端收缩等多重因素共振影响，价格波动显著，对生产成本控制构成持续性挑战。",
+      "related_entity": null,
+      "related_product": "扁电磁线、电线电缆",
+      "quote": "原材料价格波动风险...公司产品成本结构呈现出典型的“料重工轻”特征，其中铜、铝作为核心原材料在总成本中占比高达约80%。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "前五名供应商合计采购金额占年度采购总额比例60.31%，供应商集中度较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额（元） 12,872,828,656.32...前五名供应商合计采购金额占年度采购总额比例 60.31%"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "当前，电线电缆行业正经历深刻的结构性调整，呈现出“总量过剩”与“高端不足”并存的显著矛盾，企业差异化生存压力持续加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险...当前，电线电缆行业正经历深刻的结构性调整，呈现出“总量过剩”与“高端不足”并存的显著矛盾"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司核心竞争力的持续增强与直销业务占比不断提升，公司营业收入规模与应收账款余额也呈现同步增长态势。若货款回收管理未能与业务扩张相匹配，将对公司经营性现金流、整体财务状况及最终经营成果产生潜在不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "应收账款余额较大风险...随着公司核心竞争力的持续增强与直销业务占比不断提升，公司营业收入规模与应收账款余额也呈现同步增长态势。"
+    },
+    {
+      "risk_type": "other",
+      "description": "在推进海外生产基地建设及未来市场拓展的过程中可能面临多重风险与考验，包括地缘政治与合规风险、汇率风险、文化冲突、环保风险、供应链风险及用工风险等。",
+      "related_entity": "Gold Cup Toly Europe Electromagnetic Wire s.r.o.",
+      "related_product": null,
+      "quote": "海外市场运营风险...在推进海外生产基地建设及未来市场拓展的过程中可能面临多重风险与考验，包括地缘政治与合规风险、汇率风险、文化冲突、环保风险、供应链风险及用工风险等。"
+    },
+    {
+      "risk_type": "other",
+      "description": "2025年，全球经济保持总体韧性，但区域分化加剧。地缘政治波动、技术革命纵深演进、保护主义与单边主义抬头，叠加主要经济体货币政策的外溢效应，共同加剧了全球供应链重构与贸易格局的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济环境不确定风险...2025年，全球经济保持总体韧性，但区域分化加剧。地缘政治波动、技术革命纵深演进、保护主义与单边主义抬头"
+    }
+  ]
+}

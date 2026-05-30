@@ -1,0 +1,201 @@
+{
+  "company_name_mentioned": "河北建投能源投资股份有限公司",
+  "produces": [
+    {
+      "name": "火力发电电量",
+      "type": "service",
+      "revenue_proportion": "81.57%",
+      "quote": "火力发电电量占营业收入81.57%"
+    },
+    {
+      "name": "火力发电热量",
+      "type": "service",
+      "revenue_proportion": "10.16%",
+      "quote": "火力发电热量占营业收入10.16%"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "0.93%",
+      "quote": "光伏发电占营业收入0.93%"
+    },
+    {
+      "name": "热力供应",
+      "type": "service",
+      "revenue_proportion": "4.85%",
+      "quote": "热力供应占营业收入4.85%"
+    },
+    {
+      "name": "餐饮住宿服务",
+      "type": "service",
+      "revenue_proportion": "1.38%",
+      "quote": "餐饮住宿服务占营业收入1.38%"
+    },
+    {
+      "name": "能源服务",
+      "type": "service",
+      "revenue_proportion": "0.43%",
+      "quote": "能源服务占营业收入0.43%"
+    },
+    {
+      "name": "商贸流通",
+      "type": "service",
+      "revenue_proportion": "0.01%",
+      "quote": "商贸流通占营业收入0.01%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭（原煤）",
+      "target_product": "火力发电",
+      "cost_proportion": "67.87%",
+      "quote": "燃料成本占营业成本的67.87%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "火力发电电量",
+      "quote": "为华北地区提供安全、稳定、高效的电力"
+    },
+    {
+      "name": "居民和工业供热",
+      "source_product": "热力供应",
+      "quote": "供热覆盖面积达2.79亿平方米"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "秦刚",
+      "role": "董事长",
+      "quote": "秦刚 男 51 董事长 现任"
+    },
+    {
+      "name": "王剑峰",
+      "role": "副董事长、总经理",
+      "quote": "王剑峰 男 57 副董事长、总经理 现任"
+    },
+    {
+      "name": "李建辉",
+      "role": "董事",
+      "quote": "李建辉 男 47 董事 现任"
+    },
+    {
+      "name": "邓彦斌",
+      "role": "董事",
+      "quote": "邓彦斌 男 51 董事 现任"
+    },
+    {
+      "name": "王涛",
+      "role": "董事",
+      "quote": "王涛 男 44 董事 现任"
+    },
+    {
+      "name": "李国栋",
+      "role": "董事",
+      "quote": "李国栋 男 52 董事 现任"
+    },
+    {
+      "name": "赵丽红",
+      "role": "独立董事",
+      "quote": "赵丽红 女 55 独立董事 现任"
+    },
+    {
+      "name": "蔡宁生",
+      "role": "独立董事",
+      "quote": "蔡宁生 男 69 独立董事 现任"
+    },
+    {
+      "name": "孙正运",
+      "role": "独立董事",
+      "quote": "孙正运 男 63 独立董事 现任"
+    },
+    {
+      "name": "孙原",
+      "role": "副总经理、董事会秘书",
+      "quote": "孙原 男 57 副总经理、董事会秘书 现任"
+    },
+    {
+      "name": "朱海涛",
+      "role": "副总经理",
+      "quote": "朱海涛 男 53 副总经理 现任"
+    },
+    {
+      "name": "靳永亮",
+      "role": "副总经理",
+      "quote": "靳永亮 男 54 副总经理 现任"
+    },
+    {
+      "name": "张志勇",
+      "role": "副总经理",
+      "quote": "张志勇 男 52 副总经理 现任"
+    },
+    {
+      "name": "张贞",
+      "role": "财务负责人",
+      "quote": "张贞 女 46 财务负责人 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "河北建设投资集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股65.21%",
+      "quote": "河北建投集团系公司控股股东"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占比82.68%",
+      "quote": "国家电网有限公司 销售额占年度销售总额比例82.68%"
+    },
+    {
+      "name": "国家能源投资集团有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比18.41%",
+      "quote": "国家能源投资集团有限责任公司 采购额占年度采购总额比例18.41%"
+    },
+    {
+      "name": "华阳新材料科技集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比16.43%",
+      "quote": "华阳新材料科技集团有限公司 采购额占年度采购总额比例16.43%"
+    },
+    {
+      "name": "开滦（集团）有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比6.80%",
+      "quote": "开滦（集团）有限责任公司 采购额占年度采购总额比例6.80%"
+    },
+    {
+      "name": "中国中煤能源股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比6.60%",
+      "quote": "中国中煤能源股份有限公司 采购额占年度采购总额比例6.60%"
+    },
+    {
+      "name": "晋能控股集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占比5.61%",
+      "quote": "晋能控股集团有限公司 采购额占年度采购总额比例5.61%"
+    },
+    {
+      "name": "河北西柏坡发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "西柏坡发电 指 河北西柏坡发电有限责任公司，系公司控股子公司"
+    },
+    {
+      "name": "河北西柏坡第二发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "西柏坡第二发电 指 河北西柏坡第二发电有限责任公司，系公司控股子公司"
+    },
+    {
+      "name": "邢台国泰发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "国泰发电 指 邢台国泰发电有限责任公司，系公司控股子公司"
+    }
+  ]
+}

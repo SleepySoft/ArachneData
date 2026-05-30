@@ -1,0 +1,462 @@
+{
+  "company_name_mentioned": "巨力索具股份有限公司",
+  "produces": [
+    {
+      "name": "合成纤维吊装带索具",
+      "type": "device",
+      "revenue_proportion": "15.53%",
+      "quote": "合成纤维吊装带索具...2025年金额：399,175,211.96...占营业收入比重：15.53%"
+    },
+    {
+      "name": "钢丝绳及钢丝绳索具",
+      "type": "device",
+      "revenue_proportion": "28.42%",
+      "quote": "钢丝绳及钢丝绳索具...2025年金额：730,602,104.64...占营业收入比重：28.42%"
+    },
+    {
+      "name": "工程及金属索具",
+      "type": "device",
+      "revenue_proportion": "48.59%",
+      "quote": "工程及金属索具...2025年金额：1,248,969,388.32...占营业收入比重：48.59%"
+    },
+    {
+      "name": "链条及链条索具",
+      "type": "device",
+      "revenue_proportion": "1.70%",
+      "quote": "链条及链条索具...2025年金额：43,567,788.54...占营业收入比重：1.70%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "索具产品",
+      "cost_proportion": null,
+      "quote": "索具的主要原材料包括用于金属索具的钢材（钢丝绳）"
+    },
+    {
+      "name": "化工产品",
+      "target_product": "合成纤维索具",
+      "cost_proportion": null,
+      "quote": "索具的主要原材料包括...用于合成纤维索具的化工产品"
+    },
+    {
+      "name": "线材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司索具产品主要原材料包括钢材、线材、工业纤维丝等"
+    },
+    {
+      "name": "工业纤维丝",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司索具产品主要原材料包括钢材、线材、工业纤维丝等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "制造业",
+      "source_product": "索具产品",
+      "quote": "公司产品广泛应用于制造业、采矿业、建筑业、交通运输业"
+    },
+    {
+      "name": "采矿业",
+      "source_product": "索具产品",
+      "quote": "公司产品广泛应用于制造业、采矿业、建筑业、交通运输业"
+    },
+    {
+      "name": "建筑业",
+      "source_product": "索具产品",
+      "quote": "公司产品广泛应用于制造业、采矿业、建筑业、交通运输业"
+    },
+    {
+      "name": "交通运输业",
+      "source_product": "索具产品",
+      "quote": "公司产品广泛应用于制造业、采矿业、建筑业、交通运输业"
+    },
+    {
+      "name": "钢铁",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "冶金",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "矿山",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "海上救援",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "石油",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "运输",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "港口",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "造船",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "工程机械",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "海洋工程",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "体育场馆",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "桥梁建设",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    },
+    {
+      "name": "电力装备",
+      "source_product": "索具产品",
+      "quote": "涉及钢铁、冶金、矿山、海上救援、石油、运输、港口、造船、工程机械、海洋工程、体育场馆、桥梁建设、电力装备等众多领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨建国",
+      "role": "董事长",
+      "quote": "公司负责人杨建国"
+    },
+    {
+      "name": "杨超",
+      "role": "副董事长、总裁",
+      "quote": "副董事长、总裁 现任 2025年12月10日 2028年12月11日"
+    },
+    {
+      "name": "李彦英",
+      "role": "董事、副总裁",
+      "quote": "李彦英 女 56 独立董事 现任"
+    },
+    {
+      "name": "张亚男",
+      "role": "董事、副总裁",
+      "quote": "张亚男 女 48 独立董事 现任"
+    },
+    {
+      "name": "付强",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人付强"
+    },
+    {
+      "name": "张云",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张云"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "巨力集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "巨力集团、控股股东 指 巨力集团有限公司"
+    },
+    {
+      "name": "巨力索具（河南）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要从事索具及海洋装备相关业务",
+      "quote": "巨力索具（河南）有限公司"
+    },
+    {
+      "name": "巨力索具海洋科技（天津）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，拟投资设立，聚焦海洋工程装备领域",
+      "quote": "巨力索具海洋科技（天津）有限公司"
+    },
+    {
+      "name": "Saudi Binladin Group Contracting L.L.C.",
+      "relation_type": "customer",
+      "business_details": "沙特法赫德国王体育场项目分包合同的对方当事人",
+      "quote": "沙特法赫德国王体育场分包合同...对方当事人 Saudi Binladin Group Contracting L.L.C."
+    },
+    {
+      "name": "河北巨力房地产开发有限公司",
+      "relation_type": "customer",
+      "business_details": "关联交易，销售商品/提供劳务，租金",
+      "quote": "河北巨力房地产开发有限公司...关联交易类型 销售商品/提供劳务...关联交易内容 租金"
+    },
+    {
+      "name": "刘伶醉酿酒股份有限公司",
+      "relation_type": "customer",
+      "business_details": "关联交易，销售商品/提供劳务，原材料",
+      "quote": "刘伶醉酿酒股份有限公司...关联交易类型 销售商品/提供劳务...关联交易内容 原材料"
+    },
+    {
+      "name": "巨力集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联交易，购买商品/接受劳务，租金",
+      "quote": "巨力集团有限公司...关联交易类型 购买商品/接受劳务...关联交易内容 租金"
+    },
+    {
+      "name": "河北刘伶醉酿酒销售有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联交易，购买商品/接受劳务，酒品",
+      "quote": "河北刘伶醉酿酒销售有限公司...关联交易类型 购买商品/接受劳务...关联交易内容 酒品"
+    },
+    {
+      "name": "刘伶醉酿酒股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联交易，购买商品/接受劳务，劳务",
+      "quote": "刘伶醉酿酒股份有限公司...关联交易类型 购买商品/接受劳务...关联交易内容 劳务"
+    },
+    {
+      "name": "保定巨力能源有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联交易，购买商品/接受劳务，产品",
+      "quote": "保定巨力能源有限公司...关联交易类型 购买商品/接受劳务...关联交易内容 产品"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "纺织业",
+      "segment_type": "other",
+      "revenue_amount": "399,175,211.96",
+      "revenue_proportion": "15.53%",
+      "gross_margin": "32.05%",
+      "yoy_change": "17.45%",
+      "quote": "分行业...纺织业...2025年金额 399,175,211.96...占营业收入比重 15.53%...同比增减 17.45%...毛利率 32.05%"
+    },
+    {
+      "name": "金属制品业",
+      "segment_type": "other",
+      "revenue_amount": "1,024,952,863.94",
+      "revenue_proportion": "39.88%",
+      "gross_margin": "15.26%",
+      "yoy_change": "9.19%",
+      "quote": "分行业...金属制品业...2025年金额 1,024,952,863.94...占营业收入比重 39.88%...同比增减 9.19%...毛利率 15.26%"
+    },
+    {
+      "name": "通用设备制造业",
+      "segment_type": "other",
+      "revenue_amount": "998,186,417.56",
+      "revenue_proportion": "38.84%",
+      "gross_margin": "14.12%",
+      "yoy_change": "21.11%",
+      "quote": "分行业...通用设备制造业...2025年金额 998,186,417.56...占营业收入比重 38.84%...同比增减 21.11%...毛利率 14.12%"
+    },
+    {
+      "name": "出口",
+      "segment_type": "region",
+      "revenue_amount": "386,449,993.63",
+      "revenue_proportion": "15.04%",
+      "gross_margin": null,
+      "yoy_change": "16.60%",
+      "quote": "分地区...出口...2025年金额 386,449,993.63...占营业收入比重 15.04%...同比增减 16.60%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "2,183,876,657.96",
+      "revenue_proportion": "84.96%",
+      "gross_margin": null,
+      "yoy_change": "15.99%",
+      "quote": "分地区...内销...2025年金额 2,183,876,657.96...占营业收入比重 84.96%...同比增减 15.99%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,570,326,651.59",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "16.08%",
+      "quote": "分销售模式...直销...2025年金额 2,570,326,651.59...占营业收入比重 100.00%...同比增减 16.08%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "纺织业",
+      "metric_type": "sales_volume",
+      "value": "12,772.77 吨",
+      "period": "2025年",
+      "quote": "纺织业...销售量 吨 12,772.77"
+    },
+    {
+      "product": "纺织业",
+      "metric_type": "production_volume",
+      "value": "13,266.12 吨",
+      "period": "2025年",
+      "quote": "纺织业...生产量 吨 13,266.12"
+    },
+    {
+      "product": "纺织业",
+      "metric_type": "inventory_volume",
+      "value": "4,008.65 吨",
+      "period": "2025年末",
+      "quote": "纺织业...库存量 吨 4,008.65"
+    },
+    {
+      "product": "金属制品业",
+      "metric_type": "sales_volume",
+      "value": "100,359.15 吨",
+      "period": "2025年",
+      "quote": "金属制品业...销售量 吨 100,359.15"
+    },
+    {
+      "product": "金属制品业",
+      "metric_type": "production_volume",
+      "value": "101,560.67 吨",
+      "period": "2025年",
+      "quote": "金属制品业...生产量 吨 101,560.67"
+    },
+    {
+      "product": "金属制品业",
+      "metric_type": "inventory_volume",
+      "value": "39,139.68 吨",
+      "period": "2025年末",
+      "quote": "金属制品业...库存量 吨 39,139.68"
+    },
+    {
+      "product": "通用设备制造业",
+      "metric_type": "sales_volume",
+      "value": "54,518.64 吨",
+      "period": "2025年",
+      "quote": "通用设备制造业...销售量 吨 54,518.64"
+    },
+    {
+      "product": "通用设备制造业",
+      "metric_type": "production_volume",
+      "value": "57,276.82 吨",
+      "period": "2025年",
+      "quote": "通用设备制造业...生产量 吨 57,276.82"
+    },
+    {
+      "product": "通用设备制造业",
+      "metric_type": "inventory_volume",
+      "value": "20,633.51 吨",
+      "period": "2025年末",
+      "quote": "通用设备制造业...库存量 吨 20,633.51"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "巨力索具（河南）有限公司'年产5万吨粗直径高端钢丝绳及配套索具项目'",
+      "project_type": "capacity_expansion",
+      "location": "河南孟州",
+      "investment_amount": null,
+      "designed_capacity": "年产5万吨",
+      "progress": "一期和二期项目，计划在2026年内完全达产",
+      "expected_completion_time": "2026年内完全达产",
+      "quote": "（1）河南基地全面达产：...建设'年产5万吨粗直径高端钢丝绳及配套索具项目'。...推动二期项目在2026年内完全达产。"
+    },
+    {
+      "name": "巨力索具海洋科技（天津）有限公司建设项目",
+      "project_type": "capacity_expansion",
+      "location": "天津市滨海新区天津港保税区",
+      "investment_amount": "1亿元人民币（注册资本）",
+      "designed_capacity": "大型海洋装备索具产品",
+      "progress": "已完成工商登记、竞得土地使用权，正编制可行性研究报告，力争2026年内启动基建",
+      "expected_completion_time": "力争在2026年内启动项目基建及设备安装，并初步达到具备产品的交付能力",
+      "quote": "（2）天津海洋基地建设：...公司于2025年8月在天津投资设立'巨力索具海洋科技（天津）有限公司'并已完成工商登记和竞得土地使用权...力争在2026年内启动项目基建及设备安装等，并初步达到具备产品的交付能力"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效国家专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "394件，其中发明专利80件、实用新型专利310件、外观设计专利4件",
+      "quote": "拥有有效国家专利394件，其中发明专利80件、实用新型专利310件、外观设计专利4件。"
+    },
+    {
+      "name": "主导及参与编制标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "共78项，其中主编22项（含国家标准11项），参编56项",
+      "quote": "公司主导及参与编制国家、行业、地方、团体、协会标准共78项；其中：主编国家标准11项、行业标准8项、地方标准1项；团体标准2项，共22项。参编国家标准26项、行业标准 16项、地方标准7项，团体标准5项，协会标准2个，共56项。"
+    },
+    {
+      "name": "国际及行业权威产品认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "8项，包括CE欧盟、GS德国、GOST俄罗斯、JIS日本、FPC新加坡、MA煤安标、KA矿安标",
+      "quote": "自2004年起...成功获得CE欧盟、GS德国、GOST俄罗斯、JIS日本、FPC新加坡、MA煤安标、KA矿安标等8项国际及行业权威产品认证"
+    },
+    {
+      "name": "国际顶级船级社工厂认可",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "8家，包括CCS、DNV、ABS、LR、BV、RS、KR、RINA；其中DNV有7项具体工厂认可",
+      "quote": "同时...顺利通过CCS中国船级社、DNV挪威船级社、ABS美国船级社、LR英国船级社、BV法国船级社、RS俄罗斯船级社、KR韩国船级社、RINA意大利船级社等8家国际顶级船级社的工厂认可"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "20.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 20.88%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "24.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 24.51%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业进入门槛相对较低，中小企业众多，低价策略抢占中低端市场，导致同质化竞争严重。国际企业加速布局中国市场，加剧竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争风险...索具行业进入门槛相对较低，中小企业数量众多，部分企业通过低价策略抢占中低端市场，导致行业同质化竞争严重...国际索具同行业如德国德莱奇、荷兰GREEN PIN等...加速布局中国市场，进一步加剧市场竞争。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "下游行业对产品性能、精度等要求更高，若无法跟上技术迭代，可能导致竞争力下降。研发存在不确定性和商业化风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、技术创新风险...下游行业...对索具产品的性能、精度、轻量化、耐腐蚀等指标提出更高要求。若公司无法及时跟上技术迭代节奏...可能导致产品竞争力下降...高端索具研发需要大量资金、人才和时间投入，且研发结果存在不确定性。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料价格受国际大宗商品市场等因素影响波动较大，会直接增加生产成本，压缩利润空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、供应链与原材料风险...主要原材料包括钢材、线材、工业纤维丝等，其价格受国际大宗商品市场、地缘政治、环保政策等因素影响波动较大。如原材料价格上涨会直接增加企业生产成本...将压缩企业利润空间。"
+    },
+    {
+      "risk_type": "other",
+      "description": "行业与固定资产投资、基建等高度相关，受宏观经济周期影响显著。环保、安全、贸易政策调整也可能带来风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、宏观环境与政策风险...与固定资产投资、基础设施建设、制造业发展高度相关，受宏观经济周期影响显著。若全球经济陷入衰退或国内经济增速放缓...将直接导致索具市场需求萎缩...环保政策趋严可能增加...成本；安全生产标准提高要求...国际贸易政策调整...可能影响企业海外市场拓展。"
+    },
+    {
+      "risk_type": "other",
+      "description": "高端研发、国际化经营等人才相对稀缺。随着企业规模扩大，原有管理体系可能不适应新发展需求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、人才与管理风险...高端研发人才、国际化经营人才和复合型管理人才相对稀缺...若无法吸引、培养和留住核心人才，将制约企业创新能力和管理水平提升...随着企业规模扩大和业务多元化，原有管理体系可能难以适应新的发展需求"
+    }
+  ]
+}

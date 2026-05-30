@@ -1,0 +1,287 @@
+{
+  "company_name_mentioned": "新希望六和股份有限公司",
+  "produces": [
+    {
+      "name": "饲料（包含预混料、浓缩料、配合料；按动物种类分禽料、猪料、水产料、反刍料）",
+      "type": "material",
+      "revenue_proportion": "71.14%",
+      "quote": "2025年公司主营业务聚焦于饲料、生猪养殖与屠宰两大行业。...2025年公司国内外饲料总销量合计达2，974万吨...饲料业务整体实现营业收入760.19亿元，同比增长10.66%。"
+    },
+    {
+      "name": "生猪（仔猪、肥猪）",
+      "type": "device",
+      "revenue_proportion": "26.70%",
+      "quote": "报告期内，公司共销售仔猪375.52万头，肥猪1，379.02万头，合计1754.55万头，实现营业收入209.92亿元...猪产业整体实现营业收入285.29亿元。...猪产业营业收入28，528，575，460.41元，占营业收入比重26.70%。"
+    },
+    {
+      "name": "屠宰肉品（白条猪、分割肉品）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内...共屠宰生猪368万头，实现营业收入75.37亿元。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "饲料原料（包括玉米、豆粕、小麦、高粱、糙米、乳清粉、鸡肉粉、鱼粉、DDGS等）",
+      "target_product": "饲料",
+      "cost_proportion": "90%以上",
+      "quote": "饲料原料成本通常占饲料总成本的90%以上。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "畜禽养殖（作为饲料）",
+      "source_product": "饲料",
+      "quote": "公司的饲料面向下游畜禽养殖进行销售..."
+    },
+    {
+      "name": "食品消费（作为肉制品）",
+      "source_product": "生猪、屠宰肉品",
+      "quote": "公司致力于为客户提供安全、可靠、高品质的动物蛋白...保障民生食品供应稳定。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘畅",
+      "role": "董事长",
+      "quote": "公司负责人刘畅...声明：保证本年度报告中财务报告的真实、准确、完整。...董事长刘畅女士..."
+    },
+    {
+      "name": "陶玉岭",
+      "role": "董事、总裁",
+      "quote": "陶玉岭，男...现任公司董事、总裁。"
+    },
+    {
+      "name": "史涵",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人史涵..."
+    },
+    {
+      "name": "赵亮",
+      "role": "董事会秘书",
+      "quote": "董事会秘书赵亮..."
+    },
+    {
+      "name": "晏秋波",
+      "role": "副总裁",
+      "quote": "晏秋波，男...现任公司副总裁..."
+    },
+    {
+      "name": "王维勇",
+      "role": "副总裁兼人力资源总监",
+      "quote": "王维勇，男...现任公司副总裁兼人力资源总监。"
+    },
+    {
+      "name": "李爽",
+      "role": "副总裁兼工程与设备运营总监",
+      "quote": "李爽，男...现任公司副总裁兼工程与设备运营总监。"
+    },
+    {
+      "name": "王普松",
+      "role": "投资发展总监",
+      "quote": "王普松，男...现任公司投资发展总监。"
+    }
+  ],
+  "company_relations": [],
+  "business_segments": [
+    {
+      "name": "饲料",
+      "segment_type": "product_line",
+      "revenue_amount": "76，018，681，424.51元",
+      "revenue_proportion": "71.14%",
+      "gross_margin": "5.10%",
+      "yoy_change": "10.66%",
+      "quote": "分行业饲料76，018，681，424.51元，占营业收入比重71.14%...同比增长10.66%。...毛利率5.10%。"
+    },
+    {
+      "name": "猪产业（包含养殖与屠宰）",
+      "segment_type": "product_line",
+      "revenue_amount": "28，528，575，460.41元",
+      "revenue_proportion": "26.70%",
+      "gross_margin": "8.16%",
+      "yoy_change": "-6.15%",
+      "quote": "分行业猪产业28，528，575，460.41元，占营业收入比重26.70%...同比下降6.15%。...毛利率8.16%。"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "84，508，949，407.75元",
+      "revenue_proportion": "79.09%",
+      "gross_margin": "5.25%",
+      "yoy_change": "1.78%",
+      "quote": "分地区国内84，508，949，407.75元，占营业收入比重79.09%...同比增长1.78%。...毛利率5.25%。"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "22，347，349，312.72元",
+      "revenue_proportion": "20.91%",
+      "gross_margin": "10.19%",
+      "yoy_change": "11.54%",
+      "quote": "分地区国外22，347，349，312.72元，占营业收入比重20.91%...同比增长11.54%。...毛利率10.19%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "饲料",
+      "metric_type": "sales_volume",
+      "value": "2，974.26万吨",
+      "period": "2025年",
+      "quote": "行业分类饲料项目销售量2，974.26万吨...2025年"
+    },
+    {
+      "product": "饲料",
+      "metric_type": "production_volume",
+      "value": "2，997.94万吨",
+      "period": "2025年",
+      "quote": "行业分类饲料项目生产量2，997.94万吨...2025年"
+    },
+    {
+      "product": "饲料",
+      "metric_type": "inventory_volume",
+      "value": "32.88万吨",
+      "period": "2025年末",
+      "quote": "行业分类饲料项目库存量32.88万吨...2025年"
+    },
+    {
+      "product": "畜屠宰",
+      "metric_type": "sales_volume",
+      "value": "49.06万吨",
+      "period": "2025年",
+      "quote": "行业分类畜屠宰项目销售量49.06万吨...2025年"
+    },
+    {
+      "product": "畜屠宰",
+      "metric_type": "production_volume",
+      "value": "49.34万吨",
+      "period": "2025年",
+      "quote": "行业分类畜屠宰项目生产量49.34万吨...2025年"
+    },
+    {
+      "product": "畜屠宰",
+      "metric_type": "inventory_volume",
+      "value": "1.42万吨",
+      "period": "2025年末",
+      "quote": "行业分类畜屠宰项目库存量1.42万吨...2025年"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "sales_volume",
+      "value": "1，754.55万头",
+      "period": "2025年",
+      "quote": "行业分类生猪项目销售量1，754.55万头...2025年"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "production_volume",
+      "value": "1，754.55万头",
+      "period": "2025年",
+      "quote": "行业分类生猪项目生产量1，754.55万头...2025年"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "“金字塔+回交”双种猪育种体系",
+      "asset_type": "process_technology",
+      "related_product": "生猪",
+      "quantitative_info": null,
+      "quote": "公司现已建立起以三元杂交为主、PIC五元配套系为辅的双系“金字塔”育种体系...公司也积极借鉴行业最佳实践，从2023年中开始加大力度建立了猪产业统一管理调配的回交猪生产和管理体系..."
+    },
+    {
+      "name": "育种软件“秀杰和普”（HUGE-HOPE）及多性状BLUP计算引擎",
+      "asset_type": "software_copyright",
+      "related_product": "生猪",
+      "quantitative_info": null,
+      "quote": "对于祖代猪、曾祖代猪等核心群种猪，公司持续迭代升级具有自主知识产权的育种和生产管理软件秀杰和普（HUGE-HOPE），集成自主研发的Huge BLUP多性状一步法计算引擎..."
+    },
+    {
+      "name": "全基因组选择技术及数万头级芯片数据库",
+      "asset_type": "core_technology",
+      "related_product": "生猪",
+      "quantitative_info": "累计构建数万头级芯片数据库",
+      "quote": "在全基因组选择技术与应用方面，公司累计构建数万头级芯片数据库，系谱矫正、品种鉴定、早期选育全面落地..."
+    },
+    {
+      "name": "AI+机器视觉+智能装备表型测定体系",
+      "asset_type": "technical_platform",
+      "related_product": "生猪",
+      "quantitative_info": null,
+      "quote": "在种猪表型测定领域，公司完成AI+机器视觉+智能装备全体系国产化，肌内脂肪活体测定、背膘眼肌智能测定、便携式智能估重等系统全面覆盖核心育种场..."
+    },
+    {
+      "name": "猪禽多元化日粮应用技术（豆粕减量替代）",
+      "asset_type": "process_technology",
+      "related_product": "饲料",
+      "quantitative_info": null,
+      "quote": "公司参与研发的“猪禽多元化日粮应用技术”，已经入选农业农村部“饲料中豆粕减量替代典型案例”..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "8，730，665，477.68元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元）8，730，665，477.68...前五名客户合计销售金额占年度销售总额比例8.17%..."
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "14，696，403，401.90元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元）14，696，403，401.90...前五名供应商合计采购金额占年度采购总额比例16.13%..."
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "动物疫病（如重大生猪疫病）风险",
+      "related_entity": null,
+      "related_product": "生猪、饲料",
+      "quote": "动物疫病是畜牧业发展中面临的主要风险。疫病发生带来的风险包括两类，一是疫病的发生将有可能导致养殖动物死亡，直接导致产量降低、成本上升和价格下降；二是动物疫病的大规模发生与流行，易影响消费者心理，导致市场需求萎缩，也对饲料的生产经营造成了影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "自然灾害风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "自然灾害风险方面...气温反常、干旱、洪涝、地震、冰雹、雪灾等自然灾害均会对行业经营和发展带来不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "饲料原料价格波动风险",
+      "related_entity": null,
+      "related_product": "饲料",
+      "quote": "饲料原料价格波动风险...自2020年以来，受国内外宏观经济形势、国际贸易关系、各国主粮产区收成情况等多方面因素影响，玉米、豆粕等主要饲料原料价格持续走高。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "畜禽（生猪）价格波动风险",
+      "related_entity": null,
+      "related_product": "生猪、饲料",
+      "quote": "畜禽价格波动风险...生猪价格将会更直接、也更明显地影响到公司的营收与利润水平。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "环保政策影响风险",
+      "related_entity": null,
+      "related_product": "生猪、饲料",
+      "quote": "环保政策影响...这些环保政策压力将强制一些环保不达标的畜禽养殖场退出市场，使养殖量缩减，会给公司饲料业务增长和屠宰业务收购生猪带来一定影响，也会使公司养猪业务的建设与运营增加更多的成本。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险...豆粕、玉米、乳清粉、鸡肉粉、鱼粉、DDGS等国外供应为主的饲料原料的采购，受到汇率影响越来越大。...2025年美元指数持续下跌...对公司的外汇管理和经营难度形成了一定的挑战。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易争端及地缘冲突风险（影响原料采购）",
+      "related_entity": null,
+      "related_product": "饲料原料",
+      "quote": "2025年初和2026年初，分别由于国际贸易争端以及地缘冲突，引发了两次反弹..."
+    }
+  ]
+}

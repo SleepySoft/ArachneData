@@ -1,0 +1,544 @@
+{
+  "company_name_mentioned": "山东恒邦冶炼股份有限公司",
+  "produces": [
+    {
+      "name": "黄金",
+      "type": "material",
+      "revenue_proportion": "69.08% (77,643,252,287.62元/112,394,440,038.95元)",
+      "quote": "公司主要产品为黄金、白银、电解铜、铅、锌锭、硫酸、稀散金属（铋、锑、碲、砷、硒）等，其中以黄金和白银为主的贵金属是公司的主要产品。...黄金 ...占营业收入比重 69.08%"
+    },
+    {
+      "name": "白银",
+      "type": "material",
+      "revenue_proportion": "8.47% (9,518,633,577.06元/112,394,440,038.95元)",
+      "quote": "公司主要产品为黄金、白银、电解铜、铅、锌锭、硫酸、稀散金属（铋、锑、碲、砷、硒）等，其中以黄金和白银为主的贵金属是公司的主要产品。...白银 ...占营业收入比重 8.47%"
+    },
+    {
+      "name": "电解铜",
+      "type": "material",
+      "revenue_proportion": "15.84% (17,804,711,254.29元/112,394,440,038.95元)",
+      "quote": "公司主要产品为黄金、白银、电解铜、铅、锌锭、硫酸、稀散金属（铋、锑、碲、砷、硒）等...电解铜主要用于电气工业、机械制造、交通、建筑等。...电解铜 ...占营业收入比重 15.84%"
+    },
+    {
+      "name": "铅",
+      "type": "material",
+      "revenue_proportion": "1.27% (1,421,796,076.64元/112,394,440,038.95元)",
+      "quote": "公司主要产品为黄金、白银、电解铜、铅、锌锭、硫酸、稀散金属（铋、锑、碲、砷、硒）等...铅主要用于制造蓄电池、铅板、冶金和化工原料等...铅 ...占营业收入比重 1.27%"
+    },
+    {
+      "name": "硫酸",
+      "type": "material",
+      "revenue_proportion": "0.57% (635,229,670.20元/112,394,440,038.95元)",
+      "quote": "公司主要产品为黄金、白银、电解铜、铅、锌锭、硫酸、稀散金属（铋、锑、碲、砷、硒）等...硫酸常用于生产化肥、农药、火药、染料以及冶炼有色金属、精炼石油、金属去锈、干燥剂等。...硫酸 ...占营业收入比重 0.57%"
+    },
+    {
+      "name": "稀散金属（铋、锑、碲、砷、硒）",
+      "type": "material",
+      "revenue_proportion": "0.78% (879,676,222.66元，为锌、锑、铋、硒等金属合计)",
+      "quote": "公司主要产品为黄金、白银、电解铜、铅、锌锭、硫酸、稀散金属（铋、锑、碲、砷、硒）等...稀散金属（铋、锑、碲、砷、硒等）用途广泛，其高纯产品是制作砷化镓、砷化铟、锑化镓等半导体材料的重要原材料...锌、锑、铋、硒等金属 ...占营业收入比重 0.78%"
+    },
+    {
+      "name": "化工生产（磷铵及其他化肥）",
+      "type": "material",
+      "revenue_proportion": "0.39% (442,259,829.57元/112,394,440,038.95元)",
+      "quote": "磷铵及其他化肥收入较上期增加62.08%，主要系产量增长，销量增长所致。...磷铵及其他化肥 ...占营业收入比重 0.39%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "金精矿（含复杂金精矿、含金银等伴生贵金属的有色金属精矿及物料）",
+      "target_product": "黄金、白银、电解铜、铅、锌锭、稀散金属等",
+      "cost_proportion": null,
+      "quote": "公司原材料采购过程中，在购入常规金精矿的同时，逐渐丰富了复杂金精矿、含金银等伴生贵金属的有色金属精矿及物料的采购...冶炼业务是公司的核心盈利业务...公司生产所需的主要原材料是金精矿，除公司自产外，还外购金精矿。而且，从公司的整体生产能力来看，原料来源的绝大部分，在今后相当长的时期内仍以外购为主。"
+    },
+    {
+      "name": "合质金",
+      "target_product": "黄金",
+      "cost_proportion": null,
+      "quote": "公司设有原料部门专门负责原料的采购，具备丰富的国内和国际采购渠道...（采购内容包括）合质金等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "首饰",
+      "source_product": "黄金、白银",
+      "quote": "黄金主要用于首饰...白银主要用于首饰..."
+    },
+    {
+      "name": "工业及医疗用途",
+      "source_product": "黄金",
+      "quote": "黄金主要用于首饰、工业及医疗用途..."
+    },
+    {
+      "name": "官方储备、私人投资及储备",
+      "source_product": "黄金",
+      "quote": "黄金主要用于...官方储备、私人投资及储备等。"
+    },
+    {
+      "name": "电气工业",
+      "source_product": "电解铜",
+      "quote": "电解铜主要用于电气工业、机械制造、交通、建筑等。"
+    },
+    {
+      "name": "制造蓄电池、铅板",
+      "source_product": "铅",
+      "quote": "铅主要用于制造蓄电池、铅板、冶金和化工原料等。"
+    },
+    {
+      "name": "生产化肥、农药",
+      "source_product": "硫酸",
+      "quote": "硫酸常用于生产化肥、农药、火药、染料以及冶炼有色金属、精炼石油、金属去锈、干燥剂等。"
+    },
+    {
+      "name": "半导体材料（砷化镓、砷化铟、锑化镓等）",
+      "source_product": "高纯稀散金属（铋、锑、碲、砷、硒等）",
+      "quote": "稀散金属（铋、锑、碲、砷、硒等）用途广泛，其高纯产品是制作砷化镓、砷化铟、锑化镓等半导体材料的重要原材料。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "肖小军",
+      "role": "董事长",
+      "quote": "肖小军先生...现任山东恒邦冶炼股份有限公司党委书记、董事长。"
+    },
+    {
+      "name": "曲胜利",
+      "role": "副董事长、总经理、总工程师",
+      "quote": "曲胜利先生...现任本公司副董事长、总经理、总工程师..."
+    },
+    {
+      "name": "欧阳忠",
+      "role": "董事、财务总监",
+      "quote": "欧阳忠先生...现任本公司董事、财务总监。"
+    },
+    {
+      "name": "徐元峰",
+      "role": "董事",
+      "quote": "徐元峰先生...现任江西铜业董事会秘书室中层正职专职董监事、本公司董事。"
+    },
+    {
+      "name": "左宏伟",
+      "role": "董事",
+      "quote": "左宏伟先生...现任本公司董事。"
+    },
+    {
+      "name": "沈金艳",
+      "role": "董事",
+      "quote": "沈金艳先生...现任江西铜业股份有限公司董事会秘书室专职董监事、本公司董事。"
+    },
+    {
+      "name": "钟美瑞",
+      "role": "独立董事",
+      "quote": "钟美瑞先生...本公司独立董事。"
+    },
+    {
+      "name": "陈志武",
+      "role": "独立董事",
+      "quote": "陈志武先生...本公司独立董事。"
+    },
+    {
+      "name": "吉伟莉",
+      "role": "独立董事",
+      "quote": "吉伟莉女士...本公司独立董事。"
+    },
+    {
+      "name": "夏晓波",
+      "role": "副总经理、董事会秘书",
+      "quote": "夏晓波先生...现任本公司副总经理、董事会秘书、证券部部长、证券事务代表。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "江西铜业股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股股东",
+      "quote": "江西铜业、控股股东 指 江西铜业股份有限公司"
+    },
+    {
+      "name": "江西省国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "公司实际控制人",
+      "quote": "实际控制人、江西省国资委 指 江西省国有资产监督管理委员会"
+    },
+    {
+      "name": "江西铜业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东的控股股东",
+      "quote": "江铜集团 指 江西铜业集团有限公司"
+    },
+    {
+      "name": "烟台恒邦集团有限公司",
+      "relation_type": "customer",
+      "business_details": "存在关联交易",
+      "quote": "烟台恒邦集团有限公司...有重大影响的股东的子公司"
+    },
+    {
+      "name": "上海黄金交易所",
+      "relation_type": "customer",
+      "business_details": "黄金销售平台",
+      "quote": "公司前5大客户资料 序号 1 客户名称 上海黄金交易所 销售额（元） 76,661,842,948.67"
+    },
+    {
+      "name": "万国黄金集团有限公司",
+      "relation_type": "customer",
+      "business_details": "参股公司",
+      "quote": "万国黄金 指 万国黄金集团有限公司"
+    },
+    {
+      "name": "金川集团铜贵股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "公司前5名供应商资料 序号 1 供应商名称 金川集团铜贵股份有限公司 采购额（元） 16,249,981,984.11"
+    },
+    {
+      "name": "威海恒邦矿冶发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "威海恒邦 指 威海恒邦矿冶发展有限公司"
+    },
+    {
+      "name": "山东恒邦矿业发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "恒邦矿业 指 山东恒邦矿业发展有限公司"
+    },
+    {
+      "name": "烟台恒邦综保矿冶发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新设控股子公司",
+      "quote": "恒邦综保 指 烟台恒邦综保矿冶发展有限公司...2025年10月30日，本公司认缴出资人民币800.00万元设立子公司烟台恒邦综保矿冶发展有限公司...本公司持股比例为80%。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "贵金属冶炼",
+      "segment_type": "product_line",
+      "revenue_amount": "87,234,792,898.86元",
+      "revenue_proportion": "77.61%",
+      "gross_margin": "0.77%",
+      "yoy_change": "48.20%",
+      "quote": "分行业 贵金属冶炼 87,234,792,898.86 77.61% 58,860,910,020.25 77.65% 48.20% ...毛利率 0.77%"
+    },
+    {
+      "name": "有色金属冶炼",
+      "segment_type": "product_line",
+      "revenue_amount": "20,033,276,519.41元",
+      "revenue_proportion": "17.82%",
+      "gross_margin": "5.20%",
+      "yoy_change": "31.48%",
+      "quote": "分行业 有色金属冶炼 20,033,276,519.41 17.82% 15,236,751,733.07 20.10% 31.48% ...毛利率 5.20%"
+    },
+    {
+      "name": "有色金属贸易",
+      "segment_type": "product_line",
+      "revenue_amount": "2,429,625,117.95元",
+      "revenue_proportion": "2.16%",
+      "gross_margin": "0.28%",
+      "yoy_change": "161.97%",
+      "quote": "分行业 有色金属贸易 2,429,625,117.95 2.16% 927,448,419.50 1.22% 161.97% ...毛利率 0.28%"
+    },
+    {
+      "name": "化工生产",
+      "segment_type": "product_line",
+      "revenue_amount": "1,077,489,499.77元",
+      "revenue_proportion": "0.96%",
+      "gross_margin": "40.08%",
+      "yoy_change": "165.10%",
+      "quote": "分行业 化工生产 1,077,489,499.77 0.96% 406,446,978.20 0.54% 165.10% ...毛利率 40.08%"
+    },
+    {
+      "name": "矿粉销售",
+      "segment_type": "product_line",
+      "revenue_amount": "1,249,340,861.12元",
+      "revenue_proportion": "1.11%",
+      "gross_margin": null,
+      "yoy_change": "2493.71%",
+      "quote": "分行业 矿粉销售 1,249,340,861.12 1.11% 48,168,096.49 0.06% 2,493.71%"
+    },
+    {
+      "name": "境内收入",
+      "segment_type": "region",
+      "revenue_amount": "141,098,530,730.65元",
+      "revenue_proportion": null,
+      "gross_margin": "0.45%",
+      "yoy_change": "57.89%",
+      "quote": "分地区 境内收入 141,098,530,730.65 ...毛利率 0.45% ...57.89%"
+    },
+    {
+      "name": "境外收入",
+      "segment_type": "region",
+      "revenue_amount": "11,679,490,736.91元",
+      "revenue_proportion": "10.39%",
+      "gross_margin": "11.11%",
+      "yoy_change": "46.13%",
+      "quote": "分地区 国外收入 11,679,490,736.91 10.39% ...毛利率 11.11% ...46.13%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "黄金",
+      "metric_type": "production_volume",
+      "value": "99.77吨",
+      "period": "2025年",
+      "quote": "2025年，公司主要产品产量分别为黄金99.77吨..."
+    },
+    {
+      "product": "白银",
+      "metric_type": "production_volume",
+      "value": "1057.04吨",
+      "period": "2025年",
+      "quote": "2025年，公司主要产品产量分别为...白银1,057.04吨..."
+    },
+    {
+      "product": "电解铜",
+      "metric_type": "production_volume",
+      "value": "25.36万吨",
+      "period": "2025年",
+      "quote": "2025年，公司主要产品产量分别为...电解铜25.36万吨..."
+    },
+    {
+      "product": "硫酸",
+      "metric_type": "production_volume",
+      "value": "172.55万吨",
+      "period": "2025年",
+      "quote": "2025年，公司主要产品产量分别为...硫酸172.55万吨。"
+    },
+    {
+      "product": "铅",
+      "metric_type": "production_volume",
+      "value": "93,512.88吨",
+      "period": "2025年",
+      "quote": "有色金属冶炼（铅） 生产量 吨 93,512.88"
+    },
+    {
+      "product": "磷铵及其他化肥",
+      "metric_type": "production_volume",
+      "value": "125,307.00吨",
+      "period": "2025年",
+      "quote": "化工生产（磷铵及其他化肥） 生产量 吨 125,307.00"
+    },
+    {
+      "product": "黄金",
+      "metric_type": "sales_volume",
+      "value": "97,287.74公斤",
+      "period": "2025年",
+      "quote": "有色金属冶炼（黄金） 销售量 公斤 97,287.74"
+    },
+    {
+      "product": "白银",
+      "metric_type": "sales_volume",
+      "value": "1,104,856.88公斤",
+      "period": "2025年",
+      "quote": "有色金属冶炼（白银） 销售量 公斤 1,104,856.88"
+    },
+    {
+      "product": "电解铜",
+      "metric_type": "sales_volume",
+      "value": "267,560.57吨",
+      "period": "2025年",
+      "quote": "有色金属冶炼（电解铜） 销售量 吨 267,560.57"
+    },
+    {
+      "product": "硫酸",
+      "metric_type": "sales_volume",
+      "value": "1,498,163.51吨",
+      "period": "2025年",
+      "quote": "化工生产（硫酸） 销售量 吨 1,498,163.51"
+    },
+    {
+      "product": "黄金",
+      "metric_type": "capacity",
+      "value": "109.817吨/年",
+      "period": null,
+      "quote": "公司已经形成了一定的规模化经营能力...具备年产黄金109.817吨...的能力。"
+    },
+    {
+      "product": "白银",
+      "metric_type": "capacity",
+      "value": "1200吨/年",
+      "period": null,
+      "quote": "具备年产...白银1200吨...的能力。"
+    },
+    {
+      "product": "电解铜",
+      "metric_type": "capacity",
+      "value": "33.5万吨/年",
+      "period": null,
+      "quote": "具备年产...电解铜33.5万吨...的能力。"
+    },
+    {
+      "product": "硫酸",
+      "metric_type": "capacity",
+      "value": "168万吨/年",
+      "period": null,
+      "quote": "具备年产...硫酸168万吨的能力。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "含金多金属矿有价元素综合回收技术改造项目",
+      "project_type": "capacity_expansion",
+      "location": "威海恒邦（子公司威海恒邦矿冶发展有限公司）",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已投产（2025年）",
+      "expected_completion_time": "2025年",
+      "quote": "主要系本期子公司威海恒邦矿冶发展有限公司含金多金属矿有价元素综合回收技术改造项目投产，影响电解铜产量增加所致。...含金多金属矿有价元素综合回收技术改造项目投产黄金、白银销量增加所致。"
+    },
+    {
+      "name": "牟平辽上金矿（扩界、扩能）采选项目",
+      "project_type": "construction_project",
+      "location": "山东省烟台市牟平区",
+      "investment_amount": "计划总投资 3,973,980.00万元",
+      "designed_capacity": null,
+      "progress": "在建（建设进度21.45%）",
+      "expected_completion_time": null,
+      "quote": "项目名称 牟平辽上金矿（扩界、扩能）采选项目 ...计划总投资 3,973,980.00 ...建设进度 21.45%"
+    },
+    {
+      "name": "复杂金精矿多元素综合回收项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "计划总投资 1,439,208,832.89元",
+      "designed_capacity": null,
+      "progress": "在建（建设进度33.70%）",
+      "expected_completion_time": null,
+      "quote": "项目名称 复杂金精矿多元素综合回收项目 ...计划总投资 1,439,208,832.89 ...建设进度 33.70%"
+    },
+    {
+      "name": "设立子公司烟台恒邦综保矿冶发展有限公司",
+      "project_type": "other",
+      "location": "烟台综合保税区",
+      "investment_amount": "认缴出资800万元",
+      "designed_capacity": null,
+      "progress": "已完成设立",
+      "expected_completion_time": "2025年10月30日",
+      "quote": "于2025年10月30日，本公司认缴出资人民币800.00万元设立子公司烟台恒邦综保矿冶发展有限公司..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "造锍捕金技术",
+      "asset_type": "core_technology",
+      "related_product": "黄金、白银、多金属综合回收",
+      "quantitative_info": null,
+      "quote": "其中造锍捕金是公司的核心生产工艺，经过不断自主创新，公司已成功在富氧底吹熔炼系统突破骤冷干法收砷技术..."
+    },
+    {
+      "name": "骤冷干法收砷技术",
+      "asset_type": "process_technology",
+      "related_product": "砷产品化处置",
+      "quantitative_info": null,
+      "quote": "已成功在富氧底吹熔炼系统突破骤冷干法收砷技术，并开发出精三氧化二砷-金属砷-高纯砷生产线..."
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "43项",
+      "quote": "截至2025年底，公司作为第一专利权人已获得...43项发明专利..."
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "77项",
+      "quote": "...77项实用新型专利..."
+    },
+    {
+      "name": "参与制修订各类标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "150项",
+      "quote": "截至2025年年底，公司共参与制修订各类标准150项，其中包括《首饰和贵金属 极高纯度金的测定ICP-MS差减法》国际标准1项..."
+    },
+    {
+      "name": "国家科技进步奖获奖企业、国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是国家科技进步奖获奖企业、国家高新技术企业。"
+    },
+    {
+      "name": "博士后科研工作站、真空冶金国家工程研究中心分中心等平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有博士后科研工作站、真空冶金国家工程研究中心分中心，建有山东省认定企业技术中心、省级工程研究中心..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "83.03%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 83.03%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "68.21%",
+      "related_entity": "上海黄金交易所",
+      "period": "2025年",
+      "quote": "1 上海黄金交易所 76,661,842,948.67 68.21%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "26.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 26.02%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "13.82%",
+      "related_entity": "金川集团铜贵股份有限公司",
+      "period": "2025年",
+      "quote": "1 金川集团铜贵股份有限公司 16,249,981,984.11 13.82%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "产品价格波动风险。黄金、白银等有色金属价格的剧烈波动及市场需求变化等，会对公司存货价值、经营业绩、现金流状况等产生较显著的影响。",
+      "related_entity": null,
+      "related_product": "黄金、白银",
+      "quote": "3.产品价格波动风险 黄金、白银等有色金属价格的剧烈波动及市场需求变化等，会对公司存货价值、经营业绩、现金流状况等产生较显著的影响。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "原材料供应风险。公司生产所需的主要原材料是金精矿...原料来源的绝大部分，在今后相当长的时期内仍以外购为主。如果公司在探矿、采矿方面不能如期取得有效进展，供应商金精矿供应不足，或者金精矿的品质和稳定性发生较大变化，都可能会影响公司业务的正常开展。",
+      "related_entity": null,
+      "related_product": "金精矿",
+      "quote": "5.原材料供应风险 公司生产所需的主要原材料是金精矿...如果公司在探矿、采矿方面不能如期取得有效进展，供应商金精矿供应不足，或者金精矿的品质和稳定性发生较大变化，都可能会影响公司业务的正常开展。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "政策风险。政府实行自然保护区或禁止采矿区区划后，一些保护区内拥有矿权给企业带来开采矿山的政策风险。矿业权证到期未及时办理变更、延续以及特定项目建设未取得国家规定的批文而擅自实施，带来企业生产经营活动政策风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.政策风险 政府实行自然保护区或禁止采矿区区划后，一些保护区内拥有矿权给企业带来开采矿山的政策风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环保风险。黄金生产主要是采矿、选矿和冶炼过程，伴随着大量废弃物，需按国家产业政策和环保政策进行有效治理。如果国家提高环保标准或出台更加严格的环保政策，公司的经营成本将面临进一步上升的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.环保风险 黄金生产主要是采矿、选矿和冶炼过程，伴随着大量废弃物，需按国家产业政策和环保政策进行有效治理。如果国家提高环保标准或出台更加严格的环保政策，公司的经营成本将面临进一步上升的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "探矿及开采风险。为使资源得到充分利用，国家有关部门划定了各矿山的勘探开采范围，公司未来勘探开采范围的扩大亦受到此政策的限制，对公司寻找后备资源形成了一定制约...资源勘探开发具有不可预计性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.探矿及开采风险 为使资源得到充分利用，国家有关部门划定了各矿山的勘探开采范围...资源勘探开发具有不可预计性。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "产品价格波动风险（存货跌价）。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "黄金、白银等有色金属价格的剧烈波动及市场需求变化等，会对公司存货价值...产生较显著的影响。"
+    }
+  ]
+}

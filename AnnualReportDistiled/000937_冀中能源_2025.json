@@ -1,0 +1,488 @@
+{
+  "company_name_mentioned": "冀中能源股份有限公司",
+  "produces": [
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": "主业煤炭收入占总营业收入比例77.86%",
+      "quote": "公司业务包括煤炭、化工、新材料、现代服务四大板块，其中煤炭为公司的主要产品。2025年，公司原煤产量2,681.79万吨，煤炭销量2,413.12万吨，煤炭销售收入117.88亿元，主业煤炭收入占总营业收入比例77.86%"
+    },
+    {
+      "name": "炼焦煤",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司煤炭产品按用途分为炼焦煤和动力煤。其中，炼焦煤具有低灰、低硫、粘结性强等特点，主要用于钢铁行业"
+    },
+    {
+      "name": "动力煤",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "动力煤具有低硫、低磷、高挥发分等特点，主要用于发电、建材、化工等行业"
+    },
+    {
+      "name": "焦炭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "焦炭（万吨） 103.56 82.23 25.94% 104.26 83.67 24.61%"
+    },
+    {
+      "name": "烧碱",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "烧碱（万吨） 14.68 18.24 -19.52% 14.03 17.48 -19.74%"
+    },
+    {
+      "name": "PVC",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PVC（万吨） 1.13 18.65 -93.94% 1.36 19.23 -92.93%"
+    },
+    {
+      "name": "玻璃纤维",
+      "type": "material",
+      "revenue_proportion": "建材 1,125,456,239.53 7.43%",
+      "quote": "玻璃纤维（万吨） 34.58 23.98 44.20% 32.13 24.84 29.35%"
+    },
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "电力 34,793,164.00 0.23%",
+      "quote": "电力（万度） 5,381.04 11,406.91 -52.83%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "物资",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "物资供应分公司行使物资管理职能，负责公司物资管理政策、制度、办法制定及监督考核；对物资价格的审查；组织机关职能部室对采购计划、物资技术参数的审查"
+    }
+  ],
+  "applications": [
+    {
+      "name": "钢铁行业",
+      "source_product": "炼焦煤",
+      "quote": "炼焦煤具有低灰、低硫、粘结性强等特点，主要用于钢铁行业"
+    },
+    {
+      "name": "发电",
+      "source_product": "动力煤",
+      "quote": "动力煤具有低硫、低磷、高挥发分等特点，主要用于发电、建材、化工等行业"
+    },
+    {
+      "name": "建材",
+      "source_product": "动力煤",
+      "quote": "动力煤具有低硫、低磷、高挥发分等特点，主要用于发电、建材、化工等行业"
+    },
+    {
+      "name": "化工",
+      "source_product": "动力煤",
+      "quote": "动力煤具有低硫、低磷、高挥发分等特点，主要用于发电、建材、化工等行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "闫云胜",
+      "role": "董事长、代行董事会秘书",
+      "quote": "闫云胜，男，1968年7月出生，中共党员，研究生学历，高级工程师。现任公司党委书记、董事长、代行董事会秘书。"
+    },
+    {
+      "name": "谢国强",
+      "role": "副董事长、总经理",
+      "quote": "谢国强，男，1977年11月出生，中共党员，研究生学历，正高级工程师。现任公司党委副书记、副董事长、总经理。"
+    },
+    {
+      "name": "王万强",
+      "role": "总会计师",
+      "quote": "公司负责人闫云胜、主管会计工作负责人王万强及会计机构负责人（会计主管人员）杨立军声明"
+    },
+    {
+      "name": "杨立军",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人闫云胜、主管会计工作负责人王万强及会计机构负责人（会计主管人员）杨立军声明"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "冀中能源集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "冀中能源集团 指 冀中能源集团有限责任公司"
+    },
+    {
+      "name": "冀中能源峰峰集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，控股股东子公司",
+      "quote": "峰峰集团 指 冀中能源峰峰集团有限公司"
+    },
+    {
+      "name": "冀中能源邢台矿业集团有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，控股股东子公司",
+      "quote": "邢矿集团 指 冀中能源邢台矿业集团有限责任公司"
+    },
+    {
+      "name": "冀中能源邯郸矿业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，控股股东子公司",
+      "quote": "邯矿集团 指 冀中能源邯郸矿业集团有限公司"
+    },
+    {
+      "name": "冀中能源张家口矿业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，控股股东子公司",
+      "quote": "张矿集团 指 冀中能源张家口矿业集团有限公司"
+    },
+    {
+      "name": "冀中能源峰峰集团邯郸宝峰矿业有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，关联方",
+      "quote": "公司前五名客户中，第一大客户冀中能源峰峰集团邯郸宝峰矿业有限公司与公司同受冀中能源集团控制，是公司的关联方"
+    },
+    {
+      "name": "河北中煤四处矿山工程有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，关联方",
+      "quote": "公司前五名供应商中，第一、第二、第五大供应商分别为河北中煤四处矿山工程有限公司、邢台章泰矿业有限公司、冀中能源供应链科技（河北）有限公司，与公司同受冀中能源集团控制，是公司的关联方"
+    },
+    {
+      "name": "邢台章泰矿业有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商，关联方",
+      "quote": "公司前五名供应商中，第一、第二、第五大供应商分别为河北中煤四处矿山工程有限公司、邢台章泰矿业有限公司、冀中能源供应链科技（河北）有限公司，与公司同受冀中能源集团控制，是公司的关联方"
+    },
+    {
+      "name": "冀中能源供应链科技（河北）有限公司",
+      "relation_type": "supplier",
+      "business_details": "第五大供应商，关联方",
+      "quote": "公司前五名供应商中，第一、第二、第五大供应商分别为河北中煤四处矿山工程有限公司、邢台章泰矿业有限公司、冀中能源供应链科技（河北）有限公司，与公司同受冀中能源集团控制，是公司的关联方"
+    },
+    {
+      "name": "京能锡林郭勒能源有限公司",
+      "relation_type": "investee",
+      "business_details": "公司持有其49%股权",
+      "quote": "公司于2025年7月11日，召开第八届董事会第十四次会议，审议通过了《关于收购京能锡林郭勒能源有限公司49%股权暨关联交易的议案》，同意现金收购冀中能源峰峰集团有限公司持有的京能锡林郭勒能源有限公司49%股权。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "煤炭",
+      "segment_type": "product_line",
+      "revenue_amount": "11,787,699,596.88",
+      "revenue_proportion": "77.86%",
+      "gross_margin": "34.89%",
+      "yoy_change": "-19.74%",
+      "quote": "煤炭 11,787,699,596.88 77.86% 14,687,058,396.19 78.41% -19.74%"
+    },
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "34,793,164.00",
+      "revenue_proportion": "0.23%",
+      "gross_margin": "-80.19%",
+      "yoy_change": "-8.38%",
+      "quote": "电力 34,793,164.00 0.23% 37,976,579.93 0.20% -8.38%"
+    },
+    {
+      "name": "建材",
+      "segment_type": "product_line",
+      "revenue_amount": "1,125,456,239.53",
+      "revenue_proportion": "7.43%",
+      "gross_margin": "13.00%",
+      "yoy_change": "35.61%",
+      "quote": "建材 1,125,456,239.53 7.43% 829,912,057.15 4.43% 35.61%"
+    },
+    {
+      "name": "化工",
+      "segment_type": "product_line",
+      "revenue_amount": "2,162,630,760.66",
+      "revenue_proportion": "14.28%",
+      "gross_margin": "-5.88%",
+      "yoy_change": "-31.19%",
+      "quote": "化工 2,162,630,760.66 14.28% 3,142,900,812.63 16.78% -31.19%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "14,061,533,679.70",
+      "revenue_proportion": "92.88%",
+      "gross_margin": "28.84%",
+      "yoy_change": "-17.51%",
+      "quote": "华北地区 14,061,533,679.70 92.88% 17,046,637,340.26 91.01% -17.51%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "783,895,078.34",
+      "revenue_proportion": "5.18%",
+      "gross_margin": "4.02%",
+      "yoy_change": "-42.23%",
+      "quote": "华东地区 783,895,078.34 5.18% 1,356,887,720.20 7.24% -42.23%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "煤炭",
+      "metric_type": "production_volume",
+      "value": "2,681.79万吨",
+      "period": "2025年1-12月",
+      "quote": "2025年，公司原煤产量2,681.79万吨"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "sales_volume",
+      "value": "2,413.12万吨",
+      "period": "2025年1-12月",
+      "quote": "煤炭销量2,413.12万吨"
+    },
+    {
+      "product": "焦炭",
+      "metric_type": "production_volume",
+      "value": "103.56万吨",
+      "period": "2025年1-12月",
+      "quote": "焦炭（万吨） 103.56 82.23 25.94%"
+    },
+    {
+      "product": "焦炭",
+      "metric_type": "sales_volume",
+      "value": "104.26万吨",
+      "period": "2025年1-12月",
+      "quote": "104.26 83.67 24.61%"
+    },
+    {
+      "product": "烧碱",
+      "metric_type": "production_volume",
+      "value": "14.68万吨",
+      "period": "2025年1-12月",
+      "quote": "烧碱（万吨） 14.68 18.24 -19.52%"
+    },
+    {
+      "product": "烧碱",
+      "metric_type": "sales_volume",
+      "value": "14.03万吨",
+      "period": "2025年1-12月",
+      "quote": "14.03 17.48 -19.74%"
+    },
+    {
+      "product": "PVC",
+      "metric_type": "production_volume",
+      "value": "1.13万吨",
+      "period": "2025年1-12月",
+      "quote": "PVC（万吨） 1.13 18.65 -93.94%"
+    },
+    {
+      "product": "PVC",
+      "metric_type": "sales_volume",
+      "value": "1.36万吨",
+      "period": "2025年1-12月",
+      "quote": "1.36 19.23 -92.93%"
+    },
+    {
+      "product": "玻璃纤维",
+      "metric_type": "production_volume",
+      "value": "34.58万吨",
+      "period": "2025年1-12月",
+      "quote": "玻璃纤维（万吨） 34.58 23.98 44.20%"
+    },
+    {
+      "product": "玻璃纤维",
+      "metric_type": "sales_volume",
+      "value": "32.13万吨",
+      "period": "2025年1-12月",
+      "quote": "32.13 24.84 29.35%"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "5,381.04万度",
+      "period": "2025年1-12月",
+      "quote": "电力（万度） 5,381.04 11,406.91 -52.83%"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "5,381.04万度",
+      "period": "2025年1-12月",
+      "quote": "5,381.04 11,406.91 -52.83%"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "inventory_volume",
+      "value": "35.52万吨",
+      "period": "2025年末",
+      "quote": "库存量 万吨 35.52 33.56 5.84%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "冀中新材第三条生产线",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投入运营",
+      "expected_completion_time": null,
+      "quote": "玻璃纤维产量、销量、库存较上期增加，主要是由于冀中新材第三条生产线投入运营所致。"
+    },
+    {
+      "name": "聚隆化工PVC装置停车消缺改造",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "改造中（转入在建工程）",
+      "expected_completion_time": null,
+      "quote": "PVC产量、销量、库存较上期降低，主要是由于聚隆化工PVC装置进行停车消缺改造所致。"
+    },
+    {
+      "name": "聚隆化工5万吨码头改造",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "获省发改委核准",
+      "expected_completion_time": null,
+      "quote": "聚隆化工5万吨码头改造获省发改委核准"
+    },
+    {
+      "name": "水泥厂技改",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全面建成投运",
+      "expected_completion_time": null,
+      "quote": "水泥厂技改全面建成投运"
+    },
+    {
+      "name": "白涧铁矿探转采",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "制约得以破解，加快手续办理及开工建设",
+      "expected_completion_time": null,
+      "quote": "白涧铁矿探转采制约得以破解，...加快白涧铁矿探转采手续办理及开工建设。"
+    },
+    {
+      "name": "平安矿扩界",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快落地",
+      "expected_completion_time": null,
+      "quote": "加快平安矿扩界、显德汪矿剩余资源获取等项目落地"
+    },
+    {
+      "name": "玻璃钢锚杆项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成工业试验",
+      "expected_completion_time": null,
+      "quote": "玻纤高压柔性管道和玻璃钢锚杆完成工业试验"
+    },
+    {
+      "name": "高压柔性管道项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成工业试验",
+      "expected_completion_time": null,
+      "quote": "玻纤高压柔性管道和玻璃钢锚杆完成工业试验"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智能化综采工作面",
+      "asset_type": "process_technology",
+      "related_product": "煤炭",
+      "quantitative_info": null,
+      "quote": "智能化综采工作面，实现“一键”启停控制和远程集中自动化控制，对主要生产设备实时在线监测，减少作业人员，提高开采效率。"
+    },
+    {
+      "name": "深部开采底板高承压水地面区域治理+微震监测技术攻关试验",
+      "asset_type": "core_technology",
+      "related_product": "煤炭（安全生产）",
+      "quantitative_info": null,
+      "quote": "深部开采底板高承压水地面区域治理+微震监测技术攻关试验"
+    },
+    {
+      "name": "复杂地质条件下瓦斯综合治理关键技术研究",
+      "asset_type": "core_technology",
+      "related_product": "煤炭（安全生产）",
+      "quantitative_info": null,
+      "quote": "复杂地质条件下瓦斯综合治理关键技术研究"
+    },
+    {
+      "name": "智能化充填防控底板突水技术研究",
+      "asset_type": "core_technology",
+      "related_product": "煤炭（安全生产）",
+      "quantitative_info": null,
+      "quote": "智能化充填防控底板突水技术研究"
+    },
+    {
+      "name": "研发费用",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年投入研发费4.96亿元，完成科技项目192项",
+      "quote": "全年投入研发费4.96亿元，完成科技项目192项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "37.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 5,705,516,915.42\n前五名客户合计销售金额占年度销售总额比例 37.68%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "13.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,253,365,619.21\n前五名供应商合计采购金额占年度采购总额比例 13.37%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "第一大客户关联销售占年度销售总额比例11.34%",
+      "related_entity": "冀中能源峰峰集团邯郸宝峰矿业有限公司",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 11.34%\n公司前五名客户中，第一大客户冀中能源峰峰集团邯郸宝峰矿业有限公司与公司同受冀中能源集团控制，是公司的关联方"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五大供应商关联采购额占年度采购总额比例8.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 8.31%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "煤炭作为传统能源，与国家环保政策密切相关。在国家“碳达峰、碳中和”的发展目标下，从远期来看公司不断找寻和培育新的业务增长点，从而实现产业发展的有序转型。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "1、环保风险\n煤炭作为传统能源，与国家环保政策密切相关。煤炭生产作为公司最主要的业务，在国家“碳达峰、碳中和”的发展目标下，从远期来看公司不断找寻和培育新的业务增长点，从而实现产业发展的有序转型"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "煤炭价格受电力、钢铁、建材、化工等相关行业影响较大，与宏观经济紧密关联，存在价格波动风险。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "2、价格波动风险\n煤炭作为传统能源，受电力、钢铁、建材、化工等相关行业影响较大，与宏观经济紧密关联"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "随着公司矿井开采年限的增加，受自然条件、生产特点等影响，面临的水、火、瓦斯等威胁日益增加，安全管理难度较大。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "3、安全风险\n随着公司矿井开采年限的增加，受自然条件、生产特点等影响，面临的水、火、瓦斯等威胁日益增加，安全管理难度较大。"
+    }
+  ]
+}

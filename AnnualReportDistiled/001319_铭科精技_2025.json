@@ -1,0 +1,621 @@
+{
+  "company_name_mentioned": "铭科精技控股股份有限公司",
+  "produces": [
+    {
+      "name": "汽车五金冲压模具",
+      "type": "device",
+      "revenue_proportion": "12.99%（新能源汽车精密模具1.30% + 燃油汽车精密模具和其他精密模具11.81%）",
+      "quote": "公司主营业务聚焦汽车制造领域的金属成型与自动化制造环节，主要从事汽车五金成型模具及工艺装备研发、汽车焊装自动化集成以及汽车金属结构件的冲压、焊接生产...汽车五金冲压模具研发制造"
+    },
+    {
+      "name": "汽车金属结构件（包括新能源和燃油汽车）",
+      "type": "component",
+      "revenue_proportion": "80.64%（新能源汽车金属结构件21.82% + 燃油汽车金属结构件和其他金属结构件59.07%）",
+      "quote": "公司产品主要聚焦于汽车零部件领域，涵盖多个汽车核心系统，包括底盘系统、仪表盘系统、座椅系统、排气系统、动力电池系统等。...新能源汽车金属结构件...燃油汽车金属结构件和其他金属结构件"
+    },
+    {
+      "name": "汽车焊装自动化装备及产线系统集成",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司通过产业整合进一步拓展汽车制造工艺装备领域的业务布局...逐步拓展汽车焊装自动化装备及产线系统集成能力...整合安徽双骏在汽车焊装自动化装备及定制化装配产线领域的系统集成能力"
+    },
+    {
+      "name": "汽车制造工艺一体化解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "为客户提供车身制造相关工艺的一体化解决方案"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "金属结构件等",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料为钢材。钢材价格变动是公司生产成本变化的主要因素之一。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车制造（车身、底盘、仪表盘、座椅、排气、动力电池等系统）",
+      "source_product": "汽车五金冲压模具、汽车金属结构件、汽车焊装自动化装备及产线",
+      "quote": "公司产品主要聚焦于汽车零部件领域，涵盖多个汽车核心系统，包括底盘系统、仪表盘系统、座椅系统、排气系统、动力电池系统等。"
+    },
+    {
+      "name": "3C电子、储能（锂、氢）、机器人等行业",
+      "source_product": "汽车五金冲压模具、汽车金属结构件",
+      "quote": "主要应用于汽车制造领域，并逐步延伸至3C电子、储能（锂、氢）、机器人等行业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "夏录荣（XIA LURONG）",
+      "role": "公司实际控制人、董事长",
+      "quote": "夏录荣 指 公司实际控制人夏录荣（XIA LURONG）先生"
+    },
+    {
+      "name": "杨国强",
+      "role": "副董事长、总经理",
+      "quote": "杨国强先生，...2005年12月创立铭科精技；2017年8月至今担任公司副董事长、总经理"
+    },
+    {
+      "name": "罗贵林",
+      "role": "财务总监、主管会计工作负责人",
+      "quote": "罗贵林 指 公司财务总监"
+    },
+    {
+      "name": "王昭操",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "王昭操声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "蔡玲莉",
+      "role": "副总经理、董事会秘书",
+      "quote": "蔡玲莉 女 50 现任 83.69 否"
+    },
+    {
+      "name": "孙加洪",
+      "role": "董事、副总经理",
+      "quote": "孙加洪 男 52 现任 234.34 否"
+    },
+    {
+      "name": "赵克非",
+      "role": "职工代表董事",
+      "quote": "赵克非先生...2025年10月29日担任公司第二届董事会职工代表董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "清远铭科精技汽车零部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "清远铭科募投项目实施主体",
+      "quote": "清远铭科 指 清远铭科精技汽车零部件有限公司"
+    },
+    {
+      "name": "武汉铭科精技汽车零部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "金属结构件的研发、生产和销售，主要配套湖北及周边整机厂商",
+      "quote": "武汉铭科 指 武汉铭科精技汽车零部件有限公司"
+    },
+    {
+      "name": "重庆铭科精艺汽车零部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "金属结构件的研发、生产和销售，主要配套重庆及成都整机厂商",
+      "quote": "重庆铭科 指 重庆铭科精艺汽车零部件有限公司"
+    },
+    {
+      "name": "茂盛汽车零部件（大连）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "金属结构件的研发、生产和销售，产品主要配套东北区域整机厂商",
+      "quote": "大连茂盛 指 茂盛汽车零部件（大连）有限公司"
+    },
+    {
+      "name": "东莞竹盛精密金属科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "金属结构件的研发、生产和销售，产品主要应用于汽车及办公设备等领域",
+      "quote": "东莞竹盛 指 东莞竹盛精密金属科技有限公司"
+    },
+    {
+      "name": "安徽双骏智能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车焊装与总装自动化产线系统集成",
+      "quote": "安徽双骏 指 安徽双骏智能科技有限公司"
+    },
+    {
+      "name": "广岛技术（南京）汽车部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "收购80%股权，主营汽车排气装置生产销售，强化焊装工艺设计能力",
+      "quote": "南京广岛 指 广岛技术（南京）汽车部件有限公司"
+    },
+    {
+      "name": "铭科精技（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "铭科精技（香港） 指 铭科精技（香港）有限公司"
+    },
+    {
+      "name": "马瑞利",
+      "relation_type": "customer",
+      "business_details": "国际知名汽车零部件供应商",
+      "quote": "与多家国际知名汽车零部件供应商建立了长期合作关系，包括马瑞利、海斯坦普、广岛技术、佛吉亚、安道拓、凌云工业等。"
+    },
+    {
+      "name": "海斯坦普",
+      "relation_type": "customer",
+      "business_details": "国际知名汽车零部件供应商",
+      "quote": "与多家国际知名汽车零部件供应商建立了长期合作关系，包括马瑞利、海斯坦普、广岛技术、佛吉亚、安道拓、凌云工业等。"
+    },
+    {
+      "name": "佛吉亚",
+      "relation_type": "customer",
+      "business_details": "国际知名汽车零部件供应商",
+      "quote": "与多家国际知名汽车零部件供应商建立了长期合作关系，包括马瑞利、海斯坦普、广岛技术、佛吉亚、安道拓、凌云工业等。"
+    },
+    {
+      "name": "安道拓",
+      "relation_type": "customer",
+      "business_details": "国际知名汽车零部件供应商",
+      "quote": "与多家国际知名汽车零部件供应商建立了长期合作关系，包括马瑞利、海斯坦普、广岛技术、佛吉亚、安道拓、凌云工业等。"
+    },
+    {
+      "name": "凌云工业",
+      "relation_type": "customer",
+      "business_details": "国际知名汽车零部件供应商",
+      "quote": "与多家国际知名汽车零部件供应商建立了长期合作关系，包括马瑞利、海斯坦普、广岛技术、佛吉亚、安道拓、凌云工业等。"
+    },
+    {
+      "name": "天纳克",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司金属结构件客户主要为马瑞利、广岛技术、凌云工业、天纳克、理光等国际知名厂商"
+    },
+    {
+      "name": "理光",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司金属结构件客户主要为马瑞利、广岛技术、凌云工业、天纳克、理光等国际知名厂商"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "小鹏汽车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "赛力斯",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "奇瑞",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "江淮",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "吉利",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "日产",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "一汽集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "长城",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "宝马",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "奔驰",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "奥迪",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "本田",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "丰田",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已广泛应用于比亚迪、小鹏汽车、赛力斯、奇瑞、江淮、吉利、日产、一汽集团、长城、宝马、奔驰、奥迪、本田、丰田等整车品牌。"
+    },
+    {
+      "name": "天衡会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "天衡会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "华林证券股份有限公司",
+      "relation_type": "customer",
+      "business_details": "保荐机构",
+      "quote": "华林证券股份有限公司"
+    },
+    {
+      "name": "上海安智芯车规集成电路有限公司",
+      "relation_type": "customer",
+      "business_details": "投资对象，持股13.6364%",
+      "quote": "上海安智芯 指 上海安智芯车规集成电路有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "1,040,323,405.87",
+      "revenue_proportion": "83.71%",
+      "gross_margin": "25.85%",
+      "yoy_change": "34.79%",
+      "quote": "汽车 1,040,323,405.87 83.71% 771,822,982.20 79.93% 34.79%"
+    },
+    {
+      "name": "非汽车行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "202,543,154.92",
+      "revenue_proportion": "16.29%",
+      "gross_margin": "30.91%",
+      "yoy_change": "4.52%",
+      "quote": "非汽车 202,543,154.92 16.29% 193,791,182.46 20.07% 4.52%"
+    },
+    {
+      "name": "新能源汽车金属结构件",
+      "segment_type": "product_line",
+      "revenue_amount": "271,228,531.37",
+      "revenue_proportion": "21.82%",
+      "gross_margin": "13.48%",
+      "yoy_change": "21.26%",
+      "quote": "新能源汽车金属结构件 271,228,531.37 21.82% 223,666,107.72 23.16% 21.26%"
+    },
+    {
+      "name": "燃油汽车金属结构件和其他金属结构件",
+      "segment_type": "product_line",
+      "revenue_amount": "734,138,870.44",
+      "revenue_proportion": "59.07%",
+      "gross_margin": "24.53%",
+      "yoy_change": "32.82%",
+      "quote": "燃油汽车金属结构件和其他金属结构件 734,138,870.44 59.07% 552,743,018.16 57.24% 32.82%"
+    },
+    {
+      "name": "新能源汽车精密模具",
+      "segment_type": "product_line",
+      "revenue_amount": "16,178,565.09",
+      "revenue_proportion": "1.30%",
+      "gross_margin": "20.49%",
+      "yoy_change": "-28.47%",
+      "quote": "新能源汽车精密模具 16,178,565.09 1.30% 22,616,977.32 2.34% -28.47%"
+    },
+    {
+      "name": "燃油汽车精密模具和其他精密模具",
+      "segment_type": "product_line",
+      "revenue_amount": "146,761,341.53",
+      "revenue_proportion": "11.81%",
+      "gross_margin": "33.45%",
+      "yoy_change": "38.32%",
+      "quote": "燃油汽车精密模具和其他精密模具 146,761,341.53 11.81% 106,102,592.65 10.99% 38.32%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "908,181,059.61",
+      "revenue_proportion": "73.08%",
+      "gross_margin": "21.69%",
+      "yoy_change": "42.52%",
+      "quote": "内销 908,181,059.61 73.08% 637,232,350.86 65.99% 42.52%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "334,685,501.18",
+      "revenue_proportion": "26.92%",
+      "gross_margin": "40.19%",
+      "yoy_change": "1.92%",
+      "quote": "外销 334,685,501.18 26.92% 328,381,813.80 34.01% 1.92%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "金属结构件",
+      "metric_type": "sales_volume",
+      "value": "22,979.38万件",
+      "period": "2025年",
+      "quote": "销售量 万件 22,979.38"
+    },
+    {
+      "product": "金属结构件",
+      "metric_type": "production_volume",
+      "value": "22,966.40万件",
+      "period": "2025年",
+      "quote": "生产量 万件 22,966.40"
+    },
+    {
+      "product": "金属结构件",
+      "metric_type": "inventory_volume",
+      "value": "1,830.37万件",
+      "period": "2025年末",
+      "quote": "库存量 万件 1,830.37"
+    },
+    {
+      "product": "模具",
+      "metric_type": "sales_volume",
+      "value": "1,055套",
+      "period": "2025年",
+      "quote": "销售量 套 1,055"
+    },
+    {
+      "product": "模具",
+      "metric_type": "production_volume",
+      "value": "1,053套",
+      "period": "2025年",
+      "quote": "生产量 套 1,053"
+    },
+    {
+      "product": "模具",
+      "metric_type": "inventory_volume",
+      "value": "524套",
+      "period": "2025年末",
+      "quote": "库存量 套 524"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "清远铭科汽车（新能源）零部件产业基地项目",
+      "project_type": "fundraising_project",
+      "location": "清远市等地",
+      "investment_amount": "30,355万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "66.51%（截至期末投资进度）",
+      "expected_completion_time": "2026年11月05日",
+      "quote": "清远铭科汽车（新能源）零部件产业基地项目...截至期末累计投入 20,188.53 ...投资进度 66.51%...达到预定可使用状态日期 2026年11月05日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": "东莞市、苏州市等地",
+      "investment_amount": "7,138.24万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "82.65%（截至期末投资进度）",
+      "expected_completion_time": "2026年11月05日",
+      "quote": "研发中心建设项目...截至期末累计投入 5,899.98 ...投资进度 82.65%...达到预定可使用状态日期 2026年11月05日"
+    },
+    {
+      "name": "收购广岛技术（南京）汽车部件有限公司80%股份",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "6,671.7万元人民币",
+      "designed_capacity": null,
+      "progress": "已完成工商变更登记",
+      "expected_completion_time": null,
+      "quote": "公司子公司铭科精技（香港）使用自有资金6,671.7万元人民币收购南京广岛80%的股权...南京广岛已于2025年11月11日完成工商变更登记手续"
+    },
+    {
+      "name": "变更部分募集资金用途并用于收购安徽双骏智能科技有限公司53.2530%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "14,378.31万元人民币（其中募集资金9,000.00万元）",
+      "designed_capacity": null,
+      "progress": "已完成工商变更登记",
+      "expected_completion_time": null,
+      "quote": "拟使用14,378.31万元人民币收购安徽双骏53.2530%股权，其中拟使用募集资金9,000.00万元，自有资金5,378.31万元...安徽双骏已于2026年3月17日完成工商变更登记手续"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "WinstechTool 辅助平台",
+      "asset_type": "technical_platform",
+      "related_product": "模具设计",
+      "quantitative_info": null,
+      "quote": "公司自主开发的WinstechTool 辅助平台实现了模块化设计、自动拆图及成本估算"
+    },
+    {
+      "name": "CAD/CAE/PLM集成系统",
+      "asset_type": "technical_platform",
+      "related_product": "数字研发平台",
+      "quantitative_info": null,
+      "quote": "公司广泛采用数字化研发平台与工程工具，包括CAD/CAE/PLM集成系统"
+    },
+    {
+      "name": "多产品共线分析、工艺分序、节拍分析等柔性自动化设计技术",
+      "asset_type": "core_technology",
+      "related_product": "汽车焊装自动化装备",
+      "quantitative_info": null,
+      "quote": "掌握多产品共线分析、工艺分序、节拍分析、开动率分析、工艺规划、物流规划及人机工程等柔性自动化设计技术"
+    },
+    {
+      "name": "铝点焊、SPR、FDS等连接工艺",
+      "asset_type": "process_technology",
+      "related_product": "新能源汽车关键连接",
+      "quantitative_info": null,
+      "quote": "掌握铝点焊、SPR、FDS 等新能源汽车关键连接工艺，并建立专业连接实验室及工艺数据库"
+    },
+    {
+      "name": "智能生产线控制系统开发能力",
+      "asset_type": "core_technology",
+      "related_product": "焊装自动化产线",
+      "quantitative_info": null,
+      "quote": "在软件与控制技术方面，公司具备智能生产线控制系统开发能力"
+    },
+    {
+      "name": "虚拟调试技术",
+      "asset_type": "core_technology",
+      "related_product": "产线设计与实施",
+      "quantitative_info": null,
+      "quote": "并通过虚拟调试技术实现产线设计与实施阶段的数字化验证"
+    },
+    {
+      "name": "负角加工用角度校正机构及校正办法",
+      "asset_type": "other",
+      "related_product": "汽车支架",
+      "quantitative_info": "已完成",
+      "quote": "通过负角加工用角度校正机构及校正办法的研发...已完成"
+    },
+    {
+      "name": "微型零件高精度连续冲压技术的模具冲头切换技术",
+      "asset_type": "other",
+      "related_product": "微型零件冲压",
+      "quantitative_info": "已完成",
+      "quote": "针对微型零件高精度连续冲压技术...已完成"
+    },
+    {
+      "name": "同轴共创自动焊接装置",
+      "asset_type": "other",
+      "related_product": "方向盘下方连接杆焊接",
+      "quantitative_info": "已完成",
+      "quote": "同轴共创自动焊接装置的研发...已完成"
+    },
+    {
+      "name": "冲压单发模连续接取料装置",
+      "asset_type": "other",
+      "related_product": "冲压加工",
+      "quantitative_info": "已完成",
+      "quote": "冲压单发模连续接取料装置的研发...已完成"
+    },
+    {
+      "name": "全自动二维码的激光刻印技术",
+      "asset_type": "other",
+      "related_product": "产品标识",
+      "quantitative_info": "研发阶段",
+      "quote": "全自动二维码的激光刻印技术...研发阶段"
+    },
+    {
+      "name": "分体式凹模的汽车仪表盘骨架冲压模具",
+      "asset_type": "other",
+      "related_product": "汽车仪表盘",
+      "quantitative_info": "已完工",
+      "quote": "分体式凹模的汽车仪表盘骨架冲压模具的研发...已完工"
+    },
+    {
+      "name": "高精度仪表盘高效制备工艺技术",
+      "asset_type": "other",
+      "related_product": "仪表盘",
+      "quantitative_info": "研发阶段",
+      "quote": "高精度仪表盘高效制备工艺技术的研发...研发阶段"
+    },
+    {
+      "name": "管件凹凸模高效冲孔技术",
+      "asset_type": "other",
+      "related_product": "管件冲孔",
+      "quantitative_info": "小批量生产",
+      "quote": "管件凹凸模高效冲孔技术的研发...小批量生产"
+    },
+    {
+      "name": "铝合金油底壳真空压铸工艺",
+      "asset_type": "other",
+      "related_product": "新能源汽车电机压铸",
+      "quantitative_info": "批量生产阶段",
+      "quote": "铝合金油底壳真空压铸工艺的研发...批量生产阶段"
+    },
+    {
+      "name": "汽车转向器伺服壳体及压铸技术",
+      "asset_type": "other",
+      "related_product": "新能源汽车电机压铸",
+      "quantitative_info": "批量生产阶段",
+      "quote": "汽车转向器伺服壳体及压铸技术的研发...批量生产阶段"
+    },
+    {
+      "name": "冲压头高度可调式汽车零件冲压模具快速换型技术",
+      "asset_type": "other",
+      "related_product": "冲压模具换型",
+      "quantitative_info": "已完成",
+      "quote": "冲压头高度可调式汽车零件冲压模具快速换型技术的研发...已完成"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "568,498,805.11元，占年度销售总额比例45.74%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 568,498,805.11...前五名客户合计销售金额占年度销售总额比例 45.74%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "230,495,264.11元，占年度销售总额比例18.55%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 230,495,264.11 18.55%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "261,174,141.17元，占年度采购总额比例41.26%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 261,174,141.17...前五名供应商合计采购金额占年度采购总额比例 41.26%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "175,135,284.62元，占年度采购总额比例27.67%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 175,135,284.62 27.67%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料钢材价格大幅波动或快速上涨，产品成本上升无法及时向下传导，可能对公司业务开展及经营业绩造成一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要原材料价格波动风险...公司生产所需的主要原材料为钢材。钢材价格变动是公司生产成本变化的主要因素之一...可能会对公司业务开展及经营业绩造成一定影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "为金属结构件客户主要配套的车型或产品销售不及预期，将对公司销售收入及盈利能力产生不利影响。",
+      "related_entity": "马瑞利、广岛技术、凌云工业、天纳克、理光等客户及其配套的比亚迪、小鹏汽车、赛力斯、奇瑞、日产、一汽集团、长城等整车品牌",
+      "related_product": "金属结构件",
+      "quote": "下游车型或产品销售不及预期的风险...定点项目对应车型或产品销售情况直接影响公司的收入实现。...如果公司产品对应车型或产品销售不及预期，将对公司销售收入及盈利能力产生不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司及部分子公司享受所得税和增值税等优惠政策，如果国家调整相关税收优惠政策，可能会在一定程度上影响公司的盈利水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "税收优惠政策发生变化的风险...公司及部分子公司分别依据西部大开发战略和高新技术企业、残疾职工安置等其他有关政策享受部分所得税和增值税等优惠政策...如果国家调整相关税收优惠政策，可能会在一定程度上影响公司的盈利水平。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口销售绝大部分以美元或欧元结算，如果人民币汇率水平发生较大波动，将会在一定程度上影响公司的产品出口和经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率风险...由于公司出口销售绝大部分以美元或欧元结算...将会在一定程度上影响公司的产品出口和经营业绩。"
+    }
+  ]
+}

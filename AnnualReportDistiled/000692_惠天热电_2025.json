@@ -1,0 +1,231 @@
+{
+  "company_name_mentioned": "沈阳惠天热电股份有限公司",
+  "produces": [
+    {
+      "name": "供热服务（供暖供气）",
+      "type": "service",
+      "revenue_proportion": "92.39%",
+      "quote": "分产品\n供暖供气 1,943,454,249.42 92.39%"
+    },
+    {
+      "name": "供暖工程服务",
+      "type": "service",
+      "revenue_proportion": "1.97%",
+      "quote": "分产品\n供暖工程 41,431,859.99 1.97%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料（煤炭）",
+      "target_product": "供热",
+      "cost_proportion": "32.73%",
+      "quote": "营业成本构成\n燃料费 708,613,392.57 32.73%"
+    },
+    {
+      "name": "外购热量",
+      "target_product": "供热",
+      "cost_proportion": "27.52%",
+      "quote": "营业成本构成\n热费 595,811,255.58 27.52%"
+    },
+    {
+      "name": "电力",
+      "target_product": "供热",
+      "cost_proportion": "4.19%",
+      "quote": "营业成本构成\n电费 90,817,105.56 4.19%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市居民及非居民用户供热",
+      "source_product": "供热服务",
+      "quote": "公司主要业务仍是为城市居民及非居民用户提供供热及工程服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑运",
+      "role": "董事长、总经理",
+      "quote": "现任：公司党委书记、董事长、总经理"
+    },
+    {
+      "name": "杨辉",
+      "role": "副总经理、财务总监、董事会秘书",
+      "quote": "现任：公司副总经理、财务总监、董事会秘书"
+    },
+    {
+      "name": "郝杰",
+      "role": "董事、副总经理",
+      "quote": "现任：公司董事、副总经理"
+    },
+    {
+      "name": "王世权",
+      "role": "独立董事",
+      "quote": "现任：公司独立董事、董事会薪酬与考核委员会委员、提名委员会委员及战略委员会委员"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华润电力（沈阳）有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购热量",
+      "quote": "公司前5名供应商资料\n1 华润电力（沈阳）有限公司 326,731,869.08 15.09%"
+    },
+    {
+      "name": "辽宁阜矿仓储物流有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "采购",
+      "quote": "公司前5名供应商资料\n2 辽宁阜矿仓储物流有限责任公司 298,272,492.12 13.78%"
+    },
+    {
+      "name": "沈阳华润热电有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购热量",
+      "quote": "公司前5名供应商资料\n4 沈阳华润热电有限公司 127,192,705.96 5.87%"
+    },
+    {
+      "name": "沈阳惠涌供热有限责任公司",
+      "relation_type": "customer",
+      "business_details": "销售煤炭",
+      "quote": "公司前5大客户资料\n1 沈阳惠涌供热有限责任公司 58,772,958.39 2.79%"
+    },
+    {
+      "name": "沈阳圣达热力供暖有限责任公司",
+      "relation_type": "customer",
+      "business_details": "销售煤炭",
+      "quote": "公司前5大客户资料\n2 沈阳圣达热力供暖有限责任公司 43,284,946.88 2.06%"
+    },
+    {
+      "name": "沈阳润电热力有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东名称 沈阳润电热力有限公司"
+    },
+    {
+      "name": "沈阳市第二热力供暖有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主营供暖",
+      "quote": "合并范围内子公司情况：\n沈阳市第二热力供暖有限公司 有限责任 沈阳 供暖 521.00 51.00 是"
+    },
+    {
+      "name": "沈阳全胜热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，发电及售电",
+      "quote": "合并范围内子公司情况：\n沈阳全胜热电有限公司 有限责任 沈阳 发电及售电 73,423.00 100.00 是"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "供暖供气",
+      "segment_type": "product_line",
+      "revenue_amount": "1,943,454,249.42",
+      "revenue_proportion": "92.39%",
+      "gross_margin": "-6.34%",
+      "yoy_change": "-0.81%",
+      "quote": "分产品\n供暖供气 1,943,454,249.42 92.39%\n2024年... 1,959,248,652.33 93.20% -0.81%\n...毛利率... -6.34%..."
+    },
+    {
+      "name": "辽宁地区",
+      "segment_type": "region",
+      "revenue_amount": "2,102,291,829.06",
+      "revenue_proportion": "99.94%",
+      "gross_margin": "-2.94%",
+      "yoy_change": "0.05%",
+      "quote": "分地区\n辽宁地区 2,102,291,829.06 99.94%... -2.94%...0.05%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "供热",
+      "metric_type": "capacity",
+      "value": "9254万平方米",
+      "period": "报告期末",
+      "quote": "截至2025年底，公司在网供热面积达9254万平方米"
+    },
+    {
+      "product": "供热",
+      "metric_type": "sales_volume",
+      "value": "1,984,886,109.41元",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减\n销售量 元 1,984,886,109.41 2,006,002,577.32 -1.05%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "沈阳全胜2×350MW热电项目",
+      "project_type": "capacity_expansion",
+      "location": "沈阳市",
+      "investment_amount": "42,774,378.30",
+      "designed_capacity": "2×350MW",
+      "progress": "截至报告期末累计实际投入45,054,759.10元，进度1.23%",
+      "expected_completion_time": "不适用",
+      "quote": "报告期正在进行的重大的非股权投资情况\n全胜2*350MW热电项目...投资金额 42,774,378.30...截至报告期末累计实际投入金额 45,054,759.10...进度 1.23%..."
+    },
+    {
+      "name": "70万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "沈阳市",
+      "progress": "已确定为项目业主",
+      "quote": "沈阳市2025年第二批140万千瓦风电项目竞争性配置评审结果确定惠天热电为70万千瓦风电项目业主。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "供热设计资质",
+      "asset_type": "certification",
+      "related_product": "供暖工程服务",
+      "quote": "公司拥有专业化的供热设计研究院和工程公司，具有甲级设计资质及工程总承包资质。"
+    },
+    {
+      "name": "供热工程总承包资质",
+      "asset_type": "certification",
+      "related_product": "供暖工程服务",
+      "quote": "公司拥有专业化的供热设计研究院和工程公司，具有甲级设计资质及工程总承包资质。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "6.77%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 142,403,120.03\n前五名客户合计销售金额占年度销售总额比例 6.77%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "45.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 974,658,587.21\n前五名供应商合计采购金额占年度采购总额比例 45.02%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司供热业务的原材料主要为燃煤及外购热量。煤炭价格和向电厂外购热量价格的大幅波动，都将影响公司的盈利能力，公司的经营业绩面临波动风险。",
+      "related_entity": null,
+      "related_product": "供热",
+      "quote": "可能面对风险\n（1）原材料价格波动风险\n公司供热业务的原材料主要为燃煤及外购热量。煤炭作为基础性资源产品，其价格波动受国际大宗商品价格涨跌和产业政策影响较大...煤炭价格和向电厂外购热量价格的大幅波动，都将影响公司的盈利能力..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "大气排放标准改变及环保法和大气污染法等国家法规和地方环保政策的趋严，供热行业的环保排放要求越来越严格，热源环保设施建设及改造资金投入逐年加大。",
+      "related_entity": null,
+      "related_product": "供热",
+      "quote": "（2）环保政策趋严风险\n由于大气排放标准改变及环保法和大气污染法等国家法规和地方环保政策的趋严，供热行业的环保排放要求越来越严格..."
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司沈海热网供热质量、供热成本较大程度上依赖于沈阳华润热电有限公司，如果该公司在运行和经营方面存在不确定性的情况下，公司也将受到较大影响。",
+      "related_entity": "沈阳华润热电有限公司",
+      "related_product": "供热",
+      "quote": "（3）客户依赖风险\n公司沈海热网供热在网面积3500余万平方米...沈海热网中有一半的热量来自于沈阳华润热电有限公司发电余热...因此，沈海热网的供热质量、供热成本较大程度上依赖于沈阳华润热电有限公司..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "母公司存在未弥补亏损，报告期末负债总额为635,505.45万元，归属于股东的净资产13,139.04万元。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末，母公司存在未弥补亏损\n2025年度母公司期末未分配利润为-640,912,735.55 元...归属于股东的净资产13,139.04万元。"
+    }
+  ]
+}

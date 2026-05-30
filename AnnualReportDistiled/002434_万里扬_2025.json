@@ -1,0 +1,559 @@
+{
+  "company_name_mentioned": "浙江万里扬股份有限公司",
+  "produces": [
+    {
+      "name": "乘用车变速器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "乘用车变速器包括手动变速器（MT）和自动变速器（CVT、DCT），主要为奇瑞汽车、吉利汽车、比亚迪汽车、长城汽车等汽车厂和国外客户的相关车型提供配套。"
+    },
+    {
+      "name": "商用车变速器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "商用车变速器包括手动变速器（MT）和自动变速器（AMT），主要为福田汽车、中国重汽、东风汽车、中国一汽、江铃汽车、陕汽集团、江淮汽车等汽车厂和国外客户的相关车型提供配套。"
+    },
+    {
+      "name": "新能源汽车传/驱动系统",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "新能源汽车传/驱动系统包括纯电动汽车 EV 减速器、“三合一”和“多合一”电驱动系统、ECVT电驱动系统、乘用车 DHT混动系统、商用车混动系统和电驱动系统。"
+    },
+    {
+      "name": "非公路车辆传/驱动系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "非公路车辆传/驱动系统产品包括工程机械电驱动系统、工程机械燃油 AT 变速器、大马力农机 CVT 和混合动力 CVT 以及中大马力农机动力换挡等自动挡传动系统。"
+    },
+    {
+      "name": "机器人零部件",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "机器人零部件产品包括机器人电机、控制器、谐波减速器、行星减速器等单品和组合的关节模组等。"
+    },
+    {
+      "name": "零部件（齿轮、轴、同步器、壳体、锻件等）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司传/驱动系统总成产品生产中所需要的齿轮、轴、同步器和壳体等零部件基本由公司自制。"
+    },
+    {
+      "name": "车辆传/驱动系统及配件",
+      "type": "device",
+      "revenue_proportion": "91.08%",
+      "quote": "车辆传/驱动系统及配件：4,965,476,680.09元，占营业收入比重91.08%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "汽车变速器及零部件",
+      "cost_proportion": null,
+      "quote": "公司产品所需的主要原材料为钢材、铝材等。"
+    },
+    {
+      "name": "铝材",
+      "target_product": "汽车变速器及零部件",
+      "cost_proportion": null,
+      "quote": "公司产品所需的主要原材料为钢材、铝材等。"
+    },
+    {
+      "name": "CVT钢带",
+      "target_product": "CVT自动变速器",
+      "cost_proportion": null,
+      "quote": "CVT钢带、液力变矩器、传感器、油泵、控制器、标准件等零部件对外采购。"
+    },
+    {
+      "name": "液力变矩器",
+      "target_product": "自动变速器",
+      "cost_proportion": null,
+      "quote": "CVT钢带、液力变矩器、传感器、油泵、控制器、标准件等零部件对外采购。"
+    },
+    {
+      "name": "传感器",
+      "target_product": "自动变速器",
+      "cost_proportion": null,
+      "quote": "CVT钢带、液力变矩器、传感器、油泵、控制器、标准件等零部件对外采购。"
+    },
+    {
+      "name": "油泵",
+      "target_product": "自动变速器",
+      "cost_proportion": null,
+      "quote": "CVT钢带、液力变矩器、传感器、油泵、控制器、标准件等零部件对外采购。"
+    },
+    {
+      "name": "控制器",
+      "target_product": "电驱动系统",
+      "cost_proportion": null,
+      "quote": "CVT钢带、液力变矩器、传感器、油泵、控制器、标准件等零部件对外采购。"
+    },
+    {
+      "name": "标准件",
+      "target_product": "变速器",
+      "cost_proportion": null,
+      "quote": "CVT钢带、液力变矩器、传感器、油泵、控制器、标准件等零部件对外采购。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "乘用车",
+      "source_product": "乘用车变速器",
+      "quote": "应用于轿车、SUV、MPV等不同车型。"
+    },
+    {
+      "name": "商用车",
+      "source_product": "商用车变速器",
+      "quote": "应用于微卡、轻卡、中卡、重卡、客车等不同车型。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "新能源汽车传/驱动系统",
+      "quote": "新能源汽车传/驱动系统包括纯电动汽车 EV 减速器、“三合一”和“多合一”电驱动系统、ECVT电驱动系统、乘用车 DHT混动系统、商用车混动系统和电驱动系统。"
+    },
+    {
+      "name": "非公路车辆",
+      "source_product": "非公路车辆传/驱动系统",
+      "quote": "非公路车辆传/驱动系统产品包括工程机械电驱动系统、工程机械燃油 AT 变速器、大马力农机 CVT 和混合动力 CVT 以及中大马力农机动力换挡等自动挡传动系统。"
+    },
+    {
+      "name": "机器人",
+      "source_product": "机器人零部件",
+      "quote": "机器人零部件产品包括机器人电机、控制器、谐波减速器、行星减速器等单品和组合的关节模组等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄河清",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人黄河清、主管会计工作负责人张雷刚及会计机构负责人（会计主管人员）施宇琼声明；黄河清：男，1962 年生，中国国籍，汉族，1984 年毕业于浙江大学，本科学历，高级经济师、工程师。现任公司董事长；万里扬集团有限公司执行董事。"
+    },
+    {
+      "name": "顾勇亭",
+      "role": "董事、总裁",
+      "quote": "顾勇亭：男，1972 年生，中国国籍，汉族，1995 年毕业于杭州大学，本科学历，高级经济师。现任公司董事、总裁。"
+    },
+    {
+      "name": "张雷刚",
+      "role": "董事、财务总监、董事会秘书",
+      "quote": "主管会计工作负责人张雷刚；张雷刚：男，1985 年生，中国国籍，汉族，中共党员，本科学历，高级经济师。现任公司董事、财务总监、董事会秘书。"
+    },
+    {
+      "name": "任华林",
+      "role": "副总裁",
+      "quote": "任华林：男，1977 年生，中国国籍，汉族，中共党员，MBA，高级经济师、正高级工程师。现任公司副总裁。"
+    },
+    {
+      "name": "林健",
+      "role": "副总裁、芜湖万里扬变速器有限公司总经理",
+      "quote": "林健：男，1976 年生，中国国籍，汉族，中共党员，研究生学历，高级工程师。现任公司副总裁、芜湖万里扬变速器有限公司总经理。"
+    },
+    {
+      "name": "朱小龙",
+      "role": "副总裁",
+      "quote": "朱小龙：男，1979 年生，中国国籍，汉族，中共党员，研究生学历，高级工程师。现任公司副总裁。"
+    },
+    {
+      "name": "吴月华",
+      "role": "董事、实际控制人",
+      "quote": "公司实际控制人黄河清和吴月华承诺；吴月华：女，1963 年生，中国国籍，汉族，1984 年毕业于杭州大学，本科学历，高级经济师。现任公司董事；万里扬集团有限公司总裁。"
+    },
+    {
+      "name": "戚士龙",
+      "role": "董事",
+      "quote": "戚士龙：男，1980 年生，中国国籍，汉族，中共党员，硕士研究生学历。现任奇瑞汽车股份有限公司执行副总裁；公司董事。"
+    },
+    {
+      "name": "黄哲煜",
+      "role": "董事",
+      "quote": "黄哲煜：男，1990 年生，中国国籍，汉族，2014 年毕业于浙江大学，研究生学历。现任公司董事。"
+    },
+    {
+      "name": "黄列群",
+      "role": "独立董事",
+      "quote": "黄列群：男，1957 年生，中国国籍，汉族，中共党员，研究生学历，正高级工程师。现为公司独立董事。"
+    },
+    {
+      "name": "徐萍平",
+      "role": "独立董事",
+      "quote": "徐萍平：女，1964 年生，中国国籍，汉族，硕士，教授。现为公司独立董事。"
+    },
+    {
+      "name": "吕岚",
+      "role": "独立董事",
+      "quote": "吕岚：女，1968 年生，中国国籍，汉族，硕士，高级会计师、注册会计师、注册税务师、注册资产评估师、注册房地产估价师。现为公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "奇瑞汽车股份有限公司",
+      "relation_type": "customer",
+      "business_details": "持有公司5%以上股份的股东及其一致行动人；主要销售客户。",
+      "quote": "公司主要销售客户情况：前五名客户合计销售金额（元） 3,697,157,378.64；客户1 2,164,179,020.46 39.70%；奇瑞汽车股份有限公司执行副总裁戚士龙为公司董事。"
+    },
+    {
+      "name": "万里扬集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东情况：控股股东名称：万里扬集团有限公司；实际控制人通过其控制。"
+    },
+    {
+      "name": "浙江万里扬能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原控股子公司，后因增资扩股股权被稀释，不再纳入合并范围，现为参股公司。",
+      "quote": "自2025年9月开始，万里扬能源公司不再为公司的控股子公司，并不再纳入公司合并财务报表范围。公司持有万里扬能源公司的股权比例由47.0523%稀释至40.0345%，万里扬能源公司仍为公司的参股公司。"
+    },
+    {
+      "name": "吉利汽车",
+      "relation_type": "customer",
+      "business_details": "乘用车变速器主要客户。",
+      "quote": "乘用车变速器主要为奇瑞汽车、吉利汽车、比亚迪汽车、长城汽车等汽车厂和国外客户的相关车型提供配套。"
+    },
+    {
+      "name": "比亚迪汽车",
+      "relation_type": "customer",
+      "business_details": "乘用车变速器主要客户。",
+      "quote": "乘用车变速器主要为奇瑞汽车、吉利汽车、比亚迪汽车、长城汽车等汽车厂和国外客户的相关车型提供配套。"
+    },
+    {
+      "name": "长城汽车",
+      "relation_type": "customer",
+      "business_details": "乘用车变速器主要客户。",
+      "quote": "乘用车变速器主要为奇瑞汽车、吉利汽车、比亚迪汽车、长城汽车等汽车厂和国外客户的相关车型提供配套。"
+    },
+    {
+      "name": "福田汽车",
+      "relation_type": "customer",
+      "business_details": "商用车变速器主要客户。",
+      "quote": "商用车变速器主要为福田汽车、中国重汽、东风汽车、中国一汽、江铃汽车、陕汽集团、江淮汽车等汽车厂和国外客户的相关车型提供配套。"
+    },
+    {
+      "name": "中国重汽",
+      "relation_type": "customer",
+      "business_details": "商用车变速器主要客户。",
+      "quote": "商用车变速器主要为福田汽车、中国重汽、东风汽车、中国一汽、江铃汽车、陕汽集团、江淮汽车等汽车厂和国外客户的相关车型提供配套。"
+    },
+    {
+      "name": "陕汽集团",
+      "relation_type": "customer",
+      "business_details": "重卡变速器客户。",
+      "quote": "顺利推动重卡变速器产品在陕汽集团、福田汽车等主流整车厂商的配套应用。"
+    },
+    {
+      "name": "金华市众成投资有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人控制的企业。",
+      "quote": "实际控制人黄河清持有金华市众成投资有限公司 84.93%股权。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车零部件制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "5,251,079,257.91元",
+      "revenue_proportion": "96.32%",
+      "gross_margin": "9.73%",
+      "yoy_change": "-9.14%",
+      "quote": "分行业：汽车零部件制造 5,251,079,257.91元，占营业收入比重96.32%，毛利率9.73%，营业收入比上年同期增减-9.14%。"
+    },
+    {
+      "name": "融资租赁业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "19,117,534.94元",
+      "revenue_proportion": "0.35%",
+      "gross_margin": null,
+      "yoy_change": "-55.72%",
+      "quote": "分产品：融资租赁业务 19,117,534.94元，占营业收入比重0.35%。"
+    },
+    {
+      "name": "储能和电力交易业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "181,497,077.05元",
+      "revenue_proportion": "3.33%",
+      "gross_margin": null,
+      "yoy_change": "-4.79%",
+      "quote": "分产品：储能和电力交易业务 181,497,077.05元，占营业收入比重3.33%。"
+    },
+    {
+      "name": "车辆传/驱动系统及配件",
+      "segment_type": "product_line",
+      "revenue_amount": "4,965,476,680.09元",
+      "revenue_proportion": "91.08%",
+      "gross_margin": "10.37%",
+      "yoy_change": "-5.19%",
+      "quote": "分产品：车辆传/驱动系统及配件 4,965,476,680.09元，占营业收入比重91.08%，毛利率10.37%，营业收入比上年同期增减-5.19%。"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "285,602,577.82元",
+      "revenue_proportion": "5.24%",
+      "gross_margin": null,
+      "yoy_change": "-47.27%",
+      "quote": "分产品：其他 285,602,577.82元，占营业收入比重5.24%。"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "5,259,441,897.63元",
+      "revenue_proportion": "96.47%",
+      "gross_margin": "11.90%",
+      "yoy_change": "-3.63%",
+      "quote": "分地区：国内销售 5,259,441,897.63元，占营业收入比重96.47%，毛利率11.90%，营业收入比上年同期增减-3.63%。"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "192,251,972.27元",
+      "revenue_proportion": "3.53%",
+      "gross_margin": null,
+      "yoy_change": "-65.38%",
+      "quote": "分地区：国外销售 192,251,972.27元，占营业收入比重3.53%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "传/驱动系统总成",
+      "metric_type": "capacity",
+      "value": "282万台",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司传/驱动系统总成产品的产能为 282 万台。"
+    },
+    {
+      "product": "乘用车变速器",
+      "metric_type": "capacity",
+      "value": "130万台",
+      "period": "报告期末",
+      "quote": "其中，乘用车变速器130万台（MT产能30 万台，CVT产能100 万台）。"
+    },
+    {
+      "product": "商用车变速器",
+      "metric_type": "capacity",
+      "value": "110万台",
+      "period": "报告期末",
+      "quote": "商用车变速器 110万台。"
+    },
+    {
+      "product": "新能源汽车传/驱动系统",
+      "metric_type": "capacity",
+      "value": "40万台",
+      "period": "报告期末",
+      "quote": "新能源汽车传/驱动系统40万台。"
+    },
+    {
+      "product": "非公路车辆传/驱动系统",
+      "metric_type": "capacity",
+      "value": "2万台",
+      "period": "报告期末",
+      "quote": "非公路车辆传/驱动系统产能 2万台。"
+    },
+    {
+      "product": "车辆传/驱动系统（变速器、减速器、电驱动系统等）",
+      "metric_type": "production_volume",
+      "value": "1,277,328台",
+      "period": "报告期",
+      "quote": "车辆传/驱动系统（变速器、减速器、电驱动系统等）产量 1,277,328台，与上年同比增减8.64%。"
+    },
+    {
+      "product": "车辆传/驱动系统（变速器、减速器、电驱动系统等）",
+      "metric_type": "sales_volume",
+      "value": "1,295,278台",
+      "period": "报告期",
+      "quote": "车辆传/驱动系统（变速器、减速器、电驱动系统等）销售量 1,295,278台，与上年同比增减8.60%。"
+    },
+    {
+      "product": "汽车零部件制造（变速器、减速器、电驱动系统等）",
+      "metric_type": "inventory_volume",
+      "value": "147,299台",
+      "period": "报告期末",
+      "quote": "汽车零部件制造（变速器、减速器、电驱动系统等）库存量 147,299台。"
+    },
+    {
+      "product": "新能源汽车传/驱动系统",
+      "metric_type": "production_volume",
+      "value": "121,774台",
+      "period": "报告期",
+      "quote": "新能源汽车传/驱动系统（变速器、减速器、电驱动系统等）产量 121,774台。"
+    },
+    {
+      "product": "新能源汽车传/驱动系统",
+      "metric_type": "sales_volume",
+      "value": "117,171台",
+      "period": "报告期",
+      "quote": "新能源汽车传/驱动系统（变速器、减速器、电驱动系统等）销量 117,171台。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "马来西亚CVT生产基地项目",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正式启动",
+      "expected_completion_time": null,
+      "quote": "公司在马来西亚的 CVT 生产基地项目正式启动，将成为公司在海外的首个制造基地。"
+    },
+    {
+      "name": "浙江万里扬机器人科技有限公司成立",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "1700万元",
+      "designed_capacity": "一期年产10万颗关节模组",
+      "progress": "已完成产品平台规划和技术研发，多款机器人行星关节模组顺利下线；正全面开展产品性能测试。",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司成立了浙江万里扬机器人科技有限公司，专门负责公司机器人关节精密传动产品的研发和产业化发展。完成产品下线，正全面开展产品性能、使用寿命等各项指标测试工作。加快完成一期年产 10 万颗关节模组的产能建设并投产。"
+    },
+    {
+      "name": "新厂区搬迁项目",
+      "project_type": "construction_project",
+      "location": "金华市飞扬小镇",
+      "investment_amount": null,
+      "designed_capacity": "商用车变速器和零部件业务的主要产能",
+      "progress": "搬迁完成",
+      "expected_completion_time": null,
+      "quote": "2025 年公司将商用车变速器业务和零部件业务的主要产能从金华市临江工业区的老厂区搬迁至金华市飞扬小镇的新厂区。"
+    },
+    {
+      "name": "农机CVT项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成首台350马力ACVT120样机装配测试及客户样机交付。",
+      "expected_completion_time": null,
+      "quote": "公司推出国内首款同轴行星齿轮 4 区段农机无级变速器ACVT120，打破国外技术垄断。农机CVT项目完成首台350马力ACVT120样机装配测试及客户样机交付。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "CVT技术",
+      "asset_type": "core_technology",
+      "related_product": "乘用车CVT自动变速器",
+      "quantitative_info": "拥有完全自主的 CVT 研发、生产制造能力；产品技术获得了数十项发明专利。",
+      "quote": "公司拥有完全自主的 CVT 研发、生产制造能力，建立了完整的 CVT 研发、试制试验、工艺规划、智能化生产等能力体系和质量保证体系，产品技术获得了数十项发明专利。公司 CVT 产品被评为“中国十佳变速器”和“世界十佳变速器”。"
+    },
+    {
+      "name": "ECVT技术",
+      "asset_type": "core_technology",
+      "related_product": "纯电动汽车ECVT",
+      "quantitative_info": "全球首款无级变速器产品（ECVT）。",
+      "quote": "公司充分发挥在 CVT 产品领域的各种优势，成功开发了应用于纯电动汽车的全球首款无级变速器产品（ECVT）。"
+    },
+    {
+      "name": "轻卡AMT自动变速器技术",
+      "asset_type": "core_technology",
+      "related_product": "轻卡AMT",
+      "quantitative_info": "自主研发成功中国首款轻卡 AMT 自动变速器。",
+      "quote": "公司自主研发成功中国首款轻卡 AMT 自动变速器，实现了中国在轻卡自动变速器领域零的突破。"
+    },
+    {
+      "name": "智慧星AMT系列产品技术",
+      "asset_type": "core_technology",
+      "related_product": "重卡AMT",
+      "quantitative_info": "多项技术填补了国内空白。",
+      "quote": "公司采用国际先进技术路线，开发了应用于中重型商用车自动、混动和纯电等场景需求的新一代智慧星 AMT 系列产品，产品的主要性能和指标具有行业前瞻性和引领性，有多项技术填补了国内空白。"
+    },
+    {
+      "name": "乘用车DHT混动系统技术",
+      "asset_type": "core_technology",
+      "related_product": "乘用车DHT混动系统",
+      "quantitative_info": null,
+      "quote": "公司自主开发成功乘用车 DHT 混动系统，并建立了较强的控制系统软件开发能力。"
+    },
+    {
+      "name": "农机CVT技术",
+      "asset_type": "core_technology",
+      "related_product": "农机CVT",
+      "quantitative_info": "国内首款同轴行星齿轮4区段农机无级变速器ACVT120。",
+      "quote": "公司推出国内首款同轴行星齿轮 4 区段农机无级变速器ACVT120，打破国外技术垄断。"
+    },
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有国家认定企业技术中心、省级重点企业研究院、省级博士后科研工作站。"
+    },
+    {
+      "name": "CNAS实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "两个",
+      "quote": "拥有两个 CNAS 实验室。"
+    },
+    {
+      "name": "IATF16949质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建立并严格贯彻执行 IATF16949 质量管理体系。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "39.70%",
+      "related_entity": "客户1（关联方）",
+      "period": "报告期",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 39.70%；客户1 2,164,179,020.46 39.70%。"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "67.83%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额（元） 3,697,157,378.64；前五名客户合计销售金额占年度销售总额比例 67.83%。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "8.33%",
+      "related_entity": "供应商1",
+      "period": "报告期",
+      "quote": "公司前5名供应商资料：供应商1 331,807,602.40 8.33%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "24.59%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额（元） 980,191,362.84；前五名供应商合计采购金额占年度采购总额比例 24.59%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "中国作为全球最大的汽车市场，市场竞争日趋激烈。新能源汽车和智能化技术的发展给传统汽车及零部件市场带来较大冲击。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司面临市场竞争、人才、主要原材料和零配件供应及价格波动等风险；中国作为全球最大的汽车市场，多年来产销量位居世界第一。近年来汽车行业技术不断发展变革，加剧了汽车行业的竞争和汽车企业的优胜劣汰。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "汽车行业技术不断迭代更新，电动化、智能化、网联化技术应用日益成熟，对公司技术研发提出持续要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汽车动力传动系统作为汽车动力系统中重要的部件，技术要求及市场规模随着汽车行业的发展而不断提高。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料钢材、铝材，以及关键零部件（如CVT钢带）的价格波动或供应不及时。",
+      "related_entity": null,
+      "related_product": "CVT钢带",
+      "quote": "主要原材料、零部件供应和价格波动的风险；公司产品所需的主要原材料为钢材、铝材等，主要零部件为齿轮、轴、壳体、同步器、钢带、液力变矩器等，特别是 CVT 的钢带、TCU 等零部件，目前主要由一家或几家外资企业供应。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才风险，包括技术、管理、营销等专业人才的需求加大和保持队伍稳定的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才风险；目前，公司业务覆盖商用车变速器和乘用车变速器，并加快发展新能源汽车传/驱动系统业务...要求公司对技术人才、管理人才、营销人才、制造人才等专业人才的需求不断加大，开发、引进、培养和选拔适合公司持续发展的人才并保持人才队伍稳定对支持和保障公司各项业务快速发展尤为重要。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "因乘用车变速器业务收入和毛利减少，导致相关资产组经营业绩低于预期，公司计提了商誉减值准备。",
+      "related_entity": null,
+      "related_product": "乘用车变速器业务",
+      "quote": "因 2025 年乘用车变速器收入和毛利减少较多，导致公司商誉相关的资产组乘用车变速器业务的经营业绩低于预期，公司 2025 年度计提商誉减值准备 8,272.58 万元。"
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "company_name_mentioned": "江苏双星彩塑新材料股份有限公司",
+  "produces": [
+    {
+      "name": "光学材料",
+      "type": "material",
+      "revenue_proportion": "46.31%",
+      "quote": "光学材料 2,365,768,120.17 46.31%"
+    },
+    {
+      "name": "新能源材料",
+      "type": "material",
+      "revenue_proportion": "0.35%",
+      "quote": "新能源材料 17,824,914.48 0.35%"
+    },
+    {
+      "name": "可变信息材料",
+      "type": "material",
+      "revenue_proportion": "8.12%",
+      "quote": "可变信息材料 414,771,494.27 8.12%"
+    },
+    {
+      "name": "热缩材料",
+      "type": "material",
+      "revenue_proportion": "7.54%",
+      "quote": "热缩材料 385,071,013.09 7.54%"
+    },
+    {
+      "name": "聚酯功能",
+      "type": "material",
+      "revenue_proportion": "37.12%",
+      "quote": "聚酯功能 1,896,433,721.24 37.12%"
+    },
+    {
+      "name": "光学基材",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "光学基材 ... 主要应用在液晶显示、智能手机、触摸面板等多个市场"
+    },
+    {
+      "name": "光学膜片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "光学膜片 ... 扩散膜、棱镜膜、微透膜、光学复合膜片、保护膜、背涂膜等"
+    },
+    {
+      "name": "透明强化背板PET基膜",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "透明强化背板PET基膜、太阳能电池背材基膜、太阳能电池背板膜"
+    },
+    {
+      "name": "PET复合铜箔膜",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PET复合铜箔膜"
+    },
+    {
+      "name": "卡本无机碳膜",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "卡本无机碳膜、固色金属磁控膜、纳米陶瓷隔热膜"
+    },
+    {
+      "name": "三银/双银/单银高隔热前挡",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "三银/双银/单银高隔热前挡、TPU车衣膜、极致四银侧后档..."
+    },
+    {
+      "name": "高端家具漆面保护膜",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "高端家具漆面保护膜、光学级安全膜、建筑玻璃幕墙外贴膜、防弹膜等"
+    },
+    {
+      "name": "调光玻璃膜",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "调光玻璃膜 标准型、色彩型等"
+    },
+    {
+      "name": "TTR碳带膜",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "TTR碳带膜、高端TTR膜等"
+    },
+    {
+      "name": "PETG收缩膜",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PETG收缩膜"
+    },
+    {
+      "name": "PVC膜",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PVC收缩膜、PVC功能膜等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "聚酯切片",
+      "target_product": "聚酯薄膜",
+      "cost_proportion": null,
+      "quote": "以聚酯切片为主要原料"
+    },
+    {
+      "name": "PTA",
+      "target_product": "聚酯切片",
+      "cost_proportion": null,
+      "quote": "PTA ... 一种化工原料，聚酯切片的主要原料之一"
+    },
+    {
+      "name": "MEG",
+      "target_product": "聚酯切片",
+      "cost_proportion": null,
+      "quote": "MEG ... 一种化工原料，聚酯切片的主要原料之一"
+    },
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "43.05%",
+      "quote": "供应商一 1,523,480,742.61 43.05%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "16.29%",
+      "quote": "供应商二 576,641,090.32 16.29%"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "11.46%",
+      "quote": "供应商三 405,666,674.32 11.46%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "液晶显示",
+      "source_product": "光学材料",
+      "quote": "主要应用在液晶显示、智能手机、触摸面板等多个市场"
+    },
+    {
+      "name": "智能手机",
+      "source_product": "光学材料",
+      "quote": "主要应用在液晶显示、智能手机、触摸面板等多个市场"
+    },
+    {
+      "name": "触摸面板",
+      "source_product": "光学材料",
+      "quote": "主要应用在液晶显示、智能手机、触摸面板等多个市场"
+    },
+    {
+      "name": "光伏组件制造",
+      "source_product": "新能源材料",
+      "quote": "主要应用于光伏组件制造与锂电池生产"
+    },
+    {
+      "name": "锂电池生产",
+      "source_product": "新能源材料",
+      "quote": "主要应用于光伏组件制造与锂电池生产"
+    },
+    {
+      "name": "汽车",
+      "source_product": "节能窗膜材料",
+      "quote": "主要应用在汽车等领域"
+    },
+    {
+      "name": "建筑",
+      "source_product": "节能窗膜材料",
+      "quote": "民居等建筑门窗、隔断、天棚等领域"
+    },
+    {
+      "name": "家居",
+      "source_product": "家居安全膜",
+      "quote": "主要应用于家居、军用、医院、阳光房、宾馆、公共场所等领域"
+    },
+    {
+      "name": "智能家居",
+      "source_product": "调光玻璃膜",
+      "quote": "主要应用在智能家居、智能建筑视窗、酒店卫浴隔断..."
+    },
+    {
+      "name": "智能建筑",
+      "source_product": "调光玻璃膜",
+      "quote": "主要应用在智能家居、智能建筑视窗、酒店卫浴隔断..."
+    },
+    {
+      "name": "打印色带",
+      "source_product": "TTR碳带膜",
+      "quote": "主要应用于打印色带、条形码、条幅..."
+    },
+    {
+      "name": "标签、瓶用套",
+      "source_product": "PETG收缩膜",
+      "quote": "主要应用于各种标签、瓶用套、异形容器外用..."
+    },
+    {
+      "name": "食品饮料、医药和日用品",
+      "source_product": "PVC膜",
+      "quote": "其主要在食品饮料、医药和日用品应用端广泛应用"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴培服",
+      "role": "董事长",
+      "quote": "公司负责人吴培服...现任公司董事长。"
+    },
+    {
+      "name": "吴迪",
+      "role": "总经理、董事、董事会秘书",
+      "quote": "董事会秘书 吴迪...现任本公司总经理、董事、董事会秘书。"
+    },
+    {
+      "name": "邹雪梅",
+      "role": "财务总监、董事",
+      "quote": "主管会计工作负责人邹雪梅...现任本公司财务总监、董事。"
+    },
+    {
+      "name": "胡立群",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）胡立群"
+    },
+    {
+      "name": "曹薇",
+      "role": "职工董事",
+      "quote": "曹薇：女...现任本公司职工董事。"
+    },
+    {
+      "name": "吕忆农",
+      "role": "独立董事",
+      "quote": "吕忆农：男...现任本公司独立董事。"
+    },
+    {
+      "name": "黄力",
+      "role": "独立董事",
+      "quote": "黄力：男...现任本公司独立董事。"
+    },
+    {
+      "name": "程银春",
+      "role": "独立董事",
+      "quote": "程银春：男...现任公司独立董事。"
+    },
+    {
+      "name": "潘建忠",
+      "role": "副总经理",
+      "quote": "潘建忠：男...现任本公司副总经理。"
+    },
+    {
+      "name": "邹兆云",
+      "role": "副总经理",
+      "quote": "邹兆云：男...现任本公司副总经理。"
+    },
+    {
+      "name": "杨淑侠",
+      "role": "副总经理",
+      "quote": "杨淑侠：女...现任本公司副总经理。"
+    },
+    {
+      "name": "葛林",
+      "role": "副总经理",
+      "quote": "葛林：男...现任公司副总经理。"
+    },
+    {
+      "name": "李平",
+      "role": "副总经理",
+      "quote": "李平：女...现任公司副总经理。"
+    },
+    {
+      "name": "朱小磊",
+      "role": "副总经理",
+      "quote": "朱小磊：男...现任公司副总经理。"
+    },
+    {
+      "name": "丁炎森",
+      "role": "副总经理",
+      "quote": "丁炎森：男...现任公司副总经理。"
+    },
+    {
+      "name": "池卫",
+      "role": "副总经理",
+      "quote": "池卫：女...现任公司副总经理。"
+    },
+    {
+      "name": "王琪",
+      "role": "副总经理",
+      "quote": "王琪：男...现任公司副总经理。"
+    },
+    {
+      "name": "钱向飞",
+      "role": "副总经理",
+      "quote": "钱向飞：男...现任公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宿迁市双星国际酒店有限公司",
+      "relation_type": "customer",
+      "business_details": "会议费及餐费",
+      "quote": "宿迁市双星国际酒店有限公司 ... 会议费及餐费"
+    },
+    {
+      "name": "江苏景宏新材料科技有限公司",
+      "relation_type": "customer",
+      "business_details": "产品买卖",
+      "quote": "江苏景宏新材料科技有限公司 ... 产品买卖"
+    },
+    {
+      "name": "宿迁市迪智成投资咨询有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "迪智成投资 指 宿迁市迪智成投资咨询有限公司"
+    },
+    {
+      "name": "宿迁市启恒投资有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "启恒投资 指 宿迁市启恒投资有限公司"
+    },
+    {
+      "name": "江西科为薄膜新型材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "江西科为 指 江西科为薄膜新型材料有限公司"
+    },
+    {
+      "name": "众华会计师事务所（特殊普通合伙）",
+      "relation_type": "competitor",
+      "business_details": "审计服务",
+      "quote": "会计师 指 众华会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光学材料",
+      "segment_type": "product_line",
+      "revenue_amount": "2,365,768,120.17",
+      "revenue_proportion": "46.31%",
+      "gross_margin": "4.45%",
+      "yoy_change": "-13.64%",
+      "quote": "光学材料 2,365,768,120.17 46.31% ... -13.64%"
+    },
+    {
+      "name": "新能源材料",
+      "segment_type": "product_line",
+      "revenue_amount": "17,824,914.48",
+      "revenue_proportion": "0.35%",
+      "gross_margin": "-21.06%",
+      "yoy_change": "-93.43%",
+      "quote": "新能源材料 17,824,914.48 0.35% ... -93.43%"
+    },
+    {
+      "name": "可变信息材料",
+      "segment_type": "product_line",
+      "revenue_amount": "414,771,494.27",
+      "revenue_proportion": "8.12%",
+      "gross_margin": "21.81%",
+      "yoy_change": "27.47%",
+      "quote": "可变信息材料 414,771,494.27 8.12% ... 27.47%"
+    },
+    {
+      "name": "热缩材料",
+      "segment_type": "product_line",
+      "revenue_amount": "385,071,013.09",
+      "revenue_proportion": "7.54%",
+      "gross_margin": "15.15%",
+      "yoy_change": "-15.40%",
+      "quote": "热缩材料 385,071,013.09 7.54% ... -15.40%"
+    },
+    {
+      "name": "聚酯功能",
+      "segment_type": "product_line",
+      "revenue_amount": "1,896,433,721.24",
+      "revenue_proportion": "37.12%",
+      "gross_margin": "-17.96%",
+      "yoy_change": "-8.42%",
+      "quote": "聚酯功能 1,896,433,721.24 37.12% ... -8.42%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "4,131,124,024.07",
+      "revenue_proportion": "80.87%",
+      "gross_margin": "-4.66%",
+      "yoy_change": "-12.32%",
+      "quote": "国内 4,131,124,024.07 80.87% ... -12.32%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "977,291,338.44",
+      "revenue_proportion": "19.13%",
+      "gross_margin": "10.32%",
+      "yoy_change": "-18.35%",
+      "quote": "国外 977,291,338.44 19.13% ... -18.35%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,108,415,362.51",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "-1.78%",
+      "yoy_change": "-13.54%",
+      "quote": "直销 5,108,415,362.51 100.00% ... -13.54%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光学材料",
+      "metric_type": "sales_volume",
+      "value": "219,343.76吨",
+      "period": "2025年",
+      "quote": "光学材料 销售量 吨 219,343.76"
+    },
+    {
+      "product": "光学材料",
+      "metric_type": "production_volume",
+      "value": "219,525.07吨",
+      "period": "2025年",
+      "quote": "光学材料 生产量 吨 219,525.07"
+    },
+    {
+      "product": "光学材料",
+      "metric_type": "inventory_volume",
+      "value": "17,659.85吨",
+      "period": "2025年末",
+      "quote": "光学材料 库存量 吨 17,659.85"
+    },
+    {
+      "product": "新能源材料",
+      "metric_type": "sales_volume",
+      "value": "2,772.16吨",
+      "period": "2025年",
+      "quote": "新能源材料 销售量 吨 2,772.16"
+    },
+    {
+      "product": "新能源材料",
+      "metric_type": "production_volume",
+      "value": "31,503.21吨",
+      "period": "2024年",
+      "quote": "新能源材料 生产量 吨 31,503.21"
+    },
+    {
+      "product": "新能源材料",
+      "metric_type": "inventory_volume",
+      "value": "8,535.84吨",
+      "period": "2025年末",
+      "quote": "新能源材料 库存量 吨 8,535.84"
+    },
+    {
+      "product": "可变信息材料",
+      "metric_type": "sales_volume",
+      "value": "32,351.28吨",
+      "period": "2025年",
+      "quote": "可变信息材料 销售量 吨 32,351.28"
+    },
+    {
+      "product": "可变信息材料",
+      "metric_type": "production_volume",
+      "value": "31,402.73吨",
+      "period": "2025年",
+      "quote": "可变信息材料 生产量 吨 31,402.73"
+    },
+    {
+      "product": "可变信息材料",
+      "metric_type": "inventory_volume",
+      "value": "3,026.83吨",
+      "period": "2025年末",
+      "quote": "可变信息材料 库存量 吨 3,026.83"
+    },
+    {
+      "product": "热缩材料",
+      "metric_type": "sales_volume",
+      "value": "34,714.78吨",
+      "period": "2025年",
+      "quote": "热缩材料 销售量 吨 34,714.78"
+    },
+    {
+      "product": "热缩材料",
+      "metric_type": "production_volume",
+      "value": "35,224.69吨",
+      "period": "2025年",
+      "quote": "热缩材料 生产量 吨 35,224.69"
+    },
+    {
+      "product": "热缩材料",
+      "metric_type": "inventory_volume",
+      "value": "5,048.91吨",
+      "period": "2025年末",
+      "quote": "热缩材料 库存量 吨 5,048.91"
+    },
+    {
+      "product": "聚酯功能膜",
+      "metric_type": "sales_volume",
+      "value": "301,968.11吨",
+      "period": "2025年",
+      "quote": "聚酯功能膜 销售量 吨 301,968.11"
+    },
+    {
+      "product": "聚酯功能膜",
+      "metric_type": "production_volume",
+      "value": "309,712.89吨",
+      "period": "2025年",
+      "quote": "聚酯功能膜 生产量 吨 309,712.89"
+    },
+    {
+      "product": "聚酯功能膜",
+      "metric_type": "inventory_volume",
+      "value": "69,598.65吨",
+      "period": "2025年末",
+      "quote": "聚酯功能膜 库存量 吨 69,598.65"
+    },
+    {
+      "product": "BOPET",
+      "metric_type": "capacity",
+      "value": "741.56万吨",
+      "period": "2025年年底",
+      "quote": "BOPET 行业总产能为 741.56 万吨"
+    },
+    {
+      "product": "BOPET",
+      "metric_type": "production_volume",
+      "value": "506.44万吨",
+      "period": "2025年",
+      "quote": "BOPET 行业产量为 506.44 万吨"
+    },
+    {
+      "product": "BOPET",
+      "metric_type": "capacity_utilization",
+      "value": "68.29%",
+      "period": "2025年",
+      "quote": "2025年BOPET产能利用率为68.29%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产1000万平方米大尺寸光学模组复合膜片项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "稳健推进",
+      "expected_completion_time": null,
+      "quote": "通过“年产 1000 万平方米大尺寸光学模组复合膜片项目”等重点工程稳健推进"
+    },
+    {
+      "name": "年产5000万平方米精密涂布偏光片保护膜项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设进展顺利",
+      "expected_completion_time": null,
+      "quote": "“年产 5000 万平方米精密涂布偏光片保护膜项目”建设进展顺利"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "光学基材生产技术",
+      "asset_type": "core_technology",
+      "related_product": "光学基材",
+      "quantitative_info": null,
+      "quote": "光学基材作为光电产业链前端最重要的战略材料之一，技术壁垒高，公司自建光学基材生产线并已实现量产，打破国外企业垄断，加速进口替代。"
+    },
+    {
+      "name": "国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司作为国家级高新技术企业"
+    },
+    {
+      "name": "国家制造业单项冠军示范企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司荣获“国家制造业单项冠军示范企业”"
+    },
+    {
+      "name": "新增专利申请",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "76件",
+      "quote": "新增专利申请76件"
+    },
+    {
+      "name": "获得授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "46件",
+      "quote": "获得授权专利46件"
+    },
+    {
+      "name": "3.35µm超薄基材",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "主导研发的3.35µm超薄基材成功攻克关键技术难题并顺利落地，一举打破行业现有技术指标"
+    },
+    {
+      "name": "三层复合膜MOP",
+      "asset_type": "process_technology",
+      "related_product": "光学膜片",
+      "quantitative_info": null,
+      "quote": "国内首家实现三层复合膜 MOP 量产的企业"
+    },
+    {
+      "name": "参编国家标准及行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "5项",
+      "quote": "参编国家标准及行业标准5项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "21.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 21.88%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "76.32%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 76.32%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "聚酯薄膜行业面临多重挑战与机遇并存的复杂局面。受行业产能集中释放、供需结构性矛盾加剧以及上游原材料价格剧烈波动等多重因素叠加影响，BOPET 等核心产品市场价格呈现宽幅震荡态势，产业链中下游企业普遍面临较大的经营压力与盈利挑战。",
+      "related_entity": null,
+      "related_product": "BOPET等核心产品",
+      "quote": "聚酯薄膜行业面临多重挑战与机遇并存的复杂局面。受行业产能集中释放、供需结构性矛盾加剧以及上游原材料价格剧烈波动等多重因素叠加影响，BOPET 等核心产品市场价格呈现宽幅震荡态势，产业链中下游企业普遍面临较大的经营压力与盈利挑战。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "叠加原材料成本宽幅震荡，产品销售价格呈现大幅波动，企业经营挑战显著增加，行业整体承压明显。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "叠加原材料成本宽幅震荡，产品销售价格呈现大幅波动，企业经营挑战显著增加，行业整体承压明显。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "双星新材控股股东通过向供应商延长预付大宗商品基差贸易原料采购货款周期的方式占用双星新材资金，上述事项构成控股股东对上市公司的非经营性资金占用，公司的相关内部控制制度未能有效执行，未能及时发现、避免上述情况的发生。",
+      "related_entity": "吴培服（控股股东）",
+      "related_product": null,
+      "quote": "双星新材控股股东通过向供应商延长预付大宗商品基差贸易原料采购货款周期的方式占用双星新材资金，上述事项构成控股股东对上市公司的非经营性资金占用，公司的相关内部控制制度未能有效执行，未能及时发现、避免上述情况的发生。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "双星新材公司存在用章未在登记簿完整登记的情形，公司在印章使用管理方面存在缺陷。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "双星新材公司存在用章未在登记簿完整登记的情形，公司在印章使用管理方面存在缺陷。"
+    }
+  ]
+}

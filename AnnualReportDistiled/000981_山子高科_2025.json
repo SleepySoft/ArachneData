@@ -1,0 +1,571 @@
+{
+  "company_name_mentioned": "山子高科技股份有限公司",
+  "produces": [
+    {
+      "name": "汽车动力总成",
+      "type": "component",
+      "revenue_proportion": "21.48%",
+      "quote": "汽车动力总成 701,977,829.96 21.48%"
+    },
+    {
+      "name": "汽车安全气囊气体发生器",
+      "type": "device",
+      "revenue_proportion": "57.35%",
+      "quote": "汽车安全气囊气体发生器 1,874,437,945.59 57.35%"
+    },
+    {
+      "name": "整车",
+      "type": "device",
+      "revenue_proportion": "6.54%",
+      "quote": "整车 213,860,845.57 6.54%"
+    },
+    {
+      "name": "物业管理服务",
+      "type": "service",
+      "revenue_proportion": "7.73%",
+      "quote": "物业管理 252,732,542.62 7.73%"
+    },
+    {
+      "name": "酒店经营服务",
+      "type": "service",
+      "revenue_proportion": "2.72%",
+      "quote": "酒店经营 88,838,198.66 2.72%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "锥盘、钢带、电磁阀、液压控制阀、油道、行星齿轮等",
+      "target_product": "邦奇公司产品",
+      "cost_proportion": null,
+      "quote": "邦奇公司产品生产所需原材料或零部件主要包括锥盘、钢带、电磁阀、液压控制阀、油道、行星齿轮等"
+    },
+    {
+      "name": "引爆器、发生剂、冲压件、钢管和工业气体等",
+      "target_product": "ARC公司产品",
+      "cost_proportion": null,
+      "quote": "上游供应商提供的原材料或零部件主要包括引爆器、发生剂、冲压件、钢管和工业气体等"
+    },
+    {
+      "name": "供应商一、供应商二、供应商三、供应商四、供应商五",
+      "target_product": null,
+      "cost_proportion": "42.72%",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 42.72%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车行业",
+      "source_product": "汽车动力总成、汽车安全气囊气体发生器",
+      "quote": "公司主要经营活动为汽车零部件、汽车整车等产品的研发、生产和销售。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "叶骥",
+      "role": "董事长、总裁",
+      "quote": "姓名 性别 年龄 职务 ... 叶骥 男 43 董事长、总裁"
+    },
+    {
+      "name": "章玉明",
+      "role": "董事、副总裁",
+      "quote": "姓名 性别 年龄 职务 ... 章玉明 男 54 董事、副总裁"
+    },
+    {
+      "name": "喻凯",
+      "role": "董事、董事会秘书、副总裁",
+      "quote": "姓名 性别 年龄 职务 ... 喻凯 男 43 董事、董事会秘书、副总裁"
+    },
+    {
+      "name": "刘中锡",
+      "role": "董事",
+      "quote": "姓名 性别 年龄 职务 ... 刘中锡 男 49 董事"
+    },
+    {
+      "name": "朱人杰",
+      "role": "董事、副总裁",
+      "quote": "姓名 性别 年龄 职务 ... 朱人杰 男 47 董事、副总裁"
+    },
+    {
+      "name": "谈跃生",
+      "role": "独立董事",
+      "quote": "姓名 性别 年龄 职务 ... 谈跃生 男 68 独立董事"
+    },
+    {
+      "name": "杨央平",
+      "role": "独立董事",
+      "quote": "姓名 性别 年龄 职务 ... 杨央平 男 54 独立董事"
+    },
+    {
+      "name": "陈珊",
+      "role": "独立董事",
+      "quote": "姓名 性别 年龄 职务 ... 陈珊 女 38 独立董事"
+    },
+    {
+      "name": "陆燕",
+      "role": "财务总监",
+      "quote": "姓名 性别 年龄 职务 ... 陆燕 女 40 财务总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "东方亿圣（宁波东方亿圣投资有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "间接持有比利时邦奇公司相关资产",
+      "quote": "公司通过持有东方亿圣100%股权间接持有比利时邦奇公司相关资产"
+    },
+    {
+      "name": "宁波昊圣（宁波昊圣投资有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "间接持有美国ARC集团相关资产",
+      "quote": "公司通过持有宁波昊圣100%股权间接持有美国ARC集团相关资产"
+    },
+    {
+      "name": "比利时邦奇（PunchPowertrainN.V.）",
+      "relation_type": "subsidiary",
+      "business_details": "全球知名的汽车自动变速器独立制造商，专注于研发、生产和销售汽车变速器",
+      "quote": "比利时邦奇公司是全球知名的汽车自动变速器独立制造商，其专注于研发、生产和销售汽车变速器"
+    },
+    {
+      "name": "ARC美国（ARCAutomotive,Inc）",
+      "relation_type": "subsidiary",
+      "business_details": "全球第二大独立气体发生器生产商，从事汽车安全气囊气体发生器的开发、生产及销售",
+      "quote": "美国ARC集团是全球第二大独立气体发生器生产商，其主要从事汽车安全气囊气体发生器的开发、生产及销售等"
+    },
+    {
+      "name": "知道科技（安徽知道新能源科技有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "知道科技 指 安徽知道新能源科技有限公司"
+    },
+    {
+      "name": "山子汽车集团（山子汽车产业集团有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "山子汽车集团 指 山子汽车产业集团有限公司"
+    },
+    {
+      "name": "客户一",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 ... 1 客户一 636,376,854.54"
+    },
+    {
+      "name": "客户二",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 ... 2 客户二 546,715,348.32"
+    },
+    {
+      "name": "客户三",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 ... 3 客户三 353,328,858.61"
+    },
+    {
+      "name": "客户四",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 ... 4 客户四 238,179,508.40"
+    },
+    {
+      "name": "客户五",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 ... 5 客户五 125,211,231.46"
+    },
+    {
+      "name": "供应商一",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料 序号 供应商名称 ... 1 供应商一 195,693,239.29"
+    },
+    {
+      "name": "供应商二",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料 序号 供应商名称 ... 2 供应商二 120,005,170.00"
+    },
+    {
+      "name": "供应商三",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料 序号 供应商名称 ... 3 供应商三 92,609,129.66"
+    },
+    {
+      "name": "供应商四",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料 序号 供应商名称 ... 4 供应商四 90,722,198.11"
+    },
+    {
+      "name": "供应商五",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料 序号 供应商名称 ... 5 供应商五 89,365,985.25"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "2,576,415,775.55",
+      "revenue_proportion": "78.83%",
+      "gross_margin": "19.45%",
+      "yoy_change": "-19.12%",
+      "quote": "分行业 汽车零部件 2,576,415,775.55 78.83% ... 同比增减 -19.12% ... 毛利率 19.45%"
+    },
+    {
+      "name": "整车",
+      "segment_type": "product_line",
+      "revenue_amount": "213,860,845.57",
+      "revenue_proportion": "6.54%",
+      "gross_margin": null,
+      "yoy_change": "-58.20%",
+      "quote": "分行业 整车 213,860,845.57 6.54% ... 同比增减 -58.20%"
+    },
+    {
+      "name": "物业管理",
+      "segment_type": "product_line",
+      "revenue_amount": "252,732,542.62",
+      "revenue_proportion": "7.73%",
+      "gross_margin": null,
+      "yoy_change": "-68.85%",
+      "quote": "分行业 物业管理 252,732,542.62 7.73% ... 同比增减 -68.85%"
+    },
+    {
+      "name": "酒店经营",
+      "segment_type": "product_line",
+      "revenue_amount": "88,838,198.66",
+      "revenue_proportion": "2.72%",
+      "gross_margin": null,
+      "yoy_change": "-3.12%",
+      "quote": "分行业 酒店经营 88,838,198.66 2.72% ... 同比增减 -3.12%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,883,460,501.54",
+      "revenue_proportion": "57.63%",
+      "gross_margin": null,
+      "yoy_change": "-37.19%",
+      "quote": "分地区 国内销售 1,883,460,501.54 57.63% ... 同比增减 -37.19%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "1,385,015,620.33",
+      "revenue_proportion": "42.37%",
+      "gross_margin": null,
+      "yoy_change": "-29.74%",
+      "quote": "分地区 国外销售 1,385,015,620.33 42.37% ... 同比增减 -29.74%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "汽车动力总成",
+      "metric_type": "production_volume",
+      "value": "166,045",
+      "period": "2025年",
+      "quote": "生产量 套 166,045"
+    },
+    {
+      "product": "汽车动力总成",
+      "metric_type": "sales_volume",
+      "value": "161,067",
+      "period": "2025年",
+      "quote": "销售量 套 161,067"
+    },
+    {
+      "product": "汽车动力总成",
+      "metric_type": "inventory_volume",
+      "value": "16,198",
+      "period": "2025年末",
+      "quote": "库存量 套 16,198"
+    },
+    {
+      "product": "汽车安全气囊气体发生器",
+      "metric_type": "production_volume",
+      "value": "41,273,243",
+      "period": "2025年",
+      "quote": "生产量 套 41,273,243"
+    },
+    {
+      "product": "汽车安全气囊气体发生器",
+      "metric_type": "sales_volume",
+      "value": "37,720,611",
+      "period": "2025年",
+      "quote": "销售量 套 37,720,611"
+    },
+    {
+      "product": "汽车安全气囊气体发生器",
+      "metric_type": "inventory_volume",
+      "value": "1,093,277",
+      "period": "2025年末",
+      "quote": "库存量 套 1,093,277"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中车C857/E311项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已产业化",
+      "expected_completion_time": "2025年产业化",
+      "quote": "中车C857/E311项目 纯电业务产品布局 已产业化 2025年产业化"
+    },
+    {
+      "name": "混动DHT120",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "A样完成",
+      "expected_completion_time": "OTS设计开发",
+      "quote": "混动DHT120 混动业务产品布局 A样完成 OTS设计开发"
+    },
+    {
+      "name": "DHT120逆变器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "A样完成",
+      "expected_completion_time": "自主开发",
+      "quote": "DHT120逆变器 自主研发DHT逆变器 A样完成 自主开发"
+    },
+    {
+      "name": "下一代TCU",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "A样开发完成",
+      "expected_completion_time": "替代现有产品",
+      "quote": "下一代TCU 符合信息安全新国标 A样开发完成 替代现有产品"
+    },
+    {
+      "name": "PH10——乘客混合气体双重阶段气体发生器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成多款产品性能测试，为客户提供样品进行模块测试，生产线已就位",
+      "expected_completion_time": null,
+      "quote": "PH10——乘客混合气体双重阶段气体发生器 ... 完成多款产品性能测试，为客户提供样品进行模块测试，生产线已就位"
+    },
+    {
+      "name": "PH10——乘客混合气体单一阶段气体发生器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成关键零件设计验证，为客户提供样品，测试结果良好",
+      "expected_completion_time": null,
+      "quote": "PH10——乘客混合气体单一阶段气体发生器 ... 完成关键零件设计验证，为客户提供样品，测试结果良好"
+    },
+    {
+      "name": "SPH10+导气管——特殊顶置式气囊混合式气体发生器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成概念设计及关键零件参数确认",
+      "expected_completion_time": null,
+      "quote": "SPH10+导气管——特殊顶置式气囊混合式气体发生器 ... 完成概念设计及关键零件参数确认"
+    },
+    {
+      "name": "MPD2.0——驾驶员烟火式气体发生器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成行业标准DV验证及阶段评审，向三家客户提交样品",
+      "expected_completion_time": null,
+      "quote": "MPD2.0——驾驶员烟火式气体发生器 ... 完成行业标准DV验证及阶段评审，向三家客户提交样品"
+    },
+    {
+      "name": "CH5-35——大体积幕帘安全气囊用气体发生器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成产品设计验证，客户模块测试评估较好",
+      "expected_completion_time": null,
+      "quote": "CH5-35——大体积幕帘安全气囊用气体发生器 ... 完成产品设计验证，客户模块测试评估较好"
+    },
+    {
+      "name": "AA303产气药开发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成关键性能测试，效果良好",
+      "expected_completion_time": null,
+      "quote": "AA303产气药开发 ... 完成关键性能测试，效果良好"
+    },
+    {
+      "name": "SP3——第三代防侧撞烟火式气体发生器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "产品设计验证持续进行中",
+      "expected_completion_time": null,
+      "quote": "SP3——第三代防侧撞烟火式气体发生器 ... 产品设计验证持续进行中"
+    },
+    {
+      "name": "处置子公司-浙江山子智慧",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已处置",
+      "expected_completion_time": "2025年5月7日",
+      "quote": "处置子公司 股权处置 子公司名称 股权处置价款 股权处置比例(%) 股权处置方式 丧失控制权的时点 ... 浙江山子智慧 473,500,000.00 100.00 处置 2025/5/7"
+    },
+    {
+      "name": "处置子公司-云枫汽车",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已处置",
+      "expected_completion_time": "2025年6月16日",
+      "quote": "处置子公司 股权处置 子公司名称 股权处置价款 股权处置比例(%) 股权处置方式 丧失控制权的时点 ... 云枫汽车 24,600,000.00 100.00 处置 2025/6/16"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "混合动力和纯电动动力总成系统",
+      "asset_type": "core_technology",
+      "related_product": "邦奇公司产品",
+      "quantitative_info": null,
+      "quote": "其中子公司比利时邦奇公司重点致力于混合动力和纯电动动力总成系统的研发与生产，在相关领域的研发和技术水平位居全球前列"
+    },
+    {
+      "name": "汽车安全气囊气体发生器技术",
+      "asset_type": "core_technology",
+      "related_product": "ARC公司产品",
+      "quantitative_info": null,
+      "quote": "子公司美国ARC集团是全球第二大独立气体发生器生产商，其主要从事汽车安全气囊气体发生器的开发、生产及销售等"
+    },
+    {
+      "name": "新型的柱状乘客侧气体发生器（PH-10）",
+      "asset_type": "core_technology",
+      "related_product": "气体发生器",
+      "quantitative_info": null,
+      "quote": "新产品包括：（1）新型的柱状乘客侧气体发生器，在2024年上半年完成样件试生产，并于2024年10月发布新品PH-10。"
+    },
+    {
+      "name": "新型的产气药",
+      "asset_type": "core_technology",
+      "related_product": "气体发生器",
+      "quantitative_info": null,
+      "quote": "（2）新型的产气药，提高产气效率和降低排放水平。"
+    },
+    {
+      "name": "四合一产品",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "三是研发领域取得突破性进展，成功推出创新的四合一产品，并在物流车领域实现应用"
+    },
+    {
+      "name": "大型三电机台架",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "邦奇首个大型三电机台架也成功落地，显著提升研发测试能力和降低产品验证成本。"
+    },
+    {
+      "name": "无级变速器（CVT）",
+      "asset_type": "process_technology",
+      "related_product": "汽车动力总成",
+      "quantitative_info": null,
+      "quote": "主要产品为无级变速器（CVT），同时致力于研发双离合变速器（DCT）、混合动力总成系统和纯电动动力总成系统。"
+    },
+    {
+      "name": "研发费用",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "288,669,915.08元",
+      "quote": "研发投入金额（元） 288,669,915.08"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "58.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 58.13%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.72%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 42.72%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新能源竞争加剧",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "面对国际局势动荡、新能源竞争加剧、核心业务尚处投入期等多重不确定性"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "核心业务尚处投入期",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "面对国际局势动荡、新能源竞争加剧、核心业务尚处投入期等多重不确定性"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易壁垒增多",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "面对全球经济复苏不均衡、国际贸易壁垒增多、汽车行业竞争白热化的复杂外部环境"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司出售浙江山子智慧和云枫汽车，致使营业收入有所下降",
+      "related_entity": "浙江山子智慧、云枫汽车",
+      "related_product": null,
+      "quote": "公司出售浙江山子智慧和云枫汽车，致使营业收入有所下降"
+    },
+    {
+      "risk_type": "other",
+      "description": "报告期内计提商誉、无形资产、存货、在建工程及固定资产等减值",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要系本期计提商誉、无形资产、存货、在建工程及固定资产等减值所致"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "经营活动产生的现金流量净额为负",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经营活动产生的现金流量净额 -147,561,453.32"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司及相关人员收到甘肃监管局警示函",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司于2025年10月31日收到甘肃监管局《关于对山子高科技股份有限公司及叶骥、陆燕采取出具警示函措施的决定》"
+    },
+    {
+      "risk_type": "other",
+      "description": "欧洲业务重组和产品性调整，新订单尚未进入量产阶段",
+      "related_entity": "比利时邦奇",
+      "related_product": null,
+      "quote": "欧洲业务重组和产品性调整，新订单尚未进入量产阶段。"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "company_name_mentioned": "鞍钢股份有限公司",
+  "produces": [
+    {
+      "name": "钢材产品",
+      "type": "material",
+      "revenue_proportion": "88.76%",
+      "quote": "分产品 钢材产品 85,251 88.76"
+    },
+    {
+      "name": "其他",
+      "type": "material",
+      "revenue_proportion": "11.24%",
+      "quote": "分产品 其他 10,801 11.24"
+    },
+    {
+      "name": "热轧薄板系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "分产品 热轧薄板系列产品 30,004 31,218 -4.05 -9.17 -10.74 1.83"
+    },
+    {
+      "name": "冷轧薄板系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "分产品 冷轧薄板系列产品 32,138 32,075 0.20 -6.32 -8.40 2.27"
+    },
+    {
+      "name": "中厚板",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "分产品 中厚板 16,871 16,171 4.15 -6.00 -11.25 5.67"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原燃材料",
+      "target_product": null,
+      "cost_proportion": "79.66%",
+      "quote": "原燃材料 77,195 79.66 84,570 77.98 1.68"
+    }
+  ],
+  "applications": [
+    {
+      "name": "机械",
+      "source_product": "钢材产品",
+      "quote": "产品广泛应用于机械、冶金、石油、化工、煤炭、电力、铁路、船舶、汽车、建筑、家电、航空等行业"
+    },
+    {
+      "name": "汽车",
+      "source_product": "汽车板",
+      "quote": "拥有汽车、造船和海洋工程、铁路、家电、集装箱、能源、桥梁、高端金属制品和工模具用钢等系列‘拳头’钢铁精品"
+    },
+    {
+      "name": "造船和海洋工程",
+      "source_product": "造船用钢",
+      "quote": "拥有汽车、造船和海洋工程、铁路、家电、集装箱、能源、桥梁、高端金属制品和工模具用钢等系列‘拳头’钢铁精品"
+    },
+    {
+      "name": "铁路",
+      "source_product": "重轨",
+      "quote": "拥有汽车、造船和海洋工程、铁路、家电、集装箱、能源、桥梁、高端金属制品和工模具用钢等系列‘拳头’钢铁精品"
+    },
+    {
+      "name": "家电",
+      "source_product": "家电板",
+      "quote": "拥有汽车、造船和海洋工程、铁路、家电、集装箱、能源、桥梁、高端金属制品和工模具用钢等系列‘拳头’钢铁精品"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王军",
+      "role": "董事长、执行董事、党委书记",
+      "quote": "王军先生，公司董事长、执行董事、党委书记，鞍山钢铁党委书记、董事长"
+    },
+    {
+      "name": "田勇",
+      "role": "执行董事、总经理、党委副书记",
+      "quote": "田勇先生，公司执行董事、总经理、党委副书记，鞍山钢铁董事、总经理、党委副书记"
+    },
+    {
+      "name": "李景东",
+      "role": "执行董事、副总经理、总会计师、董事会秘书",
+      "quote": "李景东先生，公司执行董事、副总经理、总会计师、董事会秘书，鞍山钢铁党委常委"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "鞍山钢铁集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例53.97%",
+      "quote": "鞍山钢铁集团有限公司，公司的控股股东"
+    },
+    {
+      "name": "鞍钢集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "鞍钢集团有限公司，公司实际控制人"
+    },
+    {
+      "name": "鞍钢集团朝阳钢铁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事钢压延加工",
+      "quote": "朝阳钢铁 生产企业 钢压延加工"
+    },
+    {
+      "name": "鞍钢集团财务有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "提供金融服务，包括存款、贷款等",
+      "quote": "鞍钢财务公司 指 鞍钢集团财务有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "钢压延加工业",
+      "segment_type": "business_unit",
+      "revenue_amount": "95,684",
+      "revenue_proportion": "99.62%",
+      "gross_margin": "-1.28%",
+      "yoy_change": "-8.61%",
+      "quote": "分行业 钢压延加工业 95,684 99.62 104,704 99.62 -8.61"
+    },
+    {
+      "name": "中国境内",
+      "segment_type": "region",
+      "revenue_amount": "88,829",
+      "revenue_proportion": "92.48%",
+      "gross_margin": "-0.80%",
+      "yoy_change": "-9.18%",
+      "quote": "分地区 中国境内 88,829 92.48 97,804 93.06 -9.18"
+    },
+    {
+      "name": "出口",
+      "segment_type": "region",
+      "revenue_amount": "7,223",
+      "revenue_proportion": "7.52%",
+      "gross_margin": "-7.09%",
+      "yoy_change": "-1.01%",
+      "quote": "分地区 出口 7,223 7.52 7,297 6.94 -1.01"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "47,807",
+      "revenue_proportion": "49.77%",
+      "gross_margin": "-1.20%",
+      "yoy_change": "-7.94%",
+      "quote": "分销售模式 直销 47,807 49.77 51,928 49.41 -7.94"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "48,245",
+      "revenue_proportion": "50.23%",
+      "gross_margin": "-1.35%",
+      "yoy_change": "-9.27%",
+      "quote": "分销售模式 分销 48,245 50.23 53,173 50.59 -9.27"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "铁",
+      "metric_type": "production_volume",
+      "value": "2,409.57万吨",
+      "period": "2025年度",
+      "quote": "全年铁、钢、材产量分别完成2,409.57万吨、2,514.56万吨、2,371.83万吨"
+    },
+    {
+      "product": "钢",
+      "metric_type": "production_volume",
+      "value": "2,514.56万吨",
+      "period": "2025年度",
+      "quote": "全年铁、钢、材产量分别完成2,409.57万吨、2,514.56万吨、2,371.83万吨"
+    },
+    {
+      "product": "材",
+      "metric_type": "production_volume",
+      "value": "2,371.83万吨",
+      "period": "2025年度",
+      "quote": "全年铁、钢、材产量分别完成2,409.57万吨、2,514.56万吨、2,371.83万吨"
+    },
+    {
+      "product": "钢材",
+      "metric_type": "sales_volume",
+      "value": "2,384.32万吨",
+      "period": "2025年度",
+      "quote": "销售钢材2,384.32万吨，同比减少0.45%"
+    },
+    {
+      "product": "钢材",
+      "metric_type": "other",
+      "value": "100.53%",
+      "period": "2025年度",
+      "quote": "实现钢材产销率100.53%"
+    },
+    {
+      "product": "钢材",
+      "metric_type": "inventory_volume",
+      "value": "68.03万吨",
+      "period": "2025年末",
+      "quote": "库存量 68.03"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新能源汽车用硅钢项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "顺利投产",
+      "expected_completion_time": null,
+      "quote": "新能源汽车用硅钢项目顺利投产"
+    },
+    {
+      "name": "绿鑫鼎攀枝花焦油加工项目",
+      "project_type": "construction_project",
+      "location": "攀枝花",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设完成",
+      "expected_completion_time": null,
+      "quote": "绿鑫鼎攀枝花焦油加工项目建设完成"
+    },
+    {
+      "name": "交通与能源钢铁材料中试平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "成为工业与信息化部首批重点培育中试平台",
+      "expected_completion_time": null,
+      "quote": "交通与能源钢铁材料中试平台成为工业与信息化部首批重点培育中试平台"
+    },
+    {
+      "name": "2026年固定资产投资及对外投资",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "39.78亿元",
+      "designed_capacity": null,
+      "progress": "拟投入",
+      "expected_completion_time": "2026年",
+      "quote": "2026年，本集团固定资产投资及对外投资拟投入资金人民币39.78亿元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "低碳冶金技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有低碳冶金、洁净钢冶炼等一批核心关键技术"
+    },
+    {
+      "name": "洁净钢冶炼技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有低碳冶金、洁净钢冶炼等一批核心关键技术"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年获得专利授权559件（含发明专利404件）",
+      "quote": "知识产权工作成效显著，专利创新指数行业第三。2025年获得专利授权559件（含发明专利404件）"
+    },
+    {
+      "name": "国家科技重大专项",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "牵头承担3项国家科技重大专项",
+      "quote": "牵头承担3项国家科技重大专项"
+    },
+    {
+      "name": "全球首发产品",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "5项产品实现全球首发",
+      "quote": "5项产品实现全球首发"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "27,369百万元，占年度销售总额比例28.49%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额 27,369 前五名客户合计销售金额占年度销售总额比例（%） 28.49"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "40,015百万元，占年度采购总额比例42.79%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额 40,015 前五名供应商合计采购金额占年度采购总额比例（%） 42.79"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业产能过剩压力犹存，同质化竞争加剧，产品盈利空间持续被挤压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争层面，行业产能过剩压力犹存，同质化竞争加剧，产品盈利空间持续被挤压。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "国际矿价高位振荡，铁矿普氏指数长期高位运行，钢价降幅大于矿价降幅。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "从采销两端看，钢价总体下行而国际矿价高位振荡。...铁矿普氏指数（62%Fe）均值102.37美元，同比下降6.46%，钢价降幅大于矿价降幅，且铁矿普氏指数长期高位运行"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "能耗‘双控’、超低排放、碳市场履约等刚性约束趋严，环保与低碳改造投入加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "绿色发展层面，能耗‘双控’、超低排放、碳市场履约等刚性约束趋严，环保与低碳改造投入加大。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易保护主义抬头，碳边境调节机制等贸易壁垒增多，出口难度与合规成本上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "外部贸易层面，国际贸易保护主义抬头，碳边境调节机制等贸易壁垒增多，出口难度与合规成本上升。"
+    }
+  ]
+}

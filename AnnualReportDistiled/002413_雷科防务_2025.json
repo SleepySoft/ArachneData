@@ -1,0 +1,599 @@
+{
+  "company_name_mentioned": "北京雷科防务科技股份有限公司",
+  "produces": [
+    {
+      "name": "雷达系统",
+      "type": "device",
+      "revenue_proportion": "35.92%",
+      "quote": "雷达系统业务群...实现营业收入 523,199,691.95 元...占营业收入比重 35.92%"
+    },
+    {
+      "name": "卫星应用",
+      "type": "device",
+      "revenue_proportion": "24.36%",
+      "quote": "卫星应用业务群...实现营业收入 354,799,891.50 元...占营业收入比重 24.36%"
+    },
+    {
+      "name": "智能控制",
+      "type": "device",
+      "revenue_proportion": "25.83%",
+      "quote": "智能控制业务群...实现营业收入376,310,364.69元...占营业收入比重 25.83%"
+    },
+    {
+      "name": "安全存储",
+      "type": "device",
+      "revenue_proportion": "9.00%",
+      "quote": "安全存储业务群...实现营业收入131,042,032.70元...占营业收入比重 9.00%"
+    },
+    {
+      "name": "智能网联",
+      "type": "device",
+      "revenue_proportion": "2.91%",
+      "quote": "智能网联业务群...实现营业收入 42,325,105.72 元...占营业收入比重 2.91%"
+    },
+    {
+      "name": "其他产品及业务",
+      "type": "service",
+      "revenue_proportion": "1.99%",
+      "quote": "其他...29,018,094.01元...占营业收入比重 1.99%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "5.13%",
+      "quote": "供应商一 采购额（元） 51,945,983.17 占年度采购总额比例 5.13%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "3.82%",
+      "quote": "供应商二 采购额（元） 38,677,875.09 占年度采购总额比例 3.82%"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "3.08%",
+      "quote": "供应商三 采购额（元） 31,165,843.90 占年度采购总额比例 3.08%"
+    },
+    {
+      "name": "供应商四",
+      "target_product": null,
+      "cost_proportion": "2.78%",
+      "quote": "供应商四 采购额（元） 28,152,002.80 占年度采购总额比例 2.78%"
+    },
+    {
+      "name": "供应商五",
+      "target_product": null,
+      "cost_proportion": "2.36%",
+      "quote": "供应商五 采购额（元） 23,932,083.82 占年度采购总额比例 2.36%"
+    },
+    {
+      "name": "其他原材料及服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "报告提到“与核心原厂签署长期供货及锁量协议（LTA），构建以国产化为主的多源供应链”，但未列明具体名称或采购比例。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "国防军工",
+      "source_product": "雷达系统、卫星应用、智能控制等",
+      "quote": "面向国防、交通、民航、矿山、气象、汽车等行业市场...深度应用于国防安全、应急管理、自然资源、智慧城市、气象海洋等十余个国民经济重点领域"
+    },
+    {
+      "name": "交通运输",
+      "source_product": "雷达系统",
+      "quote": "面向国防、交通、民航、矿山、气象、汽车等行业市场"
+    },
+    {
+      "name": "民航",
+      "source_product": "雷达系统",
+      "quote": "面向国防、交通、民航、矿山、气象、汽车等行业市场"
+    },
+    {
+      "name": "汽车",
+      "source_product": "智能网联",
+      "quote": "面向国内主流汽车主机厂、毫米波雷达研发厂商、计量检测机构提供产品和解决方案服务"
+    },
+    {
+      "name": "能源电力",
+      "source_product": "安全存储",
+      "quote": "应用于政务云、国防军工、电力、智慧交通及工业自动化等领域"
+    },
+    {
+      "name": "智慧交通",
+      "source_product": "智能网联、安全存储",
+      "quote": "应用于政务云、国防军工、电力、智慧交通及工业自动化等领域"
+    },
+    {
+      "name": "工业自动化",
+      "source_product": "安全存储",
+      "quote": "应用于政务云、国防军工、电力、智慧交通及工业自动化等领域"
+    },
+    {
+      "name": "政务云",
+      "source_product": "安全存储",
+      "quote": "应用于政务云、国防军工、电力、智慧交通及工业自动化等领域"
+    },
+    {
+      "name": "应急管理",
+      "source_product": "卫星应用",
+      "quote": "深度应用于国防安全、应急管理、自然资源、智慧城市、气象海洋等十余个国民经济重点领域"
+    },
+    {
+      "name": "自然资源",
+      "source_product": "卫星应用",
+      "quote": "深度应用于国防安全、应急管理、自然资源、智慧城市、气象海洋等十余个国民经济重点领域"
+    },
+    {
+      "name": "商业航天",
+      "source_product": "卫星应用",
+      "quote": "为商业卫星数据规模化推广与产业化应用提供了坚实支撑"
+    },
+    {
+      "name": "低空经济",
+      "source_product": "智能控制",
+      "quote": "在低空经济领域，公司积极布局民用低空飞行器的部分机载通信导航与空管设备研制"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "高立宁",
+      "role": "董事长、董事会秘书",
+      "quote": "公司负责人高立宁...现任公司董事长、董事会秘书"
+    },
+    {
+      "name": "刘峰",
+      "role": "董事、总经理",
+      "quote": "刘峰先生...现任公司董事、总经理"
+    },
+    {
+      "name": "宋鑫",
+      "role": "财务总监",
+      "quote": "宋鑫先生，现任公司财务总监"
+    },
+    {
+      "name": "和培仁",
+      "role": "董事",
+      "quote": "和培仁先生...现任...董事"
+    },
+    {
+      "name": "王少奇",
+      "role": "董事",
+      "quote": "王少奇先生...现任...董事"
+    },
+    {
+      "name": "刘迎喜",
+      "role": "董事",
+      "quote": "刘迎喜先生...现任...董事"
+    },
+    {
+      "name": "王长杰",
+      "role": "职工代表董事",
+      "quote": "王长杰先生...现任...职工代表董事"
+    },
+    {
+      "name": "关峻",
+      "role": "独立董事",
+      "quote": "关峻先生...现任...独立董事"
+    },
+    {
+      "name": "赵保卿",
+      "role": "独立董事",
+      "quote": "赵保卿先生...现任...独立董事"
+    },
+    {
+      "name": "谢卉",
+      "role": "独立董事",
+      "quote": "谢卉女士...现任...独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京理工雷科电子信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "雷达系统、空天遥感、卫星导航、数字系统、模拟仿真等",
+      "quote": "雷科电子 指 公司全资子公司北京理工雷科电子信息技术有限公司"
+    },
+    {
+      "name": "西安奇维科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "军用嵌入式计算机、固态存储设备",
+      "quote": "奇维科技 指 公司全资子公司西安奇维科技有限公司"
+    },
+    {
+      "name": "成都爱科特科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "微波射频技术、设备、系统",
+      "quote": "爱科特 指 公司全资子公司成都爱科特科技发展有限公司"
+    },
+    {
+      "name": "西安恒达微波技术开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "微波天线、微波有源及无源器件、微波系统",
+      "quote": "恒达微波 指 公司全资子公司西安恒达微波技术开发有限公司"
+    },
+    {
+      "name": "北京理工雷科空天信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新体制雷达、卫星导航、集成电路等相关技术领域",
+      "quote": "雷科空天 指 公司全资子公司北京理工雷科空天信息技术有限公司"
+    },
+    {
+      "name": "尧云科技（西安）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "尧云科技 指 公司全资孙公司尧云科技（西安）有限公司"
+    },
+    {
+      "name": "奥瑞思智能科技（阜新）有限公司（含下属全资及控股公司）",
+      "relation_type": "customer",
+      "business_details": "采购商品及租赁办公场所",
+      "quote": "关联方：奥瑞思智能科技（阜新）有限公司（含下属全资及控股公司）...关联交易类型：采购商品...租赁办公场所"
+    },
+    {
+      "name": "西安云维智联科技有限公司",
+      "relation_type": "customer",
+      "business_details": "采购商品、销售货物及技术、租赁办公场所",
+      "quote": "关联方：西安云维智联科技有限公司...关联交易类型：采购商品...销售货物及技术...租赁办公场所"
+    },
+    {
+      "name": "北京恒星箭翔科技有限公司(含下属全资及控股公司)",
+      "relation_type": "customer",
+      "business_details": "销售货物",
+      "quote": "关联方：北京恒星箭翔科技有限公司(含下属全资及控股公司)...关联交易类型：销售货物"
+    },
+    {
+      "name": "苏州理工雷科传感技术有限公司(含下属全资及控股公司)",
+      "relation_type": "customer",
+      "business_details": "租赁办公场所",
+      "quote": "关联方：苏州理工雷科传感技术有限公司(含下属全资及控股公司)...关联交易类型：租赁办公场所"
+    },
+    {
+      "name": "北京雷科众联科技有限公司",
+      "relation_type": "customer",
+      "business_details": "租赁办公场所",
+      "quote": "关联方：北京雷科众联科技有限公司...关联交易类型：租赁办公场所"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "雷达系统",
+      "segment_type": "product_line",
+      "revenue_amount": "523,199,691.95",
+      "revenue_proportion": "35.92%",
+      "gross_margin": "21.99%",
+      "yoy_change": "11.22%",
+      "quote": "雷达系统 523,199,691.95 35.92% 470,399,146.37 37.86% 11.22%...毛利率 21.99%...同比增减 -7.22%"
+    },
+    {
+      "name": "卫星应用",
+      "segment_type": "product_line",
+      "revenue_amount": "354,799,891.50",
+      "revenue_proportion": "24.36%",
+      "gross_margin": "23.79%",
+      "yoy_change": "54.89%",
+      "quote": "卫星应用 354,799,891.50 24.36% 229,069,380.22 18.44% 54.89%...毛利率 23.79%...同比增减 -0.58%"
+    },
+    {
+      "name": "智能控制",
+      "segment_type": "product_line",
+      "revenue_amount": "376,310,364.69",
+      "revenue_proportion": "25.83%",
+      "gross_margin": "39.25%",
+      "yoy_change": "16.28%",
+      "quote": "智能控制 376,310,364.69 25.83% 323,638,130.08 26.05% 16.28%...毛利率 39.25%...同比增减 0.95%"
+    },
+    {
+      "name": "安全存储",
+      "segment_type": "product_line",
+      "revenue_amount": "131,042,032.70",
+      "revenue_proportion": "9.00%",
+      "gross_margin": "68.19%",
+      "yoy_change": "40.54%",
+      "quote": "安全存储 131,042,032.70 9.00% 93,245,052.13 7.51% 40.54%...毛利率 68.19%...同比增减 7.66%"
+    },
+    {
+      "name": "智能网联",
+      "segment_type": "product_line",
+      "revenue_amount": "42,325,105.72",
+      "revenue_proportion": "2.91%",
+      "gross_margin": "39.91%",
+      "yoy_change": "-55.58%",
+      "quote": "智能网联 42,325,105.72 2.91% 95,294,109.30 7.67% -55.58%...毛利率 39.91%...同比增减 5.37%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "29,018,094.01",
+      "revenue_proportion": "1.99%",
+      "gross_margin": "34.76%",
+      "yoy_change": "-5.58%",
+      "quote": "其他 29,018,094.01 1.99% 30,731,880.14 2.47% -5.58%...毛利率 34.76%...同比增减 -6.37%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,451,462,980.20",
+      "revenue_proportion": "99.64%",
+      "gross_margin": "31.77%",
+      "yoy_change": "17.89%",
+      "quote": "国内 1,451,462,980.20 99.64% 1,231,202,073.74 99.10% 17.89%...毛利率 31.77%...同比增减 -1.89%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "5,232,200.37",
+      "revenue_proportion": "0.36%",
+      "gross_margin": "44.93%",
+      "yoy_change": "-53.18%",
+      "quote": "国外 5,232,200.37 0.36% 11,175,624.50 0.90% -53.18%...毛利率 44.93%...同比增减 2.67%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "恒达微波装备智能制造中心项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "议案审议通过",
+      "expected_completion_time": null,
+      "quote": "审议通过了以下议案：1、关于子公司投资建设恒达微波装备智能制造中心项目的议案"
+    },
+    {
+      "name": "鸟情探驱管一体化系统升级研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": null,
+      "quote": "鸟情探驱管一体化系统升级...项目进展 进行中"
+    },
+    {
+      "name": "适用于6G移动通信系统和感知系统融合场景的新型天线研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": null,
+      "quote": "研究设计适用于6G移动通信系统和感知系统融合场景的新型天线...项目进展 进行中"
+    },
+    {
+      "name": "SAR成像处理高性能处理芯片研制",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": null,
+      "quote": "研制一款针对SAR成像处理的高性能处理芯片...项目进展 进行中"
+    },
+    {
+      "name": "一种双向传输射频交换矩阵研究",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "一种双向传输射频交换矩阵研究...项目进展 已完成"
+    },
+    {
+      "name": "智能计算机服务研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": null,
+      "quote": "智能计算机服务研发...项目进展 进行中"
+    },
+    {
+      "name": "研发全国产化智能存储系统",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": null,
+      "quote": "研发全国产化智能存储系统...项目进展 进行中"
+    },
+    {
+      "name": "收购尧云科技4%少数股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "11,712.19",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "收购尧云科技4%少数股权...转让价格（万元） 11,712.19...2025年11月08日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "自主知识产权",
+      "asset_type": "patent",
+      "related_product": "雷达系统、智能控制、卫星应用、安全存储、智能网联等",
+      "quantitative_info": "报告期末已获授权的专利以及软件著作权合计636项。报告期内新申请各类专利及软件著作权共 45 项，新获授权专利及软件著作权共60项。",
+      "quote": "公司拥有完全的自主知识产权...报告期内新申请各类专利及软件著作权共 45 项，新获授权专利及软件著作权共60项。报告期末已获授权的专利以及软件著作权合计636项。"
+    },
+    {
+      "name": "新体制雷达算法",
+      "asset_type": "core_technology",
+      "related_product": "雷达系统",
+      "quantitative_info": null,
+      "quote": "自主掌握新体制雷达算法...等关键核心技术。"
+    },
+    {
+      "name": "毫米波雷达检测建模技术",
+      "asset_type": "core_technology",
+      "related_product": "雷达系统",
+      "quantitative_info": null,
+      "quote": "自主掌握...毫米波雷达检测建模技术...等关键核心技术。"
+    },
+    {
+      "name": "全频段有源无源天饲馈",
+      "asset_type": "core_technology",
+      "related_product": "雷达系统",
+      "quantitative_info": null,
+      "quote": "自主掌握...全频段有源无源天饲馈...等关键核心技术。"
+    },
+    {
+      "name": "全频段高集成度低成本 TR 组件",
+      "asset_type": "core_technology",
+      "related_product": "雷达系统",
+      "quantitative_info": null,
+      "quote": "自主掌握...全频段高集成度低成本 TR 组件...等关键核心技术。"
+    },
+    {
+      "name": "国产化异构并行处理",
+      "asset_type": "core_technology",
+      "related_product": "雷达系统",
+      "quantitative_info": null,
+      "quote": "自主掌握...国产化异构并行处理等关键核心技术。"
+    },
+    {
+      "name": "星上智能处理核心技术",
+      "asset_type": "core_technology",
+      "related_product": "卫星应用",
+      "quantitative_info": null,
+      "quote": "公司突破星上智能处理核心技术"
+    },
+    {
+      "name": "自主高性能处理芯片",
+      "asset_type": "core_technology",
+      "related_product": "安全存储等",
+      "quantitative_info": null,
+      "quote": "掌握...自主高性能处理芯片...等多项核心技术。"
+    },
+    {
+      "name": "自主可控存储",
+      "asset_type": "core_technology",
+      "related_product": "安全存储",
+      "quantitative_info": null,
+      "quote": "掌握...自主可控存储...等多项核心技术。"
+    },
+    {
+      "name": "存储控制芯片及固件算法",
+      "asset_type": "core_technology",
+      "related_product": "安全存储",
+      "quantitative_info": null,
+      "quote": "自研存储控制芯片及固件算法"
+    },
+    {
+      "name": "固态存储控制器芯片关键技术及产业化项目",
+      "asset_type": "core_technology",
+      "related_product": "安全存储",
+      "quantitative_info": "荣获国家科学技术进步二等奖",
+      "quote": "“固态存储控制器芯片关键技术及产业化”项目荣获国家科学技术进步二等奖"
+    },
+    {
+      "name": "软件企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获得软件企业认证"
+    },
+    {
+      "name": "高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "高新技术企业认证"
+    },
+    {
+      "name": "软件开发 CMMI3 级认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "软件开发 CMMI3 级认证"
+    },
+    {
+      "name": "国防军工准入资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有完备的国防军工准入资质"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.01%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 495,370,230.26 前五名客户合计销售金额占年度销售总额比例 34.01%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "17.16%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 173,873,788.78 前五名供应商合计采购金额占年度采购总额比例 17.16%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "在未来行业竞争过程中，项目实物竞标的招标模式越来越成为通用手段，由此公司自身需承担的研发费用有可能上升。",
+      "related_entity": null,
+      "related_product": "卫星应用",
+      "quote": "在未来行业竞争过程中，项目实物竞标的招标模式越来越成为通用手段，由此公司自身需承担的研发费用有可能上升，报告期内，公司卫星应用业务群的星上产品此种情况仍然存在。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "部分子公司作为军品供应链中配套层级相对较高的产品供应商，受军工行业政策、军品定价规则、税收政策变化等持续性因素影响，有可能导致公司产品价格下滑，军品业务毛利率降低。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "部分子公司作为军品供应链中配套层级相对较高的产品供应商，受军工行业政策、军品定价规则、税收政策变化等持续性因素影响，有可能导致公司产品价格下滑，军品业务毛利率降低"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司通过并购重组等方式实现主业转型...对公司的战略规划、规章制度、组织架构、运营模式、内部控制、市场营销、财务管理等方面带来了较大的挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司通过并购重组等方式实现主业转型，并购重组计划对公司现存的战略规划、规章制度、组织架构、运营模式、内部控制、市场营销、财务管理等方面带来了较大的挑战。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司通过并购重组...由于双方在企业文化、组织模式和管理制度等方面存在一定的差异，会造成多方整合能否达到互补及协同效果、能否达到预期最佳效果所需的时间存在一定的不确定性",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "由于双方在企业文化、组织模式和管理制度等方面存在一定的差异，会造成多方整合能否达到互补及协同效果、能否达到预期最佳效果所需的时间存在一定的不确定性"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司属于技术密集型企业，拥有一支稳定高水平的研发团队是企业生存和发展的关键...未来公司核心技术人才存在流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司属于技术密集型企业，拥有一支稳定高水平的研发团队是企业生存和发展的关键。但随着行业的快速发展，人才争夺将日趋激烈，未来公司核心技术人才存在流失的风险。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "受国际局势影响，供应链存在诸多不确定性，如全球供应链发生系统性风险，导致原材料、芯片等价格上升，可能存在引发成本上升的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受国际局势影响，供应链存在诸多不确定性，如全球供应链发生系统性风险，导致原材料、芯片等价格上升，可能存在引发成本上升的风险。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "本期计提存货跌价准备。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要是本期计提存货跌价准备。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "母公司存在未弥补亏损，截至报告期末，公司母公司财务报表累计未弥补亏损为-28,480,381.75元。根据相关法律法规及《公司章程》规定，公司目前不满足实施现金分红的前提条件。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末， 公司母公司财务报表累计未弥补亏损为-28,480,381.75元。根据相关法律法规及《公司章程》规定，公司目前不满足实施现金分红的前提条件。"
+    }
+  ]
+}

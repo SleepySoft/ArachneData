@@ -1,0 +1,474 @@
+{
+  "company_name_mentioned": "江苏正泰电源科技股份有限公司",
+  "produces": [
+    {
+      "name": "光伏逆变器",
+      "type": "device",
+      "revenue_proportion": "52.74%",
+      "quote": "光伏逆变器 2,144,166,843.78 ... 52.74% ... 17.70%"
+    },
+    {
+      "name": "储能产品",
+      "type": "device",
+      "revenue_proportion": "13.15%",
+      "quote": "储能产品 534,489,251.79 ... 13.15% ... 172.03%"
+    },
+    {
+      "name": "工具箱柜",
+      "type": "material",
+      "revenue_proportion": "26.52%",
+      "quote": "工具箱柜 1,077,995,681.42 ... 26.52% ... 1.96%"
+    },
+    {
+      "name": "机电钣金制品",
+      "type": "material",
+      "revenue_proportion": "6.39%",
+      "quote": "机电钣金制品 259,805,283.97 ... 6.39% ... 13.01%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子元器件（如IGBT）",
+      "target_product": "光伏逆变器",
+      "cost_proportion": null,
+      "quote": "光伏逆变器是光伏发电系统的核心设备之一，而 IGBT 作为逆变器的关键元器件，直接影响逆变器的性能、效率和可靠性。"
+    },
+    {
+      "name": "电芯",
+      "target_product": "储能系统",
+      "cost_proportion": null,
+      "quote": "储能市场快速发展，电芯及其原材料价格波动，存在产能不足，压缩储能产品利润且影响订单发货效率的风险。"
+    },
+    {
+      "name": "瑞浦兰钧能源股份有限公司（电芯供应商）",
+      "target_product": "储能系统",
+      "cost_proportion": "6.71%",
+      "quote": "2 瑞浦兰钧能源股份有限公司 154,094,493.94 6.71%"
+    },
+    {
+      "name": "宁德时代新能源科技股份有限公司（电芯供应商）",
+      "target_product": "储能系统",
+      "cost_proportion": "6.52%",
+      "quote": "3 宁德时代新能源科技股份有限公司 149,784,692.04 6.52%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "光伏发电系统",
+      "source_product": "光伏逆变器",
+      "quote": "光伏逆变器作为光伏系统中的核心设备，其主要作用是将光伏组件发出的直流电转换为交流电后自发自用或并入到电网中。"
+    },
+    {
+      "name": "电化学储能系统",
+      "source_product": "储能系统",
+      "quote": "储能系统 指 利用电池作为能量储存载体，一定时间内存储电能和一定时间内供应电能的系统"
+    },
+    {
+      "name": "户用屋顶光伏",
+      "source_product": "光伏逆变器",
+      "quote": "适用于户用屋顶项目"
+    },
+    {
+      "name": "工商业光伏项目",
+      "source_product": "光伏逆变器",
+      "quote": "适用于更加多样的工商业光伏发电项目"
+    },
+    {
+      "name": "大型地面光伏电站",
+      "source_product": "光伏逆变器",
+      "quote": "适用于复杂多变的工商业及集中光伏电站场景"
+    },
+    {
+      "name": "制造业、建筑业、加工业、汽车修理业",
+      "source_product": "金属工具箱柜",
+      "quote": "被广泛运用于制造业、建筑业、加工业、汽车修理业以及家庭日用中"
+    },
+    {
+      "name": "电子冰箱、户外显示类产品、摄像头、充电桩、数据通信",
+      "source_product": "机电钣金制品",
+      "quote": "机电钣金类产品主要应用于电子冰箱、户外显示类产品、摄像头、充电桩、数据通信、升降工具台等电器产品"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陆川",
+      "role": "董事长",
+      "quote": "公司负责人陆川、主管会计工作负责人胡雪芳及会计机构负责人（会计主管人员）胡雪芳声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "胡雪芳",
+      "role": "主管会计工作负责人、会计机构负责人、副总经理、财务总监",
+      "quote": "公司负责人陆川、主管会计工作负责人胡雪芳及会计机构负责人（会计主管人员）胡雪芳声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "周承军",
+      "role": "董事、总经理",
+      "quote": "周承军（董事、总经理），男，1973 年出生，硕士学位，正高级工程师...现任本公司董事、总经理。"
+    },
+    {
+      "name": "霍庆宝",
+      "role": "副总经理、董事会秘书",
+      "quote": "霍庆宝（副总经理、董事会秘书），男，1981 年出生，本科学历。"
+    },
+    {
+      "name": "项海锋",
+      "role": "副总经理",
+      "quote": "项海锋（副总经理），男，1983 年出生，哈尔滨工业大学硕士学历，节能与储能高级工程师。"
+    },
+    {
+      "name": "顾雄斌",
+      "role": "董事（原控股股东）",
+      "quote": "公司实际控制人由顾雄斌先生变更为南存辉先生。"
+    },
+    {
+      "name": "南存辉",
+      "role": "实际控制人",
+      "quote": "公司实际控制人由顾雄斌先生变更为南存辉先生。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "正泰电器（浙江正泰电器股份有限公司）",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东由常熟市千斤顶厂变更为正泰电器，公司实际控制人由顾雄斌先生变更为南存辉先生。"
+    },
+    {
+      "name": "正泰集团（正泰集团股份有限公司）",
+      "relation_type": "investor",
+      "business_details": "实际控制人控制的企业",
+      "quote": "正泰集团 指 正泰集团股份有限公司"
+    },
+    {
+      "name": "上海电源（上海正泰电源系统有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "从事光伏逆变器、储能变流器等电源系统设备和系统解决方案的研发、生产和销售业务",
+      "quote": "上海电源 指 上海正泰电源系统有限公司"
+    },
+    {
+      "name": "电源系统美国（Chint Power Systems America CO.）",
+      "relation_type": "subsidiary",
+      "business_details": "从事电源系统设备和系统解决方案销售业务",
+      "quote": "电源系统美国 指 Chint Power Systems America CO."
+    },
+    {
+      "name": "电源系统泰国（CPS ELECTRONICS (THAILAND) CO.,Ltd.）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "电源系统泰国 指 CPS ELECTRONICS (THAILAND) CO.,Ltd."
+    },
+    {
+      "name": "瑞浦兰钧能源股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "2 瑞浦兰钧能源股份有限公司 154,094,493.94 6.71%"
+    },
+    {
+      "name": "宁德时代新能源科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "3 宁德时代新能源科技股份有限公司 149,784,692.04 6.52%"
+    },
+    {
+      "name": "SOLV Energy, LLC",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "4 SOLV Energy, LLC 213,020,162.26 5.24%"
+    },
+    {
+      "name": "现代集团",
+      "relation_type": "customer",
+      "business_details": "韩国市场战略合作伙伴",
+      "quote": "在韩国市场，公司持续深化与战略合作伙伴现代集团的协同关系"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光伏储能设备及元器件制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,678,656,095.57元",
+      "revenue_proportion": "65.89%",
+      "gross_margin": "31.28%",
+      "yoy_change": "32.73%",
+      "quote": "光伏储能设备及元器件制造业 2,678,656,095.57 ... 65.89% ... 32.73% ... 31.28%"
+    },
+    {
+      "name": "金属制品业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,368,970,204.42元",
+      "revenue_proportion": "33.68%",
+      "gross_margin": "28.62%",
+      "yoy_change": "2.61%",
+      "quote": "金属制品业 1,368,970,204.42 ... 33.68% ... 2.61% ... 28.62%"
+    },
+    {
+      "name": "光储逆变器",
+      "segment_type": "product_line",
+      "revenue_amount": "2,144,166,843.78元",
+      "revenue_proportion": "52.74%",
+      "gross_margin": "32.61%",
+      "yoy_change": "17.70%",
+      "quote": "光储逆变器 2,144,166,843.78 ... 52.74% ... 17.70% ... 32.61%"
+    },
+    {
+      "name": "储能产品",
+      "segment_type": "product_line",
+      "revenue_amount": "534,489,251.79元",
+      "revenue_proportion": "13.15%",
+      "gross_margin": "25.96%",
+      "yoy_change": "172.03%",
+      "quote": "储能产品 534,489,251.79 ... 13.15% ... 172.03% ... 25.96%"
+    },
+    {
+      "name": "工具箱柜",
+      "segment_type": "product_line",
+      "revenue_amount": "1,077,995,681.42元",
+      "revenue_proportion": "26.52%",
+      "gross_margin": "26.30%",
+      "yoy_change": "1.96%",
+      "quote": "工具箱柜 1,077,995,681.42 ... 26.52% ... 1.96% ... 26.30%"
+    },
+    {
+      "name": "机电钣金制品",
+      "segment_type": "product_line",
+      "revenue_amount": "259,805,283.97元",
+      "revenue_proportion": "6.39%",
+      "gross_margin": "39.15%",
+      "yoy_change": "13.01%",
+      "quote": "机电钣金制品 259,805,283.97 ... 6.39% ... 13.01% ... 39.15%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "3,368,403,971.71元",
+      "revenue_proportion": "82.86%",
+      "gross_margin": "33.33%",
+      "yoy_change": "23.59%",
+      "quote": "境外 3,368,403,971.71 ... 82.86% ... 23.59% ... 33.33%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "679,222,328.28元",
+      "revenue_proportion": "16.71%",
+      "gross_margin": "15.77%",
+      "yoy_change": "8.35%",
+      "quote": "境内 679,222,328.28 ... 16.71% ... 8.35% ... 15.77%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "金属制品业",
+      "metric_type": "sales_volume",
+      "value": "136,897.02万元",
+      "period": "2025年",
+      "quote": "金属制品业 销售量 万元 136,897.02 ... 2.61%"
+    },
+    {
+      "product": "金属制品业",
+      "metric_type": "production_volume",
+      "value": "95,183.33万元",
+      "period": "2025年",
+      "quote": "金属制品业 生产量 万元 95,183.33 ... 0.25%"
+    },
+    {
+      "product": "金属制品业",
+      "metric_type": "inventory_volume",
+      "value": "8,064.75万元",
+      "period": "2025年末",
+      "quote": "金属制品业 库存量 万元 8,064.75 ... -23.93%"
+    },
+    {
+      "product": "光伏储能设备及元器件制造业-光储逆变器",
+      "metric_type": "sales_volume",
+      "value": "9,289.97 MW",
+      "period": "2025年",
+      "quote": "光伏储能设备及元器件制造业-光储逆变器 销售量 MW 9,289.97 ... 6.87%"
+    },
+    {
+      "product": "光伏储能设备及元器件制造业-光储逆变器",
+      "metric_type": "production_volume",
+      "value": "8,839.21 MW",
+      "period": "2025年",
+      "quote": "光伏储能设备及元器件制造业-光储逆变器 生产量 MW 8,839.21 ... -15.54%"
+    },
+    {
+      "product": "光伏储能设备及元器件制造业-光储逆变器",
+      "metric_type": "inventory_volume",
+      "value": "3,883.22 MW",
+      "period": "2025年末",
+      "quote": "光伏储能设备及元器件制造业-光储逆变器 库存量 MW 3,883.22 ... -10.40%"
+    },
+    {
+      "product": "光伏储能设备及元器件制造业-储能产品",
+      "metric_type": "sales_volume",
+      "value": "647.16 MWh",
+      "period": "2025年",
+      "quote": "光伏储能设备及元器件制造业-储能产品 销售量 MWh 647.16 ... 120.93%"
+    },
+    {
+      "product": "光伏储能设备及元器件制造业-储能产品",
+      "metric_type": "production_volume",
+      "value": "767.21 MWh",
+      "period": "2025年",
+      "quote": "光伏储能设备及元器件制造业-储能产品 生产量 MWh 767.21 ... 64.48%"
+    },
+    {
+      "product": "光伏储能设备及元器件制造业-储能产品",
+      "metric_type": "inventory_volume",
+      "value": "294.11 MWh",
+      "period": "2025年末",
+      "quote": "光伏储能设备及元器件制造业-储能产品 库存量 MWh 294.11 ... 68.97%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中电电器厂厂房建设项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "372,529,471.31元（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "是（属于固定资产投资）",
+      "expected_completion_time": null,
+      "quote": "中电电器厂房建设项目 自建 ... 光伏储能设备及元器件制造业 13,272,388.38 372,529,471.31"
+    },
+    {
+      "name": "泰国工厂（金属制品产能转移）",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "公司已将部分海外订单产能转移至泰国工厂，在满足客户交货时效需求的同时，推进产品线升级优化和产能释放"
+    },
+    {
+      "name": "光储智能制造基地一期厂房装修改造工程",
+      "project_type": "construction_project",
+      "location": "上海",
+      "investment_amount": "3,880.00万元（中标价格）",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "因上海电源工程项目的建设需要...确定正骅建筑为本工程中标单位，中标价格为人民币 3,880.00万元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利技术",
+      "asset_type": "patent",
+      "related_product": "光伏逆变器、储能系统等",
+      "quantitative_info": "百余项",
+      "quote": "目前公司已持有百余项专利技术，构建了围绕核心技术的知识产权“护城河”。"
+    },
+    {
+      "name": "UL/IEC认证",
+      "asset_type": "certification",
+      "related_product": "储能系统产品",
+      "quantitative_info": null,
+      "quote": "相关产品已通过 UL/IEC 认证，可快速实现系统交付"
+    },
+    {
+      "name": "“质胜中国”光伏逆变器可靠性优胜奖",
+      "asset_type": "other",
+      "related_product": "SCH350K-T2-EU 光伏逆变器",
+      "quantitative_info": null,
+      "quote": "公司自主研发的 SCH350K-T2-EU 光伏逆变器凭借卓越的产品性能与可靠品质，获得德国莱茵TÜV颁发的2025年“质胜中国”光伏逆变器可靠性优胜奖。"
+    },
+    {
+      "name": "CSA C800标准测试",
+      "asset_type": "certification",
+      "related_product": "125kW/261kWh 户外储能柜",
+      "quantitative_info": "全球首款",
+      "quote": "125kW/261kWh 户外储能柜成功通过严苛的CSA C800标准测试...成为全球首款在此类开门大规模火烧测试中兼顾两项权威标准的工商业储能柜。"
+    },
+    {
+      "name": "全球光伏逆变器制造商 Tier 1 榜单",
+      "asset_type": "other",
+      "related_product": "光伏逆变器",
+      "quantitative_info": "连续10个季度稳居",
+      "quote": "截至目前，根据彭博新能源财经（BloombergNEF）公布的Tier1榜单，上海电源已连续10个季度稳居全球光伏逆变器一级制造商"
+    },
+    {
+      "name": "全球一级储能集成商榜单",
+      "asset_type": "other",
+      "related_product": "储能系统",
+      "quantitative_info": "连续6个季度入选",
+      "quote": "连续 6 个季度入选全球一级储能集成商榜单"
+    },
+    {
+      "name": "“Grade A”光伏逆变器制造商名单",
+      "asset_type": "other",
+      "related_product": "光伏逆变器",
+      "quantitative_info": null,
+      "quote": "根据全球权威能源研究机构伍德麦肯兹（Wood Mackenzie）发布的2025年上半年《全球光伏逆变器制造商综合实力排名》报告...成功入选“Grade A”光伏逆变器制造商名单"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "37.37%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 1,519,188,743.48 前五名客户合计销售金额占年度销售总额比例 37.37%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.76%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 683,629,860.46 前五名供应商合计采购金额占年度采购总额比例 29.76%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "韩国逆变器市场占有率38.5%，连续4年第一",
+      "related_entity": "韩国市场",
+      "period": "2024年",
+      "quote": "2025 年，在韩国市场，根据 S&P Global Commodity Insight 统计，公司 2024 年在韩国逆变器市场占有率为 38.5%，已连续4年保持第一。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "北美三相组串逆变器市场占有率42%",
+      "related_entity": "美国工商业市场",
+      "period": "2024年",
+      "quote": "在美国市场，公司以工商业逆变器为核心发力点，2024年在三相组串机市场占有率为42%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "各国政府对能源政策的调整、补贴政策的变化以及国际贸易环境的不确定性。政策的变化可能直接影响新能源企业的盈利能力、市场布局和长期发展战略。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、政策风险 政策风险是公司所处行业面临的重要外部风险之一，主要源于各国政府对能源政策的调整、补贴政策的变化以及国际贸易环境的不确定性。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业龙头厂商凭借规模优势和成本管控优势，市场份额不断扩大。新进入者不断涌入，行业竞争仍十分激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、行业市场竞争加剧 经过近年来新型储能行业的快速发展，新型储能行业龙头厂商凭借规模优势和成本管控优势，市场份额不断扩大，行业整体竞争格局基本确定。但在技术迭代加速、应用场景多元化及商业模式日趋完善的背景下，新进入者不断涌入，试图寻找新的竞争突破口，行业竞争仍十分激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "IGBT产能不足，电芯及其原材料价格波动，存在产能不足，压缩储能产品利润且影响订单发货效率的风险。",
+      "related_entity": "IGBT、电芯",
+      "related_product": "光伏逆变器、储能系统",
+      "quote": "3、原材料价格波动风险 公司上游供应链主要包括电子元器件以及电芯等。...IGBT...全球 IGBT 市场高度集中，且可能面临产能不足风险...储能市场快速发展，电芯及其原材料价格波动，存在产能不足，压缩储能产品利润且影响订单发货效率的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "境外销售收入逐渐增多，境外业务主要以美元及欧元等外币结算。若未来人民币对美元、欧元等外币汇率发生较大波动，公司将可能产生汇兑损益，对公司财务状况和经营成果产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、汇率风险 随着公司境外业务的快速发展，境外销售收入逐渐增多，境外业务主要以美元及欧元等外币结算。若未来人民币对美元、欧元等外币汇率发生较大波动，公司将可能产生汇兑损益，对公司财务状况和经营成果产生一定影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "外销涉及国家较多，且产品类别较为丰富，因而公司业务受不同外销国家或地区针对不同类别产品贸易政策或措施影响。未来出口国家或地区的贸易政策或措施可能对公司境外销售乃至公司所涉行业均产生不利影响。",
+      "related_entity": "主要销售国家及区域包括美国、欧盟、韩国和日本",
+      "related_product": "金属工具箱柜、机电钣金产品、光伏逆变器、储能系统产品",
+      "quote": "5、国际贸易风险 公司境外销售占比较高，主要产品包括金属工具箱柜及机电钣金产品、光伏逆变器及储能系统产品等，主要销售国家及区域包括美国、欧盟、韩国和日本等。由于公司外销涉及国家较多，且产品类别较为丰富，因而公司业务受不同外销国家或地区针对不同类别产品贸易政策或措施影响。"
+    }
+  ]
+}

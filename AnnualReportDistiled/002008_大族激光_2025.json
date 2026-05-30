@@ -1,0 +1,411 @@
+{
+  "company_name_mentioned": "大族激光科技产业集团股份有限公司",
+  "produces": [
+    {
+      "name": "消费电子设备",
+      "type": "device",
+      "revenue_proportion": "消费电子设备业务实现营业收入24.72亿元",
+      "quote": "消费电子设备：主要产品为专用激光打标设备、激光焊接设备、激光钻孔设备、防水气密性检测设备、CNC数控机床等，用于手机、笔记本电脑、智能手表等消费电子产品的生产加工环节。"
+    },
+    {
+      "name": "PCB设备",
+      "type": "device",
+      "revenue_proportion": "PCB设备业务实现营业收入57.73亿元，同比增长72.68%。PCB智能制造装备占公司营业收入比重30.78%",
+      "quote": "PCB设备：主要产品为钻孔设备、激光直接成像设备、成型设备以及检测设备等，面向钻孔、曝光、成型、检测等PCB生产的关键工序。"
+    },
+    {
+      "name": "锂电设备",
+      "type": "device",
+      "revenue_proportion": "锂电设备业务实现营业收入22.56亿元，同比增长49.65%。",
+      "quote": "锂电设备：主要产品为匀浆、搅拌、涂布、辊压、模切、分切、卷绕/叠片、电芯组装、烘烤、注液、化成分容等加工设备及自动化生产线，用于锂电池电芯、模组、PACK段的生产加工环节。"
+    },
+    {
+      "name": "光伏设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "光伏设备：主要产品在光伏电池及组件环节，包括TOPCon电池生产主设备：激光硼掺杂设备、PECVD（等离子增强气相沉积设备）、LPCVD（低压化学气相沉积设备）、扩散炉、氧化炉、退火炉，以及组件段的无损划片机、划焊一体机等。"
+    },
+    {
+      "name": "半导体设备（含泛半导体）",
+      "type": "device",
+      "revenue_proportion": "半导体设备（含泛半导体）业务实现营业收入20.41亿元，同比增长15.00%。",
+      "quote": "主要产品为激光表切、全切设备，激光内部改质切割设备等前道晶圆切割设备，及焊线设备、固晶设备、测试编带设备等后道封测设备及晶圆自动化传输设备，用于半导体及LED、显示面板等泛半导体的生产加工环节。"
+    },
+    {
+      "name": "通用工业激光加工设备（极限制造产品）",
+      "type": "device",
+      "revenue_proportion": "通用工业激光加工设备业务实现营业收入61.12亿元，同比增长2.37%。",
+      "quote": "极限制造产品为标准激光切割、焊接、打标设备等通用激光加工设备。"
+    },
+    {
+      "name": "通用元件及行业普及产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "通用元件及行业普及产品为紫外及超快激光器、高功率光纤激光器、中低功率CO2激光器、脉冲光纤激光器、通用运动控制系统、振镜、伺服电机等工业激光加工设备及自动化设备的关键器件。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钣金机加件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购类别包括钣金机加件、机械器件、外购模组、光学器件等。"
+    },
+    {
+      "name": "机械器件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购类别包括钣金机加件、机械器件、外购模组、光学器件等。"
+    },
+    {
+      "name": "外购模组",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购类别包括钣金机加件、机械器件、外购模组、光学器件等。"
+    },
+    {
+      "name": "光学器件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购类别包括钣金机加件、机械器件、外购模组、光学器件等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子",
+      "source_product": "消费电子设备",
+      "quote": "用于手机、笔记本电脑、智能手表等消费电子产品的生产加工环节。"
+    },
+    {
+      "name": "印刷电路板（PCB）制造",
+      "source_product": "PCB设备",
+      "quote": "面向钻孔、曝光、成型、检测等PCB生产的关键工序。"
+    },
+    {
+      "name": "锂电池制造",
+      "source_product": "锂电设备",
+      "quote": "用于锂电池电芯、模组、PACK段的生产加工环节。"
+    },
+    {
+      "name": "光伏电池及组件制造",
+      "source_product": "光伏设备",
+      "quote": "主要产品在光伏电池及组件环节。"
+    },
+    {
+      "name": "半导体及泛半导体制造",
+      "source_product": "半导体设备",
+      "quote": "用于半导体及LED、显示面板等泛半导体的生产加工环节。"
+    },
+    {
+      "name": "工业金属及非金属材料加工",
+      "source_product": "通用工业激光加工设备",
+      "quote": "通用激光加工设备主要应用于金属及非金属材料的工业加工环节。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "高云峰",
+      "role": "董事长、总经理、管理与决策委员会主任",
+      "quote": "公司负责人高云峰、主管会计工作负责人周辉强及会计机构负责人（会计主管人员）何军伟声明：...现任本公司董事长、总经理、管理与决策委员会主任，同时担任大族控股集团有限公司执行董事。"
+    },
+    {
+      "name": "张建群",
+      "role": "副董事长、管理与决策委员会常务副主任",
+      "quote": "张建群先生，生于1965年...现任本公司副董事长、管理与决策委员会常务副主任。"
+    },
+    {
+      "name": "周辉强",
+      "role": "董事、管理与决策委员会常务副主任、财务总监",
+      "quote": "周辉强先生，生于1973年...现任本公司董事、管理与决策委员会常务副主任兼财务总监。"
+    },
+    {
+      "name": "吕启涛",
+      "role": "董事、管理与决策委员会副主任、首席技术官",
+      "quote": "吕启涛先生，生于1962年...现任本公司董事、管理与决策委员会副主任兼首席技术官。"
+    },
+    {
+      "name": "杜永刚",
+      "role": "管理与决策委员会副主任、董事会秘书",
+      "quote": "杜永刚先生，生于1969年...现任本公司管理与决策委员会副主任兼董事会秘书。"
+    },
+    {
+      "name": "夏良",
+      "role": "职工代表董事、行政人资中心负责人",
+      "quote": "夏良女士，生于1983年...现任本公司职工代表董事、行政人资中心负责人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "大族控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持有公司15.71%股份",
+      "quote": "控股股东名称：大族控股集团有限公司"
+    },
+    {
+      "name": "深圳市大族数控科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事PCB专用设备的研发、生产和销售",
+      "quote": "深圳市大族数控科技股份有限公司，注册资本42550.9152万元，主要业务PCB专用设备的研发、生产和销售。"
+    },
+    {
+      "name": "深圳市大族锂电智能装备股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事新能源原设备的研发、生产和销售",
+      "quote": "深圳市大族锂电智能装备股份有限公司，注册资本41321.2096万元，主要业务新能源原设备的研发、生产和销售。"
+    },
+    {
+      "name": "广东大族半导体装备科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事半导体器件专用设备研发、生产和销售",
+      "quote": "广东大族半导体装备科技有限公司，注册资本12000万元，主要业务半导体器件专用设备研发、生产和销售。"
+    },
+    {
+      "name": "深圳市大族封测科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事半导体及泛半导体封测专用设备",
+      "quote": "大族封测：指深圳市大族封测科技股份有限公司...公司控股子公司大族封测持续专注于半导体及泛半导体封测专用设备领域。"
+    },
+    {
+      "name": "上海大族富创得科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事半导体晶圆自动化搬运等领域",
+      "quote": "上海富创得：指上海大族富创得科技股份有限公司...大族富创得深耕半导体晶圆自动化搬运领域。"
+    },
+    {
+      "name": "客户第一名",
+      "relation_type": "customer",
+      "business_details": "2025年销售金额1,572,421,969.57元，占年度销售总额比例8.38%",
+      "quote": "前五名客户资料：客户第一名，销售额（元）1,572,421,969.57，占年度销售总额比例8.38%"
+    },
+    {
+      "name": "供应商第一名",
+      "relation_type": "supplier",
+      "business_details": "2025年采购金额581,091,810.17元，占年度采购总额比例5.55%",
+      "quote": "前5名供应商资料：供应商第一名，采购额（元）581,091,810.17，占年度采购总额比例5.55%"
+    },
+    {
+      "name": "宁德时代",
+      "relation_type": "customer",
+      "business_details": "头部锂电客户，公司积极配合其国内扩产及海外建设项目",
+      "quote": "公司积极配合宁德时代、中创新航、亿纬锂能等头部客户国内扩产项目，同步配套其海外建设。"
+    },
+    {
+      "name": "京东方",
+      "relation_type": "customer",
+      "business_details": "面板行业龙头客户，公司设备多次中标其AMOLED生产线项目",
+      "quote": "激光修复机、激光剥离机、平板显示器基板切割机等设备多次中标京东方AMOLED生产线项目。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智能制造装备制造业（整体）",
+      "segment_type": "product_line",
+      "revenue_amount": "18,758,866,083.94",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "33.28%",
+      "yoy_change": "27.00%",
+      "quote": "分行业：智能制造装备制造业，2025年金额18,758,866,083.94，占营业收入比重100.00%，同比增减27.00%。"
+    },
+    {
+      "name": "PCB智能制造装备",
+      "segment_type": "product_line",
+      "revenue_amount": "5,772,935,488.47",
+      "revenue_proportion": "30.78%",
+      "gross_margin": "35.12%",
+      "yoy_change": "72.68%",
+      "quote": "分产品：PCB智能制造装备，2025年金额5,772,935,488.47，占营业收入比重30.78%，同比增减72.68%。"
+    },
+    {
+      "name": "其他智能制造装备",
+      "segment_type": "product_line",
+      "revenue_amount": "12,985,930,595.47",
+      "revenue_proportion": "69.22%",
+      "gross_margin": "32.46%",
+      "yoy_change": "13.63%",
+      "quote": "分产品：其他智能制造装备，2025年金额12,985,930,595.47，占营业收入比重69.22%，同比增减13.63%。"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "16,552,937,390.77",
+      "revenue_proportion": "88.24%",
+      "gross_margin": "32.87%",
+      "yoy_change": "30.70%",
+      "quote": "分地区：境内，2025年金额16,552,937,390.77，占营业收入比重88.24%，同比增减30.70%。"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "2,205,928,693.17",
+      "revenue_proportion": "11.76%",
+      "gross_margin": "36.33%",
+      "yoy_change": "4.72%",
+      "quote": "分地区：境外，2025年金额2,205,928,693.17，占营业收入比重11.76%，同比增减4.72%。"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "18,171,934,282.24",
+      "revenue_proportion": "96.87%",
+      "gross_margin": "33.50%",
+      "yoy_change": "26.82%",
+      "quote": "分销售模式：直销，2025年金额18,171,934,282.24，占营业收入比重96.87%，同比增减26.82%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能制造装备（整体）",
+      "metric_type": "sales_volume",
+      "value": "54,174.00台/套",
+      "period": "2025年",
+      "quote": "智能制造装备制造业：销售量54,174.00台/套。"
+    },
+    {
+      "product": "智能制造装备（整体）",
+      "metric_type": "production_volume",
+      "value": "55,734.00台/套",
+      "period": "2025年",
+      "quote": "智能制造装备制造业：生产量55,734.00台/套。"
+    },
+    {
+      "product": "智能制造装备（整体）",
+      "metric_type": "inventory_volume",
+      "value": "5,830.00台/套",
+      "period": "2025年末",
+      "quote": "智能制造装备制造业：库存量5,830.00台/套。"
+    },
+    {
+      "product": "激光切割机（高功率）",
+      "metric_type": "sales_volume",
+      "value": "6800台",
+      "period": "2025年",
+      "quote": "高功率切割业务实现销售台数6800台，同比增长30.47%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "亚创工业园更新项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "109,859,661.24（本报告期投入）",
+      "designed_capacity": null,
+      "progress": "主体建筑物已达到预定可使用状态，由在建工程转入固定资产，剩余部分装修工程尚在施工中。",
+      "expected_completion_time": null,
+      "quote": "亚创工业园更新项目，自建，是专用设备制造业，投资金额109,859,661.24，截至2025年12月31日，累计实际投入666,501,298.96，进度82.52%。主体建筑物已达到预定可使用状态，由在建工程转入固定资产。"
+    },
+    {
+      "name": "大族激光华东区域总部基地一期项目",
+      "project_type": "construction_project",
+      "location": "华东区域",
+      "investment_amount": "16,434,062.50（本报告期投入）",
+      "designed_capacity": null,
+      "progress": "主体建筑物已达到预定可使用状态，由在建工程转入固定资产，剩余部分零星尚在施工中。",
+      "expected_completion_time": null,
+      "quote": "大族激光华东区域总部基地一期项目，自建，是智能制造装备制造业，投资金额16,434,062.50，截至2025年12月31日，累计实际投入1,507,623,743.56，进度93.55%。主体建筑物已达到预定可使用状态，由在建工程转入固定资产。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月31日，公司拥有的有效知识产权11,764项，其中各类专利共7,436项，著作权2,825项，商标权1,392项。",
+      "quote": "公司目前各类智能制造装备产品型号已达600余种。截至2025年12月31日，公司拥有的有效知识产权11,764项，其中各类专利共7,436项，著作权2,825项，商标权1,392项。"
+    },
+    {
+      "name": "CCD六轴独立机械钻孔机（搭载3D背钻及钻测一体技术）",
+      "asset_type": "core_technology",
+      "related_product": "PCB钻孔设备",
+      "quantitative_info": null,
+      "quote": "公司CCD六轴独立机械钻孔机搭载自主专利的3D背钻及钻测一体技术，可实现超短残桩和超高同心度。"
+    },
+    {
+      "name": "三维五轴切割头",
+      "asset_type": "core_technology",
+      "related_product": "高功率激光切割设备",
+      "quantitative_info": null,
+      "quote": "公司自主研发的三维五轴切割头升级产品已小批量投入市场，性能提升显著，已成为行业标杆产品。"
+    },
+    {
+      "name": "9.3um波长系列CO2激光器",
+      "asset_type": "core_technology",
+      "related_product": "激光器",
+      "quantitative_info": "国内各主要应用场景均处于垄断地位",
+      "quote": "9.3um波长系列CO2激光器国内各主要应用场景均处于垄断地位，产品性能优于进口同类产品性能。"
+    },
+    {
+      "name": "H582系列焊线机",
+      "asset_type": "device",
+      "related_product": "半导体封测设备",
+      "quantitative_info": null,
+      "quote": "H582系列焊线机凭借在稳定性上的优势，成为老旧进口设备替换的首选。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "14.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元）2,713,408,290.74，前五名客户合计销售金额占年度销售总额比例14.46%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "14.35%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元）1,501,582,474.89，前五名供应商合计采购金额占年度采购总额比例14.35%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "8.38%",
+      "related_entity": "客户第一名",
+      "period": "2025年",
+      "quote": "客户第一名，销售额（元）1,572,421,969.57，占年度销售总额比例8.38%。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "5.55%",
+      "related_entity": "供应商第一名",
+      "period": "2025年",
+      "quote": "供应商第一名，采购额（元）581,091,810.17，占年度采购总额比例5.55%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "智能制造装备属于技术密集型行业，技术更新换代周期越来越短。若公司未来难以保持在市场中的技术领先优势，或影响公司产品的市场竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术研发风险：智能制造装备属于技术密集型行业，公司的核心竞争力主要体现在与产品有关的技术优势及产品服务解决方案上。随着市场竞争的加剧，技术更新换代周期越来越短。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "智能制造装备行业良好的市场前景吸引众多投资者进入，加剧行业内企业竞争。若公司不能持续进行技术创新，可能失去领先优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争加剧的风险：智能制造装备行业良好的市场前景及投资收益预期吸引众多投资者进入该行业，使行业规模不断扩大，加剧行业内企业竞争。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司经营规模持续提升，子公司及独立业务单元数量增加，管理控制难度增加，或影响公司整体运营效率。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "管理风险：公司近年来一直处于高速发展状态，经营规模持续提升，相应的子公司及独立业务单元数量也不断增加...公司经营决策、人员管理和风险控制的难度仍在不断增加。"
+    },
+    {
+      "risk_type": "other",
+      "description": "关键技术人员系公司生存与发展之关键。随着行业对专业人才的需求与日俱增，人才竞争不断加剧，存在关键人员流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心技术人员流失的风险：关键技术人员系公司生存与发展之关键，亦为公司获得持续竞争优势之基础。但随着行业对专业人才的需求与日俱增，人才竞争不断加剧。"
+    },
+    {
+      "risk_type": "other",
+      "description": "设备市场存在周期性波动，个别年份可能出现销售增速下降、销售出现波动等情况。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "销售增速下降风险：近年来，设备市场周期性波动态势给公司带来相应的经营风险...但不排除个别年份出现销售增速下降、销售出现波动等情况的可能性。"
+    }
+  ]
+}

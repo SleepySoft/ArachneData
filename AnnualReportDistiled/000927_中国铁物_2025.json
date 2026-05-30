@@ -1,0 +1,462 @@
+{
+  "company_name_mentioned": "中国铁路物资股份有限公司",
+  "produces": [
+    {
+      "name": "铁路产业综合服务",
+      "type": "service",
+      "revenue_proportion": "64.52%",
+      "quote": "公司的主营业务为铁路产业综合服务、供应链集成服务、综合物流服务。... 分行业 铁路产业综合服务 22,141,004,137.13 64.52%"
+    },
+    {
+      "name": "供应链集成服务",
+      "type": "service",
+      "revenue_proportion": "25.22%",
+      "quote": "公司的主营业务为铁路产业综合服务、供应链集成服务、综合物流服务。... 分行业 ... 供应链集成服务 8,654,998,044.38 25.22%"
+    },
+    {
+      "name": "综合物流服务",
+      "type": "service",
+      "revenue_proportion": "10.26%",
+      "quote": "公司的主营业务为铁路产业综合服务、供应链集成服务、综合物流服务。... 分行业 ... 综合物流服务 3,522,120,786.64 10.26%"
+    },
+    {
+      "name": "铁路燃油供应（柴油、润滑油）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司是我国国铁市场铁路柴油、润滑油的重要供应链集成服务商，通过燃油配送系统（CROSS）高效为铁路运输企业提供柴油、润滑油等油品的采购、供应、仓储、配送、现场加注等集成服务。"
+    },
+    {
+      "name": "钢轨供应链集成服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "建立了全流程的钢轨供应链集成服务体系，是国内铁路钢轨供应链管理的主要服务商，为铁路客户提供涵盖质量监督、采购供应、运输组织、焊接加工、运营维护、智能维保、数字服务等不同环节的钢轨供应链集成服务。"
+    },
+    {
+      "name": "润滑油脂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司逐步形成研发转化、生产制造、终端销售、售后服务一体化的‘研产销服’润滑油脂业务体系，致力为用户提供润滑油脂综合解决方案。自有品牌‘天马’润滑油产品已推广至国铁外市场。"
+    },
+    {
+      "name": "水泥及其制品、混凝土轨枕、铁路减振扣件",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的水泥及其制品、混凝土轨枕以及铁路减振扣件等铁路相关产品，在区域市场和细分领域具有较强市场竞争力。"
+    },
+    {
+      "name": "铁路运营维护技术服务",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司深入推进人工智能技术运用和产品研发... 实现道岔智能打磨机器人、TIDV轨道智能检测、现场焊‘智脑’等规模化技术转化。开展了线路综合检测、钢轨道岔廓形设计、高铁轨道线路斜裂纹检测... 等线路综合运维集成服务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "柴油、润滑油",
+      "target_product": "铁路燃油供应",
+      "cost_proportion": null,
+      "quote": "公司是我国国铁市场铁路柴油、润滑油的重要供应链集成服务商，通过燃油配送系统（CROSS）高效为铁路运输企业提供柴油、润滑油等油品的采购、供应、仓储、配送、现场加注等集成服务。"
+    },
+    {
+      "name": "钢轨",
+      "target_product": "钢轨供应链集成服务",
+      "cost_proportion": null,
+      "quote": "建立了全流程的钢轨供应链集成服务体系，是国内铁路钢轨供应链管理的主要服务商。"
+    },
+    {
+      "name": "煤炭、钢材、水泥、能源、化工品、金属、矿产、粮食等大宗物资",
+      "target_product": "供应链集成服务",
+      "cost_proportion": null,
+      "quote": "公司为工程建设项目、生产制造企业、大宗物资上下游企业，提供钢材、煤炭、水泥、能源、化工品、金属、矿产、粮食等大宗物资‘贸易+物流’的一体化集成服务。"
+    },
+    {
+      "name": "物流服务",
+      "target_product": "综合物流服务",
+      "cost_proportion": null,
+      "quote": "公司主要供应商情况... 前五名供应商合计采购金额（元） 17,745,775,391.17... 公司前 5 名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 7,423,396,648.35 24.00% 2 第二名 4,626,361,209.19 14.96% 3 第三名 2,562,703,389.88 8.28% 4 第四名 1,852,470,983.59 5.99% 5 第五名 1,280,843,160.16 4.14%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "轨道交通",
+      "source_product": "铁路产业综合服务",
+      "quote": "建立了与国家铁路、地方铁路、城市轨道交通等国内外轨道交通领域相适应的物资供应链集成服务和运营维护服务体系。"
+    },
+    {
+      "name": "铁路运输",
+      "source_product": "铁路燃油供应",
+      "quote": "高效为铁路运输企业提供柴油、润滑油等油品的采购、供应、仓储、配送、现场加注等集成服务。"
+    },
+    {
+      "name": "工程建设项目",
+      "source_product": "供应链集成服务",
+      "quote": "公司面向国内外重点工程建设项目，通过整合招标采购、物流运输、中转存储、装卸及现场服务等环节... 制定有竞争力的... 供应链解决方案。"
+    },
+    {
+      "name": "生产制造企业（钢铁、机械、装备等）",
+      "source_product": "供应链集成服务",
+      "quote": "公司面向钢铁、机械、装备等生产制造企业，深度嵌入产业链、供应链... 提供原材料采购供应、产品销售、运输、仓储、加工包装、信息服务等全流程集成服务。"
+    },
+    {
+      "name": "能源化工物流",
+      "source_product": "综合物流服务",
+      "quote": "公司着力构建安全、绿色、高效的能源化工物流产业链... 业务布局涵盖运输、仓储、货代、供应链集成服务、数字平台、包装及监管认证等单元。"
+    },
+    {
+      "name": "中老铁路、一带一路项目",
+      "source_product": "供应链集成服务/物流服务",
+      "quote": "积极融入‘一带一路’建设，紧跟中国高铁走出去的步伐... 为中老铁路技改工程提供物资供应、海外质监等业务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赵晓宏",
+      "role": "董事长",
+      "quote": "董事长：赵晓宏... 公司法定代表人 赵晓宏"
+    },
+    {
+      "name": "孙珂",
+      "role": "董事、总经理",
+      "quote": "孙珂 男 46 董事... 总经理... 现任本公司党委副书记、董事、总经理"
+    },
+    {
+      "name": "朱旭",
+      "role": "董事、副总经理",
+      "quote": "朱旭 男 58 董事... 副总经理... 现任本公司党委委员、董事、副总经理"
+    },
+    {
+      "name": "谢岚",
+      "role": "总会计师",
+      "quote": "谢岚 女 46 总会计师... 现任本公司总会计师"
+    },
+    {
+      "name": "孟君奎",
+      "role": "副总经理、董事会秘书",
+      "quote": "孟君奎 男 52... 董事会秘书... 现任本公司副总经理、董事会秘书"
+    },
+    {
+      "name": "王建中",
+      "role": "副总经理",
+      "quote": "王建中 男 50 副总经理"
+    },
+    {
+      "name": "侯治国",
+      "role": "副总经理",
+      "quote": "侯治国 男 46 副总经理"
+    },
+    {
+      "name": "蔡进",
+      "role": "独立董事",
+      "quote": "蔡进 男 67 独立董事"
+    },
+    {
+      "name": "张骥翼",
+      "role": "独立董事",
+      "quote": "张骥翼 男 63 独立董事"
+    },
+    {
+      "name": "李军",
+      "role": "独立董事",
+      "quote": "李军 男 63 独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国物流集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 中国物流集团有限公司... 持股比例 37.81%"
+    },
+    {
+      "name": "中国国家铁路集团有限公司",
+      "relation_type": "customer",
+      "business_details": "重要客户",
+      "quote": "公司是我国国铁市场铁路柴油、润滑油的重要供应链集成服务商... 建立了覆盖全路汽配加油点 1300 余个，柴油联储库容近 14.4 万 m³，构建起铁路机车柴油销售网络和完备的油品配送体系。"
+    },
+    {
+      "name": "中铁油料集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "油料集团 指 全资子公司中铁油料集团有限公司"
+    },
+    {
+      "name": "中铁物轨道科技服务集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "轨道集团 指 全资子公司中铁物轨道科技服务集团有限公司"
+    },
+    {
+      "name": "中铁物总国际招标有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "招标公司 指 全资子公司中铁物总国际招标有限公司"
+    },
+    {
+      "name": "中铁物总供应链科技集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "供应链集团 指 全资子公司中铁物总供应链科技集团有限公司"
+    },
+    {
+      "name": "中铁物建龙供应链科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "建龙科技 指 控股子公司中铁物建龙供应链科技有限公司"
+    },
+    {
+      "name": "小鹏汽车",
+      "relation_type": "customer",
+      "business_details": "新能源汽车物流服务客户",
+      "quote": "成功切入国内新能源制造企业核心供应链，打造小鹏汽车循环取货、VMI 仓配... 获评小鹏汽车‘入场物流优秀服务商’。"
+    },
+    {
+      "name": "中海壳牌",
+      "relation_type": "customer",
+      "business_details": "能源化工物流客户",
+      "quote": "中标中海壳牌公路运输业务"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "铁路产业综合服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "22,141,004,137.13",
+      "revenue_proportion": "64.52%",
+      "gross_margin": "4.43%",
+      "yoy_change": "-11.71%",
+      "quote": "分行业 铁路产业综合服务 22,141,004,137.13 64.52%... 铁路产业综合服务 22,141,004,137.13 21,159,319,371.58 4.43% -11.71% -12.04% 增加0.35个百分点"
+    },
+    {
+      "name": "供应链集成服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "8,654,998,044.38",
+      "revenue_proportion": "25.22%",
+      "gross_margin": "9.11%",
+      "yoy_change": "-11.09%",
+      "quote": "分行业 ... 供应链集成服务 8,654,998,044.38 25.22%... 供应链集成服务 8,654,998,044.38 7,866,207,540.87 9.11% -11.09% -12.68% 增加1.66个百分点"
+    },
+    {
+      "name": "综合物流服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,522,120,786.64",
+      "revenue_proportion": "10.26%",
+      "gross_margin": "8.43%",
+      "yoy_change": "6.68%",
+      "quote": "分行业 ... 综合物流服务 3,522,120,786.64 10.26%... 综合物流服务 3,522,120,786.64 3,225,287,118.19 8.43% 6.68% 3.47% 增加2.84个百分点"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "3,883,305,760.32",
+      "revenue_proportion": "11.32%",
+      "gross_margin": "3.04%",
+      "yoy_change": "-20.53%",
+      "quote": "分地区 东北 3,883,305,760.32 11.32%... 东北 3,883,305,760.32 3,765,412,798.36 3.04% -20.53% -20.91% 增加0.47个百分点"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "7,983,875,054.33",
+      "revenue_proportion": "23.26%",
+      "gross_margin": "10.33%",
+      "yoy_change": "-7.14%",
+      "quote": "分地区 华北 7,983,875,054.33 23.26%... 华北 7,983,875,054.33 7,159,519,557.76 10.33% -7.14% -7.72% 增加0.57个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "危险货物公路运输",
+      "metric_type": "capacity",
+      "value": "近400台",
+      "period": null,
+      "quote": "公司拥有除第1和第7类外的其他全部七类危险货物公路运输资质，自有运输车辆近 400 台。"
+    },
+    {
+      "product": "LNG物流",
+      "metric_type": "capacity",
+      "value": "年运量可达23万吨",
+      "period": null,
+      "quote": "LNG 物流在海南、新疆不断拓展，业务覆盖至国内 6 省，年运量可达 23 万吨。"
+    },
+    {
+      "product": "中欧（亚）班列",
+      "metric_type": "sales_volume",
+      "value": "累计发行 5.05 万 TEU",
+      "period": null,
+      "quote": "稳定组织开行中亚、中欧班列... 累计发行 5.05 万 TEU，同比增长 26.4%。"
+    },
+    {
+      "product": "中老铁路物流作业",
+      "metric_type": "production_volume",
+      "value": "累计重箱装卸作业量 464.9 万吨，接取送达 129.2 万吨",
+      "period": null,
+      "quote": "在万象南、蓬洪、万荣站三站装卸及磨万铁路稳定开展接取送达物流作业... 累计重箱装卸作业量 464.9 万吨，接取送达 129.2 万吨。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "设立中铁物（喀什）国际物流有限公司",
+      "project_type": "capacity_expansion",
+      "location": "新疆喀什",
+      "investment_amount": "1,000万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司所属中国铁路物资武汉有限公司投资 1,000 万元设立中铁物（喀什）国际物流有限公司，持股比例 100%"
+    },
+    {
+      "name": "设立中国铁路物资吉尔吉斯斯坦有限公司",
+      "project_type": "capacity_expansion",
+      "location": "吉尔吉斯斯坦",
+      "investment_amount": "约500万元人民币",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "与其全资子公司中国铁路物资长沙有限公司共同投资约 500 万元人民币设立中国铁路物资吉尔吉斯斯坦有限公司"
+    },
+    {
+      "name": "设立中铁物总多式联运（宁夏）有限公司",
+      "project_type": "capacity_expansion",
+      "location": "宁夏",
+      "investment_amount": "255万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司所属供应链集团与中铁国际多式联运有限公司共同设立中铁物总多式联运（宁夏）有限公司，其中供应链集团投资 255 万元，持股比例 51%"
+    },
+    {
+      "name": "设立中铁物总供应链科技（山东）有限公司",
+      "project_type": "capacity_expansion",
+      "location": "山东邹平",
+      "investment_amount": "660万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司所属供应链集团与邹平市汇创通达建设发展有限公司共同设立中铁物总供应链科技（山东）有限公司，其中供应链集团投资 660 万元，持股比例 66%"
+    },
+    {
+      "name": "设立中铁物（深圳）物流有限公司",
+      "project_type": "capacity_expansion",
+      "location": "深圳深汕",
+      "investment_amount": "2,400万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司所属工业集团与深圳市宇驰产业空间发展有限公司共同设立中铁物（深圳）物流有限公司，其中工业集团投资 2,400 万元，持股比例 80%"
+    },
+    {
+      "name": "收购《铁路采购与物流》杂志社有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "53万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司专业化整合中国物流集团内部资源，以非公开协议转让方式，投资 53 万元收购中国物流集团所持《铁路采购与物流》杂志社有限公司 100%股权"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "铁路燃油配送系统（CROSS）",
+      "asset_type": "technical_platform",
+      "related_product": "铁路燃油供应",
+      "quantitative_info": null,
+      "quote": "公司依托... 燃油配送系统（CROSS）高效为铁路运输企业提供柴油、润滑油等油品的采购、供应、仓储、配送、现场加注等集成服务。"
+    },
+    {
+      "name": "钢轨全寿命周期管理系统",
+      "asset_type": "technical_platform",
+      "related_product": "钢轨供应链集成服务",
+      "quantitative_info": null,
+      "quote": "公司强化钢轨供应链信息管理系统平台应用... 打造记录钢轨生产、焊接、探伤、打磨等全寿命周期的数字孪生系统。"
+    },
+    {
+      "name": "“流云采”数字化交易综合服务电商平台",
+      "asset_type": "software",
+      "related_product": "供应链集成服务",
+      "quantitative_info": null,
+      "quote": "公司所属建龙科技搭建的数字化交易综合服务电商平台‘流云采’"
+    },
+    {
+      "name": "“AI+轨道运维”、“AI+物流供应链”、“AI+物流采购招投标服务”人工智能场景示范项目",
+      "asset_type": "core_technology",
+      "related_product": "铁路运维、物流供应链、招投标",
+      "quantitative_info": null,
+      "quote": "公司积极发展新质生产力，践行‘AI+物流’发展战略，加快实施‘AI+物流’专项行动。... 投资建设‘AI+轨道运维’‘AI+物流采购招投标服务’‘AI+物流供应链’等项目"
+    },
+    {
+      "name": "车载式高速钢轨廓形测量仪",
+      "asset_type": "device",
+      "related_product": "铁路运营维护",
+      "quantitative_info": null,
+      "quote": "公司开发的‘车载式高速钢轨廓形测量仪’... 可实现钢轨廓形的更高精度（±0.1mm）、更高速度的便捷检测。"
+    },
+    {
+      "name": "智能化钢轨廓形打磨方案设计系统",
+      "asset_type": "software",
+      "related_product": "铁路运营维护",
+      "quantitative_info": null,
+      "quote": "研发了‘智能化钢轨廓形打磨方案设计系统’，实现钢轨道岔打磨质量（GQI）的数字化评价。"
+    },
+    {
+      "name": "专利与软著",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "有效专利总数达 181 个，其中发明专利 42 个，实用新型专利 137 个，外观设计专利 2 个。获得软件著作权 221 个。",
+      "quote": "报告期末，公司持有有效专利总数达 181 个，其中发明专利 42 个，实用新型专利 137 个，外观设计专利 2 个。获得软件著作权 221 个。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "70.67%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要销售客户情况 前五名客户合计销售金额（元） 24,566,659,694.82 前五名客户合计销售金额占年度销售总额比例 70.67%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "51.79%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前 5 大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 18,003,087,605.80 51.79%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "57.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要供应商情况 前五名供应商合计采购金额（元） 17,745,775,391.17 前五名供应商合计采购金额占年度采购总额比例 57.37%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "24.00%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前 5 名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 7,423,396,648.35 24.00%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "铁路行业市场化改革持续推进... 铁路综合物流市场前景广阔但竞争加剧",
+      "related_entity": null,
+      "related_product": "铁路综合物流",
+      "quote": "市场竞争加剧的风险：铁路行业市场化改革持续推进，服务需求升级，铁路货运向现代物流转型的步伐加快，铁路综合物流市场前景广阔但竞争加剧。"
+    },
+    {
+      "risk_type": "other",
+      "description": "业务结构和转型风险，新业务对资源整合和数字化支撑提出了更高要求",
+      "related_entity": null,
+      "related_product": "供应链集成服务、综合物流服务",
+      "quote": "业务结构和转型风险：公司正加速向供应链集成服务和综合物流服务转型，业务结构持续优化。新业务对资源整合和数字化支撑提出了更高要求。"
+    },
+    {
+      "risk_type": "other",
+      "description": "投资并购面临的风险，包括对市场环境及政策变化研判不足、投资项目储备不足等",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "投资并购面临的风险：公司积极应对市场变化，通过投资并购寻求外延式增长，过程中可能面临以下风险：对市场环境及政策变化研判不足、投资项目储备不足，错过投资机会..."
+    }
+  ]
+}

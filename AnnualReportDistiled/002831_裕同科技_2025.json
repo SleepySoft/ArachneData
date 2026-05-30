@@ -1,0 +1,531 @@
+{
+  "company_name_mentioned": "深圳市裕同包装科技股份有限公司",
+  "produces": [
+    {
+      "name": "纸质包装",
+      "type": "device",
+      "revenue_proportion": "报告期分行业：纸制品包装收入16,075,337,544.03元，占营业收入比重93.26%",
+      "quote": "公司主要产品为纸质包装、植物纤维环保包装...其中，纸质包装产品为彩盒、礼盒、说明书和纸箱等。"
+    },
+    {
+      "name": "植物纤维环保包装",
+      "type": "device",
+      "revenue_proportion": "报告期分产品：环保纸塑产品收入1,292,745,710.91元，占营业收入比重7.50%",
+      "quote": "植物纤维环保包装为消费电子产品包装内托、外盒及环保型一次性餐具等。"
+    },
+    {
+      "name": "可降解新材料制品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要产品为纸质包装、植物纤维环保包装、可降解新材料制品、软包装、功能材料模切、文化创意印刷产品、标签、炫光膜、消费电子零部件及其他新材料等。"
+    },
+    {
+      "name": "软包装",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "软包装为智能眼镜等智能穿戴设备及智能家居的软包装、软材料以及配套结构件。"
+    },
+    {
+      "name": "功能材料模切",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "功能材料模切产品为缓冲垫片、减震泡棉、保护膜和防尘网布等。"
+    },
+    {
+      "name": "文化创意印刷产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "文化创意印刷产品为个性化定制印刷产品、汉纸印刷产品和广告宣传品等。"
+    },
+    {
+      "name": "消费电子零部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "消费电子零部件主要为声学设备及模组、折叠屏手机结构件。"
+    },
+    {
+      "name": "其他新材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "其他新材料为碳纤复材、玻纤复材等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "纸张",
+      "target_product": "纸制精品包装",
+      "cost_proportion": "报告期营业成本构成：纸制品包装-主营产品-直接材料金额7,253,843,301.73元，占营业成本比重56.49%",
+      "quote": "纸制品包装-主营产品 直接材料 7,253,843,301.73 56.49%"
+    },
+    {
+      "name": "油墨",
+      "target_product": "包装产品",
+      "cost_proportion": null,
+      "quote": "公司强化了与上游纸厂的战略合作...并提高了海外进口原材料的比例。"
+    },
+    {
+      "name": "设备",
+      "target_product": "生产",
+      "cost_proportion": null,
+      "quote": "公司定制化的车间和生产线，能够高效满足大批量型客户的需求。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子",
+      "source_product": "纸质包装、植物纤维环保包装等",
+      "quote": "公司在全球消费电子、白酒等领域有着较高的客户覆盖度...服务的客户主要分布在消费电子、酒、个人护理、食品、医疗保健等核心领域。"
+    },
+    {
+      "name": "白酒",
+      "source_product": "纸质包装",
+      "quote": "在白酒行业，与知名酒企合作建成的白酒行业首家“灯塔工厂”。"
+    },
+    {
+      "name": "个人护理（化妆品、奢侈品）",
+      "source_product": "纸质包装",
+      "quote": "在化妆品、奢侈品、食品、医疗保健等领域持续提升市场份额。"
+    },
+    {
+      "name": "食品",
+      "source_product": "纸质包装",
+      "quote": "在化妆品、奢侈品、食品、医疗保健等领域持续提升市场份额。"
+    },
+    {
+      "name": "医疗保健",
+      "source_product": "纸质包装",
+      "quote": "在化妆品、奢侈品、食品、医疗保健等领域持续提升市场份额。"
+    },
+    {
+      "name": "智能硬件",
+      "source_product": "包装产品",
+      "quote": "覆盖智能硬件、化妆品、奢侈品、快消品、文创、潮玩、卡牌桌游和大健康等多个行业。"
+    },
+    {
+      "name": "快消品",
+      "source_product": "包装产品",
+      "quote": "覆盖智能硬件、化妆品、奢侈品、快消品、文创、潮玩、卡牌桌游和大健康等多个行业。"
+    },
+    {
+      "name": "动力电池",
+      "source_product": "重型包装",
+      "quote": "重型包装业务目前已覆盖重型纸箱、木箱...等领域，并逐步在新能源汽车、动力电池...等领域构建起较完善的重型包装解决方案。"
+    },
+    {
+      "name": "AI服务器",
+      "source_product": "重型包装",
+      "quote": "重型包装业务...等领域构建起较完善的重型包装解决方案, 搭建了覆盖全国20多个城市的稳定供应体系。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王华君",
+      "role": "董事长兼总裁",
+      "quote": "公司负责人王华君...2010年3月至今担任本公司董事长兼总裁。"
+    },
+    {
+      "name": "吴兰兰",
+      "role": "副董事长兼副总裁",
+      "quote": "2010年3月至今担任本公司副董事长兼副总裁。"
+    },
+    {
+      "name": "文成",
+      "role": "副总裁兼财务总监",
+      "quote": "2025年4月起任公司副总裁、财务总监。"
+    },
+    {
+      "name": "刘中庆",
+      "role": "董事兼副总裁",
+      "quote": "2020年6月至今担任本公司董事。2016年5月至今先后担任本公司副总裁、高级副总裁。"
+    },
+    {
+      "name": "祝勇利",
+      "role": "副总裁",
+      "quote": "2016年5月至今先后担任本公司副总裁、高级副总裁。"
+    },
+    {
+      "name": "王云华",
+      "role": "副总裁",
+      "quote": "2015年8月至今先后担任本公司副总裁、高级副总裁。"
+    },
+    {
+      "name": "李宇轩",
+      "role": "副总裁兼董事会秘书",
+      "quote": "2021年4月26日起担任深圳市裕同包装科技股份有限公司副总裁、董事会秘书。"
+    },
+    {
+      "name": "Ho Yin Howard Ma",
+      "role": "副总裁",
+      "quote": "2025年4月起任公司高级副总裁。"
+    },
+    {
+      "name": "邓琴",
+      "role": "职工代表董事",
+      "quote": "2025年9月至今担任本公司职工代表董事。"
+    },
+    {
+      "name": "刘宗柳",
+      "role": "董事",
+      "quote": "2020年6月至今担任本公司董事。"
+    },
+    {
+      "name": "吴宇恩",
+      "role": "独立董事",
+      "quote": "2023年8月至今担任本公司独立董事。"
+    },
+    {
+      "name": "王利婕",
+      "role": "独立董事",
+      "quote": "2020年6月至今担任本公司独立董事。"
+    },
+    {
+      "name": "邓赟",
+      "role": "独立董事",
+      "quote": "2020年6月至今担任本公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳华宝利电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "华宝利围绕AI智能硬件、机器人EMS代工。",
+      "quote": "华宝利围绕AI智能硬件、机器人EMS代工，持续推进新项目导入与客户合作深化。"
+    },
+    {
+      "name": "深圳市仁禾智能实业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "仁禾智能成功切入智能眼镜充电盒包装业务。",
+      "quote": "仁禾智能成功切入智能眼镜充电盒包装业务，并迅速获得头部客户的认可。"
+    },
+    {
+      "name": "深圳市裕同新材科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "裕同新材聚焦3C电子、高速电机等领域，推进碳纤维功能材料的产业化。",
+      "quote": "裕同新材聚焦3C电子、高速电机等领域，推进碳纤维功能材料的产业化。"
+    },
+    {
+      "name": "东莞市华研新材料科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "华研科技将加大金属新材料领域的研发投入。",
+      "quote": "华研科技将加大金属新材料领域的研发投入，依托华研科技已有的研发、设计及生产能力。"
+    },
+    {
+      "name": "惠州裕同精密电子有限公司",
+      "relation_type": "customer",
+      "business_details": "向关联人采购原材料/商品",
+      "quote": "惠州裕同精密电子有限公司 采购 原材料/商品 10.34 0.14%"
+    },
+    {
+      "name": "深圳市君同商贸有限公司",
+      "relation_type": "supplier",
+      "business_details": "接受关联人提供的劳务/服务（租赁房屋）",
+      "quote": "深圳市君同商贸有限公司 接受关联人提供的劳务/服务 房屋 3,201.33 99.62%"
+    },
+    {
+      "name": "瑞士国家研究院",
+      "relation_type": "joint_venture",
+      "business_details": "公司携手瑞典国家研究院...等科研院所，全方位推进产学研合作及人才合作。",
+      "quote": "公司还携手瑞典国家研究院、中国制浆造纸研究院...等科研院所，全方位推进产学研合作及人才合作。"
+    },
+    {
+      "name": "中国制浆造纸研究院",
+      "relation_type": "joint_venture",
+      "business_details": "公司携手...中国制浆造纸研究院...等科研院所，全方位推进产学研合作及人才合作。",
+      "quote": "公司还携手瑞典国家研究院、中国制浆造纸研究院...等科研院所，全方位推进产学研合作及人才合作。"
+    },
+    {
+      "name": "南方科技大学",
+      "relation_type": "joint_venture",
+      "business_details": "公司携手...南方科技大学...等科研院所，全方位推进产学研合作及人才合作。",
+      "quote": "公司还携手...南方科技大学...等科研院所，全方位推进产学研合作及人才合作。"
+    },
+    {
+      "name": "国家菌草中心",
+      "relation_type": "joint_venture",
+      "business_details": "与国家菌草中心合作，保障稳定供应。",
+      "quote": "巨菌草原料与国家菌草中心合作，保障稳定供应。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "纸制品包装",
+      "segment_type": "product_line",
+      "revenue_amount": "16,075,337,544.03",
+      "revenue_proportion": "93.26%",
+      "gross_margin": "26.65%",
+      "yoy_change": "0.37%",
+      "quote": "分行业 纸制品包装 16,075,337,544.03 93.26% ... 毛利率 26.65% 0.37%"
+    },
+    {
+      "name": "纸制精品包装",
+      "segment_type": "product_line",
+      "revenue_amount": "12,369,103,530.10",
+      "revenue_proportion": "71.76%",
+      "gross_margin": "26.77%",
+      "yoy_change": "-0.39%",
+      "quote": "分产品 纸制精品包装 12,369,103,530.10 71.76% ... 毛利率 26.77% -0.39%"
+    },
+    {
+      "name": "包装配套产品",
+      "segment_type": "product_line",
+      "revenue_amount": "2,495,135,545.14",
+      "revenue_proportion": "14.47%",
+      "gross_margin": "23.19%",
+      "yoy_change": "-0.19%",
+      "quote": "分产品 包装配套产品 2,495,135,545.14 14.47% ... 毛利率 23.19% -0.19%"
+    },
+    {
+      "name": "环保纸塑产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,292,745,710.91",
+      "revenue_proportion": "7.50%",
+      "gross_margin": "23.85%",
+      "yoy_change": "1.70%",
+      "quote": "分产品 环保纸塑产品 1,292,745,710.91 7.50% ... 毛利率 23.85% 1.70%"
+    },
+    {
+      "name": "其他产品",
+      "segment_type": "product_line",
+      "revenue_amount": "723,044,831.10",
+      "revenue_proportion": "4.19%",
+      "gross_margin": "10.28%",
+      "yoy_change": "17.02%",
+      "quote": "分产品 其他产品 723,044,831.10 4.19% ... 毛利率 10.28% 17.02%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "11,107,114,260.47",
+      "revenue_proportion": "64.43%",
+      "gross_margin": "22.19%",
+      "yoy_change": "-7.90%",
+      "quote": "分地区 国内 11,107,114,260.47 64.43% ... 毛利率 22.19% -7.90%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "6,130,918,408.60",
+      "revenue_proportion": "35.57%",
+      "gross_margin": "31.54%",
+      "yoy_change": "20.27%",
+      "quote": "分地区 国外 6,130,918,408.60 35.57% ... 毛利率 31.54% 20.27%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "纸制品包装",
+      "metric_type": "sales_volume",
+      "value": "12,607,044,314.21",
+      "period": "2025年",
+      "quote": "纸制品包装 销售量 元 12,607,044,314.21"
+    },
+    {
+      "product": "纸制品包装",
+      "metric_type": "production_volume",
+      "value": "12,446,929,377.04",
+      "period": "2025年",
+      "quote": "纸制品包装 生产量 元 12,446,929,377.04"
+    },
+    {
+      "product": "纸制品包装",
+      "metric_type": "inventory_volume",
+      "value": "634,590,587.48",
+      "period": "2025年末",
+      "quote": "纸制品包装 库存量 元 634,590,587.48"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "已在全球10个国家、40座城市设有40多个生产基地及4大服务中心",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司已在全球10个国家、40座城市设有40多个生产基地及4大服务中心。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "印尼环保工厂",
+      "project_type": "capacity_expansion",
+      "location": "印度尼西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "印尼环保工厂顺利投产",
+      "expected_completion_time": null,
+      "quote": "年内印尼环保工厂顺利投产，进一步夯实了公司在东南亚地区的产能根基。"
+    },
+    {
+      "name": "马来西亚新山工厂",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚新山",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "马来西亚新山工厂建成投产，有力有效支撑客户全球化供应需求。"
+    },
+    {
+      "name": "重型包装业务",
+      "project_type": "capacity_expansion",
+      "location": "全国20多个城市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "搭建了覆盖全国20多个城市的稳定供应体系",
+      "expected_completion_time": null,
+      "quote": "重型包装业务...搭建了覆盖全国20多个城市的稳定供应体系，助力公司实现进一步增长。"
+    },
+    {
+      "name": "许昌裕同智能工厂",
+      "project_type": "capacity_expansion",
+      "location": "许昌",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "入选中国版“灯塔工厂”",
+      "expected_completion_time": null,
+      "quote": "许昌裕同智能工厂入选中国版“灯塔工厂”。"
+    },
+    {
+      "name": "泸州裕同智能工厂",
+      "project_type": "capacity_expansion",
+      "location": "泸州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "与知名酒企合作建成白酒行业首家“灯塔工厂”并进一步推进智能化升级改造",
+      "expected_completion_time": null,
+      "quote": "泸州裕同与知名酒企合作建成的白酒行业首家“灯塔工厂”进一步推进智能化升级改造。"
+    },
+    {
+      "name": "智能物流系统导入",
+      "project_type": "capacity_expansion",
+      "location": "全球22个基地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成导入",
+      "expected_completion_time": null,
+      "quote": "截至报告期末，公司已在全球22个基地完成智能物流系统导入。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已授权专利1,600项，其中发明专利218项、实用新型专利1,298项、外观设计专利84项。",
+      "quote": "截至报告期末，公司已授权专利1,600项，其中发明专利218项、实用新型专利1,298项、外观设计专利84项。"
+    },
+    {
+      "name": "国家级工业设计中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已获得国家级工业设计中心...等多个研发平台认定。"
+    },
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后建立了ISO9001质量管理体系...等。"
+    },
+    {
+      "name": "ISO14001环境管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建立起 ISO14001环境管理体系...等。"
+    },
+    {
+      "name": "FSC-CoC森林产销监管链体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司主动选用环保材料，建立了FSC-CoC森林产销监管链体系。"
+    },
+    {
+      "name": "博士后科研工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司获批设立博士后科研工作站。"
+    },
+    {
+      "name": "植物基无氟防油技术",
+      "asset_type": "core_technology",
+      "related_product": "环保包装",
+      "quantitative_info": null,
+      "quote": "公司自主研发的植物基无氟防油技术被...多家海外权威媒体报道。"
+    },
+    {
+      "name": "智能工厂",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "智能工厂建设进一步加速，6个基地新导入智能物流系统",
+      "quote": "报告期内，公司智能工厂建设进一步加速，6个基地新导入智能物流系统。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "39.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 39.13%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "10.32%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 10.32%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "17.42%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 3,002,320,372.63 17.42%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "前五名客户合计销售金额占年度销售总额比例为39.13%，第一大客户销售占比为17.42%。",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 39.13%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "印刷包装行业市场集中度较低，进入门槛不高，行业竞争激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "印刷包装行业市场集中度较低，进入门槛不高，行业竞争激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受宏观环境的变动以及供需变化等因素影响，印刷包装企业面临着较大的原材料价格波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受宏观环境的变动以及供需变化等因素影响，印刷包装企业面临着较大的原材料价格波动风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "海外人才不足风险：近年来公司持续加大海外市场投入，积极推进全球业务布局。海外生产运营面临管理运营、市场开拓、文化障碍、合规与法律问题等一系列挑战，均需要专业的人才，如不能妥善构建富有竞争力的海外人才团队，将对公司的国际化发展产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "海外人才不足风险：近年来公司持续加大海外市场投入，积极推进全球业务布局...如不能妥善构建富有竞争力的海外人才团队，将对公司的国际化发展产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观环境风险：印刷包装产业与宏观经济周期相关性较高，外部环境的不利因素影响消费信心与预期，进而对包装行业的整体需求产生负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观环境风险：印刷包装产业与宏观经济周期相关性较高，外部环境的不利因素影响消费信心与预期，进而对包装行业的整体需求产生负面影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术创新及行业发展趋势等也会影响行业的周期性表现。行业正面临如何培育和发展“新质生产力”的时代命题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术创新及行业发展趋势等也会影响行业的周期性表现...行业正面临如何培育和发展“新质生产力”的时代命题。"
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "company_name_mentioned": "无锡华东重型机械股份有限公司",
+  "produces": [
+    {
+      "name": "集装箱装卸设备",
+      "type": "device",
+      "revenue_proportion": "98.81%",
+      "quote": "公司集装箱装卸设备（港机）主要产品有岸桥、轨道吊、轮胎吊等...主要应用于港口的集装箱船舶装卸作业...高端装备制造 794,779,909.84 98.81%"
+    },
+    {
+      "name": "芯片领域产品",
+      "type": "device",
+      "revenue_proportion": "0.92%",
+      "quote": "芯片领域产品 7,407,092.49 0.92%"
+    },
+    {
+      "name": "芯片模组（独立显卡）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "锐信图芯的产品和技术方案有芯片、芯片模组（独立显卡）、软硬件技术解决方案。"
+    },
+    {
+      "name": "软硬件技术解决方案",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "锐信图芯的产品和技术方案有芯片、芯片模组（独立显卡）、软硬件技术解决方案。"
+    },
+    {
+      "name": "技术服务及其他",
+      "type": "service",
+      "revenue_proportion": "0.01%",
+      "quote": "技术服务及其他 84,522.02 0.01%"
+    },
+    {
+      "name": "光伏电池片",
+      "type": "material",
+      "revenue_proportion": "0.26%",
+      "quote": "光伏电池片及其他 2,055,656.25 0.26%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "集装箱装卸设备",
+      "cost_proportion": null,
+      "quote": "公司集装箱装卸设备的主要原材料为钢材和综合非标件（钢材为其主要原材料之一），钢材对公司产品成本的影响较大。"
+    },
+    {
+      "name": "综合非标件",
+      "target_product": "集装箱装卸设备",
+      "cost_proportion": null,
+      "quote": "公司集装箱装卸设备的主要原材料为钢材和综合非标件"
+    }
+  ],
+  "applications": [
+    {
+      "name": "港口集装箱船舶装卸作业",
+      "source_product": "集装箱装卸设备",
+      "quote": "主要应用于港口的集装箱船舶装卸作业"
+    },
+    {
+      "name": "铁路集装箱装卸",
+      "source_product": "集装箱装卸设备",
+      "quote": "铁路集装箱装卸"
+    },
+    {
+      "name": "集装箱堆场堆存和拖车装卸装箱",
+      "source_product": "集装箱装卸设备",
+      "quote": "集装箱堆场的堆存和拖车装卸装箱等"
+    },
+    {
+      "name": "信创市场",
+      "source_product": "GPU芯片",
+      "quote": "第一代产品瞄准国内的信创市场及特种工业。"
+    },
+    {
+      "name": "特种工业",
+      "source_product": "GPU芯片",
+      "quote": "第一代产品瞄准国内的信创市场及特种工业。"
+    },
+    {
+      "name": "太阳能发电",
+      "source_product": "N型TOPCon高效电池片",
+      "quote": "主营 N型 TOPCon高效电池片，是太阳能发电的核心部件"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "翁杰",
+      "role": "董事长、总经理",
+      "quote": "公司负责人翁杰...现任华东重机（新加坡）发展有限公司董事，无锡华东智能装备有限公司执行董事兼总经理...本公司董事长兼总经理。"
+    },
+    {
+      "name": "惠岭",
+      "role": "董事、财务总监、副总经理",
+      "quote": "主管会计工作负责人惠岭...现任无锡华东光能科技有限公司董事，本公司董事、副总经理、财务总监。"
+    },
+    {
+      "name": "徐大鹏",
+      "role": "董事",
+      "quote": "徐大鹏先生...现任无锡华东光能科技有限公司董事长，嘉兴华东联和氢能科技有限公司董事，厦门锐信图芯科技有限公司董事...本公司董事、法务总监。"
+    },
+    {
+      "name": "黄羽",
+      "role": "董事、副总经理",
+      "quote": "黄羽女士...现任本公司董事、副总经理。"
+    },
+    {
+      "name": "陶俊清",
+      "role": "董事",
+      "quote": "陶俊清先生...现任港机事业部分公司总经理，公司董事。"
+    },
+    {
+      "name": "谢奕",
+      "role": "职工董事",
+      "quote": "谢奕先生...现任本公司港机事业分公司安装总监、公司职工董事。"
+    },
+    {
+      "name": "高卫东",
+      "role": "独立董事",
+      "quote": "高卫东先生...现任经纬纺织机械股份有限公司董事、华峰化学股份有限公司独立董事、本公司独立董事。"
+    },
+    {
+      "name": "朱和平",
+      "role": "独立董事",
+      "quote": "朱和平先生...现任无锡新洁能股份有限公司独立董事、鹏鹞环保股份有限公司独立董事、本公司独立董事。"
+    },
+    {
+      "name": "苏晓东",
+      "role": "独立董事",
+      "quote": "苏晓东先生...现任江苏赛福天集团股份有限公司独立董事，本公司独立董事。"
+    },
+    {
+      "name": "万红霞",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...姓名 万红霞"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "新加坡港务集团（PSA）",
+      "relation_type": "customer",
+      "business_details": "海外市场的重要客户，公司为其提供集装箱装卸设备。",
+      "quote": "公司港机产品...出口到全球多个国家和地区的港口码头，其中包括新加坡港务集团...和记黄埔等旗下运营的码头。"
+    },
+    {
+      "name": "PSA CORPORATION LIMITED",
+      "relation_type": "customer",
+      "business_details": "重大销售合同当事人，采购自动化轨道式集装箱门式起重机。",
+      "quote": "合同标的...自动化轨道式集装箱门式起重机...对方当事人 PSA CORPORATION LIMITED"
+    },
+    {
+      "name": "厦门锐信图芯科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司2024年10月收购其股权，拓展芯片设计及解决方案业务。",
+      "quote": "公司2024年10月收购厦门锐信图芯科技有限公司，拓展芯片设计及解决方案业务...子公司厦门锐信图芯科技有限公司（合并）"
+    },
+    {
+      "name": "无锡华东光能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光伏业务持股平台，已于2025年6月30日起因破产重整不再纳入合并报表范围。",
+      "quote": "光伏业务主要子公司无锡光能及其合并范围子公司不再纳入公司合并报表范围。"
+    },
+    {
+      "name": "华东光能科技（徐州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光伏业务经营主体，已进入破产重整程序。",
+      "quote": "公司下属子公司无锡光能、徐州光能分别收到法院送达的《民事裁定书》，进入破产重整程序。"
+    },
+    {
+      "name": "广东元元科技有限公司",
+      "relation_type": "customer",
+      "business_details": "公司原5%以上股东周文元控制的企业，向其出售了润星科技100%股权。",
+      "quote": "公司筹划向原持股5%以上股东周文元控制的广东元元科技有限公司（以下简称“广东元元”）出售持有的润星科技100%股权。"
+    },
+    {
+      "name": "广东润星科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原数控机床业务子公司，已于2024年12月出售给广东元元科技有限公司。",
+      "quote": "2024年12月，公司完成重大资产出售标的资产过户手续，通过现金出售润星科技100%股权，剥离数控机床业务。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "集装箱装卸设备",
+      "segment_type": "product_line",
+      "revenue_amount": "794,779,909.84元",
+      "revenue_proportion": "98.81%",
+      "gross_margin": "28.21%",
+      "yoy_change": "168.23%",
+      "quote": "分产品 集装箱装卸设备 794,779,909.84 98.81%...分行业 高端装备制造 794,779,909.84 98.81%...集装箱装卸设备 794,779,909.84 570,578,879.37 28.21%...营业收入比上年增减 168.23%"
+    },
+    {
+      "name": "芯片设计",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,491,614.51元",
+      "revenue_proportion": "0.93%",
+      "gross_margin": "33.01%",
+      "yoy_change": "-69.31%",
+      "quote": "分行业 芯片设计 7,491,614.51 0.93%...分产品 芯片领域产品 7,407,092.49 0.92%...芯片设计 7,491,614.51 5,018,784.91 33.01%...营业收入比上年增减 -69.31%"
+    },
+    {
+      "name": "光伏制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,055,656.25元",
+      "revenue_proportion": "0.26%",
+      "gross_margin": "16.99%",
+      "yoy_change": "-99.30%",
+      "quote": "分行业 光伏制造 2,055,656.25 0.26%...分产品 光伏电池片及其他 2,055,656.25 0.26%...光伏制造 2,055,656.25 1,706,457.25 16.99%...营业收入比上年增减 -99.30%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "627,820,890.13元",
+      "revenue_proportion": "78.06%",
+      "gross_margin": "26.65%",
+      "yoy_change": "262.10%",
+      "quote": "分地区 国外销售 627,820,890.13 78.06%...国外销售 627,820,890.13 460,488,481.17 26.65%...营业收入比上年增减 262.10%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "176,506,290.47元",
+      "revenue_proportion": "21.94%",
+      "gross_margin": "33.82%",
+      "yoy_change": "-82.54%",
+      "quote": "分地区 国内销售 176,506,290.47 21.94%...国内销售 176,506,290.47 116,815,640.36 33.82%...营业收入比上年增减 -82.54%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "804,327,180.60元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "28.23%",
+      "yoy_change": "-28.84%",
+      "quote": "分销售模式 直销 804,327,180.60 100.00%...直销 804,327,180.60 577,304,121.53 28.23%...营业收入比上年增减 -28.84%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "集装箱装卸设备",
+      "metric_type": "sales_volume",
+      "value": "32.00台",
+      "period": "2025年",
+      "quote": "集装箱装卸设备 销售量 台 32.00"
+    },
+    {
+      "product": "集装箱装卸设备",
+      "metric_type": "production_volume",
+      "value": "32.00台",
+      "period": "2025年",
+      "quote": "集装箱装卸设备 生产量 台 32.00"
+    },
+    {
+      "product": "集装箱装卸设备",
+      "metric_type": "sales_volume",
+      "value": "17.00台",
+      "period": "2024年",
+      "quote": "集装箱装卸设备 销售量 台 2024年 17.00"
+    },
+    {
+      "product": "集装箱装卸设备",
+      "metric_type": "production_volume",
+      "value": "17.00台",
+      "period": "2024年",
+      "quote": "集装箱装卸设备 生产量 台 2024年 17.00"
+    },
+    {
+      "product": "芯片领域产品",
+      "metric_type": "sales_volume",
+      "value": "47,202.00片",
+      "period": "2025年",
+      "quote": "芯片领域产品 销售量 片 47,202.00"
+    },
+    {
+      "product": "芯片领域产品",
+      "metric_type": "inventory_volume",
+      "value": "83,831.00片",
+      "period": "2025年末",
+      "quote": "芯片领域产品 库存量 片 83,831.00"
+    },
+    {
+      "product": "光伏电池片",
+      "metric_type": "sales_volume",
+      "value": "2.15兆瓦",
+      "period": "2025年",
+      "quote": "光伏电池片 销售量 兆瓦 2.15"
+    },
+    {
+      "product": "光伏电池片",
+      "metric_type": "production_volume",
+      "value": "0",
+      "period": "2025年",
+      "quote": "光伏电池片 生产量 兆瓦 2025年 -100.00%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "华东重机智能制造基地项目",
+      "project_type": "capacity_expansion",
+      "location": "南通启东",
+      "investment_amount": "72,892,184.13元（本报告期投入）",
+      "designed_capacity": null,
+      "progress": "7.32%（截至报告期末累计实际投入/投资总额）",
+      "expected_completion_time": null,
+      "quote": "公司正规划建设位于南通启东“前港后厂”一体化沿海基地...投资华东重机智能制造基地项目...截至报告期末累计实际投入 73,155,391.68 元...进度 7.32%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "集装箱装卸设备业务相关专利",
+      "asset_type": "patent",
+      "related_product": "集装箱装卸设备",
+      "quantitative_info": "有效专利48项，其中发明专利9项、实用新型专利39项",
+      "quote": "截至本报告披露日，公司集装箱装卸设备业务合计拥有有效专利 48项，其中实用新型专利 39项、发明专利 9项"
+    },
+    {
+      "name": "集装箱装卸设备业务相关软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": "集装箱装卸设备",
+      "quantitative_info": "3项",
+      "quote": "公司还拥有软件著作权 3项。"
+    },
+    {
+      "name": "芯片设计业务相关发明专利",
+      "asset_type": "patent",
+      "related_product": "GPU芯片",
+      "quantitative_info": "2项",
+      "quote": "子公司锐信图芯（合并）合计拥有有效发明专利 2 项"
+    },
+    {
+      "name": "集成电路布图设计",
+      "asset_type": "other",
+      "related_product": "GPU芯片",
+      "quantitative_info": "2项",
+      "quote": "集成电路布图设计 2 项"
+    },
+    {
+      "name": "芯片设计业务相关软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": "GPU芯片",
+      "quantitative_info": "32项",
+      "quote": "以及软件著作权 32 项。"
+    },
+    {
+      "name": "全国商品售后服务五星级认证",
+      "asset_type": "certification",
+      "related_product": "集装箱装卸设备",
+      "quantitative_info": null,
+      "quote": "通过全国商品售后服务五星级认证"
+    },
+    {
+      "name": "国家级高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司也先后被评为国家高新技术企业"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "国家级专精特新“小巨人”企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "740,617,350.61元（占年度销售总额比例92.09%）",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 740,617,350.61...前五名客户合计销售金额占年度销售总额比例 92.09%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "581,818,970.13元（占年度销售总额比例72.34%）",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 1 客户名称 第一名 销售额（元） 581,818,970.13 占年度销售总额比例 72.34%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "338,041,898.44元（占年度采购总额比例50.53%）",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 338,041,898.44...前五名供应商合计采购金额占年度采购总额比例 50.53%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "217,851,448.40元（占年度采购总额比例32.56%）",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 1 供应商名称 第一名 采购额（元） 217,851,448.40 占年度采购总额比例 32.56%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司集装箱装卸设备业务的下游客户以境内外大型港口集团、头部码头运营商等为主，所在行业具有客户主体集中...等特征，导致客户集中度较高。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "宏观政治、产业、经济环境变化的风险，对集装箱装卸设备业务发展产生影响。",
+      "related_entity": null,
+      "related_product": "集装箱装卸设备",
+      "quote": "宏观政治、产业、经济环境变化的风险...宏观政治、产业、经济政策变化及经济增长放缓，将对集装箱装卸设备业务发展产生一定的影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动的风险，对出口业务业绩造成影响。",
+      "related_entity": null,
+      "related_product": "集装箱装卸设备",
+      "quote": "汇率波动的风险...如果...人民币汇率水平发生较大波动，将会对本公司的业绩造成一定的影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户集中度较高风险，主要客户需求变化可能对经营产生不利影响。",
+      "related_entity": null,
+      "related_product": "集装箱装卸设备",
+      "quote": "客户集中度较高风险...如公司主要客户未来需求变化...将对公司的经营产生不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料钢材价格变动风险，影响公司盈利水平。",
+      "related_entity": null,
+      "related_product": "集装箱装卸设备",
+      "quote": "原材料价格变动风险...钢材价格...如果...钢材价格出现上涨...将影响公司的盈利水平。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "存货跌价风险...如果未来市场环境变化...则公司存货可能面临跌价风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "重大合同履约风险，项目实施、交货进度滞后或资金支付延迟导致合同未正常履行。",
+      "related_entity": null,
+      "related_product": "集装箱装卸设备",
+      "quote": "重大合同履约风险...在合同履行过程中，仍可能出现项目实施、交货进度滞后或资金支付延迟等导致合同未正常履行的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "芯片设计业务的技术风险，颠覆性技术革新或未能按期完成下一代芯片开发导致产品竞争力下降。",
+      "related_entity": "厦门锐信图芯科技有限公司",
+      "related_product": "GPU芯片",
+      "quote": "技术风险...若行业出现颠覆性技术革新或未能根据市场需求按期完成下一代芯片开发，可能导致产品竞争力下降。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "芯片设计业务的市场风险，未能有效获取客户导致市场份额被抢占。",
+      "related_entity": "厦门锐信图芯科技有限公司",
+      "related_product": "GPU芯片",
+      "quote": "市场风险...若未能按计划积极开拓市场...可能导致市场份额被竞争对手抢占"
+    },
+    {
+      "risk_type": "other",
+      "description": "芯片设计业务毛利率波动的风险。",
+      "related_entity": "厦门锐信图芯科技有限公司",
+      "related_product": "GPU芯片",
+      "quote": "毛利率波动的风险...毛利率水平存在大幅波动的风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "收购芯片设计业务形成的商誉减值风险。",
+      "related_entity": "厦门锐信图芯科技有限公司",
+      "related_product": "GPU芯片",
+      "quote": "商誉减值的风险...如果标的公司未来经营状况未达预期，则存在商誉减值的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "光伏业务重整事项的不确定性，包括重整计划能否通过、实施等。",
+      "related_entity": "无锡华东光能科技有限公司, 华东光能科技（徐州）有限公司",
+      "related_product": "光伏电池组件",
+      "quote": "光伏业务重整事项...后续能否顺利推进重整事宜，包括债权人会议决议通过、法院裁定批准重整计划、重整计划顺利实施等尚具有不确定性。"
+    }
+  ]
+}

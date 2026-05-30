@@ -1,0 +1,525 @@
+{
+  "company_name_mentioned": "深圳信隆健康产业发展股份有限公司",
+  "produces": [
+    {
+      "name": "自行车零配件",
+      "type": "component",
+      "revenue_proportion": "68.46%",
+      "quote": "公司的主营业务为研发、生产、销售自行车零配件（自行车车把、立管、坐垫管、避震前叉、碟刹等），运动器材，康复辅助器材...分产品 自行车零配件产品...占营业收入比重 68.46%"
+    },
+    {
+      "name": "运动健身产品",
+      "type": "device",
+      "revenue_proportion": "13.79%",
+      "quote": "分产品 运动健身产品...占营业收入比重 13.79%"
+    },
+    {
+      "name": "康复器材产品",
+      "type": "device",
+      "revenue_proportion": "15.47%",
+      "quote": "分产品 康复器材产品...占营业收入比重 15.47%"
+    },
+    {
+      "name": "铝挤型锻造成型（制品）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司的主营业务为研发、生产、销售自行车零配件（自行车车把、立管、坐垫管、避震前叉、碟刹等），运动器材，康复辅助器材，铝挤型锻造成型（制品），管料成型加工等。"
+    },
+    {
+      "name": "管料成型加工",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司的主营业务为研发、生产、销售自行车零配件（自行车车把、立管、坐垫管、避震前叉、碟刹等），运动器材，康复辅助器材，铝挤型锻造成型（制品），管料成型加工等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铝材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "同时公司主要原材料--铝材价格年度内持续上涨约4%，且为历史高位，导致公司成本上涨。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "自行车组装",
+      "source_product": "自行车零配件",
+      "quote": "公司自行车零配件的主要产品线覆盖低档铁制品和中档铝制品两个主要需求量阶段。"
+    },
+    {
+      "name": "电动滑板车",
+      "source_product": "运动健身产品",
+      "quote": "运动器材以轮式运动车(如电动滑板车)为主。"
+    },
+    {
+      "name": "轮椅（手动和电动）",
+      "source_product": "康复器材产品",
+      "quote": "康复器材以轮椅（手动和电动）为主。"
+    },
+    {
+      "name": "共享单车",
+      "source_product": "自行车零配件",
+      "quote": "共享单车运维需求稳定，模块化配件规模约 60亿元，增26.3%...共享订单批量大（单批次 1 万+件）、单价低（较零售低 20%）。"
+    },
+    {
+      "name": "共享电动滑板车",
+      "source_product": "运动健身产品",
+      "quote": "共享电动滑板车市场分布情况...新增共享出行平台类客户（如国内哈啰、美团，海外Lime、Bird），2025年该类客户订单占比提升至 8%。"
+    },
+    {
+      "name": "健身器材",
+      "source_product": "运动健身产品",
+      "quote": "运动健身器材业务...家庭用健身器材需求保持 5%～8%的同比增速。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "廖学金",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人廖学金...公司实际控制人 廖学金 本人...廖学金先生除为公司现任董事长外，其最近 5年的主要工作经历为任职：HL CORP (USA) 董事长...利田发展有限公司董事..."
+    },
+    {
+      "name": "廖学湖",
+      "role": "董事、总经理",
+      "quote": "廖学湖 先生 现任公司董事、总经理...廖学湖先生除为公司现任董事、总经理外，其最近 5年的主要工作经历为任职：太仓信隆车料有限公司董事、总经理..."
+    },
+    {
+      "name": "邱东华",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人邱东华...邱东华 先生...现任本公司资深副总经理、财务总监。"
+    },
+    {
+      "name": "陈丽秋",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 陈丽秋...陈丽秋 女士...现任 HL CORP(USA)董事...公司资深副总经理、董事会秘书。"
+    },
+    {
+      "name": "廖学森",
+      "role": "董事",
+      "quote": "廖学森 先生 现任公司董事...廖学森先生除为现任公司董事外，其最近 5年的主要工作经历为任职：信隆车料工业股份有限公司董事、总经理..."
+    },
+    {
+      "name": "廖蓓君",
+      "role": "董事",
+      "quote": "廖蓓君 女士 现任公司董事...廖蓓君女士除为现任公司董事外，其最近 5年的主要工作经历为任职：利田发展有限公司董事长..."
+    },
+    {
+      "name": "廖哲宏",
+      "role": "董事",
+      "quote": "廖哲宏 先生 现任公司董事...廖哲宏先生除为公司现任董事，其最近 5年的主要工作经历为任职：深圳信隆健康产业发展股份有限公司经理（2013年3月至 2022年5月）、董事长特别助理..."
+    },
+    {
+      "name": "姜绍刚",
+      "role": "董事、美国信隆总经理",
+      "quote": "姜绍刚 先生 现任公司职工董事...姜绍刚先生 除为公司现任职工董事外，其最近 5年的主要工作经历为任职：HL CORP(USA) 董事...总经理..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "太仓信隆车料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2020年调整了经营策略，停产转型为经营自有资产出租业务。",
+      "quote": "太仓信隆 指 太仓信隆车料有限公司...太仓信隆车料有限公司2020年调整了经营策略，停产转型为经营自有资产出租业务。"
+    },
+    {
+      "name": "信友实业（越南）责任有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为了应对越来越严苛的反倾销政策在越南设立了越南信友，主要从事自行车零配件的生产和销售业务。",
+      "quote": "越南信友 指 信友实业（越南）责任有限公司...为了应对越来越严苛的反倾销政策在越南设立了越南信友。"
+    },
+    {
+      "name": "武汉天腾动力科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事E-bike电机的研发、生产及销售业务，目前本公司持有其12.53%的股份。",
+      "quote": "天腾动力 指 武汉天腾动力科技有限公司...武汉天腾动力科技有限公司...主要从事E-bike电机的研发、生产及销售业务，目前本公司持有其12.53%的股份。"
+    },
+    {
+      "name": "深圳信碟科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "深圳信碟 指 深圳信碟科技有限公司。"
+    },
+    {
+      "name": "利田发展有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "香港利田 指 利田发展有限公司...控股股东名称：利田发展有限公司。"
+    },
+    {
+      "name": "FERNANDO CORPORATION",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东",
+      "quote": "FERNANDO CORPORATION 境外法人 5.71% 20,925,447..."
+    },
+    {
+      "name": "哈啰、美团、滴滴",
+      "relation_type": "customer",
+      "business_details": "共享平台客户",
+      "quote": "客户结构：哈啰、美团、滴滴等共享平台客户。"
+    },
+    {
+      "name": "Lime、Bird",
+      "relation_type": "customer",
+      "business_details": "海外共享出行平台客户",
+      "quote": "客户结构变化...新增共享出行平台类客户（如国内哈啰、美团，海外Lime、Bird）。"
+    },
+    {
+      "name": "中洲集团",
+      "relation_type": "other",
+      "business_details": "龙华厂搬迁补偿安置协议相关方",
+      "quote": "关于中洲集团执行《搬迁补偿安置协议书》的进展情况的说明。"
+    },
+    {
+      "name": "中汇会计师事务所(特殊普通合伙)",
+      "relation_type": "other",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "会计师事务所名称 中汇会计师事务所(特殊普通合伙)。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "自行车零配件",
+      "segment_type": "product_line",
+      "revenue_amount": "813,054,417.11元",
+      "revenue_proportion": "68.46%",
+      "gross_margin": "11.70%",
+      "yoy_change": "2.47%",
+      "quote": "分行业 自行车零配件 813,054,417.11元 68.46%...分产品 自行车零配件产品...2.47%...产品综合毛利率为 11.70%，相比上年度减少0.60%。"
+    },
+    {
+      "name": "运动健身康复器材",
+      "segment_type": "product_line",
+      "revenue_amount": "347,486,185.48元",
+      "revenue_proportion": "29.26%",
+      "gross_margin": "15.73%",
+      "yoy_change": "-4.95%",
+      "quote": "分行业 运动健身康复器材 347,486,185.48元 29.26%...运动健身及康复器材业务：报告期内实现营业收入 34,748.62 万元，同比减少 4.95%...产品综合毛利率为 15.73%，相比上年度减少2.53%。"
+    },
+    {
+      "name": "运动健身产品",
+      "segment_type": "product_line",
+      "revenue_amount": "163,734,252.06元",
+      "revenue_proportion": "13.79%",
+      "gross_margin": "4.92%",
+      "yoy_change": "22.68%",
+      "quote": "分产品 运动健身产品 163,734,252.06元 13.79%...运动健身产品实现营业收入 16,373.43万元，同比增长 22.68%...毛利率 4.92%。"
+    },
+    {
+      "name": "康复器材产品",
+      "segment_type": "product_line",
+      "revenue_amount": "183,751,933.42元",
+      "revenue_proportion": "15.47%",
+      "gross_margin": "25.37%",
+      "yoy_change": "-20.83%",
+      "quote": "分产品 康复器材产品 183,751,933.42元 15.47%...康复器材产品实现营业收入 18,375.19万元，同比减少 20.83%...毛利率 25.37%。"
+    },
+    {
+      "name": "美洲区",
+      "segment_type": "region",
+      "revenue_amount": "144,558,212.92元",
+      "revenue_proportion": "12.17%",
+      "gross_margin": null,
+      "yoy_change": "-7.37%",
+      "quote": "分地区 美洲区 144,558,212.92元 12.17%..."
+    },
+    {
+      "name": "欧洲区",
+      "segment_type": "region",
+      "revenue_amount": "222,322,880.07元",
+      "revenue_proportion": "18.72%",
+      "gross_margin": null,
+      "yoy_change": "-13.14%",
+      "quote": "分地区 欧洲区 222,322,880.07元 18.72%..."
+    },
+    {
+      "name": "亚洲区",
+      "segment_type": "region",
+      "revenue_amount": "214,018,653.40元",
+      "revenue_proportion": "18.02%",
+      "gross_margin": null,
+      "yoy_change": "22.07%",
+      "quote": "分地区 亚洲区 214,018,653.40元 18.02%..."
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "560,545,678.93元",
+      "revenue_proportion": "47.20%",
+      "gross_margin": null,
+      "yoy_change": "-2.43%",
+      "quote": "分地区 国内销售 560,545,678.93元 47.20%..."
+    },
+    {
+      "name": "OEM/ODM",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,107,642,812.18元",
+      "revenue_proportion": "93.26%",
+      "gross_margin": "13.11%",
+      "yoy_change": "-3.09%",
+      "quote": "分销售模式 OEM/ODM 1,107,642,812.18元 93.26%...OEM/ODM 13.11%... -3.09%..."
+    },
+    {
+      "name": "贸易业务",
+      "segment_type": "sales_channel",
+      "revenue_amount": "52,897,790.41元",
+      "revenue_proportion": "4.45%",
+      "gross_margin": "8.60%",
+      "yoy_change": "227.91%",
+      "quote": "分销售模式 贸易业务 52,897,790.41元 4.45%...贸易业务 8.60%...227.91%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "自行车零配件",
+      "metric_type": "sales_volume",
+      "value": "2,701.94 万支",
+      "period": "2025年",
+      "quote": "销售量 万支 2,701.94 2,707.82 -0.22%"
+    },
+    {
+      "product": "自行车零配件",
+      "metric_type": "production_volume",
+      "value": "2,651.29 万支",
+      "period": "2025年",
+      "quote": "生产量 万支 2,651.29 2,717.90 -2.45%"
+    },
+    {
+      "product": "自行车零配件",
+      "metric_type": "inventory_volume",
+      "value": "170.85 万支",
+      "period": "2025年末",
+      "quote": "库存量 万支 170.85 221.50 -22.87%"
+    },
+    {
+      "product": "运动健身及康复器材",
+      "metric_type": "sales_volume",
+      "value": "43.19 万台",
+      "period": "2025年",
+      "quote": "销售量 万台 43.19 30.31 42.49%"
+    },
+    {
+      "product": "运动健身及康复器材",
+      "metric_type": "production_volume",
+      "value": "42.97 万台",
+      "period": "2025年",
+      "quote": "生产量 万台 42.97 30.54 40.70%"
+    },
+    {
+      "product": "运动健身及康复器材",
+      "metric_type": "inventory_volume",
+      "value": "2.18 万台",
+      "period": "2025年末",
+      "quote": "库存量 万台 2.18 2.40 -9.17%"
+    },
+    {
+      "product": "共享电动滑板车",
+      "metric_type": "capacity_utilization",
+      "value": "从 75%升至90%",
+      "period": null,
+      "quote": "产能：共享订单驱动产能扩张 30%，设备利用率从 75%升至90%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "越南信友二厂",
+      "project_type": "capacity_expansion",
+      "location": "越南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投资增加",
+      "expected_completion_time": null,
+      "quote": "在建工程...主要系越南信友二厂投资增加。"
+    },
+    {
+      "name": "低压铸造车架自动化生产线研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "组建一套完整的产品自动化生产线",
+      "progress": "设备调试，产品试制阶段",
+      "expected_completion_time": null,
+      "quote": "低压铸造车架自动化生产线研发...项目进展 设备调试，产品试制阶段。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "冷热锻造工艺",
+      "asset_type": "process_technology",
+      "related_product": "自行车零配件、运动器材、康复器材",
+      "quantitative_info": null,
+      "quote": "公司拥有冷热锻造工艺、液压管、抽管、热处理、压铸技术、CNC加工，3D 锻造。"
+    },
+    {
+      "name": "液压管、抽管技术",
+      "asset_type": "process_technology",
+      "related_product": "自行车零配件",
+      "quantitative_info": null,
+      "quote": "公司拥有冷热锻造工艺、液压管、抽管、热处理、压铸技术、CNC加工，3D 锻造。"
+    },
+    {
+      "name": "压铸技术",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有冷热锻造工艺、液压管、抽管、热处理、压铸技术、CNC加工，3D 锻造。"
+    },
+    {
+      "name": "CNC加工",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有冷热锻造工艺、液压管、抽管、热处理、压铸技术、CNC加工，3D 锻造。"
+    },
+    {
+      "name": "3D 锻造",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有冷热锻造工艺、液压管、抽管、热处理、压铸技术、CNC加工，3D 锻造。"
+    },
+    {
+      "name": "精密的管材成型工艺",
+      "asset_type": "process_technology",
+      "related_product": "自行车零配件",
+      "quantitative_info": null,
+      "quote": "精密的管材成型和大规模铝合金铸造工艺。"
+    },
+    {
+      "name": "大规模铝合金铸造工艺",
+      "asset_type": "process_technology",
+      "related_product": "自行车零配件",
+      "quantitative_info": null,
+      "quote": "精密的管材成型和大规模铝合金铸造工艺。"
+    },
+    {
+      "name": "机械臂自动焊接技术",
+      "asset_type": "process_technology",
+      "related_product": "运动器材",
+      "quantitative_info": "自动化程度达 98%以上",
+      "quote": "机械臂自动焊接技术已成功导入多年，其自动化程度达 98%以上。"
+    },
+    {
+      "name": "TPS连线化配套化生产管理",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "多年推行TPS连线化配套化生产管理。"
+    },
+    {
+      "name": "ISO9001 2008 版",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "且一直以ISO9001 2008 版作为执行标准。"
+    },
+    {
+      "name": "ISO13485 医疗体系认证",
+      "asset_type": "certification",
+      "related_product": "康复器材",
+      "quantitative_info": null,
+      "quote": "通过 ISO13485 医疗体系认证。"
+    },
+    {
+      "name": "智能健身器材专利",
+      "asset_type": "patent",
+      "related_product": "运动健身产品",
+      "quantitative_info": "数量行业前五",
+      "quote": "智能健身器材专利数量行业前五。"
+    },
+    {
+      "name": "核心电控技术",
+      "asset_type": "core_technology",
+      "related_product": "运动健身产品",
+      "quantitative_info": null,
+      "quote": "核心电控技术自主研发。"
+    },
+    {
+      "name": "无线电子升降技术",
+      "asset_type": "core_technology",
+      "related_product": "自行车零配件（升降座杆）",
+      "quantitative_info": null,
+      "quote": "突破碳纤维、阻尼单元和无线电子升降等核心技术。"
+    },
+    {
+      "name": "阻尼单元技术",
+      "asset_type": "core_technology",
+      "related_product": "自行车零配件（避震器）",
+      "quantitative_info": null,
+      "quote": "突破碳纤维、阻尼单元和无线电子升降等核心技术。"
+    },
+    {
+      "name": "碳纤维技术",
+      "asset_type": "core_technology",
+      "related_product": "自行车零配件、运动健身产品",
+      "quantitative_info": null,
+      "quote": "突破碳纤维、阻尼单元和无线电子升降等核心技术。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.49%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 409,688,724.19 前五名客户合计销售金额占年度销售总额比例 34.49%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "17.04%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 138,004,304.90 前五名供应商合计采购金额占年度采购总额比例 17.04%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "12.42%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 147,476,979.63 12.42%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料--铝材价格年度内持续上涨约4%，且为历史高位，导致公司成本上涨。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要原材料--铝材价格年度内持续上涨约4%，且为历史高位，导致公司成本上涨。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "人民币兑美元中间价汇率升值超 2%，直接减少了出口收入换算金额。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人民币兑美元中间价汇率升值超 2%，直接减少了出口收入换算金额。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内市场竞争愈发激烈，内销收入同比下降 2.44%...中低端配件同质化严重...中小厂商通过低价策略抢占市场。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国内市场竞争愈发激烈，内销收入同比下降 2.44%...中低端配件同质化严重...中小厂商通过低价策略抢占市场。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "欧美通胀仍处高位...地缘政治风险增加...欧盟反倾销调查持续...美国关税壁垒抬升...共享出行政策（如部分城市限投）存在不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "欧美通胀仍处高位...地缘政治风险增加...欧盟反倾销调查持续...美国关税壁垒抬升...共享出行政策（如部分城市限投）存在不确定性。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "智能健身技术（如 AI联动、可穿戴设备）迭代速度快，若企业研发投入不足，可能导致产品竞争力下降。",
+      "related_entity": null,
+      "related_product": "运动健身产品",
+      "quote": "智能健身技术（如 AI联动、可穿戴设备）迭代速度快，若企业研发投入不足，可能导致产品竞争力下降。"
+    },
+    {
+      "risk_type": "other",
+      "description": "通胀引发各项成本费用增长...共享订单低毛利，挤压利润空间；客户集中度上升，议价能力减弱；产能结构性失衡；订单稳定性差。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "通胀引发各项成本费用增长...共享订单低毛利，挤压利润空间；客户集中度上升，议价能力减弱；产能结构性失衡；订单稳定性差。"
+    }
+  ]
+}

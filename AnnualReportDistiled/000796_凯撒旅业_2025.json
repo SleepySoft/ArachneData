@@ -1,0 +1,311 @@
+{
+  "company_name_mentioned": "凯撒旅业集团股份有限公司",
+  "produces": [
+    {
+      "name": "旅游服务",
+      "type": "service",
+      "revenue_proportion": "50.64%",
+      "quote": "旅游服务 404,830,396.44 50.64%"
+    },
+    {
+      "name": "航空配餐及服务",
+      "type": "service",
+      "revenue_proportion": "29.46%",
+      "quote": "航空配餐及服务 235,500,172.09 29.46%"
+    },
+    {
+      "name": "铁路配餐及服务",
+      "type": "service",
+      "revenue_proportion": "9.43%",
+      "quote": "铁路配餐及服务 75,361,316.68 9.43%"
+    },
+    {
+      "name": "食品饮料业务",
+      "type": "material",
+      "revenue_proportion": "6.73%",
+      "quote": "食品饮料业务 53,803,036.22 6.73%"
+    },
+    {
+      "name": "海洋文旅业务",
+      "type": "service",
+      "revenue_proportion": "3.74%",
+      "quote": "海洋文旅业务 29,866,238.56 3.74%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "航空配餐及服务",
+      "cost_proportion": null,
+      "quote": "航空配餐及服务 原材料 81,630,212.78 12.53%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "铁路配餐及服务",
+      "cost_proportion": null,
+      "quote": "铁路配餐及服务 原材料 33,214,401.29 5.09%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "政府、企业、个人客户",
+      "source_product": "旅游服务",
+      "quote": "面向政府、企业、个人三大类客户"
+    },
+    {
+      "name": "国内外航空公司",
+      "source_product": "航空配餐及服务",
+      "quote": "为国内外众多航空公司提供餐食及相关配套服务"
+    },
+    {
+      "name": "高铁旅客",
+      "source_product": "铁路配餐及服务",
+      "quote": "公司通过相关经营主体开展高铁餐饮、餐车商品供应、商务座餐食及冷链餐食配送等业务"
+    },
+    {
+      "name": "休闲、研学、赛事、公司团建等场景",
+      "source_product": "海洋文旅业务",
+      "quote": "公司亦不断深化线下场景运营...将滨海文旅及配套、体育康养文旅作为主攻方向"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "迟永杰",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人迟永杰...现任青岛环海湾投资发展集团有限公司党委书记、董事长...公司党委书记、董事长"
+    },
+    {
+      "name": "马茁飞",
+      "role": "总经理、董事",
+      "quote": "2025年04月23日 聘任马茁飞女士为总经理...现任公司党委副书记、董事、总经理"
+    },
+    {
+      "name": "杜群",
+      "role": "董事会秘书",
+      "quote": "杜群 董事会秘书 现任"
+    },
+    {
+      "name": "尹风钧",
+      "role": "财务总监",
+      "quote": "2025年06月11日，公司董事会同意聘任尹风钧先生担任财务总监职务"
+    },
+    {
+      "name": "李建青",
+      "role": "董事",
+      "quote": "李建青，男，...现任青岛环海湾投资发展集团有限公司党委副书记、董事、总经理...公司董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "青岛环海湾文化旅游发展集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东为青岛环海湾文旅"
+    },
+    {
+      "name": "青岛市市北区国有资产运营发展中心",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人：青岛市市北区国有资产运营发展中心"
+    },
+    {
+      "name": "凯撒同盛旅行社（集团）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事旅游服务",
+      "quote": "主要一级控股子公司为：凯撒同盛旅行社（集团）有限公司"
+    },
+    {
+      "name": "凯撒易食控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事配餐服务、食品饮料业务",
+      "quote": "凯撒易食控股有限公司...主要业务：配餐服务、食品饮料业务"
+    },
+    {
+      "name": "易生金服控股集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，从事航旅金融科技服务",
+      "quote": "易生金服控股集团有限公司...参股公司...主要业务：航旅金融科技服务"
+    },
+    {
+      "name": "三亚汉莎航空食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，从事配餐服务",
+      "quote": "三亚汉莎航空食品有限公司...参股公司...主要业务：配餐服务"
+    },
+    {
+      "name": "海航旅游集团有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户 序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 147,184,480.47 18.41%...主要客户其他情况说明...海航旅游集团有限公司为公司2015年发行股份购买资产并配套融资募集资金项目成为公司前10大股东。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "旅游服务",
+      "segment_type": "product_line",
+      "revenue_amount": "404,830,396.44",
+      "revenue_proportion": "50.64%",
+      "gross_margin": "15.67%",
+      "yoy_change": "51.32%",
+      "quote": "分产品 旅游服务 404,830,396.44 50.64%...营业收入比上年同期增减 51.32%...毛利率比上年同期增减 -6.74%"
+    },
+    {
+      "name": "配餐服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "364,664,524.99",
+      "revenue_proportion": "45.62%",
+      "gross_margin": "22.66%",
+      "yoy_change": "-2.31%",
+      "quote": "分行业 配餐服务 364,664,524.99 45.62%...营业收入比上年同期增减 -2.31%...毛利率比上年同期增减 0.71%"
+    },
+    {
+      "name": "海洋文旅",
+      "segment_type": "business_unit",
+      "revenue_amount": "29,866,238.56",
+      "revenue_proportion": "3.74%",
+      "gross_margin": null,
+      "yoy_change": "138.27%",
+      "quote": "分行业 海洋文旅 29,866,238.56 3.74%...营业收入比上年同期增减 138.27%"
+    },
+    {
+      "name": "中国大陆地区",
+      "segment_type": "region",
+      "revenue_amount": "759,319,727.07",
+      "revenue_proportion": "94.99%",
+      "gross_margin": "17.79%",
+      "yoy_change": "23.59%",
+      "quote": "分地区 中国大陆地区 759,319,727.07 94.99%...营业收入比上年同期增减 23.59%...毛利率比上年同期增减 -5.20%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "旅游服务",
+      "metric_type": "other",
+      "value": "全国门店总数恢复至330余家",
+      "period": "报告期下半年",
+      "quote": "报告期下半年，公司通过收购福建凯撒，快速补齐华南区域渠道短板，全国门店总数恢复至330余家"
+    },
+    {
+      "product": "食品业务",
+      "metric_type": "other",
+      "value": "开始形成冷冻盒餐、调理制品、烘焙品等产品生产能力",
+      "period": "报告期内",
+      "quote": "公司完成对青岛凯撒食品有限公司的收购交割与投产，开始形成冷冻盒餐、调理制品、烘焙品等产品生产能力"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购福建省凯撒寰球旅游有限公司51%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "16,830,000.00",
+      "designed_capacity": null,
+      "progress": "已完成工商变更并支付全部交易对价",
+      "expected_completion_time": null,
+      "quote": "被投资公司名称 福建省凯撒寰球旅游有限公司...投资金额 16,830,000.00...已完成工商变更并支付全部交易对价"
+    },
+    {
+      "name": "收购青岛凯撒食品有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "16,000,000.00",
+      "designed_capacity": null,
+      "progress": "已完成工商变更并支付全部交易对价",
+      "expected_completion_time": null,
+      "quote": "被投资公司名称 青岛凯撒食品有限公司...投资金额 16,000,000.00...已完成工商变更并支付全部交易对价"
+    },
+    {
+      "name": "小港湾休闲海钓基地项目",
+      "project_type": "construction_project",
+      "location": "青岛",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "13.36%",
+      "expected_completion_time": null,
+      "quote": "项目名称 小港湾休闲海钓基地项目...本报告期投入金额 10,095,167.98...项目进度 13.36%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "食品安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": "配餐服务",
+      "quantitative_info": "HACCP、ISO22000、ISO9001",
+      "quote": "相关企业在长期运营过程中持续完善食品安全管理体系和标准化服务流程，取得HACCP食品安全管理体系、ISO22000食品安全管理体系及ISO9001质量管理体系认证"
+    },
+    {
+      "name": "航空食品相关行业标准",
+      "asset_type": "standard",
+      "related_product": "航空配餐服务",
+      "quantitative_info": null,
+      "quote": "部分企业通过国际航食质量体系认证及清真认证，并参与航空食品相关行业标准制定工作"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "27.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 27.68%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "18.41%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 147,184,480.47 18.41%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "11.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 11.15%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "2.91%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 18,960,763.75 2.91%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "当前消费市场呈现系统性趋紧态势，部分客群的消费意愿有所减弱，旅游行业同时面临渠道竞争压力。海洋文旅行业市场竞争日趋激烈，且消费者需求升级快速，对产品创新与差异化能力提出更高要求。",
+      "related_entity": null,
+      "related_product": "旅游服务，海洋文旅业务",
+      "quote": "1、市场竞争与消费趋势风险 当前消费市场呈现系统性趋紧态势，部分客群的消费意愿有所减弱，旅游行业同时面临渠道竞争压力。海洋文旅行业市场竞争日趋激烈，且消费者需求升级快速，对产品创新与差异化能力提出更高要求。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动可能导致的成本上升亦对旅游业务利润形成一定压力。",
+      "related_entity": null,
+      "related_product": "旅游服务",
+      "quote": "因汇率原因导致利润受到了大幅影响。...宏观环境与政策变动风险...因汇率波动可能导致的成本上升亦对旅游业务利润形成一定压力"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "食品业务对食品安全、生产安全及运营保障有较高要求，任何环节的疏漏都可能影响品牌形象及经营稳定性。",
+      "related_entity": null,
+      "related_product": "配餐服务，食品饮料业务",
+      "quote": "食品业务对食品安全、生产安全及运营保障有较高要求，任何环节的疏漏都可能影响品牌形象及经营稳定性。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "食品业务面临原材料价格波动、应收账款回收及新业务培育不及预期等经营压力。",
+      "related_entity": null,
+      "related_product": "配餐服务，食品饮料业务",
+      "quote": "食品业务面临原材料价格波动、应收账款回收及新业务培育不及预期等经营压力"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "海洋文旅业务则受国家及地方政策影响较大，海域使用管理、生态保护红线、城市更新导向、文旅消费刺激等政策调整可能对运营成本或业务开展带来不确定性。",
+      "related_entity": null,
+      "related_product": "海洋文旅业务",
+      "quote": "海洋文旅业务则受国家及地方政策影响较大，海域使用管理、生态保护红线、城市更新导向、文旅消费刺激等政策调整可能对运营成本或业务开展带来不确定性。"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "company_name_mentioned": "国家能源集团长源电力股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "88.89%",
+      "quote": "电力销售收入1,202,484.67万元，占营业收入的88.89%"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "9.91%",
+      "quote": "热力销售收入134,109.89万元，占营业收入的9.91%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料（煤）",
+      "target_product": "电力",
+      "cost_proportion": "56.47%",
+      "quote": "电力 燃料 7,228,229,558.33 56.47%"
+    },
+    {
+      "name": "燃料（煤）",
+      "target_product": "热力",
+      "cost_proportion": "7.65%",
+      "quote": "热力 燃料 979,175,889.47 7.65%"
+    },
+    {
+      "name": "国能销售集团有限公司燃料",
+      "target_product": null,
+      "cost_proportion": "54.82%",
+      "quote": "国家能源投资集团有限责任公司 7,016,921,993.11 54.82%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "湖北省内电力、热力用户",
+      "source_product": "电力、热力",
+      "quote": "电力、热力产品均在湖北省就地消纳和销售"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王冬",
+      "role": "董事长",
+      "quote": "公司负责人董事长王冬"
+    },
+    {
+      "name": "郑峰",
+      "role": "总经理",
+      "quote": "总经理郑峰"
+    },
+    {
+      "name": "朱虹",
+      "role": "主管会计工作负责人/总会计师",
+      "quote": "主管会计工作负责人朱虹"
+    },
+    {
+      "name": "夏正茂",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）夏正茂"
+    },
+    {
+      "name": "潘承亮",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 潘承亮"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国家能源投资集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，重要的年度长协煤炭供应商",
+      "quote": "控股股东国家能源集团是全球规模最大的煤炭生产企业，并拥有自营铁路、港口和航运公司。其旗下国能销售集团有限公司为本公司重要的年度长协煤炭供应商"
+    },
+    {
+      "name": "国网湖北省电力有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户",
+      "quote": "1 国网湖北省电力有限公司 11,887,352,501.46 87.87%"
+    },
+    {
+      "name": "国家能源集团财务有限公司",
+      "relation_type": "supplier",
+      "business_details": "存贷款等金融服务",
+      "quote": "国家能源集团财务有限公司 0.3-0.35%"
+    },
+    {
+      "name": "国能龙源环保有限公司",
+      "relation_type": "supplier",
+      "business_details": "脱硫脱硝特许经营、技术改造EPC",
+      "quote": "国能龙源环保有限公司汉川分公司 实施"
+    },
+    {
+      "name": "国家能源集团湖北能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "接收公司转让的松滋抽水蓄能电站项目",
+      "quote": "公司拟退出湖北松滋抽水蓄能电站项目，并将项目整体以协议转让的方式转让给公司关联方国家能源集团湖北能源有限公司控股的国能湖北松滋抽水蓄能有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "发电-电力",
+      "segment_type": "product_line",
+      "revenue_amount": "12,024,846,668.83",
+      "revenue_proportion": "88.89%",
+      "gross_margin": "5.63%",
+      "yoy_change": "-23.78%",
+      "quote": "发电-电力 12,024,846,668.83 88.89%"
+    },
+    {
+      "name": "发电-热力",
+      "segment_type": "product_line",
+      "revenue_amount": "1,341,098,874.62",
+      "revenue_proportion": "9.91%",
+      "gross_margin": "-4.17%",
+      "yoy_change": "-7.43%",
+      "quote": "发电-热力 1,341,098,874.62 9.91%"
+    },
+    {
+      "name": "湖北省",
+      "segment_type": "region",
+      "revenue_amount": "13,527,749,416.42",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "5.38%",
+      "yoy_change": "-22.21%",
+      "quote": "湖北省 13,527,749,416.42 100.00%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "13,527,749,416.42",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "5.38%",
+      "yoy_change": "-22.21%",
+      "quote": "直销 13,527,749,416.42 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "1,260.25万千瓦",
+      "period": "报告期",
+      "quote": "总装机容量（万千瓦） 1,260.25"
+    },
+    {
+      "product": "新投产机组",
+      "metric_type": "capacity",
+      "value": "138.4万千瓦",
+      "period": "报告期",
+      "quote": "新投产机组的装机容量（万千瓦） 138.4"
+    },
+    {
+      "product": "火电",
+      "metric_type": "production_volume",
+      "value": "298.18亿千瓦时",
+      "period": "报告期",
+      "quote": "火电发电量298.18亿千瓦时"
+    },
+    {
+      "product": "水电",
+      "metric_type": "production_volume",
+      "value": "16.61亿千瓦时",
+      "period": "报告期",
+      "quote": "水电发电量16.61亿千瓦时"
+    },
+    {
+      "product": "风电",
+      "metric_type": "production_volume",
+      "value": "4.29亿千瓦时",
+      "period": "报告期",
+      "quote": "风电发电量4.29亿千瓦时"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "production_volume",
+      "value": "24.50亿千瓦时",
+      "period": "报告期",
+      "quote": "光伏发电量24.50亿千瓦时"
+    },
+    {
+      "product": "生物质",
+      "metric_type": "production_volume",
+      "value": "0.82亿千瓦时",
+      "period": "报告期",
+      "quote": "生物质发电量0.82亿千瓦时"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "325.95亿千瓦时",
+      "period": "报告期",
+      "quote": "累计完成售电量325.95亿千瓦时"
+    },
+    {
+      "product": "热力",
+      "metric_type": "sales_volume",
+      "value": "2,255.09万吉焦",
+      "period": "报告期",
+      "quote": "售热量2255.09万吉焦"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "2,967小时",
+      "period": "报告期",
+      "quote": "发电厂利用小时数（小时） 2,967"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity_utilization",
+      "value": "5.41%",
+      "period": "报告期",
+      "quote": "发电厂平均用电率（%） 5.41%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "国能长源汉川四期2×100万千瓦扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北省汉川市",
+      "investment_amount": null,
+      "designed_capacity": "200万千瓦",
+      "progress": "首台机组投产转商，第二台机组受区域大气质量管控影响未能在年底完成168小时试运行",
+      "expected_completion_time": null,
+      "quote": "汉川四期项目 指 汉川四期扩建工程（2×100万千瓦）燃煤发电项目，位于湖北省汉川市，规划装机容量200万千瓦"
+    },
+    {
+      "name": "荆州热电二期2×35万千瓦燃煤发电扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北省荆州市",
+      "investment_amount": null,
+      "designed_capacity": "70万千瓦",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "荆州二期扩建项目 指 荆州热电二期2×35万千瓦燃煤发电扩建项目，位于湖北省荆州市，装机容量70万千瓦"
+    },
+    {
+      "name": "湖北巴东沿渡河光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北省恩施土家族苗族自治州",
+      "investment_amount": null,
+      "designed_capacity": "10万千瓦",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "巴东沿渡河项目 指 湖北巴东沿渡河光伏项目，位于湖北省恩施土家族苗族自治州，规划装机容量10万千瓦"
+    },
+    {
+      "name": "国能长源武汉江夏湖泗120MW渔光互补光伏发电项目（一期80MW）",
+      "project_type": "capacity_expansion",
+      "location": "武汉市江夏区",
+      "investment_amount": null,
+      "designed_capacity": "8万千瓦",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "江夏湖泗光伏项目 指 国能长源武汉江夏湖泗120MW渔光互补光伏发电项目（一期80MW），位于武汉市江夏区，规划装机容量8万千瓦"
+    },
+    {
+      "name": "国能长源松滋市八宝镇100MW风电场项目",
+      "project_type": "capacity_expansion",
+      "location": "荆州市松滋市八宝镇和涴市镇",
+      "investment_amount": null,
+      "designed_capacity": "10万千瓦",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "松滋八宝风电项目 指 国能长源松滋市八宝镇100MW风电场项目，位于荆州市松滋市八宝镇和涴市镇，规划装机容量10万千瓦"
+    },
+    {
+      "name": "湖北随县百万基地二期光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北省随州市",
+      "investment_amount": null,
+      "designed_capacity": "10万千瓦",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "随县基地二期 指 湖北随县百万基地二期光伏项目，位于湖北省随州市，规划装机容量10万千瓦"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "100万千瓦超超临界燃煤机组",
+      "asset_type": "core_technology",
+      "related_product": "火力发电",
+      "quantitative_info": "4台",
+      "quote": "公司的火力发电机组全部为30万千瓦以上机组，并拥有4台100万千瓦超超临界燃煤机组"
+    },
+    {
+      "name": "基于熔盐储能技术开展耦合电能和热能多种热源的调频调峰供热技术研究",
+      "asset_type": "process_technology",
+      "related_product": "火电灵活性改造",
+      "quantitative_info": null,
+      "quote": "基于熔盐储能技术开展耦合电能和热能多种热源的调频调峰供热安全整体解决方案的研究与应用"
+    },
+    {
+      "name": "基于透明可视的1000MW级燃煤锅炉灵活智能燃烧控制技术",
+      "asset_type": "core_technology",
+      "related_product": "燃煤锅炉运行",
+      "quantitative_info": null,
+      "quote": "开发基于透明可视的1000MW级燃煤锅炉灵活智能燃烧控制技术"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "87.87%",
+      "related_entity": "国网湖北省电力有限公司",
+      "period": "报告期",
+      "quote": "1 国网湖北省电力有限公司 11,887,352,501.46 87.87%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "91.81%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 91.81%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "54.82%",
+      "related_entity": "国家能源投资集团有限责任公司",
+      "period": "报告期",
+      "quote": "国家能源投资集团有限责任公司 7,016,921,993.11 54.82%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "59.48%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 59.48%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 91.81%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "供应商集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 59.48%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "湖北省电力供需延续宽松格局，外购电比重预计突破15%，省内发电空间进一步收窄，市场竞争更趋激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "预计2026年湖北省电力供需延续宽松格局。随着省外特高压直流满送，外购电比重预计突破15%，省内发电空间进一步收窄。叠加火电、新能源装机持续增长，市场竞争更趋激烈"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "煤电机组功能定位转变，需承担更多调峰调频任务，设备损耗速率加快，故障隐患发生概率上升。",
+      "related_entity": null,
+      "related_product": "煤电机组",
+      "quote": "在新型电力系统转型过程中，公司煤电机组功能定位发生转变，发电运行模式随之调整，需承担更多调峰调频类任务。在此背景下，机组主、辅设备运行条件偏离常规设计标准，设备损耗速率加快，各类故障隐患发生概率有所上升"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "煤炭采购调整应对需求响应不足，可能导致整体库存水平偏低。",
+      "related_entity": null,
+      "related_product": "燃料（煤）",
+      "quote": "部分时段受负荷侧影响，可能出现煤电协同不够，电煤采购调整应对需求响应不足，导致整体库存水平偏低的情况"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "新能源上网电价市场化改革政策影响项目效益。",
+      "related_entity": null,
+      "related_product": "新能源项目",
+      "quote": "国能长源荆门市源网荷储百万千瓦级新能源基地钟祥子项目光伏电站项目、国能长源荆州市纪南镇100MW渔光互补光伏发电项目、国能长源巴东县沿渡河镇100MW农光互补光伏发电项目、国能长源荆门届家岭罗汉寺70MW农光互补光伏发电项目(一期)受《关于深化新能源上网电价市场化改革促进新能源高质量发展的通知》（发改价格〔2025〕136号）政策影响，实际上网电价未达预期"
+    },
+    {
+      "risk_type": "other",
+      "description": "工程项目安全、环保、质量管理方面可能出现监管不到位、执行不严格等风险。",
+      "related_entity": null,
+      "related_product": "建设工程项目",
+      "quote": "在建设工程项目安全、环保、质量管理方面，或出现现场安全文明施工监管不到位，施工质量未严格按工艺和安装质量标准执行，环保工程未严格执行环保设计、施工、验收“三同时”要求等风险"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "company_name_mentioned": "深圳能源集团股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "62.52%",
+      "quote": "分行业：电力 27,152,764,890.30 62.52%"
+    },
+    {
+      "name": "电力-燃煤",
+      "type": "service",
+      "revenue_proportion": "21.47%",
+      "quote": "分产品：电力-燃煤 9,324,367,361.29 21.47%"
+    },
+    {
+      "name": "电力-燃机",
+      "type": "service",
+      "revenue_proportion": "27.88%",
+      "quote": "分产品：电力-燃机 12,108,806,611.05 27.88%"
+    },
+    {
+      "name": "电力-水电",
+      "type": "service",
+      "revenue_proportion": "1.75%",
+      "quote": "分产品：电力-水电 761,936,398.32 1.75%"
+    },
+    {
+      "name": "电力-风电",
+      "type": "service",
+      "revenue_proportion": "7.99%",
+      "quote": "分产品：电力-风电 3,471,629,270.41 7.99%"
+    },
+    {
+      "name": "电力-光伏",
+      "type": "service",
+      "revenue_proportion": "3.42%",
+      "quote": "分产品：电力-光伏 1,486,025,249.23 3.42%"
+    },
+    {
+      "name": "生态环保（固废处理等）",
+      "type": "service",
+      "revenue_proportion": "20.22%",
+      "quote": "分产品：生态环保 8,781,395,676.22 20.22%"
+    },
+    {
+      "name": "天然气",
+      "type": "service",
+      "revenue_proportion": "12.39%",
+      "quote": "分产品：天然气 5,380,041,348.73 12.39%"
+    },
+    {
+      "name": "其他（包括数智服务等）",
+      "type": "service",
+      "revenue_proportion": "4.87%",
+      "quote": "分产品：其他 2,115,420,265.23 4.87%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料（煤炭、天然气等）",
+      "target_product": "电力",
+      "cost_proportion": "41.90%",
+      "quote": "电力 燃料 14,436,248,394.13 41.90%"
+    },
+    {
+      "name": "燃气",
+      "target_product": "天然气销售",
+      "cost_proportion": "14.15%",
+      "quote": "燃气 燃气 4,876,492,115.70 14.15%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网公司（南方电网、国家电网）",
+      "source_product": "电力",
+      "quote": "公司主要销售客户情况...1 中国南方电网有限责任公司 19,358,631,276.40 44.57% 2 国家电网有限公司 8,048,464,422.31 18.53%"
+    },
+    {
+      "name": "加纳电力公司",
+      "source_product": "电力",
+      "quote": "3 Electricity Company of Ghana 2,572,468,027.67 5.92%"
+    },
+    {
+      "name": "城市环卫服务",
+      "source_product": "固废处理",
+      "quote": "4 深圳市宝安区城市管理和综合执法局 748,812,121.07 1.72% 5 深圳市南山区环境卫生管理总站 288,703,054.44 0.66%"
+    },
+    {
+      "name": "工业与居民燃气供应",
+      "source_product": "天然气",
+      "quote": "公司经营广东惠州、潮州、新疆巴州、克州、浙江舟山、河北赵县、湖南湘乡等城市燃气供应，...居民用户近 120 万户，工商业用户近2.3 万户"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李英峰",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人李英峰...现任本公司党委书记、第八届董事会董事、董事长。"
+    },
+    {
+      "name": "文明刚",
+      "role": "董事、副董事长",
+      "quote": "现任华能国际电力股份有限公司总会计师、董事会秘书、党委委员，本公司第八届董事会董事、副董事长。"
+    },
+    {
+      "name": "欧阳绘宇",
+      "role": "董事、总裁",
+      "quote": "现任民革中央经济委委员，民革深圳市委会副主委，政协第十三届广东省委员会常委，本公司第八届董事会董事、总裁。"
+    },
+    {
+      "name": "刘石磊",
+      "role": "董事",
+      "quote": "现任本公司党委副书记、工会主席、第八届董事会董事。"
+    },
+    {
+      "name": "王超",
+      "role": "董事、财务总监",
+      "quote": "现任本公司第八届董事会董事、财务总监。"
+    },
+    {
+      "name": "危剑鸣",
+      "role": "董事",
+      "quote": "现任华能国际电力股份有限公司纪律检查与审计部主任...本公司第八届董事会董事。"
+    },
+    {
+      "name": "李倬舸",
+      "role": "副总裁、董事会秘书",
+      "quote": "现任本公司党委委员、副总裁、董事会秘书。"
+    },
+    {
+      "name": "郭志东",
+      "role": "副总裁",
+      "quote": "现任本公司党委委员、副总裁。"
+    },
+    {
+      "name": "杨锡龙",
+      "role": "副总裁",
+      "quote": "现任本公司党委委员、副总裁。"
+    },
+    {
+      "name": "邵建平",
+      "role": "副总裁",
+      "quote": "现任本公司党委委员、副总裁。"
+    },
+    {
+      "name": "盛杨怿",
+      "role": "副总裁",
+      "quote": "现任本公司党委委员、副总裁。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国南方电网有限责任公司",
+      "relation_type": "customer",
+      "business_details": "电力销售",
+      "quote": "1 中国南方电网有限责任公司 19,358,631,276.40 44.57%"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "电力销售",
+      "quote": "2 国家电网有限公司 8,048,464,422.31 18.53%"
+    },
+    {
+      "name": "Electricity Company of Ghana",
+      "relation_type": "customer",
+      "business_details": "电力销售（境外）",
+      "quote": "3 Electricity Company of Ghana 2,572,468,027.67 5.92%"
+    },
+    {
+      "name": "中海石油气电集团有限责任公司广东分公司",
+      "relation_type": "supplier",
+      "business_details": "天然气采购",
+      "quote": "1 中海石油气电集团有限责任公司广东分公司 3,946,764,738.58 11.46%"
+    },
+    {
+      "name": "中国石油天然气股份有限公司天然气销售广东分公司",
+      "relation_type": "supplier",
+      "business_details": "天然气采购",
+      "quote": "2 中国石油天然气股份有限公司天然气销售广东分公司 2,677,455,862.75 7.77%"
+    },
+    {
+      "name": "广东大鹏液化天然气有限公司",
+      "relation_type": "supplier",
+      "business_details": "天然气采购",
+      "quote": "3 广东大鹏液化天然气有限公司 1,734,396,554.42 5.03%"
+    },
+    {
+      "name": "潮州中石油昆仑燃气有限公司",
+      "relation_type": "supplier",
+      "business_details": "天然气采购",
+      "quote": "4 潮州中石油昆仑燃气有限公司 1,430,388,950.18 4.15%"
+    },
+    {
+      "name": "国能销售集团广州有限公司",
+      "relation_type": "supplier",
+      "business_details": "燃料采购",
+      "quote": "5 国能销售集团广州有限公司 1,263,329,263.03 3.67%"
+    },
+    {
+      "name": "深圳能源环保股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "固废处理业务",
+      "quote": "环保公司 指 深圳能源环保股份有限公司...所属环保公司于2025年3月成功引入5家国内头部投资机构作为战略投资者，募集资金人民币50亿元"
+    },
+    {
+      "name": "深能北方能源控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新能源发电业务",
+      "quote": "北方控股公司 指 深能北方能源控股有限公司"
+    },
+    {
+      "name": "深圳能源燃气投资控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "综合燃气业务",
+      "quote": "燃气控股公司 指 深圳能源燃气投资控股有限公司"
+    },
+    {
+      "name": "深圳妈湾电力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "火力发电业务",
+      "quote": "妈湾公司 指 深圳妈湾电力有限公司"
+    },
+    {
+      "name": "深能（香港）国际有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "能源投资",
+      "quote": "深能国际 指 深能（香港）国际有限公司"
+    },
+    {
+      "name": "深圳能源售电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "售电业务",
+      "quote": "售电公司 指 深圳能源售电有限公司"
+    },
+    {
+      "name": "华能国际电力股份有限公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "华能国际 指 华能国际电力股份有限公司...2013年2月8日，控股股东由深圳市深能能源管理有限公司变更为深圳市国资委。"
+    },
+    {
+      "name": "深圳市国资委",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "深圳市国资委 指 深圳市人民政府国有资产监督管理委员会...2013年2月8日，控股股东由深圳市深能能源管理有限公司变更为深圳市国资委。"
+    },
+    {
+      "name": "长城证券股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "关联租赁方",
+      "quote": "长城证券 指 长城证券股份有限公司...公司与长城证券就能源大厦南塔10-19层办公区域以及裙楼第8层01单元801b、801c签署房屋租赁合同。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "27,152,764,890.30",
+      "revenue_proportion": "62.52%",
+      "gross_margin": null,
+      "yoy_change": "5.83%",
+      "quote": "分行业：电力 27,152,764,890.30 62.52% ... 同比增减 5.83%"
+    },
+    {
+      "name": "环保",
+      "segment_type": "product_line",
+      "revenue_amount": "8,781,395,676.22",
+      "revenue_proportion": "20.22%",
+      "gross_margin": "26.80%",
+      "yoy_change": "3.43%",
+      "quote": "分行业：环保 8,781,395,676.22 20.22% ... 同比增减 3.43%...生态环保 8,781,395,676.22 6,427,783,206.81 26.80% 3.43% 6.59% -2.17"
+    },
+    {
+      "name": "燃气",
+      "segment_type": "product_line",
+      "revenue_amount": "5,380,041,348.73",
+      "revenue_proportion": "12.39%",
+      "gross_margin": "9.36%",
+      "yoy_change": "0.07%",
+      "quote": "分行业：燃气 5,380,041,348.73 12.39% ... 同比增减 0.07%...天然气 5,380,041,348.73 4,876,492,115.70 9.36% 0.07% -0.52% 0.54"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "2,115,420,265.23",
+      "revenue_proportion": "4.87%",
+      "gross_margin": "50.53%",
+      "yoy_change": "25.14%",
+      "quote": "分行业：其他 2,115,420,265.23 4.87% ... 同比增减 25.14%...其他 2,115,420,265.23 1,046,452,260.27 50.53% 25.14% -2.73% 14.18"
+    },
+    {
+      "name": "境内-广东省内",
+      "segment_type": "region",
+      "revenue_amount": "28,323,999,617.37",
+      "revenue_proportion": "65.22%",
+      "gross_margin": "14.77%",
+      "yoy_change": "4.76%",
+      "quote": "分地区：境内-广东省内 28,323,999,617.37 65.22% ... 同比增减 4.76%...境内-广东省内 28,323,999,617.37 24,140,946,826.82 14.77% 4.76% 0.06% 4.00"
+    },
+    {
+      "name": "境内-广东省外",
+      "segment_type": "region",
+      "revenue_amount": "12,381,095,703.29",
+      "revenue_proportion": "28.51%",
+      "gross_margin": "31.99%",
+      "yoy_change": "4.41%",
+      "quote": "分地区：境内-广东省外 12,381,095,703.29 28.51% ... 同比增减 4.41%...境内-广东省外 12,381,095,703.29 8,420,426,985.39 31.99% 4.41% 14.65% -6.08"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "2,724,526,859.82",
+      "revenue_proportion": "6.27%",
+      "gross_margin": "30.60%",
+      "yoy_change": "17.60%",
+      "quote": "分地区：境外 2,724,526,859.82 6.27% ... 同比增减 17.60%...境外 2,724,526,859.82 1,890,850,561.32 30.60% 17.60% 15.30% 1.38"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "可控机组发电装机容量",
+      "metric_type": "capacity",
+      "value": "2,559.40 万千瓦",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司可控机组发电装机容量为 2,559.40 万千瓦"
+    },
+    {
+      "product": "煤电",
+      "metric_type": "capacity",
+      "value": "601.90 万千瓦",
+      "period": "报告期末",
+      "quote": "煤电 601.90 万千瓦"
+    },
+    {
+      "product": "气电",
+      "metric_type": "capacity",
+      "value": "1,021.93 万千瓦",
+      "period": "报告期末",
+      "quote": "气电1,021.93 万千瓦"
+    },
+    {
+      "product": "水电",
+      "metric_type": "capacity",
+      "value": "101.30 万千瓦",
+      "period": "报告期末",
+      "quote": "水电101.30 万千瓦"
+    },
+    {
+      "product": "风电",
+      "metric_type": "capacity",
+      "value": "399.04 万千瓦",
+      "period": "报告期末",
+      "quote": "风电399.04 万千瓦"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "capacity",
+      "value": "316.43 万千瓦",
+      "period": "报告期末",
+      "quote": "光伏发电316.43 万千瓦"
+    },
+    {
+      "product": "垃圾发电",
+      "metric_type": "capacity",
+      "value": "118.80 万千瓦",
+      "period": "报告期末",
+      "quote": "垃圾发电 118.80 万千瓦"
+    },
+    {
+      "product": "发电量（合计）",
+      "metric_type": "production_volume",
+      "value": "665.54 亿千瓦时",
+      "period": "报告期内",
+      "quote": "发电量（亿千瓦时）...合计 665.54"
+    },
+    {
+      "product": "上网电量（合计）",
+      "metric_type": "sales_volume",
+      "value": "631.62 亿千瓦时",
+      "period": "报告期内",
+      "quote": "上网电量（亿千瓦时）...合计 631.62"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "631.62 亿千瓦时",
+      "period": "报告期内",
+      "quote": "电力 销售量 亿千瓦时 631.62"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "665.54 亿千瓦时",
+      "period": "报告期内",
+      "quote": "电力 生产量 亿千瓦时 665.54"
+    },
+    {
+      "product": "平均上网电价（含税）",
+      "metric_type": "other",
+      "value": "0.52 元/千瓦时",
+      "period": "报告期内",
+      "quote": "平均上网电价或售电价（元/千瓦时，含税） 0.52"
+    },
+    {
+      "product": "发电厂平均用电率",
+      "metric_type": "other",
+      "value": "4.78%",
+      "period": "报告期内",
+      "quote": "发电厂平均用电率（%） 4.78"
+    },
+    {
+      "product": "综合固废日处理能力",
+      "metric_type": "capacity",
+      "value": "53,115 吨",
+      "period": "报告期末",
+      "quote": "投运的综合固废日处理能力达到53,115吨"
+    },
+    {
+      "product": "累计完成垃圾处理量",
+      "metric_type": "production_volume",
+      "value": "1,514.74 万吨",
+      "period": "报告期内",
+      "quote": "公司累计完成垃圾处理量1,514.74万吨"
+    },
+    {
+      "product": "燃气销售气量",
+      "metric_type": "sales_volume",
+      "value": "40.09 亿标准立方米",
+      "period": "报告期内",
+      "quote": "公司燃气板块实现销售气量40.09亿标准立方米"
+    },
+    {
+      "product": "利用小时数（合计）",
+      "metric_type": "other",
+      "value": "2,605 小时",
+      "period": "报告期内",
+      "quote": "发电厂利用小时数（小时）...合计 2,605"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "保定电厂集中供热管网北二环东延工程项目",
+      "project_type": "construction_project",
+      "location": "保定",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "施工期",
+      "expected_completion_time": null,
+      "quote": "保定电厂集中供热管网北二环东延工程...项目进度 11.00%"
+    },
+    {
+      "name": "妈湾电厂升级改造煤电环保替代一期工程",
+      "project_type": "capacity_expansion",
+      "location": "深圳",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "未开工",
+      "expected_completion_time": null,
+      "quote": "妈湾电厂升级改造煤电环保替代一期工程...项目进度 0.00%"
+    },
+    {
+      "name": "深能满城100MW林光互补光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": "河北满城",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "未开工",
+      "expected_completion_time": null,
+      "quote": "深能满城100MW林光互补光伏发电项目...项目进度 0.00%"
+    },
+    {
+      "name": "广东岑田抽水蓄能电站",
+      "project_type": "capacity_expansion",
+      "location": "广东",
+      "investment_amount": null,
+      "designed_capacity": "120 万千瓦",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "关于投资建设广东岑田抽水蓄能电站的公告（2025-029）"
+    },
+    {
+      "name": "深能涿鹿县65万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "河北涿鹿",
+      "investment_amount": null,
+      "designed_capacity": "65 万千瓦",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "关于投资建设深能涿鹿县 65 万千瓦风电项目的公告（2025-028）"
+    },
+    {
+      "name": "汕尾红海湾六海上风电项目",
+      "project_type": "capacity_expansion",
+      "location": "广东汕尾",
+      "investment_amount": null,
+      "designed_capacity": "50 万千瓦",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "关于投资建设汕尾红海湾六海上风电项目的公告（2025-022）"
+    },
+    {
+      "name": "环保公司增资扩股项目",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "人民币50亿元",
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "所属环保公司于2025年3月成功引入5家国内头部投资机构作为战略投资者，募集资金人民币50亿元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "垃圾焚烧发电自主知识产权",
+      "asset_type": "core_technology",
+      "related_product": "生态环保（垃圾焚烧发电）",
+      "quantitative_info": null,
+      "quote": "通过引进吸收和自主创新，掌握了具有国际领先水平的垃圾焚烧发电自主知识产权"
+    },
+    {
+      "name": "参与制定城市固废处理标准",
+      "asset_type": "standard",
+      "related_product": "生态环保",
+      "quantitative_info": "主编、参编城市固废处理国家、行业、地方、团体标准83部",
+      "quote": "主编、参编城市固废处理国家、行业、地方、团体标准83部"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入金额（元） 360,125,441.57",
+      "quote": "研发投入金额（元） 360,125,441.57"
+    },
+    {
+      "name": "研发人员",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发人员数量（人） 1,042",
+      "quote": "研发人员数量（人） 1,042"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "19,358,631,276.40 元，占比 44.57%",
+      "related_entity": "中国南方电网有限责任公司",
+      "period": "报告期内",
+      "quote": "1 中国南方电网有限责任公司 19,358,631,276.40 44.57%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "31,017,078,901.89 元，占比 71.40%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额（元） 31,017,078,901.89 前五名客户合计销售金额占年度销售总额比例 71.40%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "3,946,764,738.58 元，占比 11.46%",
+      "related_entity": "中海石油气电集团有限责任公司广东分公司",
+      "period": "报告期内",
+      "quote": "1 中海石油气电集团有限责任公司广东分公司 3,946,764,738.58 11.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "11,052,335,368.96 元，占比 32.08%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额（元） 11,052,335,368.96 前五名供应商合计采购金额占年度采购总额比例 32.08%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "燃料价格波动风险。2026年预计燃料供需整体平衡，部分时段或存在供应偏紧的可能。应对措施包括优化采购模式和加强市场研判。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "公司已在本报告中详细描述存在的燃料价格波动风险...（二）风险展望与应对 1.燃料价格波动风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "境外投资环境风险。主要体现为政策与地缘政治、国际绿色规则、气候异常三大维度。应对措施包括强化风险对冲布局和建立动态预警机制。",
+      "related_entity": null,
+      "related_product": "海外业务",
+      "quote": "公司已在本报告中详细描述存在的...境外投资环境风险...2.境外投资环境风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "应收账款管理风险。受新能源项目陆续投产运营影响，部分应收账款回收时点不确定，或将影响公司经营现金流状况。应对措施包括执行催收方案和关注新能源政策。",
+      "related_entity": null,
+      "related_product": "新能源业务",
+      "quote": "公司已在本报告中详细描述存在的...应收账款管理风险...3.应收账款管理风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场交易风险。随着全国统一电力市场建设加速推进，新能源全面入市步伐加快，电价面临持续下行风险，影响新能源项目盈利稳定性。应对措施包括强化组织保障、深化市场研究、优化交易策略。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "公司已在本报告中详细描述存在的...电力市场交易风险...4.电力市场交易风险"
+    }
+  ]
+}

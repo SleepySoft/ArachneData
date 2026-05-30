@@ -1,0 +1,534 @@
+{
+  "company_name_mentioned": "深圳市和科达精密清洗设备股份有限公司",
+  "produces": [
+    {
+      "name": "精密清洗设备（包含超声波清洗、平板清洗、喷淋清洗、碳氢清洗等）",
+      "type": "device",
+      "revenue_proportion": "36.94%",
+      "quote": "报告期内，公司实现营业收入267,354,798.01元...分产品 清洗产品 98,772,238.52 36.94%..."
+    },
+    {
+      "name": "线束产品（新能源高低压线束、汽车线束、储能系统专用线束、光伏线束及工业机器人线束）",
+      "type": "component",
+      "revenue_proportion": "47.98%",
+      "quote": "报告期内，公司实现营业收入267,354,798.01元...分产品...线束产品 128,266,285.57 47.98%..."
+    },
+    {
+      "name": "半导体设备（晶圆清洗设备、匀胶显影设备、槽式清洗设备、无掩膜光刻机、微影光刻机和晶圆去胶机等）",
+      "type": "device",
+      "revenue_proportion": "8.67%",
+      "quote": "报告期内，公司实现营业收入267,354,798.01元...分产品...半导体产品 23,176,814.88 8.67%..."
+    },
+    {
+      "name": "水处理设备（纯水生产设备、污水处理设备和中水回用设备等）",
+      "type": "device",
+      "revenue_proportion": "1.32%",
+      "quote": "报告期内，公司实现营业收入267,354,798.01元...分产品...水处理产品 3,530,973.45 1.32%..."
+    },
+    {
+      "name": "储能设备（智能种植方舱等）",
+      "type": "device",
+      "revenue_proportion": "0.55%",
+      "quote": "报告期内...分产品...其他产品 1,467,506.11 0.55%...报告期内，公司重点布局智能方舱业务，实现营业收入357.35万元..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "不锈钢板材",
+      "target_product": "精密清洗设备",
+      "cost_proportion": null,
+      "quote": "公司精密清洗设备、线束生产所需的主要原材料包括不锈钢板材、电子元器件、精密零部件及金属铜等，原材料成本在公司主营业务成本中占比较高。"
+    },
+    {
+      "name": "电子元器件",
+      "target_product": "精密清洗设备、线束产品、半导体设备",
+      "cost_proportion": null,
+      "quote": "公司精密清洗设备、线束生产所需的主要原材料包括不锈钢板材、电子元器件、精密零部件及金属铜等，原材料成本在公司主营业务成本中占比较高。"
+    },
+    {
+      "name": "精密零部件",
+      "target_product": "精密清洗设备、线束产品、半导体设备",
+      "cost_proportion": null,
+      "quote": "公司精密清洗设备、线束生产所需的主要原材料包括不锈钢板材、电子元器件、精密零部件及金属铜等，原材料成本在公司主营业务成本中占比较高。"
+    },
+    {
+      "name": "金属铜",
+      "target_product": "线束产品",
+      "cost_proportion": null,
+      "quote": "公司精密清洗设备、线束生产所需的主要原材料包括不锈钢板材、电子元器件、精密零部件及金属铜等，原材料成本在公司主营业务成本中占比较高。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "半导体先进封装及前道制程",
+      "source_product": "半导体设备",
+      "quote": "和科达半导体专注于半导体专用设备的研发、生产和销售，面向半导体先进封装及前道制程领域提供一站式工艺解决方案..."
+    },
+    {
+      "name": "新能源动力电池",
+      "source_product": "线束产品",
+      "quote": "公司依托完善的质量体系和工艺生产流程，打造多品类线束产品，涵盖新能源高低压线束...等核心产品..."
+    },
+    {
+      "name": "汽车",
+      "source_product": "线束产品",
+      "quote": "公司依托完善的质量体系和工艺生产流程，打造多品类线束产品，涵盖...汽车线束...等核心产品..."
+    },
+    {
+      "name": "储能系统",
+      "source_product": "线束产品、储能设备",
+      "quote": "公司依托完善的质量体系和工艺生产流程，打造多品类线束产品，涵盖...储能系统专用线束...等核心产品。报告期内，公司重点布局智能方舱业务..."
+    },
+    {
+      "name": "光伏",
+      "source_product": "线束产品",
+      "quote": "公司依托完善的质量体系和工艺生产流程，打造多品类线束产品，涵盖...光伏线束...等核心产品..."
+    },
+    {
+      "name": "工业机器人",
+      "source_product": "线束产品",
+      "quote": "公司依托完善的质量体系和工艺生产流程，打造多品类线束产品，涵盖...工业机器人线束...等核心产品..."
+    },
+    {
+      "name": "消费电子",
+      "source_product": "精密清洗设备、水处理设备",
+      "quote": "超纯水设备是消费电子、平板显示、太阳能光伏、薄膜电池等行业生产过程中的关键配套设备。"
+    },
+    {
+      "name": "平板显示",
+      "source_product": "精密清洗设备、水处理设备",
+      "quote": "超纯水设备是消费电子、平板显示、太阳能光伏、薄膜电池等行业生产过程中的关键配套设备。"
+    },
+    {
+      "name": "太阳能光伏",
+      "source_product": "精密清洗设备、水处理设备",
+      "quote": "超纯水设备是消费电子、平板显示、太阳能光伏、薄膜电池等行业生产过程中的关键配套设备。"
+    },
+    {
+      "name": "智慧农业工厂化种植",
+      "source_product": "储能设备（智能种植方舱）",
+      "quote": "该业务聚焦智慧农业工厂化种植领域，主打模块化智能种植方舱产品...核心应用于食用菌（平菇等）工厂化种植..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "孟宇亮",
+      "role": "董事长、总经理",
+      "quote": "公司负责人孟宇亮...孟宇亮，男，中国国籍...现任公司董事长、总经理..."
+    },
+    {
+      "name": "王文涛",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人王文涛...王文涛，男，中国国籍...现任公司财务总监。"
+    },
+    {
+      "name": "陈冬青",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）陈冬青声明..."
+    },
+    {
+      "name": "金文明",
+      "role": "董事",
+      "quote": "金文明，男，中国国籍...现任公司董事、益阳市瑞和成控股有限公司执行董事、总经理..."
+    },
+    {
+      "name": "王蓓蓓",
+      "role": "董事",
+      "quote": "王蓓蓓，女，中国国籍...现任公司董事、赋颍智科监事..."
+    },
+    {
+      "name": "张团结",
+      "role": "董事",
+      "quote": "张团结，男，中国国籍...现任公司董事..."
+    },
+    {
+      "name": "纪贵宝",
+      "role": "独立董事",
+      "quote": "纪贵宝，男，中国国籍...现任公司独立董事、深圳万达会计师事务所合伙人..."
+    },
+    {
+      "name": "徐张宝",
+      "role": "独立董事",
+      "quote": "徐张宝，男，中国国籍...现任职于阜阳师范大学计算机与信息工程学院，担任副教授。"
+    },
+    {
+      "name": "王萌",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...姓名 王萌..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "安徽赋颍智科企业管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东。",
+      "quote": "安徽赋颍智科企业管理有限公司（曾用名：深圳市丰启智远科技有限公司、丰启智远）指 控股股东..."
+    },
+    {
+      "name": "阜阳市颍泉区人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人。",
+      "quote": "颍泉区国资委、实际控制人 指 阜阳市颍泉区人民政府国有资产监督管理委员会..."
+    },
+    {
+      "name": "深圳市和科达超声设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事精密清洗设备、软件等业务。",
+      "quote": "深圳超声 指 深圳市和科达超声设备有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况：深圳市和科达超声设备有限公司 子公司..."
+    },
+    {
+      "name": "深圳市和科达精密部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事线束产品业务。",
+      "quote": "深圳市和科达精密部件有限公司...报告期末主要子公司在职员工的数量（人）225...报告期内，和科达精密部件板块营业收入达1.29亿元..."
+    },
+    {
+      "name": "深圳市和科达半导体设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事半导体设备业务。",
+      "quote": "和科达半导体 指 深圳市和科达半导体设备有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况：深圳市和科达半导体设备有限公司 子公司..."
+    },
+    {
+      "name": "苏州市和科达水处理科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事水处理设备业务。",
+      "quote": "苏州水处理 指 苏州市和科达水处理科技有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况：苏州市和科达水处理科技有限公司 子公司..."
+    },
+    {
+      "name": "上海和科达储能源设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事储能设备业务。",
+      "quote": "和科达储能 指 上海和科达储能源设备有限公司...公司于2024年设立控股子公司上海和科达储能源设备有限公司..."
+    },
+    {
+      "name": "东莞元太电业有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，销售额占年度销售总额36.16%。",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 东莞元太电业有限公司 96,685,747.77 36.16%..."
+    },
+    {
+      "name": "深圳市海捷运供应链管理有限公司",
+      "relation_type": "customer",
+      "business_details": "第二大客户，销售额占年度销售总额11.52%。",
+      "quote": "公司前5大客户资料...2 深圳市海捷运供应链管理有限公司 30,801,932.37 11.52%..."
+    },
+    {
+      "name": "东莞亚大电子科技有限公司",
+      "relation_type": "customer",
+      "business_details": "第三大客户，销售额占年度销售总额9.70%。",
+      "quote": "公司前5大客户资料...3 东莞亚大电子科技有限公司 25,926,024.99 9.70%..."
+    },
+    {
+      "name": "客户一",
+      "relation_type": "customer",
+      "business_details": "第四大客户，销售额占年度销售总额7.94%。",
+      "quote": "公司前5大客户资料...4 客户一 21,238,938.05 7.94%..."
+    },
+    {
+      "name": "蓝思科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "第五大客户，销售额占年度销售总额6.72%。",
+      "quote": "公司前5大客户资料...5 蓝思科技股份有限公司 17,963,982.12 6.72%..."
+    },
+    {
+      "name": "东莞市晋茂电子有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购额占年度采购总额22.70%。",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 东莞市晋茂电子有限公司 38,580,446.34 22.70%..."
+    },
+    {
+      "name": "广州万宝漆包线有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商，采购额占年度采购总额16.39%。",
+      "quote": "公司前5名供应商资料...2 广州万宝漆包线有限公司 27,852,489.23 16.39%..."
+    },
+    {
+      "name": "福铭精密部件（深圳）有限公司",
+      "relation_type": "supplier",
+      "business_details": "第三大供应商，采购额占年度采购总额9.91%。",
+      "quote": "公司前5名供应商资料...3 福铭精密部件（深圳）有限公司 16,845,951.80 9.91%..."
+    },
+    {
+      "name": "东莞市鑫之力科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "第四大供应商，采购额占年度采购总额3.07%。",
+      "quote": "公司前5名供应商资料...4 东莞市鑫之力科技有限公司 5,217,032.13 3.07%..."
+    },
+    {
+      "name": "东莞市领尚光电科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "第五大供应商，采购额占年度采购总额3.04%。",
+      "quote": "公司前5名供应商资料...5 东莞市领尚光电科技有限公司 5,161,221.20 3.04%..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "清洗产品",
+      "segment_type": "product_line",
+      "revenue_amount": "98,772,238.52元",
+      "revenue_proportion": "36.94%",
+      "gross_margin": "49.97%",
+      "yoy_change": "营业收入比上年同期增减 460.23%",
+      "quote": "分产品 清洗产品 98,772,238.52 36.94%...清洗产品 营业收入 98,772,238.52...毛利率 49.97%..."
+    },
+    {
+      "name": "水处理产品",
+      "segment_type": "product_line",
+      "revenue_amount": "3,530,973.45元",
+      "revenue_proportion": "1.32%",
+      "gross_margin": "2.86%",
+      "yoy_change": "营业收入比上年同期增减 95.88%",
+      "quote": "分产品...水处理产品 3,530,973.45 1.32%...水处理产品 营业收入 3,530,973.45...毛利率 2.86%..."
+    },
+    {
+      "name": "线束产品",
+      "segment_type": "product_line",
+      "revenue_amount": "128,266,285.57元",
+      "revenue_proportion": "47.98%",
+      "gross_margin": "3.47%",
+      "yoy_change": "营业收入比上年同期增减 12,676.20%",
+      "quote": "分产品...线束产品 128,266,285.57 47.98%...线束产品 营业收入 128,266,285.57...毛利率 3.47%..."
+    },
+    {
+      "name": "半导体产品",
+      "segment_type": "product_line",
+      "revenue_amount": "23,176,814.88元",
+      "revenue_proportion": "8.67%",
+      "gross_margin": "29.76%",
+      "yoy_change": "营业收入比上年同期增减 41,014.21%",
+      "quote": "分产品...半导体产品 23,176,814.88 8.67%...半导体产品 营业收入 23,176,814.88...毛利率 29.76%..."
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "45,540,584.47元",
+      "revenue_proportion": "17.03%",
+      "gross_margin": "45.85%",
+      "yoy_change": "营业收入比上年同期增减 379.14%",
+      "quote": "分地区 华东地区 45,540,584.47 17.03%...华东地区 营业收入 45,540,584.47...毛利率 45.85%..."
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "168,410,536.45元",
+      "revenue_proportion": "62.99%",
+      "gross_margin": "14.58%",
+      "yoy_change": "营业收入比上年同期增减 7,582.84%",
+      "quote": "分地区...华南地区 168,410,536.45 62.99%...华南地区 营业收入 168,410,536.45...毛利率 14.58%..."
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "7,994,251.18元",
+      "revenue_proportion": "2.99%",
+      "gross_margin": "24.82%",
+      "yoy_change": "营业收入比上年同期增减 -26.42%",
+      "quote": "分地区...华中地区 7,994,251.18 2.99%...华中地区 营业收入 7,994,251.18...毛利率 24.82%..."
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "19,791,113.86元",
+      "revenue_proportion": "7.40%",
+      "gross_margin": "38.70%",
+      "yoy_change": "营业收入比上年同期增减 6,640.03%",
+      "quote": "分地区...境外 19,791,113.86 7.40%...境外 营业收入 19,791,113.86...毛利率 38.70%..."
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "267,354,798.01元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "23.80%",
+      "yoy_change": "营业收入比上年同期增减 987.05%",
+      "quote": "分销售模式 直销 267,354,798.01 100.00%...直销 营业收入 267,354,798.01...毛利率 23.80%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "主营产品（推测为设备类）",
+      "metric_type": "sales_volume",
+      "value": "74台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年...销售量 台 74..."
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "和科盛新能源科技（南通）有限公司",
+      "project_type": "other",
+      "location": "如皋经济技术开发区城北街道益寿北路889号",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "本年新设",
+      "expected_completion_time": null,
+      "quote": "公司名称 股权取得方式 公司成立时间 持股比例 和科盛新能源科技（南通）有限公司 本年新设 2025年6月19日 51.00%...和科盛 新能源...租赁场地...如皋经济技术开发区城北街道益寿北路889号..."
+    },
+    {
+      "name": "和科达半导体业务产能建设",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "产能建设与市场拓展同步推进",
+      "expected_completion_time": null,
+      "quote": "和科达半导体...技术研发、产能建设与市场拓展同步推进，业务规模持续爬坡..."
+    },
+    {
+      "name": "和科达精密部件业务产能建设",
+      "project_type": "capacity_expansion",
+      "location": "广西南宁、东莞",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "业务规模持续爬坡",
+      "expected_completion_time": null,
+      "quote": "和科达精密部件...技术研发、产能建设与市场拓展同步推进，业务规模持续爬坡...租赁场地...南宁市广西宾阳黎塘镇中营路228号...东莞市塘厦镇官塘街9号厂房..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超声波清洗、平板清洗、喷淋清洗、碳氢清洗等多种精密清洗技术",
+      "asset_type": "core_technology",
+      "related_product": "精密清洗设备",
+      "quantitative_info": null,
+      "quote": "公司自成立以来始终致力于工业精密清洗设备的研发制造，目前拥有超声波清洗、平板清洗、喷淋清洗、碳氢清洗等多种精密清洗设备的设计研发能力..."
+    },
+    {
+      "name": "半导体设备（光刻、涂胶显影、清洗）研发制造能力",
+      "asset_type": "core_technology",
+      "related_product": "半导体设备",
+      "quantitative_info": null,
+      "quote": "和科达半导体...是具备光刻、涂胶显影、清洗三大核心设备研发制造能力的专用设备提供商。"
+    },
+    {
+      "name": "参与制定行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司始终秉承“科技创新、品质第一、客户至上、诚信服务”的经营理念...成为研发、设计、制造为一体的现代化大型超声波清洗设备和配套设备生产企业。"
+    },
+    {
+      "name": "全流程定制化解决方案能力",
+      "asset_type": "process_technology",
+      "related_product": "精密清洗设备",
+      "quantitative_info": null,
+      "quote": "公司...拥有稳定优质的客户群体和丰富的配套经验，能够根据不同行业不同客户不同产品的各类清洗需求，提供整套精密清洗解决方案..."
+    },
+    {
+      "name": "高精度大景深无掩膜LDI光刻机国产化项目研发",
+      "asset_type": "core_technology",
+      "related_product": "半导体设备",
+      "quantitative_info": "一期结案工艺打通",
+      "quote": "主要研发项目名称...高精度大景深无掩膜LDI光刻机国产化项目研发...项目进展 一期结案工艺打通..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "36.16%",
+      "related_entity": "东莞元太电业有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 东莞元太电业有限公司 96,685,747.77 36.16%..."
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "72.04%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 192,616,625.30 前五名客户合计销售金额占年度销售总额比例 72.04%..."
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "22.70%",
+      "related_entity": "东莞市晋茂电子有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 东莞市晋茂电子有限公司 38,580,446.34 22.70%..."
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "55.11%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 93,657,140.70 前五名供应商合计采购金额占年度采购总额比例 55.11%..."
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司面临前五大客户销售集中度较高的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 72.04%。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司面临前五大供应商采购集中度较高的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 55.11%。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格快速上涨，可能导致公司产品成本上升，降低产品毛利率水平。",
+      "related_entity": null,
+      "related_product": "精密清洗设备、线束产品",
+      "quote": "如出现原材料价格快速上涨的情况，将导致公司产品成本的上升，而公司产品价格调整具有一定的滞后性，可能降低公司产品的毛利率水平，对公司经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争加剧，若公司不能持续研发适应市场的产品，可能面临毛利率和业绩下滑的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若公司不能持续研发适应市场的时产品，改进生产工艺，提高生产效率，公司或将面临毛利率和业绩下滑的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "半导体设备行业技术迭代迅速，若研发方向未能匹配市场需求或关键技术无法突破，将影响产品竞争力。",
+      "related_entity": null,
+      "related_product": "半导体设备",
+      "quote": "半导体设备行业技术迭代迅速，若公司研发方向未能及时匹配市场需求、关键技术无法突破或研发成果转化不及预期，将影响产品竞争力..."
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司半导体业务部分核心零部件依赖进口，国际出口管制、贸易政策变化可能导致生产交付受阻、成本上升。",
+      "related_entity": null,
+      "related_product": "半导体设备",
+      "quote": "公司部分核心零部件依赖进口，国际出口管制、贸易政策变化或供应链中断，可能导致生产交付受阻、成本大幅上升..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "下游芯片行业资本开支波动、市场竞争加剧及国际贸易壁垒强化，可能对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": "半导体设备",
+      "quote": "下游芯片行业资本开支波动、市场竞争加剧及国际贸易壁垒强化，亦可能对公司经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "半导体设备业务属于资金密集型领域，若融资渠道不畅或资金周转承压，将制约业务扩张。",
+      "related_entity": null,
+      "related_product": "半导体设备",
+      "quote": "半导体设备业务属于资金密集型领域，研发、生产及市场拓展需持续大额资金投入，若融资渠道不畅或资金周转承压，将进一步制约业务扩张与项目推进。"
+    },
+    {
+      "risk_type": "other",
+      "description": "半导体设备客户验证周期长，若验证进度未达预期，将直接影响订单落地与收入确认。",
+      "related_entity": null,
+      "related_product": "半导体设备",
+      "quote": "半导体设备客户验证门槛高、周期长，若验证进度未达预期，将直接影响订单落地与收入确认..."
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司存在存货跌价风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值损失（损失以“-”号填列） -4,882,942.85...主要系存货跌价所致..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司面临应收账款坏账损失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如部分客户因经营状况恶化、资金周转困难等原因未能及时支付货款...公司或将面临应收账款发生坏账损失的风险..."
+    }
+  ]
+}

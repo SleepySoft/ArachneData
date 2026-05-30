@@ -1,0 +1,269 @@
+{
+  "company_name_mentioned": "中兴—沈阳商业大厦（集团）股份有限公司",
+  "produces": [
+    {
+      "name": "零售商品",
+      "type": "service",
+      "revenue_proportion": "87.24%",
+      "quote": "分产品\n零售 650,895,787.92 87.24% 670,487,241.08 87.84% -2.92%"
+    },
+    {
+      "name": "服务费",
+      "type": "service",
+      "revenue_proportion": "12.76%",
+      "quote": "分产品\n服务费 95,195,928.53 12.76% 92,831,085.30 12.16% 2.55%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品采购",
+      "target_product": "零售",
+      "cost_proportion": null,
+      "quote": "（1）商品采购情况\n公司营业收入以百货零售为主，前五名供应商供货占总采购金额比例为71.76%。"
+    },
+    {
+      "name": "欧莱雅（中国）有限公司",
+      "target_product": "化妆品",
+      "cost_proportion": "27.04%",
+      "quote": "1 欧莱雅（中国）有限公司 83,988,042.24 27.04%"
+    },
+    {
+      "name": "雅诗兰黛（上海）商贸有限公司",
+      "target_product": "化妆品",
+      "cost_proportion": "16.85%",
+      "quote": "2 雅诗兰黛（上海）商贸有限公司 52,324,651.03 16.85%"
+    },
+    {
+      "name": "资生堂商贸（上海）有限公司",
+      "target_product": "化妆品",
+      "cost_proportion": "12.11%",
+      "quote": "3 资生堂商贸（上海）有限公司 37,625,240.18 12.11%"
+    },
+    {
+      "name": "路威酩轩香水化妆品（上海）有限公司",
+      "target_product": "化妆品",
+      "cost_proportion": "9.46%",
+      "quote": "4 路威酩轩香水化妆品（上海）有限公司 29,395,751.69 9.46%"
+    },
+    {
+      "name": "香奈儿（中国）贸易有限公司",
+      "target_product": "化妆品",
+      "cost_proportion": "6.30%",
+      "quote": "5 香奈儿（中国）贸易有限公司 19,553,896.75 6.30%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "个人消费",
+      "source_product": "零售商品、服务费",
+      "quote": "公司属于零售行业，销售客户是庞大的个体人群，无法区分主要客户，统计前5名销售客户及其比例无实际意义。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "屈大勇",
+      "role": "董事长",
+      "quote": "屈大勇 男 57 董事长 现任 2020年12月04日 2028年07月23日"
+    },
+    {
+      "name": "李树飞",
+      "role": "总裁",
+      "quote": "李树飞 男 39 总裁 现任 2025年05月14日 2028年07月23日"
+    },
+    {
+      "name": "何长友",
+      "role": "财务总监",
+      "quote": "何长友 男 46 财务总监 现任 2024年12月27日 2028年07月23日"
+    },
+    {
+      "name": "谢元基",
+      "role": "董事会秘书",
+      "quote": "谢元基 男 50 董事会秘书 现任 2025年05月24日 2028年07月23日"
+    },
+    {
+      "name": "方威",
+      "role": "实际控制人",
+      "quote": "方威先生任北京方大国际实业投资集团有限公司董事长，辽宁方大集团实业有限公司董事长。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "辽宁方大集团实业有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东名称：辽宁方大集团实业有限公司"
+    },
+    {
+      "name": "天津一商集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "潜在同业竞争关联方",
+      "quote": "方大集团于2019年11月22日与天津津诚国有资本投资运营有限公司签订了《产权交易合同》，收购其所持有的一商集团100%股权。一商集团下属部分公司从事商业类业务，与中兴商业存在潜在同业竞争。"
+    },
+    {
+      "name": "方大医疗投资管理有限公司及下属公司",
+      "relation_type": "supplier",
+      "business_details": "同受控股股东控制的关联方，存在商品销售和劳务采购",
+      "quote": "同受方大集团控股股东控制的公司\n方大医疗投资管理有限公司\n向关联人销售商品 88.93 0.14%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "零售业",
+      "segment_type": "product_line",
+      "revenue_amount": "650,895,787.92元",
+      "revenue_proportion": "87.24%",
+      "gross_margin": "51.09%",
+      "yoy_change": "-2.92%",
+      "quote": "分行业\n零售业 650,895,787.92 87.24% 670,487,241.08 87.84% -2.92%"
+    },
+    {
+      "name": "服务业",
+      "segment_type": "product_line",
+      "revenue_amount": "95,195,928.53元",
+      "revenue_proportion": "12.76%",
+      "gross_margin": "94.36%",
+      "yoy_change": "2.55%",
+      "quote": "分行业\n服务业 95,195,928.53 12.76% 92,831,085.30 12.16% 2.55%"
+    },
+    {
+      "name": "零售",
+      "segment_type": "product_line",
+      "revenue_amount": "650,895,787.92元",
+      "revenue_proportion": "87.24%",
+      "gross_margin": "51.09%",
+      "yoy_change": "-2.92%",
+      "quote": "分产品\n零售 650,895,787.92 87.24% 670,487,241.08 87.84% -2.92%"
+    },
+    {
+      "name": "服务费",
+      "segment_type": "product_line",
+      "revenue_amount": "95,195,928.53元",
+      "revenue_proportion": "12.76%",
+      "gross_margin": "94.36%",
+      "yoy_change": "2.55%",
+      "quote": "分产品\n服务费 95,195,928.53 12.76% 92,831,085.30 12.16% 2.55%"
+    },
+    {
+      "name": "辽宁省",
+      "segment_type": "region",
+      "revenue_amount": "743,942,797.21元",
+      "revenue_proportion": "99.71%",
+      "gross_margin": null,
+      "yoy_change": "-2.31%",
+      "quote": "分地区\n辽宁省 743,942,797.21 99.71% 761,501,629.96 99.76% -2.31%"
+    },
+    {
+      "name": "甘肃省",
+      "segment_type": "region",
+      "revenue_amount": "2,148,919.24元",
+      "revenue_proportion": "0.29%",
+      "gross_margin": null,
+      "yoy_change": "18.29%",
+      "quote": "分地区\n甘肃省 2,148,919.24 0.29% 1,816,696.42 0.24% 18.29%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "百货门店",
+      "metric_type": "capacity",
+      "value": "21.84万平方米",
+      "period": "报告期",
+      "quote": "地区 经营业态 建筑面积（万平方米） 自有门店数量 租赁门店数量\n百货 21.84 1"
+    },
+    {
+      "product": "超市门店",
+      "metric_type": "capacity",
+      "value": "3.38万平方米",
+      "period": "报告期",
+      "quote": "超市 3.38 1 2"
+    },
+    {
+      "product": "百货业态",
+      "metric_type": "other",
+      "value": "坪效0.56万元/㎡/年",
+      "period": "2025年",
+      "quote": "门店店效情况\n百货 62,539.01 -1.97% 12,105.96 12.94% 0.56"
+    },
+    {
+      "product": "超市业态",
+      "metric_type": "other",
+      "value": "坪效0.15万元/㎡/年",
+      "period": "2025年",
+      "quote": "门店店效情况\n超市 2,361.65 -23.44% -778.16 11.17% 0.15"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "线上交易额2,391.01万元",
+      "period": "报告期",
+      "quote": "4.线上销售情况\n报告期，公司线上交易额为2,391.01万元。"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "商品销售总额30.88亿元",
+      "period": "2025年",
+      "quote": "2025年...全年实现商品销售总额30.88亿元，同比上升0.02%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "恐龙博物馆项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "以恐龙博物馆项目为突破点，切实推动经营模式和内容创新，强化线上线下导流引流"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "CRM、ERP管理系统",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "深度定制CRM、ERP管理系统，精心构建会员标签体系，通过大数据分析不断优化数字化运营能力"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "71.76%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 71.76%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "27.04%",
+      "related_entity": "欧莱雅（中国）有限公司",
+      "period": "报告期",
+      "quote": "1 欧莱雅（中国）有限公司 83,988,042.24 27.04%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争加剧风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.行业竞争加剧风险\n城市商业体量持续放大，行业集中度不断提升，头部企业凭借供应链优势强化市场地位，改变地区商业格局，传统商圈竞争力进一步削弱。新业态、新物种持续涌现，消费渠道更加多元，传统零售企业面临更激烈的客流争夺。"
+    },
+    {
+      "risk_type": "other",
+      "description": "消费渠道分流风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.消费渠道分流风险\n线上消费渗透率预计进一步提升，即时零售、社交电商、内容电商等新渠道快速发展，消费场景更加碎片化。AI技术应用加速，个性化推荐、智能购物等新体验改变消费习惯。传统零售企业面临线上线下全渠道分流、销售增长乏力的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.宏观经济波动风险\n全球经济复苏仍面临不确定性，外部环境变化等因素可能对国内经济产生传导效应。消费者信心恢复节奏可能慢于预期，消费意愿和消费能力提升面临挑战，给零售企业经营带来持续压力。"
+    }
+  ]
+}

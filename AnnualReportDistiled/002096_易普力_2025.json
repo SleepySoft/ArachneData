@@ -1,0 +1,455 @@
+{
+  "company_name_mentioned": "易普力股份有限公司",
+  "produces": [
+    {
+      "name": "工业炸药",
+      "type": "material",
+      "revenue_proportion": "14.02%",
+      "quote": "工业炸药 1,378,814,635.49 14.02%"
+    },
+    {
+      "name": "工业电子雷管",
+      "type": "component",
+      "revenue_proportion": "4.59%",
+      "quote": "工业雷管 450,869,157.38 4.59%"
+    },
+    {
+      "name": "工程服务",
+      "type": "service",
+      "revenue_proportion": "75.85%",
+      "quote": "爆破服务业务 7,456,861,860.76 75.85%"
+    },
+    {
+      "name": "精细化工产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "精细化工产品主要包括工业炸药生产所需的油相、乳化剂等原辅材料"
+    },
+    {
+      "name": "军品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "军品主要包括军用气囊、军用火工品等"
+    },
+    {
+      "name": "消防产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "消防产品主要包括城市综合设施、储能电站等场所使用的灭火装置及安防产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "31.34%",
+      "quote": "供应商一 2,178,215,908.10 31.34%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "5.48%",
+      "quote": "供应商二 380,721,769.99 5.48%"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "3.44%",
+      "quote": "供应商三 239,326,585.98 3.44%"
+    },
+    {
+      "name": "供应商四",
+      "target_product": null,
+      "cost_proportion": "3.25%",
+      "quote": "供应商四 225,572,712.58 3.25%"
+    },
+    {
+      "name": "供应商五",
+      "target_product": null,
+      "cost_proportion": "2.72%",
+      "quote": "供应商五 189,097,314.40 2.72%"
+    },
+    {
+      "name": "设备配件",
+      "target_product": null,
+      "cost_proportion": "13.67%",
+      "quote": "中国能源建设集团电子商务有限公司 商品采购 设备配件 16,330.06 13.67%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "矿山开采",
+      "source_product": "民爆产品",
+      "quote": "相关产品广泛用于各类矿山开采、水利水电项目建设及其他工程爆破施工领域"
+    },
+    {
+      "name": "基础设施建设",
+      "source_product": "民爆产品及工程服务",
+      "quote": "在基建工程领域，公司面向水电、核电、火电等能源工程，以及港口码头、机场、铁路隧道施工等基础建设，提供高品质、高精细度、差异化的爆破服务方案"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "付军",
+      "role": "党委书记、董事长",
+      "quote": "公司负责人付军"
+    },
+    {
+      "name": "邓小英",
+      "role": "总经理、党委副书记、董事",
+      "quote": "总经理、党委副书记、董事"
+    },
+    {
+      "name": "邹七平",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 邹七平"
+    },
+    {
+      "name": "宋龙梅",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）宋龙梅"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国葛洲坝集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东由湖南省南岭化工集团有限责任公司变更为中国葛洲坝集团股份有限公司"
+    },
+    {
+      "name": "中国能源建设集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人由湖南省人民政府国有资产监督管理委员会变更为国务院国有资产监督管理委员会"
+    },
+    {
+      "name": "湖南省南岭化工集团有限责任公司",
+      "relation_type": "other",
+      "business_details": "原控股股东，现为其他关联方",
+      "quote": "南岭化工集团 指 湖南省南岭化工集团有限责任公司"
+    },
+    {
+      "name": "湖南神斧投资管理有限公司",
+      "relation_type": "other",
+      "business_details": "其他关联方",
+      "quote": "神斧投资 指 湖南神斧投资管理有限公司"
+    },
+    {
+      "name": "湖南湘科控股集团有限公司",
+      "relation_type": "other",
+      "business_details": "其他关联方",
+      "quote": "湘科集团 指 湖南湘科控股集团有限公司"
+    },
+    {
+      "name": "攀钢集团矿业有限公司",
+      "relation_type": "investor",
+      "business_details": "交易对方及股东",
+      "quote": "攀钢矿业 指 攀钢集团矿业有限公司"
+    },
+    {
+      "name": "中国葛洲坝集团建设工程有限公司",
+      "relation_type": "other",
+      "business_details": "关联交易方",
+      "quote": "葛洲坝建设公司 指 中国葛洲坝集团建设工程有限公司"
+    },
+    {
+      "name": "葛洲坝（海南）有限公司",
+      "relation_type": "supplier",
+      "business_details": "设备配件采购",
+      "quote": "葛洲坝（海南）有限公司 商品采购 设备配件"
+    },
+    {
+      "name": "宁夏天长民爆器材有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "民爆物品采购及租赁服务",
+      "quote": "宁夏天长民爆器材有限责任公司 商品采购 民爆物品"
+    },
+    {
+      "name": "中国能源建设集团电子商务有限公司",
+      "relation_type": "supplier",
+      "business_details": "设备配件采购",
+      "quote": "中国能源建设集团电子商务有限公司 商品采购 设备配件"
+    },
+    {
+      "name": "葛洲坝集团物流有限公司",
+      "relation_type": "supplier",
+      "business_details": "物流服务",
+      "quote": "葛洲坝集团物流有限公司 接受服务 物流服务"
+    },
+    {
+      "name": "中国葛洲坝集团易普力股份有限公司",
+      "relation_type": "customer",
+      "business_details": "提供爆破服务",
+      "quote": "葛洲坝当阳水泥有限公司 提供服务 爆破服务"
+    },
+    {
+      "name": "河南省松光民爆器材股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年通过非同一控制下企业合并取得",
+      "quote": "河南省松光民爆器材股份有限公司 非同一控制下的企业合并取得"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "爆破服务业务",
+      "segment_type": "product_line",
+      "revenue_amount": "7,456,861,860.76元",
+      "revenue_proportion": "75.85%",
+      "gross_margin": "19.95%",
+      "yoy_change": "20.62%",
+      "quote": "爆破服务业务 7,456,861,860.76 75.85% ... 毛利率 19.95% ... 营业收入比上年同期增减 20.62%"
+    },
+    {
+      "name": "民爆器材产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,829,683,792.87元",
+      "revenue_proportion": "18.61%",
+      "gross_margin": null,
+      "yoy_change": "-4.88%",
+      "quote": "民爆器材产品 1,829,683,792.87 18.61% ... 同比增减 -4.88%"
+    },
+    {
+      "name": "工业炸药",
+      "segment_type": "product_line",
+      "revenue_amount": "1,378,814,635.49元",
+      "revenue_proportion": "14.02%",
+      "gross_margin": "38.88%",
+      "yoy_change": "1.72%",
+      "quote": "工业炸药 1,378,814,635.49 14.02% ... 毛利率 38.88% ... 营业收入比上年同期增减 1.72%"
+    },
+    {
+      "name": "工业雷管",
+      "segment_type": "product_line",
+      "revenue_amount": "450,869,157.38元",
+      "revenue_proportion": "4.59%",
+      "gross_margin": "29.98%",
+      "yoy_change": "-20.63%",
+      "quote": "工业雷管 450,869,157.38 4.59% ... 毛利率 29.98% ... 营业收入比上年同期增减 -20.63%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "4,885,864,709.71元",
+      "revenue_proportion": "49.70%",
+      "gross_margin": "23.52%",
+      "yoy_change": "31.45%",
+      "quote": "西北地区 4,885,864,709.71 49.70% ... 毛利率 23.52% ... 营业收入比上年同期增减 31.45%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "1,815,541,611.17元",
+      "revenue_proportion": "18.47%",
+      "gross_margin": "31.73%",
+      "yoy_change": "-4.56%",
+      "quote": "华中地区 1,815,541,611.17 18.47% ... 毛利率 31.73% ... 营业收入比上年同期增减 -4.56%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,414,360,166.06元",
+      "revenue_proportion": "14.39%",
+      "gross_margin": "28.32%",
+      "yoy_change": "5.22%",
+      "quote": "西南地区 1,414,360,166.06 14.39% ... 毛利率 28.32% ... 营业收入比上年同期增减 5.22%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "437,639,858.80元",
+      "revenue_proportion": "4.45%",
+      "gross_margin": null,
+      "yoy_change": "5.19%",
+      "quote": "境外 437,639,858.80 4.45% ... 同比增减 5.19%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,901,661,762.75元",
+      "revenue_proportion": "90.54%",
+      "gross_margin": "23.72%",
+      "yoy_change": "17.37%",
+      "quote": "直销 8,901,661,762.75 90.54% ... 毛利率 23.72% ... 营业收入比上年同期增减 17.37%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "929,959,803.61元",
+      "revenue_proportion": "9.46%",
+      "gross_margin": "34.84%",
+      "yoy_change": "-3.26%",
+      "quote": "经销 929,959,803.61 9.46% ... 毛利率 34.84% ... 营业收入比上年同期增减 -3.26%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工业炸药",
+      "metric_type": "capacity",
+      "value": "58.15万吨",
+      "period": "报告期",
+      "quote": "工业炸药 58.15万吨"
+    },
+    {
+      "product": "工业炸药",
+      "metric_type": "capacity_utilization",
+      "value": "90.04%",
+      "period": "报告期",
+      "quote": "工业炸药 58.15万吨 90.04%"
+    },
+    {
+      "product": "电子雷管",
+      "metric_type": "capacity",
+      "value": "6450万发",
+      "period": "报告期",
+      "quote": "电子雷管 6450万发"
+    },
+    {
+      "product": "电子雷管",
+      "metric_type": "capacity_utilization",
+      "value": "57.16%",
+      "period": "报告期",
+      "quote": "电子雷管 6450万发 57.16%"
+    },
+    {
+      "product": "导爆管雷管",
+      "metric_type": "capacity",
+      "value": "2000万发",
+      "period": "报告期",
+      "quote": "导爆管雷管 2000万发"
+    },
+    {
+      "product": "工业电雷管",
+      "metric_type": "capacity",
+      "value": "1000万发",
+      "period": "报告期",
+      "quote": "工业电雷管 1000万发"
+    },
+    {
+      "product": "工业导爆索",
+      "metric_type": "capacity",
+      "value": "2000万米",
+      "period": "报告期",
+      "quote": "工业导爆索 2000万米"
+    },
+    {
+      "product": "塑料导爆管",
+      "metric_type": "capacity",
+      "value": "38000万米",
+      "period": "报告期",
+      "quote": "塑料导爆管 38000万米"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "工业炸药、工业电子雷管管理产能分别为62.95万吨/年、7550万发/年",
+      "period": null,
+      "quote": "公司工业炸药、工业电子雷管管理产能分别为62.95万吨/年、7550万发/年"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中国能建绿色民爆创新发展中心项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "42,241,125.99元",
+      "designed_capacity": null,
+      "progress": "建设阶段",
+      "expected_completion_time": null,
+      "quote": "中国能建绿色民爆创新发展中心项目 ... 本期投入金额 42,241,125.99 ... 累计实际投入 144,774,525.99 ... 建设阶段"
+    },
+    {
+      "name": "收购河南省松光民爆器材股份有限公司51%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "316,126,968.00元",
+      "designed_capacity": null,
+      "progress": "已完成股权过户、资产交割、工商变更等工作",
+      "expected_completion_time": null,
+      "quote": "收购河南省松光民爆器材股份有限公司51%股权 ... 投资金额 316,126,968.00 ... 已完成股权过户、资产交割、工商变更等工作"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "基于煤基费托产品的工业炸药新型原材料研究与应用",
+      "asset_type": "core_technology",
+      "related_product": "工业炸药",
+      "quantitative_info": "被认定为原创技术，达到国际领先水平",
+      "quote": "“基于煤基费托产品的工业炸药新型原材料研究与应用”项目被认定为原创技术，达到国际领先水平"
+    },
+    {
+      "name": "EDF-2 煤矿许用型电子雷管及智能化生产线综合技术",
+      "asset_type": "core_technology",
+      "related_product": "电子雷管",
+      "quantitative_info": "总体达到国际先进水平",
+      "quote": "“EDF-2 煤矿许用型电子雷管及智能化生产线综合技术”项目总体达到国际先进水平"
+    },
+    {
+      "name": "现场混装水胶炸药工艺技术",
+      "asset_type": "process_technology",
+      "related_product": "现场混装水胶炸药",
+      "quantitative_info": "高威力型现场混装水胶炸药技术填补了国内相关产品空白，达到国际先进水平；原创普通型现场混装水胶炸药工艺技术与装备，具有国际领先水平",
+      "quote": "自主研发“现场混装水胶炸药工艺技术”，高威力型现场混装水胶炸药技术填补了国内相关产品空白，达到国际先进水平，原创普通型现场混装水胶炸药工艺技术与装备，具有国际领先水平"
+    },
+    {
+      "name": "智慧民爆关键装备与数字化平台开发",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "项目顺利通过验收",
+      "quote": "“智慧民爆关键装备与数字化平台开发”项目顺利通过验收"
+    },
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "833项，其中发明专利194项（含国际PCT专利1项），实用新型专利555项，外观专利3项，软件著作权81项",
+      "quote": "截至本报告期末，公司合计拥有有效专利833项，其中发明专利194项（含国际PCT专利1项），实用新型专利555项，外观专利3项，软件著作权81项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "45.50%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 45.50%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "46.23%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 46.23%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "macroeconomic",
+      "description": "当前，世界百年变局加速演进，国内经济处于结构调整关键期。预计“十五五”期间，受国家能源消费结构转型、基础设施及房地产投资放缓等宏观因素影响，民爆行业市场竞争可能加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，世界百年变局加速演进，国内经济处于结构调整关键期。预计“十五五”期间，受国家能源消费结构转型、基础设施及房地产投资放缓等宏观因素影响，民爆行业市场竞争可能加剧。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "当前，民爆行业结构性矛盾依然突出，总体产能过剩与产品同质化严重，全国性增量需求空间有限；高技术含量、高附加值产品创新不足，“内卷式”竞争形势尚未根本扭转。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，民爆行业结构性矛盾依然突出，总体产能过剩与产品同质化严重，全国性增量需求空间有限；高技术含量、高附加值产品创新不足，“内卷式”竞争形势尚未根本扭转。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "当前，国家及行业对安全生产的监管日趋严格，问责机制愈发刚性，“严管重罚”成为常态。民爆行业生产经营活动本质具有高危性，人、物、环境等多维风险因素交织叠加，难以彻底根除。若安全生产责任落实不到位，安全管理体系执行不严，可能引发安全事故，造成经济损失，损害企业声誉与社会形象。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，国家及行业对安全生产的监管日趋严格，问责机制愈发刚性，“严管重罚”成为常态。民爆行业生产经营活动本质具有高危性，人、物、环境等多维风险因素交织叠加，难以彻底根除。若安全生产责任落实不到位，安全管理体系执行不严，可能引发安全事故，造成经济损失，损害企业声誉与社会形象。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "受宏观经济形势影响，部分下游客户经营承压，流动资金链趋紧，同时少数客户履约意识弱化，导致货款逾期现象增多。公司可能面临部分款项回收周期延长，甚至存在发生坏账损失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受宏观经济形势影响，部分下游客户经营承压，流动资金链趋紧，同时少数客户履约意识弱化，导致货款逾期现象增多。公司可能面临部分款项回收周期延长，甚至存在发生坏账损失的风险。"
+    }
+  ]
+}

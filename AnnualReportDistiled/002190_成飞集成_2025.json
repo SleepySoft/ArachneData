@@ -1,0 +1,429 @@
+{
+  "company_name_mentioned": "四川成飞集成科技股份有限公司",
+  "produces": [
+    {
+      "name": "工装模具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要产品是工装模具及汽车零部件、航空零部件，工装模具目前主要是汽车模具。"
+    },
+    {
+      "name": "汽车零部件",
+      "type": "component",
+      "revenue_proportion": "2025年工装及汽车零部件收入2,186,681,140.66元，占营业收入比重94.74%",
+      "quote": "分产品\n工装及汽车零部 2,186,681,140.6 2,293,885,746.9\n94.74% 96.91% -4.67%\n部件收入 6 4"
+    },
+    {
+      "name": "航空零部件",
+      "type": "component",
+      "revenue_proportion": "2025年航空零部件收入103,422,067.28元，占营业收入比重4.48%",
+      "quote": "分产品\n航空零部件收入 103,422,067.28 4.48% 41,089,527.39 1.74% 151.70%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "制造业",
+      "cost_proportion": "占营业成本67.02%",
+      "quote": "制造业 直接材料 67.02%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "制造业",
+      "cost_proportion": "占营业成本5.64%",
+      "quote": "制造业 直接人工 5.64%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "制造业",
+      "cost_proportion": "占营业成本27.34%",
+      "quote": "制造业 制造费用 27.34%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "整车配套（SUV）",
+      "source_product": "汽车零部件",
+      "quote": "按整车配套\nSUV(台) 1,639,331 1,462,755 12.07% 1,580,128 1,294,236 22.09%"
+    },
+    {
+      "name": "整车配套（轿车）",
+      "source_product": "汽车零部件",
+      "quote": "按整车配套\n轿车(台) 575,470 431,281 33.43% 564,895 413,481 36.62%"
+    },
+    {
+      "name": "售后服务市场（华东）",
+      "source_product": "汽车零部件",
+      "quote": "按售后服务市场\n华东（件） 129,234,434 110,404,427 17.06% 118,057,769 109,077,641 8.23%"
+    },
+    {
+      "name": "售后服务市场（西南）",
+      "source_product": "汽车零部件",
+      "quote": "按售后服务市场\n西南（件） 12,761,882 4,072,763 213.35% 12,533,817 3,135,249 299.77%"
+    },
+    {
+      "name": "飞机制造主机厂",
+      "source_product": "航空零部件",
+      "quote": "公司与国内飞机制造主机厂形成了长期稳固的合作关系。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "石晓卿",
+      "role": "董事长",
+      "quote": "公司负责人石晓卿"
+    },
+    {
+      "name": "程雁",
+      "role": "主管会计工作负责人、董事会秘书",
+      "quote": "主管会计工作负责人程雁"
+    },
+    {
+      "name": "刘林芳",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）刘林芳"
+    },
+    {
+      "name": "何君",
+      "role": "董事、总经理",
+      "quote": "何君先生，公司总经理，简历见董事介绍。"
+    },
+    {
+      "name": "谭波",
+      "role": "副总经理",
+      "quote": "谭波先生，公司副总经理"
+    },
+    {
+      "name": "祝云",
+      "role": "副总经理",
+      "quote": "祝云先生，公司副总经理"
+    },
+    {
+      "name": "刘探",
+      "role": "副总经理",
+      "quote": "刘探先生，公司副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国航空工业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东、实际控制人",
+      "quote": "中航工业集团 指 中国航空工业集团有限公司"
+    },
+    {
+      "name": "安徽成飞集成瑞鹄汽车模具有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "工装模具及汽车零部件业务的主要生产主体之一",
+      "quote": "集成瑞鹄 指 安徽成飞集成瑞鹄汽车模具有限公司"
+    },
+    {
+      "name": "四川成飞集成吉文汽车零部件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "工装模具及汽车零部件业务的主要生产主体之一",
+      "quote": "集成吉文 指 四川成飞集成吉文汽车零部件有限公司"
+    },
+    {
+      "name": "浙江吉文集成车身技术有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司",
+      "quote": "浙江吉文集成 指 浙江吉文集成车身技术有限公司（原安徽吉文集成车身覆盖件有限公司）"
+    },
+    {
+      "name": "中创新航科技集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方，公司总会计师兼任其监事",
+      "quote": "中创新航 指 中创新航科技集团股份有限公司"
+    },
+    {
+      "name": "奇瑞汽车股份有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，占年度销售总额比例67.53%",
+      "quote": "奇瑞汽车股份有限公司 1,558,573,081.91 67.53%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工装及汽车零部件收入",
+      "segment_type": "product_line",
+      "revenue_amount": "2,186,681,140.66元",
+      "revenue_proportion": "94.74%",
+      "gross_margin": "7.83%",
+      "yoy_change": "-4.67%",
+      "quote": "分产品\n工装及汽车零部 2,186,681,140.6 2,293,885,746.9\n94.74% 96.91% -4.67%\n部件收入 6 4"
+    },
+    {
+      "name": "航空零部件收入",
+      "segment_type": "product_line",
+      "revenue_amount": "103,422,067.28元",
+      "revenue_proportion": "4.48%",
+      "gross_margin": "-0.31%",
+      "yoy_change": "151.70%",
+      "quote": "分产品\n航空零部件收入 103,422,067.28 4.48% 41,089,527.39 1.74% 151.70%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "2,241,482,215.57元",
+      "revenue_proportion": "97.11%",
+      "yoy_change": "-4.36%",
+      "quote": "分地区\n2,241,482,215.5 2,343,780,757.9\n国内 97.11% 99.02% -4.36%\n7 8"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "66,635,122.94元",
+      "revenue_proportion": "2.89%",
+      "yoy_change": "186.95%",
+      "quote": "分地区\n国外 66,635,122.94 2.89% 23,221,931.21 0.98% 186.95%"
+    },
+    {
+      "name": "汽车零部件（新能源汽车相关）",
+      "segment_type": "product_line",
+      "revenue_amount": "409,704,741.92元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "产品类别 产能状况 产量 销量 销售收入\n汽车零部件 良好 16,622,827 13,142,892 409,704,741.92"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "汽车模具",
+      "metric_type": "capacity",
+      "value": "11,522吨",
+      "period": "2025年",
+      "quote": "汽车模具（吨）\n合计 11,522"
+    },
+    {
+      "product": "汽车零部件",
+      "metric_type": "capacity",
+      "value": "7,353万件",
+      "period": "2025年",
+      "quote": "汽车零部件（万件）\n合计 7,353"
+    },
+    {
+      "product": "航空零部件",
+      "metric_type": "capacity",
+      "value": "14,174件",
+      "period": "2025年",
+      "quote": "航空零部件（件） 成飞集成 14,174"
+    },
+    {
+      "product": "工装模具",
+      "metric_type": "production_volume",
+      "value": "1,066套",
+      "period": "2025年",
+      "quote": "生产量 套 1,066 1,170 -8.89%"
+    },
+    {
+      "product": "工装模具",
+      "metric_type": "sales_volume",
+      "value": "718套",
+      "period": "2025年",
+      "quote": "销售量 套 718 898 -20.04%"
+    },
+    {
+      "product": "工装模具",
+      "metric_type": "inventory_volume",
+      "value": "642套",
+      "period": "2025年末",
+      "quote": "库存量 套 642 294 118.37%"
+    },
+    {
+      "product": "汽车零部件",
+      "metric_type": "production_volume",
+      "value": "141,996,316件",
+      "period": "2025年",
+      "quote": "生产量 件 141,996,316 114,477,190 24.04%"
+    },
+    {
+      "product": "汽车零部件",
+      "metric_type": "sales_volume",
+      "value": "130,591,586件",
+      "period": "2025年",
+      "quote": "销售量 件 130,591,586 112,212,890 16.38%"
+    },
+    {
+      "product": "汽车零部件",
+      "metric_type": "inventory_volume",
+      "value": "20,593,221件",
+      "period": "2025年末",
+      "quote": "库存量 件 20,593,221 9,188,491 124.12%"
+    },
+    {
+      "product": "航空零部件",
+      "metric_type": "production_volume",
+      "value": "10,842件",
+      "period": "2025年",
+      "quote": "生产量 件 10,842 9,374 15.66%"
+    },
+    {
+      "product": "航空零部件",
+      "metric_type": "sales_volume",
+      "value": "13,040件",
+      "period": "2025年",
+      "quote": "销售量 件 13,040 6,958 87.41%"
+    },
+    {
+      "product": "航空零部件",
+      "metric_type": "inventory_volume",
+      "value": "1,883件",
+      "period": "2025年末",
+      "quote": "库存量 件 1,883 4,081 -53.86%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "汽车零部件业务自动化工作站升级改造",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": "2026年",
+      "quote": "2026年，公司资金主要用于汽车零部件业务自动化工作站升级改造、主力车型新项目产能建设、安庆基地产能提升等。"
+    },
+    {
+      "name": "主力车型新项目产能建设",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": "2026年",
+      "quote": "2026年，公司资金主要用于汽车零部件业务自动化工作站升级改造、主力车型新项目产能建设、安庆基地产能提升等。"
+    },
+    {
+      "name": "安庆基地产能提升",
+      "project_type": "capacity_expansion",
+      "location": "安徽安庆",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": "2026年",
+      "quote": "2026年，公司资金主要用于汽车零部件业务自动化工作站升级改造、主力车型新项目产能建设、安庆基地产能提升等。"
+    },
+    {
+      "name": "集成瑞鹄新厂房建设工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "主要系本期子公司集成瑞鹄新厂房建设工程完成，支付工程款较上年同期增加"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "铝合金温热成型技术",
+      "asset_type": "process_technology",
+      "related_product": "汽车模具及零部件",
+      "quantitative_info": "处于行业领先水平",
+      "quote": "在前沿技术上，掌握处于行业领先水平的铝合金温热成型技术"
+    },
+    {
+      "name": "车身焊接技术",
+      "asset_type": "process_technology",
+      "related_product": "汽车零部件",
+      "quantitative_info": "焊装自动化率大幅提升",
+      "quote": "车身焊接技术实现全面成熟与高效应用，焊装自动化率大幅提升"
+    },
+    {
+      "name": "大中型零件自动化冲压能力",
+      "asset_type": "process_technology",
+      "related_product": "汽车零部件",
+      "quantitative_info": null,
+      "quote": "具备大中型零件自动化冲压能力，成功构建覆盖机械臂自动转运、在线视觉质检的柔性化制造系统"
+    },
+    {
+      "name": "专利权或软件著作权",
+      "asset_type": "patent",
+      "related_product": "汽车模具",
+      "quantitative_info": "110余项",
+      "quote": "拥有专利权或软件著作权110余项"
+    },
+    {
+      "name": "民机质量管理体系资质",
+      "asset_type": "certification",
+      "related_product": "航空零部件",
+      "quantitative_info": null,
+      "quote": "公司还取得了民机质量管理体系资质"
+    },
+    {
+      "name": "成都市智能工厂",
+      "asset_type": "certification",
+      "related_product": "航空零部件",
+      "quantitative_info": null,
+      "quote": "新都航空产业园自动化产线效率持续提升，荣获‘成都市智能工厂’称号"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "报告期内，公司蝉联国家级专精特新“小巨人”企业"
+    },
+    {
+      "name": "数控高速加工技术",
+      "asset_type": "core_technology",
+      "related_product": "航空零部件",
+      "quantitative_info": null,
+      "quote": "多年积累了丰富的数控高速加工技术经验"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "87.03%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 87.03%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "67.53%",
+      "related_entity": "奇瑞汽车股份有限公司",
+      "period": "2025年",
+      "quote": "奇瑞汽车股份有限公司 1,558,573,081.91 67.53%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "40.42%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 40.42%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "18.70%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "供应商1 360,813,087.17 18.70%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "汽车模具行业整体不景气，竞争加剧且价格进一步走低；航空零部件业务核心客户释放需求减少，新客户培育并获得大批量订单需要一定时间和契机。",
+      "related_entity": "成飞集成",
+      "related_product": "汽车模具、航空零部件",
+      "quote": "（1）市场开拓风险\n近年来汽车行业竞争激烈，汽车模具行业整体不景气，竞争加剧且价格进一步走低，对公司汽车模具业务市场开拓带来不利影响。\n航空零部件业务核心客户释放需求减少，新客户培育并获得大批量订单需要一定时间和契机，故公司航空零部件业务存在订单不足的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "面临同行竞争加剧带来的客户端降价压力，以及原材料上涨与产品价格下降的双重压力。",
+      "related_entity": "成飞集成",
+      "related_product": null,
+      "quote": "（2）成本控制风险\n目前公司主要面临同行竞争加剧带来的客户端降价压力，虽然公司现阶段依靠技术创新带来一定的提效降本成效，但仍不足以弥补市场端降价的影响。...在原材料上涨与产品价格下降的双重压力下..."
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "航空数控加工业务零件种类较多，部分产品原材料价值高，因技术工艺难度较大，稍有不慎发生质量问题产生报废，将导致公司质量损失陡增；汽车零部件业务存在质量保证手段与客户要求存在差距的风险。",
+      "related_entity": "成飞集成",
+      "related_product": "航空零部件、汽车零部件",
+      "quote": "（3）产品质量风险\n公司高度重视产品质量管控，但仍面临以下质量风险：航空数控加工业务零件种类较多，部分产品原材料价值高，因技术工艺难度较大，同时客户对产品质量要求日趋严格，原材料价值高的零件加工制造过程中稍有不慎发生质量问题产生报废，将导致公司质量损失陡增；汽车零部件业务存在质量保证手段与客户要求存在差距，由此导致出现产品质量问题的风险。"
+    }
+  ]
+}

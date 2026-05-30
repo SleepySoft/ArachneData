@@ -1,0 +1,386 @@
+{
+  "company_name_mentioned": "浙农集团股份有限公司",
+  "produces": [
+    {
+      "name": "化肥",
+      "type": "material",
+      "revenue_proportion": "56.65%",
+      "quote": "分产品 化肥 26,692,909,487.41 56.65%"
+    },
+    {
+      "name": "农药",
+      "type": "material",
+      "revenue_proportion": "3.37%",
+      "quote": "分产品 农药 1,588,201,286.79 3.37%"
+    },
+    {
+      "name": "原材料",
+      "type": "material",
+      "revenue_proportion": "11.54%",
+      "quote": "分产品 原材料 5,440,269,533.51 11.54%"
+    },
+    {
+      "name": "整车销售",
+      "type": "device",
+      "revenue_proportion": "18.74%",
+      "quote": "分产品 整车销售 8,830,781,089.71 18.74%"
+    },
+    {
+      "name": "汽车后市场服务",
+      "type": "service",
+      "revenue_proportion": "5.91%",
+      "quote": "分产品 汽车后市场服务 2,786,787,612.93 5.91%"
+    },
+    {
+      "name": "西药、中成药",
+      "type": "material",
+      "revenue_proportion": "1.90%",
+      "quote": "分产品 西药、中成药 895,378,766.27 1.90%"
+    },
+    {
+      "name": "中药材、中药饮片",
+      "type": "material",
+      "revenue_proportion": "0.75%",
+      "quote": "分产品 中药材、中药饮片 352,123,202.94 0.75%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "农资商品（化肥、农药等）",
+      "target_product": "农业综合服务",
+      "cost_proportion": "73.36%",
+      "quote": "行业和产品分类 农业综合服务 化肥、农药等 32,542,498,093.01 73.36%"
+    },
+    {
+      "name": "整车及配件",
+      "target_product": "汽车商贸服务",
+      "cost_proportion": "21.17%",
+      "quote": "产品分类 整车销售 宝马、凯迪、奥迪等 9,389,444,321.07 21.17%"
+    },
+    {
+      "name": "药品（西药、中成药、中药材等）",
+      "target_product": "医药生产销售",
+      "cost_proportion": "2.29%",
+      "quote": "产品分类 西药、中成药 791,060,622.39 1.78% 中药材、中药饮片 224,854,163.74 0.51%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "农业生产",
+      "source_product": "农业综合服务",
+      "quote": "公司聚焦为农服务主业...主营业务涵盖农业综合服务...服务城乡人民生产生活综合平台"
+    },
+    {
+      "name": "汽车消费市场",
+      "source_product": "汽车商贸服务",
+      "quote": "汽车商贸服务的主要模式是...为广大消费者提供中高端汽车产品和全生命周期服务"
+    },
+    {
+      "name": "医疗卫生与健康养生",
+      "source_product": "医药生产销售",
+      "quote": "医药业务涵盖药品批发、药品零售、中药生产销售、医药物流等环节"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "叶伟勇",
+      "role": "董事长",
+      "quote": "公司负责人叶伟勇...现任本公司党委书记、董事长、战略委员会主任委员"
+    },
+    {
+      "name": "曾跃芳",
+      "role": "总经理",
+      "quote": "现任本公司党委副书记、总经理、董事、战略委员会及薪酬与考核委员会委员"
+    },
+    {
+      "name": "刘文琪",
+      "role": "副总经理兼财务总监兼董事会秘书",
+      "quote": "主管会计工作负责人刘文琪...现任本公司党委委员、副总经理兼财务总监、董事会秘书"
+    },
+    {
+      "name": "王华刚",
+      "role": "职工董事",
+      "quote": "王华刚...现任本公司职工董事、战略委员会委员"
+    },
+    {
+      "name": "黄祖辉",
+      "role": "独立董事",
+      "quote": "黄祖辉...现任本公司独立董事、薪酬与考核委员会主任委员、战略委员会委员"
+    },
+    {
+      "name": "沈田丰",
+      "role": "独立董事",
+      "quote": "沈田丰...现任本公司独立董事、提名委员会主任委员以及审计委员会、薪酬与考核委员会委员"
+    },
+    {
+      "name": "傅黎瑛",
+      "role": "独立董事",
+      "quote": "傅黎瑛...现任本公司独立董事、审计委员会主任委员、提名委员会委员"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江省供销合作社联合社",
+      "relation_type": "investor",
+      "business_details": "本公司实际控制人",
+      "quote": "释义项 浙江省供销社 指 浙江省供销合作社联合社，本公司实际控制人"
+    },
+    {
+      "name": "浙农控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "本公司控股股东",
+      "quote": "释义项 浙农控股 指 浙农控股集团有限公司，本公司控股股东"
+    },
+    {
+      "name": "浙江省兴合集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "关联方",
+      "quote": "释义项 兴合集团 指 浙江省兴合集团有限责任公司"
+    },
+    {
+      "name": "宝马（中国）汽车贸易有限公司",
+      "relation_type": "customer",
+      "business_details": "取得宝马著名品牌的区域经销权",
+      "quote": "释义项 宝马（中国） 指 宝马（中国）汽车贸易有限公司...取得了宝马...著名品牌的区域经销权"
+    },
+    {
+      "name": "华晨宝马汽车有限公司",
+      "relation_type": "customer",
+      "business_details": "取得宝马著名品牌的区域经销权",
+      "quote": "释义项 华晨宝马 指 华晨宝马汽车有限公司...取得了宝马...著名品牌的区域经销权"
+    },
+    {
+      "name": "中海化学",
+      "relation_type": "supplier",
+      "business_details": "农资生产企业战略合作关系",
+      "quote": "公司在农业综合服务领域与中海化学...等国内外头部的农资生产企业建立了战略合作关系"
+    },
+    {
+      "name": "盐湖股份",
+      "relation_type": "supplier",
+      "business_details": "农资生产企业战略合作关系",
+      "quote": "公司在农业综合服务领域与...盐湖股份...等国内外头部的农资生产企业建立了战略合作关系"
+    },
+    {
+      "name": "先正达",
+      "relation_type": "supplier",
+      "business_details": "农资生产企业战略合作关系",
+      "quote": "公司在农业综合服务领域与...先正达...等国内外头部的农资生产企业建立了战略合作关系"
+    },
+    {
+      "name": "浙江物产元通汽车集团有限公司",
+      "relation_type": "competitor",
+      "business_details": "汽车销售行业竞争对手",
+      "quote": "在经营区域内，公司的主要竞争对手有浙江物产元通汽车集团有限公司..."
+    },
+    {
+      "name": "浙江广成汽车集团有限公司",
+      "relation_type": "competitor",
+      "business_details": "汽车销售行业竞争对手",
+      "quote": "在经营区域内，公司的主要竞争对手有...浙江广成汽车集团有限公司..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "农业综合服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "34,225,206,608.63元",
+      "revenue_proportion": "72.63%",
+      "gross_margin": "4.92%",
+      "yoy_change": "28.16%",
+      "quote": "分行业 农业综合服务 34,225,206,608.63 72.63% ... 营业收入比上年同期增减 28.16% ... 毛利率 4.92%"
+    },
+    {
+      "name": "汽车商贸服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "11,617,568,702.64元",
+      "revenue_proportion": "24.65%",
+      "gross_margin": "7.25%",
+      "yoy_change": "-14.81%",
+      "quote": "分行业 汽车商贸服务 11,617,568,702.64 24.65% ... 营业收入比上年同期增减 -14.81% ... 毛利率 7.25%"
+    },
+    {
+      "name": "医药生产销售",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,281,641,516.34元",
+      "revenue_proportion": "2.72%",
+      "yoy_change": "-21.49%",
+      "quote": "分行业 医药生产销售 1,281,641,516.34 2.72% ... 营业收入比上年同期增减 -21.49%"
+    },
+    {
+      "name": "浙江省内",
+      "segment_type": "region",
+      "revenue_amount": "25,859,557,129.14元",
+      "revenue_proportion": "54.88%",
+      "gross_margin": "9.17%",
+      "yoy_change": "6.44%",
+      "quote": "分地区 浙江省内 25,859,557,129.14 54.88% ... 营业收入比上年同期增减 6.44% ... 毛利率 9.17%"
+    },
+    {
+      "name": "浙江省外",
+      "segment_type": "region",
+      "revenue_amount": "21,264,859,698.47元",
+      "revenue_proportion": "45.12%",
+      "gross_margin": "1.85%",
+      "yoy_change": "20.27%",
+      "quote": "分地区 浙江省外 21,264,859,698.47 45.12% ... 营业收入比上年同期增减 20.27% ... 毛利率 1.85%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "33,353,368,177.40元",
+      "revenue_proportion": "70.78%",
+      "gross_margin": "6.40%",
+      "yoy_change": "11.32%",
+      "quote": "分销售模式 直销 33,353,368,177.40 70.78% ... 营业收入比上年同期增减 11.32% ... 毛利率 6.40%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "13,771,048,650.21元",
+      "revenue_proportion": "29.22%",
+      "gross_margin": "4.58%",
+      "yoy_change": "14.63%",
+      "quote": "分销售模式 经销 13,771,048,650.21 29.22% ... 营业收入比上年同期增减 14.63% ... 毛利率 4.58%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "化肥",
+      "metric_type": "sales_volume",
+      "value": "1125万吨",
+      "period": "2025年",
+      "quote": "全年销售化肥1125万吨，同比增长13.42%"
+    },
+    {
+      "product": "农药",
+      "metric_type": "sales_volume",
+      "value": "1.33万吨",
+      "period": "2025年",
+      "quote": "销售农药1.33万吨，同比增长3.22%"
+    },
+    {
+      "product": "汽车4S店",
+      "metric_type": "capacity",
+      "value": "34家",
+      "period": "2025年末",
+      "quote": "建成标准化的汽车4S店34家"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "浙江开化的绿色肥料研发生产储备项目",
+      "project_type": "capacity_expansion",
+      "location": "浙江开化",
+      "designed_capacity": null,
+      "progress": "一期进度近50%",
+      "expected_completion_time": "预计2026年达成投产",
+      "quote": "浙江开化的绿色肥料研发生产储备项目安全推进现场建设，一期进度近50%，预计2026年达成投产"
+    },
+    {
+      "name": "湖北枝江硫铵项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北枝江",
+      "designed_capacity": null,
+      "progress": "已于2025年5月投产",
+      "expected_completion_time": null,
+      "quote": "湖北枝江硫铵项目已于2025年5月投产，实现当年建成、当年投产、当年盈利"
+    },
+    {
+      "name": "安徽广德高塔项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽广德",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "安徽广德高塔项目复合肥全年产销快速增长"
+    },
+    {
+      "name": "内蒙古赤峰硫酸钾合作工厂",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古赤峰",
+      "designed_capacity": "4万吨生产装置",
+      "progress": "完成投产",
+      "expected_completion_time": null,
+      "quote": "内蒙古赤峰硫酸钾合作工厂4万吨生产装置完成投产"
+    },
+    {
+      "name": "嘉善西塘、海宁马桥‘万亩方’项目",
+      "project_type": "construction_project",
+      "location": "嘉善西塘、海宁马桥",
+      "designed_capacity": null,
+      "progress": "服务地方粮食产业发展，被评为省级‘未来农场’",
+      "expected_completion_time": null,
+      "quote": "嘉善西塘、海宁马桥‘万亩方’项目按照智能化管理、机械化操作、集成化运营、绿色化发展的思路服务地方粮食产业发展，被评为省级‘未来农场’"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家高新技术企业（景岳堂药业、浙农科技、石原金牛生物科技、浙农检测）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "下属景岳堂药业、浙农科技、石原金牛生物科技、浙农检测均已通过国家高新技术企业备案公示"
+    },
+    {
+      "name": "人工气候实验室",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "顺利完成人工气候实验室、作物和土壤生测实验室、病虫草害防治研究实验室的建设"
+    },
+    {
+      "name": "‘景岳中医药文化’项目",
+      "asset_type": "certification",
+      "related_product": "中医药",
+      "quantitative_info": "入选浙江省级非遗代表性项目名录",
+      "quote": "公司‘景岳中医药文化’项目入选浙江省级非遗代表性项目名录"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "3.16%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,495,130,987.05 前五名客户合计销售金额占年度销售总额比例 3.16%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 12,991,896,346.65 前五名供应商合计采购金额占年度采购总额比例 29.15%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司相关主营产品经营受到一定的政策影响...例如近年政府部门提出的农药、化肥‘减量增效’的要求...等产业政策变化，可能对公司业务规模和经营业绩产生一定影响。",
+      "related_entity": null,
+      "related_product": "农资、汽车、医药",
+      "quote": "1、产业政策变化风险 ... 公司相关主营产品经营受到一定的政策影响...可能对公司业务规模和经营业绩产生一定影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司所在商贸流通行业处于充分的市场竞争...国内同行的竞争、全球市场的挑战等都可能导致公司业务发展面临市场竞争加剧的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争加剧风险 ... 公司所在商贸流通行业处于充分的市场竞争...可能导致公司业务发展面临市场竞争加剧的风险。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "若因产品出现质量问题，或进口品牌制造商所属国与我国产生政治摩擦...或产品的品牌声誉受到较大影响，都有可能会对下游经销商造成一定不利影响。",
+      "related_entity": null,
+      "related_product": "农资、汽车",
+      "quote": "4、经营产品质量与品牌声誉风险 ... 若因产品出现质量问题...都有可能会对下游经销商造成一定不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司从事的农业综合服务业务下游需求与农业生产紧密相关，如主营业务所在地区发生异常天气或严重自然灾害，可能影响当地农业生产...如全球发生地缘政治重大变化可能会对相关产品全球供应链产生冲击。",
+      "related_entity": null,
+      "related_product": "农资、进口汽车",
+      "quote": "5、异常天气、自然灾害等不可抗力风险 ... 如主营业务所在地区发生异常天气或严重自然灾害，可能影响当地农业生产...可能对该等进口商品的业务造成一定的影响。"
+    }
+  ]
+}

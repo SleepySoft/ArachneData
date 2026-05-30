@@ -1,0 +1,410 @@
+{
+  "company_name_mentioned": "新乡化纤股份有限公司",
+  "produces": [
+    {
+      "name": "生物质纤维素长丝",
+      "type": "material",
+      "revenue_proportion": "39.38%",
+      "quote": "公司主要生产生物质纤维素长丝和氨纶纤维...氨纶纤维 57.99%...生物质纤维素长丝 39.38%..."
+    },
+    {
+      "name": "氨纶纤维",
+      "type": "material",
+      "revenue_proportion": "57.99%",
+      "quote": "公司主要生产生物质纤维素长丝和氨纶纤维...氨纶纤维 57.99%..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "PTMEG",
+      "target_product": "氨纶纤维",
+      "cost_proportion": "27.72%",
+      "quote": "主要原材料的采购模式...PTMEG 市场化采购 27.72%..."
+    },
+    {
+      "name": "浆粕",
+      "target_product": "生物质纤维素长丝",
+      "cost_proportion": "9.84%",
+      "quote": "主要原材料的采购模式...浆粕 市场化采购 9.84%..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "服装",
+      "source_product": "生物质纤维素长丝，氨纶纤维",
+      "quote": "下游广泛应用于服装（丝绸面料）...（运动服、防晒衣等）..."
+    },
+    {
+      "name": "家纺",
+      "source_product": "生物质纤维素长丝，氨纶纤维",
+      "quote": "下游广泛应用于...家纺（高档窗帘、床品）...（弹力床罩）..."
+    },
+    {
+      "name": "产业用纺织品",
+      "source_product": "生物质纤维素长丝",
+      "quote": "下游广泛应用于...产业用纺织品（缝纫线、轮胎帘子布）..."
+    },
+    {
+      "name": "医疗",
+      "source_product": "氨纶纤维",
+      "quote": "下游广泛应用于...医疗（绷带、护具）..."
+    },
+    {
+      "name": "汽车内饰",
+      "source_product": "氨纶纤维",
+      "quote": "下游广泛应用于...产业用（汽车内饰、安全带）..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邵长金",
+      "role": "公司负责人、董事长",
+      "quote": "公司负责人邵长金...现任公司董事长..."
+    },
+    {
+      "name": "冯丽萍",
+      "role": "主管会计工作负责人、会计机构负责人、财务负责人",
+      "quote": "主管会计工作负责人冯丽萍及会计机构负责人（会计主管人员）冯丽萍...现任公司财务负责人..."
+    },
+    {
+      "name": "季玉栋",
+      "role": "董事、总经理",
+      "quote": "季玉栋先生...现任公司董事、总经理..."
+    },
+    {
+      "name": "姚永鑫",
+      "role": "董事、副总经理",
+      "quote": "姚永鑫先生...现任公司副总经理..."
+    },
+    {
+      "name": "张家启",
+      "role": "董事、副总经理",
+      "quote": "张家启先生...现任公司董事、副总经理..."
+    },
+    {
+      "name": "王中军",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "王中军先生...现任公司董事、副总经理、董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "新乡白鹭投资集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "白鹭集团 指 新乡白鹭投资集团有限公司...控股股东名称 新乡白鹭投资集团有限公司..."
+    },
+    {
+      "name": "新疆华鹭生物基新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "新疆华鹭 指 新疆华鹭生物基新材料科技有限公司...新疆华鹭生物基新材料科技有限公司...子公司。"
+    },
+    {
+      "name": "新疆天鹭新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "新疆天鹭 指 新疆天鹭新材料科技有限公司...新疆天鹭新材料科技有限公司...子公司。"
+    },
+    {
+      "name": "新乡菌草新材料技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "菌草新材 指 新乡菌草新材料技术有限公司...新乡菌草新材料技术有限公司...子公司。"
+    },
+    {
+      "name": "吉林化纤股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "生物质纤维素长丝行业主要竞争对手",
+      "quote": "吉林化纤 指 吉林化纤股份有限公司...国内生物质纤维素长丝的主要在产企业为新乡化纤、吉林化纤、宜宾丝丽雅等..."
+    },
+    {
+      "name": "华峰化学股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "氨纶纤维行业主要竞争对手",
+      "quote": "华峰化学 指 华峰化学股份有限公司...氨纶行业主要的龙头企业为华峰化学、新乡化纤、晓星中国等。"
+    },
+    {
+      "name": "宜宾丝丽雅集团有限公司",
+      "relation_type": "competitor",
+      "business_details": "生物质纤维素长丝行业主要竞争对手",
+      "quote": "丝丽雅 指 宜宾丝丽雅集团有限公司...国内生物质纤维素长丝的主要在产企业为新乡化纤、吉林化纤、宜宾丝丽雅等..."
+    },
+    {
+      "name": "晓星中国",
+      "relation_type": "competitor",
+      "business_details": "氨纶纤维行业主要竞争对手",
+      "quote": "晓星中国 指 韩国晓星集团在中国设立的氨纶子公司合称...氨纶行业主要的龙头企业为华峰化学、新乡化纤、晓星中国等。"
+    },
+    {
+      "name": "新乡白鹭精纺科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购包装物、强捻丝等商品",
+      "quote": "新乡白鹭精纺科技有限公司...关联交易方...采购商品/接受劳务...包装物...强捻丝..."
+    },
+    {
+      "name": "新乡白鹭精纺科技有限公司",
+      "relation_type": "customer",
+      "business_details": "销售生物质纤维素长丝，供应水、电、汽",
+      "quote": "新乡白鹭精纺科技有限公司...关联交易方...出售商品/提供劳务...生物质纤维素长丝...水、电、汽..."
+    },
+    {
+      "name": "印度APL公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "公司前5大客户资料...4 印度APL公司 231,078,990.75 2.94%..."
+    },
+    {
+      "name": "嘉兴市彤彤纺织品有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "公司前5大客户资料...5 嘉兴市彤彤纺织品有限公司 141,042,697.83 1.80%..."
+    },
+    {
+      "name": "张家港保税区思凯国际贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "公司前5名供应商资料...4 张家港保税区思凯国际贸易有限公司 348,782,979.64 6.26%..."
+    },
+    {
+      "name": "新乡国有资本运营集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人新乡市财政局通过其控制的国有资本运营集团间接控制公司",
+      "quote": "实际控制人名称 新乡市财政局...新乡国有资本运营集团有限公司...（作为承诺方）..."
+    },
+    {
+      "name": "中原资产管理有限公司",
+      "relation_type": "investor",
+      "business_details": "持股11.46%的股东",
+      "quote": "中原资产管理有限公司 国有法人 11.46%..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "氨纶纤维",
+      "segment_type": "product_line",
+      "revenue_amount": "4,556,310,433.07",
+      "revenue_proportion": "57.99%",
+      "gross_margin": "1.00%",
+      "yoy_change": "11.66%",
+      "quote": "分产品...氨纶纤维...营业收入 4,556,310,433.07...占营业收入比重 57.99%...毛利率 1.00%...营业收入比上年同期增减 11.66%..."
+    },
+    {
+      "name": "生物质纤维素长丝",
+      "segment_type": "product_line",
+      "revenue_amount": "3,093,638,416.29",
+      "revenue_proportion": "39.38%",
+      "gross_margin": "21.27%",
+      "yoy_change": "3.70%",
+      "quote": "分产品...生物质纤维素长丝...营业收入 3,093,638,416.29...占营业收入比重 39.38%...毛利率 21.27%...营业收入比上年同期增减 3.70%..."
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "5,702,310,849.89",
+      "revenue_proportion": "72.58%",
+      "gross_margin": "5.84%",
+      "yoy_change": "5.64%",
+      "quote": "分地区...国内...营业收入 5,702,310,849.89...占营业收入比重 72.58%...毛利率 5.84%...营业收入比上年同期增减 5.64%..."
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "2,154,488,684.62",
+      "revenue_proportion": "27.42%",
+      "gross_margin": "20.67%",
+      "yoy_change": "9.48%",
+      "quote": "分地区...国外...营业收入 2,154,488,684.62...占营业收入比重 27.42%...毛利率 20.67%...营业收入比上年同期增减 9.48%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "生物质纤维素长丝",
+      "metric_type": "capacity",
+      "value": "11万吨/年",
+      "period": "报告期",
+      "quote": "主要产品的产能情况...生物质纤维素长丝 设计产能 11万吨/年..."
+    },
+    {
+      "product": "生物质纤维素长丝",
+      "metric_type": "capacity_utilization",
+      "value": "89.45%",
+      "period": "报告期",
+      "quote": "主要产品的产能情况...生物质纤维素长丝...产能利用率 89.45%..."
+    },
+    {
+      "product": "氨纶纤维",
+      "metric_type": "capacity",
+      "value": "20万吨/年",
+      "period": "报告期",
+      "quote": "主要产品的产能情况...氨纶纤维 设计产能 20万吨/年..."
+    },
+    {
+      "product": "氨纶纤维",
+      "metric_type": "capacity_utilization",
+      "value": "100.76%",
+      "period": "报告期",
+      "quote": "主要产品的产能情况...氨纶纤维...产能利用率 100.76%..."
+    },
+    {
+      "product": "生物质纤维素长丝",
+      "metric_type": "production_volume",
+      "value": "98,400吨",
+      "period": "2025年度",
+      "quote": "报告期内，公司生产生物质纤维素长丝 98,400 吨..."
+    },
+    {
+      "product": "氨纶纤维",
+      "metric_type": "production_volume",
+      "value": "201,522吨",
+      "period": "2025年度",
+      "quote": "报告期内...生产氨纶纤维 201,522 吨..."
+    },
+    {
+      "product": "生物质纤维素长丝",
+      "metric_type": "sales_volume",
+      "value": "87,860吨",
+      "period": "2025年度",
+      "quote": "报告期内的售价...生物质纤维素长丝...销量 87,860..."
+    },
+    {
+      "product": "氨纶纤维",
+      "metric_type": "sales_volume",
+      "value": "216,148吨",
+      "period": "2025年度",
+      "quote": "报告期内的售价...氨纶纤维...销量 216,148..."
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "49,781.00吨",
+      "period": "2025年度",
+      "quote": "化纤行业...库存量 吨 49,781.00..."
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "生物质纤维素长丝在建产能",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2万吨",
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "主要产品的产能情况...生物质纤维素长丝...在建产能 2万吨 建设中..."
+    },
+    {
+      "name": "氨纶纤维在建产能",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "10万吨",
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "主要产品的产能情况...氨纶纤维...在建产能 10万吨 建设中..."
+    },
+    {
+      "name": "新疆天鹭新材料科技有限公司年产3万吨生物质纤维素纤维项目(重新报批)",
+      "project_type": "other",
+      "location": "新疆图木舒克市达坂山工业园",
+      "investment_amount": null,
+      "designed_capacity": "年产3万吨生物质纤维素纤维",
+      "progress": "取得环评批复",
+      "expected_completion_time": null,
+      "quote": "报告期内正在申请或者新增取得的环评批复情况...新疆天鹭新材料科技有限公司取得了《关于新疆天鹭新材料科技有限公司年产3万吨生物质纤维素纤维项目(重新报批)环境影响报告书的批复（图经开规环审[2025]9号）》"
+    },
+    {
+      "name": "新疆华鹭生物基新材料科技有限公司环保、节能提升改造项目",
+      "project_type": "other",
+      "location": "新疆图木舒克市达坂山工业园",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "取得环评批复",
+      "expected_completion_time": null,
+      "quote": "报告期内正在申请或者新增取得的环评批复情况...新疆华鹭生物基新材料科技有限公司取得了《关于新疆白鹭纤维有限公司环保、节能提升改造项目环境影响报告表的批复（图经开规环审[2025]18号）》。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "生物质纤维素长丝生产技术",
+      "asset_type": "core_technology",
+      "related_product": "生物质纤维素长丝",
+      "quantitative_info": null,
+      "quote": "生物质纤维素长丝技术和氨纶连续聚合干法纺丝技术达到国际先进水平。"
+    },
+    {
+      "name": "氨纶连续聚合干法纺丝技术",
+      "asset_type": "core_technology",
+      "related_product": "氨纶纤维",
+      "quantitative_info": null,
+      "quote": "生物质纤维素长丝技术和氨纶连续聚合干法纺丝技术达到国际先进水平。"
+    },
+    {
+      "name": "生物质纤维素长丝专利技术",
+      "asset_type": "patent",
+      "related_product": "生物质纤维素长丝",
+      "quantitative_info": "实用新型专利129项、发明专利26项、外观设计专利10项",
+      "quote": "主要产品生产技术情况...生物质纤维素长丝...专利技术 实用新型专利129项、发明专利26项、外观设计专利10项..."
+    },
+    {
+      "name": "氨纶纤维专利技术",
+      "asset_type": "patent",
+      "related_product": "氨纶纤维",
+      "quantitative_info": "实用新型专利96项、发明专利6项",
+      "quote": "主要产品生产技术情况...氨纶纤维...专利技术 实用新型专利96项、发明专利6项..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "26.47%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 26.47%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.84%",
+      "related_entity": "客户一",
+      "period": "报告期",
+      "quote": "公司前5大客户资料...1 客户一...占年度销售总额比例 14.84%..."
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.72%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 39.72%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "10.80%",
+      "related_entity": "供应商一",
+      "period": "报告期",
+      "quote": "公司前5名供应商资料...1 供应商一...占年度采购总额比例 10.80%..."
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产所需核心原材料为浆粕与PTMEG，二者在产品总成本中占比较高，其价格波动将对公司经营业绩产生显著影响。",
+      "related_entity": null,
+      "related_product": "生物质纤维素长丝，氨纶纤维",
+      "quote": "（三）可能面对的风险及应对 1.原材料价格波动风险 公司生产所需核心原材料为浆粕与PTMEG，二者在产品总成本中占比较高，其价格波动将对公司经营业绩产生显著影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司主要产品生物质纤维素长丝与氨纶，其价格易受宏观经济走势、行业产能变化及市场供求关系等因素影响，呈现周期性波动特征，给公司经营发展带来一定影响。",
+      "related_entity": null,
+      "related_product": "生物质纤维素长丝，氨纶纤维",
+      "quote": "（三）可能面对的风险及应对 2.行业周期性波动风险 公司主要产品生物质纤维素长丝与氨纶，其价格易受宏观经济走势、行业产能变化及市场供求关系等因素影响，呈现周期性波动特征，给公司经营发展带来一定影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "伴随公司工程项目陆续投产，业务规模持续扩张，生产模式正向自动化、智能化转型，这对公司管理模式、人才储备及员工专业素养提出了更高要求。若公司管理模式未能及时适配发展需求、员工素质提升速度滞后于业务发展步伐，可能对后续生产经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（三）可能面对的风险及应对 3．经营管理和人才储备风险 伴随公司工程项目陆续投产，业务规模持续扩张，生产模式正向自动化、智能化转型，这对公司管理模式、人才储备及员工专业素养提出了更高要求。若公司管理模式未能及时适配发展需求、员工素质提升速度滞后于业务发展步伐，可能对后续生产经营产生不利影响。"
+    }
+  ]
+}

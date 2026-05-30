@@ -1,0 +1,189 @@
+{
+  "company_name_mentioned": "四川省新能源动力股份有限公司",
+  "produces": [
+    {
+      "name": "风力发电",
+      "type": "service",
+      "revenue_proportion": "33.65%",
+      "quote": "风力及光伏发电收入占比33.65%"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "33.65%",
+      "quote": "风力及光伏发电收入占比33.65%"
+    },
+    {
+      "name": "锂精矿",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "锂精矿主要客户为下游锂盐厂"
+    },
+    {
+      "name": "碳酸锂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品为电池级氢氧化锂、电池级碳酸锂"
+    },
+    {
+      "name": "氢氧化锂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品为电池级氢氧化锂、电池级碳酸锂"
+    },
+    {
+      "name": "垃圾焚烧发电服务",
+      "type": "service",
+      "revenue_proportion": "19.25%",
+      "quote": "垃圾发电收入占比19.25%"
+    },
+    {
+      "name": "环卫一体化服务",
+      "type": "service",
+      "revenue_proportion": "7.73%",
+      "quote": "环卫服务收入占比7.73%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "四川能源发展集团有限责任公司及其子公司",
+      "target_product": null,
+      "cost_proportion": "49.14%",
+      "quote": "采购额占年度采购总额比例49.14%"
+    },
+    {
+      "name": "中国电力建设集团有限公司及其子公司",
+      "target_product": null,
+      "cost_proportion": "7.33%",
+      "quote": "采购额占年度采购总额比例7.33%"
+    },
+    {
+      "name": "会东县财政局",
+      "target_product": null,
+      "cost_proportion": "5.79%",
+      "quote": "采购额占年度采购总额比例5.79%"
+    },
+    {
+      "name": "中国五矿集团有限公司及其子公司",
+      "target_product": null,
+      "cost_proportion": "5.02%",
+      "quote": "采购额占年度采购总额比例5.02%"
+    },
+    {
+      "name": "美姑县人民政府",
+      "target_product": null,
+      "cost_proportion": "2.94%",
+      "quote": "采购额占年度采购总额比例2.94%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网供电",
+      "source_product": "风力发电、光伏发电",
+      "quote": "发电上网销售至国家电网"
+    },
+    {
+      "name": "城市固废处理",
+      "source_product": "垃圾焚烧发电服务",
+      "quote": "主要以BOT模式从事生活垃圾焚烧发电项目"
+    },
+    {
+      "name": "城市环卫服务",
+      "source_product": "环卫一体化服务",
+      "quote": "为地方政府提供垃圾清扫与收集、垃圾清运等环卫服务"
+    },
+    {
+      "name": "锂电池材料生产",
+      "source_product": "锂精矿",
+      "quote": "锂精矿主要客户为下游锂盐厂，用于生产碳酸锂及氢氧化锂"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张忠武",
+      "role": "董事长",
+      "quote": "公司负责人张忠武"
+    },
+    {
+      "name": "李金生",
+      "role": "总经理",
+      "quote": "聘任李金生先生为总经理"
+    },
+    {
+      "name": "郑小强",
+      "role": "副总经理",
+      "quote": "副总经理 郑小强"
+    },
+    {
+      "name": "毛明珠",
+      "role": "副总经理",
+      "quote": "副总经理 毛明珠"
+    },
+    {
+      "name": "王大海",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人王大海"
+    },
+    {
+      "name": "欧健成",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 欧健成"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川能源发展集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东已由四川能投集团变更为四川能源发展集团"
+    },
+    {
+      "name": "四川能投新能电力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "持股95%的子公司，主营风力光伏发电",
+      "quote": "新能电力指四川能投新能电力有限公司，系上市公司持股95%子公司"
+    },
+    {
+      "name": "四川能投锂业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "持股62.75%的子公司，主营锂矿采选",
+      "quote": "能投锂业指四川能投锂业有限公司，系川能动力持股62.75%子公司"
+    },
+    {
+      "name": "四川能投节能环保投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "持股70.55%的子公司，主营垃圾焚烧发电和环卫一体化",
+      "quote": "川能环保指四川能投节能环保投资有限公司，系川能动力持股70.55%子公司"
+    },
+    {
+      "name": "四川能投鼎盛锂业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "持股51%的子公司，主营锂盐生产",
+      "quote": "鼎盛锂业指四川能投鼎盛锂业有限公司，系川能动力持股51%子公司"
+    },
+    {
+      "name": "国家电网有限公司及其子公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户第一名，主要销售电力",
+      "quote": "前五名客户合计销售金额占比67.01%"
+    },
+    {
+      "name": "四川能源发展集团有限责任公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商第一名，主要采购商品和接受劳务",
+      "quote": "前五名供应商合计采购金额占比70.22%"
+    },
+    {
+      "name": "东方电气股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "发行股份购买川能风电少数股权并募集配套资金事项的交易对方",
+      "quote": "公司向东方电气股份有限公司发行股份购买其持有的四川省能投风电开发有限公司20%股权"
+    },
+    {
+      "name": "成都明永投资有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "发行股份购买川能风电少数股权并募集配套资金事项的交易对方",
+      "quote": "向成都明永投资有限公司发行股份购买其持有的四川省能投风电开发有限公司10%股权"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "company_name_mentioned": "山东丰元化学股份有限公司",
+  "produces": [
+    {
+      "name": "磷酸铁锂",
+      "type": "material",
+      "revenue_proportion": "94.94%",
+      "quote": "公司锂电池正极材料业务相关收入占公司合并总收入的94.94%"
+    },
+    {
+      "name": "三元正极材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司现有锂电池正极材料产品包括磷酸铁锂和三元两大主流系列"
+    },
+    {
+      "name": "工业草酸",
+      "type": "material",
+      "revenue_proportion": "5.00%",
+      "quote": "草酸类 116,300,722.30 5.00%"
+    },
+    {
+      "name": "精制草酸",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "精制草酸 产能1万吨/年"
+    },
+    {
+      "name": "草酸衍生品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "草酸衍生品0.5万吨/年"
+    }
+  ],
+  "procures": [
+    {
+      "name": "碳酸锂",
+      "target_product": "锂电池正极材料",
+      "cost_proportion": "43.76%",
+      "quote": "主要原材料 碳酸锂 采购模式 直接采购 采购额占采购总额的比例 43.76%"
+    },
+    {
+      "name": "葡萄糖",
+      "target_product": "工业草酸",
+      "cost_proportion": null,
+      "quote": "葡萄糖 '碳水化合物氧化法'生产工业草酸的原材料"
+    },
+    {
+      "name": "淀粉",
+      "target_product": "工业草酸",
+      "cost_proportion": null,
+      "quote": "淀粉 葡萄糖的高聚体"
+    },
+    {
+      "name": "硝酸",
+      "target_product": "工业草酸",
+      "cost_proportion": null,
+      "quote": "硝酸 '碳水化合物氧化法'生产工业草酸的原材料"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "锂电池正极材料",
+      "quote": "磷酸铁锂 主要用于动力锂电池领域"
+    },
+    {
+      "name": "动力电池",
+      "source_product": "锂电池正极材料",
+      "quote": "磷酸铁锂 主要用于动力锂电池领域"
+    },
+    {
+      "name": "储能电池",
+      "source_product": "锂电池正极材料",
+      "quote": "磷酸铁锂FY-700C型 主要用于储能领域"
+    },
+    {
+      "name": "制药行业",
+      "source_product": "工业草酸",
+      "quote": "制药行业中，草酸及其衍生品一方面作为很多药品的中间体"
+    },
+    {
+      "name": "稀土行业",
+      "source_product": "工业草酸",
+      "quote": "在稀土提取和分离工艺里，草酸是极为关键的沉淀剂"
+    },
+    {
+      "name": "新兴电子行业",
+      "source_product": "精制草酸/草酸衍生品",
+      "quote": "草酸深加工的草酸衍生品是生产电子陶瓷基体和超级电容器的重要原材料"
+    },
+    {
+      "name": "非稀土矿山领域",
+      "source_product": "工业草酸",
+      "quote": "近年来，随着非稀土矿山行业对资源综合利用和环境保护要求的不断提高，草酸在矿石处理、环境修复等方面的应用前景广阔"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赵光辉",
+      "role": "公司控股股东、实际控制人",
+      "quote": "公司控股股东、实际控制人 指 赵光辉"
+    },
+    {
+      "name": "赵晓萌",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人赵晓萌"
+    },
+    {
+      "name": "庞林",
+      "role": "总经理、财务总监",
+      "quote": "主管会计工作负责人庞林"
+    },
+    {
+      "name": "陈令国",
+      "role": "董事、副总经理",
+      "quote": "陈令国 现任公司董事、副总经理"
+    },
+    {
+      "name": "赵程",
+      "role": "董事、副总经理兼销售中心总监",
+      "quote": "现任公司董事、副总经理兼销售中心总监"
+    },
+    {
+      "name": "邓燕",
+      "role": "董事",
+      "quote": "邓燕 现任公司董事"
+    },
+    {
+      "name": "赵凤芹",
+      "role": "董事",
+      "quote": "赵凤芹 现任公司董事"
+    },
+    {
+      "name": "朱涛",
+      "role": "董事、技术研发工程师",
+      "quote": "现任公司董事、技术研发工程师"
+    },
+    {
+      "name": "周世勇",
+      "role": "独立董事",
+      "quote": "现任公司独立董事"
+    },
+    {
+      "name": "金永成",
+      "role": "独立董事",
+      "quote": "现任公司独立董事"
+    },
+    {
+      "name": "李健",
+      "role": "独立董事",
+      "quote": "现任公司独立董事"
+    },
+    {
+      "name": "倪雯琴",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 倪雯琴"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "比亚迪股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司第一大客户",
+      "quote": "1 比亚迪股份有限公司 2,053,418,894.35 88.26%"
+    },
+    {
+      "name": "山东丰元精细材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的全资子公司",
+      "quote": "丰元精细 指 山东丰元精细材料有限公司，公司的全资子公司"
+    },
+    {
+      "name": "山东丰元锂能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的全资子公司",
+      "quote": "丰元锂能 指 山东丰元锂能科技有限公司，公司的全资子公司"
+    },
+    {
+      "name": "青岛联合丰元国际贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的全资子公司",
+      "quote": "丰元贸易 指 青岛联合丰元国际贸易有限公司，公司的全资子公司"
+    },
+    {
+      "name": "青岛中科汇能丰元科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的全资子公司",
+      "quote": "中科汇能 指 青岛中科汇能丰元科技有限公司，公司的全资子公司"
+    },
+    {
+      "name": "安徽丰元锂能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的控股孙公司",
+      "quote": "安徽丰元 指 安徽丰元锂能科技有限公司，公司的控股孙公司"
+    },
+    {
+      "name": "丰元（云南）锂能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的全资孙公司",
+      "quote": "丰元（云南）锂能 指 丰元（云南）锂能科技有限公司，公司的全资孙公司"
+    },
+    {
+      "name": "山东丰元汇能新能源材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的控股孙公司",
+      "quote": "丰元汇能 指 山东丰元汇能新能源材料有限公司，公司的控股孙公司"
+    },
+    {
+      "name": "中国科学院青岛生物能源与过程研究院",
+      "relation_type": "joint_venture",
+      "business_details": "产学研合作",
+      "quote": "联合中国科学院青岛生物能源与过程研究所、国家深海基地管理中心等单位"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "锂电池正极材料类",
+      "segment_type": "product_line",
+      "revenue_amount": "2,208,820,417.05",
+      "revenue_proportion": "94.94%",
+      "gross_margin": "-6.39%",
+      "yoy_change": "60.25%",
+      "quote": "锂电池正极材料类 2,208,820,417.05 94.94%"
+    },
+    {
+      "name": "草酸类",
+      "segment_type": "product_line",
+      "revenue_amount": "116,300,722.30",
+      "revenue_proportion": "5.00%",
+      "gross_margin": null,
+      "yoy_change": "4.61%",
+      "quote": "草酸类 116,300,722.30 5.00%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "669,304,926.65",
+      "revenue_proportion": "28.77%",
+      "gross_margin": "-6.53%",
+      "yoy_change": "358.82%",
+      "quote": "华东地区 669,304,926.65 28.77%"
+    },
+    {
+      "name": "中南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,275,175,643.86",
+      "revenue_proportion": "54.81%",
+      "gross_margin": "-6.17%",
+      "yoy_change": "17.88%",
+      "quote": "中南地区 1,275,175,643.86 54.81%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "锂电池正极材料",
+      "metric_type": "capacity",
+      "value": "24万吨",
+      "period": null,
+      "quote": "主要产品 设计产能 锂电池正极材料 24万吨"
+    },
+    {
+      "product": "锂电池正极材料",
+      "metric_type": "capacity_utilization",
+      "value": "40.52%（注1）",
+      "period": null,
+      "quote": "产能利用率 40.52%（注1）"
+    },
+    {
+      "product": "草酸及系列产品",
+      "metric_type": "capacity",
+      "value": "10万吨",
+      "period": null,
+      "quote": "草酸及系列产品 10万吨"
+    },
+    {
+      "product": "草酸及系列产品",
+      "metric_type": "capacity_utilization",
+      "value": "37.23%",
+      "period": null,
+      "quote": "产能利用率 37.23%"
+    },
+    {
+      "product": "锂电池正极材料",
+      "metric_type": "production_volume",
+      "value": "72,930.78吨",
+      "period": "2025年",
+      "quote": "生产量 吨 72,930.78"
+    },
+    {
+      "product": "锂电池正极材料",
+      "metric_type": "sales_volume",
+      "value": "75,424.52吨",
+      "period": "2025年",
+      "quote": "销售量 吨 75,424.52"
+    },
+    {
+      "product": "草酸及系列产品",
+      "metric_type": "production_volume",
+      "value": "37,226.21吨",
+      "period": "2025年",
+      "quote": "生产量 吨 37,226.21"
+    },
+    {
+      "product": "草酸及系列产品",
+      "metric_type": "sales_volume",
+      "value": "41,020.06吨",
+      "period": "2025年",
+      "quote": "销售量 吨 41,020.06"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "枣庄年产5万吨锂离子电池高能正极材料项目二期2.5万吨产线",
+      "project_type": "capacity_expansion",
+      "location": "枣庄",
+      "investment_amount": null,
+      "designed_capacity": "2.5万吨",
+      "progress": "投资建设情况中提及",
+      "expected_completion_time": null,
+      "quote": "目前公司投资在建产能：枣庄年产5万吨锂离子电池高能正极材料项目二期2.5万吨产线"
+    },
+    {
+      "name": "玉溪年产10万吨锂电池正极材料磷酸铁锂项目二期5万吨产线",
+      "project_type": "capacity_expansion",
+      "location": "玉溪",
+      "investment_amount": null,
+      "designed_capacity": "5万吨",
+      "progress": "投资建设情况中提及",
+      "expected_completion_time": null,
+      "quote": "玉溪年产10万吨锂电池正极材料磷酸铁锂项目二期5万吨产线"
+    },
+    {
+      "name": "年产10万吨锂电池磷酸铁锂正极材料生产线项目（二期）（云南项目）",
+      "project_type": "capacity_expansion",
+      "location": "云南",
+      "investment_amount": "425,712,076.62",
+      "designed_capacity": "10万吨",
+      "progress": "65.00%",
+      "expected_completion_time": null,
+      "quote": "年产10万吨锂电池磷酸铁锂正极材料生产线项目（二期）（云南项目） 自筹 是 锂电池正极材 料 425,712,076.62 65.00%"
+    },
+    {
+      "name": "年产5万吨锂离子电池高能正极材料项目",
+      "project_type": "capacity_expansion",
+      "location": "枣庄",
+      "investment_amount": "369,172,023.03",
+      "designed_capacity": "5万吨",
+      "progress": "75.00%",
+      "expected_completion_time": null,
+      "quote": "年产5万吨锂离子电池高能正极材料项目 自筹 是 锂电池正极材 料 369,172,023.03 75.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "磷酸铁锂相关专利技术",
+      "asset_type": "patent",
+      "related_product": "磷酸铁锂",
+      "quantitative_info": "35项",
+      "quote": "专利技术 35项（一种磷酸铁锂复合电极及其制备方法和应用..."
+    },
+    {
+      "name": "常规和高镍三元材料相关专利技术",
+      "asset_type": "patent",
+      "related_product": "三元正极材料",
+      "quantitative_info": "29项",
+      "quote": "29项（涂料搅拌机、一种锂电池壳体尺寸测量仪..."
+    },
+    {
+      "name": "工业草酸相关专利技术",
+      "asset_type": "patent",
+      "related_product": "工业草酸",
+      "quantitative_info": "31项",
+      "quote": "31项（工业草酸生产中氧化合成工序的反应釜..."
+    },
+    {
+      "name": "精制草酸相关专利技术",
+      "asset_type": "patent",
+      "related_product": "精制草酸",
+      "quantitative_info": "5项",
+      "quote": "5项（一种精制草酸母液浓缩系统..."
+    },
+    {
+      "name": "高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及全资子公司丰元锂能均已通过国家高新技术企业认定"
+    },
+    {
+      "name": "IATF 16949体系证书",
+      "asset_type": "certification",
+      "related_product": "锂电池正极材料",
+      "quantitative_info": null,
+      "quote": "16 16949体系证书 丰元锂能 2024年7月25日-2027年7月24日"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "88.26%",
+      "related_entity": "比亚迪股份有限公司",
+      "period": "2025年",
+      "quote": "1 比亚迪股份有限公司 2,053,418,894.35 88.26%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "95.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 95.02%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "65.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 65.68%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争加剧和技术更新迭代的风险",
+      "related_entity": null,
+      "related_product": "锂电池正极材料、草酸",
+      "quote": "4、行业竞争加剧和技术更新迭代的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险",
+      "related_entity": null,
+      "related_product": "锂电池正极材料",
+      "quote": "2、原材料价格波动风险"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "大客户依赖风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、大客户依赖风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "行业政策和市场环境变动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业政策和市场环境变动风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "行业未来产能结构性过剩及公司新建产能无法消化的风险",
+      "related_entity": null,
+      "related_product": "锂电池正极材料",
+      "quote": "5、行业未来产能结构性过剩及公司新建产能无法消化的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "行业账期风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、行业账期风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "投资项目实施不达预期风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "8、投资项目实施不达预期风险"
+    }
+  ]
+}

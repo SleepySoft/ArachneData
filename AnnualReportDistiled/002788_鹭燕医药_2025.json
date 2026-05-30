@@ -1,0 +1,339 @@
+{
+  "company_name_mentioned": "鹭燕医药股份有限公司",
+  "produces": [
+    {
+      "name": "药品",
+      "type": "material",
+      "revenue_proportion": "83.15%",
+      "quote": "分产品 药品 17,666,924,235.25 83.15%"
+    },
+    {
+      "name": "医疗器械",
+      "type": "device",
+      "revenue_proportion": "11.80%",
+      "quote": "分产品 医疗器械 2,506,425,253.48 11.80%"
+    },
+    {
+      "name": "中药饮片",
+      "type": "material",
+      "revenue_proportion": "4.14%",
+      "quote": "分产品 中药饮片 880,650,170.35 4.14%"
+    },
+    {
+      "name": "便携式胎儿心电记录仪",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "便携式胎儿心电记录仪...产品实现销售。"
+    },
+    {
+      "name": "多导联动态心电记录仪（智能心电衣）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "多导联动态心电记录仪（智能心电衣）...研发成功，获批销售。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "药品及医疗器械产品",
+      "target_product": "用于分销业务",
+      "cost_proportion": null,
+      "quote": "本公司目前主要从事药品、中药饮片、医疗器械等产品的分销业务以及医药零售连锁业务，其中医药批发是公司收入的主要来源。"
+    },
+    {
+      "name": "中药材",
+      "target_product": "用于中药饮片生产",
+      "cost_proportion": null,
+      "quote": "中药材多数来源于植物和动物，具有农副产品的性质..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "医疗机构",
+      "source_product": "药品、医疗器械、中药饮片",
+      "quote": "公司已实现对福建省二级以上医疗机构的全面覆盖，在四川、江西、海南、香港等地二级以上医疗机构覆盖率亦已超过98%..."
+    },
+    {
+      "name": "零售药店",
+      "source_product": "药品、中药饮片等",
+      "quote": "截至2025年12月31日，公司共有直营药店292家。"
+    },
+    {
+      "name": "DTP药房",
+      "source_product": "高值药品",
+      "quote": "DTP药房 指 承接高值药品直配业务的定点药房"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴金祥",
+      "role": "董事长兼总经理",
+      "quote": "公司负责人吴金祥、主管会计工作负责人曾铮及会计机构负责人（会计主管人员）董炜炜声明..."
+    },
+    {
+      "name": "吴迪",
+      "role": "副董事长兼副总经理",
+      "quote": "吴迪，男，1991年生...现任公司副董事长兼副总经理..."
+    },
+    {
+      "name": "雷鸣",
+      "role": "董事、副总经理兼首席合规官",
+      "quote": "雷鸣，男，1975年生...现任本公司董事、副总经理兼首席合规官..."
+    },
+    {
+      "name": "叶泉青",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 叶泉青"
+    },
+    {
+      "name": "曾铮",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人 曾铮"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "为公司提供审计及内部控制审计服务",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 容诚会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "成都禾创药业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，因收购前原股东隐瞒的担保事项面临诉讼风险",
+      "quote": "公司子公司成都禾创药业集团有限公司（以下简称“成都禾创”）因收购前原股东刻意隐瞒的担保事项..."
+    },
+    {
+      "name": "贵阳德昌祥药业有限公司",
+      "relation_type": "customer",
+      "business_details": "成都禾创药业集团有限公司的被担保方，目前处于破产重整程序中",
+      "quote": "成都禾创因其被公司收购前为贵阳德昌祥药业有限公司（以下简称“德昌祥”）信托贷款提供连带担保而被列为被执行人..."
+    },
+    {
+      "name": "厦门麦迪肯科技有限公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东，持股35.53%",
+      "quote": "厦门麦迪肯科技有限公司 35.53% 138,030,674"
+    },
+    {
+      "name": "厦门三态科技有限公司",
+      "relation_type": "investor",
+      "business_details": "公司股东，持股1.15%，与控股股东为一致行动人",
+      "quote": "厦门三态科技有限公司 1.15% 4,464,221"
+    },
+    {
+      "name": "厦门张步桃纪念医院有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司的参股公司，雷鸣担任其董事",
+      "quote": "对参股公司厦门张步桃纪念医院有限公司...合计增资1,009.25万元"
+    },
+    {
+      "name": "康源爱中（广州）科创有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司的参股公司",
+      "quote": "对参股公司...康源爱中（广州）科创有限公司合计增资1,009.25万元"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药批发",
+      "segment_type": "business_unit",
+      "revenue_amount": "19,113,679,861.26",
+      "revenue_proportion": "89.96%",
+      "gross_margin": "6.02%",
+      "yoy_change": "2.84%",
+      "quote": "医药批发 19,113,679,861.26 89.96% ... 6.02% 2.84% 3.16% -0.30%"
+    },
+    {
+      "name": "医药零售",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,517,146,406.88",
+      "revenue_proportion": "7.14%",
+      "gross_margin": null,
+      "yoy_change": "27.14%",
+      "quote": "医药零售 1,517,146,406.88 7.14% ... 27.14%"
+    },
+    {
+      "name": "医药工业",
+      "segment_type": "business_unit",
+      "revenue_amount": "558,609,848.64",
+      "revenue_proportion": "2.63%",
+      "gross_margin": null,
+      "yoy_change": "-9.64%",
+      "quote": "医药工业 558,609,848.64 2.63% ... -9.64%"
+    },
+    {
+      "name": "福建省",
+      "segment_type": "region",
+      "revenue_amount": "14,900,405,034.16",
+      "revenue_proportion": "70.13%",
+      "gross_margin": "6.76%",
+      "yoy_change": "3.29%",
+      "quote": "福建省 14,900,405,034.16 70.13% ... 6.76% 3.29% 3.93% -0.57%"
+    },
+    {
+      "name": "四川省",
+      "segment_type": "region",
+      "revenue_amount": "3,730,917,652.65",
+      "revenue_proportion": "17.56%",
+      "gross_margin": "7.37%",
+      "yoy_change": "10.80%",
+      "quote": "四川省 3,730,917,652.65 17.56% ... 7.37% 10.80% 10.82% -0.02%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "直营药店",
+      "metric_type": "capacity",
+      "value": "292家",
+      "period": "截至2025年12月31日",
+      "quote": "截至2025年12月31日，公司共有直营药店292家。"
+    },
+    {
+      "product": "药品流通",
+      "metric_type": "sales_volume",
+      "value": "21,189,436,116.78",
+      "period": "2025年",
+      "quote": "药品流通 销售量 元 21,189,436,116.78"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "鹭燕现代中医药产业园一期建设项目",
+      "project_type": "capacity_expansion",
+      "location": "亳州",
+      "investment_amount": "9,307.53万元",
+      "designed_capacity": null,
+      "progress": "项目一期已于2026年1月完成建设并投入使用",
+      "expected_completion_time": "2026年1月",
+      "quote": "项目一期已于2026年1月完成建设并投入使用...鹭燕现代中医药产业 园一期建设项目投入 9,307.53 万元"
+    },
+    {
+      "name": "鹭燕医药海南总部基地项目",
+      "project_type": "capacity_expansion",
+      "location": "海南",
+      "investment_amount": "4,235.71万元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "鹭燕医药海南总部基地项目投入 4,235.71万元"
+    },
+    {
+      "name": "鹭燕（漳州）大厦项目",
+      "project_type": "construction_project",
+      "location": "漳州",
+      "investment_amount": "3,518.68万元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "鹭燕（漳州）大厦项目投入 3,518.68万元"
+    },
+    {
+      "name": "泸州、赣州中药饮片厂建设",
+      "project_type": "capacity_expansion",
+      "location": "泸州、赣州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "按计划推进泸州、赣州中药饮片厂建设",
+      "expected_completion_time": null,
+      "quote": "按计划推进泸州、赣州中药饮片厂建设"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "药品及医疗器械第三方物流资质",
+      "asset_type": "certification",
+      "related_product": "物流服务",
+      "quantitative_info": "公司及3家全资子公司已取得",
+      "quote": "公司及 3 家全资子公司已取得药品及医疗器械第三方物流资质..."
+    },
+    {
+      "name": "鲜加工资质",
+      "asset_type": "certification",
+      "related_product": "中药饮片",
+      "quantitative_info": "子公司亳州市中药饮片厂于报告期内取得23个品种的鲜加工资质",
+      "quote": "子公司亳州市中药饮片厂于报告期内取得23个品种的鲜加工资质。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": "信息化系统",
+      "quantitative_info": "获得六项软件著作权注册",
+      "quote": "自主完成系列信息化项目的开发，并获得六项软件著作权注册"
+    },
+    {
+      "name": "基于‘五辨’理论的中医诊断技术方法创新与设备研发项目",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "被福建省政府授予“2024年度福建省科学技术进步奖一等奖”",
+      "quote": "子公司厦门燕来福制药有限公司参与研发的...两个项目于2025年11月被福建省政府授予“2024 年度福建省科学技术进步奖一等奖”"
+    },
+    {
+      "name": "基于绿色/精准策略的中药质量保障技术群创建及智能装备开发应用项目",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "被福建省政府授予“2024年度福建省科学技术进步奖一等奖”",
+      "quote": "子公司厦门燕来福制药有限公司参与研发的...两个项目于2025年11月被福建省政府授予“2024 年度福建省科学技术进步奖一等奖”"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "8.70%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 8.70%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "8.32%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 8.32%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "近年来，在国家深化医改政策持续推动下，医药流通行业正经历深刻变革...形成了以全国性巨头为主导，区域性龙头深耕本土市场的双轨竞争格局。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争加剧的风险 近年来，在国家深化医改政策持续推动下，医药流通行业正经历深刻变革。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家持续推进药品和耗材集中带量采购政策，全国范围内扩面提效的集采机制加速了药械价格回归合理区间，对医药流通企业的盈利模式形成显著挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、行业政策风险 在深化医改的背景下，国家持续推进药品和耗材集中带量采购政策..."
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司子公司成都禾创药业集团有限公司因收购前原股东隐瞒的对外担保事项，导致被债权人追索担保责任，涉案金额重大。",
+      "related_entity": "成都禾创药业集团有限公司",
+      "related_product": null,
+      "quote": "成都禾创药业集团有限公司因收购前原股东刻意隐瞒的对外担保事项，导致被债权人追索担保责任...涉案金额21,867.62万元。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司主要客户为二级以上公立医院...若医保部门或医院出现结算延迟，或纯销业务因市场拓展快速增长，可能导致应收账款账期延长。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、应收账款管理风险 公司主要客户为二级以上公立医院...若医保部门或医院出现结算延迟..."
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "医药流通企业必须对药品保持一定的库存量...药品的效期管理比一般商品更为严格，超过效期的药品履行相关程序后必须予以销毁。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、存货管理风险 因医疗市场的特殊性...药品的效期管理比一般商品更为严格..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司以外延式扩张方式发展，公司并购的企业如经营业绩不符合预期，将可能产生商誉减值风险，从而对公司业绩造成较大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "9、商誉减值风险 公司以外延式扩张方式发展，公司并购的企业如经营业绩不符合预期，将可能产生商誉减值风险..."
+    }
+  ]
+}

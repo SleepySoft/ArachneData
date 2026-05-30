@@ -1,0 +1,343 @@
+{
+  "company_name_mentioned": "江苏国信股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "占营业总收入84.12%",
+      "quote": "分产品：电力 29,887,951,965.73 84.12%"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "占营业总收入3.76%",
+      "quote": "分产品：热力 1,335,733,514.86 3.76%"
+    },
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": "占营业总收入8.08%",
+      "quote": "分产品：煤炭 2,870,845,252.11 8.08%"
+    },
+    {
+      "name": "信托服务",
+      "type": "service",
+      "revenue_proportion": "占营业总收入2.59%",
+      "quote": "分产品：金融 920,137,687.88 2.59%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃煤",
+      "target_product": "电力",
+      "cost_proportion": "原材料 19,805,788,548.54，占营业成本比重 66.25%",
+      "quote": "营业成本构成：电力 原材料 19,805,788,548.54 66.25%"
+    },
+    {
+      "name": "天然气",
+      "target_product": "电力",
+      "cost_proportion": null,
+      "quote": "电力生产的原材料主要为燃煤和天然气，燃煤和天然气均向国内外供应商采购。"
+    },
+    {
+      "name": "中国中煤能源集团有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 13.60%",
+      "quote": "公司前5大供应商资料：1 中国中煤能源集团有限公司 4,026,587,389.45 13.60%"
+    },
+    {
+      "name": "国家能源投资集团有限责任公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 12.49%",
+      "quote": "公司前5大供应商资料：2 国家能源投资集团有限责任公司 3,699,016,300.36 12.49%"
+    },
+    {
+      "name": "中国石油天然气股份有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 9.50%",
+      "quote": "公司前5大供应商资料：3 中国石油天然气股份有限公司 2,811,089,202.29 9.50%"
+    },
+    {
+      "name": "山西煤炭进出口集团有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 8.82%",
+      "quote": "公司前5大供应商资料：4 山西煤炭进出口集团有限公司 2,609,944,739.15 8.82%"
+    },
+    {
+      "name": "晋能控股集团有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 6.63%",
+      "quote": "公司前5大供应商资料：5 晋能控股集团有限公司 1,963,415,202.00 6.63%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网供电",
+      "source_product": "电力",
+      "quote": "所生产的电力主要输入江苏电网，部分输入山西电网。"
+    },
+    {
+      "name": "供热",
+      "source_product": "热力",
+      "quote": "热力主要供给当地企事业单位及居民。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐文进",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人徐文进...现任江苏省国信集团有限公司总经理、党委副书记、董事，兼任本公司董事长。"
+    },
+    {
+      "name": "李正欣",
+      "role": "总经理",
+      "quote": "主管会计工作负责人李正欣...现任本公司总经理、党委委员，兼任江苏国信靖江发电有限公司董事长、党委书记，江苏国信马洲发电有限公司董事长。"
+    },
+    {
+      "name": "顾中林",
+      "role": "副总经理、董事会秘书、财务总监",
+      "quote": "顾中林先生，...现任本公司副总经理、董事会秘书、财务总监。"
+    },
+    {
+      "name": "王爱军",
+      "role": "副总经理",
+      "quote": "王爱军先生，...现任本公司副总经理，兼任苏晋能源控股有限公司董事长、党委书记。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "公司销售额29,917,427,112.50元",
+      "quote": "公司前5大客户资料：1 国家电网有限公司 29,917,427,112.50 86.44%"
+    },
+    {
+      "name": "江苏省国信集团有限公司",
+      "relation_type": "customer",
+      "business_details": "控股股东，公司销售额559,029,856.73元",
+      "quote": "公司前5大客户资料：4 江苏省国信集团有限公司 559,029,856.73 1.61%"
+    },
+    {
+      "name": "江苏银行股份有限公司",
+      "relation_type": "investor",
+      "business_details": "联营企业，江苏信托为其单一第一大股东",
+      "quote": "江苏信托现为江苏省内最大的法人银行江苏银行的单一第一大股东"
+    },
+    {
+      "name": "利安人寿保险股份有限公司",
+      "relation_type": "investor",
+      "business_details": "联营企业，江苏信托为其第一大股东",
+      "quote": "全国性人身保险公司利安人寿的第一大股东"
+    },
+    {
+      "name": "江苏省新能源开发股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，合作投资开发新能源项目",
+      "quote": "报告期内公司深化与江苏新能的合作，加大项目储备力度，持续推进参股项目建设。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "29,887,951,965.73元",
+      "revenue_proportion": "84.12%",
+      "gross_margin": "14.40%",
+      "yoy_change": "同比增减2.24%",
+      "quote": "分产品：电力 29,887,951,965.73 84.12%...毛利率 14.40%...营业总收入比上年增减 2.24%"
+    },
+    {
+      "name": "热力",
+      "segment_type": "product_line",
+      "revenue_amount": "1,335,733,514.86元",
+      "revenue_proportion": "3.76%",
+      "gross_margin": "11.19%",
+      "yoy_change": "同比增减-2.19%",
+      "quote": "分产品：热力 1,335,733,514.86 3.76%...毛利率 11.19%...营业总收入比上年增减 -2.19%"
+    },
+    {
+      "name": "煤炭",
+      "segment_type": "product_line",
+      "revenue_amount": "2,870,845,252.11元",
+      "revenue_proportion": "8.08%",
+      "gross_margin": "1.14%",
+      "yoy_change": "同比增减-41.30%",
+      "quote": "分产品：煤炭 2,870,845,252.11 8.08%...毛利率 1.14%...营业总收入比上年增减 -41.30%"
+    },
+    {
+      "name": "金融",
+      "segment_type": "product_line",
+      "revenue_amount": "920,137,687.88元",
+      "revenue_proportion": "2.59%",
+      "gross_margin": "67.16%",
+      "yoy_change": "同比增减-6.79%",
+      "quote": "分产品：金融 920,137,687.88 2.59%...毛利率 67.16%...营业总收入比上年增减 -6.79%"
+    },
+    {
+      "name": "江苏省",
+      "segment_type": "region",
+      "revenue_amount": "29,013,873,687.95元",
+      "revenue_proportion": "81.66%",
+      "gross_margin": "14.92%",
+      "yoy_change": "同比增减-0.88%",
+      "quote": "分地区：江苏省 29,013,873,687.95 81.66%...毛利率 14.92%...营业总收入比上年增减 -0.88%"
+    },
+    {
+      "name": "山西省",
+      "segment_type": "region",
+      "revenue_amount": "6,517,336,063.52元",
+      "revenue_proportion": "18.34%",
+      "gross_margin": "20.08%",
+      "yoy_change": "同比增减-14.93%",
+      "quote": "分地区：山西省 6,517,336,063.52 18.34%...毛利率 20.08%...营业总收入比上年增减 -14.93%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "capacity",
+      "value": "2250.9万千瓦",
+      "period": "2025年末",
+      "quote": "截至2025年末，公司现有控股装机总容量2250.9万千瓦"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "792.43亿千瓦时",
+      "period": "2025年",
+      "quote": "本报告期内，公司完成自发电量792.43亿千瓦时"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "750.67亿千瓦时",
+      "period": "2025年",
+      "quote": "本报告期内，公司完成上网电量750.67亿千瓦时"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity_utilization",
+      "value": "4359小时",
+      "period": "2025年",
+      "quote": "自发利用小时数（小时） 4,359"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "国信滨电百万千瓦煤电项目",
+      "project_type": "capacity_expansion",
+      "location": "江苏",
+      "investment_amount": null,
+      "designed_capacity": "100万千瓦",
+      "progress": "年内并网发电",
+      "expected_completion_time": null,
+      "quote": "国信滨电、国信沙洲、国信马洲百万千瓦煤电项目年内并网发电"
+    },
+    {
+      "name": "国信沙洲百万千瓦煤电项目",
+      "project_type": "capacity_expansion",
+      "location": "江苏",
+      "investment_amount": null,
+      "designed_capacity": "100万千瓦",
+      "progress": "年内并网发电",
+      "expected_completion_time": null,
+      "quote": "国信沙洲两台100万千瓦二次再热超超临界燃煤机组分别于2025年7月8日和2025年8月26日正式投产运营。"
+    },
+    {
+      "name": "国信马洲百万千瓦煤电项目",
+      "project_type": "capacity_expansion",
+      "location": "江苏",
+      "investment_amount": null,
+      "designed_capacity": "100万千瓦",
+      "progress": "年内并网发电",
+      "expected_completion_time": null,
+      "quote": "国信马洲一台100万千瓦二次再热超超临界燃煤机组于2025年12月12日正式投产运营。"
+    },
+    {
+      "name": "国信扬电三期",
+      "project_type": "capacity_expansion",
+      "location": "江苏",
+      "investment_amount": "106,755万元",
+      "designed_capacity": "2×100万千瓦",
+      "progress": "开工建设",
+      "expected_completion_time": null,
+      "quote": "国信扬电三期开工建设...同意公司对国信扬电增资106,755万元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超临界/超超临界、蒸汽联合循环的热电联产机组",
+      "asset_type": "core_technology",
+      "related_product": "电力",
+      "quantitative_info": "在运机组中60万千瓦及以上高效低能耗装机容量占公司燃煤机组比例超过96%，超临界/超超临界机组占控股煤机装机总容量比例为89%",
+      "quote": "公司燃煤发电机组多为超临界/超超临界、蒸汽联合循环的热电联产机组，机组容量大、能耗低、效率高。其中，公司在运机组中60万千瓦及以上高效低能耗装机容量占公司燃煤机组比例超过96%，超临界/超超临界机组占控股煤机装机总容量比例为89%。"
+    },
+    {
+      "name": "深度调峰改造",
+      "asset_type": "process_technology",
+      "related_product": "电力",
+      "quantitative_info": "深度调峰改造负荷率最低至15%",
+      "quote": "深度调峰改造负荷率最低至15%，处于全国领先水平"
+    },
+    {
+      "name": "熔盐储热耦合燃煤机组灵活性提升关键技术及应用",
+      "asset_type": "other",
+      "related_product": "电力",
+      "quantitative_info": "获中国电机工程学会电力科学技术进步一等奖",
+      "quote": "国信靖电《熔盐储热耦合燃煤机组灵活性提升关键技术及应用》获中国电机工程学会电力科学技术进步一等奖。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "32,800,225,287.48元，占年度销售总额比例 94.77%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 32,800,225,287.48 前五名客户合计销售金额占年度销售总额比例 94.77%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "29,917,427,112.50元，占年度销售总额比例 86.44%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料：1 国家电网有限公司 29,917,427,112.50 86.44%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "15,110,052,833.25元，占年度采购总额比例 51.04%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 15,110,052,833.25 前五名供应商合计采购金额占年度采购总额比例 51.04%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "能源行业‘双碳’政策推进、煤电角色转型及碳配额收紧，推高低碳运维成本；信托行业‘严监管’常态化，配套政策落地倒逼业务调整，产生合规与转型成本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.政策风险：能源行业‘双碳’政策推进、煤电角色转型及碳配额收紧，推高低碳运维成本；信托行业‘严监管’常态化，配套政策落地倒逼业务调整，产生合规与转型成本。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "能源端煤炭、天然气价格受地缘冲突、极端天气等影响波动，燃料成本管控压力大；电力市场电价、电量波动及偏差考核风险上升，用电需求或不及预期；金融端利率、汇率、资本市场价格高频波动，影响标品信托业务收益；信托同业竞争加剧，产品分流明显，挤压市场空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.市场风险：能源端煤炭、天然气价格受地缘冲突、极端天气等影响波动，燃料成本管控压力大；电力市场电价、电量波动及偏差考核风险上升，用电需求或不及预期；金融端利率、汇率、资本市场价格高频波动，影响标品信托业务收益；信托同业竞争加剧，产品分流明显，挤压市场空间。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "信托行业传统通道、类信贷业务压缩，标品等新业务未形成规模效应与核心竞争力，面临投研、人才、客户认知适配不足等问题；能源行业煤电向清洁高效、多元结构转型，调峰启停等增加运营负担。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.转型风险：信托行业传统通道、类信贷业务压缩，标品等新业务未形成规模效应与核心竞争力，面临投研、人才、客户认知适配不足等问题；能源行业煤电向清洁高效、多元结构转型，调峰启停等增加运营负担。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "煤炭、天然气价格受地缘冲突、极端天气等影响波动，燃料成本管控压力大。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "能源端煤炭、天然气价格受地缘冲突、极端天气等影响波动，燃料成本管控压力大"
+    }
+  ]
+}

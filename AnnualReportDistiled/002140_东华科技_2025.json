@@ -1,0 +1,572 @@
+{
+  "company_name_mentioned": "东华工程科技股份有限公司",
+  "produces": [
+    {
+      "name": "工程总承包",
+      "type": "service",
+      "revenue_proportion": "88.84%",
+      "quote": "分产品\n总承包收入 88.84%"
+    },
+    {
+      "name": "工程设计、咨询",
+      "type": "service",
+      "revenue_proportion": "2.94%",
+      "quote": "分产品\n设计、技术性收入 2.94%"
+    },
+    {
+      "name": "环保设施运营（污水处理等）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司环保设施运营等实业相对集中在环境治理、基础设施等领域，主要开展市政污水处理、工业园区污水处理、固（危）废处置、供排水一体化、景观园林、河道整治、垃圾发电等运营业务。"
+    },
+    {
+      "name": "PBAT等可降解材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "A、公司控股的东华天业PBAT项目：该项目产能为6万吨/年PBAT、4万吨/年PBT"
+    },
+    {
+      "name": "乙二醇",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司控股的内蒙新材乙二醇项目：该项目产能为30万吨/年煤制乙二醇"
+    },
+    {
+      "name": "石墨烯粉体及功能浆料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司全资的安徽新材石墨烯项目：该项目产能为年产 200 吨石墨烯粉体配套 4000 吨石墨烯功能浆料。"
+    },
+    {
+      "name": "碳酸二甲酯（DMC）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司参股的榆东科技 DMC项目：该项目规划为 50 万吨/年 DMC，一期产能为 10 万吨/年 DMC。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "施工分包服务、设备材料",
+      "target_product": "工程总承包项目",
+      "cost_proportion": null,
+      "quote": "在工程总承包项目实施过程中，公司结合项目建设实际需求，按照相关法律法规规定，将总承包范围内的施工安装、设备制造等部分业务，依法分包给具备相应资质条件的专业分包单位。"
+    },
+    {
+      "name": "施工安装、设备制造等服务",
+      "target_product": "工程总承包项目",
+      "cost_proportion": null,
+      "quote": "公司已形成完善的分包管理体系，确保施工分包、设备采购等环节规范运作，满足工程总承包项目管理要求。"
+    },
+    {
+      "name": "工程建设设备材料、环保运营材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "供应商：主要有工程建设设备材料、环保运营材料等供应商，工程建设施工分包商等。"
+    },
+    {
+      "name": "工程劳务、设备材料等",
+      "target_product": null,
+      "cost_proportion": "12.47% (前五大供应商合计)",
+      "quote": "前五名供应商合计采购金额（元） 1,109,992,834.62\n前五名供应商合计采购金额占年度采购总额比例 12.47%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "化学工程（煤化工、天然气化工、精细化工等）",
+      "source_product": "工程总承包、设计、咨询",
+      "quote": "公司工程业务领域主要包括化工、环境治理及基础设施等工程业务"
+    },
+    {
+      "name": "环境治理（工业废水处理、流域治理、固废处置等）",
+      "source_product": "工程总承包、设计、环保设施运营",
+      "quote": "环保设施运营等实业相对集中在环境治理、基础设施等领域，主要开展市政污水处理、工业园区污水处理、固（危）废处置、供排水一体化、景观园林、河道整治、垃圾发电等运营业务。"
+    },
+    {
+      "name": "基础设施建设",
+      "source_product": "工程总承包、设计、咨询",
+      "quote": "公司工程业务及实业业务模式未发生重大变化。\n（一）主要业务\n报告期内，公司业务领域主要包括化工、环境治理及基础设施等工程业务"
+    },
+    {
+      "name": "新能源（锂电池材料、风光氢储等）",
+      "source_product": "工程总承包、设计、咨询",
+      "quote": "在锂电新材料领域，公司积极布局国内外碳酸锂、磷酸铁、六氟磷酸锂、电池级电解液等项目，提供从设计到运营的一体化服务"
+    },
+    {
+      "name": "可降解塑料制品",
+      "source_product": "PBAT等可降解材料",
+      "quote": "可降解塑料作为一种可自然降解的材料，在环保方面具有独特的作用，被认为是“白色污染的有效解决途径”"
+    },
+    {
+      "name": "锂电池电解液溶剂、电路板蚀刻",
+      "source_product": "碳酸二甲酯（DMC）",
+      "quote": "主要生产高纯级 DMC，可应用于锂电池电解液溶剂、电路板蚀刻等领域。"
+    },
+    {
+      "name": "高性能涂料、散热材料、电池材料、复合金属",
+      "source_product": "石墨烯产品",
+      "quote": "在项目实施初期，项目产品主要用于石墨烯高性能涂料、石墨烯散热材料、石墨烯电池材料、石墨烯复合金属等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李立新",
+      "role": "董事长",
+      "quote": "公司负责人李立新、主管会计工作负责人赵德艳及会计机构负责人（会计主管人员）刘雷光声明"
+    },
+    {
+      "name": "孟陈周",
+      "role": "董事、总经理",
+      "quote": "董事、总 年04 年04 60,00 60,00 不适\n孟陈周 男 45 现任 0 0 0\n经理 月25 月28 0 0 用"
+    },
+    {
+      "name": "赵德艳",
+      "role": "财务总监、总法律顾问、首席合规官",
+      "quote": "财务总\n监、总法\n律顾问、\n首席合规\n官"
+    },
+    {
+      "name": "余伟胜",
+      "role": "董事会秘书",
+      "quote": "董事会秘 书"
+    },
+    {
+      "name": "张小军",
+      "role": "董事",
+      "quote": "张小军 男 57 董事 现任 0 0 0 0 0"
+    },
+    {
+      "name": "王会民",
+      "role": "董事",
+      "quote": "王会民 男 58 董事 现任 0 0 0 0 0"
+    },
+    {
+      "name": "喻军",
+      "role": "总工程师",
+      "quote": "总工 程师"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国化学工程股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东\n中国化学\n中国化学工程股份有限公司"
+    },
+    {
+      "name": "中国化学工程集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "集团公司、实际控制人\n中国化学工程集团有限公司"
+    },
+    {
+      "name": "陕西煤业化工集团有限责任公司",
+      "relation_type": "customer",
+      "business_details": "关联客户",
+      "quote": "陕煤集团\n陕西煤业化工集团有限责任公司"
+    },
+    {
+      "name": "化学工业第三设计院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "原控股股东",
+      "quote": "化三院\n化学工业第三设计院有限公司"
+    },
+    {
+      "name": "中化学（内蒙古）新材料有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事乙二醇生产",
+      "quote": "内蒙新材\n中化学（内蒙古）新材料有限责任公司"
+    },
+    {
+      "name": "中化学东华天业新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事PBAT等材料生产",
+      "quote": "东华天业\n中化学东华天业新材料有限公司"
+    },
+    {
+      "name": "中化学东华（安徽）新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事石墨烯生产",
+      "quote": "安徽新材\n中化学东华（安徽）新材料有限公司"
+    },
+    {
+      "name": "中国化学工程第三建设有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联供应商",
+      "quote": "前五名供应商中，中国化学工程第三建设有限公司...为本公司关联方。"
+    },
+    {
+      "name": "中国化学工程第六建设有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联供应商",
+      "quote": "前五名供应商中，...中国化学工程第六建设有限公司...为本公司关联方。"
+    },
+    {
+      "name": "陕煤集团榆林化学有限责任公司",
+      "relation_type": "customer",
+      "business_details": "关联客户，乙二醇销售方",
+      "quote": "前五名客户中，陕煤集团榆林化学有限责任公司...为本公司关联方。"
+    },
+    {
+      "name": "新疆曙光绿华生物科技有限公司",
+      "relation_type": "customer",
+      "business_details": "关联客户，PBAT项目合作方",
+      "quote": "前五名客户中，...新疆曙光绿华生物科技有限公司为本公司关联方。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化工行业",
+      "segment_type": "industry",
+      "revenue_amount": "8,227,098,781.79",
+      "revenue_proportion": "82.07%",
+      "gross_margin": "11.62%",
+      "yoy_change": null,
+      "quote": "分行业\n化工行业 82.07% 8,227,098,781.79"
+    },
+    {
+      "name": "环境治理基础设施行业",
+      "segment_type": "industry",
+      "revenue_amount": "973,151,759.91",
+      "revenue_proportion": "9.71%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "环境治理基础设 1,100,375,259.5\n973,151,759.91 9.71% 12.42% -11.56%"
+    },
+    {
+      "name": "总承包收入",
+      "segment_type": "product_line",
+      "revenue_amount": "8,905,935,602.43",
+      "revenue_proportion": "88.84%",
+      "gross_margin": "11.47%",
+      "yoy_change": null,
+      "quote": "分产品\n总承包收入 88.84% 8,905,935,602.43"
+    },
+    {
+      "name": "设计、技术性收入",
+      "segment_type": "product_line",
+      "revenue_amount": "294,314,939.27",
+      "revenue_proportion": "2.94%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "设计、技术性收入 2.94% 294,314,939.27"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "2,999,782,351.65",
+      "revenue_proportion": "29.92%",
+      "gross_margin": "15.13%",
+      "yoy_change": null,
+      "quote": "华东 29.92% 2,999,782,351.65"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "4,749,846,964.96",
+      "revenue_proportion": "47.38%",
+      "gross_margin": "9.57%",
+      "yoy_change": null,
+      "quote": "西北 47.38% 4,749,846,964.96"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "501,847,032.42",
+      "revenue_proportion": "5.01%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "境外 501,847,032.42 5.01%"
+    },
+    {
+      "name": "工程",
+      "segment_type": "sales_channel",
+      "revenue_amount": "9,200,250,541.70",
+      "revenue_proportion": "91.78%",
+      "gross_margin": "12.07%",
+      "yoy_change": null,
+      "quote": "分销售模式\n工程 91.78% 9,200,250,541.70"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "PBAT、PBT",
+      "metric_type": "capacity",
+      "value": "6万吨/年PBAT、4万吨/年PBT",
+      "period": null,
+      "quote": "该项目产能为6万吨/年PBAT、4万吨/年PBT"
+    },
+    {
+      "product": "BDO联产PBAT",
+      "metric_type": "capacity",
+      "value": "10万吨/年BDO联产12万吨PBAT",
+      "period": null,
+      "quote": "该项目产能为10万吨/年BDO联产12万吨PBAT"
+    },
+    {
+      "product": "煤制乙二醇",
+      "metric_type": "capacity",
+      "value": "30万吨/年煤制乙二醇",
+      "period": null,
+      "quote": "该项目产能为30万吨/年煤制乙二醇"
+    },
+    {
+      "product": "石墨烯粉体、石墨烯功能浆料",
+      "metric_type": "capacity",
+      "value": "年产 200 吨石墨烯粉体配套 4000 吨石墨烯功能浆料",
+      "period": null,
+      "quote": "该项目产能为年产 200 吨石墨烯粉体配套 4000 吨石墨烯功能浆料。"
+    },
+    {
+      "product": "碳酸二甲酯（DMC）",
+      "metric_type": "capacity",
+      "value": "一期产能为 10 万吨/年 DMC",
+      "period": null,
+      "quote": "一期产能为 10 万吨/年 DMC"
+    },
+    {
+      "product": "聚酯级乙二醇",
+      "metric_type": "production_volume",
+      "value": null,
+      "period": null,
+      "quote": "内蒙新材聚焦装置结构、原料结构、产品结构系统优化，实现气化炉单台耗煤量下降，聚酯级乙二醇产量提升"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "东华天业PBAT项目",
+      "project_type": "capacity_expansion",
+      "location": "新疆",
+      "investment_amount": null,
+      "designed_capacity": "6万吨/年PBAT、4万吨/年PBT",
+      "progress": "生产阶段",
+      "expected_completion_time": null,
+      "quote": "A、公司控股的东华天业PBAT项目：该项目产能为6万吨/年PBAT、4万吨/年PBT，可以根据市场需\n求灵活调节 PBAT、PBT 产能。"
+    },
+    {
+      "name": "曙光绿华PBAT项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "10万吨/年BDO联产12万吨PBAT",
+      "progress": "已竣工投产",
+      "expected_completion_time": null,
+      "quote": "B、公司参股的曙光绿华PBAT项目：该项目产能为10万吨/年BDO联产12万吨PBAT。目前，该项目\n已竣工投产。"
+    },
+    {
+      "name": "内蒙新材乙二醇项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "30万吨/年煤制乙二醇",
+      "progress": "生产阶段",
+      "expected_completion_time": null,
+      "quote": "公司控股的内蒙新材乙二醇项目：该项目产能为30万吨/年煤制乙二醇...目前，内蒙新材处于生产阶段"
+    },
+    {
+      "name": "安徽新材石墨烯项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽合肥",
+      "investment_amount": null,
+      "designed_capacity": "年产 200 吨石墨烯粉体配套 4000 吨石墨烯功能浆料",
+      "progress": "正在建设之中",
+      "expected_completion_time": null,
+      "quote": "公司全资的安徽新材石墨烯项目：该项目产能为年产 200 吨石墨烯粉体配套 4000 吨石墨烯功能浆料。...目前该项目正在建设之中。"
+    },
+    {
+      "name": "榆东科技 DMC项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "一期产能为 10 万吨/年 DMC",
+      "progress": "一期已竣工投产",
+      "expected_completion_time": null,
+      "quote": "公司参股的榆东科技 DMC项目：该项目规划为 50 万吨/年 DMC，一期产能为 10 万吨/年 DMC...目前，该项目一期已竣工投产。"
+    },
+    {
+      "name": "碳基高性能材料产业示范项目（石墨烯）",
+      "project_type": "construction_project",
+      "location": "安徽合肥",
+      "investment_amount": null,
+      "designed_capacity": "气相合成法石墨烯粉体联产功能浆料产业示范装置",
+      "progress": "顺利开工",
+      "expected_completion_time": null,
+      "quote": "碳基高性能材料产业示范项目正在加快建设之中，项目采用拥有自主知识产权的生产工艺，建设首台套气相合成法石墨烯粉体联产石墨烯功能浆料产业示范装置"
+    },
+    {
+      "name": "刚果(布)蒙哥1200kt/a钾肥工程项目",
+      "project_type": "capacity_expansion",
+      "location": "刚果(布)",
+      "investment_amount": "30.5亿元",
+      "designed_capacity": "1200kt/a钾肥",
+      "progress": "停工状态",
+      "expected_completion_time": null,
+      "quote": "刚果(布)\n蒙哥\n1200kt/a 2013年\n3,050,00 EPC总承 28.7个\n钾肥工程 02月08 6.82% 0.00 延迟 0.00\n0,000.00 包 月"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "工程设计综合资质甲级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "国内拥有该项综甲资质的工程勘察设计企业仅有 90 多家，约占全国勘察设计企业的 0.3%",
+      "quote": "公司拥有国家住房和城乡建设部颁发的“工程设计综合资质甲级”证书"
+    },
+    {
+      "name": "石油化工工程施工总承包壹级资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有石油化工工程施工总承包壹级资质"
+    },
+    {
+      "name": "QHSE管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "满足 GB/T19001-2016/ISO9001:2015、GB/T24001-2016/ISO14001:2015、GB/T45001-2020/ISO45001:2018 标准要求"
+    },
+    {
+      "name": "合成气制乙二醇技术",
+      "asset_type": "core_technology",
+      "related_product": "乙二醇工程",
+      "quantitative_info": "累计承建装置产能达年产 1000 万吨，市场占有率约 70%",
+      "quote": "在乙二醇领域，公司依托成熟工艺包与丰富工程经验，以工程设计、EPC 总承包等方式承建的乙二醇装置总产能已超\n过 1000 万吨/年，市场占有率约 70%"
+    },
+    {
+      "name": "生物质气化技术（东华炉）",
+      "asset_type": "core_technology",
+      "related_product": "绿色甲醇等",
+      "quantitative_info": null,
+      "quote": "公司的流化床生物质气化中试技术开发项目一次投料成功，产出合成气，其核心设备“东华炉”已具备工业化应用条件"
+    },
+    {
+      "name": "气相法石墨烯制备技术",
+      "asset_type": "core_technology",
+      "related_product": "石墨烯产品",
+      "quantitative_info": null,
+      "quote": "气相法石墨烯应用拓展及制备提纯优化技术开发项目实现重要节点目标，获得发明专利授权"
+    },
+    {
+      "name": "甲烷-二氧化碳干重整工艺包",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "主导开发的甲烷-二氧化碳干重整工艺包实现工业化转化，成功应用于全球首套高温高压示范装置。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "申请专利100件，其中发明专利79件；获得授权专利55件（其中发明专利35件）",
+      "quote": "公司申请专利100件,其中发明专利79件；获得授权专利55件（其中发明专利35件）"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "1项",
+      "quote": "软件著作权 1 项"
+    },
+    {
+      "name": "专有技术",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2项",
+      "quote": "专有技术 2 项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 41.15%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "12.27%",
+      "related_entity": "陕煤集团榆林化学有限责任公司",
+      "period": "2025年",
+      "quote": "陕煤集团榆林化学有限责任公司\n1\n1,230,390,229.08\n12.27%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "12.47%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 12.47%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中关联方销售额占年度销售总额比例 18.64%",
+      "related_entity": "陕煤集团榆林化学有限责任公司、新疆曙光绿华生物科技有限公司",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 18.64%\n公司前5大客户资料\n...陕煤集团榆林化学有限责任公司、新疆曙光绿华生物科技有限公司为本公司关联方。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额占年度采购总额比例 12.47%",
+      "related_entity": "中国化学工程第三建设有限公司、中国化学工程第六建设有限公司等",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 12.47%\n...前五名供应商中，中国化学工程第三建设有限公司...为本公司关联方。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "宏观经济及产业政策风险：外部环境更趋复杂严峻，全球经济复苏乏力、地缘政治冲突加剧...相关产业政策、能耗双控、环保标准、投资节奏调整，均可能对公司业务布局、市场拓展和经营发展产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济及产业政策风险：当前世界百年变局加速演进，外部环境更趋复杂严峻，全球经济复苏乏力、地缘政治冲突加剧，对我国贸易往来、产业链供应链稳定及科技领域合作带来不确定性...相关产业政策、能耗双控、环保标准、投资节奏调整，均可能对公司业务布局、市场拓展和经营发展产生影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内业务市场风险：化工、石化、煤化工等传统行业仍处于结构调整、转型升级、绿色低碳改造的关键阶段...市场竞争进一步加剧。公司化学工程业务占比较高，行业需求波动、投资节奏变化、市场竞争加剧等因素，将对市场开拓、订单获取和项目执行带来一定压力。",
+      "related_entity": null,
+      "related_product": "化学工程",
+      "quote": "2、国内业务市场风险：...化工、石化、煤化工等传统行业仍处于结构调整、转型升级、绿色低碳改造的关键阶段，行业周期性、结构性矛盾并存，部分领域投资意愿不强、新增项目放缓，市场竞争进一步加剧。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "海外业务经营风险：国际政治经济格局复杂多变，部分国家和地区政策变动、地缘冲突、贸易保护、外汇管制等风险上升...境外项目多以外币结算，汇率波动、融资环境变化、属地政策调整等，可能带来汇兑损失、成本上升、履约受阻等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、海外业务经营风险：...境外项目多以外币结算，汇率波动、融资环境变化、属地政策调整等，可能带来汇兑损失、成本上升、履约受阻等风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术创新与迭代风险：行业技术迭代加速...技术研发投入大、周期长、转化存在不确定性，若研发方向偏离市场、关键技术突破滞后、成果转化效率不高，将影响公司技术领先优势与市场竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、技术创新与迭代风险：...技术研发投入大、周期长、转化存在不确定性，若研发方向偏离市场、关键技术突破滞后、成果转化效率不高，将影响公司技术领先优势与市场竞争力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "工程项目执行风险：工程总承包是公司核心收入来源，项目普遍具有投资大、周期长、固定总价比例高等特点。执行过程中，设备材料价格波动、供应延迟、质量波动将直接影响项目成本、工期与毛利率。",
+      "related_entity": null,
+      "related_product": "工程总承包项目",
+      "quote": "5、工程项目执行风险：工程总承包是公司核心收入来源，项目普遍具有投资大、周期长、固定总价比例高等特点。执行过程中，设备材料价格波动、供应延迟、质量波动将直接影响项目成本、工期与毛利率。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人力资源与人才保障风险：人才是公司高质量发展的第一资源...关键岗位人才流失、人才储备不足、梯队建设滞后，可能削弱技术创新、市场开拓与管理效能，影响公司可持续发展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、人力资源与人才保障风险：...关键岗位人才流失、人才储备不足、梯队建设滞后，可能削弱技术创新、市场开拓与管理效能，影响公司可持续发展。"
+    },
+    {
+      "risk_type": "other",
+      "description": "投资管理与运营风险：公司坚持实业化发展战略...对外投资面临投前论证不充分、投后管理不到位、市场变化超预期、运营效益不及预期、退出渠道不畅等风险，可能影响投资回报并形成低效无效资产。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、投资管理与运营风险\n公司坚持实业化发展战略...对外投资面临投前论证不充分、投后管理不到位、市场变化超预期、运营效益不及预期、退出渠道不畅等风险，可能影响投资回报并形成低效无效资产。"
+    },
+    {
+      "risk_type": "other",
+      "description": "刚果(布)钾肥总承包项目风险：该项目实际控制人已发生变更，且该项目建设规模、产品方案及建设条件等可能发生重大变化，加大了该总承包合同履行的不确定性，项目结算和回款存在一定风险。",
+      "related_entity": "刚果(布)蒙哥钾肥项目",
+      "related_product": null,
+      "quote": "刚果（布）钾肥总承包项目目前处于停工状态。该项目实际控制人已发生变更，且该项目建设规模、产品方案及建设条件等可能发生重大变化，加大了该总承包合同履行的不确定性，项目结算和回款存在一定风险。"
+    }
+  ]
+}

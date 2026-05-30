@@ -1,0 +1,596 @@
+{
+  "company_name_mentioned": "恒逸石化股份有限公司",
+  "produces": [
+    {
+      "name": "成品油",
+      "type": "device",
+      "revenue_proportion": "分产品‘炼油产品’收入28,478,181,855.54元，占营业收入比重25.09%",
+      "quote": "公司实现营业收入 1,135.27 亿元...分产品 炼油产品 28,478,181,855.54 25.09%"
+    },
+    {
+      "name": "化工产品",
+      "type": "material",
+      "revenue_proportion": "分产品‘化工产品’收入11,089,851,337.10元，占营业收入比重9.77%",
+      "quote": "分产品 化工产品 11,089,851,337.10 9.77%"
+    },
+    {
+      "name": "PTA",
+      "type": "material",
+      "revenue_proportion": "分产品‘PTA’收入4,416,309,373.22元，占营业收入比重3.89%",
+      "quote": "分产品 PTA 4,416,309,373.22 3.89%"
+    },
+    {
+      "name": "PIA",
+      "type": "material",
+      "revenue_proportion": "分产品‘PIA’收入1,412,086,220.91元，占营业收入比重1.24%",
+      "quote": "分产品 PIA 1,412,086,220.91 1.24%"
+    },
+    {
+      "name": "涤纶产品",
+      "type": "material",
+      "revenue_proportion": "分产品‘涤纶产品’收入59,744,402,372.21元，占营业收入比重52.63%",
+      "quote": "分产品 涤纶产品 59,744,402,372.21 52.63%"
+    },
+    {
+      "name": "锦纶及副产品",
+      "type": "material",
+      "revenue_proportion": "分产品‘锦纶及副产品’收入1,820,105,750.21元，占营业收入比重1.60%",
+      "quote": "分产品 锦纶及副产品 1,820,105,750.21 1.60%"
+    },
+    {
+      "name": "供应链服务",
+      "type": "service",
+      "revenue_proportion": "分行业‘供应链服务’收入6,566,556,710.44元，占营业收入比重5.78%",
+      "quote": "分行业 供应链服务 6,566,556,710.44 5.78%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原油",
+      "target_product": null,
+      "cost_proportion": "32.50%",
+      "quote": "主要原材料 采购额占采购总额的比例 原油 32.50%"
+    },
+    {
+      "name": "PX",
+      "target_product": null,
+      "cost_proportion": "6.81%",
+      "quote": "主要原材料 采购额占采购总额的比例 PX 6.81%"
+    },
+    {
+      "name": "MEG",
+      "target_product": null,
+      "cost_proportion": "8.90%",
+      "quote": "主要原材料 采购额占采购总额的比例 MEG 8.90%"
+    },
+    {
+      "name": "BZ",
+      "target_product": null,
+      "cost_proportion": "0.63%",
+      "quote": "主要原材料 采购额占采购总额的比例 BZ 0.63%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "能源",
+      "source_product": "成品油",
+      "quote": "深度服务于能源、纺织服装、包装、电子、建筑材料等国民经济基础性行业"
+    },
+    {
+      "name": "纺织服装",
+      "source_product": "涤纶产品、锦纶产品",
+      "quote": "深度服务于能源、纺织服装、包装、电子、建筑材料等国民经济基础性行业"
+    },
+    {
+      "name": "包装",
+      "source_product": "PET Bottle Chip",
+      "quote": "深度服务于能源、纺织服装、包装、电子、建筑材料等国民经济基础性行业"
+    },
+    {
+      "name": "电子",
+      "source_product": null,
+      "quote": "深度服务于能源、纺织服装、包装、电子、建筑材料等国民经济基础性行业"
+    },
+    {
+      "name": "建筑材料",
+      "source_product": null,
+      "quote": "深度服务于能源、纺织服装、包装、电子、建筑材料等国民经济基础性行业"
+    },
+    {
+      "name": "服装面料、箱包面料、家庭装饰面料",
+      "source_product": "PA6",
+      "quote": "PA6产品的主要客户是服装面料生产企业、箱包面料生产企业、家庭装饰面料生产企业等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邱奕博",
+      "role": "董事长、总裁",
+      "quote": "公司负责人邱奕博...现任恒逸石化股份有限公司董事长兼总裁"
+    },
+    {
+      "name": "方贤水",
+      "role": "副董事长",
+      "quote": "方贤水，男...现任恒逸石化股份有限公司副董事长"
+    },
+    {
+      "name": "倪德锋",
+      "role": "董事",
+      "quote": "倪德锋，男...现任恒逸石化股份有限公司董事"
+    },
+    {
+      "name": "吴中",
+      "role": "董事、副总裁",
+      "quote": "吴中，男...现任恒逸石化股份有限公司董事兼副总裁"
+    },
+    {
+      "name": "赵东华",
+      "role": "董事、副总裁",
+      "quote": "赵东华，男...现任恒逸石化股份有限公司副总裁"
+    },
+    {
+      "name": "王松林",
+      "role": "常务副总裁",
+      "quote": "王松林，男...现任恒逸石化股份有限公司常务副总裁"
+    },
+    {
+      "name": "陈连财",
+      "role": "副总裁",
+      "quote": "陈连财，男...现任恒逸文莱首席执行官（CEO）、恒逸石化股份有限公司副总裁"
+    },
+    {
+      "name": "郑新刚",
+      "role": "副总裁、董事会秘书、财务总监",
+      "quote": "郑新刚，男...现任恒逸石化股份有限公司副总裁兼董事会秘书兼财务总监"
+    },
+    {
+      "name": "倪金美",
+      "role": "副总裁",
+      "quote": "倪金美，女...现任恒逸石化股份有限公司副总裁"
+    },
+    {
+      "name": "罗丹",
+      "role": "职工代表董事",
+      "quote": "罗丹，女...现任恒逸石化股份有限公司投资管理部总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江恒逸集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 浙江恒逸集团有限公司"
+    },
+    {
+      "name": "恒逸实业（文莱）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为炼化",
+      "quote": "公司通过香港天逸国际控股有限公司持有恒逸实业（文莱）有限公司 70%的股权"
+    },
+    {
+      "name": "浙江逸盛石化有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为PTA、PIA",
+      "quote": "公司通过浙江恒逸石化有限公司共计持有浙江逸盛石化有限公司 70%的股份"
+    },
+    {
+      "name": "海南逸盛石化有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为PTA、PET Bottle Chip",
+      "quote": "公司通过浙江恒逸石化有限公司的子公司宁波恒逸间接持有海南逸盛石化有限公司50%的股份"
+    },
+    {
+      "name": "浙商银行股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "金融业，持股比例3.54%",
+      "quote": "公司通过浙江恒逸石化有限公司及其子公司浙江恒逸高新材料有限公司间接持有浙商银行股份有限公司972,490,068 股，持股比例 3.54%"
+    },
+    {
+      "name": "浙江恒逸高新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为CHIPS、POY等",
+      "quote": "公司通过浙江恒逸石化有限公司持有浙江恒逸高新材料有限公司100%的股权"
+    },
+    {
+      "name": "双兔新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为POY、FDY、CHIPS",
+      "quote": "公司直接持有浙江双兔新材料有限公司100%的股权"
+    },
+    {
+      "name": "香港天逸国际控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为投资等",
+      "quote": "公司通过浙江恒逸石化有限公司间接持有香港天逸国际控股有限公司100%的股权"
+    },
+    {
+      "name": "宿迁逸达新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要业务为PSF、CHIPS",
+      "quote": "公司通过浙江恒逸石化有限公司间接持有宿迁逸达新材料有限公司100%股权"
+    },
+    {
+      "name": "浙江恒逸石化研究院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "王松林...兼任恒逸石化研究院院长"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "石化行业",
+      "segment_type": "product_line",
+      "revenue_amount": "45,396,428,786.77元",
+      "revenue_proportion": "39.99%",
+      "gross_margin": "5.09%",
+      "yoy_change": "-13.68%",
+      "quote": "分行业 石化行业 45,396,428,786.77 39.99%...毛利率 5.09%...营业收入比上年同期增减 -13.68%"
+    },
+    {
+      "name": "化纤行业",
+      "segment_type": "product_line",
+      "revenue_amount": "61,564,508,122.42元",
+      "revenue_proportion": "54.23%",
+      "gross_margin": "4.16%",
+      "yoy_change": "-3.05%",
+      "quote": "分行业 化纤行业 61,564,508,122.42 54.23%...毛利率 4.16%...营业收入比上年同期增减 -3.05%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "66,330,996,072.05元",
+      "revenue_proportion": "58.43%",
+      "gross_margin": "4.13%",
+      "yoy_change": "-11.37%",
+      "quote": "分地区 国内 66,330,996,072.05 58.43%...毛利率 4.13%...营业收入比上年同期增减 -11.37%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "47,196,497,547.58元",
+      "revenue_proportion": "41.57%",
+      "gross_margin": "5.05%",
+      "yoy_change": "-6.76%",
+      "quote": "分地区 国外 47,196,497,547.58 41.57%...毛利率 5.05%...营业收入比上年同期增减 -6.76%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "109,816,987,070.78元",
+      "revenue_proportion": "96.73%",
+      "gross_margin": "4.54%",
+      "yoy_change": "-9.71%",
+      "quote": "分销售模式 直销 109,816,987,070.78 96.73%...毛利率 4.54%...营业收入比上年同期增减 -9.71%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "成品油",
+      "metric_type": "capacity",
+      "value": "565万吨/年",
+      "period": null,
+      "quote": "表1 公司主要产品现有产能情况 分类 产品 参控股产能（万吨/年） 成品油 Gasoline、Diesel、Jet Fuel 等 565"
+    },
+    {
+      "product": "PX",
+      "metric_type": "capacity",
+      "value": "265万吨/年",
+      "period": null,
+      "quote": "PX、BZ 等 265"
+    },
+    {
+      "product": "PTA",
+      "metric_type": "capacity",
+      "value": "2,150万吨/年",
+      "period": null,
+      "quote": "PTA 2,150"
+    },
+    {
+      "product": "CPL",
+      "metric_type": "capacity",
+      "value": "100万吨/年",
+      "period": null,
+      "quote": "CPL 100"
+    },
+    {
+      "product": "聚酯产品 (POY/FDY/DTY/PSF/CHIPS)",
+      "metric_type": "capacity",
+      "value": "938万吨/年",
+      "period": null,
+      "quote": "PETFiber (POY/FDY/DTY/PSF/CHIPS) 938"
+    },
+    {
+      "product": "PET Bottle Chip（含RPET）",
+      "metric_type": "capacity",
+      "value": "530万吨/年",
+      "period": null,
+      "quote": "PETBottle Chip（含RPET） 530"
+    },
+    {
+      "product": "PA6",
+      "metric_type": "capacity",
+      "value": "60万吨/年",
+      "period": null,
+      "quote": "锦纶产品 PA6 60"
+    },
+    {
+      "product": "PIA",
+      "metric_type": "capacity",
+      "value": "30万吨/年",
+      "period": null,
+      "quote": "PIA 30"
+    },
+    {
+      "product": "涤纶产品",
+      "metric_type": "sales_volume",
+      "value": "868.93万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 销售量 万吨 868.93"
+    },
+    {
+      "product": "涤纶产品",
+      "metric_type": "production_volume",
+      "value": "867.97万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 生产量 万吨 867.97"
+    },
+    {
+      "product": "炼油产品",
+      "metric_type": "sales_volume",
+      "value": "606.95万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 炼油产品 销售量 万吨 606.95"
+    },
+    {
+      "product": "炼油产品",
+      "metric_type": "production_volume",
+      "value": "603.64万吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 炼油产品 生产量 万吨 603.64"
+    },
+    {
+      "product": "文莱炼化项目一期",
+      "metric_type": "production_volume",
+      "value": "822.91万吨",
+      "period": "2025年",
+      "quote": "2025年，文莱炼化项目一期的产量为822.91 万吨"
+    },
+    {
+      "product": "柴油（文莱炼化项目一期）",
+      "metric_type": "production_volume",
+      "value": "342.87万吨",
+      "period": "2025年",
+      "quote": "其中主要产品柴油的产量为342.87 万吨"
+    },
+    {
+      "product": "PX（文莱炼化项目一期）",
+      "metric_type": "production_volume",
+      "value": "151.50万吨",
+      "period": "2025年",
+      "quote": "PX的产量为 151.50 万吨"
+    },
+    {
+      "product": "苯（文莱炼化项目一期）",
+      "metric_type": "production_volume",
+      "value": "57.41万吨",
+      "period": "2025年",
+      "quote": "苯的产量为57.41万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "文莱炼化项目二期",
+      "project_type": "capacity_expansion",
+      "location": "文莱",
+      "investment_amount": null,
+      "designed_capacity": "1,200万吨/年",
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "公司将文莱炼化二期项目的设计产能优化调整为 1,200 万吨/年...项目建设所需资金已筹措到位"
+    },
+    {
+      "name": "年产 120 万吨己内酰胺—聚酰胺产业一体化及配套项目",
+      "project_type": "capacity_expansion",
+      "location": "广西钦州石化产业园（金谷片区）",
+      "investment_amount": "10,080,540,026.09元（截至报告期末累计实际投入金额）",
+      "designed_capacity": "年产60万吨 CPL和60万吨PA6",
+      "progress": "60.00%",
+      "expected_completion_time": null,
+      "quote": "广西新材料项目 指 公司在广西建设的‘年产 120 万吨己内酰胺—聚酰胺产业一体化及配套项目’...报告期内，公司广西项目一期进入试生产阶段，该项目为公司近年来重点打造的大型己锦一体化生产基地，可年产60万吨 CPL和60万吨PA6...投资金额 5,433,288,312.91...截至报告期末累计实际投入金额 10,080,540,026.09...项目进度 60.00%"
+    },
+    {
+      "name": "宿迁逸达新型环保差别化项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,583,315,805.55元（截至报告期末累计实际投入金额）",
+      "designed_capacity": null,
+      "progress": "46.38%",
+      "expected_completion_time": null,
+      "quote": "项目名称 宿迁逸达新型环保差别化项目...截至报告期末累计实际投入金额 1,583,315,805.55...项目进度 46.38%"
+    },
+    {
+      "name": "文莱天然与可再生能源可持续整合项目",
+      "project_type": "other",
+      "location": "文莱",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "图：恒逸文莱天然与可再生能源可持续整合项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "新型钛系催化剂开发及无锑环保聚酯材料制备成套技术",
+      "asset_type": "core_technology",
+      "related_product": "聚酯",
+      "quantitative_info": null,
+      "quote": "恒逸研究院牵头完成的‘新型钛系催化剂开发及无锑环保聚酯材料制备成套技术’项目成果荣获 2024年度浙江省科技进步一等奖"
+    },
+    {
+      "name": "CPL 生产技术",
+      "asset_type": "process_technology",
+      "related_product": "CPL",
+      "quantitative_info": null,
+      "quote": "CPL 生产主要以苯、煤为原料，采用目前先进的合成氨工艺制液氨、水合法工艺制备环己酮和流化床法制备双氧水..."
+    },
+    {
+      "name": "PA6 生产技术",
+      "asset_type": "process_technology",
+      "related_product": "PA6",
+      "quantitative_info": null,
+      "quote": "PA6 的生产流程 CPL和助剂按规定比例连续送入聚合反应器..."
+    },
+    {
+      "name": "聚酯熔体直纺技术",
+      "asset_type": "process_technology",
+      "related_product": "聚酯纤维",
+      "quantitative_info": null,
+      "quote": "公司率先在行业内自主开发应用聚酯熔体直纺技术"
+    },
+    {
+      "name": "锦纶专用 TiO2消光剂绿色制造及全消光锦纶产业化应用成套技术",
+      "asset_type": "core_technology",
+      "related_product": "锦纶",
+      "quantitative_info": null,
+      "quote": "锦纶专用 TiO2消光剂绿色制造及全消光锦纶产业化应用成套技术...已实现产业化"
+    },
+    {
+      "name": "聚酯钛系缩聚催化剂制备技术的研究开发项目",
+      "asset_type": "core_technology",
+      "related_product": "聚酯",
+      "quantitative_info": null,
+      "quote": "聚酯钛系缩聚催化剂制备技术的研究开发项目...已实现产业化"
+    },
+    {
+      "name": "氧化锌抗菌聚酯纤维",
+      "asset_type": "core_technology",
+      "related_product": "聚酯纤维",
+      "quantitative_info": null,
+      "quote": "氧化锌抗菌聚酯纤维的研究与开发...已实现产业化"
+    },
+    {
+      "name": "阻燃聚酯纤维",
+      "asset_type": "core_technology",
+      "related_product": "聚酯纤维",
+      "quantitative_info": null,
+      "quote": "阻燃聚酯纤维的功能化开发项目...已实现产业化"
+    },
+    {
+      "name": "废旧纺织品回收技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "列入2025年度高价值专利培育名单",
+      "quote": "废旧纺织品回收技术列入2025 年度高价值专利培育名单"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年底，公司有效授权专利617件，其中研发专利 499 件，智能制造专利 118 件；报告期内共计提交了 187 件发明专利申请",
+      "quote": "报告期内共计提交了 187 件发明专利申请...截至2025年底，公司有效授权专利617件，其中研发专利 499 件，智能制造专利 118 件"
+    },
+    {
+      "name": "行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "2025年参与制定、修订标准共计 20 项，其中国家标准 12项，行业标准3项，团体标准5项",
+      "quote": "2025年参与制定、修订标准共计 20 项，其中国家标准 12项，行业标准3项，团体标准5项"
+    },
+    {
+      "name": "国家级绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "海宁新材料成功入选工业和信息化部评定的国家级绿色工厂名单"
+    },
+    {
+      "name": "本地先锋企业证书和出口企业证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "项目拥有本地先锋企业证书和出口企业证书"
+    },
+    {
+      "name": "安全生产标准化建设等级证书（一级）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "广西逸海港务 《安全生产标准化建设等级证书（一级）》"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "23.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 23.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 39.17%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "8.30%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "客户名称 销售额（元） 占年度销售总额比例 客户1 9,420,242,950.70 8.30%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "11.48%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "供应商名称 采购额（元） 占年度采购总额比例 供应商1 12,440,189,758.90 11.48%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "宏观经济风险：化工化纤产业与国内外宏观经济的发展状况高度相关，公司产品价格和销售情况受到宏观经济波动和供需变化等因素的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济风险 公司主营业务为石油产品及化工化纤产品的生产和销售，化工化纤产业与国内外宏观经济的发展状况高度相关...公司产品价格和销售情况受到宏观经济波动和供需变化等因素的影响"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全生产风险：监管部门的安全环保要求日趋严格，随着公司生产规模的扩大和产业链的延伸，如何防范安全环保事故的发生是公司经营管理工作重心。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、安全生产风险 近年来，监管部门的安全环保要求日趋严格...随着公司生产规模的扩大和产业链的延伸，如何防范安全环保事故的发生，是公司经营管理工作重心"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险：公司所处的产业链成本构成超过 80%由上游原材料决定，其中原油价格的波动对公司生产经营的影响较大。",
+      "related_entity": null,
+      "related_product": "原油",
+      "quote": "3、原材料价格波动风险 公司所处的产业链成本构成超过 80%由上游原材料决定，其中原油价格的波动对公司生产经营的影响较大"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环境保护风险：公司的生产经营需遵守多项环保法律和法规，如果国内或文莱实施更为严格的环保标准，公司的环保成本和管理难度将随之增大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、环境保护风险 公司的生产经营需遵守多项有关空气、水质、废料处理、公众健康安全等方面的环保法律和法规...如果国内或文莱实施更为严格的环保标准，公司的环保成本和管理难度将随之增大"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率及利率波动风险：公司的主要子公司恒逸文莱主要经营位于境外，主要业务以美元结算，汇率及利率可能会产生波动。",
+      "related_entity": "恒逸文莱",
+      "related_product": null,
+      "quote": "5、汇率及利率波动风险 公司的主要子公司恒逸文莱主要经营位于境外，主要业务以美元结算，结算货币与人民币之间的汇率及利率可能会随着国际政治、经济环境的变化而产生汇率波动"
+    },
+    {
+      "risk_type": "other",
+      "description": "债务流动性风险：公司的利率风险主要来源于银行借款。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司的利率风险主要来源于银行借款"
+    }
+  ]
+}

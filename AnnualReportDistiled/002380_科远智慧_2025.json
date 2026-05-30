@@ -1,0 +1,441 @@
+{
+  "company_name_mentioned": "南京科远智慧科技集团股份有限公司",
+  "produces": [
+    {
+      "name": "全自主DCS系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的核心产品全自主DCS系统，在底层元器件与软件架构上持续推进与国产高端芯片、国产操作系统的深度适配。目前已广泛应用于百万千瓦级超临界火电机组及大型化工、冶金生产线，其系统冗余性及无故障运行时间均达到行业先进水平。"
+    },
+    {
+      "name": "中大型PLC产品线",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "针对部分复杂流程工业制造与高端装备控制需求，公司推出了自主研发的中大型PLC产品线。该系列产品具备高速指令执行周期与多轴同步控制能力，重点服务于钢铁轧线控制、大型市政水务调度等基础核心设施。"
+    },
+    {
+      "name": "高精度智能传感器与执行机构",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "此外，公司亦提供配套的高精度智能传感器与执行机构，确保底层现场物理量采集的真实性与稳定性。"
+    },
+    {
+      "name": "工业AI智能体平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "该板块的核心支撑为工业AI智能体平台。平台通过整合工业现场的历史运行数据与工艺逻辑，具备非线性动态寻优及辅助决策能力。"
+    },
+    {
+      "name": "智能监盘系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "在此基础上，公司重点推广了智能监盘系统与数智化工厂整体解决方案。其中，智能监盘系统通过对传感器海量数据流的并发分析，可实现设备故障隐患的预测性诊断及能效优化。"
+    },
+    {
+      "name": "具身智能驱控一体化平台",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司开发了具身智能驱控一体化平台。该平台采用云边端协同架构与分布式软总线技术，实现了端侧控制硬件与云端AI大模型的低延迟对接。"
+    },
+    {
+      "name": "重载无人行车系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在具体应用场景中，公司针对钢铁、发电及港口等行业的重载搬运需求，推出了重载无人行车系统。该系统融合三维激光空间扫描、图像识别与闭环防摇摆控制技术，有效提升了恶劣环境下的搬运效率并降低了作业风险。"
+    },
+    {
+      "name": "智能巡检机器人",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "此外，公司在智能巡检机器人等领域亦取得阶段性应用成果。智能巡检机器人与重载无人行车在数字化车间内形成协同，主要承担高危、高温环境下的巡检监控、数据采集及样品送检任务。"
+    },
+    {
+      "name": "工业自动化业务",
+      "type": "service",
+      "revenue_proportion": "81.60%",
+      "quote": "分产品 工业自动化 1,523,220,353.85 81.60%"
+    },
+    {
+      "name": "工业AI业务",
+      "type": "service",
+      "revenue_proportion": "14.27%",
+      "quote": "工业AI 266,301,146.41 14.27%"
+    },
+    {
+      "name": "工业机器人业务",
+      "type": "service",
+      "revenue_proportion": "3.06%",
+      "quote": "工业机器人 57,189,781.49 3.06%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料",
+      "target_product": "工业自动化",
+      "cost_proportion": "81.24%",
+      "quote": "工业自动化 材料 714,592,740.30 81.24%"
+    },
+    {
+      "name": "材料",
+      "target_product": "工业AI",
+      "cost_proportion": "58.18%",
+      "quote": "工业AI 材料 77,228,052.77 58.18%"
+    },
+    {
+      "name": "材料",
+      "target_product": "工业机器人",
+      "cost_proportion": "78.25%",
+      "quote": "工业机器人 材料 25,952,135.77 78.25%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "百万千瓦级超临界火电机组",
+      "source_product": "全自主DCS系统",
+      "quote": "目前已广泛应用于百万千瓦级超临界火电机组及大型化工、冶金生产线"
+    },
+    {
+      "name": "大型化工生产线",
+      "source_product": "全自主DCS系统",
+      "quote": "目前已广泛应用于百万千瓦级超临界火电机组及大型化工、冶金生产线"
+    },
+    {
+      "name": "冶金生产线",
+      "source_product": "全自主DCS系统",
+      "quote": "目前已广泛应用于百万千瓦级超临界火电机组及大型化工、冶金生产线"
+    },
+    {
+      "name": "钢铁轧线控制",
+      "source_product": "中大型PLC产品线",
+      "quote": "重点服务于钢铁轧线控制、大型市政水务调度等基础核心设施"
+    },
+    {
+      "name": "大型市政水务调度",
+      "source_product": "中大型PLC产品线",
+      "quote": "重点服务于钢铁轧线控制、大型市政水务调度等基础核心设施"
+    },
+    {
+      "name": "智慧电厂",
+      "source_product": "工业AI智能体平台、智能监盘系统",
+      "quote": "公司将相关技术成果封装为行业级解决方案，涵盖智慧电厂、智慧冶金等多个领域"
+    },
+    {
+      "name": "智慧冶金",
+      "source_product": "工业AI智能体平台、智能监盘系统",
+      "quote": "公司将相关技术成果封装为行业级解决方案，涵盖智慧电厂、智慧冶金等多个领域"
+    },
+    {
+      "name": "钢铁、发电及港口等行业重载搬运",
+      "source_product": "重载无人行车系统",
+      "quote": "公司针对钢铁、发电及港口等行业的重载搬运需求，推出了重载无人行车系统"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘国耀",
+      "role": "公司负责人、董事长",
+      "quote": "公司负责人刘国耀、主管会计工作负责人汪怡璐及会计机构负责人（会计主管人员）李勇声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "汪怡璐",
+      "role": "主管会计工作负责人（财务负责人）",
+      "quote": "公司负责人刘国耀、主管会计工作负责人汪怡璐及会计机构负责人（会计主管人员）李勇声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "李勇",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人刘国耀、主管会计工作负责人汪怡璐及会计机构负责人（会计主管人员）李勇声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "胡歙眉",
+      "role": "控股股东、实际控制人，副董事长、总裁",
+      "quote": "控股股东、实际控制人 指 刘国耀、胡歙眉、刘建耀；胡歙眉 女 66 现任 副董事长、总裁"
+    },
+    {
+      "name": "刘建耀",
+      "role": "控股股东、实际控制人，副总裁",
+      "quote": "控股股东、实际控制人 指 刘国耀、胡歙眉、刘建耀；刘建耀 男 56 现任 副总裁"
+    },
+    {
+      "name": "曹瑞峰",
+      "role": "董事、高级副总裁",
+      "quote": "曹瑞峰 男 51 现任 董事、高级副总裁"
+    },
+    {
+      "name": "沈德明",
+      "role": "副总裁",
+      "quote": "沈德明 男 57 现任 副总裁"
+    },
+    {
+      "name": "梅建华",
+      "role": "副总裁",
+      "quote": "梅建华 男 53 现任 副总裁"
+    },
+    {
+      "name": "史妍",
+      "role": "副总裁",
+      "quote": "史妍 女 47 现任 副总裁"
+    },
+    {
+      "name": "祖利辉",
+      "role": "副总裁、技术研究院院长",
+      "quote": "祖利辉 男 46 现任 副总裁、技术研究院院长"
+    },
+    {
+      "name": "赵文庆",
+      "role": "董事会秘书、副总裁",
+      "quote": "赵文庆 男 46 现任 董事会秘书、副总裁"
+    },
+    {
+      "name": "赵永均",
+      "role": "副总裁、产业数字化业务中心总经理",
+      "quote": "赵永均 男 49 现任 副总裁，兼任产业数字化业务中心总经理"
+    },
+    {
+      "name": "张勇",
+      "role": "副总裁",
+      "quote": "张勇 男 51 现任 副总裁"
+    },
+    {
+      "name": "方正",
+      "role": "副总裁",
+      "quote": "方正 男 53 现任 副总裁"
+    },
+    {
+      "name": "赵文庆",
+      "role": "前财务负责人",
+      "quote": "财务负责人 赵文庆 男 46 离任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "南京科远智慧能源投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "科远智慧能源 指 南京科远智慧能源投资有限公司"
+    },
+    {
+      "name": "南京科远驱动技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "科远驱动 指 南京科远驱动技术有限公司"
+    },
+    {
+      "name": "南京磐控新能源技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "磐控新能源 指 南京磐控新能源技术有限公司"
+    },
+    {
+      "name": "南京磐控微型电网技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "磐控微网 指 南京磐控微型电网技术有限公司"
+    },
+    {
+      "name": "南京闻望自动化有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "闻望自动化 指 南京闻望自动化有限公司"
+    },
+    {
+      "name": "南京拓耘达智慧科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "拓耘达 指 南京拓耘达智慧科技有限公司"
+    },
+    {
+      "name": "中机清洁能源沛县有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "中机沛县 指 中机清洁能源沛县有限公司"
+    },
+    {
+      "name": "南通科远绿能有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "南通科远 指 南通科远绿能有限公司"
+    },
+    {
+      "name": "宿松科远绿能有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "宿松公司 指 宿松科远绿能有限公司"
+    },
+    {
+      "name": "灵璧国祯生物质热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "灵璧公司 指 灵璧国祯生物质热电有限公司"
+    },
+    {
+      "name": "上海浦东发展银行股份有限公司南通分行",
+      "relation_type": "customer",
+      "business_details": "涉及储蓄存款合同纠纷及财产损害赔偿纠纷诉讼",
+      "quote": "南京科远智慧科技集团股份有限公司之全资子公司南京科远智慧能源投资有限公司与被告上海浦东发展银行股份有限公司南通分行储蓄存款合同纠纷一案"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业自动化",
+      "segment_type": "product_line",
+      "revenue_amount": "1,523,220,353.85元",
+      "revenue_proportion": "81.60%",
+      "gross_margin": "42.25%",
+      "yoy_change": "7.66%",
+      "quote": "工业自动化 1,523,220,353.85 81.60% 42.25% 7.66%"
+    },
+    {
+      "name": "工业AI",
+      "segment_type": "product_line",
+      "revenue_amount": "266,301,146.41元",
+      "revenue_proportion": "14.27%",
+      "gross_margin": "50.15%",
+      "yoy_change": "30.53%",
+      "quote": "工业AI 266,301,146.41 14.27% 50.15% 30.53%"
+    },
+    {
+      "name": "工业机器人",
+      "segment_type": "product_line",
+      "revenue_amount": "57,189,781.49元",
+      "revenue_proportion": "3.06%",
+      "gross_margin": null,
+      "yoy_change": "15.39%",
+      "quote": "工业机器人 57,189,781.49 3.06% 15.39%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "1,120,076,907.83元",
+      "revenue_proportion": "60.00%",
+      "gross_margin": "42.82%",
+      "yoy_change": "12.34%",
+      "quote": "华东 1,120,076,907.83 60.00% 42.82% 12.34%"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "219,825,758.22元",
+      "revenue_proportion": "11.78%",
+      "gross_margin": "46.02%",
+      "yoy_change": "3.90%",
+      "quote": "华北 219,825,758.22 11.78% 46.02% 3.90%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "能源互联网智慧应用沛县示范项目",
+      "project_type": "fundraising_project",
+      "location": "沛县",
+      "investment_amount": "39,723.12万元",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "能源互联网智慧应用沛县示范项目...公司根据宏观经济形势、市场环境变化等影响以及募集资金投资项目实施的实际情况，决定终止“能源互联网智慧应用沛县示范项目”和“能源互联网智慧应用灵璧示范项目”。"
+    },
+    {
+      "name": "能源互联网智慧应用宿松示范项目",
+      "project_type": "fundraising_project",
+      "location": "宿松",
+      "investment_amount": "7,525.16万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2021年04月30日",
+      "quote": "能源互联网智慧应用宿松示范项目...公司2025年第一次临时股东大会审议通过《关于募集资金投资项目结项的议案》，项目“能源互联网智慧应用宿松示范项目”已达到预定可使用状态，达到结项标准。"
+    },
+    {
+      "name": "能源互联网智慧应用灵璧示范项目",
+      "project_type": "fundraising_project",
+      "location": "灵璧",
+      "investment_amount": "35,274.18万元",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "能源互联网智慧应用灵璧示范项目...公司根据宏观经济形势、市场环境变化等影响以及募集资金投资项目实施的实际情况，决定终止“能源互联网智慧应用沛县示范项目”和“能源互联网智慧应用灵璧示范项目”。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "省级智能控制重点实验室及工程技术研究中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托省级智能控制重点实验室及工程技术研究中心等平台，公司在分布式工业实时数据库集群、高精度多轴协同运动控制算法以及工业大模型具身智能微调等前沿技术领域，构筑了深厚的竞争壁垒。"
+    },
+    {
+      "name": "重载无人行车装备",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司的“重载无人行车装备”及“工业自动化及智能装备编程设计开发工具软件”入选江苏省工信厅“三首两新”认定技术产品名单"
+    },
+    {
+      "name": "工业自动化及智能装备编程设计开发工具软件",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司的“重载无人行车装备”及“工业自动化及智能装备编程设计开发工具软件”入选江苏省工信厅“三首两新”认定技术产品名单"
+    },
+    {
+      "name": "智能化燃气轮机控制系统（ITCS）协同创新中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司将持续依托智能化燃气轮机控制系统（ITCS）协同创新中心等高规格产学研平台，深化与核心装备研制单位的合作。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.35%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 13.35%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "10.18%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 10.18%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "工业自动化行业的资本开支与宏观经济周期及产业政策的推行力度密切相关。若宏观经济出现较大波动，或相关设备更新补贴政策落地迟缓，可能导致部分下游企业推迟智能化改造计划，进而影响公司订单的确认与收入增长。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济与政策落地不及预期的风险 工业自动化行业的资本开支与宏观经济周期及产业政策的推行力度密切相关。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "工业控制与人工智能领域正处于技术快速演进期，国内市场竞争日益充分。若公司未能精准把握前沿技术发展方向，或在核心算法及产品性能上被竞争对手超越，可能面临市场份额流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术迭代加速与市场竞争加剧的风险 工业控制与人工智能领域正处于技术快速演进期，国内市场竞争日益充分。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "工业控制与人工智能领域正处于技术快速演进期，国内市场竞争日益充分。若公司未能精准把握前沿技术发展方向，或在核心算法及产品性能上被竞争对手超越，可能面临市场份额流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术迭代加速与市场竞争加剧的风险 工业控制与人工智能领域正处于技术快速演进期，国内市场竞争日益充分。"
+    },
+    {
+      "risk_type": "other",
+      "description": "具备AI算法与工业现场工艺交叉背景的复合型人才是企业技术创新的核心要素。随着行业人才竞争的加剧，若公司未能提供具有竞争力的发展平台与激励机制，可能导致关键技术人员流失，影响项目的研发连续性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心技术人才及行业专家流失的风险 具备AI算法与工业现场工艺交叉背景的复合型人才是企业技术创新的核心要素。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司全资子公司南京科远智慧能源投资有限公司与上海浦东发展银行股份有限公司南通分行存在储蓄存款合同纠纷及财产损害赔偿纠纷诉讼。",
+      "related_entity": "上海浦东发展银行股份有限公司南通分行",
+      "related_product": null,
+      "quote": "公司涉及诉讼的风险 1）原告南京科远智慧科技集团股份有限公司之全资子公司南京科远智慧能源投资有限公司与被告上海浦东发展银行股份有限公司南通分行储蓄存款合同纠纷一案情况进展"
+    }
+  ]
+}

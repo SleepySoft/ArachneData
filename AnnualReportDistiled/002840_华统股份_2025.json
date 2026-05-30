@@ -1,0 +1,466 @@
+{
+  "company_name_mentioned": "浙江华统肉制品股份有限公司",
+  "produces": [
+    {
+      "name": "生鲜猪肉",
+      "type": "device",
+      "revenue_proportion": "92.96%",
+      "quote": "分产品 生鲜猪肉 7,503,539,636.80 92.96%"
+    },
+    {
+      "name": "生鲜禽肉",
+      "type": "device",
+      "revenue_proportion": "2.63%",
+      "quote": "分产品 生鲜禽肉 212,305,802.40 2.63%"
+    },
+    {
+      "name": "火腿",
+      "type": "device",
+      "revenue_proportion": "0.46%",
+      "quote": "分产品 火腿 37,040,056.06 0.46%"
+    },
+    {
+      "name": "饲料",
+      "type": "material",
+      "revenue_proportion": "0.56%",
+      "quote": "分产品 饲料 45,069,636.45 0.56%"
+    },
+    {
+      "name": "生猪（含种猪、仔猪、商品猪）",
+      "type": "device",
+      "revenue_proportion": "0.80%",
+      "quote": "分产品 生猪 64,858,981.20 0.80%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "生猪和活禽",
+      "target_product": "屠宰主要原材料",
+      "cost_proportion": null,
+      "quote": "生猪和活禽是公司屠宰主要原材料"
+    },
+    {
+      "name": "小麦、玉米、次粉和豆粕",
+      "target_product": "生猪、活禽养殖的主要原材料",
+      "cost_proportion": null,
+      "quote": "小麦、玉米、次粉和豆粕等是生猪、活禽养殖的主要原材料"
+    },
+    {
+      "name": "玉米、豆粕等",
+      "target_product": "饲料",
+      "cost_proportion": null,
+      "quote": "生产饲料所需原料主要包括玉米、豆粕等"
+    },
+    {
+      "name": "饲料原料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "前五名供应商合计采购金额（元） 1,541,060,186.09 前五名供应商合计采购金额占年度采购总额比例 22.96%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "食品消费（个体肉摊、超市等下游客户）",
+      "source_product": "生鲜猪肉",
+      "quote": "公司直接将生鲜猪肉配送至个体肉摊、超市等下游客户"
+    },
+    {
+      "name": "公司内部屠宰（商品猪）",
+      "source_product": "商品猪",
+      "quote": "育成商品猪主要销售给公司内部用于自营屠宰"
+    },
+    {
+      "name": "公司内部养殖（商品代雏鸡）",
+      "source_product": "商品代雏鸡",
+      "quote": "除少量对外出售外，主要供给公司内部肉鸡养殖场"
+    },
+    {
+      "name": "对外销售（活鸡）",
+      "source_product": "育成活鸡",
+      "quote": "将育成活鸡外售予报价较高地区的客户"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱俭军",
+      "role": "董事长",
+      "quote": "公司负责人朱俭军、主管会计工作负责人张开俊及会计机构负责人（会计主管人员）万雪琴声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "朱俭勇",
+      "role": "实际控制人、董事",
+      "quote": "实际控制人 指 朱俭勇、朱俭军"
+    },
+    {
+      "name": "朱凯",
+      "role": "副董事长兼总经理",
+      "quote": "朱凯 先生：1990年生...现任本公司副董事长兼总经理"
+    },
+    {
+      "name": "张开俊",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人张开俊"
+    },
+    {
+      "name": "王志龙",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 王志龙"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华统集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、华统集团 指 华统集团有限公司—公司控股股东"
+    },
+    {
+      "name": "义乌市绿发农业开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "绿发农业 指 义乌市绿发农业开发有限公司—公司全资子公司"
+    },
+    {
+      "name": "金华市浩强农牧有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "浩强农牧 指 金华市浩强农牧有限公司—公司全资子公司"
+    },
+    {
+      "name": "浦江华统牧业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "浦江牧业 指 浦江华统牧业有限公司—公司控股子公司"
+    },
+    {
+      "name": "浙江富国超市有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股子公司",
+      "quote": "富国超市 指 浙江富国超市有限公司—公司参股子公司"
+    },
+    {
+      "name": "正大饲料（义乌）有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股子公司",
+      "quote": "正大饲料 指 正大饲料（义乌）有限公司—公司参股子公司"
+    },
+    {
+      "name": "正大食品（义乌）有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股子公司",
+      "quote": "正大食品 指 正大食品（义乌）有限公司—公司参股子公司"
+    },
+    {
+      "name": "电投国华（义乌）新能源有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股子公司",
+      "quote": "国华新能源 指 电投国华（义乌）新能源有限公司—公司参股子公司"
+    },
+    {
+      "name": "广州越秀华统食品有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股子公司",
+      "quote": "广州越秀 指 广州越秀华统食品有限公司—公司参股子公司"
+    },
+    {
+      "name": "上海华俭食品科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "华统集团全资子公司",
+      "quote": "上海华俭 指 上海华俭食品科技有限公司—华统集团全资子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "屠宰及肉类加工行业",
+      "segment_type": "product_line",
+      "revenue_amount": "7,786,225,800.13",
+      "revenue_proportion": "96.46%",
+      "gross_margin": "4.06%",
+      "yoy_change": "-10.34%",
+      "quote": "分行业 屠宰及肉类加工行业 7,786,225,800.13 96.46%"
+    },
+    {
+      "name": "畜禽养殖行业",
+      "segment_type": "product_line",
+      "revenue_amount": "76,494,547.23",
+      "revenue_proportion": "0.95%",
+      "gross_margin": null,
+      "yoy_change": "-67.37%",
+      "quote": "分行业 畜禽养殖行业 76,494,547.23 0.95%"
+    },
+    {
+      "name": "饲料行业",
+      "segment_type": "product_line",
+      "revenue_amount": "45,069,636.45",
+      "revenue_proportion": "0.56%",
+      "gross_margin": null,
+      "yoy_change": "246.06%",
+      "quote": "分行业 饲料行业 45,069,636.45 0.56%"
+    },
+    {
+      "name": "浙江省内",
+      "segment_type": "region",
+      "revenue_amount": "5,782,625,090.75",
+      "revenue_proportion": "71.64%",
+      "gross_margin": "5.40%",
+      "yoy_change": "-12.18%",
+      "quote": "分地区 浙江省内 5,782,625,090.75 71.64%"
+    },
+    {
+      "name": "浙江省外",
+      "segment_type": "region",
+      "revenue_amount": "2,289,377,900.13",
+      "revenue_proportion": "28.36%",
+      "gross_margin": "2.32%",
+      "yoy_change": "-8.68%",
+      "quote": "分地区 浙江省外 2,289,377,900.13 28.36%"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "6,441,370,254.00",
+      "revenue_proportion": "79.80%",
+      "gross_margin": "4.50%",
+      "yoy_change": "8.41%",
+      "quote": "分销售模式 经销模式 6,441,370,254.00 79.80%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "生猪（含种猪、仔猪、商品猪）",
+      "metric_type": "sales_volume",
+      "value": "261.24万头",
+      "period": "2025年",
+      "quote": "公司2025年累计销售生猪（含种猪、仔猪、商品猪）261.24万头，较上年增长2.12%"
+    },
+    {
+      "product": "生猪屠宰",
+      "metric_type": "production_volume",
+      "value": "511.27万头",
+      "period": "2025年",
+      "quote": "公司2025年屠宰生猪511.27万头，同比上升17.53%"
+    },
+    {
+      "product": "饲料",
+      "metric_type": "capacity",
+      "value": "超过90万吨",
+      "period": null,
+      "quote": "目前饲料年产能超过90万吨"
+    },
+    {
+      "product": "白羽鸡",
+      "metric_type": "capacity",
+      "value": "年饲养1000万羽、屠宰3600万羽",
+      "period": null,
+      "quote": "具备年饲养1000万羽、屠宰3600万羽白羽鸡的产能"
+    },
+    {
+      "product": "鸡",
+      "metric_type": "sales_volume",
+      "value": "约957.24万羽",
+      "period": "2025年",
+      "quote": "鸡销售数量约957.24万羽"
+    },
+    {
+      "product": "家禽屠宰",
+      "metric_type": "production_volume",
+      "value": "约1,226.26万羽",
+      "period": "2025年",
+      "quote": "家禽屠宰量约1,226.26万羽"
+    },
+    {
+      "product": "屠宰及肉类加工行业",
+      "metric_type": "sales_volume",
+      "value": "593,729.36吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 屠宰及肉类加工行业 销售量 吨 593,729.36"
+    },
+    {
+      "product": "屠宰及肉类加工行业",
+      "metric_type": "production_volume",
+      "value": "510,715.79吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 屠宰及肉类加工行业 生产量 吨 510,715.79"
+    },
+    {
+      "product": "屠宰及肉类加工行业",
+      "metric_type": "inventory_volume",
+      "value": "12,174.53吨",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 屠宰及肉类加工行业 库存量 吨 12,174.53"
+    },
+    {
+      "product": "畜禽养殖行业",
+      "metric_type": "sales_volume",
+      "value": "321,995.73吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 畜禽养殖行业 销售量 吨 321,995.73"
+    },
+    {
+      "product": "饲料行业",
+      "metric_type": "sales_volume",
+      "value": "486,384.93吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 饲料行业 销售量 吨 486,384.93"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "绩溪华统一体化养猪场项目",
+      "project_type": "fundraising_project",
+      "location": "绩溪",
+      "investment_amount": "76,800万元（承诺投资）",
+      "designed_capacity": null,
+      "progress": "尚在建设中",
+      "expected_completion_time": "2027年04月17日",
+      "quote": "融资项目名称 承诺投资总额 调整后投资总额 本报告期投入金额 截至期末累计投入金额 项目达到预定可使用状态日期 绩溪华统一体化养猪场 76,800 75,918.58 461.28 461.28 2027年04月17日"
+    },
+    {
+      "name": "莲都华统核心种猪场项目",
+      "project_type": "fundraising_project",
+      "location": "莲都",
+      "investment_amount": "28,800万元（承诺投资）",
+      "designed_capacity": null,
+      "progress": "尚在建设中",
+      "expected_completion_time": "2027年04月17日",
+      "quote": "融资项目名称 承诺投资总额 调整后投资总额 本报告期投入金额 截至期末累计投入金额 项目达到预定可使用状态日期 莲都华统核心种猪场 28,800 28,469.47 376.68 376.68 2027年04月17日"
+    },
+    {
+      "name": "年产18万吨高档畜禽饲料项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "6,400万元（承诺投资）",
+      "designed_capacity": "年产18万吨",
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "融资项目名称 承诺投资总额 调整后投资总额 本报告期投入金额 截至期末累计投入金额 项目达到预定可使用状态日期 年产18万吨高档畜禽饲料项目 6,400 6,326.55 6,329.23 6,329.23 2025年03月12日"
+    },
+    {
+      "name": "新建年产4万吨肉制品加工项目（已变更）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "20,000万元（承诺投资）",
+      "designed_capacity": "年产4万吨",
+      "progress": "已变更用途，结余资金用于永久补充流动资金",
+      "expected_completion_time": null,
+      "quote": "融资项目名称 承诺投资总额 调整后投资总额 本报告期投入金额 截至期末累计投入金额 项目达到预定可使用状态日期 新建年产4万吨肉制品加工项目 20,000 12,576.33 1,402.6 12,188.05 2025年12月31日"
+    },
+    {
+      "name": "华统小镇项目（出租）",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "主要系本期华统小镇项目建成对外出租所致"
+    },
+    {
+      "name": "饲料产能扩张",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "超过90万吨",
+      "progress": "正常投产",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司全资子公司华昇饲料、仙居饲料、兰溪饲料正常投产，目前饲料年产能超过90万吨"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "生猪屠宰设备",
+      "asset_type": "process_technology",
+      "related_product": "生鲜猪肉",
+      "quantitative_info": "主要生猪屠宰设备从代表世界肉类加工机械行业先进水平的荷兰 MPS、丹麦 SFK 等厂家引进",
+      "quote": "在生猪屠宰方面，公司主要生猪屠宰设备从代表世界肉类加工机械行业先进水平的荷兰 MPS、丹麦 SFK 等厂家引进"
+    },
+    {
+      "name": "火腿生产线",
+      "asset_type": "process_technology",
+      "related_product": "火腿",
+      "quantitative_info": "产能可达80万只/年",
+      "quote": "在火腿生产方面，公司从国际火腿加工机械行业的领先者意大利富利高冷冻机械制造有限公司等引进三条火腿生产线，产能可达80万只/年"
+    },
+    {
+      "name": "三点式麻电击晕机（或二氧化碳致晕技术）等屠宰工艺",
+      "asset_type": "process_technology",
+      "related_product": "生鲜猪肉",
+      "quantitative_info": null,
+      "quote": "屠宰生产线采用三点式麻电击晕机（或二氧化碳致晕技术）、螺旋式打毛系统（或连续式二段串联打毛系统）、刀斧式自动劈半锯、红白脏同步检验线、自动称重与瘦肉率测定系统、快速预冷、低温冷却排酸等先进设备与工艺"
+    },
+    {
+      "name": "多项研发项目",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "报告期内多项研发项目已结题或实施中",
+      "quote": "项目进 度 预计对公司未来发展的 影响 生猪宰前静养对屠宰率和肉品质的影响 改善猪肉的颜色、质地和口感... 已结题... 高效猪肉屠宰加工工艺的研发 提高生猪肉的利用率 实施中..."
+    },
+    {
+      "name": "食品安全管理体系认证证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司多次获得农业部农产品质量安全中心颁发的“无公害农产品证书”、中国质量认证中心颁发的“食品安全管理体系认证证书”和“HACCP认证证书”等"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "6.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 6.02%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.96%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 22.96%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "4.55%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 4.55%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "product_quality",
+      "description": "如果未来公司质量管理工作出现纰漏或因突发原因发生食品安全事故，公司品牌和声誉将遭受重大损失。",
+      "related_entity": null,
+      "related_product": "生鲜猪肉、生鲜禽肉、深加工肉制品",
+      "quote": "（一）食品安全风险...如果未来公司质量管理工作出现纰漏或因突发原因发生食品安全事故，公司品牌和声誉将遭受重大损失。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "生猪和活禽是公司屠宰主要原材料，小麦、玉米、次粉和豆粕等是生猪、活禽养殖的主要原材料。一方面，我国畜禽价格受饲料价格、市场供求关系、规模化养殖水平、动物疫病及农业政策等因素的影响而呈现一定的周期性波动。",
+      "related_entity": null,
+      "related_product": "生猪、活禽、小麦、玉米、次粉、豆粕",
+      "quote": "（三）原材料价格波动风险 生猪和活禽是公司屠宰主要原材料，小麦、玉米、次粉和豆粕等是生猪、活禽养殖的主要原材料。一方面，我国畜禽价格受饲料价格、市场供求关系、规模化养殖水平、动物疫病及农业政策等因素的影响而呈现一定的周期性波动。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "商品猪市场价格的周期性波动会导致生猪养殖行业的毛利率呈现周期性波动。随着公司新建生猪养殖项目陆续投产，若猪周期进入低谷期，生猪市场价格持续低迷，公司又不能有效地控制好养殖成本，则公司存在受生猪养殖业务不利影响导致公司经营业绩下滑的风险。",
+      "related_entity": null,
+      "related_product": "生猪",
+      "quote": "（四）生猪价格波动风险 商品猪市场价格的周期性波动会导致生猪养殖行业的毛利率呈现周期性波动。随着公司新建生猪养殖项目陆续投产，若猪周期进入低谷期，生猪市场价格持续低迷，公司又不能有效地控制好养殖成本，则公司存在受生猪养殖业务不利影响导致公司经营业绩下滑的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "畜禽疫病可通过接触、食物、空气等多种途径传播，传染地域广，预防难度大。...未来如果发生大规模动物疫病，或者公司疫病防控体系执行不力，公司将面临畜禽死亡成本上升以及产销量下降进而导致业绩大幅下滑的风险。",
+      "related_entity": null,
+      "related_product": "生猪、禽类",
+      "quote": "（二）动物疫病风险 畜禽资源是否健康、安全对公司发展至关重要。畜禽疫病可通过接触、食物、空气等多种途径传播，传染地域广，预防难度大。...未来如果发生大规模动物疫病，或者公司疫病防控体系执行不力，公司将面临畜禽死亡成本上升以及产销量下降进而导致业绩大幅下滑的风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "如果国家降低农产品和农产品初加工企业的税收优惠力度，将对公司经营业绩产生较大不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（五）政策性风险...如果国家降低农产品和农产品初加工企业的税收优惠力度，将对公司经营业绩产生较大不利影响。"
+    }
+  ]
+}

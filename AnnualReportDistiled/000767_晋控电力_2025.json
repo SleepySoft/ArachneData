@@ -1,0 +1,483 @@
+{
+  "company_name_mentioned": "晋能控股山西电力股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "84.53%",
+      "quote": "分行业 电力 13,070,450,596.77 84.53%"
+    },
+    {
+      "name": "火电电力",
+      "type": "service",
+      "revenue_proportion": "73.74%",
+      "quote": "分产品 火电电力 11,402,394,735.34 73.74%"
+    },
+    {
+      "name": "风电电力",
+      "type": "service",
+      "revenue_proportion": "4.52%",
+      "quote": "分产品 风电电力 699,561,183.11 4.52%"
+    },
+    {
+      "name": "光伏电力",
+      "type": "service",
+      "revenue_proportion": "5.18%",
+      "quote": "分产品 光伏电力 800,486,393.78 5.18%"
+    },
+    {
+      "name": "水电电力",
+      "type": "service",
+      "revenue_proportion": "1.09%",
+      "quote": "分产品 水电电力 168,008,284.54 1.09%"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "6.81%",
+      "quote": "分产品 热力 1,052,994,901.90 6.81%"
+    },
+    {
+      "name": "燃煤",
+      "type": "material",
+      "revenue_proportion": "36.87%",
+      "quote": "分产品 燃煤 5,701,530,841.88 36.87%"
+    },
+    {
+      "name": "检修服务",
+      "type": "service",
+      "revenue_proportion": "1.69%",
+      "quote": "分产品 检修服务 261,346,769.16 1.69%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料",
+      "target_product": "电力、热力",
+      "cost_proportion": "58.12% (前五大供应商合计采购额占比61.54%，其中关联方采购占比58.12%)",
+      "quote": "公司主要供应商情况 前五名供应商合计采购金额（元） 7,183,102,324.00 前五名供应商合计采购金额占年度采购总额比例 61.54% 前五名供应商采购额中关联方采购额占年度采购总额比例 58.12%"
+    },
+    {
+      "name": "晋能控股集团有限公司供应的燃料",
+      "target_product": "电力、热力",
+      "cost_proportion": "58.12%",
+      "quote": "公司前5名供应商资料 1 晋能控股集团有限公司 6,784,084,574.03 58.12%"
+    },
+    {
+      "name": "陕西陕煤澄合矿业有限公司供应的燃料",
+      "target_product": "电力、热力",
+      "cost_proportion": "1.26%",
+      "quote": "公司前5名供应商资料 2 陕西陕煤澄合矿业有限公司 146,708,797.03 1.26%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网供电",
+      "source_product": "电力",
+      "quote": "公司售电业务情况 公司子公司山西漳泽电力售电有限公司主营业务为市场用户提供代理购电服务，2025年累计代理电量11.84亿千瓦时，占公司总销售电量的3.38%。"
+    },
+    {
+      "name": "区域供热",
+      "source_product": "热力",
+      "quote": "热力业务是公司的重要业务。公司售热业务集中于山西地区，主要供热对象为公司所属各电厂所在地区的重点企业及居民。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "师李军",
+      "role": "董事长、总经理",
+      "quote": "公司负责人师李军"
+    },
+    {
+      "name": "王晓华",
+      "role": "总会计师",
+      "quote": "主管会计工作负责人王晓华"
+    },
+    {
+      "name": "姚健",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 姚健"
+    },
+    {
+      "name": "郝美",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理 郝美"
+    },
+    {
+      "name": "薛建兰",
+      "role": "独立董事",
+      "quote": "独立董事 薛建兰"
+    },
+    {
+      "name": "樊燕萍",
+      "role": "独立董事",
+      "quote": "独立董事 樊燕萍"
+    },
+    {
+      "name": "栾华",
+      "role": "独立董事",
+      "quote": "独立董事 栾华"
+    },
+    {
+      "name": "张彦军",
+      "role": "副总经理",
+      "quote": "副总经理 张彦军"
+    },
+    {
+      "name": "康成",
+      "role": "副总经理",
+      "quote": "副总经理 康成"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "晋能控股煤业集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购燃料，占年度采购总额比例58.12%",
+      "quote": "公司前5名供应商资料 1 晋能控股集团有限公司 6,784,084,574.03 58.12%"
+    },
+    {
+      "name": "国网山西省电力公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，销售收入占年度销售总额比例65.56%",
+      "quote": "公司前5大客户资料 1 国网山西省电力公司 10,138,192,494.78 65.56%"
+    },
+    {
+      "name": "国家电网有限公司华北分部",
+      "relation_type": "customer",
+      "business_details": "第二大客户，销售收入占年度销售总额比例14.96%",
+      "quote": "公司前5大客户资料 2 国家电网有限公司华北分部 2,313,099,181.79 14.96%"
+    },
+    {
+      "name": "晋能控股集团有限公司",
+      "relation_type": "customer",
+      "business_details": "第三大客户，销售收入占年度销售总额比例6.93%",
+      "quote": "公司前5大客户资料 3 晋能控股集团有限公司 1,071,152,620.55 6.93%"
+    },
+    {
+      "name": "中审亚太会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 中审亚太会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "山西漳泽电力售电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主营业务为市场用户提供代理购电服务",
+      "quote": "公司子公司山西漳泽电力售电有限公司主营业务为市场用户提供代理购电服务"
+    },
+    {
+      "name": "晋控电力塔山发电山西有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为电力生产销售",
+      "quote": "晋控电力塔山发电山西有限公司 电力生产销售"
+    },
+    {
+      "name": "晋控电力同华山西发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为电力生产销售",
+      "quote": "晋控电力同华山西发电有限公司 电力生产销售"
+    },
+    {
+      "name": "山西临汾热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为电热生产销售",
+      "quote": "山西临汾热电有限公司 电热生产销售"
+    },
+    {
+      "name": "中铝山西新材料有限公司",
+      "relation_type": "competitor",
+      "business_details": "参股公司，主要业务为电解铝生产销售",
+      "quote": "中铝山西新材料有限公司 参股公司 电解铝生产销售"
+    },
+    {
+      "name": "秦皇岛秦热发电有限责任公司",
+      "relation_type": "competitor",
+      "business_details": "参股公司，主要业务为电热生产销售",
+      "quote": "秦皇岛秦热发电有限责任公司 参股公司 电热生产销售"
+    },
+    {
+      "name": "同煤漳泽（上海）融资租赁有限责任公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，主要业务为融资租赁",
+      "quote": "同煤漳泽（上海）融资租赁有限责任公司 参股公司 融资租赁"
+    },
+    {
+      "name": "华润电力（唐山曹妃甸）有限公司",
+      "relation_type": "competitor",
+      "business_details": "参股公司，主要业务为电热生产销售",
+      "quote": "华润电力（唐山曹妃甸）有限公司 参股公司 电热生产销售"
+    },
+    {
+      "name": "陕西省国资委",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人名称 山西省人民政府国有资产监督管理委员会"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力",
+      "segment_type": "business_unit",
+      "revenue_amount": "13,070,450,596.77元",
+      "revenue_proportion": "84.53%",
+      "gross_margin": null,
+      "yoy_change": "-6.74%",
+      "quote": "分行业 电力 13,070,450,596.77 84.53%"
+    },
+    {
+      "name": "火电电力",
+      "segment_type": "product_line",
+      "revenue_amount": "11,402,394,735.34元",
+      "revenue_proportion": "73.74%",
+      "gross_margin": "15.69%",
+      "yoy_change": "-6.48%",
+      "quote": "分产品 火电电力 11,402,394,735.34 73.74%...毛利率比上年同期增减 15.69%...营业收入比上年同期增减 -6.48%"
+    },
+    {
+      "name": "风电电力",
+      "segment_type": "product_line",
+      "revenue_amount": "699,561,183.11元",
+      "revenue_proportion": "4.52%",
+      "gross_margin": "48.81%",
+      "yoy_change": "3.83%",
+      "quote": "分产品 风电电力 699,561,183.11 4.52%...毛利率比上年同期增减 48.81%...营业收入比上年同期增减 3.83%"
+    },
+    {
+      "name": "光伏电力",
+      "segment_type": "product_line",
+      "revenue_amount": "800,486,393.78元",
+      "revenue_proportion": "5.18%",
+      "gross_margin": "27.43%",
+      "yoy_change": "-18.75%",
+      "quote": "分产品 光伏电力 800,486,393.78 5.18%...毛利率比上年同期增减 27.43%...营业收入比上年同期增减 -18.75%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "15,071,996,621.13元",
+      "revenue_proportion": "97.47%",
+      "gross_margin": null,
+      "yoy_change": "-6.96%",
+      "quote": "分地区 华北地区 15,071,996,621.13 97.47%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "发电",
+      "metric_type": "capacity",
+      "value": "1,106.38万千瓦",
+      "period": "2025年末",
+      "quote": "总装机容量（万千瓦） 1,106.38"
+    },
+    {
+      "product": "发电",
+      "metric_type": "production_volume",
+      "value": "383.82亿千瓦时",
+      "period": "2025年",
+      "quote": "发电量（亿千瓦时） 383.82"
+    },
+    {
+      "product": "发电",
+      "metric_type": "sales_volume",
+      "value": "350.61亿千瓦时",
+      "period": "2025年",
+      "quote": "上网电量或售电量（亿千瓦时） 350.61"
+    },
+    {
+      "product": "发电",
+      "metric_type": "capacity_utilization",
+      "value": "3,469.11小时",
+      "period": "2025年",
+      "quote": "发电厂利用小时数（小时） 3,469.11"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "3,838,157.41万千瓦时",
+      "period": "2025年",
+      "quote": "生产量 万千瓦时 3,838,157.41"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "3,506,137.98万千瓦时",
+      "period": "2025年",
+      "quote": "销售量 万千瓦时 3,506,137.98"
+    },
+    {
+      "product": "热力",
+      "metric_type": "production_volume",
+      "value": "43,980,082.21吉焦",
+      "period": "2025年",
+      "quote": "生产量 吉焦 43,980,082.21"
+    },
+    {
+      "product": "热力",
+      "metric_type": "sales_volume",
+      "value": "43,931,968.34吉焦",
+      "period": "2025年",
+      "quote": "销售量 吉焦 43,931,968.34"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "同华轩岗二期煤电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "132万千瓦",
+      "progress": "全面进入施工阶段",
+      "expected_completion_time": null,
+      "quote": "在建项目同华轩岗二期132万千瓦煤电项目。"
+    },
+    {
+      "name": "塔山三期煤电项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "200万千瓦",
+      "progress": "已取得核准，进入施工准备期",
+      "expected_completion_time": null,
+      "quote": "前期项目塔山煤电200万千瓦已取得核准，进入施工准备期。"
+    },
+    {
+      "name": "王坪二期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "前期工作已正式启动并有序推进",
+      "expected_completion_time": null,
+      "quote": "王坪二期项目前期工作也已正式启动并有序推进。"
+    },
+    {
+      "name": "潞城10万千瓦光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "潞城",
+      "investment_amount": null,
+      "designed_capacity": "10万千瓦",
+      "progress": "5月30日全容量并网发电",
+      "expected_completion_time": null,
+      "quote": "潞城10万千瓦光伏项目5月30日全容量并网发电。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年申请11项，授权7项",
+      "quote": "2025年公司共申请实用新型专利11项，取得实用新型专利授权7项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "2025年登记15项",
+      "quote": "软件著作权登记15项"
+    },
+    {
+      "name": "科技论文",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年发表43篇",
+      "quote": "共发表科技论文43篇"
+    },
+    {
+      "name": "火力发电给水泵行星变频调速装置的转化应用",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "荣获中电联2025年度电力创新职工成果二等奖",
+      "quote": "“火力发电给水泵行星变频调速装置的转化应用”成果荣获中电联2025年度电力创新职工成果二等奖"
+    },
+    {
+      "name": "基于精细化燃烧调控和设备状态监测的火电机组智慧节能技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "荣获中国动力工程学会2025年度科技进步奖二等奖",
+      "quote": "“基于精细化燃烧调控和设备状态监测的火电机组智慧节能技术”成果荣获中国动力工程学会2025年度科技进步奖二等奖"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "90.14%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 90.14%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13,938,644,679.91元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 13,938,644,679.91"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "65.56%",
+      "related_entity": "国网山西省电力公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 1 国网山西省电力公司 10,138,192,494.78 65.56%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "61.54%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 61.54%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "7,183,102,324.00元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 7,183,102,324.00"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "58.12%",
+      "related_entity": "晋能控股集团有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 1 晋能控股集团有限公司 6,784,084,574.03 58.12%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "高",
+      "related_entity": "晋能控股集团有限公司",
+      "period": "2025年",
+      "quote": "公司作为晋能控股集团下属以火电为主的发电企业，具有资源与产业协同优势，有利于煤炭供应稳定和成本控制。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "‘双碳’目标对煤电清洁低碳发展提出了硬约束；新能源大规模开发和高比例消纳，加快推动煤电由主体电源向调节型电源转变，煤电面临转型发展的新挑战与新机遇。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.电力市场转型发展。‘双碳’目标对煤电清洁低碳发展提出了硬约束；新能源大规模开发和高比例消纳，加快推动煤电由主体电源向调节型电源转变，煤电面临转型发展的新挑战与新机遇。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "煤电在能源体系中发挥的保障电力安全、提供系统调节、承担民生供热等作用越来越重要，但机组频繁启停、深度调峰、快速变负荷等复杂工况，使设备故障风险大大增加，直接关系到电网安全运行和电力热力可靠供应，同时也增加了供电煤耗和碳排放强度的控制难度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.安全风险不断加大。煤电在能源体系中发挥的保障电力安全、提供系统调节、承担民生供热等作用越来越重要，但机组频繁启停、深度调峰、快速变负荷等复杂工况，使设备故障风险大大增加，直接关系到电网安全运行和电力热力可靠供应，同时也增加了供电煤耗和碳排放强度的控制难度。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着电力体制改革推进，山西省内电力市场竞争日趋激烈，现货市场价格波动幅度较大，对公司经营稳定性构成一定压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "竞争劣势：...三是随着电力体制改革推进，山西省内电力市场竞争日趋激烈，现货市场价格波动幅度较大，对公司经营稳定性构成一定压力。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "火电机组占比较高，导致燃煤价格波动对公司盈利能力影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "竞争劣势：...二是‘双碳’战略深入推进，火电机组占比较高，导致燃煤价格波动对公司盈利能力影响较大。"
+    }
+  ]
+}

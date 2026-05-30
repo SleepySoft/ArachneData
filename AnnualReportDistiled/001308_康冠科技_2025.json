@@ -1,0 +1,500 @@
+{
+  "company_name_mentioned": "深圳市康冠科技股份有限公司",
+  "produces": [
+    {
+      "name": "智能交互显示产品",
+      "type": "device",
+      "revenue_proportion": "26.69%",
+      "quote": "分产品 智能交互显示产品 3,862,912,367.34 26.69% 3,735,182,927.02 23.96% 3.42%"
+    },
+    {
+      "name": "创新类显示产品",
+      "type": "device",
+      "revenue_proportion": "13.84%",
+      "quote": "分产品 创新类显示产品 2,002,463,865.23 13.84% 1,518,740,520.32 9.74% 31.85%"
+    },
+    {
+      "name": "智能电视",
+      "type": "device",
+      "revenue_proportion": "54.39%",
+      "quote": "分产品 智能电视 7,872,621,636.78 54.39% 9,527,792,659.57 61.13% -17.37%"
+    },
+    {
+      "name": "部品销售业务",
+      "type": "component",
+      "revenue_proportion": "5.08%",
+      "quote": "分产品 部品销售业务 734,970,073.71 5.08% 805,235,057.25 5.17% -8.73%"
+    },
+    {
+      "name": "智能交互平板",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的智能交互显示业务主要以智能交互显示产品的研发、设计、生产以及销售为主，目前经营的产品类别主要有：智能交互平板、专业类显示产品。"
+    },
+    {
+      "name": "电竞显示器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的专业类显示产品涵盖电竞显示器、商业专业显示器、医疗显示产品、公共信息显示屏、商业展示显示设备等品类。"
+    },
+    {
+      "name": "移动智慧屏",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "创新类显示产品，例如AI交互眼镜、移动智慧屏、AI美妆镜、VR眼镜、直播机、投影仪、智显屏和OLED悬浮电视，都是通过不断的技术创新和产品研发，将尖端显示技术应用于多样化的场景和需求中。"
+    },
+    {
+      "name": "智能美妆镜",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能美妆镜作为爆款产品，在社交媒体上广受欢迎，连续多月在LED化妆镜类目和创意礼品榜单上名列前茅。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "液晶面板",
+      "target_product": "智能显示产品",
+      "cost_proportion": null,
+      "quote": "公司产品的直接材料中最主要的原材料为液晶面板等。"
+    },
+    {
+      "name": "显示屏",
+      "target_product": "部品销售",
+      "cost_proportion": null,
+      "quote": "部品的主要品类有显示屏、板卡、膜片、灯条、智能笔、投屏器、适配器、扩展坞、触摸框等。"
+    },
+    {
+      "name": "板卡",
+      "target_product": "部品销售",
+      "cost_proportion": null,
+      "quote": "部品的主要品类有显示屏、板卡、膜片、灯条、智能笔、投屏器、适配器、扩展坞、触摸框等。"
+    },
+    {
+      "name": "膜片",
+      "target_product": "部品销售",
+      "cost_proportion": null,
+      "quote": "部品的主要品类有显示屏、板卡、膜片、灯条、智能笔、投屏器、适配器、扩展坞、触摸框等。"
+    },
+    {
+      "name": "灯条",
+      "target_product": "部品销售",
+      "cost_proportion": null,
+      "quote": "部品的主要品类有显示屏、板卡、膜片、灯条、智能笔、投屏器、适配器、扩展坞、触摸框等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智慧办公",
+      "source_product": "智能交互平板",
+      "quote": "公司依托AI技术深度赋能，已构建起多元化产品矩阵，全面覆盖“AI+办公”“AI+教育”“AI+医疗”“AI+娱乐”等核心应用场景。在“AI+办公”与“AI+教育”领域，公司推出智能交互平板，导入多种智能体，用AI重构了会议与课堂的交互体验。"
+    },
+    {
+      "name": "智慧教育",
+      "source_product": "智能交互平板",
+      "quote": "教育场景的交互电子白板在教育信息化的过程中发挥着关键作用...内嵌不同的学科小工具，助力教师日常教学。"
+    },
+    {
+      "name": "医疗影像诊断",
+      "source_product": "医疗显示器、医用AI一体机",
+      "quote": "在“AI+医疗”领域，公司推出行业首款医用AI一体机，内置专业AI放射诊断软件，可在影像检查中实现病灶位置动态标记、病灶智能分类及恶性概率预判。"
+    },
+    {
+      "name": "家庭娱乐",
+      "source_product": "智能电视、投影仪",
+      "quote": "应用于娱乐、家庭观影等领域。"
+    },
+    {
+      "name": "电竞游戏",
+      "source_product": "电竞显示器",
+      "quote": "电竞显示器专为游戏电竞场景打造，凭借高刷新率、低延迟特性及卓越的色彩呈现能力，为玩家带来流畅顺滑、真实沉浸的游戏视觉体验。"
+    },
+    {
+      "name": "商业展示",
+      "source_product": "公共信息显示屏、商业展示显示设备",
+      "quote": "公共信息显示屏是专为满足企业环境和专业工作需求而设计的显示设备...使其广泛应用于机场、地铁、火车站、控制室、展览中心、零售环境、办公室和会议室等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "凌斌",
+      "role": "董事长",
+      "quote": "公司负责人凌斌、主管会计工作负责人廖科华及会计机构负责人（会计主管人员）廖科华声明"
+    },
+    {
+      "name": "李宇彬",
+      "role": "董事、总经理",
+      "quote": "（2）李宇彬：男，1965年 6月出生，中国国籍，无永久境外居留权，硕士学历...现任公司董事、总经理。"
+    },
+    {
+      "name": "廖科华",
+      "role": "董事、财务总监",
+      "quote": "（3）廖科华：男，1978年8月出生，中国国籍，无永久境外居留权，硕士学历...现任公司董事、财务总监。"
+    },
+    {
+      "name": "陈茂华",
+      "role": "职工代表董事",
+      "quote": "（4）陈茂华：男，1977年4月出生，中国国籍，无永久境外居留权，硕士学历...现任公司职工代表董事。"
+    },
+    {
+      "name": "孙建华",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书 姓名 孙建华"
+    },
+    {
+      "name": "林志峰",
+      "role": "副总经理",
+      "quote": "（9）林志峰：男，1981年 11月出生，中国国籍，无永久境外居留权...现任公司副总经理。"
+    },
+    {
+      "name": "邓燏",
+      "role": "独立董事",
+      "quote": "（5）邓燏：男，1964 年 11月出生...2022年5月至今担任公司独立董事。"
+    },
+    {
+      "name": "孙小卫",
+      "role": "独立董事",
+      "quote": "（6）孙小卫：男，1968年 7月出生...2025年10月至今担任公司独立董事。"
+    },
+    {
+      "name": "何绍茂",
+      "role": "独立董事",
+      "quote": "（7）何绍茂：男，1979年 12月出生...2025年10月至今担任公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "惠州康冠",
+      "relation_type": "subsidiary",
+      "business_details": "研发、生产与销售",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 惠州康冠 子公司 研发、生产与销售"
+    },
+    {
+      "name": "康冠商用",
+      "relation_type": "subsidiary",
+      "business_details": "研发、生产与销售",
+      "quote": "康冠商用 子公司 研发、生产与销售"
+    },
+    {
+      "name": "皓丽软件",
+      "relation_type": "subsidiary",
+      "business_details": "开发与服务",
+      "quote": "皓丽软件 子公司 开发与服务"
+    },
+    {
+      "name": "康冠医疗",
+      "relation_type": "subsidiary",
+      "business_details": "医疗显示产品",
+      "quote": "医疗显示产品主要由公司下属子公司深圳市康冠医疗设备有限公司生产经营。"
+    },
+    {
+      "name": "香港康冠",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "香港康冠 指 香港康冠技术有限公司"
+    },
+    {
+      "name": "波兰康冠",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "波兰康冠 指 KTCTECHNOLOGYEUROPEsp.Zo.o.（欧洲KTC科技有限公司）"
+    },
+    {
+      "name": "韩国康冠",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "韩国康冠 指 KTCTECHNOLOGYKOREACO.,LTD.（韩国KTC科技有限公司）"
+    },
+    {
+      "name": "墨西哥康冠",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "墨西哥康冠 指 KTCTECHNOLOGYMEXICOS.DE.R.L.DEC.V.（墨西哥KTC科技有限公司）"
+    },
+    {
+      "name": "美国康冠",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "美国康冠 指 KTCTechnologyUSAInc.（美国KTC科技股份有限公司）"
+    },
+    {
+      "name": "巴西康冠",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "巴西康冠 指 KTCTECHNOLOGYBRAZILIANLTDA（巴西康冠技术有限公司）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智能交互显示产品",
+      "segment_type": "product_line",
+      "revenue_amount": "3,862,912,367.34元",
+      "revenue_proportion": "26.69%",
+      "gross_margin": "19.31%",
+      "yoy_change": "3.42%",
+      "quote": "分产品 智能交互显示产品 3,862,912,367.34 26.69% 3,735,182,927.02 23.96% 3.42% ... 毛利率 19.31%"
+    },
+    {
+      "name": "创新类显示产品",
+      "segment_type": "product_line",
+      "revenue_amount": "2,002,463,865.23元",
+      "revenue_proportion": "13.84%",
+      "gross_margin": "16.40%",
+      "yoy_change": "31.85%",
+      "quote": "分产品 创新类显示产品 2,002,463,865.23 13.84% 1,518,740,520.32 9.74% 31.85% ... 毛利率 16.40%，同比提升4.43个百分点。"
+    },
+    {
+      "name": "智能电视",
+      "segment_type": "product_line",
+      "revenue_amount": "7,872,621,636.78元",
+      "revenue_proportion": "54.39%",
+      "gross_margin": "11.88%",
+      "yoy_change": "-17.37%",
+      "quote": "分产品 智能电视 7,872,621,636.78 54.39% 9,527,792,659.57 61.13% -17.37% ... 毛利率 11.88%"
+    },
+    {
+      "name": "部品销售业务",
+      "segment_type": "product_line",
+      "revenue_amount": "734,970,073.71元",
+      "revenue_proportion": "5.08%",
+      "gross_margin": null,
+      "yoy_change": "-8.73%",
+      "quote": "分产品 部品销售业务 734,970,073.71 5.08% 805,235,057.25 5.17% -8.73%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "1,753,569,388.19元",
+      "revenue_proportion": "12.12%",
+      "gross_margin": "13.13%",
+      "yoy_change": "-18.26%",
+      "quote": "分地区 内销 1,753,569,388.19 12.12% 2,145,263,204.38 13.76% -18.26% ... 毛利率 13.13%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "12,719,398,554.87元",
+      "revenue_proportion": "87.88%",
+      "gross_margin": "14.05%",
+      "yoy_change": "-5.37%",
+      "quote": "分地区 外销 12,719,398,554.87 87.88% 13,441,687,959.78 86.24% -5.37% ... 毛利率 14.05%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "13,892,328,141.78元",
+      "revenue_proportion": "95.99%",
+      "gross_margin": "14.10%",
+      "yoy_change": "-7.77%",
+      "quote": "分销售模式 直销 13,892,328,141.78 95.99% 15,062,436,868.45 96.63% -7.77% ... 毛利率 14.10%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "580,639,801.28元",
+      "revenue_proportion": "4.01%",
+      "gross_margin": null,
+      "yoy_change": "10.70%",
+      "quote": "分销售模式 分销 580,639,801.28 4.01% 524,514,295.71 3.37% 10.70%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能交互显示产品",
+      "metric_type": "sales_volume",
+      "value": "2,080,782.00 PCS",
+      "period": "2025年",
+      "quote": "智能交互显示产品 销售量 PCS 2,080,782.00"
+    },
+    {
+      "product": "智能交互显示产品",
+      "metric_type": "production_volume",
+      "value": "2,073,630.00 PCS",
+      "period": "2025年",
+      "quote": "智能交互显示产品 生产量 PCS 2,073,630.00"
+    },
+    {
+      "product": "智能交互显示产品",
+      "metric_type": "inventory_volume",
+      "value": "141,553.00 PCS",
+      "period": "2025年末",
+      "quote": "智能交互显示产品 库存量 PCS 141,553.00"
+    },
+    {
+      "product": "创新显示产品",
+      "metric_type": "sales_volume",
+      "value": "2,036,099.00 PCS",
+      "period": "2025年",
+      "quote": "创新显示产品 销售量 PCS 2,036,099.00"
+    },
+    {
+      "product": "创新显示产品",
+      "metric_type": "production_volume",
+      "value": "2,153,838.85 PCS",
+      "period": "2025年",
+      "quote": "创新显示产品 生产量 PCS 2,153,838.85"
+    },
+    {
+      "product": "创新显示产品",
+      "metric_type": "inventory_volume",
+      "value": "508,308.85 PCS",
+      "period": "2025年末",
+      "quote": "创新显示产品 库存量 PCS 508,308.85"
+    },
+    {
+      "product": "智能电视",
+      "metric_type": "sales_volume",
+      "value": "8,873,264.00 PCS",
+      "period": "2025年",
+      "quote": "智能电视 销售量 PCS 8,873,264.00"
+    },
+    {
+      "product": "智能电视",
+      "metric_type": "production_volume",
+      "value": "8,770,931.00 PCS",
+      "period": "2025年",
+      "quote": "智能电视 生产量 PCS 8,770,931.00"
+    },
+    {
+      "product": "智能电视",
+      "metric_type": "inventory_volume",
+      "value": "625,077.00 PCS",
+      "period": "2025年末",
+      "quote": "智能电视 库存量 PCS 625,077.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "康冠智能显示终端产品扩产项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "50,000万元",
+      "designed_capacity": null,
+      "progress": "已达到预定可使用状态",
+      "expected_completion_time": "2024年10月31日",
+      "quote": "1.康冠智能显示终端产品扩产项目 ... 截至期 末投资 进度(3)＝(2)/(1) 100.51% ... 项目达到预 定可使用 状态日 期 2024年10月31日"
+    },
+    {
+      "name": "商用显示产品扩产项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10,000万元",
+      "designed_capacity": null,
+      "progress": "38.36%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "2.商用 显示产 品扩产 项目 ... 截至期 末投资 进度(3)＝(2)/(1) 38.36% ... 项目达到预 定可使用 状态日 期 2026年12月31日"
+    },
+    {
+      "name": "智能显示科技园项目（一期）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "62,000万元",
+      "designed_capacity": null,
+      "progress": "66.88%",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "3.智能 显示科 技园项 目（一 期） ... 截至期 末投资 进度(3)＝(2)/(1) 66.88% ... 项目达到预 定可使用 状态日 期 2026年06月30日"
+    },
+    {
+      "name": "全球技术支持及服务中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10,000万元",
+      "designed_capacity": null,
+      "progress": "59.92%",
+      "expected_completion_time": "2027年06月30日",
+      "quote": "4全球技 术支持 及服务 中心建 设项目 ... 截至期 末投资 进度(3)＝(2)/(1) 59.92% ... 项目达到预 定可使用 状态日 期 2027年06月30日"
+    },
+    {
+      "name": "智慧园区及信息化系统升级改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "7,996.9万元",
+      "designed_capacity": null,
+      "progress": "60.43%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "5.智慧 园区及 信息化 系统升 级改造 项目 ... 截至期 末投资 进度(3)＝(2)/(1) 60.43% ... 项目达到预 定可使用 状态日 期 2026年12月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效授权专利及软件著作权证书",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "1,485项，其中发明专利124项，实用新型528项，外观设计195项，软件著作权证书638项",
+      "quote": "截至报告期末，公司拥有有效授权专利及软件著作权证书1,485项，其中发明专利124项，实用新型528项，外观设计195项，软件著作权证书638项。"
+    },
+    {
+      "name": "触控技术",
+      "asset_type": "core_technology",
+      "related_product": "智能交互平板",
+      "quantitative_info": null,
+      "quote": "在触控技术、无线传屏、动作感应、语音技术、书写技术、拼接技术、散热技术、色彩还原、声学技术、AI技术、光学显示和数据传输等核心技术领域，公司积累了大量实验数据和丰富经验。"
+    },
+    {
+      "name": "无线传屏技术",
+      "asset_type": "core_technology",
+      "related_product": "智能交互平板、投屏器",
+      "quantitative_info": null,
+      "quote": "在触控技术、无线传屏、动作感应、语音技术、书写技术、拼接技术、散热技术、色彩还原、声学技术、AI技术、光学显示和数据传输等核心技术领域，公司积累了大量实验数据和丰富经验。"
+    },
+    {
+      "name": "AI技术",
+      "asset_type": "core_technology",
+      "related_product": "AI交互眼镜、智能美妆镜、AI试衣镜等",
+      "quantitative_info": null,
+      "quote": "在触控技术、无线传屏、动作感应、语音技术、书写技术、拼接技术、散热技术、色彩还原、声学技术、AI技术、光学显示和数据传输等核心技术领域，公司积累了大量实验数据和丰富经验。"
+    },
+    {
+      "name": "DICOM标准",
+      "asset_type": "certification",
+      "related_product": "医疗显示产品",
+      "quantitative_info": null,
+      "quote": "产品类型涵盖了从临床多功能到专业影像诊断、数字化手术室、远程医疗会诊等全线医疗影像产品。"
+    },
+    {
+      "name": "Google EDLA认证",
+      "asset_type": "certification",
+      "related_product": "智能交互平板",
+      "quantitative_info": null,
+      "quote": "全球率先推出多款EDLA认证机型，通过与Google软件的无缝集成，不仅全面革新协作体验，更在全球市场形成差异化的竞争力。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "29.48%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 29.48%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "宏观经济环境的风险：目前，国内外经济形势复杂多变，会给企业的生产经营及发展预期带来一定的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济环境的风险 目前，国内外经济形势复杂多变，会给企业的生产经营及发展预期带来一定的不确定性。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动的风险：公司的业务以出口为主且日常经营中涉及的外汇收支规模较大，但外汇市场的不确定性，外汇汇率的波动日趋频繁，存在汇率波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、汇率波动的风险 公司的业务以出口为主且日常经营中涉及的外汇收支规模较大，但外汇市场的不确定性，外汇汇率的波动日趋频繁，存在汇率波动风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险：公司产品的直接材料中最主要的原材料为液晶面板等。长期来看，液晶面板行业的价格主要受到供需关系的直接影响，呈现一定的波动性。",
+      "related_entity": null,
+      "related_product": "液晶面板",
+      "quote": "3、原材料价格波动的风险 公司产品的直接材料中最主要的原材料为液晶面板等。长期来看，液晶面板行业的价格主要受到供需关系的直接影响，呈现一定的波动性。"
+    }
+  ]
+}

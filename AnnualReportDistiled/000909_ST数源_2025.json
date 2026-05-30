@@ -1,0 +1,446 @@
+{
+  "company_name_mentioned": "数源科技股份有限公司",
+  "produces": [
+    {
+      "name": "智能充电设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能充电及运营业务，涵盖大功率重卡充电桩设计开发、核心部件自主研发、智能充电运营平台搭建，提供从设备到运营的全链条服务，主要产品包括电动自行车充电桩、交流/直流充电桩、交直流一体充电桩、柔性充电堆等。"
+    },
+    {
+      "name": "智能终端",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能终端业务，公司产品主要面向智慧公交和商用显示两大领域，包括公交智能化领域的 LCD 站节屏、电子后视镜、智能电子站牌、公交业务数据平台，以及商用显示领域的信发机、查询机、信息发布系统等。"
+    },
+    {
+      "name": "智慧社区系统与产品",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "智慧社区业务，产品和服务涵盖智能门禁管控系统、智慧公租综合服务管理平台、智能化信息系统集成服务，拥有规划到维护的全产业链。"
+    },
+    {
+      "name": "科技园区开发与运营服务",
+      "type": "service",
+      "revenue_proportion": "报告期内，公司园区产业类业务实现营业收入 1.49 亿元，占公司营业收入比重为 55.34%",
+      "quote": "报告期内，公司园区产业类业务实现营业收入 1.49 亿元，占公司营业收入比重为 55.34%，与去年同期相比减少16.12 %。"
+    },
+    {
+      "name": "电子信息类产品",
+      "type": "device",
+      "revenue_proportion": "报告期内，公司电子信息类业务实现营业收入 4,512.44 万元，占公司营业收入比重为 16.73%",
+      "quote": "报告期内，公司电子信息类业务实现营业收入 4,512.44 万元，占公司营业收入比重为 16.73%，与去年同期相比减少49.07%。"
+    },
+    {
+      "name": "商品贸易业务",
+      "type": "service",
+      "revenue_proportion": "报告期内，公司商贸类业务实现营业收入 1,232.87万元，占公司营业收入比重为 4.57%",
+      "quote": "报告期内，公司商贸类业务实现营业收入 1,232.87万元，占公司营业收入比重为 4.57%，与去年同期相比增长14.33%。"
+    },
+    {
+      "name": "房地产业务",
+      "type": "service",
+      "revenue_proportion": "报告期内，公司房地产类业务实现营业收入 5,786.06 万元，占公司营业收入比重为 21.46%",
+      "quote": "报告期内，公司房地产类业务实现营业收入 5,786.06 万元，占公司营业收入比重为 21.46%，与去年同期相比增长45.21 %。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电力",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 8.54%",
+      "quote": "国网浙江省电力有限公司杭州供电公司 9,021,630.91 8.54%"
+    },
+    {
+      "name": "建筑装饰工程",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 6.89%",
+      "quote": "浙江中天建筑装饰集团有限公司（曾用名：浙江中天精诚装饰集团有限公司） 7,282,528.39 6.89%"
+    },
+    {
+      "name": "安保服务",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 4.19%",
+      "quote": "杭州西湖安保服务集团有限公司 4,420,326.66 4.19%"
+    },
+    {
+      "name": "建筑工程",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 3.86%",
+      "quote": "杭州建工集团有限责任公司 4,073,074.86 3.86%"
+    },
+    {
+      "name": "建筑相关服务",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 3.40%",
+      "quote": "浙江耀厦控股集团有限公司 3,588,673.00 3.40%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智慧交通（重卡、电动自行车等）",
+      "source_product": "智能充电设备",
+      "quote": "提供从设备研发、核心部件生产到运营服务的全链条解决方案，主要产品涵盖电动自行车充电桩、交直流充电桩、柔性充电堆等。"
+    },
+    {
+      "name": "智慧公交",
+      "source_product": "智能终端",
+      "quote": "智能终端业务聚焦智慧公交与商用显示两大领域，智慧公交领域依托 GPS定位、5G 通信等技术，提供 LCD 站节屏、智能电子站牌、公交调度系统等产品及解决方案。"
+    },
+    {
+      "name": "商用显示（酒店、高铁站等）",
+      "source_product": "智能终端",
+      "quote": "商用显示领域以信息发布系统为核心，提供多媒体内容制作、管理、发布及终端展示一体化解决方案，适配酒店、高铁站等多场景需求。"
+    },
+    {
+      "name": "公租房、人才房、蓝领公寓等社区",
+      "source_product": "智慧社区系统与产品",
+      "quote": "公司调整销售策略，以价换量拓展相关区县公租房项目，推进萧山区级公租房统一管理平台合作，同时开拓保租房、人才房等市场。"
+    },
+    {
+      "name": "高新技术中小企业孵化与园区运营",
+      "source_product": "科技园区开发与运营服务",
+      "quote": "东部软件园作为国家级科技企业孵化器，为培育和扶持高新技术中小企业提供科技企业孵化平台。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "丁毅",
+      "role": "董事长",
+      "quote": "公司负责人丁毅、总经理左鹏飞、主管会计工作负责人李兴哲及会计机构负责人（会计主管人员）马晴声明..."
+    },
+    {
+      "name": "左鹏飞",
+      "role": "总经理、董事",
+      "quote": "公司负责人丁毅、总经理左鹏飞...；左鹏飞先生，1981 年出生...现任本公司党委书记、董事、总经理。"
+    },
+    {
+      "name": "李兴哲",
+      "role": "财务总监",
+      "quote": "公司负责人丁毅、总经理左鹏飞、主管会计工作负责人李兴哲及会计机构负责人（会计主管人员）马晴声明..."
+    },
+    {
+      "name": "蒋力放",
+      "role": "副总经理",
+      "quote": "蒋力放先生，1966 年出生...现任本公司副总经理。"
+    },
+    {
+      "name": "李潇雨",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 李潇雨 女 35 现任"
+    },
+    {
+      "name": "马晴",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人丁毅、总经理左鹏飞、主管会计工作负责人李兴哲及会计机构负责人（会计主管人员）马晴声明..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "西湖电子集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例为 30.5727%",
+      "quote": "西湖电子集团有限公司，该公司直接持有本公司股权为 133,820,941 股，持股比例为 30.5727%"
+    },
+    {
+      "name": "杭州市人民政府",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人性质：地方国资管理机构；实际控制人类型：法人；实际控制人名称：杭州市人民政府"
+    },
+    {
+      "name": "杭州滨江房产集团股份有限公司及其关联方",
+      "relation_type": "customer",
+      "business_details": "2025年度第一大客户",
+      "quote": "杭州滨江房产集团股份有限公司及其关联方 9,597,043.48 3.56%"
+    },
+    {
+      "name": "浙江省三建建设集团有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年度第二大客户",
+      "quote": "浙江省三建建设集团有限公司 5,252,828.80 1.95%"
+    },
+    {
+      "name": "杭州国芯微电子股份有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年度第三大客户",
+      "quote": "杭州国芯微电子股份有限公司 5,026,064.01 1.86%"
+    },
+    {
+      "name": "杭州均营物资有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年度第四大客户",
+      "quote": "杭州均营物资有限公司 4,830,215.35 1.79%"
+    },
+    {
+      "name": "杭州多业科技有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年度第五大客户",
+      "quote": "杭州多业科技有限公司 4,789,547.62 1.78%"
+    },
+    {
+      "name": "国网浙江省电力有限公司杭州供电公司",
+      "relation_type": "supplier",
+      "business_details": "2025年度第一大供应商",
+      "quote": "国网浙江省电力有限公司杭州供电公司 9,021,630.91 8.54%"
+    },
+    {
+      "name": "浙江中天建筑装饰集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "2025年度第二大供应商",
+      "quote": "浙江中天建筑装饰集团有限公司（曾用名：浙江中天精诚装饰集团有限公司） 7,282,528.39 6.89%"
+    },
+    {
+      "name": "杭州西湖安保服务集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "2025年度第三大供应商",
+      "quote": "杭州西湖安保服务集团有限公司 4,420,326.66 4.19%"
+    },
+    {
+      "name": "杭州建工集团有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "2025年度第四大供应商",
+      "quote": "杭州建工集团有限责任公司 4,073,074.86 3.86%"
+    },
+    {
+      "name": "浙江耀厦控股集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "2025年度第五大供应商",
+      "quote": "浙江耀厦控股集团有限公司 3,588,673.00 3.40%"
+    },
+    {
+      "name": "杭州信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "直接持股10.03%的子公司，是控股股东西湖电子集团的一致行动人",
+      "quote": "杭州信息科技有限公司 43,904,536.00 10.03%；...西湖电子集团有限公司为杭州信息科技有限公司、杭州西湖数源软件园有限公司（已更名为杭州数源园区开发有限责任公司）的控股股东，因此为一致行动人。"
+    },
+    {
+      "name": "杭州东部软件园股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，主营园区经营管理",
+      "quote": "杭州东部软件园股份有限公司（以下简称“东软股份”）"
+    },
+    {
+      "name": "杭州中兴房地产开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，主营房地产业务",
+      "quote": "杭州中兴房地产开发有限公司（以下简称“中兴房产”）"
+    },
+    {
+      "name": "杭州易和网络有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，已被认定为浙江省专精特新中小企业",
+      "quote": "子公司易和网络被认定为浙江省专精特新中小企业。"
+    },
+    {
+      "name": "杭州数源园区开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东西湖电子集团的一致行动人，持有公司0.83%股份",
+      "quote": "杭州西湖数源软件园有限公司（已更名为杭州数源园区开发有限责任公司）...合计持有本公司股份比例为 41.4353%。"
+    },
+    {
+      "name": "星星充电",
+      "relation_type": "customer",
+      "business_details": "智能充电运营平台的合作伙伴",
+      "quote": "已对接星星充电等平台并在上海、重庆落地运营。"
+    },
+    {
+      "name": "杭州电子科技大学",
+      "relation_type": "joint_venture",
+      "business_details": "产学研合作单位，共同研发并获得省级科技进步奖",
+      "quote": "公司与杭州电子科技大学等单位共同研发实施的科技创新成果“基于大数据分析的电动汽车动力电池包关键技术研究及应用”获得了浙江省科学技术进步奖一等奖。"
+    },
+    {
+      "name": "浙江大学建筑工程学院",
+      "relation_type": "joint_venture",
+      "business_details": "产学研合作单位，共建联合实验室",
+      "quote": "公司与浙江大学建筑工程学院共建“智慧水务联合实验室”。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电子信息类",
+      "segment_type": "product_line",
+      "revenue_amount": "45,124,366.76元",
+      "revenue_proportion": "16.73%",
+      "gross_margin": "26.03%",
+      "yoy_change": "-49.07%",
+      "quote": "电子信息类 45,124,366.76 16.73% 88,602,899.36 27.50% -49.07%"
+    },
+    {
+      "name": "园区产业类",
+      "segment_type": "product_line",
+      "revenue_amount": "149,225,042.72元",
+      "revenue_proportion": "55.34%",
+      "gross_margin": "61.02%",
+      "yoy_change": "-16.12%",
+      "quote": "园区产业类 149,225,042.72 55.34% 177,899,955.10 55.23% -16.12%"
+    },
+    {
+      "name": "商贸类",
+      "segment_type": "product_line",
+      "revenue_amount": "12,328,692.32元",
+      "revenue_proportion": "4.57%",
+      "gross_margin": null,
+      "yoy_change": "14.33%",
+      "quote": "商贸类 12,328,692.32 4.57% 10,783,663.67 3.35% 14.33%"
+    },
+    {
+      "name": "房地产类",
+      "segment_type": "product_line",
+      "revenue_amount": "57,860,591.17元",
+      "revenue_proportion": "21.46%",
+      "gross_margin": "31.88%",
+      "yoy_change": "45.21%",
+      "quote": "房地产类 57,860,591.17 21.46% 39,845,412.35 12.37% 45.21%"
+    },
+    {
+      "name": "其他类",
+      "segment_type": "product_line",
+      "revenue_amount": "5,131,695.05元",
+      "revenue_proportion": "1.90%",
+      "gross_margin": null,
+      "yoy_change": "2.96%",
+      "quote": "其他类 5,131,695.05 1.90% 4,984,253.27 1.55% 2.96%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "下沙 5G 产业先导园",
+      "metric_type": "capacity",
+      "value": "可租赁面积达 60,243.24 平方米",
+      "period": null,
+      "quote": "下沙 5G 产业先导园按国家级 5G 产业基地的要求，高标准、高起点规划建设...可租赁面积达 60,243.24 平方米"
+    },
+    {
+      "product": "数源科技大厦",
+      "metric_type": "capacity_utilization",
+      "value": "平均出租率 100.00%",
+      "period": null,
+      "quote": "数源科技大厦 杭州市上城区钱江路 写字楼 97.77% 9335.64 9335.64 100.00%"
+    },
+    {
+      "product": "景冉佳园",
+      "metric_type": "capacity_utilization",
+      "value": "平均出租率 100.00%",
+      "period": null,
+      "quote": "景冉佳园 杭州下沙 商铺 100.00% 13489.46 13489.46 100.00%"
+    },
+    {
+      "product": "金融大厦",
+      "metric_type": "capacity_utilization",
+      "value": "平均出租率 19.98%",
+      "period": null,
+      "quote": "金融大厦 衢州市柯城区须江路 商铺 100.00% 5808.32 1160.63 19.98%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "东部软件园提升改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "使用募集资金总计仍为 7,039.61万元",
+      "designed_capacity": null,
+      "progress": "累计投入募投项目的募集资金金额为 44,113.28万元",
+      "expected_completion_time": null,
+      "quote": "公司于 2024年4月18日召开了第八届董事会第三十三次会议和第八届监事会第十八次会议、于 2024年 6月 28日召开 2023年年度股东大会，审议通过了《关于变更部分募集资金投资项目的议案》，将原募投项目变更为“东部软件园提升改造项目”（以下简称“新项目”），新项目主要在原募投项目的基础上进行调整，新项目使用募集资金总计仍为 7,039.61万元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "5G通信技术应用",
+      "asset_type": "core_technology",
+      "related_product": "智能充电、智能终端、智慧社区",
+      "quantitative_info": null,
+      "quote": "报告期内，公司根据总体发展战略聚焦电子信息产业，以新一代 5G 通信技术的应用为载体，重点围绕在智慧交通、智慧社区、智能终端等领域扩展业务。"
+    },
+    {
+      "name": "智能充电技术",
+      "asset_type": "core_technology",
+      "related_product": "充电桩、充电堆",
+      "quantitative_info": "完成 360KW-720KW 超大功率风冷和全液冷超高压充电桩研发；自主研发 4G 通讯模块、绝缘检测控制系统等核心部件",
+      "quote": "报告期内，公司完成 360KW-720KW 超大功率风冷和全液冷超高压充电桩研发，实现自动化智能化管理...自主研发 4G 通讯模块、绝缘检测控制系统等核心部件。"
+    },
+    {
+      "name": "知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内，公司共获得授权知识产权 43 项（其中发明专利5项，软件著作权10项），完成各类知识产权申请44项（其中发明专利9项）",
+      "quote": "报告期内，公司共获得授权知识产权 43 项（其中发明专利5项，软件著作权10项），完成各类知识产权申请44项（其中发明专利9项）。"
+    },
+    {
+      "name": "管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "通过 ISO9000、ISO14000、ISO45000、GB/T29490、IATF16949 及 CMMI3 级认证等六大体系",
+      "quote": "遵循 ISO9000、ISO14000、ISO45000 三大管理体系标准，建立了全面的质量、环境和职业健康安全管理制度和流程...并通过了 GB/T29490 知识产权管理体系、IATF16949 汽车质量管理体系及 CMMI3 级认证等六大体系。"
+    },
+    {
+      "name": "国家级高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "数源科技作为国企背景的上市公司、国家级高新技术企业、国家级知识产权优势企业。"
+    },
+    {
+      "name": "浙江省专精特新中小企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年，数源科技成功入选浙江省知识产权“金种子”成长级中小企业，并成功复核通过“浙江省专精特新中小企业”。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "10.94%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 29,495,699.26；前五名客户合计销售金额占年度销售总额比例 10.94%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "26.88%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 28,386,233.82；前五名供应商合计采购金额占年度采购总额比例 26.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司主营业务涉及电子信息产品、科技产业园区及商贸等多个领域，各领域政策的变化都可能对公司业务发展产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、政策风险：公司主营业务涉及电子信息产品、科技产业园区及商贸等多个领域，各领域政策的变化都可能对公司业务发展产生影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "一是市场竞争加剧，新进入者不断涌现，产品需求下降，公司面临更加激烈的价格竞争与服务竞争，市场份额可能被挤压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、竞争风险：一是市场竞争加剧，新进入者不断涌现，产品需求下降，公司面临更加激烈的价格竞争与服务竞争，市场份额可能被挤压。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "二是技术竞争压力，数字化转型加速，技术革新迅速，若公司不能跟上技术发展的步伐，可能面临技术落后、技术失去竞争力等风险，导致市场份额流失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是技术竞争压力，数字化转型加速，技术革新迅速，若公司不能跟上技术发展的步伐，可能面临技术落后、技术失去竞争力等风险，导致市场份额流失。"
+    },
+    {
+      "risk_type": "other",
+      "description": "重大自然灾害、突发公共卫生事件、大型社会活动等不可抗力的自然因素和社会因素，可能影响公司项目的推进进度以及收入确认。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、不可抗力风险：重大自然灾害、突发公共卫生事件、大型社会活动等不可抗力的自然因素和社会因素，可能影响公司项目的推进进度以及收入确认。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "母公司存在未弥补亏损的情况。经浙江中会会计师事务所（特殊普通合伙）审计，截至 2025 年 12 月 31 日，母公司未分配利润为- 767,440,082.08 元。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末，母公司存在未弥补亏损的情况。经浙江中会会计师事务所（特殊普通合伙）审计，截至 2025 年 12 月 31 日，母公司未分配利润为- 767,440,082.08 元。"
+    }
+  ]
+}

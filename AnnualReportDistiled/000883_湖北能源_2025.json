@@ -1,0 +1,538 @@
+{
+  "company_name_mentioned": "湖北能源集团股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "90.31%",
+      "quote": "电力 15,773,550,684.15 90.31%"
+    },
+    {
+      "name": "水力发电",
+      "type": "service",
+      "revenue_proportion": "24.98%",
+      "quote": "水力发电 4,363,075,214.81 24.98%"
+    },
+    {
+      "name": "火力发电",
+      "type": "service",
+      "revenue_proportion": "50.03%",
+      "quote": "火力发电 8,738,972,609.48 50.03%"
+    },
+    {
+      "name": "风力发电",
+      "type": "service",
+      "revenue_proportion": "4.17%",
+      "quote": "风力发电 728,246,921.03 4.17%"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "11.13%",
+      "quote": "光伏发电 1,943,255,938.83 11.13%"
+    },
+    {
+      "name": "天然气业务",
+      "type": "service",
+      "revenue_proportion": "6.48%",
+      "quote": "天然气业务 1,132,382,741.27 6.48%"
+    },
+    {
+      "name": "煤炭贸易及中转仓储",
+      "type": "service",
+      "revenue_proportion": "0.66%",
+      "quote": "煤炭贸易及中转仓储 115,082,410.12 0.66%"
+    },
+    {
+      "name": "热力供应",
+      "type": "service",
+      "revenue_proportion": "1.42%",
+      "quote": "热力供应 247,268,410.12 1.42%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "火力发电",
+      "cost_proportion": null,
+      "quote": "原材料、折旧、修理费、人工成本等"
+    },
+    {
+      "name": "天然气",
+      "target_product": "天然气业务",
+      "cost_proportion": null,
+      "quote": "天然气采购成本、折旧、维护费、人工成本等"
+    },
+    {
+      "name": "中煤（武汉）销售有限公司",
+      "target_product": "煤炭",
+      "cost_proportion": "19.80%",
+      "quote": "1 中煤（武汉）销售有限公司 1,434,005,368.34 19.80%"
+    },
+    {
+      "name": "山煤国际能源集团股份有限公司",
+      "target_product": "煤炭",
+      "cost_proportion": "14.65%",
+      "quote": "2 山煤国际能源集团股份有限公司 1,061,370,821.29 14.65%"
+    },
+    {
+      "name": "中石油昆仑燃气有限公司",
+      "target_product": "天然气",
+      "cost_proportion": "9.11%",
+      "quote": "3 中石油昆仑燃气有限公司 659,814,766.19 9.11%"
+    },
+    {
+      "name": "国家能源投资集团有限责任公司",
+      "target_product": "煤炭",
+      "cost_proportion": "8.83%",
+      "quote": "4 国家能源投资集团有限责任公司 639,446,556.25 8.83%"
+    },
+    {
+      "name": "陕西煤业化工集团有限责任公司",
+      "target_product": "煤炭",
+      "cost_proportion": "5.24%",
+      "quote": "5 陕西煤业化工集团有限责任公司 379,240,391.16 5.24%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力供应",
+      "source_product": "电力",
+      "quote": "公司主营业务为能源投资、开发与管理，从事或投资的主要业务包括水电、火电、新能源发电、天然气输销和煤炭物流。"
+    },
+    {
+      "name": "热力供应",
+      "source_product": "热力供应",
+      "quote": "热力供应"
+    },
+    {
+      "name": "城市燃气",
+      "source_product": "天然气业务",
+      "quote": "煤炭业务方面，荆州煤炭铁水联运储配基地全年运转煤炭538.10万吨。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张龙",
+      "role": "董事长、董事",
+      "quote": "董事长、董事 张龙 男 43 现任"
+    },
+    {
+      "name": "涂山峰",
+      "role": "副董事长、董事、总经理（离任）",
+      "quote": "副董事长 离任...总经理 离任...涂山峰 男 60"
+    },
+    {
+      "name": "韩勇",
+      "role": "董事",
+      "quote": "韩勇 男 52 董事 现任"
+    },
+    {
+      "name": "龚平",
+      "role": "副董事长、董事",
+      "quote": "龚平 男 53 副董事长、董事 现任"
+    },
+    {
+      "name": "罗仁彩",
+      "role": "董事",
+      "quote": "罗仁彩 男 60 董事 现任"
+    },
+    {
+      "name": "潘承亮",
+      "role": "董事",
+      "quote": "潘承亮 男 57 董事 现任"
+    },
+    {
+      "name": "王军涛",
+      "role": "总会计师、董事会秘书、总法律顾问、首席合规官",
+      "quote": "总会计师、董事会秘书、总法律顾问、首席合规官 王军涛 男 49 现任"
+    },
+    {
+      "name": "谢俊",
+      "role": "副总经理",
+      "quote": "副总经理 谢俊 男 57 现任"
+    },
+    {
+      "name": "陈奎勇",
+      "role": "副总经理",
+      "quote": "陈奎勇 男 57 副总经理 现任"
+    },
+    {
+      "name": "张志猛",
+      "role": "副总经理",
+      "quote": "张志猛 男 58 副总经理 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国长江三峡集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东、实际控制人，认购公司向特定对象发行的股票。",
+      "quote": "控股股东：中国长江三峡集团有限公司；实际控制人：中国长江三峡集团有限公司"
+    },
+    {
+      "name": "中国长江电力股份有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，三峡集团一致行动人。",
+      "quote": "中国长江电力股份有限公司 24.23%"
+    },
+    {
+      "name": "湖北宏泰集团有限公司",
+      "relation_type": "investor",
+      "business_details": "股东。",
+      "quote": "湖北宏泰集团有限公司 25.74%"
+    },
+    {
+      "name": "国家能源投资集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "股东。",
+      "quote": "国家能源投资集团有限责任公司 3.00%"
+    },
+    {
+      "name": "陕西煤业化工集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "股东，持有公司控股子公司省煤投公司50%股权。",
+      "quote": "陕西煤业化工集团有限责任公司 2.86%；（1）陕西煤业化工集团有限责任公司持有公司控股子公司省煤投公司50%股权。"
+    },
+    {
+      "name": "长江证券股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内公司已处置所持长江证券股权。",
+      "quote": "主要系处置联营企业长江证券股权产生的收益143,814.87万元"
+    },
+    {
+      "name": "三峡财务有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "联营企业，发生关联存贷款业务。",
+      "quote": "三峡财务有限责任公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户。",
+      "quote": "1 国家电网有限公司 14,330,100,874.76 82.04%"
+    },
+    {
+      "name": "EMPRESA ELECTRICIDAD DEL PERU - ELECTROPERU S A",
+      "relation_type": "customer",
+      "business_details": "第二大客户。",
+      "quote": "2 EMPRESA ELECTRICIDAD DEL PERU - ELECTROPERU S A 1,312,411,151.53 7.51%"
+    },
+    {
+      "name": "长江三峡设备物资有限公司",
+      "relation_type": "supplier",
+      "business_details": "供应商，受托集中采购设备。",
+      "quote": "长江三峡设备物资有限公司"
+    },
+    {
+      "name": "三峡物资招标管理有限公司",
+      "relation_type": "supplier",
+      "business_details": "供应商，受托集中采购新能源项目组件设备。",
+      "quote": "三峡物资招标管理有限公司"
+    },
+    {
+      "name": "中国三峡建工（集团）有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，签订抽水蓄能项目建设委托管理合同。",
+      "quote": "中国三峡建工（集团）有限公司"
+    },
+    {
+      "name": "长江产业投资集团有限公司",
+      "relation_type": "customer",
+      "business_details": "受让公司所持长江证券股份的交易对手方。",
+      "quote": "长江产业投资集团有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "水力发电",
+      "segment_type": "product_line",
+      "revenue_amount": "4,363,075,214.81元",
+      "revenue_proportion": "24.98%",
+      "gross_margin": "47.98%",
+      "yoy_change": "-4.72%",
+      "quote": "水力发电 4,363,075,214.81 24.98% ... 47.98%"
+    },
+    {
+      "name": "火力发电",
+      "segment_type": "product_line",
+      "revenue_amount": "8,738,972,609.48元",
+      "revenue_proportion": "50.03%",
+      "gross_margin": "11.57%",
+      "yoy_change": "-17.04%",
+      "quote": "火力发电 8,738,972,609.48 50.03% ... 11.57%"
+    },
+    {
+      "name": "风力发电",
+      "segment_type": "product_line",
+      "revenue_amount": "728,246,921.03元",
+      "revenue_proportion": "4.17%",
+      "gross_margin": "26.36%",
+      "yoy_change": "-26.81%",
+      "quote": "风力发电 728,246,921.03 4.17% ... 26.36%"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "1,943,255,938.83元",
+      "revenue_proportion": "11.13%",
+      "gross_margin": "19.59%",
+      "yoy_change": "13.57%",
+      "quote": "光伏发电 1,943,255,938.83 11.13% ... 19.59%"
+    },
+    {
+      "name": "中国",
+      "segment_type": "region",
+      "revenue_amount": "16,032,066,185.36元",
+      "revenue_proportion": "91.79%",
+      "yoy_change": "-12.62%",
+      "quote": "中国 16,032,066,185.36 91.79% -12.62%"
+    },
+    {
+      "name": "秘鲁",
+      "segment_type": "region",
+      "revenue_amount": "1,434,880,531.21元",
+      "revenue_proportion": "8.21%",
+      "yoy_change": "-14.80%",
+      "quote": "秘鲁 1,434,880,531.21 8.21% -14.80%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "1,927.71万千瓦",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司可控装机容量为1,927.71万千瓦"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "427.01亿千瓦时",
+      "period": "2025年",
+      "quote": "2025年，公司完成发电量427.01亿千瓦时"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "409.24亿千瓦时",
+      "period": "2025年",
+      "quote": "2025年，公司售电量409.24亿千瓦时"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity_utilization",
+      "value": "2,335.68小时",
+      "period": "2025年",
+      "quote": "发电厂利用小时数（小时） 2,335.68"
+    },
+    {
+      "product": "水力发电",
+      "metric_type": "production_volume",
+      "value": "112.49亿千瓦时",
+      "period": "2025年",
+      "quote": "公司水电发电量为112.49亿千瓦时"
+    },
+    {
+      "product": "火力发电",
+      "metric_type": "production_volume",
+      "value": "231.90亿千瓦时",
+      "period": "2025年",
+      "quote": "火电发电量为231.90亿千瓦时"
+    },
+    {
+      "product": "风力发电",
+      "metric_type": "production_volume",
+      "value": "19.97亿千瓦时",
+      "period": "2025年",
+      "quote": "风电发电量19.97亿千瓦时"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "production_volume",
+      "value": "62.66亿千瓦时",
+      "period": "2025年",
+      "quote": "光伏发电量62.66亿千瓦时"
+    },
+    {
+      "product": "天然气业务",
+      "metric_type": "sales_volume",
+      "value": "18.49亿标方",
+      "period": "2025年",
+      "quote": "天然气输销气量为18.49亿标方"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "罗田平坦原抽水蓄能电站项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北罗田",
+      "investment_amount": null,
+      "designed_capacity": "装机440万千瓦（公司三个抽蓄项目合计）",
+      "progress": "实现厂房开挖向混凝土浇筑转序，完成上水库主坝填筑",
+      "expected_completion_time": "2028年12月31日（达到预定可使用状态日期）",
+      "quote": "罗田平坦原项目实现厂房开挖向混凝土浇筑转序，完成上水库主坝填筑"
+    },
+    {
+      "name": "长阳清江抽水蓄能电站项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北长阳",
+      "investment_amount": null,
+      "designed_capacity": "装机440万千瓦（公司三个抽蓄项目合计）",
+      "progress": "完成主厂房第一层开挖支护",
+      "expected_completion_time": null,
+      "quote": "长阳清江项目完成主厂房第一层开挖支护"
+    },
+    {
+      "name": "南漳张家坪抽水蓄能电站项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北南漳",
+      "investment_amount": null,
+      "designed_capacity": "装机440万千瓦（公司三个抽蓄项目合计）",
+      "progress": "完成主厂房第二层开挖支护",
+      "expected_completion_time": null,
+      "quote": "南漳张家坪项目完成主厂房第二层开挖支护"
+    },
+    {
+      "name": "江陵电厂二期1号机组",
+      "project_type": "capacity_expansion",
+      "location": "湖北江陵",
+      "investment_amount": null,
+      "designed_capacity": "2×660MW超超临界燃煤机组",
+      "progress": "实现汽机扣盖、首次并网等重要节点“九个一次成功”",
+      "expected_completion_time": "2026年年内建成投产（2026年重点工作）",
+      "quote": "江陵电厂二期1号机组实现汽机扣盖、首次并网等重要节点“九个一次成功”"
+    },
+    {
+      "name": "陕武直流一期210万千瓦光伏基地项目",
+      "project_type": "capacity_expansion",
+      "location": "陕西省榆林市等",
+      "investment_amount": null,
+      "designed_capacity": "210万千瓦",
+      "progress": "全容量投产",
+      "expected_completion_time": null,
+      "quote": "陕武直流一期210万千瓦光伏基地项目全容量投产"
+    },
+    {
+      "name": "罗田平坦原抽水蓄能电站项目（募投项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "289,470.10万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入93,325.72万元",
+      "expected_completion_time": null,
+      "quote": "罗田平坦原抽水蓄能电站项目...截至报告期末累计投入93,325.72万元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "清江梯级与上游中小水库联合调度技术",
+      "asset_type": "process_technology",
+      "related_product": "水力发电",
+      "quantitative_info": null,
+      "quote": "实现清江梯级与上游中小水库联合调度，有效增发电量6.49亿千瓦时"
+    },
+    {
+      "name": "4台100万千瓦超超临界发电机组",
+      "asset_type": "technical_platform",
+      "related_product": "火力发电",
+      "quantitative_info": "占公司火电装机的54.87%",
+      "quote": "公司已投产4台100万千瓦超超临界发电机组，占公司火电装机的54.87%"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "年内申请专利357件，取得授权177件",
+      "quote": "年内申请专利357件，取得授权177件"
+    },
+    {
+      "name": "电力涉网试验CMA资质",
+      "asset_type": "certification",
+      "related_product": "新能源技术公司",
+      "quantitative_info": null,
+      "quote": "新能源技术公司取得电力涉网试验CMA资质"
+    },
+    {
+      "name": "国家自然基金项目和省部级重大项目",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "获批1项国家自然基金项目和4项省部级重大项目",
+      "quote": "获批1项国家自然基金项目和4项省部级重大项目"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14,330,100,874.76元，占比82.04%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "1 国家电网有限公司 14,330,100,874.76 82.04%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "15,967,949,269.92元，占比91.42%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 15,967,949,269.92 前五名客户合计销售金额占年度销售总额比例 91.42%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1,434,005,368.34元，占比19.80%",
+      "related_entity": "中煤（武汉）销售有限公司",
+      "period": "2025年",
+      "quote": "1 中煤（武汉）销售有限公司 1,434,005,368.34 19.80%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "4,173,877,903.23元，占比57.62%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 4,173,877,903.23 前五名供应商合计采购金额占年度采购总额比例 57.62%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场竞争加剧风险：随着湖北省内新能源装机持续增长，电力供需整体趋向宽松，新能源消纳压力加大的同时，也挤占火电空间，机组利用小时数呈下降走势。此外，随着新能源入市交易规模持续扩大，对市场价格造成冲击，市场竞争加剧或对公司总体收益产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.电力市场竞争加剧风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "清江流域来水不稳定风险：公司主要水电机组位于清江流域，清江流域来水具有不稳定性和年度不均衡性，将对公司当年的发电量及经营业绩产生影响。",
+      "related_entity": null,
+      "related_product": "水力发电",
+      "quote": "2.清江流域来水不稳定风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全生产风险：公司主营业务包括水电、火电、风电等发电业务，拥有众多发电机组，同时运营天然气业务，还有多个在建工程项目。上述业务在生产经营过程中，涉及高压设备、旋转机械、易燃易爆介质及高空、有限空间等高风险作业环节，受设备故障、自然灾害、第三方作业风险等因素影响，存在引发人身伤害、设备损坏等安全事故的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.安全生产风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司积极应对136号文带来的电价变化影响，动态优化交易策略。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "积极应对136号文带来的电价变化影响"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "由于全省新能源、水电本期发电量增加，火力发电空间受挤压，发电量减少，叠加省内电力市场化交易竞争加剧影响，火电上网电价整体下降，公司本期火电业务收入同比减少17.95亿元。",
+      "related_entity": null,
+      "related_product": "火力发电",
+      "quote": "一是由于本期全省新能源、水电发电量增加，火力发电空间受挤压，发电量减少，叠加省内电力市场化交易竞争加剧影响，火电上网电价整体下降，公司本期火电业务收入同比减少17.95亿元"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "因上游气源价格上涨及市场竞争加剧，天然气业务收入同比减少2.95亿元。",
+      "related_entity": null,
+      "related_product": "天然气业务",
+      "quote": "三是因上游气源价格上涨及市场竞争加剧，天然气业务收入同比减少2.95亿元"
+    }
+  ]
+}

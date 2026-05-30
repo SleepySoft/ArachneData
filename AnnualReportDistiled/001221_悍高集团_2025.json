@@ -1,0 +1,581 @@
+{
+  "company_name_mentioned": "悍高集团股份有限公司",
+  "produces": [
+    {
+      "name": "收纳五金",
+      "type": "component",
+      "revenue_proportion": "2025年实现销售收入10.42亿元，同比增长21.59%，占营业收入比重为28.99%。",
+      "quote": "2025年度，公司收纳五金业务实现销售收入10.42亿元，同比增长21.59%，是公司业绩增长的稳定基石。"
+    },
+    {
+      "name": "基础五金",
+      "type": "component",
+      "revenue_proportion": "2025年实现销售收入16.79亿元，同比增长37.18%，占营业收入比重为46.70%。",
+      "quote": "2025年度，公司基础五金业务实现销售收入16.79亿元，同比增长37.18%，是公司业绩增长的核心引擎。"
+    },
+    {
+      "name": "厨卫五金",
+      "type": "component",
+      "revenue_proportion": "2025年实现销售收入4.48亿元，同比增长23.92%，占营业收入比重为12.46%。",
+      "quote": "2025年度，公司厨卫五金业务实现销售收入4.48亿元，同比增长23.92%，公司战略聚焦的核心品类。"
+    },
+    {
+      "name": "户外家具",
+      "type": "device",
+      "revenue_proportion": "2025年度，实现销售收入2.42亿元，占营业收入比重为6.73%。",
+      "quote": "2025年度，实现销售收入2.42亿元，公司坚持高端化、设计驱动的品牌定位，户外家具产品销往全球超110个国家和地区。"
+    },
+    {
+      "name": "智能五金（智能升降机、智能水槽等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司已成功将智能升降机、智能水槽等研发成果转化成市场产品，顺利完成了智能品类的初步布局。"
+    },
+    {
+      "name": "卫浴产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在卫浴空间方向，公司正通过整合卫浴五金、智能马桶、浴室柜、淋浴房等产品线，聚焦一体化卫浴解决方案。"
+    },
+    {
+      "name": "柜类照明",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "柜类照明业务则依托公司在定制家居渠道的协同优势，精准对接整体柜类产品需求，提供专业的光环境配套服务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铁型材",
+      "target_product": "家居五金及户外家具",
+      "cost_proportion": null,
+      "quote": "公司实行按需采购、合理备货的采购策略；原材料采购主要包括铁型材、铝型材、不锈钢等生产用基础物料。"
+    },
+    {
+      "name": "铝型材",
+      "target_product": "家居五金及户外家具",
+      "cost_proportion": null,
+      "quote": "公司实行按需采购、合理备货的采购策略；原材料采购主要包括铁型材、铝型材、不锈钢等生产用基础物料。"
+    },
+    {
+      "name": "不锈钢",
+      "target_product": "家居五金及户外家具",
+      "cost_proportion": null,
+      "quote": "公司实行按需采购、合理备货的采购策略；原材料采购主要包括铁型材、铝型材、不锈钢等生产用基础物料。"
+    },
+    {
+      "name": "OEM及成品（拉篮、铰链、导轨、龙头及卫浴产品等）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "OEM及成品采购由合作厂商按照公司设计标准与品质要求组织生产，主要包括拉篮、铰链、导轨、拉伸盘、龙头及卫浴产品等。"
+    },
+    {
+      "name": "委外加工（电镀电解、热处理等非核心工序）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "基于环境保护、成本效益等因素，公司将电镀电解、热处理等非核心工序实施委外加工。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "厨房空间",
+      "source_product": "收纳五金、基础五金、厨卫五金等",
+      "quote": "公司产品应用场景丰富，覆盖厨房、浴室、卧室、餐厅及庭院等居家及户外空间。"
+    },
+    {
+      "name": "浴室空间",
+      "source_product": "厨卫五金、卫浴产品等",
+      "quote": "公司产品应用场景丰富，覆盖厨房、浴室、卧室、餐厅及庭院等居家及户外空间。"
+    },
+    {
+      "name": "卧室空间",
+      "source_product": "收纳五金、基础五金等",
+      "quote": "公司产品应用场景丰富，覆盖厨房、浴室、卧室、餐厅及庭院等居家及户外空间。"
+    },
+    {
+      "name": "庭院/户外空间",
+      "source_product": "户外家具",
+      "quote": "公司产品应用场景丰富，覆盖厨房、浴室、卧室、餐厅及庭院等居家及户外空间。"
+    },
+    {
+      "name": "全屋定制",
+      "source_product": "收纳五金、基础五金、厨卫五金、柜类照明等",
+      "quote": "广泛应用于居家焕新、全屋定制、工程配套、整装零售等多元应用场景。"
+    },
+    {
+      "name": "工程配套",
+      "source_product": "收纳五金、基础五金、厨卫五金等",
+      "quote": "广泛应用于居家焕新、全屋定制、工程配套、整装零售等多元应用场景。"
+    },
+    {
+      "name": "存量房翻新",
+      "source_product": "收纳五金、基础五金等",
+      "quote": "公司着力发展‘全屋收纳旧改店’两大核心业态。其中，全屋收纳旧改店则精准切入存量房翻新市场。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "欧锦锋",
+      "role": "董事长、总经理",
+      "quote": "公司负责人欧锦锋... 2020年9月至今，任悍高集团董事长、总经理。"
+    },
+    {
+      "name": "欧锦丽",
+      "role": "董事、副总经理",
+      "quote": "欧锦丽女士... 2020年9月至今，任悍高集团董事、副总经理。"
+    },
+    {
+      "name": "孙国华",
+      "role": "董事、户外家具事业部总经理",
+      "quote": "孙国华先生... 2020年9月至今，任悍高集团董事、户外家具事业部总经理。"
+    },
+    {
+      "name": "汪宝春",
+      "role": "职工代表董事、功能五金事业部总经理",
+      "quote": "汪宝春先生... 2025年9月至今，任悍高集团职工代表董事、功能五金事业部总经理。"
+    },
+    {
+      "name": "张永鹤",
+      "role": "独立董事",
+      "quote": "张永鹤先生... 2020年9月至今，任悍高集团独立董事。"
+    },
+    {
+      "name": "李丹",
+      "role": "独立董事",
+      "quote": "李丹女士... 2026年1月至今，任悍高集团独立董事。"
+    },
+    {
+      "name": "周秀舟",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人周秀舟... 2022年1月至今，任悍高集团财务总监。"
+    },
+    {
+      "name": "夏祺",
+      "role": "副总经理、董事会秘书",
+      "quote": "夏祺先生... 2025年11月至今，任悍高集团副总经理、董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广东悍高家居科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "五金产品研发、生产及销售",
+      "quote": "广东悍高家居科技有限公司 子公司... 主要业务：五金产品研发、生产及销售。"
+    },
+    {
+      "name": "广东悍高销售有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "五金产品销售",
+      "quote": "广东悍高销售有限公司 子公司... 主要业务：五金产品销售。"
+    },
+    {
+      "name": "佛山市顺德区悍高家具制品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "户外家居研发、生产及销售",
+      "quote": "佛山市顺德区悍高家具制品有限公司 子公司... 主要业务：户外家居研发、生产及销售。"
+    },
+    {
+      "name": "佛山市悍高电子商务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "执行董事欧锦锋",
+      "quote": "佛山市悍高电子商务有限公司 执行董事：欧锦锋。"
+    },
+    {
+      "name": "佛山市顺德区伟高展示科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "执行董事欧锦锋",
+      "quote": "佛山市顺德区伟高展示科技有限公司 执行董事：欧锦锋。"
+    },
+    {
+      "name": "佛山市悍格电商科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "执行董事欧锦锋",
+      "quote": "佛山市悍格电商科技有限公司 执行董事：欧锦锋。"
+    },
+    {
+      "name": "佛山市悍高云商科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "经理欧锦锋",
+      "quote": "佛山市悍高云商科技有限公司 经理：欧锦锋。"
+    },
+    {
+      "name": "佛山市安格斯电商科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "执行董事欧锦锋",
+      "quote": "佛山市安格斯电商科技有限公司 执行董事：欧锦锋。"
+    },
+    {
+      "name": "佛山悍飞电子商务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "执行董事欧锦锋",
+      "quote": "佛山悍飞电子商务有限公司 执行董事：欧锦锋。"
+    },
+    {
+      "name": "佛山市悍格电器电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "执行董事欧锦锋",
+      "quote": "佛山市悍格电器电子科技有限公司 执行董事：欧锦锋。"
+    },
+    {
+      "name": "广东悍高投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "执行董事、经理欧锦丽",
+      "quote": "广东悍高投资有限公司 执行董事、经理：欧锦丽。"
+    },
+    {
+      "name": "广东悍高精密科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "经理欧锦丽",
+      "quote": "广东悍高精密科技有限公司 经理：欧锦丽。"
+    },
+    {
+      "name": "华兴会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计服务",
+      "quote": "公司聘请的会计师事务所：华兴会计师事务所（特殊普通合伙）。"
+    },
+    {
+      "name": "国泰海通证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "保荐及持续督导服务",
+      "quote": "公司聘请的报告期内履行持续督导职责的保荐机构：国泰海通证券股份有限公司。"
+    },
+    {
+      "name": "佛山悍德家居用品有限公司",
+      "relation_type": "customer",
+      "business_details": "实际控制人之配偶的妹妹林绿苗及配偶林培超控制的企业，2025年销售金额4,036.89万元。",
+      "quote": "关联方：佛山悍德家居用品有限公司... 关联关系：实际控制人欧锦锋之配偶的妹妹林绿苗及配偶林培超控制的企业... 关联交易金额（万元）：4,036.89。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "家居五金业",
+      "segment_type": "product_line",
+      "revenue_amount": "3,168,553,927.77元",
+      "revenue_proportion": "88.15%",
+      "gross_margin": "38.31%",
+      "yoy_change": "29.74%",
+      "quote": "分行业 家居五金业 营业收入 3,168,553,927.77 占营业收入比重 88.15% 营业收入比上年同期增减 29.74%。"
+    },
+    {
+      "name": "户外家具业",
+      "segment_type": "product_line",
+      "revenue_amount": "242,050,859.67元",
+      "revenue_proportion": "6.73%",
+      "gross_margin": null,
+      "yoy_change": "-7.66%",
+      "quote": "分行业 户外家具业 营业收入 242,050,859.67 占营业收入比重 6.73% 营业收入比上年同期增减 -7.66%。"
+    },
+    {
+      "name": "线下经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,928,217,107.79元",
+      "revenue_proportion": "53.64%",
+      "gross_margin": "37.94%",
+      "yoy_change": "19.83%",
+      "quote": "分销售模式 线下经销 营业收入 1,928,217,107.79 占营业收入比重 53.64% 营业收入比上年同期增减 19.83%。"
+    },
+    {
+      "name": "线下直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "267,064,104.22元",
+      "revenue_proportion": "7.43%",
+      "gross_margin": null,
+      "yoy_change": "14.41%",
+      "quote": "分销售模式 线下直销 营业收入 267,064,104.22 占营业收入比重 7.43% 营业收入比上年同期增减 14.41%。"
+    },
+    {
+      "name": "电商模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "459,075,992.03元",
+      "revenue_proportion": "12.77%",
+      "gross_margin": "43.53%",
+      "yoy_change": "47.01%",
+      "quote": "分销售模式 电商模式 营业收入 459,075,992.03 占营业收入比重 12.77% 营业收入比上年同期增减 47.01%。"
+    },
+    {
+      "name": "云商模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "491,201,918.69元",
+      "revenue_proportion": "13.66%",
+      "gross_margin": "38.56%",
+      "yoy_change": "66.99%",
+      "quote": "分销售模式 云商模式 营业收入 491,201,918.69 占营业收入比重 13.66% 营业收入比上年同期增减 66.99%。"
+    },
+    {
+      "name": "出口",
+      "segment_type": "sales_channel",
+      "revenue_amount": "366,553,487.93元",
+      "revenue_proportion": "10.20%",
+      "gross_margin": "35.78%",
+      "yoy_change": "4.04%",
+      "quote": "分销售模式 出口 营业收入 366,553,487.93 占营业收入比重 10.20% 营业收入比上年同期增减 4.04%。"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "3,145,559,122.73元",
+      "revenue_proportion": "87.50%",
+      "gross_margin": "37.94%",
+      "yoy_change": "28.44%",
+      "quote": "分地区 境内 营业收入 3,145,559,122.73 占营业收入比重 87.50% 营业收入比上年同期增减 28.44%。"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "366,553,487.93元",
+      "revenue_proportion": "10.20%",
+      "gross_margin": "35.78%",
+      "yoy_change": "4.04%",
+      "quote": "分地区 境外 营业收入 366,553,487.93 占营业收入比重 10.20% 营业收入比上年同期增减 4.04%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "家居五金",
+      "metric_type": "sales_volume",
+      "value": "36,240.43万件",
+      "period": "2025年",
+      "quote": "行业分类：家居五金业 项目：销售量 单位：万件 2025年：36,240.43。"
+    },
+    {
+      "product": "家居五金",
+      "metric_type": "production_volume",
+      "value": "36,631.84万件",
+      "period": "2025年",
+      "quote": "行业分类：家居五金业 项目：生产量 单位：万件 2025年：36,631.84。"
+    },
+    {
+      "product": "家居五金",
+      "metric_type": "inventory_volume",
+      "value": "936.61万件",
+      "period": "2025年末",
+      "quote": "行业分类：家居五金业 项目：库存量 单位：万件 2025年：936.61。"
+    },
+    {
+      "product": "户外家具",
+      "metric_type": "sales_volume",
+      "value": "21.20万套",
+      "period": "2025年",
+      "quote": "行业分类：户外家具业 项目：销售量 单位：万套 2025年：21.20。"
+    },
+    {
+      "product": "户外家具",
+      "metric_type": "production_volume",
+      "value": "21.16万套",
+      "period": "2025年",
+      "quote": "行业分类：户外家具业 项目：生产量 单位：万套 2025年：21.16。"
+    },
+    {
+      "product": "户外家具",
+      "metric_type": "inventory_volume",
+      "value": "2.56万套",
+      "period": "2025年末",
+      "quote": "行业分类：户外家具业 项目：库存量 单位：万套 2025年：2.56。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "星际总部",
+      "project_type": "construction_project",
+      "location": "广东省佛山市顺德区杏坛镇顺业东路36号",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成",
+      "expected_completion_time": null,
+      "quote": "公司已建成星际总部基地、六角大楼基地两大核心智能制造基地。"
+    },
+    {
+      "name": "六角大楼",
+      "project_type": "construction_project",
+      "location": "广东省佛山市顺德区杏坛镇光华德彦工业区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成",
+      "expected_completion_time": null,
+      "quote": "公司已建成星际总部基地、六角大楼基地两大核心智能制造基地。"
+    },
+    {
+      "name": "独角兽五金智造基地",
+      "project_type": "capacity_expansion",
+      "location": "广东省佛山市顺德区杏坛镇麦村工业区",
+      "investment_amount": "自筹资金投入约24，145.53万元",
+      "designed_capacity": null,
+      "progress": "正在建设中",
+      "expected_completion_time": null,
+      "quote": "公司正在建设中的独角兽五金智造基地... 截至报告期末累计实际投入金额24，145，533.58元。"
+    },
+    {
+      "name": "超时空要塞基地",
+      "project_type": "construction_project",
+      "location": "广东省佛山市顺德高新区二期SD-I-05-01-02-08地块",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正在规划中",
+      "expected_completion_time": null,
+      "quote": "公司正在规划中的超时空要塞基地，位于广东省佛山市顺德高新区二期SD-I-05-01-02-08地块。"
+    },
+    {
+      "name": "悍高智慧家居五金自动化制造基地",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资37，000.00万元，实际已投入37，000.00万元",
+      "designed_capacity": null,
+      "progress": "已投资完毕",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目：悍高智慧家居五金自动化制造基地... 承诺投资总额37，000.00万元，实际投入金额37，000.00万元，投资进度100.00%，项目达到预定可使用状态日期2026年12月31日。"
+    },
+    {
+      "name": "悍高集团研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资3，000.00万元，实际已投入3，000.00万元",
+      "designed_capacity": null,
+      "progress": "已投资完毕",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目：悍高集团研发中心建设项目... 承诺投资总额3，000.00万元，实际投入金额3，000.00万元，投资进度100.00%，项目达到预定可使用状态日期2026年12月31日。"
+    },
+    {
+      "name": "悍高集团信息化建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资2，000.00万元，实际已投入1，405.63万元",
+      "designed_capacity": null,
+      "progress": "进行中（70.28%）",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目：悍高集团信息化建设项目... 承诺投资总额2，000.00万元，实际投入金额1，405.63万元，投资进度70.28%，项目达到预定可使用状态日期2026年12月31日。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "境内外专利",
+      "asset_type": "patent",
+      "related_product": "家居五金及户外家具",
+      "quantitative_info": "累计拥有境内外专利1，235项。",
+      "quote": "截至2025年12月31日，公司累计拥有境内外专利1，235项。"
+    },
+    {
+      "name": "德国红点设计奖",
+      "asset_type": "certification",
+      "related_product": "家居五金产品",
+      "quantitative_info": "累计获得德国红点设计奖13次。",
+      "quote": "产品累计获得德国红点设计奖13次。"
+    },
+    {
+      "name": "德国iF设计奖",
+      "asset_type": "certification",
+      "related_product": "家居五金产品",
+      "quantitative_info": "累计获得德国IF设计奖17次。",
+      "quote": "产品累计获得德国IF设计奖17次。"
+    },
+    {
+      "name": "《家用厨房设备》标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定",
+      "quote": "曾参与《家用厨房设备》《家居用功能五金拉篮》...等国家及行业标准的制订。"
+    },
+    {
+      "name": "《家居用功能五金拉篮》标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定",
+      "quote": "曾参与《家用厨房设备》《家居用功能五金拉篮》...等国家及行业标准的制订。"
+    },
+    {
+      "name": "《智能净化清洗不锈钢水槽》标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定",
+      "quote": "曾参与...《智能净化清洗不锈钢水槽》...等国家及行业标准的制订。"
+    },
+    {
+      "name": "《柜类照明用LED灯具通用技术要求》标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定",
+      "quote": "曾参与...《柜类照明用LED灯具通用技术要求》等国家及行业标准的制订。"
+    },
+    {
+      "name": "铰链杯内缓冲技术",
+      "asset_type": "process_technology",
+      "related_product": "铰链",
+      "quantitative_info": null,
+      "quote": "本技术采用杯内缓冲铰链装置，设置锁定机构，使得用户可以灵活控制铰链缓冲助力功能状态。"
+    },
+    {
+      "name": "隐藏式暗装铰链技术",
+      "asset_type": "process_technology",
+      "related_product": "铰链",
+      "quantitative_info": null,
+      "quote": "实现铰链完全隐藏式安装，适配超薄柜体结构，不影响门板外观一体化效果。"
+    },
+    {
+      "name": "双电机的升降拉篮升降控制技术",
+      "asset_type": "process_technology",
+      "related_product": "智能收纳产品",
+      "quantitative_info": null,
+      "quote": "解决负载不均衡工况下双电机同步精度不足的问题，实现了高精度、高动态的同步升降。"
+    },
+    {
+      "name": "水槽微晶纳米PVD技术",
+      "asset_type": "process_technology",
+      "related_product": "水槽",
+      "quantitative_info": null,
+      "quote": "本技术采用微晶纳米PVD技术，实现水槽高效抗污、抗刮与易清洁特性。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "7.80%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 7.80%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "28.60%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 28.60%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "家居五金行业市场空间广阔，但竞争格局较为分散。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "家居五金行业市场空间广阔，但竞争格局较为分散。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料包括铁型材、不锈钢、铝型材等，价格受宏观经济、市场供需等因素影响波动较大，若成本上涨无法有效传导，将对公司盈利能力产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要原材料包括铁型材、不锈钢、铝型材等，价格受宏观经济、市场供需等因素影响波动较大，若成本上涨无法有效传导，将对公司盈利能力产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济波动、国际贸易环境变化等因素，可能影响居民消费能力与消费意愿，进而对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "全球及国内宏观经济波动、国际贸易环境变化等因素，可能影响居民消费能力与消费意愿，进而对公司经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "房地产市场复苏仍存在一定不确定性。若未来行业景气度下行，可能对家居五金及户外家具市场需求产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "尽管行业相关支持政策逐步落地，但房地产市场复苏仍存在一定不确定性。若未来行业景气度下行，可能对家居五金及户外家具市场需求产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "行业内存在产品仿冒、设计侵权等情形，可能损害公司品牌形象及合法权益，对公司经营造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业内存在产品仿冒、设计侵权等情形，可能损害公司品牌形象及合法权益，对公司经营造成不利影响。"
+    }
+  ]
+}

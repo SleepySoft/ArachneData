@@ -1,0 +1,615 @@
+{
+  "company_name_mentioned": "内蒙古双欣环保材料股份有限公司",
+  "produces": [
+    {
+      "name": "聚乙烯醇",
+      "type": "material",
+      "revenue_proportion": "29.15%",
+      "quote": "公司主要从事聚乙烯醇、特种纤维、醋酸乙烯、电石等 PVA 产业链上下游产品的研发、生产、销售...聚乙烯醇收入10.45亿元，占比29.15%。"
+    },
+    {
+      "name": "特种纤维",
+      "type": "material",
+      "revenue_proportion": "3.56%",
+      "quote": "公司主要从事聚乙烯醇、特种纤维、醋酸乙烯、电石等 PVA 产业链上下游产品的研发、生产、销售...特种纤维收入1.28亿元，占比3.56%。"
+    },
+    {
+      "name": "醋酸乙烯",
+      "type": "material",
+      "revenue_proportion": "6.24%",
+      "quote": "公司主要从事聚乙烯醇、特种纤维、醋酸乙烯、电石等 PVA 产业链上下游产品的研发、生产、销售...醋酸乙烯收入2.24亿元，占比6.24%。"
+    },
+    {
+      "name": "电石",
+      "type": "material",
+      "revenue_proportion": "29.97%",
+      "quote": "公司主要从事聚乙烯醇、特种纤维、醋酸乙烯、电石等 PVA 产业链上下游产品的研发、生产、销售...电石收入10.75亿元，占比29.97%。"
+    },
+    {
+      "name": "聚合环保助剂",
+      "type": "material",
+      "revenue_proportion": "10.59%",
+      "quote": "聚合环保助剂收入3.80亿元，占比10.59%。"
+    },
+    {
+      "name": "PVB树脂及功能性膜",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "PVB树脂及功能性膜...报告期内，1.6万吨PVB树脂项目进入试生产阶段。"
+    },
+    {
+      "name": "PVA光学膜",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "PVA光学膜...一期年产700万㎡PVA光学膜项目2025年12月建成投产。"
+    },
+    {
+      "name": "DMC、EMC/DEC",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "DMC/EMC/DEC 产品作为锂电池电解液的溶剂...该项目于2025年11月进入试生产阶段。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "醋酸",
+      "target_product": "醋酸乙烯",
+      "cost_proportion": "13.58%",
+      "quote": "醋酸 询价采购 13.58%"
+    },
+    {
+      "name": "甲醇",
+      "target_product": null,
+      "cost_proportion": "5.96%",
+      "quote": "甲醇 询价采购 5.96%"
+    },
+    {
+      "name": "活性炭",
+      "target_product": null,
+      "cost_proportion": "1.17%",
+      "quote": "活性炭 询价采购 1.17%"
+    },
+    {
+      "name": "兰炭",
+      "target_product": "电石",
+      "cost_proportion": "15.03%",
+      "quote": "兰炭 询价采购 15.03%"
+    },
+    {
+      "name": "电极糊",
+      "target_product": "电石",
+      "cost_proportion": "3.98%",
+      "quote": "电极糊 询价采购 3.98%"
+    },
+    {
+      "name": "正丁醛",
+      "target_product": null,
+      "cost_proportion": "1.41%",
+      "quote": "正丁醛 询价采购 1.41%"
+    },
+    {
+      "name": "煤炭",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "煤炭 70,187,097.94...79,350,024.21"
+    },
+    {
+      "name": "电",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "电 449,790,863.10...417,686,835.48"
+    }
+  ],
+  "applications": [
+    {
+      "name": "精细化工",
+      "source_product": "聚乙烯醇",
+      "quote": "聚乙烯醇...广泛应用于精细化工、绿色建筑、造纸、纤维、汽车、可降解包装、光电、医药等领域"
+    },
+    {
+      "name": "绿色建筑",
+      "source_product": "聚乙烯醇、特种纤维",
+      "quote": "聚乙烯醇...广泛应用于...绿色建筑...领域；特种纤维...主要用于建筑领域"
+    },
+    {
+      "name": "造纸",
+      "source_product": "聚乙烯醇",
+      "quote": "聚乙烯醇...广泛应用于...造纸...等领域"
+    },
+    {
+      "name": "汽车",
+      "source_product": "聚乙烯醇、PVB树脂及功能性膜",
+      "quote": "聚乙烯醇...广泛应用于...汽车...领域；PVB 作为高性能树脂...被广泛用于制造建筑、汽车的玻璃中间膜"
+    },
+    {
+      "name": "光电",
+      "source_product": "聚乙烯醇、PVA光学膜",
+      "quote": "聚乙烯醇...广泛应用于...光电...领域；PVA光学膜是生产偏光片的核心关键材料，终端应用于液晶电视、手机、平板...等各类液晶显示设备"
+    },
+    {
+      "name": "可降解包装",
+      "source_product": "聚乙烯醇",
+      "quote": "聚乙烯醇...广泛应用于...可降解包装...等领域"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "DMC/EMC/DEC",
+      "quote": "DMC/EMC/DEC 产品作为锂电池电解液的溶剂，广泛应用于新能源汽车、储能、消费电子及电动工具等领域"
+    },
+    {
+      "name": "聚氯乙烯（PVC）",
+      "source_product": "聚合环保助剂、电石",
+      "quote": "聚合环保助剂...主要应用于聚氯乙烯（PVC）、水溶膜、特种纸、功能性膜等领域；电石...主要用于生产聚氯乙烯..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张飞雄",
+      "role": "董事长",
+      "quote": "公司负责人张飞雄...董事长张飞雄"
+    },
+    {
+      "name": "刘志勇",
+      "role": "董事、总经理兼财务总监",
+      "quote": "主管会计工作负责人刘志勇...董事、总经理兼财务总监刘志勇"
+    },
+    {
+      "name": "乔玉华",
+      "role": "董事、实际控制人",
+      "quote": "实际控制人乔玉华...董事乔玉华"
+    },
+    {
+      "name": "吴远友",
+      "role": "职工代表董事（离任）",
+      "quote": "职工代表董事吴远友...离任"
+    },
+    {
+      "name": "安志敏",
+      "role": "副总经理兼董事会秘书",
+      "quote": "董事会秘书 安志敏"
+    },
+    {
+      "name": "王旭鸿",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）王旭鸿"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "鄂尔多斯市双欣化学工业有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司控股子公司...生产、销售电石、DMC、EMC、DEC、水泥熟料",
+      "quote": "双欣化学 指 鄂尔多斯市双欣化学工业有限责任公司，系公司控股子公司"
+    },
+    {
+      "name": "内蒙古双欣高分子材料技术研究院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司控股子公司...从事PVA高分子材料研发",
+      "quote": "双欣研究院 指 内蒙古双欣高分子材料技术研究院有限公司，系公司控股子公司"
+    },
+    {
+      "name": "GOHSEI SHUANGXIN （HONG KONG） LIMITED",
+      "relation_type": "investor",
+      "business_details": "系公司参股公司",
+      "quote": "香港高先 指 GOHSEI SHUANGXIN （HONG KONG） LIMITED，高先双欣（香港）有限公司，系公司参股公司"
+    },
+    {
+      "name": "重庆光谱新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司控股子公司...生产、销售PVA光学膜",
+      "quote": "重庆光谱 指 重庆光谱新材料科技有限公司，系公司控股子公司"
+    },
+    {
+      "name": "鄂尔多斯市双欣新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司控股子公司...生产、销售PVB树脂",
+      "quote": "双欣新材料 指 鄂尔多斯市双欣新材料有限公司，系公司控股子公司"
+    },
+    {
+      "name": "鄂尔多斯市凯思创新材料有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "双欣化学参股公司",
+      "quote": "凯思创新材 指 鄂尔多斯市凯思创新材料有限公司，系双欣化学参股公司"
+    },
+    {
+      "name": "内蒙古双欣能源化工有限公司",
+      "relation_type": "investor",
+      "business_details": "系公司控股股东",
+      "quote": "双欣化工 指 内蒙古双欣能源化工有限公司，系公司控股股东"
+    },
+    {
+      "name": "三菱化学株式会社",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "MCC、三菱化学 指 三菱化学株式会社"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化工行业",
+      "segment_type": "product_line",
+      "revenue_amount": "2,691,234,316.50",
+      "revenue_proportion": "75.07%",
+      "gross_margin": "19.90%",
+      "yoy_change": "-8.11%",
+      "quote": "化工行业 2,691,234,316.50 75.07%... -8.11%"
+    },
+    {
+      "name": "新材料行业",
+      "segment_type": "product_line",
+      "revenue_amount": "537,130,689.24",
+      "revenue_proportion": "14.98%",
+      "gross_margin": "33.24%",
+      "yoy_change": "124.44%",
+      "quote": "新材料行业 537,130,689.24 14.98%...124.44%"
+    },
+    {
+      "name": "电石",
+      "segment_type": "product_line",
+      "revenue_amount": "1,074,503,473.74",
+      "revenue_proportion": "29.97%",
+      "gross_margin": "15.82%",
+      "yoy_change": "-16.90%",
+      "quote": "电石 1,074,503,473.74 29.97%... -16.90%"
+    },
+    {
+      "name": "聚乙烯醇",
+      "segment_type": "product_line",
+      "revenue_amount": "1,044,968,135.72",
+      "revenue_proportion": "29.15%",
+      "gross_margin": "31.77%",
+      "yoy_change": "-13.45%",
+      "quote": "聚乙烯醇 1,044,968,135.72 29.15%... -13.45%"
+    },
+    {
+      "name": "聚合环保助剂",
+      "segment_type": "product_line",
+      "revenue_amount": "379,748,276.40",
+      "revenue_proportion": "10.59%",
+      "gross_margin": "41.49%",
+      "yoy_change": "63.00%",
+      "quote": "聚合环保助剂 379,748,276.40 10.59%...63.00%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "2,974,807,624.78",
+      "revenue_proportion": "82.98%",
+      "gross_margin": "20.94%",
+      "yoy_change": "-2.18%",
+      "quote": "境内 2,974,807,624.78 82.98%... -2.18%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "610,012,198.58",
+      "revenue_proportion": "17.02%",
+      "gross_margin": "31.53%",
+      "yoy_change": "37.02%",
+      "quote": "境外 610,012,198.58 17.02%...37.02%"
+    },
+    {
+      "name": "生产商",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,143,971,957.63",
+      "revenue_proportion": "59.81%",
+      "gross_margin": "21.05%",
+      "yoy_change": "-2.61%",
+      "quote": "生产商 2,143,971,957.63 59.81%... -2.61%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "PVA",
+      "metric_type": "capacity",
+      "value": "13万吨",
+      "period": "2025年",
+      "quote": "PVA 设计产能 13万吨"
+    },
+    {
+      "product": "PVA",
+      "metric_type": "capacity_utilization",
+      "value": "88.38%",
+      "period": "2025年",
+      "quote": "PVA 产能利用率 88.38%"
+    },
+    {
+      "product": "电石",
+      "metric_type": "capacity",
+      "value": "87万吨",
+      "period": "2025年",
+      "quote": "电石 设计产能 87万吨"
+    },
+    {
+      "product": "电石",
+      "metric_type": "capacity_utilization",
+      "value": "87.21%",
+      "period": "2025年",
+      "quote": "电石 产能利用率 87.21%"
+    },
+    {
+      "product": "醋酸乙烯",
+      "metric_type": "capacity",
+      "value": "30万吨",
+      "period": "2025年",
+      "quote": "醋酸乙烯 设计产能 30万吨"
+    },
+    {
+      "product": "醋酸乙烯",
+      "metric_type": "capacity_utilization",
+      "value": "103.23%",
+      "period": "2025年",
+      "quote": "醋酸乙烯 产能利用率 103.23%"
+    },
+    {
+      "product": "特种纤维",
+      "metric_type": "capacity",
+      "value": "3万吨",
+      "period": "2025年",
+      "quote": "特种纤维 设计产能 3万吨"
+    },
+    {
+      "product": "特种纤维",
+      "metric_type": "capacity_utilization",
+      "value": "27.45%",
+      "period": "2025年",
+      "quote": "特种纤维 产能利用率 27.45%"
+    },
+    {
+      "product": "聚合环保助剂",
+      "metric_type": "capacity",
+      "value": "3万吨",
+      "period": "2025年",
+      "quote": "聚合环保助剂 设计产能 3万吨"
+    },
+    {
+      "product": "聚合环保助剂",
+      "metric_type": "capacity_utilization",
+      "value": "97.46%",
+      "period": "2025年",
+      "quote": "聚合环保助剂 产能利用率 97.46%"
+    },
+    {
+      "product": "PVA光学膜",
+      "metric_type": "capacity",
+      "value": "700万㎡",
+      "period": "2025年",
+      "quote": "PVA光学膜 设计产能 700万㎡"
+    },
+    {
+      "product": "PVA光学膜",
+      "metric_type": "capacity",
+      "value": "1000万㎡",
+      "period": "在建",
+      "quote": "在建产能 1000万㎡"
+    },
+    {
+      "product": "聚乙烯醇",
+      "metric_type": "production_volume",
+      "value": "11.49万吨",
+      "period": "2025年",
+      "quote": "2025年公司聚乙烯醇产量11.49万吨"
+    },
+    {
+      "product": "聚乙烯醇",
+      "metric_type": "sales_volume",
+      "value": "100,038.97吨",
+      "period": "2025年",
+      "quote": "聚乙烯醇 销量 100,038.97吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "一期年产700万㎡PVA光学膜项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "700万㎡",
+      "progress": "2025年12月建成投产",
+      "expected_completion_time": "2025年12月",
+      "quote": "一期年产700万㎡PVA光学膜项目2025年12月建成投产"
+    },
+    {
+      "name": "二期年产1000万㎡新型显示用PVA光学膜项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "1000万㎡",
+      "progress": "已完成主要设备的订购，2026年4月份开始土建施工",
+      "expected_completion_time": null,
+      "quote": "二期年产1000万㎡新型显示用PVA光学膜项目已完成主要设备的订购，2026年4月份开始土建施工"
+    },
+    {
+      "name": "年产1.6万吨PVB树脂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "1.6万吨",
+      "progress": "2025年10月进入试生产阶段",
+      "expected_completion_time": null,
+      "quote": "其中年产1.6万吨PVB树脂项目2025年10月进入试生产阶段"
+    },
+    {
+      "name": "PVB功能性膜项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "0.533万吨",
+      "progress": "2025年9月进入试生产阶段",
+      "expected_completion_time": null,
+      "quote": "PVB功能性膜 0.533万吨 该项目于2025年9月进入试生产阶段"
+    },
+    {
+      "name": "DMC项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "10万吨",
+      "progress": "2025年11月进入试生产阶段",
+      "expected_completion_time": null,
+      "quote": "DMC 10万吨 该项目于2025年11月进入试生产阶段"
+    },
+    {
+      "name": "EMC/DEC项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "3万吨",
+      "progress": "2025年11月进入试生产阶段",
+      "expected_completion_time": null,
+      "quote": "EMC/DEC 3万吨 该项目于2025年11月进入试生产阶段"
+    },
+    {
+      "name": "工业尾气综合利用年产10万吨DMC配套年产3万吨锂电池用EMC/DEC项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "934,799,423.63元",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "工业尾气综合利用年产10万吨DMC配套年产3万吨锂电池用EMC/DEC项目...投资进度100.00%"
+    },
+    {
+      "name": "年产1.6万吨PVB树脂及年产1.6万吨PVB功能性膜项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "55,731.26万元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": "2027年06月30日",
+      "quote": "年产1.6万吨PVB树脂及年产1.6万吨PVB功能性膜项目...承诺投资总额55,731.26万元...项目达到预定可使用状态日期2027年06月30日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "PVA相关专利",
+      "asset_type": "patent",
+      "related_product": "聚乙烯醇",
+      "quantitative_info": "8项发明专利、30项实用新型专利",
+      "quote": "PVA 已取得8项发明专利、30项实用新型专利"
+    },
+    {
+      "name": "醋酸乙烯相关专利",
+      "asset_type": "patent",
+      "related_product": "醋酸乙烯",
+      "quantitative_info": "2项发明专利、19项实用新型专利",
+      "quote": "醋酸乙烯 已取得2项发明专利、19项实用新型专利"
+    },
+    {
+      "name": "特种纤维相关专利",
+      "asset_type": "patent",
+      "related_product": "特种纤维",
+      "quantitative_info": "3项发明专利、18项实用新型专利",
+      "quote": "特种纤维 已取得3项发明专利、18项实用新型专利"
+    },
+    {
+      "name": "聚合环保助剂相关专利",
+      "asset_type": "patent",
+      "related_product": "聚合环保助剂",
+      "quantitative_info": "1项发明专利、3项实用新型专利",
+      "quote": "聚合环保助剂 已取得1项发明专利、3项实用新型专利"
+    },
+    {
+      "name": "PVB树脂相关专利",
+      "asset_type": "patent",
+      "related_product": "PVB树脂",
+      "quantitative_info": "1项实用新型专利",
+      "quote": "PVB树脂 已取得1项实用新型专利"
+    },
+    {
+      "name": "PVA光学膜相关专利",
+      "asset_type": "patent",
+      "related_product": "PVA光学膜",
+      "quantitative_info": "24项发明专利和2项实用新型专利",
+      "quote": "PVA光学膜 已取得24项发明专利和2项实用新型专利"
+    },
+    {
+      "name": "IATF16949汽车行业质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在行业内率先通过中国合格评定国家认可委员会（CNAS）实验室认可和 IATF16949 汽车行业质量管理体系认证"
+    },
+    {
+      "name": "CNAS实验室认可",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在行业内率先通过中国合格评定国家认可委员会（CNAS）实验室认可"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "10.13%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前5大客户资料：序号1 第一名 363,129,717.30 10.13%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "27.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额968,570,313.10 前五名客户合计销售金额占年度销售总额比例 27.02%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "42.00%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前5名供应商资料：序号1 第一名 865,122,045.65 42.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "63.26%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额1,302,904,304.01 前五名供应商合计采购金额占年度采购总额比例 63.26%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处的聚乙烯醇等功能性高分子材料和电石行业属于技术或资本密集型产业，具有一定的进入壁垒，但未来仍将面临新进入市场者以及现有竞争对手的竞争。",
+      "related_entity": null,
+      "related_product": "聚乙烯醇、电石",
+      "quote": "市场竞争风险：公司所处的聚乙烯醇等功能性高分子材料和电石行业属于技术或资本密集型产业，具有一定的进入壁垒，但未来仍将面临新进入市场者以及现有竞争对手的竞争。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司生产经营过程中会产生一定的废水、废气和固废等污染物。随着公司业务规模的扩大，仍不能完全排除由于各种原因造成污染物超标排放，或发生突发环保事故，从而对公司正常经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环境保护风险：公司生产经营过程中会产生一定的废水、废气和固废等污染物。随着公司业务规模的扩大，仍不能完全排除由于各种原因造成污染物超标排放，或发生突发环保事故，从而对公司正常经营产生不利影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司主要从事聚乙烯醇、电石等化工材料的研发、生产、销售，生产过程涉及危险化学品和危险废物，对设备安全性及人工操作适当性要求较高，存在一定的安全生产风险。",
+      "related_entity": null,
+      "related_product": "聚乙烯醇、电石",
+      "quote": "安全生产风险：公司主要从事聚乙烯醇、电石等化工材料的研发、生产、销售，生产过程涉及危险化学品和危险废物，对设备安全性及人工操作适当性要求较高，存在一定的安全生产风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受行业政策调整与经济运行周期等因素影响，未来公司可能面临原材料成本上涨及产品市场价格波动的经营风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业风险...未来公司可能面临原材料成本上涨及产品市场价格波动的经营风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例27.02%",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 27.02%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "前五名供应商合计采购金额占年度采购总额比例63.26%",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 63.26%"
+    }
+  ]
+}

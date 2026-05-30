@@ -1,0 +1,539 @@
+{
+  "company_name_mentioned": "南兴装备股份有限公司",
+  "produces": [
+    {
+      "name": "开料设备（如高速电脑裁板锯、智能开料工作站、木工柔性生产线等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司开料设备系列涵盖高速电脑裁板锯、智能开料工作站、木工柔性生产线等核心品类。"
+    },
+    {
+      "name": "封边设备（如智能封边机、激光封边机、高速自动封边机等）",
+      "type": "device",
+      "revenue_proportion": "自动封边机：18.04%",
+      "quote": "公司已构建覆盖全场景需求的封边设备矩阵，包括智能封边机、激光封边机、高速自动封边机...2025年，自动封边机营业收入 615,334,126.37 元，占营业收入比重 18.04%。"
+    },
+    {
+      "name": "钻孔设备（如数控排钻、六面数控钻孔中心等）",
+      "type": "device",
+      "revenue_proportion": "数控钻、多排钻：9.90%",
+      "quote": "公司自主研发的数控排钻系列产品...2025年，数控钻、多排钻营业收入 337,854,440.40 元，占营业收入比重 9.90%。"
+    },
+    {
+      "name": "裁板锯",
+      "type": "device",
+      "revenue_proportion": "裁板锯：6.02%",
+      "quote": "裁板锯...是板式家具机械的主要品种之一...2025年，裁板锯营业收入 205,439,200.88 元，占营业收入比重 6.02%。"
+    },
+    {
+      "name": "加工中心",
+      "type": "device",
+      "revenue_proportion": "加工中心：5.32%",
+      "quote": "针对当前全屋定制行业门墙柜一体化的主流趋势，公司自主研发门墙柜一体加工中心...2025年，加工中心营业收入 181,472,757.11 元，占营业收入比重 5.32%。"
+    },
+    {
+      "name": "智能工作站（如智能开料工作站、智能柔性封边连线、智能钻孔工作站、智能包装工作站）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司智能工作站及生产线包括：智能开料工作站，智能柔性封边连线，智能钻孔工作站，智能包装工作站等。"
+    },
+    {
+      "name": "智能生产线和解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司依托...推出全链路智能生产线整体解决方案，为客户提供从厂区规划、工艺设计、设备部署到系统集成的一站式交钥匙服务。"
+    },
+    {
+      "name": "云计算服务（边缘云、公有云、私有云、混合云及云管理服务）",
+      "type": "service",
+      "revenue_proportion": "IDC及云计算相关服务：56.80%",
+      "quote": "唯一网络...提供覆盖边缘云、公有云、私有云、混合云及云管理...2025年，IDC及云计算相关服务营业收入 1,937,873,522.46 元，占营业收入比重 56.80%。"
+    },
+    {
+      "name": "IDC业务（服务器及机柜租用、托管及带宽接入等）",
+      "type": "service",
+      "revenue_proportion": "IDC增值服务：0.44%",
+      "quote": "公司通过自建或租用标准化电信级专业机房，为客户提供服务器及机柜的租用、托管及带宽接入等服务...2025年，IDC增值服务营业收入 15,023,377.44 元，占营业收入比重 0.44%。"
+    },
+    {
+      "name": "MaaS（模型即服务）平台",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司以‘AI 原生基础设施+’战略升级为指引，打造 MaaS（模型即服务）平台对接行业大模型。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材、电器元件、标准件、非标加工零件等",
+      "target_product": "家具智能装备",
+      "cost_proportion": null,
+      "quote": "家具智能装备行业分类...直接材料占营业成本比重 77.29%...采购活动主要涵盖...非标加工零件，除了自主加工外，少量零部件采购需采用委托加工的方式定点采购。"
+    },
+    {
+      "name": "带宽、机柜、IP等基础资源",
+      "target_product": "IDC及云计算业务",
+      "cost_proportion": null,
+      "quote": "资源采购方面，公司向基础运营商采购带宽、机柜、IP 等基础资源。"
+    },
+    {
+      "name": "服务器、交换机、防火墙、GPU卡等算力设备",
+      "target_product": "IDC及云计算业务",
+      "cost_proportion": null,
+      "quote": "硬件设备采购方面，主要是向华为、浪潮、DELL 等制造商采购服务器、交换机、防火墙以及 GPU 卡等算力设备。"
+    },
+    {
+      "name": "机房建设服务、备用电源、电气设备、空调设备、机柜等",
+      "target_product": "IDC及云计算业务",
+      "cost_proportion": null,
+      "quote": "工程采购则涉及机房建设服务、备用电源、电气设备、空调设备、机柜等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家具制造（全屋定制、办公家具、酒店家具、出口家具、木门等）",
+      "source_product": "家具智能装备",
+      "quote": "用于全屋定制、办公家具、酒店家具、出口家具、木门等家具企业。"
+    },
+    {
+      "name": "人工智能、互联网、数字娱乐、政企、金融、电子商务、教育、医疗、物流、智能制造等行业",
+      "source_product": "IDC及云计算服务",
+      "quote": "累计服务超过5000家客户，覆盖人工智能、互联网、数字娱乐、政企、金融、电子商务、教育、医疗、物流、智能制造等多个行业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "詹谏醒",
+      "role": "董事长",
+      "quote": "公司负责人詹谏醒...保证本年度报告中财务报告的真实、准确、完整...詹谏醒女士...现任公司董事长。"
+    },
+    {
+      "name": "詹任宁",
+      "role": "董事、总经理",
+      "quote": "詹任宁先生...现任公司董事、总经理。"
+    },
+    {
+      "name": "文峰",
+      "role": "董事、副总经理",
+      "quote": "文峰先生...现任公司董事、副总经理。"
+    },
+    {
+      "name": "叶裕平",
+      "role": "董事、董事会秘书",
+      "quote": "叶裕平先生...现任公司董事、董事会秘书。"
+    },
+    {
+      "name": "李冲",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人李冲...保证本年度报告中财务报告的真实、准确、完整...李冲先生...现任公司财务总监。"
+    },
+    {
+      "name": "何健伟",
+      "role": "副总经理",
+      "quote": "何健伟先生...现任公司副总经理。"
+    },
+    {
+      "name": "檀福华",
+      "role": "副总经理",
+      "quote": "檀福华先生...现任公司副总经理。"
+    },
+    {
+      "name": "孟岩",
+      "role": "副总经理",
+      "quote": "孟岩先生...现任公司副总经理。"
+    },
+    {
+      "name": "黄小华",
+      "role": "副总经理、唯一网络创新生态业务部总经理",
+      "quote": "黄小华先生...现任公司副总经理、唯一网络创新生态业务部总经理。"
+    },
+    {
+      "name": "李玉何",
+      "role": "副总经理、唯一网络总裁",
+      "quote": "李玉何先生...现任公司副总经理、唯一网络总裁。"
+    },
+    {
+      "name": "蔡建发",
+      "role": "职工董事",
+      "quote": "蔡建发先生...现任公司职工董事、自动化项目部总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "东莞市南兴实业投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "东莞市南兴实业投资有限公司，公司控股股东。"
+    },
+    {
+      "name": "广东唯一网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，主营IDC及云计算相关服务",
+      "quote": "广东唯一网络科技有限公司，公司控股子公司。"
+    },
+    {
+      "name": "无锡南兴装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "无锡南兴装备有限公司，公司全资子公司。"
+    },
+    {
+      "name": "南兴装备（韶关）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "南兴装备（韶关）有限公司，公司全资子公司。"
+    },
+    {
+      "name": "东莞市遥遥领先智能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "东莞市遥遥领先智能科技有限公司，公司全资子公司。"
+    },
+    {
+      "name": "南兴云计算有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "南兴云计算有限公司，公司全资子公司。"
+    },
+    {
+      "name": "厦门市南兴工业互联网研究院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "厦门市南兴工业互联网研究院有限公司，公司全资子公司。"
+    },
+    {
+      "name": "广东志享信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "唯一网络控股子公司",
+      "quote": "广东志享信息科技有限公司，唯一网络控股子公司。"
+    },
+    {
+      "name": "厦门市世纪网通网络服务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "唯一网络全资子公司",
+      "quote": "厦门市世纪网通网络服务有限公司，唯一网络全资子公司。"
+    },
+    {
+      "name": "深圳市桥联网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "唯一网络全资子公司",
+      "quote": "深圳市桥联网络科技有限公司，唯一网络全资子公司。"
+    },
+    {
+      "name": "广州市云数承信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "唯一网络全资子公司",
+      "quote": "广州市云数承信息技术有限公司，唯一网络全资子公司。"
+    },
+    {
+      "name": "北京互通光联科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "唯一网络全资子公司",
+      "quote": "北京互通光联科技有限公司，唯一网络全资子公司。"
+    },
+    {
+      "name": "广东唯颐能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "唯一网络全资子公司",
+      "quote": "广东唯颐能源科技有限公司，唯一网络全资子公司。"
+    },
+    {
+      "name": "厦门市唯云网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "唯一网络全资子公司",
+      "quote": "厦门市唯云网络科技有限公司，唯一网络全资子公司。"
+    },
+    {
+      "name": "华为、浪潮、DELL",
+      "relation_type": "supplier",
+      "business_details": "IDC及云计算业务硬件设备供应商",
+      "quote": "硬件设备采购方面，主要是向华为、浪潮、DELL 等制造商采购服务器、交换机、防火墙以及 GPU 卡等算力设备。"
+    },
+    {
+      "name": "索菲亚、宜家家居 OEM 体系、慕思、顾家、欧派、兔宝宝、圣奥、金牌、志邦、恒林、博洛尼、鲁丽、曲美、好莱客、江山欧派、尚品宅配等",
+      "relation_type": "customer",
+      "business_details": "家具智能装备业务知名客户",
+      "quote": "公司产品已广泛被索菲亚、慕思、顾家、欧派、兔宝宝、圣奥、金牌、志邦、恒林、博洛尼、鲁丽、曲美、好莱客、江山欧派、尚品宅配、宜家家居 OEM 体系等知名家居品牌以及大量二三线有影响力的家居品牌企业所使用。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "家具智能装备",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,445,800,458.30元",
+      "revenue_proportion": "42.38%",
+      "gross_margin": "24.76%",
+      "yoy_change": "-20.43%",
+      "quote": "家具智能装备实现营业收入 144,580.05万元...2025年，家具智能装备业务实现营业收入 144,580.05万元...家具智能装备 1,445,800,458.30 42.38%...毛利率 24.76%。"
+    },
+    {
+      "name": "IDC及云计算",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,966,004,607.17元",
+      "revenue_proportion": "57.62%",
+      "gross_margin": "9.49%",
+      "yoy_change": "29.79%",
+      "quote": "IDC及云计算实现营业收入 196,600.46万元...2025年 IDC业务业绩实现稳步增长，实现营业收入 196,600.46万元...IDC及云计算 1,966,004,607.17 57.62%...毛利率 9.49%。"
+    },
+    {
+      "name": "境内地区",
+      "segment_type": "region",
+      "revenue_amount": "2,908,184,479.35元",
+      "revenue_proportion": "85.24%",
+      "gross_margin": "11.96%",
+      "yoy_change": "2.94%",
+      "quote": "境内地区 2,908,184,479.35 85.24%...毛利率 11.96%。"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "503,620,586.12元",
+      "revenue_proportion": "14.76%",
+      "gross_margin": "39.06%",
+      "yoy_change": "-0.60%",
+      "quote": "境外地区 503,620,586.12 14.76%...毛利率 39.06%。"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,344,387,573.43元",
+      "revenue_proportion": "39.40%",
+      "gross_margin": "24.02%",
+      "yoy_change": "-18.38%",
+      "quote": "经销 1,344,387,573.43 39.40%...毛利率 24.02%。"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,067,417,492.04元",
+      "revenue_proportion": "60.60%",
+      "gross_margin": "10.72%",
+      "yoy_change": "22.71%",
+      "quote": "直销 2,067,417,492.04 60.60%...毛利率 10.72%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "家具智能装备",
+      "metric_type": "sales_volume",
+      "value": "12,711 台",
+      "period": "2025年",
+      "quote": "销售量 台 12,711"
+    },
+    {
+      "product": "家具智能装备",
+      "metric_type": "production_volume",
+      "value": "11,662 台",
+      "period": "2025年",
+      "quote": "生产量 台 11,662"
+    },
+    {
+      "product": "家具智能装备",
+      "metric_type": "inventory_volume",
+      "value": "1,149 台",
+      "period": "2025年末",
+      "quote": "库存量 台 1,149"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "唯一·志享（华南）数据中心",
+      "project_type": "construction_project",
+      "location": "粤港澳大湾区",
+      "investment_amount": null,
+      "designed_capacity": "3,308个标准机柜",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司自建‘唯一·志享（华南）数据中心’...在报告期内累计上架率显著提升。"
+    },
+    {
+      "name": "南兴云计算数据中心",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "高标准机柜 1,602 个",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "‘南兴云计算数据中心’高标准机柜 1,602 个。"
+    },
+    {
+      "name": "MaaS（模型即服务）平台建设",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推出上线",
+      "expected_completion_time": null,
+      "quote": "公司推出了 MaaS（模型即服务）平台。"
+    },
+    {
+      "name": "算力基础设施投入",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "部署GPU算力设备池",
+      "progress": "已实施",
+      "expected_completion_time": null,
+      "quote": "公司持续加大算力基础设施投入力度，依托自有数据中心优势，采购并部署 GPU算力设备池。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智能柔性封边机技术",
+      "asset_type": "core_technology",
+      "related_product": "智能封边机",
+      "quantitative_info": null,
+      "quote": "公司以智能、环保、模块化设计重新定义高端封边机技术标准，创新研发的智能柔性封边机...实现高效运行和精准操作。"
+    },
+    {
+      "name": "AI技术在智能装备中的应用",
+      "asset_type": "core_technology",
+      "related_product": "智能装备",
+      "quantitative_info": null,
+      "quote": "该封边机运用AI技术，可智能分析生产数据，依据分析结果进一步优化设备运行参数，从而提升整体性能。"
+    },
+    {
+      "name": "授权发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获授权发明专利148项",
+      "quote": "累计获授权发明专利148项。"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "实用新型专利376项",
+      "quote": "实用新型专利376项。"
+    },
+    {
+      "name": "外观设计专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "外观设计专利20项",
+      "quote": "外观设计专利20项。"
+    },
+    {
+      "name": "计算机软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "计算机软件著作权81件",
+      "quote": "计算机软件著作权81件。"
+    },
+    {
+      "name": "广东省省级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司的研发中心被认定为‘广东省省级企业技术中心’。"
+    },
+    {
+      "name": "广东省数控木工机械工程技术研究开发中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "和‘广东省数控木工机械工程技术研究开发中心’。"
+    },
+    {
+      "name": "参与起草制订木工行业国家级标准、管理体系国家级标准和国家数控木工机床行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "参与起草制订木工行业国家级标准、管理体系国家级标准和国家数控木工机床行业标准等多项标准。"
+    },
+    {
+      "name": "公有云平台 WCloud",
+      "asset_type": "technical_platform",
+      "related_product": "云计算服务",
+      "quantitative_info": null,
+      "quote": "自主研发了公有云平台 WCloud。"
+    },
+    {
+      "name": "MSP多云管理平台",
+      "asset_type": "technical_platform",
+      "related_product": "云计算服务",
+      "quantitative_info": null,
+      "quote": "MSP多云管理平台。"
+    },
+    {
+      "name": "小鹭AIGC智能助手",
+      "asset_type": "software",
+      "related_product": "AI应用",
+      "quantitative_info": null,
+      "quote": "小鹭AIGC智能助手等核心产品。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "33.87%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,155,463,051.12...前五名客户合计销售金额占年度销售总额比例 33.87%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "13.35%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 455,430,253.86 13.35%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "34.79%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 866,876,848.75...前五名供应商合计采购金额占年度采购总额比例 34.79%。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "14.43%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 359,511,611.09 14.43%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内宏观经济、产业政策、房地产调控以及城镇化进程的变动，将会直接影响到下游家具行业市场需求，进而影响到板式家具机械行业。",
+      "related_entity": null,
+      "related_product": "家具智能装备",
+      "quote": "公司板式家具设备业务的主要产品是板式家具生产设备。国内宏观经济、产业政策、房地产调控以及城镇化进程的变动，将会直接影响到下游家具行业市场需求，进而影响到板式家具机械行业。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "若市场或公司下游客户发生较大变动，使得公司存货销售不畅，公司将面临存货减值的风险。",
+      "related_entity": null,
+      "related_product": "存货",
+      "quote": "报告期内，为了降低生产成本，缩短产品交货期，公司加大原材料备货。若市场或公司下游客户发生较大变动，使得公司存货销售不畅，公司将面临存货减值的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "当前，算力中心行业竞争态势错综复杂且日趋严峻，市场竞争加剧的风险愈发凸显。",
+      "related_entity": null,
+      "related_product": "IDC及云计算业务",
+      "quote": "当前，算力中心行业竞争态势错综复杂且日趋严峻，市场竞争加剧的风险愈发凸显。"
+    },
+    {
+      "risk_type": "other",
+      "description": "客户需求受宏观经济波动及相关政策调整的影响，存在一定起伏变化；若客户自身业务经营遭遇阶段性不利状况，则可能缩减对算力及服务的采购规模。",
+      "related_entity": "客户",
+      "related_product": "IDC及云计算服务",
+      "quote": "客户需求受宏观经济波动及相关政策调整的影响，存在一定起伏变化；若客户自身业务经营遭遇阶段性不利状况，则可能缩减对算力及服务的采购规模。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "在人工智能技术飞速迭代的行业背景下...若公司未来在技术创新及产业化落地层面无法紧跟行业发展节奏，或将面临技术迭代滞后的风险。",
+      "related_entity": null,
+      "related_product": "IDC及云计算业务",
+      "quote": "在人工智能技术飞速迭代的行业背景下...若公司未来在技术创新及产业化落地层面无法紧跟行业发展节奏，或将面临技术迭代滞后的风险。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司存在尚未了结的诉讼、仲裁案件。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年度公司9件已结案，4件尚在一审审理中...4,740.61 万元。"
+    }
+  ]
+}

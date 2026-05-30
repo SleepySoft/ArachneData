@@ -1,0 +1,271 @@
+{
+  "company_name_mentioned": "沙河实业股份有限公司",
+  "produces": [
+    {
+      "name": "房地产销售",
+      "type": "device",
+      "revenue_proportion": "97.40%",
+      "quote": "分行业：房地产销售 302,076,664.20 97.40%"
+    },
+    {
+      "name": "物业租赁",
+      "type": "service",
+      "revenue_proportion": "2.26%",
+      "quote": "分行业：物业租赁 7,018,371.83 2.26%"
+    },
+    {
+      "name": "物业管理",
+      "type": "service",
+      "revenue_proportion": "0.34%",
+      "quote": "分行业：物业管理 1,046,225.78 0.34%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "工程建设服务",
+      "target_product": "房地产项目",
+      "cost_proportion": "42.83%",
+      "quote": "前五名供应商合计采购金额（元） 33,567,534.35，前五名供应商合计采购金额占年度采购总额比例 42.83%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "住宅",
+      "source_product": "房地产销售",
+      "quote": "公司主营...成功开发...世纪村...等十余个住宅及商业项目。"
+    },
+    {
+      "name": "商业",
+      "source_product": "房地产销售/物业租赁",
+      "quote": "公司主营...成功开发...世纪村...等十余个住宅及商业项目。长沙深业中心裙楼引入超市、本土网红餐饮、电竞等业态。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨岭",
+      "role": "董事长、总经理",
+      "quote": "公司负责人杨岭、主管会计工作负责人杨岭及会计机构负责人（会计主管人员）王瑞华声明...法定代表人：杨岭...杨岭...男...董事长...总经理。"
+    },
+    {
+      "name": "王凡",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...姓名 王凡"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深业沙河（集团）有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "沙河集团 指 深业沙河（集团）有限公司"
+    },
+    {
+      "name": "深业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人（最终控制方）",
+      "quote": "深业集团 指 深业集团有限公司"
+    },
+    {
+      "name": "深圳市人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "最终实际控制人",
+      "quote": "深圳市国资委 指 深圳市人民政府国有资产监督管理委员会"
+    },
+    {
+      "name": "长沙深业置业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "房地产开发、销售",
+      "quote": "长沙公司 指 长沙深业置业有限公司...公司类型 子公司...主要业务 房地产开发、销售"
+    },
+    {
+      "name": "新乡市深业地产有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "房地产开发、销售",
+      "quote": "新乡公司 指 新乡市深业地产有限公司...公司类型 子公司...主要业务 房地产开发、销售"
+    },
+    {
+      "name": "河南深业地产有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "房地产开发、销售",
+      "quote": "郑州公司 指 河南深业地产有限公司...公司类型 子公司...主要业务 房地产开发、销售"
+    },
+    {
+      "name": "深圳市深业置地物业投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "物业管理",
+      "quote": "深圳市深业置地物业投资有限公司（“深业置地物业”）...业务性质 物业管理"
+    },
+    {
+      "name": "深圳晶华显示电子股份有限公司",
+      "relation_type": "customer",
+      "business_details": "拟收购标的",
+      "quote": "公司拟以支付现金的方式购买深业鹏基（集团）有限公司持有的深圳晶华显示电子股份有限公司70%的股权。"
+    },
+    {
+      "name": "深业鹏基（集团）有限公司",
+      "relation_type": "supplier",
+      "business_details": "深圳晶华显示电子股份有限公司的出让方",
+      "quote": "公司拟以支付现金的方式购买深业鹏基（集团）有限公司持有的深圳晶华显示电子股份有限公司70%的股权。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "房地产销售",
+      "segment_type": "product_line",
+      "revenue_amount": "302,076,664.20元",
+      "revenue_proportion": "97.40%",
+      "gross_margin": "-1.10%",
+      "yoy_change": "-12.72%",
+      "quote": "分行业：房地产销售 302,076,664.20 97.40%...营业成本...毛利率... -1.10%... -12.72%..."
+    },
+    {
+      "name": "湖南长沙",
+      "segment_type": "region",
+      "revenue_amount": "219,393,604.84元",
+      "revenue_proportion": "70.74%",
+      "gross_margin": "7.47%",
+      "yoy_change": "-24.99%",
+      "quote": "分地区：湖南长沙 219,393,604.84 70.74%...营业成本...毛利率... 7.47%... -24.99%..."
+    },
+    {
+      "name": "广东深圳",
+      "segment_type": "region",
+      "revenue_amount": "81,963,240.45元",
+      "revenue_proportion": "26.43%",
+      "gross_margin": "-26.74%",
+      "yoy_change": "121.62%",
+      "quote": "分地区：广东深圳 81,963,240.45 26.43%...营业成本...毛利率... -26.74%... 121.62%..."
+    },
+    {
+      "name": "河南新乡",
+      "segment_type": "region",
+      "revenue_amount": "8,784,416.52元",
+      "revenue_proportion": "2.83%",
+      "gross_margin": "21.68%",
+      "yoy_change": "-69.11%",
+      "quote": "分地区：河南新乡 8,784,416.52 2.83%...营业成本...毛利率... 21.68%... -69.11%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "房地产",
+      "metric_type": "sales_volume",
+      "value": "45,304.63平方米",
+      "period": "2025年",
+      "quote": "销售量 平方米 45,304.63"
+    },
+    {
+      "product": "房地产",
+      "metric_type": "production_volume",
+      "value": "36,726.17平方米",
+      "period": "2025年",
+      "quote": "生产量 平方米 36,726.17"
+    },
+    {
+      "product": "房地产",
+      "metric_type": "inventory_volume",
+      "value": "99,035.24平方米",
+      "period": "2025年末",
+      "quote": "库存量 平方米 99,035.24"
+    },
+    {
+      "product": "土地储备",
+      "metric_type": "capacity",
+      "value": "9.24万平方米（建筑面积）",
+      "period": "截至2025年12月",
+      "quote": "累计土地储备情况：剩余可开发建筑面积（万㎡）9.24"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "长沙沙河城二期II区",
+      "project_type": "construction_project",
+      "location": "长沙开福区开福大道",
+      "investment_amount": "51,077.56万元",
+      "designed_capacity": "37,088㎡（计容建筑面积）",
+      "progress": "已完成竣工备案以及交付",
+      "expected_completion_time": "2025年9月（竣工）",
+      "quote": "主要项目开发情况：...长沙沙河城二期II区...项目业态 住宅...权益比例 100.00%...开工时间 2023年10月15日...开发进度 截至2025年12月，沙河城二期II区已完成竣工备案以及交付。...完工进度 100.00%...预计总投资金额 51,077.56万元...累计投资总金额 51,077.56万元"
+    },
+    {
+      "name": "收购深圳晶华显示电子股份有限公司",
+      "project_type": "acquisition_project",
+      "progress": "重大资产重组方案及相关议案已审议通过，相关工作正在有序推进中",
+      "quote": "公司拟以支付现金的方式购买深业鹏基（集团）有限公司持有的深圳晶华显示电子股份有限公司70%的股权。...2026年2月6日，公司召开第十一届董事会第十七次会议审议通过本次资产重组方案及相关议案；2026年3月6日，公司召开第十一届董事会第十九次会议审议通过...相关议案；目前，相关工作正在有序推进中"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "成本管控信息系统（EIP系统）",
+      "asset_type": "technical_platform",
+      "quote": "公司从信息化、成本管理制度、成本管理方法三方面着手，全面系统地推进成本管控信息系统建设。该系统自2009年上线运行，于2018年升级为EIP系统...成为公司的核心竞争力之一。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "29.84%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 29.84%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.83%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 42.83%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "4.96%",
+      "related_entity": "深业沙河（集团）有限公司",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 4.96%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司重点布局的长沙、新乡等二三线城市仍面临需求疲软、库存高企、价格承压等挑战，对公司去化效率和盈利水平构成压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "尽管房地产政策持续发力推动市场“止跌回稳”，但行业仍处于调整期。一线城市受益于改善性需求支撑相对稳定，而公司重点布局的长沙、新乡等二三线城市仍面临需求疲软、库存高企、价格承压等挑战，对公司去化效率和盈利水平构成压力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争格局和发展趋势：行业已迈入结构性调整新阶段，“高负债、高杠杆、高周转”的传统模式难以为继。市场资源加速向头部房企集中，行业集中度不断提升；而部分中小房企因融资受限、土储不足、抗风险能力弱，逐步退出市场。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争格局和发展趋势：中国房地产行业正经历深刻转型...“高负债、高杠杆、高周转”的传统模式难以为继。当前，市场资源加速向财务稳健、品牌力强、运营能力突出的头部房企集中，行业集中度不断提升；而部分中小房企因融资受限、土储不足、抗风险能力弱，逐步退出市场。"
+    },
+    {
+      "risk_type": "other",
+      "description": "项目盈利难度加大。行业由增量转向存量，增速放缓、竞争加剧、客户需求升级，导致土地获取成本高企、开发利润收窄。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）主要风险：一是项目盈利难度加大。行业由增量转向存量，增速放缓、竞争加剧、客户需求升级，导致土地获取成本高企、开发利润收窄。"
+    },
+    {
+      "risk_type": "other",
+      "description": "投资风险上升。房地产投资属性减弱、居住属性回归，市场分化加剧，区域和产品错配风险凸显。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是投资风险上升。房地产投资属性减弱、居住属性回归，市场分化加剧，区域和产品错配风险凸显。"
+    },
+    {
+      "risk_type": "other",
+      "description": "土地储备不足。公司目前仅在郑州荥阳持有2.54万平方米的土地储备，难以满足后续持续开发的需求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三是土地储备不足。公司目前仅在郑州荥阳持有2.54万平方米的土地储备，难以满足后续持续开发的需求。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "存货跌价准备：管理层对存货估计售价、至完工时估计将要发生的成本等进行重新修订，修订后的估计售价低于目前采用的估计售价...本集团可能需对存货计提跌价准备。",
+      "related_entity": null,
+      "related_product": "存货",
+      "quote": "如果管理层对存货估计售价、至完工时估计将要发生的成本、估计的销售费用以及相关税费进行重新修订，修订后的估计售价低于目前采用的估计售价，或修订后的至完工时估计将要发生的成本、估计的销售费用以及相关税费高于目前采用的估计，本集团可能需对存货计提跌价准备。"
+    }
+  ]
+}

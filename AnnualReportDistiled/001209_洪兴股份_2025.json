@@ -1,0 +1,569 @@
+{
+  "company_name_mentioned": "广东洪兴实业股份有限公司",
+  "produces": [
+    {
+      "name": "家居服",
+      "type": "device",
+      "revenue_proportion": "52.05%",
+      "quote": "分产品 家居服 1,008,658,856.24 952,205,114.21 52.05%"
+    },
+    {
+      "name": "内衣内裤",
+      "type": "device",
+      "revenue_proportion": "36.49%",
+      "quote": "内衣内裤 667,490,612.77 36.49%"
+    },
+    {
+      "name": "面料",
+      "type": "material",
+      "revenue_proportion": "5.49%",
+      "quote": "面料 100,354,225.84 5.49%"
+    },
+    {
+      "name": "饰品及其他",
+      "type": "device",
+      "revenue_proportion": "3.11%",
+      "quote": "饰品及其他 56,883,625.81 3.11%"
+    },
+    {
+      "name": "ODM产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "（3）公司为其他品牌商提供ODM，将加工完成的产品销售给品牌商，再由品牌商通过其自有渠道进行销售"
+    },
+    {
+      "name": "纺织面料（对外销售）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "（4）公司向纺织服装制造企业出售纺织面料。"
+    },
+    {
+      "name": "品牌授权",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司将拥有芬腾商标及 IP 形象授权给其他第三方用于除家居服以外的商品品类的生产销售（主要在拼多多和抖音渠道销售），公司按约定比例收取品牌授权费及吊牌成本。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "家居服、内衣内裤等",
+      "cost_proportion": null,
+      "quote": "采购模式 公司设有完善的供应商准入、管理制度。在选取供应商时，会考察供应商的资质、产品质量并综合考虑其产能规模、资金实力等情况。"
+    },
+    {
+      "name": "委托加工服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "为提高生产效率和订单需求的反应能力、满足更为定制化的需求，公司也与具备一定研发设计能力或专利技术的部分优质外协供应商建立了良好合作关系，向外部供应商委托加工或定制成品。"
+    },
+    {
+      "name": "成品（定制）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "生产模式 公司的生产模式包括自行生产、委托加工、成品定制。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家居生活",
+      "source_product": "家居服、内衣内裤",
+      "quote": "公司长期专注于家居服饰研发、设计、生产与销售，致力于引领家居服行业潮流、为人类提供美好居家生活体验。"
+    },
+    {
+      "name": "睡眠健康",
+      "source_product": "智能温控产品、香薰睡衣等",
+      "quote": "公司还研发更适合女性睡眠的文胸、内衣，形成组合产品，打造一套健康睡眠内衣系统。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郭梧文",
+      "role": "董事长",
+      "quote": "公司负责人郭梧文、主管会计工作负责人刘根祥及会计机构负责人（会计主管人员）周雁翎声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "周德茂",
+      "role": "董事兼总经理",
+      "quote": "董事兼总经理周德茂先生，... 现任公司总经理，负责公司整体业务"
+    },
+    {
+      "name": "柯国民",
+      "role": "董事",
+      "quote": "柯国民先生，董事，... 负责公司原材料采购，现任公司制造中心原材料采购负责人。"
+    },
+    {
+      "name": "郭静君",
+      "role": "董事",
+      "quote": "郭静君女士，董事，... 负责公司产品研发工作，现任公司研发中心总监。"
+    },
+    {
+      "name": "郭璇风",
+      "role": "董事",
+      "quote": "郭璇风女士，董事，... 现任公司商品中心总监，主要负责公司供应链管理业务。"
+    },
+    {
+      "name": "刘根祥",
+      "role": "董事会秘书兼财务总监",
+      "quote": "刘根祥先生，财务总监兼董事会秘书，... 现担任公司董事会秘书兼财务总监。"
+    },
+    {
+      "name": "郭少君",
+      "role": "副总经理",
+      "quote": "郭少君女士，副总经理，... 现任公司副总经理、制造中心总监。"
+    },
+    {
+      "name": "程胜祥",
+      "role": "副总经理",
+      "quote": "程胜祥先生，副总经理，... 现任公司副总经理。"
+    },
+    {
+      "name": "郭秋洪",
+      "role": "控股股东、实际控制人",
+      "quote": "控股股东性质：自然人控股 控股股东姓名 郭秋洪"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "唯品会（中国）有限公司",
+      "relation_type": "customer",
+      "business_details": "线上代销平台",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 唯品会（中国）有限公司 640,274,675.06 35.00%"
+    },
+    {
+      "name": "北京京东世纪贸易有限公司及其子公司",
+      "relation_type": "customer",
+      "business_details": "线上销售平台",
+      "quote": "北京京东世纪贸易有限公司及其子公司 79,484,033.38 4.34%"
+    },
+    {
+      "name": "上海商量信息科技有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "上海商量信息科技有限公司 42,578,529.02 2.33%"
+    },
+    {
+      "name": "广西泰森年丰纺织有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "广西泰森年丰纺织有限公司 17,651,931.38 0.96%"
+    },
+    {
+      "name": "陈肖鸿及其控制下的企业",
+      "relation_type": "supplier",
+      "business_details": "主要供应商",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 陈肖鸿及其控制下的企业 160,909,801.81 14.24%"
+    },
+    {
+      "name": "杨真仔及其控制下的企业",
+      "relation_type": "supplier",
+      "business_details": "主要供应商",
+      "quote": "杨真仔及其控制下的企业 71,132,056.03 6.29%"
+    },
+    {
+      "name": "台州市澳京电子商务有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要供应商",
+      "quote": "台州市澳京电子商务有限公司 43,532,109.92 3.85%"
+    },
+    {
+      "name": "周洪彦及其控制下的企业",
+      "relation_type": "supplier",
+      "business_details": "主要供应商",
+      "quote": "周洪彦及其控制下的企业 42,188,302.33 3.73%"
+    },
+    {
+      "name": "柳泽雄及其控制下的企业",
+      "relation_type": "supplier",
+      "business_details": "主要供应商",
+      "quote": "柳泽雄及其控制下的企业 42,050,859.64 3.72%"
+    },
+    {
+      "name": "汕头市芬腾服饰有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "服饰销售",
+      "quote": "公司名称 公司类型 主要业务 注册资本 总资产 ... 汕头市芬腾服饰有限公司 子公司 服饰销售"
+    },
+    {
+      "name": "广州洪兴服饰有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "服饰销售",
+      "quote": "广州洪兴服饰有限公司 子公司 服饰销售"
+    },
+    {
+      "name": "广东芬腾电子商务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "服饰销售",
+      "quote": "广东芬腾电子商务有限公司 子公司 服饰销售"
+    },
+    {
+      "name": "洪兴（瑞金）实业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "服饰销售",
+      "quote": "洪兴（瑞金）实业有限公司 子公司 服饰销售"
+    },
+    {
+      "name": "广东斐物商业管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "服饰销售",
+      "quote": "广东斐物商业管理有限公司 子公司 服饰销售"
+    },
+    {
+      "name": "广州联和电子商务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "服饰销售",
+      "quote": "广州联和电子商务有限公司 子公司 服饰销售"
+    },
+    {
+      "name": "广州巨石网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "数字创意",
+      "quote": "广州巨石网络科技有限公司 子公司 数字创意"
+    },
+    {
+      "name": "广州正兴投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "报告期内，公司新设立100%控股子公司广州正兴投资有限公司。"
+    },
+    {
+      "name": "连我（上海）商贸有限公司",
+      "relation_type": "customer",
+      "business_details": "IP授权合作",
+      "quote": "合作方名称 合作方式 合作期限 连我（上海）商贸有限公司 被授权品牌 2021年1月1日至2027年3月31日"
+    },
+    {
+      "name": "杭州卓禧文化传媒有限公司",
+      "relation_type": "customer",
+      "business_details": "IP授权合作",
+      "quote": "杭州卓禧文化传媒有限公司 合作品牌 合作期 2022年9月25日至2025年12月24日"
+    },
+    {
+      "name": "赛益(上海)商贸有限公司",
+      "relation_type": "customer",
+      "business_details": "IP授权合作",
+      "quote": "赛益(上海)商贸有限公司 合作品牌 合作期 2024年12月16日-2026年3月15日"
+    },
+    {
+      "name": "林柔丽及其亲属控制的企业",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "3 林柔丽及其亲属控制的企业 51,469,531.71 2.81%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "纺织服装",
+      "segment_type": "product_line",
+      "revenue_amount": "1,776,933,578.63元",
+      "revenue_proportion": "97.13%",
+      "gross_margin": "30.96%",
+      "yoy_change": "2.66%",
+      "quote": "分行业 1,776,933,578.63 1,730,811,203.47 97.13% 97.51% 2.66%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "other",
+      "revenue_amount": "52,529,406.74元",
+      "revenue_proportion": "2.87%",
+      "gross_margin": null,
+      "yoy_change": "18.84%",
+      "quote": "其他业务 52,529,406.74 2.87% 44,200,231.65 2.49% 18.84%"
+    },
+    {
+      "name": "家居服",
+      "segment_type": "product_line",
+      "revenue_amount": "952,205,114.21元",
+      "revenue_proportion": "52.05%",
+      "gross_margin": "38.62%",
+      "yoy_change": "-5.60%",
+      "quote": "家居服 952,205,114.21 38.62% -5.60%"
+    },
+    {
+      "name": "内衣内裤",
+      "segment_type": "product_line",
+      "revenue_amount": "667,490,612.77元",
+      "revenue_proportion": "36.49%",
+      "gross_margin": "25.51%",
+      "yoy_change": "9.47%",
+      "quote": "内衣内裤 667,490,612.77 25.51% 9.47%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,824,755,236.07元",
+      "revenue_proportion": "99.74%",
+      "gross_margin": "32.26%",
+      "yoy_change": "3.21%",
+      "quote": "国内 1,824,755,236.07 32.26% 3.21%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "4,707,749.30元",
+      "revenue_proportion": "0.26%",
+      "gross_margin": null,
+      "yoy_change": "-33.07%",
+      "quote": "国外 4,707,749.30 0.26% -33.07%"
+    },
+    {
+      "name": "线上代销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "722,220,112.89元",
+      "revenue_proportion": "39.48%",
+      "gross_margin": "18.76%",
+      "yoy_change": "9.51%",
+      "quote": "线上代销 722,220,112.89 39.48% ... 18.76%"
+    },
+    {
+      "name": "线上直营",
+      "segment_type": "sales_channel",
+      "revenue_amount": "606,767,398.11元",
+      "revenue_proportion": "33.17%",
+      "gross_margin": "50.79%",
+      "yoy_change": "4.44%",
+      "quote": "线上直营 606,767,398.11 33.17% ... 50.79%"
+    },
+    {
+      "name": "线下经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "373,254,411.19元",
+      "revenue_proportion": "20.40%",
+      "gross_margin": "21.59%",
+      "yoy_change": "-7.96%",
+      "quote": "线下经销 373,254,411.19 20.40% ... 21.59%"
+    },
+    {
+      "name": "线上销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,380,874,819.40元",
+      "revenue_proportion": null,
+      "gross_margin": "33.71%",
+      "yoy_change": "6.34%",
+      "quote": "线上销售 1,380,874,819.40 915,412,101.80 33.71% 6.34%"
+    },
+    {
+      "name": "品牌授权业务",
+      "segment_type": "other",
+      "revenue_amount": "39,055,340.53元",
+      "revenue_proportion": null,
+      "gross_margin": "92.44%",
+      "yoy_change": "27.28%",
+      "quote": "品牌授权业务 39,055,340.53 2,952,806.65 92.44% 27.28%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "服饰",
+      "metric_type": "capacity",
+      "value": "1,867.97万件",
+      "period": "报告期",
+      "quote": "公司自有产能状况 本报告期 总产能 1,867.97万件"
+    },
+    {
+      "product": "服饰",
+      "metric_type": "capacity_utilization",
+      "value": "101.79%",
+      "period": "报告期",
+      "quote": "产能利用率 101.79%"
+    },
+    {
+      "product": "服饰",
+      "metric_type": "sales_volume",
+      "value": "7,844.47万件",
+      "period": "报告期",
+      "quote": "销售量 万件 7,844.47"
+    },
+    {
+      "product": "服饰",
+      "metric_type": "production_volume",
+      "value": "8,916.31万件",
+      "period": "报告期",
+      "quote": "生产量 万件 8,916.31"
+    },
+    {
+      "product": "服饰",
+      "metric_type": "inventory_volume",
+      "value": "2,884.10万件",
+      "period": "报告期",
+      "quote": "库存量 万件 2,884.10"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "粤港澳大湾区数字创意设计产业园（洪兴股份数字创意设计总部基地）",
+      "project_type": "construction_project",
+      "location": "广州设计之都",
+      "investment_amount": "22,003.27万元",
+      "designed_capacity": null,
+      "progress": "正式建成投用",
+      "expected_completion_time": "2024年11月30日",
+      "quote": "报告期内，公司募投项目——粤港澳大湾区数字创意设计产业园（洪兴股份数字创意设计总部基地）正式建成投用... 项目建筑面积约 2.34万平方米... 变更后的项目总投资金额 22,003.27万元"
+    },
+    {
+      "name": "信息化管理系统及物流中心建设项目",
+      "project_type": "fundraising_project",
+      "location": "汕头市潮南区两英镇风华村陈沙公路南",
+      "investment_amount": "15,150.97万元",
+      "designed_capacity": null,
+      "progress": "正式投入运营使用",
+      "expected_completion_time": "2024年7月31日",
+      "quote": "随着募投项目信息化管理系统及物流中心建设项目正式投入运营使用... 承诺投资项目... 信息化管理系统及物流中心建设项目 15,150.97"
+    },
+    {
+      "name": "年产900万套家居服产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "30,724.48万元（调整后）",
+      "designed_capacity": "年产900万套家居服",
+      "progress": "已结项并将节余募集资金补充流动资金",
+      "expected_completion_time": "2024年4月01日",
+      "quote": "承诺投资项目... 年产900万套家居服产业化项目 30,724.48... 截至期末累计投入金额 24,024.02... 项目可行性发生重大变化的情况说明 不适用"
+    },
+    {
+      "name": "营销网络扩建及推广项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "8,214.62万元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "承诺投资项目... 营销网络扩建及推广项目 8,214.62"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10,000万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目... 补充流动资金 10,000"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "数字化与AI技术应用",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司紧跟广东省高质量发展要求，以数字化与AI 技术为抓手，全面重构研发设计、品牌拍摄及供应链全链路"
+    },
+    {
+      "name": "智能温控技术",
+      "asset_type": "core_technology",
+      "related_product": "芬腾 26°C 系列",
+      "quantitative_info": null,
+      "quote": "如通过旗下芬腾科纺面料创新技术开发出的智能温控产品芬腾 26°C 系列"
+    },
+    {
+      "name": "《高品质家居服》团体标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "芬腾参与《高品质家居服》团体标准制定"
+    },
+    {
+      "name": "芬腾科纺面料研发",
+      "asset_type": "process_technology",
+      "related_product": "面料",
+      "quantitative_info": null,
+      "quote": "公司通过芬腾科纺进入上游面料端，既依托于芬腾科纺进行自主研发，也灵活调用市场优质科技面料"
+    },
+    {
+      "name": "信息化管理系统",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "随着募投项目信息化管理系统及物流中心建设项目正式投入运营使用"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "45.45%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 45.45%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "35.00%",
+      "related_entity": "唯品会（中国）有限公司",
+      "period": "2025年",
+      "quote": "1 唯品会（中国）有限公司 ... 35.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "31.84%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 31.84%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "14.24%",
+      "related_entity": "陈肖鸿及其控制下的企业",
+      "period": "2025年",
+      "quote": "1 陈肖鸿及其控制下的企业 ... 14.24%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五大客户销售收入占比较高。",
+      "related_entity": "前五大客户",
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 45.45%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司前五大供应商采购额占比较高。",
+      "related_entity": "前五大供应商",
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 31.84%"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "家居服行业竞争激烈，品牌获客成本上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业整体加速推进线上线下渠道一体化融合... 当前传统电商平台流量红利逐步收窄，存量竞争加剧，品牌获客成本与营销费用持续上升，行业竞争格局日趋激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "能够快速应对市场需求变化、原材料价格波动等行业风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "行业数字化转型全面深化，技术迭代风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业数字化转型全面深化，生产与商业模式持续升级"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "产品质量风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "对于上游，公司不断健全供应商管理制度，保证原材料的质量"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "存在商标侵权纠纷及买卖合同纠纷等诉讼。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "商标侵权纠纷4宗 ... 买卖合同纠纷4宗"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价准备计提风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "存货跌价准备 46,168,811.73"
+    }
+  ]
+}

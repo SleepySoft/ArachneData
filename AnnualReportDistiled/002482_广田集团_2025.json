@@ -1,0 +1,337 @@
+{
+  "company_name_mentioned": "深圳广田集团股份有限公司",
+  "produces": [
+    {
+      "name": "装饰施工",
+      "type": "service",
+      "revenue_proportion": "95.27%",
+      "quote": "分产品 装饰施工 1,524,375,399.36 95.27%"
+    },
+    {
+      "name": "装饰设计",
+      "type": "service",
+      "revenue_proportion": "3.16%",
+      "quote": "分产品 装饰设计 50,607,744.33 3.16%"
+    },
+    {
+      "name": "其他业务收入（租金收入、服务费收入等）",
+      "type": "service",
+      "revenue_proportion": "1.57%",
+      "quote": "分产品 其他业务收入 25,109,565.99 1.57% 主要系租金、服务费收入等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "装饰施工",
+      "cost_proportion": "50.50%",
+      "quote": "建筑装饰业 直接材料 754,074,781.03 50.50%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "装饰施工",
+      "cost_proportion": "45.78%",
+      "quote": "建筑装饰业 直接人工 683,559,629.76 45.78%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "建筑装饰工程",
+      "source_product": "装饰施工与设计服务",
+      "quote": "公司是一家集建筑装饰设计与施工、绿色建材研发为一体的集团企业，业态涵盖室内装饰及设计、幕墙、轨道交通、文旅、智能、消防、机电、新材料等领域"
+    },
+    {
+      "name": "公共建筑装修装饰",
+      "source_product": "装饰施工",
+      "quote": "成功承接包括深圳自然博物馆项目装饰装修工程、深圳东湖水厂扩能改造工程、深圳河套学院建设项目、深圳市体育中心酒店工程项目、金融文化中心项目等多项重点工程项目，持续深耕公共建筑装修装饰领域"
+    },
+    {
+      "name": "保障性住房项目",
+      "source_product": "装配式装修技术",
+      "quote": "以安居深职大项目为示范载体，成功落地应用，为装配式内装技术在保障性住房类项目的推广应用奠定基础"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "严静",
+      "role": "董事、总裁、法定代表人、党委副书记",
+      "quote": "法定代表人 严静；公司负责人严静；严静先生...现任深圳广田集团股份有限公司第六届董事会董事、总裁、党委副书记"
+    },
+    {
+      "name": "李辉",
+      "role": "董事、财务总监、党委委员",
+      "quote": "主管会计工作负责人李辉；李辉先生...现任深圳广田集团股份有限公司第六届董事会董事、财务总监、党委委员"
+    },
+    {
+      "name": "范志全",
+      "role": "副董事长",
+      "quote": "范志全先生...现任深圳广田集团股份有限公司第六届董事会副董事长"
+    },
+    {
+      "name": "刘丽梅",
+      "role": "董事（来自控股股东）",
+      "quote": "刘丽梅女士...现任深圳市特区建工集团有限公司董事会办公室（战略管理部）主任、董事会秘书，深圳广田集团股份有限公司第六届董事会董事"
+    },
+    {
+      "name": "郭文宁",
+      "role": "董事会秘书",
+      "quote": "郭文宁先生...现任深圳广田集团股份有限公司董事会秘书"
+    },
+    {
+      "name": "徐立",
+      "role": "总工程师",
+      "quote": "徐立先生...现任深圳广田集团股份有限公司总工程师"
+    },
+    {
+      "name": "罗岸丰",
+      "role": "工会主席、职工代表董事",
+      "quote": "罗岸丰先生...现任深圳广田集团股份有限公司工会主席、职工代表董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳市建筑工务署",
+      "relation_type": "customer",
+      "business_details": "第一大客户，提供工程施工业务",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 深圳市建筑工务署 544,418,877.11 34.02%"
+    },
+    {
+      "name": "深圳市特区建工集团有限公司",
+      "relation_type": "customer",
+      "business_details": "控股股东，第二大客户，提供工程施工及设计服务",
+      "quote": "深圳市特区建工集团有限公司 363,493,538.54 22.72%"
+    },
+    {
+      "name": "深圳市城市建设开发（集团）有限公司",
+      "relation_type": "customer",
+      "business_details": "第三大客户",
+      "quote": "深圳市城市建设开发（集团）有限公司 85,682,654.43 5.35%"
+    },
+    {
+      "name": "深圳市地铁集团有限公司",
+      "relation_type": "customer",
+      "business_details": "第四大客户",
+      "quote": "深圳市地铁集团有限公司 77,949,762.73 4.87%"
+    },
+    {
+      "name": "深圳市特发小梅沙投资发展有限公司",
+      "relation_type": "customer",
+      "business_details": "第五大客户",
+      "quote": "深圳市特发小梅沙投资发展有限公司 64,421,799.17 4.03%"
+    },
+    {
+      "name": "深圳金宏建设工程劳务有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购劳务服务",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 深圳金宏建设工程劳务有限公司 87,187,373.90 5.55%"
+    },
+    {
+      "name": "福建泉州钰泰建设劳务有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "福建泉州钰泰建设劳务有限公司 58,891,942.68 3.75%"
+    },
+    {
+      "name": "贵州优恒建筑设计有限公司",
+      "relation_type": "supplier",
+      "business_details": "第三大供应商",
+      "quote": "贵州优恒建筑设计有限公司 57,608,439.00 3.67%"
+    },
+    {
+      "name": "深圳市正弘建筑工程劳务有限公司",
+      "relation_type": "supplier",
+      "business_details": "第四大供应商",
+      "quote": "深圳市正弘建筑工程劳务有限公司 41,325,143.48 2.63%"
+    },
+    {
+      "name": "深圳市弘泰建筑劳务有限公司",
+      "relation_type": "supplier",
+      "business_details": "第五大供应商",
+      "quote": "深圳市弘泰建筑劳务有限公司 31,544,866.91 2.01%"
+    },
+    {
+      "name": "广田控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，持股15.29%，放弃表决权",
+      "quote": "广田控股集团有限公司 15.29%"
+    },
+    {
+      "name": "深圳市特区建工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股22.00%",
+      "quote": "深圳市特区建工集团有限公司 22.00%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "建筑及建筑装饰业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,574,983,143.69",
+      "revenue_proportion": "98.43%",
+      "gross_margin": "6.82%",
+      "yoy_change": "111.06%",
+      "quote": "分行业 建筑及建筑装饰业 1,574,983,143.69 98.43% ... 毛利率 6.82% ... 营业收入比上年同期增减 111.06%"
+    },
+    {
+      "name": "装饰施工",
+      "segment_type": "product_line",
+      "revenue_amount": "1,524,340,232.54",
+      "revenue_proportion": "95.27%",
+      "gross_margin": "6.89%",
+      "yoy_change": "120.12%",
+      "quote": "分产品 装饰施工 1,524,375,399.36 95.27% ... 毛利率 6.89% ... 营业收入比上年同期增减 120.12%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,538,413,807.37",
+      "revenue_proportion": "96.15%",
+      "gross_margin": "7.06%",
+      "yoy_change": "179.49%",
+      "quote": "分地区 华南地区 1,538,413,807.37 96.15% ... 毛利率 7.06% ... 营业收入比上年同期增减 179.49%"
+    },
+    {
+      "name": "自营",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,600,092,709.68",
+      "revenue_proportion": "100.00%",
+      "yoy_change": "111.18%",
+      "quote": "分销售模式 自营 1,600,092,709.68 100.00% ... 营业收入比上年同期增减 111.18%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "建筑装饰工程订单",
+      "metric_type": "sales_volume",
+      "value": "20.43亿元",
+      "period": "2025年",
+      "quote": "2025年，公司累计新签订单 20.43亿元，同比增长 9.19%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "深圳自然博物馆项目装饰装修工程",
+      "project_type": "construction_project",
+      "progress": "高质量履约",
+      "quote": "报告期内，公司高质量履约深圳自然博物馆项目装饰装修工程...等区域重点工程项目"
+    },
+    {
+      "name": "基于钢结构的MIC内装技术体系的研究与应用",
+      "project_type": "r_and_d_project",
+      "progress": "已完成，推广应用中",
+      "quote": "基于钢结构的MIC内装技术体系的研究与应用...已完成，推广应用中。"
+    },
+    {
+      "name": "基于混凝土结构的MIC内装技术体系的研究与应用",
+      "project_type": "r_and_d_project",
+      "progress": "已完成，推广应用中",
+      "quote": "基于混凝土结构的MIC内装技术体系的研究与应用...已完成，推广应用中。"
+    },
+    {
+      "name": "超大不锈钢金属屋面系统单元式施工技术研究与应用",
+      "project_type": "r_and_d_project",
+      "progress": "项目研发中",
+      "quote": "超大不锈钢金属屋面系统单元式施工技术研究与应用...项目研发中。"
+    },
+    {
+      "name": "基于模块化集成建筑（MIC）的装配式内装技术体系研究与应用",
+      "project_type": "r_and_d_project",
+      "progress": "项目研发中",
+      "quote": "基于模块化集成建筑（MIC）的装配式内装技术体系研究与应用...项目研发中。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家专利",
+      "asset_type": "patent",
+      "quantitative_info": "累计拥有247项",
+      "quote": "截至目前，公司累计拥有国家专利247项"
+    },
+    {
+      "name": "国家计算机软件著作权",
+      "asset_type": "software_copyright",
+      "quantitative_info": "66项",
+      "quote": "国家计算机软件著作权66项"
+    },
+    {
+      "name": "省级工法",
+      "asset_type": "process_technology",
+      "quantitative_info": "10项",
+      "quote": "取得省级工法10项"
+    },
+    {
+      "name": "主编/参编标准",
+      "asset_type": "standard",
+      "quantitative_info": "累计163项",
+      "quote": "累计主编/参编国家、行业及地方标准 163 项"
+    },
+    {
+      "name": "建筑装修装饰工程专业承包壹级",
+      "asset_type": "certification",
+      "quote": "公司拥有建筑装修装饰工程专业承包壹级等十余项壹级、甲级资质"
+    },
+    {
+      "name": "建筑装饰工程设计专项甲级",
+      "asset_type": "certification",
+      "quote": "公司具有建筑装饰工程设计专项甲级资质"
+    },
+    {
+      "name": "建筑业企业资质（建筑工程施工总承包壹级）",
+      "asset_type": "certification",
+      "quote": "建筑业企业资质证书 ... 建筑工程施工总承包壹级"
+    },
+    {
+      "name": "安全生产许可证",
+      "asset_type": "certification",
+      "quote": "安全生产许可证 2025.9.17 2028.9.16"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "70.99%",
+      "related_entity": "深圳市建筑工务署、深圳市特区建工集团有限公司等",
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,135,966,631.98 前五名客户合计销售金额占年度销售总额比例 70.99%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "17.60%",
+      "related_entity": "深圳金宏建设工程劳务有限公司、福建泉州钰泰建设劳务有限公司等",
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 276,557,765.97 前五名供应商合计采购金额占年度采购总额比例 17.60%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户合计销售金额占年度销售总额比例70.99%",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 70.99%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处的建筑装饰行业竞争日趋激烈，客户履约评价至关重要。",
+      "quote": "1.市场竞争风险 公司所处的建筑装饰行业竞争日趋激烈，客户履约评价至关重要。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "科技创新日新月异，对公司乃至行业有着重要的影响。公司将坚持科技投入，提升科技成果转换，积极应对技术创新的挑战。",
+      "quote": "2.技术创新风险 科技创新日新月异，对公司乃至行业有着重要的影响。公司将坚持科技投入，提升科技成果转换，积极应对技术创新的挑战。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "建筑行业为高风险行业，安全生产责任重大。",
+      "quote": "3.安全生产风险 建筑行业为高风险行业，安全生产责任重大。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "截至报告期末，母公司存在未弥补亏损。公司计划不派发现金红利。",
+      "quote": "截至报告期末，母公司存在未弥补亏损。...公司目前不满足实施现金分红的前提条件。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户合计销售金额占年度销售总额比例70.99%，其中控股股东为关联方客户，销售占比22.72%。",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 70.99% ... 前五名客户销售额中关联方销售额占年度销售总额比例 22.72%"
+    }
+  ]
+}

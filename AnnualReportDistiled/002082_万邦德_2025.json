@@ -1,0 +1,572 @@
+{
+  "company_name_mentioned": "万邦德医药控股集团股份有限公司",
+  "produces": [
+    {
+      "name": "中药",
+      "type": "material",
+      "revenue_proportion": "17.13%",
+      "quote": "分产品: 中药 191,355,573.36 17.13%"
+    },
+    {
+      "name": "化学原料药及制剂",
+      "type": "material",
+      "revenue_proportion": "23.25%",
+      "quote": "分产品: 化学原料药及制剂 259,762,943.64 23.25%"
+    },
+    {
+      "name": "医疗器械",
+      "type": "device",
+      "revenue_proportion": "41.79%",
+      "quote": "分产品: 医疗器械 466,966,163.27 41.79%"
+    },
+    {
+      "name": "骨科植入器械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "骨科植入器械业务以人体骨科植入器械研发、生产、销售为主。"
+    },
+    {
+      "name": "一次性无菌医用高分子器械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的一次性无菌医用高分子器械，有注册产品29个"
+    },
+    {
+      "name": "医疗设备及医院工程集成服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "医疗设备进口、分销商和维保服务以南非为基地服务于南部非洲地区"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、零部件、设备、软件、服务或能源",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购的原材料、零部件、设备、软件、服务或能源。"
+    },
+    {
+      "name": "银杏叶提取物",
+      "target_product": "银杏叶滴丸",
+      "cost_proportion": null,
+      "quote": "子公司贝斯康药业位于“银杏之乡”江苏邳州，银杏叶资源丰富，能够稳定供应主要原材料银杏叶提取物"
+    }
+  ],
+  "applications": [
+    {
+      "name": "心脑血管疾病",
+      "source_product": "银杏叶滴丸",
+      "quote": "心血管疾病用药中成药内服市场规模已超过363亿元，其中银杏叶制剂占比约7.42%"
+    },
+    {
+      "name": "神经系统疾病（如痴呆、阿尔茨海默病、重症肌无力）",
+      "source_product": "石杉碱甲注射液",
+      "quote": "石杉碱甲注射液作为改善痴呆患者及脑器质性病变所致记忆障碍、良性记忆障碍和重症肌无力的一线用药。"
+    },
+    {
+      "name": "呼吸系统疾病（如急慢性支气管炎、肺部感染）",
+      "source_product": "盐酸溴己新",
+      "quote": "盐酸溴己新产品作为临床一线化痰类药物，构建了公司呼吸系统用药的核心产品矩阵"
+    },
+    {
+      "name": "骨科疾病",
+      "source_product": "骨科植入器械",
+      "quote": "产品包括胸腰椎融合器、颈椎融合器、脊柱内固定系统、独立式融合器、单髁膝关节等"
+    },
+    {
+      "name": "临床医疗（注射、输液、采血等）",
+      "source_product": "一次性无菌医用高分子器械",
+      "quote": "主要产品包括无菌注射器（针）、自毁式注射器、一次性使用输液（血）器等"
+    },
+    {
+      "name": "南部非洲地区医疗设备供应与医院建设",
+      "source_product": "医疗设备及医院工程集成服务",
+      "quote": "特迈克非洲公司是南非最大规模的本地医疗设备代理销售和维保服务商以及医院建设“交钥匙”项目承包商。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赵守明",
+      "role": "董事长、总经理、董事会秘书（代行）、实际控制人",
+      "quote": "公司负责人赵守明...现任...万邦德医药控股集团股份有限公司董事长兼总经理，董事会秘书（代行）。"
+    },
+    {
+      "name": "庄惠",
+      "role": "副董事长、实际控制人",
+      "quote": "副董事长庄惠女士...万邦德医药控股集团股份有限公司副董事长。"
+    },
+    {
+      "name": "金正",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人金正及会计机构负责人（会计主管人员）金正...现任...万邦德医药控股集团股份有限公司财务总监。"
+    },
+    {
+      "name": "刘同科",
+      "role": "董事、常务副总经理",
+      "quote": "刘同科先生...现任万邦德医药控股集团股份有限公司董事兼副总经理。"
+    },
+    {
+      "name": "韩彬",
+      "role": "董事",
+      "quote": "韩彬先生...现任万邦德医药控股集团股份有限公司董事。"
+    },
+    {
+      "name": "林红",
+      "role": "董事",
+      "quote": "林红女士...现任万邦德医药控股集团股份有限公司董事。"
+    },
+    {
+      "name": "马健",
+      "role": "董事",
+      "quote": "马健先生...现任万邦德医药控股集团股份有限公司董事。"
+    },
+    {
+      "name": "周岳江",
+      "role": "独立董事",
+      "quote": "周岳江先生...现任...万邦德医药控股集团股份有限公司独立董事。"
+    },
+    {
+      "name": "李杨",
+      "role": "独立董事",
+      "quote": "李杨女士...现任万邦德医药控股集团股份有限公司独立董事。"
+    },
+    {
+      "name": "屠鹏飞",
+      "role": "独立董事",
+      "quote": "屠鹏飞先生...现任万邦德医药控股集团股份有限公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "万邦德制药集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事现代中药、化学原料药及化学制剂的研发、生产和销售",
+      "quote": "万邦德制药 指 万邦德制药集团有限公司，系公司全资子公司"
+    },
+    {
+      "name": "温岭市万邦德健康科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "万邦德健康科技 指 温岭市万邦德健康科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "湖南华宝通制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司二级全资子公司",
+      "quote": "华宝通 指 湖南华宝通制药有限公司，系公司二级全资子公司"
+    },
+    {
+      "name": "江苏贝斯康药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司二级控股子公司，位于“银杏之乡”江苏邳州，供应银杏叶提取物",
+      "quote": "贝斯康 指 江苏贝斯康药业有限公司，系公司二级控股子公司"
+    },
+    {
+      "name": "万邦德医疗科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司二级控股子公司，从事医疗器械业务",
+      "quote": "万邦德医疗科技 指 万邦德医疗科技有限公司，系公司二级控股子公司"
+    },
+    {
+      "name": "浙江康慈医疗科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司二级全资子公司",
+      "quote": "康慈医疗 指 浙江康慈医疗科技有限公司，系公司二级全资子公司"
+    },
+    {
+      "name": "浙江康康医疗器械股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司二级控股子公司，生产一次性无菌医用高分子器械",
+      "quote": "康康医疗 指 浙江康康医疗器械股份有限公司，系公司二级控股子公司"
+    },
+    {
+      "name": "特迈克非洲公司",
+      "relation_type": "subsidiary",
+      "business_details": "南非子公司，南非最大规模的本地医疗设备代理销售和维保服务商",
+      "quote": "特迈克非洲公司是医疗设备及医院工程集成服务业务的主要运营主体，是南非最大规模的本地医疗设备代理销售和维保服务商"
+    },
+    {
+      "name": "万邦德集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 万邦德集团有限公司"
+    },
+    {
+      "name": "中国医药集团有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "1 中国医药集团有限公司 88,890,397.01 7.96%"
+    },
+    {
+      "name": "苏州延天龄医药有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "2 苏州延天龄医药有限公司 67,314,368.06 6.02%"
+    },
+    {
+      "name": "浙江省医疗健康集团医药有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "3 浙江省医疗健康集团医药有限公司 53,265,470.88 4.77%"
+    },
+    {
+      "name": "湖北万康源药业有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "4 湖北万康源药业有限公司 25,371,776.85 2.27%"
+    },
+    {
+      "name": "VANRENSBURG & PARTNERS S.A.IN",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "5 VANRENSBURG&PARTNERSS.A.IN 22,372,250.55 2.00%"
+    },
+    {
+      "name": "湖北云烨医药科技有限公司/云烨健康产业有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "1 湖北云烨医药科技有限公司 云烨健康产业有限公司 130,786,892.11 18.32%"
+    },
+    {
+      "name": "CANON MEDICAL SYSTEMS CORPERATION",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一，进口医疗设备",
+      "quote": "2 CANONMEDICALSYSTEMS-EQUIPMENT CANONMEDICALSYSTEMSCORPERATION 69,729,760.07 9.77%"
+    },
+    {
+      "name": "安徽丰原医药营销有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "3 安徽丰原医药营销有限公司 66,883,320.60 9.37%"
+    },
+    {
+      "name": "台州九州通医药有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "4 台州九州通医药有限公司 56,009,097.00 7.84%"
+    },
+    {
+      "name": "浙江本立科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "5 浙江本立科技股份有限公司 24,335,309.72 5.66%"
+    },
+    {
+      "name": "温岭市万龙医药科技合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "股东，协议受让股份",
+      "quote": "温岭市万龙医药科技合伙企业（有限合伙） 9.81% 60,000,000"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "451,118,517.00元",
+      "revenue_proportion": "40.37%",
+      "gross_margin": "59.74%",
+      "yoy_change": "-35.91%",
+      "quote": "分行业: 医药制造 451,118,517.00 40.37% 703,838,508.66 48.76% -35.91%"
+    },
+    {
+      "name": "专业设备制造及服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "466,966,163.27元",
+      "revenue_proportion": "41.79%",
+      "gross_margin": "25.14%",
+      "yoy_change": "0.44%",
+      "quote": "分行业: 专业设备制造及服务 466,966,163.27 41.79% 464,920,031.77 32.21% 0.44%"
+    },
+    {
+      "name": "医药流通",
+      "segment_type": "business_unit",
+      "revenue_amount": "198,062,387.56元",
+      "revenue_proportion": "17.73%",
+      "gross_margin": "1.25%",
+      "yoy_change": "-10.92%",
+      "quote": "分行业: 医药流通 198,062,387.56 17.73% 222,351,543.32 15.41% -10.92%"
+    },
+    {
+      "name": "中药",
+      "segment_type": "product_line",
+      "revenue_amount": "191,355,573.36元",
+      "revenue_proportion": "17.13%",
+      "gross_margin": "75.83%",
+      "yoy_change": "-32.08%",
+      "quote": "分产品: 中药 191,355,573.36 17.13% 281,718,851.39 19.52% -32.08%"
+    },
+    {
+      "name": "化学原料药及制剂",
+      "segment_type": "product_line",
+      "revenue_amount": "259,762,943.64元",
+      "revenue_proportion": "23.25%",
+      "gross_margin": "47.88%",
+      "yoy_change": "-38.46%",
+      "quote": "分产品: 化学原料药及制剂 259,762,943.64 23.25% 422,119,657.27 29.25% -38.46%"
+    },
+    {
+      "name": "医疗器械",
+      "segment_type": "product_line",
+      "revenue_amount": "466,966,163.27元",
+      "revenue_proportion": "41.79%",
+      "gross_margin": "25.14%",
+      "yoy_change": "0.44%",
+      "quote": "分产品: 医疗器械 466,966,163.27 41.79% 464,920,031.77 32.21% 0.44%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "785,477,765.77元",
+      "revenue_proportion": "70.30%",
+      "gross_margin": "36.21%",
+      "yoy_change": "-30.37%",
+      "quote": "分地区: 境内 785,477,765.77 70.30% 1,128,057,595.60 78.15% -30.37%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "331,846,326.53元",
+      "revenue_proportion": "29.70%",
+      "gross_margin": "32.20%",
+      "yoy_change": "5.25%",
+      "quote": "分地区: 境外 331,846,326.53 29.70% 315,307,627.50 21.85% 5.25%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "313,591,005.43元",
+      "revenue_proportion": "28.07%",
+      "gross_margin": "16.68%",
+      "yoy_change": "-10.61%",
+      "quote": "分销售模式: 直销 313,591,005.43 28.07% 350,797,427.79 24.30% -10.61%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "803,733,086.87元",
+      "revenue_proportion": "71.93%",
+      "gross_margin": "42.06%",
+      "yoy_change": "-26.44%",
+      "quote": "分销售模式: 经销 803,733,086.87 71.93% 1,092,567,795.31 75.70% -26.44%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "一次性无菌医用高分子器械（注射器）",
+      "metric_type": "capacity",
+      "value": "12亿支/年",
+      "period": "报告期",
+      "quote": "公司目前拥有10条对标国际质量标准的自动化注射器生产线，适用多种规格注射器，产能达12亿支/年"
+    },
+    {
+      "product": "一次性无菌医用高分子器械（输液器）",
+      "metric_type": "capacity",
+      "value": "1亿套/年",
+      "period": "报告期",
+      "quote": "拥有3条符合国际标准的半自动输液器生产线，输液器产能达1亿套/年"
+    },
+    {
+      "product": "药品制剂",
+      "metric_type": "sales_volume",
+      "value": "2,455,625,026.58 粒/丸/片/袋/支/丸",
+      "period": "2025年",
+      "quote": "销售量 粒/丸/片/袋/支/丸 2,455,625,026.58"
+    },
+    {
+      "product": "药品制剂",
+      "metric_type": "production_volume",
+      "value": "2,881,018,060.00 粒/丸/片/袋/支/丸",
+      "period": "2025年",
+      "quote": "生产量 粒/丸/片/袋/支/丸 2,881,018,060.00"
+    },
+    {
+      "product": "药品制剂",
+      "metric_type": "inventory_volume",
+      "value": "615,595,731.49 粒/丸/片/袋/支/丸",
+      "period": "2025年末",
+      "quote": "库存量 粒/丸/片/袋/支/丸 615,595,731.49"
+    },
+    {
+      "product": "原料药",
+      "metric_type": "sales_volume",
+      "value": "245,229.43 千克",
+      "period": "2025年",
+      "quote": "销售量 千克 245,229.43"
+    },
+    {
+      "product": "原料药",
+      "metric_type": "production_volume",
+      "value": "291,088.79 千克",
+      "period": "2025年",
+      "quote": "生产量 千克 291,088.79"
+    },
+    {
+      "product": "原料药",
+      "metric_type": "inventory_volume",
+      "value": "183,715.23 千克",
+      "period": "2025年末",
+      "quote": "库存量 千克 183,715.23"
+    },
+    {
+      "product": "医疗器械",
+      "metric_type": "sales_volume",
+      "value": "502,227,826.00 套/支/只",
+      "period": "2025年",
+      "quote": "销售量 套/支/只 502,227,826.00"
+    },
+    {
+      "product": "医疗器械",
+      "metric_type": "production_volume",
+      "value": "470,481,046.00 套/支/只",
+      "period": "2025年",
+      "quote": "生产量 套/支/只 470,481,046.00"
+    },
+    {
+      "product": "医疗器械",
+      "metric_type": "inventory_volume",
+      "value": "25,801,920.00 套/支/只",
+      "period": "2025年末",
+      "quote": "库存量 套/支/只 25,801,920.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "上马原料药厂区二期建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "65.00%",
+      "expected_completion_time": null,
+      "quote": "投资项目名称: 上马原料药厂区二期建设项目 本报告期投入金额: 74,281,264.14 截至报告期末累计实际投入金额: 382,407,731.28 项目进度: 65.00%"
+    },
+    {
+      "name": "口服液车间迁建工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "90.00%",
+      "expected_completion_time": null,
+      "quote": "投资项目名称: 口服液车间迁建工程 本报告期投入金额: 35,470.80 截至报告期末累计实际投入金额: 43,071,666.30 项目进度: 90.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "天然植物药分离纯化技术、药物释放技术、化学原料药合成技术等",
+      "asset_type": "core_technology",
+      "related_product": "银杏叶滴丸、石杉碱甲注射液等",
+      "quantitative_info": null,
+      "quote": "万邦德制药已建立起具备较强竞争优势的技术开发平台，在天然植物药分离纯化技术、药物释放技术、化学原料药合成技术、心脑血管及神经系统药物工艺优化与技术创新等方面积累了丰富的研发经验。"
+    },
+    {
+      "name": "石杉碱甲系列专利（美国、欧洲、日本）",
+      "asset_type": "patent",
+      "related_product": "石杉碱甲注射液",
+      "quantitative_info": "获得美国、欧洲、日本等多国专利",
+      "quote": "其核心成分石杉碱甲为国内外首创药物，荣获国家技术发明奖二等奖、国家自然科学二等奖，更在全球布局获得美国、欧洲、日本等多国专利。"
+    },
+    {
+      "name": "专利（医药制造板块）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，拥有专利65个，其中发明专利50个，实用新型专利12个，外观专利3个；2025年度新增13个专利。",
+      "quote": "截至报告期末，医药制造板块拥有专利65个，其中发明专利50个，实用新型专利12个，外观专利3个；公司主要产品之一石杉碱甲已分别获得美国专利、欧洲专利、日本专利各1个。2025年度新增13个专利。"
+    },
+    {
+      "name": "专利（医疗器械板块）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，拥有专利68个，其中发明专利20个，实用新型专利44个，外观专利4个。2025年度新增10个专利。",
+      "quote": "截至报告期末，医疗器械板块拥有专利68个，其中发明专利20个，实用新型专利44个，外观专利4个。2025年度新增10个专利。"
+    },
+    {
+      "name": "美国FDA510(K)、欧盟CE认证（一次性无菌医用高分子器械）",
+      "asset_type": "certification",
+      "related_product": "一次性使用无菌注射器等",
+      "quantitative_info": null,
+      "quote": "公司一次性使用无菌注射器已通过美国FDA510（K）、欧盟CE认证，一次性使用无菌自毁式注射器、一次性使用无菌皮下注射针等通过美国FDA510（K）认证"
+    },
+    {
+      "name": "美国FDA认证、欧盟CE认证（骨科植入器械）",
+      "asset_type": "certification",
+      "related_product": "骨科植入器械",
+      "quantitative_info": "6类产品通过美国FDA认证，20类产品取得欧盟的CE认证",
+      "quote": "已有6类产品通过美国FDA认证，20类产品取得欧盟的CE认证。"
+    },
+    {
+      "name": "国家药典起草单位（参与制定银杏叶滴丸、石杉碱甲注射液等标准）",
+      "asset_type": "standard",
+      "related_product": "银杏叶滴丸、石杉碱甲注射液、盐酸溴己新片、氯氮平片",
+      "quantitative_info": null,
+      "quote": "万邦德制药曾参与银杏叶滴丸、石杉碱甲注射液、盐酸溴己新片和氯氮平片的国家药品标准起草。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "257,214,263.35元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 257,214,263.35"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "23.03%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 23.03%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "347,744,379.50元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 347,744,379.50"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.95%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.95%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "集中带量采购降价风险、市场竞争风险、低值耗材市场参与者多，集采降价压力突出",
+      "related_entity": null,
+      "related_product": "化学药品、中成药、一次性无菌高分子医疗器械",
+      "quote": "1. 集中带量采购降价风险...2. 市场竞争风险...一次性无菌高分子医疗器械所属低值耗材市场，技术壁垒低、参与者多，集采降价压力突出。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料价格波动、供应稳定性变化，可能对生产成本和生产连续性造成不利影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3. 原材料及产品研发的风险...同时，主要原材料价格波动、供应稳定性变化，也可能对生产成本和生产连续性造成不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新产品研发投资大、周期长、若研发进程不及预期、关键技术未能突破或新产品未通过注册审批，将影响到企业前期投入的回收和效益的实现",
+      "related_entity": null,
+      "related_product": "创新药、仿制药",
+      "quote": "3. 原材料及产品研发的风险...产品研发和技术创新是企业核心竞争力的关键。新产品研发投资大、周期长、若研发进程不及预期、关键技术未能突破或新产品未通过注册审批，将影响到企业前期投入的回收和效益的实现"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司于2017年起先后完成万邦德医疗科技、康慈医疗两家非同一控制下的企业并购，其中万邦德医疗科技尚存在商誉情形，若后期相关标的业绩不及预期，可能产生商誉减值的风险。",
+      "related_entity": "万邦德医疗科技有限公司",
+      "related_product": null,
+      "quote": "4. 商誉减值风险...若后期相关标的业绩不及预期，可能产生商誉减值的风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司所处行业属于国家环保监管要求较高的行业，如未来国家及地方政府提高环保监管要求，公司可能支付更高的环保费用，对未来利润水平产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5. 环保风险...如未来国家及地方政府提高环保监管要求，公司可能支付更高的环保费用，对未来利润水平产生一定影响。"
+    }
+  ]
+}

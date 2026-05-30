@@ -1,0 +1,600 @@
+{
+  "company_name_mentioned": "广东德美精细化工集团股份有限公司",
+  "produces": [
+    {
+      "name": "纺织化学品",
+      "type": "material",
+      "revenue_proportion": "54.94%",
+      "quote": "纺织化学品 1,646,992,245.89 54.94% 1,566,471,801.40 51.26% 5.14%"
+    },
+    {
+      "name": "皮革化学品",
+      "type": "material",
+      "revenue_proportion": "9.78%",
+      "quote": "皮革化学品 293,387,539.10 9.78% 266,170,081.22 8.71% 10.23%"
+    },
+    {
+      "name": "塔拉产品",
+      "type": "material",
+      "revenue_proportion": "3.93%",
+      "quote": "塔拉产品 117,674,555.67 3.93% 110,073,957.43 3.60% 6.90%"
+    },
+    {
+      "name": "石油精细化学品",
+      "type": "material",
+      "revenue_proportion": "30.41%",
+      "quote": "石油化学品 911,862,256.84 30.41% 1,082,899,283.88 35.43% -15.79%"
+    },
+    {
+      "name": "间戊二烯树脂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "间戊二烯树脂 70000t/a 41.40%"
+    },
+    {
+      "name": "异戊二烯",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "异戊二烯 74000t/a 43.40%"
+    },
+    {
+      "name": "双环戊二烯",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "双环戊二烯 47200t/a 46.40%"
+    },
+    {
+      "name": "没食子酸丙酯",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "没食子酸丙酯-什邡公司 2000t/a 53.60%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "脂肪酸A",
+      "target_product": "纺织化学品",
+      "cost_proportion": "1.87%",
+      "quote": "脂肪酸A 一单一议 1.87% 否 10.15元/kg 9.64元/kg"
+    },
+    {
+      "name": "脂肪醇聚氧乙烯醚",
+      "target_product": "纺织化学品",
+      "cost_proportion": "1.01%",
+      "quote": "脂肪醇聚氧乙烯醚 一单一议 1.01% 否 13.36元/kg 12.90元/kg"
+    },
+    {
+      "name": "脂肪酸B",
+      "target_product": "纺织化学品",
+      "cost_proportion": "0.88%",
+      "quote": "脂肪酸B 一单一议 0.88% 否 8.80元/kg 9.04元/kg"
+    },
+    {
+      "name": "聚乙二醇",
+      "target_product": "纺织化学品",
+      "cost_proportion": "0.72%",
+      "quote": "聚乙二醇 一单一议 0.72% 否 6.70元/kg 6.01元/kg"
+    },
+    {
+      "name": "裂解碳五",
+      "target_product": "石油精细化学品",
+      "cost_proportion": "17.02%",
+      "quote": "裂解碳五 年度合约 17.02% 否 4,767.09元/吨 4,089.63元/吨"
+    },
+    {
+      "name": "苯乙烯",
+      "target_product": "石油精细化学品",
+      "cost_proportion": "0.26%",
+      "quote": "苯乙烯 年度合约 0.26% 否 7,967.02元/吨 6,783.53元/吨"
+    },
+    {
+      "name": "塔拉粉",
+      "target_product": "塔拉产品",
+      "cost_proportion": "2.14%",
+      "quote": "塔拉粉 一月一议 2.14% 否 14.59元/kg 14.13元/kg"
+    }
+  ],
+  "applications": [
+    {
+      "name": "纺织印染",
+      "source_product": "纺织化学品",
+      "quote": "纺织助剂化学品覆盖印染全工序，可改善印染品质、提升纺织品附加值"
+    },
+    {
+      "name": "皮革加工",
+      "source_product": "皮革化学品",
+      "quote": "皮革化学品贯穿制革全流程，主要包括铬鞣剂、复鞣剂、加脂剂、无铬鞣剂等"
+    },
+    {
+      "name": "饲料",
+      "source_product": "塔拉产品",
+      "quote": "产品包括塔拉胶、塔拉粉、没食子酸丙酯（PG）等，应用于饲料、食品、皮革等领域"
+    },
+    {
+      "name": "食品",
+      "source_product": "塔拉产品",
+      "quote": "产品包括塔拉胶、塔拉粉、没食子酸丙酯（PG）等，应用于饲料、食品、皮革等领域"
+    },
+    {
+      "name": "路标漆",
+      "source_product": "石油精细化学品",
+      "quote": "碳五与碳九裂解产品主要用于胶粘剂、轮胎、路标漆、油漆、橡胶制造、医疗器械等国民经济领域的众多行业"
+    },
+    {
+      "name": "胶粘剂",
+      "source_product": "石油精细化学品",
+      "quote": "碳五与碳九裂解产品主要用于胶粘剂、轮胎、路标漆、油漆、橡胶制造、医疗器械等国民经济领域的众多行业"
+    },
+    {
+      "name": "轮胎",
+      "source_product": "石油精细化学品",
+      "quote": "碳五与碳九裂解产品主要用于胶粘剂、轮胎、路标漆、油漆、橡胶制造、医疗器械等国民经济领域的众多行业"
+    },
+    {
+      "name": "油漆",
+      "source_product": "石油精细化学品",
+      "quote": "碳五与碳九裂解产品主要用于胶粘剂、轮胎、路标漆、油漆、橡胶制造、医疗器械等国民经济领域的众多行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄冠雄",
+      "role": "董事长",
+      "quote": "公司负责人黄冠雄"
+    },
+    {
+      "name": "何国英",
+      "role": "董事、副总经理、主管会计工作负责人",
+      "quote": "主管会计工作负责人何国英"
+    },
+    {
+      "name": "黄尚东",
+      "role": "董事、总经理",
+      "quote": "黄尚东：男，1980年生...现任公司董事、总经理、研究院院长、纺化事业部总经理职务"
+    },
+    {
+      "name": "朱闽翀",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书 朱闽翀"
+    },
+    {
+      "name": "徐欣公",
+      "role": "副总经理",
+      "quote": "徐欣公：男，1970年生...现担任公司副总经理职务及亭江新材事业部总经理职务"
+    },
+    {
+      "name": "张明智",
+      "role": "副总经理",
+      "quote": "张明智：男，1975年生...现担任公司副总经理职务"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川亭江新材料股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "皮革化学品生产",
+      "quote": "四川亭江、亭江新材、亭江公司、什邡公司 指 四川亭江新材料股份有限公司"
+    },
+    {
+      "name": "浙江德荣化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "石油精细化学品生产销售",
+      "quote": "德荣化工 指 浙江德荣化工有限公司"
+    },
+    {
+      "name": "浙江石油化工有限公司",
+      "relation_type": "supplier",
+      "business_details": "C5、苯乙烯原材料供应",
+      "quote": "浙石化 指 浙江石油化工有限公司"
+    },
+    {
+      "name": "广东顺德农村商业银行股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "银行贷款",
+      "quote": "农商行、顺德农商行 指 广东顺德农村商业银行股份有限公司"
+    },
+    {
+      "name": "明仁精细化工（嘉兴）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "精细化工生产",
+      "quote": "浙江明仁、明仁化工、明仁公司 指 明仁精细化工（嘉兴）有限公司"
+    },
+    {
+      "name": "佛山市顺德区美龙环戊烷化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "环戊烷生产",
+      "quote": "美龙环戊烷 指 佛山市顺德区美龙环戊烷化工有限公司"
+    },
+    {
+      "name": "SILVATEAM PERU S.A.C.施华特秘鲁公司",
+      "relation_type": "subsidiary",
+      "business_details": "塔拉种植及加工",
+      "quote": "施华特秘鲁、秘鲁公司 指 SilvateamPeru S.A.C.施华特秘鲁公司"
+    },
+    {
+      "name": "开源证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "证券服务",
+      "quote": "开源证券 指 开源证券股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化工制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,969,916,597.50",
+      "revenue_proportion": "99.06%",
+      "gross_margin": "26.95%",
+      "yoy_change": null,
+      "quote": "化工制造 2,969,916,597.50 99.06% 3,025,615,123.93 99.00% -1.84%"
+    },
+    {
+      "name": "纺织化学品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,646,992,245.89",
+      "revenue_proportion": "54.94%",
+      "gross_margin": "36.80%",
+      "yoy_change": null,
+      "quote": "纺织化学品 1,646,992,245.89 54.94% 1,566,471,801.40 51.26% 5.14%"
+    },
+    {
+      "name": "皮革化学品",
+      "segment_type": "product_line",
+      "revenue_amount": "293,387,539.10",
+      "revenue_proportion": "9.78%",
+      "gross_margin": "40.45%",
+      "yoy_change": null,
+      "quote": "皮革化学品 293,387,539.10 9.78% 266,170,081.22 8.71% 10.23%"
+    },
+    {
+      "name": "塔拉产品",
+      "segment_type": "product_line",
+      "revenue_amount": "117,674,555.67",
+      "revenue_proportion": "3.93%",
+      "gross_margin": "10.95%",
+      "yoy_change": null,
+      "quote": "塔拉产品 117,674,555.67 3.93% 110,073,957.43 3.60% 6.90%"
+    },
+    {
+      "name": "石油化学品",
+      "segment_type": "product_line",
+      "revenue_amount": "911,862,256.84",
+      "revenue_proportion": "30.41%",
+      "gross_margin": "6.87%",
+      "yoy_change": null,
+      "quote": "石油化学品 911,862,256.84 30.41% 1,082,899,283.88 35.43% -15.79%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,779,654,785.81",
+      "revenue_proportion": "59.36%",
+      "gross_margin": "27.24%",
+      "yoy_change": null,
+      "quote": "华东地区 1,779,654,785.81 59.36% 1,944,402,857.01 63.62% -8.47%"
+    },
+    {
+      "name": "中南地区",
+      "segment_type": "region",
+      "revenue_amount": "631,903,049.15",
+      "revenue_proportion": "21.08%",
+      "gross_margin": "22.57%",
+      "yoy_change": null,
+      "quote": "中南地区 631,903,049.15 21.08% 554,661,924.41 18.15% 13.93%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "396,610,457.35",
+      "revenue_proportion": "13.23%",
+      "gross_margin": "33.01%",
+      "yoy_change": null,
+      "quote": "境外 396,610,457.35 13.23% 396,993,673.85 12.99% -0.10%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,892,072,065.33",
+      "revenue_proportion": "96.47%",
+      "gross_margin": "26.08%",
+      "yoy_change": null,
+      "quote": "直接销售 2,892,072,065.33 96.47% 3,056,129,763.87 100.00% -5.37%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "纺织化学品-顺德工厂",
+      "metric_type": "capacity",
+      "value": "108000t/a",
+      "period": null,
+      "quote": "纺织化学品-顺德工厂 108000t/a 74.36%"
+    },
+    {
+      "product": "纺织化学品-顺德工厂",
+      "metric_type": "capacity_utilization",
+      "value": "74.36%",
+      "period": null,
+      "quote": "纺织化学品-顺德工厂 108000t/a 74.36%"
+    },
+    {
+      "product": "纺织化学品-德雄公司",
+      "metric_type": "capacity",
+      "value": "36000t/a",
+      "period": null,
+      "quote": "纺织化学品-德雄公司 36000t/a 在建中"
+    },
+    {
+      "product": "纺织化学品-德雄公司",
+      "metric_type": "other",
+      "value": "在建中",
+      "period": null,
+      "quote": "纺织化学品-德雄公司 36000t/a 在建中"
+    },
+    {
+      "product": "间戊二烯树脂",
+      "metric_type": "capacity",
+      "value": "70000t/a",
+      "period": null,
+      "quote": "间戊二烯树脂 70000t/a 41.40%"
+    },
+    {
+      "product": "间戊二烯树脂",
+      "metric_type": "capacity_utilization",
+      "value": "41.40%",
+      "period": null,
+      "quote": "间戊二烯树脂 70000t/a 41.40%"
+    },
+    {
+      "product": "异戊二烯",
+      "metric_type": "capacity",
+      "value": "74000t/a",
+      "period": null,
+      "quote": "异戊二烯 74000t/a 43.40%"
+    },
+    {
+      "product": "异戊二烯",
+      "metric_type": "capacity_utilization",
+      "value": "43.40%",
+      "period": null,
+      "quote": "异戊二烯 74000t/a 43.40%"
+    },
+    {
+      "product": "双环戊二烯",
+      "metric_type": "capacity",
+      "value": "47200t/a",
+      "period": null,
+      "quote": "双环戊二烯 47200t/a 46.40%"
+    },
+    {
+      "product": "双环戊二烯",
+      "metric_type": "capacity_utilization",
+      "value": "46.40%",
+      "period": null,
+      "quote": "双环戊二烯 47200t/a 46.40%"
+    },
+    {
+      "product": "加氢碳九",
+      "metric_type": "capacity",
+      "value": "125100t/a",
+      "period": null,
+      "quote": "加氢碳九 125100t/a 109.00%"
+    },
+    {
+      "product": "加氢碳九",
+      "metric_type": "capacity_utilization",
+      "value": "109.00%",
+      "period": null,
+      "quote": "加氢碳九 125100t/a 109.00%"
+    },
+    {
+      "product": "纺织化学品",
+      "metric_type": "production_volume",
+      "value": "154,499.51吨",
+      "period": "2025",
+      "quote": "纺织化学品 154,499.51吨 158,883.68吨 1,646,992,245.89"
+    },
+    {
+      "product": "纺织化学品",
+      "metric_type": "sales_volume",
+      "value": "158,883.68吨",
+      "period": "2025",
+      "quote": "纺织化学品 154,499.51吨 158,883.68吨 1,646,992,245.89"
+    },
+    {
+      "product": "皮革化学品",
+      "metric_type": "production_volume",
+      "value": "19,759.26吨",
+      "period": "2025",
+      "quote": "皮革化学品 19,759.26吨 19,701.53吨 293,387,539.10"
+    },
+    {
+      "product": "皮革化学品",
+      "metric_type": "sales_volume",
+      "value": "19,701.53吨",
+      "period": "2025",
+      "quote": "皮革化学品 19,759.26吨 19,701.53吨 293,387,539.10"
+    },
+    {
+      "product": "塔拉产品",
+      "metric_type": "production_volume",
+      "value": "9,131.77吨",
+      "period": "2025",
+      "quote": "塔拉产品 9,131.77吨 9,313.00吨 117,674,555.67"
+    },
+    {
+      "product": "塔拉产品",
+      "metric_type": "sales_volume",
+      "value": "9,313.00吨",
+      "period": "2025",
+      "quote": "塔拉产品 9,131.77吨 9,313.00吨 117,674,555.67"
+    },
+    {
+      "product": "石油化学品",
+      "metric_type": "production_volume",
+      "value": "93,503.35吨",
+      "period": "2025",
+      "quote": "石油化学品 93,503.35吨 104,766.34吨 911,862,256.84"
+    },
+    {
+      "product": "石油化学品",
+      "metric_type": "sales_volume",
+      "value": "104,766.34吨",
+      "period": "2025",
+      "quote": "石油化学品 93,503.35吨 104,766.34吨 911,862,256.84"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产10万吨纺织印染助剂建设项目",
+      "project_type": "capacity_expansion",
+      "location": "德雄公司",
+      "investment_amount": "55,599,053.92元（报告期内投入）",
+      "designed_capacity": "36000t/a",
+      "progress": "在建中",
+      "expected_completion_time": null,
+      "quote": "纺织化学品-德雄公司 36000t/a 在建中 ... 年产10万吨纺织印染助剂建设项目"
+    },
+    {
+      "name": "德荣化工乙烯裂解副产品综合利用项目",
+      "project_type": "capacity_expansion",
+      "location": "浙江",
+      "investment_amount": "134,805,662.39元（累计投入）",
+      "designed_capacity": null,
+      "progress": "100.00%（募投项目）",
+      "expected_completion_time": null,
+      "quote": "德荣化工乙烯裂解副产品综合利用项目 ... 截止报告期末累计实际投入金额 134,805,662.39 ... 进度 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "纺织化学品专利",
+      "asset_type": "patent",
+      "related_product": "纺织化学品",
+      "quantitative_info": "累计获得授权纺织化学品的各项生产技术较为成熟 截至报告期末，纺织化学品累计获得授权且有效的发明专利112件，累计获得授权且有效的实用新型专利40件。",
+      "quote": "截至报告期末，纺织化学品累计获得授权且有效的发明专利112件，累计获得授权且有效的实用新型专利40件。"
+    },
+    {
+      "name": "皮革化学品专利",
+      "asset_type": "patent",
+      "related_product": "皮革化学品",
+      "quantitative_info": "截至报告期末，皮革化学品累计获得授权且有效的发明专利12件，累计获得授权实用新型专利7件。",
+      "quote": "截至报告期末，皮革化学品累计获得授权且有效的发明专利12件，累计获得授权实用新型专利7件。"
+    },
+    {
+      "name": "塔拉生物基产品专利",
+      "asset_type": "patent",
+      "related_product": "塔拉产品",
+      "quantitative_info": "截至报告期末，塔拉生物基产品累计获得授权且有效的发明专利1件。",
+      "quote": "截至报告期末，塔拉生物基产品累计获得授权且有效的发明专利1件。"
+    },
+    {
+      "name": "石油树脂专利",
+      "asset_type": "patent",
+      "related_product": "石油树脂",
+      "quantitative_info": "截至报告期末，累计获得授权发明专利1件，实用新型专利5件。",
+      "quote": "截至报告期末，累计获得授权发明专利1件，实用新型专利5件。"
+    },
+    {
+      "name": "ISO9001:2015质量管理体系",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "有效期至2028年12月14日",
+      "quote": "ISO9001:2015质量管理体系 2028年12月14日 德美化工"
+    },
+    {
+      "name": "ISO14001:2015环境管理体系",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "有效期至2028年12月14日",
+      "quote": "ISO14001:2015环境管理体系 2028年12月14日 德美化工"
+    },
+    {
+      "name": "ISO45001：2018职业健康与安全管理体系",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "有效期至2028年12月01日",
+      "quote": "ISO45001：2018职业健康与安全管理体系 2028年12月01日 德美化工"
+    },
+    {
+      "name": "高新技术企业证书",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "有效期至2027年12月11日",
+      "quote": "高新技术企业证书 2027年12月11日 德美化工"
+    },
+    {
+      "name": "企业知识产权管理体系",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "有效期至2026年01月05日",
+      "quote": "企业知识产权管理体系 2026年01月05日 德美化工"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "7.95%",
+      "related_entity": "客户一",
+      "period": "2025",
+      "quote": "1 客户一 238,364,193.22 7.95%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.83%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名客户合计销售金额（元） 414,577,478.44 前五名客户合计销售金额占年度销售总额比例 13.83%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "24.26%",
+      "related_entity": "供应商一",
+      "period": "2025",
+      "quote": "1 供应商一 526,435,859.87 24.26%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "32.12%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名供应商合计采购金额（元） 696,943,039.94 前五名供应商合计采购金额占年度采购总额比例 32.12%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业中低端市场内卷严重，国际企业加速布局国内市场。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1. 市场竞争风险 行业中低端市场内卷严重，国际企业加速布局国内市场。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "石油副产品、化工原料价格受国际油价及市场供求影响波动。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2. 原料价格波动风险 石油副产品、化工原料价格受国际油价及市场供求影响波动。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "贸易保护主义升温、汇率波动影响出口业务。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3. 国际贸易风险 贸易保护主义升温、汇率波动影响出口业务。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "行业技术更新换代快，研发投入不足或方向偏差可能导致产品落后。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4. 技术研发风险 行业技术更新换代快，研发投入不足或方向偏差可能导致产品落后。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "化工行业生产存在环保及安全合规压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5. 环保及安全风险 化工行业生产存在环保及安全合规压力。"
+    }
+  ]
+}

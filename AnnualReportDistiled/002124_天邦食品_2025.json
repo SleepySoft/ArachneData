@@ -1,0 +1,367 @@
+{
+  "company_name_mentioned": "天邦食品股份有限公司",
+  "produces": [
+    {
+      "name": "商品猪",
+      "type": "material",
+      "revenue_proportion": "65.07%",
+      "quote": "报告期内，公司实现商品猪销售666.35万头...分行业...（一）生猪养殖 5,654,101,594.64 65.07%"
+    },
+    {
+      "name": "猪肉生鲜产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "生鲜业务实现营业收入 26.86 亿元...主要产品为食品及食品相关类别中的商品猪、猪肉生鲜产品、猪肉加工产品等。"
+    },
+    {
+      "name": "猪肉加工产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "食品深加工业务实现营业收入 0.95 亿元...主要产品为食品及食品相关类别中的商品猪、猪肉生鲜产品、猪肉加工产品等。"
+    },
+    {
+      "name": "猪肉制品加工业务（生鲜及包装肉制品）",
+      "type": "service",
+      "revenue_proportion": "32.00%",
+      "quote": "分行业...（二）食品加工 2,780,756,217.41 32.00%"
+    },
+    {
+      "name": "饲料产品",
+      "type": "material",
+      "revenue_proportion": "2.85%",
+      "quote": "分行业...（三）饲料产品 247,291,052.66 2.85%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "生猪",
+      "target_product": "猪肉制品加工",
+      "cost_proportion": "采购总额比例 63.62%",
+      "quote": "采购模式 采购内容 主要采购内容的金额...统一采购 生猪 2,529,585,523.00...前五名供应商合计采购金额占年度采购总额比例 63.62%"
+    },
+    {
+      "name": "辅料、包装物及其他物资",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购模式 采购内容 主要采购内容的金额...子公司自行采购 辅料、包装物及其他物资 30,148,151.49"
+    }
+  ],
+  "applications": [
+    {
+      "name": "餐饮",
+      "source_product": "猪肉制品",
+      "quote": "将肉品供应链接到餐饮、食品加工厂、团膳、商超、电商等众多平台"
+    },
+    {
+      "name": "食品加工厂",
+      "source_product": "猪肉制品",
+      "quote": "将肉品供应链接到餐饮、食品加工厂、团膳、商超、电商等众多平台"
+    },
+    {
+      "name": "商超",
+      "source_product": "猪肉制品",
+      "quote": "线下渠道通过优化经销商体系...在生鲜产品领域，公司重点强化商超、连锁餐饮及食品加工厂等核心渠道的合作深度"
+    },
+    {
+      "name": "电商",
+      "source_product": "猪肉制品",
+      "quote": "线上业务依托自营“拾分味道严选商城”小程序，并协同淘宝、京东、抖音等核心电商平台实现稳定增长"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张邦辉",
+      "role": "董事长、总裁、实际控制人",
+      "quote": "公司负责人张邦辉、主管会计工作负责人张邦辉...公司法定代表人 张邦辉...张邦辉先生为本公司的实际控制人...现任公司董事长、总裁"
+    },
+    {
+      "name": "张艳刚",
+      "role": "副总裁、汉世伟集团执行董事、总裁",
+      "quote": "张艳刚：...现任天邦食品股份有限公司副总裁兼汉世伟集团执行董事、总裁"
+    },
+    {
+      "name": "张德刚",
+      "role": "副总裁、法务总监",
+      "quote": "张德刚：...现任天邦食品股份有限公司副总裁兼法务总监"
+    },
+    {
+      "name": "章湘云",
+      "role": "副总裁、董事会秘书",
+      "quote": "章湘云：...现任公司副总裁兼董事会秘书"
+    },
+    {
+      "name": "杜超",
+      "role": "财务总监",
+      "quote": "杜超：...现任天邦食品股份有限公司财务总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "汉世伟食品集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "生猪养殖",
+      "quote": "汉世伟、汉世伟集团 指 汉世伟食品集团有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况...汉世伟食品集团有限公司...主要业务 生猪养殖"
+    },
+    {
+      "name": "拾分味道食品集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "肉制品加工",
+      "quote": "拾分味道、拾分味道集团 指 拾分味道食品集团有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况...拾分味道食品集团有限公司...主要业务 肉制品加工"
+    },
+    {
+      "name": "史记生物技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "史记生物 指 史记生物技术有限公司...史记生物技术有限公司及其子公司"
+    },
+    {
+      "name": "厦门建发物产有限公司",
+      "relation_type": "investor",
+      "business_details": "产业投资人，参与公司重整投资",
+      "quote": "公司与产业投资人厦门建发物产有限公司和南宁漓源粮油饲料有限公司签订了《重整投资协议》...最终确定厦门建发物产有限公司联合体为中选投资人"
+    },
+    {
+      "name": "桂林力源粮油食品集团有限公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商",
+      "quote": "公司前5大供应商资料...序号 供应商名称 采购额（元） 占年度采购总额比例 1 桂林力源粮油食品集团有限公司及其子公司 1,971,355,596.58 33.54%"
+    },
+    {
+      "name": "通威股份有限公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "公司前5大供应商资料...序号 供应商名称 采购额（元） 占年度采购总额比例 2 通威股份有限公司及其子公司 1,089,645,700.22 18.54%"
+    },
+    {
+      "name": "新希望六和饲料股份有限公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "第三大供应商",
+      "quote": "公司前5大供应商资料...序号 供应商名称 采购额（元） 占年度采购总额比例 3 新希望六和饲料股份有限公司及其子公司 355,425,232.68 6.05%"
+    },
+    {
+      "name": "广西横州市辉创农牧有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户",
+      "quote": "公司前5大客户资料...序号 客户名称 销售额（元） 占年度销售总额比例 1 广西横州市辉创农牧有限公司 260,309,635.24 3.00%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "生猪养殖",
+      "segment_type": "product_line",
+      "revenue_amount": "5,654,101,594.64 元",
+      "revenue_proportion": "65.07%",
+      "gross_margin": "12.62%",
+      "yoy_change": "-9.99%",
+      "quote": "分行业...（一）生猪养殖 5,654,101,594.64 65.07%...毛利率比上年增减 -13.00%"
+    },
+    {
+      "name": "食品加工",
+      "segment_type": "product_line",
+      "revenue_amount": "2,780,756,217.41 元",
+      "revenue_proportion": "32.00%",
+      "gross_margin": "0.00%",
+      "yoy_change": "-10.07%",
+      "quote": "分行业...（二）食品加工 2,780,756,217.41 32.00%...毛利率比上年增减 1.49%"
+    },
+    {
+      "name": "饲料产品",
+      "segment_type": "product_line",
+      "revenue_amount": "247,291,052.66 元",
+      "revenue_proportion": "2.85%",
+      "gross_margin": null,
+      "yoy_change": "-2.64%",
+      "quote": "分行业...（三）饲料产品 247,291,052.66 2.85%"
+    },
+    {
+      "name": "线下",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,684,384,936.88 元",
+      "revenue_proportion": "99.95%",
+      "gross_margin": "8.55%",
+      "yoy_change": "-9.90%",
+      "quote": "分销售模式 线下 8,684,384,936.88 99.95%...毛利率比上年增减 -7.93%"
+    },
+    {
+      "name": "线上",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,562,058.59 元",
+      "revenue_proportion": "0.05%",
+      "gross_margin": null,
+      "yoy_change": "-14.44%",
+      "quote": "分销售模式 线上 4,562,058.59 0.05%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "165,873.78 万元",
+      "revenue_proportion": null,
+      "gross_margin": "-0.60%",
+      "yoy_change": "-18.21%",
+      "quote": "销售模式 营业收入 营业成本 毛利率...经销 165,873.78 166,875.40 -0.60% -18.21% -19.44% 1.54%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "商品猪（含仔猪）",
+      "metric_type": "sales_volume",
+      "value": "666.35万头",
+      "period": "2025年",
+      "quote": "报告期内，公司实现商品猪销售666.35万头"
+    },
+    {
+      "product": "仔猪",
+      "metric_type": "sales_volume",
+      "value": "239.36万头",
+      "period": "2025年",
+      "quote": "其中仔猪239.36万头"
+    },
+    {
+      "product": "生猪（屠宰用）",
+      "metric_type": "production_volume",
+      "value": "160.12万头",
+      "period": "2025年",
+      "quote": "2025年公司猪肉制品加工业务共屠宰生猪160.12万头"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "capacity",
+      "value": "年屠宰500万头",
+      "period": null,
+      "quote": "拥有年屠宰生猪 500 万头的生产产能"
+    },
+    {
+      "product": "包装肉制品",
+      "metric_type": "capacity",
+      "value": "年生产2.6万吨",
+      "period": null,
+      "quote": "拥有... 2.6万吨的包装肉制品生产能力"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "多源数据融合养殖场控制大脑",
+      "asset_type": "technical_platform",
+      "related_product": "智能化养殖",
+      "quantitative_info": null,
+      "quote": "其自主研发的“多源数据融合养殖场控制大脑”成功打破传统设备数据孤岛"
+    },
+    {
+      "name": "生猪电子芯片",
+      "asset_type": "process_technology",
+      "related_product": "质量追溯",
+      "quantitative_info": null,
+      "quote": "公司以自主研发的生猪电子芯片为载体，用数字化、智能化手段将育种-养殖-屠宰加工-发货-销售所有流程串联"
+    },
+    {
+      "name": "无抗产品认证",
+      "asset_type": "certification",
+      "related_product": "生猪养殖、猪肉制品",
+      "quantitative_info": "3个生猪养殖场获得无抗产品认证",
+      "quote": "在养殖环节已有... 3个生猪养殖场获得无抗产品认证"
+    },
+    {
+      "name": "ISO系列认证、HACCP等",
+      "asset_type": "certification",
+      "related_product": "屠宰加工厂",
+      "quantitative_info": null,
+      "quote": "公司运营的亚洲单体规模最大的屠宰厂已通过 ISO9001 质量管理体系认证、ISO22000 食品安全管理体系认证、ISO14001 环境管理体系认证、ISO45001 职业健康安全管理体系认证、 GB/T 37029 食品可追溯信息化管理体系认证、 HACCP 体系认证"
+    },
+    {
+      "name": "国家科学技术进步奖二等奖",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2007 年和 2019 年两次荣获",
+      "quote": "2007 年和 2019 年两次荣获国务院颁发的国家科学技术进步奖二等奖"
+    },
+    {
+      "name": "智能化养殖领域专利",
+      "asset_type": "patent",
+      "related_product": "智能化养殖",
+      "quantitative_info": "累计获得发明专利2项、实用新型专利19项",
+      "quote": "截至2025年底，公司在智能化养殖领域累计获得发明专利2项、实用新型专利19项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "10.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 10.38%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "63.62%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 63.62%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "33.54%",
+      "related_entity": "桂林力源粮油食品集团有限公司及其子公司",
+      "period": "2025年",
+      "quote": "公司前5大供应商资料...序号 供应商名称 采购额（元） 占年度采购总额比例 1 桂林力源粮油食品集团有限公司及其子公司 1,971,355,596.58 33.54%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "3.00%",
+      "related_entity": "广西横州市辉创农牧有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料...序号 客户名称 销售额（元） 占年度销售总额比例 1 广西横州市辉创农牧有限公司 260,309,635.24 3.00%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额占年度采购总额比例 13.93%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 13.93%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "debt_liquidity",
+      "description": "截至2025年12月31日，公司资产负债率为79.84%，流动负债为77.93亿元，较流动资产22.15亿元多55.78亿元...公司偿债能力弱，存在较大的经营风险和财务风险。公司无法清偿到期债务且明显缺乏清偿能力，已处于预重整阶段。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至2025年12月31日，公司资产负债率为79.84%，流动负债为77.93亿元，较流动资产22.15亿元多55.78亿元...公司偿债能力弱，存在较大的经营风险和财务风险。...公司以无法清偿到期债务，且明显缺乏清偿能力，但具有重整价值为由，向有管辖权的人民法院申请对公司进行重整和预重整。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "小麦、玉米和豆粕等主要原材料成本合计占营业成本的比例在50%以上，上述大宗农产品价格波动对公司的主营业务成本、净利润均会产生较大影响。",
+      "related_entity": null,
+      "related_product": "饲料",
+      "quote": "过去几年小麦、玉米和豆粕等主要原材料成本合计占营业成本的比例在50%以上，因此，上述大宗农产品价格波动对公司的主营业务成本、净利润均会产生较大影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "商品猪市场价格的周期性波动导致生猪养殖行业的毛利率呈现周期性波动...生猪价格未来持续低迷或继续下滑，将会对公司的盈利水平造成重大不利影响。",
+      "related_entity": null,
+      "related_product": "商品猪",
+      "quote": "商品猪市场价格的周期性波动导致生猪养殖行业的毛利率呈现周期性波动...但如果生猪价格未来持续低迷或继续下滑，将会对公司的盈利水平造成重大不利影响，从而引致公司未来盈利下降、甚至亏损等风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "重大疫病的风险...以非洲猪瘟为代表的烈性传染病对生猪养殖行业造成了巨大的损失...疫病的发生直接影响生猪出栏量，提高了出栏成本，降低养殖效率。",
+      "related_entity": null,
+      "related_product": "生猪",
+      "quote": "养殖行业在经营发展中面临的主要风险就是疫病风险。近年来，以非洲猪瘟为代表的烈性传染病对生猪养殖行业造成了巨大的损失...疫病的发生直接影响生猪出栏量，提高了出栏成本，降低养殖效率。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全风险...如果在某个生产环节出现疏漏，可能使企业的品牌形象受损，造成财务损失和经营业绩下滑。",
+      "related_entity": null,
+      "related_product": "猪肉制品",
+      "quote": "食品安全是关系群众身体健康和企业生死存亡的大事...如果在某个生产环节出现疏漏，可能使企业的品牌形象受损，造成财务损失和经营业绩下滑。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司处于预重整阶段，后续如法院裁定受理公司的重整申请，深圳证券交易所将对公司股票交易实施退市风险警示（*ST）。如公司因重整失败而被宣告破产，则公司股票将面临被终止上市的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如法院裁定受理公司的重整申请，深圳证券交易所将对公司股票交易实施退市风险警示（*ST）。如公司因重整失败而被宣告破产，则公司股票将面临被终止上市的风险。"
+    }
+  ]
+}

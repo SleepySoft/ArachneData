@@ -1,0 +1,402 @@
+{
+  "company_name_mentioned": "江苏东方盛虹股份有限公司",
+  "produces": [
+    {
+      "name": "成品油",
+      "type": "material",
+      "revenue_proportion": "21.57%",
+      "quote": "炼油产品 21.57%"
+    },
+    {
+      "name": "乙烯",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要产品包括110万吨/年乙烯"
+    },
+    {
+      "name": "丙烯",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要用于生产聚丙烯"
+    },
+    {
+      "name": "对二甲苯(PX)",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "280万吨/年对二甲苯"
+    },
+    {
+      "name": "乙二醇",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "190万吨/年乙二醇"
+    },
+    {
+      "name": "PTA",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "PTA研发、生产和销售"
+    },
+    {
+      "name": "EVA",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "90万吨/年的EVA产能"
+    },
+    {
+      "name": "POE",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "10万吨/年POE工业化装置"
+    },
+    {
+      "name": "丙烯腈",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "104万吨/年丙烯腈"
+    },
+    {
+      "name": "涤纶丝",
+      "type": "component",
+      "revenue_proportion": "18.23%",
+      "quote": "涤纶丝 18.23%"
+    },
+    {
+      "name": "再生聚酯纤维",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "再生聚酯纤维产能约60万吨/年"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原油",
+      "target_product": null,
+      "cost_proportion": "62.15%",
+      "quote": "原油 62.15%"
+    },
+    {
+      "name": "煤炭",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "原材料包括原油、煤炭等"
+    },
+    {
+      "name": "甲醇",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "甲醇、丙烷等大宗基础化工原料"
+    },
+    {
+      "name": "丙烷",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "甲醇、丙烷等大宗基础化工原料"
+    },
+    {
+      "name": "PTA",
+      "target_product": "涤纶长丝",
+      "cost_proportion": null,
+      "quote": "原生丝主要原材料为PTA和MEG"
+    },
+    {
+      "name": "MEG",
+      "target_product": "涤纶长丝",
+      "cost_proportion": null,
+      "quote": "原生丝主要原材料为PTA和MEG"
+    },
+    {
+      "name": "塑料瓶片",
+      "target_product": "再生丝",
+      "cost_proportion": null,
+      "quote": "再生丝主要原材料为塑料瓶片"
+    },
+    {
+      "name": "供应商1",
+      "target_product": null,
+      "cost_proportion": "10.83%",
+      "quote": "供应商1 10.83%"
+    },
+    {
+      "name": "供应商2",
+      "target_product": null,
+      "cost_proportion": "10.79%",
+      "quote": "供应商2 10.79%"
+    },
+    {
+      "name": "供应商3",
+      "target_product": null,
+      "cost_proportion": "7.13%",
+      "quote": "供应商3 7.13%"
+    },
+    {
+      "name": "供应商4",
+      "target_product": null,
+      "cost_proportion": "6.57%",
+      "quote": "供应商4 6.57%"
+    },
+    {
+      "name": "供应商5",
+      "target_product": null,
+      "cost_proportion": "4.45%",
+      "quote": "供应商5 4.45%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "燃油动力设备及供热",
+      "source_product": "成品油",
+      "quote": "主要作为各种燃油动力设备及供热的燃料"
+    },
+    {
+      "name": "合成纤维、合成橡胶、合成塑料",
+      "source_product": "乙烯",
+      "quote": "是合成纤维、合成橡胶、合成塑料的基本化工原料"
+    },
+    {
+      "name": "光伏组件封装用胶膜",
+      "source_product": "EVA",
+      "quote": "光伏组件封装用胶膜的主要原料之一"
+    },
+    {
+      "name": "纺织服装面料",
+      "source_product": "涤纶长丝",
+      "quote": "广泛用于服装面料、里料等各种衣料"
+    },
+    {
+      "name": "光伏、汽车、电线电缆",
+      "source_product": "POE",
+      "quote": "主要应用于汽车零部件、光伏、电线电缆等领域"
+    },
+    {
+      "name": "锂电隔膜、航空航天、海洋工程",
+      "source_product": "超高分子量聚乙烯（UHMWPE）",
+      "quote": "广泛应用于锂电隔膜、航空航天、海洋工程等领域"
+    },
+    {
+      "name": "工程塑料、化学纤维",
+      "source_product": "丙烯腈",
+      "quote": "广泛应用于ABS、尼龙66、碳纤维等工程塑料、化学纤维的制备"
+    },
+    {
+      "name": "树脂、塑料、涂料、粘合剂",
+      "source_product": "甲基丙烯酸甲酯",
+      "quote": "主要用于生产有机玻璃，常用于制造树脂、塑料、涂料等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "缪汉根",
+      "role": "董事长、总经理",
+      "quote": "董事长、总经理 缪汉根"
+    },
+    {
+      "name": "杨天威",
+      "role": "副董事长",
+      "quote": "副董事长 现任"
+    },
+    {
+      "name": "计高雄",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理 现任"
+    },
+    {
+      "name": "姚星江",
+      "role": "职工董事",
+      "quote": "职工董事 现任"
+    },
+    {
+      "name": "袁建新",
+      "role": "独立董事",
+      "quote": "独立董事 现任"
+    },
+    {
+      "name": "许金叶",
+      "role": "独立董事",
+      "quote": "独立董事 现任"
+    },
+    {
+      "name": "任志刚",
+      "role": "独立董事",
+      "quote": "独立董事 现任"
+    },
+    {
+      "name": "王俊",
+      "role": "副总经理、董事会秘书",
+      "quote": "副总经 理、董事会秘书 现任"
+    },
+    {
+      "name": "胡贵洋",
+      "role": "财务负责人",
+      "quote": "财务负责人 现任"
+    },
+    {
+      "name": "邱海荣",
+      "role": "董事",
+      "quote": "董事 离任"
+    },
+    {
+      "name": "杨晓玮",
+      "role": "董事",
+      "quote": "董事 离任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "江苏盛虹科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控股股东",
+      "quote": "盛虹科技 指 江苏盛虹科技股份有限公司，上市公司控股股东"
+    },
+    {
+      "name": "盛虹石化集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司实际控制人控制企业",
+      "quote": "盛虹石化 指 盛虹石化集团有限公司，上市公司实际控制人控制企业"
+    },
+    {
+      "name": "盛虹（苏州）集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司实际控制人控制企业，间接控制盛虹科技",
+      "quote": "盛虹苏州 指 盛虹（苏州）集团有限公司，上市公司实际控制人控制企业，间接控制盛虹科技"
+    },
+    {
+      "name": "连云港博虹实业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司实际控制人控制企业",
+      "quote": "博虹实业 指 连云港博虹实业有限公司，上市公司实际控制人控制企业"
+    },
+    {
+      "name": "江苏盛虹新材料集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司实际控制人控制企业，直接控制盛虹科技",
+      "quote": "盛虹新材料 指 江苏盛虹新材料集团有限公司，上市公司实际控制人控制企业，直接控制盛虹科技"
+    },
+    {
+      "name": "江苏斯尔邦石化有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控股子公司",
+      "quote": "斯尔邦石化 指 江苏斯尔邦石化有限公司，上市公司控股子公司"
+    },
+    {
+      "name": "江苏虹景新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控股子公司",
+      "quote": "虹景新材料 指 江苏虹景新材料有限公司，上市公司控股子公司"
+    },
+    {
+      "name": "连云港虹科新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控制其100%股权",
+      "quote": "虹科新材料 指 连云港虹科新材料有限公司，上市公司控制其100%股权"
+    },
+    {
+      "name": "江苏虹港石化有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控制其100%股权",
+      "quote": "虹港石化 指 江苏虹港石化有限公司，上市公司控制其100%股权"
+    },
+    {
+      "name": "盛虹炼化（连云港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控制其100%股权",
+      "quote": "盛虹炼化 指 盛虹炼化（连云港）有限公司，上市公司控制其100%股权"
+    },
+    {
+      "name": "江苏虹威化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控制其100%股权",
+      "quote": "虹威化工 指 江苏虹威化工有限公司，上市公司控制其100%股权"
+    },
+    {
+      "name": "江苏国望高科纤维有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控股子公司",
+      "quote": "国望高科 指 江苏国望高科纤维有限公司，上市公司控股子公司"
+    },
+    {
+      "name": "江苏中鲈科技发展股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控股子公司",
+      "quote": "中鲈科技 指 江苏中鲈科技发展股份有限公司，上市公司控股子公司"
+    },
+    {
+      "name": "江苏港虹纤维有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控股子公司",
+      "quote": "港虹纤维 指 江苏港虹纤维有限公司，上市公司控股子公司"
+    },
+    {
+      "name": "苏州盛虹纤维有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控股子公司",
+      "quote": "盛虹纤维 指 苏州盛虹纤维有限公司，上市公司控股子公司"
+    },
+    {
+      "name": "江苏芮邦科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "上市公司控制其100%股权",
+      "quote": "芮邦科技 指 江苏芮邦科技有限公司，上市公司控制其100%股权"
+    },
+    {
+      "name": "客户1",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占6.18%",
+      "quote": "客户1 6.18%"
+    },
+    {
+      "name": "客户2",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占4.25%",
+      "quote": "客户2 4.25%"
+    },
+    {
+      "name": "客户3",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占3.04%",
+      "quote": "客户3 3.04%"
+    },
+    {
+      "name": "客户4",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占2.65%",
+      "quote": "客户4 2.65%"
+    },
+    {
+      "name": "客户5",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售额占2.13%",
+      "quote": "客户5 2.13%"
+    },
+    {
+      "name": "供应商1",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占10.83%",
+      "quote": "供应商1 10.83%"
+    },
+    {
+      "name": "供应商2",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占10.79%",
+      "quote": "供应商2 10.79%"
+    },
+    {
+      "name": "供应商3",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占7.13%",
+      "quote": "供应商3 7.13%"
+    },
+    {
+      "name": "供应商4",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占6.57%",
+      "quote": "供应商4 6.57%"
+    },
+    {
+      "name": "供应商5",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购额占4.45%",
+      "quote": "供应商5 4.45%"
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "company_name_mentioned": "新疆立新能源股份有限公司",
+  "produces": [
+    {
+      "name": "风力发电",
+      "type": "service",
+      "revenue_proportion": "54.17%",
+      "quote": "分产品风力发电574,128,382.96 54.17%"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "36.50%",
+      "quote": "分产品光伏发电386,892,048.69 36.50%"
+    },
+    {
+      "name": "购售电服务及其他",
+      "type": "service",
+      "revenue_proportion": "9.33%",
+      "quote": "分产品购售电服务及其他98,905,578.61 9.33%"
+    },
+    {
+      "name": "清洁电力能源",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司主要经营风力发电、光伏发电为主的新能源电力的资源开发、投资建设、生产销售、技术服务咨询等业务，生产商品为清洁电力能源。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "设备材料等物资类采购",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购内容包括建筑安装等施工类采购、设备材料等物资类采购、智力咨询等服务类采购。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网输电",
+      "source_product": "清洁电力能源",
+      "quote": "电能随后经过升压站升压输送至电网，最终通过电网输电线路传输至用电终端。"
+    },
+    {
+      "name": "可再生能源消纳",
+      "source_product": "清洁电力能源",
+      "quote": "公司作为自治区以新能源发电为核心主业的地方国有控股上市公司，...为新疆构建清洁低碳、安全高效的新型能源体系贡献国企力量。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈龙",
+      "role": "董事、董事长",
+      "quote": "公司负责人陈龙、主管会计工作负责人叶春及会计机构负责人（会计主管人员）黄鹏声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "叶春",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人叶春"
+    },
+    {
+      "name": "董爽",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 董爽"
+    },
+    {
+      "name": "窦照军",
+      "role": "董事、总经理",
+      "quote": "窦照军 男 49 董事、总经理 现任 2024年07月25日 2027年04月25日"
+    },
+    {
+      "name": "关华",
+      "role": "副总经理",
+      "quote": "关华 男 52 副总经理 现任 2020年08月28日 2027年04月25日"
+    },
+    {
+      "name": "王博",
+      "role": "董事",
+      "quote": "王博 男 47 董事 现任 2020年08月28日 2027年04月25日"
+    },
+    {
+      "name": "王丽娜",
+      "role": "董事",
+      "quote": "王丽娜 女 41 董事 现任 2021年12月30日 2027年04月25日"
+    },
+    {
+      "name": "范兵",
+      "role": "董事、董事长（离任）",
+      "quote": "范兵 男 47 董事、董事长 离任 2024年04月26日 2025年02月06日"
+    },
+    {
+      "name": "谢云飞",
+      "role": "董事（离任）",
+      "quote": "谢云飞 女 59 董事 离任 2020年08月28日 2026年01月05日"
+    },
+    {
+      "name": "姚文英",
+      "role": "独立董事",
+      "quote": "姚文英 女 59 独立董事 现任 2020年11月26日 2027年04月25日"
+    },
+    {
+      "name": "岳勇",
+      "role": "独立董事",
+      "quote": "岳勇 男 46 独立董事 现任 2020年11月26日 2027年04月25日"
+    },
+    {
+      "name": "付军胜",
+      "role": "独立董事",
+      "quote": "付军胜 男 54 独立董事 现任 2024年01月15日 2027年04月25日"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "金风科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司向金风科技采购设备、运行维护费及技术服务等。",
+      "quote": "新疆立新能源股份有限公司关于2025年度日常关联交易预计的公告...许继电气股份有限公司...双登集团股份有限公司...中国电力建设集团有限公司...金风科技股份有限公司...易事特集团股份有限公司"
+    },
+    {
+      "name": "国网新疆电力有限公司",
+      "relation_type": "customer",
+      "business_details": "公司向其销售电力，是公司第一大客户。",
+      "quote": "公司前5大客户资料序号 客户名称 销售额（元） 占年度销售总额比例1 国网新疆电力有限公司 986,892,538.95 93.11%"
+    },
+    {
+      "name": "新疆能源（集团）有限责任公司",
+      "relation_type": "customer",
+      "business_details": "公司向其销售电力，是关联方客户。",
+      "quote": "公司前5大客户资料序号 客户名称 销售额（元） 占年度销售总额比例...3 新疆能源（集团）有限责任公司 12,845,762.69 1.21%"
+    },
+    {
+      "name": "新疆能源（集团）有限责任公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东，实际控制人为新疆国资委。",
+      "quote": "新疆能源（集团）有限责任公司...公司控股股东...新疆维吾尔自治区人民政府国有资产监督管理委员会，公司实际控制人"
+    },
+    {
+      "name": "山东电力建设第三工程有限公司",
+      "relation_type": "investor",
+      "business_details": "公司股东。",
+      "quote": "山东电建第三公司、山东电建 指 山东电力建设第三工程有限公司，公司股东"
+    },
+    {
+      "name": "新疆维吾尔自治区哈密市国有资产投资经营有限公司",
+      "relation_type": "investor",
+      "business_details": "公司股东。",
+      "quote": "哈密国投 指 新疆维吾尔自治区哈密市国有资产投资经营有限公司，曾用名“新疆维吾尔自治区哈密地区国有资产投资经营有限公司”，公司股东"
+    },
+    {
+      "name": "新疆国有资本产业投资基金有限合伙企业",
+      "relation_type": "investor",
+      "business_details": "公司股东。",
+      "quote": "国有基金 指 新疆国有资本产业投资基金有限合伙企业，公司股东"
+    },
+    {
+      "name": "连云港筑力管理咨询合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司股东。",
+      "quote": "连云港筑力 指 连云港筑力管理咨询合伙企业（有限合伙），原名：井冈山筑力管理咨询合伙企业（有限合伙），公司股东"
+    },
+    {
+      "name": "井冈山和风管理咨询合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司股东。",
+      "quote": "井冈山和风 指 井冈山和风管理咨询合伙企业（有限合伙），公司股东"
+    },
+    {
+      "name": "新疆华电天山发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司参股公司，参与“疆电外送”第三通道配套电源的建设及运营。",
+      "quote": "公司通过参股子公司新疆华电天山发电有限公司参与“疆电外送”第三通道配套电源的建设及运营。...新疆华电天山发电有限公司 参股公司 风力发电、 太阳能发电"
+    },
+    {
+      "name": "新疆能源（集团）哈密清洁能源有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东能源集团的全资子公司，其新能源项目与公司存在同业竞争。",
+      "quote": "哈密清洁能源 指 新疆能源（集团）哈密清洁能源有限责任公司...能源集团下属企业新疆能源（集团） 哈密清洁能源有限责任公司经营的哈密烟墩区域的 20 万千瓦风电项目和 10 万千瓦光伏发电项目与立新能源存在同业情形"
+    },
+    {
+      "name": "新疆能源（集团）北疆投资有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东能源集团的全资子公司，与公司发生股权交易及共同投资。",
+      "quote": "北疆公司 指 新疆能源（集团） 北疆投资有限责任公司...公司将下属全资子公司...各49%股权转让给公司控股股东新疆能源（集团）有限责任公司全资子公司新疆能源（ 集团）北疆投资有限责任公司并增资。"
+    },
+    {
+      "name": "中信建投证券股份有限公司",
+      "relation_type": "investor",
+      "business_details": "作为管理人发起设立资产支持专项计划（类REITs），公司成功发行相关产品。",
+      "quote": "公司成功发行“中信建投-立新能源2025清洁能源基础设施绿色资产支持专项计划（碳中和）”"
+    },
+    {
+      "name": "新疆金润绿原科技开发有限责任公司",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "金润绿原 指 新疆金润绿原科技开发有限责任公司"
+    },
+    {
+      "name": "新疆锦龙电力集团有限公司",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户之一。",
+      "quote": "公司前5大客户资料序号 客户名称 销售额（元） 占年度销售总额比例...2 新疆锦龙电力集团有限公司 38,631,173.66 3.64%"
+    },
+    {
+      "name": "新疆生产建设兵团第九师热电有限公司",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户之一。",
+      "quote": "公司前5大客户资料序号 客户名称 销售额（元） 占年度销售总额比例...4 新疆生产建设兵团第九师热电有限公司 11,271,025.05 1.06%"
+    },
+    {
+      "name": "中节能太阳能科技吉木萨尔有限公司",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户之一。",
+      "quote": "公司前5大客户资料序号 客户名称 销售额（元） 占年度销售总额比例...5 中节能太阳能科技吉木萨尔有限公司 3,389,690.50 0.32%"
+    },
+    {
+      "name": "许继电气股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之首。",
+      "quote": "公司前5名供应商资料序号 供应商名称 采购额（元） 占年度采购总额比例1 许继电气股份有限公司 463,366,617.56 15.16%"
+    },
+    {
+      "name": "双登集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之一。",
+      "quote": "公司前5名供应商资料序号 供应商名称 采购额（元） 占年度采购总额比例2 双登集团股份有限公司 446,086,324.93 14.59%"
+    },
+    {
+      "name": "中国电力建设集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之一。",
+      "quote": "公司前5名供应商资料序号 供应商名称 采购额（元） 占年度采购总额比例3 中国电力建设集团有限公司 395,292,242.36 12.93%"
+    },
+    {
+      "name": "易事特集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之一。",
+      "quote": "公司前5名供应商资料序号 供应商名称 采购额（元） 占年度采购总额比例5 易事特集团股份有限公司 297,263,339.04 9.72%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "风力发电",
+      "segment_type": "product_line",
+      "revenue_amount": "574,128,382.96元",
+      "revenue_proportion": "54.17%",
+      "gross_margin": "54.31%",
+      "yoy_change": "7.16%",
+      "quote": "分产品风力发电574,128,382.96 54.17%...毛利率比上年同期增减...54.31%...7.16%"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "386,892,048.69元",
+      "revenue_proportion": "36.50%",
+      "gross_margin": "35.20%",
+      "yoy_change": "-8.45%",
+      "quote": "分产品光伏发电386,892,048.69 36.50%...毛利率比上年同期增减...35.20%...-8.45%"
+    },
+    {
+      "name": "购售电服务及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "98,905,578.61元",
+      "revenue_proportion": "9.33%",
+      "gross_margin": null,
+      "yoy_change": "704.56%",
+      "quote": "分产品购售电服务及其他98,905,578.61 9.33%...同比增减704.56%"
+    },
+    {
+      "name": "西北地区销售",
+      "segment_type": "region",
+      "revenue_amount": "1,059,926,010.26元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "9.19%",
+      "quote": "分地区西北地区销售1,059,926,010.26 100.00%...同比增减9.19%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,059,926,010.26元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "9.19%",
+      "quote": "分销售模式直销1,059,926,010.26 100.00%...同比增减9.19%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "新能源并网装机容量（含独立储能）",
+      "metric_type": "capacity",
+      "value": "443.40万千瓦",
+      "period": "截至2025年底",
+      "quote": "主要生产经营信息项目 本报告期...总装机容量（万千瓦） 443.40"
+    },
+    {
+      "product": "风力发电并网装机容量",
+      "metric_type": "capacity",
+      "value": "2720.50MW",
+      "period": "截至2025年底",
+      "quote": "截至2025年底，公司已投产运营的风力发电并网装机容量2720.50MW"
+    },
+    {
+      "product": "光伏发电并网装机容量",
+      "metric_type": "capacity",
+      "value": "953.50MW",
+      "period": "截至2025年底",
+      "quote": "光伏发电并网装机容量953.50MW"
+    },
+    {
+      "product": "独立储能装机容量",
+      "metric_type": "capacity",
+      "value": "760MW/3040MWh",
+      "period": "截至2025年底",
+      "quote": "独立储能装机容量760MW/3040MWh"
+    },
+    {
+      "product": "新投产机组的装机容量",
+      "metric_type": "capacity",
+      "value": "220万千瓦",
+      "period": "报告期内",
+      "quote": "新投产机组的装机容量（万千瓦） 220"
+    },
+    {
+      "product": "核准项目的计划装机容量",
+      "metric_type": "capacity",
+      "value": "60万千瓦",
+      "period": "报告期内",
+      "quote": "核准项目的计划装机容量（万千瓦） 60"
+    },
+    {
+      "product": "在建项目的计划装机容量",
+      "metric_type": "capacity",
+      "value": "60万千瓦",
+      "period": "报告期内",
+      "quote": "在建项目的计划装机容量（万千瓦） 60"
+    },
+    {
+      "product": "发电量",
+      "metric_type": "production_volume",
+      "value": "33.21亿千瓦时",
+      "period": "报告期内",
+      "quote": "发电量（亿千瓦时） 33.21"
+    },
+    {
+      "product": "上网电量或售电量",
+      "metric_type": "sales_volume",
+      "value": "32.25亿千瓦时",
+      "period": "报告期内",
+      "quote": "上网电量或售电量（亿千瓦时） 32.25"
+    },
+    {
+      "product": "发电厂平均用电率",
+      "metric_type": "other",
+      "value": "4.37%",
+      "period": "报告期内",
+      "quote": "发电厂平均用电率（%） 4.37%"
+    },
+    {
+      "product": "发电厂利用小时数",
+      "metric_type": "other",
+      "value": "1414小时",
+      "period": "报告期内",
+      "quote": "发电厂利用小时数（小时） 1,414"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "奇台县30万千瓦风光同场项目",
+      "project_type": "construction_project",
+      "location": "奇台县",
+      "investment_amount": null,
+      "designed_capacity": "30万千瓦风光同场",
+      "progress": "100.00%",
+      "expected_completion_time": "报告期内并网",
+      "quote": "奇台县30万千瓦风光同场项目...项目进度100.00%...三塘湖80万千瓦风储一体化项目、奇台县30万千瓦风光同场项目...如期并网。"
+    },
+    {
+      "name": "三塘湖80万千瓦风储一体化项目（风电部分）",
+      "project_type": "construction_project",
+      "location": "三塘湖",
+      "investment_amount": null,
+      "designed_capacity": "80万千瓦风电",
+      "progress": "100.00%",
+      "expected_completion_time": "报告期内并网",
+      "quote": "立新能源三塘湖20万千瓦/80万千瓦时储能规模+80万千瓦风电项目...项目进度100.00%"
+    },
+    {
+      "name": "立新皮山县20万千瓦/80万千瓦时构网型一期独立储能项目",
+      "project_type": "construction_project",
+      "location": "皮山县",
+      "investment_amount": "427,557,702.59元（本报告期投入）",
+      "designed_capacity": "20万千瓦/80万千瓦时",
+      "progress": "100.00%",
+      "expected_completion_time": "报告期内并网",
+      "quote": "立新皮山县20万千瓦/80万千瓦时构网型一期独立储能项目...项目进度100.00%"
+    },
+    {
+      "name": "立新皮山县20万千瓦/80万千瓦时构网型二期独立储能项目",
+      "project_type": "construction_project",
+      "location": "皮山县",
+      "investment_amount": "359,594,943.97元（本报告期投入）",
+      "designed_capacity": "20万千瓦/80万千瓦时",
+      "progress": "98.00%",
+      "expected_completion_time": "报告期内并网",
+      "quote": "立新皮山县20万千瓦/80万千瓦时构网型二期独立储能项目...项目进度98.00%"
+    },
+    {
+      "name": "立新和田市10万千瓦/40万千瓦时独立储能项目",
+      "project_type": "construction_project",
+      "location": "和田市",
+      "investment_amount": "198,478,079.96元（本报告期投入）",
+      "designed_capacity": "10万千瓦/40万千瓦时",
+      "progress": "100.00%",
+      "expected_completion_time": "报告期内并网",
+      "quote": "立新和田市10万千瓦/40万千瓦时独立储能项目...项目进度100.00%"
+    },
+    {
+      "name": "立新民丰县20万千瓦/80万千瓦时独立储能项目",
+      "project_type": "construction_project",
+      "location": "民丰县",
+      "investment_amount": "351,834,847.86元（本报告期投入）",
+      "designed_capacity": "20万千瓦/80万千瓦时",
+      "progress": "98.00%",
+      "expected_completion_time": "报告期内并网",
+      "quote": "立新民丰县20万千瓦/80万千瓦时独立储能项目...项目进度98.00%"
+    },
+    {
+      "name": "立新能源和田县30万千瓦/120万千瓦时构网型独立储能项目",
+      "project_type": "construction_project",
+      "location": "和田县",
+      "investment_amount": "628,249,807.05元（本报告期投入）",
+      "designed_capacity": "30万千瓦/120万千瓦时",
+      "progress": "100.00%",
+      "expected_completion_time": "报告期内并网",
+      "quote": "立新能源和田县30万千瓦/120万千瓦时构网型独立储能项目...项目进度100.00%"
+    },
+    {
+      "name": "“中信建投-立新能源2025清洁能源基础设施绿色资产支持专项计划（碳中和）”",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "募集12.26亿元",
+      "designed_capacity": null,
+      "progress": "已完成发行",
+      "expected_completion_time": null,
+      "quote": "公司成功发行“中信建投-立新能源2025清洁能源基础设施绿色资产支持专项计划（碳中和）”，募集资金12.26亿元"
+    },
+    {
+      "name": "已核准在建的独立储能项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "600MW/2400MWh",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "已核准在建的独立储能项目600MW/2400MWh。"
+    },
+    {
+      "name": "“疆电外送”第三通道新疆侧配套电源项目",
+      "project_type": "construction_project",
+      "location": "新疆",
+      "investment_amount": null,
+      "designed_capacity": "总装机规模8100MW，公司对应权益装机1087MW",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司参与“疆电外送”第三通道新疆侧配套电源项目建设，项目总装机规模8100MW，公司对应权益装机1087MW"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "用户侧储能微网系统接入虚拟电厂运营管控平台数据信息规范",
+      "asset_type": "standard",
+      "related_product": "储能",
+      "quantitative_info": "T/CES 385-2025团体标准",
+      "quote": "参与制定由中国电工技术学会发布的《用户侧储能微网系统接入虚拟电厂运营管控平台数据信息规范》（T/CES 385-2025）团体标准"
+    },
+    {
+      "name": "五小创新成果",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "46项成果荣获“五小”创新成果奖",
+      "quote": "在自治区总工会组织的评选中，公司申报的46项成果荣获“五小”创新成果奖"
+    },
+    {
+      "name": "全国设备管理与技术创新成果",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "5项创新成果荣获二等奖",
+      "quote": "自主研发的5项创新成果在第七届全国设备管理与技术创新成果评选中荣获二等奖"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "新取得12项",
+      "quote": "公司全年新取得12项实用新型专利"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "新取得4项",
+      "quote": "和4项软件著作权"
+    },
+    {
+      "name": "智能运维技术",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "深化智能运维体系建设，提出调度运行中心与区域维保中心协同运作，推行“无人值守、远程巡检、区域检修”的运维管理模式。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "99.35%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额（元） 1,053,030,190.85前五名客户合计销售金额占年度销售总额比例 99.35%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "93.11%",
+      "related_entity": "国网新疆电力有限公司",
+      "period": "报告期内",
+      "quote": "公司前5大客户资料序号 客户名称 销售额（元） 占年度销售总额比例1 国网新疆电力有限公司 986,892,538.95 93.11%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "62.98%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额（元） 1,925,245,518.92前五名供应商合计采购金额占年度采购总额比例 62.98%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "（前五名客户合计销售金额占年度销售总额比例 99.35%）"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "供应商集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "（前五名供应商合计采购金额占年度采购总额比例 62.98%）"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "产业政策变动风险：如果可再生能源扶持政策在未来出现重大不利变化，可能影响公司的经营状况和盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.产业政策变动风险和应对措施...如果相关政策在未来出现重大不利变化，可能在一定程度上影响公司的经营状况和盈利能力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力体制改革风险：电力市场化改革深化，电价由市场交易形成，对公司的电价预测和交易管理能力提出更高要求，可能导致电价降低，影响盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.电力体制改革风险和应对措施...会对公司收入产生影响，进而影响公司盈利能力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "弃风、弃光限电的风险：电网消纳能力不足或风光资源间歇性导致部分电量无法上网，影响上网电量和盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.弃风、弃光限电的风险和应对措施...可能会对公司上网电量产生影响，进而影响公司盈利能力。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "税收优惠政策变化的风险：公司享受西部大开发、公共基础设施等税收优惠，如果未来政策调整或取消，将对经营业绩带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.税收优惠政策变化的风险和应对措施...如果未来相关税收优惠政策或法律法规出现变动...将会对公司投资新能源项目的经营业绩带来不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争风险：新疆新能源行业快速发展，装机容量大增，可能加剧市场竞争，影响发电利用小时数和电价。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "面对新能源全面入市的新形势，精准研判电力交易规则及市场行情变化，动态优化交易策略，提升发电系数和出清电价水平。"
+    }
+  ]
+}

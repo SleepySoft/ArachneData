@@ -1,0 +1,437 @@
+{
+  "company_name_mentioned": "江苏百川高科新材料股份有限公司",
+  "produces": [
+    {
+      "name": "化工产品类（包括醋酸酯类、多元醇类、偏苯三酸酐等）",
+      "type": "material",
+      "revenue_proportion": "70.28%",
+      "quote": "化工板块实现营业收入 4,051,924,180.75 元，占营业收入的比重为 70.28%"
+    },
+    {
+      "name": "新材料产品类（包括针状焦、石墨负极材料、锂电材料等）",
+      "type": "material",
+      "revenue_proportion": "23.20%",
+      "quote": "新材料板块实现营业收入 1,337,641,979.50元，占营业收入的比重为 23.20%"
+    },
+    {
+      "name": "新能源产品类（包括磷酸铁锂电池、储能模组及系统）",
+      "type": "device",
+      "revenue_proportion": "6.52%",
+      "quote": "新能源板块实现营业收入 376,186,501.49元，占营业收入的比重为 6.52%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "丙烯",
+      "target_product": "精细化工产品",
+      "cost_proportion": "17.01%",
+      "quote": "主要原材料的采购模式...丙烯 17.01%"
+    },
+    {
+      "name": "正丁醇",
+      "target_product": "精细化工产品",
+      "cost_proportion": "5.15%",
+      "quote": "主要原材料的采购模式...正丁醇 5.15%"
+    },
+    {
+      "name": "高温煤焦油",
+      "target_product": "针状焦、负极材料",
+      "cost_proportion": "7.83%",
+      "quote": "主要原材料的采购模式...高温煤焦油 7.83%"
+    },
+    {
+      "name": "石油焦",
+      "target_product": "针状焦、负极材料",
+      "cost_proportion": "6.06%",
+      "quote": "主要原材料的采购模式...石油焦 6.06%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "涂料、油墨、树脂、增塑剂、光固化材料、水性涂料、溶剂",
+      "source_product": "醋酸丁酯、醋酸乙酯、三羟甲基丙烷等化工产品",
+      "quote": "公司醋酸丁酯、醋酸乙酯...等主要化工产品的下游应用领域极为广泛，覆盖涂料、油墨、树脂、增塑剂、光固化材料、水性涂料、溶剂等众多领域"
+    },
+    {
+      "name": "锂电负极材料、超高功率石墨电极",
+      "source_product": "针状焦",
+      "quote": "新材料产品主要应用于锂电负极材料和超高功率石墨电极"
+    },
+    {
+      "name": "新能源汽车动力电池、储能电池、消费电池",
+      "source_product": "负极材料、针状焦",
+      "quote": "并进一步供给下游的新能源汽车动力电池、储能电池、消费电池和电炉炼钢产业"
+    },
+    {
+      "name": "电炉炼钢",
+      "source_product": "石墨电极",
+      "quote": "电炉炼钢...石墨电极的市场需求将持续进一步增长"
+    },
+    {
+      "name": "储能（新能源发电配套、火电调频、电网侧、用户侧）",
+      "source_product": "磷酸铁锂电池、储能模组及系统",
+      "quote": "产品主要应用于新能源发电配套储能、火电调频、电网侧储能、用户侧储能以及离网型微电网等场景"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑铁江",
+      "role": "董事长",
+      "quote": "郑铁江...现任公司董事长，南通百川董事、如皋百川董事"
+    },
+    {
+      "name": "郑渊博",
+      "role": "董事，海基新能源董事长",
+      "quote": "郑渊博...现任公司董事，...海基新能源董事长"
+    },
+    {
+      "name": "郑江",
+      "role": "董事、副总经理",
+      "quote": "郑江...现任公司董事、副总经理，如皋百川董事兼总经理"
+    },
+    {
+      "name": "蒋国强",
+      "role": "董事、总经理",
+      "quote": "蒋国强...现任公司董事、总经理，南通百川董事长..."
+    },
+    {
+      "name": "曹彩娥",
+      "role": "财务总监、副总经理",
+      "quote": "曹彩娥...现任公司副总经理、财务总监..."
+    },
+    {
+      "name": "陈慧敏",
+      "role": "副总经理、董事会秘书",
+      "quote": "陈慧敏...现任公司副总经理、董事会秘书..."
+    },
+    {
+      "name": "孙百亚",
+      "role": "副总经理",
+      "quote": "孙百亚...现任公司副总经理，南通百川董事兼总经理"
+    },
+    {
+      "name": "曹圣平",
+      "role": "副总经理",
+      "quote": "曹圣平...现任公司副总经理，宁夏百川科技、宁夏百川新材料执行董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "南通百川新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "化工产品的生产、销售",
+      "quote": "南通百川 指 南通百川新材料有限公司"
+    },
+    {
+      "name": "如皋百川化工材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "如皋百川 指 如皋百川化工材料有限公司"
+    },
+    {
+      "name": "宁夏百川新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "锂电材料的生产、销售",
+      "quote": "宁夏百川新材料 指 宁夏百川新材料有限公司"
+    },
+    {
+      "name": "宁夏百川科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "化工产品的生产、销售",
+      "quote": "宁夏百川科技 指 宁夏百川科技有限公司"
+    },
+    {
+      "name": "江苏海基新能源股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "锂离子电池、电池组以及系统的研发、生产、销售和服务",
+      "quote": "海基新能源 指 江苏海基新能源股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化工",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,051,924,180.75元",
+      "revenue_proportion": "70.28%",
+      "gross_margin": "9.61%",
+      "yoy_change": "-9.86%",
+      "quote": "化工 4,051,924,180.75 70.28% 9.61% -9.86%"
+    },
+    {
+      "name": "新材料",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,337,641,979.50元",
+      "revenue_proportion": "23.20%",
+      "gross_margin": "6.05%",
+      "yoy_change": "129.55%",
+      "quote": "新材料 1,337,641,979.50 23.20% 6.05% 129.55%"
+    },
+    {
+      "name": "新能源",
+      "segment_type": "business_unit",
+      "revenue_amount": "376,186,501.49元",
+      "revenue_proportion": "6.52%",
+      "gross_margin": "-49.83%",
+      "yoy_change": "-21.29%",
+      "quote": "新能源 376,186,501.49 6.52% -49.83% -21.29%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "4,594,142,082.49元",
+      "revenue_proportion": "79.68%",
+      "gross_margin": "1.11%",
+      "yoy_change": "8.95%",
+      "quote": "国内销售 4,594,142,082.49 79.68% 1.11% 8.95%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "1,171,610,579.25元",
+      "revenue_proportion": "20.32%",
+      "gross_margin": "19.79%",
+      "yoy_change": "-12.51%",
+      "quote": "国外销售 1,171,610,579.25 20.32% 19.79% -12.51%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "醋酸酯类",
+      "metric_type": "capacity",
+      "value": "30万吨",
+      "period": null,
+      "quote": "醋酸酯类 30万吨"
+    },
+    {
+      "product": "醋酸酯类",
+      "metric_type": "capacity_utilization",
+      "value": "44.44%",
+      "period": null,
+      "quote": "醋酸酯类 30万吨 44.44%"
+    },
+    {
+      "product": "多元醇类",
+      "metric_type": "capacity",
+      "value": "17.9万吨",
+      "period": null,
+      "quote": "多元醇类 17.9万吨"
+    },
+    {
+      "product": "多元醇类",
+      "metric_type": "capacity_utilization",
+      "value": "91.89%",
+      "period": null,
+      "quote": "多元醇类 17.9万吨 91.89%"
+    },
+    {
+      "product": "偏苯三酸酐",
+      "metric_type": "capacity",
+      "value": "4万吨",
+      "period": null,
+      "quote": "偏苯三酸酐 4万吨"
+    },
+    {
+      "product": "偏苯三酸酐",
+      "metric_type": "capacity_utilization",
+      "value": "99.55%",
+      "period": null,
+      "quote": "偏苯三酸酐 4万吨 99.55%"
+    },
+    {
+      "product": "针状焦",
+      "metric_type": "capacity",
+      "value": "5万吨",
+      "period": null,
+      "quote": "针状焦1 5万吨"
+    },
+    {
+      "product": "针状焦",
+      "metric_type": "capacity_utilization",
+      "value": "99.14%",
+      "period": null,
+      "quote": "针状焦1 5万吨 99.14%"
+    },
+    {
+      "product": "磷酸铁锂电池",
+      "metric_type": "capacity",
+      "value": "4GWH",
+      "period": null,
+      "quote": "磷酸铁锂电池 4GWH"
+    },
+    {
+      "product": "磷酸铁锂电池",
+      "metric_type": "capacity_utilization",
+      "value": "30.20%",
+      "period": null,
+      "quote": "磷酸铁锂电池 4GWH 30.20%"
+    },
+    {
+      "product": "化工行业",
+      "metric_type": "production_volume",
+      "value": "59.52万吨",
+      "period": "2025年",
+      "quote": "化工行业 生产量 万吨 59.52"
+    },
+    {
+      "product": "化工行业",
+      "metric_type": "sales_volume",
+      "value": "59.14万吨",
+      "period": "2025年",
+      "quote": "化工行业 销售量 万吨 59.14"
+    },
+    {
+      "product": "化工行业",
+      "metric_type": "inventory_volume",
+      "value": "3.85万吨",
+      "period": "2025年末",
+      "quote": "化工行业 库存量 万吨 3.85"
+    },
+    {
+      "product": "新材料",
+      "metric_type": "production_volume",
+      "value": "20.47万吨",
+      "period": "2025年",
+      "quote": "新材料 生产量 万吨 20.47"
+    },
+    {
+      "product": "新材料",
+      "metric_type": "sales_volume",
+      "value": "23.61万吨",
+      "period": "2025年",
+      "quote": "新材料 销售量 万吨 23.61"
+    },
+    {
+      "product": "新材料",
+      "metric_type": "inventory_volume",
+      "value": "1.33万吨",
+      "period": "2025年末",
+      "quote": "新材料 库存量 万吨 1.33"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "production_volume",
+      "value": "1.2 GWH",
+      "period": "2025年",
+      "quote": "新能源 生产量 GWH 1.2"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "sales_volume",
+      "value": "1.22 GWH",
+      "period": "2025年",
+      "quote": "新能源 销售量 GWH 1.22"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "inventory_volume",
+      "value": "0.12 GWH",
+      "period": "2025年末",
+      "quote": "新能源 库存量 GWH 0.12"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产3万吨负极材料（8万吨石墨化）项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "88,482.97万元",
+      "designed_capacity": "3万吨负极材料、8万吨石墨化",
+      "progress": "91.98%",
+      "expected_completion_time": "2025年3月已完工转固",
+      "quote": "年产3万吨负极材料（8万吨石墨化）项目...调整后投资总额 88,482.97...项目进度 91.98%...2025年3月项目已完工转固"
+    },
+    {
+      "name": "锂电材料资源化利用项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "47,236,706.39元",
+      "designed_capacity": null,
+      "progress": "98.00%",
+      "expected_completion_time": null,
+      "quote": "锂电材料资源化利用项目...本报告期投入金额 47,236,706.39...进度 98.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "偏苯三酸酐及酯类生产技术",
+      "asset_type": "process_technology",
+      "related_product": "偏苯三酸酐及酯类",
+      "quantitative_info": "发明专利15项，实用新型专利17项",
+      "quote": "主要产品 生产技术所处的阶段...偏苯三酸酐及酯类 工业化应用...专利技术 发明专利15项，实用新型专利17项"
+    },
+    {
+      "name": "醋酸酯类生产技术",
+      "asset_type": "process_technology",
+      "related_product": "醋酸酯类",
+      "quantitative_info": "发明专利6项，实用新型专利4项",
+      "quote": "醋酸酯类 工业化应用...发明专利6项，实用新型专利4项"
+    },
+    {
+      "name": "多元醇类生产技术",
+      "asset_type": "process_technology",
+      "related_product": "多元醇类",
+      "quantitative_info": "发明专利15项，实用新型专利34项",
+      "quote": "多元醇类 工业化应用...发明专利15项，实用新型专利34项"
+    },
+    {
+      "name": "磷酸铁锂电池技术",
+      "asset_type": "process_technology",
+      "related_product": "磷酸铁锂电池",
+      "quantitative_info": "发明专利35项，实用新型专利95项",
+      "quote": "磷酸铁锂电池 规模化生产...发明专利35项，实用新型专利95项"
+    },
+    {
+      "name": "国家标准制定",
+      "asset_type": "standard",
+      "related_product": "多个产品",
+      "quantitative_info": "GB/T3729、GB/T12717、GB/T23967、GB/T26609等多项",
+      "quote": "公司负责了GB/T3729《工业用乙酸正丁酯》、GB/T12717《工业用乙酸酯类试验方法》、GB/T23967《工业用偏苯三酸酐》、GB/T26609《工业用乙酸异丁酯》等多项国家标准及行业标准的修/制定工作"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.83%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 13.83%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "28.03%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 28.03%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司部分产品的主要生产原料是正丁醇、冰醋酸及偏三甲苯等...其价格受到焦化行业、国际原油价格及市场供需关系等多种因素的影响，会呈现不同程度的波动，进而影响公司的盈利水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动的风险...公司部分产品的主要生产原料是正丁醇、冰醋酸及偏三甲苯等...原材料价格波动的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "近年来公司部分产品产能扩张，部分新产品投产，但是国内相关产品生产企业数量逐渐增多，产能扩张速度也较快，使得竞争加剧。如果市场竞争进一步加剧，将可能影响公司的盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险...近年来公司部分产品产能扩张...如果市场竞争进一步加剧，将可能影响公司的盈利能力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "由于对储能电池的性能水平及制造成本要求的不断提高...如果未来电化学储能技术发生突破性变革，使储能行业使用的电池类型发生迭代，而公司未能及时掌握新技术并将其应用于相关产品，则可能会对公司的市场地位和盈利能力产生不利影响。",
+      "related_entity": null,
+      "related_product": "储能电池、磷酸铁锂电池",
+      "quote": "产品技术迭代风险...如果未来电化学储能技术发生突破性变革...则可能会对公司的市场地位和盈利能力产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "投资项目的实施与市场供求、国家产业政策、行业竞争情况、技术进步、公司管理及人才等因素密切相关，上述任何因素的变动都可能直接影响项目的经济效益。...已实施的项目能否达到预期效益，未实施的项目未来能否实施均具有不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "项目实施风险...投资项目的实施...具有不确定性。"
+    }
+  ]
+}

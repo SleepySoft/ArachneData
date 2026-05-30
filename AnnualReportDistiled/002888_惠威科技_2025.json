@@ -1,0 +1,515 @@
+{
+  "company_name_mentioned": "广东惠威电声科技股份有限公司",
+  "produces": [
+    {
+      "name": "家庭影院系列",
+      "type": "device",
+      "revenue_proportion": "30.39%",
+      "quote": "分产品 家庭影院系列 83,381,859.22 30.39%"
+    },
+    {
+      "name": "专业音响系列",
+      "type": "device",
+      "revenue_proportion": "33.72%",
+      "quote": "分产品 专业音响系列 92,517,425.74 33.72%"
+    },
+    {
+      "name": "公共广播系列",
+      "type": "device",
+      "revenue_proportion": "15.00%",
+      "quote": "分产品 公共广播系列 41,152,087.53 15.00%"
+    },
+    {
+      "name": "多媒体系列",
+      "type": "device",
+      "revenue_proportion": "7.51%",
+      "quote": "分产品 多媒体系列 20,611,969.19 7.51%"
+    },
+    {
+      "name": "喇叭系列",
+      "type": "component",
+      "revenue_proportion": "3.44%",
+      "quote": "分产品 喇叭系列 9,450,460.87 3.44%"
+    },
+    {
+      "name": "汽车音响系列",
+      "type": "device",
+      "revenue_proportion": "0.98%",
+      "quote": "分产品 汽车音响系列 2,684,690.91 0.98%"
+    },
+    {
+      "name": "耳机系列",
+      "type": "device",
+      "revenue_proportion": "0.38%",
+      "quote": "分产品 耳机系列 1,033,098.92 0.38%"
+    },
+    {
+      "name": "开发服务",
+      "type": "service",
+      "revenue_proportion": "3.65%",
+      "quote": "分产品 开发服务 10,017,735.85 3.65%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "电子音响行业",
+      "cost_proportion": "78.94%",
+      "quote": "电子音响行业 直接材料 152,373,706.38 78.94%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "电子音响行业",
+      "cost_proportion": "9.62%",
+      "quote": "电子音响行业 直接人工 18,568,278.47 9.62%"
+    },
+    {
+      "name": "折旧",
+      "target_product": "电子音响行业",
+      "cost_proportion": "2.19%",
+      "quote": "电子音响行业 折旧 4,235,251.68 2.19%"
+    },
+    {
+      "name": "能源和动力",
+      "target_product": "电子音响行业",
+      "cost_proportion": "0.72%",
+      "quote": "电子音响行业 能源和动力 1,395,598.51 0.72%"
+    },
+    {
+      "name": "其他制造费用",
+      "target_product": "电子音响行业",
+      "cost_proportion": "5.64%",
+      "quote": "电子音响行业 其他制造费用 10,880,667.73 5.64%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家庭环境",
+      "source_product": "家庭影院",
+      "quote": "家庭影院：是在家庭环境中能营造出影院效果的音响系统"
+    },
+    {
+      "name": "体育场馆、大会堂、礼堂、剧院、演艺厅、会议厅和娱乐场所",
+      "source_product": "专业音响",
+      "quote": "专业音响：是指包含音源、控制设备、周边设备和还原设备为一体的音响系统，广泛应用于体育场馆、大会堂、礼堂、剧院、演艺厅、会议厅和娱乐场所等。"
+    },
+    {
+      "name": "各类公共场所",
+      "source_product": "公共广播",
+      "quote": "公共广播：是指集播放背景音乐，宣传、寻呼广播和火灾事故的紧急广播等功能为一体的音响系统，市场需求广泛，应用于各类公共场所。"
+    },
+    {
+      "name": "桌面台式电脑、笔记本电脑、平板电脑、电视及各类智能手机",
+      "source_product": "多媒体音响",
+      "quote": "多媒体音响：是指内置功率放大器、配备精密制造的扬声器单元的有源音响系统，包含具备联网、可视化等功能的智能音响。主要配合桌面台式电脑、笔记本电脑、平板电脑、电视及各类智能手机使用。"
+    },
+    {
+      "name": "汽车多媒体系统",
+      "source_product": "汽车音响",
+      "quote": "汽车音响：是搭载于汽车多媒体系统的组成部件，是车载娱乐系统的重要组成部分。"
+    },
+    {
+      "name": "手机、随身听、收音机、可携式电玩和数位音讯播放器",
+      "source_product": "耳机",
+      "quote": "耳机：是指一对转换单元...多用于手机、随身听、收音机、可携式电玩和数位音讯播放器等。"
+    },
+    {
+      "name": "智能家居、智能汽车、健康医疗、智慧城市",
+      "source_product": "音响设备",
+      "quote": "应用场景持续拓宽，从传统消费端向智能家居、智能汽车、健康医疗、智慧城市等领域全面渗透"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "HONGBO YAO",
+      "role": "董事长，控股股东，实际控制人",
+      "quote": "公司负责人 HONGBO YAO、主管会计工作负责人陈丹红...控股股东 指 HONGBO YAO 实际控制人 指 HONGBO YAO 和 HUIFANG CHEN"
+    },
+    {
+      "name": "HUIFANG CHEN",
+      "role": "董事，实际控制人",
+      "quote": "实际控制人 指 HONGBO YAO 和 HUIFANG CHEN"
+    },
+    {
+      "name": "JUNJIE MICHAEL YAO",
+      "role": "董事、总经理",
+      "quote": "JUNJIE MICHAEL YAO：董事兼总经理"
+    },
+    {
+      "name": "姚宏远",
+      "role": "董事、副总经理",
+      "quote": "姚宏远：董事、副总经理"
+    },
+    {
+      "name": "陈焕新",
+      "role": "副总经理",
+      "quote": "陈焕新：副总经理"
+    },
+    {
+      "name": "陈丹红",
+      "role": "财务总监",
+      "quote": "陈丹红：财务总监"
+    },
+    {
+      "name": "王明强",
+      "role": "独立董事",
+      "quote": "王明强：独立董事"
+    },
+    {
+      "name": "高义融",
+      "role": "独立董事",
+      "quote": "高义融：独立董事"
+    },
+    {
+      "name": "曾婷婷",
+      "role": "独立董事",
+      "quote": "曾婷婷：独立董事"
+    },
+    {
+      "name": "况飞帆",
+      "role": "董事会秘书",
+      "quote": "况飞帆：董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "珠海惠威科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，研发、生产、加工和销售各类喇叭、音响、音响器材及配件等产品",
+      "quote": "珠海惠威 指 珠海惠威科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "中山市惠威电器有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "中山惠威 指 中山市惠威电器有限公司，公司全资子公司"
+    },
+    {
+      "name": "HiVi Acoustics, Inc.",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "美国惠威 指 HiVi Acoustics, Inc.，公司全资子公司"
+    },
+    {
+      "name": "广州骏声物业管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "广州骏声 指 广州骏声物业管理有限公司，公司全资子公司"
+    },
+    {
+      "name": "广东惠威电声科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "广东惠威 指 广东惠威电声科技有限公司，公司全资孙公司"
+    },
+    {
+      "name": "深圳惠威电声科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "深圳惠威 指 深圳惠威电声科技有限公司，公司全资孙公司"
+    },
+    {
+      "name": "惠威科技(香港)有限公司Swan Technology(HK) limited",
+      "relation_type": "subsidiary",
+      "business_details": "2025年1月设立的全资孙公司",
+      "quote": "本公司子公司珠海惠威科技有限公司于2025年01月设立全资孙公司惠威科技(香港)有限公司Swan Technology(HK) limited"
+    },
+    {
+      "name": "广东惠威物联科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年6月通过孙公司深圳惠威收购广东智圣建设有限公司100%股权后更名",
+      "quote": "2025年6月11日，本公司孙公司深圳惠威电声科技有限公司通过现金收购广东智圣建设有限公司100%股权...广东智圣建设有限公司更名为广东惠威物联科技有限责任公司"
+    },
+    {
+      "name": "北京德皓国际会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "会计师事务所名称 北京德皓国际会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "家庭影院系列",
+      "segment_type": "product_line",
+      "revenue_amount": "83,381,859.22元",
+      "revenue_proportion": "30.39%",
+      "gross_margin": "35.55%",
+      "yoy_change": "17.07%",
+      "quote": "家庭影院系列 83,381,859.22 30.39%...毛利率 35.55%...营业收入比上年同期增减 17.07%"
+    },
+    {
+      "name": "专业音响系列",
+      "segment_type": "product_line",
+      "revenue_amount": "92,517,425.74元",
+      "revenue_proportion": "33.72%",
+      "gross_margin": "15.47%",
+      "yoy_change": "10.24%",
+      "quote": "专业音响系列 92,517,425.74 33.72%...毛利率 15.47%...营业收入比上年同期增减 10.24%"
+    },
+    {
+      "name": "公共广播系列",
+      "segment_type": "product_line",
+      "revenue_amount": "41,152,087.53元",
+      "revenue_proportion": "15.00%",
+      "gross_margin": "27.21%",
+      "yoy_change": "-21.51%",
+      "quote": "公共广播系列 41,152,087.53 15.00%...毛利率 27.21%...营业收入比上年同期增减 -21.51%"
+    },
+    {
+      "name": "多媒体系列",
+      "segment_type": "product_line",
+      "revenue_amount": "20,611,969.19元",
+      "revenue_proportion": "7.51%",
+      "yoy_change": "-8.29%",
+      "quote": "多媒体系列 20,611,969.19 7.51%...营业收入比上年同期增减 -8.29%"
+    },
+    {
+      "name": "喇叭系列",
+      "segment_type": "product_line",
+      "revenue_amount": "9,450,460.87元",
+      "revenue_proportion": "3.44%",
+      "yoy_change": "-17.62%",
+      "quote": "喇叭系列 9,450,460.87 3.44%...营业收入比上年同期增减 -17.62%"
+    },
+    {
+      "name": "汽车音响系列",
+      "segment_type": "product_line",
+      "revenue_amount": "2,684,690.91元",
+      "revenue_proportion": "0.98%",
+      "yoy_change": "-32.67%",
+      "quote": "汽车音响系列 2,684,690.91 0.98%...营业收入比上年同期增减 -32.67%"
+    },
+    {
+      "name": "耳机系列",
+      "segment_type": "product_line",
+      "revenue_amount": "1,033,098.92元",
+      "revenue_proportion": "0.38%",
+      "yoy_change": "-57.18%",
+      "quote": "耳机系列 1,033,098.92 0.38%...营业收入比上年同期增减 -57.18%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "262,973,863.47元",
+      "revenue_proportion": "95.84%",
+      "gross_margin": "29.14%",
+      "yoy_change": "1.54%",
+      "quote": "境内 262,973,863.47 95.84%...毛利率 29.14%...营业收入比上年同期增减 1.53%（注：原文表格数据为1.53%）"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "11,408,082.47元",
+      "revenue_proportion": "4.16%",
+      "yoy_change": "-6.39%",
+      "quote": "境外 11,408,082.47 4.16%...营业收入比上年同期增减 -6.39%"
+    },
+    {
+      "name": "线下",
+      "segment_type": "sales_channel",
+      "revenue_amount": "204,525,140.47元",
+      "revenue_proportion": "74.54%",
+      "gross_margin": "27.67%",
+      "yoy_change": "-6.13%",
+      "quote": "线下 204,525,140.47 74.54%...毛利率 27.67%...营业收入比上年同期增减 -6.13%"
+    },
+    {
+      "name": "线上",
+      "segment_type": "sales_channel",
+      "revenue_amount": "69,856,805.47元",
+      "revenue_proportion": "25.46%",
+      "gross_margin": "35.44%",
+      "yoy_change": "31.13%",
+      "quote": "线上 69,856,805.47 25.46%...毛利率 35.44%...营业收入比上年同期增减 31.13%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电子音响行业",
+      "metric_type": "sales_volume",
+      "value": "529,228套",
+      "period": "2025年",
+      "quote": "销售量 套 529,228"
+    },
+    {
+      "product": "电子音响行业",
+      "metric_type": "production_volume",
+      "value": "541,706件",
+      "period": "2025年",
+      "quote": "生产量 件 541,706"
+    },
+    {
+      "product": "电子音响行业",
+      "metric_type": "inventory_volume",
+      "value": "154,886件",
+      "period": "2025年末",
+      "quote": "库存量 件 154,886"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "音响面板扩散补偿技术的研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "音响面板扩散补偿技术的研究...已完成"
+    },
+    {
+      "name": "四点缓震黑胶唱片机系统技术的研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "四点缓震黑胶唱片机系统技术的研究...已完成"
+    },
+    {
+      "name": "功率放大器预失真补偿技术的研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "功率放大器预失真补偿技术的研究...已完成"
+    },
+    {
+      "name": "防驻波十字音质增强技术的研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "防驻波十字音质增强技术的研究...已完成"
+    },
+    {
+      "name": "扬声器音圈与振膜一体化技术的研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "扬声器音圈与振膜一体化技术的研究...已完成"
+    },
+    {
+      "name": "5G全数字网络会议系统的研究",
+      "project_type": "r_and_d_project",
+      "progress": "进行中",
+      "quote": "5G全数字网络会议系统的研究...进行中"
+    },
+    {
+      "name": "多通道网络数字定压功放的研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "多通道网络数字定压功放的研究...已完成"
+    },
+    {
+      "name": "无线音频流媒体桌面解码器的研究",
+      "project_type": "r_and_d_project",
+      "progress": "进行中",
+      "quote": "无线音频流媒体桌面解码器的研究...进行中"
+    },
+    {
+      "name": "AI自适应半入耳式Hi-Res主动降噪耳机研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "AI自适应半入耳式Hi-Res主动降噪耳机研究...已完成"
+    },
+    {
+      "name": "低功耗长寿命电子管放大器的研究",
+      "project_type": "r_and_d_project",
+      "progress": "已完成",
+      "quote": "低功耗长寿命电子管放大器的研究...已完成"
+    },
+    {
+      "name": "湾中新城项目物业引入",
+      "project_type": "other",
+      "location": "中山市",
+      "investment_amount": "3,900万元",
+      "progress": "物业已于2025年12月完成交付。",
+      "quote": "F38地块16栋1卡物业...合同价格 3,900...业已于2025年12月完成交付。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "核心品牌“惠威”、“HiVi”",
+      "asset_type": "other",
+      "quote": "拥有核心品牌“惠威”、“HiVi”"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "quote": "拥有各类先进的电声研发设备及设计软件，系高新技术企业。"
+    },
+    {
+      "name": "音响面板扩散补偿技术",
+      "asset_type": "core_technology",
+      "related_product": "音响面板",
+      "quote": "音响面板扩散补偿技术的研究"
+    },
+    {
+      "name": "四点缓震黑胶唱片机系统技术",
+      "asset_type": "core_technology",
+      "related_product": "黑胶唱片机",
+      "quote": "四点缓震黑胶唱片机系统技术的研究"
+    },
+    {
+      "name": "功率放大器预失真补偿技术",
+      "asset_type": "core_technology",
+      "related_product": "功率放大器",
+      "quote": "功率放大器预失真补偿技术的研究"
+    },
+    {
+      "name": "防驻波十字音质增强技术",
+      "asset_type": "core_technology",
+      "related_product": "音箱",
+      "quote": "防驻波十字音质增强技术的研究"
+    },
+    {
+      "name": "扬声器音圈与振膜一体化技术",
+      "asset_type": "core_technology",
+      "related_product": "扬声器",
+      "quote": "扬声器音圈与振膜一体化技术的研究"
+    },
+    {
+      "name": "5G全数字网络会议系统技术",
+      "asset_type": "core_technology",
+      "related_product": "会议系统",
+      "quote": "5G全数字网络会议系统的研究"
+    },
+    {
+      "name": "AES67/AES70网络音频应用标准",
+      "asset_type": "standard",
+      "quote": "国际音频工程协会（AES）关于网络音频应用的两大标准——AES67和AES70奠定了未来网络化音频应用的技术规范。"
+    },
+    {
+      "name": "AI实时耳道建模与自适应泄漏补偿技术",
+      "asset_type": "core_technology",
+      "related_product": "主动降噪耳机",
+      "quote": "利用音频SoC的DSP的有限算力和数据大模型实时分析，实现“AI实时耳道建模”与“AI自适应泄漏补偿”。"
+    },
+    {
+      "name": "LDAC高清音频编解码技术",
+      "asset_type": "core_technology",
+      "related_product": "无线音频耳机",
+      "quote": "支持LDAC协议，实现最高990kbps的稳定无线音频传输。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "112,678,125.44元，占年度销售总额比例41.07%",
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 112,678,125.44 前五名客户合计销售金额占年度销售总额比例 41.07%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "60,072,229.10元，占年度采购总额比例37.01%",
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 60,072,229.10 前五名供应商合计采购金额占年度采购总额比例 37.01%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司合并报表存货账面余额为10,613.59万元，存货跌价准备余额为1,780.05万元，存货净额较高。如果音响行业出现重大技术革新或客户需求转变，公司现有存货难以继续销售，公司将对存货大幅计提跌价准备。",
+      "quote": "存货大幅计提跌价准备的风险：报告期末，公司合并报表存货账面余额为10,613.59万元，存货跌价准备余额为1,780.05万元...如果音响行业出现重大技术革新或客户需求转变，公司现有存货难以继续销售，公司将对存货大幅计提跌价准备"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "全球电子音响行业“智能化”已成为行业的重要发展趋势，国内外科技及智能终端生态链巨头已陆续进入智能音响领域，对公司产品形成巨大冲击。如果公司在产品技术升级、新产品设计和研发、营销渠道拓展等方面不能及时应对市场变化，将面临业绩下滑的风险。",
+      "quote": "新产品和新技术的替代风险：目前，全球电子音响行业“智能化”已成为行业的重要发展趋势...国内外的科技及智能终端生态链巨头已陆续进入智能音响领域，对传统的音响产品和生产厂商形成了巨大的冲击。公司的产品面临日益激烈的竞争，如果公司在产品技术升级、新产品设计和研发、营销渠道拓展等方面不能及时应对市场变化，将面临业绩下滑的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司自设立以来一直从事各类音响设备、扬声器的研发、生产和销售，已建立了成熟稳定的生产、销售和研发团队。随着市场竞争的加剧，细分行业对上述人才的竞争也日趋激烈，公司面临着人才流失的风险。",
+      "quote": "人才流失及补充的风险：公司自设立以来一直从事各类音响设备、扬声器的研发、生产和销售，已建立了成熟稳定的生产、销售和研发团队。随着市场竞争的加剧，细分行业对上述人才的竞争也日趋激烈，公司面临着人才流失的风险。"
+    }
+  ]
+}

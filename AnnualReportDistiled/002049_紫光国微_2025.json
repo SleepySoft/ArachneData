@@ -1,0 +1,544 @@
+{
+  "company_name_mentioned": "紫光国芯微电子股份有限公司",
+  "produces": [
+    {
+      "name": "特种集成电路",
+      "type": "device",
+      "revenue_proportion": "52.26%",
+      "quote": "分产品：特种集成电路 3,212,013,113.91 52.26%"
+    },
+    {
+      "name": "智能安全芯片",
+      "type": "device",
+      "revenue_proportion": "41.45%",
+      "quote": "分产品：智能安全芯片 2,547,136,532.95 41.45%"
+    },
+    {
+      "name": "石英晶体频率器件",
+      "type": "component",
+      "revenue_proportion": "5.21%",
+      "quote": "分产品：石英晶体频率器件 320,293,475.31 5.21%"
+    },
+    {
+      "name": "其他",
+      "type": "other",
+      "revenue_proportion": "1.08%",
+      "quote": "分产品：其他 66,379,941.10 1.08%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料及加工费用",
+      "target_product": "集成电路",
+      "cost_proportion": "88.33%",
+      "quote": "集成电路 材料及加工费用 2,132,267,927.39 88.33%"
+    },
+    {
+      "name": "人工费用",
+      "target_product": "集成电路",
+      "cost_proportion": "6.17%",
+      "quote": "集成电路 人工费用 148,884,253.65 6.17%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "集成电路",
+      "cost_proportion": "5.50%",
+      "quote": "集成电路 制造费用 132,792,141.66 5.50%"
+    },
+    {
+      "name": "材料及加工费用",
+      "target_product": "电子元器件",
+      "cost_proportion": "71.32%",
+      "quote": "电子元器件 材料及加工费用 201,433,119.03 71.32%"
+    },
+    {
+      "name": "人工费用",
+      "target_product": "电子元器件",
+      "cost_proportion": "11.99%",
+      "quote": "电子元器件 人工费用 33,850,976.34 11.99%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "电子元器件",
+      "cost_proportion": "16.70%",
+      "quote": "电子元器件 制造费用 47,158,794.81 16.70%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "移动通信",
+      "source_product": null,
+      "quote": "为移动通信、金融、政务、汽车、工业、物联网等多个行业提供芯片、系统解决方案和终端产品"
+    },
+    {
+      "name": "金融",
+      "source_product": null,
+      "quote": "为移动通信、金融、政务、汽车、工业、物联网等多个行业提供芯片、系统解决方案和终端产品"
+    },
+    {
+      "name": "政务",
+      "source_product": null,
+      "quote": "为移动通信、金融、政务、汽车、工业、物联网等多个行业提供芯片、系统解决方案和终端产品"
+    },
+    {
+      "name": "汽车",
+      "source_product": null,
+      "quote": "为移动通信、金融、政务、汽车、工业、物联网等多个行业提供芯片、系统解决方案和终端产品"
+    },
+    {
+      "name": "工业",
+      "source_product": null,
+      "quote": "为移动通信、金融、政务、汽车、工业、物联网等多个行业提供芯片、系统解决方案和终端产品"
+    },
+    {
+      "name": "物联网",
+      "source_product": null,
+      "quote": "为移动通信、金融、政务、汽车、工业、物联网等多个行业提供芯片、系统解决方案和终端产品"
+    },
+    {
+      "name": "网络通信",
+      "source_product": "石英晶体频率器件",
+      "quote": "广泛应用于网络通信、车用电子、工业控制、移动终端、智慧能源、具身智能等众多领域。"
+    },
+    {
+      "name": "车用电子",
+      "source_product": "石英晶体频率器件",
+      "quote": "广泛应用于网络通信、车用电子、工业控制、移动终端、智慧能源、具身智能等众多领域。"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "石英晶体频率器件",
+      "quote": "广泛应用于网络通信、车用电子、工业控制、移动终端、智慧能源、具身智能等众多领域。"
+    },
+    {
+      "name": "移动终端",
+      "source_product": "石英晶体频率器件",
+      "quote": "广泛应用于网络通信、车用电子、工业控制、移动终端、智慧能源、具身智能等众多领域。"
+    },
+    {
+      "name": "智慧能源",
+      "source_product": "石英晶体频率器件",
+      "quote": "广泛应用于网络通信、车用电子、工业控制、移动终端、智慧能源、具身智能等众多领域。"
+    },
+    {
+      "name": "具身智能",
+      "source_product": "石英晶体频率器件",
+      "quote": "广泛应用于网络通信、车用电子、工业控制、移动终端、智慧能源、具身智能等众多领域。"
+    },
+    {
+      "name": "商业航天",
+      "source_product": "特种集成电路",
+      "quote": "在传统业务基础上拓展了商业航天等新的应用场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈杰",
+      "role": "董事长",
+      "quote": "公司负责人陈杰"
+    },
+    {
+      "name": "杨秋平",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人杨秋平"
+    },
+    {
+      "name": "张典洪",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）张典洪"
+    },
+    {
+      "name": "佟晓丹",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 佟晓丹"
+    },
+    {
+      "name": "丁芝永",
+      "role": "证券事务代表",
+      "quote": "证券事务代表 丁芝永"
+    },
+    {
+      "name": "李天池",
+      "role": "董事、总裁",
+      "quote": "李天池先生：公司董事、总裁，简历同上。"
+    },
+    {
+      "name": "马道杰",
+      "role": "副董事长",
+      "quote": "马道杰先生...现任新紫光集团有限公司执行副总裁、执行委员会委员，紫光展锐（上海）科技股份有限公司董事长等职...2024年10月起任公司副董事长。"
+    },
+    {
+      "name": "范新",
+      "role": "董事",
+      "quote": "范新先生...现任新紫光集团有限公司党委书记、战略咨询委员会主任委员...2021年9月起任公司董事。"
+    },
+    {
+      "name": "马宁辉",
+      "role": "董事",
+      "quote": "马宁辉先生...2025年10月起任公司董事。"
+    },
+    {
+      "name": "邬睿",
+      "role": "董事",
+      "quote": "邬睿女士...2025年10月起任公司董事。"
+    },
+    {
+      "name": "马朝松",
+      "role": "独立董事",
+      "quote": "马朝松先生...2023年8月起任公司独立董事。"
+    },
+    {
+      "name": "谢永涛",
+      "role": "独立董事",
+      "quote": "谢永涛先生...2023年8月起任公司独立董事。"
+    },
+    {
+      "name": "来有为",
+      "role": "独立董事",
+      "quote": "来有为先生...2025年2月起任公司独立董事。"
+    },
+    {
+      "name": "岳超",
+      "role": "副总裁",
+      "quote": "岳超先生...现任紫光同芯微电子有限公司总裁...2023年5月起任公司副总裁。"
+    },
+    {
+      "name": "杨秋平",
+      "role": "财务总监",
+      "quote": "杨秋平女士...2010年10月起任公司财务总监。"
+    },
+    {
+      "name": "翟应斌",
+      "role": "副总裁",
+      "quote": "翟应斌先生...2024年10月起任公司副总裁。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "西藏紫光春华科技有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东：西藏紫光春华科技有限公司"
+    },
+    {
+      "name": "北京智广芯控股有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "智广芯 指 北京智广芯控股有限公司"
+    },
+    {
+      "name": "深圳市国微电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "设计、开发和销售特种集成电路",
+      "quote": "深圳市国微电子有限公司...设计、开发和销售特种集成电路"
+    },
+    {
+      "name": "紫光同芯微电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "设计、开发和销售智能安全芯片",
+      "quote": "紫光同芯微电子有限公司...设计、开发和销售智能安全芯片"
+    },
+    {
+      "name": "唐山国芯晶源电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "石英晶体频率器件业务主体单位",
+      "quote": "石英晶体频率器件业务主体单位唐山国芯晶源获批河北省石英微机电系统（Q-MEMS）先进制造技术重点实验室"
+    },
+    {
+      "name": "信永中和会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "公司聘请的会计师事务所：信永中和会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "集成电路",
+      "segment_type": "product_line",
+      "revenue_amount": "5,759,149,646.86",
+      "revenue_proportion": "93.71%",
+      "gross_margin": "58.09%",
+      "yoy_change": "10.43%",
+      "quote": "分行业：集成电路 5,759,149,646.86 93.71%...毛利率 58.09%...营业收入比上年同期增减 10.43%"
+    },
+    {
+      "name": "电子元器件",
+      "segment_type": "product_line",
+      "revenue_amount": "320,293,475.31",
+      "revenue_proportion": "5.21%",
+      "gross_margin": "11.82%",
+      "yoy_change": "42.86%",
+      "quote": "分行业：电子元器件 320,293,475.31 5.21%...毛利率 11.82%...营业收入比上年同期增减 42.86%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "66,379,941.10",
+      "revenue_proportion": "1.08%",
+      "gross_margin": null,
+      "yoy_change": "-7.21%",
+      "quote": "分行业：其他 66,379,941.10 1.08%...营业收入比上年同期增减 -7.21%"
+    },
+    {
+      "name": "特种集成电路",
+      "segment_type": "product_line",
+      "revenue_amount": "3,212,013,113.91",
+      "revenue_proportion": "52.26%",
+      "gross_margin": "70.26%",
+      "yoy_change": "24.63%",
+      "quote": "分产品：特种集成电路 3,212,013,113.91 52.26%...毛利率 70.26%...营业收入比上年同期增减 24.63%"
+    },
+    {
+      "name": "智能安全芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "2,547,136,532.95",
+      "revenue_proportion": "41.45%",
+      "gross_margin": "42.73%",
+      "yoy_change": "-3.45%",
+      "quote": "分产品：智能安全芯片 2,547,136,532.95 41.45%...毛利率 42.73%...营业收入比上年同期增减 -3.45%"
+    },
+    {
+      "name": "石英晶体频率器件",
+      "segment_type": "product_line",
+      "revenue_amount": "320,293,475.31",
+      "revenue_proportion": "5.21%",
+      "gross_margin": "11.82%",
+      "yoy_change": "42.86%",
+      "quote": "分产品：石英晶体频率器件 320,293,475.31 5.21%...毛利率 11.82%...营业收入比上年同期增减 42.86%"
+    },
+    {
+      "name": "中国大陆内",
+      "segment_type": "region",
+      "revenue_amount": "5,543,478,716.55",
+      "revenue_proportion": "90.20%",
+      "gross_margin": "58.45%",
+      "yoy_change": "16.05%",
+      "quote": "分地区：中国大陆内 5,543,478,716.55 90.20%...毛利率 58.45%...营业收入比上年同期增减 16.05%"
+    },
+    {
+      "name": "中国大陆以外地区",
+      "segment_type": "region",
+      "revenue_amount": "602,344,346.72",
+      "revenue_proportion": "9.80%",
+      "gross_margin": "30.13%",
+      "yoy_change": "-17.95%",
+      "quote": "分地区：中国大陆以外地区 602,344,346.72 9.80%...毛利率 30.13%...营业收入比上年同期增减 -17.95%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,918,422,408.10",
+      "revenue_proportion": "96.30%",
+      "gross_margin": "57.69%",
+      "yoy_change": "10.69%",
+      "quote": "分销售模式：直销 5,918,422,408.10 96.30%...毛利率 57.69%...营业收入比上年同期增减 10.69%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "227,400,655.17",
+      "revenue_proportion": "3.70%",
+      "gross_margin": "3.07%",
+      "yoy_change": "38.39%",
+      "quote": "分销售模式：经销 227,400,655.17 3.70%...毛利率 3.07%...营业收入比上年同期增减 38.39%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "集成电路",
+      "metric_type": "sales_volume",
+      "value": "2,118,112,412",
+      "period": "2025年",
+      "quote": "销售量 颗 2,118,112,412 2,343,762,951 -9.63%"
+    },
+    {
+      "product": "集成电路",
+      "metric_type": "production_volume",
+      "value": "2,037,559,080",
+      "period": "2025年",
+      "quote": "生产量 颗 2,037,559,080 1,992,343,433 2.27%"
+    },
+    {
+      "product": "集成电路",
+      "metric_type": "inventory_volume",
+      "value": "381,724,793",
+      "period": "2025年末",
+      "quote": "库存量 颗 381,724,793 462,278,125 -17.43%"
+    },
+    {
+      "product": "电子元器件",
+      "metric_type": "sales_volume",
+      "value": "851,537,217",
+      "period": "2025年",
+      "quote": "销售量 只 851,537,217 591,597,904 43.94%"
+    },
+    {
+      "product": "电子元器件",
+      "metric_type": "production_volume",
+      "value": "854,222,548",
+      "period": "2025年",
+      "quote": "生产量 只 854,222,548 629,395,904 35.72%"
+    },
+    {
+      "product": "电子元器件",
+      "metric_type": "inventory_volume",
+      "value": "87,589,133",
+      "period": "2025年末",
+      "quote": "库存量 只 87,589,133 84,903,802 3.16%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "科研生产用联建楼建设项目",
+      "project_type": "construction_project",
+      "location": "深圳市南山区留仙洞七街坊T501-0106宗地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "施工阶段",
+      "expected_completion_time": "2029年2月底",
+      "quote": "科研生产用联建楼建设项目（含南山区留仙洞七街坊T501-0106宗地土地使用权）...项目进度 施工阶段...公司决定将“深圳国微科研生产用联建楼建设项目”达到预定可使用状态时间延长至2029年2月底。"
+    },
+    {
+      "name": "超微型石英晶体谐振器生产基地项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "部分产线已转固，部分产线处于调试和建设阶段",
+      "expected_completion_time": null,
+      "quote": "超微型石英晶体谐振器生产基地项目...部分产线已转固，部分产线处于调试和建设阶段"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "FPGA",
+      "asset_type": "core_technology",
+      "related_product": "特种集成电路",
+      "quantitative_info": null,
+      "quote": "公司 FPGA 和系统级芯片产品继续在行业市场内保持领先地位"
+    },
+    {
+      "name": "系统级芯片（SOC）",
+      "asset_type": "core_technology",
+      "related_product": "特种集成电路",
+      "quantitative_info": null,
+      "quote": "公司 FPGA 和系统级芯片产品继续在行业市场内保持领先地位"
+    },
+    {
+      "name": "SoPC",
+      "asset_type": "core_technology",
+      "related_product": "特种集成电路",
+      "quantitative_info": null,
+      "quote": "目前形成的几大系列产品，均得到广泛应用。除 FPGA、SOC、SoPC、DSP 等核心主控芯片外"
+    },
+    {
+      "name": "DSP",
+      "asset_type": "core_technology",
+      "related_product": "特种集成电路",
+      "quantitative_info": null,
+      "quote": "目前形成的几大系列产品，均得到广泛应用。除 FPGA、SOC、SoPC、DSP 等核心主控芯片外"
+    },
+    {
+      "name": "安全算法",
+      "asset_type": "core_technology",
+      "related_product": "智能安全芯片",
+      "quantitative_info": null,
+      "quote": "在智能安全芯片领域，公司掌握安全算法、安全攻防、嵌入式、短距通信等多项核心技术"
+    },
+    {
+      "name": "Q-MEMS技术",
+      "asset_type": "process_technology",
+      "related_product": "石英晶体频率器件",
+      "quantitative_info": null,
+      "quote": "在石英晶体频率器件领域，公司依托Q-MEMS技术实现石英MEMS器件产业化与规模化生产"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "421项",
+      "quote": "截至报告期末，公司共拥有发明专利 421 项"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "221项",
+      "quote": "实用新型专利221项。"
+    },
+    {
+      "name": "银联芯片安全认证",
+      "asset_type": "certification",
+      "related_product": "智能安全芯片",
+      "quantitative_info": null,
+      "quote": "公司产品通过银联芯片安全认证、国密二级认证、国际 SOGIS CC EAL6+、ISCCC EAL4+/EAL6+、GSMA SAS-UP、GSMA eSA等国内外权威认证"
+    },
+    {
+      "name": "AEC-Q100车规认证",
+      "asset_type": "certification",
+      "related_product": "智能安全芯片",
+      "quantitative_info": null,
+      "quote": "以及AEC-Q100车规认证和ISO26262 ASILD、ISO/SAE 21434 认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "45.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 45.19%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "12.99%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "客户1 798,243,851.93 12.99%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.01%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "21.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "供应商1 700,795,532.08 21.44%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五大客户销售额占比较高，存在一定的客户集中风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例 45.19%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "前五大供应商采购额占比较高，存在一定的供应商集中风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.01%"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司面临激烈的市场竞争环境。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "面对竞争异常激烈的市场环境"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司面临技术迭代的风险。",
+      "related_entity": null,
+      "related_product": "智能安全芯片",
+      "quote": "传统智能卡业务竞争激烈，以eSIM、防伪识别、终端支付芯片为代表的新产品和新应用快速发展。"
+    }
+  ]
+}

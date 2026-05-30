@@ -1,0 +1,657 @@
+{
+  "company_name_mentioned": "北方化学工业股份有限公司",
+  "produces": [
+    {
+      "name": "硝化棉相关产品",
+      "type": "material",
+      "revenue_proportion": "36.75%",
+      "quote": "分产品 硝化棉相关产品 1,010,893,321.41 36.75%"
+    },
+    {
+      "name": "工业泵",
+      "type": "device",
+      "revenue_proportion": "19.42%",
+      "quote": "分产品 工业泵 534,132,578.41 19.42%"
+    },
+    {
+      "name": "备件",
+      "type": "component",
+      "revenue_proportion": "6.72%",
+      "quote": "分产品 备件 184,798,027.99 6.72%"
+    },
+    {
+      "name": "防护器材",
+      "type": "device",
+      "revenue_proportion": "27.90%",
+      "quote": "分产品 防护器材 767,273,980.53 27.90%"
+    },
+    {
+      "name": "活性炭及催化剂",
+      "type": "material",
+      "revenue_proportion": "1.07%",
+      "quote": "分产品 活性炭及催化剂 29,337,834.10 1.07%"
+    },
+    {
+      "name": "环保器材",
+      "type": "device",
+      "revenue_proportion": "0.69%",
+      "quote": "分产品 环保器材 19,301,536.27 0.69%"
+    },
+    {
+      "name": "其他产品",
+      "type": "other",
+      "revenue_proportion": "7.06%",
+      "quote": "分产品 其他产品 194,076,011.97 7.06%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "精制棉",
+      "target_product": "硝化棉",
+      "cost_proportion": "7.51%",
+      "quote": "主要原材料 精制棉 自主采购 7.51%"
+    },
+    {
+      "name": "硝酸",
+      "target_product": "硝化棉",
+      "cost_proportion": "5.60%",
+      "quote": "主要原材料 硝酸 集中采购 5.60%"
+    },
+    {
+      "name": "酒精",
+      "target_product": "硝化棉",
+      "cost_proportion": "4.28%",
+      "quote": "主要原材料 酒精 集中采购 4.28%"
+    },
+    {
+      "name": "铝材",
+      "target_product": null,
+      "cost_proportion": "4.20%",
+      "quote": "主要原材料 铝材 集中采购 4.20%"
+    },
+    {
+      "name": "人防炭",
+      "target_product": null,
+      "cost_proportion": "3.83%",
+      "quote": "主要原材料 人防炭 集中采购 3.83%"
+    },
+    {
+      "name": "催化剂",
+      "target_product": null,
+      "cost_proportion": "2.28%",
+      "quote": "主要原材料 催化剂 集中采购 2.28%"
+    },
+    {
+      "name": "原煤",
+      "target_product": "活性炭",
+      "cost_proportion": null,
+      "quote": "主要上游原材料 原煤，焦油"
+    },
+    {
+      "name": "焦油",
+      "target_product": "活性炭",
+      "cost_proportion": null,
+      "quote": "主要上游原材料 原煤，焦油"
+    },
+    {
+      "name": "橡胶、纸、复合阻隔材料",
+      "target_product": "防护器材",
+      "cost_proportion": null,
+      "quote": "主要上游原材料 橡胶、纸、复合阻隔材料"
+    },
+    {
+      "name": "钢铁、活性炭、催化剂、机电、自控设备",
+      "target_product": "环保器材",
+      "cost_proportion": null,
+      "quote": "主要上游原材料 钢铁、活性炭、催化剂、机电、自控设备"
+    }
+  ],
+  "applications": [
+    {
+      "name": "涂料、赛璐珞等领域及高端彩印、环保烟花、人工影响天气、生物医用膜等新质领域",
+      "source_product": "硝化棉",
+      "quote": "工业硝化棉广泛应用于涂料、赛璐珞等领域及高端彩印、环保烟花、人工影响天气、生物医用膜等新质领域"
+    },
+    {
+      "name": "涂料、油墨领域",
+      "source_product": "硝化棉",
+      "quote": "其中90%的民用硝化棉应用于涂料和油墨领域"
+    },
+    {
+      "name": "工业尾气及污水处理、空气净化，脱色、除味等",
+      "source_product": "活性炭及催化剂",
+      "quote": "主要下游应用领域 工业尾气及污水处理、空气净化，脱色、除味等"
+    },
+    {
+      "name": "劳动保护、特种防护、工业有毒有害作业场所防护",
+      "source_product": "防护器材",
+      "quote": "主要下游应用领域 劳动保护、特种防护、工业有毒有害作业场所防护。"
+    },
+    {
+      "name": "工业尾气净化、工业废水提标处理",
+      "source_product": "环保器材",
+      "quote": "主要下游应用领域 工业尾气净化、工业废水提标处理。"
+    },
+    {
+      "name": "磷化工、烟气脱硫、矿业、冶金等领域",
+      "source_product": "特种工业泵",
+      "quote": "产品在磷化工、烟气脱硫、矿业、冶金等领域，在烟气脱硫、磷复肥用泵细分市场长期保持市场占有率领先地位"
+    },
+    {
+      "name": "载人航天工程（神舟飞船、天宫空间站）",
+      "source_product": "空间净化与应急防护系统",
+      "quote": "在载人航天工程中，为神舟飞船、天宫空间站研制配套了先进的空间净化与应急防护系统"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨和成",
+      "role": "董事长、总经理、法定代表人、党委书记",
+      "quote": "公司负责人杨和成、主管会计工作负责人杨和成及会计机构负责人（会计主管人员）姚小菊声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "蒲加顺",
+      "role": "董事长",
+      "quote": "蒲加顺 男 56 董事长 现任"
+    },
+    {
+      "name": "马辉",
+      "role": "董事",
+      "quote": "马辉 男 43 董事 现任"
+    },
+    {
+      "name": "杜兰平",
+      "role": "董事",
+      "quote": "杜兰平 男 53 董事 现任"
+    },
+    {
+      "name": "尉伟华",
+      "role": "董事",
+      "quote": "尉伟华 男 44 董事 现任"
+    },
+    {
+      "name": "潘健",
+      "role": "董事",
+      "quote": "潘健 男 51 董事 现任"
+    },
+    {
+      "name": "吕先锫",
+      "role": "独立董事",
+      "quote": "吕先锫 男 61 独立董事 现任"
+    },
+    {
+      "name": "崔晓辉",
+      "role": "独立董事",
+      "quote": "崔晓辉 男 65 独立董事 现任"
+    },
+    {
+      "name": "肖忠良",
+      "role": "独立董事",
+      "quote": "肖忠良 男 68 独立董事 现任"
+    },
+    {
+      "name": "商红",
+      "role": "财务负责人、董事会秘书",
+      "quote": "商红 女 54 财务负责人 现任"
+    },
+    {
+      "name": "朱华",
+      "role": "副总经理",
+      "quote": "朱华 男 47 副总经理 现任"
+    },
+    {
+      "name": "曾卫钢",
+      "role": "副总经理",
+      "quote": "曾卫钢 男 51 副总经理 现任"
+    },
+    {
+      "name": "张维娓",
+      "role": "副总经理",
+      "quote": "张维娓 女 46 副总经理 现任"
+    },
+    {
+      "name": "彭欢",
+      "role": "总工程师",
+      "quote": "彭欢 男 43 总工程师 现任"
+    },
+    {
+      "name": "张仁旭",
+      "role": "首席科学家（报告期内离任）",
+      "quote": "张仁旭 男 60 首席科学家 离任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国北方化学工业集团有限公司（北化集团）",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "北化集团 指 中国北方化学工业（集团）有限责任公司"
+    },
+    {
+      "name": "中国兵器工业集团有限公司（兵器集团）",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "中国兵器工业集团有限公司、中国兵器工业集团公司"
+    },
+    {
+      "name": "山西新华防化装备研究院有限公司（防化装备研究院）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事防化及环保产业",
+      "quote": "防化装备研究院 指 山西新华防化装备研究院有限公司"
+    },
+    {
+      "name": "襄阳五二五泵业有限公司（泵业公司）",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事特种工业泵产业",
+      "quote": "五二五泵业、泵业公司 指 襄阳五二五泵业有限公司"
+    },
+    {
+      "name": "泸州北方化学工业有限公司（泸州北方）",
+      "relation_type": "supplier",
+      "business_details": "关联方，采购原材料",
+      "quote": "泸州北方 指 泸州北方化学工业有限公司"
+    },
+    {
+      "name": "西安北方惠安化学工业有限公司（西安惠安）",
+      "relation_type": "supplier",
+      "business_details": "关联方，采购原材料",
+      "quote": "西安惠安 指 西安北方惠安化学工业有限公司"
+    },
+    {
+      "name": "湖北东方化工有限公司（东方化工）",
+      "relation_type": "supplier",
+      "business_details": "关联方，采购原材料",
+      "quote": "东方化工 指 湖北东方化工有限公司"
+    },
+    {
+      "name": "山西新华化工有限责任公司（新华化工）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司（历史名称）",
+      "quote": "新华化工 指 山西新华化工有限责任公司"
+    },
+    {
+      "name": "山西新华防护器材有限责任公司（新华防护）",
+      "relation_type": "supplier",
+      "business_details": "关联方，采购原材料",
+      "quote": "新华防护 指 山西新华防护器材有限责任公司"
+    },
+    {
+      "name": "中兵投资管理有限责任公司（中兵投资）",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "中兵投资 指 中兵投资管理有限责任公司"
+    },
+    {
+      "name": "阿克苏·诺贝尔",
+      "relation_type": "customer",
+      "business_details": "世界500强客户",
+      "quote": "是阿克苏·诺贝尔、盛威科、宣伟等世界500强的“优秀供应商”"
+    },
+    {
+      "name": "盛威科",
+      "relation_type": "customer",
+      "business_details": "世界500强客户",
+      "quote": "是阿克苏·诺贝尔、盛威科、宣伟等世界500强的“优秀供应商”"
+    },
+    {
+      "name": "宣伟",
+      "relation_type": "customer",
+      "business_details": "世界500强客户",
+      "quote": "是阿克苏·诺贝尔、盛威科、宣伟等世界500强的“优秀供应商”"
+    },
+    {
+      "name": "兵工财务有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，提供存款、贷款等金融服务",
+      "quote": "兵工财务有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化学原料及化学制品制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,018,369,581.79元",
+      "revenue_proportion": "37.03%",
+      "gross_margin": "42.28%",
+      "yoy_change": "43.79%",
+      "quote": "分行业 化学原料及化学制品制造业 1,018,369,581.79 37.03%"
+    },
+    {
+      "name": "专用设备制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "719,740,568.50元",
+      "revenue_proportion": "26.17%",
+      "gross_margin": "21.69%",
+      "yoy_change": "5.51%",
+      "quote": "分行业 专用设备制造业 719,740,568.50 26.17%"
+    },
+    {
+      "name": "其他专用化学产品制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,012,335,576.04元",
+      "revenue_proportion": "36.80%",
+      "gross_margin": "21.83%",
+      "yoy_change": "81.87%",
+      "quote": "分行业 其他专用化学产品制造 1,012,335,576.04 36.80%"
+    },
+    {
+      "name": "国外市场",
+      "segment_type": "region",
+      "revenue_amount": "396,408,407.62元",
+      "revenue_proportion": "14.41%",
+      "gross_margin": "57.22%",
+      "yoy_change": "51.20%",
+      "quote": "分地区 国外市场 396,408,407.62 14.41%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,229,928,318.33元",
+      "revenue_proportion": "81.08%",
+      "gross_margin": "28.99%",
+      "yoy_change": "37.22%",
+      "quote": "分销售模式 直销 2,229,928,318.33 81.08%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "520,517,408.00元",
+      "revenue_proportion": "18.92%",
+      "gross_margin": "30.98%",
+      "yoy_change": "61.67%",
+      "quote": "分销售模式 经销 520,517,408.00 18.92%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "硝化棉系列产品",
+      "metric_type": "capacity",
+      "value": "30000吨",
+      "period": "报告期",
+      "quote": "主要产品 硝化棉系列产品 设计产能 30000吨"
+    },
+    {
+      "product": "硝化棉系列产品",
+      "metric_type": "capacity_utilization",
+      "value": "90.00%",
+      "period": "报告期",
+      "quote": "主要产品 硝化棉系列产品 产能利用率 90.00%"
+    },
+    {
+      "product": "催化剂",
+      "metric_type": "capacity",
+      "value": "3000吨",
+      "period": "报告期",
+      "quote": "主要产品 催化剂 设计产能 3000吨"
+    },
+    {
+      "product": "催化剂",
+      "metric_type": "capacity_utilization",
+      "value": "70.00%",
+      "period": "报告期",
+      "quote": "主要产品 催化剂 产能利用率 70.00%"
+    },
+    {
+      "product": "防毒面具",
+      "metric_type": "capacity",
+      "value": "50万具",
+      "period": "报告期",
+      "quote": "主要产品 防毒面具 设计产能 50万具"
+    },
+    {
+      "product": "防毒面具",
+      "metric_type": "capacity_utilization",
+      "value": "35.00%",
+      "period": "报告期",
+      "quote": "主要产品 防毒面具 产能利用率 35.00%"
+    },
+    {
+      "product": "硝化棉相关产品",
+      "metric_type": "production_volume",
+      "value": "46,310.00吨",
+      "period": "2025年",
+      "quote": "化学原料及化学制品制造业（硝化棉相关产品） 生产量 吨 46,310"
+    },
+    {
+      "product": "硝化棉相关产品",
+      "metric_type": "sales_volume",
+      "value": "45,708.00吨",
+      "period": "2025年",
+      "quote": "化学原料及化学制品制造业（硝化棉相关产品） 销售量 吨 45,708"
+    },
+    {
+      "product": "硝化棉相关产品",
+      "metric_type": "inventory_volume",
+      "value": "2,662.00吨",
+      "period": "2025年末",
+      "quote": "化学原料及化学制品制造业（硝化棉相关产品） 库存量 吨 2,662"
+    },
+    {
+      "product": "工业泵",
+      "metric_type": "production_volume",
+      "value": "8,385.00台",
+      "period": "2025年",
+      "quote": "专用设备制造业（泵） 生产量 台 8,385"
+    },
+    {
+      "product": "工业泵",
+      "metric_type": "sales_volume",
+      "value": "8,771.00台",
+      "period": "2025年",
+      "quote": "专用设备制造业（泵） 销售量 台 8,771"
+    },
+    {
+      "product": "工业泵",
+      "metric_type": "inventory_volume",
+      "value": "590.00台",
+      "period": "2025年末",
+      "quote": "专用设备制造业（泵） 库存量 台 590"
+    },
+    {
+      "product": "防护器材",
+      "metric_type": "production_volume",
+      "value": "2,626,143.00套（件）",
+      "period": "2025年",
+      "quote": "其他专用化学产品制造防护器材 生产量 套（件） 2,626,143"
+    },
+    {
+      "product": "防护器材",
+      "metric_type": "sales_volume",
+      "value": "2,212,582.00套（件）",
+      "period": "2025年",
+      "quote": "其他专用化学产品制造防护器材 销售量 套（件） 2,212,582"
+    },
+    {
+      "product": "防护器材",
+      "metric_type": "inventory_volume",
+      "value": "334,028.00套（件）",
+      "period": "2025年末",
+      "quote": "其他专用化学产品制造防护器材 库存量 套（件） 334,028"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "防毒面具生产线技术改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "21,800万元",
+      "designed_capacity": "年产50万套防毒面具",
+      "progress": "2024年9月29日已完成全部建设内容，并投入使用。",
+      "expected_completion_time": null,
+      "quote": "防毒面具生产线技术改造项目 募集资金投资 21,800 万元 形成年产50万套防毒面具生产能力。"
+    },
+    {
+      "name": "3万吨活性炭改扩建项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "23,000万元",
+      "designed_capacity": null,
+      "progress": "已终止。",
+      "expected_completion_time": null,
+      "quote": "3万吨活性炭改扩建项目：募集资金到位后，项目资源地实施环境发生了一些不利于募投项目实施的变化...公司2022年4月23日第五届董事会第二次会议和第五届监事会第二次会议审议通过了《关于部分募投项目终止的议案》。"
+    },
+    {
+      "name": "硝化棉生产线及安全储运建设项目",
+      "project_type": "capacity_expansion",
+      "location": "南充市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已取得环境影响评价批复文件。",
+      "expected_completion_time": null,
+      "quote": "公司投资建设硝化棉生产线及安全储运建设项目顺利通过南充市生态环境局审查，正式取得环境影响评价批复文件（南市环审[2025]85号、86号）。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "硝化棉生产技术工艺",
+      "asset_type": "core_technology",
+      "related_product": "硝化棉",
+      "quantitative_info": "国内一流、国际领先",
+      "quote": "主要产品 生产技术所处的阶段 核心技术人员情况 专利技术 产品研发优势 硝化棉 生产技术工艺成熟 均为本公司在职员工 国内一流、国际领先"
+    },
+    {
+      "name": "硝化棉专利",
+      "asset_type": "patent",
+      "related_product": "硝化棉",
+      "quantitative_info": "截止至报告期末，累计获得授权且有效发明专利23个，累计获得授权实用新型57个",
+      "quote": "截止至报告期末，累计获得授权且有效发明专利23个，累计获得授权实用新型57个"
+    },
+    {
+      "name": "活性炭专利",
+      "asset_type": "patent",
+      "related_product": "活性炭",
+      "quantitative_info": "截止至报告期末，累计获得授权且有效发明专利25个，累计获得授权实用新型1个",
+      "quote": "截止至报告期末，累计获得授权且有效发明专利25个，累计获得授权实用新型1个"
+    },
+    {
+      "name": "防毒面具及防护服专利",
+      "asset_type": "patent",
+      "related_product": "防毒面具及防护服",
+      "quantitative_info": "截止至报告期末，累计获得授权且有效发明专利43个，累计获得授权实用新型23个",
+      "quote": "截止至报告期末，累计获得授权且有效发明专利43个，累计获得授权实用新型23个"
+    },
+    {
+      "name": "防化装备研究院专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "拥有专利200余项，发明专利100余项，授权专利40余项",
+      "quote": "主持制定防化装备国标、军标和国家行业标准80项，拥有专利200余项，发明专利100余项，授权专利40余项"
+    },
+    {
+      "name": "防化装备研究院标准制定",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主持制定防化装备国标、军标和国家行业标准80项",
+      "quote": "主持制定防化装备国标、军标和国家行业标准80项"
+    },
+    {
+      "name": "《工业用硝化棉纤维素》国家标准",
+      "asset_type": "standard",
+      "related_product": "硝化棉",
+      "quantitative_info": null,
+      "quote": "牵头编制了《工业用硝化棉纤维素》国家标准"
+    },
+    {
+      "name": "《工业用硝化纤维素生产企业安全管理规范》",
+      "asset_type": "standard",
+      "related_product": "硝化棉",
+      "quantitative_info": null,
+      "quote": "应急管理部《工业用硝化纤维素生产企业安全管理规范》"
+    },
+    {
+      "name": "特种钢材料国家标准",
+      "asset_type": "standard",
+      "related_product": "特种工业泵",
+      "quantitative_info": null,
+      "quote": "参与制定特种钢材料国家标准"
+    },
+    {
+      "name": "国家企业技术中心（防化装备研究院）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已被认定为国家高新技术企业，国家企业技术中心"
+    },
+    {
+      "name": "博士后科研工作站（防化装备研究院）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有国家防毒面具和集体防护器材动员中心、国防科技工业防化一级计量站、“国家级企业技术中心”“博士后科研工作站”。"
+    },
+    {
+      "name": "国家级专精特新重点“小巨人”企业（泵业公司）",
+      "asset_type": "certification",
+      "related_product": "特种工业泵",
+      "quantitative_info": null,
+      "quote": "泵业公司作为第三批国家级专精特新重点“小巨人”企业"
+    },
+    {
+      "name": "国家制造业单项冠军企业（泵业公司）",
+      "asset_type": "certification",
+      "related_product": "特种工业泵",
+      "quantitative_info": null,
+      "quote": "国家制造业单项冠军企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "46.90%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 46.90%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "31.78%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "客户1 874,081,284.14 31.78%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.18%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 22.18%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "12.58%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "供应商1 263,776,947.00 12.58%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "受全球不稳定因素增多、地缘格局多变、市场分化发展趋势增强等影响，硝化棉需求呈增长态势。",
+      "related_entity": null,
+      "related_product": "硝化棉",
+      "quote": "受全球不稳定因素增多、地缘格局多变、市场分化发展趋势增强等影响，硝化棉需求呈增长态势。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受原材料价格上涨与人工成本上升双重压力影响，国内活性炭出口的成本优势逐步弱化。",
+      "related_entity": null,
+      "related_product": "活性炭",
+      "quote": "受原材料价格上涨与人工成本上升双重压力影响，国内活性炭出口的成本优势逐步弱化"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "地缘政治、国际贸易、关税政策升级等因素加剧了市场波动和供应链成本变化，将对公司出口业务带来一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "地缘政治、国际贸易、关税政策升级等因素加剧了市场波动和供应链成本变化，将对公司出口业务带来一定影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "美元汇率变动，汇兑损益变动较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "美元汇率变动，汇兑损益变动较大"
+    }
+  ]
+}

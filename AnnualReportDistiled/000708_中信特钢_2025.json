@@ -1,0 +1,531 @@
+{
+  "company_name_mentioned": "中信泰富特钢集团股份有限公司",
+  "produces": [
+    {
+      "name": "特殊钢棒材",
+      "type": "device",
+      "revenue_proportion": "40.61%",
+      "quote": "分产品：特殊钢棒材 43,609,663,144.61 40.61%"
+    },
+    {
+      "name": "特殊钢线材",
+      "type": "device",
+      "revenue_proportion": "13.33%",
+      "quote": "分产品：特殊钢线材 14,309,345,118.71 13.33%"
+    },
+    {
+      "name": "特种钢板",
+      "type": "device",
+      "revenue_proportion": "9.90%",
+      "quote": "分产品：特种钢板 10,632,139,418.30 9.90%"
+    },
+    {
+      "name": "特种无缝钢管",
+      "type": "device",
+      "revenue_proportion": "26.67%",
+      "quote": "分产品：特种无缝钢管 28,635,600,879.53 26.67%"
+    },
+    {
+      "name": "延伸加工产品（如钢板弹簧、导向臂）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "延伸加工产品 钢板弹簧、导向臂 汽车行业、轨道交通"
+    },
+    {
+      "name": "球团产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "球团产品销售量 万吨 515.56 514.82 0.14%"
+    },
+    {
+      "name": "焦炭产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "焦炭产品销售量 万吨 39.44 61.43 -35.80%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（矿石、矿料等）",
+      "target_product": "特殊钢材料",
+      "cost_proportion": "69.49%",
+      "quote": "原材料 63,474,069,660.01 69.49%"
+    },
+    {
+      "name": "矿料",
+      "target_product": "特殊钢材料",
+      "cost_proportion": null,
+      "quote": "第一名供应商 7,108,297,224.80 7.78%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车制造",
+      "source_product": "特殊钢棒材、特殊钢线材、特种无缝钢管",
+      "quote": "汽车行业 26.3%"
+    },
+    {
+      "name": "能源行业",
+      "source_product": "特殊钢棒材、特殊钢线材、特种板材",
+      "quote": "能源行业 33.7%"
+    },
+    {
+      "name": "轴承行业",
+      "source_product": "特殊钢棒材、特殊钢线材",
+      "quote": "轴承行业 10.6%"
+    },
+    {
+      "name": "机械设备",
+      "source_product": "特殊钢棒材、特种板材",
+      "quote": "机械设备 20.4%"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "特殊钢棒材、特殊钢线材",
+      "quote": "汽车制造、轨道交通、工程机械、电力能源、石油化工、海洋船舶等"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "特殊钢材料",
+      "quote": "公司生产的航空发动机轴承用钢进入欧美航空发动机制造商供应链"
+    },
+    {
+      "name": "海洋工程",
+      "source_product": "特殊钢棒材、特种板材",
+      "quote": "海洋系泊链钢、矿用链条钢"
+    },
+    {
+      "name": "风电",
+      "source_product": "特殊钢棒材、特种板材",
+      "quote": "风电用钢"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "钱刚",
+      "role": "董事长",
+      "quote": "公司负责人钱刚"
+    },
+    {
+      "name": "罗元东",
+      "role": "总裁",
+      "quote": "罗元东先生...被聘任为公司总裁"
+    },
+    {
+      "name": "倪幼美",
+      "role": "总会计师",
+      "quote": "主管会计工作负责人倪幼美"
+    },
+    {
+      "name": "王海勇",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 王海勇"
+    },
+    {
+      "name": "谢文新",
+      "role": "副总裁",
+      "quote": "谢文新先生...现任公司副总裁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中信泰富特钢投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "中信泰富特钢投资有限公司持有公司 75.05%的股权，成为公司控股股东"
+    },
+    {
+      "name": "中国中信集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "泰富投资、新冶钢、泰富中投的实际控制人均为中国中信集团有限公司"
+    },
+    {
+      "name": "中国中信股份有限公司",
+      "relation_type": "investor",
+      "business_details": "同受实际控制人控制",
+      "quote": "中信股份"
+    },
+    {
+      "name": "中信泰富有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东的关联方",
+      "quote": "中信泰富"
+    },
+    {
+      "name": "江阴兴澄特种钢铁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产基地",
+      "quote": "兴澄特钢"
+    },
+    {
+      "name": "大冶特殊钢有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产基地",
+      "quote": "大冶特钢"
+    },
+    {
+      "name": "青岛特殊钢铁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产基地",
+      "quote": "青岛特钢"
+    },
+    {
+      "name": "天津钢管制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产基地",
+      "quote": "天津钢管"
+    },
+    {
+      "name": "靖江特殊钢有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产基地",
+      "quote": "靖江特钢"
+    },
+    {
+      "name": "斯坦科全球控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全球钢铁贸易平台",
+      "quote": "全资控股全球三大独立钢铁贸易商之一的斯坦科全球控股有限公司"
+    },
+    {
+      "name": "南钢集团及其子公司",
+      "relation_type": "competitor",
+      "business_details": "存在同业竞争关系",
+      "quote": "中信泰富控制的企业与上市公司及其子公司在特殊钢棒材和特殊钢板材等方面存在一定的竞争关系"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "特钢行业",
+      "segment_type": "other",
+      "revenue_amount": "107,373,484,700.24",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "14.94%",
+      "yoy_change": "-1.68%",
+      "quote": "特钢行业 107,373,484,700.24 100.00% -1.68% 109,202,941,453.90 100.00% 14.94%"
+    },
+    {
+      "name": "特殊钢棒材",
+      "segment_type": "product_line",
+      "revenue_amount": "43,609,663,144.61",
+      "revenue_proportion": "40.61%",
+      "gross_margin": "16.94%",
+      "yoy_change": "1.35%",
+      "quote": "特殊钢棒材 43,609,663,144.61 40.61% 43,027,099,545.06 39.40% 1.35% 36,224,150,921.99 16.94%"
+    },
+    {
+      "name": "特殊钢线材",
+      "segment_type": "product_line",
+      "revenue_amount": "14,309,345,118.71",
+      "revenue_proportion": "13.33%",
+      "gross_margin": "12.11%",
+      "yoy_change": "-5.12%",
+      "quote": "特殊钢线材 14,309,345,118.71 13.33% 15,081,515,917.89 13.81% -5.12% 12,576,172,856.86 12.11%"
+    },
+    {
+      "name": "特种钢板",
+      "segment_type": "product_line",
+      "revenue_amount": "10,632,139,418.30",
+      "revenue_proportion": "9.90%",
+      "gross_margin": "14.36%",
+      "yoy_change": "-7.21%",
+      "quote": "特种钢板 10,632,139,418.30 9.90% 11,458,755,229.23 10.49% -7.21% 9,104,915,611.85 14.36%"
+    },
+    {
+      "name": "特种无缝钢管",
+      "segment_type": "product_line",
+      "revenue_amount": "28,635,600,879.53",
+      "revenue_proportion": "26.67%",
+      "gross_margin": "16.62%",
+      "yoy_change": "5.70%",
+      "quote": "特种无缝钢管 28,635,600,879.53 26.67% 27,091,469,764.47 24.81% 5.70% 23,876,255,081.83 16.62%"
+    },
+    {
+      "name": "中国大陆",
+      "segment_type": "region",
+      "revenue_amount": "93,542,700,168.69",
+      "revenue_proportion": "87.12%",
+      "gross_margin": "13.86%",
+      "yoy_change": "-1.83%",
+      "quote": "中国大陆 93,542,700,168.69 87.12% 95,285,563,803.10 87.26% -1.83% 80,576,066,542.13 13.86%"
+    },
+    {
+      "name": "其他地区（出口）",
+      "segment_type": "region",
+      "revenue_amount": "13,830,784,531.55",
+      "revenue_proportion": "12.88%",
+      "gross_margin": "22.20%",
+      "yoy_change": "-0.62%",
+      "quote": "其他地区 13,830,784,531.55 12.88% 13,917,377,650.80 12.74% -0.62% 10,760,923,120.40 22.20%"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "107,373,484,700.24",
+      "revenue_proportion": "100%",
+      "gross_margin": "14.94%",
+      "yoy_change": "-1.68%",
+      "quote": "直销模式 107,373,484,700.24 100% 109,202,941,453.90 100.00% -1.68% 91,336,989,662.53 14.94%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "钢材（特殊钢材料）",
+      "metric_type": "capacity",
+      "value": "年产约2000万吨",
+      "period": null,
+      "quote": "具备年产约2000万吨特殊钢材料的生产能力"
+    },
+    {
+      "product": "钢材（特殊钢材料）",
+      "metric_type": "sales_volume",
+      "value": "1953.82 万吨",
+      "period": "2025年",
+      "quote": "全年实现钢材销量 1953.82 万吨"
+    },
+    {
+      "product": "钢材（特殊钢材料）",
+      "metric_type": "sales_volume",
+      "value": "230.29 万吨",
+      "period": "2025年",
+      "quote": "其中出口 230.29 万吨"
+    },
+    {
+      "product": "钢产品",
+      "metric_type": "production_volume",
+      "value": "2,064.85 万吨",
+      "period": "2025年",
+      "quote": "钢产品生产量 万吨 2,064.85 2,016.22 2.41%"
+    },
+    {
+      "product": "钢产品",
+      "metric_type": "inventory_volume",
+      "value": "206.58 万吨",
+      "period": "2025年末",
+      "quote": "钢产品库存量 万吨 206.58 204.30 1.12%"
+    },
+    {
+      "product": "球团产品",
+      "metric_type": "sales_volume",
+      "value": "515.56 万吨",
+      "period": "2025年",
+      "quote": "球团产品销售量 万吨 515.56 514.82 0.14%"
+    },
+    {
+      "product": "球团产品",
+      "metric_type": "production_volume",
+      "value": "721.66 万吨",
+      "period": "2025年",
+      "quote": "球团产品生产量 万吨 721.66 721.07 0.08%"
+    },
+    {
+      "product": "焦炭产品",
+      "metric_type": "sales_volume",
+      "value": "39.44 万吨",
+      "period": "2025年",
+      "quote": "焦炭产品销售量 万吨 39.44 61.43 -35.80%"
+    },
+    {
+      "product": "焦炭产品",
+      "metric_type": "production_volume",
+      "value": "570.52 万吨",
+      "period": "2025年",
+      "quote": "焦炭产品生产量 万吨 570.52 525.17 8.64%"
+    },
+    {
+      "product": "特钢行业",
+      "metric_type": "other",
+      "value": "68个“小巨人”项目销量781万吨",
+      "period": "2025年",
+      "quote": "公司68个“小巨人”项目实现销量781万吨，同比增长6%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "大冶特殊钢有限公司特冶锻造产品升级改造项目(二期)",
+      "project_type": "capacity_expansion",
+      "location": "湖北黄石",
+      "investment_amount": "60,000.00万元",
+      "designed_capacity": null,
+      "progress": "已完工，投资进度85.15%",
+      "expected_completion_time": "2024年6月",
+      "quote": "大冶特殊钢有限公司特冶锻造产品升级改造项目(二期) ... 60,000.00 ... 2024年6月"
+    },
+    {
+      "name": "大冶特殊钢有限公司特冶锻造产品升级改造项目(三期)",
+      "project_type": "capacity_expansion",
+      "location": "湖北黄石",
+      "investment_amount": "114,462.80万元",
+      "designed_capacity": null,
+      "progress": "在建，投资进度33.34%",
+      "expected_completion_time": "2027年5月",
+      "quote": "大冶特殊钢有限公司特冶锻造产品升级改造(三期)项目 ... 114,462.80 ... 2027年5月"
+    },
+    {
+      "name": "收购富景特有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司子公司同广州空港产业投资集团有限公司签署《产权交易合同》，收购其持有的富景特有限公司 100%股权"
+    },
+    {
+      "name": "欧洲研发中心",
+      "project_type": "r_and_d_project",
+      "location": "欧洲",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已成立",
+      "expected_completion_time": null,
+      "quote": "成立欧洲研发中心，以此开展前沿喷射材料研发攻关"
+    },
+    {
+      "name": "在建工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "1,708,736,076.82元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "在建工程 1,708,736,076.82"
+    },
+    {
+      "name": "可转债募投项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "500,000.00万元（募集总额）",
+      "designed_capacity": null,
+      "progress": "累计使用83.35%",
+      "expected_completion_time": null,
+      "quote": "募集资金总额 500,000 ... 已累计使用募集资金总额 415,061.11 ... 使用比例 83.35%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": "特殊钢材料",
+      "quantitative_info": "获得授权专利499件",
+      "quote": "获得授权专利499件"
+    },
+    {
+      "name": "国家/行业标准",
+      "asset_type": "standard",
+      "related_product": "特殊钢材料",
+      "quantitative_info": "发布国家/行业标准33项",
+      "quote": "发布国家/行业标准33项"
+    },
+    {
+      "name": "全球特钢行业首家灯塔工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建成了全球特钢行业首家灯塔工厂"
+    },
+    {
+      "name": "国家级单项冠军产品",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "新增1项",
+      "quote": "新增 1 项国家级单项冠军产品"
+    },
+    {
+      "name": "ASTM特殊贡献奖",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司获 ASTM（美国材料与试验协会）特殊贡献奖（全球仅两家企业获此殊荣）"
+    },
+    {
+      "name": "特钢大模型平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建成了“1+1+N”垂模技术架构的特钢大模型平台"
+    },
+    {
+      "name": "3000多个品种、5000多个规格的特殊钢材料",
+      "asset_type": "process_technology",
+      "related_product": "特殊钢材料",
+      "quantitative_info": "3000多个品种、5000多个规格",
+      "quote": "公司可生产 3000 多个品种、5000 多个规格的特殊钢材料"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "7.73%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 7.73%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "14.61%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 14.61%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "7.78%",
+      "related_entity": "第一名供应商",
+      "period": "2025年",
+      "quote": "第一名供应商 7,108,297,224.80 7.78%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五大供应商采购额中关联方采购额占年度采购总额比例 7.78%",
+      "related_entity": "中国中信集团有限公司（关联方）",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 7.78%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "部分普钢企业加速向优特钢领域延伸，导致我国优特钢产能结构性饱和，一般用途品种领域产品同质化竞争激烈，价格战风险犹存。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险：在行业转型压力下，部分普钢企业加速向优特钢领域延伸，导致我国优特钢产能结构性饱和。特别是在一般用途品种领域，产品同质化竞争激烈，价格战风险犹存。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "“双碳”战略推进背景下，钢铁产业降碳减排压力持续加大，环保监管力度不断强化、标准持续提高，特钢行业面临的环保约束进一步趋紧，环保合规成本持续增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环境风险：“双碳”战略推进背景下，中国钢铁产业降碳减排压力持续加大，国家及地方对钢铁企业的环保监管力度不断强化、监管标准持续提高...特钢行业面临的环保约束进一步趋紧，环保合规成本持续增加。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "能耗双控政策对高耗能制造业能耗管控的影响有待进一步观察。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "政策风险：能耗双控政策作为我国供给侧结构性改革的主要抓手之一，对特钢行业有一定影响...这对于黑色金属冶炼类高耗能制造业能耗管控的影响还有待进一步观察。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "全球地缘政治冲突持续，国际贸易环境复杂严峻，面临美国加征关税、欧盟碳关税落地、多国贸易救济调查等贸易壁垒。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "外贸出口风险：国际层面，地缘冲突持续发酵、全球通胀压力未完全缓解、国际贸易壁垒政治化等不利因素，将持续影响全球制造业需求...尽管面临美国加征关税至 70%、欧盟碳关税落地、多国发起贸易救济调查等贸易壁垒..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "全球大宗原料市场延续结构性分化的复杂态势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原料成本下移。2025 年，全球大宗原料市场延续了结构性分化的复杂态势..."
+    },
+    {
+      "risk_type": "other",
+      "description": "全球经济增长缓慢，增长动力减弱且区域分化明显，国际规则主导权争夺加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经济波动风险：全球经济增长缓慢已成为新常态，增长动力减弱且区域分化明显，复苏进程曲折缓慢；新一轮科技革命和产业变革加速演进，高端领域竞争日趋白热化；国际规则主导权争夺加剧，大国博弈进一步增加了产业发展的不确定性。"
+    }
+  ]
+}

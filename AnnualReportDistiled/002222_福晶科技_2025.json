@@ -1,0 +1,455 @@
+{
+  "company_name_mentioned": "福建福晶科技股份有限公司",
+  "produces": [
+    {
+      "name": "晶体元器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司主要从事晶体元器件、精密光学元件和激光器件等产品的研发、生产和销售。"
+    },
+    {
+      "name": "非线性光学晶体元器件",
+      "type": "component",
+      "revenue_proportion": "23.04%",
+      "quote": "分产品 非线性光学晶体元器件 266,694,476.09 23.04%"
+    },
+    {
+      "name": "激光晶体元器件",
+      "type": "component",
+      "revenue_proportion": "17.44%",
+      "quote": "激光晶体元器件 201,940,053.30 17.44%"
+    },
+    {
+      "name": "精密光学元件",
+      "type": "component",
+      "revenue_proportion": "39.30%",
+      "quote": "精密光学元件 455,010,842.87 39.30%"
+    },
+    {
+      "name": "激光器件",
+      "type": "device",
+      "revenue_proportion": "17.62%",
+      "quote": "激光器件 204,049,763.25 17.62%"
+    },
+    {
+      "name": "其他",
+      "type": "service",
+      "revenue_proportion": "2.60%",
+      "quote": "其他 30,083,181.11 2.60%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料及辅料",
+      "target_product": "晶体元器件、精密光学元件、激光器件",
+      "cost_proportion": null,
+      "quote": "采购部门依据该需求制定科学采购计划，通过比价、招标等规范方式从合格供应商处采购原材料及辅料，所有外购品经品检部门严格检验合格后，方可办理入库手续。"
+    },
+    {
+      "name": "主要原材料",
+      "target_product": null,
+      "cost_proportion": "27.65%",
+      "quote": "原材料 156,301,954.95 27.65%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "固体激光器",
+      "source_product": "晶体元器件",
+      "quote": "公司生产的晶体元器件...主要应用于固体激光器、光纤激光器等各类激光器的研发与制造。"
+    },
+    {
+      "name": "光纤激光器",
+      "source_product": "晶体元器件",
+      "quote": "公司生产的晶体元器件...主要应用于固体激光器、光纤激光器等各类激光器的研发与制造。"
+    },
+    {
+      "name": "光通信波分复用器",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...光通信波分复用器..."
+    },
+    {
+      "name": "AR",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...AR..."
+    },
+    {
+      "name": "激光雷达",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...激光雷达..."
+    },
+    {
+      "name": "半导体设备",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...半导体设备..."
+    },
+    {
+      "name": "光学检测设备",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...光学检测设备..."
+    },
+    {
+      "name": "工业测量",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...工业测量..."
+    },
+    {
+      "name": "生命科学",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...生命科学..."
+    },
+    {
+      "name": "精密仪器",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...精密仪器..."
+    },
+    {
+      "name": "智能装备",
+      "source_product": "精密光学元件",
+      "quote": "精密光学元件...广泛应用于...智能装备..."
+    },
+    {
+      "name": "固体激光器",
+      "source_product": "激光器件",
+      "quote": "激光器件...主要应用于固体激光器、光纤激光器、激光设备、光纤传感、前沿科学研究等领域。"
+    },
+    {
+      "name": "光纤激光器",
+      "source_product": "激光器件",
+      "quote": "激光器件...主要应用于固体激光器、光纤激光器、激光设备、光纤传感、前沿科学研究等领域。"
+    },
+    {
+      "name": "激光设备",
+      "source_product": "激光器件",
+      "quote": "激光器件...主要应用于固体激光器、光纤激光器、激光设备、光纤传感、前沿科学研究等领域。"
+    },
+    {
+      "name": "光纤传感",
+      "source_product": "激光器件",
+      "quote": "激光器件...主要应用于固体激光器、光纤激光器、激光设备、光纤传感、前沿科学研究等领域。"
+    },
+    {
+      "name": "前沿科学研究",
+      "source_product": "激光器件",
+      "quote": "激光器件...主要应用于固体激光器、光纤激光器、激光设备、光纤传感、前沿科学研究等领域。"
+    },
+    {
+      "name": "全固态纳秒紫外激光器",
+      "source_product": "晶体元器件、激光器件",
+      "quote": "公司是全球全固态纳秒紫外激光器主流元器件方案提供商，其高性能Nd:YVO4和LBO晶体是全固态纳秒紫外激光器的核心所在。"
+    },
+    {
+      "name": "超快激光器",
+      "source_product": "晶体元器件、精密光学元件、激光器件",
+      "quote": "公司面向固体飞秒激光领域，推出“一站式”飞秒超快激光解决方案，构建了“晶体+精密光学+激光器件”的协同合作模式。"
+    },
+    {
+      "name": "脉冲光纤激光器",
+      "source_product": "激光器件",
+      "quote": "公司为脉冲光纤激光器设计各类光纤耦合AOM和配套射频驱动，以及在线型和扩束型光隔离器。"
+    },
+    {
+      "name": "高精度激光微加工",
+      "source_product": "精密光学元件、激光器件",
+      "quote": "公司面向高精度激光微加工应用，提供由声光偏转器（AOD）、衍射光学元件（DOE）、扩束镜和F-theta场镜构成的协同解决方案。"
+    },
+    {
+      "name": "环境检测",
+      "source_product": "晶体元器件、精密光学元件",
+      "quote": "在环境检测领域...如：通过声光移频器对频率的精准调制，相干测风激光雷达可提供更为精确可靠的风场数据..."
+    },
+    {
+      "name": "光通信（WSS模块等）",
+      "source_product": "精密光学元件",
+      "quote": "公司围绕光通信，尤其是WSS模块及其配套测试设备、光器件、光模块，提供涵盖各类衍射光栅、双折射晶片、球面镜、柱面镜、波片、反射镜、法拉第旋光片等一系列关键精密光学元件。"
+    },
+    {
+      "name": "精密光学测量仪器",
+      "source_product": null,
+      "quote": "公司依托丰富的检测数据积累和测量技术研发，成功开发了一系列面向科研和工业应用的精密光学测量仪器。"
+    },
+    {
+      "name": "高端光学装备制造",
+      "source_product": "精密光学元件",
+      "quote": "超精密光学元器件作为各类高端光电设备的核心部件...公司积极布局超精密光学解决方案..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈辉",
+      "role": "董事长",
+      "quote": "公司负责人陈辉"
+    },
+    {
+      "name": "陈秋华",
+      "role": "副董事长、总经理",
+      "quote": "陈秋华，男，1968年5月出生...2021年5月起任本公司副董事长、总经理。"
+    },
+    {
+      "name": "蔡德全",
+      "role": "董事、副总经理",
+      "quote": "蔡德全，男，1967年2月出生...2021年5月起任本公司董事、副总经理。"
+    },
+    {
+      "name": "郭宗慧",
+      "role": "财务总监",
+      "quote": "郭宗慧，男，1971年10月出生...2011年6月起任本公司财务总监。"
+    },
+    {
+      "name": "廖洪平",
+      "role": "副总经理",
+      "quote": "廖洪平，男，1973年9月出生...2020年4月起任本公司副总经理。"
+    },
+    {
+      "name": "薛汉锋",
+      "role": "董事会秘书",
+      "quote": "薛汉锋，男，1979年11月出生...2021年5月起任本公司董事会秘书兼证券事务代表。"
+    },
+    {
+      "name": "孙敏",
+      "role": "独立董事",
+      "quote": "孙敏，女...2024年5月起任本公司独立董事。"
+    },
+    {
+      "name": "陈嘉",
+      "role": "独立董事",
+      "quote": "陈嘉，女...2021年5月起任本公司独立董事。"
+    },
+    {
+      "name": "朱霖",
+      "role": "独立董事",
+      "quote": "朱霖，女...2021年5月起任本公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国科学院福建物质结构研究所",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东、实际控制人",
+      "quote": "物构所 指 中国科学院福建物质结构研究所，本公司之控股股东、实际控制人"
+    },
+    {
+      "name": "青岛海泰光电技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "海泰光电 指 青岛海泰光电技术有限公司，本公司之控股子公司"
+    },
+    {
+      "name": "福建至期光子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "至期光子 指 福建至期光子科技有限公司，本公司之控股子公司"
+    },
+    {
+      "name": "福建睿创光电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "睿创光电 指 福建睿创光电科技有限公司，本公司之控股子公司"
+    },
+    {
+      "name": "深圳远致富海新兴产业投资企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "本公司参与投资的合伙企业",
+      "quote": "远致富海 指 深圳远致富海新兴产业投资企业（有限合伙），本公司参与投资的合伙企业"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光电子行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,157,778,316.62元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "51.18%",
+      "yoy_change": "32.21%",
+      "quote": "分行业 光电子行业 1,157,778,316.62 100.00%"
+    },
+    {
+      "name": "非线性光学晶体元器件",
+      "segment_type": "product_line",
+      "revenue_amount": "266,694,476.09元",
+      "revenue_proportion": "23.04%",
+      "gross_margin": "74.03%",
+      "yoy_change": "13.68%",
+      "quote": "非线性光学晶体元器件 266,694,476.09 23.04%"
+    },
+    {
+      "name": "激光晶体元器件",
+      "segment_type": "product_line",
+      "revenue_amount": "201,940,053.30元",
+      "revenue_proportion": "17.44%",
+      "gross_margin": "61.26%",
+      "yoy_change": "33.89%",
+      "quote": "激光晶体元器件 201,940,053.30 17.44%"
+    },
+    {
+      "name": "精密光学元件",
+      "segment_type": "product_line",
+      "revenue_amount": "455,010,842.87元",
+      "revenue_proportion": "39.30%",
+      "gross_margin": "45.33%",
+      "yoy_change": "46.14%",
+      "quote": "精密光学元件 455,010,842.87 39.30%"
+    },
+    {
+      "name": "激光器件",
+      "segment_type": "product_line",
+      "revenue_amount": "204,049,763.25元",
+      "revenue_proportion": "17.62%",
+      "gross_margin": "28.36%",
+      "yoy_change": "23.76%",
+      "quote": "激光器件 204,049,763.25 17.62%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "30,083,181.11元",
+      "revenue_proportion": "2.60%",
+      "gross_margin": "24.31%",
+      "yoy_change": "114.06%",
+      "quote": "其他 30,083,181.11 2.60%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "757,635,545.67元",
+      "revenue_proportion": "65.44%",
+      "gross_margin": "46.23%",
+      "yoy_change": "41.53%",
+      "quote": "国内 757,635,545.67 65.44%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "400,142,770.95元",
+      "revenue_proportion": "34.56%",
+      "gross_margin": "60.55%",
+      "yoy_change": "17.55%",
+      "quote": "国外 400,142,770.95 34.56%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "3,950,397.00",
+      "period": "2025",
+      "quote": "销售量 片/个 3,950,397.00"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "3,542,659.80",
+      "period": "2025",
+      "quote": "生产量 片/个 3,542,659.80"
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "1,508,233.00",
+      "period": "2025",
+      "quote": "库存量 片/个 1,508,233.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "二期D楼工程项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "推进产能建设，夯实发展基础 稳步推进二期D楼工程项目建设，严格把控施工进度、工程质量与安全管理..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内，公司本部新增申请专利41项（其中发明专利25项、实用新型专利16项）；全年获得专利授权27项（发明专利4项、实用新型专利21项、外观设计专利2项）",
+      "quote": "报告期内，公司本部新增申请计算机软件著作权3项、专利41项（其中发明专利25项、实用新型专利16项）；全年获得计算机软件著作权授权3项、专利授权27项..."
+    },
+    {
+      "name": "《光热透镜法弱吸收率测试仪》团体标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "标准号：T/COEMA220—2025",
+      "quote": "由公司牵头，联合中国科学院福建物质结构研究所、闽都创新实验室、中国工程物理研究院等多家科研院所共同起草的《光热透镜法弱吸收率测试仪》（标准号：T/COEMA220—2025）团体标准，经中国光学光电子行业协会评审通过，于2025年3月5日正式实施。"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建有国家级企业技术中心、博士后科研工作站、省级新型研发机构、福建省激光晶体材料及元器件企业工程技术研究中心等多层次、省部级科技创新平台。"
+    },
+    {
+      "name": "LBO晶体器件",
+      "asset_type": "core_technology",
+      "related_product": "非线性光学晶体",
+      "quantitative_info": "全球市场占有率第一",
+      "quote": "公司核心产品非线性光学晶体和激光晶体处于国际领先地位，是全球规模最大的LBO、BBO和Nd:YVO4晶体器件的生产企业，根据市场调研及主要客户交流反馈分析，相关产品市场占有率全球第一，其中LBO晶体器件于2019年首次获评国家工信部和中国工业经济联合会“制造业单项冠军产品（2019年-2021年）”，并持续保持该项荣誉。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28.27%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 28.27%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "23.72%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 23.72%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "9.62%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一大客户 111,350,685.62 9.62%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "7.01%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一大供应商 19,866,621.91 7.01%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着产业的发展，国内激光及上游元器件行业参与者增多，部分企业以价格竞争抢占份额，下游行业竞争导致价格压力向上游传导，可能引发产品价格下滑、毛利率承压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争加剧风险 随着产业的发展，国内激光及上游元器件行业参与者增多，部分企业以价格竞争抢占份额，下游行业竞争导致价格压力向上游传导，可能引发产品价格下滑、毛利率承压。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "全球政治经济形势复杂多变，国际贸易摩擦、关税政策、技术管制等不确定性增加，可能对海外市场开拓、原材料及设备进口、出口业务稳定性造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、国际环境与贸易政策变化风险 全球政治经济形势复杂多变，国际贸易摩擦、关税政策、技术管制等不确定性增加，可能对海外市场开拓、原材料及设备进口、出口业务稳定性造成不利影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "国内业务账期相对较长，业务规模扩张可能导致应收账款余额上升，若出现客户信用恶化或回款延迟，将增加资金占用与坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、应收账款回收风险 国内业务账期相对较长，业务规模扩张可能导致应收账款余额上升，若出现客户信用恶化或回款延迟，将增加资金占用与坏账风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务主要以美元计价，汇率波动可能影响营业收入、汇兑损益及盈利稳定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、汇率波动风险 公司出口业务主要以美元计价，汇率波动可能影响营业收入、汇兑损益及盈利稳定性。"
+    }
+  ]
+}

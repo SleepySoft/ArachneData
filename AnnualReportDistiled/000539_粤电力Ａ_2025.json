@@ -1,0 +1,144 @@
+{
+  "company_name_mentioned": "广东电力发展股份有限公司",
+  "produces": [
+    {
+      "name": "电力（含火力、可再生能源）",
+      "type": "service",
+      "revenue_proportion": "售电收入 50,555,016,115 98.09%",
+      "quote": "售电收入 50,555,016,115 98.09%"
+    },
+    {
+      "name": "蒸汽",
+      "type": "service",
+      "revenue_proportion": "蒸气收入 561,291,129 1.09%",
+      "quote": "蒸气收入 561,291,129 1.09%"
+    },
+    {
+      "name": "粉煤灰综合利用产品",
+      "type": "material",
+      "revenue_proportion": "粉煤灰综合利用收入 159,397,986 0.31%",
+      "quote": "粉煤灰综合利用收入 159,397,986 0.31%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "火力发电燃料",
+      "cost_proportion": "燃料成本 33,713,314,635 73.75%",
+      "quote": "燃料成本 33,713,314,635 73.75%"
+    },
+    {
+      "name": "天然气",
+      "target_product": "燃气发电燃料",
+      "cost_proportion": null,
+      "quote": "燃料成本在营业成本中占较大比重，煤炭、天然气价格波动对公司经营业绩影响较大。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "电力",
+      "quote": "通过电网公司向用户提供可靠、清洁的能源。"
+    },
+    {
+      "name": "工商业及居民用电",
+      "source_product": "电力",
+      "quote": "为客户提供用户绿电绿证、用户端储能、虚拟电厂、园区多能互补等综合能源服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑云鹏",
+      "role": "董事长",
+      "quote": "公司负责人郑云鹏"
+    },
+    {
+      "name": "刘维",
+      "role": "副总经理、财务负责人、董事会秘书",
+      "quote": "主管会计工作负责人刘维"
+    },
+    {
+      "name": "王沛沛",
+      "role": "常务副总经理",
+      "quote": "现任广东电力发展股份有限公司党委委员、常务副总经理。"
+    },
+    {
+      "name": "郭永雄",
+      "role": "副总经理",
+      "quote": "现任广东电力发展股份有限公司党委委员、副总经理。"
+    },
+    {
+      "name": "梁超",
+      "role": "原副董事长、总经理",
+      "quote": "因工作调整，梁超先生不再担任副董事长、总经理职务。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国南方电网有限责任公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售电力",
+      "quote": "中国南方电网有限责任公司 48,930,311,846 94.93%"
+    },
+    {
+      "name": "广东省能源集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购燃料等；控股股东",
+      "quote": "广东省能源集团有限公司 33,590,222,516 68.45%"
+    },
+    {
+      "name": "广东大鹏液化天然气有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "广东大鹏液化天然气有限公司 1,793,942,428 3.66%"
+    },
+    {
+      "name": "中国能源建设集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "中国能源建设集团有限公司 1,710,387,637 3.49%"
+    },
+    {
+      "name": "广东珠投电力燃料有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "广东珠投电力燃料有限公司 1,362,440,561 2.78%"
+    },
+    {
+      "name": "中国电力建设股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "中国电力建设股份有限公司 942,539,126 1.92%"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售电力",
+      "quote": "国家电网有限公司 1,469,592,517 2.86%"
+    },
+    {
+      "name": "埃克森美孚（惠州）化工有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售电力",
+      "quote": "埃克森美孚（惠州）化工有限公司 236,426,959 0.46%"
+    },
+    {
+      "name": "内蒙古电力(集团)有限责任公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售电力",
+      "quote": "内蒙古电力(集团)有限责任公司 87,290,302 0.17%"
+    },
+    {
+      "name": "广东省风力发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事风力发电",
+      "quote": "广东省风力发电有限公司 主要子公司"
+    },
+    {
+      "name": "广东粤电电力销售有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事售电业务",
+      "quote": "旗下全资的广东粤电电力销售有限公司"
+    }
+  ]
+}

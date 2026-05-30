@@ -1,0 +1,420 @@
+{
+  "company_name_mentioned": "湖南能源集团发展股份有限公司",
+  "produces": [
+    {
+      "name": "电力（水力发电）",
+      "type": "service",
+      "revenue_proportion": "69.52%",
+      "quote": "分行业\n清洁能源 242,736,168.71 69.52% 266,806,640.08 79.22% -9.02%"
+    },
+    {
+      "name": "电力（光伏发电）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主要开展水力发电、光伏发电等清洁能源项目投资、开发、建设及运营管理。"
+    },
+    {
+      "name": "砂石、机制砂",
+      "type": "material",
+      "revenue_proportion": "26.40%",
+      "quote": "分行业\n自然资源 92,164,242.28 26.40% 56,364,675.05 16.74% 63.51%"
+    },
+    {
+      "name": "投资管理",
+      "type": "service",
+      "revenue_proportion": "4.06%",
+      "quote": "分行业\n投资管理 14,172,218.90 4.06% 13,499,007.88 4.01% 4.99%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "河砂、河卵石、机制砂等",
+      "target_product": "砂石、机制砂",
+      "cost_proportion": "62.93%",
+      "quote": "公司前5名供应商资料\n序号 供应商名称 采购额（元） 占年度采购总额比例\n1 沅江荣信建材有限公司 67,040,489.47 62.93%"
+    },
+    {
+      "name": "劳务及服务",
+      "target_product": null,
+      "cost_proportion": "5.31%",
+      "quote": "公司前5名供应商资料\n序号 供应商名称 采购额（元） 占年度采购总额比例\n2 湖南能源集团控制的除湖南发展以外的企业 5,661,160.35 5.31%"
+    },
+    {
+      "name": "运输服务",
+      "target_product": null,
+      "cost_proportion": "4.23%",
+      "quote": "公司前5名供应商资料\n序号 供应商名称 采购额（元） 占年度采购总额比例\n3 湖南晶泰运输有限公司 4,504,653.19 4.23%"
+    },
+    {
+      "name": "建材",
+      "target_product": null,
+      "cost_proportion": "3.27%",
+      "quote": "公司前5名供应商资料\n序号 供应商名称 采购额（元） 占年度采购总额比例\n4 长沙市伟绅建材贸易有限公司 3,484,821.30 3.27%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "湖南电网",
+      "source_product": "电力（水力发电）",
+      "quote": "水力发电所生产的电力全部输入湖南电网"
+    },
+    {
+      "name": "产业园内部企业及湖南电网",
+      "source_product": "电力（光伏发电）",
+      "quote": "光伏发电采用“自发自用、余电上网”的模式，一部分由产业园内企业消纳，剩余部分输入湖南电网。"
+    },
+    {
+      "name": "长江中下游地区建材市场",
+      "source_product": "砂石、机制砂",
+      "quote": "开展河砂、河卵石、碎石等产品在长江中下游地区的销售业务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘志刚",
+      "role": "董事长、总裁",
+      "quote": "公司负责人刘志刚、主管会计工作负责人李志科及会计机构负责人（会计主管人员）郭滨声明"
+    },
+    {
+      "name": "李志科",
+      "role": "主管会计工作负责人（财务总监）",
+      "quote": "主管会计工作负责人李志科"
+    },
+    {
+      "name": "陈锴",
+      "role": "董事会秘书",
+      "quote": "董事会秘书\n姓名 陈锴"
+    },
+    {
+      "name": "曾令胜",
+      "role": "董事",
+      "quote": "基本情况\n...曾令胜 男 37 董事 现任..."
+    },
+    {
+      "name": "谭明璋",
+      "role": "董事",
+      "quote": "基本情况\n...谭明璋 男 62 董事 现任..."
+    },
+    {
+      "name": "李培强",
+      "role": "独立董事",
+      "quote": "基本情况\n...李培强 男 50 独立董事 现任..."
+    },
+    {
+      "name": "丁景东",
+      "role": "独立董事",
+      "quote": "基本情况\n...丁景东 男 56 独立董事 现任..."
+    },
+    {
+      "name": "王剑波",
+      "role": "副总裁",
+      "quote": "基本情况\n...王剑波 男 57 副总裁 现任..."
+    },
+    {
+      "name": "郭滨",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）郭滨"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "湖南能源集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、湖南能源集团 指 湖南能源集团有限公司"
+    },
+    {
+      "name": "湖南鸟儿巢水电站发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "鸟儿巢公司 指 湖南鸟儿巢水电站发电有限公司"
+    },
+    {
+      "name": "湖南芷江蟒塘溪水利水电开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "蟒电公司 指 湖南芷江蟒塘溪水利水电开发有限责任公司"
+    },
+    {
+      "name": "湖南发展益沅自然资源开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "湖南发展益沅 指 湖南发展益沅自然资源开发有限公司"
+    },
+    {
+      "name": "湖南发展琼湖建材经营有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "湖南发展琼湖建材 指 湖南发展琼湖建材经营有限公司"
+    },
+    {
+      "name": "湖南发展空洲岛发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "湖南发展空洲岛公司 指 湖南发展空洲岛发电有限责任公司"
+    },
+    {
+      "name": "湖南发展新能源开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "湖南发展新能源 指 湖南发展新能源开发有限公司"
+    },
+    {
+      "name": "湖南发展小初新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "湖南发展小初新能源 指 湖南发展小初新能源有限公司"
+    },
+    {
+      "name": "湖南能源集团电力投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "拟购买其持有的四家水电公司股权",
+      "quote": "拟以发行股份及支付现金的方式购买电投公司持有的...四家水电资产"
+    },
+    {
+      "name": "国网湖南省电力有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司前5大客户资料\n序号 客户名称 销售额（元） 占年度销售总额比例\n1 国网湖南省电力有限公司 238,687,332.43 68.36%"
+    },
+    {
+      "name": "沅江荣信建材有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料\n序号 供应商名称 采购额（元） 占年度采购总额比例\n1 沅江荣信建材有限公司 67,040,489.47 62.93%"
+    },
+    {
+      "name": "沅江市佳航顺建材有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司前5大客户资料\n序号 客户名称 销售额（元） 占年度销售总额比例\n2 沅江市佳航顺建材有限公司 30,025,988.81 8.60%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "清洁能源",
+      "segment_type": "product_line",
+      "revenue_amount": "242,736,168.71元",
+      "revenue_proportion": "69.52%",
+      "gross_margin": "58.85%",
+      "yoy_change": "-9.02%",
+      "quote": "占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况\n分产品\n清洁能源 242,736,168.71 99,880,380.42 58.85% -9.02% -13.51% 2.13%"
+    },
+    {
+      "name": "自然资源",
+      "segment_type": "product_line",
+      "revenue_amount": "92,164,242.28元",
+      "revenue_proportion": "26.40%",
+      "gross_margin": "-9.19%",
+      "yoy_change": "63.51%",
+      "quote": "占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况\n分产品\n自然资源 92,164,242.28 100,630,781.20 -9.19% 63.51% 62.42% 0.74%"
+    },
+    {
+      "name": "省内",
+      "segment_type": "region",
+      "revenue_amount": "349,165,168.51元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "40.22%",
+      "yoy_change": "3.67%",
+      "quote": "占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况\n分地区\n省内 349,165,168.51 208,717,602.54 40.22% 3.67% 12.42% -4.65%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "84,332,339.57元",
+      "revenue_proportion": "24.15%",
+      "gross_margin": "3.22%",
+      "yoy_change": "68.83%",
+      "quote": "占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况\n分销售模式\n经销 84,332,339.57 81,615,616.17 3.22% 68.83% 74.63% -3.21%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "264,832,828.94元",
+      "revenue_proportion": "75.85%",
+      "gross_margin": "52.01%",
+      "yoy_change": "-7.67%",
+      "quote": "占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况\n分销售模式\n直销 264,832,828.94 127,101,986.37 52.01% -7.67% -8.50% 0.44%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "清洁能源",
+      "metric_type": "capacity",
+      "value": "24.502万千瓦",
+      "period": "2025年末",
+      "quote": "可控总装机容量为24.502万千瓦。"
+    },
+    {
+      "product": "清洁能源",
+      "metric_type": "production_volume",
+      "value": "9.90亿千瓦时",
+      "period": "2025年",
+      "quote": "发电量（亿千瓦时） 9.90"
+    },
+    {
+      "product": "清洁能源",
+      "metric_type": "sales_volume",
+      "value": "9.66亿千瓦时",
+      "period": "2025年",
+      "quote": "上网电量或售电量（亿千瓦时） 9.66"
+    },
+    {
+      "product": "自然资源",
+      "metric_type": "sales_volume",
+      "value": "232.14万吨",
+      "period": "2025年",
+      "quote": "销售河砂、河卵石、机制砂等产品共为232.14万吨"
+    },
+    {
+      "product": "自然资源",
+      "metric_type": "production_volume",
+      "value": "25.82万吨",
+      "period": "2025年",
+      "quote": "生产量 万吨 25.82"
+    },
+    {
+      "product": "自然资源",
+      "metric_type": "inventory_volume",
+      "value": "1.60万吨",
+      "period": "2025年末",
+      "quote": "库存量 万吨 1.60"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "株洲航电（空洲水电站）扩机工程",
+      "project_type": "capacity_expansion",
+      "location": "湖南",
+      "investment_amount": null,
+      "designed_capacity": "1台装机容量为35MW的灯泡贯流式机组",
+      "progress": "已进入厂房主体工程施工阶段",
+      "expected_completion_time": null,
+      "quote": "公司持续深耕能源行业，湖南发展空洲岛公司投资建设株洲航电枢纽(空洲水电站)扩机工程项目，新增1台装机容量为35MW的灯泡贯流式机组。目前项目建设已进入厂房主体工程施工阶段。"
+    },
+    {
+      "name": "衡东县白莲镇茶光互补光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": "湖南衡东县",
+      "investment_amount": "约人民币36,147.41万元",
+      "designed_capacity": "规划直流侧装机容量约103.47MWp，交流侧装机容量约80MW",
+      "progress": "正在开展前期相关工作",
+      "expected_completion_time": null,
+      "quote": "公司投资设立了...湖南发展小初新能源...湖南发展小初新能源投资建设衡东县白莲镇茶光互补光伏项目已经公司董事会审议通过，正在开展前期相关工作。"
+    },
+    {
+      "name": "重大资产重组（购买四家水电资产）",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "发行股份及支付现金",
+      "designed_capacity": null,
+      "progress": "获得中国证券监督管理委员会同意注册批复",
+      "expected_completion_time": null,
+      "quote": "2026年03月，公司本次发行股份及支付现金购买资产并募集配套资金事项获得中国证券监督管理委员会同意注册批复。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“圆锥+立轴+对辊+棒磨”制砂工艺",
+      "asset_type": "process_technology",
+      "related_product": "机制砂",
+      "quantitative_info": null,
+      "quote": "该项目主要采用“圆锥+立轴+对辊+棒磨”制砂工艺，配套先进的自动化控制系统"
+    },
+    {
+      "name": "机组调速器系统转速测控装置研究",
+      "asset_type": "core_technology",
+      "related_product": "水力发电",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称\n机组调速器系统转速测控装置研究"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入金额7,599,037.93元，占营业收入比例2.18%",
+      "quote": "公司研发投入情况\n2025年\n研发投入金额（元） 7,599,037.93\n研发投入占营业收入比例 2.18%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "89.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 89.19%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "68.36%",
+      "related_entity": "国网湖南省电力有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料\n序号 客户名称 销售额（元） 占年度销售总额比例\n1 国网湖南省电力有限公司 238,687,332.43 68.36%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "78.78%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 78.78%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "62.93%",
+      "related_entity": "沅江荣信建材有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料\n序号 供应商名称 采购额（元） 占年度采购总额比例\n1 沅江荣信建材有限公司 67,040,489.47 62.93%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "流域来水风险：水电业务高度依赖自然降水及流域来水量，受气候变化、季节波动及极端天气事件影响较大。来水量的不稳定直接影响发电量、机组利用小时数，进而对经营业绩造成较大影响。",
+      "related_entity": null,
+      "related_product": "水力发电",
+      "quote": "1、水力发电\n（1）流域来水风险：水电业务高度依赖自然降水及流域来水量，受气候变化、季节波动及极端天气事件（如干旱、洪涝）影响较大。来水量的不稳定直接影响发电量、机组利用小时数，进而对经营业绩造成较大影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "行业政策风险：水电行业受国家宏观经济政策、电力体制改革、电价形成机制、财税政策、环保政策等多方面影响。政策变化可能直接影响公司的盈利能力。",
+      "related_entity": null,
+      "related_product": "水力发电",
+      "quote": "1、水力发电\n（2）行业政策风险：水电行业受国家宏观经济政策、电力体制改革、电价形成机制、财税政策、环保政策等多方面影响。政策变化可能直接影响公司的盈利能力。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "安全生产风险：水电项目运行年限增长导致设备老化、性能下降，发电机组、水工设施及电气系统故障风险上升，可能引发人身伤害、电网冲击及非计划停运等事故，存在安全生产风险。",
+      "related_entity": null,
+      "related_product": "水力发电",
+      "quote": "1、水力发电\n（3）安全生产风险：水电项目运行年限增长导致设备老化、性能下降，发电机组、水工设施及电气系统故障风险上升，可能引发人身伤害、电网冲击及非计划停运等事故，存在安全生产风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场化政策变化导致电价不及预期的风险：推动新能源上网电量参与市场交易，直接对营业收入造成影响。",
+      "related_entity": null,
+      "related_product": "光伏发电",
+      "quote": "2、光伏发电\n（1）电力市场化政策变化导致电价不及预期的风险：...光伏项目上网电量需全部进入电力市场，通过市场交易形成上网电价，直接对营业收入造成影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "极端天气所导致的风险：强湿度、强降雨、雷暴、强风、冰雹等恶劣天气可能会损坏光伏发电设备，导致光伏电站无法正常运作，进而对公司生产经营造成不利影响。",
+      "related_entity": null,
+      "related_product": "光伏发电",
+      "quote": "2、光伏发电\n（2）极端天气所导致的风险：强湿度、强降雨、雷暴、强风、冰雹等恶劣天气可能会损坏光伏发电设备，导致光伏电站无法正常运作，进而对公司生产经营造成不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "消纳不及预期的风险：园区如出现入驻企业流失、企业耗能降低等减少园区用电量的情况，项目消纳比例可能降低，进而影响项目投资收益。",
+      "related_entity": null,
+      "related_product": "光伏发电",
+      "quote": "2、光伏发电\n（3）消纳不及预期的风险：园区如出现入驻企业流失、企业耗能降低等减少园区用电量的情况，项目消纳比例可能降低，进而影响项目投资收益。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "砂石业务面临需求风险：房地产开发投资收缩、新开工面积同比下降，直接削弱了对上游砂石等基础建材的采购需求；行业竞争趋于白热化，导致砂石等建材产品价格缺乏有力支撑。",
+      "related_entity": null,
+      "related_product": "砂石",
+      "quote": "3、砂石业务\n...房地产开发投资收缩、新开工面积同比下降，直接削弱了对上游砂石等基础建材的采购需求；...行业竞争趋于白热化，导致砂石等建材产品价格缺乏有力支撑。"
+    }
+  ]
+}

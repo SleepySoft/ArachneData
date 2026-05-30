@@ -1,0 +1,508 @@
+{
+  "company_name_mentioned": "嘉美食品包装（滁州）股份有限公司",
+  "produces": [
+    {
+      "name": "三片罐",
+      "type": "device",
+      "revenue_proportion": "66.32%",
+      "quote": "分产品 三片罐 1,866,755,008.02 66.32% ... 产品类型 产品介绍 产品用途 三片罐 以马口铁为主要材料，由罐身、顶盖、底盖组成的金属包装。 多用于如含乳饮料、植物蛋白饮料等不含气体、高温杀菌工艺的饮料包装。"
+    },
+    {
+      "name": "二片罐",
+      "type": "device",
+      "revenue_proportion": "11.05%",
+      "quote": "分产品 二片罐 311,122,531.39 11.05% ... 二片罐 以钢材或铝材为主要材料的金属包装产品，应用了冲拔工艺，其罐身和罐底一体成形，由罐身和顶盖两部分组成。 主要用于凉茶、碳酸饮料、啤酒等。"
+    },
+    {
+      "name": "无菌纸包装",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要产品包括三片罐、二片罐和无菌纸包装，主要用于含乳饮料和植物蛋白饮料、即饮茶和其他饮料的包装... 无菌纸包 以食品专用纸板作为基料的包装系统，由聚乙烯、纸、铝箔等复合而成的纸质包装。 是一种高技术的食品保存方法，被包装的液体食品在无菌的环境中进行充填和封合的一种包装技术。主要用于纯奶、饮料等。"
+    },
+    {
+      "name": "灌装服务",
+      "type": "service",
+      "revenue_proportion": "13.54%",
+      "quote": "分产品 灌装 381,047,574.26 13.54% ... 灌装服务 灌装生产工艺是指经过前处理、水处理、均质、灌装封口等工序，将预热的或冷的产品灌装入瓶（罐）内，封盖后进行巴氏杀菌或高温杀菌，然后制成产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "马口铁",
+      "target_product": "三片罐等",
+      "cost_proportion": "71.79%",
+      "quote": "公司主要产品包括三片罐...以马口铁为主要材料... 营业成本构成 分行业 主营业务成本 ... 主营成本构成 直接材料 1,719,390,099.17 71.79% ... 释义 马口铁 指 表面镀锡或镀铬、厚度一般在0.14-0.8毫米之间的金属薄片钢板，通常作包装之用"
+    },
+    {
+      "name": "铝材",
+      "target_product": "二片罐",
+      "cost_proportion": null,
+      "quote": "公司主要产品包括...二片罐... 二片罐 以钢材或铝材为主要材料... 公司亦与主要客户约定了马口铁、铝材等主要材料价格波动时产品价格调整的机制"
+    },
+    {
+      "name": "易拉盖",
+      "target_product": "金属饮料罐",
+      "cost_proportion": null,
+      "quote": "公司亦与主要客户约定了马口铁、铝材等主要材料价格波动时产品价格调整的机制，但公司产品价格调整仍存在调整幅度小于原材料价格波动幅度、调整时间滞后等情形，导致公司毛利率存在下降的风险。此外... 释义 易拉盖 指 经冲压和切痕工序制成的铝盖，带有一个易拉环，通常用作盛装啤酒及软饮料的罐的顶盖"
+    },
+    {
+      "name": "涂印铁",
+      "target_product": "金属包装",
+      "cost_proportion": null,
+      "quote": "公司拥有完整的制罐产业链，能够为客户提供产业链各环节的不同产品，如涂印铁、底盖、易拉盖、封底盖空罐、封易拉盖空罐等... 释义 涂印铁 指 经涂覆、印刷制成的马口铁，一般为金属包装的中间产品"
+    }
+  ],
+  "applications": [
+    {
+      "name": "含乳饮料",
+      "source_product": "三片罐",
+      "quote": "公司主要产品包括三片罐、二片罐和无菌纸包装，主要用于含乳饮料和植物蛋白饮料、即饮茶和其他饮料的包装。"
+    },
+    {
+      "name": "植物蛋白饮料",
+      "source_product": "三片罐",
+      "quote": "公司主要产品包括三片罐、二片罐和无菌纸包装，主要用于含乳饮料和植物蛋白饮料、即饮茶和其他饮料的包装。"
+    },
+    {
+      "name": "即饮茶/凉茶",
+      "source_product": "二片罐",
+      "quote": "二片罐 ... 主要用于凉茶、碳酸饮料、啤酒等。"
+    },
+    {
+      "name": "碳酸饮料",
+      "source_product": "二片罐",
+      "quote": "二片罐 ... 主要用于凉茶、碳酸饮料、啤酒等。"
+    },
+    {
+      "name": "啤酒",
+      "source_product": "二片罐、三片罐",
+      "quote": "二片罐 ... 主要用于凉茶、碳酸饮料、啤酒等。 ... 积极拓展三片马口铁啤酒罐和二片铝罐越南市场出口业务等新市场"
+    },
+    {
+      "name": "纯奶",
+      "source_product": "无菌纸包装",
+      "quote": "无菌纸包装 ... 主要用于纯奶、饮料等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈民",
+      "role": "董事长兼总经理",
+      "quote": "公司负责人陈民、主管会计工作负责人陈民及会计机构负责人（会计主管人员）季中华声明... 姓名 陈民 ... 职务 董事长兼总经理 ... 陈民先生，1971年10月生... 2017年11月至今任嘉美包装董事长兼总经理。"
+    },
+    {
+      "name": "张悟开",
+      "role": "董事兼副总经理",
+      "quote": "姓名 张悟开 ... 职务 董事兼副总经理 ... 张悟开先生，1970年1月出生... 2017年11月至今，任嘉美包装董事、副总经理。"
+    },
+    {
+      "name": "王建隆",
+      "role": "董事",
+      "quote": "姓名 王建隆 ... 职务 董事 ... 王建隆先生，1976年3月出生... 2017年11月至今任嘉美包装董事、稽核部总监。"
+    },
+    {
+      "name": "陈强",
+      "role": "董事兼副总经理兼董事会秘书",
+      "quote": "姓名 陈强 ... 职务 董事兼副总经理兼董事会秘书 ... 陈强先生，1974年 6月出生... 2017年11月至今任嘉美包装资金总监。2018年1月至今任嘉美包装董事会秘书，2019年12月至今任嘉美包装副总经理兼董事会秘书，2023年12月至今任嘉美包装董事、副总经理兼董事会秘书。"
+    },
+    {
+      "name": "胡康宁",
+      "role": "董事",
+      "quote": "姓名 胡康宁 ... 职务 董事 ... 胡康宁先生，1983年 8月出生... 2017年 8月至 2017年 11月任嘉美有限董事。2017年11月至今任嘉美包装董事。"
+    },
+    {
+      "name": "文茜",
+      "role": "董事",
+      "quote": "姓名 文茜 ... 职务 董事 ... 文茜女士，1989年12月出生... 2023年12月至今任嘉美包装董事。"
+    },
+    {
+      "name": "季中华",
+      "role": "财务负责人",
+      "quote": "姓名 季中华 ... 职务 财务负责人 ... 季中华女士，1972年 10月出生... 2017年 11月至今任嘉美包装财务负责人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "孝感嘉美印铁制罐有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 孝感嘉美 指 孝感嘉美印铁制罐有限公司"
+    },
+    {
+      "name": "衡水嘉美印铁制罐有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 衡水嘉美 指 衡水嘉美印铁制罐有限公司"
+    },
+    {
+      "name": "鹰潭嘉美印铁制罐有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 鹰潭嘉美 指 鹰潭嘉美印铁制罐有限公司"
+    },
+    {
+      "name": "临颍嘉美印铁制罐有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 临颍嘉美 指 临颍嘉美印铁制罐有限公司"
+    },
+    {
+      "name": "河南华冠养元饮料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 河南华冠 指 河南华冠养元饮料有限公司"
+    },
+    {
+      "name": "福建铭冠包装材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 福建铭冠 指 福建铭冠包装材料有限公司"
+    },
+    {
+      "name": "福建冠盖金属包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 福建冠盖 指 福建冠盖金属包装有限公司"
+    },
+    {
+      "name": "四川华冠食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 四川华冠 指 四川华冠食品有限公司"
+    },
+    {
+      "name": "简阳嘉美印铁制罐有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 简阳嘉美 指 简阳嘉美印铁制罐有限公司"
+    },
+    {
+      "name": "铭冠（湖北）包装材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 湖北铭冠 指 铭冠（湖北）包装材料有限公司"
+    },
+    {
+      "name": "广西北海金盟制罐股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 北海金盟 指 广西北海金盟制罐股份有限公司"
+    },
+    {
+      "name": "滁州华冠饮料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 滁州华冠 指 滁州华冠饮料有限公司"
+    },
+    {
+      "name": "嘉美（滁州）电子商务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 嘉美电商 指 嘉美（滁州）电子商务有限公司"
+    },
+    {
+      "name": "简阳嘉饮食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 简阳嘉饮 指 简阳嘉饮食品有限公司"
+    },
+    {
+      "name": "金华嘉饮食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 金华嘉饮 指 金华嘉饮食品有限公司"
+    },
+    {
+      "name": "临颍县嘉饮食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 临颍嘉饮 指 临颍县嘉饮食品有限公司"
+    },
+    {
+      "name": "鹰潭华冠饮料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 鹰潭华冠 指 鹰潭华冠饮料有限公司"
+    },
+    {
+      "name": "中国食品包装有限公司（中包香港）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "释义 中包香港 指 中国食品包装有限公司（China Food Packaging Incorporation Limited），2007年8月30日在香港设立"
+    },
+    {
+      "name": "富新投资有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "释义 富新投资 指 富新投资有限公司（Brilliant New Investment Limited） ... 前10名股东情况 ... 富新投资有限公司 10.42%"
+    },
+    {
+      "name": "中凯投资发展有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "释义 中凯投资 指 中凯投资发展有限公司（Sino Victory Investment Development Limited） ... 前10名股东情况 ... 中凯投资发展有限公司 2.37%"
+    },
+    {
+      "name": "养元饮品",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司的主要客户包括养元饮品、王老吉、银鹭集团、达利集团、承德露露、喜多多等国内知名食品饮料企业。"
+    },
+    {
+      "name": "王老吉",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司的主要客户包括养元饮品、王老吉、银鹭集团、达利集团、承德露露、喜多多等国内知名食品饮料企业。"
+    },
+    {
+      "name": "银鹭集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司的主要客户包括养元饮品、王老吉、银鹭集团、达利集团、承德露露、喜多多等国内知名食品饮料企业。"
+    },
+    {
+      "name": "达利集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司的主要客户包括养元饮品、王老吉、银鹭集团、达利集团、承德露露、喜多多等国内知名食品饮料企业。"
+    },
+    {
+      "name": "承德露露",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司的主要客户包括养元饮品、王老吉、银鹭集团、达利集团、承德露露、喜多多等国内知名食品饮料企业。"
+    },
+    {
+      "name": "喜多多",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司的主要客户包括养元饮品、王老吉、银鹭集团、达利集团、承德露露、喜多多等国内知名食品饮料企业。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金属包装",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,177,877,539.41",
+      "revenue_proportion": "77.37%",
+      "gross_margin": "12.80%",
+      "yoy_change": "-13.01%",
+      "quote": "分行业 金属包装 2,177,877,539.41 77.37% ... 营业收入比上年同期增减 -13.01% ... 毛利率 12.80%"
+    },
+    {
+      "name": "灌装",
+      "segment_type": "business_unit",
+      "revenue_amount": "381,047,574.26",
+      "revenue_proportion": "13.54%",
+      "gross_margin": "9.83%",
+      "yoy_change": "-5.73%",
+      "quote": "分行业 灌装 381,047,574.26 13.54% ... 营业收入比上年同期增减 -5.73% ... 毛利率 9.83%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "business_unit",
+      "revenue_amount": "255,866,005.79",
+      "revenue_proportion": "9.09%",
+      "gross_margin": null,
+      "yoy_change": "-12.32%",
+      "quote": "分行业 其他 255,866,005.79 9.09% ... 营业收入比上年同期增减 -12.32%"
+    },
+    {
+      "name": "三片罐",
+      "segment_type": "product_line",
+      "revenue_amount": "1,866,755,008.02",
+      "revenue_proportion": "66.32%",
+      "gross_margin": "15.92%",
+      "yoy_change": "-6.75%",
+      "quote": "分产品 三片罐 1,866,755,008.02 66.32% ... 营业收入比上年同期增减 -6.75% ... 毛利率 15.92%"
+    },
+    {
+      "name": "二片罐",
+      "segment_type": "product_line",
+      "revenue_amount": "311,122,531.39",
+      "revenue_proportion": "11.05%",
+      "gross_margin": "-5.93%",
+      "yoy_change": "-38.00%",
+      "quote": "分产品 二片罐 311,122,531.39 11.05% ... 营业收入比上年同期增减 -38.00% ... 毛利率 -5.93%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "672,100,587.56",
+      "revenue_proportion": "23.88%",
+      "gross_margin": "18.86%",
+      "yoy_change": "-20.11%",
+      "quote": "分地区 华中地区 672,100,587.56 23.88% ... 营业收入比上年同期增减 -20.11% ... 毛利率 18.86%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "165,708,227.13",
+      "revenue_proportion": "5.89%",
+      "gross_margin": "11.38%",
+      "yoy_change": "-28.21%",
+      "quote": "分地区 华北地区 165,708,227.13 5.89% ... 营业收入比上年同期增减 -28.21% ... 毛利率 11.38%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "1,187,786,177.62",
+      "revenue_proportion": "42.20%",
+      "gross_margin": "11.12%",
+      "yoy_change": "-5.29%",
+      "quote": "分地区 华东地区 1,187,786,177.62 42.20% ... 营业收入比上年同期增减 -5.29% ... 毛利率 11.12%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "434,871,805.79",
+      "revenue_proportion": "15.45%",
+      "gross_margin": "18.98%",
+      "yoy_change": "-29.96%",
+      "quote": "分地区 西南地区 434,871,805.79 15.45% ... 营业收入比上年同期增减 -29.96% ... 毛利率 18.98%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "354,324,321.36",
+      "revenue_proportion": "12.59%",
+      "gross_margin": "5.12%",
+      "yoy_change": "40.09%",
+      "quote": "分地区 华南地区 354,324,321.36 12.59% ... 营业收入比上年同期增减 40.09% ... 毛利率 5.12%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "金属包装产品",
+      "metric_type": "sales_volume",
+      "value": "400,513.34 万罐",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 万罐 400,513.34 452,268.07 -11.44%"
+    },
+    {
+      "product": "金属包装产品",
+      "metric_type": "production_volume",
+      "value": "408,675.24 万罐",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 生产量 万罐 408,675.24 449,766.48 -9.14%"
+    },
+    {
+      "product": "金属包装产品",
+      "metric_type": "inventory_volume",
+      "value": "42,879.83 万罐",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 库存量 万罐 42,879.83 34,717.93 23.51%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能自热自冷罐生产线开发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已小批量试产（约13万罐）",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 项目目的 项目进展 拟达到的目标 智能自热自冷罐生产 线开发 开发自热自冷三片 提升公司产品市场竞 智能罐产品，满足人们对 争力，为公司创造较 好生活的追求 多的价值 已小批量试产（约13 成为品牌客户相关新 万罐） 品的供应商"
+    },
+    {
+      "name": "嘉美1L马口铁啤酒罐",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已批量生产",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 项目目的 项目进展 拟达到的目标 嘉美1L马口铁啤酒 满足品牌啤酒商对 大幅提升公司产品市 罐 高质量包装容器的质 场竞争力，为公司创 量需求，尤其是铁离 造更多的价值 子析出 已批量生产 成为品牌啤酒商的主 要供应商"
+    },
+    {
+      "name": "啤酒研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "持续开发",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 项目目的 项目进展 拟达到的目标 啤酒研发 持续开发出多种低 推进公司金属包材产 提高公司产品市场占 酒精度配制酒和多样 品市场持续扩张 有率 化精酿啤酒..."
+    },
+    {
+      "name": "食品饮料研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "持续开发",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 项目目的 项目进展 拟达到的目标 食品饮料研发 持续开发出多种果 推进公司金属包材、 提高公司产品市场占 汁、植物蛋白、发酵 TP包材产品市场持续 有率 饮料... 扩张"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "中国包装优秀品牌",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2017年 11月，公司“嘉美”品牌被中国包装联合会认定为“中国包装优秀品牌”"
+    },
+    {
+      "name": "中国包装优秀品牌示范",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2022年3月被中国包装联合会授予中国包装优秀品牌示范荣誉称号。"
+    },
+    {
+      "name": "ISO9001 质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司始终严格执行食品供应链安全管理原则，在 ISO9001 质量管理体系基础上建立了规范的质量管理体系"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "65.56%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要销售客户情况 前五名客户合计销售金额（元） 1,845,206,816.77 前五名客户合计销售金额占年度销售总额比例 65.56%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "46.28%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要供应商情况 前五名供应商合计采购金额（元） 999,388,100.00 前五名供应商合计采购金额占年度采购总额比例 46.28%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "（3）客户集中风险 公司客户集中度较高是由公司所处行业特征及公司自身战略所决定"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业内竞争状况将更加激烈，对核心客户的把握也成为同行业企业的竞争重点。存在因市场竞争加剧而带来的业绩下滑风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）市场竞争风险 ... 行业内竞争状况将更加激烈，对核心客户的把握也成为同行业企业的竞争重点。在这样的行业背景下，公司存在因市场竞争加剧而带来的业绩下滑风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司客户集中度较高。若未来公司主要客户经营情况不利，降低对公司产品的采购，仍将会对公司经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）客户集中风险 ... 公司客户集中度较高是由公司所处行业特征及公司自身战略所决定 ... 但若未来公司主要客户经营情况不利，降低对公司产品的采购，仍将会对公司经营产生不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "马口铁、铝材、易拉盖等原材料价格呈现周期性的波动，公司产品价格调整存在调整幅度小于原材料价格波动幅度、调整时间滞后等情形，导致公司毛利率存在下降的风险。",
+      "related_entity": null,
+      "related_product": "三片罐、二片罐等",
+      "quote": "（4）毛利率波动的风险 ... 马口铁、铝材、易拉盖等原材料价格受到供求关系及相关行业周期性的影响，呈现周期性的波动 ... 但公司产品价格调整仍存在调整幅度小于原材料价格波动幅度、调整时间滞后等情形，导致公司毛利率存在下降的风险。"
+    }
+  ]
+}

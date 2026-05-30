@@ -1,0 +1,503 @@
+{
+  "company_name_mentioned": "广东众生药业股份有限公司",
+  "produces": [
+    {
+      "name": "昂拉地韦片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "治疗甲型流感的一类创新药，国家医保目录品种。昂拉地韦片是全球首个靶向甲型流感病毒 RNA 聚合酶 PB2 亚基的口服抗流感药物..."
+    },
+    {
+      "name": "来瑞特韦片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "治疗新冠病毒感染的一类创新药，国家医保目录品种。来瑞特韦片是全球首个拟肽类 3CL 单药抗新冠病毒感染口服药物..."
+    },
+    {
+      "name": "复方血栓通系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "国家基本药物目录、国家医保目录品种，全国中成药采购联盟集采中选产品。公司是复方血栓通系列制剂的产品原创者、标准制定者、行业引领者和市场主导者。"
+    },
+    {
+      "name": "脑栓通胶囊",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "独家品种、国家医保目录品种，中药二级保护品种，广东联盟金莲花胶囊等中成药集采中选产品，安徽省中成药带量联动采购中选产品。"
+    },
+    {
+      "name": "众生丸系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "岭南名药，独家原研剂型，广东省名牌产品、广东省自主创新产品。众生丸具有抗菌消炎、清热解毒的功效，用于咽喉肿痛等咽喉疾病。"
+    },
+    {
+      "name": "羧甲司坦口服溶液（片）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "口服溶液和片剂均为国家基本药物目录、国家医保目录品种，均已通过一致性评价。"
+    },
+    {
+      "name": "盐酸氮䓬斯汀滴眼液",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "国家医保目录品种，子公司产品已通过一致性评价。盐酸氮䓬斯汀滴眼液双效抗过敏作用..."
+    },
+    {
+      "name": "中成药销售",
+      "type": "material",
+      "revenue_proportion": "占主营业务收入的 52.71%",
+      "quote": "中成药实现营业收入 132,169.28 万元，占主营业务收入的 52.71%"
+    },
+    {
+      "name": "化学药销售",
+      "type": "material",
+      "revenue_proportion": "占主营业务收入的 36.71%",
+      "quote": "化学药实现营业收入 92,028.92 万元，占主营业务收入的 36.71%"
+    },
+    {
+      "name": "原料药及中间体销售",
+      "type": "material",
+      "revenue_proportion": "占主营业务收入的 2.32%",
+      "quote": "原料药及中间体实现销售收入 5,823.34 万元，占主营业务收入的 2.32%"
+    },
+    {
+      "name": "中药材及中药饮片销售",
+      "type": "material",
+      "revenue_proportion": "占主营业务收入的 8.26%",
+      "quote": "中药材及中药饮片实现销售 20,703.06 万元，占主营业务收入的 8.26%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "中成药销售",
+      "cost_proportion": "占营业成本比重 68.28%",
+      "quote": "2025年营业成本构成 中成药销售 原材料 68.28%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "化学药销售",
+      "cost_proportion": "占营业成本比重 77.23%",
+      "quote": "2025年营业成本构成 化学药销售 原材料 77.23%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "中药材及中药饮片销售",
+      "cost_proportion": "占营业成本比重 94.28%",
+      "quote": "2025年营业成本构成 中药材及中药饮片销售 原材料 94.28%"
+    },
+    {
+      "name": "供应商A",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 6.91%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商A 56,233,283.19 6.91%"
+    },
+    {
+      "name": "供应商B",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例 4.53%",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 2 供应商B 36,837,168.09 4.53%"
+    },
+    {
+      "name": "前五名供应商",
+      "target_product": null,
+      "cost_proportion": "合计采购金额占年度采购总额比例 20.48%",
+      "quote": "前五名供应商合计采购金额（元） 166,648,250.40 前五名供应商合计采购金额占年度采购总额比例 20.48%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "呼吸系统疾病",
+      "source_product": "昂拉地韦片、来瑞特韦片、羧甲司坦口服溶液（片）、盐酸氨溴索口服溶液",
+      "quote": "公司主要产品及其特色如下：功能主治/治疗领域 呼吸 抗病毒 昂拉地韦片"
+    },
+    {
+      "name": "眼科疾病",
+      "source_product": "复方血栓通系列产品、盐酸氮䓬斯汀滴眼液、普拉洛芬滴眼液、环孢素滴眼液（III）",
+      "quote": "功能主治/治疗领域 眼科 心脑血管 内分泌 中成药 复方血栓通系列产品"
+    },
+    {
+      "name": "心脑血管疾病",
+      "source_product": "复方血栓通系列产品、脑栓通胶囊、复方丹参片",
+      "quote": "功能主治/治疗领域 眼科 心脑血管 内分泌 中成药 脑栓通胶囊"
+    },
+    {
+      "name": "消化系统疾病",
+      "source_product": "硫糖铝口服混悬液、瑞巴派特片、奥美拉唑肠溶胶囊",
+      "quote": "功能主治/治疗领域 消化 硫糖铝口服混悬液"
+    },
+    {
+      "name": "代谢性疾病",
+      "source_product": "RAY1225 注射液",
+      "quote": "公司创新药研发聚焦呼吸系统疾病、代谢性疾病等治疗领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈永红",
+      "role": "董事长、总裁",
+      "quote": "公司负责人陈永红、主管会计工作负责人龙春华及会计机构负责人（会计主管人员）李素贤声明..."
+    },
+    {
+      "name": "龙春华",
+      "role": "董事、副总裁、财务总监",
+      "quote": "公司负责人陈永红、主管会计工作负责人龙春华及会计机构负责人（会计主管人员）李素贤声明..."
+    },
+    {
+      "name": "张玉冲",
+      "role": "副董事长、高级副总裁",
+      "quote": "2019年8月8日，张绍日先生名下持有公司股份办理完毕证券过户登记手续。本次股份过户登记完成后，张玉冲持有公司股份92,640,500股，占公司总股本的10.90%，其拥有表决权的股份占比为21.80%，张玉冲为公司控股股东、实际控制人。"
+    },
+    {
+      "name": "杨威",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 杨威 陈子敏"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广东华南药业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品研发、生产及销售",
+      "quote": "华南药业 指 广东华南药业集团有限公司"
+    },
+    {
+      "name": "广东先强药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品研发、生产及销售，原料药 CDMO",
+      "quote": "先强药业 指 广东先强药业有限公司"
+    },
+    {
+      "name": "广东众生医药贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品、中药材、医疗器械、化工原料的经营和批发；企业管理咨询服务",
+      "quote": "众生医贸 指 广东众生医药贸易有限公司"
+    },
+    {
+      "name": "云南益康药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "中药饮片、中药材生产及销售",
+      "quote": "益康药业 指 云南益康药业有限公司"
+    },
+    {
+      "name": "广东逸舒制药股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品研发、生产及销售",
+      "quote": "逸舒制药 指 广东逸舒制药股份有限公司"
+    },
+    {
+      "name": "广东众生睿创生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "产品研发、研发技术转让与服务；药品生产、批发",
+      "quote": "众生睿创 指 广东众生睿创生物科技有限公司"
+    },
+    {
+      "name": "齐鲁制药有限公司",
+      "relation_type": "customer",
+      "business_details": "众生睿创授权齐鲁制药在中国地区内对 RAY1225 注射液进行生产与商业化销售",
+      "quote": "报告期末至今，公司控股子公司众生睿创与齐鲁制药有限公司（以下简称“齐鲁制药”）签署《许可协议》..."
+    },
+    {
+      "name": "江苏紫金弘云健康产业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "持有众生睿创部分股权，后被公司赎回",
+      "quote": "同意公司使用自有资金人民币 11,257.4866 万元赎回江苏紫金弘云健康产业投资合伙企业（有限合伙）、青岛信鸿创业投资合伙企业（有限合伙）合计所持有的众生睿创 2.63%股权。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,404,532,811.69元",
+      "revenue_proportion": "占营业收入比重 95.32%",
+      "gross_margin": "57.85%",
+      "yoy_change": "同比增长 2.66%",
+      "quote": "分行业 医药制造 2,404,532,811.69 95.32%"
+    },
+    {
+      "name": "医药贸易",
+      "segment_type": "business_unit",
+      "revenue_amount": "102,713,234.85元",
+      "revenue_proportion": "占营业收入比重 4.07%",
+      "gross_margin": "19.79%",
+      "yoy_change": "同比增长 0.85%",
+      "quote": "分行业 医药贸易 102,713,234.85 4.07%"
+    },
+    {
+      "name": "中成药销售",
+      "segment_type": "product_line",
+      "revenue_amount": "1,321,692,779.28元",
+      "revenue_proportion": "占营业收入比重 52.39%",
+      "gross_margin": "69.03%",
+      "yoy_change": "同比增长 0.26%",
+      "quote": "分产品 中成药销售 1,321,692,779.28 52.39%"
+    },
+    {
+      "name": "化学药销售",
+      "segment_type": "product_line",
+      "revenue_amount": "920,289,218.88元",
+      "revenue_proportion": "占营业收入比重 36.48%",
+      "gross_margin": "48.98%",
+      "yoy_change": "同比增长 2.29%",
+      "quote": "分产品 化学药销售 920,289,218.88 36.48%"
+    },
+    {
+      "name": "广东省内",
+      "segment_type": "region",
+      "revenue_amount": "980,684,256.00元",
+      "revenue_proportion": "占营业收入比重 38.88%",
+      "gross_margin": "55.66%",
+      "yoy_change": "同比增长 18.06%",
+      "quote": "分地区 广东省内 980,684,256.00 38.88%"
+    },
+    {
+      "name": "广东省外",
+      "segment_type": "region",
+      "revenue_amount": "1,526,561,790.54元",
+      "revenue_proportion": "占营业收入比重 60.51%",
+      "gross_margin": "56.69%",
+      "yoy_change": "同比下降 -5.38%",
+      "quote": "分地区 广东省外 1,526,561,790.54 60.51%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "中成药",
+      "metric_type": "sales_volume",
+      "value": "352,207 万粒/万片/万袋",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 中成药 销售量 万粒/万片/万袋 352,207 364,961 -3.49%"
+    },
+    {
+      "product": "中成药",
+      "metric_type": "production_volume",
+      "value": "347,102 万粒/万片/万袋",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 中成药 生产量 万粒/万片/万袋 347,102 377,556 -8.07%"
+    },
+    {
+      "product": "中成药",
+      "metric_type": "inventory_volume",
+      "value": "36,544 万粒/万片/万袋",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 中成药 库存量 万粒/万片/万袋 36,544 36,572 -0.07%"
+    },
+    {
+      "product": "化学药",
+      "metric_type": "sales_volume",
+      "value": "243,920 万粒/万片/万袋",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 化学药 销售量 万粒/万片/万袋 243,920 343,291 -28.95%"
+    },
+    {
+      "product": "化学药",
+      "metric_type": "production_volume",
+      "value": "251,467 万粒/万片/万袋",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 化学药 生产量 万粒/万片/万袋 251,467 346,027 -27.33%"
+    },
+    {
+      "product": "化学药",
+      "metric_type": "inventory_volume",
+      "value": "39,236 万粒/万片/万袋",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 化学药 库存量 万粒/万片/万袋 39,236 37,447 4.78%"
+    },
+    {
+      "product": "中药材及中药饮片",
+      "metric_type": "sales_volume",
+      "value": "2,801,223 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 中药材及中药饮片 销售量 KG 2,801,223 2,318,914 20.80%"
+    },
+    {
+      "product": "中药材及中药饮片",
+      "metric_type": "production_volume",
+      "value": "2,267,765 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 中药材及中药饮片 生产量 KG 2,267,765 1,741,223 30.24%"
+    },
+    {
+      "product": "中药材及中药饮片",
+      "metric_type": "inventory_volume",
+      "value": "168,254 KG",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 中药材及中药饮片 库存量 KG 168,254 211,609 -20.49%"
+    },
+    {
+      "product": "原料药及中间体",
+      "metric_type": "sales_volume",
+      "value": "29,842 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 原料药及中间体 销售量 KG 29,842 13,699 117.84%"
+    },
+    {
+      "product": "原料药及中间体",
+      "metric_type": "production_volume",
+      "value": "61,249 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 原料药及中间体 生产量 KG 61,249 50,836 20.48%"
+    },
+    {
+      "product": "原料药及中间体",
+      "metric_type": "inventory_volume",
+      "value": "3,927 KG",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 原料药及中间体 库存量 KG 3,927 10,566 -62.84%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "中药提取车间建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资总额 18,100万元",
+      "designed_capacity": null,
+      "progress": "项目已达到预定可使用状态，已结项",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 中药提取车间建设项目 生产建设 18,100 18,100 100.00% 已结项"
+    },
+    {
+      "name": "药品研发中心及公司配套设施建设项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "拟投入募集资金总额 12,594.22万元",
+      "designed_capacity": null,
+      "progress": "项目正在建设中，投资进度 34.62%",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 药品研发中心及公司配套设施建设项目 生产建设 12,594.22 4,360.06 34.62%"
+    },
+    {
+      "name": "新药研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "拟投入募集资金总额 10,335.99万元",
+      "designed_capacity": null,
+      "progress": "项目正在研发中，投资进度 59.92%",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 新药研发项目 研发项目 10,335.99 6,193.21 59.92%"
+    },
+    {
+      "name": "逸舒制药肇庆大旺基地中药提取车间",
+      "project_type": "capacity_expansion",
+      "location": "肇庆大旺基地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成并投入运营",
+      "expected_completion_time": null,
+      "quote": "公司在控股子公司逸舒制药肇庆大旺基地打造的中药提取车间，应用了先进的设计理念、先进的装备和信息化系统..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "小分子/多肽新药研发技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "创新药管线",
+      "quantitative_info": null,
+      "quote": "已经形成小分子/多肽新药研发、药物临床研究、特殊制剂研发等技术平台，为研发创新创造了良好的技术环境。"
+    },
+    {
+      "name": "药物临床研究技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "创新药管线",
+      "quantitative_info": null,
+      "quote": "已经形成小分子/多肽新药研发、药物临床研究、特殊制剂研发等技术平台，为研发创新创造了良好的技术环境。"
+    },
+    {
+      "name": "滴眼液技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "眼科化学药",
+      "quantitative_info": null,
+      "quote": "持续夯实现有滴眼液技术平台优势"
+    },
+    {
+      "name": "AI 驱动的药物发现平台",
+      "asset_type": "technical_platform",
+      "related_product": "早研管线",
+      "quantitative_info": null,
+      "quote": "并逐步打造 AI 驱动的药物发现平台、小核酸技术创新平台、多肽/抗体筛选技术平台"
+    },
+    {
+      "name": "小核酸技术创新平台",
+      "asset_type": "technical_platform",
+      "related_product": "小核酸药物管线",
+      "quantitative_info": null,
+      "quote": "已成功搭建覆盖序列设计、化学修饰、肝内外递送及生物学评价等关键环节的完整小核酸药物研发平台。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "创新药",
+      "quantitative_info": "创新药项目累计获得 172 项授权专利",
+      "quote": "创新药项目累计获得中国、美国、欧洲、日本、俄罗斯、新加坡、新西兰、澳大利亚等多个国家/地区共 172 项授权专利。"
+    },
+    {
+      "name": "脑栓通胶囊",
+      "asset_type": "certification",
+      "related_product": "脑栓通胶囊",
+      "quantitative_info": "获批为 2025 年首家中药二级保护品种",
+      "quote": "报告期内，脑栓通胶囊获批为 2025 年首家中药二级保护品种"
+    },
+    {
+      "name": "仿制药一致性评价",
+      "asset_type": "certification",
+      "related_product": "化学仿制药",
+      "quantitative_info": "累计有 33 个品规通过仿制药一致性评价（含视同），13 个品种在国家组织药品集中采购中选",
+      "quote": "公司累计有 33 个品规通过仿制药一致性评价（含视同），13 个品种在国家组织药品集中采购与国家组织集采药品协议期满品种接续采购中选。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "前五名客户合计销售金额占年度销售总额比例 57.70%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,455,701,875.94 前五名客户合计销售金额占年度销售总额比例 57.70%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "前五名供应商合计采购金额占年度采购总额比例 20.48%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 166,648,250.40 前五名供应商合计采购金额占年度采购总额比例 20.48%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "DRG/DIP 医保支付改革、集采扩面规则调整、价格治理等行业政策给企业带来持续的价格压力，药品招标采购价格联动和下降已成为普遍趋势。医保控费政策、优质优价对医药行业带来较大的冲击。公司产品如果未中标或中标价格大幅下降，市场准入难度加大等可能会对公司营业收入造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业风险 医药行业受国家相关政策的影响很大...DRG/DIP 医保支付改革、集采扩面规则调整、价格治理等行业政策给企业带来持续的价格压力..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受国际环境、国家政策、宏观经济、市场波动等多重因素的影响，原材料成本、人力资源成本以及环保成本均呈现刚性上涨趋势，可能导致公司整体运营成本不断攀升，对公司盈利能力带来持续压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、成本上升风险 受国际环境、国家政策、宏观经济、市场波动等多重因素的影响，原材料成本、人力资源成本以及环保成本均呈现刚性上涨趋势..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司连续投入大量资金用于新药的研发，由于国家监管法规、注册法规日益严格，新药开发本身起点高、成功率低，新药研发存在不确定性以及研发周期可能延长的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、研发风险 公司连续投入大量资金用于新药的研发，由于国家监管法规、注册法规日益严格，新药开发本身起点高、成功率低..."
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司与但丁生物科技（山东）有限公司就《普拉洛芬滴眼液合作协议》产生分歧形成诉讼。公司承担费用金额为4,186.21万元。",
+      "related_entity": "但丁生物科技（山东）有限公司",
+      "related_product": "普拉洛芬滴眼液",
+      "quote": "公司与但丁生物科技（山东）有限公司（曾用名：上海沃立生物科技有限公司，以下简称“但丁生物”）就《普拉洛芬滴眼液合作协议》产生分歧形成诉讼...公司承担费用金额为4,186.21万元"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司诉扬州中惠制药有限公司等侵害专利权纠纷。法院驳回原告全部诉讼请求。",
+      "related_entity": "扬州中惠制药有限公司",
+      "related_product": null,
+      "quote": "公司诉扬州中惠制药有限公司等侵害专利权纠纷...法院驳回原告全部诉讼请求。"
+    }
+  ]
+}

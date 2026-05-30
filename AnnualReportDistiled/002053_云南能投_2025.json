@@ -1,0 +1,529 @@
+{
+  "company_name_mentioned": "云南能源投资股份有限公司",
+  "produces": [
+    {
+      "name": "风电",
+      "type": "service",
+      "revenue_proportion": "33.18%",
+      "quote": "风电 827,733,814.88 33.18%"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "2.84%",
+      "quote": "光伏发电 70,884,857.68 2.84%"
+    },
+    {
+      "name": "盐硝产品",
+      "type": "material",
+      "revenue_proportion": "44.51%",
+      "quote": "盐硝产品 1,110,439,671.86 44.51%"
+    },
+    {
+      "name": "天然气",
+      "type": "material",
+      "revenue_proportion": "16.34%",
+      "quote": "天然气 407,717,833.26 16.34%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原煤",
+      "target_product": "盐硝产品",
+      "cost_proportion": null,
+      "quote": "原煤、卷膜、编织袋、纸箱、纯碱等重要生产性物资"
+    },
+    {
+      "name": "复合膜",
+      "target_product": "盐硝产品",
+      "cost_proportion": null,
+      "quote": "原煤、复合膜、编织袋、纸箱、碘酸钾、纯碱、天然气等重要生产性物资"
+    },
+    {
+      "name": "天然气",
+      "target_product": "盐硝产品",
+      "cost_proportion": null,
+      "quote": "原煤、复合膜、编织袋、纸箱、碘酸钾、纯碱、天然气等重要生产性物资"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "风电，光伏发电",
+      "quote": "公司风电场通过风力发电机组将风的动能转换为电能，经过升压输送至电网；光伏电站通过太阳电池板（组件）将太阳光能转换为电能，经升压输送至电网。"
+    },
+    {
+      "name": "化工行业",
+      "source_product": "工业盐",
+      "quote": "工业盐主要用于烧碱、纯碱等基础化学工业，以及水处理、公路除雪、建筑业、日用化工等方面。"
+    },
+    {
+      "name": "食品消费",
+      "source_product": "食盐",
+      "quote": "公司致力打造“生态用盐全产业链研制专家”，向消费者提供生态、绿色、健康的食盐产品。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周满富",
+      "role": "党委书记、董事长",
+      "quote": "公司负责人周满富、主管会计工作负责人刘希芬及会计机构负责人（会计主管人员）代进能声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "刘希芬",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人周满富、主管会计工作负责人刘希芬及会计机构负责人（会计主管人员）代进能声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "杨建军",
+      "role": "党委副书记、董事、总经理",
+      "quote": "杨建军，男，1973年8月生，工程硕士，高级工程师，中国国籍，无境外永久居留权。现任本公司党委副书记、董事、总经理。"
+    },
+    {
+      "name": "秦媛",
+      "role": "董事会秘书",
+      "quote": "公司于2025年10月23日聘任秦媛为董事会秘书。"
+    },
+    {
+      "name": "刘美湖",
+      "role": "总法律顾问、首席合规官",
+      "quote": "刘美湖，女，1986年10月生，硕士研究生，律师，中国国籍，无境外永久居留权。现任本公司总法律顾问、首席合规官，内部审计部门负责人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "云南省能源集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，支持公司资源获取及项目开发。",
+      "quote": "云南能源集团 指 云南省能源集团有限公司，本公司控股股东"
+    },
+    {
+      "name": "云南省盐业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，负责盐业板块生产经营。",
+      "quote": "全资子公司云南省盐业有限公司盐硝实际总产能180万吨/年"
+    },
+    {
+      "name": "云南省页岩气勘探开发有限公司",
+      "relation_type": "investor",
+      "business_details": "公司以天然气公司股权对其增资，成为其参股股东（持股33%）。",
+      "quote": "公司于2025年4月完成以子公司云南省天然气有限公司股权向云南省页岩气勘探开发有限公司增资，持股比例为33%。"
+    },
+    {
+      "name": "云南榕耀新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "受控股股东委托经营管理，其光伏项目符合注入条件后优先注入公司。",
+      "quote": "公司与控股股东云南能源集团于2024年1月24日签署了《委托经营管理协议》，云南能源集团将其全资子公司云南榕耀新能源有限公司全部经营管理权委托给公司行使。"
+    },
+    {
+      "name": "广东省广盐集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司（持股比例14.9671%）。",
+      "quote": "广东省广盐集团股份有限公司成立于1992年12月，注册资本为138,032.77万元，公司持股比例为14.9671%。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "新能源",
+      "segment_type": "business_unit",
+      "revenue_amount": "898,618,672.56",
+      "revenue_proportion": "36.02%",
+      "gross_margin": "34.15%",
+      "yoy_change": "-24.47%",
+      "quote": "电力 898,618,672.56 36.02% -24.47%...电力 898,618,672.56 591,766,327.51 34.15% -24.47% 35.27% -29.08%注2"
+    },
+    {
+      "name": "盐业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,110,439,671.86",
+      "revenue_proportion": "44.51%",
+      "gross_margin": "41.28%",
+      "yoy_change": "-7.76%",
+      "quote": "盐硝产品 1,110,439,671.86 44.51% -7.76%...盐硝产品 1,110,439,671.86 652,074,074.15 41.28% -7.76% 10.82% -9.84%"
+    },
+    {
+      "name": "风电",
+      "segment_type": "product_line",
+      "revenue_amount": "827,733,814.88",
+      "revenue_proportion": "33.18%",
+      "gross_margin": "33.64%",
+      "yoy_change": "-25.14%",
+      "quote": "风电 827,733,814.88 33.18% -25.14%...风电 827,733,814.88 549,314,848.19 33.64% -25.14% 37.44% -30.21%"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "70,884,857.68",
+      "revenue_proportion": "2.84%",
+      "gross_margin": "40.11%",
+      "yoy_change": "-15.61%",
+      "quote": "光伏发电 70,884,857.68 2.84% -15.61%...光伏发电 70,884,857.68 42,451,479.32 40.11% -15.61% 12.37% -14.91%"
+    },
+    {
+      "name": "省内",
+      "segment_type": "region",
+      "revenue_amount": "2,151,642,971.77",
+      "revenue_proportion": "86.24%",
+      "gross_margin": "34.15%",
+      "yoy_change": "-32.14%",
+      "quote": "省内 2,151,642,971.77 86.24% -32.14%...省内 2,151,642,971.77 1,416,792,306.96 34.15% -32.14% -22.00% -8.56%"
+    },
+    {
+      "name": "省外",
+      "segment_type": "region",
+      "revenue_amount": "343,186,436.30",
+      "revenue_proportion": "13.76%",
+      "gross_margin": null,
+      "yoy_change": "21.47%",
+      "quote": "省外 343,186,436.30 13.76% 21.47%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "盐硝产品",
+      "metric_type": "capacity",
+      "value": "180万吨/年",
+      "period": "截至报告期末",
+      "quote": "全资子公司云南省盐业有限公司盐硝实际总产能180万吨/年"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "capacity",
+      "value": "259.486万千瓦",
+      "period": "截至报告期末",
+      "quote": "截至报告期末公司新能源总装机容量达到259.486万千瓦"
+    },
+    {
+      "product": "风电",
+      "metric_type": "capacity",
+      "value": "241.886万千瓦",
+      "period": "截至报告期末",
+      "quote": "其中风电241.886万千瓦，占比93.22%"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "capacity",
+      "value": "17.6万千瓦",
+      "period": "截至报告期末",
+      "quote": "光伏17.6万千瓦，占比6.78%"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "production_volume",
+      "value": "33.59亿度",
+      "period": "报告期",
+      "quote": "发电量由上一年度的38.14亿度减至33.59亿度"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "sales_volume",
+      "value": "32.452亿千瓦时",
+      "period": "报告期",
+      "quote": "上网电量或售电量（亿千瓦时） 32.452"
+    },
+    {
+      "product": "食盐",
+      "metric_type": "production_volume",
+      "value": "376，757.82吨",
+      "period": "报告期",
+      "quote": "生产量 吨 376,757.82"
+    },
+    {
+      "product": "食盐",
+      "metric_type": "sales_volume",
+      "value": "373,144.24吨",
+      "period": "报告期",
+      "quote": "销售量 吨 373,144.24"
+    },
+    {
+      "product": "食盐",
+      "metric_type": "inventory_volume",
+      "value": "44,119.57吨",
+      "period": "报告期末",
+      "quote": "库存量 吨 44,119.57"
+    },
+    {
+      "product": "工业盐",
+      "metric_type": "production_volume",
+      "value": "1,417,084.05吨",
+      "period": "报告期",
+      "quote": "生产量 吨 1,417,084.05"
+    },
+    {
+      "product": "工业盐",
+      "metric_type": "sales_volume",
+      "value": "1,396,965.05吨",
+      "period": "报告期",
+      "quote": "销售量 吨 1,396,965.05"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "昆明安宁350MW压缩空气储能示范项目",
+      "project_type": "capacity_expansion",
+      "location": "昆明安宁",
+      "investment_amount": null,
+      "designed_capacity": "350MW",
+      "progress": "已于2025年10月28日开工",
+      "expected_completion_time": null,
+      "quote": "昆明安宁350MW压缩空气储能示范项目已于2025年10月正式开工"
+    },
+    {
+      "name": "通泉风电场扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "曲靖",
+      "investment_amount": null,
+      "designed_capacity": "13.125万千瓦",
+      "progress": "该项目 13.125 万千瓦风机于 2025年 11月实现全容量并网发电。",
+      "expected_completion_time": null,
+      "quote": "通泉风电场扩建项目 该项目 13.125 万千瓦风机于 2025年 11月实现全容量并网发电。"
+    },
+    {
+      "name": "永宁风电场扩建项目（泸西片区）",
+      "project_type": "capacity_expansion",
+      "location": "泸西",
+      "investment_amount": null,
+      "designed_capacity": "23.5万千瓦",
+      "progress": "该项目 23.5 万千瓦风机于 2025年11月实现全容量并网发电。",
+      "expected_completion_time": null,
+      "quote": "永宁风电场扩建项目（泸西片区） 该项目 23.5 万千瓦风机于 2025年11月实现全容量并网发电。"
+    },
+    {
+      "name": "永宁风电场扩建项目（弥勒片区）",
+      "project_type": "capacity_expansion",
+      "location": "弥勒",
+      "investment_amount": null,
+      "designed_capacity": "23万千瓦",
+      "progress": "该项目 23 万千瓦风机于 2025 年 11 月实现全容量并网发电。",
+      "expected_completion_time": null,
+      "quote": "永宁风电场扩建项目（弥勒片区） 该项目 23 万千瓦风机于 2025 年 11 月实现全容量并网发电。"
+    },
+    {
+      "name": "老尖山风电场扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "大姚",
+      "investment_amount": null,
+      "designed_capacity": "7.5万千瓦",
+      "progress": "该项目建设规模7.5万千瓦，项目已开工建设。",
+      "expected_completion_time": null,
+      "quote": "老尖山风电场扩建项目 该项目建设规模7.5万千瓦，项目已开工建设。"
+    },
+    {
+      "name": "竹园光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "曲靖市马龙区",
+      "investment_amount": null,
+      "designed_capacity": "5万千瓦",
+      "progress": "该项目建设规模 5 万千瓦，于 2025 年 4 月实现全容量并网发电。",
+      "expected_completion_time": null,
+      "quote": "竹园光伏项目 该项目建设规模 5 万千瓦，于 2025 年 4 月实现全容量并网发电。"
+    },
+    {
+      "name": "阿谷子风电场项目",
+      "project_type": "capacity_expansion",
+      "location": "永胜",
+      "investment_amount": null,
+      "designed_capacity": "10万千瓦",
+      "progress": "该项目建设规模10万千瓦，于2026年1月获得云南省发展和改革委员会核准批复",
+      "expected_completion_time": null,
+      "quote": "阿谷子风电场项目 该项目建设规模10万千瓦，于2026年1月获得云南省发展和改革委员会核准批复"
+    },
+    {
+      "name": "华坪西风电场项目",
+      "project_type": "capacity_expansion",
+      "location": "华坪",
+      "investment_amount": null,
+      "designed_capacity": "15万千瓦",
+      "progress": "该项目建设规模15万千瓦，于2026年1月获得云南省发展和改革委员会核准批复",
+      "expected_completion_time": null,
+      "quote": "华坪西风电场项目 该项目建设规模15万千瓦，于2026年1月获得云南省发展和改革委员会核准批复"
+    },
+    {
+      "name": "轿子光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": "会泽",
+      "investment_amount": null,
+      "designed_capacity": "5万千瓦",
+      "progress": "该项目建设规模 5 万千瓦，项目于 2026 年 3 月实现全容量并网发电。",
+      "expected_completion_time": null,
+      "quote": "轿子光伏发电项目 该项目建设规模 5 万千瓦，项目于 2026 年 3 月实现全容量并网发电。"
+    },
+    {
+      "name": "披嘎打厂箐光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": "会泽",
+      "investment_amount": null,
+      "designed_capacity": "3.5万千瓦",
+      "progress": "该项目建设规模3.5万千瓦，项目已开工建设。",
+      "expected_completion_time": null,
+      "quote": "披嘎打厂箐光伏发电项目 该项目建设规模3.5万千瓦，项目已开工建设。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "热电、盐硝联产-多效蒸发真空制盐工艺技术",
+      "asset_type": "process_technology",
+      "related_product": "盐硝产品",
+      "quantitative_info": null,
+      "quote": "拥有 3 套制盐装置，产能分别为 80 万吨、30 万吨、10万吨，其中 80 万吨、30 万吨两套生产装置采用热电、盐硝联产-多效蒸发真空制盐工艺技术"
+    },
+    {
+      "name": "MVR制盐装置",
+      "asset_type": "process_technology",
+      "related_product": "盐硝产品",
+      "quantitative_info": null,
+      "quote": "普洱制盐分公司机械蒸汽再压缩（MVR）项目于2025年1月投运，由以蒸汽（配套燃煤锅炉提供）为主要能源的5效真空制盐装置升级为以用清洁能源电力为主要能源的MVR制盐装置。"
+    },
+    {
+      "name": "“白象牌”中华老字号",
+      "asset_type": "certification",
+      "related_product": "食盐",
+      "quantitative_info": null,
+      "quote": "公司“白象牌”被认定为“中华老字号”"
+    },
+    {
+      "name": "生态井矿盐产品认证",
+      "asset_type": "certification",
+      "related_product": "食盐",
+      "quantitative_info": null,
+      "quote": "高端食盐产品“生态云盐”系列产品被认证为“生态井矿盐”"
+    },
+    {
+      "name": "国家级绿色工厂",
+      "asset_type": "certification",
+      "related_product": "盐硝产品",
+      "quantitative_info": null,
+      "quote": "所属普洱制盐分公司和昆明盐矿分别于2021年和2023年被评为国家级“绿色工厂”和省级“绿色矿山”"
+    },
+    {
+      "name": "零碳工厂认证",
+      "asset_type": "certification",
+      "related_product": "盐硝产品",
+      "quantitative_info": null,
+      "quote": "普洱制盐分公司于2025年被认证为零碳工厂，成为盐行业首家实现“零碳工厂”认证的企业"
+    },
+    {
+      "name": "知识产权",
+      "asset_type": "patent",
+      "related_product": "盐硝产品及其他",
+      "quantitative_info": "99项（其中发明专利10项）",
+      "quote": "拥有知识产权 99 项（其中发明专利 10 项）"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "被认定为高新技术企业"
+    },
+    {
+      "name": "国家知识产权优势企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "被认定为国家知识产权优势企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "49.59%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额（元） 1,236,886,571.40 前五名客户合计销售金额占年度销售总额比例 49.59%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "36.01%",
+      "related_entity": "客户1",
+      "period": "报告期",
+      "quote": "客户1 898,291,024.46 36.01%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "41.51%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额（元） 424,945,101.39 前五名供应商合计采购金额占年度采购总额比例 41.51%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "16.56%",
+      "related_entity": "供应商1",
+      "period": "报告期",
+      "quote": "供应商1 169,572,497.29 16.56%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "食盐省内市场占有率保持在80%以上",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "食盐省内市场占有率保持在80%以上"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着电力体制改革的全面深化，电力市场建设将逐步完善，此外云南省内新能源发电机组的集中投产等因素也可能加剧新能源消纳、电价等竞争，从而对公司的经营业绩带来一定的影响。",
+      "related_entity": null,
+      "related_product": "风电、光伏发电",
+      "quote": "（3）行业竞争风险 随着电力体制改革的全面深化，电力市场建设将逐步完善，此外云南省内新能源发电机组的集中投产等因素也可能加剧新能源消纳、电价等竞争，从而对公司的经营业绩带来一定的影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着国家盐业体制改革的不断深化，食盐产品同质化问题突出，云南省内食盐、工业盐市场竞争进入白热化，省外食盐品牌进一步加大对云南省的销售布局力度，对公司盐板块食盐市场份额形成一定冲击。",
+      "related_entity": null,
+      "related_product": "食盐、工业盐",
+      "quote": "随着国家盐业体制改革的不断深化，食盐产品同质化问题突出，云南省内食盐、工业盐市场竞争进入白热化，省外食盐品牌进一步加大对云南省的销售布局力度，对公司盐板块食盐市场份额形成一定冲击。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司所从事的风电及光伏能源基础设施投资、建设与管理业务，目前处于国家及云南省政策鼓励发展的阶段，由于国民经济发展阶段不同，国家产业及区域政策可能存在调整。",
+      "related_entity": null,
+      "related_product": "风电、光伏发电",
+      "quote": "（2）产业政策变动风险 公司所从事的风电及光伏能源基础设施投资、建设与管理业务，目前处于国家及云南省政策鼓励发展的阶段，由于国民经济发展阶段不同，国家产业及区域政策可能存在调整。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司所属的电力、盐业特别是工业盐与国内宏观经济的波动有着较强的相关性。宏观经济的变化会直接或间接地影响电力需求、投资和技术发展方向，“两碱”等下游行业周期波动可能导致公司工业盐等产品需求减弱、价格下跌。",
+      "related_entity": null,
+      "related_product": "电力、工业盐",
+      "quote": "（1）经营波动风险 公司所属的电力、盐业特别是工业盐与国内宏观经济的波动有着较强的相关性。宏观经济的变化会直接或间接地影响电力需求、投资和技术发展方向，“两碱”等下游行业周期波动可能导致公司工业盐等产品需求减弱、价格下跌，从而可能对公司经营发展产生较大不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "新能源电站发电量需通过电网输送至用户，消纳能力取决于当地电网容量与负荷需求。目前云南新能源处于装机激增与系统调节能力不足的阶段性矛盾阶段，新能源项目投产后，由于接入送出系统建设滞后、送出基础条件的障碍、负荷需求等原因，在一定时期或特定时段可能存在电力市场消纳风险。",
+      "related_entity": null,
+      "related_product": "风电、光伏发电",
+      "quote": "（4）电力市场消纳风险 新能源电站发电量需通过电网输送至用户，消纳能力取决于当地电网容量与负荷需求。目前云南新能源处于装机激增与系统调节能力不足的阶段性矛盾阶段，新能源项目投产后，由于接入送出系统建设滞后、送出基础条件的障碍、负荷需求等原因，在一定时期或特定时段可能存在电力市场消纳风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "风电、光伏设备投资成本受市场供需等因素影响较大。如果公司未来采购设备的价格较可研报告测算价格上升，公司风电、光伏项目的投资成本将增加。项目建设过程中如果发生设计变更、施工范围增加、征占用地范围增加等不可控情形，将导致项目投资成本增加。同时，贷款利息也是项目投资成本的重要组成部分，如果未来融资成本上升，可能导致公司风电、光伏项目的投资成本增加。",
+      "related_entity": null,
+      "related_product": "风电、光伏发电",
+      "quote": "（5）项目建设风险 风电、光伏设备投资成本受市场供需等因素影响较大。如果公司未来采购设备的价格较可研报告测算价格上升，公司风电、光伏项目的投资成本将增加。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司新能源板块对风能及太阳能资源存在较大程度依赖，每年来风情况及太阳能辐照量存在一定不确定性，公司风电场及光伏电站生产运行效率及经营盈利情况存在一定程度波动风险。",
+      "related_entity": null,
+      "related_product": "风电、光伏发电",
+      "quote": "（6）气候条件变化风险 公司新能源板块对风能及太阳能资源存在较大程度依赖，每年来风情况及太阳能辐照量存在一定不确定性，公司风电场及光伏电站生产运行效率及经营盈利情况存在一定程度波动风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "风力发电企业如遇大风、凝冻、强沙尘暴、雾霾、雷击等自然灾害，风电场将会遭受重大影响，包括对风机设备、风场运营设施的破坏以及输电线路的损坏等。",
+      "related_entity": null,
+      "related_product": "风电",
+      "quote": "（7）重大自然灾害风险 风力发电企业如遇大风、凝冻、强沙尘暴、雾霾、雷击等自然灾害，风电场将会遭受重大影响，包括对风机设备、风场运营设施的破坏以及输电线路的损坏等。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司始终将安全环保工作置于可持续发展的核心地位...但在实际运营中，仍面临一定风险。随着我国环境保护力度的不断加大，未来可能出台更为严格的环保标准，提出更高的环保要求，可能导致公司需加大对环保方面资金、技术投入。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（8）安全环保风险 公司始终将安全环保工作置于可持续发展的核心地位...随着我国环境保护力度的不断加大，未来可能出台更为严格的环保标准，提出更高的环保要求，可能导致公司需加大对环保方面资金、技术投入。"
+    }
+  ]
+}

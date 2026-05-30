@@ -1,0 +1,582 @@
+{
+  "company_name_mentioned": "洛阳北方玻璃技术股份有限公司",
+  "produces": [
+    {
+      "name": "玻璃深加工设备",
+      "type": "device",
+      "revenue_proportion": "报告期，公司深加工玻璃设备产业实现营业收入10.06亿元，合计占营业收入比重为63.92%。",
+      "quote": "目前拥有产品品类300多种，按照大类划分为玻璃深加工设备及深加工玻璃产品。"
+    },
+    {
+      "name": "深加工玻璃产品",
+      "type": "material",
+      "revenue_proportion": "报告期，深加工玻璃产业实现营业收入5.68亿元，占营业收入比重为36.08%。",
+      "quote": "目前拥有产品品类300多种，按照大类划分为玻璃深加工设备及深加工玻璃产品。"
+    },
+    {
+      "name": "玻璃钢化设备",
+      "type": "device",
+      "revenue_proportion": "报告期，该业务实现营业收入5.83亿元，占营业收入比重为37.07%。",
+      "quote": "玻璃钢化机组，是公司支柱产业之一。报告期，该业务实现营业收入5.83亿元，占营业收入比重为37.07%。"
+    },
+    {
+      "name": "真空镀膜设备",
+      "type": "device",
+      "revenue_proportion": "报告期，该业务实现营业收入2.82亿元，占营业收入比重为17.92%。",
+      "quote": "真空镀膜设备，报告期，该业务实现营业收入2.82亿元，占营业收入比重为17.92%。"
+    },
+    {
+      "name": "三元流风机及相关设备",
+      "type": "device",
+      "revenue_proportion": "报告期，该业务实现营业收入8,317.56万元，占营业收入比重为5.29%。",
+      "quote": "三元流风机及相关设备， 报告期，该业务实现营业收入8,317.56万元，占营业收入比重为5.29%。"
+    },
+    {
+      "name": "玻璃深加工智能工厂系统化产品",
+      "type": "device",
+      "revenue_proportion": "报告期，该业务实现营业收入5,723.17万元，占营业收入比重为3.64%。",
+      "quote": "玻璃深加工智能工厂系统化产品（自动化连线及预处理相关设备），报告期，该业务实现营业收入5,723.17万元，占营业收入比重为3.64%。"
+    },
+    {
+      "name": "高温电窑装备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "高温电窑装备，该业务由公司控股子公司洛阳北玻高温电窑智能装备有限公司运作经营，于2026年1月完成工商登记手续，取得营业执照，报告期尚未发生业务。"
+    },
+    {
+      "name": "高端幕墙玻璃产品",
+      "type": "material",
+      "revenue_proportion": "报告期，高端幕墙玻璃，报告期，该业务实现营业收入4.96亿元。",
+      "quote": "高端幕墙玻璃，报告期，该业务实现营业收入4.96亿元。"
+    },
+    {
+      "name": "低辐射镀膜玻璃产品",
+      "type": "material",
+      "revenue_proportion": "报告期，低辐射镀膜玻璃，报告期，该业务实现营业收入0.30亿元",
+      "quote": "低辐射镀膜玻璃，报告期，该业务实现营业收入0.30亿元，受房地产行业竣工面积下滑影响，传统单工艺低辐射镀膜玻璃行业整体承压处于调整期"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所用原材料主要包括钢材、浮法玻璃原片等。"
+    },
+    {
+      "name": "浮法玻璃原片",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所用原材料主要包括钢材、浮法玻璃原片等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "建筑",
+      "source_product": "深加工玻璃产品、玻璃深加工设备",
+      "quote": "如：建筑物幕墙、门窗、室内装饰、家具、家电、光伏、汽车玻璃等。"
+    },
+    {
+      "name": "光伏",
+      "source_product": "玻璃深加工设备",
+      "quote": "如：建筑物幕墙、门窗、室内装饰、家具、家电、光伏、汽车玻璃等。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "玻璃深加工设备",
+      "quote": "如：建筑物幕墙、门窗、室内装饰、家具、家电、光伏、汽车玻璃等。"
+    },
+    {
+      "name": "家电",
+      "source_product": "玻璃深加工设备、深加工玻璃产品",
+      "quote": "如：建筑物幕墙、门窗、室内装饰、家具、家电、光伏、汽车玻璃等。"
+    },
+    {
+      "name": "家具",
+      "source_product": "玻璃深加工设备、深加工玻璃产品",
+      "quote": "如：建筑物幕墙、门窗、室内装饰、家具、家电、光伏、汽车玻璃等。"
+    },
+    {
+      "name": "冶金窑炉",
+      "source_product": "三元流风机",
+      "quote": "也被单独应用于冶金窑炉、涂装、造纸等行业专用风机，玻璃窑炉、耐火材料、水泥窑炉、电厂等行业鼓、引风机、非标风机，以及动车组高铁、道路清扫车等领域风机。"
+    },
+    {
+      "name": "涂装",
+      "source_product": "三元流风机",
+      "quote": "也被单独应用于冶金窑炉、涂装、造纸等行业专用风机，玻璃窑炉、耐火材料、水泥窑炉、电厂等行业鼓、引风机、非标风机，以及动车组高铁、道路清扫车等领域风机。"
+    },
+    {
+      "name": "造纸",
+      "source_product": "三元流风机",
+      "quote": "也被单独应用于冶金窑炉、涂装、造纸等行业专用风机，玻璃窑炉、耐火材料、水泥窑炉、电厂等行业鼓、引风机、非标风机，以及动车组高铁、道路清扫车等领域风机。"
+    },
+    {
+      "name": "动车组高铁",
+      "source_product": "三元流风机",
+      "quote": "也被单独应用于冶金窑炉、涂装、造纸等行业专用风机，玻璃窑炉、耐火材料、水泥窑炉、电厂等行业鼓、引风机、非标风机，以及动车组高铁、道路清扫车等领域风机。"
+    },
+    {
+      "name": "陶瓷等工业装备制造",
+      "source_product": "高温电窑装备",
+      "quote": "高温电窑产品聚焦建筑行业以外的陶瓷等工业装备制造领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "高学明",
+      "role": "董事长",
+      "quote": "公司负责人高学明、主管会计工作负责人夏冰及会计机构负责人（会计主管人员）夏冰声明"
+    },
+    {
+      "name": "高理",
+      "role": "副董事长、总经理",
+      "quote": "高 理，中国公民，男，1984年出生，中共党员，大学本科。现任本公司副董事长、总经理"
+    },
+    {
+      "name": "高琦",
+      "role": "副总经理",
+      "quote": "高 琦，中国公民，男，1965年出生...现任公司副总经理"
+    },
+    {
+      "name": "杨渊晰",
+      "role": "董事",
+      "quote": "杨渊晰，中国公民，男，1967年出生...现任本公司董事"
+    },
+    {
+      "name": "黄志刚",
+      "role": "独立董事",
+      "quote": "黄志刚，中国公民，男，1981年出生...现任公司和河南天马新材料股份有限公司独立董事。"
+    },
+    {
+      "name": "黄景涛",
+      "role": "独立董事",
+      "quote": "黄景涛，中国公民，男，1977年出生...现任公司独立董事。"
+    },
+    {
+      "name": "夏冰",
+      "role": "财务总监",
+      "quote": "夏 冰，中国公民，女，1967年出生...现任本公司财务总监。"
+    },
+    {
+      "name": "刘艳玲",
+      "role": "审计总监",
+      "quote": "刘艳玲，中国公民，女，1974年出生...现任公司审计总监。"
+    },
+    {
+      "name": "顿文博",
+      "role": "行政总监",
+      "quote": "顿文博，中国公民，男，1979年出生...现任公司行政总监、总裁助理"
+    },
+    {
+      "name": "王鑫",
+      "role": "董事会秘书",
+      "quote": "王 鑫，中国公民，女，1985年出生...现任公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "上海北玻玻璃技术工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "上海北玻 指 上海北玻玻璃技术工业有限公司"
+    },
+    {
+      "name": "洛阳北玻三元流风机技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "洛阳三元流或三元流风机 指 洛阳北玻三元流风机技术有限公司"
+    },
+    {
+      "name": "天津北玻玻璃工业技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津北玻 指 天津北玻玻璃工业技术有限公司"
+    },
+    {
+      "name": "上海北玻镀膜技术工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "上海镀膜或北玻镀膜 指 上海北玻镀膜技术工业有限公司"
+    },
+    {
+      "name": "上海北玻自动化技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "北玻自动化或上海自动化 指 上海北玻自动化技术有限公司"
+    },
+    {
+      "name": "洛阳北玻轻晶石技术有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司与控股股东、实际控制人及其他自然人共同投资",
+      "quote": "洛阳北玻轻晶石技术有限公司（曾用名：洛阳北玻高温电窑工业有限公司）"
+    },
+    {
+      "name": "洛阳北玻轻晶石新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "轻晶石新材料 指 洛阳北玻轻晶石新材料有限公司"
+    },
+    {
+      "name": "洛阳北玻硅巢装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "硅巢装备 指 洛阳北玻硅巢装备有限公司"
+    },
+    {
+      "name": "北京北玻硅巢技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "北京硅巢 指 北京北玻硅巢技术有限公司"
+    },
+    {
+      "name": "北京北玻幕墙技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "北京幕墙公司 指 北京北玻幕墙技术有限公司"
+    },
+    {
+      "name": "洛阳北玻高端装备产业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高端装备公司 指 洛阳北玻高端装备产业有限公司"
+    },
+    {
+      "name": "洛阳北玻高端玻璃产业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高端玻璃公司 指 洛阳北玻高端玻璃产业有限公司"
+    },
+    {
+      "name": "洛阳北玻技术装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "北玻装备公司 指 洛阳北玻技术装备有限公司"
+    },
+    {
+      "name": "上海北玻智能技术发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "上海智能 指 上海北玻智能技术发展有限公司"
+    },
+    {
+      "name": "上海北玻真空镀膜技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "真空镀膜 指 上海北玻真空镀膜技术有限公司"
+    },
+    {
+      "name": "洛阳北玻琉璃玻璃有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "琉璃玻璃 指 洛阳北玻琉璃玻璃有限公司"
+    },
+    {
+      "name": "洛阳北玻高温电窑智能装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司与洛阳北玻电窑技术合伙企业（有限合伙）共同投资设立控股子公司",
+      "quote": "高温电窑公司 指 洛阳北玻高温电窑智能装备有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "专用设备制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,005,691,244.16",
+      "revenue_proportion": "63.92%",
+      "gross_margin": "29.25%",
+      "yoy_change": "营业收入比上年同期增减 5.46%",
+      "quote": "分行业\n专用设备制造业 1,005,691,244.16 63.92%"
+    },
+    {
+      "name": "非金属建材业",
+      "segment_type": "business_unit",
+      "revenue_amount": "567,786,262.15",
+      "revenue_proportion": "36.08%",
+      "gross_margin": "22.65%",
+      "yoy_change": "营业收入比上年同期增减 -16.54%",
+      "quote": "非金属建材业 567,786,262.15 36.08%"
+    },
+    {
+      "name": "玻璃钢化设备",
+      "segment_type": "product_line",
+      "revenue_amount": "583,349,531.75",
+      "revenue_proportion": "37.07%",
+      "gross_margin": "30.36%",
+      "yoy_change": "营业收入比上年同期增减 -25.06%",
+      "quote": "分产品\n玻璃钢化设备 583,349,531.75 37.07%"
+    },
+    {
+      "name": "风机设备",
+      "segment_type": "product_line",
+      "revenue_amount": "83,175,596.02",
+      "revenue_proportion": "5.29%",
+      "gross_margin": "16.78%",
+      "yoy_change": "营业收入比上年同期增减 -7.46%",
+      "quote": "风机设备 83,175,596.02 5.29%"
+    },
+    {
+      "name": "玻璃仓储及自动化连线",
+      "segment_type": "product_line",
+      "revenue_amount": "50,764,747.92",
+      "revenue_proportion": "3.23%",
+      "gross_margin": "4.68%",
+      "yoy_change": "营业收入比上年同期增减 40.27%",
+      "quote": "玻璃仓储及自动化连线 50,764,747.92 3.23%"
+    },
+    {
+      "name": "深加工玻璃",
+      "segment_type": "product_line",
+      "revenue_amount": "525,540,548.22",
+      "revenue_proportion": "33.40%",
+      "gross_margin": "20.94%",
+      "yoy_change": "营业收入比上年同期增减 -18.60%",
+      "quote": "深加工玻璃 525,540,548.22 33.40%"
+    },
+    {
+      "name": "真空镀膜设备",
+      "segment_type": "product_line",
+      "revenue_amount": "281,934,396.31",
+      "revenue_proportion": "17.92%",
+      "gross_margin": "35.73%",
+      "yoy_change": "营业收入比上年同期增减 538.04%",
+      "quote": "真空镀膜设备 281,934,396.31 17.92%"
+    },
+    {
+      "name": "出口",
+      "segment_type": "region",
+      "revenue_amount": "768,649,000.12",
+      "revenue_proportion": "48.85%",
+      "gross_margin": "32.49%",
+      "yoy_change": "营业收入比上年同期增减 32.26%",
+      "quote": "出口 768,649,000.12 48.85%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "992,785,266.07",
+      "revenue_proportion": "63.09%",
+      "gross_margin": "22.74%",
+      "yoy_change": "营业收入比上年同期增减 -21.23%",
+      "quote": "分销售模式\n直销 992,785,266.07 63.09%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "玻璃钢化设备",
+      "metric_type": "sales_volume",
+      "value": "181",
+      "period": "2025年",
+      "quote": "销售量 台 181 230 -21.30%"
+    },
+    {
+      "product": "玻璃钢化设备",
+      "metric_type": "production_volume",
+      "value": "168",
+      "period": "2025年",
+      "quote": "生产量 台 168 232 -27.59%"
+    },
+    {
+      "product": "玻璃钢化设备",
+      "metric_type": "inventory_volume",
+      "value": "3",
+      "period": "2025年末",
+      "quote": "库存量 台 3 16 -81.25%"
+    },
+    {
+      "product": "风机设备",
+      "metric_type": "sales_volume",
+      "value": "3,690",
+      "period": "2025年",
+      "quote": "销售量 台 3,690 3,660 0.82%"
+    },
+    {
+      "product": "风机设备",
+      "metric_type": "production_volume",
+      "value": "3,693",
+      "period": "2025年",
+      "quote": "生产量 台 3,693 3,643 1.37%"
+    },
+    {
+      "product": "风机设备",
+      "metric_type": "inventory_volume",
+      "value": "4",
+      "period": "2025年末",
+      "quote": "库存量 台 4 1 300.00%"
+    },
+    {
+      "product": "玻璃仓储及自动化连线",
+      "metric_type": "sales_volume",
+      "value": "14",
+      "period": "2025年",
+      "quote": "销售量 台 14 5 180.00%"
+    },
+    {
+      "product": "玻璃仓储及自动化连线",
+      "metric_type": "production_volume",
+      "value": "14",
+      "period": "2025年",
+      "quote": "生产量 台 14 5 180.00%"
+    },
+    {
+      "product": "深加工玻璃",
+      "metric_type": "sales_volume",
+      "value": "1,467,615.18",
+      "period": "2025年",
+      "quote": "销售量 平方米 1,467,615.18 2,453,955.66 -40.19%"
+    },
+    {
+      "product": "深加工玻璃",
+      "metric_type": "production_volume",
+      "value": "1,531,506.82",
+      "period": "2025年",
+      "quote": "生产量 平方米 1,531,506.82 2,424,502.39 -36.83%"
+    },
+    {
+      "product": "深加工玻璃",
+      "metric_type": "inventory_volume",
+      "value": "381,104.22",
+      "period": "2025年末",
+      "quote": "库存量 平方米 381,104.22 317,212.58 20.14%"
+    },
+    {
+      "product": "真空镀膜设备",
+      "metric_type": "sales_volume",
+      "value": "6",
+      "period": "2025年",
+      "quote": "销售量 台 6 7 -14.29%"
+    },
+    {
+      "product": "真空镀膜设备",
+      "metric_type": "production_volume",
+      "value": "6",
+      "period": "2025年",
+      "quote": "生产量 台 6 7 -14.29%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能钢化装备及节能风机生产基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "34,367.92",
+      "designed_capacity": null,
+      "progress": "截至期末累计投入15,778.01万元，投资进度45.91%",
+      "expected_completion_time": "2026年11月30日",
+      "quote": "承诺投资项目\n1.智能钢化装备及节能风机生产基地建设项目 ... 截至期末累计投入 15,778.01 ... 45.91% ... 项目达到预定可使用状态日期 2026年11月30日"
+    },
+    {
+      "name": "高端幕墙玻璃生产基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "5,722.00",
+      "designed_capacity": null,
+      "progress": "投资进度100.00%",
+      "expected_completion_time": "2026年11月30日",
+      "quote": "2.高端幕墙玻璃生产基地建设项目 ... 截至期末累计投入 5,722.00 ... 100.00% ... 项目达到预定可使用状态日期 2026年11月30日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "9,942.80",
+      "designed_capacity": null,
+      "progress": "截至期末累计投入9,942.80万元，投资进度57.48%",
+      "expected_completion_time": "2027年11月30日",
+      "quote": "3.研发中心建设项目 ... 截至期末累计投入 9,942.80 ... 57.48% ... 项目达到预定可使用状态日期 2027年11月30日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "5,000.00",
+      "designed_capacity": null,
+      "progress": "投资进度100.14%",
+      "expected_completion_time": "2027年11月30日",
+      "quote": "4.补充流动资金 ... 截至期末累计投入 5,007.07 ... 100.14% ... 项目达到预定可使用状态日期 2027年11月30日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "拥有授权专利480项，其中发明专利117项、实用新型专利357项、外观设计专利6项",
+      "quote": "截至2025年12月31日，公司拥有授权专利480项，其中发明专利117项、实用新型专利357项、外观设计专利6项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "拥有软件著作权保护58项",
+      "quote": "同时拥有软件著作权保护58项。"
+    },
+    {
+      "name": "参与制定国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "参与编制钢化玻璃单位产品能耗测试方法、防火玻璃、钢化玻璃、夹层玻璃、绿色产品评价建筑玻璃、鼓风机能效限定值及能效等级等国家标准"
+    },
+    {
+      "name": "参与制定行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建筑玻璃安全技术要求、结构玻璃、钢化玻璃应力测量方法、玻璃釉料、玻璃弯曲测量方法激光扫描法、建筑平面玻璃平整度分级及验证方法、建筑门窗幕墙用钢化玻璃、建筑玻璃外观质量要求及评定、建筑用安全玻璃安全技术要求、工业通风机风机振动测量方法、节能高效离心通风机技术条件等多项行业标准和建材标准。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.95%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.95%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "31.06%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 31.06%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "我国玻璃深加工行业的市场化程度较高、市场相对分散...公司面临技术、价格、质量、服务和品牌等方面的竞争。若竞争对手实力增强，公司在市场竞争中不能及时全面地提高产品市场竞争力...公司将面临产品市场份额下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4）行业竞争加剧风险\n我国玻璃深加工行业的市场化程度较高、市场相对分散，随着国家“双碳”等各项战略性产业政策的实施，以及下游客户对于产品综合要求的不断提升，公司面临技术、价格、质量、服务和品牌等方面的竞争。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "钢材、浮法玻璃原片等原材料占公司生产成本的主要部分，其价格波动会对公司成本、定价、盈利水平等产生较大影响。若浮法玻璃原片、普通钢材等价格出现大幅上涨，可能导致原材料供应趋紧，将给公司经营业绩带来压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2）原材料价格波动的风险\n钢材、浮法玻璃原片等原材料占公司生产成本的主要部分，其价格波动会对公司成本、定价、盈利水平等产生较大影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司对外出口产品主要为玻璃深加工设备及产品，当前国际贸易争端的发展存在一定的不确定性，可能会导致相关国家贸易政策发生变化。若相关国家的国际贸易政策发生变化，可能会对公司的经营产生一定不利影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5）贸易政策及汇率的风险\n公司对外出口产品主要为玻璃深加工设备及产品，当前国际贸易争端的发展存在一定的不确定性，可能会导致相关国家贸易政策发生变化。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司境外销售主要使用外汇结算，若人民币汇率发生较大幅度的波动，而公司如不能采取有效的应对措施，可能会导致公司境外销售业务在外汇结算过程中面临汇率风险，进而影响公司盈利水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5）贸易政策及汇率的风险\n...公司境外销售主要使用外汇结算，若人民币汇率发生较大幅度的波动...可能会导致公司境外销售业务在外汇结算过程中面临汇率风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观环境波动风险：公司主营业务...下游领域主要包括建筑、光伏、汽车、家具、家电等行业，其市场需求与宏观经济发展、我国城镇化率以及固定资产投资的增长密切相关...如果出现宏观经济处于调整阶段的情形，会影响公司产品的市场需求，导致市场竞争加剧，公司经营将面临宏观经济周期波动带来的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1）宏观环境波动风险\n公司主营业务为玻璃深加工设备及产品，下游领域主要包括建筑、光伏、汽车、家具、家电等行业，其市场需求与宏观经济发展、我国城镇化率以及固定资产投资的增长密切相关"
+    }
+  ]
+}

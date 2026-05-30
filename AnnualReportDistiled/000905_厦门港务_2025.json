@@ -1,0 +1,498 @@
+{
+  "company_name_mentioned": "厦门港务发展股份有限公司",
+  "produces": [
+    {
+      "name": "散杂货码头装卸与堆存服务",
+      "type": "service",
+      "revenue_proportion": "4.16%",
+      "quote": "码头装卸与堆存 921,707,623.59 4.16%"
+    },
+    {
+      "name": "港口配套服务（含拖轮、船舶代理、理货、拖车、仓储、海运快件、跨境电商物流等）",
+      "type": "service",
+      "revenue_proportion": "5.74%",
+      "quote": "港口配套服务 1,269,475,250.78 5.74%"
+    },
+    {
+      "name": "综合供应链业务（港贸结合，包括煤炭、钢材、粮食、金属硅、浆纸等大宗商品贸易与服务）",
+      "type": "service",
+      "revenue_proportion": "89.61%",
+      "quote": "综合供应链业务 19,868,146,894.42 89.61%"
+    },
+    {
+      "name": "跨境电商物流服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "跨境电商监管中心共完成跨境电商4793.09万票，同比增长78.2%"
+    },
+    {
+      "name": "海铁联运服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "海铁联运业务量达14.4万标箱，同比增长19.2%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "大宗商品（钢材、煤炭、农产品、金属等）",
+      "target_product": "综合供应链业务（港口贸易）",
+      "cost_proportion": "91.46%（指港口贸易业务的营业成本构成中贸易销售成本占比）",
+      "quote": "港口贸易 贸易销售成本 19,592,483,654.63 91.46%"
+    },
+    {
+      "name": "燃料及动力",
+      "target_product": "港口物流业务",
+      "cost_proportion": "0.55%",
+      "quote": "港口物流 燃料及动力 118,455,962.17 0.55%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "港口物流与大宗商品贸易",
+      "source_product": "散杂货码头装卸与堆存服务、港口配套服务、综合供应链业务",
+      "quote": "公司主要从事散杂货码头装卸与堆存、港口配套服务和综合供应链三大业务"
+    },
+    {
+      "name": "能源与粮食供应链保障",
+      "source_product": "综合供应链业务",
+      "quote": "为保障地区能源安全、粮食安全贡献港口力量"
+    },
+    {
+      "name": "跨境电商与对台物流",
+      "source_product": "跨境电商物流服务、海运快件服务",
+      "quote": "打造对台物流快捷通道，并成功落地出口退货新模式"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈朝辉",
+      "role": "董事长",
+      "quote": "董事长 陈朝辉"
+    },
+    {
+      "name": "胡煜斌",
+      "role": "董事、总经理",
+      "quote": "胡煜斌先生：现任本公司党委书记、董事、总经理"
+    },
+    {
+      "name": "何碧茜",
+      "role": "财务总监",
+      "quote": "何碧茜女士：现任本公司财务总监"
+    },
+    {
+      "name": "蔡全胜",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 蔡全胜"
+    },
+    {
+      "name": "张勇峰",
+      "role": "独立董事",
+      "quote": "独立董事 张勇峰"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "厦门国际港务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，持有公司52.16%的股份",
+      "quote": "公司控股股东为厦门国际港务有限公司，持有公司52.16%的股份"
+    },
+    {
+      "name": "厦门港务控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "间接控股股东为厦门港务控股集团"
+    },
+    {
+      "name": "福建省港口集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东的母公司，实际控制人为福建省国资委",
+      "quote": "及其母公司福建省港口集团，实际控制人为福建省人民政府国有资产监督管理委员会"
+    },
+    {
+      "name": "厦门集装箱码头集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司通过发行股份及支付现金方式收购其70%股权",
+      "quote": "公司发行股份及支付现金收购厦门集装箱码头集团70%股权"
+    },
+    {
+      "name": "武汉宝钢华中贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "贸易业务前五大供应商之一",
+      "quote": "1 武汉宝钢华中贸易有限公司 2,148,403,702.65 10.20%"
+    },
+    {
+      "name": "河北华西特种钢铁有限公司",
+      "relation_type": "supplier",
+      "business_details": "贸易业务前五大供应商之一",
+      "quote": "3 河北华西特种钢铁有限公司 1,371,812,870.53 6.52%"
+    },
+    {
+      "name": "Bunge SA",
+      "relation_type": "supplier",
+      "business_details": "贸易业务前五大供应商之一",
+      "quote": "4 Bunge SA 1,067,094,108.12 5.07%"
+    },
+    {
+      "name": "三禾农产品(厦门)有限公司",
+      "relation_type": "customer",
+      "business_details": "贸易业务前五大客户之一",
+      "quote": "1 三禾农产品(厦门)有限公司 1,809,627,478.53"
+    },
+    {
+      "name": "双胞胎(集团)股份有限公司",
+      "relation_type": "customer",
+      "business_details": "贸易业务前五大客户之一",
+      "quote": "5 双胞胎(集团)股份有限公司 738,681,540.82 3.34%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "港口物流",
+      "segment_type": "product_line",
+      "revenue_amount": "2,245,896,231.47元",
+      "revenue_proportion": "10.14%",
+      "gross_margin": "18.63%",
+      "yoy_change": "营业收入比上年同期增减 2.02%",
+      "quote": "港口物流 2,245,896,231.47 10.14%"
+    },
+    {
+      "name": "港口贸易",
+      "segment_type": "product_line",
+      "revenue_amount": "19,846,967,142.08元",
+      "revenue_proportion": "89.62%",
+      "gross_margin": "0.89%",
+      "yoy_change": "营业收入比上年同期增减 -3.93%",
+      "quote": "港口贸易 19,846,967,142.08 89.62%"
+    },
+    {
+      "name": "码头装卸与堆存",
+      "segment_type": "product_line",
+      "revenue_amount": "984,563,756.15元",
+      "revenue_proportion": "4.45%",
+      "gross_margin": "17.00%",
+      "yoy_change": "营业收入比上年同期增减 -0.17%",
+      "quote": "码头装卸与堆存 984,563,756.15 4.45%"
+    },
+    {
+      "name": "港口配套服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,261,332,475.32元",
+      "revenue_proportion": "5.70%",
+      "gross_margin": "19.90%",
+      "yoy_change": "营业收入比上年同期增减 3.80%",
+      "quote": "港口配套服务 1,261,332,475.32 5.70%"
+    },
+    {
+      "name": "综合供应链业务",
+      "segment_type": "product_line",
+      "revenue_amount": "19,846,967,142.08元",
+      "revenue_proportion": "89.61%",
+      "gross_margin": "0.89%",
+      "yoy_change": "营业收入比上年同期增减 -3.93%",
+      "quote": "综合供应链业务 19,846,967,142.08 89.61%"
+    },
+    {
+      "name": "中国境内",
+      "segment_type": "region",
+      "revenue_amount": "20,332,848,527.32元",
+      "revenue_proportion": "91.81%",
+      "gross_margin": "3.06%",
+      "yoy_change": "营业收入比上年同期增减 -6.93%",
+      "quote": "中国境内 20,332,848,527.32 91.81%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "散杂货",
+      "metric_type": "production_volume",
+      "value": "4103.31万吨",
+      "period": "报告期内",
+      "quote": "本公司全年完成货物吞吐量4103.31万吨，同比增长7.14%"
+    },
+    {
+      "product": "船舶代理",
+      "metric_type": "sales_volume",
+      "value": "10932艘次",
+      "period": "报告期内",
+      "quote": "公司船舶代理10932艘次，同比增长7.11%"
+    },
+    {
+      "product": "集装箱理货",
+      "metric_type": "production_volume",
+      "value": "941.81万标箱",
+      "period": "报告期内",
+      "quote": "公司完成集装箱理货941.81万标箱，同比下降2.42%"
+    },
+    {
+      "product": "件杂货理货",
+      "metric_type": "production_volume",
+      "value": "152.33万吨",
+      "period": "报告期内",
+      "quote": "完成件杂货理货152.33万吨，同比下降22.43%"
+    },
+    {
+      "product": "平面运输",
+      "metric_type": "production_volume",
+      "value": "765万标箱",
+      "period": "报告期内",
+      "quote": "公司完成平面运输箱量765万标箱，同比下降0.67%"
+    },
+    {
+      "product": "海铁联运",
+      "metric_type": "production_volume",
+      "value": "14.4万标箱",
+      "period": "报告期内",
+      "quote": "公司海铁联运业务量达14.4万标箱，同比增长19.2%"
+    },
+    {
+      "product": "台海快件",
+      "metric_type": "production_volume",
+      "value": "4.08万标箱",
+      "period": "报告期内",
+      "quote": "公司累计操作台海快件重箱4.08万标箱，同比增长35.2%"
+    },
+    {
+      "product": "集装箱（空箱）",
+      "metric_type": "production_volume",
+      "value": "49.77万标箱",
+      "period": "报告期内",
+      "quote": "报告期内完成空箱操作49.77万标箱，同比增长6.34%"
+    },
+    {
+      "product": "集装箱（重箱）",
+      "metric_type": "production_volume",
+      "value": "15.76万标箱",
+      "period": "报告期内",
+      "quote": "重箱业务完成15.76万标箱，同比增长10.84%"
+    },
+    {
+      "product": "跨境电商",
+      "metric_type": "production_volume",
+      "value": "4793.09万票",
+      "period": "报告期内",
+      "quote": "公司跨境电商监管中心共完成跨境电商4793.09万票，同比增长78.2%"
+    },
+    {
+      "product": "岸电",
+      "metric_type": "production_volume",
+      "value": "163.44万度",
+      "period": "报告期内",
+      "quote": "报告期内岸电使用163.44万度，同比增长10.73%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "古雷港区北1—2#泊位工程",
+      "project_type": "construction_project",
+      "location": "厦门港古雷港区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "顺利通过对外开放省级验收并完成首艘外贸煤炭船舶接卸任务，临时增加散货运输功能项目完成竣工验收并投产",
+      "expected_completion_time": null,
+      "quote": "古雷港区北1—2#泊位工程顺利通过对外开放省级验收并完成首艘外贸煤炭船舶接卸任务，临时增加散货运输功能项目完成竣工验收并投产"
+    },
+    {
+      "name": "海沧港区7#泊位码头密闭罩棚项目",
+      "project_type": "construction_project",
+      "location": "厦门港海沧港区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "开工建设",
+      "expected_completion_time": null,
+      "quote": "海沧港区7#泊位码头密闭罩棚项目开工建设"
+    },
+    {
+      "name": "纯电动拖轮项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "4艘纯电拖轮",
+      "progress": "正式交付，构建国内规模最大的新能源拖轮船队",
+      "expected_completion_time": null,
+      "quote": "港务船务投资建造的4艘纯电拖轮正式交付，构建国内规模最大的新能源拖轮船队"
+    },
+    {
+      "name": "新能源拖车项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "40台码头专用纯电动牵引设备",
+      "progress": "已于2025年7月到港并正式投入运营",
+      "expected_completion_time": null,
+      "quote": "港务运输40台码头专用纯电动牵引设备已于2025年7月到港并正式投入运营"
+    },
+    {
+      "name": "厦门港多式联运智慧物流中心项目",
+      "project_type": "construction_project",
+      "location": "厦门",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快建设中",
+      "expected_completion_time": null,
+      "quote": "加快建设厦门港多式联运智慧物流中心项目"
+    },
+    {
+      "name": "厦门港翔安港区1-5#集装箱泊位工程项目",
+      "project_type": "construction_project",
+      "location": "厦门港翔安港区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "实现全面开工",
+      "expected_completion_time": null,
+      "quote": "实现翔安港区1-5#集装箱泊位工程项目全面开工"
+    },
+    {
+      "name": "海沧港区20-21#泊位6#粮食仓库工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "涉及福建省重点建设项目厦门港古雷港区北1-2#泊位工程、古雷作业区北1-2#泊位海安项目工程、海沧港区20-21#泊位6#粮食仓库工程、购置新能源拖轮等建设项目"
+    },
+    {
+      "name": "发行股份及支付现金购买厦门集装箱码头集团70%股权项目",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "获得中国证监会注册批复，于近期完成标的股权交割",
+      "expected_completion_time": null,
+      "quote": "公司发行股份及支付现金收购厦门集装箱码头集团70%股权并募集配套资金事项获得中国证券监督管理委员会注册批复，并于近期完成股权交割"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家5A级物流企业资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是国家5A级物流企业、国家5A级供应链服务企业"
+    },
+    {
+      "name": "3A主体长期信用等级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司成功获评3A主体长期信用等级"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "3项",
+      "quote": "2025年公司新增获得3项发明专利、9项软件著作权"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "9项",
+      "quote": "2025年公司新增获得3项发明专利、9项软件著作权"
+    },
+    {
+      "name": "5G技术应用（远控装载机、5G理货平台）",
+      "asset_type": "core_technology",
+      "related_product": "石湖山码头、厦门外理",
+      "quantitative_info": null,
+      "quote": "石湖山码头完成5G基站建设并应用远控装载机作业；厦门外理5G理货平台获厦门5G应用大赛二等奖"
+    },
+    {
+      "name": "绿色智能拖轮关键技术",
+      "asset_type": "core_technology",
+      "related_product": "港务船务",
+      "quantitative_info": null,
+      "quote": "港务船务绿色智能拖轮科研项目通过省级验收"
+    },
+    {
+      "name": "粮食筒仓液压智能螺旋清仓机改造技术",
+      "asset_type": "process_technology",
+      "related_product": "海隆码头",
+      "quantitative_info": null,
+      "quote": "海隆码头“粮食筒仓液压智能螺旋清仓机改造”项目获评中国港口协会“平安港口”创新案例"
+    },
+    {
+      "name": "多式联运一单制服务地方标准",
+      "asset_type": "standard",
+      "related_product": "厦门外代国运",
+      "quantitative_info": "全国首个",
+      "quote": "厦门外代国运作为试点企业参与全国首个多式联运一单制服务地方标准的编制工作"
+    },
+    {
+      "name": "ISO140001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": "海隆码头",
+      "quantitative_info": null,
+      "quote": "海隆码头取得ISO140001环境管理体系认证证书"
+    },
+    {
+      "name": "船代AI客服系统",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "船代AI客服系统项目 已完成"
+    },
+    {
+      "name": "RPA自动化系统",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "RPA自动化系统项目 已完成"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "26.34%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 26.34%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "33.24%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 33.24%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "厦门港码头经营主体较多，市场竞争相对充分，与港内其他码头在集装箱、粮食、荒石等货种上有所竞争，同时厦门港面临长三角、珠三角以及海峡东岸港口的竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "厦门港码头经营主体较多，市场竞争相对充分，与港内其他码头在集装箱、粮食、荒石等货种上有所竞争，同时厦门港面临长三角、珠三角以及海峡东岸港口的竞争。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "国际经济形势的变化可能导致大宗商品价格、外汇等大幅波动，进而对港口贸易业务的客户需求、产品价格、备货成本等产生一定影响。",
+      "related_entity": null,
+      "related_product": "综合供应链业务",
+      "quote": "国际经济形势的变化可能导致大宗商品价格、外汇等大幅波动，进而对港口贸易业务的客户需求、产品价格、备货成本等产生一定影响，甚至可能导致风险事件。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "全球经济仍然存在较多不确定性，地缘政治冲突、贸易保护主义、关税摩擦、供应链短链化等因素对全球经济格局造成了深远影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2026年，全球经济仍然存在较多不确定性，地缘政治冲突、贸易保护主义、关税摩擦、供应链短链化等因素对全球经济格局造成了深远影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才储备不足。复合背景型人才、新兴领域高端人才、管理人才特别是中层管理人员、年轻干部、市场营销与专业技术等人才储备不够。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才储备不足。复合背景型人才、新兴领域高端人才、管理人才特别是中层管理人员、年轻干部、市场营销与专业技术等人才储备不够"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "新投产码头在经营前期压力较大。码头作为重要的基础设施，投资大，回收期长。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "码头作为重要的基础设施，投资大，回收期长，新投产码头在经营前期压力较大。"
+    }
+  ]
+}

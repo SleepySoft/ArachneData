@@ -1,0 +1,542 @@
+{
+  "company_name_mentioned": "湖南华菱线缆股份有限公司",
+  "produces": [
+    {
+      "name": "特种电缆",
+      "type": "device",
+      "revenue_proportion": "52.58%",
+      "quote": "公司主要从事电线电缆的研发、生产及销售，是国内领先的特种专用电缆生产企业之一，主要产品包括特种电缆、电力电缆、电气装备用电缆、裸导线及线束等...分产品：特种电缆 2,369,716,735.35 52.58%"
+    },
+    {
+      "name": "电力电缆",
+      "type": "device",
+      "revenue_proportion": "37.68%",
+      "quote": "公司主要产品包括特种电缆、电力电缆、电气装备用电缆、裸导线及线束等...分产品：电力电缆 1,698,121,488.24 37.68%"
+    },
+    {
+      "name": "电气装备用电缆",
+      "type": "device",
+      "revenue_proportion": "8.22%",
+      "quote": "公司主要产品包括特种电缆、电力电缆、电气装备用电缆、裸导线及线束等...分产品：电气装备用电缆 370,772,861.83 8.22%"
+    },
+    {
+      "name": "裸导线",
+      "type": "component",
+      "revenue_proportion": "0.15%",
+      "quote": "公司主要产品包括特种电缆、电力电缆、电气装备用电缆、裸导线及线束等...分产品：裸导线 6,857,066.87 0.15%"
+    },
+    {
+      "name": "线束",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司主要产品包括特种电缆、电力电缆、电气装备用电缆、裸导线及线束等。"
+    },
+    {
+      "name": "连接器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "2025年12月，公司并购项目实现突破，成功收购三竹科技...将加速公司切入机器人、高频传输等业务领域...推动公司由单一线缆供应商向‘线缆+连接器’系统解决方案提供商转型升级。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜",
+      "target_product": "电线电缆",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为铜、铝，其占产品成本的比重较大，属于典型的‘料重工轻’。"
+    },
+    {
+      "name": "铝",
+      "target_product": "电线电缆",
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为铜、铝，其占产品成本的比重较大，属于典型的‘料重工轻’。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空航天及融合装备",
+      "source_product": "特种电缆（航空航天及融合装备用电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "数据通信",
+      "source_product": "特种电缆（数据通信电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "机器人",
+      "source_product": "特种电缆（机器人电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "特种电缆（轨道交通电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "冶金矿山",
+      "source_product": "特种电缆（矿山、新能源专用耐候型特软电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "新能源（风电、光伏、储能）",
+      "source_product": "特种电缆（风机电缆、光伏电缆、储能电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "海洋工程",
+      "source_product": "特种电缆（海洋工程柔性缆、船用电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "工程装备（盾构机、港口机械、起重机）",
+      "source_product": "特种电缆（特种工程装备电缆、卷筒电缆）",
+      "quote": "为航空航天及融合装备、数据通信、机器人、轨道交通、冶金矿山、新能源、海洋工程及工程装备等领域提供专业化、高品质的特种电缆产品。"
+    },
+    {
+      "name": "电力系统（输配电）",
+      "source_product": "电力电缆",
+      "quote": "电力电缆指在电力系统的主干线路中用以传输和分配大功率电能的电缆产品。"
+    },
+    {
+      "name": "电气装备（电器仪表、配电装置）",
+      "source_product": "电气装备用电缆",
+      "quote": "电气装备用电缆是指从电力系统的配电点把电能直接传送到各种用电设备的电源连接线路用线缆、电气安装线和控制信号用线缆。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "熊硕",
+      "role": "董事、总经理",
+      "quote": "公司负责人熊硕、主管会计工作负责人李牡丹及会计机构负责人（会计主管人员）张艳声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "李牡丹",
+      "role": "董事会秘书、副总经理、财务总监",
+      "quote": "董事会秘书 李牡丹 凌冰洁"
+    },
+    {
+      "name": "张志钢",
+      "role": "董事长",
+      "quote": "张志钢先生：湖南大学工商管理硕士，高级经济师，现任公司董事长、湘钢集团党委副书记（正职）。"
+    },
+    {
+      "name": "陈柏元",
+      "role": "党委书记（正职）、副总经理",
+      "quote": "陈柏元先生：武汉钢铁学院计算机软件专业，本科学历，工程师，现任公司党委书记（正职），副总经理。"
+    },
+    {
+      "name": "胡湘华",
+      "role": "副总经理",
+      "quote": "胡湘华先生：湘潭大学工商管理专业，本科学历，高级工程师，现任公司副总经理。"
+    },
+    {
+      "name": "王振金",
+      "role": "副总经理",
+      "quote": "王振金先生：湖南科技大学应用化学专业，本科学历，高级工程师，现任公司副总经理。"
+    },
+    {
+      "name": "唐国强",
+      "role": "副总经理",
+      "quote": "唐国强先生：电子信息工程专业，本科学历，高级工程师，现任公司副总经理。"
+    },
+    {
+      "name": "刘正",
+      "role": "常务副总经理",
+      "quote": "刘正先生：武汉科技大学机械工程专业，研究生学历，现任公司常务副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "湘潭钢铁集团有限公司（湘钢集团）",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "2023年9月，公司控股股东由湘钢资产变更为湘钢集团，实际控制人仍为湖南省国资委。"
+    },
+    {
+      "name": "湖南钢铁集团有限公司（湖南钢铁集团）",
+      "relation_type": "investor",
+      "business_details": "最终控股股东",
+      "quote": "实际控制人仍为湖南省国资委。湖南钢铁集团有限公司，曾用名‘湖南华菱钢铁集团有限责任公司’。"
+    },
+    {
+      "name": "安徽三竹智能科技有限公司（三竹科技）",
+      "relation_type": "subsidiary",
+      "business_details": "2025年12月，公司成功收购三竹科技，成为其控股股东。",
+      "quote": "2025年12月，公司并购项目实现突破，成功收购三竹科技。"
+    },
+    {
+      "name": "中信证券股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司聘请的报告期内履行持续督导职责的保荐机构。",
+      "quote": "公司聘请的报告期内履行持续督导职责的保荐机构...中信证券股份有限公司"
+    },
+    {
+      "name": "中审众环会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "公司聘请的会计师事务所。",
+      "quote": "公司聘请的会计师事务所...中审众环会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电线电缆行业",
+      "segment_type": "product_line",
+      "revenue_amount": "4,451,180,012.31",
+      "revenue_proportion": "98.76%",
+      "gross_margin": "10.94%",
+      "yoy_change": "9.27%",
+      "quote": "分行业：电线电缆行业 4,451,180,012.31 98.76%...电线电缆行业 4,451,180,012.31 3,964,354,254.90 10.94% 9.27%"
+    },
+    {
+      "name": "其他行业",
+      "segment_type": "product_line",
+      "revenue_amount": "55,788,400.92",
+      "revenue_proportion": "1.24%",
+      "gross_margin": null,
+      "yoy_change": "-33.93%",
+      "quote": "分行业：其他行业 55,788,400.92 1.24%"
+    },
+    {
+      "name": "特种电缆",
+      "segment_type": "product_line",
+      "revenue_amount": "2,369,716,735.35",
+      "revenue_proportion": "52.58%",
+      "gross_margin": "12.60%",
+      "yoy_change": "10.96%",
+      "quote": "分产品：特种电缆 2,369,716,735.35 52.58%...特种电缆 2,369,716,735.35 2,071,131,668.93 12.60% 10.96%"
+    },
+    {
+      "name": "电力电缆",
+      "segment_type": "product_line",
+      "revenue_amount": "1,698,121,488.24",
+      "revenue_proportion": "37.68%",
+      "gross_margin": "9.23%",
+      "yoy_change": "7.52%",
+      "quote": "分产品：电力电缆 1,698,121,488.24 37.68%...电力电缆 1,698,121,488.24 1,541,399,393.07 9.23% 7.52%"
+    },
+    {
+      "name": "电气装备用电缆",
+      "segment_type": "product_line",
+      "revenue_amount": "370,772,861.83",
+      "revenue_proportion": "8.22%",
+      "gross_margin": null,
+      "yoy_change": "9.90%",
+      "quote": "分产品：电气装备用电缆 370,772,861.83 8.22%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "1,668,760,939.33",
+      "revenue_proportion": "37.03%",
+      "gross_margin": "10.08%",
+      "yoy_change": "13.58%",
+      "quote": "分地区：华中地区 1,668,760,939.33 37.03%...华中地区 1,668,760,939.33 1,500,532,940.48 10.08% 13.58%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "689,961,322.22",
+      "revenue_proportion": "15.31%",
+      "gross_margin": "11.52%",
+      "yoy_change": "84.34%",
+      "quote": "分地区：华东地区 689,961,322.22 15.31%...华东地区 689,961,322.22 610,510,846.05 11.52% 84.34%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "687,398,351.51",
+      "revenue_proportion": "15.25%",
+      "gross_margin": "15.88%",
+      "yoy_change": "-16.54%",
+      "quote": "分地区：华北地区 687,398,351.51 15.25%...华北地区 687,398,351.51 578,238,095.16 15.88% -16.54%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "443,654,868.55",
+      "revenue_proportion": "9.84%",
+      "gross_margin": "12.05%",
+      "yoy_change": "-27.80%",
+      "quote": "分地区：西南地区 443,654,868.55 9.84%...西南地区 443,654,868.55 390,210,498.14 12.05% -27.80%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "393,394,996.68",
+      "revenue_proportion": "8.73%",
+      "gross_margin": null,
+      "yoy_change": "60.67%",
+      "quote": "分地区：西北地区 393,394,996.68 8.73%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "531,483,903.03",
+      "revenue_proportion": "11.79%",
+      "gross_margin": "8.05%",
+      "yoy_change": "-9.63%",
+      "quote": "分地区：华南地区 531,483,903.03 11.79%...华南地区 531,483,903.03 488,718,769.27 8.05% -9.63%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "92,314,031.91",
+      "revenue_proportion": "2.05%",
+      "gross_margin": null,
+      "yoy_change": "113.41%",
+      "quote": "分地区：东北地区 92,314,031.91 2.05%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电线电缆",
+      "metric_type": "sales_volume",
+      "value": "211,467.03",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电缆行业-电线电缆 销售量 千米 211,467.03"
+    },
+    {
+      "product": "电线电缆",
+      "metric_type": "production_volume",
+      "value": "219,952.54",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电缆行业-电线电缆 生产量 千米 219,952.54"
+    },
+    {
+      "product": "电线电缆",
+      "metric_type": "inventory_volume",
+      "value": "32,889.34",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电缆行业-电线电缆 库存量 千米 32,889.34"
+    },
+    {
+      "product": "裸导线",
+      "metric_type": "sales_volume",
+      "value": "265.69",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电缆行业-裸导线 销售量 吨 265.69"
+    },
+    {
+      "product": "裸导线",
+      "metric_type": "production_volume",
+      "value": "265.89",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电缆行业-裸导线 生产量 吨 265.89"
+    },
+    {
+      "product": "其他（线束等）",
+      "metric_type": "sales_volume",
+      "value": "21,410.50",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电缆行业-其他 销售量 套 21,410.50"
+    },
+    {
+      "product": "其他（线束等）",
+      "metric_type": "production_volume",
+      "value": "23,444.78",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电缆行业-其他 生产量 套 23,444.78"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "航空航天、武器装备用特种线缆及组件技术升级改造",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "9,390.78",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2023年12月31日",
+      "quote": "航空航天、武器装备用特种线缆及组件技术升级改造...投资金额 9,390.78...项目达到预定可使用状态日期 2023年12月31日...是 达到预计效益"
+    },
+    {
+      "name": "矿山及高端装备用特种柔性复合电缆技术升级改造",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "12,279.32",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2024年12月31日",
+      "quote": "矿山及高端装备用特种柔性复合电缆技术升级改造...投资金额 12,279.32...项目达到预定可使用状态日期 2024年12月31日...是 达到预计效益"
+    },
+    {
+      "name": "轨道交通用中低压电力及特种信号传输电缆技术升级改造",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "12,058.44",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2024年08月31日",
+      "quote": "轨道交通用中低压电力及特种信号传输电缆技术升级改造...投资金额 12,058.44...项目达到预定可使用状态日期 2024年08月31日...否 未达到预计效益"
+    },
+    {
+      "name": "华菱线缆企业技术中心创新能力建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "5,000",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2025年06月30日",
+      "quote": "华菱线缆企业技术中心创新能力建设项目...投资金额 5,000...项目达到预定可使用状态日期 2025年06月30日...不适用"
+    },
+    {
+      "name": "新能源及电力用电缆生产建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "30,369.46",
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2027年09月30日",
+      "quote": "新能源及电力用电缆生产建设项目...投资金额 30,369.46...项目达到预定可使用状态日期 2027年09月30日...不适用"
+    },
+    {
+      "name": "高端装备用高柔性特种电缆生产建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "24,290",
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2027年09月30日",
+      "quote": "高端装备用高柔性特种电缆生产建设项目...投资金额 24,290...项目达到预定可使用状态日期 2027年09月30日...不适用"
+    },
+    {
+      "name": "高端装备器件用综合线束及组件生产建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "15,450",
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2027年09月30日",
+      "quote": "高端装备器件用综合线束及组件生产建设项目...投资金额 15,450...项目达到预定可使用状态日期 2027年09月30日...不适用"
+    },
+    {
+      "name": "数智化升级及综合能力提升建设项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "15,000",
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2026年09月30日",
+      "quote": "数智化升级及综合能力提升建设项目...投资金额 15,000...项目达到预定可使用状态日期 2026年09月30日...不适用"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "参与国家标准、军用标准、行业标准编制",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "80余项",
+      "quote": "公司累计参与了80余项国家、军用、行业标准、宇航规范及团体标准的编制。"
+    },
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "389项（其中发明专利71项）",
+      "quote": "截至2025年12月31日，公司拥有已授权的有效专利共389项（其中发明专利71项）。"
+    },
+    {
+      "name": "国家高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是‘国家高新技术企业’、‘国家级创新型试点企业’。"
+    },
+    {
+      "name": "装备承制单位注册证书",
+      "asset_type": "certification",
+      "related_product": "军品",
+      "quantitative_info": null,
+      "quote": "获得了《中国国家强制性产品认证证书》、《装备承制单位注册证书》、《矿用产品安全标志证书》、《中国船级社工厂认可证书》。"
+    },
+    {
+      "name": "矿用产品安全标志证书",
+      "asset_type": "certification",
+      "related_product": "矿用电缆",
+      "quantitative_info": null,
+      "quote": "获得了《中国国家强制性产品认证证书》、《装备承制单位注册证书》、《矿用产品安全标志证书》、《中国船级社工厂认可证书》。"
+    },
+    {
+      "name": "中国船级社工厂认可证书",
+      "asset_type": "certification",
+      "related_product": "船用电缆",
+      "quantitative_info": null,
+      "quote": "获得了《中国国家强制性产品认证证书》、《装备承制单位注册证书》、《矿用产品安全标志证书》、《中国船级社工厂认可证书》。"
+    },
+    {
+      "name": "TUV产品认证",
+      "asset_type": "certification",
+      "related_product": "储能电缆、海上光伏电缆",
+      "quantitative_info": null,
+      "quote": "储能电缆和海上光伏电缆完成TUV认证。"
+    },
+    {
+      "name": "CNAS实验室认可",
+      "asset_type": "certification",
+      "related_product": "检测中心",
+      "quantitative_info": null,
+      "quote": "公司检测中心顺利通过中国合格评定国家认可委员会（CNAS）评审，获得实验室认可证书。"
+    },
+    {
+      "name": "省级工业互联网平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年1月，公司基于云边端柔性生产制造+移动5G工业互联网平台入选第六批省级工业互联网平台。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "30.75%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,368,631,306.01 前五名客户合计销售金额占年度销售总额比例 30.75%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "8.92%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 396,976,666.26 8.92%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.66%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,739,556,884.40 前五名供应商合计采购金额占年度采购总额比例 42.66%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "10.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 426,450,371.87 10.46%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品的主要原材料为铜、铝，其占产品成本的比重较大，属于典型的‘料重工轻’。为应对铜材、铝材价格出现的波动...最大限度地降低了主要原材料波动风险。",
+      "related_entity": null,
+      "related_product": "电线电缆",
+      "quote": "2、原材料价格波动风险 公司产品的主要原材料为铜、铝，其占产品成本的比重较大，属于典型的‘料重工轻’。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内大多数电线电缆企业主要生产中低端产品，导致中低端电线电缆产能过剩，产品严重同质化，市场竞争激烈。若不能随着市场需求及时优化产品结构、实现原有产品的改造升级，公司将面临较大的市场竞争风险。",
+      "related_entity": null,
+      "related_product": "电线电缆",
+      "quote": "3、市场竞争风险 国内大多数电线电缆企业主要生产中低端产品，导致中低端电线电缆产能过剩，产品严重同质化，市场竞争激烈。"
+    },
+    {
+      "risk_type": "other",
+      "description": "我国宏观经济政策的变化及世界范围内经济形势的波动，下游相关行业市场景气度的周期性波动，决定了企业的发展机遇和投资情况，并在很大程度上影响企业的经营与业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济环境变化风险 我国宏观经济政策的变化及世界范围内经济形势的波动，下游相关行业市场景气度的周期性波动，决定了企业的发展机遇和投资情况，并在很大程度上影响企业的经营与业绩。"
+    }
+  ]
+}

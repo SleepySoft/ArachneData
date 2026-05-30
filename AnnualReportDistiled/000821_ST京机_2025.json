@@ -1,0 +1,546 @@
+{
+  "company_name_mentioned": "湖北京山轻工机械股份有限公司",
+  "produces": [
+    {
+      "name": "光伏组件自动化生产线整体解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "光伏装备业务、包装装备业务和锂电池装备业务为公司核心主业板块，光伏板块对应的业务主体为全资子公司晟成光伏，包装板块对应的业务主体为上市公司母公司，锂电池装备板块对应业务主体为全资子公司三协精密。"
+    },
+    {
+      "name": "包装设备（智能瓦线、柔性印刷机、数码印刷机等）",
+      "type": "device",
+      "revenue_proportion": "13.67%",
+      "quote": "包装设备 970,549,873.82 13.67%"
+    },
+    {
+      "name": "锂电设备（电芯装配段、检测段、模组Pack段等）",
+      "type": "device",
+      "revenue_proportion": "12.18%",
+      "quote": "锂电设备 864,619,655.54 12.18%"
+    },
+    {
+      "name": "铸造产品",
+      "type": "component",
+      "revenue_proportion": "5.90%",
+      "quote": "铸造产品 418,645,861.98 5.90%"
+    },
+    {
+      "name": "光伏设备",
+      "type": "device",
+      "revenue_proportion": "64.15%",
+      "quote": "光伏设备 4,553,088,453.40 64.15%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、零部件等",
+      "target_product": null,
+      "cost_proportion": "14.61%",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 14.61%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "光伏制造",
+      "source_product": "光伏装备",
+      "quote": "产品主要应用于光伏、瓦楞包装及锂电池制造等多个行业和领域"
+    },
+    {
+      "name": "瓦楞纸包装制造",
+      "source_product": "包装装备",
+      "quote": "产品主要应用于光伏、瓦楞包装及锂电池制造等多个行业和领域"
+    },
+    {
+      "name": "锂电池制造",
+      "source_product": "锂电装备",
+      "quote": "产品主要应用于光伏、瓦楞包装及锂电池制造等多个行业和领域"
+    },
+    {
+      "name": "汽车零部件",
+      "source_product": "铸造产品",
+      "quote": "公司也从事汽车零部件铸造等其他业务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李健",
+      "role": "董事长、总裁",
+      "quote": "公司负责人李健、主管会计工作负责人曾涛及会计机构负责人（会计主管人员）曾国华声明"
+    },
+    {
+      "name": "祖国良",
+      "role": "董事、高级副总裁",
+      "quote": "祖国良先生，董事、高级副总裁"
+    },
+    {
+      "name": "方伟",
+      "role": "董事",
+      "quote": "方伟先生，董事"
+    },
+    {
+      "name": "周家敏",
+      "role": "董事、副总裁、董事会秘书",
+      "quote": "周家敏先生，董事、副总裁、董事会秘书"
+    },
+    {
+      "name": "谭力文",
+      "role": "独立董事",
+      "quote": "谭力文先生，独立董事"
+    },
+    {
+      "name": "刘林青",
+      "role": "独立董事",
+      "quote": "刘林青先生，独立董事"
+    },
+    {
+      "name": "谈多娇",
+      "role": "独立董事",
+      "quote": "谈多娇女士，独立董事"
+    },
+    {
+      "name": "徐全军",
+      "role": "副总裁",
+      "quote": "徐全军先生，副总裁"
+    },
+    {
+      "name": "曾涛",
+      "role": "副总裁",
+      "quote": "曾涛女士，副总裁"
+    },
+    {
+      "name": "刘媛烨",
+      "role": "副总裁",
+      "quote": "刘媛烨女士，副总裁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "隆基绿能",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "晶科能源",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "天合光能",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "晶澳科技",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "阿特斯",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "东方日升",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "正泰新能",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "通威股份",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "一道新能",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "环晟光伏",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户包括隆基绿能、晶科能源、天合光能、晶澳科技、阿特斯、东方日升、正泰新能、通威股份、一道新能、环晟光伏等国内知名光伏企业"
+    },
+    {
+      "name": "Smurfit Kappa集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "与包括 Smurfit Kappa 集团、Pratt Industries 等国际包装巨头，以及韩国 ASIA PAPER、印尼 APP 等亚洲知名企业在内的全球客户建立了长期稳定的战略合作关系"
+    },
+    {
+      "name": "Pratt Industries",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "与包括 Smurfit Kappa 集团、Pratt Industries 等国际包装巨头，以及韩国 ASIA PAPER、印尼 APP 等亚洲知名企业在内的全球客户建立了长期稳定的战略合作关系"
+    },
+    {
+      "name": "合兴包装",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司作为行业标杆企业，持续为合兴包装（002228.SZ）、美盈森（002303.SZ）、裕同科技(002831.SZ)、玖龙纸业（02689.HK）等上市公司提供高品质的产品和服务"
+    },
+    {
+      "name": "美盈森",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司作为行业标杆企业，持续为合兴包装（002228.SZ）、美盈森（002303.SZ）、裕同科技(002831.SZ)、玖龙纸业（02689.HK）等上市公司提供高品质的产品和服务"
+    },
+    {
+      "name": "裕同科技",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司作为行业标杆企业，持续为合兴包装（002228.SZ）、美盈森（002303.SZ）、裕同科技(002831.SZ)、玖龙纸业（02689.HK）等上市公司提供高品质的产品和服务"
+    },
+    {
+      "name": "玖龙纸业",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司作为行业标杆企业，持续为合兴包装（002228.SZ）、美盈森（002303.SZ）、裕同科技(002831.SZ)、玖龙纸业（02689.HK）等上市公司提供高品质的产品和服务"
+    },
+    {
+      "name": "亿纬锂能",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司深耕消费类锂电池设备领域多年，与亿纬锂能、冠宇科技、新能德（NVT）、天津力神等行业知名电池制造商建立了长期稳定的合作关系"
+    },
+    {
+      "name": "冠宇科技",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司深耕消费类锂电池设备领域多年，与亿纬锂能、冠宇科技、新能德（NVT）、天津力神等行业知名电池制造商建立了长期稳定的合作关系"
+    },
+    {
+      "name": "新能德（NVT）",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司深耕消费类锂电池设备领域多年，与亿纬锂能、冠宇科技、新能德（NVT）、天津力神等行业知名电池制造商建立了长期稳定的合作关系"
+    },
+    {
+      "name": "天津力神",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司深耕消费类锂电池设备领域多年，与亿纬锂能、冠宇科技、新能德（NVT）、天津力神等行业知名电池制造商建立了长期稳定的合作关系"
+    },
+    {
+      "name": "京山京源科技投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "京山京源科技投资有限公司为公司控股股东"
+    },
+    {
+      "name": "京山轻机控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东的一致行动人",
+      "quote": "京山轻机控股有限公司为公司控股股东的一致行动人"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "专用设备制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "6,390,823,303.11元",
+      "revenue_proportion": "90.04%",
+      "gross_margin": "20.65%",
+      "yoy_change": "-22.34%",
+      "quote": "专用设备制造业 6,390,823,303.11 90.04%"
+    },
+    {
+      "name": "光伏设备",
+      "segment_type": "product_line",
+      "revenue_amount": "4,553,088,453.40元",
+      "revenue_proportion": "64.15%",
+      "gross_margin": "19.17%",
+      "yoy_change": "-33.41%",
+      "quote": "光伏设备 4,553,088,453.40 64.15%"
+    },
+    {
+      "name": "包装设备",
+      "segment_type": "product_line",
+      "revenue_amount": "970,549,873.82元",
+      "revenue_proportion": "13.67%",
+      "gross_margin": "31.84%",
+      "yoy_change": "2.19%",
+      "quote": "包装设备 970,549,873.82 13.67%"
+    },
+    {
+      "name": "锂电设备",
+      "segment_type": "product_line",
+      "revenue_amount": "864,619,655.54元",
+      "revenue_proportion": "12.18%",
+      "gross_margin": "15.70%",
+      "yoy_change": "101.57%",
+      "quote": "锂电设备 864,619,655.54 12.18%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "6,033,061,272.06元",
+      "revenue_proportion": "85.00%",
+      "gross_margin": "18.13%",
+      "yoy_change": "-10.31%",
+      "quote": "国内 6,033,061,272.06 85.00%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "1,064,474,676.01元",
+      "revenue_proportion": "15.00%",
+      "gross_margin": "31.89%",
+      "yoy_change": "-46.68%",
+      "quote": "国外 1,064,474,676.01 15.00%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "7,097,535,948.07元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "-18.63%",
+      "quote": "直销 7,097,535,948.07 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光伏设备",
+      "metric_type": "sales_volume",
+      "value": "197.00台套",
+      "period": "2025年",
+      "quote": "光伏设备销售量 台套 197.00"
+    },
+    {
+      "product": "光伏设备",
+      "metric_type": "production_volume",
+      "value": "186.00台套",
+      "period": "2025年",
+      "quote": "光伏设备生产量 台套 186.00"
+    },
+    {
+      "product": "光伏设备",
+      "metric_type": "inventory_volume",
+      "value": "159.00台套",
+      "period": "2025年末",
+      "quote": "光伏设备库存量 台套 159.00"
+    },
+    {
+      "product": "包装设备",
+      "metric_type": "sales_volume",
+      "value": "97.00台套",
+      "period": "2025年",
+      "quote": "包装设备销售量 台套 97.00"
+    },
+    {
+      "product": "包装设备",
+      "metric_type": "production_volume",
+      "value": "95.00台套",
+      "period": "2025年",
+      "quote": "包装设备生产量 台套 95.00"
+    },
+    {
+      "product": "包装设备",
+      "metric_type": "inventory_volume",
+      "value": "55.00台套",
+      "period": "2025年末",
+      "quote": "包装设备库存量 台套 55.00"
+    },
+    {
+      "product": "锂电设备",
+      "metric_type": "sales_volume",
+      "value": "263.00台套",
+      "period": "2025年",
+      "quote": "锂电设备销售量 台套 263.00"
+    },
+    {
+      "product": "锂电设备",
+      "metric_type": "production_volume",
+      "value": "362.00台套",
+      "period": "2025年",
+      "quote": "锂电设备生产量 台套 362.00"
+    },
+    {
+      "product": "锂电设备",
+      "metric_type": "inventory_volume",
+      "value": "130.00台套",
+      "period": "2025年末",
+      "quote": "锂电设备库存量 台套 130.00"
+    },
+    {
+      "product": "铸造产品",
+      "metric_type": "sales_volume",
+      "value": "39,086.00吨",
+      "period": "2025年",
+      "quote": "铸造销售量 吨 39,086.00"
+    },
+    {
+      "product": "铸造产品",
+      "metric_type": "production_volume",
+      "value": "39,846.49吨",
+      "period": "2025年",
+      "quote": "铸造生产量 吨 39,846.49"
+    },
+    {
+      "product": "铸造产品",
+      "metric_type": "inventory_volume",
+      "value": "4,765.78吨",
+      "period": "2025年末",
+      "quote": "铸造库存量 吨 4,765.78"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "公司智造新基地",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正式投产",
+      "expected_completion_time": null,
+      "quote": "公司智造新基地正式投产，聚焦高端物流装备与全流程数字化生产，产能大幅提升"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国际PCT专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "7项（受理2项）",
+      "quote": "公司拥有国际 PCT 专利颁证 7 项、受理 2 项"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "246项（有效期内）",
+      "quote": "处于有效期内的发明专利246项"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "1040项",
+      "quote": "实用新型专利 1040 项"
+    },
+    {
+      "name": "外观设计专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "35项",
+      "quote": "外观设计专利 35 项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "251项",
+      "quote": "软件著作权 251 项"
+    },
+    {
+      "name": "国家级工业设计中心",
+      "asset_type": "certification",
+      "related_product": "包装装备",
+      "quantitative_info": null,
+      "quote": "拥有国家级工业设计中心"
+    },
+    {
+      "name": "国家级绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "国家级绿色工厂"
+    },
+    {
+      "name": "国家级技术中心",
+      "asset_type": "certification",
+      "related_product": "包装装备",
+      "quantitative_info": null,
+      "quote": "国家级技术中心"
+    },
+    {
+      "name": "钙钛矿电池设备整线供应能力",
+      "asset_type": "core_technology",
+      "related_product": "光伏电池片装备",
+      "quantitative_info": null,
+      "quote": "公司是国内较早布局钙钛矿光伏设备的企业，凭借在该领域的前瞻性投入，已构建覆盖研发线至GW级量产的全周期设备解决方案"
+    },
+    {
+      "name": "高速输送与柔性控制技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "锂电设备",
+      "quantitative_info": null,
+      "quote": "公司自主研发的高速输送与柔性控制技术平台在定位精度与运行效率方面达到行业先进水平"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.85%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.85%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "14.61%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 14.61%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": "某锂电头部客户",
+      "period": "2025年",
+      "quote": "锂电装备业务作为公司的新兴培育板块，报告期内与某锂电头部客户签署了合计超20亿元的采购订单，客户集中度较高。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "光伏行业当前仍面临阶段性产能过剩的压力，下游组件企业开工率波动、扩产节奏显著放缓，设备验收周期普遍延长，光伏设备行业整体承压。",
+      "related_entity": null,
+      "related_product": "光伏设备",
+      "quote": "光伏行业当前仍面临阶段性产能过剩的压力，这一现象在2025年表现得尤为突出。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司海外业务规模不断扩大，涉及美元、欧元等多种外币结算。受国际政治经济形势变化影响，人民币汇率双向波动特征明显，可能对公司经营业绩产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司海外业务规模不断扩大，涉及美元、欧元等多种外币结算。受国际政治经济形势变化影响，人民币汇率双向波动特征明显，可能对公司经营业绩产生一定影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "设备制造行业普遍采用分期收款的结算模式，合同执行周期较长，应收账款规模与客户信用状况、下游行业景气度密切相关。当前光伏行业正处于调整期，部分下游客户经营承压，付款能力有所下降，可能导致公司应收账款回款周期延长，逾期比例上升。同时，若客户经营状况持续恶化，部分已发货未验收设备可能面临交付延迟或合同变更，导致存货规模增加，产生存货减值风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "应收账款回款周期延长和存货减值的风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "当前国际贸易环境复杂多变，部分国家和地区贸易保护主义抬头，关税壁垒、技术壁垒及反倾销调查等贸易摩擦风险上升。若主要出口市场提高关税税率或设置非关税壁垒，可能削弱公司产品价格竞争力，影响海外业务拓展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前国际贸易环境复杂多变，部分国家和地区贸易保护主义抬头，关税壁垒、技术壁垒及反倾销调查等贸易摩擦风险上升。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "锂电装备业务作为公司的新兴培育板块，报告期内与某锂电头部客户签署了合计超20亿元的采购订单，客户集中度较高。若主要客户的经营状况发生重大不利变化，或因行业景气度变化减少设备采购，将对公司锂电装备业务的经营业绩产生较大影响。同时，客户集中度较高也可能削弱公司在商业谈判中的议价能力，对产品毛利率形成一定压力。",
+      "related_entity": "某锂电头部客户",
+      "related_product": "锂电设备",
+      "quote": "锂电装备业务作为公司的新兴培育板块，报告期内与某锂电头部客户签署了合计超20亿元的采购订单，客户集中度较高。"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "company_name_mentioned": "财信地产发展集团股份有限公司",
+  "produces": [
+    {
+      "name": "商品房",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重69.95%",
+      "quote": "公司从事的主要业务为房地产，截止报告期末，公司在3个省（市）开展房地产业务...2025年公司签约销售面积6.68万平方米，销售金额为22,544万元。"
+    },
+    {
+      "name": "环保服务（危险废弃物处理）",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重29.60%",
+      "quote": "公司环保版块业务开展情况...瀚渝公司完成危废收运2.75万吨，技术改造完成氢氧化铜（高品位）研发试生产成功。"
+    },
+    {
+      "name": "氢氧化铜（高品位）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "技术改造完成氢氧化铜（高品位）研发试生产成功，丰富公司产品种类。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "建筑施工服务及建材",
+      "target_product": null,
+      "cost_proportion": "前五名供应商合计采购金额占年度采购总额比例84.00%",
+      "quote": "公司前5名供应商资料...合计 -- 20,659,802.01 84.00%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "住宅及商业房地产",
+      "source_product": "商品房",
+      "quote": "公司从事的主要业务为房地产...主要项目开发情况...项目业态：住宅及部分商业。"
+    },
+    {
+      "name": "危险废物处置",
+      "source_product": "环保服务",
+      "quote": "重庆瀚渝公司具备年处理10大类约7.69万吨危险废弃物的能力，拥有多种危险废弃物处理资格。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "鲜先念",
+      "role": "董事、总裁",
+      "quote": "公司负责人鲜先念、主管会计工作负责人熊欢伟及会计机构负责人（会计主管人员）李建英声明...鲜先念，男，55岁，汉族。硕士学位。现任重庆财信企业集团有限公司总裁助理/监事。"
+    },
+    {
+      "name": "熊欢伟",
+      "role": "董事会秘书、财务总监",
+      "quote": "董事会秘书 证券事务代表 姓名 熊欢伟...熊欢伟，男，硕士研究生、中国注册会计师（非执业），澳洲注册会计师（非执业）。现任本公司董事会秘书、财务总监。"
+    },
+    {
+      "name": "李建英",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）李建英"
+    },
+    {
+      "name": "贾森",
+      "role": "董事长",
+      "quote": "贾森，男，硕士。现任本公司第十一届董事会董事长。曾任本公司总裁。"
+    },
+    {
+      "name": "卢生举",
+      "role": "实际控制人",
+      "quote": "实际控制人姓名：卢生举...重庆财信企业集团有限公司 董事长"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "重庆财信房地产开发集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，主要经营业务为房地产开发。",
+      "quote": "公司控股股东重庆财信房地产开发集团有限公司...控股股东名称 重庆财信房地产开发集团有限公司...主要经营业务...房地产开发（按资质证书核定项目承接业务）。"
+    },
+    {
+      "name": "重庆财信企业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东，实际控制人为卢生举。",
+      "quote": "财信集团、财信集团公司 指 重庆财信企业集团有限公司...实际控制人：卢生举...重庆财信企业集团有限公司 董事长"
+    },
+    {
+      "name": "重庆烨城实业有限公司",
+      "relation_type": "customer",
+      "business_details": "2025年度第一大客户，销售额占年度销售总额12.36%。",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 重庆烨城实业有限公司 39,541,425.00 12.36%"
+    },
+    {
+      "name": "江苏万远建设有限公司镇江分公司",
+      "relation_type": "supplier",
+      "business_details": "2025年度第一大供应商，采购额占年度采购总额40.66%。",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 江苏万远建设有限公司镇江分公司 10,000,000.00 40.66%"
+    },
+    {
+      "name": "重庆恒宏置业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系财信地产全资子公司，与公司存在同业竞争承诺。",
+      "quote": "重庆恒宏置业有限公司系财信地产全资子公司...该公司不再获取新的房地产开发项目，从而避免与财信发展发生同业竞争。"
+    },
+    {
+      "name": "重庆富黔房地产开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为财信地产的全资子公司，与公司存在同业竞争承诺。",
+      "quote": "重庆富黔房地产开发有限公司为财信地产的全资子公司...该公司的财信广场项目开发结束后...将不再获取新的房地产开发项目，从而不再与财信发展存在同业竞争。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "房地产",
+      "segment_type": "product_line",
+      "revenue_amount": "198,190,828.62元",
+      "revenue_proportion": "69.95%",
+      "gross_margin": "55.20%",
+      "yoy_change": "-71.69%",
+      "quote": "分行业 房地产 198,190,828.62 69.95% 700,149,098.49 84.51% -71.69%"
+    },
+    {
+      "name": "环保",
+      "segment_type": "product_line",
+      "revenue_amount": "83,860,656.76元",
+      "revenue_proportion": "29.60%",
+      "gross_margin": null,
+      "yoy_change": "-34.08%",
+      "quote": "分行业 环保 83,860,656.76 29.60% 127,207,033.58 15.35% -34.08%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "1,291,596.92元",
+      "revenue_proportion": "0.46%",
+      "gross_margin": null,
+      "yoy_change": "14.21%",
+      "quote": "分行业 其他 1,291,596.92 0.46% 1,130,888.75 0.14% 14.21%"
+    },
+    {
+      "name": "重庆分部",
+      "segment_type": "region",
+      "revenue_amount": "224,426,535.15元",
+      "revenue_proportion": "79.21%",
+      "gross_margin": "58.56%",
+      "yoy_change": "-58.61%",
+      "quote": "分地区 重庆分部 224,426,535.15 79.21% 542,160,270.22 65.44% -58.61%"
+    },
+    {
+      "name": "江苏分部",
+      "segment_type": "region",
+      "revenue_amount": "46,797,702.10元",
+      "revenue_proportion": "16.52%",
+      "gross_margin": "-25.52%",
+      "yoy_change": "-64.53%",
+      "quote": "分地区 江苏分部 46,797,702.10 16.52% 131,946,768.48 15.93% -64.53%"
+    },
+    {
+      "name": "天津分部",
+      "segment_type": "region",
+      "revenue_amount": "8,340,391.74元",
+      "revenue_proportion": "2.94%",
+      "gross_margin": null,
+      "yoy_change": "-93.46%",
+      "quote": "分地区 天津分部 8,340,391.74 2.94% 127,584,692.46 15.40% -93.46%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "6.68万平方米",
+      "period": "2025年",
+      "quote": "2025年公司签约销售面积6.68万平方米"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "22,544万元",
+      "period": "2025年",
+      "quote": "销售金额为22,544万元"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "66,815.1 平方米",
+      "period": "2025年",
+      "quote": "房地产行业分类 项目 单位 2025年 ... 签约销售面积 平方米 66,815.1"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "18,730.67 万元",
+      "period": "2025年",
+      "quote": "签约销售金额 万元 18,730.67"
+    },
+    {
+      "product": "危险废弃物",
+      "metric_type": "other",
+      "value": "2.75万吨",
+      "period": "2025年",
+      "quote": "瀚渝公司完成危废收运2.75万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "九悦府",
+      "project_type": "construction_project",
+      "location": "重庆市九龙坡区",
+      "investment_amount": "预计总投资金额128,700万元",
+      "designed_capacity": "规划建筑面积152,537平方米",
+      "progress": "在建，完工进度70.00%",
+      "expected_completion_time": null,
+      "quote": "主要项目开发情况...九悦府...项目业态：住宅及部分商业...完工进度：70.00%...规划建筑面积（㎡）：152537...预计总投资金额（万元）：128,700"
+    },
+    {
+      "name": "阅璟名庭",
+      "project_type": "construction_project",
+      "location": "广东惠州",
+      "investment_amount": "预计总投资金额26,958万元",
+      "designed_capacity": "规划建筑面积52,918平方米",
+      "progress": "在建，完工进度60.00%",
+      "expected_completion_time": null,
+      "quote": "主要项目开发情况...阅璟名庭...项目业态：住宅...完工进度：60.00%...规划建筑面积（㎡）：52918...预计总投资金额（万元）：26,958"
+    },
+    {
+      "name": "尚书坊",
+      "project_type": "construction_project",
+      "location": "江苏镇江",
+      "investment_amount": "预计总投资金额129,971万元",
+      "designed_capacity": "规划建筑面积170,082平方米",
+      "progress": "在建，完工进度65.00%",
+      "expected_completion_time": null,
+      "quote": "主要项目开发情况...尚书坊...项目业态：住宅及部分商业...完工进度：65.00%...规划建筑面积（㎡）：170082...预计总投资金额（万元）：129,971"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "危险废弃物处理技术",
+      "asset_type": "process_technology",
+      "related_product": "环保服务",
+      "quantitative_info": "年处理10大类约7.69万吨危险废弃物的能力",
+      "quote": "重庆瀚渝公司具备年处理10大类约7.69万吨危险废弃物的能力，拥有多种危险废弃物处理资格。"
+    },
+    {
+      "name": "危废处理相关专利",
+      "asset_type": "patent",
+      "related_product": "环保服务",
+      "quantitative_info": "累计获得5项发明专利、54项实用新型专利",
+      "quote": "目前已累计获得5项发明专利、54项实用新型专利，技术成果覆盖危废处理全流程。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "27.81%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 88,925,031.84 前五名客户合计销售金额占年度销售总额比例 27.81%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "84.00%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 20,659,802.01 前五名供应商合计采购金额占年度采购总额比例 84.00%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "公司股票交易将被实施退市风险警示及其他风险警示",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经会计师事务所审计，公司2025年度扣除非经常性损益后的净利润为负值，且扣除与主营业务无关的业务收入和不具备商业实质的收入后的营业收入低于3亿元，期末归母净资产为负值，触及《深圳证券交易所股票上市规则》第9.3.1条规定...被实施退市风险警示的情形。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "房地产企业投资力度下滑，企业现金流不断承压",
+      "related_entity": null,
+      "related_product": "房地产业务",
+      "quote": "房地产领域：行业方面：房地产企业投资力度下滑，企业现金流不断承压。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "房地产行业不断下行，公司营业收入等财务指标也大幅减少",
+      "related_entity": null,
+      "related_product": "房地产业务",
+      "quote": "内部风险：房地产行业不断下行，公司营业收入等财务指标也大幅减少...公司面临的主要问题是业务规模持续减小，资产盈利能力及可持续发展能力严重不足。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "环保监管趋严",
+      "related_entity": null,
+      "related_product": "环保业务",
+      "quote": "环保产业领域：（1）环保监管趋严"
+    },
+    {
+      "risk_type": "other",
+      "description": "受多重因数影响上游单位产废减少，导致公司业务来源减少",
+      "related_entity": null,
+      "related_product": "环保业务",
+      "quote": "（2）受多重因数影响上游单位产废减少，意味着公司的业务来源减少，危险废物处理量下降，进而导致营业收入减少。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "危废市场供需矛盾，供大于求，处置费用降低",
+      "related_entity": null,
+      "related_product": "环保业务",
+      "quote": "（3）危废市场供需矛盾，供大于求，处置费用降低"
+    },
+    {
+      "risk_type": "other",
+      "description": "控股股东财信地产、间接控股股东财信集团正在进行破产重整",
+      "related_entity": "重庆财信房地产开发集团有限公司、重庆财信企业集团有限公司",
+      "related_product": null,
+      "quote": "公司控股股东财信地产、间接控股股东重庆财信企业集团有限公司正在进行破产重整事项。"
+    },
+    {
+      "risk_type": "other",
+      "description": "控股股东财信地产所持公司股份被质押及冻结",
+      "related_entity": "重庆财信房地产开发集团有限公司",
+      "related_product": null,
+      "quote": "公司控股股东财信地产所持股份被质押及冻结"
+    }
+  ]
+}

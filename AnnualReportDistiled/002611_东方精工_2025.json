@@ -1,0 +1,570 @@
+{
+  "company_name_mentioned": "广东东方精工科技股份有限公司",
+  "produces": [
+    {
+      "name": "瓦楞纸板生产线",
+      "type": "device",
+      "revenue_proportion": "67.34%",
+      "quote": "分产品 瓦楞纸板生产线 3,521,133,520.49 67.34% ... 9.68%"
+    },
+    {
+      "name": "瓦楞纸箱印刷包装设备",
+      "type": "device",
+      "revenue_proportion": "13.23%",
+      "quote": "分产品 ... 瓦楞纸箱印刷包装设备 691,697,924.87 13.23% ... -14.63%"
+    },
+    {
+      "name": "水上动力产品及通机产品",
+      "type": "device",
+      "revenue_proportion": "19.43%",
+      "quote": "分产品 ... 水上动力产品及通机产品 1,015,705,109.39 19.43% ... 34.14%"
+    },
+    {
+      "name": "瓦楞纸箱印刷包装线",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司瓦楞纸箱印刷包装设备的经营主体为东方精工（中国）和东方精工（欧洲）。"
+    },
+    {
+      "name": "数码印刷设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "控股子公司万德数科提供包括数码印刷设备、墨水配件和服务在内的数码印刷行业整体解决方案。"
+    },
+    {
+      "name": "工业互联网行业解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司智能包装装备业务包括智能瓦楞纸包装装备、数码印刷设备以及工业互联网行业解决方案三个子板块。"
+    },
+    {
+      "name": "舷外机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "子公司百胜动力主要产品是多种规格、不同系列的舷外机产品。"
+    },
+    {
+      "name": "顶流机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "2025年3月，百胜动力在2025上海国际游艇展上正式发布首款智能顶流机产品。"
+    },
+    {
+      "name": "通机产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "百胜动力的通机产品主要包括汽油发动机、汽油发电机组及汽油水泵组。"
+    },
+    {
+      "name": "瓦楞辊&压力辊",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "Tiruña集团瓦楞辊&压力辊产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "金属结构件",
+      "target_product": "智能包装装备",
+      "cost_proportion": null,
+      "quote": "智能包装装备板块的主要原材料如金属结构件、电气件（如电机、PLC）等向外部供应商采购"
+    },
+    {
+      "name": "电气件（如电机、PLC）",
+      "target_product": "智能包装装备",
+      "cost_proportion": null,
+      "quote": "智能包装装备板块的主要原材料如金属结构件、电气件（如电机、PLC）等向外部供应商采购"
+    },
+    {
+      "name": "原材料（通用）",
+      "target_product": "水上动力设备",
+      "cost_proportion": null,
+      "quote": "采购方面，百胜动力按“以销定产、以产定采”并兼顾合理安全库存的原则，确定舷外机业务的采购需求。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "瓦楞纸包装领域",
+      "source_product": "瓦楞纸板生产线、瓦楞纸箱印刷包装线",
+      "quote": "公司智能包装装备业务板块面向的主要下游客户领域是瓦楞纸包装领域，包括瓦楞纸板厂、纸箱厂等B端客户。"
+    },
+    {
+      "name": "水上休闲运动",
+      "source_product": "舷外机",
+      "quote": "舷外机是中小型船舶配套的核心动力设备...广泛应用于水上休闲娱乐领域"
+    },
+    {
+      "name": "渔业捕捞",
+      "source_product": "舷外机",
+      "quote": "广泛应用于水上休闲运动、渔业捕捞、水上交通、应急救援、海岸登陆、海事巡逻等领域。"
+    },
+    {
+      "name": "水上交通",
+      "source_product": "舷外机",
+      "quote": "广泛应用于水上休闲运动、渔业捕捞、水上交通、应急救援、海岸登陆、海事巡逻等领域。"
+    },
+    {
+      "name": "应急救援",
+      "source_product": "舷外机",
+      "quote": "广泛应用于水上休闲运动、渔业捕捞、水上交通、应急救援、海岸登陆、海事巡逻等领域。"
+    },
+    {
+      "name": "海岸登陆/海事巡逻",
+      "source_product": "舷外机",
+      "quote": "广泛应用于水上休闲运动、渔业捕捞、水上交通、应急救援、海岸登陆、海事巡逻等领域。"
+    },
+    {
+      "name": "钓鱼休闲运动",
+      "source_product": "顶流机",
+      "quote": "顶流机主要应用于钓鱼休闲和钓鱼比赛运动等场景"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "唐灼林",
+      "role": "董事长",
+      "quote": "公司负责人唐灼林、主管会计工作负责人邵永锋及会计机构负责人(会计主管人员)陈林声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "邱业致",
+      "role": "董事、总经理",
+      "quote": "邱业致，女，中国国籍，无境外永久居留权，工商管理硕士。...现任东方精工董事、总经理"
+    },
+    {
+      "name": "邵永锋",
+      "role": "财务负责人、副总裁",
+      "quote": "邵永锋，男，中国国籍，无境外永久居留权。...现任财务负责人、副总裁"
+    },
+    {
+      "name": "冯佳",
+      "role": "董事、董事会秘书、副总裁",
+      "quote": "冯佳，女，中国国籍，无境外永久居留权。...现任公司董事、副总裁、董事会秘书"
+    },
+    {
+      "name": "谢威炜",
+      "role": "董事、副总经理（报告期内离任）",
+      "quote": "谢威炜，男，52岁，董事、副总经理，离任"
+    },
+    {
+      "name": "李克天",
+      "role": "独立董事",
+      "quote": "李克天，男，中国国籍，无境外永久居留权。...现任东方精工独立董事。"
+    },
+    {
+      "name": "冯志东",
+      "role": "独立董事",
+      "quote": "冯志东，男，中国国籍，无境外永久居留权。...现任广州悦停网络科技有限公司董事长。最近五年任...东方精工独立董事。"
+    },
+    {
+      "name": "涂海川",
+      "role": "独立董事",
+      "quote": "涂海川，男，中国国籍，无境外永久居留权。...现任深圳长河资本管理有限公司执行董事、总经理...东方精工独立董事。"
+    },
+    {
+      "name": "陈惠仪",
+      "role": "职工代表董事",
+      "quote": "陈惠仪女士，中国国籍，无境外永久居留权，大学学历...现任东方精工职工代表董事、总经理秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "Fosber集团",
+      "relation_type": "subsidiary",
+      "business_details": "子公司Fosber集团（成员包括Fosber意大利、Fosber美国、QCorr、Tiruña集团）",
+      "quote": "公司瓦楞纸板生产线业务的业务主体包括海外的Fosber集团（成员包括Fosber意大利、Fosber美国、QCorr、Tiruña集团）和国内的Fosber亚洲、Tiruña亚洲"
+    },
+    {
+      "name": "百胜动力",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，水上动力设备业务主体",
+      "quote": "控股子公司百胜动力是国内舷外机行业的头部企业"
+    },
+    {
+      "name": "万德数科",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，数码印刷设备业务主体",
+      "quote": "控股子公司万德数科，为国家级高新技术企业和“专精特新小巨人”"
+    },
+    {
+      "name": "东方合智",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，工业互联网行业解决方案业务主体",
+      "quote": "东方精工的子公司东方合智，是“工业互联网行业解决方案”的业务主体。"
+    },
+    {
+      "name": "东方元启",
+      "relation_type": "subsidiary",
+      "business_details": "与乐聚智能合资成立，东方精工持股80%，战略新兴产业发展平台",
+      "quote": "2025年9月，东方精工与乐聚智能合资成立公司东方元启，东方精工持股比例80%。"
+    },
+    {
+      "name": "乐聚智能",
+      "relation_type": "joint_venture",
+      "business_details": "战略合作伙伴，合资成立东方元启",
+      "quote": "2025年7月，公司与乐聚智能签署战略合作协议...2025年9月，双方共同发起设立东方元启智能机器人公司"
+    },
+    {
+      "name": "Foresight Italy BidCo S.p.A.",
+      "relation_type": "customer",
+      "business_details": "拟购买Fosber集团100%股权的交易对手",
+      "quote": "全资子公司DongFangPrecision（Netherland）CoöperatiefU.A.（以下简称东方精工（荷兰））拟以现金交易的方式向ForesightItalyBidCoS.p.A.（以下简称ForesightItaly）出售其持有的FosberS.p.A.及其子公司（暨Fosber集团）100%股权。"
+    },
+    {
+      "name": "Foresight US BidCo, Inc.",
+      "relation_type": "customer",
+      "business_details": "拟购买Fosber亚洲及Tiruña亚洲100%股权的交易对手",
+      "quote": "公司拟以现金交易的方式向ForesightUSBidCo,Inc.（以下简称ForesightUS）出售持有的广东佛斯伯智能设备有限公司（暨Fosber亚洲）100%股权、狄伦拿（广东）智能装备制造有限公司（暨Tiruña亚洲）100%股权"
+    },
+    {
+      "name": "嘉腾机器人",
+      "relation_type": "investor",
+      "business_details": "东方精工在“人工智能+机器人”领域的投资标的之一",
+      "quote": "从工业移动机器人到多模态大模型“智慧大脑”...从战略合作到合资共筑，我们在“人工智能+机器人”的版图上，已渐成体系。"
+    },
+    {
+      "name": "航天新力",
+      "relation_type": "investor",
+      "business_details": "东方精工在“可控核聚变关键结构材料+核电装备”领域的投资标的",
+      "quote": "东方精工在2021年首次股权投资贵州航天新力科技有限公司...截至报告期末公司持股比例为19.89%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "瓦楞纸板生产线",
+      "segment_type": "product_line",
+      "revenue_amount": "3,521,133,520.49元",
+      "revenue_proportion": "67.34%",
+      "gross_margin": "29.63%",
+      "yoy_change": "9.68%",
+      "quote": "瓦楞纸板生产线 3,521,133,520.49 67.34% ... 9.68% ... 毛利率 29.63%"
+    },
+    {
+      "name": "瓦楞纸箱印刷包装设备",
+      "segment_type": "product_line",
+      "revenue_amount": "691,697,924.87元",
+      "revenue_proportion": "13.23%",
+      "gross_margin": "27.89%",
+      "yoy_change": "-14.63%",
+      "quote": "瓦楞纸箱印刷包装设备 691,697,924.87 13.23% ... -14.63% ... 毛利率 27.89%"
+    },
+    {
+      "name": "水上动力产品及通机产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,015,705,109.39元",
+      "revenue_proportion": "19.43%",
+      "gross_margin": "19.14%",
+      "yoy_change": "34.14%",
+      "quote": "水上动力产品及通机产品 1,015,705,109.39 19.43% ... 34.14% ... 毛利率 19.14%"
+    },
+    {
+      "name": "中国大陆",
+      "segment_type": "region",
+      "revenue_amount": "1,091,961,375.03元",
+      "revenue_proportion": "20.88%",
+      "gross_margin": "18.54%",
+      "yoy_change": "97.92%",
+      "quote": "中国大陆 1,091,961,375.03 20.88% ... 97.92% ... 毛利率 18.54%"
+    },
+    {
+      "name": "其他国家地区",
+      "segment_type": "region",
+      "revenue_amount": "4,136,575,179.72元",
+      "revenue_proportion": "79.12%",
+      "gross_margin": "29.69%",
+      "yoy_change": "-2.12%",
+      "quote": "其他国家地区 4,136,575,179.72 79.12% ... -2.12% ... 毛利率 29.69%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,165,834,673.76元",
+      "revenue_proportion": "79.67%",
+      "gross_margin": "28.48%",
+      "yoy_change": "6.79%",
+      "quote": "直销 4,165,834,673.76 79.67% ... 6.79% ... 毛利率 28.48%"
+    },
+    {
+      "name": "经销+代销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,062,701,880.99元",
+      "revenue_proportion": "20.33%",
+      "gross_margin": "22.96%",
+      "yoy_change": "21.18%",
+      "quote": "经销+代销 1,062,701,880.99 20.33% ... 21.18% ... 毛利率 22.96%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "瓦楞纸板生产线",
+      "metric_type": "sales_volume",
+      "value": "194.00台",
+      "period": "2025年",
+      "quote": "瓦楞纸板生产线 销售量 台 194.00"
+    },
+    {
+      "product": "瓦楞纸板生产线",
+      "metric_type": "production_volume",
+      "value": "197.00台",
+      "period": "2025年",
+      "quote": "瓦楞纸板生产线 生产量 台 197.00"
+    },
+    {
+      "product": "瓦楞纸板生产线",
+      "metric_type": "inventory_volume",
+      "value": "8.00台",
+      "period": "2025年末",
+      "quote": "瓦楞纸板生产线 库存量 台 8.00"
+    },
+    {
+      "product": "瓦楞纸箱印刷包装设备",
+      "metric_type": "sales_volume",
+      "value": "261.00台",
+      "period": "2025年",
+      "quote": "瓦楞纸箱印刷包装设备 销售量 台 261.00"
+    },
+    {
+      "product": "瓦楞纸箱印刷包装设备",
+      "metric_type": "production_volume",
+      "value": "249.00台",
+      "period": "2025年",
+      "quote": "瓦楞纸箱印刷包装设备 生产量 台 249.00"
+    },
+    {
+      "product": "瓦楞纸箱印刷包装设备",
+      "metric_type": "inventory_volume",
+      "value": "37.00台",
+      "period": "2025年末",
+      "quote": "瓦楞纸箱印刷包装设备 库存量 台 37.00"
+    },
+    {
+      "product": "水上动力产品-通机产品",
+      "metric_type": "sales_volume",
+      "value": "95.62万台",
+      "period": "2025年",
+      "quote": "水上动力产品-通机产品 销售量 万台 95.62"
+    },
+    {
+      "product": "水上动力产品-通机产品",
+      "metric_type": "production_volume",
+      "value": "95.53万台",
+      "period": "2025年",
+      "quote": "水上动力产品-通机产品 生产量 万台 95.53"
+    },
+    {
+      "product": "水上动力产品-通机产品",
+      "metric_type": "inventory_volume",
+      "value": "0.02万台",
+      "period": "2025年末",
+      "quote": "水上动力产品-通机产品 库存量 万台 0.02"
+    },
+    {
+      "product": "水上动力产品-舷外机",
+      "metric_type": "sales_volume",
+      "value": "6.51万台",
+      "period": "2025年",
+      "quote": "水上动力产品-舷外机 销售量 万台 6.51"
+    },
+    {
+      "product": "水上动力产品-舷外机",
+      "metric_type": "production_volume",
+      "value": "6.66万台",
+      "period": "2025年",
+      "quote": "水上动力产品-舷外机 生产量 万台 6.66"
+    },
+    {
+      "product": "水上动力产品-舷外机",
+      "metric_type": "inventory_volume",
+      "value": "0.72万台",
+      "period": "2025年末",
+      "quote": "水上动力产品-舷外机 库存量 万台 0.72"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "年产超7.6万台舷外机",
+      "period": "未来（规划）",
+      "quote": "根据该项目规划，如未来新车间产能爬坡达到目标规模，百胜动力将增加年产超7.6万台舷外机的生产能力。"
+    },
+    {
+      "product": "瓦楞纸板生产线",
+      "metric_type": "capacity",
+      "value": "年产40条线",
+      "period": "未来（规划）",
+      "quote": "2025年6月，Fosber亚洲新工厂正式启用，其设计产能为年产40条线"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "百胜动力新总部及大马力、电动舷外机生产车间",
+      "project_type": "capacity_expansion",
+      "location": "江苏苏州",
+      "investment_amount": null,
+      "designed_capacity": "年产超7.6万台舷外机",
+      "progress": "2025年5月正式投入使用",
+      "expected_completion_time": "已投入使用",
+      "quote": "百胜动力位于江苏苏州的新总部在2025年5月正式投入使用。新建成的大马力舷外机、电动舷外机两大生产车间已投入使用...将增加年产超7.6万台舷外机的生产能力。"
+    },
+    {
+      "name": "Fosber亚洲新工厂",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产40条线",
+      "progress": "2025年6月正式启用",
+      "expected_completion_time": "已投入使用",
+      "quote": "2025年6月，Fosber亚洲新工厂正式启用，其设计产能为年产40条线"
+    },
+    {
+      "name": "东方元启智能机器人生产线",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成团队及生产线搭建，预计在2026年一季度完成产线最终调试和验收并投入量产。",
+      "expected_completion_time": "2026年一季度",
+      "quote": "截至本报告披露日，东方元启已完成团队及生产线搭建，预计在2026年一季度完成产线最终调试和验收并投入量产。"
+    },
+    {
+      "name": "重大资产出售项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "交易对手方已选定，草案已披露，待股东大会审议。",
+      "expected_completion_time": null,
+      "quote": "2025年11月28日，公司召开董事会，审议通过《重大资产出售预案》等相关事项...公司将在2026年3月27日召开股东会，审议本次重大资产出售相关事项。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "CNAS实验室认证",
+      "asset_type": "certification",
+      "related_product": "大马力舷外机",
+      "quantitative_info": "中国舷外机行业首家获CNAS认证的专业实验室",
+      "quote": "2025年，百胜动力大功率舷外机排放检测中心实验室获得中国合格评定国家认可委员会（CNAS）颁发的CNAS实验室认可证书，成为中国舷外机行业首家获CNAS认证的专业实验室"
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年，百胜动力获得国家人力资源和社会保障部、全国博士后管理委员会制发的“国家级博士后科研工作站”"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业（百胜动力）",
+      "asset_type": "certification",
+      "related_product": "舷外机",
+      "quantitative_info": null,
+      "quote": "百胜动力为国家级专精特新“小巨人”和高新技术企业"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业（万德数科）",
+      "asset_type": "certification",
+      "related_product": "数码印刷设备",
+      "quantitative_info": null,
+      "quote": "控股子公司万德数科，为国家级高新技术企业和“专精特新小巨人”"
+    },
+    {
+      "name": "累计知识产权（百胜动力）",
+      "asset_type": "patent",
+      "related_product": "舷外机",
+      "quantitative_info": "126项",
+      "quote": "截至2025年底，百胜动力累计获得授权的知识产权（包括专利和软著）126项"
+    },
+    {
+      "name": "多模态大模型人工智能系统",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "深圳若愚科技有限公司 多模态大模型人工智能系统"
+    },
+    {
+      "name": "防水灵巧手",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "杭州黑漫科技有限公司 防水灵巧手"
+    },
+    {
+      "name": "算力AI芯片",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "北京辉羲智能信息技术有限公司 算力AI芯片"
+    },
+    {
+      "name": "高自由度灵巧手",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "灵心巧手（北京）科技有限公司 高自由度灵巧手"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "10.20%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 533,253,398.00 10.20%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "27.08%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 27.08%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "15.74%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 419,645,344.05 15.74%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "21.79%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 21.79%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "重大资产出售带来的经营业绩波动风险。拟出售的标的公司营业收入、净利润占上市公司合并报表对应财务指标的比例较高，交易完成后短时间内上市公司营业收入与净利润规模可能出现下滑。",
+      "related_entity": "Fosber集团、Fosber亚洲、Tiruña亚洲",
+      "related_product": "瓦楞纸板生产线",
+      "quote": "1.重大资产出售带来的经营业绩波动风险...拟出售的标的公司营业收入、净利润占上市公司合并报表对应财务指标的比例较高...仍无法避免交易完成后短时间内上市公司营业收入与净利润规模出现下滑。"
+    },
+    {
+      "risk_type": "other",
+      "description": "财务投资业务的潜在风险。开展证券投资和委托理财等业务存在因受金融市场波动、收益不确定性的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.财务投资业务的潜在风险...开展上述业务存在因受金融市场波动、收益不确定性的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "战略新兴产业板块业务发展不及预期的风险。“人工智能+机器人”领域整体正处于技术攻关与商业化场景不断探索、快速迭代的阶段，若进展不及预期，将对公司战略新兴板块的业务拓展与收入兑现造成不利影响。",
+      "related_entity": "东方元启",
+      "related_product": "人形机器人",
+      "quote": "3.战略新兴产业板块业务发展不及预期的风险...若未来在关键技术突破、产品质量稳定性、场景落地应用等方面进展不及预期...将对公司战略新兴板块的业务拓展与收入兑现造成不利影响"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "战略新兴产业板块业务发展不及预期的风险中包含技术迭代相关风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "“人工智能+机器人”领域整体正处于技术攻关与商业化场景不断探索、快速迭代的阶段"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "开展外汇远期、外汇掉期等衍生品投资，存在汇率波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "套期保值业务以规避和防范汇率波动风险为主要目的。...市场风险：金融市场受宏观经济形势、行业周期等诸多因素影响，汇率波动具有双向性"
+    }
+  ]
+}
