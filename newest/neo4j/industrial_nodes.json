@@ -3,6 +3,1643 @@
     "__labels": [
       "IndustrialNode"
     ],
+    "status": "ACTIVE",
+    "created_at": "2026-05-26T04:28:31.101000000+00:00",
+    "confidence": "HIGH",
+    "node_type": "material",
+    "canonical_name_zh": "小麦",
+    "canonical_name_en": "Wheat",
+    "node_id": "wheat"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "导电性介于导体与绝缘体之间的材料，其电学性质可通过掺杂、电场、温度等手段调控，是制造集成电路与分立器件的基础。",
+    "node_uuid": "76dd1526-d352-48df-a326-51ed70e0c93d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "半导體"
+    ],
+    "canonical_name_en": "semiconductor",
+    "node_id": "semiconductor",
+    "updated_at": "2026-06-18T06:06:28.794209000",
+    "created_at": "2026-06-17T06:20:49.454229000",
+    "entity_type": "material",
+    "notes": "产业框架根节点，待补充硅/锗/化合物半导体细分",
+    "canonical_name_zh": "半导体材料"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "（定义待补充）",
+    "node_uuid": "5943a1ae-eeaf-4efe-9e50-62db8e083f2c",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "Test Draft Node",
+    "node_id": "draft_82427243535e",
+    "updated_at": "2026-06-16T07:02:01.204097000",
+    "created_at": "2026-06-16T07:02:01.204097000",
+    "entity_type": "unknown",
+    "canonical_name_zh": "Test Draft Node"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "由高纯度单晶硅制成的圆片状材料，是制造集成电路和分立器件的物理基底。",
+    "node_uuid": "97601279-8198-46dc-a053-0d5be93e2f30",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "硅晶圆",
+      "silicon substrate"
+    ],
+    "canonical_name_en": "silicon wafer",
+    "node_id": "silicon_wafer",
+    "updated_at": "2026-06-17T06:20:49.828201000",
+    "created_at": "2026-06-17T06:20:49.828201000",
+    "entity_type": "material",
+    "canonical_name_zh": "硅片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于制造半导体器件、集成电路、芯片等电子产品的原材料，包括硅、锗、砷化镓等单质或化合物材料。",
+    "node_uuid": "98ffd200-dadf-4286-b6f7-df6031648f56",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体材料通用分类\", \"source_url\": null, \"quote\": \"半导体材料包括硅、锗、砷化镓等，用于制造集成电路和半导体器件。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Semiconductor Material",
+    "node_id": "semiconductor_material",
+    "updated_at": "2026-06-18T06:59:00.503064000",
+    "created_at": "2026-06-18T06:59:00.503064000",
+    "entity_type": "material",
+    "canonical_name_zh": "半导体材料"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "对光敏感的有机高分子材料，在光刻工艺中用于将电路图形从掩模版转移到晶圆表面。",
+    "node_uuid": "7eda6c5d-55df-4d1f-966d-7911efd8c58d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "光阻",
+      "photoresist material"
+    ],
+    "canonical_name_en": "photoresist",
+    "node_id": "photoresist",
+    "updated_at": "2026-06-17T06:20:49.864392000",
+    "created_at": "2026-06-17T06:20:49.864392000",
+    "entity_type": "material",
+    "canonical_name_zh": "光刻胶"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用光学系统将掩模版上的电路图形投影到涂有光刻胶的晶圆上，是芯片制造中最关键的图形化设备。",
+    "node_uuid": "73a63f3c-52a5-4058-8dd1-378f0c7a222d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "光刻设备",
+      "曝光机",
+      "lithography scanner"
+    ],
+    "canonical_name_en": "lithography machine",
+    "node_id": "lithography_machine",
+    "updated_at": "2026-06-17T06:20:49.877405000",
+    "created_at": "2026-06-17T06:20:49.877405000",
+    "entity_type": "device",
+    "canonical_name_zh": "光刻机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过化学或物理方法选择性去除晶圆表面材料的设备，用于将光刻后的图形转移到薄膜层。",
+    "node_uuid": "e582fa40-9522-47fa-ac3a-0b7105dc3043",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "蚀刻机",
+      "刻蚀设备"
+    ],
+    "canonical_name_en": "etching machine",
+    "node_id": "etching_machine",
+    "updated_at": "2026-06-17T06:20:49.889926000",
+    "created_at": "2026-06-17T06:20:49.889926000",
+    "entity_type": "device",
+    "canonical_name_zh": "刻蚀机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在晶圆表面沉积绝缘层、金属层或半导体薄膜的设备，包括CVD、PVD、ALD等类型。",
+    "node_uuid": "769ae29f-f87b-43be-a6fd-78e9e4754d97",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "沉积设备",
+      "薄膜设备"
+    ],
+    "canonical_name_en": "thin film deposition equipment",
+    "node_id": "deposition_equipment",
+    "updated_at": "2026-06-17T06:20:49.900948000",
+    "created_at": "2026-06-17T06:20:49.900948000",
+    "entity_type": "device",
+    "canonical_name_zh": "薄膜沉积设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将掺杂离子以高能束流形式注入晶圆表层，以精确调控半导体电学性质的设备。",
+    "node_uuid": "0674dc2a-4d0a-4955-988b-32fcb4326f2d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "离子注入设备"
+    ],
+    "canonical_name_en": "ion implanter",
+    "node_id": "ion_implanter",
+    "updated_at": "2026-06-17T06:20:49.912082000",
+    "created_at": "2026-06-17T06:20:49.912082000",
+    "entity_type": "device",
+    "canonical_name_zh": "离子注入机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经过抛光、氧化、涂胶等前道工序后，等待光刻、刻蚀、离子注入等加工流程的硅片半成品。",
+    "node_uuid": "546ba688-bf7b-4891-a68d-82a5d10c2546",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "wafer"
+    ],
+    "canonical_name_en": "wafer",
+    "node_id": "wafer",
+    "updated_at": "2026-06-17T06:20:49.966382000",
+    "created_at": "2026-06-17T06:20:49.966382000",
+    "entity_type": "component",
+    "canonical_name_zh": "晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在半导体晶圆上通过光刻、刻蚀、掺杂等工艺集成大量晶体管与互连线路后切割得到的微型电子器件。",
+    "node_uuid": "b5861676-e7b8-4d6c-9cab-0ab620abbf5d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "集成电路芯片",
+      "IC chip"
+    ],
+    "canonical_name_en": "chip",
+    "node_id": "chip",
+    "updated_at": "2026-06-17T06:20:49.999957000",
+    "created_at": "2026-06-17T06:20:49.999957000",
+    "entity_type": "component",
+    "canonical_name_zh": "芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "执行计算机程序指令、进行算术逻辑运算与控制调度的核心逻辑芯片。",
+    "node_uuid": "00a9e954-5b8b-4519-bc92-eb2b2ad45e3b",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "CPU",
+      "处理器"
+    ],
+    "canonical_name_en": "central processing unit",
+    "node_id": "cpu",
+    "updated_at": "2026-06-17T06:20:50.032199000",
+    "created_at": "2026-06-17T06:20:50.032199000",
+    "entity_type": "component",
+    "canonical_name_zh": "中央处理器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "擅长并行浮点运算与图形渲染的逻辑芯片，广泛应用于图形显示、人工智能训练与推理。",
+    "node_uuid": "21180d94-e88a-4f31-8044-f064c047cd30",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "GPU",
+      "显卡芯片"
+    ],
+    "canonical_name_en": "graphics processing unit",
+    "node_id": "gpu",
+    "updated_at": "2026-06-17T06:20:50.065299000",
+    "created_at": "2026-06-17T06:20:50.065299000",
+    "entity_type": "component",
+    "canonical_name_zh": "图形处理器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于存储数字信息的芯片，按断电后是否保持数据分为易失性存储与非易失性存储。",
+    "node_uuid": "68f891c2-642c-45c8-8f8a-dab103f4ed01",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "存储器芯片",
+      "memory semiconductor"
+    ],
+    "canonical_name_en": "memory chip",
+    "node_id": "memory_chip",
+    "updated_at": "2026-06-17T06:20:50.078315000",
+    "created_at": "2026-06-17T06:20:50.078315000",
+    "entity_type": "component",
+    "canonical_name_zh": "存储芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以逻辑门电路为基础，执行运算、控制、信号处理等功能的数字芯片。",
+    "node_uuid": "d0c66271-c768-4756-aa96-50b5a9d533b1",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "逻辑集成电路"
+    ],
+    "canonical_name_en": "logic chip",
+    "node_id": "logic_chip",
+    "updated_at": "2026-06-17T06:20:50.091839000",
+    "created_at": "2026-06-17T06:20:50.091839000",
+    "entity_type": "component",
+    "canonical_name_zh": "逻辑芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "处理连续模拟信号（如电压、电流、声音、温度）的芯片，包括电源管理、信号链、射频等类型。",
+    "node_uuid": "96903620-c068-49f2-bb7b-ef4d7099ddca",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "模拟集成电路"
+    ],
+    "canonical_name_en": "analog chip",
+    "node_id": "analog_chip",
+    "updated_at": "2026-06-17T06:20:50.101852000",
+    "created_at": "2026-06-17T06:20:50.101852000",
+    "entity_type": "component",
+    "canonical_name_zh": "模拟芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于电能转换、控制与开关的半导体器件，能够处理较大电压与电流。",
+    "node_uuid": "c3ebab01-2fc7-4d20-ba11-7e69c873068e",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "功率器件",
+      "power device"
+    ],
+    "canonical_name_en": "power semiconductor",
+    "node_id": "power_semiconductor",
+    "updated_at": "2026-06-17T06:20:50.111894000",
+    "created_at": "2026-06-17T06:20:50.111894000",
+    "entity_type": "component",
+    "canonical_name_zh": "功率半导体"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于无线通信系统中射频信号收发、变频、滤波与功率放大的模拟芯片。",
+    "node_uuid": "70b9f35a-fa41-4a1f-8706-aacd2c24439d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "RF芯片",
+      "射频集成电路"
+    ],
+    "canonical_name_en": "radio frequency chip",
+    "node_id": "rf_chip",
+    "updated_at": "2026-06-17T06:20:50.121919000",
+    "created_at": "2026-06-17T06:20:50.121919000",
+    "entity_type": "component",
+    "canonical_name_zh": "射频芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将物理量（光、温度、压力、加速度等）转换为电信号并进行初步处理的芯片。",
+    "node_uuid": "d5b808c9-3f41-4852-859b-d0babf6313c9",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "传感芯片",
+      "sensor IC"
+    ],
+    "canonical_name_en": "sensor chip",
+    "node_id": "sensor_chip",
+    "updated_at": "2026-06-17T06:20:50.134943000",
+    "created_at": "2026-06-17T06:20:50.134943000",
+    "entity_type": "component",
+    "canonical_name_zh": "传感器芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "只从事集成电路设计、不拥有制造工厂，将晶圆制造外包给代工厂的半导体商业模式。",
+    "node_uuid": "b88abd15-8027-45b8-a455-4bf0f400841d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "Fabless",
+      "芯片设计"
+    ],
+    "canonical_name_en": "fabless semiconductor design",
+    "node_id": "fabless",
+    "updated_at": "2026-06-17T06:20:50.144958000",
+    "created_at": "2026-06-17T06:20:50.144958000",
+    "entity_type": "service",
+    "canonical_name_zh": "无晶圆厂芯片设计"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "接受无晶圆厂设计公司委托，专门从事晶圆制造的半导体生产模式/企业类型。",
+    "node_uuid": "aa848dfe-8652-467f-99ad-d16026013d8b",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "Foundry",
+      "芯片代工"
+    ],
+    "canonical_name_en": "semiconductor foundry",
+    "node_id": "foundry",
+    "updated_at": "2026-06-17T06:20:50.154955000",
+    "created_at": "2026-06-17T06:20:50.154955000",
+    "entity_type": "service",
+    "canonical_name_zh": "晶圆代工"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "同时从事芯片设计、制造、封测全流程的半导体企业经营模式。",
+    "node_uuid": "eeb98a02-64c0-45ef-ac0a-2e5e580fc1a6",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "IDM",
+      "垂直整合制造"
+    ],
+    "canonical_name_en": "integrated device manufacturer",
+    "node_id": "idm",
+    "updated_at": "2026-06-17T06:20:50.163966000",
+    "created_at": "2026-06-17T06:20:50.163966000",
+    "entity_type": "service",
+    "canonical_name_zh": "集成器件制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "为芯片提供切割、封装、引脚连接与电性测试等后端制造服务的产业环节。",
+    "node_uuid": "42afe5c5-bae6-4e0c-b725-d469f95b35ca",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "OSAT",
+      "封测",
+      "封装测试服务"
+    ],
+    "canonical_name_en": "outsourced semiconductor assembly and test",
+    "node_id": "osat",
+    "updated_at": "2026-06-17T06:20:50.175984000",
+    "created_at": "2026-06-17T06:20:50.175984000",
+    "entity_type": "service",
+    "canonical_name_zh": "封装测试"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于集成电路设计、仿真、验证与物理实现的计算机辅助设计软件。",
+    "node_uuid": "b4ff07d2-3cdf-4899-ab50-2f398468eeb1",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "EDA工具",
+      "电子设计自动化软件"
+    ],
+    "canonical_name_en": "electronic design automation software",
+    "node_id": "eda_software",
+    "updated_at": "2026-06-17T06:20:50.186354000",
+    "created_at": "2026-06-17T06:20:50.186354000",
+    "entity_type": "technology_capability",
+    "canonical_name_zh": "EDA软件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "可重复用于芯片设计的预先验证的功能模块，如CPU核、接口核、存储控制器等。",
+    "node_uuid": "3ebd216d-4acf-49cc-b36a-91c940e6c316",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "IP core",
+      "知识产权核"
+    ],
+    "canonical_name_en": "semiconductor intellectual property core",
+    "node_id": "ip_core",
+    "updated_at": "2026-06-17T06:20:50.220447000",
+    "created_at": "2026-06-17T06:20:50.220447000",
+    "entity_type": "component",
+    "canonical_name_zh": "IP核"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "面向个人和家庭用户销售的电子终端产品，如智能手机、电脑、可穿戴设备、家电等。",
+    "node_uuid": "8ef8758e-1135-41ab-987d-8857da1a423b",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "消费电子产品"
+    ],
+    "canonical_name_en": "consumer electronics",
+    "node_id": "consumer_electronics",
+    "updated_at": "2026-06-17T06:20:50.230464000",
+    "created_at": "2026-06-17T06:20:50.230464000",
+    "entity_type": "application_system",
+    "canonical_name_zh": "消费电子"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "应用于工业控制、自动化、电力电子、仪器仪表等领域的电子系统与器件。",
+    "node_uuid": "dd57f847-504d-416b-8e75-fcb4f6eb0bfb",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "工业电子系统"
+    ],
+    "canonical_name_en": "industrial electronics",
+    "node_id": "industrial_electronics",
+    "updated_at": "2026-06-17T06:20:50.418901000",
+    "created_at": "2026-06-17T06:20:50.418901000",
+    "entity_type": "application_system",
+    "canonical_name_zh": "工业电子"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "半导体工业最基础的材料，元素周期表第14号元素，经过提纯和晶体生长后用于制造硅片。",
+    "node_uuid": "09c0534e-1ea2-4f6c-8465-d9335780715c",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "单晶硅",
+      "多晶硅"
+    ],
+    "canonical_name_en": "silicon",
+    "node_id": "silicon",
+    "updated_at": "2026-06-17T06:58:44.487623000",
+    "created_at": "2026-06-17T06:58:44.487623000",
+    "entity_type": "material",
+    "canonical_name_zh": "硅"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于极紫外（13.5nm）光刻工艺的感光材料，对EUV波长有较高吸收和分辨率。",
+    "node_uuid": "9f54b13a-7dd3-4f0f-830f-1e61605096e4",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "极紫外光刻胶"
+    ],
+    "canonical_name_en": "EUV photoresist",
+    "node_id": "euv_photoresist",
+    "updated_at": "2026-06-17T06:58:44.862466000",
+    "created_at": "2026-06-17T06:58:44.862466000",
+    "entity_type": "material",
+    "canonical_name_zh": "EUV光刻胶"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于深紫外（193nm/248nm）光刻工艺的感光材料，是成熟制程的主力光刻胶。",
+    "node_uuid": "1355bf4b-1827-445d-bac7-2cbe824153a1",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "深紫外光刻胶"
+    ],
+    "canonical_name_en": "DUV photoresist",
+    "node_id": "duv_photoresist",
+    "updated_at": "2026-06-17T06:58:44.894572000",
+    "created_at": "2026-06-17T06:58:44.894572000",
+    "entity_type": "material",
+    "canonical_name_zh": "DUV光刻胶"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于半导体制造的高纯度气体，包括掺杂气、刻蚀气、沉积气、清洗气等。",
+    "node_uuid": "159289c3-9a5a-4049-a4a5-8a66f30f8cd2",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "电子特种气体"
+    ],
+    "canonical_name_en": "electronic special gases",
+    "node_id": "electronic_special_gases",
+    "updated_at": "2026-06-17T06:58:44.907635000",
+    "created_at": "2026-06-17T06:58:44.907635000",
+    "entity_type": "material",
+    "canonical_name_zh": "电子特气"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于化学机械抛光（CMP）工艺的悬浮液，通过机械研磨和化学腐蚀实现晶圆表面平坦化。",
+    "node_uuid": "6e12854f-8408-4623-88b9-6653e561328e",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "化学机械抛光液"
+    ],
+    "canonical_name_en": "CMP slurry",
+    "node_id": "cmp_slurry",
+    "updated_at": "2026-06-17T06:58:44.919729000",
+    "created_at": "2026-06-17T06:58:44.919729000",
+    "entity_type": "material",
+    "canonical_name_zh": "CMP抛光液"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "物理气相沉积（PVD）工艺中被高能离子轰击、溅射出原子并沉积到晶圆表面的固体材料。",
+    "node_uuid": "b65c2a2b-748c-4295-ada9-56e8e9c41fbc",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "靶材"
+    ],
+    "canonical_name_en": "sputtering target",
+    "node_id": "sputtering_target",
+    "updated_at": "2026-06-17T06:58:44.952622000",
+    "created_at": "2026-06-17T06:58:44.952622000",
+    "entity_type": "material",
+    "canonical_name_zh": "溅射靶材"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于晶圆清洗、刻蚀、显影、剥离等湿法工艺的高纯度化学试剂。",
+    "node_uuid": "ffe8bd89-3edd-49ea-b28c-d903760d398a",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "湿化学品"
+    ],
+    "canonical_name_en": "wet electronic chemicals",
+    "node_id": "wet_chemicals",
+    "updated_at": "2026-06-17T06:58:44.963929000",
+    "created_at": "2026-06-17T06:58:44.963929000",
+    "entity_type": "material",
+    "canonical_name_zh": "湿电子化学品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过气相化学反应在晶圆表面沉积薄膜的设备，包括LPCVD、PECVD、MOCVD等。",
+    "node_uuid": "e080a333-e7b1-4678-9474-2b5fd0147a77",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "化学气相沉积设备"
+    ],
+    "canonical_name_en": "chemical vapor deposition equipment",
+    "node_id": "cvd_equipment",
+    "updated_at": "2026-06-17T06:58:44.975437000",
+    "created_at": "2026-06-17T06:58:44.975437000",
+    "entity_type": "device",
+    "canonical_name_zh": "CVD设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过物理方法（如溅射、蒸发）将材料沉积到晶圆表面的薄膜设备。",
+    "node_uuid": "012c8c37-9e56-42f7-818a-785baaaf05b8",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "物理气相沉积设备"
+    ],
+    "canonical_name_en": "physical vapor deposition equipment",
+    "node_id": "pvd_equipment",
+    "updated_at": "2026-06-17T06:58:44.985952000",
+    "created_at": "2026-06-17T06:58:44.985952000",
+    "entity_type": "device",
+    "canonical_name_zh": "PVD设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以单原子层为精度进行薄膜沉积的设备，适用于高深宽比结构和先进制程。",
+    "node_uuid": "34e91b90-0d4f-4d4c-a71a-b6f571ed4689",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "原子层沉积设备"
+    ],
+    "canonical_name_en": "atomic layer deposition equipment",
+    "node_id": "ald_equipment",
+    "updated_at": "2026-06-17T06:58:44.996460000",
+    "created_at": "2026-06-17T06:58:44.996460000",
+    "entity_type": "device",
+    "canonical_name_zh": "ALD设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于晶圆和芯片制造过程中尺寸、缺陷、电性、膜厚等参数测量的设备。",
+    "node_uuid": "13958561-850a-489e-b2a4-0441aaa3dc44",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "检测设备",
+      "量测检测装备"
+    ],
+    "canonical_name_en": "metrology equipment",
+    "node_id": "metrology_equipment",
+    "updated_at": "2026-06-17T06:58:45.006984000",
+    "created_at": "2026-06-17T06:58:45.006984000",
+    "entity_type": "device",
+    "canonical_name_zh": "量测设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过化学腐蚀与机械研磨结合实现晶圆表面全局平坦化的设备。",
+    "node_uuid": "18baeaad-cc80-4e1a-aa2a-66cff947c757",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "化学机械抛光设备"
+    ],
+    "canonical_name_en": "chemical mechanical polishing equipment",
+    "node_id": "cmp_equipment",
+    "updated_at": "2026-06-17T06:58:45.037681000",
+    "created_at": "2026-06-17T06:58:45.037681000",
+    "entity_type": "device",
+    "canonical_name_zh": "CMP设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于去除晶圆表面颗粒、有机物、金属离子等污染物的设备。",
+    "node_uuid": "f484a5a3-4606-4cc4-990d-6a37a1f0a709",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "晶圆清洗设备"
+    ],
+    "canonical_name_en": "wafer cleaning equipment",
+    "node_id": "cleaning_equipment",
+    "updated_at": "2026-06-17T06:58:45.046867000",
+    "created_at": "2026-06-17T06:58:45.046867000",
+    "entity_type": "device",
+    "canonical_name_zh": "清洗设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在光刻前后完成光刻胶涂布、软烘、曝光后烘烤、显影等工序的设备。",
+    "node_uuid": "ab7c1fce-fa96-4d60-89ae-97ee5ac1e623",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "Track",
+      "涂胶显影机"
+    ],
+    "canonical_name_en": "track coater/developer",
+    "node_id": "track_coater_developer",
+    "updated_at": "2026-06-17T06:58:45.057390000",
+    "created_at": "2026-06-17T06:58:45.057390000",
+    "entity_type": "device",
+    "canonical_name_zh": "涂胶显影设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通常指28nm及以下，特别是7nm、5nm、3nm等追求高性能、低功耗的半导体制造工艺。",
+    "node_uuid": "4804127a-ab84-4567-aea7-f915f206249e",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "先进工艺"
+    ],
+    "canonical_name_en": "advanced process node",
+    "node_id": "advanced_process_node",
+    "updated_at": "2026-06-17T06:58:45.067915000",
+    "created_at": "2026-06-17T06:58:45.067915000",
+    "entity_type": "technology_capability",
+    "canonical_name_zh": "先进制程"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通常指28nm及以上，技术成熟、成本较低、应用领域广泛的半导体制造工艺。",
+    "node_uuid": "15997efa-b9cf-4056-b915-1d249292ffcb",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "成熟工艺"
+    ],
+    "canonical_name_en": "mature process node",
+    "node_id": "mature_process_node",
+    "updated_at": "2026-06-17T06:58:45.097445000",
+    "created_at": "2026-06-17T06:58:45.097445000",
+    "entity_type": "technology_capability",
+    "canonical_name_zh": "成熟制程"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将CPU、GPU、内存、接口等多种功能模块集成在单一芯片上的高度集成芯片。",
+    "node_uuid": "b7cf9d52-ea76-4089-890a-1fbc19fa91aa",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "SoC"
+    ],
+    "canonical_name_en": "system on chip",
+    "node_id": "soc",
+    "updated_at": "2026-06-17T06:58:45.108524000",
+    "created_at": "2026-06-17T06:58:45.108524000",
+    "entity_type": "component",
+    "canonical_name_zh": "系统级芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将处理器核心、存储器和外设接口集成在单一芯片上的小型计算控制芯片。",
+    "node_uuid": "0af9481a-9a60-4f9f-a91d-9c1f33b1c22f",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "MCU",
+      "单片机"
+    ],
+    "canonical_name_en": "microcontroller unit",
+    "node_id": "mcu",
+    "updated_at": "2026-06-17T06:58:45.138594000",
+    "created_at": "2026-06-17T06:58:45.138594000",
+    "entity_type": "component",
+    "canonical_name_zh": "微控制器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "出厂后可由用户反复配置逻辑功能的可编程数字集成电路。",
+    "node_uuid": "d3db00a8-e9be-4d2b-bb44-fb26539e94ae",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "FPGA"
+    ],
+    "canonical_name_en": "field programmable gate array",
+    "node_id": "fpga",
+    "updated_at": "2026-06-17T06:58:45.167483000",
+    "created_at": "2026-06-17T06:58:45.167483000",
+    "entity_type": "component",
+    "canonical_name_zh": "现场可编程门阵列"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "专门用于高速数字信号处理运算（如滤波、编解码、调制解调）的专用处理器。",
+    "node_uuid": "65b05bff-8b29-4bf5-a2a9-33bf6ea3dd27",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "DSP"
+    ],
+    "canonical_name_en": "digital signal processor",
+    "node_id": "dsp",
+    "updated_at": "2026-06-17T06:58:45.177005000",
+    "created_at": "2026-06-17T06:58:45.177005000",
+    "entity_type": "component",
+    "canonical_name_zh": "数字信号处理器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于管理电子设备电源分配、电压转换、充放电等功能的模拟芯片。",
+    "node_uuid": "6b201a18-7cba-4f52-b6d7-80f1c41cf2cd",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "PMIC"
+    ],
+    "canonical_name_en": "power management integrated circuit",
+    "node_id": "pmic",
+    "updated_at": "2026-06-17T06:58:45.187532000",
+    "created_at": "2026-06-17T06:58:45.187532000",
+    "entity_type": "component",
+    "canonical_name_zh": "电源管理芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将光信号转换为电信号的CMOS工艺传感器芯片，广泛应用于摄像头。",
+    "node_uuid": "71a4ceee-0337-403a-918f-b0256e1cb501",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "CIS",
+      "图像传感器芯片"
+    ],
+    "canonical_name_en": "CMOS image sensor",
+    "node_id": "cis",
+    "updated_at": "2026-06-17T06:58:45.197025000",
+    "created_at": "2026-06-17T06:58:45.197025000",
+    "entity_type": "component",
+    "canonical_name_zh": "CMOS图像传感器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "集成了移动通信、计算、拍照、上网等功能的便携式智能终端。",
+    "node_uuid": "aabdc1a1-06e7-4931-b3de-18e4d8d4f007",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "手机"
+    ],
+    "canonical_name_en": "smartphone",
+    "node_id": "smartphone",
+    "updated_at": "2026-06-17T06:58:45.206534000",
+    "created_at": "2026-06-17T06:58:45.206534000",
+    "entity_type": "application_system",
+    "canonical_name_zh": "智能手机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "面向个人用户的通用计算设备，包括台式机、笔记本、工作站等。",
+    "node_uuid": "16720fa4-1998-4a55-add3-5672d0f46435",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "PC",
+      "电脑"
+    ],
+    "canonical_name_en": "personal computer",
+    "node_id": "personal_computer",
+    "updated_at": "2026-06-17T06:58:45.232554000",
+    "created_at": "2026-06-17T06:58:45.232554000",
+    "entity_type": "application_system",
+    "canonical_name_zh": "个人电脑"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "为网络中的其他设备提供计算、存储、应用服务的高性能计算机。",
+    "node_uuid": "60f39f00-8614-4043-8cd8-deb89ac124f0",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "伺服器"
+    ],
+    "canonical_name_en": "server",
+    "node_id": "server",
+    "updated_at": "2026-06-17T06:58:45.258908000",
+    "created_at": "2026-06-17T06:58:45.258908000",
+    "entity_type": "application_system",
+    "canonical_name_zh": "服务器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "集中部署大量服务器、存储、网络设备，用于提供云计算和大数据服务的设施。",
+    "node_uuid": "65e5a261-2937-46c6-8fe0-50793ac42328",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "机房",
+      "DC"
+    ],
+    "canonical_name_en": "data center",
+    "node_id": "data_center",
+    "updated_at": "2026-06-17T06:58:45.268438000",
+    "created_at": "2026-06-17T06:58:45.268438000",
+    "entity_type": "infrastructure",
+    "canonical_name_zh": "数据中心"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "专门为人工智能训练和推理 workload 优化的计算芯片，包括NPU、TPU、专用ASIC等。",
+    "node_uuid": "6daba6ac-99e6-4eb1-a2c0-8e8bc00565a6",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "AI芯片",
+      "人工智能芯片"
+    ],
+    "canonical_name_en": "AI accelerator",
+    "node_id": "ai_accelerator",
+    "updated_at": "2026-06-17T06:58:45.367101000",
+    "created_at": "2026-06-17T06:58:45.367101000",
+    "entity_type": "component",
+    "canonical_name_zh": "AI加速器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "氟-free 钨前驱体候选材料，可作为 WF6 的替代品用于钨薄膜初始成核层，减少氟对超薄阻挡层/电介质的侵蚀，但成本与供给系统复杂度高于 WF6。",
+    "node_uuid": "69a53b06-b0ed-4f13-968e-57d0fed76da2",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Entegris White Paper: 96 Layers and Beyond: Solving 3D NAND Material and Integration Challenges\", \"source_url\": \"https://www.entegris.com/content/dam/web/resources/white-papers/whitepaper-solving-3d-nand-material-integration-challenges-8551.pdf\", \"quote\": \"Tungsten pentachloride (WCl5) is a potential substitute for WF6 but it has not been adopted in high volume because of its relatively high cost.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "WCl5"
+    ],
+    "canonical_name_en": "Tungsten Pentachloride",
+    "node_id": "tungsten_pentachloride",
+    "updated_at": "2026-06-18T02:07:30.467716000",
+    "created_at": "2026-06-18T02:07:17.554495000",
+    "entity_type": "material",
+    "canonical_name_zh": "五氯化钨"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "钨的氯化物前驱体之一，可作为 CVD-W 的替代来源，但存在残留氯损害与固态供给系统难度，尚未大规模量产。",
+    "node_uuid": "8e3c01e0-b794-4975-980a-c2aac7f15cc7",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"几种含钨前驱体的比较\", \"source_url\": \"https://zia-bj.org.cn/uploads_file/20210828/20210828164658_626.pdf\", \"quote\": \"WCl6，使用过程中残留的Cl会造成损害，并且WCl6不是气体，所以这给供给系统带来了比较大的麻烦。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "WCl6"
+    ],
+    "canonical_name_en": "Tungsten Hexachloride",
+    "node_id": "tungsten_hexachloride",
+    "updated_at": "2026-06-18T02:07:30.702361000",
+    "created_at": "2026-06-18T02:07:18.055587000",
+    "entity_type": "material",
+    "canonical_name_zh": "六氯化钨"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "非腐蚀性钨前驱体，可用于沉积对氟敏感的栅极/扩散阻挡层，但成膜速度较慢且为固态，需配合专用输送系统。",
+    "node_uuid": "7b2afb91-bb3e-468b-a665-ad19d2c0be7b",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"几种含钨前驱体的比较\", \"source_url\": \"https://zia-bj.org.cn/uploads_file/20210828/20210828164658_626.pdf\", \"quote\": \"W(CO)6，这个前驱体的问题是成膜的速度比较慢。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "W(CO)6"
+    ],
+    "canonical_name_en": "Tungsten Hexacarbonyl",
+    "node_id": "tungsten_hexacarbonyl",
+    "updated_at": "2026-06-18T02:07:30.723902000",
+    "created_at": "2026-06-18T02:07:18.075606000",
+    "entity_type": "material",
+    "canonical_name_zh": "六羰基钨"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "ALD/CVD 钼薄膜的前驱体，可作为钨填充的替代路线，用于先进节点中高纵横比结构的金属化，避免氟污染。",
+    "node_uuid": "b60d14f5-cf96-4b37-8fa7-a4e014221a9d",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Lam Research ALTUS Product Family\", \"source_url\": \"https://www.lamresearch.com/zh-hans/product/altus-product-family/\", \"quote\": \"可使用ALD沉积钼(Mo)，以便更好地填充器件特征。或者，可使用非氟化卤化物前体来沉积钼，以避免在某些钨应用中造成的电介质损坏。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Molybdenum Precursor",
+    "node_id": "molybdenum_precursor",
+    "updated_at": "2026-06-18T02:07:30.749469000",
+    "created_at": "2026-06-18T02:07:18.091644000",
+    "entity_type": "material",
+    "canonical_name_zh": "钼前驱体"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过 CVD/ALD 沉积的低电阻、高抗电迁移金属薄膜，用作芯片内部接触塞、通孔填充、局部互连及存储器字线。",
+    "node_uuid": "573a0254-de9d-43fb-b9f5-a38bb4d1c9cf",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"化工新材料系列(一) 电子特气：半导体新周期将至，国产替代如火如荼\", \"source_url\": \"https://pdf.dfcfw.com/pdf/H3_AP202305241587131051_1.pdf\", \"quote\": \"六氟化钨可通过化学气相淀积法(CVD)形成金属钨，用该法制成的钨具有低电阻率、高抗电迁移性以及填充小通孔时具优异平整性等优点。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "钨膜",
+      "金属钨薄膜"
+    ],
+    "canonical_name_en": "Tungsten Film",
+    "node_id": "tungsten_film",
+    "updated_at": "2026-06-18T02:07:30.828121000",
+    "created_at": "2026-06-18T02:07:18.167249000",
+    "entity_type": "material",
+    "canonical_name_zh": "钨薄膜"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过 ALD/CVD 沉积的金属薄膜，可在部分先进互连/填充应用中替代钨薄膜，避免氟污染并改善台阶覆盖。",
+    "node_uuid": "fbb8ec83-cb5a-4d1f-994f-af06a77efcc8",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Lam Research ALTUS Product Family\", \"source_url\": \"https://www.lamresearch.com/zh-hans/product/altus-product-family/\", \"quote\": \"可使用ALD沉积钼(Mo)，以便更好地填充器件特征。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "钼膜"
+    ],
+    "canonical_name_en": "Molybdenum Film",
+    "node_id": "molybdenum_film",
+    "updated_at": "2026-06-18T02:07:30.910939000",
+    "created_at": "2026-06-18T02:07:18.230329000",
+    "entity_type": "material",
+    "canonical_name_zh": "钼薄膜"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "半导体 CVD/ALD 钨薄膜核心前驱体，常温下为无色有毒气体，与还原剂反应在晶圆表面沉积高纯金属钨膜，用于接触孔、通孔、互连线及 3D NAND/DRAM 字线填充。",
+    "node_uuid": "cc03b8e8-6afc-4fe9-a15d-52f1fa4d2c07",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"湖北日报：日本部分六氟化钨厂商拟断供，对半导体产业有何影响？\", \"source_url\": \"https://news.hubeidaily.net/mobile/c_5347295.html\", \"quote\": \"在半导体制造中，六氟化钨主要作为化学气相沉积（CVD）工艺的关键前驱体...用于构建芯片内部的互连线、接触孔、通孔等导电结构。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "WF6"
+    ],
+    "canonical_name_en": "Tungsten Hexafluoride",
+    "node_id": "tungsten_hexafluoride",
+    "updated_at": "2026-06-18T02:07:30.449667000",
+    "created_at": "2026-06-18T02:07:30.449667000",
+    "entity_type": "material",
+    "canonical_name_zh": "六氟化钨"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将硅片等半导体衬底通过光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗等工艺加工为晶圆或芯片的制造过程。",
+    "node_uuid": "15bcf96b-d46e-4d86-9677-17bf219cad4d",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Wafer Manufacturing",
+    "node_id": "wafer_manufacturing",
+    "updated_at": "2026-06-18T07:22:04.138136000",
+    "created_at": "2026-06-18T07:22:04.138136000",
+    "entity_type": "process",
+    "canonical_name_zh": "晶圆制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "根据功能需求进行电路设计、逻辑综合、物理实现、验证并输出掩膜版数据的过程。",
+    "node_uuid": "0d6dc614-8ebc-4709-92dd-afaee0771103",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Chip Design",
+    "node_id": "chip_design",
+    "updated_at": "2026-06-18T07:22:04.191144000",
+    "created_at": "2026-06-18T07:22:04.191144000",
+    "entity_type": "process",
+    "canonical_name_zh": "芯片设计"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用光刻胶和光刻设备将掩膜版图形转移到晶圆表面的工艺过程。",
+    "node_uuid": "b40ce833-5c15-4a7b-a0bc-6d1e415a8fbc",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Lithography Process",
+    "node_id": "lithography_process",
+    "updated_at": "2026-06-18T07:22:04.232818000",
+    "created_at": "2026-06-18T07:22:04.232818000",
+    "entity_type": "process",
+    "canonical_name_zh": "光刻工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "按光刻图形选择性去除晶圆表面材料的工艺过程。",
+    "node_uuid": "dd1b5ed5-9cf3-457e-8ed7-72f3dfe0f872",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Etching Process",
+    "node_id": "etching_process",
+    "updated_at": "2026-06-18T07:22:04.257813000",
+    "created_at": "2026-06-18T07:22:04.257813000",
+    "entity_type": "process",
+    "canonical_name_zh": "刻蚀工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在晶圆表面沉积介质、金属等薄膜材料的工艺过程。",
+    "node_uuid": "5ac9e9d0-2740-45da-bd6f-a71cd9916828",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Thin Film Deposition Process",
+    "node_id": "thin_film_deposition_process",
+    "updated_at": "2026-06-18T07:22:04.281711000",
+    "created_at": "2026-06-18T07:22:04.281711000",
+    "entity_type": "process",
+    "canonical_name_zh": "薄膜沉积工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将掺杂离子注入晶圆以改变其电学性能的工艺过程。",
+    "node_uuid": "9a2487e8-54c3-4fbe-b8dd-6b3550e09a60",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Ion Implantation Process",
+    "node_id": "ion_implantation_process",
+    "updated_at": "2026-06-18T07:22:04.300817000",
+    "created_at": "2026-06-18T07:22:04.300817000",
+    "entity_type": "process",
+    "canonical_name_zh": "离子注入工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "去除晶圆表面颗粒、有机物、金属离子等污染物的工艺过程。",
+    "node_uuid": "c0c3e8dc-5b82-41ee-805d-24d9b6428016",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Cleaning Process",
+    "node_id": "cleaning_process",
+    "updated_at": "2026-06-18T07:22:04.318528000",
+    "created_at": "2026-06-18T07:22:04.318528000",
+    "entity_type": "process",
+    "canonical_name_zh": "清洗工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "化学机械抛光，用于平坦化晶圆表面介质或金属薄膜的工艺过程。",
+    "node_uuid": "25cf612d-7697-4059-9403-c52587b24d45",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "CMP Process",
+    "node_id": "cmp_process",
+    "updated_at": "2026-06-18T07:22:04.337540000",
+    "created_at": "2026-06-18T07:22:04.337540000",
+    "entity_type": "process",
+    "canonical_name_zh": "CMP工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "对晶圆/芯片关键尺寸、缺陷、电学参数等进行测量和检测的环节。",
+    "node_uuid": "6b97536e-8b8c-4453-ba53-28349292b203",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Metrology and Inspection",
+    "node_id": "metrology_inspection",
+    "updated_at": "2026-06-18T07:22:04.359649000",
+    "created_at": "2026-06-18T07:22:04.359649000",
+    "entity_type": "process",
+    "canonical_name_zh": "量测检测"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将汽车钢材通过冲压、焊接、机加工、热处理等工序制成车身、底盘、传动、制动、悬架等系统零部件的制造过程。",
+    "node_uuid": "1f795c4f-5e5f-4a76-8cca-6497a8dcf0c5",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"汽车轻量化材料应用\", \"source_url\": null, \"quote\": \"汽车钢材和铝材经冲压、压铸、焊接等成形工艺制成底盘、制动、传动等系统零部件。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Automotive Steel Forming Process",
+    "node_id": "automotive_steel_forming_process",
+    "updated_at": "2026-06-18T08:29:24.192012000",
+    "created_at": "2026-06-18T08:29:24.192012000",
+    "entity_type": "process",
+    "canonical_name_zh": "汽车钢材成形工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将汽车铝材通过压铸、挤压、机加工等工序制成轻量化底盘、制动系统等零部件的制造过程。",
+    "node_uuid": "88bc5a93-ab72-42ac-841c-6b13a9782bd3",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"汽车轻量化材料应用\", \"source_url\": null, \"quote\": \"汽车钢材和铝材经冲压、压铸、焊接等成形工艺制成底盘、制动、传动等系统零部件。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Automotive Aluminum Forming Process",
+    "node_id": "automotive_aluminum_forming_process",
+    "updated_at": "2026-06-18T08:29:24.221023000",
+    "created_at": "2026-06-18T08:29:24.221023000",
+    "entity_type": "process",
+    "canonical_name_zh": "汽车铝材成形工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将阴极铜通过熔铸、轧制、拉拔等工序制成铜箔、铜板带、铜线等铜加工材的过程。",
+    "node_uuid": "300aa2d6-5da6-444f-82ec-63b6fdf24e42",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"铜加工产业链\", \"source_url\": null, \"quote\": \"阴极铜经熔铸、轧制、拉拔等加工制成铜箔、铜板带、铜线及电线电缆。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Copper Processing",
+    "node_id": "copper_processing",
+    "updated_at": "2026-06-18T08:29:24.248016000",
+    "created_at": "2026-06-18T08:29:24.248016000",
+    "entity_type": "process",
+    "canonical_name_zh": "铜加工"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将铜线或铝线通过绞合、绝缘挤出、护套等工序制成电线电缆产品的制造过程。",
+    "node_uuid": "3aef84c1-2ad5-4408-bf11-c7bff28fdec1",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"铜加工产业链\", \"source_url\": null, \"quote\": \"阴极铜经熔铸、轧制、拉拔等加工制成铜箔、铜板带、铜线及电线电缆。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Wire and Cable Manufacturing",
+    "node_id": "wire_cable_manufacturing",
+    "updated_at": "2026-06-18T08:29:24.268013000",
+    "created_at": "2026-06-18T08:29:24.268013000",
+    "entity_type": "process",
+    "canonical_name_zh": "电线电缆制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将石英砂、纯碱等原料经高温熔融、成型、退火等工序制成浮法玻璃、电子玻璃、光伏玻璃等玻璃制品的过程。",
+    "node_uuid": "c561680a-04fa-47df-8b87-1562bb97f595",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"玻璃与光纤制造工艺\", \"source_url\": null, \"quote\": \"石英砂、纯碱等原料经高温熔融、成型制成浮法玻璃、电子玻璃、光伏玻璃；高纯石英砂经熔融拉制成光纤。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Glass Manufacturing",
+    "node_id": "glass_manufacturing",
+    "updated_at": "2026-06-18T08:29:24.287032000",
+    "created_at": "2026-06-18T08:29:24.287032000",
+    "entity_type": "process",
+    "canonical_name_zh": "玻璃制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将高纯度石英砂经熔融、拉制成光纤预制棒并进一步拉丝、涂覆制成光纤及光缆的过程。",
+    "node_uuid": "e9d163a3-b8f4-4c68-abb2-b9b317061fa2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"玻璃与光纤制造工艺\", \"source_url\": null, \"quote\": \"石英砂、纯碱等原料经高温熔融、成型制成浮法玻璃、电子玻璃、光伏玻璃；高纯石英砂经熔融拉制成光纤。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Optical Fiber Manufacturing",
+    "node_id": "optical_fiber_manufacturing",
+    "updated_at": "2026-06-18T08:29:24.305556000",
+    "created_at": "2026-06-18T08:29:24.305556000",
+    "entity_type": "process",
+    "canonical_name_zh": "光纤制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将铝板通过冲压、挤压、机加工、表面处理等工序制成建筑幕墙、活塞、电容器箔等铝制品的过程。",
+    "node_uuid": "6c22bc93-21e1-4469-a0d4-52e6f32cd143",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"铝加工工艺\", \"source_url\": null, \"quote\": \"铝板可通过冲压、挤压、机加工、表面处理等工艺制成活塞、幕墙、电容器箔等制品。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Aluminum Panel Processing",
+    "node_id": "aluminum_panel_processing",
+    "updated_at": "2026-06-18T08:36:49.272514000",
+    "created_at": "2026-06-18T08:36:49.272514000",
+    "entity_type": "process",
+    "canonical_name_zh": "铝板加工"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将水泥与骨料、水等混合后成型、养护，制成水泥制品和预制构件的过程。",
+    "node_uuid": "c9822a7c-e2d9-4b4d-bdc6-343afcf95d1d",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"水泥制品制造\", \"source_url\": null, \"quote\": \"水泥与骨料、水混合后成型养护制成水泥制品。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Cement Product Manufacturing",
+    "node_id": "cement_product_manufacturing",
+    "updated_at": "2026-06-18T08:36:49.292857000",
+    "created_at": "2026-06-18T08:36:49.292857000",
+    "entity_type": "process",
+    "canonical_name_zh": "水泥制品制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将燃油喷射系统零部件进行精密加工、装配和标定，形成完整燃油喷射系统的过程。",
+    "node_uuid": "2fc21b16-1cdc-4374-aba8-991cc5aa7353",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"燃油喷射系统制造\", \"source_url\": null, \"quote\": \"柴油作为工质，燃油喷射系统由精密零部件加工装配而成。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Fuel Injection System Manufacturing",
+    "node_id": "fuel_injection_system_manufacturing",
+    "updated_at": "2026-06-18T08:36:49.303961000",
+    "created_at": "2026-06-18T08:36:49.303961000",
+    "entity_type": "process",
+    "canonical_name_zh": "燃油喷射系统制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将木材产品、浸渍纸等原料通过胶合、热压、贴面等工序制成人造板的过程。",
+    "node_uuid": "87e87544-9259-4e1a-a9f5-6c0fd6c368f3",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"人造板制造\", \"source_url\": null, \"quote\": \"木材产品通过胶合、热压、贴面等工序制成人造板。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Wood-based Panel Manufacturing",
+    "node_id": "wood_based_panel_manufacturing",
+    "updated_at": "2026-06-18T08:36:49.312979000",
+    "created_at": "2026-06-18T08:36:49.312979000",
+    "entity_type": "process",
+    "canonical_name_zh": "人造板制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将纸浆、纸板、瓦楞纸等包装材料通过模切、印刷、折叠、粘合等工序制成纸箱、纸盒等纸包装制品的过程。",
+    "node_uuid": "75b39fb0-82cd-4ee6-b9d8-1554c91e151b",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"纸包装制造\", \"source_url\": null, \"quote\": \"纸浆、纸板等经模切、印刷、折叠、粘合等工序制成纸包装制品。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Paper Packaging Manufacturing",
+    "node_id": "paper_packaging_manufacturing",
+    "updated_at": "2026-06-18T08:36:49.325007000",
+    "created_at": "2026-06-18T08:36:49.325007000",
+    "entity_type": "process",
+    "canonical_name_zh": "纸包装制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将覆铜板通过蚀刻、钻孔、电镀、层压等工序制成印制电路板的过程。",
+    "node_uuid": "e2a2f8d8-7bdb-4e37-ac99-c4ce1f96e6fa",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"印制电路板制造\", \"source_url\": null, \"quote\": \"覆铜板经蚀刻、钻孔、电镀、层压等工序制成印制电路板。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Printed Circuit Board Fabrication",
+    "node_id": "printed_circuit_board_fabrication",
+    "updated_at": "2026-06-18T08:36:49.334120000",
+    "created_at": "2026-06-18T08:36:49.334120000",
+    "entity_type": "process",
+    "canonical_name_zh": "印制电路板制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将PET树脂加热熔融后注入模具，冷却成型为瓶胚的过程。",
+    "node_uuid": "e4096f4f-1e43-4305-8d31-b73cdfe118e2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"PET瓶胚注塑\", \"source_url\": null, \"quote\": \"PET树脂经注塑成型制成瓶胚。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "PET Preform Injection Molding",
+    "node_id": "pet_preform_injection_molding",
+    "updated_at": "2026-06-18T08:36:49.343635000",
+    "created_at": "2026-06-18T08:36:49.343635000",
+    "entity_type": "process",
+    "canonical_name_zh": "PET瓶胚注塑"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将塑胶原料通过注塑、挤出等工序制成注塑件、塑料型材等塑料制品的过程。",
+    "node_uuid": "1171befe-f4c9-4509-8174-bb55b2365cdc",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"塑料制品加工\", \"source_url\": null, \"quote\": \"塑胶原料经注塑、挤出等工序制成注塑件、型材等塑料制品。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Plastic Processing",
+    "node_id": "plastic_processing",
+    "updated_at": "2026-06-18T08:36:49.352644000",
+    "created_at": "2026-06-18T08:36:49.352644000",
+    "entity_type": "process",
+    "canonical_name_zh": "塑料制品加工"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将高分子橡胶材料通过混炼、硫化、成型等工序制成橡胶密封件的过程。",
+    "node_uuid": "eb9547da-ef7c-426f-acba-3c89b36a8316",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"橡胶制品制造\", \"source_url\": null, \"quote\": \"高分子橡胶材料经混炼、硫化、成型制成密封件、轮胎等橡胶制品。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Rubber Seal Molding",
+    "node_id": "rubber_seal_molding",
+    "updated_at": "2026-06-18T08:36:49.363664000",
+    "created_at": "2026-06-18T08:36:49.363664000",
+    "entity_type": "process",
+    "canonical_name_zh": "橡胶密封件成型"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将橡胶、钢丝、帘布等原材料通过混炼、压延、成型、硫化等工序制成轮胎的过程。",
+    "node_uuid": "8e5ce53d-2182-4f27-9ea3-8658249e2574",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"橡胶制品制造\", \"source_url\": null, \"quote\": \"高分子橡胶材料经混炼、硫化、成型制成密封件、轮胎等橡胶制品。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Tire Manufacturing",
+    "node_id": "tire_manufacturing",
+    "updated_at": "2026-06-18T08:36:49.372675000",
+    "created_at": "2026-06-18T08:36:49.372675000",
+    "entity_type": "process",
+    "canonical_name_zh": "轮胎制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将冷轧钢板通过冲压、焊接、机加工、热处理等工序制成炮弹壳体、气缸套、轴承、导弹/火箭弹结构件等金属制品的过程。",
+    "node_uuid": "a9382ed5-44e2-472c-9303-c70b367764ce",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"金属钣金成形\", \"source_url\": null, \"quote\": \"冷轧钢板经冲压、焊接、机加工、热处理制成结构件、壳体、轴承等金属制品。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Steel Sheet Metal Forming",
+    "node_id": "steel_sheet_metal_forming",
+    "updated_at": "2026-06-18T08:36:49.382181000",
+    "created_at": "2026-06-18T08:36:49.382181000",
+    "entity_type": "process",
+    "canonical_name_zh": "钢板钣金成形"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
     "definition": "计算服务器、网络设备及存储等IT基础设施硬件",
     "node_uuid": "6d33e3f7-89a6-442f-82a8-b57a77db3d70",
     "status": "ACTIVE",
@@ -1213,24 +2850,6 @@
     "entity_type": "service",
     "notes": "园林绿化延伸服务",
     "canonical_name_zh": "生态修复服务"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "用于光伏产业的高纯度硅原料，包括工业硅和多晶硅。",
-    "node_uuid": "a342ae33-2240-4607-8f9e-609a6b741654",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"tushare_stock_analysis_batch_001\", \"source_url\": null, \"quote\": \"Derived from company business scope and industry analysis\"}]",
-    "confidence": "HIGH",
-    "aliases": [],
-    "canonical_name_en": "Silicon Material",
-    "node_id": "silicon_material",
-    "updated_at": "2026-05-23T01:38:46.771313000",
-    "created_at": "2026-05-23T01:38:46.771313000",
-    "entity_type": "material",
-    "notes": "光伏产业上游材料",
-    "canonical_name_zh": "硅材料"
   },
   {
     "__labels": [
@@ -2574,21 +4193,20 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "安装在汽车上用于控制、监测和辅助驾驶功能的电子设备和电气系统，包括ECU、传感器、线束等。",
+    "definition": "应用于汽车中的电子系统与器件，包括动力控制、智能驾驶、信息娱乐、车身电子等。",
     "node_uuid": "7e422fee-65d6-4cde-ac91-6dacbbdcbbdb",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"富奥股份2024年年度报告\", \"source_url\": null, \"quote\": \"公司主要产品包括底盘系统、环境系统、制动和传动系统、转向及安全系统、电子电器系统、发动机附件系统等六大系列。\"}]",
-    "confidence": "HIGH",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
     "aliases": [
-      "汽车电子",
       "车载电子"
     ],
-    "canonical_name_en": "Automotive Electronics",
+    "canonical_name_en": "automotive electronics",
     "node_id": "automotive_electronics",
-    "updated_at": "2026-05-23T08:30:19.758663000",
+    "updated_at": "2026-06-17T06:20:50.263084000",
     "created_at": "2026-05-23T08:30:19.758663000",
-    "entity_type": "component",
-    "canonical_name_zh": "汽车电子电器"
+    "entity_type": "application_system",
+    "canonical_name_zh": "汽车电子"
   },
   {
     "__labels": [
@@ -10830,20 +12448,20 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "采用新型动力系统，完全或主要依靠新型能源驱动的汽车，包括纯电动汽车（BEV）、插电式混合动力汽车（PHEV）和燃料电池汽车（FCEV）等，是汽车产业转型升级的主要方向。",
+    "definition": "采用非常规车用燃料或新型车载动力装置的汽车，包括纯电动、插电混动、燃料电池汽车。",
     "node_uuid": "a675c38e-17c0-4b22-8c1c-baa62ca3eb94",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"安凯客车 主营业务\", \"source_url\": null, \"quote\": \"主要产品:...新能源商用车等\"}]",
-    "confidence": "HIGH",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
     "aliases": [
-      "新能源车",
-      "NEV"
+      "NEV",
+      "电动车"
     ],
-    "canonical_name_en": "New Energy Vehicle",
+    "canonical_name_en": "new energy vehicle",
     "node_id": "new_energy_vehicle",
-    "updated_at": "2026-05-25T04:45:09.326050000",
+    "updated_at": "2026-06-17T06:58:45.277565000",
     "created_at": "2026-05-25T04:45:09.326050000",
-    "entity_type": "system",
+    "entity_type": "application_system",
     "canonical_name_zh": "新能源汽车"
   },
   {
