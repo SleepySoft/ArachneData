@@ -7,6 +7,7 @@
     "created_at": "2026-05-26T04:28:31.101000000+00:00",
     "confidence": "HIGH",
     "node_type": "material",
+    "entity_type": "unknown",
     "canonical_name_zh": "小麦",
     "canonical_name_en": "Wheat",
     "node_id": "wheat"
@@ -201,7 +202,7 @@
     "node_id": "wafer",
     "updated_at": "2026-06-17T06:20:49.966382000",
     "created_at": "2026-06-17T06:20:49.966382000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "晶圆"
   },
   {
@@ -221,7 +222,7 @@
     "node_id": "chip",
     "updated_at": "2026-06-17T06:20:49.999957000",
     "created_at": "2026-06-17T06:20:49.999957000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "芯片"
   },
   {
@@ -241,7 +242,7 @@
     "node_id": "cpu",
     "updated_at": "2026-06-17T06:20:50.032199000",
     "created_at": "2026-06-17T06:20:50.032199000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "中央处理器"
   },
   {
@@ -261,7 +262,7 @@
     "node_id": "gpu",
     "updated_at": "2026-06-17T06:20:50.065299000",
     "created_at": "2026-06-17T06:20:50.065299000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "图形处理器"
   },
   {
@@ -281,7 +282,7 @@
     "node_id": "memory_chip",
     "updated_at": "2026-06-17T06:20:50.078315000",
     "created_at": "2026-06-17T06:20:50.078315000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "存储芯片"
   },
   {
@@ -300,7 +301,7 @@
     "node_id": "logic_chip",
     "updated_at": "2026-06-17T06:20:50.091839000",
     "created_at": "2026-06-17T06:20:50.091839000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "逻辑芯片"
   },
   {
@@ -319,7 +320,7 @@
     "node_id": "analog_chip",
     "updated_at": "2026-06-17T06:20:50.101852000",
     "created_at": "2026-06-17T06:20:50.101852000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "模拟芯片"
   },
   {
@@ -339,7 +340,7 @@
     "node_id": "power_semiconductor",
     "updated_at": "2026-06-17T06:20:50.111894000",
     "created_at": "2026-06-17T06:20:50.111894000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "功率半导体"
   },
   {
@@ -359,7 +360,7 @@
     "node_id": "rf_chip",
     "updated_at": "2026-06-17T06:20:50.121919000",
     "created_at": "2026-06-17T06:20:50.121919000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "射频芯片"
   },
   {
@@ -379,7 +380,7 @@
     "node_id": "sensor_chip",
     "updated_at": "2026-06-17T06:20:50.134943000",
     "created_at": "2026-06-17T06:20:50.134943000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "传感器芯片"
   },
   {
@@ -500,7 +501,7 @@
     "node_id": "ip_core",
     "updated_at": "2026-06-17T06:20:50.220447000",
     "created_at": "2026-06-17T06:20:50.220447000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "IP核"
   },
   {
@@ -519,7 +520,7 @@
     "node_id": "consumer_electronics",
     "updated_at": "2026-06-17T06:20:50.230464000",
     "created_at": "2026-06-17T06:20:50.230464000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "消费电子"
   },
   {
@@ -538,7 +539,7 @@
     "node_id": "industrial_electronics",
     "updated_at": "2026-06-17T06:20:50.418901000",
     "created_at": "2026-06-17T06:20:50.418901000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "工业电子"
   },
   {
@@ -864,7 +865,7 @@
     "node_id": "soc",
     "updated_at": "2026-06-17T06:58:45.108524000",
     "created_at": "2026-06-17T06:58:45.108524000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "系统级芯片"
   },
   {
@@ -884,7 +885,7 @@
     "node_id": "mcu",
     "updated_at": "2026-06-17T06:58:45.138594000",
     "created_at": "2026-06-17T06:58:45.138594000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "微控制器"
   },
   {
@@ -903,7 +904,7 @@
     "node_id": "fpga",
     "updated_at": "2026-06-17T06:58:45.167483000",
     "created_at": "2026-06-17T06:58:45.167483000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "现场可编程门阵列"
   },
   {
@@ -922,7 +923,7 @@
     "node_id": "dsp",
     "updated_at": "2026-06-17T06:58:45.177005000",
     "created_at": "2026-06-17T06:58:45.177005000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "数字信号处理器"
   },
   {
@@ -941,7 +942,7 @@
     "node_id": "pmic",
     "updated_at": "2026-06-17T06:58:45.187532000",
     "created_at": "2026-06-17T06:58:45.187532000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "电源管理芯片"
   },
   {
@@ -961,7 +962,7 @@
     "node_id": "cis",
     "updated_at": "2026-06-17T06:58:45.197025000",
     "created_at": "2026-06-17T06:58:45.197025000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "CMOS图像传感器"
   },
   {
@@ -980,7 +981,7 @@
     "node_id": "smartphone",
     "updated_at": "2026-06-17T06:58:45.206534000",
     "created_at": "2026-06-17T06:58:45.206534000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "智能手机"
   },
   {
@@ -1000,7 +1001,7 @@
     "node_id": "personal_computer",
     "updated_at": "2026-06-17T06:58:45.232554000",
     "created_at": "2026-06-17T06:58:45.232554000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "个人电脑"
   },
   {
@@ -1019,7 +1020,7 @@
     "node_id": "server",
     "updated_at": "2026-06-17T06:58:45.258908000",
     "created_at": "2026-06-17T06:58:45.258908000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "服务器"
   },
   {
@@ -1059,7 +1060,7 @@
     "node_id": "ai_accelerator",
     "updated_at": "2026-06-17T06:58:45.367101000",
     "created_at": "2026-06-17T06:58:45.367101000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "AI加速器"
   },
   {
@@ -1640,6 +1641,278 @@
     "__labels": [
       "IndustrialNode"
     ],
+    "definition": "将已完成前道制造的晶圆或芯片进行切割、封装、测试，使其成为可交付半导体器件的过程。",
+    "node_uuid": "eb340dae-b24b-470f-baf7-934b8db3d559",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体封测工艺\", \"source_url\": null, \"quote\": \"芯片完成前端制造后，需经过封装与测试才能成为可用的半导体器件。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Chip Packaging and Testing",
+    "node_id": "chip_packaging_and_testing",
+    "updated_at": "2026-06-18T08:59:45.864671000",
+    "created_at": "2026-06-18T08:59:45.864671000",
+    "entity_type": "process",
+    "canonical_name_zh": "芯片封测"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将芯片、器件、模块等通过板卡、整机设计集成到汽车电子、消费电子、服务器、智能手机等终端系统的过程。",
+    "node_uuid": "32ff0ec2-e17e-4f62-86a4-de32df4ff3ac",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"电子系统集成\", \"source_url\": null, \"quote\": \"芯片及器件通过板级/系统级集成进入汽车电子、消费电子、服务器等终端应用。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "Electronics System Integration",
+    "node_id": "electronics_system_integration",
+    "updated_at": "2026-06-18T08:59:46.080391000",
+    "created_at": "2026-06-18T08:59:46.080391000",
+    "entity_type": "process",
+    "canonical_name_zh": "电子系统集成"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经过CMP平坦化处理后的晶圆，表面具有均匀的平坦度，可用于后续光刻、刻蚀或沉积等工艺。",
+    "node_uuid": "39fc9a19-ee5a-43fe-9a5a-6e2053a53280",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "planarized wafer",
+    "node_id": "planarized_wafer",
+    "updated_at": "2026-06-23T09:05:41.452791000",
+    "created_at": "2026-06-23T08:42:57.812968000",
+    "entity_type": "part",
+    "canonical_name_zh": "平坦化晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经过光刻工艺曝光和显影后，表面带有光刻胶图形的晶圆，用于后续刻蚀工艺将图形转移到薄膜或衬底上。",
+    "node_uuid": "f24099c8-0eb6-49f1-b47d-efc0bc8354b7",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "patterned wafer",
+    "node_id": "patterned_wafer",
+    "updated_at": "2026-06-23T09:05:37.383286000",
+    "created_at": "2026-06-23T08:50:19.125415000",
+    "entity_type": "part",
+    "canonical_name_zh": "图形化晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经过清洗工艺去除颗粒、有机物、金属离子等污染物后的晶圆，表面洁净，可进入下一道工艺。",
+    "node_uuid": "1983f1f9-8a21-44e6-9d4b-cd38e55863eb",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "cleaned wafer",
+    "node_id": "cleaned_wafer",
+    "updated_at": "2026-06-23T09:05:39.419313000",
+    "created_at": "2026-06-23T08:51:14.637901000",
+    "entity_type": "part",
+    "canonical_name_zh": "清洗后晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于半导体晶圆清洗，主要用于去除硅表面的自然氧化层。",
+    "node_uuid": "c0c0ba98-2179-49bd-86d6-3eb5b597ecb7",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "hydrofluoric acid",
+    "node_id": "hydrofluoric_acid",
+    "updated_at": "2026-06-23T09:05:24.948136000",
+    "created_at": "2026-06-23T09:00:35.588043000",
+    "entity_type": "material",
+    "canonical_name_zh": "氢氟酸"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "强氧化剂，半导体清洗中用于氧化和去除有机污染物及颗粒。",
+    "node_uuid": "1028d37f-a4b9-40df-aab7-79fa870edec6",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "hydrogen peroxide",
+    "node_id": "hydrogen_peroxide",
+    "updated_at": "2026-06-23T09:05:27.235370000",
+    "created_at": "2026-06-23T09:00:35.624566000",
+    "entity_type": "material",
+    "canonical_name_zh": "双氧水"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "与双氧水配成 RCA SC-1 清洗液，用于去除晶圆表面的颗粒和有机物。",
+    "node_uuid": "867d44e4-29a2-4316-a451-34068e81ec6b",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "ammonium hydroxide",
+    "node_id": "ammonium_hydroxide",
+    "updated_at": "2026-06-23T09:05:29.271716000",
+    "created_at": "2026-06-23T09:00:35.642565000",
+    "entity_type": "material",
+    "canonical_name_zh": "氨水"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "半导体晶圆清洗后常用的干燥溶剂，也可去除部分有机残留。",
+    "node_uuid": "2f6f3856-bd24-4c58-bc71-edd9a938eebe",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "isopropyl alcohol",
+    "node_id": "isopropyl_alcohol",
+    "updated_at": "2026-06-23T09:05:31.298288000",
+    "created_at": "2026-06-23T09:00:35.655561000",
+    "entity_type": "material",
+    "canonical_name_zh": "异丙醇"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "高纯度水，用于晶圆清洗过程中的大量冲洗。",
+    "node_uuid": "78f071c8-9d33-40c3-a1e0-b42331f096ed",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "deionized water",
+    "node_id": "deionized_water",
+    "updated_at": "2026-06-23T09:05:33.333981000",
+    "created_at": "2026-06-23T09:00:35.667575000",
+    "entity_type": "material",
+    "canonical_name_zh": "去离子水"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "与双氧水配成 RCA SC-2 清洗液，用于去除晶圆表面的金属离子污染。",
+    "node_uuid": "4c144b68-44dd-44ac-a5eb-fff783e94c32",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "hydrochloric acid",
+    "node_id": "hydrochloric_acid",
+    "updated_at": "2026-06-23T09:05:35.357151000",
+    "created_at": "2026-06-23T09:00:35.681560000",
+    "entity_type": "material",
+    "canonical_name_zh": "盐酸"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经过刻蚀工艺将光刻胶图形转移到薄膜或衬底上之后的晶圆，表面已形成所需图形结构。",
+    "node_uuid": "1886e69d-04e0-421f-bdf7-7c801914ad8b",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "etched wafer",
+    "node_id": "etched_wafer",
+    "updated_at": "2026-06-24T02:11:22.640360000",
+    "created_at": "2026-06-24T02:11:22.640360000",
+    "entity_type": "part",
+    "canonical_name_zh": "刻蚀后晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经过离子注入工艺将掺杂离子注入硅衬底后的晶圆，用于形成源漏区等掺杂结构。",
+    "node_uuid": "441234f1-962b-4916-a6d5-62384c243726",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "implanted wafer",
+    "node_id": "implanted_wafer",
+    "updated_at": "2026-06-24T02:11:24.654152000",
+    "created_at": "2026-06-24T02:11:24.654152000",
+    "entity_type": "part",
+    "canonical_name_zh": "离子注入后晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于半导体离子注入工艺的掺杂源气体，如硼烷、磷烷、砷烷等，用来改变硅的电学特性。",
+    "node_uuid": "055c79fd-2cb1-4f87-9cb6-b08fd6b1cf1c",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "dopant gas",
+    "node_id": "dopant_gas",
+    "updated_at": "2026-06-24T02:11:26.694845000",
+    "created_at": "2026-06-24T02:11:26.694845000",
+    "entity_type": "material",
+    "canonical_name_zh": "掺杂气体"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "半导体制造中用于激活离子注入掺杂并修复晶格损伤的热处理工艺。",
+    "node_uuid": "a67b7b7c-77e4-4bc3-a426-215127e612e4",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "annealing process",
+    "node_id": "annealing_process",
+    "updated_at": "2026-06-24T02:15:46.383466000",
+    "created_at": "2026-06-24T02:15:46.383466000",
+    "entity_type": "process",
+    "canonical_name_zh": "退火工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "经过退火工艺处理后，掺杂离子被激活、晶格损伤得到修复的晶圆。",
+    "node_uuid": "98325a0c-d5b1-49c3-bf5b-b4607ead21d2",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "canonical_name_en": "annealed wafer",
+    "node_id": "annealed_wafer",
+    "updated_at": "2026-06-24T02:15:48.406411000",
+    "created_at": "2026-06-24T02:15:48.406411000",
+    "entity_type": "part",
+    "canonical_name_zh": "退火后晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
     "definition": "计算服务器、网络设备及存储等IT基础设施硬件",
     "node_uuid": "6d33e3f7-89a6-442f-82a8-b57a77db3d70",
     "status": "ACTIVE",
@@ -1667,7 +1940,7 @@
     "node_id": "operating_system",
     "updated_at": "2026-05-23T00:29:54.434717000",
     "created_at": "2026-05-23T00:29:54.434717000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "操作系统"
   },
   {
@@ -1874,7 +2147,7 @@
     "node_id": "float_glass",
     "updated_at": "2026-05-23T00:29:54.774027000",
     "created_at": "2026-05-23T00:29:54.774027000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "浮法玻璃"
   },
   {
@@ -1891,7 +2164,7 @@
     "node_id": "pv_glass",
     "updated_at": "2026-05-23T00:29:54.801996000",
     "created_at": "2026-05-23T00:29:54.801996000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "光伏玻璃"
   },
   {
@@ -1908,7 +2181,7 @@
     "node_id": "engineering_glass",
     "updated_at": "2026-05-23T00:29:54.846578000",
     "created_at": "2026-05-23T00:29:54.846578000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "工程玻璃"
   },
   {
@@ -1925,7 +2198,7 @@
     "node_id": "electronic_glass",
     "updated_at": "2026-05-23T00:29:54.858578000",
     "created_at": "2026-05-23T00:29:54.858578000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "电子玻璃"
   },
   {
@@ -1942,7 +2215,7 @@
     "node_id": "lcd_panel",
     "updated_at": "2026-05-23T00:29:54.872608000",
     "created_at": "2026-05-23T00:29:54.872608000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "液晶面板"
   },
   {
@@ -1993,7 +2266,7 @@
     "node_id": "injection_molding_part",
     "updated_at": "2026-05-23T00:29:54.918993000",
     "created_at": "2026-05-23T00:29:54.918993000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "注塑件"
   },
   {
@@ -2010,7 +2283,7 @@
     "node_id": "memory_wafer",
     "updated_at": "2026-05-23T00:29:54.931992000",
     "created_at": "2026-05-23T00:29:54.931992000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "存储晶圆"
   },
   {
@@ -2180,7 +2453,7 @@
     "node_id": "automotive_chip",
     "updated_at": "2026-05-23T00:29:55.104221000",
     "created_at": "2026-05-23T00:29:55.104221000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "汽车芯片"
   },
   {
@@ -2197,7 +2470,7 @@
     "node_id": "chassis_system",
     "updated_at": "2026-05-23T00:29:55.122220000",
     "created_at": "2026-05-23T00:29:55.122220000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "底盘系统"
   },
   {
@@ -2214,7 +2487,7 @@
     "node_id": "thermal_management_system",
     "updated_at": "2026-05-23T00:29:55.139220000",
     "created_at": "2026-05-23T00:29:55.139220000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "热管理系统"
   },
   {
@@ -2231,7 +2504,7 @@
     "node_id": "suspension_system",
     "updated_at": "2026-05-23T00:29:55.156229000",
     "created_at": "2026-05-23T00:29:55.156229000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "悬架系统"
   },
   {
@@ -2367,7 +2640,7 @@
     "node_id": "lcd_polarizer",
     "updated_at": "2026-05-23T00:29:55.274075000",
     "created_at": "2026-05-23T00:29:55.274075000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "LCD偏光片"
   },
   {
@@ -2384,7 +2657,7 @@
     "node_id": "oled_polarizer",
     "updated_at": "2026-05-23T00:29:55.288078000",
     "created_at": "2026-05-23T00:29:55.288078000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "OLED偏光片"
   },
   {
@@ -2401,7 +2674,7 @@
     "node_id": "lithium_ion_cell",
     "updated_at": "2026-05-23T00:29:55.302083000",
     "created_at": "2026-05-23T00:29:55.302083000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "锂离子电芯"
   },
   {
@@ -2418,7 +2691,7 @@
     "node_id": "bms_component",
     "updated_at": "2026-05-23T00:29:55.314087000",
     "created_at": "2026-05-23T00:29:55.314087000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "BMS组件"
   },
   {
@@ -2541,7 +2814,7 @@
     "node_id": "financial_bond",
     "updated_at": "2026-05-23T01:38:09.709841000",
     "created_at": "2026-05-23T01:38:09.709841000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "银行主动负债工具",
     "canonical_name_zh": "金融债券"
   },
@@ -2577,7 +2850,7 @@
     "node_id": "residential_property",
     "updated_at": "2026-05-23T01:38:13.829618000",
     "created_at": "2026-05-23T01:38:13.829618000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "房地产开发核心产出",
     "canonical_name_zh": "商品住宅"
   },
@@ -2595,7 +2868,7 @@
     "node_id": "commercial_property",
     "updated_at": "2026-05-23T01:38:15.941163000",
     "created_at": "2026-05-23T01:38:15.941163000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "房地产开发商业产出",
     "canonical_name_zh": "商业地产"
   },
@@ -2703,7 +2976,7 @@
     "node_id": "signaling_system",
     "updated_at": "2026-05-23T01:38:28.282615000",
     "created_at": "2026-05-23T01:38:28.282615000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "notes": "轨道交通安全系统",
     "canonical_name_zh": "信号系统"
   },
@@ -2721,7 +2994,7 @@
     "node_id": "power_supply_system",
     "updated_at": "2026-05-23T01:38:30.340285000",
     "created_at": "2026-05-23T01:38:30.340285000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "notes": "轨道交通动力系统",
     "canonical_name_zh": "供电系统"
   },
@@ -3015,7 +3288,7 @@
     "node_id": "pcb_board",
     "updated_at": "2026-05-23T06:21:16.984485000",
     "created_at": "2026-05-23T06:21:16.984485000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "康佳和深华发A均涉及PCB业务",
     "canonical_name_zh": "印制电路板"
   },
@@ -3059,7 +3332,7 @@
     "node_id": "semiconductor_device",
     "updated_at": "2026-05-23T06:21:17.019859000",
     "created_at": "2026-05-23T06:21:17.019859000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "康佳半导体业务产出",
     "canonical_name_zh": "半导体器件"
   },
@@ -3080,7 +3353,7 @@
     "node_id": "display_module",
     "updated_at": "2026-05-23T06:21:17.025861000",
     "created_at": "2026-05-23T06:21:17.025861000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "彩电和显示器的关键组件",
     "canonical_name_zh": "显示模组"
   },
@@ -3233,7 +3506,7 @@
     "node_id": "watch_movement",
     "updated_at": "2026-05-23T06:21:17.133054000",
     "created_at": "2026-05-23T06:21:17.133054000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "手表的核心零部件，飞亚达自主研发",
     "canonical_name_zh": "手表机芯"
   },
@@ -3257,7 +3530,7 @@
     "node_id": "watch_component",
     "updated_at": "2026-05-23T06:21:17.141048000",
     "created_at": "2026-05-23T06:21:17.141048000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "手表上游零部件",
     "canonical_name_zh": "钟表零部件"
   },
@@ -3446,7 +3719,7 @@
     "node_id": "dram_chip",
     "updated_at": "2026-05-23T06:21:17.243651000",
     "created_at": "2026-05-23T06:21:17.243651000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "深科技存储半导体封测产品",
     "canonical_name_zh": "DRAM芯片"
   },
@@ -3467,7 +3740,7 @@
     "node_id": "nand_flash_chip",
     "updated_at": "2026-05-23T06:21:17.268684000",
     "created_at": "2026-05-23T06:21:17.268684000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "深科技存储半导体封测产品",
     "canonical_name_zh": "NAND Flash芯片"
   },
@@ -3532,7 +3805,7 @@
     "node_id": "packaging_substrate",
     "updated_at": "2026-05-23T06:21:17.321922000",
     "created_at": "2026-05-23T06:21:17.321922000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "半导体封测的上游材料",
     "canonical_name_zh": "封装基板"
   },
@@ -4062,7 +4335,7 @@
     "node_id": "magnetic_head",
     "updated_at": "2026-05-23T06:26:04.058599000",
     "created_at": "2026-05-23T06:26:04.058599000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "深科技核心产品之一",
     "canonical_name_zh": "磁头"
   },
@@ -4083,7 +4356,7 @@
     "node_id": "hard_disk_platter",
     "updated_at": "2026-05-23T06:26:04.064593000",
     "created_at": "2026-05-23T06:26:04.064593000",
-    "entity_type": "component",
+    "entity_type": "part",
     "notes": "深科技核心产品之一",
     "canonical_name_zh": "硬盘盘片"
   },
@@ -4146,7 +4419,7 @@
     "node_id": "automotive_brake_system",
     "updated_at": "2026-05-23T08:30:19.743395000",
     "created_at": "2026-05-23T08:30:19.743395000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "汽车制动系统"
   },
   {
@@ -4166,7 +4439,7 @@
     "node_id": "automotive_transmission_system",
     "updated_at": "2026-05-23T08:30:19.748666000",
     "created_at": "2026-05-23T08:30:19.748666000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "汽车传动系统"
   },
   {
@@ -4186,7 +4459,7 @@
     "node_id": "automotive_steering_system",
     "updated_at": "2026-05-23T08:30:19.753664000",
     "created_at": "2026-05-23T08:30:19.753664000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "汽车转向系统"
   },
   {
@@ -4205,7 +4478,7 @@
     "node_id": "automotive_electronics",
     "updated_at": "2026-06-17T06:20:50.263084000",
     "created_at": "2026-05-23T08:30:19.758663000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "汽车电子"
   },
   {
@@ -4225,7 +4498,7 @@
     "node_id": "automotive_engine_accessory",
     "updated_at": "2026-05-23T08:30:19.762664000",
     "created_at": "2026-05-23T08:30:19.762664000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "汽车发动机附件"
   },
   {
@@ -4246,7 +4519,7 @@
     "node_id": "automotive_environment_system",
     "updated_at": "2026-05-23T08:30:19.768664000",
     "created_at": "2026-05-23T08:30:19.768664000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "汽车环境系统"
   },
   {
@@ -4267,7 +4540,7 @@
     "node_id": "industrial_property",
     "updated_at": "2026-05-23T08:30:19.772664000",
     "created_at": "2026-05-23T08:30:19.772664000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "工业物业"
   },
   {
@@ -4388,7 +4661,7 @@
     "node_id": "module_power_supply",
     "updated_at": "2026-05-23T08:30:19.836252000",
     "created_at": "2026-05-23T08:30:19.836252000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "模块电源"
   },
   {
@@ -4754,7 +5027,7 @@
     "node_id": "building_curtain_wall",
     "updated_at": "2026-05-23T10:44:59.922625000",
     "created_at": "2026-05-23T10:44:59.922625000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "建筑幕墙"
   },
   {
@@ -4775,7 +5048,7 @@
     "node_id": "platform_screen_door",
     "updated_at": "2026-05-23T10:44:59.929133000",
     "created_at": "2026-05-23T10:44:59.929133000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "站台屏蔽门"
   },
   {
@@ -5057,7 +5330,7 @@
     "node_id": "telecom_software",
     "updated_at": "2026-05-23T15:57:35.848525000",
     "created_at": "2026-05-23T15:57:35.848525000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "电信软件"
   },
   {
@@ -5179,7 +5452,7 @@
     "node_id": "paper_packaging_product",
     "updated_at": "2026-05-23T15:57:36.037238000",
     "created_at": "2026-05-23T15:57:36.037238000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "纸包装制品"
   },
   {
@@ -5199,7 +5472,7 @@
     "node_id": "optical_fiber_cable",
     "updated_at": "2026-05-23T15:57:36.059989000",
     "created_at": "2026-05-23T15:57:36.059989000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "光缆"
   },
   {
@@ -5240,7 +5513,7 @@
     "node_id": "electronic_capacitor",
     "updated_at": "2026-05-23T15:57:36.088317000",
     "created_at": "2026-05-23T15:57:36.088317000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "电子电容器"
   },
   {
@@ -5421,7 +5694,7 @@
     "node_id": "oled_panel",
     "updated_at": "2026-05-23T16:06:05.781889000",
     "created_at": "2026-05-23T16:06:05.781889000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "OLED面板"
   },
   {
@@ -5726,7 +5999,7 @@
     "node_id": "refrigeration_compressor",
     "updated_at": "2026-05-23T16:13:11.717906000",
     "created_at": "2026-05-23T16:13:11.717906000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "制冷压缩机"
   },
   {
@@ -6219,7 +6492,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:45:32.242861000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "气缸套",
     "node_id": "cylinder_liner"
@@ -6235,7 +6508,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:45:32.291112000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "铝活塞",
     "node_id": "aluminum_piston"
@@ -6251,7 +6524,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:45:32.297114000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "炮弹",
     "node_id": "artillery_shell"
@@ -6539,7 +6812,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:48:58.975578000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "阀门",
     "node_id": "valve"
@@ -6635,7 +6908,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:48:59.029064000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "电抗器",
     "node_id": "reactor"
@@ -6907,7 +7180,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:52:01.647105000",
     "confidence": "LOW",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "aliases": [],
     "canonical_name_zh": "汽车发动机",
     "node_id": "automotive_engine"
@@ -7003,7 +7276,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:52:01.705640000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "铸件",
     "node_id": "cast_part"
@@ -7035,7 +7308,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:52:01.720641000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "绝缘子",
     "node_id": "insulator"
@@ -7051,7 +7324,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:52:01.728642000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "轴承",
     "node_id": "bearing"
@@ -7279,7 +7552,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:55:44.020951000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "万向节",
     "node_id": "universal_joint"
@@ -7295,7 +7568,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:55:44.024908000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "轮毂单元",
     "node_id": "wheel_hub_unit"
@@ -7311,7 +7584,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:55:44.028920000",
     "confidence": "LOW",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "aliases": [],
     "canonical_name_zh": "汽车排气系统",
     "node_id": "automotive_exhaust_system"
@@ -7327,7 +7600,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:55:44.034910000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "燃油箱",
     "node_id": "fuel_tank"
@@ -7343,7 +7616,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:55:44.038913000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "机械零部件",
     "node_id": "machinery_part"
@@ -7423,7 +7696,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:55:44.064908000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "电线电缆",
     "node_id": "wire_cable"
@@ -7535,7 +7808,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:55:44.104652000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "金属包装",
     "node_id": "metal_packaging"
@@ -7567,7 +7840,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:58:41.468646000",
     "confidence": "LOW",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "aliases": [],
     "canonical_name_zh": "柴油机",
     "node_id": "diesel_engine"
@@ -7727,7 +8000,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:58:41.556143000",
     "confidence": "LOW",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "aliases": [],
     "canonical_name_zh": "燃油喷射系统",
     "node_id": "fuel_injection_system"
@@ -7743,7 +8016,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:58:41.565204000",
     "confidence": "LOW",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "aliases": [],
     "canonical_name_zh": "尾气后处理系统",
     "node_id": "exhaust_aftertreatment_system"
@@ -7759,7 +8032,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T06:58:41.572206000",
     "confidence": "LOW",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "aliases": [],
     "canonical_name_zh": "进气系统",
     "node_id": "intake_system"
@@ -7807,7 +8080,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:28:14.519021000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "光纤",
     "node_id": "optical_fiber"
@@ -7839,7 +8112,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:28:14.542303000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "轮胎",
     "node_id": "tire"
@@ -7871,7 +8144,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:28:14.562659000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "子午线轮胎",
     "node_id": "radial_tire"
@@ -7887,7 +8160,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:28:14.571314000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "斜交轮胎",
     "node_id": "bias_tire"
@@ -7967,7 +8240,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:28:14.611409000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "人造板",
     "node_id": "artificial_board"
@@ -8015,7 +8288,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:28:14.643487000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "滚动轴承",
     "node_id": "rolling_bearing"
@@ -8415,7 +8688,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:26.920186000",
     "confidence": "LOW",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "aliases": [],
     "canonical_name_zh": "气体机",
     "node_id": "gas_engine"
@@ -8463,7 +8736,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:26.935582000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "建筑型材",
     "node_id": "building_profile"
@@ -8479,7 +8752,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:26.940624000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "门窗",
     "node_id": "door_window"
@@ -8495,7 +8768,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:26.945580000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "塑料型材",
     "node_id": "plastic_profile"
@@ -8591,7 +8864,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:26.973230000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "厨柜",
     "node_id": "kitchen_cabinet"
@@ -8703,7 +8976,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:27.016747000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "铜线",
     "node_id": "copper_wire"
@@ -8719,7 +8992,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:27.022257000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "铜箔",
     "node_id": "copper_foil"
@@ -8735,7 +9008,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:34:27.027255000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "铜板带",
     "node_id": "copper_sheet"
@@ -8863,7 +9136,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:36:53.491119000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "陶瓷电容器",
     "node_id": "ceramic_capacitor"
@@ -8879,7 +9152,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:36:53.499120000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "片式电阻器",
     "node_id": "chip_resistor"
@@ -8895,7 +9168,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:36:53.508784000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "锂离子电池电芯",
     "node_id": "lithium_battery_cell"
@@ -9087,7 +9360,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:42:39.789792000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "PET瓶",
     "node_id": "pet_bottle"
@@ -9103,7 +9376,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:42:39.795807000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "瓶胚",
     "node_id": "bottle_preform"
@@ -9119,7 +9392,7 @@
     "evidence": "[]",
     "created_at": "2026-05-24T07:42:39.808344000",
     "confidence": "LOW",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "饮料包装",
     "node_id": "beverage_packaging"
@@ -9285,7 +9558,7 @@
     "node_id": "smart_processor",
     "updated_at": "2026-05-25T03:07:36.660691000",
     "created_at": "2026-05-25T03:07:36.660691000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "智能处理器"
   },
   {
@@ -9365,7 +9638,7 @@
     "node_id": "cement_product",
     "updated_at": "2026-05-25T03:07:37.015554000",
     "created_at": "2026-05-25T03:07:37.015554000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "水泥制品"
   },
   {
@@ -9506,7 +9779,7 @@
     "node_id": "automotive_bearing",
     "updated_at": "2026-05-25T03:07:37.072563000",
     "created_at": "2026-05-25T03:07:37.072563000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "汽车轴承"
   },
   {
@@ -9626,7 +9899,7 @@
     "node_id": "power_dispatching_system",
     "updated_at": "2026-05-25T03:07:37.163671000",
     "created_at": "2026-05-25T03:07:37.163671000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "电力调度系统"
   },
   {
@@ -9646,7 +9919,7 @@
     "node_id": "power_protection_system",
     "updated_at": "2026-05-25T03:07:37.182664000",
     "created_at": "2026-05-25T03:07:37.182664000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "电力保护系统"
   },
   {
@@ -9666,7 +9939,7 @@
     "node_id": "power_automation_system",
     "updated_at": "2026-05-25T03:07:37.191660000",
     "created_at": "2026-05-25T03:07:37.191660000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "配电自动化系统"
   },
   {
@@ -9966,7 +10239,7 @@
     "node_id": "motorcycle_engine",
     "updated_at": "2026-05-25T03:13:38.994044000",
     "created_at": "2026-05-25T03:13:38.994044000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "摩托车发动机"
   },
   {
@@ -9986,7 +10259,7 @@
     "node_id": "aerospace_precision_part",
     "updated_at": "2026-05-25T03:13:39.013481000",
     "created_at": "2026-05-25T03:13:39.013481000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "航空精密零部件"
   },
   {
@@ -10006,7 +10279,7 @@
     "node_id": "aircraft_structural_part",
     "updated_at": "2026-05-25T03:13:39.031321000",
     "created_at": "2026-05-25T03:13:39.031321000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "飞机结构件"
   },
   {
@@ -10066,7 +10339,7 @@
     "node_id": "automotive_bumper",
     "updated_at": "2026-05-25T03:20:40.804132000",
     "created_at": "2026-05-25T03:20:40.804132000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "汽车保险杠"
   },
   {
@@ -10087,7 +10360,7 @@
     "node_id": "automotive_molding_trim",
     "updated_at": "2026-05-25T03:20:40.809132000",
     "created_at": "2026-05-25T03:20:40.809132000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "汽车装饰件"
   },
   {
@@ -10888,7 +11161,7 @@
     "node_id": "tft_lcd",
     "updated_at": "2026-05-25T03:29:46.261141000",
     "created_at": "2026-05-25T03:29:46.261141000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "薄膜晶体管液晶显示器件"
   },
   {
@@ -10908,7 +11181,7 @@
     "node_id": "small_size_display",
     "updated_at": "2026-05-25T03:29:46.297627000",
     "created_at": "2026-05-25T03:29:46.297627000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "小尺寸显示器件"
   },
   {
@@ -11108,7 +11381,7 @@
     "node_id": "new_type_electronic_component",
     "updated_at": "2026-05-25T03:29:46.364792000",
     "created_at": "2026-05-25T03:29:46.364792000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "新型电子元器件"
   },
   {
@@ -11228,7 +11501,7 @@
     "node_id": "engine_control_system",
     "updated_at": "2026-05-25T04:23:45.456901000",
     "created_at": "2026-05-25T04:23:45.456901000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "发动机控制系统"
   },
   {
@@ -11248,7 +11521,7 @@
     "node_id": "aero_engine_part",
     "updated_at": "2026-05-25T04:23:45.466908000",
     "created_at": "2026-05-25T04:23:45.466908000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "航空发动机零部件"
   },
   {
@@ -11428,7 +11701,7 @@
     "node_id": "ductile_iron_pipe",
     "updated_at": "2026-05-25T04:28:37.062874000",
     "created_at": "2026-05-25T04:28:37.062874000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "球墨铸铁管"
   },
   {
@@ -11448,7 +11721,7 @@
     "node_id": "casting_product",
     "updated_at": "2026-05-25T04:28:37.065875000",
     "created_at": "2026-05-25T04:28:37.065875000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "铸造制品"
   },
   {
@@ -11568,7 +11841,7 @@
     "node_id": "light_steel_keel",
     "updated_at": "2026-05-25T04:30:10.229781000",
     "created_at": "2026-05-25T04:30:10.229781000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "轻钢龙骨"
   },
   {
@@ -11666,7 +11939,7 @@
     "node_id": "micro_motor",
     "updated_at": "2026-05-25T04:31:39.051346000",
     "created_at": "2026-05-25T04:31:39.051346000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "微电机"
   },
   {
@@ -12301,7 +12574,7 @@
     "node_id": "oil_drilling_tool",
     "updated_at": "2026-05-25T04:43:26.498973000",
     "created_at": "2026-05-25T04:43:26.498973000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "石油钻具"
   },
   {
@@ -12461,7 +12734,7 @@
     "node_id": "new_energy_vehicle",
     "updated_at": "2026-06-17T06:58:45.277565000",
     "created_at": "2026-05-25T04:45:09.326050000",
-    "entity_type": "application_system",
+    "entity_type": "software",
     "canonical_name_zh": "新能源汽车"
   },
   {
@@ -12500,7 +12773,7 @@
     "node_id": "marine_engine",
     "updated_at": "2026-05-25T04:45:09.339555000",
     "created_at": "2026-05-25T04:45:09.339555000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "船用发动机"
   },
   {
@@ -12520,7 +12793,7 @@
     "node_id": "gearbox",
     "updated_at": "2026-05-25T04:45:09.341555000",
     "created_at": "2026-05-25T04:45:09.341555000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "齿轮箱"
   },
   {
@@ -12580,7 +12853,7 @@
     "node_id": "rubber_seal",
     "updated_at": "2026-05-25T04:47:26.427166000",
     "created_at": "2026-05-25T04:47:26.427166000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "橡胶密封件"
   },
   {
@@ -12824,7 +13097,7 @@
     "node_id": "wood_floor",
     "updated_at": "2026-05-25T14:54:48.392491000",
     "created_at": "2026-05-25T14:54:17.573197000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "木地板"
   },
   {
@@ -13281,7 +13554,7 @@
     "node_id": "cvt_transmission",
     "updated_at": "2026-05-25T15:33:16.833423000",
     "created_at": "2026-05-25T15:33:16.833423000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "无级变速器"
   },
   {
@@ -13301,7 +13574,7 @@
     "node_id": "dct_transmission",
     "updated_at": "2026-05-25T15:33:16.838258000",
     "created_at": "2026-05-25T15:33:16.838258000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "双离合变速器"
   },
   {
@@ -13320,7 +13593,7 @@
     "node_id": "hybrid_power_system",
     "updated_at": "2026-05-25T15:33:16.842453000",
     "created_at": "2026-05-25T15:33:16.842453000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "混合动力系统"
   },
   {
@@ -13340,7 +13613,7 @@
     "node_id": "electric_drive_system",
     "updated_at": "2026-05-25T15:33:16.846498000",
     "created_at": "2026-05-25T15:33:16.846498000",
-    "entity_type": "subsystem",
+    "entity_type": "system",
     "canonical_name_zh": "电驱动系统"
   },
   {
@@ -13836,7 +14109,7 @@
     "node_id": "optical_lens",
     "updated_at": "2026-05-25T23:03:11.270889000",
     "created_at": "2026-05-25T23:03:11.270889000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "光学镜片"
   },
   {
@@ -13897,7 +14170,7 @@
     "node_id": "container_floor",
     "updated_at": "2026-05-25T23:05:00.321597000",
     "created_at": "2026-05-25T23:05:00.321597000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "集装箱底板"
   },
   {
@@ -13958,7 +14231,7 @@
     "node_id": "ship_accessory",
     "updated_at": "2026-05-25T23:05:00.349687000",
     "created_at": "2026-05-25T23:05:00.349687000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "船舶配件"
   },
   {
@@ -13998,7 +14271,7 @@
     "node_id": "power_cable",
     "updated_at": "2026-05-25T23:06:50.512263000",
     "created_at": "2026-05-25T23:06:50.512263000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "电力电缆"
   },
   {
@@ -14038,7 +14311,7 @@
     "node_id": "automobile_part",
     "updated_at": "2026-05-25T23:08:32.572004000",
     "created_at": "2026-05-25T23:08:32.572004000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "汽车零部件"
   },
   {
@@ -14058,7 +14331,7 @@
     "node_id": "western_suit",
     "updated_at": "2026-05-25T23:08:32.579508000",
     "created_at": "2026-05-25T23:08:32.579508000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "西服"
   },
   {
@@ -14098,7 +14371,7 @@
     "node_id": "powder_metallurgy_part",
     "updated_at": "2026-05-25T23:09:47.097291000",
     "created_at": "2026-05-25T23:09:47.097291000",
-    "entity_type": "component",
+    "entity_type": "part",
     "canonical_name_zh": "粉末冶金零件"
   },
   {
@@ -14308,7 +14581,7 @@
     "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 汽车离合器\"}]",
     "created_at": "2026-05-25T23:28:41.027295000",
     "confidence": "HIGH",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "汽车离合器",
     "node_id": "automobile_clutch"
@@ -14356,7 +14629,7 @@
     "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 太阳能电池\"}]",
     "created_at": "2026-05-25T23:28:41.041880000",
     "confidence": "HIGH",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "太阳能电池",
     "node_id": "solar_cell"
@@ -14372,7 +14645,7 @@
     "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 052: 消费类电池\"}]",
     "created_at": "2026-05-25T23:28:41.046879000",
     "confidence": "HIGH",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "消费类电池",
     "node_id": "consumer_battery"
@@ -14404,7 +14677,7 @@
     "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 053: 塑料管材\"}]",
     "created_at": "2026-05-25T23:28:46.298951000",
     "confidence": "HIGH",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "塑料管材",
     "node_id": "plastic_pipe"
@@ -14564,7 +14837,7 @@
     "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 054: 集成电路\"}]",
     "created_at": "2026-05-25T23:28:50.605783000",
     "confidence": "HIGH",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "集成电路",
     "node_id": "integrated_circuit"
@@ -14628,7 +14901,7 @@
     "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 汽车发动机\"}]",
     "created_at": "2026-05-25T23:28:54.960414000",
     "confidence": "HIGH",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "汽车发动机",
     "node_id": "auto_engine"
@@ -14660,7 +14933,7 @@
     "evidence": "[{\"source_title\": \"tushare\", \"source_url\": null, \"quote\": \"tushare batch 055: 覆铜板\"}]",
     "created_at": "2026-05-25T23:28:54.970923000",
     "confidence": "HIGH",
-    "entity_type": "component",
+    "entity_type": "part",
     "aliases": [],
     "canonical_name_zh": "覆铜板",
     "node_id": "copper_clad_laminate"
