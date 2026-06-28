@@ -1,0 +1,413 @@
+{
+  "company_name_mentioned": "宁波家联科技股份有限公司",
+  "produces": [
+    {
+      "name": "塑料制品",
+      "type": "device",
+      "revenue_proportion": "74.24%",
+      "quote": "塑料制品199,520.69万元，较上年同期增加14.43%...营业收入构成...塑料制品 1,995,206,851.35 74.24%"
+    },
+    {
+      "name": "生物全降解制品",
+      "type": "device",
+      "revenue_proportion": "12.30%",
+      "quote": "生物全降解制品33,050.62万元，较上年同期增长10.84%...生物全降解制品 330,506,182.78 12.30%"
+    },
+    {
+      "name": "植物纤维制品",
+      "type": "device",
+      "revenue_proportion": "7.26%",
+      "quote": "植物纤维制品 195,213,515.06 7.26%"
+    },
+    {
+      "name": "纸制品及其他",
+      "type": "device",
+      "revenue_proportion": "6.19%",
+      "quote": "纸制品及其他 166,460,361.46 6.19%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "PP",
+      "target_product": "塑料制品",
+      "cost_proportion": "13.00%",
+      "quote": "主要原材料...采购额占采购总额的比例...PP...13.00%"
+    },
+    {
+      "name": "PS",
+      "target_product": "塑料制品",
+      "cost_proportion": "5.43%",
+      "quote": "主要原材料...采购额占采购总额的比例...PS...5.43%"
+    },
+    {
+      "name": "PLA",
+      "target_product": "生物全降解制品",
+      "cost_proportion": "6.28%",
+      "quote": "主要原材料...采购额占采购总额的比例...PLA...6.28%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "餐饮",
+      "source_product": "塑料制品、生物全降解制品、植物纤维制品",
+      "quote": "公司专注于塑料制品、生物全降解制品及植物纤维制品的研发、生产与销售...为餐饮、茶饮、家居及连锁商超等下游领域提供一站式绿色产品解决方案"
+    },
+    {
+      "name": "茶饮",
+      "source_product": "塑料制品、生物全降解制品、植物纤维制品",
+      "quote": "公司专注于塑料制品、生物全降解制品及植物纤维制品的研发、生产与销售...为餐饮、茶饮、家居及连锁商超等下游领域提供一站式绿色产品解决方案"
+    },
+    {
+      "name": "家居",
+      "source_product": "塑料制品、生物全降解制品、植物纤维制品",
+      "quote": "公司专注于塑料制品、生物全降解制品及植物纤维制品的研发、生产与销售...为餐饮、茶饮、家居及连锁商超等下游领域提供一站式绿色产品解决方案"
+    },
+    {
+      "name": "3D打印耗材",
+      "source_product": "生物全降解材料",
+      "quote": "公司成功将业务拓展至高附加值的3D打印耗材赛道...公司依托自主研发的生物降解材料改性技术，攻克3D打印耗材耐高温、抗冲击、高速打印适配等核心性能痛点"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王熊",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人王熊...实际控制人 指 王熊、林慧勤"
+    },
+    {
+      "name": "林慧勤",
+      "role": "实际控制人、培训中心院长",
+      "quote": "实际控制人 指 王熊、林慧勤...林慧勤女士...辞去第三届董事会董事职务...将继续担任公司培训中心院长职务"
+    },
+    {
+      "name": "马恒辉",
+      "role": "总经理",
+      "quote": "马恒辉 男 47 总经理 现任"
+    },
+    {
+      "name": "钱淼鲜",
+      "role": "财务总监、副总经理",
+      "quote": "钱淼鲜 女 53 财务总监 现任...钱淼鲜 女 53 副总经理 现任"
+    },
+    {
+      "name": "汪博",
+      "role": "董事会秘书、副总经理",
+      "quote": "汪博 女 38 现任...董事会秘书...副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江家得宝科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司一级子公司",
+      "quote": "浙江家得宝 指 浙江家得宝科技股份有限公司，公司一级子公司"
+    },
+    {
+      "name": "广西家得宝日用品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司二级子公司",
+      "quote": "广西家得宝 指 广西家得宝日用品有限公司，公司二级子公司"
+    },
+    {
+      "name": "广西绿联生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司一级子公司",
+      "quote": "广西绿联 指 广西绿联生物科技有限公司，公司一级子公司"
+    },
+    {
+      "name": "东莞怡联科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司一级子公司",
+      "quote": "东莞怡联 指 东莞怡联科技有限公司，公司一级子公司"
+    },
+    {
+      "name": "Weissbach (SINGAPORE) PTE.LTD.",
+      "relation_type": "subsidiary",
+      "business_details": "公司一级子公司",
+      "quote": "新加坡维斯巴赫 指 Weissbach (SINGAPORE) PTE.LTD.，公司一级子公司"
+    },
+    {
+      "name": "Sumter Easy Home, LLC",
+      "relation_type": "subsidiary",
+      "business_details": "公司三级子公司",
+      "quote": "杉腾亿宏、Sumter公司 指 Sumter Easy Home, LLC，公司三级子公司"
+    },
+    {
+      "name": "Home Richfull Technology (Thailand) Co., Ltd.",
+      "relation_type": "subsidiary",
+      "business_details": "公司二级子公司",
+      "quote": "泰国家享 指 Home Richfull Technology (Thailand) Co., Ltd.，公司二级子公司"
+    },
+    {
+      "name": "浙江科信会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所...会计师事务所名称 浙江科信会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "兴业证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "保荐机构",
+      "quote": "公司聘请的报告期内履行持续督导职责的保荐机构...保荐机构名称 兴业证券股份有限公司"
+    },
+    {
+      "name": "Bright home Vietnam Manufacturing Company Limited",
+      "relation_type": "customer",
+      "business_details": "关联方，日常关联交易采购家居用品",
+      "quote": "与日常经营相关的关联交易...关联方...Bright home Vietnam Manufacturing Company Limited...关联交易类型...采购...关联交易内容...家居用品"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "塑料制品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,995,206,851.35元",
+      "revenue_proportion": "74.24%",
+      "gross_margin": "13.94%",
+      "yoy_change": "营业收入比上年同期增减: 14.43%",
+      "quote": "塑料制品...营业收入...1,995,206,851.35...74.24%...毛利率...13.94%...营业收入比上年同期增减...14.43%"
+    },
+    {
+      "name": "生物全降解制品",
+      "segment_type": "product_line",
+      "revenue_amount": "330,506,182.78元",
+      "revenue_proportion": "12.30%",
+      "gross_margin": "19.90%",
+      "yoy_change": "营业收入比上年同期增减: 10.84%",
+      "quote": "生物全降解制品...营业收入...330,506,182.78...12.30%...毛利率...19.90%...营业收入比上年同期增减...10.84%"
+    },
+    {
+      "name": "北美",
+      "segment_type": "region",
+      "revenue_amount": "996,995,807.40元",
+      "revenue_proportion": "37.10%",
+      "gross_margin": "12.14%",
+      "yoy_change": "营业收入比上年同期增减: -1.15%",
+      "quote": "北美...营业收入...996,995,807.40...37.10%...毛利率...12.14%...营业收入比上年同期增减...-1.15%"
+    },
+    {
+      "name": "中国大陆",
+      "segment_type": "region",
+      "revenue_amount": "1,429,243,741.03元",
+      "revenue_proportion": "53.18%",
+      "gross_margin": "13.45%",
+      "yoy_change": "营业收入比上年同期增减: 37.85%",
+      "quote": "中国大陆...营业收入...1,429,243,741.03...53.18%...毛利率...13.45%...营业收入比上年同期增减...37.85%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,264,285,627.54元",
+      "revenue_proportion": "47.05%",
+      "gross_margin": "12.91%",
+      "yoy_change": "营业收入比上年同期增减: -1.95%",
+      "quote": "外销...营业收入...1,264,285,627.54...47.05%...毛利率...12.91%...营业收入比上年同期增减...-1.95%"
+    },
+    {
+      "name": "内销（中国大陆）",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,423,101,283.11元",
+      "revenue_proportion": "52.95%",
+      "gross_margin": "13.43%",
+      "yoy_change": "营业收入比上年同期增减: 37.25%",
+      "quote": "内销（中国大陆）...营业收入...1,423,101,283.11...52.95%...毛利率...13.43%...营业收入比上年同期增减...37.25%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "塑料制品",
+      "metric_type": "capacity",
+      "value": "221,907.77吨",
+      "period": "报告期",
+      "quote": "塑料制品...设计产能...221,907.77吨"
+    },
+    {
+      "product": "塑料制品",
+      "metric_type": "capacity_utilization",
+      "value": "58.13%",
+      "period": "报告期",
+      "quote": "塑料制品...产能利用率...58.13%"
+    },
+    {
+      "product": "塑料制品",
+      "metric_type": "production_volume",
+      "value": "128,993.33吨",
+      "period": "报告期",
+      "quote": "塑料制品...产量...128,993.33吨"
+    },
+    {
+      "product": "塑料制品",
+      "metric_type": "sales_volume",
+      "value": "126,978.33吨",
+      "period": "报告期",
+      "quote": "塑料制品...销量...126,978.33吨"
+    },
+    {
+      "product": "生物全降解制品",
+      "metric_type": "production_volume",
+      "value": "12,906.83吨",
+      "period": "报告期",
+      "quote": "生物全降解制品...产量...12,906.83吨"
+    },
+    {
+      "product": "生物全降解制品",
+      "metric_type": "sales_volume",
+      "value": "12,427.54吨",
+      "period": "报告期",
+      "quote": "生物全降解制品...销量...12,427.54吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "泰国基地及国内多地产能建设",
+      "project_type": "capacity_expansion",
+      "location": "泰国、国内多地",
+      "progress": "新建基地均处于产能建设与快速爬坡阶段",
+      "quote": "公司为优化全球供应链布局...战略性推进泰国基地及国内多地产能同步建设与调整，新建基地均处于产能建设与快速爬坡阶段"
+    },
+    {
+      "name": "宁波岚山工厂",
+      "project_type": "capacity_expansion",
+      "location": "宁波",
+      "quote": "宁波岚山工厂...建设中"
+    },
+    {
+      "name": "泰国家享塑料制品项目",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "quote": "泰国家享塑料制品项目...建设中"
+    },
+    {
+      "name": "年产13000吨生物降解环保杯自动化生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "宁波",
+      "quote": "公司取得宁波市生态环境局镇海分局下发的《关于宁波家联科技股份有限公司年产13000吨生物降解环保杯自动化生产线项目...环境影响报告表的批复》"
+    },
+    {
+      "name": "年产3400吨生物可降解茶饮具自动化生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "宁波",
+      "quote": "公司取得宁波市生态环境局镇海分局下发的《关于...年产3400吨生物可降解茶饮具自动化生产线项目环境影响报告表的批复》"
+    },
+    {
+      "name": "年产4500吨生物可降解吹瓶高效自动化生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "宁波",
+      "quote": "公司取得宁波市生态环境局镇海分局下发的《关于...年产4500吨生物可降解吹瓶高效自动化生产线项目环境影响报告表的批复》"
+    },
+    {
+      "name": "年产3万吨环保型茶饮系列产品升级扩能项目",
+      "project_type": "capacity_expansion",
+      "location": "广西",
+      "quote": "广西绿联向来宾市生态环境局报送《年产3万吨环保型茶饮系列产品升级扩能项目环境影响报告表》"
+    },
+    {
+      "name": "年产10万吨甘蔗渣可降解环保材料制品项目",
+      "project_type": "fundraising_project",
+      "location": "广西",
+      "investment_amount": "74,385.61万元（募集资金）",
+      "progress": "部分募投项目延期，达到预定可使用状态日期由2025年12月调整为2026年12月。",
+      "quote": "募投项目“年产10万吨甘蔗渣可降解环保材料制品项目”的实施...向不特定对象发行可转换公司债券的募投项目“年产10万吨甘蔗渣可降解环保材料制品项目”...对募投项目达到预定可使用状态的时间进行调整。募投项目“年产10万吨甘蔗渣可降解环保材料制品项目”达到预定可使用状态日期由2025年12月调整为2026年12月。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "生物降解材料改性技术",
+      "asset_type": "core_technology",
+      "related_product": "生物全降解制品、3D打印耗材",
+      "quote": "公司在生物降解材料改性领域积淀了深厚技术基础，已攻克生物降解材料耐高温、抗冲击等关键技术难题，掌握多种材料共混改性核心技术"
+    },
+    {
+      "name": "3D打印耗材核心性能痛点攻克技术",
+      "asset_type": "core_technology",
+      "related_product": "3D打印耗材",
+      "quote": "公司依托自主研发的生物降解材料改性技术，攻克3D打印耗材耐高温、抗冲击、高速打印适配等核心性能痛点"
+    },
+    {
+      "name": "专利技术",
+      "asset_type": "patent",
+      "quantitative_info": "242项，其中发明专利41项（含境外专利4项），实用新型专利74项，外观设计专利127项（含境外专利14项）",
+      "quote": "截至报告期末，公司及子公司拥有授权专利242项，其中发明专利41项（其中境外专利4项），实用新型专利74项，外观设计专利127项（其中境外专利14项）"
+    },
+    {
+      "name": "国际标准、国家标准和行业标准",
+      "asset_type": "standard",
+      "quantitative_info": "主持和参与了50余项国际、国家标准和行业标准的制订；主持参与了1项国际标准、主持和参与了39项国家标准的制定及10项团体标准的制定",
+      "quote": "主持和参与了50余项国际、国家标准和行业标准的制订...主持参与了1项国际标准、主持和参与了39项国家标准的制定及10项团体标准的制定"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "45.97%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例...45.97%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "15.87%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "客户一...销售额（元）...占年度销售总额比例...15.87%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "18.98%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例...18.98%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "5.40%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "供应商一...采购额（元）...占年度采购总额比例...5.40%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司主营业务涉及的塑料制品、生物全降解制品行业竞争态势激烈...公司所处塑料制品、生物全降解制品行业，行业整体景气度阶段性承压、盈利水平下滑。",
+      "related_entity": null,
+      "related_product": "塑料制品、生物全降解制品",
+      "quote": "公司主营业务涉及的塑料制品、生物全降解制品行业竞争态势激烈，市场供需环境导致主营产品毛利率持续承压...公司所处塑料制品、生物全降解制品行业...行业整体景气度阶段性承压、盈利水平下滑"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受原材料价格高位波动...原材料价格变动是导致公司产品成本变动的主要因素之一，且其价格走势与国际原油价格高度正相关。",
+      "related_entity": null,
+      "related_product": "塑料制品、生物全降解制品",
+      "quote": "受原材料价格高位波动、下游餐饮、快消、家居市场消费动力不足、产品价格承压的双重因素影响...原材料价格变动是导致公司产品成本变动的主要因素之一，且其价格走势与国际原油价格高度正相关"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "因浙江家得宝、Sumter Easy Home, LLC 经营状况不及预期，收购形成的商誉存在减值；同时对存货、应收账款等资产同步开展减值测试。",
+      "related_entity": "浙江家得宝科技股份有限公司, Sumter Easy Home, LLC",
+      "related_product": null,
+      "quote": "报告期内，公司对可能发生减值迹象的资产进行全面清查和减值测试：因浙江家得宝、Sumter Easy Home, LLC 经营状况不及预期，收购形成的商誉存在减值"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "随着人民币汇率市场化改革的不断深入...汇率波动呈现双向波动加剧的趋势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着人民币汇率市场化改革的不断深入，在人民币国际化与资本项目开放的双重进程中，汇率波动呈现双向波动加剧的趋势"
+    },
+    {
+      "risk_type": "other",
+      "description": "募投项目“年产10万吨甘蔗渣可降解环保材料制品项目”的实施...受美国及加拿大对国内热成型模塑纤维制品发起的反倾销反补贴调查，对植物纤维制品行业的出口环境带来了重大不确定性。",
+      "related_entity": null,
+      "related_product": "植物纤维制品",
+      "quote": "公司向不特定对象发行可转换公司债券的募投项目“年产10万吨甘蔗渣可降解环保材料制品项目”的实施...受美国及加拿大对国内热成型模塑纤维制品发起的反倾销反补贴调查，对植物纤维制品行业的出口环境带来了重大不确定性"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司主营业务所覆盖的塑料制品、生物全降解制品行业市场竞争日趋激烈，行业竞争态势加剧。",
+      "related_entity": null,
+      "related_product": "塑料制品、生物全降解制品",
+      "quote": "2025年，公司主营业务所覆盖的塑料制品、生物全降解制品行业市场竞争日趋激烈，行业竞争态势加剧"
+    }
+  ]
+}

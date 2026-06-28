@@ -1,0 +1,586 @@
+{
+  "company_name_mentioned": "九江德福科技股份有限公司",
+  "produces": [
+    {
+      "name": "电解铜箔",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要从事各类高性能电解铜箔的研发、生产和销售"
+    },
+    {
+      "name": "锂电铜箔",
+      "type": "material",
+      "revenue_proportion": "80.61%",
+      "quote": "锂电铜箔 10,025,598,879.08 80.61%"
+    },
+    {
+      "name": "电子电路铜箔",
+      "type": "material",
+      "revenue_proportion": "14.32%",
+      "quote": "电子电路铜箔 1,781,064,728.66 14.32%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "阴极铜",
+      "target_product": "电解铜箔",
+      "cost_proportion": "85%左右",
+      "quote": "公司采购的原材料主要是阴极铜，其成本占公司营业成本的比重在 85%左右"
+    },
+    {
+      "name": "硫酸",
+      "target_product": "电解铜箔",
+      "cost_proportion": null,
+      "quote": "其他辅料包括硫酸、片碱、添加剂等"
+    },
+    {
+      "name": "片碱",
+      "target_product": "电解铜箔",
+      "cost_proportion": null,
+      "quote": "其他辅料包括硫酸、片碱、添加剂等"
+    },
+    {
+      "name": "添加剂",
+      "target_product": "电解铜箔",
+      "cost_proportion": null,
+      "quote": "添加剂系电解铜箔的核心技术之一，公司添加剂均系子公司德思光电自主研发及生产"
+    },
+    {
+      "name": "电力",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "消耗的能源主要为电力"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "锂电铜箔",
+      "quote": "下游产品锂电池的应用场景包括新能源汽车、3C 数码以及储能系统等领域"
+    },
+    {
+      "name": "3C数码",
+      "source_product": "锂电铜箔",
+      "quote": "下游产品锂电池的应用场景包括新能源汽车、3C 数码以及储能系统等领域"
+    },
+    {
+      "name": "储能系统",
+      "source_product": "锂电铜箔",
+      "quote": "下游产品锂电池的应用场景包括新能源汽车、3C 数码以及储能系统等领域"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "电子电路铜箔",
+      "quote": "下游产品印制电路板广泛应用于消费电子、汽车电子、通讯雷达、数字服务器、AI等电子行业"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "电子电路铜箔",
+      "quote": "下游产品印制电路板广泛应用于消费电子、汽车电子、通讯雷达、数字服务器、AI等电子行业"
+    },
+    {
+      "name": "通讯雷达",
+      "source_product": "电子电路铜箔",
+      "quote": "下游产品印制电路板广泛应用于消费电子、汽车电子、通讯雷达、数字服务器、AI等电子行业"
+    },
+    {
+      "name": "数字服务器",
+      "source_product": "电子电路铜箔",
+      "quote": "下游产品印制电路板广泛应用于消费电子、汽车电子、通讯雷达、数字服务器、AI等电子行业"
+    },
+    {
+      "name": "AI",
+      "source_product": "电子电路铜箔",
+      "quote": "下游产品印制电路板广泛应用于消费电子、汽车电子、通讯雷达、数字服务器、AI等电子行业"
+    },
+    {
+      "name": "覆铜板/CCL",
+      "source_product": "电子电路铜箔",
+      "quote": "电子电路铜箔是覆铜板、印制电路板的重要原材料"
+    },
+    {
+      "name": "印制电路板/PCB",
+      "source_product": "电子电路铜箔",
+      "quote": "电子电路铜箔是覆铜板、印制电路板的重要原材料"
+    },
+    {
+      "name": "低空飞行器",
+      "source_product": "锂电铜箔",
+      "quote": "将其应用于低空飞行器锂离子电池和可穿戴柔性电池等行业发展增速快和市场空间大的子领域"
+    },
+    {
+      "name": "可穿戴柔性电池",
+      "source_product": "锂电铜箔",
+      "quote": "将其应用于低空飞行器锂离子电池和可穿戴柔性电池等行业发展增速快和市场空间大的子领域"
+    },
+    {
+      "name": "高速服务器",
+      "source_product": "电子电路铜箔 (RTF-3/RTF-4)",
+      "quote": "公司 RTF-3、RTF-4 产品已通过多家头部 CCL 厂商认证并实现批量供货，可精准适配高速服务器、Mini LED 封装及 AI 加速卡等高端应用场景"
+    },
+    {
+      "name": "Mini LED封装",
+      "source_product": "电子电路铜箔 (RTF-3/RTF-4)",
+      "quote": "公司 RTF-3、RTF-4 产品已通过多家头部 CCL 厂商认证并实现批量供货，可精准适配高速服务器、Mini LED 封装及 AI 加速卡等高端应用场景"
+    },
+    {
+      "name": "AI加速卡",
+      "source_product": "电子电路铜箔 (RTF-3/RTF-4)",
+      "quote": "公司 RTF-3、RTF-4 产品已通过多家头部 CCL 厂商认证并实现批量供货，可精准适配高速服务器、Mini LED 封装及 AI 加速卡等高端应用场景"
+    },
+    {
+      "name": "1.6T光模块",
+      "source_product": "电子电路铜箔 (载体铜箔 C-IC2)",
+      "quote": "公司自主研发的载体铜箔 C-IC2 已在 1.6T 光模块项目实现量产"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "马科",
+      "role": "董事长，控股股东，实际控制人",
+      "quote": "公司负责人马科、主管会计工作负责人范帆及会计机构负责人(会计主管人员)范帆声明；控股股东、实际控制人 指 马科"
+    },
+    {
+      "name": "罗佳",
+      "role": "董事、总经理",
+      "quote": "2017年12月至今任德福科技董事、总经理"
+    },
+    {
+      "name": "范帆",
+      "role": "董事会秘书、财务负责人",
+      "quote": "公司负责人马科、主管会计工作负责人范帆及会计机构负责人(会计主管人员)范帆声明；财务负责 人；董事会秘 书"
+    },
+    {
+      "name": "马德福",
+      "role": "董事",
+      "quote": "2017年12月至今担任德福科技董事"
+    },
+    {
+      "name": "金荣涛",
+      "role": "董事、副总经理",
+      "quote": "现任本公司董事、副总经理"
+    },
+    {
+      "name": "江泱",
+      "role": "职工代表董事、副总经理",
+      "quote": "现任本公司职工代表董事、副总经理"
+    },
+    {
+      "name": "张涛",
+      "role": "董事、副总经理",
+      "quote": "现任本公司董事、副总经理"
+    },
+    {
+      "name": "范远朋",
+      "role": "副总经理",
+      "quote": "现任本公司副总经理"
+    },
+    {
+      "name": "杨红光",
+      "role": "副总经理",
+      "quote": "现任本公司副总经理"
+    },
+    {
+      "name": "宋铁峰",
+      "role": "副总经理",
+      "quote": "现任本公司副总经理"
+    },
+    {
+      "name": "龚凯凯",
+      "role": "副总经理",
+      "quote": "现任本公司副总经理"
+    },
+    {
+      "name": "吴丹妮",
+      "role": "副总经理",
+      "quote": "现任本公司副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁德时代新能源科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 宁德时代新能源科技股份有限公司 4,501,615,376.74 36.20%"
+    },
+    {
+      "name": "国轩高科股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 国轩高科股份有限公司 1,366,925,030.72 10.99%"
+    },
+    {
+      "name": "欣旺达动力科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 欣旺达动力科技股份有限公司 799,703,572.86 6.43%"
+    },
+    {
+      "name": "广东生益科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 广东生益科技股份有限公司 740,638,842.41 5.96%"
+    },
+    {
+      "name": "江西赣锋锂电科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 江西赣锋锂电科技股份有限公司 595,212,850.97 4.79%"
+    },
+    {
+      "name": "白银有色西北铜加工有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 白银有色西北铜加工有限公司 2,902,538,027.25 25.65%"
+    },
+    {
+      "name": "九江富奕通供应链有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 九江富奕通供应链有限公司 2,297,999,409.14 20.31%"
+    },
+    {
+      "name": "湖北自强电工材料有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 湖北自强电工材料有限公司 2,248,613,487.33 19.87%"
+    },
+    {
+      "name": "江西铜和新材料有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 江西铜和新材料有限公司 1,263,714,509.67 11.17%"
+    },
+    {
+      "name": "江苏苏豪创新科技集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 江苏苏豪创新科技集团有限公司 291,820,045.43 2.58%"
+    },
+    {
+      "name": "九江德思光电材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光电材料及铜箔添加剂的研发及生产",
+      "quote": "九江德思光电材料有限公司 子公司 光电材料及铜箔添加剂的研发及生产"
+    },
+    {
+      "name": "甘肃德福新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电解铜箔的生产销售",
+      "quote": "甘肃德福新材料有限公司 子公司 电解铜箔的生产销售"
+    },
+    {
+      "name": "九江德富新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电解铜箔的生产销售",
+      "quote": "九江德富新能源有限公司 子公司 电解铜箔的生产销售"
+    },
+    {
+      "name": "江西斯坦德电极科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "铜箔生产相关材料的研发和生产",
+      "quote": "江西斯坦德电极科技有限公司 子公司 铜箔生产相关材料的研发和生产"
+    },
+    {
+      "name": "九江烁金能源工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "铜箔相关生产设备的研发和生产",
+      "quote": "九江烁金能源工业有限公司 子公司 铜箔相关生产设备的研发和生产"
+    },
+    {
+      "name": "九江琥珀新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电解铜箔的生产销售",
+      "quote": "九江琥珀新材料有限公司 子公司 电解铜箔的生产销售"
+    },
+    {
+      "name": "九江德福销售有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "德福销售 指 九江德福销售有限公司"
+    },
+    {
+      "name": "白银有色",
+      "relation_type": "supplier",
+      "business_details": "阴极铜供应",
+      "quote": "与白银有色、江铜股份等国内知名铜材供应商建立了良好的合作关系"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "锂电铜箔",
+      "segment_type": "product_line",
+      "revenue_amount": "10,025,598,879.08元",
+      "revenue_proportion": "80.61%",
+      "gross_margin": "7.64%",
+      "yoy_change": "77.61%",
+      "quote": "锂电铜箔 10,025,598,879.08 80.61%...毛利率比上年 同期增减 7.64%"
+    },
+    {
+      "name": "电子电路铜箔",
+      "segment_type": "product_line",
+      "revenue_amount": "1,781,064,728.66元",
+      "revenue_proportion": "14.32%",
+      "gross_margin": "3.67%",
+      "yoy_change": "-1.55%",
+      "quote": "电子电路铜箔 1,781,064,728.66 14.32%...毛利率比上年 同期增减 3.67%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "7,770,709,234.36元",
+      "revenue_proportion": "62.48%",
+      "gross_margin": "7.04%",
+      "yoy_change": "80.80%",
+      "quote": "华东 7,770,709,234.36 62.48%...毛利率比上年 同期增减 7.04%"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "1,203,109,740.39元",
+      "revenue_proportion": "9.67%",
+      "gross_margin": "5.60%",
+      "yoy_change": "-21.78%",
+      "quote": "华南 1,203,109,740.39 9.67%...毛利率比上年 同期增减 5.60%"
+    },
+    {
+      "name": "华中",
+      "segment_type": "region",
+      "revenue_amount": "969,187,946.85元",
+      "revenue_proportion": "7.79%",
+      "gross_margin": "7.04%",
+      "yoy_change": "68.71%",
+      "quote": "华中 969,187,946.85 7.79%...毛利率比上年 同期增减 7.04%"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "196,487,037.04元",
+      "revenue_proportion": "1.58%",
+      "gross_margin": "7.45%",
+      "yoy_change": "-31.54%",
+      "quote": "华北 196,487,037.04 1.58%...毛利率比上年 同期增减 7.45%"
+    },
+    {
+      "name": "西南",
+      "segment_type": "region",
+      "revenue_amount": "1,464,176,539.86元",
+      "revenue_proportion": "11.77%",
+      "gross_margin": "8.34%",
+      "yoy_change": "114.31%",
+      "quote": "西南 1,464,176,539.86 11.77%...毛利率比上年 同期增减 8.34%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电解铜箔",
+      "metric_type": "production_volume",
+      "value": "13.96万吨",
+      "period": "2025年",
+      "quote": "报告期内公司实现电解铜箔生产13.96万吨，同比增加50.33%"
+    },
+    {
+      "product": "电解铜箔",
+      "metric_type": "sales_volume",
+      "value": "14.09万吨",
+      "period": "2025年",
+      "quote": "实现电解铜箔销售14.09万吨，同比增长51.99%"
+    },
+    {
+      "product": "电解铜箔",
+      "metric_type": "capacity",
+      "value": "17.5万吨/年",
+      "period": "截至2025年末",
+      "quote": "截至报告期末已建成产能为17.5 万吨/年"
+    },
+    {
+      "product": "制造业",
+      "metric_type": "sales_volume",
+      "value": "140,892吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 制造业 销售量 吨 140,892 92,701 51.99%"
+    },
+    {
+      "product": "制造业",
+      "metric_type": "production_volume",
+      "value": "139,585吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 制造业 生产量 吨 139,585 92,851 50.33%"
+    },
+    {
+      "product": "制造业",
+      "metric_type": "inventory_volume",
+      "value": "3,436吨",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 制造业 库存量 吨 3,436 4,743 -27.56%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "琥珀新材料年产5万吨高档铜箔项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "779,216,067.86元（本报告期投入）",
+      "designed_capacity": "年产5万吨高档铜箔",
+      "progress": "89.00%",
+      "expected_completion_time": "2026年03月31日",
+      "quote": "琥珀新材料 年产5万吨 高档铜箔项目...本报告期投 入金额 779,216,067.86...项目进度 89.00%...预计投产或完工时间 2026年03月31日"
+    },
+    {
+      "name": "江西德思化学有限公司电子化学品项目",
+      "project_type": "capacity_expansion",
+      "location": "江西省瑞昌市",
+      "investment_amount": "124,820,967.60元（本报告期投入）",
+      "designed_capacity": null,
+      "progress": "19.93%",
+      "expected_completion_time": null,
+      "quote": "江西德思化学有限公司 电子化学品项目...本报告期投 入金额 124,820,967.60...项目进度 19.93%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获批国家企业技术中心、博士后科研工作站、 省级工程研究中心及省重点实验室等多项重要资质"
+    },
+    {
+      "name": "博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获批国家企业技术中心、博士后科研工作站、 省级工程研究中心及省重点实验室等多项重要资质"
+    },
+    {
+      "name": "省级工程研究中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获批国家企业技术中心、博士后科研工作站、 省级工程研究中心及省重点实验室等多项重要资质"
+    },
+    {
+      "name": "省重点实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获批国家企业技术中心、博士后科研工作站、 省级工程研究中心及省重点实验室等多项重要资质"
+    },
+    {
+      "name": "HVLP1-5系列铜箔",
+      "asset_type": "core_technology",
+      "related_product": "电子电路铜箔",
+      "quantitative_info": "HVLP1-3 系列已实现批量供货；HVLP4 在部分客户实现小规模放量；HVLP5 代产品亦已完成样品认证",
+      "quote": "HVLP1-3 系列已实现批量供货，主要应用于高端AI服务器、高端交换机及光模块领域；HVLP4 在部分客户实现小规模放量，HVLP5 代产品亦已完成样品认证"
+    },
+    {
+      "name": "RTF-3/RTF-4反转处理铜箔",
+      "asset_type": "core_technology",
+      "related_product": "电子电路铜箔",
+      "quantitative_info": "通过多家头部 CCL 厂商认证并实现批量供货",
+      "quote": "公司 RTF-3、RTF-4 产品已通过多家头部 CCL 厂商认证并实现批量供货"
+    },
+    {
+      "name": "载体铜箔 C-IC2",
+      "asset_type": "core_technology",
+      "related_product": "电子电路铜箔",
+      "quantitative_info": "在 1.6T 光模块项目实现量产",
+      "quote": "公司自主研发的载体铜箔 C-IC2 已在 1.6T 光模块项目实现量产"
+    },
+    {
+      "name": "PCF多孔锂电铜箔",
+      "asset_type": "core_technology",
+      "related_product": "锂电铜箔",
+      "quantitative_info": "已具备量产能力",
+      "quote": "公司已研发出包括 PCF 多孔锂电铜箔、雾化铜箔、芯箔等多款新型锂电铜箔，并均 已具备量产能力"
+    },
+    {
+      "name": "雾化铜箔",
+      "asset_type": "core_technology",
+      "related_product": "锂电铜箔",
+      "quantitative_info": "已具备量产能力",
+      "quote": "公司已研发出包括 PCF 多孔锂电铜箔、雾化铜箔、芯箔等多款新型锂电铜箔，并均 已具备量产能力"
+    },
+    {
+      "name": "芯箔",
+      "asset_type": "core_technology",
+      "related_product": "锂电铜箔",
+      "quantitative_info": "已具备量产能力",
+      "quote": "公司已研发出包括 PCF 多孔锂电铜箔、雾化铜箔、芯箔等多款新型锂电铜箔，并均 已具备量产能力"
+    },
+    {
+      "name": "IATF 16949质量控制体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "目前已建立了国际汽车行业质量标准IATF 16949的质量控制体系"
+    },
+    {
+      "name": "添加剂自主研发与生产",
+      "asset_type": "process_technology",
+      "related_product": "电解铜箔",
+      "quantitative_info": "行业内极少数自主研发和生产铜箔添加剂配方的厂商",
+      "quote": "公司是行业内极少数自主研发和生产铜箔添加剂配方的厂商"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "64.36%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 64.36%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "36.20%",
+      "related_entity": "宁德时代新能源科技股份有限公司",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 宁德时代新能源科技股份有限公司 4,501,615,376.74 36.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "79.58%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 79.58%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "25.65%",
+      "related_entity": "白银有色西北铜加工有限公司",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 白银有色西北铜加工有限公司 2,902,538,027.25 25.65%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "下游行业需求波动",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）下游行业需求波动：公司产品涵盖锂电池铜箔与电子电路铜箔两大领域...经营业绩与下游行业景气度及产业政策具有较强关联性"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争加剧与加工费下行风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）行业竞争加剧与加工费下行风险：铜箔行业整体进入产能集中释放周期。除现有厂商持续扩产外，跨界资本及上下游关联企业的加速布局进一步加剧了供给端压力"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术迭代与产品替代风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）技术迭代与产品替代风险：铜箔行业技术演进方向明确...若公司在高抗拉高韧性极薄铜箔、高频高速用超低轮廓铜箔、IC 封装基板用超薄铜箔等特种产品的新品开发及产业化进度落后于客户需求迭代速度，将面临产品结构升级受阻及高端市场份额流失的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动与套期保值衍生风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）原材料价格波动与套期保值衍生风险：行业采用“铜价+加工费”的定价模式，阴极铜作为核心原材料，其价格波动将直接影响主营业务收入与销售成本...同时，公司虽运用期货、期权等衍生工具开展套期保值以平抑价格风险，但仍需关注基差异常变动带来的对冲效果偏差，以及极端行情下保证金追缴对流动性的短期挤占效应"
+    }
+  ]
+}

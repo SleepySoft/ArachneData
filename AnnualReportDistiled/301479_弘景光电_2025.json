@@ -1,0 +1,441 @@
+{
+  "company_name_mentioned": "广东弘景光电科技股份有限公司",
+  "produces": [
+    {
+      "name": "光学镜头",
+      "type": "device",
+      "revenue_proportion": "40.20%",
+      "quote": "公司专注光学镜头及摄像模组产品的研发、设计、生产和销售，产品主要应用于智能汽车、智能家居、全景/运动相机三大核心领域...分行业：光学镜头制造业 680,102,194.06 40.20%"
+    },
+    {
+      "name": "摄像模组",
+      "type": "device",
+      "revenue_proportion": "58.75%",
+      "quote": "公司专注光学镜头及摄像模组产品的研发、设计、生产和销售...分行业：摄像模组制造业 993,835,795.45 58.75%"
+    },
+    {
+      "name": "全景/运动相机光学镜头及摄像模组",
+      "type": "device",
+      "revenue_proportion": "20.39%",
+      "quote": "全景/运动相机光学镜头及摄像模组...应用于全景相机、运动相机等智能便携影像设备。...分产品：新兴消费光学镜头 344,942,018.46 20.39%"
+    },
+    {
+      "name": "智能家居光学镜头及摄像模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能家居光学镜头及摄像模组具备小型化、大广角、大光圈等特点...应用于家用智能视觉产品，包括家用监控、可视门铃、可视智能音箱等。"
+    },
+    {
+      "name": "智能汽车光学镜头及摄像模组",
+      "type": "device",
+      "revenue_proportion": "20.60%",
+      "quote": "在智能汽车领域，公司已构建起完整的产品解决方案体系...分产品：智能汽车光学镜头 335,160,175.60 19.81%，智能汽车摄像模组 13,433,239.17 0.79%"
+    },
+    {
+      "name": "人工智能（AI）硬件光学镜头及摄像模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "人工智能（AI）硬件光学镜头及摄像模组具备轻薄化、微型化和大广角等特点...应用于 AI 眼镜、AR/VR 眼镜、视讯会议、体感游戏机等。"
+    },
+    {
+      "name": "机器视觉光学镜头及摄像模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "机器视觉光学镜头及摄像模组具备高分辨率、高稳定性和模块化设计等特点...应用于清洁机器人、服务机器人、工业机器人、具身智能机器人等。"
+    },
+    {
+      "name": "光无源器件（如非球面透镜、光纤阵列组件等）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司充分利用光学设计、精密制造等方面的优势，成功开发了多款光通信中的光无源器件（如非球面透镜、光纤阵列组件等）。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "光学原材料",
+      "target_product": "光学镜头及摄像模组",
+      "cost_proportion": null,
+      "quote": "公司采购主要包括光学原材料、光学元器件、电子元器件和委托加工服务。"
+    },
+    {
+      "name": "光学元器件",
+      "target_product": "光学镜头及摄像模组",
+      "cost_proportion": null,
+      "quote": "公司采购主要包括光学原材料、光学元器件、电子元器件和委托加工服务。"
+    },
+    {
+      "name": "电子元器件",
+      "target_product": "摄像模组",
+      "cost_proportion": null,
+      "quote": "公司采购主要包括光学原材料、光学元器件、电子元器件和委托加工服务。"
+    },
+    {
+      "name": "委托加工服务",
+      "target_product": "光学件外协加工、电子件外协加工",
+      "cost_proportion": null,
+      "quote": "其中委托加工服务主要项目为光学件外协加工和电子件外协加工。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能汽车（高级驾驶辅助系统ADAS、全景式监控影像系统AVM、电子后视镜CMS、车载视频行驶记录系统DVR、驾驶员监测系统DMS、乘客监测系统OMS）",
+      "source_product": "智能汽车光学镜头及摄像模组",
+      "quote": "在智能汽车领域，公司已构建起完整的产品解决方案体系，全面覆盖智能驾驶与智能座舱两大核心赛道的各类应用场景。其中，智能驾驶方向，产品主要应用于高级驾驶辅助系统（ADAS）、全景式监控影像系统（AVM）、电子后视镜（CMS）等场景；智能座舱方向，产品主要应用于车载视频行驶记录系统（DVR）、驾驶员监测系统（DMS）、乘客监测系统（OMS）等场景。"
+    },
+    {
+      "name": "智能家居（家用监控、智能可视门铃等）",
+      "source_product": "智能家居光学镜头及摄像模组",
+      "quote": "在智能家居领域，产品主要应用于家用监控、智能可视门铃等，能有效满足家庭场景24小时监控需求。"
+    },
+    {
+      "name": "全景/运动相机",
+      "source_product": "全景/运动相机光学镜头及摄像模组",
+      "quote": "在全景及运动相机领域，公司聚焦高性能高品质影像产品，产品主要应用于全景相机、运动相机等，能有效满足户外探险、极限运动、全景记录等场景创作需求。"
+    },
+    {
+      "name": "人工智能硬件（体感游戏机、割草机器人等）",
+      "source_product": "人工智能（AI）硬件光学镜头及摄像模组",
+      "quote": "截至报告期末，已批量出货产品主要应用于体感游戏机、割草机器人等。"
+    },
+    {
+      "name": "机器视觉（清洁机器人、服务机器人、工业机器人、具身智能机器人等）",
+      "source_product": "机器视觉光学镜头及摄像模组",
+      "quote": "应用于清洁机器人、服务机器人、工业机器人、具身智能机器人等。"
+    },
+    {
+      "name": "光通信（光模块等）",
+      "source_product": "光无源器件（如非球面透镜、光纤阵列组件等）",
+      "quote": "光通信是支撑数字经济发展的核心基础设施...光模块作为光通信系统的核心器件，在数据中心、移动通信、AI 算力等领域发挥着关键作用。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赵治平",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人赵治平...现任公司董事长兼总经理。"
+    },
+    {
+      "name": "周东",
+      "role": "董事、常务副总经理",
+      "quote": "现任公司董事、常务副总经理。"
+    },
+    {
+      "name": "周伟刚",
+      "role": "财务总监、主管会计工作负责人",
+      "quote": "主管会计工作负责人周伟刚...现任公司财务总监。"
+    },
+    {
+      "name": "林琼芸",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 林琼芸"
+    },
+    {
+      "name": "陈丽娜",
+      "role": "会计机构负责人(会计主管人员)",
+      "quote": "会计机构负责人(会计主管人员)陈丽娜"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "影石创新科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司作为影石创新的核心供应商，在全景相机细分赛道占据领先地位。",
+      "quote": "根据 Frost＆Sullivan 报告，影石创新在全景相机领域持续领跑，全球市占率连续 8 年位居第一...公司作为影石创新的核心供应商...前5大客户资料：序号 客户名称 销售额（元）占年度销售总额比例 1 影石创新科技股份有限公司 884,594,627.03 52.29%"
+    },
+    {
+      "name": "惠州市德赛西威汽车电子股份有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方销售，交易内容为向公司销售智能驾驶光学镜头、智能座舱光学镜头。",
+      "quote": "前5大客户销售额中关联方销售额占年度销售总额比例 5.91%...关联交易：惠州 市德赛西威汽车电子股份有限公司 销售 向公司委派一名董事 销售智 能驾驶 光学镜头、智能座舱 光学镜头 9,900 29.84%"
+    },
+    {
+      "name": "亚马逊（Ring、Blink）",
+      "relation_type": "customer",
+      "business_details": "公司作为亚马逊旗下中高端智能家居摄像头品牌 Ring 和 Blink 的重要供应商。",
+      "quote": "根据 IDC《全球智能家居设备市场季度跟踪报告，2025 年第四季度》，亚马逊2025年全球家用摄像头市场份额占比11.8%，公司作为亚马逊旗下中高端智能家居摄像头品牌 Ring 和 Blink 的重要供应商，占据一定的市场份额。"
+    },
+    {
+      "name": "Google Nest",
+      "relation_type": "customer",
+      "business_details": "进入了海外知名品牌 Google Nest 的供应链体系。",
+      "quote": "在智能家居领域...顺利进入海外知名品牌 Google Nest 的供应链体系。"
+    },
+    {
+      "name": "深圳市方正达科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联采购方，采购内容为材料采购。",
+      "quote": "关联交易：深圳市方正达科技有限公司 采购 材料采购 117.75 1.74%"
+    },
+    {
+      "name": "东莞市力成科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联采购方，采购内容为材料采购。",
+      "quote": "关联交易：东莞市力成科技有限公司 采购 材料采购 337.97 4.98%"
+    },
+    {
+      "name": "弘景光电（仙桃）科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，负责玻璃球面和玻璃非球面镜片生产、光学镜头和摄像模组的组装等。",
+      "quote": "弘景仙桃 指 弘景光电（仙桃）科技有限公司，公司全资子公司...湖北仙桃生产基地，负责玻璃球面和玻璃非球面镜片生产、光学镜头和摄像模组的组装等。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光学镜头制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "680,102,194.06",
+      "revenue_proportion": "40.20%",
+      "gross_margin": "34.04%",
+      "yoy_change": "29.30%",
+      "quote": "分行业：光学镜头制造业 680,102,194.06 40.20%...毛利率 34.04%...2025年 较上年同期增减 29.30%"
+    },
+    {
+      "name": "摄像模组制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "993,835,795.45",
+      "revenue_proportion": "58.75%",
+      "gross_margin": "16.86%",
+      "yoy_change": "78.80%",
+      "quote": "分行业：摄像模组制造业 993,835,795.45 58.75%...毛利率 16.86%...2025年 较上年同期增减 78.80%"
+    },
+    {
+      "name": "智能汽车光学镜头",
+      "segment_type": "product_line",
+      "revenue_amount": "335,160,175.60",
+      "revenue_proportion": "19.81%",
+      "gross_margin": "23.08%",
+      "yoy_change": "61.78%",
+      "quote": "分产品：智能汽车光学镜头 335,160,175.60 19.81%...毛利率 23.08%...2025年 较上年同期增减 61.78%"
+    },
+    {
+      "name": "新兴消费光学镜头",
+      "segment_type": "product_line",
+      "revenue_amount": "344,942,018.46",
+      "revenue_proportion": "20.39%",
+      "gross_margin": "44.69%",
+      "yoy_change": "8.19%",
+      "quote": "分产品：新兴消费光学镜头 344,942,018.46 20.39%...毛利率 44.69%...2025年 较上年同期增减 8.19%"
+    },
+    {
+      "name": "新兴消费摄像模组",
+      "segment_type": "product_line",
+      "revenue_amount": "980,402,556.28",
+      "revenue_proportion": "57.95%",
+      "gross_margin": "16.87%",
+      "yoy_change": "83.76%",
+      "quote": "分产品：新兴消费摄像模组 980,402,556.28 57.95%...毛利率 16.87%...2025年 较上年同期增减 83.76%"
+    },
+    {
+      "name": "境内地区",
+      "segment_type": "region",
+      "revenue_amount": "1,245,368,869.02",
+      "revenue_proportion": "73.61%",
+      "gross_margin": "19.50%",
+      "yoy_change": "56.01%",
+      "quote": "分地区：境内地区 1,245,368,869.02 73.61%...毛利率 19.50%...2025年 较上年同期增减 56.01%"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "446,402,452.30",
+      "revenue_proportion": "26.39%",
+      "gross_margin": "35.69%",
+      "yoy_change": "52.07%",
+      "quote": "分地区：境外地区 446,402,452.30 26.39%...毛利率 35.69%...2025年 较上年同期增减 52.07%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光学镜头",
+      "metric_type": "sales_volume",
+      "value": "3716.47万个",
+      "period": "2025年",
+      "quote": "光学镜头制造业 销售量 万个 3,716.47"
+    },
+    {
+      "product": "光学镜头",
+      "metric_type": "production_volume",
+      "value": "3764.64万个",
+      "period": "2025年",
+      "quote": "光学镜头制造业 生产量 万个 3,764.64"
+    },
+    {
+      "product": "光学镜头",
+      "metric_type": "inventory_volume",
+      "value": "811.09万个",
+      "period": "2025年末",
+      "quote": "光学镜头制造业 库存量 万个 811.09"
+    },
+    {
+      "product": "摄像模组",
+      "metric_type": "sales_volume",
+      "value": "535.64万个",
+      "period": "2025年",
+      "quote": "摄像模组制造业 销售量 万个 535.64"
+    },
+    {
+      "product": "摄像模组",
+      "metric_type": "production_volume",
+      "value": "575.26万个",
+      "period": "2025年",
+      "quote": "摄像模组制造业 生产量 万个 575.26"
+    },
+    {
+      "product": "摄像模组",
+      "metric_type": "inventory_volume",
+      "value": "58.08万个",
+      "period": "2025年末",
+      "quote": "摄像模组制造业 库存量 万个 58.08"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "弘景光电研发制造总部基地建设项目（一期）（原光学镜头及模组产能扩建项目-中山生产基地产能扩建项目）",
+      "project_type": "capacity_expansion",
+      "location": "中山市火炬开发区沿江东二路6号",
+      "investment_amount": "86,584.11万元（其中募集资金投资39,530.41万元）",
+      "designed_capacity": "新增产能可有效匹配公司未来的业务规模扩张需求",
+      "progress": "2025年10月，研发制造总部基地正式动工",
+      "expected_completion_time": "项目计划投资周期3年，预计2028年3月31日达到预定可使用状态",
+      "quote": "2025年10月，公司产业布局同步升级，研发制造总部基地正式动工，项目计划投资周期 3 年...将募投项目“光学镜头及模组产能扩建项目”的子项目“中山生产基地产能扩建项目”整体变更为“弘景光电研发制造总部基地建设项目（一期）”...实施地点由“中山市火炬开发区勤业路27号”及“中山市火炬开发区建业西路28号电子基地加速器厂房”变更为“中山市火炬开发区沿江东二路6号”...总投资金额由28,923.00万元增加至86,584.11万元"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "7,342.17万元",
+      "designed_capacity": null,
+      "progress": "已投入5,125.34万元，投资进度69.81%",
+      "expected_completion_time": "预计2028年3月31日达到预定可使用状态",
+      "quote": "研发中心建设项目 承诺投资总额 7,342.17 截至期末累计投入金额 5,125.34 投资进度 69.81% 项目达到预定可使用状态日期 2028年03月31日"
+    },
+    {
+      "name": "海外生产基地建设",
+      "project_type": "capacity_expansion",
+      "location": "海外",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "稳步推进",
+      "expected_completion_time": "力争于第四季度完工并投产",
+      "quote": "在产能建设方面...稳步推进海外生产基地建设，力争于第四季度完工并投产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "带自动加热功能的摄像模组设计",
+      "asset_type": "core_technology",
+      "related_product": "CMS镜头",
+      "quantitative_info": null,
+      "quote": "尤其在全景/运动相机镜头及摄像模组、CMS 加热镜头和摄像模组领域，核心技术达到行业先进水平...带自动加热功能的CMS镜头是行业首批获得中汽研认证的产品"
+    },
+    {
+      "name": "超高清摄像模组设计生产",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司在光学镜头及摄像模组的研发、设计与生产方面积累了多项核心技术，涵盖...超高清摄像模组设计生产..."
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司已取得境内专利378项，其中发明专利181项、实用新型专利197项；取得PCT专利4项。",
+      "quote": "截至报告期末，公司已取得境内专利378项，其中发明专利181项、实用新型专利197项；取得PCT专利4项。"
+    },
+    {
+      "name": "高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司成功认定为高新技术企业"
+    },
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后通过了 ISO9001 质量管理体系..."
+    },
+    {
+      "name": "ISO14001环境管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "...ISO14001 环境管理体系..."
+    },
+    {
+      "name": "IATF16949汽车行业质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "...IATF16949 汽车行业质量管理体系的认证。"
+    },
+    {
+      "name": "CNAS体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司持续健全实验室功能，按照 CNAS 体系强化管理水平..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "77.58%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 77.58%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "52.29%",
+      "related_entity": "影石创新科技股份有限公司",
+      "period": "2025年",
+      "quote": "前5大客户资料：序号 客户名称 销售额（元）占年度销售总额比例 1 影石创新科技股份有限公司 884,594,627.03 52.29%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "52.28%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 52.28%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "37.68%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料：序号 供应商名称 采购额（元）占年度采购总额比例 1 供应商1 444,016,269.91 37.68%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五大客户集中度较高，若客户因上下游产业政策、市场环境、终端消费需求等因素的不利变化，可能导致终端产品销售存在不确定性，进而对公司产品的需求减少，对公司销售收入和盈利能力的持续性和稳定性产生不利影响。此外，如果未来公司与主要客户的合作关系发生不利变化，也可能对公司的业务发展产生不利影响。",
+      "related_entity": "前五大客户",
+      "related_product": null,
+      "quote": "（3）客户集中风险：公司前五大客户集中度较高，若客户因上下游产业政策、市场环境、终端消费需求等因素的不利变化，可能导致终端产品销售存在不确定性，进而对公司产品的需求减少，对公司销售收入和盈利能力的持续性和稳定性产生不利影响。此外，如果未来公司与主要客户的合作关系发生不利变化，也可能对公司的业务发展产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处的光学光电子行业属于高度市场化行业，公司产品面向的智能汽车、智能家居、全景/运动相机、机器视觉等下游新兴产业快速发展，行业内现有竞争对手通过不断提升技术水平和产品质量，抢占现有市场份额。同时，良好的市场机遇也吸引了更多企业加速布局、介入市场，进一步加剧了行业内竞争。因此，公司可能面临市场份额减少、盈利能力下降等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）市场竞争风险：公司所处的光学光电子行业属于高度市场化行业...行业内现有竞争对手通过不断提升技术水平和产品质量，抢占现有市场份额...进一步加剧了行业内竞争。因此，公司可能面临市场份额减少、盈利能力下降等风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司所处行业属于技术密集型行业，产品开发生产需综合应用光学、机械、电子和计算机等多学科技术并掌握精密制造工艺，对公司的技术水平和研发能力要求较高。同时，随着下游应用领域的不断拓展，终端消费者对产品性能要求持续提升，行业内技术迭代升级，对公司技术创新和产品开发能力提出了更高的要求。如公司未能准确把握行业技术发展趋势或未能持续进行产品技术的迭代创新，公司将面临核心竞争力下降风险，进而对公司的经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）新产品研发及技术迭代风险：公司所处行业属于技术密集型行业...如公司未能准确把握行业技术发展趋势或未能持续进行产品技术的迭代创新，公司将面临核心竞争力下降风险，进而对公司的经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司的客户及终端品牌商范围覆盖亚洲、北美洲、欧洲等主要地区市场，公司所从事的光学光电子行业客户覆盖面广，整体上与宏观经济、国际贸易政策的波动密切相关。近年来，全球地缘冲突加剧，国际贸易环境愈发复杂严峻，可能对公司未来海外市场拓展产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）国际贸易摩擦风险：公司的客户及终端品牌商范围覆盖亚洲、北美洲、欧洲等主要地区市场...近年来，全球地缘冲突加剧，国际贸易环境愈发复杂严峻，可能对公司未来海外市场拓展产生不利影响。"
+    }
+  ]
+}

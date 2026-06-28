@@ -1,0 +1,274 @@
+{
+  "company_name_mentioned": "京沪高速铁路股份有限公司",
+  "produces": [
+    {
+      "name": "客运业务",
+      "type": "service",
+      "revenue_proportion": "15,722,167,736.10元",
+      "quote": "客运业务：为乘坐担当列车的旅客提供高铁运输服务并收取票价款；"
+    },
+    {
+      "name": "路网服务",
+      "type": "service",
+      "revenue_proportion": "27,030,642,195.29元",
+      "quote": "路网服务：其他铁路运输企业担当的列车在本公司及子公司控制的高速铁路上运行时，向其提供线路使用、接触网使用等服务并收取相应费用等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "折旧支出",
+      "target_product": null,
+      "cost_proportion": "4,710,375,175.29元（占总成本20.59%）",
+      "quote": "铁路运输 折旧支出 4,710,375,175.29 20.59"
+    },
+    {
+      "name": "能源支出",
+      "target_product": null,
+      "cost_proportion": "4,027,885,684.37元（占总成本17.61%）",
+      "quote": "铁路运输 能源支出 4,027,885,684.37 17.61"
+    },
+    {
+      "name": "委托运输管理费",
+      "target_product": null,
+      "cost_proportion": "6,610,185,984.82元（占总成本28.90%）",
+      "quote": "委托运输管理费 6,610,185,984.82 28.90"
+    },
+    {
+      "name": "动车组使用费",
+      "target_product": null,
+      "cost_proportion": "4,587,993,549.65元（占总成本20.06%）",
+      "quote": "动车组使用费 4,587,993,549.65 20.06"
+    },
+    {
+      "name": "高铁运输能力保障费",
+      "target_product": null,
+      "cost_proportion": "1,466,352,922.24元（占总成本6.41%）",
+      "quote": "高铁运输能力保障费 1,466,352,922.24 6.41"
+    }
+  ],
+  "applications": [
+    {
+      "name": "旅客出行",
+      "source_product": "客运业务",
+      "quote": "公司主营业务为高铁旅客运输，具体主要包括：（1）为乘坐担当列车的旅客提供高铁运输服务并收取票价款"
+    },
+    {
+      "name": "其他铁路运输企业",
+      "source_product": "路网服务",
+      "quote": "（2）其他铁路运输企业担当的列车在京沪高速铁路上运行时，向其提供线路使用、接触网使用等服务并收取相应费用等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘洪润",
+      "role": "董事长",
+      "quote": "公司负责人刘洪润、主管会计工作负责人曹惠萍及会计机构负责人（会计主管人员）李建国声明"
+    },
+    {
+      "name": "曹惠萍",
+      "role": "主管会计工作负责人（总会计师）",
+      "quote": "公司负责人刘洪润、主管会计工作负责人曹惠萍及会计机构负责人（会计主管人员）李建国声明"
+    },
+    {
+      "name": "李建国",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人刘洪润、主管会计工作负责人曹惠萍及会计机构负责人（会计主管人员）李建国声明"
+    },
+    {
+      "name": "李敬伟",
+      "role": "副董事长、总经理",
+      "quote": "副董事长 李敬伟 男 57 2025-1-17"
+    },
+    {
+      "name": "赵非",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 赵非"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国国家铁路集团有限公司",
+      "relation_type": "customer",
+      "business_details": "受托进行运输管理；路网服务收入通过国铁集团清算系统处理",
+      "quote": "委托京沪高速铁路沿线的北京局集团、济南局集团和上海局集团对京沪高速铁路进行运输管理"
+    },
+    {
+      "name": "中国铁路北京局集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "受托对京沪高速铁路进行运输管理",
+      "quote": "委托京沪高速铁路沿线的北京局集团、济南局集团和上海局集团对京沪高速铁路进行运输管理"
+    },
+    {
+      "name": "中国铁路上海局集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "受托对京沪高速铁路及京福安徽公司所辖线路进行运输管理",
+      "quote": "委托京沪高速铁路沿线的北京局集团、济南局集团和上海局集团对京沪高速铁路进行运输管理；京福安徽公司现场运输相应委托郑州局集团、上海局集团和南昌局集团进行管理。"
+    },
+    {
+      "name": "中国铁路济南局集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "受托对京沪高速铁路进行运输管理",
+      "quote": "委托京沪高速铁路沿线的北京局集团、济南局集团和上海局集团对京沪高速铁路进行运输管理"
+    },
+    {
+      "name": "中铁电气化局集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "受托进行牵引供电和电力设施运行维修管理",
+      "quote": "并将牵引供电和电力设施运行维修委托中铁电气化局集团进行管理"
+    },
+    {
+      "name": "京福铁路客运专线安徽有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "合蚌客专、合福铁路安徽段、商合杭铁路安徽段、郑阜铁路安徽段的投资、建设、运营主体",
+      "quote": "公司控股子公司京福安徽公司是合蚌客专、合福铁路安徽段、商合杭铁路安徽段、郑阜铁路安徽段的投资、建设、运营主体"
+    },
+    {
+      "name": "中国铁路投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "前十名股东持股情况：中国铁路投资集团有限公司 0 21,306,477,996 43.55"
+    },
+    {
+      "name": "中国铁路财务有限责任公司",
+      "relation_type": "customer",
+      "business_details": "存放定期存款；关联方金融服务",
+      "quote": "中国铁路财务有限责任公司 其他说明：本公司在财务公司存款业务为三年定期存单。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "客运业务",
+      "segment_type": "product_line",
+      "revenue_amount": "15,722,167,736.10元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "客运业务 15,722,167,736.10"
+    },
+    {
+      "name": "路网服务",
+      "segment_type": "product_line",
+      "revenue_amount": "27,030,642,195.29元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "路网服务 27,030,642,195.29"
+    },
+    {
+      "name": "中国",
+      "segment_type": "region",
+      "revenue_amount": "42,752,753,796.60元",
+      "revenue_proportion": null,
+      "gross_margin": "46.50%",
+      "yoy_change": null,
+      "quote": "主营业务分地区情况 中国 减少0.42 42,752,753,796.60 22,873,883,003.38 46.50"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "列车",
+      "metric_type": "production_volume",
+      "value": "全线列车开行数量增长1.4%",
+      "period": "报告期",
+      "quote": "全线列车开行数量、本线列车客票收入分别增长1.4%、2.5%"
+    },
+    {
+      "product": "列车",
+      "metric_type": "other",
+      "value": "京福安徽公司列公里增长8.3%",
+      "period": "报告期",
+      "quote": "京福安徽公司列公里增长8.3%"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "高速铁路建设技术",
+      "asset_type": "core_technology",
+      "related_product": "京沪高速铁路",
+      "quantitative_info": "世界上一次建成里程最长、技术标准最高的高速铁路，整体建设工程荣获国家科学技术进步奖特等奖",
+      "quote": "京沪高速铁路是世界上一次建成里程最长、技术标准最高的高速铁路，整体建设工程荣获国家科学技术进步奖特等奖"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,281,319.53万元，占年度销售总额52.98%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额2,281,319.53万元，占年度销售总额52.98%；其中前五名客户销售额中关联方销售额2,281,319.53万元，占年度销售总额52.98%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,437,862.84万元，占年度采购总额77.18%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额1,437,862.84万元，占年度采购总额77.18%；其中前五名供应商采购额中关联方采购额1,359,040.12万元，占年度采购总额72.94%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "高",
+      "related_entity": "关联方（国铁集团体系）",
+      "period": "报告期",
+      "quote": "其中前五名客户销售额中关联方销售额2,281,319.53万元，占年度销售总额52.98%。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "高",
+      "related_entity": "关联方（国铁集团体系）",
+      "period": "报告期",
+      "quote": "其中前五名供应商采购额中关联方采购额1,359,040.12万元，占年度采购总额72.94%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "其他运输方式的竞争风险。民航低价航班、新能源汽车等对铁路运输形成分流，竞争压力增大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "其他运输方式的竞争风险。高速铁路与公路客运、航空客运形成了差异化竞争的局面。但是，如果未来公路网持续扩张完善、航空客运准点率和服务水平不断提高，仍可能影响旅客出行选择"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "能源价格上涨的风险。电力是铁路运输行业的主要能源，未来如果电力价格大幅上涨，可能导致毛利率和经营业绩下滑。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "能源价格上涨的风险。电力是铁路运输行业的主要能源。受国家市场化电价政策影响，未来如果电力价格大幅上涨，则仍可能导致公司毛利率和经营业绩下滑。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "财务费用上升的风险。公司债务融资规模大，综合借款年利率水平如果上升，财务费用将随之上升，净利润可能受到负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "财务费用上升的风险。公司收购京福安徽公司部分股权的投资总额与募集资金的差额通过借款解决，本公司债务融资规模大，综合借款年利率水平如果上升，财务费用也将随之上升，净利润水平可能受到一定负面影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "铁路运输事故的风险。运输过程中可能发生列车相撞、出轨、颠覆、人身伤亡等事故，导致财产损失、业务中断或承担责任。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "铁路运输事故的风险。铁路运输安全关系到本公司的正常经营...在经营过程中仍然面临可能发生列车相撞、出轨、颠覆、人身伤亡、线路损坏等事故的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "重大自然灾害、重大公共卫生安全事件和恶劣天气状况带来的风险。可能导致铁路暂时关闭、收入降低、养护成本上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大自然灾害、重大公共卫生安全事件和恶劣天气状况带来的风险。重大自然灾害如地震、塌方、泥石流、山体滑坡等，可能会造成本公司运营的铁路暂时关闭..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济波动的风险。宏观经济的波动可能影响商务活动及旅客出行需求，进而影响公司业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观经济波动的风险。本公司主营业务为高铁旅客运输，宏观经济的波动可能影响商务活动及旅客出行需求，进而会对铁路旅客运输产生影响。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "重大诉讼、仲裁事项。与马克斯·博格建筑有限公司存在合同纠纷仲裁，已被裁决支付合同价款及利息，公司已申请撤销裁决。",
+      "related_entity": "马克斯·博格建筑有限公司",
+      "related_product": null,
+      "quote": "本公司与第二被申请人中国铁路设计集团有限公司共同向申请人支付合同价款人民币234,883,160.25元及利息、仲裁费、翻译费、律师费。"
+    }
+  ]
+}

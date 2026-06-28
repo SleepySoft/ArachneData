@@ -1,0 +1,441 @@
+{
+  "company_name_mentioned": "浙江伟明环保股份有限公司",
+  "produces": [
+    {
+      "name": "电力销售",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主要产品与服务包括电力销售、垃圾处置服务、设备销售及服务、镍产品销售等。业务对应收入主要来源为：向电网公司销售电力取得发电收入。"
+    },
+    {
+      "name": "垃圾处置服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主要产品与服务包括电力销售、垃圾处置服务、设备销售及服务、镍产品销售等。为地方政府环卫部门提供垃圾处置服务并收取垃圾处理费。"
+    },
+    {
+      "name": "环保装备及新能源材料装备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司及下属子公司自主研发、制造和销售核心的垃圾焚烧、渗滤液处理、餐厨垃圾处理等环保装备，以及火法和湿法冶金等新材料装备。"
+    },
+    {
+      "name": "EPC工程服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "设备销售及服务主要属于订单式生产...设备销售及服务收入主要来源于PPP项目建造业务及成套设备销售业务收入。"
+    },
+    {
+      "name": "镍中间品（冰镍、硫酸镍等）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司亦向客户销售镍中间品实现新材料产品销售收入。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材、炉排片、过滤材料、龙骨、水、电等（装备制造）",
+      "target_product": "环保装备及新材料装备",
+      "cost_proportion": null,
+      "quote": "装备制造采购方面，公司主要通过询比价，与主材、辅材及外购件厂商签订协议，开展钢材、炉排片、过滤材料、龙骨、水、电等采购工作。"
+    },
+    {
+      "name": "红土镍矿、煤、硫磺、电、石灰、水等（新材料项目运营）",
+      "target_product": "镍中间品",
+      "cost_proportion": null,
+      "quote": "新材料项目投运后需采购红土镍矿、煤、硫磺、电、石灰、水等原材料。"
+    },
+    {
+      "name": "工程承包服务（土建施工、设备安装）",
+      "target_product": "垃圾处理项目、新材料项目",
+      "cost_proportion": null,
+      "quote": "垃圾处理项目建设期间，公司通过与工程承包商签订协议，由工程承包商具体实施项目土建施工、设备安装等服务。"
+    },
+    {
+      "name": "余热锅炉（委托生产）",
+      "target_product": "垃圾焚烧发电项目",
+      "cost_proportion": null,
+      "quote": "余热锅炉由公司自主设计并委托专业的锅炉生产商进行制造。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市生活垃圾焚烧发电",
+      "source_product": "垃圾焚烧发电项目运营",
+      "quote": "在环境治理领域，公司具备生活垃圾焚烧发电全产业链服务能力...公司在全国范围内投资运营多个生活垃圾焚烧厂。"
+    },
+    {
+      "name": "餐厨与污泥处理",
+      "source_product": "餐厨垃圾处理项目、污泥处理项目",
+      "quote": "环境治理业务涵盖生活垃圾焚烧发电、餐厨与污泥处理、污水处理等。"
+    },
+    {
+      "name": "新能源汽车动力电池材料",
+      "source_product": "高冰镍、硫酸镍、电解镍、三元正极材料",
+      "quote": "在新能源材料领域，公司实施“上下游一体化”投资发展战略...下游在国内建设锂电池新材料产业基地。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "项光明",
+      "role": "董事长、总裁",
+      "quote": "公司负责人项光明、主管会计工作负责人程鹏及会计机构负责人（会计主管人员）赵洪声明... 项光明 董事长、总裁。"
+    },
+    {
+      "name": "朱善银",
+      "role": "副董事长",
+      "quote": "朱善银 副董事长"
+    },
+    {
+      "name": "陈革",
+      "role": "董事、副总裁",
+      "quote": "陈革 董事、副总裁"
+    },
+    {
+      "name": "项鹏宇",
+      "role": "董事、副总裁",
+      "quote": "项鹏宇 董事、副总裁"
+    },
+    {
+      "name": "项奕豪",
+      "role": "董事、副总裁",
+      "quote": "项奕豪 董事、副总裁"
+    },
+    {
+      "name": "程鹏",
+      "role": "副总裁、财务总监、董事会秘书",
+      "quote": "程鹏 副总裁、财务总监、董事会秘书"
+    },
+    {
+      "name": "李玉燕",
+      "role": "职工董事",
+      "quote": "职工董事 李玉燕"
+    },
+    {
+      "name": "章小建",
+      "role": "副总裁",
+      "quote": "章小建 副总裁"
+    },
+    {
+      "name": "程五良",
+      "role": "副总裁",
+      "quote": "程五良 副总裁"
+    },
+    {
+      "name": "朱达海",
+      "role": "副总裁",
+      "quote": "朱达海 副总裁"
+    },
+    {
+      "name": "李凌",
+      "role": "副总裁",
+      "quote": "李凌 副总裁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "伟明集团有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "伟明集团 指 伟明集团有限公司"
+    },
+    {
+      "name": "温州市嘉伟实业有限公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "嘉伟实业 指 温州市嘉伟实业有限公司"
+    },
+    {
+      "name": "广东邦普循环科技有限公司",
+      "relation_type": "customer",
+      "business_details": "签署《三元正极材料前驱体合作框架协议》，计划定向销售指定型号三元正极材料前驱体",
+      "quote": "伟明盛青公司与广东邦普循环科技有限公司签署了《三元正极材料前驱体合作框架协议》，计划定向销售指定型号三元正极材料前驱体（镍钴锰氢氧化物）"
+    },
+    {
+      "name": "深圳盛屯集团有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "并成功拓展深圳盛屯集团有限公司等重要战略客户。"
+    },
+    {
+      "name": "Merit International Capital Limited",
+      "relation_type": "joint_venture",
+      "business_details": "共同投资印尼高冰镍项目",
+      "quote": "嘉曼公司投资建设的红土镍矿冶炼年产高冰镍含镍金属 4万吨（印尼）项目"
+    },
+    {
+      "name": "格林美香港国际物流有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "共同投资印尼高冰镍项目",
+      "quote": "嘉曼美高冰镍项目 指 《关于Merit、格林美香港与伟明之年产高冰镍含镍金属5万吨（印尼）项目合资协议》"
+    },
+    {
+      "name": "安徽盛运环保（集团）股份有限公司（及其子公司）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "盛运环保 指 安徽盛运环保（集团）股份有限公司... 桐城盛运 指 桐城盛运环保电力有限公司... 宁阳盛运 指 宁阳盛运环保电力有限公司... 凯里盛运 指 凯里盛运环保电力有限公司... 拉萨盛运 指 拉萨盛运环保电力有限公司... 招远盛运 指 招远盛运环保电力有限公司。"
+    },
+    {
+      "name": "伟明环保装备集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "伟明装备集团 指 伟明环保装备集团有限公司"
+    },
+    {
+      "name": "浙江伟明盛青能源新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "伟明盛青公司 指 浙江伟明盛青能源新材料有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "项目运营",
+      "segment_type": "product_line",
+      "revenue_amount": "3,647,010,573.37元",
+      "revenue_proportion": null,
+      "gross_margin": "62.53%",
+      "yoy_change": "营业收入比上年增 8.21%",
+      "quote": "项目运营 3,647,010,573.37 1,366,519,161.43 62.53 8.21 0.05"
+    },
+    {
+      "name": "设备、EPC及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "2,126,241,609.03元",
+      "revenue_proportion": null,
+      "gross_margin": "37.39%",
+      "yoy_change": "营业收入比上年增 -43.44%",
+      "quote": "设备、EPC及服务 2,126,241,609.03 1,331,190,209.86 37.39 -43.44 -36.24"
+    },
+    {
+      "name": "新材料产品",
+      "segment_type": "product_line",
+      "revenue_amount": "421,409,750.26元",
+      "revenue_proportion": null,
+      "gross_margin": "15.84%",
+      "yoy_change": "不适用",
+      "quote": "新材料产品 421,409,750.26 354,672,664.58 15.84 不适用 不适用 不适用"
+    },
+    {
+      "name": "浙江省内",
+      "segment_type": "region",
+      "revenue_amount": "3,535,560,269.13元",
+      "revenue_proportion": null,
+      "gross_margin": "55.54%",
+      "yoy_change": "营业收入比上年增 -27.17%",
+      "quote": "浙江省内 3,535,560,269.13 1,572,002,138.49 55.54 -27.17 -30.01"
+    },
+    {
+      "name": "浙江省外",
+      "segment_type": "region",
+      "revenue_amount": "2,659,101,663.53元",
+      "revenue_proportion": null,
+      "gross_margin": "44.33%",
+      "yoy_change": "营业收入比上年增 16.90%",
+      "quote": "浙江省外 2,659,101,663.53 1,480,379,897.38 44.33 16.90 22.59"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "垃圾焚烧发电",
+      "metric_type": "production_volume",
+      "value": "垃圾入库量 1,413.21万吨",
+      "period": "2025年",
+      "quote": "垃圾入库量（万吨） 1,413.21 1,322.86 1,176.33"
+    },
+    {
+      "product": "垃圾焚烧发电",
+      "metric_type": "production_volume",
+      "value": "上网电量 37.95亿度",
+      "period": "2025年",
+      "quote": "上网电量（亿度） 37.95 36.18 31.58"
+    },
+    {
+      "product": "餐厨垃圾处理",
+      "metric_type": "production_volume",
+      "value": "粗油脂销售量 1.62万吨",
+      "period": "2025年",
+      "quote": "粗油脂销售量（万吨） 1.62 1.59 1.44"
+    },
+    {
+      "product": "冰镍",
+      "metric_type": "capacity",
+      "value": "年产4万金吨冰镍",
+      "period": null,
+      "quote": "印尼嘉曼公司年产4万金吨冰镍项目进展顺利"
+    },
+    {
+      "product": "电解镍",
+      "metric_type": "capacity",
+      "value": "一期2.5万吨产线",
+      "period": null,
+      "quote": "伟明盛青公司温州锂电池新材料项目取得积极进展，其中，电解镍业务方面，一期2.5万吨产线已实现连续稳定生产"
+    },
+    {
+      "product": "三元前驱体",
+      "metric_type": "capacity",
+      "value": "一期2.5万吨产线",
+      "period": null,
+      "quote": "三元前驱体业务方面，一期2.5万吨产线已产出合格吨级试验料"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "伟明装备集团度山基地二期",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新增取得52亩扩建用地",
+      "expected_completion_time": null,
+      "quote": "产能布局方面，伟明装备集团度山基地一期已完成达产验收，二期新增取得52亩扩建用地，计划进一步提升装备制造能力。"
+    },
+    {
+      "name": "印尼嘉曼高冰镍项目",
+      "project_type": "capacity_expansion",
+      "location": "印尼",
+      "investment_amount": null,
+      "designed_capacity": "年产高冰镍含镍金属4万吨",
+      "progress": "一期年产2万吨生产线产能稳步提升",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司下属印尼嘉曼公司年产4万金吨冰镍项目进展顺利，一期年产2万吨生产线产能稳步提升"
+    },
+    {
+      "name": "伟明盛青锂电池新材料项目",
+      "project_type": "capacity_expansion",
+      "location": "温州",
+      "investment_amount": null,
+      "designed_capacity": "年产20万吨高镍三元正极材料锂电池新材料",
+      "progress": "电解镍一期已连续稳定生产，二期调试中；三元前驱体一期产出试验料，二期调试中",
+      "expected_completion_time": null,
+      "quote": "伟明盛青公司投资建设的年产20万吨高镍三元正极材料锂电池新材料项目"
+    },
+    {
+      "name": "福建泉州年产6万吨碳酸锂项目",
+      "project_type": "other",
+      "location": "福建泉州",
+      "investment_amount": "拟出资人民币8,000万元，参与10%权益",
+      "designed_capacity": "年产6万吨碳酸锂",
+      "progress": "拟出资",
+      "expected_completion_time": null,
+      "quote": "拟出资人民币8,000万元，参与福建泉州年产6万吨碳酸锂项目10%权益的投资。"
+    },
+    {
+      "name": "延安项目",
+      "project_type": "construction_project",
+      "location": "延安",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "控股在建",
+      "expected_completion_time": null,
+      "quote": "报告期末公司控股在建的垃圾焚烧发电项目为延安项目"
+    },
+    {
+      "name": "2023年限制性股票激励计划",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "首次授予部分第二个解除限售期解除限售条件成就",
+      "expected_completion_time": null,
+      "quote": "2025年6月20日，公司召开第七届董事会第十六次会议...审议通过了《关于公司2023年限制性股票激励计划首次授予部分第二个解除限售期解除限售条件成就的议案》"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "垃圾焚烧炉排炉技术",
+      "asset_type": "core_technology",
+      "related_product": "垃圾焚烧发电",
+      "quantitative_info": null,
+      "quote": "凭借国际先进、国内领先的自主知识产权技术，特别是在垃圾焚烧炉排炉、烟气净化和自动控制等核心领域的深厚积累"
+    },
+    {
+      "name": "烟气净化技术",
+      "asset_type": "core_technology",
+      "related_product": "垃圾焚烧发电",
+      "quantitative_info": null,
+      "quote": "特别是在垃圾焚烧炉排炉、烟气净化和自动控制等核心领域的深厚积累"
+    },
+    {
+      "name": "自动控制技术",
+      "asset_type": "core_technology",
+      "related_product": "垃圾焚烧发电",
+      "quantitative_info": null,
+      "quote": "特别是在垃圾焚烧炉排炉、烟气净化和自动控制等核心领域的深厚积累"
+    },
+    {
+      "name": "专利及软件著作权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司及子公司累计持有专利及软件著作权约424项",
+      "quote": "报告期内，公司首次获得美国专利授权，截至报告期末，公司及子公司累计持有专利及软件著作权约424项。"
+    },
+    {
+      "name": "专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "伟明装备集团于本年度获评为工业和信息化部专精特新“小巨人”企业及省级企业技术中心"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "140,386.41万元，占年度销售总额22.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额140,386.41万元，占年度销售总额22.51%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中关联方销售额50,821.11万元，占年度销售总额8.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "其中前五名客户销售额中关联方销售额50,821.11万元，占年度销售总额8.15%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "141,601.28万元，占年度采购总额29.80%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额141,601.28万元，占年度采购总额29.80%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争日趋激烈，行业面临新增项目减少、国补退坡以及处理能力过剩等挑战。",
+      "related_entity": null,
+      "related_product": "垃圾处理业务",
+      "quote": "激烈的市场竞争可能导致公司难以获取新项目和开拓新利润增长点，进而影响公司经营利润。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "装备制造原材料价格大幅波动，可能导致生产成本发生显著变动，进而影响毛利率和经营业绩。",
+      "related_entity": null,
+      "related_product": "装备制造业务",
+      "quote": "若未来原材料价格出现大幅波动，将可能导致生产成本发生显著变动，进而对装备制造板块的毛利率和整体经营业绩产生不利影响"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "核心技术的扩散风险仍然存在，可能对公司的市场竞争力和业务发展造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "然而，随着公司业务规模的持续扩张和技术人员数量的不断增加，未来公司核心技术的扩散风险仍然存在，可能对公司的市场竞争力和业务发展造成不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "税收优惠政策若发生调整，将无法享受现有税收优惠，从而对盈利水平产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "然而，若未来相关政策发生调整，导致现有税收优惠政策不再执行或公司及子公司不再满足适用条件，公司将无法享受上述税收优惠，从而对盈利水平产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "新材料业务投资、建设和生产面临工艺技术革新、海外原材料供应、产品市场销售、海外人力资源组织、资金外币汇兑以及所在国政治经济环境的稳定性等多重风险。",
+      "related_entity": "印尼高冰镍项目",
+      "related_product": "镍中间品",
+      "quote": "然而，该项目的投资、建设和生产面临多重风险，包括工艺技术革新、海外原材料供应、产品市场销售、海外人力资源组织、资金外币汇兑以及所在国政治经济环境的稳定性等。"
+    }
+  ]
+}

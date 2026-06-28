@@ -1,0 +1,482 @@
+{
+  "company_name_mentioned": "芯联集成电路制造股份有限公司（简称：芯联集成）",
+  "produces": [
+    {
+      "name": "系统代工服务",
+      "type": "service",
+      "revenue_proportion": "公司主要业务为提供系统代工",
+      "quote": "公司主要业务为提供系统代工，主要包含应用于车载、AI（人工智能）、工控、高端消费领域的功率（功率器件、功率IC、微控制器等）系统代工和信号链（MEMS传感器\\执行器、模拟IC、信号接口等）系统代工。"
+    },
+    {
+      "name": "功率器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "功率器件产品包含IGBT、MOSFET、SiC MOSFET芯片及模组，应用于车载、工控、消费、服务器电源等多个应用领域，电压平台覆盖12V-6500V。"
+    },
+    {
+      "name": "功率IC和微控制器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "功率驱动与控制产品从高电压、大电流和高密度三个维度，提供完整的系统代工服务。其中已成熟量产的0.18um BCD平台，能满足电机驱动等各类驱动、电源管理、接口和AFE（电池管理系统芯片）等终端产品的代工需求；集成单芯片工艺平台BCD 60V/120V+eflash已完成多个客户端的产品验证；第二代90纳米 BCD 50V/60V/120V平台已开发完成...55纳米MCU（嵌入式闪存工艺）平台开发完成，40纳米 MCU工艺平台持续开发中。"
+    },
+    {
+      "name": "MEMS等传感信号链产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "MEMS等传感信号链产品包含硅麦克风、激光雷达中的微镜和光源VCSEL芯片、压力传感、惯性传感器等。其中应用于高端消费、新能源汽车的第三代麦克风进入量产，第四代麦克风通过初步验证进入产品迭代；车载和消费类多轴运动传感器规模量产；车载激光雷达VCSEL芯片大规模量产。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "硅片",
+      "target_product": "晶圆",
+      "cost_proportion": null,
+      "quote": "公司生产依赖于多种原材料，包括各种硅片、光刻胶、化学品、气体、靶材、引线框等等。"
+    },
+    {
+      "name": "光刻胶",
+      "target_product": "晶圆",
+      "cost_proportion": null,
+      "quote": "公司的一些重要基础原材料如大尺寸硅片、光刻胶等上游行业呈现集中度较高的市场格局，使公司在采购该等原材料时供应商集中度也相对较高。"
+    },
+    {
+      "name": "化学品",
+      "target_product": "晶圆",
+      "cost_proportion": null,
+      "quote": "公司生产依赖于多种原材料，包括各种硅片、光刻胶、化学品、气体、靶材、引线框等等。"
+    },
+    {
+      "name": "气体",
+      "target_product": "晶圆",
+      "cost_proportion": null,
+      "quote": "公司生产依赖于多种原材料，包括各种硅片、光刻胶、化学品、气体、靶材、引线框等等。"
+    },
+    {
+      "name": "靶材",
+      "target_product": "晶圆",
+      "cost_proportion": null,
+      "quote": "公司生产依赖于多种原材料，包括各种硅片、光刻胶、化学品、气体、靶材、引线框等等。"
+    },
+    {
+      "name": "引线框",
+      "target_product": "模组封装",
+      "cost_proportion": null,
+      "quote": "公司生产依赖于多种原材料，包括各种硅片、光刻胶、化学品、气体、靶材、引线框等等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "IGBT、SiC MOSFET芯片及模组、功率IC、MEMS传感器",
+      "quote": "功率器件产品包含IGBT、MOSFET、SiC MOSFET芯片及模组，应用于车载...等多个应用领域。其中高压功率器件产品主要应用于车载主驱，OBC（车载充电机）、充电桩...等领域。"
+    },
+    {
+      "name": "AI服务器/数据中心",
+      "source_product": "功率器件、驱动IC、磁器件、MCU、MicroLED光通信芯片",
+      "quote": "公司已构建覆盖AI服务器电源从一次电源、二次电源到三次电源的一站式系统代工解决方案，提供功率器件、驱动IC、磁器件、MCU等产品；提前布局MicroLED光通信...相关领域"
+    },
+    {
+      "name": "工控（风光储、电力）",
+      "source_product": "IGBT、SiC、功率模块、模拟IC",
+      "quote": "在工控领域，公司深度服务新型电力系统变革。公司是国内仅有的两家能够供应超高压IGBT的企业之一...超高压功率器件产品已覆盖3300V至6500V的电压范围。"
+    },
+    {
+      "name": "高端消费电子（手机、可穿戴、家电）",
+      "source_product": "MEMS传感器（麦克风、IMU）、锂电池保护芯片、VCSEL芯片、智能功率模块（IPM）",
+      "quote": "在高端消费领域...公司是全球最大的MEMS麦克风芯片代工厂，高性能手机麦克风在国际TOP终端中的市场份额已超过50%；消费级惯性测量单元（IMU）通过了国内头部手机厂商验证，实现了规模量产；在电源与电池管理方面，公司手机锂电池保护芯片在技术和规模上均处于业内领先地位..."
+    },
+    {
+      "name": "机器人",
+      "source_product": "MEMS传感器芯片、激光雷达芯片、惯性导航单元（IMU）芯片、驱动芯片以及MCU",
+      "quote": "在人工智能领域...可为具身智能提供核心MEMS传感器芯片、激光雷达芯片、惯性导航单元（IMU）芯片、驱动芯片以及MCU等关键硬件，并提供高度集成的系统级套片方案。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赵奇",
+      "role": "董事长、董事、总经理、核心技术人员",
+      "quote": "公司负责人赵奇、主管会计工作负责人王韦及会计机构负责人（会计主管人员）张毅声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "刘煊杰",
+      "role": "董事、执行副总经理、核心技术人员",
+      "quote": "2008年至2018年，任中芯国际传感器、功率器件及先进封装研发总监。2018年至今，历任芯联集成副总经理、执行副总经理，并于2019年起任芯联集成董事。"
+    },
+    {
+      "name": "肖方",
+      "role": "执行副总经理、核心技术人员",
+      "quote": "2002年至2018年，历任中芯国际前段刻蚀设备工程师、湿法设备主管、中段湿法与电镀工艺主管、部门经理。2018年至今，历任芯联集成扩散工程部经理、副总经理、资深副总经理、执行副总经理。"
+    },
+    {
+      "name": "王韦",
+      "role": "财务负责人",
+      "quote": "公司负责人赵奇、主管会计工作负责人王韦及会计机构负责人（会计主管人员）张毅声明"
+    },
+    {
+      "name": "张毅",
+      "role": "董事会秘书",
+      "quote": "公司负责人赵奇、主管会计工作负责人王韦及会计机构负责人（会计主管人员）张毅声明"
+    },
+    {
+      "name": "单伟中",
+      "role": "核心技术人员、执行总监",
+      "quote": "2002年至2018年，曾任中芯国际薄膜工艺资深经理、工艺整合资深经理。2018年至今，任芯联集成执行总监。2021年6月至2026年4月任芯联集成核心技术人员。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "芯联越州集成电路制造（绍兴）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要业务为计算机、通信和其他电子设备制造业。",
+      "quote": "芯联越州 指 芯联越州集成电路制造（绍兴）有限公司，公司全资子公司"
+    },
+    {
+      "name": "芯联先锋集成电路制造（绍兴）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，主要业务为计算机、通信和其他电子设备制造业，为三期12英寸晶圆制造项目主体。",
+      "quote": "芯联先锋 指 芯联先锋集成电路制造（绍兴）有限公司，公司控股子公司"
+    },
+    {
+      "name": "上海芯港联测半导体有限责任公司",
+      "relation_type": "joint_venture",
+      "business_details": "由芯联先锋与上海临港新片区基金共同出资设立的合资检测公司，芯联先锋持股50%，主营芯片及终端客户提供一站式检测分析服务。",
+      "quote": "芯港联测 指 上海芯港联测半导体有限责任公司，公司合营企业...公司通过控股子公司芯联先锋与上海临港新片区基金共同出资设立合资检测公司芯港联测。"
+    },
+    {
+      "name": "中芯国际控股有限公司",
+      "relation_type": "investor",
+      "business_details": "公司股东。",
+      "quote": "中芯控股 指 中芯国际控股有限公司，公司股东"
+    },
+    {
+      "name": "绍兴市越城区集成电路产业基金合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司第一大股东。",
+      "quote": "越城基金 指 绍兴市越城区集成电路产业基金合伙企业（有限合伙），公司股东"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "集成电路晶圆制造代工",
+      "segment_type": "product_line",
+      "revenue_amount": "5,983,210,336.90元",
+      "revenue_proportion": null,
+      "gross_margin": "3.82%",
+      "yoy_change": "增加3.34个百分点",
+      "quote": "集成电路晶圆制造代工...营业收入 5,983,210,336.90...毛利率（%） 3.82...毛利率比上年增减（%）增加3.34个百分点"
+    },
+    {
+      "name": "模组封装",
+      "segment_type": "product_line",
+      "revenue_amount": "1,507,851,085.51元",
+      "revenue_proportion": null,
+      "gross_margin": "-1.41%",
+      "yoy_change": "不适用",
+      "quote": "模组封装...营业收入 1,507,851,085.51...毛利率（%） -1.41...毛利率比上年增减（%）不适用"
+    },
+    {
+      "name": "研发服务及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "398,339,923.47元",
+      "revenue_proportion": null,
+      "gross_margin": "46.65%",
+      "yoy_change": "增加46.65个百分点",
+      "quote": "研发服务及其他...营业收入 398,339,923.47...毛利率（%） 46.65...毛利率比上年增减（%）增加46.65个百分点"
+    },
+    {
+      "name": "车载领域",
+      "segment_type": "customer_type",
+      "revenue_amount": null,
+      "revenue_proportion": "45.43%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "主营产品收入中，车载领域业务贡献45.43%收入"
+    },
+    {
+      "name": "高端消费领域",
+      "segment_type": "customer_type",
+      "revenue_amount": null,
+      "revenue_proportion": "28.09%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "高端消费业务收入占比28.09%"
+    },
+    {
+      "name": "工控领域",
+      "segment_type": "customer_type",
+      "revenue_amount": null,
+      "revenue_proportion": "18.46%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "工控业务收入占比18.46%"
+    },
+    {
+      "name": "AI（人工智能）领域",
+      "segment_type": "customer_type",
+      "revenue_amount": null,
+      "revenue_proportion": "8.02%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "AI（人工智能）领域收入快速增长，占比提升至8.02%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "7,591,836,919.24元",
+      "revenue_proportion": null,
+      "gross_margin": "3.85%",
+      "yoy_change": "增加4.81个百分点",
+      "quote": "内销...营业收入 7,591,836,919.24...毛利率（%） 3.85...毛利率比上年增减（%）增加4.81个百分点"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "587,895,961.13元",
+      "revenue_proportion": null,
+      "gross_margin": "26.91%",
+      "yoy_change": "增加15.02个百分点",
+      "quote": "外销...营业收入 587,895,961.13...毛利率（%） 26.91...毛利率比上年增减（%）增加15.02个百分点"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "7,889,401,345.88元",
+      "revenue_proportion": null,
+      "gross_margin": "4.98%",
+      "yoy_change": "增加4.86个百分点",
+      "quote": "直销模式...营业收入 7,889,401,345.88...毛利率（%） 4.98...毛利率比上年增减（%）增加4.86个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "晶圆",
+      "metric_type": "capacity",
+      "value": "8英寸硅基、12英寸硅基产线、6/8英寸碳化硅三大产线",
+      "period": "报告期（2025年）",
+      "quote": "2025年公司初步完成了前期产能建设，构建了8英寸硅基、12英寸硅基产线、6/8英寸碳化硅三大产线"
+    },
+    {
+      "product": "晶圆",
+      "metric_type": "production_volume",
+      "value": "251.27万片（折合8英寸），同比增长24.68%",
+      "period": "报告期（2025年）",
+      "quote": "晶圆年生产量251.27万片（折合8英寸），同比增长24.68%"
+    },
+    {
+      "product": "晶圆",
+      "metric_type": "sales_volume",
+      "value": "销售量较去年同期增长28.60%",
+      "period": "报告期（2025年）",
+      "quote": "公司晶圆销售量较去年同期增长28.60%"
+    },
+    {
+      "product": "晶圆",
+      "metric_type": "capacity_utilization",
+      "value": "产销率99.62%，同比提升3.04个百分点",
+      "period": "报告期（2025年）",
+      "quote": "产销率99.62%，同比提升3.04个百分点"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "三期12英寸集成电路数模混合芯片制造项目（简称“三期项目”）",
+      "project_type": "capacity_expansion",
+      "location": "绍兴",
+      "investment_amount": "股权融资合计132.92亿元；收到国开新型政策性金融工具人民币18亿元",
+      "designed_capacity": "12英寸硅基晶圆产线",
+      "progress": "基本完成战略融资；已收到政策性金融工具资金",
+      "expected_completion_time": null,
+      "quote": "公司子公司芯联先锋自2023年起陆续引入政府产业股东...共同打造三期12英寸硅基晶圆制造项目（简称“三期项目”）...截止报告期末，公司已基本完成三期项目的战略融资，股权融资合计132.92亿元...报告期内，公司收到国家开发银行全资子公司国开新型政策性金融工具有限公司人民币18亿元...作为子公司芯联先锋“三期12英寸集成电路数模混合芯片制造项目”的资本金投入。"
+    },
+    {
+      "name": "芯港联测（合资公司）",
+      "project_type": "other",
+      "location": "上海",
+      "investment_amount": "芯联先锋投资2亿元",
+      "designed_capacity": "向芯片及终端客户提供一站式检测分析服务",
+      "progress": "已成立，完成资产转让",
+      "expected_completion_time": null,
+      "quote": "公司通过控股子公司芯联先锋与上海临港新片区基金共同出资设立合资检测公司芯港联测。其中，芯联先锋投资2亿元，持股50%。芯港联测成立后，其主营业务为向汽车、新能源、工控、家电等多个领域的芯片及终端客户提供一站式检测分析服务..."
+    },
+    {
+      "name": "8英寸碳化硅产线",
+      "project_type": "capacity_expansion",
+      "location": "绍兴",
+      "investment_amount": null,
+      "designed_capacity": "8英寸碳化硅晶圆",
+      "progress": "已实现量产出货",
+      "expected_completion_time": null,
+      "quote": "2025年公司8英寸碳化硅已经实现量产出货"
+    },
+    {
+      "name": "8英寸氮化镓（GaN）平台",
+      "project_type": "r_and_d_project",
+      "location": "绍兴",
+      "investment_amount": null,
+      "designed_capacity": "8英寸GaN功率器件",
+      "progress": "工艺验证完成，发布产品",
+      "expected_completion_time": null,
+      "quote": "8寸氮化镓平台工艺验证完成，发布产品"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高功率BCD工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "功率IC",
+      "quantitative_info": "国际领先",
+      "quote": "1）技术创新，卓越的过电流能力和快速开关能力...国际领先"
+    },
+    {
+      "name": "功率SiC MOSFET工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "SiC MOSFET",
+      "quantitative_info": "国际领先",
+      "quote": "1）广泛应用于车载主驱大功率逆变模组...国际领先"
+    },
+    {
+      "name": "功率IGBT工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "IGBT",
+      "quantitative_info": "国内领先",
+      "quote": "1）覆盖主流第4代-第7代IGBT技术代系，全电压范围650V-6500V...国内领先"
+    },
+    {
+      "name": "MEMS麦克风工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "MEMS麦克风",
+      "quantitative_info": "国际领先",
+      "quote": "1）信噪比覆盖58dB-72dB...国际领先"
+    },
+    {
+      "name": "MEMS微振镜技术",
+      "asset_type": "core_technology",
+      "related_product": "MEMS微镜",
+      "quantitative_info": "国际领先",
+      "quote": "1）平台成熟完整，工艺支持各种不同尺寸的扫描镜...国际领先"
+    },
+    {
+      "name": "VCSEL激光器技术",
+      "asset_type": "core_technology",
+      "related_product": "VCSEL芯片",
+      "quantitative_info": "国内先进",
+      "quote": "1）GaAs基VCSEL激光器工艺平台完整...国内先进"
+    },
+    {
+      "name": "累计获得发明专利等知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "574项",
+      "quote": "报告期内，公司新增获得发明专利等158项，累计已获得发明专利等知识产权574项。"
+    },
+    {
+      "name": "车规级研发量产平台和全流程车规级质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "通过ISO9001、IATF16949、ISO26262等体系认证",
+      "quote": "公司...已建立从研发到大规模量产的全流程车规级质量管理体系，通过了 ISO9001（质量管理体系）、IATF16949（汽车质量管理体系）等一系列国际质量管理体系认证，以及 ISO26262（道路车辆功能安全体系）体系认证。"
+    },
+    {
+      "name": "国家重大科技专项",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "承担7项",
+      "quote": "共承担7 项国家重大科技专项，包括牵头的“MEMS 传感器批量制造平台”项目..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "384,386.44万元，占年度销售总额46.99%",
+      "related_entity": null,
+      "period": "报告期（2025年）",
+      "quote": "前五名客户销售额384,386.44万元，占年度销售总额46.99%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "142,567.07万元，占年度采购总额17.67%",
+      "related_entity": null,
+      "period": "报告期（2025年）",
+      "quote": "前五名供应商采购额142,567.07万元，占年度采购总额17.67%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "客户集中度相对较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "如果由于国际关系等因素引致下游市场整体波动...将对包括公司在内的行业内企业的经营业绩造成一定的影响。"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "原材料供应商集中度相对较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司的一些重要基础原材料如大尺寸硅片、光刻胶等上游行业呈现集中度较高的市场格局，使公司在采购该等原材料时供应商集中度也相对较高。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "半导体产业技术及产品迭代速度较快，如果公司的技术与工艺未能跟上竞争对手，新技术、新工艺的升级受阻，可能导致公司产品被赶超或替代。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "产品研发与技术迭代风险...半导体产业技术及产品迭代速度较快...如果公司的技术与工艺未能跟上竞争对手，新技术、新工艺的升级受阻...可能导致公司产品被赶超或替代"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "半导体行业具有较强的周期性特征，如果宏观经济波动或行业产能供应超过市场需求，将对行业内企业的经营业绩造成影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业周期风险...如果宏观经济波动较大或长期处于低谷，半导体行业的市场需求也将随之受到影响...亦或由于中国半导体行业出现投资过热、重复建设的情况进而导致产能供应在景气度较低时超过市场需求，将对包括公司在内的行业内企业的经营业绩造成一定的影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料的及时供应是保证公司稳定生产的必要条件，重要基础原材料供应商集中度较高，可能出现延迟交货、限制供应或提高价格的情况。",
+      "related_entity": null,
+      "related_product": "硅片、光刻胶等",
+      "quote": "主要原材料市场集中风险...原材料的及时供应是保证公司稳定生产的必要条件...由于其他不可抗力等因素的影响，原材料供应可能会出现延迟交货、限制供应或提高价格的情况。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司尚未实现盈利，主要系公司尚处于产线建设初步完成、市场拓展快速增长阶段，产品结构尚未完全优化，规模效益未完全体现。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期公司营业收入81.80亿元...归母净利润同比大幅减亏38.17%，亏损收窄至-5.95亿元...截至报告期末，公司尚未实现盈利。主要系报告期公司尚处于产线建设初步完成、市场拓展快速增长阶段，产品结构尚未完全优化，规模效益未完全体现。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术人员流失风险及公司规模扩张带来的管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司规模扩张与核心技术人员流失带来的管理风险...若公司不能提供更好的发展平台、更有竞争力的薪酬待遇及良好的研发条件，仍存在关键技术人员流失的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司的销售、采购等环节均存在以外币计价的情形，人民币汇率的波动可能对公司的流动性和现金流造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险...公司的销售、采购等环节均存在以外币计价的情形...人民币汇率的波动可能对公司的流动性和现金流造成不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "半导体行业属于国家鼓励发展的高技术产业，但若未来相关部门出台的法律法规、行业标准、产业政策、出口政策等对公司产品及业务造成限制，则公司盈利能力及持续发展将受到不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业风险...但若未来相关部门出台的法律法规、行业标准、产业政策、出口政策等对公司产品及业务造成限制，则公司盈利能力及持续发展将受到不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "知识产权存在被盗用或不当使用的风险，以及和竞争对手产生知识产权纠纷的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "知识产权风险...公司的专有技术、商业机密、专利或集成电路布图设计存在被盗用或不当使用的风险，也不排除...和竞争对手产生其他知识产权纠纷"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司所处的晶圆代工行业系技术密集型和资本密集型行业。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司所处的晶圆代工行业系技术密集型和资本密集型行业。"
+    }
+  ]
+}

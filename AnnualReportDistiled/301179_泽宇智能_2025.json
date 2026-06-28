@@ -1,0 +1,546 @@
+{
+  "company_name_mentioned": "江苏泽宇智能电力股份有限公司",
+  "produces": [
+    {
+      "name": "电力咨询设计服务",
+      "type": "service",
+      "revenue_proportion": "2025年电力设计收入46，584，054.02元，占营业收入比重3.88%",
+      "quote": "分产品...电力设计 46，584，054.02 3.88%...公司的全资子公司泽宇设计拥有电力行业（送电、变电、新能源）工程设计乙级...资质"
+    },
+    {
+      "name": "电力通信与计算系统集成服务",
+      "type": "service",
+      "revenue_proportion": "2025年系统集成收入913，939，603.73元，占营业收入比重76.17%",
+      "quote": "分产品...系统集成 913，939，603.73 76.17%...公司的电力通信与计算系统集成业务，是电力系统不可缺少的重要组成部分"
+    },
+    {
+      "name": "新型电力系统集成服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司的新型电力系统集成业务，紧密围绕源网荷储协同互动的核心要求"
+    },
+    {
+      "name": "电力数智化运维系统集成服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司的电力数智化运维系统业务，以AI多模态大模型和智能机器人为核心技术引擎"
+    },
+    {
+      "name": "工程施工及运维服务",
+      "type": "service",
+      "revenue_proportion": "2025年施工及运维收入235，073，207.92元，占营业收入比重19.59%",
+      "quote": "分产品...施工及运维 235，073，207.92 19.59%...公司子公司泽宇工程拥有通信工程施工总承包贰级、电力工程施工总承包贰级...资质，可根据电力客户需求提供工程实施及运维服务"
+    },
+    {
+      "name": "5G AI智能边缘计算网关",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司自主研发的5G AI智能边缘计算网关...等国产化智能网关，将算力前置到网络边缘"
+    },
+    {
+      "name": "AI算力服务器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "该业务主要为电力客户配置通用服务器、AI算力服务器、AI工作站、算力一体机等计算基础设施"
+    },
+    {
+      "name": "AI工作站",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "该业务主要为电力客户配置通用服务器、AI算力服务器、AI工作站、算力一体机等计算基础设施"
+    },
+    {
+      "name": "电力多模态大模型",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司自主研发的电力多模态大模型，深度融合了图像识别、声纹识别与语义理解能力"
+    },
+    {
+      "name": "变电站远程智能巡视系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "基于该模型构建的变电站远程智能巡视系统...为变电站、电厂等电力设施构建“云-边-端”协同的智慧运维体系"
+    },
+    {
+      "name": "室内轻型巡检机器人",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "室内轻型机器人与室外型轮式机器人为公司自研产品"
+    },
+    {
+      "name": "室外型轮式巡检机器人",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "室内轻型机器人与室外型轮式机器人为公司自研产品"
+    },
+    {
+      "name": "配网一二次融合设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司提供配网一二次融合设备、分布式能源网关等产品"
+    },
+    {
+      "name": "输电线路监拍装置",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司部署了输电线路监拍装置、分布式故障定位装置及地基云图气象监测装置"
+    },
+    {
+      "name": "台区储能设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "并配套10kV配网台区储能设备"
+    },
+    {
+      "name": "人工智能与机器人相关产品（孵化阶段）",
+      "type": "device",
+      "revenue_proportion": "相关业务占当期营业收入的比例低于5%",
+      "quote": "截至2025年底，公司人工智能与机器人相关产品...尚处于孵化推广阶段，已形成小规模收入。目前，相关业务占当期营业收入的比例低于5%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "通信设备（交换机、路由器等）",
+      "target_product": "电力通信与计算系统集成",
+      "cost_proportion": null,
+      "quote": "“直接采购”主要为通信设备采购，包括交换机、路由器等数据交换设备、SDH、OTN等光传输设备"
+    },
+    {
+      "name": "光传输设备（SDH、OTN等）",
+      "target_product": "电力通信与计算系统集成",
+      "cost_proportion": null,
+      "quote": "“直接采购”主要为通信设备采购，包括...SDH、OTN等光传输设备"
+    },
+    {
+      "name": "智能装备（智能巡检机器人、无人机）",
+      "target_product": "电力数智化运维系统集成",
+      "cost_proportion": null,
+      "quote": "“直接采购”主要为通信设备采购，包括...以及智能巡检机器人、无人机等智能装备"
+    },
+    {
+      "name": "自主品牌设备（网络安全监测装置、工业无线路由器等）",
+      "target_product": "相关集成业务",
+      "cost_proportion": null,
+      "quote": "“定制化采购”主要是公司拥有的自主品牌设备，如网络安全监测装置、工业无线路由器等"
+    },
+    {
+      "name": "服务采购（安装调试、设计勘察、制图打印等）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "部分安装调试、设计勘察、制图打印等其他部分辅助性工作向服务商采购"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力系统（发电、输电、变电、配电、用电、调度）",
+      "source_product": "所有产品和服务",
+      "quote": "公司主要为电力体系中涉及的各个主体如电网公司、发电集团、用户等打造先进的智能化与数字化解决方案...贯穿于电力系统的发、输、配、变、用、调度各个环节"
+    },
+    {
+      "name": "智能电网建设",
+      "source_product": "一站式智能电网综合服务",
+      "quote": "公司是以提供电力信息系统整体解决方案为导向，包含电力咨询设计、系统集成、工程施工及运维业务的一站式智能电网综合服务商"
+    },
+    {
+      "name": "变电站",
+      "source_product": "变电站远程智能巡视系统、巡检机器人",
+      "quote": "这些设备部署于变电站、调度中心、新能源场站等场景"
+    },
+    {
+      "name": "配电网",
+      "source_product": "配网一二次融合设备、分布式能源网关",
+      "quote": "针对配电网在新型电力系统下面临的分布式能源接入与消纳压力，公司提供配网一二次融合设备、分布式能源网关等产品"
+    },
+    {
+      "name": "新能源场站",
+      "source_product": "电力计算系统集成、新能源功率预测",
+      "quote": "这些设备部署于变电站、调度中心、新能源场站等场景"
+    },
+    {
+      "name": "微电网与虚拟电厂",
+      "source_product": "微电网平台、虚拟电厂平台、台区储能",
+      "quote": "在用户侧，公司着力构建新型微电网与虚拟电厂平台，并配套10kV配网台区储能设备"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张剑",
+      "role": "董事长、总经理助理",
+      "quote": "公司负责人张剑...张剑女士，1967年9月出生...2018年12月至今，任公司董事长"
+    },
+    {
+      "name": "夏耿耿",
+      "role": "董事、总经理",
+      "quote": "夏耿耿先生，1965年6月出生...2018年12月至今，任公司董事兼总经理"
+    },
+    {
+      "name": "王晓丹",
+      "role": "董事、副总经理",
+      "quote": "王晓丹先生，1977年11月出生...2019年6月至今，任公司董事兼副总经理"
+    },
+    {
+      "name": "赵耀",
+      "role": "董事、副总经理",
+      "quote": "赵耀先生，1982年9月出生...2025年1月至今任公司董事；2022年9月至今，任公司副总经理"
+    },
+    {
+      "name": "陈小飞",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人陈小飞...陈小飞先生，1981年10月出生...2025年1月至今，任公司财务负责人"
+    },
+    {
+      "name": "杨天晨",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书 杨天晨...杨天晨先生，1993年2月出生...2018年12月至今，任公司副总经理、董事会秘书"
+    },
+    {
+      "name": "袁亚男",
+      "role": "独立董事",
+      "quote": "袁亚男女士，1965年2月出生...2024年1月至今，任公司董事会独立董事"
+    },
+    {
+      "name": "吴中家",
+      "role": "独立董事",
+      "quote": "吴中家先生，1968年2月出生...2025年1月至今，任公司董事会独立董事"
+    },
+    {
+      "name": "张蜀英",
+      "role": "独立董事",
+      "quote": "张蜀英女士，1964年2月出生...2025年1月至今，任公司董事会独立董事"
+    },
+    {
+      "name": "张树民",
+      "role": "副总经理",
+      "quote": "张树民先生，1971年10月出生...2023年3月至今，任公司副总经理"
+    },
+    {
+      "name": "刘振宇",
+      "role": "副总经理",
+      "quote": "刘振宇先生，1984年4月出生...2025年7月至今，任公司副总经理"
+    },
+    {
+      "name": "孔乐",
+      "role": "副总经理",
+      "quote": "孔乐先生，1985年6月出生...2018年12月至今，任公司副总经理"
+    },
+    {
+      "name": "陈益波",
+      "role": "副总经理",
+      "quote": "陈益波先生，1987年7月出生...2018年12月至今，任公司副总经理、江苏泽宇电力设计有限公司副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "主要客户，2025年销售额715，454，089.62元，占年度销售总额59.62%",
+      "quote": "客户1的销售额715，454，089.62元，占销售总额的比例为59.62%，该客户名称为“国家电网有限公司”（按同控口径）"
+    },
+    {
+      "name": "中兴通讯股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "长期稳定的供应商关系，主要采购通讯设备",
+      "quote": "公司已与中兴通讯建立了长期稳定的合作关系。虽然公司与其他通讯设备厂商也建立了合作关系"
+    },
+    {
+      "name": "杭州云深处科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "签署战略合作协议，合作聚焦电力巡检智能化，提供四足机器人硬件合作",
+      "quote": "报告期内，公司与国内领先的四足机器人公司杭州云深处科技有限公司签署了战略合作协议。双方聚焦电力巡检智能化需求"
+    },
+    {
+      "name": "江苏泽宇电力工程有限公司（泽宇工程）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事工程施工及运维服务",
+      "quote": "公司子公司泽宇工程拥有通信工程施工总承包贰级、电力工程施工总承包贰级..."
+    },
+    {
+      "name": "江苏泽宇电力设计有限公司（泽宇设计）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事电网咨询设计业务",
+      "quote": "公司的全资子公司泽宇设计拥有电力行业（送电、变电、新能源）工程设计乙级...资质"
+    },
+    {
+      "name": "江苏泽宇新森智能设备有限公司（泽宇新森）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事电缆配件业务",
+      "quote": "泽宇新森 指 江苏泽宇新森智能设备有限公司"
+    },
+    {
+      "name": "江苏泽宇生物科技有限公司（泽宇生物）",
+      "relation_type": "subsidiary",
+      "business_details": "2025年4月设立的新子公司",
+      "quote": "2025年4月，本公司...共同出资设立江苏泽宇生物科技有限公司"
+    },
+    {
+      "name": "泽宇加拿大公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年10月设立的新子公司",
+      "quote": "2025年10月，本公司出资设立泽宇加拿大公司"
+    },
+    {
+      "name": "泽宇智能新能源(福清)有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年12月设立的新子公司",
+      "quote": "2025年12月，本公司子公司泽宇智能(福州)电力有限责任公司出资设立泽宇智能新能源(福清)有限公司"
+    },
+    {
+      "name": "泽宇智能(广州)电力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年12月设立的新子公司",
+      "quote": "2025年12月，本公司与马建江出资设立泽宇智能(广州)电力有限公司"
+    },
+    {
+      "name": "江苏西沃里贸易有限公司（西沃里）",
+      "relation_type": "supplier",
+      "business_details": "实际控制人张剑控制的公司，发生日常关联交易（采购商品、房屋租赁）",
+      "quote": "江苏西沃里贸易有限公司...系本公司实际控制人张剑控制的公司...关联方交易"
+    },
+    {
+      "name": "潮州市潮安区同庆科技有限公司",
+      "relation_type": "customer",
+      "business_details": "本期新增前五大客户，2025年销售额59，709，489.98元，占比4.98%",
+      "quote": "客户3的销售额59，709，489.98元，占销售总额的比例为4.98%，该客户名称为“潮州市潮安区同庆科技有限公司”，为本期新增客户"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "系统集成",
+      "segment_type": "product_line",
+      "revenue_amount": "913，939，603.73元",
+      "revenue_proportion": "76.17%",
+      "gross_margin": "25.30%",
+      "yoy_change": "-11.72%",
+      "quote": "分产品...系统集成 913，939，603.73 76.17%...25.30%... -11.72%"
+    },
+    {
+      "name": "施工及运维",
+      "segment_type": "product_line",
+      "revenue_amount": "235，073，207.92元",
+      "revenue_proportion": "19.59%",
+      "gross_margin": "18.74%",
+      "yoy_change": "-2.33%",
+      "quote": "分产品...施工及运维 235，073，207.92 19.59%...18.74%... -2.33%"
+    },
+    {
+      "name": "电力设计",
+      "segment_type": "product_line",
+      "revenue_amount": "46，584，054.02元",
+      "revenue_proportion": "3.88%",
+      "gross_margin": "70.53%",
+      "yoy_change": "-31.90%",
+      "quote": "分产品...电力设计 46，584，054.02 3.88%...70.53%... -31.90%"
+    },
+    {
+      "name": "江苏省",
+      "segment_type": "region",
+      "revenue_amount": "476，852，856.50元",
+      "revenue_proportion": "39.74%",
+      "gross_margin": "34.33%",
+      "yoy_change": "-11.67%",
+      "quote": "分地区...江苏省 476，852，856.50 39.74%...34.33%... -11.67%"
+    },
+    {
+      "name": "福建省",
+      "segment_type": "region",
+      "revenue_amount": "214，064，869.13元",
+      "revenue_proportion": "17.84%",
+      "gross_margin": "27.11%",
+      "yoy_change": "364.99%",
+      "quote": "分地区...福建省 214，064，869.13 17.84%...27.11%... 364.99%"
+    },
+    {
+      "name": "北京市",
+      "segment_type": "region",
+      "revenue_amount": "161，125，054.02元",
+      "revenue_proportion": "13.43%",
+      "gross_margin": "22.91%",
+      "yoy_change": "-24.34%",
+      "quote": "分地区...北京市 161，125，054.02 13.43%...22.91%... -24.34%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1，199，923，267.17元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "-10.99%",
+      "quote": "分销售模式...直销 1，199，923，267.17 100.00%... -10.99%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "智能电网综合服务能力提升建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资总额37，008.36万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入27，487.37万元，投资进度74.27%，已达到预定可使用状态",
+      "expected_completion_time": "2024年10月3日达到预定可使用状态",
+      "quote": "智能电网综合服务能力提升建设项目...承诺投资总额...37，008.36万元...截至报告期末累计投入27，487.37万元...74.27%...2024年10月3日"
+    },
+    {
+      "name": "智能电网技术研究院升级建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "拟投资总额6，031.12万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入1，673.67万元，投资进度27.75%",
+      "expected_completion_time": "预计2026年8月31日达到预定可使用状态",
+      "quote": "智能电网技术研究院升级建设项目...拟投资总额6，031.12万元...截至报告期末累计投入1，673.67万元...27.75%...预计2026年8月31日"
+    },
+    {
+      "name": "泽宇智能(广州)电力有限公司设立",
+      "project_type": "other",
+      "location": "广州",
+      "investment_amount": "注册资本5，000.00万元，本公司出资3，500.00万元",
+      "designed_capacity": null,
+      "progress": "2025年12月26日完成工商设立登记，新设子公司",
+      "expected_completion_time": null,
+      "quote": "2025年12月，本公司与马建江出资设立泽宇智能(广州)电力有限公司...注册资本为人民币5，000.00万元，其中本公司出资人民币3，500.00万元"
+    },
+    {
+      "name": "泽宇智能新能源(福清)有限公司设立",
+      "project_type": "other",
+      "location": "福清",
+      "investment_amount": "注册资本1，000.00万元",
+      "designed_capacity": null,
+      "progress": "2025年12月12日完成工商设立登记，新设子公司",
+      "expected_completion_time": null,
+      "quote": "2025年12月，本公司子公司泽宇智能(福州)电力有限责任公司出资设立泽宇智能新能源(福清)有限公司...注册资本为人民币1，000.00万元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "电力多模态大模型",
+      "asset_type": "core_technology",
+      "related_product": "变电站远程智能巡视系统",
+      "quantitative_info": null,
+      "quote": "公司自主研发的电力多模态大模型，深度融合了图像识别、声纹识别与语义理解能力"
+    },
+    {
+      "name": "变电站远程智能巡视系统",
+      "asset_type": "technical_platform",
+      "related_product": "电力智能运维",
+      "quantitative_info": "经权威机构鉴定达国际先进水平",
+      "quote": "该系统凭借检出率高、误检率低、泛化性强的突破性指标...经权威机构鉴定达国际先进水平"
+    },
+    {
+      "name": "电力行业（送电、变电、新能源）工程设计乙级资质",
+      "asset_type": "certification",
+      "related_product": "电力设计业务",
+      "quantitative_info": null,
+      "quote": "公司的全资子公司泽宇设计拥有电力行业（送电、变电、新能源）工程设计乙级资质"
+    },
+    {
+      "name": "通信工程施工总承包贰级资质",
+      "asset_type": "certification",
+      "related_product": "通信工程业务",
+      "quantitative_info": null,
+      "quote": "公司子公司泽宇工程拥有通信工程施工总承包贰级"
+    },
+    {
+      "name": "电力工程施工总承包贰级资质",
+      "asset_type": "certification",
+      "related_product": "电力工程业务",
+      "quantitative_info": null,
+      "quote": "公司子公司泽宇工程拥有...电力工程施工总承包贰级资质"
+    },
+    {
+      "name": "核心算法（AI）",
+      "asset_type": "core_technology",
+      "related_product": "电力巡检机器人、大模型",
+      "quantitative_info": "团队数百个变电站收集了海量数据，涵盖状态、读数、缺陷等类型，总量超过百万",
+      "quote": "公司算法团队...团队数百个变电站收集了海量数据，涵盖状态、读数、缺陷等类型，总量超过百万"
+    },
+    {
+      "name": "自主可控多业务接入小型化光传输设备研发",
+      "asset_type": "process_technology",
+      "related_product": "电力通信系统集成",
+      "quantitative_info": "项目进展：量产阶段",
+      "quote": "基于自主可控多业务接入小型化光传输设备的研发...量产阶段"
+    },
+    {
+      "name": "自主可控边缘接入数通设备研发",
+      "asset_type": "process_technology",
+      "related_product": "电力数据通信及安全集成",
+      "quantitative_info": "项目进展：量产阶段",
+      "quote": "基于自主可控边缘接入数通设备的研发...量产阶段"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "77.90%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 77.90%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "59.62%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年度",
+      "quote": "客户1的销售额715，454，089.62元，占销售总额的比例为59.62%，该客户名称为“国家电网有限公司”（按同控口径）"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.61%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.61%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "公司对国家电网相关单位依然存在重大依赖",
+      "related_entity": "国家电网有限公司",
+      "period": null,
+      "quote": "短期之内公司对国家电网相关单位依然存在重大依赖"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "主要供应商集中（华为、中兴通讯、华三通信、烽火通信、贝尔通信等）",
+      "related_entity": null,
+      "period": null,
+      "quote": "我国通讯设备生产厂商行业集中度较高，以华为、中兴通讯、华三通信、烽火通信、贝尔通信等品牌通讯设备厂家为代表的市场占有率较高"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司对国家电网相关单位存在重大依赖，如其调整投资计划、采购模式或公司产品服务不能满足需求，将导致采购规模下降，影响盈利能力。",
+      "related_entity": "国家电网有限公司",
+      "related_product": null,
+      "quote": "如国家电网调整电力信息化领域的投资计划、采购模式或公司产品服务不能满足客户需求，将可能导致国家电网相关单位向公司采购规模下降而对公司盈利能力产生较大不利影响"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司系统集成业务主要原材料由通讯设备构成，供应商行业集中度高，已与中兴通讯建立长期合作。若主要供应商因贸易纠纷等原因无法供货或大幅涨价，将影响公司正常运营和盈利能力。",
+      "related_entity": "中兴通讯股份有限公司",
+      "related_product": "系统集成",
+      "quote": "若因贸易纠纷或其他原因导致公司主要供应商无法正常供货，或大幅提高价格，则可能造成公司无法正常生产运营，给公司盈利能力带来不利影响"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司所处电力信息化行业受宏观经济、产业政策及电力行业投资规模影响较大。若宏观经济或政策出现较大波动，导致电力行业不景气或投资放缓，将对业务发展和盈利增长产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如果今后我国宏观经济形势或国家的相关政策出现较大波动，导致电力行业经营状况不景气或者电力信息化投资建设速度放缓、投资下降，可能会对公司的业务发展和盈利增长产生不利的影响"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力信息化行业市场前景广阔，持续吸引新企业进入，且现有企业加大投入，市场竞争日趋激烈。竞争加剧可能导致行业平均利润率下滑，对公司的生产经营带来负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争的加剧可能导致行业平均利润率的下滑，从而对公司的生产经营带来负面影响"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司各期末均对存货进行减值测试，但仍存在因行业不景气导致部分订单实施或验收时间推后、甚至无法完成验收，致使存货发生大额减值，对利润水平造成不利影响的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "仍然存在未来由于电力行业经营状况不景气而导致公司部分订单实施或验收时间推后、甚至无法完成项目验收的情形，致使公司存货发生大额减值，对公司利润水平造成不利影响"
+    }
+  ]
+}

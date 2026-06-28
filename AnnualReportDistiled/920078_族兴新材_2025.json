@@ -1,0 +1,444 @@
+{
+  "company_name_mentioned": "长沙族兴新材料股份有限公司",
+  "produces": [
+    {
+      "name": "微细球形铝粉",
+      "type": "material",
+      "revenue_proportion": "52.80% (基于营业收入420,480,659.60元，总营收796,276,588.36元)",
+      "quote": "公司主要产品与服务项目：微细球形铝粉及其深加工产品铝颜料的研发、生产和销售。微细球形铝粉产品收入420,480,659.60元，占营业收入52.80%。"
+    },
+    {
+      "name": "铝颜料",
+      "type": "material",
+      "revenue_proportion": "47.00% (基于金属颜料产品收入374,278,101.70元，总营收796,276,588.36元)",
+      "quote": "公司生产的铝颜料产品广泛应用于涂料、印刷油墨、塑胶材料等领域。金属颜料产品收入374,278,101.70元，占营业收入47.00%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铝水",
+      "target_product": "微细球形铝粉",
+      "cost_proportion": null,
+      "quote": "公司生产经营活动对外采购的物料主要包括原材料、辅助材料和周转材料。其中原材料和辅助材料主要包括铝水、铝锭、溶剂油和助剂。"
+    },
+    {
+      "name": "铝锭",
+      "target_product": "微细球形铝粉",
+      "cost_proportion": null,
+      "quote": "公司生产经营活动对外采购的物料主要包括原材料、辅助材料和周转材料。其中原材料和辅助材料主要包括铝水、铝锭、溶剂油和助剂。"
+    },
+    {
+      "name": "溶剂油",
+      "target_product": "铝颜料",
+      "cost_proportion": null,
+      "quote": "溶剂油和助剂是生产铝颜料产品的主要辅助材料。"
+    },
+    {
+      "name": "助剂",
+      "target_product": "铝颜料",
+      "cost_proportion": null,
+      "quote": "溶剂油和助剂是生产铝颜料产品的主要辅助材料。"
+    },
+    {
+      "name": "电力",
+      "target_product": "微细球形铝粉、铝颜料",
+      "cost_proportion": null,
+      "quote": "电力和天然气是生产微细球形铝粉和铝颜料的主要耗用能源。"
+    },
+    {
+      "name": "天然气",
+      "target_product": "微细球形铝粉",
+      "cost_proportion": null,
+      "quote": "电力和天然气是生产微细球形铝粉和铝颜料的主要耗用能源，其中铝颜料的生产过程无需使用天然气。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "涂料",
+      "source_product": "铝颜料",
+      "quote": "公司生产的铝颜料产品广泛应用于涂料、印刷油墨、塑胶材料等领域，其下游产品应用于汽车、3C产品、家用电器、飞机船舶、工程机械、建筑材料等众多制造业领域。"
+    },
+    {
+      "name": "印刷油墨",
+      "source_product": "铝颜料",
+      "quote": "公司生产的铝颜料产品广泛应用于涂料、印刷油墨、塑胶材料等领域。"
+    },
+    {
+      "name": "塑胶材料",
+      "source_product": "铝颜料",
+      "quote": "公司生产的铝颜料产品广泛应用于涂料、印刷油墨、塑胶材料等领域。"
+    },
+    {
+      "name": "太阳能电子浆料",
+      "source_product": "微细球形铝粉",
+      "quote": "公司生产的微细球形铝粉主要应用于生产铝颜料，并因其良好的电性能、导热性、分散性和流动性，广泛应用于太阳能电子浆料、耐火材料、农药、军工和自热材料等领域。"
+    },
+    {
+      "name": "耐火材料",
+      "source_product": "微细球形铝粉",
+      "quote": "公司生产的微细球形铝粉主要应用于生产铝颜料，并因其良好的电性能、导热性、分散性和流动性，广泛应用于太阳能电子浆料、耐火材料、农药、军工和自热材料等领域。"
+    },
+    {
+      "name": "农药",
+      "source_product": "微细球形铝粉",
+      "quote": "公司生产的微细球形铝粉主要应用于生产铝颜料，并因其良好的电性能、导热性、分散性和流动性，广泛应用于太阳能电子浆料、耐火材料、农药、军工和自热材料等领域。"
+    },
+    {
+      "name": "军工",
+      "source_product": "微细球形铝粉",
+      "quote": "公司生产的微细球形铝粉主要应用于生产铝颜料，并因其良好的电性能、导热性、分散性和流动性，广泛应用于太阳能电子浆料、耐火材料、农药、军工和自热材料等领域。"
+    },
+    {
+      "name": "自热材料",
+      "source_product": "微细球形铝粉",
+      "quote": "公司生产的微细球形铝粉主要应用于生产铝颜料，并因其良好的电性能、导热性、分散性和流动性，广泛应用于太阳能电子浆料、耐火材料、农药、军工和自热材料等领域。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "涂料（含铝颜料）",
+      "quote": "其下游产品应用于汽车、3C产品、家用电器、飞机船舶、工程机械、建筑材料等众多制造业领域。"
+    },
+    {
+      "name": "3C产品",
+      "source_product": "涂料、塑胶材料（含铝颜料）",
+      "quote": "其下游产品应用于汽车、3C产品、家用电器、飞机船舶、工程机械、建筑材料等众多制造业领域。"
+    },
+    {
+      "name": "家用电器",
+      "source_product": "涂料（含铝颜料）",
+      "quote": "其下游产品应用于汽车、3C产品、家用电器、飞机船舶、工程机械、建筑材料等众多制造业领域。"
+    },
+    {
+      "name": "飞机船舶",
+      "source_product": "涂料（含铝颜料）",
+      "quote": "其下游产品应用于汽车、3C产品、家用电器、飞机船舶、工程机械、建筑材料等众多制造业领域。"
+    },
+    {
+      "name": "工程机械",
+      "source_product": "涂料（含铝颜料）",
+      "quote": "其下游产品应用于汽车、3C产品、家用电器、飞机船舶、工程机械、建筑材料等众多制造业领域。"
+    },
+    {
+      "name": "建筑材料",
+      "source_product": "涂料（含铝颜料）",
+      "quote": "其下游产品应用于汽车、3C产品、家用电器、飞机船舶、工程机械、建筑材料等众多制造业领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "梁晓斌",
+      "role": "董事长、总经理、法定代表人、控股股东、实际控制人",
+      "quote": "公司负责人梁晓斌。控股股东：梁晓斌。实际控制人：梁晓斌。"
+    },
+    {
+      "name": "夏风",
+      "role": "副董事长",
+      "quote": "夏风 副董事长"
+    },
+    {
+      "name": "罗林",
+      "role": "董事、副总经理",
+      "quote": "罗林 董事、副总经理"
+    },
+    {
+      "name": "辜利勇",
+      "role": "董事、董事会秘书、副总经理",
+      "quote": "辜利勇 董事、董事会秘书、副总经理"
+    },
+    {
+      "name": "余新春",
+      "role": "财务总监",
+      "quote": "余新春 财务总监"
+    },
+    {
+      "name": "罗夔",
+      "role": "董事、总工程师",
+      "quote": "罗夔：男，1967年10月出生，现任公司董事、总工程师、公司真空镀铝颜料研究室主任。"
+    },
+    {
+      "name": "曾孟金",
+      "role": "职工代表董事、研发技术中心主任",
+      "quote": "曾孟金：男，1965年9月出生，2025年8月至今担任公司职工代表董事、研发技术中心主任。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "湘西族兴科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "铝粉、铝颜料生产及销售",
+      "quote": "湘西族兴 指 湘西族兴科技有限公司，公司全资子公司。"
+    },
+    {
+      "name": "长沙奥特金属颜料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "铝颜料销售",
+      "quote": "长沙奥特 指 长沙奥特金属颜料有限公司，公司全资子公司。"
+    },
+    {
+      "name": "曲靖华益兴新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "微细球形铝粉生产及销售",
+      "quote": "曲靖华益兴 指 曲靖华益兴新材料有限公司，公司全资子公司。"
+    },
+    {
+      "name": "湖南族兴新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "铝颜料生产及销售",
+      "quote": "湖南族兴 指 湖南族兴新材料有限公司，公司全资子公司。"
+    },
+    {
+      "name": "曲靖云铝淯鑫铝业有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要原材料供应商（铝锭/铝水）",
+      "quote": "主要供应商情况：序号1 供应商 曲靖云铝淯鑫铝业有限公司，采购金额437,171,915.86元，年度采购占比75.73%。"
+    },
+    {
+      "name": "国网湖南省电力公司",
+      "relation_type": "supplier",
+      "business_details": "能源供应商（电力）",
+      "quote": "主要供应商情况：序号2 供应商 国网湖南省电力公司，采购金额17,285,603.72元，年度采购占比2.99%。"
+    },
+    {
+      "name": "云南电网有限责任公司曲靖沾益供电局",
+      "relation_type": "supplier",
+      "business_details": "能源供应商（电力）",
+      "quote": "主要供应商情况：序号3 供应商 云南电网有限责任公司曲靖沾益供电局，采购金额15,285,667.73元，年度采购占比2.65%。"
+    },
+    {
+      "name": "阿克苏诺贝尔",
+      "relation_type": "customer",
+      "business_details": "核心直销客户",
+      "quote": "族兴新材下设大客户部，负责阿克苏诺贝尔、立邦、PPG涂料等核心客户的关系维护和售后服务。"
+    },
+    {
+      "name": "立邦",
+      "relation_type": "customer",
+      "business_details": "核心直销客户",
+      "quote": "族兴新材下设大客户部，负责阿克苏诺贝尔、立邦、PPG涂料等核心客户的关系维护和售后服务。"
+    },
+    {
+      "name": "PPG涂料",
+      "relation_type": "customer",
+      "business_details": "核心直销客户",
+      "quote": "族兴新材下设大客户部，负责阿克苏诺贝尔、立邦、PPG涂料等核心客户的关系维护和售后服务。"
+    },
+    {
+      "name": "马鞍山恒熹自热技术开发有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一",
+      "quote": "主要客户情况：序号1 客户 马鞍山恒熹自热技术开发有限公司，销售金额46,667,360.19元，年度销售占比5.86%。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金属颜料产品",
+      "segment_type": "product_line",
+      "revenue_amount": "374,278,101.70元",
+      "revenue_proportion": "47.00%",
+      "gross_margin": "39.72%",
+      "yoy_change": "较上年同期增长11.28%",
+      "quote": "分产品：金属颜料产品 营业收入374,278,101.70元，营业成本225,611,511.88元，毛利率39.72%，营业收入比上年同期增减11.28%。"
+    },
+    {
+      "name": "微细球形铝粉产品",
+      "segment_type": "product_line",
+      "revenue_amount": "420,480,659.60元",
+      "revenue_proportion": "52.80%",
+      "gross_margin": "3.89%",
+      "yoy_change": "较上年同期增长13.81%",
+      "quote": "分产品：微细球形铝粉产品 营业收入420,480,659.60元，营业成本404,108,199.44元，毛利率3.89%，营业收入比上年同期增减13.81%。"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "754,583,724.65元",
+      "revenue_proportion": "94.76%",
+      "gross_margin": "19.93%",
+      "yoy_change": "较上年同期增长12.26%",
+      "quote": "分地区：境内 营业收入754,583,724.65元，营业成本604,199,860.32元，毛利率19.93%，营业收入比上年同期增减12.26%。"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "41,692,863.71元",
+      "revenue_proportion": "5.24%",
+      "gross_margin": "38.10%",
+      "yoy_change": "较上年同期增长19.34%",
+      "quote": "分地区：境外 营业收入41,692,863.71元，营业成本25,808,911.96元，毛利率38.10%，营业收入比上年同期增减19.34%。"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "高性能金属颜料项目(厂房建设)",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "预算数4,450.56万元",
+      "designed_capacity": null,
+      "progress": "工程进度99.00%",
+      "expected_completion_time": null,
+      "quote": "在建工程明细：高性能金属颜料项目(厂房建设) 预算数4,450.56万元，期末账面价值117,755.75元，工程进度99.00%。"
+    },
+    {
+      "name": "高性能金属材料生产厂房",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "预算数13,319.00万元",
+      "designed_capacity": null,
+      "progress": "工程进度45.43%",
+      "expected_completion_time": null,
+      "quote": "在建工程明细：高性能金属材料生产厂房 预算数13,319.00万元，期末账面价值1,846,354.12元，工程进度45.43%。"
+    },
+    {
+      "name": "高性能铝浆项目(厂房建设)",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "预算数8,202.02万元",
+      "designed_capacity": null,
+      "progress": "工程进度35.00%",
+      "expected_completion_time": null,
+      "quote": "在建工程明细：高性能铝浆项目(厂房建设) 预算数8,202.02万元，期末账面价值4,262,974.74元，工程进度35.00%。"
+    },
+    {
+      "name": "中试车间",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "预算数300.00万元",
+      "designed_capacity": null,
+      "progress": "工程进度64.28%",
+      "expected_completion_time": null,
+      "quote": "在建工程明细：中试车间 预算数300.00万元，期末账面价值1,928,325.82元，工程进度64.28%。"
+    },
+    {
+      "name": "环保工程（VOCs升级改造）",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "预算数3,459,984.24元",
+      "designed_capacity": null,
+      "progress": "工程进度100.00%",
+      "expected_completion_time": null,
+      "quote": "在建工程明细：环保工程（VOCs升级改造） 预算数3,459,984.24元，期末账面价值0，工程进度100.00%。"
+    },
+    {
+      "name": "湖南族兴一期",
+      "project_type": "capacity_expansion",
+      "location": "湖南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "试生产",
+      "expected_completion_time": null,
+      "quote": "2025年公司年度大事记：3、2025年11月，湖南族兴一期试生产。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "涂料用铝颜料行业标准制定",
+      "asset_type": "standard",
+      "related_product": "铝颜料",
+      "quantitative_info": "参与制定了全部5个部分的行业标准，作为第一起草单位主持制定了3个行业标准，作为重要起草单位参与制定了剩余2个行业标准。",
+      "quote": "公司参与了涂料用铝颜料行业标准全部5个部分的制定，其中公司作为第一起草单位主持制定了3个行业标准，作为重要起草单位参与制定了剩余2个行业标准。"
+    },
+    {
+      "name": "铝颜料国际标准制定",
+      "asset_type": "standard",
+      "related_product": "铝颜料",
+      "quantitative_info": "参与了3个铝颜料国际标准的制定工作。",
+      "quote": "公司还参与了3个铝颜料国际标准、1个高纯铝粉行业标准以及下游涂料行业中7个国家标准和多个团体标准的制定工作。"
+    },
+    {
+      "name": "国家级专精特新‘小巨人’企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司现已成为我国微细球形铝粉功能粉体材料和铝颜料领域的龙头企业，是建议支持的国家级专精特新‘小巨人’企业（重点‘小巨人’企业）。"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "‘高新技术企业’认定 是。"
+    },
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截止报告期末，公司拥有授权专利90项，其中授权发明专利49件，已获申请受理的专利28项。",
+      "quote": "截止报告期末，公司拥有授权专利90项，其中授权发明专利49件，已获申请受理的专利28项。"
+    },
+    {
+      "name": "IATF 16949:2016标准认证",
+      "asset_type": "certification",
+      "related_product": "汽车涂料",
+      "quantitative_info": null,
+      "quote": "2025年3月，公司通过汽车涂料领域，IATF 16949:2016标准认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "17.34%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "主要客户情况：合计销售金额138,064,868.15元，年度销售占比17.34%。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "75.73%",
+      "related_entity": "曲靖云铝淯鑫铝业有限公司",
+      "period": "2025年",
+      "quote": "主要供应商情况：序号1 供应商 曲靖云铝淯鑫铝业有限公司，采购金额437,171,915.86元，年度采购占比75.73%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "85.06%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "主要供应商情况：合计采购金额491,074,601.74元，年度采购占比85.06%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司主要产品铝颜料和微细球形铝粉，其应用行业与宏观经济紧密相关。若宏观经济形势出现重大不利变化，将对公司下游企业经营产生不利影响，从而间接对公司经营产生影响。",
+      "related_entity": null,
+      "related_product": "铝颜料、微细球形铝粉",
+      "quote": "重大风险事项描述：公司的主要产品为铝颜料和微细球形铝粉...若未来宏观经济形势出现重大不利变化、居民耐用消费品支出规模和社会固定资产投资规模出现重大限制或下滑，将对公司下游企业的经营产生不利影响，从而间接对公司经营产生影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料铝水、铝锭、溶剂油和助剂的价格受市场波动影响较大。如果未来主要原材料价格大幅上涨，将显著增加产品生产成本，影响公司整体盈利能力。",
+      "related_entity": null,
+      "related_product": "微细球形铝粉、铝颜料",
+      "quote": "重大风险事项描述：公司产品主要原材料为铝水、铝锭、溶剂油和助剂等...如果未来主要原材料价格大幅上涨，将显著增加产品的生产成本，产品的毛利率可能出现一定程度下降，进而影响公司的整体盈利能力。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司产品下游应用领域广泛，若未来国家出台限制有色金属功能粉体材料行业及相关下游行业发展的产业政策和措施，将给公司经营带来风险。",
+      "related_entity": null,
+      "related_product": "微细球形铝粉、铝颜料",
+      "quote": "重大风险事项描述：如果未来国家出台限制有色金属功能粉体材料行业以及相关下游行业发展的产业政策和措施，将给公司经营带来风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司生产过程中会产生少量废气、废渣和噪声等排放物。若出现未按规章制度操作、应急处置不当等而导致重大环境污染事件，可能面临被责令停产、行政处罚甚至被起诉的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大风险事项描述：公司主要产品微细球形铝粉及铝颜料生产过程中会产生少量废气、废渣和噪声等排放物...若在生产加工过程中出现未按规章制度操作、应急处置不当等而导致重大环境污染事件，可能会造成公司被责令停产、行政处罚甚至面临被起诉的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术失密风险：公司自主研发了一系列核心技术，对正常生产经营至关重要。若核心技术被竞争对手仿制，市场竞争力和盈利能力都将受到不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大风险事项描述：经过多年的技术创新和研发积累，公司自主研发了一系列核心技术，核心技术对公司的正常生产经营至关重要...若核心技术被同行业竞争对手仿制，公司的市场竞争力和盈利能力都将受到不利影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司存货和应收账款规模呈增长趋势，导致经营活动现金流承压；另一方面相关现金流均未计入经营活动现金流量。若未来经营活动产生的现金流量净额持续为负，将对公司营运资金的正常周转产生不利影响，存在一定资金流动性风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大风险事项描述：公司业务稳定发展，公司存货规模和应收账款规模呈增长趋势，导致经营活动现金流承压...若未来公司在业务发展中经营活动产生的现金流量净额持续为负，将对公司营运资金的正常周转产生不利影响，公司存在一定资金流动性风险。"
+    }
+  ]
+}

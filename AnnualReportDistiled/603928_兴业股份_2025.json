@@ -1,0 +1,461 @@
+{
+  "company_name_mentioned": "苏州兴业材料科技股份有限公司",
+  "produces": [
+    {
+      "name": "合成树脂",
+      "type": "material",
+      "revenue_proportion": "分产品中“合成树脂”营业收入为1,078,437,966.36元，占主营业务收入比例约67.6%，毛利率15.41%",
+      "quote": "公司主要产品分为铸造材料（铸造树脂、涂料、冒口、过滤器、球化剂、孕育剂、蠕化剂等）、特种酚醛树脂（电子级、改性、热固性、粉体等特种酚醛树脂）和其他化工材料（丙烯酸、浸渍树脂）三大类别。... 分产品情况...合成树脂 1,078,437,966.36 912,241,266.25 15.41 3.68 -2.02"
+    },
+    {
+      "name": "铸造功能涂料",
+      "type": "material",
+      "revenue_proportion": "分产品中“铸造功能涂料”营业收入为92,568,349.60元，毛利率15.23%",
+      "quote": "分产品情况...铸造功能涂料 92,568,349.60 78,472,547.16 15.23 9.42 4.81"
+    },
+    {
+      "name": "磺酸固化剂",
+      "type": "material",
+      "revenue_proportion": "分产品中“磺酸固化剂”营业收入为79,375,729.98元，毛利率21.87%",
+      "quote": "分产品情况...磺酸固化剂 79,375,729.98 62,015,612.57 21.87 9.72 10.07"
+    },
+    {
+      "name": "其他主营",
+      "type": "material",
+      "revenue_proportion": "分产品中“其他主营”营业收入为268,512,677.18元，毛利率15.41%",
+      "quote": "分产品情况...其他主营 268,512,677.18 227,123,893.52 15.41 8.97 7.58"
+    }
+  ],
+  "procures": [
+    {
+      "name": "糠醇",
+      "target_product": "铸造树脂",
+      "cost_proportion": null,
+      "quote": "主要原材料价格变化对公司营业成本的影响：直接材料占主要产品合成树脂成本中的比例接近90%...主要原材料 糠醇 向生产商直接采购...采购量 41,858.70（吨）"
+    },
+    {
+      "name": "苯酚",
+      "target_product": "合成树脂",
+      "cost_proportion": null,
+      "quote": "主要原材料价格变化对公司营业成本的影响：直接材料占主要产品合成树脂成本中的比例接近90%...主要原材料 苯酚 向生产商/经销商采购...采购量 23,562.31（吨）"
+    },
+    {
+      "name": "甲醇",
+      "target_product": "磺酸固化剂",
+      "cost_proportion": null,
+      "quote": "主要原材料价格变化对公司营业成本的影响：直接材料占主要产品合成树脂成本中的比例接近90%...主要原材料 甲醇 向生产商/经销商采购...采购量 16,188.21（吨）"
+    },
+    {
+      "name": "MDI",
+      "target_product": "合成树脂",
+      "cost_proportion": null,
+      "quote": "主要原材料价格变化对公司营业成本的影响：直接材料占主要产品合成树脂成本中的比例接近90%...主要原材料 MDI 向生产商/经销商采购...采购量 10,398.34（吨）"
+    },
+    {
+      "name": "水",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要能源 水 与当地自来水公司固定协议固定价格梯度...采购量 125,280.00（吨）"
+    },
+    {
+      "name": "电",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要能源 电 与当地供电公司固定协议...采购量 27,139,681.00（千瓦时）"
+    },
+    {
+      "name": "蒸汽",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要能源 蒸汽 与当地供汽公司固定协议固定价格...采购量 86,359.74（吨）"
+    }
+  ],
+  "applications": [
+    {
+      "name": "装备制造业",
+      "source_product": "铸造材料、特种酚醛树脂等",
+      "quote": "产品广泛应用于装备制造业、建筑业、航天航空等行业中高端铸件、摩擦件、保温件、耐高温和抗腐件等零部件的生产"
+    },
+    {
+      "name": "建筑业",
+      "source_product": "铸造材料、特种酚醛树脂等",
+      "quote": "产品广泛应用于装备制造业、建筑业、航天航空等行业中高端铸件、摩擦件、保温件、耐高温和抗腐件等零部件的生产"
+    },
+    {
+      "name": "航天航空",
+      "source_product": "铸造材料、特种酚醛树脂等",
+      "quote": "产品广泛应用于装备制造业、建筑业、航天航空等行业中高端铸件、摩擦件、保温件、耐高温和抗腐件等零部件的生产"
+    },
+    {
+      "name": "汽车工业（轻量化、刹车等）",
+      "source_product": "特种酚醛树脂",
+      "quote": "下游需求升级是行业增长的核心驱动力：一是汽车产业轻量化需求持续扩张。酚醛树脂被广泛应用于轻量化轮胎、刹车踏板和发动机舱内零件的制造"
+    },
+    {
+      "name": "新能源电池（负极材料）",
+      "source_product": "球形酚醛树脂",
+      "quote": "目前，公司球形酚醛树脂在电池负极材料领域已实现批量供货与规模化销售...用公司产品做出的CVD硅碳已顺利进入国内头部3C数码及动力电芯企业供应链"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王进兴",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人王进兴、主管会计工作负责人陆佳及会计机构负责人（会计主管人员）陆佳声明... 王进兴 男 63 2011-10-18 2026-10-15 73,817,770 73,817,770 / / 52.10 否"
+    },
+    {
+      "name": "王泉兴",
+      "role": "副董事长、实际控制人",
+      "quote": "王泉兴 副董事长 男 74 2011-10-18 2026-10-15 68,034,980 68,034,980 / / 55.06 否"
+    },
+    {
+      "name": "吉祖明",
+      "role": "董事、技术中心总监、核心技术人员",
+      "quote": "吉祖明 董事、技术中心总监、核心技术人员 男 82 2011-10-18 2026-10-15 24.12 否"
+    },
+    {
+      "name": "蒋全志",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 蒋全志"
+    },
+    {
+      "name": "陆佳",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人陆佳...陆佳 财务总监 男 43 2011-10-18 2026-10-15 38.64 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "苏州市兴业化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司100%控股子公司",
+      "quote": "兴业化工 指 苏州市兴业化工有限公司，系公司100%控股子公司"
+    },
+    {
+      "name": "苏州兴业材料科技南通有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司和兴业化工分别持股99%和1%",
+      "quote": "兴业南通 指 苏州兴业材料科技南通有限公司，系公司和兴业化工分别持股99%和1%"
+    },
+    {
+      "name": "宁夏盛鼎丰新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司100%控股子公司",
+      "quote": "盛鼎丰 指 宁夏盛鼎丰新材料有限公司，系公司100%控股子公司"
+    },
+    {
+      "name": "苏州兴业材料科技泰州有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司和兴业化工分别持股99%和1%",
+      "quote": "兴业泰州 指 苏州兴业材料科技泰州有限公司，系公司和兴业化工分别持股99%和1%"
+    },
+    {
+      "name": "一汽铸造",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已成功进入了世界500强在华合资公司和中国铸造100强生产企业，如一汽铸造...等。"
+    },
+    {
+      "name": "潍柴动力",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已成功进入了世界500强在华合资公司和中国铸造100强生产企业，如...潍柴动力...等。"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司产品已成功进入了世界500强在华合资公司和中国铸造100强生产企业，如...比亚迪...等。"
+    },
+    {
+      "name": "容诚会计师事务所(特殊普通合伙)",
+      "relation_type": "supplier",
+      "business_details": "为本公司出具了标准无保留意见的审计报告",
+      "quote": "容诚会计师事务所(特殊普通合伙)为本公司出具了标准无保留意见的审计报告"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化学原料和化学制品制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,518,894,723.12",
+      "revenue_proportion": null,
+      "gross_margin": "15.74",
+      "yoy_change": "增加3.96个百分点",
+      "quote": "主营业务分行业情况 分行业 营业收入 营业成本 毛利率 毛利率比上年增减 化学原料和化学制品制造业 1,518,894,723.12 1,279,853,319.50 15.74 增加3.96个百分点"
+    },
+    {
+      "name": "合成树脂",
+      "segment_type": "product_line",
+      "revenue_amount": "1,078,437,966.36",
+      "revenue_proportion": null,
+      "gross_margin": "15.41",
+      "yoy_change": "增加4.92个百分点",
+      "quote": "主营业务分产品情况 分产品 营业收入 营业成本 毛利率 毛利率比上年增减 合成树脂 1,078,437,966.36 912,241,266.25 15.41 增加4.92个百分点"
+    },
+    {
+      "name": "铸造功能涂料",
+      "segment_type": "product_line",
+      "revenue_amount": "92,568,349.60",
+      "revenue_proportion": null,
+      "gross_margin": "15.23",
+      "yoy_change": "增加3.73个百分点",
+      "quote": "主营业务分产品情况 分产品 营业收入 营业成本 毛利率 毛利率比上年增减 铸造功能涂料 92,568,349.60 78,472,547.16 15.23 增加3.73个百分点"
+    },
+    {
+      "name": "磺酸固化剂",
+      "segment_type": "product_line",
+      "revenue_amount": "79,375,729.98",
+      "revenue_proportion": null,
+      "gross_margin": "21.87",
+      "yoy_change": "减少0.24个百分点",
+      "quote": "主营业务分产品情况 分产品 营业收入 营业成本 毛利率 毛利率比上年增减 磺酸固化剂 79,375,729.98 62,015,612.57 21.87 减少0.24个百分点"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,498,627,347.96",
+      "revenue_proportion": null,
+      "gross_margin": "15.43",
+      "yoy_change": "增加3.89个百分点",
+      "quote": "主营业务分地区情况 分地区 营业收入 营业成本 毛利率 毛利率比上年增减 国内 1,498,627,347.96 1,267,403,764.80 15.43 增加3.89个百分点"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "20,267,375.16",
+      "revenue_proportion": null,
+      "gross_margin": "38.57",
+      "yoy_change": "增加3.36个百分点",
+      "quote": "主营业务分地区情况 分地区 营业收入 营业成本 毛利率 毛利率比上年增减 国外 20,267,375.16 12,449,554.70 38.57 增加3.36个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,518,894,723.12",
+      "revenue_proportion": null,
+      "gross_margin": "15.74",
+      "yoy_change": "增加3.96个百分点",
+      "quote": "主营业务分销售模式情况 销售模式 营业收入 营业成本 毛利率 毛利率比上年增减 直销 1,518,894,723.12 1,279,853,319.50 15.74 增加3.96个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "合成树脂",
+      "metric_type": "capacity",
+      "value": "200000吨/年",
+      "period": "2025年",
+      "quote": "主要厂区或项目 设计产能 合成树脂 200000 吨/年"
+    },
+    {
+      "product": "合成树脂",
+      "metric_type": "capacity_utilization",
+      "value": "62.94%",
+      "period": "2025年",
+      "quote": "主要厂区或项目 设计产能 产能利用率 合成树脂 200000 吨/年 62.94%"
+    },
+    {
+      "product": "铸造涂料",
+      "metric_type": "capacity",
+      "value": "21000吨/年",
+      "period": "2025年",
+      "quote": "主要厂区或项目 设计产能 铸造涂料 21000 吨/年"
+    },
+    {
+      "product": "铸造涂料",
+      "metric_type": "capacity_utilization",
+      "value": "78.25%",
+      "period": "2025年",
+      "quote": "主要厂区或项目 设计产能 产能利用率 铸造涂料 21000 吨/年 78.25%"
+    },
+    {
+      "product": "磺酸固化剂",
+      "metric_type": "capacity",
+      "value": "45000吨/年",
+      "period": "2025年",
+      "quote": "主要厂区或项目 设计产能 磺酸固化剂 45000吨/年"
+    },
+    {
+      "product": "磺酸固化剂",
+      "metric_type": "capacity_utilization",
+      "value": "65.44%",
+      "period": "2025年",
+      "quote": "主要厂区或项目 设计产能 产能利用率 磺酸固化剂 45000吨/年 65.44%"
+    },
+    {
+      "product": "合成树脂",
+      "metric_type": "production_volume",
+      "value": "125,889.94吨",
+      "period": "2025年",
+      "quote": "主要产品 生产量 合成树脂 吨 125,889.94"
+    },
+    {
+      "product": "合成树脂",
+      "metric_type": "sales_volume",
+      "value": "125,897.28吨",
+      "period": "2025年",
+      "quote": "主要产品 销售量 合成树脂 吨 125,897.28"
+    },
+    {
+      "product": "合成树脂",
+      "metric_type": "inventory_volume",
+      "value": "4,162.48吨",
+      "period": "2025年末",
+      "quote": "主要产品 库存量 合成树脂 吨 4,162.48"
+    },
+    {
+      "product": "磺酸固化剂",
+      "metric_type": "production_volume",
+      "value": "29,447.14吨",
+      "period": "2025年",
+      "quote": "主要产品 生产量 磺酸固化剂 吨 29,447.14"
+    },
+    {
+      "product": "涂料",
+      "metric_type": "production_volume",
+      "value": "16,433.10吨",
+      "period": "2025年",
+      "quote": "主要产品 生产量 涂料 吨 16,433.10"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "公司道安路厂区4万吨呋喃树脂车间安全环保提升技改项目",
+      "project_type": "capacity_expansion",
+      "location": "苏州高新区浒关工业园道安路15号",
+      "investment_amount": null,
+      "designed_capacity": "提升2万吨合成树脂等产能",
+      "progress": "在2024年5月开始试生产，并于2024年7月通过环保竣工验收，2024年12月通过安全竣工验收",
+      "expected_completion_time": null,
+      "quote": "公司道安路厂区4万吨呋喃树脂车间安全环保提升技改项目在2024年5月开始试生产，并于2024年7月通过环保竣工验收，2024年12月通过安全竣工验收，至此2025年公司道安路厂区提升2万吨合成树脂等产能。"
+    },
+    {
+      "name": "江苏省泰兴经济开发区新项目",
+      "project_type": "capacity_expansion",
+      "location": "江苏省泰兴经济开发区",
+      "investment_amount": "30亿元",
+      "designed_capacity": null,
+      "progress": "兴业泰州所在地块被划入“长江岸线一公里范围”内，不符合最新环保管控要求。目前，公司正积极与江苏省泰兴经济开发区沟通协商，研究应对方案，后续不排除采取项目选址调整、变更投资计划等措施。",
+      "expected_completion_time": null,
+      "quote": "公司于2021年4月15日披露《关于签署投资协议的公告》，拟在江苏省泰兴经济开发区投资建设新项目。项目计划的总投资金额为30亿元人民币... 近期，公司收到江苏省泰兴经济开发区管委会出具的《关于苏州兴业材料科技泰州有限公司项目用地的情况说明》，兴业泰州所在地块被划入“长江岸线一公里范围”内，不符合最新环保管控要求。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有机合成树脂功能新材料研发生产体系",
+      "asset_type": "core_technology",
+      "related_product": "铸造材料、特种酚醛树脂等",
+      "quantitative_info": "50余项国家专利",
+      "quote": "依托“自主培养+高端引进”的人才战略，公司已形成由50余项国家专利构成的核心技术体系"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "43项",
+      "quote": "截至2025年末，公司现有43项发明专利和18项实用新型专利授权。"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "18项",
+      "quote": "截至2025年末，公司现有43项发明专利和18项实用新型专利授权。"
+    },
+    {
+      "name": "国家、行业及团体标准制定",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主持和参与25项",
+      "quote": "公司主持完成了多项省辖市级及以上科技项目，主持和参与25项国家、行业及团体标准的制定。"
+    },
+    {
+      "name": "ISO9001质量体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司质量管理体系已与国际接轨，通过了ISO9001质量体系、ISO14001环境体系、ISO45001职业健康安全管理体系和清洁生产标准的认证"
+    },
+    {
+      "name": "ISO14001环境体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司质量管理体系已与国际接轨，通过了ISO9001质量体系、ISO14001环境体系、ISO45001职业健康安全管理体系和清洁生产标准的认证"
+    },
+    {
+      "name": "AS9100D 航空航天部门质量管理体系",
+      "asset_type": "certification",
+      "related_product": "航空航天和工业用复合材料浸渍树脂",
+      "quantitative_info": null,
+      "quote": "公司还取得NQA认证的AS9100D 航空航天部门质量管理体系，该质量管理体系适用于航空航天和工业用复合材料浸渍树脂的设计，开发和制造。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "9.53%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额15,199.32万元，占年度销售总额9.53%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.06%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额45,906.96万元，占年度采购总额39.06%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司属于化学原料和化学制品制造业下的铸造造型材料细分行业，需要符合各级政府相关监管要求。江苏省响水化工厂爆炸后，江苏省加快化工产业整治提升。公司及兴业化工已按要求进行化工重点监测点的申报并分别被认定。如果将来取消化工重点监测点，则会面临整改甚至关停的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如果将来取消化工重点监测点，则会面临整改甚至关停的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全生产风险：公司日常生产中需要使用甲苯、苯酚、浓硫酸等危险化学品，如果出现安全生产责任意识不强、设备不能及时有效维护等情况，则有可能导致安全生产事故的发生，公司存在停产、减产及承担经济赔偿责任或遭受行政处罚的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司存在停产、减产及承担经济赔偿责任或遭受行政处罚的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险：公司产品主要原材料为糠醇、苯酚、MDI、甲醛和尿素等，上述原材料成本占生产成本的比重较大。若原材料市场价格发生大幅波动，将对公司的生产成本和利润产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若原材料市场价格发生大幅波动，以及如果公司不能通过合理安排采购来降低原材料价格波动的影响并及时调整产品销售价格，将对公司的生产成本和利润产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "对外投资的风险：公司于2021年4月和江苏省泰兴经济开发区签署投资协议，拟投资建设新项目。该项目投资金额大，且项目用地因环保问题面临不确定性，存在投资风险。",
+      "related_entity": "苏州兴业材料科技泰州有限公司",
+      "related_product": null,
+      "quote": "该项目投资金额大，存在的投资风险...后续不排除采取项目选址调整、变更投资计划等措施。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家产业政策调整的风险：公司研发生产的铸造用树脂粘结剂产品主要用于装备制造行业的铸件生产，产品的需求受下游行业发展状况及国家产业政策的制约和影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "但如果未来上述装备制造业增速放缓，将有可能对公司业务规模和经营业绩造成一定程度的不利影响，公司面临国家产业政策调整的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "应收账款发生坏账的风险：报告期期末，公司应收账款净值余额较大、占期末流动资产的比例较高。如果公司主要客户或客户群的财务状况出现恶化、或者经营情况和商业信用发生重大不利变化，则可能导致该等应收账款不能按期或无法收回而发生坏账。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "但由于公司客户较多且分散，如果公司主要客户或客户群的财务状况出现恶化...则可能导致该等应收账款不能按期或无法收回而发生坏账，将对公司的生产经营和业绩产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "国际政治经济风险：当前国际地缘政治局势紧张，全球石化产业链稳定性面临冲击，能源及化工原材料价格或将剧烈波动。此类极端不确定性将显著增加公司主营成本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受此影响，全球石化产业链的稳定性面临直接冲击...能源及化工原材料价格或将剧烈波动。此类极端不确定性将显著增加公司主营成本，削弱行业整体经营效益。"
+    }
+  ]
+}

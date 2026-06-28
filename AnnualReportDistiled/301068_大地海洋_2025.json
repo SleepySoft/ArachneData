@@ -1,0 +1,448 @@
+{
+  "company_name_mentioned": "杭州大地海洋环保股份有限公司",
+  "produces": [
+    {
+      "name": "危险废物资源化利用产品",
+      "type": "service",
+      "revenue_proportion": "14.53%",
+      "quote": "分产品 危险废物 199,689,841.59 14.53%"
+    },
+    {
+      "name": "电子废物拆解处理产物",
+      "type": "material",
+      "revenue_proportion": "50.47%",
+      "quote": "分产品 电子废物 693,614,048.07 50.47%"
+    },
+    {
+      "name": "家庭废弃物回收及资源化利用服务",
+      "type": "service",
+      "revenue_proportion": "33.19%",
+      "quote": "分产品 家庭废弃物回收及资源化利用 456,116,605.22 33.19%"
+    },
+    {
+      "name": "废弃电器电子产品处理基金/专项资金",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司拆解电子废物得到的拆解产物销售给下游再生资源利用企业，并依据废弃电器电子产品的规范拆解种类、数量等申请废弃电器电子产品处理基金补贴/专项资金奖励，从而实现盈利。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子废物（废电视机、废电冰箱、废空调等）",
+      "target_product": "电子废物拆解处理产物",
+      "cost_proportion": null,
+      "quote": "公司采购的废电视机、废电冰箱、废空调等电子废物最初产生于千家万户、各企事业单位"
+    },
+    {
+      "name": "废矿物油",
+      "target_product": "危险废物资源化利用产品",
+      "cost_proportion": null,
+      "quote": "公司向汽修企业、制造业企业等产废单位收集废矿物油后进行资源化利用"
+    },
+    {
+      "name": "家庭废弃物",
+      "target_product": "家庭废弃物回收及资源化利用服务",
+      "cost_proportion": null,
+      "quote": "居民用户通过‘虎哥’APP或微信小程序下单后，相应站点的虎哥收集人员会在1小时内上门收集"
+    },
+    {
+      "name": "前五大供应商采购",
+      "target_product": null,
+      "cost_proportion": "33.91%",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 33.91%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业原料（再生金属、塑料等）",
+      "source_product": "电子废物拆解处理产物",
+      "quote": "下游再生资源利用企业向公司采购废矿物油后，经过预处理、蒸馏、精制、调和等多道工序可制成不同品类的润滑油。"
+    },
+    {
+      "name": "再生资源利用（废纸、废玻璃、废金属等）",
+      "source_product": "家庭废弃物回收及资源化利用服务",
+      "quote": "公司将回收的家庭废弃物进行精细分拣，将分拣后的废纸、废玻璃、废金属、废塑料、废纺织物等销售给下游再生资源利用企业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "唐伟忠",
+      "role": "董事长",
+      "quote": "公司负责人唐伟忠...声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "郭水忠",
+      "role": "董事、总经理",
+      "quote": "郭水忠...2017年10月至今任公司董事、总经理。"
+    },
+    {
+      "name": "强毅",
+      "role": "董事",
+      "quote": "强毅...2017年10月至今任公司董事。"
+    },
+    {
+      "name": "蒋建霞",
+      "role": "董事、财务总监",
+      "quote": "蒋建霞...主管会计工作负责人"
+    },
+    {
+      "name": "卓锰刚",
+      "role": "董事、董事会秘书",
+      "quote": "卓锰刚...2018年3月加入公司并于同年5月起担任公司董事会秘书。"
+    },
+    {
+      "name": "张杰蔚",
+      "role": "副总经理",
+      "quote": "张杰蔚...2017年10月至今任公司副总经理。"
+    },
+    {
+      "name": "周雄伟",
+      "role": "副总经理",
+      "quote": "周雄伟...2017年10月至今任公司副总经理。"
+    },
+    {
+      "name": "孙华",
+      "role": "副总经理",
+      "quote": "孙华...2019年12月至今任公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江盛唐环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电子废物拆解处理业务",
+      "quote": "盛唐环保 指 浙江盛唐环保科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "杭州沈达环境科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "沈达环境 指 杭州沈达环境科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "浙江裕和再生资源回收有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "裕和再生 指 浙江裕和再生资源回收有限公司，系公司全资子公司"
+    },
+    {
+      "name": "桐乡市天运环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天运环保 指 桐乡市天运环保科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "杭州永乾环境有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "永乾环境 指 杭州永乾环境有限公司，系公司全资子公司"
+    },
+    {
+      "name": "浙江虎哥废物管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "家庭废弃物回收和资源化利用业务",
+      "quote": "虎哥 指 浙江虎哥废物管理有限公司，系公司全资子公司"
+    },
+    {
+      "name": "盛唐环创科技（桐庐）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电子废物拆解处理业务",
+      "quote": "盛唐环创 指 盛唐环创科技（桐庐）有限公司，系公司全资子公司"
+    },
+    {
+      "name": "客户一",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 198,944,389.63 14.48%"
+    },
+    {
+      "name": "供应商一",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 158,746,320.62 12.90%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "危险废物",
+      "segment_type": "product_line",
+      "revenue_amount": "199,689,841.59",
+      "revenue_proportion": "14.53%",
+      "gross_margin": "25.28%",
+      "yoy_change": "-15.23%",
+      "quote": "分产品 危险废物 199,689,841.59 14.53% ... 毛利率 25.28% ... 营业收入比上年同期增减 -15.23%"
+    },
+    {
+      "name": "电子废物",
+      "segment_type": "product_line",
+      "revenue_amount": "693,614,048.07",
+      "revenue_proportion": "50.47%",
+      "gross_margin": "-3.45%",
+      "yoy_change": "-0.12%",
+      "quote": "分产品 电子废物 693,614,048.07 50.47% ... 毛利率 -3.45% ... 营业收入比上年同期增减 -0.12%"
+    },
+    {
+      "name": "家庭废弃物回收及资源化利用",
+      "segment_type": "product_line",
+      "revenue_amount": "456,116,605.22",
+      "revenue_proportion": "33.19%",
+      "gross_margin": "24.35%",
+      "yoy_change": "-0.90%",
+      "quote": "分产品 家庭废弃物回收及资源化利用 456,116,605.22 33.19% ... 毛利率 24.35% ... 营业收入比上年同期增减 -0.90%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "877,104,844.60",
+      "revenue_proportion": "63.82%",
+      "gross_margin": "17.34%",
+      "yoy_change": "-1.69%",
+      "quote": "分地区 华东 877,104,844.60 63.82% ... 毛利率 17.34% ... 营业收入比上年同期增减 -1.69%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "485,502,212.94",
+      "revenue_proportion": "35.33%",
+      "gross_margin": "-1.96%",
+      "yoy_change": "-2.18%",
+      "quote": "分地区 华北 485,502,212.94 35.33% ... 毛利率 -1.96% ... 营业收入比上年同期增减 -2.18%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "危险废物业务",
+      "metric_type": "sales_volume",
+      "value": "34,797.09 吨",
+      "period": "2025年",
+      "quote": "危险废物业务 销售量 吨 34,797.09 36,354.45 -4.28%"
+    },
+    {
+      "product": "危险废物业务",
+      "metric_type": "production_volume",
+      "value": "35,060.03 吨",
+      "period": "2025年",
+      "quote": "危险废物业务 生产量 吨 35,060.03 36,859.53 -4.88%"
+    },
+    {
+      "product": "危险废物业务",
+      "metric_type": "inventory_volume",
+      "value": "1,589.62 吨",
+      "period": "2025年末",
+      "quote": "危险废物业务 库存量 吨 1,589.62 1,326.69 19.82%"
+    },
+    {
+      "product": "电子废物拆解处理业务",
+      "metric_type": "sales_volume",
+      "value": "74,934.28 吨",
+      "period": "2025年",
+      "quote": "电子废物拆解处理业务 销售量 吨 74,934.28 70,917.96 5.66%"
+    },
+    {
+      "product": "电子废物拆解处理业务",
+      "metric_type": "production_volume",
+      "value": "74,762.13 吨",
+      "period": "2025年",
+      "quote": "电子废物拆解处理业务 生产量 吨 74,762.13 71,127.25 5.11%"
+    },
+    {
+      "product": "电子废物拆解处理业务",
+      "metric_type": "inventory_volume",
+      "value": "1,346.62 吨",
+      "period": "2025年末",
+      "quote": "电子废物拆解处理业务 库存量 吨 1,346.62 1,515.21 -11.13%"
+    },
+    {
+      "product": "家庭废弃物回收及资源化利用",
+      "metric_type": "sales_volume",
+      "value": "191,613.33 吨",
+      "period": "2025年",
+      "quote": "家庭废弃物回收及资源化利用 销售量 销售量 191,613.33 187,396.53 2.25%"
+    },
+    {
+      "product": "家庭废弃物回收及资源化利用",
+      "metric_type": "production_volume",
+      "value": "192,282.54 吨",
+      "period": "2025年",
+      "quote": "家庭废弃物回收及资源化利用 生产量 生产量 192,282.54 188,234.09 2.15%"
+    },
+    {
+      "product": "家庭废弃物回收及资源化利用",
+      "metric_type": "inventory_volume",
+      "value": "3,036.57 吨",
+      "period": "2025年末",
+      "quote": "家庭废弃物回收及资源化利用 库存量 库存量 3,036.57 2,761.40 9.96%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购浙江虎哥废物管理有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "13,501.20万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": "2025年8月完成工商变更",
+      "quote": "公司于2025年6月3日...同意以自有资金或自筹资金人民币13,501.20万元收购唐伟忠先生、张杰来女士、唐宇阳女士、吕鹏先生、杭州九寅企业管理咨询合伙企业（有限合伙）持有的浙江虎哥废物管理有限公司100%股权。"
+    },
+    {
+      "name": "收购盛唐环创科技（桐庐）有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "59,665,159.00元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": "2025年12月2日办理财产权交接",
+      "quote": "2025年度，公司完成对盛唐环创科技（桐庐）有限公司（原威立雅资源再生（杭州）有限公司）100%股权的现金收购"
+    },
+    {
+      "name": "拓展废旧电动自行车回收及拆解处理业务",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已逐步落地见效",
+      "expected_completion_time": null,
+      "quote": "此外，公司正积极拓展废旧电动自行车回收及拆解处理业务...虎哥旗下浙江虎哥拆解服务有限公司已完成废旧电动自行车回收资质办理、拆解场地升级及专业设备投入...相关业务已逐步落地见效"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“小蚂哥”云数据平台",
+      "asset_type": "technical_platform",
+      "related_product": "危险废物处置和综合利用业务",
+      "quantitative_info": null,
+      "quote": "公司开发了拥有自主知识产权的‘小蚂哥’云数据平台，创造性地将互联网与物联网技术应用于危险废物的回收、处置和利用的全过程"
+    },
+    {
+      "name": "家庭废弃物回收和资源化利用综合性数据平台",
+      "asset_type": "technical_platform",
+      "related_product": "家庭废弃物回收和资源化利用业务",
+      "quantitative_info": "6大板块",
+      "quote": "通过自主研发的‘回收大数据平台’、‘回收订单监管平台’、‘物流清运监管平台’、‘末端资源化利用监管平台’、‘积分商城兑换监管平台’、‘碳减排信息监管平台’6大板块的综合性数据平台"
+    },
+    {
+      "name": "废乳化液高效蒸发率的研发",
+      "asset_type": "process_technology",
+      "related_product": "危险废物处置业务",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称 项目目的 ... 废乳化液高效蒸发率的研发"
+    },
+    {
+      "name": "小型家电拆解碎料快速筛分工艺的研发",
+      "asset_type": "process_technology",
+      "related_product": "电子废物拆解处理业务",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称 项目目的 ... 小型家电拆解碎料快速筛分工艺的研发"
+    },
+    {
+      "name": "废弃电器电子产品处理资格证书",
+      "asset_type": "certification",
+      "related_product": "电子废物拆解处理业务",
+      "quantitative_info": null,
+      "quote": "盛唐环保、盛唐环创已取得《废弃电器电子产品处理资格证书》"
+    },
+    {
+      "name": "危险废物经营许可证",
+      "asset_type": "certification",
+      "related_product": "危险废物处置业务",
+      "quantitative_info": null,
+      "quote": "大地海洋已取得《危险废物经营许可证》"
+    },
+    {
+      "name": "道路运输经营许可证",
+      "asset_type": "certification",
+      "related_product": "危险废物处置业务",
+      "quantitative_info": null,
+      "quote": "大地海洋已取得...《道路运输经营许可证》"
+    },
+    {
+      "name": "城市生活垃圾经营性清扫、收集、运输服务许可证",
+      "asset_type": "certification",
+      "related_product": "家庭废弃物回收业务",
+      "quantitative_info": null,
+      "quote": "虎哥已取得《城市生活垃圾经营性清扫、收集、运输服务许可证》"
+    },
+    {
+      "name": "质量管理体系认证证书等",
+      "asset_type": "certification",
+      "related_product": "公司整体",
+      "quantitative_info": "质量管理体系认证证书、环境管理体系认证证书、职业健康安全管理体系认证证书、电器电子产品尽责循环管理体系认证证书",
+      "quote": "公司...取得了质量管理体系认证证书、环境管理体系认证证书、职业健康安全管理体系认证证书、电器电子产品尽责循环管理体系认证证书"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "43.23%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 43.23%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "33.91%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 33.91%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司废弃资源综合利用形成的产品主要为废矿物油以及废纸、废玻璃、废金属、废塑料等再生资源，其价格主要受市场供需情况影响，此外原油、铜、铁矿石等大宗商品的价格波动也会对其产生一定影响。",
+      "related_entity": null,
+      "related_product": "危险废物资源化利用产品、电子废物拆解处理产物、家庭废弃物回收及资源化利用服务",
+      "quote": "产品价格下降的风险 ... 如果工业原料的需求下降，或者大宗商品价格下跌，将导致公司再生资源产品销售价格面临下行风险，从而对公司的经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着危废市场竞争的加剧，危废处理价格面临下降的风险。若公司不能通过拓宽客户群等方式抵消服务价格下降的风险，公司的经营业绩将受到影响。",
+      "related_entity": null,
+      "related_product": "危险废物处置业务",
+      "quote": "服务价格调整的风险 ... 随着危废市场竞争的加剧，危废处理价格面临下降的风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "2024年1月1日起，国家停征废弃电器电子产品处理基金，改为专项资金‘以奖代补’新模式。2025年废弃电器电子产品处理专项资金为50亿元，与历史年度相比出现较大幅度下降。补贴额度大幅下调导致电子废物拆解业务毛利率大幅下降。",
+      "related_entity": null,
+      "related_product": "电子废物拆解处理业务",
+      "quote": "2025年度公司业绩变动主要受废弃电器电子产品处理补贴政策变更的影响。... 国家对废弃电器电子产品企业的补贴额度与历史年度相比出现较大幅度下降。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "废弃电器电子产品处理专项资金收入估计差异对经营业绩产生影响的风险。公司根据期望值或最可能发生的金额确认专项资金收入，如果后续实际分配金额与估计存在差异，将对后续年度经营业绩产生影响。",
+      "related_entity": null,
+      "related_product": "电子废物拆解处理业务",
+      "quote": "废弃电器电子产品处理专项资金收入估计差异对经营业绩产生影响的风险 ... 如果后续实际划归2025年年度的专项资金金额及其他参数与公司的估计存在差异，产生的收入变动将调整2026年度营业收入，从而对2026年度的经营业绩产生影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "在公司的生产运营过程中，涉及多种危险废物的处置、利用及相关处理工作。若在日常生产经营中，员工操作不当，可能导致危险废物泄漏，造成环境污染。",
+      "related_entity": null,
+      "related_product": "危险废物处置业务、电子废物拆解处理业务",
+      "quote": "环保与安全生产的风险 ... 若在日常生产经营中，员工在危险废物处置及利用或电子废物拆解处理过程中操作不当，可能导致危险废物泄漏，造成环境污染"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "应收拆解处理基金和专项资金坏账准备计提增加的风险。未来专项资金执行情况尚不明确，若各年回款金额低于当年确认的收入金额，应收账款逐年增加，将导致坏账准备计提金额增加。",
+      "related_entity": null,
+      "related_product": "应收基金补贴款",
+      "quote": "应收拆解处理基金和专项资金坏账准备计提增加的风险 ... 若各年回款金额低于当年确认的拆解处理基金和专项资金收入金额，应收拆解处理基金和专项资金逐年增加，将导致应收账款坏账准备计提金额增加"
+    },
+    {
+      "risk_type": "other",
+      "description": "管理风险。公司在业务规模、资产规模、人员数量增长的同时，在战略投资、运营管理、财务管理、内部控制、协同整合等方面也将面临更多的挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "管理风险 ... 如果公司管理层不能及时应对...将给公司带来较大的管理风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人力成本持续上涨风险。家庭废弃物回收业务涉及上千名上门回收人员。随着经济发展、人均生活水平及劳动力保障标准的提升，以及适龄劳动力供给的持续缩减，人力成本面临趋势性上涨压力。",
+      "related_entity": null,
+      "related_product": "家庭废弃物回收业务",
+      "quote": "人力成本持续上涨风险 ... 人力成本是公司经营成本的重要组成部分。家庭废弃物回收业务涉及上千名上门回收人员。"
+    }
+  ]
+}

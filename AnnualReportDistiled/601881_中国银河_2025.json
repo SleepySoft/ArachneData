@@ -1,0 +1,383 @@
+{
+  "company_name_mentioned": "中国银河证券股份有限公司",
+  "produces": [
+    {
+      "name": "财富管理业务",
+      "type": "service",
+      "revenue_proportion": "占公司营业收入的47.60%",
+      "quote": "财富管理业务营业收入人民币134.72亿元，占公司营业收入的47.60%"
+    },
+    {
+      "name": "投资交易业务",
+      "type": "service",
+      "revenue_proportion": "占公司营业收入的24.82%",
+      "quote": "投资交易业务营业收入人民币70.26亿元，占公司营业收入的24.82%"
+    },
+    {
+      "name": "国际业务",
+      "type": "service",
+      "revenue_proportion": "占公司营业收入的9.08%",
+      "quote": "国际业务营业收入人民币25.69亿元，占公司营业收入的9.08%"
+    },
+    {
+      "name": "母子公司一体化业务",
+      "type": "service",
+      "revenue_proportion": "占公司营业收入的9.77%",
+      "quote": "母子公司一体化业务营业收入人民币27.67亿元，占公司营业收入的9.77%"
+    },
+    {
+      "name": "机构业务",
+      "type": "service",
+      "revenue_proportion": "占公司营业收入的6.06%",
+      "quote": "机构业务营业收入人民币17.14亿元，占公司营业收入的6.06%"
+    },
+    {
+      "name": "投资银行业务",
+      "type": "service",
+      "revenue_proportion": "占公司营业收入的2.07%",
+      "quote": "投资银行业务营业收入人民币5.85亿元，占公司营业收入的2.07%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "业务及管理费",
+      "target_product": "公司综合运营",
+      "cost_proportion": "占营业支出的92.43%",
+      "quote": "业务及管理费较2024年度增加12.10%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "资本市场投融资",
+      "source_product": "投资银行业务",
+      "quote": "为各类型企业和政府客户提供一站式投资银行服务，包括股权融资、债券融资、结构化融资、财务顾问及多样化融资解决方案等金融服务"
+    },
+    {
+      "name": "居民财富管理",
+      "source_product": "财富管理业务",
+      "quote": "切实做好老百姓身边的理财顾问"
+    },
+    {
+      "name": "服务国家战略",
+      "source_product": "公司整体业务",
+      "quote": "服务国家重大科技项目、战略性新兴产业和未来前沿型企业"
+    },
+    {
+      "name": "实体经济风险管理",
+      "source_product": "期货及衍生品业务",
+      "quote": "通过“强源助企”、“稳企安农”等重点项目为实体企业提供从套期保值方案到交割流程指导等一站式服务体系"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王晟",
+      "role": "执行董事、董事长、执行委员会主任",
+      "quote": "公司负责人王晟"
+    },
+    {
+      "name": "薛军",
+      "role": "执行董事、副董事长、总裁、执行委员会副主任",
+      "quote": "主管会计工作负责人薛军"
+    },
+    {
+      "name": "罗黎明",
+      "role": "副总裁、执行委员会委员、首席信息官",
+      "quote": "罗黎明 男 50 至今 - - - - 131.96 否"
+    },
+    {
+      "name": "梁世鹏",
+      "role": "执行委员会委员、合规总监、首席风险官（报告期后离任）",
+      "quote": "梁世鹏 执行委员会委员、合规总监、首席风险官 男 56 - - - - 125.96 否"
+    },
+    {
+      "name": "刘冰",
+      "role": "执行委员会委员、业务总监、董事会秘书",
+      "quote": "刘 冰 执行委员会委员、业务总监、董事会秘书 男 54 至今 - - - - 125.96 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国银河金融控股有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的控股股东，报告期末持有本公司已发行股本的47.43%",
+      "quote": "银河金控 指 中国银河金融控股有限责任公司，本公司的控股股东，报告期末持有本公司已发行股本的47.43%"
+    },
+    {
+      "name": "中央汇金投资有限责任公司",
+      "relation_type": "investor",
+      "business_details": "报告期末持有银河金控69.07%股权",
+      "quote": "汇金公司 指 中央汇金投资有限责任公司，报告期末持有银河金控69.07%股权"
+    },
+    {
+      "name": "中国投资有限责任公司",
+      "relation_type": "investor",
+      "business_details": "报告期末持有汇金公司100%股权",
+      "quote": "中投公司 指 中国投资有限责任公司，报告期末持有汇金公司100%股权"
+    },
+    {
+      "name": "银河期货有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司，主要业务包括商品期货经纪、金融期货经纪等",
+      "quote": "银河期货 指 银河期货有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "银河国际控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的境外全资子公司，为全球机构客户、企业客户和零售客户提供证券及期货经纪、投资银行等服务",
+      "quote": "银河国际控股 指 中国银河国际控股有限公司，为本公司的境外全资子公司"
+    },
+    {
+      "name": "银河金汇证券资产管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司，从事证券资产管理业务",
+      "quote": "银河金汇 指 银河金汇证券资产管理有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "银河源汇投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司，使用自有资金进行股权投资或债权投资",
+      "quote": "银河源汇 指 银河源汇投资有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "银河创新资本管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司，从事私募股权基金管理业务",
+      "quote": "银河创新资本 指 银河创新资本管理有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "安永华明会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的境内会计师事务所",
+      "quote": "公司聘请的会计师事务所（境内） 名称 安永华明会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "财富管理业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "13,471,647,340.02元",
+      "revenue_proportion": null,
+      "gross_margin": "56.81%",
+      "yoy_change": "营业收入较上年增减（%） 28.36",
+      "quote": "财富管理业务 13,471,647,340.02 5,818,779,502.73 56.81 28.36"
+    },
+    {
+      "name": "投资交易业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,026,017,998.15元",
+      "revenue_proportion": null,
+      "gross_margin": "92.57%",
+      "yoy_change": "营业收入较上年增减（%） 10.76",
+      "quote": "投资交易业务 7,026,017,998.15 521,854,624.62 92.57 10.76"
+    },
+    {
+      "name": "国际业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,568,513,564.51元",
+      "revenue_proportion": null,
+      "gross_margin": "23.23%",
+      "yoy_change": "营业收入较上年增减（%） 18.23",
+      "quote": "国际业务 2,568,513,564.51 1,971,804,455.30 23.23 18.23"
+    },
+    {
+      "name": "母子公司一体化业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,766,500,400.22元",
+      "revenue_proportion": null,
+      "gross_margin": "42.88%",
+      "yoy_change": "营业收入较上年增减（%） 11.16",
+      "quote": "母子公司一体化业务 2,766,500,400.22 1,580,263,812.90 42.88 11.16"
+    },
+    {
+      "name": "机构业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,714,321,579.93元",
+      "revenue_proportion": null,
+      "gross_margin": "82.52%",
+      "yoy_change": "营业收入较上年增减（%） 508.20",
+      "quote": "机构业务 1,714,321,579.93 299,580,110.22 82.52 508.20"
+    },
+    {
+      "name": "投资银行业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "585,113,645.92元",
+      "revenue_proportion": null,
+      "gross_margin": "15.54%",
+      "yoy_change": "营业收入较上年增减（%） 22.18",
+      "quote": "投资银行业务 585,113,645.92 494,166,900.37 15.54 22.18"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "证券营业部",
+      "metric_type": "other",
+      "value": "458家",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司拥有458家证券营业部"
+    },
+    {
+      "product": "客户",
+      "metric_type": "other",
+      "value": "超过1,930万户",
+      "period": "2025年末",
+      "quote": "2025年末，公司客户总数超过1,930万户"
+    },
+    {
+      "product": "金融产品保有规模",
+      "metric_type": "other",
+      "value": "2,519.48亿元",
+      "period": "2025年末",
+      "quote": "2025年末，公司金融产品保有规模为人民币2,519.48亿元"
+    },
+    {
+      "product": "融资融券余额",
+      "metric_type": "other",
+      "value": "1,362亿元",
+      "period": "2025年末",
+      "quote": "2025年末，公司融资融券余额为人民币1,362亿元"
+    },
+    {
+      "product": "股票质押业务待购回余额",
+      "metric_type": "other",
+      "value": "195亿元",
+      "period": "2025年末",
+      "quote": "股票质押业务待购回余额为人民币195亿元"
+    },
+    {
+      "product": "PB业务规模",
+      "metric_type": "other",
+      "value": "4,814亿元",
+      "period": "2025年末",
+      "quote": "业务规模为人民币4,814亿元，较上年末增长38.3%"
+    },
+    {
+      "product": "托管与基金服务在线产品规模",
+      "metric_type": "other",
+      "value": "2,950.81亿元",
+      "period": "2025年末",
+      "quote": "2025年末，公司托管与基金服务在线产品规模为人民币2,950.81亿元"
+    },
+    {
+      "product": "银河金汇受托资产管理规模",
+      "metric_type": "other",
+      "value": "907.02亿元",
+      "period": "2025年末",
+      "quote": "2025年末，银河金汇受托资产管理规模为人民币907.02亿元"
+    },
+    {
+      "product": "银河创新资本在管基金规模",
+      "metric_type": "other",
+      "value": "364.79亿元",
+      "period": "2025年末",
+      "quote": "2025年末，银河创新资本在管基金32只，备案总规模为人民币364.79亿元"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "分支机构布局优化",
+      "project_type": "construction_project",
+      "location": "全国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "报告期内完成458家证券营业部的设立、撤销、迁址等调整。",
+      "expected_completion_time": null,
+      "quote": "截至报告期末，公司拥有458家证券营业部。报告期内，公司...完成了4家证券营业部的撤销工作。报告期内完成分支机构地址变更共计57家"
+    },
+    {
+      "name": "国际业务网络扩展",
+      "project_type": "capacity_expansion",
+      "location": "香港、新加坡、马来西亚、印度尼西亚、泰国、韩国等",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "通过联昌并购项目将国际业务网络从中国香港延伸覆盖至东南亚等地，成为在亚洲地区网络最广的中资券商之一。",
+      "expected_completion_time": null,
+      "quote": "公司通过联昌并购项目将国际业务网络从中国香港延伸覆盖至新加坡、马来西亚、印度尼西亚、泰国、韩国等地"
+    },
+    {
+      "name": "PB业务增长",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "业务规模为人民币4,814亿元，较上年末增长38.3%",
+      "progress": "业务规模和客户数量均创历史新高。",
+      "expected_completion_time": null,
+      "quote": "2025年末，公司PB业务各项指标均创历史新高，其中，客户数量达8,040户...；业务规模为人民币4,814亿元，较上年末增长38.3%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "AI技术应用与数字化建设",
+      "asset_type": "technical_platform",
+      "related_product": "财富管理、风险管理、研究等业务",
+      "quantitative_info": "累计服务客户130万人次；完成多个风险管理场景智能体建设；算力利用率提升20%，AI敏捷开发新范式初步形成，多业务场景响应效率提升40%",
+      "quote": "落地营销助手大模型应用...构建全场景数字人服务体系，累计服务客户130万人次...完成大模型平台信创改造，算力利用率提升20%，AI敏捷开发新范式初步形成，多业务场景响应效率提升40%"
+    },
+    {
+      "name": "多项证券业务资格",
+      "asset_type": "certification",
+      "related_product": "证券业务全领域",
+      "quantitative_info": "包含经中国证监会核准或认可的业务资格、交易所核准的业务资格等多类数十项资格",
+      "quote": "公司具有以下具体业务资格：1、经中国证监会核准或认可的业务资格...2、交易所核准的业务资格...3、中国证券业协会核准的业务资格..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "customer_concentration",
+      "value": "未达到单独披露标准",
+      "related_entity": null,
+      "period": null,
+      "quote": "（2）重大采购合同、重大销售合同的履行情况 □适用 √不适用"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "面临竞争的国际化及汇率风险等。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "此外，本公司还面临竞争的国际化及汇率风险等。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "因国家法律法规和监管政策调整，如业务管理和规范未能及时跟进，而造成的法律以及合规风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本公司面临的风险主要包括：因国家法律法规和监管政策调整，如业务管理和规范未能及时跟进，而造成的法律以及合规风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "因业务模式转型、创新业务开展和新技术应用等方面的变化，而带来的内部运营及管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "因业务模式转型、创新业务开展和新技术应用等方面的变化，而带来的内部运营及管理风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "本公司投资资产或挂钩标的因市场价格变动可能导致的市场风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本公司投资资产或挂钩标的因市场价格变动可能导致的市场风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "因借款人或交易对手无法履约而导致的信用风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "因借款人或交易对手无法履约而导致的信用风险"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "本公司在履行偿付义务时遇到资金短缺而产生的流动性风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本公司在履行偿付义务时遇到资金短缺而产生的流动性风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "因内部流程管理疏漏、信息系统故障、从业人员行为不当或外部发生不利事件导致损失的操作风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "因内部流程管理疏漏、信息系统故障、从业人员行为不当或外部发生不利事件导致损失的操作风险"
+    }
+  ]
+}

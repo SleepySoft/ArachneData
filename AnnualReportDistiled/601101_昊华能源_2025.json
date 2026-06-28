@@ -1,0 +1,425 @@
+{
+  "company_name_mentioned": "北京昊华能源股份有限公司",
+  "produces": [
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": "自产煤炭业务收入598,817.58万元，占公司主营业务收入的74.68%（计算依据：自产煤炭营业收入 / (自产煤炭营业收入+煤化工营业收入+煤炭物流营业收入+铁路运输营业收入)）。",
+      "quote": "主要产品包括煤炭和甲醇两大类。煤炭产品以动力煤为主，主要供应电厂燃料使用；同时，红墩子煤业所产气煤经洗选后，可用作炼焦配煤或气化原料，具备一定的产品差异化优势。"
+    },
+    {
+      "name": "甲醇",
+      "type": "material",
+      "revenue_proportion": "煤化工业务收入93,756.11万元，占公司主营业务收入的11.69%。",
+      "quote": "甲醇产品由国泰化工生产，主要作为基础化工原料，供应周边市场。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原料煤",
+      "target_product": "甲醇",
+      "cost_proportion": "占煤化工成本比例44.62%。",
+      "quote": "原料煤 38,507.93 44.62"
+    },
+    {
+      "name": "燃料煤",
+      "target_product": "甲醇",
+      "cost_proportion": "占煤化工成本比例10.75%。",
+      "quote": "燃料煤 9,279.62 10.75"
+    },
+    {
+      "name": "铁路运输服务",
+      "target_product": "煤炭物流",
+      "cost_proportion": "前五名供应商采购额中，中国铁路呼和浩特局集团有限公司包头铁路物流中心采购额32,869.26万元，占年度采购总额比例7.47%。",
+      "quote": "中国铁路呼和浩特局集团有限公司包头铁路物流中心 32,869.26 7.47"
+    },
+    {
+      "name": "电力",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "电力成本 22,334.02 6.58"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力行业",
+      "source_product": "动力煤",
+      "quote": "煤炭产品以动力煤为主，主要供应电厂燃料使用。"
+    },
+    {
+      "name": "冶金行业",
+      "source_product": "气煤",
+      "quote": "红墩子煤业所产气煤经洗选后，可用作炼焦配煤或气化原料。"
+    },
+    {
+      "name": "煤化工行业",
+      "source_product": "气煤",
+      "quote": "红墩子煤业所产气煤经洗选后，可用作炼焦配煤或气化原料。"
+    },
+    {
+      "name": "化工行业",
+      "source_product": "甲醇",
+      "quote": "甲醇产品由国泰化工生产，主要作为基础化工原料，供应周边市场。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "薛令光",
+      "role": "董事长、总经理",
+      "quote": "公司负责人薛令光、主管会计工作负责人张明川及会计机构负责人（会计主管人员）李鸣声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张明川",
+      "role": "董事、副总经理、总会计师、董事会秘书",
+      "quote": "张明川 董事、副总经理、总会计师、董事会秘书"
+    },
+    {
+      "name": "厚伯茏",
+      "role": "董事、党委副书记、工会主席",
+      "quote": "厚伯茏 董事、党委副书记、工会主席"
+    },
+    {
+      "name": "柴有国",
+      "role": "董事",
+      "quote": "柴有国 董事"
+    },
+    {
+      "name": "刘国立",
+      "role": "董事",
+      "quote": "刘国立 董事"
+    },
+    {
+      "name": "李长立",
+      "role": "董事",
+      "quote": "李长立 董事"
+    },
+    {
+      "name": "贺佑国",
+      "role": "独立董事",
+      "quote": "贺佑国 独立董事"
+    },
+    {
+      "name": "张保连",
+      "role": "独立董事",
+      "quote": "张保连 独立董事"
+    },
+    {
+      "name": "栾华",
+      "role": "独立董事",
+      "quote": "栾 华 独立董事"
+    },
+    {
+      "name": "宋刚",
+      "role": "独立董事",
+      "quote": "宋 刚 独立董事"
+    },
+    {
+      "name": "张立生",
+      "role": "副总经理、总工程师",
+      "quote": "副总经理 总工程师 张立生"
+    },
+    {
+      "name": "张广山",
+      "role": "副总经理（原总工程师）",
+      "quote": "张广山 副总经理 总工程师（原）"
+    },
+    {
+      "name": "杜磊",
+      "role": "副总经理",
+      "quote": "杜 磊 副总经理"
+    },
+    {
+      "name": "马成甫",
+      "role": "副总经理",
+      "quote": "马成甫 副总经理"
+    },
+    {
+      "name": "杜峰",
+      "role": "总法律顾问、首席合规官",
+      "quote": "杜 峰 总法律顾问 首席合规官"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京能源集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例63.31%",
+      "quote": "北京能源集团有限责任公司 911,613,544 63.31"
+    },
+    {
+      "name": "鄂尔多斯市昊华精煤有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为煤炭生产、销售",
+      "quote": "昊华精煤 子公司 煤炭生产、销售"
+    },
+    {
+      "name": "杭锦旗西部能源开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为矿产资源勘探及相关业务",
+      "quote": "西部能源 子公司 矿产资源勘探及相关业务"
+    },
+    {
+      "name": "宁夏红墩子煤业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为煤炭生产、销售",
+      "quote": "红墩子煤业 子公司 煤炭生产、销售"
+    },
+    {
+      "name": "鄂尔多斯市昊华国泰化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为煤化工产品制造及销售",
+      "quote": "国泰化工 子公司 煤化工产品制造及销售"
+    },
+    {
+      "name": "鄂尔多斯市东铜铁路物流有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为铁路货物运输",
+      "quote": "东铜铁路 子公司 铁路货物运输"
+    },
+    {
+      "name": "北京昊华鑫达商贸有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为煤炭销售",
+      "quote": "昊华鑫达 子公司 煤炭销售"
+    },
+    {
+      "name": "鄂尔多斯市昊华鑫通物资有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为采购代理服务",
+      "quote": "昊华鑫通 子公司 采购代理服务"
+    },
+    {
+      "name": "鄂尔多斯市昊华煤炭运销有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为煤炭销售",
+      "quote": "昊华运销 子公司 煤炭销售"
+    },
+    {
+      "name": "北京京能电力股份有限公司",
+      "relation_type": "customer",
+      "business_details": "属于同一控制人控制的客户",
+      "quote": "北京京能电力股份有限公司按照同一控制口径合并计算列示。"
+    },
+    {
+      "name": "新包神铁路有限责任公司",
+      "relation_type": "other",
+      "business_details": null,
+      "quote": "新包神 指 新包神铁路有限责任公司"
+    },
+    {
+      "name": "北京京煤集团有限责任公司",
+      "relation_type": "other",
+      "business_details": "控股股东的全资子公司",
+      "quote": "京煤集团 指 北京京煤集团有限责任公司"
+    },
+    {
+      "name": "中国中煤能源集团有限公司",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "中煤集团 指 中国中煤能源集团有限公司"
+    },
+    {
+      "name": "天圆全会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "审计机构",
+      "quote": "天圆全 指 天圆全会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "京能集团财务有限公司",
+      "relation_type": "other",
+      "business_details": "关联方财务公司",
+      "quote": "京能财务 指 京能集团财务有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "自产煤炭",
+      "segment_type": "business_unit",
+      "revenue_amount": "598,817.58万元",
+      "revenue_proportion": null,
+      "gross_margin": "43.33%",
+      "yoy_change": "营业收入比上年减少19.69%",
+      "quote": "自产煤炭 598,817.58 339,341.25 43.33 -19.69 -3.34 减少9.59个百分点"
+    },
+    {
+      "name": "煤化工",
+      "segment_type": "business_unit",
+      "revenue_amount": "93,756.11万元",
+      "revenue_proportion": null,
+      "gross_margin": "7.96%",
+      "yoy_change": "营业收入比上年增加14.82%",
+      "quote": "煤化工 93,756.11 86,293.44 7.96 14.82 -5.12 增加19.34个百分点"
+    },
+    {
+      "name": "煤炭物流",
+      "segment_type": "business_unit",
+      "revenue_amount": "97,873.00万元",
+      "revenue_proportion": null,
+      "gross_margin": "5.71%",
+      "yoy_change": "营业收入比上年增加42.63%",
+      "quote": "煤炭物流 97,873.00 92,286.90 5.71 42.63 60.70 减少10.60个百分点"
+    },
+    {
+      "name": "铁路运输",
+      "segment_type": "business_unit",
+      "revenue_amount": "8,984.44万元",
+      "revenue_proportion": null,
+      "gross_margin": "62.88%",
+      "yoy_change": "营业收入比上年减少28.39%",
+      "quote": "铁路运输 8,984.44 3,335.03 62.88 -28.39 -17.74 减少4.81个百分点"
+    },
+    {
+      "name": "内蒙地区",
+      "segment_type": "region",
+      "revenue_amount": "651,272.12万元",
+      "revenue_proportion": null,
+      "gross_margin": "39.82%",
+      "yoy_change": "营业收入比上年减少9.24%",
+      "quote": "内蒙 651,272.12 391,923.29 39.82 -9.24 5.01 减少8.16个百分点"
+    },
+    {
+      "name": "宁夏地区",
+      "segment_type": "region",
+      "revenue_amount": "148,159.02万元",
+      "revenue_proportion": null,
+      "gross_margin": "12.71%",
+      "yoy_change": "营业收入比上年减少22.38%",
+      "quote": "宁夏 148,159.02 129,333.34 12.71 -22.38 -0.71 减少19.05个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "煤炭",
+      "metric_type": "production_volume",
+      "value": "1,843.26万吨",
+      "period": "2025年",
+      "quote": "2025年，公司实现煤炭产量1,843万吨，同比增加36万吨，再创历史纪录。"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "sales_volume",
+      "value": "1,833.47万吨",
+      "period": "2025年",
+      "quote": "甲醇销量完成51.61万吨，创历史最高水平。"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "inventory_volume",
+      "value": "12.23万吨",
+      "period": "2025年末",
+      "quote": "煤炭 万吨 1,843.26 1,833.47 12.23 2.01 1.32 275.15"
+    },
+    {
+      "product": "甲醇",
+      "metric_type": "production_volume",
+      "value": "51.72万吨",
+      "period": "2025年",
+      "quote": "甲醇 万吨 51.72 51.61 1.47 15.01 15.20 8.09"
+    },
+    {
+      "product": "甲醇",
+      "metric_type": "sales_volume",
+      "value": "51.61万吨",
+      "period": "2025年",
+      "quote": "甲醇 万吨 51.72 51.61 1.47 15.01 15.20 8.09"
+    },
+    {
+      "product": "甲醇",
+      "metric_type": "inventory_volume",
+      "value": "1.47万吨",
+      "period": "2025年末",
+      "quote": "甲醇 万吨 51.72 51.61 1.47 15.01 15.20 8.09"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "红墩子煤业9煤开采准备工作",
+      "project_type": "capacity_expansion",
+      "location": "宁夏",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加速推进",
+      "expected_completion_time": null,
+      "quote": "一是重点项目稳步推进。红墩子煤业9煤开采准备工作加速推进；"
+    },
+    {
+      "name": "西部能源铁路专用线项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目建设正式开工，合规证照全部取得",
+      "expected_completion_time": null,
+      "quote": "西部能源铁路专用线项目建设正式开工，合规证照全部取得。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智能化开采技术",
+      "asset_type": "core_technology",
+      "related_product": "煤炭",
+      "quantitative_info": "采煤工作面全部实现智能化开采，三个煤矿通过中级智能化矿井验收",
+      "quote": "智能化建设成效显著。采煤工作面全部实现智能化开采，三个煤矿通过中级智能化矿井验收，为减人、增安、提效奠定了基础。"
+    },
+    {
+      "name": "450米超长智能化综采工作面",
+      "asset_type": "technical_platform",
+      "related_product": "煤炭",
+      "quantitative_info": null,
+      "quote": "昊华精煤首套450米超长智能化综采工作面地面联合试运转圆满成功，智能化采矿迈出关键一步。"
+    },
+    {
+      "name": "分布式光伏项目",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": "昊华精煤5.84兆瓦分布式光伏项目建成并网，西部能源、国泰化工光伏累计发电1,045万度，减排二氧化碳6,489吨",
+      "quote": "昊华精煤5.84兆瓦分布式光伏项目建成并网，西部能源、国泰化工光伏累计发电1,045万度，减排二氧化碳6,489吨。"
+    },
+    {
+      "name": "碳排放配额盈余",
+      "asset_type": "other",
+      "related_product": "甲醇",
+      "quantitative_info": "8.58万吨",
+      "quote": "国泰化工单位产品综合能耗创历史最优水平，碳排放配额盈余8.58万吨。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "221,584.15万元，占年度销售总额27.61%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额221,584.15万元，占年度销售总额27.61%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "86,494.45万元，占年度采购总额19.66%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额86,494.45万元，占年度采购总额19.66%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "若未来煤炭和甲醇市场价格发生较大幅度波动，会对公司收入和利润造成影响。",
+      "related_entity": null,
+      "related_product": "煤炭，甲醇",
+      "quote": "2.产品价格波动的风险。若未来煤炭和甲醇市场价格发生较大幅度波动，会对公司收入和利润造成影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "煤矿项目并购存在不确定性，各类煤矿项目估值水平居高不下，对公司今后并购煤矿项目产生不利影响，产能扩张压力进一步增大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.煤矿项目并购存在不确定性。近年来，各类煤矿项目估值水平居高不下，对公司今后并购煤矿项目产生不利影响，产能扩张压力进一步增大。"
+    },
+    {
+      "risk_type": "other",
+      "description": "作为以煤炭和煤化工为主业的能源上市公司，安全风险高于其他一般行业，不能完全排除因发生安全事故而导致公司正常生产经营活动受到不利影响的可能性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.安全生产风险。多年来公司积累了丰富的煤炭安全生产管理经验...尽管如此，作为以煤炭和煤化工为主业的能源上市公司，安全风险高于其他一般行业，不能完全排除因发生安全事故而导致公司正常生产经营活动受到不利影响的可能性。"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "company_name_mentioned": "风神轮胎股份有限公司",
+  "produces": [
+    {
+      "name": "卡客车轮胎",
+      "type": "device",
+      "revenue_proportion": "国内业务收入3,838,660,688.31元，占比52.68%；国外业务收入3,448,104,317.71元，占比47.32%",
+      "quote": "公司主要生产“风神”“风力”“卡之力”“傲龙”“河南”等多个品牌一千多个规格品种的卡客车、非公路轮胎...公司具有全系列卡客车和非公路轮胎的设计和生产能力"
+    },
+    {
+      "name": "非公路轮胎（含巨胎）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要生产...非公路轮胎...非公路轮胎已成为新发展引擎"
+    }
+  ],
+  "procures": [
+    {
+      "name": "天然橡胶",
+      "target_product": "轮胎",
+      "cost_proportion": "占生产成本比重超30%",
+      "quote": "天然橡胶价格长期维持在14000-16000元/吨的高位区间，占生产成本比重超30%"
+    },
+    {
+      "name": "合成橡胶",
+      "target_product": "轮胎",
+      "cost_proportion": null,
+      "quote": "合成橡胶主要通过中国石油、中国石化等长期战略合作伙伴采购"
+    },
+    {
+      "name": "钢丝帘线",
+      "target_product": "轮胎",
+      "cost_proportion": null,
+      "quote": "钢丝帘线...等原辅材料"
+    },
+    {
+      "name": "炭黑",
+      "target_product": "轮胎",
+      "cost_proportion": null,
+      "quote": "炭黑...等原辅材料"
+    }
+  ],
+  "applications": [
+    {
+      "name": "卡车",
+      "source_product": "卡客车轮胎",
+      "quote": "卡车（载重车、轻卡、自卸车、牵引车）"
+    },
+    {
+      "name": "客车",
+      "source_product": "卡客车轮胎",
+      "quote": "客车、公交车等运输车辆"
+    },
+    {
+      "name": "工程机械车辆",
+      "source_product": "非公路轮胎",
+      "quote": "公司是徐工、三一等国内工程机械车辆生产厂家的战略供应商"
+    },
+    {
+      "name": "矿山",
+      "source_product": "非公路轮胎",
+      "quote": "产品畅销全球100多个国家和地区...公司巨胎平均行驶里程达到国产轮胎领先水平"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王建军",
+      "role": "董事长、党委书记、总经理",
+      "quote": "公司负责人王建军...法定代表人 王建军"
+    },
+    {
+      "name": "刘春",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人刘春"
+    },
+    {
+      "name": "马嘉宾",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）马嘉宾"
+    },
+    {
+      "name": "张琳琳",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张琳琳"
+    },
+    {
+      "name": "张功富",
+      "role": "独立董事",
+      "quote": "张功富 独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国化工橡胶有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "中国化工橡胶有限公司...本公司母公司为中国化工橡胶有限公司"
+    },
+    {
+      "name": "中国中化控股有限责任公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "中国中化 指 中国中化控股有限责任公司...实际控制人情况...中央国资管理机构"
+    },
+    {
+      "name": "PrometeonTyreGroupS.r.l. (PTN)",
+      "relation_type": "joint_venture",
+      "business_details": "联营企业，持股10%",
+      "quote": "PTN 指 PrometeonTyreGroupS.r.l.、百得安...公司持有...PTN10%股权"
+    },
+    {
+      "name": "倍耐力轮胎（焦作）有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "联营企业，持股20%",
+      "quote": "倍耐力（焦作） 指 倍耐力轮胎（焦作）有限公司...持有倍耐力轮胎（焦作）有限公司20%股权"
+    },
+    {
+      "name": "徐工集团工程机械股份有限公司（徐工）",
+      "relation_type": "customer",
+      "business_details": "战略供应商",
+      "quote": "公司是徐工、三一等国内工程机械车辆生产厂家的战略供应商"
+    },
+    {
+      "name": "三一集团",
+      "relation_type": "customer",
+      "business_details": "战略供应商",
+      "quote": "公司是徐工、三一等国内工程机械车辆生产厂家的战略供应商"
+    },
+    {
+      "name": "中国石油",
+      "relation_type": "supplier",
+      "business_details": "长期战略合作伙伴，采购合成橡胶",
+      "quote": "合成橡胶主要通过中国石油、中国石化等长期战略合作伙伴采购"
+    },
+    {
+      "name": "中国石化",
+      "relation_type": "supplier",
+      "business_details": "长期战略合作伙伴，采购合成橡胶",
+      "quote": "合成橡胶主要通过中国石油、中国石化等长期战略合作伙伴采购"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "替换市场",
+      "segment_type": "customer_type",
+      "revenue_amount": "277,583.54万元",
+      "revenue_proportion": "38.09%",
+      "gross_margin": "4.75%",
+      "yoy_change": "11.64%",
+      "quote": "替换 277,583.54 38.09% 248,645.94 38.36% 11.64% -0.27%"
+    },
+    {
+      "name": "配套市场",
+      "segment_type": "customer_type",
+      "revenue_amount": "106,282.53万元",
+      "revenue_proportion": "14.59%",
+      "gross_margin": "3.81%",
+      "yoy_change": "28.21%",
+      "quote": "配套 106,282.53 14.59% 82,899.01 12.79% 28.21% 1.80%"
+    },
+    {
+      "name": "出口市场",
+      "segment_type": "customer_type",
+      "revenue_amount": "344,810.43万元",
+      "revenue_proportion": "47.32%",
+      "gross_margin": "25.90%",
+      "yoy_change": "8.89%",
+      "quote": "出口 344,810.43 47.32% 316,667.97 48.85% 8.89% -1.53%"
+    },
+    {
+      "name": "国内业务",
+      "segment_type": "region",
+      "revenue_amount": "3,838,660,688.31元",
+      "revenue_proportion": "52.68%",
+      "gross_margin": "4.49%",
+      "yoy_change": "15.78%",
+      "quote": "国内业务 3,838,660,688.31 3,666,233,438.01 4.49 15.78 18.60 减少2.27个百分点"
+    },
+    {
+      "name": "国外业务",
+      "segment_type": "region",
+      "revenue_amount": "3,448,104,317.71元",
+      "revenue_proportion": "47.32%",
+      "gross_margin": "25.90%",
+      "yoy_change": "8.89%",
+      "quote": "国外业务 3,448,104,317.71 2,554,988,679.16 25.90 8.89 12.81 减少2.58个百分点"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "6,223,939,702.57元",
+      "revenue_proportion": "85.41%",
+      "gross_margin": "16.47%",
+      "yoy_change": "10.10%",
+      "quote": "经销 6,223,939,702.57 5,198,866,934.86 16.47 10.10 13.59 减少2.57个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,062,825,303.45元",
+      "revenue_proportion": "14.59%",
+      "gross_margin": "3.81%",
+      "yoy_change": "28.21%",
+      "quote": "直销 1,062,825,303.45 1,022,355,182.31 3.81 28.21 31.17 减少2.17个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "卡客车轮胎",
+      "metric_type": "capacity",
+      "value": "630万套/年",
+      "period": "报告期",
+      "quote": "主要厂区或项目 卡客车轮胎 设计产能 630万套/年"
+    },
+    {
+      "product": "卡客车轮胎",
+      "metric_type": "capacity_utilization",
+      "value": "91%",
+      "period": "报告期",
+      "quote": "主要厂区或项目 卡客车轮胎 产能利用率（%） 91"
+    },
+    {
+      "product": "子午工程胎",
+      "metric_type": "capacity",
+      "value": "30万套/年",
+      "period": "报告期",
+      "quote": "子午工程胎 30万套/年"
+    },
+    {
+      "product": "子午工程胎",
+      "metric_type": "capacity_utilization",
+      "value": "77%",
+      "period": "报告期",
+      "quote": "子午工程胎 77"
+    },
+    {
+      "product": "多用途轮胎",
+      "metric_type": "capacity",
+      "value": "50万套/年",
+      "period": "报告期",
+      "quote": "多用途轮胎 50万套/年"
+    },
+    {
+      "product": "多用途轮胎",
+      "metric_type": "capacity_utilization",
+      "value": "48%",
+      "period": "报告期",
+      "quote": "多用途轮胎 48"
+    },
+    {
+      "product": "轮胎",
+      "metric_type": "production_volume",
+      "value": "6,234,598条",
+      "period": "2025年",
+      "quote": "轮胎 条 生产量 6,234,598"
+    },
+    {
+      "product": "轮胎",
+      "metric_type": "sales_volume",
+      "value": "6,184,122条",
+      "period": "2025年",
+      "quote": "轮胎 销售量 6,184,122"
+    },
+    {
+      "product": "轮胎",
+      "metric_type": "inventory_volume",
+      "value": "1,050,179条",
+      "period": "2025年末",
+      "quote": "轮胎 库存量 1,050,179"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "巨胎2万条扩能增效项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2万条巨胎",
+      "progress": "项目建设全流程有序推进...成型机成功下线，硫化机安装、动力站及配套基础设施建设按节点完成",
+      "expected_completion_time": null,
+      "quote": "巨胎2万条项目建设全流程有序推进。项目开工建设后各环节按计划高效推进，成型机成功下线，硫化机安装、动力站及配套基础设施建设按节点完成，为项目全面建成投产奠定坚实基础。"
+    },
+    {
+      "name": "锅炉煤改气项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "煤改气锅炉成功运行",
+      "expected_completion_time": null,
+      "quote": "煤改气锅炉成功运行，能源变革与绿色升级迈出关键一步"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后通过了ISO9001质量管理体系认证、IATF16949质量管理体系认证、ISO14001环境管理体系认证、ISO45001 职业健康与安全管理体系认证、ISO50001能源管理体系认证、ISO10012：2003测量管理体系认证、ISO/IEC17025实验室认证、E-MARK、美国DOT认证、欧盟ECE等多项认证"
+    },
+    {
+      "name": "IATF16949质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后通过了...IATF16949质量管理体系认证..."
+    },
+    {
+      "name": "美国DOT认证",
+      "asset_type": "certification",
+      "related_product": "轮胎",
+      "quantitative_info": null,
+      "quote": "美国DOT认证"
+    },
+    {
+      "name": "欧盟ECE认证",
+      "asset_type": "certification",
+      "related_product": "轮胎",
+      "quantitative_info": null,
+      "quote": "欧盟ECE等认证"
+    },
+    {
+      "name": "美国SMARTWAY认证",
+      "asset_type": "certification",
+      "related_product": "轮胎",
+      "quantitative_info": null,
+      "quote": "产品还通过了美国SMARTWAY认证"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入158,839,810.36元，占营业收入2.14%",
+      "quote": "研发投入合计 158,839,810.36 研发投入总额占营业收入比例（%） 2.14"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年申报专利169件，同比增加191%",
+      "quote": "2025年申报专利169件，同比增加191%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "21.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额156,948.82万元，占年度销售总额21.17%；其中前五名客户销售额中关联方销售额37,140.88万元，占年度销售总额5.01%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "29.74%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额169,380.61万元，占年度采购总额29.74%；其中前五名供应商采购额中关联方采购额43,919.08万元，占年度采购总额7.71%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争更加激烈，两极分化进一步加重；国内轮胎企业“增收不增利”成普遍现象。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争更加激烈，两极分化进一步加重...国内轮胎企业“增收不增利”成普遍现象。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "天然橡胶价格长期维持高位，占生产成本比重高，波动频繁，给成本控制带来巨大挑战。",
+      "related_entity": null,
+      "related_product": "轮胎",
+      "quote": "原材料价格波动风险...天然橡胶、合成橡胶、炭黑、钢丝帘线等主要原材料占生产成本比重高达70%左右...波动频繁且幅度大，给企业的成本控制带来巨大挑战。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "美国、欧盟等对中国轮胎发起反倾销调查或征收高额关税，贸易摩擦有“跟随转移”的可能。",
+      "related_entity": null,
+      "related_product": "轮胎",
+      "quote": "国际政治经济变动风险...美国、欧盟等多个国家和地区对中国轮胎发起反倾销调查或征收高额关税。更严峻的是，贸易摩擦有“跟随转移”的可能"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "海外业务收入和海外投资占比提升，人民币与美元等货币汇率波动直接影响收入、成本和利润。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "企业在原材料进口、产品出口、海外投资及外币资产/负债管理中，普遍使用美元等外币结算，因此人民币与美元等货币的汇率波动会直接影响企业的收入、成本和利润。"
+    },
+    {
+      "risk_type": "other",
+      "description": "全球化管理挑战：不同国家和地区的法律、政策、商业环境和文化差异，对管理提出更高要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "全球化管理挑战...不同国家和地区的法律、政策、商业环境和文化差异，对企业的管理模式、内部控制、市场营销和人力资源管理都提出了更高的要求。"
+    }
+  ]
+}

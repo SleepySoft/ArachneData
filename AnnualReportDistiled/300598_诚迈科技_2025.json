@@ -1,0 +1,538 @@
+{
+  "company_name_mentioned": "诚迈科技股份有限公司",
+  "produces": [
+    {
+      "name": "软件技术服务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重73.67%（2025年）",
+      "quote": "软件技术服务 1,635,991,598.47 73.67% ... 1,538,671,523.18 77.88% 6.32%"
+    },
+    {
+      "name": "软件定制服务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重18.66%（2025年）",
+      "quote": "软件定制服务 414,406,324.11 18.66% ... 368,210,112.05 18.64% 12.55%"
+    },
+    {
+      "name": "软硬件产品的开发和销售",
+      "type": "device",
+      "revenue_proportion": "占营业收入比重7.44%（2025年）",
+      "quote": "软硬件产品的开 发和销售 165,196,271.57 7.44% ... 58,025,690.37 2.93% 184.70%"
+    },
+    {
+      "name": "移动智能终端操作系统",
+      "type": "software",
+      "revenue_proportion": "移动智能终端解决方案收入99,625.96万元，同比增长6.41%",
+      "quote": "公司移动智能终端软件领域实现收入99,626.00万元，同比增长6.41%。"
+    },
+    {
+      "name": "智能网联汽车软件",
+      "type": "software",
+      "revenue_proportion": "智能网联汽车软件业务收入49,892.51万元，同比增长1.89%",
+      "quote": "报告期内，公司智能网联汽车软件业务领域实现收入49,892.51万元，同比增长1.89%"
+    },
+    {
+      "name": "信创电脑",
+      "type": "device",
+      "revenue_proportion": "2025年实现收入约9,060万元",
+      "quote": "公司信创电脑业务2025年实现收入约9,060万元。"
+    },
+    {
+      "name": "HongZOS操作系统（鸿诚志远）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司的商业发行版操作系统HongZOS今年已发布V5.0版本。"
+    },
+    {
+      "name": "FusionOS跨域融合整车操作系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "发布新一代跨域融合整车操作系统FusionOS4.0，已经全面适配高通、英伟达、NXP、地平线、英飞凌等芯片厂商的最新产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "职工薪酬",
+      "target_product": "软件技术服务及解决方案",
+      "cost_proportion": "占营业成本的81.78%",
+      "quote": "报告期内，公司营业成本主要是人工成本，占营业成本的81.78%。"
+    },
+    {
+      "name": "技术服务费",
+      "target_product": null,
+      "cost_proportion": "占营业成本的7.89%",
+      "quote": "技术服务费 151,752,167.97 7.89%"
+    },
+    {
+      "name": "材料费",
+      "target_product": "信创电脑等",
+      "cost_proportion": "占营业成本的5.16%",
+      "quote": "材料费 99,358,122.15 5.16%"
+    },
+    {
+      "name": "中交一公局集团有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例8.98%",
+      "quote": "1 中交一公局集团有限公司 50,964,053.79 8.98%"
+    },
+    {
+      "name": "华硕电脑（上海）有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例5.02%",
+      "quote": "2 华硕电脑（上海）有限公司 28,461,156.96 5.02%"
+    },
+    {
+      "name": "上海丕锐科技有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例4.53%",
+      "quote": "3 上海丕锐科技有限公司 25,704,721.66 4.53%"
+    },
+    {
+      "name": "江西圣宇科技有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例3.18%",
+      "quote": "4 江西圣宇科技有限公司 18,041,599.00 3.18%"
+    },
+    {
+      "name": "深圳市迪科存储科技有限公司",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例2.44%",
+      "quote": "5 深圳市迪科存储科技有限公司 13,824,073.45 2.44%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "移动智能终端（智能手机、平板电脑等）",
+      "source_product": "移动智能终端操作系统",
+      "quote": "移动智能终端 目前主要是指智能手机、平板电脑等"
+    },
+    {
+      "name": "智能网联汽车",
+      "source_product": "智能网联汽车软件",
+      "quote": "随着汽车电动化、智能化、网联化、共享化“新四化”的发展，汽车正加速从机械设备向高度数字化、信息化的智能终端转变。"
+    },
+    {
+      "name": "物联网设备（工业、能源、交通、教育、安全等）",
+      "source_product": "HongZOS操作系统",
+      "quote": "基于HongZOS开发了多个品类的硬件产品及行业应用，形成面向行业的国产化整体解决方案，已经在工业、能源、交通、教育、安全等领域展开应用推广"
+    },
+    {
+      "name": "信创电脑（党政、金融、教育、电信、医疗等行业）",
+      "source_product": "信创电脑",
+      "quote": "适用于党政、金融、教育、电信、医疗等行业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王继平",
+      "role": "董事长，实际控制人",
+      "quote": "公司负责人王继平、主管会计工作负责人黄海燕及会计机构负责人(会计主管人员)陈新裕声明...现任公司董事长。"
+    },
+    {
+      "name": "刘冰冰",
+      "role": "副董事长、总经理",
+      "quote": "刘冰冰先生...现任公司副董事长、总经理。"
+    },
+    {
+      "name": "黄海燕",
+      "role": "董事、财务总监",
+      "quote": "黄海燕女士...现任公司董事、财务总监。"
+    },
+    {
+      "name": "王艳萍",
+      "role": "董事",
+      "quote": "王艳萍女士...现任公司董事。"
+    },
+    {
+      "name": "刘荷艺",
+      "role": "董事，实际控制人之一",
+      "quote": "刘荷艺女士...现任公司董事。"
+    },
+    {
+      "name": "赵森",
+      "role": "职工代表董事、IT高级总监",
+      "quote": "赵森先生...现任公司IT高级总监、职工代表董事。"
+    },
+    {
+      "name": "王锟",
+      "role": "副总经理、董事会秘书",
+      "quote": "王锟先生...现任公司副总经理、董事会秘书。"
+    },
+    {
+      "name": "王锦锋",
+      "role": "副总经理（离任董事）",
+      "quote": "王锦锋先生...辞去公司第四届董事会非独立董事职务，同时不再担任薪酬与考核委员会和战略委员会委员职务，辞任后仍担任公司副总经理。"
+    },
+    {
+      "name": "胡昊",
+      "role": "独立董事",
+      "quote": "胡昊先生...现任公司独立董事。"
+    },
+    {
+      "name": "章丽琼",
+      "role": "独立董事",
+      "quote": "章丽琼女士...现任公司独立董事。"
+    },
+    {
+      "name": "王云霞",
+      "role": "独立董事",
+      "quote": "王云霞女士...现任公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "统信软件技术有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司，公司对其按权益法核算。其业绩对公司影响较大。",
+      "quote": "统信软件 指 统信软件技术有限公司 ... 参股公司统信软件的业绩对公司影响较大，公司对统信软件按权益法核算，不控制统信软件。"
+    },
+    {
+      "name": "宝马诚迈信息技术有限公司",
+      "relation_type": "customer",
+      "business_details": "关联企业，公司向其提供软件技术服务。",
+      "quote": "宝马 向关联方提供软件技术服务 ... 2,661 .67"
+    },
+    {
+      "name": "南京诚迈科技发展集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "南京诚迈科技发展集团有限公司 控股股东"
+    },
+    {
+      "name": "智达诚远科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事汽车软件业务的子公司，2025年实现收入44,453.61万元。",
+      "quote": "智达诚远 指 智达诚远科技有限公司 ... 其中主要从事汽车软件业务的子公司智达诚远实现收入44,453.61万元。"
+    },
+    {
+      "name": "统信软件技术有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司向其采购商品。",
+      "quote": "向关联方采购商品 ... 统信软件 关联企业 采购 市场 市场 317.8 公允 价格 价格 .4"
+    },
+    {
+      "name": "高通",
+      "relation_type": "supplier",
+      "business_details": "芯片厂商合作伙伴，公司基于其最新产品研发软件平台。",
+      "quote": "公司与高通、联发科、紫光展锐等芯片厂商合作...基于高通、英伟达、NXP、地平线、英飞凌等芯片厂商的最新产品"
+    },
+    {
+      "name": "英伟达",
+      "relation_type": "supplier",
+      "business_details": "芯片厂商合作伙伴。",
+      "quote": "基于高通、英伟达、NXP、地平线、英飞凌等芯片厂商的最新产品"
+    },
+    {
+      "name": "吉利",
+      "relation_type": "customer",
+      "business_details": "智能网联汽车软件业务客户。",
+      "quote": "目前公司已覆盖吉利、理想、宝马、长城汽车、博世、南京四维、上汽、大陆汽车、比亚迪、福特等100余家主机厂及供应商。"
+    },
+    {
+      "name": "理想",
+      "relation_type": "customer",
+      "business_details": "智能网联汽车软件业务客户。",
+      "quote": "目前公司已覆盖吉利、理想、宝马、长城汽车、博世、南京四维、上汽、大陆汽车、比亚迪、福特等100余家主机厂及供应商。"
+    },
+    {
+      "name": "开放原子开源基金会",
+      "relation_type": "other",
+      "business_details": "公司是OpenHarmony项目的A类捐赠人和银牌捐赠人。",
+      "quote": "公司作为开放原子开源基金会的银牌捐赠人、OpenHarmony项目组的A类捐赠人"
+    },
+    {
+      "name": "华为矿山军团",
+      "relation_type": "partner",
+      "business_details": "公司是矿鸿ISV和矿鸿OSV授权合作伙伴。",
+      "quote": "是华为矿山军团矿鸿ISV和矿鸿OSV授权合作伙伴。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "软件技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,635,991,598.47",
+      "revenue_proportion": "占营业收入比重73.67%",
+      "gross_margin": "12.44%",
+      "yoy_change": "6.32%",
+      "quote": "软件技术服务 1,635,991,598.47 73.67% ... 6.32% ... 12.44%"
+    },
+    {
+      "name": "软件定制服务",
+      "segment_type": "product_line",
+      "revenue_amount": "414,406,324.11",
+      "revenue_proportion": "占营业收入比重18.66%",
+      "gross_margin": "13.28%",
+      "yoy_change": "12.55%",
+      "quote": "软件定制服务 414,406,324.11 18.66% ... 12.55% ... 13.28%"
+    },
+    {
+      "name": "软硬件产品的开发和销售",
+      "segment_type": "product_line",
+      "revenue_amount": "165,196,271.57",
+      "revenue_proportion": "占营业收入比重7.44%",
+      "gross_margin": null,
+      "yoy_change": "184.70%",
+      "quote": "软硬件产品的开 发和销售 165,196,271.57 7.44% ... 184.70%"
+    },
+    {
+      "name": "软件和信息技术服务业",
+      "segment_type": "other",
+      "revenue_amount": "2,215,594,194.15",
+      "revenue_proportion": "占营业收入99.77%",
+      "gross_margin": "13.28%",
+      "yoy_change": "12.76%",
+      "quote": "软件和信息技术 2,215,594,194.1 99.77% ... 12.76% ... 13.28%"
+    },
+    {
+      "name": "智能终端解决方案",
+      "segment_type": "other",
+      "revenue_amount": "996,259,966.13",
+      "revenue_proportion": null,
+      "gross_margin": "12.95%",
+      "yoy_change": "6.41%",
+      "quote": "其中：智能终 996,259,966. 12.95% 6.41%"
+    },
+    {
+      "name": "产业数字化解决方案",
+      "segment_type": "other",
+      "revenue_amount": "579,488,124.97",
+      "revenue_proportion": null,
+      "gross_margin": "12.33%",
+      "yoy_change": "18.32%",
+      "quote": "其中：产业数 579,488,124. 12.33% 18.32%"
+    },
+    {
+      "name": "智能网联汽车软件",
+      "segment_type": "other",
+      "revenue_amount": "498,925,098.78",
+      "revenue_proportion": null,
+      "gross_margin": "17.29%",
+      "yoy_change": "1.89%",
+      "quote": "其中：智能网 498,925,098. 17.29% 1.89%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "2,027,434,182.45",
+      "revenue_proportion": "占营业收入91.30%",
+      "gross_margin": "12.79%",
+      "yoy_change": "14.58%",
+      "quote": "境内销售 2,027,434,182.4 91.30% ... 14.58% ... 12.79%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "193,215,135.68",
+      "revenue_proportion": "占营业收入8.70%",
+      "gross_margin": "19.62%",
+      "yoy_change": "-6.33%",
+      "quote": "境外销售 193,215,135.68 8.70% ... -6.33% ... 19.62%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "HongZOS操作系统行业发行版项目",
+      "metric_type": "sales_volume",
+      "value": "截至2025年12月31日，该项目已累计实现收入加相应政府补贴13,193.33万元",
+      "period": "2023-2025年",
+      "quote": "截至2025年12月31日，该项目已累计实现收入加相应政府补贴13,193.33万元"
+    },
+    {
+      "product": "HongZOS操作系统行业发行版项目",
+      "metric_type": "sales_volume",
+      "value": "2025年全年预期实现收入10,800万元",
+      "period": "2025年",
+      "quote": "2025年全年预期实现收入10,800万元。"
+    },
+    {
+      "product": "信创电脑",
+      "metric_type": "sales_volume",
+      "value": "2025年实现收入约9,060万元",
+      "period": "2025年",
+      "quote": "公司信创电脑业务2025年实现收入约9,060万元。"
+    },
+    {
+      "product": "智能网联汽车软件",
+      "metric_type": "sales_volume",
+      "value": "子公司智达诚远实现收入44,453.61万元",
+      "period": "2025年",
+      "quote": "其中主要从事汽车软件业务的子公司智达诚远实现收入44,453.61万元。"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "公司及主要控股子公司拥有员工约9,134人，其中92%以上为技术人员。",
+      "period": "2025年末",
+      "quote": "截至本报告期末，公司及主要控股子公司拥有员工约9,134人，其中92%以上为技术人员。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "基于开源鸿蒙的HongZOS操作系统行业发行版项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "20,000.00",
+      "designed_capacity": null,
+      "progress": "该项目于2025年2月达到预定可使用状态，已结项。",
+      "expected_completion_time": "2025年02月26日达到预定可使用状态",
+      "quote": "“基于开源鸿蒙的HongZOS操作系统行业发行版项目”于2025年2月达到预定可使用状态，节余募集资金经审议用于永久补充流动资金，该项目已结项。"
+    },
+    {
+      "name": "诚迈科技信创研发（软件）中心",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "计划投资总额38,939.15万元",
+      "designed_capacity": null,
+      "progress": "项目进度9.36%",
+      "expected_completion_time": null,
+      "quote": "诚迈科技 信创 自建 是 25,07 38,93 9.36% 0.00 0.00 .com. 人工 3,412 9,145 （软 （公 研发 资金 用 月19 件） 号： 心 2023-012）"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司及主要子公司拥有专利44项",
+      "quote": "截至报告期末，公司及主要子公司拥有专利44项"
+    },
+    {
+      "name": "计算机软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "计算机软件著作权513项",
+      "quote": "计算机软件著作权513项。"
+    },
+    {
+      "name": "CMMI5级认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "公司目前已取得5级认证",
+      "quote": "CMMI的最高级别为5 级，公司目前已取得5级认证"
+    },
+    {
+      "name": "ISO9001:2015质量体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了ISO9001：2015质量体系认证"
+    },
+    {
+      "name": "ISO27001:2013信息安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO27001：2013信息安全管理体系认证"
+    },
+    {
+      "name": "高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "母公司及多家子公司获得",
+      "quote": "母公司于2024年12月16日取得...高新技术企业证书...子公司南京诚迈物联网科技有限公司于2025年12月19日取得...高新技术企业证书"
+    },
+    {
+      "name": "Firefly AIOS操作系统",
+      "asset_type": "core_technology",
+      "related_product": "智能座舱",
+      "quantitative_info": null,
+      "quote": "在端侧AI领域设计开发了端侧AIOS：Firefly AIOS"
+    },
+    {
+      "name": "FusionOS4.0跨域融合整车操作系统",
+      "asset_type": "core_technology",
+      "related_product": "智能网联汽车",
+      "quantitative_info": null,
+      "quote": "发布新一代跨域融合整车操作系统FusionOS4.0"
+    },
+    {
+      "name": "HongZOS操作系统（开源鸿蒙商业发行版）",
+      "asset_type": "core_technology",
+      "related_product": "物联网",
+      "quantitative_info": "已发布V5.0版本",
+      "quote": "公司的商业发行版操作系统HongZOS今年已发布V5.0版本。"
+    },
+    {
+      "name": "ASPICE认证",
+      "asset_type": "certification",
+      "related_product": "汽车软件",
+      "quantitative_info": null,
+      "quote": "目前子公司智达诚远已获得...并通过ASPICE、ISO/SAE 21434等汽车领域的专业认证"
+    },
+    {
+      "name": "ISO/SAE 21434认证",
+      "asset_type": "certification",
+      "related_product": "汽车网络安全",
+      "quantitative_info": null,
+      "quote": "并通过ASPICE、ISO/SAE 21434等汽车领域的专业认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "38.43%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "报告期内前五大客户实现的营业收入占营业总收入的比重为 38.43%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "24.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 24.15%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "公司客户相对集中",
+      "related_entity": null,
+      "period": null,
+      "quote": "报告期内前五大客户实现的营业收入占营业总收入的比重为 38.43%，公司主要客户相对集中。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业市场发展波动的风险。传统移动智能终端行业市场份额集中度高、国际化竞争激烈、产业发展成熟，行业整体发展阶段性放缓导致部分客户业务需求减少。",
+      "related_entity": null,
+      "related_product": "移动智能终端软件",
+      "quote": "行业市场发展波动的风险...传统移动智能终端行业市场份额集中度高、国际化竞争激烈、产业发展成熟，行业整体发展阶段性放缓导致部分客户业务需求减少"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "智能网联汽车软件、物联网操作系统、产业数字化解决方案等新兴领域在产业成熟度、国际化竞争格局、产业链分布、行业准入标准等方面与既有行业差异较大。",
+      "related_entity": null,
+      "related_product": "智能网联汽车软件、物联网操作系统、产业数字化解决方案",
+      "quote": "智能网联汽车软件、物联网操作系统、产业数字化解决方案等新兴领域在产业成熟度、国际化竞争格局、产业链分布、行业准入标准等方面与既有行业差异较大。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户相对集中风险。报告期内前五大客户实现的营业收入占营业总收入的比重为38.43%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "客户相对集中风险。报告期内前五大客户实现的营业收入占营业总收入的比重为 38.43%"
+    },
+    {
+      "risk_type": "other",
+      "description": "应收账款回收风险。报告期末应收账款账面余额为95,417.36万元，占公司资产总额的比例33.70%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期末，公司应收账款账面余额为 95,417.36 万元，占公司资产总额的比例 33.70%"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "税收优惠政策变化的风险。涉及增值税免征、即征即退、零税率，以及企业所得税高新技术企业优惠税率等政策。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "税收优惠政策变化的风险...依据《财政部 国家税务总局关于全面推开营业税改征增值税试点的通知》...本公司销售自行开发生产的软件产品...依法享受增值税免征优惠政策...母公司...高新技术企业证书...企业所得税税率为15%。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术人员不足或流失及人员需求结构变化的风险。软件行业存在核心技术知识结构更新快、人员流动率高且中高端人才的人力成本不断上升等现象。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心技术人员不足或流失及人员需求结构变化的风险...软件行业存在核心技术知识结构更新快、人员流动率高且中高端人才的人力成本不断上升等现象。"
+    }
+  ]
+}

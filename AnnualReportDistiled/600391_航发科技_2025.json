@@ -1,0 +1,374 @@
+{
+  "company_name_mentioned": "中国航发航空科技股份有限公司",
+  "produces": [
+    {
+      "name": "航空发动机及燃气轮机零部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司目前主要业务是航空发动机及燃气轮机零部件的研发、制造、销售、服务"
+    },
+    {
+      "name": "内贸航空及衍生产品（军用航空发动机零部件、商发系列产品）",
+      "type": "component",
+      "revenue_proportion": "对公司收入的贡献为66.39%",
+      "quote": "报告期内，内贸航空及衍生产品对公司收入的贡献为66.39%"
+    },
+    {
+      "name": "外贸转包产品（机匣、环形件、蜂窝密封件等）",
+      "type": "component",
+      "revenue_proportion": "对公司收入的贡献为31.90%",
+      "quote": "报告期内...外贸产品对公司收入的贡献为31.90%"
+    },
+    {
+      "name": "航空轴承（航空发动机轴承、直升机传动系统轴承、飞机机体轴承、附件轴承）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "其生产的航空轴承主要包括航空发动机轴承、直升机传动系统轴承、飞机机体轴承、附件轴承（电机、泵等）全部四大类航空轴承"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（镍基高温合金、钴基高温合金、钛合金、不锈钢等）",
+      "target_product": "航空发动机及燃气轮机零部件",
+      "cost_proportion": null,
+      "quote": "加工材料涉及镍基高温合金、钴基高温合金、钛合金、不锈钢等"
+    },
+    {
+      "name": "外部加工服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "成本分析表中列示了'外部加工费'"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空发动机",
+      "source_product": "航空发动机及燃气轮机零部件",
+      "quote": "公司主要业务是航空发动机及燃气轮机零部件的研发、制造、销售、服务"
+    },
+    {
+      "name": "燃气轮机",
+      "source_product": "航空发动机及燃气轮机零部件",
+      "quote": "公司主要业务是航空发动机及燃气轮机零部件的研发、制造、销售、服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "丛春义",
+      "role": "董事长、党委书记",
+      "quote": "公司法定代表人丛春义...现任中国航发成都发动机有限公司董事长、总经理、党委书记，中国航发航空科技股份有限公司董事长、党委书记。"
+    },
+    {
+      "name": "张生",
+      "role": "董事、总经理、党委副书记",
+      "quote": "张 生 董事、总经理...现任中国航发成都发动机有限公司党委副书记，中国航发航空科技股份有限公司董事、总经理、党委副书记。"
+    },
+    {
+      "name": "郑玲",
+      "role": "副总经理、总会计师、董事会秘书",
+      "quote": "郑 玲 副总经理、总会计师、董事会秘书...现任中国航发航空科技股份有限公司董事、董事会秘书、副总经理、总会计师。"
+    },
+    {
+      "name": "熊奕",
+      "role": "原董事、原董事会秘书、副总经理",
+      "quote": "熊 奕 原董事、原董事会秘书...现任中国航发成都发动机有限公司董事，中国航发航空科技股份有限公司副总经理。"
+    },
+    {
+      "name": "吴国炜",
+      "role": "副总经理、总工程师、科技委主任",
+      "quote": "吴国炜 副总经理、总工程师、科技委主任...现任中国航发航空科技股份有限公司副总经理、总工程师、科技委主任。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国航发成都发动机有限公司",
+      "relation_type": "supplier",
+      "business_details": "控股股东，向其销售产品、租赁资产等。",
+      "quote": "控股股东为中国航发成都发动机有限公司...公司向关联人销售产品、商品，中国航发系统发生额为256,110.36万元，占年度销售总额61.42%。"
+    },
+    {
+      "name": "中国航空发动机集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人为中国航空发动机集团有限公司"
+    },
+    {
+      "name": "中国航发集团财务有限公司",
+      "relation_type": "supplier",
+      "business_details": "同一控制下的财务公司，提供存款、贷款等金融服务。",
+      "quote": "向关联人借款等金融服务，中国航发系统发生额60,181.69万元。存款业务、贷款业务关联方为中国航发财务。"
+    },
+    {
+      "name": "Rolls-Royce plc",
+      "relation_type": "customer",
+      "business_details": "国际知名航空发动机客户",
+      "quote": "获得了包括GE Vernova、Rolls-Royce、Honeywell-Aerospace等合作商在内的多种机型，多个项目新品订单"
+    },
+    {
+      "name": "Honeywell-Aerospace",
+      "relation_type": "customer",
+      "business_details": "国际知名航空发动机客户，连续三年“优秀供应商奖”",
+      "quote": "先后获得...Honeywell-Aerospac连续三年“优秀供应商奖”等奖项"
+    },
+    {
+      "name": "GENERAL ELECTRIC COMPANY AVIATION",
+      "relation_type": "customer",
+      "business_details": "国际知名航空发动机客户，为前五大应收账款客户之一。",
+      "quote": "前五名应收账款客户...GENERAL ELECTRIC COMPANY AVIATION...账面余额210,112,065.95"
+    },
+    {
+      "name": "GE Vernova",
+      "relation_type": "customer",
+      "business_details": "合作商",
+      "quote": "获得了包括GE Vernova、Rolls-Royce、Honeywell-Aerospace等合作商在内的多种机型"
+    },
+    {
+      "name": "AEHI, Inc",
+      "relation_type": "supplier",
+      "business_details": "预付款项前五名供应商",
+      "quote": "按预付对象归集的期末余额前五名...AEHI，Inc...期末余额25,738,568.87"
+    },
+    {
+      "name": "SKF、FAG",
+      "relation_type": "competitor",
+      "business_details": "在高端轴承市场占据领先地位的国际品牌",
+      "quote": "SKF、FAG等国际领先轴承品牌企业依旧占据国内高端市场主体地位"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "内贸航空及衍生产品",
+      "segment_type": "product_line",
+      "revenue_amount": "28.70亿元",
+      "revenue_proportion": "66.39%",
+      "gross_margin": "10.50%",
+      "yoy_change": "同比增长11.59%",
+      "quote": "内贸航空及衍生产品实现收入28.70亿元，同比增长11.59%。...内贸航空及衍生产 毛利率（%） 10.50"
+    },
+    {
+      "name": "外贸转包产品",
+      "segment_type": "product_line",
+      "revenue_amount": "13.79亿元",
+      "revenue_proportion": "31.90%",
+      "gross_margin": "15.95%",
+      "yoy_change": "同比增长18.57%",
+      "quote": "实现外贸转包收入13.79亿元，同比增长18.57%。...外贸产品 毛利率（%） 15.95"
+    },
+    {
+      "name": "非航空产品及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "19,761,333.92元",
+      "revenue_proportion": null,
+      "gross_margin": "35.79%",
+      "yoy_change": "同比减少56.33%",
+      "quote": "非航空产品及其他 营业收入 19,761,333.92 ...营业收入比上年增减（%） -56.33"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "2,187,587,548.80元",
+      "revenue_proportion": null,
+      "gross_margin": "5.55%",
+      "yoy_change": "同比增长13.53%",
+      "quote": "西南地区 营业收入 2,187,587,548.80 ...营业收入比上年增减（%） 13.53"
+    },
+    {
+      "name": "美洲地区",
+      "segment_type": "region",
+      "revenue_amount": "771,728,985.90元",
+      "revenue_proportion": null,
+      "gross_margin": "15.46%",
+      "yoy_change": "同比增长23.44%",
+      "quote": "美洲地区 营业收入 771,728,985.90 ...营业收入比上年增减（%） 23.44"
+    },
+    {
+      "name": "欧洲地区",
+      "segment_type": "region",
+      "revenue_amount": "538,358,885.68元",
+      "revenue_proportion": null,
+      "gross_margin": "15.80%",
+      "yoy_change": "同比增长21.27%",
+      "quote": "欧洲地区 营业收入 538,358,885.68 ...营业收入比上年增减（%） 21.27"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "内贸航空及衍生产品",
+      "metric_type": "production_volume",
+      "value": "2,821,721,909.44元",
+      "period": "2025年",
+      "quote": "内贸航空及衍生产品 生产量 2,821,721,909.44"
+    },
+    {
+      "product": "内贸航空及衍生产品",
+      "metric_type": "sales_volume",
+      "value": "2,869,627,244.08元",
+      "period": "2025年",
+      "quote": "内贸航空及衍生产品 销售量 2,869,627,244.08"
+    },
+    {
+      "product": "内贸航空及衍生产品",
+      "metric_type": "inventory_volume",
+      "value": "82,379,819.60元",
+      "period": "2025年",
+      "quote": "内贸航空及衍生产品 库存量 82,379,819.60"
+    },
+    {
+      "product": "外贸产品",
+      "metric_type": "production_volume",
+      "value": "1,364,928,329.68元",
+      "period": "2025年",
+      "quote": "外贸产品 生产量 1,364,928,329.68"
+    },
+    {
+      "product": "外贸产品",
+      "metric_type": "sales_volume",
+      "value": "1,378,842,792.76元",
+      "period": "2025年",
+      "quote": "外贸产品 销售量 1,378,842,792.76"
+    },
+    {
+      "product": "外贸产品",
+      "metric_type": "inventory_volume",
+      "value": "137,829,131.82元",
+      "period": "2025年",
+      "quote": "外贸产品 库存量 137,829,131.82"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "能力建设项目（数字化单元建设等）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "累计投入资金3.7亿元",
+      "designed_capacity": null,
+      "progress": "建成火焰筒装配焊接单元、盘加工柔性生产单元等多个数字化单元",
+      "expected_completion_time": null,
+      "quote": "2025年，公司累计投入资金3.7亿元用于能力建设...建成火焰筒装配焊接单元、盘加工柔性生产单元等多个数字化单元"
+    },
+    {
+      "name": "火焰筒装配焊接单元",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成，实现自动化连续加工，零件合格率提升至98%以上，人力配置从6人精简至2人，生产效率提升60%以上",
+      "expected_completion_time": null,
+      "quote": "其中新增的火焰筒装配焊接单元，通过工艺自动化集成，实现了燃烧室火焰筒组件从传统人工协作加工到自动化连续加工的跨越。零件合格率提升至98%以上，人力配置从6人精简至2人，生产效率提升60%以上。"
+    },
+    {
+      "name": "热端部件项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "其他非流动资产较上年末增加，主要原因为本年热端部件项目工程投入增加",
+      "expected_completion_time": null,
+      "quote": "其他非流动资产...较上年末变动比例（%） 146.83...主要原因为本年热端部件项目工程投入增加"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国际、国内先进的航空发动机零部件制造标准",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有国际、国内先进的航空发动机零部件制造标准"
+    },
+    {
+      "name": "多项与国际接轨的关键核心技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "掌握了多项与国际接轨的关键核心技术"
+    },
+    {
+      "name": "ISO9001、GJB9001、AS9100质量体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了ISO9001（国际质量标准）、GJB9001（国军标）和AS9100（国际宇航质量标准）质量体系认证"
+    },
+    {
+      "name": "NADCAP认证（热处理、焊接、无损检测、化学处理、涂层和非传统加工等多种特种工艺）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "以及热处理、焊接、无损检测、化学处理、涂层和非传统加工等多种特种工艺NADCAP认证"
+    },
+    {
+      "name": "数字化生产制造能力（盘类零件和燃烧室火焰筒组件生产模式升级）",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "标志着公司盘类零件和燃烧室火焰筒组件的生产模式实现单机离散加工向数字化集成制造的跨越式升级"
+    },
+    {
+      "name": "Honeywell-Aerospace激光加工资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "成为国内首个Honeywell-Aerospace激光加工资质的单位"
+    },
+    {
+      "name": "产学研合作与联合创新中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "联合国内18家高校、优势企业开展产学研技术合作、交流，新建多个联合创新中心"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "390,975.99万元，占年度销售总额90.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额390,975.99万元，占年度销售总额90.44%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中关联方销售额265,543.04万元，占年度销售总额61.42%",
+      "related_entity": "中国航发系统",
+      "period": "2025年",
+      "quote": "其中前五名客户销售额中关联方销售额265,543.04万元，占年度销售总额61.42%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "90,576.63万元，占年度采购总额28.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额90,576.63万元，占年度采购总额28.44%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额22,929.03万元，占年度采购总额7.20%",
+      "related_entity": "中国航发系统",
+      "period": "2025年",
+      "quote": "其中前五名供应商采购额中关联方采购额22,929.03万元，占年度采购总额7.20%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司作为外贸进出口企业，对汇率波动具有较强的敏感性。人民币升值可能导致汇兑损失，对经营造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1汇率风险...在人民币升值的情况下，公司将有较大可能出现汇兑损失，对经营造成不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "外贸转包业务受中美关系影响，北美市场受冲击；公司被列入美国商务部MEU清单，增大了获取新产品订单的难度；制造业回流及新兴经济体竞争加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.市场风险...公司被列入美国商务部MEU清单后，增大了公司持续获取新产品订单的难度；制造业回流以及新兴经济体国家制造业竞争加剧...整体来看市场竞争加剧。"
+    },
+    {
+      "risk_type": "other",
+      "description": "外贸转包订单所需部分原材料为国外进口，存在国外产能供应不足、价格波动、出口申请周期长、质量不稳定等风险，导致外贸业务增长存在风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.供应风险...部分外贸转包订单所需原材料为国外进口，特别是锻铸件存在国外产能供应不足、价格波动、出口申请周期长、质量不稳定等风险因素，导致公司外贸业务增长存在风险。"
+    }
+  ]
+}

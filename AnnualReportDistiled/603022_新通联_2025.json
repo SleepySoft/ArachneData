@@ -1,0 +1,408 @@
+{
+  "company_name_mentioned": "上海新通联包装股份有限公司",
+  "produces": [
+    {
+      "name": "轻型瓦楞包装产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的主要系列产品为轻型包装产品和重型包装产品，其中轻型包装产品为轻型瓦楞包装产品"
+    },
+    {
+      "name": "重型瓦楞包装产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "重型包装产品包括重型瓦楞包装产品、木制品包装产品以及各类组合包装产品"
+    },
+    {
+      "name": "木制品包装产品",
+      "type": "device",
+      "revenue_proportion": "59.36% (574，515，320.79 / 979，508，162.62， 主营业务收入)",
+      "quote": "木产品 574,515,320.79... 毛利率 16.04"
+    },
+    {
+      "name": "组合包装产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "重型包装产品包括重型瓦楞包装产品、木制品包装产品以及各类组合包装产品"
+    },
+    {
+      "name": "整体包装解决方案服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司还为客户提供‘整体包装解决方案’一体化服务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "纸材（瓦楞纸、牛皮纸、蜂窝纸、纸浆模塑等）",
+      "target_product": "纸包装产品",
+      "cost_proportion": null,
+      "quote": "以纸材（瓦楞纸、牛皮纸、蜂窝纸、纸浆模塑等）、木材（松木、桦木、胶合板、OSB板等）为核心原材料"
+    },
+    {
+      "name": "木材（松木、桦木、胶合板、OSB板等）",
+      "target_product": "木包装产品",
+      "cost_proportion": null,
+      "quote": "以纸材（瓦楞纸、牛皮纸、蜂窝纸、纸浆模塑等）、木材（松木、桦木、胶合板、OSB板等）为核心原材料"
+    },
+    {
+      "name": "包装辅料",
+      "target_product": "包装产品",
+      "cost_proportion": null,
+      "quote": "公司采购范围包括：生产所需原材料、包装辅料、机械设备、办公用品等。"
+    },
+    {
+      "name": "机械设备",
+      "target_product": "生产",
+      "cost_proportion": null,
+      "quote": "公司采购范围包括：生产所需原材料、包装辅料、机械设备、办公用品等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "能源电气",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于能源电气、汽车行业（新能源车及动力电池）、电梯机械、复印影像、光伏、新材料、信息与通信、物流网络、科技控制和建筑、空调洁具、零售快消及医疗化工等行业"
+    },
+    {
+      "name": "汽车行业（新能源车及动力电池）",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于能源电气、汽车行业（新能源车及动力电池）..."
+    },
+    {
+      "name": "电梯机械",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...电梯机械..."
+    },
+    {
+      "name": "复印影像",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...复印影像..."
+    },
+    {
+      "name": "光伏",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...光伏..."
+    },
+    {
+      "name": "新材料",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...新材料..."
+    },
+    {
+      "name": "信息与通信",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...信息与通信..."
+    },
+    {
+      "name": "物流网络",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...物流网络..."
+    },
+    {
+      "name": "科技控制和建筑",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...科技控制和建筑..."
+    },
+    {
+      "name": "空调洁具",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...空调洁具..."
+    },
+    {
+      "name": "零售快消",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...零售快消..."
+    },
+    {
+      "name": "医疗化工",
+      "source_product": "纸包装产品、木包装产品、整体包装解决方案服务",
+      "quote": "公司的产品和服务主要应用于...医疗化工等行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "曹文洁",
+      "role": "董事长、实际控制人、控股股东",
+      "quote": "曹文洁...公司董事长...80,540,000股（占40.27%）...曹文洁于2012年3月1日出具了《避免同业竞争承诺函》...现担任上海市人大常委会委员，上海市工商联副主席及宝山区工商联主席"
+    },
+    {
+      "name": "顾云锋",
+      "role": "董事、总经理",
+      "quote": "公司负责人顾云锋...董事、总经理...现任公司董事、总经理。"
+    },
+    {
+      "name": "徐宏菁",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 徐宏菁...现任公司董事会秘书"
+    },
+    {
+      "name": "李漠洋",
+      "role": "主管会计工作负责人（财务总监）",
+      "quote": "主管会计工作负责人李漠洋...2024年12月至今，任公司财务总监。"
+    },
+    {
+      "name": "杨霆",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）杨霆"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江景兴纸业股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "为子公司采购原纸业务申请的信用额度提供担保",
+      "quote": "公司为全资子公司无锡新通联包装制品制造有限公司向浙江景兴纸业股份有限公司...就2025年度采购原纸业务申请的信用额度提供连带责任保证担保"
+    },
+    {
+      "name": "江苏理文造纸有限公司",
+      "relation_type": "supplier",
+      "business_details": "为子公司采购原纸业务申请的信用额度提供担保",
+      "quote": "公司为全资子公司无锡新通联包装制品制造有限公司...向江苏理文造纸有限公司...就2025年度采购原纸业务申请的信用额度提供连带责任保证担保"
+    },
+    {
+      "name": "无锡荣成环保科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "为子公司采购原纸业务申请的信用额度提供担保",
+      "quote": "公司为全资子公司无锡新通联包装制品制造有限公司...向...无锡荣成环保科技有限公司...就2025年度采购原纸业务申请的信用额度提供连带责任保证担保"
+    },
+    {
+      "name": "平湖荣成环保科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "为子公司采购原纸业务申请的信用额度提供担保",
+      "quote": "公司为全资子公司无锡新通联包装制品制造有限公司...向...平湖荣成环保科技有限公司就2025年度采购原纸业务申请的信用额度提供连带责任保证担保"
+    },
+    {
+      "name": "施耐德集团",
+      "relation_type": "customer",
+      "business_details": "期末应收账款余额前五大客户之一",
+      "quote": "施耐德集团 应收账款期末余额 33,348,869.89"
+    },
+    {
+      "name": "特斯拉(上海)有限公司",
+      "relation_type": "customer",
+      "business_details": "期末应收账款余额前五大客户之一",
+      "quote": "特斯拉(上海)有限公司 应收账款期末余额 31,548,512.82"
+    },
+    {
+      "name": "比亚迪股份有限公司",
+      "relation_type": "customer",
+      "business_details": "期末应收账款余额前五大客户之一",
+      "quote": "比亚迪股份有限公司 应收账款期末余额 23,291,163.43"
+    },
+    {
+      "name": "远景科技集团",
+      "relation_type": "customer",
+      "business_details": "期末应收账款余额前五大客户之一",
+      "quote": "远景科技集团 应收账款期末余额 21,044,313.09"
+    },
+    {
+      "name": "联合汽车电子有限公司",
+      "relation_type": "customer",
+      "business_details": "期末应收账款余额前五大客户之一",
+      "quote": "联合汽车电子有限公司 应收账款期末余额 17,302,920.17"
+    },
+    {
+      "name": "上海新通联包装制品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "包装生产制造",
+      "quote": "上海新通联包装制品有限公司 子公司 包装生产制造"
+    },
+    {
+      "name": "重庆新通联包装材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "包装生产制造",
+      "quote": "重庆新通联包装材料有限公司 子公司 包装生产制造"
+    },
+    {
+      "name": "新通联马来西亚包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "包装生产制造",
+      "quote": "新通联马来西亚包装有限公司 子公司 包装生产制造"
+    },
+    {
+      "name": "上海新通联包装工程集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "包装生产制造",
+      "quote": "上海新通联包装工程集团有限公司 子公司 包装生产制造"
+    },
+    {
+      "name": "上海新通联环保包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "包装生产制造",
+      "quote": "上海新通联环保包装有限公司 子公司 包装生产制造"
+    },
+    {
+      "name": "越南新红包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内处置（股权转让）",
+      "quote": "越南新红包装有限公司...报告期内取得和处置子公司方式：股权转让"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "天健会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "木产品",
+      "segment_type": "product_line",
+      "revenue_amount": "574,515,320.79",
+      "revenue_proportion": "58.66% (574，515，320.79 / 979，508，162.62， 营业收入总额)",
+      "gross_margin": "16.04%",
+      "yoy_change": "营业收入比上年增减 15.23%",
+      "quote": "木产品 营业收入 574,515,320.79... 营业成本 482,360,937.44... 毛利率 16.04... 营业收入比上年增减 15.23%"
+    },
+    {
+      "name": "纸产品",
+      "segment_type": "product_line",
+      "revenue_amount": "273,095,328.72",
+      "revenue_proportion": "27.88% (273，095，328.72 / 979，508，162.62， 营业收入总额)",
+      "gross_margin": "26.78%",
+      "yoy_change": "营业收入比上年增减 8.14%",
+      "quote": "纸产品 营业收入 273,095,328.72... 营业成本 199,962,919.95... 毛利率 26.78... 营业收入比上年增减 8.14%"
+    },
+    {
+      "name": "第三方产品",
+      "segment_type": "product_line",
+      "revenue_amount": "73,756,989.56",
+      "revenue_proportion": "7.53% (73，756，989.56 / 979，508，162.62， 营业收入总额)",
+      "gross_margin": "20.64%",
+      "yoy_change": "营业收入比上年增减 0.64%",
+      "quote": "第三方产品 营业收入 73,756,989.56... 营业成本 58,536,661.48... 毛利率 20.64... 营业收入比上年增减 0.64%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "58,140,523.55",
+      "revenue_proportion": "5.93% (58，140，523.55 / 979，508，162.62， 营业收入总额)",
+      "gross_margin": "21.62%",
+      "yoy_change": "营业收入比上年增减 -88.34%",
+      "quote": "其他 营业收入 58,140,523.55... 营业成本 45,570,116.82... 毛利率 21.62... 营业收入比上年增减 -88.34%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "896,562,755.40",
+      "revenue_proportion": "91.53% (896，562，755.40 / 979，508，162.62， 营业收入总额)",
+      "gross_margin": "18.54%",
+      "yoy_change": "营业收入比上年增减 10.70%",
+      "quote": "境内销售 营业收入 896,562,755.40... 毛利率 18.54... 营业收入比上年增减 10.70%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "82,945,407.22",
+      "revenue_proportion": "8.47% (82，945，407.22 / 979，508，162.62， 营业收入总额)",
+      "gross_margin": "32.32%",
+      "yoy_change": "营业收入比上年增减 34.82%",
+      "quote": "境外销售 营业收入 82,945,407.22... 毛利率 32.32... 营业收入比上年增减 34.82%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "境内工厂：定制生产模式",
+      "period": null,
+      "quote": "公司生产模式是为客户‘量身定做’的定制生产模式"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "青岛、厦门、泰国等工厂逐步发挥区域支撑作用",
+      "period": "报告期内",
+      "quote": "前期布局的青岛、厦门、泰国等工厂逐步发挥区域支撑作用"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "泰国工厂建设",
+      "project_type": "construction_project",
+      "location": "泰国",
+      "investment_amount": "60，783，792.00 (预算数)",
+      "designed_capacity": null,
+      "progress": "86.63% (工程累计投入占预算比例)",
+      "expected_completion_time": null,
+      "quote": "泰国工厂...预算数 60，783，792.00...工程累计投入占预算比例(%) 86.63"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "绿色包装技术",
+      "asset_type": "core_technology",
+      "related_product": "绿色包装、轻量化包装、纸木结合包装、去塑化替代",
+      "quantitative_info": null,
+      "quote": "公司持续推进绿色包装、轻量化包装、纸木结合包装、去塑化替代等方向的研发和应用"
+    },
+    {
+      "name": "《运输包装用单瓦楞纸箱和双瓦楞纸箱》国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定单位（2024-2034）",
+      "quote": "是《运输包装用单瓦楞纸箱和双瓦楞纸箱》国家标准参与制定单位（2024-2034）"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年新增多项",
+      "quote": "2025年公司新增多项实用新型专利"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "31.91%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额33，218.99万元，占年度销售总额31.91%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "13.99%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额8，309.39万元，占年度采购总额13.99%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "环保政策趋严，对过度包装、可降解、可回收提出强制要求；行业监管趋严，包装印刷、危包资质等监管标准提高，资质维护、合规成本上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "政策性风险：环保政策趋严，对过度包装、可降解、可回收提出强制要求；行业监管趋严，包装印刷、危包资质等监管标准提高，资质维护、合规成本上升。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "木材受国际原木贸易、国内林业政策、运输成本影响大，纸浆、瓦楞纸受全球供给、海运、汇率影响，价格的波动增加成本管控难度。木材依赖进口与国内林场，地缘冲突、贸易政策、自然灾害可能导致供应链中断或价格暴涨。",
+      "related_entity": null,
+      "related_product": "木材、纸浆、瓦楞纸",
+      "quote": "原材料价格风险：木材受国际原木贸易、国内林业政策、运输成本影响大，纸浆、瓦楞纸受全球供给、海运、汇率影响，价格的波动增加成本管控难度。木材依赖进口与国内林场，地缘冲突、贸易政策、自然灾害可能导致供应链中断或价格暴涨。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "包装行业向智能化、数字化、绿色化快速发展，若公司研发费用投入不足，可能被技术领先者超越。现有产线若未能及时自动化、智能化升级，将导致生产效率低，单位成本高，难以应对行业竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术风险：包装行业向智能化、数字化、绿色化快速发展，若公司研发费用投入不足，可能被技术领先者超越。现有产线若未能及时自动化、智能化升级，将导致生产效率低，单位成本高，难以应对行业竞争。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "企业若过度依赖少数大客户，订单集中度高，一旦客户流失或议价能力过强，企业经营将面临重大冲击。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "客户结构与扩张管理风险：企业若过度依赖少数大客户，订单集中度高，一旦客户流失或议价能力过强，企业经营将面临重大冲击。"
+    },
+    {
+      "risk_type": "other",
+      "description": "企业快速扩张时，若管理水平、人才储备与组织架构未能同步提升，可能削弱自身竞争力并增加运营风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "客户结构与扩张管理风险：...此外，企业快速扩张时，若管理水平、人才储备与组织架构未能同步提升，可能削弱自身竞争力并增加运营风险。"
+    }
+  ]
+}

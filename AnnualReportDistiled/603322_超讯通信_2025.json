@@ -1,0 +1,433 @@
+{
+  "company_name_mentioned": "超讯通信股份有限公司",
+  "produces": [
+    {
+      "name": "算力业务（智算业务）",
+      "type": "service",
+      "revenue_proportion": "分行业收入占比：智算业务收入157,945.98万元，毛利率9.21%，占主营业务收入比例未直接给出，但根据分产品算力收入相同。",
+      "quote": "报告期内，公司聚焦智算业务，持续优化业务布局，围绕定制化服务器销售、算力中心EPC建设、算力租赁三大核心业务...报告期内，公司实现营业收入23.21亿元...智算1,579,459,784.86...毛利率（%）9.21"
+    },
+    {
+      "name": "信通业务",
+      "type": "service",
+      "revenue_proportion": "分行业收入占比：信通业务收入73,115.52万元，毛利率8.90%。",
+      "quote": "信通731,155,223.71...毛利率（%）8.90"
+    },
+    {
+      "name": "ICT业务",
+      "type": "service",
+      "revenue_proportion": "分产品收入占比：ICT收入20,385.19万元，毛利率21.15%。",
+      "quote": "ICT203,851,946.01...毛利率（%）21.15"
+    },
+    {
+      "name": "通服业务（通信技术服务业务）",
+      "type": "service",
+      "revenue_proportion": "分产品收入占比：通服收入52,730.33万元，毛利率4.16%。",
+      "quote": "通服527,303,277.70...毛利率（%）4.16"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料费（智算/算力业务）",
+      "target_product": "算力业务",
+      "cost_proportion": "占总成本比例0.02%。",
+      "quote": "智算 材料费 387,246.92 0.02"
+    },
+    {
+      "name": "安装调试费（智算/算力业务）",
+      "target_product": "算力业务",
+      "cost_proportion": "占总成本比例29.58%。",
+      "quote": "智算 安装调试费 621,232,710.72 29.58"
+    },
+    {
+      "name": "设备费（智算/算力业务）",
+      "target_product": "算力业务",
+      "cost_proportion": "占总成本比例38.57%。",
+      "quote": "智算 设备费 809,992,913.83 38.57"
+    },
+    {
+      "name": "材料费（信通/ICT业务）",
+      "target_product": "ICT业务",
+      "cost_proportion": "占总成本比例6.46%。",
+      "quote": "信通 材料费 135,593,698.93 6.46"
+    },
+    {
+      "name": "劳务外协费（信通业务）",
+      "target_product": "信通业务",
+      "cost_proportion": "占总成本比例14.69%。",
+      "quote": "信通 劳务外协费 308,455,466.37 14.69"
+    },
+    {
+      "name": "职工薪酬（信通业务）",
+      "target_product": "信通业务",
+      "cost_proportion": "占总成本比例10.37%。",
+      "quote": "信通 职工薪酬 217,854,608.50 10.37"
+    }
+  ],
+  "applications": [
+    {
+      "name": "数据中心建设/智算中心",
+      "source_product": "算力业务（定制化服务器、算力中心EPC）",
+      "quote": "公司为百度云、固安聚龙和天津盘古等客户交付了算力中心集成项目...在青海西宁三江源国家大数据基地数据中心机房，部署516国产GPU算力集群"
+    },
+    {
+      "name": "物联网/智慧城市",
+      "source_product": "ICT业务",
+      "quote": "公司通过部署智能泊位管理器等物联网设备，完成广州市白云区棠景街道智慧停车项目的落地。"
+    },
+    {
+      "name": "通信网络（通信运营商和中国铁塔）",
+      "source_product": "通服业务（通信网络建设、维护与优化）",
+      "quote": "公司中标广东、福建、江苏、江西、山西五省通信网络建设及维护相关项目"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "梁建华",
+      "role": "董事长、法定代表人、控股股东、实际控制人",
+      "quote": "公司负责人梁建华、主管会计工作负责人郭彦岐...梁建华 董事长 男 56"
+    },
+    {
+      "name": "张俊",
+      "role": "副董事长",
+      "quote": "张俊 副董事长 男 49"
+    },
+    {
+      "name": "钟海辉",
+      "role": "董事、总经理",
+      "quote": "钟海辉 董事、总经理 男 49"
+    },
+    {
+      "name": "郭彦岐",
+      "role": "财务总监",
+      "quote": "郭彦岐 财务总监 男 48"
+    },
+    {
+      "name": "卢沛民",
+      "role": "董事会秘书",
+      "quote": "卢沛民 董事会秘书 男 33"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广东奥飞数据科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，销售额占年度销售总额50.96%。",
+      "quote": "序号 客户名称 销售额 占年度销售总额比例（%） 1 广东奥飞数据科技股份有限公司 1,183,007,148.52 50.96"
+    },
+    {
+      "name": "中国移动通信集团有限公司",
+      "relation_type": "customer",
+      "business_details": "第二大客户，销售额占年度销售总额20.35%。",
+      "quote": "2 中国移动通信集团有限公司 472,522,804.78 20.35"
+    },
+    {
+      "name": "深圳市爱施德股份有限公司",
+      "relation_type": "customer",
+      "business_details": "第三大客户，销售额占年度销售总额14.95%。",
+      "quote": "3 深圳市爱施德股份有限公司 347,012,618.90 14.95"
+    },
+    {
+      "name": "中国铁塔股份有限公司",
+      "relation_type": "customer",
+      "business_details": "第四大客户，销售额占年度销售总额2.54%。",
+      "quote": "4 中国铁塔股份有限公司 58,930,479.09 2.54"
+    },
+    {
+      "name": "广州豪特节能环保科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，采购额占年度采购总额22.76%。",
+      "quote": "序号 供应商名称 采购额 占年度采购总额比例（%） 1 广州豪特节能环保科技股份有限公司 478,794,040.73 22.76"
+    },
+    {
+      "name": "广州市力腾泓元资讯科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商，采购额占年度采购总额7.98%。",
+      "quote": "2 广州市力腾泓元资讯科技有限公司 167,757,008.40 7.98"
+    },
+    {
+      "name": "沐曦集成电路（上海）股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第四大供应商，采购额占年度采购总额6.25%，同时也是公司作为全国总代理经销商的合作方。",
+      "quote": "4 沐曦集成电路（上海）股份有限公司 131,382,782.34 6.25 ...公司是中国电子商会元宇宙专业委员会副理事长单位、沐曦股份全国总代理经销商"
+    },
+    {
+      "name": "超讯数字科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "重要全资子公司，主要业务为算力业务。",
+      "quote": "公司名称 主要业务 注册资本 总资产 净资产 营业收入 营业利润 净利润 超讯数字 算力业务"
+    },
+    {
+      "name": "超讯能源科技（广东）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "重要全资子公司，主要业务为能源服务。",
+      "quote": "超讯能源 能源服务"
+    },
+    {
+      "name": "超讯（广州）网络设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "重要全资子公司，主要业务为电子设备制造。",
+      "quote": "超讯设备 电子设备制造"
+    },
+    {
+      "name": "广东康利达物联科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "重要控股子公司（持股51%），主要业务为物联网智慧物流综合服务。",
+      "quote": "公司名称 持股比例（%） 主要业务 ...康利物联 51 物联网智慧物流综合服务"
+    },
+    {
+      "name": "四川讯曦智能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内新设立的控股子公司（持股56%），主要业务为算力服务器生产与组装，投资金额3,360万元。",
+      "quote": "标的公司名称 主要业务 投资金额 持股比例 ...讯曦智能 算力服务器生产与组装 3,360 56%"
+    },
+    {
+      "name": "广西南一智能科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "战略合作方，共同推进算力集群项目落地南宁。",
+      "quote": "公司瞄准东盟发展机遇，与广西南一智能科技有限公司达成战略合作，后续将共同推进算力集群项目落地南宁"
+    },
+    {
+      "name": "AB路桥建设有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与公司子公司共同设立合资公司超讯光明进出口商贸有限公司，合作推进老挝光伏电力项目。",
+      "quote": "由公司子公司与AB路桥建设有限公司共同设立的合资公司——超讯光明进出口商贸有限公司，与老挝人民民主共和国政府、AB路桥共同签订了《波利坎赛省和色贡省光伏电力项目开发可行性研究勘探谅解备忘录（MOU）》"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智算",
+      "segment_type": "product_line",
+      "revenue_amount": "1,579,459,784.86元",
+      "revenue_proportion": null,
+      "gross_margin": "9.21%",
+      "yoy_change": "营业收入比上年增减（%）73.57",
+      "quote": "智算 1,579,459,784.86 1,433,989,392.43 9.21 73.57 78.16 -2.34"
+    },
+    {
+      "name": "信通",
+      "segment_type": "product_line",
+      "revenue_amount": "731,155,223.71元",
+      "revenue_proportion": null,
+      "gross_margin": "8.90%",
+      "yoy_change": "营业收入比上年增减（%）-2.85",
+      "quote": "信通 731,155,223.71 666,079,595.02 8.90 -2.85 -3.96 1.05"
+    },
+    {
+      "name": "算力",
+      "segment_type": "product_line",
+      "revenue_amount": "1,579,459,784.86元",
+      "revenue_proportion": null,
+      "gross_margin": "9.21%",
+      "yoy_change": "营业收入比上年增减（%）73.57",
+      "quote": "算力 1,579,459,784.86 1,433,989,392.43 9.21 73.57 78.16 -2.34"
+    },
+    {
+      "name": "ICT",
+      "segment_type": "product_line",
+      "revenue_amount": "203,851,946.01元",
+      "revenue_proportion": null,
+      "gross_margin": "21.15%",
+      "yoy_change": "营业收入比上年增减（%）-5.36",
+      "quote": "ICT 203,851,946.01 160,733,535.34 21.15 -5.36 -12.25 6.19"
+    },
+    {
+      "name": "通服",
+      "segment_type": "product_line",
+      "revenue_amount": "527,303,277.70元",
+      "revenue_proportion": null,
+      "gross_margin": "4.16%",
+      "yoy_change": "营业收入比上年增减（%）-1.84",
+      "quote": "通服 527,303,277.70 505,346,059.68 4.16 -1.84 -0.98 -0.83"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "1,338,102,431.80元",
+      "revenue_proportion": null,
+      "gross_margin": "1.40%",
+      "yoy_change": "营业收入比上年增减（%）73.49",
+      "quote": "华北 1,338,102,431.80 1,319,361,376.33 1.40 73.49 75.72 -1.25"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "731,236,708.00元",
+      "revenue_proportion": null,
+      "gross_margin": "20.57%",
+      "yoy_change": "营业收入比上年增减（%）32.60",
+      "quote": "华南 731,236,708.00 580,805,424.42 20.57 32.60 30.53 1.26"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "讯曦智能算力服务器生产与组装项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "3,360万元",
+      "designed_capacity": null,
+      "progress": "投建中",
+      "expected_completion_time": null,
+      "quote": "投资金额 3,360 ...进展情况 投建中"
+    },
+    {
+      "name": "青海西宁三江源国家大数据基地GPU算力集群项目",
+      "project_type": "capacity_expansion",
+      "location": "青海西宁三江源国家大数据基地",
+      "investment_amount": null,
+      "designed_capacity": "516国产GPU算力集群，共计部署4096张国产GPU计算卡",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "2025年下半年还依托青海西宁三江源国家大数据基地数据中心机房，部署516国产GPU算力集群，...该集群共计部署4096张国产GPU计算卡"
+    },
+    {
+      "name": "老挝波利坎赛省和色贡省光伏电力项目",
+      "project_type": "other",
+      "location": "老挝人民民主共和国波利坎赛省和色贡省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "签署《备忘录协议（MOA）》，进入实质性筹备阶段",
+      "expected_completion_time": null,
+      "quote": "与老挝国家电力公司（EDL）正式签署《波里坎塞省和色贡省光伏电力项目备忘录协议（MOA）》，进入实质性筹备阶段"
+    },
+    {
+      "name": "之江实验室W64智算集群算力服务采购项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "中标",
+      "expected_completion_time": null,
+      "quote": "公司先后中标了之江实验室W64智算集群算力服务采购项目"
+    },
+    {
+      "name": "广电运通2025年算力资源专项扩容项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "中标",
+      "expected_completion_time": null,
+      "quote": "广电运通2025年算力资源专项扩容项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "广东省广域泛在连接与服务融合创新工程技术研究中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "广东省广域泛在连接与服务融合创新工程技术研究中心"
+    },
+    {
+      "name": "广东省超高清视频前端系统创新中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "广东省超高清视频前端系统创新中心"
+    },
+    {
+      "name": "广州市5G创新中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "广州市5G创新中心"
+    },
+    {
+      "name": "高新技术企业认证（公司及康利物联）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "本公司及康利物联享受15%企业所得税优惠。",
+      "quote": "本公司和子公司广东康利达物联科技有限公司（以下简称“康利物联”）系高新技术企业，享受企业所得税税率减按15%的税收优惠政策"
+    },
+    {
+      "name": "沐曦股份全国总代理经销商资质",
+      "asset_type": "certification",
+      "related_product": "GPU芯片相关设备",
+      "quantitative_info": null,
+      "quote": "沐曦股份全国总代理经销商"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "89.61%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额20,803.41万元，占年度销售总额89.61%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "50.96%",
+      "related_entity": "广东奥飞数据科技股份有限公司",
+      "period": "2025年",
+      "quote": "1 广东奥飞数据科技股份有限公司 1,183,007,148.52 50.96"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "48.95%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额102,953.54万元，占年度采购总额48.95%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "22.76%",
+      "related_entity": "广州豪特节能环保科技股份有限公司",
+      "period": "2025年",
+      "quote": "1 广州豪特节能环保科技股份有限公司 478,794,040.73 22.76"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "如果未来主要客户的市场地位及经营状况发生重大不利变化，则会对公司的经营业绩产生较大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、客户集中风险。如果未来主要客户的市场地位及经营状况发生重大不利变化，则会对公司的经营业绩产生较大影响。"
+    },
+    {
+      "risk_type": "accounts_receivable",
+      "description": "应收账款规模可能会继续增长，若行业发生重大不利变化或重要客户违约，可能导致公司应收账款发生较大额的损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、应收账款比例较高及发生坏账的风险。随着公司经营规模的进一步扩大，应收账款规模可能会继续增长，若行业发生重大不利变化或重要客户违约，可能导致公司应收账款发生较大额的损失，计提坏账的增加将对公司的经营业绩产生较大不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "信息技术行业技术更新快、产品周期短，如果未来公司技术研发方向发生偏离，将会导致公司技术研发成果无法应用于市场。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、配套性技术开发风险。信息技术行业具有发展迅速、技术更新快、产品周期短的特点。如果未来公司技术研发方向发生偏离，将会导致公司技术研发成果无法应用于市场，对公司业务发展造成不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着公司业务转型，未来业务重心和战略资源将更多倾向于智算板块，可能存在新业务板块市场竞争加剧带来的利润降低风险。",
+      "related_entity": null,
+      "related_product": "智算业务",
+      "quote": "4、新旧业务支撑动能转换期间利润波动的风险。随着公司业务转型的落地，公司未来发展的业务重心和战略资源将更多倾向于智算板块，可能存在新业务板块市场竞争加剧带来的利润降低风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "通信技术服务业务可能存在因客户预算不足而降低采购量，导致公司通信技术服务业务收入下降的风险。",
+      "related_entity": null,
+      "related_product": "通信技术服务业务",
+      "quote": "5、通信技术服务业务收入下降的风险。通信技术服务业务可能存在因客户预算不足而降低通信技术服务业务采购量，导致公司通信技术服务业务收入下降的风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "若并购标的公司未来经营状况恶化，并购交易所形成的商誉将会存在减值风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、商誉减值风险。若并购标的公司未来经营状况恶化，并购交易所形成的商誉将会存在减值风险，从而对公司经营业绩造成不利影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司目前资产负债率偏高，经营资金存在较大压力，存在未来发展与经营不确定性的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、未来发展与经营不确定性风险。公司目前资产负债率偏高，经营资金存在较大压力，存在未来发展与经营不确定性的风险。"
+    }
+  ]
+}

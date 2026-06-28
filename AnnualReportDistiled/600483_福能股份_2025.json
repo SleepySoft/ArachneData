@@ -1,0 +1,529 @@
+{
+  "company_name_mentioned": "福建福能股份有限公司",
+  "produces": [
+    {
+      "name": "供电",
+      "type": "service",
+      "revenue_proportion": "2025年度主营业务分产品情况：供电收入11,177,797,074.04元，占总营收比例（供电收入/总营收）未直接给出，但营业成本占比53.80%。",
+      "quote": "供电 11,177,797,074.04 7,573,822,281.09 32.24 -5.07 -8.47 增加2.51个百分点"
+    },
+    {
+      "name": "供热",
+      "type": "service",
+      "revenue_proportion": "2025年度主营业务分产品情况：供热收入1,761,930,840.59元，占总营收比例未直接给出，但营业成本占比11.47%。",
+      "quote": "供热 1,761,930,840.59 1,430,790,102.97 18.79 -12.08 -11.16 减少0.84个百分点"
+    },
+    {
+      "name": "纺织制品",
+      "type": "material",
+      "revenue_proportion": "2025年度主营业务分产品情况：纺织制品收入683,968,538.96元，占总营收比例未直接给出，但营业成本占比5.92%。",
+      "quote": "纺织制品 683,968,538.96 677,008,260.64 1.02 6.11 3.38 增加2.62个百分点"
+    },
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "2025年度主营业务分行业情况：电力行业营业收入12,950,951,752.59元，占年度销售总额（主营业务收入）比例未直接给出。",
+      "quote": "电力 12,950,951,752.59 9,071,316,392.90 29.96 -6.12 -9.07 增加2.28个百分点"
+    },
+    {
+      "name": "纺织",
+      "type": "material",
+      "revenue_proportion": "2025年度主营业务分行业情况：纺织行业营业收入683,968,538.96元，占年度销售总额比例未直接给出。",
+      "quote": "纺织 683,968,538.96 677,008,260.64 1.02 6.11 3.38 增加2.62个百分点"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（电力行业）",
+      "target_product": "供电、供热",
+      "cost_proportion": "2025年度电力行业成本构成：原材料成本6,283,398,218.56元，占总成本比例65.25%。",
+      "quote": "原材料 6,283,398,218.56 65.25 6,854,184,602.59 65.24 -8.33"
+    },
+    {
+      "name": "原材料（纺织行业）",
+      "target_product": "纺织制品",
+      "cost_proportion": "2025年度纺织行业成本构成：原材料成本570,289,061.03元，占总成本比例5.92%。",
+      "quote": "原材料 570,289,061.03 5.92 551,475,324.47 5.25 3.41"
+    },
+    {
+      "name": "煤炭",
+      "target_product": "燃煤发电、热电联产",
+      "cost_proportion": null,
+      "quote": "公司天然气发电、燃煤发电（含热电联产、燃煤纯凝发电）、新能源发电（含风力发电、光伏发电）所生产的电力产品...热力产品销售给工业园区用热企业"
+    },
+    {
+      "name": "天然气",
+      "target_product": "天然气发电",
+      "cost_proportion": null,
+      "quote": "公司天然气发电...所生产的电力产品..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网、售电公司及市场批发用户",
+      "source_product": "电力产品",
+      "quote": "公司天然气发电、燃煤发电（含热电联产、燃煤纯凝发电）、新能源发电（含风力发电、光伏发电）所生产的电力产品全部销售给电网公司、售电公司和市场批发用户等"
+    },
+    {
+      "name": "工业园区用热企业",
+      "source_product": "热力产品",
+      "quote": "热力产品销售给工业园区用热企业"
+    },
+    {
+      "name": "产业用纺织品（如卫生巾、面膜、过滤材料等）",
+      "source_product": "机织布、针刺非织造布、水刺非织造布",
+      "quote": "福能南纺根据市场需求，生产销售机织布和针刺、水刺非织造布等产业用纺织品。...公司深耕福建市场，强化大客户建设，致力于卫生巾、面膜、过滤等领域的差别化产品销售"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "桂思玉",
+      "role": "党委书记、董事长",
+      "quote": "公司负责人桂思玉、主管会计工作负责人巫立非及会计机构负责人（会计主管人员）夏万里声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "罗睿",
+      "role": "党委副书记、副董事长、总经理",
+      "quote": "罗 睿 党委副书记、副董事长、总经理"
+    },
+    {
+      "name": "巫立非",
+      "role": "党委委员、财务总监",
+      "quote": "巫立非 党委委员、财务总监"
+    },
+    {
+      "name": "汪元军",
+      "role": "党委委员、董事会秘书、总法律顾问",
+      "quote": "汪元军 党委委员、董事会秘书、总法律顾问"
+    },
+    {
+      "name": "郭以峰",
+      "role": "党委委员、副总经理",
+      "quote": "郭以峰 党委委员、副总经理"
+    },
+    {
+      "name": "陈少毅",
+      "role": "党委委员、副总经理",
+      "quote": "陈少毅 党委委员、副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "福建省能源集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、能源集团 指 福建省能源集团有限责任公司"
+    },
+    {
+      "name": "福建省鸿山热电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "鸿山热电 指 福建省鸿山热电有限责任公司-公司全资子公司"
+    },
+    {
+      "name": "福建晋江天然气发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "晋江气电 指 福建晋江天然气发电有限公司-公司控股子公司"
+    },
+    {
+      "name": "福建省福能新能源有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "福能新能源 指 福建省福能新能源有限责任公司-公司全资子公司"
+    },
+    {
+      "name": "福建福能南纺卫生材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "福能南纺 指 福建福能南纺卫生材料有限公司-公司全资子公司"
+    },
+    {
+      "name": "福建省福能龙安热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "龙安热电 指 福建省福能龙安热电有限公司-公司控股子公司"
+    },
+    {
+      "name": "福建省三川海上风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "三川风电 指 福建省三川海上风电有限公司-公司控股子公司"
+    },
+    {
+      "name": "福建省配电售电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "配售电公司 指 福建省配电售电有限责任公司-公司全资子公司"
+    },
+    {
+      "name": "福建省福能晋南热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "晋南热电 指 福建省福能晋南热电有限公司-公司控股子公司"
+    },
+    {
+      "name": "福能（贵州）发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "福能贵电 指 福能（贵州）发电有限公司-公司控股子公司"
+    },
+    {
+      "name": "福建省福能海峡发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "福能海峡 指 福建省福能海峡发电有限公司-公司控股子公司"
+    },
+    {
+      "name": "海峡发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "海峡发电 指 海峡发电有限责任公司-公司参股公司"
+    },
+    {
+      "name": "国能神福（石狮）发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "国能石狮 指 国能神福（石狮）发电有限公司-公司参股公司"
+    },
+    {
+      "name": "国网福建省电力有限公司",
+      "relation_type": "customer",
+      "business_details": "主要销售客户",
+      "quote": "序号 客户名称 销售额 占年度销售总额比例（%）\n1 国网福建省电力有限公司 898,819.34 65.37"
+    },
+    {
+      "name": "福建省福能物流有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "关联方供应商，采购煤炭",
+      "quote": "福能物流 采购煤炭 290,000.00 196,873.29"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "12,950,951,752.59元",
+      "revenue_proportion": null,
+      "gross_margin": "29.96%",
+      "yoy_change": "营业收入比上年同期增减 -6.12%",
+      "quote": "电力 12,950,951,752.59 9,071,316,392.90 29.96 -6.12 -9.07 增加2.28个百分点"
+    },
+    {
+      "name": "纺织",
+      "segment_type": "product_line",
+      "revenue_amount": "683,968,538.96元",
+      "revenue_proportion": null,
+      "gross_margin": "1.02%",
+      "yoy_change": "营业收入比上年同期增减 6.11%",
+      "quote": "纺织 683,968,538.96 677,008,260.64 1.02 6.11 3.38 增加2.62个百分点"
+    },
+    {
+      "name": "供电",
+      "segment_type": "product_line",
+      "revenue_amount": "11,177,797,074.04元",
+      "revenue_proportion": null,
+      "gross_margin": "32.24%",
+      "yoy_change": "营业收入比上年同期增减 -5.07%",
+      "quote": "供电 11,177,797,074.04 7,573,822,281.09 32.24 -5.07 -8.47 增加2.51个百分点"
+    },
+    {
+      "name": "供热",
+      "segment_type": "product_line",
+      "revenue_amount": "1,761,930,840.59元",
+      "revenue_proportion": null,
+      "gross_margin": "18.79%",
+      "yoy_change": "营业收入比上年同期增减 -12.08%",
+      "quote": "供热 1,761,930,840.59 1,430,790,102.97 18.79 -12.08 -11.16 减少0.84个百分点"
+    },
+    {
+      "name": "纺织制品",
+      "segment_type": "product_line",
+      "revenue_amount": "683,968,538.96元",
+      "revenue_proportion": null,
+      "gross_margin": "1.02%",
+      "yoy_change": "营业收入比上年同期增减 6.11%",
+      "quote": "纺织制品 683,968,538.96 677,008,260.64 1.02 6.11 3.38 增加2.62个百分点"
+    },
+    {
+      "name": "福建省内",
+      "segment_type": "region",
+      "revenue_amount": "11,540,298,277.13元",
+      "revenue_proportion": null,
+      "gross_margin": "31.60%",
+      "yoy_change": "营业收入比上年同期增减 -5.30%",
+      "quote": "福建省内 11,540,298,277.13 7,893,958,105.34 31.60 -5.30 -8.53 增加2.42个百分点"
+    },
+    {
+      "name": "福建省外",
+      "segment_type": "region",
+      "revenue_amount": "2,094,622,014.42元",
+      "revenue_proportion": null,
+      "gross_margin": "11.47%",
+      "yoy_change": "营业收入比上年同期增减 -7.02%",
+      "quote": "福建省外 2,094,622,014.42 1,854,366,548.20 11.47 -7.02 -7.35 增加0.32个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力（总计）",
+      "metric_type": "production_volume",
+      "value": "2,357,693.38万千瓦时",
+      "period": "2025年度",
+      "quote": "电力 万千瓦时 2,357,693.38 2,242,516.60 -2.36 -2.37"
+    },
+    {
+      "product": "电力（总计）",
+      "metric_type": "sales_volume",
+      "value": "2,242,516.60万千瓦时",
+      "period": "2025年度",
+      "quote": "电力 万千瓦时 2,357,693.38 2,242,516.60 -2.36 -2.37"
+    },
+    {
+      "product": "供热",
+      "metric_type": "production_volume",
+      "value": "1,008.34万吨",
+      "period": "2025年度",
+      "quote": "供热 万吨 1,008.34 1,008.34 -2.15 -2.15"
+    },
+    {
+      "product": "供热",
+      "metric_type": "sales_volume",
+      "value": "1,008.34万吨",
+      "period": "2025年度",
+      "quote": "供热 万吨 1,008.34 1,008.34 -2.15 -2.15"
+    },
+    {
+      "product": "机织布",
+      "metric_type": "production_volume",
+      "value": "2,373.06万米",
+      "period": "2025年度",
+      "quote": "机织布（万米） 万米 2,373.06 2,399.69 411.43 33.81 37.52 -8.37"
+    },
+    {
+      "product": "针刺非织造布",
+      "metric_type": "production_volume",
+      "value": "957.32万米",
+      "period": "2025年度",
+      "quote": "针刺非织造布（万米） 万米 957.32 953.42 55.31 2.59 2.03 -4.61"
+    },
+    {
+      "product": "水刺非织造布",
+      "metric_type": "production_volume",
+      "value": "27,281.45吨",
+      "period": "2025年度",
+      "quote": "水刺非织造布（吨） 吨 27,281.45 25,971.26 1,903.64 18.83 13.12 64.41"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "615.20万千瓦",
+      "period": "截至2025年底",
+      "quote": "截至报告期末，公司控股运营发电装机容量615.20万千瓦。"
+    },
+    {
+      "product": "风力发电",
+      "metric_type": "capacity",
+      "value": "180.90万千瓦",
+      "period": "截至2025年底",
+      "quote": "截至2025年底，公司控股投运风电总装机180.90万千瓦"
+    },
+    {
+      "product": "天然气发电",
+      "metric_type": "capacity",
+      "value": "156.00万千瓦",
+      "period": "截至2025年底",
+      "quote": "天然气发电156.00万千瓦"
+    },
+    {
+      "product": "热电联产",
+      "metric_type": "capacity",
+      "value": "134.11万千瓦",
+      "period": "截至2025年底",
+      "quote": "热电联产134.11万千瓦"
+    },
+    {
+      "product": "燃煤纯凝发电",
+      "metric_type": "capacity",
+      "value": "132.00万千瓦",
+      "period": "截至2025年底",
+      "quote": "燃煤纯凝发电132.00万千瓦"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "capacity",
+      "value": "12.19万千瓦",
+      "period": "截至2025年底",
+      "quote": "光伏发电12.19万千瓦"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "仙游木兰抽水蓄能电站",
+      "project_type": "capacity_expansion",
+      "location": "福建仙游",
+      "investment_amount": "836,159.81万元",
+      "designed_capacity": null,
+      "progress": "项目实施",
+      "expected_completion_time": null,
+      "quote": "仙游木兰抽水蓄能电站 836,159.81 项目实施 92,511.16 179,276.17 在建项目，尚未产生收益"
+    },
+    {
+      "name": "东桥热电2×660MW热电联产",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "690,284.00万元",
+      "designed_capacity": "2×660MW",
+      "progress": "项目实施",
+      "expected_completion_time": null,
+      "quote": "东桥热电2×660MW热电联产 690,284.00 项目实施 105,989.25 178,808.20 在建项目，尚未产生收益"
+    },
+    {
+      "name": "华安抽水蓄能电站项目",
+      "project_type": "capacity_expansion",
+      "location": "福建华安",
+      "investment_amount": "912,935.00万元",
+      "designed_capacity": null,
+      "progress": "项目实施",
+      "expected_completion_time": null,
+      "quote": "华安抽水蓄能电站项目 912,935.00 项目实施 34,338.16 95,852.83 在建项目，尚未产生收益"
+    },
+    {
+      "name": "长乐外海J区海上风电场项目",
+      "project_type": "capacity_expansion",
+      "location": "福建长乐外海",
+      "investment_amount": "658,800.00万元",
+      "designed_capacity": null,
+      "progress": "项目实施",
+      "expected_completion_time": null,
+      "quote": "长乐外海J区海上风电场项目 658,800.00 项目实施 1,734.92 3,700.02 在建项目，尚未产生收益"
+    },
+    {
+      "name": "福建南安抽水蓄能电站",
+      "project_type": "capacity_expansion",
+      "location": "福建南安",
+      "investment_amount": "801,943.00万元",
+      "designed_capacity": "120万千瓦",
+      "progress": "取得核准",
+      "expected_completion_time": null,
+      "quote": "取得南安抽水蓄能电站项目(120万千瓦)核准"
+    },
+    {
+      "name": "泉惠石化工业区2×660MW超超临界热电联产项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "250,000.00万元（募集资金计划投资总额）",
+      "designed_capacity": "2×660MW",
+      "progress": "22.13%",
+      "expected_completion_time": "2026年12月",
+      "quote": "泉惠石化工业区2×660MW超超临界热电联产项目...项目达到预定可使用状态日期 2026年12月"
+    },
+    {
+      "name": "福建省仙游木兰抽水蓄能电站项目",
+      "project_type": "capacity_expansion",
+      "location": "福建仙游",
+      "investment_amount": "129,847.25万元（募集资金计划投资总额）",
+      "designed_capacity": null,
+      "progress": "40.01%",
+      "expected_completion_time": "2030年2月",
+      "quote": "福建省仙游木兰抽水蓄能电站项目...项目达到预定可使用状态日期 2030年2月"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年度共取得知识产权58项，其中发明专利授权7项，实用新型专利授权49项，计算机软件著作权2项；截至2025年底，公司共获得国家专利及计算机软件著作权总数537项。",
+      "quote": "报告期内，公司共取得发明专利授权7项，实用新型专利授权49项，计算机软件著作权2项；截至2025年底，公司共获得国家专利及计算机软件著作权总数537项。"
+    },
+    {
+      "name": "风电机组设备综合电量可利用率",
+      "asset_type": "core_technology",
+      "related_product": "风力发电",
+      "quantitative_info": "2025年，公司风电机组设备综合电量可利用率达98.13%，处于行业先进水平。",
+      "quote": "2025年，公司风电机组设备综合电量可利用率达98.13%，处于行业先进水平。"
+    },
+    {
+      "name": "鸿山热电综合供电标煤耗",
+      "asset_type": "process_technology",
+      "related_product": "热电联产",
+      "quantitative_info": "267.29克/千瓦时，低于同类型燃煤火电机组约30克/千瓦时。",
+      "quote": "2025年，鸿山热电综合供电标煤耗267.29克/千瓦时，低于同类型燃煤火电机组约30克/千瓦时"
+    },
+    {
+      "name": "9FA燃气—蒸汽联合循环机组",
+      "asset_type": "technical_platform",
+      "related_product": "天然气发电",
+      "quantitative_info": "联合循环效率高达57%。",
+      "quote": "晋江气电运营的9FA燃气—蒸汽联合循环机组，采用通用电气公司先进的燃机技术和MARK Ⅵ e控制系统，机组联合循环效率高达57%。"
+    },
+    {
+      "name": "深远海域大容量风机基础关键技术开发与应用",
+      "asset_type": "core_technology",
+      "related_product": "海上风电",
+      "quantitative_info": "获“福建省科学技术进步奖一等奖”。",
+      "quote": "福能海峡“深远海域大容量风机基础关键技术开发与应用”获“福建省科学技术进步奖一等奖”"
+    },
+    {
+      "name": "福建省专精特新中小企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "福能新能源入选。",
+      "quote": "福能新能源入选福建省专精特新中小企业名单"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "82.70%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额1,137,106.47万元，占年度销售总额82.70%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "65.37%",
+      "related_entity": "国网福建省电力有限公司",
+      "period": "2025年度",
+      "quote": "1 国网福建省电力有限公司 898,819.34 65.37"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.89%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额478,943.35万元，占年度采购总额42.89%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "社会用电量增速变化、电力市场现货交易、新增装机陆续投产等因素影响，公司发电机组利用小时数及电价可能发生波动。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "1.社会用电量增速变化、电力市场现货交易、新增装机陆续投产等因素影响，公司发电机组利用小时数及电价可能发生波动。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "煤炭价格波动影响公司燃料成本。",
+      "related_entity": null,
+      "related_product": "燃煤发电、热电联产",
+      "quote": "2.煤炭价格波动影响公司燃料成本。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "天然气价格、气电电价、发电权基数合同等因素影响天然气发电机组盈利水平。",
+      "related_entity": null,
+      "related_product": "天然气发电",
+      "quote": "3.天然气价格、气电电价、发电权基数合同等因素影响天然气发电机组盈利水平。"
+    },
+    {
+      "risk_type": "other",
+      "description": "近年来，国内消费品市场持续低迷，消费规模不断降等降级，原料成本无法有效传导；受西方国家的贸易壁垒、进口地转移及持续不断的局部动荡等影响，出口方面难度进一步加大。水刺材料...但目前需求增量不及产能富余，同质化竞争激烈，行业整体经营情况不够理想。",
+      "related_entity": null,
+      "related_product": "纺织品",
+      "quote": "近年来，国内消费品市场持续低迷，消费规模不断降等降级，原料成本无法有效传导；受西方国家的贸易壁垒、进口地转移及持续不断的局部动荡等影响，出口方面难度进一步加大。水刺材料作为一次性卫生用品材料...但目前需求增量不及产能富余，同质化竞争激烈，行业整体经营情况不够理想。"
+    }
+  ]
+}

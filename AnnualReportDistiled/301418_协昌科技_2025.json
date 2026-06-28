@@ -1,0 +1,453 @@
+{
+  "company_name_mentioned": "江苏协昌电子科技集团股份有限公司",
+  "produces": [
+    {
+      "name": "运动控制器",
+      "type": "device",
+      "revenue_proportion": "55.55%",
+      "quote": "分产品 运动控制器 209,723,647.23 55.55% 260,517,752.58 78.88% -19.50%"
+    },
+    {
+      "name": "封装成品",
+      "type": "component",
+      "revenue_proportion": "20.74%",
+      "quote": "分产品 封装成品 78,296,107.13 20.74% 11,224,040.59 3.40% 597.58%"
+    },
+    {
+      "name": "晶圆",
+      "type": "material",
+      "revenue_proportion": "15.57%",
+      "quote": "分产品 晶圆 58,794,835.97 15.57% 21,812,569.68 6.60% 169.55%"
+    },
+    {
+      "name": "运动控制模块",
+      "type": "component",
+      "revenue_proportion": "8.04%",
+      "quote": "分产品 运动控制模块 30,352,013.87 8.04% 35,700,621.52 10.81% -14.98%"
+    },
+    {
+      "name": "运动控制产品",
+      "type": "device",
+      "revenue_proportion": "63.69%",
+      "quote": "分行业 运动控制产品 240,449,864.87 63.69% 297,056,428.27 89.95% -19.06%"
+    },
+    {
+      "name": "功率芯片",
+      "type": "component",
+      "revenue_proportion": "36.31%",
+      "quote": "分行业 功率芯片 137,090,996.20 36.31% 33,194,030.27 10.05% 313.00%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "晶圆",
+      "target_product": "封装成品",
+      "cost_proportion": null,
+      "quote": "①晶圆方面，公司采取行业内普遍的Fabless的生产模式，在生产过程中，公司仅向晶圆代工厂商等提供自主研发的芯片设计图纸及其他必要规格文件等。晶圆裸片由晶圆代工厂统一采购，公司采购的晶圆均为经晶圆厂加工、测试后带有多层电路结构的晶圆。"
+    },
+    {
+      "name": "PCB",
+      "target_product": "运动控制器",
+      "cost_proportion": null,
+      "quote": "运动控制器是将功率器件封装成品、烧录了控制软件的MCU以及电容、电感等基础分立器件结合至PCB板上，与接插件及壳体一并组装成完整的一体化产品"
+    },
+    {
+      "name": "MOSFET",
+      "target_product": "运动控制器",
+      "cost_proportion": null,
+      "quote": "部分运动控制模块会同时搭配MOSFET产品进行销售，以提供更加匹配的解决方案，充分发挥上下游协同优势。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电动两轮车",
+      "source_product": "运动控制器",
+      "quote": "公司运动控制器产品主要应用于电动自行车、电动轻摩、E-Bike、电动摩托车及电动三轮车等领域。"
+    },
+    {
+      "name": "电动三轮车",
+      "source_product": "运动控制器",
+      "quote": "公司运动控制器产品主要应用于电动自行车、电动轻摩、E-Bike、电动摩托车及电动三轮车等领域。"
+    },
+    {
+      "name": "电动工具",
+      "source_product": "功率芯片",
+      "quote": "功率器件产品目前主要应用于电动两三轮车控制器、电动工具、消费电子及家用电器等领域；"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "功率芯片",
+      "quote": "功率器件产品目前主要应用于电动两三轮车控制器、电动工具、消费电子及家用电器等领域；"
+    },
+    {
+      "name": "家用电器",
+      "source_product": "功率芯片",
+      "quote": "功率器件产品目前主要应用于电动两三轮车控制器、电动工具、消费电子及家用电器等领域；"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "顾挺",
+      "role": "控股股东、实际控制人、董事长、总经理",
+      "quote": "控股股东 指 顾挺 实际控制人 指 顾挺、顾韧 公司负责人顾挺"
+    },
+    {
+      "name": "顾韧",
+      "role": "实际控制人、董事、副总经理",
+      "quote": "实际控制人 指 顾挺、顾韧"
+    },
+    {
+      "name": "曾骁",
+      "role": "董事会秘书、财务负责人",
+      "quote": "主管会计工作负责人曾骁及会计机构负责人(会计主管人员)曾骁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "张家港凯思半导体有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "功率芯片的研发和销售",
+      "quote": "凯思半导体 指 张家港凯思半导体有限公司"
+    },
+    {
+      "name": "张家港凯诚软件科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "运动控制方案的研发与销售",
+      "quote": "凯诚软件 指 张家港凯诚软件科技有限公司"
+    },
+    {
+      "name": "凯美半导体（苏州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "集成电路的封装测试",
+      "quote": "凯美半导体 指 凯美半导体（苏州）有限公司"
+    },
+    {
+      "name": "协昌电驱动科技（苏州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电驱动动力总成的研发与销售",
+      "quote": "协昌电驱动 指 协昌电驱动科技（苏州）有限公司"
+    },
+    {
+      "name": "协昌电子科技（苏州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "运动控制器的研发与销售",
+      "quote": "苏州协昌 指 协昌电子科技（苏州）有限公司"
+    },
+    {
+      "name": "国金证券股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "保荐机构",
+      "quote": "保荐人、保荐机构、国金证券 指 国金证券股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "运动控制产品",
+      "segment_type": "product_line",
+      "revenue_amount": "240,449,864.87",
+      "revenue_proportion": "63.69%",
+      "gross_margin": "14.75%",
+      "yoy_change": "-19.06%",
+      "quote": "分行业 运动控制产品 240,449,864.87 63.69% 297,056,428.27 89.95% -19.06% 营业收入比上 年同期增减 毛利率"
+    },
+    {
+      "name": "功率芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "137,090,996.20",
+      "revenue_proportion": "36.31%",
+      "gross_margin": "5.71%",
+      "yoy_change": "313.00%",
+      "quote": "分行业 功率芯片 137,090,996.20 36.31% 33,194,030.27 10.05% 313.00% 营业收入比上 年同期增减 毛利率"
+    },
+    {
+      "name": "运动控制器",
+      "segment_type": "product_line",
+      "revenue_amount": "209,723,647.23",
+      "revenue_proportion": "55.55%",
+      "gross_margin": "11.76%",
+      "yoy_change": "-19.50%",
+      "quote": "分产品 运动控制器 209,723,647.23 55.55% 260,517,752.58 78.88% -19.50%"
+    },
+    {
+      "name": "晶圆",
+      "segment_type": "product_line",
+      "revenue_amount": "58,794,835.97",
+      "revenue_proportion": "15.57%",
+      "gross_margin": "7.68%",
+      "yoy_change": "169.55%",
+      "quote": "分产品 晶圆 58,794,835.97 15.57% 21,812,569.68 6.60% 169.55%"
+    },
+    {
+      "name": "封装成品",
+      "segment_type": "product_line",
+      "revenue_amount": "78,296,107.13",
+      "revenue_proportion": "20.74%",
+      "gross_margin": "4.22%",
+      "yoy_change": "597.58%",
+      "quote": "分产品 封装成品 78,296,107.13 20.74% 11,224,040.59 3.40% 597.58%"
+    },
+    {
+      "name": "运动控制模块",
+      "segment_type": "product_line",
+      "revenue_amount": "30,352,013.87",
+      "revenue_proportion": "8.04%",
+      "gross_margin": "35.54%",
+      "yoy_change": "-14.98%",
+      "quote": "分产品 运动控制模块 30,352,013.87 8.04% 35,700,621.52 10.81% -14.98%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "253,230,109.60",
+      "revenue_proportion": "67.07%",
+      "gross_margin": "11.98%",
+      "yoy_change": "30.86%",
+      "quote": "分地区 华东 253,230,109.60 67.07% 193,517,146.71 58.60% 30.86%"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "72,339,906.67",
+      "revenue_proportion": "19.16%",
+      "gross_margin": "10.16%",
+      "yoy_change": "-0.97%",
+      "quote": "分地区 华南 72,339,906.67 19.16% 73,049,619.58 22.12% -0.97%"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "29,010,931.89",
+      "revenue_proportion": "7.68%",
+      "gross_margin": "8.05%",
+      "yoy_change": "-41.83%",
+      "quote": "分地区 华北 29,010,931.89 7.68% 49,870,677.79 15.10% -41.83%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "360,935,742.74",
+      "revenue_proportion": "95.60%",
+      "gross_margin": "11.94%",
+      "yoy_change": "11.46%",
+      "quote": "分销售模式 直销 360,935,742.74 95.60% 323,836,664.82 98.06% 11.46%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "16,605,118.33",
+      "revenue_proportion": "4.40%",
+      "gross_margin": null,
+      "yoy_change": "158.90%",
+      "quote": "分销售模式 经销 16,605,118.33 4.40% 6,413,793.72 1.94% 158.90%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "运动控制器",
+      "metric_type": "sales_volume",
+      "value": "557.96万个",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 万个 557.96 670.90 -16.83% 运动控制器"
+    },
+    {
+      "product": "运动控制器",
+      "metric_type": "production_volume",
+      "value": "568.12万个",
+      "period": "2025年",
+      "quote": "生产量 万个 568.12 660.95 -14.04% 运动控制器"
+    },
+    {
+      "product": "运动控制器",
+      "metric_type": "inventory_volume",
+      "value": "17.58万个",
+      "period": "2025年末",
+      "quote": "库存量 万个 17.58 21.52 -18.31% 运动控制器"
+    },
+    {
+      "product": "运动控制模块",
+      "metric_type": "sales_volume",
+      "value": "270.61万个",
+      "period": "2025年",
+      "quote": "销售量 万个 270.61 289.46 -6.51% 运动控制模块"
+    },
+    {
+      "product": "运动控制模块",
+      "metric_type": "production_volume",
+      "value": "273.03万个",
+      "period": "2025年",
+      "quote": "生产量 万个 273.03 315.76 -13.53% 运动控制模块"
+    },
+    {
+      "product": "运动控制模块",
+      "metric_type": "inventory_volume",
+      "value": "12.07万个",
+      "period": "2025年末",
+      "quote": "库存量 万个 12.07 18.16 -33.55% 运动控制模块"
+    },
+    {
+      "product": "晶圆",
+      "metric_type": "sales_volume",
+      "value": "2.96万个",
+      "period": "2025年",
+      "quote": "销售量 万个 2.96 1.41 109.93% 晶圆"
+    },
+    {
+      "product": "晶圆",
+      "metric_type": "production_volume",
+      "value": "9.29万个",
+      "period": "2025年",
+      "quote": "生产量 万个 9.29 3.06 203.73% 晶圆"
+    },
+    {
+      "product": "晶圆",
+      "metric_type": "inventory_volume",
+      "value": "3.77万个",
+      "period": "2025年末",
+      "quote": "库存量 万个 3.77 1.68 124.40% 晶圆"
+    },
+    {
+      "product": "封装成品",
+      "metric_type": "sales_volume",
+      "value": "9612.37万个",
+      "period": "2025年",
+      "quote": "销售量 万个 9,612.37 2,075.81 363.07% 封装成品"
+    },
+    {
+      "product": "封装成品",
+      "metric_type": "production_volume",
+      "value": "18792.18万个",
+      "period": "2025年",
+      "quote": "生产量 万个 18,792.18 4,945.55 279.98% 封装成品"
+    },
+    {
+      "product": "封装成品",
+      "metric_type": "inventory_volume",
+      "value": "5286.71万个",
+      "period": "2025年末",
+      "quote": "库存量 万个 5,286.71 2,102.30 151.47% 封装成品"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "运动控制器、功率芯片研发及封装基地建设项目",
+      "project_type": "fundraising_project",
+      "location": "张家港市凤凰镇凤凰大道与苏虞张公路交叉口东侧",
+      "investment_amount": "41,942.90万元",
+      "designed_capacity": null,
+      "progress": "项目投资进度40.91%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "项目达到预 本报告期实 是否达到预 变更后的项 定可使用状 现的效益 计效益 目可行性是 态日期 否发生重大 2026年12 月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "共取得306项专利，其中发明专利21项",
+      "quote": "截至2025年12月31日，公司共取得306项专利，其中发明专利21项；"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "30项软件著作权",
+      "quote": "30项软件著作权"
+    },
+    {
+      "name": "集成电路布图设计",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "8项集成电路布图设计",
+      "quote": "8项集成电路布图设计。"
+    },
+    {
+      "name": "XC12系列高性能控制器",
+      "asset_type": "core_technology",
+      "related_product": "运动控制器",
+      "quantitative_info": null,
+      "quote": "公司面向电动车应用的“XC12系列高性能控制器”“智能电量管理系统控制器”“面向新能源车辆的智能行车安全系统控制器”等产品经江苏省工业和信息化厅鉴定，技术总体处于国内领先水平。"
+    },
+    {
+      "name": "智能电量管理系统控制器",
+      "asset_type": "core_technology",
+      "related_product": "运动控制器",
+      "quantitative_info": null,
+      "quote": "“智能电量管理系统控制器”...技术总体处于国内领先水平。"
+    },
+    {
+      "name": "面向新能源车辆的智能行车安全系统控制器",
+      "asset_type": "core_technology",
+      "related_product": "运动控制器",
+      "quantitative_info": null,
+      "quote": "“面向新能源车辆的智能行车安全系统控制器”等产品...技术总体处于国内领先水平。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "59.95%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 226,342,220.36 前五名客户合计销售金额占年度销售总额比例 59.95%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "23.80%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "1 客户1 89,848,454.14 23.80%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "51.41%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 195,486,725.20 前五名供应商合计采购金额占年度采购总额比例 51.41%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "22.01%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "1 供应商1 83,702,470.95 22.01%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "运动控制产品及功率芯片的行业内竞争对手较多，市场竞争充分，随着技术的不断成熟和创新，市场竞争更加激烈，如公司未能及时根据市场需求持续推出高性价比的产品，很可能会失去原有的竞争优势，将面临毛利率下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "运动控制产品及功率芯片的行业内竞争对手较多，市场竞争充分，随着技术的不断成熟和创新，市场竞争更加激烈，如公司未能及时根据市场需求持续推出高性价比的产品，很可能会失去原有的竞争优势，将面临毛利率下降的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格受到宏观经济、产业政策等因素的影响，存在波动的可能性，公司产品成本中原材料占比较高，如果主要原材料价格发生较大波动，将可能对公司生产经营带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格受到宏观经济、产业政策等因素的影响，存在波动的可能性，公司产品成本中原材料占比较高，如果主要原材料价格发生较大波动，将可能对公司生产经营带来不利影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司运动控制器主要客户为电动车行业中大型整车厂商，在行业中具有较强的市场竞争优势。尽管公司与相关主要客户建立了良好的合作关系，但如果公司主要客户需求发生了重大变化、客户流失或与公司关系恶化，则可能导致订单下降，进而对公司经营形成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司运动控制器主要客户为电动车行业中大型整车厂商，在行业中具有较强的市场竞争优势。尽管公司与相关主要客户建立了良好的合作关系，但如果公司主要客户需求发生了重大变化、客户流失或与公司关系恶化，则可能导致订单下降，进而对公司经营形成不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新技术从研发至产业化的过程较长，公司需要依靠长期积累和不断创新才能保持技术领先优势。伴随下游产业的快速发展，新技术、新工艺的出现，将带来产品性能的大幅提升，由此导致下游市场产生较大变化。如公司不能及时开发出适应市场需求的新产品，公司将会面临市场份额被挤占或取代的风险，从而影响公司的成长性和持续盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "新技术从研发至产业化的过程较长，公司需要依靠长期积累和不断创新才能保持技术领先优势。伴随下游产业的快速发展，新技术、新工艺的出现，将带来产品性能的大幅提升，由此导致下游市场产生较大变化。如公司不能及时开发出适应市场需求的新产品，公司将会面临市场份额被挤占或取代的风险，从而影响公司的成长性和持续盈利能力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司对募投项目的可行性进行了充分的研究论证，但可行性分析是基于当前市场环境、行业政策、行业发展趋势等因素作出的。项目实施周期较长，过程中仍可能面临市场需求、行业政策变化及技术更新等诸多不确定性因素，导致项目延期或无法实施。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司对募投项目的可行性进行了充分的研究论证，但可行性分析是基于当前市场环境、行业政策、行业发展趋势等因素作出的。项目实施周期较长，过程中仍可能面临市场需求、行业政策变化及技术更新等诸多不确定性因素，导致项目延期或无法实施。"
+    }
+  ]
+}

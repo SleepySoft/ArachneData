@@ -1,0 +1,572 @@
+{
+  "company_name_mentioned": "春雪食品集团股份有限公司",
+  "produces": [
+    {
+      "name": "鸡肉调理品（预制菜）",
+      "type": "device",
+      "revenue_proportion": "调理品营收占食品营收比例为48.06%（2025年）；调理品营收122,989万元（2025年）",
+      "quote": "公司专业从事白羽鸡鸡肉食品的研发、生产加工和销售业务，主营产品为鸡肉调理品（预制菜）和生鲜品。"
+    },
+    {
+      "name": "鸡肉生鲜品",
+      "type": "device",
+      "revenue_proportion": "生鲜品营收132,922万元（2025年）；生鲜品营收占食品营收比例约52%",
+      "quote": "主营产品为鸡肉调理品（预制菜）和生鲜品。"
+    },
+    {
+      "name": "毛鸡（商品代肉鸡）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "全年外销毛鸡349万只、0.81万吨"
+    },
+    {
+      "name": "饲料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "饲料生产（自用），生物有机肥的生产与销售。"
+    },
+    {
+      "name": "生物有机肥",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "生物有机肥的生产与销售。全年销售有机肥4913吨"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品代雏鸡",
+      "target_product": "商品代肉鸡",
+      "cost_proportion": null,
+      "quote": "公司采购主要涉及相关业务环节的原辅料采购及委托养殖的采购，其中原辅料的采购主要包括饲料原料采购、商品代雏鸡采购、药品、疫苗采购及调理品的调味辅料采购等。"
+    },
+    {
+      "name": "饲料原料（玉米、豆粕等）",
+      "target_product": "饲料",
+      "cost_proportion": null,
+      "quote": "饲料的主要原料是玉米、豆粕，占饲料成本比例较高。"
+    },
+    {
+      "name": "药品、疫苗",
+      "target_product": "养殖肉鸡",
+      "cost_proportion": null,
+      "quote": "商品代雏鸡、药品、疫苗等均由公司子公司春雪养殖统一采购供应"
+    },
+    {
+      "name": "调味辅料",
+      "target_product": "鸡肉调理品",
+      "cost_proportion": null,
+      "quote": "调理品的调味辅料采购"
+    }
+  ],
+  "applications": [
+    {
+      "name": "餐饮供应链",
+      "source_product": "鸡肉调理品（预制菜）",
+      "quote": "成为餐饮端、零售端鸡肉调理品核心供应商。B端餐饮供应链+C端家庭消费双轮驱动格局"
+    },
+    {
+      "name": "零售与电商",
+      "source_product": "鸡肉调理品（预制菜）",
+      "quote": "C端主打小包装、即热/即烹/即食单品，贴合年轻家庭、独居群体、健身人群需求。"
+    },
+    {
+      "name": "出口",
+      "source_product": "鸡肉调理品（预制菜）、鸡肉生鲜品",
+      "quote": "产品已成功销往日本、欧洲、中东以及东南亚等众多国家和地区"
+    },
+    {
+      "name": "食品加工",
+      "source_product": "鸡肉生鲜品、鸡肉调理品（预制菜）",
+      "quote": "产品渗透至大型连锁超市、新零售门店、便利店、电商平台、餐饮及食品加工等多个领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑维新",
+      "role": "董事长、法定代表人、实际控制人",
+      "quote": "公司负责人郑维新"
+    },
+    {
+      "name": "郑钧",
+      "role": "董事、总经理",
+      "quote": "董事、总经理"
+    },
+    {
+      "name": "郝孔臣",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人郝孔臣"
+    },
+    {
+      "name": "李颜林",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事、副总经理、董事会秘书"
+    },
+    {
+      "name": "陈飞",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理"
+    },
+    {
+      "name": "黄仕敏",
+      "role": "副总经理、职工代表董事",
+      "quote": "副总经理"
+    },
+    {
+      "name": "徐建祥",
+      "role": "副总经理",
+      "quote": "副总经理"
+    },
+    {
+      "name": "丁磊",
+      "role": "副总经理",
+      "quote": "副总经理"
+    },
+    {
+      "name": "刘贤帅",
+      "role": "副总经理",
+      "quote": "副总经理"
+    },
+    {
+      "name": "闫德中",
+      "role": "副总经理",
+      "quote": "副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "山东春雪食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "公司控股股东山东春雪"
+    },
+    {
+      "name": "莱阳春雪养殖有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事饲料生产和委托养殖业务",
+      "quote": "莱阳春雪养殖有限公司（春雪养殖）"
+    },
+    {
+      "name": "烟台太元食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事调理品的生产和销售",
+      "quote": "烟台太元食品有限公司"
+    },
+    {
+      "name": "烟台春雪商贸有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事鸡肉产品的出口贸易业务",
+      "quote": "烟台春雪商贸有限公司"
+    },
+    {
+      "name": "光大证券股份有限公司",
+      "relation_type": "investor",
+      "business_details": "报告期内履行持续督导职责的保荐机构",
+      "quote": "光大证券股份有限公司"
+    },
+    {
+      "name": "中审众环会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "中审众环会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "京东",
+      "relation_type": "customer",
+      "business_details": "线上销售渠道",
+      "quote": "线上布局大型连锁超市、新零售门店、便利店、电商平台、餐饮及食品加工等多个领域...公司与京东联手打造的鸡肉品牌“上鲜”累计七年位居京东生鲜鸡肉类销量第一。"
+    },
+    {
+      "name": "沃尔玛、大润发、家家悦",
+      "relation_type": "customer",
+      "business_details": "线下商超渠道",
+      "quote": "产品已入驻沃尔玛、大润发、家家悦等国内主要商超系统"
+    },
+    {
+      "name": "中粮集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "饲料原料供应商",
+      "quote": "前五名供应商采购额58,940.29万元...序号1 中粮集团有限公司 采购额13,554.94万元"
+    },
+    {
+      "name": "国网山东省电力公司莱阳市供电公司",
+      "relation_type": "supplier",
+      "business_details": "能源供应商",
+      "quote": "序号2 国网山东省电力公司莱阳市供电公司 采购额6,137.71万元"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "生鲜品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,329,222,414.96元",
+      "revenue_proportion": null,
+      "gross_margin": "1.73%",
+      "yoy_change": "营业收入同比增长11.58%",
+      "quote": "生鲜品 营业收入1,329,222,414.96元 营业成本1,306,217,073.44元 毛利率1.73% 营业收入比上年增减11.58%"
+    },
+    {
+      "name": "调理品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,229,894,723.34元",
+      "revenue_proportion": "占食品营收比重持续稳定在50%左右（2025年为48.06%）",
+      "gross_margin": "17.49%",
+      "yoy_change": "营业收入同比增长4.23%",
+      "quote": "调理品 营业收入1,229,894,723.34元 营业成本1,014,804,972.97元 毛利率17.49% 营业收入比上年增减4.23%"
+    },
+    {
+      "name": "线上",
+      "segment_type": "sales_channel",
+      "revenue_amount": "81,793,944.47元",
+      "revenue_proportion": null,
+      "gross_margin": "0.52%",
+      "yoy_change": "营业收入同比增长11.16%",
+      "quote": "线上 营业收入81,793,944.47元 营业成本81,366,984.56元 毛利率0.52% 营业收入比上年增减11.16%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "727,892,750.92元",
+      "revenue_proportion": null,
+      "gross_margin": "17.91%",
+      "yoy_change": "营业收入同比增长11.30%",
+      "quote": "境外 营业收入727,892,750.92元 营业成本597,536,009.89元 毛利率17.91% 营业收入比上年增减11.30%"
+    },
+    {
+      "name": "省内",
+      "segment_type": "region",
+      "revenue_amount": "921,946,345.84元",
+      "revenue_proportion": null,
+      "gross_margin": "4.49%",
+      "yoy_change": "营业收入同比下降4.04%",
+      "quote": "省内 营业收入921,946,345.84元 营业成本880,584,415.07元 毛利率4.49% 营业收入比上年增减-4.04%"
+    },
+    {
+      "name": "省外",
+      "segment_type": "region",
+      "revenue_amount": "886,229,191.70元",
+      "revenue_proportion": null,
+      "gross_margin": "7.07%",
+      "yoy_change": "营业收入同比增长8.51%",
+      "quote": "省外 营业收入886,229,191.70元 营业成本823,563,427.75元 毛利率7.07% 营业收入比上年增减8.51%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,617,862,232.93元（合计）",
+      "revenue_proportion": null,
+      "gross_margin": "8.97%",
+      "yoy_change": "营业收入同比增长4.50%",
+      "quote": "直销 营业收入2,617,862,232.93元 营业成本2,383,050,837.27元 毛利率8.97% 营业收入比上年增减4.50%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "调理品（预制菜）",
+      "metric_type": "capacity",
+      "value": "136,640吨（2025年末设计产能）",
+      "period": "2025年",
+      "quote": "调理品设计产能（吨）...2025年度按照年末设计产能计算 136640"
+    },
+    {
+      "product": "调理品（预制菜）",
+      "metric_type": "production_volume",
+      "value": "63,216吨",
+      "period": "2025年",
+      "quote": "调理品（预制菜）实际产量（吨）...63216"
+    },
+    {
+      "product": "调理品（预制菜）",
+      "metric_type": "sales_volume",
+      "value": "62,945.40吨",
+      "period": "2025年",
+      "quote": "调理品 吨 生产量比上年增减4.67% 销售量比上年增减8.45% 销售量62,945.40吨"
+    },
+    {
+      "product": "调理品（预制菜）",
+      "metric_type": "capacity_utilization",
+      "value": "46.3%（按年末产能）或53.3%（按年初产能）",
+      "period": "2025年",
+      "quote": "调理品产能利用率（%）...按年末设计产能计算 46.3 按年初设计产能计算 53.3"
+    },
+    {
+      "product": "鸡肉生鲜品",
+      "metric_type": "capacity",
+      "value": "265,000吨",
+      "period": "2025年",
+      "quote": "鸡肉生鲜品设计产能（吨）...265000"
+    },
+    {
+      "product": "鸡肉生鲜品",
+      "metric_type": "production_volume",
+      "value": "194,539吨",
+      "period": "2025年",
+      "quote": "鸡肉生鲜品实际产量（吨）...194539"
+    },
+    {
+      "product": "鸡肉生鲜品",
+      "metric_type": "sales_volume",
+      "value": "166,666.03吨",
+      "period": "2025年",
+      "quote": "生鲜品 吨 生产量比上年增减9.22% 销售量比上年增减14.23% 销售量166,666.03吨"
+    },
+    {
+      "product": "鸡肉生鲜品",
+      "metric_type": "capacity_utilization",
+      "value": "73.4%",
+      "period": "2025年",
+      "quote": "鸡肉生鲜品产能利用率（%）...73.4"
+    },
+    {
+      "product": "肉鸡（宰杀量）",
+      "metric_type": "production_volume",
+      "value": "8,029万只",
+      "period": "2025年",
+      "quote": "全年宰杀肉鸡8029万只，同比增长6.68%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "第二调理食品厂一层车间增加2条生产线项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "新增产能18,000吨",
+      "progress": "已完成投产",
+      "expected_completion_time": "2025年12月底",
+      "quote": "2025年度，调理品（预制菜）...增扩产能18000吨完成后（在第二调理食品厂一层车间增加2条生产线，于12月底完成投产）"
+    },
+    {
+      "name": "第二调理食品厂二层增加4条生产线项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "计划新增设计产能2.88万吨",
+      "progress": "计划中",
+      "expected_completion_time": "2026年",
+      "quote": "2026年度，调理品（预制菜）...计划在扩设计产能2.88万吨（在第二调理食品厂二层增加4条生产线）"
+    },
+    {
+      "name": "年宰杀5,000万只肉鸡智慧工厂建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "16,000.00万元",
+      "designed_capacity": "年宰杀设计产能新增5000万只",
+      "progress": "已结项",
+      "expected_completion_time": "2022年8月",
+      "quote": "年宰杀5,000万只肉鸡智慧工厂建设项目 投资总额16,000.00万元 实现的效益或研发成果 年宰杀设计产能新增5000万只"
+    },
+    {
+      "name": "年产4万吨鸡肉调理品智慧工厂建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "20,000.00万元",
+      "designed_capacity": "年新增调理品设计产能4万吨",
+      "progress": "已结项",
+      "expected_completion_time": "2023年12月",
+      "quote": "年产4万吨鸡肉调理品智慧工厂建设项目 投资总额20,000.00万元 实现的效益或研发成果 年新增调理品设计产能4万吨"
+    },
+    {
+      "name": "肉鸡加工冷链物流数智化改造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "4,000.00万元",
+      "designed_capacity": "年新增生鲜品设计产能2.5万吨",
+      "progress": "已结项",
+      "expected_completion_time": "2023年11月",
+      "quote": "肉鸡加工冷链物流数智化改造项目 投资总额4,000.00万元 实现的效益或研发成果 年新增生鲜品设计产能2.5万吨"
+    },
+    {
+      "name": "营销网络及品牌建设推广项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "2,111.13万元",
+      "designed_capacity": null,
+      "progress": "未结项",
+      "expected_completion_time": "2026年12月",
+      "quote": "营销网络及品牌建设推广项目 投资总额2,111.13万元 达到预定可使用状态日期2026年12月"
+    },
+    {
+      "name": "信息化及智能化建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "2,000.00万元",
+      "designed_capacity": null,
+      "progress": "未结项",
+      "expected_completion_time": "2026年12月",
+      "quote": "信息化及智能化建设项目 投资总额2,000.00万元 达到预定可使用状态日期2026年12月"
+    },
+    {
+      "name": "商品肉鸡养殖场建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "4,000万元（计划）",
+      "designed_capacity": "新建1-2个平养肉鸡养殖场，批次出栏肉鸡60万只",
+      "progress": "计划中",
+      "expected_completion_time": "2026年",
+      "quote": "计划投资4,000万元，实施商品肉鸡养殖场建设项目，新建1-2个平养肉鸡养殖场，批次出栏肉鸡60万只。"
+    },
+    {
+      "name": "鸡副产品综合利用加工项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,500万元（计划）",
+      "designed_capacity": "年产鸡肉粉和鸡油1万吨",
+      "progress": "计划中",
+      "expected_completion_time": "2026年",
+      "quote": "计划投资1,500万元，在现有厂区内实施鸡副产品综合利用加工项目，对鸡副产品进行深加工，年产鸡肉粉和鸡油1万吨。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": "全线产品",
+      "quantitative_info": null,
+      "quote": "公司通过了ISO9001质量管理体系、HACCP危害分析关键控制点体系、欧盟BRC（全球食品安全标准）认证...ISO22000食品安全管理体系认证。"
+    },
+    {
+      "name": "HACCP危害分析关键控制点体系认证",
+      "asset_type": "certification",
+      "related_product": "全线产品",
+      "quantitative_info": null,
+      "quote": "公司通过了ISO9001质量管理体系、HACCP危害分析关键控制点体系、欧盟BRC（全球食品安全标准）认证...ISO22000食品安全管理体系认证。"
+    },
+    {
+      "name": "欧盟BRC（全球食品安全标准）认证",
+      "asset_type": "certification",
+      "related_product": "全线产品",
+      "quantitative_info": null,
+      "quote": "欧盟BRC（全球食品安全标准）认证"
+    },
+    {
+      "name": "欧盟GAP良好农业操作规范认证",
+      "asset_type": "certification",
+      "related_product": "养殖环节",
+      "quantitative_info": null,
+      "quote": "欧盟GAP良好农业操作规范认证"
+    },
+    {
+      "name": "ISO45001职业健康管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO45001职业健康管理体系认证"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO14001环境管理体系认证"
+    },
+    {
+      "name": "SEDEX供货商商业道德信息交流认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "SEDEX供货商商业道德信息交流认证"
+    },
+    {
+      "name": "ISO22000食品安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": "全线产品",
+      "quantitative_info": null,
+      "quote": "ISO22000食品安全管理体系认证"
+    },
+    {
+      "name": "CNAS认证（国家实验室能力认可）",
+      "asset_type": "certification",
+      "related_product": "检测中心",
+      "quantitative_info": null,
+      "quote": "公司检测中心通过了CNAS认证（国家实验室能力认可）。"
+    },
+    {
+      "name": "“同线同标同质”三同工程",
+      "asset_type": "process_technology",
+      "related_product": "全线产品",
+      "quantitative_info": "国家首批“三同”示范企业",
+      "quote": "公司为国家首批“三同”示范企业...实施‘同线、同标、同质’三同工程标准"
+    },
+    {
+      "name": "自主研发、定制研发、共同研发模式",
+      "asset_type": "technical_platform",
+      "related_product": "鸡肉调理品",
+      "quantitative_info": null,
+      "quote": "目前主要有三种研发模式：一是自主研发...二是定制研发...三是共同研发..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "65,748.87万元，占年度销售总额25.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额65,748.87万元，占年度销售总额25.01%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "58,940.29万元，占年度采购总额22.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额58,940.29万元，占年度采购总额22.98%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "饲料的主要原料是玉米、豆粕，占饲料成本比例较高。...若玉米、豆粕等原材料因国内外种植面积减少、产地气候反常、严重自然灾害等减产，或受国际贸易摩擦等因素影响，供应量下降，价格波动较大，影响公司正常经营，将对公司业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": "饲料、鸡肉产品",
+      "quote": "原材料供应与价格风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "鸡肉食品行业已经形成了一批大型规模化生产企业，将在食品安全、质量、品牌、营销网络、产能、成本控制、消费者喜爱度等方面产生竞争。...存在因行业竞争加剧导致本公司盈利能力下降的风险。",
+      "related_entity": null,
+      "related_product": "鸡肉调理品、鸡肉生鲜品",
+      "quote": "市场竞争风险"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司的生产环节涵盖了饲料生产、养殖、屠宰、加工、运输等多个环节...任何一个环节（生产、标签、质检等）出现重大食品安全事件，对于公司形象和业务发展将产生较大影响。",
+      "related_entity": null,
+      "related_product": "全线产品",
+      "quote": "食品安全风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务年出口创汇额超过1亿美元，人民币对美元的汇率浮动变化对公司影响较大。",
+      "related_entity": null,
+      "related_product": "出口产品",
+      "quote": "汇率变动风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "随着公司‘全球化’战略的推进，国际市场的拓展伴随着政治风险、贸易政策风险（如关税壁垒、反倾销调查）等。若进口国实施不利于我国禽肉产品的贸易政策，将对公司出口业务造成不利影响。",
+      "related_entity": null,
+      "related_product": "出口产品",
+      "quote": "对外贸易政策风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "主要生产经营环节包括委托养殖商品代肉鸡，在饲养过程中可能会出现如新城疫、H7N9等疾病。...疫病将在一定程度上导致公司主要产品的原料供应不足，影响公司的正常生产。",
+      "related_entity": null,
+      "related_product": "商品代肉鸡、鸡肉产品",
+      "quote": "发生疫情的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司商品代肉鸡来源地主要位于山东省胶东地区，地域相对集中，如果未来该区域发生水灾、雪灾、风灾、地震等各种不可预测的自然灾害，则可能造成养殖场建筑设施损坏、鸡只死亡等情况，影响公司正常的生产经营。",
+      "related_entity": null,
+      "related_product": "商品代肉鸡",
+      "quote": "自然灾害的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司的生产环节涵盖了饲料生产、屠宰、深加工、冷链仓储、冷链运输等多个环节，涉及氨制冷、燃气、用电、用水等能源消耗...一旦发生事故，将会对公司财产安全、人员人身安全造成损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "生产安全风险"
+    }
+  ]
+}

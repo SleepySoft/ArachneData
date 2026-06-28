@@ -1,0 +1,284 @@
+{
+  "company_name_mentioned": "晋能控股山西煤业股份有限公司",
+  "produces": [
+    {
+      "name": "动力煤",
+      "type": "material",
+      "revenue_proportion": "42.87%",
+      "quote": "公司从事的主要业务是煤炭生产及销售业务，产品有动力煤等，主要用于电力、水泥、建材等行业。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭相关物资与服务",
+      "target_product": "煤炭",
+      "cost_proportion": "99.96%",
+      "quote": "成本分析表...分行业情况...煤炭...成本构成项目 煤炭成本...本期占总成本比例(%) 99.96"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力行业",
+      "source_product": "动力煤",
+      "quote": "产品有动力煤等，主要用于电力、水泥、建材等行业。"
+    },
+    {
+      "name": "水泥行业",
+      "source_product": "动力煤",
+      "quote": "产品有动力煤等，主要用于电力、水泥、建材等行业。"
+    },
+    {
+      "name": "建材行业",
+      "source_product": "动力煤",
+      "quote": "产品有动力煤等，主要用于电力、水泥、建材等行业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李建光",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人 李建光"
+    },
+    {
+      "name": "谷敬煊",
+      "role": "副董事长、总经理",
+      "quote": "姓名 职务...谷敬煊...副董事长、总经理"
+    },
+    {
+      "name": "曹华天",
+      "role": "董事",
+      "quote": "曹华天 董事"
+    },
+    {
+      "name": "尹济民",
+      "role": "主管会计工作负责人（原董事、总会计师）",
+      "quote": "公司负责人李建光、主管会计工作负责人尹济民"
+    },
+    {
+      "name": "李菊平",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...姓名 李菊平"
+    },
+    {
+      "name": "胡锦元",
+      "role": "总工程师",
+      "quote": "胡锦元 总工程师"
+    },
+    {
+      "name": "郝智文",
+      "role": "副总经理",
+      "quote": "郝智文 副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "晋能控股煤业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东为晋能控股煤业集团有限公司"
+    },
+    {
+      "name": "安徽省国资监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人是安徽省国有资产管理委员会"
+    },
+    {
+      "name": "安徽海螺物资贸易有限责任公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，非关联方",
+      "quote": "安徽海螺物资贸易有限责任公司 290,654.34 22.17 否"
+    },
+    {
+      "name": "同受晋能控股集团控制单位",
+      "relation_type": "customer",
+      "business_details": "第二大客户，关联方",
+      "quote": "同受晋能控股集团控制单位 237,816.32 18.14 是"
+    },
+    {
+      "name": "同受晋能控股集团控制单位",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，关联方",
+      "quote": "同受晋能控股集团控制单位 199,894.57 34.49 是"
+    },
+    {
+      "name": "大秦铁路股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商，非关联方",
+      "quote": "大秦铁路股份有限公司 116,923.64 20.17 否"
+    },
+    {
+      "name": "同煤大唐塔山煤矿有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要煤炭生产单位",
+      "quote": "塔山煤矿、塔山公司 指 同煤大唐塔山煤矿有限公司"
+    },
+    {
+      "name": "内蒙古同煤鄂尔多斯矿业投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，煤炭生产单位",
+      "quote": "色连煤矿、矿业公司 指 内蒙古同煤鄂尔多斯矿业投资有限公司"
+    },
+    {
+      "name": "同煤大唐塔山煤矿有限公司塔山白洞井",
+      "relation_type": "subsidiary",
+      "business_details": "子公司的下属矿井",
+      "quote": "塔山白洞井 指 同煤大唐塔山煤矿有限公司塔山白洞井"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "煤炭业务",
+      "segment_type": "product_line",
+      "revenue_amount": "12,520,034,828.38元",
+      "revenue_proportion": "95.51%",
+      "gross_margin": "42.87%",
+      "yoy_change": "-14.83%",
+      "quote": "主营业务分产品情况...分产品...煤炭...营业收入 12,520,034,828.38...毛利率(%) 42.87...营业收入比上年增减(%) -14.83"
+    },
+    {
+      "name": "非煤业务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,362,858.35元",
+      "revenue_proportion": "0.03%",
+      "gross_margin": "13.61%",
+      "yoy_change": "-38.41%",
+      "quote": "主营业务分产品情况...分产品...非煤...营业收入 3,362,858.35...毛利率(%) 13.61...营业收入比上年增减(%) -38.41"
+    },
+    {
+      "name": "国内业务",
+      "segment_type": "region",
+      "revenue_amount": "12,523,397,686.73元",
+      "revenue_proportion": "100%",
+      "gross_margin": "42.86%",
+      "yoy_change": "-14.84%",
+      "quote": "主营业务分地区情况...分地区...国内...营业收入 12,523,397,686.73...毛利率(%) 42.86...营业收入比上年增减(%) -14.84"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "12,523,397,686.73元",
+      "revenue_proportion": "100%",
+      "gross_margin": "42.86%",
+      "yoy_change": "-14.84%",
+      "quote": "主营业务分销售模式情况...销售模式...直销...营业收入 12,523,397,686.73...毛利率(%) 42.86...营业收入比上年增减(%) -14.84"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "动力煤",
+      "metric_type": "production_volume",
+      "value": "3528.93万吨",
+      "period": "2025年",
+      "quote": "2025年度，公司煤炭产量3528.93万吨，同比增长1.80%；"
+    },
+    {
+      "product": "动力煤",
+      "metric_type": "sales_volume",
+      "value": "2865.64万吨",
+      "period": "2025年",
+      "quote": "商品煤销量2865.64万吨，同比下降4.39%；"
+    },
+    {
+      "product": "动力煤",
+      "metric_type": "inventory_volume",
+      "value": "35.36万吨",
+      "period": "2025年末",
+      "quote": "主要产品 单位 生产量 销售量 库存量...动力煤 万吨 3528.93 2865.64 35.36"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "塔山矿智能化建设",
+      "project_type": "capacity_expansion",
+      "progress": "已建成国家能源局认定的智能化试点推广煤矿，选煤生产全流程智能化通过验收。",
+      "quote": "一是智能化建设纵深推进。塔山矿成功建成国家能源局认定的智能化试点推广煤矿，选煤生产全流程智能化顺利通过验收；"
+    },
+    {
+      "name": "塔山矿四盘区建设",
+      "project_type": "capacity_expansion",
+      "progress": "预计推进",
+      "expected_completion_time": "2026年",
+      "quote": "二是优化生产布局。科学规划采掘衔接，塔山矿预计推进四盘区建设，完成进尺1000米以上；"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智能化矿山建设技术",
+      "asset_type": "technical_platform",
+      "related_product": "煤炭",
+      "quote": "二、智能绿色生产，筑牢发展根基...一是智能化建设纵深推进。"
+    },
+    {
+      "name": "AI视频反“三违”系统",
+      "asset_type": "core_technology",
+      "quote": "全面应用AI视频反“三违”系统、智能“电子围栏”，实现井下作业全时段、全方位监控，契合煤矿智能化建设相关要求。"
+    },
+    {
+      "name": "小（无）煤柱开采、充填开采等绿色开采技术",
+      "asset_type": "process_technology",
+      "quote": "持续推广小（无）煤柱开采、充填开采等绿色开采技术，降低资源浪费与环境影响；"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "quantitative_info": "本期费用化研发投入 218,284,331.55元，研发投入总额占营业收入比例（%） 1.67",
+      "quote": "研发投入情况表...本期费用化研发投入 218,284,331.55...研发投入总额占营业收入比例（%） 1.67"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "793,158.66万元，占年度销售总额60.50%",
+      "period": "2025年",
+      "quote": "前五名客户销售额793,158.66万元，占年度销售总额60.50%；"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "60.50%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额793,158.66万元，占年度销售总额60.50%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "419,797.56万元，占年度采购总额72.43%",
+      "period": "2025年",
+      "quote": "前五名供应商采购额419,797.56万元，占年度采购总额72.43%；"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "72.43%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额419,797.56万元，占年度采购总额72.43%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "供需结构失衡风险。供需格局持续宽松与价格波动风险加剧，国内产能释放叠加进口高位运行，市场整体供大于求，动力煤价格中枢面临下行压力",
+      "quote": "1.供需结构失衡风险。供需格局持续宽松与价格波动风险加剧，国内产能释放叠加进口高位运行，市场整体供大于求，动力煤价格中枢面临下行压力"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "政策与环保约束风险。环保与安全政策持续收紧，碳排放权交易全面落地推高企业合规成本，瓦斯、水害等安全隐患仍制约产能释放",
+      "quote": "2.政策与环保约束风险。环保与安全政策持续收紧，碳排放权交易全面落地推高企业合规成本，瓦斯、水害等安全隐患仍制约产能释放。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "成本与盈利压力风险。成本端受财政税收政策调整、绿色矿山建设投入及人工成本攀升影响，企业盈利空间进一步压缩",
+      "quote": "3.成本与盈利压力风险。成本端受财政税收政策调整、绿色矿山建设投入及人工成本攀升影响，企业盈利空间进一步压缩。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争格局风险。市场竞争格局加速分化，具备智能化改造能力、产业链整合优势的头部企业更具抗风险能力，而依赖粗放扩张的中小企业面临生存危机",
+      "quote": "4.市场竞争格局风险。市场竞争格局加速分化，具备智能化改造能力、产业链整合优势的头部企业更具抗风险能力，而依赖粗放扩张的中小企业面临生存危机。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术与转型挑战风险。煤炭清洁低碳转型面临技术瓶颈与投资回报周期长的双重压力",
+      "quote": "5.技术与转型挑战风险。煤炭清洁低碳转型面临技术瓶颈与投资回报周期长的双重压力"
+    }
+  ]
+}

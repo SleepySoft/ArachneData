@@ -1,0 +1,557 @@
+{
+  "company_name_mentioned": "浙江福莱新材料股份有限公司",
+  "produces": [
+    {
+      "name": "广告喷墨打印材料",
+      "type": "material",
+      "revenue_proportion": "占年度销售总额的48.64% (1,370,548,336.61元)",
+      "quote": "公司产品主要为广告喷墨打印材料...广告喷墨打印材料毛利率上升系产业一体化优势所致"
+    },
+    {
+      "name": "标签标识印刷材料",
+      "type": "material",
+      "revenue_proportion": "占年度销售总额的29.84% (849,933,817.42元)",
+      "quote": "标签标识印刷材料业务受益于薄膜类标签渗透率提升及海外市场开拓，主营业务收入同比增长20.15%"
+    },
+    {
+      "name": "电子级功能材料",
+      "type": "material",
+      "revenue_proportion": "占年度销售总额的3.86% (110,015,040.77元)",
+      "quote": "电子级功能材料业务成功开发UV减粘胶并实现量产，布局OLED支撑膜、缓冲泡棉胶等显示面板材料"
+    },
+    {
+      "name": "功能基膜材料",
+      "type": "material",
+      "revenue_proportion": "占年度销售总额的9.51% (270,856,118.95元)",
+      "quote": "功能基膜材料业务产能释放效益显著，随着产能利用率提升与工艺改进，正品率大幅提升，毛利率增加7.60个百分点"
+    },
+    {
+      "name": "胶粘材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "胶粘材料主要是粘合剂、功能型助剂与涂料制品，是功能性涂布复合材料涂层结构的核心"
+    },
+    {
+      "name": "柔性传感器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "柔性传感器：专注于研发与生产柔性传感器及系统，构建了覆盖材料研发、器件设计、系统集成到场景应用的完整技术链"
+    },
+    {
+      "name": "高端智能装备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品主要为...等工业消费品及高端智能装备"
+    }
+  ],
+  "procures": [
+    {
+      "name": "PP合成纸",
+      "target_product": "广告喷墨打印材料、标签标识印刷材料等",
+      "cost_proportion": null,
+      "quote": "采购中心对于每种大类物资的采购均设置采购专员专项负责。公司生产所需原辅材料的日常采购采取“以产定购”的模式...主要包括PP合成纸、PET膜、PVC、CPP膜、胶水、各种纸类等"
+    },
+    {
+      "name": "PET膜",
+      "target_product": "标签标识印刷材料、功能基膜材料等",
+      "cost_proportion": null,
+      "quote": "主要包括PP合成纸、PET膜、PVC、CPP膜、胶水、各种纸类等"
+    },
+    {
+      "name": "PVC",
+      "target_product": "广告喷墨打印材料等",
+      "cost_proportion": null,
+      "quote": "主要包括PP合成纸、PET膜、PVC、CPP膜、胶水、各种纸类等"
+    },
+    {
+      "name": "CPP膜",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要包括PP合成纸、PET膜、PVC、CPP膜、胶水、各种纸类等"
+    },
+    {
+      "name": "胶水",
+      "target_product": "胶粘材料、功能性涂布复合材料",
+      "cost_proportion": null,
+      "quote": "主要包括PP合成纸、PET膜、PVC、CPP膜、胶水、各种纸类等"
+    },
+    {
+      "name": "化工料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "PP合成纸、PET膜、PVC、CPP膜、胶水及其他化工料等占公司原材料成本的比例较高"
+    }
+  ],
+  "applications": [
+    {
+      "name": "广告宣传品打印",
+      "source_product": "广告喷墨打印材料",
+      "quote": "产品广泛应用于广告宣传品打印...如商场百货、地铁、机场、展会、超市、餐厅、公共交通枢纽等场景的展览、展示和各类装饰画裱膜等"
+    },
+    {
+      "name": "标签标识印刷",
+      "source_product": "标签标识印刷材料",
+      "quote": "公司标签标识印刷材料主要用于日化产品、食品饮料、医疗用品、电商冷链物流、酒水、家电、外卖、快递、茶饮等标签标识的制作"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "电子级功能材料",
+      "quote": "主要应用于消费电子领域，如苹果、华为、三星及国内知名高端品牌手机、电脑、无线充电模组及石墨散热模块等"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "电子级功能材料",
+      "quote": "汽车电子领域，如汽车屏幕保护膜等；同时，产品可用于在消费电子、汽车电子的制造过程中起保护作用"
+    },
+    {
+      "name": "包装材料",
+      "source_product": "功能基膜材料、标签标识印刷材料",
+      "quote": "功能基膜材料里面的BOPP材料...专注于广告耗材和印刷标签类PP合成纸及珠光膜系列产品...标签标识是标示商品名称...属于包装材料应用领域"
+    },
+    {
+      "name": "建筑涂料/家装粘胶剂",
+      "source_product": "胶粘材料",
+      "quote": "被广泛应用于建筑涂料、家装粘胶剂、木器涂料、纸加工等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "夏厚君",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人夏厚君...公司法定代表人 夏厚君"
+    },
+    {
+      "name": "涂大记",
+      "role": "副董事长",
+      "quote": "副董事长 涂大记"
+    },
+    {
+      "name": "李耀邦",
+      "role": "总经理、董事",
+      "quote": "总经理 李耀邦"
+    },
+    {
+      "name": "聂胜",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事会秘书 聂胜"
+    },
+    {
+      "name": "刘延安",
+      "role": "财务负责人、职工代表董事",
+      "quote": "主管会计工作负责人 刘延安"
+    },
+    {
+      "name": "YANGXIAOMING",
+      "role": "研究院副院长、博士",
+      "quote": "公司研究院副院长YANGXIAOMING博士是国家重点研发计划“十四五”重点专项项目答辩评审会议专家"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "艾利丹尼森",
+      "relation_type": "customer",
+      "business_details": "公司标签标识印刷业务的主要客户，获得其颁发的“全球创新供应商奖”",
+      "quote": "公司标签标识印刷业务主要客户包括艾利丹尼森、芬欧蓝泰、冠豪高新、江苏金大等行业龙头企业"
+    },
+    {
+      "name": "芬欧蓝泰",
+      "relation_type": "customer",
+      "business_details": "公司标签标识印刷业务的主要客户",
+      "quote": "公司标签标识印刷业务主要客户包括艾利丹尼森、芬欧蓝泰、冠豪高新、江苏金大等行业龙头企业"
+    },
+    {
+      "name": "信维通信",
+      "relation_type": "customer",
+      "business_details": "公司在电子级功能材料领域的直销客户",
+      "quote": "公司在电子级功能材料领域的直销客户主要为信维通信、常州富烯、深圳垒石等"
+    },
+    {
+      "name": "3M",
+      "relation_type": "competitor",
+      "business_details": "国际知名企业为电子级功能材料行业内的先导者",
+      "quote": "3M、德莎、日东电工等国际知名企业为行业内的先导者"
+    },
+    {
+      "name": "德莎",
+      "relation_type": "competitor",
+      "business_details": "国际知名企业为电子级功能材料行业内的先导者",
+      "quote": "3M、德莎、日东电工等国际知名企业为行业内的先导者"
+    },
+    {
+      "name": "日东电工",
+      "relation_type": "competitor",
+      "business_details": "国际知名企业为电子级功能材料行业内的先导者",
+      "quote": "3M、德莎、日东电工等国际知名企业为行业内的先导者"
+    },
+    {
+      "name": "浙江欧仁新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司主要子公司，从事研发、生产和销售新型膜材料",
+      "quote": "浙江欧仁新材料有限公司 指 浙江欧仁新材料有限公司"
+    },
+    {
+      "name": "烟台富利新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司主要子公司，研发、生产和销售功能基膜材料",
+      "quote": "烟台富利公司 子公司 研发、生产和销售功能基膜材料"
+    },
+    {
+      "name": "烟台福莱新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司主要子公司，研发、生产和销售新型膜材料",
+      "quote": "烟台福莱公司 子公司 研发、生产和销售新型膜材料"
+    },
+    {
+      "name": "浙江柔感未来科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内新设的全资子公司",
+      "quote": "浙江柔感未来公司 新设 2025年7月11日 1200万元人民币 100.00%"
+    },
+    {
+      "name": "Apex Sensing LLC",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内收购的全资子公司，用于吸引海外高层次人才",
+      "quote": "依托北美子公司Apex Sensing LLC，积极吸引海外高层次人才"
+    },
+    {
+      "name": "FuLai GmbH",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内收购的全资子公司，位于德国",
+      "quote": "FuLai GmbH 收购 2024年10月9日 5万欧元 100.00%"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "公司聘请的境内会计师事务所",
+      "quote": "天健会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告"
+    },
+    {
+      "name": "中信证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "报告期内履行持续督导职责的保荐机构（前期）",
+      "quote": "报告期内履行持续督导职责的保荐机构 中信证券股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "广告喷墨打印材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,370,548,336.61元",
+      "revenue_proportion": "48.64% (占总营收比重)",
+      "gross_margin": "14.19%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况...广告喷墨打印材料...营业收入1,370,548,336.61...毛利率14.19"
+    },
+    {
+      "name": "标签标识印刷材料",
+      "segment_type": "product_line",
+      "revenue_amount": "849,933,817.42元",
+      "revenue_proportion": "29.84% (占总营收比重)",
+      "gross_margin": "16.77%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况...标签标识印刷材料...营业收入849,933,817.42...毛利率16.77"
+    },
+    {
+      "name": "电子级功能材料",
+      "segment_type": "product_line",
+      "revenue_amount": "110,015,040.77元",
+      "revenue_proportion": "3.86% (占总营收比重)",
+      "gross_margin": "14.55%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况...电子级功能材料...营业收入110,015,040.77...毛利率14.55"
+    },
+    {
+      "name": "功能基膜材料",
+      "segment_type": "product_line",
+      "revenue_amount": "270,856,118.95元",
+      "revenue_proportion": "9.51% (占总营收比重)",
+      "gross_margin": "3.49%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况...功能基膜材料...营业收入270,856,118.95...毛利率3.49"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "2,356,234,334.92元",
+      "revenue_proportion": "83.04% (占主营业务收入比重)",
+      "gross_margin": "10.28%",
+      "yoy_change": null,
+      "quote": "主营业务分地区情况...国内...营业收入2,356,234,334.92...毛利率10.28"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "447,547,035.21元",
+      "revenue_proportion": "16.96% (占主营业务收入比重)",
+      "gross_margin": "28.22%",
+      "yoy_change": null,
+      "quote": "主营业务分地区情况...国外...营业收入447,547,035.21...毛利率28.22"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,640,682,690.66元",
+      "revenue_proportion": "58.23% (占主营业务收入比重)",
+      "gross_margin": "12.93%",
+      "yoy_change": null,
+      "quote": "主营业务分销售模式情况...经销...营业收入1,640,682,690.66...毛利率12.93"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,163,098,679.47元",
+      "revenue_proportion": "41.77% (占主营业务收入比重)",
+      "gross_margin": "13.45%",
+      "yoy_change": null,
+      "quote": "主营业务分销售模式情况...直销...营业收入1,163,098,679.47...毛利率13.45"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "广告喷墨打印材料",
+      "metric_type": "production_volume",
+      "value": "93,558 万平方米",
+      "period": "2025年",
+      "quote": "主要产品...生产量...广告喷墨打印材料 万平方米 93,558"
+    },
+    {
+      "product": "广告喷墨打印材料",
+      "metric_type": "sales_volume",
+      "value": "90,206 万平方米",
+      "period": "2025年",
+      "quote": "主要产品...销售量...广告喷墨打印材料 万平方米 90,206"
+    },
+    {
+      "product": "广告喷墨打印材料",
+      "metric_type": "inventory_volume",
+      "value": "5,702 万平方米",
+      "period": "2025年末",
+      "quote": "主要产品...库存量...广告喷墨打印材料 万平方米 5,702"
+    },
+    {
+      "product": "标签标识印刷材料",
+      "metric_type": "production_volume",
+      "value": "104,391 万平方米",
+      "period": "2025年",
+      "quote": "主要产品...生产量...标签标识印刷材料 万平方米 104,391"
+    },
+    {
+      "product": "标签标识印刷材料",
+      "metric_type": "sales_volume",
+      "value": "102,790 万平方米",
+      "period": "2025年",
+      "quote": "主要产品...销售量...标签标识印刷材料 万平方米 102,790"
+    },
+    {
+      "product": "电子级功能材料",
+      "metric_type": "production_volume",
+      "value": "2,437 万平方米",
+      "period": "2025年",
+      "quote": "主要产品...生产量...电子级功能材料 万平方米 2,437"
+    },
+    {
+      "product": "功能基膜材料",
+      "metric_type": "production_volume",
+      "value": "37,576 吨",
+      "period": "2025年",
+      "quote": "主要产品...生产量...功能基膜材料 吨 37,576"
+    },
+    {
+      "product": "功能基膜材料",
+      "metric_type": "sales_volume",
+      "value": "36,403 吨",
+      "period": "2025年",
+      "quote": "主要产品...销售量...功能基膜材料 吨 36,403"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "功能性涂布复合材料生产基地及研发中心总部大楼建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "预算51,979.69万元",
+      "designed_capacity": null,
+      "progress": "工程累计投入占预算比例57.09%",
+      "expected_completion_time": null,
+      "quote": "项目名称...功能性涂布复合材料生产基地及研发中心总部大楼建设项目 51,979.69 57.09 1,477.84 29,673.84 IPO募集资金+自筹 438.04"
+    },
+    {
+      "name": "烟台富利厂区及生产线建设工程（二期）",
+      "project_type": "capacity_expansion",
+      "location": "烟台",
+      "investment_amount": "预算40,000.00万元",
+      "designed_capacity": null,
+      "progress": "工程累计投入占预算比例95.22%",
+      "expected_completion_time": null,
+      "quote": "烟台富利厂区及生产线建设工程（二期） 40,000.00 95.22 7,116.92 38,086.34 自筹 不适用"
+    },
+    {
+      "name": "新型环保预涂功能材料建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "预算38,119.19万元",
+      "designed_capacity": null,
+      "progress": "工程累计投入占预算比例52.22%",
+      "expected_completion_time": "2028年1月31日",
+      "quote": "新型环保预涂功能材料建设项目 38,119.19 52.22 2,007.46 19,906.89 可转债募集资金+自筹 1,152.19"
+    },
+    {
+      "name": "烟台分公司新型材料（一期）项目",
+      "project_type": "capacity_expansion",
+      "location": "烟台",
+      "investment_amount": "预算37,500.00万元",
+      "designed_capacity": null,
+      "progress": "工程累计投入占预算比例97.80%",
+      "expected_completion_time": null,
+      "quote": "烟台分公司新型材料（一期）项目 37,500.00 97.80 8,299.38 36,674.92 IPO募集资金+自筹 1,844.19"
+    },
+    {
+      "name": "烟台分公司新型材料（二期）项目",
+      "project_type": "capacity_expansion",
+      "location": "烟台",
+      "investment_amount": "预算13,000.00万元",
+      "designed_capacity": null,
+      "progress": "工程累计投入占预算比例95.77%",
+      "expected_completion_time": null,
+      "quote": "烟台分公司新型材料（二期）项目 13,000.00 95.77 3,048.80 12,450.62 IPO募集资金+自筹 -182.04"
+    },
+    {
+      "name": "姚庄开发区（二期）",
+      "project_type": "construction_project",
+      "location": "嘉兴姚庄",
+      "investment_amount": "预算13,000.00万元",
+      "designed_capacity": null,
+      "progress": "工程累计投入占预算比例73.54%",
+      "expected_completion_time": null,
+      "quote": "姚庄开发区（二期） 13,000.00 73.54 45.09 9,559.95 自筹 不适用"
+    },
+    {
+      "name": "向特定对象发行A股股票再融资项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "实际募集资金净额692,070,721.95元",
+      "designed_capacity": null,
+      "progress": "已取得中国证监会批复",
+      "expected_completion_time": null,
+      "quote": "公司向特定对象发行人民币普通股（A股）21,647,274股...实际募集资金净额为人民币692,070,721.95元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "涂布及复合工艺技术",
+      "asset_type": "process_technology",
+      "related_product": "功能性涂布复合材料",
+      "quantitative_info": null,
+      "quote": "利用涂布及复合工艺技术，将吸墨材料、压敏胶、导电材料等与高分子薄膜材料复合而成"
+    },
+    {
+      "name": "双色热敏涂层技术",
+      "asset_type": "core_technology",
+      "related_product": "广告喷墨打印材料",
+      "quantitative_info": "达到行业领先水平",
+      "quote": "自主研发的双色热敏涂层技术达到行业领先水平"
+    },
+    {
+      "name": "UV喷墨项目",
+      "asset_type": "core_technology",
+      "related_product": "广告喷墨打印材料",
+      "quantitative_info": null,
+      "quote": "独创的 UV 喷墨项目构建了差异化的技术壁垒"
+    },
+    {
+      "name": "柔性传感器技术",
+      "asset_type": "core_technology",
+      "related_product": "柔性传感器",
+      "quantitative_info": null,
+      "quote": "公司加速推进柔性传感器产品化进程...实现从‘原始数据’到‘智能触觉’的飞跃"
+    },
+    {
+      "name": "水性压敏胶技术",
+      "asset_type": "core_technology",
+      "related_product": "胶粘材料",
+      "quantitative_info": null,
+      "quote": "上海碳欣公司的水性压敏胶具有良好的粘合性能...是一种绿色环保材料"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获授权专利130项（其中发明专利86项）",
+      "quote": "截至报告期末，累计获授权专利130项（其中发明专利86项）"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "8项",
+      "quote": "软件著作权8项"
+    },
+    {
+      "name": "参与制定国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "参与制定了国家标准6项、行业标准9项、团体标准3项，其中主导制订行业标准1项",
+      "quote": "截至报告期末，公司累计共参与制定了国家标准6项、行业标准9项、团体标准3项，其中主导制订行业标准1项、浙江制造团体标准2项"
+    },
+    {
+      "name": "浙江省高效多功能复合薄膜材料重点企业研究院",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "八大研发创新平台之一",
+      "quote": "依托省级重点企业研究院、国家级博士后科研工作站等八大研发创新平台"
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "八大研发创新平台之一",
+      "quote": "依托省级重点企业研究院、国家级博士后科研工作站等八大研发创新平台"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41,470.90万元，占年度销售总额14.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额41,470.90万元，占年度销售总额14.52%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "60,675.50万元，占年度采购总额26.99%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额60,675.50万元，占年度采购总额26.99%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "供应商A，采购额10,480.98万元，占年度采购总额比例4.66%",
+      "related_entity": "供应商A",
+      "period": "2025年",
+      "quote": "供应商名称 采购额 占年度采购总额比例（%） 1 供应商A 10,480.98 4.66"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "近年来，国内功能性涂布复合材料行业市场竞争日趋激烈，尤其是广告喷墨打印及标签标识印刷行业新进入者较多，价格战成为市场竞争的重要手段。公司未来存在因市场竞争加剧而导致的盈利能力下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、 市场竞争加剧的风险...公司未来存在因市场竞争加剧而导致的盈利能力下降的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "PP合成纸、PET膜、PVC、CPP膜、胶水及其他化工料等占公司原材料成本的比例较高，以上这些原材料主要属于石油化工领域，其采购价格与石油化工相关大宗商品价格走势密切相关。公司产品价格调整与原材料价格变动在时间上存在一定的滞后性...如果主要原材料价格持续上涨、幅度过大，将直接提高公司生产成本。如果公司不能通过调整销售价格转移成本，则公司盈利水平存在下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、原材料价格波动的风险...如果主要原材料价格持续上涨、幅度过大，将直接提高公司生产成本。如果公司不能通过调整销售价格转移成本，则公司盈利水平存在下降的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "功能性涂布复合材料行业下游应用领域包括广告宣传品制作、标签标识印刷、消费电子、汽车电子等，其市场需求受国内外宏观经济、国民收入水平的影响而表现出一定的周期性。如果国内外宏观经济增长放缓或处于不景气周期，则将对公司市场销售情况产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、行业周期波动的风险...如果国内外宏观经济增长放缓或处于不景气周期，则将对公司市场销售情况产生不利影响。"
+    }
+  ]
+}

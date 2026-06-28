@@ -1,0 +1,509 @@
+{
+  "company_name_mentioned": "科大智能科技股份有限公司",
+  "produces": [
+    {
+      "name": "数字能源",
+      "type": "service",
+      "revenue_proportion": "75.57%",
+      "quote": "报告期内，公司聚焦数字能源业务发展的战略成效显著，数字能源业务占公司整体营业收入比例达 75.57%，成为公司营收和利润增长的核心驱动力。"
+    },
+    {
+      "name": "智能配用电设备及解决方案",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在网侧：公司提供一二次融合断路器、环网柜、FTU（馈线终端）及 DTU（配电终端）等全系列产品矩阵...在荷侧：公司提供低压台区及用电信息采集系统整体解决方案，核心产品包括智能融合终端、专变采集终端、智能量测开关及智能电表..."
+    },
+    {
+      "name": "储能系统产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在储侧：公司聚焦电网与工商业用户需求，推出集装箱式储能系统及工商业储能柜，并基于电网运行机理，研发出电网友好型的构网型储能..."
+    },
+    {
+      "name": "智能机器人",
+      "type": "service",
+      "revenue_proportion": "22.88%",
+      "quote": "智能机器人 700,821,747.45 22.88%"
+    },
+    {
+      "name": "工业机械手",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "核心为电网公司与大型工业企业提供工业机械手、堆垛机及巡检机器人等工业智能机器人..."
+    },
+    {
+      "name": "堆垛机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "堆垛机业务为宁德时代定制的超高难度堆垛机订单落地，进一步巩固了公司在锂电行业堆垛机市场的龙头地位..."
+    },
+    {
+      "name": "巡检机器人",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "巡检机器人业务在巩固合肥、南京、南昌等核心客户的基础上，成功实现北京、石家庄、上海等轨交客户的拓展..."
+    },
+    {
+      "name": "一二次融合断路器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "自主研发的“故障测距型电容取电深度融合断路器”在浙江电网首次落地应用..."
+    },
+    {
+      "name": "环网柜",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "根据弗若斯特沙利文的资料，按 2024 年全国收入计，公司位列一二次融合断路器市场第二、环网柜市场第五..."
+    },
+    {
+      "name": "FTU（馈线终端）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "FTU 市场第一及 DTU 市场第三。"
+    },
+    {
+      "name": "DTU（配电终端）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "FTU 市场第一及 DTU 市场第三。"
+    },
+    {
+      "name": "CRKS智能运维平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "依托自主研发的CRKS智能运维平台（整合机器人运动控制、多模态视觉识别、三维空间建图与导航核心系统，结合行业大模型、站控平台、地面控制系统及IoT辅助控制模组的一体化平台）..."
+    },
+    {
+      "name": "工业智能化业务",
+      "type": "service",
+      "revenue_proportion": "98.45%",
+      "quote": "分行业 工业智能化 3,015,114,016.91 98.45%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": "79.30%",
+      "quote": "销售成本中的材料金额...工业智能化 1,878,638,623.52 79.30%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力电网",
+      "source_product": null,
+      "quote": "为电网公司及钢铁、石油、冶金等大型能源密集型企业提供智能配用电和储能系统产品及解决方案..."
+    },
+    {
+      "name": "钢铁",
+      "source_product": null,
+      "quote": "为钢铁、有色金属及石油等行业的高耗能用户构建电力交易及智能微网管理系统..."
+    },
+    {
+      "name": "石油",
+      "source_product": null,
+      "quote": "为钢铁、有色金属及石油等行业的高耗能用户构建电力交易及智能微网管理系统..."
+    },
+    {
+      "name": "冶金",
+      "source_product": null,
+      "quote": "为电网公司及钢铁、石油、冶金等大型能源密集型企业提供智能配用电和储能系统产品及解决方案..."
+    },
+    {
+      "name": "汽车",
+      "source_product": "智能机器人",
+      "quote": "针对汽车、锂电池、电力、轨交、空分、石油、能源及钢铁等领域客户的个性化需求...工业机械手业务4个月便完成长城汽车巴西工厂交付..."
+    },
+    {
+      "name": "锂电池",
+      "source_product": "智能机器人",
+      "quote": "堆垛机业务为宁德时代定制的超高难度堆垛机订单落地，进一步巩固了公司在锂电行业堆垛机市场的龙头地位..."
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "智能机器人",
+      "quote": "巡检机器人业务在巩固合肥、南京、南昌等核心客户的基础上，成功实现北京、石家庄、上海等轨交客户的拓展..."
+    },
+    {
+      "name": "新能源",
+      "source_product": null,
+      "quote": "已在新能源、汽车、工程机械及轨道交通等领域交付上千个项目..."
+    },
+    {
+      "name": "AI数据中心（AIDC）",
+      "source_product": "数字能源",
+      "quote": "随着生成式 AI技术的快速发展，全球 AI算力需求持续高速增长，AIDC（AI数据中心）作为算力基础设施迎来建设热潮...为数字能源行业带来新的增量发展空间。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄明松",
+      "role": "董事长、法定代表人、控股股东、实际控制人",
+      "quote": "公司负责人黄明松...现任科大智能科技股份有限公司董事长..."
+    },
+    {
+      "name": "汪婷婷",
+      "role": "董事、总裁",
+      "quote": "汪婷婷 女 41 董事、总裁"
+    },
+    {
+      "name": "任雪艳",
+      "role": "董事、副总裁",
+      "quote": "任雪艳 女 49 董事、副总裁"
+    },
+    {
+      "name": "穆峻柏",
+      "role": "副总裁",
+      "quote": "穆峻柏 男 46 副总裁"
+    },
+    {
+      "name": "刘伟",
+      "role": "副总裁",
+      "quote": "刘伟 男 42 副总裁"
+    },
+    {
+      "name": "张吉勇",
+      "role": "副总裁",
+      "quote": "张吉勇 男 39 副总裁"
+    },
+    {
+      "name": "秦明辉",
+      "role": "副总裁",
+      "quote": "秦明辉 男 43 副总裁"
+    },
+    {
+      "name": "黄君巍",
+      "role": "财务总监、主管会计工作负责人、会计机构负责人",
+      "quote": "主管会计工作负责人黄君巍及会计机构负责人(会计主管人员)黄君巍..."
+    },
+    {
+      "name": "王家伦",
+      "role": "董事会秘书",
+      "quote": "王家伦 男 44 董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "科大智能电气技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "数字能源业务",
+      "quote": "科大智能电气技术有限公司 子公司 数字能源 22,000.00...200,220.53"
+    },
+    {
+      "name": "上海永乾机电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能机器人业务",
+      "quote": "上海永乾机电有限公司 子公司 智能机器人 14,000.00...43,002.37"
+    },
+    {
+      "name": "科大智能机器人技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能机器人业务",
+      "quote": "科大智能机器人技术有限公司 子公司 智能机器人 5,000.00...23,097.22"
+    },
+    {
+      "name": "科大数字（上海）能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "数字能源",
+      "quote": "科大数字（上海）能源科技有限公司 子公司 数字能源 3,000.00...19,024.78"
+    },
+    {
+      "name": "科大智能（澳洲）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "海外子公司",
+      "quote": "本期新设子公司科大智能（澳洲）有限公司、科大智能（香港）有限公司。"
+    },
+    {
+      "name": "科大智能（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "海外子公司",
+      "quote": "本期新设子公司科大智能（澳洲）有限公司、科大智能（香港）有限公司。"
+    },
+    {
+      "name": "江苏宏达电气有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "智能电气",
+      "quote": "江苏宏达电气有限公司 参股公司 智能电气 5,099.00...29,698.48"
+    },
+    {
+      "name": "科大智能（合肥）科技有限公司及其控股公司",
+      "relation_type": "supplier",
+      "business_details": "关联交易供应商",
+      "quote": "向关联方科大智能（合肥）科技有限公司及其控股公司采购、销售商品及提供劳务...2025年度实际发生的日常关联交易总额..."
+    },
+    {
+      "name": "国家电网",
+      "relation_type": "customer",
+      "business_details": "智能配用电产品及解决方案",
+      "quote": "公司的产品与解决方案已在全国 31 个省级行政区域的电网中部署应用。"
+    },
+    {
+      "name": "宁德时代",
+      "relation_type": "customer",
+      "business_details": "堆垛机",
+      "quote": "堆垛机业务为宁德时代定制的超高难度堆垛机订单落地..."
+    },
+    {
+      "name": "长城汽车",
+      "relation_type": "customer",
+      "business_details": "工业机械手",
+      "quote": "工业机械手业务4个月便完成长城汽车巴西工厂交付..."
+    },
+    {
+      "name": "国元证券股份有限公司",
+      "relation_type": "customer",
+      "business_details": "持续督导保荐机构",
+      "quote": "国元证券、保荐人、保荐机构、主承销商 指 国元证券股份有限公司"
+    },
+    {
+      "name": "容诚会计师事务所(特殊普通合伙)",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "容诚、会计师 指 容诚会计师事务所(特殊普通合伙)"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "数字能源",
+      "segment_type": "product_line",
+      "revenue_amount": "2,314,292,269.46元",
+      "revenue_proportion": "75.57%",
+      "gross_margin": "22.18%",
+      "yoy_change": "10.14%",
+      "quote": "数字能源 2,314,292,269.46 75.57% 22.18% 10.14%"
+    },
+    {
+      "name": "智能机器人",
+      "segment_type": "product_line",
+      "revenue_amount": "700,821,747.45元",
+      "revenue_proportion": "22.88%",
+      "gross_margin": "23.55%",
+      "yoy_change": "19.67%",
+      "quote": "智能机器人 700,821,747.45 22.88% 23.55% 19.67%"
+    },
+    {
+      "name": "汽车行业（智能机器人）",
+      "segment_type": "customer_type",
+      "revenue_amount": "254,833,874.51元",
+      "revenue_proportion": null,
+      "gross_margin": "31.47%",
+      "yoy_change": "64.53%",
+      "quote": "汽车行业 254,833,874.51 31.47% 154,884,159.76 21.76% 64.53% 9.71%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "1,695,055,215.42元",
+      "revenue_proportion": "55.35%",
+      "gross_margin": "20.93%",
+      "yoy_change": "15.95%",
+      "quote": "华东 1,695,055,215.42 55.35% 1,461,875,629.42 53.38% 15.95%"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "526,713,549.11元",
+      "revenue_proportion": "17.20%",
+      "gross_margin": "22.28%",
+      "yoy_change": "42.89%",
+      "quote": "华北 526,713,549.11 17.20% 368,622,462.51 13.46% 42.89%"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "322,635,249.65元",
+      "revenue_proportion": "10.53%",
+      "gross_margin": "24.92%",
+      "yoy_change": "-17.95%",
+      "quote": "华南 322,635,249.65 10.53% 393,202,991.87 14.36% -17.95%"
+    },
+    {
+      "name": "海外",
+      "segment_type": "region",
+      "revenue_amount": "65,519,347.17元",
+      "revenue_proportion": "2.14%",
+      "gross_margin": null,
+      "yoy_change": "126.15%",
+      "quote": "海外 65,519,347.17 2.14% 28,971,157.58 1.06% 126.15%"
+    },
+    {
+      "name": "工业智能化",
+      "segment_type": "product_line",
+      "revenue_amount": "3,015,114,016.91元",
+      "revenue_proportion": "98.45%",
+      "gross_margin": "22.49%",
+      "yoy_change": "12.22%",
+      "quote": "工业智能化 3,015,114,016.91 98.45% 22.49% 12.22%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能机器人",
+      "metric_type": "production_volume",
+      "value": "700,821,747.45元",
+      "period": "2025年",
+      "quote": "产品名称 名义产能 实际产能 产量 销量 智能机器人 700,821,747.45 700,821,747.45 700,821,747.45"
+    },
+    {
+      "product": "智能机器人",
+      "metric_type": "sales_volume",
+      "value": "700,821,747.45元",
+      "period": "2025年",
+      "quote": "产品名称 名义产能 实际产能 产量 销量 智能机器人 700,821,747.45 700,821,747.45 700,821,747.45"
+    },
+    {
+      "product": "工业智能化",
+      "metric_type": "sales_volume",
+      "value": "2,336,878,141.43元",
+      "period": "2025年",
+      "quote": "销售量 元 2,336,878,141.43"
+    },
+    {
+      "product": "工业智能化",
+      "metric_type": "production_volume",
+      "value": "2,164,853,168.22元",
+      "period": "2025年",
+      "quote": "生产量 元 2,164,853,168.22"
+    },
+    {
+      "product": "工业智能化",
+      "metric_type": "inventory_volume",
+      "value": "521,056,999.03元",
+      "period": "2025年末",
+      "quote": "库存量 元 521,056,999.03"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新型电力系统智能终端产业基地项目",
+      "project_type": "capacity_expansion",
+      "location": "上海市松江区泗砖路777号及合肥市高新区望江西路5111号",
+      "investment_amount": "12,000万元（募集资金投入）",
+      "designed_capacity": null,
+      "progress": "本报告期投入1,820.04万元，累计投入2,770.84万元",
+      "expected_completion_time": "2026年10月17日",
+      "quote": "新型电力系统智能终端产业化项目...实施主体...变更为科大智能科技股份有限公司，实施地点...变更为上海市松江区泗砖路777号及合肥市高新区望江西路5111号...项目达到预定可使用状态日期...2026年10月17日"
+    },
+    {
+      "name": "境外发行股份（H股）并申请在香港联交所主板上市",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已于2026年1月19日向香港联交所递交了本次发行上市的申请",
+      "expected_completion_time": null,
+      "quote": "公司已于 2026 年 1 月 19 日向香港联交所递交了本次发行上市的申请...本次发行上市尚待取得相关政府机关、监管机构、证券交易所的批准、核准或备案。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得 193 项",
+      "quote": "截至本报告期末，公司及子公司累计获得 193 项发明专利..."
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "394 项",
+      "quote": "394 项实用新型专利..."
+    },
+    {
+      "name": "外观设计专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "58 项",
+      "quote": "58 项外观设计专利..."
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "256 项",
+      "quote": "256 项软件著作权..."
+    },
+    {
+      "name": "研发团队",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "709 名员工，占员工总数的 44.90%",
+      "quote": "公司的研发团队有 709 名员工，占员工总数的 44.90%..."
+    },
+    {
+      "name": "“高可靠自取能配电开关与十米级故障定位关键技术及应用”",
+      "asset_type": "core_technology",
+      "related_product": "一二次融合断路器",
+      "quantitative_info": "整体技术被认定为处于国际领先水平",
+      "quote": "由公司牵头...共同完成的“高可靠自取能配电开关与十米级故障定位关键技术及应用”...整体技术被认定为处于国际领先水平。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "48.05%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 48.05%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "33.69%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 1,031,787,347.06 33.69%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.11%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 16.11%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "8.81%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 236,447,692.01 8.81%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "未来产业政策和宏观经济波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在发展过程中，存在未来产业政策和宏观经济波动风险...若未来国家相关产业政策出现调整，或宏观经济环境发生大幅波动，将可能会对公司的市场需求和生产经营带来较大影响..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司当前所处数字能源和机器人应用行业均属于市场化程度较高、竞争较为激烈的行业...若公司在激烈的市场中无法保持自身的竞争优势，可能导致公司市场地位及市场份额下降..."
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价准备",
+      "related_entity": null,
+      "related_product": "存货",
+      "quote": "截至 2025 年 12 月 31 日，科大智能存货余额 9.04 亿元，存货跌价准备金额 0.58 亿元。由于存货金额重大，且确定存货可变现净值涉及科大智能管理层（以下简称管理层）的判断和估计，我们将存货跌价准备计提识别为关键审计事项。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款余额较大的风险",
+      "related_entity": null,
+      "related_product": "应收账款",
+      "quote": "公司 2025年 12月 31日、2024年 12月 31日的应收账款净额分别为 147,434.66万元、145,920.92万元。如果公司对应收账款催收不力...将对公司的偿债能力、现金流及公司正常的生产经营产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "本次发行上市尚待取得相关政府机关、监管机构、证券交易所的批准、核准或备案，仍存在不确定性。",
+      "related_entity": "香港联交所",
+      "related_product": null,
+      "quote": "本次发行上市尚待取得相关政府机关、监管机构、证券交易所的批准、核准或备案...该事项仍存在不确定性。"
+    }
+  ]
+}

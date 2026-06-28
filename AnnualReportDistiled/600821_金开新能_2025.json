@@ -1,0 +1,420 @@
+{
+  "company_name_mentioned": "金开新能源股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "公司2025年实现营业收入34.52亿元，同比减少4.44%。",
+      "quote": "公司的主要产品为电力，按照国民经济行业分类，所属行业为电力生产行业中的风力发电以及太阳能发电。"
+    },
+    {
+      "name": "风力发电",
+      "type": "service",
+      "revenue_proportion": "分产品：风力发电 营业收入1,589,335,660.33元，毛利率63.28%。",
+      "quote": "风力发电 营业收入 1,589,335,660.33 元，营业成本 583,629,900.73 元，毛利率 63.28%。"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "分产品：光伏发电 营业收入1,741,591,752.01元，毛利率38.76%。",
+      "quote": "光伏发电 营业收入 1,741,591,752.01 元，营业成本 1,066,538,315.09 元，毛利率 38.76%。"
+    },
+    {
+      "name": "设备销售",
+      "type": "device",
+      "revenue_proportion": "设备销售收入54,317,886.15元。",
+      "quote": "设备销售收入 54,317,886.15 元，上期营业收入 57,957,817.47 元。"
+    },
+    {
+      "name": "人工智能算力技术服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司全资子公司金开新能伊吾数字科技有限公司与无问芯穹（北京）智能科技有限公司签署了《人工智能算力技术服务合同》。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "光伏组件、风力发电机组等设备及服务",
+      "target_product": "电力",
+      "cost_proportion": null,
+      "quote": "公司根据工程、货物、服务等不同标的特性及规模，依法依规采用公开招标、邀请招标、询比采购、谈判采购等方式开展设备及服务采购。"
+    },
+    {
+      "name": "其他材料及服务",
+      "target_product": "电力",
+      "cost_proportion": null,
+      "quote": "成本构成项目：折旧及摊销、人工、其他。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "电力",
+      "quote": "集中式光伏电站、风电场及‘全额上网’的分布式电站，与电网公司签订购售电合同，将所发电量并入指定电网。"
+    },
+    {
+      "name": "用电客户",
+      "source_product": "电力",
+      "quote": "‘自发自用，余电上网’分布式光伏项目，电量优先供应项目业主并直接结算电费。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "尤明杨",
+      "role": "党委书记、董事长",
+      "quote": "公司负责人尤明杨、主管会计工作负责人宋璐璐及会计机构负责人（会计主管人员）白旭霞声明...尤明杨，男，46岁，任期起始日期：2024年10月8日，任期终止日期：2027年10月7日。"
+    },
+    {
+      "name": "范晓波",
+      "role": "副总经理（代为履行总经理职责）、董事会秘书",
+      "quote": "范晓波，男，45岁，副总经理（代为履行总经理职责）、董事会秘书，任期起始日期：2024年10月30日，任期终止日期：2027年10月7日。"
+    },
+    {
+      "name": "宋璐璐",
+      "role": "财务负责人、副总经理",
+      "quote": "宋璐璐，女，43岁，财务负责人、副总经理，任期起始日期：2024年10月30日，任期终止日期：2027年10月7日。"
+    },
+    {
+      "name": "白旭霞",
+      "role": "会计机构负责人",
+      "quote": "公司负责人尤明杨、主管会计工作负责人宋璐璐及会计机构负责人（会计主管人员）白旭霞声明..."
+    },
+    {
+      "name": "邓鹏",
+      "role": "职工董事",
+      "quote": "邓鹏，男，51岁，职工董事，任期起始日期：2024年10月22日，任期终止日期：2027年10月7日。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "天津金开企业管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股股东",
+      "quote": "金开企管 指 天津金开企业管理有限公司，为公司控股股东"
+    },
+    {
+      "name": "金开新能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，开展核心生产经营活动",
+      "quote": "金开有限、国开新能源 指 金开新能科技有限公司,为公司全资子公司"
+    },
+    {
+      "name": "上海金开新能供应链管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资二级子公司",
+      "quote": "金开供应链 指 上海金开新能供应链管理有限公司，公司全资二级子公司"
+    },
+    {
+      "name": "金开智维（宁夏）科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司，报告期内已出表",
+      "quote": "金开智维 指 金开智维（宁夏）科技有限公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "主要客户，销售电力",
+      "quote": "前五名客户销售额中...国家电网有限公司 297,683.37万元，占年度销售总额比例86.24%。"
+    },
+    {
+      "name": "无问芯穹（北京）智能科技有限公司",
+      "relation_type": "customer",
+      "business_details": "人工智能算力技术服务合同客户",
+      "quote": "前五名客户销售额中...无问芯穹（北京）智能科技有限公司 2,716.98万元，占年度销售总额比例0.79%。"
+    },
+    {
+      "name": "英利能源发展有限公司",
+      "relation_type": "customer",
+      "business_details": "参股公司，太阳能电池组件制造及销售",
+      "quote": "英利能源发展有限公司，参股公司，主要业务太阳能电池组件制造及销售。"
+    },
+    {
+      "name": "中瑞恒丰（上海）新能源发展有限公司",
+      "relation_type": "customer",
+      "business_details": "参股公司，投资业务、新能源电站建设",
+      "quote": "中瑞恒丰（上海）新能源发展有限公司，参股公司，主要业务投资业务、新能源电站建设。"
+    },
+    {
+      "name": "天津津融投资服务集团有限公司",
+      "relation_type": "investor",
+      "business_details": "公司间接控股股东",
+      "quote": "津融集团 指 天津津融投资服务集团有限公司，为公司间接控股股东"
+    },
+    {
+      "name": "天津津诚二号股权投资基金合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "金开企管的一致行动人",
+      "quote": "天津津诚二号股权投资基金合伙企业（有限合伙），为金开企管的一致行动人"
+    },
+    {
+      "name": "天津津融资本运营有限公司",
+      "relation_type": "investor",
+      "business_details": "金开企管的一致行动人",
+      "quote": "天津津融资本运营有限公司（原名天津津融国信资本管理有限公司），为金开企管的一致行动人"
+    },
+    {
+      "name": "津融卓创2号私募证券投资基金",
+      "relation_type": "investor",
+      "business_details": "金开企管的一致行动人",
+      "quote": "津融卓创 指 津融卓创2号私募证券投资基金，为金开企管的一致行动人"
+    },
+    {
+      "name": "毕马威华振会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "毕马威华振会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "新能源发电",
+      "segment_type": "product_line",
+      "revenue_amount": "3,330,927,412.34",
+      "revenue_proportion": null,
+      "gross_margin": "50.29%",
+      "yoy_change": "营业收入比上年同期增减（%）-2.81",
+      "quote": "分行业：新能源发电 营业收入 3,330,927,412.34 元，营业成本 1,655,843,993.29 元，毛利率 50.29%。"
+    },
+    {
+      "name": "风力发电",
+      "segment_type": "product_line",
+      "revenue_amount": "1,589,335,660.33",
+      "revenue_proportion": null,
+      "gross_margin": "63.28%",
+      "yoy_change": "营业收入比上年同期增减（%）5.37",
+      "quote": "分产品：风力发电 营业收入 1,589,335,660.33 元，营业成本 583,629,900.73 元，毛利率 63.28%。"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "1,741,591,752.01",
+      "revenue_proportion": null,
+      "gross_margin": "38.76%",
+      "yoy_change": "营业收入比上年同期增减（%）-8.27",
+      "quote": "分产品：光伏发电 营业收入 1,741,591,752.01 元，营业成本 1,066,538,315.09 元，毛利率 38.76%。"
+    },
+    {
+      "name": "中国境内",
+      "segment_type": "region",
+      "revenue_amount": "3,330,927,412.34",
+      "revenue_proportion": null,
+      "gross_margin": "50.29%",
+      "yoy_change": "营业收入比上年同期增减（%）-2.81",
+      "quote": "分地区：中国境内 营业收入 3,330,927,412.34 元，营业成本 1,655,843,993.29 元，毛利率 50.29%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "新能源电站",
+      "metric_type": "capacity",
+      "value": "核准装机规模7,961.09兆瓦；并网装机规模5,847.81兆瓦",
+      "period": "报告期末",
+      "quote": "截至2025年末，公司核准装机规模7,961.09兆瓦；并网装机规模5,847.81兆瓦。"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "capacity",
+      "value": "并网容量4,206.59兆瓦",
+      "period": "报告期末",
+      "quote": "其中光伏项目并网容量4,206.59兆瓦。"
+    },
+    {
+      "product": "风力发电",
+      "metric_type": "capacity",
+      "value": "并网容量1,514.52兆瓦",
+      "period": "报告期末",
+      "quote": "风电项目并网容量1,514.52兆瓦。"
+    },
+    {
+      "product": "储能及生物质",
+      "metric_type": "capacity",
+      "value": "126.80兆瓦",
+      "period": "报告期末",
+      "quote": "储能及生物质126.80兆瓦。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "全年累计发电量84.32亿千瓦时",
+      "period": "报告期内",
+      "quote": "全年累计发电量84.32亿千瓦时，同比增长6.66%。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "总上网电量836,477.06万千瓦时",
+      "period": "报告期内",
+      "quote": "总上网电量（万千瓦时）836,477.06。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity_utilization",
+      "value": null,
+      "period": null,
+      "quote": "市场化交易的总电量(万千瓦时) 344,168，总上网电量(万千瓦时) 843,198，占比 40.82%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新疆哈密伊吾智算中心首期2,000P（FP16）项目",
+      "project_type": "capacity_expansion",
+      "location": "新疆哈密伊吾",
+      "investment_amount": null,
+      "designed_capacity": "2,000P（FP16）",
+      "progress": "顺利通过验收并投运",
+      "expected_completion_time": null,
+      "quote": "新疆哈密伊吾智算中心首期2,000P（FP16）项目顺利通过验收并投运，实现智算业务关键突破。"
+    },
+    {
+      "name": "贵港市港南桥圩镇200MWp农光储互补平价上网光伏发电复合项目",
+      "project_type": "fundraising_project",
+      "location": "贵港市港南桥圩镇",
+      "investment_amount": "计划投资总额70,000.00万元",
+      "designed_capacity": "200MWp",
+      "progress": "已结项",
+      "expected_completion_time": "2024年12月",
+      "quote": "贵港市港南桥圩镇200MWp农光储互补平价上网光伏发电复合项目，计划投资总额70,000.00万元，项目达到预定可使用状态日期2024年12月，已结项。"
+    },
+    {
+      "name": "君能新能源公安县狮子口镇100MWp渔光互补光伏发电项目",
+      "project_type": "fundraising_project",
+      "location": "公安县狮子口镇",
+      "investment_amount": "计划投资总额43,800.00万元",
+      "designed_capacity": "100MWp",
+      "progress": "已结项",
+      "expected_completion_time": "2023年6月",
+      "quote": "君能新能源公安县狮子口镇100MWp渔光互补光伏发电项目，计划投资总额43,800.00万元，项目达到预定可使用状态日期2023年6月，已结项。"
+    },
+    {
+      "name": "湖北昌昊新能源科技有限公司监利市黄歇口镇马嘶湖渔场（西片）100MW渔光互补光伏电站项目",
+      "project_type": "fundraising_project",
+      "location": "监利市黄歇口镇马嘶湖渔场",
+      "investment_amount": "计划投资总额45,000.00万元",
+      "designed_capacity": "100MW",
+      "progress": "已结项",
+      "expected_completion_time": "2025年6月",
+      "quote": "湖北昌昊新能源科技有限公司监利市黄歇口镇马嘶湖渔场（西片）100MW渔光互补光伏电站项目，计划投资总额45,000.00万元，项目达到预定可使用状态日期2025年6月，已结项。"
+    },
+    {
+      "name": "湖北开奥光伏发电有限公司石首市团山寺镇70MW渔光互补光伏发电项目",
+      "project_type": "fundraising_project",
+      "location": "石首市团山寺镇",
+      "investment_amount": "计划投资总额30,000.00万元",
+      "designed_capacity": "70MW",
+      "progress": "已结项",
+      "expected_completion_time": "2023年11月",
+      "quote": "湖北开奥光伏发电有限公司石首市团山寺镇70MW渔光互补光伏发电项目，计划投资总额30,000.00万元，项目达到预定可使用状态日期2023年11月，已结项。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "《风电场无人值守智能运维管理系统技术要求》团体标准",
+      "asset_type": "standard",
+      "related_product": "风力发电",
+      "quantitative_info": null,
+      "quote": "作为主要起草单位，牵头编制国内首个《风电场无人值守智能运维管理系统技术要求》团体标准。"
+    },
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": "新能源电站",
+      "quantitative_info": "累计获得授权专利27项",
+      "quote": "累计获得授权专利27项。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": "新能源项目管理",
+      "quantitative_info": "累计获得软件著作权11项",
+      "quote": "软件著作权11项。"
+    },
+    {
+      "name": "新能源项目固定资产台账管理系统",
+      "asset_type": "software_copyright",
+      "related_product": "新能源项目管理",
+      "quantitative_info": null,
+      "quote": "自主研发的‘新能源项目固定资产台账管理系统’等获软件著作权。"
+    },
+    {
+      "name": "国家能源多模式工业储能技术研发中心",
+      "asset_type": "technical_platform",
+      "related_product": "储能技术",
+      "quantitative_info": null,
+      "quote": "与北京科技大学等单位共建‘国家能源多模式工业储能技术研发中心’，并通过国家能源局中期评估。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "前五名客户销售额328,652.87万元，占年度销售总额95.22%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额328,652.87万元，占年度销售总额95.22%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "国家电网有限公司 297,683.37万元，占年度销售总额比例（%）86.24",
+      "related_entity": "国家电网有限公司",
+      "period": "报告期内",
+      "quote": "序号 客户名称 销售额 占年度销售总额比例（%）1 国家电网有限公司 297,683.37 86.24"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "前五名供应商采购额165,000.53万元，占年度采购总额20.15%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额165,000.53万元，占年度采购总额20.15%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "向单个客户的销售比例超过总额的50%",
+      "related_entity": "国家电网有限公司",
+      "period": "报告期内",
+      "quote": "报告期内向单个客户的销售比例超过总额的50%、前5名客户中存在新增客户的或严重依赖于少数客户的情形...国家电网有限公司 297,683.37 86.24。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着电力市场化改革不断深入，市场交易电量比例不断扩大。受反调峰特性影响，新能源面临电价下降、收益下滑的风险。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "1、电价风险：随着电力市场化改革不断深入，市场交易电量比例不断扩大。受反调峰特性影响，新能源面临电价下降、收益下滑的风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "受新能源装机持续增加、部分地区电网结构限制、送出能力不足等影响，限电形势仍较为严峻。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "2、限电风险：受新能源装机持续增加、部分地区电网结构限制、送出能力不足等影响，限电形势仍较为严峻。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司有息负债主要为中长期项目融资，利率普遍为挂钩LPR浮动形式，受资金市场供需影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、利率风险：公司有息负债主要为中长期项目融资，利率普遍为挂钩LPR浮动形式，受资金市场供需影响较大。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "受国家发改委、财政部、国家能源局委托，国家电网与南方电网分别正式公布了《关于公布第一批可再生能源发电补贴合规项目清单的公告》，公司下属已有36个电站合计容量1,873.75兆瓦进入第一批名单。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "4、补贴核查风险：2022年3月，国家发改委、国家能源局以及财政部三部委联合下发《关于开展可再生能源发电补贴自查工作的通知》...公司下属已有 36 个电站合计容量 1,873.75兆瓦进入第一批名单。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "根据目前相关政策和法律法规，公司下属部分项目公司享有不同程度的税收优惠。主要包括增值税优惠政策和企业所得税优惠政策。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "5、税收优惠政策变化的风险：根据目前相关政策和法律法规，公司下属部分项目公司享有不同程度的税收优惠。主要包括：（1）增值税优惠政策...（2）企业所得税优惠政策..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司财产和盈利存在因自然条件变化等不可抗力因素而遭受损失的可能。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "6、不可抗力风险：公司财产和盈利存在因自然条件变化等不可抗力因素而遭受损失的可能。"
+    }
+  ]
+}

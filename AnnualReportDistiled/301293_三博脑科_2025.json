@@ -1,0 +1,464 @@
+{
+  "company_name_mentioned": "三博脑科医院管理集团股份有限公司",
+  "produces": [
+    {
+      "name": "神经专科医疗服务",
+      "type": "service",
+      "revenue_proportion": "2025年，医疗服务收入为1,286,842,680.46元，占营业收入比重74.59%",
+      "quote": "公司主要诊疗项目、业务内容和开展主体如下：神经外科、神经介入、神经内科...诊疗类型"
+    },
+    {
+      "name": "综合医疗服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "综合性医院3家，为重庆三博江陵、重庆三博长安和成都三博，就诊患者主要来自周边区域。"
+    },
+    {
+      "name": "药品",
+      "type": "material",
+      "revenue_proportion": "2025年，药品收入为422,367,760.05元，占营业收入比重24.48%",
+      "quote": "分产品：医疗服务收入 1,286,842,680.46 74.59%...药品收入 422,367,760.05 24.48%"
+    },
+    {
+      "name": "供应链服务",
+      "type": "service",
+      "revenue_proportion": "2025年，供应链收入为3,644,341.72元，占营业收入比重0.21%",
+      "quote": "分产品：...供应链收入 3,644,341.72 0.21%"
+    },
+    {
+      "name": "其他业务",
+      "type": "service",
+      "revenue_proportion": "2025年，其他业务收入为12,270,563.58元，占营业收入比重0.71%",
+      "quote": "分产品：...其他业务收入 12,270,563.58 0.71%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "药品",
+      "target_product": "医疗服务",
+      "cost_proportion": null,
+      "quote": "公司主要采购药品、耗材和各类医疗设备等。"
+    },
+    {
+      "name": "耗材",
+      "target_product": "医疗服务",
+      "cost_proportion": null,
+      "quote": "公司主要采购药品、耗材和各类医疗设备等。"
+    },
+    {
+      "name": "医疗设备",
+      "target_product": "医疗服务",
+      "cost_proportion": null,
+      "quote": "公司主要采购药品、耗材和各类医疗设备等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "神经系统疾病诊疗",
+      "source_product": "神经专科医疗服务",
+      "quote": "开展各类型脑部肿瘤手术，脑血管搭桥手术，癫痫、帕金森病、三叉神经痛等功能神经外科手术，脊髓脊柱神经外科手术和小儿神经外科手术等"
+    },
+    {
+      "name": "综合疾病诊疗",
+      "source_product": "综合医疗服务",
+      "quote": "其他科室：外科、内科、妇产科、儿科、急诊科、影像科、检验科、病理科、体检科和社区服务中心等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张阳",
+      "role": "董事长、总经理（2025年3月4日前）、实际控制人",
+      "quote": "公司负责人张阳、主管会计工作负责人乔明浩及会计机构负责人(会计主管人员)高金伶声明..."
+    },
+    {
+      "name": "于春江",
+      "role": "董事、首席专家、实际控制人",
+      "quote": "神经外科专业，博士研究生学历。...2004年至今，任公司董事，首都医科大学三博脑科医院教授、博士研究生导师、主任医师、首席专家。"
+    },
+    {
+      "name": "栾国明",
+      "role": "董事、首席专家、实际控制人",
+      "quote": "神经外科专业，博士研究生学历。...2004年至今，任公司董事，首都医科大学三博脑科医院教授、博士研究生导师、主任医师、首席专家..."
+    },
+    {
+      "name": "石祥恩",
+      "role": "董事、首席专家、实际控制人",
+      "quote": "神经外科专业，博士研究生学历。...2004年至今，任公司董事、首都医科大学三博脑科医院首席专家、主任医师、教授..."
+    },
+    {
+      "name": "徐向英",
+      "role": "董事、总经理（2025年3月4日起）",
+      "quote": "董事：徐向英，男，1973年7月出生，医院管理专业，硕士研究生学历。...2025年3月至今，任公司总经理..."
+    },
+    {
+      "name": "蔡斌斌",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理：蔡斌斌，男，1967年6月出生，高级工商管理、医疗管理专业，硕士研究生学历。"
+    },
+    {
+      "name": "胡卫卫",
+      "role": "副总经理、董事会秘书",
+      "quote": "副总经理、董事会秘书：胡卫卫，1984年9月出生，男..."
+    },
+    {
+      "name": "乔明浩",
+      "role": "财务总监",
+      "quote": "财务总监：乔明浩，1982年2月出生，男..."
+    },
+    {
+      "name": "孙吉让",
+      "role": "副总经理、首席信息官",
+      "quote": "副总经理：孙吉让，1967年10月出生，男..."
+    },
+    {
+      "name": "林志雄",
+      "role": "副总经理",
+      "quote": "副总经理：林志雄，男，1967年4月出生，神经外科专业，博士研究生学历..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京三博脑科医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的神经专科医院之一",
+      "quote": "北京三博 指 北京三博脑科医院有限公司（曾用名为首医大三博脑科医院（北京）有限公司），首都医科大学三博脑科医院"
+    },
+    {
+      "name": "重庆三博长安医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的综合性医院之一",
+      "quote": "重庆三博长安 指 重庆三博长安医院有限公司，重庆三博长安医院"
+    },
+    {
+      "name": "重庆三博江陵医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的综合性医院之一",
+      "quote": "重庆三博江陵 指 重庆三博江陵医院有限公司，重庆三博江陵医院"
+    },
+    {
+      "name": "昆明三博脑科医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的神经专科医院之一",
+      "quote": "昆明三博 指 昆明三博脑科医院有限公司，昆明三博脑科医院"
+    },
+    {
+      "name": "福建三博脑科医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的神经专科医院之一",
+      "quote": "福建三博脑科医院有限公司（曾用名为福建三博福能脑科医院有限公司），福建三博脑科医院"
+    },
+    {
+      "name": "河南三博脑科医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的神经专科医院之一",
+      "quote": "河南三博 指 河南三博脑科医院有限公司，河南三博脑科医院"
+    },
+    {
+      "name": "洛阳伍一一三博脑科医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的神经专科医院之一",
+      "quote": "洛阳三博 指 洛阳伍一一三博脑科医院有限公司（曾用名为洛阳三博伍一一医院管理有限公司、洛阳三博伍一一医院有限公司），洛阳伍一一三博脑科医院"
+    },
+    {
+      "name": "西安三博脑科医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的神经专科医院之一，2025年9月开业",
+      "quote": "西安三博 指 西安三博脑科医院有限公司（曾用名为陕西三博脑科医院有限公司），西安三博脑科医院"
+    },
+    {
+      "name": "成都三博东篱医院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下运营的综合性医院之一",
+      "quote": "成都三博、成都东篱、东篱医院 指 成都三博东篱医院有限公司（曾用名为成都东篱医院有限公司），成都三博东篱医院"
+    },
+    {
+      "name": "四川大行广泽医疗投资管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司于2024年11月纳入合并范围的子公司，业务规模扩大",
+      "quote": "大行广泽 指 四川大行广泽医疗投资管理有限公司"
+    },
+    {
+      "name": "中信证券股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司首次公开发行股票的保荐机构",
+      "quote": "公司聘请的报告期内履行持续督导职责的保荐机构：中信证券股份有限公司"
+    },
+    {
+      "name": "立信会计师事务所(特殊普通合伙)",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的年度审计机构",
+      "quote": "公司聘请的会计师事务所：会计师事务所名称 立信会计师事务所(特殊普通合伙)"
+    },
+    {
+      "name": "上海德联博健创业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司以自有资金8,700万元认购其29%份额，后稀释至25.18%",
+      "quote": "公司分别以自有资金8,700万元认购了上海德联博健创业投资合伙企业（有限合伙）29%份额"
+    },
+    {
+      "name": "北脑一期（北京）股权投资中心（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司以自有资金1,000万元认购其11.11%份额",
+      "quote": "以自有资金1,000万元认购了北脑一期（北京）股权投资中心（有限合伙）11.11%份额"
+    },
+    {
+      "name": "天津元明海河脑科学创业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司以自有资金5,700万元认购其19%份额",
+      "quote": "以自有资金5,700万元认购了天津元明海河脑科学创业投资合伙企业（有限合伙）19%份额"
+    },
+    {
+      "name": "首都医科大学",
+      "relation_type": "joint_venture",
+      "business_details": "北京三博是首都医科大学附属医院（第十一临床医学院）",
+      "quote": "旗下北京三博为首都医科大学附属医院（第十一临床医学院）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医疗",
+      "segment_type": "business_unit",
+      "revenue_amount": "2025年1,721,428,188.40元",
+      "revenue_proportion": "99.79%",
+      "gross_margin": "2025年医疗行业毛利率为23.34%",
+      "yoy_change": "20.83%",
+      "quote": "分行业：医疗 1,721,428,188.40 99.79% 1,424,644,908.70 99.67% 20.83%"
+    },
+    {
+      "name": "供应链",
+      "segment_type": "business_unit",
+      "revenue_amount": "2025年3,697,157.41元",
+      "revenue_proportion": "0.21%",
+      "gross_margin": null,
+      "yoy_change": "-22.15%",
+      "quote": "分行业：...供应链 3,697,157.41 0.21% 4,748,829.38 0.33% -22.15%"
+    },
+    {
+      "name": "医疗服务收入",
+      "segment_type": "product_line",
+      "revenue_amount": "2025年1,286,842,680.46元",
+      "revenue_proportion": "74.59%",
+      "gross_margin": "2025年医疗服务收入毛利率为25.32%",
+      "yoy_change": "17.95%",
+      "quote": "分产品：医疗服务收入 1,286,842,680.46 74.59% 1,091,016,583.74 76.33% 17.95%"
+    },
+    {
+      "name": "药品收入",
+      "segment_type": "product_line",
+      "revenue_amount": "2025年422,367,760.05元",
+      "revenue_proportion": "24.48%",
+      "gross_margin": "2025年药品收入毛利率为16.94%",
+      "yoy_change": "30.75%",
+      "quote": "分产品：...药品收入 422,367,760.05 24.48% 323,027,954.21 22.60% 30.75%"
+    },
+    {
+      "name": "华北",
+      "segment_type": "region",
+      "revenue_amount": "2025年540,296,065.28元",
+      "revenue_proportion": "31.32%",
+      "gross_margin": "2025年华北地区毛利率为29.12%",
+      "yoy_change": "8.64%",
+      "quote": "分地区：华北 540,296,065.28 31.32% 497,346,378.83 34.79% 8.64%"
+    },
+    {
+      "name": "华中",
+      "segment_type": "region",
+      "revenue_amount": "2025年179,242,162.08元",
+      "revenue_proportion": "10.39%",
+      "gross_margin": "2025年华中地区毛利率为25.09%",
+      "yoy_change": "-13.78%",
+      "quote": "分地区：华中 179,242,162.08 10.39% 207,893,716.53 14.54% -13.78%"
+    },
+    {
+      "name": "西南",
+      "segment_type": "region",
+      "revenue_amount": "2025年892,642,863.41元",
+      "revenue_proportion": "51.74%",
+      "gross_margin": "2025年西南地区毛利率为21.58%",
+      "yoy_change": "47.30%",
+      "quote": "分地区：西南 892,642,863.41 51.74% 605,996,751.93 42.40% 47.30%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "门诊量",
+      "metric_type": "other",
+      "value": "110余万人次",
+      "period": "报告期内",
+      "quote": "报告期内年门诊量110余万人次"
+    },
+    {
+      "product": "住院患者",
+      "metric_type": "other",
+      "value": "超7万人次",
+      "period": "报告期内",
+      "quote": "住院患者超7万人次"
+    },
+    {
+      "product": "神经外科专科手术",
+      "metric_type": "other",
+      "value": "超7,000台",
+      "period": "报告期内",
+      "quote": "神经外科专科手术超7,000台"
+    },
+    {
+      "product": "注册床位数",
+      "metric_type": "capacity",
+      "value": "近3,000张",
+      "period": "报告期末",
+      "quote": "注册床位数近3,000张"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "首都医科大学三博脑科医院建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "调整后投资总额30,000万元",
+      "designed_capacity": null,
+      "progress": "已结项，达到预定可使用状态",
+      "expected_completion_time": "2025年12月",
+      "quote": "首都医科大学三博脑科医院建设项目...调整后投资总额(1) 30,000...项目达到预定可使用状态日期 2025年12月22日"
+    },
+    {
+      "name": "西安三博脑科医院建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "截至报告期末累计实际投入163,795,160.55元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2024年12月31日",
+      "quote": "西安三博脑科医院建设项目...截至报告期末累计实际投入金额 163,795,160.55...项目达到预定可使用状态日期 2024年12月31日"
+    },
+    {
+      "name": "湖南三博脑科医院建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "截至报告期末累计实际投入314,519,893.51元",
+      "designed_capacity": null,
+      "progress": "43.59%",
+      "expected_completion_time": null,
+      "quote": "湖南三博脑科医院建设项目...截至报告期末累计实际投入金额 314,519,893.51...投资进度(3)...43.59%"
+    },
+    {
+      "name": "昆明三博脑科医院新院区建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "截至报告期末累计实际投入393,184,843.05元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "昆明三博脑科医院新院区建设项目...截至报告期末累计实际投入金额 393,184,843.05...项目达到预定可使用状态日期 已结项"
+    },
+    {
+      "name": "三博脑科信息化建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "承诺投资总额7,010万元",
+      "designed_capacity": null,
+      "progress": "16.26%",
+      "expected_completion_time": "2027年12月31日",
+      "quote": "三博脑科信息化建设项目...承诺投资总额(1) 7,010...投资进度(3)...16.26%...项目达到预定可使用状态日期 2027年12月31日"
+    },
+    {
+      "name": "对四川大行广泽医疗投资管理有限公司的投资及购买股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "共计4.2亿元",
+      "designed_capacity": null,
+      "progress": "2024年11月27日实施完成",
+      "expected_completion_time": null,
+      "quote": "同意公司使用自有资金和超募资金及超募资金产生的利息共计4.2亿元对全资子公司三博（重庆）物业管理有限公司进行增资，由该子公司对四川大行广泽医疗投资管理有限公司进行投资。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高难度神经外科手术技术",
+      "asset_type": "core_technology",
+      "related_product": "神经专科医疗服务",
+      "quantitative_info": "累计完成神经外科手术量居全国前列，且80%为难度最大的四级手术",
+      "quote": "在这些专家学者的带领下，三博脑科累计完成神经外科手术量居全国前列，且80%为难度最大的四级手术，技术实力全国领先。"
+    },
+    {
+      "name": "“医教研”一体化运营平台",
+      "asset_type": "technical_platform",
+      "related_product": "医疗服务、教学、科研",
+      "quantitative_info": "北京三博拥有博士生导师15人，硕士生导师26人，累计培养硕士、博士、博士后370人；承担、参与各类科研项目270余项，主编和参编专业论著50余部，在国际著名的神经外科杂志发表专业论文（含SCI）620余篇",
+      "quote": "北京三博为首都医科大学附属医院（第十一临床医学院），拥有博士生导师15人，硕士生导师26人，累计培养硕士、博士、博士后370人；北京三博承担、参与各类科研项目270余项，主编和参编专业论著50余部，在国际著名的神经外科杂志发表专业论文（含SCI）620余篇。"
+    },
+    {
+      "name": "国家临床重点专科（神经外科）建设单位",
+      "asset_type": "certification",
+      "related_product": "神经专科医疗服务",
+      "quantitative_info": null,
+      "quote": "北京三博是公司成立最早、临床及科研能力最强的医院，是国家临床重点专科（神经外科）建设单位"
+    },
+    {
+      "name": "中国抗癫痫协会临床实践与培训基地",
+      "asset_type": "certification",
+      "related_product": "癫痫诊疗",
+      "quantitative_info": null,
+      "quote": "也是中国抗癫痫协会临床实践与培训基地"
+    },
+    {
+      "name": "国家药物/器械临床试验机构",
+      "asset_type": "certification",
+      "related_product": "临床研究",
+      "quantitative_info": null,
+      "quote": "北京三博为国家药物/器械临床试验机构"
+    },
+    {
+      "name": "360度服务体系",
+      "asset_type": "process_technology",
+      "related_product": "医疗服务",
+      "quantitative_info": null,
+      "quote": "公司坚持以患者为中心，制定“360度服务体系”，建立完整的满意度调查和反馈流程，持续提升医疗服务质量和患者就医体验。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "0.78%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 13,504,076.69；前五名客户合计销售金额占年度销售总额比例 0.78%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "26.00%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 318,175,546.45；前五名供应商合计采购金额占年度采购总额比例 26.00%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "近年来，随着我国民众医疗服务需求不断增长和医药卫生体制改革的不断深化，政府推出多项支持政策鼓励社会资本进入医疗领域。但因涉及人身安全健康，国家对于医疗服务行业提出了较为严格的监管要求，并对医疗服务质量设置了具体要求和标准。若相关行业政策对社会资本提供医疗服务的支持力度收紧，或公司不能持续满足国家监督管理部门的有关规定和政策要求，则公司经营环境和持续经营可能受到不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业监管政策变化的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "医务人员是医疗服务行业的核心资源，对医疗服务企业的综合竞争实力和长期稳定发展至关重要。神经外科专业对于经验、技术要求较高，培养一名合格神经外科医生需要较长时间。随着公司经营规模不断扩大，公司对高层次医护人员的需求将不断增加，若公司的人才培养和引进不能满足扩张需要，公司不能保持高效的管理水平和合理的薪酬体系，或无法持续为医师人才提供良好的学习机会和职业发展通道，则可能造成医师团队的人才流失，对核心医师团队的稳定性造成影响，进而影响公司的持续发展和经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、专业技术人才短缺的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司及其下属医院的原材料主要为药品、耗材及易耗品等，均从第三方供应商采购，公司无法保证该等供应产品均不存在瑕疵。如果供应商提供的产品存在严重质量缺陷，公司可能会遭受责任追究或负面报道，会对公司的品牌声誉造成不良影响。另外，药品及耗材的供应因生产厂家或供应商原因，有短缺甚至中断的可能，直接影响临床诊疗，进而影响公司经营业绩。",
+      "related_entity": null,
+      "related_product": "药品、耗材",
+      "quote": "3、原材料供应的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "截至目前，公司有9家正在运营的医院以及1家在建医院。公司未来计划继续在合适时机、合适地区开辟新院区，打造连锁化的专科医院集团。这对公司的医疗质量控制、人力资源和财务管理控制等提出了更高的要求，增加了公司管理、运营的难度。公司管理团队如不能随着业务和资产规模扩张而相应提升管理水平，采取应对措施，公司将存在一定的内部管理风险。在日常经营过程中，子公司具有一定的自主经营决策权。如果母公司无法有效控制子公司的经营风险，将会对公司的整体经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、公司规模扩张后的管理风险"
+    }
+  ]
+}

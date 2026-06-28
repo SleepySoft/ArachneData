@@ -1,0 +1,522 @@
+{
+  "company_name_mentioned": "广东四通集团股份有限公司",
+  "produces": [
+    {
+      "name": "日用陶瓷",
+      "type": "device",
+      "revenue_proportion": "2025年度，日用陶瓷营业收入13,560.49万元，毛利率6.45%。",
+      "quote": "分产品情况：日用陶瓷 135,604,894.24 元，毛利率（%） 6.45。"
+    },
+    {
+      "name": "卫生陶瓷",
+      "type": "device",
+      "revenue_proportion": "2025年度，卫生陶瓷营业收入6,038.48万元，毛利率-11.17%。",
+      "quote": "分产品情况：卫生陶瓷 60,384,827.42 元，毛利率（%） -11.17。"
+    },
+    {
+      "name": "艺术陶瓷",
+      "type": "device",
+      "revenue_proportion": "2025年度，艺术陶瓷营业收入3,180.09万元，毛利率5.87%。",
+      "quote": "分产品情况：艺术陶瓷 31,800,900.78 元，毛利率（%） 5.87。"
+    },
+    {
+      "name": "矿产品（钛精矿、锆英砂、锆中矿、独居石、金红石等）",
+      "type": "material",
+      "revenue_proportion": "2025年度，矿产品营业收入12,583.40万元，毛利率-13.86%。",
+      "quote": "分产品情况：矿产品 125,834,041.92 元，毛利率（%） -13.86。"
+    },
+    {
+      "name": "陶瓷色釉料（建筑陶瓷颜色、低温玻璃颜料、全抛釉、肌肤釉、干粒釉、特殊效果色釉料等）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司于2025年10月投资设立佛山市利德嘉新材料有限公司。该主体主要从事陶瓷色釉料、低温玻璃颜料的研发、生产和销售，产品涵盖建筑陶瓷颜色、低温玻璃颜料、全抛釉、肌肤釉、干粒釉、特殊效果色釉料等系列。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "建发物流集团有限公司",
+      "target_product": "矿产品原材料等",
+      "cost_proportion": "采购额21，607.86万元，占年度采购总额比例59.81%。",
+      "quote": "前五名供应商：建发物流集团有限公司，采购额（万元） 21，607.86，占年度采购总额比例（%） 59.81。"
+    },
+    {
+      "name": "潮州潮安深能港华燃气有限公司（潮州港华燃气有限公司）",
+      "target_product": "燃气等能源",
+      "cost_proportion": "采购额1，343.23万元，占年度采购总额比例3.72%。",
+      "quote": "前五名供应商：潮州潮安深能港华燃气有限公司（潮州港华燃气有限公司），采购额（万元） 1，343.23，占年度采购总额比例（%） 3.72。"
+    },
+    {
+      "name": "潮州市潮安区承业陶瓷材料有限公司",
+      "target_product": "陶瓷材料",
+      "cost_proportion": "采购额815.13万元，占年度采购总额比例2.26%。",
+      "quote": "前五名供应商：潮州市潮安区承业陶瓷材料有限公司，采购额（万元） 815.13，占年度采购总额比例（%） 2.26。"
+    },
+    {
+      "name": "广东电网有限责任公司潮州供电局",
+      "target_product": "电力",
+      "cost_proportion": "采购额773.92万元，占年度采购总额比例2.14%。",
+      "quote": "前五名供应商：广东电网有限责任公司潮州供电局，采购额（万元） 773.92，占年度采购总额比例（%） 2.14。"
+    },
+    {
+      "name": "潮州深能城市燃气发展有限公司",
+      "target_product": "燃气等能源",
+      "cost_proportion": "采购额659.99万元，占年度采购总额比例1.83%。",
+      "quote": "前五名供应商：潮州深能城市燃气发展有限公司，采购额（万元） 659.99，占年度采购总额比例（%） 1.83。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "餐饮、家居等日常消费场景",
+      "source_product": "日用陶瓷",
+      "quote": "日用陶瓷主要用于餐饮、家居等日常消费场景。"
+    },
+    {
+      "name": "卫浴空间",
+      "source_product": "卫生陶瓷",
+      "quote": "卫生陶瓷应用于卫浴空间。"
+    },
+    {
+      "name": "家庭、酒店、商业空间等多元化装饰陈设",
+      "source_product": "艺术陶瓷",
+      "quote": "艺术陶瓷侧重装饰、陈设与工艺收藏，满足家庭、酒店、商业空间等多元化使用需求。"
+    },
+    {
+      "name": "陶瓷制造、新材料、耐火材料等领域",
+      "source_product": "锆钛矿产品（钛精矿、锆英砂等）",
+      "quote": "生产钛精矿、锆中矿、锆英砂、独居石、金红石等产品，主要应用于陶瓷制造、新材料、耐火材料等领域，为下游产业提供关键基础原料。"
+    },
+    {
+      "name": "建筑卫生陶瓷、工艺玻璃、日用玻璃及艺术装饰陶瓷等领域的装饰与功能改性",
+      "source_product": "陶瓷色釉料、低温玻璃颜料",
+      "quote": "产品涵盖建筑陶瓷颜料、低温玻璃颜料、全抛釉、肌肤釉、干粒釉、特殊效果色釉料等系列，主要应用于建筑卫生陶瓷、工艺玻璃、日用玻璃及艺术装饰陶瓷等领域的装饰与功能改性。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邓建华",
+      "role": "董事长",
+      "quote": "公司负责人邓建华...现任公司董事长。"
+    },
+    {
+      "name": "黄建平",
+      "role": "控股股东、实际控制人",
+      "quote": "控股股东、实际控制人 指 黄建平。"
+    },
+    {
+      "name": "蔡镇城",
+      "role": "副董事长",
+      "quote": "蔡镇城 副董事长。"
+    },
+    {
+      "name": "蔡镇通",
+      "role": "总经理、职工代表董事",
+      "quote": "蔡镇通 总经理、职工代表董事。"
+    },
+    {
+      "name": "张平",
+      "role": "董事会秘书、财务总监",
+      "quote": "董事会秘书、财务总监 张平。"
+    },
+    {
+      "name": "卢金平",
+      "role": "副总经理",
+      "quote": "卢金平 副总经理。"
+    },
+    {
+      "name": "刘晃球",
+      "role": "董事",
+      "quote": "刘晃球 董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "潮州绿环陶瓷资源综合利用有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要业务为陶瓷制造销售。",
+      "quote": "潮州绿环陶瓷资源综合利用有限公司，公司的全资子公司。"
+    },
+    {
+      "name": "广东四通陶瓷有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要业务为陶瓷制造销售。",
+      "quote": "四通陶瓷 指 广东四通陶瓷有限公司，公司的全资子公司。"
+    },
+    {
+      "name": "大连壹唯新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司（持股80%），主营锆钛矿产品精炼业务。",
+      "quote": "壹唯新材料 指 大连壹唯新材料有限公司，公司的控股子公司。"
+    },
+    {
+      "name": "佛山市利德嘉新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司（持股51%），主营陶瓷色料、釉料的研发、生产与销售。",
+      "quote": "利德嘉新材料 指 佛山市利德嘉新材料有限公司，公司的控股子公司。"
+    },
+    {
+      "name": "壹合矿业发展有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与公司合资成立大连壹唯新材料有限公司。",
+      "quote": "公司与壹合矿业发展有限公司合资成立了大连壹唯新材料有限公司，由公司控股80%。"
+    },
+    {
+      "name": "佛山市利德嘉陶瓷制釉有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与公司合资成立佛山市利德嘉新材料有限公司。",
+      "quote": "公司与佛山市利德嘉陶瓷制釉有限公司共同注册成立了控股子公司佛山市利德嘉新材料有限公司。"
+    },
+    {
+      "name": "马可波罗控股股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "实际控制人黄建平及董事邓建华、刘晃球在其任职。",
+      "quote": "黄建平 主要职业及职务 马可波罗控股股份有限公司董事长；邓建华 现任马可波罗控股股份有限公司监事会主席；刘晃球 现任马可波罗控股股份有限公司董事、副总裁。"
+    },
+    {
+      "name": "建发物流集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一，采购额占比59.81%。",
+      "quote": "前五名供应商：建发物流集团有限公司，采购额（万元） 21，607.86，占年度采购总额比例（%） 59.81。"
+    },
+    {
+      "name": "佛山市宏德信新材料有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一，销售额占比6.22%。",
+      "quote": "前五名销售客户：佛山市宏德信新材料有限公司，销售额（万元） 2，217.89，占年度销售总额比例（%） 6.22。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "陶瓷行业",
+      "segment_type": "product_line",
+      "revenue_amount": "229，534，249.46元",
+      "revenue_proportion": null,
+      "gross_margin": "1.80%",
+      "yoy_change": null,
+      "quote": "主营业务分行业情况：陶瓷行业 229，534，249.46元，毛利率（%） 1.80，营业收入比上年增减（%） -6.31。"
+    },
+    {
+      "name": "锆行业",
+      "segment_type": "product_line",
+      "revenue_amount": "125，834，041.92元",
+      "revenue_proportion": null,
+      "gross_margin": "-13.86%",
+      "yoy_change": null,
+      "quote": "主营业务分行业情况：锆行业 125，834，041.92元，毛利率（%） -13.86，营业收入比上年增减（%） 216.66。"
+    },
+    {
+      "name": "日用陶瓷",
+      "segment_type": "product_line",
+      "revenue_amount": "135，604，894.24元",
+      "revenue_proportion": null,
+      "gross_margin": "6.45%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况：日用陶瓷 135，604，894.24元，毛利率（%） 6.45。"
+    },
+    {
+      "name": "卫生陶瓷",
+      "segment_type": "product_line",
+      "revenue_amount": "60，384，827.42元",
+      "revenue_proportion": null,
+      "gross_margin": "-11.17%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况：卫生陶瓷 60，384，827.42元，毛利率（%） -11.17。"
+    },
+    {
+      "name": "艺术陶瓷",
+      "segment_type": "product_line",
+      "revenue_amount": "31，800，900.78元",
+      "revenue_proportion": null,
+      "gross_margin": "5.87%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况：艺术陶瓷 31，800，900.78元，毛利率（%） 5.87。"
+    },
+    {
+      "name": "矿产品",
+      "segment_type": "product_line",
+      "revenue_amount": "125，834，041.92元",
+      "revenue_proportion": null,
+      "gross_margin": "-13.86%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况：矿产品 125，834，041.92元，毛利率（%） -13.86。"
+    },
+    {
+      "name": "其他产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1，743，627.02元",
+      "revenue_proportion": null,
+      "gross_margin": "15.05%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况：其他 1，743，627.02元，毛利率（%） 15.05。"
+    },
+    {
+      "name": "出口销售",
+      "segment_type": "region",
+      "revenue_amount": "167，634，767.48元",
+      "revenue_proportion": null,
+      "gross_margin": "2.72%",
+      "yoy_change": null,
+      "quote": "主营业务收入毛利率如下：出口销售 167，634，767.48元，毛利率（%） 2.72。"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "187，733，523.90元",
+      "revenue_proportion": null,
+      "gross_margin": "-9.52%",
+      "yoy_change": null,
+      "quote": "主营业务收入毛利率如下：国内销售 187，733，523.90元，毛利率（%） -9.52。"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "355，368，291.38元",
+      "revenue_proportion": null,
+      "gross_margin": "-3.74%",
+      "yoy_change": null,
+      "quote": "主营业务分销售模式情况：直销 355，368，291.38元，毛利率（%） -3.74。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "日用陶瓷",
+      "metric_type": "production_volume",
+      "value": "22，342，627.00只",
+      "period": "2025年",
+      "quote": "主要产品：日用陶瓷，单位：只，生产量：22，342，627.00。"
+    },
+    {
+      "product": "日用陶瓷",
+      "metric_type": "sales_volume",
+      "value": "19，852，845.00只",
+      "period": "2025年",
+      "quote": "主要产品：日用陶瓷，单位：只，销售量：19，852，845.00。"
+    },
+    {
+      "product": "日用陶瓷",
+      "metric_type": "inventory_volume",
+      "value": "7，912，338.00只",
+      "period": "2025年末",
+      "quote": "主要产品：日用陶瓷，单位：只，库存量：7，912，338.00。"
+    },
+    {
+      "product": "卫生陶瓷",
+      "metric_type": "production_volume",
+      "value": "626，860.00只",
+      "period": "2025年",
+      "quote": "主要产品：卫生陶瓷，单位：只，生产量：626，860.00。"
+    },
+    {
+      "product": "卫生陶瓷",
+      "metric_type": "sales_volume",
+      "value": "644，519.00只",
+      "period": "2025年",
+      "quote": "主要产品：卫生陶瓷，单位：只，销售量：644，519.00。"
+    },
+    {
+      "product": "卫生陶瓷",
+      "metric_type": "inventory_volume",
+      "value": "458，475.00只",
+      "period": "2025年末",
+      "quote": "主要产品：卫生陶瓷，单位：只，库存量：458，475.00。"
+    },
+    {
+      "product": "艺术陶瓷",
+      "metric_type": "production_volume",
+      "value": "1，082，834.00只",
+      "period": "2025年",
+      "quote": "主要产品：艺术陶瓷，单位：只，生产量：1，082，834.00。"
+    },
+    {
+      "product": "艺术陶瓷",
+      "metric_type": "sales_volume",
+      "value": "1，172，976.00只",
+      "period": "2025年",
+      "quote": "主要产品：艺术陶瓷，单位：只，销售量：1，172，976.00。"
+    },
+    {
+      "product": "艺术陶瓷",
+      "metric_type": "inventory_volume",
+      "value": "56，966.00只",
+      "period": "2025年末",
+      "quote": "主要产品：艺术陶瓷，单位：只，库存量：56，966.00。"
+    },
+    {
+      "product": "矿产品",
+      "metric_type": "production_volume",
+      "value": "39，944.91吨",
+      "period": "2025年",
+      "quote": "主要产品：矿产品，单位：吨，生产量：39，944.91。"
+    },
+    {
+      "product": "矿产品",
+      "metric_type": "sales_volume",
+      "value": "39，735.76吨",
+      "period": "2025年",
+      "quote": "主要产品：矿产品，单位：吨，销售量：39，735.76。"
+    },
+    {
+      "product": "矿产品",
+      "metric_type": "inventory_volume",
+      "value": "6，307.50吨",
+      "period": "2025年末",
+      "quote": "主要产品：矿产品，单位：吨，库存量：6，307.50。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "扩建年处理15万吨锆钛矿生产线技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年处理15万吨锆钛矿",
+      "progress": "完成备案并取得相关批复。",
+      "expected_completion_time": null,
+      "quote": "完成“扩建年处理15万吨锆钛矿生产线技改项目”的备案并取得相关批复。"
+    },
+    {
+      "name": "对大连壹唯新材料有限公司增资",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "公司出资5，600万元，合计增资7，000万元",
+      "designed_capacity": null,
+      "progress": "增资已完成，注册资本增至8，000万元。",
+      "expected_completion_time": null,
+      "quote": "2025年11月，公司对壹唯新材料实施增资，将其注册资本由1，000万元增至8，000万元。"
+    },
+    {
+      "name": "投资设立佛山市利德嘉新材料有限公司",
+      "project_type": "other",
+      "location": "佛山",
+      "investment_amount": "公司出资2，550万元",
+      "designed_capacity": null,
+      "progress": "已成立并纳入合并范围。",
+      "expected_completion_time": null,
+      "quote": "2025年10月，公司与佛山市利德嘉陶瓷制釉有限公司共同注册成立了控股子公司佛山市利德嘉新材料有限公司，注册资本为5，000万元，公司自2025年12月31日起将其纳入合并范围。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "原料配方技术",
+      "asset_type": "core_technology",
+      "related_product": "家居生活陶瓷",
+      "quantitative_info": "自主研发出包括成品泥配方、装饰釉料配方等在内的三十余种原料配方。",
+      "quote": "在原料制备方面，公司通过集成创新，自主研发出包括成品泥配方、装饰釉料配方等在内的三十余种原料配方。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已获得授权专利60项，荣获国家发明专利优秀奖1项、广东专利奖1项。报告期内，新增申请外观设计专利17项，新增授权外观设计专利5项。",
+      "quote": "公司已获得授权专利60项，荣获国家发明专利优秀奖1项、广东专利奖1项；...报告期内，新增申请外观设计专利17项，新增授权外观设计专利5项。"
+    },
+    {
+      "name": "技术标准制定",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "牵头组织修订1项国家技术标准，参与制修订20项国家及地方技术标准。",
+      "quote": "牵头组织修订1项国家技术标准，参与制修订20项国家及地方技术标准。"
+    },
+    {
+      "name": "锆钛矿精炼工艺技术",
+      "asset_type": "process_technology",
+      "related_product": "矿产品",
+      "quantitative_info": null,
+      "quote": "主要采用湿式磁选、干式磁选、重选、电选、脱水、烘干等多种综合性工艺技术和装备。"
+    },
+    {
+      "name": "绿色生产技术",
+      "asset_type": "core_technology",
+      "related_product": "锆钛矿精炼业务",
+      "quantitative_info": "已规划在厂房顶部建设5000平方米光伏屋面；采用石油化工副产品轻烃作为替代能源进行烘干。",
+      "quote": "已规划在厂房顶部建设5000平方米光伏屋面，通过使用绿色电力降低碳排放...针对烘干环节...公司充分利用周边石油炼化企业资源，采用石油化工副产品轻烃作为替代能源。"
+    },
+    {
+      "name": "省级工程技术研究开发中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司为国家高新技术企业...依托省级工程技术研究开发中心与工业设计中心。"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司为国家高新技术企业。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "8，060.76万元，占年度销售总额22.62%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额8，060.76万元，占年度销售总额22.62%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25，200.13万元，占年度采购总额69.76%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额25，200.13万元，占年度采购总额69.76%。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "采购额21，607.86万元，占比59.81%",
+      "related_entity": "建发物流集团有限公司",
+      "period": "2025年",
+      "quote": "前五名供应商：建发物流集团有限公司，采购额（万元） 21，607.86，占年度采购总额比例（%） 59.81。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "陶瓷行业集中度不高，竞争激烈，企业众多但发展水平差异较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "目前，陶瓷行业集中度不高，竞争激烈，陶瓷企业众多，但企业发展水平差异较大。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家“碳达峰、碳中和”目标及环保政策对陶瓷行业生产提出更高要求，推动行业绿色转型。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "近年来国家提出了“碳达峰、碳中和”目标...对陶瓷行业废气治理工程设计、施工、验收和运行管理都提出了技术要求...对陶瓷生产企业产生了巨大影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "由于地产链持续下行，卫生陶瓷市场需求下降；日用陶瓷受消费疲软、外销偏好转变影响，存在产品转型风险。",
+      "related_entity": null,
+      "related_product": "卫生陶瓷、日用陶瓷",
+      "quote": "公司主营生产的卫生陶瓷多应用于住宅、酒店等领域，近年来，由于地产链持续下行...卫生陶瓷的市场需求逐渐下降；日用陶瓷受居民消费疲软...存在产品转型过程是否符合消费需求的风险。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司业务以外销为主，主要市场如欧盟、美国等存在反倾销、反补贴、贸易壁垒等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司业务销售模式以外销为主...近年来，受欧盟、美国等主要市场反倾销、反补贴、贸易壁垒常态化的影响...将可能对公司业务的发展产生重要影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "出口贸易主要以美元结算，汇率变动影响外销收入和市场竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在出口贸易业务中采取的主要外币结算币种为美元，汇率变动将会对公司产品外销收入和产品市场竞争力产生一定影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受能源价格波动、原材料供应趋紧、价格上涨等因素影响，生产成本压力持续加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受能源价格高位波动...高岭土、釉料、化工原料等供应趋紧、价格上涨，导致供应链稳定性不足，企业盈利空间被持续压缩。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司存货规模较大，若未来销售不及预期或市场需求变化，可能导致存货减值风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "由于公司经营模式和行业特点...公司存货规模较大，如果未来销售不及预期...可能会导致存货规模进一步增加，进而导致大额存货减值风险。"
+    }
+  ]
+}

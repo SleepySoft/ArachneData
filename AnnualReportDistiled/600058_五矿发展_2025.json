@@ -1,0 +1,548 @@
+{
+  "company_name_mentioned": "五矿发展股份有限公司",
+  "produces": [
+    {
+      "name": "钢材",
+      "type": "device",
+      "revenue_proportion": "44.10%",
+      "quote": "占公司主营业务收入10%以上的产品为钢材、铁合金、铁矿石，分别占总额的44.10%、13.41%、12.94%。"
+    },
+    {
+      "name": "铁合金",
+      "type": "material",
+      "revenue_proportion": "13.41%",
+      "quote": "占公司主营业务收入10%以上的产品为钢材、铁合金、铁矿石，分别占总额的44.10%、13.41%、12.94%。"
+    },
+    {
+      "name": "铁矿石",
+      "type": "material",
+      "revenue_proportion": "12.94%",
+      "quote": "占公司主营业务收入10%以上的产品为钢材、铁合金、铁矿石，分别占总额的44.10%、13.41%、12.94%。"
+    },
+    {
+      "name": "铬矿砂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "铬矿砂 307,370.96 299,647.25 2.51 -11.20 -10.51 减少0.76个百分点"
+    },
+    {
+      "name": "资源贸易服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主要从事资源贸易、金属贸易、供应链服务三大类业务。资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "金属贸易服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "金属贸易包含各类钢材和金属制品，主要服务工程建筑、工业制造等领域。"
+    },
+    {
+      "name": "供应链服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "供应链服务包含仓储加工、船代、货代、网络货运、保险经纪、招标代理等。"
+    },
+    {
+      "name": "物流服务",
+      "type": "service",
+      "revenue_proportion": "6.34% (物流服务收入33.46亿元 / 合计收入527.71亿元)",
+      "quote": "物流服务 334,573.55 306,482.43 8.40 -15.53 -18.35 增加3.17个百分点"
+    },
+    {
+      "name": "招投标服务",
+      "type": "service",
+      "revenue_proportion": "0.19% (招投标收入1.02亿元 / 合计收入527.71亿元)",
+      "quote": "招投标 10,160.42 1,922.49 81.08 1.66 -17.83 增加4.49个百分点"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铁矿石",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "锰矿",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "铬矿",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "煤炭",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "焦炭",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "铁合金",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "电解金属锰",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "资源贸易涉及铁矿石、锰矿、铬矿、铁合金、煤炭、焦炭、电解金属锰等冶金工业原料。"
+    },
+    {
+      "name": "钢材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "金属贸易包含各类钢材和金属制品。"
+    },
+    {
+      "name": "仓储加工、船代、货代等服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "供应链服务包含仓储加工、船代、货代、网络货运、保险经纪、招标代理等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "钢铁生产企业",
+      "source_product": "铁矿石、锰矿、铬矿等冶金原材料",
+      "quote": "销售给下游钢铁生产企业及铁合金冶炼企业等客户，为其提供冶金原料集成供应服务。"
+    },
+    {
+      "name": "铁合金冶炼企业",
+      "source_product": "铁矿石、锰矿、铬矿等冶金原材料",
+      "quote": "销售给下游钢铁生产企业及铁合金冶炼企业等客户，为其提供冶金原料集成供应服务。"
+    },
+    {
+      "name": "工程建筑领域",
+      "source_product": "钢材",
+      "quote": "金属贸易包含各类钢材和金属制品，主要服务工程建筑、工业制造等领域。"
+    },
+    {
+      "name": "工业制造领域",
+      "source_product": "钢材",
+      "quote": "金属贸易包含各类钢材和金属制品，主要服务工程建筑、工业制造等领域。"
+    },
+    {
+      "name": "大宗商品产业链上的企业客户",
+      "source_product": "仓储加工、物流、期货交割等服务",
+      "quote": "主要业务模式是为大宗商品产业链上的企业客户提供仓储、加工、物流、期货交割等各类服务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "魏涛",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人魏涛...声明"
+    },
+    {
+      "name": "谭巍",
+      "role": "主管会计工作负责人（财务总监）",
+      "quote": "主管会计工作负责人谭巍"
+    },
+    {
+      "name": "李君",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）李君"
+    },
+    {
+      "name": "曲世竹",
+      "role": "董事会秘书、总法律顾问",
+      "quote": "董事会秘书 曲世竹"
+    },
+    {
+      "name": "李智聪",
+      "role": "董事、总经理、党委副书记",
+      "quote": "李智聪 董事 男 56 ... 李智聪 总经理 男 56"
+    },
+    {
+      "name": "张新民",
+      "role": "独立董事",
+      "quote": "张新民 独立董事 男 63"
+    },
+    {
+      "name": "朱岩",
+      "role": "独立董事",
+      "quote": "朱 岩 独立董事 男 54"
+    },
+    {
+      "name": "李曙光",
+      "role": "独立董事",
+      "quote": "李曙光 独立董事 男 63"
+    },
+    {
+      "name": "周建锋",
+      "role": "副总经理",
+      "quote": "周建锋 副总经理 男 49"
+    },
+    {
+      "name": "张旭",
+      "role": "副总经理",
+      "quote": "张 旭 副总经理 男 44"
+    },
+    {
+      "name": "李辉",
+      "role": "副总经理",
+      "quote": "李 辉 副总经理 男 46"
+    },
+    {
+      "name": "陈亚军",
+      "role": "总经理助理",
+      "quote": "陈亚军 总经理助理 男 47"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国五矿集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人中国五矿集团有限公司"
+    },
+    {
+      "name": "中国五矿股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东五矿股份"
+    },
+    {
+      "name": "五矿集团财务有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "提供金融服务",
+      "quote": "五矿财务公司 指 五矿集团财务有限责任公司"
+    },
+    {
+      "name": "中国矿产有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事冶金原材料购销业务的子公司",
+      "quote": "中国矿产有限责任公司：为公司主要从事冶金原材料购销业务的子公司"
+    },
+    {
+      "name": "五矿钢铁有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事钢材购销业务的子公司",
+      "quote": "五矿钢铁有限责任公司：为公司主要从事钢材购销业务的子公司"
+    },
+    {
+      "name": "五矿物流集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事船代、货代、运输和航运业务、仓储物流等的子公司",
+      "quote": "五矿物流集团有限公司：为公司主要从事船代、货代、运输和航运业务、仓储物流、加工配送、期货交割以及保险经纪等业务的子公司"
+    },
+    {
+      "name": "五矿国际招标有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事招标代理业务的子公司",
+      "quote": "五矿国际招标有限责任公司：为公司主要从事招标代理业务的子公司"
+    },
+    {
+      "name": "五矿贸易有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事黑色金属贸易流通的子公司",
+      "quote": "五矿贸易有限责任公司：为公司主要从事黑色金属贸易流通的子公司"
+    },
+    {
+      "name": "五矿（唐山曹妃甸）矿石控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "受托管理的公司",
+      "quote": "公司受托管理的五矿曹妃甸国际矿石交易中心项目"
+    },
+    {
+      "name": "龙腾云创产业互联网（北京）有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "研究开发信息化、数字化相关系统项目的子公司",
+      "quote": "公司所属子公司龙腾云创产业互联网（北京）有限责任公司持续稳健经营，研究开发信息化、数字化相关系统项目。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "贸易",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,931,304.80万元",
+      "revenue_proportion": "93.45%",
+      "gross_margin": "2.80%",
+      "yoy_change": "减少0.03个百分点",
+      "quote": "本报告期，占公司主营业务收入10%以上的行业为贸易，占总额的93.45%。"
+    },
+    {
+      "name": "物流服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "334,573.55万元",
+      "revenue_proportion": "6.34%",
+      "gross_margin": "8.40%",
+      "yoy_change": "增加3.17个百分点",
+      "quote": "物流服务 334,573.55 306,482.43 8.40 -15.53 -18.35 增加3.17个百分点"
+    },
+    {
+      "name": "冶炼加工",
+      "segment_type": "business_unit",
+      "revenue_amount": "67,777.93万元",
+      "revenue_proportion": "1.28%",
+      "gross_margin": "1.26%",
+      "yoy_change": "减少6.41个百分点",
+      "quote": "冶炼加工 67,777.93 66,921.58 1.26 2.43 9.54 减少6.41个百分点"
+    },
+    {
+      "name": "招投标",
+      "segment_type": "business_unit",
+      "revenue_amount": "10,160.42万元",
+      "revenue_proportion": "0.19%",
+      "gross_margin": "81.08%",
+      "yoy_change": "增加4.49个百分点",
+      "quote": "招投标 10,160.42 1,922.49 81.08 1.66 -17.83 增加4.49个百分点"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "5,109,898.44万元",
+      "revenue_proportion": "96.83%",
+      "gross_margin": "3.41%",
+      "yoy_change": "增加0.26个百分点",
+      "quote": "境内 5,109,898.44 4,935,496.22 3.41 -21.67 -21.88 增加0.26个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "167,157.84万元",
+      "revenue_proportion": "3.17%",
+      "gross_margin": "4.21%",
+      "yoy_change": "减少0.92个百分点",
+      "quote": "境外 167,157.84 160,124.67 4.21 -13.61 -12.77 减少0.92个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "铁矿石",
+      "metric_type": "sales_volume",
+      "value": "约2,103万吨",
+      "period": "2025年",
+      "quote": "2025年，公司原材料业务经营量保持总体稳健。其中，铁矿石经营量约2,103万吨"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "sales_volume",
+      "value": "约201万吨",
+      "period": "2025年",
+      "quote": "煤炭经营量约201万吨"
+    },
+    {
+      "product": "焦炭",
+      "metric_type": "sales_volume",
+      "value": "约119万吨",
+      "period": "2025年",
+      "quote": "焦炭经营量约119万吨"
+    },
+    {
+      "product": "铬矿",
+      "metric_type": "sales_volume",
+      "value": "约170万吨",
+      "period": "2025年",
+      "quote": "铬矿经营量约170万吨"
+    },
+    {
+      "product": "铬系合金",
+      "metric_type": "sales_volume",
+      "value": "约77万吨",
+      "period": "2025年",
+      "quote": "铬系合金经营量约77万吨"
+    },
+    {
+      "product": "锰矿",
+      "metric_type": "sales_volume",
+      "value": "约230万吨",
+      "period": "2025年",
+      "quote": "锰矿经营量约230万吨"
+    },
+    {
+      "product": "锰系合金",
+      "metric_type": "sales_volume",
+      "value": "约46万吨",
+      "period": "2025年",
+      "quote": "锰系合金经营量约46万吨"
+    },
+    {
+      "product": "钢材",
+      "metric_type": "sales_volume",
+      "value": "约1,048万吨",
+      "period": "2025年",
+      "quote": "2025年，钢铁业务实现钢材经营量约1,048万吨"
+    },
+    {
+      "product": "工程配供业务",
+      "metric_type": "sales_volume",
+      "value": "约436万吨",
+      "period": "2025年",
+      "quote": "2025年，实现工程配供业务量约436万吨"
+    },
+    {
+      "product": "制造业终端",
+      "metric_type": "sales_volume",
+      "value": "约314万吨，同比增长52%",
+      "period": "2025年",
+      "quote": "2025年，实现制造业终端销量约314万吨，同比增长52%"
+    },
+    {
+      "product": "物流园业务加工",
+      "metric_type": "production_volume",
+      "value": "约123万吨",
+      "period": "2025年",
+      "quote": "2025年，物流园业务实现加工量约123万吨"
+    },
+    {
+      "product": "物流园业务吞吐",
+      "metric_type": "sales_volume",
+      "value": "约1,333万吨",
+      "period": "2025年",
+      "quote": "实现吞吐量约1,333万吨"
+    },
+    {
+      "product": "物流业务服务总量",
+      "metric_type": "sales_volume",
+      "value": "约14,388万吨",
+      "period": "2025年",
+      "quote": "2025年，物流业务完成服务总量约14,388万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "五矿曹妃甸国际矿石交易中心项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "一期扩建的筛分项目按设计能力计算单日最大加工量可达8万吨",
+      "progress": "一期混矿项目生产的混矿产品“五矿标准粉”成功纳入大连商品交易所铁矿石期货可交割品牌，并成功完成国内混矿首次期货交割。一期扩建的筛分项目...年内已成功投产。",
+      "expected_completion_time": null,
+      "quote": "公司受托管理的五矿曹妃甸国际矿石交易中心项目...一期混矿项目...一期扩建的筛分项目按设计能力计算单日最大加工量可达8万吨...年内已成功投产。"
+    },
+    {
+      "name": "重大资产重组（拟购买五矿矿业控股有限公司、鲁中矿业有限公司股权）",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "截至目前，本次交易相关的审计、评估、尽职调查工作正在有序推进中。",
+      "expected_completion_time": null,
+      "quote": "2026年1月14日，公司召开第十届董事会第十二次会议，审议通过了《关于公司重大资产置换、发行股份及支付现金购买资产并募集配套资金暨关联交易方案的议案》..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "混矿技术",
+      "asset_type": "process_technology",
+      "related_product": "五矿标准粉",
+      "quantitative_info": null,
+      "quote": "混配矿技术持续创新，引入“AI+配矿”智能系统"
+    },
+    {
+      "name": "AI+配矿智能系统",
+      "asset_type": "technical_platform",
+      "related_product": "铁矿石混配",
+      "quantitative_info": null,
+      "quote": "引入“AI+配矿”智能系统"
+    },
+    {
+      "name": "大连商品交易所多个铁矿石指定交割仓库（指定厂库）资质",
+      "asset_type": "certification",
+      "related_product": "铁矿石",
+      "quantitative_info": null,
+      "quote": "五矿发展具备大连商品交易所多个铁矿石指定交割仓库（指定厂库）资质"
+    },
+    {
+      "name": "郑州商品交易所锰硅合金期货交割厂库资质",
+      "asset_type": "certification",
+      "related_product": "锰硅合金",
+      "quantitative_info": null,
+      "quote": "下属子公司中国矿产具备郑州商品交易所锰硅合金期货交割厂库资质。"
+    },
+    {
+      "name": "上海期货交易所不锈钢、热轧卷板、螺纹钢、铅、铝、铜、锡、铸造铝合金期货交割库资质",
+      "asset_type": "certification",
+      "related_product": "不锈钢、热轧卷板等",
+      "quantitative_info": null,
+      "quote": "下属子公司五矿无锡物流园有限责任公司拥有上海期货交易所不锈钢、热轧卷板、螺纹钢、铅、铝、铜、锡、铸造铝合金期货交割库资质"
+    },
+    {
+      "name": "广州期货交易所碳酸锂期货交割库资质",
+      "asset_type": "certification",
+      "related_product": "碳酸锂",
+      "quantitative_info": null,
+      "quote": "以及广州期货交易所碳酸锂期货交割库资质。"
+    },
+    {
+      "name": "多式联运“一单制”系统",
+      "asset_type": "technical_platform",
+      "related_product": "物流服务",
+      "quantitative_info": null,
+      "quote": "多式联运“一单制”系统顺利上线运营"
+    },
+    {
+      "name": "“云链通”平台",
+      "asset_type": "technical_platform",
+      "related_product": "数字化供应链服务",
+      "quantitative_info": null,
+      "quote": "“云链通”平台完成建设并全面推广，已在22家业务单位上线应用"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "1,841,083.13万元，占年度销售总额37.39%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额1,841,083.13万元，占年度销售总额37.39%；其中前五名客户销售额中关联方销售额617,234.09万元，占年度销售总额12.53%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,317,779.99万元，占年度采购总额27.54%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额1,317,779.99万元，占年度采购总额27.54%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司主要商品价格可能呈现较大的波动性。",
+      "related_entity": null,
+      "related_product": "铁矿砂、煤炭、焦炭、铁合金、钢材等",
+      "quote": "公司主要商品价格可能呈现较大的波动性。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司开展的金融衍生业务均为以对冲风险为目的的套期保值，但可能由于金融衍生品价格变化与现货价格变化不同步、交易对手或代理机构未履约、合约流动性缺乏等因素造成保值效果不能充分实现。",
+      "related_entity": null,
+      "related_product": "金融衍生业务",
+      "quote": "公司开展的金融衍生业务均为以对冲风险为目的的套期保值，但可能由于金融衍生品价格变化与现货价格变化不同步、交易对手或代理机构未履约、合约流动性缺乏等因素造成保值效果不能充分实现。"
+    },
+    {
+      "risk_type": "other",
+      "description": "在金属矿产采购、销售中面临一定的客户、供应商信用交易违约风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在金属矿产采购、销售中面临一定的客户、供应商信用交易违约风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司业务大部分涉及公共仓库仓储环节，因此将持续面临公共仓库的信用风险、作业环节风险、单据风险、法律风险等。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司业务大部分涉及公共仓库仓储环节，因此将持续面临公共仓库的信用风险、作业环节风险、单据风险、法律风险等。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司会产生一定金额的美元应付/应收账款和融资，如果美元汇率波动加剧，可能会产生汇率波动风险。",
+      "related_entity": null,
+      "related_product": "大宗商品进出口业务",
+      "quote": "公司会产生一定金额的美元应付/应收账款和融资，如果美元汇率波动加剧，可能会产生汇率波动风险。"
+    }
+  ]
+}

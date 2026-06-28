@@ -1,0 +1,463 @@
+{
+  "company_name_mentioned": "欧派家居集团股份有限公司",
+  "produces": [
+    {
+      "name": "整体厨房",
+      "type": "device",
+      "revenue_proportion": "占主营业务收入比例的80%以上（与衣柜及配套家具产品合计）",
+      "quote": "整体厨房、全屋定制、卫浴、定制木门、金属门窗、软装及智能家居等"
+    },
+    {
+      "name": "定制衣柜（整家定制）",
+      "type": "device",
+      "revenue_proportion": "占主营业务收入比例的80%以上（与整体厨房合计）",
+      "quote": "定制衣柜（整家定制）"
+    },
+    {
+      "name": "全屋定制",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "核心业务涵盖全屋家居产品的个性化设计、研发、生产、销售、安装与室内装饰服务"
+    },
+    {
+      "name": "卫浴",
+      "type": "device",
+      "revenue_proportion": "1,067,739,290.34元",
+      "quote": "卫浴 1,067,739,290.34"
+    },
+    {
+      "name": "定制木门",
+      "type": "device",
+      "revenue_proportion": "1,006,011,486.53元",
+      "quote": "木门 1,006,011,486.53"
+    },
+    {
+      "name": "金属门窗",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "金属门窗"
+    },
+    {
+      "name": "软装",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "软装及智能家居等"
+    },
+    {
+      "name": "智能家居",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "软装及智能家居等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "板材（如刨花板、中纤板）",
+      "target_product": null,
+      "cost_proportion": "76.83%（材料占营业成本比例）",
+      "quote": "公司生产所需主要原材料包括刨花板、中纤板、功能五金件、石英石板材以及外购电器、家具配套产品等，直接材料占生产成本的比重较高"
+    },
+    {
+      "name": "功能五金件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需主要原材料包括...功能五金件..."
+    },
+    {
+      "name": "石英石板材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需主要原材料包括...石英石板材..."
+    },
+    {
+      "name": "外购电器、家具配套产品",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "以及外购电器、家具配套产品等"
+    },
+    {
+      "name": "设备、模具",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购范围覆盖材料及成品（如板材、功能五金等）、生产支持与辅助物料（如设备、模具等）"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家庭居住空间（厨房、卧室、客厅等）",
+      "source_product": "整体厨房、全屋定制等",
+      "quote": "公司致力于为消费者提供‘一体化设计、一站式配齐’的家居全景空间解决方案"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "姚良松",
+      "role": "董事长、总裁、法定代表人、实际控制人、控股股东",
+      "quote": "公司负责人姚良松、主管会计工作负责人姚良松...现任公司董事长、总裁。"
+    },
+    {
+      "name": "谭钦兴",
+      "role": "副董事长、副总裁",
+      "quote": "副董事长、副总裁 谭钦兴"
+    },
+    {
+      "name": "姚良柏",
+      "role": "副董事长",
+      "quote": "副董事长 姚良柏"
+    },
+    {
+      "name": "张秀珠",
+      "role": "职工代表董事",
+      "quote": "职工代表董事 张秀珠"
+    },
+    {
+      "name": "赵莉莉",
+      "role": "财务负责人",
+      "quote": "会计机构负责人（会计主管人员）赵莉莉"
+    },
+    {
+      "name": "欧盈盈",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 欧盈盈"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广州欧派集成家居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司控股子公司",
+      "quote": "欧派集成 指 广州欧派集成家居有限公司，为公司控股子公司"
+    },
+    {
+      "name": "天津欧派集成家居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "天津欧派 指 天津欧派集成家居有限公司，为公司全资子公司"
+    },
+    {
+      "name": "江苏无锡欧派集成家居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "无锡欧派 指 江苏无锡欧派集成家居有限公司，为公司全资子公司"
+    },
+    {
+      "name": "清远欧派集成家居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "清远欧派 指 清远欧派集成家居有限公司，为公司全资子公司"
+    },
+    {
+      "name": "成都欧派智能家居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "成都欧派 指 成都欧派智能家居有限公司，为公司全资子公司"
+    },
+    {
+      "name": "武汉欧派智能家居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "武汉欧派 指 武汉欧派智能家居有限公司，为公司全资子公司"
+    },
+    {
+      "name": "广州欧铂丽创意家居设计有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "欧铂丽创意 指 广州欧铂丽创意家居设计有限公司，为公司全资子公司"
+    },
+    {
+      "name": "珠海欧派创意家居设计有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "珠海欧派 指 珠海欧派创意家居设计有限公司，为公司全资子公司"
+    },
+    {
+      "name": "华兴会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "为本公司出具了标准无保留意见的审计报告。",
+      "quote": "华兴会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "国泰海通证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "报告期内履行持续督导职责的保荐机构",
+      "quote": "报告期内履行持续督导职责的保荐机构：国泰海通证券股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "橱柜",
+      "segment_type": "product_line",
+      "revenue_amount": "4,804,396,287.70元",
+      "revenue_proportion": null,
+      "gross_margin": "34.38%",
+      "yoy_change": "-11.84%",
+      "quote": "橱柜 4,804,396,287.70 3,152,672,926.26 34.38 -11.84"
+    },
+    {
+      "name": "衣柜及配套家具产品",
+      "segment_type": "product_line",
+      "revenue_amount": "8,854,927,928.08元",
+      "revenue_proportion": null,
+      "gross_margin": "41.01%",
+      "yoy_change": "-9.56%",
+      "quote": "衣柜及配套家具产品 8,854,927,928.08 5,223,384,577.93 41.01 -9.56"
+    },
+    {
+      "name": "卫浴",
+      "segment_type": "product_line",
+      "revenue_amount": "1,067,739,290.34元",
+      "revenue_proportion": null,
+      "gross_margin": "28.22%",
+      "yoy_change": "-1.79%",
+      "quote": "卫浴 1,067,739,290.34 766,403,097.94 28.22 -1.79"
+    },
+    {
+      "name": "木门",
+      "segment_type": "product_line",
+      "revenue_amount": "1,006,011,486.53元",
+      "revenue_proportion": null,
+      "gross_margin": "26.30%",
+      "yoy_change": "-11.35%",
+      "quote": "木门 1,006,011,486.53 741,432,416.21 26.30 -11.35"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "4,939,012,808.07元",
+      "revenue_proportion": null,
+      "gross_margin": "35.73%",
+      "yoy_change": "-9.46%",
+      "quote": "华东 4,939,012,808.07 3,174,342,866.30 35.73 -9.46"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "3,415,830,795.23元",
+      "revenue_proportion": null,
+      "gross_margin": "41.66%",
+      "yoy_change": "-12.18%",
+      "quote": "华南 3,415,830,795.23 1,992,625,786.31 41.66 -12.18"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "471,282,745.00元",
+      "revenue_proportion": null,
+      "gross_margin": "43.59%",
+      "yoy_change": "9.66%",
+      "quote": "境外 471,282,745.00 265,860,397.20 43.59 9.66"
+    },
+    {
+      "name": "经销店渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "12,721,078,670.15元",
+      "revenue_proportion": null,
+      "gross_margin": "36.19%",
+      "yoy_change": "-9.41%",
+      "quote": "经销店 12,721,078,670.15 8,116,817,550.40 36.19 -9.41"
+    },
+    {
+      "name": "大宗业务渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,620,490,200.49元",
+      "revenue_proportion": null,
+      "gross_margin": "27.25%",
+      "yoy_change": "-13.95%",
+      "quote": "大宗业务 2,620,490,200.49 1,906,459,414.93 27.25 -13.95"
+    },
+    {
+      "name": "直营店渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": "774,655,655.67元",
+      "revenue_proportion": null,
+      "gross_margin": "58.47%",
+      "yoy_change": "-7.03%",
+      "quote": "直营店 774,655,655.67 321,676,774.85 58.47 -7.03"
+    },
+    {
+      "name": "欧派品牌",
+      "segment_type": "customer_type",
+      "revenue_amount": "1,260,603.68万元",
+      "revenue_proportion": null,
+      "gross_margin": "38.27%",
+      "yoy_change": "-10.65%",
+      "quote": "欧派 1,260,603.68 778,152.43 38.27 -10.65"
+    },
+    {
+      "name": "欧铂丽品牌",
+      "segment_type": "customer_type",
+      "revenue_amount": "72,829.24万元",
+      "revenue_proportion": null,
+      "gross_margin": "39.39%",
+      "yoy_change": "-39.65%",
+      "quote": "欧铂丽 72,829.24 44,141.68 39.39 -39.65"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "整体橱柜",
+      "metric_type": "production_volume",
+      "value": "607,936.00套",
+      "period": "2025年",
+      "quote": "整体橱柜 ... 生产量 607,936.00"
+    },
+    {
+      "product": "整体橱柜",
+      "metric_type": "sales_volume",
+      "value": "616,025.00套",
+      "period": "2025年",
+      "quote": "整体橱柜 ... 销售量 616,025.00"
+    },
+    {
+      "product": "整体橱柜",
+      "metric_type": "inventory_volume",
+      "value": "2,207.00套",
+      "period": "2025年末",
+      "quote": "整体橱柜 ... 库存量 2,207.00"
+    },
+    {
+      "product": "衣柜及配套家具产品",
+      "metric_type": "production_volume",
+      "value": "2,570,681.00套",
+      "period": "2025年",
+      "quote": "衣柜及配套家具产品 ... 生产量 2,570,681.00"
+    },
+    {
+      "product": "衣柜及配套家具产品",
+      "metric_type": "sales_volume",
+      "value": "2,576,724.00套",
+      "period": "2025年",
+      "quote": "衣柜及配套家具产品 ... 销售量 2,576,724.00"
+    },
+    {
+      "product": "整体卫浴",
+      "metric_type": "production_volume",
+      "value": "670,639.00套",
+      "period": "2025年",
+      "quote": "整体卫浴 ... 生产量 670,639.00"
+    },
+    {
+      "product": "整体卫浴",
+      "metric_type": "sales_volume",
+      "value": "681,656.00套",
+      "period": "2025年",
+      "quote": "整体卫浴 ... 销售量 681,656.00"
+    },
+    {
+      "product": "整体木门",
+      "metric_type": "production_volume",
+      "value": "862,940.00樘",
+      "period": "2025年",
+      "quote": "整体木门 ... 生产量 862,940.00"
+    },
+    {
+      "product": "整体木门",
+      "metric_type": "sales_volume",
+      "value": "865,331.00樘",
+      "period": "2025年",
+      "quote": "整体木门 ... 销售量 865,331.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "欧派家居华中智能制造基地",
+      "project_type": "capacity_expansion",
+      "location": "华中（武汉）",
+      "investment_amount": "199,500.00万元（募集资金计划投资总额）",
+      "designed_capacity": "拟新建橱柜、衣柜、木门、卫浴等智能家居全品类生产线及配套设施",
+      "progress": "项目可行性发生重大变化，公司决定变更募集资金投资项目。剩余募集资金投向主要为‘设备购置及安装’。",
+      "expected_completion_time": "原预计2026年12月31日达到预定可使用状态",
+      "quote": "“欧派家居华中智能制造基地”拟新建橱柜、衣柜、木门、卫浴等智能家居全品类生产线及配套设施...项目可行性发生重大变化...变更募集资金投资项目。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2026年3月，公司已累计获得授权专利858项",
+      "quote": "截至2026年3月，公司已累计获得授权专利858项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "软件著作权182项",
+      "quote": "软件著作权182项"
+    },
+    {
+      "name": "国家级工业设计中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司荣获‘TopBrand2025中国品牌500强’等荣誉...国家级工业设计中心"
+    },
+    {
+      "name": "OPTIMA创新体系",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "打造了涵盖组织、平台、人才、信息化、机制与质量保证六大维度的OPTIMA创新体系"
+    },
+    {
+      "name": "智家云设计软件",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "智家云设计软件全面升级与全域落地推广"
+    },
+    {
+      "name": "OPLINK平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "OPLINK 平台已在供应商、经销商体系推广实施"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "64,061.33万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额64,061.33万元，占年度销售总额3.72%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "115,665.18万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额115,665.18万元，占年度采购总额13.12%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "房地产市场深度调整及消费者信心趋紧，定制家居行业整体已由增量市场转入存量竞争阶段，行业竞争态势持续加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受宏观经济增速放缓、房地产市场深度调整及消费者信心趋紧等多重因素影响，定制家居行业整体已由增量市场转入存量竞争阶段，行业竞争态势持续加剧。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产所需主要原材料包括刨花板、中纤板、功能五金件、石英石板材以及外购电器、家具配套产品等，直接材料占生产成本的比重较高，其价格波动对公司成本控制具有重要影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司生产所需主要原材料包括刨花板、中纤板、功能五金件、石英石板材以及外购电器、家具配套产品等，直接材料占生产成本的比重较高，其价格波动对公司成本控制具有重要影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "经销商专卖店销售模式是定制家具行业主要的销售模式，经销商渠道是公司最主要的销售渠道...若出现经销商未按照协议约定进行销售、业务宣传或者不履行销售责任，可能对公司的品牌形象、客户口碑带来负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经销商专卖店销售模式是定制家具行业主要的销售模式，经销商渠道是公司最主要的销售渠道...若出现经销商未按照协议约定进行销售、业务宣传或者不履行销售责任，可能对公司的品牌形象、客户口碑带来负面影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内市场需求总量持续收缩，为争夺有限份额，主要企业间竞争日趋白热化。与此同时，家居行业生态发生结构性变迁：传统零售渠道有所萎缩，整装渠道快速崛起，跨界进入者不断增多。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国内市场需求总量持续收缩，为争夺有限份额，主要企业间竞争日趋白热化。与此同时，家居行业生态发生结构性变迁：传统零售渠道有所萎缩，整装渠道快速崛起，跨界进入者不断增多。"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "company_name_mentioned": "大唐国际发电股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "电力销售收入约占总主营业务收入的87.73%",
+      "quote": "电力销售收入约占总主营业务收入的87.73%，同比减少约人民币25.03亿元"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "热力销售收入约为人民币65.79亿元，两项收入合计占本公司总主营业务收入约93.22%",
+      "quote": "热力销售收入约为人民币65.79亿元，比上年同期上升约4.67%，两项收入合计占本公司总主营业务收入约93.22%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "火力发电",
+      "cost_proportion": "电力燃料成本占主营业务成本约54.04%",
+      "quote": "2025年，公司采购煤炭总量11,977.49万吨，煤机入炉标煤单价完成742.4元/吨（不含税），同比下降128.94元/吨，降幅14.80%。电力燃料成本占主营业务成本约54.04%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网供电",
+      "source_product": "电力",
+      "quote": "累计完成上网电量约2,731.092亿千瓦时"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李霄飞",
+      "role": "董事长",
+      "quote": "公司负责人李霄飞"
+    },
+    {
+      "name": "孙延文",
+      "role": "总会计师、董事会秘书",
+      "quote": "主管会计工作负责人孙延文及会计机构负责人（会计主管人员）王湉侃声明"
+    },
+    {
+      "name": "蒋建华",
+      "role": "董事、党委副书记、工会主席",
+      "quote": "现任本公司董事、党委副书记、工会主席"
+    },
+    {
+      "name": "路平",
+      "role": "副总经理",
+      "quote": "路平副总经理"
+    },
+    {
+      "name": "冷耀军",
+      "role": "副总经理",
+      "quote": "冷耀军副总经理"
+    },
+    {
+      "name": "郭春源",
+      "role": "副总经理",
+      "quote": "郭春源副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国大唐集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股35.34%（直接）",
+      "quote": "公司是由中国大唐集团有限公司控股的大型发电上市公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "报告期内第一大客户",
+      "quote": "国家电网有限公司销售额81,083,158千元，占年度销售总额比例66.87%"
+    },
+    {
+      "name": "中国大唐集团财务有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，提供财务金融服务",
+      "quote": "本公司及子公司在大唐财务公司的日最高存款余额为人民币172.52亿元，大唐财务公司向本公司及其子公司提供借款的期末余额为119.71亿元"
+    },
+    {
+      "name": "中国大唐集团资本控股有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，提供租赁、保理、委托贷款等金融服务",
+      "quote": "本公司与中国大唐集团资本控股有限公司签署《综合金融服务合作协议》"
+    },
+    {
+      "name": "河北建设投资集团有限责任公司",
+      "relation_type": "customer",
+      "business_details": "股东（持股6.93%）",
+      "quote": "河北建设投资集团有限责任公司持股1,281,872,927股，比例6.93%"
+    },
+    {
+      "name": "天津市津能投资有限公司",
+      "relation_type": "customer",
+      "business_details": "股东（持股6.57%）",
+      "quote": "天津市津能投资有限公司持股1,214,966,500股，比例6.57%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "113,968,173千元",
+      "revenue_proportion": null,
+      "gross_margin": "18.65%",
+      "yoy_change": "增加4.43个百分点",
+      "quote": "电力行业营业收入113,968,173千元，营业成本92,708,741千元，毛利率18.65%"
+    },
+    {
+      "name": "电力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "105,091,249千元",
+      "revenue_proportion": "约占总主营业务收入的87.73%",
+      "gross_margin": "22.16%",
+      "yoy_change": "增加4.38个百分点",
+      "quote": "电力销售收入约为人民币1,050.91亿元，约占总主营业务收入的87.73%"
+    },
+    {
+      "name": "热力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "6,578,928千元",
+      "revenue_proportion": null,
+      "gross_margin": "-52.69%",
+      "yoy_change": "增加4.69个百分点",
+      "quote": "热力销售收入约为人民币65.79亿元，比上年同期上升约4.67%"
+    },
+    {
+      "name": "京津冀地区",
+      "segment_type": "region",
+      "revenue_amount": "24,987,853千元",
+      "revenue_proportion": null,
+      "gross_margin": "11.78%",
+      "yoy_change": "增加6.94个百分点",
+      "quote": "京津冀地区营业收入24,987,853千元"
+    },
+    {
+      "name": "内蒙古地区",
+      "segment_type": "region",
+      "revenue_amount": "16,412,869千元",
+      "revenue_proportion": null,
+      "gross_margin": "26.54%",
+      "yoy_change": "增加7.69个百分点",
+      "quote": "内蒙古地区营业收入16,412,869千元"
+    },
+    {
+      "name": "广东省",
+      "segment_type": "region",
+      "revenue_amount": "15,947,306千元",
+      "revenue_proportion": null,
+      "gross_margin": "10.94%",
+      "yoy_change": "减少1.65个百分点",
+      "quote": "广东省营业收入15,947,306千元"
+    },
+    {
+      "name": "煤机（含热）",
+      "segment_type": "other",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "利润总额变动比例119.08%",
+      "quote": "煤机（含热）利润总额5,624,696千元，变动比例119.08%"
+    },
+    {
+      "name": "燃机（含热）",
+      "segment_type": "other",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "利润总额变动比例36.75%",
+      "quote": "燃机（含热）利润总额465,931千元，变动比例36.75%"
+    },
+    {
+      "name": "水电",
+      "segment_type": "other",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "利润总额变动比例6.49%",
+      "quote": "水电利润总额2,138,957千元，变动比例6.49%"
+    },
+    {
+      "name": "风电",
+      "segment_type": "other",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "利润总额变动比例38.52%",
+      "quote": "风电利润总额2,943,912千元，变动比例38.52%"
+    },
+    {
+      "name": "光伏",
+      "segment_type": "other",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "利润总额变动比例9.80%",
+      "quote": "光伏利润总额770,550千元，变动比例9.80%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "capacity",
+      "value": "86,192.081兆瓦",
+      "period": "截至2025年12月31日",
+      "quote": "公司在役装机容量约86,192.081兆瓦"
+    },
+    {
+      "product": "火电煤机",
+      "metric_type": "capacity",
+      "value": "49,134兆瓦",
+      "period": "截至2025年12月31日",
+      "quote": "火电煤机49,134兆瓦，约占57.01%"
+    },
+    {
+      "product": "火电燃机",
+      "metric_type": "capacity",
+      "value": "9,479.38兆瓦",
+      "period": "截至2025年12月31日",
+      "quote": "火电燃机9,479.38兆瓦，约占11.00%"
+    },
+    {
+      "product": "水电",
+      "metric_type": "capacity",
+      "value": "9,204.73兆瓦",
+      "period": "截至2025年12月31日",
+      "quote": "水电9,204.73兆瓦，约占10.68%"
+    },
+    {
+      "product": "风电",
+      "metric_type": "capacity",
+      "value": "11,196.89兆瓦",
+      "period": "截至2025年12月31日",
+      "quote": "风电11,196.89兆瓦，约占12.99%"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "capacity",
+      "value": "7,177.081兆瓦",
+      "period": "截至2025年12月31日",
+      "quote": "光伏7,177.081兆瓦，约占8.33%"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "2,889.55亿千瓦时",
+      "period": "2025年",
+      "quote": "2025年，公司累计完成发电量约2,889.55亿千瓦时"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "2,731.092亿千瓦时",
+      "period": "2025年",
+      "quote": "累计完成上网电量约2,731.092亿千瓦时"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity_utilization",
+      "value": "3,614小时",
+      "period": "2025年",
+      "quote": "2025年公司并表口径机组利用小时累计完成3,614小时，同比降低263小时"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "火电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "总预算681.25亿元，本年度投入129.47亿元",
+      "designed_capacity": null,
+      "progress": "已投产、在建或施工准备",
+      "expected_completion_time": null,
+      "quote": "火电总预算681.25亿元，已投产、在建或施工准备，本年度投入金额129.47亿元"
+    },
+    {
+      "name": "风电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "总预算480.31亿元，本年度投入55.43亿元",
+      "designed_capacity": null,
+      "progress": "已投产、在建或施工准备",
+      "expected_completion_time": null,
+      "quote": "风电总预算480.31亿元，已投产、在建或施工准备，本年度投入金额55.43亿元"
+    },
+    {
+      "name": "光伏项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "总预算487.02亿元，本年度投入57.67亿元",
+      "designed_capacity": null,
+      "progress": "已投产、在建或施工准备",
+      "expected_completion_time": null,
+      "quote": "光伏总预算487.02亿元，已投产、在建或施工准备，本年度投入金额57.67亿元"
+    },
+    {
+      "name": "重庆武隆银盘120万千瓦抽水蓄能电站项目",
+      "project_type": "capacity_expansion",
+      "location": "重庆",
+      "investment_amount": null,
+      "designed_capacity": "120万千瓦",
+      "progress": "审议投资建设方案",
+      "expected_completion_time": null,
+      "quote": "审议投资建设重庆武隆银盘120万千瓦抽水蓄能电站项目的议案"
+    },
+    {
+      "name": "下花园电厂2×660MW热电联产扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2×660MW",
+      "progress": "审议投资建设方案",
+      "expected_completion_time": null,
+      "quote": "审议投资建设下花园电厂2×660MW热电联产扩建项目的议案"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超超临界机组技术",
+      "asset_type": "process_technology",
+      "related_product": "火力发电",
+      "quantitative_info": "共有20台超超临界机组，容量达到15,320MW，其中百万级超超临界机组8台",
+      "quote": "公司燃煤机组中，共有20台超超临界机组，容量达到15,320MW，其中百万级超超临界机组8台"
+    },
+    {
+      "name": "超低排放环保改造技术",
+      "asset_type": "core_technology",
+      "related_product": "火力发电",
+      "quantitative_info": "累计完成超低排放环保改造100台",
+      "quote": "公司在役燃煤火电机组累计完成超低排放环保改造100台，均已按照超低排放环保改造限值达标排放"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得专利四千余件，累计获得发明专利六百余件",
+      "quote": "截止2025年末，公司累计获得专利四千余件，累计获得发明专利六百余件"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "66.87%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "国家电网有限公司销售额81,083,158千元，占年度销售总额比例66.87%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "80.89%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额98,087,250千元，占年度销售总额80.89%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "43.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额42,856,173千元，占年度采购总额43.68%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "电量风险：预计2026年全国电力供需整体偏松，新能源装机高速增长致部分区域结构性过剩，火电利用小时数承压。电价风险：市场竞争加剧，电价下行压力加大风险。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "电量风险：预计2026年全国电力供需整体偏松，新能源装机高速增长致部分区域结构性过剩，火电利用小时数承压。电价风险：市场竞争加剧，电价下行压力加大风险，预计2026年年度交易部分地区电力市场竞争激烈，长协电价逼近低位"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "燃料风险：国际形势复杂严峻，中东地缘冲突持续升级，推高国际油气价格，带动国际煤价大幅上涨，全球能源市场不确定性显著增加。进口煤持续收紧，进口煤价格优势消失、补充能力减弱。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "燃料风险：国际形势复杂严峻，中东地缘冲突持续升级，推高国际油气价格，带动国际煤价大幅上涨，全球能源市场不确定性显著增加。进口煤持续收紧，印尼实施出口配额管控与出口关税政策，俄罗斯、澳大利亚等主要出口国供应受限，进口煤价格优势消失、补充能力减弱，对国内市场平抑价格作用下降。"
+    },
+    {
+      "risk_type": "other",
+      "description": "资源开发风险：伴随资源配置方式调整，优质资源竞争加剧，项目开发成本依然高企不下，叠加山地光伏征租地成本、限电率、电价市场化等综合因素，可能导致新能源项目盈利下滑。",
+      "related_entity": null,
+      "related_product": "新能源项目",
+      "quote": "资源开发风险：伴随资源配置方式调整，优质资源竞争加剧，项目开发成本依然高企不下，叠加山地光伏征租地成本、限电率、电价市场化等综合因素，可能导致新能源项目盈利下滑。"
+    }
+  ]
+}

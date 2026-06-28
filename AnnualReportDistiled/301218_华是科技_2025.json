@@ -1,0 +1,540 @@
+{
+  "company_name_mentioned": "浙江华是科技股份有限公司",
+  "produces": [
+    {
+      "name": "系统集成",
+      "type": "service",
+      "revenue_proportion": "91.19%",
+      "quote": "分产品系统集成537,790,049.09 91.19%"
+    },
+    {
+      "name": "系统维护",
+      "type": "service",
+      "revenue_proportion": "2.96%",
+      "quote": "分产品系统维护17,460,037.50 2.96%"
+    },
+    {
+      "name": "安防销售",
+      "type": "device",
+      "revenue_proportion": "4.98%",
+      "quote": "分产品安防销售29,398,897.43 4.98%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料成本",
+      "target_product": "系统集成",
+      "cost_proportion": "70.45%",
+      "quote": "材料成本352,668,534.15 70.45%"
+    },
+    {
+      "name": "劳务费用",
+      "target_product": "系统集成",
+      "cost_proportion": "20.60%",
+      "quote": "劳务费用103,145,931.87 20.60%"
+    },
+    {
+      "name": "技术服务费",
+      "target_product": "系统集成",
+      "cost_proportion": "8.09%",
+      "quote": "技术服务费40,517,582.25 8.09%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智慧港航",
+      "source_product": "系统集成",
+      "quote": "公司智慧港航管理系统的主要客户为海事、港航、港口、航道等主管部门。"
+    },
+    {
+      "name": "智慧监所",
+      "source_product": "系统集成",
+      "quote": "公司智慧监所管理系统主要面向监狱、看守所等特殊监管场所。"
+    },
+    {
+      "name": "智慧公检法",
+      "source_product": "系统集成",
+      "quote": "公司智慧公检法管理系统主要面向于公安局、检察院、法院。"
+    },
+    {
+      "name": "智慧电力",
+      "source_product": "系统集成",
+      "quote": "公司智慧电力系统服务主要应用于智能电网、智慧供电所、零碳园区。"
+    },
+    {
+      "name": "智慧医疗",
+      "source_product": "系统集成",
+      "quote": "公司致力于为医院客户提供智慧医疗综合解决方案。"
+    },
+    {
+      "name": "智慧建筑",
+      "source_product": "系统集成",
+      "quote": "公司智慧建筑解决方案面向办公楼、商业综合楼、学校、体育场馆、工业建筑等新建、扩建或改建工程。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑剑波",
+      "role": "董事长",
+      "quote": "公司负责人郑剑波"
+    },
+    {
+      "name": "俞永方",
+      "role": "董事长（离任）",
+      "quote": "俞永方男56董事长离任"
+    },
+    {
+      "name": "叶建标",
+      "role": "董事、总经理（离任总经理）",
+      "quote": "叶建标男53董事现任...总经理离任"
+    },
+    {
+      "name": "温志伟",
+      "role": "副总经理、董事",
+      "quote": "温志伟男51现任"
+    },
+    {
+      "name": "陈碧玲",
+      "role": "副总经理、财务总监",
+      "quote": "陈碧玲女44现任"
+    },
+    {
+      "name": "叶海珍",
+      "role": "副总经理、董事会秘书",
+      "quote": "叶海珍女44现任"
+    },
+    {
+      "name": "蒋哲行",
+      "role": "董事、总经理（聘任）",
+      "quote": "蒋哲行男35现任"
+    },
+    {
+      "name": "何樟勇",
+      "role": "独立董事",
+      "quote": "何樟勇男54独立董事现任"
+    },
+    {
+      "name": "严媛芬",
+      "role": "独立董事",
+      "quote": "严媛芬女42独立董事现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "杭州振讯科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "振讯科技指杭州振讯科技有限公司"
+    },
+    {
+      "name": "浙江船家宝科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "船家宝科技指浙江船家宝科技有限公司"
+    },
+    {
+      "name": "杭州佑医科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "佑医科技指杭州佑医科技有限公司"
+    },
+    {
+      "name": "杭州声飞光电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "声飞光电指杭州声飞光电有限公司"
+    },
+    {
+      "name": "浙江奔康科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "奔康科技指浙江奔康科技有限公司"
+    },
+    {
+      "name": "杭州华是智能设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "华是智能指杭州华是智能设备有限公司"
+    },
+    {
+      "name": "杭州华是杭御船舶科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "华是杭御指杭州华是杭御船舶科技发展有限公司"
+    },
+    {
+      "name": "杭州余杭交通数字科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "交通数字指杭州余杭交通数字科技有限公司"
+    },
+    {
+      "name": "杭州丞是制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "丞是制造指杭州丞是制造有限公司"
+    },
+    {
+      "name": "宁波城发科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "城发科技指宁波城发科技有限公司"
+    },
+    {
+      "name": "華是科技（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "華是香港指華是科技（香港）有限公司"
+    },
+    {
+      "name": "浙江通为科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "通为科技指浙江通为科技有限公司"
+    },
+    {
+      "name": "贵州华是科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025-07-21设立，注册资本200万元，持股100%",
+      "quote": "本报告期新设立1家子公司：贵州华是科技有限公司"
+    },
+    {
+      "name": "北京千弘华是科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2026-02-13设立，注册资本200万元，持股51%",
+      "quote": "公司于2026年2月13日...投资设立控股子公司北京千弘华是科技有限公司，占其注册资本的51%"
+    },
+    {
+      "name": "杭州巨好玩时代信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2026-03-30设立，注册资本100万元，持股90%",
+      "quote": "公司于2026年3月30日...投资设立控股子公司杭州巨好玩时代信息技术有限公司，占其注册资本的90%"
+    },
+    {
+      "name": "杭州宇创机器人科技有限公司",
+      "relation_type": "investor",
+      "business_details": "以自有资金人民币2,250万元增资，持股15%",
+      "quote": "公司拟以自有资金人民币2,250万元增资杭州宇创机器人科技有限公司，并将持有其15%的股权。"
+    },
+    {
+      "name": "杭州巨准启鸣企业管理合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司的控股股东将变更为杭州巨准"
+    },
+    {
+      "name": "江西中煤建设集团赣州有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "1江西中煤建设集团赣州有限公司46,513,761.47 7.96%"
+    },
+    {
+      "name": "中国电子系统工程第二建设有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "2中国电子系统工程第二建设有限公司28,518,721.58 4.88%"
+    },
+    {
+      "name": "广州珠江建设发展有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "3广州珠江建设发展有限公司44,897,525.04 7.68%"
+    },
+    {
+      "name": "浙江省第三女子监狱",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "4浙江省第三女子监狱36,838,253.21 6.30%"
+    },
+    {
+      "name": "龙游楚盛市场开发有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "5龙游楚盛市场开发有限公司34,500,819.22 5.90%"
+    },
+    {
+      "name": "杭州雅吉建筑劳务有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "1杭州雅吉建筑劳务有限公司58,656,291.70 9.32%"
+    },
+    {
+      "name": "浙江众安建设集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "2浙江众安建设集团有限公司41,263,232.86 6.56%"
+    },
+    {
+      "name": "浙江佳贝思绿色能源有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "3浙江佳贝思绿色能源有限公司16,317,015.81 2.59%"
+    },
+    {
+      "name": "石家庄市华威电力器具有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "4石家庄市华威电力器具有限公司12,384,484.97 1.97%"
+    },
+    {
+      "name": "杭州柯林电气股份有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "5杭州柯林电气股份有限公司12,145,612.07 1.93%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智慧城市服务",
+      "segment_type": "product_line",
+      "revenue_amount": "584,648,984.02",
+      "revenue_proportion": "99.13%",
+      "gross_margin": "14.56%",
+      "yoy_change": null,
+      "quote": "智慧城市服务584,648,984.02 99.13%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "5,125,159.67",
+      "revenue_proportion": "0.87%",
+      "gross_margin": "79.39%",
+      "yoy_change": null,
+      "quote": "其他5,125,159.67 0.87%"
+    },
+    {
+      "name": "系统集成",
+      "segment_type": "product_line",
+      "revenue_amount": "537,790,049.09",
+      "revenue_proportion": "91.19%",
+      "gross_margin": "12.49%",
+      "yoy_change": null,
+      "quote": "系统集成537,790,049.09 91.19%"
+    },
+    {
+      "name": "系统维护",
+      "segment_type": "product_line",
+      "revenue_amount": "17,460,037.50",
+      "revenue_proportion": "2.96%",
+      "gross_margin": "37.45%",
+      "yoy_change": null,
+      "quote": "系统维护17,460,037.50 2.96%"
+    },
+    {
+      "name": "安防销售",
+      "segment_type": "product_line",
+      "revenue_amount": "29,398,897.43",
+      "revenue_proportion": "4.98%",
+      "gross_margin": "38.86%",
+      "yoy_change": null,
+      "quote": "安防销售29,398,897.43 4.98%"
+    },
+    {
+      "name": "境内-浙江省内",
+      "segment_type": "region",
+      "revenue_amount": "356,700,015.37",
+      "revenue_proportion": "60.48%",
+      "gross_margin": "19.54%",
+      "yoy_change": null,
+      "quote": "境内-浙江省内356,700,015.37 60.48%"
+    },
+    {
+      "name": "境内-浙江省外",
+      "segment_type": "region",
+      "revenue_amount": "233,074,128.32",
+      "revenue_proportion": "39.52%",
+      "gross_margin": "8.36%",
+      "yoy_change": null,
+      "quote": "境内-浙江省外233,074,128.32 39.52%"
+    },
+    {
+      "name": "面对直接用户",
+      "segment_type": "sales_channel",
+      "revenue_amount": "203,102,568.36",
+      "revenue_proportion": "34.44%",
+      "gross_margin": "15.99%",
+      "yoy_change": null,
+      "quote": "面对直接用户203,102,568.36 34.44%"
+    },
+    {
+      "name": "面对间接用户",
+      "segment_type": "sales_channel",
+      "revenue_amount": "386,671,575.33",
+      "revenue_proportion": "65.56%",
+      "gross_margin": "14.66%",
+      "yoy_change": null,
+      "quote": "面对间接用户386,671,575.33 65.56%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "智慧城市服务业务能力提升建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "12,600.00",
+      "designed_capacity": null,
+      "progress": "投资进度178.78%",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "智慧城市服务业务能力提升建设项目12,600.00 12,600.00 178.78% ... 2026年06月30日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "6,000.00",
+      "designed_capacity": null,
+      "progress": "投资进度87.16%",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "研发中心建设项目6,000.00 6,000.00 87.16% ... 2026年06月30日"
+    },
+    {
+      "name": "数据中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "4,020.00",
+      "designed_capacity": null,
+      "progress": "投资进度32.62%",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "数据中心建设项目4,020.00 4,020.00 32.62% ... 2026年06月30日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "3,000.00",
+      "designed_capacity": null,
+      "progress": "投资进度100.04%",
+      "expected_completion_time": null,
+      "quote": "补充流动资金3,000.00 3,000.00 100.04%"
+    },
+    {
+      "name": "永久性补充流动资产",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "29,993.18",
+      "designed_capacity": null,
+      "progress": "投资进度100.00%",
+      "expected_completion_time": null,
+      "quote": "永久性补充流动资产29,993.18 4,193.18 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "87项",
+      "quote": "截至本报告披露日，公司及子公司拥有87项专利，376项软件著作权。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "376项",
+      "quote": "截至本报告披露日，公司及子公司拥有87项专利，376项软件著作权。"
+    },
+    {
+      "name": "电子与智能化工程专业承包壹级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已取得电子与智能化工程专业承包壹级...等资质证书"
+    },
+    {
+      "name": "建筑智能化系统设计专项甲级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建筑智能化系统设计专项甲级"
+    },
+    {
+      "name": "CMMI能力成熟度五级认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了...CMMI能力成熟度五级认证"
+    },
+    {
+      "name": "三维激光扫描技术",
+      "asset_type": "core_technology",
+      "related_product": "水上智能卡口系统、三维激光哨兵系统等",
+      "quantitative_info": null,
+      "quote": "公司充分利用三维激光扫描技术高效率、高精度的独特优势与特点"
+    },
+    {
+      "name": "人工智能图像识别技术",
+      "asset_type": "core_technology",
+      "related_product": "船名自动核查抓拍系统等",
+      "quantitative_info": null,
+      "quote": "在人工智能图像识别、应用软件设计等领域形成了具有自主知识产权的核心技术。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "32.72%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元）191,269,080.52前五名客户合计销售金额占年度销售总额比例32.72%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元）140,766,637.40前五名供应商合计采购金额占年度采购总额比例22.37%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "受总承包制度及大环境影响，同行竞争激烈导致毛利率有所下降。",
+      "related_entity": null,
+      "related_product": "系统集成",
+      "quote": "本年度公司主营毛利率同比下降7.08%，影响营业利润-4,139.31万元，主要受总承包制度及大环境影响，同行竞争激烈导致毛利率有所下降。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "智慧城市行业整体面临地方政府财政收支压力加大、项目预算收紧、决策周期延长的严峻局面。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "智慧城市行业整体面临地方政府财政收支压力加大、项目预算收紧、决策周期延长的严峻局面。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "受大环境影响，报告期应收款项回款不能按期收回，导致计提信用减值损失较上年同期增加2,180.45万元，同比增长915.1%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受大环境影响，报告期应收款项回款不能按期收回，导致计提信用减值损失较上年同期增加2,180.45万元，同比增长915.1%。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司为持续提升公司核心竞争力，在本期增加了研发投入493.33万元，同比增长12.48%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司为持续提升公司核心竞争力，在本期增加了研发投入493.33万元，同比增长12.48%。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司面临客户集中度较高的风险，前五大客户销售占比32.72%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户合计销售金额占年度销售总额比例32.72%"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司面临供应商集中度较高的风险，前五大供应商采购占比22.37%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名供应商合计采购金额占年度采购总额比例22.37%"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净利润三者孰低为负值。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司报告期内经审计利润总额、净利润、扣除非经常性损益后的净利润三者孰低为负值"
+    }
+  ]
+}

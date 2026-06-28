@@ -1,0 +1,481 @@
+{
+  "company_name_mentioned": "太平洋证券股份有限公司",
+  "produces": [
+    {
+      "name": "证券经纪业务服务",
+      "type": "service",
+      "revenue_proportion": "证券经纪业务手续费净收入495,711,385.74元，占营业收入比例37.35%",
+      "quote": "证券经纪业务主要是向广大客户提供证券经纪、证券投资咨询、证券投资基金销售、代销金融产品、融资融券、IB介绍业务以及与证券交易、证券投资活动有关的财务顾问等方面的服务。"
+    },
+    {
+      "name": "投资银行业务服务",
+      "type": "service",
+      "revenue_proportion": "投资银行业务手续费净收入75,329,057.17元，占营业收入比例5.68%",
+      "quote": "投资银行业务主要包括股权融资业务和债券融资业务。股权融资业务包括首次公开发行（IPO）、上市公司再融资等股票承销保荐业务；债券融资业务包括企业债、公司债、地方政府债等债券发行承销业务；其他还包括上市公司并购重组、企业改制等财务顾问业务，新三板挂牌、持续督导业务以及与上述业务相关的投资银行类业务。"
+    },
+    {
+      "name": "资产管理业务服务",
+      "type": "service",
+      "revenue_proportion": "资产管理业务手续费净收入122,544,755.80元，占营业收入比例9.23%",
+      "quote": "资产管理业务范围包括为多个客户服务的集合资产管理业务、为单一客户服务的单一（定向）资产管理业务、资产证券化以及投资顾问业务等。"
+    },
+    {
+      "name": "信用业务服务（融资融券及股票质押）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "信用业务包括融资融券业务、股票质押式回购业务。融资融券业务是指证券公司向交存担保物的客户出借资金供其买入证券或出借上市证券供其卖出，并获得利息收入的经营活动；股票质押式回购业务是指符合条件的资金融入方以所持有的股票或其他证券质押，向证券公司融入资金，约定在未来返还资金、解除质押，证券公司获得利息收入的经营活动。"
+    },
+    {
+      "name": "证券投资服务（含自营业务）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "证券投资业务包括权益类投资业务、固定收益类投资业务，主要是以公司自有资金投资股票、债券、公募基金以及国债期货、股指期货等金融衍生品，获取买卖价差、股票分红及债券息差等收益。"
+    },
+    {
+      "name": "私募投资基金服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "私募投资基金业务主要为发起设立及管理私募投资基金，收取管理费并获取超额业绩收益分成；"
+    },
+    {
+      "name": "证券研究服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "证券研究业务主要负责为公募基金、私募基金、保险机构、资管机构等机构投资者提供专业和深度的公司、行业、市场分析等证券研究服务，为其管理资产组合提出建议。"
+    },
+    {
+      "name": "算法交易与金融科技服务",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司算法交易业务实现跨越式增长...该业务以科技赋能交易为核心，打造基于人工智能、大模型等新质生产力金融终端解决方案，丰富算法生态应用版图...构建“多算法+全场景+全终端+极速柜”的技术壁垒"
+    }
+  ],
+  "procures": [
+    {
+      "name": "办公用品及服务",
+      "target_product": "日常运营",
+      "cost_proportion": null,
+      "quote": "公司采购的日常办公用品、设备维护等服务"
+    },
+    {
+      "name": "信息技术系统与服务",
+      "target_product": "业务运营与金融科技",
+      "cost_proportion": null,
+      "quote": "公司的信息技术投入主要包括与信息技术有关的固定资产和无形资产折旧摊销费用、日常运营费用、机房租赁或折旧费用、线路租赁费用、自主研发费用、人员投入等。"
+    },
+    {
+      "name": "营销与广告",
+      "target_product": "业务推广",
+      "cost_proportion": null,
+      "quote": "优选拓客渠道，发挥数字化运营核心优势，提升获客效能"
+    },
+    {
+      "name": "专业服务（审计、法律等）",
+      "target_product": "合规与运营",
+      "cost_proportion": null,
+      "quote": "北京德皓国际会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "资本市场证券交易",
+      "source_product": "证券经纪业务服务",
+      "quote": "证券经纪业务主要是向广大客户提供证券经纪、证券投资咨询、证券投资基金销售、代销金融产品、融资融券、IB介绍业务以及与证券交易、证券投资活动有关的财务顾问等方面的服务。"
+    },
+    {
+      "name": "企业融资与上市",
+      "source_product": "投资银行业务服务",
+      "quote": "投资银行业务主要包括股权融资业务和债券融资业务...专注于精选细分赛道和区域市场进行深度挖掘；继续紧抓政策机遇，聚焦产业整合型并购重组..."
+    },
+    {
+      "name": "财富管理与资产配置",
+      "source_product": "资产管理业务服务， 证券经纪业务服务",
+      "quote": "财富业务聚焦核心产品，协同共进发展...资产管理业务以投研能力为核心、以优质专业服务为抓手..."
+    },
+    {
+      "name": "企业股权投资与孵化",
+      "source_product": "私募投资基金服务",
+      "quote": "太证资本将继续围绕主业积极拓展新增业务，推进新设基金和项目投资，继续重点布局投资智能制造/高端装备、半导体/电子设备、新能源、低空经济、新材料、医疗健康、大消费等行业的优质企业..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李长伟",
+      "role": "公司负责人、总经理、法定代表人、老-中证券副董事长",
+      "quote": "公司负责人李长伟、主管会计工作负责人许弟伟及会计机构负责人曹奕声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "郑亚南",
+      "role": "董事长",
+      "quote": "公司董事长。"
+    },
+    {
+      "name": "张宪",
+      "role": "董事",
+      "quote": "公司董事。"
+    },
+    {
+      "name": "丁吉",
+      "role": "董事",
+      "quote": "公司董事。"
+    },
+    {
+      "name": "赵传香",
+      "role": "独立董事",
+      "quote": "公司独立董事。"
+    },
+    {
+      "name": "唐步",
+      "role": "独立董事",
+      "quote": "公司独立董事。"
+    },
+    {
+      "name": "王亚平",
+      "role": "独立董事",
+      "quote": "公司独立董事。"
+    },
+    {
+      "name": "冯一兵",
+      "role": "职工董事、行政总监兼总经理办公室主任、工会主席、太证非凡投资有限公司执行董事兼总经理",
+      "quote": "2025年11月17日起任公司职工董事。1968年出生，大学本科学历。现任公司行政总监兼总经理办公室主任、公司工会主席、太证非凡投资有限公司执行董事兼总经理。"
+    },
+    {
+      "name": "杜晓丽",
+      "role": "职工董事、合规部总经理",
+      "quote": "2025年11月17日起任公司职工董事。1978年出生，研究生同等学历，硕士学位。现任公司合规部总经理、公司工会女职工委员会主任。"
+    },
+    {
+      "name": "张洪斌",
+      "role": "副总经理、太证资本董事、老-中证券董事",
+      "quote": "公司副总经理、太证资本董事、老-中证券董事。"
+    },
+    {
+      "name": "史明坤",
+      "role": "副总经理、太证资本董事长",
+      "quote": "公司副总经理、太证资本董事长。"
+    },
+    {
+      "name": "许弟伟",
+      "role": "副总经理兼财务总监",
+      "quote": "公司副总经理兼财务总监。"
+    },
+    {
+      "name": "周岚",
+      "role": "副总经理",
+      "quote": "公司副总经理。"
+    },
+    {
+      "name": "张东海",
+      "role": "副总经理",
+      "quote": "公司副总经理。"
+    },
+    {
+      "name": "唐卫华",
+      "role": "副总经理",
+      "quote": "公司副总经理。"
+    },
+    {
+      "name": "程绪兰",
+      "role": "党委书记、首席风险官",
+      "quote": "公司党委书记、首席风险官。"
+    },
+    {
+      "name": "康静",
+      "role": "合规总监",
+      "quote": "公司合规总监。"
+    },
+    {
+      "name": "栾峦",
+      "role": "董事会秘书",
+      "quote": "公司董事会秘书。"
+    },
+    {
+      "name": "阎金",
+      "role": "首席信息官兼信息技术部总经理",
+      "quote": "公司首席信息官兼信息技术部总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "太证资本管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事私募投资基金业务。",
+      "quote": "太证资本管理有限责任公司，公司全资子公司"
+    },
+    {
+      "name": "太证非凡投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事另类投资业务。",
+      "quote": "太证非凡投资有限公司，公司全资子公司"
+    },
+    {
+      "name": "老-中证券公众公司",
+      "relation_type": "investor",
+      "business_details": "公司境外参股公司，持股比例35.10%。主要经营地在老挝，是经老挝证券管理委员会批准设立的综合类券商。",
+      "quote": "老-中证券公众公司（原老-中证券有限公司），公司境外参股公司"
+    },
+    {
+      "name": "北京嘉裕投资有限公司",
+      "relation_type": "investor",
+      "business_details": "公司第一大股东，持股比例10.92%。",
+      "quote": "北京嘉裕投资有限公司"
+    },
+    {
+      "name": "华创证券有限责任公司",
+      "relation_type": "competitor",
+      "business_details": "因股东嘉裕投资股权转让纠纷被其诉至法院，华创证券竞得嘉裕投资所持本公司股份。",
+      "quote": "嘉裕投资因股权转让纠纷被华创证券有限责任公司（以下简称华创证券）诉至法院。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "证券经纪业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "59,203.45万元",
+      "revenue_proportion": "占营业收入比例37.35%",
+      "gross_margin": "36.85%",
+      "yoy_change": "营业收入比上年同期增减28.30%",
+      "quote": "证券经纪业务手续费净收入 49,571.14 37.35"
+    },
+    {
+      "name": "投资银行业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,536.35万元",
+      "revenue_proportion": "占营业收入比例5.68%",
+      "gross_margin": "-35.62%",
+      "yoy_change": "营业收入比上年同期增减-56.59%",
+      "quote": "投资银行业务手续费净收入 7,532.91 5.68"
+    },
+    {
+      "name": "资产管理业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "12,247.41万元",
+      "revenue_proportion": "占营业收入比例9.23%",
+      "gross_margin": "45.30%",
+      "yoy_change": "营业收入比上年同期增减-12.08%",
+      "quote": "资产管理业务手续费净收入 12,254.48 9.23"
+    },
+    {
+      "name": "证券投资业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "36,276.66万元",
+      "revenue_proportion": null,
+      "gross_margin": "73.30%",
+      "yoy_change": "营业收入比上年同期增减3.02%",
+      "quote": "证券投资业务 36,276.66 9,685.21 73.30"
+    },
+    {
+      "name": "信用业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "11,757.37万元",
+      "revenue_proportion": null,
+      "gross_margin": "82.41%",
+      "yoy_change": "营业收入比上年同期增减0.79%",
+      "quote": "信用业务 11,757.37 2,067.69 82.41"
+    },
+    {
+      "name": "云南地区",
+      "segment_type": "region",
+      "revenue_amount": "36,361.97万元",
+      "revenue_proportion": null,
+      "gross_margin": "68.81%",
+      "yoy_change": "营业收入比上年同期增减29.97%",
+      "quote": "云南 36,361.97 11,341.71 68.81"
+    },
+    {
+      "name": "北京地区",
+      "segment_type": "region",
+      "revenue_amount": "4,990.10万元",
+      "revenue_proportion": null,
+      "gross_margin": "61.01%",
+      "yoy_change": "营业收入比上年同期增减36.15%",
+      "quote": "北京 4,990.10 1,945.48 61.01"
+    },
+    {
+      "name": "公司本部及子公司",
+      "segment_type": "other",
+      "revenue_amount": "75,120.23万元",
+      "revenue_proportion": null,
+      "gross_margin": "1.14%",
+      "yoy_change": "营业收入比上年同期增减-14.92%",
+      "quote": "公司本部及子公司 75,120.23 74,264.71 1.14"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "受托管理资产",
+      "metric_type": "inventory_volume",
+      "value": "137.81亿元",
+      "period": "2025年末",
+      "quote": "截至报告期末，公司资产管理规模合计137.81亿元，较上年减少8.88%。"
+    },
+    {
+      "product": "私募股权投资基金",
+      "metric_type": "capacity",
+      "value": "基金实缴管理规模13.95亿元",
+      "period": "2025年末",
+      "quote": "太证资本及下属机构管理私募股权投资基金10只，基金实缴管理规模13.95亿元。"
+    },
+    {
+      "product": "两融业务",
+      "metric_type": "capacity",
+      "value": "余额28.66亿元",
+      "period": "2025年末",
+      "quote": "截至报告期末，公司两融业务余额28.66亿元，较上年末增长25.23%"
+    },
+    {
+      "product": "证券账户",
+      "metric_type": "inventory_volume",
+      "value": "证券账户数2,557,483户",
+      "period": "2025年末",
+      "quote": "截至报告期末，公司证券账户数2,557,483户"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "北京太证恒通股权投资中心（有限合伙）、北京太证未名股权投资中心（有限合伙）等私募基金",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "管理私募股权投资基金10只",
+      "expected_completion_time": null,
+      "quote": "太证资本及下属机构管理私募股权投资基金10只"
+    },
+    {
+      "name": "算法交易业务系统建设",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "信息技术投入总额为15,044.38万元（2025年）",
+      "designed_capacity": null,
+      "progress": "算法交易业务在上线第一个完整自然年度，收入实现“0”到“1”的跨越式增长，已成为公司经纪业务新的收入增长点。2025年9月上线算法总线...构建‘多算法+全场景+全终端+极速柜’的技术壁垒",
+      "expected_completion_time": null,
+      "quote": "2025年9月上线算法总线，支持多类算法运行，10月率先实现ETFT0交易，成为全市场极少数具备该能力的券商，同步完成鸿蒙版APP适配，打造苹果iOS、安卓、鸿蒙全终端，推进极速开户优化、APP拆单算法、北交所算法模块建设"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "算法交易技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "证券经纪业务",
+      "quantitative_info": null,
+      "quote": "公司算法交易业务实现跨越式增长...该业务以科技赋能交易为核心，打造基于人工智能、大模型等新质生产力金融终端解决方案，丰富算法生态应用版图，为投资者提供了更加便捷且普惠的智能交易工具。2025年9月上线算法总线，支持多类算法运行，10月率先实现ETFT0交易，成为全市场极少数具备该能力的券商，同步完成鸿蒙版APP适配，打造苹果iOS、安卓、鸿蒙全终端，推进极速开户优化、APP拆单算法、北交所算法模块建设，构建“多算法+全场景+全终端+极速柜”的技术壁垒，逐步在行业中建立较为稳定的优势。"
+    },
+    {
+      "name": "合规管理信息系统",
+      "asset_type": "software_copyright",
+      "related_product": "合规风控管理",
+      "quantitative_info": null,
+      "quote": "合规部稳步推进合规管理信息系统建设，持续开展系统升级优化工作...完成合规系统硬件服务器迭代及系统接口更新，同步升级系统版本，优化核心功能模块；二是深化系统采集服务器功能建设，实现对各业务部门系统数据的自动化采集..."
+    },
+    {
+      "name": "反洗钱管理系统",
+      "asset_type": "software_copyright",
+      "related_product": "合规风控管理",
+      "quantitative_info": null,
+      "quote": "通过将反洗钱管理模块从合规系统中剥离，独立完成反洗钱系统的搭建与上线；在此基础上，完成反洗钱系统版本迭代，同步更新民政部最新行政区划代码，动态优化反洗钱黑名单库，升级风险监控名单系统功能"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "未具体披露最大客户收入占比",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "证券行业收入来源分散，未提及单一大客户集中度风险。"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "未具体披露前五大客户收入占比",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "证券行业收入来源分散，未提及客户集中度风险。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "未具体披露最大供应商采购占比",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "证券行业采购分散，未提及单一大供应商集中度风险。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "未具体披露前五大供应商采购占比",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "证券行业采购分散，未提及供应商集中度风险。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度风险未在报告中明确提及为重大风险因素",
+      "related_entity": null,
+      "period": null,
+      "quote": "报告中列出的重大风险因素主要包括：信用风险、市场风险、流动性风险、操作风险、合规风险、声誉风险及其他风险。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "供应商集中度风险未在报告中明确提及为重大风险因素",
+      "related_entity": null,
+      "period": null,
+      "quote": "报告中列出的重大风险因素主要包括：信用风险、市场风险、流动性风险、操作风险、合规风险、声誉风险及其他风险。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "证券行业竞争格局分化，头部券商与中小券商竞争加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "差异化发展格局成型。行业正逐步摆脱同质化竞争，头部券商通过并购重组强化资源整合能力...中小券商则立足区域资源或细分业务，通过在优势领域深耕细作，在差异化赛道上形成核心竞争力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "金融科技快速发展，数字化、智能化转型对运营模式提出挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "数智化转型为全流程赋能。全球科技创新已开启新一轮浪潮，大数据、人工智能、区块链等先进技术加速发展，数字化、智能化转型已在各行业推进。2025年是AI在证券行业落地显效的元年，DeepSeek大模型的推出加速商业化路径..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "证券行业受到非常严格的监管，监管政策调整将对公司经营业绩产生重大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主营业务与国内宏观经济环境、资本市场走势密切相关，证券行业的监管政策调整和资本市场的波动都将对公司经营业绩产生重大影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "权益类投资业务面临市场波动挑战，投资收益同比下降。",
+      "related_entity": null,
+      "related_product": "权益类投资业务",
+      "quote": "报告期内，公司权益类投资业务在应对市场波动方面面临挑战，持仓策略存在不足，投资收益同比下降。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "投资银行业务（债券承销）受区域资本市场容量限制，业务规模下滑。",
+      "related_entity": null,
+      "related_product": "投资银行业务",
+      "quote": "受限于区域资本市场容量，叠加多重因素影响，投行债券业务规模下滑，业务收入减少。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司第一大股东所持股份被司法拍卖，主要股东变更尚需核准，最终结果存在不确定性。",
+      "related_entity": "北京嘉裕投资有限公司",
+      "related_product": null,
+      "quote": "公司股东嘉裕投资因股权转让纠纷被华创证券有限责任公司（以下简称华创证券）诉至法院。2022年5月，嘉裕投资所持本公司744,039,975股股份...被华创证券竞得。本次变更股东申请尚需取得中国证监会核准，公司已报送变更主要股东或者公司实际控制人的行政许可申请材料...最终结果存在不确定性。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司存在多项未决诉讼、仲裁事项。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司单个诉讼、仲裁事项不存在...重大诉讼、仲裁事项。截至本报告披露日，公司相关诉讼、仲裁事项如下：（列示了多项诉讼）"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "对上海太证投资管理有限公司股权投资已全额计提减值准备。",
+      "related_entity": "上海太证投资管理有限公司",
+      "related_product": null,
+      "quote": "鉴于公司对上海太证股权投资出现显著减值迹象，截至报告期末，该部分股权账面价值已全额计提减值准备。"
+    }
+  ]
+}

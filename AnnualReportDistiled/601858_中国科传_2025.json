@@ -1,0 +1,454 @@
+{
+  "company_name_mentioned": "中国科技出版传媒股份有限公司",
+  "produces": [
+    {
+      "name": "图书业务（含学术专著、教材教辅、大众科普图书）",
+      "type": "service",
+      "revenue_proportion": "2025年营业收入10.68亿元，同比下降4.94%；占公司主营业务收入比例约35.96%（计算：10.68 / 29.69）",
+      "quote": "图书业务 106,780.76 50,881.66 52.35 -4.94 -3.49 减少0.72 个百分点"
+    },
+    {
+      "name": "期刊业务（含学术期刊和大众杂志）",
+      "type": "service",
+      "revenue_proportion": "2025年营业收入2.57亿元，同比增长18.37%；占公司主营业务收入比例约8.64%（计算：2.57 / 29.69）",
+      "quote": "期刊业务 25,661.98 16,085.51 37.32 18.37 14.34 增加2.21 个百分点"
+    },
+    {
+      "name": "出版物进出口业务",
+      "type": "service",
+      "revenue_proportion": "2025年营业收入16.09亿元，同比增长3.43%；占公司主营业务收入比例约54.18%（计算：16.09 / 29.69）",
+      "quote": "出版物进 160,870.31 150,417.67 6.50 3.43 3.24 增加0.17 出口业务 个百分点"
+    },
+    {
+      "name": "知识服务业务（数字化产品销售及平台服务）",
+      "type": "service",
+      "revenue_proportion": "2025年其他业务收入3，606.41万元，同比增长16.37%；占公司主营业务收入比例约1.21%（计算：0.36 / 29.69）",
+      "quote": "其他 3,606.41 1,038.36 71.21 16.37 -27.69 增加17.55 个百分点"
+    },
+    {
+      "name": "SciEngine全流程数字出版与知识服务平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司开发建设的SciEngine学术期刊全流程数字出版与知识服务平台读者遍布全球200余个国家和地区，目前展示期刊696种"
+    },
+    {
+      "name": "人工智能大模型“远至”及系列产品",
+      "type": "software",
+      "revenue_proportion": "2025年实现营业收入262万元，占中科数媒总营收的比例约为38%",
+      "quote": "2025年，“远至”实现营业收入262万元，占中科数媒总营收的比例约为38%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "出版物采购成本",
+      "target_product": "出版物进出口业务",
+      "cost_proportion": "2025年采购成本15.04亿元，占公司总成本比例约68.87%",
+      "quote": "出版物出 出版物采 150,417.67 68.87 145,693.72 68.11 3.24 口业务 购成本"
+    },
+    {
+      "name": "原材料（主要为纸张材料）",
+      "target_product": "图书业务、期刊业务",
+      "cost_proportion": "2025年原材料成本1.05亿元，占公司总成本比例约4.80%",
+      "quote": "出版 原材料 10,481.70 4.80 12,215.91 5.71 -14.20"
+    },
+    {
+      "name": "印制成本（印装费和制排费）",
+      "target_product": "图书业务、期刊业务",
+      "cost_proportion": "2025年印制成本1.61亿元，占公司总成本比例约7.39%",
+      "quote": "出版 印制成本 16,133.90 7.39 17,269.77 8.07 -6.58"
+    },
+    {
+      "name": "稿校成本（稿费和校对费）",
+      "target_product": "图书业务、期刊业务",
+      "cost_proportion": "2025年稿校成本1.65亿元，占公司总成本比例约7.58%",
+      "quote": "出版 稿校成本 16,548.64 7.58 16,162.27 7.56 2.39"
+    },
+    {
+      "name": "编录经费及其他",
+      "target_product": "图书业务、期刊业务",
+      "cost_proportion": "2025年编录经费及其他2.38亿元，占公司总成本比例约10.90%",
+      "quote": "出版 编录经费 23,802.93 10.90 21,141.88 9.88 12.59 及其他"
+    },
+    {
+      "name": "其他服务成本",
+      "target_product": "知识服务业务",
+      "cost_proportion": "2025年其他服务成本0.10亿元，占公司总成本比例约0.48%",
+      "quote": "其他 其他服务 1,038.36 0.48 1,436.04 0.67 -27.69 成本"
+    }
+  ],
+  "applications": [
+    {
+      "name": "高校师生、科研人员",
+      "source_product": "图书业务",
+      "quote": "主要读者和客户为高校师生、科研人员，各领域专业人士，以及科研机构、图书馆等。"
+    },
+    {
+      "name": "国内高校和科研机构图书馆、公共图书馆以及企业客户",
+      "source_product": "出版物进出口业务",
+      "quote": "服务数千家国内高校和科研院所图书馆、公共图书馆以及企业客户。"
+    },
+    {
+      "name": "智慧医疗、健康管理、医学教育",
+      "source_product": "人工智能大模型“远至”及系列产品",
+      "quote": "已在智慧医疗、健康管理、医学教育等多个场景实现落地应用"
+    },
+    {
+      "name": "高等教育、职业教育、基础教育",
+      "source_product": "数字教育云服务（数字教材、教学资源库等）",
+      "quote": "在数字教育云服务方面，公司以数字教材、配套资源为基础，积极开拓在线教育业务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "胡华强",
+      "role": "董事长、总经理",
+      "quote": "公司负责人胡华强、主管会计工作负责人黄琛及会计机构负责人（会计主管人员）张鹏声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "彭斌",
+      "role": "董事、总编辑",
+      "quote": "彭斌 董事、总编辑 男 61 2016年6月、 2023年5月 0 0 0 169.49 否"
+    },
+    {
+      "name": "徐雁龙",
+      "role": "董事",
+      "quote": "徐雁龙 董事 男 44 2024年1月 0 0 0 - 是"
+    },
+    {
+      "name": "黄琛",
+      "role": "董事、副总经理、财务总监",
+      "quote": "黄琛 董事、副总经理、财务总监 女 51 2024年1月、 2023年3月 0 0 0 108.40 否"
+    },
+    {
+      "name": "张凡",
+      "role": "副总经理、董事会秘书",
+      "quote": "张凡 副总经理、董事会秘书 男 42 2023年5月、 2018年2月 0 0 0 163.28 否"
+    },
+    {
+      "name": "刘俊来",
+      "role": "职工董事、副总编辑",
+      "quote": "刘俊来 职工董事 男 55 2020年7月 0 0 0 82.39 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国科技出版传媒集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "出版集团、控股股东 指 中国科技出版传媒集团有限公司"
+    },
+    {
+      "name": "中国科学院控股有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "国科控股、实际控制人 指 中国科学院控股有限公司"
+    },
+    {
+      "name": "北京中科进出口有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事出版物进出口业务",
+      "quote": "公司全资子公司北京中科进出口有限责任公司具有出版物进出口经营资质"
+    },
+    {
+      "name": "《中国科学》杂志社有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，出版期刊",
+      "quote": "《中国科学》杂志社 指 《中国科学》杂志社有限责任公司"
+    },
+    {
+      "name": "北京中科期刊出版有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，出版期刊",
+      "quote": "中科期刊公司 指 北京中科期刊出版有限公司"
+    },
+    {
+      "name": "北京科爱森蓝文化传播有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与爱思唯尔（Elsevier）合资创办，出版期刊",
+      "quote": "公司与爱思唯尔（Elsevier）合资创办的科爱公司共有83种期刊获得影响因子"
+    },
+    {
+      "name": "EDP Sciences (Edition Diffusion Press Sciences SAS)",
+      "relation_type": "subsidiary",
+      "business_details": "2019年收购的法国出版机构，出版期刊",
+      "quote": "公司于2019年收购的法国EDP Sciences目前出版期刊76种"
+    },
+    {
+      "name": "爱思唯尔（Elsevier）",
+      "relation_type": "supplier",
+      "business_details": "境外大型出版机构，供应商",
+      "quote": "供应商则多为境外大型出版机构。多年来，公司与Elsevier、Springer-Nature、Clarivate（科睿唯安）等数百家国际出版商和集成商保持着密切合作"
+    },
+    {
+      "name": "Springer-Nature",
+      "relation_type": "supplier",
+      "business_details": "境外大型出版机构，供应商",
+      "quote": "公司与Elsevier、Springer-Nature、Clarivate（科睿唯安）等数百家国际出版商和集成商保持着密切合作"
+    },
+    {
+      "name": "科睿唯安（Clarivate Analytics）",
+      "relation_type": "supplier",
+      "business_details": "提供期刊引证报告等服务",
+      "quote": "根据2025年6月18日科睿唯安（Clarivate Analytics）公布的2024年度《期刊引证报告》"
+    },
+    {
+      "name": "立信会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "立信会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "出版业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "13.24亿元",
+      "revenue_proportion": "44.62%",
+      "gross_margin": "49.44%",
+      "yoy_change": "-1.17%",
+      "quote": "出版业务 132,442.74 66,967.17 49.44 -1.17 0.27 减少0.72 个百分点"
+    },
+    {
+      "name": "出版物进出口业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "16.09亿元",
+      "revenue_proportion": "54.18%",
+      "gross_margin": "6.50%",
+      "yoy_change": "3.43%",
+      "quote": "出版物进 160,870.31 150,417.67 6.50 3.43 3.24 增加0.17 出口业务 个百分点"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "8.94亿元",
+      "revenue_proportion": "30.11%",
+      "gross_margin": "26.44%",
+      "yoy_change": "6.52%",
+      "quote": "华东地区 89,435.74 65,791.71 26.44 6.52 7.19 减少0.46 个百分点"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "8.01亿元",
+      "revenue_proportion": "26.99%",
+      "gross_margin": "26.44%",
+      "yoy_change": "0.22%",
+      "quote": "华北地区 80,060.26 58,894.82 26.44 0.22 0.86 减少0.46 个百分点"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "7.58亿元",
+      "revenue_proportion": "25.53%",
+      "gross_margin": "40.28%",
+      "yoy_change": "-9.26%",
+      "quote": "经销 75,789.59 45,260.01 40.28 -9.26 -6.02 减少2.06 个百分点"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "22.11亿元",
+      "revenue_proportion": "74.47%",
+      "gross_margin": "21.69%",
+      "yoy_change": "5.74%",
+      "quote": "直销 221,129.86 173,163.19 21.69 5.74 4.47 增加0.96 个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "图书",
+      "metric_type": "production_volume",
+      "value": "4051.90万册",
+      "period": "2025年",
+      "quote": "图书 万册 4051.90 4605.86 825.56 -28.07 -15.28 -13.24"
+    },
+    {
+      "product": "图书",
+      "metric_type": "sales_volume",
+      "value": "4605.86万册",
+      "period": "2025年",
+      "quote": "图书 万册 4051.90 4605.86 825.56 -28.07 -15.28 -13.24"
+    },
+    {
+      "product": "图书",
+      "metric_type": "inventory_volume",
+      "value": "825.56万册",
+      "period": "2025年末",
+      "quote": "图书 万册 4051.90 4605.86 825.56 -28.07 -15.28 -13.24"
+    },
+    {
+      "product": "期刊",
+      "metric_type": "production_volume",
+      "value": "102.11万册",
+      "period": "2025年",
+      "quote": "期刊 万册 102.11 89.49 15.54 4.85 1.64 33.62"
+    },
+    {
+      "product": "期刊",
+      "metric_type": "sales_volume",
+      "value": "89.49万册",
+      "period": "2025年",
+      "quote": "期刊 万册 102.11 89.49 15.54 4.85 1.64 33.62"
+    },
+    {
+      "product": "期刊",
+      "metric_type": "inventory_volume",
+      "value": "15.54万册",
+      "period": "2025年末",
+      "quote": "期刊 万册 102.11 89.49 15.54 4.85 1.64 33.62"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "“中国科技文库”重大图书出版项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "3.14亿元（调整后）",
+      "designed_capacity": null,
+      "progress": "部分图书先后获得各类国家级、省部级重要奖项",
+      "expected_completion_time": "2028年1月",
+      "quote": "“中国科技文库”重大图书出版项目 是， ... 31,447.65 2,981.42 9,497.14 30.20 ... 2028年1月"
+    },
+    {
+      "name": "中国科技信息数字出版项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "3.14亿元（调整后）",
+      "designed_capacity": null,
+      "progress": "已建成“科学文库”“中科助学通”等多个数字产品",
+      "expected_completion_time": "2028年1月",
+      "quote": "中国科技信息数字出版项目 ... 31,351.33 2048.65 4401.57 14.04 ... 2028年1月"
+    },
+    {
+      "name": "中国科技出版物营销体系项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "0.58亿元（调整后）",
+      "designed_capacity": null,
+      "progress": "陆续打造了面向教师群体的全方位教师服务平台等",
+      "expected_completion_time": "2028年1月",
+      "quote": "中国科技出版物营销体系项目 ... 5,837.45 607.02 880.55 15.08 ... 2028年1月"
+    },
+    {
+      "name": "北京中科传媒有限公司（新设）",
+      "project_type": "other",
+      "location": "北京",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "注册成立，集中力量推进一流期刊建设",
+      "expected_completion_time": null,
+      "quote": "2025年12月，公司注册成立北京中科传媒有限公司，集中力量推进一流期刊建设"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "人工智能大模型“远至”",
+      "asset_type": "technical_platform",
+      "related_product": "医疗健康大数据",
+      "quantitative_info": "国内首批通过国家网信办生成式人工智能服务大模型及算法‘双备案’的出版类大模型",
+      "quote": "作为国内首批通过国家网信办生成式人工智能服务大模型及算法‘双备案’的出版类大模型"
+    },
+    {
+      "name": "SciEngine全流程数字出版与知识服务平台",
+      "asset_type": "technical_platform",
+      "related_product": "期刊融合平台",
+      "quantitative_info": "展示期刊696种，其中SCIE/ESCI收录期刊161种，78种处于Q1区",
+      "quote": "目前展示期刊696种，其中SCIE/ESCI收录期刊161种，78种处于Q1区"
+    },
+    {
+      "name": "“科学文库”“科学智库”“中国生物志库”等专业学科知识库",
+      "asset_type": "other",
+      "related_product": "专业学科知识库",
+      "quantitative_info": null,
+      "quote": "公司形成了以‘科学文库’为全学科数字资源、以‘生物志库’‘古生物地层知识库’等为专业学科领域特色数字资源的数据库集群"
+    },
+    {
+      "name": "按需印刷（POD）技术",
+      "asset_type": "process_technology",
+      "related_product": "图书业务",
+      "quantitative_info": null,
+      "quote": "同时，公司不断加强精细化管理，加大按需印刷（POD）技术的推广和使用"
+    },
+    {
+      "name": "出版融合旗舰单位（国家新闻出版署评定）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2021年，公司被国家新闻出版署评为首批‘出版融合旗舰单位’。"
+    },
+    {
+      "name": "国家文化出口重点企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司再次被商务部、中央宣传部、财政部、文化和旅游部、国家广电总局联合授予‘2024-2025年度国家文化出口重点企业’称号"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25,745.69万元，占年度销售总额8.67%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额25,745.69万元，占年度销售总额8.67%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "103,890.43万元，占年度采购总额47.56%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额103,890.43万元，占年度采购总额47.56%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "9,951.11万元，占年度销售总额3.35%",
+      "related_entity": "客户一",
+      "period": "2025年（贸易业务）",
+      "quote": "序号 客户名称 销售额 占年度销售总额比例（%） 1 客户一 9,951.11 3.35"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "43,840.95万元，占年度采购总额20.07%",
+      "related_entity": "供应商一",
+      "period": "2025年（贸易业务）",
+      "quote": "序号 供应商名称 采购额 占年度采购总额比例（%） 1 供应商一 43,840.95 20.07"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业内部，大型国际出版集团凭借资本和平台优势持续扩张；行业外部，预印本平台、学术社交网络、科研管理工具等‘非传统’知识服务商，正从不同环节切入科研传播链条，模糊了出版的边界，争夺用户时间和注意力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业内部，大型国际出版集团凭借资本和平台优势持续扩张；行业外部，预印本平台、学术社交网络、科研管理工具等‘非传统’知识服务商，正从不同环节切入科研传播链条，模糊了出版的边界，争夺用户时间和注意力"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术迭代与用户习惯变迁带来较大挑战。人工智能，特别是大型语言模型的崛起，对知识生产、检索、组织与呈现方式产生了颠覆性影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术迭代与用户习惯变迁带来较大挑战。人工智能，特别是大型语言模型的崛起，对知识生产、检索、组织与呈现方式产生了颠覆性影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "随着开放获取模式在全球学术出版领域的加速推进，以订阅费为核心的‘付费墙’传统盈利模式受到挑战。同时，图书馆预算紧缩、机构订阅削减，使得传统期刊的订阅收入持续承压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着开放获取模式在全球学术出版领域的加速推进，以订阅费为核心的‘付费墙’传统盈利模式受到挑战。同时，图书馆预算紧缩、机构订阅削减，使得传统期刊的订阅收入持续承压。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "国际贸易摩擦、地缘政治冲突、汇率波动等不确定因素，可能会对海外市场的拓展和版权输出带来不确定性风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国际贸易摩擦、地缘政治冲突、汇率波动等不确定因素，可能会对海外市场的拓展和版权输出带来不确定性风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料（纸张）价格波动风险。",
+      "related_entity": null,
+      "related_product": "图书业务、期刊业务",
+      "quote": "原材料主要为纸张材料成本；"
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "company_name_mentioned": "上海君道酒企业发展股份有限公司",
+  "produces": [
+    {
+      "name": "白酒（主要为酱香型）",
+      "type": "device",
+      "revenue_proportion": "酱香占酒类销售的98%",
+      "quote": "公司酒类产品香型以酱香为主，酱香占酒类销售的98%"
+    },
+    {
+      "name": "浓香白酒",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况 浓香 626,428.57"
+    },
+    {
+      "name": "果酒",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况 果酒 25,879.49"
+    },
+    {
+      "name": "其他酒",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况 其他酒 9,961.58"
+    },
+    {
+      "name": "酒类用品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况 酒类用品 22,018.51"
+    }
+  ],
+  "procures": [
+    {
+      "name": "酿酒原辅材料",
+      "target_product": "白酒",
+      "cost_proportion": null,
+      "quote": "原料类别 当期采购金额 酿酒原辅材料 3,267.70"
+    },
+    {
+      "name": "包装材料",
+      "target_product": "白酒",
+      "cost_proportion": "77.72%",
+      "quote": "原料类别 当期采购金额 包装材料 57.25 占当期总采购额的比重（%） 77.72"
+    },
+    {
+      "name": "能源",
+      "target_product": "白酒生产",
+      "cost_proportion": "22.28%",
+      "quote": "原料类别 当期采购金额 能源 16.41 占当期总采购额的比重（%） 22.28"
+    }
+  ],
+  "applications": [
+    {
+      "name": "企业团购用酒",
+      "source_product": "白酒",
+      "quote": "团购的销售模式为公司在全国各个区域拓展各种类型的企业团购用酒客户，通过标准产品和定制产品满足企业的自用、收藏、送礼等相关需求。"
+    },
+    {
+      "name": "经销商分销",
+      "source_product": "白酒",
+      "quote": "公司经销商模式是在全国各区域发展具备分销资质、有分销网络或圈层资源的经销商，经销商根据自有的客户资源或渠道网络进行分销。"
+    },
+    {
+      "name": "线上直营销售",
+      "source_product": "白酒",
+      "quote": "线上直营店包括抖音、天猫、京东等线上平台店铺。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱诺",
+      "role": "副董事长、总经理",
+      "quote": "公司负责人朱诺、主管会计工作负责人周苗及会计机构负责人（会计主管人员）周苗声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "韩啸",
+      "role": "董事长",
+      "quote": "未出席董事职务 未出席董事姓名 董事长 韩啸 未出席的原因说明 因被公安机关采取刑事强制措施，目前处于羁押状态，无法出席本次董事会"
+    },
+    {
+      "name": "周苗",
+      "role": "主管会计工作负责人、会计机构负责人（财务总监）",
+      "quote": "公司负责人朱诺、主管会计工作负责人周苗及会计机构负责人（会计主管人员）周苗声明"
+    },
+    {
+      "name": "高利风",
+      "role": "董事",
+      "quote": "现任及报告期内离任董事和高级管理人员持股变动及薪酬情况 高利风 董事"
+    },
+    {
+      "name": "张健",
+      "role": "董事、副总经理",
+      "quote": "现任及报告期内离任董事和高级管理人员持股变动及薪酬情况 张健 董事 副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "贵州高酱酒业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要的生产基地",
+      "quote": "公司的控股子公司贵州高酱是主要的生产基地"
+    },
+    {
+      "name": "上海天青贵酿酒业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "酒类经营",
+      "quote": "子公司名称 上海天青贵酿酒业有限公司 主营业务收入 1,155.08 业务性质 酒类经营等"
+    },
+    {
+      "name": "上海君道贵酿酒业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "酒类经营",
+      "quote": "子公司名称 上海君道贵酿酒业有限公司 主营业务收入 3,045.78 业务性质 酒类经营等"
+    },
+    {
+      "name": "南昌杯满醉商贸行",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名销售客户 序号 客户名称 销售额 1 南昌杯满醉商贸行 4,249,610.62"
+    },
+    {
+      "name": "江苏亿豪建设工程有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名销售客户 序号 客户名称 销售额 2 江苏亿豪建设工程有限公司 4,241,628.32"
+    },
+    {
+      "name": "京东平台客户",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名销售客户 序号 客户名称 销售额 3 京东平台客户 3,151,405.38"
+    },
+    {
+      "name": "抖音平台客户",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名销售客户 序号 客户名称 销售额 4 抖音平台客户 2,852,055.66"
+    },
+    {
+      "name": "南昌县小蓝永利名酒商行",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名销售客户 序号 客户名称 销售额 5 南昌县小蓝永利名酒商行 2,325,466.90"
+    },
+    {
+      "name": "中国建筑第四工程局有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一，采购额最大",
+      "quote": "前五名供应商 序号 供应商名称 采购额 1 中国建筑第四工程局有限公司 68,667,519.44"
+    },
+    {
+      "name": "南通裕盛智能装备有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "前五名供应商 序号 供应商名称 采购额 2 南通裕盛智能装备有限公司 37,086,739.37"
+    },
+    {
+      "name": "上海贵酒企业发展有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司的控股股东为上海贵酒企业发展有限公司。"
+    },
+    {
+      "name": "五牛股权投资基金管理有限公司",
+      "relation_type": "investor",
+      "business_details": "一致行动人",
+      "quote": "上海贵酒企业发展有限公司与上海炙昀铭实业有限公司、华宝信托有限责任公司-天高资本20号单一资金信托、上海泓虔实业有限公司、上海鸿褚实业有限公司为一致行动人"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "酒类销售",
+      "segment_type": "product_line",
+      "revenue_amount": "38,558,559.61元",
+      "revenue_proportion": "100%",
+      "gross_margin": "40.93%",
+      "yoy_change": "收入比上年同期减少85.61%",
+      "quote": "主营业务分行业情况 分行业 酒类销售 营业收入 38,558,559.61 营业成本 22,774,793.11 毛利率（%） 40.93 营业收入比上年增减（%） -85.61"
+    },
+    {
+      "name": "酱香",
+      "segment_type": "product_line",
+      "revenue_amount": "37,874,271.46元",
+      "revenue_proportion": null,
+      "gross_margin": "41.53%",
+      "yoy_change": "收入比上年同期减少82.01%",
+      "quote": "主营业务分产品情况 分产品 酱香 营业收入 37,874,271.46 营业成本 22,143,539.20 毛利率（%） 41.53 营业收入比上年增减（%） -82.01"
+    },
+    {
+      "name": "经销商",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,181.83万元",
+      "revenue_proportion": "31%",
+      "gross_margin": "5.66%",
+      "yoy_change": "收入比上年同期减少95.14%",
+      "quote": "销售模式 经销商 营业收入 1,181.83 营业成本 1,114.97 毛利率（%） 5.66 营业收入比上年增减（%） -95.14"
+    },
+    {
+      "name": "团购商",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,731.42万元",
+      "revenue_proportion": "45%",
+      "gross_margin": "79.25%",
+      "yoy_change": "收入比上年同期减少9.39%",
+      "quote": "销售模式 团购商 营业收入 1,731.42 营业成本 359.25 毛利率（%） 79.25 营业收入比上年增减（%） -9.39"
+    },
+    {
+      "name": "线上直营店",
+      "segment_type": "sales_channel",
+      "revenue_amount": "942.60万元",
+      "revenue_proportion": "24%",
+      "gross_margin": "14.78%",
+      "yoy_change": "收入比上年同期增加62.21%",
+      "quote": "销售模式 线上直营店 营业收入 942.60 营业成本 803.26 毛利率（%） 14.78 营业收入比上年增减（%） 62.21"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "2,079.14万元",
+      "revenue_proportion": "53.92%",
+      "gross_margin": "42.27%",
+      "yoy_change": "收入比上年同期减少81.01%",
+      "quote": "区域情况 区域名称 华东 本期销售收入 2,079.14 上期销售 10,946.66 本期占比（%） 53.92 毛利率（%） 42.27 营业收入比上年增减（%） -81.01"
+    },
+    {
+      "name": "华中",
+      "segment_type": "region",
+      "revenue_amount": "1,156.25万元",
+      "revenue_proportion": "29.99%",
+      "gross_margin": "39.81%",
+      "yoy_change": "收入比上年同期减少75.89%",
+      "quote": "区域情况 区域名称 华中 本期销售 1,156.25 上期销售 4,796.06 本期占比（%） 29.99 毛利率（%） 39.81 营业收入比上年增减（%） -75.89"
+    },
+    {
+      "name": "华南",
+      "segment_type": "region",
+      "revenue_amount": "374.56万元",
+      "revenue_proportion": "9.71%",
+      "gross_margin": "41.20%",
+      "yoy_change": "收入比上年同期减少92.55%",
+      "quote": "区域情况 区域名称 华南 本期销售 374.56 上期销售 5,031.05 本期占比（%） 9.71 毛利率（%） 41.20 营业收入比上年增减（%） -92.55"
+    },
+    {
+      "name": "高档白酒",
+      "segment_type": "product_line",
+      "revenue_amount": "1,234.69万元",
+      "revenue_proportion": null,
+      "gross_margin": "78.49%",
+      "yoy_change": "收入比上年同期减少88.24%",
+      "quote": "按产品档次 高档 营业收入 1,234.69 同比（%） -88.24 毛利率（%） 78.49 同比（%） -9.43"
+    },
+    {
+      "name": "中档白酒",
+      "segment_type": "product_line",
+      "revenue_amount": "2,552.74万元",
+      "revenue_proportion": null,
+      "gross_margin": "23.66%",
+      "yoy_change": "收入比上年同期减少75.46%",
+      "quote": "按产品档次 中档 营业收入 2,552.74 同比（%） -75.46 毛利率（%） 23.66 同比（%） -44.07"
+    },
+    {
+      "name": "低档白酒",
+      "segment_type": "product_line",
+      "revenue_amount": "66.23万元",
+      "revenue_proportion": null,
+      "gross_margin": "7.82%",
+      "yoy_change": "收入比上年同期减少98.88%",
+      "quote": "按产品档次 低档 营业收入 66.23 同比（%） -98.88 毛利率（%） 7.82 同比（%） -15.75"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "酱香白酒",
+      "metric_type": "capacity",
+      "value": "1500吨/年（设计产能）",
+      "period": "2025年",
+      "quote": "主要工厂名称 设计产能 实际产能 贵州高酱酒业有限公司 1500吨/年 1600吨/年"
+    },
+    {
+      "product": "酱香白酒",
+      "metric_type": "production_volume",
+      "value": "1600吨/年",
+      "period": "2025年",
+      "quote": "主要工厂名称 设计产能 实际产能 贵州高酱酒业有限公司 1500吨/年 1600吨/年"
+    },
+    {
+      "product": "白酒（合计）",
+      "metric_type": "production_volume",
+      "value": "27.16千升",
+      "period": "2025年",
+      "quote": "产销量情况分析表 主要产品 白酒（合计） 生产量 27.16千升"
+    },
+    {
+      "product": "白酒（合计）",
+      "metric_type": "sales_volume",
+      "value": "183.70千升",
+      "period": "2025年",
+      "quote": "产销量情况分析表 主要产品 白酒（合计） 销售量 183.70千升"
+    },
+    {
+      "product": "白酒（合计）",
+      "metric_type": "inventory_volume",
+      "value": "838.67千升（成品酒）",
+      "period": "2025年末",
+      "quote": "产品期末库存量 成品酒 838.67"
+    },
+    {
+      "product": "半成品酒（基酒）",
+      "metric_type": "inventory_volume",
+      "value": "6,609.14千升",
+      "period": "2025年末",
+      "quote": "产品期末库存量 半成品酒（含基础酒） 6,609.14"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "酱香白酒技改、扩产工程",
+      "project_type": "capacity_expansion",
+      "location": "贵州省仁怀市（推测）",
+      "investment_amount": "169,252.34万元（计划投资）",
+      "designed_capacity": "8500吨/年",
+      "progress": "报告期内投资5,646.63万元，累积投资96,512.33万元",
+      "expected_completion_time": null,
+      "quote": "在建产能名称 酱香白酒技改、扩产工程 计划投资金额 169,252.34 报告期内投资金额 5,646.63 累积投资金额 96,512.33 注1：该酱香白酒技改扩产工程设计产能为8500吨/年"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“12987大曲坤沙”工艺",
+      "asset_type": "process_technology",
+      "related_product": "酱香型白酒",
+      "quantitative_info": null,
+      "quote": "公司依托位于中国酱香白酒核心产区贵州仁怀的高酱酒厂，在严格遵循“12987大曲坤沙”和“四高两长”古法酿造工艺的同时"
+    },
+    {
+      "name": "“四高两长”古法酿造工艺",
+      "asset_type": "process_technology",
+      "related_product": "酱香型白酒",
+      "quantitative_info": null,
+      "quote": "公司依托位于中国酱香白酒核心产区贵州仁怀的高酱酒厂，在严格遵循“12987大曲坤沙”和“四高两长”古法酿造工艺的同时"
+    },
+    {
+      "name": "贵州仁怀酱香白酒核心产区",
+      "asset_type": "certification",
+      "related_product": "酱香型白酒",
+      "quantitative_info": null,
+      "quote": "公司酒厂贵州高酱位于中国酱香型白酒产区贵州仁怀的茶房坳1号，处于六重生态圈包围的赤水河谷，坐拥得天独厚的高品质酱酒生产环境。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "1,682.02万元，占年度销售总额43.62%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额1,682.02万元，占年度销售总额43.62%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "11,573.94万元，占年度采购总额94.66%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额11,573.94万元，占年度采购总额94.66%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "白酒市场份额呈现出向知名度较高、影响力较强的龙头企业集中的趋势。如果公司在品牌声誉、产品品质、勾调工艺、渠道营销等方面不能紧跟市场需求，未来市场份额将面临被竞争者挤压的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、白酒市场竞争风险。白酒市场属于完全竞争市场，随着行业竞争加剧，白酒市场份额呈现出向知名度较高、影响力较强的龙头企业集中的趋势。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "白酒行业受宏观经济影响较大，若未来我国国民经济增速明显放缓，白酒消费需求萎缩，公司经营业绩将面临大幅下滑的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、行业环境变化风险。白酒行业受宏观经济影响较大，若未来我国国民经济增速明显放缓，白酒消费需求萎缩，公司经营业绩将面临大幅下滑的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "消费者消费习惯可能发生转变，导致酱香型白酒市场份额下降，如果公司不能及时调整产品适应消费习惯转变，生产经营会受到不利影响。",
+      "related_entity": null,
+      "related_product": "酱香型白酒",
+      "quote": "3、消费习惯转变的风险。目前酱香型白酒在酒精饮料高端消费中占据着主导地位，如果消费者消费习惯发生转变，可能导致酱香型白酒市场份额的下降"
+    },
+    {
+      "risk_type": "other",
+      "description": "贵州高酱可能面临来自原材料采购、食品安全、环境保护等相关的各类生产经营风险，以及受资金紧张影响，项目建设未能如期推进的风险。",
+      "related_entity": "贵州高酱酒业有限公司",
+      "related_product": null,
+      "quote": "4、生产经营中可能面临的风险。贵州高酱作为大曲酱香酒的生产企业，可能面临着来自原材料采购、食品安全、环境保护等相关的各类生产经营风险，以及受资金紧张影响，项目建设未能如期推进的风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "报告期内经销商关系受挫，传统经销商渠道拓展滞缓。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "从2023年年末开始，受多方面因素影响，公司资金承压，相关权益无法兑现，市场投放减少。同时叠加公司实际控制人被公安机关采取强制措施和控股股东及其一致行动人所持公司股票被司法冻结等一系列事件影响，经销商关系受挫，传统经销商渠道拓展滞缓。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司持续受多方面因素影响，公司资金承压，市场投放减少。叠加公司实际控制人被公安机关采取强制措施和控股股东及其一致行动人所持公司股票被司法冻结等一系列事件影响，导致公司营业收入与去年同期相比大幅减少。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年持续受多方面因素影响，公司资金承压，市场投放减少。叠加公司实际控制人被公安机关采取强制措施和控股股东及其一致行动人所持公司股票被司法冻结等一系列事件影响，经销商对于补货、备货持更加审慎观望态度，导致公司营业收入与去年同期相比大幅减少。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司实际控制人韩啸先生因海银财富管理有限公司涉嫌非法集资被公安机关采取刑事强制措施。",
+      "related_entity": "韩啸",
+      "related_product": null,
+      "quote": "公司实际控制人韩啸先生因海银财富管理有限公司涉嫌非法集资被公安机关采取刑事强制措施"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司控股股东及其一致行动人所持公司股票被司法冻结。",
+      "related_entity": "上海贵酒企业发展有限公司",
+      "related_product": null,
+      "quote": "控股股东及其一致行动人所持公司股票被司法冻结"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司涉诉案件数量众多，大部分涉诉案件处于调解/判决待付款或强制执行阶段，部分诉讼案件判决金额与账面记录负债差异较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）如财务报表附注十五、3、（4）所述，君道酒公司涉诉案件数量众多，大部分涉诉案件处于调解/判决待付款或强制执行阶段，但君道酒公司未按照调解协议/判决书履行或执行程序暂未终结；部分诉讼案件判决金额与账面记录负债差异较大"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司2025年度经审计的扣除与主营业务无关的业务收入和不具备商业实质的收入后的营业收入低于3亿元，且扣除非经常性损益前后的净利润均为负；公司2025年财务报告被出具了保留意见，内部控制报告被出具了否定意见。根据《股票上市规则》相关规定，公司股票触及财务类退市情形将被终止上市。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司2025年度经审计的扣除与主营业务无关的业务收入和不具备商业实质的收入后的营业收入低于3亿元，且扣除非经常性损益前后的净利润均为负；公司2025年财务报告被出具了保留意见，内部控制报告被出具了否定意见。根据《股票上市规则》第9.3.1条、9.3.2条及9.3.7条之规定，公司股票触及财务类退市情形将被终止上市。"
+    }
+  ]
+}

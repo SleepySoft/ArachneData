@@ -1,0 +1,475 @@
+{
+  "company_name_mentioned": "江苏永鼎股份有限公司",
+  "produces": [
+    {
+      "name": "光棒、光纤、光缆",
+      "type": "material",
+      "revenue_proportion": "光通信产品营收998,996,380.48元，占总营收约19.30%",
+      "quote": "公司主要产品涵盖光纤预制棒、通信光纤、特种光纤、通信光缆（含特种光缆、室内光缆、蝶形光缆）、光电复合缆、通信电缆及数据电缆等全系列光通信产品。"
+    },
+    {
+      "name": "光芯片、光器件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司构建了覆盖“芯片-光器件-MPO”的全产业链体系，具备国内稀缺的IDM（集成器件制造）激光器FAB（晶圆制造）工厂。核心业务聚焦于三大类产品：激光器芯片及器件...；无源光器件...；混合集成方案..."
+    },
+    {
+      "name": "软件开发业务（智能数据采集、分析及可视化）",
+      "type": "software",
+      "revenue_proportion": "大数据应用营收48,360,561.65元，占总营收约0.94%",
+      "quote": "公司是国内智能数据采集、安全分析及可视化解决方案提供商，主营业务涵盖智能数据网络采集分析、数据信息安全防护及大数据智能应用的研发、销售与全生命周期技术服务。"
+    },
+    {
+      "name": "汽车高低压整车线束",
+      "type": "component",
+      "revenue_proportion": "汽车线束产品营收1,875,251,944.86元，占总营收约36.31%",
+      "quote": "公司主营汽车高低压整车线束的设计、生产及销售。产品线覆盖整车主要线束系统，包括：车身总成线束、仪表板线束、门控系统线束...新能源高压线束、电池包线束及特种线束等。"
+    },
+    {
+      "name": "第二代高温超导带材",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司专注于第二代高温超导带材及应用产品的研发、生产与销售...核心产品第二代高温超导带材采用IBAD（离子束辅助沉积）+MOCVD（金属有机化合物化学气相沉积）技术路线..."
+    },
+    {
+      "name": "电线电缆",
+      "type": "material",
+      "revenue_proportion": "超导及铜导体（含线缆）产品营收840,997,613.57元，占总营收约16.29%",
+      "quote": "公司线缆品类丰富，产品广泛应用于电力系统、智能楼宇综合布线、5G/4G移动通信数据中心、安防监控等领域。产品覆盖射频电缆、泄漏电缆、工业控制电缆、计算机电缆、光伏电缆、风能电缆、储能电缆..."
+    },
+    {
+      "name": "海外电力工程总承包服务",
+      "type": "service",
+      "revenue_proportion": "电力工程营收1,380,968,166.37元，占总营收约26.74%",
+      "quote": "公司作为电力工程总承包服务商，专注电站及输变电网领域，提供“设计-采购-施工-调试-运维”全周期一体化解决方案。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "光通信、汽车线束、超导及铜导体等",
+      "cost_proportion": "光通信原材料成本占其总成本69.88%，汽车线束原材料占74.76%，超导及铜导体原材料占91.95%",
+      "quote": "分产品情况成本构成表中，光通信、汽车线束、超导及铜导体各产品原材料成本占比均较高。"
+    },
+    {
+      "name": "前五大供应商采购",
+      "target_product": null,
+      "cost_proportion": "前五名供应商采购额103,175.50万元，占年度采购总额22.44%",
+      "quote": "前五名供应商采购额103,175.50万元，占年度采购总额22.44%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "通信网络",
+      "source_product": "光棒、光纤、光缆、光芯片、光器件",
+      "quote": "应用覆盖四大核心领域：领域 应用场景 通信网络 中国电信、中国移动、中国联通、中国广电等主导的国家重点通信网络建设"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "光棒、光纤、光缆、光芯片、光器件",
+      "quote": "应用覆盖四大核心领域：领域 应用场景 数据中心 数据中心、局域网建设，助力人工智能产业发展"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "汽车高低压整车线束",
+      "quote": "公司客户结构多元，主要涵盖三类：传统整车制造商...新能源汽车制造商（比亚迪、岚图汽车、零跑汽车等）；一级零部件总成客户..."
+    },
+    {
+      "name": "电力系统及基础设施",
+      "source_product": "电线电缆、电力工程服务",
+      "quote": "产品覆盖...电力系统、智能楼宇综合布线、5G/4G移动通信数据中心、安防监控等领域。...公司作为电力工程总承包服务商，专注电站及输变电网领域..."
+    },
+    {
+      "name": "可控核聚变、超导感应加热等前沿科技",
+      "source_product": "第二代高温超导带材",
+      "quote": "目前，产品已成功应用于可控核聚变磁体、超导感应加热、超导磁拉单晶、超导电力装备等关键场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "莫思铭",
+      "role": "董事长，实际控制人之一",
+      "quote": "公司负责人莫思铭...现任永鼎股份董事长，兼任永鼎集团有限公司董事..."
+    },
+    {
+      "name": "路庆海",
+      "role": "总经理，法定代表人",
+      "quote": "现任永鼎股份总经理、江苏永鼎电气有限公司执行董事兼总经理、上海金亭汽车线束有限公司董事兼总经理..."
+    },
+    {
+      "name": "张功军",
+      "role": "董事、副总经理、财务总监",
+      "quote": "现任永鼎股份董事、副总经理、财务总监，兼任永鼎集团有限公司监事长、东部超导科技（苏州）有限公司董事。"
+    },
+    {
+      "name": "张国栋",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "现任永鼎股份董事、副总经理兼董事会秘书，兼任东部超导科技（苏州）有限公司董事兼总经理..."
+    },
+    {
+      "name": "刘延辉",
+      "role": "副总经理",
+      "quote": "现任永鼎股份副总经理，兼任永鼎光通事业部总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "永鼎集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，存在大量关联交易及相互担保。",
+      "quote": "永鼎集团 指 永鼎集团有限公司...公司控股股东为永鼎集团有限公司。"
+    },
+    {
+      "name": "上海东昌投资发展有限公司",
+      "relation_type": "investor",
+      "business_details": "联营企业，公司对其确认大额投资收益，主要源于其房地产业务处置子公司收益。",
+      "quote": "东昌投资 指 上海东昌投资发展有限公司...公司本期对联营企业权益法确认的投资收益28,542.61万元...主要源于联营企业东昌投资的房地产业务板块本期处置项目子公司所产生的收益。"
+    },
+    {
+      "name": "上海金亭汽车线束有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事汽车线束的生产、销售。",
+      "quote": "上海金亭 指 上海金亭汽车线束有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况...上海金亭汽车线束有限公司 子公司 汽车线束的生产、销售"
+    },
+    {
+      "name": "江苏永鼎泰富工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事电力工程业务。",
+      "quote": "永鼎泰富 指 江苏永鼎泰富工程有限公司"
+    },
+    {
+      "name": "东部超导科技（苏州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事高温超导带材研发生产。",
+      "quote": "公司构建了“从芯片到线缆、从传输设备到数据应用”的完整产业生态...东部超导 HF1200系列，是适配可控核聚变场景的千米级REBCO超导带材..."
+    },
+    {
+      "name": "中国科学院系统",
+      "relation_type": "customer",
+      "business_details": "超导带材产品的科研机构客户及战略合作方。",
+      "quote": "公司与中国科学院系统、核工业西南物理研究院、江西联创超导、能量奇点、新奥能源、星环聚能、蔚蓝恒星等科研机构及科技公司保持稳定战略合作。"
+    },
+    {
+      "name": "上汽大众、上汽通用、沃尔沃、UZ AUTO、比亚迪、岚图汽车、零跑汽车、康明斯、华为、延锋国际、安道拓",
+      "relation_type": "customer",
+      "business_details": "汽车线束产品的主要客户。",
+      "quote": "公司客户结构多元，主要涵盖三类：传统整车制造商（上汽大众、上汽通用、沃尔沃、UZ AUTO等）；新能源汽车制造商（比亚迪、岚图汽车、零跑汽车等）；一级零部件总成客户（康明斯商用车发动机、华为、延锋国际、安道拓等）。"
+    },
+    {
+      "name": "小鹏汇天",
+      "relation_type": "customer",
+      "business_details": "飞行汽车领域客户，已建立深度合作。",
+      "quote": "公司积极响应国家低空经济发展战略，与飞行汽车领域领军企业小鹏汇天建立深度合作。"
+    },
+    {
+      "name": "中国电信、中国移动、中国联通、中国广电",
+      "relation_type": "customer",
+      "business_details": "光通信产品在运营商市场的主要客户。",
+      "quote": "国内深耕三十余年，销售网络覆盖30个省级行政区，紧抓“东数西算”机遇，光通信产品稳居三大运营商及互联网头部企业供应链前列。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光通信",
+      "segment_type": "product_line",
+      "revenue_amount": "998,996,380.48元",
+      "revenue_proportion": "19.30% (占主营业务收入)",
+      "gross_margin": "20.77%",
+      "yoy_change": "营收同比下降10.45%，毛利率同比上升4.17个百分点",
+      "quote": "光通信 998,996,380.48 791,539,700.00 20.77 -10.45 -14.92 4.17"
+    },
+    {
+      "name": "汽车线束",
+      "segment_type": "product_line",
+      "revenue_amount": "1,875,251,944.86元",
+      "revenue_proportion": "36.31% (占主营业务收入)",
+      "gross_margin": "11.73%",
+      "yoy_change": "营收同比增长55.47%，毛利率同比下降1.45个百分点",
+      "quote": "汽车线束 1,875,251,944.86 1,655,305,604.78 11.73 55.47 58.06 -1.45"
+    },
+    {
+      "name": "电力工程",
+      "segment_type": "product_line",
+      "revenue_amount": "1,380,968,166.37元",
+      "revenue_proportion": "26.74% (占主营业务收入)",
+      "gross_margin": "9.05%",
+      "yoy_change": "营收同比增长32.72%，毛利率同比下降10.03个百分点",
+      "quote": "电力工程 1,380,968,166.37 1,255,948,025.67 9.05 32.72 49.16 -10.03"
+    },
+    {
+      "name": "大数据应用",
+      "segment_type": "product_line",
+      "revenue_amount": "48,360,561.65元",
+      "revenue_proportion": "0.94% (占主营业务收入)",
+      "gross_margin": "74.88%",
+      "yoy_change": "营收同比下降18.46%，毛利率同比上升12.93个百分点",
+      "quote": "大数据应用 48,360,561.65 12,146,730.90 74.88 -18.46 -46.18 12.93"
+    },
+    {
+      "name": "超导及铜导体",
+      "segment_type": "product_line",
+      "revenue_amount": "840,997,613.57元",
+      "revenue_proportion": "16.29% (占主营业务收入)",
+      "gross_margin": "11.73%",
+      "yoy_change": "营收同比增长43.63%，毛利率同比上升1.13个百分点",
+      "quote": "超导及铜导体 840,997,613.57 742,358,700.19 11.73 43.63 41.81 1.13"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "3,472,868,853.99元",
+      "revenue_proportion": "67.37% (占主营业务收入)",
+      "gross_margin": "14.51%",
+      "yoy_change": "营收同比增长31.95%，毛利率同比上升1.11个百分点",
+      "quote": "境内 3,472,868,853.99 2,969,008,225.01 14.51 31.95 30.26 1.11"
+    },
+    {
+      "name": "海外工程承揽",
+      "segment_type": "region",
+      "revenue_amount": "1,380,175,196.54元",
+      "revenue_proportion": "26.77% (占主营业务收入)",
+      "gross_margin": "9.05%",
+      "yoy_change": "营收同比增长33.34%，毛利率同比下降10.16个百分点",
+      "quote": "海外工程承揽 1,380,175,196.54 1,255,248,269.11 9.05 33.34 50.11 -10.16"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光缆",
+      "metric_type": "production_volume",
+      "value": "519.37万芯公里",
+      "period": "2025年",
+      "quote": "光缆 万芯公里 519.37"
+    },
+    {
+      "product": "光缆",
+      "metric_type": "sales_volume",
+      "value": "532.56万芯公里",
+      "period": "2025年",
+      "quote": "光缆 万芯公里 ... 532.56"
+    },
+    {
+      "product": "光缆",
+      "metric_type": "inventory_volume",
+      "value": "4.40万芯公里",
+      "period": "2025年末",
+      "quote": "光缆 万芯公里 ... 4.40"
+    },
+    {
+      "product": "铜缆",
+      "metric_type": "production_volume",
+      "value": "63.66万对公里",
+      "period": "2025年",
+      "quote": "铜缆 万对公里 63.66"
+    },
+    {
+      "product": "铜缆",
+      "metric_type": "sales_volume",
+      "value": "61.46万对公里",
+      "period": "2025年",
+      "quote": "铜缆 万对公里 ... 61.46"
+    },
+    {
+      "product": "铜缆",
+      "metric_type": "inventory_volume",
+      "value": "5.20万对公里",
+      "period": "2025年末",
+      "quote": "铜缆 万对公里 ... 5.20"
+    },
+    {
+      "product": "汽车线束",
+      "metric_type": "production_volume",
+      "value": "1,751.97万根",
+      "period": "2025年",
+      "quote": "汽车线束 万根 1,751.97"
+    },
+    {
+      "product": "汽车线束",
+      "metric_type": "sales_volume",
+      "value": "1,716.02万根",
+      "period": "2025年",
+      "quote": "汽车线束 万根 ... 1,716.02"
+    },
+    {
+      "product": "汽车线束",
+      "metric_type": "inventory_volume",
+      "value": "153.76万根",
+      "period": "2025年末",
+      "quote": "汽车线束 万根 ... 153.76"
+    },
+    {
+      "product": "高温超导带材",
+      "metric_type": "capacity",
+      "value": "年产能进一步扩充",
+      "period": null,
+      "quote": "公司超导带材年产能进一步扩充，工艺技术进步显著，为产业化落地筑牢根基。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "光芯片产能扩充",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "公司正有序推进产能扩充工作，为规模化批量交付奠定坚实保障。",
+      "expected_completion_time": null,
+      "quote": "公司正有序推进产能扩充工作，为规模化批量交付奠定坚实保障。"
+    },
+    {
+      "name": "高温超导带材产能扩张",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "东部超导持续加大研发投入与产能扩张，现已具备高温超导带材规模化供应能力。",
+      "expected_completion_time": null,
+      "quote": "东部超导持续加大研发投入与产能扩张，现已具备高温超导带材规模化供应能力，业务整体处于快速发展期。"
+    },
+    {
+      "name": "孟加拉国家电网升级项目",
+      "project_type": "construction_project",
+      "location": "孟加拉",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "报告期内公司在孟加拉国家电网升级重大项目进展顺利。",
+      "expected_completion_time": null,
+      "quote": "报告期内公司在孟加拉国家电网升级重大项目进展顺利。"
+    },
+    {
+      "name": "新增海外输变电与水务项目",
+      "project_type": "construction_project",
+      "location": "莱索托、马达加斯加、斯里兰卡及赞比亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "于2025年新中标...8个输变电与水务项目，后续将陆续开工建设。",
+      "expected_completion_time": null,
+      "quote": "于2025年新中标莱索托、马达加斯加、斯里兰卡及赞比亚等国的8个输变电与水务项目，后续将陆续开工建设。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "IDM激光器FAB工厂",
+      "asset_type": "technical_platform",
+      "related_product": "激光器芯片及器件",
+      "quantitative_info": "具备国内稀缺的IDM（集成器件制造）激光器FAB（晶圆制造）工厂",
+      "quote": "公司构建了覆盖“芯片-光器件-MPO”的全产业链体系，具备国内稀缺的IDM（集成器件制造）激光器FAB（晶圆制造）工厂，实现了从衬底材料生长、芯片制程到器件级封装的全流程自主可控。"
+    },
+    {
+      "name": "IBAD+MOCVD技术路线",
+      "asset_type": "process_technology",
+      "related_product": "第二代高温超导带材",
+      "quantitative_info": null,
+      "quote": "核心产品第二代高温超导带材采用IBAD（离子束辅助沉积）+MOCVD（金属有机化合物化学气相沉积）技术路线，结合自主研发的稀土替代及掺杂改性技术..."
+    },
+    {
+      "name": "70mW CW-DFB激光器芯片",
+      "asset_type": "core_technology",
+      "related_product": "激光器芯片",
+      "quantitative_info": null,
+      "quote": "70mW CW-DFB（连续波分布式反馈激光器）与100G EML（电吸收调制激光器）系列器件研发，相关产品均已完成开发、可靠性验证及客户端模块适配。"
+    },
+    {
+      "name": "100G EML芯片系列",
+      "asset_type": "core_technology",
+      "related_product": "激光器芯片",
+      "quantitative_info": null,
+      "quote": "100G EML 则完成 LR（长距）、BIDI（单纤双向）、CWDM4（粗波分复用 4 通道）、Lan-WDM（局域网波分复用）等多波长产品布局..."
+    },
+    {
+      "name": "HF1200系列千米级REBCO超导带材",
+      "asset_type": "core_technology",
+      "related_product": "高温超导带材",
+      "quantitative_info": "12mm宽、长度达1107米，在77K、0T 环境下平均临界电流（Average Ic）达424A；在20K、20T且磁场平行于c轴条件下，临界电流分别达到1299A与1340A。",
+      "quote": "东部超导HF1200系列，是适配可控核聚变场景的千米级REBCO超导带材，其核心性能指标经检测结果为：12mm宽、长度达1107米，在77K、0T 环境下平均临界电流（Average Ic）达424A...该带材两端样品在20K、20T 且磁场平行于c 轴（B∥c）条件下，临界电流分别达到1299A 与1340A..."
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年获授7项发明专利及2项实用新型专利（光棒光纤）；累计获得授权专利131项（发明专利63项），2025年新增5项相关专利（超导带材）。",
+      "quote": "全年获授7项发明专利及2项实用新型专利...截至2025年底，东部超导累计获得授权专利131项（发明专利63项），2025年新增5项相关专利..."
+    },
+    {
+      "name": "苏州市工程技术研究中心",
+      "asset_type": "certification",
+      "related_product": "高温超导带材",
+      "quantitative_info": null,
+      "quote": "资质认证方面，公司成功获批苏州市工程技术研究中心..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "258,411.49万元，占年度销售总额48.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额258,411.49万元，占年度销售总额48.88%；其中前五名客户销售额中关联方销售额0万元，占年度销售总额0% 。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "103,175.50万元，占年度采购总额22.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额103,175.50万元，占年度采购总额22.44%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "在光纤光缆业务板块，客户集中度较高，对运营商市场的依存度显著，非运营商市场的拓展空间亟待进一步挖掘。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司海外业务产品出口多以美元等外币结算，受全球宏观经济、货币政策及地缘政治等因素影响，外汇市场汇率波动加剧。若未来人民币兑美元等主要结算货币汇率出现大幅波动，将导致公司产生汇兑损益，直接影响公司财务状况和经营业绩。",
+      "related_entity": null,
+      "related_product": "电力工程等海外业务",
+      "quote": "1、汇兑风险 公司海外业务产品出口多以美元等外币结算...若未来人民币兑美元等主要结算货币汇率出现大幅波动，将导致公司产生汇兑损益，直接影响公司财务状况和经营业绩。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "当前，全球政治经济格局呈现出深度的复杂性与高度的不确定性。美国对中国高新技术产业的制裁持续升级...严重冲击全球产业链供应链的稳定性。在此大环境下，公司海外项目面临着多重风险，包括但不限于政策合规风险、市场准入壁垒提高等。",
+      "related_entity": null,
+      "related_product": "海外业务",
+      "quote": "2、外部风险 当前，全球政治经济格局呈现出深度的复杂性与高度的不确定性。美国对中国高新技术产业的制裁持续升级...严重冲击全球产业链供应链的稳定性。在此大环境下，公司海外项目面临着多重风险，包括但不限于政策合规风险、市场准入壁垒提高等。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家产业政策的动态调整，如“东数西算”工程对网络基础设施建设需求的重塑、行业准入标准的修订等，可能导致公司在研发资源配置、产能规划与调配、业务扩充计划等方面出现一定程度的滞后。",
+      "related_entity": null,
+      "related_product": "光通信、电力传输等业务",
+      "quote": "3、政策风险 公司始终紧密贴合国家产业政策导向与行业布局规划...国家产业政策的动态调整...可能导致公司在研发资源配置、产能规划与调配、业务扩充计划等方面出现一定程度的滞后。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电信运营商市场招标集采进程延迟，非运营商市场竞争愈发激烈，海外市场不稳定因素增加，这些因素共同导致终端产品价格低于预期，光纤光缆业务业绩的不确定性显著增大。此外，大型央企和外资企业凭借在技术研发、设备设施、资金储备等方面的优势，在市场竞争中占据有利地位。",
+      "related_entity": null,
+      "related_product": "光纤光缆、电线电缆等",
+      "quote": "4、市场风险 电信运营商市场招标集采进程延迟，非运营商市场竞争愈发激烈，海外市场不稳定因素增加，这些因素共同导致终端产品价格低于预期，光纤光缆业务业绩的不确定性显著增大。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "我国电线电缆行业企业数量众多，市场结构高度分散，各厂家及其产品分布广泛且集中度低，竞争影响因素具有高度不确定性。目前，国内绝大多数中低压电缆产品技术附加值较低，市场供需失衡问题较为突出。",
+      "related_entity": null,
+      "related_product": "电线电缆",
+      "quote": "5、竞争风险 我国电线电缆行业企业数量众多，市场结构高度分散...由于中低端电缆产品对设备投资要求相对较低，行业准入门槛不高，企业之间竞争异常激烈..."
+    },
+    {
+      "risk_type": "other",
+      "description": "高端人才流失及梯队建设不及预期的风险。公司正处于从传统线缆制造向“特种光纤-光芯片-光器件-MPO”全产业链布局及超导带材批量化生产关键阶段。若核心技术人员及管理骨干流失，可能影响公司前沿技术的研发进度、产品良率提升及新业务的拓展落地。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、高端人才流失及梯队建设不及预期的风险 公司作为光通信与电力传输领域的深耕者...若公司未来在薪酬激励机制、企业文化建设或职业发展通道等方面无法持续保持竞争力，可能导致核心技术人员及管理骨干流失..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司存在为控股股东及子公司提供大额担保的情况，担保总额占公司净资产的比例较高。",
+      "related_entity": "永鼎集团有限公司及子公司",
+      "related_product": null,
+      "quote": "公司对外担保情况（不包括对子公司的担保）...报告期末担保余额合计（A）（不包括对子公司的担保）83,080...公司及其子公司对子公司的担保情况...报告期末对子公司担保余额合计（B）196,153.48...担保总额（A+B）279,233.48...担保总额占公司净资产的比例(%) 87.89"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "company_name_mentioned": "蜂助手股份有限公司",
+  "produces": [
+    {
+      "name": "数字商品综合运营服务",
+      "type": "service",
+      "revenue_proportion": "89.97%",
+      "quote": "分产品数字商品综合运营1,880,299,223.44...占营业收入比重89.97%"
+    },
+    {
+      "name": "物联网流量运营及解决方案",
+      "type": "service",
+      "revenue_proportion": "6.56%",
+      "quote": "分产品物联网流量运营及解决方案137,031,057.65...占营业收入比重6.56%"
+    },
+    {
+      "name": "云终端技术及云服务",
+      "type": "technology",
+      "revenue_proportion": "2.69%",
+      "quote": "分产品云终端技术及云服务56,126,981.11...占营业收入比重2.69%"
+    },
+    {
+      "name": "技术服务",
+      "type": "service",
+      "revenue_proportion": "0.44%",
+      "quote": "分产品技术服务9,170,811.87...占营业收入比重0.44%"
+    },
+    {
+      "name": "5G CPE、5G MiFi、家庭融合网关、AI终端等物联网硬件产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "大力研发MIFI、CPE、CPE机顶盒、DTU、家庭融合网关及AI终端等多元产品。"
+    },
+    {
+      "name": "云终端算力底座产品（基于ARM架构）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司基于ARM架构的国产大核CPU芯片，通过部署通用算力中心，建立灵活运营、成本优势明显的IaaS算力底座"
+    },
+    {
+      "name": "云手机（游戏云手机、营销云手机、工作云手机等）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "重点布局游戏云手机、营销云手机以及海外云手机等市场，成功直签运营商客户并落地多类客户合作"
+    },
+    {
+      "name": "蜂助手数字商品交易云平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "通过自主开发的蜂助手数字商品交易云平台，为移动互联网相关行业客户提供数字化虚拟商品聚合运营、融合运营、产品独家代理等服务。"
+    },
+    {
+      "name": "多网融合通信调度技术产品（多网融合模组等）",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "构建多网融合通信调度技术体系，推出多网融合模组产品（支持4G+4G、4G双通道、4G+5G）"
+    }
+  ],
+  "procures": [
+    {
+      "name": "信息服务费（数字商品采购或服务成本）",
+      "target_product": "数字商品综合运营",
+      "cost_proportion": "94.29%",
+      "quote": "互联网和相关服务业项目信息服务费...占营业成本比重94.29%"
+    },
+    {
+      "name": "芯片、模组等硬件元器件",
+      "target_product": "物联网硬件产品、云终端产品",
+      "cost_proportion": null,
+      "quote": "公司基于ARM架构的国产大核CPU芯片...基于展锐UIS8310模组"
+    }
+  ],
+  "applications": [
+    {
+      "name": "移动互联网应用（运营商、银行、手机厂商等渠道的APP）",
+      "source_product": "数字商品综合运营服务",
+      "quote": "为移动互联网相关行业客户提供数字化虚拟商品聚合运营...助力行业应用APP“拉新、促活、提升GMV”"
+    },
+    {
+      "name": "家庭、门店、中小企业等无线替代有线应用场景",
+      "source_product": "物联网流量运营及解决方案",
+      "quote": "以硬件为依托，构建流量运营商业模式，重点开拓家庭、门店与中小企业等无线替代有线的应用场景。"
+    },
+    {
+      "name": "云应用、云游戏、AI泛终端等终端云服务市场",
+      "source_product": "云终端技术及云服务",
+      "quote": "相关产品可广泛应用于云应用、云游戏、AI泛终端等终端云服务市场。"
+    },
+    {
+      "name": "共享经济、新零售、智慧金融、安防监控、行业监测、车联网等物联网场景",
+      "source_product": "物联网中小流量场景解决方案、物联网大流量场景解决方案",
+      "quote": "可满足共享经济、新零售、智慧金融、安防监控、行业监测、车联网、电梯监管、新能源充电等多行业的物联网中小流量场景需求"
+    },
+    {
+      "name": "城市级智慧停车系统、室内高精度定位系统、公务车智能化运营管理、二次供水智慧泵房监测、AI智能家居等",
+      "source_product": "物联网场景解决方案",
+      "quote": "公司持续投入研发物联网解决方案，在原有城市级智慧停车系统运营方案、室内高精度定位系统解决方案、公务车智能化运营管理方案基础上，新增二次供水智慧泵房监测系统方案、AI智能家居解决方案等场景解决方案。"
+    },
+    {
+      "name": "游戏、医药销售、金融、MCN机构等领域",
+      "source_product": "云终端技术及云服务",
+      "quote": "目前产品已投入商用，并持续扩大客户群体。目前已与多家ISV厂商开展合作，面向游戏、医药销售、金融、MCN机构等领域推出云终端产品"
+    },
+    {
+      "name": "航空客舱蜂窝上网娱乐",
+      "source_product": "飞机客舱蜂窝上网娱乐新业务",
+      "quote": "前瞻性布局“飞机客舱蜂窝上网娱乐”新业务板块，其中，“飞机客舱蜂窝上网娱乐”新业务板块现阶段主要开展技术研发与市场拓展筹备"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "罗洪鹏",
+      "role": "法定代表人、控股股东、实际控制人、董事长、总经理",
+      "quote": "公司负责人罗洪鹏、主管会计工作负责人邱丽莹及会计机构负责人(会计主管人员)余咏琴声明...控股股东、实际控制人指罗洪鹏"
+    },
+    {
+      "name": "邱丽莹",
+      "role": "主管会计工作负责人、副总经理、财务总监",
+      "quote": "主管会计工作负责人邱丽莹...2015年9月至今担任公司财务总监；2025年4月至今担任公司副总经理。"
+    },
+    {
+      "name": "韦子军",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事会秘书韦子军...2018年8月至今在公司担任董事、副总经理、董事会秘书。"
+    },
+    {
+      "name": "区锦棠",
+      "role": "职工董事、副总经理",
+      "quote": "区锦棠...2025年12月2日，公司完成职工董事选举工作...选举区锦棠先生为公司第四届董事会职工董事，任期自职工代表大会选举之日起至第四届董事会任期届满之日止"
+    },
+    {
+      "name": "丁惊雷",
+      "role": "董事、副总经理",
+      "quote": "丁惊雷...2018年8月至今担任公司董事、副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广州零世纪信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "聚合运营服务、融合运营服务",
+      "quote": "广州零世纪指广州零世纪信息科技有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况...主要业务聚合运营服务、融合运营服务"
+    },
+    {
+      "name": "广州助蜂网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "提供物联网产品、物联网技术服务",
+      "quote": "广州助蜂指广州助蜂网络科技有限公司...主要业务提供物联网产品、物联网技术服务"
+    },
+    {
+      "name": "深圳同益边算技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "聚合运营服务、融合运营服务",
+      "quote": "同益边算指深圳同益边算技术有限公司...主要业务聚合运营服务、融合运营服务"
+    },
+    {
+      "name": "海峡创新互联网股份有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东",
+      "quote": "海峡创新指海峡创新互联网股份有限公司，系公司持股5%以上股东"
+    },
+    {
+      "name": "广州蜂助手创业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "系公司股东、公司员工持股平台、公司持股5%以上股东",
+      "quote": "蜂助手创业投资指广州蜂助手创业投资合伙企业（有限合伙）...系公司股东、公司员工持股平台、公司持股5%以上股东"
+    },
+    {
+      "name": "广州合觅科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司持股25.00%的合资公司，从事智能家居业务",
+      "quote": "公司于2025年3月10日签署《投资合作协议》，共同投资设立合资公司广州合觅科技有限公司，公司持股25.00%"
+    },
+    {
+      "name": "广东丰当科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "通信运营，公司持股70.00%（后增至100%）",
+      "quote": "公司于2025年6月11日召开第四届董事会第六次会议，审议通过了《关于购买控股子公司股权的议案》，本次...后公司持有广东丰当科技有限公司（以下简称“广东丰当”）的股权由48,300万股上升至69,000万股，占总股本的比例由70%上升至100%。"
+    },
+    {
+      "name": "武汉市驿宝通网络科技有限公司",
+      "relation_type": "customer",
+      "business_details": "公司前五大客户之一",
+      "quote": "公司前5大客户资料...序号5客户名称武汉市驿宝通网络科技有限公司销售额71,826,213.81元占年度销售总额比例3.44%"
+    },
+    {
+      "name": "厦门本悦云达信息科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之一",
+      "quote": "公司前5名供应商资料...序号2供应商名称厦门本悦云达信息科技有限公司采购额264,844,091.97元占年度采购总额比例15.58%"
+    },
+    {
+      "name": "杭州可当科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "公司前五大供应商之一",
+      "quote": "公司前5名供应商资料...序号4供应商名称杭州可当科技有限公司采购额72,203,676.29元占年度采购总额比例4.25%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "数字商品综合运营",
+      "segment_type": "product_line",
+      "revenue_amount": "1,880,299,223.44",
+      "revenue_proportion": "89.97%",
+      "gross_margin": "16.83%",
+      "yoy_change": "41.10%",
+      "quote": "分产品数字商品综合运营1,880,299,223.44...占营业收入比重89.97%...营业收入比上年同期增减41.10%...毛利率16.83%"
+    },
+    {
+      "name": "物联网流量运营及解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "137,031,057.65",
+      "revenue_proportion": "6.56%",
+      "gross_margin": null,
+      "yoy_change": "-3.85%",
+      "quote": "分产品物联网流量运营及解决方案137,031,057.65...占营业收入比重6.56%...营业收入比上年同期增减-3.85%"
+    },
+    {
+      "name": "云终端技术及云服务",
+      "segment_type": "product_line",
+      "revenue_amount": "56,126,981.11",
+      "revenue_proportion": "2.69%",
+      "gross_margin": null,
+      "yoy_change": "13.47%",
+      "quote": "分产品云终端技术及云服务56,126,981.11...占营业收入比重2.69%...营业收入比上年同期增减13.47%"
+    },
+    {
+      "name": "互联网和相关服务行业",
+      "segment_type": "region",
+      "revenue_amount": "2,082,629,871.43",
+      "revenue_proportion": "99.65%",
+      "gross_margin": "18.45%",
+      "yoy_change": "35.45%",
+      "quote": "分行业互联网和相关服务行业2,082,629,871.43...占营业收入比重99.65%...营业收入比上年同期增减35.45%...毛利率18.45%"
+    },
+    {
+      "name": "运营商渠道",
+      "segment_type": "sales_channel",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "持续深耕运营商、银行、手机厂商、物业应用、超级APP五大核心行业渠道"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "5G CPE轻量版",
+      "metric_type": "other",
+      "value": "已推出",
+      "period": "报告期",
+      "quote": "推出5G CPE轻量版、5GMiFi等新品"
+    },
+    {
+      "product": "5G MiFi",
+      "metric_type": "other",
+      "value": "已推出",
+      "period": "报告期",
+      "quote": "推出5G CPE轻量版、5GMiFi等新品"
+    },
+    {
+      "product": "合觅AI智能家居产品",
+      "metric_type": "other",
+      "value": "已落地",
+      "period": "报告期",
+      "quote": "逐渐落地合觅AI智能家居产品、家庭智能网关等战略级产品"
+    },
+    {
+      "product": "家庭智能网关",
+      "metric_type": "other",
+      "value": "已落地",
+      "period": "报告期",
+      "quote": "逐渐落地合觅AI智能家居产品、家庭智能网关等战略级产品"
+    },
+    {
+      "product": "智能钥匙柜、智慧泵房等产品化方案",
+      "metric_type": "other",
+      "value": "已沉淀",
+      "period": "报告期",
+      "quote": "沉淀智能钥匙柜、智慧泵房等产品化方案。"
+    },
+    {
+      "product": "云终端算力中心",
+      "metric_type": "other",
+      "value": "在茂名信宜启动了“云终端算力中心”建设项目",
+      "period": "报告期",
+      "quote": "公司加快推进算力体系建设，在茂名信宜启动了“云终端算力中心”建设项目"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "总部大楼（蜂助手未来科技大厦）建设项目",
+      "project_type": "construction_project",
+      "location": "广州市天河区",
+      "investment_amount": "772,915,794.49",
+      "designed_capacity": null,
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "非股权投资情况...项目名称总部大楼（蜂助手未来科技大厦）建设项目...投资方式自建...报告期内累计实际投入金额772,915,794.49...项目进度建设中"
+    },
+    {
+      "name": "云终端算力中心项目",
+      "project_type": "capacity_expansion",
+      "location": "茂名信宜",
+      "investment_amount": "13,524,524.34",
+      "designed_capacity": null,
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "非股权投资情况...项目名称云终端算力中心项目...投资方式自建...报告期内累计实际投入金额13,524,524.34...项目进度建设中...公司加快推进算力体系建设，在茂名信宜启动了“云终端算力中心”建设项目"
+    },
+    {
+      "name": "2024年限制性股票激励计划",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已实施，部分回购注销",
+      "expected_completion_time": null,
+      "quote": "公司于2025年9月4日在中国证券登记结算有限责任公司深圳分公司办理完成2024年限制性股票激励计划第一类限制性股票的回购注销手续，回购注销266,500股第一类限制性股票。"
+    },
+    {
+      "name": "2025年限制性股票激励计划",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已授予登记",
+      "expected_completion_time": null,
+      "quote": "2025年11月10日，完成2025年限制性股票激励计划第一类限制性股票的授予登记工作。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "多网融合通信调度技术",
+      "asset_type": "core_technology",
+      "related_product": "物联网流量运营及解决方案",
+      "quantitative_info": null,
+      "quote": "物联网流量运营与解决方案板块，公司深耕多网融合通信调度、TPUNB超窄带通信等物联网核心技术"
+    },
+    {
+      "name": "TPUNB超窄带通信技术",
+      "asset_type": "core_technology",
+      "related_product": "物联网流量运营及解决方案",
+      "quantitative_info": null,
+      "quote": "物联网流量运营与解决方案板块，公司深耕多网融合通信调度、TPUNB超窄带通信等物联网核心技术"
+    },
+    {
+      "name": "终端虚拟化技术",
+      "asset_type": "core_technology",
+      "related_product": "云终端技术及云服务",
+      "quantitative_info": null,
+      "quote": "云终端技术和算力运营板块，公司继续加大在“终端虚拟化、云OS、端云协同引擎、算力资源智慧调度引擎”等云终端产品技术上的研发投入"
+    },
+    {
+      "name": "云OS",
+      "asset_type": "core_technology",
+      "related_product": "云终端技术及云服务",
+      "quantitative_info": null,
+      "quote": "云终端技术和算力运营板块，公司继续加大在“终端虚拟化、云OS、端云协同引擎、算力资源智慧调度引擎”等云终端产品技术上的研发投入"
+    },
+    {
+      "name": "端云协同引擎",
+      "asset_type": "core_technology",
+      "related_product": "云终端技术及云服务",
+      "quantitative_info": null,
+      "quote": "云终端技术和算力运营板块，公司继续加大在“终端虚拟化、云OS、端云协同引擎、算力资源智慧调度引擎”等云终端产品技术上的研发投入"
+    },
+    {
+      "name": "算力资源智慧调度引擎",
+      "asset_type": "core_technology",
+      "related_product": "云终端技术及云服务",
+      "quantitative_info": null,
+      "quote": "云终端技术和算力运营板块，公司继续加大在“终端虚拟化、云OS、端云协同引擎、算力资源智慧调度引擎”等云终端产品技术上的研发投入"
+    },
+    {
+      "name": "WiFi6 Mesh组网技术",
+      "asset_type": "core_technology",
+      "related_product": "AI智能家居解决方案",
+      "quantitative_info": null,
+      "quote": "双方围绕WiFi6Mesh组网、多模态用户意图识别大模型、AI推理结果自动化质量评价三大方向协同攻关。"
+    },
+    {
+      "name": "多模态用户意图识别大模型",
+      "asset_type": "core_technology",
+      "related_product": "AI硬件PaaS平台",
+      "quantitative_info": null,
+      "quote": "双方围绕WiFi6Mesh组网、多模态用户意图识别大模型、AI推理结果自动化质量评价三大方向协同攻关。"
+    },
+    {
+      "name": "AI硬件PaaS平台",
+      "asset_type": "technical_platform",
+      "related_product": "AI智能家居解决方案",
+      "quantitative_info": null,
+      "quote": "此外，公司自主研发AI硬件PaaS平台，模型深度适配复杂智能家居语音控制场景"
+    },
+    {
+      "name": "AI泛瘦终端SoC自研芯片",
+      "asset_type": "other",
+      "related_product": "云终端技术及云服务",
+      "quantitative_info": null,
+      "quote": "重点推进AI泛瘦终端SoC自研芯片、5G盒子系列产品、云手机系列产品等核心产品迭代"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "39.96%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例39.96%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司前5大客户资料...序号1客户名称第一名销售额307,378,403.44元占年度销售总额比例14.71%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "51.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例51.51%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "22.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司前5名供应商资料...序号1供应商名称第一名采购额376,836,433.07元占年度采购总额比例22.17%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司核心业务聚焦数字商品、物联网与云终端领域，当前该领域技术迭代节奏持续加快，AI、5G、云计算、窄带通信等核心技术不断突破...倘若公司未能紧跟行业技术前沿...现有产品及服务可能会快速被市场淘汰",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、技术研发风险公司核心业务聚焦数字商品、物联网与云终端领域，当前该领域技术迭代节奏持续加快...倘若公司未能紧跟行业技术前沿，无法及时洞察市场需求变化，研发出契合行业发展趋势与客户需求的新技术、新产品及解决方案，现有产品及服务可能会快速被市场淘汰"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处数字商品运营、物联网流量运营和解决方案、云终端技术和算力运营等领域，行业参与者持续增多，市场竞争日趋激烈...若公司无法持续巩固差异化优势...可能面临市场份额下滑、客户流失、盈利空间压缩的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争风险公司所处数字商品运营、物联网流量运营和解决方案、云终端技术和算力运营等领域，行业参与者持续增多，市场竞争日趋激烈...若公司无法持续巩固差异化优势、提升品牌影响力，可能面临市场份额下滑、客户流失、盈利空间压缩的风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "数字商品、物联网和算力及云终端行业属于高度监管行业...政策导向的变动可能对公司运营产生显著影响。例如，数据安全、个人信息保护相关法规收紧，可能迫使公司增加...资源投入",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、政策法规风险数字商品、物联网和算力及云终端行业属于高度监管行业，受到国家及地方多维度政策法规的严格监管...政策导向的变动可能对公司运营产生显著影响。例如，数据安全、个人信息保护相关法规收紧，可能迫使公司增加数据安全防护、合规审计等方面的资源投入"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司正处于业务快速发展阶段，在技术研发、市场拓展、业务创新及产能建设等环节需持续投入大量资金...若资金投入不足...可能导致研发项目延期...影响公司战略推进与业务增长；若资金投入过量或资金使用效率不高，则可能造成资金闲置、资金链承压，导致公司财务状况恶化",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、财务风险公司正处于业务快速发展阶段，在技术研发、市场拓展、业务创新及产能建设等环节需持续投入大量资金...若资金投入不足，可能导致研发项目延期、新产品落地滞后、市场拓展受阻，影响公司战略推进与业务增长；若资金投入过量或资金使用效率不高，则可能造成资金闲置、资金链承压，导致公司财务状况恶化"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司运营过程中存在一定规模的应收账款...若部分客户出现财务困境、信用状况下滑或经营不善，可能导致应收账款无法按时收回，增加坏账风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "此外，公司运营过程中存在一定规模的应收账款，主要来源于运营商、金融机构、行业客户等合作伙伴。若部分客户出现财务困境、信用状况下滑或经营不善，可能导致应收账款无法按时收回，增加坏账风险"
+    }
+  ]
+}

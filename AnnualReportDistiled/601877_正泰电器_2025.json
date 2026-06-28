@@ -1,0 +1,546 @@
+{
+  "company_name_mentioned": "浙江正泰电器股份有限公司",
+  "produces": [
+    {
+      "name": "配电电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "终端电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "控制电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "电源电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "电子电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "建筑电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "仪器仪表",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "自动化控制系统",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司主要从事配电电器、终端电器、控制电器、电源电器、电子电器、建筑电器和仪器仪表、自动化控制系统的研发、生产和销售"
+    },
+    {
+      "name": "光伏电站开发、建设、运营、运维",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "以及光伏电站开发、建设、运营、运维，EPC工程总包，和BIPV、户用光伏的开发和建设"
+    },
+    {
+      "name": "EPC工程总包",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "以及光伏电站开发、建设、运营、运维，EPC工程总包，和BIPV、户用光伏的开发和建设"
+    },
+    {
+      "name": "逆变器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "以及逆变器和储能的研发、生产和销售等业务"
+    },
+    {
+      "name": "储能系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "以及逆变器和储能的研发、生产和销售等业务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜",
+      "target_product": "低压电器",
+      "cost_proportion": null,
+      "quote": "公司低压电器生产所需主要原材料，铜、银、钢材及塑料等采购成本占产品总成本比重较高"
+    },
+    {
+      "name": "银",
+      "target_product": "低压电器",
+      "cost_proportion": null,
+      "quote": "公司低压电器生产所需主要原材料，铜、银、钢材及塑料等采购成本占产品总成本比重较高"
+    },
+    {
+      "name": "钢材",
+      "target_product": "低压电器",
+      "cost_proportion": null,
+      "quote": "公司低压电器生产所需主要原材料，铜、银、钢材及塑料等采购成本占产品总成本比重较高"
+    },
+    {
+      "name": "塑料",
+      "target_product": "低压电器",
+      "cost_proportion": null,
+      "quote": "公司低压电器生产所需主要原材料，铜、银、钢材及塑料等采购成本占产品总成本比重较高"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力",
+      "source_product": "低压电器",
+      "quote": "低压电器产品具有量大面广、品种繁多的特点，广泛应用于电力、工业、基建等领域"
+    },
+    {
+      "name": "工业",
+      "source_product": "低压电器",
+      "quote": "低压电器产品具有量大面广、品种繁多的特点，广泛应用于电力、工业、基建等领域"
+    },
+    {
+      "name": "基建",
+      "source_product": "低压电器",
+      "quote": "低压电器产品具有量大面广、品种繁多的特点，广泛应用于电力、工业、基建等领域"
+    },
+    {
+      "name": "光伏发电",
+      "source_product": "低压电器/光伏产品",
+      "quote": "正泰E系列产品专为新能源严苛环境设计...为光伏发电、风力发电、新型储能、充电站等关键领域，提供强大而可靠的技术与解决方案"
+    },
+    {
+      "name": "风力发电",
+      "source_product": "低压电器",
+      "quote": "正泰E系列产品专为新能源严苛环境设计...为光伏发电、风力发电、新型储能、充电站等关键领域，提供强大而可靠的技术与解决方案"
+    },
+    {
+      "name": "新型储能",
+      "source_product": "低压电器/储能系统",
+      "quote": "正泰E系列产品专为新能源严苛环境设计...为光伏发电、风力发电、新型储能、充电站等关键领域，提供强大而可靠的技术与解决方案"
+    },
+    {
+      "name": "充电站",
+      "source_product": "低压电器",
+      "quote": "正泰E系列产品专为新能源严苛环境设计...为光伏发电、风力发电、新型储能、充电站等关键领域，提供强大而可靠的技术与解决方案"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "低压电器",
+      "quote": "获得淡马锡、华为等数据中心标志性项目，以及新加坡政府基建、工业园等项目"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "低压电器",
+      "quote": "轨交系列产品突破行业应用瓶颈，通过ISO/TS22163铁路质量体系认证，性能与结构优势显著，全面满足新一代高铁应用需求"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "南存辉",
+      "role": "董事长",
+      "quote": "公司负责人南存辉、主管会计工作负责人林贻明及会计机构负责人（会计主管人员）林贻明声明"
+    },
+    {
+      "name": "林贻明",
+      "role": "主管会计工作负责人、会计机构负责人",
+      "quote": "公司负责人南存辉、主管会计工作负责人林贻明及会计机构负责人（会计主管人员）林贻明声明"
+    },
+    {
+      "name": "潘洁",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 潘洁 朱鸿超"
+    },
+    {
+      "name": "陈国良",
+      "role": "董事、总裁",
+      "quote": "姓名 职务 年龄 ... 陈国良 董事、总裁 男 63"
+    },
+    {
+      "name": "陆川",
+      "role": "董事",
+      "quote": "姓名 职务 年龄 ... 陆川 董事 男 45"
+    },
+    {
+      "name": "南尔",
+      "role": "董事、副总裁",
+      "quote": "姓名 职务 年龄 ... 南尔 董事、副总裁 男 43"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "正泰集团股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "正泰集团 指 正泰集团股份有限公司"
+    },
+    {
+      "name": "浙江正泰新能源开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事光伏电站开发等",
+      "quote": "正泰新能源、新能源开发 指 浙江正泰新能源开发有限公司"
+    },
+    {
+      "name": "正泰安能数字能源（浙江）股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事户用光伏电站建设与运营服务",
+      "quote": "正泰安能 指 正泰安能数字能源（浙江）股份有限公司"
+    },
+    {
+      "name": "江苏正泰电源科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事逆变器和储能业务",
+      "quote": "正泰电源、通润装备 指 江苏正泰电源科技股份有限公司"
+    },
+    {
+      "name": "华为",
+      "relation_type": "customer",
+      "business_details": "数据中心项目客户",
+      "quote": "获得淡马锡、华为等数据中心标志性项目"
+    },
+    {
+      "name": "现代集团",
+      "relation_type": "customer",
+      "business_details": "战略合作伙伴，工商业光伏领域客户",
+      "quote": "持续深化与战略合作伙伴现代集团协同关系，不断巩固和扩大工商业光伏领域客户基础"
+    },
+    {
+      "name": "德凯质量测试服务（浙江）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联公司",
+      "quote": "德凯测试 指 德凯质量测试服务（浙江）有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智慧电器产业",
+      "segment_type": "business_unit",
+      "revenue_amount": "227.36亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "4.76%",
+      "quote": "报告期内，智慧电器产业实现营业收入227.36亿元，同比增长4.76%"
+    },
+    {
+      "name": "低压电器",
+      "segment_type": "product_line",
+      "revenue_amount": "2,191,867.81万元",
+      "revenue_proportion": null,
+      "gross_margin": "28.62%",
+      "yoy_change": "4.76%",
+      "quote": "低压电器 2,191,867.81 1,564,652.84 28.62 4.76 6.82"
+    },
+    {
+      "name": "光伏业务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,627,445.48万元",
+      "revenue_proportion": null,
+      "gross_margin": "24.29%",
+      "yoy_change": "-15.62%",
+      "quote": "光伏业务 3,627,445.48 2,746,295.73 24.29 -15.62 -19.88"
+    },
+    {
+      "name": "逆变器及储能",
+      "segment_type": "product_line",
+      "revenue_amount": "239,007.46万元",
+      "revenue_proportion": null,
+      "gross_margin": "33.55%",
+      "yoy_change": "45.18%",
+      "quote": "逆变器及储能 239,007.46 158,828.89 33.55 45.18 45.90 -0.33"
+    },
+    {
+      "name": "电站运营",
+      "segment_type": "product_line",
+      "revenue_amount": "1,103,594.17万元",
+      "revenue_proportion": null,
+      "gross_margin": "53.04%",
+      "yoy_change": "40.13%",
+      "quote": "电站运营 1,103,594.17 518,302.10 53.04 40.13 33.05 2.50"
+    },
+    {
+      "name": "户用光伏电站开发运营",
+      "segment_type": "product_line",
+      "revenue_amount": "996,000.47万元",
+      "revenue_proportion": null,
+      "gross_margin": "56.00%",
+      "yoy_change": "47.09%",
+      "quote": "户用光伏电站开发运营 996,000.47 438,267.52 56.00 47.09 38.58 2.70"
+    },
+    {
+      "name": "户用光伏电站销售-向第三方投资者",
+      "segment_type": "product_line",
+      "revenue_amount": "1,830,710.28万元",
+      "revenue_proportion": null,
+      "gross_margin": "6.65%",
+      "yoy_change": "-26.11%",
+      "quote": "户用光伏电站销售-向第三方投资者 1,830,710.28 1,708,963.23 6.65 -26.11 -22.53 -4.32"
+    },
+    {
+      "name": "海外",
+      "segment_type": "region",
+      "revenue_amount": "995,079.64万元",
+      "revenue_proportion": null,
+      "gross_margin": "33.57%",
+      "yoy_change": "-0.97%",
+      "quote": "海外 995,079.64 661,019.67 33.57 -0.97 -6.36 3.83"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "配电电器",
+      "metric_type": "production_volume",
+      "value": "8,295.41 万台",
+      "period": "2025年",
+      "quote": "配电电器 万台 8,295.41 8,330.52 247.85 -3.06 -3.61 -12.41"
+    },
+    {
+      "product": "配电电器",
+      "metric_type": "sales_volume",
+      "value": "8,330.52 万台",
+      "period": "2025年",
+      "quote": "配电电器 万台 8,295.41 8,330.52 247.85 -3.06 -3.61 -12.41"
+    },
+    {
+      "product": "终端电器",
+      "metric_type": "production_volume",
+      "value": "39,408.26 万台",
+      "period": "2025年",
+      "quote": "终端电器 万台 39,408.26 42,918.28 5,641.01 -14.34 -4.92 -38.36"
+    },
+    {
+      "product": "终端电器",
+      "metric_type": "sales_volume",
+      "value": "42,918.28 万台",
+      "period": "2025年",
+      "quote": "终端电器 万台 39,408.26 42,918.28 5,641.01 -14.34 -4.92 -38.36"
+    },
+    {
+      "product": "控制电器",
+      "metric_type": "production_volume",
+      "value": "21,474.34 万台",
+      "period": "2025年",
+      "quote": "控制电器 万台 21,474.34 21,559.80 281.10 4.25 4.73 -23.31"
+    },
+    {
+      "product": "控制电器",
+      "metric_type": "sales_volume",
+      "value": "21,559.80 万台",
+      "period": "2025年",
+      "quote": "控制电器 万台 21,474.34 21,559.80 281.10 4.25 4.73 -23.31"
+    },
+    {
+      "product": "逆变器及储能",
+      "metric_type": "production_volume",
+      "value": "14.33 万台",
+      "period": "2025年",
+      "quote": "逆变器及储能 万台 14.33 15.19 5.29 -28.00 -10.27 -13.88"
+    },
+    {
+      "product": "逆变器及储能",
+      "metric_type": "sales_volume",
+      "value": "15.19 万台",
+      "period": "2025年",
+      "quote": "逆变器及储能 万台 14.33 15.19 5.29 -28.00 -10.27 -13.88"
+    },
+    {
+      "product": "逆变器",
+      "metric_type": "capacity",
+      "value": "18GW (在建)",
+      "period": "报告期末",
+      "quote": "逆变器 6,224.52MW 70.57% 44,594 1,075.01 18GW"
+    },
+    {
+      "product": "储能系统",
+      "metric_type": "capacity",
+      "value": "5GWh (在建)",
+      "period": "报告期末",
+      "quote": "储能系统 767.20MWh 96.69% 10,463 252.23 5GWh"
+    },
+    {
+      "product": "正泰安能户用光伏电站",
+      "metric_type": "capacity",
+      "value": "约27GW",
+      "period": "报告期末",
+      "quote": "报告期末持有电站装机容量约27GW"
+    },
+    {
+      "product": "正泰安能户用光伏电站",
+      "metric_type": "production_volume",
+      "value": "新增装机容量超14GW",
+      "period": "2025年度",
+      "quote": "新增装机容量超14GW"
+    },
+    {
+      "product": "正泰安能户用光伏电站",
+      "metric_type": "sales_volume",
+      "value": "电站交易规模超7GW",
+      "period": "2025年度",
+      "quote": "电站交易规模超7GW"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "逆变器产能扩充项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "44,594 万元",
+      "designed_capacity": "18GW",
+      "progress": "在建",
+      "expected_completion_time": "产线投建之日起2年",
+      "quote": "逆变器 6,224.52MW 70.57% 44,594 1,075.01 18GW 产线投建之日起2年"
+    },
+    {
+      "name": "储能系统产能扩充项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "10,463 万元",
+      "designed_capacity": "5GWh",
+      "progress": "在建",
+      "expected_completion_time": "产线投建之日起2年",
+      "quote": "储能系统 767.20MWh 96.69% 10,463 252.23 5GWh 产线投建之日起2年"
+    },
+    {
+      "name": "光伏电站开发项目（项目A）",
+      "project_type": "construction_project",
+      "location": "浙江",
+      "investment_amount": "39,780.93 万元",
+      "designed_capacity": "207.80 MW",
+      "progress": "完工",
+      "expected_completion_time": "19个月",
+      "quote": "项目A 浙江 207.80 19个月 完工 39,780.93"
+    },
+    {
+      "name": "光伏电站开发项目（项目B）",
+      "project_type": "construction_project",
+      "location": "山西",
+      "investment_amount": "9,817.45 万元",
+      "designed_capacity": "48.00 MW",
+      "progress": "完工",
+      "expected_completion_time": "13个月",
+      "quote": "项目B 山西 48.00 13个月 完工 9,817.45"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "AI智能框架控制系统",
+      "asset_type": "core_technology",
+      "related_product": "低压电器",
+      "quantitative_info": null,
+      "quote": "在电网推出全球首款 AI 智能框架控制系统"
+    },
+    {
+      "name": "光伏逆变器技术（SCR>=1.15, SCCR<=0.7）",
+      "asset_type": "process_technology",
+      "related_product": "光伏逆变器",
+      "quantitative_info": null,
+      "quote": "光伏逆变器具备良好的极弱电网（SCR低至1.15）下动、静态性能，良好的串联补偿特性（串补系数达到0.7）"
+    },
+    {
+      "name": "5MWh液冷储能系统技术",
+      "asset_type": "core_technology",
+      "related_product": "储能系统",
+      "quantitative_info": null,
+      "quote": "5MWh液冷储能系统整体采用标准High20ft集装箱设计...配置了PACK级消防探测和灭火保护，“防消结合”再次提升系统安全性"
+    },
+    {
+      "name": "ISO/TS22163铁路质量体系认证",
+      "asset_type": "certification",
+      "related_product": "轨交系列产品",
+      "quantitative_info": null,
+      "quote": "轨交系列产品突破行业应用瓶颈，通过ISO/TS22163铁路质量体系认证"
+    },
+    {
+      "name": "全球光伏逆变器一级制造商（彭博新能源财经Tier1）",
+      "asset_type": "certification",
+      "related_product": "光伏逆变器",
+      "quantitative_info": "连续10个季度",
+      "quote": "根据彭博新能源财经（BloombergNEF）公布的Tier1榜单，上海电源已连续10个季度稳居全球光伏逆变器一级制造商"
+    },
+    {
+      "name": "全球一级储能集成商（彭博新能源财经Tier1）",
+      "asset_type": "certification",
+      "related_product": "储能系统",
+      "quantitative_info": "连续6个季度",
+      "quote": "连续6个季度入选全球一级储能集成商榜单"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,285,105.33万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额2,285,105.33万元，占年度销售总额38.64%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "38.64%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额2,285,105.33万元，占年度销售总额38.64%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "805,937.42万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额805,937.42万元，占年度采购总额14.93%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "14.93%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额805,937.42万元，占年度采购总额14.93%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "低压电器行业是一个充分国际竞争、市场化程度较高的行业，内部竞争激烈，国际低压电器行业领先企业垄断国内高端市场",
+      "related_entity": null,
+      "related_product": "低压电器",
+      "quote": "低压电器行业是一个充分国际竞争、市场化程度较高的行业，内部竞争激烈，国际低压电器行业领先企业垄断国内高端市场"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司低压电器生产所需主要原材料，铜、银、钢材及塑料等采购成本占产品总成本比重较高，原材料价格波动叠加运输成本上升等不利因素，有可能影响公司的主营业务成本和盈利水平",
+      "related_entity": null,
+      "related_product": "低压电器",
+      "quote": "公司低压电器生产所需主要原材料，铜、银、钢材及塑料等采购成本占产品总成本比重较高，原材料价格波动叠加运输成本上升等不利因素，有可能影响公司的主营业务成本和盈利水平"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "海外市场受到国际市场环境、监管环境、关税政策等多种因素的影响，全球经济和市场环境复杂多变，产业政策动态调整",
+      "related_entity": null,
+      "related_product": "海外业务",
+      "quote": "海外市场受到国际市场环境、监管环境、关税政策等多种因素的影响，全球经济和市场环境复杂多变，产业政策动态调整"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "人民币汇率波动将直接影响公司海外业务的盈利能力",
+      "related_entity": null,
+      "related_product": "海外业务",
+      "quote": "人民币汇率波动将直接影响公司海外业务的盈利能力"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "相较于国际领先企业，国内企业在产品品质、更新迭代、部分关键核心技术等方面存在一定差距",
+      "related_entity": null,
+      "related_product": "低压电器",
+      "quote": "相较于国际领先企业，国内企业在产品品质、更新迭代、部分关键核心技术等方面存在一定差距"
+    }
+  ]
+}

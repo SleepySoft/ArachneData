@@ -1,0 +1,454 @@
+{
+  "company_name_mentioned": "杭州电缆股份有限公司（杭电股份）",
+  "produces": [
+    {
+      "name": "缆线（电力电缆等）",
+      "type": "device",
+      "revenue_proportion": "11.36%（毛利率）",
+      "quote": "分产品：缆线...营业收入 6,913,821,817.29...毛利率（%） 11.36"
+    },
+    {
+      "name": "导线（钢芯铝绞线、铝合金导线等）",
+      "type": "device",
+      "revenue_proportion": "10.19%（毛利率）",
+      "quote": "分产品：导线...营业收入 926,042,809.08...毛利率（%） 10.19"
+    },
+    {
+      "name": "民用线",
+      "type": "device",
+      "revenue_proportion": "12.11%（毛利率）",
+      "quote": "分产品：民用线...营业收入 276,211,069.79...毛利率（%） 12.11"
+    },
+    {
+      "name": "光缆",
+      "type": "device",
+      "revenue_proportion": "12.21%（毛利率）",
+      "quote": "分产品：光缆...营业收入 200,127,722.97...毛利率（%） 12.21"
+    },
+    {
+      "name": "光纤",
+      "type": "device",
+      "revenue_proportion": "8.70%（毛利率）",
+      "quote": "分产品：光纤...营业收入 213,954,306.39...毛利率（%） 8.70"
+    },
+    {
+      "name": "铜箔（锂电铜箔、电子电路铜箔）",
+      "type": "component",
+      "revenue_proportion": "1.95%（毛利率）",
+      "quote": "分产品：铜箔...营业收入 703,779,050.70...毛利率（%） 1.95"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜、铝等金属材料",
+      "target_product": "电线电缆",
+      "cost_proportion": "37.51%（前五名供应商采购额占比）",
+      "quote": "电线电缆行业最重要的原材料，其价格的大幅波动将直接影响线缆企业的利润情况...前五名供应商采购额455,550.52万元，占年度采购总额37.51%。"
+    },
+    {
+      "name": "高纯原料/气体",
+      "target_product": "光纤预制棒",
+      "cost_proportion": null,
+      "quote": "光通信相关设备具体包括高纯合成石英生产设备、高纯原料/气体供应系统..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "电力、轨道交通、新能源、建筑工程、海洋工程、通信、石油、化工、汽车、船舶及航空航天",
+      "source_product": "电线电缆",
+      "quote": "电线电缆...产品广泛的应用于电力、轨道交通、新能源、建筑工程、海洋工程、通信、石油、化工、汽车、船舶及航空航天等各个领域。"
+    },
+    {
+      "name": "算力数据中心、5G网络、智算网络",
+      "source_product": "光通信产品（光棒、光纤、光缆）",
+      "quote": "随着生成式人工智能的快速迭代和大模型的不断普及，算力资源已经成为支撑人工智能持续发展的关键基石。而算力数据中心及其数据传输网络，作为算力资源的核心承载平台，正在迎来迅猛的发展浪潮。"
+    },
+    {
+      "name": "新能源汽车、储能系统、PCB（印刷电路板）、3C数码产品",
+      "source_product": "铜箔",
+      "quote": "铜箔产品，广泛应用于电子、通讯、信息及新能源汽车、电动工具、储能等行业...锂电池铜箔...应用于新能源汽车、电动自行车、3C数码产品、储能系统等下游领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "华建飞",
+      "role": "董事长",
+      "quote": "公司负责人华建飞...现任本公司董事长，杭州永特电缆有限公司董事长、杭州千岛湖永通电缆有限公司董事长，浙江省电线电缆协会第九届理事会会长..."
+    },
+    {
+      "name": "倪益剑",
+      "role": "董事、总经理",
+      "quote": "现任本公司董事兼总经理、宿州永通电缆有限公司董事长兼总经理、杭州永特电缆有限公司董事。"
+    },
+    {
+      "name": "金锡根",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人金锡根及会计机构负责人（会计主管人员）金锡根声明..."
+    },
+    {
+      "name": "杨烈生",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书 杨烈生"
+    },
+    {
+      "name": "孙庆炎",
+      "role": "实际控制人",
+      "quote": "永通控股集团有限公司...实际控制人孙庆炎家族...孙庆炎...永通控股集团有限公司董事长、浙江富春江通信集团有限公司总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "永通控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "永通控股 指 永通控股集团有限公司，本公司控股股东"
+    },
+    {
+      "name": "浙江富春江通信集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东",
+      "quote": "富春江集团 指 浙江富春江通信集团有限公司...持股5%以上股东"
+    },
+    {
+      "name": "杭州永特电缆有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电线、电缆制造，加工，销售",
+      "quote": "杭州永特电缆有限公司...本公司子公司"
+    },
+    {
+      "name": "宿州永通电缆有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电线、电缆生产制造",
+      "quote": "宿州永通 指 宿州永通电缆有限公司，本公司子公司"
+    },
+    {
+      "name": "浙江富春江光电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光缆制造；光缆销售；光纤制造；光纤销售；电线、电缆经营",
+      "quote": "富春江光电 指 浙江富春江光电科技有限公司，本公司子公司"
+    },
+    {
+      "name": "江西杭电铜箔有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "金属链条及其他金属制品制造，新材料技术研发，电子专用材料研发、制造、销售",
+      "quote": "杭电铜箔 指 江西杭电铜箔有限公司，本公司子公司"
+    },
+    {
+      "name": "杭州永通新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "化学交联聚乙烯电缆料、硅烷交联聚乙烯电缆料、PVC电缆料、PE电缆料的研发，生产...",
+      "quote": "永通新材料 指 杭州永通新材料有限公司，本公司子公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "公司是国家电网高压、超高压电力电缆和特高压导线的主要供应商",
+      "quote": "国家电网 指 国家电网有限公司...公司是国家电网和南方电网高压、超高压电力电缆和特高压导线的主要供应商"
+    },
+    {
+      "name": "中国南方电网有限责任公司",
+      "relation_type": "customer",
+      "business_details": "公司是南方电网高压、超高压电力电缆和特高压导线的主要供应商",
+      "quote": "南方电网 指 中国南方电网有限责任公司...公司是国家电网和南方电网高压、超高压电力电缆和特高压导线的主要供应商"
+    },
+    {
+      "name": "浙江杭电实业有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "合营企业",
+      "quote": "浙江杭电实业有限公司(合营企业)"
+    },
+    {
+      "name": "上海电缆研究所",
+      "relation_type": "competitor",
+      "business_details": "联合开发750kV交联电缆系统",
+      "quote": "与上海电缆研究所联合开发的750kV交联电缆系统成功通过中国机械工业联合会组织的国家级新产品技术鉴定"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "输配电气",
+      "segment_type": "business_unit",
+      "revenue_amount": "8,309,165,625.93",
+      "revenue_proportion": null,
+      "gross_margin": "11.41%",
+      "yoy_change": "减少1.16个百分点",
+      "quote": "分行业：输配电气...营业收入 8,309,165,625.93...毛利率（%） 11.41...毛利率比上年增减（%） 减少1.16个百分点"
+    },
+    {
+      "name": "光通信",
+      "segment_type": "business_unit",
+      "revenue_amount": "433,592,005.62",
+      "revenue_proportion": null,
+      "gross_margin": "11.24%",
+      "yoy_change": "增加4.19个百分点",
+      "quote": "分行业：光通信...营业收入 433,592,005.62...毛利率（%） 11.24...毛利率比上年增减（%） 增加4.19个百分点"
+    },
+    {
+      "name": "电子信息材料",
+      "segment_type": "business_unit",
+      "revenue_amount": "703,779,050.70",
+      "revenue_proportion": null,
+      "gross_margin": "1.95%",
+      "yoy_change": "增加5.10个百分点",
+      "quote": "分行业：电子信息材料...营业收入 703,779,050.70...毛利率（%） 1.95...毛利率比上年增减（%） 增加5.10个百分点"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "9,231,039,148.74",
+      "revenue_proportion": null,
+      "gross_margin": "10.47%",
+      "yoy_change": "减少1.44个百分点",
+      "quote": "分地区：境内...营业收入 9,231,039,148.74...毛利率（%） 10.47...毛利率比上年增减（%） 减少1.44个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "215,497,533.51",
+      "revenue_proportion": null,
+      "gross_margin": "20.30%",
+      "yoy_change": "增加2.31个百分点",
+      "quote": "分地区：境外...营业收入 215,497,533.51...毛利率（%） 20.30...毛利率比上年增减（%） 增加2.31个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,757,542,975.71",
+      "revenue_proportion": null,
+      "gross_margin": "11.12%",
+      "yoy_change": "减少0.89个百分点",
+      "quote": "销售模式：直销...营业收入 8,757,542,975.71...毛利率（%） 11.12...毛利率比上年增减（%） 减少0.89个百分点"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "695,293,672.68",
+      "revenue_proportion": null,
+      "gross_margin": "6.17%",
+      "yoy_change": "减少4.65个百分点",
+      "quote": "销售模式：经销...营业收入 695,293,672.68...毛利率（%） 6.17...毛利率比上年增减（%） 减少4.65个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "缆线",
+      "metric_type": "production_volume",
+      "value": "160,147.09 公里",
+      "period": "2025年",
+      "quote": "缆线...生产量 160,147.09（单位：公里）"
+    },
+    {
+      "product": "缆线",
+      "metric_type": "sales_volume",
+      "value": "199,612.89 公里",
+      "period": "2025年",
+      "quote": "缆线...销售量 199,612.89（单位：公里）"
+    },
+    {
+      "product": "缆线",
+      "metric_type": "inventory_volume",
+      "value": "19,810.74 公里",
+      "period": "2025年末",
+      "quote": "缆线...库存量 19,810.74（单位：公里）"
+    },
+    {
+      "product": "导线",
+      "metric_type": "production_volume",
+      "value": "44,534.22 吨",
+      "period": "2025年",
+      "quote": "导线...生产量 44,534.22（单位：吨）"
+    },
+    {
+      "product": "导线",
+      "metric_type": "sales_volume",
+      "value": "50,710.15 吨",
+      "period": "2025年",
+      "quote": "导线...销售量 50,710.15（单位：吨）"
+    },
+    {
+      "product": "民用线",
+      "metric_type": "production_volume",
+      "value": "152,524.17 公里",
+      "period": "2025年",
+      "quote": "民用线...生产量 152,524.17（单位：公里）"
+    },
+    {
+      "product": "民用线",
+      "metric_type": "sales_volume",
+      "value": "159,128.90 公里",
+      "period": "2025年",
+      "quote": "民用线...销售量 159,128.90（单位：公里）"
+    },
+    {
+      "product": "光缆",
+      "metric_type": "production_volume",
+      "value": "3,283,655.50 芯公里",
+      "period": "2025年",
+      "quote": "光缆...生产量 3,283,655.50（单位：芯公里）"
+    },
+    {
+      "product": "光缆",
+      "metric_type": "sales_volume",
+      "value": "3,251,120.46 芯公里",
+      "period": "2025年",
+      "quote": "光缆...销售量 3,251,120.46（单位：芯公里）"
+    },
+    {
+      "product": "光纤",
+      "metric_type": "production_volume",
+      "value": "836.06 万芯公里",
+      "period": "2025年",
+      "quote": "光纤...生产量 836.06（单位：万芯公里）"
+    },
+    {
+      "product": "光纤",
+      "metric_type": "sales_volume",
+      "value": "929.65 万芯公里",
+      "period": "2025年",
+      "quote": "光纤...销售量 929.65（单位：万芯公里）"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "杭电铜箔项目",
+      "project_type": "capacity_expansion",
+      "location": "江西",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "试生产投入，产能释放",
+      "expected_completion_time": null,
+      "quote": "铜箔项目...按工业4.0标准进行数字化、智能化生产...报告期内，铜箔板块着重将锂电铜箔产品导入国内主流新能源储能企业的供应链体系...主要系子公司杭电铜箔试生产投入后，收入同比增长影响...主要系本期子公司杭电铜箔产能释放增加铺底流动资金影响"
+    },
+    {
+      "name": "铜箔在建工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完工验收转固",
+      "expected_completion_time": null,
+      "quote": "在建工程...主要系本期子公司铜箔在建项目完工验收转固影响所致"
+    },
+    {
+      "name": "杭州富阳东洲、富阳高尔夫路、淳安千岛湖、安徽宿州生产基地",
+      "project_type": "capacity_expansion",
+      "location": "杭州富阳东洲、富阳高尔夫路、淳安千岛湖、安徽宿州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司拥有四大生产基地：杭州富阳东洲、杭州富阳高尔夫路、淳安千岛湖以及安徽宿州生产基地。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "750kV交联电缆系统",
+      "asset_type": "core_technology",
+      "related_product": "超高压电缆",
+      "quantitative_info": "通过国家级新产品技术鉴定",
+      "quote": "与上海电缆研究所联合开发的750kV交联电缆系统成功通过中国机械工业联合会组织的国家级新产品技术鉴定"
+    },
+    {
+      "name": "省级研发中心、CNAS实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是目前国内少数拥有大截面高压、超高压电力电缆生产能力的企业之一，拥有省级研发中心和中国合格评定国家认可委员会认定的实验室。"
+    },
+    {
+      "name": "“国家级绿色工厂”、“杭州市电缆工业互联网平台”、“杭州市智能工厂”",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "报告期内，公司...获评“国家级绿色工厂”、“杭州市电缆工业互联网平台”、“杭州市智能工厂”。"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "5项",
+      "quote": "公司获得发明专利5项"
+    },
+    {
+      "name": "参与标准制定修订",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "10项",
+      "quote": "参与标准制定修定10项"
+    },
+    {
+      "name": "“永通”商标",
+      "asset_type": "certification",
+      "related_product": "电线电缆",
+      "quantitative_info": "中国驰名商标、浙江省著名商标等",
+      "quote": "公司“永通”商标于2008年被认定为中国驰名商标、2014年被认定为杭州市出口名牌、2015年被认定为浙江省著名商标"
+    },
+    {
+      "name": "“富杭”和“富春江”牌通信电缆、光缆",
+      "asset_type": "certification",
+      "related_product": "光通信产品",
+      "quantitative_info": "中国名牌产品、浙江省著名商标",
+      "quote": "富春江光电...其主导产品“富杭”和“富春江”牌通信电缆、光缆被评为中国名牌产品和浙江省著名商标"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "117,735.57万元，占年度销售总额12.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额117,735.57万元，占年度销售总额12.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "455,550.52万元，占年度采购总额37.51%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额455,550.52万元，占年度采购总额37.51%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "电力产业投资政策变化风险。公司经营业绩受我国电网建设投资规模及相关电力产业投资的影响较大。",
+      "related_entity": null,
+      "related_product": "电线电缆",
+      "quote": "（1）电力产业投资政策变化风险...公司主营的电线电缆产品是电力产业重要的配套产品，其市场需求与我国电力行业的发展紧密相关，因此，公司经营业绩受我国电网建设投资规模及相关电力产业投资的影响较大。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电线电缆行业的市场竞争风险。中低压电力电缆和钢芯铝绞线产品面临市场竞争日趋激烈的风险。",
+      "related_entity": null,
+      "related_product": "电线电缆",
+      "quote": "（2）电线电缆行业的市场竞争风险...目前，中低压电力电缆行业门槛较低...因此，中低压电力电缆产品的市场竞争激烈。传统的钢芯铝绞线由于其产品同质化严重、进入壁垒不高，同样面临着激烈的竞争。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险。铜、铝等金属材料价格的大幅波动将直接影响线缆企业的利润情况。",
+      "related_entity": null,
+      "related_product": "电线电缆",
+      "quote": "（3）原材料价格波动风险。铜、铝等金属材料是电线电缆行业最重要的原材料，其价格的大幅波动将直接影响线缆企业的利润情况，公司虽然已执行了主要原材料的套期保值，极端情况下可能导致企业大幅亏损。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "光通信领域市场及政策风险。国家通信等基础设施投资的产业政策出现调整，或运营商对通信网络的投资不及预期，将对公司的业务发展造成负面影响。",
+      "related_entity": null,
+      "related_product": "光通信产品",
+      "quote": "（4）光通信领域市场及政策风险...如果...国家关于通信等基础设施投资的产业政策出现调整，或运营商对通信网络的投资不及预期，则将对公司的业务发展造成负面影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "光通信领域技术升级风险。如果公司的新技术和新产品不能及时研发成功，或者对技术、产品和市场的趋势把握出现偏差，将削弱公司的市场竞争力。",
+      "related_entity": null,
+      "related_product": "光通信产品",
+      "quote": "（5）光通信领域技术升级风险...如果公司的新技术和新产品不能及时研发成功，或者对技术、产品和市场的趋势把握出现偏差，将削弱公司的市场竞争力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "铜箔业务发展不及预期风险。公司作为铜箔行业新晋企业，无先发优势，生产经营成本较高。若在高端铜箔产品领域研发进度不及预期，将对企业经营带来较大不利影响。",
+      "related_entity": null,
+      "related_product": "铜箔",
+      "quote": "（6）铜箔业务发展不及预期风险...公司作为铜箔行业新晋企业，无先发优势，生产经营成本较高...此外，若公司在高端铜箔产品领域研发进度不及预期，无法研发成功，将对企业经营带来较大不利影响。"
+    }
+  ]
+}

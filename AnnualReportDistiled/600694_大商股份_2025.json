@@ -1,0 +1,344 @@
+{
+  "company_name_mentioned": "大商股份有限公司",
+  "produces": [
+    {
+      "name": "百货零售服务",
+      "type": "service",
+      "revenue_proportion": "23.99%",
+      "quote": "百货业态...报告期内实现营业收入14.88亿元，占总营收的 23.99 %。"
+    },
+    {
+      "name": "超市零售服务",
+      "type": "service",
+      "revenue_proportion": "23.52%",
+      "quote": "超市业态...报告期内实现营业收入14.59亿元，占总营收的23.52%。"
+    },
+    {
+      "name": "电器零售服务",
+      "type": "service",
+      "revenue_proportion": "16.7%",
+      "quote": "电器业态...报告期内实现营业收入10.36亿元，占总营收的16.7%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品采购",
+      "target_product": "商品",
+      "cost_proportion": "39.57%",
+      "quote": "前五名供应商采购额145,731.16万元，占年度采购总额39.57%"
+    },
+    {
+      "name": "关联方商品采购",
+      "target_product": "商品",
+      "cost_proportion": "16.96%",
+      "quote": "其中前五名供应商采购额中关联方采购额62,477.69万元，占年度采购总额16.96%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "个人消费者零售",
+      "source_product": null,
+      "quote": "公司主要从事商业零售的终端销售，商品销售客户主要为个人消费者"
+    },
+    {
+      "name": "家电消费",
+      "source_product": "电器零售服务",
+      "quote": "家电行业处于存量竞争、结构换新、场景融合、体验为王的关键时期"
+    },
+    {
+      "name": "食品与民生消费",
+      "source_product": "超市零售服务",
+      "quote": "超市业态聚焦民生消费"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吕伟顺",
+      "role": "董事长兼CEO",
+      "quote": "公司负责人吕伟顺...吕伟顺 董事长兼CEO"
+    },
+    {
+      "name": "刘晶",
+      "role": "董事、总经理",
+      "quote": "刘 晶 董事、总经理"
+    },
+    {
+      "name": "宋晓静",
+      "role": "副总经理、财务负责人",
+      "quote": "宋晓静 副总经理、财务负责人"
+    },
+    {
+      "name": "姚磊",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...姚磊"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "大商集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东...大商集团有限公司"
+    },
+    {
+      "name": "大商投资管理有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人控制的企业",
+      "quote": "大商集团及大商集团控股、实际控制的其他公司...大商投资管理有限公司"
+    },
+    {
+      "name": "大华会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计服务供应商",
+      "quote": "大华会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "中国信达资产管理股份有限公司辽宁省分公司",
+      "relation_type": "customer",
+      "business_details": "诉讼对手方（债权人代位权纠纷）",
+      "quote": "中国信达资产管理股份有限公司辽宁省分公司...诉讼(仲裁)基本情况"
+    },
+    {
+      "name": "本溪实华新世界物业管理有限公司",
+      "relation_type": "customer",
+      "business_details": "诉讼对手方（租赁合同纠纷）",
+      "quote": "本溪实华新世界物业管理有限公司...诉讼(仲裁)基本情况"
+    },
+    {
+      "name": "辽宁莱亿房地产开发有限公司",
+      "relation_type": "customer",
+      "business_details": "诉讼对手方（租赁合同纠纷）",
+      "quote": "辽宁莱亿房地产开发有限公司...诉讼(仲裁)基本情况"
+    },
+    {
+      "name": "天津市建工工程总承包有限公司",
+      "relation_type": "customer",
+      "business_details": "诉讼对手方（建设工程施工合同纠纷）",
+      "quote": "天津市建工工程总承包有限公司...诉讼(仲裁)基本情况"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "百货",
+      "segment_type": "product_line",
+      "revenue_amount": "148,802.83万元",
+      "revenue_proportion": null,
+      "gross_margin": "48.24%",
+      "yoy_change": "-8.39%",
+      "quote": "分行业 营业收入...百货 148,802.83...毛利率（%） 48.24...营业收入比上年增减（%） -8.39"
+    },
+    {
+      "name": "超市",
+      "segment_type": "product_line",
+      "revenue_amount": "145,992.13万元",
+      "revenue_proportion": null,
+      "gross_margin": "6.90%",
+      "yoy_change": "-14.07%",
+      "quote": "分行业 营业收入...超市 145,992.13...毛利率（%） 6.90...营业收入比上年增减（%） -14.07"
+    },
+    {
+      "name": "家电",
+      "segment_type": "product_line",
+      "revenue_amount": "103,564.03万元",
+      "revenue_proportion": null,
+      "gross_margin": "18.37%",
+      "yoy_change": "-3.34%",
+      "quote": "分行业 营业收入...家电 103,564.03...毛利率（%） 18.37...营业收入比上年增减（%） -3.34"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "42,825.45万元",
+      "revenue_proportion": null,
+      "gross_margin": "28.94%",
+      "yoy_change": "-24.99%",
+      "quote": "分行业 营业收入...其他 42,825.45...毛利率（%） 28.94...营业收入比上年增减（%） -24.99"
+    },
+    {
+      "name": "大连地区",
+      "segment_type": "region",
+      "revenue_amount": "279,100.13万元",
+      "revenue_proportion": null,
+      "gross_margin": "23.76%",
+      "yoy_change": "-3.08%",
+      "quote": "分地区 营业收入...大连地区 279,100.13...毛利率（%） 23.76...营业收入比上年增减（%） -3.08"
+    },
+    {
+      "name": "山东地区",
+      "segment_type": "region",
+      "revenue_amount": "88,072.26万元",
+      "revenue_proportion": null,
+      "gross_margin": "23.69%",
+      "yoy_change": "-8.37%",
+      "quote": "分地区 营业收入...山东地区 88,072.26...毛利率（%） 23.69...营业收入比上年增减（%） -8.37"
+    },
+    {
+      "name": "大庆地区",
+      "segment_type": "region",
+      "revenue_amount": "107,800.73万元",
+      "revenue_proportion": null,
+      "gross_margin": "45.70%",
+      "yoy_change": "-6.25%",
+      "quote": "分地区 营业收入...大庆地区 107,800.73...毛利率（%） 45.70...营业收入比上年增减（%） -6.25"
+    },
+    {
+      "name": "牡丹江地区",
+      "segment_type": "region",
+      "revenue_amount": "58,469.01万元",
+      "revenue_proportion": null,
+      "gross_margin": "51.29%",
+      "yoy_change": "-7.00%",
+      "quote": "分地区 营业收入...牡丹江地区 58,469.01...毛利率（%） 51.29...营业收入比上年增减（%） -7.00"
+    },
+    {
+      "name": "河南地区",
+      "segment_type": "region",
+      "revenue_amount": "26,676.58万元",
+      "revenue_proportion": null,
+      "gross_margin": "64.99%",
+      "yoy_change": "-22.10%",
+      "quote": "分地区 营业收入...河南地区 26,676.58...毛利率（%） 64.99...营业收入比上年增减（%） -22.10"
+    },
+    {
+      "name": "自营",
+      "segment_type": "sales_channel",
+      "revenue_amount": "328,111.45万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "经营模式 经营面积（万平方米） 销售额/租金收入（万元）...自营 25.82 328,111.45"
+    },
+    {
+      "name": "联营",
+      "segment_type": "sales_channel",
+      "revenue_amount": "104,559.98万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "经营模式 经营面积（万平方米） 销售额/租金收入（万元）...联营 73.19 104,559.98"
+    },
+    {
+      "name": "场地出租",
+      "segment_type": "sales_channel",
+      "revenue_amount": "103,106.91万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "经营模式 经营面积（万平方米） 销售额/租金收入（万元）...场地出租 125.67 103,106.91"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "实体店铺",
+      "metric_type": "capacity",
+      "value": "100多家",
+      "period": "报告期末",
+      "quote": "公司旗下100多家实体店铺遍布辽宁、黑龙江、河南和山东等地区的核心商圈"
+    },
+    {
+      "product": "线上销售",
+      "metric_type": "sales_volume",
+      "value": "10,806万元",
+      "period": "报告期内",
+      "quote": "线上销售额（万元）...10,806"
+    },
+    {
+      "product": "会员销售",
+      "metric_type": "sales_volume",
+      "value": "1,029,699万元",
+      "period": "报告期内",
+      "quote": "销售额（万元）...1,029,699"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "2,813万人",
+      "period": "报告期末",
+      "quote": "会员数量（万人）...2,813"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "大连东港乐园项目",
+      "project_type": "construction_project",
+      "location": "大连",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "大商城市乐园（大连）有限公司与天津市建工工程总承包有限公司签订《大连东港乐园项目基坑支护土石方工程合同》。"
+    },
+    {
+      "name": "新店开发计划",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "新开门店100家以上",
+      "progress": "规划中",
+      "expected_completion_time": "未来五年",
+      "quote": "未来五年，将通过自建、并购重组、管理输出、加盟连锁等方式实施新店开发，计划新开门店100家以上"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "天狗网平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托天狗网平台，实现会员体系、商品体系、营销体系、服务体系全面打通，推动线上线下深度融合。"
+    },
+    {
+      "name": "数字化营销转型",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "全年品牌总曝光量1660万+",
+      "quote": "加快数字化营销转型，搭建“抖音+美团+小红书+私域”全域矩阵，全年发布短视频221条。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "7.65%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额47,433.34万元，占年度销售总额7.65%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.57%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额145,731.16万元，占年度采购总额39.57%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "消费市场复苏未达预期，商品需求疲软，叠加电商平台冲击、行业同质化竞争加剧，将对公司门店销售及盈利水平带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争风险：消费市场复苏未达预期，商品需求疲软，叠加电商平台冲击、行业同质化竞争加剧，将对公司门店销售及盈利水平带来不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "存量门店调改过程中可能出现部分区域营业中断、顾客流失、调改效果不及预期等风险，拖累公司整体业绩增长。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、门店调改风险：存量门店调改过程中可能出现部分区域营业中断、顾客流失、调改效果不及预期等风险，拖累公司整体业绩增长。"
+    },
+    {
+      "risk_type": "other",
+      "description": "租金、物流、营销获客成本持续上涨，可能挤压门店利润空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、成本攀升风险：租金、物流、营销获客成本持续上涨，可能挤压门店利润空间。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "报告期内公司存在多项重大诉讼、仲裁事项，涉及金额较大，存在判决执行风险及财务影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大诉讼、仲裁事项...√本年度公司有重大诉讼、仲裁事项"
+    }
+  ]
+}

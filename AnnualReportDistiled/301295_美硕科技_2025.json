@@ -1,0 +1,596 @@
+{
+  "company_name_mentioned": "浙江美硕电气科技股份有限公司",
+  "produces": [
+    {
+      "name": "继电器",
+      "type": "device",
+      "revenue_proportion": "90.39%",
+      "quote": "分产品 继电器 637,986,594.89 90.39%"
+    },
+    {
+      "name": "流体电磁阀",
+      "type": "device",
+      "revenue_proportion": "8.19%",
+      "quote": "分产品 流体电磁阀 57,815,555.67 8.19%"
+    },
+    {
+      "name": "通用继电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括通用继电器、汽车继电器、磁保持继电器、新能源继电器、通讯继电器及流体电磁阀等"
+    },
+    {
+      "name": "汽车继电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括通用继电器、汽车继电器、磁保持继电器、新能源继电器、通讯继电器及流体电磁阀等"
+    },
+    {
+      "name": "磁保持继电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括通用继电器、汽车继电器、磁保持继电器、新能源继电器、通讯继电器及流体电磁阀等"
+    },
+    {
+      "name": "新能源继电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括通用继电器、汽车继电器、磁保持继电器、新能源继电器、通讯继电器及流体电磁阀等"
+    },
+    {
+      "name": "通讯继电器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括通用继电器、汽车继电器、磁保持继电器、新能源继电器、通讯继电器及流体电磁阀等"
+    },
+    {
+      "name": "进水阀",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括进水阀、废水阀。"
+    },
+    {
+      "name": "废水阀",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品主要包括进水阀、废水阀。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "五金件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的五金件、塑料件、触点和漆包线等主要向生产厂家直接采购"
+    },
+    {
+      "name": "塑料件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的五金件、塑料件、触点和漆包线等主要向生产厂家直接采购"
+    },
+    {
+      "name": "触点",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的五金件、塑料件、触点和漆包线等主要向生产厂家直接采购"
+    },
+    {
+      "name": "漆包线",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的五金件、塑料件、触点和漆包线等主要向生产厂家直接采购"
+    },
+    {
+      "name": "触点类",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "触点类、漆包线、五金件和塑料件是公司的重要原材料"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家用电器",
+      "source_product": "通用继电器、流体电磁阀等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "智能家居",
+      "source_product": "通用继电器等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "汽车制造",
+      "source_product": "汽车继电器等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "光伏逆变器",
+      "source_product": "新能源继电器等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "充电桩",
+      "source_product": "新能源继电器、磁保持继电器等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "智能电表",
+      "source_product": "磁保持继电器等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "通用继电器等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "通讯设施",
+      "source_product": "通讯继电器等",
+      "quote": "应用于家用电器、智能家居、汽车制造、光伏逆变器、充电桩、智能电表、工业控制和通讯设施等领域"
+    },
+    {
+      "name": "净水器",
+      "source_product": "流体电磁阀",
+      "quote": "广泛应用于净水器、智能卫浴、洗碗机、洗衣机等家电厨卫领域。"
+    },
+    {
+      "name": "智能卫浴",
+      "source_product": "流体电磁阀",
+      "quote": "广泛应用于净水器、智能卫浴、洗碗机、洗衣机等家电厨卫领域。"
+    },
+    {
+      "name": "洗碗机",
+      "source_product": "流体电磁阀",
+      "quote": "广泛应用于净水器、智能卫浴、洗碗机、洗衣机等家电厨卫领域。"
+    },
+    {
+      "name": "洗衣机",
+      "source_product": "流体电磁阀",
+      "quote": "广泛应用于净水器、智能卫浴、洗碗机、洗衣机等家电厨卫领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄晓湖",
+      "role": "董事长",
+      "quote": "公司负责人黄晓湖、主管会计工作负责人王嵩及会计机构负责人(会计主管人员)王嵩声明"
+    },
+    {
+      "name": "虞彭鑫",
+      "role": "董事兼总经理",
+      "quote": "虞彭鑫，男，1983年出生...现任公司董事兼总经理。"
+    },
+    {
+      "name": "王嵩",
+      "role": "财务总监、副总经理",
+      "quote": "王嵩，男，财务总监...现任公司财务总监、副总经理。"
+    },
+    {
+      "name": "章理远",
+      "role": "副总经理兼董事会秘书",
+      "quote": "章理远，男，副总经理兼董事会秘书"
+    },
+    {
+      "name": "刘小龙",
+      "role": "董事",
+      "quote": "刘小龙，男，1976年出生...现任公司董事。"
+    },
+    {
+      "name": "黄正芳",
+      "role": "董事",
+      "quote": "黄正芳，男，1958年出生...现任公司董事。"
+    },
+    {
+      "name": "陈海多",
+      "role": "董事、研发总工",
+      "quote": "陈海多，男，1983年出生...现任公司董事、研发总工。"
+    },
+    {
+      "name": "刘峰",
+      "role": "职工代表董事",
+      "quote": "刘峰，男，1985年出生...现任公司职工代表董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "美的",
+      "relation_type": "customer",
+      "business_details": "公司第一大客户",
+      "quote": "美的 指 美的集团股份有限公司及其下属公司...本报告期内美的集团系公司第一大客户"
+    },
+    {
+      "name": "小米",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "小米 指 小米科技有限责任公司及其下属公司"
+    },
+    {
+      "name": "奥克斯",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "奥克斯 指 奥克斯集团有限公司及其下属公司"
+    },
+    {
+      "name": "TCL",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "TCL科技集团股份有限公司及其下属公司"
+    },
+    {
+      "name": "格兰仕",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "广东格兰仕集团有限公司及其下属公司"
+    },
+    {
+      "name": "海尔",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "海尔 指 海尔集团公司及其下属公司"
+    },
+    {
+      "name": "德业",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "德业 指 宁波德业科技股份有限公司及其下属公司"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "比亚迪 指 比亚迪股份有限公司及其下属公司"
+    },
+    {
+      "name": "HELLA",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "HELLA 指 HELLA GmbH & Co.KGaA及其下属公司"
+    },
+    {
+      "name": "浙江朗诗德健康饮水设备股份有限公司",
+      "relation_type": "customer",
+      "business_details": "关联交易销售",
+      "quote": "浙江朗诗德健康饮水设备股份有限公司...关联交 易 类型 销售"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "继电器",
+      "segment_type": "product_line",
+      "revenue_amount": "637,986,594.89",
+      "revenue_proportion": "90.39%",
+      "gross_margin": "15.60%",
+      "yoy_change": "10.37%",
+      "quote": "分产品 继电器 637,986,594.89 90.39%...毛利率 15.60%...营业收入比上 年同期增减 10.37%"
+    },
+    {
+      "name": "流体电磁阀",
+      "segment_type": "product_line",
+      "revenue_amount": "57,815,555.67",
+      "revenue_proportion": "8.19%",
+      "gross_margin": null,
+      "yoy_change": "23.97%",
+      "quote": "分产品 流体电磁阀 57,815,555.67 8.19%...同比增减 23.97%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "10,006,800.47",
+      "revenue_proportion": "1.42%",
+      "gross_margin": null,
+      "yoy_change": "19.25%",
+      "quote": "分产品 其他 10,006,800.47 1.42%...同比增减 19.25%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "670,317,361.96",
+      "revenue_proportion": "94.97%",
+      "gross_margin": "15.50%",
+      "yoy_change": "12.11%",
+      "quote": "分地区 内销 670,317,361.96 94.97%...毛利率 15.50%...同比增减 12.11%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "35,491,589.07",
+      "revenue_proportion": "5.03%",
+      "gross_margin": null,
+      "yoy_change": "0.96%",
+      "quote": "分地区 外销 35,491,589.07 5.03%...同比增减 0.96%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "648,016,804.43",
+      "revenue_proportion": "91.81%",
+      "gross_margin": "16.79%",
+      "yoy_change": "9.32%",
+      "quote": "分销售模式 直销 648,016,804.43 91.81%...毛利率 16.79%...同比增减 9.32%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "57,792,146.60",
+      "revenue_proportion": "8.19%",
+      "gross_margin": null,
+      "yoy_change": "43.51%",
+      "quote": "分销售模式 经销 57,792,146.60 8.19%...同比增减 43.51%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "继电器",
+      "metric_type": "sales_volume",
+      "value": "42,179.36 万颗",
+      "period": "2025年",
+      "quote": "销售量 万颗 42,179.36"
+    },
+    {
+      "product": "继电器",
+      "metric_type": "production_volume",
+      "value": "44,149.12 万颗",
+      "period": "2025年",
+      "quote": "生产量 万颗 44,149.12"
+    },
+    {
+      "product": "继电器",
+      "metric_type": "inventory_volume",
+      "value": "10,778.64 万颗",
+      "period": "2025年末",
+      "quote": "库存量 万颗 10,778.64"
+    },
+    {
+      "product": "流体电磁阀",
+      "metric_type": "sales_volume",
+      "value": "844.93 万颗",
+      "period": "2025年",
+      "quote": "销售量 万颗 844.93"
+    },
+    {
+      "product": "流体电磁阀",
+      "metric_type": "production_volume",
+      "value": "873.32 万颗",
+      "period": "2025年",
+      "quote": "生产量 万颗 873.32"
+    },
+    {
+      "product": "流体电磁阀",
+      "metric_type": "inventory_volume",
+      "value": "139.20 万颗",
+      "period": "2025年末",
+      "quote": "库存量 万颗 139.20"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "继电器及水阀系列产品生产线扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "33,000 万元",
+      "designed_capacity": null,
+      "progress": "24.88%",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "继电器及水阀系列产品生产线扩建项目...承诺投 资项 目 截至期 募集资金 承诺投资 累计投入 投资 进度(3)...33,000 33,000 1,373.55 8,211.75 24.88%...2026年06月30日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "6,600 万元",
+      "designed_capacity": null,
+      "progress": "44.17%",
+      "expected_completion_time": "2026年06月30日",
+      "quote": "研发中心建设项目...承诺投 资项 目 截至期 募集资金 承诺投资 累计投入 投资 进度(3)...6,600 6,600 391.83 2,915.23 44.17%...2026年06月30日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "16,000 万元",
+      "designed_capacity": null,
+      "progress": "100.93%",
+      "expected_completion_time": null,
+      "quote": "补充流动资金...承诺投 资项 目 截至期 募集资金 承诺投资 累计投入 投资 进度(3)...16,000 16,000 16,149.22 100.93%"
+    },
+    {
+      "name": "使用部分超募资金永久性补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "1,200 万元",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "补充流动资金（如有）-- 1,200 1,200 0 1,200 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "21项",
+      "quote": "已拥有发明专利21项"
+    },
+    {
+      "name": "外观专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2项",
+      "quote": "外观专利2项"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "118项",
+      "quote": "实用新型专利118项"
+    },
+    {
+      "name": "UL实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "拥有美国UL实验室"
+    },
+    {
+      "name": "TUV目击实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "德国TUV目击实验室"
+    },
+    {
+      "name": "VDE-TDAP实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "德国VDE-TDAP实验室"
+    },
+    {
+      "name": "CNAS国家认可实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "中国CNAS国家认可实验室"
+    },
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了ISO9001及IATF16949质量管理体系"
+    },
+    {
+      "name": "IATF16949质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了ISO9001及IATF16949质量管理体系"
+    },
+    {
+      "name": "QC080000有害物质管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "QC080000有害物质管理体系"
+    },
+    {
+      "name": "ISO14001环境管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO14001环境管理体系"
+    },
+    {
+      "name": "ISO45001职业健康安全管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO45001职业健康安全管理体系"
+    },
+    {
+      "name": "ISO5001能源管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "ISO5001能源管理体系"
+    },
+    {
+      "name": "继电器参数自动化调整技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "以继电器参数自动化调整技术、异物震动检测技术、CCD影像检测技术、高精度封胶技术等核心生产制造技术为支撑"
+    },
+    {
+      "name": "异物震动检测技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "以继电器参数自动化调整技术、异物震动检测技术、CCD影像检测技术、高精度封胶技术等核心生产制造技术为支撑"
+    },
+    {
+      "name": "CCD影像检测技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "以继电器参数自动化调整技术、异物震动检测技术、CCD影像检测技术、高精度封胶技术等核心生产制造技术为支撑"
+    },
+    {
+      "name": "高精度封胶技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "以继电器参数自动化调整技术、异物震动检测技术、CCD影像检测技术、高精度封胶技术等核心生产制造技术为支撑"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "59.94%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 59.94%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "38.78%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 273,693,642.79 38.78%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "45.05%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 45.05%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "12.88%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 76,228,898.55 12.88%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "家电领域客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司目前客户结构中家电领域客户集中度较高。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司目前客户结构中家电领域客户集中度较高。家电领域客户集中度较高会导致公司受家电行业景气度影响较大，家电行业市场波动会导致公司市场需求波动，进而影响公司经营状况。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、客户行业集中的风险...公司目前客户结构中家电领域客户集中度较高。家电领域客户集中度较高会导致公司受家电行业景气度影响较大..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "触点类、漆包线价格波动往往与银、铜等大宗商品价格的波动成正比，而上述大宗商品除受全球经济形势的影响外，国内经济发展及进出口政策也会引起供求关系的改变，从而导致价格的波动。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、原材料价格波动和毛利率下降的风险...触点类、漆包线价格波动往往与银、铜等大宗商品价格的波动成正比..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司对美的集团具有一定依赖性",
+      "related_entity": "美的集团",
+      "related_product": null,
+      "quote": "3、大客户依赖风险...本报告期内美的集团系公司第一大客户，公司对美的集团具有一定依赖性"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司产品继电器产品占营业收入比例超过90%，公司客户结构中家电领域客户集中度较高。受到GDP增速放缓影响，如家电行业景气度存在波动，且公司未能及时采取措施积极应对，将导致公司存在营业收入下滑的风险。",
+      "related_entity": null,
+      "related_product": "继电器",
+      "quote": "4、营业收入下滑的风险...公司产品主要包括通用继电器...继电器产品占营业收入比例超过90%，公司客户结构中家电领域客户集中度较高..."
+    }
+  ]
+}

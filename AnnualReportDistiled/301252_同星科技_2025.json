@@ -1,0 +1,421 @@
+{
+  "company_name_mentioned": "浙江同星科技股份有限公司",
+  "produces": [
+    {
+      "name": "铜管铝翅片式换热器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "一般由铜管和各种型式的翅片及端板构成，翅片与传热管之间通过胀管联结，使管内制冷剂与管外界空气高效换热，具有传热性能好、运行可靠的特点。"
+    },
+    {
+      "name": "全铝翅片式换热器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "一般由铝管和各种型式的翅片及端板构成，翅片与传热管之间通过胀管或过盈配合联结，使管内制冷剂与管外界空气高效换热，具有重量轻、低成本、节能环保的特点。"
+    },
+    {
+      "name": "微通道换热器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "一般为水力直径小于1mm的换热器，主要由多个平行孔的扁管、集流管及翅片组成；一般管侧流体为制冷剂，通过微细管道及翅片与另一侧空气进行换热；具有风阻小、换热系数高、有效换热面积大、结构紧凑、有效减少制冷剂充灌量等特点。"
+    },
+    {
+      "name": "制冷系统管组件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "采用高精度焊接工艺，确保系统在高压工况下无泄漏，运行安全性高；管路走向与接口设计灵活，可适配多种压缩机与换热器型号；表面经过防腐处理，有效抵抗冷媒与环境的化学侵蚀，延长使用寿命。"
+    },
+    {
+      "name": "制冷热泵单元模块",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "模块是集压缩机、蒸发器、冷凝器、节流部件于一体，通过合理匹配电机、控制器实现独立运行的制冷系统。模块通过不同制冷量的匹配，满足制冷设备对制冷性能的需求。"
+    },
+    {
+      "name": "数据中心散热模块",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "模块化设计生产数据中心的一次侧、CDU和二次侧服务柜、风冷空调等。一次侧外机以高效干冷器为主，CDU集合了高效板式换热器技术和高精度水流量控制技术，二次侧机柜集合了高精度方管水分配管组，和高效末端空调，全产业链解决数据中心快速低成本建设部署难题。"
+    },
+    {
+      "name": "制冷零部件及产品",
+      "type": "component",
+      "revenue_proportion": "79.57%",
+      "quote": "制冷零部件及产品 1,023,253,607.14 79.57%"
+    },
+    {
+      "name": "汽车空调系统零部件",
+      "type": "component",
+      "revenue_proportion": "16.38%",
+      "quote": "汽车空调系统零部件 210,692,249.59 16.38%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜管",
+      "target_product": "换热器",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜管、铝管、铝带、胶管等。2025年，铜材铝材价格大幅上涨，也给公司带来了原材料涨价的压力。"
+    },
+    {
+      "name": "铝管",
+      "target_product": "换热器",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜管、铝管、铝带、胶管等。"
+    },
+    {
+      "name": "铝带",
+      "target_product": "换热器",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜管、铝管、铝带、胶管等。"
+    },
+    {
+      "name": "胶管",
+      "target_product": "制冷系统管组件",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜管、铝管、铝带、胶管等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "轻商制冷设备",
+      "source_product": "换热器、制冷单元模块",
+      "quote": "目前开发的制冷单元模块系列主要用于自动售货机、厨房冰箱、风幕柜、制冰机、除湿机、热泵干衣机等轻型制冷设备。"
+    },
+    {
+      "name": "新能源汽车空调",
+      "source_product": "汽车空调系统零部件",
+      "quote": "公司已成功开发适用于多款车型的汽车空调系统零部件，与长安汽车、奇瑞汽车、江淮汽车等头部车企建立了深度合作关系，成为其核心供应商。"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "数据中心散热模块",
+      "quote": "应用于云计算中心、互联网数据中心及高密度计算集群"
+    },
+    {
+      "name": "冷链物流",
+      "source_product": "换热器",
+      "quote": "换热器、制冷系统管组件、汽车空调管路、制冷单元模块，产品应用涵盖轻商制冷设备、家用制冷设备、空调、干衣机、新能源汽车、数据中心、冷链物流、生物医疗、工业制冷等。"
+    },
+    {
+      "name": "家用风冷冰箱",
+      "source_product": "换热器",
+      "quote": "产品用途：轻商制冷设备、家用风冷冰箱、汽车空调、干衣机、冷链物流、数据中心等"
+    },
+    {
+      "name": "干衣机",
+      "source_product": "换热器",
+      "quote": "产品用途：轻商制冷设备、家用风冷冰箱、汽车空调、干衣机、冷链物流、数据中心等"
+    },
+    {
+      "name": "机器人热管理",
+      "source_product": "散热方案、精密结构件",
+      "quote": "同星科技结合自身发展战略，以公司现有业务为基础，寻求外延式发展机会，加速拓展机器人产业链相关业务...在换热器领域已深耕多年，依托在轻商制冷领域积累的液冷循环、微通道换热与精准温控等技术，为机器人关键部位提供高效可靠的定制化散热方案。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张良灿",
+      "role": "董事长",
+      "quote": "公司负责人张良灿、主管会计工作负责人王丽萍及会计机构负责人（会计主管人员）陈微微声明...现任公司董事长。"
+    },
+    {
+      "name": "张天泓",
+      "role": "董事、总经理",
+      "quote": "2014年至今任同星制冷及同星科技总经理。现任公司董事、总经理。"
+    },
+    {
+      "name": "汪根法",
+      "role": "董事、副总经理",
+      "quote": "现任公司董事、副总经理、公司全资子公司浙江汉亚机电有限公司执行董事。"
+    },
+    {
+      "name": "王丽萍",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人王丽萍...现任公司财务总监、合肥同星执行董事。"
+    },
+    {
+      "name": "顾姮",
+      "role": "副总经理、董事会秘书",
+      "quote": "2025年8月至今历任同星科技投资部及证券事务负责人、副总经理、董事会秘书。现任公司副总经理、董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海尔集团",
+      "relation_type": "customer",
+      "business_details": "被授予‘战略合作供应商’、‘优秀合作伙伴’等荣誉称号。",
+      "quote": "公司与下游大型制冷设备企业及主机厂企业建立了长期稳定的合作关系，包括海尔集团、海信集团、美的集团、LG电子、开利、世图兹、澳柯玛、星星冷链、星崎电机、长安汽车、奇瑞汽车等。"
+    },
+    {
+      "name": "海信集团",
+      "relation_type": "customer",
+      "business_details": "被授予‘战略合作供应商’、‘优秀合作伙伴’等荣誉称号。",
+      "quote": "公司与下游大型制冷设备企业及主机厂企业建立了长期稳定的合作关系，包括海尔集团、海信集团、美的集团、LG电子、开利、世图兹、澳柯玛、星星冷链、星崎电机、长安汽车、奇瑞汽车等。"
+    },
+    {
+      "name": "美的集团",
+      "relation_type": "customer",
+      "business_details": "被授予‘战略合作供应商’、‘优秀合作伙伴’等荣誉称号。",
+      "quote": "公司与下游大型制冷设备企业及主机厂企业建立了长期稳定的合作关系，包括海尔集团、海信集团、美的集团、LG电子、开利、世图兹、澳柯玛、星星冷链、星崎电机、长安汽车、奇瑞汽车等。"
+    },
+    {
+      "name": "LG电子",
+      "relation_type": "customer",
+      "business_details": "被授予‘战略合作供应商’、‘优秀合作伙伴’等荣誉称号。",
+      "quote": "公司与下游大型制冷设备企业及主机厂企业建立了长期稳定的合作关系，包括海尔集团、海信集团、美的集团、LG电子、开利、世图兹、澳柯玛、星星冷链、星崎电机、长安汽车、奇瑞汽车等。"
+    },
+    {
+      "name": "开利",
+      "relation_type": "customer",
+      "business_details": "被授予‘战略合作供应商’、‘优秀合作伙伴’等荣誉称号。",
+      "quote": "公司与下游大型制冷设备企业及主机厂企业建立了长期稳定的合作关系，包括海尔集团、海信集团、美的集团、LG电子、开利、世图兹、澳柯玛、星星冷链、星崎电机、长安汽车、奇瑞汽车等。"
+    },
+    {
+      "name": "长安汽车",
+      "relation_type": "customer",
+      "business_details": "成为其核心供应商，建立了深度合作关系。",
+      "quote": "公司已成功开发适用于多款车型的汽车空调系统零部件，与长安汽车、奇瑞汽车、江淮汽车等头部车企建立了深度合作关系，成为其核心供应商。"
+    },
+    {
+      "name": "奇瑞汽车",
+      "relation_type": "customer",
+      "business_details": "成为其核心供应商，建立了深度合作关系。",
+      "quote": "公司已成功开发适用于多款车型的汽车空调系统零部件，与长安汽车、奇瑞汽车、江淮汽车等头部车企建立了深度合作关系，成为其核心供应商。"
+    },
+    {
+      "name": "新昌县可可机电有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "可可机电公司 指 新昌县可可机电有限公司"
+    },
+    {
+      "name": "天津同星仁和制冷有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "天津同星公司 指 天津同星仁和制冷有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "制冷零部件及产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,023,253,607.14元",
+      "revenue_proportion": "79.57%",
+      "gross_margin": "20.08%",
+      "yoy_change": "13.42%",
+      "quote": "分产品 制冷零部件及产品 1,023,253,607.14 79.57% ... 毛利率 20.08% ... 营业收入比上年同期增减 13.42%"
+    },
+    {
+      "name": "汽车空调系统零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "210,692,249.59元",
+      "revenue_proportion": "16.38%",
+      "gross_margin": "12.24%",
+      "yoy_change": "8.97%",
+      "quote": "汽车空调系统零部件 210,692,249.59 16.38% ... 毛利率 12.24% ... 营业收入比上年同期增减 8.97%"
+    },
+    {
+      "name": "其他业务收入",
+      "segment_type": "product_line",
+      "revenue_amount": "52,077,302.34元",
+      "revenue_proportion": "4.05%",
+      "gross_margin": null,
+      "yoy_change": "37.10%",
+      "quote": "其他业务收入 52,077,302.34 4.05% 37,985,155.85 3.35% 37.10%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,180,282,243.35元",
+      "revenue_proportion": "91.78%",
+      "gross_margin": "18.25%",
+      "yoy_change": "13.24%",
+      "quote": "分地区 境内 1,180,282,243.35 91.78% ... 毛利率 18.25% ... 营业收入比上年同期增减 13.24%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "105,740,915.72元",
+      "revenue_proportion": "8.22%",
+      "gross_margin": null,
+      "yoy_change": "15.83%",
+      "quote": "境外 105,740,915.72 8.22% 91,291,079.36 8.05% 15.83%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,286,023,159.07元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "19.30%",
+      "yoy_change": "13.45%",
+      "quote": "分销售模式 直销 1,286,023,159.07 100.00% ... 毛利率 19.30% ... 营业收入比上年同期增减 13.45%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "翅片式换热器",
+      "metric_type": "capacity",
+      "value": "年产超1200万个",
+      "period": null,
+      "quote": "公司主要产品包括...具备年产翅片式换热器超1,200万个的生产能力。"
+    },
+    {
+      "product": "通用设备制造业",
+      "metric_type": "sales_volume",
+      "value": "1,286,023,159.07元",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 通用设备制造业 销售量 元 1,286,023,159.07 1,133,533,266.86 13.45%"
+    },
+    {
+      "product": "通用设备制造业",
+      "metric_type": "production_volume",
+      "value": "1,427,073,122.46元",
+      "period": "2025年",
+      "quote": "通用设备制造业 生产量 元 1,427,073,122.46 1,168,655,177.75 22.11%"
+    },
+    {
+      "product": "通用设备制造业",
+      "metric_type": "inventory_volume",
+      "value": "141,858,343.41元",
+      "period": "2025年末",
+      "quote": "通用设备制造业 库存量 元 141,858,343.41 118,796,059.36 19.41%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "冷链物流系统环保换热器及智能模块产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "13,789.23万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2025年5月19日",
+      "quote": "冷链物流系统环保换热器及智能模块产业化项目 ... 承诺投资总额 13,789.23万元 ... 项目达到预定可使用状态日期 2025年05月19日"
+    },
+    {
+      "name": "轻商系统高效换热器产业化项目",
+      "project_type": "fundraising_project",
+      "location": "新昌大道东路889号、新昌县羽林街道拔茅村（2023年工6号）",
+      "investment_amount": "10,284.06万元",
+      "designed_capacity": null,
+      "progress": "未完成，已延期并变更实施地点",
+      "expected_completion_time": "2027年5月18日",
+      "quote": "轻商系统高效换热器产业化项目 ... 承诺投资总额 10,284.06万元 ... 项目达到预定可使用状态日期 2027年05月18日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "4,858.66万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2025年5月19日",
+      "quote": "研发中心建设项目 ... 承诺投资总额 4,858.66万元 ... 项目达到预定可使用状态日期 2025年05月19日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": "全系列换热器及产品",
+      "quantitative_info": "近200项",
+      "quote": "截至2025年底，公司已拥有有效专利近200项。"
+    },
+    {
+      "name": "《飞翼式换热器技术要求和试验方法》",
+      "asset_type": "standard",
+      "related_product": "飞翼式换热器",
+      "quantitative_info": null,
+      "quote": "参与制定了《飞翼式换热器技术要求和试验方法》（T/CAS 437-2020）行业团体标准。"
+    },
+    {
+      "name": "省级新产品鉴定",
+      "asset_type": "certification",
+      "related_product": "折弯式微通道换热器、微管翅片换热器等",
+      "quantitative_info": "9个，其中2项国际先进水平、7项国内领先水平",
+      "quote": "报告期内公司完成了包括折弯式微通道换热器，微管翅片换热器等 9个省级新产品鉴定，其中 2项达到国际先进水平、7项达到国内领先水平。"
+    },
+    {
+      "name": "热泵干衣机一体化换热芯体",
+      "asset_type": "core_technology",
+      "related_product": "热泵干衣机",
+      "quantitative_info": null,
+      "quote": "公司的热泵干衣机一体化换热芯体、新型环保制冷剂 R290 高效换热器、CO₂波浪型高效换热器等产品符合节能、高效、环保的发展趋势。"
+    },
+    {
+      "name": "R290高效换热器",
+      "asset_type": "core_technology",
+      "related_product": "使用R290制冷剂的系统",
+      "quantitative_info": "已实现批量生产",
+      "quote": "新型环保制冷剂 R290 高效换热器...已实现批量生产，市场认可度持续提升。"
+    },
+    {
+      "name": "CO₂波浪型高效换热器",
+      "asset_type": "core_technology",
+      "related_product": "使用CO₂制冷剂的系统",
+      "quantitative_info": null,
+      "quote": "CO₂波浪型高效换热器...等产品符合节能、高效、环保的发展趋势。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "55.85%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 718,188,709.26 前五名客户合计销售金额占年度销售总额比例 55.85%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "37.63%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 337,301,883.55 前五名供应商合计采购金额占年度采购总额比例 37.63%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "55.85%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 55.85%"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "37.63%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 37.63%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料包括铜、铝等金属，材料成本占主营业务成本的比例较高。2025年，全球商品市场由于地缘政治等各方因素波动加大，铜铝价格持续攀升。",
+      "related_entity": null,
+      "related_product": "铜、铝原材料",
+      "quote": "2、原材料价格波动风险 公司主要原材料包括铜、铝等金属，材料成本占主营业务成本的比例较高。2025年，全球商品市场由于地缘政治等各方因素波动加大，铜铝价格持续攀升。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "轻商制冷及汽车行业竞争较为激烈，公司如不能提高产品竞争力、增强产品技术含量、提升品牌影响力等，可能无法在市场竞争中取得优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、市场竞争风险 轻商制冷及汽车行业竞争较为激烈，公司如不能提高产品竞争力、增强产品技术含量、提升品牌影响力等，可能无法在市场竞争中取得优势。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司国际业务不断拓展，部分产品销往美国、东南亚等国家和地区，并采用美元等计价结算货币。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、汇率波动风险 公司国际业务不断拓展，部分产品销往美国、东南亚等国家和地区，并采用美元等计价结算货币。"
+    },
+    {
+      "risk_type": "other",
+      "description": "全球经济增长放缓，逆全球化与贸易壁垒大背景下，主要经济体之间的贸易摩擦持续，地缘政治紧张局势不断，对全球贸易和投资造成压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济波动风险 全球经济增长放缓，逆全球化与贸易壁垒大背景下，主要经济体之间的贸易摩擦持续，地缘政治紧张局势不断，对全球贸易和投资造成压力。"
+    }
+  ]
+}

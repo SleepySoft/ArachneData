@@ -1,0 +1,427 @@
+{
+  "company_name_mentioned": "永泰能源集团股份有限公司",
+  "produces": [
+    {
+      "name": "电能",
+      "type": "service",
+      "revenue_proportion": "2025年电力业务收入16,964,427,062.17元，占主营业务收入72.28%",
+      "quote": "公司电力业务产品为电能和热能，主要为工业和民用提供能源供应。...电力业务16,964,427,062.17元...占年度销售总额70.88%"
+    },
+    {
+      "name": "热能",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司电力业务产品为电能和热能，主要为工业和民用提供能源供应。...供热业务主要经营模式：民用供暖由发电企业与热力公司签订供热合同；工业供汽由发电企业与工业蒸汽用户或热力公司签订供汽合同。"
+    },
+    {
+      "name": "自产商品煤",
+      "type": "material",
+      "revenue_proportion": "2025年煤炭业务收入6,313,543,359.57元，占主营业务收入26.88%",
+      "quote": "煤炭品种 自产商品煤...销售收入 630,698.16万元...合计 631,354.34万元"
+    },
+    {
+      "name": "全钒液流电池储能系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司采用自主技术建设的首座 MW 级储能电站——南山光储一体化储能电站...集成 2.7MWp 光伏与 1.5MW/6MWh 全钒液流电池储能系统"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料（煤）",
+      "target_product": "电力",
+      "cost_proportion": "2025年电力业务燃料成本11,714,727,546.50元，占电力业务成本的85.20%",
+      "quote": "成本构成 项目 燃料...本期金额 11,714,727,546.50...占总成本比例(%) 85.20"
+    },
+    {
+      "name": "原材料（原料煤）",
+      "target_product": "煤炭",
+      "cost_proportion": "2025年煤炭业务原材料成本264,678,778.92元，占煤炭业务成本的5.57%",
+      "quote": "煤炭...原材料 264,678,778.92...占总成本比例(%) 5.57"
+    },
+    {
+      "name": "天然气",
+      "target_product": "电力",
+      "cost_proportion": null,
+      "quote": "张家港华兴电力天然气单价、供电气耗在省内同类型机组中均排名第一...张家港华兴电力积极推进天然气资源费核减，节约资源使用费750万元。"
+    },
+    {
+      "name": "电力设备",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "2025 年，公司发电量和原煤产量继续保持高位。但受煤炭业务焦煤产品整体市场价格同比有较大幅度下降...公司全年实现营业收入 238.17 亿元，营业成本 188.60 亿元"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业与民用能源供应",
+      "source_product": "电能和热能",
+      "quote": "公司电力业务产品为电能和热能，主要为工业和民用提供能源供应。"
+    },
+    {
+      "name": "钢铁冶金行业",
+      "source_product": "焦煤",
+      "quote": "公司在产煤种主要为主焦煤和配焦煤，是焦炭生产不可或缺的核心原料，主要用于钢铁冶金行业。"
+    },
+    {
+      "name": "煤化工生产",
+      "source_product": "化工煤",
+      "quote": "海则滩煤矿所产煤用作化工煤，可依托陕西榆林、内蒙古鄂尔多斯、宁夏宁东三大国家级现代煤化工产业示范区产业集群，市场需求稳定且有保障"
+    },
+    {
+      "name": "电力调峰与储能",
+      "source_product": "全钒液流电池储能系统",
+      "quote": "该项目成功投运标志着公司具备4小时储能时长的全钒液流电池系统集成与自主建设能力...形成了‘清洁替代+安全兜底’的矿山绿色转型可复制方案。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "窦红平",
+      "role": "董事长",
+      "quote": "公司负责人窦红平...现任本公司党委书记、董事长，本公司子公司北京德泰储能科技有限公司董事长"
+    },
+    {
+      "name": "常胜秋",
+      "role": "副董事长、总经理",
+      "quote": "副董事长 常胜秋...现任本公司党委副书记、副董事长、总经理。"
+    },
+    {
+      "name": "卞鹏飞",
+      "role": "副总经理、总会计师",
+      "quote": "主管会计工作负责人卞鹏飞...现任本公司副总经理、总会计师"
+    },
+    {
+      "name": "王广西",
+      "role": "实际控制人",
+      "quote": "公司实际控制人王广西先生...现为本公司实际控制人；本公司控股股东永泰集团有限公司董事长"
+    },
+    {
+      "name": "李军",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 李军"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "永泰集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、永泰集团 指 永泰集团有限公司"
+    },
+    {
+      "name": "华晨电力股份公司",
+      "relation_type": "subsidiary",
+      "business_details": "电力业务子公司",
+      "quote": "华晨电力 指 华晨电力股份公司"
+    },
+    {
+      "name": "华熙矿业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "煤炭业务主体企业",
+      "quote": "华熙矿业 指 华熙矿业有限公司"
+    },
+    {
+      "name": "银源煤焦",
+      "relation_type": "subsidiary",
+      "business_details": "煤炭业务主体企业",
+      "quote": "银源煤焦 指 灵石银源煤焦开发有限公司"
+    },
+    {
+      "name": "康伟集团",
+      "relation_type": "subsidiary",
+      "business_details": "煤炭业务主体企业",
+      "quote": "康伟集团 指 山西康伟集团有限公司"
+    },
+    {
+      "name": "华瀛石油化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "石化仓储业务子公司",
+      "quote": "华瀛石化 指 华瀛石油化工有限公司"
+    },
+    {
+      "name": "德泰储能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "储能业务子公司",
+      "quote": "德泰储能 指 北京德泰储能科技有限公司"
+    },
+    {
+      "name": "汇宏矿业开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "钒矿资源子公司",
+      "quote": "汇宏矿业 指 敦煌市汇宏矿业开发有限公司"
+    },
+    {
+      "name": "德泰储能装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "储能装备制造子公司",
+      "quote": "德泰储能装备 指 张家港德泰储能装备有限公司"
+    },
+    {
+      "name": "海南海德资本管理股份有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人控制的其他上市公司",
+      "quote": "海德股份 指 海南海德资本管理股份有限公司"
+    },
+    {
+      "name": "山西宏源富康新能源有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户",
+      "quote": "序号 客户名称 销售额...1 山西宏源富康新能源有限公司 293,127,292.94...占年度销售总额比例（%） 1.23"
+    },
+    {
+      "name": "江苏金桥国际供应链有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商",
+      "quote": "序号 供应商名称 采购额...1 江苏金桥国际供应链有限公司 736,310,933.66...占年度采购总额比例（%） 5.41"
+    },
+    {
+      "name": "沛县联蒙洗煤有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "序号 供应商名称 采购额...2 沛县联蒙洗煤有限公司 417,273,999.64...占年度采购总额比例（%） 3.07"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "16,964,427,062.17",
+      "revenue_proportion": "72.28%",
+      "gross_margin": "18.95%",
+      "yoy_change": "-7.83%",
+      "quote": "电力 16,964,427,062.17...毛利率（%） 18.95...营业收入比上年增减（%） -7.83"
+    },
+    {
+      "name": "煤炭",
+      "segment_type": "product_line",
+      "revenue_amount": "6,313,543,359.57",
+      "revenue_proportion": "26.88%",
+      "gross_margin": "24.78%",
+      "yoy_change": "-31.13%",
+      "quote": "煤炭 6,313,543,359.57...毛利率（%） 24.78...营业收入比上年增减（%） -31.13"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "10,355,991,952.90",
+      "revenue_proportion": "44.14%",
+      "gross_margin": "16.14%",
+      "yoy_change": "-20.03%",
+      "quote": "华东地区 10,355,991,952.90...毛利率（%） 16.14...营业收入比上年增减（%） -20.03"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "5,584,269,164.11",
+      "revenue_proportion": "23.80%",
+      "gross_margin": "23.49%",
+      "yoy_change": "-21.46%",
+      "quote": "华北地区 5,584,269,164.11...毛利率（%） 23.49...营业收入比上年增减（%） -21.46"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "7,155,450,174.94",
+      "revenue_proportion": "30.50%",
+      "gross_margin": "24.77%",
+      "yoy_change": "-3.18%",
+      "quote": "华中地区 7,155,450,174.94...毛利率（%） 24.77...营业收入比上年增减（%） -3.18"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "23,458,821,687.89",
+      "revenue_proportion": "100%",
+      "gross_margin": "20.07%",
+      "yoy_change": "-16.00%",
+      "quote": "销售模式 营业收入...直销 23,458,821,687.89...毛利率（%） 20.07...营业收入比上年增减（%） -16.00"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "4,055,493.00万千瓦时",
+      "period": "2025年",
+      "quote": "主要产品 单位 生产量...电力 万千瓦时 4,055,493.00"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "3,845,415.00万千瓦时",
+      "period": "2025年",
+      "quote": "主要产品 单位...销售量...电力 万千瓦时...3,845,415.00"
+    },
+    {
+      "product": "自产商品煤",
+      "metric_type": "production_volume",
+      "value": "1,330.06万吨",
+      "period": "2025年",
+      "quote": "主要产品 单位 生产量...自产商品煤 万吨 1,330.06"
+    },
+    {
+      "product": "自产商品煤",
+      "metric_type": "sales_volume",
+      "value": "1,336.40万吨",
+      "period": "2025年",
+      "quote": "主要产品 单位...销售量...自产商品煤 万吨...1,336.40"
+    },
+    {
+      "product": "自产商品煤",
+      "metric_type": "inventory_volume",
+      "value": "7.89万吨",
+      "period": "2025年末",
+      "quote": "主要产品 单位...库存量...自产商品煤 万吨...7.89"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity",
+      "value": "918.44万千瓦",
+      "period": "2025年末",
+      "quote": "总装机容量（万千瓦）...合计 918.44 918.44"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "海则滩煤矿",
+      "project_type": "capacity_expansion",
+      "location": "陕西省靖边县",
+      "investment_amount": null,
+      "designed_capacity": "煤种主要为优质化工煤和动力煤，平均发热量6,500大卡以上",
+      "progress": "四条井筒已全部贯通...主运、辅运、回风三条大巷及井底车场、水仓、变电所等主要硐室已掘进20,000余米",
+      "expected_completion_time": "计划2026年6月底首采工作面完成安装，7月初开始试采出煤，年底形成第二个工作面；2027年一季度进行联合试运转，力争实现当年投产即达产目标。",
+      "quote": "公司重点项目海则滩煤矿...计划2026年6月底首采工作面完成安装，7月初开始试采出煤，年底形成第二个工作面；2027年一季度进行联合试运转，力争实现当年投产即达产目标。"
+    },
+    {
+      "name": "煤下铝资源获取项目",
+      "project_type": "other",
+      "location": "山西省",
+      "investment_amount": null,
+      "designed_capacity": "查明了丰富的铝土矿和战略性稀有金属镓等矿产资源。",
+      "progress": "所属森达源煤矿、金泰源煤矿已完成储量评审备案",
+      "expected_completion_time": null,
+      "quote": "公司所属森达源煤矿、金泰源煤矿已完成储量评审备案，查明了丰富的铝土矿和战略性稀有金属镓等矿产资源。"
+    },
+    {
+      "name": "南山光储一体化储能电站",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2.7MWp光伏与1.5MW/6MWh全钒液流电池储能系统",
+      "progress": "于2024年9月正式投运以来，已实现持续稳定运行。",
+      "expected_completion_time": null,
+      "quote": "公司采用自主技术建设的首座 MW 级储能电站——南山光储一体化储能电站，于2024年9月正式投运以来，已实现持续稳定运行。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "全钒液流电池正极固体增容材料",
+      "asset_type": "core_technology",
+      "related_product": "全钒液流电池储能系统",
+      "quantitative_info": "可将全钒液流电池正极电解液成本降至传统方案的40%~60%",
+      "quote": "公司所属新加坡 Vnergy 公司研发的第一代正极固体增容材料，可将全钒液流电池正极电解液成本降至传统方案的40%~60%"
+    },
+    {
+      "name": "1.2代32kW电堆产品",
+      "asset_type": "technical_platform",
+      "related_product": "全钒液流电池储能系统",
+      "quantitative_info": "电流密度提升至180mA/cm²、电堆能量效率达到80%以上",
+      "quote": "公司自主研发的1.2代32kW电堆产品...电流密度提升至180mA/cm²、电堆能量效率达到80%以上，达到国内先进水平。"
+    },
+    {
+      "name": "储能专利技术",
+      "asset_type": "patent",
+      "related_product": "储能业务",
+      "quantitative_info": "已累计获得储能专利技术达28项",
+      "quote": "公司...已累计获得储能专利技术达28项，形成了较为完善的核心技术保护体系。"
+    },
+    {
+      "name": "智能化综掘工作面",
+      "asset_type": "process_technology",
+      "related_product": "煤炭开采",
+      "quantitative_info": "共建成17个智能化综掘工作面和6个智能化综采工作面",
+      "quote": "全面推动智能化建设，共建成17个智能化综掘工作面和6个智能化综采工作面"
+    },
+    {
+      "name": "电力企业专利技术",
+      "asset_type": "patent",
+      "related_product": "电力业务",
+      "quantitative_info": "目前拥有各类专利技术45项",
+      "quote": "电力企业目前拥有各类专利技术45项。"
+    },
+    {
+      "name": "煤炭企业专利技术",
+      "asset_type": "patent",
+      "related_product": "煤炭业务",
+      "quantitative_info": "目前拥有各类专利技术73项",
+      "quote": "煤炭企业目前拥有各类专利技术73项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "70.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额1,688,219.53万元，占年度销售总额70.88%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.50%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额687,301.46万元，占年度采购总额50.50%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "1.23%",
+      "related_entity": "山西宏源富康新能源有限公司",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额 占年度销售总额比例（%）...1 山西宏源富康新能源有限公司 293,127,292.94 1.23"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "5.41%",
+      "related_entity": "江苏金桥国际供应链有限公司",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额 占年度采购总额比例（%）...1 江苏金桥国际供应链有限公司 736,310,933.66 5.41"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "近年来，随着新能源市场快速发展和占比提升，公司所处能源行业面临着淘汰落后产能、传统能源市场份额减少、竞争日益加剧的严峻形势。",
+      "related_entity": null,
+      "related_product": "电力、煤炭业务",
+      "quote": "2．市场竞争风险 近年来，随着新能源市场快速发展和占比提升，公司所处能源行业面临着淘汰落后产能、传统能源市场份额减少、竞争日益加剧的严峻形势。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受煤炭业务焦煤产品整体市场价格同比下降所致。",
+      "related_entity": null,
+      "related_product": "焦煤",
+      "quote": "营业收入变动原因说明：主要系本期煤炭采选产品销售价格同比下降所致。"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全生产风险，公司所属电力、煤炭和石化行业对安全生产要求高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3．安全生产风险 公司所属电力、煤炭和石化行业对安全生产要求高，日常生产面临着设备运行、人员操作、地质条件、危化产品等方面安全管理风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环境保护风险，‘十五五’作为国家碳达峰决胜攻坚期，节能降碳政策持续收紧，企业减排压力将进一步加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4．环境保护风险 ‘十五五’作为国家碳达峰决胜攻坚期，节能降碳政策持续收紧，企业减排压力将进一步加大。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司在稳定生产经营的同时，认真履行还本付息义务。自2018年7月至2025年12月末，公司累计现金还本付息423.28亿元。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在稳定生产经营的同时，认真履行还本付息义务。自2018年7月至2025年12月末，公司累计现金还本付息423.28亿元"
+    }
+  ]
+}

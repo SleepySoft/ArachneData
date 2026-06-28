@@ -1,0 +1,518 @@
+{
+  "company_name_mentioned": "江苏博迁新材料股份有限公司",
+  "produces": [
+    {
+      "name": "镍基产品",
+      "type": "material",
+      "revenue_proportion": "镍基产品...实现销售收入861,705,202.00元...营业收入861,705,202.00元，毛利率（%）37.54",
+      "quote": "镍基产品...实现销售收入861,705,202.00元...镍基产品...营业收入861,705,202.00元，营业成本538,240,376.63，毛利率（%）37.54"
+    },
+    {
+      "name": "铜基产品",
+      "type": "material",
+      "revenue_proportion": "铜基产品...营业收入121,451,223.89元，毛利率（%）26.87",
+      "quote": "铜基产品...营业收入121,451,223.89元，营业成本88,822,962.21，毛利率（%）26.87"
+    },
+    {
+      "name": "银粉",
+      "type": "material",
+      "revenue_proportion": "银粉...营业收入52,622,592.58元，毛利率（%）6.81",
+      "quote": "银粉...营业收入52,622,592.58元，营业成本49,040,400.80，毛利率（%）6.81"
+    },
+    {
+      "name": "合金",
+      "type": "material",
+      "revenue_proportion": "合金...营业收入26,611,689.64元，毛利率（%）62.13",
+      "quote": "合金...营业收入26,611,689.64元，营业成本10,077,693.45，毛利率（%）62.13"
+    },
+    {
+      "name": "纳米级、亚微米级镍粉和亚微米级、微米级铜粉、银粉、银包铜粉、合金粉",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司的主营业务为电子专用高端金属粉体材料的研发、生产和销售。目前公司产品主要包括纳米级、亚微米级镍粉和亚微米级、微米级铜粉、银粉、银包铜粉、合金粉。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "镍块",
+      "target_product": "镍粉",
+      "cost_proportion": "镍基产品...材料成本...259,283,379.18元...占总成本比例(%)33.42",
+      "quote": "镍基产品 材料成本...259,283,379.18元...占总成本比例(%)33.42"
+    },
+    {
+      "name": "铜棒",
+      "target_product": "铜粉",
+      "cost_proportion": "铜基产品...材料成本...58,489,940.18元...占总成本比例(%)7.54",
+      "quote": "铜基产品 材料成本...58,489,940.18元...占总成本比例(%)7.54"
+    },
+    {
+      "name": "银砂",
+      "target_product": "银粉",
+      "cost_proportion": "银粉...材料成本...48,348,532.46元...占总成本比例(%)6.23",
+      "quote": "银粉 材料成本...48,348,532.46元...占总成本比例(%)6.23"
+    }
+  ],
+  "applications": [
+    {
+      "name": "MLCC（片式多层陶瓷电容器）",
+      "source_product": "镍粉、铜粉",
+      "quote": "其中镍粉、铜粉主要应用于MLCC的生产...镍粉、铜粉主要应用于MLCC的生产"
+    },
+    {
+      "name": "电感",
+      "source_product": "合金粉",
+      "quote": "合金粉主要应用于电感制造"
+    },
+    {
+      "name": "光伏低银化",
+      "source_product": "银包铜粉",
+      "quote": "银包铜粉产品主要用于光伏低银化领域"
+    },
+    {
+      "name": "消费电子、汽车电子、通信设备、AI服务器、航空航天等",
+      "source_product": "镍基产品、铜基产品、合金粉体产品",
+      "quote": "并广泛应用到消费电子、汽车电子、通信设备、AI服务器、航空航天等其他领域当中"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王利平",
+      "role": "董事长、法定代表人、实际控制人",
+      "quote": "公司负责人王利平...王利平...现任公司董事长，广博集团股份有限公司董事长...公司与实际控制人之间的产权及控制关系的方框图...实际控制人...姓名王利平...现任公司董事长"
+    },
+    {
+      "name": "陈钢强",
+      "role": "董事、总经理（已离任）",
+      "quote": "陈钢强（已离任）...董事、总经理"
+    },
+    {
+      "name": "裘欧特",
+      "role": "董事、总经理",
+      "quote": "裘欧特...总经理...现任公司董事兼总经理，广新纳米执行董事兼经理"
+    },
+    {
+      "name": "江益龙",
+      "role": "董事、副总经理",
+      "quote": "江益龙...现任公司董事兼副总经理，广新进出口执行董事兼经理，宁波广新日本株式会社代表董事"
+    },
+    {
+      "name": "赵登永",
+      "role": "董事、材料研究院院长",
+      "quote": "赵登永...现任公司董事、公司材料研究院院长、公司知识产权保护办公室负责人"
+    },
+    {
+      "name": "蒋颖",
+      "role": "董事、董事会秘书",
+      "quote": "蒋颖...现任公司董事兼董事会秘书"
+    },
+    {
+      "name": "蔡俊",
+      "role": "职工董事、技术部经理",
+      "quote": "蔡俊...现任公司职工代表董事兼技术部经理，宁波广迁电子材料有限公司执行董事兼经理"
+    },
+    {
+      "name": "舒丽红",
+      "role": "副总经理",
+      "quote": "舒丽红...现任公司副总经理、宁波广迁电子材料有限公司监事"
+    },
+    {
+      "name": "彭家斌",
+      "role": "副总经理",
+      "quote": "彭家斌...现任公司副总经理、江苏广豫储能材料有限公司执行董事，宿迁广豫进出口有限公司董事、经理"
+    },
+    {
+      "name": "李景厅",
+      "role": "财务负责人",
+      "quote": "李景厅...现任公司财务负责人"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁波广新纳米材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电子专用高端金属粉体材料的研发、生产、销售",
+      "quote": "广新纳米 指 宁波广新纳米材料有限公司...宁波广新纳米材料有限公司 子公司"
+    },
+    {
+      "name": "宁波广新进出口有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电子专用高端金属粉体材料的销售",
+      "quote": "广新进出口 指 宁波广新进出口有限公司...宁波广新进出口有限公司 子公司"
+    },
+    {
+      "name": "宁波广新日本株式会社",
+      "relation_type": "subsidiary",
+      "business_details": "电子专用高端金属粉体材料的研发、销售",
+      "quote": "宁波广新日本株式会社 子公司"
+    },
+    {
+      "name": "宁波广迁电子材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电子专用材料制造",
+      "quote": "宁波广迁电子材料有限公司 子公司"
+    },
+    {
+      "name": "江苏广豫储能材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "非金属矿物质制品制造；电子专用材料制造、研发和销售",
+      "quote": "江苏广豫储能材料有限公司 子公司"
+    },
+    {
+      "name": "苏州典弈企业管理合伙企业（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "企业管理；社会经济咨询服务；信息咨询服务",
+      "quote": "苏州典弈企业管理合伙企业（有限合伙） 子公司"
+    },
+    {
+      "name": "宿迁广豫进出口有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电子专用材料及非金属矿及制品销售",
+      "quote": "宿迁广豫进出口有限公司 子公司"
+    },
+    {
+      "name": "沪创医疗科技（上海）有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "第三类医疗器械生产；第二类医疗器械生产；第三类医疗器械经营",
+      "quote": "沪创医疗 指 沪创医疗科技（上海）有限公司...沪创医疗 联营企业...主要业务：第三类医疗器械生产；第二类医疗器械生产；第三类医疗器械经营"
+    },
+    {
+      "name": "宁波广弘元创业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司控股股东",
+      "quote": "宁波广弘元创业投资合伙企业（有限合伙）...控股股东"
+    },
+    {
+      "name": "宁波申扬创业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司股东，与广弘元为一致行动人",
+      "quote": "申扬投资 指 宁波申扬创业投资合伙企业（有限合伙）...宁波申扬创业投资合伙企业（有限合伙）...股东...公司已知前十名股东，宁波广弘元创业投资合伙企业（有限合伙）与宁波申扬创业投资合伙企业（有限合伙）为一致行动人关系。"
+    },
+    {
+      "name": "X公司",
+      "relation_type": "customer",
+      "business_details": "镍粉产品销售",
+      "quote": "已签订的重大销售合同截至本报告期的履行情况...镍粉产品 X公司...合同总金额232,561,044.33"
+    },
+    {
+      "name": "韩国、台湾等国际、国内电子元器件行业领先企业",
+      "relation_type": "customer",
+      "business_details": "MLCC等电子元器件生产商",
+      "quote": "公司客户主要为MLCC等电子元器件生产商以及各类浆料生产商，包括韩国、台湾等地区知名MLCC生产商。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "金属粉体材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,062,390,708.11元",
+      "revenue_proportion": null,
+      "gross_margin": "35.41%",
+      "yoy_change": "营业收入比上年增减（%）23.80",
+      "quote": "主营业务分行业情况...分行业：金属粉体材料...营业收入1,062,390,708.11元，营业成本686,181,433.09，毛利率（%）35.41，营业收入比上年增减（%）23.80"
+    },
+    {
+      "name": "镍基产品",
+      "segment_type": "product_line",
+      "revenue_amount": "861,705,202.00元",
+      "revenue_proportion": null,
+      "gross_margin": "37.54%",
+      "yoy_change": "营业收入比上年增减（%）25.88",
+      "quote": "主营业务分产品情况...分产品：镍基产品...营业收入861,705,202.00元，营业成本538,240,376.63，毛利率（%）37.54，营业收入比上年增减（%）25.88"
+    },
+    {
+      "name": "铜基产品",
+      "segment_type": "product_line",
+      "revenue_amount": "121,451,223.89元",
+      "revenue_proportion": null,
+      "gross_margin": "26.87%",
+      "yoy_change": "营业收入比上年增减（%）-0.42",
+      "quote": "主营业务分产品情况...分产品：铜基产品...营业收入121,451,223.89元，营业成本88,822,962.21，毛利率（%）26.87，营业收入比上年增减（%）-0.42"
+    },
+    {
+      "name": "银粉",
+      "segment_type": "product_line",
+      "revenue_amount": "52,622,592.58元",
+      "revenue_proportion": null,
+      "gross_margin": "6.81%",
+      "yoy_change": "营业收入比上年增减（%）19.33",
+      "quote": "主营业务分产品情况...分产品：银粉...营业收入52,622,592.58元，营业成本49,040,400.80，毛利率（%）6.81，营业收入比上年增减（%）19.33"
+    },
+    {
+      "name": "合金",
+      "segment_type": "product_line",
+      "revenue_amount": "26,611,689.64元",
+      "revenue_proportion": null,
+      "gross_margin": "62.13%",
+      "yoy_change": "营业收入比上年增减（%）255.00",
+      "quote": "主营业务分产品情况...分产品：合金...营业收入26,611,689.64元，营业成本10,077,693.45，毛利率（%）62.13，营业收入比上年增减（%）255.00"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "406,426,733.08元",
+      "revenue_proportion": null,
+      "gross_margin": "13.11%",
+      "yoy_change": "营业收入比上年增减（%）43.02",
+      "quote": "主营业务分地区情况...分地区：内销...营业收入406,426,733.08元，营业成本353,143,467.69，毛利率（%）13.11，营业收入比上年增减（%）43.02"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "655,963,975.03元",
+      "revenue_proportion": null,
+      "gross_margin": "49.23%",
+      "yoy_change": "营业收入比上年增减（%）14.29",
+      "quote": "主营业务分地区情况...分地区：外销...营业收入655,963,975.03元，营业成本333,037,965.40，毛利率（%）49.23，营业收入比上年增减（%）14.29"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "996,893,288.57元",
+      "revenue_proportion": null,
+      "gross_margin": "36.09%",
+      "yoy_change": "营业收入比上年增减（%）23.76",
+      "quote": "主营业务分销售模式情况...销售模式：直销...营业收入996,893,288.57元，营业成本637,109,863.35，毛利率（%）36.09，营业收入比上年增减（%）23.76"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "65,497,419.54元",
+      "revenue_proportion": null,
+      "gross_margin": "25.08%",
+      "yoy_change": "营业收入比上年增减（%）24.50",
+      "quote": "主营业务分销售模式情况...销售模式：经销...营业收入65,497,419.54元，营业成本49,071,569.74，毛利率（%）25.08，营业收入比上年增减（%）24.50"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "镍基产品",
+      "metric_type": "production_volume",
+      "value": "1,448,142.77 Kg",
+      "period": "2025年",
+      "quote": "主要产品 单位 生产量...镍基产品 Kg 1,448,142.77"
+    },
+    {
+      "product": "镍基产品",
+      "metric_type": "sales_volume",
+      "value": "1,314,485.13 Kg",
+      "period": "2025年",
+      "quote": "主要产品 单位...销售量...镍基产品 Kg 1,314,485.13"
+    },
+    {
+      "product": "镍基产品",
+      "metric_type": "inventory_volume",
+      "value": "313,677.45 Kg",
+      "period": "2025年末",
+      "quote": "主要产品 单位...库存量...镍基产品 Kg 313,677.45"
+    },
+    {
+      "product": "铜基产品",
+      "metric_type": "production_volume",
+      "value": "200,580.74 Kg",
+      "period": "2025年",
+      "quote": "主要产品 单位 生产量...铜基产品 Kg 200,580.74"
+    },
+    {
+      "product": "铜基产品",
+      "metric_type": "sales_volume",
+      "value": "188,611.63 Kg",
+      "period": "2025年",
+      "quote": "主要产品 单位...销售量...铜基产品 Kg 188,611.63"
+    },
+    {
+      "product": "铜基产品",
+      "metric_type": "inventory_volume",
+      "value": "3,505.55 Kg",
+      "period": "2025年末",
+      "quote": "主要产品 单位...库存量...铜基产品 Kg 3,505.55"
+    },
+    {
+      "product": "成品银粉",
+      "metric_type": "production_volume",
+      "value": "5,471.75 Kg",
+      "period": "2025年",
+      "quote": "主要产品 单位 生产量...成品银粉 Kg 5,471.75"
+    },
+    {
+      "product": "成品银粉",
+      "metric_type": "sales_volume",
+      "value": "6,171.38 Kg",
+      "period": "2025年",
+      "quote": "主要产品 单位...销售量...成品银粉 Kg 6,171.38"
+    },
+    {
+      "product": "成品银粉",
+      "metric_type": "inventory_volume",
+      "value": "16.07 Kg",
+      "period": "2025年末",
+      "quote": "主要产品 单位...库存量...成品银粉 Kg 16.07"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "镍粉产线及厂房建设",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在建工程增加主要系本期镍粉产线及厂房建设所致。",
+      "expected_completion_time": null,
+      "quote": "说明7：在建工程增加主要系本期镍粉产线及厂房建设所致。"
+    },
+    {
+      "name": "新设宿迁广豫进出口有限公司",
+      "project_type": "acquisition_project",
+      "location": "宿迁市",
+      "investment_amount": "人民币100万元",
+      "designed_capacity": null,
+      "progress": "已设立",
+      "expected_completion_time": null,
+      "quote": "2025年5月...公司之子公司江苏广豫储能材料有限公司，以自有资金出资人民币100万元设立全资子公司宿迁广豫进出口有限公司，注册资本：100万元整"
+    },
+    {
+      "name": "投资沪创医疗科技（上海）有限公司",
+      "project_type": "other",
+      "location": "上海",
+      "investment_amount": "75,000,000元",
+      "designed_capacity": null,
+      "progress": "完成工商变更",
+      "expected_completion_time": null,
+      "quote": "沪创医疗...投资金额75,000,000元...截至资产负债表日的进展情况：完成工商变更"
+    },
+    {
+      "name": "新建超细镍粉扩产项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "议案已审议通过",
+      "expected_completion_time": null,
+      "quote": "2025年8月20日...审议《关于公司子公司新建超细镍粉扩产项目的议案》"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "常压下等离子体加热气相冷凝法",
+      "asset_type": "core_technology",
+      "related_product": "金属粉体材料",
+      "quantitative_info": null,
+      "quote": "公司将立足于“常压下等离子体加热气相冷凝法”这一核心技术"
+    },
+    {
+      "name": "电容器电极镍粉行业标准（YS/T1338-2019）",
+      "asset_type": "standard",
+      "related_product": "镍粉",
+      "quantitative_info": "公司作为唯一起草和制定单位，负责了我国第一部电容器电极镍粉行业标准（标准编号：YS/T1338-2019）的起草及制定工作",
+      "quote": "公司作为唯一起草和制定单位，负责了我国第一部电容器电极镍粉行业标准（标准编号：YS/T1338-2019）的起草及制定工作，该标准已自2020年1月1日起实施。"
+    },
+    {
+      "name": "浙江省多层片式陶瓷电容器电极镍粉团体标准（T/ZZB1912-2020）",
+      "asset_type": "standard",
+      "related_product": "镍粉",
+      "quantitative_info": "公司全资子公司广新纳米作为主要起草单位",
+      "quote": "公司全资子公司广新纳米作为主要起草单位，负责了浙江省多层片式陶瓷电容器电极镍粉团体标准（标准编号：T/ZZB1912-2020）的起草及制定工作，该标准已自2020年12月1日起实施。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至本报告期末，公司现行有效授权专利共计181项：其中境内专利144项，包括发明专利64项、实用新型专利80项；境外专利37项。",
+      "quote": "截至本报告期末，公司现行有效授权专利共计181项：其中境内专利144项，包括发明专利64项、实用新型专利80项；境外专利37项。"
+    },
+    {
+      "name": "高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "于2013年12月通过高新技术企业认证...并于2016年11月、2019年12月、2022年10月和2025年12月通过高新技术企业认证复审",
+      "quote": "公司于2013年12月通过高新技术企业认证，取得《高新技术企业证书》，并于2016年11月、2019年12月、2022年10月和2025年12月通过高新技术企业认证复审"
+    },
+    {
+      "name": "国家级第四批专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已获批“国家级第四批专精特新‘小巨人’企业”"
+    },
+    {
+      "name": "浙江省广新微纳米粉末材料技术企业研究院",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "子公司广新纳米申报的“浙江省广新微纳米粉末材料技术企业研究院”，被认定为2025年度浙江省企业研究院"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "87,515.48万元，占年度销售总额75.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额87,515.48万元，占年度销售总额75.98%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "40,526.55万元，占年度采购总额74.61%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额40,526.55万元，占年度采购总额74.61%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高...报告期内公司主营业务前五大客户的合计销售收入占主营业务收入78.32%。客户集中度较高在一定程度上反映了MLCC行业目前的市场竞争格局，若未来公司主要客户因各种原因减少对公司产品的采购，则公司可能出现经营业绩下降的风险。",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "3、客户集中度较高的风险...报告期内公司主营业务前五大客户的合计销售收入占主营业务收入78.32%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济波动风险...公司主要产品的下游MLCC市场需求出现了下滑。若未来市场因宏观经济形势变化而再次发生波动，可能对公司的销售收入和盈利水平持续产生不利影响。",
+      "related_entity": null,
+      "related_product": "MLCC",
+      "quote": "1、宏观经济波动风险...上述领域的景气程度与宏观经济发展状况存在较为紧密的联系...受终端消费电子市场需求下滑影响，2022年和2023年公司主要产品的下游MLCC市场需求出现了下滑。若未来市场因宏观经济形势变化而再次发生波动，可能对公司的销售收入和盈利水平持续产生不利影响，公司业绩存在进一步下滑的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争风险...同行业其他企业亦会采取降价或扩产的方式保持自己的市场份额。公司存在可能因产品价格下跌或市场占有率下滑导致利润水平下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、行业竞争风险...不排除未来可能会有新进入行业的厂商与公司展开竞争。同时，同行业其他企业亦会采取降价或扩产的方式保持自己的市场份额。公司存在可能因产品价格下跌或市场占有率下滑导致利润水平下降的风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户集中度较高的风险...若未来公司主要客户因各种原因减少对公司产品的采购，则公司可能出现经营业绩下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、客户集中度较高的风险...报告期内公司主营业务前五大客户的合计销售收入占主营业务收入78.32%。客户集中度较高在一定程度上反映了MLCC行业目前的市场竞争格局，若未来公司主要客户因各种原因减少对公司产品的采购，则公司可能出现经营业绩下降的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险...公司主要原材料为镍块、铜棒及银砂，采购价格受大宗商品及相关商品期货价格的影响较大，价格波动可能对公司的生产成本及毛利率水平造成较大影响。",
+      "related_entity": null,
+      "related_product": "镍块、铜棒、银砂",
+      "quote": "4、原材料价格波动风险...公司主要原材料为镍块、铜棒及银砂，采购价格受大宗商品及相关商品期货价格的影响较大，价格波动可能对公司的生产成本及毛利率水平造成较大影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货管理和存货跌价风险...存货规模较大会降低公司运营效率，同时产生跌价风险，对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、存货管理和存货跌价风险...存货规模较大会降低公司运营效率，同时产生跌价风险，对公司经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款回款风险...如果行业和主要客户经营状况等发生重大不利变化，公司应收账款仍存在发生坏账的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、应收账款回款风险...尽管如此，如果行业和主要客户经营状况等发生重大不利变化，公司应收账款仍存在发生坏账的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "核心技术失密的风险...一旦核心技术失密，将可能给公司生产经营和市场竞争力带来负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、核心技术失密的风险...一旦核心技术失密，将可能给公司生产经营和市场竞争力带来负面影响。"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "company_name_mentioned": "中国南方航空股份有限公司",
+  "produces": [
+    {
+      "name": "航空客运服务",
+      "type": "service",
+      "revenue_proportion": "87.12%",
+      "quote": "报告期内，本集团旅客运输收入为人民币153,644百万元，占本集团主营业务收入的比例为87.12%"
+    },
+    {
+      "name": "航空货运及邮运服务",
+      "type": "service",
+      "revenue_proportion": "11.15%",
+      "quote": "报告期内，本集团的货邮运输收入为人民币19,670百万元，占主营业务收入的比例为11.15%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "航油",
+      "target_product": null,
+      "cost_proportion": "32.07%",
+      "quote": "航油成本为人民币52,526百万元... 本期占总成本比例（%）32.07"
+    },
+    {
+      "name": "飞机维修及修理服务",
+      "target_product": null,
+      "cost_proportion": "7.27%",
+      "quote": "飞机维护及修理费用... 本期占总成本比例（%）7.27"
+    },
+    {
+      "name": "餐食及机供品",
+      "target_product": null,
+      "cost_proportion": "2.97%",
+      "quote": "餐食机供品费用... 本期占总成本比例（%）2.97"
+    },
+    {
+      "name": "起降服务",
+      "target_product": null,
+      "cost_proportion": "12.88%",
+      "quote": "起降服务费... 本期占总成本比例（%）12.88"
+    }
+  ],
+  "applications": [
+    {
+      "name": "客运航空出行",
+      "source_product": "航空客运服务",
+      "quote": "本公司是以航空客运、货运为主业的运输航空公司"
+    },
+    {
+      "name": "货运航空物流",
+      "source_product": "航空货运及邮运服务",
+      "quote": "货邮运输量195.8万吨"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "马须伦",
+      "role": "董事长",
+      "quote": "公司负责人董事长马须伦先生"
+    },
+    {
+      "name": "韩文胜",
+      "role": "副董事长、总经理",
+      "quote": "执行董事 韩文胜... 副董事长... 总经理"
+    },
+    {
+      "name": "陈冬",
+      "role": "副总经理、总会计师、财务总监",
+      "quote": "主管会计工作的公司负责人副总经理、总会计师、财务总监陈冬先生"
+    },
+    {
+      "name": "陈威华",
+      "role": "总法律顾问、董事会秘书",
+      "quote": "董事会秘书 陈威华"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国南方航空集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "公司的控股股东为南航集团"
+    },
+    {
+      "name": "厦门航空有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "厦门航空、厦航 指 厦门航空有限公司"
+    },
+    {
+      "name": "南航物流",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主要从事货物运输",
+      "quote": "南航物流 指 南方航空物流股份有限公司"
+    },
+    {
+      "name": "四川航空股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，持股39%，从事航空客货运输",
+      "quote": "四川航空股份有限公司... 参股公司... 投资金额 4,680百万元... 持股比例 39%"
+    },
+    {
+      "name": "中国民航信息网络股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，持股6.93%",
+      "quote": "中国民航信息网络股份有限公司（参股6.93%）"
+    },
+    {
+      "name": "美国航空",
+      "relation_type": "investor",
+      "business_details": "持有公司1.49%股份",
+      "quote": "美国航空公司... 持股数量... 270,606,272... 比例(%) 1.49"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "客运及相关服务",
+      "segment_type": "product_line",
+      "revenue_amount": "156,688百万元",
+      "revenue_proportion": null,
+      "gross_margin": "6.24%",
+      "yoy_change": null,
+      "quote": "客运及客运相关服务... 营业收入 156,688... 毛利率（%） 6.24"
+    },
+    {
+      "name": "货运及邮运",
+      "segment_type": "product_line",
+      "revenue_amount": "19,670百万元",
+      "revenue_proportion": null,
+      "gross_margin": "30.10%",
+      "yoy_change": null,
+      "quote": "货运及邮运... 营业收入 19,670... 毛利率（%） 30.10"
+    },
+    {
+      "name": "国内航线",
+      "segment_type": "region",
+      "revenue_amount": "116,493百万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "国内... 营业收入 116,493"
+    },
+    {
+      "name": "国际航线",
+      "segment_type": "region",
+      "revenue_amount": "57,603百万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "国际... 营业收入 57,603"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "972架",
+      "period": "截至2025年12月31日",
+      "quote": "本集团运营包括波音787、777、737系列，空客350、330、320系列，中国商飞C919、C909等型号客货运输飞机972架"
+    },
+    {
+      "product": null,
+      "metric_type": "production_volume",
+      "value": "390.6亿吨公里",
+      "period": "报告期内",
+      "quote": "本集团完成运输总周转量390.6亿吨公里"
+    },
+    {
+      "product": null,
+      "metric_type": "sales_volume",
+      "value": "1.74亿人次",
+      "period": "报告期内",
+      "quote": "旅客运输量1.74亿人次"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity_utilization",
+      "value": "85.74%",
+      "period": "报告期内",
+      "quote": "客座率为85.74%"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "9.79小时/日",
+      "period": "报告期内",
+      "quote": "飞机利用率为每日9.79小时"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "飞机引进计划",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "人民币80,273百万元",
+      "designed_capacity": null,
+      "progress": "已授权并已订立合同",
+      "expected_completion_time": "一年至三年内",
+      "quote": "2026-2028年飞机及相关设备资本开支计划... 飞机、发动机及飞行设备承担人民币80,273百万元"
+    },
+    {
+      "name": "2026-2028年飞机交付和退出计划",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "至2028年末客机1083架，货机21架，合计1104架",
+      "progress": "计划",
+      "expected_completion_time": "2026-2028年",
+      "quote": "2026－2028年，本集团飞机交付和退出计划如下：... 合计... 2025期末数 972... 2028预测数 1104"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“天瞳”系统",
+      "asset_type": "technical_platform",
+      "related_product": "飞机健康监测",
+      "quantitative_info": null,
+      "quote": "自主研发可控的“天瞳”飞机健康监测系统"
+    },
+    {
+      "name": "“天极”系统",
+      "asset_type": "technical_platform",
+      "related_product": "运行控制",
+      "quantitative_info": null,
+      "quote": "“天极”运行控制系统等系统处于行业领先水平"
+    },
+    {
+      "name": "新增发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "新增发明专利101件",
+      "quote": "新增发明专利101件"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "6,347百万元",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额人民币6,347百万元，占年度销售总额3.48%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42,393百万元",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额人民币42,393百万元，占年度采购总额55.01%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "航油成本是本集团最主要的成本支出。国际原油价格波动以及发改委对国内航油价格的调整，都会对本集团的成本造成较大的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "燃油价格波动风险... 航油成本是本集团最主要的成本支出。国际原油价格波动以及发改委对国内航油价格的调整，都会对本集团的成本造成较大的影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "本集团大量的租赁负债以外币为单位，主要是美元、欧元及日元，因此人民币兑外币的贬值或升值都会对本集团的业绩构成重大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险... 本集团大量的租赁负债以外币为单位，主要是美元、欧元及日元，因此人民币兑外币的贬值或升值都会对本集团的业绩构成重大影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "面对日益变化多端的市场，如果公司未能有效增强预判能力，采取灵活的销售策略和定价机制，将可能影响公司实现预期收益目标。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争加剧风险... 面对日益变化多端的市场，如果公司未能有效增强预判能力，采取灵活的销售策略和定价机制，将可能影响公司实现预期收益目标。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "政府对新航空公司的设立、航权开放、航线以及票价等方面均有所管制，并同时规定了燃油附加费定价机制。相关政策的变动也可能会影响到公司运营业绩及未来业务的发展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观政策风险... 政府对新航空公司的设立、航权开放、航线以及票价等方面均有所管制，并同时规定了燃油附加费定价机制。相关政策的变动也可能会影响到公司运营业绩及未来业务的发展。"
+    },
+    {
+      "risk_type": "other",
+      "description": "由于民航业有着“高投入”的行业特点，航空公司的资产负债率普遍较高。因此，市场资金的松紧变化造成的利率波动对本集团的财务费用有较大的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "利率波动风险... 由于民航业有着“高投入”的行业特点，航空公司的资产负债率普遍较高。因此，市场资金的松紧变化造成的利率波动对本集团的财务费用有较大的影响。"
+    }
+  ]
+}

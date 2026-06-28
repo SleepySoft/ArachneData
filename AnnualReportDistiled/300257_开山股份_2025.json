@@ -1,0 +1,578 @@
+{
+  "company_name_mentioned": "开山集团股份有限公司",
+  "produces": [
+    {
+      "name": "压缩机系列产品",
+      "type": "device",
+      "revenue_proportion": "65.71%",
+      "quote": "报告期内，公司压缩机系列产品实现营业收入310,438.52万元，毛利率32.43%。"
+    },
+    {
+      "name": "地热发电业务",
+      "type": "service",
+      "revenue_proportion": "21.43%",
+      "quote": "地热发电业务实现营业收入101,223.87万元，毛利率52.94%。"
+    },
+    {
+      "name": "螺杆蒸汽膨胀发电机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的成套发电设备有两个系列，分别为螺杆蒸汽膨胀发电机（业内俗称为“螺杆汽轮机”）和有机朗肯循环(ORC)膨胀发电机"
+    },
+    {
+      "name": "有机朗肯循环(ORC)膨胀发电机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的成套发电设备有两个系列，分别为螺杆蒸汽膨胀发电机（业内俗称为“螺杆汽轮机”）和有机朗肯循环(ORC)膨胀发电机"
+    },
+    {
+      "name": "井口模块电站成套设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司可向地热电站开发商、运营商提供地热电站设备的设计、制造、安装和运维服务"
+    },
+    {
+      "name": "螺杆式氢压缩机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司为达涅利集团的两个海外低碳冶金项目提供了压缩机组订单，在中国则深度参与河钢集团张宣科技的120万吨氢冶金利用项目...公司为此项目提供了关键核心动力设备：富氢气螺杆压缩机"
+    },
+    {
+      "name": "干式无油高压往复式氢压缩机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "LMF已经完成了压力高达530bar的干式无油高压往复式氢压缩机的开发...这一全球领先的产品将成为未来氢能社会不可或缺的产品"
+    },
+    {
+      "name": "干式无油螺杆空气压缩机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司美国压缩机公司(KCA)研制的干式无油空气压缩机实现了0-1和1-10的突破"
+    },
+    {
+      "name": "磁悬浮系列产品（鼓风机/真空泵/空压机）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的流体产品共有四大系列：干式无油变节距真空泵、磁悬浮鼓风机/真空泵/空压机、无油鼓风机和喷油螺杆真空泵"
+    },
+    {
+      "name": "绿色氢、氨",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司去年11月在肯尼亚Olkaria经济特区举办的...年产20万吨绿氨项目"
+    },
+    {
+      "name": "管道气体吹扫移动压缩机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "LMF的管道气体吹扫移动压缩机订单井喷式增长"
+    },
+    {
+      "name": "工艺气体螺杆压缩机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "目前开山工艺气体螺杆压缩机已经广泛应用到石油、天然气、炼油、化工、煤炭、制氢、冶金、发酵、有害气体治理、碳捕集、科学实验等多个领域"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "机械制造",
+      "cost_proportion": "60.97%",
+      "quote": "机械制造业 直接材料...占营业成本比重 60.97%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "钢铁行业（氢冶金）",
+      "source_product": "螺杆式氢压缩机、干式无油高压往复式氢压缩机",
+      "quote": "传统的工业领域绿氢应用正在重构工业碳足迹...钢铁和化工这两大行业又是用绿氢代替“脏氢”和煤炭等化石燃料，实现深度脱碳的唯一路径。"
+    },
+    {
+      "name": "化工行业",
+      "source_product": "压缩机",
+      "quote": "传统的工业领域绿氢应用正在重构工业碳足迹...钢铁和化工这两大行业又是用绿氢代替“脏氢”和煤炭等化石燃料，实现深度脱碳的唯一路径。"
+    },
+    {
+      "name": "航运/铁路/公路交通（绿色燃料）",
+      "source_product": "绿色氢氨醇",
+      "quote": "绿色氢氨醇将重构交通能源版图...绿色燃料的定义就是绿色甲醇和绿氨。权威机构报告，到2050年全球航运业对绿氨的年需求将高达1.8亿吨。"
+    },
+    {
+      "name": "燃煤发电厂（掺氢/氨燃烧）",
+      "source_product": "绿色氢氨醇",
+      "quote": "绿色燃料将作为发电厂燃料被广泛使用，第一个阶段是燃煤发电厂的掺氢/氨燃烧...绿氨将作为绿氢的载体，是实现这一路径的关键中间体。"
+    },
+    {
+      "name": "数据中心（绿色电力）",
+      "source_product": "地热发电",
+      "quote": "公司在全球不同国家建设的，拥有15-32年“美元计价、照付不议”售电协议(PPA)的地热发电站...为社会和数据中心供应绿色电力"
+    },
+    {
+      "name": "半导体、化工、粉体输送等高端工业",
+      "source_product": "干式无油螺杆空气压缩机",
+      "quote": "该解决方案不仅赢得了国内知名企业的广泛信赖与采用，更成功将业务版图延伸至海外市场，深度服务于高端半导体、化工及粉体输送等关键供应链领域。"
+    },
+    {
+      "name": "水泥、化学工程、污水处理等工业",
+      "source_product": "无油螺杆鼓风机",
+      "quote": "凭借上述技术特性，无油螺杆鼓风机在水泥制造、化学工程及污水处理等关键工业领域获得了广泛应用。"
+    },
+    {
+      "name": "化肥生产",
+      "source_product": "绿氨",
+      "quote": "肯尼亚绿氨项目...建成后年收入可达2.5亿美元...以绿氨为原料，进一步生产18万吨/年尿素和30万吨/年硝酸铵钙"
+    },
+    {
+      "name": "油气、石化行业",
+      "source_product": "压缩机",
+      "quote": "LMF的重点市场在中东、欧洲，主要为油气和石化行业提供大型动力设备"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "顾宏宇",
+      "role": "董事长",
+      "quote": "公司负责人顾宏宇、主管会计工作负责人周明及会计机构负责人(会计主管人员)周明声明"
+    },
+    {
+      "name": "曹克坚",
+      "role": "董事，控股股东实际控制人",
+      "quote": "开山控股集团股份有限公司，系开山股份控股股东...曹克坚：1998年10月至今，任开山控股集团股份有限公司董事长。"
+    },
+    {
+      "name": "汤炎 (Tang, Yan)",
+      "role": "董事，总经理，核心技术人员",
+      "quote": "Tang, Yan：博士学位...2009年6月至今，任开山股份董事、总经理。"
+    },
+    {
+      "name": "Bruce P. Biederman",
+      "role": "董事，核心技术人员",
+      "quote": "Bruce P.Biederman：...2013年11月至今，任开山股份董事。"
+    },
+    {
+      "name": "杨建军",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书...姓名 杨建军"
+    },
+    {
+      "name": "周明",
+      "role": "财务总监、主管会计工作负责人",
+      "quote": "主管会计工作负责人周明及会计机构负责人(会计主管人员)周明"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "KS ORKA Renewables Pte. Ltd. (KS ORKA)",
+      "relation_type": "subsidiary",
+      "business_details": "可再生能源投资开发运营；膨胀发电机组销售；项目技术咨询服务",
+      "quote": "KS Orka Renewables Pte. Ltd.，系开山香港全资子公司"
+    },
+    {
+      "name": "LMF (Leobersdorfer Maschinenfabrik GmbH)",
+      "relation_type": "subsidiary",
+      "business_details": "高压往复压缩机制造、销售；氢能装备核心基地",
+      "quote": "LMF Unternehmensbeteiligungs GmbH.，系开山香港的全资子公司"
+    },
+    {
+      "name": "Kaishan Compressor (USA) LLC (KCA)",
+      "relation_type": "subsidiary",
+      "business_details": "压缩机产品的生产销售",
+      "quote": "Kaishan Compressor (USA) LLC，系开山股份的全资子公司"
+    },
+    {
+      "name": "肯尼亚发电公司 (KenGen)",
+      "relation_type": "customer",
+      "business_details": "向开山的地热项目提供蒸汽",
+      "quote": "KenGen Electricity Generating Company PLC，肯尼亚发电公司...公司与 KenGen 签署了《蒸汽供应协议》"
+    },
+    {
+      "name": "肯尼亚电力公司 (KPLC)",
+      "relation_type": "customer",
+      "business_details": "购电方",
+      "quote": "KPLC 指 Kenya Power，肯尼亚电力公司"
+    },
+    {
+      "name": "印尼国家电力公司 (PLN)",
+      "relation_type": "customer",
+      "business_details": "购电方",
+      "quote": "PT PLN (PERSERO)，印尼国家电力公司"
+    },
+    {
+      "name": "意大利达涅利集团",
+      "relation_type": "customer",
+      "business_details": "低碳冶金项目压缩机客户",
+      "quote": "公司为达涅利集团的两个海外低碳冶金项目提供了压缩机组订单"
+    },
+    {
+      "name": "宝武集团",
+      "relation_type": "customer",
+      "business_details": "富氢碳循环高炉项目压缩机客户",
+      "quote": "在2019-2023年，公司为宝武集团的首座400立方米工业级别富氢碳循环氧气高炉、2500立方米级别富氢碳循环高炉技术改造项目提供了脱碳核心动力设备。"
+    },
+    {
+      "name": "河钢集团",
+      "relation_type": "customer",
+      "business_details": "氢冶金示范工程压缩机客户",
+      "quote": "在中国则深度参与河钢集团张宣科技的120万吨氢冶金利用项目...公司为此项目提供了关键核心动力设备：富氢气螺杆压缩机"
+    },
+    {
+      "name": "Sosian Menengai Geothermal Power Limited",
+      "relation_type": "customer",
+      "business_details": "地热EPC项目客户",
+      "quote": "公司与 Sosian Menengai Geothermal Power Limited 于 2019 年 4 月签署...Sosian-Menengai35兆瓦地热EPC项目"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "压缩机系列产品",
+      "segment_type": "product_line",
+      "revenue_amount": "3,104,385,193.51元",
+      "revenue_proportion": "65.71%",
+      "gross_margin": "32.43%",
+      "yoy_change": "营业收入比上年同期增减 6.97%",
+      "quote": "压缩机系列产品 3,104,385,193.51 65.71% 2,902,088,374.11 68.53% 6.97%"
+    },
+    {
+      "name": "地热发电业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,012,238,680.39元",
+      "revenue_proportion": "21.43%",
+      "gross_margin": "52.94%",
+      "yoy_change": "营业收入比上年同期增减 26.85%",
+      "quote": "地热发电业务 1,012,238,680.39 21.43% 797,987,730.90 18.84% 26.85%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "2,501,106,741.32元",
+      "revenue_proportion": "52.94%",
+      "gross_margin": "29.85%",
+      "yoy_change": "营业收入比上年同期增减 7.27%",
+      "quote": "境内 2,501,106,741.32 52.94% 2,331,524,341.19 55.05% 7.27%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "2,223,047,169.66元",
+      "revenue_proportion": "47.06%",
+      "gross_margin": "41.96%",
+      "yoy_change": "营业收入比上年同期增减 16.79%",
+      "quote": "境外 2,223,047,169.66 47.06% 1,903,445,029.57 44.95% 16.79%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,386,421,667.03元",
+      "revenue_proportion": "50.52%",
+      "gross_margin": "45.72%",
+      "yoy_change": "营业收入比上年同期增减 14.48%",
+      "quote": "直销 2,386,421,667.03 50.52% 2,084,503,013.56 49.22% 14.48%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,337,732,243.95元",
+      "revenue_proportion": "49.48%",
+      "gross_margin": "25.17%",
+      "yoy_change": "营业收入比上年同期增减 8.71%",
+      "quote": "经销 2,337,732,243.95 49.48% 2,150,466,357.20 50.78% 8.71%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "螺杆机",
+      "metric_type": "sales_volume",
+      "value": "55,994 台",
+      "period": "2025年",
+      "quote": "销售量 台 55,994 59,635 -6.11%"
+    },
+    {
+      "product": "螺杆机",
+      "metric_type": "production_volume",
+      "value": "57,205 台",
+      "period": "2025年",
+      "quote": "生产量 台 57,205 60,655.00 -5.69%"
+    },
+    {
+      "product": "螺杆机",
+      "metric_type": "inventory_volume",
+      "value": "6,755 台",
+      "period": "2025年末",
+      "quote": "库存量 台 6,755 5,544 21.84%"
+    },
+    {
+      "product": "SMGP地热项目",
+      "metric_type": "capacity",
+      "value": "约180兆瓦",
+      "period": null,
+      "quote": "SMGP项目2024年12月总共五期电站投入运营，加入全球“200兆瓦地热电站俱乐部”，其平均净外送功率约180兆瓦"
+    },
+    {
+      "product": "SMGP地热项目",
+      "metric_type": "production_volume",
+      "value": "1,467,151兆瓦时",
+      "period": "2025年全年",
+      "quote": "2025年全年，SMGP 发电量达到1,467,151兆瓦时，较上年大幅增长25.38%"
+    },
+    {
+      "product": "Sosian-Menengai电站",
+      "metric_type": "capacity",
+      "value": "35兆瓦",
+      "period": null,
+      "quote": "Sosian Menengai35兆瓦地热电站项目"
+    },
+    {
+      "product": "Sosian-Menengai电站",
+      "metric_type": "capacity",
+      "value": "37兆瓦以上",
+      "period": "目前",
+      "quote": "目前稳定在净外送平均37兆瓦以上"
+    },
+    {
+      "product": "全球地热总装机",
+      "metric_type": "capacity",
+      "value": "17,173兆瓦",
+      "period": "截至2025年底",
+      "quote": "截至2025年底，全球总地热发电装机容量达17,173兆瓦"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "肯尼亚Olkaria年产20万吨绿氨项目",
+      "project_type": "capacity_expansion",
+      "location": "肯尼亚Olkaria经济特区",
+      "investment_amount": "8.3亿美元",
+      "designed_capacity": "年产20万吨绿氨",
+      "progress": "已举办开工仪式",
+      "expected_completion_time": null,
+      "quote": "公司去年11月在肯尼亚Olkaria经济特区举办的...年产20万吨绿氨项目...投资规模也彰显了我们及投资者对肯尼亚发展前景的认可与信心"
+    },
+    {
+      "name": "阿拉巴马州地热发电成套设备制造基地",
+      "project_type": "capacity_expansion",
+      "location": "美国阿拉巴马州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "开始谋划",
+      "expected_completion_time": null,
+      "quote": "为此，公司开始谋划在阿拉巴马州建设地热发电成套设备制造基地，以应对高关税给公司产品进入美国市场设置的几乎是难以跨越的“准入门槛”。"
+    },
+    {
+      "name": "LMF新装配车间及加工中心建设",
+      "project_type": "capacity_expansion",
+      "location": "奥地利",
+      "investment_amount": "约900万欧元",
+      "designed_capacity": null,
+      "progress": "已启动",
+      "expected_completion_time": null,
+      "quote": "在产能方面，LMF 启动了约900万欧元投资用于新装配车间及加工中心建设"
+    },
+    {
+      "name": "肯尼亚Orpower-Menengai地热项目",
+      "project_type": "capacity_expansion",
+      "location": "肯尼亚Menengai地热田",
+      "investment_amount": null,
+      "designed_capacity": "35兆瓦",
+      "progress": "已完成30天的稳定性运行测试，已正式实现商业运行",
+      "expected_completion_time": null,
+      "quote": "公司于2023年底完成了该35兆瓦地热项目的收购...截至报告期内，公司已顺利完成30天的稳定性运行测试，该项目已正式实现商业运营。"
+    },
+    {
+      "name": "印尼SGI三期电站",
+      "project_type": "capacity_expansion",
+      "location": "印尼",
+      "investment_amount": null,
+      "designed_capacity": "净外送售电功率20兆瓦",
+      "progress": "正在进行三期电站的购地工作",
+      "expected_completion_time": null,
+      "quote": "SGI项目目前有7兆瓦的净外送售电功率，目前在进行三期电站的购地工作；三期电站净外送售电功率20兆瓦"
+    },
+    {
+      "name": "开山压缩机土耳其公司 (KCT)",
+      "project_type": "capacity_expansion",
+      "location": "土耳其伊兹密尔自贸区",
+      "investment_amount": null,
+      "designed_capacity": "螺杆主机、压缩机整机制造能力",
+      "progress": "工厂建设已接近尾声，预计2026年即可投产",
+      "expected_completion_time": "2026年",
+      "quote": "2024年11月，公司在伊兹密尔自贸区成立了开山压缩机土耳其公司（KCT）...预计2026年即可投产。"
+    },
+    {
+      "name": "美国EGS增强型地热系统项目（内华达州Humboldt House）",
+      "project_type": "r_and_d_project",
+      "location": "美国内华达州",
+      "investment_amount": null,
+      "designed_capacity": "200-500兆瓦资源潜力",
+      "progress": "签署合作条款清单，共同开发",
+      "expected_completion_time": null,
+      "quote": "2026年3月，我们的全资子公司Open Mountain Energy, LLC (OME)与美国增强型地热开发公司Power Planet, Inc (PP)签署合作条款清单，共同开发OME在内华达州Humboldt House地热资源区的增强型地热系统资源。"
+    },
+    {
+      "name": "印尼SGI地热项目（在建）",
+      "project_type": "capacity_expansion",
+      "location": "印尼",
+      "investment_amount": "10,607,874.84元（累计实际投入）",
+      "designed_capacity": "11+11 兆瓦",
+      "progress": "进度78.00%",
+      "expected_completion_time": null,
+      "quote": "SGI地热项目...功率（兆瓦） 11+11...进度 78.00%..."
+    },
+    {
+      "name": "肯尼亚Orpower地热项目（在建）",
+      "project_type": "capacity_expansion",
+      "location": "肯尼亚",
+      "investment_amount": "356,566,720.91元（累计实际投入）",
+      "designed_capacity": "35 兆瓦",
+      "progress": "进度80.00%",
+      "expected_completion_time": null,
+      "quote": "Orpower地热项目...功率（兆瓦） 35...进度 80.00%..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "螺杆膨胀发电技术",
+      "asset_type": "core_technology",
+      "related_product": "地热井口模块电站",
+      "quantitative_info": null,
+      "quote": "公司拥有全球领先、构成巨大竞争优势的螺杆膨胀发电技术"
+    },
+    {
+      "name": "透平膨胀技术",
+      "asset_type": "core_technology",
+      "related_product": "地热电站",
+      "quantitative_info": null,
+      "quote": "公司在透平膨胀技术领域同样拥有全球领先的技术，这一点已经被运行多年的印尼和肯尼亚地热电站透平膨胀机的出色表现所证明。"
+    },
+    {
+      "name": "井口模块电站技术",
+      "asset_type": "process_technology",
+      "related_product": "地热发电",
+      "quantitative_info": null,
+      "quote": "公司独创的井口模块电站技术路径契合“分布式能源”概念"
+    },
+    {
+      "name": "增强型地热系统（EGS）技术",
+      "asset_type": "core_technology",
+      "related_product": "EGS地热项目",
+      "quantitative_info": null,
+      "quote": "增强型地热系统（EGS）作为地热开发的前沿方向...通过人工构建地下换热网络"
+    },
+    {
+      "name": "干式无油螺杆压缩机技术",
+      "asset_type": "core_technology",
+      "related_product": "干式无油螺杆空气压缩机",
+      "quantitative_info": null,
+      "quote": "北美、中国工程师联合研发的无油螺杆有着业界的新一代设计，其包括能效在内的各项技术指标与欧美日品牌并驾齐驱甚至超越了欧美日等一线品牌"
+    },
+    {
+      "name": "磁悬浮技术（轴承及控制、高速永磁电机、三元流叶轮）",
+      "asset_type": "core_technology",
+      "related_product": "磁悬浮鼓风机/真空泵/空压机",
+      "quantitative_info": null,
+      "quote": "目前，公司已经完全自主掌握了磁悬浮轴承及控制、高速永磁电机、三元流叶轮等磁悬浮产品中所有核心部件的研发、制造工艺。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "各项有效专利293项，其中发明专利43项(5个境外发明专利)，实用新型专利220项，外观专利30项",
+      "quote": "公司已拥有各项有效专利293项，其中发明专利43项(5个境外发明专利)，实用新型专利220项，外观专利30项。"
+    },
+    {
+      "name": "KRSV喷油螺杆真空泵技术",
+      "asset_type": "core_technology",
+      "related_product": "KRSV喷油螺杆真空泵",
+      "quantitative_info": null,
+      "quote": "2025年6月，我们研发制造的KRSV喷油螺杆真空泵产品获得美国工业媒体《Plant Engineering》评选的“2025年度最佳产品”金奖。"
+    },
+    {
+      "name": "超高效自适应压力调节式水平串联两级压缩空气螺杆主机技术",
+      "asset_type": "core_technology",
+      "related_product": "两级压缩机",
+      "quantitative_info": "综合技术指标已达到“国内领先、国际先进”水平",
+      "quote": "2026年3月...上海技术交易所组织权威专家委员会...对该项成果...专家组一致认定：该项成果综合技术指标已达到“国内领先、国际先进”水平。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.35%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.35%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "20.11%",
+      "related_entity": "客户一",
+      "period": "报告期",
+      "quote": "1 客户一 950,023,061.81 20.11%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.18%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 16.18%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.37%",
+      "related_entity": "供应商一",
+      "period": "报告期",
+      "quote": "1 供应商一 193,999,879.49 6.37%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "市场处于周期的低谷，行业竞争格局日益激烈、价格下行压力持续释放，部分企业需求收缩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "与房地产、工程建设、矿山有关的市场严重萎缩...制造业市场需求也存在投资减少，销售增长乏力的情况。...行业竞争格局日益激烈、价格下行压力持续释放，部分企业需求收缩"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易摩擦、逆全球化加剧，美对华关税基数较2018年更是实现了翻倍增长；中国亦对美国关键产品实施了对等的高额加征。高关税给公司产品进入美国市场设置了准入门槛。",
+      "related_entity": "美国",
+      "related_product": null,
+      "quote": "美国此前推行的‘对等关税’政策已全面落地...美对华关税基数较 2018 年更是实现了翻倍增长...高关税给公司产品进入美国市场设置的几乎是难以跨越的“准入门槛”。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "海外项目所在国家和地区政治、政策环境变化；美国地热项目许可、环评等方面要求极为严格，审批流程繁复；输电基础设施不足与并网通道拥堵。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "海外地热项目在实施及运营过程中，还可能受到国别政策、宏观经济基本面、资源容量、建设进度及运营管理能力等因素影响...美国地热项目通常涉及四大类审批...输电基础设施不足与并网通道拥堵"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司拥有大量境外资产和业务，面临汇率波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "电力收入以核心币种计价...对冲了人民币与美元、欧元等外币汇率波动的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要系计提存货跌价准备"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "商誉减值风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值 -87,839,138.70...主要系计提...商誉减值"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "company_name_mentioned": "浙江新化化工股份有限公司",
+  "produces": [
+    {
+      "name": "脂肪胺",
+      "type": "material",
+      "revenue_proportion": "收入1,483,985,371.95元；毛利率21.39%",
+      "quote": "脂肪胺 1,483,985,371.95 1,166,522,543.07 21.39 2.15 -3.21 增加4.36"
+    },
+    {
+      "name": "有机溶剂",
+      "type": "material",
+      "revenue_proportion": "收入362,650,061.68元；毛利率14.79%",
+      "quote": "有机溶剂 362,650,061.68 309,025,168.91 14.79 -16.36 -5.39 减少9.87"
+    },
+    {
+      "name": "合成香料",
+      "type": "material",
+      "revenue_proportion": "收入781,413,022.30元；毛利率21.20%",
+      "quote": "合成香料 781,413,022.30 615,729,968.20 21.20 -1.07 -2.05 增加0.79"
+    },
+    {
+      "name": "其他",
+      "type": "material",
+      "revenue_proportion": "收入283,922,786.09元；毛利率37.22%",
+      "quote": "其他 283,922,786.09 178,256,993.25 37.22 8.08 3.21 增加2.97"
+    }
+  ],
+  "procures": [
+    {
+      "name": "丙酮",
+      "target_product": "脂肪胺、有机溶剂",
+      "cost_proportion": null,
+      "quote": "丙酮 -23.65 56,426.3 56,347.65"
+    },
+    {
+      "name": "酒精",
+      "target_product": "脂肪胺",
+      "cost_proportion": null,
+      "quote": "酒精 -8.86 71,490.64 70,835.14"
+    },
+    {
+      "name": "液氨",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "液氨 -16.09 38,744.40 38,738.08"
+    },
+    {
+      "name": "丙烯",
+      "target_product": "有机溶剂",
+      "cost_proportion": null,
+      "quote": "丙烯 -6.02 42,089.38 41,752.43"
+    },
+    {
+      "name": "烟煤",
+      "target_product": "能源",
+      "cost_proportion": null,
+      "quote": "烟煤（吨） 战略采购 电汇或银行承兑 -15.27 47,569.14 48,977.46"
+    },
+    {
+      "name": "电",
+      "target_product": "能源",
+      "cost_proportion": null,
+      "quote": "电（万kW.H） 协议采购 电汇 -7.02 9,866.67 9,866.67"
+    }
+  ],
+  "applications": [
+    {
+      "name": "农药",
+      "source_product": "脂肪胺",
+      "quote": "公司主要从事脂肪胺、有机溶剂、合成香料及其他精细化工产品的生产经营，产品广泛应用于农药、医药、油墨、新能源、涂料等领域"
+    },
+    {
+      "name": "医药",
+      "source_product": "脂肪胺",
+      "quote": "公司主要从事脂肪胺、有机溶剂、合成香料及其他精细化工产品的生产经营，产品广泛应用于农药、医药、油墨、新能源、涂料等领域"
+    },
+    {
+      "name": "油墨",
+      "source_product": "有机溶剂",
+      "quote": "公司主要从事脂肪胺、有机溶剂、合成香料及其他精细化工产品的生产经营，产品广泛应用于农药、医药、油墨、新能源、涂料等领域"
+    },
+    {
+      "name": "新能源",
+      "source_product": "脂肪胺",
+      "quote": "公司主要从事脂肪胺、有机溶剂、合成香料及其他精细化工产品的生产经营，产品广泛应用于农药、医药、油墨、新能源、涂料等领域"
+    },
+    {
+      "name": "涂料",
+      "source_product": "有机溶剂",
+      "quote": "公司主要从事脂肪胺、有机溶剂、合成香料及其他精细化工产品的生产经营，产品广泛应用于农药、医药、油墨、新能源、涂料等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "应思斌",
+      "role": "董事长、总经理",
+      "quote": "公司负责人应思斌、主管会计工作负责人洪益琴及会计机构负责人（会计主管人员）杨超凡声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "胡健",
+      "role": "董事、党委书记",
+      "quote": "2025年9月30日，公司董事胡健于2025年9月30日减持可转债时误买入300手，构成短线交易"
+    },
+    {
+      "name": "王卫明",
+      "role": "董事、副总经理",
+      "quote": "王卫明 男 59 2,435,702 2,555,702 120,000 股权激励 115.58"
+    },
+    {
+      "name": "陈晖",
+      "role": "董事",
+      "quote": "陈晖 董事 男 41 0 0 0 是"
+    },
+    {
+      "name": "胡建宏",
+      "role": "董事、董事会秘书",
+      "quote": "胡建宏 男 52 464,422 584,422 120,000 股权激励 99.73"
+    },
+    {
+      "name": "洪益琴",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人洪益琴"
+    },
+    {
+      "name": "赵建标",
+      "role": "副总经理",
+      "quote": "赵建标 男 57 1,743,373 1,863,373 120,000 股权激励 105.73"
+    },
+    {
+      "name": "徐利红",
+      "role": "总工程师",
+      "quote": "徐利红 男 57 685,777 685,777 0 81.53"
+    },
+    {
+      "name": "张新利",
+      "role": "副总经理",
+      "quote": "张新利 男 49 105,170 225,170 120,000 股权激励 96.13"
+    },
+    {
+      "name": "翁建全",
+      "role": "独立董事",
+      "quote": "翁建全 独立董事 男 52 0 0 0 8.00"
+    },
+    {
+      "name": "马文超",
+      "role": "独立董事",
+      "quote": "马文超 独立董事 男 50 0 0 0 8.00"
+    },
+    {
+      "name": "李春光",
+      "role": "独立董事",
+      "quote": "李春光 独立董事 男 42 0 0 0 8.00"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "江苏馨瑞香料有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "合资平台，与全球香料龙头奇华顿的合资",
+      "quote": "公司与全球香料香精行业龙头瑞士奇华顿公司合资设立香料生产企业馨瑞香料。"
+    },
+    {
+      "name": "江苏新化化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "有机溶剂生产销售",
+      "quote": "江苏新化公司 子公司 有机溶剂生产销售"
+    },
+    {
+      "name": "宁夏新化化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "合成香料生产基地",
+      "quote": "宁夏新化新增产能16，650吨/年已逐步释放"
+    },
+    {
+      "name": "江西新信化学有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "江西新信公司指江西新信化学有限公司"
+    },
+    {
+      "name": "浙江新化新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新化新材料公司[注]指浙江新化新材料有限公司"
+    },
+    {
+      "name": "浙江新伽玛化学有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新伽玛公司指浙江新伽玛化学有限公司"
+    },
+    {
+      "name": "杭州中荷环境科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "中荷环境公司指杭州中荷环境科技有限公司"
+    },
+    {
+      "name": "浙江新锂想科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新锂想公司指浙江新锂想科技有限责任公司"
+    },
+    {
+      "name": "浙江新耀循环科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新耀科技公司指浙江新耀循环科技有限公司"
+    },
+    {
+      "name": "杭州建德高铁新区投资发展有限公司",
+      "relation_type": "customer",
+      "business_details": "销售煤炭",
+      "quote": "杭州建德高铁新区投资发展有限公司 股东的子公司 销售商品 煤炭 3,072，962.4 2"
+    },
+    {
+      "name": "广纳珈源（广州）有限公司",
+      "relation_type": "customer",
+      "business_details": "销售脂肪胺等",
+      "quote": "广纳珈源（广州）有限公司 其他 销售商品 销售脂肪胺等 505，435.76"
+    },
+    {
+      "name": "瑞士奇华顿（Givaudan）",
+      "relation_type": "customer",
+      "business_details": "合资方，合成香料主要客户",
+      "quote": "公司与全球香料香精行业龙头瑞士奇华顿（Givaudan）合资设立香料生产企业馨瑞香料。相关产品70%左右供应奇华顿全球采购"
+    },
+    {
+      "name": "建德市国有资产经营有限公司",
+      "relation_type": "investor",
+      "business_details": "第一大股东",
+      "quote": "建德市国有资产经营有限公司 持股比例14.41%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "脂肪胺",
+      "segment_type": "product_line",
+      "revenue_amount": "1,483,985,371.95元",
+      "revenue_proportion": null,
+      "gross_margin": "21.39%",
+      "yoy_change": "营业收入比上年增减(%) 2.15",
+      "quote": "脂肪胺 1,483,985,371.95 1,166,522,543.07 21.39 2.15 -3.21 增加4.36"
+    },
+    {
+      "name": "有机溶剂",
+      "segment_type": "product_line",
+      "revenue_amount": "362,650,061.68元",
+      "revenue_proportion": null,
+      "gross_margin": "14.79%",
+      "yoy_change": "营业收入比上年增减(%) -16.36",
+      "quote": "有机溶剂 362,650,061.68 309,025,168.91 14.79 -16.36 -5.39 减少9.87"
+    },
+    {
+      "name": "合成香料",
+      "segment_type": "product_line",
+      "revenue_amount": "781,413,022.30元",
+      "revenue_proportion": null,
+      "gross_margin": "21.20%",
+      "yoy_change": "营业收入比上年增减(%) -1.07",
+      "quote": "合成香料 781，413，022.30 615，729，968.20 21.20 -1.07 -2.05 增加0.79"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "283，922，786.09元",
+      "revenue_proportion": null,
+      "gross_margin": "37.22%",
+      "yoy_change": "营业收入比上年增减(%) 8.08",
+      "quote": "其他 283，922，786.09 178，256，993.25 37.22 8.08 3.21 增加2.97"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "2，035，918，058.65元",
+      "revenue_proportion": null,
+      "gross_margin": "22.43%",
+      "yoy_change": "营业收入比上年增减(%) 1.04",
+      "quote": "国内销售 2，035，918，058.65 1，579，235，015.61 22.43 1.04 0.22 增加0.63"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "876，053，183.37元",
+      "revenue_proportion": null,
+      "gross_margin": "21.20%",
+      "yoy_change": "营业收入比上年增减(%) -5.17",
+      "quote": "国外销售 876，053，183.37 690，299，657.82 21.20 -5.17 -8.87 增加3.2个"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "脂肪胺",
+      "metric_type": "capacity",
+      "value": "135,000吨/年",
+      "period": "报告期",
+      "quote": "脂肪胺 135,000吨/年"
+    },
+    {
+      "product": "脂肪胺",
+      "metric_type": "production_volume",
+      "value": "140，996吨",
+      "period": "报告期",
+      "quote": "脂肪胺 吨 140，996"
+    },
+    {
+      "product": "脂肪胺",
+      "metric_type": "sales_volume",
+      "value": "138，152吨",
+      "period": "报告期",
+      "quote": "脂肪胺 吨 138，152"
+    },
+    {
+      "product": "脂肪胺",
+      "metric_type": "capacity_utilization",
+      "value": "104.44%",
+      "period": "报告期",
+      "quote": "脂肪胺 135，000吨/年 104.44"
+    },
+    {
+      "product": "脂肪胺",
+      "metric_type": "inventory_volume",
+      "value": "6，851吨",
+      "period": "报告期",
+      "quote": "脂肪胺 吨 6，851"
+    },
+    {
+      "product": "有机溶剂",
+      "metric_type": "capacity",
+      "value": "110，000吨/年",
+      "period": "报告期",
+      "quote": "有机溶剂 110，000吨/年"
+    },
+    {
+      "product": "有机溶剂",
+      "metric_type": "production_volume",
+      "value": "57，306吨",
+      "period": "报告期",
+      "quote": "有机溶剂 吨 57，306"
+    },
+    {
+      "product": "有机溶剂",
+      "metric_type": "sales_volume",
+      "value": "56，681吨",
+      "period": "报告期",
+      "quote": "有机溶剂 吨 56，681"
+    },
+    {
+      "product": "有机溶剂",
+      "metric_type": "capacity_utilization",
+      "value": "52.10%",
+      "period": "报告期",
+      "quote": "有机溶剂 110，000吨/年 52.10"
+    },
+    {
+      "product": "有机溶剂",
+      "metric_type": "inventory_volume",
+      "value": "1，409吨",
+      "period": "报告期",
+      "quote": "有机溶剂 吨 1，409"
+    },
+    {
+      "product": "合成香料",
+      "metric_type": "capacity",
+      "value": "32，650吨/年",
+      "period": "报告期",
+      "quote": "合成香料 32，650吨/年"
+    },
+    {
+      "product": "合成香料",
+      "metric_type": "production_volume",
+      "value": "25，250吨",
+      "period": "报告期",
+      "quote": "合成香料 吨 25，250"
+    },
+    {
+      "product": "合成香料",
+      "metric_type": "sales_volume",
+      "value": "23，765吨",
+      "period": "报告期",
+      "quote": "合成香料 吨 23，765"
+    },
+    {
+      "product": "合成香料",
+      "metric_type": "capacity_utilization",
+      "value": "77.34%",
+      "period": "报告期",
+      "quote": "合成香料 32，650吨/年 77.34"
+    },
+    {
+      "product": "合成香料",
+      "metric_type": "inventory_volume",
+      "value": "4，818吨",
+      "period": "报告期",
+      "quote": "合成香料 吨 4，818"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "江苏兴福电子年产2万吨电子级异丙醇项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产2万吨电子级异丙醇",
+      "progress": "已建设完成，现已正式进入试生产阶段",
+      "expected_completion_time": "2026年将进入试生产阶段",
+      "quote": "公司年产两万吨电子级异丙醇项目已于2025年建成，2026年将进入试生产阶段"
+    },
+    {
+      "name": "宁夏新化合成香料产品基地二期项目",
+      "project_type": "capacity_expansion",
+      "location": "宁夏宁东能源化工基地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已启动前期筹备工作",
+      "expected_completion_time": null,
+      "quote": "宁夏香料二期项目按期完成建设任务，推动大环麝香类产品顺利投放市场"
+    },
+    {
+      "name": "江苏馨瑞香料三期改扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "设计产能18，800吨/年，其中7，000吨产品装置因市场原因暂未建设，扣除自用部分产能后，目前实际可外销产能为8，600吨/年",
+      "progress": "主体工程及相关配套设施已建设完毕，现已正式进入试生产阶段，试生产运行正常后将逐步转入全面投产",
+      "expected_completion_time": null,
+      "quote": "江苏馨瑞香料三期改扩建项目进入试生产阶段"
+    },
+    {
+      "name": "江苏馨瑞四期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快完成立项与审批流程",
+      "expected_completion_time": "争取年内正式开工建设",
+      "quote": "江苏馨瑞四期项目加快完成立项与审批流程，争取年内正式开工建设"
+    },
+    {
+      "name": "大洋催化剂项目",
+      "project_type": "construction_project",
+      "location": "大洋基地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快项目建设与投产达效进度",
+      "expected_completion_time": null,
+      "quote": "加快大洋催化剂项目建设与投产达效进度，保障核心技术自主可控"
+    },
+    {
+      "name": "特种胺项目",
+      "project_type": "construction_project",
+      "location": "大洋基地",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "启动前期筹备工作",
+      "expected_completion_time": null,
+      "quote": "启动特种胺项目前期筹备工作，着力打造大洋基地新的效益增长极"
+    },
+    {
+      "name": "新耀循环项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全力冲刺开车前各项准备",
+      "expected_completion_time": "力争锂电回收生产线全年保持稳定运行",
+      "quote": "新耀循环项目全力冲刺开车前各项准备，力争锂电回收生产线全年保持稳定运行"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司为国家高新技术企业"
+    },
+    {
+      "name": "浙江省博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建有浙江省博士后科研工作站"
+    },
+    {
+      "name": "新化高级胺省级高新技术研究开发中心",
+      "asset_type": "certification",
+      "related_product": "脂肪胺",
+      "quantitative_info": null,
+      "quote": "新化高级胺省级高新技术研究开发中心"
+    },
+    {
+      "name": "浙江省企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "浙江省经贸委认定的浙江省企业技术中心"
+    },
+    {
+      "name": "省级新材料企业研究院",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "浙江省科技厅认定的省级新材料企业研究院"
+    },
+    {
+      "name": "丙酮加氢法生产异丙醇技术",
+      "asset_type": "process_technology",
+      "related_product": "有机溶剂（异丙醇）",
+      "quantitative_info": null,
+      "quote": "丙酮加氢法是国内首创，曾获得中国专利优秀奖"
+    },
+    {
+      "name": "丙烯水合法生产异丙醇技术",
+      "asset_type": "process_technology",
+      "related_product": "有机溶剂（异丙醇）",
+      "quantitative_info": null,
+      "quote": "丙烯水合法是利用中科院大连化物所的专利技术建设并持续改进提升而成"
+    },
+    {
+      "name": "萃取法提锂技术",
+      "asset_type": "core_technology",
+      "related_product": "锂萃取剂",
+      "quantitative_info": null,
+      "quote": "积极拓展应用范围，在原有镍、钴、稀土分离等业务外，积极推动萃取法提锂技术和专用化学品在盐湖提锂、矿石提锂、锂电回收的应用。"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了ISO9001质量管理体系、ISO14001环境管理体系、GB/T 28001职业健康安全管理体系认证"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了ISO9001质量管理体系、ISO14001环境管理体系、GB/T 28001职业健康安全管理体系认证"
+    },
+    {
+      "name": "GB/T 28001职业健康安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了ISO9001质量管理体系、ISO14001环境管理体系、GB/T 28001职业健康安全管理体系认证"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年申请国家专利25项，其中发明专利19项，实用新型6项；2025年共获授权专利14项，其中发明专利12项，实用新型专利2项",
+      "quote": "2025年申请国家专利25项，其中发明专利19项，实用新型6项；2025年共获授权专利14项，其中发明专利12项，实用新型专利2项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "69，077.14万元，占年度销售总额23.47%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额69，077.14万元，占年度销售总额23.47%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "57，523.41万元，占年度采购总额22.71%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额57，523.41万元，占年度采购总额22.71%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "product_quality",
+      "description": "公司属精细化工行业，具有易燃易爆、有毒、高温高压的生产特点。不排除因生产过程管理控制不当或其他不确定因素发生导致安全事故，给公司财产、员工人身安全和周边环境带来严重不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.安全生产风险"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司所处精细化工行业属于污染行业，属国家环保政策调控的重点。随着国家和社会对环境保护要求的日益提高，国家将有可能颁布更高的环境保护标准。如果环保标准提高，公司对环境保护设施和日常运营管理的投入将进一步加大，从而影响公司盈利水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.因环保标准提高而带来的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司生产所需主要原材料为基础化工原料，大部分市场供应充足，但是价格与石油产品价格、市场供需关系存在较大的关联性。全球石油市场的价格波动会带来基础化工产品采购价格的波动，市场供需的不平衡也会对公司原材料价格造成影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.原材料价格波动的风险"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "2025年12月末，公司应收账款账面价值为38，802.87万元，占流动资产的比重为19.56%，应收账款占比及金额都较大。公司已按照既定会计政策在期末对应收账款计提了相应的坏账准备。但随着公司经营规模的不断扩大，应收账款的总量可能会进一步增加，如果下游客户集中遭遇财务状况恶化、经营危机或宏观经济重大调整，公司应收账款不能按期收回或无法收回而发生坏账，将可能使公司资金周转率与运营效率降低，存在流动性风险或坏账风险，对公司业绩和生产经营产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.应收账款较大的风险"
+    }
+  ]
+}

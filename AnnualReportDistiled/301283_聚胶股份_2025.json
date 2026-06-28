@@ -1,0 +1,534 @@
+{
+  "company_name_mentioned": "聚胶新材料股份有限公司",
+  "produces": [
+    {
+      "name": "卫材热熔胶",
+      "type": "material",
+      "revenue_proportion": "97.34%",
+      "quote": "分产品：卫材热熔胶 2,094,422,254.13 97.34%"
+    },
+    {
+      "name": "消费品包装热熔胶",
+      "type": "material",
+      "revenue_proportion": "2.53%",
+      "quote": "分产品：消费品包装热熔胶 54,355,549.67 2.53%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "石油树脂",
+      "target_product": "热熔胶",
+      "cost_proportion": "50.37%",
+      "quote": "主要原材料 石油树脂 ... 采购额占采购总额的比例 50.37%"
+    },
+    {
+      "name": "高聚物",
+      "target_product": "热熔胶",
+      "cost_proportion": "29.66%",
+      "quote": "主要原材料 高聚物 ... 采购额占采购总额的比例 29.66%"
+    },
+    {
+      "name": "矿物油",
+      "target_product": "热熔胶",
+      "cost_proportion": "19.35%",
+      "quote": "主要原材料 矿物油 ... 采购额占采购总额的比例 19.35%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "一次性卫生用品",
+      "source_product": "卫材热熔胶",
+      "quote": "产品广泛应用于婴儿纸尿裤、妇女卫生巾及经期裤、成人失禁用品、宠物垫及纸尿裤、医疗卫生用品等领域。"
+    },
+    {
+      "name": "消费品包装",
+      "source_product": "消费品包装热熔胶",
+      "quote": "产品广泛应用于食品饮料、日化美妆、医药医疗、电商物流、超市商品、奢侈品、汽车、电子及冷链等消费相关链条的多元化应用场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈曙光",
+      "role": "董事长、总经理，控股股东、实际控制人",
+      "quote": "公司负责人陈曙光 ... 控股股东、实际控制人 指 陈曙光先生、刘青生先生、范培军先生"
+    },
+    {
+      "name": "刘青生",
+      "role": "副董事长、副总经理，控股股东、实际控制人",
+      "quote": "控股股东、实际控制人 指 陈曙光先生、刘青生先生、范培军先生"
+    },
+    {
+      "name": "范培军",
+      "role": "董事、副总经理，控股股东、实际控制人",
+      "quote": "控股股东、实际控制人 指 陈曙光先生、刘青生先生、范培军先生"
+    },
+    {
+      "name": "谢金晋",
+      "role": "财务负责人（报告期内新聘任）",
+      "quote": "谢金晋 男 50 财务负责人 现任 ... 经公司于2026年4月3日召开的第二届董事会第二十一次会议审议通过，聘任谢金晋先生为财务负责人。"
+    },
+    {
+      "name": "廖燕桃",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 姓名 廖燕桃"
+    },
+    {
+      "name": "彭军",
+      "role": "核心技术人员",
+      "quote": "核心技术人员 情况 ... 范培军、彭军"
+    },
+    {
+      "name": "逄万有",
+      "role": "职工代表董事",
+      "quote": "逄万有 先生 ... 公司于2025年12月4日召开职工代表大会选举逄万有先生为公司第二届董事会职工代表董事"
+    },
+    {
+      "name": "沃金业",
+      "role": "董事、创新总监",
+      "quote": "沃金业，男，香港特别行政区永久居民身份 ... 现任公司创新总监兼董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "金佰利（Kimberly-Clark Co.,Ltd.）",
+      "relation_type": "customer",
+      "business_details": "系公司客户",
+      "quote": "美国金佰利有限公司（Kimberly-Clark Co.,Ltd.）...系公司客户"
+    },
+    {
+      "name": "宝洁（Procter&Gamble Co.,Ltd.）",
+      "relation_type": "customer",
+      "business_details": "系公司客户",
+      "quote": "美国宝洁有限公司（Procter&Gamble Co.,Ltd.）...系公司客户"
+    },
+    {
+      "name": "恒安（福建恒安集团有限公司）",
+      "relation_type": "customer",
+      "business_details": "系公司客户",
+      "quote": "福建恒安集团有限公司...系公司客户"
+    },
+    {
+      "name": "Drylock（Drylock Technologies Ltd.）",
+      "relation_type": "customer",
+      "business_details": "系公司客户",
+      "quote": "Drylock Technologies Ltd.，系公司客户"
+    },
+    {
+      "name": "Essity（Essity Hygiene and Health AB）",
+      "relation_type": "customer",
+      "business_details": "系公司客户",
+      "quote": "Essity Hygiene and Health AB，系公司客户"
+    },
+    {
+      "name": "维达（维达国际控股有限公司的子公司）",
+      "relation_type": "customer",
+      "business_details": "系公司客户",
+      "quote": "维达国际控股有限公司的子公司，系公司客户"
+    },
+    {
+      "name": "日本大王（Daio Paper Corporation）",
+      "relation_type": "customer",
+      "business_details": "系公司客户",
+      "quote": "Daio Paper Corporation，系公司客户"
+    },
+    {
+      "name": "汉高（Henkel AG & Co. KgaA）",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "汉高 指 Henkel AG & Co. KgaA"
+    },
+    {
+      "name": "富乐（H.B. Fuller Company）",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "富乐 指 H.B. Fuller Company"
+    },
+    {
+      "name": "波士胶（Bostik SA）",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "波士胶 指 Bostik SA"
+    },
+    {
+      "name": "淄博鲁华泓锦新材料集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "供应商二，与本公司股东广州富丰泓锦创业投资合伙企业（有限合伙）系同一实际控制人",
+      "quote": "供应商二即淄博鲁华泓锦新材料集团股份有限公司，与本公司股东广州富丰泓锦创业投资合伙企业（有限合伙）系同一实际控制人。"
+    },
+    {
+      "name": "聚胶欧洲（Focus Hotmelt Europe spóka z ograniczon odpowiedzialno ci）",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司，运营波兰工厂",
+      "quote": "Focus Hotmelt Europe spóka z ograniczon odpowiedzialno ci ，系公司全资子公司 ... 聚胶股份持有其 100%的股权"
+    },
+    {
+      "name": "聚胶土耳其（Focus Hotmelt Turkey Kimya Anonim irketi）",
+      "relation_type": "subsidiary",
+      "business_details": "系公司持股68%的控股子公司",
+      "quote": "Focus Hotmelt Turkey Kimya Anonim irketi，系公司持股68%的控股子公司"
+    },
+    {
+      "name": "聚胶墨西哥（FOCUS HOTMELT MEXICO,S.A.DE C.V.）",
+      "relation_type": "subsidiary",
+      "business_details": "系公司持股99.99%的控股子公司",
+      "quote": "FOCUS HOTMELT MEXICO,S.A.DE C.V.，系公司持股99.99%的控股子公司"
+    },
+    {
+      "name": "聚胶新加坡（FOCUS HOTMELT INTERNATIONAL PTE.LTD）",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "FOCUS HOTMELT INTERNATIONAL PTE.LTD，系公司全资子公司"
+    },
+    {
+      "name": "聚胶马来西亚（FOCUS HOTMELT MALAYSIA SDN.BHD.）",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资孙公司",
+      "quote": "FOCUS HOTMELT MALAYSIA SDN.BHD.，系公司全资孙公司"
+    },
+    {
+      "name": "聚胶美国（FOCUS HOTMELT COMPANY（USA）LTD）",
+      "relation_type": "subsidiary",
+      "business_details": "原为公司全资子公司，本报告期转让至聚胶新加坡，报告期末系公司全资孙公司",
+      "quote": "FOCUS HOTMELT COMPANY（USA）LTD，原为公司全资子公司，本报告期转让至聚胶新加坡，报告期末系公司全资孙公司"
+    },
+    {
+      "name": "聚胶企管（广州聚胶企业管理有限公司）",
+      "relation_type": "investor",
+      "business_details": "控股股东之一",
+      "quote": "聚胶企管 指 广州聚胶企业管理有限公司"
+    },
+    {
+      "name": "富丰泓锦（广州富丰泓锦创业投资合伙企业（有限合伙））",
+      "relation_type": "investor",
+      "business_details": "公司股东",
+      "quote": "富丰泓锦 指 广州富丰泓锦创业投资合伙企业（有限合伙），系公司股东"
+    },
+    {
+      "name": "国泰海通证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "保荐人/保荐机构",
+      "quote": "保荐人/保荐机构/国泰海通 指 国泰海通证券股份有限公司"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "会计师事务所",
+      "quote": "会计师事务所 指 天健会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "热熔胶",
+      "segment_type": "product_line",
+      "revenue_amount": "2,148,777,803.80",
+      "revenue_proportion": "99.86%",
+      "gross_margin": "20.35%",
+      "yoy_change": "7.28%",
+      "quote": "分行业：热熔胶 2,148,777,803.80 99.86% ... 毛利率 20.35% ... 营业收入比上年同期增减 7.28%"
+    },
+    {
+      "name": "卫材热熔胶",
+      "segment_type": "product_line",
+      "revenue_amount": "2,094,422,254.13",
+      "revenue_proportion": "97.34%",
+      "gross_margin": "20.70%",
+      "yoy_change": "4.59%",
+      "quote": "分产品：卫材热熔胶 2,094,422,254.13 97.34% ... 毛利率 20.70% ... 营业收入比上年同期增减 4.59%"
+    },
+    {
+      "name": "消费品包装热熔胶",
+      "segment_type": "product_line",
+      "revenue_amount": "54,355,549.67",
+      "revenue_proportion": "2.53%",
+      "gross_margin": null,
+      "yoy_change": "11,359.03%",
+      "quote": "分产品：消费品包装热熔胶 54,355,549.67 2.53% ... 同比增减 11,359.03%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "918,139,164.79",
+      "revenue_proportion": "42.67%",
+      "gross_margin": "22.33%",
+      "yoy_change": "9.27%",
+      "quote": "分地区：国内 918,139,164.79 42.67% ... 毛利率 22.33% ... 营业收入比上年同期增减 9.27%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "1,233,599,390.96",
+      "revenue_proportion": "57.33%",
+      "gross_margin": "18.94%",
+      "yoy_change": "5.78%",
+      "quote": "分地区：国外 1,233,599,390.96 57.33% ... 毛利率 18.94% ... 营业收入比上年同期增减 5.78%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,996,459,126.90",
+      "revenue_proportion": "92.78%",
+      "gross_margin": "20.64%",
+      "yoy_change": "5.97%",
+      "quote": "分销售模式：直销 1,996,459,126.90 92.78% ... 毛利率 20.64% ... 营业收入比上年同期增减 5.97%"
+    },
+    {
+      "name": "贸易",
+      "segment_type": "sales_channel",
+      "revenue_amount": "153,295,918.32",
+      "revenue_proportion": "7.12%",
+      "gross_margin": null,
+      "yoy_change": "28.82%",
+      "quote": "分销售模式：贸易 153,295,918.32 7.12% ... 同比增减 28.82%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "热熔胶",
+      "metric_type": "production_volume",
+      "value": "151,796吨",
+      "period": "2025年",
+      "quote": "行业分类 热熔胶领域 生产量 吨 151,796"
+    },
+    {
+      "product": "热熔胶",
+      "metric_type": "sales_volume",
+      "value": "150,689吨",
+      "period": "2025年",
+      "quote": "行业分类 热熔胶领域 销售量 吨 150,689"
+    },
+    {
+      "product": "热熔胶",
+      "metric_type": "capacity_utilization",
+      "value": "58.38%",
+      "period": "2025年",
+      "quote": "主要产品 设计产能 产能利用率 热熔胶 ... 58.38%"
+    },
+    {
+      "product": "热熔胶",
+      "metric_type": "inventory_volume",
+      "value": "9,100吨",
+      "period": "2025年末",
+      "quote": "行业分类 热熔胶领域 库存量 吨 9,100"
+    },
+    {
+      "product": "热熔胶（仙村工厂）",
+      "metric_type": "capacity",
+      "value": "年产7.4万吨",
+      "period": null,
+      "quote": "仙村工厂年产7.4万吨"
+    },
+    {
+      "product": "热熔胶（波兰工厂）",
+      "metric_type": "capacity",
+      "value": "年产6.1万吨",
+      "period": null,
+      "quote": "波兰工厂年产6.1万吨"
+    },
+    {
+      "product": "热熔胶（总部工厂）",
+      "metric_type": "capacity",
+      "value": "年产12万吨",
+      "period": null,
+      "quote": "总部工厂年产12万吨"
+    },
+    {
+      "product": "热熔胶（马来西亚工厂）",
+      "metric_type": "capacity",
+      "value": "年产6万吨",
+      "period": null,
+      "quote": "马来西亚工厂年产6万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产12万吨卫生用品高分子新材料制造及研发总部项目（总部工厂）",
+      "project_type": "fundraising_project",
+      "location": "广州市增城区宁西街创强路97号",
+      "investment_amount": "24,439.83万元",
+      "designed_capacity": "年产12万吨热熔胶",
+      "progress": "已达到预定可使用状态",
+      "expected_completion_time": "2024年06月30日",
+      "quote": "1.年产12万吨卫生用品高分子新材料制造及研发总部项目 ... 募集资金承诺投资总额 24,439.83 万元 ... 项目达到预定可使用状态日期 2024年06月30日"
+    },
+    {
+      "name": "卫材热熔胶产品波兰生产基地建设项目",
+      "project_type": "fundraising_project",
+      "location": "波兰",
+      "investment_amount": "21,512.19万元（调整后）",
+      "designed_capacity": "年产6.1万吨热熔胶",
+      "progress": "已结项，但未达到预计效益",
+      "expected_completion_time": "2022年09月30日",
+      "quote": "2.卫材热熔胶产品波兰生产基地建设项目 ... 调整后投资总额 21,512.19 万元 ... 项目达到预定可使用状态日期 2022年09月30日 ... 未达到预计效益"
+    },
+    {
+      "name": "卫材热熔胶产品马来西亚生产基地建设项目",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": "12,080.17万元（调整后）",
+      "designed_capacity": "年产6万吨热熔胶",
+      "progress": "2025年第四季度达到预定可使用状态，目前处于投产初期",
+      "expected_completion_time": "2025年11月30日",
+      "quote": "3.卫材热熔胶产品马来西亚生产基地建设项目 ... 调整后投资总额 12,080.17 万元 ... 项目达到预定可使用状态日期 2025年11月30日 ... 马来西亚生产基地于2025年11月达到预定可使用状态，截至2025年12月尚处于投产初期阶段，尚未产生经济效益。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "热熔胶配方与生产技术",
+      "asset_type": "core_technology",
+      "related_product": "热熔胶",
+      "quantitative_info": null,
+      "quote": "主要产品 专利技术 产品研发优势 热熔胶 ... 持续创新保证技术先进性。"
+    },
+    {
+      "name": "专利技术",
+      "asset_type": "patent",
+      "related_product": "热熔胶",
+      "quantitative_info": "截至2025年12月31日，共有专利技术24项，其中发明专利4项，实用新型专利20项",
+      "quote": "截至2025年12月31日，共有专利技术24项，其中发明专利4项，实用新型专利20项"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "有效期2024年08月29日-2029年01月22日",
+      "quote": "序号 批复、许可、资质名称 ... ISO9001证书 ... 有效期 2024年08月29日-2029年01月22日"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "有效期2024年10月13日-2027年10月12日",
+      "quote": "序号 批复、许可、资质名称 ... ISO14001环境管理体系认证证书 ... 有效期 2024年10月13日-2027年10月12日"
+    },
+    {
+      "name": "ISO45001职业健康安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "有效期2024年09月27日-2026年09月10日",
+      "quote": "序号 批复、许可、资质名称 ... ISO45001职业健康安全管理体系认证证书 ... 有效期 2024年09月27日-2026年09月10日"
+    },
+    {
+      "name": "LEED能源与环境设计先锋认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "波兰工厂（LEED银奖）、总部工厂（LEED金奖）",
+      "quote": "聚胶波兰工厂与中国总部工厂分别获得国际权威绿色建筑认证LEED银奖及金奖"
+    },
+    {
+      "name": "生物可降解热熔胶技术",
+      "asset_type": "process_technology",
+      "related_product": "热熔胶",
+      "quantitative_info": "生物可降解率达到了92.67%",
+      "quote": "根据德国莱茵技术（上海）有限公司对公司某型号产品出具的检测报告，送检样品的生物可降解率达到了92.67%。"
+    },
+    {
+      "name": "生物基热熔胶技术",
+      "asset_type": "process_technology",
+      "related_product": "热熔胶",
+      "quantitative_info": "生物基含量达89%",
+      "quote": "公司新开发的生物基产品，根据美国Beta Analytic实验室对公司某型号产品出具的检测报告，送检样品的生物基含量达89%。"
+    },
+    {
+      "name": "广东省工程技术研究中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2017年成功组建广东省工程技术研究中心"
+    },
+    {
+      "name": "专精特新“小巨人”企业",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2024年通过工信部“专精特新‘小巨人’企业”的审核认定"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "37.35%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 803,759,442.69 ... 前五名客户合计销售金额占年度销售总额比例 37.35%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "17.85%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 384,181,291.71 17.85%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "59.65%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 897,764,925.05 ... 前五名供应商合计采购金额占年度采购总额比例 59.65%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "27.78%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 418,076,305.71 27.78%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "14.53%",
+      "related_entity": "淄博鲁华泓锦新材料集团股份有限公司（关联方）",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 14.53% ... 供应商二即淄博鲁华泓锦新材料集团股份有限公司，与本公司股东广州富丰泓锦创业投资合伙企业（有限合伙）系同一实际控制人。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧、成长性放缓的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本公司敬请投资者认真阅读本报告全文，并特别注意下列风险因素：市场竞争加剧、成长性放缓的风险..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险",
+      "related_entity": null,
+      "related_product": "石油树脂、高聚物、矿物油等",
+      "quote": "...原材料价格波动风险..."
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "...国际贸易的风险..."
+    },
+    {
+      "risk_type": "other",
+      "description": "海外经营的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "...海外经营的风险..."
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率变动的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "...汇率变动的风险..."
+    },
+    {
+      "risk_type": "other",
+      "description": "项目未能如期产生效益的风险",
+      "related_entity": "波兰、总部及马来西亚工厂",
+      "related_product": null,
+      "quote": "...项目未能如期产生效益的风险..."
+    },
+    {
+      "risk_type": "other",
+      "description": "新业务拓展不及预期的风险",
+      "related_entity": null,
+      "related_product": "消费品包装专用热熔胶、标签及胶带专用热熔胶",
+      "quote": "...新业务拓展不及预期的风险..."
+    }
+  ]
+}

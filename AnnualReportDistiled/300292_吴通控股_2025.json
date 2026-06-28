@@ -1,0 +1,325 @@
+{
+  "company_name_mentioned": "吴通控股集团股份有限公司",
+  "produces": [
+    {
+      "name": "移动信息服务（包含消息运营服务、语音服务和营销增值服务）",
+      "type": "service",
+      "revenue_proportion": "移动信息服务实现营业收入3,531,985,449.92元，占营业收入比重81.14%。",
+      "quote": "移动信息服务实现营业收入3,531,985,449.92元，占营业收入比重81.14%。"
+    },
+    {
+      "name": "通讯基础连接产品（包括射频连接产品、光纤接入产品、天线产品、新能源电池软硬连接产品）",
+      "type": "component",
+      "revenue_proportion": "通讯基础连接产品实现营业收入301,396,118.87元，占营业收入比重6.92%。",
+      "quote": "通讯基础连接产品实现营业收入301,396,118.87元，占营业收入比重6.92%。"
+    },
+    {
+      "name": "电子制造服务（电路板组件和系统的研发、制造及相关技术服务）",
+      "type": "service",
+      "revenue_proportion": "电子制造服务实现营业收入441,886,421.87元，占营业收入比重10.15%。",
+      "quote": "电子制造服务实现营业收入441,886,421.87元，占营业收入比重10.15%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "信息服务通道费",
+      "target_product": "移动信息服务",
+      "cost_proportion": "信息服务通道费 3,287,534,449.85，占营业成本比重83.70%。",
+      "quote": "信息服务通道费 3,287,534,449.85 83.70%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "通讯基础连接产品、电子制造服务",
+      "cost_proportion": "原材料 538,834,434.91，占营业成本比重13.72%。",
+      "quote": "原材料 538,834,434.91 13.72%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "金融行业、知名互联网企业、机关事业单位",
+      "source_product": "移动信息服务",
+      "quote": "为金融行业客户、知名互联网企业、机关事业单位等提供安全、稳定、高效的一站式移动信息化服务解决方案。"
+    },
+    {
+      "name": "通信设备制造",
+      "source_product": "通讯基础连接产品",
+      "quote": "是国内领先的通信射频连接系统专业供应商...是通讯系统设备厂商的元器件供应商。"
+    },
+    {
+      "name": "汽车、医疗、通讯、工控、新能源",
+      "source_product": "电子制造服务",
+      "quote": "主要产品包括可应用于汽车、医疗、通讯、工控、新能源等领域的各种电子控制系统。"
+    },
+    {
+      "name": "新能源（储能及动力电池连接）",
+      "source_product": "通讯基础连接产品（新能源电池软硬连接产品）",
+      "quote": "新能源储能及动力电池连接产品，包括...新能源电池软硬连接产品等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "万卫方",
+      "role": "董事长，法定代表人",
+      "quote": "公司负责人万卫方...保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张建国",
+      "role": "董事、总裁",
+      "quote": "2018年12月至今，担任公司总裁，2019年1月至今，担任公司董事兼总裁。"
+    },
+    {
+      "name": "沈伟新",
+      "role": "董事、副总裁、财务总监",
+      "quote": "主管会计工作负责人沈伟新...保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "万吉",
+      "role": "副董事长",
+      "quote": "2019年12月起担任公司董事，2024年3月至今担任公司副董事长。"
+    },
+    {
+      "name": "李勇",
+      "role": "副总裁、董事会秘书",
+      "quote": "2019年6月至今担任公司副总裁，2019年12月至今担任公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京国都互联科技有限公司（国都互联）",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下全资子公司，从事企业移动信息化服务业务。",
+      "quote": "公司旗下全资子公司国都互联主要从事企业移动信息化服务业务。"
+    },
+    {
+      "name": "江苏吴通物联科技有限公司（物联科技）",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下全资子公司，专注于通信和新能源领域连接技术。",
+      "quote": "公司旗下全资子公司物联科技是一家专注于通信和新能源领域连接技术的高新技术企业。"
+    },
+    {
+      "name": "苏州市吴通智能电子有限公司（智能电子）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事电路板组件和系统的研发、制造及相关技术服务。",
+      "quote": "公司全资子公司智能电子从事电路板组件和系统的研发、制造及相关技术服务。"
+    },
+    {
+      "name": "中国移动通信集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "是国都互联的供应商，为其提供通信通道服务。也是物联科技的客户（通过集采）。",
+      "quote": "国都互联是中国移动、中国联通、中国电信最高级别全网业务合作伙伴。...供应商：中国移动通信集团有限公司"
+    },
+    {
+      "name": "中国电信",
+      "relation_type": "supplier",
+      "business_details": "是国都互联的供应商，为其提供通信通道服务。",
+      "quote": "国都互联是中国移动、中国联通、中国电信最高级别全网业务合作伙伴。"
+    },
+    {
+      "name": "中国联通",
+      "relation_type": "supplier",
+      "business_details": "是国都互联的供应商，为其提供通信通道服务。",
+      "quote": "国都互联是中国移动、中国联通、中国电信最高级别全网业务合作伙伴。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "移动信息服务",
+      "segment_type": "product_line",
+      "revenue_amount": "3,531,985,449.92元",
+      "revenue_proportion": "81.14%",
+      "gross_margin": "6.92%",
+      "yoy_change": "3.39%",
+      "quote": "移动信息服务 3,531,985,449.92 81.14% ... 毛利率 6.92% ... 营业收入比上年同期增减 3.39%"
+    },
+    {
+      "name": "通讯基础连接产品",
+      "segment_type": "product_line",
+      "revenue_amount": "301,396,118.87元",
+      "revenue_proportion": "6.92%",
+      "yoy_change": "-6.30%",
+      "quote": "通讯基础连接产品 301,396,118.87 6.92% ... 营业收入比上年同期增减 -6.30%"
+    },
+    {
+      "name": "电子制造服务",
+      "segment_type": "product_line",
+      "revenue_amount": "441,886,421.87元",
+      "revenue_proportion": "10.15%",
+      "gross_margin": "24.03%",
+      "yoy_change": "-4.21%",
+      "quote": "电子制造服务 441,886,421.87 10.15% ... 毛利率 24.03% ... 营业收入比上年同期增减 -4.21%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "4,266,144,394.61元",
+      "revenue_proportion": "98.01%",
+      "yoy_change": "2.18%",
+      "quote": "境内 4,266,144,394.61 98.01% ... 营业收入比上年同期增减 2.18%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "86,645,567.79元",
+      "revenue_proportion": "1.99%",
+      "yoy_change": "-51.86%",
+      "quote": "境外 86,645,567.79 1.99% ... 营业收入比上年同期增减 -51.86%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "收购控股子公司智能电子少数股东股权",
+      "project_type": "acquisition_project",
+      "investment_amount": "8,400万元",
+      "progress": "已完成",
+      "expected_completion_time": "2025年7月10日工商变更完成",
+      "quote": "公司拟以现金人民币8,400万元收购智能电子少数股东裴忠辉持有的智能电子20%股权。...本次变更后，公司持有智能电子100%股权，智能电子成为公司全资子公司。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国都统一消息服务平台（全信通、5G101平台）",
+      "asset_type": "technical_platform",
+      "related_product": "移动信息服务",
+      "quote": "国都互联自主研发了统一消息全信通、5G101 服务平台...为客户提供安全、稳定、高效的一站式移动信息化服务解决方案。"
+    },
+    {
+      "name": "5G消息服务能力",
+      "asset_type": "core_technology",
+      "related_product": "移动信息服务",
+      "quote": "国都互联2020年率先发布国内首个5G消息服务平台...集成DeepSeek大模型，稳固构建三网5G消息全渠道、多终端、多场景、多行业的全生态智能发送体系。"
+    },
+    {
+      "name": "“消息+语音+AI”一体化综合通信服务方案",
+      "asset_type": "core_technology",
+      "related_product": "移动信息服务",
+      "quote": "创新性打造“消息+语音+AI”一体化综合通信服务方案。"
+    },
+    {
+      "name": "射频同轴连接器技术",
+      "asset_type": "core_technology",
+      "related_product": "通讯基础连接产品",
+      "quote": "物联科技主导产品射频同轴连接器在细分领域处于行业前列。"
+    },
+    {
+      "name": "CCS集成母排与软硬铜铝连接排技术",
+      "asset_type": "core_technology",
+      "related_product": "通讯基础连接产品（新能源连接）",
+      "quote": "在新能源领域，随着汽车电池系统向高集成度、轻量化及高效能方向演进，公司所开发的CCS集成母排与软硬铜铝连接排产品，...已构建起较为显著的竞争优势。"
+    },
+    {
+      "name": "DFM专业模拟软件Valor",
+      "asset_type": "software_copyright",
+      "related_product": "电子制造服务",
+      "quote": "公司有业内针对DFM的专业模拟软件Valor（Siemens旗下产品），可以提前模拟产品的可制造性水平并提出建设性优化意见。"
+    },
+    {
+      "name": "专利及软件著作权（截至2025年12月31日）",
+      "asset_type": "patent",
+      "quantitative_info": "公司及各子公司合计获得授权专利208项，其中发明专利47项、实用新型155项、外观设计6项，软件著作权317项，集成电路布图设计4项。",
+      "quote": "截至2025年12月31日，公司（含子公司）合计获得授权专利208项，其中发明专利47项、实用新型155项、外观设计6项，软件著作权317项，集成电路布图设计4项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "75.95%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 75.95%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "35.14%",
+      "related_entity": "第一名",
+      "period": "2025年度",
+      "quote": "第一名 1,529,635,305.17 35.14%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "86.89%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 86.89%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "57.32%",
+      "related_entity": "中国移动通信集团有限公司",
+      "period": "2025年度",
+      "quote": "中国移动通信集团有限公司 2,197,088,651.16 57.32%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "主要客户及供应商集中度较高风险"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "主要客户及供应商集中度较高风险"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司前五大客户销售金额合计为330,605.94万元，占公司报告期内营业收入的75.95%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司前五大客户销售金额合计为330,605.94万元，占公司报告期内营业收入的75.95%。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "前五大供应商采购额333,076.75万元，占公司报告期内采购总额的86.89%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司...前五大供应商采购额333,076.75万元，占公司报告期内采购总额的86.89%。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "工信部、运营商对企业短信业务的管控政策对行业发展影响巨大，近年来政策监管持续趋严，代理商合规成本上升。",
+      "related_entity": null,
+      "related_product": "移动信息服务",
+      "quote": "工信部、运营商对企业短信业务的管控政策对行业发展影响巨大，近年来政策监管持续趋严，代理商合规成本上升。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "5G消息的发展将催生出大量新技术、新应用和新商业模式，将对传统短信业务产生一定的产品迭代效应。",
+      "related_entity": null,
+      "related_product": "移动信息服务",
+      "quote": "5G消息的发展将催生出大量新技术、新应用和新商业模式，将对传统短信业务产生一定的产品迭代效应。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "同行业竞争企业有上千家，头部企业市场竞争优势凸显。",
+      "related_entity": null,
+      "related_product": "移动信息服务",
+      "quote": "同行业竞争企业有上千家，除国都互联等市场份额排名靠前的几家企业以外，其他中小型企业所占据的市场份额都较少，头部企业市场竞争优势凸显。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心人才流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、核心人才流失的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司整体规模不断扩大带来的管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、公司整体规模不断扩大带来的管理风险"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存在应收账款无法收回风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、应收账款无法收回风险"
+    }
+  ]
+}

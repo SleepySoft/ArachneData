@@ -1,0 +1,534 @@
+{
+  "company_name_mentioned": "浙江东尼电子股份有限公司",
+  "produces": [
+    {
+      "name": "超微细电子线材",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司自成立以来，始终紧跟电子线材行业发展趋势，坚持以市场需求为导向，专注于超微细电子线材的研发、生产与销售。"
+    },
+    {
+      "name": "无线充电隔磁材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司的无线充电磁性材料为纳米晶，是一种新型无线充电隔磁材料，具有高磁导率、低磁损以及高磁饱和强度优势，不仅在无线充电领域应用优势明显，而且具备较高的技术准入门槛。"
+    },
+    {
+      "name": "柔性线路板、FPC",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "将特制铜箔与高绝缘聚酰亚胺膜材叠压，经过线路制作具有熔断功能的柔性线路板，再贴装热敏感应部件而成。"
+    },
+    {
+      "name": "集成母排、CCS",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "属于新能源汽车动力电池管理系统的一部分，由柔性线路板、塑胶结构件、铜铝排等组成，作为新能源汽车动力电池安全监控中心的核心部分，对汽车安全性能起着关键作用"
+    },
+    {
+      "name": "电池极耳",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "锂离子聚合物电池产品的一种原材料，是从电芯中将正负极引出来的金属导电体，是电池进行充放电时的接触点，一般由胶片和金属带两部分复合而成"
+    },
+    {
+      "name": "碳化硅单晶晶锭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司碳化硅半导体行业的主要产品为碳化硅单晶晶锭和碳化硅单晶衬底，是半导体器件制造的关键原材料，可广泛应用于功率器件。"
+    },
+    {
+      "name": "碳化硅单晶衬底",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司碳化硅半导体行业的主要产品为碳化硅单晶晶锭和碳化硅单晶衬底，是半导体器件制造的关键原材料，可广泛应用于功率器件。"
+    },
+    {
+      "name": "医疗线束",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的医疗线束，主要应用于医疗超声探头线、内窥镜线缆等高端医疗成像设备，以及为介入医疗器械提供人工心脏控制线缆、血管超声线缆等定制线缆"
+    },
+    {
+      "name": "医疗导管",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的医疗导管产品，是制造微创介入、电外科等高值医疗器械时不可或缺的核心辅助材料"
+    },
+    {
+      "name": "金刚石切割线",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的金刚石切割线，金刚石切割线主要应用于晶体硅、蓝宝石、碳化硅等硬脆材料的精密加工"
+    }
+  ],
+  "procures": [
+    {
+      "name": "浙江湖州品惠贸易有限公司",
+      "target_product": null,
+      "cost_proportion": "5.86%",
+      "quote": "1 浙江湖州品惠贸易有限公司 9,169.48 5.86"
+    },
+    {
+      "name": "江苏生益特种材料有限公司",
+      "target_product": null,
+      "cost_proportion": "5.66%",
+      "quote": "2 江苏生益特种材料有限公司 8,842.22 5.66"
+    },
+    {
+      "name": "湖州电力局",
+      "target_product": null,
+      "cost_proportion": "4.74%",
+      "quote": "3 湖州电力局 7,412.73 4.74"
+    },
+    {
+      "name": "上海丛智科技有限公司",
+      "target_product": null,
+      "cost_proportion": "3.56%",
+      "quote": "4 上海丛智科技有限公司 5,559.96 3.56"
+    },
+    {
+      "name": "江西德思恩科技有限公司",
+      "target_product": null,
+      "cost_proportion": "2.95%",
+      "quote": "5 江西德思恩科技有限公司 4,617.92 2.95"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子",
+      "source_product": "超微细电子线材、无线充电隔磁材料",
+      "quote": "相关产品广泛应用于消费电子、新能源汽车和半导体等行业。其中，应用于消费电子行业的主要产品为超微细电子线材和无线充电隔磁材料"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "柔性线路板、电池极耳",
+      "quote": "新能源汽车行业的主要产品为柔性线路板和电池极耳"
+    },
+    {
+      "name": "半导体",
+      "source_product": "碳化硅单晶晶锭、碳化硅单晶衬底",
+      "quote": "半导体行业的主要产品为碳化硅单晶晶锭和碳化硅单晶衬底"
+    },
+    {
+      "name": "高端医疗设备",
+      "source_product": "医疗线束、医疗导管",
+      "quote": "高端医疗设备和介入医疗器械所用的柔性线缆及线束"
+    },
+    {
+      "name": "光伏及半导体材料切割",
+      "source_product": "金刚石切割线",
+      "quote": "切割晶体硅、蓝宝石和碳化硅等硬质材料所需的金刚石切割线。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "沈晓宇",
+      "role": "董事长、总经理",
+      "quote": "公司负责人沈晓宇、主管会计工作负责人谭国荣及会计机构负责人（会计主管人员）谭国荣声明"
+    },
+    {
+      "name": "谭国荣",
+      "role": "主管会计工作负责人、会计机构负责人、财务负责人",
+      "quote": "公司负责人沈晓宇、主管会计工作负责人谭国荣及会计机构负责人（会计主管人员）谭国荣声明"
+    },
+    {
+      "name": "沈新芳",
+      "role": "控股股东、实际控制人",
+      "quote": "截至报告期末，公司控股股东、实际控制人沈新芳、沈晓宇先生合计质押本公司股份9,019.75万股"
+    },
+    {
+      "name": "殷勤",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书 殷勤"
+    },
+    {
+      "name": "吴月娟",
+      "role": "董事",
+      "quote": "吴月娟 董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "立讯精密工业股份有限公司",
+      "relation_type": "customer",
+      "business_details": "消费电子行业主要客户",
+      "quote": "消费电子行业主要客户有立讯精密、信维通信、富士康、歌尔股份等"
+    },
+    {
+      "name": "宁德时代新能源科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "新能源汽车行业主要客户",
+      "quote": "新能源汽车行业主要客户有宁德时代、铭基高科、比亚迪等"
+    },
+    {
+      "name": "深圳市信维通信股份有限公司",
+      "relation_type": "customer",
+      "business_details": "消费电子行业主要客户",
+      "quote": "消费电子行业主要客户有立讯精密、信维通信、富士康、歌尔股份等"
+    },
+    {
+      "name": "广东铭基高科电子股份有限公司",
+      "relation_type": "customer",
+      "business_details": "新能源汽车行业主要客户",
+      "quote": "新能源汽车行业主要客户有宁德时代、铭基高科、比亚迪等"
+    },
+    {
+      "name": "迈瑞医疗",
+      "relation_type": "customer",
+      "business_details": "医疗器械行业主要客户",
+      "quote": "医疗器械行业主要客户有迈瑞医疗、三星医疗、西门子医疗、GE医疗等"
+    },
+    {
+      "name": "西门子医疗",
+      "relation_type": "customer",
+      "business_details": "医疗器械行业主要客户",
+      "quote": "医疗器械行业主要客户有迈瑞医疗、三星医疗、西门子医疗、GE医疗等"
+    },
+    {
+      "name": "GE医疗",
+      "relation_type": "customer",
+      "business_details": "医疗器械行业主要客户",
+      "quote": "医疗器械行业主要客户有迈瑞医疗、三星医疗、西门子医疗、GE医疗等"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "新能源汽车行业主要客户",
+      "quote": "新能源汽车行业主要客户有宁德时代、铭基高科、比亚迪等"
+    },
+    {
+      "name": "宁德康本科技有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户",
+      "quote": "5 宁德康本科技有限公司 7,685.71 3.65"
+    },
+    {
+      "name": "浙江湖州品惠贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商",
+      "quote": "1 浙江湖州品惠贸易有限公司 9,169.48 5.86"
+    },
+    {
+      "name": "江苏生益特种材料有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商",
+      "quote": "2 江苏生益特种材料有限公司 8,842.22 5.66"
+    },
+    {
+      "name": "湖州电力局",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商",
+      "quote": "3 湖州电力局 7,412.73 4.74"
+    },
+    {
+      "name": "上海丛智科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商",
+      "quote": "4 上海丛智科技有限公司 5,559.96 3.56"
+    },
+    {
+      "name": "江西德思恩科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商",
+      "quote": "5 江西德思恩科技有限公司 4,617.92 2.95"
+    },
+    {
+      "name": "湖州东尼新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "负责柔性线路板项目",
+      "quote": "东尼新能源 指 湖州东尼新能源有限公司，曾用名湖州东尼藤森新材料有限公司"
+    },
+    {
+      "name": "湖州东尼半导体科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "负责碳化硅半导体业务",
+      "quote": "东尼半导体 指 湖州东尼半导体科技有限公司，为公司控股子公司"
+    },
+    {
+      "name": "湖州东尼新材有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东尼新材 指 湖州东尼新材有限公司，为公司全资子公司"
+    },
+    {
+      "name": "湖州东尼特材有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东尼特材 指 湖州东尼特材有限公司，曾用名湖州东尼化工有限公司，为公司全资子公司"
+    },
+    {
+      "name": "湖州东尼进出口贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东尼贸易 指 湖州东尼进出口贸易有限公司，为公司全资子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,999,397,810.24",
+      "revenue_proportion": null,
+      "gross_margin": "20.53",
+      "yoy_change": "8.80",
+      "quote": "制造业 1,999,397,810.24 1,588,999,006.64 20.53 8.80 7.17"
+    },
+    {
+      "name": "消费电子",
+      "segment_type": "product_line",
+      "revenue_amount": "1,010,421,645.78",
+      "revenue_proportion": null,
+      "gross_margin": "23.25",
+      "yoy_change": "-2.16",
+      "quote": "消费电子 1,010,421,645.78 775,525,814.96 23.25 -2.16 -0.72"
+    },
+    {
+      "name": "新能源",
+      "segment_type": "product_line",
+      "revenue_amount": "752,773,368.50",
+      "revenue_proportion": null,
+      "gross_margin": "19.97",
+      "yoy_change": "78.74",
+      "quote": "新能源 752,773,368.50 602,481,355.98 19.97 78.74 56.18"
+    },
+    {
+      "name": "医疗",
+      "segment_type": "product_line",
+      "revenue_amount": "142,843,532.93",
+      "revenue_proportion": null,
+      "gross_margin": "38.99",
+      "yoy_change": "6.15",
+      "quote": "医疗 142,843,532.93 87,152,080.71 38.99 6.15 11.05"
+    },
+    {
+      "name": "光伏",
+      "segment_type": "product_line",
+      "revenue_amount": "85,013,366.79",
+      "revenue_proportion": null,
+      "gross_margin": "3.43",
+      "yoy_change": "-52.35",
+      "quote": "光伏 85,013,366.79 82,095,763.34 3.43 -52.35 -43.94"
+    },
+    {
+      "name": "半导体",
+      "segment_type": "product_line",
+      "revenue_amount": "8,345,896.24",
+      "revenue_proportion": null,
+      "gross_margin": "-400.17",
+      "yoy_change": "-88.21",
+      "quote": "半导体 8,345,896.24 41,743,991.65 -400.17 -88.21 -54.07"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "1,242,706,960.94",
+      "revenue_proportion": null,
+      "gross_margin": "16.83",
+      "yoy_change": "16.30",
+      "quote": "内销 1,242,706,960.94 1,033,502,482.52 16.83 16.30 9.77"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "756,690,849.30",
+      "revenue_proportion": null,
+      "gross_margin": "26.59",
+      "yoy_change": "-1.62",
+      "quote": "外销 756,690,849.30 555,496,524.12 26.59 -1.62 2.63"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,999,397,810.24",
+      "revenue_proportion": null,
+      "gross_margin": "20.53",
+      "yoy_change": "8.80",
+      "quote": "直销 1,999,397,810.24 1,588,999,006.64 20.53 8.80 7.17"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "消费电子",
+      "metric_type": "production_volume",
+      "value": "862,269.32",
+      "period": "2025",
+      "quote": "消费电子 KPCS 862,269.32 803,105.98 10,676.58 14.51 8.86 -12.58"
+    },
+    {
+      "product": "消费电子",
+      "metric_type": "sales_volume",
+      "value": "803,105.98",
+      "period": "2025",
+      "quote": "消费电子 KPCS 862,269.32 803,105.98 10,676.58 14.51 8.86 -12.58"
+    },
+    {
+      "product": "消费电子",
+      "metric_type": "inventory_volume",
+      "value": "10,676.58",
+      "period": "2025",
+      "quote": "消费电子 KPCS 862,269.32 803,105.98 10,676.58 14.51 8.86 -12.58"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "production_volume",
+      "value": "109,499.19",
+      "period": "2025",
+      "quote": "新能源 KPCS 109,499.19 72,996.03 23,099.26 11.70 -19.39 20.25"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "sales_volume",
+      "value": "72,996.03",
+      "period": "2025",
+      "quote": "新能源 KPCS 109,499.19 72,996.03 23,099.26 11.70 -19.39 20.25"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "inventory_volume",
+      "value": "23,099.26",
+      "period": "2025",
+      "quote": "新能源 KPCS 109,499.19 72,996.03 23,099.26 11.70 -19.39 20.25"
+    },
+    {
+      "product": "医疗",
+      "metric_type": "production_volume",
+      "value": "13,490.82",
+      "period": "2025",
+      "quote": "医疗 KPCS 13,490.82 6,594.86 40.12 -19.08 -22.84 -96.59"
+    },
+    {
+      "product": "医疗",
+      "metric_type": "sales_volume",
+      "value": "6,594.86",
+      "period": "2025",
+      "quote": "医疗 KPCS 13,490.82 6,594.86 40.12 -19.08 -22.84 -96.59"
+    },
+    {
+      "product": "医疗",
+      "metric_type": "inventory_volume",
+      "value": "40.12",
+      "period": "2025",
+      "quote": "医疗 KPCS 13,490.82 6,594.86 40.12 -19.08 -22.84 -96.59"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "production_volume",
+      "value": "2,185,727.16",
+      "period": "2025",
+      "quote": "光伏 KPCS 2,185,727.16 1,966,328.02 1,060,105.53 -51.46 -62.40 4.32"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "sales_volume",
+      "value": "1,966,328.02",
+      "period": "2025",
+      "quote": "光伏 KPCS 2,185,727.16 1,966,328.02 1,060,105.53 -51.46 -62.40 4.32"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "inventory_volume",
+      "value": "1,060,105.53",
+      "period": "2025",
+      "quote": "光伏 KPCS 2,185,727.16 1,966,328.02 1,060,105.53 -51.46 -62.40 4.32"
+    },
+    {
+      "product": "半导体",
+      "metric_type": "production_volume",
+      "value": "9.49",
+      "period": "2025",
+      "quote": "半导体 KPCS 9.49 6.58 38.35 -74.29 -78.81 -12.65"
+    },
+    {
+      "product": "半导体",
+      "metric_type": "sales_volume",
+      "value": "6.58",
+      "period": "2025",
+      "quote": "半导体 KPCS 9.49 6.58 38.35 -74.29 -78.81 -12.65"
+    },
+    {
+      "product": "半导体",
+      "metric_type": "inventory_volume",
+      "value": "38.35",
+      "period": "2025",
+      "quote": "半导体 KPCS 9.49 6.58 38.35 -74.29 -78.81 -12.65"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计取得专利152项（其中国内发明专利33项、外国发明专利2项、实用新型117项）",
+      "quote": "截至2025年12月31日，公司累计取得专利152项（其中国内发明专利33项、外国发明专利2项、实用新型117项）。"
+    },
+    {
+      "name": "东尼半导体专利",
+      "asset_type": "patent",
+      "related_product": "碳化硅半导体材料",
+      "quantitative_info": "获授权专利共15件，其中发明专利4件、实用新型11件",
+      "quote": "截至2025年12月31日，东尼半导体获授权专利共15件，其中发明专利4件、实用新型11件"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "130,764.11万元，占年度销售总额62.03%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名客户销售额130,764.11万元，占年度销售总额62.03%；其中前五名客户销售额中关联方销售额0万元，占年度销售总额0.00%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "75,613.42万元，占年度销售总额比例35.87%",
+      "related_entity": "立讯精密工业股份有限公司",
+      "period": "2025",
+      "quote": "1 立讯精密工业股份有限公司 75,613.42 35.87"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "35,602.31万元，占年度采购总额22.77%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名供应商采购额35,602.31万元，占年度采购总额22.77%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0.00%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "报告期内，公司前五名客户销售额130,764.11万元，占年度销售总额62.03%，客户集中度较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司前五名客户销售额130,764.11万元，占年度销售总额62.03%，客户集中度较高。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "报告期内，公司直接材料成本占主营业务成本比例为65.61%，系成本主要构成部分。若未来原材料价格出现大幅波动，仍将导致公司经营业绩随之产生波动。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司直接材料成本占主营业务成本比例为65.61%，系成本主要构成部分。若未来原材料价格出现大幅波动，仍将导致公司经营业绩随之产生波动。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司产品主要应用于消费电子、新能源汽车及半导体等领域，相关行业技术迭代迅速，若公司未来未能及时响应新兴市场需求与技术发展趋势，可能出现产品竞争力下降、技术路线偏离或核心技术滞后等情形。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司产品主要应用于消费电子、新能源汽车及半导体等领域，相关行业技术迭代迅速，对上游供应商的同步研发与配套能力均提出较高要求。若公司未来未能及时响应新兴市场需求与技术发展趋势，未能提前布局、持续提升研发实力并推出适配新产品，可能出现产品竞争力下降、技术路线偏离或核心技术滞后等情形"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "本报告期末，公司应收账款账面价值54,795.28万元，占当期公司资产总额的11.13%。如果主要客户的财务状况恶化、出现经营危机或者信用条件发生重大变化，导致公司应收账款不能按期收回，公司资金周转速度与运营效率可能会降低，存在流动性风险或坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本报告期末，公司应收账款账面价值54,795.28万元，占当期公司资产总额的11.13%。如主要客户的财务状况恶化、出现经营危机或者信用条件发生重大变化，导致公司应收账款不能按期收回，公司资金周转速度与运营效率可能会降低，存在流动性风险或坏账风险。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "针对公司重大合同进展披露不及时和2022年年度报告、2023年半年度报告存在虚假记载事项，受到行政处罚和纪律处分，后续仍存在投资者诉讼索赔的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年11月，针对公司重大合同进展披露不及时和2022年年度报告、2023年半年度报告存在虚假记载事项，浙江证监局下发《行政处罚决定书》，对公司及时任董事长沈新芳、时任总经理沈晓宇、时任财务总监杨云、钟伟琴、时任董事会秘书翁鑫怡、副总经理、董事会秘书罗斌斌给予警告，共罚款1570万元；上海证券交易所对公司及上述责任人予以公开谴责，本次纪律处分将吸收前期对公司及上述责任人予以通报批评的决定。"
+    }
+  ]
+}

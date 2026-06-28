@@ -1,0 +1,483 @@
+{
+  "company_name_mentioned": "恒烁半导体（合肥）股份有限公司",
+  "produces": [
+    {
+      "name": "NOR Flash存储芯片",
+      "type": "device",
+      "revenue_proportion": "占年度主营业务收入86.55%（即存储芯片产品收入占比）",
+      "quote": "公司是一家主营业务为存储芯片和MCU芯片研发、设计及销售的集成电路设计企业。公司现有主营产品包括NORFlash存储芯片... 公司NORFlash产品在制程、电压、功耗、频率、工作温度及产品稳定性等方面均处于行业主流水平... 2025年度公司 存储芯片产品销售收入同比增加25.78%... 存储芯片 409,627,419.13"
+    },
+    {
+      "name": "通用MCU芯片",
+      "type": "device",
+      "revenue_proportion": "占年度主营业务收入13.72%（即微控制器及其他产品收入占比）",
+      "quote": "公司现有主营产品包括...基于Arm®Cortex®-M0+内核架构的通用32位MCU芯片... 公司目前销售的ZB32L002、ZB32L003、ZB32L030、ZB32L032系列共计30余款型号产品... 微控制器及其他 64,883,589.74"
+    },
+    {
+      "name": "大容量存储产品（SPINAND/SDNAND/PPINAND/eMMC/DRAM）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司现有主营产品包括...大容量存储产品业务... 2025年公司已量产主流24nm原厂晶圆搭载一颗SPI接口controller的产品（SPINAND）... DDR4产品凭借其高带宽、低功耗和稳定性能，成为主流内存解决方案。2025年公司积极布局易失性存储芯片DRAM内存产品... 公司DDR4产品在2025年上半年量产。"
+    },
+    {
+      "name": "AI业务（通用AISoC芯片、AI算法模型、AI模组）",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司现有主营产品包括...AI芯片业务（通用AISoC芯片、AI算法模型和AI模组板卡）。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "晶圆代工服务",
+      "target_product": "NOR Flash、MCU等芯片",
+      "cost_proportion": null,
+      "quote": "公司的经营模式为Fabless模式... 晶圆代工、晶圆测试和芯片封测等环节通过委外方式实现。公司晶圆代工厂主要为武汉新芯和中芯国际，并与之建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "晶圆测试服务",
+      "target_product": "晶圆片（KGD）",
+      "cost_proportion": null,
+      "quote": "晶圆测试和芯片封装测试的市场供应商相对较多... 晶圆片是指由晶圆代工厂生产完成并经晶圆测试（CP），但未经过芯片封装测试的产品。"
+    },
+    {
+      "name": "芯片封装测试服务",
+      "target_product": "封装片",
+      "cost_proportion": null,
+      "quote": "芯片封装测试的市场供应商相对较多... 封装片则是在完成晶圆测试后，还要进行芯片封装（Packaging）和最终测试（FT）形成的产品。"
+    },
+    {
+      "name": "NAND Flash晶圆",
+      "target_product": "大容量存储产品",
+      "cost_proportion": null,
+      "quote": "供应商三为新增供应商，公司向其采购NANDFlash晶圆产品。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业控制",
+      "source_product": "NOR Flash存储芯片",
+      "quote": "16Mbit、64Mbit及128Mbit等系列产品实现稳定量产并广泛应用于工业控制、消费电子及通信等领域。"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "NOR Flash存储芯片",
+      "quote": "16Mbit、64Mbit及128Mbit等系列产品实现稳定量产并广泛应用于工业控制、消费电子及通信等领域。"
+    },
+    {
+      "name": "通信（如5G基站）",
+      "source_product": "NOR Flash存储芯片",
+      "quote": "公司在高容量、高可靠性存储产品领域的技术能力进一步增强，为后续进入5G通信、汽车电子及高性能计算等高端应用市场奠定了基础。"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "NOR Flash存储芯片",
+      "quote": "公司在高容量、高可靠性存储产品领域的技术能力进一步增强，为后续进入5G通信、汽车电子及高性能计算等高端应用市场奠定了基础。"
+    },
+    {
+      "name": "电机控制（风筒、吸尘器、电动工具等）",
+      "source_product": "MCU芯片",
+      "quote": "与客户合作开发面向风筒、吸尘器及电动工具等电机控制应用的MCU产品，持续拓展产品应用场景。"
+    },
+    {
+      "name": "智能家居（空调、冰箱、洗衣机等）",
+      "source_product": "MCU芯片",
+      "quote": "兼容空调、冰箱、洗衣机等多品类家电需求，既实现一级能效与智能运行，又有效降低系统BOM成本。"
+    },
+    {
+      "name": "AIoT设备",
+      "source_product": "eMMC产品、AI算法/模组",
+      "quote": "产品涵盖4GB...256GB多种容量设计，能够为智能电视、IPC、手机终端、以及其他AIoT等不同终端客户... 提供不同容量的高性能、高可靠性的存储解决方案。"
+    },
+    {
+      "name": "智能玩具/照明灯控",
+      "source_product": "AI算法/模组",
+      "quote": "AI产品商业化方面，公司在照明灯控、玩具等行业持续扩大市场份额，成为头部客户供应商。"
+    },
+    {
+      "name": "家电（按摩椅、按摩仪等）",
+      "source_product": "AI算法/模组",
+      "quote": "并同步建设全天候PaaS语音平台，助力产品落地与服务能力提升。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "XIANGDONG LU",
+      "role": "董事长、总经理、核心技术人员",
+      "quote": "公司负责人XIANGDONGLU... 拥有近30年的半导体行业经验，在英飞凌、TI、美光、NEC、Spansion等国际知名半导体公司担任过研发、市场、管理等关键职位... 2021年4月至今担任恒烁股份董事长、总经理。"
+    },
+    {
+      "name": "吕轶南",
+      "role": "董事",
+      "quote": "吕轶南 董事 男 61 6,864,800... 2015年2月至2018年12月担任合肥恒烁董事长，2018年12月至2021年4月担任合肥恒烁董事，2021年4月至今担任恒烁股份董事。"
+    },
+    {
+      "name": "任军",
+      "role": "董事、副总经理、核心技术人员",
+      "quote": "任军 董事、副总经理、核心技术人员... 2015年2月至2021年4月担任合肥恒烁副总经理，2019年3月至2021年4月担任合肥恒烁董事；2021年4月至今担任恒烁股份董事、副总经理。"
+    },
+    {
+      "name": "周晓芳",
+      "role": "副总经理、董事会秘书",
+      "quote": "周晓芳 副总经理、董事会秘书 女 50... 2020年11月至2021年4月任合肥恒烁副总经理，2021年4月至今任恒烁股份副总经理、董事会秘书。"
+    },
+    {
+      "name": "唐文红",
+      "role": "财务总监",
+      "quote": "唐文红 财务总监 女 60... 2015年2月至2021年4月，担任合肥恒烁财务负责人... 2021年4月至今担任公司财务总监。"
+    },
+    {
+      "name": "赵新林",
+      "role": "副总经理",
+      "quote": "赵新林 副总经理 男 51... 2016年5月至2021年4月任合肥恒烁副总经理；2021年4月至今任恒烁股份副总经理。"
+    },
+    {
+      "name": "张峰",
+      "role": "核心技术人员",
+      "quote": "张峰 核心技术人员 男 47... 2019年3月至2021年4月任合肥恒烁应用技术总监；2021年4月至今任公司应用技术总监。"
+    },
+    {
+      "name": "周瑞",
+      "role": "核心技术人员",
+      "quote": "周瑞 核心技术人员 男 45... 2016年8月至2021年4月任合肥恒烁产品测试总监；2021年4月至今任公司产品测试总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "武汉新芯集成电路股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大晶圆代工供应商，为公司提供ETOX 50nm NOR Flash制程和55nm eFlash MCU制程代工服务。",
+      "quote": "公司晶圆代工厂主要为武汉新芯和中芯国际... 公司第一大晶圆代工供应商武汉新芯... 武汉新芯的ETOX 50nm NOR Flash制程和55nm eFlash MCU制程均为行业领先..."
+    },
+    {
+      "name": "中芯国际集成电路制造（北京）有限公司及受同一控制人控制的中芯国际集成电路制造（上海）有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大晶圆代工供应商。",
+      "quote": "公司晶圆代工厂主要为武汉新芯和中芯国际... 中芯国际作为领先的晶圆代工厂，提供了强大的存储芯片生产工艺支持。"
+    },
+    {
+      "name": "华邦电子股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "NOR Flash领域龙头企业。",
+      "quote": "华邦、旺宏、兆易创新、赛普拉斯、美光等NORFlash领域的龙头企业..."
+    },
+    {
+      "name": "旺宏电子股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "NOR Flash领域龙头企业。",
+      "quote": "华邦、旺宏、兆易创新、赛普拉斯、美光等NORFlash领域的龙头企业..."
+    },
+    {
+      "name": "美光科技有限公司",
+      "relation_type": "competitor",
+      "business_details": "NOR Flash领域龙头企业。",
+      "quote": "华邦、旺宏、兆易创新、赛普拉斯、美光等NORFlash领域的龙头企业..."
+    },
+    {
+      "name": "北京兆易创新科技股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "NOR Flash领域龙头企业。",
+      "quote": "华邦、旺宏、兆易创新、赛普拉斯、美光等NORFlash领域的龙头企业..."
+    },
+    {
+      "name": "香港恒烁半导体有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司的子公司，主要业务为芯片的销售与研发。",
+      "quote": "香港恒烁 半导体有限 公司 子公司 2,377.38 5,764.99 3,830.14 5,859.14 967.43 967.43"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "存储芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "409,627,419.13元",
+      "revenue_proportion": "86.55%",
+      "gross_margin": "16.83%",
+      "yoy_change": "增加0.99个百分点",
+      "quote": "存储芯片 409,627,419.13 340,688,590.79 16.83 25.78 24.30 增加0.99个百分点"
+    },
+    {
+      "name": "微控制器及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "64,883,589.74元",
+      "revenue_proportion": "13.72%",
+      "gross_margin": "18.76%",
+      "yoy_change": "增加24.71个百分点",
+      "quote": "微控制器 增加24.71 64,883,589.74 52,714,580.88 18.76 40.14 7.46 个百分点"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "400,426,570.81元",
+      "revenue_proportion": "84.48%",
+      "gross_margin": "15.65%",
+      "yoy_change": "增加3.11个百分点",
+      "quote": "境内 400,426,570.81 337,750,087.15 15.65 22.56 18.20 增加3.11个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "74,084,438.06元",
+      "revenue_proportion": "15.64%",
+      "gross_margin": "24.88%",
+      "yoy_change": "增加7.54个百分点",
+      "quote": "境外 74,084,438.06 55,653,084.52 24.88 63.72 48.79 增加7.54个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "116,682,752.26元",
+      "revenue_proportion": "24.62%",
+      "gross_margin": "21.15%",
+      "yoy_change": "增加14.08个百分点",
+      "quote": "直销 116,682,752.26 92,003,249.56 21.15 26.70 7.50 增加14.08个百分点"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "357,828,256.61元",
+      "revenue_proportion": "75.57%",
+      "gross_margin": "15.77%",
+      "yoy_change": "增加0.65个百分点",
+      "quote": "经销 357,828,256.61 301,399,922.12 15.77 27.86 26.87 增加0.65个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "存储芯片",
+      "metric_type": "production_volume",
+      "value": "170,471.12万颗",
+      "period": "2025年度",
+      "quote": "存储芯片 万颗 170,471.12 127,290.39 116,981.22 160.65 31.15 46.58"
+    },
+    {
+      "product": "存储芯片",
+      "metric_type": "sales_volume",
+      "value": "127,290.39万颗",
+      "period": "2025年度",
+      "quote": "存储芯片 万颗 170,471.12 127,290.39 116,981.22 160.65 31.15 46.58"
+    },
+    {
+      "product": "存储芯片",
+      "metric_type": "inventory_volume",
+      "value": "116,981.22万颗",
+      "period": "2025年末",
+      "quote": "存储芯片 万颗 170,471.12 127,290.39 116,981.22 160.65 31.15 46.58"
+    },
+    {
+      "product": "微控制器及其他",
+      "metric_type": "production_volume",
+      "value": "6,614.18万颗",
+      "period": "2025年度",
+      "quote": "微控制器 万颗 6,614.18 17,601.05 31,848.01 -81.26 14.37 -27.61"
+    },
+    {
+      "product": "微控制器及其他",
+      "metric_type": "sales_volume",
+      "value": "17,601.05万颗",
+      "period": "2025年度",
+      "quote": "微控制器 万颗 6,614.18 17,601.05 31,848.01 -81.26 14.37 -27.61"
+    },
+    {
+      "product": "微控制器及其他",
+      "metric_type": "inventory_volume",
+      "value": "31,848.01万颗",
+      "period": "2025年末",
+      "quote": "微控制器 万颗 6,614.18 17,601.05 31,848.01 -81.26 14.37 -27.61"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "闪存芯片升级研发及产业化项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "20,318.00万元（计划）",
+      "designed_capacity": null,
+      "progress": "已投入14,544.13万元，进度71.58%，预计2027年7月达到预定可使用状态",
+      "expected_completion_time": "2027年7月",
+      "quote": "项目名称：闪存芯片升级研发及产业化项目；拟投资总额：20,318.00万元；累计投入：14,544.13万元；投入进度：71.58%；预计达到可使用状态日期：2027年7月。"
+    },
+    {
+      "name": "MCU芯片升级研发及产业化项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "17,731.00万元（计划）",
+      "designed_capacity": null,
+      "progress": "已投入6,682.48万元，进度37.69%，预计2028年1月达到预定可使用状态",
+      "expected_completion_time": "2028年1月",
+      "quote": "项目名称：MCU芯片升级研发及产业化项目；拟投资总额：17,731.00万元；累计投入：6,682.48万元；投入进度：37.69%；预计达到可使用状态日期：2028年1月。"
+    },
+    {
+      "name": "面向端侧AI的低功耗软硬件推理系统研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "12,339.00万元（计划）",
+      "designed_capacity": null,
+      "progress": "已投入3,093.41万元，进度25.07%，预计2028年1月达到预定可使用状态",
+      "expected_completion_time": "2028年1月",
+      "quote": "项目名称：面向端侧AI的低功耗软硬件推理系统研发项目；拟投资总额：12,339.00万元；累计投入：3,093.41万元；投入进度：25.07%；预计达到可使用状态日期：2028年1月。"
+    },
+    {
+      "name": "发展与科技储备项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "25,000.00万元（计划）",
+      "designed_capacity": null,
+      "progress": "已投入10,609.53万元，进度42.44%",
+      "expected_completion_time": null,
+      "quote": "项目名称：发展与科技储备项目；拟投资总额：25,000.00万元；累计投入：10,609.53万元；投入进度：42.44%。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ETOX（FloatingGate）工艺NOR Flash技术",
+      "asset_type": "core_technology",
+      "related_product": "NOR Flash存储芯片",
+      "quantitative_info": null,
+      "quote": "公司的NORFlash产品采用了业界广泛认可的浮栅工艺（FloatingGate工艺，也称为ETOX工艺）。这种基于ETOX的NORFlash技术完全拥有国内自主知识产权，无需依赖外部技术授权。"
+    },
+    {
+      "name": "低功耗MCU设计技术",
+      "asset_type": "core_technology",
+      "related_product": "通用MCU芯片",
+      "quantitative_info": null,
+      "quote": "相关产品具备宽电压工作范围、低动态功耗、低待机电流及高性价比等特点... 系统动态功耗低于100μA/MHz，深度休眠功耗低于1μA。"
+    },
+    {
+      "name": "低功耗存算一体推理技术",
+      "asset_type": "core_technology",
+      "related_product": "AI芯片",
+      "quantitative_info": null,
+      "quote": "公司研发的低功耗存算一体推理技术能够高效地完成AI所需的核心计算——向量矩阵乘法。"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内新增11项，累计获得49项",
+      "quote": "报告期内，公司取得11项发明专利，新提交21项发明专利申请... 获得数（个） 发明专利... 49"
+    },
+    {
+      "name": "ISO9001:2015质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司目前已通过ISO9001:2015、QC080000:2017等体系认证。"
+    },
+    {
+      "name": "AEC-Q100车规级认证",
+      "asset_type": "certification",
+      "related_product": "部分NOR Flash产品",
+      "quantitative_info": null,
+      "quote": "部分NORFlash产品已通过AEC-Q100的标准认证，公司将致力于实现车规产品全容量系列的认证。"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "认定主体：恒烁半导体（合肥）股份有限公司；认定称号：国家级专精特新“小巨人”企业；认定年度：2022年度，2025年度。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.04%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额16,155.99万元，占年度销售总额34.04%..."
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "71.70%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额32,286.57万元，占年度采购总额71.70%..."
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "53.13%",
+      "related_entity": "供应商一（晶圆代工厂）",
+      "period": "2025年度",
+      "quote": "供应商一主要系晶圆代工厂... 序号 供应商名称 采购额 占年度采购总额比例（%） 1 供应商一 23,926.50 53.13"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "公司上市时未盈利且尚未实现盈利，存在持续亏损风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内公司实现归属于上市公司股东的净利润-9,949.39万元... 公司本年度亏损虽较上年收窄，但尚未扭转亏损。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "产品技术研发存在失败风险，导致前期研发投入难以收回。",
+      "related_entity": null,
+      "related_product": "NOR Flash、MCU芯片",
+      "quote": "NORFlash芯片和MCU芯片的研发具有技术含量高、研发周期长及资金投入大等特点... 公司面临新产品技术研发失败的风险，从而导致公司前期研发投入难以收回..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "面临来自华邦、旺宏、兆易创新、赛普拉斯、美光等行业龙头以及国内新进入企业的激烈竞争。",
+      "related_entity": "华邦、旺宏、兆易创新、赛普拉斯、美光等",
+      "related_product": "NOR Flash、MCU芯片",
+      "quote": "与前述厂商相比，公司整体规模偏小... 公司与行业龙头在产品布局上存在较大差距... 会使公司面临更加严峻的市场竞争，公司产品可能会被竞品替代..."
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "供应商集中度较高，主要晶圆代工供应商数量少且集中度高，存在供应不足或受限风险。",
+      "related_entity": "武汉新芯、中芯国际",
+      "related_product": null,
+      "quote": "报告期内向前五名供应商合计采购金额占比为71.70%，占比较高。由于集成电路领域的专业化分工和技术门槛高，如果公司不能与主要供应商保持良好的合作关系，短时间内难以更换至合适的新供应商..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "产业链上游原材料价格上涨或晶圆代工厂产能紧张导致成本攀升的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在Fabless经营模式下，产业链上游晶圆代工厂生产所需的硅晶片和其他关键原材料需要对外采购并依赖进口。未来，若受上游原材料价格上涨、晶圆代工厂产能紧张加剧等因素影响，导致公司原材料价格、委外加工费用攀升..."
+    },
+    {
+      "risk_type": "other",
+      "description": "综合毛利率处于较低水平的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年公司综合毛利率为17.12%，公司毛利率水平仍处于较低水平。产品毛利率受行业特性、市场需求、产能供给等多方面因素影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "期末存货规模较大，存在跌价风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期末公司存货账面价值为29,820.93万元... 报告期期末存货跌价准备余额为5,780.14万元... 若未来市场竞争加剧或技术更新升级等导致现有市场供需格局变动、产品价格向下波动，将导致公司存货跌价风险增加..."
+    },
+    {
+      "risk_type": "other",
+      "description": "半导体行业周期性波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司经营业绩受半导体行业景气度影响较大，存在周期性波动的风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "税收优惠政策变化的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如果未来公司所享受的税收优惠政策发生较大的变化，将对公司未来业绩造成不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "规模扩张导致的管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着募集资金项目的实施，公司的人员、资产、业务规模都将进一步扩张... 若公司不能及时提高管理能力... 则可能降低公司经营效率，使公司面临管理风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "募投项目实施风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "虽然公司对募集资金投资项目进行了市场和技术方面的可行性分析论证，但在实施过程中，若出现产业政策变动、行业技术迭代超过预期、产品研发或者市场化推广失败，则公司存在募集资金投资项目无法达到预计实施进度和效果的风险。"
+    }
+  ]
+}

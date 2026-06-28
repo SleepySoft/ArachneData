@@ -1,0 +1,599 @@
+{
+  "company_name_mentioned": "马鞍山钢铁股份有限公司",
+  "produces": [
+    {
+      "name": "钢材",
+      "type": "material",
+      "revenue_proportion": "钢铁业收入为人民币73,623百万元，占主营业务收入的95%",
+      "quote": "本公司主营业务为钢铁产品的生产和销售...本公司主要产品是钢材，由“特钢、轮轴、型钢、板材”四大产品系列构成。"
+    },
+    {
+      "name": "特钢系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "特钢系列：主要包括连铸圆坯、特钢棒材和工业线材。连铸圆坯主要用于车轮、车轴、风电、能源等行业，特钢棒材主要用于轨道交通用车轴、机械用轴承齿轮、汽车用齿轮轴承弹簧等。工业线材主要用于汽车机械用高碳钢、冷镦钢、弹簧钢、轴承钢、优碳钢等。"
+    },
+    {
+      "name": "轮轴系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "轮轴系列：主要包括火车轮、车轴、轮对及环件，广泛应用于铁路运输、城市轨交、港口机械、航空航天等诸多领域。"
+    },
+    {
+      "name": "型钢系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "型钢系列：主要包括型钢和线棒材。型钢主要用于建筑钢结构、机械制造及石油钻井平台、铁路建设等行业。线棒材主要用于基建和房地产建筑方面。"
+    },
+    {
+      "name": "板材系列产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "板材系列：主要包括热轧板卷、冷轧板卷、镀锌板及彩涂板、电工钢。热轧板卷广泛应用于建筑、汽车、桥梁、机械等行业及石油输送方面，冷轧板卷应用于高档轻工、家电类产品及中、高档汽车部件制作，镀锌板定位于汽车板、家电板、高档建筑板及包装、容器等行业，彩涂板可用于建筑内外部、家电及钢窗等，电工钢主要用于家电及新能源汽车等。"
+    },
+    {
+      "name": "钢材（分产品收入）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "板材：营业收入 36,184 百万元；长材：营业收入 29,449 百万元；轮轴：营业收入 2,772 百万元。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原燃料",
+      "target_product": "钢铁产品",
+      "cost_proportion": "成本构成项目中原燃料本期金额58,869百万元，占总成本比例80.19%",
+      "quote": "成本构成项目：原燃料 58,869 百万元，占总成本比例80.19%。"
+    },
+    {
+      "name": "铁矿石",
+      "target_product": "钢铁生产",
+      "cost_proportion": null,
+      "quote": "铁矿石供应情况：国内采购支出金额48.67亿元；国外进口支出金额179.51亿元；合计支出金额228.18亿元。"
+    },
+    {
+      "name": "废钢",
+      "target_product": "钢铁生产",
+      "cost_proportion": null,
+      "quote": "废钢供应情况：国内采购支出金额64.05亿元。"
+    },
+    {
+      "name": "能源和动力",
+      "target_product": "钢铁生产",
+      "cost_proportion": "成本构成项目中能源和动力本期金额4,880百万元，占总成本比例6.65%",
+      "quote": "成本构成项目：能源和动力 4,880 百万元，占总成本比例6.65%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    },
+    {
+      "name": "铁路",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    },
+    {
+      "name": "海洋",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    },
+    {
+      "name": "家电",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    },
+    {
+      "name": "造船",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    },
+    {
+      "name": "建筑",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    },
+    {
+      "name": "机械制造",
+      "source_product": "钢材",
+      "quote": "广泛应用于航空、铁路、海洋、汽车、家电、造船、建筑、机械制造等领域及国家重点工程。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "蒋育翔",
+      "role": "董事长",
+      "quote": "公司负责人蒋育翔...现任本公司董事长。"
+    },
+    {
+      "name": "唐琪明",
+      "role": "职工董事",
+      "quote": "唐琪明先生新任职工董事。"
+    },
+    {
+      "name": "陈国荣",
+      "role": "副总经理、财务负责人",
+      "quote": "主管会计工作负责人陈国荣...现任本公司副总经理、财务负责人。"
+    },
+    {
+      "name": "何红云",
+      "role": "董事会秘书",
+      "quote": "董事会秘书、联席公司秘书 何红云。"
+    },
+    {
+      "name": "伏明",
+      "role": "副总经理",
+      "quote": "伏明 副总经理。"
+    },
+    {
+      "name": "毛展宏",
+      "role": "副董事长（离任）",
+      "quote": "毛展宏 副董事长（离任）。"
+    },
+    {
+      "name": "张文洋",
+      "role": "董事、总经理（离任）",
+      "quote": "张文洋 董事（离任） 总经理（离任）。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国宝武钢铁集团有限公司",
+      "relation_type": "investor",
+      "business_details": "马钢集团的控股股东，通过宝钢股份参股马钢有限",
+      "quote": "中国宝武、宝武集团、宝武 指 中国宝武钢铁集团有限公司，马钢集团的控股股东。"
+    },
+    {
+      "name": "马钢（集团）控股有限公司",
+      "relation_type": "investor",
+      "business_details": "本公司的直接控股股东",
+      "quote": "马钢集团 指 马钢（集团）控股有限公司，本公司的直接控股股东。"
+    },
+    {
+      "name": "宝山钢铁股份有限公司",
+      "relation_type": "investor",
+      "business_details": "通过受让股权及增资获得马钢有限49%股权，成为战略投资者",
+      "quote": "宝钢股份 指 宝山钢铁股份有限公司，中国宝武控股子公司。"
+    },
+    {
+      "name": "宝钢香港投资有限公司",
+      "relation_type": "investor",
+      "business_details": "中国宝武全资拥有，持有本公司H股",
+      "quote": "宝港投 指 宝钢香港投资有限公司，中国宝武全资拥有。"
+    },
+    {
+      "name": "宝武集团财务有限责任公司",
+      "relation_type": "customer",
+      "business_details": "提供金融服务，本公司在该公司存款及获得信贷",
+      "quote": "宝武财务公司 指 宝武集团财务有限责任公司。"
+    },
+    {
+      "name": "德勤华永会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "为本公司出具审计报告",
+      "quote": "核数师、审计师、德勤华永 指 德勤华永会计师事务所（特殊普通合伙）。"
+    },
+    {
+      "name": "宝武集团及其下属子公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户销售额136.83亿元，占年度销售总额17.65%",
+      "quote": "1 宝武集团及其下属子公司 136.83 17.65"
+    },
+    {
+      "name": "宝武集团及其下属子公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商采购额177.31亿元，占年度采购总额21.23%",
+      "quote": "1 宝武集团及其下属子公司 177.31 21.23"
+    },
+    {
+      "name": "中国铁路工程集团有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户销售额15.77亿元，占年度销售总额2.03%",
+      "quote": "2 中国铁路工程集团有限公司 15.77 2.03"
+    },
+    {
+      "name": "中国资源循环集团及下属子公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商采购额39.39亿元，占年度采购总额4.72%",
+      "quote": "2 中国资源循环集团及下属子公司 39.39 4.72"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "钢铁业",
+      "segment_type": "business_unit",
+      "revenue_amount": "73,623 百万元",
+      "revenue_proportion": "95%",
+      "gross_margin": "4.35%",
+      "yoy_change": null,
+      "quote": "主营业务分行业情况：钢铁业 营业收入 73,623 百万元 毛利率 4.35%。"
+    },
+    {
+      "name": "板材",
+      "segment_type": "product_line",
+      "revenue_amount": "36,184 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "3.54%",
+      "yoy_change": "-9.01%",
+      "quote": "主营业务分产品情况：板材 营业收入 36,184 百万元 毛利率 3.54% 营业收入比上年增减 -9.01%。"
+    },
+    {
+      "name": "长材",
+      "segment_type": "product_line",
+      "revenue_amount": "29,449 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "2.31%",
+      "yoy_change": "-4.06%",
+      "quote": "主营业务分产品情况：长材 营业收入 29,449 百万元 毛利率 2.31% 营业收入比上年增减 -4.06%。"
+    },
+    {
+      "name": "轮轴",
+      "segment_type": "product_line",
+      "revenue_amount": "2,772 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "19.44%",
+      "yoy_change": "-1.88%",
+      "quote": "主营业务分产品情况：轮轴 营业收入 2,772 百万元 毛利率 19.44% 营业收入比上年增减 -1.88%。"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "49,505 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "4.50%",
+      "yoy_change": "-10.96%",
+      "quote": "主营业务分地区情况：华东 营业收入 49,505 百万元 毛利率 4.50% 营业收入比上年增减 -10.96%。"
+    },
+    {
+      "name": "国内其他地区",
+      "segment_type": "region",
+      "revenue_amount": "22,822 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "6.14%",
+      "yoy_change": "10.32%",
+      "quote": "主营业务分地区情况：国内其他地区 营业收入 22,822 百万元 毛利率 6.14% 营业收入比上年增减 10.32%。"
+    },
+    {
+      "name": "海外及香港地区",
+      "segment_type": "region",
+      "revenue_amount": "5,198 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "9.37%",
+      "yoy_change": "-6.04%",
+      "quote": "主营业务分地区情况：海外及香港地区 营业收入 5,198 百万元 毛利率 9.37% 营业收入比上年增减 -6.04%。"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "30,350 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "3.44%",
+      "yoy_change": "-15.97%",
+      "quote": "主营业务分销售模式情况：直销 营业收入 30,350 百万元 毛利率 3.44% 营业收入比上年增减 -15.97%。"
+    },
+    {
+      "name": "非直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "38,051 百万元",
+      "revenue_proportion": null,
+      "gross_margin": "3.93%",
+      "yoy_change": "2.37%",
+      "quote": "主营业务分销售模式情况：非直销 营业收入 38,051 百万元 毛利率 3.93% 营业收入比上年增减 2.37%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "生铁",
+      "metric_type": "capacity",
+      "value": "1,775 万吨",
+      "period": "报告期",
+      "quote": "报告期，公司产能及产能利用率如下：名称 装备产能（万吨） 生铁 1,775。"
+    },
+    {
+      "product": "生铁",
+      "metric_type": "production_volume",
+      "value": "1,901 万吨",
+      "period": "报告期",
+      "quote": "报告期，本集团生产生铁1,901万吨。"
+    },
+    {
+      "product": "生铁",
+      "metric_type": "capacity_utilization",
+      "value": "107.07%",
+      "period": "报告期",
+      "quote": "报告期，公司产能及产能利用率如下：名称 装备产能（万吨） 产能利用率（%） 生铁 1,775 107.07。"
+    },
+    {
+      "product": "粗钢",
+      "metric_type": "capacity",
+      "value": "2,114 万吨",
+      "period": "报告期",
+      "quote": "报告期，公司产能及产能利用率如下：名称 装备产能（万吨） 粗钢 2,114。"
+    },
+    {
+      "product": "粗钢",
+      "metric_type": "production_volume",
+      "value": "1,869 万吨",
+      "period": "报告期",
+      "quote": "报告期，本集团生产粗钢1,869万吨。"
+    },
+    {
+      "product": "粗钢",
+      "metric_type": "capacity_utilization",
+      "value": "88.42%",
+      "period": "报告期",
+      "quote": "报告期，公司产能及产能利用率如下：名称 装备产能（万吨） 产能利用率（%） 粗钢 2,114 88.42。"
+    },
+    {
+      "product": "钢材",
+      "metric_type": "capacity",
+      "value": "1,962 万吨",
+      "period": "报告期",
+      "quote": "报告期，公司产能及产能利用率如下：名称 装备产能（万吨） 钢材 1,962。"
+    },
+    {
+      "product": "钢材",
+      "metric_type": "production_volume",
+      "value": "2,044 万吨（成品坯材）",
+      "period": "报告期",
+      "quote": "报告期，本集团生产成品坯材2,044万吨。"
+    },
+    {
+      "product": "钢材",
+      "metric_type": "capacity_utilization",
+      "value": "99.17%",
+      "period": "报告期",
+      "quote": "报告期，公司产能及产能利用率如下：名称 装备产能（万吨） 产能利用率（%） 钢材 1,962 99.17。"
+    },
+    {
+      "product": "长材",
+      "metric_type": "production_volume",
+      "value": "942.5 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：长材 生产量 942.5 万吨。"
+    },
+    {
+      "product": "长材",
+      "metric_type": "sales_volume",
+      "value": "943.1 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：长材 销售量 943.1 万吨。"
+    },
+    {
+      "product": "长材",
+      "metric_type": "inventory_volume",
+      "value": "8.3 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：长材 库存量 8.3 万吨。"
+    },
+    {
+      "product": "板材",
+      "metric_type": "production_volume",
+      "value": "978.7 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：板材 生产量 978.7 万吨。"
+    },
+    {
+      "product": "板材",
+      "metric_type": "sales_volume",
+      "value": "985.8 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：板材 销售量 985.8 万吨。"
+    },
+    {
+      "product": "板材",
+      "metric_type": "inventory_volume",
+      "value": "3.3 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：板材 库存量 3.3 万吨。"
+    },
+    {
+      "product": "轮轴",
+      "metric_type": "production_volume",
+      "value": "24.7 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：轮轴 生产量 24.7 万吨。"
+    },
+    {
+      "product": "轮轴",
+      "metric_type": "sales_volume",
+      "value": "25.0 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：轮轴 销售量 25.0 万吨。"
+    },
+    {
+      "product": "轮轴",
+      "metric_type": "inventory_volume",
+      "value": "1.2 万吨",
+      "period": "报告期",
+      "quote": "产销量情况分析表：轮轴 库存量 1.2 万吨。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "冷轧6号镀锌线项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "预算总投资 895 百万元",
+      "designed_capacity": null,
+      "progress": "热负荷试车",
+      "expected_completion_time": null,
+      "quote": "马钢冷轧产品结构调整—新建6#镀锌线项目 预算总投资 895 百万元 工程进度 热负荷试车。"
+    },
+    {
+      "name": "新特钢项目二期",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "预算总投资 639 百万元",
+      "designed_capacity": null,
+      "progress": "土建阶段",
+      "expected_completion_time": null,
+      "quote": "新特钢项目二期 预算总投资 639 百万元 工程进度 土建阶段。"
+    },
+    {
+      "name": "煤焦化公司南区焦炉煤气有机硫脱除项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "预算总投资 125 百万元",
+      "designed_capacity": null,
+      "progress": "基本完工",
+      "expected_completion_time": null,
+      "quote": "煤焦化公司南区焦炉煤气有机硫脱除项目 预算总投资 125 百万元 工程进度 基本完工。"
+    },
+    {
+      "name": "棒材近终形铸轧一体化升级改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "预算总投资 106 百万元",
+      "designed_capacity": null,
+      "progress": "基本完工",
+      "expected_completion_time": null,
+      "quote": "棒材近终形铸轧一体化升级改造项目 预算总投资 106 百万元 工程进度 基本完工。"
+    },
+    {
+      "name": "智慧制造及经营管控信息化系统二期",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "预算总投资 103 百万元",
+      "designed_capacity": null,
+      "progress": "基本完工",
+      "expected_completion_time": null,
+      "quote": "智慧制造及经营管控信息化系统二期 预算总投资 103 百万元 工程进度 基本完工。"
+    },
+    {
+      "name": "1580加热炉烟气净化提标改造、南区焦炉煤气有机硫脱除等项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投用",
+      "expected_completion_time": null,
+      "quote": "1580加热炉烟气净化提标改造、南区焦炉煤气有机硫脱除等项目建成投用。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "技术创新重大成果",
+      "asset_type": "core_technology",
+      "related_product": "特钢、轮轴、型钢、板材等",
+      "quantitative_info": "11项（以“高铁车轮热处理柔性智能制造工艺与装备开发及应用”为代表的冶金科技奖7项，以“高强韧超厚大型热轧H型钢关键技术开发及应用”为代表的安徽省科技奖4项）",
+      "quote": "2025年取得技术创新重大成果11项（以“高铁车轮热处理柔性智能制造工艺与装备开发及应用”为代表的冶金科技奖7项，以“高强韧超厚大型热轧H型钢关键技术开发及应用”为代表的安徽省科技奖4项）。"
+    },
+    {
+      "name": "参与国家科技重大专项子课题",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "4项",
+      "quote": "参与国家科技重大专项子课题4项。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年公司申请专利407件，其中发明专利占比93.4%；截至报告期末，有效专利累计2,860件，其中发明专利1,933件。",
+      "quote": "全年公司申请专利407件，其中发明专利占比93.4%；截至报告期末，有效专利累计2,860件，其中发明专利1,933件。"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "研发投入强度超过4%；研发投入总额占营业收入比例4.65%",
+      "quote": "全年研发投入强度超过4%。研发投入总额占营业收入比例（%） 4.65。"
+    },
+    {
+      "name": "研发人员",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "公司研发人员的数量 2,314；研发人员数量占公司总人数的比例（%） 11.84",
+      "quote": "公司研发人员的数量 2,314；研发人员数量占公司总人数的比例（%） 11.84。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "196.82亿元",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额人民币196.82亿元，占年度销售总额24.64%。"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "24.64%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额人民币196.82亿元，占年度销售总额24.64%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "关联方销售额人民币136.83亿元，占年度销售总额17.65%",
+      "related_entity": "宝武集团及其下属子公司",
+      "period": "报告期",
+      "quote": "其中前五名客户销售额中关联方销售额人民币136.83亿元，占年度销售总额17.65%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "307.05亿元",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额人民币307.05亿元，占年度采购总额36.76%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "36.76%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额人民币307.05亿元，占年度采购总额36.76%。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "关联方采购额人民币177.31亿元，占年度采购总额21.23%",
+      "related_entity": "宝武集团及其下属子公司",
+      "period": "报告期",
+      "quote": "其中前五名供应商采购额中关联方采购额人民币177.31亿元，占年度采购总额21.23%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "安全生产风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司可能面对的主要风险包括安全生产风险、环境保护风险、两金和现金流管控风险，负债压降风险、参股企业资产损失风险等风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环境保护风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司可能面对的主要风险包括安全生产风险、环境保护风险、两金和现金流管控风险，负债压降风险、参股企业资产损失风险等风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "两金和现金流管控风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司可能面对的主要风险包括安全生产风险、环境保护风险、两金和现金流管控风险，负债压降风险、参股企业资产损失风险等风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "负债压降风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司可能面对的主要风险包括安全生产风险、环境保护风险、两金和现金流管控风险，负债压降风险、参股企业资产损失风险等风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "参股企业资产损失风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司可能面对的主要风险包括安全生产风险、环境保护风险、两金和现金流管控风险，负债压降风险、参股企业资产损失风险等风险。"
+    }
+  ]
+}

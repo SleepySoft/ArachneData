@@ -1,0 +1,650 @@
+{
+  "company_name_mentioned": "三一重工股份有限公司",
+  "produces": [
+    {
+      "name": "混凝土机械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "混凝土机械：包括混凝土泵车、混凝土拖泵、混凝土搅拌运输车和混凝土搅拌站等。"
+    },
+    {
+      "name": "挖掘机械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "挖掘机械：主要用于农田、水利、铁路、公路、建筑、房地产、采矿等行业。"
+    },
+    {
+      "name": "起重机械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "起重机械：主要包括汽车起重机及履带起重机。起重机械广泛应用于电力、钢铁、桥梁、造船、石化等行业。"
+    },
+    {
+      "name": "桩工机械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "桩工机械：主要产品为旋挖钻机，用于市政建设、公路桥梁、工业和民用建筑、地下连续墙、水利、防渗护坡等基础施工。"
+    },
+    {
+      "name": "路面机械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "路面机械：包括压路机、摊铺机、平地机、沥青搅拌设备等，主要用于公路、城市道路的路面和飞机场道面等的施工。"
+    },
+    {
+      "name": "新能源产品（电动搅拌车、电动自卸车等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新能源产品方面，电动搅拌车、电动自卸车等产品迎来爆发式增长，全年新能源产品销售额达86.4亿元，同比增长115%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "汽车底盘",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    },
+    {
+      "name": "发动机",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    },
+    {
+      "name": "钢材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    },
+    {
+      "name": "液压泵",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    },
+    {
+      "name": "主油泵",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    },
+    {
+      "name": "分动箱",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    },
+    {
+      "name": "各种液压阀",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    },
+    {
+      "name": "回转轴承",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料及零部件为汽车底盘、发动机、钢材、液压泵、主油泵、分动箱、各种液压阀、回转轴承等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "基础设施建设及房地产行业",
+      "source_product": "混凝土机械",
+      "quote": "混凝土机械主要用于铁路、公路、地铁、水电站、冶金建筑工程等基础设施建设及房地产行业。"
+    },
+    {
+      "name": "农田、水利、铁路、公路、建筑、房地产、采矿等行业",
+      "source_product": "挖掘机械",
+      "quote": "挖掘机械：主要用于农田、水利、铁路、公路、建筑、房地产、采矿等行业。"
+    },
+    {
+      "name": "电力、钢铁、桥梁、造船、石化等行业；市政工程等散货业务",
+      "source_product": "起重机械",
+      "quote": "起重机械广泛应用于电力、钢铁、桥梁、造船、石化等行业。其中，小型汽车起重机多用于市政工程等散货业务，大型汽车起重机及履带起重机用于电力、钢铁、造船、石化等行业。"
+    },
+    {
+      "name": "市政建设、公路桥梁、工业和民用建筑、地下连续墙、水利、防渗护坡等基础施工",
+      "source_product": "桩工机械",
+      "quote": "桩工机械：主要产品为旋挖钻机，用于市政建设、公路桥梁、工业和民用建筑、地下连续墙、水利、防渗护坡等基础施工。"
+    },
+    {
+      "name": "公路、城市道路的路面和飞机场道面等的施工",
+      "source_product": "路面机械",
+      "quote": "路面机械：包括压路机、摊铺机、平地机、沥青搅拌设备等，主要用于公路、城市道路的路面和飞机场道面等的施工。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "向文波",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人向文波、主管会计工作负责人刘华及会计机构负责人（会计主管人员）蔡盛林声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "刘华",
+      "role": "主管会计工作负责人、高级副总裁、财务总监",
+      "quote": "公司负责人向文波、主管会计工作负责人刘华及会计机构负责人（会计主管人员）蔡盛林声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "蔡盛林",
+      "role": "会计机构负责人（会计主管人员）、董事会秘书（已离任）",
+      "quote": "公司负责人向文波、主管会计工作负责人刘华及会计机构负责人（会计主管人员）蔡盛林声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "俞宏福",
+      "role": "董事、副董事长、总裁",
+      "quote": "俞宏福，男，正高级工程师，1962年出生，现任本公司副董事长、总裁。"
+    },
+    {
+      "name": "梁稳根",
+      "role": "董事、实际控制人",
+      "quote": "梁稳根，男，1956年出生，湖南涟源人，现任本公司董事，三一集团董事。"
+    },
+    {
+      "name": "梁在中",
+      "role": "董事",
+      "quote": "梁在中，男，1984年出生...现任公司董事..."
+    },
+    {
+      "name": "易小刚",
+      "role": "执行总裁、技术专家",
+      "quote": "易小刚，男，湖南武冈人，1963年出生...现任公司执行总裁，三一集团董事。"
+    },
+    {
+      "name": "黄建龙",
+      "role": "高级副总裁",
+      "quote": "黄建龙，男，1963年出生...现任本公司高级副总裁，三一集团董事。"
+    },
+    {
+      "name": "秦致妤",
+      "role": "董事会秘书",
+      "quote": "董事会秘书姓名 秦致妤"
+    },
+    {
+      "name": "刘道君",
+      "role": "职工代表董事",
+      "quote": "职工代表董事刘道君"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "三一集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "三一集团 指 三一集团有限公司"
+    },
+    {
+      "name": "三一重机有限公司（昆山重机）",
+      "relation_type": "subsidiary",
+      "business_details": "挖掘机械的研发、生产、销售",
+      "quote": "昆山重机 指 三一重机有限公司"
+    },
+    {
+      "name": "三一汽车起重机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "起重机械的研发、生产、销售",
+      "quote": "三一汽车起重机 指 三一汽车起重机械有限公司"
+    },
+    {
+      "name": "三一汽车制造有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车及其零部件的研发、生产、销售等",
+      "quote": "三一汽车制造 指 三一汽车制造有限公司"
+    },
+    {
+      "name": "三一专用汽车有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "汽车、汽车底盘、农用车、汽车及农用车零配件制造与销售",
+      "quote": "三一专汽 指 三一专用汽车有限责任公司"
+    },
+    {
+      "name": "娄底市中兴液压件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "液压缸、输送缸、液压泵、液压控制阀、电镀产品及其配套产品的生产和销售",
+      "quote": "娄底中兴液压件 指 娄底市中兴液压件有限公司"
+    },
+    {
+      "name": "三一国际发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "机械设备销售、投资",
+      "quote": "三一国际发展 指 三一国际发展有限公司"
+    },
+    {
+      "name": "三一汽车金融有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "按揭贷款、融资租赁、金融机构同业拆借",
+      "quote": "三一汽金 指 三一汽车金融有限公司"
+    },
+    {
+      "name": "三一融资租赁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "融资租赁业务",
+      "quote": "三一融资租赁 指 三一融资租赁有限公司"
+    },
+    {
+      "name": "北京三一智造科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "桩工机械的研发、生产、销售",
+      "quote": "三一智造 指 北京三一智造科技有限公司"
+    },
+    {
+      "name": "三一重装国际控股有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方销售商品、材料、提供服务及劳务",
+      "quote": "三一重装国际控股有限公司及其子公司"
+    },
+    {
+      "name": "长沙帝联工控科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购材料、商品",
+      "quote": "长沙帝联工控科技有限公司"
+    },
+    {
+      "name": "湖南道依茨动力有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购材料、商品",
+      "quote": "湖南道依茨动力有限公司"
+    },
+    {
+      "name": "湖南三一车身有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购材料、商品",
+      "quote": "湖南三一车身有限公司"
+    },
+    {
+      "name": "三一筑工科技股份有限公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购材料、商品",
+      "quote": "三一筑工科技股份有限公司及其子公司"
+    },
+    {
+      "name": "广州市易工品科技有限公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购材料、商品",
+      "quote": "广州市易工品科技有限公司及其子公司"
+    },
+    {
+      "name": "杭州力龙液压有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购材料、商品",
+      "quote": "杭州力龙液压有限公司"
+    },
+    {
+      "name": "湖南汽车制造有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购材料、商品，接受服务及劳务",
+      "quote": "湖南汽车制造有限责任公司"
+    },
+    {
+      "name": "树根互联股份有限公司及其子公司",
+      "relation_type": "supplier",
+      "business_details": "关联方平台使用费",
+      "quote": "树根互联股份有限公司及其子公司"
+    },
+    {
+      "name": "中富（亚洲）机械有限公司及其子公司",
+      "relation_type": "customer",
+      "business_details": "关联方销售商品、材料",
+      "quote": "中富（亚洲）机械有限公司及其子公司"
+    },
+    {
+      "name": "PT SANY MAKMUR PERKASA",
+      "relation_type": "customer",
+      "business_details": "关联方销售商品、材料",
+      "quote": "PT SANY MAKMUR PERKASA"
+    },
+    {
+      "name": "三一重能股份有限公司及其子公司",
+      "relation_type": "customer",
+      "business_details": "关联方销售商品、材料、提供服务及劳务、设备租赁",
+      "quote": "三一重能股份有限公司及其子公司"
+    },
+    {
+      "name": "安永华明会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "境内审计机构",
+      "quote": "安永华明会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "安永会计师事务所",
+      "relation_type": "customer",
+      "business_details": "境外审计机构",
+      "quote": "公司聘请的会计师事务所（境外）名称 安永会计师事务所"
+    },
+    {
+      "name": "湖南三湘银行股份有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方存款",
+      "quote": "本公司拟在关联方湖南三湘银行股份有限公司开展存贷款及设备融资业务"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "混凝土机械",
+      "segment_type": "product_line",
+      "revenue_amount": "15,737,918千元",
+      "revenue_proportion": null,
+      "gross_margin": "20.15%",
+      "yoy_change": "营业收入比上年增减（%） 9.53",
+      "quote": "分产品 营业收入 营业成本 毛利率（%） 营业收入比上年增减（%） 营业成本比上年增减（%） 毛利率比上年增减（%）混凝土机械 15,737,918 12,566,112 20.15 9.53 10.03 减少0.36个百分点"
+    },
+    {
+      "name": "挖掘机械",
+      "segment_type": "product_line",
+      "revenue_amount": "34,543,625千元",
+      "revenue_proportion": null,
+      "gross_margin": "34.24%",
+      "yoy_change": "营业收入比上年增减（%） 13.73",
+      "quote": "挖掘机械 34,543,625 22,714,862 34.24 13.73 9.69 增加2.42个百分点"
+    },
+    {
+      "name": "起重机械",
+      "segment_type": "product_line",
+      "revenue_amount": "15,562,967千元",
+      "revenue_proportion": null,
+      "gross_margin": "28.96%",
+      "yoy_change": "营业收入比上年增减（%） 18.67",
+      "quote": "起重机械 15,562,967 11,055,547 28.96 18.67 15.83 增加1.73个百分点"
+    },
+    {
+      "name": "桩工机械",
+      "segment_type": "product_line",
+      "revenue_amount": "2,819,528千元",
+      "revenue_proportion": null,
+      "gross_margin": "32.88%",
+      "yoy_change": "营业收入比上年增减（%） 35.81",
+      "quote": "桩工机械 2,819,528 1,892,342 32.88 35.81 35.54 增加0.13个百分点"
+    },
+    {
+      "name": "路面机械",
+      "segment_type": "product_line",
+      "revenue_amount": "3,756,829千元",
+      "revenue_proportion": null,
+      "gross_margin": "28.67%",
+      "yoy_change": "营业收入比上年增减（%） 25.18",
+      "quote": "路面机械 3,756,829 2,679,589 28.67 25.18 23.15 增加1.17个百分点"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "14,849,118千元",
+      "revenue_proportion": null,
+      "gross_margin": "17.91%",
+      "yoy_change": "营业收入比上年增减（%） 15.13",
+      "quote": "其他 14,849,118 12,189,207 17.91 15.13 17.24 减少1.48个百分点"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "31,413,934千元",
+      "revenue_proportion": null,
+      "gross_margin": "20.69%",
+      "yoy_change": "营业收入比上年增减（%） 14.99",
+      "quote": "国内 31,413,934 24,915,782 20.69 14.99 15.63 减少0.43个百分点"
+    },
+    {
+      "name": "国际",
+      "segment_type": "region",
+      "revenue_amount": "55,856,051千元",
+      "revenue_proportion": "64%",
+      "gross_margin": "31.64%",
+      "yoy_change": "营业收入比上年增减（%） 15.14",
+      "quote": "国际 55,856,051 38,181,877 31.64 15.14 11.99 增加1.92个百分点；报告期内，公司实现国际主营业务收入558.6亿元，同比增长15.1%；国际主营业务收入占比64%。"
+    },
+    {
+      "name": "亚澳区域",
+      "segment_type": "region",
+      "revenue_amount": "238.9亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "增长16.17%",
+      "quote": "亚澳区域238.9亿元，增长16.17%；"
+    },
+    {
+      "name": "欧洲区域",
+      "segment_type": "region",
+      "revenue_amount": "125亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "增长1.5%",
+      "quote": "欧洲区域125亿元，增长1.5%；"
+    },
+    {
+      "name": "美洲区域",
+      "segment_type": "region",
+      "revenue_amount": "111.6亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "增长8.52%",
+      "quote": "美洲区域111.6亿元，增长8.52%；"
+    },
+    {
+      "name": "非洲区域",
+      "segment_type": "region",
+      "revenue_amount": "83.1亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "增长55.29%",
+      "quote": "非洲区域83.1亿元，增长55.29%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工程机械行业",
+      "metric_type": "production_volume",
+      "value": "117,554台",
+      "period": "2025年",
+      "quote": "生产量比 销售量比 库存量比主要产品 单位 生产量 销售量 库存量 上年增减（%） 上年增减（%） 上年增减（%）工程机械行业 台 117,554 114,115 26,439 17.75% 16.82% 14.95%"
+    },
+    {
+      "product": "工程机械行业",
+      "metric_type": "sales_volume",
+      "value": "114,115台",
+      "period": "2025年",
+      "quote": "主要产品 单位 生产量 销售量 库存量 上年增减（%） 上年增减（%） 上年增减（%）工程机械行业 台 117,554 114,115 26,439 17.75% 16.82% 14.95%"
+    },
+    {
+      "product": "工程机械行业",
+      "metric_type": "inventory_volume",
+      "value": "26,439台",
+      "period": "2025年末",
+      "quote": "主要产品 单位 生产量 销售量 库存量 上年增减（%） 上年增减（%） 上年增减（%）工程机械行业 台 117,554 114,115 26,439 17.75% 16.82% 14.95%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "灯塔工厂",
+      "project_type": "capacity_expansion",
+      "location": "全球",
+      "investment_amount": null,
+      "designed_capacity": "37座",
+      "progress": "建成达产",
+      "expected_completion_time": null,
+      "quote": "截至报告期末，公司已有37座灯塔工厂建成达产。公司是唯一一家获得世界经济论坛“灯塔工厂”认证的重工行业企业..."
+    },
+    {
+      "name": "全球生产制造基地",
+      "project_type": "capacity_expansion",
+      "location": "全球",
+      "investment_amount": null,
+      "designed_capacity": "37个",
+      "progress": "布局完成",
+      "expected_completion_time": null,
+      "quote": "截至报告期末，公司在全球落成37个生产制造基地，并深度布局海外供应链..."
+    },
+    {
+      "name": "全球研发中心",
+      "project_type": "r_and_d_project",
+      "location": "全球",
+      "investment_amount": null,
+      "designed_capacity": "21个",
+      "progress": "建设完成",
+      "expected_completion_time": null,
+      "quote": "公司依托遍布全球的21个研发中心..."
+    },
+    {
+      "name": "全球营销与服务网点",
+      "project_type": "other",
+      "location": "全球100多个国家和地区",
+      "investment_amount": null,
+      "designed_capacity": "1900个",
+      "progress": "布局完成",
+      "expected_completion_time": null,
+      "quote": "截至报告期末，公司已在全球100多个国家和地区深度合作了400余家优质海外经销商，布局了1900个营销与服务网点..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利申请",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年专利申请619件，其中发明专利325件。",
+      "quote": "专利发明：2025年专利申请619件，其中发明专利325件。"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2个",
+      "quote": "拥有2个国家级企业技术中心..."
+    },
+    {
+      "name": "国家级企业技术分中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "1个",
+      "quote": "...1个国家级企业技术分中心..."
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "3个",
+      "quote": "...3个国家级博士后科研工作站..."
+    },
+    {
+      "name": "院士专家工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "3个",
+      "quote": "...3个院士专家工作站..."
+    },
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "4个",
+      "quote": "...4个省级企业技术中心..."
+    },
+    {
+      "name": "国家认可试验检测中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "1个",
+      "quote": "...1个国家认可试验检测中心..."
+    },
+    {
+      "name": "省级重点实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2个",
+      "quote": "...2个省级重点实验室..."
+    },
+    {
+      "name": "省级工程技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "4个",
+      "quote": "...4个省级工程技术中心..."
+    },
+    {
+      "name": "机械行业工程技术研究中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "1个",
+      "quote": "...1个机械行业工程技术研究中心..."
+    },
+    {
+      "name": "省级工业设计中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "1个",
+      "quote": "...1个省级工业设计中心..."
+    },
+    {
+      "name": "灯塔工厂",
+      "asset_type": "certification",
+      "related_product": "智能制造",
+      "quantitative_info": "37座，其中2座获得世界经济论坛“灯塔工厂”认证",
+      "quote": "公司是唯一一家获得世界经济论坛“灯塔工厂”认证的重工行业企业，三一重工“北京桩机工厂”和“长沙18号工厂”2座工厂获得“灯塔工厂”认证..."
+    },
+    {
+      "name": "SAC2500E7PHEV全地面起重机技术",
+      "asset_type": "core_technology",
+      "related_product": "起重机械",
+      "quantitative_info": null,
+      "quote": "SAC2500E7PHEV全地面起重机：全球最大吨位混动全地面起重机，成功突破核心软件自研与自主匹配标定技术壁垒，攻克轴荷限制与可靠性等行业难题，树立全球混动起重机技术标杆。"
+    },
+    {
+      "name": "iSee3电子电气架构",
+      "asset_type": "core_technology",
+      "related_product": "混凝土机械（电动搅拌车）",
+      "quantitative_info": null,
+      "quote": "电动412搅拌车：新一代电动搅拌车以iSee3电子电气架构、自主软件控制系统及329电动驾驶室为核心..."
+    },
+    {
+      "name": "双动力液压交叉控制系统",
+      "asset_type": "core_technology",
+      "related_product": "挖掘机械（矿用挖掘机）",
+      "quantitative_info": null,
+      "quote": "SY4000H矿用挖掘机：...双动力液压交叉控制系统实机验证性能优异..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "429,403.63万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售收入额429,403.63万元，占年度销售收入总额4.79%；其中前五名客户销售额中关联方销售收入额97,066万元，占年度销售收入总额1.08%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "981,021万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额981,021万元，占年度采购总额12.2%；其中前五名供应商采购额中关联方采购额515,624万元，占年度采购总额9.56%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "工程机械行业与基础设施建设和建筑业投资等密切相关，宏观政策和固定资产投资增速的变化，将对公司下游客户需求造成影响，进而影响公司产品销售。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、政策风险：工程机械行业与基础设施建设和建筑业投资等密切相关，宏观政策和固定资产投资增速的变化，将对公司下游客户需求造成影响，进而影响公司产品销售。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "若未来全球经济增速放缓，或国内基建、房地产等下游投资需求不及预期，将导致行业整体景气度承压。同时，国内市场存量竞争加剧，叠加复杂的地缘政治与国际贸易环境变化，可能使公司面临产品毛利率下降及海外市场拓展受阻的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场风险：工程机械行业受宏观经济及固定资产投资周期影响显著。若未来全球经济增速放缓，或国内基建、房地产等下游投资需求不及预期，将导致行业整体景气度承压。同时，国内市场存量竞争加剧，叠加复杂的地缘政治与国际贸易环境变化，可能使公司面临产品毛利率下降及海外市场拓展受阻的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司存在一定数量的美元、欧元、日元等外币业务，如果相关币种汇率波动，将对公司财务状况产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、汇率风险：公司存在一定数量的美元、欧元、日元等外币业务，如果相关币种汇率波动，将对公司财务状况产生一定影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司原材料及零部件的成本可能受到多种因素的影响，如市场供求、供应商变动、替代材料的可获得性、供应商生产状况的变动及自然灾害等。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、原材料价格波动的风险：公司原材料及零部件的成本可能受到多种因素的影响，如市场供求、供应商变动、替代材料的可获得性、供应商生产状况的变动及自然灾害等。"
+    }
+  ]
+}

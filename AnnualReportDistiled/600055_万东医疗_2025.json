@@ -1,0 +1,509 @@
+{
+  "company_name_mentioned": "北京万东医疗科技股份有限公司",
+  "produces": [
+    {
+      "name": "数字化X射线摄影系统（DR）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "数字化X 射线（DR）产品线：推出全球首创的单次曝光全脊柱/全下肢成像的全幅 DR"
+    },
+    {
+      "name": "磁共振成像系统（MRI）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "磁共振（MRI）产品线：双子星AI 3.0T MRI：正式上市并获NMPA 认证"
+    },
+    {
+      "name": "计算机断层扫描成像系统（CT）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "计算机断层扫描（CT）产品线：全新升级，推出新一代智慧 CT 矩阵——TurboTom 5 PRO 与 TurboTom 1S 系列"
+    },
+    {
+      "name": "血管介入治疗系统（DSA）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "数字减影血管造影（DSA）产品线：CGO-5200/5100 系列搭载全球首创的稀土IGZO 探测器"
+    },
+    {
+      "name": "医学影像 AI 与数字医疗平台（如妙笔AI）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "医学影像 AI 与数字医疗平台：规模化应用，深度赋能基层医疗。公司致力于将人工智能与云计算技术深度融入医疗服务全链条"
+    },
+    {
+      "name": "万里云智慧影像平台",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司通过“万里云”平台，构建了连接设备、医院与患者的数字医疗中枢。"
+    },
+    {
+      "name": "医疗设备维修服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "与主营业务无关的业务收入小计 131,926,046.32...具体扣除情况 出租房产、保修及材料销售"
+    }
+  ],
+  "procures": [
+    {
+      "name": "核心部件（如CT球管、探测器、MRI超导磁体等）",
+      "target_product": "医学影像设备",
+      "cost_proportion": null,
+      "quote": "高端部分核心部件和技术仍受制于少数供应商，全球地缘政治波动和贸易保护主义抬头，对供应链安全构成威胁。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "医疗机构临床诊断",
+      "source_product": "DR、CT、MRI、DSA等医学影像设备及AI平台",
+      "quote": "在高端产品突破、AI 平台赋能、全球市场拓展及可持续发展等方面取得了一系列重要进展...为精准医疗提供了强大的智能引擎。"
+    },
+    {
+      "name": "基层医疗与分级诊疗",
+      "source_product": "DR、CT等设备及AI辅助诊断系统",
+      "quote": "“一站式介入整体解决方案”已覆盖22 省120 余个县域，累计完成手术超10 万台，通过“设备+技术+服务”的模式，切实提升了基层医院的介入诊疗能力"
+    },
+    {
+      "name": "动物医疗",
+      "source_product": "动物专用CT、AI核磁等产品",
+      "quote": "推出开创性的负重位扫描 CBCT 600 及动物专用“液金”CT、AI 核磁等产品，构建了从人类到动物、从常规诊断到特殊科研应用的更全面影像解决方案"
+    },
+    {
+      "name": "介入手术与精准治疗",
+      "source_product": "DSA系统",
+      "quote": "通过战略合作将血管内超声下 AI 斑块分析技术与DSA 深度融合，为心血管精准诊疗提供创新工具。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "宋金松",
+      "role": "董事、总裁",
+      "quote": "公司负责人宋金松...现任本公司董事、总裁。"
+    },
+    {
+      "name": "王建国",
+      "role": "董事长",
+      "quote": "王建国...现任美的集团执行董事、执行总裁、新能源事业部总裁、广东美的制冷设备有限公司董事长，本公司董事长。"
+    },
+    {
+      "name": "迟爽",
+      "role": "职工董事、CTO首席技术官、研究院院长、CT产品部总经理",
+      "quote": "迟爽...现任公司CTO首席技术官、兼任研究院院长和CT产品部总经理。"
+    },
+    {
+      "name": "钟铮",
+      "role": "董事",
+      "quote": "钟铮...现任美的集团副总裁、首席财务官兼财务总监，本公司董事。"
+    },
+    {
+      "name": "刘啸",
+      "role": "董事",
+      "quote": "刘啸...现任美的集团战略发展总监、本公司董事。"
+    },
+    {
+      "name": "赵俊",
+      "role": "独立董事",
+      "quote": "赵俊...上海交通大学生物医学工程学院长聘教授"
+    },
+    {
+      "name": "吴钟凯",
+      "role": "独立董事",
+      "quote": "吴钟凯...中山大学附属第一医院心脏外科教授、主任医师、研究员、博士生导师"
+    },
+    {
+      "name": "孙岩",
+      "role": "独立董事",
+      "quote": "孙岩...东南大学教授"
+    },
+    {
+      "name": "井晓权",
+      "role": "副总裁、财务负责人",
+      "quote": "井晓权...现任本公司副总裁、财务负责人。"
+    },
+    {
+      "name": "黄家祥",
+      "role": "副总裁、万里云医疗信息科技（北京）有限公司总经理",
+      "quote": "黄家祥...现任本公司副总裁、万里云医疗信息科技（北京）有限公司总经理。"
+    },
+    {
+      "name": "欧云彬",
+      "role": "董事会秘书",
+      "quote": "欧云彬...现任本公司董事会秘书、投资者关系负责人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "美的集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "本公司的母公司为美的集团股份有限公司"
+    },
+    {
+      "name": "何享健",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "本公司的实际控制人为何享健。"
+    },
+    {
+      "name": "杭州万东电子有限公司及下属公司",
+      "relation_type": "supplier",
+      "business_details": "购买原材料",
+      "quote": "杭州万东电子有限公司及下属公司...关联交易内容 购买材料"
+    },
+    {
+      "name": "美的集团及下属公司",
+      "relation_type": "supplier",
+      "business_details": "购买材料产品及接受服务",
+      "quote": "美的集团及下属公司...购买材料产品及接受服务"
+    },
+    {
+      "name": "百胜医疗集团及下属公司",
+      "relation_type": "customer",
+      "business_details": "销售设备",
+      "quote": "百胜医疗集团及下属公司...销售设备"
+    },
+    {
+      "name": "广东和惠医疗科技有限公司",
+      "relation_type": "customer",
+      "business_details": "销售商品",
+      "quote": "广东和惠医疗科技有限公司...销售商品"
+    },
+    {
+      "name": "巴西VMI集团",
+      "relation_type": "joint_venture",
+      "business_details": "签署战略合作备忘录，稳步推进MRI、CT 等产品的本土化生产与供应链建设",
+      "quote": "与巴西VMI 集团签署合作备忘录...稳步推进MRI、CT 等产品的本土化生产与供应链建设。"
+    },
+    {
+      "name": "北京协和医院",
+      "relation_type": "customer",
+      "business_details": "共建联合实验室，共同承担“十四五”国家重点研发计划",
+      "quote": "与北京协和医院...共同承担“十四五”国家重点研发计划，攻关心血管磁共振成像技术。"
+    },
+    {
+      "name": "清华大学",
+      "relation_type": "competitor",
+      "business_details": "达成战略合作，共建创新实践基地",
+      "quote": "与清华大学...等顶尖科研机构达成战略合作"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医疗器械销售业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,150,604,587.71元",
+      "revenue_proportion": null,
+      "gross_margin": "25.99%",
+      "yoy_change": "营业收入比上年增减（%） -14.40",
+      "quote": "分产品 营业收入 营业成本 毛利率（%） 医疗器械销售业务 1,150,604,587.71 851,516,117.74 25.99"
+    },
+    {
+      "name": "劳务及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "64,462,437.16元",
+      "revenue_proportion": null,
+      "gross_margin": "37.30%",
+      "yoy_change": "营业收入比上年增减（%） -23.20",
+      "quote": "劳务及服务 64,462,437.16 40,415,575.43 37.30"
+    },
+    {
+      "name": "中国大陆以外区域",
+      "segment_type": "region",
+      "revenue_amount": "359,723,540.21元",
+      "revenue_proportion": null,
+      "gross_margin": "34.97%",
+      "yoy_change": "营业收入比上年增减（%） 54.38",
+      "quote": "中国大陆以外区域 359,723,540.21 233,934,536.60 34.97 54.38"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "167,663,718.84元",
+      "revenue_proportion": null,
+      "gross_margin": "29.67%",
+      "yoy_change": "营业收入比上年增减（%） 87.52",
+      "quote": "东北地区 167,663,718.84 117,925,045.05 29.67 87.52"
+    },
+    {
+      "name": "中南地区",
+      "segment_type": "region",
+      "revenue_amount": "203,724,781.89元",
+      "revenue_proportion": null,
+      "gross_margin": "8.96%",
+      "yoy_change": "营业收入比上年增减（%） -41.66",
+      "quote": "中南地区 203,724,781.89 185,472,198.86 8.96 -41.66"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,018,395,302.41元",
+      "revenue_proportion": null,
+      "gross_margin": "26.20%",
+      "yoy_change": "营业收入比上年增减（%） 6.79",
+      "quote": "分销 1,018,395,302.41 751,549,213.38 26.20 6.79"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "CT设备",
+      "metric_type": "capacity",
+      "value": "日均产能已达4台",
+      "period": "报告期",
+      "quote": "依托强大的供应链体系与智能制造能力，CT 设备日均产能已达4台"
+    },
+    {
+      "product": "DR",
+      "metric_type": "production_volume",
+      "value": "2,338套",
+      "period": "2025年度",
+      "quote": "主要产品 单位 生产量...DR 套 2,338"
+    },
+    {
+      "product": "核磁",
+      "metric_type": "production_volume",
+      "value": "179套",
+      "period": "2025年度",
+      "quote": "核磁 套 179"
+    },
+    {
+      "product": "DSA",
+      "metric_type": "production_volume",
+      "value": "42套",
+      "period": "2025年度",
+      "quote": "DSA 套 42"
+    },
+    {
+      "product": "CT",
+      "metric_type": "production_volume",
+      "value": "482套",
+      "period": "2025年度",
+      "quote": "CT 套 482"
+    },
+    {
+      "product": "DR",
+      "metric_type": "sales_volume",
+      "value": "1,617套",
+      "period": "2025年度",
+      "quote": "DR 套...销售量 1,617"
+    },
+    {
+      "product": "核磁",
+      "metric_type": "sales_volume",
+      "value": "116套",
+      "period": "2025年度",
+      "quote": "核磁 套...销售量 116"
+    },
+    {
+      "product": "DSA",
+      "metric_type": "sales_volume",
+      "value": "22套",
+      "period": "2025年度",
+      "quote": "DSA 套...销售量 22"
+    },
+    {
+      "product": "CT",
+      "metric_type": "sales_volume",
+      "value": "281套",
+      "period": "2025年度",
+      "quote": "CT 套...销售量 281"
+    },
+    {
+      "product": "DR",
+      "metric_type": "inventory_volume",
+      "value": "798套",
+      "period": "2025年末",
+      "quote": "DR 套...库存量 798"
+    },
+    {
+      "product": "核磁",
+      "metric_type": "inventory_volume",
+      "value": "73套",
+      "period": "2025年末",
+      "quote": "核磁 套...库存量 73"
+    },
+    {
+      "product": "DSA",
+      "metric_type": "inventory_volume",
+      "value": "25套",
+      "period": "2025年末",
+      "quote": "DSA 套...库存量 25"
+    },
+    {
+      "product": "CT",
+      "metric_type": "inventory_volume",
+      "value": "229套",
+      "period": "2025年末",
+      "quote": "CT 套...库存量 229"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "MRI产品研发和产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "44,412.54万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入募集资金38,154.60万元，投入进度85.91%",
+      "expected_completion_time": "2026年12月",
+      "quote": "MRI产品研发和产业化项目...项目达到预定可使用状态日期 2026年12月"
+    },
+    {
+      "name": "CT产品研发和产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "26,693.80万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入募集资金26,671.45万元，投入进度99.92%",
+      "expected_completion_time": "2025年12月",
+      "quote": "CT产品研发和产业化项目...项目达到预定可使用状态日期 2025年12月...已达到预定可使用状态，予以结项"
+    },
+    {
+      "name": "DSA产品研发和产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "23,339.31万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入募集资金16,002.47万元，投入进度68.56%",
+      "expected_completion_time": "2026年12月",
+      "quote": "DSA产品研发和产业化项目...项目达到预定可使用状态日期 2026年12月"
+    },
+    {
+      "name": "DR及DRF产品研发和产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "35,648.58万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入募集资金35,246.11万元，投入进度98.87%",
+      "expected_completion_time": "2025年12月",
+      "quote": "DR及DRF产品研发和产业化项目...项目达到预定可使用状态日期 2025年12月...已达到预定可使用状态，予以结项"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "74,534.39万元",
+      "designed_capacity": null,
+      "progress": "累计投入74,597.36万元，投入进度100.00%",
+      "expected_completion_time": "已完成",
+      "quote": "补充流动资金...投入进度（%） 100.00 已完成"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "无液氦超导磁体技术",
+      "asset_type": "core_technology",
+      "related_product": "MRI",
+      "quantitative_info": null,
+      "quote": "公司凭借全球首创的“无液氦超导磁体技术”，完成了一次对传统产业格局的重构。"
+    },
+    {
+      "name": "WDL 1024 广域深度学习平台",
+      "asset_type": "technical_platform",
+      "related_product": "全线医学影像产品",
+      "quantitative_info": null,
+      "quote": "构建了自主可控的“WDL 1024 广域深度学习平台”这一核心算法中枢。"
+    },
+    {
+      "name": "量子降噪技术",
+      "asset_type": "core_technology",
+      "related_product": "DSA",
+      "quantitative_info": null,
+      "quote": "在DSA 领域，其“量子降噪技术”结合稀土 IGZO 探测器，在将辐射剂量降低 75%的同时，将空间分辨率提升40%"
+    },
+    {
+      "name": "全幅DR技术",
+      "asset_type": "core_technology",
+      "related_product": "DR",
+      "quantitative_info": null,
+      "quote": "全球首发的“全幅DR”通过 120 厘米超长平板探测器，实现了全脊柱/全下肢的单次曝光、无拼接成像"
+    },
+    {
+      "name": "双灌注同步定量成像技术",
+      "asset_type": "core_technology",
+      "related_product": "双子星AI 3.0T MRI",
+      "quantitative_info": null,
+      "quote": "双子星AI 3.0T MRI：正式上市并获NMPA 认证，其革命性地实现了双灌注（DCE+DSC）同步定量成像"
+    },
+    {
+      "name": "授权知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年新获授权专利45 项、软件著作权11 项，累计拥有授权知识产权达270 项",
+      "quote": "知识产权硕果累累：全年新获授权专利45 项、软件著作权11 项，累计拥有授权知识产权达270 项"
+    },
+    {
+      "name": "参与标准制定",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "累计参与1项国际标准、7项国家标准、10 项行业标准的制定工作",
+      "quote": "积极参与标准制定：累计参与1项国际标准、7项国家标准、10 项行业标准的制定工作"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "23,838.63万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额23,838.63万元，占年度销售总额17.70%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "17.70%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额23,838.63万元，占年度销售总额17.70%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "41,708.60万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额41,708.60万元，占年度采购总额38.14%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "38.14%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额41,708.60万元，占年度采购总额38.14%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "supplier_concentration",
+      "description": "高端部分核心部件和技术仍受制于少数供应商，全球地缘政治波动和贸易保护主义抬头，对供应链安全构成威胁。",
+      "related_entity": "少数供应商",
+      "related_product": "医学影像设备核心部件",
+      "quote": "高端部分核心部件和技术仍受制于少数供应商，全球地缘政治波动和贸易保护主义抬头，对供应链安全构成威胁。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "高端市场壁垒高筑，中低端市场因政府集采陷入同质化价格竞争，严重压缩了行业整体利润空间，影响企业长期研发投入。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "高端市场壁垒高筑，中低端市场因政府集采陷入同质化价格竞争，严重压缩了行业整体利润空间，影响企业长期研发投入。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "医保支付方式改革（如 DRG/DIP）和集中带量采购等政策，促使医院采购决策更加注重全生命周期的成本与效益，对企业综合服务能力提出了更高要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "医保支付方式改革（如 DRG/DIP）和集中带量采购等政策，促使医院采购决策更加注重全生命周期的成本与效益，对企业综合服务能力提出了更高要求。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "进入欧美等主流市场需通过FDA、CE-MDR 等严苛认证，过程漫长、成本高昂，且对临床数据要求日益严格。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "进入欧美等主流市场需通过FDA、CE-MDR 等严苛认证，过程漫长、成本高昂，且对临床数据要求日益严格。"
+    },
+    {
+      "risk_type": "other",
+      "description": "对于新兴品牌，尤其是在高端市场，建立临床专家的信任是一项极具挑战的系统性工程。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "对于新兴品牌，尤其是在高端市场，建立临床专家的信任是一项极具挑战的系统性工程。"
+    }
+  ]
+}

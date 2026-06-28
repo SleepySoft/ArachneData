@@ -1,0 +1,403 @@
+{
+  "company_name_mentioned": "斯达半导体股份有限公司",
+  "produces": [
+    {
+      "name": "IGBT模块",
+      "type": "device",
+      "revenue_proportion": "2025年，IGBT模块的销售收入占主营业务收入的83.69%",
+      "quote": "2025年，IGBT模块的销售收入占主营业务收入的83.69%，是公司的主要产品。"
+    },
+    {
+      "name": "SiC MOSFET模块",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内公司其他产品收入为6.54亿元，较2024年同比上升144.28%，主要原因为报告期内公司车规级SiC MOSFET模块大批量供货所致。"
+    },
+    {
+      "name": "GaN HEMT模块",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "2025年，公司车规级GaN HEMT模块获得了主电机控制器平台定点，预计2026年逐步进入装车应用阶段。"
+    },
+    {
+      "name": "车规级MCU产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "2025年，公司应用于主电机控制器的主频320MHz车规级MCU产品进展顺利...预计于2026年底实现小批量供货。"
+    },
+    {
+      "name": "栅极驱动IC",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品组合覆盖IGBT、SiC MOSFET、GaN HEMT、快恢复二极管等功率半导体器件以及汽车级与工业级MCU、栅极驱动IC芯片等..."
+    },
+    {
+      "name": "IGBT芯片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司自主研发的第二代车规级SiC MOSFET芯片实现大批量出货，可配套800V/1000V及以上电压电驱平台需求。"
+    },
+    {
+      "name": "SiC MOSFET芯片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司自主研发的第二代车规级SiC MOSFET芯片实现大批量出货，可配套800V/1000V及以上电压电驱平台需求。"
+    },
+    {
+      "name": "IPM（智能功率模块）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "2025年，变频白色家电用IPM销售数量超过500万颗。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "IGBT芯片",
+      "target_product": "IGBT模块等",
+      "cost_proportion": null,
+      "quote": "公司产品主要原材料为IGBT芯片、SiC MOSFET芯片、快恢复二极管芯片等功率半导体芯片..."
+    },
+    {
+      "name": "SiC MOSFET芯片",
+      "target_product": "SiC MOSFET模块等",
+      "cost_proportion": null,
+      "quote": "公司产品主要原材料为IGBT芯片、SiC MOSFET芯片、快恢复二极管芯片等功率半导体芯片..."
+    },
+    {
+      "name": "快恢复二极管芯片",
+      "target_product": "功率模块等",
+      "cost_proportion": null,
+      "quote": "公司产品主要原材料为IGBT芯片、SiC MOSFET芯片、快恢复二极管芯片等功率半导体芯片..."
+    },
+    {
+      "name": "DBC（覆铜陶瓷基板）",
+      "target_product": "功率模块",
+      "cost_proportion": null,
+      "quote": "...以及DBC、散热基板（主要为铜）和其他材料..."
+    },
+    {
+      "name": "散热基板（主要为铜）",
+      "target_product": "功率模块",
+      "cost_proportion": null,
+      "quote": "...以及DBC、散热基板（主要为铜）和其他材料..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "IGBT模块、SiC MOSFET模块等",
+      "quote": "广泛应用于新能源、新能源汽车、工业控制与电源、白色家电、AI服务器电源、数据中心、机器人及低空/高空飞行器等领域。"
+    },
+    {
+      "name": "新能源发电及储能",
+      "source_product": "IGBT模块、SiC MOSFET等",
+      "quote": "广泛应用于新能源、新能源汽车、工业控制与电源、白色家电、AI服务器电源、数据中心、机器人及低空/高空飞行器等领域。"
+    },
+    {
+      "name": "工业控制与电源",
+      "source_product": "IGBT模块等",
+      "quote": "广泛应用于新能源、新能源汽车、工业控制与电源、白色家电、AI服务器电源、数据中心、机器人及低空/高空飞行器等领域。"
+    },
+    {
+      "name": "白色家电",
+      "source_product": "IPM、IGBT模块等",
+      "quote": "广泛应用于新能源、新能源汽车、工业控制与电源、白色家电、AI服务器电源、数据中心、机器人及低空/高空飞行器等领域。"
+    },
+    {
+      "name": "AI服务器电源",
+      "source_product": "GaN HEMT、DrMOS等芯片",
+      "quote": "广泛应用于...AI服务器电源、数据中心、机器人及低空/高空飞行器等领域。"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "GaN HEMT、DrMOS等芯片",
+      "quote": "广泛应用于...AI服务器电源、数据中心、机器人及低空/高空飞行器等领域。"
+    },
+    {
+      "name": "机器人",
+      "source_product": "功率半导体器件",
+      "quote": "广泛应用于...机器人及低空/高空飞行器等领域。"
+    },
+    {
+      "name": "低空/高空飞行器",
+      "source_product": "SiC MOSFET模块等",
+      "quote": "广泛应用于...机器人及低空/高空飞行器等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "沈华",
+      "role": "董事长、总经理",
+      "quote": "公司负责人沈华、主管会计工作负责人张哲及会计机构负责人（会计主管人员）岑淑声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张哲",
+      "role": "董事会秘书、财务总监、副总经理",
+      "quote": "公司负责人沈华、主管会计工作负责人张哲及会计机构负责人（会计主管人员）岑淑声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "汤艺",
+      "role": "副总经理（负责IGBT芯片技术研发工作）",
+      "quote": "汤艺女士，副总经理，2003 年博士毕业于美国仁斯利尔理工学院（RPI）电子工程系...现任公司副总经理，负责IGBT芯片技术研发工作。"
+    },
+    {
+      "name": "胡畏",
+      "role": "董事、副总经理",
+      "quote": "胡畏女士，董事、副总经理，1994年获美国斯坦福大学工程经济系统硕士学位...现任公司董事兼副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "上海华虹半导体有限公司（晶圆代工厂商）",
+      "relation_type": "supplier",
+      "business_details": "公司芯片主要委托上海华虹、上海积塔等第三方晶圆代工厂商外协制造",
+      "quote": "目前，公司芯片制造依托“Fabless+IDM 双轮驱动”模式：一方面，公司芯片主要委托上海华虹、上海积塔等第三方晶圆代工厂商外协制造..."
+    },
+    {
+      "name": "上海积塔半导体有限公司（晶圆代工厂商）",
+      "relation_type": "supplier",
+      "business_details": "公司芯片主要委托上海华虹、上海积塔等第三方晶圆代工厂商外协制造",
+      "quote": "目前，公司芯片制造依托“Fabless+IDM 双轮驱动”模式：一方面，公司芯片主要委托上海华虹、上海积塔等第三方晶圆代工厂商外协制造..."
+    },
+    {
+      "name": "美的集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "完成了美垦半导体股权交割，交割完成后，公司持有美垦半导体80%股权，美的集团持有20%股权。",
+      "quote": "2025年，公司完成了美垦半导体股权交割，交割完成后，公司持有美垦半导体80%股权，美的集团持有20%股权。"
+    },
+    {
+      "name": "美垦半导体技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "通过非同一控制下企业合并取得的子公司",
+      "quote": "报告期内取得和处置子公司的情况...公司名称：美垦半导体技术有限公司；报告期内取得和处置子公司方式：非同一控制下企业合并取得的子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "新能源行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "255,232.73万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "较去年同期上升27.05%",
+      "quote": "报告期内，公司该板块实现营业收入255,232.73万元，较去年同期上升27.05%。"
+    },
+    {
+      "name": "新能源汽车行业",
+      "segment_type": "business_unit",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "较2024年同期增长22.14%",
+      "quote": "其中，新能源汽车行业营业收入较2024年同期增长22.14%；"
+    },
+    {
+      "name": "新能源发电及储能行业",
+      "segment_type": "business_unit",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "较2024年同期增长55.68%",
+      "quote": "新能源发电及储能行业营业收入较2024年同期增长55.68%。"
+    },
+    {
+      "name": "工业控制和电源行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "103,005.73万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "同比下降6.38%",
+      "quote": "报告期内，公司该板块实现营业收入103,005.73万元，同比下降6.38%，降幅较上半年收窄，业务呈现边际改善态势。"
+    },
+    {
+      "name": "变频白色家电及其他行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "42,447.53万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "较去年同期增长56.03%",
+      "quote": "报告期内，公司该板块实现营业收入42,447.53万元，较去年同期增长56.03%，变频白色家电用 IPM销售数量超过500万颗。"
+    },
+    {
+      "name": "亚洲地区",
+      "segment_type": "region",
+      "revenue_amount": "3,707,393,472.00元",
+      "revenue_proportion": null,
+      "gross_margin": "24.44%",
+      "yoy_change": null,
+      "quote": "亚洲地区...营业收入3,707,393,472.00...毛利率24.44%..."
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "299,466,386.82元",
+      "revenue_proportion": null,
+      "gross_margin": "45.28%",
+      "yoy_change": null,
+      "quote": "其他地区...营业收入299,466,386.82...毛利率45.28%..."
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,451,840,627.62元",
+      "revenue_proportion": null,
+      "gross_margin": "25.37%",
+      "yoy_change": null,
+      "quote": "直销...营业收入3,451,840,627.62...毛利率25.37%..."
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "555,019,231.20元",
+      "revenue_proportion": null,
+      "gross_margin": "29.89%",
+      "yoy_change": null,
+      "quote": "经销...营业收入555,019,231.20...毛利率29.89%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "SiC MOSFET芯片",
+      "metric_type": "capacity",
+      "value": "年产6万片6英寸车规级SiC MOSFET芯片",
+      "period": null,
+      "quote": "另一方面，公司募投项目SiC芯片研发及产业化项目、高压特色工艺功率芯片研发及产业化项目已完成建设并投产，形成年产6万片6英寸车规级 SiC MOSFET芯片、30万片6英寸3300V及以上高压特色功率芯片的生产能力。"
+    },
+    {
+      "product": "高压特色功率芯片",
+      "metric_type": "capacity",
+      "value": "年产30万片6英寸3300V及以上高压特色功率芯片",
+      "period": null,
+      "quote": "另一方面，公司募投项目SiC芯片研发及产业化项目、高压特色工艺功率芯片研发及产业化项目已完成建设并投产，形成年产6万片6英寸车规级 SiC MOSFET芯片、30万片6英寸3300V及以上高压特色功率芯片的生产能力。"
+    },
+    {
+      "product": "IGBT模块",
+      "metric_type": "production_volume",
+      "value": "1577 万只",
+      "period": "2025年",
+      "quote": "IGBT模块 万只 1577 1522 189 10.66 7.61 40.98"
+    },
+    {
+      "product": "IGBT模块",
+      "metric_type": "sales_volume",
+      "value": "1522 万只",
+      "period": "2025年",
+      "quote": "IGBT模块 万只 1577 1522 189 10.66 7.61 40.98"
+    },
+    {
+      "product": "IGBT模块",
+      "metric_type": "inventory_volume",
+      "value": "189 万只",
+      "period": "2025年",
+      "quote": "IGBT模块 万只 1577 1522 189 10.66 7.61 40.98"
+    },
+    {
+      "product": "变频白色家电用 IPM",
+      "metric_type": "sales_volume",
+      "value": "超过500万颗",
+      "period": "2025年",
+      "quote": "变频白色家电用 IPM销售数量超过500万颗。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "SiC芯片研发及产业化项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产6万片6英寸车规级SiC MOSFET芯片",
+      "progress": "已完成建设并投产",
+      "expected_completion_time": null,
+      "quote": "另一方面，公司募投项目SiC芯片研发及产业化项目、高压特色工艺功率芯片研发及产业化项目已完成建设并投产，形成年产6万片6英寸车规级 SiC MOSFET芯片..."
+    },
+    {
+      "name": "高压特色工艺功率芯片研发及产业化项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产30万片6英寸3300V及以上高压特色功率芯片",
+      "progress": "已完成建设并投产",
+      "expected_completion_time": null,
+      "quote": "...高压特色工艺功率芯片研发及产业化项目已完成建设并投产，形成...30万片6英寸3300V及以上高压特色功率芯片的生产能力。"
+    },
+    {
+      "name": "PCB嵌入式功率模块研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成多轮车规级可靠性验证。目前项目产业化进展顺利。",
+      "expected_completion_time": "预计2026年底在头部车企实现量产交付",
+      "quote": "2025年，公司面向车载主电机控制器开发的PCB嵌入式功率模块研发进展顺利，已完成多轮车规级可靠性验证...预计2026年底在头部车企实现量产交付。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "第七代微沟槽Trench Field Stop技术",
+      "asset_type": "core_technology",
+      "related_product": "750V、1200V IGBT模块、IGBT芯片等",
+      "quantitative_info": null,
+      "quote": "2025年，公司搭载自主第七代微沟槽Trench Field Stop技术的750V、1200V IGBT模块持续放量..."
+    },
+    {
+      "name": "第二代车规级SiC MOSFET芯片",
+      "asset_type": "core_technology",
+      "related_product": "车规级SiC MOSFET模块",
+      "quantitative_info": null,
+      "quote": "2025年，公司自主研发的第二代车规级SiC MOSFET芯片实现大批量出货，可配套800V/1000V及以上电压电驱平台需求。"
+    },
+    {
+      "name": "第三代SiC MOSFET芯片",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年，公司自主研发并生产的面向高频工况的第三代SiC MOSFET芯片研发成功..."
+    },
+    {
+      "name": "第八代微沟槽IGBT芯片",
+      "asset_type": "core_technology",
+      "related_product": "500KW逆变器功率模块",
+      "quantitative_info": "1.2μm Pitch",
+      "quote": "2025年，公司成功研发了国际领先的 1.2μm Pitch的第八代微沟槽IGBT芯片。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "119,848.38万元，占年度销售总额29.87%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额119,848.38万元，占年度销售总额29.87%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "152,436.85万元，占年度采购总额52.86%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额152,436.85万元，占年度采购总额52.86%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新能源汽车市场品牌格局多元，汽车品牌数量众多，车型迭代提速，细分领域产品同质化趋势显现，市场竞争持续加剧，整车企业降本诉求持续提升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "尽管现阶段公司新能源汽车行业销售收入持续保持快速增长，但若后续新能源汽车行业整体增速放缓、行业内卷加剧、终端盈利承压，下游降本压力将向上游零部件环节传导，或将导致公司相关产品收入增速放缓、盈利空间受到挤压..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品主要原材料为IGBT芯片、SiC MOSFET芯片、快恢复二极管芯片等功率半导体芯片，以及DBC、散热基板（主要为铜）和其他材料，原材料占公司主营业务成本比例较高，原材料价格波动对公司成本影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司产品主要原材料为IGBT芯片、SiC MOSFET芯片、快恢复二极管芯片等功率半导体芯片，以及DBC、散热基板（主要为铜）和其他材料，原材料占公司主营业务成本比例较高，原材料价格波动对公司成本影响较大。若未来原材料价格发生大幅波动，将会对公司经营业绩造成不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司在海外的采购与销售业务，通常以欧元、瑞士法郎、美元等外币定价并结算，外汇市场汇率的波动会影响公司所持货币资金的价值，从而影响公司的资产价值。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在海外的采购与销售业务，通常以欧元、瑞士法郎、美元等外币定价并结算，外汇市场汇率的波动会影响公司所持货币资金的价值，从而影响公司的资产价值。"
+    }
+  ]
+}

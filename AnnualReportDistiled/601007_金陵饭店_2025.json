@@ -1,0 +1,492 @@
+{
+  "company_name_mentioned": "金陵饭店股份有限公司",
+  "produces": [
+    {
+      "name": "酒店服务",
+      "type": "service",
+      "revenue_proportion": "占年度营业收入29.43%（分行业酒店服务收入535,540,002.13元，总营收1,822,615,352.54元）",
+      "quote": "主营业务分行业情况：酒店服务...毛利率（%） 40.81...; 一、营业总收入 1,822,615,352.54"
+    },
+    {
+      "name": "商品贸易",
+      "type": "service",
+      "revenue_proportion": "占年度营业收入60.50%（分行业商品贸易收入1,072,204,796.54元，总营收1,822,615,352.54元）",
+      "quote": "主营业务分行业情况：商品贸易...毛利率（%） 7.56...; 一、营业总收入 1,822,615,352.54"
+    },
+    {
+      "name": "房屋租赁",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主营业务分行业情况：房屋租赁...毛利率（%） 82.87"
+    },
+    {
+      "name": "物业管理",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主营业务分行业情况：物业管理...毛利率（%） 25.26"
+    },
+    {
+      "name": "客房",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况：客房...毛利率（%） 49.08"
+    },
+    {
+      "name": "餐饮",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况：餐饮...毛利率（%） 18.83"
+    },
+    {
+      "name": "酒店管理",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况：酒店管理...毛利率（%） 62.22"
+    },
+    {
+      "name": "金陵食品（含面点、卤菜、礼盒等）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "食品科技公司主要从事金陵食品研发、经营与销售...着力打造公司经典大师菜品、面点、卤菜、地方特色小吃及节庆礼盒产品等系列。"
+    },
+    {
+      "name": "酒类贸易（中外名酒经销）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "苏糖公司主要业务为中外名酒等商品的经销业务...成为江苏省内高中档酒类品牌的主要运营商。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品成本（酒类等）",
+      "target_product": "商品贸易业务",
+      "cost_proportion": "商品成本991,158,358.98元，占营业总成本71.68%",
+      "quote": "成本分析表 分产品情况：商品贸易...成本构成项目 商品成本...本期金额 991,158,358.98...本期占总成本比例(%) 71.68"
+    },
+    {
+      "name": "酒店服务相关采购（人工成本、食品原料、订房服务费和专项成本）",
+      "target_product": "酒店服务业务",
+      "cost_proportion": null,
+      "quote": "成本分析表 分行业情况：酒店服务...成本构成项目 人工成本、食品原料、订房服务费和专项成本"
+    },
+    {
+      "name": "客房用品等",
+      "target_product": "客房服务",
+      "cost_proportion": null,
+      "quote": "成本分析表 分产品情况：客房...成本构成项目 人工成本、客房用品等"
+    },
+    {
+      "name": "食品原料",
+      "target_product": "餐饮服务",
+      "cost_proportion": null,
+      "quote": "成本分析表 分产品情况：餐饮...成本构成项目 食品原料"
+    },
+    {
+      "name": "茅台集团控制企业产品",
+      "target_product": null,
+      "cost_proportion": "采购额占年度采购总额比例28.78%",
+      "quote": "前五名供应商：中国贵州茅台酒厂(集团)有限责任公司控制的企业...采购额 33,589.16...占年度采购总额比例（%） 28.78"
+    },
+    {
+      "name": "五粮液集团控制企业产品",
+      "target_product": null,
+      "cost_proportion": "采购额占年度采购总额比例19.48%",
+      "quote": "前五名供应商：四川省宜宾五粮液集团有限公司控制的企业...采购额 22,725.99...占年度采购总额比例（%） 19.48"
+    }
+  ],
+  "applications": [
+    {
+      "name": "酒店住宿与餐饮服务",
+      "source_product": "酒店服务（客房、餐饮）",
+      "quote": "公司构建了‘1+N’的多元化协同产业结构，即以酒店投资管理为核心主业..."
+    },
+    {
+      "name": "酒类消费与流通",
+      "source_product": "商品贸易（酒类）",
+      "quote": "苏糖公司主要业务为中外名酒等商品的经销业务...成为江苏省内高中档酒类品牌的主要运营商。"
+    },
+    {
+      "name": "商办楼宇与物业管理",
+      "source_product": "物业管理",
+      "quote": "汇德物业公司是专业深耕于高端商办楼宇的物业管理和运营服务公司..."
+    },
+    {
+      "name": "大众消费与商务节礼",
+      "source_product": "金陵食品",
+      "quote": "食品科技公司...面向大众消费、商务节礼和酒店餐饮需求..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张胜新",
+      "role": "董事（代董事长）、总经理",
+      "quote": "公司负责人 张胜新...现任本公司党委副书记、董事长（代行）、总经理..."
+    },
+    {
+      "role": "董事",
+      "name": "陶彬彦",
+      "quote": "1956 年12月出生，学士，2019年6月起至今担任本公司董事。现任洛杉矶刹历斯录音公司总裁..."
+    },
+    {
+      "role": "董事",
+      "name": "刘飞燕",
+      "quote": "1974 年8月出生，大专学历...2025年6月起担任本公司董事。现任南京金陵饭店集团有限公司综合财务部总经理。"
+    },
+    {
+      "role": "董事",
+      "name": "丁文虎",
+      "quote": "1974年11月出生...现任江苏交通控股有限公司副总经理、党委委员，2025年6月起担任本公司董事。"
+    },
+    {
+      "role": "董事、副总经理",
+      "name": "周蕾",
+      "quote": "1973年10月出生...现任本公司党委委员、董事、副总经理..."
+    },
+    {
+      "role": "副总经理、董事会秘书、总法律顾问",
+      "name": "刘羽欣",
+      "quote": "1984年11月出生...现任本公司党委委员、副总经理、董事会秘书、总法律顾问..."
+    },
+    {
+      "role": "财务负责人",
+      "name": "史红伟",
+      "quote": "1967年11月出生...现任本公司财务负责人..."
+    },
+    {
+      "role": "职工董事",
+      "name": "吴海燕",
+      "quote": "1975年1月出生...现任本公司职工董事、党委办公室主任、纪委委员。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "南京金陵饭店集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股43.50%；与本公司及子公司存在土地租赁、酒店托管等关联交易。",
+      "quote": "控股股东/金陵饭店集团 指 南京金陵饭店集团有限公司...控股股东情况：南京金陵饭店集团有限公司...期末持股数 169,667,918...比例(%) 43.50"
+    },
+    {
+      "name": "江苏省政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "公司实际控制人。",
+      "quote": "实际控制人情况：法人：名称 江苏省政府国有资产监督管理委员会"
+    },
+    {
+      "name": "江苏金陵旅游投资管理集团有限公司",
+      "relation_type": "investor",
+      "business_details": "为母公司金陵饭店集团的控股子公司，与本公司存在酒店托管等关联交易。",
+      "quote": "金陵旅投公司 指 江苏金陵旅游投资管理集团有限公司...在其他单位任职情况：史红伟...兼任...北京金陵饭店有限公司执行董事。"
+    },
+    {
+      "name": "江苏金陵五星实业有限公司",
+      "relation_type": "investor",
+      "business_details": "为母公司金陵饭店集团的全资子公司，与本公司存在酒店托管关联交易。",
+      "quote": "五星实业公司 指 江苏金陵五星实业有限公司"
+    },
+    {
+      "name": "苏果超市有限公司",
+      "relation_type": "customer",
+      "business_details": "主要客户之一，贸易业务销售额占比7.28%。",
+      "quote": "贸易业务收入占营业收入比例超过10%前五名销售客户：1 苏果超市有限公司 13,260.10 7.28"
+    },
+    {
+      "name": "北京京东世纪信息技术有限公司",
+      "relation_type": "customer",
+      "business_details": "主要客户之一，贸易业务销售额占比2.42%。",
+      "quote": "贸易业务收入占营业收入比例超过10%前五名销售客户：2 北京京东世纪信息技术有限公司 4,407.40 2.42"
+    },
+    {
+      "name": "中国贵州茅台酒厂(集团)有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "主要供应商之一（通过其控制的企业），采购额占比28.78%。",
+      "quote": "前五名供应商：中国贵州茅台酒厂(集团)有限责任公司控制的企业...占年度采购总额比例（%） 28.78"
+    },
+    {
+      "name": "四川省宜宾五粮液集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要供应商之一（通过其控制的企业），采购额占比19.48%。",
+      "quote": "前五名供应商：四川省宜宾五粮液集团有限公司控制的企业...占年度采购总额比例（%） 19.48"
+    },
+    {
+      "name": "贵州贵宁达酒店管理股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股企业，持股40%，负责托管贵州酒店集团相关酒店，报告期内已逐步终止业务经营。",
+      "quote": "主要参股公司情况：（1）贵州贵宁达酒店管理股份有限公司...本公司持股40%...因合作方战略发生调整，报告期内该公司已逐步终止业务经营..."
+    },
+    {
+      "name": "合肥文旅金陵酒店管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股企业，持股35%，负责托管合肥文旅博览集团相关酒店。",
+      "quote": "主要参股公司情况：（2）合肥文旅金陵酒店管理有限公司...本公司持股35%..."
+    },
+    {
+      "name": "江苏金陵文旅产业发展基金合伙企业（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "参股企业，出资占比38.46%，从事酒店住宿类项目投资。",
+      "quote": "主要参股公司情况：（3）江苏金陵文旅产业发展基金合伙企业（有限合伙）...本公司出资占比38.46%。该基金主要从事长三角区域为主的酒店住宿类项目投资。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "酒店服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "535,540,002.13",
+      "revenue_proportion": null,
+      "gross_margin": "40.81%",
+      "yoy_change": "营业收入比上年增减（%）0.11",
+      "quote": "主营业务分行业情况：酒店服务...营业收入 535,540,002.13...毛利率（%） 40.81...收入比上年增减（%）0.11"
+    },
+    {
+      "name": "商品贸易",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,072,204,796.54",
+      "revenue_proportion": null,
+      "gross_margin": "7.56%",
+      "yoy_change": "营业收入比上年增减（%）-3.91",
+      "quote": "主营业务分行业情况：商品贸易...营业收入 1,072,204,796.54...毛利率（%） 7.56...收入比上年增减（%）-3.91"
+    },
+    {
+      "name": "房屋租赁",
+      "segment_type": "business_unit",
+      "revenue_amount": "108,107,401.85",
+      "revenue_proportion": null,
+      "gross_margin": "82.87%",
+      "yoy_change": "营业收入比上年增减（%）-15.30",
+      "quote": "主营业务分行业情况：房屋租赁...营业收入 108,107,401.85...毛利率（%） 82.87...收入比上年增减（%）-15.30"
+    },
+    {
+      "name": "物业管理",
+      "segment_type": "business_unit",
+      "revenue_amount": "75,043,858.64",
+      "revenue_proportion": null,
+      "gross_margin": "25.26%",
+      "yoy_change": "营业收入比上年增减（%）5.78",
+      "quote": "主营业务分行业情况：物业管理...营业收入 75,043,858.64...毛利率（%） 25.26...收入比上年增减（%）5.78"
+    },
+    {
+      "name": "客房",
+      "segment_type": "product_line",
+      "revenue_amount": "202,914,552.86",
+      "revenue_proportion": null,
+      "gross_margin": "49.08%",
+      "yoy_change": "营业收入比上年增减（%）-6.26",
+      "quote": "主营业务分产品情况：客房...营业收入 202,914,552.86...毛利率（%） 49.08...收入比上年增减（%）-6.26"
+    },
+    {
+      "name": "餐饮",
+      "segment_type": "product_line",
+      "revenue_amount": "209,105,214.01",
+      "revenue_proportion": null,
+      "gross_margin": "18.83%",
+      "yoy_change": "营业收入比上年增减（%）2.94",
+      "quote": "主营业务分产品情况：餐饮...营业收入 209,105,214.01...毛利率（%） 18.83...收入比上年增减（%）2.94"
+    },
+    {
+      "name": "酒店管理",
+      "segment_type": "product_line",
+      "revenue_amount": "114,698,964.42",
+      "revenue_proportion": null,
+      "gross_margin": "62.22%",
+      "yoy_change": "营业收入比上年增减（%）8.90",
+      "quote": "主营业务分产品情况：酒店管理...营业收入 114,698,964.42...毛利率（%） 62.22...收入比上年增减（%）8.90"
+    },
+    {
+      "name": "南京",
+      "segment_type": "region",
+      "revenue_amount": "1,771,605,751.18",
+      "revenue_proportion": null,
+      "gross_margin": "22.72%",
+      "yoy_change": "营业收入比上年增减（%）-2.43",
+      "quote": "主营业务分地区情况：南京...营业收入 1,771,605,751.18...毛利率（%） 22.72...收入比上年增减（%）-2.43"
+    },
+    {
+      "name": "盱眙",
+      "segment_type": "region",
+      "revenue_amount": "11,142,966.32",
+      "revenue_proportion": null,
+      "gross_margin": "30.74%",
+      "yoy_change": "营业收入比上年增减（%）-8.17",
+      "quote": "主营业务分地区情况：盱眙...营业收入 11,142,966.32...毛利率（%） 30.74...收入比上年增减（%）-8.17"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "金陵连锁酒店签约总数245家，遍布全国18个省级行政区",
+      "period": "报告期末",
+      "quote": "截至本报告期末金陵连锁酒店签约总数245家，遍布全国18个省级行政区"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "金陵贵宾会员总数2220万名",
+      "period": "报告期末",
+      "quote": "金陵贵宾会员总数2220万名。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "酒店连锁品牌拓展",
+      "project_type": "capacity_expansion",
+      "location": "杭州、苏州、河南安阳、新疆阿勒泰、贵州安顺等",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在杭州主城区落地‘金陵嘉珑’、苏州主城区完成新品牌首店签约...在河南安阳、新疆阿勒泰、贵州安顺等省外地区完成新签项目落地",
+      "expected_completion_time": null,
+      "quote": "拓展品牌连锁布局版图。围绕‘项目拓展高质量发展’与‘品牌生态化体系构建’战略，在杭州主城区落地‘金陵嘉珑’、苏州主城区完成新品牌首店签约，在河南安阳、新疆阿勒泰、贵州安顺等省外地区完成新签项目落地..."
+    },
+    {
+      "name": "金陵嘉珑2.0品牌升级",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成金陵嘉珑2.0品牌迭代升级，新创子品牌‘金都里’实现从命名定位到实体样板间打造的里程碑突破；制定酒店12大类A/B类核心触点产品标准。",
+      "expected_completion_time": null,
+      "quote": "深化品牌矩阵标准体系。完成金陵主品牌VIS（视觉识别）系统焕新呈现，金陵嘉珑2.0品牌迭代升级，新创子品牌‘金都里’实现从命名定位到实体样板间打造的里程碑突破；制定酒店12大类A/B类核心触点产品标准..."
+    },
+    {
+      "name": "11家股权托管酒店一体化整合项目",
+      "project_type": "acquisition_project",
+      "location": "全国多处",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年7月，西安金陵紫金山酒店装修改造竣工并开业，金陵饭店集团与公司签署相关补充协议，完成该酒店股权托管事项，至此11家酒店均纳入上市公司一体化运营管理。",
+      "expected_completion_time": null,
+      "quote": "为实施酒店板块业务深化整合，集中酒店板块核心优势资源，公司对金陵饭店集团旗下11家酒店实施一体化管控、集约化经营。...2025年7月，西安金陵紫金山酒店装修改造竣工并开业，金陵饭店集团与公司签署相关补充协议，完成该酒店股权托管事项，至此11家酒店均纳入上市公司一体化运营管理。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ISO9001/ISO14001/ISO45001一体化认证",
+      "asset_type": "certification",
+      "related_product": "酒店管理服务",
+      "quantitative_info": null,
+      "quote": "在全国酒店业率先通过ISO9001国际质量管理体系、ISO14001国际环境管理体系、ISO45001职业健康安全管理体系一体化认证..."
+    },
+    {
+      "name": "“鲸灵”智能运营管理平台",
+      "asset_type": "technical_platform",
+      "related_product": "酒店运营",
+      "quantitative_info": "完成总部全模块推广并实现酒店板块9600余人次上线、激活率90%",
+      "quote": "升级数智运营平台。重构‘鲸灵’智能运营管理平台，完成总部全模块推广并实现酒店板块9600余人次上线、激活率90%..."
+    },
+    {
+      "name": "“尊享金陵”直销平台",
+      "asset_type": "technical_platform",
+      "related_product": "酒店营销",
+      "quantitative_info": "2025年会员消费4.39亿元、同比增长19.62%",
+      "quote": "‘尊享金陵’直销平台实现连锁酒店全面上线，2025年会员消费4.39亿元、同比增长19.62%..."
+    },
+    {
+      "name": "金陵能耗监测分析平台（EMAP）与金陵工程运维管理平台（EMOP）",
+      "asset_type": "technical_platform",
+      "related_product": "酒店能耗与工程管理",
+      "quantitative_info": "覆盖面拓展至40家连锁酒店",
+      "quote": "‘金陵能耗监测分析平台’（EMAP）、‘金陵工程运维管理平台’（EMOP）覆盖面拓展至40家连锁酒店..."
+    },
+    {
+      "name": "“细意浓情4-8-32”质量经营模式",
+      "asset_type": "process_technology",
+      "related_product": "酒店服务",
+      "quantitative_info": null,
+      "quote": "在全国服务业率先创立了‘细意浓情4-8-32’质量经营模式。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "26,197.12万元",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额26,197.12万元，占年度销售总额14.38%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "89,423.54万元",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额89,423.54万元，占年度采购总额76.63%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "13,260.10万元，占比7.28%",
+      "related_entity": "苏果超市有限公司",
+      "period": "报告期内",
+      "quote": "前五名销售客户：1 苏果超市有限公司 13,260.10 7.28"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "33,589.16万元，占比28.78%",
+      "related_entity": "中国贵州茅台酒厂(集团)有限责任公司控制的企业",
+      "period": "报告期内",
+      "quote": "前五名供应商：中国贵州茅台酒厂(集团)有限责任公司控制的企业...采购额 33,589.16...占年度采购总额比例（%） 28.78"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "酒店行业步入深度调整期，直面存量博弈、低效出清的转型挑战。价格战内卷、成本费用高企、现金流承压成为行业共性问题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "酒店行业...同步进入深度调整期，直面存量博弈、低效出清的转型挑战。...价格战内卷、成本费用高企、现金流承压成为行业共性问题。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "经营成本主要涵盖原料采购成本...均存在随物价变动而上升的可能性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.经营成本变动的风险：公司经营成本主要涵盖原料采购成本、人工成本、能源消耗以及固定资产折旧摊销等项目。原料采购成本...均存在随物价变动而上升的可能性。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全的关注度提高，对企业产品质量和安全管控提出更高要求。",
+      "related_entity": null,
+      "related_product": "食品科技业务",
+      "quote": "协同业务发展所面临风险：...消费者对食品安全的关注度提高，对企业产品质量和安全管控提出更高要求..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "信息系统面临的安全风险显著上升。若酒店信息安全防护能力...未能及时适应数字化业务发展，可能导致系统瘫痪、客户信息泄露、预订服务中断等问题...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4. 信息系统安全风险：...信息系统面临的安全风险显著上升。若酒店信息安全防护能力或管理措施未能及时适应数字化业务发展，可能导致系统瘫痪、客户信息泄露、预订服务中断等问题..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "宏观经济波动、酒店业供需失衡、区域分化严重、同质竞争激烈等多重市场挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年，面对宏观经济波动、酒店业供需失衡、区域分化严重、同质竞争激烈等多重市场挑战..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "商业综合体运营方面，经济增速放缓叠加周边同类型商业体扩容，竞争激烈客源分流，导致出租率不达预期，租金议价能力弱化。",
+      "related_entity": null,
+      "related_product": "商业综合体运营（房屋租赁）",
+      "quote": "协同业务发展所面临风险：商业综合体运营方面，经济增速放缓叠加周边同类型商业体扩容，竞争激烈客源分流，导致出租率不达预期，租金议价能力弱化..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "酒类贸易方面，白酒行业正经历结构性调整，整体呈现‘量减、价低、利缩’的态势，价格倒挂问题突出...对区域经销商经营业绩带来直接影响。",
+      "related_entity": null,
+      "related_product": "酒类贸易",
+      "quote": "协同业务发展所面临风险：...酒类贸易方面，白酒行业正经历结构性调整，整体呈现‘量减、价低、利缩’的态势，价格倒挂问题突出...对区域经销商经营业绩带来直接影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "食品科技方面，市场进入门槛较低、地域属性强，目前行业整体集中度较低、中小厂商竞争激烈。",
+      "related_entity": null,
+      "related_product": "食品科技",
+      "quote": "协同业务发展所面临风险：...食品科技方面，市场进入门槛较低、地域属性强，目前行业整体集中度较低、中小厂商竞争激烈..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "（食品科技）受原材料价格波动影响，企业成本增加。",
+      "related_entity": null,
+      "related_product": "食品科技",
+      "quote": "协同业务发展所面临风险：...受原材料价格波动影响，企业成本增加。"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "company_name_mentioned": "深圳市豪恩汽车电子装备股份有限公司",
+  "produces": [
+    {
+      "name": "视觉感知系统",
+      "type": "device",
+      "revenue_proportion": "99.57%",
+      "quote": "分产品 汽车智能驾驶感知系统 1,780,147,467.12 99.57%"
+    },
+    {
+      "name": "雷达感知系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要产品是集软件、算法、光学设计和硬件于一体的视觉感知系统、雷达感知系统和域控系统"
+    },
+    {
+      "name": "域控系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要产品是集软件、算法、光学设计和硬件于一体的视觉感知系统、雷达感知系统和域控系统"
+    },
+    {
+      "name": "机器人感知产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司已成功推出机器人感知产品并实现量产交付"
+    },
+    {
+      "name": "其他产品",
+      "type": "other",
+      "revenue_proportion": "0.43%",
+      "quote": "分产品 其他 7,685,205.81 0.43%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "芯片",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "电容电阻",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "镜头",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "线材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "探芯",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "五金",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "PCB板",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "模具",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    },
+    {
+      "name": "塑胶",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品生产所用的主要原材料包括芯片、电容电阻、镜头、线材、探芯、五金、PCB板、模具、塑胶等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "L2级组合驾驶辅助",
+      "source_product": "视觉感知系统、雷达感知系统、域控系统",
+      "quote": "全面覆盖 L2 级组合驾驶辅助到 L3 级有条件自动驾驶的感知需求"
+    },
+    {
+      "name": "L3级有条件自动驾驶",
+      "source_product": "视觉感知系统、雷达感知系统、域控系统",
+      "quote": "全面覆盖 L2 级组合驾驶辅助到 L3 级有条件自动驾驶的感知需求"
+    },
+    {
+      "name": "人形机器人",
+      "source_product": "机器人感知产品",
+      "quote": "其中，机器人感知产品涵盖面向人形机器人、服务机器人、移动机器人的多模态感知系统"
+    },
+    {
+      "name": "服务机器人",
+      "source_product": "机器人感知产品",
+      "quote": "其中，机器人感知产品涵盖面向人形机器人、服务机器人、移动机器人的多模态感知系统"
+    },
+    {
+      "name": "移动机器人",
+      "source_product": "机器人感知产品",
+      "quote": "其中，机器人感知产品涵盖面向人形机器人、服务机器人、移动机器人的多模态感知系统"
+    },
+    {
+      "name": "电动垂直起降飞行器（eVTOL）",
+      "source_product": "视觉感知系统、雷达感知系统、飞行器域控单元",
+      "quote": "致力于为电动垂直起降飞行器（eVTOL）、工业无人机等低空飞行器提供核心感知与决策系统"
+    },
+    {
+      "name": "工业无人机",
+      "source_product": "视觉感知系统、雷达感知系统、飞行器域控单元",
+      "quote": "致力于为电动垂直起降飞行器（eVTOL）、工业无人机等低空飞行器提供核心感知与决策系统"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈清锋",
+      "role": "董事长",
+      "quote": "陈清锋先生：男，1971 年 11 月出生，中国国籍，无境外永久居留权，高中学历。...2010年1月至今，担任公司董事长。"
+    },
+    {
+      "name": "罗小平",
+      "role": "董事、总经理",
+      "quote": "罗小平先生：男， 1977 年 6 月出生，中国国籍，无境外永久居留权，中专学历。...2010年1月至今，任公司董事、总经理。"
+    },
+    {
+      "name": "肖文龙",
+      "role": "董事、财务总监",
+      "quote": "肖文龙先生：男，1981 年 11 月生，中国国籍，无境外永久居留权，本科学历，高级会计师，首席合规官。...2017年7月至今，任公司董事、财务总监。"
+    },
+    {
+      "name": "李小娟",
+      "role": "董事、董事会秘书",
+      "quote": "李小娟女士：女，1993 年 3 月生，中国国籍，无境外永久居留权，本科学历。...2017年7月至今，任公司董事、董事会秘书。"
+    },
+    {
+      "name": "古范球",
+      "role": "独立董事",
+      "quote": "古范球先生：男，1970 年 8 月生，中国国籍，无境外永久居留权，本科学历，具有中国注册会计师协会执业会员和中国注册税务师资格。...2021 年 3 月至今，任公司独立董事。"
+    },
+    {
+      "name": "陈永康",
+      "role": "独立董事",
+      "quote": "陈永康先生：男，1978 年 3 月生，中国国籍，拥有希腊居留权，大专学历，...2020年9月至今，任公司独立董事。"
+    },
+    {
+      "name": "田磊",
+      "role": "副总经理",
+      "quote": "田磊先生，男，1984年8月出生，中国国籍，无境外永久居留权，本科学历。...2020年9月至今，任公司副总经理。"
+    },
+    {
+      "name": "袁春波",
+      "role": "副总经理",
+      "quote": "袁春波先生，男，1987 年 8 月出生，中国国籍，无境外永久居留权，本科学历。...2018年9月至今，任公司副总经理。"
+    },
+    {
+      "name": "陈特芳",
+      "role": "副总经理",
+      "quote": "陈特芳女士：女，1984 年 4 月出生，中国国籍，无境外永久居留权，大专学历。...2025年12月至今，任公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳市豪恩科技集团股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的控股股东",
+      "quote": "豪恩集团、控股股东 指 深圳市豪恩科技集团股份有限公司，为公司的控股股东"
+    },
+    {
+      "name": "深圳市豪恩智能物联股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司同一控股股东控制下的关联方",
+      "quote": "深圳市豪恩智能物联股份有限公司，为公司同一控股股东控制下豪恩智联 指 的关联方"
+    },
+    {
+      "name": "深圳市华恩泰科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的员工持股平台",
+      "quote": "华恩泰 指 深圳市华恩泰科技有限公司，为公司的员工持股平台"
+    },
+    {
+      "name": "深圳市佳富泰投资合伙企业（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的员工持股平台",
+      "quote": "佳富泰 指 深圳市佳富泰投资合伙企业（有限合伙），为公司的员工持股平台"
+    },
+    {
+      "name": "深圳市佳恩泰投资合伙企业（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的员工持股平台",
+      "quote": "佳恩泰 指 深圳市佳恩泰投资合伙企业（有限合伙），为公司的员工持股平台"
+    },
+    {
+      "name": "深圳市佳平泰投资合伙企业（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的员工持股平台",
+      "quote": "佳平泰 指 深圳市佳平泰投资合伙企业（有限合伙），为公司的员工持股平台"
+    },
+    {
+      "name": "德国大众",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与德国大众...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "上汽大众",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...上汽大众...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "一汽大众",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...一汽大众...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "大众安徽",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...大众安徽...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "奥迪汽车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...奥迪汽车...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "Stellantis",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...Stellantis...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "雷诺全球",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...雷诺全球...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "福特全球",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...福特全球...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...比亚迪...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "小鹏汽车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...小鹏汽车...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "理想汽车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...理想汽车...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "上汽通用五菱",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...上汽通用五菱...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "东风日产",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...东风日产...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "广汽丰田",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...广汽丰田...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "广汽本田",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...广汽本田...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "日本本田",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...日本本田...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "北京现代",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...北京现代...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "吉利汽车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...吉利汽车...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "长城汽车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...长城汽车...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "江淮汽车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...江淮汽车...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "赛力斯",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...赛力斯...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "上汽乘用车",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...上汽乘用车...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "奇瑞",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "通过多年的持续经营，公司已经形成了为国内外知名汽车厂商配套的强大能力，积累了丰富的国内外客户资源，并与...奇瑞...建立了长期、稳定的合作关系"
+    },
+    {
+      "name": "国信证券股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "保荐机构",
+      "quote": "公司聘请的报告期内履行持续督导职责的保荐机构 保荐机构名称 国信证券股份有限公司"
+    },
+    {
+      "name": "致同会计师事务所（特殊普通合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "会计师事务所",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 致同会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车电子",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,780,764,300.86",
+      "revenue_proportion": "99.60%",
+      "gross_margin": "19.98%",
+      "yoy_change": "26.39%",
+      "quote": "分行业 汽车电子 1,780,764,300.86 99.60% 1,408,937,053.31 99.51% 26.39%"
+    },
+    {
+      "name": "租赁及物业",
+      "segment_type": "other",
+      "revenue_amount": "7,068,372.07",
+      "revenue_proportion": "0.40%",
+      "gross_margin": null,
+      "yoy_change": "0.85%",
+      "quote": "租赁及物业 7,068,372.07 0.40% 7,008,503.04 0.49% 0.85%"
+    },
+    {
+      "name": "境内地区",
+      "segment_type": "region",
+      "revenue_amount": "1,218,956,591.07",
+      "revenue_proportion": "68.18%",
+      "gross_margin": "13.64%",
+      "yoy_change": "32.15%",
+      "quote": "分地区 境内地区 1,218,956,591.07 68.18% 922,376,904.91 65.14% 32.15%"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "568,876,081.86",
+      "revenue_proportion": "31.82%",
+      "gross_margin": "33.48%",
+      "yoy_change": "15.26%",
+      "quote": "分地区 境外地区 568,876,081.86 31.82% 493,568,651.44 34.86% 15.26%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "汽车电子",
+      "metric_type": "sales_volume",
+      "value": "33,867,492",
+      "period": "2025年",
+      "quote": "销售量 PCS 33,867,492"
+    },
+    {
+      "product": "汽车电子",
+      "metric_type": "production_volume",
+      "value": "39,368,921",
+      "period": "2025年",
+      "quote": "生产量 PCS 39,368,921"
+    },
+    {
+      "product": "汽车电子",
+      "metric_type": "inventory_volume",
+      "value": "8,828,635",
+      "period": "2025年",
+      "quote": "库存量 PCS 8,828,635"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "汽车智能驾驶感知产品生产项目",
+      "project_type": "fundraising_project",
+      "location": "惠州市大亚湾西区龙海三路 72 号豪恩智能科技产业园 A 栋一层东面、七层 A、B 栋",
+      "investment_amount": "22,066.8",
+      "designed_capacity": null,
+      "progress": "已按计划完成，并达到预定可使用状态",
+      "expected_completion_time": "2025年12月31日",
+      "quote": "承诺投资项目 汽车智能驾驶感知产品生产项目 2023年07月04日 是 22,066.8 9,398.23 22,224.76 100.72% 2025年12月31日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": "深圳市龙华区大浪街道同胜社区同富裕第三功能区豪恩科技集团股份有限公司厂房B号第四层",
+      "investment_amount": "14,518",
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2026年03月31日",
+      "quote": "承诺投资项目 研发中心建设项目 2023年07月04日 是 14,518 9,522 13,915 95.85% 2026年03月31日"
+    },
+    {
+      "name": "企业信息化建设项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "3,763",
+      "designed_capacity": null,
+      "progress": "进行中",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目 企业信息化建设项目 2023年07月04日 否 3,763 1,414.54 2,134.65 56.73% 2026年12月31日"
+    },
+    {
+      "name": "补充流动资金项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "8,000",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 补充流动资金项目 2023年07月04日 否 8,000 8,000 100.00% 不适用"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "CMMI Level 3",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已通过CMMI Level 3（Capability Maturity Model Integration）认证"
+    },
+    {
+      "name": "A-SPICE审核",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "截至2023年，公司已先后顺利通过大众、日产、福特、现代等重大客户A-SPICE审核"
+    },
+    {
+      "name": "ISO 26262功能安全流程认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在ASPICE开发流程基础上，公司2022年通过ISO 26262功能安全流程认证"
+    },
+    {
+      "name": "ISO/SAE 21434网络安全流程认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2023年通过ISO/SAE 21434网络安全流程认证"
+    },
+    {
+      "name": "AK2超声波传感器的ISO 26262功能安全产品认证",
+      "asset_type": "certification",
+      "related_product": "AK2超声波传感器",
+      "quantitative_info": null,
+      "quote": "2025年7月获得AK2超声波传感器的ISO 26262功能安全产品认证"
+    },
+    {
+      "name": "ISO 21448预期功能安全流程认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年12月通过ISO 21448预期功能安全流程认证"
+    },
+    {
+      "name": "IATF16949汽车行业质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了IATF16949汽车行业质量管理体系认证"
+    },
+    {
+      "name": "ISO9001质量管理认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了...ISO9001质量管理认证"
+    },
+    {
+      "name": "ISO/IEC27001信息安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了...ISO/IEC27001信息安全管理体系认证"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过了...ISO14001环境管理体系认证"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "198项",
+      "quote": "截至2025年12月31日，公司拥有软件著作权198项"
+    },
+    {
+      "name": "各类国内专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "321项，其中发明专利62项，实用新型专利158项，外观设计专利101项",
+      "quote": "拥有各类国内专利321项，其中发明专利62项，实用新型专利158项，外观设计专利101项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "56.41%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 56.41%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 39.19%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "26.83%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "1 第一名 479,742,180.01 26.83%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "11.21%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "1 第一名 206,169,572.95 11.21%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司面临客户集中度较高的风险"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司面临客户集中度较高的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司面临客户集中度较高的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着汽车智能化、网联化快速发展，更多的国内外企业不断进入汽车电子行业，市场竞争程度日益加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着汽车智能化、网联化快速发展，更多的国内外企业不断进入汽车电子行业，市场竞争程度日益加剧。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司计提存货跌价准备",
+      "related_entity": null,
+      "related_product": "存货",
+      "quote": "资产减值损失 -21,010,264.97 主要系计提存货跌价准备"
+    }
+  ]
+}

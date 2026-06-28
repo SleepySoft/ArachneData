@@ -1,0 +1,525 @@
+{
+  "company_name_mentioned": "恒玄科技（上海）股份有限公司",
+  "produces": [
+    {
+      "name": "低功耗无线计算SoC芯片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为低功耗无线计算SoC芯片的研发、设计与销售，主要包括无线音频芯片、智能可穿戴芯片和智能硬件芯片。"
+    },
+    {
+      "name": "无线音频芯片",
+      "type": "device",
+      "revenue_proportion": "2025年，公司蓝牙音频芯片收入占比降低至53%",
+      "quote": "2025年，公司蓝牙音频芯片收入占比降低至53%，智能手表/手环芯片收入占比小幅提升至35%，智能硬件及其他芯片产品收入大幅成长，占比增加至12%。"
+    },
+    {
+      "name": "智能手表/手环芯片",
+      "type": "device",
+      "revenue_proportion": "2025年，公司智能手表/手环芯片收入占比小幅提升至35%",
+      "quote": "2025年，公司蓝牙音频芯片收入占比降低至53%，智能手表/手环芯片收入占比小幅提升至35%，智能硬件及其他芯片产品收入大幅成长，占比增加至12%。"
+    },
+    {
+      "name": "智能硬件及其他芯片产品",
+      "type": "device",
+      "revenue_proportion": "2025年，公司智能硬件及其他芯片产品收入占比增加至12%",
+      "quote": "2025年，公司蓝牙音频芯片收入占比降低至53%，智能手表/手环芯片收入占比小幅提升至35%，智能硬件及其他芯片产品收入大幅成长，占比增加至12%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "晶圆制造服务",
+      "target_product": "集成电路芯片",
+      "cost_proportion": "2025年度，晶圆成本占营业成本比例为65.32%",
+      "quote": "2025年度，晶圆成本1,411,250,407.78元，占总成本比例65.32%。"
+    },
+    {
+      "name": "封装测试服务",
+      "target_product": "集成电路芯片",
+      "cost_proportion": "2025年度，封装测试费占营业成本比例为17.31%",
+      "quote": "2025年度，封装测试费374,066,888.12元，占总成本比例17.31%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能可穿戴领域（蓝牙耳机、智能手表/手环、智能眼镜）",
+      "source_product": "低功耗无线计算SoC芯片",
+      "quote": "在智能可穿戴市场，公司主要为蓝牙耳机、智能手表/手环、智能眼镜等产品提供主控芯片"
+    },
+    {
+      "name": "智能硬件领域（智能家居、无线麦克风、智能会议助手）",
+      "source_product": "低功耗无线计算SoC芯片",
+      "quote": "在智能硬件市场，公司主要为智能家居、无线麦克风、智能会议助手等端侧智能终端产品提供低功耗音视频主控及无线连接芯片。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "Liang Zhang",
+      "role": "董事长、实际控制人",
+      "quote": "Liang Zhang先生...现任恒玄科技董事长。"
+    },
+    {
+      "name": "赵国光",
+      "role": "副董事长、总经理、实际控制人",
+      "quote": "赵国光先生...现任恒玄科技副董事长、总经理。"
+    },
+    {
+      "name": "汤晓冬",
+      "role": "董事、实际控制人",
+      "quote": "汤晓冬女士...现任恒玄科技董事、董事长助理。"
+    },
+    {
+      "name": "李广平",
+      "role": "财务总监、董事会秘书",
+      "quote": "李广平女士...现任恒玄科技财务总监、董事会秘书。"
+    },
+    {
+      "name": "周震",
+      "role": "核心技术人员、研发副总裁",
+      "quote": "周震先生...2020年4月至今任公司研发副总裁。2017年12月至2022年10月任公司董事。"
+    },
+    {
+      "name": "童伟峰",
+      "role": "核心技术人员",
+      "quote": "童伟峰先生...2016年5月至今任公司高级研发工程师。"
+    },
+    {
+      "name": "陈俊",
+      "role": "核心技术人员、研发副总裁",
+      "quote": "陈俊先生...2022年1月至今任公司研发副总裁。"
+    },
+    {
+      "name": "郑涛",
+      "role": "核心技术人员",
+      "quote": "郑涛先生...2017年6月至今任公司高级研发工程师。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "台积电",
+      "relation_type": "supplier",
+      "business_details": "晶圆代工厂",
+      "quote": "晶圆代工厂 指 提供晶圆制造服务的厂商，如台积电、中芯国际等"
+    },
+    {
+      "name": "中芯国际",
+      "relation_type": "supplier",
+      "business_details": "晶圆代工厂",
+      "quote": "晶圆代工厂 指 提供晶圆制造服务的厂商，如台积电、中芯国际等"
+    },
+    {
+      "name": "三星",
+      "relation_type": "customer",
+      "business_details": "安卓手机品牌客户",
+      "quote": "公司下游客户分布广泛，主要包括：1）三星、OPPO、小米、荣耀、vivo、摩托罗拉等安卓手机品牌"
+    },
+    {
+      "name": "OPPO",
+      "relation_type": "customer",
+      "business_details": "安卓手机品牌客户",
+      "quote": "公司下游客户分布广泛，主要包括：1）三星、OPPO、小米、荣耀、vivo、摩托罗拉等安卓手机品牌"
+    },
+    {
+      "name": "小米",
+      "relation_type": "customer",
+      "business_details": "安卓手机品牌客户",
+      "quote": "公司下游客户分布广泛，主要包括：1）三星、OPPO、小米、荣耀、vivo、摩托罗拉等安卓手机品牌"
+    },
+    {
+      "name": "哈曼",
+      "relation_type": "customer",
+      "business_details": "专业音频厂商客户",
+      "quote": "2）哈曼、安克创新、漫步者、韶音、Nothing等专业音频厂商"
+    },
+    {
+      "name": "安克创新",
+      "relation_type": "customer",
+      "business_details": "专业音频厂商客户",
+      "quote": "2）哈曼、安克创新、漫步者、韶音、Nothing等专业音频厂商"
+    },
+    {
+      "name": "阿里",
+      "relation_type": "customer",
+      "business_details": "互联网和智能硬件公司客户",
+      "quote": "3）阿里、字节跳动、谷歌、九号等互联网和智能硬件公司。"
+    },
+    {
+      "name": "Bestechnic, Limited",
+      "relation_type": "subsidiary",
+      "business_details": "集成电路销售子公司",
+      "quote": "公司名称 Bestechnic, Limited，公司类型 子公司，主要业务 集成电路销售"
+    },
+    {
+      "name": "恒玄科技（北京）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "设计研发子公司",
+      "quote": "恒玄科技（北京）有限公司，子公司，设计研发"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "普通蓝牙芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "428,740,054.89元",
+      "revenue_proportion": null,
+      "gross_margin": "32.14%",
+      "yoy_change": "营业收入比上年增减（%） -17.98",
+      "quote": "普通蓝牙 营业收入 428,740,054.89元 毛利率（%） 32.14 营业收入比上年增减（%） -17.98"
+    },
+    {
+      "name": "智能蓝牙芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "1,443,505,939.65元",
+      "revenue_proportion": null,
+      "gross_margin": "35.37%",
+      "yoy_change": "营业收入比上年增减（%） -3.56",
+      "quote": "智能蓝牙 营业收入 1,443,505,939.65元 毛利率（%） 35.37 营业收入比上年增减（%） -3.56"
+    },
+    {
+      "name": "其他产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,651,642,503.73元",
+      "revenue_proportion": null,
+      "gross_margin": "43.28%",
+      "yoy_change": "营业收入比上年增减（%） 32.82",
+      "quote": "其他 营业收入 1,651,642,503.73元 毛利率（%） 43.28 营业收入比上年增减（%） 32.82"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,564,323,251.40元",
+      "revenue_proportion": null,
+      "gross_margin": "38.83%",
+      "yoy_change": "营业收入比上年增减（%） 8.75",
+      "quote": "境内 营业收入 1,564,323,251.40元 毛利率（%） 38.83 营业收入比上年增减（%） 8.75"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "1,959,565,246.87元",
+      "revenue_proportion": null,
+      "gross_margin": "38.57%",
+      "yoy_change": "营业收入比上年增减（%） 7.40",
+      "quote": "境外 营业收入 1,959,565,246.87元 毛利率（%） 38.57 营业收入比上年增减（%） 7.40"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,373,990,590.75元",
+      "revenue_proportion": null,
+      "gross_margin": "37.27%",
+      "yoy_change": "营业收入比上年增减（%） 30.66",
+      "quote": "经销 营业收入 1,373,990,590.75元 毛利率（%） 37.27 营业收入比上年增减（%） 30.66"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,149,897,907.52元",
+      "revenue_proportion": null,
+      "gross_margin": "39.59%",
+      "yoy_change": "营业收入比上年增减（%） -2.79",
+      "quote": "直销 营业收入 2,149,897,907.52元 毛利率（%） 39.59 营业收入比上年增减（%） -2.79"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "普通蓝牙",
+      "metric_type": "production_volume",
+      "value": "10,859.87 万颗",
+      "period": "2025年度",
+      "quote": "普通蓝牙 生产量 10,859.87 万颗"
+    },
+    {
+      "product": "普通蓝牙",
+      "metric_type": "sales_volume",
+      "value": "10,176.94 万颗",
+      "period": "2025年度",
+      "quote": "普通蓝牙 销售量 10,176.94 万颗"
+    },
+    {
+      "product": "普通蓝牙",
+      "metric_type": "inventory_volume",
+      "value": "1,643.70 万颗",
+      "period": "2025年末",
+      "quote": "普通蓝牙 库存量 1,643.70 万颗"
+    },
+    {
+      "product": "智能蓝牙",
+      "metric_type": "production_volume",
+      "value": "9,104.26 万颗",
+      "period": "2025年度",
+      "quote": "智能蓝牙 生产量 9,104.26 万颗"
+    },
+    {
+      "product": "智能蓝牙",
+      "metric_type": "sales_volume",
+      "value": "8,745.63 万颗",
+      "period": "2025年度",
+      "quote": "智能蓝牙 销售量 8,745.63 万颗"
+    },
+    {
+      "product": "智能蓝牙",
+      "metric_type": "inventory_volume",
+      "value": "1,588.06 万颗",
+      "period": "2025年末",
+      "quote": "智能蓝牙 库存量 1,588.06 万颗"
+    },
+    {
+      "product": "其他",
+      "metric_type": "production_volume",
+      "value": "7,530.81 万颗",
+      "period": "2025年度",
+      "quote": "其他 生产量 7,530.81 万颗"
+    },
+    {
+      "product": "其他",
+      "metric_type": "sales_volume",
+      "value": "7,543.40 万颗",
+      "period": "2025年度",
+      "quote": "其他 销售量 7,543.40 万颗"
+    },
+    {
+      "product": "其他",
+      "metric_type": "inventory_volume",
+      "value": "1,118.15 万颗",
+      "period": "2025年末",
+      "quote": "其他 库存量 1,118.15 万颗"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智能蓝牙音频芯片升级项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "60,000.00 万元",
+      "designed_capacity": null,
+      "progress": "研发测试阶段",
+      "expected_completion_time": null,
+      "quote": "面向智能耳机的蓝牙音频芯片工艺升级项目 预计总投资规模 60,000.00 万元 本期投入金额 18,611.50 万元 进展或阶段性成果 研发测试阶段"
+    },
+    {
+      "name": "WiFi音频芯片研发及产业化项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "40,000.00 万元",
+      "designed_capacity": null,
+      "progress": "研发测试阶段",
+      "expected_completion_time": null,
+      "quote": "面向智能家居的WiFi/蓝牙双模音频芯片工艺升级 预计总投资规模 40,000.00 万元 本期投入金额 18,282.65 万元 进展或阶段性成果 研发测试阶段"
+    },
+    {
+      "name": "智能眼镜SoC芯片项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "15,000.00 万元",
+      "designed_capacity": null,
+      "progress": "研发阶段",
+      "expected_completion_time": null,
+      "quote": "智能眼镜SoC芯片项目 预计总投资规模 15,000.00 万元 本期投入金额 14,033.56 万元 进展或阶段性成果 研发阶段"
+    },
+    {
+      "name": "智能手表SoC芯片项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "23,000.00 万元",
+      "designed_capacity": null,
+      "progress": "研发测试阶段",
+      "expected_completion_time": null,
+      "quote": "智能手表SoC芯片项目 预计总投资规模 23,000.00 万元 本期投入金额 8,475.01 万元 进展或阶段性成果 研发测试阶段"
+    },
+    {
+      "name": "面向智能家居的低功耗智能音视频平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "25,000.00 万元",
+      "designed_capacity": null,
+      "progress": "研发测试阶段",
+      "expected_completion_time": null,
+      "quote": "面向智能家居的低功耗智能音视频平台 预计总投资规模 25,000.00 万元 本期投入金额 9,660.76 万元 进展或阶段性成果 研发测试阶段"
+    },
+    {
+      "name": "在建工程",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "期末余额 214,178,854.36 元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "在建工程 期末数 214,178,854.36元 上期期末数 136,404,811.54元 系本期在建工程投入增加"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "低功耗多核异构SoC技术",
+      "asset_type": "core_technology",
+      "related_product": "可穿戴主控芯片",
+      "quantitative_info": null,
+      "quote": "（1）低功耗多核异构SoC技术 ... 公司研发的可穿戴主控芯片，单芯片集成了多核异构CPU、音频DSP、嵌入式NPU、ISP图像和视觉系统、超低功耗蓝牙/Wi-Fi基带等。"
+    },
+    {
+      "name": "超低功耗Wi-Fi6技术",
+      "asset_type": "core_technology",
+      "related_product": "可穿戴SoC芯片",
+      "quantitative_info": null,
+      "quote": "（2）超低功耗Wi-Fi技术 ... 公司Wi-Fi6技术已应用于可穿戴SoC芯片，面向可穿戴和无线音频市场，可实现超低功耗和低延时传输，通信功耗接近蓝牙水平。"
+    },
+    {
+      "name": "领先的蓝牙技术（BT/BLE双模蓝牙6.0，蓝牙7.0）",
+      "asset_type": "core_technology",
+      "related_product": "可穿戴SoC芯片",
+      "quantitative_info": null,
+      "quote": "（3）领先的蓝牙技术。公司智能可穿戴芯片全面支持BT/BLE双模蓝牙6.0协议，实现了Channel Sounding（信道探测）的完整支持。公司新一代可穿戴SoC旗舰芯片将升级至蓝牙7.0，支持HDT（High Data Throughput）技术"
+    },
+    {
+      "name": "可穿戴和智能硬件SoC软件平台",
+      "asset_type": "technical_platform",
+      "related_product": "智能手表、智能眼镜等",
+      "quantitative_info": null,
+      "quote": "（5）可穿戴和智能硬件SoC软件平台。公司基于NuttX操作系统构建了自主可控的SoC软件平台，为智能手表、智能眼镜和其他各类智能硬件提供从底层驱动到上层应用的全栈解决方案。"
+    },
+    {
+      "name": "BECO嵌入式AI协处理器",
+      "asset_type": "core_technology",
+      "related_product": "音频处理芯片",
+      "quantitative_info": null,
+      "quote": "公司自主研发了BECO嵌入式AI协处理器及对应指令集，和主CPU核心配合工作，更好地完成基于神经网络AI算法的各种音频处理，同时保持更低的功耗水准。"
+    },
+    {
+      "name": "智能眼镜ISP技术",
+      "asset_type": "core_technology",
+      "related_product": "智能眼镜芯片",
+      "quantitative_info": null,
+      "quote": "（9）智能眼镜ISP技术。公司自研用于智能眼镜的低功耗高性能ISP技术，凭借卓越的硬件性能与深度定制的影像链路，很好适配了AI眼镜对实时视觉感知与超清记录的严苛需求。"
+    },
+    {
+      "name": "6nm射频技术",
+      "asset_type": "core_technology",
+      "related_product": "SoC芯片",
+      "quantitative_info": null,
+      "quote": "（7）6nm射频技术。公司SoC芯片在6nm工艺下单芯片集成了射频、音频、电源管理等模拟电路，以及多核处理器、蓝牙/Wi-Fi基带和丰富接口。"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至报告期末，公司累计申请发明专利760项，累计获得发明专利批准287项。",
+      "quote": "截至报告期末，公司累计申请发明专利760项，累计获得发明专利批准287项。"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计申请数38个，累计获得数35个。",
+      "quote": "实用新型专利 申请数（个） 3 获得数（个） 6 累计申请数（个） 38 累计获得数（个） 35"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "276,326.79万元，占年度销售总额78.40%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额276,326.79万元，占年度销售总额78.40%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "200,131.68万元，占年度采购总额80.26%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额200,131.68万元，占年度采购总额80.26%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "集成电路设计行业产品更新换代及技术迭代速度快，若公司无法保持较快的技术更迭周期，并持续推出具有竞争力的新产品以满足市场新需求，则将无法维持新老产品的滚动轮替及收入的持续增长。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、 因技术升级导致的产品迭代风险 集成电路设计行业产品更新换代及技术迭代速度快..."
+    },
+    {
+      "risk_type": "other",
+      "description": "研发失败风险：公司在研发过程中关键技术未能突破、产品性能指标未达预期，或者开发的产品不能契合市场需求，公司将面临研发失败的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、 研发失败风险 公司的主营业务为低功耗无线计算SoC芯片的研发、设计与销售...由于技术的产品化和市场化始终具有一定的不确定性..."
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术泄密风险：如果公司在经营过程中因核心技术信息保管不善导致核心技术泄密，将对公司的竞争力产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、 核心技术泄密风险 通过持续技术创新，公司自主研发了一系列核心技术..."
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术人才流失风险：如果公司不能持续加强对原有核心技术人才的激励和新人才的引进，则存在核心技术人才流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、 核心技术人才流失风险 集成电路设计行业是典型的技术密集型行业..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "产品终端应用形态相对单一的风险：公司芯片目前主要应用于智能可穿戴和智能硬件类低功耗智能音视频终端，产品终端应用形态呈现相对单一的特征。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、 产品终端应用形态相对单一的风险 公司主营业务为低功耗无线计算SoC芯片的研发、设计与销售，芯片目前主要应用于智能可穿戴和智能硬件类低功耗智能音视频终端..."
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "委托加工生产和供应商集中风险：公司向现有供应商支付的晶圆采购及封测服务费合计占当期采购总额的比重仍然较高。如果现有晶圆及封测供应商的工厂发生重大自然灾害等突发事件...将对公司产品的出货和销售造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、委托加工生产和供应商集中风险 公司采取Fabless的运营模式...公司向现有供应商支付的晶圆采购及封测服务费合计占当期采购总额的比重仍然较高..."
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价风险：若市场需求环境发生变化、市场竞争加剧或公司不能有效拓宽销售渠道、优化库存管理、合理控制存货规模，可能导致产品滞销、存货积压，从而存货跌价风险提高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、存货跌价风险 公司存货主要由原材料、委托加工物资、库存商品、发出商品构成。存货规模随业务规模扩大而逐年上升..."
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动风险：随着公司总体业务规模扩大，境外销售及采购金额预计将进一步增加，未来若人民币与美元汇率发生大幅波动，将对公司业绩造成一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、汇率波动风险 报告期内，公司存在境外销售和采购、以美元报价和结算的情况..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "税收优惠政策变动风险：如果未来国家上述税收优惠政策发生变化，或者本公司不再具备享受相应税收优惠的资质，则公司可能面临因税收优惠变动或减少，从而降低未来盈利的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、税收优惠政策变动风险 公司于2025年度通过高新技术企业认证复审...如果未来国家上述税收优惠政策发生变化..."
+    },
+    {
+      "risk_type": "other",
+      "description": "毛利率波动风险：未来如果行业竞争加剧或公司无法通过持续研发完成产品的更新换代导致公司产品毛利率下降，将对公司的业绩产生较大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、毛利率波动风险 公司产品主要应用于智能可穿戴和智能硬件领域..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧风险：公司面临国际大厂的竞争，其在整体资产规模、产品线布局上与公司相比有着显著优势。公司如未能将现有的市场地位和核心技术转化为更多的市场份额，则会面临更为激烈的竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "低功耗无线计算SoC芯片市场的快速发展以及技术和产业链的成熟，吸引了越来越多芯片厂商进入并研发相关产品。公司面临国际大厂的竞争..."
+    },
+    {
+      "risk_type": "other",
+      "description": "知识产权风险：未来不排除竞争对手或第三方采取恶意诉讼的策略，阻滞公司市场拓展的可能性，也不排除公司与竞争对手或第三方产生其他知识产权纠纷的可能。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）知识产权风险 ... 未来不排除竞争对手或第三方采取恶意诉讼的策略，阻滞公司市场拓展的可能性..."
+    },
+    {
+      "risk_type": "other",
+      "description": "技术授权风险：公司研发过程中需要获取相关EDA工具和IP供应商的技术授权。如果国际政治经济局势、知识产权保护等发生意外或不可抗力因素，EDA工具和IP供应商不对公司进行技术授权，则将对公司的经营产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）技术授权风险 公司研发过程中需要获取相关EDA工具和IP供应商的技术授权..."
+    }
+  ]
+}

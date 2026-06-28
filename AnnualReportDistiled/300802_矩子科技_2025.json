@@ -1,0 +1,380 @@
+{
+  "company_name_mentioned": "上海矩子科技股份有限公司",
+  "produces": [
+    {
+      "name": "机器视觉设备",
+      "type": "device",
+      "revenue_proportion": "46.41%",
+      "quote": "分产品 机器视觉设备 359,038,931.31 46.41%"
+    },
+    {
+      "name": "控制线缆组件",
+      "type": "component",
+      "revenue_proportion": "40.60%",
+      "quote": "分产品 控制线缆组件 314,077,478.73 40.60%"
+    },
+    {
+      "name": "控制单元及设备",
+      "type": "device",
+      "revenue_proportion": "11.74%",
+      "quote": "分产品 控制单元及设备 90,805,884.17 11.74%"
+    },
+    {
+      "name": "自动光学检测设备（AOI）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司机器视觉设备主要包括自动光学检测设备（Automated Optical Inspection，简称AOI）"
+    },
+    {
+      "name": "3D在线X射线检查设备（AXI）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "基于X射线成像技术的3D在线X射线检查设备（Automatic X-ray Inspection，简称AXI）"
+    },
+    {
+      "name": "高速高精度点胶机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "高速高精度点胶机、镭雕机等产品"
+    },
+    {
+      "name": "镭雕机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "高速高精度点胶机、镭雕机等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司由于产品结构复杂、型号较多等原因，采购的原材料较为分散，品种多达近万种，其中主要原材料包括光学元器件、连接器、线材、机械五金加工件等。"
+    },
+    {
+      "name": "前五名供应商采购",
+      "target_product": null,
+      "cost_proportion": "19.71%",
+      "quote": "前五名供应商合计采购金额（元） 73,381,602.27 前五名供应商合计采购金额占年度采购总额比例 19.71%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电子信息制造",
+      "source_product": "机器视觉设备",
+      "quote": "广泛应用于电子信息制造、工业控制、金融电子、新能源、汽车等多个国民经济重要领域"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "控制线缆组件",
+      "quote": "能够满足工业、金融、医疗、汽车等多个国民经济重要领域的智能设备企业对控制线缆组件的多样化需求"
+    },
+    {
+      "name": "金融电子",
+      "source_product": "控制线缆组件",
+      "quote": "能够满足工业、金融、医疗、汽车等多个国民经济重要领域的智能设备企业对控制线缆组件的多样化需求"
+    },
+    {
+      "name": "新能源",
+      "source_product": "机器视觉设备",
+      "quote": "产品主要应用于电子信息制造、工业控制、半导体、新能源汽车等多个国民经济重要领域"
+    },
+    {
+      "name": "汽车",
+      "source_product": "机器视觉设备",
+      "quote": "产品主要应用于电子信息制造、工业控制、半导体、新能源汽车等多个国民经济重要领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨勇",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人杨勇、主管会计工作负责人吴海欣及会计机构负责人(会计主管人员)陈锦丹声明... 杨勇先生，现任本公司董事长、总经理。"
+    },
+    {
+      "name": "徐晨明",
+      "role": "董事、技术总监",
+      "quote": "徐晨明先生...现任本公司董事、技术总监。"
+    },
+    {
+      "name": "崔岺",
+      "role": "董事、副总经理",
+      "quote": "崔岺先生...现任本公司董事、副总经理。"
+    },
+    {
+      "name": "吴海欣",
+      "role": "财务总监",
+      "quote": "吴海欣女士...现任本公司财务总监。"
+    },
+    {
+      "name": "刘阳",
+      "role": "董事会秘书",
+      "quote": "刘阳女士...现任公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "NCR集团",
+      "relation_type": "customer",
+      "business_details": "主要客户包括全球领先的金融设备制造商NCR集团",
+      "quote": "产品远销海外，主要客户包括全球领先的金融设备制造商NCR集团、Diebold集团"
+    },
+    {
+      "name": "Diebold集团",
+      "relation_type": "customer",
+      "business_details": "主要客户包括全球知名的自助服务产品供应商和服务商之一Diebold集团",
+      "quote": "产品远销海外，主要客户包括全球领先的金融设备制造商NCR集团、Diebold集团"
+    },
+    {
+      "name": "Ultra Clean集团",
+      "relation_type": "customer",
+      "business_details": "主要客户包括知名半导体设备制造商Ultra Clean集团",
+      "quote": "知名半导体设备制造商Ultra Clean集团"
+    },
+    {
+      "name": "和硕集团",
+      "relation_type": "customer",
+      "business_details": "公司产品已获得诸如和硕集团等行业标杆客户的高度认可",
+      "quote": "公司产品性能已达到国际先进水平，并已获得诸如和硕集团、比亚迪、京东方等行业标杆客户的高度认可"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "公司产品已获得诸如比亚迪等行业标杆客户的高度认可",
+      "quote": "公司产品性能已达到国际先进水平，并已获得诸如和硕集团、比亚迪、京东方等行业标杆客户的高度认可"
+    },
+    {
+      "name": "京东方",
+      "relation_type": "customer",
+      "business_details": "公司产品已获得诸如京东方等行业标杆客户的高度认可",
+      "quote": "公司产品性能已达到国际先进水平，并已获得诸如和硕集团、比亚迪、京东方等行业标杆客户的高度认可"
+    },
+    {
+      "name": "海康威视",
+      "relation_type": "customer",
+      "business_details": "公司已成为海康威视等国内外知名企业或其代工厂的重要机器视觉设备供应商",
+      "quote": "目前，公司已成为苹果、华为、小米、比亚迪、京东方、海康威视等国内外知名企业或其代工厂的重要机器视觉设备供应商"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "机器视觉设备",
+      "segment_type": "product_line",
+      "revenue_amount": "359,038,931.31元",
+      "revenue_proportion": "46.41%",
+      "gross_margin": "45.74%",
+      "yoy_change": "39.53%",
+      "quote": "分产品 机器视觉设备 359,038,931.31 46.41% 39.53%... 毛利率 45.74%"
+    },
+    {
+      "name": "控制线缆组件",
+      "segment_type": "product_line",
+      "revenue_amount": "314,077,478.73元",
+      "revenue_proportion": "40.60%",
+      "gross_margin": "16.50%",
+      "yoy_change": "7.36%",
+      "quote": "分产品 控制线缆组件 314,077,478.73 40.60% 7.36%... 毛利率 16.50%"
+    },
+    {
+      "name": "控制单元及设备",
+      "segment_type": "product_line",
+      "revenue_amount": "90,805,884.17元",
+      "revenue_proportion": "11.74%",
+      "gross_margin": "17.48%",
+      "yoy_change": "-13.42%",
+      "quote": "分产品 控制单元及设备 90,805,884.17 11.74% -13.42%... 毛利率 17.48%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "509,347,625.85元",
+      "revenue_proportion": "65.84%",
+      "gross_margin": "36.66%",
+      "yoy_change": "6.47%",
+      "quote": "分地区 国内 509,347,625.85 65.84% 6.47%... 毛利率 36.66%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "263,711,202.48元",
+      "revenue_proportion": "34.09%",
+      "gross_margin": "18.22%",
+      "yoy_change": "52.08%",
+      "quote": "分地区 境外 263,711,202.48 34.09% 52.08%... 毛利率 18.22%"
+    },
+    {
+      "name": "代理",
+      "segment_type": "sales_channel",
+      "revenue_amount": "166,350,224.68元",
+      "revenue_proportion": "21.50%",
+      "gross_margin": null,
+      "yoy_change": "30.73%",
+      "quote": "分销售模式 代理 166,350,224.68 21.50% 30.73%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "607,264,071.62元",
+      "revenue_proportion": "78.50%",
+      "gross_margin": null,
+      "yoy_change": "13.53%",
+      "quote": "分销售模式 直销 607,264,071.62 78.50% 13.53%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "机器视觉设备",
+      "metric_type": "sales_volume",
+      "value": "1,303 台",
+      "period": "2025年",
+      "quote": "机器视觉设备 销售量 台 1,303 1,107 17.71%"
+    },
+    {
+      "product": "机器视觉设备",
+      "metric_type": "production_volume",
+      "value": "1,426 台",
+      "period": "2025年",
+      "quote": "机器视觉设备 生产量 台 1,426 1,150 24.00%"
+    },
+    {
+      "product": "机器视觉设备",
+      "metric_type": "inventory_volume",
+      "value": "482 台",
+      "period": "2025年末",
+      "quote": "机器视觉设备 库存量 台 482 374 28.88%"
+    },
+    {
+      "product": "控制线缆组件",
+      "metric_type": "sales_volume",
+      "value": "713.24 万件",
+      "period": "2025年",
+      "quote": "控制线缆组件 销售量 万件 713.24 960.74 -25.76%"
+    },
+    {
+      "product": "控制线缆组件",
+      "metric_type": "production_volume",
+      "value": "715.65 万件",
+      "period": "2025年",
+      "quote": "控制线缆组件 生产量 万件 715.65 977.92 -26.82%"
+    },
+    {
+      "product": "控制线缆组件",
+      "metric_type": "inventory_volume",
+      "value": "50.28 万件",
+      "period": "2025年末",
+      "quote": "控制线缆组件 库存量 万件 50.28 63.72 -21.09%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "机器视觉检测设备产能扩张建设项目",
+      "project_type": "fundraising_project",
+      "location": "苏州",
+      "investment_amount": "13,738.47万元",
+      "designed_capacity": null,
+      "progress": "暂缓实施",
+      "expected_completion_time": null,
+      "quote": "机器视觉检测设备产能扩张建设项目... 投资总额 13,738.47... 截至报告期末，该募投项目因施工单位问题仍处于暂缓实施状态。"
+    },
+    {
+      "name": "马来西亚生产基地",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚槟城",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "生产运营稳步推进，产能逐步释放",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司马来西亚生产基地生产运营稳步推进，随着生产管理体系逐步完善及产能逐步释放，相关产品交付能力持续提升。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "机器视觉核心技术",
+      "asset_type": "core_technology",
+      "related_product": "机器视觉设备",
+      "quantitative_info": null,
+      "quote": "公司依托多年在机器视觉领域的技术积累，自主开发机器视觉核心软件平台，在图像处理算法、深度学习算法、光学成像系统、运动控制系统以及整机系统集成等方面形成了完善的技术体系。"
+    },
+    {
+      "name": "图像处理底层算法",
+      "asset_type": "core_technology",
+      "related_product": "机器视觉设备",
+      "quantitative_info": null,
+      "quote": "包括公司自主开发的图像处理底层算法、高精度光学成像系统及其核心零部件"
+    },
+    {
+      "name": "AI算法",
+      "asset_type": "core_technology",
+      "related_product": "机器视觉设备",
+      "quantitative_info": null,
+      "quote": "公司持续推进AI人工智能技术在工业检测场景中的应用，现已全面将AI算法深度应用于多种场景的缺陷检测环节"
+    },
+    {
+      "name": "自主知识产权和自主品牌系列产品",
+      "asset_type": "other",
+      "related_product": "机器视觉设备",
+      "quantitative_info": null,
+      "quote": "公司已拥有自主知识产权和自主品牌的3D SPI、2D/3D AOI、半导体AOI、Mini Led AOI、3D在线X射线检查设备AXI、高速高精度点胶机、镭雕机等产品"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "39.60%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 306,327,000.70 前五名客户合计销售金额占年度销售总额比例 39.60%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "19.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 73,381,602.27 前五名供应商合计采购金额占年度采购总额比例 19.71%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司保税区/转口和境外收入主要以美元进行报价和结算，人民币对美元汇率的波动具有不确定性，将对公司经营业绩造成影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内，公司主营业务中销往保税区/转口、境外收入总额为26,134.87万元...人民币对美元汇率的波动具有不确定性，将对公司经营业绩造成影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司机器视觉设备及控制线缆组件主要原材料涉及铁、钢材、铜等，原材料的价格波动会对公司制造成本带来一定影响。",
+      "related_entity": null,
+      "related_product": "机器视觉设备及控制线缆组件",
+      "quote": "公司机器视觉设备及控制线缆组件主要原材料涉及铁、钢材、铜等，原材料的价格波动会对公司制造成本带来一定影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "报告期内公司前五大客户销售总额为30,632.7万元，占当期营业收入总额的39.60%，客户集中度相对较高。公司存在由于主要客户经营情况发生变化而导致公司经营业绩下滑的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内公司前五大客户销售总额为30,632.7万元，占当期营业收入总额的39.60%，客户集中度相对较高。公司存在由于主要客户经营情况发生变化而导致公司经营业绩下滑的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着下游行业持续发展，市场规模的不断扩大将吸引更多的竞争者进入，激烈的市场竞争可能导致行业价格和利润率下降，并对公司目前的市场地位产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "虽然公司在行业内具有技术、品牌等综合优势...但随着下游行业持续发展，市场规模的不断扩大将吸引更多的竞争者进入，激烈的市场竞争可能导致行业价格和利润率下降"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "当前全球经济形势和贸易格局面临的不确定因素较多，宏观经济变化、下游行业需求波动等因素短期内可能对公司业务的发展会造成一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前全球经济形势和贸易格局面临的不确定因素较多，宏观经济变化、下游行业需求波动等因素短期内可能对公司业务的发展会造成一定影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "全球供应链重构进一步加速。为应对供应链重构带来的挑战，公司需要在经贸区域化发展趋势下积极调整经营策略和产业布局。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在当前的政治经济形势之下，全球供应链重构进一步加速。为应对供应链重构带来的挑战，公司需要在经贸区域化发展趋势下积极调整经营策略和产业布局。"
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "company_name_mentioned": "成都大宏立机器股份有限公司",
+  "produces": [
+    {
+      "name": "单缸液压圆锥式破碎机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为PYY"
+    },
+    {
+      "name": "多缸液压圆锥式破碎机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为PYD"
+    },
+    {
+      "name": "旋回破碎机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为PX"
+    },
+    {
+      "name": "颚式破碎机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为PE、PEV等"
+    },
+    {
+      "name": "高效冲击式破碎机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为XHL"
+    },
+    {
+      "name": "反击式破碎机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为PF"
+    },
+    {
+      "name": "振动式分选筛",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为YK"
+    },
+    {
+      "name": "水平椭圆筛",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该产品系列编号为TK"
+    },
+    {
+      "name": "高压辊磨机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为G"
+    },
+    {
+      "name": "螺旋洗砂机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为LX"
+    },
+    {
+      "name": "振动式给料机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为ZSW"
+    },
+    {
+      "name": "惯性振动式给料机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为ZZG"
+    },
+    {
+      "name": "带式输送机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该系列产品编号为TDY"
+    },
+    {
+      "name": "尾砂回收一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该产品系列编号为HS"
+    },
+    {
+      "name": "脱水筛",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司该产品系列编号为HS-T"
+    },
+    {
+      "name": "300型砂石破碎站",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "极大程度降低项目占地面积、土建施工量、厂房建设和安装时间，兼具固定破碎站的稳定性和移动破碎站的便捷性"
+    },
+    {
+      "name": "破碎筛分成套设备",
+      "type": "service",
+      "revenue_proportion": "矿山机械制造行业收入占营业收入比重98.41%",
+      "quote": "公司以创新为驱动，专注于砂石、矿山破碎筛分成套设备的研发、生产与销售，致力于为客户提供一体化、环保、智能的破碎生产装备和整体解决方案"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "矿山机械制造",
+      "cost_proportion": null,
+      "quote": "原材料成本占矿山机械制造业主营业务成本的比重为81.92%"
+    },
+    {
+      "name": "电机",
+      "target_product": "矿山机械制造",
+      "cost_proportion": null,
+      "quote": "原材料成本占矿山机械制造业主营业务成本的比重为81.92%"
+    },
+    {
+      "name": "铁铸件",
+      "target_product": "生产经营所需产品",
+      "cost_proportion": null,
+      "quote": "采购生产经营所需的铁铸件产品"
+    }
+  ],
+  "applications": [
+    {
+      "name": "砂石骨料开采加工",
+      "source_product": "破碎筛分成套设备",
+      "quote": "公司下游客户主要集中于砂石矿山开采加工领域、金属矿山开采加工领域"
+    },
+    {
+      "name": "金属矿山开采加工",
+      "source_product": "破碎筛分成套设备",
+      "quote": "公司下游客户主要集中于砂石矿山开采加工领域、金属矿山开采加工领域"
+    },
+    {
+      "name": "交通运输基础设施",
+      "source_product": "砂石骨料",
+      "quote": "公司产成品可广泛应用于交通运输基础设施、房屋建筑、水利水电以及机械制造、电子工业领域"
+    },
+    {
+      "name": "房屋建筑",
+      "source_product": "砂石骨料",
+      "quote": "公司产成品可广泛应用于交通运输基础设施、房屋建筑、水利水电以及机械制造、电子工业领域"
+    },
+    {
+      "name": "水利水电",
+      "source_product": "砂石骨料",
+      "quote": "公司产成品可广泛应用于交通运输基础设施、房屋建筑、水利水电以及机械制造、电子工业领域"
+    },
+    {
+      "name": "机械制造",
+      "source_product": "砂石骨料",
+      "quote": "公司产成品可广泛应用于交通运输基础设施、房屋建筑、水利水电以及机械制造、电子工业领域"
+    },
+    {
+      "name": "电子工业",
+      "source_product": "砂石骨料",
+      "quote": "公司产成品可广泛应用于交通运输基础设施、房屋建筑、水利水电以及机械制造、电子工业领域"
+    },
+    {
+      "name": "建筑固废回收",
+      "source_product": "破碎筛分成套设备",
+      "quote": "形成了覆盖砂石、金属矿山、建筑固废回收生产过程中给料、破碎、筛分、输送、清洗、回收等各个环节的完整产品系列"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "甘德宏",
+      "role": "董事长、总经理",
+      "quote": "公司负责人甘德宏、主管会计工作负责人 LI ZEQUAN 及会计机构负责人(会计主管人员)叶嘉俊声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "LI ZEQUAN",
+      "role": "董事、董事会秘书、财务总监",
+      "quote": "公司负责人甘德宏、主管会计工作负责人 LI ZEQUAN 及会计机构负责人(会计主管人员)叶嘉俊声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张文秀",
+      "role": "董事",
+      "quote": "张文秀女士...现任大宏立战略办公室主任；2025年6月至今任大宏立董事。"
+    },
+    {
+      "name": "甘德君",
+      "role": "董事、副总经理",
+      "quote": "甘德君先生...2022年 6月至 2025年 6月任大宏立董事；2013年至今任大宏立副总经理。"
+    },
+    {
+      "name": "姜燕",
+      "role": "职工代表董事",
+      "quote": "姜燕女士...2025年6月至今任大宏立职工代表董事。"
+    },
+    {
+      "name": "李西臣",
+      "role": "独立董事",
+      "quote": "李西臣女士...2024年1月至今任大宏立独立董事。"
+    },
+    {
+      "name": "徐正松",
+      "role": "独立董事",
+      "quote": "徐正松先生...2025年 6月至今任大宏立独立董事。"
+    },
+    {
+      "name": "甘泽清",
+      "role": "副总经理",
+      "quote": "甘泽清先生...2025年 6月至今任大宏立副总经理。"
+    },
+    {
+      "name": "周杰",
+      "role": "副总经理",
+      "quote": "周杰先生...2025年 6月至今任大宏立副总经理。"
+    },
+    {
+      "name": "李海林",
+      "role": "副总经理",
+      "quote": "李海林先生...2025年 6月至今任大宏立副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "西藏大宏立实业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "未实际开展业务",
+      "quote": "法定代表人/单位负责人 甘德宏；主要经营业务或管理活动 未实际开展业务"
+    },
+    {
+      "name": "成都大宏立建筑工程有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "建筑机电设备和钢结构施工及安装",
+      "quote": "公司名称 成都大宏立建筑工程有限责任公司；主要业务 建筑机电设备和钢结构施工及安装"
+    },
+    {
+      "name": "成都大宏立机电安装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "机电工程安装",
+      "quote": "公司名称 成都大宏立机电安装有限公司；主要业务 机电工程安装"
+    },
+    {
+      "name": "成都雷电鸟科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "非同一控制下合并取得",
+      "quote": "成都雷电鸟科技有限公司 非同一控制下合并取得"
+    },
+    {
+      "name": "成都大宏立盛鼎劳务有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "新设成立",
+      "quote": "成都大宏立盛鼎劳务有限责任公司 新设成立"
+    },
+    {
+      "name": "成都宏邑鑫达机械有限公司",
+      "relation_type": "customer",
+      "business_details": "销售废钢、废铁",
+      "quote": "关联交易方 成都宏邑鑫达机械有限公司；关联关系 实际控制人张文秀之妹夫吴成俊控制企业；关联交易类型 销售；关联交易内容 废钢、废铁"
+    },
+    {
+      "name": "成都宏邑鑫达机械有限公司",
+      "relation_type": "supplier",
+      "business_details": "采购生产经营所需的铁铸件产品",
+      "quote": "关联交易方 成都宏邑鑫达机械有限公司；关联关系 实际控制人张文秀之妹夫吴成俊控制企业；关联交易类型 采购；关联交易内容 生产经营所需的铁铸件产品"
+    },
+    {
+      "name": "大信会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计服务",
+      "quote": "公司聘请的会计师事务所；会计师事务所名称 大信会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "中铁大桥局集团有限公司第五工程分公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司前5大客户资料；序号 客户名称 销售额（元） 占年度销售总额比例；2 中铁大桥局集团有限公司第五工程分公司 10,594,446.04 3.22%"
+    },
+    {
+      "name": "中铁大桥局集团有限公司",
+      "relation_type": "customer",
+      "business_details": "大型央企",
+      "quote": "公司成为大型央企（如中铁、中铁建、中电建、中能建等）及地方国有企业的合作伙伴。"
+    },
+    {
+      "name": "中铁建",
+      "relation_type": "customer",
+      "business_details": "大型央企",
+      "quote": "公司成为大型央企（如中铁、中铁建、中电建、中能建等）及地方国有企业的合作伙伴。"
+    },
+    {
+      "name": "中电建",
+      "relation_type": "customer",
+      "business_details": "大型央企",
+      "quote": "公司成为大型央企（如中铁、中铁建、中电建、中能建等）及地方国有企业的合作伙伴。"
+    },
+    {
+      "name": "中能建",
+      "relation_type": "customer",
+      "business_details": "大型央企",
+      "quote": "公司成为大型央企（如中铁、中铁建、中电建、中能建等）及地方国有企业的合作伙伴。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "矿山机械制造",
+      "segment_type": "product_line",
+      "revenue_amount": "324,195,024.06元",
+      "revenue_proportion": "98.41%",
+      "gross_margin": "31.74%",
+      "yoy_change": "-11.49%",
+      "quote": "分行业；矿山机械制造；营业收入 324,195,024.06；占营业收入比重 98.41%；同比增减 -11.49%；毛利率 31.74%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "5,250,672.75元",
+      "revenue_proportion": "1.59%",
+      "gross_margin": null,
+      "yoy_change": "-5.17%",
+      "quote": "分行业；其他；营业收入 5,250,672.75；占营业收入比重 1.59%；同比增减 -5.17%"
+    },
+    {
+      "name": "破碎设备",
+      "segment_type": "product_line",
+      "revenue_amount": "145,634,283.54元",
+      "revenue_proportion": "44.21%",
+      "gross_margin": "30.64%",
+      "yoy_change": "1.61%",
+      "quote": "分产品；破碎设备；营业收入 145,634,283.54；占营业收入比重 44.21%；同比增减 1.61%；毛利率 30.64%"
+    },
+    {
+      "name": "筛分设备",
+      "segment_type": "product_line",
+      "revenue_amount": "50,988,167.62元",
+      "revenue_proportion": "15.48%",
+      "gross_margin": "31.53%",
+      "yoy_change": "-16.76%",
+      "quote": "分产品；筛分设备；营业收入 50,988,167.62；占营业收入比重 15.48%；同比增减 -16.76%；毛利率 31.53%"
+    },
+    {
+      "name": "输送设备",
+      "segment_type": "product_line",
+      "revenue_amount": "14,452,762.06元",
+      "revenue_proportion": "4.39%",
+      "gross_margin": null,
+      "yoy_change": "-45.89%",
+      "quote": "分产品；输送设备；营业收入 14,452,762.06；占营业收入比重 4.39%；同比增减 -45.89%"
+    },
+    {
+      "name": "配件",
+      "segment_type": "product_line",
+      "revenue_amount": "79,473,987.95元",
+      "revenue_proportion": "24.12%",
+      "gross_margin": "37.81%",
+      "yoy_change": "-19.85%",
+      "quote": "分产品；配件；营业收入 79,473,987.95；占营业收入比重 24.12%；同比增减 -19.85%；毛利率 37.81%"
+    },
+    {
+      "name": "二手设备",
+      "segment_type": "product_line",
+      "revenue_amount": "17,176,213.62元",
+      "revenue_proportion": "5.21%",
+      "gross_margin": null,
+      "yoy_change": "24.89%",
+      "quote": "分产品；二手设备；营业收入 17,176,213.62；占营业收入比重 5.21%；同比增减 24.89%"
+    },
+    {
+      "name": "安装维修及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "16,469,609.27元",
+      "revenue_proportion": "5.00%",
+      "gross_margin": null,
+      "yoy_change": "-25.47%",
+      "quote": "分产品；安装维修及其他；营业收入 16,469,609.27；占营业收入比重 5.00%；同比增减 -25.47%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "315,223,089.27元",
+      "revenue_proportion": "95.68%",
+      "gross_margin": "30.63%",
+      "yoy_change": "-13.98%",
+      "quote": "分地区；国内；营业收入 315,223,089.27；占营业收入比重 95.68%；同比增减 -13.98%；毛利率 30.63%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "14,222,607.54元",
+      "revenue_proportion": "4.32%",
+      "gross_margin": null,
+      "yoy_change": "163.71%",
+      "quote": "分地区；国外；营业收入 14,222,607.54；占营业收入比重 4.32%；同比增减 163.71%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "323,923,843.74元",
+      "revenue_proportion": "98.32%",
+      "gross_margin": "31.35%",
+      "yoy_change": "-11.61%",
+      "quote": "分销售模式；直销；营业收入 323,923,843.74；占营业收入比重 98.32%；同比增减 -11.61%；毛利率 31.35%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,521,853.07元",
+      "revenue_proportion": "1.68%",
+      "gross_margin": null,
+      "yoy_change": "3.48%",
+      "quote": "分销售模式；经销；营业收入 5,521,853.07；占营业收入比重 1.68%；同比增减 3.48%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "矿山机械制造业（破碎筛分设备）",
+      "metric_type": "sales_volume",
+      "value": "797台",
+      "period": "2025年",
+      "quote": "销售量 台 2025年 797"
+    },
+    {
+      "product": "矿山机械制造业（破碎筛分设备）",
+      "metric_type": "production_volume",
+      "value": "765台",
+      "period": "2025年",
+      "quote": "生产量 台 2025年 765"
+    },
+    {
+      "product": "矿山机械制造业（破碎筛分设备）",
+      "metric_type": "inventory_volume",
+      "value": "240台",
+      "period": "2025年末",
+      "quote": "库存量 台 2025年末 240"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "未明确披露具体数值，但提及大型化趋势",
+      "period": null,
+      "quote": "单条生产线每小时生产量从几百吨至数千吨不等，满足不同客户对体量规模的需求。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "破碎筛分（成套）设备智能化技改项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资总额28,665万元，实际累计投入22,078.26万元",
+      "designed_capacity": null,
+      "progress": "已结项，达到预定可使用状态日期2024年12月31日",
+      "expected_completion_time": "已完工",
+      "quote": "承诺投资项目；1.破碎筛分（成套）设备智能化技改项目；承诺投资总额 28,665；调整后投资总额(1) 22,078.26；截至期末累计投入金额(2) 22,078.26；项目达到预定可使用状态日期 2024年12月31日"
+    },
+    {
+      "name": "技术中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资总额4,105万元，实际累计投入4,223.64万元",
+      "designed_capacity": null,
+      "progress": "已结项，达到预定可使用状态日期2024年3月31日",
+      "expected_completion_time": "已完工",
+      "quote": "承诺投资项目；2.技术中心建设项目；承诺投资总额 4,105；调整后投资总额(1) 4,105；截至期末累计投入金额(2) 4,223.64；项目达到预定可使用状态日期 2024年3月31日"
+    },
+    {
+      "name": "营销服务中心项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资总额4,029万元，实际累计投入1,602.22万元",
+      "designed_capacity": null,
+      "progress": "已终止，结余募集资金永久补充流动资金",
+      "expected_completion_time": "已终止",
+      "quote": "承诺投资项目；3.营销服务中心项目；是否已变更项目(含部分变更) 是；承诺投资总额 4,029；调整后投资总额(1) 1,602.22；截至期末累计投入金额(2) 1,602.22"
+    },
+    {
+      "name": "LBS3061香蕉筛",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成建模及图纸，现正在细节优化",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 LBS3061香蕉筛；项目进展 已完成建模及图纸，现正在细节优化"
+    },
+    {
+      "name": "2LBS3061香蕉筛",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成建模及图纸，现正在生产制造中",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 2LBS3061香蕉筛；项目进展 已完成建模及图纸，现正在生产制造中"
+    },
+    {
+      "name": "2TS3060三轴水平筛",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成建模、图纸及制造，现正在试机验证优化中",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 2TS3060三轴水平筛；项目进展 已完成建模、图纸及制造，现正在试机验证优化中"
+    },
+    {
+      "name": "GM180X140高压辊磨机",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成建模及图纸，待有订单即可生产",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称 GM180X140高压辊磨机；项目进展 已完成建模及图纸，待有订单即可生产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利（含发明专利30项）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "267项（其中发明专利30项）",
+      "quote": "报告期末，公司共取得了 267 项专利（其中发明专利 30 项）"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "13项",
+      "quote": "13 项软件著作权"
+    },
+    {
+      "name": "参与制定国家行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "参与制定《机制砂石生产技术标准》《砂石骨料生产成套装备技术》《机制砂石生产技术规程》等国家行业标准"
+    },
+    {
+      "name": "国家高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "被认定为国家高新技术企业"
+    },
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司以省级企业技术中心、院士专家工作站为依托"
+    },
+    {
+      "name": "院士专家工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司以省级企业技术中心、院士专家工作站为依托"
+    },
+    {
+      "name": "PYY系列单缸液压圆锥破碎机",
+      "asset_type": "core_technology",
+      "related_product": "圆锥破碎机",
+      "quantitative_info": null,
+      "quote": "公司的 PYY系列单缸液压圆锥破碎机、G系列高压辊磨机、XHL系列高效冲击式破碎机、PEV系列颚式破碎机等产品质量和性能居于行业前茅。"
+    },
+    {
+      "name": "G系列高压辊磨机",
+      "asset_type": "core_technology",
+      "related_product": "高压辊磨机",
+      "quantitative_info": null,
+      "quote": "公司的 PYY系列单缸液压圆锥破碎机、G系列高压辊磨机、XHL系列高效冲击式破碎机、PEV系列颚式破碎机等产品质量和性能居于行业前茅。"
+    },
+    {
+      "name": "XHL系列高效冲击式破碎机",
+      "asset_type": "core_technology",
+      "related_product": "高效冲击式破碎机",
+      "quantitative_info": null,
+      "quote": "公司的 PYY系列单缸液压圆锥破碎机、G系列高压辊磨机、XHL系列高效冲击式破碎机、PEV系列颚式破碎机等产品质量和性能居于行业前茅。"
+    },
+    {
+      "name": "PEV系列颚式破碎机",
+      "asset_type": "core_technology",
+      "related_product": "颚式破碎机",
+      "quantitative_info": null,
+      "quote": "公司的 PYY系列单缸液压圆锥破碎机、G系列高压辊磨机、XHL系列高效冲击式破碎机、PEV系列颚式破碎机等产品质量和性能居于行业前茅。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "46,930,257.85元，占比14.25%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 46,930,257.85；前五名客户合计销售金额占年度销售总额比例 14.25%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "60,146,982.72元，占比30.87%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 60,146,982.72；前五名供应商合计采购金额占年度采购总额比例 30.87%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "10,650,412.38元，占比3.23%",
+      "related_entity": "烟台金鹏矿业机械有限公司",
+      "period": "2025年",
+      "quote": "公司前5大客户资料；序号 客户名称 销售额（元） 占年度销售总额比例；1 烟台金鹏矿业机械有限公司 10,650,412.38 3.23%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "19,274,721.27元，占比9.89%",
+      "related_entity": "重庆博悦机械制造有限公司",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料；序号 供应商名称 采购额（元） 占年度采购总额比例；1 重庆博悦机械制造有限公司 19,274,721.27 9.89%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "2026 年作为 “十五五” 规划开局之年，国家产业政策、环保政策、国际贸易政策可能面临调整，对传统制造业及海外业务布局带来不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、政策调整风险；2026 年作为 “十五五” 规划开局之年，国家产业政策、环保政策、国际贸易政策可能面临调整，对传统制造业及海外业务布局带来不确定性。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "全球制造业技术迭代加速，行业竞争日趋激烈，若不能持续保持技术领先性，可能面临市场份额被挤压的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、技术迭代与竞争风险；全球制造业技术迭代加速，行业竞争日趋激烈，若不能持续保持技术领先性，可能面临市场份额被挤压的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "钢材、电机等核心原材料价格受宏观经济、市场供需影响可能出现大幅波动，同时供应链中断风险仍客观存在。",
+      "related_entity": null,
+      "related_product": "钢材、电机",
+      "quote": "3、原材料价格波动与供应风险；钢材、电机等核心原材料价格受宏观经济、市场供需影响可能出现大幅波动，同时供应链中断风险仍客观存在。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "随着大型客户占比提升及海外业务拓展，应收账款规模可能进一步增长，若客户经营状况恶化或催收不力，将面临呆坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、应收账款规模扩大风险；随着大型客户占比提升及海外业务拓展，应收账款规模可能进一步增长，若客户经营状况恶化或催收不力，将面临呆坏账风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着按揭贷款、融资租赁等销售模式的推广，连带担保风险可能进一步显现，同时海外业务拓展也面临更多合规挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、连带担保与合规风险；随着按揭贷款、融资租赁等销售模式的推广，连带担保风险可能进一步显现，同时海外业务拓展也面临更多合规挑战。"
+    }
+  ]
+}

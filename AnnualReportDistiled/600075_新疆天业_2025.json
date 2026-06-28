@@ -1,0 +1,480 @@
+{
+  "company_name_mentioned": "新疆天业股份有限公司",
+  "produces": [
+    {
+      "name": "聚氯乙烯树脂（PVC）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "拥有134万吨PVC（包括114万吨通用PVC、10万吨特种树脂、10万吨糊树脂）... 深耕现代化工与新材料两大核心领域"
+    },
+    {
+      "name": "聚氯乙烯特种树脂（SPVC）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "拥有134万吨PVC（包括114万吨通用PVC、10万吨特种树脂、10万吨糊树脂）"
+    },
+    {
+      "name": "聚氯乙烯糊状树脂（EPVC）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "拥有134万吨PVC（包括114万吨通用PVC、10万吨特种树脂、10万吨糊树脂）"
+    },
+    {
+      "name": "烧碱（固碱）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "97万吨离子膜烧碱"
+    },
+    {
+      "name": "烧碱（液碱）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "烧碱92.89万吨（其中固碱76.38万吨）"
+    },
+    {
+      "name": "电石",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "213万吨电石"
+    },
+    {
+      "name": "乙醇",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "25万吨乙醇"
+    },
+    {
+      "name": "氯乙烯单体（VCM）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "22.5万吨乙烯法氯乙烯单体产能"
+    },
+    {
+      "name": "水泥",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "535万吨电石渣制水泥装置"
+    },
+    {
+      "name": "电及蒸汽",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "拥有2×300MW、2×330MW自备热电站"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "电力、乙醇等",
+      "cost_proportion": null,
+      "quote": "公司产品生产所需的主要原料为煤、原盐和石灰石... 依托新疆当地储量丰富的石灰石、原盐、煤炭资源"
+    },
+    {
+      "name": "石灰石",
+      "target_product": "电石",
+      "cost_proportion": null,
+      "quote": "依托新疆当地储量丰富的石灰石、原盐、煤炭资源... 电石生产工艺：主要原料为生石灰和焦炭等"
+    },
+    {
+      "name": "原盐（工业盐）",
+      "target_product": "烧碱、氯气、氢气",
+      "cost_proportion": null,
+      "quote": "依托新疆当地储量丰富的石灰石、原盐、煤炭资源... 电解氯化钠盐水"
+    },
+    {
+      "name": "焦炭",
+      "target_product": "电石",
+      "cost_proportion": null,
+      "quote": "电石生产工艺：主要原料为生石灰和焦炭等... 焦炭的采购不含税价格同比下降243.66元/吨"
+    },
+    {
+      "name": "兰炭",
+      "target_product": "电石",
+      "cost_proportion": null,
+      "quote": "兰炭等... 兰炭的采购不含税价格同比下降224.66元/吨"
+    },
+    {
+      "name": "石灰",
+      "target_product": "电石",
+      "cost_proportion": null,
+      "quote": "石灰、工业盐等原材料... 石灰的采购不含税价格同比下降39.05元/吨"
+    }
+  ],
+  "applications": [
+    {
+      "name": "建筑材料",
+      "source_product": "聚氯乙烯（PVC）",
+      "quote": "聚氯乙烯下游消费领域集中在管材、型材、薄膜、电线电缆、地板等，在建筑材料、工业制品、日用品、发泡材料、密封材料、纤维等方面应用广泛"
+    },
+    {
+      "name": "工业制品",
+      "source_product": "聚氯乙烯（PVC）",
+      "quote": "聚氯乙烯下游消费领域集中在管材、型材、薄膜、电线电缆、地板等，在建筑材料、工业制品、日用品、发泡材料、密封材料、纤维等方面应用广泛"
+    },
+    {
+      "name": "日用品",
+      "source_product": "聚氯乙烯（PVC）",
+      "quote": "聚氯乙烯下游消费领域集中在管材、型材、薄膜、电线电缆、地板等，在建筑材料、工业制品、日用品、发泡材料、密封材料、纤维等方面应用广泛"
+    },
+    {
+      "name": "氧化铝行业",
+      "source_product": "烧碱",
+      "quote": "烧碱主要应用于氧化铝、造纸、纺织、化工、洗涤剂、医药、水处理和食品加工等方面"
+    },
+    {
+      "name": "造纸",
+      "source_product": "烧碱",
+      "quote": "烧碱主要应用于氧化铝、造纸、纺织、化工、洗涤剂、医药、水处理和食品加工等方面"
+    },
+    {
+      "name": "混凝土工程",
+      "source_product": "水泥",
+      "quote": "水泥销售市场主要在北疆石河子市周边地区，销售季节一般为夏、秋两季"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张强",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人张强、主管会计工作负责人陈建良及会计机构负责人（会计主管人员）冯丽声明... 张强 董事长"
+    },
+    {
+      "name": "历建林",
+      "role": "董事、总经理",
+      "quote": "历建林 董事... 历建林 总经理"
+    },
+    {
+      "name": "陈建良",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人陈建良... 陈建良 财务总监"
+    },
+    {
+      "name": "李升龙",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 李升龙"
+    },
+    {
+      "name": "李金英",
+      "role": "职工董事",
+      "quote": "职工董事 李金英"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "新疆天业（集团）有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，提供资源、政策、财务等支持。",
+      "quote": "天业集团/控股股东 指 新疆天业（集团）有限公司，新疆天业控股股东"
+    },
+    {
+      "name": "新疆生产建设兵团第八师国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人。",
+      "quote": "师市国资委/实际控制人 指 新疆生产建设兵团第八师国有资产监督管理委员会，新疆天业实际控制人"
+    },
+    {
+      "name": "天伟化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要生产聚氯乙烯糊树脂、特种树脂。",
+      "quote": "天伟化工 指 天伟化工有限公司，本公司全资子公司"
+    },
+    {
+      "name": "天能化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要生产聚氯乙烯树脂、烧碱、水泥等。",
+      "quote": "天能化工 指 天能化工有限公司，本公司全资子公司"
+    },
+    {
+      "name": "天伟水泥有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要生产电石渣水泥。",
+      "quote": "天伟水泥 指 天伟水泥有限公司，本公司全资子公司"
+    },
+    {
+      "name": "天辰化工有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要生产聚氯乙烯树脂、烧碱、水泥等。",
+      "quote": "天辰化工 指 天辰化工有限公司，本公司全资子公司"
+    },
+    {
+      "name": "新疆天业汇合新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，主要生产和销售乙二醇、甲醇等。",
+      "quote": "天业汇合 指 新疆天业汇合新材料有限公司，本公司参股公司"
+    },
+    {
+      "name": "中化学东华天业新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，主要生产销售生物降解聚酯类材料。",
+      "quote": "东华天业 指 中化学东华天业新材料有限公司，本公司参股公司"
+    },
+    {
+      "name": "新疆国电投天业新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，主要投资、建设和经营管理新能源项目。",
+      "quote": "国电投天业 指 新疆国电投天业新能源有限公司，本公司参股公司"
+    },
+    {
+      "name": "新疆天池能源有限责任公司",
+      "relation_type": "joint_venture",
+      "business_details": "合资设立新疆天特联合新材料有限公司，聚焦现代煤化工。",
+      "quote": "新疆天池能源有限责任公司以现金认缴出资2,450万元，占注册资本的49%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "聚氯乙烯树脂类",
+      "segment_type": "product_line",
+      "revenue_amount": "5,566,874,815.41",
+      "revenue_proportion": null,
+      "gross_margin": "-7.74%",
+      "yoy_change": "-13.68%",
+      "quote": "聚氯乙烯树脂类... 营业收入 5,566,874,815.41... 毛利率 -7.74%... 营业收入比上年增减（%） -13.68"
+    },
+    {
+      "name": "固体烧碱",
+      "segment_type": "product_line",
+      "revenue_amount": "2,342,482,192.64",
+      "revenue_proportion": null,
+      "gross_margin": "49.07%",
+      "yoy_change": "9.04%",
+      "quote": "固体烧碱... 营业收入 2,342,482,192.64... 毛利率 49.07%... 营业收入比上年增减（%） 9.04"
+    },
+    {
+      "name": "水泥",
+      "segment_type": "product_line",
+      "revenue_amount": "969,452,345.09",
+      "revenue_proportion": null,
+      "gross_margin": "30.85%",
+      "yoy_change": "5.72%",
+      "quote": "水泥... 营业收入 969,452,345.09... 毛利率 30.85%... 营业收入比上年增减（%） 5.72"
+    },
+    {
+      "name": "乙醇",
+      "segment_type": "product_line",
+      "revenue_amount": "701,103,224.72",
+      "revenue_proportion": null,
+      "gross_margin": "5.57%",
+      "yoy_change": "194.57%",
+      "quote": "乙醇... 营业收入 701,103,224.72... 毛利率 5.57%... 营业收入比上年增减（%） 194.57"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "9,649,063,688.04",
+      "revenue_proportion": null,
+      "gross_margin": "12.61%",
+      "yoy_change": "-6.77%",
+      "quote": "国内... 营业收入 9,649,063,688.04... 毛利率 12.61%... 营业收入比上年增减（%） -6.77"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "631,966,880.96",
+      "revenue_proportion": null,
+      "gross_margin": "11.18%",
+      "yoy_change": "4.06%",
+      "quote": "国外... 营业收入 631,966,880.96... 毛利率 11.18%... 营业收入比上年增减（%） 4.06"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,737,586,452.82",
+      "revenue_proportion": null,
+      "gross_margin": "11.32%",
+      "yoy_change": "11.82%",
+      "quote": "经销... 营业收入 8,737,586,452.82... 毛利率 11.32%... 营业收入比上年增减（%） 11.82"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电石",
+      "metric_type": "capacity",
+      "value": "213万吨",
+      "period": null,
+      "quote": "213万吨电石"
+    },
+    {
+      "product": "PVC树脂",
+      "metric_type": "production_volume",
+      "value": "1,086,803.24吨",
+      "period": "2025年1-12月",
+      "quote": "生产... PVC树脂108.68万吨"
+    },
+    {
+      "product": "烧碱（固碱）",
+      "metric_type": "production_volume",
+      "value": "763,776.43吨",
+      "period": "2025年1-12月",
+      "quote": "生产... 烧碱92.89万吨（其中固碱76.38万吨）"
+    },
+    {
+      "product": "水泥",
+      "metric_type": "production_volume",
+      "value": "1,982,416.00吨",
+      "period": "2025年1-12月",
+      "quote": "生产... 水泥198.24万吨"
+    },
+    {
+      "product": "乙醇",
+      "metric_type": "production_volume",
+      "value": "193,423.59吨",
+      "period": "2025年1-12月",
+      "quote": "生产... 乙醇19.34万吨"
+    },
+    {
+      "product": "电",
+      "metric_type": "production_volume",
+      "value": "7,798,711.26兆瓦时",
+      "period": "2025年1-12月",
+      "quote": "生产... 发电77.99亿度"
+    },
+    {
+      "product": "PVC树脂",
+      "metric_type": "sales_volume",
+      "value": "1,059,537.89吨",
+      "period": null,
+      "quote": "销售量... PVC树脂 1,059,537.89"
+    },
+    {
+      "product": "烧碱（固碱）",
+      "metric_type": "sales_volume",
+      "value": "791,079.11吨",
+      "period": null,
+      "quote": "销售量... 烧碱（固碱） 791,079.11"
+    },
+    {
+      "product": "水泥",
+      "metric_type": "sales_volume",
+      "value": "1,985,909.57吨",
+      "period": null,
+      "quote": "销售量... 水泥 1,985,909.57"
+    },
+    {
+      "product": "PVC树脂",
+      "metric_type": "capacity_utilization",
+      "value": "95.33%",
+      "period": "报告期",
+      "quote": "产能利用率（%）... 年产114万吨PVC装置... 95.33"
+    },
+    {
+      "product": "烧碱",
+      "metric_type": "capacity_utilization",
+      "value": "95.76%",
+      "period": "报告期",
+      "quote": "产能利用率（%）... 年产97万吨烧碱装置... 95.76"
+    },
+    {
+      "product": "PVC树脂",
+      "metric_type": "inventory_volume",
+      "value": "102,697.90吨",
+      "period": "报告期末",
+      "quote": "库存量... PVC树脂 102,697.90"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "天业汇祥22.5万吨/年高性能树脂原料项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "116,223.02万元",
+      "designed_capacity": "22.5万吨/年乙烯法氯乙烯单体",
+      "progress": "完成装置主体工程建设，具备试生产条件并成功打通全流程，顺利产出高性能树脂原料",
+      "expected_completion_time": "2026年6月",
+      "quote": "天业汇祥22.5万吨/年高性能树脂项目，完成装置主体工程建设，具备试生产条件并成功打通全流程，顺利产出高性能树脂原料"
+    },
+    {
+      "name": "准东煤化工项目",
+      "project_type": "other",
+      "location": "准东",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进前期工作",
+      "expected_completion_time": null,
+      "quote": "依托新疆天池能源有限责任公司准东煤矿，聚焦现代煤化工绿色低碳前沿技术与创新工艺，与其合作设立合资公司，推动准东煤化工项目前期工作"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "绿色低碳联动的循环经济产业链",
+      "asset_type": "process_technology",
+      "related_product": "聚氯乙烯、烧碱、水泥",
+      "quantitative_info": null,
+      "quote": "依托新疆当地储量丰富的石灰石、原盐、煤炭资源... 构建起较为完整的绿色、低碳联动式循环经济产业链"
+    },
+    {
+      "name": "合成气制乙醇制乙烯制PVC装置（煤-乙醇-乙烯-PVC产业链）",
+      "asset_type": "process_technology",
+      "related_product": "聚氯乙烯",
+      "quantitative_info": "首套",
+      "quote": "在电石法工艺基础上，率先突破原有生产工艺，构建了首套合成气制乙醇制乙烯制PVC装置，形成“乙醇→乙烯→PVC”产业链"
+    },
+    {
+      "name": "零极距高电流密度复极式离子膜电解槽生产工艺",
+      "asset_type": "process_technology",
+      "related_product": "烧碱",
+      "quantitative_info": null,
+      "quote": "用零极距高电流密度复极式离子膜电解槽生产工艺电解氯化钠盐水"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截止2025年12月31日，公司持有有效专利389件，其中发明专利46件",
+      "quote": "截止2025年12月31日，公司持有有效专利389件，其中发明专利46件"
+    },
+    {
+      "name": "氯醋聚氯乙烯糊树脂技术",
+      "asset_type": "core_technology",
+      "related_product": "氯醋树脂",
+      "quantitative_info": null,
+      "quote": "突破氯醋聚氯乙烯糊树脂、混合法聚氯乙烯糊树脂、高柔韧性SG-5型聚氯乙烯树脂技术，有效填补国内高端氯醋树脂、特种PVC材料市场空白"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "467,275.23万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额467,275.23万元，占年度销售总额45.45%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "289,153.69万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额289,153.69万元，占年度采购总额32.15%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "聚氯乙烯产品同质化竞争激烈，通用型树脂生产企业经营普遍面临较大困难，产品出口面临多重挑战，供需矛盾更加突出，而行业仍有新增产能计划投产，进一步加剧市场竞争。",
+      "related_entity": null,
+      "related_product": "聚氯乙烯（PVC）",
+      "quote": "国内聚氯乙烯产品同质化竞争激烈，通用型树脂生产企业经营普遍面临较大困难，产品出口面临多重挑战，供需矛盾更加突出，而行业仍有新增产能计划投产，进一步加剧市场竞争"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料及能源的价格短期内出现大幅波动，可能会对公司产生不利影响。",
+      "related_entity": null,
+      "related_product": "煤炭、焦炭、兰炭、石灰等",
+      "quote": "原材料及能源的价格短期内出现大幅波动，可能会对公司产生不利影响"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "2026年4月1日起取消13%出口退税，直接抬升出口成本，削弱价格优势。新版《产业结构调整指导目录》全面落地，限制“两高”项目、鼓励绿色低碳材料、高性能树脂、循环经济成为主线。",
+      "related_entity": null,
+      "related_product": "聚氯乙烯（PVC）",
+      "quote": "2026年4月1日起取消13%出口退税，直接抬升出口成本，削弱价格优势。新版《产业结构调整指导目录》全面落地，限制“两高”项目、鼓励绿色低碳材料、高性能树脂、循环经济成为主线"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "电石法PVC生产工艺虽经持续优化，但相较于乙烯法工艺，能耗和碳排放仍处于较高水平，新型乙烯法工艺仍处于产能释放阶段，尚未实现全面替代。",
+      "related_entity": null,
+      "related_product": "聚氯乙烯（PVC）",
+      "quote": "电石法PVC生产工艺虽经持续优化，但相较于乙烯法工艺，能耗和碳排放仍处于较高水平，新型乙烯法工艺仍处于产能释放阶段，尚未实现全面替代"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "company_name_mentioned": "镇江东方电热科技股份有限公司",
+  "produces": [
+    {
+      "name": "家用电器用电加热器",
+      "type": "component",
+      "revenue_proportion": "38.38%",
+      "quote": "家用电器元器件 1,258,510,045.68 38.38%"
+    },
+    {
+      "name": "PTC电加热器、智能座舱模组",
+      "type": "device",
+      "revenue_proportion": "21.68%",
+      "quote": "新能源汽车元器件 710,920,821.25 21.68%"
+    },
+    {
+      "name": "液冷及风冷散热模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是国内首家推出“系统级机器人液冷散热模组”的企业"
+    },
+    {
+      "name": "熔盐储能电加热器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是熔盐储能电加热器领军企业"
+    },
+    {
+      "name": "多晶硅生产设备（如还原炉）",
+      "type": "device",
+      "revenue_proportion": "18.80%",
+      "quote": "新能源装备制造 616,475,322.28 18.80%"
+    },
+    {
+      "name": "硅碳负极设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "自主研发的硅碳负极设备，大幅提升生产效率和产品良率，已制造并交付"
+    },
+    {
+      "name": "预镀镍材料",
+      "type": "material",
+      "revenue_proportion": "7.05%",
+      "quote": "锂电池材料 231,205,750.13 7.05%"
+    },
+    {
+      "name": "钢（铝）塑复合材料",
+      "type": "material",
+      "revenue_proportion": "11.38%",
+      "quote": "光通信材料 373,032,713.27 11.38%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材、铝、铜、塑料、硅胶等",
+      "target_product": null,
+      "cost_proportion": "材料成本占总成本的60%以上",
+      "quote": "公司的主要原材料为钢材、铝、铜等金属材料以及塑料、硅胶等非金属材料，材料成本占总成本的60%以上。"
+    },
+    {
+      "name": "北京首钢股份有限公司供应的钢材等",
+      "target_product": null,
+      "cost_proportion": "7.67%",
+      "quote": "1 北京首钢股份有限公司 192,704,346.55 7.67%"
+    },
+    {
+      "name": "海宁永力电子陶瓷有限公司供应的电子陶瓷",
+      "target_product": null,
+      "cost_proportion": "5.50%",
+      "quote": "2 海宁永力电子陶瓷有限公司 138,187,437.93 5.50%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家用电器（空调、厨卫家电、冰箱、洗衣机等）",
+      "source_product": "家用电器用电加热器",
+      "quote": "主要用于空调及各类小家电的辅助加热。"
+    },
+    {
+      "name": "新能源汽车（空调、电池包、座椅热管理）",
+      "source_product": "PTC电加热器、智能座舱模组",
+      "quote": "主要用于新能源汽车空调、电池包、座椅热管理，以及座椅通风、按摩、压力感知。"
+    },
+    {
+      "name": "机器人（关节、电池包、计算单元散热）",
+      "source_product": "液冷及风冷散热模组",
+      "quote": "主要用于机器人关节、电池包、计算单元等部位的散热。"
+    },
+    {
+      "name": "电网调峰储能",
+      "source_product": "熔盐储能电加热器",
+      "quote": "主要用于电网调峰。"
+    },
+    {
+      "name": "工业（多晶硅生产）",
+      "source_product": "多晶硅生产设备",
+      "quote": "主要用于生产高纯度多晶硅。"
+    },
+    {
+      "name": "锂电池（外壳材料）",
+      "source_product": "预镀镍材料",
+      "quote": "主要用于各类锂电池的外壳材料。"
+    },
+    {
+      "name": "光通信（光缆、电缆）",
+      "source_product": "钢（铝）塑复合材料",
+      "quote": "主要用于光缆、电缆的复合钢（铝）塑带。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谭伟",
+      "role": "董事长、总经理、实际控制人之一",
+      "quote": "公司负责人谭伟、主管会计工作负责人罗月芬及会计机构负责人(会计主管人员)刘俊声明"
+    },
+    {
+      "name": "谭克",
+      "role": "董事、实际控制人之一",
+      "quote": "谭荣生、谭伟、谭克为父子关系，三人属于一致行动人，共同为公司控股股东暨实际控制人。"
+    },
+    {
+      "name": "谭荣生",
+      "role": "控股股东、实际控制人之一",
+      "quote": "谭荣生：公司第一大股东...是公司的控股股东暨实际控制人。"
+    },
+    {
+      "name": "张庆忠",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理 张庆忠"
+    },
+    {
+      "name": "史经洋",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书、证券事务代表 史经洋"
+    },
+    {
+      "name": "罗月芬",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人罗月芬"
+    },
+    {
+      "name": "解钟",
+      "role": "副总经理",
+      "quote": "解钟，男，...2009年8月至今，任公司副总经理。"
+    },
+    {
+      "name": "解娟",
+      "role": "副总经理",
+      "quote": "解娟，女，...2009年8月至今，任公司副总经理。"
+    },
+    {
+      "name": "韦秀萍",
+      "role": "副总经理",
+      "quote": "韦秀萍，女，...2011年6月至今，任公司副总经理。"
+    },
+    {
+      "name": "岳修峰",
+      "role": "独立董事",
+      "quote": "2025年04月11日至今，任公司独立董事。"
+    },
+    {
+      "name": "许良虎",
+      "role": "独立董事",
+      "quote": "2020年12月至今，任公司独立董事。"
+    },
+    {
+      "name": "万洪亮",
+      "role": "独立董事",
+      "quote": "2020年12月至今，任公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "格力系",
+      "relation_type": "customer",
+      "business_details": "家用电器元器件业务主要客户",
+      "quote": "1 格力系 343,135,016.50 10.47%"
+    },
+    {
+      "name": "美的系",
+      "relation_type": "customer",
+      "business_details": "家用电器元器件业务主要客户",
+      "quote": "2 美的系 309,063,977.02 9.43%"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "新能源汽车元器件业务主要客户",
+      "quote": "3 比亚迪 233,356,789.34 7.12%"
+    },
+    {
+      "name": "海尔系",
+      "relation_type": "customer",
+      "business_details": "家用电器元器件业务主要客户",
+      "quote": "4 海尔系 231,198,147.75 7.05%"
+    },
+    {
+      "name": "西宁红石贸易有限公司",
+      "relation_type": "customer",
+      "business_details": "新能源装备制造业务主要客户",
+      "quote": "5 西宁红石贸易有限公司 228,575,221.24 6.97%"
+    },
+    {
+      "name": "北京首钢股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "1 北京首钢股份有限公司 192,704,346.55 7.67%"
+    },
+    {
+      "name": "海宁永力电子陶瓷有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "2 海宁永力电子陶瓷有限公司 138,187,437.93 5.50%"
+    },
+    {
+      "name": "上海宛北国际贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "3 上海宛北国际贸易有限公司 98,690,785.59 3.93%"
+    },
+    {
+      "name": "镇江市俊翔电器有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "4 镇江市俊翔电器有限公司 97,660,290.85 3.89%"
+    },
+    {
+      "name": "江苏宏展铝业科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一",
+      "quote": "5 江苏宏展铝业科技有限公司 50,362,837.17 2.00%"
+    },
+    {
+      "name": "江苏东方瑞吉能源装备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东方瑞吉 指 江苏东方瑞吉能源装备有限公司"
+    },
+    {
+      "name": "江苏九天光电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "江苏九天、九天光电 指 江苏九天光电科技有限公司"
+    },
+    {
+      "name": "江苏东方九天新能源材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东方九天 指 江苏东方九天新能源材料有限公司"
+    },
+    {
+      "name": "江苏华智新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 公司名称：江苏华智新能源科技有限公司"
+    },
+    {
+      "name": "镇江东方山源电热有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "东方山源 指 镇江东方山源电热有限公司"
+    },
+    {
+      "name": "上海织识智能科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "就拓展柔性织物压力传感在汽车出行领域的应用和机器人电子皮肤的研发达成一致意向",
+      "quote": "公司与上海织识智能科技有限公司经过平等协商，签署了《战略合作协议》"
+    },
+    {
+      "name": "立信会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 立信会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "家用电器元器件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,258,510,045.68元",
+      "revenue_proportion": "38.38%",
+      "gross_margin": "15.22%",
+      "yoy_change": "10.41%",
+      "quote": "家用电器元器件 1,258,510,045.68 38.38% ... 毛利率 15.22% ... 营业收入比上年同期增减 10.41%"
+    },
+    {
+      "name": "新能源汽车元器件",
+      "segment_type": "product_line",
+      "revenue_amount": "710,920,821.25元",
+      "revenue_proportion": "21.68%",
+      "gross_margin": "20.50%",
+      "yoy_change": "38.21%",
+      "quote": "新能源汽车元器件 710,920,821.25 21.68% ... 毛利率 20.50% ... 营业收入比上年同期增减 38.21%"
+    },
+    {
+      "name": "新能源装备制造",
+      "segment_type": "product_line",
+      "revenue_amount": "616,475,322.28元",
+      "revenue_proportion": "18.80%",
+      "gross_margin": "25.05%",
+      "yoy_change": "-58.15%",
+      "quote": "新能源装备制造 616,475,322.28 18.80% ... 毛利率 25.05% ... 营业收入比上年同期增减 -58.15%"
+    },
+    {
+      "name": "光通信材料",
+      "segment_type": "product_line",
+      "revenue_amount": "373,032,713.27元",
+      "revenue_proportion": "11.38%",
+      "gross_margin": "13.35%",
+      "yoy_change": "-20.73%",
+      "quote": "光通信材料 373,032,713.27 11.38% ... 毛利率 13.35% ... 营业收入比上年同期增减 -20.73%"
+    },
+    {
+      "name": "锂电池材料",
+      "segment_type": "product_line",
+      "revenue_amount": "231,205,750.13元",
+      "revenue_proportion": "7.05%",
+      "gross_margin": null,
+      "yoy_change": "205.47%",
+      "quote": "锂电池材料 231,205,750.13 7.05% ... 营业收入比上年同期增减 205.47%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "3,100,704,167.37元",
+      "revenue_proportion": "94.57%",
+      "gross_margin": "17.76%",
+      "yoy_change": "-13.91%",
+      "quote": "国内 3,100,704,167.37 94.57% ... 毛利率 17.76% ... 营业收入比上年同期增减 -13.91%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "177,981,454.37元",
+      "revenue_proportion": "5.43%",
+      "gross_margin": null,
+      "yoy_change": "62.26%",
+      "quote": "国外 177,981,454.37 5.43% ... 营业收入比上年同期增减 62.26%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "家用电器元器件",
+      "metric_type": "sales_volume",
+      "value": "68,916,256.00件、套",
+      "period": "2025年",
+      "quote": "家用电器元器件 销售量 件、套 68,916,256.00"
+    },
+    {
+      "product": "家用电器元器件",
+      "metric_type": "production_volume",
+      "value": "66,752,072.00件、套",
+      "period": "2025年",
+      "quote": "家用电器元器件 生产量 件、套 66,752,072.00"
+    },
+    {
+      "product": "家用电器元器件",
+      "metric_type": "inventory_volume",
+      "value": "11,272,824.00件、套",
+      "period": "2025年末",
+      "quote": "家用电器元器件 库存量 件、套 11,272,824.00"
+    },
+    {
+      "product": "新能源汽车元器件",
+      "metric_type": "sales_volume",
+      "value": "2,826,784.00件、套",
+      "period": "2025年",
+      "quote": "新能源汽车元器件 销售量 件、套 2,826,784.00"
+    },
+    {
+      "product": "新能源汽车元器件",
+      "metric_type": "production_volume",
+      "value": "3,043,801.00件、套",
+      "period": "2025年",
+      "quote": "新能源汽车元器件 生产量 件、套 3,043,801.00"
+    },
+    {
+      "product": "新能源汽车元器件",
+      "metric_type": "inventory_volume",
+      "value": "423,653.00件、套",
+      "period": "2025年末",
+      "quote": "新能源汽车元器件 库存量 件、套 423,653.00"
+    },
+    {
+      "product": "新能源装备制造",
+      "metric_type": "sales_volume",
+      "value": "5,940.00件、套",
+      "period": "2025年",
+      "quote": "新能源装备制造 销售量 件、套 5,940.00"
+    },
+    {
+      "product": "新能源装备制造",
+      "metric_type": "production_volume",
+      "value": "5,918.00件、套",
+      "period": "2025年",
+      "quote": "新能源装备制造 生产量 件、套 5,918.00"
+    },
+    {
+      "product": "光通信材料",
+      "metric_type": "sales_volume",
+      "value": "59,321.25吨",
+      "period": "2025年",
+      "quote": "光通信材料 销售量 吨 59,321.25"
+    },
+    {
+      "product": "光通信材料",
+      "metric_type": "production_volume",
+      "value": "57,464.35吨",
+      "period": "2025年",
+      "quote": "光通信材料 生产量 吨 57,464.35"
+    },
+    {
+      "product": "锂电池材料",
+      "metric_type": "sales_volume",
+      "value": "22,992.37吨",
+      "period": "2025年",
+      "quote": "锂电池材料 销售量 吨 22,992.37"
+    },
+    {
+      "product": "锂电池材料",
+      "metric_type": "production_volume",
+      "value": "23,281.49吨",
+      "period": "2025年",
+      "quote": "锂电池材料 生产量 吨 23,281.49"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产6,000万支铲片式PTC电加热器项目",
+      "project_type": "fundraising_project",
+      "location": "镇江新区银河路368号",
+      "investment_amount": "26,370.54万元（调整后）",
+      "designed_capacity": "6,000万支/年",
+      "progress": "已于2025年6月30日达到预定可使用状态",
+      "expected_completion_time": "2025年6月30日",
+      "quote": "年产6,000万支铲片式PTC电加热器项目...达到可使用状态时间从2023年6月30日调整至2025年6月30日...已于2025年6月30日达到预定可使用状态"
+    },
+    {
+      "name": "年产350万套新能源电动汽车PTC电加热器项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10,012.9万元",
+      "designed_capacity": "350万套/年",
+      "progress": "一期工程2023年6月30日；二期工程2024年11月30日",
+      "expected_completion_time": "2026年1月1日（原定）",
+      "quote": "年产350万套新能源电动汽车PTC电加热器项目...一期工程2023年6月30日；二期工程2024年11月30日"
+    },
+    {
+      "name": "泰国生产基地建设",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": "不超过1,000万美元",
+      "designed_capacity": null,
+      "progress": "土地转让手续正在办理完毕",
+      "expected_completion_time": null,
+      "quote": "2025年3月21日，公司召开第六届董事会第三次会议，审议通过了《关于在泰国设立子公司并建设生产基地的议案》...计划投资总额不超过1,000万美元。"
+    },
+    {
+      "name": "与上海织识智能科技有限公司战略合作项目（机器人电子皮肤等）",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "量产准备工作已完成",
+      "expected_completion_time": null,
+      "quote": "公司与上海织识智能科技有限公司...就拓展柔性织物压力传感在汽车出行领域的应用和机器人电子皮肤的研发达成一致意向...量产准备工作已完成。"
+    },
+    {
+      "name": "收购江苏华智新能源科技有限公司11.50%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "3,622万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "2025年6月26日...同意公司以3,622万元收购江苏鼎之誉持有的江苏华智11.5%股权。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "热管理技术",
+      "asset_type": "core_technology",
+      "related_product": "电加热器、散热模组等",
+      "quantitative_info": null,
+      "quote": "公司以热管理技术为核心"
+    },
+    {
+      "name": "预镀镍技术",
+      "asset_type": "core_technology",
+      "related_product": "预镀镍材料",
+      "quantitative_info": "部分技术指标达到或超过国外标准",
+      "quote": "公司是国内唯一量产动力类预镀镍材料的供应商，拥有完整工艺流程、先进预镀镍技术"
+    },
+    {
+      "name": "多晶硅冷氢化用辐射式电加热器",
+      "asset_type": "core_technology",
+      "related_product": "多晶硅生产设备",
+      "quantitative_info": "曾获得国家科技进步二等奖",
+      "quote": "公司生产的多晶硅冷氢化用辐射式电加热器曾获得国家科技进步二等奖"
+    },
+    {
+      "name": "系统级机器人液冷散热模组",
+      "asset_type": "core_technology",
+      "related_product": "机器人散热模组",
+      "quantitative_info": "国内首家",
+      "quote": "“系统级机器人液冷散热模组”为国内首家。"
+    },
+    {
+      "name": "授权发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "79项",
+      "quote": "截至2025年底，公司共计持有授权发明专利79项"
+    },
+    {
+      "name": "实用新型及外观专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "243项",
+      "quote": "实用新型及外观专利243项"
+    },
+    {
+      "name": "研发费用",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "1.58亿元，占营业收入的4.81%",
+      "quote": "2025年，公司研发费用1.58亿元，占营业收入的4.81%。"
+    },
+    {
+      "name": "江苏省新型特殊元件设计与制造工程技术研发中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是...江苏省新型特殊元件设计与制造工程技术研发中心、江苏省重点企业研究中心。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "41.04%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 41.04%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "10.47%",
+      "related_entity": "格力系",
+      "period": "2025年",
+      "quote": "1 格力系 343,135,016.50 10.47%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.99%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 22.99%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "存在一定的大客户依赖风险",
+      "related_entity": null,
+      "period": null,
+      "quote": "以上行业的客户集中度较高，存在一定的大客户依赖风险。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司的主要产品分属于家用电器行业、新能源行业、光通信行业。各行业的景气度与国家的相关产业政策紧密相关...如未来相关产业政策发生不利变化，可能会导致公司订单减少，从而影响公司经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、产业政策变化风险...如未来相关产业政策发生不利变化，可能会导致公司订单减少，从而影响公司经营业绩。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司的主要原材料为钢材、铝、铜等金属材料以及塑料、硅胶等非金属材料，材料成本占总成本的60%以上。...如果上述原材料价格上涨进一步加大，将会对公司经营造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、原材料价格波动风险...如果上述原材料价格上涨进一步加大，将会对公司经营造成不利影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司主要产品...以上行业的客户集中度较高，存在一定的大客户依赖风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、主要客户依赖风险...以上行业的客户集中度较高，存在一定的大客户依赖风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "近年来，随着公司业务规模的持续扩大，销售额增加较快，持续产生应收账款。...如果客户生产经营出现重大不利变化，则公司应收账款存在无法全部收回的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、应收账款风险...如果客户生产经营出现重大不利变化，则公司应收账款存在无法全部收回的风险。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司及子公司存在多项买卖合同纠纷诉讼，部分案件涉及金额较大，如东方瑞吉诉信义硅业（云南）有限公司案涉案金额5230.6万元。",
+      "related_entity": "东方瑞吉、信义硅业（云南）有限公司等",
+      "related_product": null,
+      "quote": "东方瑞吉诉信义硅业（云南）有限公司买卖 5,230.6 否 正在执行"
+    }
+  ]
+}

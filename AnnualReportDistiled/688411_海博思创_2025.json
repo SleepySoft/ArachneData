@@ -1,0 +1,513 @@
+{
+  "company_name_mentioned": "北京海博思创科技股份有限公司",
+  "produces": [
+    {
+      "name": "储能系统产品",
+      "type": "device",
+      "revenue_proportion": "储能行业：100%",
+      "quote": "公司是行业领先的电化学储能系统解决方案与技术服务提供商，专注于电化学储能系统的研发、生产、销售...公司的主营业务为储能系统的研发、生产和销售，其中储能系统产品为核心产品。...储能行业：1,159,340.48...其他行业：1,166.89"
+    },
+    {
+      "name": "HyperBlock M系列大型交/直流储能舱",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "HyperBlock M系列 大型储能系统...应用场景: 1.独立/共享储能 2.新能源配储 3.高能耗行业 4.源网荷储/绿电直连 5.其他储能场景"
+    },
+    {
+      "name": "HyperBlock Ⅳ系列直流储能舱",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "HyperBlock Ⅳ系列 直流储能舱...4h 及以上长时版本单舱容量达7.8MWh..."
+    },
+    {
+      "name": "HyperBlock III系列交/直流储能舱",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "HyperBlock III 系列 交/直流储能舱...可满足2h~8h 时长应用需求..."
+    },
+    {
+      "name": "HyperCascade系列高压级联储能系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "HyperCascade系列 高压级联储能系统...采用自研BMS/PCS 融合功率模块..."
+    },
+    {
+      "name": "HyperCubeC&I II Plus系列交直流一体户外柜",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "HyperCubeC&I II Plus系列 交直流一体户外柜...搭载海博云Web/App..."
+    },
+    {
+      "name": "HyperCubeC&I II Max系列交直流一体户外柜",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "HyperCubeC&I II Max系列 交直流一体户外柜...支持并网、离网、混合及微电网应用..."
+    },
+    {
+      "name": "HyperCubeC&I Pro系列充储一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "HyperCubeC&I Pro系列 充储一体机...搭载半固态电池..."
+    },
+    {
+      "name": "430X系列储能变流器PCS",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "430X系列 储能变流器PCS...采用 SiC三电平拓扑..."
+    },
+    {
+      "name": "储能变流器一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "储能变流器一体机...单机2.5MW..."
+    },
+    {
+      "name": "变流升压一体舱",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "变流升压一体舱...单机容量达10MW..."
+    },
+    {
+      "name": "电池管理系统BMS",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "电池管理系统BMS...采用功能安全ASIL-C级高可靠设计..."
+    },
+    {
+      "name": "能量管理系统EMS",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "能量管理系统EMS...支持单体超3GWh 大型电站集中管理..."
+    },
+    {
+      "name": "功率协调控制系统PMS",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "功率协调控制系统PMS...支持一次调频、二次调频策略..."
+    },
+    {
+      "name": "HyperCloud海博云平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "HyperCloud 海博云平台...融合研发与运维专家知识的大模型应用..."
+    },
+    {
+      "name": "海博智能交易平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "海博智能交易平台...运用大模型技术归纳解读多省交易政策..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "电芯",
+      "target_product": "储能系统产品",
+      "cost_proportion": null,
+      "quote": "对外采购的主要原材料为电芯、结构件、电气件、PCS 及升压变流舱和电子件等。"
+    },
+    {
+      "name": "结构件",
+      "target_product": "储能系统产品",
+      "cost_proportion": null,
+      "quote": "对外采购的主要原材料为电芯、结构件、电气件、PCS 及升压变流舱和电子件等。"
+    },
+    {
+      "name": "电气件",
+      "target_product": "储能系统产品",
+      "cost_proportion": null,
+      "quote": "对外采购的主要原材料为电芯、结构件、电气件、PCS 及升压变流舱和电子件等。"
+    },
+    {
+      "name": "PCS及升压变流舱",
+      "target_product": "储能系统产品",
+      "cost_proportion": null,
+      "quote": "对外采购的主要原材料为电芯、结构件、电气件、PCS 及升压变流舱和电子件等。"
+    },
+    {
+      "name": "电子件",
+      "target_product": "储能系统产品",
+      "cost_proportion": null,
+      "quote": "对外采购的主要原材料为电芯、结构件、电气件、PCS 及升压变流舱和电子件等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "独立/共享储能",
+      "source_product": "储能系统产品",
+      "quote": "应用场景: 1.独立/共享储能..."
+    },
+    {
+      "name": "新能源配储",
+      "source_product": "储能系统产品",
+      "quote": "应用场景: ...2.新能源配储..."
+    },
+    {
+      "name": "高能耗行业",
+      "source_product": "储能系统产品",
+      "quote": "应用场景: ...3.高能耗行业..."
+    },
+    {
+      "name": "源网荷储/绿电直连",
+      "source_product": "储能系统产品",
+      "quote": "应用场景: ...4.源网荷储/绿电直连..."
+    },
+    {
+      "name": "电网侧储能",
+      "source_product": "储能系统产品",
+      "quote": "公司已在海外市场参与多个电网侧储能项目及工商业储能项目..."
+    },
+    {
+      "name": "工商业储能",
+      "source_product": "储能系统产品",
+      "quote": "公司已在海外市场参与多个电网侧储能项目及工商业储能项目..."
+    },
+    {
+      "name": "矿山、油田场景",
+      "source_product": "储能系统产品",
+      "quote": "应用场景: 1.矿山、油田场景..."
+    },
+    {
+      "name": "充电服务站",
+      "source_product": "储能系统产品",
+      "quote": "应用场景: ...2.充电服务站..."
+    },
+    {
+      "name": "基站电源",
+      "source_product": "储能系统产品",
+      "quote": "应用场景: ...5.基站电源等"
+    },
+    {
+      "name": "数据中心 (AIDC)",
+      "source_product": "储能系统产品",
+      "quote": "随着AIDC算力中心快速扩张，其对供电可靠性与电能质量的高要求，正成为储能应用的新增长极。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张剑辉",
+      "role": "董事长、总经理、实际控制人之一",
+      "quote": "公司负责人张剑辉...2011年11月以创始人的身份创业并设立海博有限；2011年11月至2020年5月，任海博有限董事长、总经理；2020年6月至今，任公司董事长、总经理。"
+    },
+    {
+      "name": "钱昊",
+      "role": "董事、副总经理、核心技术人员",
+      "quote": "钱昊...2012年8 月以联合创始人身份加入海博有限共同创业；2012年8月至 2020年 5月，任海博有限董事、副总经理；2020年6月至今，任公司董事、副总经理。"
+    },
+    {
+      "name": "舒鹏",
+      "role": "董事、副总经理",
+      "quote": "舒鹏...2011年 11月以联合创始人身份加入海博有限共同创业；2011年11月至2020年5月，任海博有限董事、副总经理；2020年6月至今，任公司董事、副总经理。"
+    },
+    {
+      "name": "高书清",
+      "role": "副总经理、财务负责人、董事会秘书",
+      "quote": "高书清...2019年6月至2020年5月，任海博有限副总经理、财务负责人；2020年6月至今，任公司副总经理、财务负责人、董事会秘书。"
+    },
+    {
+      "name": "徐锐",
+      "role": "副总经理、实际控制人之一",
+      "quote": "徐锐...2011年11 月加入海博有限；2011年 11月至2020年5月，任海博有限董事、副总经理；2020年6月至今，任公司副总经理。"
+    },
+    {
+      "name": "杨洸",
+      "role": "副总经理、核心技术人员",
+      "quote": "杨洸...2015年12 月至2020年5月，任海博有限副总经理；2020年6月至今，任公司副总经理。"
+    },
+    {
+      "name": "吕喆",
+      "role": "核心技术人员",
+      "quote": "吕喆...2020年6月至今，历任公司技术总监、总经理助理、副总裁。"
+    },
+    {
+      "name": "王垒",
+      "role": "核心技术人员",
+      "quote": "王垒...2020年6 月至今，历任公司实验测试中心总监、实验测试中心总经理。"
+    },
+    {
+      "name": "郭富强",
+      "role": "核心技术人员",
+      "quote": "郭富强...2020年6月至今，历任公司研发中心产品总监兼 BMS 系统部门经理、研发中心副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华为数字能源",
+      "relation_type": "supplier",
+      "business_details": "在零碳能源、智能制造、场景融合、人工智能等领域协同发力。",
+      "quote": "公司与华为数字能源、宁德时代、范式智能等产业链龙头建立战略合作..."
+    },
+    {
+      "name": "宁德时代",
+      "relation_type": "supplier",
+      "business_details": "在零碳能源、智能制造、场景融合、人工智能等领域协同发力。",
+      "quote": "公司与华为数字能源、宁德时代、范式智能等产业链龙头建立战略合作..."
+    },
+    {
+      "name": "范式智能",
+      "relation_type": "supplier",
+      "business_details": "在零碳能源、智能制造、场景融合、人工智能等领域协同发力。",
+      "quote": "公司与华为数字能源、宁德时代、范式智能等产业链龙头建立战略合作..."
+    },
+    {
+      "name": "LEAG 清洁能源有限公司",
+      "relation_type": "customer",
+      "business_details": "在德国联合打造一座规模达1.6GWh 的大型储能项目。",
+      "quote": "公司与LEAG 清洁能源有限公司正式签署协议，双方将在德国联合打造一座规模达1.6GWh 的大型储能项目..."
+    },
+    {
+      "name": "美国知名独立发电商(IPP)",
+      "relation_type": "customer",
+      "business_details": "为位于美国的储能电站项目提供储能系统解决方案，项目规模超过420MWh。",
+      "quote": "公司与美国知名独立发电商(IPP)在内的多家企业达成储能项目合作，为位于美国的储能电站项目提供储能系统解决方案..."
+    },
+    {
+      "name": "北京海博思创工程技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事储能系统产品的生产、制造及销售。",
+      "quote": "公司名称: 北京海博思创工程技术有限公司...主要业务: 主要从事储能系统产品的生产、制造及销售"
+    },
+    {
+      "name": "海博思创（珠海）工程技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事储能系统产品的生产、制造及销售。",
+      "quote": "公司名称: 海博思创（珠海）工程技术有限公司...主要业务: 主要从事储能系统产品的生产、制造及销售"
+    },
+    {
+      "name": "海博思创（酒泉）工程技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事储能系统产品的生产、制造及销售。",
+      "quote": "公司名称: 海博思创（酒泉）工程技术有限公司...主要业务: 主要从事储能系统产品的生产、制造及销售"
+    },
+    {
+      "name": "内蒙古海博思创科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事储能系统产品的生产、制造及销售。",
+      "quote": "公司名称: 内蒙古海博思创科技有限公司...主要业务: 主要从事储能系统产品的生产、制造及销售"
+    },
+    {
+      "name": "山西海博夏初科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事储能系统产品的生产、制造及销售。",
+      "quote": "公司名称: 山西海博夏初科技有限公司...主要业务: 主要从事储能系统产品的生产、制造及销售"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "储能行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,159,340.48 万元",
+      "revenue_proportion": "100%",
+      "gross_margin": "18.24%",
+      "yoy_change": "增加0.02个百分点",
+      "quote": "分行业: 储能行业: 营业收入: 1,159,340.48 ... 毛利率(%): 18.24...毛利率比上年同期增减(%): 增加0.02 个百分点"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,065,349.84 万元",
+      "revenue_proportion": "91.90%",
+      "gross_margin": "17.18%",
+      "yoy_change": "增加0.33个百分点",
+      "quote": "分地区: 境内: 营业收入: 1,065,349.84 ... 毛利率(%): 17.18...毛利率比上年同期增减(%): 增加0.33个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "95,157.53 万元",
+      "revenue_proportion": "8.20%",
+      "gross_margin": "29.52%",
+      "yoy_change": "减少12.62个百分点",
+      "quote": "分地区: 境外: 营业收入: 95,157.53 ... 毛利率(%): 29.52...毛利率比上年同期增减(%): 减少12.62个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,160,507.37 万元",
+      "revenue_proportion": "100%",
+      "gross_margin": "18.19%",
+      "yoy_change": "减少0.31个百分点",
+      "quote": "销售模式: 直销: 营业收入: 1,160,507.37 ... 毛利率(%): 18.19...毛利率比上年同期增减(%): 减少0.31个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "储能产品",
+      "metric_type": "capacity",
+      "value": "无直接披露",
+      "period": "2025年",
+      "quote": "（设计产能未明确披露）"
+    },
+    {
+      "product": "储能产品",
+      "metric_type": "production_volume",
+      "value": "26,537 MWh",
+      "period": "2025年",
+      "quote": "主要产品: 储能产品...生产量: 26,537"
+    },
+    {
+      "product": "储能产品",
+      "metric_type": "sales_volume",
+      "value": "24,034 MWh",
+      "period": "2025年",
+      "quote": "主要产品: 储能产品...销售量: 24,034"
+    },
+    {
+      "product": "储能产品",
+      "metric_type": "inventory_volume",
+      "value": "3,286 MWh",
+      "period": "2025年末",
+      "quote": "主要产品: 储能产品...库存量: 3,286"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "海博思创智能绿色储能工厂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "预计 20 亿元人民币",
+      "designed_capacity": "储能集成系统研发、制造与测试一体化产业基地",
+      "progress": "截至2025年末该项目处于初期筹建阶段",
+      "expected_completion_time": "预计2028年12月竣工验收并投产",
+      "quote": "同意全资子公司北京海博思创智造科技有限公司开展“海博思创智能绿色储能工厂项目”，项目主要内容为建设储能集成系统研发、制造与测试一体化产业基地，...项目投资总额预计 20 亿元人民币，...建设周期约为 36 个月，预计 2028 年12月竣工验收并投产，截至 2025 年末该项目处于初期筹建阶段。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "储能应用领域的人工智能技术",
+      "asset_type": "core_technology",
+      "related_product": "海博云平台、智能运维",
+      "quantitative_info": null,
+      "quote": "（1）储能应用领域的人工智能技术...公司运用多年项目投运所累积的海量数据，通过“AI 模型+领域知识+实时数据”的三维融合，打造“人工智能驱动的运维平台”..."
+    },
+    {
+      "name": "多维时空智能电力交易技术",
+      "asset_type": "core_technology",
+      "related_product": "海博智能交易平台",
+      "quantitative_info": null,
+      "quote": "（2）多维时空智能电力交易技术...公司自主研发完整技术路线，涵盖数值天气预报、全市场供需边界预测、电网物理网架拓扑模型构建、市场主体博弈充放行为分析以及考虑决策风险的鲁棒性充放策略智能优化。"
+    },
+    {
+      "name": "电池数字化建模技术",
+      "asset_type": "core_technology",
+      "related_product": "电池管理系统、储能系统",
+      "quantitative_info": null,
+      "quote": "（3）电池数字化建模技术...电池数字化建模技术是通过仿真建模手段，精准预测电池在不同使用条件下的性能演变规律..."
+    },
+    {
+      "name": "数字智能化闭环验证技术",
+      "asset_type": "core_technology",
+      "related_product": "储能系统产品",
+      "quantitative_info": null,
+      "quote": "（4）数字智能化闭环验证技术...公司构建的数字智能化闭环验证体系，通过专业验证技术手段与完善的可靠性评价机制..."
+    },
+    {
+      "name": "电池管理系统技术",
+      "asset_type": "core_technology",
+      "related_product": "BMS",
+      "quantitative_info": "功能安全ASIL-C级",
+      "quote": "（5）电池管理系统技术...采用功能安全ASIL-C级高可靠设计..."
+    },
+    {
+      "name": "电力电子技术",
+      "asset_type": "core_technology",
+      "related_product": "PCS",
+      "quantitative_info": "最高效率突破 99.3%，功率密度达2.5kW/L以上",
+      "quote": "（6）电力电子技术...公司最新一代液冷组串式储能变流器，功率密度达2.5kW/L以上；搭载SiC三电平技术，最高效率突破 99.3%..."
+    },
+    {
+      "name": "热管理系统技术",
+      "asset_type": "core_technology",
+      "related_product": "储能系统热管理",
+      "quantitative_info": "电池温差≤3℃",
+      "quote": "（7）热管理系统技术...在温度控制方面，公司采用全贴合、最小热阻的方案，确保电池温差≤3℃..."
+    },
+    {
+      "name": "构网技术",
+      "asset_type": "core_technology",
+      "related_product": "PCS",
+      "quantitative_info": "功率分配误差＜1%，电网主动支撑响应时间＜20 毫秒",
+      "quote": "构网技术已实现虚拟同步机（VSG）控制、多机并联协调等核心突破，形成分层控制架构，可支持数千台级PCS 稳定并联运行，功率分配误差＜1%，电网主动支撑响应时间＜20 毫秒..."
+    },
+    {
+      "name": "授权知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得授权知识产权604项，其中授权专利241项，软件著作权255项。",
+      "quote": "截至报告期末，公司已累计获得授权知识产权604 项。其中累计授权专利241 项，包含发明专利112 项、实用新型专利99 项、外观设计专利30 项；累计登记软件著作权255项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "773,888.78 万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额773,888.78 万元，占年度销售总额66.64%..."
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "702,568.83 万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额702,568.83 万元，占年度采购总额71.07%..."
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "249,366.59 万元",
+      "related_entity": "客户一",
+      "period": "2025年度",
+      "quote": "公司前五名客户: 序号1: 客户一: 销售额: 249,366.59"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "429,028.88 万元",
+      "related_entity": "供应商一",
+      "period": "2025年度",
+      "quote": "公司前五名供应商: 序号1: 供应商一: 采购额: 429,028.88"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "电化学储能行业涉及多个技术领域和学科，随着行业技术水平不断提高，新技术和新产品的更迭速度较快，公司只有通过不断进行技术升级和创新，才能紧跟行业发展趋势...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、技术和产品迭代的风险...电化学储能行业涉及多个技术领域和学科，随着行业技术水平不断提高，新技术和新产品的更迭速度较快..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "众多厂商纷纷切入储能系统领域，市场竞争激烈。同时，上游供应商价格上涨，若未来国内储能系统市场价格仍持续下行，公司的储能系统产品也将面临毛利率随之下降的风险。",
+      "related_entity": null,
+      "related_product": "储能系统产品",
+      "quote": "1、毛利率下滑风险...众多厂商纷纷切入储能系统领域，市场竞争激烈。同时，上游供应商价格上涨，若未来国内储能系统市场价格仍持续下行，公司的储能系统产品也将面临毛利率随之下降的风险。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "对外采购的主要原材料为电芯、结构件、电气件、PCS 及升压变流舱和电子件等。公司采购价格受电芯上游原材料碳酸锂等价格波动的影响...另外，尽管储能电芯已实现高度国产化，但BMS 主控芯片等部分高端元器件仍对进口品牌存在一定依赖...",
+      "related_entity": null,
+      "related_product": "电芯、BMS主控芯片",
+      "quote": "1、供应链风险...对外采购的主要原材料为电芯、结构件、电气件、PCS 及升压变流舱和电子件等。公司采购价格受电芯上游原材料碳酸锂等价格波动的影响...另外，尽管储能电芯已实现高度国产化，但BMS 主控芯片等部分高端元器件仍对进口品牌存在一定依赖..."
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "前五名客户销售额773,888.78 万元，占年度销售总额66.64%；其中前五名客户销售额中关联方销售额0 万元。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "前五名客户销售额773,888.78 万元，占年度销售总额66.64%..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "2026年初，中国拟取消动力与储能电池出口退税，原有的企业出口依靠退税补贴维持海外价格竞争力的模式将难以为继。同时，国内价格战向海外蔓延。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、全球化市场竞争风险...2026 年初，中国拟取消动力与储能电池出口退税，原有的企业出口依靠退税补贴维持海外价格竞争力的模式将难以为继。同时，国内价格战向海外蔓延。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "海外收入以欧元、美元等外币计价，而成本端以人民币计价，汇率双向波动可能侵蚀海外项目利润...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、国际化经营的财务风险...汇率方面，公司海外收入以欧元、美元等外币计价，而成本端以人民币计价，汇率双向波动可能侵蚀海外项目利润..."
+    }
+  ]
+}

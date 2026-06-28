@@ -1,0 +1,562 @@
+{
+  "company_name_mentioned": "科润智能控制股份有限公司",
+  "produces": [
+    {
+      "name": "变压器",
+      "type": "device",
+      "revenue_proportion": "占营业收入比例为30.15% (424,307,065.68元)",
+      "quote": "变压器 424,307,065.68...占营业收入、营业成本总金额比例分别为30.15%、28.71%"
+    },
+    {
+      "name": "高低压成套开关设备",
+      "type": "device",
+      "revenue_proportion": "占营业收入比例为18.37% (258,514,410.41元)",
+      "quote": "高低压成套开关设备 258,514,410.41...占营业收入、营业成本总金额比例分别为18.37%、17.50%"
+    },
+    {
+      "name": "户外成套设备",
+      "type": "device",
+      "revenue_proportion": "占营业收入比例为18.48% (260,055,805.30元)",
+      "quote": "户外成套设备 260,055,805.30...占营业收入、营业成本总金额比例分别为18.48%、16.28%"
+    },
+    {
+      "name": "铜部件",
+      "type": "component",
+      "revenue_proportion": "占营业收入比例为23.85% (335,722,993.80元)",
+      "quote": "铜部件 335,722,993.80...占营业收入、营业成本总金额比例分别为23.85%、26.98%"
+    },
+    {
+      "name": "废铜",
+      "type": "material",
+      "revenue_proportion": "占营业收入比例为5.74% (80,729,600.69元)",
+      "quote": "废铜 80,729,600.69...占营业收入、营业成本总金额比例分别为5.74%、6.75%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜材",
+      "target_product": "变压器、铜部件等",
+      "cost_proportion": "采购占比较大",
+      "quote": "公司对外采购的材料主要分为三类，第一类为铜材、硅钢片等大宗金属原材料...为保证铜材、硅钢片等采购占比较大的原材料的稳定供应"
+    },
+    {
+      "name": "硅钢片",
+      "target_product": "变压器等",
+      "cost_proportion": "采购占比较大",
+      "quote": "公司对外采购的材料主要分为三类，第一类为铜材、硅钢片等大宗金属原材料...为保证铜材、硅钢片等采购占比较大的原材料的稳定供应"
+    },
+    {
+      "name": "断路器",
+      "target_product": "高低压成套开关设备等",
+      "cost_proportion": null,
+      "quote": "第二类是以断路器、互感器、电容器为代表的各类电气元件"
+    },
+    {
+      "name": "互感器",
+      "target_product": "高低压成套开关设备等",
+      "cost_proportion": null,
+      "quote": "第二类是以断路器、互感器、电容器为代表的各类电气元件"
+    },
+    {
+      "name": "电容器",
+      "target_product": "高低压成套开关设备等",
+      "cost_proportion": null,
+      "quote": "第二类是以断路器、互感器、电容器为代表的各类电气元件"
+    },
+    {
+      "name": "柜体",
+      "target_product": "高低压成套开关设备等",
+      "cost_proportion": null,
+      "quote": "第三类为柜体等其他材料。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源（含风能、光伏、储能等）",
+      "source_product": "变压器、高低压成套开关设备、户外成套设备",
+      "quote": "产品广泛应用于新能源（含风能、光伏、储能等）、高端装备、新型基建、高效节能等领域"
+    },
+    {
+      "name": "高端装备",
+      "source_product": "变压器、高低压成套开关设备、户外成套设备",
+      "quote": "产品广泛应用于新能源（含风能、光伏、储能等）、高端装备、新型基建、高效节能等领域"
+    },
+    {
+      "name": "新型基建",
+      "source_product": "变压器、高低压成套开关设备、户外成套设备",
+      "quote": "产品广泛应用于新能源（含风能、光伏、储能等）、高端装备、新型基建、高效节能等领域"
+    },
+    {
+      "name": "高效节能",
+      "source_product": "变压器、高低压成套开关设备、户外成套设备",
+      "quote": "产品广泛应用于新能源（含风能、光伏、储能等）、高端装备、新型基建、高效节能等领域"
+    },
+    {
+      "name": "城乡电网工程",
+      "source_product": "变压器、高低压成套开关设备、户外成套设备",
+      "quote": "产品广泛应用于电力能源供给、城乡电网工程、建筑交通用电、算力中心建设等领域"
+    },
+    {
+      "name": "建筑交通用电",
+      "source_product": "变压器、高低压成套开关设备、户外成套设备",
+      "quote": "产品广泛应用于电力能源供给、城乡电网工程、建筑交通用电、算力中心建设等领域"
+    },
+    {
+      "name": "算力中心建设",
+      "source_product": "变压器、高低压成套开关设备、户外成套设备",
+      "quote": "产品广泛应用于电力能源供给、城乡电网工程、建筑交通用电、算力中心建设等领域"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王荣",
+      "role": "董事长、法定代表人、控股股东、实际控制人",
+      "quote": "法定代表人 王荣...控股股东 控股股东为王荣...实际控制人为（王荣、王隆英）"
+    },
+    {
+      "name": "王隆英",
+      "role": "董事、副总经理、实际控制人",
+      "quote": "王隆英 女...董事、副总经理...实际控制人为（王荣、王隆英）"
+    },
+    {
+      "name": "章群锋",
+      "role": "董事、总经理",
+      "quote": "章群锋 董事、总经理"
+    },
+    {
+      "name": "李强",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "李强 董事、副总经理、董事会秘书"
+    },
+    {
+      "name": "何永福",
+      "role": "财务负责人",
+      "quote": "主管会计工作负责人何永福"
+    },
+    {
+      "name": "王丽娟",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）王丽娟"
+    },
+    {
+      "name": "廖小云",
+      "role": "职工代表董事、核心员工",
+      "quote": "廖小云 职工代表董事、核心员工"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "主要客户，销售金额271,154,276.89元，占比19.27%。",
+      "quote": "序号 客户 销售金额 年度销售占比% 1 国家电网有限公司 271,154,276.89 19.27%"
+    },
+    {
+      "name": "中国能源建设股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五大客户之一，销售金额49,741,588.53元，占比3.53%。",
+      "quote": "2 中国能源建设股份有限公司 49,741,588.53 3.53%"
+    },
+    {
+      "name": "江山市启宁工贸有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要供应商，采购金额227,222,934.48元，占比19.86%。",
+      "quote": "序号 供应商 采购金额 年度采购占比% 1 江山市启宁工贸有限公司 227,222,934.48 19.86%"
+    },
+    {
+      "name": "安徽高新电力科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购金额155,900,178.68元，占比13.62%。",
+      "quote": "2 安徽高新电力科技有限公司 155,900,178.68 13.62%"
+    },
+    {
+      "name": "安徽中晟铜业有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购金额97,414,659.72元，占比8.51%。",
+      "quote": "3 安徽中晟铜业有限公司 97,414,659.72 8.51%"
+    },
+    {
+      "name": "芜湖永杰高精铜带有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购金额38,874,059.12元，占比3.40%。",
+      "quote": "4 芜湖永杰高精铜带有限公司 38,874,059.12 3.40%"
+    },
+    {
+      "name": "无锡普天心销售有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商之一，采购金额29,153,058.61元，占比2.55%。",
+      "quote": "5 无锡普天心销售有限公司 29,153,058.61 2.55%"
+    },
+    {
+      "name": "施耐德",
+      "relation_type": "competitor",
+      "business_details": "跨国公司代表，争夺中国市场份额。",
+      "quote": "以美国GE公司、瑞士ABB公司、德国西门子、法国施耐德等为代表的跨国公司...对国内电气设备生产企业形成了较大的压力"
+    },
+    {
+      "name": "科润智能控制（安徽）有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，主营业务为铜排、铜线加工等。",
+      "quote": "黄山子公司 指 科润智能控制（安徽）有限责任公司...黄山子公司销售产品主要为铜排、铜线等上游产品"
+    },
+    {
+      "name": "遂川县科润新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司。",
+      "quote": "遂川子公司 指 遂川县科润新能源科技有限公司"
+    },
+    {
+      "name": "湖南创业德力电气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司本期新增纳入合并范围子公司，持股比例68%。",
+      "quote": "公司收购创业德力股权...持股比例由49%提升至68%，创业德力成为公司的控股子公司"
+    },
+    {
+      "name": "浙江斯科特变压器有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司投资设立的控股子公司，持股67%，生产符合美国电气安全标准的变压器产品。",
+      "quote": "公司设立了以生产符合美国电气安全标准的变压器产品为主的控股子公司浙江斯科特变压器有限公司...公司占有67%的股份"
+    },
+    {
+      "name": "科润智控（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司设立的全资子公司，作为国际化战略核心平台。",
+      "quote": "公司在香港设立全资子公司香港子公司...将此作为公司国际化战略的核心平台"
+    },
+    {
+      "name": "浙江科润智慧新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司。",
+      "quote": "智慧新能源子公司 指 浙江科润智慧新能源有限公司"
+    },
+    {
+      "name": "科润供应链管理（江山）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司。",
+      "quote": "供应链子公司 指 科润供应链管理（江山）有限公司"
+    },
+    {
+      "name": "浙江瑞城电力科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司。",
+      "quote": "瑞城电力 指 浙江瑞城电力科技有限公司"
+    },
+    {
+      "name": "科润智能控制（忻州）新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司。",
+      "quote": "忻州子公司 指 科润智能控制（忻州）新能源有限公司"
+    },
+    {
+      "name": "江山市思科特电气有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "与公司共同出资成立浙江斯科特变压器有限公司。",
+      "quote": "公司于2025年8月19日与江山市思科特电气有限公司签署合作投资协议，共同出资成立浙江斯科特变压器有限公司"
+    },
+    {
+      "name": "浙江工业大学",
+      "relation_type": "joint_venture",
+      "business_details": "合作研发单位。",
+      "quote": "报告期内，公司与浙江工业大学、衢州学院等高校展开合作研发"
+    },
+    {
+      "name": "衢州学院",
+      "relation_type": "joint_venture",
+      "business_details": "合作研发单位。",
+      "quote": "报告期内，公司与浙江工业大学、衢州学院等高校展开合作研发"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构。",
+      "quote": "天健会计师事务所（特殊普通合伙）对公司出具了标准无保留意见的审计报告"
+    },
+    {
+      "name": "财通证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "保荐机构。",
+      "quote": "报告期内履行持续督导职责的保荐机构 财通证券股份有限公司"
+    },
+    {
+      "name": "浙江江山农村商业股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，发生存贷款、票据贴现等业务。",
+      "quote": "与关联方江山农商行发生存贷款、票据贴现等业务"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "变压器",
+      "segment_type": "product_line",
+      "revenue_amount": "424,307,065.68元",
+      "revenue_proportion": "占营业收入比例30.15%",
+      "gross_margin": "16.48%",
+      "yoy_change": "营业收入同比下降5.63%",
+      "quote": "变压器 424,307,065.68...毛利率% 16.48%...营业收入比上年同期增减% -5.63%"
+    },
+    {
+      "name": "高低压成套开关设备",
+      "segment_type": "product_line",
+      "revenue_amount": "258,514,410.41元",
+      "revenue_proportion": "占营业收入比例18.37%",
+      "gross_margin": "16.44%",
+      "yoy_change": "营业收入同比下降8.74%",
+      "quote": "高低压成套开关设备 258,514,410.41...毛利率% 16.44%...营业收入比上年同期增减% -8.74%"
+    },
+    {
+      "name": "户外成套设备",
+      "segment_type": "product_line",
+      "revenue_amount": "260,055,805.30元",
+      "revenue_proportion": "占营业收入比例18.48%",
+      "gross_margin": "22.72%",
+      "yoy_change": "营业收入同比增长7.57%",
+      "quote": "户外成套设备 260,055,805.30...毛利率% 22.72%...营业收入比上年同期增减% 7.57%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,360,758,317.86元",
+      "revenue_proportion": null,
+      "gross_margin": "11.87%",
+      "yoy_change": "营业收入同比增长2.02%",
+      "quote": "境内销售 1,360,758,317.86...毛利率% 11.87%...营业收入比上年同期增减% 2.02%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "46,676,566.85元",
+      "revenue_proportion": null,
+      "gross_margin": "24.53%",
+      "yoy_change": "营业收入同比增长237.51%",
+      "quote": "境外销售 46,676,566.85...毛利率% 24.53%...营业收入比上年同期增减% 237.51%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "新型电力系统装备（光伏、风电、储能等应用场景）",
+      "metric_type": "capacity",
+      "value": "年产3,200套",
+      "period": null,
+      "quote": "智慧新能源电网装备项目、金加工车间柔性化生产线技改项目建成投产，实现年产3,200套新型电力系统装备的生产能力"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "智慧新能源电网装备项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产3,200套新型电力系统装备",
+      "progress": "陆续投产",
+      "expected_completion_time": null,
+      "quote": "智慧新能源电网装备项目、金加工车间柔性化生产线技改项目陆续投产"
+    },
+    {
+      "name": "金加工车间柔性化生产线技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "陆续投产",
+      "expected_completion_time": null,
+      "quote": "智慧新能源电网装备项目、金加工车间柔性化生产线技改项目陆续投产"
+    },
+    {
+      "name": "设立浙江斯科特变压器有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "6,700,000.00元",
+      "designed_capacity": "生产符合美国电气安全标准的变压器产品",
+      "progress": "已完成工商注册登记",
+      "expected_completion_time": null,
+      "quote": "公司投资设立控股子公司浙江斯科特变压器有限公司...投资金额 6,700,000.00...注册资本为1,000万元"
+    },
+    {
+      "name": "设立科润智控（香港）有限公司",
+      "project_type": "acquisition_project",
+      "location": "中国香港",
+      "investment_amount": "50万美元",
+      "designed_capacity": null,
+      "progress": "已取得境外投资证书",
+      "expected_completion_time": null,
+      "quote": "公司在香港设立全资子公司香港子公司...投资总额为50万美元...已取得境外投资证书"
+    },
+    {
+      "name": "继续收购湖南创业德力电气有限公司部分股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "14,608,700.00元",
+      "designed_capacity": null,
+      "progress": "已完成并纳入合并范围",
+      "expected_completion_time": null,
+      "quote": "公司继续收购湖南创业德力电气有限公司部分股权并将其纳入合并范围...投资金额 14,608,700.00"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "变压器、高低压成套开关设备、户外成套设备等",
+      "quantitative_info": "截至2025年12月31日，公司拥有相关专利97项，其中发明专利17项、实用新型专利75项、外观专利5项。",
+      "quote": "截至 2025 年 12月31日，公司拥有变压器、高低压成套开关设备、户外成套设备等领域的相关专利97项，其中发明专利17项、实用新型专利75项、外观专利5项。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "26项",
+      "quote": "此外，公司拥有软件著作权26项。"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“专精特新”认定 √国家级"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“高新技术企业”认定 是"
+    },
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025 年 2 月，公司获批设立国家级博士后科研工作站。"
+    },
+    {
+      "name": "国家级5G工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025 年 8 月...公司成功入选《2025年5G工厂名录》"
+    },
+    {
+      "name": "国家级绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "国家级绿色工厂 - 工业和信息化部"
+    },
+    {
+      "name": "国家级知识产权优势企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "国家级知识产权优势企业 - 国家知识产权局"
+    },
+    {
+      "name": "浙江制造精品",
+      "asset_type": "certification",
+      "related_product": "公司产品",
+      "quantitative_info": null,
+      "quote": "2025年8月...公司产品榜上有名（2025年“浙江制造精品”名单）"
+    },
+    {
+      "name": "储能系统EMS数据风险感控关键技术研发与应用",
+      "asset_type": "core_technology",
+      "related_product": "储能系统",
+      "quantitative_info": "已结题、试生产阶段；已申请验收",
+      "quote": "储能系统EMS 数据风险感控关键技术研发与应用...已结题、试生产阶段；已申请验收"
+    },
+    {
+      "name": "智能快速相控断路器关键技术研发与应用",
+      "asset_type": "core_technology",
+      "related_product": "断路器",
+      "quantitative_info": "中试阶段",
+      "quote": "智能快速相控断路器关键技术研发与应用...中试阶段"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28.87%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "合计 406,341,619.22 28.87% -"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "19.27%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年度",
+      "quote": "序号 客户 销售金额 年度销售占比% 1 国家电网有限公司 271,154,276.89 19.27%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "47.94%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "合计 548,564,890.61 47.94% -"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "19.86%",
+      "related_entity": "江山市启宁工贸有限公司",
+      "period": "2025年度",
+      "quote": "序号 供应商 采购金额 年度采购占比% 1 江山市启宁工贸有限公司 227,222,934.48 19.86%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "公司持续开拓以国家电网及大型央企为代表的高质量客户",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司拥有资信优良且稳定的客户群体，持续开拓以国家电网及大型央企为代表的高质量客户"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "公司与产品质量可靠、供应能力充足的重要供应商形成了长久和紧密的合作关系",
+      "related_entity": null,
+      "period": null,
+      "quote": "为保证铜材、硅钢片等采购占比较大的原材料的稳定供应，公司与产品质量可靠、供应能力充足的重要供应商形成了长久和紧密的合作关系"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "铜材、硅钢片等金属材料价格与大宗商品市场直接相关，价格具有一定波动性，会直接造成公司采购成本的波动，影响经营业绩。",
+      "related_entity": null,
+      "related_product": "铜材、硅钢片",
+      "quote": "原材料价格波动的风险...铜材、硅钢片等金属材料价格与大宗商品市场直接相关，交易活跃且价格具有一定波动性。原材料价格波动会直接造成公司采购成本的波动从而引起公司营业成本的变动，影响公司经营业绩。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "输配电及控制设备制造业是技术密集型行业，产品向智能化、节能环保化等方向演进，如果公司不能及时了解市场趋势并进行技术创新，可能在竞争中处于不利地位。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术落后的风险...输配电及控制设备制造业是典型的技术密集型行业...如果公司不能及时了解到市场发展趋势，无法通过持续的自主研发和技术创新...则有可能在未来的市场竞争中处于不利地位"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "输配电及控制设备制造领域竞争相对充分，国内企业数量众多，同时面临跨国公司（如美国GE、瑞士ABB、德国西门子、法国施耐德）的竞争压力。",
+      "related_entity": "美国GE公司、瑞士ABB公司、德国西门子、法国施耐德",
+      "related_product": null,
+      "quote": "市场竞争风险...我国输配电及控制设备制造领域是一个竞争相对充分的市场...同时，以美国GE公司、瑞士ABB公司、德国西门子、法国施耐德等为代表的跨国公司...对国内电气设备生产企业形成了较大的压力，加剧了行业内的竞争。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "如果未来下游应用行业发展放缓，以及与主要客户的合作终止或出现重大不利变化，且未能及时开拓新客户，可能会对公司业务带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "下游行业发展不及预期的风险...如果未来下游应用行业发展放缓，以及公司与主要客户的合作终止或出现重大不利变化，且公司未能及时开拓新客户，可能会对公司业务带来不利影响"
+    },
+    {
+      "risk_type": "other",
+      "description": "技术人员流失的风险。掌握核心工艺的技术人才和高级管理人员的争夺或日益激烈，如果公司激励机制不完善，可能造成核心技术人员流失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术人员流失的风险...输配电行业内，掌握专业核心工艺的技术人才和高级管理人员的争夺或日益激烈...如果公司在人才激励方面不够完善，可能造成公司核心技术人员流失"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司业务涉及海外销售，日常运营中涉及外币收付汇及结售汇业务。汇率波动可能对公司的财务状况、经营成果及现金流量造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "外汇汇率波动的风险...公司业务经营涉及海外销售，日常运营中涉及外币（如美元）的收付汇及结售汇业务...如果人民币兑外币的汇率出现大幅波动...将可能对公司的财务状况、经营成果以及现金流量的稳定性造成不利影响"
+    }
+  ]
+}

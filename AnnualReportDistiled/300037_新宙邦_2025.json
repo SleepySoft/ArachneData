@@ -1,0 +1,589 @@
+{
+  "company_name_mentioned": "深圳新宙邦科技股份有限公司",
+  "produces": [
+    {
+      "name": "电池化学品",
+      "type": "material",
+      "revenue_proportion": "69.29%",
+      "quote": "公司主营业务是新型电子化学品及功能材料的研发、生产、销售和服务，主要产品包括电池化学品、有机氟化学品、电子信息化学品三大系列。"
+    },
+    {
+      "name": "有机氟化学品",
+      "type": "material",
+      "revenue_proportion": "14.80%",
+      "quote": "公司主营业务是新型电子化学品及功能材料的研发、生产、销售和服务，主要产品包括电池化学品、有机氟化学品、电子信息化学品三大系列。"
+    },
+    {
+      "name": "电子信息化学品",
+      "type": "material",
+      "revenue_proportion": "15.19%",
+      "quote": "公司主营业务是新型电子化学品及功能材料的研发、生产、销售和服务，主要产品包括电池化学品、有机氟化学品、电子信息化学品三大系列。"
+    },
+    {
+      "name": "锂离子电池电解液",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "电池化学品主要产品分为：锂离子电池化学品（包括锂离子电池电解液、添加剂、新型锂盐、碳酸酯溶剂）、超级电容器化学品、一次锂电池化学品、钠离子电池化学品、固态电池化学材料等。"
+    },
+    {
+      "name": "含氟精细化学品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要产品包括含氟精细化学品和含氟聚合物。"
+    },
+    {
+      "name": "含氟聚合物",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要产品包括含氟精细化学品和含氟聚合物。"
+    },
+    {
+      "name": "电容化学品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司电子信息化学品包含电容化学品和半导体化学品。"
+    },
+    {
+      "name": "半导体化学品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司电子信息化学品包含电容化学品和半导体化学品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "锂盐类",
+      "target_product": "锂离子电池电解液",
+      "cost_proportion": "36.12%",
+      "quote": "主要原材料的采购模式：锂盐类 集中采购 36.12%"
+    },
+    {
+      "name": "碳酸酯溶剂类",
+      "target_product": "锂离子电池电解液",
+      "cost_proportion": "18.10%",
+      "quote": "主要原材料的采购模式：碳酸酯溶剂类 集中采购 18.10%"
+    },
+    {
+      "name": "锂电添加剂类",
+      "target_product": "锂离子电池电解液",
+      "cost_proportion": "15.49%",
+      "quote": "主要原材料的采购模式：锂电添加剂类 集中采购 15.49%"
+    },
+    {
+      "name": "萤石矿",
+      "target_product": "含氟精细化学品",
+      "cost_proportion": null,
+      "quote": "公司有机氟化学品主要涉及四氟乙烯及六氟丙烯衍生的产品，上游产业包括：萤石矿、无水氟化氢、氯仿等。"
+    },
+    {
+      "name": "无水氟化氢",
+      "target_product": "含氟精细化学品",
+      "cost_proportion": null,
+      "quote": "公司有机氟化学品主要涉及四氟乙烯及六氟丙烯衍生的产品，上游产业包括：萤石矿、无水氟化氢、氯仿等。"
+    },
+    {
+      "name": "氯仿",
+      "target_product": "含氟精细化学品",
+      "cost_proportion": null,
+      "quote": "公司有机氟化学品主要涉及四氟乙烯及六氟丙烯衍生的产品，上游产业包括：萤石矿、无水氟化氢、氯仿等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "动力、储能和消费类电池",
+      "source_product": "锂离子电池电解液",
+      "quote": "锂离子电池电解液主要应用于动力、储能和消费类电池领域。"
+    },
+    {
+      "name": "超级电容器",
+      "source_product": "超级电容器化学品",
+      "quote": "超级电容器化学品主要应用于超级电容器。"
+    },
+    {
+      "name": "一次锂电池",
+      "source_product": "一次锂电池化学品",
+      "quote": "一次锂电池化学品主要应用于一次锂电池。"
+    },
+    {
+      "name": "医药、汽车、新能源、显示器件、数字基建",
+      "source_product": "有机氟化学品",
+      "quote": "公司有机氟化学品业务涉及的下游包括医药、汽车、新能源、显示器件、数字基建等领域。"
+    },
+    {
+      "name": "电容器制造厂家、电极箔制造厂家",
+      "source_product": "电容化学品",
+      "quote": "电容化学品上游为基础化工材料，下游是电容器制造厂家、电极箔制造厂家。"
+    },
+    {
+      "name": "集成电路、显示面板",
+      "source_product": "半导体化学品",
+      "quote": "半导体化学品上游为基础化工原料，下游应用领域主要有集成电路、显示面板等行业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "覃九三",
+      "role": "董事长",
+      "quote": "公司负责人覃九三、主管会计工作负责人黄瑶及会计机构负责人（会计主管人员）黄瑶声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "周达文",
+      "role": "副董事长",
+      "quote": "2025年12月起任公司副董事长。"
+    },
+    {
+      "name": "郑仲天",
+      "role": "总工程师",
+      "quote": "2025年12月起任公司董事、总工程师。"
+    },
+    {
+      "name": "钟美红",
+      "role": "董事",
+      "quote": "2017年4月起任公司董事。"
+    },
+    {
+      "name": "周艾平",
+      "role": "常务副总裁",
+      "quote": "2017年4月起任公司常务副总裁。"
+    },
+    {
+      "name": "吴成英",
+      "role": "董事、副总裁",
+      "quote": "2025年12月起任公司董事、副总裁。"
+    },
+    {
+      "name": "姜希松",
+      "role": "总裁",
+      "quote": "2025年12月起任公司总裁。"
+    },
+    {
+      "name": "宋慧",
+      "role": "副总裁",
+      "quote": "2017年4月起任公司副总裁。"
+    },
+    {
+      "name": "钱韫娴",
+      "role": "副总裁",
+      "quote": "2025年12月起任公司副总裁。"
+    },
+    {
+      "name": "江卫健",
+      "role": "副总裁",
+      "quote": "2025年12月起任公司副总裁。"
+    },
+    {
+      "name": "贺靖策",
+      "role": "董事会秘书",
+      "quote": "2020年9月起任公司董事会秘书。"
+    },
+    {
+      "name": "黄瑶",
+      "role": "财务总监",
+      "quote": "2020年9月起任公司财务总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "惠州宙邦",
+      "relation_type": "subsidiary",
+      "business_details": "惠州宙邦四期电子化学品项目",
+      "quote": "惠州宙邦 指 惠州市宙邦化工有限公司，为本公司全资子公司"
+    },
+    {
+      "name": "南通新宙邦",
+      "relation_type": "subsidiary",
+      "business_details": "南通新宙邦科技半导体新材料及电池化学品项目",
+      "quote": "南通新宙邦 指 南通新宙邦电子材料有限公司，为本公司全资子公司"
+    },
+    {
+      "name": "三明海斯福",
+      "relation_type": "subsidiary",
+      "business_details": "三明海斯福年产3万吨高端氟精细化学品项目",
+      "quote": "三明海斯福 指 三明市海斯福化工有限责任公司，为本公司控股子公司"
+    },
+    {
+      "name": "石磊氟材料",
+      "relation_type": "joint_venture",
+      "business_details": "战略布局了电解液的关键原材料六氟磷酸锂",
+      "quote": "石磊氟材料 指 江西石磊氟材料有限责任公司，为本公司合营企业"
+    },
+    {
+      "name": "福建永晶",
+      "relation_type": "investor",
+      "business_details": "布局上游氢氟酸",
+      "quote": "福建永晶 指 福建永晶科技股份有限公司，为本公司联营企业"
+    },
+    {
+      "name": "天赐材料",
+      "relation_type": "competitor",
+      "business_details": "锂离子电池电解液业务的主要可比公司",
+      "quote": "公司锂离子电池电解液业务的主要可比公司有天赐材料和石大胜华。"
+    },
+    {
+      "name": "石大胜华",
+      "relation_type": "competitor",
+      "business_details": "锂离子电池电解液业务的主要可比公司",
+      "quote": "公司锂离子电池电解液业务的主要可比公司有天赐材料和石大胜华。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电池化学品",
+      "segment_type": "product_line",
+      "revenue_amount": "6,679,287,833.00",
+      "revenue_proportion": "69.29%",
+      "gross_margin": "10.93%",
+      "yoy_change": "30.57%",
+      "quote": "电池化学品 6,679,287,833.00 69.29%"
+    },
+    {
+      "name": "有机氟化学品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,426,342,449.53",
+      "revenue_proportion": "14.80%",
+      "gross_margin": "61.74%",
+      "yoy_change": "-6.70%",
+      "quote": "有机氟化学品 1,426,342,449.53 14.80%"
+    },
+    {
+      "name": "电子信息化学品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,464,610,164.45",
+      "revenue_proportion": "15.19%",
+      "gross_margin": "48.25%",
+      "yoy_change": "29.14%",
+      "quote": "电子信息化学品 1,464,610,164.45 15.19%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "8,024,056,069.27",
+      "revenue_proportion": "83.24%",
+      "gross_margin": "20.69%",
+      "yoy_change": "35.95%",
+      "quote": "境内销售 8,024,056,069.27 83.24%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "1,615,111,763.25",
+      "revenue_proportion": "16.76%",
+      "gross_margin": "42.09%",
+      "yoy_change": "-16.95%",
+      "quote": "境外销售 1,615,111,763.25 16.76%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,693,814,444.00",
+      "revenue_proportion": "90.19%",
+      "gross_margin": "21.98%",
+      "yoy_change": "21.86%",
+      "quote": "直销 8,693,814,444.00 90.19%"
+    },
+    {
+      "name": "分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "945,353,388.52",
+      "revenue_proportion": "9.81%",
+      "gross_margin": "45.38%",
+      "yoy_change": "32.65%",
+      "quote": "分销 945,353,388.52 9.81%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电池化学品",
+      "metric_type": "capacity",
+      "value": "681,577吨",
+      "period": "2025年",
+      "quote": "电池化学品 681,577"
+    },
+    {
+      "product": "电池化学品",
+      "metric_type": "capacity_utilization",
+      "value": "77.66%",
+      "period": "2025年",
+      "quote": "电池化学品 77.66%"
+    },
+    {
+      "product": "电池化学品",
+      "metric_type": "production_volume",
+      "value": "529,311吨",
+      "period": "2025年",
+      "quote": "电池化学品 529,311"
+    },
+    {
+      "product": "有机氟化学品",
+      "metric_type": "capacity",
+      "value": "19,585吨",
+      "period": "2025年",
+      "quote": "有机氟化学品 19,585"
+    },
+    {
+      "product": "有机氟化学品",
+      "metric_type": "capacity_utilization",
+      "value": "82.14%",
+      "period": "2025年",
+      "quote": "有机氟化学品 82.14%"
+    },
+    {
+      "product": "有机氟化学品",
+      "metric_type": "production_volume",
+      "value": "16,088吨",
+      "period": "2025年",
+      "quote": "有机氟化学品 16,088"
+    },
+    {
+      "product": "电子信息化学品",
+      "metric_type": "capacity",
+      "value": "150,522吨",
+      "period": "2025年",
+      "quote": "电子信息化学品 150,522"
+    },
+    {
+      "product": "电子信息化学品",
+      "metric_type": "capacity_utilization",
+      "value": "51.64%",
+      "period": "2025年",
+      "quote": "电子信息化学品 51.64%"
+    },
+    {
+      "product": "电子信息化学品",
+      "metric_type": "production_volume",
+      "value": "77,731吨",
+      "period": "2025年",
+      "quote": "电子信息化学品 77,731"
+    },
+    {
+      "product": "电池化学品",
+      "metric_type": "sales_volume",
+      "value": "538,105吨",
+      "period": "2025年",
+      "quote": "电池化学品 538,105"
+    },
+    {
+      "product": "公司",
+      "metric_type": "inventory_volume",
+      "value": "12,030吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 12,030"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "惠州宙邦四期电子化学品项目",
+      "project_type": "capacity_expansion",
+      "location": "惠州市",
+      "investment_amount": "91,040,986.47",
+      "designed_capacity": null,
+      "progress": "60.00%",
+      "expected_completion_time": null,
+      "quote": "惠州宙邦四期电子化学品项目 91,040,986.47 60.00%"
+    },
+    {
+      "name": "南通新宙邦科技半导体新材料及电池化学品项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "南通市",
+      "investment_amount": "161,641,944.00",
+      "designed_capacity": null,
+      "progress": "90.00%",
+      "expected_completion_time": null,
+      "quote": "南通新宙邦科技半导体新材料及电池化学品项目（一期） 161,641,944.00 90.00%"
+    },
+    {
+      "name": "三明海斯福年产3万吨高端氟精细化学品项目",
+      "project_type": "capacity_expansion",
+      "location": "三明市",
+      "investment_amount": "40,380,811.25",
+      "designed_capacity": "年产3万吨",
+      "progress": "25.00%",
+      "expected_completion_time": null,
+      "quote": "三明海斯福年产3万吨高端氟精细化学品项目 40,380,811.25 25.00%"
+    },
+    {
+      "name": "海德福年产5000吨高性能氟材料项目（1.5期）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "68,543,819.88",
+      "designed_capacity": "年产5000吨",
+      "progress": "55.00%",
+      "expected_completion_time": null,
+      "quote": "海德福年产5000吨高性能氟材料项目（1.5期） 68,543,819.88 55.00%"
+    },
+    {
+      "name": "马来西亚诺莱特电子化学品项目",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": "37,038,085.25",
+      "designed_capacity": null,
+      "progress": "25.00%",
+      "expected_completion_time": null,
+      "quote": "马来西亚诺莱特电子化学品项目 37,038,085.25 25.00%"
+    },
+    {
+      "name": "美国新宙邦电池化学品项目",
+      "project_type": "other",
+      "location": "美国",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "筹建中",
+      "expected_completion_time": null,
+      "quote": "美国新宙邦电池化学品项目、中东新宙邦锂离子电池材料项目、波兰锂离子电池材料项目二期等正在筹建中。"
+    },
+    {
+      "name": "中东新宙邦锂离子电池材料项目",
+      "project_type": "other",
+      "location": "中东",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "筹建中",
+      "expected_completion_time": null,
+      "quote": "美国新宙邦电池化学品项目、中东新宙邦锂离子电池材料项目、波兰锂离子电池材料项目二期等正在筹建中。"
+    },
+    {
+      "name": "波兰锂离子电池材料项目二期",
+      "project_type": "capacity_expansion",
+      "location": "波兰",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "筹建中",
+      "expected_completion_time": null,
+      "quote": "美国新宙邦电池化学品项目、中东新宙邦锂离子电池材料项目、波兰锂离子电池材料项目二期等正在筹建中。"
+    },
+    {
+      "name": "衡阳福邦年产10000吨双氟磺酰亚胺锂项目",
+      "project_type": "capacity_expansion",
+      "location": "衡阳市",
+      "investment_amount": null,
+      "designed_capacity": "年产10000吨",
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "衡阳福邦年产10000吨双氟磺酰亚胺锂项目等正在建设中"
+    },
+    {
+      "name": "荆门新宙邦年产28.3万吨锂电池材料项目二期",
+      "project_type": "capacity_expansion",
+      "location": "荆门市",
+      "investment_amount": "19,520,495.08",
+      "designed_capacity": "年产28.3万吨",
+      "progress": "20.00%",
+      "expected_completion_time": null,
+      "quote": "荆门新宙邦年产28.3万吨锂电池材料项目二期 19,520,495.08 20.00%"
+    },
+    {
+      "name": "宜昌新宙邦电子化学品项目",
+      "project_type": "capacity_expansion",
+      "location": "宜昌市",
+      "investment_amount": "16,001,293.61",
+      "designed_capacity": null,
+      "progress": "45.00%",
+      "expected_completion_time": null,
+      "quote": "宜昌新宙邦电子化学品项目（电容化学品项目） 16,001,293.61 45.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "锂电电解液用新型界面保护添加剂",
+      "asset_type": "process_technology",
+      "related_product": "锂离子电池电解液",
+      "quantitative_info": "已申请《锂离子电池非水电解液和锂离子电池》《一种锂离子电池电解液》等专利≥40篇",
+      "quote": "拥有核心制备工艺及电解液配方案及配方知识产权，已申请《锂离子电池非水电解液和锂离子电池》《一种锂离子电池电解液》等专利≥40篇"
+    },
+    {
+      "name": "ECOSIP™ Technology",
+      "asset_type": "process_technology",
+      "related_product": "碳酸酯溶剂",
+      "quantitative_info": "已申请《直链碳酸酯及其制备方法》等知识产权≥15篇",
+      "quote": "新宙邦ECOSIP™ Technology（Ethylene Oxide to Carbonate Solvents Integrated Process），即环氧乙烷至碳酸酯溶剂绿色一体化工艺技术，已申请《直链碳酸酯及其制备方法》等知识产权≥15篇"
+    },
+    {
+      "name": "新型锂盐双氟磺酰亚胺锂",
+      "asset_type": "core_technology",
+      "related_product": "锂离子电池电解液",
+      "quantitative_info": "已申请《一种双氟磺酰亚胺锂盐的制备方法》等专利≥3篇",
+      "quote": "拥有核心知识产权，已申请《一种双氟磺酰亚胺锂盐的制备方法》等专利≥3篇"
+    },
+    {
+      "name": "固态电解质",
+      "asset_type": "core_technology",
+      "related_product": "固态电池",
+      "quantitative_info": "已申请《一种固态电解质及固态锂离子电池》《一种固态电解质》等知识产权申请≥35篇",
+      "quote": "已申请《一种固态电解质及固态锂离子电池》《一种固态电解质》等知识产权申请≥35篇"
+    },
+    {
+      "name": "全氟异丁腈",
+      "asset_type": "process_technology",
+      "related_product": "电力绝缘气体",
+      "quantitative_info": "已申请《一种全氟烷基腈的制备方法》《一种七氟异丁腈的制备方法及七氟异丁腈》",
+      "quote": "《一种全氟烷基腈的制备方法》《一种七氟异丁腈的制备方法及七氟异丁腈》"
+    },
+    {
+      "name": "铝电解电容器用化学品",
+      "asset_type": "process_technology",
+      "related_product": "铝电解电容器",
+      "quantitative_info": "《一种高压铝电解电容器用电解液及高压铝电解电容器》专利申请",
+      "quote": "《一种高压铝电解电容器用电解液及高压铝电解电容器》专利申请"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.61%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 34.61%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "35.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 35.02%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "16.08%",
+      "related_entity": "第一名供应商",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 16.08%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内方面，新能源市场的持续发展吸引了众多企业涉足电池化学品领域，且小部分下游企业通过自产、合资等方式进行不同程度的电解液自供，行业竞争压力较大。海外方面，贸易摩擦带来的不确定性可能影响国际市场需求。",
+      "related_entity": null,
+      "related_product": "电池化学品",
+      "quote": "（1）市场竞争的风险 国内方面，新能源市场的持续发展吸引了众多企业涉足电池化学品领域，且小部分下游企业通过自产、合资等方式进行不同程度的电解液自供，行业竞争压力较大。海外方面，贸易摩擦带来的不确定性可能影响国际市场需求。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "电子化学品与功能材料是精细化工的重要分支，其原料主要来源于矿物资源、植物提取物及石油冶炼与化工合成产物。供需格局演变与成本结构重塑相互叠加，使原料采购价格波动加剧，进而对企业的成本管控体系与经营效益构成持续性挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）原材料价格波动风险 电子化学品与功能材料是精细化工的重要分支，其原料主要来源于矿物资源、植物提取物及石油冶炼与化工合成产物。供需格局演变与成本结构重塑相互叠加，使原料采购价格波动加剧，进而对企业的成本管控体系与经营效益构成持续性挑战。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司作为电子化学品与功能材料领域的国家级高新技术企业，其核心产品如电池化学品、有机氟化学品、电容化学品、半导体化学品等，是支撑新能源电动汽车、消费电子、生物医药、数字基建、光伏储能等战略性新兴产业发展的关键基础材料。鉴于生产过程中所使用的基础化学原料及部分产成品本身具有易燃、易爆、强腐蚀性或一定生物毒性等危险特性，公司在物料存储、生产制造、产品运输、使用指导及废弃物处置的全生命周期链条中，客观上存在由物料属性、生产工艺、设备设施、监测监控等综合因素诱发的职业健康安全与生态环境保护（EHS）风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）安全生产与生态环境保护风险 公司作为电子化学品与功能材料领域的国家级高新技术企业，其核心产品如电池化学品、有机氟化学品、电容化学品、半导体化学品等，是支撑新能源电动汽车、消费电子、生物医药、数字基建、光伏储能等战略性新兴产业发展的关键基础材料。鉴于生产过程中所使用的基础化学原料及部分产成品本身具有易燃、易爆、强腐蚀性或一定生物毒性等危险特性，公司在物料存储、生产制造、产品运输、使用指导及废弃物处置的全生命周期链条中，客观上存在由物料属性、生产工艺、设备设施、监测监控等综合因素诱发的职业健康安全与生态环境保护（EHS）风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "2023年2月7日，欧洲化学品管理局（ECHA）公布了丹麦、德国、荷兰、挪威、瑞典五国共同提交的针对全氟和多氟烷基类物质（PFAS）的REACH法规限制提案，涵盖了约1万种被定义为PFAS的化合物，旨在从根本上全面禁止所有1万种PFAS化学品的生产、销售和使用。未来氟化工行业将面临国内外PFAS相关法规的挑战及影响。",
+      "related_entity": "欧洲化学品管理局（ECHA）",
+      "related_product": "含氟精细化学品、含氟聚合物",
+      "quote": "（4）合规性风险 2023年2月7日，欧洲化学品管理局（ECHA）公布了丹麦、德国、荷兰、挪威、瑞典五国共同提交的针对全氟和多氟烷基类物质（PFAS）的REACH法规限制提案，涵盖了约1万种被定义为PFAS的化合物，旨在从根本上全面禁止所有1万种PFAS化学品的生产、销售和使用。未来氟化工行业将面临国内外PFAS相关法规的挑战及影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "应用终端对于能量存储器件的要求在不断提升，具体体现在对于锂离子电池的能量密度、快充性能、安全、宽温域等不断提出新的要求，同时其他的具有各自优点的储能技术路线也在快速发展与锂离子电池竞争市场，包括氢燃料电池、钠离子电池、固态电池、液流电池、双电层电容器、飞轮储能、蓄热蓄冷储能、压缩空气储能等。若终端技术需求或者技术路线发生重大变化，将对公司的经营业绩产生重要影响。",
+      "related_entity": null,
+      "related_product": "电池化学品",
+      "quote": "（5）新产品和新技术迭代风险 应用终端对于能量存储器件的要求在不断提升，具体体现在对于锂离子电池的能量密度、快充性能、安全、宽温域等不断提出新的要求，同时其他的具有各自优点的储能技术路线也在快速发展与锂离子电池竞争市场，包括氢燃料电池、钠离子电池、固态电池、液流电池、双电层电容器、飞轮储能、蓄热蓄冷储能、压缩空气储能等。若终端技术需求或者技术路线发生重大变化，将对公司的经营业绩产生重要影响。"
+    }
+  ]
+}

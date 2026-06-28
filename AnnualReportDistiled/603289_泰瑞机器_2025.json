@@ -1,0 +1,566 @@
+{
+  "company_name_mentioned": "泰瑞机器股份有限公司",
+  "produces": [
+    {
+      "name": "注塑机",
+      "type": "device",
+      "revenue_proportion": "1,131,841,879.66元，占主营业务收入比例约为94.73%（基于主营业务收入1,194,785,218.26元计算，但原文未明确给出比例，因此此处仅提取金额）",
+      "quote": "公司注塑机主要产品为NEO系列和Dream系列，包括肘杆式注塑机、二板式注塑机、全电动注塑机、多组分注塑机。...注塑机 1,131,841,879.66"
+    },
+    {
+      "name": "压铸机",
+      "type": "device",
+      "revenue_proportion": "13,795,302.39元",
+      "quote": "压铸机 13,795,302.39"
+    },
+    {
+      "name": "配件及劳务",
+      "type": "service",
+      "revenue_proportion": "49,148,036.21元",
+      "quote": "配件及劳务 49,148,036.21"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铸件及生铁等铸件原材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购内容品种繁多，主要包括生产物料和设备，其中，生产物料主要为铸件及生铁等铸件原材料、机架及钢铁等机架原材料、液压外购件、电气外购件、螺杆料筒、拉杆等"
+    },
+    {
+      "name": "机架及钢铁等机架原材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购内容品种繁多，主要包括生产物料和设备，其中，生产物料主要为铸件及生铁等铸件原材料、机架及钢铁等机架原材料、液压外购件、电气外购件、螺杆料筒、拉杆等"
+    },
+    {
+      "name": "液压外购件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购内容品种繁多，主要包括生产物料和设备，其中，生产物料主要为铸件及生铁等铸件原材料、机架及钢铁等机架原材料、液压外购件、电气外购件、螺杆料筒、拉杆等"
+    },
+    {
+      "name": "电气外购件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购内容品种繁多，主要包括生产物料和设备，其中，生产物料主要为铸件及生铁等铸件原材料、机架及钢铁等机架原材料、液压外购件、电气外购件、螺杆料筒、拉杆等"
+    },
+    {
+      "name": "螺杆料筒",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购内容品种繁多，主要包括生产物料和设备，其中，生产物料主要为铸件及生铁等铸件原材料、机架及钢铁等机架原材料、液压外购件、电气外购件、螺杆料筒、拉杆等"
+    },
+    {
+      "name": "拉杆",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购内容品种繁多，主要包括生产物料和设备，其中，生产物料主要为铸件及生铁等铸件原材料、机架及钢铁等机架原材料、液压外购件、电气外购件、螺杆料筒、拉杆等"
+    },
+    {
+      "name": "设备（镗铣床、加工中心、起重机等）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "设备主要为镗铣床、各种加工中心、起重机等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车行业",
+      "source_product": "注塑机、压铸机",
+      "quote": "注塑机广泛应用于汽车配件、家用电器、3C、包装及仓储物流等行业，压铸机下游主要应用领域是汽车配件、家用电器、3C等领域"
+    },
+    {
+      "name": "家用电器",
+      "source_product": "注塑机、压铸机",
+      "quote": "注塑机广泛应用于汽车配件、家用电器、3C、包装及仓储物流等行业，压铸机下游主要应用领域是汽车配件、家用电器、3C等领域"
+    },
+    {
+      "name": "3C产品",
+      "source_product": "注塑机、压铸机",
+      "quote": "注塑机广泛应用于汽车配件、家用电器、3C、包装及仓储物流等行业，压铸机下游主要应用领域是汽车配件、家用电器、3C等领域"
+    },
+    {
+      "name": "包装及物流",
+      "source_product": "注塑机",
+      "quote": "注塑机广泛应用于汽车配件、家用电器、3C、包装及仓储物流等行业"
+    },
+    {
+      "name": "医疗",
+      "source_product": "注塑机",
+      "quote": "塑料制品被广泛应用于汽车、家电、3C、包装、物流、医疗、城市建设、环保等领域。"
+    },
+    {
+      "name": "城市建设",
+      "source_product": "注塑机",
+      "quote": "塑料制品被广泛应用于汽车、家电、3C、包装、物流、医疗、城市建设、环保等领域。"
+    },
+    {
+      "name": "环保",
+      "source_product": "注塑机",
+      "quote": "塑料制品被广泛应用于汽车、家电、3C、包装、物流、医疗、城市建设、环保等领域。"
+    },
+    {
+      "name": "新能源汽车车身结构件、电池包、5G通讯设备壳体",
+      "source_product": "压铸机",
+      "quote": "主要用于新能源汽车车身结构件、电池包、5G通讯设备壳体等。"
+    },
+    {
+      "name": "瓶盖与薄壁包装行业",
+      "source_product": "电动注塑机",
+      "quote": "推动瓶盖与薄壁包装行业整体生产效率的提升"
+    },
+    {
+      "name": "循环经济（塑料再生造粒）",
+      "source_product": "注塑机",
+      "quote": "泰瑞机器提出了如何在塑料再生造粒简化流程，...生产过程降低成本，从而帮助客户提高效率和利润。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑建国",
+      "role": "董事长、总经理、法定代表人、实际控制人",
+      "quote": "公司实际控制人 指 郑建国、何英夫妇 ... 郑建国 现任公司董事长、总经理。"
+    },
+    {
+      "name": "何英",
+      "role": "董事、副总经理、实际控制人",
+      "quote": "公司实际控制人 指 郑建国、何英夫妇 ... 何英 现任公司董事、副总经理。"
+    },
+    {
+      "name": "丁宏娇",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 丁宏娇"
+    },
+    {
+      "name": "章丽芳",
+      "role": "主管会计工作负责人、会计机构负责人",
+      "quote": "主管会计工作负责人章丽芳 及会计机构负责人（会计主管人员）章丽芳"
+    },
+    {
+      "name": "林云青",
+      "role": "董事",
+      "quote": "林云青 董事"
+    },
+    {
+      "name": "李志杰",
+      "role": "董事",
+      "quote": "李志杰 董事"
+    },
+    {
+      "name": "郑佳辰",
+      "role": "董事",
+      "quote": "郑佳辰 董事"
+    },
+    {
+      "name": "祝新辉",
+      "role": "职工董事",
+      "quote": "祝新辉 职工董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "杭州泰德瑞克投资管理有限公司（泰德瑞克）",
+      "relation_type": "investor",
+      "business_details": "公司控股股东",
+      "quote": "泰德瑞克 指 杭州泰德瑞克投资管理有限公司，公司控股股东"
+    },
+    {
+      "name": "TEDERIC TECHNOLOGY LIMITED",
+      "relation_type": "investor",
+      "business_details": "公司第二大股东",
+      "quote": "TEDERIC BVI 指 TEDERIC TECHNOLOGY LIMITED，公司第二大股东"
+    },
+    {
+      "name": "浙江泰瑞重型机械有限公司（泰瑞重机）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "泰瑞重机 指 浙江泰瑞重型机械有限公司，公司全资子公司"
+    },
+    {
+      "name": "泰瑞贸易（国际）有限公司（泰瑞香港）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "泰瑞香港 指 泰瑞贸易（国际）有限公司，公司全资子公司"
+    },
+    {
+      "name": "浙江泰瑞装备有限公司（浙江泰瑞）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "浙江泰瑞 指 浙江泰瑞装备有限公司，公司全资子公司"
+    },
+    {
+      "name": "广东泰瑞装备有限公司（广东泰瑞）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "广东泰瑞 指 广东泰瑞装备有限公司，公司全资子公司"
+    },
+    {
+      "name": "TEDERIC EUROPE, UNIPESSOAL LDA（泰瑞欧洲）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "泰瑞欧洲 指 TEDERIC EUROPE, UNIPESSOAL LDA，注册于葡萄牙，公司全资孙公司"
+    },
+    {
+      "name": "Plastivation Machinery GmbH（泰瑞德国）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "泰瑞德国 指 Plastivation Machinery GmbH，注册于德国，公司全资孙公司"
+    },
+    {
+      "name": "Tederic Machinery Korea Co., Ltd（泰瑞韩国）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "泰瑞韩国 指 Tederic Machinery Korea Co., Ltd，注册于韩国，公司全资孙公司"
+    },
+    {
+      "name": "TEDERIC MACHINERY BRASIL COMERCIO DE MAQUINAS LTDA（泰瑞巴西）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "泰瑞巴西 指 TEDERIC MACHINERY BRASIL COMERCIO DE MAQUINAS LTDA，注册于巴西，公司全资孙公司"
+    },
+    {
+      "name": "Tederic Machinery Mexico S de R.L. de C.V.（泰瑞墨西哥）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "泰瑞墨西哥 指 Tederic Machinery Mexico S de R.L. de C.V.，注册于墨西哥，公司全资孙公司"
+    },
+    {
+      "name": "TERRY MACHINERY USA, INC.（泰瑞美国）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "泰瑞美国 指 TERRY MACHINERY USA, INC.，注册于美国，公司全资孙公司"
+    },
+    {
+      "name": "杭州赢择企业管理有限公司（赢择）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "赢择 指 杭州赢择企业管理有限公司，公司全资子公司"
+    },
+    {
+      "name": "SPV SkyCast Alpha S.a.r.l（SKYCAST）",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资孙公司",
+      "quote": "SKYCAST 指 SPV SkyCast Alpha S.a.r.l，泰瑞香港直接持有100%股份，公司全资孙公司"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计服务",
+      "quote": "天健会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "财通证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "保荐服务",
+      "quote": "报告期内履行持续督导职责的保荐机构 名称 财通证券股份有限公司"
+    },
+    {
+      "name": "Sunino集团",
+      "relation_type": "customer",
+      "business_details": "包装行业客户，合作十年",
+      "quote": "成功斩获Sunino集团在亚太区的新一轮追加采购订单，双方长久稳定合作迈入第十个年头"
+    },
+    {
+      "name": "Generalplastik",
+      "relation_type": "customer",
+      "business_details": "法拉利、玛莎拉蒂、兰博基尼等顶级汽车品牌的核心供应商",
+      "quote": "同法拉利、玛莎拉蒂、兰博基尼等顶级汽车品牌的核心供应商Generalplastik展开合作"
+    },
+    {
+      "name": "伊莱克斯",
+      "relation_type": "customer",
+      "business_details": "国际顶尖家电品牌",
+      "quote": "公司高效交付伊莱克斯巴西项目，深度定制化能力获国际顶尖品牌认可"
+    },
+    {
+      "name": "ÜSTÜN",
+      "relation_type": "customer",
+      "business_details": "土耳其物流行业巨头",
+      "quote": "土耳其物流行业巨头ÜSTÜN向公司复购多台大吨位两板式注塑机"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "注塑机",
+      "segment_type": "product_line",
+      "revenue_amount": "1,131,841,879.66元",
+      "revenue_proportion": null,
+      "gross_margin": "31.94%",
+      "yoy_change": "营业收入比上年增减 1.42%，毛利率比上年增减 增加2.56个百分点",
+      "quote": "注塑机 1,131,841,879.66 770,363,506.33 31.94% 1.42 -2.26"
+    },
+    {
+      "name": "压铸机",
+      "segment_type": "product_line",
+      "revenue_amount": "13,795,302.39元",
+      "revenue_proportion": null,
+      "gross_margin": "27.48%",
+      "yoy_change": "—",
+      "quote": "压铸机 13,795,302.39 10,003,827.40 27.48% - -"
+    },
+    {
+      "name": "配件及劳务",
+      "segment_type": "product_line",
+      "revenue_amount": "49,148,036.21元",
+      "revenue_proportion": null,
+      "gross_margin": "47.31%",
+      "yoy_change": "营业收入比上年增减 74.49%，毛利率比上年增减 增加2.05个百分点",
+      "quote": "配件及劳务 49,148,036.21 25,894,600.66 47.31% 74.49 67.94 2.05"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "493,115,986.48元",
+      "revenue_proportion": null,
+      "gross_margin": "22.92%",
+      "yoy_change": "营业收入比上年增减 -21.65%，毛利率比上年增减 增加2.41个百分点",
+      "quote": "内销 493,115,986.48 380,109,959.34 22.92% -21.65 -24.03"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "701,669,231.78元",
+      "revenue_proportion": "58.18%",
+      "gross_margin": "39.27%",
+      "yoy_change": "营业收入比上年增减 36.31%，毛利率比上年增减 减少1.82个百分点",
+      "quote": "外销 701,669,231.78 426,151,975.05 39.27% 36.31 40.51 ... 海外收入占比进一步提升至58.18%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "789,939,743.72元",
+      "revenue_proportion": null,
+      "gross_margin": "34.90%",
+      "yoy_change": "营业收入比上年增减 10.21%，毛利率比上年增减 增加2.66个百分点",
+      "quote": "直销 789,939,743.72 514,234,836.80 34.90% 10.21 5.88"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "404,845,474.54元",
+      "revenue_proportion": null,
+      "gross_margin": "27.87%",
+      "yoy_change": "营业收入比上年增减 -5.28%，毛利率比上年增减 增加2.26个百分点",
+      "quote": "经销 404,845,474.54 292,027,097.59 27.87% -5.28 -8.15"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "注塑机",
+      "metric_type": "production_volume",
+      "value": "2422",
+      "period": "2025年",
+      "quote": "注塑机 台 2422 2348 678 8.42 11.86 12.25"
+    },
+    {
+      "product": "注塑机",
+      "metric_type": "sales_volume",
+      "value": "2348",
+      "period": "2025年",
+      "quote": "注塑机 台 2422 2348 678 8.42 11.86 12.25"
+    },
+    {
+      "product": "注塑机",
+      "metric_type": "inventory_volume",
+      "value": "678",
+      "period": "2025年末",
+      "quote": "注塑机 台 2422 2348 678 8.42 11.86 12.25"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "一体化高端压铸装备项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "组建了经验丰富的研发及应用团队",
+      "expected_completion_time": null,
+      "quote": "公司经过长时间的市场调研，适时启动“一体化高端压铸装备项目”，组建了经验丰富的研发及应用团队"
+    },
+    {
+      "name": "桐乡大型一体化智能制造基地",
+      "project_type": "capacity_expansion",
+      "location": "桐乡",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "成功交付全球首台IKON500铝塑一体化大型汽车结构件模压成型装备；桐乡制造基地及零星工程转固",
+      "expected_completion_time": null,
+      "quote": "2025年度，公司在桐乡大型一体化智能制造基地成功交付全球首台IKON500铝塑一体化大型汽车结构件模压成型装备。...主要原因是桐乡制造基地及零星工程转固所致。"
+    },
+    {
+      "name": "泰瑞大型一体化智能制造基地项目（募投项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "28,000.00万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入进度79.36%；本年投入3,674.59万元",
+      "expected_completion_time": null,
+      "quote": "泰瑞大型一体化智能制造基地项目 是 否 28,000.00 3,674.59 22,221.55 79.36"
+    },
+    {
+      "name": "补充流动资金（募投项目）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "5,552.93万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入进度99.73%",
+      "expected_completion_time": null,
+      "quote": "补充流动资金 是 否 5,552.93 0.00 5,537.97 99.73"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超大型与大型铸造技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在核心技术层面，公司形成了超大型与大型铸造技术、中小型精密控制技术、二板直压锁模技术、电动直驱技术、超高速注射技术、SpinSure®-H水平转盘技术、SpinSure®-V独立转盘技术、MultiMold™多色大师技术和Addshot-E®独立副射台技术。"
+    },
+    {
+      "name": "二板直压锁模技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "在核心技术层面，公司形成了超大型与大型铸造技术、中小型精密控制技术、二板直压锁模技术、电动直驱技术、超高速注射技术、SpinSure®-H水平转盘技术、SpinSure®-V独立转盘技术、MultiMold™多色大师技术和Addshot-E®独立副射台技术。"
+    },
+    {
+      "name": "CellSure®微发泡技术",
+      "asset_type": "core_technology",
+      "related_product": "注塑设备",
+      "quantitative_info": null,
+      "quote": "CellSure®微发泡技术作为公司自主研发的核心创新成果，其配套注塑设备荣膺2025年度荣格技术创新奖"
+    },
+    {
+      "name": "LFT（长纤维增强热塑性塑料）在线混炼注射成型技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司自主研发LFT（长纤维增强热塑性塑料）在线混炼注射成型技术"
+    },
+    {
+      "name": "PUR（模内喷涂）技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司积极布局PUR（模内喷涂）技术"
+    },
+    {
+      "name": "多层技术突破筑牢高端注塑装备核心竞争力",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "以多层级技术突破筑牢高端注塑装备核心竞争力。"
+    },
+    {
+      "name": "多项发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "多项",
+      "quote": "基于上述技术积累，公司构建了多层次、全方位、智能化的技术平台体系，并已获得多项发明专利。"
+    },
+    {
+      "name": "全球首批两项国际标准——ISO20430：2020和ISO23582.1：2023",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "全球首批两项国际标准",
+      "quote": "公司主要参与了全球首批两项国际标准——ISO20430：2020和ISO23582.1：2023的制定。"
+    },
+    {
+      "name": "主导制定JB/T13448《螺杆柱塞式塑料注射成型机》等多项行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主导制定了JB/T13448、JB/T8698、T/ZZB1330-2019",
+      "quote": "主导制定了 JB/T13448《螺杆柱塞式塑料注射成型机》、JB/T8698 《热固性塑料注射成型机》和T/ZZB1330-2019《挤注式塑料注射成型机》等行业标准"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "并获得ISO14001环境管理体系认证"
+    },
+    {
+      "name": "EcoVadis国际铜牌认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司荣获EcoVadis国际铜牌认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "21,432.77万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额21,432.77万元，占年度销售总额17.77%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "15,546.16万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额15,546.16万元，占年度采购总额24.41%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "下游行业波动导致公司经营业绩下滑的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、下游行业波动导致公司经营业绩下滑的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧而导致主要产品毛利率和盈利下降的风险",
+      "related_entity": null,
+      "related_product": "注塑机",
+      "quote": "2、市场竞争加剧而导致主要产品毛利率和盈利下降的风险"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户相对分散导致的客户开拓风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、客户相对分散导致的客户开拓风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司境外经营及出口业务风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、公司境外经营及出口业务风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术创新风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、技术创新风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料价格波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、主要原材料价格波动风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "人力成本上升的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、人力成本上升的风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率变动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "8、汇率变动风险"
+    }
+  ]
+}

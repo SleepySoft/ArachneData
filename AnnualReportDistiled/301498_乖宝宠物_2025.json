@@ -1,0 +1,386 @@
+{
+  "company_name_mentioned": "乖宝宠物食品集团股份有限公司",
+  "produces": [
+    {
+      "name": "宠物主粮",
+      "type": "device",
+      "revenue_proportion": "61.13%",
+      "quote": "分产品 主粮 4,137,771,680.49 61.13%"
+    },
+    {
+      "name": "宠物零食",
+      "type": "device",
+      "revenue_proportion": "37.46%",
+      "quote": "分产品 零食 2,536,045,979.69 37.46%"
+    },
+    {
+      "name": "宠物保健品及用品",
+      "type": "device",
+      "revenue_proportion": "0.99%",
+      "quote": "分产品 保健品及用品 67,016,081.89 0.99%"
+    },
+    {
+      "name": "自有品牌宠物食品",
+      "type": "device",
+      "revenue_proportion": "73.35%",
+      "quote": "分业务模式 自有品牌 4,965,028,721.31 73.35%"
+    },
+    {
+      "name": "OEM/ODM宠物食品",
+      "type": "device",
+      "revenue_proportion": "26.23%",
+      "quote": "分业务模式 OEM/ODM 1,775,805,020.76 26.23%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（主料、辅料）",
+      "target_product": "宠物食品",
+      "cost_proportion": "76.80%",
+      "quote": "营业成本构成 ...直接材料 2,989,575,575.68 76.80%"
+    },
+    {
+      "name": "包装材料",
+      "target_product": "宠物食品",
+      "cost_proportion": null,
+      "quote": "原材料价格波动的风险 公司产品的主要原材料包括主料、辅料和包装材料。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "宠物饲养",
+      "source_product": "宠物食品",
+      "quote": "公司从事宠物食品的研发、生产和销售，主营宠物犬用和猫用多品类宠物食品"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "秦华",
+      "role": "实际控制人、董事长",
+      "quote": "董事长 秦华先生...2013年11月至今任公司董事长。"
+    },
+    {
+      "name": "杜士芳",
+      "role": "董事、总裁",
+      "quote": "董事杜士芳女士...2023年10月至今任公司董事、总裁。"
+    },
+    {
+      "name": "袁雪",
+      "role": "财务总监",
+      "quote": "财务总监袁雪女士...2020年7月至今担任本公司财务总监。"
+    },
+    {
+      "name": "王鹏",
+      "role": "董事会秘书",
+      "quote": "董事会秘书王鹏先生...2017年11月至今担任本公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "沃尔玛",
+      "relation_type": "customer",
+      "business_details": "国际知名企业合作",
+      "quote": "与沃尔玛、品谱、PetSmart等国际知名企业建立了良好的合作关系"
+    },
+    {
+      "name": "品谱",
+      "relation_type": "customer",
+      "business_details": "国际知名企业合作",
+      "quote": "与沃尔玛、品谱、PetSmart等国际知名企业建立了良好的合作关系"
+    },
+    {
+      "name": "PetSmart",
+      "relation_type": "customer",
+      "business_details": "国际知名企业合作",
+      "quote": "与沃尔玛、品谱、PetSmart等国际知名企业建立了良好的合作关系"
+    },
+    {
+      "name": "KKR",
+      "relation_type": "investor",
+      "business_details": "境外股东",
+      "quote": "释义 KKR 指 Golden Prosperity Investment S.A.R.L.，系公司境外股东"
+    },
+    {
+      "name": "北京君联",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "释义 北京君联 指 北京君联晟源股权投资合伙企业（有限合伙），系公司股东"
+    },
+    {
+      "name": "江南大学",
+      "relation_type": "supplier",
+      "business_details": "产学研合作",
+      "quote": "联合江南大学、中国农业大学等多家顶尖院校及机构成立专项研究院"
+    },
+    {
+      "name": "中国农业大学",
+      "relation_type": "supplier",
+      "business_details": "产学研合作",
+      "quote": "联合江南大学、中国农业大学等多家顶尖院校及机构成立专项研究院"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "5,000,008,006.37",
+      "revenue_proportion": "73.87%",
+      "gross_margin": "46.13%",
+      "yoy_change": "40.79%",
+      "quote": "分地区 境内 5,000,008,006.37 73.87% 2,693,749,484.66 46.13% 40.79%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,768,951,688.94",
+      "revenue_proportion": "26.13%",
+      "gross_margin": "32.21%",
+      "yoy_change": "4.46%",
+      "quote": "分地区 境外 1,768,951,688.94 26.13% 1,199,101,891.43 32.21% 4.46%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,738,068,945.16",
+      "revenue_proportion": "40.45%",
+      "gross_margin": "53.37%",
+      "yoy_change": "39.04%",
+      "quote": "分销售模式 直销 2,738,068,945.16 40.45% 1,276,751,606.24 53.37% 39.04%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,226,959,776.15",
+      "revenue_proportion": "32.90%",
+      "gross_margin": "38.24%",
+      "yoy_change": "41.34%",
+      "quote": "分销售模式 经销 2,226,959,776.15 32.90% 1,375,298,393.38 38.24% 41.34%"
+    },
+    {
+      "name": "OEM/ODM",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,775,805,020.76",
+      "revenue_proportion": "26.23%",
+      "gross_margin": "31.17%",
+      "yoy_change": "6.01%",
+      "quote": "分销售模式 OEM/ODM 1,775,805,020.76 26.23% 1,222,320,145.85 31.17% 6.01%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "宠物食品",
+      "metric_type": "sales_volume",
+      "value": "275,293吨",
+      "period": "2025年",
+      "quote": "C13农副食品加工业大类下的“C1321宠物饲料加工” 相关数据...销售量 吨 275,293"
+    },
+    {
+      "product": "宠物食品",
+      "metric_type": "production_volume",
+      "value": "280,626吨",
+      "period": "2025年",
+      "quote": "C13农副食品加工业大类下的“C1321宠物饲料加工” 相关数据...生产量 吨 280,626"
+    },
+    {
+      "product": "宠物食品",
+      "metric_type": "inventory_volume",
+      "value": "30,138吨",
+      "period": "2025年末",
+      "quote": "C13农副食品加工业大类下的“C1321宠物饲料加工” 相关数据...库存量 吨 30,138"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产10万吨高端宠物食品项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "56,000.00万元",
+      "designed_capacity": "10万吨",
+      "progress": "77.38%",
+      "expected_completion_time": "2027年06月30日",
+      "quote": "超募资金投向 年产10万吨高端宠物食品项目...投资总额 56,000...累计投入金额 43,333.21...投资进度 77.38%...达到预定可使用状态日期 2027年06月30日"
+    },
+    {
+      "name": "宠物食品生产基地扩产建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "36,737.41万元",
+      "designed_capacity": null,
+      "progress": "100.63%",
+      "expected_completion_time": "2025年02月16日",
+      "quote": "承诺投资项目 宠物食品生产基地扩产建设项目...投资总额 36,737.41...累计投入金额 36,967.11...投资进度 100.63%...达到预定可使用状态日期 2025年02月16日"
+    },
+    {
+      "name": "智能仓储升级项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "7,191.05万元",
+      "designed_capacity": null,
+      "progress": "95.65%",
+      "expected_completion_time": "2025年08月16日",
+      "quote": "承诺投资项目 智能仓储升级项目...投资总额 7,191.05...累计投入金额 6,877.93...投资进度 95.65%...达到预定可使用状态日期 2025年08月16日"
+    },
+    {
+      "name": "研发中心升级项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "3,060.48万元",
+      "designed_capacity": null,
+      "progress": "99.85%",
+      "expected_completion_time": "2025年05月16日",
+      "quote": "承诺投资项目 研发中心升级项目...投资总额 3,060.48...累计投入金额 3,055.80...投资进度 99.85%...达到预定可使用状态日期 2025年05月16日"
+    },
+    {
+      "name": "新西兰高端宠物食品项目",
+      "project_type": "capacity_expansion",
+      "location": "新西兰",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "0.00%",
+      "expected_completion_time": null,
+      "quote": "报告期内正在进行的重大的非股权投资情况 新西兰高端宠物食品项目...投资金额 1,098,166.88...项目进度 0.00%"
+    },
+    {
+      "name": "智能仓储及数智化分拣中心项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "0.00%",
+      "expected_completion_time": null,
+      "quote": "报告期内正在进行的重大的非股权投资情况 智能仓储及数智化分拣中心项目...投资金额 0.00...项目进度 0.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "WarmData犬猫天性研究大数据中心",
+      "asset_type": "technical_platform",
+      "related_product": "宠物食品",
+      "quantitative_info": null,
+      "quote": "搭建 WarmData 犬猫天性研究大数据中心与全球首个犬猫数字生命库"
+    },
+    {
+      "name": "犬猫数字生命库",
+      "asset_type": "technical_platform",
+      "related_product": "宠物食品",
+      "quantitative_info": "累计有效喂养研究报告6495份",
+      "quote": "打造全球首个犬猫数字生命库，累计有效喂养研究报告 6495 份"
+    },
+    {
+      "name": "专利申请",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "提报专利申请35项，其中发明专利23项，实用新型及外观专利12项",
+      "quote": "提报专利申请 35 项，其中发明专利 23 项，实用新型及外观专利 12 项"
+    },
+    {
+      "name": "数字知识产权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "获批 6 个数字知识产权",
+      "quote": "获批 6 个数字知识产权"
+    },
+    {
+      "name": "CNAS认证检测中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司还是宠物食品行业内少数拥有CNAS认证检测中心的企业之一。"
+    },
+    {
+      "name": "BRCGS认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及其生产子公司通过了BRCGS认证"
+    },
+    {
+      "name": "FSSC22000认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及其生产子公司通过了...FSSC22000认证"
+    },
+    {
+      "name": "FSMA认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及其生产子公司通过了...FSMA认证"
+    },
+    {
+      "name": "IFS认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及其生产子公司通过了...IFS认证"
+    },
+    {
+      "name": "GMP认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及其生产子公司通过了...GMP认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.48%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.48%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "15.32%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 1,037,104,479.00 15.32%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "18.45%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 18.45%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "4.54%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 145,288,880.97 4.54%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国内市场竞争加剧的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、国内市场竞争加剧的风险...公司面临市场竞争加剧导致的市场开拓失败的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、原材料价格波动的风险...公司存在原材料价格大幅波动而导致的经营风险。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "贸易摩擦风险，主要针对美国市场",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、贸易摩擦风险...美国是公司产品的主要出口国...2025年以来美国政府关税政策持续调整，贸易摩擦进一步加剧。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、汇率波动的风险...公司存在一定的汇率波动风险。"
+    }
+  ]
+}

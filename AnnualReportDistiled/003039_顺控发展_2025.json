@@ -1,0 +1,557 @@
+{
+  "company_name_mentioned": "广东顺控发展股份有限公司",
+  "produces": [
+    {
+      "name": "水务业务",
+      "type": "service",
+      "revenue_proportion": "44.29%",
+      "quote": "公司主营业务为水务业务、固废处理业务、包装印刷业务……分产品：水务业务 986,996,132.26 44.29%"
+    },
+    {
+      "name": "固废处理业务",
+      "type": "service",
+      "revenue_proportion": "29.41%",
+      "quote": "公司主营业务为水务业务、固废处理业务、包装印刷业务……分产品：固废处理业务 655,361,676.39 29.41%"
+    },
+    {
+      "name": "包装印刷业务",
+      "type": "service",
+      "revenue_proportion": "16.16%",
+      "quote": "公司主营业务为水务业务、固废处理业务、包装印刷业务……分产品：包装印刷业务 359,987,798.53 16.16%"
+    },
+    {
+      "name": "工程业务",
+      "type": "service",
+      "revenue_proportion": "6.88%",
+      "quote": "分产品：工程业务 153,419,748.50 6.88%"
+    },
+    {
+      "name": "其他业务",
+      "type": "service",
+      "revenue_proportion": "3.26%",
+      "quote": "分产品：其他业务 72,567,094.98 3.26%"
+    },
+    {
+      "name": "自来水制售",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为自来水制售及污水处理业务、垃圾焚烧发电业务和包装印刷业务"
+    },
+    {
+      "name": "污水处理",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为自来水制售及污水处理业务、垃圾焚烧发电业务和包装印刷业务"
+    },
+    {
+      "name": "垃圾焚烧发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为自来水制售及污水处理业务、垃圾焚烧发电业务和包装印刷业务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "8.80%",
+      "quote": "公司前5大客户资料：1 供应商一 94,044,120.64 8.80%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": "劳务派遣、保安服务、职工膳食服务、食材配送、租赁等服务",
+      "cost_proportion": "3.72%",
+      "quote": "公司前5大供应商资料：2 供应商二 39,715,415.44 3.72%……供应商二是广东顺德控股集团有限公司及其控制企业，顺控集团为公司的控股股东。顺控集团及其控制企业为公司提供劳务派遣、保安服务、职工膳食服务、食材配送、租赁等服务。"
+    },
+    {
+      "name": "供应商三",
+      "target_product": null,
+      "cost_proportion": "3.09%",
+      "quote": "公司前5大供应商资料：3 供应商三 33,032,982.78 3.09%"
+    },
+    {
+      "name": "供应商四",
+      "target_product": null,
+      "cost_proportion": "2.41%",
+      "quote": "公司前5大供应商资料：4 供应商四 25,759,763.50 2.41%"
+    },
+    {
+      "name": "供应商五",
+      "target_product": null,
+      "cost_proportion": "2.28%",
+      "quote": "公司前5大供应商资料：5 供应商五 24,303,716.82 2.28%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "居民生活供水",
+      "source_product": "水务业务",
+      "quote": "公司拥有供水服务全产业链……服务人口超320万。"
+    },
+    {
+      "name": "工业供水",
+      "source_product": "水务业务",
+      "quote": "顺德区作为以制造业为主的经济大区，是全国最大的空调器、电冰箱、热水器、消毒碗柜生产基地之一……"
+    },
+    {
+      "name": "生活垃圾处理",
+      "source_product": "固废处理业务",
+      "quote": "公司根据特许经营合同以BOT模式开展垃圾焚烧发电业务的投资运营。"
+    },
+    {
+      "name": "调味品包装",
+      "source_product": "包装印刷业务",
+      "quote": "产品包括折叠彩盒、标签、精品盒、彩箱、复合袋等，涵盖了调味品、食品、医药、日化品、烟酒等五大行业的包装。"
+    },
+    {
+      "name": "食品包装",
+      "source_product": "包装印刷业务",
+      "quote": "产品包括折叠彩盒、标签、精品盒、彩箱、复合袋等，涵盖了调味品、食品、医药、日化品、烟酒等五大行业的包装。"
+    },
+    {
+      "name": "医药包装",
+      "source_product": "包装印刷业务",
+      "quote": "产品包括折叠彩盒、标签、精品盒、彩箱、复合袋等，涵盖了调味品、食品、医药、日化品、烟酒等五大行业的包装。"
+    },
+    {
+      "name": "日化品包装",
+      "source_product": "包装印刷业务",
+      "quote": "产品包括折叠彩盒、标签、精品盒、彩箱、复合袋等，涵盖了调味品、食品、医药、日化品、烟酒等五大行业的包装。"
+    },
+    {
+      "name": "烟酒包装",
+      "source_product": "包装印刷业务",
+      "quote": "产品包括折叠彩盒、标签、精品盒、彩箱、复合袋等，涵盖了调味品、食品、医药、日化品、烟酒等五大行业的包装。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "蒋力",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人蒋力、主管会计工作负责人方朝晖及会计机构负责人（会计主管人员）刘彩苗声明……公司需遵守《深圳证券交易所上市公司自律监管指引第3号——行业信息披露》中电力供应业的披露要求（一）报告期内公司所从事的主要业务……蒋力先生，中国国籍，无永久境外居留权，1978年6月出生，机械工程及自动化专业、应用数学专业双学位本科。近年主要工作经历如下：2014年8月至2022年5月，历任广东顺德科创管理集团有限公司常务副总经理、总经理、董事长兼总裁、董事长；2022年5月至今，任本公司总经理；2022年6月至今，任本公司董事；2025年10月至今，任本公司董事长。"
+    },
+    {
+      "name": "方朝晖",
+      "role": "主管会计工作负责人、副总经理",
+      "quote": "公司负责人蒋力、主管会计工作负责人方朝晖及会计机构负责人（会计主管人员）刘彩苗声明……方朝晖先生，中国国籍，无境外永久居留权，1972年7月生，研究生学历，会计师、工程师。近年主要工作经历如下：2020年4月至2022年6月，任广东顺控铁路投资开发有限公司副总经理；2020年11月至2022年6月，任广东顺广轨道交通有限公司副总经理；2021年1月至2022年8月任广东顺广轨道交通有限公司董事；2022年6月至2024年9月，任本公司监事、监事会主席；2024年9月至今，兼任佛山市顺德区水业控股有限公司财务负责人；2024年9月至今，任本公司副总经理、财务负责人。"
+    },
+    {
+      "name": "刘彩苗",
+      "role": "会计机构负责人",
+      "quote": "公司负责人蒋力、主管会计工作负责人方朝晖及会计机构负责人（会计主管人员）刘彩苗声明"
+    },
+    {
+      "name": "彭丹红",
+      "role": "职工董事",
+      "quote": "彭丹红 女 54 职工董事 现任 2024年09月11日 2027年09月10日……彭丹红女士，中国国籍，无永久境外居留权，1971年12月出生，硕士研究生，工业经济师、人力资源管理师、高级经济师。"
+    },
+    {
+      "name": "梁伟峰",
+      "role": "董事、副总经理",
+      "quote": "梁伟峰 男 42 董事 现任 2025年10月31日 2027年09月10日……梁伟峰 男 42 副总经理 现任 2021年05月10日 2027年09月10日"
+    },
+    {
+      "name": "袁慧燕",
+      "role": "副总经理",
+      "quote": "袁慧燕 男 36 副总经理 现任 2021年01月24日 2027年09月10日"
+    },
+    {
+      "name": "张长征",
+      "role": "副总经理",
+      "quote": "张长征 男 48 副总经理 现任 2023年02月28日 2027年09月10日"
+    },
+    {
+      "name": "梁朝华",
+      "role": "副总经理",
+      "quote": "梁朝华 男 47 副总经理 现任 2021年07月29日 2027年09月10日"
+    },
+    {
+      "name": "吕锶宇",
+      "role": "董事会秘书",
+      "quote": "吕锶宇 女 41 董事会秘书 现任 2025年02月21日 2027年09月10日"
+    },
+    {
+      "name": "聂织锦",
+      "role": "独立董事",
+      "quote": "聂织锦 女 57 独立董事 现任 2021年09月24日 2027年09月10日"
+    },
+    {
+      "name": "王立章",
+      "role": "独立董事",
+      "quote": "王立章 男 59 独立董事 现任 2021年09月24日 2027年09月10日"
+    },
+    {
+      "name": "徐芳",
+      "role": "独立董事",
+      "quote": "徐芳 女 51 独立董事 现任 2022年05月09日 2027年09月10日"
+    },
+    {
+      "name": "宋嘉雯",
+      "role": "独立董事",
+      "quote": "宋嘉雯 女 35 独立董事 现任 2024年09月11日 2027年09月10日"
+    },
+    {
+      "name": "李云晖",
+      "role": "董事",
+      "quote": "李云晖 男 41 董事 现任 2019年04月19日 2027年09月10日"
+    },
+    {
+      "name": "麦展棠",
+      "role": "董事",
+      "quote": "麦展棠 男 45 董事 现任 2026年01月16日 2027年09月10日"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广东顺德控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股79.06%",
+      "quote": "控股股东：广东顺德控股集团有限公司（79.06%）"
+    },
+    {
+      "name": "佛山市顺德区顺合公路建设有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，持股1.10%",
+      "quote": "佛山市顺德区顺合公路建设有限公司 1.10% 6,796,845"
+    },
+    {
+      "name": "广东省科技创业投资有限公司",
+      "relation_type": "investor",
+      "business_details": "股东，持股0.83%",
+      "quote": "广东省科技创业投资有限公司 0.83% 5,145,527"
+    },
+    {
+      "name": "广东顺控环境投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为垃圾焚烧发电项目运营",
+      "quote": "广东顺控环境投资有限公司 子公司 垃圾焚烧发电项目运营"
+    },
+    {
+      "name": "佛山市顺德区水业控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为自来水制售",
+      "quote": "佛山市顺德区水业控股有限公司 子公司 自来水制售"
+    },
+    {
+      "name": "华新（佛山）彩色印刷有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，负责包装印刷业务",
+      "quote": "报告期内，公司包装印刷业务由下属华新彩印负责"
+    },
+    {
+      "name": "广东粤科创业投资管理有限公司",
+      "relation_type": "investor",
+      "business_details": "通过员工李云晖担任公司董事",
+      "quote": "2015年7月至今，历任广东粤科创业投资管理有限公司投资经理、高级投资经理；2019年4月至今，任本公司董事。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "水务业务",
+      "segment_type": "product_line",
+      "revenue_amount": "986,996,132.26",
+      "revenue_proportion": "44.29%",
+      "gross_margin": "49.28%",
+      "yoy_change": "2.56%",
+      "quote": "分行业：水务业务 986,996,132.26 44.29%……毛利率 49.28%……营业收入比上年同期增减 2.56%"
+    },
+    {
+      "name": "固废处理业务",
+      "segment_type": "product_line",
+      "revenue_amount": "655,361,676.39",
+      "revenue_proportion": "29.41%",
+      "gross_margin": "57.96%",
+      "yoy_change": "11.73%",
+      "quote": "分行业：固废处理业务 655,361,676.39 29.41%……毛利率 57.96%……营业收入比上年同期增减 11.73%"
+    },
+    {
+      "name": "包装印刷业务",
+      "segment_type": "product_line",
+      "revenue_amount": "359,987,798.53",
+      "revenue_proportion": "16.16%",
+      "gross_margin": "14.00%",
+      "yoy_change": null,
+      "quote": "分行业：包装印刷业务 359,987,798.53 16.16%……毛利率 14.00%……同比增减 不适用"
+    },
+    {
+      "name": "工程业务",
+      "segment_type": "product_line",
+      "revenue_amount": "153,419,748.50",
+      "revenue_proportion": "6.88%",
+      "gross_margin": null,
+      "yoy_change": "-30.76%",
+      "quote": "分行业：工程业务 153,419,748.50 6.88%……同比增减 -30.76%"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "72,567,094.98",
+      "revenue_proportion": "3.26%",
+      "gross_margin": null,
+      "yoy_change": "90.71%",
+      "quote": "分行业：其他业务 72,567,094.98 3.26%……同比增减 90.71%"
+    },
+    {
+      "name": "广东省内",
+      "segment_type": "region",
+      "revenue_amount": "2,088,376,788.37",
+      "revenue_proportion": "93.72%",
+      "gross_margin": "44.60%",
+      "yoy_change": "22.03%",
+      "quote": "分地区：广东省内 2,088,376,788.37 93.72%……毛利率 44.60%……营业收入比上年同期增减 22.03%"
+    },
+    {
+      "name": "广东省外",
+      "segment_type": "region",
+      "revenue_amount": "139,955,662.29",
+      "revenue_proportion": "6.28%",
+      "gross_margin": null,
+      "yoy_change": "9.79%",
+      "quote": "分地区：广东省外 139,955,662.29 6.28%……同比增减 9.79%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,228,332,450.66",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "43.86%",
+      "yoy_change": "21.18%",
+      "quote": "分销售模式：直销 2,228,332,450.66 100.00%……毛利率 43.86%……营业收入比上年同期增减 21.18%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "自来水",
+      "metric_type": "capacity",
+      "value": "日供水能力160.8万立方米",
+      "period": null,
+      "quote": "公司现投资运营自来水厂8间，设计日供水能力160.8万立方米"
+    },
+    {
+      "product": "自来水",
+      "metric_type": "sales_volume",
+      "value": "37,467.65万立方米",
+      "period": "2025年",
+      "quote": "自来水业务销售量37,467.65万立方米，同比增加1.00%"
+    },
+    {
+      "product": "生活垃圾",
+      "metric_type": "capacity",
+      "value": "3000吨/日",
+      "period": null,
+      "quote": "环投热电项目日处理生活垃圾3000吨"
+    },
+    {
+      "product": "生活垃圾",
+      "metric_type": "production_volume",
+      "value": "185.18万吨",
+      "period": "2025年",
+      "quote": "生活垃圾接收量（含餐厨垃圾）185.18万吨，同比增长4.89%"
+    },
+    {
+      "product": "生活垃圾焚烧发电",
+      "metric_type": "production_volume",
+      "value": "80,083.79万千瓦时",
+      "period": "2025年",
+      "quote": "发电量（生活垃圾）80,083.79万千瓦时，同比增长1.75%"
+    },
+    {
+      "product": "生活垃圾焚烧发电",
+      "metric_type": "sales_volume",
+      "value": "70,177.62万千瓦时",
+      "period": "2025年",
+      "quote": "上网电量70,177.62万千瓦时，同比增长1.87%"
+    },
+    {
+      "product": "包装印刷业务",
+      "metric_type": "capacity",
+      "value": "胶印产能约2.6亿印，柔凹印产能约1.2亿米",
+      "period": null,
+      "quote": "华新彩印公司胶印产能约2.6亿印，柔凹印产能约1.2亿米。"
+    },
+    {
+      "product": "分布式光伏电站",
+      "metric_type": "capacity",
+      "value": "总装机规模45.81兆瓦",
+      "period": null,
+      "quote": "分布式光伏电站总装机规模45.81兆瓦"
+    },
+    {
+      "product": "分布式储能电站",
+      "metric_type": "capacity",
+      "value": "总规模11.74兆瓦时",
+      "period": null,
+      "quote": "分布式储能电站总规模11.74兆瓦时"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "production_volume",
+      "value": "3,390.59万千瓦时",
+      "period": "2025年",
+      "quote": "2025年度实现发电量3,390.59万千瓦时"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购广东顺控洁净投资有限公司100%股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "181,180,144.49元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "2025年12月，公司与广东顺控科工贸有限公司签署股权转让协议，按181,180,144.49元的价格收购其全资子公司广东顺控洁净投资有限公司100%股权（公告编号：2025-054）。"
+    },
+    {
+      "name": "分布式光伏项目并购",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "新增装机容量约14兆瓦",
+      "progress": "完成并购",
+      "expected_completion_time": null,
+      "quote": "成功并购5个光伏项目，新增装机容量约14兆瓦，实现规模有效扩张。"
+    },
+    {
+      "name": "分布式光伏项目及储能项目建设",
+      "project_type": "construction_project",
+      "location": "广东省广州市、佛山市、江门市、中山市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年累计建成光伏项目20个、储能项目6个",
+      "expected_completion_time": null,
+      "quote": "全年累计建成光伏项目20个、储能项目6个"
+    },
+    {
+      "name": "顺德右滩水厂二期扩建工程",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "3,494.52万元（调整后）",
+      "designed_capacity": "新增制水能力18万立方米/日",
+      "progress": "已终止，节余资金永久补充流动资金",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目：1、顺德右滩水厂二期扩建工程……项目达到预定可使用状态日期由2024年9月30日延期至2026年6月30日……该项目已完成第一阶段建设……同意终止该项目并将其节余募集资金永久补充流动资金。"
+    },
+    {
+      "name": "收购顺合环保100%股权项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "17,000万元（变更后）",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目：6、收购顺合环保100%股权项目……投资总额17,000……累计投入金额17,000……达到预定可使用状态日期 2024年02月01日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及下属主要子公司参考国际标准化组织制定的相关规范，制定了较为完善的管理体系并分别通过ISO9001质量管理体系、ISO14001环境管理体系、ISO45001职业健康安全管理体系等认证。"
+    },
+    {
+      "name": "ISO14001环境管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及下属主要子公司参考国际标准化组织制定的相关规范，制定了较为完善的管理体系并分别通过ISO9001质量管理体系、ISO14001环境管理体系、ISO45001职业健康安全管理体系等认证。"
+    },
+    {
+      "name": "ISO45001职业健康安全管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及下属主要子公司参考国际标准化组织制定的相关规范，制定了较为完善的管理体系并分别通过ISO9001质量管理体系、ISO14001环境管理体系、ISO45001职业健康安全管理体系等认证。"
+    },
+    {
+      "name": "G7标准化印刷管理体系",
+      "asset_type": "certification",
+      "related_product": "包装印刷业务",
+      "quantitative_info": null,
+      "quote": "华新彩印通过ISO9001、ISO14001、ISO45001等管理体系认证，并建立G7标准化印刷管理体系及ISO5001能源管理体系，通过国家级“绿色工厂”认定。"
+    },
+    {
+      "name": "ISO5001能源管理体系",
+      "asset_type": "certification",
+      "related_product": "包装印刷业务",
+      "quantitative_info": null,
+      "quote": "华新彩印通过ISO9001、ISO14001、ISO45001等管理体系认证，并建立G7标准化印刷管理体系及ISO5001能源管理体系，通过国家级“绿色工厂”认定。"
+    },
+    {
+      "name": "锅炉换热结构设计及节能增效技术研发",
+      "asset_type": "core_technology",
+      "related_product": "垃圾焚烧发电",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：锅炉换热结构设计及节能增效技术研发……项目进展：已完成"
+    },
+    {
+      "name": "抑制NOx生成的燃烧控制系统研究",
+      "asset_type": "core_technology",
+      "related_product": "垃圾焚烧发电",
+      "quantitative_info": null,
+      "quote": "主要研发项目名称：抑制NOx生成的燃烧控制系统研究……项目进展：已完成"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "33.86%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 754,485,993.97 前五名客户合计销售金额占年度销售总额比例 33.86%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "13.58%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料：1 客户一 302,712,036.94 13.58%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "20.30%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 216,855,999.18 前五名供应商合计采购金额占年度采购总额比例 20.30%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "8.80%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "公司前5大供应商资料：1 供应商一 94,044,120.64 8.80%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司可能面临主营业务所处市场过于集中……从而影响公司的经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、经营风险 公司可能面临主营业务所处市场过于集中……从而影响公司的经营业绩。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司可能面临经济政策、税收政策、行业政策、环境保护政策等方面的调整，从而影响公司的经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、政策风险 公司可能面临经济政策、税收政策、行业政策、环境保护政策等方面的调整，从而影响公司的经营业绩。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司主营的水务业务及固废处理业务均为重资产业务，存在前期投资规模大、回报周期长的特点……若无法持续通过合理的资金成本满足公司资金需求，将对公司经营发展造成一定限制。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、财务风险 公司主营的水务业务及固废处理业务均为重资产业务，存在前期投资规模大、回报周期长的特点，对公司资金实力及融资能力有较高要求……若无法持续通过合理的资金成本满足公司资金需求，将对公司经营发展造成一定限制。"
+    },
+    {
+      "risk_type": "other",
+      "description": "投资项目受市场环境变化、地方经济发展状况、行业政策变化等多种因素影响，可能导致项目收益低于预期，投资回收期延长。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、投资风险 ……该等投资项目受市场环境变化、地方经济发展状况、行业政策变化等多种因素影响，可能导致项目收益低于预期，投资回收期延长，进而对公司财务状况及经营成果造成一定影响。"
+    }
+  ]
+}

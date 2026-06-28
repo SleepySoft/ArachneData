@@ -1,0 +1,483 @@
+{
+  "company_name_mentioned": "南京高科股份有限公司",
+  "produces": [
+    {
+      "name": "房地产开发销售",
+      "type": "service",
+      "revenue_proportion": "60.53%",
+      "quote": "房地产开发销售 2,065,547,958.80 60.53%"
+    },
+    {
+      "name": "市政基础设施承建",
+      "type": "service",
+      "revenue_proportion": "13.08%",
+      "quote": "市政基础设施承建 446,473,893.20 13.08%"
+    },
+    {
+      "name": "园区管理及服务",
+      "type": "service",
+      "revenue_proportion": "8.74%",
+      "quote": "园区管理及服务 298,193,028.63 8.74%"
+    },
+    {
+      "name": "土地成片开发转让",
+      "type": "service",
+      "revenue_proportion": "1.88%",
+      "quote": "土地成片开发转让 64,275,349.50 1.88%"
+    },
+    {
+      "name": "药品销售",
+      "type": "service",
+      "revenue_proportion": "15.77%",
+      "quote": "药品销售 538,213,642.36 15.77%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "药品销售",
+      "cost_proportion": null,
+      "quote": "原材料 197,282,159.46"
+    },
+    {
+      "name": "人工",
+      "target_product": "药品销售",
+      "cost_proportion": null,
+      "quote": "人工 34,913,657.86"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "药品销售",
+      "cost_proportion": null,
+      "quote": "制造费用 21,206,900.13"
+    },
+    {
+      "name": "运输成本",
+      "target_product": "药品销售",
+      "cost_proportion": null,
+      "quote": "运输成本 18,422,781.52"
+    },
+    {
+      "name": "燃料及动力",
+      "target_product": "药品销售",
+      "cost_proportion": null,
+      "quote": "燃料及动力 8,875,006.35"
+    }
+  ],
+  "applications": [
+    {
+      "name": "住宅居住",
+      "source_product": "房地产开发销售",
+      "quote": "目前开发的商品房项目主要有：紫星堂、江悦堂、紫尧星院、紫麟景院、荣境东院等。"
+    },
+    {
+      "name": "园区基础设施建设",
+      "source_product": "市政基础设施承建",
+      "quote": "市政业务是公司传统主营，主要从事房建、市政施工总承包及监理，园区管理及服务以及土地成片开发转让等业务。"
+    },
+    {
+      "name": "医疗健康",
+      "source_product": "药品销售",
+      "quote": "晨牌药业整合销售渠道，发力终端动销，不断提升市场占有率和产品竞争力。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐益民",
+      "role": "董事长",
+      "quote": "公司负责人徐益民...现任本公司董事长、党委书记。"
+    },
+    {
+      "name": "陆阳俊",
+      "role": "董事、总裁",
+      "quote": "现任本公司董事、总裁。"
+    },
+    {
+      "name": "赵艳梅",
+      "role": "董事",
+      "quote": "现任南京新港开发有限公司董事长，本公司董事。"
+    },
+    {
+      "name": "周克金",
+      "role": "副总裁、财务总监",
+      "quote": "现任本公司副总裁兼财务总监。"
+    },
+    {
+      "name": "谢建晖",
+      "role": "副总裁、董事会秘书",
+      "quote": "现任本公司副总裁兼董事会秘书。"
+    },
+    {
+      "name": "张仕刚",
+      "role": "副总裁",
+      "quote": "现任本公司副总裁。"
+    },
+    {
+      "name": "史志迅",
+      "role": "副总裁",
+      "quote": "现任本公司副总裁，兼任南京高科置业有限公司总经理。"
+    },
+    {
+      "name": "王征洋",
+      "role": "总裁助理",
+      "quote": "现任本公司总裁助理，兼任江苏晨牌药业集团股份有限公司董事长、总经理。"
+    },
+    {
+      "name": "高峰",
+      "role": "职工董事",
+      "quote": "现任本公司职工董事、工会主席。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "南京新港开发有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "南京新港开发有限公司，本公司控股股东"
+    },
+    {
+      "name": "南京高科置业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高科置业 指 南京高科置业有限公司，本公司控股子公司"
+    },
+    {
+      "name": "南京高科建设发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高科建设 指 南京高科建设发展有限公司，本公司控股子公司"
+    },
+    {
+      "name": "南京高科环境科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高科环境 指 南京高科环境科技有限公司，本公司控股子公司"
+    },
+    {
+      "name": "南京高科新创投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高科新创 指 南京高科新创投资有限公司，本公司控股子公司"
+    },
+    {
+      "name": "南京高科科技小额贷款有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高科科贷 指 南京高科科技小额贷款有限公司，本公司控股子公司"
+    },
+    {
+      "name": "南京高科城市发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高科城发 指 南京高科城市发展有限公司，本公司控股子公司"
+    },
+    {
+      "name": "江苏晨牌药业集团股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "晨牌药业 指 江苏晨牌药业集团股份有限公司，本公司控股子公司"
+    },
+    {
+      "name": "南京高科新浚投资管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "高科新浚 指 南京高科新浚投资管理有限公司，本公司参股公司"
+    },
+    {
+      "name": "南京栖霞建设股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "栖霞建设 指 南京栖霞建设股份有限公司，本公司参股公司"
+    },
+    {
+      "name": "南京银行股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "南京银行 指 南京银行股份有限公司，本公司参股公司"
+    },
+    {
+      "name": "中信证券股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "中信证券 指 中信证券股份有限公司，本公司参股公司"
+    },
+    {
+      "name": "广州农村商业银行股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "广州农商行 指 广州农村商业银行股份有限公司，本公司参股公司"
+    },
+    {
+      "name": "南京证券股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "南京证券 指 南京证券股份有限公司，本公司参股公司"
+    },
+    {
+      "name": "中建八局第三建设有限公司",
+      "relation_type": "customer",
+      "business_details": "工程总承包项目合作",
+      "quote": "公司全资子公司高科建设与中建八局第三建设有限公司、南京市第二建筑设计院有限公司组建的联合体中标 NO.2023G43地块工程总承包项目"
+    },
+    {
+      "name": "南京市第二建筑设计院有限公司",
+      "relation_type": "customer",
+      "business_details": "工程总承包项目合作",
+      "quote": "公司全资子公司高科建设与中建八局第三建设有限公司、南京市第二建筑设计院有限公司组建的联合体中标 NO.2023G43地块工程总承包项目"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "房地产开发销售",
+      "segment_type": "product_line",
+      "revenue_amount": "2,065,547,958.80元",
+      "revenue_proportion": "60.53%",
+      "gross_margin": "16.35%",
+      "yoy_change": "270.65%",
+      "quote": "房地产开发销售 2,065,547,958.80 60.53 557,283,071.62 28.21 270.65"
+    },
+    {
+      "name": "市政基础设施承建",
+      "segment_type": "product_line",
+      "revenue_amount": "446,473,893.20元",
+      "revenue_proportion": "13.08%",
+      "gross_margin": "8.91%",
+      "yoy_change": "-44.75%",
+      "quote": "市政基础设施承建 446,473,893.20 13.08 808,047,498.14 40.90 -44.75"
+    },
+    {
+      "name": "园区管理及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "298,193,028.63元",
+      "revenue_proportion": "8.74%",
+      "gross_margin": "37.71%",
+      "yoy_change": "-13.74%",
+      "quote": "园区管理及服务 298,193,028.63 8.74 345,687,184.46 17.50 -13.74"
+    },
+    {
+      "name": "土地成片开发转让",
+      "segment_type": "product_line",
+      "revenue_amount": "64,275,349.50元",
+      "revenue_proportion": "1.88%",
+      "gross_margin": "60.81%",
+      "yoy_change": null,
+      "quote": "土地成片开发转让 64,275,349.50 1.88 - / /"
+    },
+    {
+      "name": "药品销售",
+      "segment_type": "product_line",
+      "revenue_amount": "538,213,642.36元",
+      "revenue_proportion": "15.77%",
+      "gross_margin": "47.85%",
+      "yoy_change": "103.54%",
+      "quote": "药品销售 538,213,642.36 15.77 264,427,648.89 13.39 103.54"
+    },
+    {
+      "name": "江苏南京",
+      "segment_type": "region",
+      "revenue_amount": "2,881,264,448.75元",
+      "revenue_proportion": null,
+      "gross_margin": "18.51%",
+      "yoy_change": "67.32%",
+      "quote": "江苏南京 2,881,264,448.75 2,348,057,366.48 18.51 67.32 68.04"
+    },
+    {
+      "name": "其他",
+      "segment_type": "region",
+      "revenue_amount": "531,439,423.74元",
+      "revenue_proportion": null,
+      "gross_margin": "47.68%",
+      "yoy_change": "109.68%",
+      "quote": "其他 531,439,423.74 278,042,828.96 47.68 109.68 90.56"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "房地产（合同销售）",
+      "metric_type": "sales_volume",
+      "value": "8.37万平方米",
+      "period": "2025年",
+      "quote": "报告期内，公司房地产业务实现合同销售面积 8.37 万平方米（商品房项目 5.73 万平方米、经济适用房项目 2.64万平方米）"
+    },
+    {
+      "product": "房地产（合同销售）",
+      "metric_type": "sales_volume",
+      "value": "136,006.77万元",
+      "period": "2025年",
+      "quote": "实现合同销售金额 136,006.77万元（商品住宅、车位等项目 126,005.49 万元、经济适用房项目 10,001.28 万元）"
+    },
+    {
+      "product": "房地产（结转）",
+      "metric_type": "production_volume",
+      "value": "206,554.80万元",
+      "period": "2025年",
+      "quote": "报告期内，房地产开发销售业务营业收入 206,554.80万元（商品房项目结转营业收入 186,635.05 万元、经济适用房项目结转营业收入 18,651.31万元、委建代建项目结转营业收入 1,268.44万元）"
+    },
+    {
+      "product": "房地产（结转）",
+      "metric_type": "production_volume",
+      "value": "108,451.93平方米",
+      "period": "2025年",
+      "quote": "实现结转收入金额206,554.80万元，结转面积108,451.93平方米"
+    },
+    {
+      "product": "房地产（待结转）",
+      "metric_type": "inventory_volume",
+      "value": "70,347.67平方米",
+      "period": "报告期末",
+      "quote": "报告期末待结转面积70,347.67平方米。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "紫星堂",
+      "project_type": "construction_project",
+      "location": "南京",
+      "investment_amount": "250,000.00万元",
+      "designed_capacity": null,
+      "progress": "部分竣工",
+      "expected_completion_time": null,
+      "quote": "序号 1 地区 南京 项目 紫星堂 经营业态 商品房 新开工项目/竣工项目 部分竣工"
+    },
+    {
+      "name": "江悦堂暨燕栖渡",
+      "project_type": "construction_project",
+      "location": "南京",
+      "investment_amount": "360,000.00万元",
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "序号 2 地区 南京 项目 江悦堂暨燕栖渡 经营业态 商品房/商业 新开工项目/竣工项目 在建"
+    },
+    {
+      "name": "荣境东院",
+      "project_type": "construction_project",
+      "location": "南京",
+      "investment_amount": "260,000.00万元",
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "序号 3 地区 南京 项目 荣境东院 经营业态 商品房 新开工项目/竣工项目 在建"
+    },
+    {
+      "name": "紫尧星院",
+      "project_type": "construction_project",
+      "location": "南京",
+      "investment_amount": "320,000.00万元",
+      "designed_capacity": null,
+      "progress": "部分竣工",
+      "expected_completion_time": null,
+      "quote": "序号 4 地区 南京 项目 紫尧星院 经营业态 商品房 新开工项目/竣工项目 部分竣工"
+    },
+    {
+      "name": "紫麟景院暨时代广场",
+      "project_type": "construction_project",
+      "location": "南京",
+      "investment_amount": "290,000.00万元",
+      "designed_capacity": null,
+      "progress": "部分竣工",
+      "expected_completion_time": null,
+      "quote": "序号 5 地区 南京 项目 紫麟景院暨时代广场 经营业态 商品房/商办/公寓 新开工项目/竣工项目 部分竣工"
+    },
+    {
+      "name": "NO.2023G43地块工程总承包项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "签订合同",
+      "expected_completion_time": null,
+      "quote": "2025 年 12 月，公司全资子公司高科建设与中建八局第三建设有限公司、南京市第二建筑设计院有限公司组建的联合体中标 NO.2023G43地块工程总承包项目，并与发包人南京星城房地产开发有限公司签订项目合同"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": "污水处理业务",
+      "quantitative_info": "6件（报告期内获得）",
+      "quote": "污水处理业务认真做好园区水处理工作，加大科技创新力度，智慧水务一体化平台顺利上线运行，获得授权实用新型专利 6 件"
+    },
+    {
+      "name": "知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计88项",
+      "quote": "累计拥有知识产权 88 项。"
+    },
+    {
+      "name": "房地产开发一级资质",
+      "asset_type": "certification",
+      "related_product": "房地产开发",
+      "quantitative_info": null,
+      "quote": "公司房地产业务具有国家房地产开发一级资质"
+    },
+    {
+      "name": "房建施工总承包一级资质",
+      "asset_type": "certification",
+      "related_product": "市政基础设施承建",
+      "quantitative_info": null,
+      "quote": "目前具有房建施工总承包一级、市政总承包二级、房建及市政监理甲级等多项资质。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "15.82%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额 53,997.10万元，占年度销售总额 15.82%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "45.70%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额 142,332.76万元，占年度采购总额 45.70%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "房地产市场整体承压，量稳价跌。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年全国新建商品住宅实现销售面积 88,101万平方米，同比下降 8.7%，销售额83,937 亿元，同比下降 12.6%，降幅较去年有所收窄。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "行业政策多变，存在监管风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "房地产行业政策围绕“稳市场、促转型、防风险、惠民生”系统推进，多维度构建发展新格局。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观环境风险：宏观经济景气度不及预期，可能导致社会消费动力不足、有效投资收缩、市场融资环境趋紧及预期转弱等问题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观环境风险：当前我国发展处于战略机遇和风险挑战并存、不确定难预料因素增多的时期，经济复苏基础仍需巩固。若宏观经济景气度不及预期，可能导致社会消费动力不足、有效投资收缩、市场融资环境趋紧及预期转弱等问题，进而传导至公司经营层面，具体体现为：房地产业务存量去化周期拉长，市政业务优质项目获取难度加大，股权投资业务被投企业成长性与估值承压，生物医药产业的培育周期与不确定性增加，从而对公司整体战略转型与可持续发展形成制约。"
+    },
+    {
+      "risk_type": "other",
+      "description": "业务发展风险：房地产销售去化和回款不及预期，市政业务优质大项目储备不足，股权投资业务面临项目退出难、投资收益收窄的双重压力，生物医药产业培育则存在研发投入大、研发人才匮乏等问题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、业务发展风险：目前公司已明确退出房地产业务、做强股权投资主业、培育生物医药产业的业务发展策略。但房地产业务受当前行业整体下行的影响，销售去化和回款不及预期，市政业务优质大项目储备不足，股权投资业务面临项目退出难、投资收益收窄的双重压力，生物医药产业培育则存在研发投入大、研发人才匮乏等问题。"
+    },
+    {
+      "risk_type": "other",
+      "description": "投资管理风险：投资业务规模较大，投资决策风险、投资项目退出风险、长期股权投资项目投资收益波动以及金融资产市值波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、投资管理风险：公司目前投资业务规模较大，涉及的行业、种类较多，发展阶段也有差异，截至报告期末投资产生的相关权益资产超230亿元，未来还将持续新增投资项目，其中持有的以公允价值计量且其变动计入当期损益的金融资产规模较大，产生的公允价值变动收益将随资本市场的波动而变化。受资本市场整体运行状况、公司自身投资风控体系执行可能存在偏差、被投资企业经营未达预期等多方面因素的制约，公司投资业务可能存在投资决策风险、投资项目退出风险、长期股权投资项目投资收益波动以及金融资产市值波动的风险，进而导致对公司整体经营业绩产生不确定性影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "有息负债规模增长较快，若项目销售、回款及投资退出不达预期，或外部融资渠道受阻，将带来资金压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、财务资金风险：公司长期秉持审慎的财务政策，整体负债结构稳健，资产负债率保持在行业较低水平。然而，受行业及宏观环境影响，近年来有息负债规模增长较快。若未来公司房地产项目销售持续低迷、市政业务项目回款进度及股权投资项目的退出速度低于预期，或公司外部融资渠道受阻，仍将可能给公司带来较大的资金压力。"
+    }
+  ]
+}

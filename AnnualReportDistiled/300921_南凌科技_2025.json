@@ -1,0 +1,481 @@
+{
+  "company_name_mentioned": "南凌科技股份有限公司",
+  "produces": [
+    {
+      "name": "凌网服务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重64.29%，收入金额355,482,765.56元",
+      "quote": "分产品：凌网服务 355,482,765.56 64.29% 356,858,023.79 59.34% -0.39%"
+    },
+    {
+      "name": "凌云服务",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重26.40%，收入金额145,971,703.58元",
+      "quote": "分产品：凌云服务 145,971,703.58 26.40% 126,727,273.40 21.07% 15.19%"
+    },
+    {
+      "name": "数字化工程",
+      "type": "service",
+      "revenue_proportion": "占营业收入比重7.13%，收入金额39,415,529.33元",
+      "quote": "分产品：数字化工程 39,415,529.33 7.13% 104,171,621.68 17.32% -62.16%"
+    },
+    {
+      "name": "凌云SASE系列产品与服务",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司凌云服务是以云原生、云架构等为主要技术特征的企业信息化服务，包含云安全、云连接、边缘云计算、云应用等软件定义类服务。（1）云安全 ① 凌云SASE系列产品与服务：基于原有自研SD-WAN架构，融合多种安全能力..."
+    },
+    {
+      "name": "凌云MDR（托管检测与响应服务）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "②凌云 MDR：将 7×24 小时的安全监测、分析研判和应急响应能力，以订阅服务形式提供给客户的托管式安全运营服务。"
+    },
+    {
+      "name": "云连接",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "（2）云连接：依托公司凌云 SD-WAN 产品与服务，聚焦于企业云上云下资源互联、多云互联、混合云互联等场景..."
+    },
+    {
+      "name": "边缘云计算",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "（3）边缘云计算：公司依托全区域的骨干网资源及领先的网络服务能力，基于国内外云计算先进技术打造南凌边缘计算平台..."
+    },
+    {
+      "name": "云应用（如云WiFi、云灾备）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "（4）云应用：满足客户需求的业务应用云化，部署于公司云计算平台...目前已部署云WiFi、云灾备等一系列云应用。"
+    },
+    {
+      "name": "自研SD-WAN软件授权",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "此外，公司自研SD-WAN解锁了海外合作新范式，以纯软件授权模式进入海外渠道体系..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "网络带宽资源",
+      "target_product": "骨干网络及企业网络接入服务",
+      "cost_proportion": "前五大供应商合计采购金额占年度采购总额比例36.97%",
+      "quote": "公司主营业务以网络线路为支撑，需要向中国电信、中国联通、中国移动等基础通信运营商采购网络带宽资源。...前五名供应商合计采购金额（元） 142,306,489.43 前五名供应商合计采购金额占年度采购总额比例 36.97%"
+    },
+    {
+      "name": "本地网络资源",
+      "target_product": "凌网服务、凌云服务",
+      "cost_proportion": null,
+      "quote": "营业成本构成：本地网络成本 161,241,411.94 45.64%"
+    },
+    {
+      "name": "骨干网络资源",
+      "target_product": "骨干网建设与维护",
+      "cost_proportion": null,
+      "quote": "营业成本构成：骨干网络成本 86,180,592.22 24.39%"
+    },
+    {
+      "name": "设备及软件",
+      "target_product": "数字化工程业务",
+      "cost_proportion": "占营业成本比重7.65%",
+      "quote": "数字化工程 设备及软件采购 27,017,141.71 7.45%...设备及软件采购 27,017,141.71 7.65%"
+    },
+    {
+      "name": "服务",
+      "target_product": "数字化工程业务",
+      "cost_proportion": "占营业成本比重1.94%",
+      "quote": "数字化工程 服务采购及其他 6,870,491.67 1.89%...服务采购及其他 6,870,491.67 1.94%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "制造业",
+      "source_product": "凌网服务、凌云服务、数字化工程",
+      "quote": "分客户所处行业：C 制造业 131,602,812.57 23.80%"
+    },
+    {
+      "name": "信息传输、软件和信息技术服务业",
+      "source_product": "凌网服务、凌云服务、数字化工程",
+      "quote": "分客户所处行业：I 信息传输、软件和信息技术服务业 112,632,257.56 20.37%"
+    },
+    {
+      "name": "批发和零售业",
+      "source_product": "凌网服务、凌云服务、数字化工程",
+      "quote": "分客户所处行业：F 批发和零售业 110,773,142.50 20.03%"
+    },
+    {
+      "name": "金融业",
+      "source_product": "凌网服务、凌云服务、数字化工程",
+      "quote": "分客户所处行业：J 金融业 42,734,817.88 7.73%"
+    },
+    {
+      "name": "租赁和商务服务业",
+      "source_product": "凌网服务、凌云服务、数字化工程",
+      "quote": "分客户所处行业：L 租赁和商务服务业 33,272,145.35 6.02%"
+    },
+    {
+      "name": "医药",
+      "source_product": "凌网服务、凌云服务",
+      "quote": "公司网络稳定承载着客户的 ERP、财务、研发等关键业务系统...主要为跨区域经营的大中型企业，广泛分布于制造、信息传输、软件和信息技术服务、批发零售等主要行业。"
+    },
+    {
+      "name": "教育",
+      "source_product": "凌网服务、凌云服务",
+      "quote": "公司客户覆盖制造、零售、金融、医药、教育、汽车、航空航天、交通、智慧能源、AI 技术研发等关键领域。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "凌网服务、凌云服务",
+      "quote": "公司客户覆盖制造、零售、金融、医药、教育、汽车、航空航天、交通、智慧能源、AI 技术研发等关键领域。"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "凌网服务、凌云服务",
+      "quote": "公司客户覆盖制造、零售、金融、医药、教育、汽车、航空航天、交通、智慧能源、AI 技术研发等关键领域。"
+    },
+    {
+      "name": "交通",
+      "source_product": "凌网服务、凌云服务",
+      "quote": "公司客户覆盖制造、零售、金融、医药、教育、汽车、航空航天、交通、智慧能源、AI 技术研发等关键领域。"
+    },
+    {
+      "name": "智慧能源",
+      "source_product": "凌网服务、凌云服务",
+      "quote": "公司客户覆盖制造、零售、金融、医药、教育、汽车、航空航天、交通、智慧能源、AI 技术研发等关键领域。"
+    },
+    {
+      "name": "AI技术研发",
+      "source_product": "凌网服务、凌云服务",
+      "quote": "公司客户覆盖制造、零售、金融、医药、教育、汽车、航空航天、交通、智慧能源、AI 技术研发等关键领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈树林",
+      "role": "董事长、总经理",
+      "quote": "公司负责人陈树林...现任南凌科技股份有限公司董事长、总经理"
+    },
+    {
+      "name": "蒋小明",
+      "role": "董事",
+      "quote": "蒋小明先生...现任南凌科技股份有限公司董事"
+    },
+    {
+      "name": "陈金标",
+      "role": "副总经理、财务负责人",
+      "quote": "主管会计工作负责人陈金标...现任南凌科技股份有限公司副总经理、财务负责人"
+    },
+    {
+      "name": "刘青",
+      "role": "董事",
+      "quote": "刘青女士...现任南凌科技股份有限公司董事。"
+    },
+    {
+      "name": "侯刚",
+      "role": "副总经理",
+      "quote": "侯刚先生...现任南凌科技股份有限公司副总经理"
+    },
+    {
+      "name": "鲁子奕",
+      "role": "副总经理、研究院院长",
+      "quote": "鲁子奕先生...现任南凌科技股份有限公司副总经理、研究院院长。"
+    },
+    {
+      "name": "卢赛平",
+      "role": "副总经理、数字化营销事业部总经理",
+      "quote": "卢赛平女士...现任南凌科技股份有限公司副总经理、数字化营销事业部总经理。"
+    },
+    {
+      "name": "喻荔",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 姓名 喻荔"
+    },
+    {
+      "name": "刘辉床",
+      "role": "职工代表董事、行政副总监",
+      "quote": "刘辉床先生...现任南凌科技股份有限公司职工代表董事、行政副总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国电信",
+      "relation_type": "supplier",
+      "business_details": "采购网络带宽资源",
+      "quote": "公司主营业务以网络线路为支撑，需要向中国电信、中国联通、中国移动等基础通信运营商采购网络带宽资源。"
+    },
+    {
+      "name": "中国联通",
+      "relation_type": "supplier",
+      "business_details": "采购网络带宽资源",
+      "quote": "公司主营业务以网络线路为支撑，需要向中国电信、中国联通、中国移动等基础通信运营商采购网络带宽资源。"
+    },
+    {
+      "name": "中国移动",
+      "relation_type": "supplier",
+      "business_details": "采购网络带宽资源",
+      "quote": "公司主营业务以网络线路为支撑，需要向中国电信、中国联通、中国移动等基础通信运营商采购网络带宽资源。"
+    },
+    {
+      "name": "深圳南凌信息技术有限公司（南凌信息）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "南凌信息 指 公司全资子公司，深圳南凌信息技术有限公司"
+    },
+    {
+      "name": "深圳市南凌云计算有限公司（南凌云计算）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "南凌云计算 指 公司全资子公司，深圳市南凌云计算有限公司"
+    },
+    {
+      "name": "南凌科技发展（香港）有限公司（香港南凌）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "香港南凌 指 公司全资子公司，南凌科技发展（香港）有限公司"
+    },
+    {
+      "name": "浙江凌聚云计算有限公司（浙江凌聚）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "浙江凌聚 指 公司全资子公司，浙江凌聚云计算有限公司"
+    },
+    {
+      "name": "上海凌连科技有限公司（上海凌连）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "上海凌连 指 公司全资子公司，上海凌连科技有限公司"
+    },
+    {
+      "name": "南凌科技(汕头)有限公司（南凌(汕头)）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "南凌(汕头) 指 公司全资子公司，南凌科技(汕头)有限公司"
+    },
+    {
+      "name": "南凌科技(海南)有限公司（南凌(海南)）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "南凌(海南) 指 公司全资子公司，南凌科技(海南)有限公司"
+    },
+    {
+      "name": "国标科技(海南)有限公司（国标(海南)）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "国标(海南) 指 公司全资子公司，国标科技(海南)有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "凌网服务",
+      "segment_type": "product_line",
+      "revenue_amount": "355,482,765.56元",
+      "revenue_proportion": "64.29%",
+      "gross_margin": "32.93%",
+      "yoy_change": "营业收入同比增减 -0.39%",
+      "quote": "分产品：凌网服务 355,482,765.56 64.29% 356,858,023.79 59.34% -0.39%...凌网服务 355,482,765.57 238,417,015.53 32.93%"
+    },
+    {
+      "name": "凌云服务",
+      "segment_type": "product_line",
+      "revenue_amount": "145,971,703.58元",
+      "revenue_proportion": "26.40%",
+      "gross_margin": "44.52%",
+      "yoy_change": "营业收入同比增减 15.19%",
+      "quote": "分产品：凌云服务 145,971,703.58 26.40% 126,727,273.40 21.07% 15.19%...凌云服务 145,971,703.58 80,991,694.79 44.52%"
+    },
+    {
+      "name": "数字化工程",
+      "segment_type": "product_line",
+      "revenue_amount": "39,415,529.33元",
+      "revenue_proportion": "7.13%",
+      "gross_margin": "14.02%",
+      "yoy_change": "营业收入同比增减 -62.16%",
+      "quote": "分产品：数字化工程 39,415,529.33 7.13% 104,171,621.68 17.32% -62.16%...数字化工程 39,415,529.33 33,887,633.38 14.02%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "245,603,570.64元",
+      "revenue_proportion": "44.42%",
+      "gross_margin": "40.63%",
+      "yoy_change": "营业收入同比增减 -2.92%",
+      "quote": "分地区：华东地区 245,603,570.64 44.42% 252,995,313.64 42.07% -2.92%...华东 245,603,570.64 145,823,782.04 40.63%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "133,831,559.94元",
+      "revenue_proportion": "24.20%",
+      "gross_margin": "28.86%",
+      "yoy_change": "营业收入同比增减 -17.05%",
+      "quote": "分地区：华南地区 133,831,559.94 24.20% 161,341,573.63 26.83% -17.05%...华南 133,831,559.94 95,211,419.81 28.86%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "105,560,737.07元",
+      "revenue_proportion": "19.09%",
+      "gross_margin": "31.17%",
+      "yoy_change": "营业收入同比增减 -11.36%",
+      "quote": "分地区：华北地区 105,560,737.07 19.09% 119,091,856.02 19.80% -11.36%...华北 105,560,737.07 72,660,203.06 31.17%"
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "45,963,086.38元",
+      "revenue_proportion": "8.31%",
+      "gross_margin": null,
+      "yoy_change": "营业收入同比增减 34.86%",
+      "quote": "分地区：境外地区 45,963,086.38 8.31% 34,082,299.31 5.67% 34.86%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "网络服务平台建设项目",
+      "project_type": "fundraising_project",
+      "location": "广东省深圳市福田区深南大道1006号深圳国际创新中心A栋14层",
+      "investment_amount": "30,071.97万元",
+      "designed_capacity": null,
+      "progress": "截至期末累计投入25,646.78万元，投资进度85.28%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目：网络服务平台建设项目...调整后投资总额(1) 30,071.97...截至期末累计投入金额(2) 25,646.78...投资进度 (3)＝ (2)/(1) 85.28%...项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": "广东省深圳市福田区深南大道1006号深圳国际创新中心A栋14层",
+      "investment_amount": "7,046.03万元",
+      "designed_capacity": null,
+      "progress": "截至期末累计投入5,578.04万元，投资进度79.17%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目：研发中心建设项目...调整后投资总额(1) 7,046.03...截至期末累计投入金额(2) 5,578.04...投资进度 (3)＝ (2)/(1) 79.17%...项目达到预定可使用状态日期 2026年12月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "SD-WAN/SASE融合管理平台",
+      "asset_type": "core_technology",
+      "related_product": "凌云服务",
+      "quantitative_info": null,
+      "quote": "公司在 SD-WAN/SASE 领域具备自研能力，其中整合多场景（混合多云、传统组网、移动接入）的云智网安融合管理平台..."
+    },
+    {
+      "name": "智能流量控制和路由优化技术",
+      "asset_type": "core_technology",
+      "related_product": "凌网服务、凌云服务",
+      "quantitative_info": "获国家多项发明专利",
+      "quote": "获国家多项发明专利的智能流量控制和路由优化技术..."
+    },
+    {
+      "name": "SD-WAN全栈技术",
+      "asset_type": "process_technology",
+      "related_product": "凌云服务",
+      "quantitative_info": null,
+      "quote": "在国产化能力方面，公司是业内少数实现 SD-WAN 全栈技术国产化替代的企业之一。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "共67项",
+      "quote": "截止 2025 年 12 月 31 日，南凌科技共拥有软件著作权共 67 项"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "获得14项，申请中7项",
+      "quote": "获得发明专利 14 项，申请中的发明专利 7项。"
+    },
+    {
+      "name": "骨干网络管控系统",
+      "asset_type": "core_technology",
+      "related_product": "凌网服务",
+      "quantitative_info": null,
+      "quote": "公司是国内少数拥有覆盖全国主要省市的自建骨干网络、自主研发的骨干网管控系统和接入网管控服务系统等核心系统的公司之一..."
+    },
+    {
+      "name": "凌云星连（零信任应用程序）",
+      "asset_type": "core_technology",
+      "related_product": "凌云服务（零信任接入）",
+      "quantitative_info": null,
+      "quote": "公司研发的凌云星连，是一款可独立使用的零信任应用程序..."
+    },
+    {
+      "name": "Arm架构硬件设备",
+      "asset_type": "device",
+      "related_product": "客户站点安全",
+      "quantitative_info": null,
+      "quote": "目前，公司已经自研并量产了多种型号的硬件设备，并推出了适用于 5G网络的 Arm 架构硬件设备..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "14.14%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 78,162,108.73 前五名客户合计销售金额占年度销售总额比例 14.14%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "36.97%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 142,306,489.43 前五名供应商合计采购金额占年度采购总额比例 36.97%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "15.65%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商A 60,226,073.53 15.65%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着用户对网络和云相关服务的需求不断增长，给予公司广阔的发展机会，但同时行业内新进竞争者亦可能随之逐渐增多，而且竞争对手的规模、实力也在不断提高，从而加剧公司所处行业的未来竞争压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、市场竞争加剧风险...随着用户对网络和云相关服务的需求不断增长...但同时行业内新进竞争者亦可能随之逐渐增多...从而加剧公司所处行业的未来竞争压力。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司主营业务以网络线路为支撑，需要向中国电信、中国联通、中国移动等基础通信运营商采购网络带宽资源。随着公司业务规模的扩大，公司需采购的基础网络资源将不断增加。若未来基础运营商市场政策出现变化，导致带宽资源限制供应或提价，公司将面临带宽资源采购受限以及成本上升的风险。",
+      "related_entity": "中国电信、中国联通、中国移动",
+      "related_product": "网络带宽资源",
+      "quote": "5、 电信资源采购成本上升风险...公司主营业务以网络线路为支撑，需要向中国电信、中国联通、中国移动等基础通信运营商采购网络带宽资源。...若未来基础运营商市场政策出现变化，导致带宽资源限制供应或提价，公司将面临带宽资源采购受限以及成本上升的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "技术进步快、升级频率快，企事业客户对于云智网安融合等数字化转型需求日益提升。若公司因研发投入有限、技术升级缓慢等导致公司不能及时、快速地更新自身技术，则将可能面临公司收入增长乏力、竞争力削弱等不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、技术更新换代风险...云计算时代下，相关 IT 技术具有技术进步快、升级频率快的特点...若公司因研发投入有限、技术升级缓慢等导致公司不能及时、快速地更新自身技术，则将可能面临公司收入增长乏力、竞争力削弱等不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司所处行业属于知识密集型产业，需要高层次、实用性、复合型专业技术技能的人才。若核心人才流失，可能对公司业务持续发展和竞争力造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、核心人才资源风险...公司所处行业属于知识密集型产业，公司业务的持续发展需要高层次、实用性、复合型专业技术技能的人才。...是保持和提升公司竞争力的关键因素。"
+    },
+    {
+      "risk_type": "other",
+      "description": "在全球地缘政治动荡加剧及业务所在国家/地区的政策法规频繁调整的背景下，国际业务拓展面临的不确定性增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、国际业务经营风险...在全球地缘政治动荡加剧及业务所在国家/地区的政策法规频繁调整的背景下，国际业务拓展面临的不确定性增加。"
+    },
+    {
+      "risk_type": "other",
+      "description": "全球经济下行压力加大和国内经济恢复面对诸多不确定因素等宏观经济环境的变化将给企业的生产经营及发展预期带来一定的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济波动风险...全球经济下行压力加大和国内经济恢复面对诸多不确定因素等宏观经济环境的变化将给企业的生产经营及发展预期带来一定的不确定性。"
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "company_name_mentioned": "黄山旅游发展股份有限公司",
+  "produces": [
+    {
+      "name": "景区旅游观光和休闲度假服务",
+      "type": "service",
+      "revenue_proportion": "景区业务收入 293,201,670.78 元",
+      "quote": "景区业务：公司经营黄山景区、花山谜窟景区及太平湖景区，主要提供旅游观光和休闲度假等服务。... 景区业务 293,201,670.78 元"
+    },
+    {
+      "name": "索道及缆车客运观光服务",
+      "type": "service",
+      "revenue_proportion": "索道及缆车业务收入 842,155,363.75 元",
+      "quote": "索道及缆车业务：公司拥有黄山云谷索道、玉屏索道、太平索道和西海观光缆车，主要提供客运观光服务。... 索道及缆车业务 842,155,363.75 元"
+    },
+    {
+      "name": "酒店住宿餐饮服务",
+      "type": "service",
+      "revenue_proportion": "酒店业务收入 492,026,389.87 元",
+      "quote": "酒店业务：公司拥有各类酒店十余家，主要提供住宿餐饮等旅宿服务... 酒店业务 492,026,389.87 元"
+    },
+    {
+      "name": "徽菜餐饮服务",
+      "type": "service",
+      "revenue_proportion": "徽菜业务收入 245,296,390.79 元",
+      "quote": "徽菜业务：公司依托黄山旅游品牌、资源、资金及人才优势... 主要提供徽菜餐饮等服务。... 徽菜业务 245,296,390.79 元"
+    },
+    {
+      "name": "旅行社服务",
+      "type": "service",
+      "revenue_proportion": "旅游服务业务收入 532,255,057.39 元",
+      "quote": "旅行社业务：公司旅行社业务涵盖国内旅游、入境旅游、出境旅游、定制游、会展服务和疗休养等方面。... 旅游服务业务 532,255,057.39 元"
+    },
+    {
+      "name": "智慧旅游平台运营及技术服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "智慧旅游业务：公司顺应旅游市场和现代信息技术发展... 开展旅游目的地智慧旅游建设和运营业务，主要业务涵盖黄山旅游官方平台运营、新媒体运营、OTA业务承接、旅游产品和活动策划、旅游服务接待和旅游商品在线销售等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品和劳务（含工程、服务、物资等）",
+      "target_product": null,
+      "cost_proportion": "前五名供应商采购额13,750.74万元，占年度采购总额9.47%",
+      "quote": "前五名供应商采购额13,750.74万元，占年度采购总额9.47%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    },
+    {
+      "name": "住宿、餐饮服务",
+      "target_product": "酒店业务",
+      "cost_proportion": "成本构成项目：住宿、餐饮；占总成本比例23.17%",
+      "quote": "分行业 酒店业务 成本构成项目：住宿、餐饮；占总成本比例（%） 23.17"
+    },
+    {
+      "name": "索道、缆车运输服务",
+      "target_product": "索道及缆车业务",
+      "cost_proportion": "成本构成项目：索道、缆车运输等；占总成本比例14.59%",
+      "quote": "分行业 索道及缆车业务 成本构成项目：索道、缆车运输等；占总成本比例（%） 14.59"
+    },
+    {
+      "name": "景点开发、维护服务",
+      "target_product": "景区业务",
+      "cost_proportion": "成本构成项目：景点开发、维护等；占总成本比例10.96%",
+      "quote": "分行业 景区业务 成本构成项目：景点开发、维护等；占总成本比例（%） 10.96"
+    },
+    {
+      "name": "人员、场地、交通等服务",
+      "target_product": "旅游服务业务",
+      "cost_proportion": "成本构成项目：人员、场地、交通等；占总成本比例34.20%",
+      "quote": "分行业 旅游服务业务 成本构成项目：人员、场地、交通等；占总成本比例（%） 34.20"
+    },
+    {
+      "name": "餐饮服务",
+      "target_product": "徽菜业务",
+      "cost_proportion": "成本构成项目：餐饮；占总成本比例17.08%",
+      "quote": "分行业 徽菜业务 成本构成项目：餐饮；占总成本比例（%） 17.08"
+    }
+  ],
+  "applications": [
+    {
+      "name": "旅游观光",
+      "source_product": "景区业务、索道及缆车业务",
+      "quote": "公司经营黄山景区、花山谜窟景区及太平湖景区，主要提供旅游观光和休闲度假等服务。"
+    },
+    {
+      "name": "休闲度假",
+      "source_product": "酒店业务、景区业务",
+      "quote": "酒店业务：公司拥有各类酒店十余家，主要提供住宿餐饮等旅宿服务..."
+    },
+    {
+      "name": "餐饮消费",
+      "source_product": "徽菜业务",
+      "quote": "徽菜业务：...主要提供徽菜餐饮等服务。"
+    },
+    {
+      "name": "旅游出行服务",
+      "source_product": "旅行社业务",
+      "quote": "旅行社业务：公司旅行社业务涵盖国内旅游、入境旅游、出境旅游、定制游、会展服务和疗休养等方面。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "章德辉",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人章德辉... 公司的法定代表人 章德辉"
+    },
+    {
+      "name": "孙峻",
+      "role": "总裁、董事",
+      "quote": "孙 峻 男 53 ... 总裁 2022年6月24日 2027年5月30日"
+    },
+    {
+      "name": "汤石男",
+      "role": "高级副总裁、董事、酒店事业部总经理",
+      "quote": "汤石男 男 52 ... 高级副总裁 2020年1月21日 2027年5月30日 ... 现任本公司董事、高级副总裁、酒店事业部总经理。"
+    },
+    {
+      "name": "丁维",
+      "role": "高级副总裁、董事会秘书、董事",
+      "quote": "丁 维 高级副总裁 男 40 ... 董事会秘书 2015年5月5日 2027年5月30日"
+    },
+    {
+      "name": "王雁",
+      "role": "总会计师",
+      "quote": "主管会计工作负责人王雁... 王 雁 总会计师 男 44 2025年3月19日 2027年5月30日"
+    },
+    {
+      "name": "丁丽萍",
+      "role": "总工程师",
+      "quote": "丁丽萍 总工程师 女 57 2025年3月19日 2027年5月30日"
+    },
+    {
+      "name": "石月红",
+      "role": "副总裁",
+      "quote": "石月红 副总裁 女 52 2025年3月19日 2027年5月30日"
+    },
+    {
+      "name": "许飞",
+      "role": "副总裁",
+      "quote": "许 飞 副总裁 男 38 2025年3月19日 2027年5月30日"
+    },
+    {
+      "name": "刘照慧",
+      "role": "独立董事",
+      "quote": "刘照慧 独立董事 男 44 2025年12月26日 2027年5月30日"
+    },
+    {
+      "name": "刘敏",
+      "role": "职工代表董事、董事会办公室主任",
+      "quote": "刘 敏 职工代表董事 男 40 2025年12月29日 2027年5月30日 ... 现任本公司职工代表董事、董事会办公室主任。"
+    },
+    {
+      "name": "章锦河",
+      "role": "独立董事",
+      "quote": "章锦河 独立董事 男 55 2024年5月31日 2027年5月30日 10.00 否"
+    },
+    {
+      "name": "秦国元",
+      "role": "董事",
+      "quote": "秦国元 董事 男 52 2024年5月31日 2027年5月30日 是"
+    },
+    {
+      "name": "胡彩宝",
+      "role": "董事",
+      "quote": "胡彩宝 董事 女 48 2023年6月2日 2027年5月30日 是"
+    },
+    {
+      "name": "迟武",
+      "role": "高级副总裁",
+      "quote": "迟 武 高级副总裁 男 59 2019年12月3日 2027年5月30日 53.84 否"
+    },
+    {
+      "name": "卫超",
+      "role": "副总裁",
+      "quote": "卫 超 副总裁 男 45 2021年6月7日 2027年5月30日 48.88 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "黄山旅游集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东：黄山旅游集团有限公司"
+    },
+    {
+      "name": "黄山风景区管理委员会",
+      "relation_type": "supplier",
+      "business_details": "关联方，涉及商品和劳务采购、租赁等关联交易",
+      "quote": "黄山风景区管理委员会 ... 购买商品 和劳务 867.95 万元 ... 租赁支出 1,466.55 万元"
+    },
+    {
+      "name": "黄山玉屏客运索道有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事索道运输",
+      "quote": "玉屏索道 子公司 索道运输 注册资本2,000万元"
+    },
+    {
+      "name": "黄山太平索道有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事索道运输",
+      "quote": "太平索道 子公司 索道运输 注册资本697.5万美元"
+    },
+    {
+      "name": "黄山徽商故里文化发展集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事餐饮服务",
+      "quote": "黄山徽商故里集团 子公司 餐饮服务 注册资本10,000万元"
+    },
+    {
+      "name": "黄山太平湖文化旅游有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事景点开发",
+      "quote": "太平湖文旅 子公司 景点开发 注册资本19,780万元"
+    },
+    {
+      "name": "黄山市花山谜窟旅游开发有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事景点开发",
+      "quote": "花山谜窟 子公司 景点开发 注册资本10,000万元"
+    },
+    {
+      "name": "黄山西海饭店有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事酒店经营",
+      "quote": "西海饭店 子公司 酒店经营 注册资本222.6万元"
+    },
+    {
+      "name": "黄山市黄山区太平湖游船发展有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方",
+      "quote": "太平湖游船 指 黄山市黄山区太平湖游船发展有限责任公司"
+    },
+    {
+      "name": "黄山云巅投资管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方",
+      "quote": "云巅投资 指 黄山云巅投资管理有限公司"
+    },
+    {
+      "name": "华安证券股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司持有其股票作为其他权益工具投资",
+      "quote": "证券品种：股票，证券简称：华安证券，资金来源：自有资金"
+    },
+    {
+      "name": "谢裕大茶叶股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司持有其股票作为其他非流动金融资产",
+      "quote": "证券品种：其他，证券简称：谢裕大，资金来源：自有资金"
+    },
+    {
+      "name": "安徽途马科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方",
+      "quote": "途马科技 指 安徽途马科技有限公司"
+    },
+    {
+      "name": "黄山赛富基金管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "关联方，曾管理赛富基金",
+      "quote": "赛富基金公司 指 黄山赛富基金管理有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "酒店业务",
+      "segment_type": "product_line",
+      "revenue_amount": "492,026,389.87 元",
+      "revenue_proportion": null,
+      "gross_margin": "32.57%",
+      "yoy_change": null,
+      "quote": "分行业 酒店业务 营业收入 492,026,389.87 元 ... 毛利率（%） 32.57"
+    },
+    {
+      "name": "索道及缆车业务",
+      "segment_type": "product_line",
+      "revenue_amount": "842,155,363.75 元",
+      "revenue_proportion": null,
+      "gross_margin": "75.20%",
+      "yoy_change": null,
+      "quote": "分行业 索道及缆车业务 营业收入 842,155,363.75 元 ... 毛利率（%） 75.20"
+    },
+    {
+      "name": "景区业务",
+      "segment_type": "product_line",
+      "revenue_amount": "293,201,670.78 元",
+      "revenue_proportion": null,
+      "gross_margin": "46.46%",
+      "yoy_change": null,
+      "quote": "分行业 景区业务 营业收入 293,201,670.78 元 ... 毛利率（%） 46.46"
+    },
+    {
+      "name": "旅游服务业务",
+      "segment_type": "product_line",
+      "revenue_amount": "532,255,057.39 元",
+      "revenue_proportion": null,
+      "gross_margin": "7.98%",
+      "yoy_change": null,
+      "quote": "分行业 旅游服务业务 营业收入 532,255,057.39 元 ... 毛利率（%） 7.98"
+    },
+    {
+      "name": "徽菜业务",
+      "segment_type": "product_line",
+      "revenue_amount": "245,296,390.79 元",
+      "revenue_proportion": null,
+      "gross_margin": "0.30%",
+      "yoy_change": null,
+      "quote": "分行业 徽菜业务 营业收入 245,296,390.79 元 ... 毛利率（%） 0.30"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "黄山景区进山游客",
+      "metric_type": "sales_volume",
+      "value": "516.80万人",
+      "period": "报告期内",
+      "quote": "报告期内，黄山景区累计接待进山游客516.80万人"
+    },
+    {
+      "product": "索道及缆车运送游客",
+      "metric_type": "sales_volume",
+      "value": "1,043.38万人次",
+      "period": "报告期内",
+      "quote": "索道及缆车累计运送游客1,043.38万人次"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "北海宾馆环境整治改造项目",
+      "project_type": "construction_project",
+      "location": "黄山景区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成升级改造，并于2025年9月正式投入运营",
+      "expected_completion_time": "2025年9月",
+      "quote": "北海宾馆环境整治改造项目：报告期内，该项目完成升级改造，并于2025年9月正式投入运营。"
+    },
+    {
+      "name": "汤泉大酒店改造项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成升级改造，并于2025年6月正式投入运营",
+      "expected_completion_time": "2025年6月",
+      "quote": "汤泉大酒店改造项目：报告期内，该项目完成升级改造，并于2025年6月正式投入运营。"
+    },
+    {
+      "name": "黄山旅游CBD项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成室内办公和酒店区域精装修施工... 按计划推进部分楼层平面空间布局优化设计等前期工作。",
+      "expected_completion_time": null,
+      "quote": "黄山旅游CBD项目：报告期内，该项目完成室内办公和酒店区域精装修施工以及空调暖通和智能化施工，完成厨房设备和酒店家具软装安装，按计划推进部分楼层平面空间布局优化设计等前期工作。"
+    },
+    {
+      "name": "黄山国际大酒店升级改造项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "结合运营及成本控制，在前期规划设计的基础上，持续推进设计方案优化等工作。",
+      "expected_completion_time": null,
+      "quote": "黄山国际大酒店升级改造项目：报告期内，该项目结合运营及成本控制，在前期规划设计的基础上，持续推进设计方案优化等工作。"
+    },
+    {
+      "name": "黄山太平索道电气系统更新提升项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "预计投资金额约为13,306万元",
+      "designed_capacity": null,
+      "progress": "已取得相关政府部门立项手续，完成设备国际招标采购，并稳步推进项目前期工作。",
+      "expected_completion_time": null,
+      "quote": "黄山太平索道电气系统更新提升项目：... 同意公司投资建设... 预计投资金额约为13,306万元（具体以实际投资金额为准）... 目前该项目已取得相关政府部门立项手续，完成设备国际招标采购，并稳步推进项目前期工作。"
+    },
+    {
+      "name": "黄山滨江东路12号酒店项目",
+      "project_type": "construction_project",
+      "location": "黄山市屯溪区滨江东路12号",
+      "investment_amount": "预计投资金额约为5.3亿元",
+      "designed_capacity": null,
+      "progress": "正在推进原部分装修拆除和样板段装修，完成项目设计方案及装饰施工图设计，并稳步推进项目前期工作。",
+      "expected_completion_time": null,
+      "quote": "黄山滨江东路12号酒店项目：... 同意公司投资建设... 预计投资金额约为5.3亿元（具体以实际投资金额为准）... 目前该项目正在推进原部分装修拆除和样板段装修，完成项目设计方案及装饰施工图设计，并稳步推进项目前期工作。"
+    },
+    {
+      "name": "黄山温泉（桃花溪段）综合整治项目",
+      "project_type": "construction_project",
+      "location": "黄山温泉（桃花溪段）",
+      "investment_amount": "预计投资金额约为4.12亿元",
+      "designed_capacity": null,
+      "progress": "本次项目拟分期实施，目前正在推进原部分建筑改造工作。",
+      "expected_completion_time": null,
+      "quote": "黄山温泉（桃花溪段）综合整治项目：... 同意公司投资... 预计投资金额约为4.12亿元（具体以实际投资金额为准）... 本次项目拟分期实施，目前正在推进原部分建筑改造工作。"
+    },
+    {
+      "name": "茶坦帐篷营地项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快推进",
+      "expected_completion_time": null,
+      "quote": "围绕打造乡村振兴样板点，加快推进茶坦帐篷营地项目和花开南溪项目。"
+    },
+    {
+      "name": "花开南溪项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快推进",
+      "expected_completion_time": null,
+      "quote": "围绕打造乡村振兴样板点，加快推进茶坦帐篷营地项目和花开南溪项目。"
+    },
+    {
+      "name": "仙人洞店改造项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快推进",
+      "expected_completion_time": null,
+      "quote": "围绕徽菜板块拓展及品质提升，徽商故里淮南店投入运营，并加快推进仙人洞店改造项目"
+    },
+    {
+      "name": "黟县主题亲子度假综合体项目",
+      "project_type": "construction_project",
+      "location": "黟县",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "取得土地使用权",
+      "expected_completion_time": null,
+      "quote": "无形资产增加主要系黟县主题亲子度假综合体项目和黟县茶坦帐篷营地项目本期取得土地使用权所致。"
+    },
+    {
+      "name": "半山寺环境整治项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "三是完成半山寺环境整治项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "主编国家标准《山岳型旅游景区清洁服务规范》",
+      "asset_type": "standard",
+      "related_product": "景区业务",
+      "quantitative_info": "主编了国家标准《山岳型旅游景区清洁服务规范》",
+      "quote": "主编了国家标准《山岳型旅游景区清洁服务规范》"
+    },
+    {
+      "name": "主编或参编团体标准（风景名胜区游步道技术标准等）",
+      "asset_type": "standard",
+      "related_product": "景区业务",
+      "quantitative_info": null,
+      "quote": "主编或参编了《风景名胜区游步道技术标准》、《景区玻璃栈道建设标准》、《景区垃圾分类设施设置标准》等团体标准。"
+    },
+    {
+      "name": "参编团体标准《山岳型景区污水处理设施设计规范》",
+      "asset_type": "standard",
+      "related_product": "景区业务",
+      "quantitative_info": "全国首个关于山岳型景区污水处理实施设计的技术标准",
+      "quote": "公司参编的团体标准《山岳型景区污水处理设施设计规范》已颁布实施，是全国首个关于山岳型景区污水处理实施设计的技术标准。"
+    },
+    {
+      "name": "主编团体标准《景区垃圾分类投放操作规程》",
+      "asset_type": "standard",
+      "related_product": "景区业务",
+      "quantitative_info": null,
+      "quote": "公司主编的团体标准《景区垃圾分类投放操作规程》已颁布实施"
+    },
+    {
+      "name": "黄山文旅大模型",
+      "asset_type": "core_technology",
+      "related_product": "智慧旅游业务",
+      "quantitative_info": "全省首个通过备案的文旅垂类大模型",
+      "quote": "黄山文旅大模型成功通过中央网信办备案审核，系全省首个通过备案的文旅垂类大模型"
+    },
+    {
+      "name": "黄山AI旅行助手",
+      "asset_type": "core_technology",
+      "related_product": "智慧旅游业务",
+      "quantitative_info": "完成2个大版本、43个小版本功能的迭代开发",
+      "quote": "自主研发黄山AI旅行助手并完成2个大版本、43个小版本功能的迭代开发"
+    },
+    {
+      "name": "智能登山杖、髌骨带、膝关节外骨骼等产品",
+      "asset_type": "device",
+      "related_product": "景区业务",
+      "quantitative_info": "在景区公开测试，部分产品已投入租赁或出售",
+      "quote": "智能登山杖、髌骨带、膝关节外骨骼三款产品以及智能“机器狗”在景区公开测试，部分产品已投入租赁或出售"
+    },
+    {
+      "name": "无人机物资运输航线",
+      "asset_type": "process_technology",
+      "related_product": "景区业务",
+      "quantitative_info": "开辟5条航线，运行以来运输各类物资585万斤",
+      "quote": "成功开辟5条无人机物资运输航线，运行以来运输各类物资585万斤"
+    },
+    {
+      "name": "5S等级索道管理技术",
+      "asset_type": "core_technology",
+      "related_product": "索道及缆车业务",
+      "quantitative_info": null,
+      "quote": "旗下索道均为5S等级索道和安全生产标准化一级单位。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "18,250.88万元，占年度销售总额7.61%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额18,250.88万元，占年度销售总额7.61%；其中前五名客户销售额中关联方销售额0万元，占年度销售总额0%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "13,750.74万元，占年度采购总额9.47%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额13,750.74万元，占年度采购总额9.47%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着旅游行业的不断发展，各地的新景区、新景点不断涌现，旅游产品和旅游业态不断创新，市场竞争日趋激烈，给公司带来了较大的竞争压力及市场风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场风险\n随着旅游行业的不断发展，各地的新景区、新景点不断涌现，旅游产品和旅游业态不断创新，市场竞争日趋激烈，给公司带来了较大的竞争压力及市场风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司景区部分产品如门票和索道等收费标准接受政府有关部门审批，在收费标准调整方面存在一定限制。政府有关部门对景区门票和索道收费标准调整的审批，将在一定程度上影响公司未来的收益状况。",
+      "related_entity": null,
+      "related_product": "门票、索道",
+      "quote": "4、其他风险\n公司景区部分产品如门票和索道等收费标准接受政府有关部门审批，在收费标准调整方面存在一定限制。政府有关部门对景区门票和索道收费标准调整的审批，将在一定程度上影响公司未来的收益状况。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司项目投资是建立在充分的市场调研论证基础上的，具有较强的可操作性。但在项目实施及后续运营过程中，受经济环境、宏观政策、行业发展及市场变化等多方面不确定性因素的影响，可能存在项目投资不达预期的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、项目投资风险\n公司项目投资是建立在充分的市场调研论证基础上的，具有较强的可操作性。但在项目实施及后续运营过程中，受经济环境、宏观政策、行业发展及市场变化等多方面不确定性因素的影响，可能存在项目投资不达预期的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "旅游行业具有较强的环境相关性和敏感性，与经济环境、自然环境和社会环境关系密切，经济危机、自然灾害、重大疫情或其他不可抗力因素，都可能给旅游行业造成较大冲击和影响，从而给公司发展带来局部或全部的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业风险\n旅游行业具有较强的环境相关性和敏感性，与经济环境、自然环境和社会环境关系密切，经济危机、自然灾害、重大疫情或其他不可抗力因素，都可能给旅游行业造成较大冲击和影响，从而给公司发展带来局部或全部的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "2024年11月，黄山市人民政府办公室印发了《黄山风景区特许经营管理暂行办法》，对黄山风景区范围内特许经营的授权和监督管理活动作出规定。报告期内，公司收到相关文件，对黄山风景区风景名胜资源有偿使用费征收范围和标准进行了明确，公司就上述事项对公司经营影响进行了风险提示。",
+      "related_entity": "黄山市人民政府、黄山风景区管理委员会",
+      "related_product": "景区资源有偿使用费",
+      "quote": "3、黄山市人民政府办公室于2024年11月25日印发了《黄山风景区特许经营管理暂行办法》... 公司就暂行办法对公司经营影响进行了风险提示... 报告期内，公司收到《关于转发〈黄山市财政局黄山市发展改革委关于优化调整黄山风景名胜资源有偿使用费管理意见的批复〉的通知》... 公司就上述事项对公司经营影响进行了风险提示"
+    }
+  ]
+}

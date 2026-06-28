@@ -1,0 +1,488 @@
+{
+  "company_name_mentioned": "广西天山电子股份有限公司",
+  "produces": [
+    {
+      "name": "单色液晶显示屏",
+      "type": "device",
+      "revenue_proportion": "8.95%",
+      "quote": "公司主要产品包括单色液晶显示屏、单色液晶显示模组、彩色液晶显示模组、触摸屏以及复杂模组。 ... 分产品 ... 单色液晶显示屏 ... 159,888,927.92 ... 8.95%"
+    },
+    {
+      "name": "单色液晶显示模组",
+      "type": "device",
+      "revenue_proportion": "20.08%",
+      "quote": "公司主要产品包括单色液晶显示屏、单色液晶显示模组、彩色液晶显示模组、触摸屏以及复杂模组。 ... 分产品 ... 单色液晶显示模组 ... 358,753,575.42 ... 20.08%"
+    },
+    {
+      "name": "彩色液晶显示模组",
+      "type": "device",
+      "revenue_proportion": "66.53%",
+      "quote": "公司主要产品包括单色液晶显示屏、单色液晶显示模组、彩色液晶显示模组、触摸屏以及复杂模组。 ... 分产品 ... 彩色液晶显示模组 ... 1,188,501,397.87 ... 66.53%"
+    },
+    {
+      "name": "触摸屏",
+      "type": "device",
+      "revenue_proportion": "1.72%",
+      "quote": "公司主要产品包括单色液晶显示屏、单色液晶显示模组、彩色液晶显示模组、触摸屏以及复杂模组。 ... 分产品 ... 触摸屏 ... 30,688,239.72 ... 1.72%"
+    },
+    {
+      "name": "复杂模组",
+      "type": "device",
+      "revenue_proportion": "1.95%",
+      "quote": "公司主要产品包括单色液晶显示屏、单色液晶显示模组、彩色液晶显示模组、触摸屏以及复杂模组。 ... 分产品 ... 复杂模组 ... 34,903,241.41 ... 1.95%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "TFT-LCD",
+      "target_product": "显示屏及模组",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    },
+    {
+      "name": "IC",
+      "target_product": "模组",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    },
+    {
+      "name": "BL",
+      "target_product": "模组",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    },
+    {
+      "name": "TP",
+      "target_product": "模组",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    },
+    {
+      "name": "POL",
+      "target_product": "显示屏及模组",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    },
+    {
+      "name": "FPC",
+      "target_product": "模组",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    },
+    {
+      "name": "ITO玻璃",
+      "target_product": "显示屏",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    },
+    {
+      "name": "电子元器件",
+      "target_product": "模组",
+      "cost_proportion": null,
+      "quote": "公司产品的原材料主要为TFT-LCD（薄膜晶体管液晶显示屏）、IC（芯片）、BL（背光源）、TP（触摸屏）、POL（偏光片）、FPC（柔性线路板）、ITO玻璃、电子元器件、化工材料等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业控制及自动化",
+      "source_product": "液晶显示屏、显示模组、触摸屏、复杂模组",
+      "quote": "公司客户广泛分布于工业控制及自动化、智能家居、车载电子、健康医疗等行业领域。"
+    },
+    {
+      "name": "智能家居",
+      "source_product": "液晶显示屏、显示模组、触摸屏、复杂模组",
+      "quote": "公司客户广泛分布于工业控制及自动化、智能家居、车载电子、健康医疗等行业领域。"
+    },
+    {
+      "name": "车载电子",
+      "source_product": "液晶显示屏、显示模组、触摸屏、复杂模组",
+      "quote": "公司客户广泛分布于工业控制及自动化、智能家居、车载电子、健康医疗等行业领域。"
+    },
+    {
+      "name": "健康医疗",
+      "source_product": "液晶显示屏、显示模组、触摸屏、复杂模组",
+      "quote": "公司客户广泛分布于工业控制及自动化、智能家居、车载电子、健康医疗等行业领域。"
+    },
+    {
+      "name": "智能金融数据终端",
+      "source_product": "液晶显示屏、显示模组",
+      "quote": "公司客户广泛分布于工业控制及自动化、智能家居、智能金融数据终端、通讯设备、民生能源、健康医疗、车载电子等行业领域。"
+    },
+    {
+      "name": "数据存储",
+      "source_product": "复杂模组",
+      "quote": "逐步应用于数据存储等新兴领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王嗣纬",
+      "role": "董事长、总裁",
+      "quote": "董事长、总裁王嗣纬先生，拥有深厚的行业背景及液晶显示行业制造管理经验... 公司负责人王嗣纬..."
+    },
+    {
+      "name": "王嗣缜",
+      "role": "董事、副总裁",
+      "quote": "董事、副总裁王嗣缜先生，拥有国外留学的背景，并有多家企业境外销售任职经历..."
+    },
+    {
+      "name": "叶小翠",
+      "role": "副总裁、董事会秘书",
+      "quote": "副总裁、董事会秘书 叶小翠..."
+    },
+    {
+      "name": "陈元涛",
+      "role": "副总裁、财务负责人",
+      "quote": "副总裁、财务负责人 陈元涛..."
+    },
+    {
+      "name": "黄碧莹",
+      "role": "职工代表董事",
+      "quote": "职工代表董事 黄碧莹..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深天马",
+      "relation_type": "customer",
+      "business_details": "形成长期战略合作关系",
+      "quote": "与深天马形成长期战略合作关系..."
+    },
+    {
+      "name": "京东方",
+      "relation_type": "customer",
+      "business_details": "达成友好业务合作",
+      "quote": "与京东方达成友好业务合作..."
+    },
+    {
+      "name": "霍尼韦尔",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如霍尼韦尔、海康威视...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "海康威视",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如霍尼韦尔、海康威视...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "Johnson Controls（江森自控）",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...Johnson Controls（江森自控）...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "LG",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...LG...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "Daikin（大金）",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...Daikin（大金）...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "Bticino",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...Bticino...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "百富",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...百富...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "优博讯",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...优博讯...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "亿联网络",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...亿联网络...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "伟易达",
+      "relation_type": "customer",
+      "business_details": "长期稳定的合作关系",
+      "quote": "直接或通过技术服务商与上述行业应用领域的知名企业如...伟易达...建立了长期稳定的合作关系"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "成功配套",
+      "quote": "成功配套比亚迪、东风、长安、吉利等头部车企。"
+    },
+    {
+      "name": "新存科技",
+      "relation_type": "investor",
+      "business_details": "战略性投资布局存储芯片",
+      "quote": "公司通过武汉鼎典投资新存科技和天链芯，战略性投资布局“存储芯片研发＆制造-主控芯片＆内存模块研发-内存模块制造-市场商业化拓展”垂直整合全链条。"
+    },
+    {
+      "name": "天链芯",
+      "relation_type": "investor",
+      "business_details": "战略性投资布局主控芯片",
+      "quote": "公司通过武汉鼎典投资新存科技和天链芯，战略性投资布局“存储芯片研发＆制造-主控芯片＆内存模块研发-内存模块制造-市场商业化拓展”垂直整合全链条。"
+    },
+    {
+      "name": "武汉鼎典",
+      "relation_type": "investor",
+      "business_details": "投资平台",
+      "quote": "公司通过武汉鼎典投资新存科技和天链芯..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "新型电子元器件及设备制造",
+      "segment_type": "industry",
+      "revenue_amount": "1,786,400,283.17",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "19.72%",
+      "yoy_change": "20.96%",
+      "quote": "分行业 ... 新型电子元器件及设备制造 ... 1,786,400,283.17 ... 100.00% ... 19.72% ... 20.96%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,064,049,670.95",
+      "revenue_proportion": "59.56%",
+      "gross_margin": "15.79%",
+      "yoy_change": "20.22%",
+      "quote": "分地区 ... 境内销售 ... 1,064,049,670.95 ... 59.56% ... 15.79% ... 20.22%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "722,350,612.22",
+      "revenue_proportion": "40.44%",
+      "gross_margin": "25.51%",
+      "yoy_change": "22.06%",
+      "quote": "分地区 ... 境外销售 ... 722,350,612.22 ... 40.44% ... 25.51% ... 22.06%"
+    },
+    {
+      "name": "产品销售业务",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,691,289,254.02",
+      "revenue_proportion": "94.68%",
+      "gross_margin": "19.48%",
+      "yoy_change": "21.22%",
+      "quote": "分销售模式 ... 产品销售业务 ... 1,691,289,254.02 ... 94.68% ... 19.48% ... 21.22%"
+    },
+    {
+      "name": "受托加工业务",
+      "segment_type": "sales_channel",
+      "revenue_amount": "95,111,029.15",
+      "revenue_proportion": "5.32%",
+      "gross_margin": "24.05%",
+      "yoy_change": "16.58%",
+      "quote": "分销售模式 ... 受托加工业务 ... 95,111,029.15 ... 5.32% ... 24.05% ... 16.58%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "新型电子元器件及设备制造（整体）",
+      "metric_type": "sales_volume",
+      "value": "10,510.37万个",
+      "period": "2025年",
+      "quote": "销售量 万个 10,510.37"
+    },
+    {
+      "product": "新型电子元器件及设备制造（整体）",
+      "metric_type": "production_volume",
+      "value": "10,517.58万个",
+      "period": "2025年",
+      "quote": "生产量 万个 10,517.58"
+    },
+    {
+      "product": "新型电子元器件及设备制造（整体）",
+      "metric_type": "inventory_volume",
+      "value": "1,168.85万个",
+      "period": "2025年末",
+      "quote": "库存量 万个 1,168.85"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "光电触显一体化模组建设项目",
+      "project_type": "fundraising_project",
+      "location": "广西钦州市灵山县檀圩镇灵北路东街335号",
+      "investment_amount": "19,050.29万元",
+      "designed_capacity": null,
+      "progress": "101.24%",
+      "expected_completion_time": "2026年3月25日",
+      "quote": "承诺投资项目 ... 光电触显一体化模组建设项目 ... 17,761.95万元 ... 19,050.29万元 ... 101.24% ... 2026年3月25日"
+    },
+    {
+      "name": "单色液晶显示模组扩产项目",
+      "project_type": "fundraising_project",
+      "location": "广西钦州市灵山县檀圩镇灵北路东街335号",
+      "investment_amount": "2,708.59万元",
+      "designed_capacity": null,
+      "progress": "94.90%",
+      "expected_completion_time": "2026年10月21日",
+      "quote": "承诺投资项目 ... 单色液晶显示模组扩产项目 ... 2,708.59万元 ... 94.90% ... 2026年10月21日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "4,785.75万元",
+      "designed_capacity": null,
+      "progress": "35.87%",
+      "expected_completion_time": "2026年10月21日",
+      "quote": "承诺投资项目 ... 研发中心建设项目 ... 4,785.75万元 ... 35.87% ... 2026年10月21日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "6,000.00万元",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 ... 补充流动资金 ... 6,000.00万元 ... 100.00%"
+    },
+    {
+      "name": "永久补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "24,000.00万元",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": null,
+      "quote": "超募资金投向 ... 永久补充流动资金 ... 24,000.00万元 ... 100.00%"
+    },
+    {
+      "name": "天山电子檀圩园区车载液晶显示模组生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "广西钦州市灵山县檀圩镇灵北路东街335号",
+      "investment_amount": "11,578.02万元",
+      "designed_capacity": null,
+      "progress": "19.26%",
+      "expected_completion_time": "2026年06月27日",
+      "quote": "超募资金投向 ... 天山电子檀圩园区车载液晶显示模组生产线项目 ... 11,578.02万元 ... 19.26% ... 2026年06月27日"
+    },
+    {
+      "name": "天山电子檀圩园区综合能力提升项目",
+      "project_type": "construction_project",
+      "location": "广西钦州市灵山县檀圩镇灵北路东街335号",
+      "investment_amount": "7,264.98万元",
+      "designed_capacity": null,
+      "progress": "19.30%",
+      "expected_completion_time": "2027年06月27日",
+      "quote": "超募资金投向 ... 天山电子檀圩园区综合能力提升项目 ... 7,264.98万元 ... 19.30% ... 2027年06月27日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高抗振垂直排列液晶显示屏",
+      "asset_type": "core_technology",
+      "related_product": "车载仪表、工控机床屏",
+      "quantitative_info": null,
+      "quote": "公司自主研发了高抗振垂直排列液晶显示屏..."
+    },
+    {
+      "name": "车载仪表双联屏模组",
+      "asset_type": "core_technology",
+      "related_product": "车载电子",
+      "quantitative_info": null,
+      "quote": "公司自主研发了...车载仪表双联屏模组..."
+    },
+    {
+      "name": "基于NAND技术的企业级SSD固态硬盘模组",
+      "asset_type": "core_technology",
+      "related_product": "数据存储",
+      "quantitative_info": null,
+      "quote": "公司自主研发了...基于NADA技术的企业级SSD固态硬盘模组..."
+    },
+    {
+      "name": "ISO9001:2015",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已经通过了质量管理体系（ISO9001:2015）..."
+    },
+    {
+      "name": "IS014001:2015",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "...环境管理体系（IS014001:2015）..."
+    },
+    {
+      "name": "IATFI6949:2016",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "...汽车行业质量管理体系（IATFI6949:2016）..."
+    },
+    {
+      "name": "IS013485:2016",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "...医疗器械管理体系（IS013485:2016）..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "31.08%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 31.08%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.84%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 22.84%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业规模及应用领域快速发展，且产业链内行业参与者众多，竞争比较激烈，OLED、AMOLED、MiniLED、MicroLED、QD-OLED等显示技术不断更新迭代或规模化应用。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争和技术迭代的风险 ... 液晶显示行业是国家信息产业的重要组成部分，行业规模及应用领域快速发展，且产业链内行业参与者众多，竞争比较激烈，OLED、AMOLED、MiniLED、MicroLED、QD-OLED等显示技术不断更新迭代或规模化应用。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易摩擦、地缘政治风险升级，全球政治经济环境跌宕起伏且充满易变性和复杂性，全球经济格局加速重构。公司产品主要出口地为中国香港地区、中国台湾地区、欧洲、美洲、日本、韩国等国家和地区，而国际贸易壁垒呈现出多样化趋势，除了常规贸易壁垒外，国际贸易保护措施出现了“绿色壁垒”、“知识产权”等新形式。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、海外贸易风险 ... 近年，国际贸易摩擦、地缘政治风险升级，全球政治经济环境跌宕起伏且充满易变性和复杂性，全球经济格局加速重构。公司产品主要出口地为中国香港地区、中国台湾地区、欧洲、美洲、日本、韩国等国家和地区，而国际贸易壁垒呈现出多样化趋势，除了常规贸易壁垒外，国际贸易保护措施出现了“绿色壁垒”、“知识产权”等新形式。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "由于优秀的人才是市场激烈争夺的对象，公司可能会面临部分人才流失风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、人才流失风险 ... 公司可能会面临部分人才流失风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格易受市场不确定性因素的影响。如原材料采购价格发生较大波动，公司对相关波动情况准备不足，原材料的供应和价格波动将直接影响公司的生产成本和盈利水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、原材料价格波动风险 ... 主要原材料占主营业务成本的比重较高，而原材料价格易受市场不确定性因素的影响。如原材料采购价格发生较大波动，公司对相关波动情况准备不足，原材料的供应和价格波动将直接影响公司的生产成本和盈利水平。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司外销收入主要以美元结算，美元持续贬值或汇率波动加剧可能对经营业绩产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、汇率波动风险 ... 公司外销收入主要以美元结算，美元持续贬值或汇率波动加剧可能对经营业绩产生影响。"
+    }
+  ]
+}

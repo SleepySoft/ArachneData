@@ -1,0 +1,425 @@
+{
+  "company_name_mentioned": "北京华大九天科技股份有限公司",
+  "produces": [
+    {
+      "name": "EDA工具软件及相关技术服务",
+      "type": "software",
+      "revenue_proportion": "EDA软件销售占81.10%，技术服务占15.19%，硬件、代理软件销售及其他占3.71%",
+      "quote": "公司主要从事用于集成电路设计、制造和封装的 EDA 工具软件开发、销售及相关服务业务。...分产品：EDA软件销售 1,074,512,360.11 81.10%...技术服务 201,282,884.21 15.19%...硬件、代理软件销售及其他 49,181,322.31 3.71%"
+    },
+    {
+      "name": "全定制设计平台EDA工具系统（含模拟、存储、射频、平板显示电路设计全流程EDA工具系统）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司产品包括全定制设计平台EDA工具系统、数字电路设计EDA工具系统、晶圆制造EDA工具、先进封装设计EDA工具和3DIC设计EDA工具等软件及相关技术服务。"
+    },
+    {
+      "name": "数字电路设计EDA工具系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司产品包括...数字电路设计EDA工具系统...等软件及相关技术服务。"
+    },
+    {
+      "name": "晶圆制造EDA工具",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司产品包括...晶圆制造EDA工具...等软件及相关技术服务。"
+    },
+    {
+      "name": "先进封装设计EDA工具",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司产品包括...先进封装设计EDA工具...等软件及相关技术服务。"
+    },
+    {
+      "name": "3DIC设计EDA工具",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司产品包括...3DIC设计EDA工具...等软件及相关技术服务。"
+    },
+    {
+      "name": "基础IP核",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "技术服务主要包括基础IP核开发、测试芯片设计、晶圆及IP核测试、SPICE模型提取、PDK开发等。"
+    },
+    {
+      "name": "晶圆制造工程服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "技术服务主要包括基础IP核开发、测试芯片设计、晶圆及IP核测试、SPICE模型提取、PDK开发等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "委托开发",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购需求包括委托开发、房租物业、软硬件设备、外购产品、测试服务、技术服务等。"
+    },
+    {
+      "name": "房租物业",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购需求包括委托开发、房租物业、软硬件设备、外购产品、测试服务、技术服务等。"
+    },
+    {
+      "name": "软硬件设备",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购需求包括委托开发、房租物业、软硬件设备、外购产品、测试服务、技术服务等。"
+    },
+    {
+      "name": "外购产品",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购需求包括委托开发、房租物业、软硬件设备、外购产品、测试服务、技术服务等。"
+    },
+    {
+      "name": "测试服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购需求包括委托开发、房租物业、软硬件设备、外购产品、测试服务、技术服务等。"
+    },
+    {
+      "name": "技术服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "主要采购需求包括委托开发、房租物业、软硬件设备、外购产品、测试服务、技术服务等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "集成电路设计",
+      "source_product": "EDA工具软件及相关技术服务",
+      "quote": "公司产品和服务主要应用于集成电路设计、制造及封装领域。"
+    },
+    {
+      "name": "集成电路制造（晶圆制造）",
+      "source_product": "晶圆制造EDA工具、晶圆制造工程服务",
+      "quote": "公司产品和服务主要应用于集成电路设计、制造及封装领域。"
+    },
+    {
+      "name": "集成电路封装（先进封装、3DIC设计）",
+      "source_product": "先进封装设计EDA工具、3DIC设计EDA工具",
+      "quote": "公司产品和服务主要应用于集成电路设计、制造及封装领域。"
+    },
+    {
+      "name": "模拟芯片设计（电源管理类、信号链等）",
+      "source_product": "模拟电路设计全流程EDA工具系统",
+      "quote": "模拟芯片主要包括电源管理类芯片和信号链芯片等。...模拟芯片和系统级芯片被广泛应用于计算机、网络通讯、数据中心、照明、家用电器、智能家居、消费类电子等领域。"
+    },
+    {
+      "name": "存储芯片设计（SRAM、DRAM、Flash等）",
+      "source_product": "存储电路设计全流程EDA工具系统",
+      "quote": "公司存储电路设计全流程EDA工具系统，主要服务于集成电路领域的存储器设计及制造企业...支持包括但不限于静态随机存取存储器(SRAM)、动态随机存取存储器(DRAM)以及闪速存储器(Flash)、磁随机存取存储器(MRAM)等多种类型的存储芯片设计。"
+    },
+    {
+      "name": "射频芯片设计（硅基、化合物半导体）",
+      "source_product": "射频电路设计全流程EDA工具系统",
+      "quote": "公司射频电路设计全流程EDA工具系统...包括从事射频芯片和模组设计的企业...可广泛应用于智能手机、智能驾驶、5G通信等领域。"
+    },
+    {
+      "name": "平板显示电路设计（LCD、OLED等）",
+      "source_product": "平板显示电路设计全流程EDA工具系统",
+      "quote": "公司平板显示电路设计全流程EDA工具系统主要客户群体为平板设计企业和终端企业...广泛应用于家用电器、智能家居、消费类电子等领域。"
+    },
+    {
+      "name": "数字芯片设计（逻辑综合、物理实现等）",
+      "source_product": "数字电路设计EDA工具系统",
+      "quote": "数字电路设计是指电路功能设计、逻辑综合、物理实现以及电路和版图分析验证的过程。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘伟平",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人刘伟平...声明：保证本年度报告中财务报告的真实、准确、完整。...公司法定代表人 刘伟平...现任本公司董事长。"
+    },
+    {
+      "name": "杨晓东",
+      "role": "总经理",
+      "quote": "现任本公司总经理。"
+    },
+    {
+      "name": "吕霖",
+      "role": "常务副总经理",
+      "quote": "现任本公司常务副总经理。"
+    },
+    {
+      "name": "刘二明",
+      "role": "副总经理、财务负责人",
+      "quote": "现任本公司副总经理、财务负责人。"
+    },
+    {
+      "name": "宋矗林",
+      "role": "副总经理、董事会秘书",
+      "quote": "现任本公司副总经理、董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "楷登电子 (Cadence Design Systems, Inc)",
+      "relation_type": "competitor",
+      "business_details": "全球EDA行业第一梯队企业",
+      "quote": "全球EDA行业主要由楷登电子、新思科技和西门子EDA垄断，上述三家公司属于具有显著领先优势的第一梯队。"
+    },
+    {
+      "name": "新思科技 (Synopsys, Inc)",
+      "relation_type": "competitor",
+      "business_details": "全球EDA行业第一梯队企业",
+      "quote": "全球EDA行业主要由楷登电子、新思科技和西门子EDA垄断，上述三家公司属于具有显著领先优势的第一梯队。"
+    },
+    {
+      "name": "西门子EDA (Mentor Graphics Corporation/Siemens EDA)",
+      "relation_type": "competitor",
+      "business_details": "全球EDA行业第一梯队企业",
+      "quote": "全球EDA行业主要由楷登电子、新思科技和西门子EDA垄断，上述三家公司属于具有显著领先优势的第一梯队。"
+    },
+    {
+      "name": "中国电子信息产业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人，持股5%以上股东",
+      "quote": "中国电子信息产业集团有限公司 2022年07月29日...股份限售承诺...关于同业竞争、关联交易、资金占用方面的承诺。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "EDA软件销售",
+      "segment_type": "product_line",
+      "revenue_amount": "1,074,512,360.11",
+      "revenue_proportion": "81.10%",
+      "gross_margin": "100.00%",
+      "yoy_change": "-1.63%",
+      "quote": "EDA软件销售 1,074,512,360.11 81.10% ... 毛利率 100.00% ... 营业收入比上年同期增减 -1.63%"
+    },
+    {
+      "name": "技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "201,282,884.21",
+      "revenue_proportion": "15.19%",
+      "gross_margin": "44.64%",
+      "yoy_change": "74.93%",
+      "quote": "技术服务 201,282,884.21 15.19% ... 毛利率 44.64% ... 营业收入比上年同期增减 74.93%"
+    },
+    {
+      "name": "硬件、代理软件销售及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "49,181,322.31",
+      "revenue_proportion": "3.71%",
+      "gross_margin": null,
+      "yoy_change": "228.70%",
+      "quote": "硬件、代理软件销售及其他 49,181,322.31 3.71% 228.70%"
+    },
+    {
+      "name": "集成电路行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "1,324,976,566.63",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "89.25%",
+      "yoy_change": "8.40%",
+      "quote": "分行业 集成电路行业 1,324,976,566.63 100.00% ... 毛利率 89.25% ... 营业收入比上年同期增减 8.40%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,193,630,999.92",
+      "revenue_proportion": "90.09%",
+      "gross_margin": "88.68%",
+      "yoy_change": "2.49%",
+      "quote": "分地区 境内 1,193,630,999.92 90.09% ... 毛利率 88.68% ... 营业收入比上年同期增减 2.49%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "131,345,566.71",
+      "revenue_proportion": "9.91%",
+      "gross_margin": null,
+      "yoy_change": "127.45%",
+      "quote": "境外 131,345,566.71 9.91% 127.45%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "1,460人",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司拥有员工1460人"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "1,077人",
+      "period": "报告期末",
+      "quote": "其中研发技术人员1077人，占公司员工总数的74%。"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "402项",
+      "period": "截至2025年12月31日",
+      "quote": "截至 2025 年 12 月 31 日，公司已获得授权专利 402 项"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "186项",
+      "period": "截至2025年12月31日",
+      "quote": "已登记软件著作权186项。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "电路仿真及数字分析优化EDA工具升级项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "50,738.15万元",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2024年11月29日",
+      "quote": "电路仿真及数字分析优化EDA工具升级项目...募集资金承诺投资总额 50,738.15万元...项目达到预定可使用状态日期 2024年11月29日...已结项"
+    },
+    {
+      "name": "数字设计综合及验证EDA工具开发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2025年",
+      "quote": "数字设计综合及验证EDA工具开发项目...已结项"
+    },
+    {
+      "name": "模拟设计及验证EDA工具升级项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "模拟设计及验证EDA工具升级项目...已结项"
+    },
+    {
+      "name": "面向特定类型芯片设计的EDA工具开发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "面向特定类型芯片设计的EDA工具开发项目...已结项"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "EDA工具软件技术",
+      "asset_type": "core_technology",
+      "related_product": "全定制设计平台EDA工具系统、数字电路设计EDA工具系统等",
+      "quantitative_info": "截至 2025 年 12 月 31 日，公司已获得授权专利 402 项和已登记软件著作权186项。报告期内，公司EDA领域研发投入金额为85,917.51万元",
+      "quote": "经过多年的持续研发和技术积累，截至 2025 年 12 月 31 日，公司已获得授权专利 402 项和已登记软件著作权186项。报告期内，公司EDA领域研发投入金额为85,917.51万元"
+    },
+    {
+      "name": "模拟电路设计全流程EDA工具系统",
+      "asset_type": "technical_platform",
+      "related_product": "模拟电路设计",
+      "quantitative_info": "国内唯一能够提供模拟电路设计全流程EDA工具系统的本土EDA企业",
+      "quote": "公司是我国唯一能够提供模拟电路设计全流程EDA工具系统的本土EDA企业。"
+    },
+    {
+      "name": "射频电路设计全流程EDA工具系统",
+      "asset_type": "technical_platform",
+      "related_product": "射频电路设计",
+      "quantitative_info": "国内唯一的射频电路设计全流程EDA工具系统",
+      "quote": "公司射频电路设计全流程EDA工具系统是国内唯一的射频电路设计全流程EDA工具系统"
+    },
+    {
+      "name": "平板显示电路设计全流程EDA工具系统",
+      "asset_type": "technical_platform",
+      "related_product": "平板显示电路设计",
+      "quantitative_info": "全球领先的商业化全流程设计系统，多项技术达到国际领先水平",
+      "quote": "平板显示电路设计全流程EDA工具系统是全球领先的商业化全流程设计系统，多项技术达到国际领先水平，填补了国内平板设计EDA专业软件的空白"
+    },
+    {
+      "name": "3DIC设计全流程EDA解决方案",
+      "asset_type": "technical_platform",
+      "related_product": "3DIC设计",
+      "quantitative_info": "国内唯一的3DIC设计验证全流程EDA提供商",
+      "quote": "是国内唯一的3DIC设计验证全流程EDA提供商。"
+    },
+    {
+      "name": "ISO 26262 TCL3和IEC 61508 T2国际标准认证",
+      "asset_type": "certification",
+      "related_product": "原理图/版图编辑工具Aether、电路仿真工具ALPS等八款工具",
+      "quantitative_info": "能够支持汽车安全完整性标准最高ASIL D级别的芯片设计",
+      "quote": "原理图/版图编辑工具Aether、电路仿真工具ALPS、物理验证工具Argus、寄生参数提取工具RCExplorer、功率器件可靠性分析工具Polas、晶体管级电源完整性分析工具Patron、单元库/IP质量验证工具Qualib和高精度时序仿真分析工具ICExplorer-XTime等八款工具获得ISO 26262 TCL3和IEC 61508 T2国际标准认证，能够支持汽车安全完整性标准最高ASIL D级别的芯片设计。"
+    },
+    {
+      "name": "PDK开发",
+      "asset_type": "process_technology",
+      "related_product": "晶圆制造EDA工具、设计服务",
+      "quantitative_info": "与公司全流程EDA产品互相配合形成闭环解决方案，推动国产EDA工具的大规模应用。公司的技术底座与生态协同有效推动国产化先进工艺的持续迭代与自主突破",
+      "quote": "公司与国内晶圆代工厂深度合作，开发的PDK套件覆盖国内晶圆代工厂70%以上的工艺节点，与公司全流程EDA产品互相配合形成闭环解决方案，推动国产EDA工具的大规模应用。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "30.58%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 30.58%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "18.68%",
+      "related_entity": "第一名",
+      "period": "报告期内",
+      "quote": "第一名 247,555,879.67 18.68%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "44.48%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 44.48%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "17.30%",
+      "related_entity": "第一名",
+      "period": "报告期内",
+      "quote": "第一名 67,241,020.44 17.30%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "EDA工具技术含量较高，开发流程复杂，如果对产品属性判断错误或者对自身技术开发能力评估有误，可能会导致公司产品项目研发周期延长或预期功能无法实现。另一方面，如果在产品升级迭代期间，竞争对手优先于公司设计出新一代性能的产品，可能导致公司丢失一定的市场份额。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术创新、产品升级的风险...如果对产品属性判断错误或者对自身技术开发能力评估有误，可能会导致公司产品项目研发周期延长或预期功能无法实现。另一方面...如果在产品升级迭代期间，竞争对手优先于公司设计出新一代性能的产品，可能导致公司丢失一定的市场份额，影响公司发展。"
+    },
+    {
+      "risk_type": "other",
+      "description": "EDA行业对于专业人才尤其是研发人员的依赖程度较高。随着市场需求的不断增长和行业竞争的日益激烈，EDA行业对于专业技术人才的竞争不断加剧，若公司不能提供更好的发展平台、更具市场竞争力的薪酬待遇及良好的研发条件，可能面临技术人员流失的风险；同时，公司可能面临技术人才不足的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术人员流失或不足的风险...若公司不能提供更好的发展平台、更具市场竞争力的薪酬待遇及良好的研发条件，可能面临技术人员流失的风险；同时...公司可能面临技术人才不足的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内市场仍由主要国际知名厂商新思科技、楷登电子和西门子EDA主导。与上述国际顶级厂商相比，公司在品牌影响力、技术研发水平、资金实力和市场占有率等方面均存在一定差距。此外，随着国家对EDA技术发展的日益重视，国内其他EDA企业和技术团队逐步增加，给公司带来了一定竞争压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险...国内市场仍由主要国际知名厂商新思科技、楷登电子和西门子EDA主导。与上述国际顶级厂商相比，公司在品牌影响力、技术研发水平、资金实力和市场占有率等方面均存在一定差距。此外...国内其他EDA企业和技术团队逐步增加，给公司带来了一定竞争压力"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "近年来，伴随着全球产业格局的深度调整，国际贸易摩擦不断，已有部分国家通过贸易保护等手段，对中国相关产业的发展造成了客观不利影响，中国企业将面对不断增加的国际贸易摩擦和贸易争端。报告期内，公司来自境外的营业收入为 13,134.56 万元，比 2024 年增长 127.45%，占营业收入比例为 9.91%。若未来与中国相关的国际贸易摩擦持续发生，公司将面临业务限制、交易成本增加、上游供给受阻或下游需求受限等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国际贸易摩擦风险...若未来与中国相关的国际贸易摩擦持续发生，公司将面临业务限制、交易成本增加、上游供给受阻或下游需求受限等风险"
+    }
+  ]
+}

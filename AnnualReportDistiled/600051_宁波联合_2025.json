@@ -1,0 +1,510 @@
+{
+  "company_name_mentioned": "宁波联合集团股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司从事的业务情况：1、电力、热力生产和供应业务...。报告期内，本业务完成发电量30,973万度...实现营业收入44,779万元。"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司从事的业务情况：1、电力、热力生产和供应业务...完成售热量134万吨...实现营业收入44,779万元。"
+    },
+    {
+      "name": "水煤浆",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "其水煤浆分公司主要从事水煤浆的制造、受托加工及销售业务。"
+    },
+    {
+      "name": "商品房",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "房地产业务：本报告期，公司房地产业务实现收入5.80亿元...。具体经营情况如下：...（各项目签约面积等数据）。"
+    },
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "批发业务：...其进出口商品主要包括煤炭、化工产品、服装、纺织品、鞋类等...。报告期内，...完成进出口额58,170万美元...主要系煤炭进口业务量下降所致。"
+    },
+    {
+      "name": "外贸综合服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "进出口公司的进出口贸易，其经营模式是自营并为中小企业提供通关、仓储、外汇、物流、信保等外贸综合服务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "电力、热力",
+      "cost_proportion": "电力、热力生产和供应业 成本构成 购煤成本 21,180 28.84%",
+      "quote": "成本分析表：电力、热力生产和供应业...购煤成本 21,180 28.84%"
+    },
+    {
+      "name": "进货成本（含煤炭等）",
+      "target_product": "批发业务",
+      "cost_proportion": "批发业 成本构成 进货成本 19,310 26.30%",
+      "quote": "成本分析表：批发业...进货成本 19,310 26.30%"
+    },
+    {
+      "name": "建安成本、土地成本",
+      "target_product": "商品房",
+      "cost_proportion": "房地产业 成本构成 建安成本 4,956 6.75%...土地成本 8,100 11.03%",
+      "quote": "成本分析表：房地产业...建安成本 4,956 6.75%...土地成本 8,100 11.03%"
+    },
+    {
+      "name": "进口煤炭",
+      "target_product": "批发业务",
+      "cost_proportion": null,
+      "quote": "前五名供应商采购额中...SHEN HUA HONG KONG INTERNATIONAL TRADING LIMITED 9,999 8.90%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "宁波经济技术开发区联合区域",
+      "source_product": "电力、热力",
+      "quote": "供电区域覆盖宁波经济技术开发区联合区域...供热范围覆盖宁波经济技术开发区联合区域、青峙化工区及江南出口加工区等周边区域。"
+    },
+    {
+      "name": "工业用热（化工区等）",
+      "source_product": "热力",
+      "quote": "供热范围覆盖...青峙化工区及江南出口加工区等周边区域，热网管线长75公里，热用户约85家。"
+    },
+    {
+      "name": "居民住宅",
+      "source_product": "商品房",
+      "quote": "房地产业务主要包括传统住宅...传统住宅开发主要在宁波、嵊泗、温州苍南和龙港等地，所开发的产品包括中高层住宅、多层住宅等。"
+    },
+    {
+      "name": "文化旅游地产",
+      "source_product": "商品房",
+      "quote": "文化旅游及特色商业地产开发主要在宁波、嵊泗和苍南等地，分别以嵊泗天悦湾景区为依托的海滨度假村海景公寓、以苍南马站镇雾城渔寮沙滩景区为依托的半山半岛旅游综合体..."
+    },
+    {
+      "name": "商业地产",
+      "source_product": "商品房",
+      "quote": "...梁祝天地休闲广场项目和苍南瑞和家园的商业综合体项目。"
+    },
+    {
+      "name": "国内外商品贸易市场",
+      "source_product": "煤炭、化工产品、服装等",
+      "quote": "进出口商品主要包括煤炭、化工产品、服装、纺织品、鞋类等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李水荣",
+      "role": "公司负责人，法定代表人，董事长",
+      "quote": "重要提示...公司负责人李水荣...；公司股票简况...公司的法定代表人 李水荣；董事和高级管理人员的情况...李水荣 董事长；实际控制人情况...姓名 李水荣...主要职业及职务 浙江荣盛控股集团有限公司董事长、总裁；荣盛石化股份有限公司董事长；本公司董事长、浙江石油化工有限公司董事长。"
+    },
+    {
+      "name": "王维和",
+      "role": "副董事长、总裁",
+      "quote": "董事和高级管理人员的情况...王维和 副董事长、总裁；在其他单位任职情况...王维和 温州银联公司 董事长；王维和 进出口公司 董事长..."
+    },
+    {
+      "name": "汤子俊",
+      "role": "董事会秘书，副总裁",
+      "quote": "联系人和联系方式...董事会秘书 姓名 汤子俊；董事和高级管理人员的情况...汤子俊 副总裁、董事会秘书；在其他单位任职情况...汤子俊 进出口公司 总经理..."
+    },
+    {
+      "name": "杨志华",
+      "role": "会计机构负责人，财务负责人",
+      "quote": "重要提示...会计机构负责人（会计主管人员）杨志华...；董事和高级管理人员的情况...杨志华 财务负责人..."
+    },
+    {
+      "name": "沈伟",
+      "role": "董事",
+      "quote": "董事和高级管理人员的情况...沈伟 董事...现任本公司董事；浙江荣盛控股集团有限公司房地产事业部总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江荣盛控股集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股29.08%。",
+      "quote": "控股股东、实际控制人情况...名称 浙江荣盛控股集团有限公司...；前十名股东持股情况...浙江荣盛控股集团有限公司...期末持股数量 90,417,600...比例(%) 29.08..."
+    },
+    {
+      "name": "宁波经济技术开发区热电有限责任公司（热电公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事电力、热力、水煤浆生产与供应。",
+      "quote": "释义...热电公司 指 宁波经济技术开发区热电有限责任公司；主要控股参股公司分析...热电公司 子公司 电力、热力、水煤浆..."
+    },
+    {
+      "name": "宁波联合建设开发有限公司（建设开发公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事房地产开发。",
+      "quote": "释义...建设开发公司 指 宁波联合建设开发有限公司；主要控股参股公司分析...建设开发公司 子公司 住宅、商业地产..."
+    },
+    {
+      "name": "宁波联合集团进出口股份有限公司（进出口公司）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事批发业务（进出口贸易）。",
+      "quote": "释义...进出口公司 指 宁波联合集团进出口股份有限公司；主要控股参股公司分析...进出口公司 子公司 煤炭、纸张、出口代理..."
+    },
+    {
+      "name": "宁波梁祝文化产业园开发有限公司（梁祝公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事房地产开发（逸家园项目）。",
+      "quote": "释义...梁祝公司 指 宁波梁祝文化产业园开发有限公司；主要控股参股公司分析...梁祝公司 子公司 住宅、商业地产..."
+    },
+    {
+      "name": "嵊泗远东长滩旅游开发有限公司（嵊泗长滩公司）",
+      "relation_type": "subsidiary",
+      "business_details": "建设开发公司的全资子公司，从事嵊泗房地产开发。",
+      "quote": "释义...嵊泗长滩公司 指 嵊泗远东长滩旅游开发有限公司；...该公司全资子公司嵊泗长滩公司继续做好天悦湾滨海度假村A区的商品房销售..."
+    },
+    {
+      "name": "温州银联投资置业有限公司（温州银联公司）",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事温州地区房地产开发。",
+      "quote": "释义...温州银联公司 指 温州银联投资置业有限公司；主要控股参股公司分析...温州银联公司 子公司 住宅、商业地产..."
+    },
+    {
+      "name": "宁波青峙化工码头有限公司",
+      "relation_type": "customer",
+      "business_details": "参股公司，公司向其供热，且存在应收股利。",
+      "quote": "释义...（无，但出现在主要控股参股公司分析及关联交易中）；其他应收款...应收股利...宁波青峙化工码头有限公司 47,500,000.00；...子公司的联营企业宁波青峙化工码头有限公司..."
+    },
+    {
+      "name": "宁波金通融资租赁有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司，子公司热电公司持股10%，存在担保及增资关系。",
+      "quote": "主要控股参股公司分析...宁波金通融资租赁有限公司 参股公司 融资租赁...；重大关联交易...同意全资子公司热电公司拟参与对宁波金通融资租赁有限公司增资...增资后全资子公司热电公司仍保持10%的持股比例。"
+    },
+    {
+      "name": "浙江逸盛石化有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方，与热电公司存在水煤浆关联交易。",
+      "quote": "重大关联交易...同意全资子公司热电公司与浙江逸盛石化有限公司按...续签相关交易合同...年合同供货金额不超过25,000万元人民币。"
+    },
+    {
+      "name": "SHEN HUA HONG KONG INTERNATIONAL TRADING LIMITED",
+      "relation_type": "supplier",
+      "business_details": "贸易业务收入占营业收入比例超过10%前五名供应商之一。",
+      "quote": "贸易业务收入占营业收入比例超过10%前五名供应商...序号 1 供应商名称 SHEN HUA HONG KONG INTERNATIONAL TRADING LIMITED 采购额 9,999 占年度采购总额比例（%） 8.90"
+    },
+    {
+      "name": "上海合源新时代能源发展有限公司",
+      "relation_type": "customer",
+      "business_details": "报告期内新增前五大客户，销售额占比11.10%。",
+      "quote": "报告期内向单个客户的销售比例超过总额的50%、前5名客户中存在新增客户的或严重依赖于少数客户的情形...序号 1 客户名称 上海合源新时代能源发展有限公司 销售额 14,076 占年度销售总额比例（%） 11.10"
+    },
+    {
+      "name": "苍南县山海旅游产业发展有限公司",
+      "relation_type": "customer",
+      "business_details": "报告期内新增前五大客户，销售额占比10.26%。",
+      "quote": "报告期内向单个客户的销售比例超过总额的50%、前5名客户中存在新增客户的或严重依赖于少数客户的情形...序号 2 客户名称 苍南县山海旅游产业发展有限公司 销售额 13,005 占年度销售总额比例（%） 10.26"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "批发业",
+      "segment_type": "business_unit",
+      "revenue_amount": "19,661",
+      "revenue_proportion": null,
+      "gross_margin": "1.79",
+      "yoy_change": "-76.22",
+      "quote": "主营业务分行业情况...分行业 营业收入 营业成本 毛利率（%） 营业收入比上年增减（%）...批发业 19,661 19,310 1.79 -76.22..."
+    },
+    {
+      "name": "电力、热力生产和供应业",
+      "segment_type": "business_unit",
+      "revenue_amount": "41,369",
+      "revenue_proportion": null,
+      "gross_margin": "22.09",
+      "yoy_change": "-12.23",
+      "quote": "主营业务分行业情况...电力、热力生产和供应业 41,369 32,230 22.09 -12.23..."
+    },
+    {
+      "name": "房地产业",
+      "segment_type": "business_unit",
+      "revenue_amount": "16,018",
+      "revenue_proportion": null,
+      "gross_margin": "10.81",
+      "yoy_change": "-49.34",
+      "quote": "主营业务分行业情况...房地产业 16,018 14,286 10.81 -49.34..."
+    },
+    {
+      "name": "商品房",
+      "segment_type": "product_line",
+      "revenue_amount": "16,018",
+      "revenue_proportion": null,
+      "gross_margin": "10.81",
+      "yoy_change": "-49.34",
+      "quote": "主营业务分产品情况...分产品 营业收入 营业成本 毛利率（%） 营业收入比上年增减（%）...商品房 16,018 14,286 10.81 -49.34..."
+    },
+    {
+      "name": "电、热",
+      "segment_type": "product_line",
+      "revenue_amount": "41,209",
+      "revenue_proportion": null,
+      "gross_margin": "21.80",
+      "yoy_change": "-11.85",
+      "quote": "主营业务分产品情况...电、热 41,209 32,227 21.80 -11.85..."
+    },
+    {
+      "name": "煤炭",
+      "segment_type": "product_line",
+      "revenue_amount": "18,394",
+      "revenue_proportion": null,
+      "gross_margin": "-4.98",
+      "yoy_change": "-77.45",
+      "quote": "主营业务分产品情况...煤炭 18,394 19,310 -4.98 -77.45..."
+    },
+    {
+      "name": "浙江省内",
+      "segment_type": "region",
+      "revenue_amount": "69,499",
+      "revenue_proportion": null,
+      "gross_margin": "15.18",
+      "yoy_change": "-59.01",
+      "quote": "主营业务分地区情况...浙江省内 69,499 58,951 15.18 -59.01..."
+    },
+    {
+      "name": "浙江省外",
+      "segment_type": "region",
+      "revenue_amount": "15,223",
+      "revenue_proportion": null,
+      "gross_margin": "4.85",
+      "yoy_change": "2,053.18",
+      "quote": "主营业务分地区情况...浙江省外 15,223 14,484 4.85 2,053.18..."
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "84,604",
+      "revenue_proportion": null,
+      "gross_margin": "13.27",
+      "yoy_change": "-50.26",
+      "quote": "主营业务分销售模式情况...直接销售 84,604 73,374 13.27 -50.26..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "30,973万度",
+      "period": "2025年",
+      "quote": "电力、热力生产和供应业务...报告期内，本业务完成发电量30,973万度。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "35,533万度",
+      "period": "2025年",
+      "quote": "电力、热力生产和供应业务...完成售电量35,533万度。"
+    },
+    {
+      "product": "热力",
+      "metric_type": "sales_volume",
+      "value": "134万吨",
+      "period": "2025年",
+      "quote": "电力、热力生产和供应业务...完成售热量134万吨。"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "总装机容量45MW，供热能力约400T/h",
+      "period": "报告期末",
+      "quote": "电力、热力生产和供应业务...全资子公司热电公司拥有4炉4机的生产规模，总装机容量45MW，供热能力约400T/h。"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "capacity",
+      "value": "装机容量4690Kwp",
+      "period": "报告期末",
+      "quote": "...继续做好售电、区域光伏和充电桩等电力板块业务发展，截至报告期末已累计完成光伏项目装机容量4690Kwp。"
+    },
+    {
+      "product": "进出口额",
+      "metric_type": "sales_volume",
+      "value": "58,170万美元",
+      "period": "2025年",
+      "quote": "批发业务...完成进出口额58,170万美元。"
+    },
+    {
+      "product": "火电",
+      "metric_type": "capacity_utilization",
+      "value": "利用小时数：6,883小时",
+      "period": "2025年",
+      "quote": "发电效率情况分析...利用小时数：6,883小时。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "机炉升级改造",
+      "project_type": "capacity_expansion",
+      "location": "宁波经济技术开发区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "积极筹划",
+      "expected_completion_time": null,
+      "quote": "电力、热力生产和供应业务...积极筹划机炉升级改造，增强发展后劲。"
+    },
+    {
+      "name": "雾城半山半岛旅游综合体",
+      "project_type": "construction_project",
+      "location": "温州苍南",
+      "investment_amount": null,
+      "designed_capacity": "规划计容建筑面积181,896平方米",
+      "progress": "在建项目（一、二、三期已竣工备案，四期暂未开工）",
+      "expected_completion_time": null,
+      "quote": "报告期内房地产开发投资情况...雾城半山半岛旅游综合体...在建项目...规划计容建筑面积 181,896...注：雾城半山半岛旅游综合体一、二、三期项目报告期内已完成竣工备案，四期项目因规划沟通等原因，报告期内暂未开工。"
+    },
+    {
+      "name": "嵊泗SS-CY-28地块",
+      "project_type": "construction_project",
+      "location": "嵊泗县",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新开工项目",
+      "expected_completion_time": null,
+      "quote": "报告期内房地产开发投资情况...嵊泗 SS-CY-28地块...新开工项目..."
+    },
+    {
+      "name": "嵊泗长滩公司国有建设用地使用权收回",
+      "project_type": "other",
+      "location": "嵊泗县",
+      "investment_amount": "84,218,505.00元（收回补偿款）",
+      "designed_capacity": null,
+      "progress": "已完成履行",
+      "expected_completion_time": null,
+      "quote": "...嵊泗长滩公司与嵊泗县土地收购储备中心签订了国有建设用地使用权收回补偿协议...以84,218,505.00元的价格有偿收回，截至报告期末，协议已完成履行。"
+    },
+    {
+      "name": "热电公司与金通租赁增资",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "48,323,200.00元（热电公司出资）",
+      "designed_capacity": null,
+      "progress": "已完成工商变更登记",
+      "expected_completion_time": null,
+      "quote": "...同意全资子公司热电公司以现有的10%的持股比例...参与对宁波金通融资租赁有限公司的增资...增资后全资子公司热电公司仍保持10%的持股比例。...截至本报告日，金通租赁已完成工商变更登记事宜。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "脱硫、脱硝、低氮燃烧和锅炉烟气超低排放技术改造",
+      "asset_type": "process_technology",
+      "related_product": "电力、热力",
+      "quantitative_info": null,
+      "quote": "设备优势...均已按照环保政策要求完成了脱硫、脱硝、低氮燃烧和锅炉烟气超低排放技术改造。"
+    },
+    {
+      "name": "浙江省外贸综合服务骨干企业认定",
+      "asset_type": "certification",
+      "related_product": "外贸综合服务",
+      "quantitative_info": null,
+      "quote": "报告期内，子公司进出口公司被浙江省商务厅认定为“浙江省外贸综合服务骨干企业”。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "46,977万元，占年度销售总额37.1%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "主要销售客户及主要供应商情况...前五名客户销售额46,977万元，占年度销售总额37.1%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39,810万元，占年度采购总额35.4%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "主要销售客户及主要供应商情况...前五名供应商采购额39,810万元，占年度采购总额35.4%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中关联方销售额4,637万元，占年度销售总额3.7%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "主要销售客户及主要供应商情况...其中前五名客户销售额中关联方销售额4,637万元，占年度销售总额3.7%。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "前五名供应商采购额中关联方采购额0万元，占年度采购总额0",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "主要销售客户及主要供应商情况...其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "电力业务：国家对热电联产项目的新建及改造升级，均有限制与要求，对产能扩张和发展形成制约；产业政策变化影响供应区域电热需求。",
+      "related_entity": "热电公司",
+      "related_product": "电力、热力",
+      "quote": "可能面对的风险...1、电力、热力生产和供应业务：1）政策风险：国家对热电联产项目的新建及改造升级，均有严格的限制与要求，这对本业务的产能扩张和发展形成了制约；本业务的发展同区域产业的规划和发展紧密相关，产业政策的变化或调整，将在影响供应区域电热需求的同时，联动影响本业务的经营规模和经济效益。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "电力业务：环保投入及运营维护成本增加，影响获利能力。",
+      "related_entity": "热电公司",
+      "related_product": "电力、热力",
+      "quote": "可能面对的风险...2）环保风险：在国家环保政策严格监管的新常态下，公司的环保投入及其运营维护成本会随之增加，从而影响本业务的获利能力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力业务：售电市场价格竞争激烈，电价市场化影响收入和获利；经济形势多变影响电、热用户需求波动。",
+      "related_entity": "热电公司",
+      "related_product": "电力、热力",
+      "quote": "可能面对的风险...3）电价风险：...供应区域售电市场的价格竞争日趋激烈，同时，电价的市场化及用户议价能力的提高，均会对公司电力业务的收入和获利产生不利影响。4）市场风险：经济形势和市场环境的多变，给公司电、热用户的生产经营带来诸多不确定性，从而引起其电、热需求的波动，进而影响到本业务的稳定性。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "电力业务：面临技术替代风险。",
+      "related_entity": "热电公司",
+      "related_product": "电力、热力",
+      "quote": "可能面对的风险...5）技术风险：...本业务所面临的主要技术风险是技术替代风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "房地产业务：国家及地方房地产政策调整对行业产生重大影响。",
+      "related_entity": null,
+      "related_product": "商品房",
+      "quote": "可能面对的风险...2、房地产业务：1）政策风险：国家及地方层面的房地产政策调整仍对行业产生重大影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "房地产业务：库存去化与销售改善仍是挑战，部分区域供过于求；获取优质土地储备难度大。",
+      "related_entity": null,
+      "related_product": "商品房",
+      "quote": "可能面对的风险...2）经营风险：短期内，库存去化与销售改善仍是行业面临的现实挑战。...公司获取优质土地储备的难度依然存在..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "房地产业务：行业资金密集，银行信贷政策调整制约业务拓展，文旅及商业地产占用资金多、回收期长。",
+      "related_entity": null,
+      "related_product": "商品房",
+      "quote": "可能面对的风险...3）财务风险：房地产行业属于资金密集型行业...银行信贷政策和贷款规模均会随时收放调整，并对公司房地产业务的拓展和现有项目的开发带来制约，而文化旅游地产项目和特色商业地产项目又具有占用资金较多和投资回收期较长的特点..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "批发业务：世界经济不确定性、地缘政治紧张和贸易保护主义加大外贸风险；跨境电商等新业态使传统外贸压力增大。",
+      "related_entity": "进出口公司",
+      "related_product": "煤炭、化工产品等",
+      "quote": "可能面对的风险...3、批发业务：1）经营风险：世界经济不确定性、地缘政治紧张局势和贸易保护主义的存在加大了公司甄别、防范和化解外贸风险的难度...跨境电商、市场采购贸易等外贸新业态，也使传统外贸发展压力进一步增大。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "批发业务：人民币汇率剧烈波动对进出口业务经营业绩造成较大影响。",
+      "related_entity": "进出口公司",
+      "related_product": null,
+      "quote": "可能面对的风险...2）汇率风险：人民币汇率剧烈波动将对公司进出口业务的经营业绩造成较大影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "前瞻性陈述风险：本报告中所涉及的未来计划、发展战略等前瞻性陈述，均不构成公司对投资者的实质承诺。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重要提示...六、前瞻性陈述的风险声明 √适用 □不适用 本报告中所涉及的未来计划、发展战略等前瞻性陈述，均不构成公司对投资者的实质承诺..."
+    }
+  ]
+}

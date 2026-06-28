@@ -1,0 +1,584 @@
+{
+  "company_name_mentioned": "贵阳银行股份有限公司",
+  "produces": [
+    {
+      "name": "存款产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "经营范围主要包括：人民币业务：吸收公众存款；"
+    },
+    {
+      "name": "贷款及垫款",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内，本行发放贷款及垫款利息收入为151.78亿元"
+    },
+    {
+      "name": "理财产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "理财产品手续费收入 245,744"
+    },
+    {
+      "name": "投资银行业务服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "投资银行业务手续费收入 47,002"
+    },
+    {
+      "name": "银行卡服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "银行卡手续费收入 56,130"
+    },
+    {
+      "name": "代理业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "代理业务手续费收入 186,278"
+    },
+    {
+      "name": "结算服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "结算手续费收入 57,956"
+    },
+    {
+      "name": "担保及承诺服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "担保及承诺手续费收入 34,168"
+    },
+    {
+      "name": "供应链金融服务（爽融链）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内，爽融链业务规模稳步扩张，服务覆盖面持续拓展，爽融链金融业务累计提供融资支持29.39亿元"
+    },
+    {
+      "name": "金融租赁服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "贵银金租实现营业收入11.36亿元，净利润3.70亿元。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "吸收存款",
+      "target_product": "信贷资产",
+      "cost_proportion": null,
+      "quote": "吸收存款 9,066,978"
+    },
+    {
+      "name": "向中央银行借款",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "向中央银行借款 1,267,735"
+    },
+    {
+      "name": "拆入资金",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "拆入资金 722,446"
+    },
+    {
+      "name": "同业及其他金融机构存放",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "同业及其他金融机构存放 253,287"
+    },
+    {
+      "name": "发行债券",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "发行债券 1,850,471"
+    },
+    {
+      "name": "卖出回购金融资产",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "卖出回购金融资产款 377,495"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新型工业化（园区建设、战略新兴产业、先进制造业）",
+      "source_product": "贷款",
+      "quote": "支持“四化”领域贷款余额1,730.61亿元...新型工业化贷款余额417.23亿元"
+    },
+    {
+      "name": "新型城镇化（民生项目、基础设施）",
+      "source_product": "贷款",
+      "quote": "新型城镇化贷款余额1,159.71亿元"
+    },
+    {
+      "name": "农业现代化（现代山地特色高效农业）",
+      "source_product": "贷款",
+      "quote": "新型农业现代化贷款余额113.70亿元"
+    },
+    {
+      "name": "旅游产业化（旅游配套设施、项目盘活）",
+      "source_product": "贷款",
+      "quote": "旅游产业化贷款余额194.38亿元"
+    },
+    {
+      "name": "科技型企业（专精特新）",
+      "source_product": "科技贷款、科创债",
+      "quote": "科技贷款余额246.13亿元"
+    },
+    {
+      "name": "绿色低碳转型（清洁能源、绿色交通、生态环保）",
+      "source_product": "绿色贷款、绿色债券、绿色租赁",
+      "quote": "绿色贷款余额368.47亿元...绿色租赁本金余额180.88亿元"
+    },
+    {
+      "name": "小微企业及民营经济",
+      "source_product": "普惠贷款",
+      "quote": "普惠型小微企业贷款余额425.39亿元...民营企业贷款余额399.59亿元"
+    },
+    {
+      "name": "房地产行业",
+      "source_product": "贷款",
+      "quote": "房地产业贷款余额57,996,266千元"
+    },
+    {
+      "name": "批发和零售业",
+      "source_product": "贷款",
+      "quote": "批发和零售业贷款余额47,584,972千元"
+    },
+    {
+      "name": "建筑业",
+      "source_product": "贷款",
+      "quote": "建筑业贷款余额40,879,519千元"
+    },
+    {
+      "name": "制造业",
+      "source_product": "贷款",
+      "quote": "制造业贷款余额250.45亿元"
+    },
+    {
+      "name": "养老产业（养老基础设施、医疗配套）",
+      "source_product": "养老产业贷款",
+      "quote": "养老产业贷款余额6.48亿元"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张正海",
+      "role": "董事长、执行董事",
+      "quote": "本行董事长张正海先生"
+    },
+    {
+      "name": "盛军",
+      "role": "行长、执行董事",
+      "quote": "行长盛军先生"
+    },
+    {
+      "name": "李松芸",
+      "role": "执行董事、副行长",
+      "quote": "执行董事、副行长李松芸先生"
+    },
+    {
+      "name": "李虹檠",
+      "role": "副行长、董事会秘书",
+      "quote": "李虹檠先生，现任本行党委委员、副行长、董事会秘书"
+    },
+    {
+      "name": "李云",
+      "role": "首席财务官",
+      "quote": "会计机构负责人李云先生"
+    },
+    {
+      "name": "李宁波",
+      "role": "副行长",
+      "quote": "李宁波先生，现任本行党委委员、副行长。"
+    },
+    {
+      "name": "何开强",
+      "role": "副行长",
+      "quote": "何开强先生，现任本行党委委员、副行长。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "贵阳贵银金融租赁有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，出资比例67%，提供金融租赁服务。",
+      "quote": "子公司贵银金租荣获2025年“优秀租赁企业奖”“绿色租赁企业奖”...截至报告期末，贵银金租注册资本20亿元，本行出资比例为67%。"
+    },
+    {
+      "name": "广元市贵商村镇银行股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，出资比例55.89%，服务三农、中小企业。",
+      "quote": "广元市贵商村镇银行为本行控股子公司...本行出资比例为55.89%。"
+    },
+    {
+      "name": "息烽发展村镇银行有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "原为参股公司（持股37.4%），已于2026年2月停业解散，资产由本行承接。",
+      "quote": "息烽发展村镇银行为本行的参股公司...本行持股比例37.4%。息烽发展村镇银行已于2026年2月停业并实施解散。本行在息烽发展村镇银行原址新设网点，并承接原村镇银行的资产、负债、业务和员工等一切权利与义务。"
+    },
+    {
+      "name": "贵阳花溪建设村镇银行有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，持股比例20%。",
+      "quote": "花溪建设村镇银行为本行的参股公司...本行持股比例20%。"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "本行2025年度外部审计机构。",
+      "quote": "公司聘请的会计师事务所：天健会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "公司类业务",
+      "segment_type": "business_unit",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "报告期内，本行坚守高质量发展主线，聚焦服务实体经济本源，...稳步推进‘投行+商行+交易银行’转型步伐"
+    },
+    {
+      "name": "零售类业务",
+      "segment_type": "business_unit",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "报告期内，本行持续完善零售一体化管理机制，以打造区域‘体验最佳零售银行’和‘最佳财富管理银行’为目标"
+    },
+    {
+      "name": "金融市场及同业业务",
+      "segment_type": "business_unit",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "报告期内，本行以‘做优流动性管理、优化资产配置结构’为核心导向，...推动金融市场业务稳健发展。"
+    },
+    {
+      "name": "资产管理业务",
+      "segment_type": "business_unit",
+      "revenue_amount": null,
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "报告期内，本行资产管理业务坚持以客户需求为中心，...推动资管业务高质量发展。"
+    },
+    {
+      "name": "发放贷款及垫款利息收入",
+      "segment_type": "product_line",
+      "revenue_amount": "15,178,014千元",
+      "revenue_proportion": "占利息收入63.93%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "发放贷款及垫款利息收入 15,178,014 16,647,902 -8.83"
+    },
+    {
+      "name": "债券及其他投资利息收入",
+      "segment_type": "product_line",
+      "revenue_amount": "4,328,798千元",
+      "revenue_proportion": "占利息收入18.23%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "债券及其他投资利息收入 4,328,798 4,761,422 -9.09"
+    },
+    {
+      "name": "手续费及佣金净收入",
+      "segment_type": "product_line",
+      "revenue_amount": "268,790千元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "手续费及佣金净收入 268,790 349,216"
+    },
+    {
+      "name": "投资收益",
+      "segment_type": "product_line",
+      "revenue_amount": "2,907,953千元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "投资收益 2,907,953 2,231,065 30.34"
+    },
+    {
+      "name": "贵州省",
+      "segment_type": "region",
+      "revenue_amount": "11,115,364千元",
+      "revenue_proportion": "95.94%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "贵州省 11,115,364 95.94"
+    },
+    {
+      "name": "贵阳市",
+      "segment_type": "region",
+      "revenue_amount": "4,996,238千元",
+      "revenue_proportion": "43.13%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "其中：贵阳市 4,996,238 43.13"
+    },
+    {
+      "name": "四川省",
+      "segment_type": "region",
+      "revenue_amount": "470,019千元",
+      "revenue_proportion": "4.06%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "四川省 470,019 4.06"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "存款",
+      "metric_type": "capacity",
+      "value": "4,438.46亿元",
+      "period": "2025年12月31日",
+      "quote": "存款本金总额4,438,457,24千元"
+    },
+    {
+      "product": "贷款及垫款",
+      "metric_type": "capacity",
+      "value": "3,523.00亿元",
+      "period": "2025年12月31日",
+      "quote": "贷款总额3,523.00亿元"
+    },
+    {
+      "product": "储蓄存款",
+      "metric_type": "sales_volume",
+      "value": "2,354.44亿元",
+      "period": "2025年12月31日",
+      "quote": "储蓄存款余额2,354.44亿元"
+    },
+    {
+      "product": "管理零售客户总资产（AUM）",
+      "metric_type": "sales_volume",
+      "value": "2,941.4亿元",
+      "period": "2025年12月31日",
+      "quote": "管理零售客户总资产(AUM)余额为2,941.4亿元"
+    },
+    {
+      "product": "个人全量客户数",
+      "metric_type": "other",
+      "value": "1,272.56万户",
+      "period": "2025年12月31日",
+      "quote": "母公司个人全量客户数1,272.56万户。"
+    },
+    {
+      "product": "信用卡累计发卡",
+      "metric_type": "other",
+      "value": "178.73万张",
+      "period": "2025年12月31日",
+      "quote": "本行信用卡累计发卡178.73万张。"
+    },
+    {
+      "product": "科技贷款",
+      "metric_type": "sales_volume",
+      "value": "246.13亿元",
+      "period": "2025年12月31日",
+      "quote": "科技贷款余额246.13亿元"
+    },
+    {
+      "product": "绿色贷款",
+      "metric_type": "sales_volume",
+      "value": "368.47亿元",
+      "period": "2025年12月31日",
+      "quote": "绿色贷款余额368.47亿元"
+    },
+    {
+      "product": "普惠型小微企业贷款",
+      "metric_type": "sales_volume",
+      "value": "425.39亿元",
+      "period": "2025年12月31日",
+      "quote": "普惠型小微企业贷款余额425.39亿元"
+    },
+    {
+      "product": "不良贷款",
+      "metric_type": "inventory_volume",
+      "value": "55.88亿元",
+      "period": "2025年12月31日",
+      "quote": "不良贷款余额55.88亿元"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购息烽发展村镇银行设立分支机构",
+      "project_type": "acquisition_project",
+      "location": "贵州省贵阳市息烽县",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已批准实施，承接原村镇银行资产、负债、业务和员工。",
+      "expected_completion_time": null,
+      "quote": "审议通过了《关于贵阳银行股份有限公司拟收购息烽发展村镇银行有限责任公司设立分支机构的议案》...息烽发展村镇银行已于2026年2月停业并实施解散。本行在息烽发展村镇银行原址新设网点，并承接原村镇银行的资产、负债、业务和员工等一切权利与义务。"
+    },
+    {
+      "name": "数字化转型与金融科技建设",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "信息科技直接费用投入33,598.77万元",
+      "designed_capacity": null,
+      "progress": "成立数字化转型领导小组及数字金融管理部；持续加大科技投入。",
+      "expected_completion_time": null,
+      "quote": "成立数字金融管理部...截至报告期末，本行信息科技直接费用投入33,598.77万元...成立数字化转型领导小组及数字金融管理部"
+    },
+    {
+      "name": "新手机银行迭代与系统建设",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成新老版本切换，优化用户体验；推进多个业务系统建设。",
+      "expected_completion_time": null,
+      "quote": "迭代‘爽爽bank’手机银行，获客活客效能有效提升。...稳步推进资产配置系统、客户信息管理系统、新一代交易实时反欺诈平台等系统建设"
+    },
+    {
+      "name": "科技创新债券发行",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "10亿元",
+      "designed_capacity": null,
+      "progress": "已完成发行。",
+      "expected_completion_time": null,
+      "quote": "报告期内，本行成功发行贵州省首单银行业金融机构科技创新债券，发行规模10亿元"
+    },
+    {
+      "name": "小微企业贷款专项金融债券发行",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "70亿元",
+      "designed_capacity": null,
+      "progress": "已完成发行。",
+      "expected_completion_time": null,
+      "quote": "成功发行70亿元小微企业贷款专项金融债券"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "大数据与人工智能技术",
+      "asset_type": "technical_platform",
+      "related_product": "智能风控体系、数字化经营",
+      "quantitative_info": null,
+      "quote": "依托大数据、人工智能等技术，完善零售CRM系统与公司业务管理平台，构建全流程智能风控体系"
+    },
+    {
+      "name": "RPA机器人流程自动化",
+      "asset_type": "process_technology",
+      "related_product": "运营效率提升",
+      "quantitative_info": "全行已上线181个RPA自动化场景",
+      "quote": "通过应用RPA（机器人流程自动化）建设与场景规模化开发，全行已上线181个RPA自动化场景"
+    },
+    {
+      "name": "‘爽爽bank’手机银行平台",
+      "asset_type": "software_copyright",
+      "related_product": "零售业务",
+      "quantitative_info": "累计注册用户达621.33万户",
+      "quote": "手机银行累计注册用户达621.33万户"
+    },
+    {
+      "name": "‘爽融链’供应链金融平台",
+      "asset_type": "technical_platform",
+      "related_product": "供应链金融",
+      "quantitative_info": null,
+      "quote": "依托‘爽融链’‘1+N+N’服务模式持续推动业务创新"
+    },
+    {
+      "name": "网络安全一体化智能运营体系",
+      "asset_type": "other",
+      "related_product": "信息科技安全",
+      "quantitative_info": null,
+      "quote": "‘贵阳银行网络安全一体化智能运营体系’入选‘2024年网络安全技术应用典型案例’"
+    },
+    {
+      "name": "央行公开市场一级交易商资质",
+      "asset_type": "certification",
+      "related_product": "金融市场业务",
+      "quantitative_info": "连续六年当选",
+      "quote": "连续六年当选央行公开市场一级交易商"
+    },
+    {
+      "name": "银行间债券市场现券做市商",
+      "asset_type": "certification",
+      "related_product": "金融市场业务",
+      "quantitative_info": null,
+      "quote": "作为银行间债券市场现券做市商"
+    },
+    {
+      "name": "非金融企业债务融资工具一般类主承销商资质",
+      "asset_type": "certification",
+      "related_product": "投资银行业务",
+      "quantitative_info": "贵州省唯一",
+      "quote": "报告期内，作为贵州省唯一具有非金融企业债务融资工具一般类主承销商资质的地方法人金融机构"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "30.26%",
+      "related_entity": null,
+      "period": "2025年12月31日",
+      "quote": "最大十家客户贷款比率 30.26"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "5.15%",
+      "related_entity": null,
+      "period": "2025年12月31日",
+      "quote": "单一最大客户贷款比率 5.15"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前十名客户贷款余额占资本净额的30.26%",
+      "related_entity": null,
+      "period": "2025年12月31日",
+      "quote": "截至报告期末，公司前十大客户贷款余额为230.44亿元，占期末贷款总额的6.54%，占期末资本净额的30.26%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "面临的风险主要包括信用风险、流动性风险、市场风险、操作风险、合规风险、洗钱风险、信息科技风险、声誉风险和银行账簿利率风险等。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本行经营中面临的风险主要包括信用风险、流动性风险、市场风险、操作风险、合规风险、洗钱风险、信息科技风险、声誉风险和银行账簿利率风险等"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "竞争格局深刻变革，市场份额面临挤压。数字化转型持续加速，传统优势业务面临挤压，跨界竞争、同业竞争、内外资银行竞争交织。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三是竞争格局深刻变革，市场份额面临挤压。数字化转型持续加速，传统优势业务面临挤压，跨界竞争、同业竞争、内外资银行竞争交织，形成多重竞争格局，市场份额的争夺更趋激烈。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "智能化转型风险。随着人工智能、大数据等技术在银行业的深度应用，对银行的技术治理能力提出更高要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "四是智能化转型风险。随着人工智能、大数据等技术在银行业的深度应用，对银行的技术治理能力提出更高要求。"
+    },
+    {
+      "risk_type": "other",
+      "description": "盈利模式承压，净息差持续收窄。实体经济有效需求不足，贷款利率持续下行，银行依赖息差收入的传统经营模式面临挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "一是盈利模式承压，净息差持续收窄。实体经济有效需求不足，贷款利率持续下行，银行依赖息差收入的传统经营模式面临挑战，经营压力进一步加大。"
+    },
+    {
+      "risk_type": "other",
+      "description": "多重风险叠加，资产质量压力加大。中国经济正处于结构转型的关键期，传统产业转型升级过程中信用风险压力增大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是多重风险叠加，资产质量压力加大。中国经济正处于结构转型的关键期，传统产业转型升级过程中信用风险压力增大，部分高杠杆、产能过剩行业的信贷风险持续暴露。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "最大十家客户贷款集中度较高。",
+      "related_entity": null,
+      "related_product": "贷款",
+      "quote": "最大十家客户贷款比率 30.26"
+    }
+  ]
+}

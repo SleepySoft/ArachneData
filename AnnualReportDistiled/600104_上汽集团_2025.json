@@ -1,0 +1,420 @@
+{
+  "company_name_mentioned": "上海汽车集团股份有限公司（上汽集团）",
+  "produces": [
+    {
+      "name": "整车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "全年公司实现合并营业总收入6562.4亿元...其中销售整车的收入约为人民币4,101.96亿元"
+    },
+    {
+      "name": "自主品牌整车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "自主品牌销量达到292.8万辆，同比增长21.6%，占公司整体销量的比重达到65%"
+    },
+    {
+      "name": "新能源车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "新能源车销售164.3万辆，同比增长33.1%"
+    },
+    {
+      "name": "出口及海外市场汽车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "出口及海外市场销售107.1万辆，同比增长3.1%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "汽车零部件",
+      "target_product": "整车",
+      "cost_proportion": null,
+      "quote": "整合智电零部件业务资源，加快推进全固态电池、一体化智能底盘等技术的产业化落地"
+    },
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "部分上游原材料以及存储芯片等的价格如果持续大幅上行，可能对生产保供及成本管控造成较大压力"
+    }
+  ],
+  "applications": [
+    {
+      "name": "个人与商业交通运输",
+      "source_product": "整车",
+      "quote": "通过在海外设立代工厂、CKD等方式，积极推进本地化生产。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王晓秋",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人王晓秋、主管会计工作负责人卫勇及会计机构负责人（会计主管人员）谢蔚声明"
+    },
+    {
+      "name": "贾健旭",
+      "role": "董事、总裁",
+      "quote": "贾健旭 董事、总裁 男 47"
+    },
+    {
+      "name": "卫勇",
+      "role": "副总裁、代理财务总监",
+      "quote": "卫 勇 副总裁兼代理财务总监 男 53"
+    },
+    {
+      "name": "祖似杰",
+      "role": "副总裁、总工程师",
+      "quote": "祖似杰 副总裁、总工程师 男 57"
+    },
+    {
+      "name": "杨晓东",
+      "role": "副总裁",
+      "quote": "杨晓东 副总裁 男 55"
+    },
+    {
+      "name": "蒋峻",
+      "role": "副总裁",
+      "quote": "蒋 峻 副总裁 男 55"
+    },
+    {
+      "name": "吴冰",
+      "role": "副总裁",
+      "quote": "吴 冰 副总裁 男 49"
+    },
+    {
+      "name": "陈逊",
+      "role": "董事会秘书",
+      "quote": "陈 逊 董事会秘书 男 45"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华为",
+      "relation_type": "joint_venture",
+      "business_details": "合作推出“尚界”品牌",
+      "quote": "与华为合作推出“尚界”品牌"
+    },
+    {
+      "name": "上汽大众",
+      "relation_type": "subsidiary",
+      "business_details": "合营企业",
+      "quote": "上汽大众、上汽通用强化与自主品牌的资源协同"
+    },
+    {
+      "name": "上汽通用",
+      "relation_type": "subsidiary",
+      "business_details": "合营企业",
+      "quote": "2024年公司合营企业上汽通用及其控股子公司计提相关资产减值准备"
+    },
+    {
+      "name": "上汽通用五菱",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "上汽通用五菱深化“印马泰”一体化战略"
+    },
+    {
+      "name": "华域汽车系统股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，汽车零部件业务",
+      "quote": "公司下属控股子公司华域汽车系统股份有限公司（股票代码：600741）"
+    },
+    {
+      "name": "安吉物流",
+      "relation_type": "subsidiary",
+      "business_details": "自营远洋滚装船运输",
+      "quote": "安吉物流自营远洋滚装船已达21艘"
+    },
+    {
+      "name": "瑞浦兰钧能源股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "电池供应",
+      "quote": "关联方向上汽集团及其下属企业供应商品 120,000 110,723"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车制造业",
+      "segment_type": "business_unit",
+      "revenue_amount": "646,152,101,889.30元",
+      "revenue_proportion": null,
+      "gross_margin": "10.09%",
+      "yoy_change": "比上年增减 5.22%",
+      "quote": "主营业务分行业情况 汽车制造业 646,152,101,889.30 580,943,983,649.41 10.09 5.22 4.40 增加0.71个百分点"
+    },
+    {
+      "name": "金融业",
+      "segment_type": "business_unit",
+      "revenue_amount": "10,091,710,191.88元",
+      "revenue_proportion": null,
+      "gross_margin": "88.47%",
+      "yoy_change": "比上年增减 -25.33%",
+      "quote": "主营业务分行业情况 金融业 10,091,710,191.88 1,163,322,101.92 88.47 -25.33 -42.04 增加3.32个百分点"
+    },
+    {
+      "name": "整车业务",
+      "segment_type": "product_line",
+      "revenue_amount": "410,196,473,001.11元",
+      "revenue_proportion": null,
+      "gross_margin": "4.30%",
+      "yoy_change": "比上年增减 7.59%",
+      "quote": "主营业务分产品情况 整车业务 410,196,473,001.11 392,545,642,811.16 4.30 7.59 7.10 增加0.44个百分点"
+    },
+    {
+      "name": "零部件业务",
+      "segment_type": "product_line",
+      "revenue_amount": "203,019,866,775.26元",
+      "revenue_proportion": null,
+      "gross_margin": "19.15%",
+      "yoy_change": "比上年增减 6.47%",
+      "quote": "主营业务分产品情况 零部件业务 203,019,866,775.26 164,149,718,120.28 19.15 6.47 4.87 增加1.24个百分点"
+    },
+    {
+      "name": "劳务及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "32,935,762,112.94元",
+      "revenue_proportion": null,
+      "gross_margin": "26.38%",
+      "yoy_change": "比上年增减 -21.83%",
+      "quote": "主营业务分产品情况 劳务及其他 32,935,762,112.94 24,248,622,717.97 26.38 -21.83 -27.36 增加5.61个百分点"
+    },
+    {
+      "name": "中国",
+      "segment_type": "region",
+      "revenue_amount": "504,138,835,950.64元",
+      "revenue_proportion": null,
+      "gross_margin": "10.82%",
+      "yoy_change": "比上年增减 1.64%",
+      "quote": "主营业务分地区情况 中国 504,138,835,950.64 449,593,517,326.14 10.82 1.64 1.79 减少0.13个百分点"
+    },
+    {
+      "name": "其他（注）",
+      "segment_type": "region",
+      "revenue_amount": "152,104,976,130.54元",
+      "revenue_proportion": null,
+      "gross_margin": "12.88%",
+      "yoy_change": "比上年增减 15.60%",
+      "quote": "主营业务分地区情况 其他（注） 152,104,976,130.54 132,513,788,425.19 12.88 15.60 13.50 增加1.61个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "上汽大众汽车有限公司整车",
+      "metric_type": "capacity",
+      "value": "192.0万辆",
+      "period": "2025年",
+      "quote": "上汽大众汽车有限公司 192.0 105.8 55"
+    },
+    {
+      "product": "上汽大众汽车有限公司整车",
+      "metric_type": "production_volume",
+      "value": "105.8万辆",
+      "period": "2025年",
+      "quote": "上汽大众汽车有限公司 192.0 105.8 55"
+    },
+    {
+      "product": "上汽大众汽车有限公司整车",
+      "metric_type": "capacity_utilization",
+      "value": "55%",
+      "period": "2025年",
+      "quote": "上汽大众汽车有限公司 192.0 105.8 55"
+    },
+    {
+      "product": "上汽通用汽车有限公司整车",
+      "metric_type": "capacity",
+      "value": "145.2万辆",
+      "period": "2025年",
+      "quote": "上汽通用汽车有限公司 145.2 53.4 37"
+    },
+    {
+      "product": "上汽通用汽车有限公司整车",
+      "metric_type": "production_volume",
+      "value": "53.4万辆",
+      "period": "2025年",
+      "quote": "上汽通用汽车有限公司 145.2 53.4 37"
+    },
+    {
+      "product": "上汽通用汽车有限公司整车",
+      "metric_type": "capacity_utilization",
+      "value": "37%",
+      "period": "2025年",
+      "quote": "上汽通用汽车有限公司 145.2 53.4 37"
+    },
+    {
+      "product": "上汽集团乘用车分公司整车",
+      "metric_type": "capacity",
+      "value": "116.0万辆",
+      "period": "2025年",
+      "quote": "上汽集团乘用车分公司 116.0 88.5 76"
+    },
+    {
+      "product": "上汽集团乘用车分公司整车",
+      "metric_type": "production_volume",
+      "value": "88.5万辆",
+      "period": "2025年",
+      "quote": "上汽集团乘用车分公司 116.0 88.5 76"
+    },
+    {
+      "product": "上汽集团乘用车分公司整车",
+      "metric_type": "capacity_utilization",
+      "value": "76%",
+      "period": "2025年",
+      "quote": "上汽集团乘用车分公司 116.0 88.5 76"
+    },
+    {
+      "product": "上汽通用五菱汽车股份有限公司整车",
+      "metric_type": "capacity",
+      "value": "176.0万辆",
+      "period": "2025年",
+      "quote": "上汽通用五菱汽车股份有限公司 176.0 167.1 95"
+    },
+    {
+      "product": "上汽通用五菱汽车股份有限公司整车",
+      "metric_type": "production_volume",
+      "value": "167.1万辆",
+      "period": "2025年",
+      "quote": "上汽通用五菱汽车股份有限公司 176.0 167.1 95"
+    },
+    {
+      "product": "上汽通用五菱汽车股份有限公司整车",
+      "metric_type": "capacity_utilization",
+      "value": "95%",
+      "period": "2025年",
+      "quote": "上汽通用五菱汽车股份有限公司 176.0 167.1 95"
+    },
+    {
+      "product": "公司整体整车",
+      "metric_type": "production_volume",
+      "value": "4,601,962辆",
+      "period": "2025年",
+      "quote": "合计 辆 4,601,962"
+    },
+    {
+      "product": "公司整体整车",
+      "metric_type": "sales_volume",
+      "value": "4,507,518辆",
+      "period": "2025年",
+      "quote": "合计 辆 ... 4,507,518"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "安吉物流滚装船队扩张",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "自营远洋滚装船已达21艘",
+      "expected_completion_time": null,
+      "quote": "安吉物流自营远洋滚装船已达21艘"
+    },
+    {
+      "name": "Robotaxi项目",
+      "project_type": "r_and_d_project",
+      "location": "上海市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "启动专线商业化运营；3.0已正式进入商业化运营新阶段",
+      "expected_completion_time": null,
+      "quote": "“无驾驶人”Robotaxi启动专线商业化运营...Robotaxi3.0已正式进入商业化运营新阶段"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“七大技术底座”",
+      "asset_type": "technical_platform",
+      "related_product": "整车",
+      "quantitative_info": null,
+      "quote": "形成完善的技术底座管理体系。在全固态电池、混动技术、关键原材料体系、全栈软件生态、智能底盘以及氢燃料电池等领域，形成具备较强竞争力的技术标签"
+    },
+    {
+      "name": "半固态电池技术",
+      "asset_type": "core_technology",
+      "related_product": "新能源汽车",
+      "quantitative_info": "在国内率先实现第二代半固态电池技术在全新MG4上搭载并批量交付",
+      "quote": "推进固态电池与汽车芯片研发应用，在国内率先实现第二代半固态电池技术在全新MG4上搭载并批量交付"
+    },
+    {
+      "name": "“银河”全栈智能车解决方案",
+      "asset_type": "core_technology",
+      "related_product": "智能汽车",
+      "quantitative_info": null,
+      "quote": "率先实现半固态电池、“银河”全栈智能车解决方案、整车中央协调运动控制平台（VMC）等行业领先技术的量产落地"
+    },
+    {
+      "name": "整车中央协调运动控制平台（VMC）",
+      "asset_type": "core_technology",
+      "related_product": "智能汽车",
+      "quantitative_info": null,
+      "quote": "率先实现半固态电池、“银河”全栈智能车解决方案、整车中央协调运动控制平台（VMC）等行业领先技术的量产落地"
+    },
+    {
+      "name": "全固态电池技术",
+      "asset_type": "core_technology",
+      "related_product": "动力电池",
+      "quantitative_info": "“中试线”正式贯通",
+      "quote": "全固态电池“中试线”正式贯通，低温续航、电池安全等核心技术指标行业领先"
+    },
+    {
+      "name": "高阶智能驾驶技术",
+      "asset_type": "core_technology",
+      "related_product": "智能汽车",
+      "quantitative_info": null,
+      "quote": "持续推进全固态电池、高阶智能驾驶、一体化轻量智能底盘、AI智能座舱等前沿技术升级和上车应用"
+    },
+    {
+      "name": "上汽国产芯片应用",
+      "asset_type": "core_technology",
+      "related_product": "汽车电子",
+      "quantitative_info": "应用率已超过30%",
+      "quote": "上汽国产芯片应用率已超过30%，正加快推进全国产芯片车型的开发和验证工作"
+    },
+    {
+      "name": "智能网联汽车示范运营牌照",
+      "asset_type": "certification",
+      "related_product": "自动驾驶",
+      "quantitative_info": "行业唯一获得乘用车和商用车领域“双牌照”企业",
+      "quote": "公司积极参与上海“高级别自动驾驶引领区”建设，获颁上海市新一批智能网联汽车示范运营牌照，成为行业唯一获得乘用车和商用车领域“双牌照”企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "11.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额7,545,821.15万元，占年度销售总额11.68%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额21,496,663.81万元，占年度采购总额37%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "外部经贸环境和地缘局势的不稳定不确定性风险依然较大，可能对海外市场销售造成不利影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "一是外部经贸环境和地缘局势的不稳定不确定性风险依然较大，可能对海外市场销售造成不利影响"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "“两新”政策边际效应递减，叠加新能源汽车购置税优惠政策退坡，国内车市需求可能在短期内承压；同时，非政策刺激的汽车消费需求受宏观经济、收入预期、技术迭代等因素影响较大，国内市场增速存在不及预期的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是“两新”政策边际效应递减，叠加新能源汽车购置税优惠政策退坡，国内车市需求可能在短期内承压；同时，非政策刺激的汽车消费需求受宏观经济、收入预期、技术迭代等因素影响较大，国内市场增速存在不及预期的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "部分上游原材料以及存储芯片等的价格如果持续大幅上行，可能对生产保供及成本管控造成较大压力",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三是部分上游原材料以及存储芯片等的价格如果持续大幅上行，可能对生产保供及成本管控造成较大压力"
+    }
+  ]
+}

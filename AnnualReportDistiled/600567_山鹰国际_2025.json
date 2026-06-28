@@ -1,0 +1,633 @@
+{
+  "company_name_mentioned": "山鹰国际控股股份公司",
+  "produces": [
+    {
+      "name": "箱板纸",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为箱板纸、瓦楞原纸、特种纸、纸板及纸制品包装的生产和销售以及国内外回收纤维贸易业务，主要产品为“山鹰牌”各类包装原纸、特种纸及纸板、纸箱等纸制品"
+    },
+    {
+      "name": "瓦楞纸",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为箱板纸、瓦楞原纸、特种纸、纸板及纸制品包装的生产和销售以及国内外回收纤维贸易业务，主要产品为“山鹰牌”各类包装原纸、特种纸及纸板、纸箱等纸制品"
+    },
+    {
+      "name": "特种纸",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为箱板纸、瓦楞原纸、特种纸、纸板及纸制品包装的生产和销售以及国内外回收纤维贸易业务，主要产品为“山鹰牌”各类包装原纸、特种纸及纸板、纸箱等纸制品"
+    },
+    {
+      "name": "纸板",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为箱板纸、瓦楞原纸、特种纸、纸板及纸制品包装的生产和销售以及国内外回收纤维贸易业务，主要产品为“山鹰牌”各类包装原纸、特种纸及纸板、纸箱等纸制品"
+    },
+    {
+      "name": "纸制品包装",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为箱板纸、瓦楞原纸、特种纸、纸板及纸制品包装的生产和销售以及国内外回收纤维贸易业务，主要产品为“山鹰牌”各类包装原纸、特种纸及纸板、纸箱等纸制品"
+    },
+    {
+      "name": "再生纤维",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为箱板纸、瓦楞原纸、特种纸、纸板及纸制品包装的生产和销售以及国内外回收纤维贸易业务"
+    },
+    {
+      "name": "纸箱",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "纸箱产品包括：水印纸箱、预印纸箱、胶印纸箱与数码印刷纸箱等。"
+    },
+    {
+      "name": "纸塑产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "纸塑产品包括工业纸塑与食品纸塑等。"
+    },
+    {
+      "name": "包装服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "为了更好地满足客户独特的业务需求，将业务从提供包装产品转向为提供包装服务"
+    },
+    {
+      "name": "箱板纸",
+      "type": "material",
+      "revenue_proportion": "10,670,300,304.46",
+      "quote": "箱板纸 10,670,300,304.46"
+    },
+    {
+      "name": "瓦楞纸",
+      "type": "material",
+      "revenue_proportion": "5,116,233,835.17",
+      "quote": "瓦楞纸 5,116,233,835.17"
+    },
+    {
+      "name": "其他原纸",
+      "type": "material",
+      "revenue_proportion": "3,779,024,048.06",
+      "quote": "其他原纸 3,779,024,048.06"
+    },
+    {
+      "name": "纸制品",
+      "type": "device",
+      "revenue_proportion": "6,729,390,318.67",
+      "quote": "纸制品 6,729,390,318.67"
+    },
+    {
+      "name": "再生纤维",
+      "type": "material",
+      "revenue_proportion": "1,816,335,155.98",
+      "quote": "再生纤维 1,816,335,155.98"
+    },
+    {
+      "name": "硬木漂白浆",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "控股子公司凤凰纸业主要生产硬木漂白浆、双胶纸、喷墨打印纸等文化纸产品。"
+    },
+    {
+      "name": "双胶纸",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "控股子公司凤凰纸业主要生产硬木漂白浆、双胶纸、喷墨打印纸等文化纸产品。"
+    },
+    {
+      "name": "喷墨打印纸",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "控股子公司凤凰纸业主要生产硬木漂白浆、双胶纸、喷墨打印纸等文化纸产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "回收纤维",
+      "target_product": "原纸",
+      "cost_proportion": null,
+      "quote": "公司主要以回收纤维为原料生产原纸，重要造纸子公司约97%的原材料来自回收纤维。"
+    },
+    {
+      "name": "木浆",
+      "target_product": "原纸",
+      "cost_proportion": null,
+      "quote": "2025年国内针叶浆均价5946.85元/吨，同比下跌3.76%；阔叶浆全年均价4403.15元/吨，同比下跌13.47%。"
+    },
+    {
+      "name": "废纸",
+      "target_product": "原纸",
+      "cost_proportion": null,
+      "quote": "2025年国废均价1568元/吨，较2024年同期均价上涨81元/吨，涨幅5.45%。"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "造纸",
+      "cost_proportion": null,
+      "quote": "造纸 直接材料 17,067,031,381.02"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "造纸",
+      "cost_proportion": null,
+      "quote": "造纸 直接人工 511,318,250.57"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "造纸",
+      "cost_proportion": null,
+      "quote": "造纸 制造费用 1,356,599,340.54"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "包装",
+      "cost_proportion": null,
+      "quote": "包装 直接材料 5,023,107,404.66"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "包装",
+      "cost_proportion": null,
+      "quote": "包装 直接人工 360,397,026.21"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "包装",
+      "cost_proportion": null,
+      "quote": "包装 制造费用 524,643,539.79"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子",
+      "source_product": "包装原纸、纸箱等",
+      "quote": "被广泛应用于消费电子、家电、化工、轻工、食品等消费品及工业品领域。"
+    },
+    {
+      "name": "家电",
+      "source_product": "包装原纸、纸箱等",
+      "quote": "被广泛应用于消费电子、家电、化工、轻工、食品等消费品及工业品领域。"
+    },
+    {
+      "name": "化工",
+      "source_product": "包装原纸、纸箱等",
+      "quote": "被广泛应用于消费电子、家电、化工、轻工、食品等消费品及工业品领域。"
+    },
+    {
+      "name": "轻工",
+      "source_product": "包装原纸、纸箱等",
+      "quote": "被广泛应用于消费电子、家电、化工、轻工、食品等消费品及工业品领域。"
+    },
+    {
+      "name": "食品",
+      "source_product": "包装原纸、纸箱等",
+      "quote": "被广泛应用于消费电子、家电、化工、轻工、食品等消费品及工业品领域。"
+    },
+    {
+      "name": "电商快递",
+      "source_product": "包装原纸、纸箱等",
+      "quote": "产业链上下游协同效应使公司具有较强的成本控制能力和原料供应能力，并为客户提供一站式包装整体解决方案。公司包装板块下游客户又与回收纤维采购连接，形成产业链的闭环"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吴明武",
+      "role": "董事长、总裁",
+      "quote": "公司负责人吴明武、主管会计工作负责人许云及会计机构负责人（会计主管人员）许云声明"
+    },
+    {
+      "name": "许云",
+      "role": "主管会计工作负责人、财务负责人",
+      "quote": "公司负责人吴明武、主管会计工作负责人许云及会计机构负责人（会计主管人员）许云声明"
+    },
+    {
+      "name": "严大林",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 严大林 黄烨"
+    },
+    {
+      "name": "陈银景",
+      "role": "董事、副总裁、首席运营官兼包装事业部总经理",
+      "quote": "董事、副总裁 陈银景"
+    },
+    {
+      "name": "游知",
+      "role": "董事、首席数字官兼首席人力资源官",
+      "quote": "董事 游知"
+    },
+    {
+      "name": "陈学萍",
+      "role": "职工代表董事",
+      "quote": "职工代表董事 陈学萍"
+    },
+    {
+      "name": "刘文",
+      "role": "独立董事",
+      "quote": "独立董事 刘文"
+    },
+    {
+      "name": "夏莲",
+      "role": "独立董事",
+      "quote": "独立董事 夏莲"
+    },
+    {
+      "name": "陈凌云",
+      "role": "独立董事",
+      "quote": "独立董事 陈凌云"
+    },
+    {
+      "name": "石春茂",
+      "role": "副总裁",
+      "quote": "副总裁 石春茂"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "福建泰盛实业有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "泰盛实业 指 福建泰盛实业有限公司"
+    },
+    {
+      "name": "浙江山鹰纸业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，原纸生产",
+      "quote": "浙江山鹰 指 浙江山鹰纸业有限公司"
+    },
+    {
+      "name": "山鹰华南纸业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，原纸生产",
+      "quote": "华南山鹰 指 山鹰华南纸业有限公司"
+    },
+    {
+      "name": "山鹰华中纸业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，原纸生产",
+      "quote": "华中山鹰 指 山鹰华中纸业有限公司"
+    },
+    {
+      "name": "山鹰纸业（广东）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "广东山鹰 指 山鹰纸业（广东）有限公司"
+    },
+    {
+      "name": "山鹰纸业（吉林）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "吉林山鹰 指 山鹰纸业（吉林）有限公司"
+    },
+    {
+      "name": "山鹰纸业（宿州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "宿州山鹰 指 山鹰纸业（宿州）有限公司"
+    },
+    {
+      "name": "Nordic Paper Holding AB",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，北欧纸业",
+      "quote": "北欧纸业 指 NordicPaperHoldingAB及子公司"
+    },
+    {
+      "name": "Phoenix Paper Wickliffe LLC",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，凤凰纸业",
+      "quote": "凤凰纸业 指 PhoenixPaperWickliffeLLC"
+    },
+    {
+      "name": "上海山鹰私募基金管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "山鹰私募 指 上海山鹰私募基金管理有限公司"
+    },
+    {
+      "name": "云印技术(深圳)有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "云印技术 指 云印技术(深圳)有限公司"
+    },
+    {
+      "name": "上海云融环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "云融 指 上海云融环保科技有限公司"
+    },
+    {
+      "name": "云链智塔（安徽）物联科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "云链 指 云链智塔（安徽）物联科技有限公司"
+    },
+    {
+      "name": "爱拓环保能源（浙江）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "爱拓环保 指 爱拓环保能源（浙江）有限公司"
+    },
+    {
+      "name": "泸州市一圣鸿包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "泸州一圣鸿 指 泸州市一圣鸿包装有限公司"
+    },
+    {
+      "name": "青岛恒广泰包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "青岛恒广泰 指 青岛恒广泰包装有限公司"
+    },
+    {
+      "name": "武汉祥恒包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "武汉祥恒 指 武汉祥恒包装有限公司"
+    },
+    {
+      "name": "合肥祥恒包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "合肥祥恒 指 合肥祥恒包装有限公司"
+    },
+    {
+      "name": "马鞍山祥恒包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "马鞍山祥恒 指 马鞍山祥恒包装有限公司"
+    },
+    {
+      "name": "祥恒（莆田）包装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "莆田祥恒 指 祥恒（莆田）包装有限公司"
+    },
+    {
+      "name": "浙江物产山鹰热电有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股子公司",
+      "quote": "浙江物产山鹰热电有限公司"
+    },
+    {
+      "name": "信永中和会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "信永中和会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "造纸",
+      "segment_type": "business_unit",
+      "revenue_amount": "19,565,558,187.69",
+      "revenue_proportion": null,
+      "gross_margin": "3.22",
+      "yoy_change": null,
+      "quote": "造纸 19,565,558,187.69 18,934,948,972.13 3.22 -0.14 1.42 减少1.49个百分点"
+    },
+    {
+      "name": "包装",
+      "segment_type": "business_unit",
+      "revenue_amount": "6,729,390,318.67",
+      "revenue_proportion": null,
+      "gross_margin": "12.20",
+      "yoy_change": null,
+      "quote": "包装 6,729,390,318.67 5,908,147,970.66 12.20 -2.46 -2.08 减少0.35个百分点"
+    },
+    {
+      "name": "贸易",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,816,335,155.98",
+      "revenue_proportion": null,
+      "gross_margin": "8.59",
+      "yoy_change": null,
+      "quote": "贸易 1,816,335,155.98 1,660,276,233.56 8.59 -9.43 -8.63 减少0.80个百分点"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "24,882,942,128.15",
+      "revenue_proportion": null,
+      "gross_margin": "6.84",
+      "yoy_change": null,
+      "quote": "国内 24,882,942,128.15 23,181,790,355.42 6.84 -1.38 -0.08 减少1.21个百分点"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "3,428,431,542.46",
+      "revenue_proportion": null,
+      "gross_margin": "-0.33",
+      "yoy_change": null,
+      "quote": "国外 3,428,431,542.46 3,439,752,679.39 -0.33 -2.78 -0.87 减少1.93个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "原纸",
+      "metric_type": "production_volume",
+      "value": "754.54万吨",
+      "period": "2025年",
+      "quote": "2025年原纸板块产量754.54万吨，同比增长4.22%"
+    },
+    {
+      "product": "原纸",
+      "metric_type": "sales_volume",
+      "value": "748.60万吨",
+      "period": "2025年",
+      "quote": "销量748.60万吨，同比增长 2.25%"
+    },
+    {
+      "product": "原纸",
+      "metric_type": "other",
+      "value": "99.21%",
+      "period": "2025年",
+      "quote": "产销率99.21%"
+    },
+    {
+      "product": "纸制品",
+      "metric_type": "production_volume",
+      "value": "20.98亿平方米",
+      "period": "2025年",
+      "quote": "包装板块实现产量20.98亿平方米，同比下降1.69%"
+    },
+    {
+      "product": "纸制品",
+      "metric_type": "sales_volume",
+      "value": "20.97亿平方米",
+      "period": "2025年",
+      "quote": "销量20.97亿平方米，同比下降1.81%"
+    },
+    {
+      "product": "纸制品",
+      "metric_type": "other",
+      "value": "99.96%",
+      "period": "2025年",
+      "quote": "产销率99.96%"
+    },
+    {
+      "product": "原纸",
+      "metric_type": "inventory_volume",
+      "value": "261,822.96吨",
+      "period": "2025年末",
+      "quote": "库存量 261,822.96 29.34"
+    },
+    {
+      "product": "纸制品",
+      "metric_type": "inventory_volume",
+      "value": "2,923.01万平方米",
+      "period": "2025年末",
+      "quote": "库存量 2,923.01 3.16"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "宿州造纸项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽省宿州市",
+      "investment_amount": null,
+      "designed_capacity": "年产90万吨包装纸",
+      "progress": "已经建设完成并投产",
+      "expected_completion_time": null,
+      "quote": "2022年，公司召开的第八届董事会第十五次会议、2021年年度股东会审议通过了《关于投资建设宿州造纸项目的议案》，同意公司通过全资子公司安徽中鹰浆纸有限公司在安徽省宿州市投资建设造纸项目，宿州项目一期规划70万吨/年热磨纤维及180万吨/年包装纸产能，并配套实施热电联产等。报告期内，（宿州山鹰）年产90万吨包装纸项目已经建设完成并投产"
+    },
+    {
+      "name": "华中山鹰二期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "木浆产能",
+      "progress": "全力推进",
+      "expected_completion_time": "目标2027年底投产",
+      "quote": "公司计划将加快推进木浆产能建设，全力推进华中山鹰二期项目建设，目标2027年底投产"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家级博士后科研工作站",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "目前已拥有国家级博士后科研工作站、省级企业技术中心、回收纤维造纸工程技术研究中心等各级研发平台。"
+    },
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "目前已拥有国家级博士后科研工作站、省级企业技术中心、回收纤维造纸工程技术研究中心等各级研发平台。"
+    },
+    {
+      "name": "回收纤维造纸工程技术研究中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "目前已拥有国家级博士后科研工作站、省级企业技术中心、回收纤维造纸工程技术研究中心等各级研发平台。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "1336项，其中发明专利163项",
+      "quote": "截至2025年12月31日，已获专利1336项，其中发明专利163项"
+    },
+    {
+      "name": "中国专利奖",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "银奖1项、优秀奖4项",
+      "quote": "自2018年以来，山鹰国际已累计获得中国专利奖银奖1项、优秀奖4项。"
+    },
+    {
+      "name": "国家级绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及下属子公司浙江山鹰、华南山鹰、华中山鹰、广东山鹰、马鞍山祥恒、莆田祥恒、泸州一圣鸿、武汉祥恒入选国家级绿色工厂。"
+    },
+    {
+      "name": "FSC产销监管链认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司造纸、包装板块多家企业获得FSC产销监管链认证。"
+    },
+    {
+      "name": "EATNS碳管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司成功通过EATNS碳管理体系评审并成为全国领先获得相应认证的企业"
+    },
+    {
+      "name": "国家智能制造示范工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "此前已获评国家智能制造示范工厂。"
+    },
+    {
+      "name": "国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司及下属子公司浙江山鹰、华南山鹰、华中山鹰、广东山鹰、吉林山鹰、爱拓环保、泸州一圣鸿、武汉祥恒、浙江祥恒、合肥祥恒、马鞍山祥恒、重庆祥恒、苏州山鹰、中山中健均被认定为国家高新技术企业。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "211,203.43万元，占年度销售总额7.34%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额211,203.43万元，占年度销售总额7.34%；其中前五名客户销售额中关联方销售额0万元，占年度销售总额0。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "210,094.81万元，占年度采购总额7.78%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额210,094.81万元，占年度采购总额7.78%；其中前五名供应商采购额中关联方采购额111,512.82万元，占年度采购总额4.13%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "2020年11月25日生态环境部、商务部、国家发改委、海关总署联合发布《关于全面禁止进口固体废物有关事项公告》，正式明确了从2021年1月1日起我国全面禁止进口固体废物。而我国造纸用原料（木浆、废纸和木片）对外依存度超50%；其中，废纸方面，年废纸进口量占全球废纸贸易量的40%，进口废纸制成的纸浆已占纸浆总量的20%。加之国内废纸回收利用程度已接近饱和，所以这一政策的颁布直接影响到国内造纸业的原材料供应保障问题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2020年11月25日生态环境部、商务部、国家发改委、海关总署联合发布《关于全面禁止进口固体废物有关事项公告》，正式明确了从2021年1月1日起我国全面禁止进口固体废物。而我国造纸用原料（木浆、废纸和木片）对外依存度超50%；其中，废纸方面，年废纸进口量占全球废纸贸易量的40%，进口废纸制成的纸浆已占纸浆总量的20%。加之国内废纸回收利用程度已接近饱和，所以这一政策的颁布直接影响到国内造纸业的原材料供应保障问题。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "2022年12月29日，国务院关税税则委员会办公室宣布2023年关税调整方案，2023年1月1日起零关税进口政策正式施行，具体方案为除牛皮箱板纸、新闻纸之外，其他主要纸种（双胶纸、铜版纸、白纸板、瓦楞纸、箱板纸等）免进口税。关税清零后进口纸成本降低，具有一定价格优势，进口纸数量增加，对国内市场产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2022年12月29日，国务院关税税则委员会办公室宣布2023年关税调整方案，2023年1月1日起零关税进口政策正式施行，具体方案为除牛皮箱板纸、新闻纸之外，其他主要纸种（双胶纸、铜版纸、白纸板、瓦楞纸、箱板纸等）免进口税。关税清零后进口纸成本降低，具有一定价格优势，进口纸数量增加，对国内市场产生一定影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "海外投资风险来自外部环境和自身管理两大方面，主要有政治风险、安全风险、法律风险和经营风险等。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "海外投资风险来自外部环境和自身管理两大方面，主要有政治风险、安全风险、法律风险和经营风险等。"
+    },
+    {
+      "risk_type": "other",
+      "description": "本公司所属的造纸及纸制品行业与国家经济发展和国民消费增长息息相关，受国内外宏观经济波动影响较大，若未来经济景气度下滑，将影响行业的复苏和发展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本公司所属的造纸及纸制品行业与国家经济发展和国民消费增长息息相关，受国内外宏观经济波动影响较大，若未来经济景气度下滑，将影响行业的复苏和发展。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "持续融资能力取决于融资渠道、财务状况、经营业绩、国家法律法规的规定和其他诸多外部因素。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "持续融资能力取决于融资渠道、财务状况、经营业绩、国家法律法规的规定和其他诸多外部因素。"
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "company_name_mentioned": "淮河能源（集团）股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "电力业务营业收入13,907,451,229.46元，占公司主营业务收入的比重为35.81%。",
+      "quote": "电力 13,907,451,229.46 11,863,200,711.59 14.70 4.65 9.09"
+    },
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": "煤炭销售业务营业收入4,080,473,721.23元，占公司主营业务收入的比重为10.51%。",
+      "quote": "煤炭销售 4,080,473,721.23 2,817,761,772.18 30.95 -13.66 -20.61"
+    },
+    {
+      "name": "铁路运输服务",
+      "type": "service",
+      "revenue_proportion": "铁路运输业务营业收入666,373,669.45元，占公司主营业务收入的比重为1.72%。",
+      "quote": "铁路运输 666,373,669.45 374,031,294.76 43.87 5.44 10.06"
+    },
+    {
+      "name": "售电服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司累计完成交易电量128.82亿度"
+    },
+    {
+      "name": "配煤",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内...完成配煤业务量3648万吨"
+    },
+    {
+      "name": "电力检修服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "电力检修业务...主要利润来源为检修业务收支价差。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料煤",
+      "target_product": "电力",
+      "cost_proportion": "电力行业成本构成中，燃料煤本期金额9,271,277,145.93元，占营业成本比例26.40%。",
+      "quote": "燃料煤 9,271,277,145.93 26.40"
+    },
+    {
+      "name": "贸易煤",
+      "target_product": "物流贸易",
+      "cost_proportion": "物流贸易行业成本构成中，贸易煤本期金额19,827,972,321.63元，占营业成本比例56.47%。",
+      "quote": "其中： 贸易煤 19,827,972,321.63 56.47"
+    },
+    {
+      "name": "煤炭",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司全资及控股电厂充分**发挥坑口电厂优势，紧邻煤矿布局，煤炭供应主要由公司内部及控股集团保供**"
+    },
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "前五大供应商采购额中关联方采购额1,063,700.37万元"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "电力",
+      "quote": "电厂所发电量以电力中长期交易为基础，电力现货市场全电量竞价上网，其中中长期交易以年度双边、电网代购交易为主，...月度代购电按照最近一次集中竞价交易加权平均价出售给电网公司"
+    },
+    {
+      "name": "售电公司、一级用户、电网公司",
+      "source_product": "电力",
+      "quote": "年度双边交易按照电力市场双边协商电价出售给售电公司、一级用户"
+    },
+    {
+      "name": "火力发电",
+      "source_product": "煤炭",
+      "quote": "公司依托控股股东淮南矿业丰富的煤炭资源，下属电厂均为典型的“坑口电厂”或煤电联营项目（如淮沪煤电及淮浙煤电的“煤矿+电厂”模式）。这种模式保障了煤电燃料的可靠性"
+    },
+    {
+      "name": "动力煤销售",
+      "source_product": "煤炭",
+      "quote": "动力煤采取长协销售模式"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周涛",
+      "role": "董事长",
+      "quote": "公司负责人周涛...2023年11月至今任本公司董事、董事长"
+    },
+    {
+      "name": "陈万红",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人陈万红...2026年1月至今任本公司财务总监。"
+    },
+    {
+      "name": "吕明夫",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）吕明夫"
+    },
+    {
+      "name": "王杰",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...王杰...2025年12月至今任本公司董事会秘书"
+    },
+    {
+      "name": "束金根",
+      "role": "董事",
+      "quote": "束金根 董事...2023年11月至今任本公司董事"
+    },
+    {
+      "name": "王昌盛",
+      "role": "职工董事",
+      "quote": "王昌盛 职工董事...2026年1月至今任本公司职工董事"
+    },
+    {
+      "name": "马进华",
+      "role": "原董事、总经理、董事会秘书",
+      "quote": "马进华 董事、总经理、董事会秘书（离任）"
+    },
+    {
+      "name": "卢刚",
+      "role": "原副总经理、财务总监",
+      "quote": "卢 刚 副总经理、财务总监（离任）"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "淮河能源控股集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东淮南矿业之控股股东",
+      "quote": "淮河能源控股 指 淮河能源控股集团有限责任公司"
+    },
+    {
+      "name": "淮南矿业（集团）有限责任公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东",
+      "quote": "淮南矿业 指 淮南矿业（集团）有限责任公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户，2025年销售额1,370,827.32万元",
+      "quote": "前五名客户销售额2,472,984.52万元，占年度销售总额63.70%；...国家电网有限公司 1,370,827.32"
+    },
+    {
+      "name": "淮河能源控股集团有限责任公司",
+      "relation_type": "customer",
+      "business_details": "关联方客户，2025年销售额415,942.61万元",
+      "quote": "其中前五名客户销售额中关联方销售额415,942.61万元，占年度销售总额10.71%。"
+    },
+    {
+      "name": "鄂尔多斯市国有资产投资控股集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二供应商，2025年采购额556,622.37万元",
+      "quote": "鄂尔多斯市国有资产投资控股集团有限公司 556,622.37"
+    },
+    {
+      "name": "淮沪煤电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事煤炭开采及发电",
+      "quote": "淮沪煤电 指 淮沪煤电有限公司"
+    },
+    {
+      "name": "淮浙煤电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事煤炭开采及发电",
+      "quote": "淮浙煤电 指 淮浙煤电有限责任公司"
+    },
+    {
+      "name": "淮河能源电力集团有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事发电业务",
+      "quote": "电力集团 指 淮河能源电力集团有限责任公司"
+    },
+    {
+      "name": "淮沪电力有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，持股49%，从事发电业务",
+      "quote": "淮沪电力 指 淮沪电力有限公司"
+    },
+    {
+      "name": "安徽省港口运营集团有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司，持股28.5344%",
+      "quote": "安徽省港口运营集团有限公司 交通运输业 28.5344"
+    },
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "容诚会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "物流贸易",
+      "segment_type": "business_unit",
+      "revenue_amount": "19,942,103,701.63元",
+      "revenue_proportion": null,
+      "gross_margin": "0.57%",
+      "yoy_change": "减少0.21个百分点",
+      "quote": "物流贸易 19,942,103,701.63 19,827,972,321.63 0.57 -1.11 -0.90 减少0.21个百分点"
+    },
+    {
+      "name": "电力",
+      "segment_type": "business_unit",
+      "revenue_amount": "13,907,451,229.46元",
+      "revenue_proportion": null,
+      "gross_margin": "14.70%",
+      "yoy_change": "减少3.47个百分点",
+      "quote": "电力 13,907,451,229.46 11,863,200,711.59 14.70 4.65 9.09 减少3.47个百分点"
+    },
+    {
+      "name": "煤炭销售",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,080,473,721.23元",
+      "revenue_proportion": null,
+      "gross_margin": "30.95%",
+      "yoy_change": "增加6.05个百分点",
+      "quote": "煤炭销售 4,080,473,721.23 2,817,761,772.18 30.95 -13.66 -20.61 增加6.05个百分点"
+    },
+    {
+      "name": "铁路运输",
+      "segment_type": "business_unit",
+      "revenue_amount": "666,373,669.45元",
+      "revenue_proportion": null,
+      "gross_margin": "43.87%",
+      "yoy_change": "减少2.36个百分点",
+      "quote": "铁路运输 666,373,669.45 374,031,294.76 43.87 5.44 10.06 减少2.36个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "371.11亿度",
+      "period": "2025年",
+      "quote": "2025年全年发电量完成371.11亿度"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "352.25亿千瓦时",
+      "period": "2025年",
+      "quote": "售电量 352.25"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "128.82亿度",
+      "period": "2025年",
+      "quote": "售电公司...全年实现交易电量128.82亿度"
+    },
+    {
+      "product": "铁路运输",
+      "metric_type": "sales_volume",
+      "value": "4639万吨",
+      "period": "2025年",
+      "quote": "全年完成铁路货运量4639万吨"
+    },
+    {
+      "product": "配煤",
+      "metric_type": "sales_volume",
+      "value": "3648万吨",
+      "period": "2025年",
+      "quote": "全年完成配煤业务量3648万吨"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "7,000万吨/年",
+      "period": null,
+      "quote": "铁路货物运输总设计能力达到7,000万吨/年"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity",
+      "value": "859.42万千瓦",
+      "period": "截至2025年末",
+      "quote": "截至2025年末，公司控股在运火电、光伏项目总装机容量859.42万千瓦"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "潘集电厂二期",
+      "project_type": "capacity_expansion",
+      "location": "安徽省淮南市潘集区",
+      "investment_amount": null,
+      "designed_capacity": "2台66万千瓦机组",
+      "progress": "两台66万千瓦机组分别于2025年6月、7月投产",
+      "expected_completion_time": null,
+      "quote": "潘集电厂二期两台66万千瓦机组分别于2025年6月、7月投产。"
+    },
+    {
+      "name": "谢桥电厂",
+      "project_type": "capacity_expansion",
+      "location": "安徽省淮南市",
+      "investment_amount": null,
+      "designed_capacity": "2台66万千瓦机组",
+      "progress": "1号机组于2025年9月投产，2号机组已于2026年1月投产",
+      "expected_completion_time": null,
+      "quote": "谢桥电厂2台66万千瓦机组分别于2025年9月、2026年1月投产。"
+    },
+    {
+      "name": "洛河电厂四期",
+      "project_type": "capacity_expansion",
+      "location": "安徽省淮南市",
+      "investment_amount": null,
+      "designed_capacity": "2台100万千瓦机组",
+      "progress": "在建",
+      "expected_completion_time": "预计2026年11月、12月投产",
+      "quote": "洛河电厂二三期在运、四期在建，预计四期2台100万千瓦机组分别于2026年11月、12月投产。"
+    },
+    {
+      "name": "芜湖天然气调峰电厂项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽省芜湖市",
+      "investment_amount": null,
+      "designed_capacity": "规划2台45万千瓦燃气—蒸汽联合循环机组",
+      "progress": "于2025年10月正式开工建设",
+      "expected_completion_time": null,
+      "quote": "芜湖天然气调峰电厂项目正式落地，规划2台45万千瓦燃气—蒸汽联合循环机组，于2025年10月正式开工建设。"
+    },
+    {
+      "name": "丁集光伏二期项目",
+      "project_type": "capacity_expansion",
+      "location": "安徽省淮南市",
+      "investment_amount": null,
+      "designed_capacity": "243.2MW",
+      "progress": "项目建设有序推进",
+      "expected_completion_time": null,
+      "quote": "丁集光伏二期243.2MW项目建设有序推进。"
+    },
+    {
+      "name": "电力集团收购",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "12,889,472,992.75元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": "2025年12月",
+      "quote": "电力集团 发电行业 收购 12,889,472,992.75 长期股权投资 1,417,321,751.91 已完成"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超超临界二次再热燃煤技术",
+      "asset_type": "process_technology",
+      "related_product": "潘集电厂一二期、谢桥电厂",
+      "quantitative_info": null,
+      "quote": "潘集电厂一二期、谢桥电厂为超超临界二次再热燃煤机组"
+    },
+    {
+      "name": "资源综合利用CFB技术",
+      "asset_type": "process_technology",
+      "related_product": "顾桥电厂",
+      "quantitative_info": null,
+      "quote": "顾桥电厂资源综合利用CFB机组，根据其循环流化床锅炉特性，通过掺杂、混配等方式，降低燃料成本"
+    },
+    {
+      "name": "光伏+采煤沉陷区综合治理技术",
+      "asset_type": "process_technology",
+      "related_product": "光伏发电",
+      "quantitative_info": null,
+      "quote": "创新打造“光伏+采煤沉陷区综合治理”一体化模式"
+    },
+    {
+      "name": "智慧环保岛绿色低碳技术",
+      "asset_type": "technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“智慧环保岛”绿色低碳技术被行业推广应用。"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入249,043,804.65元，占营业收入比例0.64%",
+      "quote": "研发投入合计 249,043,804.65 研发投入总额占营业收入比例（%） 0.64"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,472,984.52万元，占年度销售总额63.70%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额2,472,984.52万元，占年度销售总额63.70%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "1,370,827.32万元，占年度销售总额比例35.31%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "国家电网有限公司 1,370,827.32 35.31"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "2,256,506.80万元，占年度采购总额41.21%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额2,256,506.80万元，占年度采购总额41.21%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1,063,700.37万元，占年度采购总额比例19.42%",
+      "related_entity": "淮河能源控股集团有限责任公司",
+      "period": "2025年",
+      "quote": "淮河能源控股集团有限责任公司 1,063,700.37 19.42"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中存在新增客户的情形",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "报告期内向单个客户的销售比例超过总额的50%、前5名客户中存在新增客户的或严重依赖于少数客户的情形 √适用"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "煤炭消费出现历史首次负增长，供需宽松；新能源装机历史性超越煤电，煤电发电量低速增长和波动，调峰任务艰巨。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "一是行业风险与挑战。煤炭方面...煤炭消费出现2017年以来的首次同比负增长...电力方面...燃煤发电量进入低速增长和波动发展阶段。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场化改革深化，火电企业盈利空间被压缩。售电业务面临用户争夺加剧，价差空间收窄，盈利承压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是市场风险与挑战。...结合电力市场改革...“市场电价下行+容量补偿不足+系统成本转嫁+调峰负担加重”的组合效应，压缩了火电企业的盈利空间...随着电力市场化改革深化，售电侧竞争日趋激烈，售电业务面临用户争夺加剧，签约成本上升；价差空间收窄，盈利承压的挑战"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "配煤业务经营风险加大，尤其是合同违约风险及应收账款回款等资金风险。电厂发电副产品灰渣市场持续低迷，销售困难。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三是经营风险。...配煤业务经营风险不断加大，尤其是合同违约风险及应收账款回款等资金风险。...电厂发电副产品灰渣市场持续低迷，销售困难，灰渣处置的成本、环保压力和风险日益增加。"
+    },
+    {
+      "risk_type": "other",
+      "description": "安徽省环保督察通报指出，公司部分电厂存在煤炭消费减量替代方案未严格落实，或燃煤锅炉淘汰推进缓慢等问题。",
+      "related_entity": "安徽省第二生态环境保护督察组",
+      "related_product": "潘集电厂、顾桥电厂",
+      "quote": "2025年6月，安徽省第二生态环境保护督察组督察淮南市发现...公司所属的潘集电厂一期项目以及全资子公司电力集团所属的潘集电厂二期项目在未严格落实煤炭消费减量替代方案的情况下...顾桥电厂煤矸石掺烧比例应达到50%，但实际仅占10%..."
+    }
+  ]
+}

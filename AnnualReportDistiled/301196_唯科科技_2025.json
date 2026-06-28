@@ -1,0 +1,547 @@
+{
+  "company_name_mentioned": "厦门唯科模塑科技股份有限公司",
+  "produces": [
+    {
+      "name": "精密注塑模具",
+      "type": "device",
+      "revenue_proportion": "15.54%",
+      "quote": "分产品模具342,418,736.81元，占营业收入比重15.54%"
+    },
+    {
+      "name": "注塑件",
+      "type": "component",
+      "revenue_proportion": "50.31%",
+      "quote": "分产品注塑1,108,860,136.03元，占营业收入比重50.31%"
+    },
+    {
+      "name": "健康产品",
+      "type": "device",
+      "revenue_proportion": "29.60%",
+      "quote": "分产品健康产品652,342,775.73元，占营业收入比重29.60%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "模具钢",
+      "target_product": "精密注塑模具",
+      "cost_proportion": null,
+      "quote": "公司生产所需原材料主要包括精密注塑模具加工所需的模具钢、模架、热流道"
+    },
+    {
+      "name": "模架",
+      "target_product": "精密注塑模具",
+      "cost_proportion": null,
+      "quote": "公司生产所需原材料主要包括精密注塑模具加工所需的模具钢、模架、热流道"
+    },
+    {
+      "name": "热流道",
+      "target_product": "精密注塑模具",
+      "cost_proportion": null,
+      "quote": "公司生产所需原材料主要包括精密注塑模具加工所需的模具钢、模架、热流道"
+    },
+    {
+      "name": "塑料粒子 (ABS, PA6, PP, POM, PC/ABS, PEEK, PPS, LCP)",
+      "target_product": "注塑件",
+      "cost_proportion": null,
+      "quote": "注塑件生产所需的ABS、PA6、PP、POM、PC/ABS、PEEK、PPS、LCP等塑料粒子"
+    },
+    {
+      "name": "电机",
+      "target_product": "健康产品",
+      "cost_proportion": null,
+      "quote": "以及健康产品生产所需的电机、滤材、PCBA板等"
+    },
+    {
+      "name": "滤材",
+      "target_product": "健康产品",
+      "cost_proportion": null,
+      "quote": "以及健康产品生产所需的电机、滤材、PCBA板等"
+    },
+    {
+      "name": "PCBA板",
+      "target_product": "健康产品",
+      "cost_proportion": null,
+      "quote": "以及健康产品生产所需的电机、滤材、PCBA板等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车",
+      "source_product": "精密注塑模具、注塑件",
+      "quote": "应用领域：汽车"
+    },
+    {
+      "name": "健康家电",
+      "source_product": "健康产品、注塑件",
+      "quote": "已发展成为“模塑一体化”规模生产企业...可为汽车、健康家电、户外家居、电子/机器人等行业领域客户提供多样化、一站式的产品和服务。"
+    },
+    {
+      "name": "户外家居",
+      "source_product": "精密注塑模具、注塑件",
+      "quote": "应用领域：户外家居"
+    },
+    {
+      "name": "电子/机器人",
+      "source_product": "精密注塑模具、注塑件",
+      "quote": "应用领域：电子/机器人领域"
+    },
+    {
+      "name": "医疗/航空",
+      "source_product": "精密注塑模具、注塑件",
+      "quote": "医疗/航空领域的丹纳赫、瑞声达、BE航空等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "庄辉阳",
+      "role": "董事长、总经理",
+      "quote": "公司负责人庄辉阳、主管会计工作负责人周镇森...法定代表人 庄辉阳...现任...本公司董事长兼总经理。"
+    },
+    {
+      "name": "王燕",
+      "role": "董事、集团营销总裁",
+      "quote": "董事、集团营销总裁 王燕"
+    },
+    {
+      "name": "王志军",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理 王志军"
+    },
+    {
+      "name": "郭水源",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理 郭水源"
+    },
+    {
+      "name": "罗建文",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书、副总经理 罗建文"
+    },
+    {
+      "name": "周镇森",
+      "role": "财务总监",
+      "quote": "财务总监 周镇森"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "均胜电子",
+      "relation_type": "customer",
+      "business_details": "汽车领域的客户",
+      "quote": "公司主要客户资源有：汽车领域的均胜电子、捷温科技集团、博泽集团、Altcam集团、法拉电子等"
+    },
+    {
+      "name": "捷温科技集团",
+      "relation_type": "customer",
+      "business_details": "汽车领域的客户",
+      "quote": "汽车领域的均胜电子、捷温科技集团、博泽集团、Altcam集团、法拉电子等"
+    },
+    {
+      "name": "博泽集团",
+      "relation_type": "customer",
+      "business_details": "汽车领域的客户",
+      "quote": "汽车领域的均胜电子、捷温科技集团、博泽集团、Altcam集团、法拉电子等"
+    },
+    {
+      "name": "Altcam集团",
+      "relation_type": "customer",
+      "business_details": "汽车领域的客户",
+      "quote": "汽车领域的均胜电子、捷温科技集团、博泽集团、Altcam集团、法拉电子等"
+    },
+    {
+      "name": "法拉电子",
+      "relation_type": "customer",
+      "business_details": "汽车领域的客户",
+      "quote": "汽车领域的均胜电子、捷温科技集团、博泽集团、Altcam集团、法拉电子等"
+    },
+    {
+      "name": "宜家集团",
+      "relation_type": "customer",
+      "business_details": "户外家居领域的客户",
+      "quote": "户外家居领域的宜家集团、博格步集团、威卢克斯集团、YETI集团、家得宝集团等"
+    },
+    {
+      "name": "晨北集团",
+      "relation_type": "customer",
+      "business_details": "健康家电领域的客户",
+      "quote": "健康家电领域的晨北集团、历德集团、SANDBIRDS等"
+    },
+    {
+      "name": "历德集团",
+      "relation_type": "customer",
+      "business_details": "健康家电领域的客户",
+      "quote": "健康家电领域的晨北集团、历德集团、SANDBIRDS等"
+    },
+    {
+      "name": "康普集团",
+      "relation_type": "customer",
+      "business_details": "电子/机器人领域的客户",
+      "quote": "电子/机器人领域的康普集团、尼得科、科尔摩根、霍尼韦尔、THOMSON LINEAR、ABB、ASETEK等"
+    },
+    {
+      "name": "丹纳赫",
+      "relation_type": "customer",
+      "business_details": "医疗/航空领域的客户",
+      "quote": "医疗/航空领域的丹纳赫、瑞声达、BE航空等"
+    },
+    {
+      "name": "北京德皓国际会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 北京德皓国际会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "国金证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "保荐机构",
+      "quote": "保荐机构名称 国金证券股份有限公司"
+    },
+    {
+      "name": "上海克比模塑科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "上海克比 指 上海克比模塑科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "天津唯科科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "天津唯科 指 天津唯科科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "泉州唯科健康产业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "泉州唯科 指 泉州唯科健康产业有限公司，公司全资子公司"
+    },
+    {
+      "name": "厦门唯科健康产业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "健康产业 指 厦门唯科健康产业有限公司，公司控股子公司"
+    },
+    {
+      "name": "厦门唯科健康科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "健康科技 指 厦门唯科健康科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "厦门沃尔科模塑有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "厦门沃尔科 指 厦门沃尔科模塑有限公司，公司全资子公司"
+    },
+    {
+      "name": "唯科国际科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司",
+      "quote": "唯科国际 指 唯科国际科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "唯科科技（马来西亚）私人有限公司（Vork Technologies（Malaysia）SDN. BHD.）",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "马来西亚唯科 指 唯科科技（马来西亚）私人有限公司（Vork Technologies（Malaysia）SDN. BHD.），公司控股子公司"
+    },
+    {
+      "name": "唯科墨西哥有限责任公司，（西班牙文：VOK E Mexico S. de R.L.de C.V.）",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股孙公司",
+      "quote": "墨西哥唯科 指 唯科墨西哥有限责任公司，（西班牙文：VOK E Mexico S. de R.L.de C.V.），公司控股孙公司"
+    },
+    {
+      "name": "厦门特克精密工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "特克精密 指 厦门特克精密工业有限公司（曾用名：厦门市特克模具工业有限公司），公司控股子公司"
+    },
+    {
+      "name": "唯科越南科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股孙公司",
+      "quote": "越南唯科 指 唯科越南科技有限公司（越南文：CÔNG TY TNHH TECHNOLOGY VORK VIỆT NAM；英文：VORK VIETNAM TECHNOLOGY CO., LTD），公司控股孙公司"
+    },
+    {
+      "name": "宇科塑料（厦门）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司",
+      "quote": "宇科塑料 指 宇科塑料（厦门）有限公司，公司控股子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "模具与注塑行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,451,278,872.84元",
+      "revenue_proportion": "65.85%",
+      "gross_margin": "34.34%",
+      "yoy_change": "20.47%",
+      "quote": "分行业模具与注塑行业1,451,278,872.84元，占营业收入比重65.85%...毛利率比上年同期增减0.83%"
+    },
+    {
+      "name": "健康家电行业",
+      "segment_type": "product_line",
+      "revenue_amount": "652,342,775.73元",
+      "revenue_proportion": "29.60%",
+      "gross_margin": "22.31%",
+      "yoy_change": "21.30%",
+      "quote": "分行业健康家电行业652,342,775.73元，占营业收入比重29.60%...毛利率比上年同期增减1.35%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,120,416,435.51元",
+      "revenue_proportion": "50.84%",
+      "gross_margin": "27.46%",
+      "yoy_change": "8.50%",
+      "quote": "分地区境内1,120,416,435.51元，占营业收入比重50.84%...毛利率比上年同期增减-0.06%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,083,528,687.06元",
+      "revenue_proportion": "49.16%",
+      "gross_margin": "32.13%",
+      "yoy_change": "37.78%",
+      "quote": "分地区境外1,083,528,687.06元，占营业收入比重49.16%...毛利率比上年同期增减1.20%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,203,945,122.57元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "29.76%",
+      "yoy_change": "21.16%",
+      "quote": "分销售模式直销2,203,945,122.57元，占营业收入比重100.00%...毛利率比上年同期增减0.76%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "模具与注塑行业",
+      "metric_type": "sales_volume",
+      "value": "855,741,309.08 pcs、套",
+      "period": "2025年",
+      "quote": "行业分类项目单位2025年...销售量pcs、套855,741,309.08"
+    },
+    {
+      "product": "模具与注塑行业",
+      "metric_type": "production_volume",
+      "value": "844,008,479.22 pcs、套",
+      "period": "2025年",
+      "quote": "行业分类项目单位2025年...生产量pcs、套844,008,479.22"
+    },
+    {
+      "product": "模具与注塑行业",
+      "metric_type": "inventory_volume",
+      "value": "128,707,907.18 pcs、套",
+      "period": "2025年末",
+      "quote": "行业分类项目单位...库存量pcs、套128,707,907.18"
+    },
+    {
+      "product": "健康家电行业",
+      "metric_type": "sales_volume",
+      "value": "4,294,241.00 台",
+      "period": "2025年",
+      "quote": "健康家电行业销售量台4,294,241.00"
+    },
+    {
+      "product": "健康家电行业",
+      "metric_type": "production_volume",
+      "value": "4,703,571.00 台",
+      "period": "2025年",
+      "quote": "健康家电行业生产量台4,703,571.00"
+    },
+    {
+      "product": "健康家电行业",
+      "metric_type": "inventory_volume",
+      "value": "664,048.00 台",
+      "period": "2025年末",
+      "quote": "健康家电行业库存量台664,048.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "唯科高端智能模塑科技产业园项目",
+      "project_type": "fundraising_project",
+      "location": "厦门市",
+      "investment_amount": "38,022.08万元",
+      "designed_capacity": null,
+      "progress": "厂房已于2022年12月完成建设，并于2023年2月通过政府验收，目前已投产使用。",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目...唯科高端智能模塑科技产业园项目...募集资金承诺投资总额38,022.08万元...项目达到预定可使用状态日期2022年12月31日"
+    },
+    {
+      "name": "唯科模塑智能制造项目",
+      "project_type": "fundraising_project",
+      "location": "厦门市",
+      "investment_amount": "31,149.87万元",
+      "designed_capacity": null,
+      "progress": "厂房已于2022年12月完成建设，并于2023年3月通过政府验收，目前已投产使用。",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目...唯科模塑智能制造项目...募集资金承诺投资总额31,149.87万元...项目达到预定可使用状态日期2022年12月31日"
+    },
+    {
+      "name": "唯科技术中心升级改造",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "6,108万元",
+      "designed_capacity": null,
+      "progress": "公司已陆续对技术中心进行升级改造，部分办公场地、机器设备已投入使用，其余部分正有序推进中。",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目...唯科技术中心升级改造...募集资金承诺投资总额6,108万元...项目达到预定可使用状态日期2026年12月31日"
+    },
+    {
+      "name": "唯科营销服务网络建设",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "2,217.75万元",
+      "designed_capacity": null,
+      "progress": "公司已于2023年8月起陆续在美国、新加坡等国家设立子公司。",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目...唯科营销服务网络建设...募集资金承诺投资总额2,217.75万元...项目达到预定可使用状态日期2026年12月31日"
+    },
+    {
+      "name": "马来西亚唯科模塑智能制造项目",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚新山市",
+      "investment_amount": "27,000万元",
+      "designed_capacity": null,
+      "progress": "新增募投项目。",
+      "expected_completion_time": null,
+      "quote": "新增募投项目马来西亚唯科模塑智能制造项目...拟使用募集资金27,000.00万元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "495项，其中42项发明专利",
+      "quote": "截至本报告期末，公司共拥有495项授权专利，其中42项发明专利"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建立了完善的质量管理体系和标准，并取得ISO9001、IATF16949等产品质量认证证书。"
+    },
+    {
+      "name": "IATF16949汽车行业质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建立了完善的质量管理体系和标准，并取得ISO9001、IATF16949等产品质量认证证书。"
+    },
+    {
+      "name": "两化融合管理体系评定证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "荣获了“两化融合管理体系评定证书”。"
+    },
+    {
+      "name": "国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司作为国家高新技术企业"
+    },
+    {
+      "name": "中国精密注塑模具重点骨干企业",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是中国模具工业协会认定的“中国精密注塑模具重点骨干企业”"
+    },
+    {
+      "name": "省级工业设计中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建成省级工业设计中心、省级企业技术中心、国家级企业技术中心以及博士后科研工作站。"
+    },
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建成省级工业设计中心、省级企业技术中心、国家级企业技术中心以及博士后科研工作站。"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建成省级工业设计中心、省级企业技术中心、国家级企业技术中心以及博士后科研工作站。"
+    },
+    {
+      "name": "博士后科研工作站",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已建成省级工业设计中心、省级企业技术中心、国家级企业技术中心以及博士后科研工作站。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "38.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例38.68%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "20.67%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名销售额（元）455,607,912.22，占年度销售总额比例20.67%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "19.91%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例19.91%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.03%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名采购额（元）76,183,577.22，占年度采购总额比例6.03%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "近年来各国的关税政策频繁变动给经济全球化的持续带来了挑战。目前，美国关税政策已对公司的生产和经营造成一定影响，虽然公司采取了诸多应对措施，但仍存在一些不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、国际贸易关税风险...目前，美国关税政策已对公司的生产和经营造成一定影响，虽然公司采取了诸多应对措施，但仍存在一些不确定性。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "由于劳动力成本的上升、原材料价格的波动以及竞争的日益激烈，公司的综合毛利率可能存在下滑的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、毛利率下降的风险由于劳动力成本的上升、原材料价格的波动以及竞争的日益激烈，公司的综合毛利率可能存在下滑的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "为积极拓展海外市场，整合国际资源，公司先后在德国、马来西亚、墨西哥、新加坡、美国、越南建立子公司。因法律体系、商业环境、企业文化等方面与国内存在诸多差异，公司将可能面临因海外经营经验不足、经营环境恶化导致的海外经营风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、境外子公司的经营风险...公司将可能面临因海外经营经验不足、经营环境恶化导致的海外经营风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司业务规模的不断扩大，公司在生产技术管理、内控流程管理、人力资源管理都面临较大挑战，并对管理团队提出了更高的要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、公司快速扩张带来的管理风险...随着公司业务规模的不断扩大，公司在生产技术管理、内控流程管理、人力资源管理都面临较大挑战"
+    }
+  ]
+}

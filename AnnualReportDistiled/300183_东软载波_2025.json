@@ -1,0 +1,521 @@
+{
+  "company_name_mentioned": "青岛东软载波科技股份有限公司",
+  "produces": [
+    {
+      "name": "电力线载波通信芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "主要产品 电力线载波通信/无线通信芯片 应用场景 国网/南网用电信息采集、海外AMI系统"
+    },
+    {
+      "name": "通用微控制器系列芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "通用（包括Cortex-M0、M3及RISC-V）微控制器系列芯片 白色家电、工业控制、电机控制"
+    },
+    {
+      "name": "BMS微控制器芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "BMS微控制器芯片 小功率锂电池管理"
+    },
+    {
+      "name": "射频前端、低功耗蓝牙、微波段射频前端芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "Sub-1G系列射频前端、2.4G射频前端、低功耗蓝牙系列芯片、微波段射频前端芯片 无线连接"
+    },
+    {
+      "name": "带高精度ADC、高分辨率DAC模拟前端的微控制器芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "带高精度ADC、高分辨率DAC模拟前端的微控制器芯片 仪器仪表"
+    },
+    {
+      "name": "通用8位微控制器系列芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "通用8位微控制器系列芯片 消费电子、工业控制"
+    },
+    {
+      "name": "智能融合终端",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要业务 主要产品 应用场景 智能用电 智能融合终端 居民配电台区的核心智能设备..."
+    },
+    {
+      "name": "专变采集终端",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "专变采集终端 工商业用户智能计量采集设备..."
+    },
+    {
+      "name": "智能电能表",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "智能电能表：25版电能表升级了计量精度、过载防护、故障自诊断等能力..."
+    },
+    {
+      "name": "通信模组（HPLC双模模块等）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "HPLC双模模块：广泛用于电网各类采集终端、电能表等实现本地通信。"
+    },
+    {
+      "name": "储能系统（储能“3S”、储能一体机、预制舱储能、台区储能装置）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "储能系统主要应用于工商业储能和电网侧储能场景：1.储能“3S”...2.储能一体机...3.预制舱储能...4.台区储能装置..."
+    },
+    {
+      "name": "智能照明系统（AI+照明管控平台及相关硬件）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "重点打造智能照明、智能空调、能源管理、楼宇智控等数智化系统..."
+    },
+    {
+      "name": "零碳智慧园区/社区/医院/校园管理平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "零碳智慧园区管理平台、零碳智慧社区管理平台、零碳智慧医院管理平台、零碳智慧校园管理平台"
+    },
+    {
+      "name": "虚拟电厂管控平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "虚拟电厂管控平台是将不同空间的可调负荷、储能、微电网、电动汽车、分布式电源等一种或多种可控资源聚合起来..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "晶圆",
+      "target_product": "集成电路芯片",
+      "cost_proportion": null,
+      "quote": "作为Fabless芯片企业，上海微电子向晶圆厂采购晶圆，向封测厂采购封装和测试服务"
+    },
+    {
+      "name": "封装和测试服务",
+      "target_product": "集成电路芯片",
+      "cost_proportion": null,
+      "quote": "作为Fabless芯片企业，上海微电子向晶圆厂采购晶圆，向封测厂采购封装和测试服务"
+    },
+    {
+      "name": "原材料（如芯片、电子元器件、模组等）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "采购业务覆盖芯片、电子元器件、模组及智能化项目配套设备"
+    },
+    {
+      "name": "供应商1",
+      "target_product": null,
+      "cost_proportion": "12.41%",
+      "quote": "供应商1 采购额（元） 96,979,156.88 占年度采购总额比例 12.41%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能电网",
+      "source_product": "电力线载波通信芯片、智能融合终端、智能电能表等",
+      "quote": "公司自1996年研究电力线通信技术在远程抄表应用...根据分布式能源智能发电、智能配电、智能用电、新型储能、智能微电网及综合能源管理需求..."
+    },
+    {
+      "name": "白色家电",
+      "source_product": "通用微控制器系列芯片",
+      "quote": "在白色家电领域，在深化与国内头部客户的合作的同时..."
+    },
+    {
+      "name": "工业控制",
+      "source_product": "通用微控制器系列芯片",
+      "quote": "通用（包括Cortex-M0、M3及RISC-V）微控制器系列芯片 白色家电、工业控制、电机控制"
+    },
+    {
+      "name": "仪器仪表",
+      "source_product": "带高精度ADC、高分辨率DAC模拟前端的微控制器芯片",
+      "quote": "带高精度ADC、高分辨率DAC模拟前端的微控制器芯片 仪器仪表"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "通用8位微控制器系列芯片",
+      "quote": "通用8位微控制器系列芯片 消费电子、工业控制"
+    },
+    {
+      "name": "锂电池管理（手机BMS、移动电源等）",
+      "source_product": "BMS微控制器芯片",
+      "quote": "在手机BMS领域，产品性能与可靠性已获得市场头部客户群的广泛认可...并积极拓展相关产品在移动电源等领域的应用。"
+    },
+    {
+      "name": "工商业储能、电网侧储能",
+      "source_product": "储能系统",
+      "quote": "储能系统主要应用于工商业储能和电网侧储能场景"
+    },
+    {
+      "name": "智慧园区、智慧医院、智慧校园、智慧社区",
+      "source_product": "智能化系统、零碳智慧管理平台",
+      "quote": "运用云计算、大数据、物联网、AI、数字孪生等前沿技术，搭建“AI+零碳”数智化平台，全面赋能的智慧园区、智慧医院、智慧校园、智慧社区等业务场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "骆玲",
+      "role": "董事长",
+      "quote": "公司负责人骆玲...现任公司第六届董事会董事长。"
+    },
+    {
+      "name": "崔健",
+      "role": "副董事长、总裁",
+      "quote": "副董事长、总裁 崔健"
+    },
+    {
+      "name": "陈钊敏",
+      "role": "董事、常务副总裁",
+      "quote": "陈钊敏 男 39 常务副总裁 董事"
+    },
+    {
+      "name": "关剑梅",
+      "role": "董事",
+      "quote": "关剑梅 女 40 董事"
+    },
+    {
+      "name": "陈秋华",
+      "role": "董事、副总裁、财务总监",
+      "quote": "陈秋华 女 51 董事 副总裁 财务总监"
+    },
+    {
+      "name": "单喜进",
+      "role": "职工董事",
+      "quote": "单喜进 男 39 职工董事"
+    },
+    {
+      "name": "胡亚军",
+      "role": "总工程师",
+      "quote": "胡亚军 男 65 总工程师"
+    },
+    {
+      "name": "孙雪飞",
+      "role": "副总裁",
+      "quote": "孙雪飞 女 50 副总裁"
+    },
+    {
+      "name": "郭宋君",
+      "role": "副总裁、董事会秘书",
+      "quote": "郭宋君 男 48 副总裁、董事会秘书"
+    },
+    {
+      "name": "车宪庆",
+      "role": "会计机构负责人",
+      "quote": "公司负责人骆玲、主管会计工作负责人陈秋华及会计机构负责人(会计主管人员)车宪庆"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "青岛东软载波智能电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "承担公司智能化板块和智能制造板块的核心职能",
+      "quote": "全资子公司青岛东软载波智能电子有限公司"
+    },
+    {
+      "name": "上海东软载波微电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "无晶圆厂（Fabless）芯片设计公司",
+      "quote": "全资子公司上海东软载波微电子有限公司"
+    },
+    {
+      "name": "广东东软载波智能物联网技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "全资子公司广东东软载波智能物联网技术有限公司"
+    },
+    {
+      "name": "青岛智汇通商业管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "全资子公司青岛智汇通商业管理有限责任公司"
+    },
+    {
+      "name": "浙江东软载波数智科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "控股子公司浙江东软载波数智科技有限公司"
+    },
+    {
+      "name": "山东东软载波智能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "二级控股子公司山东东软载波智能科技有限公司"
+    },
+    {
+      "name": "上海东软载波智联微电子系统有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "二级全资子公司上海东软载波智联微电子系统有限公司"
+    },
+    {
+      "name": "香港东软载波系统有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "二级全资子公司香港东软载波系统有限公司"
+    },
+    {
+      "name": "广东东软载波电力科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "二级全资子公司广东东软载波电力科技有限公司"
+    },
+    {
+      "name": "广东泓清润储能有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "二级控股子公司广东泓清润储能有限公司"
+    },
+    {
+      "name": "山东电工智能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "山东电工智能科技有限公司"
+    },
+    {
+      "name": "国家电网公司",
+      "relation_type": "customer",
+      "business_details": "是公司电网类产品的主要客户",
+      "quote": "作为国家电网和南方电网重要供应商"
+    },
+    {
+      "name": "中国南方电网有限责任公司",
+      "relation_type": "customer",
+      "business_details": "是公司电网类产品的主要客户",
+      "quote": "作为国家电网和南方电网重要供应商"
+    },
+    {
+      "name": "客户1",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "客户1 销售额（元） 98,678,574.00 占年度销售总额比例 9.38%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力线载波通信系列产品",
+      "segment_type": "product_line",
+      "revenue_amount": "659,069,101.86元",
+      "revenue_proportion": "62.67%",
+      "gross_margin": "35.71%",
+      "yoy_change": "-5.45%",
+      "quote": "分产品 电力线载波通信系列产品 659,069,101.86 62.67% 697,037,078.80 67.64% -5.45%"
+    },
+    {
+      "name": "集成电路",
+      "segment_type": "product_line",
+      "revenue_amount": "311,410,859.31元",
+      "revenue_proportion": "29.61%",
+      "gross_margin": "10.68%",
+      "yoy_change": "12.66%",
+      "quote": "分产品 集成电路 311,410,859.31 29.61% 276,417,228.77 26.82% 12.66%"
+    },
+    {
+      "name": "智能化业务",
+      "segment_type": "product_line",
+      "revenue_amount": "76,841,760.84元",
+      "revenue_proportion": "7.31%",
+      "gross_margin": "30.96%",
+      "yoy_change": "45.72%",
+      "quote": "分产品 智能化业务 76,841,760.84 7.31% 52,733,179.74 5.12% 45.72%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "4,297,371.82元",
+      "revenue_proportion": "0.41%",
+      "gross_margin": null,
+      "yoy_change": "0.40%",
+      "quote": "其他 4,297,371.82 0.41% 4,280,353.13 0.42% 0.40%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,049,341,016.41元",
+      "revenue_proportion": "99.78%",
+      "gross_margin": "28.08%",
+      "yoy_change": "3.10%",
+      "quote": "分地区 国内 1,049,341,016.41 99.78% 1,017,742,773.42 98.77% 3.10%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "2,278,077.42元",
+      "revenue_proportion": "0.22%",
+      "gross_margin": null,
+      "yoy_change": "-82.10%",
+      "quote": "国外 2,278,077.42 0.22% 12,725,067.02 1.23% -82.10%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "751,510,386.91元",
+      "revenue_proportion": "71.46%",
+      "gross_margin": "34.33%",
+      "yoy_change": "-1.66%",
+      "quote": "分销售模式 直销 751,510,386.91 71.46% 764,176,191.66 74.16% -1.66%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "300,108,706.92元",
+      "revenue_proportion": "28.54%",
+      "gross_margin": "12.69%",
+      "yoy_change": "12.70%",
+      "quote": "经销 300,108,706.92 28.54% 266,291,648.78 25.84% 12.70%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "软件及集成电路",
+      "metric_type": "inventory_volume",
+      "value": "252,048,366.13元",
+      "period": "2025年末",
+      "quote": "库存量 元 252,048,366.13 357,663,969.83 -29.53%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "大湾区智能电力装备创新谷（含土地）",
+      "project_type": "capacity_expansion",
+      "location": "佛山市南海区",
+      "investment_amount": "190,610,931.20元",
+      "designed_capacity": null,
+      "progress": "0.44%",
+      "expected_completion_time": null,
+      "quote": "广东东软载波在佛山市南海区竞得260亩工业用地拟投资建设大湾区智能电力装备创新谷，项目首期已正式建设，并将部署智能电表、模组等产线..."
+    },
+    {
+      "name": "东软载波创新中心项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "241,122,211.25元（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "98.26%",
+      "expected_completion_time": null,
+      "quote": "东软载波创新中心项目 自建 是 ... 241,122,211.25 ... 98.26% ..."
+    },
+    {
+      "name": "东软载波创新中心项目（二期）",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "115,701,797.32元（本期投入）",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "报告期投资额（元） 306,312,728.52 ... 东软载波创新中心项目 ... 115,701,797.32 ..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "电力线载波通信技术",
+      "asset_type": "core_technology",
+      "related_product": "电力线载波通信系列产品、智能化解决方案",
+      "quantitative_info": null,
+      "quote": "公司自1996年研究电力线通信技术在远程抄表应用..."
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已获得175项",
+      "quote": "发明专利 18 175 62"
+    },
+    {
+      "name": "实用新型",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已获得103项",
+      "quote": "实用新型 7 103 13"
+    },
+    {
+      "name": "外观专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已获得29项",
+      "quote": "外观专利 0 29 1"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "已获得612项",
+      "quote": "软件著作权 21 612 1"
+    },
+    {
+      "name": "集成电路布图设计证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "已获得108项",
+      "quote": "集成电路布图设计证书 7 108 0"
+    },
+    {
+      "name": "参与制定国家标准、行业标准、联盟标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司深度参与IEEE1901.3双模通信标准、IEEEP2886标准编制...公司参与起草的国家标准GB/T17215.682...《T/SILA013—2024电力线载波通信（PLC）道路照明互联规范》正式发布..."
+    },
+    {
+      "name": "G3联盟认证产品",
+      "asset_type": "certification",
+      "related_product": "海外AMI系统、通信模组",
+      "quantitative_info": "累计49款",
+      "quote": "19款产品获得G3联盟认证，公司累计G3认证产品达49款"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "27.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 291,475,078.92 前五名客户合计销售金额占年度销售总额比例 27.71%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "33.77%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 263,782,718.66 前五名供应商合计采购金额占年度采购总额比例 33.77%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新型电力系统相关产品融合多项技术，技术持续进步与需求响应能力是公司竞争力的关键。公司目前有一定技术优势，若友商推出更先进技术产品，将对公司产生不利影响。电力线载波通信芯片行业成熟且毛利率较高，吸引大量竞争者涌入，市场竞争加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争的风险 ... 公司目前有一定技术优势，若友商推出更先进技术产品，将对公司产生不利影响...电力线载波通信芯片行业成熟且毛利率较高，吸引大量竞争者涌入，市场竞争加剧。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "2025年以来，铜材、硅钢片等电表核心原材料及计量芯片、通信模组等关键电子器件价格持续走高，公司产品成本面临较大上升压力，毛利率水平存在一定承压风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、成本上涨风险 2025年以来，铜材、硅钢片等电表核心原材料及计量芯片、通信模组等关键电子器件价格持续走高，公司产品成本面临较大上升压力..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司能源互联网板块部分产品受国家政策影响较大，若国家政策变化、电网公司招标减少，新能源行业需求下滑，有对公司业务产生影响的可能。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、政策变化风险 公司能源互联网板块部分产品受国家政策影响较大，若国家政策变化、电网公司招标减少，新能源行业需求下滑，有对公司业务产生影响的可能。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "近年来，随着行业竞争加剧及下游客户预算收紧，公司为巩固市场份额、提升产品渗透率，采取适度的信用销售政策，导致应收账款规模随营业收入增长而有所上升，一定程度上增加了营运资金被占用的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、应收账款的风险 ... 导致应收账款规模随营业收入增长而有所上升，一定程度上增加了营运资金被占用的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "管理风险和人力资源风险：随着公司业务规模持续扩大，业务布局涵盖集成电路、能源互联网、智能化等多个板块，对子公司管控、组织协同、内控体系建设及决策效率提出更高要求。若公司管理能力未能同步提升，可能出现组织架构适配不足、信息传导不畅等问题。当前行业内人才竞争激烈，核心研发人才、销售人才招聘难度大，培养周期长的问题，若关键岗位人才出现流失，可能导致技术研发断档、项目推进缓慢等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、管理风险和人力资源风险 ... 对子公司管控、组织协同、内控体系建设及决策效率提出更高要求...当前行业内人才竞争激烈，核心研发人才、销售人才招聘难度大..."
+    }
+  ]
+}

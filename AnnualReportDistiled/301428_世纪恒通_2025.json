@@ -1,0 +1,402 @@
+{
+  "company_name_mentioned": "世纪恒通科技股份有限公司",
+  "produces": [
+    {
+      "name": "车主信息服务",
+      "type": "service",
+      "revenue_proportion": "36.46%",
+      "quote": "车主信息服务 385,953,677.53 36.46%"
+    },
+    {
+      "name": "生活信息服务",
+      "type": "service",
+      "revenue_proportion": "38.39%",
+      "quote": "生活信息服务 406,451,001.46 38.39%"
+    },
+    {
+      "name": "商务流程服务",
+      "type": "service",
+      "revenue_proportion": "25.06%",
+      "quote": "商务流程服务 265,273,397.60 25.06%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "车主服务供应商服务",
+      "target_product": "车主信息服务",
+      "cost_proportion": "占营业成本比重 41.67%",
+      "quote": "车主信息服务 服务采购成本 351,933,110.95 41.67%"
+    },
+    {
+      "name": "营销推广服务供应商服务",
+      "target_product": "生活信息服务",
+      "cost_proportion": "占营业成本比重 31.20%",
+      "quote": "生活信息服务 服务采购成本 263,489,916.30 31.20%"
+    },
+    {
+      "name": "电子优惠券权益供应商服务",
+      "target_product": "生活信息服务",
+      "cost_proportion": null,
+      "quote": "服务采购成本是公司向车主服务供应商、营销推广服务供应商、电子优惠券权益供应商等供应商采购服务所支付的成本。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "保险公司",
+      "source_product": "车主信息服务",
+      "quote": "为终端车主提供一站式便捷服务，同时为保险公司、银行、电信运营商、互联网平台及多省市高速公路集团等大型企业客户提供标准化、可定制的车主服务解决方案。"
+    },
+    {
+      "name": "银行",
+      "source_product": "生活信息服务",
+      "quote": "为电信运营商、金融机构等大型企业客户提供定制化增值服务解决方案。"
+    },
+    {
+      "name": "电信运营商",
+      "source_product": "生活信息服务， 商务流程服务",
+      "quote": "为中国移动、腾讯、中国平安、中国人保、各大银行及多省市高速公路集团等各行业头部企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "互联网平台",
+      "source_product": "车主信息服务",
+      "quote": "为保险公司、银行、电信运营商、互联网平台及多省市高速公路集团等大型企业客户提供标准化、可定制的车主服务解决方案。"
+    },
+    {
+      "name": "高速公路集团",
+      "source_product": "车主信息服务",
+      "quote": "为保险公司、银行、电信运营商、互联网平台及多省市高速公路集团等大型企业客户提供标准化、可定制的车主服务解决方案。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨兴海",
+      "role": "董事长",
+      "quote": "公司负责人杨兴海、主管会计工作负责人吕海英及会计机构负责人(会计主管人员)杨敏声明"
+    },
+    {
+      "name": "杨兴荣",
+      "role": "董事、总经理",
+      "quote": "2014年06月至今，任世纪恒通科技股份有限公司董事、总经理。"
+    },
+    {
+      "name": "陶正林",
+      "role": "董事、副总经理",
+      "quote": "2019年05月至今，任世纪恒通科技股份有限公司董事、副总经理。"
+    },
+    {
+      "name": "潘忠民",
+      "role": "独立董事",
+      "quote": "2020年09月至今，任世纪恒通科技股份有限公司独立董事。"
+    },
+    {
+      "name": "邓鹏",
+      "role": "独立董事",
+      "quote": "2020年06月至今，任世纪恒通科技股份有限公司独立董事。"
+    },
+    {
+      "name": "钟广宏",
+      "role": "独立董事",
+      "quote": "2023年9月至今，任世纪恒通科技股份有限公司独立董事。"
+    },
+    {
+      "name": "刘嫚丽",
+      "role": "职工代表董事",
+      "quote": "2025年11月27日，公司召开临时职工代表大会，选举产生1名职工代表董事。"
+    },
+    {
+      "name": "李建州",
+      "role": "副总经理、技术总监",
+      "quote": "2014年07月至今，任世纪恒通科技股份有限公司副总经理、技术总监。"
+    },
+    {
+      "name": "付丁",
+      "role": "副总经理",
+      "quote": "2014年06月至今，任世纪恒通科技股份有限公司副总经理。"
+    },
+    {
+      "name": "龙莎莎",
+      "role": "副总经理",
+      "quote": "2014年09月至今，任世纪恒通科技股份有限公司副总经理。"
+    },
+    {
+      "name": "陈冲",
+      "role": "副总经理",
+      "quote": "2023年09月至今任世纪恒通科技股份有限公司副总经理，车主生态事业部总经理。"
+    },
+    {
+      "name": "任先勤",
+      "role": "副总经理、董事会秘书",
+      "quote": "2023年11月至今，任世纪恒通科技股份有限公司副总经理、董事会秘书。"
+    },
+    {
+      "name": "张潇予",
+      "role": "副总经理、人力资源总监",
+      "quote": "2024年08月至今任世纪恒通科技股份有限公司副总经理、人力资源总监。"
+    },
+    {
+      "name": "吕海英",
+      "role": "财务总监",
+      "quote": "2026年3月起，任世纪恒通科技股份有限公司财务总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国移动通信集团辽宁有限公司",
+      "relation_type": "customer",
+      "business_details": "保险降损基础运营服务及保险降损增值运营服务",
+      "quote": "合同标的 保险降损基础运营服务及保险降损增值运营服务 对方当事人 中国移动通信集团辽宁有限公司"
+    },
+    {
+      "name": "湖北三沐网络科技有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "序号 3 供应商名称 湖北三沐网络科技有限公司"
+    },
+    {
+      "name": "贵阳风驰科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "贵阳风驰 指 贵阳风驰科技有限公司，公司子公司"
+    },
+    {
+      "name": "青海合影信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "青海合影 指 青海合影信息技术有限公司，公司子公司"
+    },
+    {
+      "name": "长春三赢信息技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "长春三赢 指 长春三赢信息技术有限公司，公司子公司"
+    },
+    {
+      "name": "深圳市车主云科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司子公司",
+      "quote": "深圳车主云 指 深圳市车主云科技有限责任公司，公司子公司"
+    },
+    {
+      "name": "深圳市林析科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司孙公司",
+      "quote": "深圳林析 指 深圳市林析科技有限公司，公司孙公司"
+    },
+    {
+      "name": "贵州黔通智联科技股份有限公司",
+      "relation_type": "investor",
+      "business_details": "公司联营企业（参股13%）",
+      "quote": "黔通智联 指 贵州黔通智联科技股份有限公司，公司联营企业"
+    },
+    {
+      "name": "深圳市泊链软件有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司联营企业",
+      "quote": "深圳泊链 指 深圳泊链软件有限公司，公司联营企业"
+    },
+    {
+      "name": "深圳市云宏达科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司联营企业",
+      "quote": "深圳云宏达 指 深圳市云宏达科技有限公司，公司联营企业"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "车主信息服务",
+      "segment_type": "product_line",
+      "revenue_amount": "385,953,677.53元",
+      "revenue_proportion": "36.46%",
+      "gross_margin": "6.92%",
+      "yoy_change": "-21.36%",
+      "quote": "车主信息服务 385,953,677.53 36.46% 490,800,607.30 40.59% -21.36% ... 毛利率 6.92% -12.79%"
+    },
+    {
+      "name": "生活信息服务",
+      "segment_type": "product_line",
+      "revenue_amount": "406,451,001.46元",
+      "revenue_proportion": "38.39%",
+      "gross_margin": "34.94%",
+      "yoy_change": "-14.89%",
+      "quote": "生活信息服务 406,451,001.46 38.39% 477,575,447.52 39.49% -14.89% ... 毛利率 34.94% 9.20%"
+    },
+    {
+      "name": "商务流程服务",
+      "segment_type": "product_line",
+      "revenue_amount": "265,273,397.60元",
+      "revenue_proportion": "25.06%",
+      "gross_margin": "16.96%",
+      "yoy_change": "10.67%",
+      "quote": "商务流程服务 265,273,397.60 25.06% 239,699,455.18 19.82% 10.67% ... 毛利率 16.96% -2.74%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "行业领先的覆盖密度",
+      "period": "截至2025年末",
+      "quote": "车后服务领域合作门店已形成行业领先的覆盖密度。"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "深度合作",
+      "period": null,
+      "quote": "生活服务领域与罗森、顺丰、滴滴、京东等优质服务商达成深度合作。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "车主服务支撑平台开发及技术升级项目",
+      "project_type": "fundraising_project",
+      "location": "全国范围",
+      "investment_amount": "18,330.81万元",
+      "designed_capacity": null,
+      "progress": "72.86%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "车主服务支撑平台开发及技术升级项目... 投资总额 18,330.81... 投资进度 72.86%... 达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "大客户开发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": "深圳",
+      "investment_amount": "6,626.08万元",
+      "designed_capacity": null,
+      "progress": "78.39%",
+      "expected_completion_time": "已结项",
+      "quote": "大客户开发中心建设项目... 投资总额 6,626.08... 投资进度 78.39%... 达到预定可使用状态日期 2025年12月31日"
+    },
+    {
+      "name": "世纪恒通服务网络升级建设项目",
+      "project_type": "fundraising_project",
+      "location": "全国",
+      "investment_amount": "8,511.46万元",
+      "designed_capacity": null,
+      "progress": "89.07%",
+      "expected_completion_time": "已结项",
+      "quote": "世纪恒通服务网络升级建设项目... 投资总额 8,511.46... 投资进度 89.07%... 达到预定可使用状态日期 2025年12月31日"
+    },
+    {
+      "name": "贵阳世纪恒通信息产业中心项目",
+      "project_type": "construction_project",
+      "location": "贵阳",
+      "investment_amount": "337,568,299.00元（在建工程期末余额）",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "在建工程 337,568,299.00 11.78% 145,460,757.48 6.33% 5.45% 主要系世纪恒通信息产业中心项目建设支出增加所致"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "大中台+小应用技术体系",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司依托自主研发的“大中台+小应用”技术体系，构建了业内领先的数字权益流通生态。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "49项专利（其中发明专利13项）",
+      "quote": "截至2025年末，公司累计拥有49项专利（其中发明专利13项）。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "275项软件著作权",
+      "quote": "275项软件著作权。"
+    },
+    {
+      "name": "CMMI五级认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "报告期内，公司再次通过CMMI五级国际认证。"
+    },
+    {
+      "name": "ISO22301业务连续性管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "首次通过ISO22301业务连续性管理体系认证。"
+    },
+    {
+      "name": "TMMI三级测试能力成熟度模型集成认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "TMMI三级测试能力成熟度模型集成认证。"
+    },
+    {
+      "name": "GB/T45398-2025国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司参与制定的GB/T45398-2025国家标准正式发布。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "87.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 923,036,016.37 前五名客户合计销售金额占年度销售总额比例 87.19%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "49.52%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 524,231,325.69 49.52%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "19.40%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 163,828,797.91 前五名供应商合计采购金额占年度采购总额比例 19.40%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.32%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 53,396,263.04 6.32%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济与市场环境波动风险：公司主营业务聚焦于为金融机构、电信运营商、互联网企业及高速公路集团等大型客户提供用户增值与业务拓展服务。当前，数字经济正处于快速发展阶段，行业竞争日趋激烈，叠加宏观经济环境的不确定性，可能导致下游市场需求发生波动，进而对公司业务增长及盈利能力带来一定挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济与市场环境波动风险... 当前，数字经济正处于快速发展阶段，行业竞争日趋激烈..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术迭代及服务升级风险：随着市场需求的持续变化以及客户业务的加速升级，公司作为专业的信息技术服务商，面临技术迭代与服务能力持续提升的双重压力。若公司无法维持充足的研发投入，或难以吸引和留住高端技术人才，可能导致技术优势逐步弱化。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、技术迭代及服务升级风险... 若公司无法维持充足的研发投入，或难以吸引和留住高端技术人才..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "资金管理风险（应收账款回收及现金流波动）：公司主要客户集中在运营商、保险机构、商业银行及大型高速公路集团等优质企业领域，该类客户普遍实行较为严格的预算管理与分级审批制度，付款周期相对较长。同时，公司采购端以中小型资源方为主，结算周期较短。两端结算节奏的错配导致营运资金占用较为明显。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、资金管理风险（应收账款回收及现金流波动）... 两端结算节奏的错配导致营运资金占用较为明显。"
+    },
+    {
+      "risk_type": "other",
+      "description": "业务结构调整带来的战略执行风险：随着公司资产规模持续增长、员工层次日趋多元、业务结构持续优化，公司在战略推进过程中面临的不确定性因素有所增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、业务结构调整带来的战略执行风险... 公司在战略推进过程中面临的不确定性因素有所增加。"
+    }
+  ]
+}

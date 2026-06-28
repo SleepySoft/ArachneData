@@ -1,0 +1,527 @@
+{
+  "company_name_mentioned": "陕西广电网络传媒（集团）股份有限公司",
+  "produces": [
+    {
+      "name": "有线电视业务",
+      "type": "service",
+      "revenue_proportion": "收入10.22亿元，占营业收入92.71%",
+      "quote": "通过有线、无线、户户通等方式向陕西省内用户提供电视节目收视、视频点播、时移回看、互动增值等业务"
+    },
+    {
+      "name": "数据业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "通过向陕西省内客户提供互联网接入服务，收取有线宽带使用费。主要包括向大众客户提供宽带接入服务收取的数据宽带业务收入和向集团客户提供专线接入、虚拟专网、视频监控等服务收取的专网专线业务收入"
+    },
+    {
+      "name": "平台建设、工程施工及商品销售",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "通过向党政机关、企事业单位等集团客户提供平台建设、工程施工、系统集成等服务，获得项目建设、施工、商品销售类业务收入"
+    },
+    {
+      "name": "广电5G通讯业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主要通过向个人或企事业单位用户提供5G通讯、物联网等服务，获取通讯服务费收入"
+    },
+    {
+      "name": "商品销售业务",
+      "type": "device",
+      "revenue_proportion": "收入0.40亿元，占营业收入3.65%",
+      "quote": "商品销售业务收入...占营业收入3.65%"
+    },
+    {
+      "name": "广告代理业务",
+      "type": "service",
+      "revenue_proportion": "收入0.40亿元，占营业收入3.62%",
+      "quote": "广告代理业务收入...占营业收入3.62%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "人工成本",
+      "target_product": "有线电视行业",
+      "cost_proportion": "占总成本11.43%",
+      "quote": "人工成本...占总成本11.43%"
+    },
+    {
+      "name": "网络运行维护成本",
+      "target_product": "有线电视行业",
+      "cost_proportion": "占总成本8.73%",
+      "quote": "网络运行维护成本...占总成本8.73%"
+    },
+    {
+      "name": "固定资产折旧",
+      "target_product": "有线电视行业",
+      "cost_proportion": "占总成本24.82%",
+      "quote": "固定资产折旧...占总成本24.82%"
+    },
+    {
+      "name": "宽带月租费",
+      "target_product": "有线电视行业",
+      "cost_proportion": "占总成本1.99%",
+      "quote": "宽带月租费...占总成本1.99%"
+    },
+    {
+      "name": "节目源费用",
+      "target_product": "有线电视行业",
+      "cost_proportion": "占总成本1.11%",
+      "quote": "节目源费用...占总成本1.11%"
+    },
+    {
+      "name": "长期待摊费用摊销",
+      "target_product": "有线电视行业",
+      "cost_proportion": "占总成本0.45%",
+      "quote": "长期待摊费用摊销...占总成本0.45%"
+    },
+    {
+      "name": "加密费",
+      "target_product": "有线电视行业",
+      "cost_proportion": "占总成本1.14%",
+      "quote": "加密费...占总成本1.14%"
+    },
+    {
+      "name": "商品销售成本",
+      "target_product": "商品销售业",
+      "cost_proportion": "占总成本1.67%",
+      "quote": "商品销售成本...占总成本1.67%"
+    },
+    {
+      "name": "广告代理成本",
+      "target_product": "广告代理业",
+      "cost_proportion": "占总成本1.74%",
+      "quote": "广告代理成本...占总成本1.74%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家庭、酒店等大众客户",
+      "source_product": "高标清数字电视、4K 超高清电视、付费电视频道等直播业务产品，时移回看、互动点播、增值应用、互联网视频等互动增值业务产品，大带宽数据业务产品，广电5G语音通话、移动互联网等移动业务产品，以及数字家庭、智慧酒店等业务产品",
+      "quote": "对家庭、酒店等大众客户，公司通过有线、无线、户户通、广电5G等方式提供..."
+    },
+    {
+      "name": "党政机关、企事业单位等集团客户",
+      "source_product": "专网专线、视频监控、广电5G行业应用、物联网、应急广播、系统集成、融合媒体、文化数字化、平安社区、数字乡村、算力服务、固定语音通话等业务产品",
+      "quote": "对党政机关、企事业单位等集团客户，除上述业务产品外，还可以提供专网专线、视频监控、广电5G行业应用、物联网、应急广播、系统集成、融合媒体、文化数字化、平安社区、数字乡村、算力服务、固定语音通话等业务产品。"
+    },
+    {
+      "name": "雪亮工程",
+      "source_product": "平台建设、工程施工及商品销售",
+      "quote": "部分项目，例如雪亮工程、融媒体等项目，在公司承担建设任务、建设完成之后由公司负责日常运营维护或提供线路租赁等长期持续服务"
+    },
+    {
+      "name": "融媒体",
+      "source_product": "平台建设、工程施工及商品销售",
+      "quote": "部分项目，例如雪亮工程、融媒体等项目，在公司承担建设任务、建设完成之后由公司负责日常运营维护或提供线路租赁等长期持续服务"
+    },
+    {
+      "name": "数字乡村",
+      "source_product": "平台建设、工程施工及商品销售",
+      "quote": "数字乡村业务全年新签约项目29个，累计落地项目266个。"
+    },
+    {
+      "name": "文化数字化",
+      "source_product": "文化大数据专网、数据库及各类应用产品",
+      "quote": "依托文化大数据专网、数据库及各类应用产品，已服务全省各级党政机关、文博机构、基层文化单位客户60余家"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "韩普",
+      "role": "董事长、总经理",
+      "quote": "公司负责人韩普、主管会计工作负责人张江波及会计机构负责人（会计主管人员）许十全声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张江波",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人韩普、主管会计工作负责人张江波及会计机构负责人（会计主管人员）许十全声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "许十全",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人韩普、主管会计工作负责人张江波及会计机构负责人（会计主管人员）许十全声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张云",
+      "role": "副总经理、董事会秘书",
+      "quote": "张云...2024年9月起任本公司副总经理。"
+    },
+    {
+      "name": "杨鹏",
+      "role": "副总经理",
+      "quote": "杨鹏...2024年9月起任本公司副总经理。"
+    },
+    {
+      "name": "樊紫苑",
+      "role": "副总经理",
+      "quote": "樊紫苑...2024年9月起任本公司副总经理。"
+    },
+    {
+      "name": "李伟",
+      "role": "副总经理",
+      "quote": "李伟...2024年9月起任本公司副总经理。"
+    },
+    {
+      "name": "海军",
+      "role": "副总经理",
+      "quote": "海军...2024年9月起任本公司副总经理。"
+    },
+    {
+      "name": "鲁吉安",
+      "role": "董事",
+      "quote": "鲁吉安...2024年12月起任本公司董事。"
+    },
+    {
+      "name": "李新娟",
+      "role": "董事",
+      "quote": "李新娟...2024年12月起任本公司董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "陕西广电融媒体集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的控股股东",
+      "quote": "广电融媒体集团 指 陕西广电融媒体集团有限公司（陕西广播电视台），原陕西广播电视集团有限公司（简称广电集团），本公司的第一大股东"
+    },
+    {
+      "name": "中国广播电视网络集团有限公司",
+      "relation_type": "competitor",
+      "business_details": null,
+      "quote": "中国广电集团 指 中国广播电视网络集团有限公司，中国广电股份的控股股东，与中广电股份统称中国广电"
+    },
+    {
+      "name": "中国广电网络股份有限公司",
+      "relation_type": "investor",
+      "business_details": "本公司的参股公司",
+      "quote": "中国广电股份 指 中国广电网络股份有限公司，广电全国一网主体，中国广电集团的控股子公司，本公司的参股公司"
+    },
+    {
+      "name": "陕西广电丝路影视文化传播有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司",
+      "quote": "丝路影视 指 陕西广电丝路影视文化传播有限公司，本公司的全资子公司"
+    },
+    {
+      "name": "宝鸡广电网络传媒有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的控股子公司",
+      "quote": "宝鸡广电 指 宝鸡广电网络传媒有限责任公司，本公司的控股子公司"
+    },
+    {
+      "name": "深圳市茁壮网络股份有限公司",
+      "relation_type": "investor",
+      "business_details": "本公司的参股公司",
+      "quote": "茁壮网络 指 深圳市茁壮网络股份有限公司，本公司的参股公司"
+    },
+    {
+      "name": "陕西广播产业集团有限公司等",
+      "relation_type": "supplier",
+      "business_details": "从关联方采购商品或服务",
+      "quote": "从关联方采购...与陕西广播产业集团等关联方发生广告代理或广告发布、活动运营，开展媒体融合等业务"
+    },
+    {
+      "name": "陕西乐家电视购物有限责任公司等",
+      "relation_type": "customer",
+      "business_details": "为关联方提供服务",
+      "quote": "为关联方提供服务...向乐家购物等关联方提供网络资源出租及维护服务、新闻热线平台运营维护服务、媒资服务、节目制作等"
+    },
+    {
+      "name": "陕西省广播电视信息网络股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "向关联方租赁房产",
+      "quote": "房屋租赁...租赁广电股份房产等"
+    },
+    {
+      "name": "陕西广电华通投资控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的控股子公司",
+      "quote": "华通控股 指 陕西广电华通投资控股有限公司，本公司的控股子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "有线电视业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,021,799,349.60元",
+      "revenue_proportion": null,
+      "gross_margin": "-3.46%",
+      "yoy_change": "减少9.14个百分点",
+      "quote": "有线电视业 1,021,799,349.60 1,057,110,085.42 -3.46 -25.61 -18.40 减少9.14个百分点"
+    },
+    {
+      "name": "商品销售业务",
+      "segment_type": "product_line",
+      "revenue_amount": "40,287,907.60元",
+      "revenue_proportion": null,
+      "gross_margin": "22.09%",
+      "yoy_change": "增加16.40个百分点",
+      "quote": "商品销售业 40,287,907.60 31,388,132.90 22.09 -68.84 -74.26 增加16.40个百分点"
+    },
+    {
+      "name": "广告代理业务",
+      "segment_type": "product_line",
+      "revenue_amount": "39,966,456.28元",
+      "revenue_proportion": null,
+      "gross_margin": "17.92%",
+      "yoy_change": "减少3.98个百分点",
+      "quote": "广告代理业 39,966,456.28 32,806,020.41 17.92 -2.07 2.91 减少3.98个百分点"
+    },
+    {
+      "name": "关中地区",
+      "segment_type": "region",
+      "revenue_amount": "775,635,373.68元",
+      "revenue_proportion": null,
+      "gross_margin": "8.15%",
+      "yoy_change": "减少5.84个百分点",
+      "quote": "关中地区 775,635,373.68 712,394,715.24 8.15 -31.57 -26.92 减少5.84个百分点"
+    },
+    {
+      "name": "陕南地区",
+      "segment_type": "region",
+      "revenue_amount": "155,760,960.30元",
+      "revenue_proportion": null,
+      "gross_margin": "-33.25%",
+      "yoy_change": "减少22.26个百分点",
+      "quote": "陕南地区 155,760,960.30 207,554,775.30 -33.25 -28.82 -14.54 减少22.26个百分点"
+    },
+    {
+      "name": "陕北地区",
+      "segment_type": "region",
+      "revenue_amount": "171,666,353.21元",
+      "revenue_proportion": null,
+      "gross_margin": "-17.29%",
+      "yoy_change": "增加1.90个百分点",
+      "quote": "陕北地区 171,666,353.21 201,354,748.19 -17.29 -11.65 -13.06 增加1.90个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "有线电视主终端",
+      "metric_type": "other",
+      "value": "480.10万个",
+      "period": "截至2025年末",
+      "quote": "截至2025年末，公司在网有线电视主终端480.10万个"
+    },
+    {
+      "product": "‘秦岭云’智能终端",
+      "metric_type": "other",
+      "value": "119.86万个",
+      "period": "截至2025年末",
+      "quote": "其中“秦岭云”智能终端119.86万个"
+    },
+    {
+      "product": "个人宽带终端",
+      "metric_type": "other",
+      "value": "130.67万个",
+      "period": "截至2025年末",
+      "quote": "个人宽带终端130.67万个"
+    },
+    {
+      "product": "广电5G移动用户",
+      "metric_type": "other",
+      "value": "112.65万户",
+      "period": "截至2025年末",
+      "quote": "广电5G移动用户112.65万户"
+    },
+    {
+      "product": "无线数字电视终端",
+      "metric_type": "other",
+      "value": "11.35万个",
+      "period": "截至2025年末",
+      "quote": "无线数字电视终端11.35万个"
+    },
+    {
+      "product": "直播卫星户户通终端",
+      "metric_type": "other",
+      "value": "32.03万个",
+      "period": "截至2025年末",
+      "quote": "直播卫星户户通终端32.03万个"
+    },
+    {
+      "product": "广电共建共享基站",
+      "metric_type": "other",
+      "value": "14.55万个",
+      "period": "截至2025年末",
+      "quote": "广电共建共享基站总量达14.55万个"
+    },
+    {
+      "product": "全省有线电视覆盖用户",
+      "metric_type": "other",
+      "value": "1,304万户",
+      "period": "截至2025年末",
+      "quote": "截至2025年末，全省有线电视覆盖用户1,304万户"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "全省县级以上城区光网全覆盖",
+      "project_type": "capacity_expansion",
+      "location": "陕西省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "实现了全省县级以上城区光网全覆盖",
+      "expected_completion_time": null,
+      "quote": "实现了全省县级以上城区光网全覆盖"
+    },
+    {
+      "name": "广电5G信号城镇及重点区域全覆盖",
+      "project_type": "capacity_expansion",
+      "location": "陕西省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "实现了广电5G信号城镇及重点区域全覆盖",
+      "expected_completion_time": null,
+      "quote": "实现了广电5G信号城镇及重点区域全覆盖"
+    },
+    {
+      "name": "市级融媒体建设",
+      "project_type": "construction_project",
+      "location": "咸阳、汉中、渭南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "年内中标咸阳、汉中、渭南3个市级融媒体中心平台建设项目，累计签约落地7个市级融媒体平台。",
+      "expected_completion_time": null,
+      "quote": "年内中标咸阳、汉中、渭南3个市级融媒体中心平台建设项目，累计签约落地7个市级融媒体平台。"
+    },
+    {
+      "name": "数字乡村业务",
+      "project_type": "construction_project",
+      "location": "全省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全年新签约项目29个，累计落地项目266个。",
+      "expected_completion_time": null,
+      "quote": "数字乡村业务全年新签约项目29个，累计落地项目266个。"
+    },
+    {
+      "name": "文化大数据专网",
+      "project_type": "capacity_expansion",
+      "location": "全省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进“网库结合”文化专网服务模式，全年签约文化专网项目24个，累计接入专网近70个。",
+      "expected_completion_time": null,
+      "quote": "推进“网库结合”文化专网服务模式，全年签约文化专网项目24个，累计接入专网近70个。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "‘秦岭云’算力网络一体化架构",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "构建起“秦岭云”算力网络一体化架构，形成“通用算力+智算算力”互联服务体系"
+    },
+    {
+      "name": "基于终端预缓存的直播节目快速换台方法",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "1项发明专利",
+      "quote": "报告期内共申请1项发明专利...分别为：发明专利“基于终端预缓存的直播节目快速换台方法”"
+    },
+    {
+      "name": "文化共同体平台（电脑端）",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "2项软件著作权",
+      "quote": "2项软件著作权...软件著作权“文化共同体平台（电脑端）”"
+    },
+    {
+      "name": "文化共同体平台（移动端）",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "软件著作权“文化共同体平台（移动端）”"
+    },
+    {
+      "name": "IDC数据中心",
+      "asset_type": "other",
+      "related_product": "秦岭云",
+      "quantitative_info": "符合国家A级、国际T3+标准",
+      "quote": "依托在西咸新区建成符合国家A级、国际T3+标准的IDC数据中心"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "9.74%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额10,745.38万元，占年度销售总额9.74%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "8.37%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额9,338.59万元，占年度采购总额8.37%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术升级迭代加快，投资人才压力倍增。5G-A/6G、FTTR、AI、VR/AR等技术快速演进，既带来机遇，也加大了技术选型的决策风险和投资压力。公司的核心技术与平台对外依赖度较高，自主可控能力有待加强。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术升级迭代加快，投资人才压力倍增。...公司的核心技术与平台对外依赖度较高，自主可控能力有待加强。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "传统业务加速萎缩，核心基本盘承压。近年来，传统有线电视用户流失加剧，电信运营商与互联网企业通过价格战、内容生态战及移动端优先策略，持续挤压传统广电业务空间。",
+      "related_entity": "电信运营商、互联网企业",
+      "related_product": "有线电视业务",
+      "quote": "传统业务加速萎缩，核心基本盘承压。近年来，传统有线电视用户流失加剧，电信运营商与互联网企业通过价格战、内容生态战及移动端优先策略，持续挤压传统广电业务空间。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "转型赛道竞争激烈，新旧动能接续乏力。在传统业务收入下滑的同时，公司在网络视听、信息科技等领域面临竞争白热化，技术储备、生态构建与资本实力相对薄弱，导致拓展新业务的优势不足、市场窗口期不断收窄。",
+      "related_entity": null,
+      "related_product": "广电5G、云网等新业务",
+      "quote": "转型赛道竞争激烈，新旧动能接续乏力。在传统业务收入下滑的同时，公司在网络视听、信息科技等领域面临竞争白热化，技术储备、生态构建与资本实力相对薄弱，导致拓展新业务的优势不足、市场窗口期不断收窄。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司资产负债率为94.53%，存在偿债压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司资产负债率为94.53%。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户集中度较高，对单一客户的依赖可能带来风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内向单个客户的销售比例超过总额的50%、前5名客户中存在新增客户的或严重依赖于少数客户的情形...不适用"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "供应商集中度较高，对单一供应商的依赖可能带来风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "报告期内向单个供应商的采购比例超过总额的50%、前5名供应商中存在新增供应商的或严重依赖于少数供应商的情形...不适用"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存在存货跌价风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产负债表日，存货采用成本与可变现净值孰低计量，按照存货成本高于可变现净值的差额计提存货跌价准备。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "存在多起诉讼、仲裁事项，可能对公司造成损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大诉讼、仲裁事项...√本年度公司有重大诉讼、仲裁事项"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "长期股权投资等资产存在减值风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值损失（损失以“－”号填列） -36,803,490.41"
+    }
+  ]
+}

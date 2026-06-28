@@ -1,0 +1,506 @@
+{
+  "company_name_mentioned": "华润微电子有限公司",
+  "produces": [
+    {
+      "name": "功率半导体（MOSFET, IGBT, 二极管等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是中国领先的拥有芯片设计、掩模制造、晶圆制造、封装测试等全产业链一体化经营能力的半导体企业，产品聚焦于功率半导体、智能传感器与智能控制等领域"
+    },
+    {
+      "name": "智能传感器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是中国领先的拥有芯片设计、掩模制造、晶圆制造、封装测试等全产业链一体化经营能力的半导体企业，产品聚焦于功率半导体、智能传感器与智能控制等领域"
+    },
+    {
+      "name": "智能控制（MCU等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是中国领先的拥有芯片设计、掩模制造、晶圆制造、封装测试等全产业链一体化经营能力的半导体企业，产品聚焦于功率半导体、智能传感器与智能控制等领域"
+    },
+    {
+      "name": "半导体产品与系统解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "为客户提供丰富的半导体产品与系统解决方案"
+    },
+    {
+      "name": "掩模制造服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司还提供掩模制造服务"
+    },
+    {
+      "name": "晶圆制造服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司制造与服务业务主要提供半导体开放式晶圆制造、封装测试等服务"
+    },
+    {
+      "name": "封装测试服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司制造与服务业务主要提供半导体开放式晶圆制造、封装测试等服务"
+    },
+    {
+      "name": "产品与方案板块",
+      "type": "service",
+      "revenue_proportion": "6,027,878,300.17",
+      "quote": "产品与方案 22.17 16.98 15.64"
+    },
+    {
+      "name": "制造与服务板块",
+      "type": "service",
+      "revenue_proportion": "4,792,782,896.97",
+      "quote": "制造与服务 31.97 2.24 5.93"
+    }
+  ],
+  "procures": [
+    {
+      "name": "硅片",
+      "target_product": "晶圆",
+      "cost_proportion": null,
+      "quote": "晶圆制造服务主要采购原材料有硅片、化学品等"
+    },
+    {
+      "name": "化学品",
+      "target_product": "晶圆",
+      "cost_proportion": null,
+      "quote": "晶圆制造服务主要采购原材料有硅片、化学品等"
+    },
+    {
+      "name": "引线框",
+      "target_product": "封装",
+      "cost_proportion": null,
+      "quote": "封装测试服务主要采购原材料有引线框、塑封料等"
+    },
+    {
+      "name": "塑封料",
+      "target_product": "封装",
+      "cost_proportion": null,
+      "quote": "封装测试服务主要采购原材料有引线框、塑封料等"
+    },
+    {
+      "name": "原材料",
+      "target_product": "生产",
+      "cost_proportion": null,
+      "quote": "公司制造与服务板块主要采用‘以产定采’的采购模式。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车电子",
+      "source_product": "功率半导体、智能传感器、智能控制",
+      "quote": "产品面向汽车电子、计算机、网络通信、工业控制、医疗电子、消费电子等市场的电机、电池、电源三大应用领域"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "功率半导体、智能传感器、智能控制",
+      "quote": "产品面向汽车电子、计算机、网络通信、工业控制、医疗电子、消费电子等市场的电机、电池、电源三大应用领域"
+    },
+    {
+      "name": "新能源（光伏、储能、充电桩）",
+      "source_product": "功率半导体",
+      "quote": "受益于全球‘碳达峰、碳中和’目标推进及清洁能源加速应用，2025年全国光伏产业链主要环节保持强劲发展势头"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "功率半导体、智能传感器、智能控制",
+      "quote": "产品面向汽车电子、计算机、网络通信、工业控制、医疗电子、消费电子等市场的电机、电池、电源三大应用领域"
+    },
+    {
+      "name": "通信设备",
+      "source_product": "功率半导体、智能传感器、智能控制",
+      "quote": "报告期内，公司产品与方案板块下游终端应用主要围绕四大领域，其中泛新能源领域（车类及新能源）占比44%，消费电子领域占比34%，工业设备占比12%，通信设备占比10%。"
+    },
+    {
+      "name": "服务器、数据中心、AI算力",
+      "source_product": "功率半导体、智能控制",
+      "quote": "在AI服务器领域，公司围绕DrMos功率模块、多相电源控制器、板级POL、硅基及第三代半导体器件等产品进行布局"
+    },
+    {
+      "name": "家电",
+      "source_product": "功率半导体、智能控制",
+      "quote": "IPM模块在白色家电、工业控制等主流应用领域核心场景销售占比超过80%"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "何小龙",
+      "role": "董事长",
+      "quote": "公司负责人何小龙、主管会计工作负责人吴国屹及会计机构负责人（会计主管人员）吴从韵声明"
+    },
+    {
+      "name": "吴国屹",
+      "role": "董事、财务总监、董事会秘书",
+      "quote": "吴国屹 2019年至今任公司董事会秘书，2021年至今任公司董事、财务总监"
+    },
+    {
+      "name": "窦健",
+      "role": "副总裁",
+      "quote": "窦健 副总裁 男 2024-12-30 2028-05-22"
+    },
+    {
+      "name": "段军",
+      "role": "副总裁",
+      "quote": "段军 副总裁 男 2021-06-07 2028-05-22"
+    },
+    {
+      "name": "庄恒前",
+      "role": "副总裁",
+      "quote": "庄恒前 副总裁 男 2022-12-05 2028-05-22"
+    },
+    {
+      "name": "张森",
+      "role": "副总裁",
+      "quote": "张森 副总裁 男 2026-03-09 2028-05-22"
+    },
+    {
+      "name": "王小虎",
+      "role": "董事",
+      "quote": "王小虎 董事 男 2022-11-11 2028-05-22"
+    },
+    {
+      "name": "李虹",
+      "role": "董事、总裁（离任）",
+      "quote": "李虹 董事、总裁（离任） 男 2020-11-05 2025-04-03"
+    },
+    {
+      "name": "李巍巍",
+      "role": "董事",
+      "quote": "李巍巍 董事 男 2021-09-29 2028-05-22"
+    },
+    {
+      "name": "肖宁",
+      "role": "董事",
+      "quote": "肖宁 董事 男 2022-11-11 2028-05-22"
+    },
+    {
+      "name": "杨卓",
+      "role": "董事",
+      "quote": "杨卓 董事 男 2025-09-19 2028-05-22"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华润集团（微电子）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "CRH(Micro)、华润集团（微电子）、控股股东 指 CRH(Microelectronics)Limited（华润集团（微电子）有限公司），本公司的控股股东"
+    },
+    {
+      "name": "中国华润有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "中国华润、实际控制人 指 中国华润有限公司，本公司的实际控制人"
+    },
+    {
+      "name": "华润（集团）有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "CRH、华润集团 指 China Resources (Holdings) Company Limited（华润（集团）有限公司）"
+    },
+    {
+      "name": "无锡华微",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "无锡华微 指 无锡华润微电子有限公司"
+    },
+    {
+      "name": "重庆华微",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "重庆华微 指 华润微电子（重庆）有限公司"
+    },
+    {
+      "name": "润安科技",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "润安科技 指 华润润安科技（重庆）有限公司"
+    },
+    {
+      "name": "润西微电子",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，12吋生产线项目",
+      "quote": "润西微电子 指 润西微电子（重庆）有限公司"
+    },
+    {
+      "name": "润鹏半导体",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，12吋生产线项目",
+      "quote": "润鹏半导体 指 润鹏半导体（深圳）有限公司"
+    },
+    {
+      "name": "无锡迪思",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "无锡迪思 指 无锡迪思微电子股份有限公司"
+    },
+    {
+      "name": "立信会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "立信会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告"
+    },
+    {
+      "name": "国家集成电路产业投资基金股份有限公司",
+      "relation_type": "investor",
+      "business_details": "战略投资者",
+      "quote": "国家集成电路产业投资基金股份有限公司作为公司战略投资者占据一席董事席位"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "产品与方案",
+      "segment_type": "business_unit",
+      "revenue_amount": "6,027,878,300.17",
+      "revenue_proportion": null,
+      "gross_margin": "22.17",
+      "yoy_change": "16.98",
+      "quote": "产品与方案 22.17 16.98 15.64"
+    },
+    {
+      "name": "制造与服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "4,792,782,896.97",
+      "revenue_proportion": null,
+      "gross_margin": "31.97",
+      "yoy_change": "2.24",
+      "quote": "制造与服务 31.97 2.24 5.93"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "9,684,498,916.57",
+      "revenue_proportion": null,
+      "gross_margin": "26.62",
+      "yoy_change": "10.16",
+      "quote": "境内 26.62 10.16 12.06"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,136,162,280.57",
+      "revenue_proportion": null,
+      "gross_margin": "25.55",
+      "yoy_change": "8.25",
+      "quote": "境外 25.55 8.25 6.61"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "6,729,268,372.60",
+      "revenue_proportion": null,
+      "gross_margin": "31.55",
+      "yoy_change": "7.57",
+      "quote": "直销 31.55 7.57 11.57"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,091,392,824.54",
+      "revenue_proportion": null,
+      "gross_margin": "18.21",
+      "yoy_change": "14.12",
+      "quote": "经销 18.21 14.12 11.29"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "产品与方案",
+      "metric_type": "production_volume",
+      "value": "468.61亿颗",
+      "period": "2025年",
+      "quote": "产品与方案 亿颗 468.61"
+    },
+    {
+      "product": "产品与方案",
+      "metric_type": "sales_volume",
+      "value": "467.19亿颗",
+      "period": "2025年",
+      "quote": "产品与方案 亿颗 467.19"
+    },
+    {
+      "product": "封装服务",
+      "metric_type": "production_volume",
+      "value": "69.14亿颗",
+      "period": "2025年",
+      "quote": "封装服务 亿颗 69.14"
+    },
+    {
+      "product": "晶圆制造",
+      "metric_type": "production_volume",
+      "value": "164.58万片",
+      "period": "2025年",
+      "quote": "晶圆制造 万片 164.58"
+    },
+    {
+      "product": "掩模制造",
+      "metric_type": "production_volume",
+      "value": "6.84万块",
+      "period": "2025年",
+      "quote": "掩模制造 万块 6.84"
+    },
+    {
+      "product": "6英寸晶圆",
+      "metric_type": "capacity",
+      "value": "约为23万片/月",
+      "period": null,
+      "quote": "公司目前拥有6英寸晶圆制造产能约为23万片/月"
+    },
+    {
+      "product": "8英寸晶圆",
+      "metric_type": "capacity",
+      "value": "约为14万片/月",
+      "period": null,
+      "quote": "8英寸晶圆制造产能约为14万片/月"
+    },
+    {
+      "product": "12英寸晶圆（重庆）",
+      "metric_type": "capacity",
+      "value": "约为3万片/月",
+      "period": null,
+      "quote": "公司参股的重庆12英寸晶圆生产线产能约为3万片/月"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "重庆12英寸功率半导体晶圆生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "重庆",
+      "investment_amount": null,
+      "designed_capacity": "3万片/月（2025年度达成）",
+      "progress": "产能完成爬坡和收入逐步增长",
+      "expected_completion_time": "2026全年保持较高的产能利用率",
+      "quote": "公司参股的两条12吋生产线项目，其中重庆12吋处于产能完成爬坡和收入逐步增长的阶段"
+    },
+    {
+      "name": "深圳12英寸集成电路生产线项目",
+      "project_type": "capacity_expansion",
+      "location": "深圳",
+      "investment_amount": null,
+      "designed_capacity": "预计2026年末产能将爬坡超3万片/月",
+      "progress": "处于产能爬坡的阶段",
+      "expected_completion_time": "2026年末",
+      "quote": "深圳12吋处于产能爬坡的阶段，重资产投资所带来的折旧对公司利润指标造成了一定影响"
+    },
+    {
+      "name": "先进封测基地项目（润安项目）",
+      "project_type": "capacity_expansion",
+      "location": "重庆",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "先进封测基地润安项目功率封装业务营收同比增长63%",
+      "expected_completion_time": null,
+      "quote": "先进封测基地润安项目功率封装业务营收同比增长63%"
+    },
+    {
+      "name": "高端掩模项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "90nm技术节点稳步推进客户验证；40nm技术节点已实现研发量产",
+      "expected_completion_time": null,
+      "quote": "高端掩模新线运营成效显著，产能利用率超90%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "BCD工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "功率IC、智能传感器、智能控制",
+      "quantitative_info": "国际领先",
+      "quote": "BCD工艺技术水平国际领先"
+    },
+    {
+      "name": "MEMS工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "智能传感器",
+      "quantitative_info": "国内领先",
+      "quote": "MEMS工艺等晶圆制造技术...国内领先"
+    },
+    {
+      "name": "GaN器件设计及工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "GaN功率器件",
+      "quantitative_info": "国际领先",
+      "quote": "GaN器件设计及工艺技术为国际领先"
+    },
+    {
+      "name": "SiC MOS/JBS系列产品设计和制造技术",
+      "asset_type": "core_technology",
+      "related_product": "SiC功率器件",
+      "quantitative_info": "国际先进水平",
+      "quote": "SiC MOS系列产品设计和制造技术...产品电参数达到国际标杆产品水平"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已获得授权并维持有效的专利共计2,547项",
+      "quote": "截至2025年末，公司已获得授权并维持有效的专利共计2,547项，较上年末增加195项，其中发明专利2,187项"
+    },
+    {
+      "name": "研发费用",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "11.68亿元，占营业收入比例10.57%",
+      "quote": "2025年，公司研发投入达到11.68亿元，占营业收入的比例10.57%"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "159,007.22万元，占年度销售总额14.69%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额159,007.22万元，占年度销售总额14.69%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "153,691.75万元，占年度采购总额16.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额153,691.75万元，占年度采购总额16.52%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "受宏观经济下行和功率半导体行业复苏不及预期等影响，公司汽车电子和工业控制营收体量或不及预期；以SiC为代表的第三代半导体的价格战愈演愈烈。",
+      "related_entity": null,
+      "related_product": "功率半导体， 第三代半导体",
+      "quote": "1、业务结构和转型风险...受宏观经济下行和功率半导体行业复苏不及预期等影响...在新产业领域，以SiC为代表的第三代半导体的价格战愈演愈烈"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "半导体上游原材料价格持续上行对公司的利润空间有所挤压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "半导体上游原材料价格持续上行也对公司的利润空间有所挤压"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司参股的12吋晶圆生产线仍处于上量期间，对公司整体的利润水平造成较大压力。",
+      "related_entity": "润西微电子、润鹏半导体",
+      "related_product": "12英寸晶圆",
+      "quote": "由于公司参股的12吋晶圆生产线仍处于上量期间，对公司整体的利润水平造成较大压力。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "特朗普2.0时代中美半导体科技战持续叠加关税升级，将影响上游IGBT、MOSFET等功率器件、MCU和PMIC等产品的复苏或不及预期。",
+      "related_entity": null,
+      "related_product": "IGBT, MOSFET, MCU, PMIC",
+      "quote": "特朗普2.0时代中美半导体科技战持续叠加关税升级，将影响上游IGBT、MOSFET等功率器件、MCU和PMIC等产品的复苏或不及预期"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司的公司治理结构与适用境内法律、法规和规范性文件的上市公司存在差异。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本公司的公司治理结构与适用境内法律、法规和规范性文件的上市公司存在差异的法律风险"
+    }
+  ]
+}

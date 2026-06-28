@@ -1,0 +1,424 @@
+{
+  "company_name_mentioned": "中闽能源股份有限公司",
+  "produces": [
+    {
+      "name": "风力发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司以风力发电、光伏发电等新能源发电项目的投资、开发、建设、运营为主营业务。"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司以风力发电、光伏发电等新能源发电项目的投资、开发、建设、运营为主营业务。"
+    },
+    {
+      "name": "生物质发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "光伏发电项目装机容量2万千瓦，生物质发电项目装机容量3万千瓦。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "生物质燃料",
+      "target_product": "生物质发电",
+      "cost_proportion": null,
+      "quote": "富锦市耀利生物质能源科技有限公司"
+    },
+    {
+      "name": "工程建设服务",
+      "target_product": "新能源项目",
+      "cost_proportion": null,
+      "quote": "中国水利水电第十六工程局有限公司"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网并网销售",
+      "source_product": "风力发电、光伏发电、生物质发电",
+      "quote": "公司主要通过新能源发电项目的开发、建设、运营等流程，将风能、太阳能等新能源进行开发并转换为电力后销售，取得收入。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郭政",
+      "role": "法定代表人、董事长、总经理",
+      "quote": "公司负责人郭政、主管会计工作负责人柳上莺及会计机构负责人（会计主管人员）俞宙声明"
+    },
+    {
+      "name": "柳上莺",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人柳上莺"
+    },
+    {
+      "name": "陈海荣",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 陈海荣"
+    },
+    {
+      "name": "俞宙",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）俞宙"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "福建省投资开发集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、投资集团 指 福建省投资开发集团有限责任公司"
+    },
+    {
+      "name": "福建中闽海上风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "风力发电",
+      "quote": "中闽海电 指 福建中闽海上风电有限公司"
+    },
+    {
+      "name": "中闽（福清）风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "风力发电",
+      "quote": "福清风电 指 中闽（福清）风电有限公司"
+    },
+    {
+      "name": "中闽（连江）风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "风力发电",
+      "quote": "连江风电 指 中闽（连江）风电有限公司"
+    },
+    {
+      "name": "中闽（平潭）风电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "风力发电",
+      "quote": "平潭风电 指 中闽（平潭）风电有限公司"
+    },
+    {
+      "name": "黑龙江富龙风力发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "风力发电",
+      "quote": "富龙风电 指 黑龙江富龙风力发电有限责任公司"
+    },
+    {
+      "name": "中闽（富锦）生物质热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "生物质发电",
+      "quote": "富锦热电 指 中闽（富锦）生物质热电有限公司"
+    },
+    {
+      "name": "中闽（哈密）能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光伏发电",
+      "quote": "哈密能源 指 中闽（哈密）能源有限公司"
+    },
+    {
+      "name": "中闽（福清）光伏发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光伏发电",
+      "quote": "福清光伏 指 中闽（福清）光伏发电有限公司"
+    },
+    {
+      "name": "西门子歌美飒可再生能源科技（中国）有限公司",
+      "relation_type": "supplier",
+      "business_details": "风电机组及附属设备供应商",
+      "quote": "西门子歌美飒 指 西门子歌美飒可再生能源科技（中国）有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "1,578,134,211.21元",
+      "revenue_proportion": null,
+      "gross_margin": "55.26%",
+      "yoy_change": null,
+      "quote": "分行业 营业收入 营业成本 毛利率（%） 电力 1,578,134,211.21 706,107,850.97 55.26"
+    },
+    {
+      "name": "风电",
+      "segment_type": "product_line",
+      "revenue_amount": "1,526,434,304.68元",
+      "revenue_proportion": null,
+      "gross_margin": "58.94%",
+      "yoy_change": null,
+      "quote": "分产品 营业收入 营业成本 毛利率（%） 风电 1,526,434,304.68 626,811,225.58 58.94"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "11,912,162.78元",
+      "revenue_proportion": null,
+      "gross_margin": "14.98%",
+      "yoy_change": null,
+      "quote": "光伏发电 11,912,162.78 10,127,479.36 14.98"
+    },
+    {
+      "name": "生物质发电",
+      "segment_type": "product_line",
+      "revenue_amount": "39,787,743.75元",
+      "revenue_proportion": null,
+      "gross_margin": "-73.85%",
+      "yoy_change": null,
+      "quote": "生物质发电 39,787,743.75 69,169,146.03 -73.85"
+    },
+    {
+      "name": "福建",
+      "segment_type": "region",
+      "revenue_amount": "1,474,451,670.40元",
+      "revenue_proportion": null,
+      "gross_margin": "61.25%",
+      "yoy_change": null,
+      "quote": "分地区 营业收入 营业成本 毛利率（%） 福建 1,474,451,670.40 571,383,698.62 61.25"
+    },
+    {
+      "name": "黑龙江",
+      "segment_type": "region",
+      "revenue_amount": "91,770,378.03元",
+      "revenue_proportion": null,
+      "gross_margin": "-35.77%",
+      "yoy_change": null,
+      "quote": "黑龙江 91,770,378.03 124,596,672.99 -35.77"
+    },
+    {
+      "name": "新疆",
+      "segment_type": "region",
+      "revenue_amount": "11,912,162.78元",
+      "revenue_proportion": null,
+      "gross_margin": "14.98%",
+      "yoy_change": null,
+      "quote": "新疆 11,912,162.78 10,127,479.36 14.98"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "风电",
+      "metric_type": "capacity",
+      "value": "94.93万千瓦",
+      "period": "截至2025年底",
+      "quote": "截至2025年底，公司控股并网装机容量99.93万千瓦，其中，风电项目装机容量94.93万千瓦（陆上风电装机容量65.33万千瓦、海上风电装机容量29.6万千瓦）"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "capacity",
+      "value": "2万千瓦",
+      "period": "截至2025年底",
+      "quote": "光伏发电项目装机容量2万千瓦"
+    },
+    {
+      "product": "生物质发电",
+      "metric_type": "capacity",
+      "value": "3万千瓦",
+      "period": "截至2025年底",
+      "quote": "生物质发电项目装机容量3万千瓦"
+    },
+    {
+      "product": "风电",
+      "metric_type": "production_volume",
+      "value": "278,698.91万千瓦时",
+      "period": "2025年",
+      "quote": "主要产品 生产量 风电 万千瓦时 278,698.91"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "production_volume",
+      "value": "1,897.73万千瓦时",
+      "period": "2025年",
+      "quote": "光伏发电 万千瓦时 1,897.73"
+    },
+    {
+      "product": "生物质发电",
+      "metric_type": "production_volume",
+      "value": "6,933.48万千瓦时",
+      "period": "2025年",
+      "quote": "生物质发电 万千瓦时 6,933.48"
+    },
+    {
+      "product": "风电",
+      "metric_type": "sales_volume",
+      "value": "271,426.73万千瓦时",
+      "period": "2025年",
+      "quote": "销售量 风电 万千瓦时 271,426.73"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "sales_volume",
+      "value": "1,824.24万千瓦时",
+      "period": "2025年",
+      "quote": "光伏发电 万千瓦时 1,824.24"
+    },
+    {
+      "product": "生物质发电",
+      "metric_type": "sales_volume",
+      "value": "6,075.70万千瓦时",
+      "period": "2025年",
+      "quote": "生物质发电 万千瓦时 6,075.70"
+    },
+    {
+      "product": "公司整体",
+      "metric_type": "production_volume",
+      "value": "287,530.12万千瓦时",
+      "period": "2025年",
+      "quote": "2025年，公司下属各项目累计完成发电量287,530.12万千瓦时"
+    },
+    {
+      "product": "公司整体",
+      "metric_type": "sales_volume",
+      "value": "279,326.67万千瓦时",
+      "period": "2025年",
+      "quote": "累计完成上网电量279,326.67万千瓦时"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "诏安四都渔光互补光伏电站项目",
+      "project_type": "capacity_expansion",
+      "location": "福建诏安",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "诏安四都渔光互补光伏电站项目、长乐B区海上风电场项目、长乐外海集中统一送出工程项目按进度计划推进"
+    },
+    {
+      "name": "长乐B区海上风电场项目",
+      "project_type": "capacity_expansion",
+      "location": "福建长乐",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "诏安四都渔光互补光伏电站项目、长乐B区海上风电场项目、长乐外海集中统一送出工程项目按进度计划推进"
+    },
+    {
+      "name": "长乐外海集中统一送出工程项目",
+      "project_type": "construction_project",
+      "location": "福建长乐",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "诏安四都渔光互补光伏电站项目、长乐B区海上风电场项目、长乐外海集中统一送出工程项目按进度计划推进"
+    },
+    {
+      "name": "霞浦大京风电场项目",
+      "project_type": "acquisition_project",
+      "location": "福建霞浦",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "并购完成",
+      "expected_completion_time": null,
+      "quote": "完成霞浦大京风电场项目并购"
+    },
+    {
+      "name": "闽投抽水蓄能资产注入项目",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成股权变更手续",
+      "expected_completion_time": null,
+      "quote": "投资集团为履行其做出的关于避免同业竞争的承诺，加快推进闽投抽水蓄能股权注入本公司的工作，目前已完成股权变更手续。"
+    },
+    {
+      "name": "福清旗狮风电场改造升级项目",
+      "project_type": "other",
+      "location": "福建福清",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已启动相关前期工作",
+      "expected_completion_time": null,
+      "quote": "福清嘉儒风电场改造升级项目获福建省发改委支持，已启动相关前期工作。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "风力发电专利",
+      "asset_type": "patent",
+      "related_product": "风力发电",
+      "quantitative_info": "累计获得3项发明专利和24项实用新型专利的授权",
+      "quote": "截止报告期末，累计获得3项发明专利和24项实用新型专利的授权，创新支撑能力持续增强。"
+    },
+    {
+      "name": "风电机组运维技术",
+      "asset_type": "core_technology",
+      "related_product": "风力发电",
+      "quantitative_info": null,
+      "quote": "2025年风电机组可靠性超95%"
+    },
+    {
+      "name": "风电场运行指标标准",
+      "asset_type": "standard",
+      "related_product": "风力发电",
+      "quantitative_info": null,
+      "quote": "在中国电力企业联合会2025年公布的2024年度全国电力行业风电运行指标对比结果中，公司旗下福清旗狮风电场被评为5A级优胜风电场，两个风电场被评为3A级优胜风电场。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "178,329.16万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额178,329.16万元，占年度销售总额100%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "91.21%",
+      "related_entity": "国网福建省电力有限公司",
+      "period": "2025年",
+      "quote": "1 国网福建省电力有限公司 162,647.18 91.21"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "7,546.71万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额7,546.71万元，占年度采购总额31.46%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新能源行业已全面进入平价竞价时代，优质风光资源分布区域有限，项目开发受区域消纳能力、电网输送容量等约束，市场竞争空前激烈，公司获取优质项目资源的难度持续加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险 新能源行业已全面进入平价竞价时代，优质风光资源分布区域有限，项目开发受区域消纳能力、电网输送容量等约束，市场竞争空前激烈，公司获取优质项目资源的难度持续加大。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受机组工况影响，可利用率同比有所下降；福建省外项目风资源状况不及上年且限电率同比上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025年公司发电量与上网电量较上年同期减少的主要原因是：公司福建省内海电项目出现个别机组设备故障，受机组工况影响，可利用率同比有所下降；福建省外项目风资源状况不及上年且限电率同比上升。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "随着存量项目运营周期增长，设备逐步超出质保期，风机叶片疲劳磨损、齿轮箱老化，光伏板透光率下降、组件隐裂等问题逐步凸显，导致发电效率降低、故障频率上升，既增加运维成本，也造成电量损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "设备老化风险 随着存量项目运营周期增长，设备逐步超出质保期，风机叶片疲劳磨损、齿轮箱老化，光伏板透光率下降、组件隐裂等问题逐步凸显，导致发电效率降低、故障频率上升，既增加运维成本，也造成电量损失。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "新能源项目全面入市交易，将导致上网电价波动性和不确定性风险加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "电力市场风险 新能源项目全面入市交易，将导致上网电价波动性和不确定性风险加剧。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "财政部、海关总署、税务总局于2025年10月联合发布《关于调整风力发电等增值税政策的公告》，调整风力生产的电力产品适用的增值税即征即退政策，可能对公司的盈利水平产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "税收优惠政策变动风险 财政部、海关总署、税务总局于2025年10月联合发布《关于调整风力发电等增值税政策的公告》，调整风力生产的电力产品适用的增值税即征即退政策，可能对公司的盈利水平产生一定影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "风电、光伏项目收益与自然资源禀赋高度相关，风速、光照强度等自然条件具有随机性与不可预测性，公司经营业绩存在随自然资源状况的变化而波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "自然条件变动风险 风电、光伏项目收益与自然资源禀赋高度相关，风速、光照强度等自然条件具有随机性与不可预测性，公司经营业绩存在随自然资源状况的变化而波动的风险。"
+    }
+  ]
+}

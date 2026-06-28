@@ -1,0 +1,763 @@
+{
+  "company_name_mentioned": "江苏紫金农村商业银行股份有限公司",
+  "produces": [
+    {
+      "name": "存款服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "客户存款总额224,499,827"
+    },
+    {
+      "name": "贷款服务",
+      "type": "service",
+      "revenue_proportion": "占总资产的比例为67.13%",
+      "quote": "发放贷款和垫款总额194,907,336 ... 占总资产的比例为67.13%。"
+    },
+    {
+      "name": "公司贷款",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "—公司贷款和垫款 4,432,141"
+    },
+    {
+      "name": "个人贷款",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "—个人贷款和垫款 1,382,951"
+    },
+    {
+      "name": "票据贴现",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "—票据贴现 230,635"
+    },
+    {
+      "name": "贸易融资",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "贸易融资 18,584,508"
+    },
+    {
+      "name": "结算与清算服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "结算与清算手续费收入 169,626"
+    },
+    {
+      "name": "代理服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "代理业务手续费收入 157,854"
+    },
+    {
+      "name": "银行卡服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "银行卡手续费收入 4,498"
+    },
+    {
+      "name": "金融市场业务（债券投资等）",
+      "type": "service",
+      "revenue_proportion": "13.78%",
+      "quote": "证券投资利息收入 1,207,821 13.78%"
+    },
+    {
+      "name": "理财服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "理财余额78.29亿元"
+    },
+    {
+      "name": "数字人民币服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "通过薪资代发、补贴发放等场景切入，拓展企事业单位及社区，增加数字人民币代发主体。"
+    },
+    {
+      "name": "供应链金融服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "出台《紫金农商银行供应链金融实施方案》，建立标准化展业模式。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "存款（客户资金）",
+      "target_product": "贷款、投资等业务",
+      "cost_proportion": "占总负债比例为83.14%",
+      "quote": "各项存款占总负债比例为83.14%"
+    },
+    {
+      "name": "向中央银行借款",
+      "target_product": "补充资金",
+      "cost_proportion": null,
+      "quote": "向中央银行借款 7,522,642"
+    },
+    {
+      "name": "同业及其他金融机构存放款项",
+      "target_product": "补充资金",
+      "cost_proportion": null,
+      "quote": "同业及其他金融机构存放款项 2,209,351"
+    },
+    {
+      "name": "拆入资金",
+      "target_product": "补充资金",
+      "cost_proportion": null,
+      "quote": "拆入资金 3,001,545"
+    },
+    {
+      "name": "卖出回购金融资产款",
+      "target_product": "补充资金",
+      "cost_proportion": null,
+      "quote": "卖出回购金融资产款 13,878,771"
+    },
+    {
+      "name": "应付债券（同业存单、可转债、二级资本债）",
+      "target_product": "补充资本",
+      "cost_proportion": null,
+      "quote": "应付债券 12,322,535"
+    },
+    {
+      "name": "业务及管理费（职工薪酬、办公费用等）",
+      "target_product": "日常运营",
+      "cost_proportion": null,
+      "quote": "业务及管理费 1,512,694"
+    },
+    {
+      "name": "信息科技服务（数字化平台）",
+      "target_product": "业务运营与创新",
+      "cost_proportion": null,
+      "quote": "运用移动展业平台、公司信贷数字化平台、供应链共享平台、特殊资产数字化管理平台等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "租赁和商务服务业",
+      "source_product": "贷款",
+      "quote": "租赁和商务服务业 39,686,672 20.36%"
+    },
+    {
+      "name": "批发和零售业",
+      "source_product": "贷款",
+      "quote": "批发和零售业 18,986,268 9.74%"
+    },
+    {
+      "name": "建筑业",
+      "source_product": "贷款",
+      "quote": "建筑业 15,907,600 8.16%"
+    },
+    {
+      "name": "房地产业",
+      "source_product": "贷款",
+      "quote": "房地产业 8,645,338 4.44%"
+    },
+    {
+      "name": "制造业",
+      "source_product": "贷款",
+      "quote": "制造业 8,395,914 4.31%"
+    },
+    {
+      "name": "水利、环境和公共设施管理业",
+      "source_product": "贷款",
+      "quote": "水利、环境和公共设施管理业 7,201,949 3.70%"
+    },
+    {
+      "name": "农、林、牧、渔业",
+      "source_product": "贷款",
+      "quote": "农、林、牧、渔业 1,022,830 0.52%"
+    },
+    {
+      "name": "科学研究和技术服务业",
+      "source_product": "贷款",
+      "quote": "科学研究和技术服务业 1,584,445 0.81%"
+    },
+    {
+      "name": "信息传输、软件和信息技术服务业",
+      "source_product": "贷款",
+      "quote": "信息传输、软件和信息技术服务业 2,037,754 1.05%"
+    },
+    {
+      "name": "医疗机构",
+      "source_product": "数字人民币、银医通服务",
+      "quote": "深耕“银医通”场景，覆盖医疗机构210家"
+    },
+    {
+      "name": "企事业单位",
+      "source_product": "代发工资、结算、数字人民币等服务",
+      "quote": "小微企业综合服务平台功能，聚焦企业日常经营场景，融合代发、记账、开票等功能，签约客户超4.1万户"
+    },
+    {
+      "name": "居民",
+      "source_product": "储蓄存款、个人贷款、理财、支付结算等服务",
+      "quote": "储蓄存款余额为1394.32亿元"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邵辉",
+      "role": "董事长",
+      "quote": "党委书记、董事长：邵辉"
+    },
+    {
+      "name": "阙正和",
+      "role": "行长",
+      "quote": "党委副书记、行长、首席合规官：阙正和"
+    },
+    {
+      "name": "王清国",
+      "role": "副行长",
+      "quote": "主管会计工作负责人：王清国"
+    },
+    {
+      "name": "李玉宁",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）：李玉宁"
+    },
+    {
+      "name": "张毅",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 张毅"
+    },
+    {
+      "name": "刘志友",
+      "role": "独立董事",
+      "quote": "刘志友 独立董事"
+    },
+    {
+      "name": "周芬",
+      "role": "独立董事",
+      "quote": "周芬 独立董事"
+    },
+    {
+      "name": "程乃胜",
+      "role": "独立董事",
+      "quote": "程乃胜 独立董事"
+    },
+    {
+      "name": "岑赫",
+      "role": "独立董事",
+      "quote": "岑赫 独立董事"
+    },
+    {
+      "name": "张龙耀",
+      "role": "独立董事",
+      "quote": "张龙耀 独立董事"
+    },
+    {
+      "name": "孙隽",
+      "role": "董事",
+      "quote": "孙隽 董事"
+    },
+    {
+      "name": "申林",
+      "role": "董事",
+      "quote": "申林 董事"
+    },
+    {
+      "name": "杨玉虹",
+      "role": "董事",
+      "quote": "杨玉虹 董事"
+    },
+    {
+      "name": "侯军",
+      "role": "董事",
+      "quote": "侯军 董事"
+    },
+    {
+      "name": "许国玉",
+      "role": "副行长",
+      "quote": "许国玉 副行长"
+    },
+    {
+      "name": "杭浩军",
+      "role": "副行长",
+      "quote": "杭浩军 副行长"
+    },
+    {
+      "name": "徐伟",
+      "role": "副行长",
+      "quote": "徐伟 副行长"
+    },
+    {
+      "name": "韦莹",
+      "role": "副行长",
+      "quote": "韦莹 副行长"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "高淳农商银行",
+      "relation_type": "investor",
+      "business_details": "公司现持有高淳农商银行20%的股份。",
+      "quote": "高淳农商银行 指 江苏高淳农村商业银行股份有限公司 ... 公司现持有高淳农商银行20%的股份。"
+    },
+    {
+      "name": "溧水农商银行",
+      "relation_type": "investor",
+      "business_details": "公司现持有溧水农商银行20%的股份。",
+      "quote": "溧水农商银行 指 江苏溧水农村商业银行股份有限公司 ... 公司现持有溧水农商银行20%的股份。"
+    },
+    {
+      "name": "南京紫金投资集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "公司第一大股东，持股8.96%。",
+      "quote": "南京紫金投资集团有限责任公司 ... 328,129,524 8.96"
+    },
+    {
+      "name": "江苏省国信集团有限公司",
+      "relation_type": "investor",
+      "business_details": "公司股东，持股7.32%。",
+      "quote": "江苏省国信集团有限公司 ... 267,852,322 7.32"
+    },
+    {
+      "name": "江苏苏豪投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "公司股东，持股6.37%。",
+      "quote": "江苏苏豪投资集团有限公司 ... 233,042,759 6.37"
+    },
+    {
+      "name": "立信会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "为本公司出具了标准无保留意见的审计报告。",
+      "quote": "立信会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "上海证券交易所",
+      "relation_type": "supplier",
+      "business_details": "公司股票上市交易所。",
+      "quote": "上海证券交易所"
+    },
+    {
+      "name": "中国人民银行",
+      "relation_type": "supplier",
+      "business_details": "监管机构，公司存放中央银行款项等。",
+      "quote": "人民银行/央行 指 中国人民银行"
+    },
+    {
+      "name": "中国证券监督管理委员会",
+      "relation_type": "supplier",
+      "business_details": "监管机构。",
+      "quote": "证监会/中国证监会 指 中国证券监督管理委员会"
+    },
+    {
+      "name": "国家金融监督管理总局",
+      "relation_type": "supplier",
+      "business_details": "监管机构。",
+      "quote": "根据国家金融监督管理总局监管口径计算。"
+    },
+    {
+      "name": "江苏农商联合银行",
+      "relation_type": "supplier",
+      "business_details": "系统内上级管理机构。",
+      "quote": "江苏农商联合银行 指 江苏农村商业联合银行股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "贷款利息收入",
+      "segment_type": "product_line",
+      "revenue_amount": "6,045,727",
+      "revenue_proportion": "69.00%",
+      "gross_margin": null,
+      "yoy_change": "-14.00%",
+      "quote": "贷款利息收入 ... 6,045,727 69.00%"
+    },
+    {
+      "name": "证券投资利息收入",
+      "segment_type": "product_line",
+      "revenue_amount": "1,207,821",
+      "revenue_proportion": "13.78%",
+      "gross_margin": null,
+      "yoy_change": "-2.46%",
+      "quote": "证券投资利息收入 ... 1,207,821 13.78%"
+    },
+    {
+      "name": "手续费及佣金收入",
+      "segment_type": "product_line",
+      "revenue_amount": "331,978",
+      "revenue_proportion": "3.79%",
+      "gross_margin": null,
+      "yoy_change": "4.64%",
+      "quote": "手续费及佣金收入 ... 331,978 3.79%"
+    },
+    {
+      "name": "净利息收入",
+      "segment_type": "product_line",
+      "revenue_amount": "3,108,852",
+      "revenue_proportion": "75.49%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "利息净收入 3,108,852 ... 占营业收入百分比——净利息收入 75.49"
+    },
+    {
+      "name": "手续费及佣金净收入",
+      "segment_type": "product_line",
+      "revenue_amount": "280,497",
+      "revenue_proportion": "6.81%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "手续费及佣金净收入 280,497 ... 占营业收入百分比——非净利息收入 24.51"
+    },
+    {
+      "name": "其他净收入",
+      "segment_type": "product_line",
+      "revenue_amount": null,
+      "revenue_proportion": "17.70%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "占营业收入百分比——其他净收入 17.70"
+    },
+    {
+      "name": "南京地区",
+      "segment_type": "region",
+      "revenue_amount": "2,915,949",
+      "revenue_proportion": "70.80%",
+      "gross_margin": null,
+      "yoy_change": "-10.97%",
+      "quote": "南京 2,915,949 70.80%"
+    },
+    {
+      "name": "镇江地区",
+      "segment_type": "region",
+      "revenue_amount": "531,984",
+      "revenue_proportion": "12.92%",
+      "gross_margin": null,
+      "yoy_change": "-5.22%",
+      "quote": "镇江 531,984 12.92%"
+    },
+    {
+      "name": "扬州地区",
+      "segment_type": "region",
+      "revenue_amount": "670,357",
+      "revenue_proportion": "16.28%",
+      "gross_margin": null,
+      "yoy_change": "7.03%",
+      "quote": "扬州 670,357 16.28%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "贷款",
+      "metric_type": "capacity",
+      "value": "194,907,336千元",
+      "period": "2025年末",
+      "quote": "各项贷款余额1949.07亿元"
+    },
+    {
+      "product": "存款",
+      "metric_type": "capacity",
+      "value": "224,499,827千元",
+      "period": "2025年末",
+      "quote": "存款余额2245.00亿元"
+    },
+    {
+      "product": "总资产",
+      "metric_type": "capacity",
+      "value": "290,343,059千元",
+      "period": "2025年末",
+      "quote": "总资产2903.43亿元"
+    },
+    {
+      "product": "分支机构",
+      "metric_type": "inventory_volume",
+      "value": "135家",
+      "period": "2025年末",
+      "quote": "135家分支机构"
+    },
+    {
+      "product": "员工",
+      "metric_type": "inventory_volume",
+      "value": "2490人",
+      "period": "2025年末",
+      "quote": "在职员工的数量 2490"
+    },
+    {
+      "product": "普惠金融服务点",
+      "metric_type": "other",
+      "value": "覆盖全市服务区域所有主要街道村社",
+      "period": "2025年",
+      "quote": "普惠金融服务点覆盖全市服务区域所有主要街道村社"
+    },
+    {
+      "product": "数字人民币医疗应用",
+      "metric_type": "other",
+      "value": "覆盖医疗机构210家",
+      "period": "2025年",
+      "quote": "覆盖医疗机构210家"
+    },
+    {
+      "product": "小微企业综合服务平台签约客户",
+      "metric_type": "other",
+      "value": "超4.1万户",
+      "period": "2025年",
+      "quote": "签约客户超4.1万户"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "二级资本债券发行",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "20亿元",
+      "designed_capacity": null,
+      "progress": "已发行",
+      "expected_completion_time": null,
+      "quote": "2025年，公司在全国银行间债券市场发行了二级资本债券。本期债券发行规模为人民币20亿元"
+    },
+    {
+      "name": "网点智能厅堂改造",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "完成全行网点智能厅堂改造"
+    },
+    {
+      "name": "数字化转型",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "公司积极开展数字金融建设，以数字化转型驱动金融服务提质增效"
+    },
+    {
+      "name": "公司信贷数字化平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已上线",
+      "expected_completion_time": null,
+      "quote": "上线公司信贷数字化平台"
+    },
+    {
+      "name": "供应链共享平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已上线",
+      "expected_completion_time": null,
+      "quote": "供应链共享平台"
+    },
+    {
+      "name": "特殊资产数字化管理平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已上线",
+      "expected_completion_time": null,
+      "quote": "特殊资产数字化管理平台"
+    },
+    {
+      "name": "PAD背夹项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "推进PAD背夹项目，布放移动机具，支撑全行外拓业务开展。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "客户画像、智能贷后等模型",
+      "asset_type": "technical_platform",
+      "related_product": "风险管理",
+      "quantitative_info": null,
+      "quote": "运用客户画像、智能贷后等模型实现风险精准刻画"
+    },
+    {
+      "name": "公司信贷数字化平台",
+      "asset_type": "technical_platform",
+      "related_product": "公司信贷业务",
+      "quantitative_info": null,
+      "quote": "上线公司信贷数字化平台，实现信贷资料电子化、业务办理移动化、无纸化"
+    },
+    {
+      "name": "供应链共享平台",
+      "asset_type": "technical_platform",
+      "related_product": "供应链金融",
+      "quantitative_info": null,
+      "quote": "供应链共享平台"
+    },
+    {
+      "name": "特殊资产数字化管理平台",
+      "asset_type": "technical_platform",
+      "related_product": "特殊资产管理",
+      "quantitative_info": null,
+      "quote": "特殊资产数字化管理平台"
+    },
+    {
+      "name": "移动展业平台",
+      "asset_type": "technical_platform",
+      "related_product": "个人贷款、零售业务",
+      "quantitative_info": null,
+      "quote": "个人贷款基本实现移动展业作业"
+    },
+    {
+      "name": "三重网格营销体系",
+      "asset_type": "technical_platform",
+      "related_product": "营销获客",
+      "quantitative_info": null,
+      "quote": "健全网格化营销体系，建立物理、重点与虚拟三重网格"
+    },
+    {
+      "name": "人工智能与RPA技术",
+      "asset_type": "core_technology",
+      "related_product": "内部运营管理",
+      "quantitative_info": null,
+      "quote": "通过人工智能与RPA技术提升内部管理运营效率。"
+    },
+    {
+      "name": "省版信贷从业人员画像系统",
+      "asset_type": "technical_platform",
+      "related_product": "风险合规",
+      "quantitative_info": null,
+      "quote": "上线省版信贷从业人员画像系统，多维度精准识别"
+    },
+    {
+      "name": "‘苏信贷’产品平均授信用时",
+      "asset_type": "process_technology",
+      "related_product": "个人贷款-苏信贷",
+      "quantitative_info": "压缩至4.2小时",
+      "quote": "“苏信贷”产品平均授信用时压缩至4.2小时。"
+    },
+    {
+      "name": "ESG管理体系",
+      "asset_type": "certification",
+      "related_product": "公司治理",
+      "quantitative_info": null,
+      "quote": "建立和完善ESG管理体系"
+    },
+    {
+      "name": "“负责任银行原则”签署银行",
+      "asset_type": "certification",
+      "related_product": "可持续发展",
+      "quantitative_info": null,
+      "quote": "联合国‘负责任银行原则’签署银行"
+    },
+    {
+      "name": "ESG金茉莉奖",
+      "asset_type": "certification",
+      "related_product": "可持续发展",
+      "quantitative_info": "连续四年荣获",
+      "quote": "连续四年荣获江苏资本市场峰会‘ESG金茉莉奖’"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "合计7,385,767.50千元，占贷款和垫款总额3.79%",
+      "related_entity": "前十名贷款客户",
+      "period": "2025年末",
+      "quote": "前十名贷款客户 ... 合计 7,385,767.50 3.79"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "单一最大贷款和垫款比例4.54%，最大十家贷款和垫款比例30.63%",
+      "related_entity": null,
+      "period": "2025年末",
+      "quote": "单一最大贷款和垫款比例⑨ ≤10 4.54 ... 最大十家贷款和垫款比例⑩ ≤50 30.63"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "关联自然人贷款余额及风险敞口为8028.04万元",
+      "related_entity": "关联自然人",
+      "period": "2025年末",
+      "quote": "截至报告期末，关联自然人贷款余额及风险敞口为8028.04万元。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "关联方江苏银行股份有限公司同业投融资等余额156,338.16万元，占上一年度经审计净资产比例7.84%",
+      "related_entity": "江苏银行股份有限公司",
+      "period": "2025年末",
+      "quote": "关联方名称 江苏银行股份有限公司 ... 余额（万元） 156338.16 占上一年度经审计净资产比例 7.84%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户集中风险。公司面临交易对手、借款人违约或信用等级下降的信用风险。",
+      "related_entity": null,
+      "related_product": "贷款组合、投资交易",
+      "quote": "一是信用风险。信用风险是指因交易对手、借款人违约或信用等级下降，而可能给银行造成的损失或收益的不确定性。公司面临的信用风险主要来自贷款组合、投资交易和其他支付承诺。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "流动性风险。无法以合理成本及时获得充足资金偿付债务、履行支付义务的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是流动性风险。流动性风险是指公司无法以合理成本及时获得充足资金，用于偿付到期债务、履行其他支付义务和满足正常业务开展的其他资金需求的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "市场风险。利率、汇率、价格等市场因素变动导致金融工具价值变化的风险。",
+      "related_entity": null,
+      "related_product": "存贷款、同业投融资、债券投资、结售汇",
+      "quote": "三是市场风险。市场风险是指利率、汇率、商品及金融产品价格以及其他市场因素变动而引起金融工具的价值变化，进而对未来收益或者未来现金流量可能造成潜在损失的风险。公司面临的市场风险主要表现在对存贷款业务、同业投融资业务、债券投资等因利率敏感性缺口带来的不确定性以及因结售汇敞口造成的汇兑损益。"
+    },
+    {
+      "risk_type": "other",
+      "description": "操作风险。内部程序、员工、信息科技系统问题或外部事件造成损失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "四是操作风险。操作风险是指由于内部程序、员工、信息科技系统存在问题以及外部事件造成损失的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "信息科技风险。主要信息技术系统或通讯网络故障导致业务中断的风险。",
+      "related_entity": null,
+      "related_product": "信息技术系统",
+      "quote": "五是信息科技风险。公司通过信息技术系统处理大量交易，存储和处理大部分业务及运营活动的数据。当主要信息技术系统或通讯网络出现故障或全部瘫痪时，业务活动可能会发生实质性中断，从而导致信息科技风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "声誉风险。公司经营、管理行为或外部事件导致利益相关方负面评价的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "六是声誉风险。声誉风险是指由商业银行经营、管理及其他行为或外部事件导致利益相关方对银行负面评价的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "面临激烈市场竞争风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2025 年，面对复杂严峻的外部环境和激烈的市场竞争"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "存款利率市场化调整带来的负债成本压力。",
+      "related_entity": null,
+      "related_product": "存款",
+      "quote": "注重存款量价平衡发展，根据存款利率市场化调整机制指导意见，跟随市场，适时调整存款价格水平，合理控制付息成本"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "不良贷款率上升风险。",
+      "related_entity": null,
+      "related_product": "贷款",
+      "quote": "五级不良率1.35% ... 不良贷款率 1.35 1.24 增加0.11个百分点"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "贷款资产质量受个别行业影响的风险。",
+      "related_entity": null,
+      "related_product": "贷款",
+      "quote": "批发和零售业、建筑业、房地产业等传统行业的资产质量逐步向好；租赁和商务服务业、制造业、文化、体育和娱乐业等行业资产质量有所改善。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环保政策变化影响信贷资产的风险。",
+      "related_entity": null,
+      "related_product": "绿色贷款",
+      "quote": "强化绿色信贷理念，加大对绿色涉农、绿色民营小微企业的金融支持"
+    }
+  ]
+}

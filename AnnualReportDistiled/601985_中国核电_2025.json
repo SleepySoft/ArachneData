@@ -1,0 +1,292 @@
+{
+  "company_name_mentioned": "中国核能电力股份有限公司",
+  "produces": [
+    {
+      "name": "核能发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司盈利主要来源于电力（包括核能发电与风、光发电）销售业务、核电相关技术服务与咨询业务。"
+    },
+    {
+      "name": "风力发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司盈利主要来源于电力（包括核能发电与风、光发电）销售业务、核电相关技术服务与咨询业务。"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司盈利主要来源于电力（包括核能发电与风、光发电）销售业务、核电相关技术服务与咨询业务。"
+    },
+    {
+      "name": "核电相关技术服务与咨询",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司盈利主要来源于电力（包括核能发电与风、光发电）销售业务、核电相关技术服务与咨询业务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "核燃料",
+      "target_product": "核能发电",
+      "cost_proportion": "18.07%",
+      "quote": "核燃料 870,477.81 18.07 755,606.01 17.13 15.20"
+    },
+    {
+      "name": "乏燃料处置基金",
+      "target_product": "核能发电",
+      "cost_proportion": "7.75%",
+      "quote": "乏燃料处置基金 373,339.09 7.75 352,116.21 7.98 6.03"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网供电",
+      "source_product": "电力（核能、风、光发电）",
+      "quote": "公司所生产的电力主要销售给电网公司。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "卢铁忠",
+      "role": "董事长",
+      "quote": "公司负责人卢铁忠、主管会计工作负责人刘焕冰及会计机构负责人（会计主管人员）张泉声"
+    },
+    {
+      "name": "邹正宇",
+      "role": "董事、总经理",
+      "quote": "董事 邹正宇 因公无法出席"
+    },
+    {
+      "name": "刘焕冰",
+      "role": "总会计师",
+      "quote": "主管会计工作负责人刘焕冰"
+    },
+    {
+      "name": "张红军",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 张红军"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国核工业集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "控股股东",
+      "quote": "控股股东为中国核工业集团有限公司（以下简称中核集团），截至报告期末对本公司持股比例55.67%"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前五名客户销售额808.32亿元，占年度销售总额98.48%；其中前五名客户销售额中关联方销售额11.56亿元，占年度销售总额1.41%"
+    },
+    {
+      "name": "中国核工业集团有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "3 中国核工业集团有限公司 11.56 1.41"
+    },
+    {
+      "name": "上海电气控股集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "2 上海电气控股集团有限公司 10.44 0.85"
+    },
+    {
+      "name": "国家电力投资集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "3 国家电力投资集团有限公司 8.85 0.72"
+    },
+    {
+      "name": "中国交通建设集团有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "4 中国交通建设集团有限公司 8.49 0.69"
+    },
+    {
+      "name": "久立集团股份有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "5 久立集团股份有限公司 3.77 0.31"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力行业",
+      "segment_type": "product_line",
+      "revenue_amount": "79,621,922,281.62元",
+      "revenue_proportion": null,
+      "gross_margin": "41.27%",
+      "yoy_change": "6.07%",
+      "quote": "电力 79,621,922,281.62 46,765,000,302.05 41.27 6.07 9.96 -2.08"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "64,480,389,847.65元",
+      "revenue_proportion": null,
+      "gross_margin": "43.17%",
+      "yoy_change": "4.50%",
+      "quote": "华东 64,480,389,847.65 36,641,861,697.29 43.17 4.50 5.20 减少0.38个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "核电",
+      "metric_type": "capacity",
+      "value": "2,500.00万千瓦",
+      "period": "截至2025年12月31日",
+      "quote": "公司控股核电在运机组26台，装机容量2,500.00万千瓦"
+    },
+    {
+      "product": "新能源",
+      "metric_type": "capacity",
+      "value": "3,364.10万千瓦",
+      "period": "截至2025年12月31日",
+      "quote": "公司控股新能源在运装机容量3,364.10万千瓦"
+    },
+    {
+      "product": "核能发电",
+      "metric_type": "production_volume",
+      "value": "2,008.07亿千瓦时",
+      "period": "2025年",
+      "quote": "核电机组发电量首次突破2,000亿千瓦时，达到2,008.07亿千瓦时，同比增长9.66%"
+    },
+    {
+      "product": "风力发电",
+      "metric_type": "production_volume",
+      "value": "193.14亿千瓦时",
+      "period": "2025年",
+      "quote": "风力发电量193.14亿千瓦时，同比增长27.42%"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "production_volume",
+      "value": "243.08亿千瓦时",
+      "period": "2025年",
+      "quote": "光伏发电量243.08亿千瓦时，同比增长34.53%"
+    },
+    {
+      "product": "核能发电",
+      "metric_type": "sales_volume",
+      "value": "1,878.47亿千瓦时",
+      "period": "2025年",
+      "quote": "核电机组上网电量累计为1,878.47亿千瓦时，同比增长9.69%"
+    },
+    {
+      "product": "风力发电",
+      "metric_type": "sales_volume",
+      "value": "188.77亿千瓦时",
+      "period": "2025年",
+      "quote": "上网电量累计为188.77亿千瓦时，同比增长27.61%"
+    },
+    {
+      "product": "光伏发电",
+      "metric_type": "sales_volume",
+      "value": "240.23亿千瓦时",
+      "period": "2025年",
+      "quote": "上网电量累计为240.23亿千瓦时，同比增长34.42%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "福建漳州核电站2号机组",
+      "project_type": "capacity_expansion",
+      "location": "福建省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投入商运",
+      "expected_completion_time": "2026年1月1日",
+      "quote": "2026年1月1日，公司控股投资的中核国电漳州能源有限公司福建漳州核电站2号机组投入商运"
+    },
+    {
+      "name": "三门核电5、6号机组",
+      "project_type": "capacity_expansion",
+      "location": "浙江省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "获得国家核准",
+      "expected_completion_time": null,
+      "quote": "2025年浙江三门核电5、6号机组获得国家核准"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "华龙一号",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "中国拥有完全自主知识产权的三代压水堆技术，采用“能动与非能动”相结合的安全设计理念，首堆示范工程电功率116.1万千瓦，设计寿命60年",
+      "quote": "华龙一号 指 中国拥有完全自主知识产权的三代压水堆技术，采用“能动与非能动”相结合的安全设计理念，首堆示范工程电功率116.1万千瓦，设计寿命60年"
+    },
+    {
+      "name": "CP300",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "中核集团自主设计的30万千瓦的压水堆技术",
+      "quote": "CP300 指 中核集团自主设计的30万千瓦的压水堆技术"
+    },
+    {
+      "name": "CAP1000",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "全面消化吸收西屋公司开发的形成国产化三代压水堆技术，采用非能动安全设施和简化的电厂设计，电功率125万千瓦，设计寿命60年",
+      "quote": "CAP1000 指 全面消化吸收西屋公司开发的形成国产化三代压水堆技术，采用非能动安全设施和简化的电厂设计，电功率125万千瓦，设计寿命60年"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "808.32亿元，占年度销售总额98.48%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额808.32亿元，占年度销售总额98.48%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "726.05亿元，占年度销售总额比例88.46%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "1 国家电网有限公司 726.05 88.46"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,118.12亿元，占年度采购总额91.43%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额1,118.12亿元，占年度采购总额91.43%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "1,086.57亿元，占年度采购总额比例88.85%",
+      "related_entity": "中国核工业集团有限公司",
+      "period": "2025年",
+      "quote": "1 中国核工业集团有限公司 1,086.57 88.85"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场化交易风险；新能源行业竞争已从“蓝海”转向“红海”，存在产能过剩的风险，可能引发非理性价格战，进而影响新能源业务的盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.电力市场化交易风险...4.新能源产业政策与市场波动风险...新能源行业仍处于快速发展与深度调整期...行业竞争已从“蓝海”转向“红海”，存在产能过剩的风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "电力市场化改革持续深化、全国统一电力市场体系加速推进，市场交易规模显著提升，价格波动风险进一步加剧。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当前，我国电力市场化改革持续深化、全国统一电力市场体系加速推进，市场交易规模显著提升，价格波动风险进一步加剧"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "部分长周期主设备、泵阀类设备产能不足，存在按期保供风险；一线施工班组流动性较大，人员老龄化趋势逐步显现。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "部分长周期主设备、泵阀类设备产能不足，存在按期保供风险...一线施工班组流动性较大，人员老龄化趋势逐步显现"
+    }
+  ]
+}

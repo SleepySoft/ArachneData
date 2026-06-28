@@ -1,0 +1,485 @@
+{
+  "company_name_mentioned": "杭州热电集团股份有限公司",
+  "produces": [
+    {
+      "name": "蒸汽",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司实现售汽量608.01万吨，同比增长2.63%。公司实现营业收入316,945.86万元，同比下降10.49%。其中：热电联产实现收入161,039.11万元，同比下降5.83%。"
+    },
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司实现售电量5.66亿千瓦时，同比下降1.23%。...电力产品收入同比下降7.7%。"
+    },
+    {
+      "name": "煤炭",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "煤炭贸易实现收入147,412.91万元，同比下降12.11%。"
+    },
+    {
+      "name": "分布式光伏发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "分布式光伏发电，根据“自发自用，余电上网”的原则，所发电量除了销售给光伏所在企业使用外，余电销售给国家电网公司。"
+    },
+    {
+      "name": "热电管网工程建设",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "产品和提供的劳务主要有：煤炭、蒸汽、电、热电管网工程建设等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "热电联产",
+      "cost_proportion": null,
+      "quote": "燃煤热电联产的主要原材料是煤炭...公司主要以集中采购的方式向煤炭供应商采购。"
+    },
+    {
+      "name": "天然气",
+      "target_product": "热电联产",
+      "cost_proportion": null,
+      "quote": "燃气热电联产的主要原材料是天然气，为确保用气供应的稳定，公司子公司上海金联与上海燃气（集团）有限公司签订年度供应合同。"
+    },
+    {
+      "name": "蒸汽",
+      "target_product": "热力供应",
+      "cost_proportion": null,
+      "quote": "公司子公司宁海杭热、舟山杭热采购蒸汽纳入自建供热管网后向园区工业用户供应。"
+    },
+    {
+      "name": "污泥/一般工业固废",
+      "target_product": "热电联产/资源综合利用",
+      "cost_proportion": null,
+      "quote": "热电企业主要通过燃烧煤炭、天然气、污泥，掺烧一般工业固废等生产出蒸汽。"
+    },
+    {
+      "name": "上海伊泰申浦能源有限公司（煤炭）",
+      "target_product": null,
+      "cost_proportion": "63.71%",
+      "quote": "前五名供应商采购额253,195.25 万元，占年度采购总额83.32%...其中，前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。...报告期内向单个供应商的采购比例超过总额的50%、前5名供应商中存在新增供应商的或严重依赖于少数供应商的情形√适用 序号 供应商名称 采购额 占年度采购总额比例（%） 1 上海伊泰申浦能源有限公司 193,593.01 63.71"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业园区工业用热/汽",
+      "source_product": "蒸汽",
+      "quote": "公司蒸汽产品的主要用户为园区的工业用户。公司与热用户签订《供用热合同》，通过蒸汽管网向用户输送生产的蒸汽以实现销售。"
+    },
+    {
+      "name": "电网供电",
+      "source_product": "电力",
+      "quote": "公司下属热电公司与当地国网供电公司签订《购售电合同》，根据合同将热电项目所发电量并入指定的并网点，实现交割与销售。"
+    },
+    {
+      "name": "下游企业自用电力",
+      "source_product": "分布式光伏发电",
+      "quote": "所发电量除了销售给光伏所在企业使用外..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李炳",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人李炳...李炳先生当选为公司董事。董事会同日审议通过了《关于选举公司董事长的议案》，李炳先生自当选公司董事长之日起，为公司法定代表人。"
+    },
+    {
+      "name": "俞峻",
+      "role": "董事、总经理",
+      "quote": "俞峻 男 54 董事、总经理 2024/09/27 -"
+    },
+    {
+      "name": "吴玲红",
+      "role": "董事、副总经理、财务负责人、董事会秘书",
+      "quote": "吴玲红 女 42 董事、副总经理、财务负责人、董事会秘书 2024/12/17 -"
+    },
+    {
+      "name": "倪明江",
+      "role": "独立董事",
+      "quote": "倪明江 独立董事 男 76"
+    },
+    {
+      "name": "厉国威",
+      "role": "独立董事",
+      "quote": "厉国威 独立董事 男 56"
+    },
+    {
+      "name": "钱雪慧",
+      "role": "独立董事",
+      "quote": "钱雪慧 独立董事 女 49"
+    },
+    {
+      "name": "章力为",
+      "role": "董事",
+      "quote": "章力为 董事 男 42"
+    },
+    {
+      "name": "金威任",
+      "role": "董事",
+      "quote": "金威任 董事 男 36"
+    },
+    {
+      "name": "宁锋",
+      "role": "职工董事",
+      "quote": "宁锋 职工董事 男 42"
+    },
+    {
+      "name": "冯其栋",
+      "role": "副总经理",
+      "quote": "冯其栋 副总经理 男 49"
+    },
+    {
+      "name": "徐益峰",
+      "role": "副总经理",
+      "quote": "徐益峰 副总经理 男 48"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "杭州市能源集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "杭州市能源集团有限公司...控股股东能源集团承诺..."
+    },
+    {
+      "name": "浙江华丰纸业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东",
+      "quote": "浙江华丰纸业集团有限公司...股东杭实集团承诺..."
+    },
+    {
+      "name": "杭州市实业投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "持股5%以上股东",
+      "quote": "杭州市实业投资集团有限公司...股东杭实集团承诺..."
+    },
+    {
+      "name": "绍兴上虞杭协热电有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司，煤炭销售客户、关联方",
+      "quote": "上虞杭协 参股公司 热电生产、销售...向关联人销售商品：绍兴上虞杭协热电有限公司 煤炭销售..."
+    },
+    {
+      "name": "上海伊泰申浦能源有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要煤炭供应商",
+      "quote": "前五名供应商采购额...1 上海伊泰申浦能源有限公司 193,593.01 63.71"
+    },
+    {
+      "name": "国网浙江省电力有限公司",
+      "relation_type": "customer",
+      "business_details": "主要电力客户",
+      "quote": "公司前五大客户中，电力主要销售给国网浙江省电力有限公司..."
+    },
+    {
+      "name": "杭州协联热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务：技术服务",
+      "quote": "杭州协联 子公司 技术服务"
+    },
+    {
+      "name": "杭州临江环保热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务：热电生产、销售",
+      "quote": "临江环保 子公司 热电生产、销售"
+    },
+    {
+      "name": "上海金联热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务：热电生产、销售",
+      "quote": "上海金联 子公司 热电生产、销售"
+    },
+    {
+      "name": "丽水市杭丽热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务：热电生产、销售",
+      "quote": "丽水杭丽 子公司 热电生产、销售"
+    },
+    {
+      "name": "浙江安吉天子湖热电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务：热电生产、销售",
+      "quote": "安吉天子湖 子公司 热电生产、销售"
+    },
+    {
+      "name": "舟山杭热热力有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务：热力供应",
+      "quote": "舟山杭热 子公司 热力供应"
+    },
+    {
+      "name": "湖北滨江能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，在建热电联产项目",
+      "quote": "公司控股子公司湖北滨江能源有限公司投资建设“湖北滨江热电联产项目（一期）工程”"
+    },
+    {
+      "name": "杭州国岭源起创业投资合伙企业（有限合伙）",
+      "relation_type": "joint_venture",
+      "business_details": "公司作为有限合伙人参与投资的产业投资基金",
+      "quote": "公司作为有限合伙人参与投资设立杭州国岭源起创业投资合伙企业（有限合伙）。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "热电行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,610,391,103.99元",
+      "revenue_proportion": null,
+      "gross_margin": "18.35%",
+      "yoy_change": null,
+      "quote": "主营业务分行业情况 分行业 营业收入 营业成本 毛利率（%） 热电行业 1,610,391,103.99 1,314,870,318.33 18.35"
+    },
+    {
+      "name": "煤炭行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,474,129,109.93元",
+      "revenue_proportion": null,
+      "gross_margin": "1.99%",
+      "yoy_change": null,
+      "quote": "主营业务分行业情况 分行业 营业收入 营业成本 毛利率（%） 煤炭行业 1,474,129,109.93 1,444,866,601.29 1.99"
+    },
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "257,365,647.03元",
+      "revenue_proportion": null,
+      "gross_margin": "38.19%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况 分产品 营业收入 营业成本 毛利率（%） 电力 257,365,647.03 159,074,313.19 38.19"
+    },
+    {
+      "name": "蒸汽",
+      "segment_type": "product_line",
+      "revenue_amount": "1,353,025,456.96元",
+      "revenue_proportion": null,
+      "gross_margin": "14.58%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况 分产品 营业收入 营业成本 毛利率（%） 蒸汽 1,353,025,456.96 1,155,796,005.14 14.58"
+    },
+    {
+      "name": "煤炭",
+      "segment_type": "product_line",
+      "revenue_amount": "1,474,129,109.93元",
+      "revenue_proportion": null,
+      "gross_margin": "1.99%",
+      "yoy_change": null,
+      "quote": "主营业务分产品情况 分产品 营业收入 营业成本 毛利率（%） 煤炭 1,474,129,109.93 1,444,866,601.29 1.99"
+    },
+    {
+      "name": "浙江",
+      "segment_type": "region",
+      "revenue_amount": "2,713,605,852.26元",
+      "revenue_proportion": null,
+      "gross_margin": "11.61%",
+      "yoy_change": null,
+      "quote": "主营业务分地区情况 分地区 营业收入 营业成本 毛利率（%） 浙江 2,713,605,852.26 2,398,556,783.11 11.61"
+    },
+    {
+      "name": "上海",
+      "segment_type": "region",
+      "revenue_amount": "398,154,355.55元",
+      "revenue_proportion": null,
+      "gross_margin": "9.29%",
+      "yoy_change": null,
+      "quote": "主营业务分地区情况 分地区 营业收入 营业成本 毛利率（%） 上海 398,154,355.55 361,180,136.51 9.29"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "5.66亿千瓦时",
+      "period": "报告期",
+      "quote": "报告期内，公司实现售电量5.66亿千瓦时，同比下降1.23%。"
+    },
+    {
+      "product": "蒸汽",
+      "metric_type": "sales_volume",
+      "value": "608.01万吨",
+      "period": "报告期",
+      "quote": "实现售汽量608.01万吨，同比增长2.63%。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "69,786.95万千瓦时",
+      "period": "报告期",
+      "quote": "生产量比上年同期增减（%） 电力 万千瓦时 69,786.95"
+    },
+    {
+      "product": "蒸汽（自产）",
+      "metric_type": "production_volume",
+      "value": "506.70万吨",
+      "period": "报告期",
+      "quote": "生产量比上年同期增减（%） 蒸汽（自产） 万吨 506.70"
+    },
+    {
+      "product": "蒸汽（外购）",
+      "metric_type": "sales_volume",
+      "value": "117.36万吨",
+      "period": "报告期",
+      "quote": "生产量比上年同期增减（%） 蒸汽（外购） 万吨 117.36"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "sales_volume",
+      "value": "227.19万吨",
+      "period": "报告期",
+      "quote": "销售量比上年同期增减（%） 煤炭 万吨 227.19"
+    },
+    {
+      "product": null,
+      "metric_type": "capacity",
+      "value": "176.82兆瓦",
+      "period": "报告期末",
+      "quote": "总装机容量 MW 176.82"
+    },
+    {
+      "product": "热电联产",
+      "metric_type": "capacity",
+      "value": "131.5兆瓦（浙江）+33兆瓦（上海）",
+      "period": "报告期末",
+      "quote": "经营地区 发电类型 单位 装机容量 浙江省 热电联产 MW 131.5 ...上海市 热电联产 MW 33"
+    },
+    {
+      "product": "分布式光伏",
+      "metric_type": "capacity",
+      "value": "10.90兆瓦（浙江）+1.42兆瓦（上海）",
+      "period": "报告期末",
+      "quote": "经营地区 发电类型 单位 装机容量 浙江省 分布式光伏 MW 10.90 ...上海市 分布式光伏 MW 1.42"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "湖北滨江热电联产项目（一期）工程",
+      "project_type": "capacity_expansion",
+      "location": "湖北小池滨江新区",
+      "investment_amount": "约为6.7亿元",
+      "designed_capacity": null,
+      "progress": "在施工建设阶段",
+      "expected_completion_time": "2026年12月",
+      "quote": "公司于2025年4月17日召开的第三届董事会第七次会议审议通过《关于审议湖北滨江热电联产项目（一期）工程项目投资建设暨总承包（EPC）招标的议案》，项目投资额约为6.7亿元。...报告期内，公司与中冶南方都市环保工程技术股份有限公司签订了《湖北小池滨江新区热电联产项目（一期）工程总承包（EPC）总承包合同》...截至报告期末，项目已在施工建设阶段。"
+    },
+    {
+      "name": "安吉天子湖燃煤耦合一般工业固废热电联产技改项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "6,913.53万元",
+      "designed_capacity": null,
+      "progress": "已实施完毕",
+      "expected_completion_time": null,
+      "quote": "浙江安吉天子湖热电燃煤耦合一般工业固废热电联产技改项目...项目性质：生产建设...计划投资总额(1)：6,913.53...本年投入金额：-...项目达到预定可使用状态日期：2024年9月"
+    },
+    {
+      "name": "杭州热电集团信息中心项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "3,010.00万元",
+      "designed_capacity": null,
+      "progress": "已实施完毕并完成整体验收结项",
+      "expected_completion_time": null,
+      "quote": "杭州热电集团信息中心...项目性质：运营管理...计划投资总额(1)：3,010.00...截至报告期末累计投入募集资金总额：2,405.68...本项目已结项：是"
+    },
+    {
+      "name": "丽水市杭丽热电项目集中供气技术改造工程（已取消）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "取消或终止",
+      "expected_completion_time": null,
+      "quote": "丽水市杭丽热电项目集中供气技术改造工程...本项目未达计划的具体原因...公司未实施该项目。"
+    },
+    {
+      "name": "丽水市杭丽热电项目集中供热三期项目（已中止并变更）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "6,706.96万元（原计划）",
+      "designed_capacity": null,
+      "progress": "中止并变更至湖北滨江项目",
+      "expected_completion_time": null,
+      "quote": "丽水市杭丽热电项目集中供热三期项目...公司中止募集资金投资项目“丽水市杭丽热电项目集中供热三期项目”，将该项目原计划投入的募集资金6,706.96万元...投入到控股子公司湖北滨江“湖北小池滨江新区热电联产项目（一期）”。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "循环流化床技术",
+      "asset_type": "core_technology",
+      "related_product": "热电联产",
+      "quantitative_info": null,
+      "quote": "公司是国内首批引进循环流化床技术的供热企业，该技术在控股参股的热电联产企业中实现了成功运用，形成了较为完整的能源利用体系。"
+    },
+    {
+      "name": "知识产权（含发明专利）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "年度累计获得知识产权51项（其中发明专利9项）",
+      "quote": "深化校企协同创新，签订校企合作课题协议6项，年度累计获得知识产权51项（其中发明专利9项），发表论文6篇（含SCI论文4篇），获市级QC奖项7项。"
+    },
+    {
+      "name": "固废掺烧、污泥焚烧技术",
+      "asset_type": "process_technology",
+      "related_product": "热电联产/资源综合利用",
+      "quantitative_info": null,
+      "quote": "推广应用固废掺烧、污泥焚烧、余热回收等新技术、新工艺。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "93,817.59万元，占年度销售总额29.6%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额93,817.59万元，占年度销售总额29.6%；其中前五名客户销售额中关联方销售额45,694.80万元，占年度销售总额14.42%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "253,195.25万元，占年度采购总额83.32%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额253,195.25 万元，占年度采购总额83.32%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "193,593.01万元，占年度采购总额比例63.71%",
+      "related_entity": "上海伊泰申浦能源有限公司",
+      "period": "报告期",
+      "quote": "报告期内向单个供应商的采购比例超过总额的50%...序号 供应商名称 采购额 占年度采购总额比例（%） 1 上海伊泰申浦能源有限公司 193,593.01 63.71"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济下行时，工业生产热力需求减少，热负荷的减少使得热电联产机组供热量及发电利用小时数下降，直接影响到热电厂的生产经营以及盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（一）宏观经济风险...当宏观经济下行时，工业生产热力需求减少，热负荷的减少使得热电联产机组供热量及发电利用小时数下降，直接影响到热电厂的生产经营以及盈利能力。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司是服务工业园区的企业，具有公用企业性质，经营受国家政策影响较大。当国家政策、地方政策的控煤要求以及园区产业规划等发生变化时，公司业绩会随之发生较大变化。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（二）政策变动风险...当国家政策、地方政策的控煤要求以及园区产业规划等发生变化时，公司业绩会随之发生较大变化。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "热电联产行业受煤炭、天然气、生物质等燃料价格变动影响大。未来化石能源价格依然存在波动风险，给公司经营带来风险。",
+      "related_entity": null,
+      "related_product": "煤炭、天然气",
+      "quote": "（三）原材料价格波动风险...热电联产行业受煤炭、天然气、生物质等燃料价格变动影响大。未来化石能源价格依然存在波动风险，给公司经营带来风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "自2025年1月1日起，浙江省非统调煤电纳入电力交易市场，公司参与电力市场交易。当电力市场出现大幅波动时，则可能对热电企业结算价格造成一定影响，从而影响公司业绩。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "（四）市场波动风险...自2025年1月1日起，浙江省非统调煤电纳入电力交易市场，公司参与电力市场交易。当电力市场出现大幅波动时，则可能对热电企业结算价格造成一定影响，从而影响公司业绩。"
+    }
+  ]
+}

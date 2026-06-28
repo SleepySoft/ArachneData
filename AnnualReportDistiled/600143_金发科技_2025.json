@@ -1,0 +1,565 @@
+{
+  "company_name_mentioned": "金发科技股份有限公司",
+  "produces": [
+    {
+      "name": "改性塑料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司改性塑料销量再创新高，实现产成品销量295.06万吨，同比增长15.64%，工程塑料占比不断提升；营业收入357.81亿元，同比增长11.55%，核心主业增长态势稳健。"
+    },
+    {
+      "name": "环保高性能再生塑料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "主要环保高性能再生材料全球销量25.63万吨，同比下降10.35%（主要是由于将该业务中涉及改性生产环节的销量，调整至车用、家电、消费电子等下游应用领域进行统计所致）。"
+    },
+    {
+      "name": "生物降解塑料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "生物降解塑料：主要产品销量22.63万吨，同比增长25.37%。"
+    },
+    {
+      "name": "特种工程塑料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "特种工程塑料：主要产品销量3.41万吨，同比增长42.68%。"
+    },
+    {
+      "name": "高性能纤维增强复合材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "高性能纤维增强复合材料：主要产品实现营业收入4.46亿元，同比增长5.44%。"
+    },
+    {
+      "name": "聚丙烯树脂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "宁波金发：主要产成品实现营业收入72.23亿元，同比增长15.60%。其中，聚丙烯产品销量91.01万吨（含内部自用量），同比增长13.85%。"
+    },
+    {
+      "name": "苯乙烯类树脂（ABS、SAN）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "辽宁金发:主要产成品实现营业收入77.85亿元，同比增长6.86%。其中，ABS产品销量54.97万吨（含内部自用量），同比增长14.43%。"
+    },
+    {
+      "name": "医疗健康产品（丁腈手套、口罩等）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "医疗健康产品全年实现销售收入10.44亿元，同比增长85.44%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "聚烯烃类树脂",
+      "target_product": "改性塑料",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...聚烯烃类树脂 框架合同/现货 电汇、承兑、L/C -9.29 286.00万吨 283.00万吨"
+    },
+    {
+      "name": "苯乙烯类树脂",
+      "target_product": "改性塑料",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...苯乙烯类树脂 框架合同/现货 电汇、承兑、L/C -4.35 52.00万吨 50.00万吨"
+    },
+    {
+      "name": "工程树脂",
+      "target_product": "改性塑料",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...工程树脂 框架合同/现货 电汇、承兑、L/C -15.70 51.50万吨 49.00万吨"
+    },
+    {
+      "name": "添加剂",
+      "target_product": "改性塑料",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...添加剂 框架合同/现货 电汇、承兑、L/C -16.00 88.40万吨 83.70万吨"
+    },
+    {
+      "name": "丙烷",
+      "target_product": "绿色石化产品（如PP， ABS）",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...丙烷 长约/现货 L/C -6.21 163.80万吨 163.25万吨"
+    },
+    {
+      "name": "苯乙烯",
+      "target_product": "绿色石化产品（如ABS）",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...苯乙烯 长约/现货 电汇、承兑、L/C -19.45 34.77万吨 34.77万吨"
+    },
+    {
+      "name": "丁二烯",
+      "target_product": "绿色石化产品（如ABS）",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...丁二烯 长约/现货 电汇、承兑、L/C -20.04 6.85万吨 6.85万吨"
+    },
+    {
+      "name": "BDO",
+      "target_product": "生物降解塑料",
+      "cost_proportion": null,
+      "quote": "主要原材料 采购模式 结算方式 采购量 耗用量...BDO 框架合同/现货 电汇、承兑、L/C -8.37 8.49万吨 8.45万吨"
+    },
+    {
+      "name": "电",
+      "target_product": "生产",
+      "cost_proportion": null,
+      "quote": "主要能源 采购模式 结算方式 采购量 耗用量...电 电网直供 电汇 -7.83 34.00亿Kwh 34.00亿Kwh"
+    },
+    {
+      "name": "天然气",
+      "target_product": "生产",
+      "cost_proportion": null,
+      "quote": "主要能源 采购模式 结算方式 采购量 耗用量...天然气 框架模式 电汇 -6.00 2.20亿立方米 2.20亿立方米"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车",
+      "source_product": "改性塑料、环保高性能再生塑料、新材料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "家电",
+      "source_product": "改性塑料、环保高性能再生塑料、聚丙烯树脂、苯乙烯类树脂",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "电子电工",
+      "source_product": "改性塑料、特种工程塑料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "改性塑料、特种工程塑料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "新能源",
+      "source_product": "改性塑料、特种工程塑料、高性能纤维增强复合材料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "具身智能机器人",
+      "source_product": "特种工程塑料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "航空航天/低空经济",
+      "source_product": "高性能纤维增强复合材料、特种工程塑料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "高端装备",
+      "source_product": "改性塑料、新材料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "绿色包装",
+      "source_product": "生物降解塑料",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    },
+    {
+      "name": "医疗健康",
+      "source_product": "医疗健康高分子材料（口罩、丁腈手套、防护服等）",
+      "quote": "产品广泛应用于汽车、家电、电子电工、消费电子、具身智能、新能源、航空航天、高端装备、绿色包装、医疗健康等行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈平绪",
+      "role": "董事长、法定代表人、技术总经理",
+      "quote": "现任公司董事长、董事兼法定代表人、技术总经理、辽宁金发董事长、广东金发董事长。"
+    },
+    {
+      "name": "袁长长",
+      "role": "副董事长、董事兼常务副总经理",
+      "quote": "现任公司副董事长、董事兼常务副总经理"
+    },
+    {
+      "name": "吴敌",
+      "role": "董事兼总经理、党委书记、营销总经理",
+      "quote": "现任公司董事、总经理兼党委书记、营销总经理。"
+    },
+    {
+      "name": "宁红涛",
+      "role": "董事",
+      "quote": "现任公司董事，中山大学管理学硕士，博士研究生，正高级经济师。"
+    },
+    {
+      "name": "陈年德",
+      "role": "董事兼副总经理、宁波金发总经理",
+      "quote": "现任公司董事兼副总经理、宁波金发总经理职务。"
+    },
+    {
+      "name": "李鹏",
+      "role": "董事兼副总经理、供应链总经理",
+      "quote": "现任公司董事、副总经理、供应链总经理"
+    },
+    {
+      "name": "李华祥",
+      "role": "职工代表董事、欧洲金发总经理",
+      "quote": "现任公司职工代表董事、欧洲金发总经理、西班牙金发环保董事长"
+    },
+    {
+      "name": "黄河生",
+      "role": "副总经理、华南公司总经理",
+      "quote": "现任公司副总经理、华南公司总经理"
+    },
+    {
+      "name": "戴耀珊",
+      "role": "董事会秘书",
+      "quote": "现任公司董事会秘书。"
+    },
+    {
+      "name": "雷长安",
+      "role": "财务总监",
+      "quote": "现任公司财务总监"
+    },
+    {
+      "name": "黄险波",
+      "role": "首席技术官",
+      "quote": "报告期内，公司首席技术官黄险波博士当选中国工程院院士"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "上海金发科技发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产、销售",
+      "quote": "上海金发 指 上海金发科技发展有限公司"
+    },
+    {
+      "name": "江苏金发科技新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产、销售",
+      "quote": "江苏金发 指 江苏金发科技新材料有限公司"
+    },
+    {
+      "name": "天津金发新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产、销售",
+      "quote": "天津金发 指 天津金发新材料有限公司"
+    },
+    {
+      "name": "广东金发科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广东金发 指 广东金发科技有限公司"
+    },
+    {
+      "name": "武汉金发科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产、销售",
+      "quote": "武汉金发 指 武汉金发科技有限公司"
+    },
+    {
+      "name": "成都金发科技新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产、销售",
+      "quote": "成都金发 指 成都金发科技新材料有限公司"
+    },
+    {
+      "name": "珠海万通特种工程塑料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "特种工程塑料的研发、生产、销售",
+      "quote": "特塑公司 指 珠海万通特种工程塑料有限公司"
+    },
+    {
+      "name": "珠海金发生物材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "金发生物 指 珠海金发生物材料有限公司"
+    },
+    {
+      "name": "宁波金发新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "绿色石化产品的研发、生产、销售",
+      "quote": "宁波金发 指 宁波金发新材料有限公司"
+    },
+    {
+      "name": "辽宁金发科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "绿色石化产品的研发、生产、销售",
+      "quote": "辽宁金发 指 辽宁金发科技有限公司"
+    },
+    {
+      "name": "Kingfa Science & Technology (USA), INC.",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "美国金发 指 Kingfa Science & technology (USA), INC."
+    },
+    {
+      "name": "Kingfa Science & Technology (India) Limited",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产、销售",
+      "quote": "印度金发 指 Kingfa Science & Technology (India) Limited"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "改性塑料",
+      "segment_type": "product_line",
+      "revenue_amount": "357.81亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "11.55%",
+      "quote": "公司改性塑料销量再创新高，实现产成品销量295.06万吨，同比增长15.64%，工程塑料占比不断提升；营业收入357.81亿元，同比增长11.55%，核心主业增长态势稳健。"
+    },
+    {
+      "name": "新材料",
+      "segment_type": "product_line",
+      "revenue_amount": "43.69亿元",
+      "revenue_proportion": null,
+      "gross_margin": "20.59%",
+      "yoy_change": "19.59%",
+      "quote": "新材料 4,369,390,171.49 3,469,680,561.69 20.59 19.59 12.83 4.76个 百分点"
+    },
+    {
+      "name": "绿色石化产品",
+      "segment_type": "product_line",
+      "revenue_amount": "124.63亿元",
+      "revenue_proportion": null,
+      "gross_margin": "-5.30%",
+      "yoy_change": "8.98%",
+      "quote": "绿色石化 产品 12,462,970,586.75 13,123,423,711.95 -5.30 8.98 7.90 1.06个 百分点"
+    },
+    {
+      "name": "医疗健康产品",
+      "segment_type": "product_line",
+      "revenue_amount": "10.44亿元",
+      "revenue_proportion": null,
+      "gross_margin": "-33.41%",
+      "yoy_change": "85.41%",
+      "quote": "医疗健康 产品 1,043,741,567.26 1,392,452,338.67 -33.41 85.41 84.30 0.81个 百分点"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "545.24亿元",
+      "revenue_proportion": null,
+      "gross_margin": "12.58%",
+      "yoy_change": "6.27%",
+      "quote": "国内销售 54,523,793,275.57 47,662,752,852.78 12.58 6.27 3.31 2.50个 百分点"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "103.98亿元",
+      "revenue_proportion": null,
+      "gross_margin": "16.21%",
+      "yoy_change": "18.26%",
+      "quote": "国外销售 10,398,345,453.33 8,713,222,036.58 16.21 18.26 21.47 2.21个 百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "改性塑料",
+      "metric_type": "sales_volume",
+      "value": "295.06万吨",
+      "period": "2025年度",
+      "quote": "公司改性塑料销量再创新高，实现产成品销量295.06万吨"
+    },
+    {
+      "product": "改性塑料",
+      "metric_type": "production_volume",
+      "value": "301.25万吨",
+      "period": "2025年度",
+      "quote": "主要产品 单位 生产量 销售量 库存量 上年增减 上年增减 上年增减...改性塑料 万吨 301.25 295.06 25.93 13.22 15.64 28.11"
+    },
+    {
+      "product": "生物降解塑料",
+      "metric_type": "sales_volume",
+      "value": "22.63万吨",
+      "period": "2025年度",
+      "quote": "主要产品销量22.63万吨，同比增长25.37%。"
+    },
+    {
+      "product": "生物降解塑料",
+      "metric_type": "production_volume",
+      "value": "30.30万吨",
+      "period": "2025年度",
+      "quote": "主要产品 单位 生产量 销售量 库存量 上年增减 上年增减 上年增减...生物降解塑料 万吨 30.30 22.63 3.07 19.24 25.37 51.98"
+    },
+    {
+      "product": "特种工程塑料",
+      "metric_type": "sales_volume",
+      "value": "3.41万吨",
+      "period": "2025年度",
+      "quote": "主要产品销量3.41万吨，同比增长42.68%。"
+    },
+    {
+      "product": "特种工程塑料",
+      "metric_type": "production_volume",
+      "value": "3.54万吨",
+      "period": "2025年度",
+      "quote": "主要产品 单位 生产量 销售量 库存量 上年增减 上年增减 上年增减...特种工程塑料 万吨 3.54 3.41 0.50 32.09 42.68 35.14"
+    },
+    {
+      "product": "绿色石化产品（PP）",
+      "metric_type": "sales_volume",
+      "value": "91.01万吨（含内部自用量）",
+      "period": "2025年度",
+      "quote": "其中，聚丙烯产品销量91.01万吨（含内部自用量），同比增长13.85%。"
+    },
+    {
+      "product": "绿色石化产品（ABS）",
+      "metric_type": "sales_volume",
+      "value": "54.97万吨（含内部自用量）",
+      "period": "2025年度",
+      "quote": "其中，ABS产品销量54.97万吨（含内部自用量），同比增长14.43%。"
+    },
+    {
+      "product": "手套",
+      "metric_type": "sales_volume",
+      "value": "93.90亿只",
+      "period": "2025年度",
+      "quote": "丁腈手套销量93.90亿只，同比增长99.19%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "120万吨/年聚丙烯热塑性弹性体（PTPE）及改性新材料一体化项目（一阶段）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "约50亿元",
+      "designed_capacity": "120万吨/年聚丙烯热塑性弹性体（PTPE）及改性新材料",
+      "progress": "已于2025年4月30日完成转固事项",
+      "expected_completion_time": "2025年4月30日转固",
+      "quote": "截至2025年6月30日，宁波金发“120万吨/年聚丙烯热塑性弹性体(PTPE)及改性新材料一体化项目”累计投入资金约50亿元，完成概算总投资的100%。...该项目已于2025年4月30日完成转固事项。"
+    },
+    {
+      "name": "1.5万吨/年LCP合成树脂项目（首期）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "1.5万吨/年LCP合成树脂（首期5000吨/年）",
+      "progress": "首期5000吨/年装置已顺利投产",
+      "expected_completion_time": null,
+      "quote": "公司1.5万吨/年LCP合成树脂项目首期5000吨/年装置已顺利投产"
+    },
+    {
+      "name": "千吨级聚酰亚胺项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "千吨级聚酰亚胺",
+      "progress": "已投产",
+      "expected_completion_time": null,
+      "quote": "千吨级聚酰亚胺项目已投产"
+    },
+    {
+      "name": "各基地扩产项目",
+      "project_type": "capacity_expansion",
+      "location": "华南、华西、华中、华东、华北、印度、越南等基地",
+      "investment_amount": null,
+      "designed_capacity": "改性塑料、生物降解塑料、高性能纤维增强复合材料等扩产",
+      "progress": "在建",
+      "expected_completion_time": "2026-2028年陆续完工",
+      "quote": "主要厂区或项目 设计产能 产能利用率 在建产能 在建产能已投 在建产能预计...华南基地 112万吨 75 5万吨 1,000 2026年8月"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计申请国内外专利共计7621件，其中包含5551件发明专利，887件实用新型，37件外观设计，701件PCT，445件国外专利",
+      "quote": "截至报告期末，公司累计申请国内外专利共计7621件，其中包含5551件发明专利，887件实用新型，37件外观设计，701件PCT，445件国外专利"
+    },
+    {
+      "name": "ISCC PLUS认证（特种工程塑料）",
+      "asset_type": "certification",
+      "related_product": "特种工程塑料（如PA10T、LCP、PPSU等）",
+      "quantitative_info": null,
+      "quote": "公司成为国内首家通过国际可持续发展与碳认证（ISCC）PLUS的特种工程塑料供应商"
+    },
+    {
+      "name": "LCP树脂第三代聚合技术",
+      "asset_type": "core_technology",
+      "related_product": "LCP（液晶高分子聚合物）",
+      "quantitative_info": null,
+      "quote": "开发出LCP树脂第三代聚合技术，实现了超高耐热LCP产业化"
+    },
+    {
+      "name": "生物基单体合成技术",
+      "asset_type": "core_technology",
+      "related_product": "生物降解塑料、生物基材料",
+      "quantitative_info": null,
+      "quote": "公司深化“生物基单体—聚酯—改性材料”全产业链协同，实现年产5万吨生物基丁二酸、1万吨生物基BDO稳定投产"
+    },
+    {
+      "name": "13551研发体系",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "1个中央研究院、3个国际研发中心、5个分技术中心、5个化工新材料孵化基地和1个国家产业创新中心",
+      "quote": "公司秉承“自主创新、技术领先、产品卓越”的研发理念，打造“13551”研发体系（1个中央研究院、3个国际研发中心、5个分技术中心、5个化工新材料孵化基地和1个国家产业创新中心）"
+    },
+    {
+      "name": "累计牵头和参与起草标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "牵头和参与起草发布国际标准14项，主持/参与制修订国家标准、行业标准、地方标准、团体标准等260余项",
+      "quote": "公司累计牵头和参与起草发布国际标准14项，主持/参与制修订国家标准、行业标准、地方标准、团体标准等260余项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "436,604.04万元，占年度销售总额6.68%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额436,604.04万元，占年度销售总额6.68%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,349,043.05万元，占年度采购总额26.63%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额1,349,043.05万元，占年度采购总额26.63%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "全球经济波动对汽车、家电、电子、建筑等下游需求的影响；国际形势复杂多变，叠加国内石化行业供需失衡、效益下滑的影响，公司绿色石化板块短期内面临一定的挑战和压力。",
+      "related_entity": null,
+      "related_product": "绿色石化产品",
+      "quote": "1、宏观环境风险...①全球经济波动对汽车、家电、电子、建筑等下游需求的影响；...⑥国内供需失衡导致的石化行业效益全面下滑，对绿色石化板块形成周期底部压力。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "各国环保政策趋严（如碳排放限制、废弃物处置新规）引发的技术迭代压力与合规成本增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观环境风险...②各国环保政策趋严（如碳排放限制、废弃物处置新规）引发的技术迭代压力与合规成本增加"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "石油衍生品等大宗原材料价格剧烈波动导致的成本管控挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观环境风险...③石油衍生品等大宗原材料价格剧烈波动导致的成本管控挑战"
+    },
+    {
+      "risk_type": "other",
+      "description": "能源供应稳定性风险（如天然气短缺、电价上涨）；地缘政治冲突导致的供应链中断或贸易壁垒升级。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观环境风险...④能源供应稳定性风险（如天然气短缺、电价上涨）；⑤地缘政治冲突导致的供应链中断或贸易壁垒升级"
+    },
+    {
+      "risk_type": "other",
+      "description": "海外投资需应对政治与合规风险（新兴市场政策多变、法律纠纷、海外合规风险）、经济风险（汇率波动、资金安全、供应链成本攀升）及运营风险（文化差异、技术适配、信息安全）。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、海外投资风险...全球化布局需应对政治与合规风险（新兴市场政策多变、法律纠纷、海外合规风险）、经济风险（汇率波动、资金安全、供应链成本攀升）及运营风险（文化差异、技术适配、信息安全）。"
+    },
+    {
+      "risk_type": "other",
+      "description": "化工行业对原材料和能源依赖度高，需求受经济周期影响明显。原材料的价格受供需平衡与大宗原材料价格等因素的影响，呈现波动性。地缘政治紧张可能影响供应链安全，原材料供应不稳定性会影响生产和品质稳定性，进而影响生产成本，对公司的短期盈利与生产保障构成压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、原料价格及供应风险...化工行业对原材料和能源依赖度高...原材料供应不稳定性会影响生产和品质稳定性，进而影响生产成本，对公司的短期盈利与生产保障构成压力。"
+    }
+  ]
+}

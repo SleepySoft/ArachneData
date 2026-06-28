@@ -1,0 +1,337 @@
+{
+  "company_name_mentioned": "龙迅半导体（合肥）股份有限公司",
+  "produces": [
+    {
+      "name": "智能视频芯片",
+      "type": "device",
+      "revenue_proportion": "83.26% (按2025年主营业务收入计算)",
+      "quote": "公司聚焦高速混合信号芯片领域，构建了“智能视频芯片+互连芯片”两大产品体系...公司智能视频芯片可分为视频桥接芯片与视频处理芯片。"
+    },
+    {
+      "name": "互连芯片",
+      "type": "device",
+      "revenue_proportion": "16.42% (按2025年主营业务收入计算)",
+      "quote": "互连芯片是高速信号链路中的关键接口器件...公司互连芯片可分为高速信号互连芯片和AI运力芯片。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "晶圆制造服务",
+      "target_product": null,
+      "cost_proportion": "67.63% (占2025年集成电路行业总成本比例)",
+      "quote": "公司主要向晶圆代工厂采购晶圆制造服务...晶圆成本176，119，370.05元，占总成本比例67.63%。"
+    },
+    {
+      "name": "封装测试服务",
+      "target_product": null,
+      "cost_proportion": "29.73% (占2025年集成电路行业总成本比例)",
+      "quote": "向封装测试公司采购封装测试服务...封装测试成本77，418，411.37元，占总成本比例29.73%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能视觉终端",
+      "source_product": "智能视频芯片",
+      "quote": "产品全面覆盖HDMI、DP/eDP、USB-C、MIPI等主流接口协议...并聚焦智能视觉终端、智能车载、AR/VR、AI&HPC等核心领域。"
+    },
+    {
+      "name": "智能车载",
+      "source_product": "智能视频芯片、互连芯片",
+      "quote": "截至2025年12月31日，已有19颗车规级芯片通过AEC-Q100认证...涵盖车载桥接芯片、车载SerDes芯片组等核心产品。"
+    },
+    {
+      "name": "AR/VR",
+      "source_product": "智能视频芯片、互连芯片",
+      "quote": "AR/VR领域，产品及解决方案已被全球领先品牌的多款量产机型采用。"
+    },
+    {
+      "name": "AI&HPC (人工智能与高性能计算)",
+      "source_product": "互连芯片",
+      "quote": "AI领域，PCIe to SATA和HDMI to PCIe等芯片已完成验证，目前正全力推进PCIe/CXL/USB Retimer研发工作，重点聚焦AI PC与服务器市场。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "FENG CHEN",
+      "role": "董事长、总经理、核心技术人员、实际控制人、控股股东",
+      "quote": "公司控股股东、实际控制人、董事长、总经理、核心技术人员，FENG CHEN，中文名陈峰。"
+    },
+    {
+      "name": "苏进",
+      "role": "职工代表董事、副总经理、核心技术人员",
+      "quote": "苏进，职工代表董事、副总经理、核心技术人员。"
+    },
+    {
+      "name": "夏洪锋",
+      "role": "核心技术人员、工程部总监",
+      "quote": "夏洪锋，现任公司工程部总监，系公司核心技术人员。"
+    },
+    {
+      "name": "赵彧",
+      "role": "董事会秘书",
+      "quote": "赵彧，董事会秘书。"
+    },
+    {
+      "name": "韦永祥",
+      "role": "财务负责人",
+      "quote": "韦永祥，财务负责人。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "朗田亩（深圳朗田亩半导体科技有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "公司的全资子公司，经营范围包括集成电路、电子产品的研发设计、销售及相关的技术咨询服务。",
+      "quote": "朗田亩 指 深圳朗田亩半导体科技有限公司，公司的全资子公司。"
+    },
+    {
+      "name": "新加坡龙迅（ADVANCED CHIPLET TECHNOLOGY PTE.LTD.）",
+      "relation_type": "subsidiary",
+      "business_details": "公司在新加坡投资设立的全资子公司。",
+      "quote": "新加坡龙迅 指 公司在新加坡投资设立全资子公司，原名 Lontium Singapore Pte.Ltd.，2024年8月20日更名为ADVANCED CHIPLET TECHNOLOGY PTE.LTD.。"
+    },
+    {
+      "name": "Silterra (SILTERRA MALAYSIA SDN. BHD.)",
+      "relation_type": "supplier",
+      "business_details": "境外晶圆供应商之一。",
+      "quote": "Silterra 指 SILTERRA MALAYSIA SDN. BHD.，在马来西亚注册的公司。"
+    },
+    {
+      "name": "联华电子 (United Microelectronics Corporation)",
+      "relation_type": "supplier",
+      "business_details": "境外晶圆供应商之一。",
+      "quote": "联华电子 指 联华电子股份有限公司（United Microelectronics Corporation），在中国台湾地区注册的公司。"
+    },
+    {
+      "name": "超丰电子 (Greatek Electronics Inc.)",
+      "relation_type": "supplier",
+      "business_details": "境外封测供应商之一。",
+      "quote": "超丰电子 指 超丰电子股份有限公司（Greatek Electronics Inc.），在中国台湾地区注册的公司。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智能视频芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "473,109,464.06元",
+      "revenue_proportion": "83.26% (按主营业务收入计算)",
+      "gross_margin": "53.89%",
+      "yoy_change": "营业收入较上年同期增长24.05%",
+      "quote": "分产品，智能视频芯片...营业收入473，109，464.06元，营业成本218，164，469.72元，毛利率53.89%，营业收入比上年增减（%）24.05。"
+    },
+    {
+      "name": "互连芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "93,330,686.29元",
+      "revenue_proportion": "16.42% (按主营业务收入计算)",
+      "gross_margin": "55.23%",
+      "yoy_change": "营业收入较上年同期增长27.35%",
+      "quote": "分产品，互连芯片...营业收入93，330，686.29元，营业成本41，779，555.60元，毛利率55.23%，营业收入比上年增减（%）27.35。"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "355,699,436.08元",
+      "revenue_proportion": "62.60% (按主营业务收入计算)",
+      "gross_margin": "55.70%",
+      "yoy_change": "营业收入较上年同期增长23.94%",
+      "quote": "分地区，境内...营业收入355，699，436.08元，营业成本157，579，596.87元，毛利率55.70%，营业收入比上年增减（%）23.94。"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "212,468,993.89元",
+      "revenue_proportion": "37.40% (按主营业务收入计算)",
+      "gross_margin": "51.60%",
+      "yoy_change": "营业收入较上年同期增长18.69%",
+      "quote": "分地区，境外...营业收入212，468，993.89元，营业成本102，825，379.25元，毛利率51.60%，营业收入比上年增减（%）18.69。"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "561,284,044.46元",
+      "revenue_proportion": "98.78% (按主营业务收入计算)",
+      "gross_margin": "54.01%",
+      "yoy_change": "营业收入较上年同期增长22.06%",
+      "quote": "销售模式，经销...营业收入561，284，044.46元，营业成本258，134，124.89元，毛利率54.01%，营业收入比上年增减（%）22.06。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能视频芯片",
+      "metric_type": "production_volume",
+      "value": "35，556，403颗",
+      "period": "2025年",
+      "quote": "主要产品...生产量35，556，403颗，生产量比上年增减（%）28.42。"
+    },
+    {
+      "product": "智能视频芯片",
+      "metric_type": "sales_volume",
+      "value": "35，815，579颗",
+      "period": "2025年",
+      "quote": "主要产品...销售量35，815，579颗，销售量比上年增减（%）39.99。"
+    },
+    {
+      "product": "智能视频芯片",
+      "metric_type": "inventory_volume",
+      "value": "4，904，158颗",
+      "period": "2025年末",
+      "quote": "主要产品...库存量4，904，158颗，库存量比上年增减（%）-5.02。"
+    },
+    {
+      "product": "互连芯片",
+      "metric_type": "production_volume",
+      "value": "11，522，177颗",
+      "period": "2025年",
+      "quote": "主要产品...生产量11，522，177颗，生产量比上年增减（%）41.34。"
+    },
+    {
+      "product": "互连芯片",
+      "metric_type": "sales_volume",
+      "value": "11，235，974颗",
+      "period": "2025年",
+      "quote": "主要产品...销售量11，235，974颗，销售量比上年增减（%）26.49。"
+    },
+    {
+      "product": "互连芯片",
+      "metric_type": "inventory_volume",
+      "value": "3，026，431颗",
+      "period": "2025年末",
+      "quote": "主要产品...库存量3，026，431颗，库存量比上年增减（%）10.44。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "龙迅股份科创（研发）基地项目",
+      "project_type": "construction_project",
+      "location": "安徽省合肥市经济技术开发区",
+      "investment_amount": "约3.43亿元",
+      "designed_capacity": null,
+      "progress": "2025年11月正式开工建设，目前主体工程与配套设施按计划稳步推进",
+      "expected_completion_time": null,
+      "quote": "2025年4月，公司审议通过投资建设龙迅股份科创（研发）基地项目的议案，项目预计总投资约3.43亿元，落户合肥经济技术开发区；2025年11月，项目正式开工建设。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "ClearEdge技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "智能视频芯片、互连芯片",
+      "quantitative_info": null,
+      "quote": "公司自研的底层技术平台，集成高带宽SerDes、协议处理与加密以及高清音视频处理能力，用于支持可扩展的芯片开发和功能复用。"
+    },
+    {
+      "name": "高带宽SerDes技术",
+      "asset_type": "core_technology",
+      "related_product": "智能视频芯片、互连芯片、AI运力芯片",
+      "quantitative_info": "单通道传输速率支持最高32Gbps (在研)",
+      "quote": "公司在研的AI运力芯片支持每通道高达32Gbps的传输速率，能确保PCIe 4.0/5.0（兼容CXL2.0）和SATA等关键接口的数据完整性。"
+    },
+    {
+      "name": "AEC-Q100认证",
+      "asset_type": "certification",
+      "related_product": "车载芯片",
+      "quantitative_info": "已有19颗车规级芯片通过认证 (含Grade 2级)",
+      "quote": "截至2025年12月31日，已有19颗车规级芯片通过AEC-Q100认证（含Grade 2级高端产品）。"
+    },
+    {
+      "name": "知识产权",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "累计授权各类知识产权546项；其中授权专利169项（发明专利147项）",
+      "quote": "截至2025年底，公司共授权各类知识产权546项...授权专利169项，其中发明专利147项，占比86.98%。"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": "高清视频桥接及处理芯片和高速信号传输芯片",
+      "quantitative_info": "2021、2024年认定",
+      "quote": "认定主体：龙迅半导体（合肥）股份有限公司，认定称号：国家级专精特新“小巨人”企业，认定年度：2021、2024，产品名称：高清视频桥接及处理芯片和高速信号传输芯片。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "52.25%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额29，691.01万元，占年度销售总额52.25%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "90.59%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额28，234.64万元，占年度采购总额90.59%。"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "客户集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "报告期内，公司前五大客户的销售收入占营业收入的比例较高，客户集中度较高。"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "供应商整体集中度较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "报告期内，公司向前五名供应商采购金额占同期采购总额的比例相对较高，供应商整体集中度较高。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "如果未来公司技术迭代创新和产品升级换代未达到预期，难以满足市场需求的最新变化，可能会使得公司在市场竞争中处于不利地位，逐渐丧失市场竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、技术迭代风险...公司所处的集成电路设计行业具有技术密集型的特征，其特点为快速的技术演进及持续的产品升级...如果未来公司技术迭代创新和产品升级换代未达到预期..."
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司向前五名供应商采购金额占同期采购总额的比例相对较高，供应商整体集中度较高。其中，境外晶圆供应商主要有Silterra和联华电子，境外封测供应商主要有超丰电子，境外供应商占比及集中度较高。",
+      "related_entity": [
+        "Silterra",
+        "联华电子",
+        "超丰电子"
+      ],
+      "related_product": null,
+      "quote": "2、供应商集中度高风险...报告期内，公司向前五名供应商采购金额占同期采购总额的比例相对较高，供应商整体集中度较高；其中，境外晶圆供应商主要有Silterra和联华电子，境外封测供应商主要有超丰电子。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "报告期内，公司前五大客户的销售收入占营业收入的比例较高，客户集中度较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、客户相对集中风险...报告期内，公司前五大客户的销售收入占营业收入的比例较高，客户集中度较高。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司各类产品目前国产化率尚处于较低水平。公司相较于海外领先竞争对手，在整体规模、研发实力、营销网络、客户资源、融资渠道等诸多方面仍存在差距。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争加剧风险...目前市场竞争格局仍主要由境外公司所主导，公司各类产品目前国产化率尚处于较低水平。公司相较于海外领先竞争对手，在整体规模、研发实力、营销网络、客户资源、融资渠道等诸多方面仍存在差距。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "若未来下游市场需求下降或晶圆等原材料价格出现大幅下跌，公司将面临大幅计提存货跌价准备的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、存货跌价风险...若未来下游市场需求下降或晶圆等原材料价格出现大幅下跌，公司将面临大幅计提存货跌价准备的风险。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "未来如果全球贸易摩擦加剧，相关国家或地区采取限制性的贸易政策，境外客户可能会采取减少订单、要求公司降价或者承担额外的关税成本等措施，境外供应商可能会被限制或禁止向公司提供产品或服务。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、贸易摩擦及贸易政策变动风险...未来如果全球贸易摩擦加剧，相关国家或地区采取限制性的贸易政策，境外客户可能会采取减少订单、要求公司降价或者承担额外的关税成本等措施，境外供应商可能会被限制或禁止向公司提供产品或服务。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司同时进行境外采购和销售交易，主要以美元进行结算。未来若人民币兑美元汇率发生大幅波动...可能导致公司产生较大的汇兑损益，引起公司利润水平的波动。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、汇率波动风险...未来若人民币兑美元汇率发生大幅波动...可能导致公司产生较大的汇兑损益，引起公司利润水平的波动。"
+    }
+  ]
+}

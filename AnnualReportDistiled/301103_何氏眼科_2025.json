@@ -1,0 +1,424 @@
+{
+  "company_name_mentioned": "辽宁何氏眼科医院集团股份有限公司",
+  "produces": [
+    {
+      "name": "屈光不正手术矫正服务",
+      "type": "service",
+      "revenue_proportion": "21.43%",
+      "quote": "分产品：屈光不正手术矫正服务 234,125,544.83 21.43%"
+    },
+    {
+      "name": "白内障诊疗服务",
+      "type": "service",
+      "revenue_proportion": "13.27%",
+      "quote": "分产品：白内障诊疗服务 145,003,421.58 13.27%"
+    },
+    {
+      "name": "玻璃体视网膜诊疗服务",
+      "type": "service",
+      "revenue_proportion": "8.20%",
+      "quote": "分产品：玻璃体视网膜诊疗服务 89,648,671.14 8.20%"
+    },
+    {
+      "name": "非手术治疗",
+      "type": "service",
+      "revenue_proportion": "21.09%",
+      "quote": "分产品：非手术治疗 230,447,662.08 21.09%"
+    },
+    {
+      "name": "视光服务",
+      "type": "service",
+      "revenue_proportion": "31.84%",
+      "quote": "分产品：视光服务 347,866,916.35 31.84%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "药品",
+      "target_product": "医疗服务",
+      "cost_proportion": null,
+      "quote": "公司采购品类主要包括药品、医疗器械以及镜架、镜片等视光材料"
+    },
+    {
+      "name": "医疗器械",
+      "target_product": "医疗服务",
+      "cost_proportion": null,
+      "quote": "公司采购品类主要包括药品、医疗器械以及镜架、镜片等视光材料"
+    },
+    {
+      "name": "镜架、镜片等视光材料",
+      "target_product": "视光服务",
+      "cost_proportion": null,
+      "quote": "公司采购品类主要包括药品、医疗器械以及镜架、镜片等视光材料"
+    }
+  ],
+  "applications": [
+    {
+      "name": "白内障",
+      "source_product": "白内障诊疗服务",
+      "quote": "针对用户当前的眼健康需求，公司依托先进医疗技术、人才、诊疗设备，为各类眼病患者提供眼科全科诊疗服务，诊疗服务中除了诊治常规的白内障、青光眼、玻璃体视网膜病变等常见致盲性眼病"
+    },
+    {
+      "name": "青光眼",
+      "source_product": "眼科全科诊疗服务",
+      "quote": "针对用户当前的眼健康需求，公司依托先进医疗技术、人才、诊疗设备，为各类眼病患者提供眼科全科诊疗服务，诊疗服务中除了诊治常规的白内障、青光眼、玻璃体视网膜病变等常见致盲性眼病"
+    },
+    {
+      "name": "屈光不正",
+      "source_product": "屈光不正手术矫正服务、视光服务",
+      "quote": "针对屈光不正开展光学矫正、屈光不正手术及视功能训练等视光服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "何伟",
+      "role": "董事长",
+      "quote": "公司负责人何伟、主管会计工作负责人何跃华及会计机构负责人(会计主管人员)王艳明声明；现任公司董事长。"
+    },
+    {
+      "name": "何向东",
+      "role": "董事",
+      "quote": "现任公司董事。"
+    },
+    {
+      "name": "何星儒",
+      "role": "总经理",
+      "quote": "现任公司总经理。"
+    },
+    {
+      "name": "何跃华",
+      "role": "财务总监（主管会计工作负责人）",
+      "quote": "主管会计工作负责人何跃华；2024年4月至今，在公司担任财务总监。"
+    },
+    {
+      "name": "徐玲",
+      "role": "副总经理",
+      "quote": "现任公司副总经理。"
+    },
+    {
+      "name": "郑春晖",
+      "role": "副总经理",
+      "quote": "现任公司副总经理。"
+    },
+    {
+      "name": "李丽娟",
+      "role": "职工代表董事",
+      "quote": "现任公司职工代表董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "辽宁何氏医学院",
+      "relation_type": "subsidiary",
+      "business_details": "协同合作，构建眼健康全产业链生态平台。",
+      "quote": "公司与关联方辽宁何氏医学院、沈阳何氏眼产业集团有限公司开展协同合作，构建起独特的眼健康全产业链生态平台。"
+    },
+    {
+      "name": "沈阳何氏眼产业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "协同合作，构建眼健康全产业链生态平台。",
+      "quote": "公司与关联方辽宁何氏医学院、沈阳何氏眼产业集团有限公司开展协同合作，构建起独特的眼健康全产业链生态平台。"
+    },
+    {
+      "name": "株式会社医道メディカル（医道医疗）",
+      "relation_type": "investor",
+      "business_details": "投资整合其在再生医疗领域的先进技术与研究成果。",
+      "quote": "报告期内，公司审议通过相关议案，由全资子公司广东横琴澳星启明国际医疗管理有限公司完成与株式会社医道メディカル及阴山泰成的《股份认购协议》《股东协议》签署...此次投资完成后，公司将整合医道医疗在再生医疗领域的先进技术与研究成果"
+    },
+    {
+      "name": "沈阳何氏眼科医院有限公司（沈阳何氏）",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，提供眼科专科诊疗服务和视光服务。",
+      "quote": "沈阳何氏是国家临床重点专科..."
+    },
+    {
+      "name": "大连何氏眼科医院有限公司（大连何氏）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，提供眼科服务。",
+      "quote": "大连何氏 指 大连何氏眼科医院有限公司，为公司全资子公司"
+    },
+    {
+      "name": "海南博鳌何氏眼科医院有限公司（海南何氏、海南博鳌医院）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，提供眼科服务。",
+      "quote": "海南何氏、海南博鳌医院 指 海南博鳌何氏眼科医院有限公司，为公司全资子公司"
+    },
+    {
+      "name": "中原证券股份有限公司",
+      "relation_type": "customer",
+      "business_details": "报告期内履行持续督导职责的保荐机构。",
+      "quote": "保荐机构名称 中原证券股份有限公司"
+    },
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "公司聘请的会计师事务所。",
+      "quote": "会计师事务所名称 容诚会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医疗行业",
+      "segment_type": "other",
+      "revenue_amount": "1,081,521,154.82元",
+      "revenue_proportion": "98.98%",
+      "gross_margin": "40.50%",
+      "yoy_change": "-0.58%",
+      "quote": "医疗行业 1,081,521,154.82 98.98% 1,087,811,855.34 99.29% -0.58% 毛利率 40.50%"
+    },
+    {
+      "name": "视光服务",
+      "segment_type": "product_line",
+      "revenue_amount": "347,866,916.35元",
+      "revenue_proportion": "31.84%",
+      "gross_margin": "42.10%",
+      "yoy_change": "-4.61%",
+      "quote": "视光服务 347,866,916.35 31.84% 364,686,807.75 33.29% -4.61% 毛利率 42.10%"
+    },
+    {
+      "name": "屈光不正手术矫正服务",
+      "segment_type": "product_line",
+      "revenue_amount": "234,125,544.83元",
+      "revenue_proportion": "21.43%",
+      "gross_margin": "50.27%",
+      "yoy_change": "7.57%",
+      "quote": "屈光不正手术矫正服务 234,125,544.83 21.43% 217,645,271.28 19.86% 7.57% 毛利率 50.27%"
+    },
+    {
+      "name": "非手术治疗",
+      "segment_type": "product_line",
+      "revenue_amount": "230,447,662.08元",
+      "revenue_proportion": "21.09%",
+      "gross_margin": "34.34%",
+      "yoy_change": "4.67%",
+      "quote": "非手术治疗 230,447,662.08 21.09% 220,168,525.21 20.10% 4.67% 毛利率 34.34%"
+    },
+    {
+      "name": "白内障诊疗服务",
+      "segment_type": "product_line",
+      "revenue_amount": "145,003,421.58元",
+      "revenue_proportion": "13.27%",
+      "gross_margin": "37.67%",
+      "yoy_change": "-7.43%",
+      "quote": "白内障诊疗服务 145,003,421.58 13.27% 156,639,965.93 14.30% -7.43% 毛利率 37.67%"
+    },
+    {
+      "name": "辽宁省内",
+      "segment_type": "region",
+      "revenue_amount": "1,029,402,832.45元",
+      "revenue_proportion": "94.21%",
+      "gross_margin": "42.93%",
+      "yoy_change": "-0.37%",
+      "quote": "辽宁省内 1,029,402,832.45 94.21% 1,033,251,878.09 94.31% -0.37% 毛利率 42.93%"
+    },
+    {
+      "name": "辽宁省外",
+      "segment_type": "region",
+      "revenue_amount": "63,215,897.96元",
+      "revenue_proportion": "5.79%",
+      "gross_margin": "9.31%",
+      "yoy_change": "1.34%",
+      "quote": "辽宁省外 63,215,897.96 5.79% 62,381,939.92 5.69% 1.34% 毛利率 9.31%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "眼科服务机构",
+      "metric_type": "other",
+      "value": "121家",
+      "period": "报告期",
+      "quote": "报告期内，公司拥有 121 家眼科服务直营机构"
+    },
+    {
+      "product": "加盟门店",
+      "metric_type": "other",
+      "value": "累计签约门店达 61 家",
+      "period": "报告期",
+      "quote": "报告期内新增签约加盟店 35 家，累计签约门店达 61 家"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "沈阳何氏医院扩建项目",
+      "project_type": "fundraising_project",
+      "location": "沈阳",
+      "investment_amount": "13,700.00万元",
+      "designed_capacity": null,
+      "progress": "45.65%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "1.沈阳何氏医院扩建项目...承诺投资总额 13,700.00 万元...投资进度 45.65%...达到预定可使用状态日期...延后至2026年12月31日"
+    },
+    {
+      "name": "何氏眼科新设视光中心项目",
+      "project_type": "fundraising_project",
+      "location": "全国",
+      "investment_amount": "23,450.00万元",
+      "designed_capacity": null,
+      "progress": "25.81%",
+      "expected_completion_time": "2027年3月31日",
+      "quote": "2.何氏眼科新设视光中心项目...承诺投资总额 23,450.00 万元...投资进度 25.81%...达到预定可使用状态日期...延后至2027年3月31日"
+    },
+    {
+      "name": "何氏眼科信息化建设项目",
+      "project_type": "fundraising_project",
+      "location": "全国",
+      "investment_amount": "4,106.45万元",
+      "designed_capacity": null,
+      "progress": "65.92%",
+      "expected_completion_time": "2026年12月",
+      "quote": "5.何氏眼科信息化建设项目...承诺投资总额 4,106.45 万元...投资进度 65.92%...达到预定可使用状态的时间延期至 2026年12月。"
+    },
+    {
+      "name": "数智化基础建设项目（一期）",
+      "project_type": "fundraising_project",
+      "location": "全国",
+      "investment_amount": "6,530.92万元",
+      "designed_capacity": null,
+      "progress": "20.96%",
+      "expected_completion_time": "2028年12月",
+      "quote": "4.数智化基础建设项目（一期）...承诺投资总额 6,530.92 万元...投资进度 20.96%...达到预定可使用状态的时间延期至 2028年12月。"
+    },
+    {
+      "name": "收购日本株式会社医道メディカル70.65%股权",
+      "project_type": "acquisition_project",
+      "location": "日本",
+      "investment_amount": "4,000万元（超募资金）",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "2025年8月26日...审议通过了《关于使用部分超募资金注资全资子公司收购株式会社医道メディカル 70.65%股权的议案》，同意公司使用超募资金 4,000 万元人民币对公司全资子公司广东横琴澳星启明国际医疗管理有限公司进行注资并收购株式会社医道メディカル70.65%股权。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "三级眼健康医疗服务模式",
+      "asset_type": "core_technology",
+      "related_product": "眼科诊疗服务",
+      "quantitative_info": null,
+      "quote": "三级眼健康医疗服务模式是公司诊疗服务的核心根基，经三十年实践打磨形成，具有可持续、可复制的显著特点"
+    },
+    {
+      "name": "眼病筛查及视网膜定量分析算法",
+      "asset_type": "core_technology",
+      "related_product": "眼科智能筛查设备",
+      "quantitative_info": "1项",
+      "quote": "新增1项眼病筛查及视网膜定量分析算法及数据资产在数据交易所登记存证"
+    },
+    {
+      "name": "眼底和裂隙灯图像处理软件",
+      "asset_type": "patent",
+      "related_product": "医疗器械",
+      "quantitative_info": "二类医疗器械注册证",
+      "quote": "眼底和裂隙灯图像处理软件...取得二类医疗器械注册证"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "新增2项",
+      "quote": "新增发明专利 2项"
+    },
+    {
+      "name": "外观专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "新增2项",
+      "quote": "外观专利 2项"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "新增2项",
+      "quote": "实用新型2项"
+    },
+    {
+      "name": "ISO9001国际质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": "视光中心服务",
+      "quantitative_info": null,
+      "quote": "公司视光中心通过 ISO9001 国际质量管理体系认证"
+    },
+    {
+      "name": "国际眼科基金会（OF）“国际眼科医师培训机构”认证",
+      "asset_type": "certification",
+      "related_product": "医师培训",
+      "quantitative_info": null,
+      "quote": "公司正式获得国际眼科基金会（OF）“国际眼科医师培训机构”认证"
+    },
+    {
+      "name": "国家药物临床试验机构",
+      "asset_type": "certification",
+      "related_product": "临床试验",
+      "quantitative_info": null,
+      "quote": "国家药物临床试验机构"
+    },
+    {
+      "name": "眼健康档案云平台",
+      "asset_type": "technical_platform",
+      "related_product": "全生命周期眼健康管理",
+      "quantitative_info": null,
+      "quote": "公司通过“眼健康档案云平台”串联三级机构数据"
+    },
+    {
+      "name": "智慧云医疗平台与智慧“眼管站”",
+      "asset_type": "technical_platform",
+      "related_product": "互联网医疗",
+      "quantitative_info": null,
+      "quote": "搭建智慧云医疗平台与智慧“眼管站”，借助互联网技术推动创新技术下沉"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "0.11%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 0.11%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "41.88%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 41.88%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "20.25%",
+      "related_entity": "供应商1",
+      "period": "2025年度",
+      "quote": "供应商1 64,097,852.06 20.25%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "行业监管政策将持续调整优化，若未来相关政策发生变化，将会对公司未来业务发展产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着医疗卫生体制改革与医保制度不断完善，行业监管政策将持续调整优化，若未来相关政策发生变化，如提高市场准入门槛、调整医保支付范围与规模、管控医疗服务及药品价格等，将会对公司未来业务发展产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "若未来市场竞争进一步加剧，可能引发服务价格竞争、获客成本上升、市场份额被挤压等情形，导致公司业务增长放缓、盈利能力承压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若未来市场竞争进一步加剧，可能引发服务价格竞争、获客成本上升、市场份额被挤压、人才与患者资源争夺加剧等情形，导致公司业务增长放缓、盈利能力承压"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "在临床诊疗实践中客观存在着程度不一的风险，可能引发医疗纠纷，导致公司面临投诉、经济赔偿、行政处罚、刑事责任或法律诉讼等风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "由于存在患者个体差异、疾病情况不同、诊疗设备、医生执业能力、医院条件限制等诸多因素的影响，在临床诊疗实践中客观存在着程度不一的风险。...由此可能导致医疗纠纷的产生。上述因素如引发医疗事故或纠纷，可能导致公司面临投诉、经济赔偿、行政处罚、刑事责任或法律诉讼等风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司在眼健康管理中探索人工智能应用，可能面临算法出现偏差故障、医疗数据合规与安全隐患、技术迭代与投入压力等风险。",
+      "related_entity": null,
+      "related_product": "人工智能（AI）技术",
+      "quote": "公司在眼健康管理中探索人工智能应用，人工智能应用高度依赖多源数据。可能面临算法出现偏差故障、医疗数据合规与安全隐患、区域化基层落地适配困难、医疗 AI 监管政策变化、技术迭代与投入压力等风险。"
+    }
+  ]
+}

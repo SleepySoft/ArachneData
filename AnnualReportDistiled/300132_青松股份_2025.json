@@ -1,0 +1,469 @@
+{
+  "company_name_mentioned": "福建青松股份有限公司",
+  "produces": [
+    {
+      "name": "面膜系列",
+      "type": "device",
+      "revenue_proportion": "47.74%",
+      "quote": "分产品：面膜系列 1,059,413,589.81 47.74%"
+    },
+    {
+      "name": "护肤品系列",
+      "type": "device",
+      "revenue_proportion": "36.84%",
+      "quote": "分产品：护肤系列 817,518,609.67 36.84%"
+    },
+    {
+      "name": "湿巾系列",
+      "type": "device",
+      "revenue_proportion": "11.89%",
+      "quote": "分产品：湿巾系列 263,800,841.68 11.89%"
+    },
+    {
+      "name": "其他产品系列",
+      "type": "device",
+      "revenue_proportion": "3.53%",
+      "quote": "分产品：其他产品系列 78,564,082.86 3.53%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "包装材料",
+      "target_product": "化妆品",
+      "cost_proportion": "41.44%",
+      "quote": "主要原材料：包装材料（元/件）...采购额占采购总额的比例 41.44%"
+    },
+    {
+      "name": "化学原料",
+      "target_product": "化妆品",
+      "cost_proportion": "41.19%",
+      "quote": "主要原材料：化学原料（元/千克）...采购额占采购总额的比例 41.19%"
+    },
+    {
+      "name": "无纺布及纤维",
+      "target_product": "面膜/湿巾",
+      "cost_proportion": "17.03%",
+      "quote": "主要原材料：无纺布及纤维（元/千克）...采购额占采购总额的比例 17.03%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "化妆品品牌商",
+      "source_product": "面膜、护肤品、湿巾",
+      "quote": "诺斯贝尔的客户群体覆盖国内外化妆品品牌，先后与国内外众多知名客户建立了稳定的业务合作关系，获得业界众多美誉，并多次获得品牌客户颁发的“优秀供应商”“年度最佳供应商”等荣誉称号。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "范展华",
+      "role": "董事长、总裁",
+      "quote": "范展华先生，1974年出生，中国国籍，...现任本公司董事长兼总裁，兼任子公司诺斯贝尔董事及总经理..."
+    },
+    {
+      "name": "骆棋辉",
+      "role": "副总裁、董事会秘书",
+      "quote": "骆棋辉先生，1980年出生，中国国籍，...现任本公司副总裁及董事会秘书..."
+    },
+    {
+      "name": "汪玉聪",
+      "role": "财务总监",
+      "quote": "汪玉聪先生，1990年出生，中国国籍，...现任本公司财务总监..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "诺斯贝尔化妆品股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司，从事化妆品ODM业务",
+      "quote": "诺斯贝尔 指 诺斯贝尔化妆品股份有限公司，系公司全资子公司"
+    },
+    {
+      "name": "广州青航投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "广州青航 指 广州青航投资有限公司，系公司全资子公司"
+    },
+    {
+      "name": "广东可普睿生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系广州青航控股子公司",
+      "quote": "广东可普睿 指 广东可普睿生物科技有限公司，系广州青航控股子公司"
+    },
+    {
+      "name": "广东领博科技投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "广东领博 指 广东领博科技投资有限公司，系公司全资子公司"
+    },
+    {
+      "name": "广东丽研生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系广东领博全资子公司，主要从事化妆品原材料研发、生产",
+      "quote": "广东丽研 指 广东丽研生物科技有限公司，系广东领博全资子公司"
+    },
+    {
+      "name": "广东埃夫诺米科技投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司全资子公司",
+      "quote": "广东埃夫诺米 指 广东埃夫诺米科技投资有限公司，系公司全资子公司"
+    },
+    {
+      "name": "诺斯贝尔（香港）无纺布制品有限公司",
+      "relation_type": "investor",
+      "business_details": "系公司第一大股东，持有公司9.17%股份",
+      "quote": "香港诺斯贝尔 指 诺斯贝尔（香港）无纺布制品有限公司，系公司第一大股东，持有公司9.17%股份，系公司关联方"
+    },
+    {
+      "name": "杭州颐唯实检测科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系广州青航控股子公司",
+      "quote": "杭州颐唯实 指 杭州颐唯实检测科技有限公司，系广州青航控股子公司"
+    },
+    {
+      "name": "宝洁集团",
+      "relation_type": "customer",
+      "business_details": "国际知名品牌客户",
+      "quote": "国际知名品牌客户包括宝洁、联合利华、雅诗兰黛...等"
+    },
+    {
+      "name": "植物医生",
+      "relation_type": "customer",
+      "business_details": "国内知名品牌客户",
+      "quote": "国内知名品牌客户包括...植物医生、自然堂、珀莱雅...等"
+    },
+    {
+      "name": "百雀羚",
+      "relation_type": "customer",
+      "business_details": "国内知名品牌客户",
+      "quote": "国内知名品牌客户包括...百雀羚、华熙生物、福瑞达...等"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化妆品",
+      "segment_type": "product_line",
+      "revenue_amount": "2,219,297,124.02元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "20.55%",
+      "yoy_change": "14.41%",
+      "quote": "分行业：化妆品 2,219,297,124.02 100.00%...毛利率 20.55%"
+    },
+    {
+      "name": "面膜系列",
+      "segment_type": "product_line",
+      "revenue_amount": "1,059,413,589.81元",
+      "revenue_proportion": "47.74%",
+      "gross_margin": "21.57%",
+      "yoy_change": "30.02%",
+      "quote": "分产品：面膜系列 1,059,413,589.81 47.74%...毛利率 21.57%"
+    },
+    {
+      "name": "护肤系列",
+      "segment_type": "product_line",
+      "revenue_amount": "817,518,609.67元",
+      "revenue_proportion": "36.84%",
+      "gross_margin": "20.25%",
+      "yoy_change": "10.68%",
+      "quote": "分产品：护肤系列 817,518,609.67 36.84%...毛利率 20.25%"
+    },
+    {
+      "name": "湿巾系列",
+      "segment_type": "product_line",
+      "revenue_amount": "263,800,841.68元",
+      "revenue_proportion": "11.89%",
+      "gross_margin": "16.01%",
+      "yoy_change": "-9.36%",
+      "quote": "分产品：湿巾系列 263,800,841.68 11.89%...毛利率 16.01%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "910,718,689.12元",
+      "revenue_proportion": "41.04%",
+      "gross_margin": "17.75%",
+      "yoy_change": "24.71%",
+      "quote": "分地区：华东地区 910,718,689.12 41.04%...毛利率 17.75%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "573,252,306.41元",
+      "revenue_proportion": "25.83%",
+      "gross_margin": "22.88%",
+      "yoy_change": "22.11%",
+      "quote": "分地区：华南地区 573,252,306.41 25.83%...毛利率 22.88%"
+    },
+    {
+      "name": "出口",
+      "segment_type": "region",
+      "revenue_amount": "399,515,189.65元",
+      "revenue_proportion": "18.00%",
+      "gross_margin": null,
+      "yoy_change": "11.85%",
+      "quote": "分地区：出口 399,515,189.65 18.00%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,219,297,124.02元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "20.55%",
+      "yoy_change": "14.41%",
+      "quote": "分销售模式：直销 2,219,297,124.02 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "面膜系列",
+      "metric_type": "capacity",
+      "value": "1,803,792,000片",
+      "period": "报告期",
+      "quote": "主要产品 设计产能：面膜系列 1,803,792,000片"
+    },
+    {
+      "product": "面膜系列",
+      "metric_type": "capacity_utilization",
+      "value": "57.51%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能...面膜系列...产能利用率 57.51%"
+    },
+    {
+      "product": "湿巾系列",
+      "metric_type": "capacity",
+      "value": "14,664,960,000片",
+      "period": "报告期",
+      "quote": "主要产品 设计产能：湿巾系列 14,664,960,000片"
+    },
+    {
+      "product": "湿巾系列",
+      "metric_type": "capacity_utilization",
+      "value": "29.99%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能...湿巾系列...产能利用率 29.99%"
+    },
+    {
+      "product": "护肤品系列",
+      "metric_type": "capacity",
+      "value": "276,176,099支/100ml",
+      "period": "报告期",
+      "quote": "主要产品 设计产能：护肤品系列 276,176,099支/100ml"
+    },
+    {
+      "product": "护肤品系列",
+      "metric_type": "capacity_utilization",
+      "value": "48.13%",
+      "period": "报告期",
+      "quote": "主要产品 设计产能...护肤品系列...产能利用率 48.13%"
+    },
+    {
+      "product": "化妆品（面膜、湿巾等）",
+      "metric_type": "production_volume",
+      "value": "5,904,663,103片",
+      "period": "2025年",
+      "quote": "化妆品（面膜、湿巾等）：生产量 片 5,904,663,103"
+    },
+    {
+      "product": "化妆品（面膜、湿巾等）",
+      "metric_type": "sales_volume",
+      "value": "5,886,235,722片",
+      "period": "2025年",
+      "quote": "化妆品（面膜、湿巾等）：销售量 片 5,886,235,722"
+    },
+    {
+      "product": "化妆品（面膜、湿巾等）",
+      "metric_type": "inventory_volume",
+      "value": "474,412,098片",
+      "period": "2025年末",
+      "quote": "化妆品（面膜、湿巾等）：库存量 片 474,412,098"
+    },
+    {
+      "product": "化妆品（膏霜乳液等）",
+      "metric_type": "production_volume",
+      "value": "132,935,194支/100ml",
+      "period": "2025年",
+      "quote": "化妆品（膏霜乳液等）：生产量 支/100ml 132,935,194"
+    },
+    {
+      "product": "化妆品（膏霜乳液等）",
+      "metric_type": "sales_volume",
+      "value": "129,977,847支/100ml",
+      "period": "2025年",
+      "quote": "化妆品（膏霜乳液等）：销售量 支/100ml 129,977,847"
+    },
+    {
+      "product": "化妆品（膏霜乳液等）",
+      "metric_type": "inventory_volume",
+      "value": "16,118,834支/100ml",
+      "period": "2025年末",
+      "quote": "化妆品（膏霜乳液等）：库存量 支/100ml 16,118,834"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "诺斯贝尔148亩大型产业园区建设项目",
+      "project_type": "construction_project",
+      "location": "中山市南头镇穗西村",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "处置完成。2025年9月30日，诺斯贝尔与鸿嘉科技已办理完成上述土地使用权过户手续...2025年10月15日，鸿嘉科技已按《中山市土地使用权转让合同》约定将剩余土地使用权转让款合计143,116,000元支付至诺斯贝尔银行账户，诺斯贝尔148亩土地项目处置工作已全部完成。",
+      "expected_completion_time": null,
+      "quote": "①148亩大型产业园区建设项目处置完成...2025年9月30日，诺斯贝尔与鸿嘉科技已办理完成上述土地使用权过户手续...2025年10月15日...诺斯贝尔148亩土地项目处置工作已全部完成。"
+    },
+    {
+      "name": "宝捷会基金项目",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "广州青航认缴出资904.6430万元",
+      "designed_capacity": null,
+      "progress": "2025年6月30日，宝捷会基金合伙人会议一致同意对募集规模及部分协议条款进行变更及修改...广州青航认缴出资由1,000万元减少至904.6430万元，持有宝捷会基金份额比例变更为3.4768%。",
+      "expected_completion_time": null,
+      "quote": "②宝捷会基金项目...2025年6月30日，宝捷会基金合伙人会议一致同意对募集规模及部分协议条款进行变更及修改...广州青航认缴出资由1,000万元减少至904.6430万元，持有宝捷会基金份额比例变更为3.4768%。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利技术",
+      "asset_type": "patent",
+      "related_product": "面膜、护肤品、湿巾等",
+      "quantitative_info": "截至报告期末，公司及下属各子公司合计拥有有效期内的专利147项，其中发明专利85项，实用新型专利53项，外观设计专利9项。",
+      "quote": "（4）专利申请方面，截至报告期末，公司及下属各子公司合计拥有有效期内的专利147项，其中发明专利85项，实用新型专利53项，外观设计专利9项。"
+    },
+    {
+      "name": "GreenCall™植物愈伤细胞定向培养技术",
+      "asset_type": "core_technology",
+      "related_product": "植物细胞化妆品原料",
+      "quantitative_info": null,
+      "quote": "控股子公司广东可普睿搭建植物细胞智能制造平台，通过GreenCall™植物愈伤细胞定向培养技术与PhytoExo™ PLUS+植物愈伤细胞外囊泡递送技术协同创新..."
+    },
+    {
+      "name": "PhytoExo™ PLUS+植物愈伤细胞外囊泡递送技术",
+      "asset_type": "core_technology",
+      "related_product": "植物外囊泡化妆品原料",
+      "quantitative_info": null,
+      "quote": "控股子公司广东可普睿搭建植物细胞智能制造平台，通过GreenCall™植物愈伤细胞定向培养技术与PhytoExo™ PLUS+植物愈伤细胞外囊泡递送技术协同创新..."
+    },
+    {
+      "name": "微乳包裹技术",
+      "asset_type": "process_technology",
+      "related_product": "面膜",
+      "quantitative_info": null,
+      "quote": "在面膜创新领域，诺斯贝尔推出微乳包裹技术加持的水光焕颜油敷面膜..."
+    },
+    {
+      "name": "BFS超锁鲜技术",
+      "asset_type": "process_technology",
+      "related_product": "次抛精华液",
+      "quantitative_info": null,
+      "quote": "OLAY胜肽专研紧致密护快充次抛精华液...BFS超锁鲜技术，新鲜卫生..."
+    },
+    {
+      "name": "ISO9001认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2006年首次获得",
+      "quote": "诺斯贝尔通过ISO9001、ISO13485、美国cGMP、ISO22716的认证...在2006年首次获得ISO9001认证"
+    },
+    {
+      "name": "ISO13485医疗器械质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2007年取得",
+      "quote": "2007年取得ISO13485医疗器械质量管理体系认证"
+    },
+    {
+      "name": "ISO22716化妆品良好生产规范认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2012年取得",
+      "quote": "2012年取得ISO22716、美国cGMP《化妆品良好生产规范》认证"
+    },
+    {
+      "name": "美国cGMP《化妆品良好生产规范》认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "2012年取得",
+      "quote": "2012年取得ISO22716、美国cGMP《化妆品良好生产规范》认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "739,443,108.15元，占年度销售总额比例33.32%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 739,443,108.15...前五名客户合计销售金额占年度销售总额比例 33.32%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "230,833,196.15元，占年度采购总额比例19.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 230,833,196.15...前五名供应商合计采购金额占年度采购总额比例 19.31%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "不存在向单一客户销售比例超过总额的30%，或严重依赖于少数客户的情况",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司不存在向单一客户销售比例超过总额的30%，或严重依赖于少数客户的情况。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "不存在向单一供应商采购比例超过总额的30%，或严重依赖于少数供应商的情况",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司不存在向单一供应商采购比例超过总额的30%，或严重依赖于少数供应商的情况。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "化妆品原材料主要包括化工原料、无纺布或其原材料纤维和包装材料，原材料占产品成本比重较大。受宏观经济及行业环境影响，如未来化妆品原材料价格出现较大幅度上涨，且原材料价格上涨不能及时传递给下游客户，公司经营业绩将受到不利影响。",
+      "related_entity": null,
+      "related_product": "化妆品",
+      "quote": "2、原材料采购及价格波动风险...原材料占产品成本比重较大。受宏观经济及行业环境影响，如未来化妆品原材料价格出现较大幅度上涨，且原材料价格上涨不能及时传递给下游客户，公司经营业绩将受到不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "近年来中国化妆品行业不断扩大的市场规模吸引了众多化妆品企业进入制造及品牌经营领域，化妆品代工行业竞争将更加激烈。如果公司在产品开发、生产设备、质量控制、交货时间等方面不能满足客户需求，将面临客户流失的风险。",
+      "related_entity": null,
+      "related_product": "化妆品",
+      "quote": "3、市场竞争风险...化妆品代工行业竞争将更加激烈。如果公司在产品开发、生产设备、质量控制、交货时间等方面不能满足客户需求，将面临客户流失的风险。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "如采购的原材料出现质量问题，或者生产过程不规范导致产品质量问题，或者出现未知悉或无法预计的不良作用，可能引发皮肤过敏或者其他不适现象，会导致客户或消费者对公司的投诉甚至诉讼，进而对公司经营业绩及品牌声誉带来不利影响。",
+      "related_entity": null,
+      "related_product": "化妆品",
+      "quote": "4、产品质量控制风险...如采购的原材料出现质量问题，或者生产过程不规范导致产品质量问题，或者出现未知悉或无法预计的不良作用，可能引发皮肤过敏或者其他不适现象，会导致客户或消费者对公司的投诉甚至诉讼，进而对公司经营业绩及品牌声誉带来不利影响。"
+    },
+    {
+      "risk_type": "capacity_utilization",
+      "description": "公司产能利用率总体不高。如果公司业务发展、经营战略等未能有效巩固和提升市场竞争优势，市场开拓及新接订单不足以提升公司产能利用率或销售不及预期，公司产能利用率可能持续不足或下滑，从而对公司业务与经营业绩造成重大不利影响。",
+      "related_entity": null,
+      "related_product": "化妆品",
+      "quote": "6、化妆品业务产能利用率不足的风险...公司产能利用率总体不高。如果公司业务发展、经营战略等未能有效巩固和提升市场竞争优势，市场开拓及新接订单不足以提升公司产能利用率或销售不及预期，公司产能利用率可能持续不足或下滑，从而对公司业务与经营业绩造成重大不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司产品存在一定比例的出口销售收入，报告期内公司产品自营出口占主营业务收入的比例为18.14%，外销收入主要以美元结算。...未来若出现人民币对美元汇率大幅波动情况，公司可能产生大额汇兑损益。",
+      "related_entity": null,
+      "related_product": "出口产品",
+      "quote": "9、汇率风险...公司产品存在一定比例的出口销售收入，报告期内公司产品自营出口占主营业务收入的比例为18.14%，外销收入主要以美元结算。...未来若出现人民币对美元汇率大幅波动情况，公司可能产生大额汇兑损益。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "《化妆品监督管理条例》、《化妆品生产质量管理规范》等一系列政策规定对化妆品企业的生产过程提出更高的要求。长期来看，化妆品行业监管政策有利于行业经营及竞争的规范化。",
+      "related_entity": null,
+      "related_product": "化妆品",
+      "quote": "（5）行业监管趋严，短期对行业有所冲击，长期将有利于行业健康发展...对化妆品企业的生产过程提出更高的要求。长期来看，化妆品行业监管政策有利于行业经营及竞争的规范化。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "随着国家环保标准的提高，公司将不断加大环保投入，确保环保设施的正常运转，保证达标排放。但若在生产加工过程中未按章操作、处理不当仍有可能会产生一定的环境污染，进而可能造成生产线被责令停产、行政处罚甚至面临被起诉的风险。",
+      "related_entity": null,
+      "related_product": "化妆品",
+      "quote": "5、环保风险...随着国家环保标准的提高，公司将不断加大环保投入...但若在生产加工过程中未按章操作、处理不当仍有可能会产生一定的环境污染，进而可能造成生产线被责令停产、行政处罚甚至面临被起诉的风险。"
+    }
+  ]
+}

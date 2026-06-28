@@ -1,0 +1,434 @@
+{
+  "company_name_mentioned": "金花企业（集团）股份有限公司",
+  "produces": [
+    {
+      "name": "药品（化学药品、中成药、原料药和保健品）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要业务为药品的研发、生产及销售，产品线涵盖化学药品、中成药、原料药和保健品。"
+    },
+    {
+      "name": "金天格胶囊",
+      "type": "device",
+      "revenue_proportion": "2025年该类产品营业收入占公司医药工业营业收入的79.68%",
+      "quote": "公司主导产品金天格胶囊是国家一类新药，...2025年该类产品营业收入占公司医药工业营业收入的79.68%。"
+    },
+    {
+      "name": "转移因子系列产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "转移因子系列产品为双向免疫调节用药，在免疫功能紊乱相关疾病的诊疗中，积累了充分的临床应用数据与稳定的用药人群基础"
+    },
+    {
+      "name": "儿童系列用药",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "儿童系列用药包括小儿止咳糖浆等"
+    },
+    {
+      "name": "普药系列",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "普药系列主要包括开塞露、氨咖黄敏胶囊、甲芬那酸胶囊等临床及家庭常备用药。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "药品",
+      "cost_proportion": null,
+      "quote": "公司生产所需物料由物料部统一负责采购。物料部根据生产计划、库存情况及原材料市场情况，制定原材料的采购计划"
+    },
+    {
+      "name": "人工虎骨粉组成药材（药材1至药材8）",
+      "target_product": "金天格胶囊",
+      "cost_proportion": null,
+      "quote": "公司核心产品“金天格胶囊”以人工虎骨粉为原料，...基于保密的要求，公司对人工虎骨粉组成药材以编号形式披露。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "骨科临床",
+      "source_product": "金天格胶囊",
+      "quote": "目前已成为骨科临床中药一线用药"
+    },
+    {
+      "name": "免疫功能紊乱相关疾病的诊疗",
+      "source_product": "转移因子系列产品",
+      "quote": "在免疫功能紊乱相关疾病的诊疗中，积累了充分的临床应用数据与稳定的用药人群基础"
+    },
+    {
+      "name": "临床及家庭常备用药",
+      "source_product": "普药系列",
+      "quote": "普药系列主要包括开塞露、氨咖黄敏胶囊、甲芬那酸胶囊等临床及家庭常备用药。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邢雅江",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人邢雅江、主管会计工作负责人张守峰及会计机构负责人（会计主管人员）何瑞声明"
+    },
+    {
+      "name": "邢博越",
+      "role": "董事、副董事长、副总经理、实际控制人、控股股东",
+      "quote": "邢博越 副总经理 男 30 73,272,546.00 73,272,546.00 0 无 44.50 否"
+    },
+    {
+      "name": "张朝阳",
+      "role": "职工代表董事、董事会秘书",
+      "quote": "张朝阳 职工代表董事 男 55 30,000.00 30,000.00 0 无 29.90 否"
+    },
+    {
+      "name": "韩卓军",
+      "role": "总经理",
+      "quote": "韩卓军 总经理 男 61 0 0 0 0 83.40 否"
+    },
+    {
+      "name": "张守峰",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人邢雅江、主管会计工作负责人张守峰及会计机构负责人（会计主管人员）何瑞声明"
+    },
+    {
+      "name": "孙明",
+      "role": "董事会秘书（离任）",
+      "quote": "孙明 董事会秘书（离任）男 54 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "西安济世堂医药有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品销售",
+      "quote": "西安济世堂医药有限责任公司 子公司 药品销售 100.00 95.72 -85.31 0.77 -11.39 -16.36"
+    },
+    {
+      "name": "西安金花天格医药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品销售",
+      "quote": "西安金花天格医药有限公司 子公司 药品销售 1,000.00 241.29 -802.10 100.92 -161.64 -168.24"
+    },
+    {
+      "name": "陕西金花耐瑞特医药科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "药品研发",
+      "quote": "陕西金花耐瑞特医药科技有限公司 子公司 药品研发 1,800.00 41.11 41.06 -61.24 -61.24"
+    },
+    {
+      "name": "汉中金花医药科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "医学研究和试验发展",
+      "quote": "汉中金花医药科技有限公司 子公司 医学研究和试验发展 5,000.00 2,994.30 2,993.92 -6.08 -6.08"
+    },
+    {
+      "name": "常州华森医疗器械股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "医疗器械生产与销售",
+      "quote": "常州华森医疗器械股份有限公司 参股公司 医疗器械生产与销售 16,733.00 85,835.66 73,128.36 33,850.66 5,297.09 4,344.28"
+    },
+    {
+      "name": "西部投资集团有限公司",
+      "relation_type": "other",
+      "business_details": "关联方，股权转让款支付、资金占用费",
+      "quote": "根据与西部投资集团有限公司签订的金花国际大酒店有限公司《股权转让协议之补充协议（二）》，收到股权转让款对应的资金占用费所致。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药工业",
+      "segment_type": "product_line",
+      "revenue_amount": "543,794,806.57",
+      "revenue_proportion": null,
+      "gross_margin": "77.13%",
+      "yoy_change": "-7.01%",
+      "quote": "医药工业 543,794,806.57 124,381,269.28 77.13 -7.01 -1.56"
+    },
+    {
+      "name": "医药商业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,016,951.35",
+      "revenue_proportion": null,
+      "gross_margin": "3.96%",
+      "yoy_change": "23.55%",
+      "quote": "医药商业 1,016,951.35 976,678.90 3.96 23.55 83.17"
+    },
+    {
+      "name": "骨科类",
+      "segment_type": "product_line",
+      "revenue_amount": "433,299,524.68",
+      "revenue_proportion": "占公司医药工业营业收入的79.68%",
+      "gross_margin": "85.55%",
+      "yoy_change": "-8.63%",
+      "quote": "骨科类 433,299,524.68 62,607,026.02 85.55 -8.63 -7.66"
+    },
+    {
+      "name": "免疫类",
+      "segment_type": "product_line",
+      "revenue_amount": "62,191,070.45",
+      "revenue_proportion": null,
+      "gross_margin": "53.56%",
+      "yoy_change": "-6.71%",
+      "quote": "免疫类 62,191,070.45 28,879,779.00 53.56 -6.71 -6.45"
+    },
+    {
+      "name": "儿童类",
+      "segment_type": "product_line",
+      "revenue_amount": "8,131,984.34",
+      "revenue_proportion": null,
+      "gross_margin": "56.13%",
+      "yoy_change": "0.99%",
+      "quote": "儿童类 8,131,984.34 3,567,500.26 56.13 0.99 4.02"
+    },
+    {
+      "name": "普药类",
+      "segment_type": "product_line",
+      "revenue_amount": "38,898,878.05",
+      "revenue_proportion": null,
+      "gross_margin": "27.80%",
+      "yoy_change": "8.49%",
+      "quote": "普药类 38,898,878.05 28,085,444.06 27.80 8.49 15.83"
+    },
+    {
+      "name": "华东大区",
+      "segment_type": "region",
+      "revenue_amount": "114,122,095.20",
+      "revenue_proportion": null,
+      "gross_margin": "84.20%",
+      "yoy_change": "-7.59%",
+      "quote": "华东大区 114,122,095.20 18,031,791.80 84.20 -7.59 -6.34"
+    },
+    {
+      "name": "华南大区",
+      "segment_type": "region",
+      "revenue_amount": "39,427,837.59",
+      "revenue_proportion": null,
+      "gross_margin": "79.19%",
+      "yoy_change": "-9.15%",
+      "quote": "华南大区 39,427,837.59 8,206,022.30 79.19 -9.15 -8.82"
+    },
+    {
+      "name": "华中大区",
+      "segment_type": "region",
+      "revenue_amount": "52,153,336.29",
+      "revenue_proportion": null,
+      "gross_margin": "80.66%",
+      "yoy_change": "18.78%",
+      "quote": "华中大区 52,153,336.29 10,083,897.75 80.66 18.78 21.07"
+    },
+    {
+      "name": "东北大区",
+      "segment_type": "region",
+      "revenue_amount": "57,688,971.96",
+      "revenue_proportion": null,
+      "gross_margin": "74.08%",
+      "yoy_change": "9.42%",
+      "quote": "东北大区 57,688,971.96 14,955,067.26 74.08 9.42 1.57"
+    },
+    {
+      "name": "华北大区",
+      "segment_type": "region",
+      "revenue_amount": "121,785,755.12",
+      "revenue_proportion": null,
+      "gross_margin": "81.17%",
+      "yoy_change": "-22.18%",
+      "quote": "华北大区 121,785,755.12 22,932,600.21 81.17 -22.18 -17.78"
+    },
+    {
+      "name": "中南大区",
+      "segment_type": "region",
+      "revenue_amount": "20,195,894.49",
+      "revenue_proportion": null,
+      "gross_margin": "82.61%",
+      "yoy_change": "3.15%",
+      "quote": "中南大区 20,195,894.49 3,512,779.04 82.61 3.15 0.99"
+    },
+    {
+      "name": "西南大区",
+      "segment_type": "region",
+      "revenue_amount": "62,530,530.42",
+      "revenue_proportion": null,
+      "gross_margin": "80.79%",
+      "yoy_change": "4.79%",
+      "quote": "西南大区 62,530,530.42 12,012,330.75 80.79 4.79 4.98"
+    },
+    {
+      "name": "西北大区",
+      "segment_type": "region",
+      "revenue_amount": "74,617,036.45",
+      "revenue_proportion": null,
+      "gross_margin": "55.23%",
+      "yoy_change": "-12.77%",
+      "quote": "西北大区 74,617,036.45 33,405,260.23 55.23 -12.77 3.65"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "金天格胶囊（24粒/盒）",
+      "metric_type": "production_volume",
+      "value": "1,497",
+      "period": "报告期",
+      "quote": "金天格胶囊（24粒/盒） 万盒 1,497 1,351 95 -5.07 -7.51 -19.31"
+    },
+    {
+      "product": "金天格胶囊（24粒/盒）",
+      "metric_type": "sales_volume",
+      "value": "1,351",
+      "period": "报告期",
+      "quote": "金天格胶囊（24粒/盒） 万盒 1,497 1,351 95 -5.07 -7.51 -19.31"
+    },
+    {
+      "product": "金天格胶囊（24粒/盒）",
+      "metric_type": "inventory_volume",
+      "value": "95",
+      "period": "报告期末",
+      "quote": "金天格胶囊（24粒/盒） 万盒 1,497 1,351 95 -5.07 -7.51 -19.31"
+    },
+    {
+      "product": "转移因子胶囊（24粒/盒）",
+      "metric_type": "production_volume",
+      "value": "504",
+      "period": "报告期",
+      "quote": "转移因子胶囊（24粒/盒） 万盒 504 579 14 -12.09 2.24 -86.18"
+    },
+    {
+      "product": "转移因子胶囊（24粒/盒）",
+      "metric_type": "sales_volume",
+      "value": "579",
+      "period": "报告期",
+      "quote": "转移因子胶囊（24粒/盒） 万盒 504 579 14 -12.09 2.24 -86.18"
+    },
+    {
+      "product": "转移因子口服溶液（6支/盒）",
+      "metric_type": "production_volume",
+      "value": "532",
+      "period": "报告期",
+      "quote": "转移因子口服溶液（6支/盒） 万盒 532 594 15 7.64 24.95 -76.36"
+    },
+    {
+      "product": "转移因子口服溶液（6支/盒）",
+      "metric_type": "sales_volume",
+      "value": "594",
+      "period": "报告期",
+      "quote": "转移因子口服溶液（6支/盒） 万盒 532 594 15 7.64 24.95 -76.36"
+    },
+    {
+      "product": "开塞露（20ml/支）",
+      "metric_type": "production_volume",
+      "value": "4,799",
+      "period": "报告期",
+      "quote": "开塞露（20ml/支） 万支 4,799 5,414 1 -21.59 -0.53 -99.91"
+    },
+    {
+      "product": "开塞露（20ml/支）",
+      "metric_type": "sales_volume",
+      "value": "5,414",
+      "period": "报告期",
+      "quote": "开塞露（20ml/支） 万支 4,799 5,414 1 -21.59 -0.53 -99.91"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新厂区搬迁扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "480,000,000.00",
+      "designed_capacity": null,
+      "progress": "累计投入421,812,657.67元，进度87.88%",
+      "expected_completion_time": "2026年6月30日",
+      "quote": "向特定对象发行股票 新厂区搬迁扩建项目 生产建设 480,000,000.00 89,774,950.23 421,812,657.67 87.88 ... 2026年6月30日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "148,780,819.60",
+      "designed_capacity": null,
+      "progress": "累计投入151,115,364.83元，进度101.57%",
+      "expected_completion_time": null,
+      "quote": "向特定对象发行股票 补充流动资金 运营管理 148,780,819.60 151,115,364.83 101.57"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "人工虎骨粉处方及工艺",
+      "asset_type": "core_technology",
+      "related_product": "金天格胶囊",
+      "quantitative_info": "绝密级保密",
+      "quote": "原国家药品监督管理局对人工虎骨粉处方及工艺按绝密级保密"
+    },
+    {
+      "name": "金天格胶囊",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "国家一类新药，发明专利，中药保护品种",
+      "quote": "公司主导产品金天格胶囊是国家一类新药，...成功获批金天格产品中药二级保护。"
+    },
+    {
+      "name": "人工虎骨粉原料药",
+      "asset_type": "core_technology",
+      "related_product": "骨科领域产品",
+      "quantitative_info": null,
+      "quote": "公司以人工虎骨粉原料药为基础，加大研发投入，积极进行相关研究和系列产品开发"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "前五名客户销售额23,000.09万元，占年度销售总额42.28%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额23,000.09万元，占年度销售总额42.28%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "前五名供应商采购额3,892.43万元，占年度采购总额54.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额3,892.43万元，占年度采购总额54.19%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "医药行业具有显著政策驱动特征，...行业政策监管日趋复杂严峻，对企业的战略适配性、精细化运营及高质量可持续发展提出更高要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业政策风险 ... 医药行业具有显著政策驱动特征，...行业政策监管日趋复杂严峻，对企业的战略适配性、精细化运营及高质量可持续发展提出更高要求。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受原材料价格波动、供应稳定性、...等因素影响，成本管控难度持续加大，给企业带来持续的成本压力。",
+      "related_entity": null,
+      "related_product": "人工虎骨粉及金天格胶囊",
+      "quote": "成本及价格风险 ... 受原材料价格波动、供应稳定性、...等因素影响，成本管控难度持续加大，给企业带来持续的成本压力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新药研发从立项...流程复杂、环节多、周期长，易受技术、市场、政策法规等因素的影响。...存在成果转化不及预期的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "新品研发风险 ... 新药研发从立项...流程复杂、环节多、周期长，易受技术、市场、政策法规等因素的影响。...存在成果转化不及预期的风险。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "药品质量安全是行业健康发展的基石...任一节点出现问题均可能形成质量隐患，对公司经营业绩构成重大不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "质量安全风险 ... 药品质量安全是行业健康发展的基石...任一节点出现问题均可能形成质量隐患，对公司经营业绩构成重大不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "关联方非经营性资金占用，金额3,956.89万元，未及时履行审议程序及信息披露义务。构成内部控制重大缺陷。",
+      "related_entity": "陕西悦豪酒店管理有限公司、陕西真水生态农林开发有限公司",
+      "related_product": null,
+      "quote": "报告期内，在资金管理、采购业务等方面存在内部控制重大缺陷，存在通过预付采购款等方式，资金流入关联方或替关联方偿还债务情形，构成关联方期间资金占用，金额 3,956.89 万元。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司原控股股东金花投资控股集团有限公司与西安曙光汽车销售服务有限公司于2018年10月16日签订了《借款合同》，公司原实际控制人吴一坚及公司为该合同项下借款提供连带责任保证...该担保行为系原实际控制人个人行为，并未履行上市公司相应审批及披露程序。",
+      "related_entity": "金花投资控股集团有限公司、西安曙光汽车销售服务有限公司、吴一坚",
+      "related_product": null,
+      "quote": "是否存在违反规定决策程序对外提供担保的情况 是 ... 公司原控股股东金花投资控股集团有限公司与西安曙光汽车销售服务有限公司于2018年10月16日签订了《借款合同》，公司原实际控制人吴一坚及公司为该合同项下借款提供连带责任保证"
+    }
+  ]
+}

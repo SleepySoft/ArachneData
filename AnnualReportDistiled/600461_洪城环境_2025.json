@@ -1,0 +1,693 @@
+{
+  "company_name_mentioned": "江西洪城环境股份有限公司",
+  "produces": [
+    {
+      "name": "自来水",
+      "type": "service",
+      "revenue_proportion": "占公司总营业收入的 13.01%",
+      "quote": "实现自来水销售收入 97,419.94 万元，占公司总营业收入的 13.01%"
+    },
+    {
+      "name": "污水处理服务",
+      "type": "service",
+      "revenue_proportion": "占公司总营业收入的 34.94%",
+      "quote": "实现污水处理服务收入 261,535.30 万元，占公司总营业收入的 34.94%"
+    },
+    {
+      "name": "燃气销售",
+      "type": "service",
+      "revenue_proportion": "占公司总营业收入的 24%",
+      "quote": "实现燃气销售收入 179,667.68 万元，占公司总营业收入的 24%"
+    },
+    {
+      "name": "给排水工程",
+      "type": "service",
+      "revenue_proportion": "占公司总营业收入的 6.10%",
+      "quote": "实现给排水工程收入 45,697.87 万元，占公司总营业收入的 6.10%"
+    },
+    {
+      "name": "污水环境工程",
+      "type": "service",
+      "revenue_proportion": "占公司总营业收入的 6.82%",
+      "quote": "实现污水环境工程收入 51,066.96 万元，占公司总营业收入的 6.82%"
+    },
+    {
+      "name": "燃气工程安装",
+      "type": "service",
+      "revenue_proportion": "占公司总营业收入的 2.53%",
+      "quote": "实现燃气工程安装收入 18,908.26 万元，占公司总营业收入的 2.53%"
+    },
+    {
+      "name": "固废处理",
+      "type": "service",
+      "revenue_proportion": "占公司总营业收入的 10.11%",
+      "quote": "实现固废处理收入 75,674.75 万元，占公司总营业收入的 10.11%"
+    },
+    {
+      "name": "管道直饮水",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司紧跟行业发展趋势，全力推进安全性优、经济性高、便捷性强的管道直饮水项目"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司旗下公用新能源公司是南昌市目前最大的车用天然气销售公司，主要产品为压缩天然气CNG 和液化天然气LNG...同时经营光伏发电业务"
+    },
+    {
+      "name": "工程建设与设计",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "培育发展了工程建设与设计、设备制造与销售等业务"
+    },
+    {
+      "name": "设备制造与销售",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "培育发展了工程建设与设计、设备制造与销售等业务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "水的生产与供应、污水处理、燃气、给排水工程、污水环境工程、固废处置等",
+      "cost_proportion": null,
+      "quote": "成本分析表...分产品情况...自来水销售...原材料...污水处理...原材料...燃气销售...原材料...给排水工程...原材料...污水环境工程...原材料...固废处理...原材料"
+    },
+    {
+      "name": "电",
+      "target_product": "水的生产与供应、污水处理、固废处置",
+      "cost_proportion": null,
+      "quote": "成本分析表...分产品情况...自来水销售...电耗...污水处理...电耗...固废处理...电耗"
+    },
+    {
+      "name": "设备",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "成本分析表...设备销售...958,753.34"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市供水",
+      "source_product": "自来水",
+      "quote": "公司的供水业务主要从事水的生产和供应，拥有南昌市城市供水特许经营权"
+    },
+    {
+      "name": "城镇生活污水处理",
+      "source_product": "污水处理服务",
+      "quote": "公司的污水处理业务主要由城镇生活污水处理和工业废水处理两部分组成"
+    },
+    {
+      "name": "工业废水处理",
+      "source_product": "污水处理服务",
+      "quote": "公司的污水处理业务主要由城镇生活污水处理和工业废水处理两部分组成"
+    },
+    {
+      "name": "城市管道燃气供应",
+      "source_product": "燃气销售",
+      "quote": "公司旗下燃气集团是江西省用户规模最大的城市燃气运营商，拥有南昌市主要行政区域的管道燃气特许经营权"
+    },
+    {
+      "name": "车用天然气供应",
+      "source_product": "压缩天然气CNG，液化天然气LNG",
+      "quote": "公司旗下公用新能源公司是南昌市目前最大的车用天然气销售公司，主要产品为压缩天然气CNG 和液化天然气LNG，均作为车用燃料供应给南昌市辖区内的公交车、出租车等"
+    },
+    {
+      "name": "生活垃圾焚烧发电",
+      "source_product": "固废处置",
+      "quote": "公司旗下负责固废处置业务的洪城康恒运营南昌市最大垃圾焚烧发电项目，处置能力达 2,400 吨/日"
+    },
+    {
+      "name": "餐厨垃圾处理",
+      "source_product": "固废处置",
+      "quote": "洪源环境占据全国首批餐厨试点城市区位，实现收运、处置一体化运行"
+    },
+    {
+      "name": "市政环境治理",
+      "source_product": "污水环境工程、给排水工程",
+      "quote": "公司通过取得当地政府授予的特许经营权来开展污水处理业务...全力打造专业化污水治理设施运营服务品牌"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邵涛",
+      "role": "董事长",
+      "quote": "公司负责人邵涛"
+    },
+    {
+      "name": "蔡翘",
+      "role": "总经理、董事",
+      "quote": "2025年4月15日...总经理...蔡翘"
+    },
+    {
+      "name": "邓勋元",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书...邓勋元"
+    },
+    {
+      "name": "王剑玉",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人王剑玉"
+    },
+    {
+      "name": "曹名帅",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理...曹名帅"
+    },
+    {
+      "name": "李秋平",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理...李秋平"
+    },
+    {
+      "name": "程刚",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理...程刚"
+    },
+    {
+      "name": "刘顺保",
+      "role": "董事",
+      "quote": "董事...刘顺保"
+    },
+    {
+      "name": "李昊",
+      "role": "董事",
+      "quote": "董事...李昊"
+    },
+    {
+      "name": "邵鹏辉",
+      "role": "独立董事",
+      "quote": "独立董事...邵鹏辉"
+    },
+    {
+      "name": "吉伟莉",
+      "role": "独立董事",
+      "quote": "独立董事...吉伟莉"
+    },
+    {
+      "name": "喻玲",
+      "role": "独立董事",
+      "quote": "独立董事...喻玲"
+    },
+    {
+      "name": "刘爱军",
+      "role": "独立董事",
+      "quote": "独立董事...刘爱军"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "南昌水业集团有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "水业集团/控股股东 指 南昌水业集团有限责任公司"
+    },
+    {
+      "name": "南昌市政公用集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "实际控制人控制的单位",
+      "quote": "市政公用集团 指 南昌市政公用集团有限公司"
+    },
+    {
+      "name": "南昌市国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "南昌市国资委/市国资委 指 南昌市国有资产监督管理委员会"
+    },
+    {
+      "name": "南昌市公共交通总公司",
+      "relation_type": "customer",
+      "business_details": "关联方，提供相关承诺",
+      "quote": "公交公司 指 南昌市公共交通总公司"
+    },
+    {
+      "name": "南昌市燃气集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下燃气集团",
+      "quote": "南昌燃气 指 南昌市燃气集团有限公司"
+    },
+    {
+      "name": "南昌公用新能源有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下公用新能源公司",
+      "quote": "公用新能源 指 南昌公用新能源有限责任公司"
+    },
+    {
+      "name": "南昌水业集团二次供水有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下二次供水公司",
+      "quote": "二次供水 指 南昌水业集团二次供水有限责任公司"
+    },
+    {
+      "name": "江西洪城水业环保有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下洪城环保",
+      "quote": "洪城环保 指 江西洪城水业环保有限公司"
+    },
+    {
+      "name": "温州宏泽热电股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下宏泽热电",
+      "quote": "宏泽热电 指 温州宏泽热电股份有限公司"
+    },
+    {
+      "name": "江西洪源环境发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下洪源环境",
+      "quote": "洪源环境 指 江西洪源环境发展有限公司"
+    },
+    {
+      "name": "南昌绿源环境水务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司旗下绿源环境",
+      "quote": "绿源环境 指 南昌绿源环境水务有限公司"
+    },
+    {
+      "name": "中证天通会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "中证天通会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告"
+    },
+    {
+      "name": "申万宏源证券承销保荐有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "报告期内履行持续督导职责的财务顾问",
+      "quote": "报告期内履行持续督导职责的财务顾问...申万宏源证券承销保荐有限责任公司"
+    },
+    {
+      "name": "东方金诚国际信用评估有限公司",
+      "relation_type": "supplier",
+      "business_details": "信用评级机构",
+      "quote": "东方金诚 指 东方金诚国际信用评估有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "供排水业务及涉水工程",
+      "segment_type": "product_line",
+      "revenue_amount": "4,557,200,633.79",
+      "revenue_proportion": null,
+      "gross_margin": "42.41",
+      "yoy_change": "-8.62",
+      "quote": "供排水业务及涉水工程...营业收入...4,557,200,633.79...毛利率（%）42.41...营业收入比上年增减（%）-8.62"
+    },
+    {
+      "name": "燃气销售及安装工程",
+      "segment_type": "product_line",
+      "revenue_amount": "1,985,759,380.62",
+      "revenue_proportion": null,
+      "gross_margin": "11.98",
+      "yoy_change": "-13.11",
+      "quote": "燃气销售及安装工程...营业收入...1,985,759,380.62...毛利率（%）11.98...营业收入比上年增减（%）-13.11"
+    },
+    {
+      "name": "固废处理业务",
+      "segment_type": "product_line",
+      "revenue_amount": "756,747,471.15",
+      "revenue_proportion": null,
+      "gross_margin": "39.41",
+      "yoy_change": "-2.76",
+      "quote": "固废处理业务...营业收入...756,747,471.15...毛利率（%）39.41...营业收入比上年增减（%）-2.76"
+    },
+    {
+      "name": "自来水销售",
+      "segment_type": "product_line",
+      "revenue_amount": "974,199,406.42",
+      "revenue_proportion": null,
+      "gross_margin": "59.02",
+      "yoy_change": "-1.74",
+      "quote": "自来水销售...营业收入...974,199,406.42...毛利率（%）59.02...营业收入比上年增减（%）-1.74"
+    },
+    {
+      "name": "污水处理服务费",
+      "segment_type": "product_line",
+      "revenue_amount": "2,615,352,993.73",
+      "revenue_proportion": null,
+      "gross_margin": "44.12",
+      "yoy_change": "4.63",
+      "quote": "污水处理服务费...营业收入...2,615,352,993.73...毛利率（%）44.12...营业收入比上年增减（%）4.63"
+    },
+    {
+      "name": "燃气销售",
+      "segment_type": "product_line",
+      "revenue_amount": "1,796,676,773.88",
+      "revenue_proportion": null,
+      "gross_margin": "7.77",
+      "yoy_change": "-9.61",
+      "quote": "燃气销售...营业收入...1,796,676,773.88...毛利率（%）7.77...营业收入比上年增减（%）-9.61"
+    },
+    {
+      "name": "给排水工程",
+      "segment_type": "product_line",
+      "revenue_amount": "456,978,659.90",
+      "revenue_proportion": null,
+      "gross_margin": "37.88",
+      "yoy_change": "0.03",
+      "quote": "给排水工程...营业收入...456,978,659.90...毛利率（%）37.88...营业收入比上年增减（%）0.03"
+    },
+    {
+      "name": "污水环境工程",
+      "segment_type": "product_line",
+      "revenue_amount": "510,669,573.74",
+      "revenue_proportion": null,
+      "gross_margin": "6.02",
+      "yoy_change": "-50.85",
+      "quote": "污水环境工程...营业收入...510,669,573.74...毛利率（%）6.02...营业收入比上年增减（%）-50.85"
+    },
+    {
+      "name": "燃气工程安装",
+      "segment_type": "product_line",
+      "revenue_amount": "189,082,606.74",
+      "revenue_proportion": null,
+      "gross_margin": "52.01",
+      "yoy_change": "-36.48",
+      "quote": "燃气工程安装...营业收入...189,082,606.74...毛利率（%）52.01...营业收入比上年增减（%）-36.48"
+    },
+    {
+      "name": "江西省",
+      "segment_type": "region",
+      "revenue_amount": "6,799,271,228.63",
+      "revenue_proportion": null,
+      "gross_margin": "34.15",
+      "yoy_change": "-9.63",
+      "quote": "江西省...营业收入...6,799,271,228.63...毛利率（%）34.15...营业收入比上年增减（%）-9.63"
+    },
+    {
+      "name": "浙江省",
+      "segment_type": "region",
+      "revenue_amount": "383,848,453.93",
+      "revenue_proportion": null,
+      "gross_margin": "24.57",
+      "yoy_change": "-9.12",
+      "quote": "浙江省...营业收入...383,848,453.93...毛利率（%）24.57...营业收入比上年增减（%）-9.12"
+    },
+    {
+      "name": "辽宁省",
+      "segment_type": "region",
+      "revenue_amount": "155,464,664.06",
+      "revenue_proportion": null,
+      "gross_margin": "44.39",
+      "yoy_change": "27.37",
+      "quote": "辽宁省...营业收入...155,464,664.06...毛利率（%）44.39...营业收入比上年增减（%）27.37"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "自来水",
+      "metric_type": "capacity",
+      "value": "191 立方米/日",
+      "period": "2025年",
+      "quote": "供水产能为 191 立方米/日"
+    },
+    {
+      "product": "自来水",
+      "metric_type": "sales_volume",
+      "value": "40,993.86 万立方米",
+      "period": "2025年",
+      "quote": "公司自来水售水量 40,993.86 万立方米"
+    },
+    {
+      "product": "污水处理",
+      "metric_type": "capacity",
+      "value": "423.4 万立方米/日",
+      "period": "2025年",
+      "quote": "污水处理业务总设计规模达423.4 万立方米/日"
+    },
+    {
+      "product": "污水处理",
+      "metric_type": "production_volume",
+      "value": "138,891.82 万立方米",
+      "period": "2025年",
+      "quote": "污水处理量138,891.82 万立方米"
+    },
+    {
+      "product": "天然气",
+      "metric_type": "sales_volume",
+      "value": "51,406.25 万立方米",
+      "period": "2025年",
+      "quote": "天然气售气量 51,406.25 万立方米"
+    },
+    {
+      "product": "垃圾焚烧",
+      "metric_type": "production_volume",
+      "value": "95.64 万吨",
+      "period": "2025年",
+      "quote": "垃圾焚烧量 95.64 万吨"
+    },
+    {
+      "product": "垃圾焚烧发电",
+      "metric_type": "production_volume",
+      "value": "46,182.10 万千瓦时",
+      "period": "2025年",
+      "quote": "垃圾焚烧发电量 46,182.10 万千瓦时"
+    },
+    {
+      "product": "热电联产发电",
+      "metric_type": "production_volume",
+      "value": "5,698.78 万千瓦时",
+      "period": "2025年",
+      "quote": "热电联产发电量 5,698.78 万千瓦时"
+    },
+    {
+      "product": "供热",
+      "metric_type": "production_volume",
+      "value": "96.17 万吨",
+      "period": "2025年",
+      "quote": "供热量 96.17 万吨"
+    },
+    {
+      "product": "餐厨垃圾",
+      "metric_type": "production_volume",
+      "value": "10.60 万吨",
+      "period": "2025年",
+      "quote": "餐厨垃圾处理量10.60 万吨"
+    },
+    {
+      "product": "垃圾渗滤液、浓缩液",
+      "metric_type": "production_volume",
+      "value": "29.05 万吨",
+      "period": "2025年",
+      "quote": "垃圾渗滤液、浓缩液处理量 29.05 万吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "新建区污水厂网一体化工程",
+      "project_type": "capacity_expansion",
+      "location": "江西省南昌市",
+      "investment_amount": "8.53 亿元",
+      "designed_capacity": null,
+      "progress": "成功中标",
+      "expected_completion_time": null,
+      "quote": "成功中标 8.53 亿元新建区污水厂网一体化工程"
+    },
+    {
+      "name": "朝阳环保污水提标改造工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "报告期内重点完成朝阳环保污水提标改造工程"
+    },
+    {
+      "name": "乐平、崇仁及南昌县项目",
+      "project_type": "capacity_expansion",
+      "location": "江西省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已进入竣工验收阶段",
+      "expected_completion_time": null,
+      "quote": "乐平、崇仁及南昌县项目已进入竣工验收阶段"
+    },
+    {
+      "name": "直饮水项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全年新增 50 个直饮项目",
+      "expected_completion_time": null,
+      "quote": "全年新增 50 个直饮项目"
+    },
+    {
+      "name": "光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "光伏总装机容量达 34 兆瓦",
+      "progress": "稳步推进",
+      "expected_completion_time": null,
+      "quote": "光伏发电项目稳步推进...目前，光伏总装机容量达 34 兆瓦"
+    },
+    {
+      "name": "餐厨垃圾处理二期扩建工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "落地",
+      "expected_completion_time": null,
+      "quote": "成功打造多个“净化环境”示范项目，并获省级碳达峰试点专项资金支持，推动餐厨垃圾处理二期扩建工程落地"
+    },
+    {
+      "name": "城北污水厂及牛行水厂光伏项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推动实现并网发电",
+      "expected_completion_time": "2026年",
+      "quote": "推动城北污水厂及牛行水厂项目实现并网发电"
+    },
+    {
+      "name": "朝阳水厂、长堎水厂提标改造",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "计划推进",
+      "expected_completion_time": null,
+      "quote": "推进朝阳水厂、长堎水厂提标改造"
+    },
+    {
+      "name": "扬子洲区域跨江引水工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成",
+      "expected_completion_time": null,
+      "quote": "建成扬子洲区域跨江引水工程"
+    },
+    {
+      "name": "鲤鱼洲、麻丘加压站建设",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "完成鲤鱼洲、麻丘加压站建设"
+    },
+    {
+      "name": "新建经开区污水处理厂及管网一体化工程",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加速建设",
+      "expected_completion_time": null,
+      "quote": "加速新建经开区污水处理厂及管网一体化工程建设"
+    },
+    {
+      "name": "牛行水厂二期扩建工程项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "37,618.76 万元",
+      "designed_capacity": null,
+      "progress": "已达到预定可使用状态",
+      "expected_completion_time": null,
+      "quote": "牛行水厂二期扩建工程项目...累计投入募集资金总额 (2) 37,972.46 万元...投入进度 (%) 100.94...达到预定可使用状态时间为2018年6月...制水工程部分已于2018年9月30日达到预定可使用状态，供水调度中心部分延期至2019年3月31日"
+    },
+    {
+      "name": "南昌市九龙湖污水处理厂二期扩建工程",
+      "project_type": "fundraising_project",
+      "location": "南昌市",
+      "investment_amount": "35,000.00 万元",
+      "designed_capacity": null,
+      "progress": "尚未完工",
+      "expected_completion_time": null,
+      "quote": "南昌市九龙湖污水处理厂二期扩建工程...累计投入募集资金总额 (2) 26,607.65 万元...投入进度 (%) 76.02"
+    },
+    {
+      "name": "奉新县城市污水处理厂新建（提标扩容）工程",
+      "project_type": "fundraising_project",
+      "location": "奉新县",
+      "investment_amount": "12,800.00 万元",
+      "designed_capacity": null,
+      "progress": "未达预计效益",
+      "expected_completion_time": null,
+      "quote": "奉新县城市污水处理厂新建（提标扩容）工程项目...因厂外管网部分施工受阻，施工进度缓慢...导致该项目于2022年1月达到预定可使用状态。因项目完工进度滞后，项目目前尚未完成审计结算工作...导致项目未能达到预计效益"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "生物土壤除臭技术",
+      "asset_type": "process_technology",
+      "related_product": "污水处理厂异味治理项目",
+      "quantitative_info": null,
+      "quote": "公司利用生物土壤除臭技术开展污水处理厂异味治理项目"
+    },
+    {
+      "name": "博士后科研工作站",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "江西省供水行业内首个",
+      "quote": "设有江西省供水行业内首个博士后科研工作站和省级企业技术中心"
+    },
+    {
+      "name": "省级企业技术中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "设有江西省供水行业内首个博士后科研工作站和省级企业技术中心"
+    },
+    {
+      "name": "国家知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "百余项",
+      "quote": "目前，公司拥有数家全国高新技术企业、百余项国家知识产权"
+    },
+    {
+      "name": "检测能力",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "涵盖水、土、气、固、煤炭、排水管道检测等15 大领域、逾2000 项检测指标",
+      "quote": "检测能力涵盖水、土、气、固、煤炭、排水管道检测等15 大领域、逾2000 项检测指标"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "107,518.80 万元，占年度销售总额 14.36%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额107,518.80万元，占年度销售总额14.36%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "180,988.19 万元，占年度采购总额 51.34%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额180,988.19万元，占年度采购总额51.34%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "企业对经济政策预期明朗度的感知增强时，会更倾向于推迟投资以获取更多信息收益...出于谨慎保守的风险对冲心理会延缓投融资效率",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "当企业对经济政策预期明朗度的感知增强时，会更倾向于推迟投资以获取更多信息收益...出于谨慎保守的风险对冲心理会延缓投融资效率"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "价格机制改革是污水处理行业未来高质量发展必然面临的关键环节。随着生态文明建设和绿色发展融入社会发展各方面，污水处理设施运行标准必将越来越高，若考虑地下管网、泵站等设施设备维护，则地方实际支出与污水处理收费的差距将越来越大",
+      "related_entity": null,
+      "related_product": "污水处理",
+      "quote": "价格机制改革是污水处理行业未来高质量发展必然面临的关键环节。随着生态文明建设和绿色发展融入社会发展各方面，污水处理设施运行标准必将越来越高，若考虑地下管网、泵站等设施设备维护，则地方实际支出与污水处理收费的差距将越来越大"
+    },
+    {
+      "risk_type": "other",
+      "description": "主要涉及自然风险与转型风险，源于极端自然灾害事件，如洪涝、高温、水生物异常等情形引发的直接经济损失，而转型风险则涉及情势更迭、技术进步及市场偏好调整所带来的冲击",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "主要涉及自然风险与转型风险，源于极端自然灾害事件，如洪涝、高温、水生物异常等情形引发的直接经济损失，而转型风险则涉及情势更迭、技术进步及市场偏好调整所带来的冲击"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "company_name_mentioned": "河南省力量钻石股份有限公司",
+  "produces": [
+    {
+      "name": "金刚石单晶",
+      "type": "material",
+      "revenue_proportion": "21.32%",
+      "quote": "公司产品主要包括金刚石单晶、金刚石微粉和培育钻石等超硬材料...金刚石单晶产品根据颗粒形貌和应用领域不同可进一步细分为磨削级单晶、锯切级单晶和大单晶...分产品 金刚石单晶 134,810,833.95 21.32%"
+    },
+    {
+      "name": "金刚石微粉",
+      "type": "material",
+      "revenue_proportion": "9.77%",
+      "quote": "金刚石微粉产品根据颗粒形貌和应用领域不同可进一步细分为研磨用微粉、线锯用微粉和其他工具用微粉...分产品 金刚石微粉 61,798,933.61 9.77%"
+    },
+    {
+      "name": "培育钻石",
+      "type": "material",
+      "revenue_proportion": "61.28%",
+      "quote": "培育钻石...主要用于制作珠宝饰品及CVD钻石基片...分产品 培育钻石 387,553,421.92 61.28%"
+    },
+    {
+      "name": "其他业务收入",
+      "type": "other",
+      "revenue_proportion": "7.63%",
+      "quote": "其他业务收入 48,281,802.68 7.63%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "金刚石单晶（用于生产金刚石微粉）",
+      "target_product": "金刚石微粉",
+      "cost_proportion": null,
+      "quote": "生产金刚石微粉所用原材料金刚石单晶主要系品级相对较低的金刚石单晶，一部分来源于公司自产，少部分来源于外部采购"
+    },
+    {
+      "name": "石墨粉",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的原材料主要为金刚石单晶、石墨粉、金属触媒粉、添加剂等"
+    },
+    {
+      "name": "金属触媒粉",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的原材料主要为金刚石单晶、石墨粉、金属触媒粉、添加剂等"
+    },
+    {
+      "name": "添加剂",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产所需的原材料主要为金刚石单晶、石墨粉、金属触媒粉、添加剂等"
+    },
+    {
+      "name": "六面顶压机（设备）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采取‘预测销售、订单驱动、适度备货’相结合的生产模式...采购部负责供应商开发与管理、原辅材料和机器设备采购等工作"
+    }
+  ],
+  "applications": [
+    {
+      "name": "磨削工具（砂轮、磨轮等）",
+      "source_product": "磨削级单晶",
+      "quote": "主要用于制作砂轮、磨轮、磨块、滚轮、滚筒等磨削工具"
+    },
+    {
+      "name": "锯切工具（锯片、绳锯等）",
+      "source_product": "锯切级单晶",
+      "quote": "主要用于制作锯片、绳锯和刀具等锯切工具"
+    },
+    {
+      "name": "钻头、刀具、修整器等工具",
+      "source_product": "大单晶",
+      "quote": "主要用于制作金刚石钻头、刀具、修整器等工具"
+    },
+    {
+      "name": "研磨膏和研磨液",
+      "source_product": "研磨用微粉",
+      "quote": "主要用于制作研磨膏和研磨液等"
+    },
+    {
+      "name": "金刚石线锯",
+      "source_product": "线锯用微粉",
+      "quote": "主要用于制作金刚石线锯等"
+    },
+    {
+      "name": "珠宝饰品",
+      "source_product": "培育钻石（白钻）",
+      "quote": "主要用于制作珠宝饰品及CVD钻石基片"
+    },
+    {
+      "name": "半导体加工",
+      "source_product": "特种金刚石",
+      "quote": "打破国外在半导体加工特种金刚石材料领域的垄断，解决纳米级晶圆平坦化处理难题"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邵增明",
+      "role": "董事长",
+      "quote": "公司负责人邵增明...邵增明先生，1981年12月出生...2016年3月至2023年8月任董事长兼总经理，2023年8月至今任董事长"
+    },
+    {
+      "name": "王晓君",
+      "role": "主管会计工作负责人/财务总监",
+      "quote": "主管会计工作负责人王晓君...王晓君先生，1968年9月出生...2024年5月至今，任力量钻石财务总监"
+    },
+    {
+      "name": "周慧",
+      "role": "会计机构负责人(会计主管人员)",
+      "quote": "会计机构负责人(会计主管人员)周慧"
+    },
+    {
+      "name": "王腾吉",
+      "role": "董事、总经理",
+      "quote": "王腾吉先生，1970年10月出生...2023年8月至今，任力量钻石总经理"
+    },
+    {
+      "name": "张存升",
+      "role": "董事、技术总监、总工程师",
+      "quote": "张存升先生，1982年12月出生...2016年3月至今，任力量钻石董事、技术总监、总工程师"
+    },
+    {
+      "name": "陈传勋",
+      "role": "董事、行政总监",
+      "quote": "陈传勋先生，1969年10月出生...2018年7月至今，任力量钻石董事、行政总监"
+    },
+    {
+      "name": "栗正新",
+      "role": "独立董事",
+      "quote": "栗正新先生，1964年12月出生...2024年5月16日至今，任力量钻石独立董事"
+    },
+    {
+      "name": "余黎峰",
+      "role": "独立董事",
+      "quote": "余黎峰女士，1973年12月出生...2024年5月16日至今，任力量钻石独立董事"
+    },
+    {
+      "name": "金香爱",
+      "role": "独立董事",
+      "quote": "金香爱女士，1964年11月出生...2024年5月16日至今，任力量钻石独立董事"
+    },
+    {
+      "name": "周智华",
+      "role": "副总经理",
+      "quote": "周智华先生，1973年9月出生...2016年3月至今，任力量钻石销售总监、副总经理"
+    },
+    {
+      "name": "贺凌云",
+      "role": "副总经理",
+      "quote": "贺凌云女士，1970年10月出生...2016年3月至今，任力量钻石生产总监、副总经理"
+    },
+    {
+      "name": "孟浩",
+      "role": "董事会秘书",
+      "quote": "孟浩先生，1995年6月出生...2025年5月至今，任力量钻石董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳科美钻科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "科美钻 指 深圳科美钻科技有限公司，公司之全资子公司"
+    },
+    {
+      "name": "河南宝晶新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "河南宝晶 指 河南宝晶新材料科技有限公司，公司之全资子公司"
+    },
+    {
+      "name": "力量钻石香港有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "力量香港 指 力量钻石香港有限公司，公司之全资子公司"
+    },
+    {
+      "name": "商丘力量钻石科技中心有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "商丘力量 指 商丘力量钻石科技中心有限公司，公司之全资子公司"
+    },
+    {
+      "name": "海南力量钻石有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "海南力量 指 海南力量钻石有限公司，公司之全资子公司"
+    },
+    {
+      "name": "扬州力量钻石有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "扬州力量 指 扬州力量钻石有限公司，公司之全资子公司"
+    },
+    {
+      "name": "河南力量绿色能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "力量绿能 指 河南力量绿色能源有限公司，公司之全资子公司"
+    },
+    {
+      "name": "郑州力量电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "郑州力量 指 郑州力量电子科技有限公司，公司之全资子公司"
+    },
+    {
+      "name": "北京力量钻石有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "北京力量 指 北京力量钻石有限公司，公司之全资子公司"
+    },
+    {
+      "name": "河南晶联科新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "河南晶联科 指 河南晶联科新材料有限公司，公司之控股子公司"
+    },
+    {
+      "name": "河南省功能金刚石研究院有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司",
+      "quote": "金刚石研究院 指 河南省功能金刚石研究院有限公司，公司之参股公司"
+    },
+    {
+      "name": "生而闪曜科技（深圳）有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司",
+      "quote": "生而闪曜 指 生而闪曜科技（深圳）有限公司，公司之参股公司"
+    },
+    {
+      "name": "商丘汇力金刚石科技服务中心（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "股东、一致行动人",
+      "quote": "商丘汇力 指 商丘汇力金刚石科技服务中心（有限合伙），公司股东之一...李爱真担任商丘汇力金刚石科技服务中心（有限合伙）执行事务合伙人，商丘汇力金刚石科技服务中心（有限合伙）为邵增明、李爱真的一致行动人。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "非金属矿物制品业",
+      "segment_type": "product_line",
+      "revenue_amount": "632,444,992.16",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "22.23%",
+      "yoy_change": "-7.84%",
+      "quote": "分行业 非金属矿物制品业 632,444,992.16 100.00% 686,219,411.17 100.00% -7.84%"
+    },
+    {
+      "name": "金刚石单晶",
+      "segment_type": "product_line",
+      "revenue_amount": "134,810,833.95",
+      "revenue_proportion": "21.32%",
+      "gross_margin": "11.80%",
+      "yoy_change": "-43.18%",
+      "quote": "分产品 金刚石单晶 134,810,833.95 21.32% 237,250,965.09 34.57% -43.18%...毛利率 11.80%...16.2%"
+    },
+    {
+      "name": "金刚石微粉",
+      "segment_type": "product_line",
+      "revenue_amount": "61,798,933.61",
+      "revenue_proportion": "9.77%",
+      "gross_margin": "24.66%",
+      "yoy_change": "-23.12%",
+      "quote": "分产品 金刚石微粉 61,798,933.61 9.77% 80,386,902.85 11.72% -23.12%...毛利率 24.66%...45.86%"
+    },
+    {
+      "name": "培育钻石",
+      "segment_type": "product_line",
+      "revenue_amount": "387,553,421.92",
+      "revenue_proportion": "61.28%",
+      "gross_margin": "21.78%",
+      "yoy_change": "15.98%",
+      "quote": "分产品 培育钻石 387,553,421.92 61.28% 334,144,178.74 48.69% 15.98%...毛利率 21.78%...34.76%"
+    },
+    {
+      "name": "其他业务收入",
+      "segment_type": "product_line",
+      "revenue_amount": "48,281,802.68",
+      "revenue_proportion": "7.63%",
+      "gross_margin": "51.94%",
+      "yoy_change": "40.20%",
+      "quote": "其他业务收入 48,281,802.68 7.63% 34,437,364.49 5.02% 40.20%...毛利率 51.94%...20.92%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "284,351,069.88",
+      "revenue_proportion": "44.96%",
+      "gross_margin": "25.59%",
+      "yoy_change": "-23.93%",
+      "quote": "分地区 境内 284,351,069.88 44.96% 373,783,073.18 54.47% -23.93%...毛利率 25.59%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "348,093,922.28",
+      "revenue_proportion": "55.04%",
+      "gross_margin": "19.50%",
+      "yoy_change": "11.41%",
+      "quote": "分地区 境外 348,093,922.28 55.04% 312,436,337.99 45.53% 11.41%...毛利率 19.50%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "533,003,799.34",
+      "revenue_proportion": "84.28%",
+      "gross_margin": "22.10%",
+      "yoy_change": "-1.73%",
+      "quote": "分销售模式 直销 533,003,799.34 84.28% 542,410,674.10 79.04% -1.73%...毛利率 22.10%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "99,441,192.82",
+      "revenue_proportion": "15.72%",
+      "gross_margin": "22.97%",
+      "yoy_change": "-30.85%",
+      "quote": "分销售模式 经销 99,441,192.82 15.72% 143,808,737.07 20.96% -30.85%...毛利率 22.97%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "非金属矿物制品业（总体）",
+      "metric_type": "sales_volume",
+      "value": "148,232.62 万克拉",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减...销售量 万克拉 148,232.62 215,780.58 -31.30%"
+    },
+    {
+      "product": "非金属矿物制品业（总体）",
+      "metric_type": "production_volume",
+      "value": "163,492.38 万克拉",
+      "period": "2025年",
+      "quote": "生产量 万克拉 163,492.38 200,394.47 -18.41%"
+    },
+    {
+      "product": "非金属矿物制品业（总体）",
+      "metric_type": "inventory_volume",
+      "value": "102,468.17 万克拉",
+      "period": "2025年末",
+      "quote": "库存量 万克拉 102,468.17 87,208.41 17.50%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "商丘力量钻石科技中心及培育钻石智能工厂建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "219,091.82 万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "47.08%（投资进度）",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "承诺投资项目...商丘力量钻石科技中心及培育钻石智能工厂建设项目...2028年12月31日...调整后投资总额(1) 219,091.82...投资进度 (3)＝(2)/(1) 47.08%"
+    },
+    {
+      "name": "力量二期金刚石和培育钻石智能工厂建设项目",
+      "project_type": "fundraising_project",
+      "location": "江苏省扬州市高邮市经济开发区（新增）",
+      "investment_amount": "159,908.18 万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "43.61%（投资进度）",
+      "expected_completion_time": "2028年12月31日",
+      "quote": "力量二期金刚石和培育钻石智能工厂建设项目...2028年12月31日...调整后投资总额(1) 159,908.18...投资进度 (3)＝(2)/(1) 43.61%...新增的实施地点为江苏省扬州市高邮市经济开发区"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "21,000.00 万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "100.00%",
+      "expected_completion_time": "2022年10月31日",
+      "quote": "补充流动资金...2022年10月31日...承诺投资总额 21,000.00...投资进度 (3)＝(2)/(1) 100.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "121项，其中发明专利9项",
+      "quote": "公司已获得授权专利121项，其中发明专利9项"
+    },
+    {
+      "name": "科技成果",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "20项",
+      "quote": "获得科技成果20项"
+    },
+    {
+      "name": "原材料配方和新型触媒体系技术",
+      "asset_type": "core_technology",
+      "related_product": "金刚石单晶、培育钻石",
+      "quantitative_info": null,
+      "quote": "编号 技术工艺 技术内涵 技术优势...原材料配方和新型触媒体系技术 公司自主研发用于生产不同粒度型号的金刚石单晶和培育钻石的原材料配方技术..."
+    },
+    {
+      "name": "新型密封传压介质制造技术",
+      "asset_type": "core_technology",
+      "related_product": "金刚石单晶、培育钻石",
+      "quantitative_info": null,
+      "quote": "新型密封传压介质制造技术 该技术采用最新的复合块结构设计、材料优选、配方工艺制作等专业技术..."
+    },
+    {
+      "name": "大腔体合成系列技术",
+      "asset_type": "core_technology",
+      "related_product": "金刚石单晶、培育钻石",
+      "quantitative_info": null,
+      "quote": "大腔体合成系列技术 公司自主研发的针对800mm-1000mm缸径的六面顶压机合成工艺的一系列技术组合..."
+    },
+    {
+      "name": "高品级大尺寸培育钻石合成技术",
+      "asset_type": "core_technology",
+      "related_product": "培育钻石",
+      "quantitative_info": null,
+      "quote": "高品级大尺寸培育钻石合成技术 该技术通过新型触媒配方、材料优选及处理、配方优化及高真空还原处理工艺改进..."
+    },
+    {
+      "name": "高端金刚石微粉制备技术",
+      "asset_type": "core_technology",
+      "related_product": "金刚石微粉",
+      "quantitative_info": null,
+      "quote": "高端金刚石微粉制备技术 采用国内外先进的自动化、高精密仪器和生产设备..."
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年5月企业技术中心被认定为国家企业技术中心"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了ISO9001质量管理体系认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "38.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 246,532,018.41...前五名客户合计销售金额占年度销售总额比例 38.98%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.23%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例...1 第一名 90,003,145.19 14.23%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "70.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 413,847,744.83...前五名供应商合计采购金额占年度采购总额比例 70.17%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "26.99%",
+      "related_entity": "供应商A",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例...1 供应商A 159,153,982.31 26.99%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司所处的超硬材料行业受宏观环境、上下游产业链景气度及同业竞争对手产销状况等多重因素影响，若宏观经济形势发生变化或行业出现重大调整，将可能对公司业绩产生一定的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争风险...公司所处的超硬材料行业受宏观环境、上下游产业链景气度及同业竞争对手产销状况等多重因素影响，若宏观经济形势发生变化或行业出现重大调整，将可能对公司业绩产生一定的影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "近年来，随着技术的提升和需求的增长，培育钻石不断向大颗粒、高品级方向发展，同时，若公司不能保证培育钻石生产技术升级，则有可能面临技术与产品开发落后于市场需求的风险，从而降低公司的市场竞争力。",
+      "related_entity": null,
+      "related_product": "培育钻石",
+      "quote": "2、技术更新风险...近年来，随着技术的提升和需求的增长，培育钻石不断向大颗粒、高品级方向发展，同时，若公司不能保证培育钻石生产技术升级，则有可能面临技术与产品开发落后于市场需求的风险，从而降低公司的市场竞争力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "募投项目不能达到预期效益的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、募投项目不能达到预期效益的风险...但是，公司结合当前市场环境、现有业务状况和未来发展战略等因素对募投项目进行了审慎、充分的可行性研究，但仍存在因市场环境发生变化、项目实施过程中发生不可预见因素等导致项目延期或无法实施，或者导致投资项目无法产生预期效益的可能性。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才流失或短缺的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、人才流失或短缺的风险...报告期内，公司依然处于快速发展阶段，在运营管理、内部控制、技术研发、市场营销等各环节亟需大量的专业的高素质人才的加入，若公司不能维持人才团队的稳定，并不断吸引优秀技术人才加盟，则公司经营稳定性和可持续发展均面临重大风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "产品市场价格下降风险。",
+      "related_entity": null,
+      "related_product": "培育钻石",
+      "quote": "5、产品市场价格下降风险...随着培育钻石市场增长放缓等因素的影响，公司产品存在价格下降的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "技术泄密风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、技术泄密风险...公司拥有的核心技术是竞争力的一部分，一旦核心技术泄密，将对公司产品的市场竞争力带来不利影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货规模较大的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、存货规模较大的风险...随着公司经营规模扩大，存货余额可能会继续增加，较大的存货余额可能会影响公司资金周转速度和经营活动现金流量，降低资金运营效率。此外，虽然公司各期末已按照既定会计政策充分计提了存货跌价准备，但在经营过程中，如果出现原材料或产品价格波动，还可能存在存货跌价风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "外汇汇率波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "8、外汇汇率波动风险...目前培育钻石产品主要终端市场在欧美，公司向海外客户的销售收入主要以外币结算。随着汇率制度改革不断深入，人民币汇率波动日趋市场化，同时国内外政治、经济环境也影响着人民币汇率的走势。因此，汇率波动将会影响公司外币计价的销售收入，同时，也影响着公司的汇兑损益，可能会对公司造成不利影响。"
+    }
+  ]
+}

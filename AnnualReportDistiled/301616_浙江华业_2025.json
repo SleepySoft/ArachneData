@@ -1,0 +1,493 @@
+{
+  "company_name_mentioned": "浙江华业塑料机械股份有限公司",
+  "produces": [
+    {
+      "name": "螺杆",
+      "type": "component",
+      "revenue_proportion": "占营收66.68%（与机筒合计）",
+      "quote": "报告期内，机筒螺杆实现营收 6.47 亿元，占比66.68%，是公司主要产品"
+    },
+    {
+      "name": "机筒",
+      "type": "component",
+      "revenue_proportion": "占营收66.68%（与螺杆合计）",
+      "quote": "报告期内，机筒螺杆实现营收 6.47 亿元，占比66.68%，是公司主要产品"
+    },
+    {
+      "name": "哥林柱",
+      "type": "component",
+      "revenue_proportion": "占营收31.85%",
+      "quote": "哥林柱实现营收3.09亿元，占比31.85%，为公司第二大类产品"
+    },
+    {
+      "name": "其他配件",
+      "type": "component",
+      "revenue_proportion": "占营收1.47%",
+      "quote": "其他配件实现营收0.14亿元，占比 1.47%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "螺杆、机筒、哥林柱",
+      "cost_proportion": null,
+      "quote": "产品的主要原材料包括钢材、生铁等大宗金属材料"
+    },
+    {
+      "name": "生铁",
+      "target_product": "螺杆、机筒、哥林柱",
+      "cost_proportion": null,
+      "quote": "产品的主要原材料包括钢材、生铁等大宗金属材料"
+    }
+  ],
+  "applications": [
+    {
+      "name": "注塑机",
+      "source_product": "螺杆、机筒、哥林柱",
+      "quote": "主要应用于注塑机、挤出机等塑料成型设备"
+    },
+    {
+      "name": "挤出机",
+      "source_product": "螺杆、机筒",
+      "quote": "主要应用于注塑机、挤出机等塑料成型设备"
+    },
+    {
+      "name": "吹塑机",
+      "source_product": null,
+      "quote": "塑料机械指通过一系列工艺过程将高分子聚合物原料加工为塑料制品的成套工业装备，是高分子材料成型工业的核心基础。塑料机械行业主要产品，按原料加工前的熔融程度及成型工艺的不同，可以分为注塑机、挤出机和吹塑机等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "夏增富",
+      "role": "董事长",
+      "quote": "公司负责人夏增富"
+    },
+    {
+      "name": "王岚",
+      "role": "主管会计工作负责人",
+      "quote": "主管会计工作负责人王岚"
+    },
+    {
+      "name": "刘彩芬",
+      "role": "会计机构负责人(会计主管人员)",
+      "quote": "会计机构负责人(会计主管人员)刘彩芬"
+    },
+    {
+      "name": "夏瑜键",
+      "role": "董事、总经理",
+      "quote": "夏瑜键，男，38岁，现任公司董事、总经理"
+    },
+    {
+      "name": "沈春燕",
+      "role": "董事、党支部书记",
+      "quote": "沈春燕，女，60岁，现任公司董事、党支部书记"
+    },
+    {
+      "name": "许炜炜",
+      "role": "副总经理、董事会秘书、职工代表董事",
+      "quote": "许炜炜，男，54岁，现任公司副总经理、董事会秘书，2025年8月至今任公司职工代表董事"
+    },
+    {
+      "name": "周飞忠",
+      "role": "副总经理",
+      "quote": "周飞忠，男，55岁，现任公司副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海天国际",
+      "relation_type": "customer",
+      "business_details": "国内头部塑料成型设备制造商，公司与海天国际等国内头部塑料成型设备制造商开展紧密合作",
+      "quote": "公司与海天国际、伊之密等国内头部塑料成型设备制造商开展紧密合作"
+    },
+    {
+      "name": "伊之密",
+      "relation_type": "customer",
+      "business_details": "国内头部塑料成型设备制造商，公司与伊之密等国内头部塑料成型设备制造商开展紧密合作",
+      "quote": "公司与海天国际、伊之密等国内头部塑料成型设备制造商开展紧密合作"
+    },
+    {
+      "name": "富强鑫",
+      "relation_type": "customer",
+      "business_details": "主要塑料成型设备制造商，公司与其建立了长期稳定的合作关系",
+      "quote": "除海天国际、伊之密外，公司还与富强鑫、大同机械、华研精机、博创智能等主要塑料成型设备制造商建立了长期稳定的合作关系"
+    },
+    {
+      "name": "大同机械",
+      "relation_type": "customer",
+      "business_details": "主要塑料成型设备制造商，公司与其建立了长期稳定的合作关系",
+      "quote": "除海天国际、伊之密外，公司还与富强鑫、大同机械、华研精机、博创智能等主要塑料成型设备制造商建立了长期稳定的合作关系"
+    },
+    {
+      "name": "华研精机",
+      "relation_type": "customer",
+      "business_details": "主要塑料成型设备制造商，公司与其建立了长期稳定的合作关系",
+      "quote": "除海天国际、伊之密外，公司还与富强鑫、大同机械、华研精机、博创智能等主要塑料成型设备制造商建立了长期稳定的合作关系"
+    },
+    {
+      "name": "赫斯基",
+      "relation_type": "customer",
+      "business_details": "境外知名塑料机械成型设备制造商，公司已进入其合格供应商名录",
+      "quote": "先后成功进入赫斯基、克劳斯马菲、恩格尔、发那科、住友德马格、米拉克龙、芝机精密、戴维斯标准等厂商合格供应商名录"
+    },
+    {
+      "name": "克劳斯玛菲（KraussMaffei）",
+      "relation_type": "customer",
+      "business_details": "境外知名塑料机械成型设备制造商，公司已进入其合格供应商名录",
+      "quote": "先后成功进入赫斯基、克劳斯马菲、恩格尔、发那科、住友德马格、米拉克龙、芝机精密、戴维斯标准等厂商合格供应商名录"
+    },
+    {
+      "name": "恩格尔（Engel）",
+      "relation_type": "customer",
+      "business_details": "境外知名塑料机械成型设备制造商，公司已进入其合格供应商名录",
+      "quote": "先后成功进入赫斯基、克劳斯马菲、恩格尔、发那科、住友德马格、米拉克龙、芝机精密、戴维斯标准等厂商合格供应商名录"
+    },
+    {
+      "name": "发那科（FANUC)",
+      "relation_type": "customer",
+      "business_details": "境外知名塑料机械成型设备制造商，公司已进入其合格供应商名录",
+      "quote": "先后成功进入赫斯基、克劳斯马菲、恩格尔、发那科、住友德马格、米拉克龙、芝机精密、戴维斯标准等厂商合格供应商名录"
+    },
+    {
+      "name": "住友德马格（Demag）",
+      "relation_type": "customer",
+      "business_details": "境外知名塑料机械成型设备制造商，公司已进入其合格供应商名录",
+      "quote": "先后成功进入赫斯基、克劳斯马菲、恩格尔、发那科、住友德马格、米拉克龙、芝机精密、戴维斯标准等厂商合格供应商名录"
+    },
+    {
+      "name": "米拉克龙（Milacron）",
+      "relation_type": "customer",
+      "business_details": "境外知名塑料机械成型设备制造商，公司已进入其合格供应商名录",
+      "quote": "先后成功进入赫斯基、克劳斯马菲、恩格尔、发那科、住友德马格、米拉克龙、芝机精密、戴维斯标准等厂商合格供应商名录"
+    },
+    {
+      "name": "戴维斯标准（Davis-Standard）",
+      "relation_type": "customer",
+      "business_details": "境外知名塑料机械成型设备制造商，公司已进入其合格供应商名录",
+      "quote": "先后成功进入赫斯基、克劳斯马菲、恩格尔、发那科、住友德马格、米拉克龙、芝机精密、戴维斯标准等厂商合格供应商名录"
+    },
+    {
+      "name": "浙江金欣贸易有限公司",
+      "relation_type": "supplier",
+      "business_details": "主要钢材供应商，采购额占比8.37%",
+      "quote": "浙江金欣贸易有限公司，采购额（元）35,978,547.26，占年度采购总额比例8.37%"
+    },
+    {
+      "name": "大冶特殊钢有限公司",
+      "relation_type": "supplier",
+      "business_details": "第一大钢材供应商，采购额占比19.28%",
+      "quote": "大冶特殊钢有限公司，采购额（元）82,883,073.47，占年度采购总额比例19.28%"
+    },
+    {
+      "name": "石钢京诚装备技术有限公司",
+      "relation_type": "supplier",
+      "business_details": "第二大钢材供应商，采购额占比11.18%",
+      "quote": "石钢京诚装备技术有限公司，采购额（元）48,063,598.31，占年度采购总额比例11.18%"
+    },
+    {
+      "name": "江苏永钢集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "钢材供应商，采购额占比6.96%",
+      "quote": "江苏永钢集团有限公司，采购额（元）29,913,304.02，占年度采购总额比例6.96%"
+    },
+    {
+      "name": "湖南华菱湘潭钢铁有限公司",
+      "relation_type": "supplier",
+      "business_details": "钢材供应商，采购额占比4.43%",
+      "quote": "湖南华菱湘潭钢铁有限公司，采购额（元）19,045,302.75，占年度采购总额比例4.43%"
+    },
+    {
+      "name": "浙江华鼎机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要业务为哥林柱及其配件的研发、生产及销售",
+      "quote": "浙江华鼎指浙江华鼎机械有限公司，浙江华业全资子公司"
+    },
+    {
+      "name": "宁波华帆金属材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "宁波华帆指宁波华帆金属材料科技有限公司，浙江华业控股子公司"
+    },
+    {
+      "name": "宁波华业塑料机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "曾为公司全资子公司，已于2026年1月14日注销",
+      "quote": "宁波华业指宁波华业塑料机械有限公司，曾为公司全资子公司，已于 2026 年 1 月14日注销"
+    },
+    {
+      "name": "宁波华有液压机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "曾为公司全资子公司，已于2026年1月14日注销",
+      "quote": "宁波华有指宁波华有液压机械有限公司，曾为公司全资子公司，已于 2026 年 1 月14日注销"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "塑料制造",
+      "segment_type": "business_unit",
+      "revenue_amount": "955,792,841.19元",
+      "revenue_proportion": "98.52%",
+      "gross_margin": "23.78%",
+      "yoy_change": "10.12%",
+      "quote": "塑料制造：营业收入955,792,841.19元，占营业收入比重98.52%，毛利率23.78%，营业收入比上年同期增减10.12%"
+    },
+    {
+      "name": "螺杆机筒",
+      "segment_type": "product_line",
+      "revenue_amount": "646,849,576.49元",
+      "revenue_proportion": "66.68%",
+      "gross_margin": "27.18%",
+      "yoy_change": "11.35%",
+      "quote": "螺杆机筒：营业收入646,849,576.49元，占营业收入比重66.68%，毛利率27.18%，营业收入比上年同期增减11.35%"
+    },
+    {
+      "name": "哥林柱",
+      "segment_type": "product_line",
+      "revenue_amount": "308,943,264.70元",
+      "revenue_proportion": "31.85%",
+      "gross_margin": "16.67%",
+      "yoy_change": "7.63%",
+      "quote": "哥林柱：营业收入308,943,264.70元，占营业收入比重31.85%，毛利率16.67%，营业收入比上年同期增减7.63%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "615,904,094.31元",
+      "revenue_proportion": "63.49%",
+      "gross_margin": "26.21%",
+      "yoy_change": "9.48%",
+      "quote": "华东地区：营业收入615,904,094.31元，占营业收入比重63.49%，毛利率26.21%，营业收入比上年同期增减9.48%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "259,705,989.59元",
+      "revenue_proportion": "26.77%",
+      "gross_margin": "15.90%",
+      "yoy_change": "6.59%",
+      "quote": "华南地区：营业收入259,705,989.59元，占营业收入比重26.77%，毛利率15.90%，营业收入比上年同期增减6.59%"
+    },
+    {
+      "name": "一般直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "903,082,819.42元",
+      "revenue_proportion": "93.09%",
+      "gross_margin": "23.98%",
+      "yoy_change": "8.40%",
+      "quote": "一般直销：营业收入903,082,819.42元，占营业收入比重93.09%，毛利率23.98%，营业收入比上年同期增减8.40%"
+    },
+    {
+      "name": "贸易商",
+      "segment_type": "sales_channel",
+      "revenue_amount": "41,620,859.85元",
+      "revenue_proportion": "4.29%",
+      "gross_margin": null,
+      "yoy_change": "12.37%",
+      "quote": "贸易商：营业收入41,620,859.85元，占营业收入比重4.29%，营业收入比上年同期增减12.37%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "25,401,916.82元",
+      "revenue_proportion": "2.62%",
+      "gross_margin": null,
+      "yoy_change": "17.00%",
+      "quote": "经销：营业收入25,401,916.82元，占营业收入比重2.62%，营业收入比上年同期增减17.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "螺杆机筒产品",
+      "metric_type": "sales_volume",
+      "value": "8.86万件",
+      "period": "2025年",
+      "quote": "螺杆机筒产品销售量8.86万件"
+    },
+    {
+      "product": "螺杆机筒产品",
+      "metric_type": "production_volume",
+      "value": "8.38万件",
+      "period": "2025年",
+      "quote": "螺杆机筒产品生产量8.38万件"
+    },
+    {
+      "product": "螺杆机筒产品",
+      "metric_type": "inventory_volume",
+      "value": "1.05万件",
+      "period": "2025年末",
+      "quote": "螺杆机筒产品库存量1.05万件"
+    },
+    {
+      "product": "哥林柱产品",
+      "metric_type": "sales_volume",
+      "value": "7.29万件",
+      "period": "2025年",
+      "quote": "哥林柱产品销售量7.29万件"
+    },
+    {
+      "product": "哥林柱产品",
+      "metric_type": "production_volume",
+      "value": "7.21万件",
+      "period": "2025年",
+      "quote": "哥林柱产品生产量7.21万件"
+    },
+    {
+      "product": "哥林柱产品",
+      "metric_type": "inventory_volume",
+      "value": "1.00万件",
+      "period": "2025年末",
+      "quote": "哥林柱产品库存量1.00万件"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "生产基地建设项目（一期）",
+      "project_type": "fundraising_project",
+      "location": "浙江省舟山市定海区金塘镇穆岙园区迎宾路北侧地块",
+      "investment_amount": "39,811.38万元（调整后投资总额）",
+      "designed_capacity": null,
+      "progress": "建设中，截至报告期末累计投入22,686.86万元，投资进度74.67%",
+      "expected_completion_time": "2028年09月30日",
+      "quote": "生产基地建设项目（一期）：调整后投资总额39,811.38万元，截至报告期末累计投入22,686.86万元，投资进度74.67%，预计可使用状态日期2028年09月30日"
+    },
+    {
+      "name": "智能化技改项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "2,927.4万元",
+      "designed_capacity": null,
+      "progress": "建设中，截至报告期末累计投入1,668.2万元，投资进度12.95%",
+      "expected_completion_time": "2028年09月30日",
+      "quote": "智能化技改项目：投资总额2,927.4万元，截至报告期末累计投入1,668.2万元，投资进度12.95%，预计可使用状态日期2028年09月30日"
+    },
+    {
+      "name": "技术研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "4,461.6万元",
+      "designed_capacity": null,
+      "progress": "建设中，截至报告期末累计投入181.7万元，投资进度7.15%",
+      "expected_completion_time": "2026年09月30日",
+      "quote": "技术研发中心建设项目：投资总额4,461.6万元，截至报告期末累计投入181.7万元，投资进度7.15%，预计可使用状态日期2026年09月30日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计拥有专利140项，其中发明专利18项",
+      "quote": "截至 2025 年底，公司累计拥有专利 140项，其中发明专利 18项"
+    },
+    {
+      "name": "行业及团体标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "起草和制定了6项行业及团体标准",
+      "quote": "公司依托深厚的技术积累，起草和制定了6项行业及团体标准"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司严格遵守 ISO9001 质量管理体系的要求"
+    },
+    {
+      "name": "基于 ISO56005的《创新与知识产权管理能力》2级证书",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年顺利通过基于 ISO56005的《创新与知识产权管理能力》评价并获得 2级证书"
+    },
+    {
+      "name": "《知识产权合规管理体系认证》",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025 年，公司新通过《知识产权合规管理体系认证》"
+    },
+    {
+      "name": "国家级“绿色工厂”",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后荣获...国家级“绿色工厂”"
+    },
+    {
+      "name": "机筒螺杆耐磨层制作技术",
+      "asset_type": "core_technology",
+      "related_product": "螺杆、机筒",
+      "quantitative_info": null,
+      "quote": "在核心技术领域，公司形成了包括...“机筒螺杆耐磨层制作技术”...等一系列具有自主知识产权的关键工艺"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "39.37%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例39.37%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.89%",
+      "related_entity": "伊之密集团",
+      "period": "2025年",
+      "quote": "伊之密集团销售额（元）144,492,294.74，占年度销售总额比例14.89%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.22%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例50.22%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "19.28%",
+      "related_entity": "大冶特殊钢有限公司",
+      "period": "2025年",
+      "quote": "大冶特殊钢有限公司采购额（元）82,883,073.47，占年度采购总额比例19.28%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司对主要客户的销售存在一定集中度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要销售客户情况：前五名客户合计销售金额占年度销售总额比例39.37%"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "公司对主要供应商的采购存在一定集中度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要供应商情况：前五名供应商合计采购金额占年度采购总额比例50.22%"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料（钢材、生铁等）市场价格波动可能对公司毛利率和经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动引致的经营业绩波动风险：公司主要从事螺杆、机筒、哥林柱及相关配套产品的研发、生产与销售，产品的主要原材料包括钢材、生铁等大宗金属材料。近年来，受全球宏观经济环境变动等因素影响，原材料市场价格呈现较大幅度的波动。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "存在核心技术泄密与关键技术人员流失的风险，可能削弱公司研发能力与竞争优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心技术泄密与关键技术人员流失的风险：公司深知核心技术与关键人员是公司核心竞争力的重要组成部分...若未来专利保护出现疏漏、保密管理执行不力，或因核心技术人员流失而未能有效补充，将可能导致核心技术外泄或研发能力削弱"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司发生安全生产事故并受到行政处罚。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司于2025年9月12日收到舟山市定海区应急管理局下发的《行政处罚决定书》（定海应急罚决〔2025〕第 000077号）。该决定书针对公司 2025年 5月 26日发生的一起安全事故，...对浙江华业处以罚款人民币伍拾壹万元整（¥510,000.00）的行政处罚。"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "company_name_mentioned": "上海雅创电子集团股份有限公司",
+  "produces": [
+    {
+      "name": "电子元器件分销业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司作为国内知名的电子元器件授权分销商及自研 IC 设计厂商，始终坚持以“电子元器件分销业务”与“模拟芯片及数模混合芯片的自主研发业务”双轮驱动的发展模式。"
+    },
+    {
+      "name": "自研IC设计业务（模拟及数模混合芯片）",
+      "type": "technology",
+      "revenue_proportion": "4.98%",
+      "quote": "分产品 电源管理 IC 设计 329,406,817.14 4.98%"
+    },
+    {
+      "name": "AI领域产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "报告期内，AI领域累计贡献收入9.36亿人民币，较上年同期猛增1,805.52%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "晶圆",
+      "target_product": "自研IC产品",
+      "cost_proportion": null,
+      "quote": "公司从晶圆代工厂采购晶圆，委托集成电路封装测试企业进行封装测试。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车电子",
+      "source_product": "电子元器件、自研IC",
+      "quote": "公司始终将汽车电子市场作为核心业务的基本盘...在汽车照明、汽车智能座舱、汽车 ADAS 三个细分市场保持强劲增长势头"
+    },
+    {
+      "name": "AI服务器",
+      "source_product": "电子元器件（存储器、DSP、时钟芯片、高速Serdes芯片、电源模块、SiC/GaN、MLCC等）",
+      "quote": "公司以前瞻性视野，围绕 AI产业链上游核心半导体器件及下游应用领域进行了战略布局...公司产品矩阵中的多款核心产品迎来倍数级增长，包括为AI服务器配套的 NAND存储器、Ai服务器配套的光通信用 MLCC"
+    },
+    {
+      "name": "人形机器人",
+      "source_product": "电子元器件、自研IC",
+      "quote": "公司围绕感知层、控制层、驱动层及电源层四大维度，构建了全方位、多品牌的产品矩阵...报告期内，人形机器人业务成功获取订单，实现百万级以上出货"
+    },
+    {
+      "name": "低空经济 (eVTOL)",
+      "source_product": "电子元器件、自研IC",
+      "quote": "公司围绕感知层、控制层、驱动层及电源层四大维度，构建了全方位、多品牌的产品矩阵...和eVTOL 头部厂商建立了广泛的合作伙伴关系"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "电子元器件、自研IC",
+      "quote": "自研芯片业务则聚焦汽车电子、工业控制、医疗电子、音频、光伏储能等赛道。"
+    },
+    {
+      "name": "医疗电子",
+      "source_product": "自研IC（如心电医疗AFE、脑电医疗AFE）",
+      "quote": "自研芯片业务则聚焦汽车电子、工业控制、医疗电子、音频、光伏储能等赛道。"
+    },
+    {
+      "name": "音频",
+      "source_product": "自研IC（音频功放）",
+      "quote": "自研芯片业务则聚焦汽车电子、工业控制、医疗电子、音频、光伏储能等赛道。"
+    },
+    {
+      "name": "光伏储能",
+      "source_product": "电子元器件、自研IC",
+      "quote": "自研芯片业务则聚焦汽车电子、工业控制、医疗电子、音频、光伏储能等赛道。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谢力书",
+      "role": "董事长、总经理",
+      "quote": "公司负责人谢力书...保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "樊晓磊",
+      "role": "财务总监、董事会秘书",
+      "quote": "主管会计工作负责人樊晓磊...保证本年度报告中财务报告的真实、准确、完整。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "香港台信",
+      "relation_type": "subsidiary",
+      "business_details": "分销业务核心主体，位于香港的主要采购主体，同时负责中国香港及东南亚地区的采购和销售",
+      "quote": "香港雅创台信电子有限公司，英文名称：TEXIN(HONGKONG) ELECTRONICS CO.,LIMITED，昆山雅创全资子公司"
+    },
+    {
+      "name": "雅信利",
+      "relation_type": "subsidiary",
+      "business_details": "分销业务核心主体，位于上海自贸区的主要采购主体，同时负责上海自贸区内的客户销售",
+      "quote": "上海雅信利电子贸易有限公司，公司全资子公司"
+    },
+    {
+      "name": "昆山雅创",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "昆山雅创电子零件有限公司，公司全资子公司"
+    },
+    {
+      "name": "上海谭慕",
+      "relation_type": "subsidiary",
+      "business_details": "电源管理 IC 的研发设计，国内IC业务销售主体",
+      "quote": "上海谭慕半导体科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "怡海能达",
+      "relation_type": "subsidiary",
+      "business_details": "被动元器件的分销",
+      "quote": "深圳市怡海能达有限公司，公司控股子公司"
+    },
+    {
+      "name": "欧创芯",
+      "relation_type": "subsidiary",
+      "business_details": "IC的研发设计",
+      "quote": "深圳欧创芯半导体有限公司，公司控股子公司"
+    },
+    {
+      "name": "威雅利集团",
+      "relation_type": "subsidiary",
+      "business_details": "分销业务",
+      "quote": "威雅利电子（集团）有限公司，公司控股子公司"
+    },
+    {
+      "name": "雅创芯和",
+      "relation_type": "subsidiary",
+      "business_details": "IC的研发设计，整合集团自研团队的研发中心",
+      "quote": "上海雅创芯和微电子有限公司，公司全资子公司。...雅创芯和为公司全新设立的研发中心，报告期内，公司逐步整合集团自研团队，实施集中化研发管理"
+    },
+    {
+      "name": "SEOUL（首尔半导体）",
+      "relation_type": "supplier",
+      "business_details": "全球领先的专业LED制造商，授权代理资质",
+      "quote": "SEOUL 指 首尔半导体（Seoul Semiconductor），是一家全球领先的专业LED 制造商...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "Murata（村田制作所）",
+      "relation_type": "supplier",
+      "business_details": "全球领先的电子元器件制造商，授权代理资质",
+      "quote": "Murata 指 株式会社村田制作所，全球领先的电子元器件制造商...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "SONY（索尼）",
+      "relation_type": "supplier",
+      "business_details": "全球知名的大型综合性跨国企业集团，授权代理资质",
+      "quote": "SONY、索尼 指 索尼集团公司（SonyGroup Corp.）...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "ROHM（罗姆）",
+      "relation_type": "supplier",
+      "business_details": "半导体集团，授权代理资质",
+      "quote": "ROHM 指 罗姆半导体集团...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "Kioxia（铠侠）",
+      "relation_type": "supplier",
+      "business_details": "存储公司，授权代理资质",
+      "quote": "Kioxia 指 东芝（Toshiba）旗下的东芝存储（Toshiba Memory），于 2018 年被贝恩资本等财团收购部分股权...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "ST（意法半导体）",
+      "relation_type": "supplier",
+      "business_details": "世界最大的半导体公司之一，授权代理资质",
+      "quote": "ST 指 ST Microelectronics，世界最大的半导体公司之一，也是半导体产品线最广的厂商之一...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "AKM（旭化成微电子）",
+      "relation_type": "supplier",
+      "business_details": "提供传感器件和精密集成电路产品，授权代理资质",
+      "quote": "AKM 指 旭化成微电子株式会社（Asahi Kasei Microdevices Corporation）...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "LRC（乐山无线电）",
+      "relation_type": "supplier",
+      "business_details": "大型电子企业，授权代理资质",
+      "quote": "LRC 指 乐山无线电股份有限公司（简称LRC），是以芯片设计、半导体器件制造与销售的大型电子企业...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    },
+    {
+      "name": "GD（兆易创新）",
+      "relation_type": "supplier",
+      "business_details": "全球领先的Fabless芯片供应商，授权代理资质",
+      "quote": "GD、兆易创新 指 兆易创新科技集团股份有限公司(股票代码603986)...公司拥有 SEOUL、Murata、Sony、Toshiba、Rohm、Kioxia、ST、AKM 、LRC、GD 兆易创新等众多国际及国内著名半导体厂商的授权代理资质"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车电子",
+      "segment_type": "customer_type",
+      "revenue_amount": "3,151,331,837.53元",
+      "revenue_proportion": "47.66%",
+      "gross_margin": "15.11%",
+      "yoy_change": "66.42%",
+      "quote": "分行业 汽车电子 3,151,331,837.53 47.66%"
+    },
+    {
+      "name": "非汽车电子",
+      "segment_type": "customer_type",
+      "revenue_amount": "3,460,749,901.65元",
+      "revenue_proportion": "52.34%",
+      "gross_margin": "10.64%",
+      "yoy_change": "101.64%",
+      "quote": "分行业 非汽车电子 3,460,749,901.65 52.34%"
+    },
+    {
+      "name": "电子元器件分销",
+      "segment_type": "product_line",
+      "revenue_amount": "6,277,165,135.94元",
+      "revenue_proportion": "94.94%",
+      "gross_margin": "11.05%",
+      "yoy_change": "93.08%",
+      "quote": "分产品 电子元器件分销 6,277,165,135.94 94.94%"
+    },
+    {
+      "name": "电源管理 IC 设计",
+      "segment_type": "product_line",
+      "revenue_amount": "329,406,817.14元",
+      "revenue_proportion": "4.98%",
+      "gross_margin": "44.50%",
+      "yoy_change": "-5.43%",
+      "quote": "分产品 电源管理 IC 设计 329,406,817.14 4.98%"
+    },
+    {
+      "name": "大陆地区",
+      "segment_type": "region",
+      "revenue_amount": "5,333,793,024.95元",
+      "revenue_proportion": "80.67%",
+      "gross_margin": "13.55%",
+      "yoy_change": "88.34%",
+      "quote": "分地区 大陆地区 5,333,793,024.95 80.67%"
+    },
+    {
+      "name": "港澳台",
+      "segment_type": "region",
+      "revenue_amount": "860,217,719.49元",
+      "revenue_proportion": "13.01%",
+      "gross_margin": "3.51%",
+      "yoy_change": "100.32%",
+      "quote": "分地区 港澳台 860,217,719.49 13.01%"
+    },
+    {
+      "name": "海外地区",
+      "segment_type": "region",
+      "revenue_amount": "418,070,994.74元",
+      "revenue_proportion": "6.32%",
+      "gross_margin": null,
+      "yoy_change": "19.95%",
+      "quote": "分地区 海外地区 418,070,994.74 6.32%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电子元器件分销",
+      "metric_type": "sales_volume",
+      "value": "24,298,313,468片",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 片 24,298,313,468"
+    },
+    {
+      "product": "电子元器件分销",
+      "metric_type": "inventory_volume",
+      "value": "3,370,464,805片",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 库存量 片 3,370,464,805"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购怡海能达及欧创芯少数股权项目",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "报告期内，公司积极推进以发行股份购买资产并配套募集资金的方式，收购控股子公司怡海能达及欧创芯的少数股权。",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司积极推进以发行股份购买资产并配套募集资金的方式，收购控股子公司怡海能达及欧创芯的少数股权。"
+    },
+    {
+      "name": "配套募集资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "2.5亿元",
+      "designed_capacity": null,
+      "progress": "为公司补充长期发展的资金储备",
+      "expected_completion_time": null,
+      "quote": "本次交易配套募集资金 2.5 亿元，可以为公司补充长期发展的资金储备"
+    },
+    {
+      "name": "雅创芯和研发中心",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "1.9亿元",
+      "designed_capacity": null,
+      "progress": "报告期内已组建完成",
+      "expected_completion_time": null,
+      "quote": "雅创芯和为公司全新设立的研发中心，报告期内，公司逐步整合集团自研团队...投资1.9亿元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "汽车高边驱动自适应负载检测技术",
+      "asset_type": "core_technology",
+      "related_product": "高低边智能驱动开关IC",
+      "quantitative_info": null,
+      "quote": "序号 核心技术名称 核心技术特性 1 汽车高边驱动自适应负载检测技术 自动识别高边开关多种类型负载，根据不同类型负载调整驱动策略，提高系统可靠性"
+    },
+    {
+      "name": "汽车高边驱动数字化智能内核驱动技术",
+      "asset_type": "core_technology",
+      "related_product": "高低边智能驱动开关IC",
+      "quantitative_info": null,
+      "quote": "序号 核心技术名称 核心技术特性 2 汽车高边驱动数字化智能内核驱动技术 检测SGT MOS的温度，电压，电流及工艺角，控制芯片的各种电压，电流，温度参数，采用可编程数字化智能内核根据检测实时调整驱动策略，提高系统可靠性"
+    },
+    {
+      "name": "汽车高边驱动高精度电流采样技术",
+      "asset_type": "core_technology",
+      "related_product": "高低边智能驱动开关IC",
+      "quantitative_info": "共模抑制比大于140dB，共模电压范围-6V到40V",
+      "quote": "序号 核心技术名称 核心技术特性 3 汽车高边驱动高精度电流采样技术 新颖的低成本电容耦合仪器放大器构架实现极高的共模抑制比（大于140dB）以及非常宽的共模电压范围(-6V到40V)。"
+    },
+    {
+      "name": "汽车高边驱动 1.2mohm低导通阻抗实现",
+      "asset_type": "core_technology",
+      "related_product": "高低边智能驱动开关IC",
+      "quantitative_info": "1.2mohm导通电阻",
+      "quote": "序号 核心技术名称 核心技术特性 4 汽车高边驱动 1.2mohm低导通阻抗实现 挑战封装，SGT面积，封装材料，框架极限从而实现了1.2mohm的极低导通电阻的高边开关"
+    },
+    {
+      "name": "汽车音频功放 SemiSPWTM技术",
+      "asset_type": "core_technology",
+      "related_product": "D类模拟功放、D类数字功放",
+      "quantitative_info": null,
+      "quote": "序号 核心技术名称 核心技术特性 5 汽车音频功放 SemiSPWTM技术 汽车音频功放的通道数要求越来越多，提出一种新颖的D类放大器拓扑构架，实现了相同功率封装下多一倍的驱动通道数，极大的降低了汽车音频功放的BOM成本"
+    },
+    {
+      "name": "汽车Efuse 自适应 I2T技术",
+      "asset_type": "core_technology",
+      "related_product": "Efuse 智能保险丝预驱动、智能保险丝保护开关",
+      "quantitative_info": null,
+      "quote": "序号 核心技术名称 核心技术特性 6 汽车Efuse 自适应 I2T技术 可编程自适应 I²t 保护曲线，可根据负载类型、环境温度动态调整电流 - 时间保护阈值，精准模拟线束发热特性，在过载 / 短路时既避免误跳闸又能快速切断故障，同时支持故障诊断与远程复位，提升汽车配电系统的安全性与可靠性。"
+    },
+    {
+      "name": "产品型号",
+      "asset_type": "other",
+      "related_product": "自研IC产品",
+      "quantitative_info": "超过600款",
+      "quote": "自研IC业务现已构建高可靠性高性能智能驱动、电源管理、信号链、数模混合SOC四大业务体系...现有产品型号超过 600款"
+    },
+    {
+      "name": "AEC-Q100认证",
+      "asset_type": "certification",
+      "related_product": "量产车规级芯片",
+      "quantitative_info": null,
+      "quote": "量产车规级芯片均通过 AEC-Q100 认证。"
+    },
+    {
+      "name": "累计批量出货量",
+      "asset_type": "other",
+      "related_product": "汽车电子前装市场自研IC",
+      "quantitative_info": "超过6.5亿颗",
+      "quote": "自2019年以来，公司在汽车电子前装市场的累计批量出货已超过 6.5亿颗。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "14.17%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 14.17%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "48.58%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 48.58%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易摩擦与保护主义措施持续，对全球产业链的稳定性与资源配置效率构成挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "宏观环境风险：集成电路产业具有典型的全球化分工特征。近年来，国际贸易摩擦与保护主义措施持续，对全球产业链的稳定性与资源配置效率构成挑战。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "半导体行业呈现周期性波动特点，如果宏观经济发生剧烈波动或存在下行趋势，将导致行业发生波动或需求减少。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业和技术迭代风险：半导体行业是资本及技术密集型行业，随着技术的迭代，行业本身呈现周期性波动的特点，并且行业周期的波动与经济周期关系紧密。如果宏观经济发生剧烈波动或存在下行趋势，将导致行业发生波动或需求减少，使包括公司在内的集成电路企业面临一定的行业波动风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术人员流失，将直接影响公司在车规级模拟芯片等领域的持续研发能力与产品创新迭代，削弱为客户提供技术服务与解决方案的深度与响应速度，亦可能导致核心技术信息泄露。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才与技术流失风险：公司作为车规级芯片设计企业及技术驱动型分销商，其核心竞争力高度依赖于核心研发与技术团队。...若出现核心技术人员流失，不仅将直接影响公司在车规级模拟芯片等领域的持续研发能力与产品创新迭代，削弱为客户提供技术服务与解决方案的深度与响应速度，亦可能导致核心技术信息泄露，对公司技术优势、市场竞争地位及经营业绩构成重大不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司的外汇收支主要涉及电子元器件的进口和产品的境外、保税区销售，涉及币种包括美元、日元、港元等。由于汇率的变化受国内外政治、经济等各种因素影响，具有较大不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率风险：公司的外汇收支主要涉及电子元器件的进口和产品的境外、保税区销售，涉及币种包括美元、日元、港元等。由于汇率的变化受国内外政治、经济等各种因素影响，具有较大不确定性。因此，如果未来人民币汇率出现较大波动，将对公司经营成果造成不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司在多个国家和地区均设有分支机构，业务和人员遍布较广，如不能对各子公司进行有效治理，将可能出现对子公司管理方面的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经营管理风险：公司在发展过程中已建立了高效的管理体系和经营管理团队，由于公司在多个国家和地区均设有分支机构，业务和人员遍布较广，如不能对各子公司进行有效治理，将可能出现对子公司管理方面的风险，从而可能对公司的经营管理带来不利影响。"
+    }
+  ]
+}

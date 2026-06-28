@@ -1,0 +1,497 @@
+{
+  "company_name_mentioned": "北京君正集成电路股份有限公司",
+  "produces": [
+    {
+      "name": "存储芯片",
+      "type": "device",
+      "revenue_proportion": "61.40%",
+      "quote": "公司主要产品线为存储芯片、计算芯片和模拟与互联芯片...报告期内，公司实现营业收入474,100.76万元...分产品 存储芯片 2,911,253,392.92 61.40%"
+    },
+    {
+      "name": "计算芯片",
+      "type": "device",
+      "revenue_proportion": "27.28%",
+      "quote": "公司主要产品线为存储芯片、计算芯片和模拟与互联芯片...计算芯片 1,293,411,379.77 27.28%"
+    },
+    {
+      "name": "模拟与互联芯片",
+      "type": "device",
+      "revenue_proportion": "10.67%",
+      "quote": "公司主要产品线为存储芯片、计算芯片和模拟与互联芯片...模拟与互联芯片 505,639,165.26 10.67%"
+    },
+    {
+      "name": "SRAM",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司存储芯片包括SRAM、DRAM、FLASH三类，SRAM产品品类丰富..."
+    },
+    {
+      "name": "DRAM",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司DRAM产品开发主要针对具有较高技术壁垒的专业级应用领域，产品包括DDR、DDR2、LPDDR2、DDR3、DDR4、LPDDR4等多种类型..."
+    },
+    {
+      "name": "NOR Flash",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司Flash产品线包括了从256Kb至2Gb多种容量规格的全球主流NOR Flash存储芯片及部分NAND Flash存储芯片。"
+    },
+    {
+      "name": "3D DRAM",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司进行了3D DRAM产品的研发...公司继续推进3D DRAM的研发，包括算力SoC与存储接口相关BaseDie部分的研发。"
+    },
+    {
+      "name": "LED驱动芯片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司模拟产品主要为各类LED驱动芯片，包含了多频驱动、矩阵驱动、线性驱动等多种规格的LED驱动芯片..."
+    },
+    {
+      "name": "视频处理器T33",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司完成了面向安防监控领域支持H.265硬件编码的视频处理器T33的研发、投片与量产工作..."
+    },
+    {
+      "name": "AI MCU芯片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司AI MCU产品于四季度样品回片，目前正处于测试验证阶段。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "晶圆",
+      "target_product": "集成电路设计",
+      "cost_proportion": "62.35%",
+      "quote": "集成电路设计 晶圆 1,946,688,422.30 62.35%"
+    },
+    {
+      "name": "封装服务",
+      "target_product": "集成电路设计",
+      "cost_proportion": "18.12%",
+      "quote": "集成电路设计 封装 565,909,438.12 18.12%"
+    },
+    {
+      "name": "测试服务",
+      "target_product": "集成电路设计",
+      "cost_proportion": "13.15%",
+      "quote": "集成电路设计 测试 410,781,303.57 13.15%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车电子",
+      "source_product": "存储芯片、模拟与互联芯片",
+      "quote": "公司主要产品线为存储芯片、计算芯片和模拟与互联芯片，其中存储芯片主要面向汽车、工业等领域...公司存储芯片产品线和模拟与互联芯片产品线，主要面向汽车电子、工业与医疗、通讯设备等领域..."
+    },
+    {
+      "name": "工业与医疗",
+      "source_product": "存储芯片、模拟与互联芯片",
+      "quote": "公司主要产品线为存储芯片、计算芯片和模拟与互联芯片，其中存储芯片主要面向汽车、工业等领域...公司存储芯片产品线和模拟与互联芯片产品线，主要面向汽车电子、工业与医疗、通讯设备等领域..."
+    },
+    {
+      "name": "通讯设备",
+      "source_product": "存储芯片、模拟与互联芯片",
+      "quote": "公司存储芯片产品线和模拟与互联芯片产品线，主要面向汽车电子、工业与医疗、通讯设备等领域..."
+    },
+    {
+      "name": "消费电子",
+      "source_product": "计算芯片",
+      "quote": "计算芯片主要面向智能安防、二维码设备、生物识别、智能门锁、打印机、智能家居家电等端侧消费类产品市场..."
+    },
+    {
+      "name": "智能安防",
+      "source_product": "计算芯片",
+      "quote": "计算芯片主要面向智能安防、泛视觉和智能物联网等市场..."
+    },
+    {
+      "name": "智能物联网",
+      "source_product": "计算芯片",
+      "quote": "计算芯片主要面向智能安防、泛视觉和智能物联网等市场..."
+    },
+    {
+      "name": "AI服务器/存储",
+      "source_product": "NOR Flash",
+      "quote": "在AI基础建设的拉动下，AI服务器的需求快速发展，公司Nor Flash在AI服务器、SSD等市场的需求有所增长。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘强",
+      "role": "董事长、总经理",
+      "quote": "公司负责人刘强...现任公司董事长和总经理等。"
+    },
+    {
+      "name": "李杰",
+      "role": "董事",
+      "quote": "李杰，男，现任公司董事。"
+    },
+    {
+      "name": "张紧",
+      "role": "董事、副总经理",
+      "quote": "张紧，男，现任公司董事和副总经理等。"
+    },
+    {
+      "name": "冼永辉",
+      "role": "董事、副总经理",
+      "quote": "冼永辉，男，现任公司董事和副总经理等。"
+    },
+    {
+      "name": "黄磊",
+      "role": "董事、副总经理",
+      "quote": "黄磊，男，现任公司董事、副总经理等。"
+    },
+    {
+      "name": "叶飞",
+      "role": "副总经理、财务总监",
+      "quote": "主管会计工作负责人叶飞...现任公司副总经理、财务总监等。"
+    },
+    {
+      "name": "张敏",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书 张敏...现任公司副总经理、董事会秘书等。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳君正时代集成电路有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司",
+      "quote": "深圳君正 指 深圳君正时代集成电路有限公司，本公司的全资子公司"
+    },
+    {
+      "name": "合肥君正科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司，主要面向智能视觉领域进行芯片研发与销售。",
+      "quote": "合肥君正 指 合肥君正科技有限公司，本公司的全资子公司...合肥君正科技有限公司主要面向智能视觉领域，进行视频编解码技术、SoC芯片技术...等相关核心技术的研发、芯片产品的开发..."
+    },
+    {
+      "name": "北京矽成半导体有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司，主营集成电路存储芯片、模拟与互联芯片的研发与销售。",
+      "quote": "北京矽成 指 北京矽成半导体有限公司，本公司的全资子公司...北京矽成半导体有限公司主营业务为高集成密度、高性能品质、高经济价值的集成电路存储芯片、模拟与互联芯片的研发与销售。"
+    },
+    {
+      "name": "上海承裕资产管理合伙企业（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "本公司的全资子公司",
+      "quote": "上海承裕 指 上海承裕资产管理合伙企业（有限合伙），本公司的全资子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "存储芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "2,911,253,392.92元",
+      "revenue_proportion": "61.40%",
+      "gross_margin": "31.95%",
+      "yoy_change": "12.43%",
+      "quote": "存储芯片 2,911,253,392.92 61.40%...存储芯片 31.95% 12.43%"
+    },
+    {
+      "name": "计算芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "1,293,411,379.77元",
+      "revenue_proportion": "27.28%",
+      "gross_margin": "30.86%",
+      "yoy_change": "18.65%",
+      "quote": "计算芯片 1,293,411,379.77 27.28%...计算芯片 30.86% 18.65%"
+    },
+    {
+      "name": "模拟与互联芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "505,639,165.26元",
+      "revenue_proportion": "10.67%",
+      "gross_margin": "51.09%",
+      "yoy_change": "7.24%",
+      "quote": "模拟与互联芯片 505,639,165.26 10.67%...模拟与互联芯片 51.09% 7.24%"
+    },
+    {
+      "name": "技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "21,221,179.57元",
+      "revenue_proportion": "0.45%",
+      "gross_margin": "98.98%",
+      "yoy_change": "-59.88%",
+      "quote": "技术服务 21,221,179.57 0.45%...技术服务 98.98% -59.88%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "813,163,749.19元",
+      "revenue_proportion": "17.15%",
+      "gross_margin": "32.66%",
+      "yoy_change": "13.18%",
+      "quote": "境内 813,163,749.19 17.15%...境内 32.66% 13.18%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "3,919,220,170.96元",
+      "revenue_proportion": "82.67%",
+      "gross_margin": "34.29%",
+      "yoy_change": "12.41%",
+      "quote": "境外 3,919,220,170.96 82.67%...境外 34.29% 12.41%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,771,216,397.82元",
+      "revenue_proportion": "79.55%",
+      "gross_margin": "34.04%",
+      "yoy_change": "15.03%",
+      "quote": "经销 3,771,216,397.82 79.55%...经销 34.04% 15.03%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "961,167,522.33元",
+      "revenue_proportion": "20.27%",
+      "gross_margin": "33.87%",
+      "yoy_change": "3.75%",
+      "quote": "直销 961,167,522.33 20.27%...直销 33.87% 3.75%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "集成电路设计",
+      "metric_type": "sales_volume",
+      "value": "97,355 万颗",
+      "period": "2025年",
+      "quote": "销售量 万颗 97,355 78,990 23.25%"
+    },
+    {
+      "product": "集成电路设计",
+      "metric_type": "production_volume",
+      "value": "128,257 万颗",
+      "period": "2025年",
+      "quote": "生产量 万颗 128,257 98,371 30.38%"
+    },
+    {
+      "product": "集成电路设计",
+      "metric_type": "inventory_volume",
+      "value": "95,855 万颗",
+      "period": "2025年",
+      "quote": "库存量 万颗 95,855 64,952 47.58%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "面向智能汽车和智慧城市的网络芯片研发项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "17,900万元（调整后）",
+      "designed_capacity": null,
+      "progress": "26.94%",
+      "expected_completion_time": "2029年01月01日",
+      "quote": "面向智能汽车和智慧城市的网络芯片研发项目...项目拟投资总额 17,900...投资进度 4,821.57 26.94%...项目达到预定可使用状态日期 2029年01月01日"
+    },
+    {
+      "name": "面向智能汽车的新一代高速存储芯片研发项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "16,151万元（调整后）",
+      "designed_capacity": null,
+      "progress": "71.64%",
+      "expected_completion_time": "2030年06月30日",
+      "quote": "面向智能汽车的新一代高速存储芯片研发项目...项目拟投资总额 16,151...投资进度 11,570.07 71.64%...项目达到预定可使用状态日期 2030年06月30日"
+    },
+    {
+      "name": "嵌入式MPU系列芯片的研发与产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "21,155.32万元",
+      "designed_capacity": null,
+      "progress": "20.63%",
+      "expected_completion_time": "2027年09月01日",
+      "quote": "嵌入式MPU系列芯片的研发与产业化项目...项目拟投资总额 21,155.32...投资进度 4,364.86 20.63%...项目达到预定可使用状态日期 2027年09月01日"
+    },
+    {
+      "name": "智能视频系列芯片的研发与产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "36,239.16万元",
+      "designed_capacity": null,
+      "progress": "37.25%",
+      "expected_completion_time": "2027年09月01日",
+      "quote": "智能视频系列芯片的研发与产业化项目...项目拟投资总额 36,239.16...投资进度 13,500.05 37.25%...项目达到预定可使用状态日期 2027年09月01日"
+    },
+    {
+      "name": "合肥君正研发中心项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "11,332.64万元",
+      "designed_capacity": null,
+      "progress": "83.36%",
+      "expected_completion_time": "2026年05月19日",
+      "quote": "合肥君正研发中心项目...项目拟投资总额 11,332.64...投资进度 9,447.24 83.36%...项目达到预定可使用状态日期 2026年05月19日"
+    },
+    {
+      "name": "3D DRAM芯片的研发与产业化项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "23,560.28万元",
+      "designed_capacity": null,
+      "progress": "0.00%",
+      "expected_completion_time": "2030年05月12日",
+      "quote": "3D DRAM芯片的研发与产业化项目...项目拟投资总额 23,560.28...投资进度 0 0.00%...项目达到预定可使用状态日期 2030年05月12日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "嵌入式CPU技术（XBurst系列CPU内核）",
+      "asset_type": "core_technology",
+      "related_product": "计算芯片",
+      "quantitative_info": null,
+      "quote": "（1）嵌入式CPU技术。公司创业团队多年来从事嵌入式CPU技术的研发...公司基于32位MIPS指令集架构设计了XBurst系列CPU内核..."
+    },
+    {
+      "name": "视频编解码技术",
+      "asset_type": "core_technology",
+      "related_product": "计算芯片",
+      "quantitative_info": null,
+      "quote": "（2）视频编解码技术。...公司自主研发的视频编解码器，能够支持大多数国际上主流的视频格式..."
+    },
+    {
+      "name": "影像信号处理技术",
+      "asset_type": "core_technology",
+      "related_product": "计算芯片",
+      "quantitative_info": null,
+      "quote": "（3）影像信号处理技术。...实现了2D/3D降噪、AI宽动态、自动抗频闪、噪声建模、AI图像增强等图像信号前沿技术..."
+    },
+    {
+      "name": "神经网络处理器技术",
+      "asset_type": "core_technology",
+      "related_product": "计算芯片",
+      "quantitative_info": null,
+      "quote": "（4）神经网络处理器技术。...形成了公司独特的AI算力引擎。公司的AI算力引擎兼顾计算效能与灵活性..."
+    },
+    {
+      "name": "AI算法技术",
+      "asset_type": "core_technology",
+      "related_product": "计算芯片",
+      "quantitative_info": null,
+      "quote": "（5）AI算法技术。...公司在人脸识别、车牌识别、哭声识别、人形检测、人形跟踪、多目标检测、口罩识别等领域已有大量成熟算法并已走向市场。"
+    },
+    {
+      "name": "存储器技术",
+      "asset_type": "core_technology",
+      "related_product": "存储芯片",
+      "quantitative_info": null,
+      "quote": "（6）存储器技术，包括SRAM、DRAM、NOR Flash、嵌入式Flash等。...拥有深厚的技术积累，形成了一套完整的技术体系和工程保障体系..."
+    },
+    {
+      "name": "模拟与互联技术",
+      "asset_type": "core_technology",
+      "related_product": "模拟与互联芯片",
+      "quantitative_info": null,
+      "quote": "（7）模拟与互联技术，包括FxLED驱动、大功率LED驱动、LIN/CAN总线、GreenPhy等模拟与互联领域的多类技术..."
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "803件",
+      "quote": "截至报告期末，公司及全资子公司拥有专利证书803件..."
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "186件",
+      "quote": "软件著作权登记证书186件..."
+    },
+    {
+      "name": "集成电路布图",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "107件",
+      "quote": "集成电路布图107件..."
+    },
+    {
+      "name": "IATF16949质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": "车规级芯片",
+      "quantitative_info": null,
+      "quote": "同时，公司依据IATF16949的要求，建立了面向汽车电子的供应链管理体系。"
+    },
+    {
+      "name": "ISO26262质量体系认证（ASIL-D等级）",
+      "asset_type": "certification",
+      "related_product": "车规级芯片",
+      "quantitative_info": null,
+      "quote": "公司相关管理体系还获得了ISO26262的质量体系认证（ASIL-D等级），能够开发具备各ASIL等级的芯片。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,406,096,146.93元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,406,096,146.93...前五名客户合计销售金额占年度销售总额比例 50.74%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,555,229,298.06元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 1,555,229,298.06...前五名供应商合计采购金额占年度采购总额比例 45.16%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "集成电路行业技术更新快、市场竞争激烈，需要公司不断推出新产品...如公司开发的产品不能很好地符合市场需求，则可能对公司的市场销售带来不利影响，使经营风险随之加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）产品开发风险...集成电路行业技术更新快、市场竞争激烈..."
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "在行业生产旺季来临时，晶圆代工厂和封装测试厂的产能能否满足公司的采购需求存在不确定性...2025年，随着三星、美光、海力士等逐渐把产能转移至HBM等高端产品，消费类和行业类DRAM产品陆续出现供应短缺...预计2026年供应短缺的情形将会持续，上游供应商的价格预计也会有所上涨，从而给公司带来供应短缺和产品成本上涨的风险。",
+      "related_entity": null,
+      "related_product": "存储芯片",
+      "quote": "（6）供应短缺及成本上涨风险...公司专注于集成电路芯片的设计研发，生产采用Fabless运营模式...上游供应商的价格预计也会有所上涨，从而给公司带来供应短缺和产品成本上涨的风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司完成对北京矽成的并购后，公司合并报表中产生因收购形成的较大金额的商誉...如果未来市场环境发生不利变化导致北京矽成经营情况受到重大影响，公司可能出现商誉减值风险，商誉减值将直接增加资产减值损失，商誉减值当年对公司的利润将带来重大不利影响...",
+      "related_entity": "北京矽成半导体有限公司",
+      "related_product": null,
+      "quote": "（11）商誉减值风险...公司完成对北京矽成的并购后，公司合并报表中产生因收购形成的较大金额的商誉。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司的芯片产品涉及汽车、工业、医疗、通讯、消费等多个领域，不同领域市场需求特点各有不同，如重点市场的需求情况发生变化，可能会对公司的市场推广带来风险...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）市场拓展风险...公司的芯片产品涉及汽车、工业、医疗、通讯、消费等多个领域..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "市场供求关系变化可能会导致部分产品销售价格下降或生产成本上升，从而带来产品毛利率下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）毛利率下降的风险...由于电子市场需求和供应链情况变动较大，消费市场和行业市场均存在需求和供应的周期波动，市场供求关系变化可能会导致部分产品销售价格下降或生产成本上升..."
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司部分下属经营主体注册在中国大陆地区以外，日常经营活动中涉及美元、欧元、台币等货币...汇率波动可能给未来运营带来汇兑风险...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（9）外汇风险...公司部分下属经营主体注册在中国大陆地区以外，日常经营活动中涉及美元、欧元、台币等货币..."
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "随着公司收入规模的不断增长，为满足市场销售的需求，公司的存货规模需相应提高...如市场供需情况发生变化，则可能使公司出现一定的存货风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（7）存货风险...随着公司收入规模的不断增长，为满足市场销售的需求，公司的存货规模需相应提高..."
+    }
+  ]
+}

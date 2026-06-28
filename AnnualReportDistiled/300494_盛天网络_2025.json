@@ -1,0 +1,646 @@
+{
+  "company_name_mentioned": "湖北盛天网络技术股份有限公司",
+  "produces": [
+    {
+      "name": "游戏运营业务",
+      "type": "service",
+      "revenue_proportion": "14.30%",
+      "quote": "游戏运营业务 171,202,430.03 14.30%"
+    },
+    {
+      "name": "IP运营业务",
+      "type": "service",
+      "revenue_proportion": "4.62%",
+      "quote": "IP运营业务 55,269,599.01 4.62%"
+    },
+    {
+      "name": "网络广告与增值业务",
+      "type": "service",
+      "revenue_proportion": "80.56%",
+      "quote": "网络广告与增值业务 964,486,334.61 80.56%"
+    },
+    {
+      "name": "云游戏平台（随乐游）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "随乐游云游戏平台是基于易乐游核心服务以及盛天云计算技术构建的新一代云游戏平台"
+    },
+    {
+      "name": "网娱平台（易乐游）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "易乐游网娱平台：专为网吧等行业设计的一站式解决方案"
+    },
+    {
+      "name": "数字娱乐平台（易乐途）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "易乐途数字娱乐平台是公司专为电竞酒店研发的数字娱乐平台"
+    },
+    {
+      "name": "游戏社交产品（带带电竞）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "游戏社交产品“带带电竞”"
+    },
+    {
+      "name": "AI音乐社交产品（给麦）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "AI音乐社交产品“给麦”"
+    },
+    {
+      "name": "《星之翼》游戏",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "《星之翼》游戏"
+    },
+    {
+      "name": "《活侠传》游戏",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "《活侠传》游戏"
+    },
+    {
+      "name": "《神奇波比》游戏",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "《神奇波比》游戏"
+    },
+    {
+      "name": "易乐玩游戏平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "易乐玩游戏平台是集合了页游、端游、手游、H5游戏运营的游戏平台。"
+    },
+    {
+      "name": "火箭加速器",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司的火箭加速器利用边缘计算技术，为PC和移动端用户提供专业的游戏加速服务"
+    },
+    {
+      "name": "比特球云盘",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司推出了比特球云盘，这是一款具有大容量存储、专线加速和严格隐私保护的成熟云存储产品"
+    },
+    {
+      "name": "VRACE AI平台",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "VRACEAI平台是公司在AI领域的集大成之作，通过技术创新重塑娱乐体验。"
+    },
+    {
+      "name": "盛天云",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "盛天云是盛天网络自主研发，专注于游戏与社交服务领域的云计算平台。"
+    },
+    {
+      "name": "EYOONET游戏分发引擎",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "EYOONET游戏分发引擎"
+    }
+  ],
+  "procures": [
+    {
+      "name": "流量采购",
+      "target_product": "网络广告与增值业务",
+      "cost_proportion": "82.88%",
+      "quote": "网络广告与增值业务 流量采购成本 779,956,154.11 82.88%"
+    },
+    {
+      "name": "推广服务",
+      "target_product": "游戏运营业务",
+      "cost_proportion": "1.05%",
+      "quote": "游戏运营业务 推广服务成本 9,902,783.67 1.05%"
+    },
+    {
+      "name": "推广服务",
+      "target_product": "IP运营业务",
+      "cost_proportion": "1.15%",
+      "quote": "IP运营 推广服务成本 10,797,784.29 1.15%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "游戏娱乐",
+      "source_product": "游戏运营业务",
+      "quote": "公司通过多种形式为用户提供丰富的游戏内容。"
+    },
+    {
+      "name": "电竞酒店",
+      "source_product": "易乐途数字娱乐平台",
+      "quote": "易乐途数字娱乐平台是公司专为电竞酒店研发的数字娱乐平台"
+    },
+    {
+      "name": "网吧",
+      "source_product": "易乐游网娱平台",
+      "quote": "易乐游网娱平台：专为网吧等行业设计的一站式解决方案"
+    },
+    {
+      "name": "智能汽车座舱",
+      "source_product": "随乐游云游戏平台",
+      "quote": "随乐游持续拓展智能座舱场景，加速赋能智能汽车从出行工具向集智慧服务与沉浸娱乐于一体的移动生活空间演进。"
+    },
+    {
+      "name": "游戏厂商精准营销",
+      "source_product": "网络广告与增值业务",
+      "quote": "基于自有平台积累的庞大用户流量与场景触达能力，公司互联网广告业务通过整合搜索引擎、社交平台、短视频及直播等多媒介资源，为游戏开发商等内容和服务提供商提供精准营销服务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赖春临",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人赖春临、主管会计工作负责人王俊芳及会计机构负责人(会计主管人员)张慧声明"
+    },
+    {
+      "name": "王俊芳",
+      "role": "董事、副总经理、财务总监、董事会秘书",
+      "quote": "王俊芳，女，1977年5月生，中国国籍，本科学历，无境外永久居留权，高级会计师。2009年至今任公司财务总监。2020年1月3日，经公司2020年第一次临时股东大会选举为本公司非独立董事。2020年4月27日，经第三届董事会第二十二次会议聘任为公司副总经理。2023年12月8日，经第四届董事会第二十三次会议聘任为公司董事会秘书。目前，王俊芳女士担任本公司董事、副总经理、财务总监、董事会秘书。"
+    },
+    {
+      "name": "邝耀华",
+      "role": "董事、副总经理",
+      "quote": "邝耀华，男，1979年5月出生，中国国籍，无境外永久居留权，本科学历。2009年11月至2011年11月任湖北盛天网络技术有限公司董事、副总经理。2011年11月至2020年5月任湖北盛天网络技术股份有限公司董事、副总经理。2020年5月至今担任公司首席架构师职务。2023年8月3日，经第四届董事会第二十次会议聘任为公司副总经理。"
+    },
+    {
+      "name": "陈爱斌",
+      "role": "董事",
+      "quote": "陈爱斌，男，1976年2月生，中国国籍，无境外永久居留权，工商管理硕士。"
+    },
+    {
+      "name": "龚龙",
+      "role": "副总经理",
+      "quote": "龚龙，男，1985年10月生，中国国籍，无境外永久居留权。2007年6月毕业于武汉工程大学。2021年1月10日起，任公司副总经理，分管游戏广告营销。"
+    },
+    {
+      "name": "陈自力",
+      "role": "副总经理",
+      "quote": "陈自力，男，1976年11月生，中国国籍，无境外永久居留权。1999年7月毕业于湖北大学中文系。2022年5月起，任盛天网络副总经理，主管公司对外公共事务。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "武汉天戏互娱网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "IP运营业务",
+      "quote": "天戏互娱 指 武汉天戏互娱网络科技有限公司（原上海天戏互娱网络技术有限公司）"
+    },
+    {
+      "name": "武汉盛天游戏网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "游戏发行",
+      "quote": "盛天游戏 指 武汉盛天游戏网络科技有限公司"
+    },
+    {
+      "name": "武汉盛游互娱网络技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "游戏社交",
+      "quote": "武汉盛游互娱网络技术有限公司"
+    },
+    {
+      "name": "客户一",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "1 客户一 86,297,538.46 7.21%"
+    },
+    {
+      "name": "客户二",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "2 客户二 54,759,618.56 4.57%"
+    },
+    {
+      "name": "客户三",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "3 客户三 48,081,401.20 4.02%"
+    },
+    {
+      "name": "客户四",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "4 客户四 33,982,069.44 2.84%"
+    },
+    {
+      "name": "客户五",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "5 客户五 30,526,230.72 2.55%"
+    },
+    {
+      "name": "供应商一",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "1 供应商一 143,443,957.53 15.24%"
+    },
+    {
+      "name": "供应商二",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "2 供应商二 135,615,183.83 14.41%"
+    },
+    {
+      "name": "供应商三",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "3 供应商三 33,108,058.92 3.52%"
+    },
+    {
+      "name": "供应商四",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "4 供应商四 31,933,636.23 3.39%"
+    },
+    {
+      "name": "供应商五",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "5 供应商五 25,775,670.76 2.74%"
+    },
+    {
+      "name": "株式会社寿屋",
+      "relation_type": "competitor",
+      "business_details": "IP联动",
+      "quote": "游戏与日本老牌玩具制造企业“株式会社寿屋”旗下IP《机甲少女Frame Arms Girl》开启联动"
+    },
+    {
+      "name": "光荣特库摩",
+      "relation_type": "competitor",
+      "business_details": "IP授权与监修",
+      "quote": "《真・三国无双 天下》是基于《真・三国无双 8》定制开发的无双动作游戏，由光荣特库摩正版授权"
+    },
+    {
+      "name": "灵犀互娱",
+      "relation_type": "competitor",
+      "business_details": "联合运营",
+      "quote": "《三国志・战略版》是基于经典三国游戏《三国志13》IP开发的现象级SLG产品，子公司天戏互娱参与监修，灵犀互娱负责开发和发行。"
+    },
+    {
+      "name": "腾讯游戏人生",
+      "relation_type": "customer",
+      "business_details": "合作推广",
+      "quote": "易乐游与腾讯游戏人生旗下QQ网吧创新合作模式"
+    },
+    {
+      "name": "Rokid",
+      "relation_type": "competitor",
+      "business_details": "XR领域合作",
+      "quote": "公司已与Rokid在XR领域开展深度合作，随乐游已接入Rokid生态并打造专用版本"
+    },
+    {
+      "name": "小鹏汽车",
+      "relation_type": "customer",
+      "business_details": "智能座舱云游戏接入",
+      "quote": "2026年2月，随乐游云游戏平台接入小鹏汽车天玑AIOS6.0系统"
+    },
+    {
+      "name": "理想汽车",
+      "relation_type": "customer",
+      "business_details": "智能座舱云游戏接入",
+      "quote": "随乐游云游戏平台已陆续接入理想、蔚来、岚图、小鹏等主流智能汽车品牌"
+    },
+    {
+      "name": "蔚来汽车",
+      "relation_type": "customer",
+      "business_details": "智能座舱云游戏接入",
+      "quote": "随乐游云游戏平台已陆续接入理想、蔚来、岚图、小鹏等主流智能汽车品牌"
+    },
+    {
+      "name": "岚图汽车",
+      "relation_type": "customer",
+      "business_details": "智能座舱云游戏接入",
+      "quote": "随乐游云游戏平台已陆续接入理想、蔚来、岚图、小鹏等主流智能汽车品牌"
+    },
+    {
+      "name": "美团",
+      "relation_type": "customer",
+      "business_details": "战略合作",
+      "quote": "易乐途已和美团达成战略合作，打通了OTA、PMS的全场景数字链路"
+    },
+    {
+      "name": "株式会社寿屋",
+      "relation_type": "competitor",
+      "business_details": "IP联动",
+      "quote": "游戏与日本老牌玩具制造企业“株式会社寿屋”旗下IP《机甲少女Frame Arms Girl》开启联动"
+    },
+    {
+      "name": "光荣特库摩",
+      "relation_type": "competitor",
+      "business_details": "IP授权与监修",
+      "quote": "《真・三国无双 天下》是基于《真・三国无双 8》定制开发的无双动作游戏，由光荣特库摩正版授权"
+    },
+    {
+      "name": "灵犀互娱",
+      "relation_type": "competitor",
+      "business_details": "联合运营",
+      "quote": "《三国志・战略版》是基于经典三国游戏《三国志13》IP开发的现象级SLG产品，子公司天戏互娱参与监修，灵犀互娱负责开发和发行。"
+    },
+    {
+      "name": "网易系公司",
+      "relation_type": "customer",
+      "business_details": "互联网广告业务",
+      "quote": "客户二为网易系公司"
+    },
+    {
+      "name": "VALVECORPORATION",
+      "relation_type": "customer",
+      "business_details": "游戏分发平台",
+      "quote": "客户四为 VALVECORPORATION"
+    },
+    {
+      "name": "武汉瓯越网视有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "供应商四为武汉瓯越网视有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "游戏运营业务",
+      "segment_type": "product_line",
+      "revenue_amount": "171,202,430.03",
+      "revenue_proportion": "14.30%",
+      "gross_margin": "50.71%",
+      "yoy_change": "13.95%",
+      "quote": "游戏运营业务 171,202,430.03 14.30% ... 50.71% ... 13.95%"
+    },
+    {
+      "name": "IP运营业务",
+      "segment_type": "product_line",
+      "revenue_amount": "55,269,599.01",
+      "revenue_proportion": "4.62%",
+      "gross_margin": "69.62%",
+      "yoy_change": "-36.00%",
+      "quote": "IP运营业务 55,269,599.01 4.62% ... 69.62% ... -36.00%"
+    },
+    {
+      "name": "网络广告与增值业务",
+      "segment_type": "product_line",
+      "revenue_amount": "964,486,334.61",
+      "revenue_proportion": "80.56%",
+      "gross_margin": "13.46%",
+      "yoy_change": "8.02%",
+      "quote": "网络广告与增值业务 964,486,334.61 80.56% ... 13.46% ... 8.02%"
+    },
+    {
+      "name": "中国大陆地区",
+      "segment_type": "region",
+      "revenue_amount": "1,021,486,425.35",
+      "revenue_proportion": "85.32%",
+      "gross_margin": "13.26%",
+      "yoy_change": "5.00%",
+      "quote": "中国大陆地区 1,021,486,425.35 85.32% ... 13.26% ... 5.00%"
+    },
+    {
+      "name": "中国大陆地区以外的国家和地区",
+      "segment_type": "region",
+      "revenue_amount": "175,760,869.01",
+      "revenue_proportion": "14.68%",
+      "gross_margin": "68.71%",
+      "yoy_change": "7.92%",
+      "quote": "中国大陆地区以外的国家和地区 175,760,869.01 14.68% ... 68.71% ... 7.92%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "易乐玩游戏平台",
+      "metric_type": "other",
+      "value": "236",
+      "period": "报告期",
+      "quote": "新增运营的游戏数量（款） 236"
+    },
+    {
+      "product": "易乐玩游戏平台",
+      "metric_type": "other",
+      "value": "282",
+      "period": "报告期末",
+      "quote": "报告期末运营的游戏数量（款） 282"
+    },
+    {
+      "product": "易乐玩游戏平台",
+      "metric_type": "other",
+      "value": "1,783,867",
+      "period": "2025第一季度",
+      "quote": "2025第一季度 1,783,867"
+    },
+    {
+      "product": "易乐玩游戏平台",
+      "metric_type": "other",
+      "value": "1,922,255",
+      "period": "2025第一季度",
+      "quote": "1,922,255"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "盛天网络云游戏服务平台项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "37,675.91",
+      "designed_capacity": null,
+      "progress": "70.11%",
+      "expected_completion_time": "2026-12-01",
+      "quote": "盛天网络云游戏服务平台项目 否 37,675.91 ... 5,080.99 26,414.85 70.11% ... 2026-12-01"
+    },
+    {
+      "name": "盛天网络游戏授权及运营项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "2,384.15",
+      "designed_capacity": null,
+      "progress": "100.71%",
+      "expected_completion_time": "2024-12-01",
+      "quote": "盛天网络游戏授权及运营项目 否 2,384.15 ... 2,401.13 0.00 100.71% ... 2024-12-01"
+    },
+    {
+      "name": "盛天网络游戏服务项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "4,450.54",
+      "designed_capacity": null,
+      "progress": "96.43%",
+      "expected_completion_time": "2023-12-01",
+      "quote": "盛天网络游戏服务项目 否 4,450.54 ... 4,291.59 96.43% ... 2023-12-01"
+    },
+    {
+      "name": "大数据及云存储平台升级项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "2,222.97",
+      "designed_capacity": null,
+      "progress": "100.32%",
+      "expected_completion_time": "2022-07-01",
+      "quote": "大数据及云存储平台升级项目 否 2,222.97 ... 2,230.00 0.00 100.32% ... 2022-07-01"
+    },
+    {
+      "name": "《真・三国无双 天下》游戏研发项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "研发中",
+      "expected_completion_time": null,
+      "quote": "《真・三国无双 天下》游戏研发项目 ... 研发中"
+    },
+    {
+      "name": "海南盛天游戏网络科技有限公司",
+      "project_type": "other",
+      "location": "海南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新设",
+      "expected_completion_time": null,
+      "quote": "海南盛天游戏网络科技有限公司 新设"
+    },
+    {
+      "name": "武汉市带带互娱科技有限公司",
+      "project_type": "other",
+      "location": "武汉",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新设",
+      "expected_completion_time": null,
+      "quote": "武汉市带带互娱科技有限公司 新设"
+    },
+    {
+      "name": "ShengtianInterEntNetwork(HK)Co.,Limited",
+      "project_type": "other",
+      "location": "香港",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "新设",
+      "expected_completion_time": null,
+      "quote": "ShengtianInterEntNetwork(HK)Co.,Limited 新设"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "14项",
+      "quote": "公司拥有发明专利14项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "367项",
+      "quote": "软件著作权367项"
+    },
+    {
+      "name": "盛天云",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "盛天云、大数据技术、EYOONET游戏分发引擎、虚拟盘和硬盘保护等关键技术为公司各项业务发展提供了持续的助力。"
+    },
+    {
+      "name": "VRACE AI平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "VRACEAI平台是公司在AI领域的集大成之作，通过技术创新重塑娱乐体验。平台由四大核心能力集群组成，分别聚焦于不同领域的AI生成能力。"
+    },
+    {
+      "name": "EYOONET游戏分发引擎",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "EYOONET游戏分发引擎"
+    },
+    {
+      "name": "5G云游戏产业联盟“最佳行业应用奖”",
+      "asset_type": "certification",
+      "related_product": "随乐游云游戏平台",
+      "quantitative_info": null,
+      "quote": "曾获得5G云游戏产业联盟“最佳行业应用奖”。"
+    },
+    {
+      "name": "中国互联网上网服务行业协会副会长单位",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "是中国互联网上网服务行业协会副会长单位、中国音数协游戏工委理事单位、5G云游戏产业联盟理事单位、中国移动通信联合会元宇宙产业委员会观察员单位、中国商务广告协会数字营销委员会会员单位。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "21.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 21.19%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "39.31%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 39.31%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "游戏行业头部效应显著，腾讯、网易等巨头在IP储备、研发投入和全球化布局上优势明显，中小厂商面临用户争夺与成本攀升的双重压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争加剧导致的业务压力。游戏行业头部效应显著，腾讯、网易等巨头在IP储备、研发投入和全球化布局上优势明显，中小厂商面临用户争夺与成本攀升的双重压力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "AI技术的普及可能加剧行业同质化竞争，公司需在技术迭代与内容创新上持续投入以保持竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "此外，AI技术的普及可能加剧行业同质化竞争，公司需在技术迭代与内容创新上持续投入以保持竞争力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司在AI领域的研发投入持续加大，但若关键技术突破滞后或应用场景落地缓慢，可能导致战略推进受阻。当前AI模型训练成本高昂、技术迭代周期不确定，若公司未能及时跟进前沿技术，可能丧失先发优势。",
+      "related_entity": null,
+      "related_product": "AI技术",
+      "quote": "AI技术研发与应用不及预期的风险。公司在AI领域的研发投入持续加大，但若关键技术突破滞后或应用场景落地缓慢，可能导致战略推进受阻。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "海外市场监管政策复杂，且不同地区用户文化偏好差异显著，若公司未能充分适应目标市场规则，可能面临产品上线受阻或用户接受度低的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "游戏出海的政策与文化适配风险。海外市场监管政策复杂，且不同地区用户文化偏好差异显著，若公司未能充分适应目标市场规则，可能面临产品上线受阻或用户接受度低的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "AI应用出海面临激烈的国际竞争，海外已有众多成熟的AI应用产品占据市场先机。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "AI应用出海的竞争与合规风险。AI应用出海面临激烈的国际竞争，海外已有众多成熟的AI应用产品占据市场先机。"
+    },
+    {
+      "risk_type": "other",
+      "description": "不同国家和地区对AI应用的监管政策存在差异，数据隐私、内容审核等方面的合规要求日益严格，可能增加出海业务的运营成本和合规风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "同时，不同国家和地区对AI应用的监管政策存在差异，数据隐私、内容审核等方面的合规要求日益严格，可能增加出海业务的运营成本和合规风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动、地缘政治冲突等外部因素也可能影响海外业务收益。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "此外，汇率波动、地缘政治冲突等外部因素也可能影响海外业务收益。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司对因并购天戏互娱产生的商誉进行了减值测试，2025年对商誉计提减值准备5,049.19万元。",
+      "related_entity": "武汉天戏互娱网络科技有限公司",
+      "related_product": null,
+      "quote": "基于谨慎性原则，公司对因并购天戏互娱产生的商誉进行了减值测试，2025年对商誉计提减值准备5,049.19万元。"
+    }
+  ]
+}

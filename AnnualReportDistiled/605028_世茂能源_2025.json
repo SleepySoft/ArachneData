@@ -1,0 +1,444 @@
+{
+  "company_name_mentioned": "宁波世茂能源股份有限公司",
+  "produces": [
+    {
+      "name": "蒸汽",
+      "type": "service",
+      "revenue_proportion": "186,788,499.89元（占主营业务收入约72.2%）",
+      "quote": "主营业务主要是电力和热力的收入为25,888.80万元；热力销售 186,788,499.89"
+    },
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "72,099,516.01元（占主营业务收入约27.8%）",
+      "quote": "主营业务主要是电力和热力的收入为25,888.80万元；电力销售 72,099,516.01"
+    },
+    {
+      "name": "垃圾处理服务",
+      "type": "service",
+      "revenue_proportion": "43,951,594.35元",
+      "quote": "垃圾处理 43,951,594.35"
+    },
+    {
+      "name": "其他业务收入",
+      "type": "service",
+      "revenue_proportion": "63,935,408.15元",
+      "quote": "其他业务收入6,393.54万元；其他 63,935,408.15"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃煤",
+      "target_product": "蒸汽、电力",
+      "cost_proportion": null,
+      "quote": "公司生产经营过程中主要原材料包括燃煤和垃圾，燃煤由公司自行采购"
+    },
+    {
+      "name": "生活垃圾",
+      "target_product": "蒸汽、电力、垃圾处理服务",
+      "cost_proportion": null,
+      "quote": "生活垃圾由余姚市环境卫生管理中心根据协议负责运输，交由公司处置，公司向其收取垃圾处理服务费"
+    },
+    {
+      "name": "工业固废等其他垃圾",
+      "target_product": "蒸汽、电力、垃圾处理服务",
+      "cost_proportion": null,
+      "quote": "其他垃圾如工业固废等由公司自行收取，向垃圾处置方收取一定的垃圾处理服务费"
+    },
+    {
+      "name": "设备",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "（成本构成分析中）设备采购"
+    },
+    {
+      "name": "软件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司已上线管控一体化信息系统，初步实现了生产经营的全程数字化管理"
+    }
+  ],
+  "applications": [
+    {
+      "name": "工业供热（中意宁波生态园、电镀、食品园区等）",
+      "source_product": "蒸汽",
+      "quote": "客户主要是上述园区内的企业"
+    },
+    {
+      "name": "电网供电",
+      "source_product": "电力",
+      "quote": "销售给国网浙江省电力有限公司余姚供电公司，实现上网后再由国家电网销售到电力终端用户"
+    },
+    {
+      "name": "生活垃圾无害化处置与资源化利用",
+      "source_product": "垃圾处理服务",
+      "quote": "公司将垃圾转变为清洁能源，实现资源的循环利用"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李立峰",
+      "role": "实际控制人、控股股东、董事长兼总经理",
+      "quote": "实际控制人指李立峰、郑建红、李象高、周巧娟、李春华、李思铭；公司负责人李立峰；李立峰先生现任公司董事长兼总经理"
+    },
+    {
+      "name": "郑建红",
+      "role": "实际控制人",
+      "quote": "实际控制人指李立峰、郑建红、李象高、周巧娟、李春华、李思铭"
+    },
+    {
+      "name": "李象高",
+      "role": "实际控制人",
+      "quote": "实际控制人指李立峰、郑建红、李象高、周巧娟、李春华、李思铭"
+    },
+    {
+      "name": "周巧娟",
+      "role": "实际控制人",
+      "quote": "实际控制人指李立峰、郑建红、李象高、周巧娟、李春华、李思铭"
+    },
+    {
+      "name": "李春华",
+      "role": "实际控制人、董事",
+      "quote": "实际控制人指李立峰、郑建红、李象高、周巧娟、李春华、李思铭；李春华董事"
+    },
+    {
+      "name": "李思铭",
+      "role": "实际控制人",
+      "quote": "实际控制人指李立峰、郑建红、李象高、周巧娟、李春华、李思铭"
+    },
+    {
+      "name": "胡爱华",
+      "role": "董事、主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人胡爱华；胡爱华 董事、财务总监"
+    },
+    {
+      "name": "吴建刚",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 吴建刚"
+    },
+    {
+      "name": "楼灿苗",
+      "role": "副总经理",
+      "quote": "楼灿苗 副总经理"
+    },
+    {
+      "name": "卢飞挺",
+      "role": "副总经理",
+      "quote": "卢飞挺 副总经理"
+    },
+    {
+      "name": "马春明",
+      "role": "副总经理",
+      "quote": "马春明 副总经理"
+    },
+    {
+      "name": "沃健",
+      "role": "独立董事",
+      "quote": "沃 健 独立董事"
+    },
+    {
+      "name": "吴引引",
+      "role": "独立董事",
+      "quote": "吴引引 独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁波世茂投资控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股60.00%",
+      "quote": "控股股东、世茂投资指宁波世茂投资控股有限公司；前十名股东持股情况...宁波世茂投资控股有限公司...60.00%"
+    },
+    {
+      "name": "宁波世茂铜业股份有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方股东、客户及供应商。向其销售蒸汽、压缩空气、材料，并租赁其厂房，代扣代缴电费",
+      "quote": "世茂铜业指宁波世茂铜业股份有限公司；向关联人销售产品、商品（蒸汽）世茂铜业 1,500,000.00；向关联人销售产品、商品（压缩空气）世茂铜业 1,118,979.49；向关联人销售产品、商品（材料）世茂铜业 500,000.00；接受关联方提供的租赁服务 世茂铜业 2,600,000.00；其他 世茂铜业 1,000,000.00"
+    },
+    {
+      "name": "余姚市环境卫生管理中心",
+      "relation_type": "customer",
+      "business_details": "垃圾处置服务合同对方",
+      "quote": "余姚环卫指余姚市环境卫生管理中心（原余姚市环境卫生管理处）；余姚市生活垃圾焚烧处置服务三年...余姚市环境卫生管理中心"
+    },
+    {
+      "name": "国网浙江省电力有限公司余姚供电公司",
+      "relation_type": "customer",
+      "business_details": "电力购售电合同对方",
+      "quote": "报告期内公司与国网浙江省电力有限公司余姚供电公司签署的《购售电合同》"
+    },
+    {
+      "name": "宁波永能新材料有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方，向其销售压缩空气及材料",
+      "quote": "永能新材指宁波永能新材料有限公司；向关联人销售产品、商品（压缩空气）永能新材 724,015.20；向关联人销售产品、商品（材料）永能新材 134,405.58"
+    },
+    {
+      "name": "宁波世茂新能源科技有限公司",
+      "relation_type": "other",
+      "business_details": "关联方，向其购买分布式光伏工程",
+      "quote": "世茂新能源...购买商品（分布式光伏工程）"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "审计机构",
+      "quote": "天健会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "热电联产行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "258,888,015.90元",
+      "revenue_proportion": null,
+      "gross_margin": "42.77%",
+      "yoy_change": "-13.69%",
+      "quote": "热电联产 258,888,015.90...毛利率 42.77...营业收入比上年增减 -13.69"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "63,935,408.15元",
+      "revenue_proportion": null,
+      "gross_margin": "100.00%",
+      "yoy_change": "7.95%",
+      "quote": "其他 63,935,408.15...毛利率 100.00...营业收入比上年增减 7.95"
+    },
+    {
+      "name": "电力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "72,099,516.01元",
+      "revenue_proportion": null,
+      "gross_margin": "24.17%",
+      "yoy_change": "14.31%",
+      "quote": "电力销售 72,099,516.01...毛利率 24.17...营业收入比上年增减 14.31"
+    },
+    {
+      "name": "热力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "186,788,499.89元",
+      "revenue_proportion": null,
+      "gross_margin": "49.95%",
+      "yoy_change": "-21.15%",
+      "quote": "热力销售 186,788,499.89...毛利率 49.95...营业收入比上年增减 -21.15"
+    },
+    {
+      "name": "垃圾处理",
+      "segment_type": "product_line",
+      "revenue_amount": "43,951,594.35元",
+      "revenue_proportion": null,
+      "gross_margin": "100.00%",
+      "yoy_change": "13.79%",
+      "quote": "垃圾处理 43,951,594.35...毛利率 100.00...营业收入比上年增减 13.79"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "19,983,813.80元",
+      "revenue_proportion": null,
+      "gross_margin": "99.99%",
+      "yoy_change": "-2.99%",
+      "quote": "其他 19,983,813.80...毛利率 99.99...营业收入比上年增减 -2.99"
+    },
+    {
+      "name": "宁波地区",
+      "segment_type": "region",
+      "revenue_amount": "322,823,424.05元",
+      "revenue_proportion": null,
+      "gross_margin": "54.11%",
+      "yoy_change": "-10.12%",
+      "quote": "宁波 322,823,424.05...毛利率 54.11...营业收入比上年增减 -10.12"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "capacity",
+      "value": "总装机容量72兆瓦",
+      "period": "报告期末",
+      "quote": "公司目前总装机容量72兆瓦"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "22,063.45万千瓦时",
+      "period": "2025年度",
+      "quote": "发电量 22,063.45万千瓦时"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "13,573.55万千瓦时",
+      "period": "2025年度",
+      "quote": "售电量 13,573.55万千瓦时"
+    },
+    {
+      "product": "热力（蒸汽）",
+      "metric_type": "production_volume",
+      "value": "1,692,225.00吨",
+      "period": "2025年度",
+      "quote": "热力销售 生产量 1,692,225.00 吨"
+    },
+    {
+      "product": "热力（蒸汽）",
+      "metric_type": "sales_volume",
+      "value": "814,508.00吨",
+      "period": "2025年度",
+      "quote": "热力销售 销售量 814,508.00 吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "飞灰无害化处置项目二期扩容改造",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "有序推进",
+      "expected_completion_time": null,
+      "quote": "飞灰无害化处置项目一期稳定运行并达设计产能，二期扩容改造有序推进"
+    },
+    {
+      "name": "污泥处置项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "推进中",
+      "expected_completion_time": null,
+      "quote": "推进污泥处置项目建设"
+    },
+    {
+      "name": "燃煤热电联产三期扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建设完成",
+      "expected_completion_time": null,
+      "quote": "随着公司“燃煤热电联产三期扩建项目”和“日处理500吨生活垃圾焚烧发电扩建项目”的建设完成"
+    },
+    {
+      "name": "日处理500吨生活垃圾焚烧发电扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "日处理500吨生活垃圾",
+      "progress": "已整体投入运行",
+      "expected_completion_time": null,
+      "quote": "公司“日处理500吨垃圾炉扩建项目”已整体投入运行"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "调整现有垃圾处理技术、燃煤热电联产技术等专利",
+      "asset_type": "patent",
+      "related_product": "蒸汽、电力、垃圾处理服务",
+      "quantitative_info": "多项发明专利、实用新型专利",
+      "quote": "公司持有多项发明专利、实用新型专利，包括调整现有垃圾处理技术、燃煤热电联产技术等"
+    },
+    {
+      "name": "国家级高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是国家级高新技术企业"
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已通过ISO14001环境管理体系认证"
+    },
+    {
+      "name": "ISO45001职业健康安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "和ISO45001职业健康安全管理体系认证"
+    },
+    {
+      "name": "垃圾焚烧厂无害化等级评定A级",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司获得“垃圾焚烧厂无害化等级评定A级”"
+    },
+    {
+      "name": "浙江省企业技术研发中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "浙江省企业技术研发中心"
+    },
+    {
+      "name": "管控一体化信息系统",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已上线管控一体化信息系统，初步实现了生产经营的全程数字化管理"
+    },
+    {
+      "name": "飞灰无害化处置技术",
+      "asset_type": "process_technology",
+      "related_product": "飞灰无害化处置服务",
+      "quantitative_info": null,
+      "quote": "飞灰无害化处置项目"
+    },
+    {
+      "name": "智能焚烧控制系统等技术",
+      "asset_type": "core_technology",
+      "related_product": "垃圾焚烧",
+      "quantitative_info": null,
+      "quote": "引入智能焚烧控制系统等技术"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "16,502.00万元，占年度销售总额51.12%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额16,502.00万元，占年度销售总额51.12%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "9,824.17万元，占年度采购总额35.79%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额9,824.17万元，占年度采购总额35.79%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "热电联产企业安全生产体现在设备连续、安全、可靠的运行。如果因自然灾害及运行、维护不当发生事故，将对公司的生产经营产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "安全生产风险...热电联产企业安全生产体现在设备连续、安全、可靠的运行。如果因自然灾害及运行、维护不当发生事故，将对公司的生产经营产生一定影响。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "随着环保要求的提高，企业在运行过程中的辅料消耗将不断增加。环保设备的运行需要消耗更多的能源，导致能源成本上升。这些运营成本的增加，在垃圾处理收费标准未同步提高的情况下，将压缩企业的利润空间，降低企业盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环保要求提高的风险...随着环保要求的提高，企业在运行过程中的辅料消耗将不断增加。环保设备的运行需要消耗更多的能源，导致能源成本上升。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "生活垃圾是公司主要生产原材料之一，生活垃圾的供应量直接影响公司的经营效益。其供应量主要受到余姚地区的垃圾收运体系和人口数量及生活习惯的影响。",
+      "related_entity": null,
+      "related_product": "生活垃圾",
+      "quote": "垃圾原料供应量增加量不及预期的风险...生活垃圾是公司主要生产原材料之一，生活垃圾的供应量直接影响公司的经营效益。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司“日处理500吨垃圾炉扩建项目”已整体投入运行，“燃煤热电联产三期扩建项目”也建设完成。上述项目盈利能力还要受未来的产业政策、市场需求等不确定性因素影响，公司的投资项目存在无法达到预期收益的风险。",
+      "related_entity": null,
+      "related_product": "日处理500吨垃圾炉扩建项目、燃煤热电联产三期扩建项目",
+      "quote": "项目投产存在无法达到预期收益的风险...公司的投资项目存在无法达到预期收益的风险，不能如期产生效益或实际收益低于盈亏平衡点的收益，则新增的固定资产折旧将对公司的经营业绩造成不利影响。"
+    }
+  ]
+}

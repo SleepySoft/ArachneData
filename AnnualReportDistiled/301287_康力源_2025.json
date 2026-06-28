@@ -1,0 +1,566 @@
+{
+  "company_name_mentioned": "江苏康力源体育科技股份有限公司",
+  "produces": [
+    {
+      "name": "有氧类健身器材（含商用、家用、轻商系列）",
+      "type": "device",
+      "revenue_proportion": "室内健身器材收入530,924,232.19元，占营业收入比重90.68%",
+      "quote": "公司器材类产品按照功能分为有氧类健身器材、力量训练器材和柔韧拉伸器材...其中，商用产品、家用产品...室内健身器材 530,924,232.19元 90.68%"
+    },
+    {
+      "name": "力量训练器材（含多功能综合训练器、自由力量训练器等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "形成了以综合训练器和自由力量训练器为主导...力量训练器材..."
+    },
+    {
+      "name": "室外健身器材（含二代智能路径、太阳能发电系统等）",
+      "type": "device",
+      "revenue_proportion": "室外健身器材收入42,730,473.50元，占营业收入比重7.30%",
+      "quote": "室外健身器材...收入42,730,473.50元，占营业收入比重7.30%"
+    },
+    {
+      "name": "数字化健身房",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "服务类产品方面，公司利用康力源AI数字化健身房管理系统和智能器械为用户提供...健身器材整体解决方案，如企事业单位健身房、百姓健身房等应用场景..."
+    },
+    {
+      "name": "体卫融合系统",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "向体卫融合、体教融合等场景延伸。产品系列 图片展示 体卫融合系统..."
+    },
+    {
+      "name": "智慧校园体育角",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "研发校园智慧体育角设备...一种大屏智能划船器...拓展智慧操场、校园体育角等教育配套产品..."
+    },
+    {
+      "name": "AI测训一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "商用 AI测训一体机系列...公司研发的AI测训一体跑步机是一款主打数据驱动、AI定制、智能互联的商用级智能健身设备..."
+    },
+    {
+      "name": "科技力量单机系列（智能坐姿推胸、坐姿蹬腿等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发的科技力量系列单机主要包括智能坐姿推胸、坐姿蹬腿、坐姿肩推、腿部屈伸等力量设备..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材",
+      "target_product": "健身器材",
+      "cost_proportion": "直接材料占营业成本比重45.20%",
+      "quote": "公司主要原材料包括钢材、电子元器件、五金配件及其他辅料等...营业成本构成中，直接材料占45.20%"
+    },
+    {
+      "name": "电子元器件",
+      "target_product": "健身器材",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括钢材、电子元器件、五金配件及其他辅料等"
+    },
+    {
+      "name": "五金配件",
+      "target_product": "健身器材",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括钢材、电子元器件、五金配件及其他辅料等"
+    },
+    {
+      "name": "外购标准件",
+      "target_product": "健身器材",
+      "cost_proportion": null,
+      "quote": "报告期内，公司生产所需的主要原材料包括钢材、外购标准件、包装物等。"
+    },
+    {
+      "name": "外购成品（健身器材）",
+      "target_product": null,
+      "cost_proportion": "外购产品占营业成本比重13.25%",
+      "quote": "外购产品...占营业成本比重13.25%"
+    },
+    {
+      "name": "外购服务（如电镀等工序外协）",
+      "target_product": null,
+      "cost_proportion": "外购服务占营业成本比重23.35%",
+      "quote": "外购服务...占营业成本比重23.35%"
+    },
+    {
+      "name": "包装物",
+      "target_product": "健身器材",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料包括钢材、外购标准件、包装物等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "商用健身房",
+      "source_product": "商用健身器材、AI测训一体机、科技力量单机等",
+      "quote": "面向健身房...商用客户...适配商用健身房、企事业单位、私教工作室与高端家庭场景"
+    },
+    {
+      "name": "企事业单位",
+      "source_product": "商用健身器材、整体健身解决方案",
+      "quote": "企事业单位健身房...面向健身房、政府机关、企事业单位、军警系统、大专院校等商用客户"
+    },
+    {
+      "name": "政府机关/军警系统",
+      "source_product": "商用健身器材、整体健身解决方案",
+      "quote": "面向健身房、政府机关、企事业单位、军警系统、大专院校等商用客户...参与全民健身采购项目...为体育局、教育局、医院等机构提供..."
+    },
+    {
+      "name": "大专院校",
+      "source_product": "商用健身器材、智慧校园体育角",
+      "quote": "面向...大专院校等商用客户...拓展智慧操场、校园体育角等教育配套产品"
+    },
+    {
+      "name": "家庭用户",
+      "source_product": "家用健身器材系列",
+      "quote": "面向...家庭用户进行销售...适配...高端家庭场景"
+    },
+    {
+      "name": "全民健身/公共体育设施",
+      "source_product": "室外健身器材、整体健身解决方案",
+      "quote": "体育公园、智能健身步道等公共体育设施加速落地...公司凭借商用器材研发制造优势与项目落地能力，积极参与各类政企招投标业务"
+    },
+    {
+      "name": "体教融合场景",
+      "source_product": "智慧校园体育角、整体解决方案",
+      "quote": "向体教融合、体卫融合等场景延伸...布局体教融合、体卫融合、康养结合新业态"
+    },
+    {
+      "name": "体卫融合/运动促进健康中心",
+      "source_product": "体卫融合系统、功率车、科技力量单机",
+      "quote": "在运动促进健康中心建设上，通过功率车、科技力量单机对患者进行心肺、力量检测..."
+    },
+    {
+      "name": "康养结合场景",
+      "source_product": "康复健身器材、整体解决方案",
+      "quote": "康养结合...康养结合的项目建设、提供健身解决方案"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "衡墩建",
+      "role": "公司负责人、董事长、实际控制人",
+      "quote": "公司负责人衡墩建...任公司董事长。实际控制人衡墩建..."
+    },
+    {
+      "name": "王凯",
+      "role": "主管会计工作负责人、会计机构负责人（会计主管人员）、财务总监",
+      "quote": "主管会计工作负责人王凯及会计机构负责人(会计主管人员)王凯...财务总监 王凯"
+    },
+    {
+      "name": "衡思名",
+      "role": "副董事长、副总经理",
+      "quote": "副董事长 衡思名...副董事长兼副总经理"
+    },
+    {
+      "name": "王忠",
+      "role": "董事、总经理",
+      "quote": "王忠...董事、总经理"
+    },
+    {
+      "name": "姚培源",
+      "role": "董事、董事会秘书",
+      "quote": "姚培源...董事、董事会秘书"
+    },
+    {
+      "name": "罗杰",
+      "role": "独立董事",
+      "quote": "独立董事 罗杰"
+    },
+    {
+      "name": "侯晓红",
+      "role": "独立董事",
+      "quote": "独立董事 侯晓红"
+    },
+    {
+      "name": "张怀岭",
+      "role": "独立董事",
+      "quote": "独立董事 张怀岭"
+    },
+    {
+      "name": "许瑞景",
+      "role": "董事",
+      "quote": "董事 许瑞景"
+    },
+    {
+      "name": "彭保章",
+      "role": "董事",
+      "quote": "董事 彭保章"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "香港皇冠国际贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事健身器材的国际贸易及跨境电商业务",
+      "quote": "香港皇冠 指 Krown International Trade Co., Limited...香港皇冠 子公司"
+    },
+    {
+      "name": "KLY FITNESS EQUIPMENT SDN.BHD.",
+      "relation_type": "subsidiary",
+      "business_details": "马来西亚康力源健身器材有限公司，研发、生产、销售",
+      "quote": "马来西亚康力源健身器材有限公司 指 KLY FITNESS EQUIPMENT SDN.BHD."
+    },
+    {
+      "name": "Impex",
+      "relation_type": "customer",
+      "business_details": "针对Impex等国际知名健身器材企业，以ODM合作为主",
+      "quote": "针对Impex、Walmart、Argos等品牌影响力较强的国际知名健身器材企业及大型百货零售连锁商，以ODM合作为主"
+    },
+    {
+      "name": "Walmart",
+      "relation_type": "customer",
+      "business_details": "大型百货零售连锁商，ODM合作",
+      "quote": "针对Impex、Walmart、Argos等品牌影响力较强的国际知名健身器材企业及大型百货零售连锁商，以ODM合作为主"
+    },
+    {
+      "name": "Argos",
+      "relation_type": "customer",
+      "business_details": "国际知名健身器材企业，ODM合作",
+      "quote": "针对Impex、Walmart、Argos等品牌影响力较强的国际知名健身器材企业及大型百货零售连锁商，以ODM合作为主"
+    },
+    {
+      "name": "Dicks",
+      "relation_type": "customer",
+      "business_details": "全球知名零售渠道",
+      "quote": "产品进入Impex、Argos、Walmart、Dicks等全球知名零售渠道"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 天健会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "东海证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "公司聘请的报告期内履行持续督导职责的保荐机构",
+      "quote": "保荐机构名称 东海证券股份有限公司"
+    },
+    {
+      "name": "江苏加一健康科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "募投项目‘商用健身器材生产扩建项目’实施主体",
+      "quote": "加一健康 指 江苏加一健康科技有限公司...公司控股子公司加一健康有现成土地..."
+    },
+    {
+      "name": "诺安基金（中国建设银行股份有限公司－诺安多策略混合型证券投资基金）",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "前5名股东资料 序号 客户名称 销售额（元） 占年度销售总额比例 ... 中国建设银行股份有限公司－诺安多策略混合型证券投资基金"
+    },
+    {
+      "name": "BARCLAYS BANK PLC",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "前5名股东资料 ... BARCLAYS BANK PLC"
+    },
+    {
+      "name": "高盛国际－自有资金",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "前5名股东资料 ... 高盛国际－自有资金"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "室内健身器材",
+      "segment_type": "product_line",
+      "revenue_amount": "530,924,232.19元",
+      "revenue_proportion": "90.68%",
+      "gross_margin": "32.38%",
+      "yoy_change": "-17.76%",
+      "quote": "分产品 室内健身器材 530,924,232.19 90.68%...营业收入比上 年同期增减...室内健身器材 32.38% -17.76%"
+    },
+    {
+      "name": "室外健身器材",
+      "segment_type": "product_line",
+      "revenue_amount": "42,730,473.50元",
+      "revenue_proportion": "7.30%",
+      "gross_margin": "26.47%",
+      "yoy_change": "34.23%",
+      "quote": "分产品 室外健身器材 42,730,473.50 7.30%...营业收入比上 年同期增减...室外健身器材 26.47% 34.23%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "11,820,489.11元",
+      "revenue_proportion": "2.02%",
+      "gross_margin": "24.54%",
+      "yoy_change": "25.59%",
+      "quote": "分产品 其他 11,820,489.11 2.02%...营业收入比上 年同期增减...其他 24.54% 25.59%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "162,006,510.55元",
+      "revenue_proportion": "27.67%",
+      "gross_margin": "31.89%",
+      "yoy_change": "20.68%",
+      "quote": "分地区 境内 162,006,510.55 27.67%...营业收入比上 年同期增减...境内 31.89% 20.68%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "423,468,684.25元",
+      "revenue_proportion": "72.33%",
+      "gross_margin": "31.75%",
+      "yoy_change": "-23.36%",
+      "quote": "分地区 境外 423,468,684.25 72.33%...营业收入比上 年同期增减...境外 31.75% -23.36%"
+    },
+    {
+      "name": "线上",
+      "segment_type": "sales_channel",
+      "revenue_amount": "215,514,344.82元",
+      "revenue_proportion": "36.81%",
+      "gross_margin": "37.31%",
+      "yoy_change": "-28.06%",
+      "quote": "分销售模式 线上 215,514,344.82 36.81%...营业收入比上 年同期增减...线上 37.31% -28.06%"
+    },
+    {
+      "name": "线下",
+      "segment_type": "sales_channel",
+      "revenue_amount": "369,960,849.98元",
+      "revenue_proportion": "63.19%",
+      "gross_margin": "28.57%",
+      "yoy_change": "-4.47%",
+      "quote": "分销售模式 线下 369,960,849.98 63.19%...营业收入比上 年同期增减...线下 28.57% -4.47%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "健身器材",
+      "metric_type": "sales_volume",
+      "value": "665,757台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 ... 销售量 台 665,757"
+    },
+    {
+      "product": "健身器材",
+      "metric_type": "production_volume",
+      "value": "634,724台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 ... 生产量 台 634,724"
+    },
+    {
+      "product": "健身器材",
+      "metric_type": "inventory_volume",
+      "value": "148,074台",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 ... 库存量 台 148,074"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "康力源智能健身器材制造项目",
+      "project_type": "fundraising_project",
+      "location": "邳州市高新技术产业区炮车大道东侧、富民路南侧（原计划）",
+      "investment_amount": "拟投入募集资金34,685.55万元",
+      "designed_capacity": null,
+      "progress": "尚未启动建设，累计投入金额为0元",
+      "expected_completion_time": "2029年6月14日（延期后）",
+      "quote": "康力源智能健身器材制造项目...拟投入募集资金34,685.55万元...该项目达到预计可使用状态时间延期至2029年6月14日。截至目前，项目规划用地上高压电线杆及高压线的迁移工作...暂未启动建设，截至2025年末，累计投入金额为0元。"
+    },
+    {
+      "name": "商用健身器材生产扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "邳州市高新技术产业开发区滨湖大道北、争先路西（子公司加一健康所在地）",
+      "investment_amount": "拟投入募集资金8,268万元",
+      "designed_capacity": "年产4万套室内商用健身器材",
+      "progress": "项目仍处于产能爬坡期，尚未达到满产运行状态",
+      "expected_completion_time": "2028年3月12日（延期后）",
+      "quote": "商用健身器材生产扩建项目...拟投入募集资金8,268万元...实施地点由...变更为邳州市高新技术产业开发区滨湖大道北、争先路西...年产4万套室内商用健身器材的实施主体变更至加一健康...项目仍处于产能爬坡期，尚未达到满产运行状态...达到预计可使用状态的时间延期至2028年3月12日。"
+    },
+    {
+      "name": "马来西亚健身器材生产项目",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": "拟投入募集资金20,120万元",
+      "designed_capacity": null,
+      "progress": "租赁厂房、安装设备进行生产",
+      "expected_completion_time": "2027年4月12日",
+      "quote": "马来西亚健身器材生产项目...拟投入募集资金20,120万元...变更‘马来西亚健身器材生产项目’的实施方式，在购置土地自建厂房的基础上，增加租赁厂房、安装设备进行生产...达到预计可使用状态的时间延期至2027年4月12日。"
+    },
+    {
+      "name": "康力源研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "拟投入募集资金10,310.53万元",
+      "designed_capacity": null,
+      "progress": "已对现有办公大楼进行调整，以优先满足研发公共办公、新产品展示的需要",
+      "expected_completion_time": "2029年6月14日（延期后）",
+      "quote": "康力源研发中心建设项目...拟投入募集资金10,310.53万元...决定放缓‘康力源研发中心建设项目’建设进度，已对现有办公大楼进行调整...达到预计可使用状态时间延期至2029年6月14日。"
+    },
+    {
+      "name": "康力源智能数字化工厂建设项目",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "拟投入募集资金4,996.15万元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": "2027年6月14日（延期后）",
+      "quote": "康力源智能数字化工厂建设项目...拟投入募集资金4,996.15万元...达到预计可使用状态时间延期至2027年6月14日。"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "拟投入募集资金12,600.00万元",
+      "designed_capacity": null,
+      "progress": "已按计划使用完毕",
+      "expected_completion_time": null,
+      "quote": "补充流动资金...拟投入募集资金12,600.00万元...‘补充流动资金’项目的募集资金已按计划使用完毕。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "AI测训一体技术",
+      "asset_type": "core_technology",
+      "related_product": "AI测训一体跑步机、AI测训一体商用跑步机",
+      "quantitative_info": null,
+      "quote": "公司研发的AI测训一体跑步机是一款主打数据驱动、AI定制、智能互联的商用级智能健身设备...智能AI测训一体跑步机，核心是融合AI技术..."
+    },
+    {
+      "name": "电动精准阻尼+智能互联科技",
+      "asset_type": "core_technology",
+      "related_product": "科技力量单机系列",
+      "quantitative_info": null,
+      "quote": "公司研发的科技力量系列单机...搭载自研智能阻力系统和螺旋缠线装置，阻力精细可调，告别传统配重，发力更顺滑、轨迹更稳定..."
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "12项",
+      "quote": "截至2025年12月31日，公司拥有发明专利12项"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "56项",
+      "quote": "实用新型专利56项"
+    },
+    {
+      "name": "外观设计专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "95项",
+      "quote": "外观设计专利95项"
+    },
+    {
+      "name": "境外外观专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "14项",
+      "quote": "境外外观专利14项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "30项",
+      "quote": "与产品相关的软件著作权30项。"
+    },
+    {
+      "name": "国家体育产业示范单位",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "现为国家体育产业示范单位"
+    },
+    {
+      "name": "中国体育用品业联合会副主席单位",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "中国体育用品业联合会副主席单位"
+    },
+    {
+      "name": "中国全民健身器材专业委员会副主任委员单位",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "中国全民健身器材专业委员会副主任委员单位"
+    },
+    {
+      "name": "康力源AI数字化健身房管理系统",
+      "asset_type": "technical_platform",
+      "related_product": "数字化健身房",
+      "quantitative_info": null,
+      "quote": "服务类产品方面，公司利用康力源AI数字化健身房管理系统和智能器械..."
+    },
+    {
+      "name": "康力源大健康智慧管理平台",
+      "asset_type": "technical_platform",
+      "related_product": "智慧健身房、运动促进健康中心等",
+      "quantitative_info": null,
+      "quote": "公司持续优化升级康力源大健康智慧管理平台，探索推广在智慧健身房、运动促进健康中心等领域的运用。"
+    },
+    {
+      "name": "康力源运动APP",
+      "asset_type": "software",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "深化智能终端与场景融合应用，依托自研康力源运动APP..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "33.40%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 195,576,538.82 前五名客户合计销售金额占年度销售总额比例 33.40%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "24.48%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 143,306,544.49 24.48%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "27.86%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 69,212,945.13 前五名供应商合计采购金额占年度采购总额比例 27.86%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "12.05%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 29,924,135.60 12.05%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司外销业务主要通过美元结算。随着公司销售规模的扩大以及人民币汇率波动幅度的增加，可能带来较大金额的汇兑损失，对公司经营业绩产生一定的不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动产生汇兑损失的风险...公司外销业务主要通过美元结算...可能带来较大金额的汇兑损失，对公司经营业绩产生一定的不利影响。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "公司主要从事健身器材的研发、制造和销售，以外销为主...随着中美、中欧贸易关系等国际地缘政治的变化以及主要出口目的地国贸易政策及经济状况的变化...未来不排除会被加征关税...对于跨境电商业务，关税需由公司承担，将直接提高产品成本...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "贸易政策波动风险...随着中美、中欧贸易关系等国际地缘政治的变化以及主要出口目的地国贸易政策及经济状况的变化...未来不排除会被加征关税...对于跨境电商业务，关税需由公司承担，将直接提高产品成本，并对公司的经营业绩产生不利影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "报告期内，公司生产所需的主要原材料包括钢材、外购标准件、包装物等。随着国家对行业政策的逐步调整，供给侧改革的持续推进和供需关系的变化，钢材等原材料价格的波动对公司的毛利率产生了一定影响...原材料价格的波动仍会影响公司的生产成本，加大成本控制难度。若未来...主要原材料价格持续上涨，将会对公司成本控制和转嫁带来压力，进而影响公司的经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动的风险...钢材等原材料价格的波动对公司的毛利率产生了一定影响...原材料价格的波动仍会影响公司的生产成本，加大成本控制难度。若未来...主要原材料价格持续上涨，将会对公司成本控制和转嫁带来压力，进而影响公司的经营业绩。"
+    }
+  ]
+}

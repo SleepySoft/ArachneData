@@ -1,0 +1,561 @@
+{
+  "company_name_mentioned": "广东银禧科技股份有限公司",
+  "produces": [
+    {
+      "name": "改性塑料",
+      "type": "material",
+      "revenue_proportion": "80.83%",
+      "quote": "报告期内，公司改性塑料产品实现营业收入17.76亿元，同比上升9.12%。...分产品 改性塑料 1,775,742,055.19 80.83%..."
+    },
+    {
+      "name": "智能照明相关产品",
+      "type": "device",
+      "revenue_proportion": "12.95%",
+      "quote": "报告期内，公司智能照明产品实现营业收入2.84亿元，同比上升12.49%。...分产品 智能照明相关产品 284,418,507.12 12.95%..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "聚氯乙烯树脂",
+      "target_product": "改性塑料",
+      "cost_proportion": "11.87%",
+      "quote": "主要原材料的采购模式...聚氯乙烯树脂 订单采购/战略采购 11.87%..."
+    },
+    {
+      "name": "工程树脂",
+      "target_product": "改性塑料",
+      "cost_proportion": "21.25%",
+      "quote": "主要原材料的采购模式...工程树脂 订单采购/战略采购 21.25%..."
+    },
+    {
+      "name": "增塑剂",
+      "target_product": "改性塑料",
+      "cost_proportion": "11.96%",
+      "quote": "主要原材料的采购模式...增塑剂 订单采购/战略采购 11.96%..."
+    },
+    {
+      "name": "聚烯烃树脂",
+      "target_product": "改性塑料",
+      "cost_proportion": "5.13%",
+      "quote": "主要原材料的采购模式...聚烯烃树脂 订单采购/战略采购 5.13%..."
+    },
+    {
+      "name": "苯乙烯树脂",
+      "target_product": "改性塑料",
+      "cost_proportion": "10.11%",
+      "quote": "主要原材料的采购模式...苯乙烯树脂 订单采购/战略采购 10.11%..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车",
+      "source_product": "改性塑料、智能照明",
+      "quote": "公司产品被广泛应用于汽车、家用电器、电线电缆、现代农业、轨道交通、低空飞行器、航空航天、高端装备、新能源、通讯、电子电气和建筑装饰、家用新型服务机器人等行业。"
+    },
+    {
+      "name": "家用电器",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于汽车、家用电器、电线电缆...等行业。"
+    },
+    {
+      "name": "电线电缆",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...电线电缆...等行业。"
+    },
+    {
+      "name": "现代农业",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...现代农业...等行业。"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...轨道交通...等行业。"
+    },
+    {
+      "name": "低空飞行器",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...低空飞行器...等行业。"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...航空航天...等行业。"
+    },
+    {
+      "name": "新能源",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...新能源...等行业。"
+    },
+    {
+      "name": "通讯",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...通讯...等行业。"
+    },
+    {
+      "name": "电子电气",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...电子电气...等行业。"
+    },
+    {
+      "name": "建筑装饰",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...建筑装饰...等行业。"
+    },
+    {
+      "name": "家用新型服务机器人",
+      "source_product": "改性塑料",
+      "quote": "公司产品被广泛应用于...家用新型服务机器人等行业。"
+    },
+    {
+      "name": "智能家居",
+      "source_product": "智能照明",
+      "quote": "以创新研发与智能制造双轮驱动，持续赋能智能家居、商业空间与车用照明领域的场景化智能光环境构建..."
+    },
+    {
+      "name": "商业空间",
+      "source_product": "智能照明",
+      "quote": "...持续赋能智能家居、商业空间与车用照明领域的场景化智能光环境构建..."
+    },
+    {
+      "name": "车用照明",
+      "source_product": "智能照明",
+      "quote": "银禧光电及其子公司众耀电器2024年开始进军车载相关照明..."
+    },
+    {
+      "name": "3D打印",
+      "source_product": "3D打印材料",
+      "quote": "2025年，公司在3D打印材料领域持续推进产品结构优化与应用场景拓展，围绕工业级应用需求..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "谭文钊",
+      "role": "董事长，法定代表人",
+      "quote": "公司负责人谭文钊、主管会计工作负责人顾险峰及会计机构负责人(会计主管人员)蔡洁声明..."
+    },
+    {
+      "name": "顾险峰",
+      "role": "主管会计工作负责人，财务总监",
+      "quote": "公司负责人谭文钊、主管会计工作负责人顾险峰及会计机构负责人(会计主管人员)蔡洁声明..."
+    },
+    {
+      "name": "蔡洁",
+      "role": "会计机构负责人(会计主管人员)",
+      "quote": "公司负责人谭文钊、主管会计工作负责人顾险峰及会计机构负责人(会计主管人员)蔡洁声明..."
+    },
+    {
+      "name": "郑桂华",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 郑桂华 陈玉梅"
+    },
+    {
+      "name": "林登灿",
+      "role": "董事、总经理",
+      "quote": "总经理...林登灿...董事..."
+    },
+    {
+      "name": "张德清",
+      "role": "职工代表董事",
+      "quote": "职工代表董事 张德清..."
+    },
+    {
+      "name": "傅轶",
+      "role": "职工代表董事",
+      "quote": "职工代表董事 傅轶..."
+    },
+    {
+      "name": "谭映儿",
+      "role": "职工代表董事",
+      "quote": "职工代表董事 谭映儿..."
+    },
+    {
+      "name": "谢军",
+      "role": "独立董事",
+      "quote": "独立董事 谢军..."
+    },
+    {
+      "name": "赵建青",
+      "role": "独立董事",
+      "quote": "独立董事 赵建青..."
+    },
+    {
+      "name": "魏龙",
+      "role": "独立董事",
+      "quote": "独立董事 魏龙..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "东莞市银禧光电材料科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能照明业务",
+      "quote": "银禧光电 指 东莞市银禧光电材料科技股份有限公司"
+    },
+    {
+      "name": "东莞市众耀电器科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "智能照明相关产品",
+      "quote": "众耀电器 指 东莞市众耀电器科技有限公司"
+    },
+    {
+      "name": "广东银禧增材科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "银禧增材 指 广东银禧增材科技有限公司"
+    },
+    {
+      "name": "东莞银禧新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产及销售",
+      "quote": "东莞银禧新材 指 东莞银禧新材料有限公司"
+    },
+    {
+      "name": "苏州银禧科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的销售及智能照明组件项目开发",
+      "quote": "苏州银禧科技 指 苏州银禧科技有限公司"
+    },
+    {
+      "name": "苏州银禧新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "苏州银禧新材 指 苏州银禧新材料有限公司"
+    },
+    {
+      "name": "深圳三维魔坊网络有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "三维魔坊 指 深圳三维魔坊网络有限公司"
+    },
+    {
+      "name": "银禧工程塑料（东莞）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产及销售",
+      "quote": "银禧工塑 指 银禧工程塑料（东莞）有限公司"
+    },
+    {
+      "name": "东莞康诺德新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "环保阻燃剂的销售",
+      "quote": "东莞康诺德 指 东莞康诺德新材料有限公司"
+    },
+    {
+      "name": "兴科电子（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "兴科电子（香港） 指 兴科电子科技（香港）有限公司"
+    },
+    {
+      "name": "银禧科技（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "一般贸易",
+      "quote": "银禧香港 指 银禧科技（香港）有限公司"
+    },
+    {
+      "name": "银禧科技（刚果）钴业股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "银禧刚果钴业 指 银禧科技（刚果）钴业股份有限公司"
+    },
+    {
+      "name": "东莞银禧高分子材料研究院",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "高分子研究院 指 东莞银禧高分子材料研究院"
+    },
+    {
+      "name": "肇庆银禧聚创新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新材料及化工材料的研发、生产及销售",
+      "quote": "银禧聚创 指 肇庆银禧聚创新材料有限公司"
+    },
+    {
+      "name": "珠海银禧科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料及合成树脂,无卤环保阻燃新材料",
+      "quote": "珠海银禧科技 指 珠海银禧科技有限公司"
+    },
+    {
+      "name": "东莞银禧高分子新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "银禧高分子新材料 指 东莞银禧高分子新材料有限公司"
+    },
+    {
+      "name": "东莞市银禧特种材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "高分子材料产品研发、生产及销售",
+      "quote": "银禧特种材料 指 东莞市银禧特种材料科技有限公司"
+    },
+    {
+      "name": "安徽银禧科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "改性塑料的研发、生产与销售",
+      "quote": "安徽银禧科技 指 安徽银禧科技有限公司"
+    },
+    {
+      "name": "珠海康诺德新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "环保阻燃剂的研发、生产及销售",
+      "quote": "珠海康诺德 指 珠海康诺德新材料有限公司"
+    },
+    {
+      "name": "银禧科技（新加坡）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新加坡银禧 指 银禧科技（新加坡）有限公司"
+    },
+    {
+      "name": "银禧科技（越南）有限公司（SILVER AGE VIETNAM TECHNOLOGY COMPANY LIMITED）",
+      "relation_type": "subsidiary",
+      "business_details": "智能照明灯具专用塑料配件及改性塑料的研发、生产及销售",
+      "quote": "越南银禧 指 银禧科技（越南）有限公司（SILVER AGE VIETNAM TECHNOLOGY COMPANY LIMITED）"
+    },
+    {
+      "name": "东莞市德轩科技有限公司",
+      "relation_type": "joint_venture",
+      "business_details": null,
+      "quote": "被投资企业 东莞市银禧特种材料科技有限公司 共同投资方 东莞市德轩科技有限公司"
+    },
+    {
+      "name": "东莞聚成新材料合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "四会市聚创科技合伙企业（普通合伙）、东莞聚成新材料合伙企业（有限合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "塑料行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,899,795,635.55元",
+      "revenue_proportion": "86.48%",
+      "gross_margin": "20.72%",
+      "yoy_change": "7.81%",
+      "quote": "分行业 塑料行业 1,899,795,635.55 86.48%..."
+    },
+    {
+      "name": "电气机械和器材制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "284,418,507.12元",
+      "revenue_proportion": "12.95%",
+      "gross_margin": "18.54%",
+      "yoy_change": "11.84%",
+      "quote": "分行业 电气机械和器材制造业 284,418,507.12 12.95%..."
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "1,181,871,981.46元",
+      "revenue_proportion": "53.80%",
+      "gross_margin": "22.04%",
+      "yoy_change": "10.79%",
+      "quote": "分地区 华南地区 1,181,871,981.46 53.80%..."
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "477,809,608.45元",
+      "revenue_proportion": "21.75%",
+      "gross_margin": "17.64%",
+      "yoy_change": "-0.07%",
+      "quote": "分地区 华东地区 477,809,608.45 21.75%..."
+    },
+    {
+      "name": "境外地区",
+      "segment_type": "region",
+      "revenue_amount": "411,851,210.03元",
+      "revenue_proportion": "18.75%",
+      "gross_margin": "18.90%",
+      "yoy_change": "21.22%",
+      "quote": "分地区 境外地区 411,851,210.03 18.75%..."
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,196,807,074.57元",
+      "revenue_proportion": "100.00%",
+      "yoy_change": "8.67%",
+      "quote": "分销售模式 直销 2,196,807,074.57 100.00%..."
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "改性塑料",
+      "metric_type": "capacity",
+      "value": "24万吨",
+      "quote": "主要产品的产能情况 主要产品 设计产能...改性塑料 24万吨..."
+    },
+    {
+      "product": "改性塑料",
+      "metric_type": "capacity_utilization",
+      "value": "59.43%",
+      "quote": "主要产品的产能情况...改性塑料 24万吨 59.43%..."
+    },
+    {
+      "product": "智能灯带",
+      "metric_type": "capacity",
+      "value": "1400万米",
+      "quote": "主要产品的产能情况...智能灯带 1400万米..."
+    },
+    {
+      "product": "智能灯带",
+      "metric_type": "capacity_utilization",
+      "value": "31.70%",
+      "quote": "主要产品的产能情况...智能灯带 1400万米 31.70%..."
+    },
+    {
+      "product": "智能灯具",
+      "metric_type": "capacity",
+      "value": "450万套",
+      "quote": "主要产品的产能情况...智能灯具 450万套..."
+    },
+    {
+      "product": "智能灯具",
+      "metric_type": "capacity_utilization",
+      "value": "51.18%",
+      "quote": "主要产品的产能情况...智能灯具 450万套 51.18%..."
+    },
+    {
+      "product": "改性塑料",
+      "metric_type": "sales_volume",
+      "value": "140,764吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 吨 140,764..."
+    },
+    {
+      "product": "改性塑料",
+      "metric_type": "production_volume",
+      "value": "142,621吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 生产量 吨 142,621..."
+    },
+    {
+      "product": "改性塑料",
+      "metric_type": "inventory_volume",
+      "value": "12,297吨",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 库存量 吨 12,297..."
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "苏州银禧科创产业园项目（一期）",
+      "project_type": "construction_project",
+      "location": "苏州市",
+      "investment_amount": "103,635,854.16元（截至报告期末累计实际投入）",
+      "designed_capacity": null,
+      "progress": "34.00%",
+      "expected_completion_time": null,
+      "quote": "报告期内正在进行的重大的非股权投资情况...苏州银禧科创产业园项目（一期）...投资金额 103,635,854.16...项目进度 34.00%..."
+    },
+    {
+      "name": "苏州银禧科技有限公司年产1000万套智能照明及组件产业化项目",
+      "project_type": "capacity_expansion",
+      "location": "苏州",
+      "investment_amount": null,
+      "designed_capacity": "年产1000万套智能照明及组件",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "子公司苏州银禧科技有限公司为承担苏州银禧科创产业园项目的建设，与东莞市方中建筑工程有限公司签订了《苏州银禧科技有限公司年产1000万套智能照明及组件产业化项目总包（一期）工程》建设工程施工合同。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "改性塑料、智能照明",
+      "quantitative_info": "共计126个（其中：发明专利72个，实用新型46个，外观设计8个）",
+      "quote": "公司及合并报表范围子公司共计拥有专利126个（其中：发明专利72个，实用新型46个，外观设计8个）"
+    },
+    {
+      "name": "改性塑料生产技术",
+      "asset_type": "process_technology",
+      "related_product": "改性塑料",
+      "quantitative_info": null,
+      "quote": "主要产品的生产技术情况 主要产品 生产技术所处的阶段...改性塑料 成熟阶段..."
+    },
+    {
+      "name": "智能照明技术",
+      "asset_type": "core_technology",
+      "related_product": "智能照明",
+      "quantitative_info": null,
+      "quote": "银禧光电及其子公司拥有专业的研发团队...其制造能力覆盖SMT贴装、硅胶挤出、自动化装配及表面处理等全制程工艺，自主研发的智能调光算法、柔性照明技术等核心专利已实现规模化应用。"
+    },
+    {
+      "name": "认证资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "BSI ISO9001、ISO14001、IATF16949，以及SA8000、ISO45001等权威体系认证，另外公司产品拥有CQC、UL、ACS、NSF、WRAS、CCC、ISO10993、GB15593医疗、PCR等认证",
+      "quote": "公司已经通过了 BSI ISO9001、ISO14001、IATF16949，以及SA8000、ISO45001等权威体系认证，另外公司产品拥有CQC、UL、ACS、NSF、WRAS、CCC、ISO10993、GB15593医疗、PCR等认证..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "18.35%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 403,320,949.20...前五名客户合计销售金额占年度销售总额比例 18.35%..."
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "21.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 324,925,523.00...前五名供应商合计采购金额占年度采购总额比例 21.38%..."
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司改性塑料产品原材料成本占营业成本比重一般在90%左右，主要原材料为PVC粉、其他聚合物树脂（PC、ABS、PP、PE、PA等）、增塑剂等。上述材料的采购价格与石油整体的市场价格具有一定的联动性...原材料价格的波动并不能通过调整相应产品的市场销售价格完全转嫁给下游客户，原材料采购价格波动的风险部分要由公司承担。",
+      "related_entity": null,
+      "related_product": "改性塑料",
+      "quote": "（1）原材料供应及价格变动风险...公司改性塑料产品原材料成本占营业成本比重一般在90%左右...原材料价格的波动并不能通过调整相应产品的市场销售价格完全转嫁给下游客户，原材料采购价格波动的风险部分要由公司承担。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "国内改性塑料行业市场集中度较低，长期以来存在众多的小型企业...国外石化巨头依靠其在资金、技术、人才等方面的优势，在国内改性塑料高端领域处于主导地位；国内改性塑料行业近年产生了一批有一定竞争力的企业...因此，本公司将面临一定的市场竞争风险。",
+      "related_entity": null,
+      "related_product": "改性塑料",
+      "quote": "（2）产品市场竞争加剧的风险...国内改性塑料行业市场集中度较低...国外石化巨头依靠其在资金、技术、人才等方面的优势，在国内改性塑料高端领域处于主导地位...因此，本公司将面临一定的市场竞争风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "改性塑料行业的下游客户需求千差万别，其产品品种繁多、更新换代快，具有很强的潮流性和多变性，若公司未能正确把握技术发展方向，有可能无法适时开发出符合市场需求的新产品...",
+      "related_entity": null,
+      "related_product": "改性塑料",
+      "quote": "（3）不能持续进行技术创新的风险...改性塑料行业的下游客户需求千差万别，其产品品种繁多、更新换代快，具有很强的潮流性和多变性，若公司未能正确把握技术发展方向，有可能无法适时开发出符合市场需求的新产品..."
+    },
+    {
+      "risk_type": "litigation",
+      "description": "因业绩补偿义务人胡恩赐、陈智勇未按《业绩承诺补偿协议》约定履行补偿义务...涉诉债权存在难以实现的风险...",
+      "related_entity": "胡恩赐、陈智勇",
+      "related_product": null,
+      "quote": "（4）业绩补偿涉诉债权实现存在风险...因业绩补偿义务人胡恩赐、陈智勇未按《业绩承诺补偿协议》约定履行补偿义务...涉诉债权存在难以实现的风险..."
+    },
+    {
+      "risk_type": "other",
+      "description": "截至报告期末，公司应收账款账面价值为59,488.16万元，占流动资产比例48.36%，占总资产比例为26.79%...若国家宏观经济出现波动，公司客户生产经营出现困难，公司仍面临因应收账款金额较大而出现呆坏账的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）应收款金额较大的风险...截至报告期末，公司应收账款账面价值为59,488.16万元，占流动资产比例48.36%，占总资产比例为26.79%...若国家宏观经济出现波动，公司客户生产经营出现困难，公司仍面临因应收账款金额较大而出现呆坏账的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司第六次董事会第二次会议以及2023年第三次临时股东大会审议通过，同意公司以自有资金及自筹资金不超过11.00亿元，用以更新打造“苏州银禧科创产业园项目”。...项目实施进度存在一定的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（6）项目建设风险...公司第六次董事会第二次会议以及2023年第三次临时股东大会审议通过，同意公司以自有资金及自筹资金不超过11.00亿元，用以更新打造“苏州银禧科创产业园项目”。...项目实施进度存在一定的不确定性。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司2021年实施第一类限制性股票股权激励计划，2025年业绩考核目标为：2021年-2025年营业收入累计不低于115亿元。公司2025年年营业收入仅实现21.97亿元，因此，2025年股权激励因业绩考核无法达标，公司将回购注销激励对象（公司核心人员）所持有的相应股权激励限制性股票，由于股权激励对象获得的股权激励收益减少，存在部分核心人员流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（7）核心人员流失的风险...为吸引并留住人才，公司2021年实施第一类限制性股票股权激励计划，2025年业绩考核目标为：2021年-2025年营业收入累计不低于115亿元。公司2025年年营业收入仅实现21.97亿元，因此，2025年股权激励因业绩考核无法达标，公司将回购注销激励对象（公司核心人员）所持有的相应股权激励限制性股票，由于股权激励对象获得的股权激励收益减少，存在部分核心人员流失的风险。"
+    }
+  ]
+}

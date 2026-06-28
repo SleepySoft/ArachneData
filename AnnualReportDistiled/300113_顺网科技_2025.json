@@ -1,0 +1,521 @@
+{
+  "company_name_mentioned": "杭州顺网科技股份有限公司",
+  "produces": [
+    {
+      "name": "网络广告及增值业务",
+      "type": "service",
+      "revenue_proportion": "71.33%",
+      "quote": "网络广告及增值业务 1,244,265,983.08 71.33%"
+    },
+    {
+      "name": "游戏业务",
+      "type": "service",
+      "revenue_proportion": "21.28%",
+      "quote": "游戏业务 371,245,798.95 21.28%"
+    },
+    {
+      "name": "展会业务",
+      "type": "service",
+      "revenue_proportion": "7.21%",
+      "quote": "展会业务 125,747,316.41 7.21%"
+    },
+    {
+      "name": "其他业务",
+      "type": "other",
+      "revenue_proportion": "0.17%",
+      "quote": "其他 3,023,511.25 0.17%"
+    },
+    {
+      "name": "营销数智化服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "面向上游游戏厂商，公司依托在电竞服务领域的深度覆盖、规模化优势与技术创新能力，提供人工智能驱动的营销数智化服务。"
+    },
+    {
+      "name": "电竞服务数智化解决方案（网维大师、网吧管家、顺网云海、顺网X管家、磐石、电竞云电脑等）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "面向中游电竞实体，公司着力推动合作伙伴实现精细化与数字化管理升级……依托“网维大师”“网吧管家”“顺网云海”“顺网X管家”“磐石”及“电竞云电脑”等核心产品与解决方案……"
+    },
+    {
+      "name": "电竞娱乐服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "面向下游终端用户，公司以电竞娱乐服务为核心，拓展多元化的电竞场景、内容与体验形态，构建沉浸式用户生态。"
+    },
+    {
+      "name": "ChinaJoy展会服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司以全资子公司上海汉威主办的中国国际数码互动娱乐展览会（ChinaJoy）为核心……为全球数字娱乐及互联网企业提供品牌曝光、产品体验于一体的场景化营销服务……"
+    },
+    {
+      "name": "算力服务平台",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "创新研发集智能算力管理、云边端协同及统一边缘节点管理于一体的算力服务平台，形成覆盖专业级计算算力与渲染算力组合的多层次算力服务体系。"
+    },
+    {
+      "name": "顺网云电脑产品（电竞云电脑、AI云电脑等）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "针对网咖、电竞酒店等专业电竞场景，公司推出电竞云电脑解决方案……针对大众娱乐、休闲、办公等场景，公司打造云电脑产品……"
+    },
+    {
+      "name": "AI一体化解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "为行业客户提供“开箱即用”的AI一体化解决方案，广泛应用于数字人、文旅、泛娱乐、互联网医疗等智能场景。"
+    },
+    {
+      "name": "智能体引擎",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司自主研发的智能体引擎，具备多模态、大小模型混合融合及自主规划等特点，能够实现AI应用与大模型解耦……"
+    },
+    {
+      "name": "精品游戏产品",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "控股子公司浮云科技坚持“文化与科技双融合”的发展理念，集游戏的研发、出版与运营于一体，持续深化游戏产品多元化布局，不断推动产品创新，成功打造了多款深受市场认可的精品游戏。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "带宽及服务器租赁托管",
+      "target_product": "网络广告及增值业务/算力服务",
+      "cost_proportion": null,
+      "quote": "带宽及服务器租赁托管支出 32,388,442.05 3.60%"
+    },
+    {
+      "name": "办公楼宇租金",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "办公楼宇租金支出 2,249,088.28 0.25%"
+    },
+    {
+      "name": "折旧及装修摊销",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "折旧及装修摊销支出 6,185,759.46 0.69%"
+    },
+    {
+      "name": "员工薪酬",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "员工薪酬支出 24,074,565.80 2.68%"
+    },
+    {
+      "name": "展会成本",
+      "target_product": "展会业务",
+      "cost_proportion": null,
+      "quote": "展会成本 44,665,755.34 4.97%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "网咖、电竞酒店等电竞服务场所",
+      "source_product": "电竞服务数智化解决方案",
+      "quote": "依托“网维大师”“网吧管家”“顺网云海”“顺网X管家”“磐石”及“电竞云电脑”等核心产品与解决方案，公司全面赋能网咖、电竞酒店等业态……"
+    },
+    {
+      "name": "游戏厂商",
+      "source_product": "营销数智化服务",
+      "quote": "通过大数据精准构建用户画像，实现游戏内容的高效分发与体验优化，目前已为全国超95%的游戏厂商提供线上线下融合的立体式精准营销服务。"
+    },
+    {
+      "name": "云电竞、人工智能模型推理、影视渲染及科学计算",
+      "source_product": "算力服务平台",
+      "quote": "为云电竞、人工智能模型推理、影视渲染及科学计算等多元化场景提供更贴近业务实际、更具普惠性的算力服务。"
+    },
+    {
+      "name": "游戏产业、动漫产业、互联网影视、电子竞技等数字娱乐领域",
+      "source_product": "ChinaJoy展会服务",
+      "quote": "ChinaJoy已发展成为当今全球数字娱乐领域最具知名度与影响⼒的年度盛会之⼀……为全球数字娱乐及互联网企业提供品牌曝光、产品体验于一体的场景化营销服务……"
+    },
+    {
+      "name": "数字人、文旅、泛娱乐、互联网医疗等智能场景",
+      "source_product": "AI一体化解决方案",
+      "quote": "为行业客户提供“开箱即用”的AI一体化解决方案，广泛应用于数字人、文旅、泛娱乐、互联网医疗等智能场景。"
+    },
+    {
+      "name": "司法、税务、政务等领域",
+      "source_product": "大模型+数字人创新框架",
+      "quote": "促使多个项目在司法、税务、政务等领域落地，为各领域数字化转型注入动力。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "华勇",
+      "role": "实际控制人、控股股东、非独立董事、董事长、总经理",
+      "quote": "控股股东姓名：华勇；实际控制人姓名：华勇；职务：非独立董事、董事长、总经理"
+    },
+    {
+      "name": "虞群娥",
+      "role": "非独立董事",
+      "quote": "虞群娥女士，非独立董事。"
+    },
+    {
+      "name": "华丽雯",
+      "role": "职工代表董事",
+      "quote": "华丽雯女士，职工代表董事。"
+    },
+    {
+      "name": "赵宇恒",
+      "role": "独立董事",
+      "quote": "赵宇恒女士，独立董事。"
+    },
+    {
+      "name": "陈旭虎",
+      "role": "独立董事",
+      "quote": "陈旭虎先生，独立董事。"
+    },
+    {
+      "name": "戎颂怡",
+      "role": "副总经理、董事会秘书",
+      "quote": "戎颂怡女士，副总经理、董事会秘书。"
+    },
+    {
+      "name": "郑巧玲",
+      "role": "副总经理、财务总监",
+      "quote": "郑巧玲女士，副总经理、财务总监。"
+    },
+    {
+      "name": "李华锋",
+      "role": "副总经理",
+      "quote": "李华锋先生，副总经理。"
+    },
+    {
+      "name": "陆玉群",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人华勇、主管会计工作负责人郑巧玲及会计机构负责人(会计主管人员)陆玉群声明……"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "杭州雾联科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事网络技术服务、软件开发、技术服务等。",
+      "quote": "释义项：雾联科技 指 杭州雾联科技有限公司"
+    },
+    {
+      "name": "上海汉威信恒展览有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主办中国国际数码互动娱乐展览会（ChinaJoy）。",
+      "quote": "释义项：上海汉威 指 上海汉威信恒展览有限公司"
+    },
+    {
+      "name": "杭州浮云网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事游戏的研发、出版与运营。",
+      "quote": "释义项：浮云科技 指 杭州浮云网络科技有限公司"
+    },
+    {
+      "name": "安徽星云网络科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，运营“树呆熊网咖”和“树呆熊电竞酒店”业务。",
+      "quote": "释义项：星云科技 指 安徽星云网络科技有限公司"
+    },
+    {
+      "name": "浙江智慧网络医院管理有限公司",
+      "relation_type": "investor",
+      "business_details": "报告期内，公司通过增资，携手在医疗健康应用领域展开深度开发与探索。",
+      "quote": "报告期内，公司持续深化AI技术在垂直行业的应用，通过增资浙江智慧网络医院管理有限公司，携手在医疗健康应用领域展开深度开发与探索……"
+    },
+    {
+      "name": "宁波云算力全场景赋能实验基地",
+      "relation_type": "joint_venture",
+      "business_details": "公司与中国互联网上网服务行业协会、宁波市文化广电旅游局、宁波互联网上网服务行业协会共同签约建设。",
+      "quote": "公司与中国互联网上网服务行业协会、宁波市文化广电旅游局、宁波互联网上网服务行业协会，共同签约建设“宁波云算力全场景赋能实验基地”。"
+    },
+    {
+      "name": "供应商1",
+      "relation_type": "supplier",
+      "business_details": "报告期内采购额5.24亿元，占年度采购总额比例54.29%。",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商1 524,359,845.62 54.29%"
+    },
+    {
+      "name": "客户1",
+      "relation_type": "customer",
+      "business_details": "报告期内销售额0.96亿元，占年度销售总额比例5.51%。",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 客户1 96,142,180.96 5.51%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "计算机应用服务业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,618,535,293.28元",
+      "revenue_proportion": "92.79%",
+      "gross_margin": "47.22%",
+      "yoy_change": "-6.06%",
+      "quote": "计算机应用服务业 1,618,535,293.28 92.79% …… 毛利率 47.22% …… 营业收入比上年同期增减 -6.06%"
+    },
+    {
+      "name": "游戏传媒业",
+      "segment_type": "business_unit",
+      "revenue_amount": "125,747,316.41元",
+      "revenue_proportion": "7.21%",
+      "gross_margin": null,
+      "yoy_change": "7.92%",
+      "quote": "游戏传媒业 125,747,316.41 7.21% …… 同比增减 7.92%"
+    },
+    {
+      "name": "网络广告及增值业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,244,265,983.08元",
+      "revenue_proportion": "71.33%",
+      "gross_margin": "34.89%",
+      "yoy_change": "-6.96%",
+      "quote": "网络广告及增值业务 1,244,265,983.08 71.33% …… 毛利率 34.89% …… 营业收入比上年同期增减 -6.96%"
+    },
+    {
+      "name": "游戏业务",
+      "segment_type": "product_line",
+      "revenue_amount": "371,245,798.95元",
+      "revenue_proportion": "21.28%",
+      "gross_margin": "89.06%",
+      "yoy_change": "-3.11%",
+      "quote": "游戏业务 371,245,798.95 21.28% …… 毛利率 89.06% …… 营业收入比上年同期增减 -3.11%"
+    },
+    {
+      "name": "展会业务",
+      "segment_type": "product_line",
+      "revenue_amount": "125,747,316.41元",
+      "revenue_proportion": "7.21%",
+      "gross_margin": null,
+      "yoy_change": "7.92%",
+      "quote": "展会业务 125,747,316.41 7.21% …… 同比增减 7.92%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,738,780,943.97元",
+      "revenue_proportion": "99.68%",
+      "gross_margin": "48.59%",
+      "yoy_change": "-5.37%",
+      "quote": "境内 1,738,780,943.97 99.68% …… 毛利率 48.59% …… 营业收入比上年同期增减 -5.37%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "5,501,665.72元",
+      "revenue_proportion": "0.32%",
+      "gross_margin": null,
+      "yoy_change": "160.99%",
+      "quote": "境外 5,501,665.72 0.32% …… 同比增减 160.99%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "算力",
+      "metric_type": "capacity",
+      "value": "可运营算力规模达5万路",
+      "period": "报告期末",
+      "quote": "公司已形成……拥有超330个节点机房的高效协同的分布式算力网络，为近80万终端提供服务，可运营算力规模达5万路……"
+    },
+    {
+      "product": "算力",
+      "metric_type": "other",
+      "value": "覆盖全国近200个重点城市、拥有超330个节点机房",
+      "period": "报告期末",
+      "quote": "打造了一张覆盖全国近200个重点城市、拥有超330个节点机房的高效协同的分布式算力网络……"
+    },
+    {
+      "product": "电竞服务场景终端",
+      "metric_type": "other",
+      "value": "活跃终端规模同比增长13.1%",
+      "period": "报告期内",
+      "quote": "截至本报告期末，公司电竞服务场景活跃终端规模同比增长13.1%"
+    },
+    {
+      "product": "电竞服务场景用户",
+      "metric_type": "other",
+      "value": "用户数量同比增长23.56%",
+      "period": "报告期内",
+      "quote": "用户数量同比增长23.56%。"
+    },
+    {
+      "product": "ChinaJoy展会",
+      "metric_type": "other",
+      "value": "整体展出面积达到13.5万平方米",
+      "period": "报告期内",
+      "quote": "整体展出面积达到13.5万平方米……"
+    },
+    {
+      "product": "ChinaJoy展会",
+      "metric_type": "sales_volume",
+      "value": "累计接待参展观众达41.03万人次",
+      "period": "报告期内",
+      "quote": "展会期间累计接待参展观众达41.03万人次。"
+    },
+    {
+      "product": "ChinaJoy展会",
+      "metric_type": "other",
+      "value": "汇聚来自37个国家和地区的799家企业参展",
+      "period": "报告期内",
+      "quote": "汇聚来自37个国家和地区的799家企业参展……"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "对全资子公司雾联科技增资",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "31,000万元",
+      "designed_capacity": null,
+      "progress": "已完成工商变更登记手续",
+      "expected_completion_time": null,
+      "quote": "公司于2025年5月13日召开第五届董事会第二十四次会议，审议通过了《关于对全资子公司增资的议案》……同意公司以自有资金31,000万元对雾联科技进行增资。"
+    },
+    {
+      "name": "宁波云算力全场景赋能实验基地",
+      "project_type": "other",
+      "location": "宁波",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "签约建设",
+      "expected_completion_time": null,
+      "quote": "公司与中国互联网上网服务行业协会、宁波市文化广电旅游局、宁波互联网上网服务行业协会，共同签约建设“宁波云算力全场景赋能实验基地”。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利及软件著作权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "顺网科技获得授权且有效的专利32项及软件著作权109项，全资子公司雾联科技获得授权且有效的专利43项及软件著作权9项",
+      "quote": "截至报告期末，顺网科技获得授权且有效的专利32项及软件著作权109项，全资子公司雾联科技获得授权且有效的专利43项及软件著作权9项……"
+    },
+    {
+      "name": "底层技术（三层更新、极速串流、穿透还原技术等）",
+      "asset_type": "core_technology",
+      "related_product": "电竞服务解决方案",
+      "quantitative_info": null,
+      "quote": "公司深耕电竞服务领域多年，在多项重点技术上始终保持领先优势，不仅在三层更新、极速串流、穿透还原技术等底层技术上不断迭代……"
+    },
+    {
+      "name": "虚拟化技术（虚拟盘磁盘技术、虚拟卷技术、虚拟磁盘还原等）",
+      "asset_type": "core_technology",
+      "related_product": "电竞服务解决方案",
+      "quantitative_info": null,
+      "quote": "更在虚拟化技术领域取得突破，包括虚拟盘磁盘技术、虚拟卷技术、虚拟磁盘还原等……"
+    },
+    {
+      "name": "异构硬件远程自动安装技术",
+      "asset_type": "core_technology",
+      "related_product": "电竞服务解决方案",
+      "quantitative_info": null,
+      "quote": "此外，公司在异构硬件远程自动安装技术方面取得突破性进展……"
+    },
+    {
+      "name": "串流技术、算力管理、算力分时复用、算力切分、边缘节点管理等核心技术",
+      "asset_type": "core_technology",
+      "related_product": "算力服务平台",
+      "quantitative_info": null,
+      "quote": "结合公司沉淀的串流技术、算力管理、算力分时复用、算力切分、边缘节点管理等核心技术……"
+    },
+    {
+      "name": "CaaS（算力即服务）解决方案",
+      "asset_type": "technical_platform",
+      "related_product": "算力服务平台",
+      "quantitative_info": null,
+      "quote": "公司自主研发了CaaS（算力即服务）解决方案，融合智能算力调度算法、云边端协同及节点统一管理等先进技术……"
+    },
+    {
+      "name": "智能体引擎",
+      "asset_type": "core_technology",
+      "related_product": "AI一体化解决方案",
+      "quantitative_info": null,
+      "quote": "公司自主研发的智能体引擎，具备多模态、大小模型混合融合及自主规划等特点……"
+    },
+    {
+      "name": "自适应超低延迟串流技术以及超高清云渲染技术",
+      "asset_type": "core_technology",
+      "related_product": "算力服务产品",
+      "quantitative_info": null,
+      "quote": "此外，基于自适应超低延迟串流技术以及超高清云渲染等核心技术……"
+    },
+    {
+      "name": "浮云法律大模型",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "通过国家网信办生成式人工智能大模型备案",
+      "quote": "2025年12月，浮云法律大模型通过国家网信办生成式人工智能大模型备案……"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "24.41%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户合计销售金额（元） 425,819,428.80 前五名客户合计销售金额占年度销售总额比例 24.41%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "72.18%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额（元） 697,109,537.77 前五名供应商合计采购金额占年度采购总额比例 72.18%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "覆盖全国电竞服务行业70%以上市场",
+      "related_entity": null,
+      "period": null,
+      "quote": "核心产品覆盖全国电竞服务行业70%以上市场、业务触及全国96%以上城市……"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "与全国95%以上的游戏厂商建立稳定的合作关系",
+      "related_entity": null,
+      "period": null,
+      "quote": "基于在电竞服务领域的广泛覆盖优势以及线上线下整合营销能力，公司已与全国95%以上的游戏厂商建立稳定的合作关系……"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家密集出台促进行业规范健康发展的监管政策，若公司未能及时响应政策变化调整经营策略，可能对业务发展产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）行业政策风险：近年来，国家密集出台促进行业规范健康发展的监管政策，为行业高质量发展提供长期指引。若公司未能及时响应政策变化调整经营策略，可能对业务发展产生不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "部分创新技术尚处探索期，若研发能力无法适应技术迭代、行业标准或客户需求变化，或商业化进程不及预期，可能导致前期投入无法回收，进而影响公司市场竞争力与行业地位。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）技术创新风险：公司持续加大研发投入……但部分创新技术尚处探索期，若研发能力无法适应技术迭代、行业标准或客户需求变化，或商业化进程不及预期，可能导致前期投入无法回收，进而影响公司市场竞争力与行业地位。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司业务矩阵升级与投资版图扩张，管理层在战略规划、组织管理、资源配置、资金管控、人才建设及内部控制等方面面临更高要求与挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）管理方面风险：随着公司业务矩阵升级与投资版图扩张，管理层在战略规划、组织管理、资源配置、资金管控、人才建设及内部控制等方面面临更高要求与挑战。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司拥有行业领先的核心技术与多项自主知识产权，尽管已与员工签署保密协议，但仍无法完全消除技术泄露或核心技术人员流失带来的知识产权风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）知识产权保护风险：公司拥有行业领先的核心技术与多项自主知识产权，尽管已与员工签署保密协议，但仍无法完全消除技术泄露或核心技术人员流失带来的知识产权风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "互联网行业技术迭代迅速、应用创新活跃，公司需持续开拓新业务、新领域以保持竞争优势。但新业务市场培育需要周期，若产品无法快速获得市场认可，可能导致市场开拓不及预期。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）新业务开拓风险：互联网行业技术迭代迅速、应用创新活跃……但新业务市场培育需要周期，若产品无法快速获得市场认可，可能导致市场开拓不及预期。"
+    },
+    {
+      "risk_type": "other",
+      "description": "互联网行业属于轻资产、技术密集型产业，竞争本质是人才竞争。近年来市场竞争加剧，人员流动频繁、知识更新加速，核心人才争夺日趋激烈，对公司人力资源管理提出更高挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（6）核心人才和团队流失的风险：互联网行业属于轻资产、技术密集型产业，竞争本质是人才竞争。近年来市场竞争加剧，人员流动频繁、知识更新加速，核心人才争夺日趋激烈，对公司人力资源管理提出更高挑战。"
+    }
+  ]
+}

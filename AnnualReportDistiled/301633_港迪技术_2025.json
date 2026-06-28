@@ -1,0 +1,542 @@
+{
+  "company_name_mentioned": "武汉港迪技术股份有限公司",
+  "produces": [
+    {
+      "name": "自动化驱动产品",
+      "type": "device",
+      "revenue_proportion": "43.30%",
+      "quote": "分产品 自动化驱动产品 231,220,213.86 43.30%"
+    },
+    {
+      "name": "智能操控系统",
+      "type": "software",
+      "revenue_proportion": "54.82%",
+      "quote": "分产品 智能操控系统 292,737,501.70 54.82%"
+    },
+    {
+      "name": "管理系统软件",
+      "type": "software",
+      "revenue_proportion": "1.55%",
+      "quote": "分产品 管理系统软件 8,276,174.63 1.55%"
+    },
+    {
+      "name": "变频器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司自动化驱动产品主要包含变频器、行业专机，变频器和行业专机产品目前主要应用于各类中大型起重、输送设备以及盾构机的单机自动化控制系统"
+    },
+    {
+      "name": "行业专机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司专机产品主要有HF500LC/HF650ZQ系列盾构专机、HF310系列塔机专机"
+    },
+    {
+      "name": "智慧化平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "产品主要包括智慧化平台、数据中台、资产全生命周期管理系统、生产操作管理系统、机械动态监视系统、管控一体化系统等软件产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "低压元件",
+      "target_product": "变频器、智能操控系统等自动化产品",
+      "cost_proportion": null,
+      "quote": "公司上游主要涵盖低压元件、集成电路、电子元件、功能组件、仪器仪表、低压电器、计算机网络设备等基础元器件与硬件配套产业"
+    },
+    {
+      "name": "集成电路",
+      "target_product": "变频器、智能操控系统等自动化产品",
+      "cost_proportion": null,
+      "quote": "公司上游主要涵盖低压元件、集成电路、电子元件、功能组件、仪器仪表、低压电器、计算机网络设备等基础元器件与硬件配套产业"
+    },
+    {
+      "name": "功能组件",
+      "target_product": "变频器、智能操控系统等自动化产品",
+      "cost_proportion": null,
+      "quote": "公司主要原材料为功能组件、低压元件、IGBT、仪器仪表、集成电路等"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "公司主营产品",
+      "cost_proportion": "80.09%",
+      "quote": "工业自动化 直接材料 239,676,929.93 80.09%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "港口",
+      "source_product": "自动化驱动产品、智能操控系统、管理系统软件",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    },
+    {
+      "name": "盾构",
+      "source_product": "自动化驱动产品",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    },
+    {
+      "name": "船舶",
+      "source_product": "自动化驱动产品",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    },
+    {
+      "name": "石油",
+      "source_product": "自动化驱动产品",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    },
+    {
+      "name": "水泥",
+      "source_product": "自动化驱动产品、智能操控系统",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    },
+    {
+      "name": "建筑机械（建机）",
+      "source_product": "自动化驱动产品",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    },
+    {
+      "name": "铁路",
+      "source_product": "自动化驱动产品",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    },
+    {
+      "name": "冶金",
+      "source_product": "自动化驱动产品",
+      "quote": "公司下游应用领域布局广泛，客户覆盖港口、盾构、船舶、石油、水泥、桥机、建机、铁路、物流、冶金、纺织、电厂、风机水泵、化工等众多工业细分行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "向爱国",
+      "role": "控股股东、实际控制人、董事长、法定代表人",
+      "quote": "公司控股股东、实际控制人 指 向爱国、徐林业、范沛、顾毅；公司负责人向爱国"
+    },
+    {
+      "name": "徐林业",
+      "role": "控股股东、实际控制人、副董事长",
+      "quote": "公司控股股东、实际控制人 指 向爱国、徐林业、范沛、顾毅"
+    },
+    {
+      "name": "范沛",
+      "role": "控股股东、实际控制人、董事",
+      "quote": "公司控股股东、实际控制人 指 向爱国、徐林业、范沛、顾毅"
+    },
+    {
+      "name": "顾毅",
+      "role": "控股股东、实际控制人、董事",
+      "quote": "公司控股股东、实际控制人 指 向爱国、徐林业、范沛、顾毅"
+    },
+    {
+      "name": "李小松",
+      "role": "总经理",
+      "quote": "李小松 男 47 总经理 现任"
+    },
+    {
+      "name": "谢鸣",
+      "role": "副总经理、技术总监",
+      "quote": "谢鸣 男 48 副总经理 现任"
+    },
+    {
+      "name": "黄铭",
+      "role": "副总经理",
+      "quote": "黄铭 男 56 副总经理 现任"
+    },
+    {
+      "name": "王俊",
+      "role": "副总经理",
+      "quote": "王俊 男 38 副总经理 现任"
+    },
+    {
+      "name": "周逸君",
+      "role": "副总经理、董事会秘书",
+      "quote": "周逸君 女 39 副总经理、董事会秘书 现任"
+    },
+    {
+      "name": "张丽娟",
+      "role": "财务总监",
+      "quote": "张丽娟 女 46 财务总监 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "港迪智能",
+      "relation_type": "subsidiary",
+      "business_details": "智能操控系统研发、生产与销售",
+      "quote": "港迪智能 指 武汉港迪智能技术有限公司；主要子公司及对公司净利润影响达10%以上的参股公司情况 公司名称 公司类型 主要业务 ... 港迪智能 子公司 智能操控系统研发、生产与销售"
+    },
+    {
+      "name": "港迪软件",
+      "relation_type": "subsidiary",
+      "business_details": "管理系统软件业务",
+      "quote": "港迪软件 指 武汉港迪软件信息技术有限公司；公司管理系统软件业务由控股子公司港迪软件负责开展"
+    },
+    {
+      "name": "港迪传动",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内新设子公司",
+      "quote": "港迪传动 指 武汉港迪传动科技有限公司；公司于2025年4月23日...同意公司以自有资金认缴出资1,100.00万元，与聚贤投资、合盛聚赢共同投资设立港迪传动"
+    },
+    {
+      "name": "西门子",
+      "relation_type": "competitor",
+      "business_details": "工业自动化产品供应商",
+      "quote": "西门子 指 德国西门子股份公司（SIEMENSAG）；以西门子、ABB、施耐德、安川电机、三菱电机为代表的跨国巨头...在中高端工控领域保持较大的市场份额"
+    },
+    {
+      "name": "ABB",
+      "relation_type": "competitor",
+      "business_details": "工业自动化产品供应商",
+      "quote": "ABB 指 瑞士ABB集团；以西门子、ABB、施耐德、安川电机、三菱电机为代表的跨国巨头...在中高端工控领域保持较大的市场份额"
+    },
+    {
+      "name": "安川",
+      "relation_type": "competitor",
+      "business_details": "工业自动化产品供应商",
+      "quote": "安川 指 日本安川电机株式会社；以西门子、ABB、施耐德、安川电机、三菱电机为代表的跨国巨头...在中高端工控领域保持较大的市场份额"
+    },
+    {
+      "name": "汇川技术",
+      "relation_type": "competitor",
+      "business_details": "工业自动化产品供应商",
+      "quote": "汇川技术 指 深圳市汇川技术股份有限公司；外资企业以及汇川技术、英威腾等国内企业凭借品牌、技术和资本优势，占据大部分国内低压变频器市场"
+    },
+    {
+      "name": "英威腾",
+      "relation_type": "competitor",
+      "business_details": "工业自动化产品供应商",
+      "quote": "英威腾 指 深圳市英威腾电气股份有限公司；外资企业以及汇川技术、英威腾等国内企业凭借品牌、技术和资本优势，占据大部分国内低压变频器市场"
+    },
+    {
+      "name": "华东重机",
+      "relation_type": "customer",
+      "business_details": "关联方，公司持股5%以上股东翁耀根控制的企业",
+      "quote": "华东重机 指 无锡华东重型机械股份有限公司；公司持股5%以上股东翁耀根控制的企业"
+    },
+    {
+      "name": "南通华重",
+      "relation_type": "customer",
+      "business_details": "关联方，华东重机全资子公司",
+      "quote": "南通华重 指 南通华东重型机械有限公司；公司持股5%以上股东翁耀根控制的企业，系华东重机全资子公司"
+    },
+    {
+      "name": "苏港智能",
+      "relation_type": "customer",
+      "business_details": "公司全资子公司持股25%的企业，公司董事徐林业任苏港智能董事",
+      "quote": "苏港智能 指 江苏苏港智能装备产业创新中心有限公司；公司全资子公司持股25%的企业，公司董事徐林业任苏港智能董事"
+    },
+    {
+      "name": "聚贤投资",
+      "relation_type": "investor",
+      "business_details": "共同投资设立港迪传动",
+      "quote": "聚贤投资 指 武汉聚贤投资合伙企业（有限合伙）；公司以自有资金认缴出资1,100.00万元，与聚贤投资、合盛聚赢共同投资设立港迪传动"
+    },
+    {
+      "name": "合盛聚赢",
+      "relation_type": "investor",
+      "business_details": "共同投资设立港迪传动",
+      "quote": "合盛聚赢 指 武汉合盛聚赢投资有限公司；公司以自有资金认缴出资1,100.00万元，与聚贤投资、合盛聚赢共同投资设立港迪传动"
+    },
+    {
+      "name": "中铁工程装备",
+      "relation_type": "customer",
+      "business_details": "国内排名前三的盾构机制造企业，公司核心客户",
+      "quote": "同时进入中铁工程装备、铁建重工、中交天和...等国内外知名龙头企业的供应链体系；国内市场排名前三的盾构机制造企业均为公司核心客户"
+    },
+    {
+      "name": "中交天和",
+      "relation_type": "customer",
+      "business_details": "国内排名前三的盾构机制造企业，公司核心客户",
+      "quote": "同时进入...中交天和...等国内外知名龙头企业的供应链体系；国内市场排名前三的盾构机制造企业均为公司核心客户"
+    },
+    {
+      "name": "中国建材",
+      "relation_type": "customer",
+      "business_details": "水泥行业龙头",
+      "quote": "同时进入...中国建材、冀东水泥、华润水泥、华新水泥、山水水泥...等国内外知名龙头企业的供应链体系"
+    },
+    {
+      "name": "徐工机械",
+      "relation_type": "customer",
+      "business_details": "建筑机械龙头企业",
+      "quote": "同时进入...徐工机械、马尼托瓦克、陕西建机、中国铁路集团等国内外知名龙头企业的供应链体系"
+    },
+    {
+      "name": "中国铁路集团",
+      "relation_type": "customer",
+      "business_details": "铁路行业客户",
+      "quote": "同时进入...中国铁路集团等国内外知名龙头企业的供应链体系"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业自动化",
+      "segment_type": "business_unit",
+      "revenue_amount": "532,233,890.19元",
+      "revenue_proportion": "99.67%",
+      "gross_margin": "43.81%",
+      "yoy_change": "-11.53%",
+      "quote": "分行业 工业自动化 532,233,890.19 99.67% ... 毛利率 43.81%"
+    },
+    {
+      "name": "自动化驱动产品",
+      "segment_type": "product_line",
+      "revenue_amount": "231,220,213.86元",
+      "revenue_proportion": "43.30%",
+      "gross_margin": "51.87%",
+      "yoy_change": "-14.13%",
+      "quote": "分产品 自动化驱动产品 231,220,213.86 43.30% ... 毛利率 51.87%"
+    },
+    {
+      "name": "智能操控系统",
+      "segment_type": "product_line",
+      "revenue_amount": "292,737,501.70元",
+      "revenue_proportion": "54.82%",
+      "gross_margin": "37.67%",
+      "yoy_change": "-7.72%",
+      "quote": "分产品 智能操控系统 292,737,501.70 54.82% ... 毛利率 37.67%"
+    },
+    {
+      "name": "管理系统软件",
+      "segment_type": "product_line",
+      "revenue_amount": "8,276,174.63元",
+      "revenue_proportion": "1.55%",
+      "gross_margin": null,
+      "yoy_change": "-45.19%",
+      "quote": "分产品 管理系统软件 8,276,174.63 1.55%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "533,346,043.10元",
+      "revenue_proportion": "99.87%",
+      "gross_margin": "41.27%",
+      "yoy_change": "-11.21%",
+      "quote": "分地区 境内 533,346,043.10 99.87% ... 毛利率 41.27%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "671,654.83元",
+      "revenue_proportion": "0.13%",
+      "gross_margin": null,
+      "yoy_change": "-36.65%",
+      "quote": "分地区 境外 671,654.83 0.13%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "520,802,979.88元",
+      "revenue_proportion": "97.53%",
+      "gross_margin": "43.91%",
+      "yoy_change": "-12.34%",
+      "quote": "分销售模式 直销 520,802,979.88 97.53% ... 毛利率 43.91%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "13,214,718.05元",
+      "revenue_proportion": "2.47%",
+      "gross_margin": null,
+      "yoy_change": "73.79%",
+      "quote": "分销售模式 经销 13,214,718.05 2.47%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工业自动化（产品销售量、生产量、库存量）",
+      "metric_type": "sales_volume",
+      "value": "15,716台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 销售量 台 15,716"
+    },
+    {
+      "product": "工业自动化（产品销售量、生产量、库存量）",
+      "metric_type": "production_volume",
+      "value": "16,383台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 生产量 台 16,383"
+    },
+    {
+      "product": "工业自动化（产品销售量、生产量、库存量）",
+      "metric_type": "inventory_volume",
+      "value": "4,021台",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 库存量 台 4,021"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "港迪技术生产制造基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "14,887.33万元（截至期末投入）",
+      "designed_capacity": null,
+      "progress": "49.84%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目 港迪技术生产制造基地建设项目 ... 截至期末投入金额(2) 7,420.24 ... 项目进度(3) 49.84% ... 项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "港迪技术研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "11,492.47万元（截至期末投入）",
+      "designed_capacity": null,
+      "progress": "43.35%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目 港迪技术研发中心建设项目 ... 截至期末投入金额(2) 4,982.06 ... 项目进度(3) 43.35% ... 项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "港迪智能研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "7,643.87万元（截至期末投入）",
+      "designed_capacity": null,
+      "progress": "38.49%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目 港迪智能研发中心建设项目 ... 截至期末投入金额(2) 2,941.93 ... 项目进度(3) 38.49% ... 项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "全国销服运营中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "6,025.82万元（截至期末投入）",
+      "designed_capacity": null,
+      "progress": "42.83%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目 全国销服运营中心建设项目 ... 截至期末投入金额(2) 2,580.84 ... 项目进度(3) 42.83% ... 项目达到预定可使用状态日期 2026年12月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "134项（其中发明专利48项）",
+      "quote": "截至2025年12月31日，公司拥有专利134项（其中发明专利48项）、软件著作权89项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "89项",
+      "quote": "截至2025年12月31日，公司拥有专利134项（其中发明专利48项）、软件著作权89项"
+    },
+    {
+      "name": "国家标准、行业标准参与制定",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "先后参与编写3项国家标准、1项行业标准、9项团体或地方标准",
+      "quote": "公司先后参与编写3项国家标准、1项行业标准、9项团体或地方标准"
+    },
+    {
+      "name": "SIL功能安全认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2025年1月，欧盟官方认证机构ECM对公司产品颁发SIL功能安全认证证书"
+    },
+    {
+      "name": "CMMI-DEV V3.0 MATURITY LEVEL 3认证",
+      "asset_type": "certification",
+      "related_product": "软件开发",
+      "quantitative_info": null,
+      "quote": "2025年4月，国际权威认证机构CMMI Institute对公司软件开发颁发了CMMI-DEV V3.0 MATURITY LEVEL 3证书"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是国家级专精特新“小巨人”企业、高新技术企业"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是国家级专精特新“小巨人”企业、高新技术企业"
+    },
+    {
+      "name": "电机矢量控制技术",
+      "asset_type": "core_technology",
+      "related_product": "变频器",
+      "quantitative_info": null,
+      "quote": "公司持续优化电机矢量控制、整流回馈控制、带负载电机动态自学习等核心技术"
+    },
+    {
+      "name": "多模态融合感知技术",
+      "asset_type": "core_technology",
+      "related_product": "智能操控系统",
+      "quantitative_info": null,
+      "quote": "公司持续优化...多模态融合感知、视觉识别、激光点云深度学习等算法"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "265,079,264.42元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 265,079,264.42"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "49.64%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 49.64%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "74,278,377.92元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 74,278,377.92"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.98%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "在工业自动化产品市场中，西门子、ABB、安川等外资企业以及汇川技术、英威腾等国内企业凭借品牌、技术和资本优势，占据大部分国内低压变频器市场，公司相较于变频器市场头部企业市场份额较小，且目前优势主要集中在特定行业领域。",
+      "related_entity": null,
+      "related_product": "低压变频器",
+      "quote": "在工业自动化产品市场中，西门子、ABB、安川等外资企业以及汇川技术、英威腾等国内企业凭借品牌、技术和资本优势，占据大部分国内低压变频器市场，公司相较于变频器市场头部企业市场份额较小"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料为功能组件、低压元件、IGBT、仪器仪表、集成电路等，种类繁多，各年采购型号存在差异，同类原材料的不同型号价格不同，存在原材料采购价格波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要原材料为功能组件、低压元件、IGBT、仪器仪表、集成电路等，种类繁多，各年采购型号存在差异，同类原材料的不同型号价格不同，存在原材料采购价格波动风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司整体研发投入规模及技术储备与同行业头部公司相比仍有差距，若未来公司未能准确把握技术发展趋势、无法及时调整研发创新机制或研发投入不足，出现关键技术未能突破、技术性能指标未达到预期等情况，公司将面临在技术迭代中落后于竞争对手的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司整体研发投入规模及技术储备与同行业头部公司相比仍有差距，若未来公司未能准确把握技术发展趋势、无法及时调整研发创新机制或研发投入不足，出现关键技术未能突破、技术性能指标未达到预期等情况，公司将面临在技术迭代中落后于竞争对手的风险"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司客户所处行业集中度较高，以港口、船舶、铁路、水泥等行业客户以及盾构机等大型设备制造厂商为主。如果未来宏观经济整体增速放缓、产业政策趋严或者某一细分行业呈周期性下行趋势，则会导致下游行业发展景气度不足。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司客户所处行业集中度较高，以港口、船舶、铁路、水泥等行业客户以及盾构机等大型设备制造厂商为主...如果未来宏观经济整体增速放缓、产业政策趋严或者某一细分行业呈周期性下行趋势，则会导致下游行业发展景气度不足"
+    },
+    {
+      "risk_type": "other",
+      "description": "拥有行业经验丰富、技术研发能力强、人员结构稳定的研发团队是公司保持技术优势和竞争力的关键。公司现有研发人员数量和头部企业相比存在一定的差距，随着公司经营规模增大，如果公司无法建立长效的研发团队培养机制，不能引入适当的高技术人才，公司的发展将会受到一定的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司现有研发人员数量和头部企业相比存在一定的差距，随着公司经营规模增大，如果公司无法建立长效的研发团队培养机制，不能引入适当的高技术人才，公司的发展将会受到一定的影响"
+    }
+  ]
+}

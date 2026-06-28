@@ -1,0 +1,406 @@
+{
+  "company_name_mentioned": "上海索辰信息科技股份有限公司",
+  "produces": [
+    {
+      "name": "CAE单一学科仿真软件（流体仿真软件、结构仿真软件、声学分析软件等）",
+      "type": "software",
+      "revenue_proportion": "86.33% (天工-工程仿真软件毛利率)",
+      "quote": "公司的CAE产品可进一步细分为CAE单一学科仿真软件、多学科仿真软件和CAE工程仿真优化系统。单一学科软件是公司用于流体、结构、声学、电磁、光学、测控等领域仿真软件的统称"
+    },
+    {
+      "name": "物理AI开发及应用平台（物理AI模拟引擎、物理AI训练一体化平台等）",
+      "type": "technology",
+      "revenue_proportion": "98.58% (开物-工程仿真软件毛利率)",
+      "quote": "公司的物理AI产品涵盖物理AI开发及应用平台的全场景解决方案，使开发者和工业用户能够轻松开发和部署物理AI应用"
+    },
+    {
+      "name": "SCADA软件",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司通过重大资产重组成功整合力控科技，对主营业务进行了拓展，新增SCADA软件、工业智能管控产品及工业数智化解决方案的研发、销售和服务。"
+    },
+    {
+      "name": "仿真产品开发（数字孪生系统、仿真-试验融合验证系统等）",
+      "type": "service",
+      "revenue_proportion": "38.79% (天工-仿真产品开发毛利率)",
+      "quote": "公司的仿真产品开发业务是公司根据细分工程领域客户的具体需求，为客户提供定制化的仿真解决方案"
+    },
+    {
+      "name": "生产管控一体化解决方案",
+      "type": "service",
+      "revenue_proportion": "43.47% (天工-生产管控一体化解决方案毛利率)",
+      "quote": "报告期内...新增了“生产管控一体化解决方案”与“工业自动化软件产品”两项业务，该部分收入系通过收购力控科技而纳入合并报表范围。"
+    },
+    {
+      "name": "工业自动化软件及控制系统",
+      "type": "software",
+      "revenue_proportion": "91.60% (天工-工业自动化软件产品毛利率)",
+      "quote": "报告期内...新增了“生产管控一体化解决方案”与“工业自动化软件产品”两项业务，该部分收入系通过收购力控科技而纳入合并报表范围。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "软件模块",
+      "target_product": "仿真产品开发业务中的非仿真软件模块",
+      "cost_proportion": null,
+      "quote": "公司采购的主要内容为软件模块、软硬件产品、无形资产、原材料、技术服务。软件模块主要为仿真产品开发业务中的非仿真软件模块采购"
+    },
+    {
+      "name": "软硬件产品（服务器、工作站、感应器、变压器、PLC系统等）",
+      "target_product": "项目实施配套",
+      "cost_proportion": null,
+      "quote": "软硬件产品主要为公司根据项目实施需要配套采购的服务器、工作站等硬件产品及感应器、变压器、PLC系统等相关设备"
+    },
+    {
+      "name": "无形资产（通用软件）",
+      "target_product": "研发活动",
+      "cost_proportion": null,
+      "quote": "无形资产主要为公司为开展研发活动采购的通用软件"
+    },
+    {
+      "name": "原材料（解码器、机械硬盘及扩展卡等电子器件材料）",
+      "target_product": "生产制造",
+      "cost_proportion": null,
+      "quote": "原材料主要为解码器、机械硬盘及扩展卡等电子器件材料"
+    },
+    {
+      "name": "技术服务",
+      "target_product": "软件开发中的非核心模块委外开发及测试",
+      "cost_proportion": null,
+      "quote": "技术服务费主要系公司将软件开发中的非核心模块委外开发费用及软件模块的测试服务费。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空航天",
+      "source_product": "CAE产品、物理AI产品",
+      "quote": "公司凭借在物理建模、算法研发和行业应用上的长期积累...可满足航空航天...等复杂产品研发或工程技术创新领域的需求。"
+    },
+    {
+      "name": "汽车制造",
+      "source_product": "CAE产品、物理AI产品",
+      "quote": "公司凭借在物理建模、算法研发和行业应用上的长期积累...可满足...汽车制造...等复杂产品研发或工程技术创新领域的需求。"
+    },
+    {
+      "name": "能源动力",
+      "source_product": "CAE产品、物理AI产品",
+      "quote": "公司凭借在物理建模、算法研发和行业应用上的长期积累...可满足...能源动力...等复杂产品研发或工程技术创新领域的需求。"
+    },
+    {
+      "name": "低空经济",
+      "source_product": "物理AI产品",
+      "quote": "公司凭借在物理建模、算法研发和行业应用上的长期积累...可满足...低空经济...等复杂产品研发或工程技术创新领域的需求。"
+    },
+    {
+      "name": "具身智能",
+      "source_product": "物理AI产品",
+      "quote": "公司凭借在物理建模、算法研发和行业应用上的长期积累...可满足...具身智能...等复杂产品研发或工程技术创新领域的需求。"
+    },
+    {
+      "name": "油气、石化、化工、煤矿、市政、新能源",
+      "source_product": "SCADA产品",
+      "quote": "SCADA产品收入主要来自于油气、石化、化工、煤矿、市政、新能源等领域的大型国企或工业龙头企业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈灏",
+      "role": "董事长、总经理、核心技术人员、实际控制人",
+      "quote": "公司负责人陈灏...声明...保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "杜莉",
+      "role": "主管会计工作负责人、财务负责人、会计机构负责人（会计主管人员）",
+      "quote": "主管会计工作负责人杜莉及会计机构负责人（会计主管人员）杜莉声明..."
+    },
+    {
+      "name": "谢蓉",
+      "role": "董事会秘书、副总经理、职工代表董事",
+      "quote": "董事会秘书 谢蓉"
+    },
+    {
+      "name": "王普勇",
+      "role": "董事、副总经理、核心技术人员",
+      "quote": "董事/职工代表董事...王普勇"
+    },
+    {
+      "name": "张志刚",
+      "role": "副总经理、核心技术人员",
+      "quote": "副总经理...张志刚"
+    },
+    {
+      "name": "原力",
+      "role": "核心技术人员",
+      "quote": "核心技术人员 原力"
+    },
+    {
+      "name": "李季",
+      "role": "核心技术人员",
+      "quote": "核心技术人员 李季"
+    },
+    {
+      "name": "王瑞洁",
+      "role": "核心技术人员",
+      "quote": "核心技术人员 王瑞洁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京力控元通科技有限公司（力控科技）",
+      "relation_type": "subsidiary",
+      "business_details": "收购力控科技60%股权的重大资产重组，新增SCADA软件、工业智能管控产品及工业数智化解决方案业务。",
+      "quote": "公司通过重大资产重组成功整合力控科技，对主营业务进行了拓展，新增SCADA软件、工业智能管控产品及工业数智化解决方案的研发、销售和服务。"
+    },
+    {
+      "name": "昆宇蓝程（北京）科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "收购昆宇蓝程55%股权，在数据仿真、算法应用、AI计算等领域技术协同。",
+      "quote": "2025年10月，公司完成对昆宇蓝程的收购，持有其55%股权。"
+    },
+    {
+      "name": "宁波麦思捷科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "收购麦思捷55%股权。",
+      "quote": "2024年12月，子公司索辰数字与麦思捷及其股东...签订相关协议，合计取得麦思捷55%股权"
+    },
+    {
+      "name": "北京凌云智擎科技有限公司",
+      "relation_type": "investor",
+      "business_details": "报告期内投资该公司。",
+      "quote": "报告期内，公司还投资北京凌云智擎科技有限公司..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "天工-工程仿真软件",
+      "segment_type": "product_line",
+      "revenue_amount": "197,899,338.31元",
+      "revenue_proportion": null,
+      "gross_margin": "86.33%",
+      "yoy_change": "-13.35% (营收)",
+      "quote": "天工-工程仿真软件 197,899,338.31 ... 毛利率（%） 86.33 ... 营业收入比上年增减（%） -13.35"
+    },
+    {
+      "name": "天工-仿真产品开发",
+      "segment_type": "product_line",
+      "revenue_amount": "86,508,939.25元",
+      "revenue_proportion": null,
+      "gross_margin": "38.79%",
+      "yoy_change": "-36.85% (营收)",
+      "quote": "天工-仿真产品开发 86,508,939.25 ... 毛利率（%） 38.79 ... 营业收入比上年增减（%） -36.85"
+    },
+    {
+      "name": "天工-生产管控一体化解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "49,801,212.89元",
+      "revenue_proportion": null,
+      "gross_margin": "43.47%",
+      "yoy_change": "不适用",
+      "quote": "天工-生产管控一体化解决方案 49,801,212.89 ... 毛利率（%） 43.47 ... 不适用"
+    },
+    {
+      "name": "天工-工业自动化软件产品",
+      "segment_type": "product_line",
+      "revenue_amount": "29,509,333.32元",
+      "revenue_proportion": null,
+      "gross_margin": "91.60%",
+      "yoy_change": "不适用",
+      "quote": "天工-工业自动化软件产品 29,509,333.32 ... 毛利率（%） 91.60 ... 不适用"
+    },
+    {
+      "name": "开物-工程仿真软件",
+      "segment_type": "product_line",
+      "revenue_amount": "40,390,415.78元",
+      "revenue_proportion": null,
+      "gross_margin": "98.58%",
+      "yoy_change": "不适用",
+      "quote": "开物-工程仿真软件 40,390,415.78 ... 毛利率（%） 98.58 ... 不适用"
+    },
+    {
+      "name": "开物-仿真产品开发",
+      "segment_type": "product_line",
+      "revenue_amount": "17,768,532.04元",
+      "revenue_proportion": null,
+      "gross_margin": "37.20%",
+      "yoy_change": "不适用",
+      "quote": "开物-仿真产品开发 17,768,532.04 ... 毛利率（%） 37.20 ... 不适用"
+    },
+    {
+      "name": "技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "30,247,882.89元",
+      "revenue_proportion": null,
+      "gross_margin": "50.28%",
+      "yoy_change": "179.61% (营收)",
+      "quote": "技术服务 30,247,882.89 ... 毛利率（%） 50.28 ... 营业收入比上年增减（%） 179.61"
+    },
+    {
+      "name": "机加工服务",
+      "segment_type": "product_line",
+      "revenue_amount": "6,083,363.67元",
+      "revenue_proportion": null,
+      "gross_margin": "37.34%",
+      "yoy_change": "204.84% (营收)",
+      "quote": "机加工服务 6,083,363.67 ... 毛利率（%） 37.34 ... 营业收入比上年增减（%） 204.84"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "7,569,891.51元",
+      "revenue_proportion": null,
+      "gross_margin": "6.39%",
+      "yoy_change": "1125.81% (营收)",
+      "quote": "其他业务 7,569,891.51 ... 毛利率（%） 6.39 ... 营业收入比上年增减（%） 1125.81"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "工业仿真云互联应用平台开发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "16,000,000.00元",
+      "designed_capacity": null,
+      "progress": "持续研发阶段",
+      "expected_completion_time": null,
+      "quote": "项目名 工业仿真云互联应用平台开发 ... 预计总投资规模 16,000,000.00 ... 进展或阶段性成果 持续研发阶段"
+    },
+    {
+      "name": "数字孪生验证系统",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "30,000,000.00元",
+      "designed_capacity": null,
+      "progress": "持续研发阶段",
+      "expected_completion_time": null,
+      "quote": "项目名 数字孪生验证系统 ... 预计总投资规模 30,000,000.00 ... 进展或阶段性成果 持续研发阶段"
+    },
+    {
+      "name": "基于模型的系统工程仿真软件",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "30,000,000.00元",
+      "designed_capacity": null,
+      "progress": "持续研发阶段",
+      "expected_completion_time": null,
+      "quote": "项目名 基于模型的系统工程仿真软件 ... 预计总投资规模 30,000,000.00 ... 进展或阶段性成果 持续研发阶段"
+    },
+    {
+      "name": "仿真软件与新兴技术融合研究开发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "30,000,000.00元",
+      "designed_capacity": null,
+      "progress": "持续研发阶段",
+      "expected_completion_time": null,
+      "quote": "项目名 仿真软件与新兴技术融合研究开发 ... 预计总投资规模 30,000,000.00 ... 进展或阶段性成果 持续研发阶段"
+    },
+    {
+      "name": "年产260台DEMX水下噪声测试仪建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产260台DEMX水下噪声测试仪",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司本次实施的“年产260台DEMX水下噪声测试仪建设项目”，需要采购水听器等元器件后进行装配和集成，涉及生产环节，并计划采购生产设备。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "基于气体动理学的流体仿真内核",
+      "asset_type": "core_technology",
+      "related_product": "流体仿真软件",
+      "quantitative_info": null,
+      "quote": "包括三维CAD for CAE内核建模技术、三维轻量化与沉浸式后处理显示技术、基于气体动理学的流体仿真内核...等十四项核心技术"
+    },
+    {
+      "name": "基于光滑粒子流体动力学的水动力仿真内核",
+      "asset_type": "core_technology",
+      "related_product": "水动力学分析软件",
+      "quantitative_info": null,
+      "quote": "包括...基于光滑粒子流体动力学的水动力仿真内核...等十四项核心技术"
+    },
+    {
+      "name": "物理AI",
+      "asset_type": "core_technology",
+      "related_product": "开物平台",
+      "quantitative_info": null,
+      "quote": "包括...物理AI等十四项核心技术"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得117个",
+      "quote": "发明专利 ... 获得数（个） 17 ... 累计数量 获得数（个） 117"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "累计获得797个",
+      "quote": "软件著作权 ... 获得数（个） 54 ... 累计数量 获得数（个） 797"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": "工程仿真软件（单一学科仿真软件、多学科仿真软件、工程仿真优化系统），仿真产品开发",
+      "quantitative_info": null,
+      "quote": "认定主体 上海索辰信息科技股份有限公司 认定称号 国家级专精特新“小巨人”企业 认定年度 2024年度"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "8,976.33万元，占年度销售总额19.28%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额8,976.33万元，占年度销售总额19.28%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "8,178.21万元，占年度采购总额30.35%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额8,178.21万元，占年度采购总额30.35%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "研发失败风险。相对于一般软件，CAE软件技术门槛高、涉及学科广、研发难度大、体系设计复杂、研发周期长...若公司产品研发和技术升级不符合行业发展趋势，无法满足市场需求，研发成果未达预期甚至研发失败，可能无法继续保持较高的市场竞争力，丢失市场份额，对未来业务发展造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、研发失败风险...若公司产品研发和技术升级不符合行业发展趋势，无法满足市场需求，研发成果未达预期甚至研发失败，可能无法继续保持较高的市场竞争力，丢失市场份额，对未来业务发展造成不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才流失及技术人员成本上升风险。公司作为知识密集型企业，高素质的技术人员是企业的核心竞争力之一...若公司不能维持研发人员的稳定性并不断吸引行业优秀人才加盟，公司可能无法保持现有的技术竞争优势，将会对公司经营发展产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、人才流失及技术人员成本上升风险...若公司不能维持研发人员的稳定性并不断吸引行业优秀人才加盟，公司可能无法保持现有的技术竞争优势，将会对公司经营发展产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "业务开拓风险。公司下游客户主要集中于军工领域...若公司军工领域客户采购预算大幅下降或公司未能继续维持与主要客户的合作关系，将给公司业绩带来显著不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、业务开拓风险...若公司军工领域客户采购预算大幅下降或公司未能继续维持与主要客户的合作关系，将给公司业绩带来显著不利影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司下游客户主要为军工单位及科研院所等，此类客户出于其项目成本预决算管理目的，大部分会在下半年加快推进其项目的进度，并通常于第四季度集中验收结算，使得公司下半年收入规模整体上优于上半年，具有一定季节性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、收入存在年度和季节性波动的风险...公司下游客户主要为军工单位及科研院所等，此类客户出于其项目成本预决算管理目的，大部分会在下半年加快推进其项目的进度，并通常于第四季度集中验收结算，使得公司下半年收入规模整体上优于上半年，具有一定季节性。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧的风险。近年来，国家大力倡导工业软件自主可控，鼓励和引导资本进入工业软件领域。大量市场参与者或将涌现，加剧市场竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争加剧的风险...近年来，国家大力倡导工业软件自主可控，鼓励和引导资本进入工业软件领域。大量市场参与者或将涌现，加剧市场竞争。"
+    }
+  ]
+}

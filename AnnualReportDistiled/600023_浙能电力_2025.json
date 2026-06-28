@@ -1,0 +1,371 @@
+{
+  "company_name_mentioned": "浙江浙能电力股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "66,647,763,063.12元",
+      "quote": "电力 66,647,763,063.12"
+    },
+    {
+      "name": "蒸汽",
+      "type": "service",
+      "revenue_proportion": "6,222,382,362.79元",
+      "quote": "蒸汽 6,222,382,362.79"
+    },
+    {
+      "name": "光伏产品",
+      "type": "device",
+      "revenue_proportion": "2,369,281,843.31元",
+      "quote": "光伏产品 2,369,281,843.31"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料及备件",
+      "target_product": "电力、热力产品",
+      "cost_proportion": "49,365,007,880.88元，占电力、热力生产及供应总成本的74.78%",
+      "quote": "燃料及备件 49,365,007,880.88 74.78"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "光伏产品",
+      "cost_proportion": "3,552,042,395.42元，占光伏制造总成本的100%",
+      "quote": "光伏制造 直接材料 3,552,042,395.42"
+    },
+    {
+      "name": "长期资产折旧及摊销",
+      "target_product": "电力、热力产品",
+      "cost_proportion": "6,011,804,961.38元，占电力、热力生产及供应总成本的9.11%",
+      "quote": "长期资产折旧及摊销 6,011,804,961.38 9.11"
+    },
+    {
+      "name": "其他",
+      "target_product": "电力、热力产品",
+      "cost_proportion": "7,085,419,994.05元，占电力、热力生产及供应总成本的10.73%",
+      "quote": "其他 7,085,419,994.05 10.73"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网供电",
+      "source_product": "电力",
+      "quote": "公司电力销售客户主要为国家电网有限公司各相关区域公司"
+    },
+    {
+      "name": "工业供热",
+      "source_product": "蒸汽",
+      "quote": "实现用户侧供热量3548.72万吨"
+    },
+    {
+      "name": "太阳能发电",
+      "source_product": "光伏产品（电池、组件、背板）",
+      "quote": "中来股份主要开展光伏辅材、高效电池及组件、光伏应用业务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘为民",
+      "role": "董事长、总经理、法定代表人、党委书记",
+      "quote": "公司负责人刘为民、主管会计工作负责人胡俊涛及会计机构负责人（会计主管人员）方小明声明"
+    },
+    {
+      "name": "徐水良",
+      "role": "总经理、党委副书记、董事",
+      "quote": "总经理 徐水良"
+    },
+    {
+      "name": "魏峥",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 姓名 魏峥"
+    },
+    {
+      "name": "胡俊涛",
+      "role": "副总经理、财务总监、主管会计工作负责人",
+      "quote": "主管会计工作负责人胡俊涛"
+    },
+    {
+      "name": "方小明",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）方小明"
+    },
+    {
+      "name": "王智化",
+      "role": "独立董事",
+      "quote": "王智化 独立董事"
+    },
+    {
+      "name": "倪晨凯",
+      "role": "独立董事",
+      "quote": "倪晨凯 独立董事"
+    },
+    {
+      "name": "朱青国",
+      "role": "副总经理",
+      "quote": "朱青国 副总经理"
+    },
+    {
+      "name": "刘宏芳",
+      "role": "副总经理、安全总监",
+      "quote": "刘宏芳 副总经理、安全总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江省能源集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东浙能集团是拥有能源全品类的现代综合能源集团"
+    },
+    {
+      "name": "苏州中来光伏新材股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要开展光伏辅材、高效电池及组件、光伏应用业务",
+      "quote": "2023年，公司取得中来股份控制权，中来股份为深圳证券交易所创业板上市公司（证券代码：300393.SZ），主要开展光伏辅材、高效电池及组件、光伏应用业务"
+    },
+    {
+      "name": "中国核能电力股份有限公司",
+      "relation_type": "investee",
+      "business_details": "参股公司，投资核电业务",
+      "quote": "参股中国核电以及秦山核电、核电秦山联营、秦山第三核电、三门核电、中核辽宁核电、中核海洋核动力、中核浙能、中国聚变公司、中广核苍南核电、中广核苍南第二核电、国核浙能等核电公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "主要电力销售客户",
+      "quote": "前五名客户销售额6,929,615.70万元，占年度销售总额87.19%；其中前五名客户销售额中关联方销售额170,762.13万元，占年度销售总额2.15%。序号 客户名称 销售额 占年度销售总额比例（%） 1 国家电网有限公司 6,675,157.23 83.99"
+    },
+    {
+      "name": "浙江省能源集团财务有限责任公司",
+      "relation_type": "investee",
+      "business_details": "联营公司，提供存款、贷款等金融服务",
+      "quote": "母公司浙江省能源集团财务有限责任公司的控股子公司、公司的联营公司"
+    },
+    {
+      "name": "中国聚变能源有限公司",
+      "relation_type": "investee",
+      "business_details": "参股公司，布局核聚变能源领域",
+      "quote": "参股中国聚变公司5%股权，前瞻布局核聚变能源领域"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力、热力生产及供应",
+      "segment_type": "product_line",
+      "revenue_amount": "72,870,145,425.91元",
+      "revenue_proportion": null,
+      "gross_margin": "14.28%",
+      "yoy_change": null,
+      "quote": "电力、热力生产及供应 72,870,145,425.91 ... 14.28"
+    },
+    {
+      "name": "光伏制造",
+      "segment_type": "product_line",
+      "revenue_amount": "2,369,281,843.31元",
+      "revenue_proportion": null,
+      "gross_margin": "-49.92%",
+      "yoy_change": null,
+      "quote": "光伏制造 2,369,281,843.31 ... -49.92"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "74,153,253,047.53元",
+      "revenue_proportion": null,
+      "gross_margin": "12.86%",
+      "yoy_change": null,
+      "quote": "境内 74,153,253,047.53 ... 12.86"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,086,174,221.69元",
+      "revenue_proportion": null,
+      "gross_margin": "-28.74%",
+      "yoy_change": null,
+      "quote": "境外 1,086,174,221.69 ... -28.74"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "18,328,427.23万千瓦时",
+      "period": "2025年",
+      "quote": "生产量 销售量 库存量 电力 万千瓦时 18,328,427.23"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "17,371,982.51万千瓦时",
+      "period": "2025年",
+      "quote": "生产量 销售量 库存量 电力 万千瓦时 ... 17,371,982.51"
+    },
+    {
+      "product": "热力",
+      "metric_type": "production_volume",
+      "value": "3548.72万吨",
+      "period": "2025年",
+      "quote": "生产量 销售量 库存量 热力 万吨 3548.72"
+    },
+    {
+      "product": "背板",
+      "metric_type": "production_volume",
+      "value": "6899.62万平方米",
+      "period": "2025年",
+      "quote": "生产量 销售量 库存量 背板 万平方米 6899.62"
+    },
+    {
+      "product": "电池",
+      "metric_type": "production_volume",
+      "value": "814.68MW",
+      "period": "2025年",
+      "quote": "生产量 销售量 库存量 电池 MW 814.68"
+    },
+    {
+      "product": "组件",
+      "metric_type": "production_volume",
+      "value": "2082.22MW",
+      "period": "2025年",
+      "quote": "生产量 销售量 库存量 组件 MW 2082.22"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "4103.66万千瓦",
+      "period": "2025年末",
+      "quote": "2025年末公司管理机组总装机容量4103.66万千瓦"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "嘉兴9号机组",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "嘉兴9号、台二3号、镇海燃气4号、滨电9号、镇联电迁建7号机组建成投产"
+    },
+    {
+      "name": "台二3号机组",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "嘉兴9号、台二3号、镇海燃气4号、滨电9号、镇联电迁建7号机组建成投产"
+    },
+    {
+      "name": "镇海燃气4号机组",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "嘉兴9号、台二3号、镇海燃气4号、滨电9号、镇联电迁建7号机组建成投产"
+    },
+    {
+      "name": "台二二期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "资本性支出主要用于",
+      "expected_completion_time": null,
+      "quote": "本期公司资本性支出主要用于台二二期、嘉兴四期等项目"
+    },
+    {
+      "name": "嘉兴四期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "资本性支出主要用于",
+      "expected_completion_time": null,
+      "quote": "本期公司资本性支出主要用于台二二期、嘉兴四期等项目"
+    },
+    {
+      "name": "柯坪37万千瓦光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "37万千瓦",
+      "progress": "完工转固",
+      "expected_completion_time": null,
+      "quote": "主要系台二电厂3号机组、嘉华电厂9号机组、柯坪37万千瓦光伏发电项目等大型基建项目完工转固"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "核聚变能源技术投资",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "参股中国聚变公司5%股权",
+      "quote": "参股中国聚变公司5%股权，前瞻布局核聚变能源领域"
+    },
+    {
+      "name": "虚拟电厂技术平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": "聚合容量规模达205MW",
+      "quote": "浙能能服虚拟电厂获调峰调频双重注册认证，聚合容量规模达205MW"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "6,929,615.70万元，占年度销售总额87.19%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额6,929,615.70万元，占年度销售总额87.19%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "6,675,157.23万元，占年度销售总额比例83.99%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额 占年度销售总额比例（%） 1 国家电网有限公司 6,675,157.23 83.99"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "3,332,892.02万元，占年度采购总额47.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额3,332,892.02万元，占年度采购总额47.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "电力市场竞争及电价市场化形成机制的风险。随着电力体制改革的深入，电力市场竞争加剧，发电企业的经营压力加大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、电力市场竞争及电价市场化形成机制的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险。煤炭成本在燃煤发电企业的发电成本中占比较大，煤炭价格的波动将对燃煤发电企业的盈利产生直接影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、原材料价格波动的风险。煤炭成本在燃煤发电企业的发电成本中占比较大，煤炭价格的波动将对燃煤发电企业的盈利产生直接影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "发电份额受到清洁能源挤占的风险。在“碳达峰碳中和”的大背景下，实现清洁替代、逐步降低煤电装机占比是大势所趋，公司装机结构中煤电占比高，低碳转型压力大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、发电份额受到清洁能源挤占的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济增速和用电需求增速下降的风险。发电作为国民经济的基础性产业，与宏观经济密切相关，电力需求增速的下降对发电企业的盈利将产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济增速和用电需求增速下降的风险。"
+    }
+  ]
+}

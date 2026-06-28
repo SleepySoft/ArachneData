@@ -1,0 +1,467 @@
+{
+  "company_name_mentioned": "深圳市汇创达科技股份有限公司",
+  "produces": [
+    {
+      "name": "导光膜",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "将LED点光源转换为面光源，从而实现指定区域发光的薄膜零件"
+    },
+    {
+      "name": "背光模组",
+      "type": "component",
+      "revenue_proportion": "占营业收入比重 25.44%",
+      "quote": "由导光膜、FPC、LED、遮光膜和反射膜等组合的模组件，能根据客户的需求灵活调整亮度、均匀度等光学参数，且具备超薄、节能等优点"
+    },
+    {
+      "name": "笔记本电脑miniLED背光模组",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "能根据客户的需求灵活调整亮度、均匀度等光学参数，具备超薄、节能等优点"
+    },
+    {
+      "name": "金属薄膜开关",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "以PET膜作为电路图形载体，并贴装金属弹片的一种结构件产品"
+    },
+    {
+      "name": "超小型防水轻触开关",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "由底座、金属弹片、触点和薄膜组成的超小型开关。具有密封性好,按压寿命长且防尘防水等特点"
+    },
+    {
+      "name": "精密连接器（包含消费电子用连接器和新能源用连接器）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "精密连接器作为构成整机电路系统电气连接必需的基础元件之一，具有小型化、高精度、高速传输等特点"
+    },
+    {
+      "name": "CCS模组",
+      "type": "component",
+      "revenue_proportion": "占营业收入比重 6.63%",
+      "quote": "一种新型的应用在锂电池模组上的连接排，由金属电连接系统、信号采样系统和绝缘系统等多系统构成的集成组件"
+    },
+    {
+      "name": "支撑膜模切件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "柔性OLED屏内使用的功能膜，在模组生产中用于支撑柔性OLED基板，由于上层被贴合的PI基材及显示部分，非常薄且柔软易卷曲，支撑膜给整个模组起到了增加挺度以及保护PI层，避免被划伤的功能"
+    },
+    {
+      "name": "偏光片模切件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "偏光片全称为偏振光片，是LCD显示和OLED显示面板的核心材料，在液晶显示面板中的主要作用是使非偏极光（如自然光）产生偏极化，转变成偏振光，加上液晶分子扭转特性，达到控制光线通过与否的功能，起到光开关的作用"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子元器件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产经营采购的主要原材料包括电子元器件、膜材类、五金原料、铝巴类、光学基材等"
+    },
+    {
+      "name": "膜材类",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产经营采购的主要原材料包括电子元器件、膜材类、五金原料、铝巴类、光学基材等"
+    },
+    {
+      "name": "五金原料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产经营采购的主要原材料包括电子元器件、膜材类、五金原料、铝巴类、光学基材等"
+    },
+    {
+      "name": "铝巴类",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产经营采购的主要原材料包括电子元器件、膜材类、五金原料、铝巴类、光学基材等"
+    },
+    {
+      "name": "光学基材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司生产经营采购的主要原材料包括电子元器件、膜材类、五金原料、铝巴类、光学基材等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "笔记本电脑键盘背光",
+      "source_product": "背光模组",
+      "quote": "笔记本电脑键盘背光模组、笔记本电脑miniLED背光模组等，产品下游应用方向包括笔记本电脑键盘背光模组、笔记本电脑miniLED背光模组等领域"
+    },
+    {
+      "name": "智能手机",
+      "source_product": "金属薄膜开关、超小型防水轻触开关、精密连接器",
+      "quote": "智能手机、可穿戴设备等按键开关部位等"
+    },
+    {
+      "name": "笔记本电脑ClickPad按键",
+      "source_product": "金属薄膜开关",
+      "quote": "笔记本电脑ClickPad按键"
+    },
+    {
+      "name": "各类家用电器控制面板及遥控器",
+      "source_product": "金属薄膜开关",
+      "quote": "各类家用电器面板及遥控器"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "CCS模组、新能源用连接器",
+      "quote": "主要应用于新能源汽车及储能领域"
+    },
+    {
+      "name": "储能电池",
+      "source_product": "CCS模组",
+      "quote": "主要应用于新能源汽车及储能领域"
+    },
+    {
+      "name": "笔记本电脑面板",
+      "source_product": "支撑膜模切件、偏光片模切件",
+      "quote": "主要产品可应用于电子设备，如智能手机、平板电脑和笔记本电脑等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李明",
+      "role": "董事长、总经理",
+      "quote": "公司负责人李明、主管会计工作负责人任庆及会计机构负责人(会计主管人员)缪小宇声明"
+    },
+    {
+      "name": "董芳梅",
+      "role": "董事",
+      "quote": "共同实际控制人为李明、董芳梅夫妇"
+    },
+    {
+      "name": "郝瑶",
+      "role": "董事、副总经理",
+      "quote": "2022年5月起，任公司副总经理；2025年8月6日起，任公司职工代表董事"
+    },
+    {
+      "name": "许文龙",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书 许文龙"
+    },
+    {
+      "name": "任庆",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人任庆"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "传音控股股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "传音 指 深圳传音控股股份有限公司"
+    },
+    {
+      "name": "华为技术有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "华为 指 华为技术有限公司"
+    },
+    {
+      "name": "荣耀终端股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "荣耀 指 荣耀终端股份有限公司"
+    },
+    {
+      "name": "OPPO广东移动通信有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "OPPO 指 OPPO广东移动通信有限公司"
+    },
+    {
+      "name": "小米科技有限责任公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "小米 指 小米科技有限责任公司"
+    },
+    {
+      "name": "比亚迪股份有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "比亚迪 指 比亚迪股份有限公司"
+    },
+    {
+      "name": "东莞市信为兴电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，专注于精密连接器及精密五金的研发、设计、生产及销售。",
+      "quote": "信为兴 指 东莞市信为兴电子有限公司，为公司的全资子公司"
+    },
+    {
+      "name": "东莞市聚明电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要从事金属薄膜开关和超小型防水轻触开关的研发、生产和销售。",
+      "quote": "东莞聚明 指 东莞市聚明电子科技有限公司，为公司的全资子公司"
+    },
+    {
+      "name": "武汉鑫富艺光电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要从事支撑膜和偏光片产品的模切加工、对外销售及相关模切技术的研发。",
+      "quote": "鑫富艺 指 武汉鑫富艺光电有限公司，为公司的全资子公司"
+    },
+    {
+      "name": "东莞市汇创新能电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要从事动力电池、储能电池及3C电池用CCS模组的研发、设计、生产和销售。",
+      "quote": "汇创新能 指 东莞市汇创新能电子科技有限公司，为公司的全资子公司"
+    },
+    {
+      "name": "深圳市博洋精密科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，致力于生产自动化设备的研发和制造。",
+      "quote": "博洋精密 指 深圳市博洋精密科技有限公司，为公司的控股子公司"
+    },
+    {
+      "name": "东莞市汇亿达通信科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，聚焦3C电子、汽车零部件等领域，推动增材制造（3D打印）业务规模化发展。",
+      "quote": "东莞汇亿达 指 东莞市汇亿达通信科技有限公司，2026年3月27日更名为东莞汇亿达科技有限公司，为公司的控股子公司"
+    },
+    {
+      "name": "深圳市众合通投资咨询企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "共同实际控制人董芳梅担任执行事务合伙人。",
+      "quote": "宁波通慕 指 宁波通慕创业投资合伙企业（有限合伙），曾用名厦门众合通投资合伙企业（有限合伙）、深圳市众合通投资咨询企业（有限合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "计算机、通信和其他电子设备制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,487,627,114.91元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "25.32%",
+      "yoy_change": "0.95%",
+      "quote": "分行业计算机、通信和其他电子设备制造业"
+    },
+    {
+      "name": "导光结构件及组件",
+      "segment_type": "product_line",
+      "revenue_amount": "378,440,286.57元",
+      "revenue_proportion": "25.44%",
+      "gross_margin": "35.21%",
+      "yoy_change": "3.15%",
+      "quote": "分产品导光结构件及组件"
+    },
+    {
+      "name": "信号传输元器件及组件",
+      "segment_type": "product_line",
+      "revenue_amount": "705,980,326.33元",
+      "revenue_proportion": "47.46%",
+      "gross_margin": "26.64%",
+      "yoy_change": "10.34%",
+      "quote": "分产品信号传输元器件及组件"
+    },
+    {
+      "name": "代工业务",
+      "segment_type": "product_line",
+      "revenue_amount": "81,073,433.77元",
+      "revenue_proportion": "5.45%",
+      "gross_margin": "4.39%",
+      "yoy_change": "-70.61%",
+      "quote": "分产品代工业务"
+    },
+    {
+      "name": "新能源结构组件",
+      "segment_type": "product_line",
+      "revenue_amount": "98,645,889.57元",
+      "revenue_proportion": "6.63%",
+      "gross_margin": "4.08%",
+      "yoy_change": "83.76%",
+      "quote": "分产品新能源结构组件"
+    },
+    {
+      "name": "光学膜片",
+      "segment_type": "product_line",
+      "revenue_amount": "178,091,592.22元",
+      "revenue_proportion": "11.97%",
+      "gross_margin": "19.48%",
+      "yoy_change": "363.64%",
+      "quote": "分产品光学膜片"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "45,395,586.45元",
+      "revenue_proportion": "3.05%",
+      "gross_margin": "28.86%",
+      "yoy_change": "-54.10%",
+      "quote": "分产品其他业务"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,437,484,299.00元",
+      "revenue_proportion": "96.63%",
+      "gross_margin": "24.75%",
+      "yoy_change": "0.37%",
+      "quote": "分地区境内"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "50,142,815.91元",
+      "revenue_proportion": "3.37%",
+      "gross_margin": "41.60%",
+      "yoy_change": "21.15%",
+      "quote": "分地区境外"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "计算机、通信和其他电子设备制造业",
+      "metric_type": "sales_volume",
+      "value": "9,126,458,861.51片",
+      "period": "2025年",
+      "quote": "销售量 片 9,126,458,861.51"
+    },
+    {
+      "product": "计算机、通信和其他电子设备制造业",
+      "metric_type": "production_volume",
+      "value": "10,101,633,748.00片",
+      "period": "2025年",
+      "quote": "生产量 片 10,101,633,748.00"
+    },
+    {
+      "product": "计算机、通信和其他电子设备制造业",
+      "metric_type": "inventory_volume",
+      "value": "1,808,176,970.85片",
+      "period": "2025年末",
+      "quote": "库存量 片 1,808,176,970.85"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "导光结构件及信号传输元器件扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "东莞市",
+      "investment_amount": "23,080.30万元",
+      "designed_capacity": null,
+      "progress": "延期至2026年12月31日",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "公司于2025年12月12日召开第四届董事会第九次会议，审议通过了《关于部分募集资金投资项目延期的议案》，同意公司在募集资金投资项目实施主体、建设内容、投资总额不变的情况下，将“导光结构件及信号传输元器件扩建项目”达到预定可使用状态日期延期至2026年12月31日。"
+    },
+    {
+      "name": "动力电池及储能电池系统用CCS及FPC模组建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "17,797.40万元（累计投入）",
+      "designed_capacity": null,
+      "progress": "达到预定可使用状态，已结项",
+      "expected_completion_time": null,
+      "quote": "鉴于“动力电池及储能电池系统用CCS及FPC模组建设项目”达到预定可使用状态，募集资金使用完毕，公司拟对该项目进行结项。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "有效数量378件，其中发明专利82件，实用新型专利292件，外观专利1件，美国专利2件，欧盟专利1件",
+      "quote": "截至2025年12月31日，公司及子公司共获取各类生产经营相关的专利有效数量378件，其中发明专利82件，实用新型专利292件，外观专利1件，美国专利2件，欧盟专利1件。"
+    },
+    {
+      "name": "LGP生产加工技术",
+      "asset_type": "process_technology",
+      "related_product": "导光板",
+      "quantitative_info": null,
+      "quote": "掌握了LGP生产加工技术、全自动纳米点热压冲切一体化技术等核心技术。"
+    },
+    {
+      "name": "全自动纳米点热压冲切一体化技术",
+      "asset_type": "process_technology",
+      "related_product": "背光模组",
+      "quantitative_info": null,
+      "quote": "掌握了LGP生产加工技术、全自动纳米点热压冲切一体化技术等核心技术。"
+    },
+    {
+      "name": "ISO9001",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司被授予国家高新技术企业,已获得ISO9001、ISO14001、ISO45001、QCO80000、IATF16949体系认证证书及ISO14064、ISO14067两个资源再生证书"
+    },
+    {
+      "name": "IATF16949",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司被授予国家高新技术企业,已获得ISO9001、ISO14001、ISO45001、QCO80000、IATF16949体系认证证书及ISO14064、ISO14067两个资源再生证书"
+    },
+    {
+      "name": "防水陶瓷Type-C连接器技术",
+      "asset_type": "core_technology",
+      "related_product": "精密连接器",
+      "quantitative_info": null,
+      "quote": "掌握了防水陶瓷Type-C连接器技术等核心技术。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "33.79%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 33.79%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "23.57%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 23.57%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "10.09%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 150,138,964.61 10.09%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "5.72%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 53,308,991.45 5.72%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料采购价格发生大幅波动，则可能导致公司的采购、销售存在一定的不确定性，进而对公司的生产经营造成不利影响。",
+      "related_entity": null,
+      "related_product": "电子元器件、膜材类、五金原料、铝巴类、光学基材",
+      "quote": "原材料价格波动的风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口业务主要以美元结算。若未来人民币汇率出现急剧大幅的不利波动，则有可能会对当期利润产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "重要子公司东莞市信为兴电子有限公司虽收入增长，但受市场竞争加剧、原材料成本上涨及自身投入增加等多重因素影响，利润下滑，并因此判断商誉出现减值现象，计提商誉减值。",
+      "related_entity": "东莞市信为兴电子有限公司",
+      "related_product": null,
+      "quote": "核心子公司承压：重要子公司东莞市信为兴电子有限公司虽收入增长，但受市场竞争加剧、原材料成本上涨及自身投入增加等多重因素影响，利润下滑，并因此判断商誉出现减值现象，计提商誉减值。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司目前处于快速发展期，子公司管理、工程项目建设以及新增员工均需要投入一定的管理资源对其进行管理和培育。...如果未来公司的生产管理水平、销售管理、质量控制等能力和人才储备不能适应其业务规模扩张的需要，公司将面临管理风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经营规模扩张带来的管理风险"
+    }
+  ]
+}

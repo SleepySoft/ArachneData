@@ -1,0 +1,493 @@
+{
+  "company_name_mentioned": "深圳市铭利达精密技术股份有限公司",
+  "produces": [
+    {
+      "name": "精密压铸结构件",
+      "type": "component",
+      "revenue_proportion": "45.82%",
+      "quote": "精密压铸结构件 ... 营业收入 ... 占营业收入比重 ... 45.82%"
+    },
+    {
+      "name": "精密注塑结构件",
+      "type": "component",
+      "revenue_proportion": "18.96%",
+      "quote": "精密注塑结构件 ... 营业收入 ... 占营业收入比重 ... 18.96%"
+    },
+    {
+      "name": "型材冲压结构件",
+      "type": "component",
+      "revenue_proportion": "30.94%",
+      "quote": "型材冲压结构件 ... 营业收入 ... 占营业收入比重 ... 30.94%"
+    },
+    {
+      "name": "精密模具",
+      "type": "device",
+      "revenue_proportion": "3.18%",
+      "quote": "精密模具 ... 营业收入 ... 占营业收入比重 ... 3.18%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铝锭",
+      "target_product": "精密压铸结构件、型材冲压结构件",
+      "cost_proportion": null,
+      "quote": "公司主要原材料为铝锭、塑胶粒、铝挤压材等，直接材料占主营业务成本比例较高"
+    },
+    {
+      "name": "塑胶粒",
+      "target_product": "精密注塑结构件",
+      "cost_proportion": null,
+      "quote": "公司主要原材料为铝锭、塑胶粒、铝挤压材等，直接材料占主营业务成本比例较高"
+    },
+    {
+      "name": "铝挤压材",
+      "target_product": "型材冲压结构件",
+      "cost_proportion": null,
+      "quote": "公司主要原材料为铝锭、塑胶粒、铝挤压材等，直接材料占主营业务成本比例较高"
+    }
+  ],
+  "applications": [
+    {
+      "name": "新能源汽车",
+      "source_product": "精密结构件、模具",
+      "quote": "公司产品的应用领域主要包括新能源汽车、光伏、储能等"
+    },
+    {
+      "name": "光伏",
+      "source_product": "精密结构件、模具",
+      "quote": "公司产品的应用领域主要包括新能源汽车、光伏、储能等"
+    },
+    {
+      "name": "储能",
+      "source_product": "精密结构件、模具",
+      "quote": "公司产品的应用领域主要包括新能源汽车、光伏、储能等"
+    },
+    {
+      "name": "安防",
+      "source_product": "精密结构件、模具",
+      "quote": "从涉及行业来看，公司产品的应用领域主要包括新能源汽车、光伏、储能等 ... 安防"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "精密结构件、模具",
+      "quote": "从涉及行业来看，公司产品的应用领域主要包括新能源汽车、光伏、储能等 ... 新型消费类电子行业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陶诚",
+      "role": "董事长、总经理",
+      "quote": "陶诚先生 ... 2019年11月至今任公司董事长、总经理"
+    },
+    {
+      "name": "张贤明",
+      "role": "董事、副总经理",
+      "quote": "张贤明先生 ... 2019年11月至今任公司董事、副总经理"
+    },
+    {
+      "name": "杨德诚",
+      "role": "董事、董事会秘书",
+      "quote": "杨德诚先生 ... 现任公司董事、董事会秘书"
+    },
+    {
+      "name": "韩芳",
+      "role": "董事、财务总监",
+      "quote": "韩芳女士 ... 2024年7月至今担任公司财务总监，现任公司董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "江苏铭利达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "精密结构件生产、销售",
+      "quote": "江苏铭利达 指 江苏铭利达科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "四川铭利达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "四川铭利达 指 四川铭利达科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "香港铭利达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "香港铭利达 指 香港铭利达科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "广东铭利达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "精密结构件生产、销售",
+      "quote": "广东铭利达 指 广东铭利达科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "肇庆铭利达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "有色金属合金制造",
+      "quote": "肇庆铭利达 指 肇庆铭利达科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "重庆铭利达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "精密结构件生产、销售",
+      "quote": "重庆铭利达 指 重庆铭利达科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "江西铭利达科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "江西铭利达 指 江西铭利达科技有限公司，本公司全资子公司"
+    },
+    {
+      "name": "顺博铝合金",
+      "relation_type": "supplier",
+      "business_details": "原材料供应商",
+      "quote": "1 顺博铝合金 234,875,959.73 8.16%"
+    },
+    {
+      "name": "广东隆达铝业有限公司",
+      "relation_type": "supplier",
+      "business_details": "原材料供应商",
+      "quote": "2 广东隆达铝业有限公司 162,648,150.72 5.65%"
+    },
+    {
+      "name": "重庆天启铝业有限公司",
+      "relation_type": "supplier",
+      "business_details": "原材料供应商",
+      "quote": "3 重庆天启铝业有限公司 92,373,766.96 3.21%"
+    },
+    {
+      "name": "南通众福新材料科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "原材料供应商",
+      "quote": "4 南通众福新材料科技有限公司 92,047,286.24 3.20%"
+    },
+    {
+      "name": "四川三星新材料科技股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "原材料供应商",
+      "quote": "5 四川三星新材料科技股份有限公司 91,006,091.93 3.16%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车",
+      "segment_type": "other",
+      "revenue_amount": "1,649,088,472.17元",
+      "revenue_proportion": "46.89%",
+      "gross_margin": "9.29%",
+      "yoy_change": "17.27%",
+      "quote": "汽车 ... 营业收入 ... 1,649,088,472.17 ... 占营业收入比重 ... 46.89% ... 营业收入比上年同期增减 ... 17.27% ... 毛利率 ... 9.29%"
+    },
+    {
+      "name": "光伏",
+      "segment_type": "other",
+      "revenue_amount": "923,453,690.21元",
+      "revenue_proportion": "26.26%",
+      "gross_margin": "22.01%",
+      "yoy_change": "46.03%",
+      "quote": "光伏 ... 营业收入 ... 923,453,690.21 ... 占营业收入比重 ... 26.26% ... 营业收入比上年同期增减 ... 46.03% ... 毛利率 ... 22.01%"
+    },
+    {
+      "name": "储能",
+      "segment_type": "other",
+      "revenue_amount": "580,732,305.64元",
+      "revenue_proportion": "16.51%",
+      "gross_margin": "15.81%",
+      "yoy_change": "318.56%",
+      "quote": "储能 ... 营业收入 ... 580,732,305.64 ... 占营业收入比重 ... 16.51% ... 营业收入比上年同期增减 ... 318.56% ... 毛利率 ... 15.81%"
+    },
+    {
+      "name": "安防",
+      "segment_type": "other",
+      "revenue_amount": "252,682,078.47元",
+      "revenue_proportion": "7.18%",
+      "gross_margin": null,
+      "yoy_change": "-14.12%",
+      "quote": "安防 ... 营业收入 ... 252,682,078.47 ... 占营业收入比重 ... 7.18% ... 营业收入比上年同期增减 ... -14.12%"
+    },
+    {
+      "name": "消费电子",
+      "segment_type": "other",
+      "revenue_amount": "71,175,507.11元",
+      "revenue_proportion": "2.02%",
+      "gross_margin": null,
+      "yoy_change": "28.22%",
+      "quote": "消费电子 ... 营业收入 ... 71,175,507.11 ... 占营业收入比重 ... 2.02% ... 营业收入比上年同期增减 ... 28.22%"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "2,275,342,726.16元",
+      "revenue_proportion": "64.70%",
+      "gross_margin": "3.53%",
+      "yoy_change": "28.66%",
+      "quote": "境内销售 ... 营业收入 ... 2,275,342,726.16 ... 占营业收入比重 ... 64.70% ... 营业收入比上年同期增减 ... 28.66% ... 毛利率 ... 3.53%"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "1,202,645,757.64元",
+      "revenue_proportion": "34.20%",
+      "gross_margin": "23.90%",
+      "yoy_change": "57.02%",
+      "quote": "境外销售 ... 营业收入 ... 1,202,645,757.64 ... 占营业收入比重 ... 34.20% ... 营业收入比上年同期增减 ... 57.02% ... 毛利率 ... 23.90%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光伏",
+      "metric_type": "sales_volume",
+      "value": "119,515,358 件、套",
+      "period": "2025年",
+      "quote": "光伏 ... 销售量 ... 件、套 ... 119,515,358"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "production_volume",
+      "value": "126,781,659 件、套",
+      "period": "2025年",
+      "quote": "光伏 ... 生产量 ... 件、套 ... 126,781,659"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "inventory_volume",
+      "value": "32,912,983 件、套",
+      "period": "2025年末",
+      "quote": "光伏 ... 库存量 ... 件、套 ... 32,912,983"
+    },
+    {
+      "product": "安防",
+      "metric_type": "sales_volume",
+      "value": "72,445,026 件、套",
+      "period": "2025年",
+      "quote": "安防 ... 销售量 ... 件、套 ... 72,445,026"
+    },
+    {
+      "product": "安防",
+      "metric_type": "production_volume",
+      "value": "63,825,974 件、套",
+      "period": "2025年",
+      "quote": "安防 ... 生产量 ... 件、套 ... 63,825,974"
+    },
+    {
+      "product": "安防",
+      "metric_type": "inventory_volume",
+      "value": "3,129,857 件、套",
+      "period": "2025年末",
+      "quote": "安防 ... 库存量 ... 件、套 ... 3,129,857"
+    },
+    {
+      "product": "汽车",
+      "metric_type": "sales_volume",
+      "value": "45,493,212 件、套",
+      "period": "2025年",
+      "quote": "汽车 ... 销售量 ... 件、套 ... 45,493,212"
+    },
+    {
+      "product": "汽车",
+      "metric_type": "production_volume",
+      "value": "50,590,701 件、套",
+      "period": "2025年",
+      "quote": "汽车 ... 生产量 ... 件、套 ... 50,590,701"
+    },
+    {
+      "product": "汽车",
+      "metric_type": "inventory_volume",
+      "value": "20,108,499 件、套",
+      "period": "2025年末",
+      "quote": "汽车 ... 库存量 ... 件、套 ... 20,108,499"
+    },
+    {
+      "product": "消费电子",
+      "metric_type": "sales_volume",
+      "value": "2,154,635 件、套",
+      "period": "2025年",
+      "quote": "消费电子 ... 销售量 ... 件、套 ... 2,154,635"
+    },
+    {
+      "product": "消费电子",
+      "metric_type": "production_volume",
+      "value": "2,144,236 件、套",
+      "period": "2025年",
+      "quote": "消费电子 ... 生产量 ... 件、套 ... 2,144,236"
+    },
+    {
+      "product": "消费电子",
+      "metric_type": "inventory_volume",
+      "value": "550,556 件、套",
+      "period": "2025年末",
+      "quote": "消费电子 ... 库存量 ... 件、套 ... 550,556"
+    },
+    {
+      "product": "储能",
+      "metric_type": "sales_volume",
+      "value": "9,387,000 件、套",
+      "period": "2025年",
+      "quote": "储能 ... 销售量 ... 件、套 ... 9,387,000"
+    },
+    {
+      "product": "储能",
+      "metric_type": "production_volume",
+      "value": "10,042,502 件、套",
+      "period": "2025年",
+      "quote": "储能 ... 生产量 ... 件、套 ... 10,042,502"
+    },
+    {
+      "product": "储能",
+      "metric_type": "inventory_volume",
+      "value": "655,502 件、套",
+      "period": "2025年末",
+      "quote": "储能 ... 库存量 ... 件、套 ... 655,502"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "轻量化铝镁合金精密结构件及塑胶件智能制造项目",
+      "project_type": "capacity_expansion",
+      "location": "江苏省",
+      "investment_amount": "48,123.36万元",
+      "designed_capacity": null,
+      "progress": "投资进度87.67%，多次延期，最新预计2026年12月达到可使用状态",
+      "expected_completion_time": "2026年12月",
+      "quote": "承诺投资项目 ... 轻量化铝镁合金精密结构件及塑胶件智能制造项目 ... 承诺投资总额48,123.36万元 ... 截至期末累计投入金额42,190.97万元 ... 投资进度87.67% ... 2026年12月达到可使用状态"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "9,988.06万元",
+      "designed_capacity": null,
+      "progress": "投资进度83.04%，多次延期，最新预计2026年12月达到可使用状态",
+      "expected_completion_time": "2026年12月",
+      "quote": "承诺投资项目 ... 研发中心建设项目 ... 承诺投资总额9,988.06万元 ... 截至期末累计投入金额8,293.97万元 ... 投资进度83.04% ... 2026年12月达到可使用状态"
+    },
+    {
+      "name": "铭利达重庆精密结构件及装备研发生产项目（二期）",
+      "project_type": "capacity_expansion",
+      "location": "重庆市",
+      "investment_amount": "17,772.64万元（超募资金）",
+      "designed_capacity": null,
+      "progress": "投资进度49.07%，多次延期，最新预计2027年4月达到可使用状态",
+      "expected_completion_time": "2027年4月",
+      "quote": "超募资金投向 ... 铭利达重庆精密结构件及装备研发生产项目（二期） ... 承诺投资总额17,772.64万元 ... 截至期末累计投入金额8,721.04万元 ... 投资进度49.07% ... 2027年4月达到可使用状态"
+    },
+    {
+      "name": "铭利达江西信丰精密结构件生产基地建设项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "江西省信丰县",
+      "investment_amount": "30,000万元",
+      "designed_capacity": null,
+      "progress": "投资进度75.84%，延期至2026年8月达到可使用状态",
+      "expected_completion_time": "2026年8月",
+      "quote": "承诺投资项目 ... 铭利达江西信丰精密结构件生产基地建设项目（一期） ... 承诺投资总额30,000万元 ... 截至期末累计投入金额22,750.50万元 ... 投资进度75.84% ... 2026年8月达到可使用状态"
+    },
+    {
+      "name": "墨西哥新能源汽车精密结构件生产基地建设项目",
+      "project_type": "capacity_expansion",
+      "location": "墨西哥",
+      "investment_amount": "45,000万元（变更后）",
+      "designed_capacity": null,
+      "progress": "尚未投入募集资金，前期基于谨慎原则考虑国际贸易环境，暂时以部分自有资金投入",
+      "expected_completion_time": "2026年7月",
+      "quote": "承诺投资项目 ... 墨西哥新能源汽车精密结构件生产基地建设项目 ... 承诺投资总额45,000万元 ... 截至期末累计投入金额0.00万元 ... 2026年7月达到可使用状态 ... ‘墨西哥新能源汽车精密结构件生产基地建设项目’前期基于谨慎原则，考虑国际贸易环境，暂时以部分自有资金投入，尚未投入募集资金。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "精密压铸技术",
+      "asset_type": "core_technology",
+      "related_product": "精密压铸结构件",
+      "quantitative_info": null,
+      "quote": "以精密压铸、精密注塑、型材加工和五金冲压技术为基础"
+    },
+    {
+      "name": "精密注塑技术",
+      "asset_type": "core_technology",
+      "related_product": "精密注塑结构件",
+      "quantitative_info": null,
+      "quote": "以精密压铸、精密注塑、型材加工和五金冲压技术为基础"
+    },
+    {
+      "name": "型材加工技术",
+      "asset_type": "core_technology",
+      "related_product": "型材冲压结构件",
+      "quantitative_info": null,
+      "quote": "以精密压铸、精密注塑、型材加工和五金冲压技术为基础"
+    },
+    {
+      "name": "五金冲压技术",
+      "asset_type": "core_technology",
+      "related_product": "型材冲压结构件",
+      "quantitative_info": null,
+      "quote": "以精密压铸、精密注塑、型材加工和五金冲压技术为基础"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "已授权有效的专利达到450多项",
+      "quote": "截至目前，已授权有效的专利达到450多项"
+    },
+    {
+      "name": "光伏逆变器结构件国家级单项冠军",
+      "asset_type": "certification",
+      "related_product": "光伏逆变器结构件",
+      "quantitative_info": null,
+      "quote": "依托光伏逆变器结构件国家级单项冠军优势"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "59.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 ... 59.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "23.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 ... 23.38%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "相对较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司对核心客户销售集中度相对较高"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司对核心客户销售集中度相对较高，若主要客户经营状况发生重大不利变化、采购订单大幅缩减，或新领域、新客户拓展不及预期，将对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、客户集中度较高风险 ... 公司对核心客户销售集中度相对较高，若主要客户经营状况发生重大不利变化、采购订单大幅缩减，或新领域、新客户拓展不及预期，将对公司经营业绩产生不利影响"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料为铝锭、塑胶粒、铝挤压材等，直接材料占主营业务成本比例较高，原材料市场价格波动对公司成本控制及盈利水平影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、原材料价格波动风险 ... 公司主要原材料为铝锭、塑胶粒、铝挤压材等，直接材料占主营业务成本比例较高，原材料市场价格波动对公司成本控制及盈利水平影响较大"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "报告期内公司境外收入占比虽同比有所下降，但海外业务仍占据重要比重。公司与境外客户主要以美元、欧元结算，国内采购多以人民币结算，外币应收账款、货币资金及海外资产将随汇率变动产生汇兑损益。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、汇率波动风险 ... 报告期内公司境外收入占比虽同比有所下降，但海外业务仍占据重要比重。公司与境外客户主要以美元、欧元结算，国内采购多以人民币结算，外币应收账款、货币资金及海外资产将随汇率变动产生汇兑损益"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司已在匈牙利、墨西哥布局海外生产基地，目前尚处于投入期，前期费用较高且存在阶段性亏损情形。当前国际政治经济环境复杂多变，公司海外业务可能面临客户订单下降、贸易壁垒、地缘政治、当地政策法规变动、劳工及税收政策调整等风险，进而影响海外基地运营及业务拓展。此外，海外重点汽车客户因自身经营问题，实际项目进度及订单需求与前期计划存在较大差异，目前存在较大的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、海外市场经营风险 ... 公司已在匈牙利、墨西哥布局海外生产基地，目前尚处于投入期，前期费用较高且存在阶段性亏损情形。当前国际政治经济环境复杂多变，公司海外业务可能面临客户订单下降、贸易壁垒、地缘政治、当地政策法规变动、劳工及税收政策调整等风险，进而影响海外基地运营及业务拓展。此外，海外重点汽车客户因自身经营问题，实际项目进度及订单需求与前期计划存在较大差异，目前存在较大的不确定性。"
+    }
+  ]
+}

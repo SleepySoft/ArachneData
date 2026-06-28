@@ -1,0 +1,315 @@
+{
+  "company_name_mentioned": "上海吉祥航空股份有限公司",
+  "produces": [
+    {
+      "name": "航空客运服务",
+      "type": "service",
+      "revenue_proportion": "航空客运收入占主营业务收入的比例为96.23%",
+      "quote": "航空客运收入214.17亿元，占主营业务收入96.23%"
+    },
+    {
+      "name": "航空货运服务",
+      "type": "service",
+      "revenue_proportion": "航空货运收入占主营业务收入的比例为3.77%",
+      "quote": "航空货运收入8.39亿元，占主营业务收入3.77%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "航空燃油",
+      "target_product": "航空客运与货运服务",
+      "cost_proportion": "航油消耗64.88亿元，占主营业务成本比重为33.11%",
+      "quote": "航油消耗64.88亿元，占主营业务成本比重为33.11%"
+    },
+    {
+      "name": "飞机租赁服务",
+      "target_product": "机队运营",
+      "cost_proportion": "租赁折旧费用占主营业务成本比例为17.54%",
+      "quote": "租赁折旧费用 343,787.99 17.54"
+    },
+    {
+      "name": "飞机维修服务",
+      "target_product": "机队维护",
+      "cost_proportion": "修理费用占主营业务成本比例为5.99%",
+      "quote": "修理费用 117,399.17 5.99"
+    },
+    {
+      "name": "起降服务",
+      "target_product": "航班运营",
+      "cost_proportion": "起降服务费占主营业务成本比例为14.28%",
+      "quote": "起降服务费 279,882.27 14.28"
+    },
+    {
+      "name": "人工成本",
+      "target_product": "全部业务",
+      "cost_proportion": "人工成本占主营业务成本比例为18.76%",
+      "quote": "人工成本 367,575.26 18.76"
+    }
+  ],
+  "applications": [
+    {
+      "name": "旅客出行",
+      "source_product": "航空客运服务",
+      "quote": "公司主营业务为航空客货运输业务"
+    },
+    {
+      "name": "货物运输",
+      "source_product": "航空货运服务",
+      "quote": "经营范围包括国内（含港澳台）航空客货运输业务、国际航空客货运输业务"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王均金",
+      "role": "董事长",
+      "quote": "公司负责人王均金"
+    },
+    {
+      "name": "于成吉",
+      "role": "总裁，主管会计工作负责人",
+      "quote": "主管会计工作负责人于成吉"
+    },
+    {
+      "name": "张言国",
+      "role": "财务负责人（财务总监），会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）张言国"
+    },
+    {
+      "name": "徐骏民",
+      "role": "董事会秘书",
+      "quote": "姓名 徐骏民"
+    },
+    {
+      "name": "夏海兵",
+      "role": "职工董事，副总裁",
+      "quote": "夏海兵先生...现任公司职工董事、副总裁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "九元航空有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司全资子公司，从事低成本航空客货运输业务",
+      "quote": "九元航空、九元 指 九元航空有限公司，本公司全资子公司"
+    },
+    {
+      "name": "上海均瑶（集团）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东，从事投资、货运代理等业务",
+      "quote": "控股股东、均瑶集团 指 上海均瑶（集团）有限公司"
+    },
+    {
+      "name": "东方航空产业投资有限公司",
+      "relation_type": "investor",
+      "business_details": "持有公司12.89%股份的股东",
+      "quote": "东航产投 指 东方航空产业投资有限公司"
+    },
+    {
+      "name": "上海均瑶国际航空旅行社有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事旅行社业务",
+      "quote": "上海均瑶国际航空旅行社有限公司 子公司"
+    },
+    {
+      "name": "上海吉祥航空物流有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事国际货物运输代理等",
+      "quote": "上海吉祥航空物流有限公司 子公司"
+    },
+    {
+      "name": "上海吉祥航空餐饮管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，从事食品生产、销售及餐饮服务",
+      "quote": "上海吉祥航空餐饮管理有限公司 子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "航空客运",
+      "segment_type": "product_line",
+      "revenue_amount": "214.17亿元",
+      "revenue_proportion": "96.23%",
+      "gross_margin": "10.61%",
+      "yoy_change": "营业成本比上年增减 3.43%",
+      "quote": "航空客运 21,417,477,342.59 19,144,204,796.33 10.61 0.96 3.43"
+    },
+    {
+      "name": "航空货运",
+      "segment_type": "product_line",
+      "revenue_amount": "8.39亿元",
+      "revenue_proportion": "3.77%",
+      "gross_margin": "45.95%",
+      "yoy_change": "营业收入比上年增减 32.93%",
+      "quote": "航空货运 839,054,502.83 453,507,233.57 45.95 32.93 18.44"
+    },
+    {
+      "name": "国内（除港澳台地区）",
+      "segment_type": "region",
+      "revenue_amount": "154.78亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "-8.37%",
+      "quote": "国内（除港澳台地区） 15,477,801,390.86 / / -8.37 / /"
+    },
+    {
+      "name": "国际",
+      "segment_type": "region",
+      "revenue_amount": "65.48亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "39.49%",
+      "quote": "国际 6,548,181,210.27 / / 39.49 / /"
+    },
+    {
+      "name": "港澳台地区",
+      "segment_type": "region",
+      "revenue_amount": "2.31亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "-11.03%",
+      "quote": "港澳台地区 230,549,244.29 / / -11.03 / /"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "客运机队",
+      "metric_type": "capacity",
+      "value": "5,717,802.75万人公里",
+      "period": "2025年",
+      "quote": "可用座位公里（万人公里） 5,717,802.75"
+    },
+    {
+      "product": "客运机队",
+      "metric_type": "capacity_utilization",
+      "value": "85.63%",
+      "period": "2025年",
+      "quote": "客座率 85.63%"
+    },
+    {
+      "product": "货运机队",
+      "metric_type": "capacity",
+      "value": "191,451.65万吨公里",
+      "period": "2025年",
+      "quote": "可用货运吨公里（万吨公里） 191,451.65"
+    },
+    {
+      "product": "货运机队",
+      "metric_type": "capacity_utilization",
+      "value": "28.59%",
+      "period": "2025年",
+      "quote": "货物及邮件载运率 28.59%"
+    },
+    {
+      "product": "总机队",
+      "metric_type": "capacity_utilization",
+      "value": "68.68%",
+      "period": "2025年",
+      "quote": "综合载运率 68.68%"
+    },
+    {
+      "product": "总机队",
+      "metric_type": "production_volume",
+      "value": "2,719.45万人次",
+      "period": "2025年",
+      "quote": "乘客人数（千人次） 27,194.52"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "购买25架A320系列飞机",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "约29,500万美元/架（787系列目录价），14,000万美元/架（737系列目录价）",
+      "designed_capacity": null,
+      "progress": "董事会及股东大会审议通过",
+      "expected_completion_time": "未来3年交付",
+      "quote": "拟向空客公司购买25架A320系列飞机。...预计本公司未来三年飞机及相关设备的资本开支计划总额约为4,000万美元至90,000万美元不等。"
+    },
+    {
+      "name": "2026年机队扩张计划",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "吉祥航空机队总规模104架，九元航空机队总规模28架",
+      "progress": "计划中",
+      "expected_completion_time": "2026年",
+      "quote": "2026年预计...机队总规模 吉祥：104，九元：28"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "SMS安全管理系统（Safety Management System）",
+      "asset_type": "certification",
+      "related_product": "航空安全运营",
+      "quantitative_info": null,
+      "quote": "SMS 指 航空公司安全管理系统（Safety Management System）"
+    },
+    {
+      "name": "数智化与精益化管理",
+      "asset_type": "technical_platform",
+      "related_product": "公司运营",
+      "quantitative_info": null,
+      "quote": "在运营端，通过数智化与精益化管理深度融合，吉祥航空持续优化组织结构与资源配置"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "2025年研发投入金额95,331,524.57元，研发人员287人",
+      "quote": "研发投入合计 95,331,524.57...公司研发人员的数量 287"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "580,789.87万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额580,789.87万元，占年度销售总额25.81%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "916,647.87万元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额916,647.87万元，占年度采购总额46.53%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "面临行业‘内卷式’竞争，需提升运行品质和服务体验。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "深入整治‘内卷式’竞争，提升运行品质和服务体验"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "航空业受国家财政、信贷、税收、民航局监管及发改委飞机采购审批等政策影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "航空业受国家财政、信贷、税收等相关政策的影响，且民航局在进行行业监管、国家发改委在审批飞机采购过程中...都可能对公司未来业务的发展产生影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "航油是主要成本构成，价格受原油供应、美元加息、地缘政治等因素影响而波动。若年度平均采购航油价格上涨或下降5%，将减少或增加净利润约24,331.34万元。",
+      "related_entity": null,
+      "related_product": "航油",
+      "quote": "报告期内，公司航油成本64.88亿元...如果公司年度平均采购航油价格上涨或下降5%，其它因素保持不变，则公司将减少或增加净利润约人民币24,331.34万元。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司存在约7.11亿美元债务，汇率波动会影响净利润。人民币对美元汇率升值或贬值1%，将增加或减少净利润约2,073.8万元。",
+      "related_entity": null,
+      "related_product": "美元债务",
+      "quote": "公司美元债务余额约7.11亿美元...人民币对美元汇率升值或贬值1%，则公司将增加或减少净利润约人民币2,073.8万元"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司带息债务约356.06亿元，利率上升会增加利息支出。浮动利率每上升（或下降）100个基点，将减少或增加净利润约15,173.13万元。",
+      "related_entity": null,
+      "related_product": "带息债务",
+      "quote": "公司合并口径下负债总额为401.19亿元，其中约356.06亿元为带息债务...公司浮动利率每上升（或下降）100个基点，则公司将减少或增加净利润约人民币15,173.13万元"
+    }
+  ]
+}

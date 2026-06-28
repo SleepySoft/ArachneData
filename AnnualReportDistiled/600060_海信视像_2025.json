@@ -1,0 +1,430 @@
+{
+  "company_name_mentioned": "海信视像科技股份有限公司",
+  "produces": [
+    {
+      "name": "智慧显示终端",
+      "type": "device",
+      "revenue_proportion": "主营业务收入44,963,72.07万元",
+      "quote": "分产品 主营业务收入... 智慧显示终端 4,496,372.07"
+    },
+    {
+      "name": "新显示新业务（包括激光显示、商用显示、云服务、芯片业务及其他新型业务）",
+      "type": "service",
+      "revenue_proportion": "新显示新业务的主营业务收入为84.58亿元，同比增长24.92%。",
+      "quote": "新显示新业务的主营业务收入为84.58亿元，同比增长24.92%。"
+    },
+    {
+      "name": "激光电视",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司激光电视全球出货量份额70.3%..."
+    },
+    {
+      "name": "商用显示产品（交互平板、数字标牌、LED显示等）",
+      "type": "device",
+      "revenue_proportion": "商用显示业务实现收入同比增长265%，其中海外市场表现突出。",
+      "quote": "报告期内，商用显示业务实现收入同比增长265%..."
+    },
+    {
+      "name": "显示芯片（TCON芯片、SOC芯片、画质芯片等）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司战略控股信芯微、乾照光电两家上游芯片企业... TCON芯片业务持续增长10%以上，其中在电视TCON领域持续保持领先地位，全球市占率约45%..."
+    },
+    {
+      "name": "MicroLED产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "作为海信三大显示战略的核心之一，MicroLED技术已构建起覆盖全产业链的垂直整合能力... 2025年，海信成功将MicroLED带入家庭。"
+    },
+    {
+      "name": "移动智慧屏（闺蜜机）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "移动智慧屏国内出货量7万台，同比增长156%..."
+    },
+    {
+      "name": "显示器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，显示器国内出货量13.3万台，同比增长86%。"
+    },
+    {
+      "name": "智能穿戴产品（AI耳机、AI眼镜）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司凭借在微显示、声学、AI及VR领域的技术积淀，加快布局智能穿戴赛道。锚定“刚需、高频”的用户需求，以AI耳机和AI眼镜为切入..."
+    },
+    {
+      "name": "云服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司依托互联网电视云服务、AI多场景应用及AIoT智慧生活解决方案，为全球190多个国家的超1.5亿家庭提供智能化服务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "显示面板",
+      "target_product": "液晶电视",
+      "cost_proportion": null,
+      "quote": "公司自主定义的“黑曜屏”技术...与行业头部面板厂商开展深度联合定义开发。"
+    },
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": "原材料成本占总成本比例92.11%",
+      "quote": "成本分析表... 显示行业 原材料 4,102,585.63 92.11"
+    },
+    {
+      "name": "半导体器件、电子元器件等",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": null
+    },
+    {
+      "name": "包装材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": null
+    }
+  ],
+  "applications": [
+    {
+      "name": "家庭影音娱乐",
+      "source_product": "激光电视、RGB-MiniLED电视、移动智慧屏",
+      "quote": "激光显示凭借大屏沉浸、健康护眼的核心优势，正在重构家庭影音场景..."
+    },
+    {
+      "name": "游戏电竞",
+      "source_product": "高刷新率显示器、高性能显示终端",
+      "quote": "在游戏电竞场景，产品从参数竞赛向全链路沉浸跃迁...根据洛图科技（RUNTO）数据，2025年中国显示器线上市场零售量达到1,301万台...其中电竞显示器销量约748万台..."
+    },
+    {
+      "name": "教育",
+      "source_product": "交互平板（IFPD）",
+      "quote": "在国内市场，推出融合DeepSeek大模型的AI智能体会议平板... 在海外市场，成功打造印尼、马来西亚等国学校数字化升级的典型应用案例。"
+    },
+    {
+      "name": "企业办公与会议",
+      "source_product": "交互平板（IFPD）、商用投影",
+      "quote": "随着远程协作与混合办公模式的普及，显示终端在视频会议、多任务处理及跨设备协同方面的重要性持续提升..."
+    },
+    {
+      "name": "智慧零售与数字标牌",
+      "source_product": "数字标牌、LED显示",
+      "quote": "数字标牌领域，全面布局泛零售、广电传媒、政务交通、教育医疗等14大商业应用领域。"
+    },
+    {
+      "name": "智能家居与AIoT",
+      "source_product": "AI电视、家庭陪伴机器人",
+      "quote": "家庭AI正经历一场深刻的范式转变...以AI电视为中枢、多场景协同、智能服务..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "于芝涛",
+      "role": "董事长",
+      "quote": "公司负责人于芝涛...现任海信集团控股董事及首席执行官、本公司董事长..."
+    },
+    {
+      "name": "李炜",
+      "role": "总裁、董事",
+      "quote": "李炜...现任本公司董事及总裁..."
+    },
+    {
+      "name": "李敏华",
+      "role": "副总裁、董事",
+      "quote": "李敏华...现任本公司董事及副总裁、乾照光电董事长..."
+    },
+    {
+      "name": "郑丽非",
+      "role": "财务负责人",
+      "quote": "郑丽非...现任本公司财务负责人。"
+    },
+    {
+      "name": "范潇",
+      "role": "董事会秘书",
+      "quote": "范潇...现任本公司董事会秘书。"
+    },
+    {
+      "name": "王爱国",
+      "role": "独立董事",
+      "quote": "王爱国...2021年1月至今，担任本公司独立董事。"
+    },
+    {
+      "name": "赵曙明",
+      "role": "独立董事",
+      "quote": "赵曙明...2021年6月至今，担任本公司独立董事。"
+    },
+    {
+      "name": "严群",
+      "role": "独立董事",
+      "quote": "严群...2025年10月至今，担任本公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海信集团控股股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东。海信集团控股及其其他子公司包含海信集团控股公司、海信家电及其子公司、海信国际营销及其子公司、香港海信公司、营销管理及其子公司等。",
+      "quote": "海信集团控股、海信集团控股公司、控股股东 指 海信集团控股股份有限公司，系本公司控股股东...前五名客户销售额中关联方销售额3,031,091.60万元...前五名供应商采购额中关联方采购额1,973,995.30万元..."
+    },
+    {
+      "name": "海信家电集团股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "同属海信集团控股控制。",
+      "quote": "海信家电 指 海信家电集团股份有限公司"
+    },
+    {
+      "name": "青岛海信国际营销股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "同属海信集团控股控制。",
+      "quote": "海信国际营销 指 青岛海信国际营销股份有限公司"
+    },
+    {
+      "name": "聚好看科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "从事云服务等业务。",
+      "quote": "聚好看主要从事云服务等业务..."
+    },
+    {
+      "name": "TVSREGZA株式会社",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事智能显示产品的研发、生产、销售及云服务等业务。",
+      "quote": "TVS主要从事智能显示产品的研发、生产、销售及云服务等业务..."
+    },
+    {
+      "name": "厦门乾照光电股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司战略控股的上游芯片企业。",
+      "quote": "公司战略控股信芯微、乾照光电两家上游芯片企业..."
+    },
+    {
+      "name": "青岛信芯微电子科技股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司战略控股的上游芯片企业。",
+      "quote": "公司战略控股信芯微、乾照光电两家上游芯片企业..."
+    },
+    {
+      "name": "信永中和会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "为本公司出具了标准无保留意见的审计报告。",
+      "quote": "信永中和会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智慧显示终端",
+      "segment_type": "product_line",
+      "revenue_amount": "4,496,372.07万元",
+      "revenue_proportion": null,
+      "gross_margin": "15.14%",
+      "yoy_change": "-3.58%",
+      "quote": "智慧显示终端 4,496,372.07 3,815,722.90 15.14 -3.58"
+    },
+    {
+      "name": "新显示新业务",
+      "segment_type": "product_line",
+      "revenue_amount": "845,789.89万元",
+      "revenue_proportion": null,
+      "gross_margin": "28.07%",
+      "yoy_change": "24.92%",
+      "quote": "新显示新业务 845,789.89 608,342.26 28.07 24.92"
+    },
+    {
+      "name": "中国境内",
+      "segment_type": "region",
+      "revenue_amount": "2,463,388.58万元",
+      "revenue_proportion": null,
+      "gross_margin": "23.58%",
+      "yoy_change": "-5.14%",
+      "quote": "中国境内 2,463,388.58 1,882,617.05 23.58 -5.14"
+    },
+    {
+      "name": "中国境外",
+      "segment_type": "region",
+      "revenue_amount": "2,923,008.17万元",
+      "revenue_proportion": null,
+      "gross_margin": "12.03%",
+      "yoy_change": "4.57%",
+      "quote": "中国境外 2,923,008.17 2,571,242.22 12.03 4.57"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "885,079.29万元",
+      "revenue_proportion": null,
+      "gross_margin": "27.12%",
+      "yoy_change": "4.11%",
+      "quote": "直销 885,079.29 645,025.84 27.12 4.11"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "4,501,317.46万元",
+      "revenue_proportion": null,
+      "gross_margin": "15.38%",
+      "yoy_change": "-0.89%",
+      "quote": "经销 4,501,317.46 3,808,833.43 15.38 -0.89"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "显示产品",
+      "metric_type": "production_volume",
+      "value": "3,037.43万台",
+      "period": "2025年度",
+      "quote": "主要产品 单位 生产量... 显示产品 万台 3,037.43"
+    },
+    {
+      "product": "显示产品",
+      "metric_type": "sales_volume",
+      "value": "3,055.19万台",
+      "period": "2025年度",
+      "quote": "显示产品 万台... 销售量 3,055.19"
+    },
+    {
+      "product": "显示产品",
+      "metric_type": "inventory_volume",
+      "value": "107.49万台",
+      "period": "2025年末",
+      "quote": "显示产品 万台... 库存量 107.49"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "Mini/Micro、高光效LED芯片研发及制造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "截至报告期末累计实际投入金额3.00亿元",
+      "designed_capacity": null,
+      "progress": "25.23%",
+      "expected_completion_time": null,
+      "quote": "Mini/Micro、高光效LED芯片研发及制造项目... 截至报告期末累计实际投入金额 3.00... 项目进度 25.23%"
+    },
+    {
+      "name": "海信乾照江西半导体基地项目（一期）",
+      "project_type": "capacity_expansion",
+      "location": "江西",
+      "investment_amount": "截至报告期末累计实际投入金额2.03亿元",
+      "designed_capacity": null,
+      "progress": "46.15%",
+      "expected_completion_time": null,
+      "quote": "海信乾照江西半导体基地项目（一期）... 截至报告期末累计实际投入金额 2.03... 项目进度 46.15%"
+    },
+    {
+      "name": "越南电子厂房建设",
+      "project_type": "construction_project",
+      "location": "越南",
+      "investment_amount": "截至报告期末累计实际投入金额1.07亿元",
+      "designed_capacity": null,
+      "progress": "100%",
+      "expected_completion_time": null,
+      "quote": "越南电子厂房建设... 截至报告期末累计实际投入金额 1.07... 项目进度 100%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "RGB三维控色液晶显示技术（RGB-MiniLED）",
+      "asset_type": "core_technology",
+      "related_product": "液晶电视",
+      "quantitative_info": null,
+      "quote": "公司自主创新的ULED高端显示技术平台实现跨越式升级... 通过RGB-MiniLED的技术与产品首发，构建了显著的技术代差壁垒。"
+    },
+    {
+      "name": "激光显示技术",
+      "asset_type": "core_technology",
+      "related_product": "激光电视、激光投影",
+      "quantitative_info": "超1,200项授权专利",
+      "quote": "公司凭借全栈自研、超1,200项授权专利、光学引擎与整机系统深度整合等优势..."
+    },
+    {
+      "name": "MicroLED全产业链垂直整合能力",
+      "asset_type": "core_technology",
+      "related_product": "MicroLED产品",
+      "quantitative_info": null,
+      "quote": "MicroLED技术已构建起覆盖全产业链的垂直整合能力，从上游的MicroLED芯片、TCON与驱动IC、AI画质芯片，到中游的精密制造，再到下游的终端品牌与内容服务运营，形成了行业唯一的完整闭环。"
+    },
+    {
+      "name": "AI画质芯片H7",
+      "asset_type": "core_technology",
+      "related_product": "RGB-MiniLED电视",
+      "quantitative_info": null,
+      "quote": "依托AI画质芯片H7与高光效RGB三基色发光芯片的突破，建立行业领先优势..."
+    },
+    {
+      "name": "星海大模型",
+      "asset_type": "technical_platform",
+      "related_product": "AI电视、云服务",
+      "quantitative_info": null,
+      "quote": "持续升级智能交互垂域模型... 星海大模型本年度通过中国信通院推理能力评估（12项能力获评满分）及中国计算机学会科学技术成果鉴定，模型能力达到国际领先。"
+    },
+    {
+      "name": "TCON芯片技术",
+      "asset_type": "core_technology",
+      "related_product": "显示芯片",
+      "quantitative_info": "电视TCON全球市占率约45%",
+      "quote": "在电视TCON领域持续保持领先地位，全球市占率约45%..."
+    },
+    {
+      "name": "EMC Class B认证的PM驱动MicroLED技术",
+      "asset_type": "certification",
+      "related_product": "MicroLED产品",
+      "quantitative_info": "全球首款通过EMC Class B认证的PM驱动MicroLED产品",
+      "quote": "推出了全球首款通过EMC Class B认证的PM 驱动MicroLED 产品。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "4,006,814.46万元，占年度销售总额69.47%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额4,006,814.46万元，占年度销售总额69.47%；其中前五名客户销售额中关联方销售额3,031,091.60万元，占年度销售总额52.55%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "3,173,996.84万元，占年度采购总额67.58%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额3,173,996.84万元，占年度采购总额67.58%；其中前五名供应商采购额中关联方采购额1,973,995.30万元，占年度采购总额42.03%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "3,031,091.60万元，占年度销售总额比例52.55%",
+      "related_entity": "海信集团控股及其其他子公司",
+      "period": "2025年度",
+      "quote": "序号 客户名称 销售额 占年度销售总额比例（%） 1 海信集团控股及其其他子公司 3,031,091.60 52.55"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "全球贸易环境受地缘政治波动影响加剧，面临出口关税壁垒升级及局部冲突导致的压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、国际贸易不确定性风险 全球贸易环境受地缘政治波动影响加剧，面临出口关税壁垒升级及局部冲突导致的压力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "黑电作为耐用家电品类，面临国内内生性消费动能偏弱压力，终端需求复苏存在不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场需求调整风险 黑电作为耐用家电品类，面临国内内生性消费动能偏弱压力，终端需求复苏存在不确定性。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "人工智能技术革命引发产业价值重构与竞争生态变化，机遇与风险并存。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、技术变革竞争加剧风险 人工智能技术革命引发产业价值重构与竞争生态变化，机遇与风险并存。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司全球化布局不断深入，海外业务运作面临复杂多变的宏观环境，国际化交易涉及的币种汇率波动可能造成汇兑风险，增加财务成本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、全球市场汇率波动风险 公司全球化布局不断深入，海外业务运作面临复杂多变的宏观环境，国际化交易涉及的币种汇率波动可能造成汇兑风险，增加财务成本。"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "company_name_mentioned": "杭州解百集团股份有限公司",
+  "produces": [
+    {
+      "name": "商品零售服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主营业务为商品零售，主要业态有百货商场、购物中心。目前，公司的营业收入主要来源于旗下各门店的商品销售收入及商场内功能商户的租金收入。"
+    },
+    {
+      "name": "联营商品销售",
+      "type": "service",
+      "revenue_proportion": "联营收入917,268,615.46，占营业收入53.96%",
+      "quote": "其中：零售业务1,326,921,262.13 78.06% --联营收入917,268,615.46 53.96%"
+    },
+    {
+      "name": "自营商品销售",
+      "type": "service",
+      "revenue_proportion": "自营收入409,652,646.67，占营业收入24.10%",
+      "quote": "其中：零售业务1,326,921,262.13 78.06% --自营收入409,652,646.67 24.10%"
+    },
+    {
+      "name": "商场租赁服务",
+      "type": "service",
+      "revenue_proportion": "租赁收入170,452,314.35",
+      "quote": "租赁 170,452,314.35"
+    },
+    {
+      "name": "健康医疗服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "同时，公司积极尝试向健康医疗等行业拓展。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品",
+      "target_product": "自营销售商品",
+      "cost_proportion": "前五名供应商采购额319,825.66万元，占年度采购总额44.33%",
+      "quote": "前五名供应商采购额319,825.66万元，占年度采购总额44.33%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "杭州地区购物中心",
+      "source_product": "商品零售服务",
+      "quote": "杭州地区 1,529,777,155.25"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "毕铃",
+      "role": "董事长、总经理（已卸任）",
+      "quote": "董事长、总经理（已卸任） 毕铃 女 51"
+    },
+    {
+      "name": "虞国荣",
+      "role": "总经理、副董事长",
+      "quote": "董事、副董事长、总经理、副总经理（已卸任） 虞国荣 男 46"
+    },
+    {
+      "name": "沈霞芬",
+      "role": "财务负责人、董事会秘书",
+      "quote": "财务负责人、董事会秘书 沈霞芬 女 42"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "杭州市商贸旅游集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "杭州市商贸旅游集团有限公司是本公司的控股股东"
+    },
+    {
+      "name": "杭州大厦有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事百货批发、零售等",
+      "quote": "杭州大厦有限公司 子公司 百货批发、零售等"
+    },
+    {
+      "name": "杭州商旅私募基金管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事私募股权投资基金管理",
+      "quote": "杭州商旅私募基金管理有限公司 子公司 私募股权投资基金管理"
+    },
+    {
+      "name": "杭州解百商盛贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事百货批发、零售等",
+      "quote": "杭州解百商盛贸易有限公司 子公司 百货批发、零售等"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "商贸服务行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,529,777,155.25",
+      "revenue_proportion": null,
+      "gross_margin": "74.19%",
+      "yoy_change": "减少0.36个百分点",
+      "quote": "商贸服务 1,529,777,155.25 394,845,473.70 74.19"
+    },
+    {
+      "name": "商场销售",
+      "segment_type": "product_line",
+      "revenue_amount": "1,326,921,262.13",
+      "revenue_proportion": null,
+      "gross_margin": "70.74%",
+      "yoy_change": "减少2个百分点",
+      "quote": "商场销售 1,326,921,262.13 388,267,630.09 70.74 -4.87"
+    },
+    {
+      "name": "客房及餐饮",
+      "segment_type": "product_line",
+      "revenue_amount": "30,850,991.66",
+      "revenue_proportion": null,
+      "gross_margin": "78.68%",
+      "yoy_change": "减少5.72个百分点",
+      "quote": "客房及餐饮 30,850,991.66 6,577,843.61 78.68 5.47"
+    },
+    {
+      "name": "租赁",
+      "segment_type": "product_line",
+      "revenue_amount": "170,452,314.35",
+      "revenue_proportion": null,
+      "gross_margin": "不适用",
+      "yoy_change": null,
+      "quote": "租赁 170,452,314.35 0.00 不适用 94.97"
+    },
+    {
+      "name": "杭州地区",
+      "segment_type": "region",
+      "revenue_amount": "1,529,777,155.25",
+      "revenue_proportion": null,
+      "gross_margin": "74.19%",
+      "yoy_change": "减少0.36个百分点",
+      "quote": "杭州地区 1,529,777,155.25 394,845,473.70 74.19"
+    },
+    {
+      "name": "联营模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "917,268,615.46",
+      "revenue_proportion": null,
+      "gross_margin": "不适用",
+      "yoy_change": null,
+      "quote": "联营模式 917,268,615.46 0.00 不适用 -7.17"
+    },
+    {
+      "name": "自营模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "409,652,646.67",
+      "revenue_proportion": null,
+      "gross_margin": "5.22%",
+      "yoy_change": "减少1.31个百分点",
+      "quote": "自营模式 409,652,646.67 388,267,630.09 5.22 0.71"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "投资业务",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "聚焦重点赛道，加速推动投资项目落地",
+      "expected_completion_time": null,
+      "quote": "（三）投资业务提速发力 2025年，公司聚焦重点赛道，加速推动投资项目落地。"
+    },
+    {
+      "name": "存量项目推进（全程医疗等）",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全力稳定基本盘...牵头制定的《共享医疗综合体运营服务规范》获批成为国家标准",
+      "expected_completion_time": null,
+      "quote": "（四）存量项目稳步推进 全程医疗全力稳定基本盘...牵头制定的《共享医疗综合体运营服务规范》获批成为国家标准。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "《共享医疗综合体运营服务规范》",
+      "asset_type": "standard",
+      "related_product": "健康医疗服务",
+      "quantitative_info": "获批成为国家标准",
+      "quote": "牵头制定的《共享医疗综合体运营服务规范》获批成为国家标准。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "12,327.21万元，占年度销售总额1.09%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额12,327.21万元，占年度销售总额1.09%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "319,825.66万元，占年度采购总额44.33%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额319,825.66万元，占年度采购总额44.33%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "未来几年，新的商业物业将在杭州市内陆续开业，以及国际形势变化，客人和货品的分流压力都在加大。面对外部激烈竞争及市场环境的变化，原有的单店发展模式难以适应新消费时代变化，可能面临供应链体系逐年弱化、主业市场份额下降的风险。",
+      "related_entity": null,
+      "related_product": "零售主业",
+      "quote": "1．主业市场份额下降的风险 ...可能面临供应链体系逐年弱化、主业市场份额下降的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司目前营收及利润主要来源于零售主业，“零售+”板块尚未形成规模，与主业之间的双向赋能也仍需进一步提升，公司盈利能力面临压力，亟需通过投资、并购等手段寻找和培育业务增长新的发展空间。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2．盈利能力面临压力的风险 ...公司盈利能力面临压力，亟需通过投资、并购等手段寻找和培育业务增长新的发展空间。"
+    },
+    {
+      "risk_type": "other",
+      "description": "基金在运行过程中，面临宏观经济、行业周期、经营管理等多种因素影响，投资进展及项目完成情况存在一定不确定性，存在投资收益不及预期的风险。",
+      "related_entity": "杭州解百消费创业投资合伙企业（有限合伙）",
+      "related_product": null,
+      "quote": "3.投资未达预期的风险 基金在运行过程中，面临宏观经济、行业周期、经营管理等多种因素影响...存在投资收益不及预期的风险。"
+    }
+  ]
+}

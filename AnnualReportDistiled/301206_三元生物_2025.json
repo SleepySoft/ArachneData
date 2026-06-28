@@ -1,0 +1,480 @@
+{
+  "company_name_mentioned": "山东三元生物科技股份有限公司",
+  "produces": [
+    {
+      "name": "糖醇类（赤藓糖醇、复配糖等）",
+      "type": "material",
+      "revenue_proportion": "79.63%（2025年收入5.17亿元）",
+      "quote": "糖醇类 517,193,011.92 79.63%"
+    },
+    {
+      "name": "功能糖类（阿洛酮糖、塔格糖等）",
+      "type": "material",
+      "revenue_proportion": "16.13%（2025年收入1.05亿元）",
+      "quote": "功能糖类 104,758,416.55 16.13%"
+    },
+    {
+      "name": "糖苷类（优质甜菊糖，莱鲍迪苷M）",
+      "type": "material",
+      "revenue_proportion": "0.61%（2025年收入400万元）",
+      "quote": "糖苷 4,003,897.42 0.61%"
+    },
+    {
+      "name": "其他类（酵母粉、废糖液等）",
+      "type": "material",
+      "revenue_proportion": "3.63%（2025年收入2355万元）",
+      "quote": "其他 23,556,538.49 3.63%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "糖醇类、功能糖类、糖苷类产品",
+      "cost_proportion": "约82.22%（原材料4.47亿，燃料和动力0.89亿）",
+      "quote": "外部采购 原材料 447,059,588.30；外部采购 燃料和动力 89,380,189.48"
+    },
+    {
+      "name": "葡萄糖、果糖等",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司核心原材料（如葡萄糖、果糖等）经生物发酵、酶促转化或其他生化反应过程，转化为目标产品的比率"
+    }
+  ],
+  "applications": [
+    {
+      "name": "餐桌糖、调味糖、饮料",
+      "source_product": "赤藓糖醇",
+      "quote": "1、利用其天然、近乎零热量、口味纯正特点，可作为餐桌配料直接食用，或替代蔗糖添加至各类饮料中"
+    },
+    {
+      "name": "糖果、巧克力类食品",
+      "source_product": "赤藓糖醇",
+      "quote": "1、与高倍甜味剂复配，可模拟蔗糖风味，大幅降低热量；2、利用其低吸湿性，减少糖果起霜现象，提升糖果贮存期限"
+    },
+    {
+      "name": "烘焙类食品",
+      "source_product": "赤藓糖醇",
+      "quote": "1、利用其低能量值、甜味纯正等特性，在保留原有风味、口味的基础上，降低热量值更加健康"
+    },
+    {
+      "name": "健康营养食品",
+      "source_product": "赤藓糖醇",
+      "quote": "1、在医药领域，利用其溶解吸热及稳定性，用作药用辅料（如药片包衣、赋形剂）"
+    },
+    {
+      "name": "糖果、饮料",
+      "source_product": "阿洛酮糖",
+      "quote": "1、感官特征接近蔗糖，甜味柔和，在常规加工温度及 pH 值范围内具有良好的稳定性，能提供与蔗糖高度相近的甜味体验"
+    },
+    {
+      "name": "烘焙类食品",
+      "source_product": "阿洛酮糖",
+      "quote": "1、具备还原糖特性，可参与美拉德反应，在加热过程中辅助提升产品的上色性能与风味层次"
+    },
+    {
+      "name": "乳制品、冰淇淋",
+      "source_product": "阿洛酮糖",
+      "quote": "1、具有良好的抗结晶性能，适用于乳制品中水果酱料的预处理，保持口感与风味的一致性"
+    },
+    {
+      "name": "健康营养食品",
+      "source_product": "阿洛酮糖",
+      "quote": "1、利用其显著的低能量及低血糖反应特点，开发适用于特定膳食管理需求的健康食品"
+    },
+    {
+      "name": "烘焙类食品",
+      "source_product": "塔格糖",
+      "quote": "1、甜度高度接近蔗糖，可作为减糖配方中的核心甜味来源"
+    },
+    {
+      "name": "健康营养食品",
+      "source_product": "塔格糖",
+      "quote": "1、利用其低GI值与低能量特性，适用于有糖分摄入限制或体重管理需求的膳食方案"
+    },
+    {
+      "name": "高端饮品",
+      "source_product": "塔格糖",
+      "quote": "1、感官特征接近蔗糖，有助于掩盖高倍甜味剂的后苦味，优化无糖/低糖饮品的风味协调性与口感饱满度"
+    },
+    {
+      "name": "糖果、饮料",
+      "source_product": "优质甜菊糖（莱鲍迪苷M）",
+      "quote": "1、作为核心增甜组分，甜度约为蔗糖的350倍，具有极低能量值"
+    },
+    {
+      "name": "烘焙类食品",
+      "source_product": "优质甜菊糖（莱鲍迪苷M）",
+      "quote": "1、具有良好的热稳定性，在高温烘焙过程中保持性质稳定"
+    },
+    {
+      "name": "乳制品",
+      "source_product": "优质甜菊糖（莱鲍迪苷M）",
+      "quote": "1、在常规应用条件下展现出良好的加工适应性，不改变乳制品原有风味"
+    },
+    {
+      "name": "医药及日化用品",
+      "source_product": "优质甜菊糖（莱鲍迪苷M）",
+      "quote": "1、在医药领域，利用其安全性高及不引起血糖波动特性，作为功能性辅料及甜味配料用于药剂调味"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "聂在建",
+      "role": "董事长、控股股东、实际控制人",
+      "quote": "公司负责人聂在建、主管会计工作负责人于俊玲及会计机构负责人（会计主管人员）李慧慧声明；公司法定代表人 聂在建"
+    },
+    {
+      "name": "程保华",
+      "role": "董事、总经理",
+      "quote": "程保华先生：总经理；程保华先生：详见“第四节 公司治理”之“六、董事和高级管理人员情况”之“2、任职情况”之“（1）董事会成员”。"
+    },
+    {
+      "name": "韦红夫",
+      "role": "董事、总工程师",
+      "quote": "韦红夫先生：董事；韦红夫先生：详见“第四节 公司治理”之“六、董事和高级管理人员情况”之“2、任职情况”之“（1）董事会成员”。"
+    },
+    {
+      "name": "于俊玲",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "公司负责人聂在建、主管会计工作负责人于俊玲及会计机构负责人（会计主管人员）李慧慧声明；于俊玲女士：财务总监"
+    },
+    {
+      "name": "高亮",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表；高亮先生：董事会秘书"
+    },
+    {
+      "name": "郑海军",
+      "role": "职工代表董事",
+      "quote": "郑海军先生：董事；2025年 9月至今，就职于山东三元生物科技股份有限公司，任职工代表董事。"
+    },
+    {
+      "name": "崔鲁朋",
+      "role": "董事",
+      "quote": "崔鲁朋先生：董事"
+    },
+    {
+      "name": "聂磊",
+      "role": "董事",
+      "quote": "聂磊先生：董事"
+    },
+    {
+      "name": "杨公随",
+      "role": "独立董事",
+      "quote": "杨公随先生：独立董事"
+    },
+    {
+      "name": "王玲",
+      "role": "独立董事",
+      "quote": "王玲女士：独立董事"
+    },
+    {
+      "name": "谭海宁",
+      "role": "独立董事",
+      "quote": "谭海宁先生：独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "泰莱集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "3 泰莱集团 23,840,568.91 3.67%"
+    },
+    {
+      "name": "弘毅（天津）生物科技有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "4 弘毅（天津）生物科技有限公司 22,880,123.93 3.52%"
+    },
+    {
+      "name": "Redox集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "5 Redox集团 22,107,818.16 3.41%"
+    },
+    {
+      "name": "山东中谷淀粉糖有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "3 山东中谷淀粉糖有限公司 51,842,220.80 9.66%"
+    },
+    {
+      "name": "哈尔滨晨骐粮油食品有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "4 哈尔滨晨骐粮油食品有限公司 21,210,132.84 3.95%"
+    },
+    {
+      "name": "山东瑞昕食品科技有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "5 山东瑞昕食品科技有限公司 20,262,062.01 3.78%"
+    },
+    {
+      "name": "滨州三元家纺有限公司",
+      "relation_type": "supplier",
+      "business_details": "接受关联方劳务服务（污水处理）",
+      "quote": "滨州 三元 关联 家纺 方代 有限 为进 公司 行污 水处 理 接受 关联 方劳 务服 务（污水处 理）"
+    },
+    {
+      "name": "三元生物工程研究（天津）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "技术服务、技术开发等",
+      "quote": "三元生物工程研究（天津）有限公司，公司全资子公司；报告期内，开元聚力实现营业收入54.46万元，净利润-51.85万元。"
+    },
+    {
+      "name": "北京开元聚力企业管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "企业管理；企业管理咨询；信息咨询服务等",
+      "quote": "北京开元聚力企业管理有限公司，公司全资子公司；报告期内，开元聚力实现营业收入54.46万元，净利润-51.85万元。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "食品制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "625,955,325.89元",
+      "revenue_proportion": "96.37%",
+      "gross_margin": "14.48%",
+      "yoy_change": null,
+      "quote": "食品制造业 625,955,325.89 96.37%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "other",
+      "revenue_amount": "23,556,538.49元",
+      "revenue_proportion": "3.63%",
+      "gross_margin": "59.76%",
+      "yoy_change": null,
+      "quote": "其他 23,556,538.49 3.63%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "274,083,341.72元",
+      "revenue_proportion": "42.20%",
+      "gross_margin": "16.17%",
+      "yoy_change": null,
+      "quote": "国内 274,083,341.72 42.20%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "375,428,522.66元",
+      "revenue_proportion": "57.80%",
+      "gross_margin": "16.08%",
+      "yoy_change": null,
+      "quote": "国外 375,428,522.66 57.80%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "203,351,494.99元",
+      "revenue_proportion": "31.31%",
+      "gross_margin": "21.69%",
+      "yoy_change": null,
+      "quote": "直销 203,351,494.99 31.31%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "446,160,369.39元",
+      "revenue_proportion": "68.69%",
+      "gross_margin": "13.58%",
+      "yoy_change": null,
+      "quote": "经销 446,160,369.39 68.69%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "食品制造业（主要为甜味剂产品）",
+      "metric_type": "sales_volume",
+      "value": "57,224.63 吨",
+      "period": "2025年",
+      "quote": "销售量 吨 57,224.63"
+    },
+    {
+      "product": "食品制造业（主要为甜味剂产品）",
+      "metric_type": "production_volume",
+      "value": "67,860.34 吨",
+      "period": "2025年",
+      "quote": "生产量 吨 67,860.34"
+    },
+    {
+      "product": "食品制造业（主要为甜味剂产品）",
+      "metric_type": "inventory_volume",
+      "value": "7,263.40 吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 7,263.40"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产2万吨阿洛酮糖项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "171,363,911.74元（截至报告期末累计实际投入）",
+      "designed_capacity": "2万吨",
+      "progress": "99.00%（已完成主体建设和设备安装）",
+      "expected_completion_time": null,
+      "quote": "年产2 万吨 阿洛酮糖 项目；投资总额 31,786,931.92；截至报告期末累计实际投入 171,363,911.74；进度 99.00%"
+    },
+    {
+      "name": "玉米深加工生产线建设",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司正有序推进玉米深加工生产线建设，以此夯实向产业链上游延伸的战略布局。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "国家发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "34项",
+      "quote": "截至报告披露日，公司已拥有34项国家发明专利和 3 项实用新型专利"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "3项",
+      "quote": "截至报告披露日，公司已拥有34项国家发明专利和 3 项实用新型专利"
+    },
+    {
+      "name": "质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": "赤藓糖醇、复配甜味剂、阿洛酮糖（仅限出口）、甜菊糖苷",
+      "quantitative_info": null,
+      "quote": "1 质量管理体系认证 GB/T19001-2016/ISO9001:2015 00224Q27755R3M 2027年12月6日 赤藓糖醇、复配甜味剂...的生产"
+    },
+    {
+      "name": "环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": "赤藓糖醇、复配甜味剂、阿洛酮糖（仅限出口）、甜菊糖苷",
+      "quantitative_info": null,
+      "quote": "2 环境管理体系认证 GB/T24001-2016/ISO14001:2015 00224E35267R3M 2027年12月6日 赤藓糖醇、复配甜味剂...的生产"
+    },
+    {
+      "name": "食品安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": "赤藓糖醇、复配甜味剂、阿洛酮糖（仅限出口）、甜菊糖苷",
+      "quantitative_info": null,
+      "quote": "3 食品安全管理体系认证 ISO22000:2018 002FSMS1500259 2027年12月4日 赤藓糖醇、复配甜味剂...的生产"
+    },
+    {
+      "name": "HALAL清真认证",
+      "asset_type": "certification",
+      "related_product": "塔格糖、赤藓糖醇、复配甜味剂、阿洛酮糖、甜菊糖、有机赤藓糖醇",
+      "quantitative_info": null,
+      "quote": "4 HALAL清真认证 0092240000 2028年6月8日 塔格糖、赤藓糖醇、复配甜味剂、阿洛酮糖、甜菊糖、有机赤藓糖醇"
+    },
+    {
+      "name": "KOSHER犹太认证",
+      "asset_type": "certification",
+      "related_product": "阿洛酮糖、赤藓糖醇、复配甜味剂、有机赤藓糖醇、酵母粉、甜菊糖苷、甘露糖醇",
+      "quantitative_info": null,
+      "quote": "5 KOSHER犹太认证 XGAA9-USZNG 阿洛酮糖、赤藓糖醇、复配甜味剂、有机赤藓糖醇、酵母粉、甜菊糖苷、甘露糖醇 2026年7月31日"
+    },
+    {
+      "name": "BRC食品安全全球标准认证",
+      "asset_type": "certification",
+      "related_product": "赤藓糖醇、复配甜味剂；塔格糖、D-甘露糖醇；D-阿洛酮糖、D-阿洛酮糖糖浆等",
+      "quantitative_info": null,
+      "quote": "6 BRC食品安全全球标准认证 CN23/00000616 CN26/00001568 赤藓糖醇、复配甜味剂 塔格糖、D-甘露糖醇 D-阿洛酮糖、D-阿洛酮糖糖浆..."
+    },
+    {
+      "name": "有机认证",
+      "asset_type": "certification",
+      "related_product": "赤藓糖醇、D-阿洛酮糖、混合甜味剂等",
+      "quantitative_info": null,
+      "quote": "7 有机认证 美标：N°193375250624190743；欧标：CN-BIO-154.156-0003581.2025.001；日本：193375CN2 D-阿洛酮糖、D-阿洛酮糖糖浆、混合甜味剂、赤藓糖醇、赤藓糖醇与罗汉果/甜叶菊提取物复配糖"
+    },
+    {
+      "name": "IP非转基因认证",
+      "asset_type": "certification",
+      "related_product": "赤藓糖醇",
+      "quantitative_info": null,
+      "quote": "10 IP非转基因认证 CN21/10341 赤藓糖醇 2027年4月18日"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "27.95%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 27.95%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.72%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.72%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "9.79%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 63,586,541.19 9.79%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "22.51%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 120,726,344.85 22.51%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际经贸环境风险，欧盟对原产于中国的赤藓糖醇征收156.7%反倾销税；美国“双反”终裁适用反补贴税率8.63%及高额现金保证金率。",
+      "related_entity": null,
+      "related_product": "赤藓糖醇",
+      "quote": "1、国际经贸环境风险；2025年 1月，欧盟委员会对公司作出反倾销终裁，对原产于中国的赤藓糖醇（包括纯赤藓糖醇或混合后其他产品含量低于10%的赤藓糖醇）征收156.7%的反倾销税。2026年2月，美国商务部作出“双反”终裁，公司相关产品适用 8.63%的反补贴税率；在反倾销层面，直接出口适用 184.26%的现金保证金率，通过特定单独税率渠道（SRA）出口则适用 84.95%的现金保证金率。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧及下游波动风险，行业竞争态势差异化，新增产能释放可能导致价格下行。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争加剧及下游波动风险；健康甜味配料行业正处于动态调整期，细分领域的竞争态势呈现差异化特征。随着产业前景向好，可能吸引新的市场参与者进入或既有竞争对手通过扩产、降价等方式抢占市场份额，导致市场竞争加剧。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料及能源成本波动风险，主要产品成本受原材料和能源价格波动影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、原材料及能源成本波动风险；公司主要产品的生产成本受原材料和能源价格波动影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动风险，部分业务以外币结算，汇率波动可能影响收入确认和利润水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、汇率波动风险；公司部分业务以外币结算，汇率波动可能导致公司以外币计价的收入换算为人民币时产生汇兑损益，进而影响公司的收入确认金额及利润水平。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "政策法规及食品安全风险，需严格遵守国内外食品安全法律法规及监管要求，政策变化可能增加经营成本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、政策法规及食品安全风险；公司产品主要应用于食品领域，需严格遵守国内外食品安全法律法规及监管要求。若相关政策法规发生重大变化，公司可能需要投入额外资源调整生产工艺、产品配方等以适应新规，进而增加经营成本。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "客户集中度和信用风险，若主要客户减少采购或出现信用违约，将对经营稳定性产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、客户集中度和信用风险；公司在部分市场领域与核心客户建立了长期合作关系，若主要客户因经营策略调整、财务状况恶化等原因减少采购量或终止合作，将对公司的经营稳定性产生不利影响。"
+    }
+  ]
+}

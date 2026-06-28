@@ -1,0 +1,508 @@
+{
+  "company_name_mentioned": "北京百普赛斯生物科技股份有限公司",
+  "produces": [
+    {
+      "name": "重组蛋白",
+      "type": "material",
+      "revenue_proportion": "81.01%",
+      "quote": "重组蛋白是公司最核心的收入来源，2025年贡献收入 67,896.24万元，占总收入 81.01%。"
+    },
+    {
+      "name": "抗体",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "抗体作为生物药开发与生产过程中的关键试剂原料，贯穿从生物药物早期研发、工艺开发和生产，到临床应用的核心原料。"
+    },
+    {
+      "name": "试剂盒",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司基于先进的高整合生物免疫分析技术平台和单 B 高亲和力抗体开发平台，持续开发出多种试剂盒产品，技术平台涵盖 ELISA酶联免疫、TR FRET荧光共振能量转移，流式多因子检测、qPCR核酸和病毒安全性检测等技术平台。"
+    },
+    {
+      "name": "细胞株",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司基于成熟的细胞构建平台，持续开发出近300株报告基因细胞株、FCR细胞株、过表达细胞株、基因敲除细胞株、ADC 药物筛选及功能评价细胞株等高质量的细胞株产品。"
+    },
+    {
+      "name": "细胞级磁珠",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "具有超顺磁性的微小颗粒，并在其表面包被特定的抗体或配体，用于免疫捕获、细胞刺激、体外分析等实验的产品，如CD3/CD28 抗体偶联磁珠、CD19 磁珠、BCMA 磁珠等。"
+    },
+    {
+      "name": "细胞培养基",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "不含动物血清的细胞培养基，通过添加其他成分来支持细胞的生长、增殖和功能维持，如T 细胞培养基、NK 细胞培养基、iPSC 无血清培养基、MSC无血清培养基等。"
+    },
+    {
+      "name": "类器官相关产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司推出类器官解决方案，包括即用型类器官、类器官分化试剂盒、类器官维持试剂盒、类器官培养细胞因子、类器官培养基质胶、类器官技术服务等。"
+    },
+    {
+      "name": "技术服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主要产品及服务包括重组蛋白、抗体、试剂盒、细胞株、磁珠、培养基、类器官产品以及技术服务。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "生物化学试剂",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要采购生物化学试剂与实验室耗材。其中，生物化学试剂涵盖细胞培养基及组分、细胞株、引物、蛋白胨、酵母粉、转染试剂、缓冲液组分、工具酶等。"
+    },
+    {
+      "name": "实验室耗材",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "实验室耗材包括色谱柱、层析柱、非免染预制胶、传感芯片、纯化填料、酶标板等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "抗体药物领域",
+      "source_product": "重组蛋白、抗体等生物试剂",
+      "quote": "抗体药物的研发阶段包括临床前阶段、临床试验申请、临床研发阶段、产品上市申请、产品上市及上市后监测等，重组蛋白试剂可用于抗体药物的研发、生产及应用等环节。"
+    },
+    {
+      "name": "细胞与基因治疗（CGT）",
+      "source_product": "重组蛋白、抗体、试剂盒、GMP级原料、培养基、磁珠等",
+      "quote": "公司依托丰富的蛋白管线资源、成熟的蛋白制备与分析方法开发技术积淀，以及大量的实验数据支撑，能够为细胞与基因治疗客户提供从药物靶点发现到商业化生产的全流程解决方案。"
+    },
+    {
+      "name": "抗体偶联药物（ADC）",
+      "source_product": "靶点蛋白、酶、抗小分子抗体、ADC定点偶联试剂盒等",
+      "quote": "为满足 ADC 药物研发的迫切需求，公司持续拓展相关产品和技术服务。公司可提供一系列高质量的产品，包括多种靶点蛋白、用于 Linker 酶切的酶类、适用于 ADC PK 研究的抗小分子抗体及抗独特型抗体等。"
+    },
+    {
+      "name": "In vivo CAR细胞疗法",
+      "source_product": "荧光标记蛋白、CAR靶点蛋白、通用型CAR检测工具、检测服务等",
+      "quote": "公司依托 Star Staining 新一代定点标记技术平台及 GMP级别质量管理体系，为 In vivo CAR疗法从早期研发到商业化生产提供全流程解决方案。"
+    },
+    {
+      "name": "神经科学研究",
+      "source_product": "重组蛋白、预制前体纤维（PFFs）、神经因子等",
+      "quote": "公司聚焦脑科学研究需求构建特色产品线，为该领域提供高品质重组蛋白、预制前体纤维（pre-formed fibrils, PFFs）、神经因子等关键工具，助力脑科学研究。"
+    },
+    {
+      "name": "药物筛选及优化",
+      "source_product": null,
+      "quote": "公司主要产品及服务应用于肿瘤、自身免疫疾病、心血管病、传染病、脑神经、代谢等疾病的药物筛选及优化。"
+    },
+    {
+      "name": "临床前实验及临床试验",
+      "source_product": null,
+      "quote": "公司主要产品及服务应用于...临床前实验及临床试验。"
+    },
+    {
+      "name": "药物生产过程及工艺控制（CMC）",
+      "source_product": "GMP级别原料、检测产品、培养基、磁珠等",
+      "quote": "报告期内，随着下游创新药及细胞基因疗法（CGT）管线加速向临床中后期及商业化生产阶段推进，公司 CMC（生产工艺及质量控制）阶段相关业务迎来高速增长，成为驱动业绩增长的核心引擎。"
+    },
+    {
+      "name": "诊断试剂开发及优化",
+      "source_product": null,
+      "quote": "公司主要产品及服务应用于...诊断试剂开发及优化。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈宜顶",
+      "role": "董事长、总经理、实际控制人",
+      "quote": "公司负责人陈宜顶...声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "林涛",
+      "role": "副总经理、董事会秘书、财务负责人",
+      "quote": "主管会计工作负责人林涛及会计机构负责人(会计主管人员)林涛声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "苗景赟",
+      "role": "董事、副总经理",
+      "quote": "公司现任董事、高级管理人员...苗景赟先生...现任公司董事及副总经理。"
+    },
+    {
+      "name": "黄旭",
+      "role": "副总经理",
+      "quote": "公司现任董事、高级管理人员...黄旭女士...现任公司副总经理。"
+    },
+    {
+      "name": "陈霞敏",
+      "role": "副总经理",
+      "quote": "公司现任董事、高级管理人员...陈霞敏女士...现任公司副总经理。"
+    },
+    {
+      "name": "屈文婷",
+      "role": "职工董事",
+      "quote": "公司现任董事、高级管理人员...屈文婷女士...现任公司职工董事。"
+    },
+    {
+      "name": "李杨",
+      "role": "董事",
+      "quote": "公司现任董事、高级管理人员...李杨女士...现任公司董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "强生",
+      "relation_type": "customer",
+      "business_details": "全球 Top20 医药企业",
+      "quote": "公司客户覆盖强生、辉瑞、诺华、吉利德、罗氏、默克等全球 Top20 医药企业..."
+    },
+    {
+      "name": "辉瑞",
+      "relation_type": "customer",
+      "business_details": "全球 Top20 医药企业",
+      "quote": "公司客户覆盖强生、辉瑞、诺华、吉利德、罗氏、默克等全球 Top20 医药企业..."
+    },
+    {
+      "name": "诺华",
+      "relation_type": "customer",
+      "business_details": "全球 Top20 医药企业",
+      "quote": "公司客户覆盖强生、辉瑞、诺华、吉利德、罗氏、默克等全球 Top20 医药企业..."
+    },
+    {
+      "name": "吉利德",
+      "relation_type": "customer",
+      "business_details": "全球 Top20 医药企业",
+      "quote": "公司客户覆盖强生、辉瑞、诺华、吉利德、罗氏、默克等全球 Top20 医药企业..."
+    },
+    {
+      "name": "罗氏",
+      "relation_type": "customer",
+      "business_details": "全球 Top20 医药企业",
+      "quote": "公司客户覆盖强生、辉瑞、诺华、吉利德、罗氏、默克等全球 Top20 医药企业..."
+    },
+    {
+      "name": "默克",
+      "relation_type": "customer",
+      "business_details": "全球 Top20 医药企业",
+      "quote": "公司客户覆盖强生、辉瑞、诺华、吉利德、罗氏、默克等全球 Top20 医药企业..."
+    },
+    {
+      "name": "恒瑞医药",
+      "relation_type": "customer",
+      "business_details": "国内知名生物医药企业",
+      "quote": "...以及恒瑞医药、信达生物、君实生物、药明生物、百济神州、传奇生物等国内知名生物医药企业。"
+    },
+    {
+      "name": "信达生物",
+      "relation_type": "customer",
+      "business_details": "国内知名生物医药企业",
+      "quote": "...以及恒瑞医药、信达生物、君实生物、药明生物、百济神州、传奇生物等国内知名生物医药企业。"
+    },
+    {
+      "name": "君实生物",
+      "relation_type": "customer",
+      "business_details": "国内知名生物医药企业",
+      "quote": "...以及恒瑞医药、信达生物、君实生物、药明生物、百济神州、传奇生物等国内知名生物医药企业。"
+    },
+    {
+      "name": "药明生物",
+      "relation_type": "customer",
+      "business_details": "国内知名生物医药企业",
+      "quote": "...以及恒瑞医药、信达生物、君实生物、药明生物、百济神州、传奇生物等国内知名生物医药企业。"
+    },
+    {
+      "name": "百济神州",
+      "relation_type": "customer",
+      "business_details": "国内知名生物医药企业",
+      "quote": "...以及恒瑞医药、信达生物、君实生物、药明生物、百济神州、传奇生物等国内知名生物医药企业。"
+    },
+    {
+      "name": "传奇生物",
+      "relation_type": "customer",
+      "business_details": "国内知名生物医药企业",
+      "quote": "...以及恒瑞医药、信达生物、君实生物、药明生物、百济神州、传奇生物等国内知名生物医药企业。"
+    },
+    {
+      "name": "赛默飞",
+      "relation_type": "customer",
+      "business_details": "全球生物科技及生命科学服务行业龙头企业",
+      "quote": "...以及赛默飞、VWR、Abcam、药明康德等全球生物科技及生命科学服务行业龙头企业。"
+    },
+    {
+      "name": "VWR",
+      "relation_type": "customer",
+      "business_details": "全球生物科技及生命科学服务行业龙头企业",
+      "quote": "...以及赛默飞、VWR、Abcam、药明康德等全球生物科技及生命科学服务行业龙头企业。"
+    },
+    {
+      "name": "Abcam",
+      "relation_type": "customer",
+      "business_details": "全球生物科技及生命科学服务行业龙头企业",
+      "quote": "...以及赛默飞、VWR、Abcam、药明康德等全球生物科技及生命科学服务行业龙头企业。"
+    },
+    {
+      "name": "药明康德",
+      "relation_type": "customer",
+      "business_details": "全球生物科技及生命科学服务行业龙头企业",
+      "quote": "...以及赛默飞、VWR、Abcam、药明康德等全球生物科技及生命科学服务行业龙头企业。"
+    },
+    {
+      "name": "百斯医学诊断科技（北京）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，专注于为生物制药和医学诊断领域提供分析检测试剂产品和定制化服务",
+      "quote": "公司特设立子公司——百斯医学。百斯医学专注于为生物制药和医学诊断领域提供分析检测试剂产品和定制化服务..."
+    },
+    {
+      "name": "杭州韬圃科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "杭州韬圃科技有限公司，公司控股子公司。"
+    },
+    {
+      "name": "苏州百普赛斯生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "苏州百普赛斯生物科技有限公司，公司全资子公司。"
+    },
+    {
+      "name": "百普赛斯（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "百普赛斯（香港）有限公司（ACROBIOSYSTEMS HONGKONG LIMITED），公司全资子公司。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "重组蛋白",
+      "segment_type": "product_line",
+      "revenue_amount": "678,962,411.44",
+      "revenue_proportion": "81.01%",
+      "gross_margin": "93.10%",
+      "yoy_change": "26.74%",
+      "quote": "重组蛋白 678,962,411.44 81.01% 535,693,555.35 83.05% 26.74%"
+    },
+    {
+      "name": "技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "17,076,894.39",
+      "revenue_proportion": "2.04%",
+      "gross_margin": null,
+      "yoy_change": "-2.13%",
+      "quote": "技术服务 17,076,894.39 2.04% 17,448,458.51 2.71% -2.13%"
+    },
+    {
+      "name": "抗体、试剂盒及其他试剂",
+      "segment_type": "product_line",
+      "revenue_amount": "127,519,228.34",
+      "revenue_proportion": "15.21%",
+      "gross_margin": "88.87%",
+      "yoy_change": "59.81%",
+      "quote": "抗体、试剂盒及其他试剂 127,519,228.34 15.21% 79,794,364.09 12.37% 59.81%"
+    },
+    {
+      "name": "其他业务收入",
+      "segment_type": "other",
+      "revenue_amount": "14,559,085.21",
+      "revenue_proportion": "1.74%",
+      "gross_margin": null,
+      "yoy_change": "20.47%",
+      "quote": "其他业务收入 14,559,085.21 1.74% 12,085,513.11 1.87% 20.47%"
+    },
+    {
+      "name": "研究和试验发展",
+      "segment_type": "other",
+      "revenue_amount": "823,558,534.17",
+      "revenue_proportion": "98.26%",
+      "gross_margin": "92.13%",
+      "yoy_change": "30.12%",
+      "quote": "研究和试验发展 823,558,534.17 98.26% 632,936,377.95 98.13% 30.12%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "303,744,406.28",
+      "revenue_proportion": "36.24%",
+      "gross_margin": "91.71%",
+      "yoy_change": "40.39%",
+      "quote": "境内 303,744,406.28 36.24% 216,355,440.41 33.54% 40.39%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "534,373,213.10",
+      "revenue_proportion": "63.76%",
+      "gross_margin": "90.84%",
+      "yoy_change": "24.66%",
+      "quote": "境外 534,373,213.10 63.76% 428,666,450.65 66.46% 24.66%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "207,749,993.99",
+      "revenue_proportion": "24.79%",
+      "gross_margin": "91.77%",
+      "yoy_change": "23.27%",
+      "quote": "经销 207,749,993.99 24.79% 168,528,126.45 26.13% 23.27%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "630,367,625.39",
+      "revenue_proportion": "75.21%",
+      "gross_margin": "90.95%",
+      "yoy_change": "32.29%",
+      "quote": "直销 630,367,625.39 75.21% 476,493,764.61 73.87% 32.29%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "苏州GMP生产基地",
+      "project_type": "capacity_expansion",
+      "location": "苏州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "投产",
+      "expected_completion_time": null,
+      "quote": "依托苏州 GMP 生产基地的全面投产，公司在该领域已实现深度产业链布局。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "膜蛋白表达纯化技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "开发了膜蛋白表达纯化技术、基于数据分析的困难蛋白优化表达技术、生物素和荧光素蛋白标记平台技术等多项核心技术。"
+    },
+    {
+      "name": "AI驱动蛋白设计技术",
+      "asset_type": "core_technology",
+      "related_product": "重组蛋白",
+      "quantitative_info": null,
+      "quote": "公司深度融合人工智能辅助蛋白质设计技术，构建“AI 预测+实验验证”双轮驱动的开发模式。"
+    },
+    {
+      "name": "GMP级别产品质量管理体系",
+      "asset_type": "certification",
+      "related_product": "GMP级别产品",
+      "quantitative_info": "超80款",
+      "quote": "公司基于 GMP级别质量管理体系，结合细胞治疗药物生产特殊规范，公司已成功开发超 80款高质量 GMP级别产品。"
+    },
+    {
+      "name": "定点荧光标记蛋白技术平台",
+      "asset_type": "core_technology",
+      "related_product": "荧光标记蛋白",
+      "quantitative_info": null,
+      "quote": "采用专有定点偶联技术（Site-Specific Conjugation）制备的荧光标记蛋白。"
+    },
+    {
+      "name": "单B细胞抗体开发技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "抗体",
+      "quantitative_info": null,
+      "quote": "公司基于先进的单 B 细胞技术平台，结合高表达细胞工程和抗体生产平台，已成功开发...一系列抗体产品。"
+    },
+    {
+      "name": "TR-FRET荧光共振能量转移技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "TR-FRET试剂盒",
+      "quantitative_info": null,
+      "quote": "公司基于先进的高整合生物免疫分析技术平台和单 B 高亲和力抗体开发平台，持续开发出...TR FRET荧光共振能量转移...技术平台。"
+    },
+    {
+      "name": "免疫磁珠技术",
+      "asset_type": "core_technology",
+      "related_product": "细胞级磁珠",
+      "quantitative_info": null,
+      "quote": "在生物材料技术方面，具备化学界定细胞培养基及补料研发技术、免疫磁珠技术。"
+    },
+    {
+      "name": "基因定点整合技术",
+      "asset_type": "core_technology",
+      "related_product": "细胞株",
+      "quantitative_info": null,
+      "quote": "在细胞工程技术方面，拥有基因定点整合技术、细胞工程化改造技术。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "20.74%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 20.74%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "11.33%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 94,969,357.54 11.33%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "34.38%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 34.38%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "11.55%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 30,626,768.24 11.55%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "生物医药及生物试剂行业属于知识和技术密集型行业，具有技术更新快的特点，且可能受到快速及重大技术变革的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）技术升级迭代的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "新产品开发风险。市场对生物试剂的准确性、稳定性及多样性等要求不断提高，生命科学研究的热点不断变化，公司需要密切跟踪生物医药领域的市场动态并及时进行新产品的前瞻性研发。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）新产品开发风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "专有技术、工艺或其他商业秘密泄露的风险。除了公司已获得的专利和待审批专利申请外，公司还有自身经验形成的未申请专利的专有技术、工艺等商业秘密。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）专有技术、工艺或其他商业秘密泄露的风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "中美贸易摩擦导致境外收入下滑的风险。美国是生物医药行业的重点市场，若未来中美贸易摩擦进一步加剧，公司在美国市场业务的开展将受到不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）中美贸易摩擦导致境外收入下滑的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧风险。近年来生物试剂及技术服务行业发展迅速亦带动国内相关企业快速成长并积极布局，进一步加剧了国内生物试剂及技术服务行业的竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（5）市场竞争加剧风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "人力成本上升及核心技术人才流失的风险。公司所处行业为知识密集型、人才密集型行业。人才是公司提供经营服务的关键生产要素。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（6）人力成本上升及核心技术人才流失的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "内控风险。公司正处于快速发展时期，业务和资产规模迅速扩张，对公司管理团队的运营能力、内部控制能力、人力资源管理能力也都提出了更高的要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（7）内控风险"
+    }
+  ]
+}

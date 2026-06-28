@@ -1,0 +1,518 @@
+{
+  "company_name_mentioned": "北京京能电力股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "21.32% (毛利率)",
+      "quote": "公司主营生产、销售电力热力产品、电力设备运行，发电设备检测、修理、脱硫石膏销售等，产品为电力和热力。"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "-35.11% (毛利率)",
+      "quote": "公司主营生产、销售电力热力产品、电力设备运行，发电设备检测、修理、脱硫石膏销售等，产品为电力和热力。"
+    },
+    {
+      "name": "售电服务",
+      "type": "service",
+      "revenue_proportion": "8.78% (毛利率)",
+      "quote": "售电服务 98,190,672.26 89,569,272.87 8.78"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "电力、热力",
+      "cost_proportion": null,
+      "quote": "2025年，中国煤炭市场总体呈现“供需相对宽松，价格中枢下移”的运行态势。...公司坚持“长协为主、市场为辅”采购原则，长协覆盖率超过100%，圆满完成全年保供任务。通过长协管理和区域集中采购，入厂标煤单价同比下降15%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "电力",
+      "quote": "公司全年累计完成上网电量882.26亿千瓦时"
+    },
+    {
+      "name": "工业生产",
+      "source_product": "电力、热力",
+      "quote": "公司业务主要覆盖内蒙、山西、河北、宁夏、河南、湖北、甘肃等区域"
+    },
+    {
+      "name": "居民供暖",
+      "source_product": "热力",
+      "quote": "公司是北京市能源投资主体，主营业务为投资、建设、运营管理以电力生产为主的能源项目，公司电力业务以燃煤发电和供热为主"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张凤阳",
+      "role": "董事长",
+      "quote": "公司负责人张凤阳、主管会计工作负责人秦磊及会计机构负责人（会计主管人员）程铭声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "杨松",
+      "role": "董事、总经理",
+      "quote": "董事、总经理 杨松"
+    },
+    {
+      "name": "秦磊",
+      "role": "副总经理、总会计师、董事会秘书",
+      "quote": "副总经理、总会计师、董事会秘书 秦磊"
+    },
+    {
+      "name": "周建裕",
+      "role": "董事",
+      "quote": "周建裕 董事"
+    },
+    {
+      "name": "孙永兴",
+      "role": "董事",
+      "quote": "孙永兴 董事"
+    },
+    {
+      "name": "李鹏",
+      "role": "董事",
+      "quote": "李鹏 董事"
+    },
+    {
+      "name": "柳成亮",
+      "role": "董事",
+      "quote": "柳成亮 董事"
+    },
+    {
+      "name": "赵洁",
+      "role": "独立董事",
+      "quote": "赵洁 独立董事"
+    },
+    {
+      "name": "刘洪跃",
+      "role": "独立董事",
+      "quote": "刘洪跃 独立董事"
+    },
+    {
+      "name": "王志强",
+      "role": "独立董事",
+      "quote": "王志强 独立董事"
+    },
+    {
+      "name": "韩志勇",
+      "role": "副总经理",
+      "quote": "韩志勇 副总经理"
+    },
+    {
+      "name": "王清",
+      "role": "副总经理",
+      "quote": "王清 副总经理"
+    },
+    {
+      "name": "李前宇",
+      "role": "副总经理",
+      "quote": "李前宇 副总经理"
+    },
+    {
+      "name": "孙志强",
+      "role": "副总经理",
+      "quote": "孙志强 副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "销售电力",
+      "quote": "前五名客户销售额3,330,474.05万元，占年度销售总额94.01%；其中前五名客户销售额中关联方销售额65,614.80万元，占年度销售总额1.85%。1 国家电网有限公司 2,291,744.52 64.69"
+    },
+    {
+      "name": "北京能源集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东、实际控制人",
+      "quote": "北京能源集团有限责任公司为本公司控股股东及实际控制人。"
+    },
+    {
+      "name": "京能集团财务有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "金融服务（存款、贷款）",
+      "quote": "本公司向参股的京能集团财务有限公司按照20%的持股比例向财务公司增资人民币10亿元。"
+    },
+    {
+      "name": "内蒙古岱海发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "电力生产、销售",
+      "quote": "岱海发电 指 内蒙古岱海发电有限责任公司"
+    },
+    {
+      "name": "宁夏京能宁东发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "电力生产、销售",
+      "quote": "宁东发电 指 宁夏京能宁东发电有限责任公司"
+    },
+    {
+      "name": "内蒙古京泰发电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "电力生产、销售",
+      "quote": "京泰发电 指 内蒙古京泰发电有限责任公司"
+    },
+    {
+      "name": "内蒙古京宁热电有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "电力生产、销售",
+      "quote": "京宁热电 指 内蒙古京宁热电有限责任公司"
+    },
+    {
+      "name": "中煤京能秦皇岛能源开发有限责任公司",
+      "relation_type": "joint_venture",
+      "business_details": "能源开发",
+      "quote": "中煤京能秦皇岛能源 指 中煤京能秦皇岛能源开发有限责任公司"
+    },
+    {
+      "name": "中国人寿保险股份有限公司",
+      "relation_type": "customer",
+      "business_details": "投资者",
+      "quote": "中国人寿保险股份有限公司－分红－个人分红－005L－FH002沪 431,432,509 6.44"
+    },
+    {
+      "name": "山西国际电力集团有限公司",
+      "relation_type": "customer",
+      "business_details": "投资者",
+      "quote": "山西国际电力集团有限公司 424,686,128 6.34"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "售电",
+      "segment_type": "product_line",
+      "revenue_amount": "32,281,357,325.75",
+      "revenue_proportion": null,
+      "gross_margin": "26.27%",
+      "yoy_change": "增加 8.37 个百分点",
+      "quote": "售电 32,281,357,325.75 23,802,197,367.29 26.27 -0.72 -10.84"
+    },
+    {
+      "name": "售热",
+      "segment_type": "product_line",
+      "revenue_amount": "2,806,593,945.26",
+      "revenue_proportion": null,
+      "gross_margin": "-35.11%",
+      "yoy_change": "增加 11.97 个百分点",
+      "quote": "售热 2,806,593,945.26 3,792,000,862.45 -35.11 9.23 0.34 11.97"
+    },
+    {
+      "name": "售电服务",
+      "segment_type": "product_line",
+      "revenue_amount": "98,190,672.26",
+      "revenue_proportion": null,
+      "gross_margin": "8.78%",
+      "yoy_change": "减少 25.53 个百分点",
+      "quote": "售电服务 98,190,672.26 89,569,272.87 8.78 4.84 45.59 25.53"
+    },
+    {
+      "name": "华北网地区",
+      "segment_type": "region",
+      "revenue_amount": "14,841,161,663.09",
+      "revenue_proportion": null,
+      "gross_margin": "26.18%",
+      "yoy_change": "增加 12.00 个百分点",
+      "quote": "华北网地区 14,841,161,663.09 10,956,401,809.97 26.18 4.98 -9.70 12.00"
+    },
+    {
+      "name": "内蒙电网地区",
+      "segment_type": "region",
+      "revenue_amount": "10,812,225,588.76",
+      "revenue_proportion": null,
+      "gross_margin": "20.08%",
+      "yoy_change": "增加 4.53 个百分点",
+      "quote": "内蒙电网地区 10,812,225,588.76 8,640,998,014.96 20.08 -7.03 -12.02 4.53"
+    },
+    {
+      "name": "山西地区",
+      "segment_type": "region",
+      "revenue_amount": "3,281,335,618.76",
+      "revenue_proportion": null,
+      "gross_margin": "5.21%",
+      "yoy_change": "增加 4.53 个百分点",
+      "quote": "山西地区 3,281,335,618.76 3,110,466,115.94 5.21 -9.44 -13.56 4.53"
+    },
+    {
+      "name": "宁夏地区",
+      "segment_type": "region",
+      "revenue_amount": "2,367,652,107.62",
+      "revenue_proportion": null,
+      "gross_margin": "18.40%",
+      "yoy_change": "增加 4.83 个百分点",
+      "quote": "宁夏地区 2,367,652,107.62 1,932,006,827.31 18.40 11.72 5.48 4.83"
+    },
+    {
+      "name": "湖北地区",
+      "segment_type": "region",
+      "revenue_amount": "2,329,938,359.06",
+      "revenue_proportion": null,
+      "gross_margin": "18.84%",
+      "yoy_change": "增加 8.38 个百分点",
+      "quote": "湖北地区 2,329,938,359.06 1,890,923,937.29 18.84 5.37 -4.49"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "总装机容量",
+      "metric_type": "capacity",
+      "value": "2466.7万千瓦",
+      "period": "报告期末",
+      "quote": "截至2025年末，公司总装机容量2466.7万千瓦，同比增长122.21万千瓦"
+    },
+    {
+      "product": "火电装机容量",
+      "metric_type": "capacity",
+      "value": "2139万千瓦",
+      "period": "报告期末",
+      "quote": "火电装机容量2139万千瓦"
+    },
+    {
+      "product": "集中式风电装机容量",
+      "metric_type": "capacity",
+      "value": "242.67万千瓦",
+      "period": "报告期末",
+      "quote": "集中式风电装机容量242.67万千瓦"
+    },
+    {
+      "product": "集中式光伏装机容量",
+      "metric_type": "capacity",
+      "value": "74.05万千瓦",
+      "period": "报告期末",
+      "quote": "集中式光伏装机容量74.05万千瓦"
+    },
+    {
+      "product": "发电量",
+      "metric_type": "production_volume",
+      "value": "951.88亿千瓦时",
+      "period": "2025年",
+      "quote": "2025年，公司下属控股各运行发电企业全年累计完成发电量951.88亿千瓦时，同比降幅3.09%"
+    },
+    {
+      "product": "火力发电量",
+      "metric_type": "production_volume",
+      "value": "907.88亿千瓦时",
+      "period": "2025年",
+      "quote": "其中火力发电累计完成发电量907.88亿千瓦时，同比降幅5.91%"
+    },
+    {
+      "product": "新能源发电量",
+      "metric_type": "production_volume",
+      "value": "44.01亿千瓦时",
+      "period": "2025年",
+      "quote": "新能源累计完成发电量44.01亿千瓦时，同比增长154.01%"
+    },
+    {
+      "product": "上网电量",
+      "metric_type": "sales_volume",
+      "value": "882.26亿千瓦时",
+      "period": "2025年",
+      "quote": "2025年全年累计完成上网电量882.26亿千瓦时，同比降幅2.99%"
+    },
+    {
+      "product": "火力上网电量",
+      "metric_type": "sales_volume",
+      "value": "839.08亿千瓦时",
+      "period": "2025年",
+      "quote": "其中火力发电累计完成上网电量839.08亿千瓦时，同比降幅5.98%"
+    },
+    {
+      "product": "新能源上网电量",
+      "metric_type": "sales_volume",
+      "value": "43.18亿千瓦时",
+      "period": "2025年",
+      "quote": "新能源累计完成上网电量43.18亿千瓦时，同比增长153.29%"
+    },
+    {
+      "product": "供热量",
+      "metric_type": "production_volume",
+      "value": "9609.00万吉焦",
+      "period": "2025年",
+      "quote": "热能 万吉焦 9,609.00 6.05"
+    },
+    {
+      "product": "利用小时",
+      "metric_type": "capacity_utilization",
+      "value": "4305小时",
+      "period": "2025年",
+      "quote": "合计 4305 4584 ↓279"
+    },
+    {
+      "product": "发电厂用电率",
+      "metric_type": "other",
+      "value": "7.37%",
+      "period": "2025年",
+      "quote": "合计 4305 4584 ↓279 7.37 7.41 ↓0.04"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "察右后旗32万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "32万千瓦",
+      "progress": "年度实现并网发电",
+      "expected_completion_time": null,
+      "quote": "察右后旗32万千瓦风电、查干40万千瓦风光、酒泉20万千瓦风电、武乡一期13万千瓦光伏等项目年度实现并网发电。"
+    },
+    {
+      "name": "查干淖尔40万千瓦新能源项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "40万千瓦",
+      "progress": "年度实现并网发电",
+      "expected_completion_time": null,
+      "quote": "查干40万千瓦风光、酒泉20万千瓦风电、武乡一期13万千瓦光伏等项目年度实现并网发电。"
+    },
+    {
+      "name": "酒泉20万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "甘肃",
+      "investment_amount": null,
+      "designed_capacity": "20万千瓦",
+      "progress": "年度实现并网发电",
+      "expected_completion_time": null,
+      "quote": "酒泉20万千瓦风电、武乡一期13万千瓦光伏等项目年度实现并网发电。"
+    },
+    {
+      "name": "武乡一期13万千瓦光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "山西",
+      "investment_amount": null,
+      "designed_capacity": "13万千瓦",
+      "progress": "年度实现并网发电",
+      "expected_completion_time": null,
+      "quote": "武乡一期13万千瓦光伏等项目年度实现并网发电。"
+    },
+    {
+      "name": "涿州二期项目",
+      "project_type": "construction_project",
+      "location": "河北",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "开工建设，实现“出零米”的年度目标",
+      "expected_completion_time": null,
+      "quote": "涿州二期项目按照“树行业标杆、铸典范工程、创国优金奖”标准开工建设，实现“出零米”的年度目标。"
+    },
+    {
+      "name": "察右后旗81.8万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "81.8万千瓦",
+      "progress": "剩余49.8万千瓦风电在建",
+      "expected_completion_time": null,
+      "quote": "在建项目容量65.365万千瓦，均为新能源项目，主要为察右后旗81.8万千瓦风电项目（剩余49.8万千瓦风电）、京康14万千瓦光伏项目。"
+    },
+    {
+      "name": "京康14万千瓦光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "14万千瓦",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "在建项目容量65.365万千瓦，均为新能源项目，主要为察右后旗81.8万千瓦风电项目（剩余49.8万千瓦风电）、京康14万千瓦光伏项目。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智慧生产平台",
+      "asset_type": "technical_platform",
+      "related_product": "电力生产",
+      "quantitative_info": null,
+      "quote": "依托智慧生产平台精准调控核心参数，综合厂用电率同比降低0.04个百分点。"
+    },
+    {
+      "name": "省部级科技进步二等奖",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "1项",
+      "quote": "获得省部级科技进步二等奖1项"
+    },
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "120项",
+      "quote": "授权专利120项"
+    },
+    {
+      "name": "国际先进水平科技成果鉴定",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "4家企业",
+      "quote": "十堰热电、京宁热电、锡林发电、康巴什热电4家企业科技成果鉴定达国际先进水平"
+    },
+    {
+      "name": "国家首台套",
+      "asset_type": "certification",
+      "related_product": "涿州热电百万机组",
+      "quantitative_info": "1项",
+      "quote": "涿州热电百万机组入选国家首台套"
+    },
+    {
+      "name": "专精特新企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "3家企业",
+      "quote": "京泰发电、锡林发电、锡林能源3家企业获评专精特新企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "94.01%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额3,330,474.05万元，占年度销售总额94.01%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "64.69%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "1 国家电网有限公司 2,291,744.52 64.69"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "30.00%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额677,708.77万元，占年度采购总额30.00%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "新能源全面入市让中长期市场供给量大幅提升，其低边际成本对市场价格形成冲击，叠加现货市场全面铺开，市场竞争愈发激烈，不确定性显著增加，火电企业总体收益受到影响，公司面临较大的保量稳价压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1. 电力行业及市场风险...新能源全面入市让中长期市场供给量大幅提升，其低边际成本对市场价格形成冲击，叠加现货市场全面铺开，市场竞争愈发激烈，不确定性显著增加，火电企业总体收益受到影响，公司面临较大的保量稳价压力。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "宏观经济复苏推高全社会用电量，迎峰度冬夏及极端天气时段火电保供压力加剧，煤炭需求季节性回升，市场供需宽松格局或将面临阶段性调整。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "2. 燃料供给市场风险...宏观经济复苏推高全社会用电量，迎峰度冬夏及极端天气时段火电保供压力加剧，煤炭需求季节性回升，市场供需宽松格局或将面临阶段性调整。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "后续配额发放将持续收严并实行有偿分配，公司存在碳履约成本增加的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3. 碳市场风险...后续配额发放将持续收严并实行有偿分配...公司存在碳履约成本增加的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "在电力现货交易模式下，机组启停调峰、顶峰压谷频次显著增加，设备分析诊断能力和检修动态适应性面临压力，机组设备适应能力面临考验。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4. 机组设备可靠性运行风险...在电力现货交易模式下，机组启停调峰、顶峰压谷频次显著增加，设备分析诊断能力和检修动态适应性面临压力，机组设备适应能力面临考验。"
+    }
+  ]
+}

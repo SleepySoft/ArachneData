@@ -1,0 +1,585 @@
+{
+  "company_name_mentioned": "河南凯旺电子科技股份有限公司",
+  "produces": [
+    {
+      "name": "精密线缆连接组件",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是一家专注于电子精密线缆连接组件的研发、生产和销售的高新技术企业"
+    },
+    {
+      "name": "安防类精密线缆连接组件",
+      "type": "device",
+      "revenue_proportion": "48.29%",
+      "quote": "安防类精密线缆连接组件 368,162,405.08 48.29%"
+    },
+    {
+      "name": "消费类精密线缆连接组件及其他",
+      "type": "device",
+      "revenue_proportion": "17.97%",
+      "quote": "消费类精密线缆连接组件及其他 137,025,232.12 17.97%"
+    },
+    {
+      "name": "通讯类精密线缆连接组件",
+      "type": "device",
+      "revenue_proportion": "1.61%",
+      "quote": "通讯类精密线缆连接组件 12,296,938.40 1.61%"
+    },
+    {
+      "name": "五金类组件及零件类",
+      "type": "component",
+      "revenue_proportion": "9.52%",
+      "quote": "五金类组件及零件类 72,576,533.49 9.52%"
+    },
+    {
+      "name": "塑胶类组件及零件类",
+      "type": "component",
+      "revenue_proportion": "17.98%",
+      "quote": "塑胶类组件及零件类 137,039,838.06 17.98%"
+    },
+    {
+      "name": "组装加工业务",
+      "type": "service",
+      "revenue_proportion": "4.63%",
+      "quote": "组装加工业务 35,285,774.44 4.63%"
+    },
+    {
+      "name": "软硬铜排CCS",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "软硬铜排CCS 应用于储能、动力电池内部大电流互连的CCS及铜铝排产品。"
+    },
+    {
+      "name": "精密五金零组件，CNC机加工产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "精密五金零组件，CNC机加工产品 用精密机床加工的或压铸后精密机床加工以及精密冲床冲压的各类五金类模组及零件"
+    },
+    {
+      "name": "精密模具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "精密模具 加工各种精密塑胶模具、五金冲压模具、压铸模具、各种插头模具。"
+    },
+    {
+      "name": "压铸产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "压铸产品 各类五金压铸产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜材",
+      "target_product": "精密线缆连接组件等",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜材、钢材、铝材、胶料、线束、插头组件及端子等"
+    },
+    {
+      "name": "钢材",
+      "target_product": "精密线缆连接组件等",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜材、钢材、铝材、胶料、线束、插头组件及端子等"
+    },
+    {
+      "name": "铝材",
+      "target_product": "精密线缆连接组件等",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜材、钢材、铝材、胶料、线束、插头组件及端子等"
+    },
+    {
+      "name": "胶料",
+      "target_product": "精密线缆连接组件等",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括铜材、钢材、铝材、胶料、线束、插头组件及端子等"
+    },
+    {
+      "name": "原材料耗用",
+      "target_product": null,
+      "cost_proportion": "42.61%",
+      "quote": "营业成本 原材料耗用 312,255,139.02 42.61%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": null,
+      "cost_proportion": "18.02%",
+      "quote": "营业成本 直接人工 132,038,224.94 18.02%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": null,
+      "cost_proportion": "28.94%",
+      "quote": "营业成本 制造费用 212,015,531.48 28.94%"
+    },
+    {
+      "name": "外协加工费",
+      "target_product": null,
+      "cost_proportion": "10.43%",
+      "quote": "营业成本 外协加工费 76,451,732.40 10.43%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "安防设备",
+      "source_product": "精密线缆连接组件",
+      "quote": "目前产品主要应用于安防设备、通讯设备和消费电子等领域。"
+    },
+    {
+      "name": "通讯设备",
+      "source_product": "精密线缆连接组件",
+      "quote": "目前产品主要应用于安防设备、通讯设备和消费电子等领域。"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "精密线缆连接组件",
+      "quote": "目前产品主要应用于安防设备、通讯设备和消费电子等领域。"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "精密线缆连接组件",
+      "quote": "在汽车电子、轨道交通、新能源、机器人等领域的精密互联解决方案产品已经实现批量产品交付。"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "精密线缆连接组件",
+      "quote": "在汽车电子、轨道交通、新能源、机器人等领域的精密互联解决方案产品已经实现批量产品交付。"
+    },
+    {
+      "name": "新能源",
+      "source_product": "精密线缆连接组件、软硬铜排等",
+      "quote": "在汽车电子、轨道交通、新能源、机器人等领域的精密互联解决方案产品已经实现批量产品交付。"
+    },
+    {
+      "name": "机器人",
+      "source_product": "精密线缆连接组件、精密零组件等",
+      "quote": "在汽车电子、轨道交通、新能源、机器人等领域的精密互联解决方案产品已经实现批量产品交付。"
+    },
+    {
+      "name": "商业航天",
+      "source_product": "精密压铸结构件等",
+      "quote": "公司大力开拓新材料、新能源、机器人、AI算力、商业航天等领域的应用"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈海刚",
+      "role": "董事长、总经理",
+      "quote": "公司负责人陈海刚、主管会计工作负责人邵振康及会计机构负责人(会计主管人员)王培声明...自2016年12月至今，担任公司董事长兼总经理。"
+    },
+    {
+      "name": "邵振康",
+      "role": "副总经理、董事会秘书兼财务总监",
+      "quote": "公司负责人陈海刚、主管会计工作负责人邵振康及会计机构负责人(会计主管人员)王培声明...2019年1月至今任公司副总经理、董事会秘书、财务总监。"
+    },
+    {
+      "name": "柳中义",
+      "role": "董事、副总经理",
+      "quote": "柳中义，男，1974年出生，硕士学历...2016年12月至今任公司董事、副总经理。"
+    },
+    {
+      "name": "王逸",
+      "role": "董事",
+      "quote": "王逸，男，1976年出生，硕士学历...2016年12月至今任公司董事。"
+    },
+    {
+      "name": "吴玉辉",
+      "role": "职工代表董事",
+      "quote": "吴玉辉，男，1984年出生，本科学历...2025年12月05日起任职工代表董事。"
+    },
+    {
+      "name": "许良军",
+      "role": "独立董事",
+      "quote": "许良军，1956年出生...2022年12月至今任公司独立董事。"
+    },
+    {
+      "name": "梅献中",
+      "role": "独立董事",
+      "quote": "梅献中，1969年出生...2022年12月至今任公司独立董事。"
+    },
+    {
+      "name": "周学春",
+      "role": "独立董事",
+      "quote": "周学春，男，1973年出生...2025年12月05日起任独立董事。"
+    },
+    {
+      "name": "陈魁",
+      "role": "副总经理",
+      "quote": "陈魁，男，1991年出生...2025年12月05日起任副总经理。"
+    },
+    {
+      "name": "孙宝亮",
+      "role": "副总经理（首席技术官）",
+      "quote": "孙宝亮，男，1975年出生...2025年5月至今任公司首席技术官。2025年12月05日起任副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海康威视",
+      "relation_type": "customer",
+      "business_details": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。",
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "大华股份",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "中兴通讯",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "立讯精密",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "宇视科技",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "九号公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "韩华泰科",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "TTI",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "美律电子",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司已与海康威视、大华股份、中兴通讯、立讯精密、宇视科技、天地伟业、九号公司、韩华泰科、TTI、美律电子等国内外知名企业建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "深圳凯旺电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "深圳市凯旺电子有限公司，为本公司全资子公司",
+      "quote": "深圳市凯旺电子有限公司，为本公司全资子公司"
+    },
+    {
+      "name": "周口市凯旺精密工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "周口市凯旺精密工业有限公司，为本公司全资子公司",
+      "quote": "周口市凯旺精密工业有限公司，为本公司全资子公司"
+    },
+    {
+      "name": "周口市海鑫精密工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "周口市海鑫精密工业有限公司，为本公司全资子公司",
+      "quote": "周口市海鑫精密工业有限公司，为本公司全资子公司"
+    },
+    {
+      "name": "重庆杭达电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "重庆杭达电子有限公司，为本公司全资子公司",
+      "quote": "重庆杭达电子有限公司，为本公司全资子公司"
+    },
+    {
+      "name": "河南凯旺新材料研究院有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "河南凯旺新材料研究院有限公司，为本公司全资子公司",
+      "quote": "河南凯旺新材料研究院有限公司，为本公司全资子公司"
+    },
+    {
+      "name": "吉安市凯旺精密工业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年6月11日新注册吉安市凯旺精密工业有限公司，持股比例100%。",
+      "quote": "2025年6月11日新注册吉安市凯旺精密工业有限公司，持股比例100%。"
+    },
+    {
+      "name": "稳凯科技（东莞）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "2025年12月19日新注册稳凯科技（东莞）有限公司，持股比例65%。",
+      "quote": "2025年12月19日新注册稳凯科技（东莞）有限公司，持股比例65%。"
+    },
+    {
+      "name": "深圳市凯鑫投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东深圳市凯鑫投资有限公司公司由陈海刚和韩留才夫妇各持50%股份。",
+      "quote": "深圳市凯鑫投资有限公司公司由陈海刚和韩留才夫妇各持50%股份，为上述公司控股股东。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "精密线缆连接组件（分行业）",
+      "segment_type": "product_line",
+      "revenue_amount": "762,386,721.59",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "3.89%",
+      "yoy_change": "27.90%",
+      "quote": "分行业 精密线缆连接组件 762,386,721.59 100.00% ... 毛利率 3.89%"
+    },
+    {
+      "name": "安防类精密线缆连接组件",
+      "segment_type": "product_line",
+      "revenue_amount": "368,162,405.08",
+      "revenue_proportion": "48.29%",
+      "gross_margin": "0.73%",
+      "yoy_change": "-10.00%",
+      "quote": "安防类精密线缆连接组件 368,162,405.08 48.29% ... 毛利率 0.73%"
+    },
+    {
+      "name": "消费类精密线缆连接组件及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "137,025,232.12",
+      "revenue_proportion": "17.97%",
+      "gross_margin": "1.19%",
+      "yoy_change": "16.09%",
+      "quote": "消费类精密线缆连接组件及其他 137,025,232.12 17.97% ... 毛利率 1.19%"
+    },
+    {
+      "name": "塑胶类组件及零件类",
+      "segment_type": "product_line",
+      "revenue_amount": "137,039,838.06",
+      "revenue_proportion": "17.98%",
+      "gross_margin": "12.60%",
+      "yoy_change": "644.83%",
+      "quote": "塑胶类组件及零件类 137,039,838.06 17.98% ... 毛利率 12.60%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "671,320,880.90",
+      "revenue_proportion": "88.06%",
+      "gross_margin": "4.18%",
+      "yoy_change": "19.84%",
+      "quote": "境内 671,320,880.90 88.06% ... 毛利率 4.18%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "91,065,840.69",
+      "revenue_proportion": "11.94%",
+      "gross_margin": "1.72%",
+      "yoy_change": "153.68%",
+      "quote": "境外 91,065,840.69 11.94% ... 毛利率 1.72%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "762,386,721.59",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "3.89%",
+      "yoy_change": "27.90%",
+      "quote": "直销 762,386,721.59 100.00% ... 毛利率 3.89%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "安防类精密线缆连接组件",
+      "metric_type": "sales_volume",
+      "value": "17,352.45 万条",
+      "period": "2025年",
+      "quote": "安防类精密线缆连接组件 销售量 万条 17,352.45"
+    },
+    {
+      "product": "安防类精密线缆连接组件",
+      "metric_type": "production_volume",
+      "value": "14,592.36 万条",
+      "period": "2025年",
+      "quote": "安防类精密线缆连接组件 生产量 万条 14,592.36"
+    },
+    {
+      "product": "安防类精密线缆连接组件",
+      "metric_type": "inventory_volume",
+      "value": "2,132.21 万条",
+      "period": "2025年",
+      "quote": "安防类精密线缆连接组件 库存量 万条 2,132.21"
+    },
+    {
+      "product": "五金类组件及零件类产品",
+      "metric_type": "sales_volume",
+      "value": "3,256.04 万个",
+      "period": "2025年",
+      "quote": "五金类组件及零件类产品 销售量 万个 3,256.04"
+    },
+    {
+      "product": "五金类组件及零件类产品",
+      "metric_type": "production_volume",
+      "value": "3,441.06 万个",
+      "period": "2025年",
+      "quote": "五金类组件及零件类产品 生产量 万个 3,441.06"
+    },
+    {
+      "product": "塑胶类组件及零件类产品",
+      "metric_type": "sales_volume",
+      "value": "64,339.55 万个",
+      "period": "2025年",
+      "quote": "塑胶类组件及零件类产品 销售量 万个 64,339.55"
+    },
+    {
+      "product": "塑胶类组件及零件类产品",
+      "metric_type": "production_volume",
+      "value": "70,481.78 万个",
+      "period": "2025年",
+      "quote": "塑胶类组件及零件类产品 生产量 万个 70,481.78"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "电子智能化设备零部件技术升级改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "5,049.50 万元",
+      "designed_capacity": null,
+      "progress": "投资进度 105.63%",
+      "expected_completion_time": "2024年10月31日",
+      "quote": "变更后 电子智能化设备零部件技术升级改造项目 项目拟投入募集资金总额 5,049.50 截至期末实际累计投入金额 5,333.87 项目达到预定可使用状态日期 2024年10月31日"
+    },
+    {
+      "name": "设立吉安市凯旺精密工业有限公司",
+      "project_type": "capacity_expansion",
+      "location": "江西",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司在江西设立吉安凯旺精密有限公司，配套核心客户，生产精密工模具、治具、夹具、载具等自动化精密模组及部件系列产品。"
+    },
+    {
+      "name": "设立稳凯科技（东莞）有限公司",
+      "project_type": "capacity_expansion",
+      "location": "东莞",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司在东莞设立稳凯科技（东莞）有限公司，配套核心客户，生产精密五金零组件、热管理模组、液冷周边精密零组件等系列产品。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "IP67防水技术",
+      "asset_type": "core_technology",
+      "related_product": "安防防水产品",
+      "quantitative_info": null,
+      "quote": "公司掌握IP67 防水技术、阻断式防水技术、信号完整性处理技术等关键技术"
+    },
+    {
+      "name": "阻断式防水技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司掌握IP67 防水技术、阻断式防水技术、信号完整性处理技术等关键技术"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "持续有效的专利147项（含圆形RJ45连接器等核心专利）",
+      "quote": "目前拥有持续有效的专利147项（含圆形RJ45连接器等核心专利），构建了安防领域防水产品技术体系。"
+    },
+    {
+      "name": "ISO9001质量管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已先后通过ISO9001质量管理体系、IATF 16949汽车行业质量体系、医疗器械质量管理体系、ISO14001环境管理体系及国家级实验室CNAS认可等多项认证"
+    },
+    {
+      "name": "IATF 16949汽车行业质量体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已先后通过ISO9001质量管理体系、IATF 16949汽车行业质量体系、医疗器械质量管理体系、ISO14001环境管理体系及国家级实验室CNAS认可等多项认证"
+    },
+    {
+      "name": "ISO14001环境管理体系",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已先后通过ISO9001质量管理体系、IATF 16949汽车行业质量体系、医疗器械质量管理体系、ISO14001环境管理体系及国家级实验室CNAS认可等多项认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "70.47%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 537,196,213.38 前五名客户合计销售金额占年度销售总额比例 70.47%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "31.82%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 242,604,369.79 31.82%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "53.25%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 412,425,953.20 前五名供应商合计采购金额占年度采购总额比例 53.25%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "36.86%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 285,493,015.86 36.86%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "公司客户集中度处于较高水平",
+      "related_entity": null,
+      "period": null,
+      "quote": "受国内行业市场集中度较高的影响，公司客户集中度处于较高水平。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "受国内行业市场集中度较高的影响，公司客户集中度处于较高水平。若主要客户经营状况发生重大不利变化，或因其他因素导致其对公司产品的需求下降，亦或由于公司产品交付质量、交付效率等未能满足客户要求而致使其转向其他供应商采购，均可能对公司经营业绩产生重大不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（一）客户集中及重大客户依赖风险：受国内行业市场集中度较高的影响，公司客户集中度处于较高水平。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "全球供应体系正面临大宗商品价格波动、生产与物流受限、市场竞争加剧等多重不利因素的冲击。公司已积极采取供应链优化措施并合理调控库存，但倘若供应链遭遇系统性风险，主要原材料如铜材、胶料等大宗商品价格出现异常波动，将可能对公司经营业绩构成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（二）供应链风险：全球供应体系正面临大宗商品价格波动、生产与物流受限、市场竞争加剧等多重不利因素的冲击。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "若公司未能密切跟踪前沿技术的发展趋势，无法实现业务的快速创新，亦不能持续保障产品质量稳定性、订单快速交付能力及产品创新研发能力，以满足客户多样化、定制化的订单需求，可能导致公司市场竞争力下降，进而对公司未来发展带来不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（三）技术更新换代风险：若公司未能密切跟踪前沿技术的发展趋势，无法实现业务的快速创新"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "连接器行业呈现“强者恒强”的竞争态势。国际知名连接器跨国公司多为集上游原材料、产品研发与销售于一体的大型制造企业，在产品质量与产业规模方面均具备显著优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "连接器行业呈现“强者恒强”的竞争态势。国际知名连接器跨国公司多为集上游原材料、产品研发与销售于一体的大型制造企业，在产品质量与产业规模方面均具备显著优势。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司在海外市场开展业务时主要采用外币结算。尽管公司已通过合理运用金融工具以降低风险，但销售、采购及融资活动产生的外币敞口客观存在，汇率波动将对公司财务表现产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（七）汇率波动风险：公司在海外市场开展业务时主要采用外币结算。"
+    }
+  ]
+}

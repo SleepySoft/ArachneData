@@ -1,0 +1,509 @@
+{
+  "company_name_mentioned": "北京新雷能科技股份有限公司",
+  "produces": [
+    {
+      "name": "电源类",
+      "type": "device",
+      "revenue_proportion": "89.67%",
+      "quote": "分产品 电源类 1,065,441,302.08 89.67% 831,033,682.06 90.16% 28.21%"
+    },
+    {
+      "name": "电驱电机类",
+      "type": "device",
+      "revenue_proportion": "3.30%",
+      "quote": "电驱电机类 39,244,212.15 3.30% 35,063,212.41 3.80% 11.92%"
+    },
+    {
+      "name": "集成电路及集成电路微模组",
+      "type": "component",
+      "revenue_proportion": "5.47%",
+      "quote": "集成电路及集成电路微模组 65,042,225.43 5.47% 39,830,703.04 4.32% 63.30%"
+    },
+    {
+      "name": "模块电源（含三次电源）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司电源产品属于开关电源应用领域，包括模块电源（含三次电源）、电源组件设备及系统。"
+    },
+    {
+      "name": "电源组件、设备及系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "电源组件是按照客户特定或共性需求设计的组件级电源产品...电源设备及系统是指将电网市电、发电机、化学电池、光伏电池或燃料电池等一次电能转换为用电设备所需直流或交流电的独立成套供电装置..."
+    },
+    {
+      "name": "集成电路（IC）类产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司集成电路（IC）类产品主要包括特种电源管理芯片、电机驱动芯片、集成电路微模组。"
+    },
+    {
+      "name": "电驱及电机类产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司电驱及电机类产品包含电机驱动模块、电机控制器及电机设备。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电子元器件、半导体芯片等原材料",
+      "target_product": "电力电子产品",
+      "cost_proportion": null,
+      "quote": "公司产品生产所需的电子元器件、半导体芯片等原材料品类较多，部分关键器件依赖特定供应商。"
+    },
+    {
+      "name": "控制芯片、功率器件、变压器、PCB板、结构件等",
+      "target_product": "电力电子产品",
+      "cost_proportion": null,
+      "quote": "电力电子产品产业链可分为三个层级：上游为原材料供应商，提供控制芯片、功率器件、变压器、PCB板、结构件等..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "数据中心",
+      "source_product": "电源类、集成电路类",
+      "quote": "公司主要产品包括集成电路（IC）类产品、电源类产品和电驱电机类产品，广泛应用于数据中心、通信、航空、航天、船舶、铁路等各个领域..."
+    },
+    {
+      "name": "通信",
+      "source_product": "电源类",
+      "quote": "同上"
+    },
+    {
+      "name": "航空、航天",
+      "source_product": "电源类、集成电路类、电驱电机类",
+      "quote": "同上"
+    },
+    {
+      "name": "船舶",
+      "source_product": "电源类",
+      "quote": "同上"
+    },
+    {
+      "name": "铁路",
+      "source_product": "电源类",
+      "quote": "同上"
+    },
+    {
+      "name": "新能源",
+      "source_product": "电源类",
+      "quote": "公司产品下游涵盖航空航天、通信、数据中心、新能源等领域..."
+    },
+    {
+      "name": "低空经济/通用航空/无人机",
+      "source_product": "电驱及电机类",
+      "quote": "随着低空经济、通用航空的快速发展，市场对高功重比、高转速、高可靠航空电机的需求持续增长。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王彬",
+      "role": "控股股东、实际控制人、董事长、总经理",
+      "quote": "控股股东、实际控制人 指 自然人王彬；公司负责人王彬"
+    },
+    {
+      "name": "王华燕",
+      "role": "董事会秘书、财务总监、副总经理",
+      "quote": "主管会计工作负责人王华燕；董事会秘书 王华燕"
+    },
+    {
+      "name": "杜永生",
+      "role": "董事、副总经理、总工程师",
+      "quote": "杜永生先生：1967年出生，本科学历...现任公司董事、副总经理及总工程师"
+    },
+    {
+      "name": "刘志宇",
+      "role": "董事、副总经理",
+      "quote": "刘志宇先生：1978年出生，硕士学历...现任公司董事兼副总经理"
+    },
+    {
+      "name": "王士民",
+      "role": "董事、副总经理（离任）",
+      "quote": "王士民先生因个人原因申请辞去第六届董事会董事及副总经理职务"
+    },
+    {
+      "name": "尚春",
+      "role": "董事",
+      "quote": "尚春先生：1981年出生，硕士学历...现任公司董事"
+    },
+    {
+      "name": "郭霄飞",
+      "role": "副总经理、管理者代表",
+      "quote": "郭霄飞先生:1979年出生，本科学历...现任公司副总经理兼管理者代表"
+    },
+    {
+      "name": "乐新风",
+      "role": "副总经理",
+      "quote": "乐新风先生：1983年5月出生，硕士研究生学历...现任公司副总经理"
+    },
+    {
+      "name": "乔晓林",
+      "role": "独立董事",
+      "quote": "乔晓林先生：1960年岀生，硕士学历...现任公司独立董事。"
+    },
+    {
+      "name": "卢海涛",
+      "role": "独立董事",
+      "quote": "卢海涛先生：1967年出生，博士研究生学历...现任公司独立董事。"
+    },
+    {
+      "name": "黄建华",
+      "role": "独立董事",
+      "quote": "黄建华，1975年6月出生，博士学位、研究员（教授）职称...现任公司独立董事。"
+    },
+    {
+      "name": "朱义章",
+      "role": "独立董事",
+      "quote": "朱义章先生：1981年2月出生...现任公司独立董事。"
+    },
+    {
+      "name": "骆智",
+      "role": "职工代表董事",
+      "quote": "骆智先生：1979年出生，硕士学历...现任公司职工代表董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "深圳市雷能混合集成电路有限公司（深圳雷能）",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产、研发、销售数据中心、通信用模块电源组件、设备及系统",
+      "quote": "深圳雷能 指 深圳市雷能混合集成电路有限公司；主要子公司及对公司净利润影响达10%以上的参股公司情况...深圳市雷能混合集成电路有限公司 子公司"
+    },
+    {
+      "name": "西安市新雷能电子科技有限责任公司（西安雷能）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "西安雷能 指 西安市新雷能电子科技有限责任公司"
+    },
+    {
+      "name": "武汉永力科技股份有限公司（永力科技）",
+      "relation_type": "subsidiary",
+      "business_details": "主要生产、研发、销售船舶、激光器、通信等模块电源、大功率电源组件、设备和供配电电源系统",
+      "quote": "永力科技 指 武汉永力科技股份有限公司；主要子公司及对公司净利润影响达10%以上的参股公司情况...武汉永力科技股份有限公司 子公司"
+    },
+    {
+      "name": "深圳市西格玛电源科技有限公司（深圳西格玛）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "深圳西格玛 指 深圳市西格玛电源科技有限公司"
+    },
+    {
+      "name": "新雷能（北京）微系统工程技术中心有限公司（微系统）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "微系统 指 新雷能（北京）微系统工程技术中心有限公司"
+    },
+    {
+      "name": "成都恩吉芯科技有限公司（恩吉芯）",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "恩吉芯 指 成都恩吉芯科技有限公司"
+    },
+    {
+      "name": "ADI（亚德诺半导体）",
+      "relation_type": "customer",
+      "business_details": "公司已成为国际知名企业ADI在数据中心领域二次电源产品的合作供应商，相关产品通过ADI渠道获得国际客户认证，并进入批量供货阶段。",
+      "quote": "公司已成为国际知名模拟芯片企业ADI在数据中心领域认证的二次电源合作伙伴"
+    },
+    {
+      "name": "三星电子",
+      "relation_type": "customer",
+      "business_details": "已与国内外多家知名通信设备厂商建立长期稳定的合作关系，是三星电子...等企业的主要供应商",
+      "quote": "是三星电子、诺基亚和信科移动等企业的主要供应商"
+    },
+    {
+      "name": "诺基亚",
+      "relation_type": "customer",
+      "business_details": "同上",
+      "quote": "同上"
+    },
+    {
+      "name": "信科移动",
+      "relation_type": "customer",
+      "business_details": "同上",
+      "quote": "同上"
+    },
+    {
+      "name": "联想",
+      "relation_type": "customer",
+      "business_details": "已完成...联想...等多家重点企业审厂认证...首次审厂便成功获评银牌供应商",
+      "quote": "已顺利完成联想、超云、海康、比亚迪等多家重点企业审厂认证...在核心重点客户联想的审厂认证中，公司凭借完善成熟的质量管控体系与领先的工程制造实力，首次审厂便成功获评银牌供应商"
+    },
+    {
+      "name": "超云",
+      "relation_type": "customer",
+      "business_details": "同上",
+      "quote": "同上"
+    },
+    {
+      "name": "海康",
+      "relation_type": "customer",
+      "business_details": "同上",
+      "quote": "同上"
+    },
+    {
+      "name": "比亚迪",
+      "relation_type": "customer",
+      "business_details": "同上",
+      "quote": "同上"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "高端装备及配套行业",
+      "segment_type": "other",
+      "revenue_amount": "1,174,241,764.51元",
+      "revenue_proportion": "98.83%",
+      "gross_margin": "38.32%",
+      "yoy_change": "28.77%",
+      "quote": "分行业 高端装备及配套行业 1,174,241,764.51 98.83% 911,908,235.23 98.93% 28.77%"
+    },
+    {
+      "name": "电源类",
+      "segment_type": "product_line",
+      "revenue_amount": "1,065,441,302.08元",
+      "revenue_proportion": "89.67%",
+      "gross_margin": "36.14%",
+      "yoy_change": "28.21%",
+      "quote": "分产品 电源类 1,065,441,302.08 89.67% 831,033,682.06 90.16% 28.21%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,127,604,245.09元",
+      "revenue_proportion": "94.90%",
+      "gross_margin": "38.00%",
+      "yoy_change": "34.51%",
+      "quote": "分地区 境内 1,127,604,245.09 94.90% 838,328,771.83 90.95% 34.51%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,185,935,491.58元",
+      "revenue_proportion": "99.81%",
+      "gross_margin": "38.46%",
+      "yoy_change": "28.94%",
+      "quote": "分销售模式 直销 1,185,935,491.58 99.81% 919,727,452.57 99.78% 28.94%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力电子产品",
+      "metric_type": "sales_volume",
+      "value": "2,077,408台/套",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 电力电子产品 销售量 台/套 2,077,408 1,813,655 14.54%"
+    },
+    {
+      "product": "电力电子产品",
+      "metric_type": "production_volume",
+      "value": "1,966,923台/套",
+      "period": "2025年",
+      "quote": "电力电子产品 生产量 台/套 1,966,923 1,950,295 0.85%"
+    },
+    {
+      "product": "电力电子产品",
+      "metric_type": "inventory_volume",
+      "value": "1,145,719台/套",
+      "period": "2025年末",
+      "quote": "电力电子产品 库存量 台/套 1,145,719 1,256,204 -8.80%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "特种电源扩产项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "78,464.86万元",
+      "designed_capacity": null,
+      "progress": "68.65%",
+      "expected_completion_time": "2026年4月30日",
+      "quote": "承诺投资项目 1、特种电源扩产项目 否 78,464.86 76,147.87 15,347.95 52,272.69 68.65% 2026年04月30日"
+    },
+    {
+      "name": "高可靠性SiP功率微系统产品产业化项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "14,508.05万元",
+      "designed_capacity": null,
+      "progress": "63.72%",
+      "expected_completion_time": "2026年4月30日",
+      "quote": "2、高可靠性SiP功率微系统产品产业化项目 否 14,508.05 14,508.05 1,723.39 9,244.78 63.72% 2026年04月30日"
+    },
+    {
+      "name": "5G通信及服务器电源扩产项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "9,370.05万元",
+      "designed_capacity": null,
+      "progress": "55.29%",
+      "expected_completion_time": null,
+      "quote": "3、5G通信及服务器电源扩产项目 否 9,370.05 9,370.05 5,180.47 5,683.47 55.29% 2023年12月08日"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "8,714.72万元",
+      "designed_capacity": null,
+      "progress": "57.43%",
+      "expected_completion_time": "2026年4月30日",
+      "quote": "4、研发中心建设项目 否 8,714.72 8,714.72 2,009.22 5,005.22 57.43% 2026年04月30日"
+    },
+    {
+      "name": "通信及数据中心电源研发制造基地项目（深圳）",
+      "project_type": "construction_project",
+      "location": "深圳",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "于2025年10月投入使用",
+      "expected_completion_time": null,
+      "quote": "公司位于深圳的通信及数据中心电源研发制造基地于2025年10月投入使用，工厂总面积22,000㎡"
+    },
+    {
+      "name": "电机驱动及电源研发制造基地项目（西安）",
+      "project_type": "construction_project",
+      "location": "西安",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "于2025年7月投入使用",
+      "expected_completion_time": null,
+      "quote": "公司位于西安的电机驱动及电源研发制造基地于2025年7月投入使用，工厂总面积15,000㎡。"
+    },
+    {
+      "name": "马来西亚生产基地",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": "2026年四季度",
+      "quote": "公司于马来西亚新建生产基地...马来西亚工厂预计于2026年四季度批量生产认证阶段"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "知识产权（累计）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得各项知识产权458项（其中发明72项，集成电路布图设计35项）",
+      "quote": "截至2025年12月31日，公司累计获得各项知识产权458项（其中发明72项，集成电路布图设计35项）"
+    },
+    {
+      "name": "知识产权（2025年）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "获得专利及各项知识产权59项，其中发明专利5项、集成电路布图设计9项",
+      "quote": "2025年度，公司获得专利及各项知识产权59项，其中发明专利5项、集成电路布图设计9项。"
+    },
+    {
+      "name": "电源类技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "电源类产品",
+      "quantitative_info": null,
+      "quote": "电源类技术平台涵盖高效电源变换、数字控制与智能监控、数据中心母线变换器、兆瓦级充电电源、低轨卫星电源、储能双向变换、气密封装混合集成电路、高精度激光电源等技术方向；"
+    },
+    {
+      "name": "电驱及电机类技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "电驱及电机类产品",
+      "quantitative_info": null,
+      "quote": "电驱及电机类技术平台覆盖高功率密度驱动模块、高功重比航空电机及控制器、高精度运动控制等技术方向；"
+    },
+    {
+      "name": "集成电路类技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "集成电路类产品",
+      "quantitative_info": null,
+      "quote": "集成电路类技术平台涵盖电源类集成电路设计、高功率密度SiP集成技术；"
+    },
+    {
+      "name": "通用工艺技术平台",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通用工艺技术平台涵盖高密度组装封装、先进热管理、电磁兼容性设计、抗辐照设计等共性与基础技术。"
+    },
+    {
+      "name": "起发一体航空电机",
+      "asset_type": "core_technology",
+      "related_product": "电驱及电机类产品",
+      "quantitative_info": "研制完成额定功率达250千瓦（峰值500千瓦）、最高转速5.4万转/分钟、功重比〉5千瓦/千克的起发一体航空电机；",
+      "quote": "研制完成额定功率达250千瓦（峰值500千瓦）、最高转速5.4万转/分钟、功重比〉5千瓦/千克的起发一体航空电机；"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "52.76%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "报告期内，公司前五名客户销售收入合计占当期营业收入的比例为 52.76%，客户相对集中"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16.81%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 16.81%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "各细分市场竞争格局持续演变，参与者增多，产品同质化压力加大。若下游行业景气度下行、主要客户资本开支缩减或市场竞争加剧，可能导致公司订单减少，进而对经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "一、下游需求与市场竞争风险 ... 同时，各细分市场竞争格局持续演变，参与者增多，产品同质化压力加大。"
+    },
+    {
+      "risk_type": "other",
+      "description": "新业务（数据中心、商业航天、电机电驱）尚处于市场导入或成长阶段，面临客户认证周期较长、市场竞争格局变化、下游需求不确定性等挑战。若新业务拓展进度不及预期，可能导致相关投入未能及时转化为收入，影响公司整体业绩增长。",
+      "related_entity": null,
+      "related_product": "新业务",
+      "quote": "二、新业务拓展风险 公司积极拓展数据中心、商业航天、电机电驱等新业务领域，上述业务尚处于市场导入或成长阶段，面临客户认证周期较长、市场竞争格局变化、下游需求不确定性等挑战。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "行业技术更新迭代较快，第三代半导体（SiC、GaN）应用、新型拓扑架构、数字化控制等新技术持续演进。若公司研发方向判断失误或技术路线选择不当，可能导致研发投入未能形成有效的技术成果和产品竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三、技术研发、技术迭代及人才流失风险 ... 第三代半导体（SiC、GaN）应用、新型拓扑架构、数字化控制等新技术持续演进。若公司研发方向判断失误或技术路线选择不当，可能导致研发投入未能形成有效的技术成果和产品竞争力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司所处行业对高素质研发技术人才和管理人才的需求较大，若核心技术人员流失，可能影响研发项目进度和成果质量，进而削弱公司的技术创新能力和市场竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "此外，公司所处行业对高素质研发技术人才和管理人才的需求较大，若核心技术人员流失，可能影响研发项目进度和成果质量，进而削弱公司的技术创新能力和市场竞争力。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司电源产品的客户主要集中在通信、航空、航天、船舶等行业，导致公司的客户集中度也相对较高。报告期内，公司前五名客户销售收入合计占当期营业收入的比例为 52.76%，客户相对集中，可能导致公司未来增长受制于重要客户的需求，并承受失去重要客户或大额订单所带来的市场风险。",
+      "related_entity": "通信、航空、航天、船舶等行业客户",
+      "related_product": "电源产品",
+      "quote": "四、客户集中风险 ... 报告期内，公司前五名客户销售收入合计占当期营业收入的比例为 52.76%，客户相对集中，可能导致公司未来增长受制于重要客户的需求，并承受失去重要客户或大额订单所带来的市场风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "报告期公司期末应收账款账面价值为 644,117,656.71 元，占流动资产的比例为 24.46%。随着公司业务规模扩大和客户结构多元化，应收账款余额可能进一步增加。若部分客户经营状况发生变化或回款周期延长，可能导致应收账款逾期或发生坏账，对公司现金流和经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "五、应收账款回收的风险 报告期公司期末应收账款账面价值为 644,117,656.71 元，占流动资产的比例为 24.46%。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "报告期，公司存货期末账面价值为 839,026,017.49 元，占当期总资产的比例为 19.77%，占比较高。若下游需求发生变化、技术迭代导致产品更新换代，或客户订单调整，可能导致部分存货出现滞销或可变现净值低于账面成本，从而面临存货跌价风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "六、存货跌价风险 报告期，公司存货期末账面价值为 839,026,017.49 元，占当期总资产的比例为 19.77%，占比较高。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司产品生产所需的电子元器件、半导体芯片等原材料品类较多，部分关键器件依赖特定供应商。若上游原材料价格大幅波动、供应商产能不足或供应中断，可能影响公司生产交付和成本控制。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "七、供应链与原材料波动风险 公司产品生产所需的电子元器件、半导体芯片等原材料品类较多，部分关键器件依赖特定供应商。若上游原材料价格大幅波动、供应商产能不足或供应中断，可能影响公司生产交付和成本控制。"
+    }
+  ]
+}

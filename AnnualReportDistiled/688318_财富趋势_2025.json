@@ -1,0 +1,277 @@
+{
+  "company_name_mentioned": "深圳市财富趋势科技股份有限公司",
+  "produces": [
+    {
+      "name": "证券行情交易系统软件",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司是国内证券行情交易系统软件和证券信息服务的重要供应商，主要业务包括软件销售、维护服务和证券信息服务。"
+    },
+    {
+      "name": "证券信息服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "证券信息服务业务包括授权行情服务和金融数据服务，满足机构或者个人客户对行情揭示和分析、金融数据增值服务及个性化服务的需求。"
+    },
+    {
+      "name": "软件维护服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司的软件维护服务包括软件日常维护和升级、应急支持、不定期回访、技术咨询、技术培训等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "证券行情数据及市场资讯信息",
+      "target_product": "证券信息服务",
+      "cost_proportion": null,
+      "quote": "作为证券信息服务供应商，公司需要对证券行情数据及市场资讯信息进行采购，主要是由公司直接与各金融信息供应商签署协议并按照协议约定支付价款获得相应的行情、数据及资讯信息。"
+    },
+    {
+      "name": "电脑软硬件、网络设备",
+      "target_product": "技术研发",
+      "cost_proportion": null,
+      "quote": "另外，公司技术研发工作所需要采购的电脑软硬件、网络设备等工具，主要是由公司向供应商直接购买。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "证券金融机构",
+      "source_product": "证券行情交易系统软件、维护服务、证券信息服务",
+      "quote": "面向证券金融机构，公司提供包括软件销售、软件维护服务和证券信息服务的综合解决方案。"
+    },
+    {
+      "name": "互联网和个人证券投资用户",
+      "source_product": "证券信息服务",
+      "quote": "面向互联网和个人证券投资用户，公司提供包括行情、资讯和金融数据的证券信息服务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄山",
+      "role": "董事长、总经理",
+      "quote": "公司负责人黄山、主管会计工作负责人陈丹及会计机构负责人（会计主管人员）陈丹声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "田进恩",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事会秘书 田进恩"
+    },
+    {
+      "name": "陈丹",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人陈丹"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "武汉通达信数字科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "软件开发及服务",
+      "quote": "通达信数字科技 指 公司全资子公司武汉通达信数字科技有限公司"
+    },
+    {
+      "name": "武汉通达信软件科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "软件开发及服务",
+      "quote": "通达信软件科技 指 公司全资子公司武汉通达信软件科技有限公司"
+    },
+    {
+      "name": "福建新意科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "软件和信息技术服务业",
+      "quote": "福建新意科技有限公司 5000万元人民币 33.00 软件和信息技术服务业"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "软件销售收入",
+      "segment_type": "product_line",
+      "revenue_amount": "109,810,780.28",
+      "revenue_proportion": null,
+      "gross_margin": "99.55",
+      "yoy_change": "-28.39",
+      "quote": "软件销售 109,810,780.28 494,176.98 99.55 -28.39 -76.06"
+    },
+    {
+      "name": "软件服务收入",
+      "segment_type": "product_line",
+      "revenue_amount": "169,486,642.74",
+      "revenue_proportion": null,
+      "gross_margin": "92.30",
+      "yoy_change": "6.64",
+      "quote": "软件服务 169,486,642.74 13,042,273.16 92.30 6.64 -9.38"
+    },
+    {
+      "name": "证券信息服务收入",
+      "segment_type": "product_line",
+      "revenue_amount": "88,616,804.90",
+      "revenue_proportion": null,
+      "gross_margin": "44.36",
+      "yoy_change": "15.85",
+      "quote": "证券信息 88,616,804.90 49,309,990.44 44.36 15.85 30.55"
+    },
+    {
+      "name": "境内收入",
+      "segment_type": "region",
+      "revenue_amount": "362,904,468.58",
+      "revenue_proportion": null,
+      "gross_margin": "83.42",
+      "yoy_change": "-5.65",
+      "quote": "境内收入 362,904,468.58 60,182,895.64 83.42 -5.65 18.49"
+    },
+    {
+      "name": "境外收入",
+      "segment_type": "region",
+      "revenue_amount": "5,009,759.34",
+      "revenue_proportion": null,
+      "gross_margin": "46.83",
+      "yoy_change": "21.69",
+      "quote": "境外收入 5,009,759.34 2,663,544.94 46.83 21.69 -22.43"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "通达信可视化金融研究终端项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "32,230.87",
+      "designed_capacity": null,
+      "progress": "项目已结项",
+      "expected_completion_time": null,
+      "quote": "通达信可视化金融研究终端项目，预计总投资规模 32,230.87万元。"
+    },
+    {
+      "name": "通达信开放式人工智能平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "20,183.62",
+      "designed_capacity": null,
+      "progress": "项目已结项",
+      "expected_completion_time": null,
+      "quote": "通达信开放式人工智能平台，预计总投资规模 20,183.62万元。"
+    },
+    {
+      "name": "财富趋势金融科技第二总部项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进度款支付较多",
+      "expected_completion_time": null,
+      "quote": "财富趋势金融科技第二总部项目进度款支付较多。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "终端技术",
+      "asset_type": "core_technology",
+      "related_product": "证券行情交易系统",
+      "quantitative_info": null,
+      "quote": "公司在终端技术方面的核心技术处于国内较为先进水平。"
+    },
+    {
+      "name": "编码与传输技术",
+      "asset_type": "core_technology",
+      "related_product": "远程交易信息技术",
+      "quantitative_info": null,
+      "quote": "编码与传输技术在远程交易信息技术中处于核心位置，良好的编码与传输技术能保障数据及时性、提高伺服端伺服能力、降低终端和带宽要求..."
+    },
+    {
+      "name": "安全与密码技术",
+      "asset_type": "core_technology",
+      "related_product": "终端安全技术、通讯安全技术",
+      "quantitative_info": null,
+      "quote": "公司在安全研究和安全服务方面具备较强技术实力。"
+    },
+    {
+      "name": "中间件技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "吞吐效率可达到3万TPS",
+      "quote": "受益于公司在编码与传输技术、通讯技术多年积累，公司中间件产品具有良好的性能和稳定性，吞吐效率可达到3万TPS..."
+    },
+    {
+      "name": "数据库技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "混合数据库架构技术高效整合多种数据库，实现数据无缝流、实时数据分析、存储优化与查询加速。"
+    },
+    {
+      "name": "云计算技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司云计算技术研发基于虚拟化、可管理的分布式计算技术，基于消息队列实现的分布式可信计算技术..."
+    },
+    {
+      "name": "大数据技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司大数据技术研发主要集中在异常交易行为分析技术、并行查询多节点自动分片加载技术、高性能分布式统一缓存架构..."
+    },
+    {
+      "name": "人工智能技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司人工智能技术研发主要集中在资讯数据清洗和提取技术、智能写手、智能金融问答、自然语言处理、智能体、MCP服务等方面..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "4,235.20",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额4,235.20万元，占年度销售总额11.50%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "8,291.67",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额8,291.67万元，占年度采购总额68.30%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "如果公司自行研发的新技术或新产品不符合行业技术发展大方向，进度或成果未达预期、或者研发失败，不仅增加公司研发成本还可能错失市场发展机会，影响公司产品竞争力并对公司未来业务发展造成不利影响。",
+      "related_entity": null,
+      "related_product": "证券行情交易系统软件",
+      "quote": "技术创新应用风险 公司专注于证券软件和信息技术服务领域，证券行情交易系列软件产品及维护服务是公司收入的主要来源。如果公司自行研发的新技术或新产品不符合行业技术发展大方向..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司收入超过70%源于面向证券公司的证券行情交易系统销售及维护服务，且公司目前已覆盖国内超过90%的拥有经纪业务资质的证券公司，公司可供新增的证券公司客户数量较少。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "业务及客户结构单一的风险 公司收入超过70%源于面向证券公司的证券行情交易系统销售及维护服务，且公司目前已覆盖国内超过90%的拥有经纪业务资质的证券公司，公司可供新增的证券公司客户数量较少。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "由于受客户结算周期影响，有账期的客户交易额会逐步增加，导致应收账款绝对金额上升。如果未来公司应收账款管理不当或者由于某些客户因经营出现问题导致公司无法及时回收货款，将增加公司的经营风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "应收账款的坏账风险 虽然公司主要客户资信状况良好，应收账款周转率较高，但由于受客户结算周期影响，有账期的客户交易额会逐步增加，导致应收账款绝对金额上升。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "证券软件和信息服务行业发展前景广阔，行业参与者将越来越多，行业竞争将会进一步加剧，缺乏核心竞争力的企业将会被市场淘汰。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争进一步加剧的风险 证券软件和信息服务行业发展前景广阔，行业参与者将越来越多，行业竞争将会进一步加剧..."
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司软件产品和服务必须持续符合相关行业监管部门制定的技术规则、指引和标准，满足相关安全性、稳定性和可靠性等监管要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "政策法律合规风险 公司软件产品和服务必须持续符合相关行业监管部门制定的技术规则、指引和标准，满足相关安全性、稳定性和可靠性等监管要求。"
+    }
+  ]
+}

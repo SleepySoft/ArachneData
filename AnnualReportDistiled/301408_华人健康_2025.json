@@ -1,0 +1,604 @@
+{
+  "company_name_mentioned": "安徽华人健康医药股份有限公司",
+  "produces": [
+    {
+      "name": "中西成药",
+      "type": "device",
+      "revenue_proportion": "2025年占营业收入比重80.69%，金额4,427,347,083.83元",
+      "quote": "中西成药 80.69% 4,427,347,083.83"
+    },
+    {
+      "name": "中药饮片",
+      "type": "device",
+      "revenue_proportion": "2025年占营业收入比重3.71%，金额203,532,272.45元",
+      "quote": "中药饮片 3.71% 203,532,272.45"
+    },
+    {
+      "name": "保健品",
+      "type": "device",
+      "revenue_proportion": "2025年占营业收入比重3.39%，金额185,769,424.92元",
+      "quote": "保健品 3.39% 185,769,424.92"
+    },
+    {
+      "name": "医疗器械",
+      "type": "device",
+      "revenue_proportion": "2025年占营业收入比重1.93%，金额105,722,208.17元",
+      "quote": "医疗器械 1.93% 105,722,208.17"
+    },
+    {
+      "name": "原料药",
+      "type": "material",
+      "revenue_proportion": "2025年占营业收入比重2.50%，金额137,234,382.20元",
+      "quote": "原料药 2.50% 137,234,382.20"
+    },
+    {
+      "name": "其他商品",
+      "type": "device",
+      "revenue_proportion": "2025年占营业收入比重5.80%，金额318,261,541.90元",
+      "quote": "其他商品 5.80% 318,261,541.90"
+    },
+    {
+      "name": "黄原胶",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "核心产品黄原胶获评国家级新产品"
+    },
+    {
+      "name": "云芝菌胶囊",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "云芝菌胶囊、虫草菌粉等特色中药制剂"
+    },
+    {
+      "name": "虫草菌粉",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "云芝菌胶囊、虫草菌粉等特色中药制剂"
+    },
+    {
+      "name": "克安舒品牌产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "以“克安舒”为代表的电商品牌运营为增长引擎...成功上市近60款女性个人护理及医美修护系列产品。"
+    },
+    {
+      "name": "正远化药系列",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "形成了覆盖全品类、多场景的健康消费品牌矩阵：“正远”化药系列..."
+    },
+    {
+      "name": "福曼医慢病管理系列",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "“福曼医”慢病管理系列..."
+    },
+    {
+      "name": "锐思AI大模型",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "公司自主研发锐思AI大模型及终端智能助手和多个智能体"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品",
+      "target_product": "医药零售业务",
+      "cost_proportion": null,
+      "quote": "医药零售 商品 2,545,522,995.64 70.18%"
+    },
+    {
+      "name": "商品",
+      "target_product": "医药营销业务",
+      "cost_proportion": null,
+      "quote": "医药营销 商品 647,393,033.78 17.85%"
+    },
+    {
+      "name": "商品",
+      "target_product": "终端集采业务",
+      "cost_proportion": null,
+      "quote": "终端集采 商品 325,225,924.53 8.97%"
+    },
+    {
+      "name": "商品",
+      "target_product": "工业生产业务",
+      "cost_proportion": null,
+      "quote": "工业生产 商品 87,127,777.87 2.40%"
+    },
+    {
+      "name": "供应商A",
+      "target_product": null,
+      "cost_proportion": "采购额436,556,123.89元，占年度采购总额比例12.39%",
+      "quote": "供应商A 436,556,123.89 12.39%"
+    },
+    {
+      "name": "供应商B",
+      "target_product": null,
+      "cost_proportion": "采购额404,651,737.54元，占年度采购总额比例11.48%",
+      "quote": "供应商B 404,651,737.54 11.48%"
+    },
+    {
+      "name": "供应商C",
+      "target_product": null,
+      "cost_proportion": "采购额385,428,531.99元，占年度采购总额比例10.94%",
+      "quote": "供应商C 385,428,531.99 10.94%"
+    },
+    {
+      "name": "供应商D",
+      "target_product": null,
+      "cost_proportion": "采购额243,131,445.60元，占年度采购总额比例6.90%",
+      "quote": "供应商D 243,131,445.60 6.90%"
+    },
+    {
+      "name": "供应商E",
+      "target_product": null,
+      "cost_proportion": "采购额106,237,045.48元，占年度采购总额比例3.01%",
+      "quote": "供应商E 106,237,045.48 3.01%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "医药零售",
+      "source_product": "中西成药、中药饮片、保健品、医疗器械等",
+      "quote": "国胜大药房作为直面消费者的核心渠道网络，以“专业优质、平价便利”为经营理念，致力于为消费者提供专业的药事咨询、用药指导、慢病管理及健康驿站等一站式健康服务。"
+    },
+    {
+      "name": "医药营销",
+      "source_product": "产品矩阵、自有品牌",
+      "quote": "公司作为国内领先的全国性医药品牌服务商，深耕OTC营销与连锁全渠道服务领域。"
+    },
+    {
+      "name": "终端集采",
+      "source_product": "商品集采、运营指导、系统链接",
+      "quote": "全方药业专注于服务广大中小连锁、单体药店及基层医疗终端，通过创新的省级锐盟共建平台模式，提供“商品集采+运营指导+系统链接”的一站式供应链全品类解决方案。"
+    },
+    {
+      "name": "医药工业生产",
+      "source_product": "原料药、化学药、中成药、保健品、药用辅料",
+      "quote": "神华药业作为国内知名的真菌药物研发与生产基地，在合成生物、真菌药物发酵等领域拥有深厚的技术储备，产品线覆盖原料药、化学药、中成药、保健品等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "何家乐",
+      "role": "董事长、总裁、法定代表人",
+      "quote": "公司负责人何家乐...现任华人健康董事长、总裁。"
+    },
+    {
+      "name": "李梅",
+      "role": "董事会秘书、财务总监、主管会计工作负责人",
+      "quote": "主管会计工作负责人李梅及会计机构负责人(会计主管人员)李梅声明...现任华人健康董事会秘书、财务总监。"
+    },
+    {
+      "name": "何家伦",
+      "role": "董事、副总裁",
+      "quote": "何家伦先生...现任华人健康董事、副总裁。"
+    },
+    {
+      "name": "殷俊",
+      "role": "董事、副总裁",
+      "quote": "殷俊先生...现任华人健康董事、副总裁。"
+    },
+    {
+      "name": "赵春水",
+      "role": "职工代表董事、副总裁",
+      "quote": "赵春水先生...现任华人健康职工代表董事、副总裁。"
+    },
+    {
+      "name": "李莉莉",
+      "role": "董事",
+      "quote": "李莉莉女士...现任华人健康董事。"
+    },
+    {
+      "name": "鲁勖",
+      "role": "董事",
+      "quote": "鲁勖先生...现任华人健康董事。"
+    },
+    {
+      "name": "刘亮",
+      "role": "独立董事",
+      "quote": "刘亮先生...现任华人健康独立董事。"
+    },
+    {
+      "name": "程谋",
+      "role": "独立董事",
+      "quote": "程谋先生...现任华人健康独立董事。"
+    },
+    {
+      "name": "李传润",
+      "role": "独立董事",
+      "quote": "李传润先生...现任华人健康独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "江苏神华药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "神华药业是国内知名的真菌药物研发与生产基地，是公司研发制造板块的重要支撑。",
+      "quote": "江苏神华、神华药业 指 江苏神华药业有限公司"
+    },
+    {
+      "name": "安徽全方药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全方药业致力于为中小药店提供全品类综合赋能，是公司向全国性终端赋能平台转型的关键引擎。",
+      "quote": "全方药业 指 安徽全方药业有限公司"
+    },
+    {
+      "name": "安徽正药医药科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "正药科技聚焦创新药、生物药与高端仿制药研发，是公司布局未来增长、攻坚前沿科技的关键创新平台。",
+      "quote": "正药科技 指 安徽正药医药科技有限公司"
+    },
+    {
+      "name": "合肥捷助医药科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "数智研究院为全产业链搭建数字化与智能化技术平台。",
+      "quote": "捷助科技 指 合肥捷助医药科技有限公司"
+    },
+    {
+      "name": "杭州国胜大药房连锁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司安徽国胜大药房连锁有限公司于2025年8月取得...股权，纳入合并报表范围。",
+      "quote": "杭州国胜 指 ...更名为杭州国胜大药房连锁有限公司"
+    },
+    {
+      "name": "福建省扬祖惠民医药连锁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司于2025年5月取得福建省扬祖惠民医药连锁有限公司46.01%股权，合计持有51%股权，纳入合并报表范围。",
+      "quote": "公司于2025年5月取得福建省扬祖惠民医药连锁有限公司46.01%股权"
+    },
+    {
+      "name": "福建海华医药连锁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司于2025年5月取得福建海华医药连锁有限公司49.567%股权，合计持有54.557%股权，纳入合并报表范围。",
+      "quote": "公司于2025年5月取得福建海华医药连锁有限公司49.567%股权"
+    },
+    {
+      "name": "华泰联合证券有限责任公司",
+      "relation_type": "investor",
+      "business_details": "报告期内履行持续督导职责的保荐机构和财务顾问。",
+      "quote": "华泰联合证券有限责任公司...2023.3.1-2026.12.31"
+    },
+    {
+      "name": "公证天业会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所。",
+      "quote": "公司聘请的会计师事务所 会计师事务所名称 公证天业会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药零售",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,856,712,480.29元",
+      "revenue_proportion": "70.29%",
+      "gross_margin": "34.00%",
+      "yoy_change": "营业收入比上年同期增减22.50%",
+      "quote": "医药零售 3,856,712,480.29 70.29% ... 34.00% 22.50%"
+    },
+    {
+      "name": "医药营销",
+      "segment_type": "business_unit",
+      "revenue_amount": "970,090,161.49元",
+      "revenue_proportion": "17.68%",
+      "gross_margin": "33.26%",
+      "yoy_change": "营业收入比上年同期增减21.88%",
+      "quote": "医药营销 970,090,161.49 17.68% ... 33.26% 21.88%"
+    },
+    {
+      "name": "终端集采",
+      "segment_type": "business_unit",
+      "revenue_amount": "365,376,142.38元",
+      "revenue_proportion": "6.66%",
+      "gross_margin": null,
+      "yoy_change": "6.18%",
+      "quote": "终端集采 365,376,142.38 6.66% ... 6.18%"
+    },
+    {
+      "name": "工业生产",
+      "segment_type": "business_unit",
+      "revenue_amount": "185,082,256.32元",
+      "revenue_proportion": "3.37%",
+      "gross_margin": null,
+      "yoy_change": "11.98%",
+      "quote": "工业生产 185,082,256.32 3.37% ... 11.98%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "4,415,616,889.18元",
+      "revenue_proportion": "80.48%",
+      "gross_margin": "32.59%",
+      "yoy_change": "营业收入比上年同期增减20.26%",
+      "quote": "华东地区 4,415,616,889.18 80.48% ... 32.59% 20.26%"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "82,550,209.99元",
+      "revenue_proportion": "1.50%",
+      "gross_margin": null,
+      "yoy_change": "16.68%",
+      "quote": "华南地区 82,550,209.99 1.50% ... 16.68%"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "167,533,413.06元",
+      "revenue_proportion": "3.05%",
+      "gross_margin": null,
+      "yoy_change": "11.61%",
+      "quote": "华中地区 167,533,413.06 3.05% ... 11.61%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "159,321,757.46元",
+      "revenue_proportion": "2.90%",
+      "gross_margin": null,
+      "yoy_change": "30.12%",
+      "quote": "华北地区 159,321,757.46 2.90% ... 30.12%"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "217,403,168.44元",
+      "revenue_proportion": "3.96%",
+      "gross_margin": null,
+      "yoy_change": "24.20%",
+      "quote": "东北地区 217,403,168.44 3.96% ... 24.20%"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "126,888,196.58元",
+      "revenue_proportion": "2.31%",
+      "gross_margin": null,
+      "yoy_change": "41.56%",
+      "quote": "西北地区 126,888,196.58 2.31% ... 41.56%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "202,517,387.21元",
+      "revenue_proportion": "3.69%",
+      "gross_margin": null,
+      "yoy_change": "18.99%",
+      "quote": "西南地区 202,517,387.21 3.69% ... 18.99%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "5,771,743.70元",
+      "revenue_proportion": "0.11%",
+      "gross_margin": null,
+      "yoy_change": "41.18%",
+      "quote": "境外 5,771,743.70 0.11% ... 41.18%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "国胜大药房门店",
+      "metric_type": "capacity",
+      "value": "期末门店数量2,296家",
+      "period": "报告期末",
+      "quote": "门店总数达到2,296家"
+    },
+    {
+      "product": "国胜大药房",
+      "metric_type": "sales_volume",
+      "value": "实体店线下（含B2C）340,954.77万元；实体店O2O 44,716.48万元；销售额合计385,671.25万元",
+      "period": "2025年度",
+      "quote": "实体店线下（含B2C） 340,954.77 ... 实体店O2O 44,716.48 ... 销售额（A） 385,671.25"
+    },
+    {
+      "product": "国胜大药房",
+      "metric_type": "other",
+      "value": "坪效43.43元/m2/天；人效1,566.66元/人/天",
+      "period": "2025年度",
+      "quote": "坪效（A/B，元/m2/天） 43.43 人效（A/C，元/人/天） 1,566.66"
+    },
+    {
+      "product": "新零售业务",
+      "metric_type": "sales_volume",
+      "value": "累计收入7.68亿元",
+      "period": "2025年",
+      "quote": "新零售业务累计收入7.68亿元"
+    },
+    {
+      "product": "会员数量",
+      "metric_type": "other",
+      "value": "超1,300万",
+      "period": "报告期末",
+      "quote": "会员数量超1,300万"
+    },
+    {
+      "product": "国胜大药房门店",
+      "metric_type": "capacity",
+      "value": "安徽省内已实现16个地级市全覆盖",
+      "period": "报告期末",
+      "quote": "门店总数达到2,296家...成功实现省内16个地级市的全面渗透"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "公司总部大楼项目",
+      "project_type": "construction_project",
+      "location": "安徽省合肥市包河区河北路123号",
+      "investment_amount": "累计实际投入金额208,444,529.88元",
+      "designed_capacity": null,
+      "progress": "完工投入使用",
+      "expected_completion_time": null,
+      "quote": "公司总部 自建 是 办公大楼 63,518,756.15 208,444,529.88 ... 100.00%"
+    },
+    {
+      "name": "收购福建省扬祖惠民医药连锁有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "13,342.90万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "2025年5月，公司以13,342.90万元的价格受让福建省扬祖惠民医药连锁有限公司46.01%股权"
+    },
+    {
+      "name": "收购福建海华医药连锁有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "12,514.72万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "2025年5月，公司 12,514.72万元的价格受让福建海华医药连锁有限公司46.01%股权"
+    },
+    {
+      "name": "收购杭州国胜大药房连锁有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "97,500.00万元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司全资子公司安徽国胜大药房连锁有限公司于2025年8月取得合肥国胜国思大药房有限公司99%股权"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "菌类发酵及黄原胶产业化技术",
+      "asset_type": "core_technology",
+      "related_product": "黄原胶、真菌药物",
+      "quantitative_info": null,
+      "quote": "神华药业作为国内真菌药物领域的领先企业，专注于菌类发酵技术的研发与应用...是国内最早掌握菌类发酵及黄原胶产业化技术的现代医药高新技术企业"
+    },
+    {
+      "name": "药品制剂批文",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "39个",
+      "quote": "拥有药品制剂批文39个"
+    },
+    {
+      "name": "原料药批文",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "9个",
+      "quote": "原料药批文9个"
+    },
+    {
+      "name": "药用辅料批文",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "1个",
+      "quote": "药用辅料批文1个"
+    },
+    {
+      "name": "保健食品批文",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "10个",
+      "quote": "保健食品批文10个"
+    },
+    {
+      "name": "云芝菌胶囊中药保护品种资质",
+      "asset_type": "certification",
+      "related_product": "云芝菌胶囊",
+      "quantitative_info": "先后于2003年和2008年获得",
+      "quote": "云芝菌胶囊先后于2003年和2008年获得中药保护品种资质"
+    },
+    {
+      "name": "中国驰名商标",
+      "asset_type": "certification",
+      "related_product": "神华维康",
+      "quantitative_info": null,
+      "quote": "“神华维康”被认定为中国驰名商标"
+    },
+    {
+      "name": "中国科学院微生物所联合研发基地",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "获评中国科学院微生物所联合研发基地"
+    },
+    {
+      "name": "江苏省药用真菌生物工程技术研究中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "江苏省药用真菌生物工程技术研究中心"
+    },
+    {
+      "name": "新增授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内新增1项",
+      "quote": "报告期内，公司新增授权专利1项、发明专利申请4项"
+    },
+    {
+      "name": "硫酸氨基葡萄糖胶囊",
+      "asset_type": "other",
+      "related_product": "药品",
+      "quantitative_info": "2025年2月成功获批药品注册证书",
+      "quote": "硫酸氨基葡萄糖胶囊已于2025年2月成功获批药品注册证书"
+    },
+    {
+      "name": "在研项目",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "45个",
+      "quote": "截至报告期末，集团在研项目45个"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "前五名客户合计销售金额89,488,500.99元，占年度销售总额比例1.63%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 89,488,500.99 ... 前五名客户合计销售金额占年度销售总额比例 1.63%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "前五名供应商合计采购金额1,576,004,884.50元，占年度采购总额比例44.94%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 1,576,004,884.50 ... 前五名供应商合计采购金额占年度采购总额比例 44.94%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司所处的医药行业受国家及地方政策影响显著。药品集中带量采购常态化、扩围化持续压缩产品利润空间；医保目录动态调整、支付方式改革（如DRG/DIP）、门诊统筹政策细化等，可能直接影响门店客流结构与销售品类；若公司未能及时、准确地把握政策动向并调整经营策略，可能导致毛利率下滑或市场份额流失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业政策变化的风险 ... 药品集中带量采购常态化、扩围化持续压缩产品利润空间..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司通过正药科技等平台布局创新药、生物药及高端仿制药的研发。该领域普遍具有投入高、周期长、技术复杂、临床及审评结果不确定等特点。研发项目可能因技术路径、临床试验失败或未能通过审评而终止，导致前期投入无法收回；若研发进度滞后于行业或竞争对手，也将影响公司的长期产品竞争力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、创新药研发与成果转化的风险 ... 研发项目可能因技术路径、临床试验失败或未能通过审评而终止..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着行业集中度持续提升，头部企业间的竞争日益激烈，同质化价格竞争可能侵蚀毛利空间。与此同时，随着公司经营规模扩大，员工人数持续增长，叠加各地社保缴纳基数逐年上调，导致人力成本的刚性上涨，将对门店的盈利能力构成一定压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、市场竞争加剧、人力成本上升与门店盈利能力下降的风险 ... 头部企业间的竞争日益激烈，同质化价格竞争可能侵蚀毛利空间..."
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "药品质量安全是企业的生命线，贯穿研发、生产、仓储、配送、销售全链条。尽管公司已建立严格的质量管理体系，但仍无法绝对排除因供应链上游波动、储运条件偶发异常或操作环节人为失误等因素导致的潜在质量风险事件。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、药品质量与安全管理风险 ... 但仍无法绝对排除因供应链上游波动、储运条件偶发异常或操作环节人为失误等因素导致的潜在质量风险事件。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "创新业务模式被跟随与先发优势弱化的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、创新业务模式被跟随与先发优势弱化的风险"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "company_name_mentioned": "佳缘科技股份有限公司",
+  "produces": [
+    {
+      "name": "网络信息安全产品",
+      "type": "device",
+      "revenue_proportion": "28.86%",
+      "quote": "分产品...网络信息安全产品...营业收入92,302,848.03元...占营业收入比重28.86%"
+    },
+    {
+      "name": "信息化综合解决方案",
+      "type": "service",
+      "revenue_proportion": "67.75%",
+      "quote": "分产品...信息化综合解决方案...营业收入216,723,585.26元...占营业收入比重67.75%"
+    },
+    {
+      "name": "技术服务",
+      "type": "service",
+      "revenue_proportion": "3.02%",
+      "quote": "分产品...技术服务...营业收入9,658,760.39元...占营业收入比重3.02%"
+    },
+    {
+      "name": "安全载荷、计算载荷、地面安全设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在航天、航空领域，公司主要产品包括安全载荷、计算载荷、地面安全设备、信息化技术和服务等"
+    },
+    {
+      "name": "网络安全专用芯片、板卡安全平台、整机安全平台",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品主要由网络安全专用芯片产品、板卡安全平台产品、整机安全平台产品和相关技术门类的受托研发组成。"
+    },
+    {
+      "name": "医佳云智慧医院平台软件",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "成功开发并推出...“医佳云”智慧医院平台软件..."
+    },
+    {
+      "name": "数据可视化平台、医疗数据集成平台、医疗数据中心",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "成功开发并推出数据可视化平台、医疗数据集成平台、医疗数据中心..."
+    },
+    {
+      "name": "AI警务处理智能一体机、AI智汇文枢一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "提供AI警务处理智能一体机、AI智汇文枢一体机..."
+    },
+    {
+      "name": "电子病历质控智能一体机、智慧医疗分级评价智能一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司联合华为打造电子病历质控智能一体机、智慧医疗分级评价智能一体机。"
+    },
+    {
+      "name": "人工智能算力服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司人工智能算力中心已于2025年初全面建成并正式投入运营。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "芯片裸片",
+      "target_product": "网络信息安全产品",
+      "cost_proportion": null,
+      "quote": "公司采购的原材料主要包括芯片裸片、结构件、连接器、印制板、阻容、辅料等。"
+    },
+    {
+      "name": "智算服务器、算力卡、算力芯片",
+      "target_product": "人工智能产品",
+      "cost_proportion": null,
+      "quote": "报告期内，公司采购的原材料主要包括智算服务器、算力卡、算力芯片等。"
+    },
+    {
+      "name": "监控摄像机、存储卡、计算机、显示设备、应用服务器",
+      "target_product": "信息化综合解决方案",
+      "cost_proportion": null,
+      "quote": "公司主要向市场采购集成业务所需的相关设备及相关基础安装人力，其中集成业务设备主要包括监控摄像机、存储卡、计算机、显示设备、应用服务器、数通设备、综合布线设备等。"
+    },
+    {
+      "name": "技术服务（PCB制版、贴片、焊接等）",
+      "target_product": "网络信息安全产品",
+      "cost_proportion": null,
+      "quote": "公司网络信息安全业务的技术服务费用，主要系向供应商采购产品检测设备工装加工、PCB电路图制版、贴片、焊接等非核心环节的技术服务。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "国防军工",
+      "source_product": "网络信息安全产品，信息化综合解决方案",
+      "quote": "公司主营业务涵盖...深耕国防军工、政企服务、医疗健康等重点领域..."
+    },
+    {
+      "name": "医疗健康",
+      "source_product": "信息化综合解决方案，人工智能业务",
+      "quote": "公司主营业务涵盖...深耕国防军工、政企服务、医疗健康等重点领域..."
+    },
+    {
+      "name": "政务服务",
+      "source_product": "信息化综合解决方案",
+      "quote": "公司主营业务涵盖...深耕国防军工、政企服务、医疗健康等重点领域..."
+    },
+    {
+      "name": "航天",
+      "source_product": "安全载荷、计算载荷、地面安全设备",
+      "quote": "在航天、航空领域，公司主要产品包括安全载荷、计算载荷、地面安全设备..."
+    },
+    {
+      "name": "航空",
+      "source_product": "安全载荷、计算载荷、地面安全设备",
+      "quote": "在航天、航空领域，公司主要产品包括安全载荷、计算载荷、地面安全设备..."
+    },
+    {
+      "name": "医院信息化",
+      "source_product": "医佳云智慧医院平台软件，医疗数据中心",
+      "quote": "公司提供的医疗健康信息化综合解决方案...使管理工作数字化、患者服务在线化、临床工作智能化。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王进",
+      "role": "董事长",
+      "quote": "公司负责人朱伟民...声明：... 公司实际控制人王进...同时担任公司董事长..."
+    },
+    {
+      "name": "朱伟民",
+      "role": "副董事长、总经理",
+      "quote": "朱伟民先生...现任公司副董事长兼总经理。"
+    },
+    {
+      "name": "柳絮",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人柳絮及会计机构负责人(会计主管人员)柳絮声明..."
+    },
+    {
+      "name": "张顺",
+      "role": "董事会秘书",
+      "quote": "董事会秘书...张顺..."
+    },
+    {
+      "name": "朱伟华",
+      "role": "副总经理",
+      "quote": "朱伟华先生...现任公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华为",
+      "relation_type": "partner",
+      "business_details": "作为华为重要合作伙伴...联合华为打造电子病历质控智能一体机、智慧医疗分级评价智能一体机。",
+      "quote": "作为华为重要合作伙伴，公司深度融入以“鲲鹏/昇腾+欧拉”为核心的国产技术体系..."
+    },
+    {
+      "name": "中国电子科技集团",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前五名客户...序号2 客户名称 中国电子科技集团 销售额（元） 57,110,199.57"
+    },
+    {
+      "name": "上海航天技术研究院",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前五名客户...序号5 客户名称 上海航天技术研究院 销售额（元） 36,043,489.85"
+    },
+    {
+      "name": "中国空间技术研究院",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前五名供应商...序号3 供应商名称 中国空间技术研究院 采购额（元） 16,612,917.32"
+    },
+    {
+      "name": "深圳市方圆宝信息科技服务有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "前五名供应商...序号1 供应商名称 深圳方圆宝信息科技服务有限公司 采购额（元） 76,821,238.94"
+    },
+    {
+      "name": "山东浪潮慧芯微电子科技有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "前五名客户...序号4 客户名称 山东浪潮慧芯微电子科技有限公司 销售额（元） 44,043,486.73"
+    },
+    {
+      "name": "前进医信",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "前进医信 指 四川前进医信科技有限责任公司，系公司子公司"
+    },
+    {
+      "name": "京缘和",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "京缘和 指 北京市京缘和科技有限公司，系公司子公司"
+    },
+    {
+      "name": "航缘汇",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "航缘汇 指 上海航缘汇科技有限公司，系公司子公司"
+    },
+    {
+      "name": "新宏安",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "新宏安 指 成都新宏安微波科技有限公司，系公司子公司"
+    },
+    {
+      "name": "川石.克锐达",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "川石.克锐达 指 四川川石.克锐达金刚石钻头有限公司，系公司子公司"
+    },
+    {
+      "name": "雄安子公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "雄安子公司 指 河北雄安佳缘科技有限公司，系公司子公司"
+    },
+    {
+      "name": "佳多吉",
+      "relation_type": "investor",
+      "business_details": "股东成都佳多吉商务信息咨询中心（有限合伙）",
+      "quote": "佳多吉 指 成都佳多吉商务信息咨询中心（有限合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "军工",
+      "segment_type": "customer_type",
+      "revenue_amount": "152,248,924.39元",
+      "revenue_proportion": "47.60%",
+      "gross_margin": "32.36%",
+      "yoy_change": "-44.74%",
+      "quote": "分行业 军工 152,248,924.39 47.60% ... 毛利率...32.36% ... -44.74%"
+    },
+    {
+      "name": "政企",
+      "segment_type": "customer_type",
+      "revenue_amount": "148,092,307.86元",
+      "revenue_proportion": "46.30%",
+      "gross_margin": "13.42%",
+      "yoy_change": "992.20%",
+      "quote": "分行业 政企 148,092,307.86 46.30% ... 毛利率...13.42% ... 992.20%"
+    },
+    {
+      "name": "医疗",
+      "segment_type": "customer_type",
+      "revenue_amount": "19,540,986.06元",
+      "revenue_proportion": "6.10%",
+      "gross_margin": "7.59%",
+      "yoy_change": "-59.06%",
+      "quote": "分行业 医疗 19,540,986.06 6.10% ... 毛利率...7.59% ... -59.06%"
+    },
+    {
+      "name": "信息化综合解决方案",
+      "segment_type": "product_line",
+      "revenue_amount": "216,723,585.26元",
+      "revenue_proportion": "67.75%",
+      "gross_margin": "21.58%",
+      "yoy_change": "46.25%",
+      "quote": "分产品 信息化综合解决方案 216,723,585.26 67.75% ... 毛利率...21.58% ... 46.25%"
+    },
+    {
+      "name": "网络信息安全产品",
+      "segment_type": "product_line",
+      "revenue_amount": "92,302,848.03元",
+      "revenue_proportion": "28.86%",
+      "gross_margin": "20.68%",
+      "yoy_change": "-43.55%",
+      "quote": "分产品 网络信息安全产品 92,302,848.03 28.86% ... 毛利率...20.68% ... -43.55%"
+    },
+    {
+      "name": "华东",
+      "segment_type": "region",
+      "revenue_amount": "127,799,862.17元",
+      "revenue_proportion": "39.95%",
+      "gross_margin": "25.90%",
+      "yoy_change": "220.41%",
+      "quote": "分地区 华东 127,799,862.17 39.95% ... 毛利率...25.90% ... 220.41%"
+    },
+    {
+      "name": "西北",
+      "segment_type": "region",
+      "revenue_amount": "95,284,382.69元",
+      "revenue_proportion": "29.79%",
+      "gross_margin": "14.53%",
+      "yoy_change": "339.45%",
+      "quote": "分地区 西北 95,284,382.69 29.79% ... 毛利率...14.53% ... 339.45%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "314,803,034.63元",
+      "revenue_proportion": "98.41%",
+      "gross_margin": "21.66%",
+      "yoy_change": "-6.53%",
+      "quote": "分销售模式 直销 314,803,034.63 98.41% ... 毛利率...21.66% ... -6.53%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,079,183.68元",
+      "revenue_proportion": "1.59%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "分销售模式 经销 5,079,183.68 1.59%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "软件和信息技术服务业、网络信息安全行业",
+      "metric_type": "sales_volume",
+      "value": "249,255,877.50元",
+      "period": "2025年",
+      "quote": "行业分类 软件和信息技术服务业、网络信息安全行业 项目 销售量 单位 元 2025年 249,255,877.50"
+    },
+    {
+      "product": "软件和信息技术服务业、网络信息安全行业",
+      "metric_type": "production_volume",
+      "value": "285,108,025.01元",
+      "period": "2025年",
+      "quote": "行业分类 软件和信息技术服务业、网络信息安全行业 项目 生产量 单位 元 2025年 285,108,025.01"
+    },
+    {
+      "product": "软件和信息技术服务业、网络信息安全行业",
+      "metric_type": "inventory_volume",
+      "value": "424,273,663.60元",
+      "period": "2025年末",
+      "quote": "行业分类 软件和信息技术服务业、网络信息安全行业 项目 库存量 单位 元 2025年 424,273,663.60"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "信息化数据平台升级建设项目",
+      "project_type": "fundraising_project",
+      "location": "成都市高新区（西区）天辰路333号",
+      "investment_amount": "26,572.85万元",
+      "designed_capacity": null,
+      "progress": "投入10,817.04万元，进度32.84%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目...信息化数据平台升级建设项目...承诺投资总额26,572.85万元...投入金额10,817.04万元...投资进度32.84%...达到预定可使用状态日期2026年12月31日"
+    },
+    {
+      "name": "研发及检测中心建设项目",
+      "project_type": "fundraising_project",
+      "location": "成都市高新区（西区）天辰路333号；北京市海淀区建枫路（南延）6号院",
+      "investment_amount": "17,448.36万元",
+      "designed_capacity": null,
+      "progress": "投入13,779.15万元，进度78.97%",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "承诺投资项目...研发及检测中心建设项目...承诺投资总额17,448.36万元...投入金额13,779.15万元...投资进度78.97%...达到预定可使用状态日期2026年12月31日"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "15,000.00万元",
+      "designed_capacity": null,
+      "progress": "已全部投入",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目...补充流动资金...承诺投资总额15,000.00万元...投入金额15,000.00万元...投资进度100.08%"
+    },
+    {
+      "name": "一期产业园及配套生产线建设",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成并投产运行",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司顺利完成一期产业园及配套生产线建设工作，目前智能制造生产线已全面投产运行..."
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "现代编码学应用技术",
+      "asset_type": "core_technology",
+      "related_product": "网络信息安全产品",
+      "quantitative_info": null,
+      "quote": "公司网络信息安全产品的核心技术是现代编码学..."
+    },
+    {
+      "name": "高性能分布式数据库技术",
+      "asset_type": "core_technology",
+      "related_product": "信息化综合解决方案",
+      "quantitative_info": null,
+      "quote": "凭借高性能分布式数据库技术、高性能分布式计算技术和数据安全防护等核心技术..."
+    },
+    {
+      "name": "高性能分布式计算技术",
+      "asset_type": "core_technology",
+      "related_product": "信息化综合解决方案",
+      "quantitative_info": null,
+      "quote": "凭借高性能分布式数据库技术、高性能分布式计算技术和数据安全防护等核心技术..."
+    },
+    {
+      "name": "数据安全防护技术",
+      "asset_type": "core_technology",
+      "related_product": "信息化综合解决方案",
+      "quantitative_info": null,
+      "quote": "凭借高性能分布式数据库技术、高性能分布式计算技术和数据安全防护等核心技术..."
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获授权专利32项",
+      "quote": "截至报告期末，公司累计获授权专利32项..."
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "共获得软件著作权209项",
+      "quote": "...共获得软件著作权209项。"
+    },
+    {
+      "name": "信息安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已获得信息安全管理体系认证、信息安全服务资质认证、信息技术服务管理体系认证..."
+    },
+    {
+      "name": "CMMI5国际认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "...CMMI5国际认证等多项行业和质量资质认证。"
+    },
+    {
+      "name": "国军标（GJB）",
+      "asset_type": "standard",
+      "related_product": "网络信息安全产品",
+      "quantitative_info": null,
+      "quote": "国军标 指 中华人民共和国国家军用标准，即国家军用标准，简称国军标，英文名称为GJB..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "88.95%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额（元） 284,535,051.70 前五名客户合计销售金额占年度销售总额比例 88.95%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "29.56%",
+      "related_entity": "新疆若瑾数字产业发展有限公司",
+      "period": "2025年度",
+      "quote": "公司前5大客户资料 序号1 客户名称 新疆若瑾数字产业发展有限公司 销售额（元） 94,555,752.06 占年度销售总额比例 29.56%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "48.41%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额（元） 150,646,812.80 前五名供应商合计采购金额占年度采购总额比例 48.41%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "24.69%",
+      "related_entity": "深圳方圆宝信息科技服务有限公司",
+      "period": "2025年度",
+      "quote": "公司前5名供应商资料 序号1 供应商名称 深圳方圆宝信息科技服务有限公司 采购额（元） 76,821,238.94 占年度采购总额比例 24.69%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "信息技术类产品具有技术更新快、产品迭代周期短的特点...公司需要准确把握技术和市场趋势与行业发展方向，持续进行技术研发与产品更新以适应客户需求，保持行业竞争优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若公司由于各种原因未能根据市场发展趋势及相关技术迭代情况及时调整产品和服务的技术发展方向...将会对公司发展构成不利影响..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "信息化综合解决方案主要通过招投标的方式获取订单...行业内市场竞争将日趋激烈。市场竞争的加剧可能导致公司获取订单难度较大...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争的加剧可能导致公司获取订单难度较大，从而对公司的生产经营带来负面影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司的主要客户为政府、事业单位、国企和军工单位等...付款周期一般较长。虽然发生坏账的风险较低，但是由于该类客户单笔应收账款数额一般较大，一旦客户付款延期或款项无法收回，将给公司带来一定的损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.应收账款回收风险...公司的主要客户为政府、事业单位、国企和军工单位等..."
+    },
+    {
+      "risk_type": "order_fluctuation",
+      "description": "网络信息安全行业客户相关采购政策或审批程序发生变化...都会导致在一定时间内订单数量产生波动。若未来产品的订单因此而产生波动，将对公司的盈利能力产生不利影响。此外，公司受外部监管政策措施变化影响，可能导致部分订单推迟、减少。",
+      "related_entity": null,
+      "related_product": "网络信息安全产品",
+      "quote": "4.订单波动风险...网络信息安全行业客户相关采购政策或审批程序发生变化...都会导致在一定时间内订单数量产生波动...公司受外部监管政策措施变化影响，可能导致部分订单推迟、减少。"
+    },
+    {
+      "risk_type": "other",
+      "description": "人才管理及人工成本上升的风险...随着公司业务规模逐步扩大...如果公司在快速发展的同时，组织结构、管理机制和管理人员未能适应公司内外部环境的变化...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.人才管理及人工成本上升的风险...如果公司在快速发展的同时，组织结构、管理机制和管理人员未能适应公司内外部环境的变化，未能对相关费用进行有效管理或内控制度未能满足未来实际需要，将对公司的持续发展构成不利影响。"
+    }
+  ]
+}

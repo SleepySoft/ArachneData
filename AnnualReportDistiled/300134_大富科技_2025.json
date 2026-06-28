@@ -1,0 +1,627 @@
+{
+  "company_name_mentioned": "大富科技（安徽）股份有限公司",
+  "produces": [
+    {
+      "name": "射频器件",
+      "type": "component",
+      "revenue_proportion": "59.71%（分产品‘射频产品’收入占比）",
+      "quote": "移动通信基站射频产品包括射频器件、射频结构件等移动通信系统的核心部件...其中，射频器件主要包括各类基站滤波器、双工器等。"
+    },
+    {
+      "name": "射频结构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "射频结构件主要为通信模组/器件的散热器、盖板和外壳等。"
+    },
+    {
+      "name": "智能终端结构件",
+      "type": "component",
+      "revenue_proportion": "29.12%（分产品‘智能终端结构件’收入占比）",
+      "quote": "公司为智能手机、折叠类电子产品、PC及平板电脑、可穿戴设备、AR/VR终端、智能家居、影像等产品提供各类精密金属零部件、塑胶零部件、整机组件等。"
+    },
+    {
+      "name": "汽车零部件",
+      "type": "component",
+      "revenue_proportion": "7.31%（分产品‘汽车零部件’收入占比）",
+      "quote": "汽车零部件产品类别包括各类金属零部件、精密陶瓷零部件、汽车空调系统总成、汽车空调电动压缩机等。"
+    },
+    {
+      "name": "智能装备",
+      "type": "device",
+      "revenue_proportion": "1.24%（分产品‘智能装备系列’收入占比）",
+      "quote": "公司子公司配天智造...主营业务涵盖数控加工中心、控制系统、智能制造设备、自动化产线等产品的研发、生产和销售..."
+    },
+    {
+      "name": "滤波器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "移动通信基站射频器件的简称，主要包括滤波器、双工器、合路器、塔放、低噪放等。"
+    },
+    {
+      "name": "双工器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "由一个接收端滤波器和一个发射端滤波器组成，实现收发共用同一天线的器件。"
+    },
+    {
+      "name": "合路器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "将两路或多路输入信号合并成一路，用于增加发射信道数，扩大通信容量的器件。"
+    },
+    {
+      "name": "塔放",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "塔顶放大器，是靠近基站天线的前置放大设备，主要功能是将天线接收到的上行信号进行放大。"
+    },
+    {
+      "name": "精密金属结构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "手机、平板电脑、笔记本电脑以及超级本等移动通信终端所采用的金属边框、外壳、金属装饰件及其他金属组件等..."
+    },
+    {
+      "name": "汽车结构件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "冲压件、摩擦材料、空调压缩机等汽车零部件产品。"
+    },
+    {
+      "name": "数控加工中心",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "配天智造主营业务涵盖数控加工中心...等产品的研发、生产和销售，数控机床产品包括三轴立式数控加工中心、四轴卧式数控加工中心、车铣复合数控加工中心..."
+    },
+    {
+      "name": "无人工厂解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "配天智造已经有能力面向通信、汽车零部件、航空航天等行业提供具备...等功能的黑灯工厂解决方案..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司主要原材料铝锭、银板、铜材、铁材及化工原料等不涉及进口。"
+    },
+    {
+      "name": "数控机床及配套设备",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司积极采用柔性生产模式进行多品种共线化生产...在自主研发通用自动化设备的同时...自主开发自动化设备..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "移动通信基站",
+      "source_product": "射频器件、射频结构件",
+      "quote": "移动通信基站射频产品包括射频器件、射频结构件等移动通信系统的核心部件，产品主要应用于2G-5G全系列移动通信系统。"
+    },
+    {
+      "name": "智能手机、PC、平板电脑、可穿戴设备、AR/VR终端、智能家居等",
+      "source_product": "精密金属结构件",
+      "quote": "公司为智能手机、折叠类电子产品、PC及平板电脑、可穿戴设备、AR/VR终端、智能家居、影像等产品提供各类精密金属零部件..."
+    },
+    {
+      "name": "汽车",
+      "source_product": "汽车结构件、汽车空调系统",
+      "quote": "公司主要提供传统汽车/新能源汽车金属部件及空调压缩机、散热模块等热管理系统核心部件。"
+    },
+    {
+      "name": "通信、消费类电子、汽车、航空航天等领域的加工制造",
+      "source_product": "数控机床",
+      "quote": "公司工业母机类产品广泛应用于通信、消费类电子、汽车、航天航空领域的加工制造..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "韩玉军",
+      "role": "董事长、董事",
+      "quote": "公司负责人韩玉军...现任蚌埠投资集团有限公司党委委员、副总经理。"
+    },
+    {
+      "name": "童恩东",
+      "role": "副董事长、总工程师",
+      "quote": "童恩东先生...2006年至今，历任本公司技术总监、总工程师。2009年12月至今任本公司董事（2013年1月15日起任副董事长），总工程师。"
+    },
+    {
+      "name": "肖竞",
+      "role": "董事、总经理",
+      "quote": "肖竞先生...2017年8月至今担任本公司执行副总裁及轮值CEO；2019年5月至今担任本公司董事。"
+    },
+    {
+      "name": "李克",
+      "role": "董事",
+      "quote": "李克先生...2023年9月至2025年8月，任深圳市配天智造装备股份有限公司董事。"
+    },
+    {
+      "name": "王宇",
+      "role": "董事",
+      "quote": "王宇先生...现任蚌埠投资集团有限公司副总经理、党委委员..."
+    },
+    {
+      "name": "杨岩松",
+      "role": "董事",
+      "quote": "杨岩松先生...现任香港科技大学电子及计算机工程学系助理教授..."
+    },
+    {
+      "name": "万光彩",
+      "role": "独立董事",
+      "quote": "万光彩先生...现任安徽财经大学金融学院院长..."
+    },
+    {
+      "name": "周蕾",
+      "role": "独立董事",
+      "quote": "周蕾女士...现任安徽财经大学教授..."
+    },
+    {
+      "name": "赵阳",
+      "role": "独立董事",
+      "quote": "赵阳先生...现任中央财经大学创新发展学院党委委员、中国金融发展研究院副院长..."
+    },
+    {
+      "name": "杨诚",
+      "role": "执行副总裁",
+      "quote": "杨诚先生...2024年12月至今任公司副总裁。"
+    },
+    {
+      "name": "陈卓",
+      "role": "执行副总裁",
+      "quote": "陈卓先生...2024年12月至今任公司副总裁。"
+    },
+    {
+      "name": "冯小敏",
+      "role": "执行副总裁",
+      "quote": "冯小敏女士...现任人力行政中心副总裁。"
+    },
+    {
+      "name": "郭淑雯",
+      "role": "财务总监",
+      "quote": "郭淑雯女士...2013年9月至今担任本公司财务总监。"
+    },
+    {
+      "name": "后杏萍",
+      "role": "董事会秘书",
+      "quote": "后杏萍女士...2021年4月至今担任本公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华为",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户是国内外领先的移动通信主设备商...包括华为、爱立信、诺基亚、苹果、博世、电装、英美烟草等全球顶级客户..."
+    },
+    {
+      "name": "爱立信",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户是国内外领先的移动通信主设备商...包括华为、爱立信、诺基亚、苹果、博世、电装、英美烟草等全球顶级客户..."
+    },
+    {
+      "name": "诺基亚",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户是国内外领先的移动通信主设备商...包括华为、爱立信、诺基亚、苹果、博世、电装、英美烟草等全球顶级客户..."
+    },
+    {
+      "name": "苹果",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户是国内外领先的移动通信主设备商...包括华为、爱立信、诺基亚、苹果、博世、电装、英美烟草等全球顶级客户..."
+    },
+    {
+      "name": "博世",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户是国内外领先的移动通信主设备商...包括华为、爱立信、诺基亚、苹果、博世、电装、英美烟草等全球顶级客户..."
+    },
+    {
+      "name": "电装",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户是国内外领先的移动通信主设备商...包括华为、爱立信、诺基亚、苹果、博世、电装、英美烟草等全球顶级客户..."
+    },
+    {
+      "name": "英美烟草",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "主要客户是国内外领先的移动通信主设备商...包括华为、爱立信、诺基亚、苹果、博世、电装、英美烟草等全球顶级客户..."
+    },
+    {
+      "name": "安徽配天投资集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "控股股东 安徽配天投资集团有限公司...本公司之控股股东。"
+    },
+    {
+      "name": "安徽云塔电子科技有限公司",
+      "relation_type": "investor",
+      "business_details": "公司投资安徽云塔电子科技有限公司，支付增资款项。",
+      "quote": "报告期内获取的重大的股权投资情况...安徽云塔电子科技有限公司...投资金额 100,000,000...持股比例 20%..."
+    },
+    {
+      "name": "安徽省大富机电技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "子公司...安徽省大富机电技术有限公司..."
+    },
+    {
+      "name": "深圳市大富方圆成型技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "子公司...深圳市大富方圆成型技术有限公司..."
+    },
+    {
+      "name": "安徽配天智造装备股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "公司子公司配天智造是一家拥有完全自主知识产权的工业装备制造企业..."
+    },
+    {
+      "name": "蚌埠中城大富智科创业投资基金合伙企业（有限合伙）",
+      "relation_type": "joint_venture",
+      "business_details": "公司与安徽省人工智能主题投资基金合伙企业（有限合伙）等签署《合伙协议》，参与投资设立该基金。",
+      "quote": "同意公司...参与投资设立蚌埠中城大富智科创业投资基金合伙企业。基金规模为5亿元人民币，其中公司作为有限合伙人拟以自有资金出资7,500万元，占基金总规模的15%。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "通信行业",
+      "segment_type": "other",
+      "revenue_amount": "1,467,603,454.97元",
+      "revenue_proportion": "59.71%",
+      "gross_margin": "3.01%",
+      "yoy_change": "26.46%",
+      "quote": "通信行业 1,467,603,454.97 59.71% 1,160,551,350.55 49.95% 26.46%"
+    },
+    {
+      "name": "消费电子行业",
+      "segment_type": "other",
+      "revenue_amount": "715,647,692.42元",
+      "revenue_proportion": "29.12%",
+      "gross_margin": "25.66%",
+      "yoy_change": "-21.49%",
+      "quote": "消费电子行业 715,647,692.42 29.12% 911,506,556.18 39.23% -21.49%"
+    },
+    {
+      "name": "汽车行业",
+      "segment_type": "other",
+      "revenue_amount": "179,603,569.25元",
+      "revenue_proportion": "7.31%",
+      "gross_margin": null,
+      "yoy_change": "-5.37%",
+      "quote": "汽车行业 179,603,569.25 7.31% 189,805,066.27 8.17% -5.37%"
+    },
+    {
+      "name": "智能装备行业",
+      "segment_type": "other",
+      "revenue_amount": "30,636,606.93元",
+      "revenue_proportion": "1.24%",
+      "gross_margin": null,
+      "yoy_change": "101.25%",
+      "quote": "智能装备行业 30,636,606.93 1.24% 15,222,798.81 0.65% 101.25%"
+    },
+    {
+      "name": "射频产品",
+      "segment_type": "product_line",
+      "revenue_amount": "1,467,603,454.97元",
+      "revenue_proportion": "59.71%",
+      "gross_margin": "3.01%",
+      "yoy_change": "26.46%",
+      "quote": "射频产品 1,467,603,454.97 59.71% 1,160,551,350.55 49.95% 26.46%"
+    },
+    {
+      "name": "智能终端结构件",
+      "segment_type": "product_line",
+      "revenue_amount": "715,647,692.42元",
+      "revenue_proportion": "29.12%",
+      "gross_margin": "25.66%",
+      "yoy_change": "-21.49%",
+      "quote": "智能终端结构件 715,647,692.42 29.12% 911,506,556.18 39.23% -21.49%"
+    },
+    {
+      "name": "汽车零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "179,603,569.25元",
+      "revenue_proportion": "7.31%",
+      "gross_margin": null,
+      "yoy_change": "-5.37%",
+      "quote": "汽车零部件 179,603,569.25 7.31% 189,805,066.27 8.17% -5.37%"
+    },
+    {
+      "name": "智能装备系列",
+      "segment_type": "product_line",
+      "revenue_amount": "30,636,606.93元",
+      "revenue_proportion": "1.24%",
+      "gross_margin": null,
+      "yoy_change": "101.25%",
+      "quote": "智能装备系列 30,636,606.93 1.24% 15,222,798.81 0.65% 101.25%"
+    },
+    {
+      "name": "国内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,960,084,093.67元",
+      "revenue_proportion": "79.75%",
+      "gross_margin": null,
+      "yoy_change": "10.35%",
+      "quote": "国内销售 1,960,084,093.67 79.75% 1,776,318,708.78 76.45% 10.35%"
+    },
+    {
+      "name": "国外销售",
+      "segment_type": "region",
+      "revenue_amount": "497,743,559.81元",
+      "revenue_proportion": "20.25%",
+      "gross_margin": null,
+      "yoy_change": "-9.05%",
+      "quote": "国外销售 497,743,559.81 20.25% 547,293,868.95 23.55% -9.05%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,457,827,653.48元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "5.78%",
+      "quote": "分销售模式 直销 2,457,827,653.48 100.00% 2,323,612,577.73 100.00% 5.78%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "射频器件",
+      "metric_type": "capacity",
+      "value": "2,074,800个",
+      "period": "2025年",
+      "quote": "产品名称...产能...射频器件 2,074,800"
+    },
+    {
+      "product": "射频器件",
+      "metric_type": "production_volume",
+      "value": "1,309,611个",
+      "period": "2025年",
+      "quote": "产品名称...产量...射频器件 1,309,611"
+    },
+    {
+      "product": "射频器件",
+      "metric_type": "sales_volume",
+      "value": "1,204,329个",
+      "period": "2025年",
+      "quote": "产品名称...销量...射频器件 1,204,329"
+    },
+    {
+      "product": "射频结构件",
+      "metric_type": "capacity",
+      "value": "6,969,300个",
+      "period": "2025年",
+      "quote": "产品名称...产能...射频结构件 6,969,300"
+    },
+    {
+      "product": "射频结构件",
+      "metric_type": "production_volume",
+      "value": "5,598,595个",
+      "period": "2025年",
+      "quote": "产品名称...产量...射频结构件 5,598,595"
+    },
+    {
+      "product": "射频结构件",
+      "metric_type": "sales_volume",
+      "value": "5,562,045个",
+      "period": "2025年",
+      "quote": "产品名称...销量...射频结构件 5,562,045"
+    },
+    {
+      "product": "智能装备",
+      "metric_type": "production_volume",
+      "value": "192台",
+      "period": "2025年",
+      "quote": "智能装备行业...生产量 台 192"
+    },
+    {
+      "product": "智能装备",
+      "metric_type": "sales_volume",
+      "value": "60台",
+      "period": "2025年",
+      "quote": "智能装备行业...销售量 台 60"
+    },
+    {
+      "product": null,
+      "metric_type": "inventory_volume",
+      "value": "998,385个",
+      "period": "2025年末",
+      "quote": "通信行业...库存量 个 998,385"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购安徽云塔电子科技有限公司",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "100,000,000元（增资款）",
+      "designed_capacity": null,
+      "progress": "第一阶段的增资已经完成",
+      "expected_completion_time": null,
+      "quote": "报告期内获取的重大的股权投资情况...安徽云塔电子科技有限公司...投资金额 100,000,000...该项目为公司第一个量产的钛合金项目..."
+    },
+    {
+      "name": "蚌埠中城大富智科创业投资基金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "7,500,000元（公司出资额）",
+      "designed_capacity": null,
+      "progress": "尚未完成基金设立",
+      "expected_completion_time": null,
+      "quote": "公司与...签署《合伙协议》，参与投资设立蚌埠中城大富智科创业投资基金合伙企业...其中公司作为有限合伙人拟以自有资金出资7,500万元..."
+    },
+    {
+      "name": "5G单频基站滤波器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "样机/小批/批量",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：5G单频基站滤波器...项目进展：样机/小批/批量"
+    },
+    {
+      "name": "5G-A基站滤波器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "样机/小批/批量",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：5G-A基站滤波器...项目进展：样机/小批/批量"
+    },
+    {
+      "name": "钛合金耳机杆项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "批量",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：钛合金耳机杆项目...项目进展：批量"
+    },
+    {
+      "name": "MIM钛合金喂料制备技术",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "样机",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：MIM钛合金喂料制备技术...项目进展：样机"
+    },
+    {
+      "name": "AI服务器结构件开发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "样机/小批",
+      "expected_completion_time": null,
+      "quote": "主要研发项目名称：AI服务器结构件开发...项目进展：样机/小批"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "机电一体化的精密制造能力",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "公司现已拥有近50种完善的精密制造工艺...产品自制能力高达95%。",
+      "quote": "公司拥有针对精密机电产品纵向一体化、垂直整合的全流程制造能力...公司现已拥有近50种完善的精密制造工艺..."
+    },
+    {
+      "name": "装备自主化的智能制造能力",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司在自主研发通用自动化设备的同时，基于多年生产制造经验，形成了针对特殊工艺流程自主开发自动化设备的能力。"
+    },
+    {
+      "name": "累计申请专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月31日，公司累计申请专利3,321件...累计获得授权专利1,882件...",
+      "quote": "截至2025年12月31日，公司累计申请专利3,321件，其中发明专利1,416件、实用新型1,562件、外观设计136件、PCT申请207件；...累计获得授权专利1,882件..."
+    },
+    {
+      "name": "MIM钛合金喂料制备技术",
+      "asset_type": "process_technology",
+      "related_product": "钛合金产品",
+      "quantitative_info": "MIM-TA15喂料的成本降低2/3。",
+      "quote": "该项目攻克了MIM钛合金喂料配方核心技术，实现MIM-TC4和MIM-TA15喂料的自主化生产...尤其是MIM-TA15喂料的成功研发，使钛合金喂料成本降低2/3..."
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建立了ISO9001质量管理体系、ISO14001环境管理体系、ISO45001职业健康安全管理体系..."
+    },
+    {
+      "name": "ISO14001环境管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建立了ISO9001质量管理体系、ISO14001环境管理体系、ISO45001职业健康安全管理体系..."
+    },
+    {
+      "name": "ISO45001职业健康安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司建立了ISO9001质量管理体系、ISO14001环境管理体系、ISO45001职业健康安全管理体系..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "60.79%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 1,494,087,207.95...前五名客户合计销售金额占年度销售总额比例 60.79%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "44.75%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料...客户一 1,099,763,729.09 44.75%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "22.07%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 367,611,813.94...前五名供应商合计采购金额占年度采购总额比例 22.07%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "10.24%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料...供应商一 170,557,884.61 10.24%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司出口以美元、欧元结算为主，人民币汇率的波动，将有可能给公司带来汇兑收益或汇兑损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "外围经济及汇率大幅波动的风险...公司出口以美元、欧元结算为主，人民币汇率的波动，将有可能给公司带来汇兑收益或汇兑损失。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "近年来，全球大宗商品，特别是金属原材料等价格大幅波动，导致公司主要原材料的价格较高，如果未来原材料价格继续大幅上升或维持现在的水平，可能会对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动风险...近年来，全球大宗商品，特别是金属原材料等价格大幅波动，导致公司主要原材料的价格较高..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "制造业的数字化、网络化、智能化转型升级的新需求日益高涨，创新产品研发将成为可持续发展的长期挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "业务创新发展风险...制造业的数字化、网络化、智能化转型升级的新需求日益高涨，创新产品研发将成为可持续发展的长期挑战。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着移动通信代际的演变，对无线通讯基站设备的轻量化、低能耗、高集成化等方面提出了更高的要求，同时滤波器产品也需要向多频段、多通道、轻量化、小体积等方向发展。",
+      "related_entity": null,
+      "related_product": "滤波器",
+      "quote": "随着5G建设进入阶段性调整，公司通信射频业务持续承压。2024年以来5G建设进入中后期，客户需求以存量替换为主，市场竞争不断加剧。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "截至报告期末，母公司存在未弥补亏损972,838,594.08元...公司目前不满足实施现金分红的前提条件。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至本报告期，母公司存在未弥补亏损972,838,594.08元...公司目前不满足实施现金分红的前提条件。"
+    }
+  ]
+}

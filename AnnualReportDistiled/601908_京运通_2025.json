@@ -1,0 +1,541 @@
+{
+  "company_name_mentioned": "北京京运通科技股份有限公司",
+  "produces": [
+    {
+      "name": "高端装备（光伏设备及半导体设备）",
+      "type": "device",
+      "revenue_proportion": "该业务实现主营收入810.62万元",
+      "quote": "高端装备业务出货量、收入均处于较低水平，该业务实现主营收入810.62万元，同比大幅减少，毛利率约为47.42%"
+    },
+    {
+      "name": "新材料（光伏级直拉单晶硅棒及硅片，半导体级区熔单晶硅棒及硅片）",
+      "type": "material",
+      "revenue_proportion": "该业务实现主营收入15.25亿元，同比减少约45.88%",
+      "quote": "新材料业务实现主营收入15.25亿元，同比减少约45.88%，该业务仍面临整体亏损情况"
+    },
+    {
+      "name": "新能源电力（太阳能光伏发电及风力发电）",
+      "type": "service",
+      "revenue_proportion": "该业务实现主营收入10.31亿元，同比减少约6.65%",
+      "quote": "新能源发电业务实现主营收入10.31亿元，同比减少约6.65%，毛利率约为50.56%"
+    },
+    {
+      "name": "节能环保（脱硝催化剂）",
+      "type": "material",
+      "revenue_proportion": "该业务实现主营收入1.79亿元，同比增长约34.32%",
+      "quote": "脱硝催化剂业务实现主营收入1.79亿元，同比增长约34.32%，毛利率约为19.36%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料",
+      "target_product": "设备",
+      "cost_proportion": "95.23%",
+      "quote": "高端装备业务: 材料 4,058,408.68 95.23"
+    },
+    {
+      "name": "材料",
+      "target_product": "新材料业务",
+      "cost_proportion": "71.57%",
+      "quote": "新材料业务: 材料 1,271,719,822.28 71.57"
+    },
+    {
+      "name": "材料",
+      "target_product": "新能源发电业务",
+      "cost_proportion": "77.69%",
+      "quote": "新能源发电业务: 材料 396,078,186.53 77.69"
+    },
+    {
+      "name": "材料",
+      "target_product": "节能环保业务",
+      "cost_proportion": "84.10%",
+      "quote": "节能环保业务: 材料 121,675,509.61 84.10"
+    }
+  ],
+  "applications": [
+    {
+      "name": "光伏电池及组件",
+      "source_product": "光伏级单晶硅片",
+      "quote": "光伏级单晶硅片包括 G12、G12R、M10、G10等多种规格，下游客户主要是光伏电池及组件企业"
+    },
+    {
+      "name": "IGBT、可控硅等大功率电子器件",
+      "source_product": "半导体级区熔单晶硅棒及硅片",
+      "quote": "区熔单晶硅产品可满足IGBT、可控硅等大功率电子器件的应用需求"
+    },
+    {
+      "name": "光伏硅棒和硅片生产",
+      "source_product": "单晶硅生长炉、金刚线开方机、金刚线切片机",
+      "quote": "光伏设备包括单晶硅生长炉、金刚线开方机、金刚线切片机等，主要用于生产光伏硅棒和硅片"
+    },
+    {
+      "name": "半导体材料生产",
+      "source_product": "区熔单晶硅炉、碳化硅晶体生长设备、金刚石生长炉",
+      "quote": "半导体设备包括区熔单晶硅炉、碳化硅晶体生长设备、金刚石生长炉等，主要用于生产半导体相关材料"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "冯焕培",
+      "role": "董事长、总经理、法定代表人、实际控制人之一",
+      "quote": "公司负责人冯焕培、主管会计工作负责人冯焕培及会计机构负责人（会计主管人员）王云声明"
+    },
+    {
+      "name": "范朝霞",
+      "role": "实际控制人之一，控股股东京运通达兴经理、财务负责人",
+      "quote": "范朝霞：现任控股股东京运通达兴经理、财务负责人。"
+    },
+    {
+      "name": "冯震坤",
+      "role": "董事、副总经理",
+      "quote": "冯震坤 男 37 2018/3/28 2027/5/22 0 0 0 63.84 否"
+    },
+    {
+      "name": "关树军",
+      "role": "董事、副总经理",
+      "quote": "关树军 男 48 2017/6/26 2027/5/22 0 0 0 65.70 否"
+    },
+    {
+      "name": "王楠",
+      "role": "职工代表董事、党支部书记、综合管理部副部长",
+      "quote": "王楠 女 42 2025/12/29 2027/5/22 0 0 0 21.41 否"
+    },
+    {
+      "name": "李人洁",
+      "role": "董事",
+      "quote": "李人洁 女 55 2011/11/7 2027/5/22 0 0 0 0 否"
+    },
+    {
+      "name": "张国铭",
+      "role": "董事",
+      "quote": "张国铭 男 62 2012/11/21 2027/5/22 0 0 0 0 否"
+    },
+    {
+      "name": "马建国",
+      "role": "独立董事",
+      "quote": "马建国 男 69 2024/5/23 2027/5/22 0 0 0 15 否"
+    },
+    {
+      "name": "赵磊",
+      "role": "独立董事",
+      "quote": "赵磊 男 49 2021/5/26 2027/5/22 0 0 0 15 否"
+    },
+    {
+      "name": "江轩宇",
+      "role": "独立董事",
+      "quote": "江轩宇 男 40 2021/5/26 2027/5/22 0 0 0 15 否"
+    },
+    {
+      "name": "赵曦瑞",
+      "role": "董事会秘书",
+      "quote": "赵曦瑞 女 37 2021/1/20 / 0 0 0 60.27 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京京运通达兴科技投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "京运通达兴、控股股东 指 北京京运通达兴科技投资有限公司"
+    },
+    {
+      "name": "山东天璨环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "山东天璨 指 山东天璨环保科技有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "北京天能运通晶体技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "北京天能 指 北京天能运通晶体技术有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "乐山市京运通新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "乐山新材料 指 乐山市京运通新材料科技有限公司，为本公司的控股子公司"
+    },
+    {
+      "name": "乐山市京运通半导体材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "乐山半导体 指 乐山市京运通半导体材料有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "无锡京运通科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "无锡科技、无锡京运通、无锡京运通科技 指 无锡京运通科技有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "无锡荣能半导体材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "无锡荣能 指 无锡荣能半导体材料有限公司，为本公司的控股子公司"
+    },
+    {
+      "name": "乌海市京运通新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "乌海京运通 指 乌海市京运通新材料科技有限公司，为本公司的全资子公司"
+    },
+    {
+      "name": "贵州兴业绿色能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "协议转让",
+      "quote": "贵州兴业 指 贵州兴业绿色能源科技有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "高端装备业务",
+      "segment_type": "product_line",
+      "revenue_amount": "8,106,194.69",
+      "revenue_proportion": null,
+      "gross_margin": "47.42",
+      "yoy_change": "减少80.33%",
+      "quote": "高端装备业务 8,106,194.69 4,261,891.92 47.42 -80.33 -83.44"
+    },
+    {
+      "name": "新材料业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,524,686,803.01",
+      "revenue_proportion": null,
+      "gross_margin": "-16.54",
+      "yoy_change": "减少45.88%",
+      "quote": "新材料业务 1,524,686,803.01 1,776,945,939.17 -16.54 -45.88 -55.98"
+    },
+    {
+      "name": "新能源发电业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,031,104,386.04",
+      "revenue_proportion": null,
+      "gross_margin": "50.56",
+      "yoy_change": "减少6.65%",
+      "quote": "新能源发电业务 1,031,104,386.04 509,788,776.07 50.56 -6.65 0.69"
+    },
+    {
+      "name": "节能环保业务",
+      "segment_type": "product_line",
+      "revenue_amount": "179,407,766.96",
+      "revenue_proportion": null,
+      "gross_margin": "19.36",
+      "yoy_change": "增长34.32%",
+      "quote": "节能环保业务 179,407,766.96 144,677,892.56 19.36 34.32 41.46"
+    },
+    {
+      "name": "设备",
+      "segment_type": "product_line",
+      "revenue_amount": "8,106,194.69",
+      "revenue_proportion": null,
+      "gross_margin": "47.42",
+      "yoy_change": "减少80.33%",
+      "quote": "设备 8,106,194.69 4,261,891.92 47.42 -80.33 -83.44"
+    },
+    {
+      "name": "硅棒",
+      "segment_type": "product_line",
+      "revenue_amount": "556,939,121.74",
+      "revenue_proportion": null,
+      "gross_margin": "-21.48",
+      "yoy_change": "增长245.12%",
+      "quote": "硅棒 556,939,121.74 676,592,460.78 -21.48 245.12 104.41"
+    },
+    {
+      "name": "硅片",
+      "segment_type": "product_line",
+      "revenue_amount": "967,747,681.27",
+      "revenue_proportion": null,
+      "gross_margin": "-13.70",
+      "yoy_change": "减少63.56%",
+      "quote": "硅片 967,747,681.27 1,100,353,478.39 -13.70 -63.56 -70.31"
+    },
+    {
+      "name": "电力",
+      "segment_type": "product_line",
+      "revenue_amount": "1,031,104,386.04",
+      "revenue_proportion": null,
+      "gross_margin": "50.56",
+      "yoy_change": "减少6.65%",
+      "quote": "电力 1,031,104,386.04 509,788,776.07 50.56 -6.65 0.69"
+    },
+    {
+      "name": "脱硝催化剂",
+      "segment_type": "product_line",
+      "revenue_amount": "179,407,766.96",
+      "revenue_proportion": null,
+      "gross_margin": "19.36",
+      "yoy_change": "增长34.32%",
+      "quote": "脱硝催化剂 179,407,766.96 144,677,892.56 19.36 34.32 41.46"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "2,726,626,292.13",
+      "revenue_proportion": null,
+      "gross_margin": "11.33",
+      "yoy_change": "减少33.35%",
+      "quote": "国内 2,726,626,292.13 2,417,759,669.18 11.33 -33.35 -48.17"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "16,678,858.57",
+      "revenue_proportion": null,
+      "gross_margin": "-7.41",
+      "yoy_change": "增长178.64%",
+      "quote": "国外 16,678,858.57 17,914,830.54 -7.41 178.64 172.16"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "单晶硅棒",
+      "metric_type": "production_volume",
+      "value": "11,533.85吨",
+      "period": "2025年",
+      "quote": "单晶硅棒 吨 11,533.85"
+    },
+    {
+      "product": "单晶硅棒",
+      "metric_type": "sales_volume",
+      "value": "11,956.16吨",
+      "period": "2025年",
+      "quote": "单晶硅棒 吨 ... 11,956.16"
+    },
+    {
+      "product": "单晶硅棒",
+      "metric_type": "inventory_volume",
+      "value": "640.63吨",
+      "period": "2025年末",
+      "quote": "单晶硅棒 吨 ... 640.63"
+    },
+    {
+      "product": "单晶硅棒",
+      "metric_type": "other",
+      "value": "生产量同比增长626.04%，销售量同比增长308.25%，库存量同比减少39.73%",
+      "period": "2025年",
+      "quote": "生产量比上年增减（%） ... 626.04 ... 销售量比上年增减（%） ... 308.25 ... 库存量比上年增减（%） ... -39.73"
+    },
+    {
+      "product": "硅片",
+      "metric_type": "production_volume",
+      "value": "124,382.73万片",
+      "period": "2025年",
+      "quote": "硅片 万片 124,382.73"
+    },
+    {
+      "product": "硅片",
+      "metric_type": "sales_volume",
+      "value": "129,575.34万片",
+      "period": "2025年",
+      "quote": "硅片 万片 ... 129,575.34"
+    },
+    {
+      "product": "硅片",
+      "metric_type": "inventory_volume",
+      "value": "1,097.88万片",
+      "period": "2025年末",
+      "quote": "硅片 万片 ... 1,097.88"
+    },
+    {
+      "product": "硅片",
+      "metric_type": "other",
+      "value": "生产量同比减少41.23%，销售量同比减少39.55%，库存量同比减少82.55%",
+      "period": "2025年",
+      "quote": "生产量比上年增减（%） ... -41.23 ... 销售量比上年增减（%） ... -39.55 ... 库存量比上年增减（%） ... -82.55"
+    },
+    {
+      "product": "单晶硅炉",
+      "metric_type": "production_volume",
+      "value": "4台",
+      "period": "2025年",
+      "quote": "单晶硅炉 台 4"
+    },
+    {
+      "product": "单晶硅炉",
+      "metric_type": "other",
+      "value": "生产量同比减少100%，销售量同比减少77.78%，库存量同比减少100%",
+      "period": "2025年",
+      "quote": "生产量比上年增减（%） ... -100.00 ... 销售量比上年增减（%） ... -77.78 ... 库存量比上年增减（%） ... -100.00"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "166,992.16万千瓦时",
+      "period": "2025年",
+      "quote": "电力 万千瓦时 166,992.16"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "166,992.16万千瓦时",
+      "period": "2025年",
+      "quote": "电力 万千瓦时 ... 166,992.16"
+    },
+    {
+      "product": "电力",
+      "metric_type": "other",
+      "value": "生产量同比增长1.66%，销售量同比增长1.66%",
+      "period": "2025年",
+      "quote": "生产量比上年增减（%） ... 1.66 ... 销售量比上年增减（%） ... 1.66"
+    },
+    {
+      "product": "脱硝催化剂组装",
+      "metric_type": "production_volume",
+      "value": "24,976.48立方米",
+      "period": "2025年",
+      "quote": "脱硝催化剂组装 立方米 24,976.48"
+    },
+    {
+      "product": "脱硝催化剂组装",
+      "metric_type": "sales_volume",
+      "value": "24,682.69立方米",
+      "period": "2025年",
+      "quote": "脱硝催化剂组装 立方米 ... 24,682.69"
+    },
+    {
+      "product": "脱硝催化剂组装",
+      "metric_type": "inventory_volume",
+      "value": "4,389.14立方米",
+      "period": "2025年末",
+      "quote": "脱硝催化剂组装 立方米 ... 4,389.14"
+    },
+    {
+      "product": "脱硝催化剂组装",
+      "metric_type": "other",
+      "value": "生产量同比增长14.66%，销售量同比增长23.87%，库存量同比增长7.17%",
+      "period": "2025年",
+      "quote": "生产量比上年增减（%） ... 14.66 ... 销售量比上年增减（%） ... 23.87 ... 库存量比上年增减（%） ... 7.17"
+    },
+    {
+      "product": "光伏及风力发电",
+      "metric_type": "capacity",
+      "value": "1,284.60MW",
+      "period": "截至2025年底",
+      "quote": "公司自持并网的光伏电站和风力发电站累计装机容量为1,284.60MW"
+    },
+    {
+      "product": "光伏及风力发电",
+      "metric_type": "production_volume",
+      "value": "超16.6亿千瓦时",
+      "period": "2025年全年",
+      "quote": "全年累计结算电量超16.6亿千瓦时，同比增长约1.66%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "乐山一期",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "现有产能",
+      "expected_completion_time": null,
+      "quote": "乐山一期 指 京运通乐山12GW单晶拉棒、切方项目"
+    },
+    {
+      "name": "乐山二期",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "现有产能",
+      "expected_completion_time": null,
+      "quote": "乐山二期 指 京运通乐山22GW高效单晶硅棒、切片项目"
+    },
+    {
+      "name": "在建硅片生产线",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "在建生产线 1台"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "光伏设备自主研发",
+      "asset_type": "core_technology",
+      "related_product": "光伏设备和半导体设备",
+      "quantitative_info": null,
+      "quote": "公司光伏设备和半导体设备均为自主研发"
+    },
+    {
+      "name": "JD-1600全自动软轴单晶炉",
+      "asset_type": "core_technology",
+      "related_product": "光伏单晶硅生长",
+      "quantitative_info": "可使用30-42英寸的热场系统，最大熔料量1,400kg，可拉制12英寸或以下的单晶，适配“210mm硅片”生产线",
+      "quote": "JD-1600全自动软轴单晶炉是一款软轴提拉型单晶炉。该设备可使用30-42英寸的热场系统，最大熔料量1,400kg，可拉制12英寸或以下的单晶，适配“210mm硅片”生产线。"
+    },
+    {
+      "name": "硫化锌炉和连续渗硅炉",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司完成了硫化锌炉和连续渗硅炉的研发和技术储备"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "191,615.18万元，占年度销售总额46.94%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额191,615.18万元，占年度销售总额46.94%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "67,977.51万元，占年度采购总额57.53%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额67,977.51万元，占年度采购总额57.53%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "光伏行业产能快速扩张，导致产品供需格局失衡，企业间竞争加剧，全行业面临普遍亏损，对行业整体发展造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "近年来，光伏行业产能快速扩张，导致产品供需格局失衡，企业间竞争加剧，为了稳定和维护各自的市场份额，企业被迫以低于成本价销售，全行业面临普遍亏损，对行业整体发展造成不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国内各地的光伏补贴和阶梯电价政策正在逐步退坡或取消，政策环境和市场环境的变化，给公司生产经营与业务布局带来一定不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "国内各地的光伏补贴和阶梯电价政策正在逐步退坡或取消，政策环境和市场环境的变化，给公司生产经营与业务布局带来一定不确定性。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "光伏行业技术更新换代较快，产业链涵盖环节较多，任一环节出现较大波动，都可能会对产业链其他环节光伏企业的成本和效益产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "光伏行业技术更新换代较快，光伏产业链涵盖硅料、硅片、电池片、组件及终端电站的安装和运维，任一环节出现较大波动，都可能会对产业链其他环节光伏企业的成本和效益产生影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "上游原材料、关键辅材及核心主材的供需关系、价格走势及供应稳定性均会对公司的生产经营、成本等产生较大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "光伏产业链覆盖环节较多，上游原材料、关键辅材及核心主材的供需关系、价格走势及供应稳定性均会对公司的生产经营、成本等产生较大影响。若主要原材料价格大幅波动、关键物料供应紧张，可能导致公司生产成本上升或生产计划被迫发生变化，进而影响公司整体经营的稳定性。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "金融机构对光伏行业的信贷政策趋紧，光伏企业面临融资环境变化、融资成本上升的现状。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "受光伏行业周期性波动、收益率下滑及电价政策调整等因素影响，金融机构对光伏行业的信贷政策趋紧，光伏企业随之面临融资环境变化、融资成本上升的现状。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司面临多起诉讼、仲裁事项，存在未履行法院生效判决的情况，实际控制人曾被限制高消费。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末，公司及子公司未履行法院生效判决情况如下...京运通法定代表人冯焕培先生（公司实际控制人之一）被相关法院依法采取限制高消费措施。"
+    }
+  ]
+}

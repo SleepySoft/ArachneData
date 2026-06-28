@@ -1,0 +1,543 @@
+{
+  "company_name_mentioned": "金卡智能集团股份有限公司",
+  "produces": [
+    {
+      "name": "物联网智能终端（感知层）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司数字化综合解决方案贯穿感知层、采集层和应用层，分别由智能终端（感知层）、IoT大数据平台（采集层）、应用软件服务（应用层）组成。"
+    },
+    {
+      "name": "智能燃气终端",
+      "type": "device",
+      "revenue_proportion": "62.42%（智能民用燃气终端及系统），21.82%（智能工商业燃气终端及系统）",
+      "quote": "分产品 智能民用燃气终端及系统 2,014,334,794.72 62.42%... 智能工商业燃气终端及系统 704,284,802.33 21.82%"
+    },
+    {
+      "name": "智能水务终端及系统",
+      "type": "device",
+      "revenue_proportion": "6.84%",
+      "quote": "分产品... 智能水务终端及系统 220,616,573.99 6.84%"
+    },
+    {
+      "name": "智慧公用事业管理系统及其他",
+      "type": "software",
+      "revenue_proportion": "8.92%",
+      "quote": "分产品... 智慧公用事业管理系统及其他 287,756,055.30 8.92%"
+    },
+    {
+      "name": "IoT大数据平台（采集层）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "采集层承载着连接感知层和应用层的功能，起着承上启下的作用。采集层负责实现终端设备管理、连接管理、应用使能和数据分析，通过物联网通信网络将海量业务数据采集到大数据平台"
+    },
+    {
+      "name": "应用软件服务（应用层）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "应用层位于解决方案的顶层，是解决方案的最终实现环节。应用层通过对采集层的数据进行计算、处理、分析和展示，服务于特定场景的业务管理需求"
+    },
+    {
+      "name": "NB-IoT智能燃气表",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在居民住宅场景中，公司拥有NB-IoT智能燃气表与超声波燃气表"
+    },
+    {
+      "name": "超声波燃气表",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司拥有超声波燃气表与NB-IoT智能燃气表"
+    },
+    {
+      "name": "超高压超声流量计",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在上游高压管网场景中，超高压超声流量计/高压超声流量计、色谱分析仪与流量计算机构成了能量计量"
+    },
+    {
+      "name": "色谱分析仪",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "色谱分析仪与流量计算机构成了能量计量"
+    },
+    {
+      "name": "激光报警器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "围绕“流量、浓度、压力”推出激光报警器、工业及商业用途点型可燃气体探测器"
+    },
+    {
+      "name": "智能机械水表",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在居民住宅场景中，公司拥有智能机械水表、智能机械阀控水表"
+    },
+    {
+      "name": "TBQM型气体涡轮流量计",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司自主研发的TBQM型气体涡轮流量计通过了DNVGL机构的氢气和天然气混合气体计量测试"
+    },
+    {
+      "name": "TCF质量流量计",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司全新推出TCF质量流量计、TEF电磁流量计、TVF涡街流量计三大核心产品"
+    },
+    {
+      "name": "TEF电磁流量计",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司全新推出TCF质量流量计、TEF电磁流量计、TVF涡街流量计三大核心产品"
+    },
+    {
+      "name": "TVF涡街流量计",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司全新推出TCF质量流量计、TEF电磁流量计、TVF涡街流量计三大核心产品"
+    },
+    {
+      "name": "金卡云（物联网云平台）",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "金卡云 指 金卡智能物联网云平台"
+    },
+    {
+      "name": "量子安全解决方案",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "全国首个融合量子安全技术与RISC-V架构物联模组的燃气、水务综合解决方案已正式发布"
+    },
+    {
+      "name": "行业垂直AI大模型（易联大模型）",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "已发布并成功备案行业垂直大模型“易联大模型”，并基于大模型发布多个AI产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": null,
+      "cost_proportion": "84.57%",
+      "quote": "成本构成 金额 占营业成本比重... 直接材料 1,689,121,605.32 84.57%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": null,
+      "cost_proportion": "5.04%",
+      "quote": "直接人工 100,595,210.56 5.04%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": null,
+      "cost_proportion": "10.39%",
+      "quote": "制造费用 207,486,562.57 10.39%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "数字燃气",
+      "source_product": "智能燃气终端、软件系统平台",
+      "quote": "公司目前已经布局了数字燃气、数字水务、数字能源和数字过程四大应用场景。"
+    },
+    {
+      "name": "数字水务",
+      "source_product": "智能水务终端、软件系统平台",
+      "quote": "公司目前已经布局了数字燃气、数字水务、数字能源和数字过程四大应用场景。"
+    },
+    {
+      "name": "数字能源（氢能计量）",
+      "source_product": "TBQM型气体涡轮流量计、超声波燃气表等",
+      "quote": "公司自主研发的TBQM型气体涡轮流量计通过了DNVGL机构的氢气和天然气混合气体计量测试...为公司拓展市场提供了有力支持。"
+    },
+    {
+      "name": "数字过程（工业计量）",
+      "source_product": "科里奥利质量流量计、电磁流量计、涡街流量计等",
+      "quote": "公司聚焦油气、化工、冶金、电力及新能源等核心工业领域，自主研发创新性多模态流量计量产品矩阵"
+    },
+    {
+      "name": "城市生命线安全工程",
+      "source_product": "城市生命线解决方案",
+      "quote": "公司持续参与浙江、河北、新疆等多地城市生命线安全工程建设，筑牢城市燃气安全运行防线。"
+    },
+    {
+      "name": "燃气安全智慧厨房",
+      "source_product": "安全智慧厨房解决方案",
+      "quote": "公司继续紧抓多项利好政策契机，...持续推进城市生命线解决方案、安全智慧厨房解决方案落地"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨斌",
+      "role": "董事长、总裁、法定代表人",
+      "quote": "公司负责人杨斌、主管会计工作负责人李玲玲及会计机构负责人(会计主管人员)李玲玲声明"
+    },
+    {
+      "name": "李玲玲",
+      "role": "董事、副总裁、财务总监、董事会秘书",
+      "quote": "主管会计工作负责人李玲玲及会计机构负责人(会计主管人员)李玲玲声明"
+    },
+    {
+      "name": "仇梁",
+      "role": "董事、副总裁",
+      "quote": "董事和高级管理人员基本情况... 仇梁 男 63 董事、副总裁"
+    },
+    {
+      "name": "王勇",
+      "role": "董事",
+      "quote": "董事和高级管理人员基本情况... 王勇 男 42 董事"
+    },
+    {
+      "name": "余冬林",
+      "role": "职工董事",
+      "quote": "余冬林 男 50 职工董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江金卡高科技工程有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东、金卡工程、工程公司 指 浙江金卡高科技工程有限公司"
+    },
+    {
+      "name": "天信仪表集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为工商业气体流量计及其配件的研发、生产与销售",
+      "quote": "天信仪表 指 天信仪表集团有限公司... 主要子公司及对公司净利润影响达10%以上的参股公司情况... 公司名称 天信仪表"
+    },
+    {
+      "name": "金卡智能集团（杭州）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "金卡杭州 指 金卡智能集团（杭州）有限公司"
+    },
+    {
+      "name": "易联云计算（杭州）有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "易联云 指 易联云计算（杭州）有限责任公司"
+    },
+    {
+      "name": "SAMRUK-KAZYNAINVESTLLP",
+      "relation_type": "joint_venture",
+      "business_details": "与金卡新加坡公司共同出资设立金卡哈萨克公司，持股30%",
+      "quote": "2025年8月，本公司、金卡新加坡公司和SAMRUK-KAZYNAINVEST LLP签订投资协议...转让后金卡新加坡公司和SAMRUK-KAZYNAINVEST LLP分别持有金卡哈萨克公司70%和30%股权。"
+    },
+    {
+      "name": "上海芯翼信息科技有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "杨斌先生... 芯翼信息科技（上海）有限公司 监事"
+    },
+    {
+      "name": "阿里云",
+      "relation_type": "supplier",
+      "business_details": "战略合作",
+      "quote": "公司与阿里云、华为、电信等企业形成战略合作"
+    },
+    {
+      "name": "华为",
+      "relation_type": "supplier",
+      "business_details": "战略合作",
+      "quote": "公司与阿里云、华为、电信等企业形成战略合作"
+    },
+    {
+      "name": "中电信量子集团",
+      "relation_type": "supplier",
+      "business_details": "合作研发行业量子安全解决方案",
+      "quote": "2025年，公司联合中电信量子集团、天翼物联科技有限公司共同合作研发行业量子安全解决方案"
+    },
+    {
+      "name": "国家管网",
+      "relation_type": "customer",
+      "business_details": "数字过程领域重点客户",
+      "quote": "其中包括国家管网、浙江恒逸石化、浙江华峰、华润电力、长江电力、中国石油天然气管道工程等行业重点客户"
+    },
+    {
+      "name": "昆仑燃气",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务于昆仑燃气、新奥燃气、华润燃气、中国燃气、港华燃气、北控水务、中国水务集团等大型燃气或水务集团"
+    },
+    {
+      "name": "新奥燃气",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务于昆仑燃气、新奥燃气、华润燃气、中国燃气、港华燃气、北控水务、中国水务集团等大型燃气或水务集团"
+    },
+    {
+      "name": "华润燃气",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务于昆仑燃气、新奥燃气、华润燃气、中国燃气、港华燃气、北控水务、中国水务集团等大型燃气或水务集团"
+    },
+    {
+      "name": "北控水务",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司服务于昆仑燃气、新奥燃气、华润燃气、中国燃气、港华燃气、北控水务、中国水务集团等大型燃气或水务集团"
+    },
+    {
+      "name": "中汇会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所... 会计师事务所名称 中汇会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智慧公用事业物联网解决方案",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,056,465,830.06元",
+      "revenue_proportion": "94.72%",
+      "gross_margin": "36.92%",
+      "yoy_change": "收入同比增长9.46%，成本同比增长16.43%，毛利率同比下降3.78%",
+      "quote": "分行业 智慧公用事业物联网解决方案 3,056,465,830.06 94.72%... 营业收入比上年同期增减 9.46%... 毛利率比上年同期增减 -3.78%"
+    },
+    {
+      "name": "智能民用燃气终端及系统",
+      "segment_type": "product_line",
+      "revenue_amount": "2,014,334,794.72元",
+      "revenue_proportion": "62.42%",
+      "gross_margin": "32.12%",
+      "yoy_change": "收入同比增长16.28%，成本同比增长20.61%，毛利率同比下降2.44%",
+      "quote": "分产品 智能民用燃气终端及系统 2,014,334,794.72 62.42%... 营业收入比上年同期增减 16.28%... 毛利率比上年同期增减 -2.44%"
+    },
+    {
+      "name": "智能工商业燃气终端及系统",
+      "segment_type": "product_line",
+      "revenue_amount": "704,284,802.33元",
+      "revenue_proportion": "21.82%",
+      "gross_margin": "49.76%",
+      "yoy_change": "收入同比增长0.33%，成本同比增长10.54%，毛利率同比下降4.64%",
+      "quote": "分产品 智能工商业燃气终端及系统 704,284,802.33 21.82%... 营业收入比上年同期增减 0.33%... 毛利率比上年同期增减 -4.64%"
+    },
+    {
+      "name": "智能水务终端及系统",
+      "segment_type": "product_line",
+      "revenue_amount": "220,616,573.99元",
+      "revenue_proportion": "6.84%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "分产品... 智能水务终端及系统 220,616,573.99 6.84%"
+    },
+    {
+      "name": "智慧公用事业管理系统及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "287,756,055.30元",
+      "revenue_proportion": "8.92%",
+      "gross_margin": "46.90%",
+      "yoy_change": "收入同比下降24.30%，成本同比下降30.13%，毛利率同比上升4.43%",
+      "quote": "分产品... 智慧公用事业管理系统及其他 287,756,055.30 8.92%... 营业收入比上年同期增减 -24.30%... 毛利率比上年同期增减 4.43%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "3,050,811,755.48元",
+      "revenue_proportion": "94.54%",
+      "gross_margin": "37.15%",
+      "yoy_change": "收入同比增长3.17%，成本同比增长7.68%，毛利率同比下降2.63%",
+      "quote": "分地区 内销 3,050,811,755.48 94.54%... 营业收入比上年同期增减 3.17%... 毛利率比上年同期增减 -2.63%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "176,180,470.86元",
+      "revenue_proportion": "5.46%",
+      "gross_margin": null,
+      "yoy_change": "收入同比增长62.12%",
+      "quote": "分地区... 外销 176,180,470.86 5.46% 62.12%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智慧公用事业物联网解决方案、其他",
+      "metric_type": "sales_volume",
+      "value": "13,072,910台",
+      "period": "2025年",
+      "quote": "销售量 台 13,072,910"
+    },
+    {
+      "product": "智慧公用事业物联网解决方案、其他",
+      "metric_type": "production_volume",
+      "value": "13,154,019台",
+      "period": "2025年",
+      "quote": "生产量 台 13,154,019"
+    },
+    {
+      "product": "智慧公用事业物联网解决方案、其他",
+      "metric_type": "inventory_volume",
+      "value": "1,917,203台",
+      "period": "2025年末",
+      "quote": "库存量 台 1,917,203"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "物联网终端连接数量已超过千万量级",
+      "period": null,
+      "quote": "公司物联网系统平台当前接入终端数量已超过千万量级"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "金卡哈萨克生产基地建设",
+      "project_type": "capacity_expansion",
+      "location": "哈萨克斯坦",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "启动生产基地建设",
+      "expected_completion_time": null,
+      "quote": "金卡哈萨克启动生产基地建设，构建起集研发、生产、销售、服务于一体的本地化运营体系"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "IPD集成产品开发体系",
+      "asset_type": "process_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已建立IPD集成产品开发体系"
+    },
+    {
+      "name": "CNAS认可实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "全国行业内首家CNAS实验室",
+      "quote": "公司实验室按照ISO/IEC17025认可准则要求，建立实验室管理体系，并通过中国合格评定国家认可委员会的认可（CNAS认可），为全国行业内首家CNAS实验室。"
+    },
+    {
+      "name": "有效知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计拥有2194项有效知识产权（含数据知识产权，不含标准），其中有效专利1155项，有效软件著作权719项",
+      "quote": "截至报告期末，公司及主要子公司累计拥有2194项有效知识产权（含数据知识产权，不含标准），其中有效专利1155项，有效软件著作权719项"
+    },
+    {
+      "name": "新增知识产权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内新增授权54项发明专利、76项实用新型专利、14项外观专利、6项国际专利，41项软件著作权",
+      "quote": "报告期内，公司新增授权54项发明专利、76项实用新型专利、14项外观专利、6项国际专利，41项软件著作权"
+    },
+    {
+      "name": "参与制定标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "累计参与编写已发布国家、地方、行业、团体标准及规程文件202项，参与国际标准修订8项",
+      "quote": "累计参与编写已发布国家、地方、行业、团体标准及规程文件202项，参与国际标准修订8项"
+    },
+    {
+      "name": "氢能计量认证",
+      "asset_type": "certification",
+      "related_product": "TBQM型气体涡轮流量计、超声波燃气表",
+      "quantitative_info": "国内唯一一家通过5%、10%、15%及30%等氢气掺混测试的企业；国内首台通过NMI混氢测试认证的燃气表",
+      "quote": "公司自主研发的TBQM型气体涡轮流量计通过了DNVGL机构的氢气和天然气混合气体计量测试，是国内唯一一家通过5%、10%、15%及30%等氢气掺混测试的企业...金卡智能超声波燃气表已通过NMI的混氢测试认证，是国内首台通过该认证的燃气表。"
+    },
+    {
+      "name": "MID认证",
+      "asset_type": "certification",
+      "related_product": "智能燃气终端产品",
+      "quantitative_info": "多款产品通过MID认证",
+      "quote": "公司的智能燃气终端产品覆盖上中下游全产业链，多款产品通过MID认证"
+    },
+    {
+      "name": "5G未来工厂",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司依托5G行业虚拟专网和MES系统实现了传统工厂的数字化转型，设立杭州、温州两大“5G未来工厂”"
+    },
+    {
+      "name": "量子加密技术",
+      "asset_type": "core_technology",
+      "related_product": "量子安全解决方案",
+      "quantitative_info": null,
+      "quote": "创新性将量子加密技术深度融入公用事业场景，打造端到端、全链路、不可篡改、可溯源的量子安全防护网络"
+    },
+    {
+      "name": "行业垂直AI大模型（易联大模型）",
+      "asset_type": "core_technology",
+      "related_product": "AI垂直行业大模型",
+      "quantitative_info": "已发布并成功备案",
+      "quote": "已发布并成功备案行业垂直大模型“易联大模型”"
+    },
+    {
+      "name": "国家级知识产权示范企业（创建对象）",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "同时，公司入选国家知识产权示范企业创建对象名单"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "17.29%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 17.29%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "27.55%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 27.55%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "如果未来研发投入不足或者核心技术人才流失或者未能正确把握物联网技术发展趋势，则可能在产业竞争中处于不利地位。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、技术研发风险：...如果未来研发投入不足或者核心技术人才流失或者未能正确把握物联网技术发展趋势，则可能在产业竞争中处于不利地位。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司物联网系统平台当前接入终端数量已超过千万量级，随着公司销售业务持续增长，物联网终端连接规模也在不断扩大，数字燃气与数字水务是涉及民生领域的公共服务，一旦信息系统发生异常，将可能在较大范围内产生不良后果，并削弱公司品牌影响力。",
+      "related_entity": null,
+      "related_product": "物联网系统平台",
+      "quote": "2、信息系统风险：...一旦信息系统发生异常，将可能在较大范围内产生不良后果，并削弱公司品牌影响力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司产品需求与地产销售有一定的相关性，若未来地产销售持续下滑，则产品新增需求增速可能放缓",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、房地产行业下滑的风险。公司产品需求与地产销售有一定的相关性，若未来地产销售持续下滑，则产品新增需求增速可能放缓"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "若国内天然气开采、进口天然气管道建设、LNG接收站建设投入不足，天然气上游价格持续处于高位下游客户盈利能力下降，都将影响我国天然气供给和推广，制约下游客户管网改造等资本支出进度，不利于公司业务的开展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、天然气应用及相关投资推进放缓风险。...都将影响我国天然气供给和推广，制约下游客户管网改造等资本支出进度，不利于公司业务的开展。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着物联网技术的发展，竞争对手纷纷调整战略布局，加快技术升级...且当前产品的同质化现象日益严重，行业已基本处于充分竞争态势，公司产品价格不具备明显优势，可能面临价格波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、同行业竞争加剧引起价格下降的风险。...且当前产品的同质化现象日益严重，行业已基本处于充分竞争态势，公司产品价格不具备明显优势，可能面临价格波动的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "战略布局的其他业务板块尚处扩张期与培育期，技术研发、市场拓展及产能建设投入较大，短期内可能面临盈利周期延长、成本回收压力上升等风险，或对整体利润空间形成阶段性挤压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、战略业务投入回报延期的风险。当前公司盈利主要依赖数字燃气板块，战略布局的其他业务板块尚处扩张期与培育期...短期内可能面临盈利周期延长、成本回收压力上升等风险，或对整体利润空间形成阶段性挤压。"
+    },
+    {
+      "risk_type": "other",
+      "description": "关键技术人员的离职将造成研发进度的拖延、用人成本增大，甚至商业机密的泄露，从而对公司的经营造成影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、关键技术人员流失的风险。...关键技术人员的离职将造成研发进度的拖延、用人成本增大，甚至商业机密的泄露，从而对公司的经营造成影响。"
+    }
+  ]
+}

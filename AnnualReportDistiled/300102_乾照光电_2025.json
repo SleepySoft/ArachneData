@@ -1,0 +1,413 @@
+{
+  "company_name_mentioned": "厦门乾照光电股份有限公司",
+  "produces": [
+    {
+      "name": "外延片及芯片",
+      "type": "device",
+      "revenue_proportion": "52.08%",
+      "quote": "报告期内，公司实现营业收入340,088.53万元...分产品外延片及芯片 1,771,069,793.08 52.08%"
+    },
+    {
+      "name": "其他（含砷化镓太阳能电池产品、感测及光通信芯片）",
+      "type": "device",
+      "revenue_proportion": "47.92%",
+      "quote": "分产品...其他 1,629,815,526.63 47.92%"
+    },
+    {
+      "name": "LED外延片及芯片",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事半导体光电产品的研发、生产和销售业务，主要产品为LED外延片及芯片、砷化镓太阳能电池产品、感测及光通信芯片。"
+    },
+    {
+      "name": "砷化镓太阳能电池产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司主要从事半导体光电产品的研发、生产和销售业务，主要产品为LED外延片及芯片、砷化镓太阳能电池产品、感测及光通信芯片。"
+    },
+    {
+      "name": "感测及光通信芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司主要从事半导体光电产品的研发、生产和销售业务，主要产品为LED外延片及芯片、砷化镓太阳能电池产品、感测及光通信芯片。"
+    },
+    {
+      "name": "RGB-Mini LED背光芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "背光业务在控股股东的积极牵引下，公司自研的高性能RGB-Mini LED背光芯片已在海信等终端电视客户中实现应用，并创新推出搭载第四种天青色自发光芯片的‘玲珑4芯’方案...驱动背光业务营收同比增长70%以上"
+    },
+    {
+      "name": "Micro LED芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "Micro MIP芯片获行业头部企业量产认证并开启小批量出货；应用于大屏及智能穿戴产品的Micro COG芯片取得技术突破"
+    },
+    {
+      "name": "VCSEL（垂直腔面发射激光器）芯片",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "VCSEL数据光通信：10G/25G产品完成送样，预计2026年形成正式订单并交付；50G/100G产品已进入流片阶段。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "材料（具体品类未披露）",
+      "target_product": "外延片及芯片",
+      "cost_proportion": "47.13% (占外延片及芯片营业成本比重)",
+      "quote": "外延片及芯片 材料 707,567,330.85 47.13%"
+    },
+    {
+      "name": "采购商品（具体品类未披露）",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购依据销售计划与生产计划，按年、季、月的实际需求，选择多家实力雄厚、交货及时、服务意识好的供应商进行招投标及议价"
+    }
+  ],
+  "applications": [
+    {
+      "name": "家用电视背光",
+      "source_product": "RGB-Mini LED背光芯片",
+      "quote": "在家用显示背光应用领域，公司凭借自身在LED背光领域的长期技术积累，结合海信作为全球电视龙头的终端需求牵引与渠道资源...助力海信视像率先推出COB RGB三色高端背光电视"
+    },
+    {
+      "name": "车载显示及背光",
+      "source_product": "车载专用LED",
+      "quote": "在车载照明及背光应用领域，海信集团已拥有成熟的车载显示技术与市场渠道...双方协同聚焦车载专用LED产品研发...实现传统LED业务的车载场景延伸"
+    },
+    {
+      "name": "智能穿戴",
+      "source_product": "Micro LED芯片",
+      "quote": "因其极低功耗和超长续航特性，在智能手表等穿戴设备的使用越来越普遍"
+    },
+    {
+      "name": "AR/VR",
+      "source_product": "Micro LED芯片",
+      "quote": "VR/AR、车载显示等多场景应用逐步拓展"
+    },
+    {
+      "name": "户外专业显示",
+      "source_product": "Micro LED芯片",
+      "quote": "其超高亮度特性，适配户外应用，在户外专业平板、医疗显示和军事等高端专业显示应用上，接受度越来越高"
+    },
+    {
+      "name": "植物照明",
+      "source_product": "LED",
+      "quote": "植物照明LED灯作为一种新型的植物生长辅助设备，已经在设施园艺、温室农业和室内种植等多领域得到广泛应用"
+    },
+    {
+      "name": "商业航天卫星（能源供给）",
+      "source_product": "砷化镓太阳能电池",
+      "quote": "公司重点布局的Ⅲ-Ⅴ族化合物核心品类已在航天光伏...等应用持续深化...亦可用于制造...航天级砷化镓太阳能电池等核心器件，适配卫星通信、姿态控制、能量供给等关键场景"
+    },
+    {
+      "name": "数据中心短距互联",
+      "source_product": "VCSEL芯片",
+      "quote": "AI算力爆发带动高速数据传输需求快速增长...VCSEL在数据中心短距互联场景需求凸显，带动100G以上高速VCSEL芯片快速放量"
+    },
+    {
+      "name": "自动驾驶激光雷达",
+      "source_product": "VCSEL芯片",
+      "quote": "广泛应用于数据中心、消费电子、AR/VR、自动驾驶激光雷达等场景"
+    },
+    {
+      "name": "消费电子（3D传感等）",
+      "source_product": "VCSEL芯片",
+      "quote": "消费电子需求趋稳"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李敏华",
+      "role": "董事长",
+      "quote": "公司负责人李敏华...声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "何剑",
+      "role": "职工董事、总裁",
+      "quote": "现任乾照光电职工董事、总裁"
+    },
+    {
+      "name": "刘文辉",
+      "role": "副总裁、董事会秘书",
+      "quote": "现任乾照光电副总裁兼董事会秘书"
+    },
+    {
+      "name": "纪洪杰",
+      "role": "财务总监",
+      "quote": "现任乾照光电财务总监"
+    },
+    {
+      "name": "刘兆",
+      "role": "副总裁",
+      "quote": "现任乾照光电副总裁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海信视像科技股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东海信集团实现全方位协同赋能...海信视像于2023年1月31日成为公司控股股东"
+    },
+    {
+      "name": "海信集团控股股份有限公司",
+      "relation_type": "investor",
+      "business_details": "间接控股股东",
+      "quote": "海信视像于2023年1月31日成为公司控股股东，其控股股东为海信集团控股股份有限公司。"
+    },
+    {
+      "name": "纳真科技公司",
+      "relation_type": "competitor",
+      "business_details": "关联方，在高速光模块领域与公司光通信业务形成互补",
+      "quote": "海信纳真科技作为全球光模块领军企业...与公司光通信业务形成精准互补，双方共同聚焦AI数据中心高速互联核心需求"
+    },
+    {
+      "name": "浙江康鹏半导体有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方，向其采购原材料",
+      "quote": "公司与关联方浙江康鹏半导体有限公司发生日常关联交易...采购原材料 2,513.42万元"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "外延片及芯片",
+      "segment_type": "product_line",
+      "revenue_amount": "1,771,069,793.08元",
+      "revenue_proportion": "52.08%",
+      "gross_margin": "15.24%",
+      "yoy_change": "-6.45%",
+      "quote": "分产品外延片及芯片 1,771,069,793.08 52.08% ... 营业收入比上年同 期增减 -6.45% ... 毛利率 15.24%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "1,629,815,526.63元",
+      "revenue_proportion": "47.92%",
+      "gross_margin": "7.19%",
+      "yoy_change": "201.94%",
+      "quote": "分产品...其他 1,629,815,526.63 47.92% ... 营业收入比上年同 期增减 201.94% ... 毛利率 7.19%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "3,319,388,014.44元",
+      "revenue_proportion": "97.60%",
+      "gross_margin": "10.92%",
+      "yoy_change": "39.42%",
+      "quote": "分地区境内 3,319,388,014.44 97.60% ... 营业收入比上年同 期增减 39.42% ... 毛利率 10.92%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "81,497,305.27元",
+      "revenue_proportion": "2.40%",
+      "gross_margin": "30.11%",
+      "yoy_change": "56.45%",
+      "quote": "分地区境外 81,497,305.27 2.40% ... 营业收入比上年同 期增减 56.45% ... 毛利率 30.11%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "3,400,885,319.71元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "39.78%",
+      "quote": "分销售模式直销 3,400,885,319.71 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "半导体光电（外延片及芯片）",
+      "metric_type": "sales_volume",
+      "value": "21,781,940片",
+      "period": "2025年",
+      "quote": "行业分类 半导体光电 销售量 片 21,781,940"
+    },
+    {
+      "product": "半导体光电（外延片及芯片）",
+      "metric_type": "production_volume",
+      "value": "22,455,315片",
+      "period": "2025年",
+      "quote": "行业分类 半导体光电 生产量 片 22,455,315"
+    },
+    {
+      "product": "半导体光电（外延片及芯片）",
+      "metric_type": "inventory_volume",
+      "value": "3,783,249片",
+      "period": "2025年末",
+      "quote": "行业分类 半导体光电 库存量 片 3,783,249"
+    },
+    {
+      "product": "外延片及芯片",
+      "metric_type": "capacity",
+      "value": "23,578,944片/年",
+      "period": "2025年",
+      "quote": "产品名称 外延片及芯片（片/年） 产能 23,578,944"
+    },
+    {
+      "product": "外延片及芯片",
+      "metric_type": "production_volume",
+      "value": "22,447,066片",
+      "period": "2025年",
+      "quote": "产品名称 外延片及芯片（片/年） 产量 22,447,066"
+    },
+    {
+      "product": "外延片及芯片",
+      "metric_type": "capacity_utilization",
+      "value": "95.2%",
+      "period": "2025年",
+      "quote": "产品名称 外延片及芯片（片/年） 产能利用率 95.2%"
+    },
+    {
+      "product": "外延片及芯片",
+      "metric_type": "capacity",
+      "value": "5,335,900片/年（在建产能）",
+      "period": null,
+      "quote": "产品名称 外延片及芯片（片/年） 在建产能 5,335,900"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "Mini/Micro、高光效LED芯片研发及制造项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "54,600万元（调整后）",
+      "designed_capacity": null,
+      "progress": "25.23%（投资进度）",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "项目名称 Mini/Micro、高光效LED芯片研发及制造项目 ... 调整后投资总额(1) 54,600 ... 投资进度 (3)＝ (2)/(1) 25.23% ... 项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "海信乾照江西半导体基地项目（一期）",
+      "project_type": "fundraising_project",
+      "location": "江西",
+      "investment_amount": "40,000万元（初始承诺）",
+      "designed_capacity": null,
+      "progress": "46.15%（投资进度）",
+      "expected_completion_time": "2026年12月31日",
+      "quote": "项目名称 海信乾照江西半导体基地项目（一期） ... 调整后投资总额(1) ... 截至期末投资进度 (3)＝ (2)/(1) 46.15% ... 项目达到预定可使用状态日期 2026年12月31日"
+    },
+    {
+      "name": "砷化镓芯片扩产项目",
+      "project_type": "capacity_expansion",
+      "location": "江西南昌、江苏扬州",
+      "investment_amount": "20,400万元",
+      "designed_capacity": null,
+      "progress": "4.48%（投资进度）",
+      "expected_completion_time": "2027年6月30日",
+      "quote": "项目名称 砷化镓芯片扩产项目 ... 项目实施地点为江西南昌、江苏扬州。 ... 投资进度 4.48% ... 项目达到预定可使用状态日期 2027年06月30日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "Ⅲ-Ⅴ族化合物半导体全链条自主技术体系",
+      "asset_type": "core_technology",
+      "related_product": "LED、太阳能电池、VCSEL等",
+      "quantitative_info": null,
+      "quote": "公司深耕Ⅲ-Ⅴ族化合物(GaAs、GaN、InP等）半导体领域，构建了从材料外延、芯片设计到工艺制造的全链条自主技术体系。"
+    },
+    {
+      "name": "三维控色显示技术",
+      "asset_type": "core_technology",
+      "related_product": "RGB-Mini LED背光芯片",
+      "quantitative_info": null,
+      "quote": "公司与控股股东协同自研全球领先的高性能RGB-Mini LED背光芯片，全球率先推出三维控色显示技术"
+    },
+    {
+      "name": "柔性砷化镓太阳能电池技术",
+      "asset_type": "core_technology",
+      "related_product": "砷化镓太阳能电池",
+      "quantitative_info": "光电转换效率达32%、辐照衰减率低于18%；消费类柔性电池光电转换效率超30%",
+      "quote": "攻克柔性低成本外延片的关键技术难关，光电转换效率达32%、辐照衰减率低于18%；成功开发具备柔性、轻质、可弯曲特性的消费类柔性电池产品...在户外环境下光电转换效率超30%。"
+    },
+    {
+      "name": "Micro LED商业化技术",
+      "asset_type": "core_technology",
+      "related_product": "Micro LED芯片",
+      "quantitative_info": "AR微显示芯片具备5µm以下制程能力",
+      "quote": "Micro MIP芯片获行业头部企业量产认证并开启小批量出货...AR微显示芯片技术持续迭代并具备5µm以下制程能力。"
+    },
+    {
+      "name": "高速VCSEL芯片技术",
+      "asset_type": "core_technology",
+      "related_product": "VCSEL芯片",
+      "quantitative_info": "10G/25G产品完成送样；50G/100G产品已进入流片阶段",
+      "quote": "VCSEL数据光通信：10G/25G产品完成送样，预计2026年形成正式订单并交付；50G/100G产品已进入流片阶段。"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内，公司及全资子公司共有70项发明专利授权",
+      "quote": "报告期内，公司及全资子公司共有70项发明专利授权、12项实用新型专利授权、1项外观设计专利授权"
+    },
+    {
+      "name": "实用新型专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "12项",
+      "quote": "报告期内，公司及全资子公司共有70项发明专利授权、12项实用新型专利授权、1项外观设计专利授权"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "66.57%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 2,263,585,738.32 前五名客户合计销售金额占年度销售总额比例 66.57%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "33.46%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "1 第一名 1,137,802,946.73 33.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "76.33%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 2,137,024,833.61 前五名供应商合计采购金额占年度采购总额比例 76.33%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "31.64%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "1 第一名 885,788,603.41 31.64%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争格局正面临新的变化...若公司未能及时在产品研发、技术革新、产业链拓展及品牌建设等方面实现重大突破，可能导致产品竞争力减弱，进而影响公司的盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争风险...若公司未能及时在产品研发、技术革新、产业链拓展及品牌建设等方面实现重大突破，可能导致产品竞争力减弱，进而影响公司的盈利能力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "下游应用领域持续拓展带动行业投资快速增长，易引发产能扩张过快、市场竞争加剧...将使得公司各类产品市场价格持续面临下行压力，可能导致公司毛利率下滑、盈利水平受到不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、产品价格下降风险...将使得公司各类产品市场价格持续面临下行压力，可能导致公司毛利率下滑、盈利水平受到不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "随着半导体光电技术不断进步和市场需求快速变化，产品更新换代速度加快...若公司未能紧跟行业发展趋势，及时实现技术和产品升级...可能导致公司竞争力下降，影响长期可持续发展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、产品技术更新风险...若公司未能紧跟行业发展趋势，及时实现技术和产品升级...可能导致公司竞争力下降，影响长期可持续发展。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司对专业技术人才与综合管理人才的结构性需求持续提升...若人才发展、激励及留存机制与公司发展战略不相适配，将可能存在核心人才流失、关键岗位支撑不足的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、人力资源风险...若人才发展、激励及留存机制与公司发展战略不相适配，将可能存在核心人才流失、关键岗位支撑不足的风险。"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "company_name_mentioned": "华北制药股份有限公司",
+  "produces": [
+    {
+      "name": "化学原料药",
+      "type": "material",
+      "revenue_proportion": "2025年营业收入22.89亿元，占主营业务收入的25.05%",
+      "quote": "化学原料药 2,289,195,484.46 ... 营业收入比上年增减(%) -13.19"
+    },
+    {
+      "name": "化学制剂药",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入40.98亿元，占主营业务收入的44.85%",
+      "quote": "化学制剂药 4,097,635,905.76 ... 营业收入比上年增减(%) -5.69"
+    },
+    {
+      "name": "生物制剂",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入16.13亿元，占主营业务收入的17.66%",
+      "quote": "生物制剂 1,612,885,463.24 ... 营业收入比上年增减(%) -0.09"
+    },
+    {
+      "name": "抗感染类药物",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入45.04亿元，占主营业务收入的49.31%",
+      "quote": "抗感染类 4,504,378,286.58 ... 营业收入比上年增减(%) -9.59"
+    },
+    {
+      "name": "肾病及免疫调节类药物",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入4.68亿元",
+      "quote": "肾病及免疫调节类 468,366,991.79 ... 营业收入比上年增减(%) 0.87"
+    },
+    {
+      "name": "心脑血管类药物",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入3.15亿元",
+      "quote": "心脑血管类 314,980,373.75 ... 营业收入比上年增减(%) 10.30"
+    },
+    {
+      "name": "维生素及健康消费品",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入2.33亿元",
+      "quote": "维生素及健康消费品 233,393,897.88 ... 营业收入比上年增减(%) -1.22"
+    },
+    {
+      "name": "防疫类药物/生物药",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入12.06亿元，毛利率85.76%",
+      "quote": "防疫类 1,206,414,043.46 ... 营业收入比上年增减(%) -8.34 ... 毛利率(%) 85.76"
+    },
+    {
+      "name": "农药、兽药",
+      "type": "device",
+      "revenue_proportion": "2025年营业收入6.29亿元",
+      "quote": "农药、兽药类 629,120,375.80 ... 营业收入比上年增减(%) -17.80"
+    },
+    {
+      "name": "重组乙型肝炎疫苗",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "乙肝疫苗继续稳居全国销量首位 ... 重组乙型肝炎疫苗市场销量连续多年居全国首位"
+    },
+    {
+      "name": "医药及其他物流贸易",
+      "type": "service",
+      "revenue_proportion": "2025年营业收入6.33亿元，占主营业务收入的6.93%",
+      "quote": "医药及其他物流贸易 633,249,662.13 ... 营业收入比上年增减(%) 39.08"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "医药化工产品",
+      "cost_proportion": "2025年占总成本的62.93%",
+      "quote": "医药化工 原材料 3,983,789,628.42 62.93"
+    },
+    {
+      "name": "燃料及动力",
+      "target_product": "医药化工产品",
+      "cost_proportion": "2025年占总成本的5.02%",
+      "quote": "医药化工 燃料及动力 317,785,580.50 5.02"
+    },
+    {
+      "name": "药用辅料和药包材",
+      "target_product": "药品生产",
+      "cost_proportion": null,
+      "quote": "药品上市许可持有人需加强供应商审核和入厂检验，签订质量协议。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "抗感染治疗",
+      "source_product": "抗感染类药物",
+      "quote": "青霉素适用于敏感细菌所致各种感染，如脓肿、菌血症、肺炎和心内膜炎等。"
+    },
+    {
+      "name": "肾病及免疫调节治疗",
+      "source_product": "肾病及免疫调节类药物",
+      "quote": "环孢素软胶囊 1.移植a.器官移植，预防异体移植物的排斥反应... d.类风湿关节炎e.肾病综合征"
+    },
+    {
+      "name": "心脑血管疾病治疗",
+      "source_product": "心脑血管类药物",
+      "quote": "苯磺酸左氨氯地平片 1.高血压... 2.心绞痛"
+    },
+    {
+      "name": "预防乙型肝炎",
+      "source_product": "重组乙型肝炎疫苗",
+      "quote": "本疫苗适用于乙型肝炎易感者，尤其是下列人员：（1）新生儿，特别是母亲为HBsAg、HBeAg阳性者。"
+    },
+    {
+      "name": "治疗肾性贫血及化疗相关贫血",
+      "source_product": "人促红素注射液",
+      "quote": "1.肾功能不全所致贫血，包括慢性肾功能衰竭进行透析及非透析治疗者。2.治疗非骨髓恶性肿瘤应用化疗引起的贫血。"
+    },
+    {
+      "name": "农业和兽医领域",
+      "source_product": "农药、兽药",
+      "quote": "公司及下属子公司分别收到...复方硝酸咪康唑洗剂... 《新兽药注册证书》，和丙硫菌唑...共六个产品的《农药登记证》。"
+    },
+    {
+      "name": "健康消费",
+      "source_product": "维生素及健康消费品",
+      "quote": "积极发展农兽药，培育发展健康消费品等业务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王立鑫",
+      "role": "董事长",
+      "quote": "公司董事长王立鑫、总经理张民、总会计师兼财务负责人肖志广及会计机构负责人李慧敏声明"
+    },
+    {
+      "name": "张民",
+      "role": "副董事长、总经理",
+      "quote": "2025年12月至今任公司党委副书记、副董事长、总经理。"
+    },
+    {
+      "name": "肖志广",
+      "role": "总会计师、财务负责人、董事会秘书",
+      "quote": "总会计师兼财务负责人肖志广"
+    },
+    {
+      "name": "常志山",
+      "role": "副总经理",
+      "quote": "2025年11月28日至今任公司副总经理。"
+    },
+    {
+      "name": "王亚楼",
+      "role": "董事",
+      "quote": "2022年10月至今任华药集团党委副书记（正职职级），公司党委副书记、董事"
+    },
+    {
+      "name": "曹尧",
+      "role": "董事、工会主席",
+      "quote": "2018年8月至今任公司董事、工会主席"
+    },
+    {
+      "name": "段志钢",
+      "role": "副总经理",
+      "quote": "2024年4月至今任公司副总经理。"
+    },
+    {
+      "name": "刘荣亮",
+      "role": "副总经理、市场营销部部长",
+      "quote": "2024年6月至2025年12月任公司副总经理；2025年12月至今任公司副总经理、市场营销部部长"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "冀中能源集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股11.02%",
+      "quote": "冀中能源集团/冀中集团 指 冀中能源集团有限责任公司"
+    },
+    {
+      "name": "华北制药集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "股东，持股19.90%",
+      "quote": "华药集团 指 华北制药集团有限责任公司"
+    },
+    {
+      "name": "冀中能源股份有限公司",
+      "relation_type": "investor",
+      "business_details": "第一大股东，持股24.08%",
+      "quote": "冀中能源股份/冀中股份 指 冀中能源股份有限公司"
+    },
+    {
+      "name": "冀中能源集团财务有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "联营公司（参股），提供金融服务",
+      "quote": "冀中能源集团财务有限责任公司"
+    },
+    {
+      "name": "中国医药集团有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名客户中按照同一控制口径合并计算列示的有中国医药集团有限公司"
+    },
+    {
+      "name": "九州通医药集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名客户中按照同一控制口径合并计算列示的有...九州通医药集团股份有限公司"
+    },
+    {
+      "name": "东北制药集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名客户中按照同一控制口径合并计算列示的有...东北制药集团股份有限公司"
+    },
+    {
+      "name": "河北益合联升企业管理有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名客户中按照同一控制口径合并计算列示的有...河北益合联升企业管理有限公司"
+    },
+    {
+      "name": "四川科伦药业股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "前五名供应商中按照同一控制口径合并计算列示的有四川科伦药业股份有限公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "前五名供应商中按照同一控制口径合并计算列示的有...国家电网有限公司"
+    },
+    {
+      "name": "齐鲁制药集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "前五名供应商中按照同一控制口径合并计算列示的有...齐鲁制药集团有限公司"
+    },
+    {
+      "name": "清华大学",
+      "relation_type": "joint_venture",
+      "business_details": "产学研合作",
+      "quote": "与清华大学联合申报的“高精度、大通量、高协同的模块化微反应器创制及产业创新性应用”项目获河北省科技进步一等奖。"
+    },
+    {
+      "name": "华北制药河北华民药业有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "华民公司 指 华北制药河北华民药业有限责任公司"
+    },
+    {
+      "name": "华北制药集团先泰药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "先泰公司 指 华北制药集团先泰药业有限公司"
+    },
+    {
+      "name": "华北制药金坦生物技术股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "金坦公司 指 华北制药金坦生物技术股份有限公司"
+    },
+    {
+      "name": "华北制药华胜有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "华胜公司 指 华北制药华胜有限公司"
+    },
+    {
+      "name": "华北制药集团爱诺有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "爱诺公司 指 华北制药集团爱诺有限公司"
+    },
+    {
+      "name": "华北制药集团动物保健品有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "动保公司 指 华北制药集团动物保健品有限责任公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化学原料药",
+      "segment_type": "product_line",
+      "revenue_amount": "2,289,195,484.46",
+      "revenue_proportion": null,
+      "gross_margin": "9.40",
+      "yoy_change": "-13.19",
+      "quote": "化学原料药 2,289,195,484.46 2,074,022,423.63 9.40 -13.19"
+    },
+    {
+      "name": "化学制剂药",
+      "segment_type": "product_line",
+      "revenue_amount": "4,097,635,905.76",
+      "revenue_proportion": null,
+      "gross_margin": "29.79",
+      "yoy_change": "-5.69",
+      "quote": "化学制剂药 4,097,635,905.76 2,876,840,094.04 29.79 -5.69"
+    },
+    {
+      "name": "生物制剂",
+      "segment_type": "product_line",
+      "revenue_amount": "1,612,885,463.24",
+      "revenue_proportion": null,
+      "gross_margin": "81.39",
+      "yoy_change": "-0.09",
+      "quote": "生物制剂 1,612,885,463.24 300,161,095.51 81.39 -0.09"
+    },
+    {
+      "name": "医药及其他物流贸易",
+      "segment_type": "business_unit",
+      "revenue_amount": "633,249,662.13",
+      "revenue_proportion": null,
+      "gross_margin": "2.40",
+      "yoy_change": "39.08",
+      "quote": "医药及其他物流贸易 633,249,662.13 618,030,964.61 2.40 39.08"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "7,184,936,750.71",
+      "revenue_proportion": null,
+      "gross_margin": "36.73",
+      "yoy_change": "-9.68",
+      "quote": "国内 7,184,936,750.71 4,546,088,096.77 36.73 -9.68"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "1,952,721,618.31",
+      "revenue_proportion": null,
+      "gross_margin": "8.63",
+      "yoy_change": "5.94",
+      "quote": "国外 1,952,721,618.31 1,784,282,619.10 8.63 5.94"
+    },
+    {
+      "name": "自营模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "8,504,408,706.89",
+      "revenue_proportion": null,
+      "gross_margin": "32.83",
+      "yoy_change": "-8.97",
+      "quote": "自营模式 8,504,408,706.89 5,712,339,751.26 32.83 -8.97"
+    },
+    {
+      "name": "物流模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "633,249,662.13",
+      "revenue_proportion": null,
+      "gross_margin": "2.40",
+      "yoy_change": "39.08",
+      "quote": "物流模式 633,249,662.13 618,030,964.61 2.40 39.08"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "药用中间体青霉素钾",
+      "metric_type": "production_volume",
+      "value": "3,676,936 BOU",
+      "period": "2025年",
+      "quote": "药用中间体青霉素钾 ... 生产量 3,676,936"
+    },
+    {
+      "product": "药用中间体青霉素钾",
+      "metric_type": "sales_volume",
+      "value": "3,428,176 BOU",
+      "period": "2025年",
+      "quote": "药用中间体青霉素钾 ... 销售量 3,428,176"
+    },
+    {
+      "product": "药用中间体青霉素钾",
+      "metric_type": "inventory_volume",
+      "value": "281,760 BOU",
+      "period": "2025年末",
+      "quote": "药用中间体青霉素钾 ... 库存量 281,760"
+    },
+    {
+      "product": "阿莫西林",
+      "metric_type": "production_volume",
+      "value": "4,890,683 千克",
+      "period": "2025年",
+      "quote": "阿莫西林 ... 生产量 4,890,683"
+    },
+    {
+      "product": "阿莫西林",
+      "metric_type": "sales_volume",
+      "value": "4,884,580 千克",
+      "period": "2025年",
+      "quote": "阿莫西林 ... 销售量 4,884,580"
+    },
+    {
+      "product": "阿莫西林胶囊",
+      "metric_type": "production_volume",
+      "value": "115,182 万粒",
+      "period": "2025年",
+      "quote": "阿莫西林胶囊 ... 生产量 115,182"
+    },
+    {
+      "product": "阿莫西林胶囊",
+      "metric_type": "sales_volume",
+      "value": "126,256 万粒",
+      "period": "2025年",
+      "quote": "阿莫西林胶囊 ... 销售量 126,256"
+    },
+    {
+      "product": "注射用哌拉西林钠他唑巴坦钠",
+      "metric_type": "production_volume",
+      "value": "48,762 千支",
+      "period": "2025年",
+      "quote": "注射用哌拉西林钠他唑巴坦钠 ... 生产量 48,762"
+    },
+    {
+      "product": "注射用哌拉西林钠他唑巴坦钠",
+      "metric_type": "sales_volume",
+      "value": "46,557 千支",
+      "period": "2025年",
+      "quote": "注射用哌拉西林钠他唑巴坦钠 ... 销售量 46,557"
+    },
+    {
+      "product": "重组乙型肝炎疫苗",
+      "metric_type": "production_volume",
+      "value": "2,853 万支",
+      "period": "2025年",
+      "quote": "重组乙型肝炎疫苗 ... 生产量 2,853"
+    },
+    {
+      "product": "重组乙型肝炎疫苗",
+      "metric_type": "sales_volume",
+      "value": "2,413 万支",
+      "period": "2025年",
+      "quote": "重组乙型肝炎疫苗 ... 销售量 2,413"
+    },
+    {
+      "product": "人促红素注射液",
+      "metric_type": "production_volume",
+      "value": "3,144 万支",
+      "period": "2025年",
+      "quote": "人促红素注射液 ... 生产量 3,144"
+    },
+    {
+      "product": "人促红素注射液",
+      "metric_type": "sales_volume",
+      "value": "3,115 万支",
+      "period": "2025年",
+      "quote": "人促红素注射液 ... 销售量 3,115"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "特色合成药物基地项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "100%",
+      "expected_completion_time": null,
+      "quote": "特色合成药物基地项目 ... 97,950,786.44 59,878,989.85 157,829,776.29 100%"
+    },
+    {
+      "name": "技措工程",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "技措工程 255,490,519.41 231,613,707.64 266,635,851.75"
+    },
+    {
+      "name": "环措工程",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "环措工程 8,384,136.45 17,481,357.53 17,621,756.24"
+    },
+    {
+      "name": "发行2025年度第一期科技创新债券",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "5亿元",
+      "designed_capacity": null,
+      "progress": "已发行",
+      "expected_completion_time": null,
+      "quote": "2025年10月22日，公司2025年度第一期科技创新债券发行完毕，实际发行总额为5亿元"
+    },
+    {
+      "name": "发行2025年度第一期短期融资券",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "5亿元",
+      "designed_capacity": null,
+      "progress": "已发行并完成兑付",
+      "expected_completion_time": null,
+      "quote": "2025年5月16日，公司2025年度第一期短期融资券发行完毕，实际发行总额为5亿元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "微生物药物国家工程研究中心",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是首批国家认定企业技术中心、国家“863”计划成果产业化基地、中国青年科技创新行动示范基地、微生物药物国家工程研究中心、抗生素酶催化与结晶技术国家地方联合工程实验室。"
+    },
+    {
+      "name": "抗生素酶催化与结晶技术国家地方联合工程实验室",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "微生物药物国家工程研究中心、抗生素酶催化与结晶技术国家地方联合工程实验室。"
+    },
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是首批国家认定企业技术中心"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年申请专利45件，其中发明专利41件；授权专利22件，其中发明专利15件。",
+      "quote": "全年申请专利45件，其中发明专利41件；授权专利22件，其中发明专利15件。"
+    },
+    {
+      "name": "仿制药一致性评价",
+      "asset_type": "certification",
+      "related_product": "叶酸片、头孢呋辛钠等9个品种",
+      "quantitative_info": "截至2025年年底，公司共49个品种81个品规通过或视同通过一致性评价",
+      "quote": "叶酸片、头孢呋辛钠等9个品种通过或视同通过仿制药一致性评价。 ... 截至2025年年底，公司共49个品种81个品规通过或视同通过一致性评价"
+    },
+    {
+      "name": "重组乙型肝炎疫苗技术",
+      "asset_type": "core_technology",
+      "related_product": "重组乙型肝炎疫苗",
+      "quantitative_info": null,
+      "quote": "公司是我国较早进入生物制药领域的制药企业之一，重组乙型肝炎疫苗市场销量连续多年居全国首位"
+    },
+    {
+      "name": "基因重组抗狂犬抗体技术",
+      "asset_type": "core_technology",
+      "related_product": "基因重组抗狂犬病毒抗体",
+      "quantitative_info": null,
+      "quote": "以基因重组抗狂犬抗体为代表的生物药技术水平及进度处于行业领先地位。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.79%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额127,428.45万元，占年度销售总额13.79%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "28.42%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额139,811.18万元，占年度采购总额28.42%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "较低",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名客户销售额127,428.45万元，占年度销售总额13.79%"
+    },
+    {
+      "metric_type": "supplier_concentration",
+      "value": "中等",
+      "related_entity": null,
+      "period": null,
+      "quote": "前五名供应商采购额139,811.18万元，占年度采购总额28.42%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "医药行业监管日趋严格，新产业政策不断出台，行业发展变化快速且复杂。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "一是医药行业监管日趋严格，新产业政策不断出台，行业发展变化快速且复杂。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "医药经营环境错综复杂，医药行业增速放缓，加上行业监管持续强化，医改政策不断深化，企业在研发、环保等方面的成本和风险上升，生产经营面临压力和挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是医药经营环境错综复杂，医药行业增速放缓，加上行业监管持续强化，医改政策不断深化，企业在研发、环保等方面的成本和风险上升，生产经营面临压力和挑战。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "药品注册审评审批流程优化、一致性评价及国家带量采购等政策带来医药企业经营模式的改变，整个医药行业机遇与挑战并存。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "三是药品注册审评审批流程优化、一致性评价及国家带量采购等政策带来医药企业经营模式的改变，整个医药行业机遇与挑战并存"
+    },
+    {
+      "risk_type": "other",
+      "description": "国家医药行业改革、多项产业政策出台实施导致医药产品价格持续走低，与此同时，受国内环保标准不断提高、药品质量监管趋严等因素影响，药品生产原材料、能源、动力、人工成本费以及环保治理投入不断加大，进一步压缩了企业的利润空间，使得企业运营风险逐步放大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "四是国家医药行业改革、多项产业政策出台实施导致医药产品价格持续走低...进一步压缩了企业的利润空间，使得企业运营风险逐步放大。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "医药行业的药品研发存在高投入、高风险、周期长等特点，研发过程中存在诸多不可预测因素；药品的市场推广也会因为行业、市场环境以及竞争等因素的不确定性受到影响使得药品研发投入与收益存在不匹配风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "五是医药行业的药品研发存在高投入、高风险、周期长等特点...使得药品研发投入与收益存在不匹配风险。"
+    }
+  ]
+}

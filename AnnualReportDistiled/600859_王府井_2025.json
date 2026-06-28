@@ -1,0 +1,457 @@
+{
+  "company_name_mentioned": "王府井集团股份有限公司",
+  "produces": [
+    {
+      "name": "综合零售服务",
+      "type": "service",
+      "revenue_proportion": "百货业态收入占比34.32%，购物中心业态收入占比22.02%，奥特莱斯业态收入占比21.91%，专业店业态收入占比12.81%，免税业态收入占比2.18%。",
+      "quote": "公司营业收入主要来自于旗下各门店的商品销售收入以及租金收入。"
+    },
+    {
+      "name": "商品零售",
+      "type": "service",
+      "revenue_proportion": "商品零售收入占营业收入的84.83%",
+      "quote": "商品零售 8,610,455,031.90 84.83"
+    },
+    {
+      "name": "租赁服务",
+      "type": "service",
+      "revenue_proportion": "租赁收入占营业收入的15.17%",
+      "quote": "租赁 1,539,451,121.34 15.17"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品采购",
+      "target_product": "零售商品",
+      "cost_proportion": "百货、购物中心、奥特莱斯、专业店、免税业态均存在商品采购成本。",
+      "quote": "商品采购成本 1,928,139,224.28 28.05 百货"
+    },
+    {
+      "name": "物业成本",
+      "target_product": "门店运营",
+      "cost_proportion": null,
+      "quote": "物业成本 629,921,152.99 9.16 百货"
+    }
+  ],
+  "applications": [
+    {
+      "name": "服装服饰、化妆品、运动鞋帽、珠宝饰品、家居家电、儿童用品",
+      "source_product": "百货、购物中心、奥特莱斯零售",
+      "quote": "经营商品品类主要包括服装服饰、化妆品、运动鞋帽、珠宝饰品、家居家电、儿童用品等。"
+    },
+    {
+      "name": "香化、烟酒、食品、精品",
+      "source_product": "免税品经营",
+      "quote": "商品主要包括香化、烟酒、食品、精品等品类。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "白凡",
+      "role": "董事长",
+      "quote": "公司负责人董事长白凡、副董事长总裁尚喜平、主管会计工作负责人吴珺及会计机构负责人（会计主管人员）王甜甜声明"
+    },
+    {
+      "name": "尚喜平",
+      "role": "副董事长、总裁",
+      "quote": "副董事长总裁尚喜平"
+    },
+    {
+      "name": "吴珺",
+      "role": "董事、副总裁、财务总监",
+      "quote": "主管会计工作负责人吴珺"
+    },
+    {
+      "name": "连慧青",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 连慧青"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京首都旅游集团有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "首旅集团 指 北京首都旅游集团有限责任公司"
+    },
+    {
+      "name": "北京环汇置业有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "参股公司（持股15%）",
+      "quote": "北京环汇置业有限公司（以下简称“环汇置业”）为公司持股15%的参股公司"
+    },
+    {
+      "name": "佛山市王府商业置业有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "合营公司",
+      "quote": "公司之联营公司佛山市雄盛王府商城投资有限公司，合营公司佛山市王府商业置业有限公司（简称“佛山王府置业”）"
+    },
+    {
+      "name": "北京首都旅游集团财务有限公司",
+      "relation_type": "supplier",
+      "business_details": "受同一母公司控制的财务公司，提供存款、贷款等金融服务",
+      "quote": "北京首都旅游集团财务有限公司"
+    },
+    {
+      "name": "北京紫金世纪置业有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "租赁物业用于经营王府井喜悦购物中心",
+      "quote": "公司全资子公司北京王府井金街购物中心有限责任公司与紫金置业签署租赁合同"
+    },
+    {
+      "name": "北京燕莎中心有限公司",
+      "relation_type": "supplier",
+      "business_details": "租赁物业用于经营燕莎友谊商城",
+      "quote": "新燕莎控股及燕莎商城与燕莎中心签署租赁合同及续租协议"
+    },
+    {
+      "name": "武商集团股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "共同出资设立武汉王府井武商免税品经营管理有限责任公司",
+      "quote": "公司与武商集团股份有限公司签署投资合作协议，共同出资设立武汉王府井武商免税品经营管理有限责任公司"
+    },
+    {
+      "name": "耐克商业（中国）有限公司",
+      "relation_type": "supplier",
+      "business_details": "品牌供应商，公司为法雅商贸及部分奥莱门店向其提供付款担保",
+      "quote": "公司分别向耐克公司、阿迪公司出具了保证函"
+    },
+    {
+      "name": "阿迪达斯",
+      "relation_type": "supplier",
+      "business_details": "品牌供应商，公司为法雅商贸向其提供付款担保",
+      "quote": "公司分别向耐克公司、阿迪公司出具了保证函"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "百货",
+      "segment_type": "product_line",
+      "revenue_amount": "37.18亿元",
+      "revenue_proportion": "34.32%",
+      "gross_margin": "31.20%",
+      "yoy_change": "-13.49%",
+      "quote": "百货 3,717,853,971.28 31.20 -13.49"
+    },
+    {
+      "name": "购物中心",
+      "segment_type": "product_line",
+      "revenue_amount": "23.86亿元",
+      "revenue_proportion": "22.02%",
+      "gross_margin": "35.77%",
+      "yoy_change": "-19.67%",
+      "quote": "购物中心 2,385,863,577.11 35.77 -19.67"
+    },
+    {
+      "name": "奥特莱斯",
+      "segment_type": "product_line",
+      "revenue_amount": "23.74亿元",
+      "revenue_proportion": "21.91%",
+      "gross_margin": "64.47%",
+      "yoy_change": "4.47%",
+      "quote": "奥特莱斯 2,373,634,570.07 64.47 4.47"
+    },
+    {
+      "name": "专业店",
+      "segment_type": "product_line",
+      "revenue_amount": "13.88亿元",
+      "revenue_proportion": "12.81%",
+      "gross_margin": "10.23%",
+      "yoy_change": "-4.51%",
+      "quote": "专业店 1,388,142,329.81 10.23 -4.51"
+    },
+    {
+      "name": "免税",
+      "segment_type": "product_line",
+      "revenue_amount": "2.36亿元",
+      "revenue_proportion": "2.18%",
+      "gross_margin": "19.38%",
+      "yoy_change": "-5.26%",
+      "quote": "免税 236,384,205.72 19.38 -5.26"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "51.20亿元",
+      "revenue_proportion": null,
+      "gross_margin": "37.97%",
+      "yoy_change": "-17.07%",
+      "quote": "华北地区 5,120,018,225.08 3,175,749,516.33 37.97 -17.07"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "20.48亿元",
+      "revenue_proportion": null,
+      "gross_margin": "37.45%",
+      "yoy_change": "-10.97%",
+      "quote": "西南地区 2,047,658,816.92 1,280,821,849.63 37.45 -10.97"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "11.48亿元",
+      "revenue_proportion": null,
+      "gross_margin": "43.50%",
+      "yoy_change": "-6.98%",
+      "quote": "西北地区 1,147,571,702.49 648,337,838.81 43.50 -6.98"
+    },
+    {
+      "name": "华中地区",
+      "segment_type": "region",
+      "revenue_amount": "7.50亿元",
+      "revenue_proportion": null,
+      "gross_margin": "41.28%",
+      "yoy_change": "-11.32%",
+      "quote": "华中地区 750,037,056.63 440,413,371.06 41.28 -11.32"
+    },
+    {
+      "name": "华南地区",
+      "segment_type": "region",
+      "revenue_amount": "4.20亿元",
+      "revenue_proportion": null,
+      "gross_margin": "-12.46%",
+      "yoy_change": "6.58%",
+      "quote": "华南地区 419,956,750.49 472,282,340.32 -12.46 6.58"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "5.95亿元",
+      "revenue_proportion": null,
+      "gross_margin": "8.10%",
+      "yoy_change": "-3.76%",
+      "quote": "华东地区 594,927,955.99 546,722,379.67 8.10 -3.76"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "5.46亿元",
+      "revenue_proportion": null,
+      "gross_margin": "73.42%",
+      "yoy_change": "8.27%",
+      "quote": "东北地区 546,335,889.14 145,196,515.32 73.42 8.27"
+    },
+    {
+      "name": "商品零售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "86.10亿元",
+      "revenue_proportion": "84.83%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "商品零售 8,610,455,031.90 84.83"
+    },
+    {
+      "name": "租赁",
+      "segment_type": "sales_channel",
+      "revenue_amount": "15.39亿元",
+      "revenue_proportion": "15.17%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "租赁 1,539,451,121.34 15.17"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "大型综合有税零售门店",
+      "metric_type": "capacity",
+      "value": "78家",
+      "period": "截至报告期末",
+      "quote": "截至本报告期末，公司在全国七大经济区域37个城市共运营78家大型综合有税零售门店"
+    },
+    {
+      "product": "总建筑面积",
+      "metric_type": "capacity",
+      "value": "567.2万平方米",
+      "period": "截至报告期末",
+      "quote": "近570万㎡建筑面积及2,900余万会员"
+    },
+    {
+      "product": "专业店",
+      "metric_type": "capacity",
+      "value": "333家",
+      "period": "截至报告期末",
+      "quote": "目前共有各类专业店333家"
+    },
+    {
+      "product": "免税店铺",
+      "metric_type": "capacity",
+      "value": "5家",
+      "period": "截至报告期末",
+      "quote": "公司共拥有离岛免税店1家，口岸免税店1家，市内免税店2家。"
+    },
+    {
+      "product": "线上销售",
+      "metric_type": "sales_volume",
+      "value": "18.6亿元",
+      "period": "报告期内",
+      "quote": "全年实现线上销售18.6亿元。"
+    },
+    {
+      "product": "奥莱门店品牌调整",
+      "metric_type": "other",
+      "value": "1,300个",
+      "period": "报告期内",
+      "quote": "全年累计完成1,300个品牌调整"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "西单商场西单店优化改造项目",
+      "project_type": "construction_project",
+      "location": "北京市",
+      "investment_amount": "已投入6,950.82万元",
+      "designed_capacity": null,
+      "progress": "受多重复杂因素影响，进度较预计延迟",
+      "expected_completion_time": "2028年12月",
+      "quote": "西单商场西单店优化改造项目达到预计可使用状态的日期调整至2028年12月"
+    },
+    {
+      "name": "天津新燕莎奥特莱斯店优化改造项目",
+      "project_type": "capacity_expansion",
+      "location": "天津市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": "2027年12月",
+      "quote": "将天津新燕莎奥特莱斯店优化改造项目达到预计可使用状态的日期调整至2027年12月"
+    },
+    {
+      "name": "北京法雅商贸新开店铺建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "计划投入1.51亿元",
+      "designed_capacity": null,
+      "progress": "受宏观环境影响，项目终止",
+      "expected_completion_time": null,
+      "quote": "拟终止北京法雅商贸新开店铺建设项目"
+    },
+    {
+      "name": "拉萨王府井购物中心",
+      "project_type": "construction_project",
+      "location": "西藏拉萨市",
+      "investment_amount": null,
+      "designed_capacity": "总建筑面积约22万平方米",
+      "progress": "2025年5月1日对外营业",
+      "expected_completion_time": null,
+      "quote": "拉萨王府井购物中心...项目总建筑面积约22万平方米"
+    },
+    {
+      "name": "临汾王府井尚城UPTOWN购物中心",
+      "project_type": "construction_project",
+      "location": "山西省临汾市",
+      "investment_amount": null,
+      "designed_capacity": "总建筑面积10.4万平方米",
+      "progress": "2025年4月30日对外营业",
+      "expected_completion_time": null,
+      "quote": "临汾王府井尚城UPTOWN...项目总建筑面积10.4万平方米"
+    },
+    {
+      "name": "湾里王府井WellTown",
+      "project_type": "capacity_expansion",
+      "location": "北京市通州区",
+      "investment_amount": null,
+      "designed_capacity": "总建筑面积约18.7万平方米",
+      "progress": "2025年12月26日对外营业",
+      "expected_completion_time": null,
+      "quote": "湾里王府井WellTown...项目总建筑面积约18.7万平方米"
+    },
+    {
+      "name": "桐乡王府井商业综合体项目",
+      "project_type": "construction_project",
+      "location": "浙江省桐乡市",
+      "investment_amount": null,
+      "designed_capacity": "总商业建筑面积14万平方米",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "租赁其位于桐乡市梧桐街道庆丰北路900号的桐乡王府井商业综合体项目"
+    },
+    {
+      "name": "北京首都国际机场免税项目02标段（T2航站楼）",
+      "project_type": "capacity_expansion",
+      "location": "北京市",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "2025年12月成功中标并签署合同",
+      "expected_completion_time": "2026年初对外营业",
+      "quote": "2025年12月，公司成功中标北京首都国际机场免税项目02标段（T2航站楼）并正式签署项目合同，项目已于2026年初对外营业。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "数字化建设与智慧门店",
+      "asset_type": "technical_platform",
+      "related_product": "全渠道经营体系",
+      "quantitative_info": "奥莱小程序全年有效订单支付额大幅增长，线上商城SKU超十万件，累计会员突破200万人；各门店深耕抖音本地生活与直播矩阵，全年累计直播近2万场，抖音电子券核销额同比增长近四成。",
+      "quote": "公司以数字化为引擎，驱动业务流程优化与线上线下一体化进程。前端运营层面，公司一体化商城持续迭代...后端系统层面，持续推进百购新零售系统建设与门店覆盖...智慧物业平台覆盖超70家门店"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "352,507万元",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额352,507万元，占年度采购总额13.83%"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "占年度采购总额13.83%",
+      "related_entity": "前五名供应商",
+      "period": "报告期内",
+      "quote": "前五名供应商采购额...占年度采购总额13.83%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "购物中心、奥特莱斯等业态持续扩张，市场竞争强度和层次不断升级。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "购物中心、奥特莱斯等业态持续扩张，市场竞争强度和层次不断升级。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "零售行业正经历深刻变革，消费结构加速从实物消费向服务消费迁移，传统业态面临深度调整。",
+      "related_entity": null,
+      "related_product": "百货业态",
+      "quote": "百货业态普遍面临客流承压、商品结构老化等多重困境，行业整体处于深度调整期"
+    },
+    {
+      "risk_type": "other",
+      "description": "业态迭代及新业务培育风险：新业态培育期延长，新旧动能转换带来短期成本压力。",
+      "related_entity": null,
+      "related_product": "新业态",
+      "quote": "新门店培育期延长：公司近年来积极推动业态结构调整...当前的市场环境下新店培育期显著延长，短期成本投入尚未转化为效益产出"
+    },
+    {
+      "risk_type": "other",
+      "description": "管理运营风险：随着多元化、多模式、多区域发展，运营管理中逐步呈现出股权层级复杂、管理效率降低等问题。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着公司多元化、多模式、多区域发展，运营管理中逐步呈现出股权层级复杂、管理效率降低、体制机制活力不足、人才队伍储备不足等多方面问题"
+    },
+    {
+      "risk_type": "other",
+      "description": "已开业门店续约风险：部分租赁门店租约到期或临近到期，面临无法续约风险；新租赁准则下新签或续约门店前期成本较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着公司的不断发展，原有租赁门店租约已有部分到期或临近到期，公司面临租约到期门店无法续约的风险。同时，鉴于新租赁准则对于租赁相关费用确认方式的改变，新签约租赁门店及续约门店前期租赁成本较高"
+    },
+    {
+      "risk_type": "other",
+      "description": "工程及项目管理风险：门店调改及设备设施老化、外立面陈旧等问题，需进行装修改造。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "部分门店物业因经营年限较长，存在设备设施老化、外立面陈旧等问题，已陆续进入装修改造周期，公司面临一定的工程及项目管理风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "公司通过并购重组形成一定规模商誉，若被并购标的经营业绩未达预期，可能导致商誉减值风险。",
+      "related_entity": "春天贵阳资产组",
+      "related_product": null,
+      "quote": "公司近年来通过并购重组等方式推进多品牌、多业态、多区域发展，形成了一定规模的商誉。若宏观经济波动、行业竞争加剧或部分被并购标的经营业绩未达预期，可能导致商誉面临减值风险"
+    }
+  ]
+}

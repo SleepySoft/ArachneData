@@ -1,0 +1,331 @@
+{
+  "company_name_mentioned": "中信尼雅葡萄酒股份有限公司",
+  "produces": [
+    {
+      "name": "葡萄酒（成品酒）",
+      "type": "device",
+      "revenue_proportion": "本期高档酒营业收入50,607,158.27元，中低档酒营业收入62,414,780.74元",
+      "quote": "公司是一家集葡萄种植、生产、销售为一体的葡萄酒企业。"
+    },
+    {
+      "name": "原酒",
+      "type": "material",
+      "revenue_proportion": "本期原酒营业收入3,623,974.81元",
+      "quote": "原酒 3,623,974.81"
+    }
+  ],
+  "procures": [
+    {
+      "name": "酿酒原材料（葡萄）",
+      "target_product": "葡萄酒",
+      "cost_proportion": "占当期总采购额的比重40.57%",
+      "quote": "酿酒原材料 19,058,842.97 ... 占当期总采购额的比重（%） 40.57"
+    },
+    {
+      "name": "包装材料",
+      "target_product": "葡萄酒",
+      "cost_proportion": "占当期总采购额的比重44.43%",
+      "quote": "包装材料 20,874,552.03 ... 占当期总采购额的比重（%） 44.43"
+    },
+    {
+      "name": "能源",
+      "target_product": null,
+      "cost_proportion": "占当期总采购额的比重10.52%",
+      "quote": "能源 4,940,743.49 ... 占当期总采购额的比重（%） 10.52"
+    }
+  ],
+  "applications": [
+    {
+      "name": "葡萄酒消费",
+      "source_product": "葡萄酒",
+      "quote": "公司坚持“倡导产地生态消费，引领品质生活”的企业理念，依托新疆天山北麓得天独厚的原生态葡萄种植资源，成为小产区生态葡园建设的倡导者和践行者。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王毅",
+      "role": "董事长",
+      "quote": "公司负责人王毅、主管会计工作负责人柯超及会计机构负责人（会计主管人员）裴颉声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "柯超",
+      "role": "副董事长、总经理、主管会计工作负责人",
+      "quote": "主管会计工作负责人柯超"
+    },
+    {
+      "name": "武少博",
+      "role": "副总经理、董事会秘书",
+      "quote": "董事会秘书 武少博"
+    },
+    {
+      "name": "陈新军",
+      "role": "副总经理",
+      "quote": "陈新军 副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "新疆尼雅葡萄酒有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "葡萄的种植、葡萄酒的生产和销售",
+      "quote": "酒业公司 指 新疆尼雅葡萄酒有限公司，系公司控股子公司"
+    },
+    {
+      "name": "新疆尼雅生态农业科技开发有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "葡萄的种植、土地开发及农作物种植和林木的种植，农副产品的购销",
+      "quote": "农业公司 指 新疆尼雅生态农业科技开发有限公司，系公司全资子公司"
+    },
+    {
+      "name": "中信国安实业集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持股比例44.93%",
+      "quote": "中信国安 指 中信国安实业集团有限公司"
+    },
+    {
+      "name": "中兴华会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "为本公司出具了标准无保留意见的审计报告",
+      "quote": "中兴华会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "酒业类",
+      "segment_type": "product_line",
+      "revenue_amount": "116,645,913.82元",
+      "revenue_proportion": null,
+      "gross_margin": "51.07%",
+      "yoy_change": null,
+      "quote": "酒业类 116,645,913.82 57,074,237.09 51.07"
+    },
+    {
+      "name": "高档酒",
+      "segment_type": "product_line",
+      "revenue_amount": "50,607,158.27元",
+      "revenue_proportion": null,
+      "gross_margin": "61.85%",
+      "yoy_change": null,
+      "quote": "高档酒 50,607,158.27 19,305,833.51 61.85"
+    },
+    {
+      "name": "中低档酒",
+      "segment_type": "product_line",
+      "revenue_amount": "62,414,780.74元",
+      "revenue_proportion": null,
+      "gross_margin": "43.14%",
+      "yoy_change": null,
+      "quote": "中低档酒 62,414,780.74 35,486,769.78 43.14"
+    },
+    {
+      "name": "原酒",
+      "segment_type": "product_line",
+      "revenue_amount": "3,623,974.81元",
+      "revenue_proportion": null,
+      "gross_margin": "37.04%",
+      "yoy_change": null,
+      "quote": "原酒 3,623,974.81 2,281,633.80 37.04"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "40,495,047.21元",
+      "revenue_proportion": null,
+      "gross_margin": "47.20%",
+      "yoy_change": null,
+      "quote": "华北地区 40,495,047.21 21,381,984.02 47.20"
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "76,802,481.35元",
+      "revenue_proportion": null,
+      "gross_margin": "53.27%",
+      "yoy_change": null,
+      "quote": "其他地区 76,802,481.35 35,889,570.94 53.27"
+    },
+    {
+      "name": "直销（含团购）",
+      "segment_type": "sales_channel",
+      "revenue_amount": "52,820,481.26元",
+      "revenue_proportion": null,
+      "gross_margin": "51.02%",
+      "yoy_change": null,
+      "quote": "直销（含团购） 52,820,481.26 25,869,183.06 51.02"
+    },
+    {
+      "name": "线上销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "19,772,203.39元",
+      "revenue_proportion": null,
+      "gross_margin": "28.03%",
+      "yoy_change": null,
+      "quote": "线上销售 19,772,203.39 14,230,796.27 28.03"
+    },
+    {
+      "name": "批发代理—经销商",
+      "segment_type": "sales_channel",
+      "revenue_amount": "44,704,843.91元",
+      "revenue_proportion": null,
+      "gross_margin": "61.59%",
+      "yoy_change": null,
+      "quote": "批发代理—经销商 44,704,843.91 17,171,575.63 61.59"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "玛纳斯厂",
+      "metric_type": "capacity",
+      "value": "设计产能 40,000",
+      "period": null,
+      "quote": "玛纳斯厂 40,000 30,000"
+    },
+    {
+      "product": "西域厂",
+      "metric_type": "capacity",
+      "value": "设计产能 10,000",
+      "period": null,
+      "quote": "西域厂 10,000 8,000"
+    },
+    {
+      "product": "伊犁厂",
+      "metric_type": "capacity",
+      "value": "设计产能 5,000",
+      "period": null,
+      "quote": "伊犁厂 5,000 4,000"
+    },
+    {
+      "product": "成品酒",
+      "metric_type": "production_volume",
+      "value": "2,531.14千升",
+      "period": "2025年",
+      "quote": "成品酒 千升 2,531.14"
+    },
+    {
+      "product": "成品酒",
+      "metric_type": "sales_volume",
+      "value": "2,303.86千升",
+      "period": "2025年",
+      "quote": "2,303.86"
+    },
+    {
+      "product": "成品酒",
+      "metric_type": "inventory_volume",
+      "value": "1,924.69千升",
+      "period": "2025年末",
+      "quote": "1,924.69"
+    },
+    {
+      "product": "原酒",
+      "metric_type": "production_volume",
+      "value": "3,708.47千升",
+      "period": "2025年",
+      "quote": "原酒 千升 3,708.47"
+    },
+    {
+      "product": "原酒",
+      "metric_type": "sales_volume",
+      "value": "271.53千升",
+      "period": "2025年",
+      "quote": "271.53"
+    },
+    {
+      "product": "原酒",
+      "metric_type": "inventory_volume",
+      "value": "107,309.72千升",
+      "period": "2025年末",
+      "quote": "107,309.72"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "玛纳斯小产区标准",
+      "asset_type": "standard",
+      "related_product": "葡萄酒",
+      "quantitative_info": null,
+      "quote": "2017年，公司牵头制定了玛纳斯小产区标准，玛纳斯核心基地被中国酒业协会认定为首个“中国葡萄酒小产区”，成为中国葡萄酒小产区的标杆。"
+    },
+    {
+      "name": "国家级科研平台（包括“中国轻工业酒类品质与安全重点实验室”等）",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后创建了“中国轻工业酒类品质与安全重点实验室”“国家特种分离膜工程技术研究中心-葡萄酒应用分中心”“食品真实性技术国际联合研究中心-新疆葡萄酒分中心”“农业农村部西北葡萄酒技术重点实验室”等国家级科研平台"
+    },
+    {
+      "name": "自治区级科研平台（包括“新疆酿酒葡萄与葡萄酒重点实验室”等）",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“新疆酿酒葡萄与葡萄酒重点实验室”“新疆葡萄酒产业创新研究院”“新疆酿酒葡萄与葡萄酒工程技术研究中心”“新疆葡萄酒及葡萄烈酒工程研究中心”“自治区重点林木良种基地”等自治区级科研平台。"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "自通过ISO9001质量管理体系认证以来，不断完善食品质量安全体系建设"
+    },
+    {
+      "name": "国家绿色工厂",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司先后荣获葡萄酒行业首个“国家绿色工厂”称号"
+    },
+    {
+      "name": "生态原产地产品保护标志",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "是新疆首个获得国家“生态原产地产品保护标志”认证的葡萄酒企业"
+    },
+    {
+      "name": "自治区人民政府质量奖",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "斩获全疆首个食品领域“自治区人民政府质量奖”。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "4,339.90万元，占年度销售总额35.20%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额4,339.90万元，占年度销售总额35.20%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,953.10万元，占年度采购总额41.57%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额1,953.10万元，占年度采购总额41.57%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "中国葡萄酒行业延续深度调整态势，呈现结构升级、竞争加剧的特征，国产与进口市场同步收缩但价值导向显著增强。",
+      "related_entity": null,
+      "related_product": "葡萄酒",
+      "quote": "2025年，中国葡萄酒行业延续深度调整态势，呈现结构升级、竞争加剧的特征，国产与进口市场同步收缩但价值导向显著增强"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "包装材料、运输成本、种植成本也持续增加，对公司经营形成较大压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "相应的包装材料、运输成本、种植成本也持续增加，对公司经营形成较大压力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "控股股东中信国安累计质押332,902,700股股份，占其持有本公司股份总数的65.93%，占本公司总股本的29.62%。",
+      "related_entity": "中信国安实业集团有限公司",
+      "related_product": null,
+      "quote": "中信国安已累计质押332,902,700股股份，占其持有本公司股份总数的65.93%，占本公司总股本的29.62%。"
+    }
+  ]
+}

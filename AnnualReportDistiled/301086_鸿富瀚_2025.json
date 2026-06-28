@@ -1,0 +1,434 @@
+{
+  "company_name_mentioned": "深圳市鸿富瀚科技股份有限公司",
+  "produces": [
+    {
+      "name": "精密功能性组件",
+      "type": "component",
+      "revenue_proportion": "占总营收的75.96%",
+      "quote": "精密功能性组件业务为公司核心主营业务，2025年全年营业收入为692,183,836.05元，占总营收的75.96%"
+    },
+    {
+      "name": "自动化设备",
+      "type": "device",
+      "revenue_proportion": "占总营收的7.57%",
+      "quote": "自动化设备是公司核心业务的重要配套，2025年全年营业收入为68,948,447.87元，占总营收的7.57%"
+    },
+    {
+      "name": "散热产品及解决方案",
+      "type": "device",
+      "revenue_proportion": "占总营收的12.51%",
+      "quote": "该业务是公司重点发展的增长极，2025年全年营业收入为113,968,777.36元，占总营收的12.51%"
+    },
+    {
+      "name": "光伏储能产品",
+      "type": "device",
+      "revenue_proportion": "占总营收的0.73%",
+      "quote": "2025年全年营业收入为6,684,653.93元，占总营收的0.73%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "功能性器件原材料、模具、生产设备、自动化设备部件及零件等",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购主要包括功能性器件原材料、模具、生产设备、自动化设备部件及零件等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "消费电子领域",
+      "source_product": "精密功能性组件、自动化设备、散热产品",
+      "quote": "产品应用场景广泛，覆盖智能手机、平板电脑、笔记本电脑、智能穿戴设备等消费电子领域"
+    },
+    {
+      "name": "ICT领域",
+      "source_product": "精密功能性组件、自动化设备、散热产品",
+      "quote": "同时延伸至服务器、显卡、数据中心设备、通讯基站等ICT领域"
+    },
+    {
+      "name": "光伏太阳能",
+      "source_product": "光伏储能产品",
+      "quote": "同时延伸至光伏太阳能、新能源汽车等新兴产业"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "精密功能性组件",
+      "quote": "同时延伸至光伏太阳能、新能源汽车等新兴产业"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张定武",
+      "role": "董事长兼总经理",
+      "quote": "公司负责人张定武...深圳市鸿富瀚科技股份有限公司董事长、法定代表人"
+    },
+    {
+      "name": "张思明",
+      "role": "副总经理、董事会秘书、财务总监",
+      "quote": "主管会计工作负责人张思明及会计机构负责人(会计主管人员)张思明"
+    },
+    {
+      "name": "李文斌",
+      "role": "副董事长",
+      "quote": "2025年11月至今任公司副董事长"
+    },
+    {
+      "name": "邱创奇",
+      "role": "董事",
+      "quote": "2025年11月至今任公司董事"
+    },
+    {
+      "name": "张小欧",
+      "role": "职工代表董事",
+      "quote": "2025年11月至今任公司职工代表董事"
+    },
+    {
+      "name": "刘善敏",
+      "role": "独立董事",
+      "quote": "2025年11月至今任公司独立董事"
+    },
+    {
+      "name": "李宇峰",
+      "role": "独立董事",
+      "quote": "2025年11月至今任公司独立董事"
+    },
+    {
+      "name": "邓锋锋",
+      "role": "独立董事",
+      "quote": "2025年11月至今任公司独立董事"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "淮安市鸿富瀚科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "消费电子功能性器件、冲压五金件等产品的设计、研发、生产、销售",
+      "quote": "淮安鸿富瀚 指 淮安市鸿富瀚科技有限公司"
+    },
+    {
+      "name": "香港鸿富瀚科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "消费电子功能性器件、冲压五金件等产品的销售",
+      "quote": "香港鸿富瀚 指 香港鸿富瀚科技有限公司"
+    },
+    {
+      "name": "东莞市鸿富瀚科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "消费电子功能性器件、冲压五金件等产品的设计、研发、生产、销售",
+      "quote": "东莞鸿富瀚 指 东莞市鸿富瀚科技有限公司"
+    },
+    {
+      "name": "深圳市富智新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "电池制造；电池销售；电池零配件销售等",
+      "quote": "深圳富智 指 深圳市富智新能源科技有限公司"
+    },
+    {
+      "name": "东莞市捷风电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "计算机、通信和其他电子设备制造业",
+      "quote": "东莞捷风 指 东莞市捷风电子科技有限公司"
+    },
+    {
+      "name": "鸿海精密工业股份有限公司及其控制的公司（富士康）",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "富士康 指 鸿海精密工业股份有限公司及其控制的公司"
+    },
+    {
+      "name": "鹏鼎控股（深圳）股份有限公司及其控制的公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "鹏鼎控股 指 鹏鼎控股（深圳）股份有限公司及其控制的公司"
+    },
+    {
+      "name": "京东方科技集团股份有限公司及其控制的公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "京东方 指 京东方科技集团股份有限公司及其控制的公司"
+    },
+    {
+      "name": "立讯精密工业股份有限公司及其控制的公司（立讯集团）",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "立讯集团 指 立讯精密工业股份有限公司及其控制的公司"
+    },
+    {
+      "name": "正崴精密工業股份有限公司及其控制的公司（正崴集团）",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "正崴集团 指 正崴精密工業股份有限公司及其控制的公司"
+    },
+    {
+      "name": "深圳市高新投高端装备产业私募股权投资基金合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "深圳高新投 指 深圳市高新投高端装备产业私募股权投资基金合伙企业（有限合伙）"
+    },
+    {
+      "name": "恒美国际有限公司",
+      "relation_type": "investor",
+      "business_details": "系本公司股东",
+      "quote": "恒美国际、恒美國際有限公司 指 恒美国际有限公司，系本公司股东"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "消费电子产品功能性器件",
+      "segment_type": "product_line",
+      "revenue_amount": "692,183,836.05元",
+      "revenue_proportion": "占营业收入比重75.96%",
+      "gross_margin": "36.71%",
+      "yoy_change": "营业收入比上年增加13.75%",
+      "quote": "消费电子产品功能性器件 692,183,836.05 75.96% 608,523,085.09 74.32% 13.75% 438,081,573.06 36.71%"
+    },
+    {
+      "name": "自动化设备及相关产品",
+      "segment_type": "product_line",
+      "revenue_amount": "68,948,447.87元",
+      "revenue_proportion": "占营业收入比重7.57%",
+      "gross_margin": "27.09%",
+      "yoy_change": "营业收入比上年增加5.05%",
+      "quote": "自动化设备及相关产品 68,948,447.87 7.57% 65,632,180.75 8.02% 5.05% 50,270,792.58 27.09%"
+    },
+    {
+      "name": "散热产品",
+      "segment_type": "product_line",
+      "revenue_amount": "113,968,777.36元",
+      "revenue_proportion": "占营业收入比重12.51%",
+      "gross_margin": "14.49%",
+      "yoy_change": "营业收入比上年减少11.77%",
+      "quote": "散热产品 113,968,777.36 12.51% 129,165,501.86 15.77% -11.77% 97,454,751.43 14.49%"
+    },
+    {
+      "name": "光伏储能产品",
+      "segment_type": "product_line",
+      "revenue_amount": "6,684,653.93元",
+      "revenue_proportion": "占营业收入比重0.73%",
+      "gross_margin": "67.93%",
+      "yoy_change": "营业收入比上年增加566.37%",
+      "quote": "光伏储能产品 6,684,653.93 0.73% 1,003,147.97 0.12% 566.37% 2,143,815.86 67.93%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "706,853,384.39元（营收）/ 677,424,930.61元（营收占比统计）",
+      "revenue_proportion": "占营业收入比重77.57%",
+      "gross_margin": "26.38%",
+      "yoy_change": "营业收入比上年增加7.89%",
+      "quote": "境内 706,853,384.39 77.57% 655,164,372.25 80.01% 7.89% 498,687,839.58 26.38%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "204,360,784.60元",
+      "revenue_proportion": "占营业收入比重22.43%",
+      "gross_margin": "56.32%",
+      "yoy_change": "营业收入比上年增加24.86%",
+      "quote": "境外 204,360,784.60 22.43% 163,675,027.45 19.99% 24.86% 89,263,093.35 56.32%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "911,214,168.99元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "34.26%",
+      "yoy_change": "营业收入比上年增加11.28%",
+      "quote": "直销 911,214,168.99 100.00% 818,839,399.70 100.00% 11.28% 598,997,249.50 34.26%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "制造业（通用）",
+      "metric_type": "sales_volume",
+      "value": "544,397.55万件",
+      "period": "2025年",
+      "quote": "销售量 万件 544,397.55 423,385.15 28.58%"
+    },
+    {
+      "product": "制造业（通用）",
+      "metric_type": "production_volume",
+      "value": "549,411.95万件",
+      "period": "2025年",
+      "quote": "生产量 万件 549,411.95 428,436.89 28.24%"
+    },
+    {
+      "product": "制造业（通用）",
+      "metric_type": "inventory_volume",
+      "value": "18,930.90万件",
+      "period": "2025年末",
+      "quote": "库存量 万件 18,930.90 13,916.50 36.03%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "鸿富瀚功能性电子材料与智能设备项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资总额 53,100.00万元",
+      "designed_capacity": null,
+      "progress": "项目累计投入 53,100.00万元，投资进度 100.00%",
+      "expected_completion_time": "原预计2023年12月31日，已延期至2024年8月27日达到预定可使用状态",
+      "quote": "鸿富瀚功能性电子材料与智能设备项目...调整后投资总额(1) 53,100.00...项目达到预定可使用状态日期 2024年08月27日"
+    },
+    {
+      "name": "工业自动化装备生产基地建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "承诺投资总额 17,100.00万元",
+      "designed_capacity": null,
+      "progress": "项目累计投入 16,700.00万元，投资进度 97.66%",
+      "expected_completion_time": "原预计2023年12月31日，已延期至2024年8月27日达到预定可使用状态",
+      "quote": "工业自动化装备生产基地建设项目...调整后投资总额(1) 17,100.00...项目达到预定可使用状态日期 2024年08月27日"
+    },
+    {
+      "name": "KAMOA数字能源光伏储能电站建设项目",
+      "project_type": "capacity_expansion",
+      "location": "境外（卡莫阿-卡库拉铜矿）",
+      "investment_amount": "项目总投资约14.10亿元，其中公司出资不超过11.28亿元",
+      "designed_capacity": "项目建设规模为200MW光伏组件及配套储能系统",
+      "progress": "在建",
+      "expected_completion_time": "计划2026年5月30日前完成建设、7月31日前实现并网发电",
+      "quote": "本项目总投资约14.10亿元，其中公司出资不超过11.28亿元，项目建设规模为200MW光伏组件及配套储能系统，计划2026年5月30日前完成建设、7月31日前实现并网发电"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "精密模切+精密冲压+材料复合+自动化集成",
+      "asset_type": "core_technology",
+      "related_product": "精密功能性组件",
+      "quantitative_info": null,
+      "quote": "公司深耕该领域多年，具备‘精密模切+精密冲压+材料复合+自动化集成’四大核心技术"
+    },
+    {
+      "name": "AOI视觉检测智能检测系统",
+      "asset_type": "technical_platform",
+      "related_product": "精密功能性组件",
+      "quantitative_info": null,
+      "quote": "公司的智能检测系统基于AOI视觉检测，可实时监控质量数据"
+    },
+    {
+      "name": "ERP、MES、OA等数字化管理系统",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司深度应用ERP、MES、OA等系统实现全流程数字化升级"
+    },
+    {
+      "name": "国家级高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "作为国家级高新技术企业、专精特新‘小巨人’企业"
+    },
+    {
+      "name": "专精特新‘小巨人’企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "作为国家级高新技术企业、专精特新‘小巨人’企业"
+    },
+    {
+      "name": "发明专利、实用新型专利、软件著作权",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "拥有多项发明专利、实用新型专利及软件著作权",
+      "quote": "截至报告期末，公司拥有多项发明专利、实用新型专利及软件著作权"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "616,636,364.46元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 616,636,364.46"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "占年度销售总额比例67.67%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 67.67%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "300,596,233.54元",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "1 客户一 300,596,233.54 32.99%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "582,449,016.55元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 582,449,016.55"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "占年度采购总额比例47.84%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 47.84%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "198,544,020.68元",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "1 供应商一 198,544,020.68 16.31%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争加剧，同行业企业凭借规模、资金优势挤压市场份额，公司可能面临技术、价格双重竞争压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业竞争加剧，同行业企业凭借规模、资金优势挤压市场份额，公司可能面临技术、价格双重竞争压力。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "消费电子行业周期性强，若AI终端、折叠屏等新品出货量不及预期，将影响精密组件业务营收。",
+      "related_entity": null,
+      "related_product": "精密组件",
+      "quote": "消费电子行业周期性强，若AI终端、折叠屏等新品出货量不及预期，将影响精密组件业务营收"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "散热产品、机器人业务尚处产能爬坡与市场拓展初期，若技术验证、客户认证、产能释放不及预期，将影响业绩增长目标实现。",
+      "related_entity": null,
+      "related_product": "散热产品、机器人业务",
+      "quote": "散热产品、机器人业务尚处产能爬坡与市场拓展初期，若技术验证、客户认证、产能释放不及预期，将影响业绩增长目标实现"
+    },
+    {
+      "risk_type": "other",
+      "description": "4.8亿元机器人订单交付期集中，若产能不足、供应链中断、质量管控失误，将导致违约风险，影响客户合作与品牌声誉。",
+      "related_entity": null,
+      "related_product": "机器人订单",
+      "quote": "4.8亿元机器人订单交付期集中，若产能不足、供应链中断、质量管控失误，将导致违约风险，影响客户合作与品牌声誉"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动、全球化产能建设带来的固定成本增加、新业务研发投入加大，将挤压利润空间，影响盈利能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动、全球化产能建设带来的固定成本增加、新业务研发投入加大，将挤压利润空间，影响盈利能力。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "泰国、越南等海外基地建设与运营面临地缘政治、贸易政策、关税调整等风险，可能影响产能释放与海外业务拓展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "泰国、越南等海外基地建设与运营面临地缘政治、贸易政策、关税调整等风险，可能影响产能释放与海外业务拓展"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "全球经济复苏不及预期、通胀压力、汇率波动等因素，将影响下游客户投资与采购意愿，进而影响公司订单与营收。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "全球经济复苏不及预期、通胀压力、汇率波动等因素，将影响下游客户投资与采购意愿，进而影响公司订单与营收。"
+    }
+  ]
+}

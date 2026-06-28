@@ -1,0 +1,653 @@
+{
+  "company_name_mentioned": "四川观想科技股份有限公司",
+  "produces": [
+    {
+      "name": "全寿命周期管理系统",
+      "type": "software",
+      "revenue_proportion": "13.51%",
+      "quote": "2025年 2024年 同比增减 ... 分产品 全寿命周期管理系统 27,135,942.67 13.51% 42,752,647.45 28.06% -36.53%"
+    },
+    {
+      "name": "智能装备",
+      "type": "device",
+      "revenue_proportion": "46.32%",
+      "quote": "2025年 2024年 同比增减 ... 分产品 ... 智能装备 93,067,674.03 46.32% 73,648,355.82 48.34% 26.37%"
+    },
+    {
+      "name": "人工智能",
+      "type": "technology",
+      "revenue_proportion": "40.17%",
+      "quote": "2025年 2024年 同比增减 ... 分产品 ... 人工智能 80,699,996.43 40.17% 35,965,010.46 23.60% 124.38%"
+    },
+    {
+      "name": "智慧大脑",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司自研智慧大脑，用于为智能化装备提供系统控制、显示计算、电源管理等核心功能"
+    },
+    {
+      "name": "载荷单元",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "基于各类传感器，结合观想科技人工智能算法，可为决策提供支持"
+    },
+    {
+      "name": "动力单元（含小微航空发动机）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "微小型航空发动机：为无人设备等提供动力 ... 报告期内，公司已初步完成集研发、测试、总装于一体的小微航空发动机中试平台，并以此为牵引分期建设优费效比小微航发生产基地"
+    },
+    {
+      "name": "数字孪生（数字化工程）产品矩阵",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "数字孪生技术作为一项前沿的虚拟化创新，通过构建与物理实体高度对应的数字化镜像，实现了对现实世界的精准映射与深度洞察。"
+    },
+    {
+      "name": "AI通用底座",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "AI通用底座：AI能力的生产、应用和集中化管理平台"
+    },
+    {
+      "name": "AI专用底座",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "AI专用底座：面向特定领域各应用场景提供一整套智能化解决方案"
+    },
+    {
+      "name": "科学计算底座",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "科学计算底座：数据驱动方法与物理模型整体解决方案"
+    },
+    {
+      "name": "大模型训推底座",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "大模型训推底座：模块化、分层的技术体系"
+    },
+    {
+      "name": "联邦学习底座",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "联邦学习底座：区块链与联邦学习的集成应用"
+    },
+    {
+      "name": "算力中心",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "算力中心：为智算中心用户单位业务增智赋能"
+    },
+    {
+      "name": "智能体底座",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "智能体底座：面向多场景智能体全生命周期的一体化技术体系"
+    },
+    {
+      "name": "领域模型",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "领域模型：通过软硬件与人工智能融合形成智能化装备"
+    },
+    {
+      "name": "数据资产工具集",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "数据资产工具集：集采集、清洗、标注、加工为一体的工具集"
+    },
+    {
+      "name": "边缘算力",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "边缘算力：提供自主可控边缘端基础算力以支撑模型推理和数据存储等智能化服务"
+    },
+    {
+      "name": "数字化修理间系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "一款旨在提供高效、精确的装备修理解决方案系统"
+    },
+    {
+      "name": "数字化装备场系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "一款全数字化装备管理系统，装配后可实现装备作业中全单位、全任务的数据化、可视化"
+    },
+    {
+      "name": "数字化仓库系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "一款仓库管理系统，实现仓储物流信息化与数据采集自动化"
+    },
+    {
+      "name": "装备数智化工厂管理系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "一款数智化装备维修管理平台，为装备制造和修理工厂提供智能化的装备管理系统"
+    },
+    {
+      "name": "建筑塔机安全监控系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要针对建筑工地塔吊、龙门吊、架桥机等安全管控场景，提供智能化监控手段"
+    },
+    {
+      "name": "危险源监控系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "城市污染源、地下管网监控、有限空间有毒气体检测、地质边坡、桥梁大坝等位移及形变检测"
+    },
+    {
+      "name": "矿产高端装备健康管理",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "矿产高端装备健康管理：破解安全管控痛点，保障生产安全"
+    },
+    {
+      "name": "绿能装备健康管理",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "绿能装备健康管理：数据采集与资产台账管理；状态监测与预测性维护"
+    },
+    {
+      "name": "多源异构数据采集系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "一款灵活度较高的多源异构数据采集系统"
+    },
+    {
+      "name": "数据管理平台",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "一款包含装备健康管理模型的大数据管理平台"
+    },
+    {
+      "name": "模型构建系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "一款快速集成模型、统一调用应用的系统"
+    },
+    {
+      "name": "体系仿真系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "构建体系对抗仿真平台，通过建模及仿真，为领导决策提供数据支持"
+    },
+    {
+      "name": "效能评估系统",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "一款效能评估系统，为整个评估任务的生命周期提供全方位设计、模型构建、评估以及展示"
+    },
+    {
+      "name": "中试平台",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "中试平台是科技成果转化的关键枢纽...公司依托人工智能技术、AI+赋能为客户提供的一站式中试平台"
+    }
+  ],
+  "procures": [
+    {
+      "name": "供应商1",
+      "target_product": null,
+      "cost_proportion": "27.22%",
+      "quote": "1 供应商1 77,834,808.39 27.22%"
+    },
+    {
+      "name": "深圳市超复科技有限公司",
+      "target_product": null,
+      "cost_proportion": "25.35%",
+      "quote": "2 深圳市超复科技有限公司 72,469,026.55 25.35%"
+    },
+    {
+      "name": "供应商3",
+      "target_product": null,
+      "cost_proportion": "13.57%",
+      "quote": "3 供应商3 38,795,504.42 13.57%"
+    },
+    {
+      "name": "陕西可维卓立科技有限公司",
+      "target_product": null,
+      "cost_proportion": "3.33%",
+      "quote": "4 陕西可维卓立科技有限公司 9,508,490.56 3.33%"
+    },
+    {
+      "name": "供应商5",
+      "target_product": null,
+      "cost_proportion": "3.06%",
+      "quote": "5 供应商5 8,762,030.39 3.06%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "国防军工",
+      "source_product": "全寿命周期管理系统、智能装备、人工智能",
+      "quote": "分行业 军工行业 178,342,932.79 88.77%"
+    },
+    {
+      "name": "民用行业",
+      "source_product": "智能装备、人工智能",
+      "quote": "分行业 ... 民用行业 22,560,680.34 11.23%"
+    },
+    {
+      "name": "装备全寿命周期管理（设计、订购、维修、保障等）",
+      "source_product": "全寿命周期管理系统",
+      "quote": "全寿命周期管理系统是一项涵盖装备从设计立项到报废全过程各环节的系统性工程"
+    },
+    {
+      "name": "装备制造与维修工厂",
+      "source_product": "装备数智化工厂管理系统",
+      "quote": "一款数智化装备维修管理平台，为装备制造和修理工厂提供智能化的管理系统"
+    },
+    {
+      "name": "建筑工地安全管控",
+      "source_product": "建筑塔机安全监控系统",
+      "quote": "主要针对建筑工地塔吊、龙门吊、架桥机等安全管控场景"
+    },
+    {
+      "name": "城市安全监测",
+      "source_product": "危险源监控系统",
+      "quote": "城市污染源、地下管网监控、有限空间有毒气体检测、地质边坡、桥梁大坝等位移及形变检测"
+    },
+    {
+      "name": "矿产资源产业",
+      "source_product": "矿产高端装备健康管理",
+      "quote": "研建矿产资源中试平台，力争全面提升数智化赋能传统矿业等一产、二产民用产业能力"
+    },
+    {
+      "name": "能源行业（发电、虚拟电厂等）",
+      "source_product": "绿能装备健康管理",
+      "quote": "公司控股子公司观想优能，专注于能源行业信息化建设，主要方向包括传统发电侧...虚拟电厂"
+    },
+    {
+      "name": "无人装备（无人机、EVtol等）",
+      "source_product": "小微航空发动机",
+      "quote": "可广泛应用于无人机、EVtol等智能装备。"
+    },
+    {
+      "name": "舰船动力、分布式能源、钻井钻探",
+      "source_product": "航空发动机改燃气轮机",
+      "quote": "航空发动机改燃气轮机：用于舰船动力、分布式能源、钻井钻探"
+    },
+    {
+      "name": "消防应急、环境监测、工业自动化",
+      "source_product": "柔性架构智能装备",
+      "quote": "柔性架构智能装备不仅在军工领域展现出巨大潜力，更在城市基建、物流运输、消防应急、环境监测及工业自动化等民用领域广泛应用"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "魏强",
+      "role": "董事长、总经理",
+      "quote": "公司负责人魏强、主管会计工作负责人王礼节及会计机构负责人(会计主管人员)宣若兰声明...魏强，董事长、总经理"
+    },
+    {
+      "name": "易明权",
+      "role": "董事、副总经理",
+      "quote": "易明权 董事、副总经理"
+    },
+    {
+      "name": "王礼节",
+      "role": "董事、副总经理、财务负责人",
+      "quote": "王礼节 董事、副总经理、财务负责人"
+    },
+    {
+      "name": "王军",
+      "role": "董事",
+      "quote": "王军 董事"
+    },
+    {
+      "name": "何熙琼",
+      "role": "独立董事",
+      "quote": "何熙琼 独立董事"
+    },
+    {
+      "name": "刘光强",
+      "role": "独立董事",
+      "quote": "刘光强 独立董事"
+    },
+    {
+      "name": "申可一",
+      "role": "独立董事",
+      "quote": "申可一 独立董事"
+    },
+    {
+      "name": "陈敬",
+      "role": "副总经理",
+      "quote": "陈敬 副总经理"
+    },
+    {
+      "name": "易津禾",
+      "role": "董事会秘书、副总经理",
+      "quote": "易津禾 董事会秘书/副总经理"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川盛世融合科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "盛世融合 指 四川盛世融合科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "四川观想再生资源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "再生资源 指 四川观想再生资源有限公司，公司全资子公司"
+    },
+    {
+      "name": "观想科技（雅安）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "观想雅安 指 观想科技（雅安）有限公司，公司全资子公司"
+    },
+    {
+      "name": "云网智算(新疆)科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "云网智算 指 云网智算(新疆)科技有限公司，公司全资孙公司"
+    },
+    {
+      "name": "南京海赫电子信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "南京海赫 指 南京海赫电子信息科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "观想传感（四川）科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "观想传感 指 观想传感（四川）科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "四川炎黄信创科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "炎黄信创 指 四川炎黄信创科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "四川观想优能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "观想优能 指 四川观想优能科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "四川观想智建科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "观想智建 指 四川观想智建科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "北京观想数智科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "观想数智 指 北京观想数智科技有限公司，公司控股孙公司"
+    },
+    {
+      "name": "四川观想动能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "观想动能 指 四川观想动能科技有限公司，公司控股孙公司"
+    },
+    {
+      "name": "四川观想智算科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "观想智算 指 四川观想智算科技有限公司，公司控股孙公司"
+    },
+    {
+      "name": "锦州辽晶电子科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "拟通过发行股份及支付现金购买资产并募集配套资金的方式收购其100%股权",
+      "quote": "公司拟通过发行股份及支付现金购买资产并募集配套资金的方式，收购锦州辽晶电子科技股份有限公司100%股权。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "军工行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "178,342,932.79元",
+      "revenue_proportion": "88.77%",
+      "gross_margin": "59.94%",
+      "yoy_change": "34.48%",
+      "quote": "分行业 军工行业 178,342,932.79 88.77% ... 毛利率 59.94% ... 营业收入比上年同期增减 34.48%"
+    },
+    {
+      "name": "民用行业",
+      "segment_type": "customer_type",
+      "revenue_amount": "22,560,680.34元",
+      "revenue_proportion": "11.23%",
+      "gross_margin": "71.86%",
+      "yoy_change": "14.23%",
+      "quote": "分行业 ... 民用行业 22,560,680.34 11.23% ... 毛利率 71.86% ... 营业收入比上年同期增减 14.23%"
+    },
+    {
+      "name": "全寿命周期管理系统",
+      "segment_type": "product_line",
+      "revenue_amount": "27,135,942.67元",
+      "revenue_proportion": "13.51%",
+      "gross_margin": "35.03%",
+      "yoy_change": "-36.53%",
+      "quote": "分产品 全寿命周期管理系统 27,135,942.67 13.51% ... 毛利率 35.03% ... 营业收入比上年同期增减 -36.53%"
+    },
+    {
+      "name": "智能装备",
+      "segment_type": "product_line",
+      "revenue_amount": "93,067,674.03元",
+      "revenue_proportion": "46.32%",
+      "gross_margin": "67.37%",
+      "yoy_change": "26.37%",
+      "quote": "分产品 ... 智能装备 93,067,674.03 46.32% ... 毛利率 67.37% ... 营业收入比上年同期增减 26.37%"
+    },
+    {
+      "name": "人工智能",
+      "segment_type": "product_line",
+      "revenue_amount": "80,699,996.43元",
+      "revenue_proportion": "40.17%",
+      "gross_margin": "63.07%",
+      "yoy_change": "124.38%",
+      "quote": "分产品 ... 人工智能 80,699,996.43 40.17% ... 毛利率 63.07% ... 营业收入比上年同期增减 124.38%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "200,903,613.13元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "31.86%",
+      "quote": "分地区 境内 200,903,613.13 100.00% ... 营业收入比上年同期增减 31.86%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "各类小型航空发动机",
+      "metric_type": "capacity",
+      "value": "年产1000台（套）",
+      "period": null,
+      "quote": "目前，公司小微航空发动机中试平台已具备年产1000台（套）各类小型航空发动机的能力"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "数智化能力提升项目",
+      "project_type": "fundraising_project",
+      "location": "成都市、雅安市、哈密市、凉山州等地",
+      "investment_amount": "21,352.56万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末投资进度7.58%",
+      "expected_completion_time": "2028年06月17日",
+      "quote": "变更后 ... 数智化能力提升项目 ... 项目拟投入募集资金总额 21,352.56 ... 截至期末实际投入金额 1,618.08 ... 项目达到预定可使用状态日期 2028年06月17日"
+    },
+    {
+      "name": "小微航空发动机生产基地",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已初步完成集研发、测试、总装于一体的小微航空发动机中试平台",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司已初步完成集研发、测试、总装于一体的小微航空发动机中试平台，并以此为牵引分期建设优费效比小微航发生产基地"
+    },
+    {
+      "name": "矿产资源中试平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成矿产资源中试平台初步搭建",
+      "expected_completion_time": null,
+      "quote": "完成矿产资源中试平台初步搭建，为后续跨领域业务拓展筑牢发展根基。"
+    },
+    {
+      "name": "MEMS智能传感器研发及中试平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "进行了基于MEMS芯片的多种智能传感器产品的开发及应用示范",
+      "expected_completion_time": null,
+      "quote": "公司控股子公司观想传感，报告期内，观想传感全力进行基于MEMS芯片的多种智能传感器产品的开发"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "60件（其中发明专利39件，占比超60%，实用新型专利17件，外观设计专利4件）",
+      "quote": "截至2025年12月31日，公司已拥有各类有效专利60件，其中发明专利39件，占比超60%，实用新型专利17件，外观设计专利4件"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "127件",
+      "quote": "软件著作权127件"
+    },
+    {
+      "name": "微服务架构+应用APP化设计",
+      "asset_type": "core_technology",
+      "related_product": "全寿命周期管理系统、数字化修理间、数字化装备场",
+      "quantitative_info": null,
+      "quote": "系统架构方面，在业界率先采用微服务架构+应用APP化设计"
+    },
+    {
+      "name": "1+N配置模式",
+      "asset_type": "process_technology",
+      "related_product": "数字化修理间",
+      "quantitative_info": null,
+      "quote": "在业界创新采用1+N（1个通用操控计算平台+N类检测模块）配置模式"
+    },
+    {
+      "name": "自主可控信息化技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已积累了包括基于二维相控阵技术、国产自主可控专用FPGA、边缘计算人工智能等在内的多项先进技术产品"
+    },
+    {
+      "name": "AI赋能能力",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有“数据-算法-算力”全栈AI能力。"
+    },
+    {
+      "name": "数字孪生能力",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "通过构建与物理实体高度对应的数字化镜像，实现了对现实世界的精准映射与深度洞察。"
+    },
+    {
+      "name": "柔性化智能装备构建能力",
+      "asset_type": "core_technology",
+      "related_product": "智能装备",
+      "quantitative_info": null,
+      "quote": "将智能装备解构成“智慧大脑、载荷单元、动力单元和装备平台”"
+    },
+    {
+      "name": "KAN (Kolmogorov-Arnold Networks)",
+      "asset_type": "core_technology",
+      "related_product": "AI赋能能力",
+      "quantitative_info": null,
+      "quote": "基于创新的神经网络架构KAN，通过更简洁的参数实现对数学和物理问题的高精度建模"
+    },
+    {
+      "name": "资质认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "先后获得“软件企业”“国家高新技术企业”“四川省企业技术中心”“国家专精特新小巨人企业”等多项荣誉资质。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "77.33%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 77.33%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "41.19%",
+      "related_entity": "客户1",
+      "period": "2025年",
+      "quote": "1 客户1 82,743,362.73 41.19%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "72.53%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 72.53%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "27.22%",
+      "related_entity": "供应商1",
+      "period": "2025年",
+      "quote": "1 供应商1 77,834,808.39 27.22%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "面向新形势、新时期、新任务、新装备、新模式的军品业务同样面临产业格局调整和产业生态变化，不确定性因素的增多对公司经营发展形成挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "外部环境变动风险 ... 面向新形势、新时期、新任务、新装备、新模式的军品业务同样面临产业格局调整和产业生态变化，不确定性因素的增多对公司经营发展形成挑战。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司在多技术融合领域进行前沿探索和应用创新，研发项目具有开发周期长、行业壁垒高、市场接受度不确定、研发投入多等特点，存在一定技术设计及研发失败风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "核心技术研发风险 ... 研发项目具有开发周期长、行业壁垒高、市场接受度不确定、研发投入多等特点，存在一定技术设计及研发失败风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司已发展为拥有多家控参股子公司的架构体系，组织架构和管理体系更加趋于复杂化。...增加了公司经营决策和风险控制的难度。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经营管理及内控风险 ... 企业业务板块增多，机构、人员都进一步扩张，对公司在战略规划、制度建设、文化融合、资源整合、运营管理、内部控制等方面都提出了更高的要求，增加了公司经营决策和风险控制的难度。"
+    },
+    {
+      "risk_type": "other",
+      "description": "部分信息涉及国家秘密。...豁免披露或脱密披露可能影响投资者对公司价值的正确判断，造成投资决策失误的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "豁免披露部分信息可能影响投资者对公司价值判断的风险 ... 部分信息涉及国家秘密。...豁免披露或脱密披露可能影响投资者对公司价值的正确判断，造成投资决策失误的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司经营业绩呈现一定的季节性波动特征。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "季节性波动风险 ... 公司下半年营业收入占比较高，经营业绩呈现一定的季节性波动特征。"
+    }
+  ]
+}

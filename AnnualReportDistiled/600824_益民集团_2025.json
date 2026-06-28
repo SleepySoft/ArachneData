@@ -1,0 +1,402 @@
+{
+  "company_name_mentioned": "上海益民商业集团股份有限公司",
+  "produces": [
+    {
+      "name": "内衣产品",
+      "type": "device",
+      "revenue_proportion": "商业零售中内衣收入 227,353,497.58元",
+      "quote": "商业零售 328,067,965.06元...内衣 227,353,497.58元"
+    },
+    {
+      "name": "黄金珠宝产品",
+      "type": "device",
+      "revenue_proportion": "商业零售中黄金珠宝收入 61,332,017.82元",
+      "quote": "商业零售 328,067,965.06元...黄金珠宝 61,332,017.82元"
+    },
+    {
+      "name": "摄影器材及相关服务",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "星光摄影紧跟数码影像与文创消费融合大趋势...全年举办摄影培训20期、进校课程81场，开发冰岛、云南等23条摄影旅拍线路...星光大疆两家门店全年完成销售超2800万元"
+    },
+    {
+      "name": "床上用品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "上海床上用品公司业务包括其他品牌代理，以及自有的“上上”品牌产品的设计、生产和推广。"
+    },
+    {
+      "name": "商业物业租赁",
+      "type": "service",
+      "revenue_proportion": "房产租赁及物业管理收入 245,567,102.99元",
+      "quote": "房产租赁及物业管理 245,567,102.99元"
+    },
+    {
+      "name": "餐饮及客房服务",
+      "type": "service",
+      "revenue_proportion": "旅游餐饮服务业收入 8,182,093.83元",
+      "quote": "旅游餐饮服务业 8,182,093.83元"
+    },
+    {
+      "name": "商业批发服务",
+      "type": "service",
+      "revenue_proportion": "商业批发收入 57,051,024.68元",
+      "quote": "商业批发 57,051,024.68元"
+    }
+  ],
+  "procures": [
+    {
+      "name": "商品成本",
+      "target_product": "内衣、黄金珠宝、百货等零售批发商品",
+      "cost_proportion": null,
+      "quote": "营业成本 342,712,013.30元...商业零售 商品成本 209,022,846.21元"
+    },
+    {
+      "name": "服务成本",
+      "target_product": "商业服务",
+      "cost_proportion": null,
+      "quote": "商业服务 服务成本 13,876,712.50元"
+    },
+    {
+      "name": "租赁及物业成本",
+      "target_product": "房产租赁及物业管理",
+      "cost_proportion": null,
+      "quote": "房产租赁及物业管理 租赁及物业成本 84,461,872.98元"
+    },
+    {
+      "name": "餐饮成本",
+      "target_product": "旅游餐饮服务业",
+      "cost_proportion": null,
+      "quote": "旅游餐饮服务业 餐饮成本 1,747,287.75元"
+    }
+  ],
+  "applications": [
+    {
+      "name": "个人消费市场（内衣、珠宝、床上用品）",
+      "source_product": "内衣、黄金珠宝、床上用品",
+      "quote": "公司旗下现有古今内衣、天宝龙凤、星光摄影、上海床品、金龙袜业等多个品牌从事商业批发零售业务"
+    },
+    {
+      "name": "商业办公租赁",
+      "source_product": "商业物业",
+      "quote": "其余物业分布在浦东北蔡、闵行莘庄等地，主要以厂房为主，上述物业约有1.70万平方米为企业经营自用，其余均对外招商出租经营。"
+    },
+    {
+      "name": "旅游业（住宿）",
+      "source_product": "客房服务",
+      "quote": "客房收入 5,994,005.06元"
+    },
+    {
+      "name": "养老服务",
+      "source_product": "养老服务",
+      "quote": "公司与第三方专业养老服务机构合作的福荟颐养院和益福荟颐养院为专业特色养老服务机构，共计拥有182张床位。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张敏",
+      "role": "董事长",
+      "quote": "公司负责人张敏...现任本公司董事长、上海淮海商业（集团）有限公司党委书记、董事长。"
+    },
+    {
+      "name": "孙骏",
+      "role": "董事、常务副总经理",
+      "quote": "主管会计工作负责人孙骏...现任本公司董事、常务副总经理，兼上海古今内衣集团有限公司董事。"
+    },
+    {
+      "name": "朱明",
+      "role": "副总经理、财务总监",
+      "quote": "会计机构负责人（会计主管人员）朱明...现任本公司副总经理、财务总监，兼上海新宇钟表集团有限公司、益远睿洸（上海）实业有限公司董事。"
+    },
+    {
+      "name": "潘梦薇",
+      "role": "副总经理",
+      "quote": "潘梦薇 副总经理"
+    },
+    {
+      "name": "骆宝树",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 骆宝树"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "上海淮海商业（集团）有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 指 上海淮海商业（集团）有限公司"
+    },
+    {
+      "name": "上海市黄浦区国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人 指 上海市黄浦区国有资产监督管理委员会"
+    },
+    {
+      "name": "上海新宇钟表集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "联营公司，持股5.00%，从事钟表零售",
+      "quote": "上海新宇钟表集团有限公司 钟表零售 98,360,000.00元 5.00%"
+    },
+    {
+      "name": "上海德同益民消费产业股权投资基金中心（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "联营公司，持股36.31%，从事股权投资、投资管理咨询",
+      "quote": "上海德同益民消费产业股权投资基金中心（有限合伙） 股权投资、投资管理咨询 373,779,489.80元 36.31%"
+    },
+    {
+      "name": "老凤祥股份有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "老凤祥股份 指 老凤祥股份有限公司"
+    },
+    {
+      "name": "上海老凤祥有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "老凤祥有限 指 上海老凤祥有限公司"
+    },
+    {
+      "name": "上海工艺美术有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "上海工艺美术 指 上海工艺美术有限公司"
+    },
+    {
+      "name": "华住酒店集团",
+      "relation_type": "joint_venture",
+      "business_details": "通过与华住酒店集团租赁合作，进一步盘活存量资产",
+      "quote": "通过与华住酒店集团租赁合作，进一步盘活存量资产，提升资产收益率。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "商业零售",
+      "segment_type": "business_unit",
+      "revenue_amount": "328,067,965.06元",
+      "revenue_proportion": null,
+      "gross_margin": "36.29%",
+      "yoy_change": "-18.80%",
+      "quote": "商业零售 328,067,965.06元 209,022,846.21元 36.29 -18.80"
+    },
+    {
+      "name": "商业批发",
+      "segment_type": "business_unit",
+      "revenue_amount": "57,051,024.68元",
+      "revenue_proportion": null,
+      "gross_margin": "43.12%",
+      "yoy_change": "-58.55%",
+      "quote": "商业批发 57,051,024.68元 32,450,650.28元 43.12 -58.55"
+    },
+    {
+      "name": "商业服务",
+      "segment_type": "business_unit",
+      "revenue_amount": "29,184,876.03元",
+      "revenue_proportion": null,
+      "gross_margin": "52.45%",
+      "yoy_change": "13.07%",
+      "quote": "商业服务 29,184,876.03元 13,876,712.50元 52.45 13.07"
+    },
+    {
+      "name": "旅游餐饮服务业",
+      "segment_type": "business_unit",
+      "revenue_amount": "8,182,093.83元",
+      "revenue_proportion": null,
+      "gross_margin": "78.64%",
+      "yoy_change": "-31.23%",
+      "quote": "旅游餐饮服务业 8,182,093.83元 1,747,287.75元 78.64 -31.23"
+    },
+    {
+      "name": "房产租赁及物业管理",
+      "segment_type": "business_unit",
+      "revenue_amount": "245,567,102.99元",
+      "revenue_proportion": null,
+      "gross_margin": "65.61%",
+      "yoy_change": "-7.76%",
+      "quote": "房产租赁及物业管理 245,567,102.99元 84,461,872.98元 65.61 -7.76"
+    },
+    {
+      "name": "上海地区",
+      "segment_type": "region",
+      "revenue_amount": "571,958,520.49元",
+      "revenue_proportion": null,
+      "gross_margin": "48.66%",
+      "yoy_change": "-19.90%",
+      "quote": "上海 571,958,520.49元 293,620,482.41元 48.66 -19.90"
+    },
+    {
+      "name": "上海以外地区",
+      "segment_type": "region",
+      "revenue_amount": "96,094,542.10元",
+      "revenue_proportion": null,
+      "gross_margin": "50.11%",
+      "yoy_change": "-26.95%",
+      "quote": "上海以外地区 96,094,542.10元 47,938,887.31元 50.11 -26.95"
+    },
+    {
+      "name": "内衣（产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "227,353,497.58元",
+      "revenue_proportion": null,
+      "gross_margin": "54.99%",
+      "yoy_change": "-21.88%",
+      "quote": "内衣 227,353,497.58元 102,326,752.30元 54.99 -21.88"
+    },
+    {
+      "name": "黄金珠宝（产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "61,332,017.82元",
+      "revenue_proportion": null,
+      "gross_margin": "12.75%",
+      "yoy_change": "-41.16%",
+      "quote": "黄金珠宝 61,332,017.82元 53,512,780.92元 12.75 -41.16"
+    },
+    {
+      "name": "百货（产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "96,433,474.34元",
+      "revenue_proportion": null,
+      "gross_margin": "11.20%",
+      "yoy_change": "-34.12%",
+      "quote": "百货 96,433,474.34元 85,633,963.27元 11.20 -34.12"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "连锁门店",
+      "metric_type": "inventory_volume",
+      "value": "733家（自营299家，加盟434家）",
+      "period": "报告期末",
+      "quote": "截止本报告期末，公司拥有特色连锁品牌实体门店柜共733家（自营299家，加盟434家）"
+    },
+    {
+      "product": "自有物业",
+      "metric_type": "capacity",
+      "value": "16.70万平方米",
+      "period": "报告期末",
+      "quote": "公司目前自有物业16.70万平方米"
+    },
+    {
+      "product": "养老床位",
+      "metric_type": "capacity",
+      "value": "182张",
+      "period": "报告期末",
+      "quote": "共计拥有182张床位。"
+    },
+    {
+      "product": "库存商品",
+      "metric_type": "inventory_volume",
+      "value": "292,501,167.62元（其中内衣和黄金珠宝占94.20%）",
+      "period": "报告期末",
+      "quote": "截止本报告期末，公司存货账面余额总计305,005,085.90元，其中库存商品账面余额总计292,501,167.62元，内衣和黄金珠宝占库存商品账面余额94.20%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "金雁坊外立面改造一期工程",
+      "project_type": "construction_project",
+      "location": "上海市雁荡路",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司完成金雁坊外立面改造一期工程，启动新歌商厦外立面改造项目"
+    },
+    {
+      "name": "新歌商厦外立面改造项目",
+      "project_type": "construction_project",
+      "location": "上海市淮海中路",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "启动",
+      "expected_completion_time": null,
+      "quote": "启动新歌商厦外立面改造项目"
+    },
+    {
+      "name": "旗舰店升级项目（古今品牌）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "聚焦",
+      "expected_completion_time": null,
+      "quote": "古今品牌聚焦转换经营模式、打造渠道布局、创新产品设计、优化人才结构和完善供应链建设，做好旗舰店升级项目"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "智能内衣原型（监测健康数据）",
+      "asset_type": "process_technology",
+      "related_product": "内衣",
+      "quantitative_info": null,
+      "quote": "研发可监测健康数据的智能内衣原型，探索布局智能穿戴领域"
+    },
+    {
+      "name": "镜面金、螺钿系列、古法点钻等创新工艺产品",
+      "asset_type": "process_technology",
+      "related_product": "黄金珠宝",
+      "quantitative_info": null,
+      "quote": "成功引进镜面金、螺钿系列、古法点钻等创新工艺产品及小克重黄金摆件百余款"
+    },
+    {
+      "name": "研发人员",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "11人，占总人数0.84%",
+      "quote": "公司研发人员的数量 11人 研发人员数量占公司总人数的比例（%） 0.84"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "10,937.97万元，占年度销售总额16.15%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额10,937.97万元，占年度销售总额16.15%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "11,679.99万元，占年度采购总额44.55%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额11,679.99万元，占年度采购总额44.55%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "消费市场与宏观经济周期高度联动。公司核心租赁客户的经营韧性受居民消费意愿与可支配收入变化直接影响...对企业的目标客户群体产生分流效应。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济波动对商户经营的传导风险...对企业的目标客户群体产生分流效应。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "线上渗透率普遍超40%，而公司当前线上销售占比仍低于20%，渠道结构滞后于市场演进。实体门店销售疲软直接削弱招商吸引力，导致优质品牌入驻意愿下降，租金议价能力承压，传统百货‘以店带租’模式面临系统性挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、渠道重构下的零售业态竞争压力...传统百货‘以店带租’模式面临系统性挑战。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "公司正推进从‘物业持有者’向‘消费场景运营商’转型，布局智慧门店、国潮联名、体验式零售等创新板块。然而...转型成效存在显著不确定性，短期难以对冲传统业务下滑压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、转型投入与市场响应的时滞风险...短期难以对冲传统业务下滑压力。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司存货账面余额总计305,005,085.90元，其中库存商品账面余额总计292,501,167.62元...管理层在资产负债表日对存货进行减值测试，对在当年削价处理的滞销产品以及已经停产的次滞销产品，计提存货跌价准备。",
+      "related_entity": null,
+      "related_product": "内衣、黄金珠宝",
+      "quote": "由于益民集团存货金额较大，其计价准确性对当期财务报表具有较大影响...对在当年削价处理的滞销产品以及已经停产的次滞销产品，计提存货跌价准备。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司报告期存在多起重大诉讼、仲裁事项，如起诉浙江天宝坊、栗硕公司、风华依皓公司等，涉及租赁合同纠纷、货款追偿等。",
+      "related_entity": "浙江天宝坊黄金珠宝有限公司、栗硕（上海）置业有限责任公司、上海风华依皓娱乐有限公司等",
+      "related_product": null,
+      "quote": "九、重大诉讼、仲裁事项...如起诉浙江天宝坊、栗硕公司、风华依皓公司等"
+    }
+  ]
+}

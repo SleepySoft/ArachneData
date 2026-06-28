@@ -1,0 +1,435 @@
+{
+  "company_name_mentioned": "上海金力泰化工股份有限公司",
+  "produces": [
+    {
+      "name": "阴极电泳漆",
+      "type": "material",
+      "revenue_proportion": "56.48%",
+      "quote": "分产品：阴极电泳漆 453,339,397.37 56.48%...产品广泛应用于整车涂装环节...公司阴极电泳漆与面漆在商用车市场占有率处于市场头部地位"
+    },
+    {
+      "name": "汽车面漆（高温面漆、低温面漆）",
+      "type": "material",
+      "revenue_proportion": "42.01%",
+      "quote": "分产品：面漆 337,138,021.87 42.01%...公司长期专注于汽车面漆领域，构建了水性和溶剂型两大产品线，涵盖中涂漆、底色漆及罩光清漆三大类产品。"
+    },
+    {
+      "name": "陶瓷涂料",
+      "type": "material",
+      "revenue_proportion": "0.01%",
+      "quote": "分产品：陶瓷涂料 68,686.22 0.01%...公司陶瓷涂料可达到A1级防火等级及9H超高硬度..."
+    },
+    {
+      "name": "3C涂料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "3C涂料领域为公司2024年起重点培育的新兴业务板块...核心产品线覆盖水性/溶剂性高温涂料、聚氨酯涂料、UV涂料、电镀银涂料、真空电镀UV涂料等。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "环氧树脂",
+      "target_product": "涂料",
+      "cost_proportion": "11.24%",
+      "quote": "主要原材料的采购模式：环氧树脂...采购额占采购总额的比例 11.24%...公司所处行业的上游主要为树脂、颜料、溶剂及助剂等化工原材料。"
+    },
+    {
+      "name": "双酚A",
+      "target_product": "涂料",
+      "cost_proportion": "2.34%",
+      "quote": "主要原材料的采购模式：双酚A...采购额占采购总额的比例 2.34%"
+    },
+    {
+      "name": "乙二醇丁醚",
+      "target_product": "涂料",
+      "cost_proportion": "4.38%",
+      "quote": "主要原材料的采购模式：乙二醇丁醚...采购额占采购总额的比例 4.38%"
+    },
+    {
+      "name": "醋酸丁酯",
+      "target_product": "涂料",
+      "cost_proportion": "1.90%",
+      "quote": "主要原材料的采购模式：醋酸丁酯...采购额占采购总额的比例 1.90%"
+    },
+    {
+      "name": "树脂",
+      "target_product": "涂料",
+      "cost_proportion": null,
+      "quote": "公司主要业务...长期专注于高性能环保汽车原厂车身涂料与零部件涂料的研发、生产与销售...汽车涂料行业的主要原材料包括树脂、溶剂、助剂、颜填料等"
+    },
+    {
+      "name": "溶剂",
+      "target_product": "涂料",
+      "cost_proportion": null,
+      "quote": "公司主要业务...汽车涂料行业的主要原材料包括树脂、溶剂、助剂、颜填料等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车整车涂装",
+      "source_product": "阴极电泳漆、汽车面漆",
+      "quote": "产品广泛应用于整车涂装环节，包括车身、保险杠等核心部件的防护与装饰。"
+    },
+    {
+      "name": "商用车",
+      "source_product": "阴极电泳漆、汽车面漆",
+      "quote": "公司阴极电泳漆与面漆在商用车市场占有率处于市场头部地位"
+    },
+    {
+      "name": "乘用车",
+      "source_product": "汽车面漆、零部件涂料",
+      "quote": "乘用车方面，公司持续开拓乘用车车身涂料与零部件涂料"
+    },
+    {
+      "name": "摩托车",
+      "source_product": "阴极电泳漆、面漆",
+      "quote": "公司主营产品还可应用于摩托车、电动车、工程机械、轻工零部件等领域。"
+    },
+    {
+      "name": "电动车",
+      "source_product": "阴极电泳漆、面漆",
+      "quote": "公司主营产品还可应用于摩托车、电动车、工程机械、轻工零部件等领域。"
+    },
+    {
+      "name": "工程机械",
+      "source_product": "阴极电泳漆、面漆",
+      "quote": "公司主营产品还可应用于摩托车、电动车、工程机械、轻工零部件等领域。"
+    },
+    {
+      "name": "轻工零部件",
+      "source_product": "阴极电泳漆、面漆",
+      "quote": "公司主营产品还可应用于摩托车、电动车、工程机械、轻工零部件等领域。"
+    },
+    {
+      "name": "汽车零部件（保险杠、后视镜等）",
+      "source_product": "低温漆、零部件漆",
+      "quote": "针对塑料零部件（如保险杠、后视镜）的低温漆"
+    },
+    {
+      "name": "消费电子（笔记本电脑等）",
+      "source_product": "3C涂料",
+      "quote": "3C涂料领域...聚焦消费电子与汽车内饰涂料研发及市场推广...笔记本电脑用水性涂料获得冠捷科技台湾签样"
+    },
+    {
+      "name": "汽车内饰",
+      "source_product": "3C涂料",
+      "quote": "3C涂料领域...聚焦消费电子与汽车内饰涂料研发及市场推广...汽车内饰领域成功切入，双固化UV钢琴黑与电镀银涂料正式应用于汽车内饰"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郝大庆",
+      "role": "董事长",
+      "quote": "公司负责人郝大庆...公司董事会及董事、高级管理人员...董事长 郝大庆"
+    },
+    {
+      "name": "吴纯超",
+      "role": "总裁、董事",
+      "quote": "总裁...吴纯超...吴纯超 男 42 董事、总裁"
+    },
+    {
+      "name": "隋静媛",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人隋静媛及会计机构负责人(会计主管人员)隋静媛...隋静媛 女 54 财务总监"
+    },
+    {
+      "name": "王子炜",
+      "role": "副总裁、董事",
+      "quote": "王子炜 男 53 董事、副总裁"
+    },
+    {
+      "name": "马安乐",
+      "role": "副董事长、董事",
+      "quote": "马安乐 男 44 董事...2026年 3月2日...公司同意选举马安乐先生为公司副董事长"
+    },
+    {
+      "name": "许子军",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 许子军...许子军 男 43 董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "巴斯夫（BASF）",
+      "relation_type": "competitor",
+      "business_details": "国际知名涂料企业，汽车涂料行业主要竞争对手",
+      "quote": "巴斯夫、PPG、立邦、艾仕得、关西等五家涂料业巨头...国际知名涂料企业以及国内包括本公司在内的少数几家企业之间的竞争"
+    },
+    {
+      "name": "PPG",
+      "relation_type": "competitor",
+      "business_details": "国际知名涂料企业，汽车涂料行业主要竞争对手",
+      "quote": "巴斯夫、PPG、立邦、艾仕得、关西等五家涂料业巨头"
+    },
+    {
+      "name": "立邦",
+      "relation_type": "competitor",
+      "business_details": "国际知名涂料企业，汽车涂料行业主要竞争对手",
+      "quote": "巴斯夫、PPG、立邦、艾仕得、关西等五家涂料业巨头"
+    },
+    {
+      "name": "艾仕得",
+      "relation_type": "competitor",
+      "business_details": "国际知名涂料企业，汽车涂料行业主要竞争对手",
+      "quote": "巴斯夫、PPG、立邦、艾仕得、关西等五家涂料业巨头"
+    },
+    {
+      "name": "关西",
+      "relation_type": "competitor",
+      "business_details": "国际知名涂料企业，汽车涂料行业主要竞争对手",
+      "quote": "巴斯夫、PPG、立邦、艾仕得、关西等五家涂料业巨头"
+    },
+    {
+      "name": "零跑汽车",
+      "relation_type": "customer",
+      "business_details": "低温漆产品获得其认证并实现批量供货",
+      "quote": "公司低温漆产品成功获得零跑汽车认证并实现稳定批量供货"
+    },
+    {
+      "name": "斯堪尼亚",
+      "relation_type": "customer",
+      "business_details": "全球商用车龙头，成功中标",
+      "quote": "成功中标全球商用车龙头企业斯堪尼亚"
+    },
+    {
+      "name": "福田",
+      "relation_type": "customer",
+      "business_details": "商用车重点主机厂，持续深化合作",
+      "quote": "与福田、陕汽、重汽、三一商用...等重点主机厂的合作深度不断加强"
+    },
+    {
+      "name": "供应商一",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，2025年采购额41,888,420.78元",
+      "quote": "公司前5大供应商资料：序号1 供应商一 41,888,420.78 10.27%"
+    },
+    {
+      "name": "嘉兴领瑞投资合伙企业（有限合伙）",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，从事实业投资、投资管理",
+      "quote": "主要控股参股公司分析...嘉兴领瑞实业投资...投资合伙企业（有限合伙）"
+    },
+    {
+      "name": "上海金力泰化工销售有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "为满足公司全资子公司上海金力泰化工销售有限公司（以下简称“金力泰销售公司”）的日常生产经营和业务发展需要"
+    },
+    {
+      "name": "兴业银行股份有限公司",
+      "relation_type": "other",
+      "business_details": "银行授信贷款方",
+      "quote": "将自有房地产...抵押给兴业银行股份有限公司上海分行（以下简称“兴业银行上海分行”）申请授信额度"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "主机厂",
+      "segment_type": "customer_type",
+      "revenue_amount": "264,064,477.27元",
+      "revenue_proportion": "32.90%",
+      "gross_margin": "34.64%",
+      "yoy_change": "15.68%",
+      "quote": "分行业：主机厂 264,064,477.27 32.90%...分行业：主机厂 34.64% 15.68% 11.44% 2.48%"
+    },
+    {
+      "name": "非主机厂",
+      "segment_type": "customer_type",
+      "revenue_amount": "538,540,198.27元",
+      "revenue_proportion": "67.10%",
+      "gross_margin": "29.03%",
+      "yoy_change": "7.01%",
+      "quote": "分行业：非主机厂 538,540,198.27 67.10%...分行业：非主机厂 29.03% 7.01% 8.48% -0.96%"
+    },
+    {
+      "name": "阴极电泳漆",
+      "segment_type": "product_line",
+      "revenue_amount": "453,339,397.37元",
+      "revenue_proportion": "56.48%",
+      "gross_margin": "32.55%",
+      "yoy_change": "-0.63%",
+      "quote": "分产品：阴极电泳漆 453,339,397.37 56.48%...分产品：阴极电泳漆 32.55% -0.63% -2.37% 1.20%"
+    },
+    {
+      "name": "面漆",
+      "segment_type": "product_line",
+      "revenue_amount": "337,138,021.87元",
+      "revenue_proportion": "42.01%",
+      "gross_margin": "30.26%",
+      "yoy_change": "30.53%",
+      "quote": "分产品：面漆 337,138,021.87 42.01%...分产品：面漆 30.26% 30.53% 31.58% -0.56%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "516,504,006.35元",
+      "revenue_proportion": "64.35%",
+      "gross_margin": "28.67%",
+      "yoy_change": "3.89%",
+      "quote": "分地区：华东地区 516,504,006.35 64.35%...分地区：华东地区 28.67% 3.89% 4.84% -0.65%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "阴极电泳漆",
+      "metric_type": "capacity",
+      "value": "70,000吨/年",
+      "period": "2025年",
+      "quote": "主要产品 设计产能：阴极电泳漆 70,000吨/年"
+    },
+    {
+      "product": "阴极电泳漆",
+      "metric_type": "capacity_utilization",
+      "value": "56.00%",
+      "period": "2025年",
+      "quote": "主要产品 产能利用率：阴极电泳漆 56.00%"
+    },
+    {
+      "product": "面漆",
+      "metric_type": "capacity",
+      "value": "20,000吨/年",
+      "period": "2025年",
+      "quote": "主要产品 设计产能：面漆 20,000吨/年"
+    },
+    {
+      "product": "面漆",
+      "metric_type": "capacity_utilization",
+      "value": "55.00%",
+      "period": "2025年",
+      "quote": "主要产品 产能利用率：面漆 55.00%"
+    },
+    {
+      "product": "涂料行业",
+      "metric_type": "sales_volume",
+      "value": "49,019.85吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 销售量 吨 2025年 49,019.85"
+    },
+    {
+      "product": "涂料行业",
+      "metric_type": "production_volume",
+      "value": "50,871.52吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 生产量 吨 2025年 50,871.52"
+    },
+    {
+      "product": "涂料行业",
+      "metric_type": "inventory_volume",
+      "value": "7,187.05吨",
+      "period": "2025年末",
+      "quote": "行业分类 项目 库存量 吨 2025年 7,187.05"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "树脂自制技术",
+      "asset_type": "core_technology",
+      "related_product": "阴极电泳漆、面漆",
+      "quantitative_info": null,
+      "quote": "树脂自制，把握汽车涂料的核心关键技术...国际知名涂料企业均掌握着其涂料产品的核心树脂自制技术，以此构建各自的竞争壁垒。"
+    },
+    {
+      "name": "智能涂装实验室",
+      "asset_type": "technical_platform",
+      "related_product": "水性面漆",
+      "quantitative_info": "2020年4月投入使用",
+      "quote": "公司智能涂装实验室已于2020年4月份投入使用...实验室内自主研发的喷涂往复机器人集成了目前国内外最主流的喷涂雾化器总成"
+    },
+    {
+      "name": "CNAS实验室",
+      "asset_type": "certification",
+      "related_product": "涂料产品",
+      "quantitative_info": "2022年7月获得认可",
+      "quote": "公司于2022年7月获得中国合格评定国家认可委员会（CNAS）实验室认可证书"
+    },
+    {
+      "name": "低温防流挂树脂",
+      "asset_type": "process_technology",
+      "related_product": "涂料产品",
+      "quantitative_info": null,
+      "quote": "公司突破了低温防流挂树脂...的技术壁垒...目前低温防流挂树脂已应用于公司涂料产品中"
+    },
+    {
+      "name": "高触变水性聚氨酯丙烯酸树脂",
+      "asset_type": "process_technology",
+      "related_product": "涂料产品",
+      "quantitative_info": "已在某知名主机厂完成试线验证",
+      "quote": "高触变水性聚氨酯丙烯酸树脂...已在国内某知名主机厂完成试线验证"
+    },
+    {
+      "name": "含双酰胺结构的树脂、含该树脂的阴极电泳涂料及其制法",
+      "asset_type": "patent",
+      "related_product": "阴极电泳漆",
+      "quantitative_info": "ZL 2006 1 0028896.X",
+      "quote": "阴极电泳涂料产品涉及的专利技术如下：专利类型 发明专利 专利名称 含双酰胺结构的树脂、含该树脂的阴极电泳涂料及其制法 专利号 ZL 2006 1 0028896.X"
+    },
+    {
+      "name": "低VOC阴极电泳涂料树脂的降粘增韧及原位合成方法",
+      "asset_type": "patent",
+      "related_product": "阴极电泳漆",
+      "quantitative_info": "ZL 2013 1 0090649.2",
+      "quote": "专利类型 发明专利 专利名称 低VOC阴极电泳涂料树脂的降粘增韧及原位合成方法 专利号 ZL 2013 1 0090649.2"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28.14%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 225,874,819.03 前五名客户合计销售金额占年度销售总额比例 28.14%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "27.24%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 111,069,735.33 前五名供应商合计采购金额占年度采购总额比例 27.24%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "化工类原材料占公司生产成本比重较大，其价格不仅与原油价格相关，还与原材料的供需、产能情况相关。原材料价格若出现较大幅度波动，则将直接影响公司成本，或对公司经营业绩产生影响。",
+      "related_entity": null,
+      "related_product": "涂料产品",
+      "quote": "1、原材料价格波动导致营业成本变化的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "目前，我国汽车涂料市场竞争能力主要体现在资金实力、研发实力、产品品质、及时配套能力以及现场服务能力等各个环节，竞争市场化程度越来越高...目前国内市场竞争态势已形成以国际知名涂料企业以及国内包括本公司在内的少数几家企业之间的竞争。",
+      "related_entity": null,
+      "related_product": "汽车涂料",
+      "quote": "3、市场竞争加剧的风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "随着国家环境保护力度的日益增强，国家及地方政府可能在将来出台更为严格的环境保护标准，因此公司在环境保护方面的投入和支出可能会相应增加",
+      "related_entity": null,
+      "related_product": "涂料产品",
+      "quote": "6、环境保护风险"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司主要从事涂料、溶剂等化学品的研发、生产、销售，部分原材料、副产品、产成品本身具有易燃、易爆或有害的特性。另外，公司产品生产过程中涉及高温、高压等危险环境，对操作要求较高...仍存在因操作不当、设备故障或自然灾害等因素发生意外安全事故的潜在可能性。",
+      "related_entity": null,
+      "related_product": "涂料、溶剂",
+      "quote": "5、安全生产风险"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "如果公司下游客户受到宏观经济波动、市场竞争加剧、汽车产业需求波动的影响，下游客户可能出现资金紧张或经营业绩下滑等情况，进而可能导致公司货款回笼压力增大的风险。",
+      "related_entity": null,
+      "related_product": "涂料产品",
+      "quote": "4、应收账款及存货呆滞库存的风险"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "客户因市场变化而不能如期消耗库存，从而导致呆滞库存上升的风险。",
+      "related_entity": null,
+      "related_product": "涂料产品",
+      "quote": "4、应收账款及存货呆滞库存的风险"
+    }
+  ]
+}

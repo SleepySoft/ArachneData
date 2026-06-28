@@ -1,0 +1,509 @@
+{
+  "company_name_mentioned": "深圳市长盈精密技术股份有限公司",
+  "produces": [
+    {
+      "name": "智能终端及电子产品精密零组件",
+      "type": "component",
+      "revenue_proportion": "62.56%",
+      "quote": "智能终端及电子产品 11,772,779,539.56 62.56%"
+    },
+    {
+      "name": "新能源关键结构件及连接组件",
+      "type": "component",
+      "revenue_proportion": "36.46%",
+      "quote": "新能源产品零组件 6,862,112,552.36 36.46%"
+    },
+    {
+      "name": "具身智能与新兴科技硬件",
+      "type": "device",
+      "revenue_proportion": "0.98%",
+      "quote": "机器人及其他 183,801,433.75 0.98%"
+    },
+    {
+      "name": "电子连接器及智能电子产品精密小件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "在消费电子领域，公司主要开发、生产、销售电子连接器及智能电子产品精密小件、精密结构件及模组等产品"
+    },
+    {
+      "name": "动力及储能电池精密零组件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "在新能源领域，公司主要开发、生产、销售动力及储能电池精密零组件，新能源电连接及模组产品"
+    },
+    {
+      "name": "人形机器人精密零组件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "报告期内，公司交付约 69 万件人形机器人精密零组件，其中海外客户出货约占 80%。公司人形机器人业务营收达1亿元。"
+    },
+    {
+      "name": "高速铜连接模组产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司收购了深圳市威线科电子有限公司 51% 的股权，丰富了高速铜连接模组产品线，为海外连接器头部客户及AI服务器客户提供产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "智能终端及电子产品",
+      "cost_proportion": "36.11%",
+      "quote": "智能终端及电子产品 直接材料 3,335,983,626.64 36.11%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "智能终端及电子产品",
+      "cost_proportion": "25.35%",
+      "quote": "直接人工 2,341,932,565.37 25.35%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "智能终端及电子产品",
+      "cost_proportion": "38.54%",
+      "quote": "制造费用 3,560,476,570.78 38.54%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "新能源产品零组件",
+      "cost_proportion": "69.71%",
+      "quote": "新能源产品零组件 直接材料 4,098,602,554.53 69.71%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "新能源产品零组件",
+      "cost_proportion": "13.32%",
+      "quote": "直接人工 783,149,993.21 13.32%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "新能源产品零组件",
+      "cost_proportion": "16.97%",
+      "quote": "制造费用 997,751,905.76 16.97%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "机器人及其他",
+      "cost_proportion": "59.09%",
+      "quote": "机器人及其他 直接材料 79,048,484.07 59.09%"
+    },
+    {
+      "name": "直接人工",
+      "target_product": "机器人及其他",
+      "cost_proportion": "16.89%",
+      "quote": "直接人工 22,594,836.62 16.89%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "机器人及其他",
+      "cost_proportion": "24.02%",
+      "quote": "制造费用 32,133,095.07 24.02%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能手机、可穿戴设备、笔记本电脑等消费电子及IoT产品",
+      "source_product": "智能终端及电子产品精密零组件",
+      "quote": "涵盖智能手机、可穿戴设备、笔记本电脑等多元化消费电子及 IoT 产品的精密结构构件、外观件、功能模组与电子连接器。"
+    },
+    {
+      "name": "动力电池及储能电池",
+      "source_product": "新能源关键结构件及连接组件",
+      "quote": "涵盖动力电池及储能电池中对安全性能至关重要的精密壳体、箱体、盖板及高压电连接产品。"
+    },
+    {
+      "name": "人形机器人、AI数据中心、商业卫星通信",
+      "source_product": "具身智能与新兴科技硬件",
+      "quote": "涵盖人形机器人精密零组件及总成、AI 数据中心基础设施硬件（包括高速互联连接模组、服务器机柜箱体、光模块壳体结构件及液冷散热核心零部件），以及商业卫星通信精密结构件等前沿领域的精密结构件。"
+    },
+    {
+      "name": "笔记本电脑、可穿戴设备、智能家居、智能手机、电子书",
+      "source_product": null,
+      "quote": "下游应用终端包括笔记本电脑、可穿戴设备、智能家居、智能手机、电子书等。"
+    },
+    {
+      "name": "电池生产商、模组集成商、整车厂",
+      "source_product": null,
+      "quote": "下游客户包括电池生产商、模组集成商、整车厂等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈奇星",
+      "role": "公司负责人、法定代表人、董事长、控股股东、实际控制人",
+      "quote": "公司负责人陈奇星、主管会计工作负责人朱守力及会计机构负责人(会计主管人员)徐达海声明；公司的法定代表人 陈奇星"
+    },
+    {
+      "name": "朱守力",
+      "role": "主管会计工作负责人、财务总监、董事",
+      "quote": "主管会计工作负责人朱守力；财务总监 朱守力"
+    },
+    {
+      "name": "徐达海",
+      "role": "会计机构负责人(会计主管人员)、职工代表董事",
+      "quote": "会计机构负责人(会计主管人员)徐达海；职工代表董事 徐达海"
+    },
+    {
+      "name": "陈小硕",
+      "role": "副董事长、总经理",
+      "quote": "陈小硕 男 45 总经理 副董事长"
+    },
+    {
+      "name": "胡宇龙",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书 胡宇龙"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "宁波长盈粤富投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东名称 宁波长盈粤富投资有限公司"
+    },
+    {
+      "name": "昆山长盈精密技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司全资子公司",
+      "quote": "昆山长盈 指 昆山长盈精密技术有限公司，本公司全资子公司"
+    },
+    {
+      "name": "广东长盈精密技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司全资子公司",
+      "quote": "广东长盈 指 广东长盈精密技术有限公司，本公司全资子公司"
+    },
+    {
+      "name": "深圳市威线科电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司控股子公司，高速线缆、应用于工业机器人、安防以及消费类电子的线缆生产",
+      "quote": "公司收购了深圳市威线科电子有限公司 51% 的股权"
+    },
+    {
+      "name": "广东天机智能系统有限公司",
+      "relation_type": "customer",
+      "business_details": "关联自然人担任董事的企业；采购机器人及配件、维修费；出售物业管理费等",
+      "quote": "关联自然人担任董事的企业 广东天机智能系统有限公司"
+    },
+    {
+      "name": "深圳市海鹏信电子股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "同一实际控制人；采购设备零件",
+      "quote": "深圳市海鹏信电子股份有限公司 同一实际控制人 采购 设备零件"
+    },
+    {
+      "name": "深圳市海鹏信电子股份有限公司",
+      "relation_type": "customer",
+      "business_details": "同一实际控制人；出售五金产品、连接器产品",
+      "quote": "深圳市海鹏信电子股份有限公司 同一实际控制人 出售 五金产品、连接器产品"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "智能终端及电子产品",
+      "segment_type": "business_unit",
+      "revenue_amount": "11,772,779,539.56元",
+      "revenue_proportion": "62.56%",
+      "gross_margin": "21.53%",
+      "yoy_change": "0.71%",
+      "quote": "智能终端及电子产品 11,772,779,539.56 62.56% ... 毛利率比上年同期增减 1.76%"
+    },
+    {
+      "name": "新能源产品零组件",
+      "segment_type": "business_unit",
+      "revenue_amount": "6,862,112,552.36元",
+      "revenue_proportion": "36.46%",
+      "gross_margin": "14.32%",
+      "yoy_change": "31.61%",
+      "quote": "新能源产品零组件 6,862,112,552.36 36.46% ... 毛利率比上年同期增减 -1.39%"
+    },
+    {
+      "name": "机器人及其他",
+      "segment_type": "business_unit",
+      "revenue_amount": "183,801,433.75元",
+      "revenue_proportion": "0.98%",
+      "gross_margin": null,
+      "yoy_change": "506.87%",
+      "quote": "机器人及其他 183,801,433.75 0.98%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "business_unit",
+      "revenue_amount": "721,277,330.81元",
+      "revenue_proportion": "3.83%",
+      "gross_margin": null,
+      "yoy_change": "14.35%",
+      "quote": "其他 721,277,330.81 3.83%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "10,835,324,559.63元",
+      "revenue_proportion": "57.58%",
+      "gross_margin": "16.73%",
+      "yoy_change": "25.64%",
+      "quote": "境内 10,835,324,559.63 57.58% ... 毛利率比上年同期增减 -1.78%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "7,983,368,966.04元",
+      "revenue_proportion": "42.42%",
+      "gross_margin": "21.79%",
+      "yoy_change": "-3.93%",
+      "quote": "境外 7,983,368,966.04 42.42% ... 毛利率比上年同期增减 3.28%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "18,818,693,525.67元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "18.87%",
+      "yoy_change": "11.13%",
+      "quote": "直接销售 18,818,693,525.67 100.00%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "智能终端及电子产品",
+      "metric_type": "sales_volume",
+      "value": "10,730,687.189千只",
+      "period": "2025年",
+      "quote": "智能终端及电子产品 销售量 千只 10,730,687.189"
+    },
+    {
+      "product": "智能终端及电子产品",
+      "metric_type": "production_volume",
+      "value": "11,086,814.797千只",
+      "period": "2025年",
+      "quote": "生产量 千只 11,086,814.797"
+    },
+    {
+      "product": "智能终端及电子产品",
+      "metric_type": "inventory_volume",
+      "value": "686,146.849千只",
+      "period": "2025年末",
+      "quote": "库存量 千只 686,146.849"
+    },
+    {
+      "product": "新能源产品零组件",
+      "metric_type": "sales_volume",
+      "value": "1,050,568.288千只",
+      "period": "2025年",
+      "quote": "新能源产品零组件 销售量 千只 1,050,568.288"
+    },
+    {
+      "product": "新能源产品零组件",
+      "metric_type": "production_volume",
+      "value": "1,067,679.058千只",
+      "period": "2025年",
+      "quote": "生产量 千只 1,067,679.058"
+    },
+    {
+      "product": "新能源产品零组件",
+      "metric_type": "inventory_volume",
+      "value": "49,985.404千只",
+      "period": "2025年末",
+      "quote": "库存量 千只 49,985.404"
+    },
+    {
+      "product": "人形机器人精密零组件",
+      "metric_type": "sales_volume",
+      "value": "约69万件",
+      "period": "报告期内",
+      "quote": "报告期内，公司交付约 69 万件人形机器人精密零组件"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "总部燕罗基地建设",
+      "project_type": "construction_project",
+      "location": "深圳",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设全面启动，标杆车间建成投用",
+      "expected_completion_time": null,
+      "quote": "国内方面，总部燕罗基地建设全面启动，标杆车间建成投用"
+    },
+    {
+      "name": "科伦特苏州基地一期",
+      "project_type": "construction_project",
+      "location": "苏州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建成投产",
+      "expected_completion_time": null,
+      "quote": "科伦特苏州基地一期建成投产"
+    },
+    {
+      "name": "宜宾二期",
+      "project_type": "capacity_expansion",
+      "location": "宜宾",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "顺利达产",
+      "expected_completion_time": null,
+      "quote": "宜宾二期顺利达产"
+    },
+    {
+      "name": "盐城基地",
+      "project_type": "construction_project",
+      "location": "盐城",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建设按计划推进",
+      "expected_completion_time": null,
+      "quote": "盐城基地建设按计划推进"
+    },
+    {
+      "name": "匈牙利生产基地",
+      "project_type": "construction_project",
+      "location": "匈牙利",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正式落子并启动建设",
+      "expected_completion_time": null,
+      "quote": "海外方面，匈牙利生产基地正式落子并启动建设"
+    },
+    {
+      "name": "墨西哥工厂",
+      "project_type": "capacity_expansion",
+      "location": "墨西哥",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "实现量产",
+      "expected_completion_time": null,
+      "quote": "墨西哥工厂实现量产"
+    },
+    {
+      "name": "越南工厂",
+      "project_type": "capacity_expansion",
+      "location": "越南",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "产能稳步爬坡",
+      "expected_completion_time": null,
+      "quote": "越南工厂产能稳步爬坡"
+    },
+    {
+      "name": "常州长盈新能源动力及储能电池零组件项目",
+      "project_type": "fundraising_project",
+      "location": "常州",
+      "investment_amount": "26,325.45万元",
+      "designed_capacity": null,
+      "progress": "项目建设期延长，达到预定可使用状态日期调整至2027年6月30日",
+      "expected_completion_time": "2027年6月30日",
+      "quote": "调整后“常州长盈新能源动力及储能电池零组件项目”达到预定可使用状态日期为2027年6月30日"
+    },
+    {
+      "name": "宜宾长盈新能源动力及储能电池零组件项目",
+      "project_type": "fundraising_project",
+      "location": "宜宾",
+      "investment_amount": "45,000万元",
+      "designed_capacity": null,
+      "progress": "项目主要投入为设备购置，公司谨慎进行产能布局",
+      "expected_completion_time": null,
+      "quote": "“宜宾长盈新能源动力及储能电池零组件项目”主要投入为设备购置，依据公司长远发展战略，并综合考虑内外部环境因素，公司谨慎进行产能布局"
+    },
+    {
+      "name": "智能可穿戴设备 AR/VR 零组件项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "40,000万元",
+      "designed_capacity": null,
+      "progress": "项目建设期延长，达到预定可使用状态日期调整至2027年12月31日",
+      "expected_completion_time": "2027年12月31日",
+      "quote": "“智能可穿戴设备AR/VR 零组件项目”达到预定可使用状态日期为2027年12月31日。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内新增授权专利234件，其中发明专利114件；截至报告期末，公司及子公司获得授权且有效专利2,014件，其中发明专利788件（包含海外授权专利31件）",
+      "quote": "报告期内新增授权专利234件，其中发明专利114件；新增新申请专利319件，其中发明专利137件，PCT 6件。... 截至2025年12月31日，公司及子公司获得授权且有效专利2,014件，其中发明专利788件（包含海外授权专利31件）。"
+    },
+    {
+      "name": "旋转抛光工艺",
+      "asset_type": "process_technology",
+      "related_product": "手机中框",
+      "quantitative_info": "已导入",
+      "quote": "旋转抛光工艺 手机中框打磨抛光工艺 已导入 降低工序平均成本"
+    },
+    {
+      "name": "56G高速背板传输连接技术",
+      "asset_type": "core_technology",
+      "related_product": "AI服务器高速背板连接器",
+      "quantitative_info": "56G高速信号设计仿真与测试能力，未来可扩展至112G",
+      "quote": "56G AI 服务器高速背板传输连接 已交付 1)56G高速信号设计仿真与测试能力,未来可扩展至112G"
+    },
+    {
+      "name": "纤维布注塑工艺",
+      "asset_type": "process_technology",
+      "related_product": "高拉力带项目",
+      "quantitative_info": "开发中",
+      "quote": "开发纤维布注塑工艺，实现纤维布的镭雕切割，并确保切割过程中纤维布无发黑、烧焦等不良现象"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "64.60%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 64.60%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "23.75%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "第一名 4,470,199,261.68 23.75%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "12.89%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 12.89%"
+    },
+    {
+      "metric_type": "customer_concentration",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司持续推进大客户战略，部分核心客户占比逐年上升，且在短期内将继续保持增长趋势。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "macroeconomic_fluctuation",
+      "description": "全球经济增长面临诸多不确定性，美国关税政策频繁调整，政策波动叠加通缩预期，可能削弱消费者对电子产品和新能源汽车等消费品的购买力。同时，全球贸易保护主义升温与地缘政治冲突也可能对全球供应链稳定性构成挑战。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、宏观经济及市场需求波动风险。全球经济增长面临诸多不确定性，美国关税政策频繁调整，政策波动叠加通缩预期，可能削弱消费者对电子产品和新能源汽车等消费品的购买力。同时，全球贸易保护主义升温与地缘政治冲突也可能对全球供应链稳定性构成挑战。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "因公司国际客户业务持续发展，外币收入占比较高，汇率波动对公司利润产生的影响增大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、汇率波动风险。因公司国际客户业务持续发展，外币收入占比较高，汇率波动对公司利润产生的影响增大。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司持续推进大客户战略，部分核心客户占比逐年上升，且在短期内将继续保持增长趋势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、客户集中度风险。近年来，公司持续推进大客户战略，部分核心客户占比逐年上升，且在短期内将继续保持增长趋势。"
+    },
+    {
+      "risk_type": "management_risk",
+      "description": "随着公司新基地建设项目增加，管理链条逐步延长，同时在资本运作、市场开拓、技术研发、资源整合等方面对公司管理团队和公司管理水平提出了更高的要求，总体管理难度加大。随着公司国际化战略的推进，对具备海外管理经验和跨文化沟通能力的人才需求日益增加，然而，目前公司内部此类人才储备不足，难以满足海外业务拓展的需求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、管理风险。随着公司新基地建设项目增加，管理链条逐步延长，同时在资本运作、市场开拓、技术研发、资源整合等方面对公司管理团队和公司管理水平提出了更高的要求，总体管理难度加大。随着公司国际化战略的推进，对具备海外管理经验和跨文化沟通能力的人才需求日益增加，然而，目前公司内部此类人才储备不足，难以满足海外业务拓展的需求。"
+    }
+  ]
+}

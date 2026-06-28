@@ -1,0 +1,516 @@
+{
+  "company_name_mentioned": "广州酒家集团股份有限公司",
+  "produces": [
+    {
+      "name": "月饼系列产品",
+      "type": "device",
+      "revenue_proportion": "38.30%（食品制造业务毛利率），其中月饼系列产品毛利率53.31%",
+      "quote": "月饼系列产品 1,651,781,477.03 771,178,672.87 53.31"
+    },
+    {
+      "name": "速冻食品",
+      "type": "device",
+      "revenue_proportion": "27.47%（速冻食品毛利率）",
+      "quote": "速冻食品 1,057,147,939.74 766,733,175.51 27.47"
+    },
+    {
+      "name": "其他产品",
+      "type": "device",
+      "revenue_proportion": "25.52%（其他产品毛利率）",
+      "quote": "其他产品 1,045,458,248.76 778,669,683.71 25.52"
+    },
+    {
+      "name": "餐饮服务业务",
+      "type": "service",
+      "revenue_proportion": "14.34%（餐饮服务业务毛利率）",
+      "quote": "餐饮服务业务 1,539,360,384.91 1,318,646,281.07 14.34"
+    },
+    {
+      "name": "其他商品销售业务",
+      "type": "service",
+      "revenue_proportion": "17.44%（其他商品销售业务毛利率）",
+      "quote": "其他商品销售业务 42,013,776.09 34,688,393.68 17.44"
+    }
+  ],
+  "procures": [
+    {
+      "name": "农产品、农副产品",
+      "target_product": "食品制造",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料，包括农产品、农副产品以及食品包装材料等"
+    },
+    {
+      "name": "食品包装材料",
+      "target_product": "食品制造",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要原材料，包括农产品、农副产品以及食品包装材料等"
+    },
+    {
+      "name": "生产能耗（燃料和动力）",
+      "target_product": "生产",
+      "cost_proportion": null,
+      "quote": "餐饮服务业务 原材料 52,796.97... 能源 6,153.94"
+    }
+  ],
+  "applications": [
+    {
+      "name": "节日食品（如中秋月饼、端午粽子）",
+      "source_product": "月饼系列产品、端午粽子",
+      "quote": "其产品涵盖广式月饼系列、端午粽子、年宵佳品等节令食品"
+    },
+    {
+      "name": "日常餐饮及速冻食品",
+      "source_product": "速冻食品、预制食品",
+      "quote": "牛乳馒头、鲜葱花卷、核桃包、流沙包等速冻产品，以及盆菜、滋补糖水、乳鸽系列等预制食品"
+    },
+    {
+      "name": "休闲零食",
+      "source_product": "休闲零食品类",
+      "quote": "推出以荔枝酥、金玉果酥为代表的岭南佳果系列和牛排脆等新品"
+    },
+    {
+      "name": "粤菜餐饮服务",
+      "source_product": "餐饮服务业务",
+      "quote": "让各地消费者品尝到地道广府菜肴与点心"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐伟兵",
+      "role": "董事长",
+      "quote": "公司负责人徐伟兵、主管会计工作负责人卢加及会计机构负责人（会计主管人员）陈苑声明"
+    },
+    {
+      "name": "赵利平",
+      "role": "副董事长、总经理",
+      "quote": "副董事长 赵利平 男 54... 总经理"
+    },
+    {
+      "name": "孙晓莉",
+      "role": "董事",
+      "quote": "孙晓莉 董事 女 51"
+    },
+    {
+      "name": "卢加",
+      "role": "财务总监、董事会秘书",
+      "quote": "主管会计工作负责人卢加"
+    },
+    {
+      "name": "潘建国",
+      "role": "副总经理",
+      "quote": "潘建国 副总经理 男 60"
+    },
+    {
+      "name": "黎钢",
+      "role": "副总经理",
+      "quote": "黎钢 副总经理 男 58"
+    },
+    {
+      "name": "晏日安",
+      "role": "独立董事",
+      "quote": "晏日安 独立董事 男 63"
+    },
+    {
+      "name": "刘火旺",
+      "role": "独立董事",
+      "quote": "刘火旺 独立董事 男 60"
+    },
+    {
+      "name": "刘晓军",
+      "role": "独立董事",
+      "quote": "刘晓军 独立董事 男 49"
+    },
+    {
+      "name": "樊霞",
+      "role": "独立董事",
+      "quote": "樊霞 独立董事 女 48"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "广州市城市建设投资集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "广州市国资委、实际控制人 指 广州市人民政府国有资产监督管理委员会\n广州城投、控股股东 指 广州市城市建设投资集团有限公司"
+    },
+    {
+      "name": "广州市人民政府国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "广州市国资委、实际控制人 指 广州市人民政府国有资产监督管理委员会"
+    },
+    {
+      "name": "广州酒家集团利口福食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，食品制造及销售",
+      "quote": "利口福公司、广州基地 指 广州酒家集团利口福食品有限公司，公司全资子公司"
+    },
+    {
+      "name": "广州酒家集团餐饮管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，餐饮服务",
+      "quote": "广州餐管公司 指 广州酒家集团餐饮管理有限公司，公司全资子公司"
+    },
+    {
+      "name": "广州酒家集团食品营销管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，食品销售",
+      "quote": "营销管理公司 指 广州酒家集团食品营销管理有限公司，公司全资子公司"
+    },
+    {
+      "name": "广州陶陶居有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，食品销售及餐饮服务",
+      "quote": "陶陶居、陶陶居公司 指 广州陶陶居有限公司，公司控股子公司"
+    },
+    {
+      "name": "广州酒家集团利口福（梅州）食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "利口福公司全资子公司，梅州基地",
+      "quote": "利口福梅州公司、梅州基地 指 广州酒家集团利口福（梅州）食品有限公司，利口福公司全资子公司"
+    },
+    {
+      "name": "广州酒家集团利口福（湘潭）食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "利口福公司全资子公司，湘潭基地",
+      "quote": "利口福湘潭公司、湘潭基地 指 广州酒家集团利口福（湘潭）食品有限公司，利口福公司全资子公司"
+    },
+    {
+      "name": "广州酒家集团粮丰园（茂名）食品有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "利口福公司控股子公司，茂名基地",
+      "quote": "粮丰园食品公司、茂名基地 指 广州酒家集团粮丰园（茂名）食品有限公司，利口福公司控股子公司"
+    },
+    {
+      "name": "广州市海越陶陶居餐饮管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "陶陶居公司全资子公司",
+      "quote": "海越陶陶居 指 广州市海越陶陶居餐饮管理有限公司，陶陶居公司全资子公司"
+    },
+    {
+      "name": "广州市食尚雅园餐饮管理有限公司",
+      "relation_type": "customer",
+      "business_details": "业绩承诺方（广州市海越陶陶居餐饮管理有限公司旗下5家门店）",
+      "quote": "广州市食尚雅园餐饮管理有限公司 净利润 2,716.98 2,281.87 83.99"
+    },
+    {
+      "name": "华兴会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "为本公司出具审计报告的会计师事务所",
+      "quote": "华兴会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "山姆",
+      "relation_type": "customer",
+      "business_details": "会员制商超渠道",
+      "quote": "公司多款产品进入“山姆”“盒马”“开市客”等大型会员商超。"
+    },
+    {
+      "name": "盒马",
+      "relation_type": "customer",
+      "business_details": "会员制商超渠道",
+      "quote": "公司多款产品进入“山姆”“盒马”“开市客”等大型会员商超。"
+    },
+    {
+      "name": "开市客",
+      "relation_type": "customer",
+      "business_details": "会员制商超渠道",
+      "quote": "公司多款产品进入“山姆”“盒马”“开市客”等大型会员商超。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "食品制造业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,754,387,665.53元",
+      "revenue_proportion": null,
+      "gross_margin": "38.30%",
+      "yoy_change": null,
+      "quote": "食品制造业务 3,754,387,665.53 2,316,581,532.09 38.30 5.16 4.34 增加0.49个百分点"
+    },
+    {
+      "name": "餐饮服务业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,539,360,384.91元",
+      "revenue_proportion": null,
+      "gross_margin": "14.34%",
+      "yoy_change": null,
+      "quote": "餐饮服务业务 1,539,360,384.91 1,318,646,281.07 14.34 5.79 7.86 减少1.64个百分点"
+    },
+    {
+      "name": "广东省内",
+      "segment_type": "region",
+      "revenue_amount": "3,937,195,972.33元",
+      "revenue_proportion": null,
+      "gross_margin": "30.75%",
+      "yoy_change": null,
+      "quote": "广东省内 3,937,195,972.33 2,726,475,209.65 30.75 4.04 5.20 减少0.77个百分点"
+    },
+    {
+      "name": "境内广东省外",
+      "segment_type": "region",
+      "revenue_amount": "1,337,179,358.42元",
+      "revenue_proportion": null,
+      "gross_margin": "32.36%",
+      "yoy_change": null,
+      "quote": "境内广东省外 1,337,179,358.42 904,505,623.49 32.36 8.96 6.22 增加1.75个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "61,386,495.78元",
+      "revenue_proportion": null,
+      "gross_margin": "36.57%",
+      "yoy_change": null,
+      "quote": "境外 61,386,495.78 38,935,373.70 36.57 -11.21 -14.17 增加2.18个百分点"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,783,070,353.97元",
+      "revenue_proportion": null,
+      "gross_margin": "27.47%",
+      "yoy_change": null,
+      "quote": "直接销售 2,783,070,353.97 2,018,693,562.96 27.47 6.14 6.26 减少0.08个百分点"
+    },
+    {
+      "name": "经销与代销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,552,691,472.56元",
+      "revenue_proportion": null,
+      "gross_margin": "35.31%",
+      "yoy_change": null,
+      "quote": "经销与代销 2,552,691,472.56 1,651,222,643.88 35.31 3.82 3.93 减少0.07个百分点"
+    },
+    {
+      "name": "线上销售（占食品制造业收入）",
+      "segment_type": "sales_channel",
+      "revenue_amount": "119,538.34万元",
+      "revenue_proportion": "31.84%",
+      "gross_margin": "44.06%",
+      "yoy_change": null,
+      "quote": "线上销售 119,538.34 31.84 44.06 118,183.86 33.10 42.26"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "月饼系列产品",
+      "metric_type": "production_volume",
+      "value": "17,042吨",
+      "period": "报告期",
+      "quote": "月饼系列产品 吨 17,042 16,671 290 3.4 4.4 -7.3"
+    },
+    {
+      "product": "月饼系列产品",
+      "metric_type": "sales_volume",
+      "value": "16,671吨",
+      "period": "报告期",
+      "quote": "月饼系列产品 吨 17,042 16,671 290 3.4 4.4 -7.3"
+    },
+    {
+      "product": "月饼系列产品",
+      "metric_type": "inventory_volume",
+      "value": "290吨",
+      "period": "报告期",
+      "quote": "月饼系列产品 吨 17,042 16,671 290 3.4 4.4 -7.3"
+    },
+    {
+      "product": "速冻食品",
+      "metric_type": "production_volume",
+      "value": "44,405吨",
+      "period": "报告期",
+      "quote": "速冻食品 吨 44,405 46,144 5,823 2.8 2.8 6.7"
+    },
+    {
+      "product": "速冻食品",
+      "metric_type": "sales_volume",
+      "value": "46,144吨",
+      "period": "报告期",
+      "quote": "速冻食品 吨 44,405 46,144 5,823 2.8 2.8 6.7"
+    },
+    {
+      "product": "速冻食品",
+      "metric_type": "inventory_volume",
+      "value": "5,823吨",
+      "period": "报告期",
+      "quote": "速冻食品 吨 44,405 46,144 5,823 2.8 2.8 6.7"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "广州基地",
+      "project_type": "construction_project",
+      "location": "广东省广州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "公司现有4大生产基地，分别位于广东省广州、茂名、梅州和湖南省湘潭，已形成了跨区域产能联动布局。其中，广州基地为全品类综合食品生产基地"
+    },
+    {
+      "name": "茂名基地",
+      "project_type": "construction_project",
+      "location": "广东省茂名",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "茂名基地主要生产速冻食品、月饼系列产品及烘焙类食品"
+    },
+    {
+      "name": "湘潭基地",
+      "project_type": "construction_project",
+      "location": "湖南省湘潭",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "湘潭基地主要生产月饼系列产品"
+    },
+    {
+      "name": "梅州基地",
+      "project_type": "construction_project",
+      "location": "广东省梅州",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "梅州基地主要生产速冻食品"
+    },
+    {
+      "name": "香港子公司",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "组建香港子公司，加快拓展港澳、北美、日韩、澳洲等境外市场"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高新技术企业认定",
+      "asset_type": "certification",
+      "related_product": "食品制造",
+      "quantitative_info": null,
+      "quote": "利口福公司高新技术企业优势"
+    },
+    {
+      "name": "ISO9001质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": "食品制造",
+      "quantitative_info": null,
+      "quote": "利口福公司已通过ISO9001质量管理体系"
+    },
+    {
+      "name": "ISO22000食品安全管理体系认证",
+      "asset_type": "certification",
+      "related_product": "食品制造",
+      "quantitative_info": null,
+      "quote": "ISO22000、HACCP、FSSC2200食品安全管理体系"
+    },
+    {
+      "name": "HACCP认证",
+      "asset_type": "certification",
+      "related_product": "食品制造",
+      "quantitative_info": null,
+      "quote": "HACCP"
+    },
+    {
+      "name": "FSSC2200认证",
+      "asset_type": "certification",
+      "related_product": "食品制造",
+      "quantitative_info": null,
+      "quote": "FSSC2200"
+    },
+    {
+      "name": "美国食品药品管理局（FDA)审核",
+      "asset_type": "certification",
+      "related_product": "食品制造",
+      "quantitative_info": null,
+      "quote": "通过了美国食品药品管理局（FDA)"
+    },
+    {
+      "name": "中国合格评定国家认可委员会（CNAS）审核",
+      "asset_type": "certification",
+      "related_product": "食品制造",
+      "quantitative_info": null,
+      "quote": "中国合格评定国家认可委员会（CNAS）的审核"
+    },
+    {
+      "name": "博士工作站",
+      "asset_type": "technical_platform",
+      "related_product": "食品研发",
+      "quantitative_info": null,
+      "quote": "聚力打造高水平研发平台，涵盖博士工作站、食品科创研究院等"
+    },
+    {
+      "name": "食品科创研究院",
+      "asset_type": "technical_platform",
+      "related_product": "食品研发",
+      "quantitative_info": null,
+      "quote": "食品科创研究院"
+    },
+    {
+      "name": "粤菜大师工作室",
+      "asset_type": "technical_platform",
+      "related_product": "餐饮研发",
+      "quantitative_info": null,
+      "quote": "依托粤菜大师工作室平台"
+    },
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "42项",
+      "quote": "获得授权专利42项"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "93,648.08万元，占年度销售总额17.40%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额93,648.08万元，占年度销售总额17.40%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "49,617.14万元，占年度采购总额20.54%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额49,617.14万元，占年度采购总额20.54%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全风险：'从农田到餐桌'涉及环节多、链条长，一旦行业内发生重大食品安全事件，其负面影响将会波及整个行业，对本公司及其他食品制造企业的品牌形象和消费者信任将造成严重损害。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.食品安全风险\n当前，国家食品安全法规不断完善、监管力度持续加大，但食品市场质量仍参差不齐，食品安全问题偶有发生。...但由于'从农田到餐桌'涉及的环节多、链条长，参与的部门多、地域广、人员众，公司无法完全避免产品质量问题的发生。此外，一旦行业内发生重大食品安全事件，其负面影响将会波及整个行业，对本公司及其他食品制造企业的品牌形象和消费者信任将造成严重损害。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场经营风险：经营业务存在季节性波动风险。月饼系列产品是公司的主要收入和利润来源，其销售旺季集中在第三季度，导致公司销售收入和现金流量呈现季节性波动。",
+      "related_entity": null,
+      "related_product": "月饼系列产品",
+      "quote": "2.市场经营风险\n经营业务存在季节性波动风险。月饼系列产品作为公司的拳头产品，是公司的主要收入和利润来源。月饼系列产品的消费时间具有明显的季节性，其销售旺季集中在第三季度。受此影响，公司销售收入和现金流量呈现季节性波动的特征，公司生产经营存在季节性波动的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格上涨的风险：公司生产所需的主要原材料，包括农产品、农副产品以及食品包装材料等，其价格受市场供求、自然因素、国际贸易等多种因素影响，价格波动过大会对公司的产品成本造成重大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3.原材料价格上涨的风险\n公司生产所需的主要原材料，包括农产品、农副产品以及食品包装材料等，其价格受市场供求、自然因素、国际贸易等多种因素影响，价格波动过大会对公司的产品成本造成重大影响。如原材料价格发生波动，而公司未提前或者及时做出相应调整，公司会存在因原材料价格上涨而导致利润下降的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "管理风险 - 技术人才流失的风险：中餐烹饪的技术尚未完全形成标准化，一旦核心技术人员离开公司，可能面临部分技术流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4.管理风险\n（1）技术人才流失的风险。\n中餐烹饪的技术尚未完全形成标准化的配料标准和操作规范，其烹饪技艺和创新目前仍依赖于公司的核心技术团队来进行保持和发展。...一旦核心技术人员离开公司，可能面临部分技术流失的风险。"
+    }
+  ]
+}

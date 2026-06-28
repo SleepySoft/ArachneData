@@ -1,0 +1,388 @@
+{
+  "company_name_mentioned": "浙江省新能源投资集团股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司的主要产品是电力。"
+    },
+    {
+      "name": "水电",
+      "type": "service",
+      "revenue_proportion": "20.48%",
+      "quote": "水电业务 987,514,388.38 元，同比减少 8.03%。"
+    },
+    {
+      "name": "光伏",
+      "type": "service",
+      "revenue_proportion": "38.21%",
+      "quote": "光伏业务 1,842,714,246.93 元，同比增长 5.23%。"
+    },
+    {
+      "name": "风电",
+      "type": "service",
+      "revenue_proportion": "41.17%",
+      "quote": "风力业务 1,985,652,905.95 元，同比减少 3.73%。"
+    },
+    {
+      "name": "绿证交易",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "其他业务：主要为绿证交易业务，本期交易量较上年同期减少，导致营业收入减少。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "设备与工程服务",
+      "target_product": "电力",
+      "cost_proportion": null,
+      "quote": "主要成本构成为折旧摊销、人工和其他。"
+    },
+    {
+      "name": "综合服务与物资",
+      "target_product": "电力",
+      "cost_proportion": "74.02%",
+      "quote": "前五名供应商采购额103,086.80万元，占年度采购总额74.02%；其中前五名供应商采购额中关联方采购额9,933.08万元，占年度采购总额7.13%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "电力",
+      "quote": "前五名客户销售额478,930.56万元，占年度销售总额98.22%；其中前五名客户销售额中关联方销售额0.00万元，占年度销售总额0%。"
+    },
+    {
+      "name": "工商业用户（分布式光伏）",
+      "source_product": "光伏电力",
+      "quote": "公司部分光伏发电项目属于“自发自用、余电上网”模式的分布式发电项目，上表中销售量包含上网电量及分布式项目直接销售给用户侧的电量。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张坚群",
+      "role": "董事长",
+      "quote": "公司负责人张坚群、主管会计工作负责人夏善辉及会计机构负责人（会计主管人员）傅迪萍声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "陆林海",
+      "role": "总经理",
+      "quote": "陆林海 男 47 2024-04-24 2028-12-18 0 0 0 / 90.4717 是"
+    },
+    {
+      "name": "张利",
+      "role": "副总经理、董事会秘书",
+      "quote": "张利 副总经理 2022-12-13 男 47 2028-12-18 10,000 10,000 0 / 76.7924 否"
+    },
+    {
+      "name": "夏善辉",
+      "role": "财务总监",
+      "quote": "夏善辉 财务总监 男 41 2025-12-19 2028-12-18 0 0 0 / 4.7502 是"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "浙江省能源集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东、浙能集团 指 浙江省能源集团有限公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "主要电力销售客户",
+      "quote": "国家电网有限公司 470,516.42 96.49"
+    },
+    {
+      "name": "浙江省能源集团财务有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "提供存贷款、委托贷款等金融服务",
+      "quote": "关联方向公司提供资金的往来情况详见本报告“第八节十四、关联方及关联交易”章节。"
+    },
+    {
+      "name": "北海水电",
+      "relation_type": "subsidiary",
+      "business_details": "水力发电子公司",
+      "quote": "北海水电 子公司 水力发电"
+    },
+    {
+      "name": "江苏双创",
+      "relation_type": "subsidiary",
+      "business_details": "风力发电子公司",
+      "quote": "江苏双创 子公司 风力发电"
+    },
+    {
+      "name": "清能发展",
+      "relation_type": "subsidiary",
+      "business_details": "光伏发电子公司",
+      "quote": "清能发展 子公司 光伏发电"
+    },
+    {
+      "name": "浙江浙能国电投嵊泗海上风力发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股风力发电公司",
+      "quote": "浙江浙能国电投嵊泗海上风力发电有限公司 参股公司 风力发电"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "水电",
+      "segment_type": "product_line",
+      "revenue_amount": "987,514,388.38 元",
+      "revenue_proportion": null,
+      "gross_margin": "53.23%",
+      "yoy_change": "-8.03%",
+      "quote": "水电业务 987,514,388.38 461,900,331.47 53.23 -8.03 -7.03"
+    },
+    {
+      "name": "光伏",
+      "segment_type": "product_line",
+      "revenue_amount": "1,842,714,246.93 元",
+      "revenue_proportion": null,
+      "gross_margin": "31.57%",
+      "yoy_change": "5.23%",
+      "quote": "光伏业务 1,842,714,246.93 1,260,895,457.80 31.57 5.23 25.98"
+    },
+    {
+      "name": "风电",
+      "segment_type": "product_line",
+      "revenue_amount": "1,985,652,905.95 元",
+      "revenue_proportion": null,
+      "gross_margin": "40.51%",
+      "yoy_change": "-3.73%",
+      "quote": "风力业务 1,985,652,905.95 1,181,257,656.63 40.51 -3.73 2.07"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "2,848,499,223.44 元",
+      "revenue_proportion": null,
+      "gross_margin": "47.10%",
+      "yoy_change": "3.26%",
+      "quote": "华东：上海市、江苏省、浙江省、安徽省、江西省、山东省、福建省，以及台湾省 2,848,499,223.44 1,506,921,857.99 47.10 3.26 11.01"
+    },
+    {
+      "name": "西北地区",
+      "segment_type": "region",
+      "revenue_amount": "1,553,550,569.34 元",
+      "revenue_proportion": null,
+      "gross_margin": "27.60%",
+      "yoy_change": "-11.21%",
+      "quote": "西北：陕西省、甘肃省、青海省、宁夏回族自治区、新疆维吾尔自治区、内蒙古自治区西部（阿拉善盟、巴彦淖尔市、乌海市、鄂尔多斯市） 1,553,550,569.34 1,124,820,693.74 27.60 -11.21 8.18"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力",
+      "metric_type": "capacity",
+      "value": "690.76万千瓦",
+      "period": "截至2025年12月底",
+      "quote": "截至2025年12月底，公司已并网控股装机容量690.76万千瓦。"
+    },
+    {
+      "product": "水电",
+      "metric_type": "capacity",
+      "value": "113.28万千瓦",
+      "period": null,
+      "quote": "其中水电113.28万千瓦。"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "capacity",
+      "value": "364.16万千瓦",
+      "period": null,
+      "quote": "光伏364.16万千瓦。"
+    },
+    {
+      "product": "风电",
+      "metric_type": "capacity",
+      "value": "213.32万千瓦",
+      "period": null,
+      "quote": "风电213.32万千瓦（其中陆上风电123万千瓦，海上风电90.32万千瓦）。"
+    },
+    {
+      "product": "风电",
+      "metric_type": "production_volume",
+      "value": "459,983.46 万千瓦时",
+      "period": "2025年",
+      "quote": "风力发电 459,983.46"
+    },
+    {
+      "product": "水电",
+      "metric_type": "production_volume",
+      "value": "265,639.87 万千瓦时",
+      "period": "2025年",
+      "quote": "水力发电 265,639.87"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "production_volume",
+      "value": "390,271.63 万千瓦时",
+      "period": "2025年",
+      "quote": "光伏发电 390,271.63"
+    },
+    {
+      "product": "风电",
+      "metric_type": "sales_volume",
+      "value": "446,279.35 万千瓦时",
+      "period": "2025年",
+      "quote": "风力发电 446,279.35"
+    },
+    {
+      "product": "水电",
+      "metric_type": "sales_volume",
+      "value": "262,149.58 万千瓦时",
+      "period": "2025年",
+      "quote": "水力发电 262,149.58"
+    },
+    {
+      "product": "光伏",
+      "metric_type": "sales_volume",
+      "value": "386,920.55 万千瓦时",
+      "period": "2025年",
+      "quote": "光伏发电 386,920.55"
+    },
+    {
+      "product": "电力",
+      "metric_type": "other",
+      "value": "1,666小时",
+      "period": "2025年",
+      "quote": "2025年，公司境内发电设备利用小时完成1,666小时，同比减少117小时。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "奉化区裘村镇150MW渔光互补光伏项目",
+      "project_type": "capacity_expansion",
+      "location": "浙江省奉化区",
+      "investment_amount": "840,600,000.00元",
+      "designed_capacity": "150MW",
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "浙奉新能源奉化区裘村镇150MW渔光互补光伏项目 840,600,000.00 357,439,754.65 522,229,417.84 资本金+自筹 建设中"
+    },
+    {
+      "name": "民勤红沙岗10万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "甘肃省民勤县",
+      "investment_amount": "541,476,300.00元",
+      "designed_capacity": "10万千瓦",
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "陇信风电民勤红沙岗10万千瓦风电项目 541,476,300.00 268,034,324.64 346,904,652.14 资本金+自筹 建设中"
+    },
+    {
+      "name": "普陀2号海上风力发电场项目",
+      "project_type": "capacity_expansion",
+      "location": "浙江省舟山市",
+      "investment_amount": "5,281,250,000.00元",
+      "designed_capacity": null,
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "舟山风电普陀2号海上风力发电场项目 5,281,250,000.00 184,283,300.20 200,942,588.43 资本金+自筹 建设中"
+    },
+    {
+      "name": "东尚新能源280MW渔光互补光伏发电项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,871,645,200.00元",
+      "designed_capacity": "280MW",
+      "progress": "已转固",
+      "expected_completion_time": null,
+      "quote": "东尚新能源280MW渔光互补光伏发电项目 1,871,645,200.00 -92,505,277.13 1,601,131,183.00 资本金+自筹 已转固"
+    },
+    {
+      "name": "浙能台州1号海上风电场工程项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已完成建设并投产",
+      "expected_completion_time": null,
+      "quote": "2025年4月，公司非公开发行股票募集资金投资项目“浙能台州1号海上风电场工程项目”已完成建设并投产。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "人工智能+新能源技术应用",
+      "asset_type": "technical_platform",
+      "related_product": "运维",
+      "quantitative_info": null,
+      "quote": "成立“人工智能+新能源”工作专班，深化数智技术在各领域的应用，申报应用场景21个，探索构建风机异常预警与健康状态评估系统、研发推进水力发电厂水下环境智能机器人应用、部署无人机巡检平台等。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "全年完成申请专利10项。",
+      "quote": "全年完成申请专利10项。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "98.22%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额478,930.56万元，占年度销售总额98.22%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "96.49%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "国家电网有限公司 470,516.42 96.49"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "74.02%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额103,086.80万元，占年度采购总额74.02%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "伴随着行业装机规模快速扩张及市场竞争格局演变，对公司资源获取能力与开发效率形成双重考验。当前新能源行业已迈入平价上网与市场化竞价的新阶段，加之过度激烈的市场竞争与产业链前端成本波动相互交织，为公司项目投资回报的稳定性带来不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业政策风险 在实现'双碳'战略目标的进程中，新能源开发面临的政策环境持续呈现多维度变革。伴随着行业装机规模快速扩张及市场竞争格局演变，对公司资源获取能力与开发效率形成双重考验。当前新能源行业已迈入平价上网与市场化竞价的新阶段，加之过度激烈的市场竞争与产业链前端成本波动相互交织，为公司项目投资回报的稳定性带来不确定性。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "电价受供需关系、时段差异、区域竞争等因素影响波动加剧。公司所属项目分布省域广，各省分时电价、现货市场、中长期交易、辅助服务等规则和机制多样，公司面临市场化定价预测、交易策略制定等电力交易专业能力的挑战和考验将随之增大，进而对公司的交易电价等经营指标产生不确定性影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、电力市场风险 随着国家持续推进电力体制改革，新能源行业从“政策保障性发展”全面转向“市场化驱动”，电价受供需关系、时段差异、区域竞争等因素影响波动加剧。公司所属项目分布省域广，各省分时电价、现货市场、中长期交易、辅助服务等规则和机制多样，公司面临市场化定价预测、交易策略制定等电力交易专业能力的挑战和考验将随之增大，进而对公司的交易电价等经营指标产生不确定性影响，对企业的稳健运营和盈利能力提出了更高要求。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司目前运营的光伏电站和陆上风电项目中，位于西北地区的项目比例较高，虽然西北地区太阳能、风能资源丰富，但是电力需求有限，兼有电网远距离输送能力有限等不利因素，西北地区一直深受弃光、弃风问题困扰。近年来，随着大量新增风光电项目的投产，局部区域出现消纳和送出能力不足导致的限电比率上升，会对公司的业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、电力消纳风险 公司目前运营的光伏电站和陆上风电项目中，位于西北地区的项目比例较高，虽然西北地区太阳能、风能资源丰富，但是电力需求有限，兼有电网远距离输送能力有限等不利因素，西北地区一直深受弃光、弃风问题困扰。近年来，随着大量新增风光电项目的投产，局部区域出现消纳和送出能力不足导致的限电比率上升，会对公司的业绩产生不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司当前享有的所得税优惠具有财务正向作用，但存在因国家财税政策调整导致优惠退坡的可能性。此外，目前公司的应收可再生能源补贴余额仍然较大，若补贴电费回收持续滞后，将会对公司资金流动性和业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、税收政策及可再生能源补贴风险 公司当前享有的所得税优惠具有财务正向作用，但存在因国家财税政策调整导致优惠退坡的可能性。此外，目前公司的应收可再生能源补贴余额仍然较大，若补贴电费回收持续滞后，将会对公司资金流动性和业绩产生不利影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司新能源项目建设过程中，参建单位多，工作面多且广，部分项目设备制作工艺要求高，工序复杂，可能导致项目存在制造缺陷、质量问题或不能如期达产。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、生产安全风险 公司新能源项目建设过程中，参建单位多，工作面多且广，部分项目设备制作工艺要求高，工序复杂，可能导致项目存在制造缺陷、质量问题或不能如期达产。"
+    },
+    {
+      "risk_type": "other",
+      "description": "自然条件的变迁直接影响着公司的日常生产经营活动，公司财产与盈利面临着因不可抗力的自然因素导致损失的风险。如台风、雷暴、地震、泥石流等自然灾害可能导致发电设施遭受破坏，不仅造成公司直接的财产损失，还可能扰乱正常的生产秩序；旱灾、雪灾、洪灾、沙尘暴、极端湍流等恶劣工况，除了可能损毁发电设施，还会影响公司有效利用水、风、光等自然资源进行发电，从而对整体运营带来额外的不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、不可抗力风险 自然条件的变迁直接影响着公司的日常生产经营活动，公司财产与盈利面临着因不可抗力的自然因素导致损失的风险。如台风、雷暴、地震、泥石流等自然灾害可能导致发电设施遭受破坏，不仅造成公司直接的财产损失，还可能扰乱正常的生产秩序；旱灾、雪灾、洪灾、沙尘暴、极端湍流等恶劣工况，除了可能损毁发电设施，还会影响公司有效利用水、风、光等自然资源进行发电，从而对整体运营带来额外的不利影响。"
+    }
+  ]
+}

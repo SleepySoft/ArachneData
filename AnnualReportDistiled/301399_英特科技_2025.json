@@ -1,0 +1,587 @@
+{
+  "company_name_mentioned": "浙江英特科技股份有限公司",
+  "produces": [
+    {
+      "name": "换热器",
+      "type": "device",
+      "revenue_proportion": "84.48%",
+      "quote": "换热器 395,553,949.30 84.48%"
+    },
+    {
+      "name": "分配器及其他",
+      "type": "component",
+      "revenue_proportion": "15.52%",
+      "quote": "分配器及其他 72,673,406.20 15.52%"
+    },
+    {
+      "name": "高效新型壳管式换热器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品具体包括高效新型壳管式换热器、同轴套管式换热器、板式换热器、降膜式换热器、蒸发式冷凝器、液冷散热器和分配器等产品"
+    },
+    {
+      "name": "同轴套管式换热器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品具体包括...同轴套管式换热器..."
+    },
+    {
+      "name": "板式换热器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品具体包括...板式换热器..."
+    },
+    {
+      "name": "降膜式换热器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品具体包括...降膜式换热器..."
+    },
+    {
+      "name": "蒸发式冷凝器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品具体包括...蒸发式冷凝器..."
+    },
+    {
+      "name": "液冷散热器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司产品具体包括...液冷散热器..."
+    },
+    {
+      "name": "分配器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司产品具体包括...分配器等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜材、钢材等",
+      "target_product": "换热器",
+      "cost_proportion": "76.73%",
+      "quote": "直接材料 287,215,365.56 76.73%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "热泵",
+      "source_product": "换热器",
+      "quote": "作为热泵、空调的核心零部件"
+    },
+    {
+      "name": "空调",
+      "source_product": "换热器",
+      "quote": "作为热泵、空调的核心零部件"
+    },
+    {
+      "name": "采暖热水",
+      "source_product": "换热器",
+      "quote": "广泛应用于采暖热水、家用商用空调、轨道交通、数据中心、工农业应用等领域"
+    },
+    {
+      "name": "家用商用空调",
+      "source_product": "换热器",
+      "quote": "广泛应用于采暖热水、家用商用空调、轨道交通、数据中心、工农业应用等领域"
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "蒸发式冷凝器等",
+      "quote": "广泛应用于采暖热水、家用商用空调、轨道交通、数据中心、工农业应用等领域"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "蒸发式冷凝器、液冷散热器等",
+      "quote": "广泛应用于采暖热水、家用商用空调、轨道交通、数据中心、工农业应用等领域"
+    },
+    {
+      "name": "工农业应用",
+      "source_product": "换热器",
+      "quote": "广泛应用于采暖热水、家用商用空调、轨道交通、数据中心、工农业应用等领域"
+    },
+    {
+      "name": "北方供热采暖",
+      "source_product": "壳管式换热器、套管式换热器",
+      "quote": "主要应用于北方供热采暖、家用户式空调、商用空调"
+    },
+    {
+      "name": "家用户式空调",
+      "source_product": "壳管式换热器、套管式换热器",
+      "quote": "主要应用于北方供热采暖、家用户式空调、商用空调"
+    },
+    {
+      "name": "商用空调",
+      "source_product": "壳管式换热器、套管式换热器、降膜式换热器、蒸发式冷凝器、分配器等",
+      "quote": "主要应用于北方供热采暖、家用户式空调、商用空调"
+    },
+    {
+      "name": "海水养殖",
+      "source_product": "套管式换热器",
+      "quote": "主要应用于...海水养殖"
+    },
+    {
+      "name": "高温热泵",
+      "source_product": "降膜式换热器",
+      "quote": "主要应用于商用空调、高温热泵、轨道交通、数据中心、ORC机组"
+    },
+    {
+      "name": "ORC机组",
+      "source_product": "降膜式换热器、蒸发式冷凝器",
+      "quote": "主要应用于商用空调、高温热泵、轨道交通、数据中心、ORC机组"
+    },
+    {
+      "name": "冷库",
+      "source_product": "蒸发式冷凝器",
+      "quote": "主要应用于商用空调、轨道交通、数据中心、冷库、厂房冷却、ORC机组"
+    },
+    {
+      "name": "厂房冷却",
+      "source_product": "蒸发式冷凝器",
+      "quote": "主要应用于商用空调、轨道交通、数据中心、冷库、厂房冷却、ORC机组"
+    },
+    {
+      "name": "基站",
+      "source_product": "液冷散热器",
+      "quote": "主要应用于数据中心、基站、光伏发电、空调等领域的变频器、逆变器、整流器的散热冷却"
+    },
+    {
+      "name": "光伏发电",
+      "source_product": "液冷散热器",
+      "quote": "主要应用于数据中心、基站、光伏发电、空调等领域的变频器、逆变器、整流器的散热冷却"
+    },
+    {
+      "name": "变频器、逆变器、整流器的散热冷却",
+      "source_product": "液冷散热器",
+      "quote": "主要应用于数据中心、基站、光伏发电、空调等领域的变频器、逆变器、整流器的散热冷却"
+    },
+    {
+      "name": "热泵采暖",
+      "source_product": "板式换热器",
+      "quote": "主要应用于热泵采暖、制冷空调、汽车油冷、储能、数据中心等"
+    },
+    {
+      "name": "制冷空调",
+      "source_product": "板式换热器",
+      "quote": "主要应用于热泵采暖、制冷空调、汽车油冷、储能、数据中心等"
+    },
+    {
+      "name": "汽车油冷",
+      "source_product": "板式换热器",
+      "quote": "主要应用于热泵采暖、制冷空调、汽车油冷、储能、数据中心等"
+    },
+    {
+      "name": "储能",
+      "source_product": "板式换热器",
+      "quote": "主要应用于热泵采暖、制冷空调、汽车油冷、储能、数据中心等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "方真健",
+      "role": "董事长、总经理、法定代表人、实际控制人",
+      "quote": "公司负责人方真健、主管会计工作负责人裘尔侃...；法定代表人 方真健；实际控制人 方真健、陈海萍"
+    },
+    {
+      "name": "陈海萍",
+      "role": "董事、实际控制人",
+      "quote": "实际控制人 方真健、陈海萍；陈海萍女士：女，...历任公司董事。"
+    },
+    {
+      "name": "王光明",
+      "role": "副董事长、董事",
+      "quote": "王光明先生：男，...任公司副董事长。"
+    },
+    {
+      "name": "裘尔侃",
+      "role": "董事会秘书、财务负责人、副总经理",
+      "quote": "主管会计工作负责人裘尔侃及会计机构负责人(会计主管人员)裘尔侃；裘尔侃先生：男，...任公司董事会秘书；2021年2月至今，任公司副总经理；2025年5月至今，任公司财务负责人。"
+    },
+    {
+      "name": "张锐",
+      "role": "首席运营官",
+      "quote": "张锐先生：男，...2025年7月至今，任公司首席运营官。"
+    },
+    {
+      "name": "申屠永学",
+      "role": "副总经理",
+      "quote": "申屠永学先生：男，...2023年12月至今，任公司副总经理。"
+    },
+    {
+      "name": "周高峰",
+      "role": "职工董事",
+      "quote": "周高峰先生：男，...自2025年8月至今，任公司职工董事。"
+    },
+    {
+      "name": "李俊明",
+      "role": "独立董事",
+      "quote": "李俊明先生：男，...任公司独立董事。"
+    },
+    {
+      "name": "邵乃宇",
+      "role": "独立董事",
+      "quote": "邵乃宇先生：男，...任公司独立董事。"
+    },
+    {
+      "name": "金月华",
+      "role": "独立董事",
+      "quote": "金月华女士：女，...任公司独立董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海尔集团公司、海尔智家股份有限公司",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与国内的海尔、天加、美的、格力，美系的麦克维尔、约克、特灵、开利，日系的大金、日立、三菱重工等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "珠海格力电器股份有限公司",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与国内的海尔、天加、美的、格力...等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "美的集团股份有限公司",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与国内的海尔、天加、美的、格力...等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "南京天加环境科技有限公司",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与国内的海尔、天加、美的、格力...等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "麦克维尔",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与...美系的麦克维尔、约克、特灵、开利...等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "开利",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与...美系的麦克维尔、约克、特灵、开利...等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "特灵空调系统（中国）有限公司",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与...美系的麦克维尔、约克、特灵、开利...等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "日本大金工业株式会社",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与...日系的大金、日立、三菱重工等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "青岛海信日立空调系统有限公司",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与...日系的大金、日立、三菱重工等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "三菱重工制冷空调系统株式会社",
+      "relation_type": "customer",
+      "business_details": "大型知名厂商建立了长期稳定的合作关系",
+      "quote": "公司...与...日系的大金、日立、三菱重工等大型知名厂商建立了长期稳定的合作关系。"
+    },
+    {
+      "name": "西安交通大学",
+      "relation_type": "other",
+      "business_details": "开展强化传热传质机理与新技术...等方面的合作研发",
+      "quote": "与西安交通大学、上海交通大学等高校科研机构开展强化传热传质机理与新技术、热流学科中的数值仿真模拟及其工程应用、节能原理与减排新技术等方面的合作研发"
+    },
+    {
+      "name": "上海交通大学",
+      "relation_type": "other",
+      "business_details": "开展强化传热传质机理与新技术...等方面的合作研发",
+      "quote": "与西安交通大学、上海交通大学等高校科研机构开展强化传热传质机理与新技术、热流学科中的数值仿真模拟及其工程应用、节能原理与减排新技术等方面的合作研发"
+    },
+    {
+      "name": "安吉英睿特投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "控股股东、实际控制人方真健持股67.48%，同时担任执行事务合伙人",
+      "quote": "安吉英睿特：13.50%；安吉英睿特为控股股东方真健持股67.48%，同时担任执行事务合伙人的企业。"
+    },
+    {
+      "name": "新昌县晶鑫精密机械配件有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事分配器等制冷配件的研发、生产及销售",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况：新昌县晶鑫精密机械配件有限公司 子公司 主要业务 分配器等制冷配件的研发、生产及销售"
+    },
+    {
+      "name": "浙江英特热控科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事制冷、空调设备制造研发、生产及销售",
+      "quote": "浙江英特热控科技有限公司 子公司 主要业务 制冷、空调设备制造研发、生产及销售"
+    },
+    {
+      "name": "浙江英睿机电有限公司",
+      "relation_type": "other",
+      "business_details": "公司参股公司",
+      "quote": "艾弗洛 为公司参股公司"
+    },
+    {
+      "name": "浙江艾弗洛电器有限公司",
+      "relation_type": "other",
+      "business_details": "公司参股公司",
+      "quote": "艾弗洛 指 浙江艾弗洛电器有限公司"
+    },
+    {
+      "name": "天健会计师事务所（特殊普通合伙）",
+      "relation_type": "other",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "会计师事务所名称 天健会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "浙商证券股份有限公司",
+      "relation_type": "other",
+      "business_details": "公司聘请的报告期内履行持续督导职责的保荐机构",
+      "quote": "保荐机构名称 浙商证券股份有限公司"
+    },
+    {
+      "name": "中国节能协会热泵专业委员会",
+      "relation_type": "other",
+      "business_details": "公司被评选为中国热泵行业优秀零部件供应商",
+      "quote": "连续多年被中国节能协会热泵专业委员会评选为中国热泵行业优秀零部件供应商。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "通用设备制造业",
+      "segment_type": "other",
+      "revenue_amount": "468,227,355.50元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "20.06%",
+      "yoy_change": "-10.83%",
+      "quote": "分行业：通用设备制造业 468,227,355.50 100.00%...毛利率 20.06%...营业收入比上年同期增减 -10.83%"
+    },
+    {
+      "name": "换热器",
+      "segment_type": "product_line",
+      "revenue_amount": "395,553,949.30元",
+      "revenue_proportion": "84.48%",
+      "gross_margin": "22.78%",
+      "yoy_change": "-15.56%",
+      "quote": "分产品：换热器 395,553,949.30 84.48%...毛利率 22.78%...营业收入比上年同期增减 -15.56%"
+    },
+    {
+      "name": "分配器及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "72,673,406.20元",
+      "revenue_proportion": "15.52%",
+      "gross_margin": "5.21%",
+      "yoy_change": "28.26%",
+      "quote": "分产品：分配器及其他 72,673,406.20 15.52%...毛利率 5.21%...营业收入比上年同期增减 28.26%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "465,720,694.34元",
+      "revenue_proportion": "99.46%",
+      "gross_margin": "19.95%",
+      "yoy_change": "-10.98%",
+      "quote": "分地区：境内 465,720,694.34 99.46%...毛利率 19.95%...营业收入比上年同期增减 -10.98%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "2,506,661.16元",
+      "revenue_proportion": "0.54%",
+      "gross_margin": "39.41%",
+      "yoy_change": "29.95%",
+      "quote": "分地区：境外 2,506,661.16 0.54%...毛利率 39.41%...营业收入比上年同期增减 29.95%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "451,466,363.90元",
+      "revenue_proportion": "96.42%",
+      "gross_margin": "20.24%",
+      "yoy_change": "-10.62%",
+      "quote": "分销售模式：直销 451,466,363.90 96.42%...毛利率 20.24%...营业收入比上年同期增减 -10.62%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "16,760,991.60元",
+      "revenue_proportion": "3.58%",
+      "gross_margin": "15.05%",
+      "yoy_change": "-16.25%",
+      "quote": "分销售模式：经销 16,760,991.60 3.58%...毛利率 15.05%...营业收入比上年同期增减 -16.25%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "通用设备制造业（公司整体）",
+      "metric_type": "sales_volume",
+      "value": "468,227,355.50元",
+      "period": "2025年",
+      "quote": "销售量 元 468,227,355.5"
+    },
+    {
+      "product": "通用设备制造业（公司整体）",
+      "metric_type": "production_volume",
+      "value": "502,581,844.9元",
+      "period": "2025年",
+      "quote": "生产量 元 502,581,844.9"
+    },
+    {
+      "product": "通用设备制造业（公司整体）",
+      "metric_type": "inventory_volume",
+      "value": "51,308,290.7元",
+      "period": "2025年末",
+      "quote": "库存量 元 51,308,290.7"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产17万套高效换热器生产基地建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "30,222.6万元（调整后为22,078.93万元）",
+      "designed_capacity": "年产17万套高效换热器",
+      "progress": "已结项（2024年10月23日结项）",
+      "expected_completion_time": "已结项",
+      "quote": "年产17万套高效换热器生产基地建设项目 是 30,222.6...已结项...2025年实现收益为1855.77万元"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "9,321.26万元（调整后为4,198.33万元）",
+      "designed_capacity": null,
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "研发中心建设项目 是 9,321.26...4,198.33...不适用...不适用"
+    },
+    {
+      "name": "补充流动资金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": "5,000万元（调整后为12,203.89万元）",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "补充流动资金 是 5,000...12,203.89...不适用...不适用"
+    },
+    {
+      "name": "年产1000套蒸发式冷凝器成套设备生产基地建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "6,062.71万元",
+      "designed_capacity": "年产1000套蒸发式冷凝器成套设备",
+      "progress": "在建",
+      "expected_completion_time": "2026年08月31日",
+      "quote": "年产1000套蒸发式冷凝器成套设备生产基地建设项目 是 6,062.71...2026年08月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高效换热器的产品设计、生产工艺、测试分析等方面的核心技术",
+      "asset_type": "core_technology",
+      "related_product": "换热器",
+      "quantitative_info": null,
+      "quote": "公司已在高效换热器的产品设计、生产工艺、测试分析等方面形成了自主核心技术"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "换热器等",
+      "quantitative_info": "165项，其中发明专利26项",
+      "quote": "报告期内，公司拥有专利165项，其中，发明专利26项"
+    },
+    {
+      "name": "《制冷与空调用同轴套管式换热器》国家标准",
+      "asset_type": "standard",
+      "related_product": "同轴套管式换热器",
+      "quantitative_info": "GB/T25862-2010",
+      "quote": "公司负责制定了《制冷与空调用同轴套管式换热器》（GB/T25862-2010）国家标准"
+    },
+    {
+      "name": "《带分配器的壳管式换热器》行业标准",
+      "asset_type": "standard",
+      "related_product": "壳管式换热器",
+      "quantitative_info": "JB/T14060-2022",
+      "quote": "公司负责制定了...《带分配器的壳管式换热器》行业标准（JB/T14060-2022）"
+    },
+    {
+      "name": "《热泵系统用辐射-对流型供暖散热器》行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "JB/T14846-2024",
+      "quote": "公司负责制定了...《热泵系统用辐射-对流型供暖散热器》行业标准（JB/T14846-2024）"
+    },
+    {
+      "name": "ISO9001、ISO14001、ISO45001、IATF16949及ASME等体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司已通过 ISO9001、ISO14001、ISO45001、IATF16949及 ASME等体系认证。"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2021年7月，公司被工业和信息化部评为国家级专精特新“小巨人”企业"
+    },
+    {
+      "name": "建议支持的国家级重点专精特新“小巨人”企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2022年6月，被工业和信息化部评为建议支持的国家级重点专精特新“小巨人”企业。"
+    },
+    {
+      "name": "国家高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2008年公司被认定为“国家高新技术企业”"
+    },
+    {
+      "name": "省级高新技术企业研究开发中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "同年12月研发中心被浙江省科技厅认定为“省级高新技术企业研究开发中心”"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "48.24%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 48.24%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "57.24%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 57.24%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）市场竞争加剧风险...为顺应行业集中度提升的趋势...持续的降价压力给公司今年的业绩带来了冲击和挑战"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险",
+      "related_entity": null,
+      "related_product": "换热器",
+      "quote": "（3）原材料价格波动的风险...公司生产过程中所需原材料主要为铜材、钢材等，原材料成本是影响公司利润水平的重要因素之一，但若出现原材料价格快速上涨，将对公司经营业绩产生一定的不利影响。"
+    }
+  ]
+}

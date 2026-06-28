@@ -1,0 +1,654 @@
+{
+  "company_name_mentioned": "芜湖长信科技股份有限公司",
+  "produces": [
+    {
+      "name": "车载Sensor",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司业务既涵盖客户车载 sensor、车载 sensor 模组...等关键元器件"
+    },
+    {
+      "name": "车载显示模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "车载显示模组...收入规模保持增长"
+    },
+    {
+      "name": "车载盖板（2D和3D）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "车载盖板（2D 和 3D）"
+    },
+    {
+      "name": "车载屏模组（含中控屏、后视镜、仪表盘、B柱、抬头显示、正副驾驶显示屏、扶手屏）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "车载屏模组（含中控屏、后视镜、仪表盘、B 柱、抬头显示、正副驾驶显示屏、扶手屏等）"
+    },
+    {
+      "name": "HUD（抬头显示）部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司在 HUD（抬头显示）部件方面加大研发和投资"
+    },
+    {
+      "name": "电致变色汽车后视镜盖板玻璃",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司电致变色汽车后视镜盖板玻璃已完成自主研发并产业化落地"
+    },
+    {
+      "name": "超薄液晶显示面板（减薄业务）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司减薄业务规模雄居国内首位，市占率高"
+    },
+    {
+      "name": "超薄玻璃盖板（UTG/UFG）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司依托减薄技术的扎实基础，已经完成了从减薄到单体成型的全部技术、工艺、设备的开发"
+    },
+    {
+      "name": "VR显示模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司VR显示模组业务布局早"
+    },
+    {
+      "name": "智能可穿戴显示模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "为国际前五大智能可穿戴终端客户等提供一系列的中高端可穿戴产品"
+    },
+    {
+      "name": "柔性OLED可穿戴显示模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "已实现向北美消费电子巨头批量出货多种高世代柔性OLED可穿戴显示模组"
+    },
+    {
+      "name": "NB、PAD显示模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "为闻泰、联想、华硕、华为、DELL、HP等客户提供多种高端NB、PAD模组业务"
+    },
+    {
+      "name": "手机触控显示模组",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "客户群包括OPPO、VIVO、华为、小米、SHARP等"
+    },
+    {
+      "name": "ITO导电玻璃",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "ITO导电玻璃...等智能硬件产品"
+    },
+    {
+      "name": "导光板",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "导光板"
+    },
+    {
+      "name": "电子纸驱动基板",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "电子纸驱动基板"
+    },
+    {
+      "name": "算力服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "2026年长信智算与青海联通旗下子公司签署5年期、2.62亿元算力服务协议"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、零部件、设备、软件、服务或能源",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购的原材料、零部件、设备、软件、服务或能源"
+    },
+    {
+      "name": "高性能芯片、国产算力设备",
+      "target_product": "算力服务",
+      "cost_proportion": null,
+      "quote": "供应链坚持高性能芯片+国产算力双轨并行"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车电子（智能座舱、车载显示、智能驾驶）",
+      "source_product": "车载Sensor、车载显示模组、车载盖板、HUD等",
+      "quote": "汽车电子业务涵盖车载 sensor、车载 sensor 模组、车载盖板（2D 和 3D）、车载显示模组、车载屏模组（含中控屏、后视镜、仪表盘、B 柱、抬头显示、正副驾驶显示屏、扶手屏等）"
+    },
+    {
+      "name": "消费电子（智能手机、笔记本电脑、平板电脑、VR/AR设备、智能手表）",
+      "source_product": "超薄玻璃盖板（UTG/UFG）、VR显示模组、可穿戴显示模组、NB/PAD/手机显示模组等",
+      "quote": "消费电子业务涵盖超薄液晶显示面板减薄、超薄玻璃盖板（UTG、UFG）、ITO 导电玻璃、VR 显示模组、智能可穿戴显示模组、手机显示模组、NB 和 PAD 显示模组、导光板、电子纸驱动基板等智能硬件产品"
+    },
+    {
+      "name": "算力服务（车企智驾中心、AI训练、短视频内容生成）",
+      "source_product": "算力服务",
+      "quote": "面向车企智驾中心、AI 训练、短视频内容生成等场景提供稳定算力支撑"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "高前文",
+      "role": "董事长",
+      "quote": "公司负责人高前文...公司董事会及董事、高级管理人员...现任本公司董事长"
+    },
+    {
+      "name": "郑建军",
+      "role": "副董事长、总裁",
+      "quote": "郑建军先生...现任公司总裁"
+    },
+    {
+      "name": "方荣",
+      "role": "董事",
+      "quote": "方荣先生...现任安徽省铁路发展基金股份有限公司总经理，芜湖铁元投资有限公司董事长。...现任本公司董事"
+    },
+    {
+      "name": "李珺",
+      "role": "董事",
+      "quote": "李珺女士...现任安徽省铁路发展基金股份有限公司党支部书记、董事长。"
+    },
+    {
+      "name": "江明荫",
+      "role": "董事",
+      "quote": "江明荫女士...现任安徽中安资本投资基金有限公司董事、安徽中安资本管理有限公司财务负责人..."
+    },
+    {
+      "name": "伍运飞",
+      "role": "董事",
+      "quote": "伍运飞先生...现任芜湖市投资控股集团有限公司党委委员及副总经理...芜湖长信科技股份有限公司董事..."
+    },
+    {
+      "name": "杨欢",
+      "role": "董事",
+      "quote": "杨欢先生...现任本公司董事"
+    },
+    {
+      "name": "王宏",
+      "role": "独立董事",
+      "quote": "王宏女士...芜湖长信科技股份有限公司独立董事"
+    },
+    {
+      "name": "王华林",
+      "role": "独立董事",
+      "quote": "王华林先生...合肥工业大学教授，博士生导师。"
+    },
+    {
+      "name": "钱军",
+      "role": "独立董事",
+      "quote": "钱军先生...中国化学环保研究院研发副总监，工业废水及环境治理安徽省重点实验室副主任。"
+    },
+    {
+      "name": "罗昆",
+      "role": "独立董事",
+      "quote": "罗昆先生...现为安徽师范大学经济管理学院 MBA 中心教指委委员、MBA 案例中心主任。"
+    },
+    {
+      "name": "许沭华",
+      "role": "总工程师",
+      "quote": "许沭华先生...现任本公司总工程师和技术总监"
+    },
+    {
+      "name": "李荔芳",
+      "role": "副总裁",
+      "quote": "李荔芳女士...现任中国上市公司芜湖长信科技股份有限公司副总裁"
+    },
+    {
+      "name": "何晏兵",
+      "role": "副总裁",
+      "quote": "何晏兵先生...现任公司副总裁"
+    },
+    {
+      "name": "仇泽军",
+      "role": "副总裁",
+      "quote": "仇泽军先生...现任本公司副总裁"
+    },
+    {
+      "name": "陈伟达",
+      "role": "副总裁、董事会秘书",
+      "quote": "陈伟达先生...现担任芜湖长信科技股份有限公司副总裁、董事会秘书"
+    },
+    {
+      "name": "秦青华",
+      "role": "财务总监",
+      "quote": "秦青华先生...现任本公司财务总监"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "新疆润丰股权投资企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "控股股东芜湖铁元投资有限公司的主要股东之一",
+      "quote": "控股股东情况：...芜湖铁元投资有限公司...新疆润丰股权投资企业（有限合伙）为其主要股东之一"
+    },
+    {
+      "name": "安徽省投资集团控股有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "实际控制人：安徽省投资集团控股有限公司"
+    },
+    {
+      "name": "芜湖铁元投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东：芜湖铁元投资有限公司"
+    },
+    {
+      "name": "Sharp（夏普）",
+      "relation_type": "customer",
+      "business_details": "减薄业务客户",
+      "quote": "赢得Sharp、LGD、BOE的一致认可"
+    },
+    {
+      "name": "LGD（LG显示）",
+      "relation_type": "customer",
+      "business_details": "减薄业务客户",
+      "quote": "赢得Sharp、LGD、BOE的一致认可"
+    },
+    {
+      "name": "BOE（京东方）",
+      "relation_type": "customer",
+      "business_details": "减薄业务客户",
+      "quote": "赢得Sharp、LGD、BOE的一致认可"
+    },
+    {
+      "name": "A公司（苹果）",
+      "relation_type": "customer",
+      "business_details": "减薄业务供应商，为其NB和PAD产品面板进行减薄",
+      "quote": "公司系 A 公司在中国大陆唯一通过认证的减薄业务供应商"
+    },
+    {
+      "name": "京东方",
+      "relation_type": "customer",
+      "business_details": "减薄业务客户",
+      "quote": "公司减薄业务客户群涵盖京东方、天马、华星光电、中电熊猫，夏普、LG、群创、友达等国内外知名面板客户"
+    },
+    {
+      "name": "天马",
+      "relation_type": "customer",
+      "business_details": "减薄业务客户",
+      "quote": "公司减薄业务客户群涵盖京东方、天马、华星光电、中电熊猫，夏普、LG、群创、友达等国内外知名面板客户"
+    },
+    {
+      "name": "华星光电",
+      "relation_type": "customer",
+      "business_details": "减薄业务客户",
+      "quote": "公司减薄业务客户群涵盖京东方、天马、华星光电、中电熊猫，夏普、LG、群创、友达等国内外知名面板客户"
+    },
+    {
+      "name": "小天才",
+      "relation_type": "customer",
+      "business_details": "独供Z系列手表",
+      "quote": "独供小天才Z系列"
+    },
+    {
+      "name": "华为",
+      "relation_type": "customer",
+      "business_details": "独供GT系列手表",
+      "quote": "独供华为GT系列"
+    },
+    {
+      "name": "小米",
+      "relation_type": "customer",
+      "business_details": "独供旗舰手表",
+      "quote": "独供小米旗舰手表"
+    },
+    {
+      "name": "OPPO",
+      "relation_type": "customer",
+      "business_details": "提供第一款可穿戴手表及手机触控显示模组",
+      "quote": "为OPPO提供第一款可穿戴手表...客户群包括OPPO"
+    },
+    {
+      "name": "VIVO",
+      "relation_type": "customer",
+      "business_details": "手机触控显示模组客户",
+      "quote": "客户群包括...VIVO"
+    },
+    {
+      "name": "荣耀",
+      "relation_type": "customer",
+      "business_details": "UTG产品供应商",
+      "quote": "2025年，公司顺利切入荣耀供应链，为其 Magic V Flip 2 折叠屏机型独家供应 UTG 产品"
+    },
+    {
+      "name": "闻泰",
+      "relation_type": "customer",
+      "business_details": "NB、PAD模组客户",
+      "quote": "为闻泰、联想、华硕、华为、DELL、HP等客户提供多种高端NB、PAD模组业务"
+    },
+    {
+      "name": "联想",
+      "relation_type": "customer",
+      "business_details": "NB、PAD模组客户",
+      "quote": "为闻泰、联想、华硕、华为、DELL、HP等客户提供多种高端NB、PAD模组业务"
+    },
+    {
+      "name": "华硕",
+      "relation_type": "customer",
+      "business_details": "NB、PAD模组客户",
+      "quote": "为闻泰、联想、华硕、华为、DELL、HP等客户提供多种高端NB、PAD模组业务"
+    },
+    {
+      "name": "DELL",
+      "relation_type": "customer",
+      "business_details": "NB、PAD模组客户",
+      "quote": "为闻泰、联想、华硕、华为、DELL、HP等客户提供多种高端NB、PAD模组业务"
+    },
+    {
+      "name": "HP",
+      "relation_type": "customer",
+      "business_details": "NB、PAD模组客户",
+      "quote": "为闻泰、联想、华硕、华为、DELL、HP等客户提供多种高端NB、PAD模组业务"
+    },
+    {
+      "name": "Quest（Meta）",
+      "relation_type": "customer",
+      "business_details": "VR头显模组客户",
+      "quote": "报告期内公司为北美VR旗舰客户提供Quest3、Quest3S的VR头显模组产品"
+    },
+    {
+      "name": "小米",
+      "relation_type": "customer",
+      "business_details": "HUD全贴合产品客户（小米YU7）",
+      "quote": "已为小米 YU7 车型提供 HUD 全贴合产品"
+    },
+    {
+      "name": "青海联通旗下子公司",
+      "relation_type": "customer",
+      "business_details": "算力服务客户",
+      "quote": "2026年长信智算与青海联通旗下子公司签署5年期、2.62亿元算力服务协议"
+    },
+    {
+      "name": "OPC资源平台",
+      "relation_type": "partner",
+      "business_details": "算力消纳合作伙伴",
+      "quote": "联动公司实际控制人安徽省投资集团旗下中安创谷等产业平台，深化与OPC资源平台的战略合作"
+    },
+    {
+      "name": "德普特投资管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "已转让股权",
+      "quote": "自新疆润丰股权投资企业（有限合伙）及赣州市德普特投资管理有限公司向芜湖铁元投资有限公司转让其持有长信科技股份"
+    },
+    {
+      "name": "芜湖东信光电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "专注于可折叠玻璃及相关器件的研发、制造与销售",
+      "quote": "公司子公司芜湖东信光电科技有限公司专注于可折叠玻璃及相关器件的研发、制造与销售"
+    },
+    {
+      "name": "芜湖长信智算科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "布局算力赛道",
+      "quote": "新设子公司芜湖长信智算科技有限公司布局算力赛道"
+    },
+    {
+      "name": "长信科技（越南）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "越南子公司",
+      "quote": "本报告期内公司新设 1 家全资子公司长信科技（越南）有限公司"
+    },
+    {
+      "name": "深圳市比克动力电池有限公司",
+      "relation_type": "investee",
+      "business_details": "联营公司，长期股权投资",
+      "quote": "长期股权投资减值准备为 458,387,949.46 元，系对联营公司深圳市比克动力电池有限公司股权投资计提的减值准备"
+    },
+    {
+      "name": "深圳市比克电池有限公司",
+      "relation_type": "counterparty",
+      "business_details": "业绩承诺补偿义务方",
+      "quote": "根据亚太（集团）会计师事务所(特殊普通合伙)出具的...比克动力2018年...未实现承诺的2018年度净利润指标，应补偿金额为11,552.0845万元"
+    },
+    {
+      "name": "中安创谷",
+      "relation_type": "partner",
+      "business_details": "公司实际控制人旗下产业平台，与算力业务联动",
+      "quote": "联动公司实际控制人安徽省投资集团旗下中安创谷等产业平台"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "7,548,757,101.61",
+      "revenue_proportion": "65.23%",
+      "gross_margin": "10.28%",
+      "yoy_change": "10.82%",
+      "quote": "境内 7,548,757,101.61 65.23% 6,016,669,641.18 54.41% 10.82%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "4,024,083,671.39",
+      "revenue_proportion": "34.77%",
+      "gross_margin": "11.66%",
+      "yoy_change": "-10.82%",
+      "quote": "境外 4,024,083,671.39 34.77% 5,041,101,589.24 45.59% -10.82%"
+    },
+    {
+      "name": "直接销售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "11,572,840,773.00",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "10.76%",
+      "yoy_change": "4.66%",
+      "quote": "直接销售 11,572,840,773.00 100.00% 11,057,771,230.42 100.00% 4.66%"
+    },
+    {
+      "name": "电子材料（按行业）",
+      "segment_type": "business_unit",
+      "revenue_amount": "11,572,840,773.00",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "10.76%",
+      "yoy_change": "4.66%",
+      "quote": "电子材料 11,572,840,773.00 100.00% 11,057,771,230.42 100.00% 4.66%"
+    },
+    {
+      "name": "触控显示器件材料（按产品）",
+      "segment_type": "product_line",
+      "revenue_amount": "11,572,840,773.00",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "10.76%",
+      "yoy_change": "4.66%",
+      "quote": "触控显示器件材料 11,572,840,773.00 100.00% 11,057,771,230.42 100.00% 4.66%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "UFG（不等厚超薄玻璃盖板）",
+      "metric_type": "capacity",
+      "value": "200K/M",
+      "period": null,
+      "quote": "可以应对量产交付，具备 200K/M 生产能力"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "触控显示模块一体化项目——智能穿戴项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "123,000.00",
+      "designed_capacity": null,
+      "progress": "已实施完毕",
+      "expected_completion_time": "2024年12月31日",
+      "quote": "鉴于公司“触控显示模块一体化项目——智能穿戴项目”已实施完毕"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "Pattern Glass研发",
+      "asset_type": "core_technology",
+      "related_product": "UTG",
+      "quantitative_info": "处于工艺调试及产品性能测试阶段",
+      "quote": "截至2025年末，处于工艺调试及产品性能测试阶段"
+    },
+    {
+      "name": "3D可折叠玻璃涂层盖板研发",
+      "asset_type": "core_technology",
+      "related_product": "UFG",
+      "quantitative_info": "开始产品试制与验证",
+      "quote": "截至2025年末，开始产品试制与验证"
+    },
+    {
+      "name": "窄边框贴合及BLU组装工艺开发",
+      "asset_type": "process_technology",
+      "related_product": "车载显示模组",
+      "quantitative_info": "已达成项目研发目标",
+      "quote": "已达成项目研发目标"
+    },
+    {
+      "name": "超精细蚀刻AG及喷涂AG开发",
+      "asset_type": "process_technology",
+      "related_product": "车载盖板",
+      "quantitative_info": "已达成项目研发目标",
+      "quote": "已达成项目研发目标"
+    },
+    {
+      "name": "OLED COF 项目工艺研发",
+      "asset_type": "process_technology",
+      "related_product": "OLED显示模组",
+      "quantitative_info": "已达成项目研发目标",
+      "quote": "已达成项目研发目标"
+    },
+    {
+      "name": "高PPI VR显示模组AOI检测技术的研发",
+      "asset_type": "core_technology",
+      "related_product": "VR显示模组",
+      "quantitative_info": "预计2026年12月可按时完成研发",
+      "quote": "预计2026年12月可按时完成研发"
+    },
+    {
+      "name": "高亮度LCD背光技术的研发",
+      "asset_type": "core_technology",
+      "related_product": "LCD显示模组",
+      "quantitative_info": "达成具体技术指标",
+      "quote": "达成具体技术指标如下"
+    },
+    {
+      "name": "XR沉浸式显示技术的研发",
+      "asset_type": "core_technology",
+      "related_product": "OLED显示屏",
+      "quantitative_info": "预计2026年5月可按时完成研发",
+      "quote": "预计2026年5月可按时完成研发"
+    },
+    {
+      "name": "5Mask电子纸驱动基板研发",
+      "asset_type": "process_technology",
+      "related_product": "电子纸驱动基板",
+      "quantitative_info": "进行中",
+      "quote": "进行中"
+    },
+    {
+      "name": "微孔互连玻璃基板技术开发",
+      "asset_type": "core_technology",
+      "related_product": "TGV基板",
+      "quantitative_info": "进行中",
+      "quote": "进行中"
+    },
+    {
+      "name": "低反射一体黑技术、超窄边框工艺、AG防眩光产品、HUD产品、隐藏显示及柔性OLED贴合",
+      "asset_type": "core_technology",
+      "related_product": "汽车电子",
+      "quantitative_info": "取得了显著进展",
+      "quote": "报告期内公司在低反射一体黑技术、超窄边框工艺、AG防眩光产品、HUD产品、隐藏显示及柔性OLED贴合等新业务上取得了显著进展"
+    },
+    {
+      "name": "车载 HUD 曲面反射镜技术",
+      "asset_type": "core_technology",
+      "related_product": "HUD部件",
+      "quantitative_info": "已完成车载 HUD 镜片项目对接",
+      "quote": "现已掌握车载 HUD 曲面反射镜技术并完成车载 HUD 镜片项目对接"
+    },
+    {
+      "name": "木纹纹理隐藏显示技术",
+      "asset_type": "core_technology",
+      "related_product": "新型显示",
+      "quantitative_info": "已于CES2025展出",
+      "quote": "开发完成木纹纹理隐藏显示技术...该产品已于 CES2025 展出"
+    },
+    {
+      "name": "柔性OLED贴合技术",
+      "asset_type": "core_technology",
+      "related_product": "车载显示",
+      "quantitative_info": "具备UTG+OLED贴合能力",
+      "quote": "突破柔性OLED贴合技术，具备UTG+OLED贴合能力"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "53.76%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 53.76%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25.62%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.62%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际关税政策与地缘经贸的风险，全球贸易保护主义持续升温，国际贸易摩擦进一步加剧，全球供应链面临持续重构压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、国际关税政策与地缘经贸的风险。2026 年全球贸易保护主义持续升温..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争加剧的风险，新能源汽车行业“内卷”严重，竞争对手迅速进入此领域，市场竞争形势日趋严峻。",
+      "related_entity": null,
+      "related_product": "汽车电子业务",
+      "quote": "2、行业竞争加剧的风险。...基于汽车电子行业的连续高速增长和未来发展的巨大潜力，竞争对手迅速进入此领域，市场竞争形势日趋严峻。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术更新的风险，下游需求对其发展有直接决定作用，技术升级频繁，产品更新换代速度较快。",
+      "related_entity": null,
+      "related_product": "光电显示器件及精加工产品",
+      "quote": "3、技术更新的风险。光电显示器件及精加工作为移动互联市场的上游产业，下游需求对其发展有直接决定作用。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "商誉减值的风险，如被收购公司业绩出现大幅下滑且无扭转希望，可能出现计提商誉减值的风险。",
+      "related_entity": "被收购公司",
+      "related_product": null,
+      "quote": "4、商誉减值的风险。商誉是由公司进行投资并购累积形成..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "应收账款的风险，由于行业经营的特点，应收账款一直占比较高。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、应收账款的风险。由于行业经营的特点，应收账款一直占比较高。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心技术人才流失的风险，人才竞争非常激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、核心技术人才流失的风险。公司所在的电子行业对于核心技术人才的需求旺盛、人才竞争非常激烈..."
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "外汇汇率变动的风险，公司的进出口业务主要以美元进行结算，汇率波动具有不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "7、外汇汇率变动的风险。公司的进出口业务主要以美元进行结算，结算货币与人民币之间的汇率...具有较大的不确定性，导致公司面临汇率变动风险。"
+    }
+  ]
+}

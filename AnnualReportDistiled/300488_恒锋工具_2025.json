@@ -1,0 +1,418 @@
+{
+  "company_name_mentioned": "恒锋工具股份有限公司",
+  "produces": [
+    {
+      "name": "精密复杂刃量具",
+      "type": "device",
+      "revenue_proportion": "62.06%",
+      "quote": "精密复杂刃量具 442,499,121.60 62.06%"
+    },
+    {
+      "name": "拉削刀具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司的产品主要包括精密复杂刃量具和精密高效刀具两大类，精密复杂刃量具细分为拉削刀具、冷挤压成型刀具、精密量具、齿轮刀具四大系列"
+    },
+    {
+      "name": "冷挤压成型刀具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "精密复杂刃量具细分为拉削刀具、冷挤压成型刀具、精密量具、齿轮刀具四大系列"
+    },
+    {
+      "name": "精密量具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "精密复杂刃量具细分为拉削刀具、冷挤压成型刀具、精密量具、齿轮刀具四大系列"
+    },
+    {
+      "name": "齿轮刀具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "精密复杂刃量具细分为拉削刀具、冷挤压成型刀具、精密量具、齿轮刀具四大系列"
+    },
+    {
+      "name": "精密高效刀具",
+      "type": "device",
+      "revenue_proportion": "22.95%",
+      "quote": "精密高效刀具 163,655,332.91 22.95%"
+    },
+    {
+      "name": "铣削刀具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "精密高效刀具细分为铣削刀具、钻削刀具、丝锥三大系列"
+    },
+    {
+      "name": "钻削刀具",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "精密高效刀具细分为铣削刀具、钻削刀具、丝锥三大系列"
+    },
+    {
+      "name": "丝锥",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "精密高效刀具细分为铣削刀具、钻削刀具、丝锥三大系列"
+    },
+    {
+      "name": "高端生产性服务（精密修磨服务、加工工艺服务、检验检测服务、定制设计服务、新产品同步开发服务等）",
+      "type": "service",
+      "revenue_proportion": "12.96%",
+      "quote": "高端生产性服务 92,389,237.82 12.96%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "高性能高速钢",
+      "target_product": "精密复杂刃量具、精密高效刀具",
+      "cost_proportion": null,
+      "quote": "公司原材料主要为高性能高速钢及硬质合金。高性能高速钢为公司的主要原材料之一"
+    },
+    {
+      "name": "硬质合金",
+      "target_product": "精密复杂刃量具、精密高效刀具",
+      "cost_proportion": null,
+      "quote": "硬质合金也是公司的主要原材料之一"
+    },
+    {
+      "name": "砂轮、油料、五金、机床配件及包装物等辅料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司的辅料主要为砂轮、油料、五金、机床配件及包装物等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空航天",
+      "source_product": "拉削刀具、铣削刀具等",
+      "quote": "拉削刀具因其加工高精度、高效率及高稳定性特性，被广泛应用于航空发动机、燃气轮机...等精密机械零部件的批量化制造场景"
+    },
+    {
+      "name": "汽车零部件",
+      "source_product": "拉削刀具、冷挤压成型刀具、精密量具、齿轮刀具、铣削刀具、丝锥等",
+      "quote": "公司产品主要的应用领域为：航空航天、汽车零部件、工程机械..."
+    },
+    {
+      "name": "工程机械",
+      "source_product": "钻削刀具、丝锥等",
+      "quote": "公司产品主要的应用领域为：航空航天、汽车零部件、工程机械..."
+    },
+    {
+      "name": "电站设备",
+      "source_product": "拉削刀具、铣削刀具",
+      "quote": "拉削刀具因其加工高精度、高效率及高稳定性特性，被广泛应用于...电站设备..."
+    },
+    {
+      "name": "智能驱动（含机器人关节）",
+      "source_product": "拉削刀具、精密量具、齿轮刀具",
+      "quote": "拉削刀具因其加工高精度、高效率及高稳定性特性，被广泛应用于...机器人关节..."
+    },
+    {
+      "name": "船舶",
+      "source_product": "钻削刀具",
+      "quote": "钢板钻主要应用于船舶、钢结构板、桥梁、管道打孔等领域"
+    },
+    {
+      "name": "钢结构工程",
+      "source_product": "钻削刀具",
+      "quote": "钢板钻主要应用于船舶、钢结构板、桥梁、管道打孔等领域"
+    },
+    {
+      "name": "风电设备",
+      "source_product": null,
+      "quote": "公司产品主要的应用领域为：航空航天、汽车零部件、工程机械、电站设备、智能驱动、船舶、钢结构工程、风电设备..."
+    },
+    {
+      "name": "轨道交通",
+      "source_product": "钻削刀具",
+      "quote": "钢轨钻主要应用于铁路轨道建设及铁路养护维修领域"
+    },
+    {
+      "name": "核电",
+      "source_product": "拉削刀具、钻削刀具（BTA）",
+      "quote": "核电支撑板拉刀...；BTA 主要应用于石油化工、锅炉容器、核电管板等领域"
+    },
+    {
+      "name": "石油化工",
+      "source_product": "钻削刀具（BTA）",
+      "quote": "BTA 主要应用于石油化工、锅炉容器、核电管板等领域难加工材料的深孔加工"
+    },
+    {
+      "name": "人形机器人（关节RV减速器、谐波减速器）",
+      "source_product": "硬质合金特小模数齿轮刀具",
+      "quote": "硬质合金特小模数齿轮刀具应用于人形机器人关节 RV 减速器、谐波减速器等内外齿轮的加工"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陈尔容",
+      "role": "董事长",
+      "quote": "公司负责人陈尔容...；现任恒锋工具董事长"
+    },
+    {
+      "name": "陈子彦",
+      "role": "董事、总经理",
+      "quote": "现任恒锋工具董事、总经理"
+    },
+    {
+      "name": "陈子怡",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "现任恒锋工具董事、副总经理、董事会秘书"
+    },
+    {
+      "name": "郑继良",
+      "role": "主管会计工作负责人、会计机构负责人（财务总监）",
+      "quote": "主管会计工作负责人郑继良及会计机构负责人(会计主管人员)郑继良声明...；现任公司财务总监"
+    },
+    {
+      "name": "黄少明",
+      "role": "独立董事",
+      "quote": "现任...本公司独立董事"
+    },
+    {
+      "name": "沈洪垚",
+      "role": "独立董事",
+      "quote": "现任浙江大学高端装备研究院副院长；...本公司独立董事"
+    },
+    {
+      "name": "马洪培",
+      "role": "独立董事",
+      "quote": "现任法狮龙家居建材股份有限公司独立董事、本公司独立董事"
+    },
+    {
+      "name": "阳敏莉",
+      "role": "职工代表董事",
+      "quote": "现任公司体系运行小组负责人、内部审计负责人、职工代表董事"
+    },
+    {
+      "name": "姚海峰",
+      "role": "副总经理",
+      "quote": "现任公司副总经理，主管营销服务中心工作"
+    },
+    {
+      "name": "何勤松",
+      "role": "副总经理",
+      "quote": "现任公司副总经理，主管技术质量研发中心工作"
+    },
+    {
+      "name": "周姚娟",
+      "role": "副总经理",
+      "quote": "现任公司副总经理，主管生产制造、人事工作、安保工作"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "恒锋控股有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东为恒锋控股有限公司"
+    },
+    {
+      "name": "浙江上优刀具有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，主要业务为刀具、其他金属工具、量具",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 公司名称 浙江上优刀具有限公司 公司类型 子公司 主要业务 刀具、其他金属工具、量具"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "精密复杂刃量具",
+      "segment_type": "product_line",
+      "revenue_amount": "442,499,121.60元",
+      "revenue_proportion": "62.06%",
+      "gross_margin": "50.26%",
+      "yoy_change": "18.45%",
+      "quote": "精密复杂刃量具 442,499,121.60 62.06% ... 营业收入 442,499,121.60 220,109,681.13 50.26% 18.45%"
+    },
+    {
+      "name": "精密高效刀具",
+      "segment_type": "product_line",
+      "revenue_amount": "163,655,332.91元",
+      "revenue_proportion": "22.95%",
+      "gross_margin": "19.71%",
+      "yoy_change": "22.86%",
+      "quote": "精密高效刀具 163,655,332.91 22.95% ... 营业收入 163,655,332.91 131,401,477.23 19.71% 22.86%"
+    },
+    {
+      "name": "高端生产性服务",
+      "segment_type": "product_line",
+      "revenue_amount": "92,389,237.82元",
+      "revenue_proportion": "12.96%",
+      "gross_margin": "56.92%",
+      "yoy_change": "3.62%",
+      "quote": "高端生产性服务 92,389,237.82 12.96% ... 营业收入 92,389,237.82 39,801,794.43 56.92% 3.62%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "668,616,828.56元",
+      "revenue_proportion": "93.77%",
+      "gross_margin": "45.88%",
+      "yoy_change": "16.09%",
+      "quote": "境内 668,616,828.56 93.77% ... 营业收入 668,616,828.56 361,888,040.53 45.88% 16.09%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "44,437,414.91元",
+      "revenue_proportion": "6.23%",
+      "gross_margin": "26.54%",
+      "yoy_change": "37.52%",
+      "quote": "境外 44,437,414.91 6.23% ... 营业收入 44,437,414.91 32,642,915.90 26.54% 37.52%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "454,258,565.22元",
+      "revenue_proportion": "63.71%",
+      "gross_margin": null,
+      "yoy_change": "13.41%",
+      "quote": "直销 454,258,565.22 63.71%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "258,795,678.25元",
+      "revenue_proportion": "36.29%",
+      "gross_margin": null,
+      "yoy_change": "24.58%",
+      "quote": "经销 258,795,678.25 36.29%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "金属制品业",
+      "metric_type": "sales_volume",
+      "value": "1,550,168件",
+      "period": "2025年",
+      "quote": "销售量 件 1,550,168"
+    },
+    {
+      "product": "金属制品业",
+      "metric_type": "production_volume",
+      "value": "1,610,414件",
+      "period": "2025年",
+      "quote": "生产量 件 1,610,414"
+    },
+    {
+      "product": "金属制品业",
+      "metric_type": "inventory_volume",
+      "value": "608,256件",
+      "period": "2025年末",
+      "quote": "库存量 件 608,256"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产150万件精密刃量具高端化、智能化、绿色化先进制造项目",
+      "project_type": "fundraising_project",
+      "location": "浙江省嘉兴市海盐县武原街道海兴东路68号；浙江省嘉兴市海盐县望海街道恒丰路8号",
+      "investment_amount": "46,683万元（承诺投资总额）",
+      "designed_capacity": "150万件",
+      "progress": "45.77%（项目进度）",
+      "expected_completion_time": "2027年12月31日",
+      "quote": "公司可转债募投项目‘年产150万件精密刃量具高端化、智能化、绿色化先进制造项目’...累计已投入募集资金21,366.70万元...预计达到可使用状态日期延长至2027年12月31日"
+    },
+    {
+      "name": "恒锋工具研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "6,239万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "60.70%（项目进度）",
+      "expected_completion_time": "2027年5月31日",
+      "quote": "恒锋工具研发中心建设项目...预计达到可使用状态日期延长至2027年5月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "核心技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "22项",
+      "quote": "拥有...‘航空发动机涡轮盘榫槽加工技术’等22项核心技术"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期内取得发明专利5项、实用新型专利2项",
+      "quote": "报告期内，公司取得发明专利5项、实用新型专利2项"
+    },
+    {
+      "name": "CNAS实验室",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有国家级CNAS实验室"
+    },
+    {
+      "name": "国家技术创新示范企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "被工信部认定为‘国家技术创新示范企业’"
+    },
+    {
+      "name": "专精特新小巨人企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "成为工信部首批‘专精特新’小巨人企业"
+    },
+    {
+      "name": "单项冠军示范企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "2021年公司被工信部认定为‘单项冠军示范企业’"
+    },
+    {
+      "name": "刀具量具国家标准及行业标准制定参与",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司目前是国家刀具标准化技术委员会复杂刀具分委会副主任单位和全国量具量仪标准化技术委员会花键量具工作组召集单位，曾多次参与或主持刀具量具类国家及行业标准的修制订工作"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "20.67%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 20.67%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "46.66%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 46.66%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险。2025年以来，随着主要原料碳化钨及钴粉价格历史性暴涨，公司原材料高性能高速钢和硬质合金采购成本持续大幅上涨。",
+      "related_entity": null,
+      "related_product": "高性能高速钢、硬质合金",
+      "quote": "1、原材料价格波动的风险 2025年以来，随着主要原料碳化钨及钴粉价格历史性暴涨，公司原材料高性能高速钢和硬质合金采购成本持续大幅上涨。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧的风险。公司在企业规模、产品国际化水平等方面，与国际领先企业还有较大的差距。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争加剧的风险...公司在企业规模、产品国际化水平等方面，与国际领先企业还有较大的差距。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新业务拓展不及预期风险。公司布局的人形机器人等新兴业务目前整体仍处于市场培育初期阶段，行业发展尚未成熟，存在市场需求不确定、技术路径变化等风险。",
+      "related_entity": null,
+      "related_product": "人形机器人相关精密刀具",
+      "quote": "3、新业务拓展不及预期风险 公司布局的人形机器人等新兴业务目前整体仍处于市场培育初期阶段，行业发展尚未成熟，存在市场需求不确定、技术路径变化等风险。"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "company_name_mentioned": "同兴环保科技股份有限公司",
+  "produces": [
+    {
+      "name": "烟气治理工程与设备",
+      "type": "service",
+      "revenue_proportion": "61.60%",
+      "quote": "分产品：烟气治理工程与设备 445,767,728.15 61.60%"
+    },
+    {
+      "name": "催化剂",
+      "type": "material",
+      "revenue_proportion": "38.09%",
+      "quote": "分产品：催化剂 275,647,646.16 38.09%"
+    },
+    {
+      "name": "低温SCR脱硝催化剂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司生产的低温SCR脱硝催化剂相比高温SCR脱硝催化剂而言，可以有效地降低运营成本、降低能源消耗、减少污染物排放、实现NOx的达标排放，具有明显的竞争优势和社会、经济价值。"
+    },
+    {
+      "name": "脱硝设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司生产的脱硝设备有单仓脱硝设备、并联多仓脱硝设备及除尘脱硝一体化设备。"
+    },
+    {
+      "name": "除尘设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司除尘设备主要包括脱硫系统配套除尘设备、焦炉地面除尘站设备、高压氨水侧导系统设备及其他环境除尘设备。"
+    },
+    {
+      "name": "二氧化碳捕集吸收剂（TX系列）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司自主研发了TX-1、TX-2、TX-P等系列吸收剂，再生能耗、抗氧化能力、脱碳率、再生气纯度等技术指标大幅提升，具有完备的湿法碳捕集技术体系。"
+    },
+    {
+      "name": "钠离子电池正极材料（NFPP/S-NFPP）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司钠离子电池材料主要是聚阴离子正极材料，自主研发的通用型NFPP、高首充S-NFPP等产品具有高比容量、长循环稳定、高倍率性能、良好的压实密度、低成本等优势。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "钢材/钢构件",
+      "target_product": "烟气治理工程与设备",
+      "cost_proportion": "17.24%",
+      "quote": "主要原材料：钢材/钢构件（元/kg）采购模式：按订单安排，按需从钢材经销商处采购 上半年平均价格 4.99 下半年平均价格 4.04 采购额占采购总额的比例 17.24%"
+    },
+    {
+      "name": "催化剂原材料A",
+      "target_product": "催化剂",
+      "cost_proportion": "14.27%",
+      "quote": "催化剂原材料A(元/kg) 采购模式：按订单安排，按需从厂家直采 上半年平均价格 12.46 下半年平均价格 11.69 采购额占采购总额的比例 14.27%"
+    },
+    {
+      "name": "催化剂原材料B",
+      "target_product": "催化剂",
+      "cost_proportion": "10.32%",
+      "quote": "催化剂原材料B(元/kg) 采购模式：按订单安排，按需从厂家直采 上半年平均价格 194.35 下半年平均价格 228.99 采购额占采购总额的比例 10.32%"
+    },
+    {
+      "name": "催化剂原材料C",
+      "target_product": "催化剂",
+      "cost_proportion": "7.35%",
+      "quote": "催化剂原材料C（元/kg) 采购模式：按订单安排，按需从厂家直采 上半年平均价格 95.95 下半年平均价格 96.33 采购额占采购总额的比例 7.35%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "钢铁行业",
+      "source_product": "烟气治理工程与设备/催化剂",
+      "quote": "传统烟气治理业务持续保持行业优势，钢铁、焦化、建材、造纸等领域市场地位稳固。"
+    },
+    {
+      "name": "焦化行业",
+      "source_product": "烟气治理工程与设备/催化剂",
+      "quote": "传统烟气治理业务持续保持行业优势，钢铁、焦化、建材、造纸等领域市场地位稳固。"
+    },
+    {
+      "name": "建材（水泥）行业",
+      "source_product": "烟气治理工程与设备/催化剂",
+      "quote": "传统烟气治理业务持续保持行业优势，钢铁、焦化、建材、造纸等领域市场地位稳固。"
+    },
+    {
+      "name": "造纸行业",
+      "source_product": "烟气治理工程与设备",
+      "quote": "传统烟气治理业务持续保持行业优势，钢铁、焦化、建材、造纸等领域市场地位稳固。亚太森博 7500吨碱炉脱硝项目高效投运。"
+    },
+    {
+      "name": "垃圾焚烧",
+      "source_product": "催化剂",
+      "quote": "150℃超低温催化剂成功应用于垃圾焚烧领域。"
+    },
+    {
+      "name": "船舶",
+      "source_product": "催化剂",
+      "quote": "240℃低温 CO催化剂、脱硝效率超90%的船舶宽温区SCR催化剂相继研发成功。"
+    },
+    {
+      "name": "储能系统",
+      "source_product": "钠离子电池正极材料",
+      "quote": "为储能、低速车、启停电源等场景订单转化奠定基础。"
+    },
+    {
+      "name": "低速电动车",
+      "source_product": "钠离子电池正极材料",
+      "quote": "为储能、低速车、启停电源等场景订单转化奠定基础。"
+    },
+    {
+      "name": "启停电源/UPS电源",
+      "source_product": "钠离子电池正极材料",
+      "quote": "主要应用于储能系统、启停电源、低速电动车、UPS电源等场景。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "郑光明",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人郑光明、主管会计工作负责人唐亚萍及会计机构负责人（会计主管人员）唐亚萍声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "郑勇",
+      "role": "董事、总经理",
+      "quote": "郑勇：男，1990年8月出生... 2023年6月至今任公司董事、总经理。"
+    },
+    {
+      "name": "朱宁",
+      "role": "董事、副董事长",
+      "quote": "朱宁：男，1973年2月出生... 2022年2月至今任公司副董事长。"
+    },
+    {
+      "name": "郎义广",
+      "role": "董事",
+      "quote": "郎义广：男，1968年6月出生... 2011年1月至今任公司董事。"
+    },
+    {
+      "name": "吕文彬",
+      "role": "总工程师、副总经理",
+      "quote": "吕文彬：男，1977年12月出生... 2017年1月至今任公司总工程师；2021年1月至今任公司副总经理。"
+    },
+    {
+      "name": "吴伟",
+      "role": "副总经理",
+      "quote": "吴伟：男，1986年5月出生... 2021年1月至今任公司副总经理。"
+    },
+    {
+      "name": "陈建武",
+      "role": "副总经理",
+      "quote": "陈建武：男，1978年11月出生... 2023年6月至今任公司副总经理。"
+    },
+    {
+      "name": "沈先锋",
+      "role": "副总经理",
+      "quote": "沈先锋：男，1990年10月出生... 2024年10月至今，任公司副总经理。"
+    },
+    {
+      "name": "张俊",
+      "role": "常务副总经理",
+      "quote": "张俊：男，1975年1月出生... 2025年11月至今，任公司常务副总经理。"
+    },
+    {
+      "name": "唐亚萍",
+      "role": "财务总监",
+      "quote": "唐亚萍：女，1990年12月出生... 2025年11月至今，任公司财务总监。"
+    },
+    {
+      "name": "何洪",
+      "role": "董事",
+      "quote": "何洪：男，1956年4月出生... 2025年5月至今任公司董事。"
+    },
+    {
+      "name": "沈博磊",
+      "role": "职工代表董事",
+      "quote": "沈博磊：男，1993年5月出生... 2025年12月至今任公司职工代表董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京方信立华科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，主要业务为SCR蜂窝式脱硝催化剂研发、生产、销售。",
+      "quote": "北京方信 指 北京方信立华科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "安徽方信立华环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "北京方信全资子公司。",
+      "quote": "安徽方信 指 安徽方信立华环保科技有限公司，北京方信全资子公司"
+    },
+    {
+      "name": "马鞍山方信环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "北京方信全资子公司。",
+      "quote": "马鞍山方信 指 马鞍山方信环保科技有限公司，北京方信全资子公司"
+    },
+    {
+      "name": "同兴皓升（宜宾）新能源科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，原合肥皓升新能源科技有限公司，从事钠电材料业务。",
+      "quote": "同兴皓升 指 同兴皓升（宜宾）新能源科技有限公司（原合肥皓升新能源科技有限公司）,公司控股子公司"
+    },
+    {
+      "name": "同兴能源科技（马鞍山）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司。",
+      "quote": "同兴能源科技 指 同兴能源科技（马鞍山）有限公司（原马鞍山皓升新能源科技有限公司），公司全资子公司"
+    },
+    {
+      "name": "安徽同兴碳衡科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司。",
+      "quote": "同兴碳衡 指 安徽同兴碳衡科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "亚太森博",
+      "relation_type": "customer",
+      "business_details": "公司为其提供烟气治理工程服务，如7500吨碱炉脱硝项目。",
+      "quote": "亚太森博 7500吨碱炉脱硝项目高效投运"
+    },
+    {
+      "name": "青山集团（广青科技）",
+      "relation_type": "customer",
+      "business_details": "公司为其镍铁冶炼项目提供烟气治理工程服务。",
+      "quote": "青山集团广青科技RKEF回转窑脱硝项目顺利成交。"
+    },
+    {
+      "name": "浦项钢铁",
+      "relation_type": "customer",
+      "business_details": "公司与其签约催化剂项目。",
+      "quote": "成功签约韩国浦项钢铁催化剂项目"
+    },
+    {
+      "name": "安徽国控十月新兴产业股权投资基金（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "公司以自有资金80,000.00万元参与投资，持股比例10.00%。",
+      "quote": "被投资公司名称：安徽国控十月新兴产业股权投资基金（有限合伙） 投资金额：80,000.00万元 持股比例：10.00%"
+    },
+    {
+      "name": "全球碳捕集与封存研究院",
+      "relation_type": "competitor",
+      "business_details": "公司于2025年6月正式加入。",
+      "quote": "2025年6月，公司正式加入全球碳捕集与封存研究院，标志着公司碳捕集、利用与封存（CCUS）技术实力获得国际权威机构认可。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "大气污染治理行业",
+      "segment_type": "other",
+      "revenue_amount": "721,779,357.49",
+      "revenue_proportion": "99.74%",
+      "gross_margin": null,
+      "yoy_change": "0.06%",
+      "quote": "分行业：大气污染治理行业 721,779,357.49 99.74% ... 同比增减 0.06%"
+    },
+    {
+      "name": "烟气治理工程与设备",
+      "segment_type": "product_line",
+      "revenue_amount": "445,767,728.15",
+      "revenue_proportion": "61.60%",
+      "gross_margin": "27.98%",
+      "yoy_change": "1.57%",
+      "quote": "分产品：烟气治理工程与设备 445,767,728.15 61.60% ... 营业收入比上年同期增减 1.57% ... 毛利率比上年增减 23.08%"
+    },
+    {
+      "name": "催化剂",
+      "segment_type": "product_line",
+      "revenue_amount": "275,647,646.16",
+      "revenue_proportion": "38.09%",
+      "gross_margin": "24.94%",
+      "yoy_change": "-1.92%",
+      "quote": "分产品：催化剂 275,647,646.16 38.09% ... 营业收入比上年同期增减 -1.92% ... 毛利率比上年增减 38.18%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "722,082,474.52",
+      "revenue_proportion": "99.78%",
+      "gross_margin": null,
+      "yoy_change": "-0.31%",
+      "quote": "分地区：国内 722,082,474.52 99.78% ... 同比增减 -0.31%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "1,588,658.00",
+      "revenue_proportion": "0.22%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "分地区：国外 1,588,658.00 0.22%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "723,671,132.52",
+      "revenue_proportion": "100.00%",
+      "gross_margin": null,
+      "yoy_change": "-0.09%",
+      "quote": "分销售模式：直销 723,671,132.52 100.00% ... 同比增减 -0.09%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "低温SCR脱硝催化剂",
+      "metric_type": "capacity",
+      "value": "18000立方米",
+      "period": null,
+      "quote": "主要产品 设计产能：低温SCR脱硝催化剂 18000立方米"
+    },
+    {
+      "product": "低温SCR脱硝催化剂",
+      "metric_type": "capacity_utilization",
+      "value": "95.46%",
+      "period": null,
+      "quote": "主要产品 产能利用率：低温SCR脱硝催化剂 95.46%"
+    },
+    {
+      "product": "SCR脱硝催化剂",
+      "metric_type": "sales_volume",
+      "value": "约18000立方",
+      "period": "2025年",
+      "quote": "全年SCR脱硝催化剂销量约18000立方，销量创历史新高。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "钠电正极材料项目",
+      "project_type": "capacity_expansion",
+      "location": "四川屏山县",
+      "investment_amount": null,
+      "designed_capacity": "一期建设规划产能20000吨",
+      "progress": "与四川屏山县政府签约落地并启动建设",
+      "expected_completion_time": null,
+      "quote": "与四川屏山县政府签约落地钠电正极材料项目并启动建设... 一期建设规划产能20000吨。"
+    },
+    {
+      "name": "首个亿元级CCUS EPC项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全力落地",
+      "expected_completion_time": null,
+      "quote": "全力落地首个亿元级 EPC项目"
+    },
+    {
+      "name": "十万吨级吸收剂应用标杆",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "十万吨级",
+      "progress": "打造",
+      "expected_completion_time": null,
+      "quote": "打造十万吨级吸收剂应用标杆"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "低温SCR脱硝技术与装备",
+      "asset_type": "core_technology",
+      "related_product": "低温SCR脱硝催化剂",
+      "quantitative_info": null,
+      "quote": "公司低温SCR脱硝催化剂整体技术达到国际先进水平，制备技术达到国际领先水平，低温SCR脱硝工艺与装备技术达到国内领先水平。"
+    },
+    {
+      "name": "TX系列碳捕集吸收剂技术",
+      "asset_type": "core_technology",
+      "related_product": "二氧化碳捕集吸收剂",
+      "quantitative_info": null,
+      "quote": "公司自主研发TX-1、TX-2、TX-P系列定制化吸收剂，其中TX-1抗氧化能力较传统吸收剂提升20-300倍... 整体性能达行业领先水平。"
+    },
+    {
+      "name": "NFPP钠电正极材料技术",
+      "asset_type": "core_technology",
+      "related_product": "钠离子电池正极材料",
+      "quantitative_info": null,
+      "quote": "公司通用型NFPP钠电正极材料通过挤压、短路、针刺、过充、高温环境五项安全性能测试，做到“不起火、不爆炸”，安全性与电化学性能均居行业前列。"
+    },
+    {
+      "name": "业务相关专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "报告期末公司共拥有业务相关专利202项",
+      "quote": "报告期末公司共拥有业务相关专利202项"
+    },
+    {
+      "name": "新增专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "2025年度，公司新增专利14项，其中发明专利12项",
+      "quote": "2025年度，公司新增专利14项，其中发明专利12项。"
+    },
+    {
+      "name": "参与制定国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "脱硝催化剂国家标准1项、CCUS国家标准1项、钠离子电池国家标准2项",
+      "quote": "公司参与制定脱硝催化剂国家标准1项... CCUS国家标准1项... 钠离子电池国家标准2项..."
+    },
+    {
+      "name": "CNAS国家认可实验室认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "成功通过 CNAS 国家实验室认证"
+    },
+    {
+      "name": "环保工程专业承包壹级资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "建筑业企业资质证书-环保工程专业承包壹级"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "40.29%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 291,794,372.30 前五名客户合计销售金额占年度销售总额比例 40.29%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25.55%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 137,054,681.90 前五名供应商合计采购金额占年度采购总额比例 25.55%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "20.58%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 1 第一名 销售额（元） 149,078,272.90 占年度销售总额比例 20.58%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "9.29%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "序号 1 第一名 采购额（元） 49,828,359.09 占年度采购总额比例 9.29%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业内其他企业为谋求自身发展，亦在不断地提升技术与管理水平，积极拓展市场。另外，更多的企业进入非电行业的烟气治理业务，甚至大型央企产能规模不断扩大，进一步挤压市场空间，将会给公司业务的拓展带来不利影响，可能降低公司的盈利水平。",
+      "related_entity": null,
+      "related_product": "烟气治理业务",
+      "quote": "（1）市场竞争加剧风险... 未来将面临较大的市场竞争风险。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "随着公司业务规模的进一步扩大，公司应收账款规模可能相应扩大。如果下游行业客户的财务经营状况发生恶化，公司应收账款可能发生坏账损失，对公司的财务状况和经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）应收账款回收风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "为提高公司市场竞争力和抗风险能力，公司积极推进转型发展，持续完善“一体两翼”发展格局，推进CCUS规模化发展和钠离子电池产业化进程，上述新产品和新项目受市场需求、国家政策、竞争对手及自身研发等因素影响，可能存在市场竞争加剧、效益不理想或增速不及预期的风险。",
+      "related_entity": null,
+      "related_product": "CCUS、钠离子电池业务",
+      "quote": "（3）新产品、新项目产业化不及预期的风险"
+    }
+  ]
+}

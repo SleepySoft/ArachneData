@@ -1,0 +1,546 @@
+{
+  "company_name_mentioned": "山东南山智尚科技股份有限公司",
+  "produces": [
+    {
+      "name": "精纺呢绒",
+      "type": "material",
+      "revenue_proportion": "42.45%",
+      "quote": "分产品 精纺呢绒 760,883,718.87 42.45%"
+    },
+    {
+      "name": "服装类",
+      "type": "device",
+      "revenue_proportion": "27.80%",
+      "quote": "服装类 498,500,157.34 27.80%"
+    },
+    {
+      "name": "超高纤维类",
+      "type": "material",
+      "revenue_proportion": "9.93%",
+      "quote": "超高纤维类 178,036,795.96 9.93%"
+    },
+    {
+      "name": "锦纶长丝类",
+      "type": "material",
+      "revenue_proportion": "18.39%",
+      "quote": "锦纶长丝类 329,784,464.27 18.39%"
+    },
+    {
+      "name": "具身智能系列产品（含机器人传动腱绳、织物触觉智能手套、机器人皮肤衣、机器人柔性包覆材料）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司前沿布局具身智能领域，先后研发推出腱绳、机器人皮肤衣、智能触觉手套及机器人柔性包覆材料系列产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "羊毛",
+      "target_product": "精纺呢绒、服装",
+      "cost_proportion": null,
+      "quote": "传统业务上，公司采用‘以需定采、精准管控’的集约化采购体系，通过澳大利亚全资子公司 NATSUN AUSTRALIA PTY LTD，深度参与澳洲羊毛拍卖市场，实现优质原料源头直采。"
+    },
+    {
+      "name": "超高分子量聚乙烯（UHMWPE）",
+      "target_product": "超高纤维",
+      "cost_proportion": null,
+      "quote": "超高分子量聚乙烯，英文UltraHighMolecularWeightPolyethylene的缩写，为制作超高分子量聚乙烯纤维的主要原材料。"
+    },
+    {
+      "name": "锦纶（聚酰胺）原料（如己内酰胺）",
+      "target_product": "锦纶长丝",
+      "cost_proportion": null,
+      "quote": "己内酰胺的聚合反应体，即聚己内酰胺，常用化纤原料聚合物的一种，又称尼龙6或PA6。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "职业装",
+      "source_product": "精纺呢绒、服装",
+      "quote": "旗下拥有‘缔尔玛（DELLMA）’中国职业装领军品牌...公司已成为重点行业职业装的核心供应商。"
+    },
+    {
+      "name": "国际一线奢侈品牌、轻奢品牌",
+      "source_product": "精纺呢绒",
+      "quote": "精纺呢绒业务...为国际一线奢侈品牌以及主打轻奢的客户提供产品及服务。"
+    },
+    {
+      "name": "防弹防护（防弹衣、防弹头盔）",
+      "source_product": "超高分子量聚乙烯纤维",
+      "quote": "主要应用于防弹衣、防弹头盔等轻量化单兵防护装备。"
+    },
+    {
+      "name": "海洋绳网（远洋捕捞、海洋工程缆绳）",
+      "source_product": "超高分子量聚乙烯纤维",
+      "quote": "超高分子量聚乙烯纤维加工成的渔网...适合远洋捕捞。...适合制作船用泊绳、拖绳、灯塔固定锚绳等海洋工程用缆绳。"
+    },
+    {
+      "name": "防切割手套",
+      "source_product": "超高分子量聚乙烯纤维",
+      "quote": "防切割手套系列产品...适用于工业制造、食品加工等高危场景的手部防护。"
+    },
+    {
+      "name": "家用纺织品（凉感床品、夏季服饰）",
+      "source_product": "超高分子量聚乙烯纤维",
+      "quote": "家用纺织品的主流应用规格为 300-350D...广泛应用于凉感床品、夏季服饰等高端家纺领域。"
+    },
+    {
+      "name": "功能性纺织品（牛仔布、滑雪服、滑冰服、自行车赛服）",
+      "source_product": "超高分子量聚乙烯纤维",
+      "quote": "行业普遍将其开发应用于牛仔布、滑雪服、滑冰服、自行车赛服等功能性面料领域。"
+    },
+    {
+      "name": "鱼线",
+      "source_product": "超高分子量聚乙烯纤维",
+      "quote": "鱼线主流应用规格为 50-200D...已逐步替代传统鱼线材料。"
+    },
+    {
+      "name": "人形机器人（传动、包覆）",
+      "source_product": "超高分子量聚乙烯纤维、锦纶纤维",
+      "quote": "公司制作的腱绳材料主要选用规格为 800D，40cN/dtex 及 400D，40cN/dtex 的军工防弹级纤维...适用于制作腱绳传动材料。"
+    },
+    {
+      "name": "运动休闲服饰（瑜伽服、防寒服、冲锋衣等）",
+      "source_product": "锦纶长丝",
+      "quote": "主要应用于瑜伽服、防寒服、运动休闲、冲锋衣、织袜/无缝、内衣、防晒服、箱包、军品等。"
+    },
+    {
+      "name": "无缝内衣",
+      "source_product": "锦纶66长丝",
+      "quote": "主要应用于瑜伽服、无缝内衣、防寒服、冲锋衣、运动休闲、户外服饰、军用纺织品、特种防护等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赵亮",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人赵亮、主管会计工作负责人赵亮及会计机构负责人(会计主管人员)徐晓青声明...自2017年12月至今任山东南山智尚科技股份有限公司董事长兼总经理。"
+    },
+    {
+      "name": "赵厚杰",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 赵厚杰 李志浩...现任山东南山智尚科技股份有限公司董事、副总经理、董事会秘书。"
+    },
+    {
+      "name": "刘刚中",
+      "role": "董事、副总经理",
+      "quote": "自2021年5月至今任山东南山智尚科技股份有限公司董事、副总经理。"
+    },
+    {
+      "name": "曹贻儒",
+      "role": "职工代表董事、副总经理、超高事业部总经理",
+      "quote": "自2017年12月至今任山东南山智尚科技股份有限公司董事，自2018年7月至今任山东南山智尚科技股份有限公司副总经理，自2022年4月至今任超高事业部总经理。"
+    },
+    {
+      "name": "戎智宗",
+      "role": "董事、锦纶新材料事业部总经理、纺织新材料产业研究院院长",
+      "quote": "自2022年至今担任山东南山智尚科技股份有限公司纺织新材料产业研究院院长。历任山东南山智尚科技股份有限公司锦纶项目组组长，自2024年10月至今担任山东南山智尚科技股份有限公司锦纶新材料事业部总经理，自2025年9月至今担任山东南山智尚科技股份有限公司董事。"
+    },
+    {
+      "name": "徐晓青",
+      "role": "财务总监",
+      "quote": "现任山东南山智尚科技股份有限公司财务总监。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "南山集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "南山集团 指 南山集团有限公司，系公司控股股东"
+    },
+    {
+      "name": "龙口市东江街道南山村村民委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "南山村村民委员会 指 龙口市东江街道南山村村民委员会，系公司实际控制人"
+    },
+    {
+      "name": "山东缔尔玛服饰有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "缔尔玛/山东缔尔玛 指 山东缔尔玛服饰有限公司，系公司全资子公司"
+    },
+    {
+      "name": "北京贝塔尼时装有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "北京贝塔尼 指 北京贝塔尼时装有限公司，系公司全资子公司"
+    },
+    {
+      "name": "菲拉特（北京）贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "菲拉特 指 菲拉特（北京）贸易有限公司，系公司全资子公司"
+    },
+    {
+      "name": "龙口慧博国际商务服务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "龙口慧博 指 龙口慧博国际商务服务有限公司，系公司全资子公司"
+    },
+    {
+      "name": "上海南山智尚科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "上海南山智尚 指 上海南山智尚科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "南山智尚科技（长春）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "长春南山智尚 指 南山智尚科技（长春）有限公司，系公司全资子公司"
+    },
+    {
+      "name": "深圳市智尚纺织服饰科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "深圳南山智尚 指 深圳市智尚纺织服饰科技有限公司，系公司全资子公司"
+    },
+    {
+      "name": "山东南山恒枫新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司（持股60%）",
+      "quote": "南山恒枫 指 山东南山恒枫新材料科技有限公司，系公司控股子公司"
+    },
+    {
+      "name": "PT.NANSHAN FASHION BINTAN INDONESIA",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司（非全资）",
+      "quote": "PT.NANSHAN FASHION 指 PT.NANSHANFASHIONBINTANINDONESIA，系公司控股子公司"
+    },
+    {
+      "name": "NATSUN AUSTRALIA PTY LTD",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "南山澳大利亚 指 NATSUNAUSTRALIAPTYLTD，系公司注册在澳大利亚的全资子公司"
+    },
+    {
+      "name": "南山自重堂防护科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "南山自重堂/自重堂 指 南山自重堂防护科技有限公司，系公司控股子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "纺织业",
+      "segment_type": "business_unit",
+      "revenue_amount": "1,792,922,240.79元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "27.95%",
+      "yoy_change": "10.96%",
+      "quote": "分行业 纺织业 1,792,922,240.79 100.00% 1,615,844,690.04 100.00% 10.96%"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,377,366,336.22元",
+      "revenue_proportion": "76.82%",
+      "gross_margin": "27.98%",
+      "yoy_change": "14.41%",
+      "quote": "分地区 国内 1,377,366,336.22 76.82% 1,203,926,099.58 74.51% 14.41%"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "415,555,904.57元",
+      "revenue_proportion": "23.18%",
+      "gross_margin": "27.85%",
+      "yoy_change": "0.88%",
+      "quote": "国外 415,555,904.57 23.18% 411,918,590.46 25.49% 0.88%"
+    },
+    {
+      "name": "直营",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,632,019,689.41元",
+      "revenue_proportion": "91.03%",
+      "gross_margin": "27.82%",
+      "yoy_change": "15.29%",
+      "quote": "分销售模式 直营 1,632,019,689.41 91.03% 1,415,554,062.54 87.60% 15.29%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "160,902,551.38元",
+      "revenue_proportion": "8.97%",
+      "gross_margin": "29.22%",
+      "yoy_change": "-19.67%",
+      "quote": "经销 160,902,551.38 8.97% 200,290,627.50 12.40% -19.67%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "精纺呢绒",
+      "metric_type": "capacity",
+      "value": "1600万米",
+      "period": "2025年",
+      "quote": "公司自成产能状况 总产能 精纺呢绒1600万米"
+    },
+    {
+      "product": "精纺呢绒",
+      "metric_type": "capacity_utilization",
+      "value": "76.13%",
+      "period": "2025年",
+      "quote": "产能利用率 76.13%"
+    },
+    {
+      "product": "西装",
+      "metric_type": "capacity",
+      "value": "75万套",
+      "period": "2025年",
+      "quote": "总产能 西装75万套"
+    },
+    {
+      "product": "西装",
+      "metric_type": "capacity_utilization",
+      "value": "83.83%",
+      "period": "2025年",
+      "quote": "产能利用率 83.83%"
+    },
+    {
+      "product": "衬衣",
+      "metric_type": "capacity",
+      "value": "65万件",
+      "period": "2025年",
+      "quote": "总产能 衬衣65万件"
+    },
+    {
+      "product": "衬衣",
+      "metric_type": "capacity_utilization",
+      "value": "83.70%",
+      "period": "2025年",
+      "quote": "产能利用率 83.70%"
+    },
+    {
+      "product": "超高纤维",
+      "metric_type": "capacity",
+      "value": "3600吨",
+      "period": "2025年",
+      "quote": "总产能 超高纤维3600吨"
+    },
+    {
+      "product": "超高纤维",
+      "metric_type": "capacity_utilization",
+      "value": "102.52%",
+      "period": "2025年",
+      "quote": "产能利用率 102.52%"
+    },
+    {
+      "product": "锦纶长丝",
+      "metric_type": "capacity",
+      "value": "8万吨",
+      "period": "2025年",
+      "quote": "总产能 锦纶长丝8万吨"
+    },
+    {
+      "product": "锦纶长丝",
+      "metric_type": "capacity_utilization",
+      "value": "33.87%",
+      "period": "2025年",
+      "quote": "产能利用率 33.87%"
+    },
+    {
+      "product": "面料",
+      "metric_type": "sales_volume",
+      "value": "1,191.80万米",
+      "period": "2025年",
+      "quote": "销售量 万米 1,191.80"
+    },
+    {
+      "product": "面料",
+      "metric_type": "production_volume",
+      "value": "1,218.14万米",
+      "period": "2025年",
+      "quote": "生产量 万米 1,218.14"
+    },
+    {
+      "product": "面料",
+      "metric_type": "inventory_volume",
+      "value": "536.28万米",
+      "period": "2025年末",
+      "quote": "库存量 万米 536.28"
+    },
+    {
+      "product": "西装",
+      "metric_type": "sales_volume",
+      "value": "74.05万套",
+      "period": "2025年",
+      "quote": "销售量 万套 74.05"
+    },
+    {
+      "product": "西装",
+      "metric_type": "production_volume",
+      "value": "62.87万套",
+      "period": "2025年",
+      "quote": "生产量 万套 62.87"
+    },
+    {
+      "product": "西装",
+      "metric_type": "inventory_volume",
+      "value": "8.00万套",
+      "period": "2025年末",
+      "quote": "库存量 万套 8.00"
+    },
+    {
+      "product": "衬衫",
+      "metric_type": "sales_volume",
+      "value": "57.16万件",
+      "period": "2025年",
+      "quote": "销售量 万件 57.16"
+    },
+    {
+      "product": "衬衫",
+      "metric_type": "production_volume",
+      "value": "54.41万件",
+      "period": "2025年",
+      "quote": "生产量 万件 54.41"
+    },
+    {
+      "product": "衬衫",
+      "metric_type": "inventory_volume",
+      "value": "9.58万件",
+      "period": "2025年末",
+      "quote": "库存量 万件 9.58"
+    },
+    {
+      "product": "超高纤维类",
+      "metric_type": "sales_volume",
+      "value": "3,184.09吨",
+      "period": "2025年",
+      "quote": "销售量 吨 3,184.09"
+    },
+    {
+      "product": "超高纤维类",
+      "metric_type": "production_volume",
+      "value": "3,690.88吨",
+      "period": "2025年",
+      "quote": "生产量 吨 3,690.88"
+    },
+    {
+      "product": "超高纤维类",
+      "metric_type": "inventory_volume",
+      "value": "1,351.49吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 1,351.49"
+    },
+    {
+      "product": "锦纶长丝类",
+      "metric_type": "sales_volume",
+      "value": "20,295.50吨",
+      "period": "2025年",
+      "quote": "销售量 吨 20,295.50"
+    },
+    {
+      "product": "锦纶长丝类",
+      "metric_type": "production_volume",
+      "value": "27,097.99吨",
+      "period": "2025年",
+      "quote": "生产量 吨 27,097.99"
+    },
+    {
+      "product": "锦纶长丝类",
+      "metric_type": "inventory_volume",
+      "value": "6,774.73吨",
+      "period": "2025年末",
+      "quote": "库存量 吨 6,774.73"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "印度尼西亚子公司投资建设16万套服饰生产加工项目",
+      "project_type": "capacity_expansion",
+      "location": "印度尼西亚",
+      "investment_amount": "不超过1,567.23万美元",
+      "designed_capacity": "16万套服饰",
+      "progress": "在建",
+      "expected_completion_time": null,
+      "quote": "公司于2025年3月12日，召开第三届董事会第十一次会议，审议通过了《关于拟设立印度尼西亚子公司并投资建设生产基地的议案》。同意公司...设立印度尼西亚子公司，并实施投资建设16万套服饰生产加工项目，项目总投资不超过1,567.23万美元。"
+    },
+    {
+      "name": "年产8万吨高性能差别化锦纶长丝项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "98,874.20万元（募集资金）",
+      "designed_capacity": "8万吨锦纶长丝",
+      "progress": "2025年12月完全达到预计使用状态",
+      "expected_completion_time": "2025年12月",
+      "quote": "向特定对象发行A股股票募集资金 100,000.00 98,874.2 8,315.4 98,933.83 100.06%...项目达到预定可使用状态日 期：2025年12月31日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "以国家级高新技术企业、制造业单项冠军为定位"
+    },
+    {
+      "name": "参与制定国家标准、行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "积极参与国家标准、行业标准制定，以技术标准引领行业升级"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.15%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 13.15%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25.90%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.90%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "羊毛价格波动对毛纺行业的原材料成本影响较大。",
+      "related_entity": null,
+      "related_product": "精纺呢绒、服装",
+      "quote": "原材料价格波动风险 羊毛为公司现有产品的重要原材料之一...其价格的波动对毛纺行业的原材料成本影响较大。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "中美贸易摩擦及关税政策多变，可能对公司出口产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "产品出口风险...近几年中美贸易摩擦增多，美国对纺织品等中国部分出口商品加征关税，若未来美国加征关税的范围继续扩大，将会对纺织服装行业及公司出口产生不利影响。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "人民币汇率波动对公司出口贸易和进口原材料采购产生影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "汇率波动风险...汇率的波动将对公司出口贸易和进口原材料采购产生一定程度的影响，进而影响公司的经营业绩。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司对技术、研发、管理、销售等中高级人才需求持续增强，能否引进和培养人才是影响公司发展战略实现的关键。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人力资源风险...公司对技术、研发、管理、销售等各方面的中高级人才需求将持续增强。所以能否引进和培养更多的高素质复合型及专业化人才...是影响公司发展战略实现的关键性因素。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "国家可能出台更为严格的环保政策，公司面临环境保护风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环境保护风险 随着社会发展对环保要求的不断提高，国家有可能出台更为严格的环保政策，因此可能面临一定的环境保护风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "受行业政策调控影响，叠加市场竞争格局日趋激烈，超高纤维产品市场销量有所下滑。",
+      "related_entity": null,
+      "related_product": "超高纤维类",
+      "quote": "超高纤维类库存有所增加，主要系受行业政策调控影响，叠加市场竞争格局日趋激烈，产品市场销量有所下滑所致。"
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "company_name_mentioned": "东方时尚驾驶学校股份有限公司",
+  "produces": [
+    {
+      "name": "机动车驾驶培训",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主营业务聚焦机动车驾驶人培训和民用航空器驾驶员培训。"
+    },
+    {
+      "name": "民用航空器驾驶员培训",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司主营业务聚焦机动车驾驶人培训和民用航空器驾驶员培训。"
+    },
+    {
+      "name": "VR+AI+实际道路训练 智慧驾驶培训服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司开创了“VR+AI+实际道路训练”三位一体智慧驾驶培训模式，实现了学车全程智能化、场景化、标准化。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "电力",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "国网北京市电力公司 912.02 18.70"
+    },
+    {
+      "name": "商品/服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "北京凯天润达商贸有限公司 553.39 11.35"
+    },
+    {
+      "name": "航空器及零部件",
+      "target_product": "民用航空器驾驶员培训",
+      "cost_proportion": null,
+      "quote": "内蒙古天之翼航空有限公司 540.33 11.08；Pratt & Whitney Canada (SEA) Pte Ltd 300.80 6.17"
+    },
+    {
+      "name": "油品",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "中国石油天然气股份有限公司云南昆明销售分公司 425.83 8.73"
+    }
+  ],
+  "applications": [
+    {
+      "name": "个人机动车驾驶人培训",
+      "source_product": "机动车驾驶培训",
+      "quote": "公司主营业务聚焦机动车驾驶人培训和民用航空器驾驶员培训。"
+    },
+    {
+      "name": "民航飞行员及私人飞行培训",
+      "source_product": "民用航空器驾驶员培训",
+      "quote": "在民用航空器驾驶员培训方面，公司建设了自有机场，形成了高水准的To B端民航飞行员和To C端私人飞行驾照培训体系和航校运营能力、机场运营管理能力。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "徐雄",
+      "role": "实际控制人、原董事长",
+      "quote": "实际控制人 指 徐雄"
+    },
+    {
+      "name": "孙翔",
+      "role": "董事长、法定代表人",
+      "quote": "公司的法定代表人 孙翔"
+    },
+    {
+      "name": "闫文辉",
+      "role": "董事、总经理",
+      "quote": "闫文辉 曾先后在...现任公司董事、总经理。"
+    },
+    {
+      "name": "王红玉",
+      "role": "董事、财务总监、副总经理",
+      "quote": "王红玉 女 62 ... 目前担任公司董事、副总经理、财务总监。"
+    },
+    {
+      "name": "温子健",
+      "role": "职工代表董事、执行总经理",
+      "quote": "温子健 ... 现任公司职工代表董事、执行总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "东方时尚投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东、投资公司、东方时尚投资 指 东方时尚投资有限公司"
+    },
+    {
+      "name": "厦门航空有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一，销售航空培训相关服务",
+      "quote": "前五名销售客户：1 厦门航空有限公司 1,299.39 2.10"
+    },
+    {
+      "name": "中国南方航空股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一，销售航空培训相关服务",
+      "quote": "前五名销售客户：2 中国南方航空股份有限公司 1,160.18 1.88"
+    },
+    {
+      "name": "北京市公安局公安交通管理局",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一，提供考试场服务等",
+      "quote": "前五名销售客户：3 北京市公安局公安交通管理局 1,042.13 1.69"
+    },
+    {
+      "name": "内蒙古天之翼航空有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一，销售航空培训相关服务",
+      "quote": "前五名销售客户：4 内蒙古天之翼航空有限公司 720.13 1.17"
+    },
+    {
+      "name": "中国人民解放军31673部队",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一",
+      "quote": "前五名销售客户：5 中国人民解放军31673部队 388.35 0.63"
+    },
+    {
+      "name": "国网北京市电力公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一，采购电力",
+      "quote": "前五名供应商：1 国网北京市电力公司 912.02 18.70"
+    },
+    {
+      "name": "北京凯天润达商贸有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "前五名供应商：2 北京凯天润达商贸有限公司 553.39 11.35"
+    },
+    {
+      "name": "内蒙古天之翼航空有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一",
+      "quote": "前五名供应商：3 内蒙古天之翼航空有限公司 540.33 11.08"
+    },
+    {
+      "name": "中国石油天然气股份有限公司云南昆明销售分公司",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一，采购油品",
+      "quote": "前五名供应商：4 中国石油天然气股份有限公司云南昆明销售分公司 425.83 8.73"
+    },
+    {
+      "name": "Pratt & Whitney Canada (SEA) Pte Ltd",
+      "relation_type": "supplier",
+      "business_details": "前五名供应商之一，采购航空发动机等部件",
+      "quote": "前五名供应商：5 Pratt & Whitney Canada (SEA) Pte Ltd 300.80 6.17"
+    },
+    {
+      "name": "云南东方时尚驾驶培训有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事机动车驾驶培训业务",
+      "quote": "云南东方时尚 指 云南东方时尚驾驶培训有限公司"
+    },
+    {
+      "name": "湖北东方时尚驾驶培训有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事机动车驾驶培训业务",
+      "quote": "湖北东方时尚 指 湖北东方时尚驾驶培训有限公司"
+    },
+    {
+      "name": "石家庄东方时尚驾驶培训有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事机动车驾驶培训业务",
+      "quote": "石家庄东方时尚 指 石家庄东方时尚驾驶培训有限公司"
+    },
+    {
+      "name": "重庆东方时尚驾驶培训有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事机动车驾驶培训业务",
+      "quote": "重庆东方时尚 指 重庆东方时尚驾驶培训有限公司"
+    },
+    {
+      "name": "山东东方时尚驾驶培训有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事机动车驾驶培训业务",
+      "quote": "山东东方时尚 指 山东东方时尚驾驶培训有限公司"
+    },
+    {
+      "name": "东方时尚国际航空发展有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "子公司，从事航空培训及航空器销售",
+      "quote": "东方时尚航空 指 东方时尚国际航空发展有限公司"
+    },
+    {
+      "name": "北京德皓国际会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "公司聘请的会计师事务所（境内）名称 北京德皓国际会计师事务所（特殊普通合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "驾驶培训行业",
+      "segment_type": "product_line",
+      "revenue_amount": "571,458,499.71",
+      "revenue_proportion": null,
+      "gross_margin": "25.44",
+      "yoy_change": "-22.98",
+      "quote": "主营业务分行业情况：驾驶培训行业 571,458,499.71 426,087,338.53 25.44 -22.98 -19.30 -3.40"
+    },
+    {
+      "name": "零售行业",
+      "segment_type": "product_line",
+      "revenue_amount": "8,232,628.35",
+      "revenue_proportion": null,
+      "gross_margin": "10.37",
+      "yoy_change": "-66.75",
+      "quote": "主营业务分行业情况：零售行业 8,232,628.35 7,378,498.05 10.37 -66.75 -76.49 37.10"
+    },
+    {
+      "name": "代理服务行业",
+      "segment_type": "product_line",
+      "revenue_amount": "6,530,392.53",
+      "revenue_proportion": null,
+      "gross_margin": "99.48",
+      "yoy_change": "3,822.83",
+      "quote": "主营业务分行业情况：代理服务行业 6,530,392.53 34,246.12 99.48 3,822.83 -34.48 30.88"
+    },
+    {
+      "name": "租赁业",
+      "segment_type": "product_line",
+      "revenue_amount": "3,735,671.74",
+      "revenue_proportion": null,
+      "gross_margin": "-32.68",
+      "yoy_change": "24.91",
+      "quote": "主营业务分行业情况：租赁业 3,735,671.74 4,956,395.21 -32.68 24.91 56.66 -26.89"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "18,189,023.22",
+      "revenue_proportion": null,
+      "gross_margin": "59.83",
+      "yoy_change": "2.07",
+      "quote": "主营业务分行业情况：其他 18,189,023.22 7,305,939.90 59.83 2.07 -25.75 15.05"
+    },
+    {
+      "name": "机动车驾驶培训收入",
+      "segment_type": "product_line",
+      "revenue_amount": "534,646,940.26",
+      "revenue_proportion": null,
+      "gross_margin": "30.75",
+      "yoy_change": "-21.05",
+      "quote": "主营业务分产品情况：机动车驾驶培训收入 534,646,940.26 370,243,860.57 30.75 -21.05 -18.35 -2.28"
+    },
+    {
+      "name": "民用航空器驾驶培训收入",
+      "segment_type": "product_line",
+      "revenue_amount": "36,811,559.45",
+      "revenue_proportion": null,
+      "gross_margin": "-51.70",
+      "yoy_change": "-43.21",
+      "quote": "主营业务分产品情况：民用航空器驾驶培训收入 36,811,559.45 55,843,477.96 -51.70 -43.21 -25.06 -36.75"
+    },
+    {
+      "name": "北京",
+      "segment_type": "region",
+      "revenue_amount": "412,866,555.73",
+      "revenue_proportion": null,
+      "gross_margin": "37.86",
+      "yoy_change": "-23.55",
+      "quote": "主营业务分地区情况：北京 412,866,555.73 256,571,206.82 37.86 -23.55 -26.44 2.45"
+    },
+    {
+      "name": "云南",
+      "segment_type": "region",
+      "revenue_amount": "85,444,993.54",
+      "revenue_proportion": null,
+      "gross_margin": "34.96",
+      "yoy_change": "-12.19",
+      "quote": "主营业务分地区情况：云南 85,444,993.54 55,570,171.97 34.96 -12.19 -15.02 2.16"
+    },
+    {
+      "name": "河南",
+      "segment_type": "region",
+      "revenue_amount": "41,327,331.34",
+      "revenue_proportion": null,
+      "gross_margin": "-36.61",
+      "yoy_change": "-33.60",
+      "quote": "主营业务分地区情况：河南 41,327,331.34 56,457,902.00 -36.61 -33.60 -17.34 -26.88"
+    },
+    {
+      "name": "山东",
+      "segment_type": "region",
+      "revenue_amount": "25,522,498.54",
+      "revenue_proportion": null,
+      "gross_margin": "-65.16",
+      "yoy_change": "-28.85",
+      "quote": "主营业务分地区情况：山东 25,522,498.54 42,152,490.89 -65.16 -28.85 -10.09 -34.47"
+    },
+    {
+      "name": "荆州",
+      "segment_type": "region",
+      "revenue_amount": "40,846,162.61",
+      "revenue_proportion": null,
+      "gross_margin": "18.96",
+      "yoy_change": "-12.49",
+      "quote": "主营业务分地区情况：荆州 40,846,162.61 33,100,231.87 18.96 -12.49 10.87 -17.08"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "608,146,215.55",
+      "revenue_proportion": null,
+      "gross_margin": "26.70",
+      "yoy_change": "-22.80",
+      "quote": "主营业务分销售模式情况：直销模式 608,146,215.55 445,762,417.81 26.70 -22.80 -22.13 -0.63"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "湖北东方时尚驾驶培训基地项目",
+      "project_type": "fundraising_project",
+      "location": "湖北",
+      "investment_amount": "24,687.01",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "首次公开发行股票，项目名称：湖北东方时尚驾驶培训基地项目，项目性质：生产建设，是否涉及变更投向：否，截至报告期末累计投入募集资金总额（2）：25,658.72，投入进度（%）(3)＝(2)/(1)：103.94，项目达到预定可使用状态日期：已结项。"
+    },
+    {
+      "name": "山东淄博东方时尚驾驶员培训基地项目",
+      "project_type": "fundraising_project",
+      "location": "山东淄博",
+      "investment_amount": "24,518.37",
+      "designed_capacity": null,
+      "progress": "已运营",
+      "expected_completion_time": null,
+      "quote": "首次公开发行股票，项目名称：山东淄博东方时尚驾驶员培训基地项目，项目性质：生产建设，是否涉及变更投向：否，截至报告期末累计投入募集资金总额（2）：24,789.40，投入进度（%）(3)＝(2)/(1)：101.11，项目达到预定可使用状态日期：已运营。"
+    },
+    {
+      "name": "重庆东方时尚驾驶员培训基地建设项目",
+      "project_type": "fundraising_project",
+      "location": "重庆",
+      "investment_amount": "10,000.00",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "首次公开发行股票，项目名称：重庆东方时尚驾驶员培训基地建设项目，项目性质：生产建设，是否涉及变更投向：否，截至报告期末累计投入募集资金总额（2）：11,083.41，投入进度（%）(3)＝(2)/(1)：110.83，项目达到预定可使用状态日期：已终止。"
+    },
+    {
+      "name": "东方时尚新能源车购置项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "18,010.00",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "发行可转换债券，项目名称：东方时尚新能源车购置项目，项目性质：生产建设，是否涉及变更投向：是，截至报告期末累计投入募集资金总额（2）：18,010.00，投入进度（%）(3)＝(2)/(1)：100.00，项目达到预定可使用状态日期：已终止。"
+    },
+    {
+      "name": "云南东方时尚新能源车购置项目",
+      "project_type": "fundraising_project",
+      "location": "云南",
+      "investment_amount": "5,400.00",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "发行可转换债券，项目名称：云南东方时尚新能源车购置项目，项目性质：生产建设，是否涉及变更投向：否，截至报告期末累计投入募集资金总额（2）：1,398.00，投入进度（%）(3)＝(2)/(1)：25.89，项目达到预定可使用状态日期：已终止。"
+    },
+    {
+      "name": "湖北东方时尚新能源车购置项目",
+      "project_type": "fundraising_project",
+      "location": "湖北",
+      "investment_amount": "6,590.00",
+      "designed_capacity": null,
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "发行可转换债券，项目名称：湖北东方时尚新能源车购置项目，项目性质：生产建设，是否涉及变更投向：否，截至报告期末累计投入募集资金总额（2）：0.00，投入进度（%）(3)＝(2)/(1)：0.00，项目达到预定可使用状态日期：已终止。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "VR+AI+实际道路训练 三位一体智慧驾驶培训模式",
+      "asset_type": "core_technology",
+      "related_product": "智能驾驶培训体系",
+      "quantitative_info": null,
+      "quote": "公司开创了“VR+AI+实际道路训练”三位一体智慧驾驶培训模式。"
+    },
+    {
+      "name": "CCAR-141 飞行培训资质",
+      "asset_type": "certification",
+      "related_product": "民用航空器驾驶员培训",
+      "quantitative_info": null,
+      "quote": "公司通过具备141部（CCAR-141）飞行培训资质航校。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "7.47%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额4,610.18万元，占年度销售总额7.47%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "56.03%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额2,732.37万元，占年度采购总额56.03%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "驾驶培训行业政策改革的风险，如“机动车驾驶证自学直考”“计时培训、计时收费、资金监管”等政策。",
+      "related_entity": null,
+      "related_product": "驾驶培训业务",
+      "quote": "1、驾驶培训行业政策改革的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "北京大兴校区训练道路减少的风险。",
+      "related_entity": null,
+      "related_product": "机动车驾驶培训业务",
+      "quote": "2、北京大兴校区训练道路减少的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司股票被实施其他风险警示（ST）的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、公司股票仍被继续实施其他风险警示的风险"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "债务逾期风险，包括部分债务未能按期偿付以及可转债到期无法兑付的风险。",
+      "related_entity": "东时转债",
+      "related_product": null,
+      "quote": "4、债务逾期风险"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "晋中东方时尚受到税务行政处罚的风险。",
+      "related_entity": "晋中东方时尚驾驶培训有限公司",
+      "related_product": null,
+      "quote": "5、晋中东方时尚受到税务行政处罚的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司是否进入重整程序存在重大不确定性的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、公司是否进入重整程序存在重大不确定性的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司持续经营能力存在不确定性，2022-2024年度连续三年亏损。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司2022-2024年度连续三年亏损，且最近一个会计年度财务会计报告的审计报告显示公司持续经营能力存在不确定性。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司因涉嫌信息披露违法违规被中国证监会立案调查。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "因涉嫌信息披露违法违规，根据《中华人民共和国证券法》...中国证监会决定立案。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "公司及部分责任人收到北京证监局《行政处罚事先告知书》。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2026年3月20日，公司收到中国证券监督管理委员会北京监管局下发《行政处罚事先告知书》（〔2026〕3号）"
+    },
+    {
+      "risk_type": "other",
+      "description": "控股股东及其关联方存在非经营性占用资金情况（报告期初余额约3.87亿元）。",
+      "related_entity": "东方时尚投资有限公司",
+      "related_product": null,
+      "quote": "报告期内，公司控股股东及其关联方存在非经营性资金占用公司资金余额为0元，公司已全部清收控股股东及其关联方约3.87亿元非经营性资金占用款项。"
+    }
+  ]
+}

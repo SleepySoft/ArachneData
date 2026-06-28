@@ -1,0 +1,462 @@
+{
+  "company_name_mentioned": "泰晶科技股份有限公司",
+  "produces": [
+    {
+      "name": "晶体元器件自产",
+      "type": "component",
+      "revenue_proportion": "本年度晶体元器件自产收入占公司营业收入的比例约为96.1%（=90,683.58万元/94,373.61万元）。",
+      "quote": "公司是国内频率器件设计与研发制造的高新技术企业...产品主要型号与用途如下...（报告后续列示了音叉晶体谐振器、石英晶体谐振器、石英晶体振荡器、微型SMD等具体产品分类及用途）。"
+    },
+    {
+      "name": "音叉晶体谐振器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "音叉型石英晶体谐振器，因其基础材料晶片按照TF型方式进行切割后外观形似音叉而得名，是不同晶片类型中的一种制式...其主要频率范围为kHz级。"
+    },
+    {
+      "name": "石英晶体谐振器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "利用石英晶体的压电效应而制成的频率元件，是涉及计时、控频等电子设备的必备基础元器件。其类别通常以切割方式、频率（kHz或MHz）、精度（PPM）、尺寸（mm×mm）、封装模式以及用途的不同进行区别。"
+    },
+    {
+      "name": "石英晶体振荡器/晶体振荡器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "晶体谐振器内部添加IC组成振荡电路的晶体元器件称为石英晶体振荡器、晶体振荡器。"
+    },
+    {
+      "name": "微型SMD（微型片式）晶体谐振器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "为了便于理解，微型SMD（微型片式）用于描述小尺寸、贴片式石英晶体谐振器产品...热敏TSX及TCXO类产品中主要是2.5×2.0×0.9mm及以下尺寸。"
+    },
+    {
+      "name": "光刻系列产品（kHz微型化及超高基频产品）",
+      "type": "product",
+      "revenue_proportion": null,
+      "quote": "公司正持续扩大在光刻系列产品（kHz微型化及超高基频产品）、车规级晶振、低抖动、温补及RTC实时时钟模块等高端领域的产能布局"
+    },
+    {
+      "name": "车规级晶振",
+      "type": "product",
+      "revenue_proportion": null,
+      "quote": "公司正持续扩大在光刻系列产品（kHz微型化及超高基频产品）、车规级晶振、低抖动、温补及RTC实时时钟模块等高端领域的产能布局"
+    },
+    {
+      "name": "低抖动温补振荡器（TCXO）",
+      "type": "product",
+      "revenue_proportion": null,
+      "quote": "开发面向AI数据中心基础设施应用的超低相位噪声与抖动、高频率稳定性的312.5MHz差分输出温度补偿振荡器，实现了业界领先的超低相位噪声性能"
+    },
+    {
+      "name": "RTC实时时钟模块",
+      "type": "product",
+      "revenue_proportion": null,
+      "quote": "公司正持续扩大在光刻系列产品（kHz微型化及超高基频产品）、车规级晶振、低抖动、温补及RTC实时时钟模块等高端领域的产能布局"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料（水晶毛块等）",
+      "target_product": "晶体元器件自产",
+      "cost_proportion": null,
+      "quote": "公司构建从水晶毛块到晶体成品的全流程自主生产能力，产业链垂直整合优势显著。"
+    },
+    {
+      "name": "生产及检测设备",
+      "target_product": "晶体元器件自产",
+      "cost_proportion": null,
+      "quote": "2025年，公司持续加大资金投入到高精尖的生产及检测设备。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "网络通信",
+      "source_product": "石英晶体频率元器件",
+      "quote": "石英晶体频率元器件应用场景广泛...广泛应用于网络通信、光模块、汽车电子、物联网、工业控制与自动化、人工智能、算力设备、模组、光通信、电力与能源、医疗电子等众多领域。"
+    },
+    {
+      "name": "光模块",
+      "source_product": "超高基频晶振",
+      "quote": "石英晶体频率元器件应用场景广泛...广泛应用于网络通信、光模块..."
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "车规级晶振",
+      "quote": "石英晶体频率元器件应用场景广泛...广泛应用于...汽车电子..."
+    },
+    {
+      "name": "物联网",
+      "source_product": "石英晶体频率元器件",
+      "quote": "石英晶体频率元器件应用场景广泛...广泛应用于...物联网..."
+    },
+    {
+      "name": "AI算力/数据中心",
+      "source_product": "超高基频晶振、低抖动振荡器",
+      "quote": "面对市场需求的不断提高...开发面向AI数据中心基础设施应用的超低相位噪声与抖动、高频率稳定性的312.5MHz差分输出温度补偿振荡器"
+    },
+    {
+      "name": "服务器",
+      "source_product": "超高基频晶振",
+      "quote": "76.8MHz、80MHz、96MHz、100MHz、150MHz、300MHz以上超高频产品实现批量供货，广泛应用于5G、WIFI6/7、基站等通信基础设施"
+    },
+    {
+      "name": "5G通信/WIFI6/7",
+      "source_product": "超高基频晶振",
+      "quote": "76.8MHz、80MHz、96MHz、100MHz、150MHz、300MHz以上超高频产品实现批量供货，广泛应用于5G、WIFI6/7、基站等通信基础设施"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "喻信东",
+      "role": "董事长",
+      "quote": "公司负责人喻信东...公司负责人：喻信东"
+    },
+    {
+      "name": "王斌",
+      "role": "董事、副董事长",
+      "quote": "王斌 男 51 2011/12/16...副董事长 2021/05/07"
+    },
+    {
+      "name": "王金涛",
+      "role": "董事、总经理",
+      "quote": "王金涛 男 45...总经理 2021/05/07"
+    },
+    {
+      "name": "黄晓辉",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书...黄晓辉...副总经理 2021/01/19"
+    },
+    {
+      "name": "马阳",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人马阳...财务总监 女 55 2024/04/25"
+    },
+    {
+      "name": "黄大勇",
+      "role": "职工代表董事",
+      "quote": "黄大勇 董事 男 46 2024/05/20...因公司治理结构调整，董事黄大勇先生于2025年11月20日向公司提交书面辞职报告...并选举黄大勇先生为职工代表董事"
+    },
+    {
+      "name": "苏灵",
+      "role": "独立董事",
+      "quote": "苏灵 独立董事 女 53 2021/05/07"
+    },
+    {
+      "name": "王宇宁",
+      "role": "独立董事",
+      "quote": "王宇宁 独立董事 女 50 2024/05/20"
+    },
+    {
+      "name": "余志勇",
+      "role": "独立董事",
+      "quote": "余志勇 独立董事 男 51 2024/05/20"
+    },
+    {
+      "name": "万杨",
+      "role": "副总经理",
+      "quote": "万杨 副总经理 男 38 2024/01/30"
+    },
+    {
+      "name": "时承虎",
+      "role": "副总经理",
+      "quote": "时承虎 副总经理 男 52 2023/11/17"
+    },
+    {
+      "name": "钟院华",
+      "role": "副总经理",
+      "quote": "钟院华 副总经理 男 37 2023/11/17"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "随州润晶电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的全资子公司",
+      "quote": "润晶电子 指 随州润晶电子科技有限公司，本公司的全资子公司"
+    },
+    {
+      "name": "深圳市泰晶实业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的全资子公司",
+      "quote": "泰晶实业 指 深圳市泰晶实业有限公司，本公司的全资子公司"
+    },
+    {
+      "name": "随州泰华电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的全资子公司",
+      "quote": "泰华电子 指 随州泰华电子科技有限公司，本公司的全资子公司"
+    },
+    {
+      "name": "武汉润晶汽车电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的全资子公司",
+      "quote": "武汉润晶 指 武汉润晶汽车电子有限公司，本公司的全资子公司"
+    },
+    {
+      "name": "重庆市晶芯频控电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的全资子公司",
+      "quote": "重庆晶芯 指 重庆市晶芯频控电子科技有限公司，本公司的全资子公司"
+    },
+    {
+      "name": "重庆泰庆电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的全资子公司（报告期由控股子公司变更为全资子公司）",
+      "quote": "重庆泰庆 指 重庆泰庆电子科技有限公司，本公司的全资子公司。2025年4月，重庆泰庆完成股权转让的工商变更，重庆泰庆由公司控股子公司变为公司全资子公司。"
+    },
+    {
+      "name": "深圳市科成精密五金有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的控股子公司",
+      "quote": "科成精密 指 深圳市科成精密五金有限公司，本公司的控股子公司"
+    },
+    {
+      "name": "湖北东奥电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的控股子公司",
+      "quote": "东奥电子 指 湖北东奥电子科技有限公司，本公司的控股子公司"
+    },
+    {
+      "name": "武汉市杰精精密电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司（泰晶科技）的参股公司",
+      "quote": "杰精精密 指 武汉市杰精精密电子有限公司，本公司的参股公司"
+    },
+    {
+      "name": "成都泰美克晶体技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司重庆晶芯通过收购获得其2.439%股权",
+      "quote": "2025年8月，公司全资子公司重庆晶芯与上海祥禾涌骏股权投资合伙企业(有限合伙)签署《股权转让合同》...取得成都泰美克晶体技术有限公司2.439%的股权。"
+    },
+    {
+      "name": "武汉芯力科技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司通过增资获得其3.7064%的股权",
+      "quote": "2025年6月，公司以自有资金出资1,000万元认购武汉芯力科技术有限公司新增资本。本次增资完成后，公司取得武汉芯力科技术有限公司3.7064%的股权。"
+    },
+    {
+      "name": "深圳市楠菲微电子股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司通过参与投资的私募基金共青城羲和菲菱楠芯创业投资合伙企业（有限合伙）间接持有其1.8195%股权",
+      "quote": "共青城羲和菲菱楠芯创业投资合伙企业（有限合伙）出资金额人民币11,900万元，占楠菲微注册资本的1.8195%。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电子元器件（晶体元器件自产）",
+      "segment_type": "product_line",
+      "revenue_amount": "90,683.58万元",
+      "revenue_proportion": null,
+      "gross_margin": "18.30%",
+      "yoy_change": "减少4.99个百分点",
+      "quote": "主营业务分产品情况...晶体元器件自产 90,683.58 74,084.23 18.30 15.63 23.14...毛利率比上年增减（%）...减少4.99个百分点"
+    },
+    {
+      "name": "华南区域",
+      "segment_type": "region",
+      "revenue_amount": "49,343.47万元",
+      "revenue_proportion": null,
+      "gross_margin": "16.42%",
+      "yoy_change": "减少3.82个百分点",
+      "quote": "主营业务分地区情况...华南区域 49,343.47 41,242.34 16.42 22.42 28.29...毛利率比上年增减（%）...减少3.82个百分点"
+    },
+    {
+      "name": "华东区域",
+      "segment_type": "region",
+      "revenue_amount": "26,542.05万元",
+      "revenue_proportion": null,
+      "gross_margin": "18.62%",
+      "yoy_change": "减少5.22个百分点",
+      "quote": "主营业务分地区情况...华东区域 26,542.05 21,599.45 18.62 13.44 21.22...毛利率比上年增减（%）...减少5.22个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "7,219.61万元",
+      "revenue_proportion": null,
+      "gross_margin": "29.17%",
+      "yoy_change": "减少4.52个百分点",
+      "quote": "主营业务分地区情况...境外 7,219.61 5,113.46 29.17 3.03 10.05...毛利率比上年增减（%）...减少4.52个百分点"
+    },
+    {
+      "name": "华中区域",
+      "segment_type": "region",
+      "revenue_amount": "1,997.65万元",
+      "revenue_proportion": null,
+      "gross_margin": "26.52%",
+      "yoy_change": "减少15.05个百分点",
+      "quote": "主营业务分地区情况...华中区域 1,997.65 1,467.78 26.52 -9.65 13.60...毛利率比上年增减（%）...减少15.05个百分点"
+    },
+    {
+      "name": "境内其他区域",
+      "segment_type": "region",
+      "revenue_amount": "5,580.80万元",
+      "revenue_proportion": null,
+      "gross_margin": "16.48%",
+      "yoy_change": "减少6.17个百分点",
+      "quote": "主营业务分地区情况...境内其他区域 5,580.80 4,661.20 16.48 1.38 9.47...毛利率比上年增减（%）...减少6.17个百分点"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "66,818.09万元",
+      "revenue_proportion": null,
+      "gross_margin": "21.20%",
+      "yoy_change": "减少4.26个百分点",
+      "quote": "主营业务分销售模式情况...直销模式 66,818.09 52,655.35 21.20 13.60 20.10...毛利率比上年增减（%）...减少4.26个百分点"
+    },
+    {
+      "name": "代理分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "23,865.49万元",
+      "revenue_proportion": null,
+      "gross_margin": "10.21%",
+      "yoy_change": "减少6.55个百分点",
+      "quote": "主营业务分销售模式情况...代理分销 23,865.49 21,428.88 10.21 21.72 31.30...毛利率比上年增减（%）...减少6.55个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "晶体元器件自产",
+      "metric_type": "production_volume",
+      "value": "395,230.72万只",
+      "period": "2025年度",
+      "quote": "产销量情况分析表...晶体元器件自产...万只 395,230.72 386,330.90 35,643.43 10.86 12.54 7.32"
+    },
+    {
+      "product": "晶体元器件自产",
+      "metric_type": "sales_volume",
+      "value": "386,330.90万只",
+      "period": "2025年度",
+      "quote": "产销量情况分析表...晶体元器件自产...万只 395,230.72 386,330.90 35,643.43 10.86 12.54 7.32"
+    },
+    {
+      "product": "晶体元器件自产",
+      "metric_type": "inventory_volume",
+      "value": "35,643.43万只",
+      "period": "2025年度末",
+      "quote": "产销量情况分析表...晶体元器件自产...万只 395,230.72 386,330.90 35,643.43 10.86 12.54 7.32"
+    }
+  ],
+  "projects_and_expansion": [],
+  "technology_assets": [
+    {
+      "name": "石英MEMS器件产业化与规模化技术",
+      "asset_type": "core_technology",
+      "related_product": "微型片式音叉、超高频晶体谐振器、晶体振荡器等",
+      "quantitative_info": null,
+      "quote": "历经二十载技术沉淀，公司率先实现石英MEMS器件产业化与规模化，掌握了微型片式音叉、超高频晶体谐振器、晶体振荡器等核心产品的底层生产技术"
+    },
+    {
+      "name": "MEMS光刻工艺",
+      "asset_type": "process_technology",
+      "related_product": "超高基频晶振",
+      "quantitative_info": null,
+      "quote": "在微型化、高基频、高稳定性石英晶片制造环节，掌握先进的MEMS光刻工艺"
+    },
+    {
+      "name": "IC倒装工艺",
+      "asset_type": "process_technology",
+      "related_product": "晶体振荡器",
+      "quantitative_info": null,
+      "quote": "在晶体振荡器生产领域，突破IC倒装工艺、低相噪温补芯片设计等核心技术"
+    },
+    {
+      "name": "半导体晶圆级封装技术",
+      "asset_type": "process_technology",
+      "related_product": "超薄、超小器件",
+      "quantitative_info": "封装厚度从400-500微米进一步减薄至130微米",
+      "quote": "创新升级半导体晶圆级封装技术，实现超薄、超小器件的封装厚度从400-500微米进一步减薄至130微米"
+    },
+    {
+      "name": "温补晶振及自研算法技术",
+      "asset_type": "core_technology",
+      "related_product": "TCXO系列产品",
+      "quantitative_info": null,
+      "quote": "公司积极推进IC国产化适配，新建有源模块研发实验室，通过全自动温补、自研电路及算法等技术，减少试错成本"
+    },
+    {
+      "name": "《10kHz-200kHz音叉石英晶体元件的测试方法和标准值》（SJ/T10015-2013）",
+      "asset_type": "standard",
+      "related_product": "音叉石英晶体元件",
+      "quantitative_info": "两家起草单位之一（另一家为压电晶体行业协会）",
+      "quote": "公司积极参与国家标准与行业标准制定，是《10kHz-200kHz音叉石英晶体元件的测试方法和标准值》（SJ/T10015-2013）两家起草单位之一"
+    },
+    {
+      "name": "国家企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司按照国家企业技术中心评价体系要求，持续抓好国家企业技术中心、重点实验室等创新平台建设"
+    },
+    {
+      "name": "IATF16949:2016《质量管理体系——汽车行业生产件及相关服务件的组织应用》",
+      "asset_type": "certification",
+      "related_product": "车规级产品",
+      "quantitative_info": null,
+      "quote": "公司采用ISO9001:2015《质量管理体系》、ISO14001:2015《环境管理体系》及IATF16949:2016《质量管理体系——汽车行业生产件及相关服务件的组织应用》...等多体系共建的管理模式"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "26,500.38万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额26,500.38万元，占年度销售总额28.08%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "30,143.34万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额30,143.34万元，占年度采购总额57.15%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "如果公司的技术研发方向与行业技术发展潮流、市场需求变化趋势出现偏差，或者滞后于技术发展潮流和市场需求变化，将使公司在竞争中处于不利地位或面临产品、技术被替代的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、技术研发的风险...如果公司的技术研发方向与行业技术发展潮流、市场需求变化趋势出现偏差，或者滞后于技术发展潮流和市场需求变化，将使公司在竞争中处于不利地位或面临产品、技术被替代的风险。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "如公司的产品出现性能不稳定、精度及相关电性能参数不达标等故障，可能导致客户要求对公司产品进行返修、退货或召回，并从而向公司提出索赔等，公司将可能面临一定的产品质量风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、产品质量风险...如公司的产品出现性能不稳定、精度及相关电性能参数不达标等故障，可能导致客户要求对公司产品进行返修、退货或召回，并从而向公司提出索赔等，公司将可能面临一定的产品质量风险。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "新产品的不断开发及其产能的持续扩大，加之受优质终端客户导入门槛及导入周期等因素影响，将面临部分新产品配套新客户时，客户市场化滞后及可否快速承接市场并转化成经济效益的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、新客户开发的风险...将面临部分新产品配套新客户时，客户市场化滞后及可否快速承接市场并转化成经济效益的风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "如果公司核心技术不慎泄密，将对公司的生产经营和新产品研发带来负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、核心技术泄密的风险...如果公司核心技术不慎泄密，将对公司的生产经营和新产品研发带来负面影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司存在适用所得税税率发生变化的风险。如公司被认定在享受高新技术企业税收优惠期间不具备高新技术企业资格，其享受的税收优惠可能会被追缴。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、税收优惠政策及财政补贴政策变化的风险...公司存在适用所得税税率发生变化的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "若未来市场情况发生不利变化或市场开拓不力，则可能导致产品销售数量、销售价格达不到预期水平，从而影响公司的经营业绩。若下游市场需求萎缩或竞争加剧，可能出现公司新增产能无法完全消化、前期投入无法收回的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、行业竞争加剧的风险...若下游市场需求萎缩或竞争加剧，可能出现公司新增产能无法完全消化、前期投入无法收回的风险...若未来市场情况发生不利变化或市场开拓不力，则可能导致产品销售数量、销售价格达不到预期水平，从而影响公司的经营业绩。"
+    }
+  ]
+}

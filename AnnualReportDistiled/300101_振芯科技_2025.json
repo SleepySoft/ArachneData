@@ -1,0 +1,427 @@
+{
+  "company_name_mentioned": "成都振芯科技股份有限公司",
+  "produces": [
+    {
+      "name": "集成电路业务",
+      "type": "device",
+      "revenue_proportion": "45.86%",
+      "quote": "分行业 集成电路业务 437，973，623.55 45.86%"
+    },
+    {
+      "name": "北斗导航综合应用",
+      "type": "service",
+      "revenue_proportion": "36.55%",
+      "quote": "分行业 北斗导航综合应用 349，063，262.90 36.55%"
+    },
+    {
+      "name": "智慧城市建设运营服务",
+      "type": "service",
+      "revenue_proportion": "15.23%",
+      "quote": "分行业 智慧城市建设运营服务 145，488，368.80 15.23%"
+    },
+    {
+      "name": "机器感知与智能化产品",
+      "type": "device",
+      "revenue_proportion": "2.11%",
+      "quote": "分行业 机器感知与智能化产品 20，132，055.74 2.11%"
+    },
+    {
+      "name": "射频类芯片（包括DDS、ADC/DAC、时钟、SDR等）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司产品几乎覆盖了除FPGA之外的所有功能模块，并初步形成整体解决方案能力，技术水平国内先进，是通信领域的核心芯片供应商。"
+    },
+    {
+      "name": "视讯类芯片（包括视频信号处理和传输芯片、接口芯片）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "技术水平国内领先，从视频传输、采集、压缩、存储到回放整个链路全覆盖，是国内产品系列最全、研制水平最高的特定行业视频芯片供应商"
+    },
+    {
+      "name": "北斗类芯片（包括北斗射频、基带芯片）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司是国内少有能提供北斗全系列核心芯片、器件的民营企业"
+    },
+    {
+      "name": "模块及微系统（PCBA、SIP和分机系统）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "围绕数字射频收发、DBF、SDR、视频图像处理、智能化平台形成PCBA、SIP和分机系统三种产品形态。"
+    },
+    {
+      "name": "北斗导航终端设备（手持型、车载型、船载型等9大系列上百种终端）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "拥有手持型、车载型、船载型等 9大系列上百种终端设备，其中手持终端、各类模块/模组为拳头产品"
+    },
+    {
+      "name": "机器感知与智能化产品（智能视觉模块、全自主任务处理平台等）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "自主研制的视觉自主导航子系统、智能视觉模块以及全自主任务处理平台等核心产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "集成电路业务",
+      "cost_proportion": "12.02%",
+      "quote": "集成电路业务 原材料 52，345，442.05 12.02%"
+    },
+    {
+      "name": "外协加工",
+      "target_product": "集成电路业务",
+      "cost_proportion": "12.67%",
+      "quote": "集成电路业务 外协加工 55，189，124.94 12.67%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "北斗导航综合应用",
+      "cost_proportion": "24.81%",
+      "quote": "北斗导航综合应用 原材料 108，091，913.89 24.81%"
+    },
+    {
+      "name": "工程材料",
+      "target_product": "智慧城市建设运营服务",
+      "cost_proportion": "15.17%",
+      "quote": "智慧城市建设运营服务 工程材料 66，074，630.24 15.17%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "航空",
+      "source_product": "集成电路、北斗导航终端、机器感知产品",
+      "quote": "公司产品覆盖通信及视频传输全产业链，广泛应用于航空、船舶、信创、汽车、通讯设备、工业控制等领域。"
+    },
+    {
+      "name": "船舶",
+      "source_product": "集成电路、北斗导航终端",
+      "quote": "公司产品覆盖通信及视频传输全产业链，广泛应用于航空、船舶、信创、汽车、通讯设备、工业控制等领域。"
+    },
+    {
+      "name": "信创",
+      "source_product": "集成电路",
+      "quote": "公司产品覆盖通信及视频传输全产业链，广泛应用于航空、船舶、信创、汽车、通讯设备、工业控制等领域。"
+    },
+    {
+      "name": "汽车",
+      "source_product": "集成电路（车规芯片）",
+      "quote": "公司产品覆盖通信及视频传输全产业链，广泛应用于航空、船舶、信创、汽车、通讯设备、工业控制等领域。"
+    },
+    {
+      "name": "通讯设备",
+      "source_product": "集成电路（通信芯片）",
+      "quote": "公司产品覆盖通信及视频传输全产业链，广泛应用于航空、船舶、信创、汽车、通讯设备、工业控制等领域。"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "集成电路",
+      "quote": "公司产品覆盖通信及视频传输全产业链，广泛应用于航空、船舶、信创、汽车、通讯设备、工业控制等领域。"
+    },
+    {
+      "name": "卫星通信",
+      "source_product": "SDR、DDS等芯片",
+      "quote": "报告期，公司推出的DDS产品凭借高可靠、高灵活等特性，成为低轨卫星、高通量卫星等应用领域的重要支撑。"
+    },
+    {
+      "name": "安防监控",
+      "source_product": "视频接口、SDI芯片",
+      "quote": "布局实时高清视频传输核心器件，在安防监控、专业摄像、大型会议演播、直播等系统有广泛应用"
+    },
+    {
+      "name": "无人机",
+      "source_product": "机器感知与智能化产品",
+      "quote": "公司聚焦具身智能的智能视觉方向，自主研制的视觉自主导航子系统、智能视觉模块以及全自主任务处理平台等核心产品可广泛应用于无人机、四足机器人等领域"
+    },
+    {
+      "name": "四足机器人",
+      "source_product": "机器感知与智能化产品",
+      "quote": "2025年，公司推出四足机器人导航控制系统，由导航控制盒与机器人管理平台组成，采用多模SLAM导航"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "梁丽涛",
+      "role": "法定代表人、董事长",
+      "quote": "公司负责人梁丽涛、主管会计工作负责人郑灵怡及会计机构负责人（会计主管人员）曾旭辉声明...现任成都振芯科技股份有限公司董事长"
+    },
+    {
+      "name": "郑灵怡",
+      "role": "董事、财务总监",
+      "quote": "主管会计工作负责人郑灵怡...现任成都振芯科技股份有限公司董事、财务总监"
+    },
+    {
+      "name": "曾旭辉",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）曾旭辉"
+    },
+    {
+      "name": "杜辉",
+      "role": "总经理",
+      "quote": "现任成都振芯科技股份有限公司总经理。"
+    },
+    {
+      "name": "柯海",
+      "role": "副总经理",
+      "quote": "现任成都振芯科技股份有限公司副总经理。"
+    },
+    {
+      "name": "杨章",
+      "role": "董事",
+      "quote": "现任成都振芯科技股份有限公司董事；成都国星通信有限公司董事、总经理；成都国弘天启智能科技有限公司董事长；北京国翼恒达导航科技有限公司董事、总经理；成都国翼电子技术有限公司董事。"
+    },
+    {
+      "name": "谢俊",
+      "role": "董事",
+      "quote": "现任成都振芯科技股份有限公司董事；成都国星通信有限公司董事。"
+    },
+    {
+      "name": "李新军",
+      "role": "董事、首席科学家（北京航空航天大学）",
+      "quote": "现任北京航空航天大学无人系统研究院二级岗研究员、首席科学家、博士生导师...兼任成都振芯科技股份有限公司董事"
+    },
+    {
+      "name": "郑培",
+      "role": "副总经理",
+      "quote": "现任成都振芯科技股份有限公司副总经理、成都维思芯科电子科技有限公司执行董事、北京瀚诺半导体科技有限公司董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "成都国腾电子集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "国腾电子集团 指 公司控股股东成都国腾电子集团有限公司"
+    },
+    {
+      "name": "成都国星通信有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主要业务：卫星导航地面终端研制、销售",
+      "quote": "国星通信 指 公司控股子公司成都国星通信有限公司"
+    },
+    {
+      "name": "成都国弘天启智能科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主要业务：北斗卫星导航应用服务及系统推广",
+      "quote": "国弘天启 指 公司控股子公司成都国弘天启智能科技有限公司"
+    },
+    {
+      "name": "成都国翼电子技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要业务：安防设备及系统、信息系统集成、机器感知与智能化产品",
+      "quote": "国翼电子 指 公司全资子公司成都国翼电子技术有限公司"
+    },
+    {
+      "name": "北京国翼恒达导航科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "国翼恒达 指 公司全资子公司北京国翼恒达导航科技有限公司"
+    },
+    {
+      "name": "成都维思芯科电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "维思芯科 指 公司全资子公司成都维思芯科电子科技有限公司"
+    },
+    {
+      "name": "北京瀚诺半导体科技有限公司",
+      "relation_type": "investor",
+      "business_details": "参股公司",
+      "quote": "北京瀚诺 指 公司参股公司北京瀚诺半导体科技有限公司"
+    },
+    {
+      "name": "成都建工第五建筑工程有限公司",
+      "relation_type": "supplier",
+      "business_details": "创芯智能产业园建设项目施工方",
+      "quote": "报告期内，公司于2024年12月24日...同意公司就项目施工及有关事项与成都建工第五建筑工程有限公司...签订《建设工程施工合同》，签约合同价为468，612，305.39元。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "集成电路业务",
+      "segment_type": "product_line",
+      "revenue_amount": "437，973，623.55元",
+      "revenue_proportion": "45.86%",
+      "gross_margin": "65.62%",
+      "yoy_change": "15.38%",
+      "quote": "集成电路业务 437，973，623.55 45.86% 379，593，156.80 47.62% 15.38%...集成电路业务 437，973，623.55 150，584，541.73 65.62% 15.38% 3.06% 4.11%"
+    },
+    {
+      "name": "北斗导航综合应用",
+      "segment_type": "product_line",
+      "revenue_amount": "349，063，262.90元",
+      "revenue_proportion": "36.55%",
+      "gross_margin": "54.03%",
+      "yoy_change": "41.98%",
+      "quote": "北斗导航综合应用 349，063，262.90 36.55% 245，850，879.92 30.84% 41.98%...北斗导航综合应用 349，063，262.90 160，455，991.46 54.03% 41.98% 38.60% 1.12%"
+    },
+    {
+      "name": "智慧城市建设运营服务",
+      "segment_type": "product_line",
+      "revenue_amount": "145，488，368.80元",
+      "revenue_proportion": "15.23%",
+      "gross_margin": "25.30%",
+      "yoy_change": "17.04%",
+      "quote": "智慧城市建设运营服务 145，488，368.80 15.23% 124，304，623.16 15.60% 17.04%...智慧城市建设运营服务 145，488，368.80 108，674，521.81 25.30% 17.04% 19.21% -1.36%"
+    },
+    {
+      "name": "机器感知与智能化产品",
+      "segment_type": "product_line",
+      "revenue_amount": "20，132，055.74元",
+      "revenue_proportion": "2.11%",
+      "gross_margin": "26.64%",
+      "yoy_change": "-45.62%",
+      "quote": "机器感知与智能化产品 20，132，055.74 2.11% 37，017，858.49 4.64% -45.62%...机器感知与智能化产品 20，132，055.74 14，768，915.36 26.64% -45.62% -14.90% -26.48%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "313，886，822.18元",
+      "revenue_proportion": "32.86%",
+      "gross_margin": "49.26%",
+      "yoy_change": "59.56%",
+      "quote": "华北 313，886，822.18 32.86% 196，717，576.70 24.68% 59.56%...华北 313，886，822.18 159，256，568.50 49.26% 59.56% 54.88% 1.53%"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "325，966，196.41元",
+      "revenue_proportion": "34.13%",
+      "gross_margin": "49.03%",
+      "yoy_change": "12.47%",
+      "quote": "西南 325，966，196.41 34.13% 289，822，686.66 36.36% 12.47%...西南 325，966，196.41 166，145，997.35 49.03% 12.47% 4.19% 4.05%"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "创芯智能产业园",
+      "project_type": "capacity_expansion",
+      "location": "成都高新区",
+      "investment_amount": "约7.3亿元（建设工程施工合同价468，612，305.39元）",
+      "designed_capacity": "约11万平方米",
+      "progress": "截至报告期末，累计已投入金额为210，317，164.72元。",
+      "expected_completion_time": null,
+      "quote": "公司拟投资约7.3亿元建设约11万平方米的“创芯智能产业园”...截至报告期末，该项目处于正常实施过程中，累计已投入金额为210，317，164.72元。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获得162项",
+      "quote": "截至报告期末，公司已取得162项发明专利及231项软件著作权"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "累计获得231项",
+      "quote": "截至报告期末，公司已取得162项发明专利及231项软件著作权"
+    },
+    {
+      "name": "直接数字频率合成器（DDS）技术",
+      "asset_type": "core_technology",
+      "related_product": "DDS产品",
+      "quantitative_info": null,
+      "quote": "公司DDS是北斗卫星原子钟核心配套关键器件，依托国产工艺线实现加固，在轨稳定运行十余年。"
+    },
+    {
+      "name": "超低杂散校正算法、高频低相噪锁相环技术",
+      "asset_type": "core_technology",
+      "related_product": "ADC产品",
+      "quantitative_info": null,
+      "quote": "报告期，公司突破了超低杂散校正算法、高频低相噪锁相环技术等，推出了4通道2.6G14位ADC"
+    },
+    {
+      "name": "超宽带、多通道同步核心技术",
+      "asset_type": "core_technology",
+      "related_product": "软件无线电（SDR）芯片",
+      "quantitative_info": null,
+      "quote": "在国内率先突破超宽带、多通道同步核心技术，成功研发首款具备自主知识产权的宽带射频收发芯片"
+    },
+    {
+      "name": "数字波束成形（DBF）ASIC芯片技术",
+      "asset_type": "core_technology",
+      "related_product": "DBF芯片",
+      "quantitative_info": "波束处理能力达国内领先水平",
+      "quote": "公司国内首款自主定义的数字波束赋形的ASIC芯片，波束处理能力达国内领先水平。"
+    },
+    {
+      "name": "北斗基带SOC、射频核心技术",
+      "asset_type": "core_technology",
+      "related_product": "北斗基带SOC、北斗射频芯片",
+      "quantitative_info": null,
+      "quote": "在高动态、高灵敏度、抗干扰、RDSS短报文及小型化集成等核心技术上拥有完全自主知识产权"
+    },
+    {
+      "name": "多模SLAM导航技术",
+      "asset_type": "core_technology",
+      "related_product": "四足机器人导航控制系统",
+      "quantitative_info": null,
+      "quote": "采用多模SLAM导航，融合多类传感器，无需建图即可在未知场景自主导航"
+    },
+    {
+      "name": "国家级高新技术企业、国家级专精特新“小巨人”企业资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司凭借多年的行业深耕与技术积累，荣获国家级高新技术企业、国家级火炬计划企业...国家级专精特新“小巨人”企业"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.79%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 25.79%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "17.68%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 17.68%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "当前行业竞争日益加剧，同质化的产品竞争、用户降价需求导致产品市场价格下降、行业利润缩减等状况时有发生。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、市场竞争风险 当前行业竞争日益加剧，同质化的产品竞争、用户降价需求导致产品市场价格下降、行业利润缩减等状况时有发生。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "公司部分产品最终用户为特定行业用户，部分合同约定的结算价格为暂定价格，最终价格以客户审定价格为准。由于客户审价批复周期较长，...如果暂定价格与审定价格差异较大，可能导致公司存在收入及业绩波动的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、产品暂定价格与最终审定价格差异导致业绩波动的风险...如果暂定价格与审定价格差异较大，可能导致公司存在收入及业绩波动的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司面向行业级和消费级客户提供...高技术产品服务，其中行业级产品由于高可靠性要求，普遍具有技术难度大、复杂度高、开发周期长以及研发投入高等特点，存在一定的技术开发风险；消费级产品虽然技术复杂度相对较低，但其市场竞争激烈且迭代速度很快...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、产品开发风险 公司面向行业级和消费级客户提供...高技术产品服务，其中行业级产品由于高可靠性要求，普遍具有技术难度大、复杂度高、开发周期长以及研发投入高等特点，存在一定的技术开发风险；消费级产品虽然技术复杂度相对较低，但其市场竞争激烈且迭代速度很快..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "受国际贸易形势的持续影响，同时随着AI相关需求、新能源汽车、5G、消费电子等行业的发展，集成电路产业链的原材料与生产加工产能较为紧张。公司作为集成电路设计企业，生产外包面临一定的备货和原材料、生产成本上涨及生产周期的压力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、原材料价格及供应风险 受国际贸易形势的持续影响，同时随着AI相关需求、新能源汽车、5G、消费电子等行业的发展，集成电路产业链的原材料与生产加工产能较为紧张。公司作为集成电路设计企业，生产外包面临一定的备货和原材料、生产成本上涨及生产周期的压力。"
+    },
+    {
+      "risk_type": "other",
+      "description": "集成电路设计属于技术和人才密集型产业，...若公司不能维持人才团队的稳定，并不断吸引优秀技术人才，则公司经营的稳定性和可持续发展均面临重大风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、人才流失或短缺的风险...若公司不能维持人才团队的稳定，并不断吸引优秀技术人才，则公司经营的稳定性和可持续发展均面临重大风险。"
+    }
+  ]
+}

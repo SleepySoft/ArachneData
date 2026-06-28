@@ -1,0 +1,511 @@
+{
+  "company_name_mentioned": "吉视传媒股份有限公司",
+  "produces": [
+    {
+      "name": "移动通讯业务（广电5G）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "自2022年7月中国广电5G商用以来，公司正式进入全业务运营时代...广电5G业务主要依靠按月向用户收取手机卡号资费贡献收入。"
+    },
+    {
+      "name": "宽带互联网业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "该业务主要依靠按月向用户收取网络服务费为收入来源。"
+    },
+    {
+      "name": "直播电视业务（广播电视）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "该项业务的收入来自按月向用户收取的收视服务费。"
+    },
+    {
+      "name": "视频点播业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "上述业务的收入来自按月（次）向用户收取的服务费。"
+    },
+    {
+      "name": "IPTV视频业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "业务模式为新媒体公司与三家电信运营商合作...双方就向用户收取的服务费用进行分成。"
+    },
+    {
+      "name": "IPTV增值业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "IPTV增值业务收入按照新媒体公司、电信运营商、内容和服务提供方一定比例分成模式结算。"
+    },
+    {
+      "name": "数智家庭业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "该业务收入来自向用户收取的终端（服务）销售。"
+    },
+    {
+      "name": "域外广播电视节目落地传输业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "该项业务收入主要包括：国内各电视台在吉林省内播放节目向公司缴纳的落地传输费；为企事业单位传输信号服务收入等。"
+    },
+    {
+      "name": "数字电视工程配套业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "该收入包括有线电视从主干网至用户终端的施工工程、材料及其他费用。"
+    },
+    {
+      "name": "算力租赁与大数据应用服务业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "上述服务以服务费形式收取。"
+    },
+    {
+      "name": "专网服务业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "上述业务以专网服务费形式收取。"
+    },
+    {
+      "name": "社会信息化应用服务业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "上述业务向客户收取方案设计、业务咨询、网络传输保障、平台建设、系统集成、软件应用等各类服务费用。"
+    },
+    {
+      "name": "集团通讯及物联网业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "上述业务收入来自通讯服务费。"
+    },
+    {
+      "name": "数据要素服务业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "上述业务以服务费形式收费。"
+    },
+    {
+      "name": "大模型部署服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "该业务以服务费形式收费。"
+    },
+    {
+      "name": "AI一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司通过产品销售获取收入。"
+    },
+    {
+      "name": "有线电视和综合信息服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "主营业务分产品情况：有线电视和综合信息服务 1,982,991,556.73"
+    }
+  ],
+  "procures": [
+    {
+      "name": "网络传输及路由器等设备",
+      "target_product": "宽带互联网业务",
+      "cost_proportion": null,
+      "quote": "公司宽带互联网业务采用华为、中兴等国际先进通信设备制造商提供的网络传输及路由器等设备"
+    },
+    {
+      "name": "机顶盒",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "机顶盒销售成本 26,147,003.03...机顶盒摊销成本 150,989,789.90"
+    },
+    {
+      "name": "内容和服务",
+      "target_product": "IPTV增值业务",
+      "cost_proportion": null,
+      "quote": "IPTV增值业务收入按照新媒体公司、电信运营商、内容和服务提供方一定比例分成模式结算。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "广播电视",
+      "source_product": "直播电视业务（广播电视）",
+      "quote": "为用户提供10Gb带宽的单向直播电视业务服务...提供154套直播电视频道"
+    },
+    {
+      "name": "数字家庭/智慧家庭",
+      "source_product": "数智家庭业务",
+      "quote": "“吉视家”是公司打造的终端营销品牌，构建全场景覆盖的终端产品体系"
+    },
+    {
+      "name": "政企信息化",
+      "source_product": "社会信息化应用服务业务",
+      "quote": "公司为集团客户提供所在行业或领域信息化整体解决方案，向各级政府及政府主管行业提供智慧社区、智慧教育、智慧医疗、智能城市等智慧产业开发应用服务业务"
+    },
+    {
+      "name": "数据要素市场",
+      "source_product": "数据要素服务业务",
+      "quote": "公司依托北京国际大数据交易所吉林省数据要素服务中心...开展吉林省数据要素市场化运营工作"
+    },
+    {
+      "name": "文旅",
+      "source_product": "大模型部署服务",
+      "quote": "公司率先训练基于deepseek大模型的“吉林文旅大模型”，该模型深度融合吉林省丰富的历史文化、自然景观、民俗风情等文化旅游资源"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "由志强",
+      "role": "董事、董事长",
+      "quote": "公司负责人由志强"
+    },
+    {
+      "name": "麻卫东",
+      "role": "董事、总经理、主管会计工作负责人",
+      "quote": "主管会计工作负责人麻卫东"
+    },
+    {
+      "name": "王世伟",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人（会计主管人员）王世伟"
+    },
+    {
+      "name": "孙毅",
+      "role": "副总经理兼董事会秘书",
+      "quote": "董事会秘书 孙毅"
+    },
+    {
+      "name": "高雪菘",
+      "role": "股东董事",
+      "quote": "股东董事 高雪菘"
+    },
+    {
+      "name": "张晓丹",
+      "role": "股东董事",
+      "quote": "股东董事 张晓丹"
+    },
+    {
+      "name": "张树雨",
+      "role": "股东董事",
+      "quote": "股东董事 张树雨"
+    },
+    {
+      "name": "程龙",
+      "role": "独立董事",
+      "quote": "独立董事 程龙"
+    },
+    {
+      "name": "艾琳",
+      "role": "独立董事",
+      "quote": "独立董事 艾琳"
+    },
+    {
+      "name": "董汝幸",
+      "role": "独立董事",
+      "quote": "独立董事 董汝幸"
+    },
+    {
+      "name": "张陆红",
+      "role": "独立董事",
+      "quote": "独立董事 张陆红"
+    },
+    {
+      "name": "李铁峰",
+      "role": "副总经理",
+      "quote": "副总经理 李铁峰"
+    },
+    {
+      "name": "徐阳",
+      "role": "副总经理",
+      "quote": "副总经理 徐阳"
+    },
+    {
+      "name": "王九九",
+      "role": "副总经理",
+      "quote": "副总经理 王九九"
+    },
+    {
+      "name": "程树文",
+      "role": "副总经理",
+      "quote": "副总经理 程树文"
+    },
+    {
+      "name": "褚春彦",
+      "role": "原董事长（报告期内离任）",
+      "quote": "褚春彦 董事长 男 58 2023-5-9 2025-4-18 0 0 0 13.57 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "北京吉视汇通科技有限责任公司（吉视汇通）",
+      "relation_type": "subsidiary",
+      "business_details": "承担技术研发任务的控股子公司-北京吉视汇通自主研发的I-PON技术标准具有行业领先优势",
+      "quote": "吉视汇通 指 北京吉视汇通科技有限责任公司"
+    },
+    {
+      "name": "吉林省东北亚新媒体有限公司（新媒体公司）",
+      "relation_type": "subsidiary",
+      "business_details": "IPTV运营主体，为吉林省内IPTV用户提供电视直播、回看服务",
+      "quote": "新媒体公司 指 吉林省东北亚新媒体有限公司"
+    },
+    {
+      "name": "中国广电网络股份有限公司（国网）",
+      "relation_type": "investor",
+      "business_details": "公司依托中国广电与中国移动“共建共享”的2.6GHz+700MHz精品5G移动通讯网络开展业务",
+      "quote": "国网 指 中国广电网络股份有限公司"
+    },
+    {
+      "name": "吉林广播电视台",
+      "relation_type": "customer",
+      "business_details": "控股股东、实际控制人",
+      "quote": "控股股东、实际控制人情况：名称 吉林广播电视台"
+    },
+    {
+      "name": "吉林省吉视投资有限责任公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "吉林省吉视投资有限责任公司 100,000,000 2.87"
+    },
+    {
+      "name": "北京兴华会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "公司聘请的会计师事务所（境内）：名称 北京兴华会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "吉林省吉林祥云信息技术有限公司",
+      "relation_type": "customer",
+      "business_details": "公司与关联方2025年度预计发生的日常关联交易为公司向吉林祥云提供房屋租赁、数据传输、IDC机房租赁、系统集成、信息化项目等服务",
+      "quote": "2. 关于审议公司2025年度预计与吉林省吉林祥云信息技术有限公司发生关联交易的议案"
+    },
+    {
+      "name": "华为",
+      "relation_type": "supplier",
+      "business_details": "宽带互联网业务采用华为等国际先进通信设备制造商提供的网络传输及路由器等设备",
+      "quote": "公司宽带互联网业务采用华为、中兴等国际先进通信设备制造商提供的网络传输及路由器等设备"
+    },
+    {
+      "name": "中兴",
+      "relation_type": "supplier",
+      "business_details": "宽带互联网业务采用中兴等国际先进通信设备制造商提供的网络传输及路由器等设备",
+      "quote": "公司宽带互联网业务采用华为、中兴等国际先进通信设备制造商提供的网络传输及路由器等设备"
+    },
+    {
+      "name": "北京国际大数据交易所",
+      "relation_type": "joint_venture",
+      "business_details": "公司与北京国际大数据交易所战略合作，联合成立“北数所吉林省数据要素服务中心”",
+      "quote": "完成数据要素市场布局卡位，公司与北京国际大数据交易所战略合作，联合成立“北数所吉林省数据要素服务中心”"
+    },
+    {
+      "name": "长春融资担保集团有限公司",
+      "relation_type": "customer",
+      "business_details": "公司全资子公司为长春融资担保集团有限公司提供反担保保证",
+      "quote": "关于全资子公司为长春融资担保集团有限公司提供反担保保证的议案"
+    },
+    {
+      "name": "吉林长影影院投资有限公司（曾用名：吉视传媒影院投资管理有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "报告期内处置子公司",
+      "quote": "公司名称 报告期内取得和处置子公司方式 对整体生产经营和业绩的影响：吉林长影影院投资有限公司（曾用名：吉视传媒影院投资管理有限公司） 股权转让"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "有线电视和综合信息服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,982,991,556.73",
+      "revenue_proportion": null,
+      "gross_margin": "11.13",
+      "yoy_change": "0.06",
+      "quote": "主营业务分产品情况：有线电视和综合信息服务 1,982,991,556.73 1,762,352,166.15 11.13 0.06 8.44 减少6.86个百分点"
+    },
+    {
+      "name": "吉林省",
+      "segment_type": "region",
+      "revenue_amount": "1,982,991,556.73",
+      "revenue_proportion": null,
+      "gross_margin": "11.13",
+      "yoy_change": "0.06",
+      "quote": "主营业务分地区情况：吉林省 1,982,991,556.73 1,762,352,166.15 11.13 0.06 8.44 减少6.86个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,982,991,556.73",
+      "revenue_proportion": null,
+      "gross_margin": "11.13",
+      "yoy_change": "0.06",
+      "quote": "主营业务分销售模式情况：直销 1,982,991,556.73 1,762,352,166.15 11.13 0.06 8.44 减少6.86个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光纤网络",
+      "metric_type": "capacity",
+      "value": "光纤入户网络覆盖用户突破996.91万户，光纤覆盖率为98.62%",
+      "period": null,
+      "quote": "公司在全省范围内光纤入户网络覆盖用户突破996.91万户，光纤覆盖率为98.62%"
+    },
+    {
+      "product": "IDC",
+      "metric_type": "capacity",
+      "value": "可容纳标准机柜数量3,000个",
+      "period": null,
+      "quote": "公司旗下IDC面积10万平方米，为A类数据中心，抗震烈度8级，可容纳标准机柜数量3,000个"
+    },
+    {
+      "product": "弹性云平台",
+      "metric_type": "capacity",
+      "value": "提供近8,000核vCPU、30TB内存、4PB存储容量",
+      "period": null,
+      "quote": "弹性云平台提供近8,000核vCPU、30TB内存、4PB存储容量"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "低空经济领域布局",
+      "project_type": "other",
+      "location": "吉林省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "与北京航空航天大学杭州创新研究院达成战略合作，共建“吉林省低空技术创新应用联合实验室”，完成低空交通管理平台本地化部署测试。",
+      "expected_completion_time": null,
+      "quote": "布局新兴产业赛道。低空经济领域起步发力，与北京航空航天大学杭州创新研究院达成战略合作，共建“吉林省低空技术创新应用联合实验室”，完成低空交通管理平台本地化部署测试。"
+    },
+    {
+      "name": "数据要素市场布局",
+      "project_type": "other",
+      "location": "吉林省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "公司与北京国际大数据交易所战略合作，联合成立“北数所吉林省数据要素服务中心”",
+      "expected_completion_time": null,
+      "quote": "完成数据要素市场布局卡位，公司与北京国际大数据交易所战略合作，联合成立“北数所吉林省数据要素服务中心”"
+    },
+    {
+      "name": "吉林文旅大模型",
+      "project_type": "r_and_d_project",
+      "location": "吉林省",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "公司率先训练基于deepseek大模型的“吉林文旅大模型”",
+      "expected_completion_time": null,
+      "quote": "公司率先训练基于deepseek大模型的“吉林文旅大模型”，该模型深度融合吉林省丰富的历史文化、自然景观、民俗风情等文化旅游资源，打造全国首个省级文旅垂直领域大模型。"
+    },
+    {
+      "name": "吉林省农村光纤入户建设工程",
+      "project_type": "fundraising_project",
+      "location": "吉林省",
+      "investment_amount": "58,342,800.00",
+      "designed_capacity": null,
+      "progress": "已完工",
+      "expected_completion_time": null,
+      "quote": "吉林省农村光纤入户建设工程 已完工"
+    },
+    {
+      "name": "吉林省农村宽带基础网络建设项目",
+      "project_type": "fundraising_project",
+      "location": "吉林省",
+      "investment_amount": "109500000.00",
+      "designed_capacity": null,
+      "progress": "已完工",
+      "expected_completion_time": null,
+      "quote": "吉林省农村宽带基础网络建设项目 已完工"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "I-PON技术",
+      "asset_type": "core_technology",
+      "related_product": "直播电视业务",
+      "quantitative_info": null,
+      "quote": "公司承担技术研发任务的控股子公司-北京吉视汇通自主研发的I-PON技术标准具有行业领先优势"
+    },
+    {
+      "name": "有线电视网络光纤到户系统技术规范第1部分总体技术要求",
+      "asset_type": "standard",
+      "related_product": "I-PON",
+      "quantitative_info": "GY/T306.1-2017",
+      "quote": "序号 1 颁布机构 国家广电总局 时间 2017年3月 标准号 GY/T306.1-2017 标准名 有线电视网络光纤到户系统技术规范第1部分总体技术要求 标准所属《规范》 I-PON"
+    },
+    {
+      "name": "RequirementsofIPvideobroadcast(IPVB)forcableTVnetworks",
+      "asset_type": "standard",
+      "related_product": "IPVB",
+      "quantitative_info": "ITU-TJ.1210",
+      "quote": "序号 2 颁布机构 国际电信联盟（ITU） 时间 2019年7月 标准号 ITU-TJ.1210 标准名 RequirementsofIPvideobroadcast(IPVB)forcableTVnetworks 标准所属《规范》 IPVB"
+    },
+    {
+      "name": "有线电视网络光纤到户万兆单向IP广播系统技术规范",
+      "asset_type": "standard",
+      "related_product": "I-PON",
+      "quantitative_info": "GY/T327-2019",
+      "quote": "序号 3 颁布机构 国家广电总局 时间 2019年10月 标准号 GY/T327-2019 标准名 有线电视网络光纤到户万兆单向IP广播系统技术规范 标准所属《规范》 I-PON"
+    },
+    {
+      "name": "SpecificationsofIPVideoBroadcast(IPVB)forCATVNetworks",
+      "asset_type": "standard",
+      "related_product": "IPVB",
+      "quantitative_info": "ITU-TJ.1211",
+      "quote": "序号 4 颁布机构 国际电信联盟（ITU） 时间 2020年5月 标准号 ITU-TJ.1211 标准名 SpecificationsofIPVideoBroadcast(IPVB)forCATVNetworks 标准所属《规范》 IPVB"
+    },
+    {
+      "name": "多媒体网络数据处理系统（美国专利）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "15/794,702",
+      "quote": "1.专利情况：序号 1 授权（申请）项目名称 多媒体网络数据处理系统 知识产权类别 发明专利 国别 美国 授权号 15/794,702"
+    },
+    {
+      "name": "光传输系统（中国发明专利）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "201210375943.3",
+      "quote": "序号 2 授权（申请）项目名称 光传输系统 知识产权类别 发明专利 国别 中国 授权号 201210375943.3"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28,682.61万元，占年度销售总额14.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额28,682.61万元，占年度销售总额14.46%；其中前五名客户销售额中关联方销售额5,430.81万元，占年度销售总额2.74%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "13,384.79万元，占年度采购总额10.16%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额13,384.79万元，占年度采购总额10.16%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着“三网融合”的不断深入，IPTV、互联网电视、移动视频等各类新兴媒体对广播电视传统业务的分流作用日益明显，整个广电行业面临着竞争加剧和用户流失的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.市场竞争风险：随着“三网融合”的不断深入，IPTV、互联网电视、移动视频等各类新兴媒体对广播电视传统业务的分流作用日益明显，整个广电行业面临着竞争加剧和用户流失的风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "随着国内广播电视与新兴媒体融合的趋势不断加快，互联网、移动多媒体等多种新兴技术不断融入到广电网络运营商业务体系中，互联网升级换代周期不断缩短，高性能的终端设备、路由交换和传输网络的建设对公司的技术团队提出了更高的素质要求。因此，在各种新技术、新产品和新业务不断涌现的时代，公司在技术前景、技术开发、技术应用等方面面临一定的压力与风险，为应对技术不断升级所增加的资本开支也可能对公司财务业绩造成一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.技术风险：随着国内广播电视与新兴媒体融合的趋势不断加快，互联网、移动多媒体等多种新兴技术不断融入到广电网络运营商业务体系中，互联网升级换代周期不断缩短，高性能的终端设备、路由交换和传输网络的建设对公司的技术团队提出了更高的素质要求。因此，在各种新技术、新产品和新业务不断涌现的时代，公司在技术前景、技术开发、技术应用等方面面临一定的压力与风险，为应对技术不断升级所增加的资本开支也可能对公司财务业绩造成一定影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "精准化解债务风险。聚焦债务化解任务目标，分类梳理存量债务，主动与金融机构对接协商，积极争取降息、展期、续贷等政策支持。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "二是精准化解债务风险。聚焦债务化解任务目标，分类梳理存量债务，主动与金融机构对接协商，积极争取降息、展期、续贷等政策支持。"
+    },
+    {
+      "risk_type": "other",
+      "description": "2023年7月5日收到上海证券交易所发来的《关于对吉视传媒股份有限公司及有关责任人予以通报批评的决定》...因公司业绩预告更正的财务数据与首次披露的业绩预告财务数据差异幅度较大，影响了投资者的合理预期。同时，公司迟至2023年4月21日才发布业绩预告更正公告，更正公告披露不及时...",
+      "related_entity": "上海证券交易所",
+      "related_product": null,
+      "quote": "2023年7月5日收到上海证券交易所发来的《关于对吉视传媒股份有限公司及有关责任人予以通报批评的决定》【2023】73号，因公司业绩预告更正的财务数据与首次披露的业绩预告财务数据差异幅度较大，影响了投资者的合理预期。同时，公司迟至2023年4月21日才发布业绩预告更正公告，更正公告披露不及时，违反了《上海证券交易所股票上市规则》等有关规定。"
+    }
+  ]
+}

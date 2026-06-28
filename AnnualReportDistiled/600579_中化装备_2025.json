@@ -1,0 +1,417 @@
+{
+  "company_name_mentioned": "中化装备科技（青岛）股份有限公司",
+  "produces": [
+    {
+      "name": "干燥设备",
+      "type": "device",
+      "revenue_proportion": "营业收入 766,783,841.25，毛利率 20.48%",
+      "quote": "干燥设备 营业收入 766,783,841.25 609,777,580.91 20.48 -5.23 3.92 减少7.00个百分点"
+    },
+    {
+      "name": "硫化设备",
+      "type": "device",
+      "revenue_proportion": "营业收入 140,612,469.38，毛利率 -9.23%",
+      "quote": "硫化设备 营业收入 140,612,469.38 153,594,191.42 -9.23 -56.43 -53.57 减少6.74个百分点"
+    },
+    {
+      "name": "工程、监理及技术服务",
+      "type": "service",
+      "revenue_proportion": "营业收入 236,689,808.55，毛利率 23.78%",
+      "quote": "工程、监理及技术服务 营业收入 236,689,808.55 180,416,095.39 23.78 -7.50 5.65 减少9.49个百分点"
+    },
+    {
+      "name": "其他化工装备及橡胶机械产品",
+      "type": "device",
+      "revenue_proportion": "营业收入 439,537,869.22，毛利率 19.63%",
+      "quote": "其他 营业收入 439,537,869.22 353,246,763.12 19.63 -3.46 -26.04 增加24.54个百分点"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料（工业制造）",
+      "target_product": null,
+      "cost_proportion": "810,225,442.02，占总成本 62.47%",
+      "quote": "直接材料 810,225,442.02 62.47 5,312,798,984.45 70.03 -84.75"
+    },
+    {
+      "name": "职工薪酬（工业制造）",
+      "target_product": null,
+      "cost_proportion": "230,946,609.41，占总成本 17.81%",
+      "quote": "职工薪酬 230,946,609.41 17.81 1,724,136,530.73 22.73 -86.61"
+    },
+    {
+      "name": "制造费用（工业制造）",
+      "target_product": null,
+      "cost_proportion": "255,862,579.41，占总成本 19.73%",
+      "quote": "制造费用 255,862,579.41 19.73 549,274,320.22 7.24 -53.42"
+    },
+    {
+      "name": "直接材料（工程、监理及技术服务）",
+      "target_product": null,
+      "cost_proportion": "26,128,530.83，占总成本 2.01%",
+      "quote": "直接材料 26,128,530.83 2.01 28,918,576.42 0.38 -9.65"
+    },
+    {
+      "name": "职工薪酬（工程、监理及技术服务）",
+      "target_product": null,
+      "cost_proportion": "65,023,078.37，占总成本 5.01%",
+      "quote": "职工薪酬 65,023,078.37 5.01 76,830,385.89 1.01 -15.37"
+    },
+    {
+      "name": "制造费用（工程、监理及技术服务）",
+      "target_product": null,
+      "cost_proportion": "89,264,486.19，占总成本 6.88%",
+      "quote": "制造费用 89,264,486.19 6.88 65,021,947.01 0.86 37.28"
+    }
+  ],
+  "applications": [
+    {
+      "name": "石油化工、煤化工、冶金、电力、建筑、轻工纺织、环保、医药等行业",
+      "source_product": "化工装备（如大型干燥设备、阳极保护浓硫酸冷却设备、废热锅炉及余热回收设备、工业炉及燃烧器等）",
+      "quote": "公司化工装备产品主要为大型干燥设备、阳极保护浓硫酸冷却设备、废热锅炉及余热回收设备、工业炉及燃烧器、γ射线料位计和密度计、在线分析仪表成套系统等。产品广泛应用于化工、石油化工、煤化工、冶金、电力、建筑、轻工纺织、环保、医药等行业领域。"
+    },
+    {
+      "name": "乘用胎、卡车胎、工程胎等全领域轮胎制造",
+      "source_product": "橡胶机械（机械式硫化机、液压式硫化机）",
+      "quote": "公司橡胶机械主要产品机械式硫化机（42吋-122吋）、液压式硫化机（24吋-170吋）...产品广泛应用于乘用胎、卡车胎、工程胎等全领域，客户群体覆盖全球知名轮胎制造企业。"
+    },
+    {
+      "name": "PTA（精对苯二甲酸）工业装置",
+      "source_product": "旋转压力过滤机",
+      "quote": "公司自主研制的全球首台套旋转压力过滤机在独山能源三期年产300万吨PTA装置一次性开车成功，推动我国PTA核心装备技术跃居世界前列"
+    },
+    {
+      "name": "聚丙烯项目",
+      "source_product": "聚丙烯聚合反应器",
+      "quote": "与德国EKATO集团联合打造的全球最大Novolen工艺聚丙烯项目聚合反应器顺利出厂，填补国内超大型聚丙烯反应器自主设计与制造空白"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张驰",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人张驰、主管会计工作负责人乐华及会计机构负责人（会计主管人员）柳海兵声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "徐国庆",
+      "role": "职工董事",
+      "quote": "徐国庆 职工董事 男 49 2025-10-21 2026-04-03 12.46 否"
+    },
+    {
+      "name": "郑智",
+      "role": "董事、副总经理、科创中心总监",
+      "quote": "郑智 董事 男 43 2023-12-29 2026-04-03 0 郑智 副总经理 男 43 2023-03-24 2026-04-03 130.01 否"
+    },
+    {
+      "name": "李晓旭",
+      "role": "董事、原财务负责人、首席合规官（已离任）",
+      "quote": "李晓旭 董事 男 41 2023-01-17 2026-04-03 0 李晓旭 财务负责人、首席合规官 男 41 2023-03-24 2025-12-31 129.95 否"
+    },
+    {
+      "name": "胡斌",
+      "role": "董事",
+      "quote": "胡斌 董事 男 59 2025-08-05 2026-04-03 0 是"
+    },
+    {
+      "name": "崔靖",
+      "role": "董事",
+      "quote": "崔靖 董事 女 54 2025-12-30 2026-04-03 0 是"
+    },
+    {
+      "name": "马战坤",
+      "role": "独立董事",
+      "quote": "马战坤 独立董事 男 59 2023-01-17 2026-04-03 12.11 否"
+    },
+    {
+      "name": "刘雪娇",
+      "role": "独立董事",
+      "quote": "刘雪娇 独立董事 女 40 2024-05-24 2026-04-03 12.11 否"
+    },
+    {
+      "name": "宫敬",
+      "role": "独立董事",
+      "quote": "宫敬 独立董事 女 63 2025-12-30 2026-04-03 0 否"
+    },
+    {
+      "name": "何德强",
+      "role": "副总经理",
+      "quote": "何德强 副总经理 男 57 2025-01-06 2026-04-03 54.19 否"
+    },
+    {
+      "name": "张晓峰",
+      "role": "董事会秘书、副总经理",
+      "quote": "张晓峰 董事会秘书 男 43 2023-10-23 2026-04-03 120.20 否 张晓峰 副总经理 男 43 2025-07-25 2026-04-03"
+    },
+    {
+      "name": "梁锋",
+      "role": "总法律顾问",
+      "quote": "梁锋 总法律顾问 男 50 2022-04-29 2026-04-03 103.96 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国中化控股有限责任公司",
+      "relation_type": "investor",
+      "business_details": "最终实际控制方（国务院国资委）下属企业",
+      "quote": "中国中化、集团公司 指 中国中化控股有限责任公司"
+    },
+    {
+      "name": "中国化工集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东装备环球的母公司",
+      "quote": "中国化工集团 指 中国化工集团有限公司"
+    },
+    {
+      "name": "中国化工装备环球控股（香港）有限公司（装备环球）",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "装备环球 指 CNCE Global Holdings(HongKong)Co.,Limited（中国化工装备环球控股（香港）有限公司）"
+    },
+    {
+      "name": "中国化工装备有限公司（装备公司）",
+      "relation_type": "supplier",
+      "business_details": "控股股东装备环球的母公司",
+      "quote": "装备公司 指 中国化工装备有限公司"
+    },
+    {
+      "name": "天华化工机械及自动化研究设计院有限公司（天华院）",
+      "relation_type": "subsidiary",
+      "business_details": "化工装备业务经营主体",
+      "quote": "天华院 指 天华化工机械及自动化研究设计院有限公司"
+    },
+    {
+      "name": "中化（福建）橡塑机械有限公司（中化橡机）",
+      "relation_type": "subsidiary",
+      "business_details": "橡胶机械业务经营主体",
+      "quote": "中化橡机 指 中化（福建）橡塑机械有限公司"
+    },
+    {
+      "name": "China National Chemical Equipment (Luxembourg) S.à.r.l.（装备卢森堡）",
+      "relation_type": "subsidiary",
+      "business_details": "原全资子公司，2024年重大资产重组后变更为参股公司，旗下KM集团不再纳入合并范围",
+      "quote": "装备卢森堡 指 China National Chemical Equipment (Luxembourg) S.à.r.l.（公司在2024年度实施重大资产重组，装备香港将其对装备卢森堡享有的债权转为对装备卢森堡的股权，标的资产已于2024年12月31日交割完成。装备卢森堡 指 2024 年12 月31 日起装备卢森堡由上市公司的全资子公司变更为参股公司，公司塑料机械业务的经营主体——装备卢森堡旗下的 KM 集团及其下属公司不再纳入上市公司合并报表范围）"
+    },
+    {
+      "name": "KraussMaffeiGroupGmbH（克劳斯玛菲集团，KM集团）",
+      "relation_type": "subsidiary",
+      "business_details": "原塑料机械业务经营主体（已通过重大资产重组剥离）",
+      "quote": "KM集团 指 包括KraussMaffeiGroupGmbH及其全部子公司在内的全部法律主体的集合"
+    },
+    {
+      "name": "益阳橡胶塑料机械集团有限公司（益阳橡机）",
+      "relation_type": "competitor",
+      "business_details": "橡胶机械行业竞争对手，公司正在推进重大资产重组以注入该公司",
+      "quote": "益阳橡机 指 益阳橡胶塑料机械集团有限公司"
+    },
+    {
+      "name": "桂林橡胶机械有限公司（桂林橡机）",
+      "relation_type": "competitor",
+      "business_details": "橡胶机械行业竞争对手，受同一实际控制人控制",
+      "quote": "桂林橡机 指 桂林橡胶机械有限公司"
+    },
+    {
+      "name": "蓝星（北京）化工机械有限公司（北化机）",
+      "relation_type": "competitor",
+      "business_details": "公司正在推进重大资产重组以注入该公司",
+      "quote": "北化机、蓝星北化机 指 蓝星（北京）化工机械有限公司"
+    },
+    {
+      "name": "德国EKATO集团",
+      "relation_type": "customer",
+      "business_details": "联合打造聚丙烯项目聚合反应器",
+      "quote": "与德国EKATO集团联合打造的全球最大Novolen工艺聚丙烯项目聚合反应器顺利出厂"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "机械与设备制造",
+      "segment_type": "product_line",
+      "revenue_amount": "1,346,934,179.85",
+      "revenue_proportion": null,
+      "gross_margin": "17.10%",
+      "yoy_change": "营业收入比上年同期增减 -85.60%",
+      "quote": "机械与设备制造 营业收入 1,346,934,179.85 1,116,618,535.45 17.10 -85.60 -84.94 减少3.64个百分点"
+    },
+    {
+      "name": "工程、监理及技术服务",
+      "segment_type": "product_line",
+      "revenue_amount": "236,689,808.55",
+      "revenue_proportion": null,
+      "gross_margin": "23.78%",
+      "yoy_change": "营业收入比上年同期增减 -7.50%",
+      "quote": "工程、监理及技术服务 营业收入 236,689,808.55 180,416,095.39 23.78 -7.50 5.65 减少9.49个百分点"
+    },
+    {
+      "name": "干燥设备",
+      "segment_type": "product_line",
+      "revenue_amount": "766,783,841.25",
+      "revenue_proportion": null,
+      "gross_margin": "20.48%",
+      "yoy_change": "营业收入比上年同期增减 -5.23%",
+      "quote": "干燥设备 营业收入 766,783,841.25 609,777,580.91 20.48 -5.23 3.92 减少7.00个百分点"
+    },
+    {
+      "name": "硫化设备",
+      "segment_type": "product_line",
+      "revenue_amount": "140,612,469.38",
+      "revenue_proportion": null,
+      "gross_margin": "-9.23%",
+      "yoy_change": "营业收入比上年同期增减 -56.43%",
+      "quote": "硫化设备 营业收入 140,612,469.38 153,594,191.42 -9.23 -56.43 -53.57 减少6.74个百分点"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "439,537,869.22",
+      "revenue_proportion": null,
+      "gross_margin": "19.63%",
+      "yoy_change": "营业收入比上年同期增减 -3.46%",
+      "quote": "其他 营业收入 439,537,869.22 353,246,763.12 19.63 -3.46 -26.04 增加24.54个百分点"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "1,493,388,456.55",
+      "revenue_proportion": null,
+      "gross_margin": "18.89%",
+      "yoy_change": "营业收入比上年同期增减 -51.01%",
+      "quote": "国内 营业收入 1,493,388,456.55 1,211,293,271.86 18.89 -51.01 -51.03 增加0.03个百分点"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "90,235,531.85",
+      "revenue_proportion": null,
+      "gross_margin": "4.98%",
+      "yoy_change": "营业收入比上年同期增减 -98.63%",
+      "quote": "国外 营业收入 90,235,531.85 85,741,358.98 4.98 -98.63 -98.32 减少17.12个百分点"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,583,623,988.40",
+      "revenue_proportion": null,
+      "gross_margin": "18.10%",
+      "yoy_change": "营业收入比上年同期增减 -83.52%",
+      "quote": "直销 营业收入 1,583,623,988.40 1,297,034,630.84 18.10 -83.52 -82.90 减少2.98个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "橡胶机械（硫化机等）",
+      "metric_type": "other",
+      "value": "在手订单1.05亿元",
+      "period": "报告期末（2025年末）",
+      "quote": "中化橡机在手订单1.05亿元，同比减少22.22%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "发行股份购买资产并募集配套资金项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已获国务院国资委批复，上交所已受理申请",
+      "expected_completion_time": null,
+      "quote": "公司拟发行股份购买装备公司持有的益阳橡机100%股权、北京蓝星节能投资管理有限公司持有的北化机100%股权，并向不超过35名符合条件的特定投资者发行股份募集配套资金...2026年2月2日收到国务院国资委下发的《国务院国资委关于中化装备科技(青岛)股份有限公司资产重组和配套融资有关事项的批复》...2026年2月24日收到上交所出具的《关于受理中化装备科技（青岛）股份有限公司发行股份购买资产并募集配套资金申请的通知》"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "695项",
+      "quote": "天华院具备有效专利695项（截至报告期末），技术储备持续增厚。"
+    },
+    {
+      "name": "国家认定企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "天华院作为国家认定企业技术中心，依托国家干燥技术及装备工程技术研究中心等国家级平台"
+    },
+    {
+      "name": "设备监理资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "11个甲级资质、5个乙级资质",
+      "quote": "天华院作为行业内极少数具备完整资质的企业之一，持有设备监理11个甲级资质、5个乙级资质"
+    },
+    {
+      "name": "压力过滤技术",
+      "asset_type": "core_technology",
+      "related_product": "旋转压力过滤机",
+      "quantitative_info": null,
+      "quote": "压力过滤技术助推我国国产PTA工艺包的工业实现和国际化进程"
+    },
+    {
+      "name": "旋转压力过滤机",
+      "asset_type": "core_technology",
+      "related_product": "PTA装置",
+      "quantitative_info": "全球首台套",
+      "quote": "公司自主研制的全球首台套旋转压力过滤机在独山能源三期年产300万吨PTA装置一次性开车成功"
+    },
+    {
+      "name": "聚丙烯反应器设计与制造技术",
+      "asset_type": "core_technology",
+      "related_product": "聚丙烯聚合反应器",
+      "quantitative_info": "填补国内超大型聚丙烯反应器自主设计与制造空白",
+      "quote": "与德国EKATO集团联合打造的全球最大Novolen工艺聚丙烯项目聚合反应器顺利出厂，填补国内超大型聚丙烯反应器自主设计与制造空白"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "29,671.38万元，占年度销售总额18.74%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额29,671.38万元，占年度销售总额18.74%；其中前五名客户销售额中关联方销售额0万元，占年度销售总额0%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "14,368.00万元，占年度采购总额11.97%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额14,368.00万元，占年度采购总额11.97%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "客户集中度较高",
+      "related_entity": "中化橡机",
+      "period": null,
+      "quote": "中化橡机业绩客户集中度较高，抗客户流失和市场风险能力较弱。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "国际地缘政治冲突、全球经济增速放缓、行业竞争加剧",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司面对国际地缘政治冲突、全球经济增速放缓、行业竞争加剧等外部诸多不利因素带来的巨大挑战和压力"
+    },
+    {
+      "risk_type": "other",
+      "description": "化工装备与橡胶机械装备两大主营业务均属周期性行业，易受宏观环境与行业周期影响",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司化工装备与橡胶机械装备两大主营业务均属周期性行业，易受宏观环境与行业周期影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "应收款项减值风险、存货减值风险及长期资产减值风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司面临的风险主要为应收款项减值风险、存货减值风险及长期资产减值风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "重大资产重组尚需上交所审核通过以及证监会同意注册，存在不确定性",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本次交易尚需上交所审核通过以及证监会同意注册后方可实施，能否取得上述批准和注册，以及最终取得批准和注册的时间均存在不确定性。"
+    }
+  ]
+}

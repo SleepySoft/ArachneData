@@ -1,0 +1,624 @@
+{
+  "company_name_mentioned": "富临精工股份有限公司",
+  "produces": [
+    {
+      "name": "挺柱、摇臂、喷嘴、张紧器、缸内直喷高压油泵泵壳、VVT（电动 EVVT、液压HVVT）、VVL、油泵电磁阀、电子主水泵、变速箱电磁阀",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "以挺柱、摇臂、喷嘴、张紧器及缸内直喷高压油泵泵壳为主的精密液压零部件，以 VVT（电动 EVVT、液压HVVT）、VVL、油泵电磁阀为主的电磁驱动精密零部件，应用于汽车发动机；电子主水泵应用于新型高效率发动机主冷却系统；变速箱电磁阀等精密阀类产品，应用于自动变速箱和混动变速箱的电液控制系统。"
+    },
+    {
+      "name": "电子水泵、电子油泵、智能热管理集成模块、电控执行器、车载减速器总成、高精度齿轴及壳体、可变阻尼减震器电磁阀、空气悬架电磁阀",
+      "type": "component",
+      "revenue_proportion": "新能源及混合动力零部件：10.63%；热管理系统及部件：6.79%",
+      "quote": "以电子水泵、电子油泵、智能热管理集成模块及电控执行器为主的电子驱动系列产品...车载减速器总成、高精度齿轴及壳体等系列产品...可变阻尼减震器电磁阀、空气悬架电磁阀系列产品..."
+    },
+    {
+      "name": "行星电关节模组、谐波电关节模组",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "以行星电关节模组、谐波电关节模组为主的系列产品，集成了精密减速器、电机、角度传感器及电控等关键零部件，用于四足机器狗、双足人形机器人及轮式机器人。"
+    },
+    {
+      "name": "高压实磷酸铁锂正极材料",
+      "type": "material",
+      "revenue_proportion": "69.05%",
+      "quote": "主要产品为高压实磷酸铁锂正极材料，应用于新能源汽车动力电池和储能领域。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "坯料/成品、原辅材料、外购标准件及其他物资",
+      "target_product": "汽车零部件",
+      "cost_proportion": null,
+      "quote": "公司汽车零部件业务所需的主要坯料/成品、原辅材料、外购标准件及其他物资采购，由采购部向供应商统一负责开发与采购。"
+    },
+    {
+      "name": "原材料（碳酸锂等）",
+      "target_product": "锂电池正极材料",
+      "cost_proportion": "直接材料占营业成本86.87%",
+      "quote": "公司锂电正极材料磷酸铁锂生产所需的上游原材料碳酸锂在产品成本构成所占比重较大...营业成本构成...直接材料 86.87%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "汽车发动机",
+      "source_product": "动力总成精密零部件（挺柱、摇臂、VVT等）",
+      "quote": "主要产品...应用于汽车发动机。"
+    },
+    {
+      "name": "自动变速箱和混动变速箱",
+      "source_product": "变速箱电磁阀",
+      "quote": "变速箱电磁阀等精密阀类产品，应用于自动变速箱和混动变速箱的电液控制系统。"
+    },
+    {
+      "name": "新能源汽车、混合动力汽车及传统汽车的热管理及动力系统",
+      "source_product": "电子水泵、电子油泵、智能热管理集成模块及电控执行器",
+      "quote": "应用于新能源汽车、混合动力汽车及传统汽车的热管理及动力系统。"
+    },
+    {
+      "name": "新能源车载电驱动系统",
+      "source_product": "车载减速器总成、高精度齿轴及壳体",
+      "quote": "主要应用于新能源车载电驱动系统。"
+    },
+    {
+      "name": "智能悬架系统",
+      "source_product": "可变阻尼减震器电磁阀、空气悬架电磁阀",
+      "quote": "应用于智能悬架系统。"
+    },
+    {
+      "name": "四足机器狗、双足人形机器人及轮式机器人",
+      "source_product": "行星电关节模组、谐波电关节模组",
+      "quote": "用于四足机器狗、双足人形机器人及轮式机器人。"
+    },
+    {
+      "name": "新能源汽车动力电池和储能领域",
+      "source_product": "高压实磷酸铁锂正极材料",
+      "quote": "应用于新能源汽车动力电池和储能领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王志红",
+      "role": "公司负责人、董事长",
+      "quote": "公司负责人王志红、主管会计工作负责人岳小平及会计机构负责人(会计主管人员)岳小平声明...公司负责人：王志红。"
+    },
+    {
+      "name": "岳小平",
+      "role": "主管会计工作负责人、会计机构负责人、董事",
+      "quote": "公司负责人王志红、主管会计工作负责人岳小平及会计机构负责人(会计主管人员)岳小平声明..."
+    },
+    {
+      "name": "王军",
+      "role": "总经理、董事",
+      "quote": "总经理：王军；董事：王军。"
+    },
+    {
+      "name": "李鹏程",
+      "role": "董事、副董事长",
+      "quote": "董事、副董事长：李鹏程。"
+    },
+    {
+      "name": "王惟贤",
+      "role": "董事会秘书",
+      "quote": "董事会秘书：王惟贤。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川富临实业集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "富临集团 指 公司控股股东四川富临实业集团有限公司"
+    },
+    {
+      "name": "四川芯智热控技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "芯智热控 指 公司控股子公司四川芯智热控技术有限公司"
+    },
+    {
+      "name": "绵阳富临精工新能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "绵阳新能源 指 公司全资子公司绵阳富临精工新能源有限公司"
+    },
+    {
+      "name": "欧洲富临精工机械股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "欧洲富临精工 指 公司全资子公司欧洲富临精工机械股份有限公司"
+    },
+    {
+      "name": "成都富临精工电子电器科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "富临精工电子电器 指 公司全资子公司成都富临精工电子电器科技有限公司"
+    },
+    {
+      "name": "常州富临精密传动有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "常州富临 指 公司全资子公司常州富临精密传动有限公司"
+    },
+    {
+      "name": "江西升华新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "江西升华 指 公司控股子公司江西升华新材料有限公司"
+    },
+    {
+      "name": "湖南升华新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "升华新材 指 公司全资子公司湖南升华新材料科技有限公司"
+    },
+    {
+      "name": "四川锋富锂业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "江西升华参股公司",
+      "quote": "锋富锂业 指 江西升华参股公司四川锋富锂业有限公司"
+    },
+    {
+      "name": "成都安努智能技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "安努智能 指 公司参股公司成都安努智能技术有限公司"
+    },
+    {
+      "name": "宁德时代新能源科技股份有限公司",
+      "relation_type": "customer",
+      "business_details": "锂电池制造商客户，战略投资者",
+      "quote": "宁德时代 指 宁德时代新能源科技股份有限公司；前五名客户...宁德时代新能源科技股份有限公司。"
+    },
+    {
+      "name": "宁德时代新能源科技股份有限公司",
+      "relation_type": "investor",
+      "business_details": "对子公司江西升华进行增资扩股",
+      "quote": "公司控股子公司江西升华以增资扩股的方式引入战略投资者宁德时代。"
+    },
+    {
+      "name": "华为技术有限公司",
+      "relation_type": "customer",
+      "business_details": "客户",
+      "quote": "华为 指 华为技术有限公司；国内市场客户涵盖了...华为...等国内自主品牌主机厂。"
+    },
+    {
+      "name": "联合汽车电子有限公司",
+      "relation_type": "customer",
+      "business_details": "客户",
+      "quote": "联合电子 指 联合汽车电子有限公司；国内市场客户涵盖了...联合电子...等国内自主品牌主机厂。"
+    },
+    {
+      "name": "四川赣锋锂业有限公司",
+      "relation_type": "supplier",
+      "business_details": "合资设立四川锋富锂业有限公司，拓展原材料供应渠道",
+      "quote": "江西升华与四川赣锋锂业有限公司合资设立四川锋富锂业有限公司，新建年产 10 万吨硫酸锂制造磷酸二氢锂项目。"
+    },
+    {
+      "name": "四川发展龙蟒股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "签署合作框架协议，共建新型高压实密度磷酸铁锂正极材料项目与前驱体项目",
+      "quote": "公司与四川发展龙蟒股份有限公司签署合作框架协议，共建新型高压实密度磷酸铁锂正极材料项目与前驱体项目。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "汽车零部件及配件制造",
+      "segment_type": "product_line",
+      "revenue_amount": "4,173,125,713.05元",
+      "revenue_proportion": "30.95%",
+      "gross_margin": "22.71%",
+      "yoy_change": "14.61%",
+      "quote": "分行业...汽车零部件及配件制造 4,173,125,713.05 30.95% 14.61%...22.71%。"
+    },
+    {
+      "name": "锂电池正极材料",
+      "segment_type": "product_line",
+      "revenue_amount": "9,309,152,379.86元",
+      "revenue_proportion": "69.05%",
+      "gross_margin": "5.82%",
+      "yoy_change": "92.77%",
+      "quote": "分行业...锂电池正极材料 9,309,152,379.86 69.05% 92.77%...5.82%。"
+    },
+    {
+      "name": "发动机零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,781,536,113.28元",
+      "revenue_proportion": "13.21%",
+      "gross_margin": "30.71%",
+      "yoy_change": "-2.68%",
+      "quote": "分产品...发动机零部件 1,781,536,113.28 13.21% -2.68%...30.71%。"
+    },
+    {
+      "name": "新能源及混合动力零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,432,618,417.91元",
+      "revenue_proportion": "10.63%",
+      "gross_margin": "17.48%",
+      "yoy_change": "27.86%",
+      "quote": "分产品...新能源及混合动力零部件 1,432,618,417.91 10.63% 27.86%...17.48%。"
+    },
+    {
+      "name": "热管理系统及部件",
+      "segment_type": "product_line",
+      "revenue_amount": "915,630,050.29元",
+      "revenue_proportion": "6.79%",
+      "gross_margin": null,
+      "yoy_change": "40.45%",
+      "quote": "分产品...热管理系统及部件 915,630,050.29 6.79% 40.45%。"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "13,312,866,672.82元",
+      "revenue_proportion": "98.74%",
+      "gross_margin": "10.84%",
+      "yoy_change": "60.21%",
+      "quote": "分地区...境内 13,312,866,672.82 98.74% 60.21%...10.84%。"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "169,411,420.09元",
+      "revenue_proportion": "1.26%",
+      "gross_margin": "27.80%",
+      "yoy_change": "5.50%",
+      "quote": "分地区...境外 169,411,420.09 1.26% 5.50%...27.80%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "新能源及混合动力零部件",
+      "metric_type": "capacity",
+      "value": "2,182.99万台/套（万支）",
+      "period": "2025年",
+      "quote": "产能状况 2,182.99万台/套（万支）"
+    },
+    {
+      "product": "新能源及混合动力零部件",
+      "metric_type": "production_volume",
+      "value": "1,749.62万台/套（万支）",
+      "period": "2025年",
+      "quote": "产量 1,749.62万台/套（万支）"
+    },
+    {
+      "product": "新能源及混合动力零部件",
+      "metric_type": "sales_volume",
+      "value": "1,505.32万台/套（万支）",
+      "period": "2025年",
+      "quote": "销量 1,505.32万台/套（万支）"
+    },
+    {
+      "product": "热管理系统及部件",
+      "metric_type": "production_volume",
+      "value": "359.19万台/套（万支）",
+      "period": "2025年",
+      "quote": "产量 359.19万台/套（万支）"
+    },
+    {
+      "product": "热管理系统及部件",
+      "metric_type": "sales_volume",
+      "value": "323.21万台/套（万支）",
+      "period": "2025年",
+      "quote": "销量 323.21万台/套（万支）"
+    },
+    {
+      "product": "高压实密度磷酸铁锂",
+      "metric_type": "capacity",
+      "value": "350,000吨（273,333吨 + 在建产能350,000吨）",
+      "period": "2025年",
+      "quote": "产能 273,333吨 350,000吨。"
+    },
+    {
+      "product": "高压实密度磷酸铁锂",
+      "metric_type": "production_volume",
+      "value": "273,795.32吨",
+      "period": "2025年",
+      "quote": "产量 273,795.32吨。"
+    },
+    {
+      "product": "高压实密度磷酸铁锂",
+      "metric_type": "sales_volume",
+      "value": "273,827.64吨",
+      "period": "2025年",
+      "quote": "销量 273,827.64吨。"
+    },
+    {
+      "product": "高压实密度磷酸铁锂",
+      "metric_type": "capacity_utilization",
+      "value": "100.17%",
+      "period": "2025年",
+      "quote": "产能利用率 100.17%。"
+    },
+    {
+      "product": "汽车零部件及配件制造",
+      "metric_type": "inventory_volume",
+      "value": "4,678.21万支",
+      "period": "2025年末",
+      "quote": "库存量 4,678.21万支。"
+    },
+    {
+      "product": "锂电池正极材料",
+      "metric_type": "inventory_volume",
+      "value": "4,415.38吨",
+      "period": "2025年末",
+      "quote": "库存量 4,415.38吨。"
+    },
+    {
+      "product": "车载电驱动减速器",
+      "metric_type": "capacity",
+      "value": "年产能已形成 50 万台",
+      "period": null,
+      "quote": "车载电驱动减速器产线年产能已形成 50 万台。"
+    },
+    {
+      "product": "电驱动三合一动力总成",
+      "metric_type": "capacity",
+      "value": "具备年 24万台产能",
+      "period": null,
+      "quote": "电驱动三合一动力总成线具备年 24万台产能。"
+    },
+    {
+      "product": "差速器",
+      "metric_type": "capacity",
+      "value": "具备 93万台套年产能",
+      "period": null,
+      "quote": "差速器具备 93万台套年产能。"
+    },
+    {
+      "product": "变速箱电磁阀",
+      "metric_type": "capacity",
+      "value": "年 1,000 万只",
+      "period": null,
+      "quote": "已形成了变速箱电磁阀年 1,000 万只。"
+    },
+    {
+      "product": "GDI 泵壳",
+      "metric_type": "capacity",
+      "value": "年 400 万只",
+      "period": null,
+      "quote": "GDI 泵壳年 400 万只。"
+    },
+    {
+      "product": "减速器齿轴",
+      "metric_type": "capacity",
+      "value": "年 170 万套",
+      "period": null,
+      "quote": "减速器齿轴年 170 万套。"
+    },
+    {
+      "product": "减速器壳体",
+      "metric_type": "capacity",
+      "value": "年 18 万套",
+      "period": null,
+      "quote": "减速器壳体年 18 万套。"
+    },
+    {
+      "product": "CDC电磁阀",
+      "metric_type": "capacity",
+      "value": "年300万支",
+      "period": null,
+      "quote": "CDC电磁阀年300万支产能。"
+    },
+    {
+      "product": "电子主水泵",
+      "metric_type": "capacity",
+      "value": "年480万台",
+      "period": null,
+      "quote": "已形成电子主水泵年480万台。"
+    },
+    {
+      "product": "电子油泵",
+      "metric_type": "capacity",
+      "value": "年180万台",
+      "period": null,
+      "quote": "电子油泵年180万台。"
+    },
+    {
+      "product": "电子执行器",
+      "metric_type": "capacity",
+      "value": "年60万台",
+      "period": null,
+      "quote": "电子执行器年60万台。"
+    },
+    {
+      "product": "热管理集成模块",
+      "metric_type": "capacity",
+      "value": "年36万套",
+      "period": null,
+      "quote": "热管理集成模块年36万套的产能。"
+    },
+    {
+      "product": "机器人集成电关节",
+      "metric_type": "capacity",
+      "value": "年产 10 万台",
+      "period": null,
+      "quote": "公司具备年产 10 万台机器人集成电关节的生产平台。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产35万吨新型高压实密度磷酸铁锂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "532,322,659.31元（累计投入）",
+      "designed_capacity": "35万吨",
+      "progress": "正在建设中",
+      "expected_completion_time": null,
+      "quote": "正在进行中的重大的非股权投资情况...项目名称：年产35万吨新型高压实密度磷酸铁锂项目...投资金额：532,322,659.31元...进展：正在建设中。"
+    },
+    {
+      "name": "年产 50 万吨高端储能用磷酸铁锂产能项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产50万吨",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "正在推进新建...年产50万吨高端储能用磷酸铁锂产能。"
+    },
+    {
+      "name": "高端新能源汽车热管理核心零部件项目（安徽芯智热控）",
+      "project_type": "capacity_expansion",
+      "location": "华东",
+      "investment_amount": null,
+      "designed_capacity": "年产 24 万台热管理集成模块及 120 万台电子水泵",
+      "progress": "已搭建生产平台",
+      "expected_completion_time": null,
+      "quote": "其全资子公司安徽芯智热控技术有限公司...高端新能源汽车热管理核心零部件项目正在推进，已搭建年产 24 万台热管理集成模块及 120 万台电子水泵的生产平台。"
+    },
+    {
+      "name": "高端新能源汽车核心零部件项目（常州富临）",
+      "project_type": "capacity_expansion",
+      "location": "常州",
+      "investment_amount": null,
+      "designed_capacity": "年产 100万套新能源汽车高速减速器齿轴",
+      "progress": "正在加速量产",
+      "expected_completion_time": null,
+      "quote": "公司全资子公司常州富临精密传动有限公司...高端新能源汽车核心零部件项目正在加速量产，搭建年产 100万套新能源汽车高速减速器齿轴生产平台。"
+    },
+    {
+      "name": "年产 10 万吨硫酸锂制造磷酸二氢锂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年产10万吨",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "江西升华与四川赣锋锂业有限公司合资设立四川锋富锂业有限公司，新建年产 10 万吨硫酸锂制造磷酸二氢锂项目。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "固相法+草酸亚铁工艺路线",
+      "asset_type": "process_technology",
+      "related_product": "高压实密度磷酸铁锂正极材料",
+      "quantitative_info": null,
+      "quote": "公司子公司江西升华磷酸铁锂正极材料采用固相法+草酸亚铁工艺路线。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "汽车零部件",
+      "quantitative_info": "已取得授权专利 362 项，授权发明专利 103 项",
+      "quote": "在汽车零部件业务领域已取得授权专利 362 项，授权发明专利 103 项。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "35 项",
+      "quote": "软件著作权 35 项。"
+    },
+    {
+      "name": "企业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "600 余项",
+      "quote": "建立企业标准 600 余项。"
+    },
+    {
+      "name": "国家工信部行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "共起草制订6项",
+      "quote": "公司作为第一、第二起草单位，共起草制订国家工信部行业标准6项。"
+    },
+    {
+      "name": "CNAS 认可的实验室资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司拥有 CNAS 认可的实验室资质。"
+    },
+    {
+      "name": "VDA-TISAX 信息安全体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了 VDA-TISAX 信息安全体系认证。"
+    },
+    {
+      "name": "GB/T29490 知识产权体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "GB/T29490 知识产权体系认证。"
+    },
+    {
+      "name": "A-SPICE 软件开发管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "A-SPICE 软件开发管理体系认证。"
+    },
+    {
+      "name": "IATF16949:2016 质量管理体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了 IATF16949:2016 体系认证。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "68.04%",
+      "related_entity": "宁德时代新能源科技股份有限公司",
+      "period": "2025年",
+      "quote": "前5大客户资料...宁德时代新能源科技股份有限公司...占年度销售总额比例 68.04%。"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "80.45%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 80.45%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "51.46%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 51.46%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "行业竞争加剧的风险。随着我国汽车产业快速升级特别是新能源汽车发展趋势日趋明显，主机厂对零部件产品技术性能要求越来越高，如果公司在研发、设计、制造、质量、产能及供货及时性等方面不能达到主机厂要求，则可能存在公司产品无法进入客户采购体系、无法顺利开拓新市场的风险。",
+      "related_entity": null,
+      "related_product": "汽车零部件",
+      "quote": "1、行业竞争加剧的风险...如果公司在研发、设计、制造、质量、产能及供货及时性等方面不能达到主机厂要求，则可能存在公司产品无法进入客户采购体系、无法顺利开拓新市场的风险..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料供应及产品价格波动的风险。公司锂电正极材料磷酸铁锂生产所需的上游原材料碳酸锂在产品成本构成所占比重较大、产品价格波动也较大。",
+      "related_entity": null,
+      "related_product": "锂电池正极材料",
+      "quote": "2、原材料供应及产品价格波动的风险。公司锂电正极材料磷酸铁锂生产所需的上游原材料碳酸锂在产品成本构成所占比重较大、产品价格波动也较大。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新能源电池技术迭代的风险。如富锂锰基正极材料、高电压镍锰酸锂、钠离子电池等新技术、新路线的应用和推广，或将加速新能源电池材料产业化变革。",
+      "related_entity": null,
+      "related_product": "锂电池正极材料",
+      "quote": "3、新能源电池技术迭代的风险...如富锂锰基正极材料、高电压镍锰酸锂、钠离子电池等新技术、新路线的应用和推广，或将加速新能源电池材料产业化变革..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司快速发展的管理风险。公司目前处于快速发展期，子公司管理、工程项目建设以及新增员工均需要投入一定的管理资源对其进行管理和和培育。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、公司快速发展的管理风险。公司目前处于快速发展期，子公司管理、工程项目建设以及新增员工均需要投入一定的管理资源对其进行管理和培育。"
+    },
+    {
+      "risk_type": "other",
+      "description": "锂电材料行业周期波动及产能扩张的风险。",
+      "related_entity": null,
+      "related_product": "锂电池正极材料",
+      "quote": "5、锂电材料行业周期波动及产能扩张的风险。"
+    }
+  ]
+}

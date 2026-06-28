@@ -1,0 +1,495 @@
+{
+  "company_name_mentioned": "禾丰食品股份有限公司",
+  "produces": [
+    {
+      "name": "猪饲料",
+      "type": "material",
+      "revenue_proportion": "34%",
+      "quote": "公司饲料产品包括猪、禽、反刍等动物饲料；饲料品种 2025年度外销量（万吨） 同比 占比 猪饲料 160 13% 34%"
+    },
+    {
+      "name": "禽饲料",
+      "type": "material",
+      "revenue_proportion": "44%",
+      "quote": "饲料品种 2025年度外销量（万吨） 同比 占比 禽饲料 206 21% 44%"
+    },
+    {
+      "name": "反刍饲料",
+      "type": "material",
+      "revenue_proportion": "18%",
+      "quote": "饲料品种 2025年度外销量（万吨） 同比 占比 反刍料 83 22% 18%"
+    },
+    {
+      "name": "其他饲料",
+      "type": "material",
+      "revenue_proportion": "3%",
+      "quote": "饲料品种 2025年度外销量（万吨） 同比 占比 其他料 15 -12% 3%"
+    },
+    {
+      "name": "肉鸡分割品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司主要产品：饲料、肉禽、生猪。肉禽业务包括肉鸡分割品、毛鸡；肉鸡分割品 2025年度产量191.11万吨"
+    },
+    {
+      "name": "毛鸡",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "肉禽业务包括肉鸡分割品、毛鸡"
+    },
+    {
+      "name": "肥猪",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "生猪业务包括肥猪、仔猪、种猪"
+    },
+    {
+      "name": "仔猪",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "生猪业务包括肥猪、仔猪、种猪"
+    },
+    {
+      "name": "种猪",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "生猪业务包括肥猪、仔猪、种猪"
+    },
+    {
+      "name": "调理品与熟食深加工产品",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司熟食及调理品线下主要销往餐饮连锁中央厨房、企业及学校食堂、商超便利店等；深加工产品百余种。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "饲料原料（玉米、豆粕等）",
+      "target_product": "饲料",
+      "cost_proportion": "原材料成本占饲料生产成本的95.36%",
+      "quote": "饲料成本分析：原材料成本11,334,967,357.85元，占饲料生产成本合计（11,885,978,677.43元）的95.36%。"
+    },
+    {
+      "name": "肉鸡原料（毛鸡、鸡雏等）",
+      "target_product": "肉鸡分割品",
+      "cost_proportion": "原材料成本占肉禽生产成本的85.85%",
+      "quote": "肉禽成本分析：原材料成本13,201,909,681.35元，占肉禽生产成本合计（15,378,395,512.42元）的85.85%。"
+    },
+    {
+      "name": "种鸡、仔猪、饲料原料",
+      "target_product": "养殖业务",
+      "cost_proportion": null,
+      "quote": "公司采购模式：公司与国内外多家顶级原料供应商建立了战略合作伙伴关系，实行集团采购、区域采购与本地采购相结合的三级采购模式。"
+    },
+    {
+      "name": "兽药疫苗",
+      "target_product": "养殖业务",
+      "cost_proportion": null,
+      "quote": "关联交易中向联营公司购买商品兽药疫苗，金额15,233.65万元。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "生猪养殖",
+      "source_product": "猪饲料",
+      "quote": "猪料方面，公司充分整合养殖与饲料板块的资源禀赋...实现与规模场大客户的深度绑定。"
+    },
+    {
+      "name": "肉鸡养殖",
+      "source_product": "禽饲料",
+      "quote": "商品代肉鸡养殖主要采取“公司+大农场”的经营模式。"
+    },
+    {
+      "name": "肉牛、肉羊、奶牛养殖",
+      "source_product": "反刍饲料",
+      "quote": "反刍料方面，鉴于国内奶价长期低迷...大力拓展肉牛、肉羊优质新客户。"
+    },
+    {
+      "name": "餐饮连锁中央厨房、企业及学校食堂",
+      "source_product": "调理品与熟食深加工产品",
+      "quote": "公司熟食及调理品线下主要销往餐饮连锁中央厨房、企业及学校食堂、商超便利店等。"
+    },
+    {
+      "name": "食品加工厂、生鲜市场",
+      "source_product": "肉鸡分割品",
+      "quote": "公司肉鸡分割品的主要客户有双汇集团、金锣集团、雨润集团、肯德基、吉野家、华莱士、永辉超市、大润发超市以及各区域大型配餐公司、生鲜市场、食品加工厂等。"
+    },
+    {
+      "name": "商超便利店",
+      "source_product": "调理品与熟食深加工产品",
+      "quote": "公司熟食及调理品线下主要销往...商超便利店等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "金卫东",
+      "role": "董事长",
+      "quote": "公司负责人金卫东...男，1963年出生，中国国籍...禾丰股份核心创始人，1995年创业至今任禾丰股份董事长。"
+    },
+    {
+      "name": "邱嘉辉",
+      "role": "董事、总裁",
+      "quote": "现任禾丰股份董事、总裁...邱嘉辉先生是禾丰肉禽事业的开拓者。"
+    },
+    {
+      "name": "邵彩梅",
+      "role": "董事、首席技术官",
+      "quote": "现任禾丰股份董事、首席技术官...禾丰股份联合创始人之一。"
+    },
+    {
+      "name": "赵馨",
+      "role": "董事、副总裁、首席人力资源官",
+      "quote": "现任禾丰股份董事、副总裁、首席人力资源官。"
+    },
+    {
+      "name": "陈宇",
+      "role": "董事、董事会秘书、财务总监",
+      "quote": "现任禾丰股份董事、董事会秘书、财务总监。"
+    },
+    {
+      "name": "Jacobus Johannes de Heus",
+      "role": "董事",
+      "quote": "现任荷兰皇家De Heus公司董事会主席、禾丰股份董事。"
+    },
+    {
+      "name": "金戈",
+      "role": "副总裁",
+      "quote": "现任公司副总裁，分管饲料板块战略业务之反刍及预混料事业。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "荷兰皇家De Heus公司",
+      "relation_type": "supplier",
+      "business_details": "技术合作伙伴、饲料原料供应商",
+      "quote": "2006年，公司与具有百年历史的荷兰皇家De Heus公司合作，全面借鉴其拥有的全球先进技术资源...公司与荷兰皇家De Heus公司搭建了原料信息共享通道...针对维生素、氨基酸等原料展开联合采购。"
+    },
+    {
+      "name": "双汇集团",
+      "relation_type": "customer",
+      "business_details": "肉鸡分割品客户",
+      "quote": "公司肉鸡分割品的主要客户有双汇集团、金锣集团、雨润集团、肯德基、吉野家、华莱士、永辉超市、大润发超市..."
+    },
+    {
+      "name": "金锣集团",
+      "relation_type": "customer",
+      "business_details": "肉鸡分割品客户",
+      "quote": "公司肉鸡分割品的主要客户有双汇集团、金锣集团、雨润集团、肯德基、吉野家、华莱士、永辉超市、大润发超市..."
+    },
+    {
+      "name": "肯德基",
+      "relation_type": "customer",
+      "business_details": "肉鸡分割品客户（快餐渠道）",
+      "quote": "公司肉鸡分割品的主要客户有双汇集团、金锣集团、雨润集团、肯德基、吉野家、华莱士、永辉超市、大润发超市..."
+    },
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计机构",
+      "quote": "容诚会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告。"
+    },
+    {
+      "name": "中国银河证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "保荐机构",
+      "quote": "报告期内履行持续督导职责的保荐机构：中国银河证券股份有限公司"
+    },
+    {
+      "name": "DE HEUS MAURITIUS",
+      "relation_type": "investor",
+      "business_details": "股东（外资法人）",
+      "quote": "前十名股东：DE HEUS MAURITIUS 82,303,939股 9.02%"
+    },
+    {
+      "name": "常州禾力创业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "股东（控股股东控制的企业）",
+      "quote": "金卫东为常州禾力创业投资合伙企业（有限合伙）实际控制人。常州禾力持股48,360,000股，占比5.30%。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "饲料",
+      "segment_type": "business_unit",
+      "revenue_amount": "134.60亿元",
+      "revenue_proportion": "37.67%",
+      "gross_margin": "9.82%",
+      "yoy_change": "收入同比增长7.60%",
+      "quote": "主营业务分行业情况：饲料 营业收入13,459,577,751.73元（134.60亿元），毛利率9.82%，营业收入比上年增减7.60%。"
+    },
+    {
+      "name": "肉禽",
+      "segment_type": "business_unit",
+      "revenue_amount": "161.85亿元",
+      "revenue_proportion": "45.27%",
+      "gross_margin": "1.95%",
+      "yoy_change": "收入同比增长42.73%",
+      "quote": "主营业务分行业情况：肉禽 营业收入16,185,346,810.81元（161.85亿元），毛利率1.95%，营业收入比上年增减42.73%。"
+    },
+    {
+      "name": "生猪",
+      "segment_type": "business_unit",
+      "revenue_amount": "35.45亿元",
+      "revenue_proportion": "9.92%",
+      "gross_margin": "0.48%",
+      "yoy_change": "收入同比增长6.86%",
+      "quote": "主营业务分行业情况：生猪 营业收入3,545,237,226.22元（35.45亿元），毛利率0.48%，营业收入比上年增减6.86%。"
+    },
+    {
+      "name": "原料贸易",
+      "segment_type": "business_unit",
+      "revenue_amount": "18.41亿元",
+      "revenue_proportion": "5.15%",
+      "gross_margin": "16.95%",
+      "yoy_change": "收入同比下降63.19%",
+      "quote": "主营业务分行业情况：原料贸易 营业收入1,840,524,517.54元（18.41亿元），毛利率16.95%，营业收入比上年增减-63.19%。"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "151.17亿元",
+      "revenue_proportion": "42.29%",
+      "gross_margin": "6.94%",
+      "yoy_change": "收入同比下降4.18%",
+      "quote": "主营业务分地区情况：东北 营业收入15,117,273,427.85元（151.17亿元），毛利率6.94%，营业收入比上年增减-4.18%。"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "55.55亿元",
+      "revenue_proportion": "15.53%",
+      "gross_margin": "3.94%",
+      "yoy_change": "收入同比增长17.16%",
+      "quote": "主营业务分地区情况：华东 营业收入5,554,994,709.73元（55.55亿元），毛利率3.94%，营业收入比上年增减17.16%。"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "195.37亿元",
+      "revenue_proportion": "54.62%",
+      "gross_margin": "4.50%",
+      "yoy_change": "收入同比增长120.66%",
+      "quote": "主营业务分销售模式情况：经销 营业收入19,536,504,875.26元（195.37亿元），毛利率4.50%，营业收入比上年增减120.66%。"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "161.47亿元",
+      "revenue_proportion": "45.16%",
+      "gross_margin": "7.26%",
+      "yoy_change": "收入同比下降31.71%",
+      "quote": "主营业务分销售模式情况：直销 营业收入16,146,651,875.59元（161.47亿元），毛利率7.26%，营业收入比上年增减-31.71%。"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "饲料产品",
+      "metric_type": "sales_volume",
+      "value": "464万吨",
+      "period": "2025年度",
+      "quote": "公司控股企业饲料外销量464万吨，同比增长17%。"
+    },
+    {
+      "product": "饲料产品",
+      "metric_type": "production_volume",
+      "value": "673.96万吨",
+      "period": "2025年度",
+      "quote": "主要产品 育饲料产品 单位 生产量 673.96万吨 销售量 464.38万吨 库存量 8.32万吨"
+    },
+    {
+      "product": "肉鸡分割品",
+      "metric_type": "production_volume",
+      "value": "191.11万吨",
+      "period": "2025年度",
+      "quote": "主要产品 肉鸡分割品 单位 生产量 191.11万吨 销售量 185.62万吨"
+    },
+    {
+      "product": "肉鸡分割品",
+      "metric_type": "sales_volume",
+      "value": "185.62万吨",
+      "period": "2025年度",
+      "quote": "主要产品 肉鸡分割品 单位 销售量 185.62万吨"
+    },
+    {
+      "product": "白羽肉鸡",
+      "metric_type": "production_volume",
+      "value": "8.0亿羽（养殖出栏）",
+      "period": "2025年度",
+      "quote": "报告期内，公司控参股企业合计养殖出栏白羽肉鸡8.0亿羽，合计屠宰白羽肉鸡9.9亿羽。"
+    },
+    {
+      "product": "白羽肉鸡",
+      "metric_type": "capacity",
+      "value": "年屠宰能力超过11亿羽",
+      "period": "报告期末",
+      "quote": "公司拥有20余家控股、参股屠宰企业，年屠宰能力超过11亿羽。"
+    },
+    {
+      "product": "生猪",
+      "metric_type": "sales_volume",
+      "value": "219万头",
+      "period": "2025年度",
+      "quote": "报告期内，公司生猪合计出栏219万头。"
+    },
+    {
+      "product": "能繁母猪",
+      "metric_type": "inventory_volume",
+      "value": "5万头",
+      "period": "2025年末",
+      "quote": "2025年底，公司能繁母猪存栏5万头。"
+    },
+    {
+      "product": "后备母猪",
+      "metric_type": "inventory_volume",
+      "value": "1万头",
+      "period": "2025年末",
+      "quote": "后备母猪1万头，母猪存栏合计6万头。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购肉禽业务13家参股公司股权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "11.10亿元",
+      "designed_capacity": null,
+      "progress": "已完成",
+      "expected_completion_time": null,
+      "quote": "公司完成了对于13家参股企业股权的收购...投资金额1,110,079,141.41元（11.10亿元），投资方式为收购。"
+    },
+    {
+      "name": "沈阳农大禾丰饲料有限公司年产30万吨全价饲料项目",
+      "project_type": "fundraising_project",
+      "location": "沈阳",
+      "investment_amount": "7,988.44万元",
+      "designed_capacity": "年产30万吨全价饲料",
+      "progress": "已结项",
+      "expected_completion_time": "2023年12月",
+      "quote": "沈阳农大禾丰饲料有限公司年产30万吨全价饲料项目...投资总额7,988.44万元，已结项。"
+    },
+    {
+      "name": "安徽禾丰牧业有限公司年产30万吨猪饲料和15万吨反刍饲料项目",
+      "project_type": "fundraising_project",
+      "location": "安徽",
+      "investment_amount": "11,400.00万元",
+      "designed_capacity": "年产30万吨猪饲料和15万吨反刍饲料",
+      "progress": "已终止",
+      "expected_completion_time": null,
+      "quote": "安徽禾丰牧业有限公司年产30万吨猪饲料和15万吨反刍饲料项目...已终止。"
+    },
+    {
+      "name": "四平禾丰食品有限公司双辽市8,000万只肉鸡养殖屠宰深加工全产业链项目一期工程",
+      "project_type": "fundraising_project",
+      "location": "四平",
+      "investment_amount": "10,000.00万元",
+      "designed_capacity": "8,000万只肉鸡养殖屠宰深加工",
+      "progress": "已结项",
+      "expected_completion_time": "2025年12月",
+      "quote": "四平禾丰食品有限公司双辽市8,000万只肉鸡养殖屠宰深加工全产业链项目一期工程...投资总额10,000.00万元，已结项。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "饲料研发技术（动态净能体系、低蛋白氨基酸平衡、低豆粕日粮）",
+      "asset_type": "core_technology",
+      "related_product": "饲料",
+      "quantitative_info": null,
+      "quote": "饲料研发多维突破，精准营养引领升级：猪料领域完成动态净能体系切换，推行低蛋白氨基酸平衡及低豆粕日粮。"
+    },
+    {
+      "name": "白羽肉鸡养殖技术（欧洲效益指数）",
+      "asset_type": "process_technology",
+      "related_product": "白羽肉鸡",
+      "quantitative_info": "欧洲效益指数可达480-490",
+      "quote": "公司商品代肉鸡养殖的欧洲效益指数可达480-490。"
+    },
+    {
+      "name": "生猪精准营养与智能饲喂管理技术",
+      "asset_type": "core_technology",
+      "related_product": "生猪",
+      "quantitative_info": null,
+      "quote": "生猪养殖板块构建分级营养体系，依托数字化工具...通过精准营养与智能饲喂管理，积累养殖数据。"
+    },
+    {
+      "name": "CNAS认证的研发检测中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "通过CNAS认证",
+      "quote": "公司研发检测中心是国内饲料企业中为数不多的通过CNAS认证的实验室。"
+    },
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "持有发明专利78项",
+      "quote": "截至本报告期末，公司持有发明专利78项。"
+    },
+    {
+      "name": "参与制定的国家标准",
+      "asset_type": "standard",
+      "related_product": "饲料",
+      "quantitative_info": "参与制定国家标准1项",
+      "quote": "参与制定国家标准1项：《饲料中酸性洗涤木质素（ADL）的测定》 GB/T 20805-2025。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "162,411.25万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额162,411.25万元，占年度销售总额4.54%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "462,332.05万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额462,332.05万元，占年度采购总额13.72%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "饲料业务的成本绝大部分来源于原料，原料价格的波动影响公司饲料业务的成本及毛利率。",
+      "related_entity": null,
+      "related_product": "饲料",
+      "quote": "1、原材料价格波动的风险：饲料业务的成本绝大部分来源于原料，原料主产区的产量变化、进口政策、收储及补贴情况、汇率波动、物流成本等因素都有可能引发原料行情的波动。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "下游养殖业景气度低迷，饲料行业竞争激烈，公司面临以价换量、利润空间被挤压的风险。",
+      "related_entity": null,
+      "related_product": "饲料、肉禽、生猪",
+      "quote": "1、饲料行业：国内物价水平低位运行，动物蛋白供给增速显著高于需求增长...上游饲料企业利润同步承压，行业整体陷入以价换量的激烈竞争态势。"
+    },
+    {
+      "risk_type": "other",
+      "description": "重大疫病（如非洲猪瘟、禽流感）风险，影响养殖端，进而波及饲料业务。",
+      "related_entity": null,
+      "related_product": "饲料、养殖",
+      "quote": "3、重大疫病的风险：饲料和养殖是公司的两大主要业务。畜禽疫病是养殖行业经营过程中面临的主要风险之一，一旦发生疫病，必将引起市场消费心理的恐慌，进而需求下降、产量下降、收入缩减、成本上升。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "环保政策趋严，对养殖、屠宰加工环节提出更高要求，存在合规成本增加和产业格局调整风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、环保政策引起的产业格局调整风险：近年来，国家推出了一系列环保法规...环保管控力度持续加大乃是行业大势所趋。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司国际化业务涉及原材料采购、产品出口及海外投资，受汇率波动影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、汇率波动的风险：公司国际化业务起步较早且发展迅速，在原材料采购、产品出口及海外投资等方面受到汇率波动影响较大。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "食品安全事件可能引发消费者恐慌，冲击品牌和业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6、食品安全的风险：一旦因为质量监管不力而引发食品安全事件，将直接引发消费者的恐慌心理，进而致使下游需求遭受巨大冲击，品牌与业绩都会受到极大的不利影响。"
+    }
+  ]
+}

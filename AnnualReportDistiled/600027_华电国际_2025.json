@@ -1,0 +1,273 @@
+{
+  "company_name_mentioned": "华电国际电力股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "约96.53%（售电收入111,807,428千元 / 营业收入126,012,591千元）",
+      "quote": "销售电力产品和热力产品收入约占本公司主营业务收入的99.24%。"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "约2.71%（售热收入12,458,141千元 / 营业收入126,012,591千元）",
+      "quote": "销售电力产品和热力产品收入约占本公司主营业务收入的99.24%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "燃料",
+      "target_product": "电力",
+      "cost_proportion": null,
+      "quote": "2025年，本公司燃料成本约为人民币792.05亿元，同比减少约15.92%，主要原因是煤价下降的影响。"
+    },
+    {
+      "name": "工程设备、产品及服务",
+      "target_product": "发电厂建设与运营",
+      "cost_proportion": null,
+      "quote": "本公司向中国华电及其子公司采购工程设备、产品及服务的实际发生总金额约为人民币28.38亿元。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "社会经济发展",
+      "source_product": "电力、热力",
+      "quote": "本公司的主要业务是向本公司发电资产所在的区域销售电力产品和热力产品，以满足当地社会和经济发展的需求。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘雷",
+      "role": "党委书记、董事长",
+      "quote": "本公司负责人刘雷先生...刘雷先生...现任本公司党委书记、董事长。"
+    },
+    {
+      "name": "李泉城",
+      "role": "党委副书记、副董事长、总经理",
+      "quote": "由李泉城先生担任本公司总经理，并经本公司第十届董事会第二十七次会议审议批准，李泉城先生获选举为本公司副董事长。"
+    },
+    {
+      "name": "李国明",
+      "role": "党委委员、董事、财务总监",
+      "quote": "主管会计工作负责人李国明先生...李国明先生...现任本公司党委委员、董事、财务总监。"
+    },
+    {
+      "name": "秦介海",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 秦介海先生"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国华电集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "本公司控股股东中国华电集团有限公司（以下简称“中国华电”）...中国华电持股数量占本公司总股本的45.63%。"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "第一大客户",
+      "quote": "国家电网有限公司 10,017,709 76.90"
+    },
+    {
+      "name": "华电新能源集团股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司大比例参股",
+      "quote": "本公司通过大比例参股的形式参与风电、光电等新能源的发展...华电新能源集团股份有限公司"
+    },
+    {
+      "name": "华电煤业集团有限公司",
+      "relation_type": "supplier",
+      "business_details": "煤炭产业开发和供应，为本公司提供燃料",
+      "quote": "华电煤业集团有限公司 煤炭产业开发和煤炭供应"
+    },
+    {
+      "name": "华电江苏能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "本公司控股子公司",
+      "quote": "华电江苏能源有限公司（“江苏公司”）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "售电",
+      "segment_type": "product_line",
+      "revenue_amount": "111,807,428千元",
+      "revenue_proportion": null,
+      "gross_margin": "13.22%",
+      "yoy_change": "增加2.73个百分点",
+      "quote": "售电 111,807,428 97,028,100 13.22 -9.78 -12.53 增加2.73个百分点"
+    },
+    {
+      "name": "售热",
+      "segment_type": "product_line",
+      "revenue_amount": "12,458,141千元",
+      "revenue_proportion": null,
+      "gross_margin": "-6.8%",
+      "yoy_change": "增加8.8个百分点",
+      "quote": "售热 12,458,141 13,305,515 -6.8 2.72 -5.1 增加8.8个百分点"
+    },
+    {
+      "name": "山东",
+      "segment_type": "region",
+      "revenue_amount": "32,970,323千元",
+      "revenue_proportion": null,
+      "gross_margin": "15.17%",
+      "yoy_change": "增加6.34个百分点",
+      "quote": "山东 32,970,323 27,969,888 15.17 -10.51 -16.73 增加6.34个百分点"
+    },
+    {
+      "name": "江苏",
+      "segment_type": "region",
+      "revenue_amount": "22,011,502千元",
+      "revenue_proportion": null,
+      "gross_margin": "7.84%",
+      "yoy_change": "增加0.67个百分点",
+      "quote": "江苏 22,011,502 20,286,599 7.84 -8.74 -9.39 增加0.67个百分点"
+    },
+    {
+      "name": "广东",
+      "segment_type": "region",
+      "revenue_amount": "11,273,454千元",
+      "revenue_proportion": null,
+      "gross_margin": "5.37%",
+      "yoy_change": "增加0.71个百分点",
+      "quote": "广东 11,273,454 10,668,240 5.37 -5.34 -6.04 增加0.71个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电力、热力",
+      "metric_type": "capacity",
+      "value": "7,792.4288万千瓦",
+      "period": "报告期末",
+      "quote": "截至报告期末，本公司已投入运行的控股发电企业共计55家，控股装机容量为7,792.4288万千瓦。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "production_volume",
+      "value": "2,622.70亿千瓦时",
+      "period": "报告期内",
+      "quote": "报告期内，本公司完成发电量2,622.70亿千瓦时。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "sales_volume",
+      "value": "2,464.47亿千瓦时",
+      "period": "报告期内",
+      "quote": "完成上网电量2,464.47亿千瓦时。"
+    },
+    {
+      "product": "电力",
+      "metric_type": "capacity_utilization",
+      "value": "3,427小时",
+      "period": "报告期内",
+      "quote": "报告期内，本公司发电机组的平均利用小时为3,427小时。"
+    },
+    {
+      "product": "热力",
+      "metric_type": "production_volume",
+      "value": "2.2亿吉焦",
+      "period": "报告期内",
+      "quote": "供热量完成2.2亿吉焦。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "华电（沂源）抽水蓄能有限公司",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "签署投资框架协议",
+      "expected_completion_time": null,
+      "quote": "本公司与山东鲁中控股集团有限公司、中国华电香港有限公司共同出资设立华电（沂源）抽水蓄能有限公司。本公司出资为人民币1.4亿元。"
+    },
+    {
+      "name": "华电望亭2×66万千瓦机组扩建项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "200,000.00万元",
+      "designed_capacity": "2×66万千瓦",
+      "progress": "已使用募集资金",
+      "expected_completion_time": "2027年6月",
+      "quote": "华电望亭2×66万千瓦机组扩建项目 生产建设 是 否 200,000.00 88,800.00 88,800.00 44.4 2027年6月 否 是"
+    },
+    {
+      "name": "华电（重庆）燃机发电有限公司",
+      "project_type": "capacity_expansion",
+      "location": "重庆",
+      "investment_amount": null,
+      "designed_capacity": "2 x 55.012万千瓦燃气机组",
+      "progress": "一台55.012万千瓦燃气发电机组已于近期投入商业运营",
+      "expected_completion_time": null,
+      "quote": "华电（重庆）燃机发电有限公司（“重庆发电公司”）（注） 燃气机组 2 x 55.012 注：本公司持股100%的重庆发电公司的一台55.012万千瓦燃气发电机组，已于近期投入商业运营。"
+    },
+    {
+      "name": "华夏华电清洁能源封闭式基础设施证券投资基金",
+      "project_type": "other",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已上市交易",
+      "expected_completion_time": null,
+      "quote": "华夏华电清洁能源封闭式基础设施证券投资基金（以下简称“华电REIT”），交易代码508016，自2025年8月1日起在上海证券交易所上市交易。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "申请专利546项，获得授权专利414项（其中发明专利94项、实用新型319项、外观设计1项）",
+      "quote": "申请专利546项，获得授权专利414项（其中发明专利94项、实用新型319项、外观设计1项）。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "91.23%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额11,884,601万元，占年度销售总额91.23%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "76.90%",
+      "related_entity": "国家电网有限公司",
+      "period": "2025年",
+      "quote": "国家电网有限公司 10,017,709 76.90"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "42.36%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额4,166,944万元，占年度采购总额42.36%。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "电力供应能力增长高于用电需求，供需整体宽松且部分地区新能源消纳压力突出。新能源全面入市让中长期市场供给量大幅提升，其低边际成本对市场价格形成冲击，叠加现货市场全面铺开，市场竞争愈发激烈。",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "电力市场风险：当前，全国新能源装机与电量增速持续增长，挤占火电发展空间，电力供应能力增长高于用电需求，供需整体宽松且部分地区新能源消纳压力突出。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "宏观经济复苏推高全社会用电量，迎峰度冬夏及极端天气时段火电保供压力加剧，煤炭需求季节性回升，市场供需宽松格局或将面临阶段性调整。中东美以伊冲突若升级，有推高燃料成本的风险。",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "燃料市场风险：宏观经济复苏推高全社会用电量，迎峰度冬夏及极端天气时段火电保供压力加剧，煤炭需求季节性回升，市场供需宽松格局或将面临阶段性调整。中东美以伊冲突若升级，有推高燃料成本的风险。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "国家对重点区域的环保政策持续深化完善，基层企业环保费用支出面临增加压力。中央生态环境保护督察常态化推进，环保合规监管要求更高。全国碳市场配额发放持续收紧，在配额结转政策的影响下，碳市场价格易出现波动，企业碳排放履约成本面临上升风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环保风险：国家对京津冀、长江经济带等重点区域的环保政策持续深化完善，基层企业环保费用支出面临增加压力。中央生态环境保护督察常态化推进，环保合规监管要求更高。全国碳市场配额发放持续收紧，在配额结转政策的影响下，碳市场价格易出现波动，企业碳排放履约成本面临上升风险。"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "company_name_mentioned": "龙口联合化学股份有限公司",
+  "produces": [
+    {
+      "name": "有机颜料系列",
+      "type": "material",
+      "revenue_proportion": "96.79%",
+      "quote": "分产品 颜料 495,669,877.50 96.79%"
+    },
+    {
+      "name": "挤水基墨",
+      "type": "material",
+      "revenue_proportion": "3.21%",
+      "quote": "分产品 基墨 16,450,577.41 3.21%"
+    },
+    {
+      "name": "苯乙烯类光刻胶单体、树脂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司通过控股子公司启辰半导体新材料（盘锦）有限公司开展聚焦于半导体光刻胶上游材料苯乙烯类光刻胶单体、树脂的研发与生产"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料1",
+      "target_product": "有机颜料",
+      "cost_proportion": "18.84%",
+      "quote": "主要原材料 原材料1 采购模式 按需采购 采购额占采购总额的比例 18.84%"
+    },
+    {
+      "name": "原材料2",
+      "target_product": "有机颜料",
+      "cost_proportion": "9.56%",
+      "quote": "主要原材料 原材料2 采购模式 按需采购 采购额占采购总额的比例 9.56%"
+    },
+    {
+      "name": "原材料3",
+      "target_product": "有机颜料",
+      "cost_proportion": "6.84%",
+      "quote": "主要原材料 原材料3 采购模式 按需采购 采购额占采购总额的比例 6.84%"
+    },
+    {
+      "name": "原材料4",
+      "target_product": "有机颜料",
+      "cost_proportion": "6.18%",
+      "quote": "主要原材料 原材料4 采购模式 按需采购 采购额占采购总额的比例 6.18%"
+    },
+    {
+      "name": "原材料5",
+      "target_product": "有机颜料",
+      "cost_proportion": "5.05%",
+      "quote": "主要原材料 原材料5 采购模式 按需采购 采购额占采购总额的比例 5.05%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "油墨",
+      "source_product": "有机颜料",
+      "quote": "油墨是有机颜料最重要的应用领域，占比约为40%。"
+    },
+    {
+      "name": "涂料",
+      "source_product": "有机颜料",
+      "quote": "涂料行业用量占比约28%"
+    },
+    {
+      "name": "塑料",
+      "source_product": "有机颜料",
+      "quote": "塑料行业用量占比约27%"
+    },
+    {
+      "name": "食品包装",
+      "source_product": "有机颜料",
+      "quote": "拓展食品包装产业链，提升产品安全溢价"
+    },
+    {
+      "name": "皮革",
+      "source_product": "有机颜料",
+      "quote": "拓展高性能颜料在新兴领域的应用，主要包括：食品包装用、皮革专用..."
+    },
+    {
+      "name": "电子化学品（KrF光刻胶、UV固化胶粘剂、OLED半导体化学品）",
+      "source_product": "苯乙烯类光刻胶单体、树脂",
+      "quote": "主要应用于KrF光刻胶、紫外光固化胶粘剂、电子级溶剂与OLED半导体化学品等"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "李秀梅",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人李秀梅、主管会计工作负责人姜芳及会计机构负责人(会计主管人员)曲江华声明...李秀梅女士：...2007年3月至今任联合化学董事长。"
+    },
+    {
+      "name": "马承志",
+      "role": "董事、总经理",
+      "quote": "马承志先生：...2023年8月18日至今任联合化学总经理。"
+    },
+    {
+      "name": "李玺田",
+      "role": "董事",
+      "quote": "李玺田先生：...2017年3月至今任联合化学董事。"
+    },
+    {
+      "name": "沈永嘉",
+      "role": "独立董事",
+      "quote": "沈永嘉先生：...2020年11月起兼任联合化学独立董事。"
+    },
+    {
+      "name": "姜欣",
+      "role": "独立董事",
+      "quote": "姜欣先生：...2020年11月起兼任联合化学独立董事。"
+    },
+    {
+      "name": "程丽娟",
+      "role": "董事会秘书",
+      "quote": "程丽娟女士：...2023年8月18日至今任联合化学董事会秘书。"
+    },
+    {
+      "name": "姜芳",
+      "role": "财务总监",
+      "quote": "姜芳女士：...2020年11月至今任联合化学财务总监。"
+    },
+    {
+      "name": "郭浩",
+      "role": "董事",
+      "quote": "郭浩先生：...2025年8月至今任联合化学董事。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "DIC株式会社/DIC",
+      "relation_type": "customer",
+      "business_details": "全球油墨行业巨头，公司在中国最大的供应商及战略合作伙伴，合作关系超过10年。",
+      "quote": "作为全球油墨行业巨头 DIC株式会社（旗下 SUN CHEMICAL）在中国最大的供应商及战略合作伙伴，公司与DIC建立了超过10年的稳定合作关系"
+    },
+    {
+      "name": "杭华股份",
+      "relation_type": "customer",
+      "business_details": "国内外大中型油墨生产企业的核心供应商之一。",
+      "quote": "国内主要客户包括洋紫荆油墨、杭华股份、天津东洋、科德教育等。"
+    },
+    {
+      "name": "洋紫荆",
+      "relation_type": "customer",
+      "business_details": "国内外大中型油墨生产企业的核心供应商之一。",
+      "quote": "国内主要客户包括洋紫荆油墨、杭华股份、天津东洋、科德教育等。"
+    },
+    {
+      "name": "天津东洋",
+      "relation_type": "customer",
+      "business_details": "国内外大中型油墨生产企业的核心供应商之一。",
+      "quote": "国内主要客户包括洋紫荆油墨、杭华股份、天津东洋、科德教育等。"
+    },
+    {
+      "name": "科德教育",
+      "relation_type": "customer",
+      "business_details": "国内外大中型油墨生产企业的核心供应商之一。",
+      "quote": "国内主要客户包括洋紫荆油墨、杭华股份、天津东洋、科德教育等。"
+    },
+    {
+      "name": "启辰半导体新材料（盘锦）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司持股65%的控股子公司，开展苯乙烯类光刻胶单体、树脂等的研发、生产、销售。",
+      "quote": "公司通过控股子公司启辰半导体新材料（盘锦）有限公司开展聚焦于半导体光刻胶上游材料苯乙烯类光刻胶单体、树脂的研发与生产"
+    },
+    {
+      "name": "新龙国际贸易有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司。",
+      "quote": "新龙国际贸易有限公司 公司全资子公司，故纳入合并报表范围"
+    },
+    {
+      "name": "上海米莱芯程半导体有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "公司参股公司，开展投影式曝光机、精密光学镜头业务。增资后持股比例为37.2760%。",
+      "quote": "本次增资后，联合化学对米莱芯程的持股比例为37.2760%。"
+    },
+    {
+      "name": "龙口阳光化学有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，持有公司42.83%股份。",
+      "quote": "龙口阳光化学有限公司 境内非国有法人 42.83%"
+    },
+    {
+      "name": "烟台宝联投资中心（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "实际控制人李秀梅控制的企业，持有公司7.13%股份。",
+      "quote": "烟台宝联投资中心（有限合伙） 境内非国有法人 7.13%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化工（主营业务）",
+      "segment_type": "product_line",
+      "revenue_amount": "512,120,454.91元",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "20.09%",
+      "yoy_change": "-4.13%",
+      "quote": "分行业 化工 512,120,454.91 100.00% ... 毛利率 20.09% ... 同比增减 -4.13%"
+    },
+    {
+      "name": "颜料",
+      "segment_type": "product_line",
+      "revenue_amount": "495,669,877.50元",
+      "revenue_proportion": "96.79%",
+      "gross_margin": "19.97%",
+      "yoy_change": "-4.40%",
+      "quote": "分产品 颜料 495,669,877.50 96.79% ... 毛利率 19.97% ... 同比增减 -4.40%"
+    },
+    {
+      "name": "基墨",
+      "segment_type": "product_line",
+      "revenue_amount": "16,450,577.41元",
+      "revenue_proportion": "3.21%",
+      "gross_margin": null,
+      "yoy_change": "4.83%",
+      "quote": "分产品 基墨 16,450,577.41 3.21% ... 同比增减 4.83%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "370,843,139.75元",
+      "revenue_proportion": "72.41%",
+      "gross_margin": "19.13%",
+      "yoy_change": "-1.61%",
+      "quote": "分地区 境内 370,843,139.75 72.41% ... 毛利率 19.13% ... 同比增减 -1.61%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "141,281,065.15元",
+      "revenue_proportion": "27.59%",
+      "gross_margin": "22.60%",
+      "yoy_change": "-10.42%",
+      "quote": "分地区 境外 141,281,065.15 27.59% ... 毛利率 22.60% ... 同比增减 -10.42%"
+    },
+    {
+      "name": "经销商",
+      "segment_type": "sales_channel",
+      "revenue_amount": "71,179,261.39元",
+      "revenue_proportion": "13.90%",
+      "gross_margin": "14.32%",
+      "yoy_change": "-6.21%",
+      "quote": "分销售模式 经销商 71,179,261.39 13.90% ... 毛利率 14.32% ... 同比增减 -6.21%"
+    },
+    {
+      "name": "贸易商",
+      "segment_type": "sales_channel",
+      "revenue_amount": "60,375,020.01元",
+      "revenue_proportion": "11.79%",
+      "gross_margin": "19.04%",
+      "yoy_change": "-35.49%",
+      "quote": "分销售模式 贸易商 60,375,020.01 11.79% ... 毛利率 19.04% ... 同比增减 -35.49%"
+    },
+    {
+      "name": "终端客户",
+      "segment_type": "sales_channel",
+      "revenue_amount": "380,569,923.50元",
+      "revenue_proportion": "74.31%",
+      "gross_margin": "21.34%",
+      "yoy_change": "4.23%",
+      "quote": "分销售模式 终端客户 380,569,923.50 74.31% ... 毛利率 21.34% ... 同比增减 4.23%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "偶氮颜料",
+      "metric_type": "capacity",
+      "value": "20000吨",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 偶氮颜料 20000吨"
+    },
+    {
+      "product": "偶氮颜料",
+      "metric_type": "capacity_utilization",
+      "value": "76.27%",
+      "period": "报告期",
+      "quote": "主要产品 产能利用率 偶氮颜料 76.27%"
+    },
+    {
+      "product": "挤水基墨",
+      "metric_type": "capacity",
+      "value": "3000吨",
+      "period": "报告期",
+      "quote": "主要产品 设计产能 挤水基墨 3000吨"
+    },
+    {
+      "product": "挤水基墨",
+      "metric_type": "capacity_utilization",
+      "value": "65.95%",
+      "period": "报告期",
+      "quote": "主要产品 产能利用率 挤水基墨 65.95%"
+    },
+    {
+      "product": "精细化工（整体）",
+      "metric_type": "sales_volume",
+      "value": "16,682.40吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 销售量 吨 16,682.40"
+    },
+    {
+      "product": "精细化工（整体）",
+      "metric_type": "production_volume",
+      "value": "17,233.05吨",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 生产量 吨 17,233.05"
+    },
+    {
+      "product": "精细化工（整体）",
+      "metric_type": "inventory_volume",
+      "value": "2,753.14吨",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 库存量 吨 2,753.14"
+    },
+    {
+      "product": "偶氮颜料",
+      "metric_type": "production_volume",
+      "value": "15,254.64吨",
+      "period": "2025年",
+      "quote": "报告期内的售价 产品名称 偶氮颜料 产量 15,254.64"
+    },
+    {
+      "product": "偶氮颜料",
+      "metric_type": "sales_volume",
+      "value": "14,670.98吨",
+      "period": "2025年",
+      "quote": "报告期内的售价 产品名称 偶氮颜料 销量 14,670.98"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产8,000吨有机颜料生产项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "20,194.43万元（承诺投资）",
+      "designed_capacity": null,
+      "progress": "暂缓实施",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 年产8,000吨有机颜料生产项目 ... 截至报告期末累计投入金额 20,194.43 ... 进度 22.06% ... 公司于2025年4月25日...审议通过《关于部分募集资金投资项目暂缓实施的议案》，同意公司暂缓实施“年产8,000吨有机颜料生产项目”"
+    },
+    {
+      "name": "研发中心建设项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "2,390.86万元（承诺投资）",
+      "designed_capacity": null,
+      "progress": "暂缓实施",
+      "expected_completion_time": null,
+      "quote": "承诺投资项目 研发中心建设项目 ... 截至报告期末累计投入金额 2,390.86 ... 进度 61.15% ... 公司...同意公司暂缓实施...“研发中心建设项目”"
+    },
+    {
+      "name": "苯乙烯类光刻胶单体一期产线",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正在建设中",
+      "expected_completion_time": null,
+      "quote": "截至报告期末，公司苯乙烯类光刻胶单体一期产线正在建设中。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利（整体）",
+      "asset_type": "patent",
+      "related_product": "有机颜料、挤水基墨",
+      "quantitative_info": "共计拥有专利31项，其中发明专利12项，实用新型专利19项。目前正在实质审查中的专利共5项。",
+      "quote": "公司共计拥有专利31项，其中发明专利12项，实用新型专利19项。目前正在实质审查中的专利共5项，包括发明专利3项、实用新型专利2项。"
+    },
+    {
+      "name": "参与制定标准",
+      "asset_type": "standard",
+      "related_product": "有机颜料",
+      "quantitative_info": "参与制定国家标准及行业标准51项，其中国家标准5项，行业标准28项，团体标准18项。",
+      "quote": "公司参与制定国家标准及行业标准51项，其中国家标准5项，行业标准28项，团体标准18项"
+    },
+    {
+      "name": "核心技术人员/团队",
+      "asset_type": "core_technology",
+      "related_product": "有机颜料、挤水基墨",
+      "quantitative_info": "拥有一支由60余人组成的研发团队。",
+      "quote": "截至报告日，公司拥有一支由60余人组成的研发团队"
+    },
+    {
+      "name": "质量管理体系认证证书等",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "持有包括质量管理体系认证证书、环境管理体系认证证书、职业健康安全管理体系认证证书、国家高新技术企业、排污许可证、危险化学品登记证、AEO高级认证企业证书等。",
+      "quote": "相关批复、许可、资质及有效期的情况 ... 证书 期限 质量管理体系认证证书 ... 环境管理体系认证证书 ... 国家高新技术企业 ... 危险化学品登记证 ... AEO高级认证企业证书"
+    },
+    {
+      "name": "高纯度单体关键技术",
+      "asset_type": "core_technology",
+      "related_product": "苯乙烯类光刻胶单体",
+      "quantitative_info": null,
+      "quote": "报告期内公司已完成“开发用于半导体领域的高纯度合成工艺”研发项目，突破高纯度单体关键技术。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "67.06%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 67.06%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "43.93%",
+      "related_entity": "客户1",
+      "period": "报告期",
+      "quote": "客户1 销售额（元） 224,970,573.87 占年度销售总额比例 43.93%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "34.08%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 34.08%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "10.04%",
+      "related_entity": "供应商1",
+      "period": "报告期",
+      "quote": "供应商1 采购额（元） 31,413,716.65 占年度采购总额比例 10.04%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司生产过程中会产生一定量的废水、废气和固体废弃物。仍可能因突发事件或操作不当，造成“三废”违规排放或环保事故。未来国家和地方政府可能会颁布新的环保法规，提高各项环保标准。",
+      "related_entity": null,
+      "related_product": "有机颜料",
+      "quote": "1、环保风险 ... 公司属于有机颜料制造行业，生产过程中会产生一定量的废水、废气和固体废弃物。...仍可能因突发事件或操作不当，造成“三废”违规排放或环保事故。"
+    },
+    {
+      "risk_type": "other",
+      "description": "安全生产风险：生产所用的部分原材料属于危险化学品，在储存、生产、运输和使用等过程中如果出现操作不当或发生突发事件，可能存在引发安全生产事故的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、安全生产风险 ... 公司生产所用的部分原材料属于危险化学品，在储存、生产、运输和使用等过程中如果出现操作不当或发生突发事件，可能存在引发安全生产事故的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动及供应短缺的风险：主要原材料产品价格出现一定波动，如果未来原材料价格上涨，公司将面临主营业务成本上升的风险。如果同行业市场竞争加剧和下游市场需求减少，将导致公司主要产品销售不畅或价格大幅下降。",
+      "related_entity": null,
+      "related_product": "有机颜料",
+      "quote": "3、原材料价格波动及供应短缺的风险 ... 公司主要原材料产品价格出现一定波动，如果未来原材料价格上涨，公司将面临主营业务成本上升的风险。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧的风险：目前国内油墨颜料行业市场集中度整体上相对较高，市场竞争激烈。我国有机颜料行业呈现产能充足、供大于求的特征。国际市场上，欧美国家逐渐将颜料生产迁移至亚洲区域，我国颜料厂商的成本和技术将面临更激烈的竞争。",
+      "related_entity": null,
+      "related_product": "有机颜料",
+      "quote": "4、市场竞争加剧的风险 ... 国内市场来看，目前国内油墨颜料行业市场集中度整体上相对较高，市场竞争激烈。目前，我国有机颜料行业呈现产能充足、供大于求的特征。"
+    }
+  ]
+}

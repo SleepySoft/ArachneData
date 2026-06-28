@@ -1,0 +1,538 @@
+{
+  "company_name_mentioned": "苏州工业园区和顺电气股份有限公司",
+  "produces": [
+    {
+      "name": "电力成套设备",
+      "type": "device",
+      "revenue_proportion": "37.52%",
+      "quote": "电力成套设备业务实现营业收入1.37亿元，占营业总收入比例为37.52%"
+    },
+    {
+      "name": "储充装置",
+      "type": "device",
+      "revenue_proportion": "30.70%",
+      "quote": "储充装置业务实现营业收入1.12亿元，同比增长268.28%"
+    },
+    {
+      "name": "安装施工",
+      "type": "service",
+      "revenue_proportion": "16.18%",
+      "quote": "安装施工业务实现营业收入0.59亿元，占营业总收入比例为16.18%"
+    },
+    {
+      "name": "光伏发电",
+      "type": "service",
+      "revenue_proportion": "5.76%",
+      "quote": "光伏发电业务实现营业收入0.21亿元，占营业总收入比例为5.76%"
+    },
+    {
+      "name": "氢能",
+      "type": "technology",
+      "revenue_proportion": "1.44%",
+      "quote": "氢能业务首次实现营业收入527.39万元"
+    },
+    {
+      "name": "防窃电电能计量装置",
+      "type": "device",
+      "revenue_proportion": "4.10%",
+      "quote": "防窃电电能计量装置 14,993,364.09 4.10%"
+    },
+    {
+      "name": "DCC（无极动态无功补偿智能装置）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "DCC 指 无极动态无功补偿智能装置"
+    },
+    {
+      "name": "APF（有源电力滤波器）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "APF 指 有源电力滤波器"
+    },
+    {
+      "name": "SVG（高压静止无功发生器）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "SVG 指 高压静止无功发生器"
+    },
+    {
+      "name": "充电桩",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "充电桩 指 电动汽车的充电补给装置"
+    },
+    {
+      "name": "移动储能综合电源系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司在保持智能电网产品为制造主业基础上，积极开展移动储能综合电源系统...业务"
+    },
+    {
+      "name": "氢能电源系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "氢能电源系统业务在报告期内积极开展关键技术攻关和新产品开发"
+    },
+    {
+      "name": "光伏发电项目",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "新能源光伏发电及EPC工程总承包业务"
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "电力成套设备",
+      "cost_proportion": "36.08%",
+      "quote": "电力成套设备 直接材料 36.08%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "储充装置",
+      "cost_proportion": "29.71%",
+      "quote": "储充装置 直接材料 29.71%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "防窃电电能计量装置",
+      "cost_proportion": "3.42%",
+      "quote": "防窃电电能计量装置 直接材料 3.42%"
+    },
+    {
+      "name": "直接材料",
+      "target_product": "安装施工",
+      "cost_proportion": "8.98%",
+      "quote": "安装施工 直接材料 8.98%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "氢能",
+      "cost_proportion": "1.47%",
+      "quote": "氢能 制造费用 1.47%"
+    },
+    {
+      "name": "制造费用",
+      "target_product": "光伏发电",
+      "cost_proportion": "5.09%",
+      "quote": "光伏发电 制造费用 5.09%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "智能电网",
+      "source_product": "电力成套设备",
+      "quote": "公司客户主要为国家电网公司、南方电网公司、五大发电集团及其下属企业、地方电力公司及铁路、工矿企业等。"
+    },
+    {
+      "name": "新能源汽车充电站",
+      "source_product": "充电桩",
+      "quote": "公司已经成功研发并规模化生产多种规格交、直流充电设备...主要客户包括公交、电网、出租车、各大充电站运营商、平台公司、物流公司等充电站运营企业。"
+    },
+    {
+      "name": "光伏发电",
+      "source_product": "光伏发电项目",
+      "quote": "公司自2015年起开展光伏（含山地、屋顶）、风电等项目投资、安装施工总承包（EPC）等业务,并于2018年启动投资建设运营光伏发电项目"
+    },
+    {
+      "name": "油气田作业",
+      "source_product": "移动储能综合电源系统",
+      "quote": "针对无电网覆盖、电网薄弱的钻井、压裂、采油等偏远作业场景，本系统可全面替代传统柴油发电机"
+    },
+    {
+      "name": "矿山",
+      "source_product": "矿用电源",
+      "quote": "公司矿用电源业务已取得防爆证和煤安证，客户群体主要分为矿用电机车主机厂和终端矿山客户。"
+    },
+    {
+      "name": "氢能两轮车、无人机、增程器",
+      "source_product": "氢能电源系统",
+      "quote": "所开发出的阴极闭式金属双极板空冷燃料电池堆及系统创新产品已在氢能两轮车、氢能无人机、氢能增程器等领域推广应用。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王东",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人王东...2023年3月30日起，任本公司董事长兼总经理。"
+    },
+    {
+      "name": "王凯",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人王凯...2023年5月15日起，任本公司财务总监。"
+    },
+    {
+      "name": "孙彬彬",
+      "role": "会计机构负责人",
+      "quote": "会计机构负责人(会计主管人员)孙彬彬"
+    },
+    {
+      "name": "缪龙飞",
+      "role": "董事会秘书、副总经理",
+      "quote": "董事会秘书 缪龙飞...2023年5月15日起，任本公司副总经理兼董事会秘书。"
+    },
+    {
+      "name": "何德军",
+      "role": "董事",
+      "quote": "何德军...2023年3月30日起，任本公司董事会非独立董事。"
+    },
+    {
+      "name": "郁强",
+      "role": "董事",
+      "quote": "郁强...2024年5月17日起，任本公司董事会非独立董事。"
+    },
+    {
+      "name": "周昌山",
+      "role": "董事、副总经理",
+      "quote": "周昌山...2023年3月30日起，任公司副总经理；2023年8月3日起，兼任公司非独立董事。"
+    },
+    {
+      "name": "袁建军",
+      "role": "独立董事",
+      "quote": "袁建军...2023年3月30日起，任本公司独立董事。"
+    },
+    {
+      "name": "马云星",
+      "role": "独立董事",
+      "quote": "马云星...2023年3月30日起，任本公司独立董事。"
+    },
+    {
+      "name": "徐茜",
+      "role": "独立董事",
+      "quote": "徐茜...2023年3月30日起，任本公司独立董事。"
+    },
+    {
+      "name": "李良仁",
+      "role": "副总经理",
+      "quote": "李良仁...2015年8月25日起，任本公司副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "苏州绿脉电气控股（集团）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "控股股东、绿脉电气 指 苏州绿脉电气控股（集团）有限公司"
+    },
+    {
+      "name": "苏州电力电容器有限公司（苏容公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "苏容公司、全资子公司 指 苏州电力电容器有限公司"
+    },
+    {
+      "name": "江苏中导电力有限公司（中导电力）",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司",
+      "quote": "中导电力、控股子公司 指 江苏中导电力有限公司"
+    },
+    {
+      "name": "苏州和顺能源投资发展有限公司（和顺投资）",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "和顺投资、全资子公司 指 苏州和顺能源投资发展有限公司"
+    },
+    {
+      "name": "海原县振兴光伏发电有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司",
+      "quote": "海原县振兴光伏发电有限公司...参股公司"
+    },
+    {
+      "name": "国家电网公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司客户主要为国家电网公司、南方电网公司..."
+    },
+    {
+      "name": "南方电网公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "公司客户主要为国家电网公司、南方电网公司..."
+    },
+    {
+      "name": "湖南中车智行科技有限公司",
+      "relation_type": "customer",
+      "business_details": "签订了《合作框架协议》",
+      "quote": "合同对方名称：湖南中车智行科技有限公司...名称：氢燃料电池系统"
+    },
+    {
+      "name": "上海京能领金新能源发展有限公司",
+      "relation_type": "customer",
+      "business_details": "签订了移动电源综合系统合同",
+      "quote": "合同对方名称：上海京能领金新能源发展有限公司...名称：移动电源综合系统"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力成套设备",
+      "segment_type": "product_line",
+      "revenue_amount": "137,092,280.65",
+      "revenue_proportion": "37.52%",
+      "gross_margin": "13.40%",
+      "yoy_change": "-48.36%",
+      "quote": "电力成套设备 137,092,280.65 37.52% ... 毛利率 13.40% ... 营业收入比上年同期增减 -48.36%"
+    },
+    {
+      "name": "防窃电电能计量装置",
+      "segment_type": "product_line",
+      "revenue_amount": "14,993,364.09",
+      "revenue_proportion": "4.10%",
+      "gross_margin": null,
+      "yoy_change": "-58.82%",
+      "quote": "防窃电电能计量装置 14,993,364.09 4.10% ... -58.82%"
+    },
+    {
+      "name": "储充装置",
+      "segment_type": "product_line",
+      "revenue_amount": "112,171,900.22",
+      "revenue_proportion": "30.70%",
+      "gross_margin": "15.31%",
+      "yoy_change": "268.28%",
+      "quote": "储充装置 112,171,900.22 30.70% ... 毛利率 15.31% ... 营业收入比上年同期增减 268.28%"
+    },
+    {
+      "name": "光伏发电",
+      "segment_type": "product_line",
+      "revenue_amount": "21,035,274.82",
+      "revenue_proportion": "5.76%",
+      "gross_margin": "33.93%",
+      "yoy_change": "-16.47%",
+      "quote": "光伏发电 21,035,274.82 5.76% ... 毛利率 33.93% ... 营业收入比上年同期增减 -16.47%"
+    },
+    {
+      "name": "氢能",
+      "segment_type": "product_line",
+      "revenue_amount": "5,273,893.82",
+      "revenue_proportion": "1.44%",
+      "gross_margin": null,
+      "yoy_change": "100.00%",
+      "quote": "氢能 5,273,893.82 1.44% ... 100.00%"
+    },
+    {
+      "name": "安装施工",
+      "segment_type": "product_line",
+      "revenue_amount": "59,109,196.01",
+      "revenue_proportion": "16.18%",
+      "gross_margin": "6.27%",
+      "yoy_change": "-3.36%",
+      "quote": "安装施工 59,109,196.01 16.18% ... 毛利率 6.27% ... 营业收入比上年同期增减 -3.36%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "15,694,935.73",
+      "revenue_proportion": "4.30%",
+      "gross_margin": "38.85%",
+      "yoy_change": "66.00%",
+      "quote": "其他 15,694,935.73 4.30% ... 毛利率 38.85% ... 营业收入比上年同期增减 66.00%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "239,737,544.29",
+      "revenue_proportion": "65.61%",
+      "gross_margin": "17.55%",
+      "yoy_change": "-1.50%",
+      "quote": "华东地区 239,737,544.29 65.61% ... 毛利率 17.55% ... 营业收入比上年同期增减 -1.50%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "57,539,295.23",
+      "revenue_proportion": "15.75%",
+      "gross_margin": "6.72%",
+      "yoy_change": "-11.98%",
+      "quote": "华北地区 57,539,295.23 15.75% ... 毛利率 6.72% ... 营业收入比上年同期增减 -11.98%"
+    },
+    {
+      "name": "其他地区",
+      "segment_type": "region",
+      "revenue_amount": "68,094,005.82",
+      "revenue_proportion": "18.64%",
+      "gross_margin": "15.56%",
+      "yoy_change": "-42.96%",
+      "quote": "其他地区 68,094,005.82 18.64% ... 毛利率 15.56% ... 营业收入比上年同期增减 -42.96%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "365,370,845.34",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "15.47%",
+      "yoy_change": "-14.66%",
+      "quote": "直销 365,370,845.34 100.00% ... 毛利率 15.47% ... 营业收入比上年同期增减 -14.66%"
+    },
+    {
+      "name": "输配电及控制设备制造业",
+      "segment_type": "other",
+      "revenue_amount": "349,675,909.61",
+      "revenue_proportion": "95.70%",
+      "gross_margin": "14.39%",
+      "yoy_change": "-16.48%",
+      "quote": "输配电及控制设备制造业 349,675,909.61 95.70% ... 毛利率 14.39% ... 营业收入比上年同期增减 -16.48%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "输配电及控制设备制造业",
+      "metric_type": "sales_volume",
+      "value": "133,964",
+      "period": "2025年",
+      "quote": "销售量 套 133,964"
+    },
+    {
+      "product": "输配电及控制设备制造业",
+      "metric_type": "production_volume",
+      "value": "137,028",
+      "period": "2025年",
+      "quote": "生产量 套 137,028"
+    },
+    {
+      "product": "输配电及控制设备制造业",
+      "metric_type": "inventory_volume",
+      "value": "28,602",
+      "period": "2025年末",
+      "quote": "库存量 套 28,602"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "高效阴离子膜电解水制氢关键技术研发",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目进展：1、制定50kW级阴离子膜电解槽装置方案设计；2、研究阴阳极催化剂的合成方法及放大工艺方案；3、确定膜电极工艺设计方案；4、准备申请发明专利1项，实用新型专利专利2项",
+      "expected_completion_time": null,
+      "quote": "高效阴离子膜电解水制氢关键技术研发（1063）"
+    },
+    {
+      "name": "防爆型充电设备开发研制",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目进展：1、完成方案设计与评估 2、完成防爆型充电设备设计第一阶段",
+      "expected_completion_time": null,
+      "quote": "防爆型充电设备开发研制（1064）"
+    },
+    {
+      "name": "带故障快速定位功能的无线智能断路器",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目进展：1、已完成方案设计与评估 2、正在制作带故障快速定位功能的无线智能断路器（样机）",
+      "expected_completion_time": null,
+      "quote": "带故障快速定位功能的无线智能断路器（1065）"
+    },
+    {
+      "name": "小区及商业体充电桩运营商业模式研究及示范应用",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "项目进展：1、完成项目立项和商业模式设计。 2、完成投运项目落地。 3、正在以投运项目模式逐步推广至全国",
+      "expected_completion_time": null,
+      "quote": "小区及商业体充电桩运营商业模式研究及示范应用（1066）"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "授权专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月底，公司共获得授权专利127项，其中发明专利24项，实用新型专利89项",
+      "quote": "截至2025年12月底，公司共获得授权专利127项，其中发明专利24项，实用新型专利89项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "获得软件著作权14项",
+      "quote": "获得软件著作权14项"
+    },
+    {
+      "name": "防爆证",
+      "asset_type": "certification",
+      "related_product": "矿用电源",
+      "quantitative_info": null,
+      "quote": "公司矿用电源业务已取得防爆证和煤安证"
+    },
+    {
+      "name": "煤安证",
+      "asset_type": "certification",
+      "related_product": "矿用电源",
+      "quantitative_info": null,
+      "quote": "公司矿用电源业务已取得防爆证和煤安证"
+    },
+    {
+      "name": "移动储能综合电源系统",
+      "asset_type": "core_technology",
+      "related_product": "移动储能综合电源系统",
+      "quantitative_info": null,
+      "quote": "公司自主开发并成功在油气田开采作业领域商业化应用大型移动储能综合电源系统，全面取代柴油发电机，产品技术达到国际领先水平并填补空白。"
+    },
+    {
+      "name": "阴极闭式金属双极板空冷燃料电池堆及系统",
+      "asset_type": "core_technology",
+      "related_product": "氢能电源系统",
+      "quantitative_info": null,
+      "quote": "所开发出的阴极闭式金属双极板空冷燃料电池堆及系统创新产品已在氢能两轮车、氢能无人机、氢能增程器等领域推广应用。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "51.17%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 51.17%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "50.12%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 50.12%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司主营业务基本符合国家在电力行业及新能源行业推出的国家政策及行业发展趋势，但易受国家宏观经济政策、产业发展及基本建设等因素影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、政策性风险...公司主营业务基本符合国家在电力行业及新能源行业推出的国家政策及行业发展趋势，但易受国家宏观经济政策、产业发展及基本建设等因素影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争激烈，容易导致投标过程中出现以最低价中标为导向的招标方式，容易引发恶性竞争，可能会导致行业毛利率大幅度下降。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、市场竞争的风险...市场竞争激烈，容易导致投标过程中出现以最低价中标为导向的招标方式，容易引发恶性竞争，可能会导致行业毛利率大幅度下降"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "如果公司无法紧跟行业技术发展速度，将面临技术更新迭代风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、技术升级风险...如果公司无法紧跟行业技术发展速度，将面临技术更新迭代风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "经营业绩波动风险，受项目工程进度影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、经营业绩波动风险...这些产品和服务与对应的项目基础建设工程进度息息相关，公司需要待客户完成产品验收后方可确认收入。"
+    },
+    {
+      "risk_type": "other",
+      "description": "经营管理风险，随着业务开展以及项目增多，对公司管理层的管理与协调能力提出更高要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、经营管理风险...随着公司业务开展以及项目增多，公司管理跨度越来越大，对公司管理层的管理与协调能力提出更高要求。"
+    }
+  ]
+}

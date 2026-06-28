@@ -1,0 +1,581 @@
+{
+  "company_name_mentioned": "南京波长光电科技股份有限公司",
+  "produces": [
+    {
+      "name": "光学元件",
+      "type": "component",
+      "revenue_proportion": "38.89%",
+      "quote": "分产品：光学元件 180,665,032.23 38.89%"
+    },
+    {
+      "name": "光学组件",
+      "type": "component",
+      "revenue_proportion": "50.32%",
+      "quote": "分产品：光学组件 233,775,685.85 50.32%"
+    },
+    {
+      "name": "光学系统方案与检测设计工具及其他",
+      "type": "service",
+      "revenue_proportion": "10.79%",
+      "quote": "光学系统方案与检测设计工具及其他 50,130,847.53 10.79%"
+    },
+    {
+      "name": "半导体及泛半导体产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司半导体及泛半导体实现收入 7,597.11万元"
+    },
+    {
+      "name": "PCB精密激光微加工镜头",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "其中 PCB场景产品业务收入达到 4,305.90万元"
+    },
+    {
+      "name": "红外光学产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "红外光学领域收入 1.43亿元"
+    },
+    {
+      "name": "消费级光学产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "消费级光学领域收入 2,017.86 万元"
+    },
+    {
+      "name": "VR/AR光学产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "其中 VR/AR的相关产品收入约 1,419.67万元"
+    }
+  ],
+  "procures": [
+    {
+      "name": "锗、锗单晶、Ge",
+      "target_product": "红外光学镜头、窗口镜",
+      "cost_proportion": null,
+      "quote": "尤指红外级锗单晶...主要用于制造红外光学镜头以及保护红外光学镜头的红外光学窗口镜，是红外镜头的主要原材料"
+    },
+    {
+      "name": "硒化锌、ZnSe",
+      "target_product": "红外光学镜头",
+      "cost_proportion": null,
+      "quote": "一种黄色透明的多晶材料...是高功率CO2激光器系统中的首选材料"
+    },
+    {
+      "name": "硫系玻璃",
+      "target_product": "红外光学镜头",
+      "cost_proportion": null,
+      "quote": "一种以硫化物、硒化物、锑化物为主要成分的红外光学玻璃，相较于锗，加工效率高，适应温差较大，成本较低"
+    },
+    {
+      "name": "光学玻璃",
+      "target_product": "光学元件、组件",
+      "cost_proportion": null,
+      "quote": "公司主要原材料为锗、硒化锌、光学玻璃等光学材料"
+    },
+    {
+      "name": "其他光学材料（石英、塑胶、硅料、氟化物、铜等）",
+      "target_product": "各类光学元件",
+      "cost_proportion": null,
+      "quote": "材料涵盖硒化锌（ZnSe）、锗（Ge）、光学玻璃、硫系玻璃、石英（SiO2）、塑胶、硅料（Si）、氟化物、铜（Cu）等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "激光加工",
+      "source_product": "激光光学元件、组件",
+      "quote": "提供各类光学设备、光学设计以及光学检测的整体解决方案。报告期内公司主营业务未发生重大变化。"
+    },
+    {
+      "name": "红外热成像",
+      "source_product": "红外光学元件、组件",
+      "quote": "长期专注于服务工业激光加工、红外热成像及消费级光学领域"
+    },
+    {
+      "name": "消费级光学",
+      "source_product": "消费级光学产品",
+      "quote": "消费级光学产品可以应用于 AR/VR 眼镜、无人机、智能家居监控、扫地机器人、内窥镜等消费级领域。"
+    },
+    {
+      "name": "半导体与泛半导体",
+      "source_product": "半导体光学元器件",
+      "quote": "公司用于 PCB精密微加工、高端显示面板的各类远心场镜、接近式掩膜光刻平行光源系统、半导体检测用微分干涉（DIC）显微镜、半导体芯片制造/封装/量检测设备相关高精度光学元器件等核心产品持续放量。"
+    },
+    {
+      "name": "智能制造（激光切割、焊接、打标、钻孔等）",
+      "source_product": "激光加工镜头及光学子系统",
+      "quote": "激光光学镜头及光学子系统...广泛应用于激光焊接、切割、打标、清洗、打孔、曝光、封测等工业加工场景"
+    },
+    {
+      "name": "汽车",
+      "source_product": "激光加工产品",
+      "quote": "涉及的应用领域包括消费电子、半导体、智能制造、汽车、光伏、动力电池、增材制造等产业"
+    },
+    {
+      "name": "动力电池",
+      "source_product": "激光加工产品",
+      "quote": "涉及的应用领域包括消费电子、半导体、智能制造、汽车、光伏、动力电池、增材制造等产业"
+    },
+    {
+      "name": "光伏",
+      "source_product": "激光加工产品",
+      "quote": "涉及的应用领域包括消费电子、半导体、智能制造、汽车、光伏、动力电池、增材制造等产业"
+    },
+    {
+      "name": "PCB电路板",
+      "source_product": "LDI镜头、PCB微加工镜头",
+      "quote": "主要应用于 PCB 电路板印刷、阻焊油墨印刷、IC载板印刷等行业。"
+    },
+    {
+      "name": "安防监控、侦察、瞄准、测温",
+      "source_product": "红外成像镜头",
+      "quote": "主要集成于红外瞄准仪、红外探测器、红外监视器、红外夜视仪、红外测温仪等红外设备中，已广泛用于人体测温、民用侦察、瞄准、安防监控、无人机、森林预警以及水利监测等众多领域"
+    },
+    {
+      "name": "增材制造（3D打印）",
+      "source_product": "激光加工产品",
+      "quote": "3D激光增材制造技术可以通过高能激光熔覆工艺添加材料到基体材料的表面"
+    },
+    {
+      "name": "激光雷达",
+      "source_product": "激光光学产品",
+      "quote": "终端 AI驱动的激光雷达...等产品的放量"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄胜弟",
+      "role": "董事长",
+      "quote": "董事长黄胜弟"
+    },
+    {
+      "name": "朱敏",
+      "role": "董事",
+      "quote": "董事朱敏"
+    },
+    {
+      "name": "吴玉堂",
+      "role": "董事、总经理",
+      "quote": "公司负责人吴玉堂"
+    },
+    {
+      "name": "唐志平",
+      "role": "董事、主管会计工作负责人",
+      "quote": "主管会计工作负责人唐志平"
+    },
+    {
+      "name": "王国力",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理王国力"
+    },
+    {
+      "name": "胡玉清",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 胡玉清"
+    },
+    {
+      "name": "宋小安",
+      "role": "职工代表董事",
+      "quote": "职工代表董事 宋小安"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "大族激光",
+      "relation_type": "customer",
+      "business_details": "激光行业龙头",
+      "quote": "国内激光行业龙头华工科技、大族激光、海目星"
+    },
+    {
+      "name": "高德红外",
+      "relation_type": "customer",
+      "business_details": "红外行业龙头",
+      "quote": "国内红外行业龙头高德红外、睿创微纳、大立科技"
+    },
+    {
+      "name": "华工科技",
+      "relation_type": "customer",
+      "business_details": "激光行业龙头",
+      "quote": "国内激光行业龙头华工科技"
+    },
+    {
+      "name": "睿创微纳",
+      "relation_type": "customer",
+      "business_details": "红外行业龙头",
+      "quote": "国内红外行业龙头高德红外、睿创微纳、大立科技"
+    },
+    {
+      "name": "大立科技",
+      "relation_type": "customer",
+      "business_details": "红外行业龙头",
+      "quote": "国内红外行业龙头高德红外、睿创微纳、大立科技"
+    },
+    {
+      "name": "JENOPTIK、业纳集团",
+      "relation_type": "customer",
+      "business_details": "国际知名激光和红外企业",
+      "quote": "国际知名激光和红外企业"
+    },
+    {
+      "name": "Wavelength Opto-Electronic（S）Pte.Ltd.（波长光电新加坡有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "光学产品和光学软件的研发、生产、销售",
+      "quote": "波长光电新加坡有限公司"
+    },
+    {
+      "name": "江苏波长光电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "消费级光学产品生产及销售",
+      "quote": "江苏波长光电科技有限公司"
+    },
+    {
+      "name": "RS Optics Sdn. Bhd.（睿思光学私人有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "未来投资建设精密光学产线的实施主体",
+      "quote": "公司在马来西亚设立全资子公司睿思光学"
+    },
+    {
+      "name": "光研科技南京有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "代理销售光学设计软件",
+      "quote": "子公司光研科技代理销售的主流光学设计软件"
+    },
+    {
+      "name": "深圳波长光电科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "深圳波长光电科技有限公司"
+    },
+    {
+      "name": "爱丁堡（南京）光电设备有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "爱丁堡（南京）光电设备有限公司"
+    },
+    {
+      "name": "合肥脉博光电科技有限公司",
+      "relation_type": "investor",
+      "business_details": "增资入股，拓宽光学产业路径",
+      "quote": "完成了对合肥脉博光电科技有限公司的增资入股"
+    },
+    {
+      "name": "浙江大学",
+      "relation_type": "joint_venture",
+      "business_details": "共建联合实验室，攻坚半导体光学关键技术",
+      "quote": "公司与浙江大学极端光学技术与仪器全国重点实验室达成合作，共建联合实验室"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光学元件",
+      "segment_type": "product_line",
+      "revenue_amount": "180,665,032.23元",
+      "revenue_proportion": "38.89%",
+      "gross_margin": "28.64%",
+      "yoy_change": "3.87%",
+      "quote": "光学元件 180,665,032.23 38.89% ... 毛利率 28.64% ... 营业收入比上年增减 3.87%"
+    },
+    {
+      "name": "光学组件",
+      "segment_type": "product_line",
+      "revenue_amount": "233,775,685.85元",
+      "revenue_proportion": "50.32%",
+      "gross_margin": "32.84%",
+      "yoy_change": "23.70%",
+      "quote": "光学组件 233,775,685.85 50.32% ... 毛利率 32.84% ... 营业收入比上年增减 23.70%"
+    },
+    {
+      "name": "光学系统方案与检测设计工具及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "50,130,847.53元",
+      "revenue_proportion": "10.79%",
+      "gross_margin": "33.53%",
+      "yoy_change": "-5.35%",
+      "quote": "光学系统方案与检测设计工具及其他 50,130,847.53 10.79% ... 毛利率 33.53% ... 营业收入比上年增减 -5.35%"
+    },
+    {
+      "name": "境内业务",
+      "segment_type": "region",
+      "revenue_amount": "369,667,760.02元",
+      "revenue_proportion": "79.57%",
+      "gross_margin": "27.39%",
+      "yoy_change": "28.19%",
+      "quote": "境内 369,667,760.02 79.57% ... 毛利率 27.39% ... 营业收入比上年增减 28.19%"
+    },
+    {
+      "name": "境外业务",
+      "segment_type": "region",
+      "revenue_amount": "94,903,805.59元",
+      "revenue_proportion": "20.43%",
+      "gross_margin": "46.44%",
+      "yoy_change": "-25.57%",
+      "quote": "境外 94,903,805.59 20.43% ... 毛利率 46.44% ... 营业收入比上年增减 -25.57%"
+    },
+    {
+      "name": "激光光学领域",
+      "segment_type": "business_unit",
+      "revenue_amount": "2.84亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "5.92%",
+      "quote": "激光光学领域收入 2.84亿元，同比增长 5.92%"
+    },
+    {
+      "name": "红外光学领域",
+      "segment_type": "business_unit",
+      "revenue_amount": "1.43亿元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "38.02%",
+      "quote": "红外光学领域收入 1.43亿元，同比增长 38.02%"
+    },
+    {
+      "name": "消费级光学领域",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,017.86万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "71.99%",
+      "quote": "消费级光学领域收入 2,017.86 万元，同比增长 71.99%"
+    },
+    {
+      "name": "半导体及泛半导体",
+      "segment_type": "business_unit",
+      "revenue_amount": "7,597.11万元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "48.71%",
+      "quote": "公司半导体及泛半导体实现收入 7,597.11万元，较上年同期增长 48.71%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "光学元件",
+      "metric_type": "sales_volume",
+      "value": "2,314,997.00片",
+      "period": "2025年",
+      "quote": "销售量 片 2,314,997.00"
+    },
+    {
+      "product": "光学元件",
+      "metric_type": "production_volume",
+      "value": "2,332,115.00片",
+      "period": "2025年",
+      "quote": "生产量 片 2,332,115.00"
+    },
+    {
+      "product": "光学元件",
+      "metric_type": "inventory_volume",
+      "value": "224,321.00片",
+      "period": "2025年",
+      "quote": "库存量 片 224,321.00"
+    },
+    {
+      "product": "光学组件",
+      "metric_type": "sales_volume",
+      "value": "427,502.00套",
+      "period": "2025年",
+      "quote": "销售量 套 427,502.00"
+    },
+    {
+      "product": "光学组件",
+      "metric_type": "production_volume",
+      "value": "436,110.00套",
+      "period": "2025年",
+      "quote": "生产量 套 436,110.00"
+    },
+    {
+      "product": "光学组件",
+      "metric_type": "inventory_volume",
+      "value": "30,656.00套",
+      "period": "2025年",
+      "quote": "库存量 套 30,656.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "红外热成像光学产品生产项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "11,393.41万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": "2025年12月31日",
+      "quote": "红外热成像光学产品生产项目...项目达到预定可使用状态日期 2025年12月31日"
+    },
+    {
+      "name": "精密光学研发综合楼建设项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "7,474.09万元（承诺投资总额）",
+      "designed_capacity": null,
+      "progress": "47.19%",
+      "expected_completion_time": "2027年6月30日（延期后）",
+      "quote": "精密光学研发综合楼建设项目...投资进度 (3)＝47.19%...预计本募投项目将无法在原定期限内完成...拟将本项目达到可使用状态日期由2026年6月30日延期至2027年6月30日"
+    },
+    {
+      "name": "马来西亚产能布局（睿思光学）",
+      "project_type": "capacity_expansion",
+      "location": "马来西亚",
+      "investment_amount": null,
+      "designed_capacity": "精密光学产线",
+      "progress": "设立子公司，尚未实际出资",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司在马来西亚设立全资子公司睿思光学，作为未来投资建设精密光学产线的实施主体。"
+    },
+    {
+      "name": "半导体与微纳光学研究中心",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全面建成",
+      "expected_completion_time": null,
+      "quote": "公司“半导体与微纳光学研究中心”全面建成，配备了百级超净车间、无掩膜激光直写光刻机、纳米压印设备、ICP 刻蚀机等高端研发设备"
+    },
+    {
+      "name": "联合实验室（与浙江大学）",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "建立并交付产品",
+      "expected_completion_time": null,
+      "quote": "公司与浙江大学极端光学技术与仪器全国重点实验室达成合作，共建联合实验室...成功完成白光干涉仪产品交付"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "光学薄膜的设计与制备",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "掌握了“光学薄膜的设计与制备”、“高功率激光镜头制造技术”等多项核心技术"
+    },
+    {
+      "name": "高功率激光镜头制造技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "掌握了“光学薄膜的设计与制备”、“高功率激光镜头制造技术”等多项核心技术"
+    },
+    {
+      "name": "授权发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "74项（截至报告期末）",
+      "quote": "截至报告期末，公司已拥有授权发明专利 74 项"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "报告期内新增5项",
+      "quote": "报告期内，公司及子公司新增授权发明专利 21 项，软件著作权 5 项"
+    },
+    {
+      "name": "光学元件加工精度（超精密级）",
+      "asset_type": "process_technology",
+      "related_product": "光学元件",
+      "quantitative_info": null,
+      "quote": "光学元件加工精度可达到超精密级别，优于行业平均水平"
+    },
+    {
+      "name": "镀膜工艺（包括类金刚石膜DLC、硬质膜HDAR等）",
+      "asset_type": "process_technology",
+      "related_product": "光学元件、组件",
+      "quantitative_info": null,
+      "quote": "能够实现包括类金刚石膜（DLC）、硬质膜（HDAR）在内的增透、高反射、部分反射、分光、滤光等膜系"
+    },
+    {
+      "name": "国家级高新技术企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了国家级高新技术企业、国家级专精特新“小巨人”企业认证"
+    },
+    {
+      "name": "国家级专精特新“小巨人”企业认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司通过了国家级高新技术企业、国家级专精特新“小巨人”企业认证"
+    },
+    {
+      "name": "牵头起草行业标准JB/T 14588-2023《激光加工镜头》",
+      "asset_type": "standard",
+      "related_product": "激光加工镜头",
+      "quantitative_info": null,
+      "quote": "受全国光辐射安全和激光设备标准化技术委员会邀请，公司牵头起草的行业标准JB/T 14588-2023《激光加工镜头》已于2024年7月开始实施。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "34.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 34.52%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "25.68%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 25.68%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司未能准确预测和把握市场和行业发展趋势，未能紧跟科技发展趋势，及时响应市场对产品的新要求，在技术与工艺升级方面出现长期停滞，或对新技术、新工艺的研发与应用方面落后于竞争对手，将可能面临技术升级迭代以及产品被替代、淘汰的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术升级迭代与研发失败风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "若公司不能紧跟市场发展趋势，满足客户需求变化，在人才储备、技术研发和客户服务等方面进一步增强实力，则不排除同行业公司或市场新进入者推出与公司产品类似或具有替代性的产品，公司将可能面临市场竞争加剧的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "市场竞争风险"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "未来如果因国际贸易摩擦升级导致相关国家或地区对中国光学产品采取限制政策、提高关税或其他贸易保护措施，将会对国内光学市场产生不利影响，进而可能影响公司业务发展。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "贸易摩擦风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料具有公开、实时的市场报价，若其价格大幅下跌或形成明显的下跌趋势...若公司无法及时将成本上涨传导至下游，将导致公司毛利率下降。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料及贸易品采购价格波动风险"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "如果公司出现重大研发项目未能如期取得突破、新技术应用不能获得市场认可等情况，将导致公司存在研发失败风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "新产品开发风险"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "随着国内光学元件、组件行业的发展，具有丰富技术经验的技术人才日益成为行业竞争的焦点，行业内竞争对手对核心技术人才的争夺不断加剧，一旦重要技术人员流失或公司技术人员泄露公司技术机密，将可能削弱公司的竞争优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "技术人员流失和技术泄密风险"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司存货账面价值为1.83亿元...若未来因市场的变化导致存货发生跌价损失，将影响公司的经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "存货跌价风险"
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "company_name_mentioned": "青木科技股份有限公司",
+  "produces": [
+    {
+      "name": "电商代运营服务",
+      "type": "service",
+      "revenue_proportion": "44.84%",
+      "quote": "电商代运营服务 63,446.04 44.84%"
+    },
+    {
+      "name": "品牌孵化与管理",
+      "type": "service",
+      "revenue_proportion": "33.53%",
+      "quote": "品牌孵化与管理 47,444.73 33.53%"
+    },
+    {
+      "name": "经销代理",
+      "type": "service",
+      "revenue_proportion": "13.70%",
+      "quote": "经销代理 19,384.71 13.70%"
+    },
+    {
+      "name": "品牌数字营销",
+      "type": "service",
+      "revenue_proportion": "2.60%",
+      "quote": "品牌数字营销 3,683.17 2.60%"
+    },
+    {
+      "name": "技术解决方案及消费者运营服务",
+      "type": "service",
+      "revenue_proportion": "5.32%",
+      "quote": "技术解决方案及消费者运营 7,525.29 5.32%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "外购商品成本（品牌孵化与管理、经销代理业务）",
+      "target_product": "品牌孵化与管理、经销代理业务",
+      "cost_proportion": null,
+      "quote": "外购成本组成主要是品牌孵化与管理、经销代理业务的外购商品成本及保证合同履约产生的相关物流费用。"
+    },
+    {
+      "name": "项目服务采购成本（品牌数字营销、技术解决方案服务）",
+      "target_product": "品牌数字营销、技术解决方案及消费者运营服务",
+      "cost_proportion": null,
+      "quote": "劳务及其他成本主要是...品牌数字营销业务的外购资源成本、技术解决方案的服务外包成本等成本。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电商消费场景",
+      "source_product": null,
+      "quote": "公司业务体系覆盖了终端消费者在电商消费场景中触及的关键环节。"
+    },
+    {
+      "name": "Skechers",
+      "source_product": null,
+      "quote": "公司长期服务于众多国内外知名品牌，包括Skechers..."
+    },
+    {
+      "name": "ECCO",
+      "source_product": null,
+      "quote": "...ECCO..."
+    },
+    {
+      "name": "Lacoste",
+      "source_product": null,
+      "quote": "...Lacoste..."
+    },
+    {
+      "name": "Emporio Armani",
+      "source_product": null,
+      "quote": "...Emporio Armani..."
+    },
+    {
+      "name": "Farfetch",
+      "source_product": null,
+      "quote": "...Farfetch..."
+    },
+    {
+      "name": "Samsonite",
+      "source_product": null,
+      "quote": "...Samsonite..."
+    },
+    {
+      "name": "泡泡玛特",
+      "source_product": null,
+      "quote": "...泡泡玛特..."
+    },
+    {
+      "name": "Jellycat",
+      "source_product": null,
+      "quote": "...Jellycat..."
+    },
+    {
+      "name": "Toteme",
+      "source_product": null,
+      "quote": "...Toteme..."
+    },
+    {
+      "name": "ACNE Studios",
+      "source_product": null,
+      "quote": "...ACNE Studios..."
+    },
+    {
+      "name": "Under Armour",
+      "source_product": null,
+      "quote": "...Under Armour..."
+    },
+    {
+      "name": "探路者",
+      "source_product": null,
+      "quote": "...探路者..."
+    },
+    {
+      "name": "moodytiger",
+      "source_product": null,
+      "quote": "...moodytiger..."
+    },
+    {
+      "name": "KOLON SPORT",
+      "source_product": null,
+      "quote": "...KOLON SPORT..."
+    },
+    {
+      "name": "小鹰Osprey",
+      "source_product": null,
+      "quote": "...小鹰Osprey..."
+    },
+    {
+      "name": "博士伦",
+      "source_product": null,
+      "quote": "...博士伦..."
+    },
+    {
+      "name": "李宁",
+      "source_product": null,
+      "quote": "...李宁..."
+    },
+    {
+      "name": "BOY LONDON",
+      "source_product": null,
+      "quote": "...BOY LONDON..."
+    },
+    {
+      "name": "Zara Home",
+      "source_product": null,
+      "quote": "...Zara Home..."
+    },
+    {
+      "name": "Niko and ...",
+      "source_product": null,
+      "quote": "...Niko and ..."
+    },
+    {
+      "name": "例外",
+      "source_product": null,
+      "quote": "...例外..."
+    },
+    {
+      "name": "Stada",
+      "source_product": null,
+      "quote": "...Stada..."
+    },
+    {
+      "name": "Doctor's Best",
+      "source_product": null,
+      "quote": "...Doctor's Best..."
+    },
+    {
+      "name": "硅基动感",
+      "source_product": null,
+      "quote": "...硅基动感..."
+    },
+    {
+      "name": "Cumlaude Lab",
+      "source_product": null,
+      "quote": "...Cumlaude Lab..."
+    },
+    {
+      "name": "Zuccari",
+      "source_product": null,
+      "quote": "...Zuccari..."
+    },
+    {
+      "name": "希尔思",
+      "source_product": null,
+      "quote": "...希尔思..."
+    },
+    {
+      "name": "OPPO",
+      "source_product": null,
+      "quote": "技术解决方案及消费者运营服务所合作的品牌客户包括OPPO、小米、迪卡侬、新百伦、山姆会员店等国内外知名企业。"
+    },
+    {
+      "name": "小米",
+      "source_product": null,
+      "quote": "技术解决方案及消费者运营服务所合作的品牌客户包括OPPO、小米、迪卡侬、新百伦、山姆会员店等国内外知名企业。"
+    },
+    {
+      "name": "迪卡侬",
+      "source_product": null,
+      "quote": "技术解决方案及消费者运营服务所合作的品牌客户包括OPPO、小米、迪卡侬、新百伦、山姆会员店等国内外知名企业。"
+    },
+    {
+      "name": "新百伦",
+      "source_product": null,
+      "quote": "技术解决方案及消费者运营服务所合作的品牌客户包括OPPO、小米、迪卡侬、新百伦、山姆会员店等国内外知名企业。"
+    },
+    {
+      "name": "山姆会员店",
+      "source_product": null,
+      "quote": "技术解决方案及消费者运营服务所合作的品牌客户包括OPPO、小米、迪卡侬、新百伦、山姆会员店等国内外知名企业。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "吕斌",
+      "role": "董事长，法定代表人，控股股东，实际控制人",
+      "quote": "公司负责人吕斌、主管会计工作负责人李克亚及会计机构负责人(会计主管人员)粟浩声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "卢彬",
+      "role": "董事，总经理，控股股东，实际控制人",
+      "quote": "公司负责人吕斌、主管会计工作负责人李克亚及会计机构负责人(会计主管人员)粟浩声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "李克亚",
+      "role": "主管会计工作负责人，董事会秘书，财务总监",
+      "quote": "公司负责人吕斌、主管会计工作负责人李克亚及会计机构负责人(会计主管人员)粟浩声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "刘旭晖",
+      "role": "董事",
+      "quote": "刘旭晖 男 46 董事 现任"
+    },
+    {
+      "name": "吴志伟",
+      "role": "董事",
+      "quote": "吴志伟 男 40 董事 现任"
+    },
+    {
+      "name": "韩慧博",
+      "role": "独立董事",
+      "quote": "韩慧博 男 49 独立董事 现任"
+    },
+    {
+      "name": "廖俊峰",
+      "role": "独立董事",
+      "quote": "廖俊峰 男 46 独立董事 现任"
+    },
+    {
+      "name": "王浩",
+      "role": "独立董事",
+      "quote": "王浩 男 45 独立董事 现任"
+    },
+    {
+      "name": "王广翠",
+      "role": "副总经理",
+      "quote": "王广翠 女 43 副总经理 现任"
+    },
+    {
+      "name": "王平",
+      "role": "副总经理",
+      "quote": "王平 男 45 副总经理 现任"
+    },
+    {
+      "name": "黄全能",
+      "role": "副总经理",
+      "quote": "黄全能 男 43 副总经理 现任"
+    },
+    {
+      "name": "任俊",
+      "role": "副总经理",
+      "quote": "任俊 男 43 副总经理 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "云檀品牌管理(上海)有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "云檀上海 指 云檀品牌管理(上海)有限公司"
+    },
+    {
+      "name": "广州美魄品牌管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广州美魄 指 广州美魄品牌管理有限公司"
+    },
+    {
+      "name": "青木香港控股有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "青木香港 指 青木香港控股有限公司"
+    },
+    {
+      "name": "广州启投电子商务有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "广州启投 指 广州启投电子商务有限公司"
+    },
+    {
+      "name": "旺兔柏（广州）文化传媒有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "提供抖音直播运营服务",
+      "quote": "旺兔柏 指 旺兔柏（广州）文化传媒有限公司"
+    },
+    {
+      "name": "Cumlaude Lab 珂蔓朵",
+      "relation_type": "customer",
+      "business_details": "品牌孵化与管理业务，女性私护品牌",
+      "quote": "CUMLAUDE LAB 珂蔓朵由妇科医生和药剂师于1998年创立，是源自西班牙的女性私护品牌..."
+    },
+    {
+      "name": "ZUCCARI 意卡莉",
+      "relation_type": "customer",
+      "business_details": "品牌孵化与管理业务，自然功能营养品牌",
+      "quote": "ZUCCARI 意卡莉是源自意大利的自然功能营养品牌，创立于1993年..."
+    },
+    {
+      "name": "体绪（Femology）",
+      "relation_type": "customer",
+      "business_details": "品牌孵化与管理业务，女性私密护理与情绪美护品牌",
+      "quote": "体绪（Femology）是一个专注于女性私密护理与情绪美护的品牌。"
+    },
+    {
+      "name": "Vitalis",
+      "relation_type": "customer",
+      "business_details": "公司子公司拟收购其控制权，旗下品牌包括“Noromega”等",
+      "quote": "报告期内，公司子公司QINGMU PTE. LTD.（简称“青木新加坡”）签署了《股份购买和增资协议》，拟收购挪威Vitalis公司的控制权..."
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电商代运营服务",
+      "segment_type": "product_line",
+      "revenue_amount": "63,446.04万元",
+      "revenue_proportion": "44.84%",
+      "gross_margin": "44.60%",
+      "yoy_change": "12.27%",
+      "quote": "电商代运营服务 63,446.04 44.84% ... 毛利率 44.60% ... 12.27%"
+    },
+    {
+      "name": "品牌孵化与管理",
+      "segment_type": "product_line",
+      "revenue_amount": "47,444.73万元",
+      "revenue_proportion": "33.53%",
+      "gross_margin": "79.38%",
+      "yoy_change": "54.71%",
+      "quote": "品牌孵化与管理 47,444.73 33.53% ... 毛利率 79.38% ... 54.71%"
+    },
+    {
+      "name": "经销代理",
+      "segment_type": "product_line",
+      "revenue_amount": "19,384.71万元",
+      "revenue_proportion": "13.70%",
+      "gross_margin": "37.57%",
+      "yoy_change": "15.75%",
+      "quote": "经销代理 19,384.71 13.70% ... 毛利率 37.57% ... 15.75%"
+    },
+    {
+      "name": "品牌数字营销",
+      "segment_type": "product_line",
+      "revenue_amount": "3,683.17万元",
+      "revenue_proportion": "2.60%",
+      "gross_margin": "-1.57%",
+      "yoy_change": "-23.37%",
+      "quote": "品牌数字营销 3,683.17 2.60% ... 毛利率 -1.57% ... -23.37%"
+    },
+    {
+      "name": "技术解决方案及消费者运营服务",
+      "segment_type": "product_line",
+      "revenue_amount": "7,525.29万元",
+      "revenue_proportion": "5.32%",
+      "gross_margin": "66.67%",
+      "yoy_change": "14.34%",
+      "quote": "技术解决方案及消费者运营 7,525.29 5.32% ... 毛利率 66.67% ... 14.34%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "136,212.69万元",
+      "revenue_proportion": "96.27%",
+      "gross_margin": "55.86%",
+      "yoy_change": "21.16%",
+      "quote": "境内 136,212.69 96.27% ... 毛利率 55.86% ... 21.16%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "5,271.24万元",
+      "revenue_proportion": "3.73%",
+      "gross_margin": "40.11%",
+      "yoy_change": "82.08%",
+      "quote": "境外 5,271.24 3.73% ... 毛利率 40.11% ... 82.08%"
+    },
+    {
+      "name": "电商渠道零售",
+      "segment_type": "sales_channel",
+      "revenue_amount": "48,781.14万元",
+      "revenue_proportion": "34.48%",
+      "gross_margin": "77.51%",
+      "yoy_change": "62.24%",
+      "quote": "电商渠道零售 48,781.14 34.48% ... 毛利率 77.51% ... 62.24%"
+    },
+    {
+      "name": "渠道分销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "18,036.97万元",
+      "revenue_proportion": "12.75%",
+      "gross_margin": "39.54%",
+      "yoy_change": "3.98%",
+      "quote": "渠道分销 18,036.97 12.75% ... 毛利率 39.54% ... 3.98%"
+    },
+    {
+      "name": "提供服务",
+      "segment_type": "sales_channel",
+      "revenue_amount": "74,665.81万元",
+      "revenue_proportion": "52.77%",
+      "gross_margin": "44.54%",
+      "yoy_change": "9.96%",
+      "quote": "提供服务 74,665.81 52.77% ... 毛利率 44.54% ... 9.96%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "青丰科技园",
+      "metric_type": "capacity",
+      "value": "预计容纳储存量可超过 1,500 万件货品",
+      "period": "报告期末",
+      "quote": "预计容纳储存量可超过 1,500 万件货品。"
+    },
+    {
+      "product": "直播间",
+      "metric_type": "capacity",
+      "value": "超过 75 个",
+      "period": "报告期末",
+      "quote": "报告期末，公司的直播间数量超过 75 个"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "青丰科技园",
+      "project_type": "construction_project",
+      "location": "浙江省义乌市",
+      "investment_amount": null,
+      "designed_capacity": "13.5 万平方米的仓储空间和7,000 平米的办公区域，预计容纳储存量可超过 1,500 万件货品",
+      "progress": "通过验收并投入使用",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司在浙江省义乌市建设的仓储物流中心“青丰科技园”通过验收并投入使用。"
+    },
+    {
+      "name": "收购挪威Vitalis公司控制权项目",
+      "project_type": "acquisition_project",
+      "location": "挪威",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "截至报告期末，该项目尚未交割",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司子公司QINGMU PTE. LTD.（简称“青木新加坡”）签署了《股份购买和增资协议》，拟收购挪威Vitalis公司的控制权...截止到报告期末，该项目尚未交割。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "青木小白",
+      "asset_type": "technical_platform",
+      "related_product": "商品管理",
+      "quantitative_info": null,
+      "quote": "自主研发了包括商品管理工具‘青木小白’..."
+    },
+    {
+      "name": "青木啄木鸟",
+      "asset_type": "technical_platform",
+      "related_product": "智能广告投放",
+      "quantitative_info": null,
+      "quote": "...智能广告投放系统‘青木啄木鸟’..."
+    },
+    {
+      "name": "数据磨坊",
+      "asset_type": "technical_platform",
+      "related_product": "消费者运营",
+      "quantitative_info": null,
+      "quote": "...消费者运营系统‘数据磨坊’..."
+    },
+    {
+      "name": "青灵AI",
+      "asset_type": "technical_platform",
+      "related_product": "AI数据中台",
+      "quantitative_info": null,
+      "quote": "公司自研了AI数据中台‘青灵AI’..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "24.47%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 24.47%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "30.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 30.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "电商平台依赖风险。目前，公司代运营业务的服务平台主要集中在天猫、京东、抖音等大型电商平台，如未来电商市场格局发生重大变化，可能对公司业绩发生不利影响。",
+      "related_entity": "天猫、京东、抖音",
+      "related_product": "电商代运营服务",
+      "quote": "（1）电商平台依赖风险。目前，公司代运营业务的服务平台主要集中在天猫、京东、抖音等大型电商平台，如未来电商市场格局发生重大变化，可能对公司业绩发生不利影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "品牌商合作风险。如果未来公司不能达到品牌商的预期，或品牌商调整经营策略，从而导致品牌商与公司终止合作，或结束部分业务的合作，将对公司业务造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）品牌商合作风险。公司与品牌商建立的运营服务或经销业务合作关系，如果未来公司不能达到品牌商的预期，或品牌商调整经营策略，从而导致品牌商与公司终止合作，或结束部分业务的合作，将对公司业务造成不利影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "受品牌销售表现影响的风险。公司的主要收入与合作品牌的实际销售情况高度挂钩。公司对合作品牌商自身的经营情况、营销费用投入水平、产品设计和商品质量等缺乏直接控制能力。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）受品牌销售表现影响的风险。目前，公司的主要收入与合作品牌的实际销售情况高度挂钩。由于公司对合作品牌商自身的经营情况、营销费用投入水平、产品设计和商品质量等缺乏直接控制能力..."
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易风险。公司开展的业务中，国际采购及国际销售业务的占比在逐步增加，可能受到包括供应链、关税、国际物流等方面的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）国际贸易风险。公司开展的业务中，国际采购及国际销售业务的占比在逐步增加，可能受到包括供应链、关税、国际物流等方面的影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价风险。公司存货主要系渠道分销、电商渠道零售业务的库存备货。如果公司不能及时把控品牌销售动向，对商品未来销售做出错误预判，或者品牌合作关系发生变动，都可能导致存货积压。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）存货跌价风险。公司存货主要系渠道分销、电商渠道零售业务的库存备货。...如果公司不能及时把控品牌销售动向，对商品未来销售做出错误预判，或者品牌合作关系发生变动，都可能导致存货积压..."
+    },
+    {
+      "risk_type": "other",
+      "description": "应收账款回款风险。随着公司经营规模扩大，应收账款增加，如公司采取的收款措施不力或品牌商客户还款能力下降，可能增加公司的坏账风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）应收账款回款风险。随着公司经营规模扩大，应收账款增加，如公司采取的收款措施不力或品牌商客户还款能力下降，可能增加公司的坏账风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动风险。公司开展的业务中，国际采购及国际销售业务的占比在逐步增加，采购成本和销售收入可能受到汇率波动的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）汇率波动风险。公司开展的业务中，国际采购及国际销售业务的占比在逐步增加，采购成本和销售收入可能受到汇率波动的影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术风险。近年来，AI等新技术的高速发展，对不同行业造成了不同程度的促进作用或负面影响，虽然公司积极关注AI等新技术的发展，并积极在本公司应用相关新技术，但如果未来公司不能准确把握技术、行业及市场趋势，开发符合电子商务行业运营模式的新产品、新工具，将可能导致公司在新技术下的行业竞争中处于落后地位。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、技术风险。近年来，AI等新技术的高速发展...如果未来公司不能准确把握技术、行业及市场趋势，开发符合电子商务行业运营模式的新产品、新工具，将可能导致公司在新技术下的行业竞争中处于落后地位。"
+    }
+  ]
+}

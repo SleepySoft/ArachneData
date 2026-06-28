@@ -1,0 +1,567 @@
+{
+  "company_name_mentioned": "江苏斯迪克新材料科技股份有限公司",
+  "produces": [
+    {
+      "name": "功能性薄膜材料",
+      "type": "material",
+      "revenue_proportion": "17.12%",
+      "quote": "分产品 功能性薄膜材料 516,292,931.35 17.12%"
+    },
+    {
+      "name": "电子级胶粘材料",
+      "type": "material",
+      "revenue_proportion": "51.78%",
+      "quote": "分产品 电子级胶粘材料 1,561,388,585.61 51.78%"
+    },
+    {
+      "name": "薄膜包装材料",
+      "type": "material",
+      "revenue_proportion": "16.34%",
+      "quote": "分产品 薄膜包装材料 492,899,034.98 16.34%"
+    },
+    {
+      "name": "热管理复合材料",
+      "type": "material",
+      "revenue_proportion": "1.31%",
+      "quote": "分产品 热管理复合材料 39,445,201.79 1.31%"
+    },
+    {
+      "name": "高分子薄膜材料",
+      "type": "material",
+      "revenue_proportion": "7.32%",
+      "quote": "分产品 高分子薄膜材料 220,630,520.51 7.32%"
+    },
+    {
+      "name": "PET基材",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司布局‘PET 基膜-离型膜-胶水-功能涂层材料’全产业链一体化，光学级 PET 基材可广泛应用于光学级压敏胶制品、精密离型膜、感光干膜等产品。"
+    },
+    {
+      "name": "胶粘剂",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "目前已实现胶水、离型膜等部分高端原材料的自主生产，可满足自身核心生产需求。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "PET粒子",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为 PET 粒子、PET 膜、BOPP 膜、丙烯酸丁酯、硅胶等。"
+    },
+    {
+      "name": "PET膜",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为 PET 粒子、PET 膜、BOPP 膜、丙烯酸丁酯、硅胶等。"
+    },
+    {
+      "name": "BOPP膜",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为 PET 粒子、PET 膜、BOPP 膜、丙烯酸丁酯、硅胶等。"
+    },
+    {
+      "name": "丙烯酸丁酯",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为 PET 粒子、PET 膜、BOPP 膜、丙烯酸丁酯、硅胶等。"
+    },
+    {
+      "name": "硅胶",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司产品的主要原材料为 PET 粒子、PET 膜、BOPP 膜、丙烯酸丁酯、硅胶等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "光学",
+      "source_product": "OCA光学胶、OCA防爆膜、抗冲保护膜、支撑膜等电子级胶粘材料",
+      "quote": "产品主要应用于光学、新能源汽车、微电子等市场，以实现智能手机、平板电脑、笔记本电脑、可穿戴设备、汽车电子等产品各功能模块或部件之间粘接、保护、防干扰、导热、散热、防尘、绝缘、导电、标识等功能。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "新能源汽车电子用材料",
+      "quote": "产品主要应用于光学、新能源汽车、微电子等市场。"
+    },
+    {
+      "name": "微电子",
+      "source_product": "感光干膜、MLCC离型膜",
+      "quote": "产品主要应用于光学、新能源汽车、微电子等市场。"
+    },
+    {
+      "name": "智能手机",
+      "source_product": "抗油渍、防指纹保护膜、防眩光保护材料、OCA光学胶等",
+      "quote": "应用场景：手机、电脑、数控面板等各种光学显示装置的表面保护。"
+    },
+    {
+      "name": "平板电脑、笔记本电脑",
+      "source_product": "高透抗刮保护膜、抗静电保护膜、OCA光学胶等",
+      "quote": "应用场景：手机、电脑、家电的出货保护膜、制造过程中零部件的保护膜。"
+    },
+    {
+      "name": "可穿戴设备",
+      "source_product": "相关功能性材料",
+      "quote": "产品主要应用于...可穿戴设备...等市场。"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "车载2A膜、车载3A膜、热活化双面胶带等",
+      "quote": "应用场景：车载中控及娱乐屏使用。"
+    },
+    {
+      "name": "家用电器",
+      "source_product": "相关保护膜、胶粘材料",
+      "quote": "广泛应用于消费电子、新型显示、新能源汽车、家用电器、陶瓷电容等重点领域。"
+    },
+    {
+      "name": "陶瓷电容（MLCC）",
+      "source_product": "MLCC离型膜",
+      "quote": "应用场景：主要应用于 MLCC（片式陶瓷电容）的生产。"
+    },
+    {
+      "name": "PCB制造",
+      "source_product": "感光干膜",
+      "quote": "应用场景：应用在 UV 和 LDI 曝光机上PCB外层蚀刻和电镀制程。"
+    },
+    {
+      "name": "商业包装",
+      "source_product": "BOPP压敏胶带",
+      "quote": "此外，公司还有部分产品应用于商业包装领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "金闯",
+      "role": "董事长、总经理、法定代表人",
+      "quote": "公司负责人金闯、主管会计工作负责人吴江及会计机构负责人(会计主管人员)吴江声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "施蓉",
+      "role": "董事",
+      "quote": "姓名 性别 年龄 职务 任职状态 金闯 男 47 董事长、总经理 现任 施蓉 女 51 董事 现任"
+    },
+    {
+      "name": "吴江",
+      "role": "职工代表董事、财务总监、董事会秘书",
+      "quote": "姓名 性别 年龄 职务 任职状态...吴江 男 50 职工代表董事、财务总监、董事会秘书 现任"
+    },
+    {
+      "name": "杨比",
+      "role": "董事、副总经理",
+      "quote": "姓名 性别 年龄 职务 任职状态...杨比 女 45 董事、副总经理 现任"
+    },
+    {
+      "name": "蒋晓明",
+      "role": "董事",
+      "quote": "姓名 性别 年龄 职务 任职状态...蒋晓明 男 52 董事 现任"
+    },
+    {
+      "name": "陈锋",
+      "role": "董事、副总经理",
+      "quote": "姓名 性别 年龄 职务 任职状态...陈锋 男 42 董事、副总经理 现任"
+    },
+    {
+      "name": "王超",
+      "role": "副总经理",
+      "quote": "姓名 性别 年龄 职务 任职状态...王超 女 36 副总经理 现任"
+    },
+    {
+      "name": "姜章健",
+      "role": "副总经理",
+      "quote": "姓名 性别 年龄 职务 任职状态...姜章健 男 44 副总经理 现任"
+    },
+    {
+      "name": "马卫东",
+      "role": "独立董事",
+      "quote": "姓名 性别 年龄 职务 任职状态...马卫东 男 51 独立董事 现任"
+    },
+    {
+      "name": "杨森",
+      "role": "独立董事",
+      "quote": "姓名 性别 年龄 职务 任职状态...杨森 男 45 独立董事 现任"
+    },
+    {
+      "name": "尹维达",
+      "role": "独立董事",
+      "quote": "姓名 性别 年龄 职务 任职状态...尹维达 男 53 独立董事 现任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "太仓斯迪克新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "太仓斯迪克 指 太仓斯迪克新材料科技有限公司，为公司子公司"
+    },
+    {
+      "name": "斯迪克新型材料（江苏）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "斯迪克泗洪 指 斯迪克新型材料（江苏）有限公司，为公司子公司"
+    },
+    {
+      "name": "斯迪克新材料（美国）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "斯迪克美国 指 斯迪克新材料（美国）有限公司，为公司子公司"
+    },
+    {
+      "name": "斯迪克新材料（日本）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "斯迪克日本 指 斯迪克新材料（日本）有限公司，为公司子公司"
+    },
+    {
+      "name": "斯迪克新材料（韩国）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "斯迪克韩国 指 斯迪克新材料（韩国）有限公司，为公司子公司"
+    },
+    {
+      "name": "斯迪克越南新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "斯迪克越南 指 斯迪克越南新材料有限公司，为公司子公司"
+    },
+    {
+      "name": "常州共跃星辰新材料科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "2025年8月，公司新设全资子公司常州共跃星辰新材料科技有限公司，自设立之日起纳入公司合并财务报表。"
+    },
+    {
+      "name": "重庆斯迪克光电材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "金闯先生...同时兼任公司下属子公司...重庆斯迪克光电材料有限公司执行董事兼总经理。"
+    },
+    {
+      "name": "江苏然创新材料股份有限公司",
+      "relation_type": "investor",
+      "business_details": "联营企业，涉及采购泡棉、硅胶制品、动能等产品及销售薄膜、胶带等产品",
+      "quote": "关联关系 联营企业；关联交易内容 采购商品；关联交易价格 市场定价"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "主营业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,830,656,274.24元",
+      "revenue_proportion": "93.87%",
+      "gross_margin": "22.33%",
+      "yoy_change": "9.08%",
+      "quote": "分行业 主营业务 2,830,656,274.24 93.87%"
+    },
+    {
+      "name": "电子级胶粘材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,561,388,585.61元",
+      "revenue_proportion": "51.78%",
+      "gross_margin": "37.89%",
+      "yoy_change": "9.61%",
+      "quote": "分产品 电子级胶粘材料 1,561,388,585.61 51.78%"
+    },
+    {
+      "name": "功能性薄膜材料",
+      "segment_type": "product_line",
+      "revenue_amount": "516,292,931.35元",
+      "revenue_proportion": "17.12%",
+      "gross_margin": "13.88%",
+      "yoy_change": "-0.23%",
+      "quote": "分产品 功能性薄膜材料 516,292,931.35 17.12%"
+    },
+    {
+      "name": "薄膜包装材料",
+      "segment_type": "product_line",
+      "revenue_amount": "492,899,034.98元",
+      "revenue_proportion": "16.34%",
+      "gross_margin": "-0.24%",
+      "yoy_change": "4.80%",
+      "quote": "分产品 薄膜包装材料 492,899,034.98 16.34%"
+    },
+    {
+      "name": "高分子薄膜材料",
+      "segment_type": "product_line",
+      "revenue_amount": "220,630,520.51元",
+      "revenue_proportion": "7.32%",
+      "gross_margin": null,
+      "yoy_change": "56.65%",
+      "quote": "分产品 高分子薄膜材料 220,630,520.51 7.32%"
+    },
+    {
+      "name": "热管理复合材料",
+      "segment_type": "product_line",
+      "revenue_amount": "39,445,201.79元",
+      "revenue_proportion": "1.31%",
+      "gross_margin": null,
+      "yoy_change": "-5.54%",
+      "quote": "分产品 热管理复合材料 39,445,201.79 1.31%"
+    },
+    {
+      "name": "中国大陆地区",
+      "segment_type": "region",
+      "revenue_amount": "2,758,402,786.31元",
+      "revenue_proportion": "91.47%",
+      "gross_margin": "22.76%",
+      "yoy_change": "10.43%",
+      "quote": "分地区 中国大陆地区 2,758,402,786.31 91.47%"
+    },
+    {
+      "name": "境外（含港澳台地区）",
+      "segment_type": "region",
+      "revenue_amount": "257,192,928.41元",
+      "revenue_proportion": "8.53%",
+      "gross_margin": null,
+      "yoy_change": "33.50%",
+      "quote": "分地区 境外（含港澳台地区） 257,192,928.41 8.53%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,844,192,412.43元",
+      "revenue_proportion": "94.32%",
+      "gross_margin": "22.07%",
+      "yoy_change": "15.34%",
+      "quote": "分销售模式 直销 2,844,192,412.43 94.32%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "171,403,302.29元",
+      "revenue_proportion": "5.68%",
+      "gross_margin": null,
+      "yoy_change": "-23.67%",
+      "quote": "分销售模式 经销 171,403,302.29 5.68%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "功能性薄膜材料及电子级胶粘材料",
+      "metric_type": "sales_volume",
+      "value": "533,821,352.51平方米",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 功能性薄膜材料及电子级胶粘材料 销售量 平方米 533,821,352.51"
+    },
+    {
+      "product": "功能性薄膜材料及电子级胶粘材料",
+      "metric_type": "production_volume",
+      "value": "638,197,363.56平方米",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 功能性薄膜材料及电子级胶粘材料 生产量 平方米 638,197,363.56"
+    },
+    {
+      "product": "功能性薄膜材料及电子级胶粘材料",
+      "metric_type": "inventory_volume",
+      "value": "43,410,666.07平方米",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 功能性薄膜材料及电子级胶粘材料 库存量 平方米 43,410,666.07"
+    },
+    {
+      "product": "热管理复合材料",
+      "metric_type": "sales_volume",
+      "value": "1,965,072.66平方米",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 热管理复合材料 销售量 平方米 1,965,072.66"
+    },
+    {
+      "product": "热管理复合材料",
+      "metric_type": "production_volume",
+      "value": "2,047,940.12平方米",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 热管理复合材料 生产量 平方米 2,047,940.12"
+    },
+    {
+      "product": "热管理复合材料",
+      "metric_type": "inventory_volume",
+      "value": "111,521.55平方米",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 热管理复合材料 库存量 平方米 111,521.55"
+    },
+    {
+      "product": "薄膜包装材料",
+      "metric_type": "sales_volume",
+      "value": "53,220,966.56公斤",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 薄膜包装材料 销售量 公斤 53,220,966.56"
+    },
+    {
+      "product": "薄膜包装材料",
+      "metric_type": "production_volume",
+      "value": "53,802,341.38公斤",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 薄膜包装材料 生产量 公斤 53,802,341.38"
+    },
+    {
+      "product": "薄膜包装材料",
+      "metric_type": "inventory_volume",
+      "value": "1,420,963.10公斤",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 薄膜包装材料 库存量 公斤 1,420,963.10"
+    },
+    {
+      "product": "高分子薄膜材料",
+      "metric_type": "sales_volume",
+      "value": "25,461,160.84公斤",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 高分子薄膜材料 销售量 公斤 25,461,160.84"
+    },
+    {
+      "product": "高分子薄膜材料",
+      "metric_type": "production_volume",
+      "value": "47,358,706.11公斤",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 高分子薄膜材料 生产量 公斤 47,358,706.11"
+    },
+    {
+      "product": "高分子薄膜材料",
+      "metric_type": "inventory_volume",
+      "value": "5,225,403.62公斤",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 2024年 同比增减 高分子薄膜材料 库存量 公斤 5,225,403.62"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "BOPP胶带涂布线技术改造项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "283,600.00元",
+      "designed_capacity": null,
+      "progress": "项目尚在建设中，进度78.00%",
+      "expected_completion_time": null,
+      "quote": "BOPP胶带涂布线技术改造项目 本报告期投入金额 283,600.00 截至报告期末累计实际投入金额 48,248,700.00 项目进度 78.00%"
+    },
+    {
+      "name": "功能性胶带项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "26,930,359.97元",
+      "designed_capacity": null,
+      "progress": "项目尚在建设中，进度70.00%",
+      "expected_completion_time": null,
+      "quote": "功能性胶带项目 本报告期投入金额 26,930,359.97 截至报告期末累计实际投入金额 208,742,635.46 项目进度 70.00%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月31日，公司及其子公司已获得授权专利279件（剔除授权后过期的专利），其中发明专利234件。",
+      "quote": "截至 2025 年 12 月31日，公司及其子公司已获得授权专利279件（剔除授权后过期的专利），其中发明专利234件。"
+    },
+    {
+      "name": "参与起草国家标准和行业标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "公司主导并参与起草了8项国家标准和5项行业标准。",
+      "quote": "公司主导并参与起草了8项国家标准和 5 项行业标准。"
+    },
+    {
+      "name": "精密涂布技术",
+      "asset_type": "core_technology",
+      "related_product": "功能性涂层复合材料",
+      "quantitative_info": null,
+      "quote": "经过多年的技术探索和经验积累，公司掌握了先进的精密涂布技术。"
+    },
+    {
+      "name": "高分子材料聚合、涂层配方优化、功能结构设计",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司在高分子材料聚合、涂层配方优化、功能结构设计、精密涂布以及新技术产业化应用等方面具有成熟的经验和领先的技术。"
+    },
+    {
+      "name": "CNAS自主检测中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "依托‘胶水/基膜—离型膜—成品膜—贴合膜组—CNAS 自主检测’的一体化产业链体系。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28.40%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 28.40%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "33.52%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 33.52%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "11.31%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 341,115,138.90 11.31%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "12.47%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 235,976,024.44 12.47%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "消费电子市场环境变化的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）消费电子市场环境变化的风险 公司主营业务聚焦功能性涂层复合材料的研发、生产与销售，产品在消费电子行业应用广泛，经营状况与消费电子行业发展高度联动。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新产品开发失败风险",
+      "related_entity": null,
+      "related_product": "新产品",
+      "quote": "（2）新产品开发失败风险 持续的新产品开发与较强的产业化能力是公司快速发展的核心支撑。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "新产品认证时间不及预期风险",
+      "related_entity": null,
+      "related_product": "新产品",
+      "quote": "（3）新产品认证时间不及预期风险 功能性涂层复合材料是消费电子、新能源汽车电子、PCB、MLCC 等终端产品的核心原材料，其性能与品质直接决定终端产品质量，因此终端客户对供应商的资格认证要求极为严格，认证周期通常为6-12个月，部分核心功能材料认证周期超过 1 年。"
+    },
+    {
+      "risk_type": "other",
+      "description": "新项目投产后产能消化风险",
+      "related_entity": null,
+      "related_product": "新增产能",
+      "quote": "（4）新项目投产后产能消化风险 近两年，公司功能性薄膜、电子级胶粘材料及核心原材料相关重大建设项目陆续完工，产能大幅提升，同时折旧费用、财务费用、人工费用也随之大幅增加。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料供应及价格波动风险",
+      "related_entity": null,
+      "related_product": "PET膜、BOPP膜、PI膜、丙烯酸丁酯、硅胶等",
+      "quote": "（5）原材料供应及价格波动风险 公司主要原材料（PET 膜、BOPP 膜、PI 膜、丙烯酸丁酯、硅胶等）均为石油行业下游产品，其价格波动将直接影响公司采购成本与经营收益。"
+    },
+    {
+      "risk_type": "other",
+      "description": "管理风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（6）管理风险 随着公司快速发展，品牌影响力、业务规模及资产规模持续扩大，技术人员、管理人员数量大幅增长，公司已建立完善的法人治理结构及相关规章制度。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "经营季节性波动风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（7）经营季节性波动风险 公司较多产品应用于消费电子行业，而消费电子厂商多在三季度推出新产品，且国庆节、圣诞节、元旦、春节等节日为终端产品销售旺季，终端厂商通常会提前生产、铺货，导致公司销售收入呈现季节性波动。"
+    }
+  ]
+}

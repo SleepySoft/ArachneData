@@ -1,0 +1,331 @@
+{
+  "company_name_mentioned": "大秦铁路股份有限公司",
+  "produces": [
+    {
+      "name": "铁路货运服务",
+      "type": "service",
+      "revenue_proportion": "占公司主营业务收入的71.09%",
+      "quote": "公司主要经营铁路货、客运输业务...铁路货运业务是公司业务收入的主要来源，2025年铁路货运收入占公司主营业务收入的71.09%。"
+    },
+    {
+      "name": "铁路客运服务",
+      "type": "service",
+      "revenue_proportion": "占公司主营业务收入的13.65%",
+      "quote": "铁路客运业务是公司重要的业务组成部分...2025年铁路客运收入占公司主营业务收入的13.65%。"
+    },
+    {
+      "name": "其他铁路运输服务（机车牵引、货车使用等）",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司同时向国内其他铁路运输企业提供服务，主要包括机车牵引、货车使用、线路使用、货车修理等..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "货车使用费",
+      "target_product": null,
+      "cost_proportion": "占主营业务成本比例4.58%",
+      "quote": "货车使用费 3,251,613,829 4.58"
+    },
+    {
+      "name": "机客车租赁费",
+      "target_product": null,
+      "cost_proportion": "占主营业务成本比例2.68%",
+      "quote": "机客车租赁费 1,901,471,768 2.68"
+    },
+    {
+      "name": "电力及燃料",
+      "target_product": null,
+      "cost_proportion": "占主营业务成本比例4.37%",
+      "quote": "电力及燃料 3,100,510,062 4.37"
+    },
+    {
+      "name": "材料",
+      "target_product": null,
+      "cost_proportion": "占主营业务成本比例1.63%",
+      "quote": "材料 1,156,059,052 1.63"
+    },
+    {
+      "name": "付费支出（含货运服务费、客运服务费等）",
+      "target_product": null,
+      "cost_proportion": "占主营业务成本比例35.15%",
+      "quote": "付费支出 24,942,092,564 35.15"
+    }
+  ],
+  "applications": [
+    {
+      "name": "煤炭外运（动力煤为主）",
+      "source_product": "铁路货运服务",
+      "quote": "公司运输的货品以动力煤为主，主要承担晋、蒙、陕等省区的煤炭外运任务。"
+    },
+    {
+      "name": "其他大宗货物（焦炭、钢铁、矿石等）运输",
+      "source_product": "铁路货运服务",
+      "quote": "运输的其他货品还包括焦炭、钢铁、矿石等大宗货物，以及集装箱、零散批量货物。"
+    },
+    {
+      "name": "全国客运（通达全国大部分省市区）",
+      "source_product": "铁路客运服务",
+      "quote": "公司担当开行多列以太原、大同等地为始发终到的旅客列车，通达全国大部分省市区..."
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "陆勇",
+      "role": "董事长",
+      "quote": "公司负责人陆勇、总经理张竑毅、主管会计工作负责人裴丽群及会计机构负责人（会计主管人员）孔韶鹏声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张竑毅",
+      "role": "董事、总经理",
+      "quote": "公司负责人陆勇、总经理张竑毅..."
+    },
+    {
+      "name": "裴丽群",
+      "role": "总会计师",
+      "quote": "公司负责人陆勇、总经理张竑毅、主管会计工作负责人裴丽群..."
+    },
+    {
+      "name": "张利荣",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "姓名 张利荣 丁一...联系地址 山西省太原市建设北路202号..."
+    },
+    {
+      "name": "孔韶鹏",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "...会计机构负责人（会计主管人员）孔韶鹏声明：..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国铁路太原局集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东。公司于2025年8月就推进完成可转换债券土地募投项目资产交割工作，与太原局集团公司重新签订了《国有授权经营土地使用权转让协议》，交易总价款（含税）为2,569,993.98万元。",
+      "quote": "控股股东情况...名称 中国铁路太原局集团有限公司"
+    },
+    {
+      "name": "中国国家铁路集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "实际控制人。公司执行国家、行业制定的运价政策，与国铁集团有业务往来和采购关系。",
+      "quote": "实际控制人情况...名称 中国国家铁路集团有限公司"
+    },
+    {
+      "name": "唐港铁路有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，主要业务为铁路运输及铁路运输服务等。",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况...唐港公司 子公司"
+    },
+    {
+      "name": "国能朔黄铁路发展有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，公司持有其股份。本年朔黄铁路实现营业收入23,060,953,057元，归属于母公司净利润6,513,853,058元，公司收到朔黄铁路现金股利2,433,551,412元。",
+      "quote": "其他主要参股公司情况...朔黄铁路 铁路货物运输等...本年朔黄铁路实现营业收入23,060,953,057元..."
+    },
+    {
+      "name": "浩吉铁路股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股公司，公司持有其10%股份。",
+      "quote": "其他主要参股公司情况...浩吉铁路 铁路货物运输等...权益比例（%） 10"
+    },
+    {
+      "name": "秦皇岛港股份有限公司",
+      "relation_type": "customer",
+      "business_details": "公司持有其0.77%的股份，该公司主营港口装卸、仓储、运输和计量服务等。",
+      "quote": "报告期内，公司持有A+H上市公司——秦港股份（股票代码：03369.HK、601326.SH）0.77%的股份...秦港股份 港口装卸、仓储、运输和计量服务等..."
+    },
+    {
+      "name": "晋能控股煤业集团有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一。",
+      "quote": "前五名客户分别为：...晋能控股煤业集团有限公司..."
+    },
+    {
+      "name": "中煤平朔集团有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一。",
+      "quote": "前五名客户分别为：...中煤平朔集团有限公司..."
+    },
+    {
+      "name": "中国神华能源股份有限公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一。",
+      "quote": "前五名客户分别为：...中国神华能源股份有限公司..."
+    },
+    {
+      "name": "山西焦煤集团有限责任公司",
+      "relation_type": "customer",
+      "business_details": "前五名客户之一。",
+      "quote": "前五名客户分别为：...山西焦煤集团有限责任公司。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "铁路运输",
+      "segment_type": "product_line",
+      "revenue_amount": "76,409,490,504元",
+      "revenue_proportion": null,
+      "gross_margin": "8.13%",
+      "yoy_change": "营业收入比上年增减4.2%",
+      "quote": "分行业 营业收入 营业成本 毛利率（%）...铁路运输 76,409,490,504 70,193,644,077 8.13 4.2"
+    },
+    {
+      "name": "货运业务",
+      "segment_type": "product_line",
+      "revenue_amount": "54,321,785,789元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "营业收入比上年增减1.65%",
+      "quote": "分产品 营业收入 营业成本 毛利率（%）...货运业务 54,321,785,789 - - 1.65"
+    },
+    {
+      "name": "客运业务",
+      "segment_type": "product_line",
+      "revenue_amount": "10,431,258,204元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "营业收入比上年增减4.21%",
+      "quote": "分产品 营业收入 营业成本 毛利率（%）...客运业务 10,431,258,204 - - 4.21"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "product_line",
+      "revenue_amount": "11,656,446,511元",
+      "revenue_proportion": null,
+      "gross_margin": null,
+      "yoy_change": "营业收入比上年增减17.98%",
+      "quote": "分产品 营业收入 营业成本 毛利率（%）...其他业务 11,656,446,511 - - 17.98"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "货物",
+      "metric_type": "production_volume",
+      "value": "68,073万吨",
+      "period": "2025年度",
+      "quote": "2025年 2024年 变动比例...货物发送量（万吨） 68,073 70,622 -3.6%"
+    },
+    {
+      "product": "煤炭",
+      "metric_type": "production_volume",
+      "value": "54,884万吨",
+      "period": "2025年度",
+      "quote": "2025年 2024年 变动比例...其中：煤炭（万吨） 54,884 58,907 -6.8%"
+    },
+    {
+      "product": "旅客",
+      "metric_type": "production_volume",
+      "value": "4,708万人",
+      "period": "2025年度",
+      "quote": "2025年 2024年 变动比例...旅客发送量（万人） 4,708 4,641 1.5%"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "3,750亿吨公里",
+      "period": "2025年度",
+      "quote": "2025年 2024年 变动比例...换算周转量（亿吨公里） 3,750 3,685 1.8%"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "日均装车29,393车，日均卸车24,275车",
+      "period": "2025年度",
+      "quote": "日均装车29,393车，日均卸车24,275车"
+    },
+    {
+      "product": "大秦线",
+      "metric_type": "production_volume",
+      "value": "39,004万吨",
+      "period": "2025年度",
+      "quote": "核心经营资产大秦线完成货运量39,004万吨，同比下降0.5%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "收购中国铁路太原局集团有限公司国有授权经营土地使用权",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "2,569,993.98万元（含税）",
+      "designed_capacity": null,
+      "progress": "项目已完成，募集资金已按规定用途使用完毕。",
+      "expected_completion_time": "2025年10月9日完成支付",
+      "quote": "公司于2025年10月9日支付‘收购中国铁路太原局集团有限公司国有授权经营土地使用权’项目总价款，募集资金已按规定用途使用完毕。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "铁路煤炭重载运输技术体系",
+      "asset_type": "core_technology",
+      "related_product": "货运业务（特别是大秦线）",
+      "quantitative_info": "实现2万吨重载列车常态化开行，完成了3万吨重载列车运行试验",
+      "quote": "公司拥有成熟、先进、可靠的铁路煤炭重载运输技术体系，所辖大秦线是具有世界先进水平、年运量最大的现代化专用煤炭运输线路，应用重载运输成套技术体系，配置性能先进的机车、车辆等设备，实现2万吨重载列车常态化开行，完成了3万吨重载列车运行试验。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "2,970,921万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额2,970,921万元，占年度销售总额38.26%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "3,455,309万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额3,455,309万元，占年度采购总额75.92%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "3,198,994万元",
+      "related_entity": "中国国家铁路集团有限公司及其下属单位",
+      "period": "2025年度",
+      "quote": "序号 供应商名称 采购额 占年度采购总额比例（%）1 中国国家铁路集团有限公司及其下属单位 3,198,994 70.29"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "报告期内，来自前五大客户的销售额合计占公司全年销售总额的38.26%。如果这些主要客户的产量下降，或对铁路煤炭运输的需求下降，公司的业务经营将可能受到不利影响。",
+      "related_entity": null,
+      "related_product": "货运业务",
+      "quote": "1. 对主要客户依赖的风险：报告期内，来自前五大客户的销售额合计占公司全年销售总额的38.26%。如果这些主要客户的产量下降，或对铁路煤炭运输的需求下降，公司的业务经营将可能受到不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "资源类大宗货物是目前公司业务收入的主要来源，资源类大宗货物的市场供需受宏观经济走势、能源结构调整优化、环保政策变化等因素影响较大，可能对公司运输业务产生影响。",
+      "related_entity": null,
+      "related_product": "货运业务",
+      "quote": "2. 业务经营风险：资源类大宗货物是目前公司业务收入的主要来源，资源类大宗货物的市场供需受宏观经济走势、能源结构调整优化、环保政策变化等因素影响较大，可能对公司运输业务产生影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着相近地域铁路煤运通道运输能力逐步提升，或未来路网规划新的煤运通道，区域铁路运输环境发生变化，将对公司运输经营产生一定影响。",
+      "related_entity": null,
+      "related_product": "货运业务",
+      "quote": "4. 其他铁路线路竞争的风险：随着相近地域铁路煤运通道运输能力逐步提升，或未来路网规划新的煤运通道，区域铁路运输环境发生变化，将对公司运输经营产生一定影响。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "铁路运输具有全天候、运量大、全网联动等特点，在经营过程中存在发生列车相撞、出轨、颠覆、人身伤亡、货物破损、线路损坏等事故的风险...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5. 铁路运输事故的风险：铁路运输具有全天候、运量大、全网联动等特点，在经营过程中存在发生列车相撞、出轨、颠覆、人身伤亡、货物破损、线路损坏等事故的风险..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司运营过程中，铁路设施可能遭受诸如地震、洪水、恶劣气候等自然灾害的严重影响，可能造成铁路运输大面积中断...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "6. 自然灾害的风险：公司运营过程中，铁路设施可能遭受诸如地震、洪水、恶劣气候等自然灾害的严重影响，可能造成铁路运输大面积中断..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "进口煤炭持续冲击。2025年进口煤虽有下降但仍居高位，全年煤炭进口4.9亿吨。公司运送动力煤的下游客户主要在沿海沿江地区，与进口煤炭覆盖区域重叠，对公司货运线路特别是大秦线铁水联运煤炭需求形成替代...",
+      "related_entity": null,
+      "related_product": "货运业务",
+      "quote": "二是进口煤炭持续冲击。2025年进口煤虽有下降但仍居高位，全年煤炭进口4.9亿吨。公司运送动力煤的下游客户主要在沿海沿江地区，与进口煤炭覆盖区域重叠，对公司货运线路特别是大秦线铁水联运煤炭需求形成替代..."
+    }
+  ]
+}

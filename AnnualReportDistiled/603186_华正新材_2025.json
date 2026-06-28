@@ -1,0 +1,484 @@
+{
+  "company_name_mentioned": "浙江华正新材料股份有限公司",
+  "produces": [
+    {
+      "name": "覆铜板（CCL）",
+      "type": "material",
+      "revenue_proportion": "79.12%",
+      "quote": "报告期内，公司覆铜板业务...实现了覆铜板整体业务的有效增长。...覆铜板 3,375,166,555.67 ... 9.07 ... 12.32 ... 9.60 ... 增加2.25个百分点"
+    },
+    {
+      "name": "导热材料",
+      "type": "material",
+      "revenue_proportion": "6.86%",
+      "quote": "导热材料 293,706,086.68 ... 27.27 ... 14.31 ... 1.62 ... 增加9.08个百分点"
+    },
+    {
+      "name": "功能性复合材料",
+      "type": "material",
+      "revenue_proportion": "3.98%",
+      "quote": "功能性复合材料 169,608,970.40 ... 28.66 ... 2.09 ... -0.60 ... 增加1.93个百分点"
+    },
+    {
+      "name": "交通物流用复合材料",
+      "type": "material",
+      "revenue_proportion": "8.82%",
+      "quote": "交通物流用复合材料 377,343,534.88 ... 18.32 ... 27.11 ... 24.98 ... 增加1.40个百分点"
+    },
+    {
+      "name": "其他材料",
+      "type": "material",
+      "revenue_proportion": "1.15%",
+      "quote": "其他材料 49,276,925.86 ... -41.82 ... -7.67 ... -12.86 ... 增加8.44个百分点"
+    },
+    {
+      "name": "BT封装材料",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司半导体封装基板材料包括BT封装材料和CBF积层绝缘膜...BT封装材料在Mini&Micro LED、Memory（Flash、DRAM）、RF PA、MEMS、CPU/GPU等算力芯片、PMIC、VCM音圈马达等应用场景。"
+    },
+    {
+      "name": "CBF积层绝缘膜",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "CBF积层绝缘膜是公司近年来重点研发的半导体封装材料...可应用于CPU/GPU等算力芯片、VCM音圈马达、PMIC等芯片的半导体封装。"
+    },
+    {
+      "name": "铝塑膜",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司的铝塑膜产品，主要应用于软包锂电池的电芯封装...目前已在小动力储能领域批量稳定交付，...拓展产品在高端消费电子领域的市场。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "铜箔",
+      "target_product": "覆铜板",
+      "cost_proportion": null,
+      "quote": "主要原材料为铜箔、玻璃纤维布、树脂等。"
+    },
+    {
+      "name": "玻璃纤维布",
+      "target_product": "覆铜板",
+      "cost_proportion": null,
+      "quote": "主要原材料为铜箔、玻璃纤维布、树脂等。"
+    },
+    {
+      "name": "树脂",
+      "target_product": "覆铜板、复合材料",
+      "cost_proportion": null,
+      "quote": "主要原材料为铜箔、玻璃纤维布、树脂等。"
+    },
+    {
+      "name": "聚丙烯树脂",
+      "target_product": "交通物流用复合材料",
+      "cost_proportion": null,
+      "quote": "交通物流用复合材料是以聚丙烯树脂为原料，..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "5G通讯",
+      "source_product": "覆铜板（CCL）",
+      "quote": "产品广泛应用于5G通讯、服务器、数据中心、半导体封装、新能源汽车、智慧家电、医疗设备、轨道交通、绿色物流等领域。"
+    },
+    {
+      "name": "服务器",
+      "source_product": "覆铜板（CCL）",
+      "quote": "公司不断推进产品在通信领域的战略布局与市场拓展，重点围绕AI服务器、交换机、光模块及天线等关键市场领域。"
+    },
+    {
+      "name": "数据中心",
+      "source_product": "覆铜板（CCL）",
+      "quote": "产品广泛应用于5G通讯、服务器、数据中心、半导体封装、新能源汽车、智慧家电、医疗设备、轨道交通、绿色物流等领域。"
+    },
+    {
+      "name": "半导体封装",
+      "source_product": "BT封装材料、CBF积层绝缘膜",
+      "quote": "公司半导体封装基板材料包括BT封装材料和CBF积层绝缘膜，适用于半导体先进封装工艺。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "覆铜板（CCL）、交通物流用复合材料",
+      "quote": "公司持续深化产品在汽车电子领域的战略布局...交通物流用热塑性蜂窝材料...广泛应用于新能源汽车...等领域。"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "功能性复合材料",
+      "quote": "功能性复合材料...已广泛应用于多款旗舰手机、平板、电脑等消费电子终端产品的内部结构件和后盖。"
+    },
+    {
+      "name": "医疗设备",
+      "source_product": "功能性复合材料",
+      "quote": "功能性复合材料在CT、核磁共振等医疗设备领域实现常规部件稳定交付..."
+    },
+    {
+      "name": "智慧家电",
+      "source_product": "覆铜板（CCL）",
+      "quote": "产品广泛应用于5G通讯、服务器、数据中心、半导体封装、新能源汽车、智慧家电、医疗设备、轨道交通、绿色物流等领域。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "刘涛",
+      "role": "董事长",
+      "quote": "公司负责人刘涛、主管会计工作负责人俞高及会计机构负责人（会计主管人员）王莹莹声明：...现任公司董事长，杭州华正新材料有限公司董事长，..."
+    },
+    {
+      "name": "郭江程",
+      "role": "董事、总经理",
+      "quote": "现任公司董事、总经理，华立集团股份有限公司董事，..."
+    },
+    {
+      "name": "汪思洋",
+      "role": "董事",
+      "quote": "现任公司董事，华立集团股份有限公司董事、总裁，华立医药集团有限公司董事、总裁，..."
+    },
+    {
+      "name": "俞高",
+      "role": "副总经理、财务总监",
+      "quote": "现任公司副总经理、财务总监，安徽芯动联科微系统股份有限公司独立董事，..."
+    },
+    {
+      "name": "王超",
+      "role": "副总经理",
+      "quote": "现任公司副总经理，杭州华正新材料有限公司董事兼总经理，..."
+    },
+    {
+      "name": "祝郁文",
+      "role": "董事会秘书",
+      "quote": "现任公司董事会秘书。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "华立集团股份有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东，直接持有公司40.07%的股权，并为公司可转债提供担保。",
+      "quote": "控股股东、华立集团 指 华立集团股份有限公司...华立集团直接持有华正新材40.07%的股权。...本公司转债的担保人 华立集团股份有限公司"
+    },
+    {
+      "name": "杭州联生绝缘材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要从事复合材料的生产及销售。",
+      "quote": "联生绝缘 指 公司全资子公司杭州联生绝缘材料有限公司...主要业务：主要从事包括覆铜板和绝缘材料在内的复合材料的生产及销售。"
+    },
+    {
+      "name": "杭州华聚复合材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要从事蜂窝复合材料的研发、设计、生产、销售。",
+      "quote": "杭州华聚 指 公司全资子公司杭州华聚复合材料有限公司...主要业务：主要从事蜂窝复合材料的研发、设计、生产、销售。"
+    },
+    {
+      "name": "扬州麦斯通复合材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，生产冷藏、保温、干货车箱板以及玻璃钢复合材料。",
+      "quote": "扬州麦斯通 指 公司全资子公司扬州麦斯通复合材料有限公司...主要业务：生产冷藏、保温、干货车箱板以及玻璃钢复合材料，销售本公司自产产品。"
+    },
+    {
+      "name": "华正新材料（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事产品销售及出口贸易。",
+      "quote": "华正香港 指 公司全资子公司华正新材料（香港）有限公司...主要业务：主要从事产品贸易以及母排等复合材料的生产、销售。"
+    },
+    {
+      "name": "杭州华正新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主要从事覆铜板的生产、销售。",
+      "quote": "杭州华正 指 公司全资子公司杭州华正新材料有限公司...主要业务：主要从事覆铜板的生产、销售。"
+    },
+    {
+      "name": "珠海华正新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，从事复合材料、覆铜板等产品的销售、技术开发、制造。",
+      "quote": "珠海华正 指 公司全资子公司珠海华正新材料有限公司...主要业务：复合材料、电子绝缘材料、覆铜板材料...的销售、技术开发、制造。"
+    },
+    {
+      "name": "浙江华正能源材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，研发、生产、销售锂离子电池薄膜、包装膜等特殊功能性薄膜。",
+      "quote": "华正能源 指 公司全资子公司浙江华正能源材料有限公司...主要业务：研发、生产、销售锂离子电池薄膜、包装膜等特殊功能性薄膜。"
+    },
+    {
+      "name": "深圳中科华正半导体材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，从事电子专用材料制造、销售和研发。",
+      "quote": "深圳中科 指 公司控股子公司深圳中科华正半导体材料有限公司...主要业务：电子专用材料制造；电子专用材料销售；电子专用材料研发。"
+    },
+    {
+      "name": "杭州中骥汽车有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，生产冷藏保温汽车及新能源汽车、冷藏集装箱。",
+      "quote": "杭州中骥 指 公司控股子公司杭州中骥汽车有限公司...主要业务：生产、销售、技术开发、技术服务、技术咨询、技术转让：冷藏保温汽车及新能源汽车、冷藏集装箱。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "覆铜板",
+      "segment_type": "product_line",
+      "revenue_amount": "3,375,166,555.67",
+      "revenue_proportion": "79.12%",
+      "gross_margin": "9.07%",
+      "yoy_change": "12.32%",
+      "quote": "覆铜板 3,375,166,555.67 ... 9.07 ... 12.32 ... 9.60 ... 增加2.25个百分点"
+    },
+    {
+      "name": "导热材料",
+      "segment_type": "product_line",
+      "revenue_amount": "293,706,086.68",
+      "revenue_proportion": "6.86%",
+      "gross_margin": "27.27%",
+      "yoy_change": "14.31%",
+      "quote": "导热材料 293,706,086.68 ... 27.27 ... 14.31 ... 1.62 ... 增加9.08个百分点"
+    },
+    {
+      "name": "功能性复合材料",
+      "segment_type": "product_line",
+      "revenue_amount": "169,608,970.40",
+      "revenue_proportion": "3.98%",
+      "gross_margin": "28.66%",
+      "yoy_change": "2.09%",
+      "quote": "功能性复合材料 169,608,970.40 ... 28.66 ... 2.09 ... -0.60 ... 增加1.93个百分点"
+    },
+    {
+      "name": "交通物流用复合材料",
+      "segment_type": "product_line",
+      "revenue_amount": "377,343,534.88",
+      "revenue_proportion": "8.82%",
+      "gross_margin": "18.32%",
+      "yoy_change": "27.11%",
+      "quote": "交通物流用复合材料 377,343,534.88 ... 18.32 ... 27.11 ... 24.98 ... 增加1.40个百分点"
+    },
+    {
+      "name": "其他材料",
+      "segment_type": "product_line",
+      "revenue_amount": "49,276,925.86",
+      "revenue_proportion": "1.15%",
+      "gross_margin": "-41.82%",
+      "yoy_change": "-7.67%",
+      "quote": "其他材料 49,276,925.86 ... -41.82 ... -7.67 ... -12.86 ... 增加8.44个百分点"
+    },
+    {
+      "name": "境内销售",
+      "segment_type": "region",
+      "revenue_amount": "3,567,655,814.67",
+      "revenue_proportion": "83.61%",
+      "gross_margin": "11.23%",
+      "yoy_change": "15.58%",
+      "quote": "境内 3,567,655,814.67 ... 11.23 ... 15.58 ... 11.70 ... 增加3.08个百分点"
+    },
+    {
+      "name": "境外销售",
+      "segment_type": "region",
+      "revenue_amount": "697,446,258.82",
+      "revenue_proportion": "16.39%",
+      "gross_margin": "11.86%",
+      "yoy_change": "0.86%",
+      "quote": "境外 697,446,258.82 ... 11.86 ... 0.86 ... -1.44 ... 增加2.05个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "覆铜板",
+      "metric_type": "production_volume",
+      "value": "3,868万张",
+      "period": "2025年",
+      "quote": "报告期内公司生产覆铜板3,868万张，比上年增加8.79%"
+    },
+    {
+      "product": "覆铜板",
+      "metric_type": "sales_volume",
+      "value": "3,886.83万张",
+      "period": "2025年",
+      "quote": "销售覆铜板3,886.83万张，比上年上升10.09%"
+    },
+    {
+      "product": "导热材料",
+      "metric_type": "production_volume",
+      "value": "139.30万平米",
+      "period": "2025年",
+      "quote": "生产导热材料139.30万平米，比上年下降20.39%"
+    },
+    {
+      "product": "导热材料",
+      "metric_type": "sales_volume",
+      "value": "143.54万平米",
+      "period": "2025年",
+      "quote": "销售导热材料143.54万平米，比上年下降20.94%"
+    },
+    {
+      "product": "功能性复合材料",
+      "metric_type": "production_volume",
+      "value": "1,388.43吨",
+      "period": "2025年",
+      "quote": "生产功能性复合材料1,269.46吨，外协94.20吨，外购24.77 吨，合计1,388.43吨，比上年下降13.13%"
+    },
+    {
+      "product": "功能性复合材料",
+      "metric_type": "sales_volume",
+      "value": "1,436.08吨",
+      "period": "2025年",
+      "quote": "销售功能性复合材料1,436.08吨，比上年下降3.41%"
+    },
+    {
+      "product": "交通物流用复合材料",
+      "metric_type": "production_volume",
+      "value": "266.22万平米",
+      "period": "2025年",
+      "quote": "生产交通物流用复合材料265.32万平米，外协0.90万平米，合计266.22万平米，比上年上升31.29%"
+    },
+    {
+      "product": "交通物流用复合材料",
+      "metric_type": "sales_volume",
+      "value": "269.36万平米",
+      "period": "2025年",
+      "quote": "销售交通物流用复合材料269.36万平米，比上年上升27.48%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "泰国新建覆铜板生产基地",
+      "project_type": "capacity_expansion",
+      "location": "泰国",
+      "investment_amount": "不超过6,000万美元",
+      "designed_capacity": null,
+      "progress": "该项目已取得国内备案证书。",
+      "expected_completion_time": null,
+      "quote": "公司计划在泰国投资新建覆铜板生产基地，项目投资总额不超过6,000万美元...该项目已取得国内备案证书。"
+    },
+    {
+      "name": "青山湖工业园区CBF积层绝缘膜产线",
+      "project_type": "r_and_d_project",
+      "location": "青山湖工业园区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已建成独立的研发中心与生产线，该产线已具备批量订单交付能力。",
+      "expected_completion_time": null,
+      "quote": "公司在青山湖工业园区已建成独立的研发中心与生产线，该产线已具备批量订单交付能力。"
+    },
+    {
+      "name": "青山湖智能智造基地",
+      "project_type": "construction_project",
+      "location": "青山湖",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "成功获评浙江省“未来工厂”。",
+      "expected_completion_time": null,
+      "quote": "青山湖智能智造基地成功获评浙江省“未来工厂”。"
+    },
+    {
+      "name": "珠海智能智造基地",
+      "project_type": "construction_project",
+      "location": "珠海",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成了覆铜板制造能力的进一步迭代升级。",
+      "expected_completion_time": null,
+      "quote": "珠海智能智造基地完成了覆铜板制造能力的进一步迭代升级。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "高速覆铜板LowCTE技术",
+      "asset_type": "core_technology",
+      "related_product": "高速覆铜板",
+      "quantitative_info": null,
+      "quote": "公司深度洞察客户及终端的技术迭代趋势，持续聚焦环保型无卤低介电高速覆铜板的开发..."
+    },
+    {
+      "name": "Ultralowloss等级材料",
+      "asset_type": "process_technology",
+      "related_product": "高速覆铜板",
+      "quantitative_info": null,
+      "quote": "公司开发有卤Ultralowloss等级材料，已实现产品化销售；无卤Ultralowloss等级材料在性能上表现优异..."
+    },
+    {
+      "name": "BT封装材料核心技术优势",
+      "asset_type": "core_technology",
+      "related_product": "BT封装材料",
+      "quantitative_info": null,
+      "quote": "BT封装材料，具有高耐热性、耐CAF、低介电常数和低膨胀系数等核心技术优势..."
+    },
+    {
+      "name": "CBF积层绝缘膜技术",
+      "asset_type": "core_technology",
+      "related_product": "CBF积层绝缘膜",
+      "quantitative_info": null,
+      "quote": "CBF积层绝缘膜是公司近年来重点研发的半导体封装材料，具有优良的介电性能、热膨胀系数、剥离强度、绝缘性能和可加工性能..."
+    },
+    {
+      "name": "参与制定标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "共参与35项标准的制定，其中国际标准3项、国家标准16项、行业标准5项、团体标准11项。",
+      "quote": "公司牵头、参与国家及行业标准化工作，共参与35项标准的制定，其中国际标准3项、国家标准16项、行业标准5项、团体标准11项。"
+    },
+    {
+      "name": "CNAS认证检测中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司持续加大对高端测试仪器的投入，检测中心引进多项先进测试设备与方案，作为CNAS认证的第三方检测机构..."
+    },
+    {
+      "name": "IPD集成产品开发模式",
+      "asset_type": "technical_platform",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司全面推行IPD集成产品开发模式，建成数字化集成开发平台，实现了产品从需求、设计、生产到服务的全生命周期管理。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "1,154,424,540.30元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额115,442.45万元，占年度销售总额26.42%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "1,620,450,088.96元",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额162,045.01万元，占年度采购总额46.12%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "随着客户集中度和对产品需求个性化程度越来越高，市场竞争越来越激烈的影响，公司必须深入了解终端客户的需求、紧跟市场趋势，提前做好研发与技术储备，才能更快、更好地提供产品与服务，增强客户紧密度，避免被竞争激烈的市场淘汰。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2．市场竞争风险 ... 市场竞争越来越激烈的影响..."
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司几大主要原材料受期货价格、产能发挥、供需状况、环保政策等因素影响，价格波动较大，公司必须时刻关注行业政策及主力供应商的经营状况，完善供应链风险应对机制，在确保公司正常生产运转的前提下，规避材料价格波动风险，提高盈利水平。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3．原材料价格波动风险 ... 主要原材料受期货价格、产能发挥、供需状况、环保政策等因素影响，价格波动较大..."
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司每年会投入较大资源跟踪、开发客户所需产品和市场，储备后续发展产品、项目，但也面临新产品商用市场发展不及预期、经营计划不达预期的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5．研发投入与产出之间的风险 ... 面临新产品商用市场发展不及预期、经营计划不达预期的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司海外业务有一定占比，汇率波动对公司经营业绩有一定的影响，公司必须时刻关注宏观环境和汇率的变化，在保有、开拓海外市场份额的前提下，开展一定额度的远期结售汇业务，灵活制定公司海外产品的价格策略...",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4．汇率波动风险 ... 公司海外业务有一定占比，汇率波动对公司经营业绩有一定的影响..."
+    },
+    {
+      "risk_type": "other",
+      "description": "受上下游供需状况等因素的影响，产业链报告期内具有一定的波动性，公司必须时刻把握行业变化节奏，及时灵活应对，充分做好前期各项应对策略，加快提升公司产品的销售份额，熨平市场波动带来的经营风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1．行业波动风险 ... 受上下游供需状况等因素的影响，产业链报告期内具有一定的波动性..."
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "company_name_mentioned": "山东瑞丰高分子材料股份有限公司",
+  "produces": [
+    {
+      "name": "ACR加工助剂和抗冲改性剂",
+      "type": "material",
+      "revenue_proportion": "45.37% (ACR助剂)，92.05% (PVC助剂行业整体)",
+      "quote": "ACR助剂 893,402,194.91 45.37%；PVC助剂行业 1,812,364,558.81 92.05%"
+    },
+    {
+      "name": "MBS抗冲改性剂",
+      "type": "material",
+      "revenue_proportion": "37.58%",
+      "quote": "MBS抗冲改性剂 739,873,877.45 37.58%"
+    },
+    {
+      "name": "MC抗冲改性剂",
+      "type": "material",
+      "revenue_proportion": "9.10%",
+      "quote": "MC抗冲改性剂 179,088,486.45 9.10%"
+    },
+    {
+      "name": "工程塑料助剂",
+      "type": "material",
+      "revenue_proportion": "7.47%",
+      "quote": "工程塑料助剂 147,026,527.71 7.47%"
+    },
+    {
+      "name": "生物可降解材料PBAT及改性产品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "2025年共销售PBAT及改性产品578吨。"
+    },
+    {
+      "name": "特种聚酯PETG/PCTG",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "目前正在进行将6万吨PBAT装置转产PETG/PCTG产品的技改工作。"
+    },
+    {
+      "name": "合成生物材料（右旋糖酐）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "目前右旋糖酐产品已实现小批量销售。"
+    },
+    {
+      "name": "电池粘结剂（SBR负极粘结剂等）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "目前SBR已经推出部分牌号产品，并送样多家锂电池企业，正在进行产品导入的测试阶段。"
+    },
+    {
+      "name": "黑磷",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "目前瑞丰玥能正在积极推进黑磷吨级生产装置的设备调试工作。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "甲基丙烯酸甲酯",
+      "target_product": "PVC助剂等",
+      "cost_proportion": "30.31%",
+      "quote": "甲基丙烯酸甲酯 30.31%；主要原材料采购价格全年呈下降趋势。"
+    },
+    {
+      "name": "丁二烯",
+      "target_product": "PVC助剂等",
+      "cost_proportion": "18.39%",
+      "quote": "丁二烯 18.39%"
+    },
+    {
+      "name": "苯乙烯",
+      "target_product": "PVC助剂等",
+      "cost_proportion": "10.42%",
+      "quote": "苯乙烯 10.42%"
+    },
+    {
+      "name": "丙烯酸丁酯",
+      "target_product": "PVC助剂等",
+      "cost_proportion": "7.14%",
+      "quote": "丙烯酸丁酯 7.14%"
+    },
+    {
+      "name": "高密度聚乙烯（HDPE）",
+      "target_product": null,
+      "cost_proportion": "6.01%",
+      "quote": "高密度聚乙烯（HDPE） 6.01%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "建筑材料",
+      "source_product": "PVC助剂",
+      "quote": "ACR产品主要应用于管/型材、地板墙板、片材、发泡板等制品；MBS产品主要应用于PVC透明片材制品（医药包装、消费品包装等）、PVC管材制品；MC产品广泛应用于电线电缆、胶管、胶带、胶板、PVC型材管材等领域。"
+    },
+    {
+      "name": "包装材料",
+      "source_product": "PVC助剂",
+      "quote": "MBS产品主要应用于PVC透明片材制品（医药包装、消费品包装等）。"
+    },
+    {
+      "name": "汽车、电子电器、机械",
+      "source_product": "工程塑料助剂",
+      "quote": "下游主要客户为改性塑料企业，终端应用领域为汽车、电子、电器、通信、航空、机械、建筑等。"
+    },
+    {
+      "name": "生物可降解制品",
+      "source_product": "生物可降解材料PBAT",
+      "quote": "可用于购物袋、快递包装袋、农膜、餐盒餐具、刀叉、吸管等生物可降解制品。"
+    },
+    {
+      "name": "食品包装、日用品、化妆品容器",
+      "source_product": "特种聚酯PETG/PCTG",
+      "quote": "在食品包装、日用品和化妆品容器、光化学、医学、3D打印等领域有较好的应用前景。"
+    },
+    {
+      "name": "生物医药产品",
+      "source_product": "右旋糖酐",
+      "quote": "右旋糖酐产品主要用于生物医药产品。"
+    },
+    {
+      "name": "锂电池",
+      "source_product": "电池粘结剂（SBR）",
+      "quote": "主要用途为锂电池负极材料涂布过程中的粘结作用。"
+    },
+    {
+      "name": "新能源电池负极材料、阻燃、催化剂、电子和半导体、创新药",
+      "source_product": "黑磷",
+      "quote": "在新能源电池负极材料、阻燃、催化剂、电子和半导体、创新药等领域有较广泛的潜在应用。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "周仕斌",
+      "role": "董事长、法定代表人、控股股东、实际控制人",
+      "quote": "公司负责人周仕斌...公司法定代表人 周仕斌；公司控股股东、实际控制人严格按照法律法规规范自己的行为。"
+    },
+    {
+      "name": "刘春信",
+      "role": "董事、总经理",
+      "quote": "刘春信先生...2017年7月至今任公司董事、总经理。"
+    },
+    {
+      "name": "宋志刚",
+      "role": "董事、副总经理",
+      "quote": "宋志刚先生...2016年6月至今任公司董事、副总经理。"
+    },
+    {
+      "name": "唐传训",
+      "role": "董事",
+      "quote": "唐传训先生...2011年11月至今任公司董事兼全资子公司临沂瑞丰总经理。"
+    },
+    {
+      "name": "王健",
+      "role": "董事、副总经理",
+      "quote": "王健先生...2024年12月至今，任公司董事、副总经理。"
+    },
+    {
+      "name": "邵泽恒",
+      "role": "职工代表董事",
+      "quote": "邵泽恒先生...2025年10月至今任公司职工代表董事、销售部部长。"
+    },
+    {
+      "name": "许曰玲",
+      "role": "财务总监、主管会计工作负责人",
+      "quote": "主管会计工作负责人许曰玲...2016年6月至今任公司财务总监。"
+    },
+    {
+      "name": "齐元玉",
+      "role": "副总经理",
+      "quote": "齐元玉先生...2025年10月至今任公司副总经理。"
+    },
+    {
+      "name": "周海",
+      "role": "副总经理",
+      "quote": "周海先生...2018年11月至今任公司副总经理。"
+    }
+  ],
+  "company_relations": [],
+  "business_segments": [
+    {
+      "name": "PVC助剂行业",
+      "segment_type": "product_line",
+      "revenue_amount": "1,812,364,558.81元",
+      "revenue_proportion": "92.05%",
+      "gross_margin": "14.24%",
+      "yoy_change": "-4.00%",
+      "quote": "PVC助剂行业 1,812,364,558.81 92.05% -4.00%...PVC助剂行业 1,812,364,558.81 1,554,254,365.31 14.24% -4.00% -3.86% -0.12%"
+    },
+    {
+      "name": "工程塑料助剂行业",
+      "segment_type": "product_line",
+      "revenue_amount": "147,026,527.71元",
+      "revenue_proportion": "7.47%",
+      "gross_margin": "25.79%",
+      "yoy_change": "37.75%",
+      "quote": "工程塑料助剂行业 147,026,527.71 7.47% 37.75%...工程塑料助剂行业 147,026,527.71 109,110,898.17 25.79% 37.75% 33.74% 2.23%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "1,551,075,910.41元",
+      "revenue_proportion": "78.78%",
+      "yoy_change": "-2.34%",
+      "quote": "境内 1,551,075,910.41 78.78% -2.34%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "417,881,238.13元",
+      "revenue_proportion": "21.22%",
+      "yoy_change": "1.29%",
+      "quote": "境外 417,881,238.13 21.22% 1.29%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "ACR加工助剂和抗冲改性剂",
+      "metric_type": "capacity",
+      "value": "10万吨/年",
+      "period": "报告期末",
+      "quote": "ACR加工助剂和抗冲改性剂 10万吨/年"
+    },
+    {
+      "product": "MBS抗冲改性剂",
+      "metric_type": "capacity",
+      "value": "6万吨/年",
+      "period": "报告期末",
+      "quote": "MBS抗冲改性剂 6万吨/年"
+    },
+    {
+      "product": "MC抗冲改性剂",
+      "metric_type": "capacity",
+      "value": "4万吨/年",
+      "period": "报告期末",
+      "quote": "MC抗冲改性剂 4万吨/年"
+    },
+    {
+      "product": "工程塑料助剂",
+      "metric_type": "capacity",
+      "value": "1万吨/年",
+      "period": "报告期末",
+      "quote": "工程塑料助剂 1万吨/年"
+    },
+    {
+      "product": "ACR加工助剂和抗冲改性剂",
+      "metric_type": "capacity_utilization",
+      "value": "79.34%",
+      "period": "报告期",
+      "quote": "ACR加工助剂和抗冲改性剂 10万吨/年 79.34%"
+    },
+    {
+      "product": "MBS抗冲改性剂",
+      "metric_type": "capacity_utilization",
+      "value": "85.24%",
+      "period": "报告期",
+      "quote": "MBS抗冲改性剂 6万吨/年 85.24%"
+    },
+    {
+      "product": "MC抗冲改性剂",
+      "metric_type": "capacity_utilization",
+      "value": "60.91%",
+      "period": "报告期",
+      "quote": "MC抗冲改性剂 4万吨/年 60.91%"
+    },
+    {
+      "product": "工程塑料助剂",
+      "metric_type": "capacity_utilization",
+      "value": "103.03%",
+      "period": "报告期",
+      "quote": "工程塑料助剂 1万吨/年 103.03%"
+    },
+    {
+      "product": "PVC塑料助剂",
+      "metric_type": "production_volume",
+      "value": "154,855.63吨",
+      "period": "报告期",
+      "quote": "PVC塑料助剂 生产量 154,855.63"
+    },
+    {
+      "product": "PVC塑料助剂",
+      "metric_type": "sales_volume",
+      "value": "156,532.30吨",
+      "period": "报告期",
+      "quote": "PVC塑料助剂 销售量 156,532.30"
+    },
+    {
+      "product": "PVC塑料助剂",
+      "metric_type": "inventory_volume",
+      "value": "18,305.01吨",
+      "period": "报告期末",
+      "quote": "PVC塑料助剂 库存量 18,305.01"
+    },
+    {
+      "product": "工程塑料助剂",
+      "metric_type": "production_volume",
+      "value": "10,302.64吨",
+      "period": "报告期",
+      "quote": "工程塑料助剂 生产量 10,302.64"
+    },
+    {
+      "product": "工程塑料助剂",
+      "metric_type": "sales_volume",
+      "value": "9,134.55吨",
+      "period": "报告期",
+      "quote": "工程塑料助剂 销售量 9,134.55"
+    },
+    {
+      "product": "工程塑料助剂",
+      "metric_type": "inventory_volume",
+      "value": "2,568.80吨",
+      "period": "报告期末",
+      "quote": "工程塑料助剂 库存量 2,568.80"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "6万吨/年工程塑料助剂项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "6万吨/年（一期2万吨/年，二期4万吨/年）",
+      "progress": "一期工程2万吨/年已经进入集中建设期（含5000吨CSR产品）",
+      "expected_completion_time": "一期计划于2026年底投产；二期计划于2027年适时启动",
+      "quote": "公司正在对该项目进行技术改造...高标准建设6万吨/年工程塑料助剂项目，一期工程2万吨/年已经进入集中建设期（含5000吨CSR产品），计划于2026年底投入运行。二期工程4万吨/年...计划于2027年适时启动。"
+    },
+    {
+      "name": "年产6万吨生物可降解高分子材料PBAT项目（转产PETG/PCTG技改）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "形成3万吨/年PETG/PCTG产品产能",
+      "progress": "目前正在进行将6万吨PBAT装置转产PETG/PCTG产品的技改工作",
+      "expected_completion_time": "预计于2026年8月份完成技改",
+      "quote": "目前正在进行转产PETG/PCTG产品的技改，转产后...技改完成后将形成3万吨/年PETG/PCTG产品产能。预计于2026年8月份完成技改。"
+    },
+    {
+      "name": "PAA电池粘结剂中试线",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "中试线已经建成",
+      "expected_completion_time": "争取于2026年完成中试",
+      "quote": "PAA中试线已经建成，争取于2026年完成中试。"
+    },
+    {
+      "name": "黑磷吨级生产装置",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "正在积极推进黑磷吨级生产装置的设备调试工作",
+      "expected_completion_time": null,
+      "quote": "目前瑞丰玥能正在积极推进黑磷吨级生产装置的设备调试工作。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": "PVC助剂、工程塑料助剂等",
+      "quantitative_info": "截至报告期末，公司及子公司拥有现时有效的专利共计68项，其中发明专利48项，实用新型专利20项。",
+      "quote": "累计取得国家授权专利70余项，其中发明专利40余项。截至报告期末，公司及子公司拥有现时有效的专利共计68项，其中发明专利48项，实用新型专利20项。"
+    },
+    {
+      "name": "研发平台",
+      "asset_type": "other",
+      "related_product": null,
+      "quantitative_info": "博士后科研工作站、山东省PVC助剂工程技术研究中心、山东省企业技术中心",
+      "quote": "拥有博士后科研工作站、山东省PVC助剂工程技术研究中心、山东省企业技术中心等研发创新平台。"
+    },
+    {
+      "name": "安全生产许可证、排污许可证等资质",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "持有多个有效期内的证书",
+      "quote": "相关批复、许可、资质及有效期的情况"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "19.23%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 19.23%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "37.64%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 37.64%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司主要原材料为石化产品，价格受国际原油价格、市场供求关系、厂家停车检修及周期性变化等因素影响较大。若主要原材料价格大幅波动，将不利于公司生产成本的控制，可能对公司的生产经营、盈利水平等产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、原材料价格波动的风险"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "随着公司业务体量的增长，公司应收账款规模也相应扩大。...但如果客户自身出现经营风险导致财务状况恶化或与公司合作关系恶化导致无法按期付款，将会使公司面临坏账损失风险，从而对资金周转和利润水平产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、应收账款坏账损失的风险"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "公司生产过程中使用的主要原料涉及易燃、易爆化学品...可能引发爆燃等安全事故...公司生产过程中会产生一定废水、废气、废渣等污染物...上级主管部门对环保监管要求或将升级，公司可能存在需要根据新要求改进工艺或升级改造设备设施的情况。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、安全生产和环保的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "虽然公司PVC助剂主营业务产品有较强的性能优势、质量优势和规模优势，但近年来国内外同行业争夺市场份额的状况在加剧，会通过降低产品价格的方式来促进产品销售。...可能对公司产品的毛利率水平产生不利影响。",
+      "related_entity": null,
+      "related_product": "PVC助剂",
+      "quote": "4、PVC助剂市场竞争加剧的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司近年来推进转型升级发展战略，布局了生物可降解材料、合成生物材料、电池粘结剂、黑磷材料等业务或产品。...上述新介入的领域...尚处于起步阶段，短期内对公司业绩影响较为有限。可能面临相关产品市场需求不及预期、市场开拓效果不及预期、市场竞争加剧、生产技术与工艺控制不到位等方面的不确定性。",
+      "related_entity": null,
+      "related_product": "生物可降解材料、合成生物材料、电池粘结剂、黑磷材料",
+      "quote": "5、新产品业务的风险"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司向不特定对象发行可转换公司债券募投项目之年产6万吨生物可降解高分子材料PBAT项目于2023年末达到预定可使用状态并转为固定资产，转固后新增固定资产折旧以及可转债利息摊销计入财务费用。...若该装置技改不及预期...不能获得预期的市场销售规模和效益，按照会计准则的规定，可能还会计提资产减值准备。",
+      "related_entity": null,
+      "related_product": "年产6万吨PBAT项目",
+      "quote": "6、固定资产折旧、可转债利息摊销的风险"
+    }
+  ]
+}

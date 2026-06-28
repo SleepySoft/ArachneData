@@ -1,0 +1,422 @@
+{
+  "company_name_mentioned": "成都苑东生物制药股份有限公司",
+  "produces": [
+    {
+      "name": "高端化学药制剂",
+      "type": "device",
+      "revenue_proportion": "占主营业务收入的79.95%",
+      "quote": "化学制剂 1,062,536,812.18 208,541,578.48 80.37 -1.31 4.25"
+    },
+    {
+      "name": "化学原料药",
+      "type": "material",
+      "revenue_proportion": "占主营业务收入的9.27%",
+      "quote": "化学原料药 123,141,792.59 56,372,303.00 54.22 1.65 17.01"
+    },
+    {
+      "name": "CMO/CDMO服务",
+      "type": "service",
+      "revenue_proportion": "占主营业务收入的4.86%",
+      "quote": "CMO/CDMO 64,626,890.91 47,827,393.70 25.99 -0.88 -15.06"
+    },
+    {
+      "name": "技术服务及转让",
+      "type": "technology",
+      "revenue_proportion": "占主营业务收入的4.99%",
+      "quote": "技术服务及转让 66,324,450.21 4,408,647.52 93.35 5.44 -60.65"
+    },
+    {
+      "name": "HP-001胶囊（分子胶降解剂）",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "HP-001胶囊为上海超阳药业自主研发的新型口服CRBN分子胶降解剂，临床前研究显示其在CRBN结合力、IKZF1/3降解效率、底物选择性及安全性方面均显著优于已上市IMiDs及下一代候选药物，可有效克服耐药、降低脱靶毒性，具备BIC潜力。"
+    },
+    {
+      "name": "注射用YLSH003（ADC药物）",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "注射用YLSH003为上海优洛自主研发的1类生物创新药，属于靶向组织因子（TF）的新型ADC，拟用于晚期实体瘤的治疗。"
+    },
+    {
+      "name": "EP-0210单抗注射液",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "EP-0210单抗注射液为成都优洛自主研发的1类治疗性生物创新药，是靶向肿瘤坏死因子样配体1A（TL1A）的人源化IgG1单克隆抗体，拟定适应症为炎症性肠病。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料及辅料",
+      "target_product": "化学制剂、原料药生产",
+      "cost_proportion": null,
+      "quote": "直接材料 12,553.11 38.15"
+    },
+    {
+      "name": "能源及服务",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "制造费用 13,418.51 40.78"
+    }
+  ],
+  "applications": [
+    {
+      "name": "麻醉镇痛",
+      "source_product": "盐酸纳美芬注射液、布洛芬注射液、酒石酸布托啡诺注射液等",
+      "quote": "公司已上市产品主要聚焦麻醉镇痛与心脑血管两大核心领域。"
+    },
+    {
+      "name": "心脑血管",
+      "source_product": "富马酸比索洛尔片、盐酸尼卡地平注射液、硫酸氢氯吡格雷片等",
+      "quote": "心脑血管领域位居第二，以国内实现首家过评的富马酸比索洛尔片、盐酸尼卡地平注射液等为代表。"
+    },
+    {
+      "name": "抗肿瘤",
+      "source_product": "HP-001胶囊、HP-002片、注射用YLSH003、泊那替尼片等",
+      "quote": "公司加大在抗肿瘤、自身免疫性疾病等重大领域的前瞻性布局。"
+    },
+    {
+      "name": "自身免疫性疾病",
+      "source_product": "EP-0210单抗注射液、HP-003等",
+      "quote": "公司在研项目共计60余个，其中新药项目占比近30%，核心治疗领域创新药梯队布局逐步形成。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王颖",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人王颖"
+    },
+    {
+      "name": "袁明旭",
+      "role": "董事、总经理",
+      "quote": "董事、总经理 袁明旭"
+    },
+    {
+      "name": "张大明",
+      "role": "董事、副总经理",
+      "quote": "董事、副总经理 张大明"
+    },
+    {
+      "name": "伯小芹",
+      "role": "职工董事、财务总监",
+      "quote": "职工董事、财务总监 伯小芹"
+    },
+    {
+      "name": "赵立文",
+      "role": "董事、核心技术人员、药物研究院院长",
+      "quote": "赵立文 核心技术人员"
+    },
+    {
+      "name": "李淑云",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 李淑云"
+    },
+    {
+      "name": "宋兴尧",
+      "role": "副总经理",
+      "quote": "副总经理 宋兴尧"
+    },
+    {
+      "name": "关正品",
+      "role": "副总经理、核心技术人员",
+      "quote": "副总经理、核心技术人员 关正品"
+    },
+    {
+      "name": "陈艳",
+      "role": "核心技术人员",
+      "quote": "核心技术 人员 陈艳"
+    },
+    {
+      "name": "金明志",
+      "role": "核心技术人员",
+      "quote": "核心技术 人员 金明志"
+    },
+    {
+      "name": "乔智涛",
+      "role": "核心技术人员",
+      "quote": "核心技术 人员 乔智涛"
+    },
+    {
+      "name": "李竹石",
+      "role": "核心技术人员",
+      "quote": "核心技术 人员 李竹石"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川青木制药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司的全资子公司",
+      "quote": "青木制药 指 四川青木制药有限公司，系公司的全资子公司"
+    },
+    {
+      "name": "西藏润禾药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司的全资子公司",
+      "quote": "西藏润禾 指 西藏润禾药业有限公司，系公司的全资子公司"
+    },
+    {
+      "name": "成都硕德药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司的全资子公司",
+      "quote": "硕德药业 指 成都硕德药业有限公司，系公司的全资子公司"
+    },
+    {
+      "name": "成都优洛生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司的全资子公司",
+      "quote": "成都优洛 指 成都优洛生物科技有限公司，系公司的全资子公司"
+    },
+    {
+      "name": "优洛生物（上海）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司的全资子公司",
+      "quote": "上海优洛 指 优洛生物（上海）有限公司，系公司的全资子公司"
+    },
+    {
+      "name": "上海超阳药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "系公司的控股公司，专注TPD技术",
+      "quote": "上海超阳药业 指 上海超阳药业有限公司，系公司的控股公司"
+    },
+    {
+      "name": "成都天台山制药股份有限公司",
+      "relation_type": "competitor",
+      "business_details": "合作生产产品",
+      "quote": "公司少部分化学药品因产能受限等原因，与成都通德药业有限公司、成都天台山制药股份有限公司等公司合作，采取委托生产、合作生产模式。"
+    },
+    {
+      "name": "成都通德药业有限公司",
+      "relation_type": "competitor",
+      "business_details": "委托生产合作",
+      "quote": "公司少部分化学药品因产能受限等原因，与成都通德药业有限公司、成都天台山制药股份有限公司等公司合作，采取委托生产、合作生产模式。"
+    },
+    {
+      "name": "江苏恩华和信医药营销有限公司",
+      "relation_type": "customer",
+      "business_details": "达成奥沙西泮片的商业化合作，独家授权其进行市场开发",
+      "quote": "与江苏恩华和信医药营销有限公司（以下简称“江苏恩华”）达成奥沙西泮片的商业化合作，独家授权江苏恩华对该产品进行市场开发"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "化学制剂",
+      "segment_type": "product_line",
+      "revenue_amount": "1,062,536,812.18元",
+      "revenue_proportion": "79.95%",
+      "gross_margin": "80.37%",
+      "yoy_change": "-1.31%",
+      "quote": "化学制剂 1,062,536,812.18 208,541,578.48 80.37 -1.31 4.25"
+    },
+    {
+      "name": "化学原料药",
+      "segment_type": "product_line",
+      "revenue_amount": "123,141,792.59元",
+      "revenue_proportion": "9.27%",
+      "gross_margin": "54.22%",
+      "yoy_change": "1.65%",
+      "quote": "化学原料药 123,141,792.59 56,372,303.00 54.22 1.65 17.01"
+    },
+    {
+      "name": "CMO/CDMO",
+      "segment_type": "business_unit",
+      "revenue_amount": "64,626,890.91元",
+      "revenue_proportion": "4.86%",
+      "gross_margin": "25.99%",
+      "yoy_change": "-0.88%",
+      "quote": "CMO/CDMO 64,626,890.91 47,827,393.70 25.99 -0.88 -15.06"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "476,681,182.08元",
+      "revenue_proportion": null,
+      "gross_margin": "77.87%",
+      "yoy_change": "-5.72%",
+      "quote": "华东地区 476,681,182.08 105,501,154.27 77.87 -5.72 -11.89"
+    },
+    {
+      "name": "西南地区",
+      "segment_type": "region",
+      "revenue_amount": "253,791,705.39元",
+      "revenue_proportion": null,
+      "gross_margin": "71.63%",
+      "yoy_change": "-6.23%",
+      "quote": "西南地区 253,791,705.39 72,002,762.82 71.63 -6.23 -17.24"
+    },
+    {
+      "name": "经销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,069,915,726.72元",
+      "revenue_proportion": null,
+      "gross_margin": "79.44%",
+      "yoy_change": "-2.77%",
+      "quote": "经销 1,069,915,726.72 219,982,397.07 79.44 -2.77 -4.85"
+    },
+    {
+      "name": "直销模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "259,178,151.90元",
+      "revenue_proportion": null,
+      "gross_margin": "57.93%",
+      "yoy_change": "4.71%",
+      "quote": "直销 259,178,151.90 109,025,525.87 57.93 4.71 3.44"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "富马酸比索洛尔片",
+      "metric_type": "production_volume",
+      "value": "4,499.63万盒",
+      "period": "2025年",
+      "quote": "富马酸比索洛尔片 万盒 4,499.63"
+    },
+    {
+      "product": "富马酸比索洛尔片",
+      "metric_type": "sales_volume",
+      "value": "4,398.01万盒",
+      "period": "2025年",
+      "quote": "富马酸比索洛尔片 万盒 4,398.01"
+    },
+    {
+      "product": "布洛芬注射用浓溶液",
+      "metric_type": "production_volume",
+      "value": "1,054.97万支",
+      "period": "2025年",
+      "quote": "布洛芬注射用浓溶液 万支 1,054.97"
+    },
+    {
+      "product": "盐酸纳美芬注射液",
+      "metric_type": "sales_volume",
+      "value": "429.87万支",
+      "period": "2025年",
+      "quote": "盐酸纳美芬注射液 万支 429.87"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "高端化学药制剂产业化项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "转固",
+      "expected_completion_time": null,
+      "quote": "主要系报告期高端化学药制剂产业化项目转固所致"
+    },
+    {
+      "name": "眉山生产基地",
+      "project_type": "construction_project",
+      "location": "眉山",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "通过FDA现场检查",
+      "expected_completion_time": null,
+      "quote": "眉山生产基地通过FDA现场检查，国际化注册/认证覆盖原料药品种达15个。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "蛋白质稳态技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "分子胶、PROTAC、DAC药物",
+      "quantitative_info": null,
+      "quote": "蛋白质稳态技术平台、药物晶型集成创新与产业化技术平台、创新药物结构设计合成及评价集成技术平台、缓控释及迟释技术平台、鼻喷给药制剂技术平台、制备工艺设计与精益控制技术平台六大核心技术平台"
+    },
+    {
+      "name": "创新药物结构设计合成及评价集成技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "ADC、单/双抗",
+      "quantitative_info": "授权专利51项，其中PCT12项",
+      "quote": "创新药物结构设计合成及评价集成技术平台 ... 授权专利51项，其中PCT12项"
+    },
+    {
+      "name": "授权发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计168项，其中中国发明专利150项、国外发明专利18项",
+      "quote": "截至本报告期末，公司已获授权发明专利168项，其中中国发明专利150项、国外发明专利18项。"
+    },
+    {
+      "name": "美国FDA ANDA文号",
+      "asset_type": "certification",
+      "related_product": "制剂产品",
+      "quantitative_info": "3个",
+      "quote": "其中包括3个美国FDA批准的ANDA文号"
+    },
+    {
+      "name": "原料药国际注册/认证",
+      "asset_type": "certification",
+      "related_product": "原料药",
+      "quantitative_info": "21个",
+      "quote": "21个原料国际注册/认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "38.98%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额51,898.86万元，占年度销售总额38.98%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "15.32%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额3,236.56万元，占年度采购总额15.32%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "创新药研发是全球性竞争，若国际多家制药企业在研同类新药取得突破性进展，或上市更有竞争优势的新药，公司在研的新药将面临竞争力下降或不能被市场接受的风险。",
+      "related_entity": null,
+      "related_product": "创新药",
+      "quote": "技术迭代风险 创新药研发周期长，产品从研发到上市可能耗费10年以上的时间，期间疾病机理、制药技术方面的研究在不断地进步，尤其是新一代生物技术发展日新月异，不断地迭代优化。创新药研发是全球性竞争，若国际多家制药企业在研同类新药取得突破性进展，或上市更有竞争优势的新药，公司在研的新药将面临竞争力下降或不能被市场接受的风险，将会影响公司收入，对公司盈利和发展产生不利影响。"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司产品集采导致的价格下调的风险。",
+      "related_entity": "国家集中带量采购政策",
+      "related_product": "仿制药",
+      "quote": "国家集中带量采购和医保支付改革带来的风险 随着国家带量采购常态化、持续深入推进，尽管公司存量的主要产品多数已纳入集采，但公司其他产品未来仍然面临因为产品集采导致的价格下调的风险。"
+    },
+    {
+      "risk_type": "product_quality",
+      "description": "药品生产流程长、工艺复杂等特殊性使公司产品质量受较多因素影响，若出现差错可能导致医疗事故，对公司声誉造成不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "药品质量控制风险 药品质量是制药企业的核心，直接关系生命健康。但药品生产流程长、工艺复杂等特殊性使公司产品质量受较多因素影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "随着国家医保控费深入实施，医药行业增长放缓，仿制药市场进入存量竞争阶段；创新研发成本高、模仿式创新陷入同质化竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "竞争加剧风险 全球范围内，受到政治经济环境影响，印度等企业医药制造竞争力提升，对我国传统出口领域造成影响；国内随着国家医保控费深入实施，医药行业增长放缓，仿制药市场进入存量竞争阶段；而创新研发成本高、模仿式创新陷入同质化竞争；如公司不能及时调整竞争策略，提升核心竞争力，将对公司的经营产生不利影响。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "国家医药卫生体制改革的不断深化，政策密集推进，对医药行业的市场供求关系、企业的经营模式、产品技术研发及药品价格产生较大影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业政策变化风险 医药产品是关系人民生命健康和安全的特殊消费品，基于此，医药是一个受监管程度比较高的行业。近年来，随着国家医药卫生体制改革的不断深化，医药行业政策密集推进与深化，对医药行业的市场供求关系、企业的经营模式、产品技术研发及药品价格产生较大影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格波动"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "研发和生产过程中会产生废气、废水、废渣或其他污染物，若处理不当，可能对周围的环境产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "环境保护风险与安全生产风险 公司的医药制造业务中，在研发和生产过程中会产生废气、废水、废渣或其他污染物，如果处理不当，可能对周围的环境产生不利影响。"
+    }
+  ]
+}

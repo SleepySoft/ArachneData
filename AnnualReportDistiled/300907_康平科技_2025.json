@@ -1,0 +1,568 @@
+{
+  "company_name_mentioned": "康平科技（苏州）股份有限公司",
+  "produces": [
+    {
+      "name": "电机",
+      "type": "component",
+      "revenue_proportion": "52.90%",
+      "quote": "分产品 电机 548,546,367.59 52.90%"
+    },
+    {
+      "name": "电动工具整机",
+      "type": "device",
+      "revenue_proportion": "39.75%",
+      "quote": "分产品 电动工具整机 412,292,859.22 39.75%"
+    },
+    {
+      "name": "电助力车",
+      "type": "device",
+      "revenue_proportion": "0.90%",
+      "quote": "分产品 电助力车 9,357,144.74 0.90%"
+    },
+    {
+      "name": "精密五金件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "产品主要包括电机、电动工具整机、精密五金件、塑料件、电池包、电助力三轮车等"
+    },
+    {
+      "name": "塑料件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "产品主要包括电机、电动工具整机、精密五金件、塑料件、电池包、电助力三轮车等"
+    },
+    {
+      "name": "电池包",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "产品主要包括电机、电动工具整机、精密五金件、塑料件、电池包、电助力三轮车等"
+    },
+    {
+      "name": "其他",
+      "type": "other",
+      "revenue_proportion": "6.45%",
+      "quote": "分产品 其他 66,932,619.59 6.45%"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "电动工具",
+      "cost_proportion": "73.17%",
+      "quote": "电动工具 原材料 73.17%"
+    },
+    {
+      "name": "铜",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "与公司采购成本相关的大宗商品价格走势有所分化，铜价持续走高"
+    },
+    {
+      "name": "钢",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "与公司采购成本相关的大宗商品价格走势有所分化，铜价持续走高，钢、石油等其他大宗商品的价格相对较弱"
+    },
+    {
+      "name": "石油",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "与公司采购成本相关的大宗商品价格走势有所分化，铜价持续走高，钢、石油等其他大宗商品的价格相对较弱"
+    },
+    {
+      "name": "塑料",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司的利润受多重因素影响，其中以美元汇率波动及原材料（铜、钢、塑料、电子元器件等）价格波动为主"
+    },
+    {
+      "name": "电子元器件",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司的利润受多重因素影响，其中以美元汇率波动及原材料（铜、钢、塑料、电子元器件等）价格波动为主"
+    },
+    {
+      "name": "原材料",
+      "target_product": "电助力车",
+      "cost_proportion": "0.60%",
+      "quote": "电助力车 原材料 0.60%"
+    },
+    {
+      "name": "原材料",
+      "target_product": "其他",
+      "cost_proportion": "1.17%",
+      "quote": "其他 原材料 1.17%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "建筑道路",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "住房装修",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "木工加工",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "金属加工",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "船舶制造",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "汽车",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "园艺",
+      "source_product": "电动工具",
+      "quote": "电动工具在建筑道路、住房装修、木工加工、金属加工、船舶制造、航空航天、汽车、园艺等领域都有广泛使用"
+    },
+    {
+      "name": "家电",
+      "source_product": "电机",
+      "quote": "公司开发新领域（包括但不限于电动工具、汽车、半导体、新能源、机器人等）中较为优质的战略性客户。相较于电动工具用电机，家电及汽车配件用电机的性能要求低"
+    },
+    {
+      "name": "汽车配件",
+      "source_product": "电机",
+      "quote": "相较于电动工具用电机，家电及汽车配件用电机的性能要求低"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "江建平",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人江建平、主管会计工作负责人窦蔷彬"
+    },
+    {
+      "name": "窦蔷彬",
+      "role": "主管会计工作负责人、董事会秘书、财务总监",
+      "quote": "主管会计工作负责人窦蔷彬"
+    },
+    {
+      "name": "夏宇华",
+      "role": "副董事长",
+      "quote": "夏宇华女士...现任公司副董事长"
+    },
+    {
+      "name": "江迎东",
+      "role": "董事、总经理",
+      "quote": "江迎东先生...现任公司董事、总经理"
+    },
+    {
+      "name": "柳世平",
+      "role": "独立董事",
+      "quote": "柳世平女士...现任公司独立董事"
+    },
+    {
+      "name": "尹洪英",
+      "role": "独立董事",
+      "quote": "尹洪英女士...现任公司独立董事"
+    },
+    {
+      "name": "梁清华",
+      "role": "独立董事",
+      "quote": "梁清华女士...2025年3月至今，担任公司独立董事"
+    },
+    {
+      "name": "曲凯",
+      "role": "独立董事（离任）",
+      "quote": "报告期内，公司独立董事曲凯先生因任期满六年离任"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "百得集团",
+      "relation_type": "customer",
+      "business_details": "前五大客户，第一大客户",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 百得集团 573,145,313.92 55.26%"
+    },
+    {
+      "name": "TTI集团",
+      "relation_type": "customer",
+      "business_details": "前五大客户，第二大客户",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 2 TTI集团 198,709,814.25 19.16%"
+    },
+    {
+      "name": "ASP",
+      "relation_type": "customer",
+      "business_details": "前五大客户，第三大客户",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 3 ASP 60,309,347.29 5.82%"
+    },
+    {
+      "name": "Koki集团",
+      "relation_type": "customer",
+      "business_details": "前五大客户，第四大客户",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 4 koki集团 25,956,390.26 2.50%"
+    },
+    {
+      "name": "越南荣宝雨",
+      "relation_type": "customer",
+      "business_details": "前五大客户，第五大客户",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 5 越南荣宝雨 15,737,173.51 1.52%"
+    },
+    {
+      "name": "Lidl",
+      "relation_type": "customer",
+      "business_details": "报告期内开拓的整机客户",
+      "quote": "报告期内，公司立足于相对成熟的整机研产销能力，成功开拓LIDL等整机客户"
+    },
+    {
+      "name": "大通（福建）新材料股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商，第一大供应商",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 大通（福建）新材料股份有限公司 43,597,345.75 6.69%"
+    },
+    {
+      "name": "Great Team technology Pte.Ltd",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商，第二大供应商",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 2 Great Team technology Pte.Ltd 33,241,371.56 5.10%"
+    },
+    {
+      "name": "搜鹿电子",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商，第三大供应商，关联采购",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 3 搜鹿电子 26,839,360.70 4.12%"
+    },
+    {
+      "name": "江阴羽田高分子新材料有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商，第四大供应商",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 4 江阴羽田高分子新材料有限公司 20,890,022.30 3.21%"
+    },
+    {
+      "name": "埃赛克斯电磁线（苏州）有限公司",
+      "relation_type": "supplier",
+      "business_details": "前五大供应商，第五大供应商",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 5 埃赛克斯电磁线（苏州）有限公司 18,006,628.93 2.76%"
+    },
+    {
+      "name": "越南康平",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，越南生产基地",
+      "quote": "越南康平 指 康平科技（越南）有限公司...越南及韩国公司营收占集团营收比例已超50%"
+    },
+    {
+      "name": "凌臣采集",
+      "relation_type": "subsidiary",
+      "business_details": "非同一控制下合并取得，持股51%",
+      "quote": "报告期通过非同一控制下企业合并，于2025年12月31日取得凌臣采集51%股权及控制权"
+    },
+    {
+      "name": "易助电机",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "易助电机 指 易助电机（苏州）有限公司...主要子公司"
+    },
+    {
+      "name": "艾史比特",
+      "relation_type": "subsidiary",
+      "business_details": "子公司",
+      "quote": "艾史比特 指 深圳艾史比特电机有限公司...主要子公司"
+    },
+    {
+      "name": "源动力",
+      "relation_type": "subsidiary",
+      "business_details": "美国新设子公司",
+      "quote": "KEYSTONE POWER TECHNOLOGY CO., LTD（源动力科技有限公司）...报告期在美国加利福尼亚州新设子公司源动力"
+    },
+    {
+      "name": "博世",
+      "relation_type": "customer",
+      "business_details": "主要客户",
+      "quote": "公司在电动工具行业的主要客户百得、TTI、麦太保、博世、喜利得等"
+    },
+    {
+      "name": "喜利得",
+      "relation_type": "customer",
+      "business_details": "主要客户",
+      "quote": "公司在电动工具行业的主要客户百得、TTI、麦太保、博世、喜利得等"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电动工具",
+      "segment_type": "product_line",
+      "revenue_amount": "1,012,201,189.27",
+      "revenue_proportion": "97.60%",
+      "gross_margin": "16.92%",
+      "yoy_change": "-10.26%",
+      "quote": "分行业 电动工具 1,012,201,189.27 97.60% ... 营业收入 毛利率 1,012,201,189.27 16.92%"
+    },
+    {
+      "name": "电助力车",
+      "segment_type": "product_line",
+      "revenue_amount": "10,465,103.49",
+      "revenue_proportion": "1.01%",
+      "gross_margin": null,
+      "yoy_change": "-4.07%",
+      "quote": "分行业 电助力车 10,465,103.49 1.01% -4.07%"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "14,462,698.38",
+      "revenue_proportion": "1.39%",
+      "gross_margin": null,
+      "yoy_change": "-34.99%",
+      "quote": "分行业 其他 14,462,698.38 1.39% -34.99%"
+    },
+    {
+      "name": "电机",
+      "segment_type": "product_line",
+      "revenue_amount": "548,546,367.59",
+      "revenue_proportion": "52.90%",
+      "gross_margin": "18.12%",
+      "yoy_change": "-9.63%",
+      "quote": "分产品 电机 548,546,367.59 52.90% ... 营业收入 毛利率 548,546,367.59 18.12%"
+    },
+    {
+      "name": "电动工具整机",
+      "segment_type": "product_line",
+      "revenue_amount": "412,292,859.22",
+      "revenue_proportion": "39.75%",
+      "gross_margin": "15.24%",
+      "yoy_change": "-9.85%",
+      "quote": "分产品 电动工具整机 412,292,859.22 39.75% ... 营业收入 毛利率 412,292,859.22 15.24%"
+    },
+    {
+      "name": "内销",
+      "segment_type": "region",
+      "revenue_amount": "98,631,496.35",
+      "revenue_proportion": "9.51%",
+      "gross_margin": null,
+      "yoy_change": "-11.24%",
+      "quote": "分地区 内销 98,631,496.35 9.51% -11.24%"
+    },
+    {
+      "name": "外销",
+      "segment_type": "region",
+      "revenue_amount": "938,497,494.79",
+      "revenue_proportion": "90.49%",
+      "gross_margin": "17.26%",
+      "yoy_change": "-10.62%",
+      "quote": "分地区 外销 938,497,494.79 90.49% ... 营业收入 毛利率 938,497,494.79 17.26%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "1,002,004,933.60",
+      "revenue_proportion": "96.61%",
+      "gross_margin": "16.92%",
+      "yoy_change": "-9.96%",
+      "quote": "分销售模式 直销 1,002,004,933.60 96.61% ... 营业收入 毛利率 1,002,004,933.60 16.92%"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "35,124,057.54",
+      "revenue_proportion": "3.39%",
+      "gross_margin": null,
+      "yoy_change": "-27.26%",
+      "quote": "分销售模式 经销 35,124,057.54 3.39% -27.26%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电动工具",
+      "metric_type": "sales_volume",
+      "value": "2,002.26 万套",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 销售量 万套 2,002.26"
+    },
+    {
+      "product": "电动工具",
+      "metric_type": "production_volume",
+      "value": "1,903.10 万套",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年 生产量 万套 1,903.10"
+    },
+    {
+      "product": "电动工具",
+      "metric_type": "inventory_volume",
+      "value": "167.28 万套",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位 2025年 库存量 万套 167.28"
+    },
+    {
+      "product": "电机及电动工具整机",
+      "metric_type": "capacity",
+      "value": "超2,000万台每年",
+      "period": "报告期末",
+      "quote": "截至报告期末，产能规模超2,000万台每年"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "年产电动工具、家用电器和汽车配件电机1000万台项目",
+      "project_type": "capacity_expansion",
+      "location": "广东省惠州市惠阳区三和街道铁门扇村",
+      "investment_amount": "13,052.35 万元",
+      "designed_capacity": "年产电机1000万台",
+      "progress": "44.64%",
+      "expected_completion_time": "2027年12月19日",
+      "quote": "承诺投资项目 年产电动工具、家用电器和汽车配件电机1000万台项目...投资总额 13,052.35...截止期末累计投入金额 4,318.55...投资进度 44.64%...达到预定可使用状态日期 2027年12月19日"
+    },
+    {
+      "name": "年产电机320万台、电动工具6万台项目（已变更）",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "11,628 万元",
+      "designed_capacity": "年产电机320万台、电动工具6万台",
+      "progress": "51.03%",
+      "expected_completion_time": "2024年05月19日（已完工）",
+      "quote": "承诺投资项目 年产电机320万台、电动工具6万台项目...投资总额 11,628...截止期末累计投入金额 5,933.91...投资进度 51.03%...达到预定可使用状态日期 2024年05月19日"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "电机核心工艺技术",
+      "asset_type": "core_technology",
+      "related_product": "电机",
+      "quantitative_info": null,
+      "quote": "已掌握了电机的核心工艺技术，在绕线、点焊、滴漆、动平衡、精车及自动检测上运用了先进的设备以及完善的工艺技术管控"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "超200项",
+      "quote": "集团拥有4家高新技术企业、超200项专利"
+    },
+    {
+      "name": "ISO9001质量体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已通过ISO9001、IATF16949的质量体系认证"
+    },
+    {
+      "name": "IATF16949质量体系认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "已通过ISO9001、IATF16949的质量体系认证"
+    },
+    {
+      "name": "电控研发、设计、生产能力",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "并购了具备电控研发、设计、生产能力的凌臣采集，补全了技术能力"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "84.26%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 84.26%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "55.26%",
+      "related_entity": "百得集团",
+      "period": "2025年",
+      "quote": "序号 客户名称 销售额（元） 占年度销售总额比例 1 百得集团 573,145,313.92 55.26%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "21.88%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 21.88%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "6.69%",
+      "related_entity": "大通（福建）新材料股份有限公司",
+      "period": "2025年",
+      "quote": "序号 供应商名称 采购额（元） 占年度采购总额比例 1 大通（福建）新材料股份有限公司 43,597,345.75 6.69%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "较高",
+      "related_entity": null,
+      "period": null,
+      "quote": "公司来自前五大客户的收入占比在80%以上，如百得、TTI等主要客户未来因经营、财务状况恶化降低对公司的产品订单需求...将会对公司的经营业绩造成重大不利影响"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司来自前五大客户的收入占比在80%以上，如百得、TTI等主要客户未来因经营、财务状况恶化降低对公司的产品订单需求，或公司因产品或服务质量不符合客户要求导致双方合作发生重大不利变化，则可能会对公司的经营业绩造成重大不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）下游客户集中风险...公司来自前五大客户的收入占比在80%以上"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司的利润受多重因素影响，其中以美元汇率波动及原材料（铜、钢、塑料、电子元器件等）价格波动为主。若未来公司主要原材料关联之铜、钢、石油等大宗商品的价格波动，也会进一步对公司经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）利润波动风险...公司的利润受多重因素影响，其中以美元汇率波动及原材料（铜、钢、塑料、电子元器件等）价格波动为主"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司主营业务以出口销售为主，出口销售金额占主营业务收入的比重在90%以上，若公司业务规模继续扩大，出口额进一步增加，且未来汇率出现较大波动，可能会出现较大的汇兑损失。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（3）利润波动风险...公司主营业务以出口销售为主，出口销售金额占主营业务收入的比重在90%以上"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "美国“对等关税”政策的影响尚在演进中，世界各主要经济体如采取进一步的报复性措施，将对产品的市场需求、供应链、汇率等产生相应的影响，也将增加公司的运营成本并影响终端需求。",
+      "related_entity": "美国",
+      "related_product": null,
+      "quote": "（5）国际贸易风险...美国“对等关税”政策的影响尚在演进中"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "2025年，公司收购凌臣采集，为非同一控制下的企业合并，合并资产负债表中因上述收购形成了一定的商誉。该商誉每年需进行减值测试，虽凌臣采集目前的运营扎实、盈利能力较强，但若未来行业竞争加剧而导致其经营状况未达预期，则存在商誉减值的风险。",
+      "related_entity": "凌臣采集",
+      "related_product": null,
+      "quote": "（6）商誉减值风险...2025年，公司收购凌臣采集...存在商誉减值的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "因行业内竞争加剧，百得、TTI也在不断优化库存及供应链以保持并增强竞争优势。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "虽行业维持增长，但因行业内竞争加剧，百得、TTI也在不断优化库存及供应链以保持并增强竞争优势"
+    },
+    {
+      "risk_type": "other",
+      "description": "如果韩国、越南的政治、经济、社会形势以及贸易政策发生重大变化，当地需求发生重大变化，与我国政治、经济、外交合作关系发生变化等，都将对公司的经营产生一定影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（4）境外区域风险...如果韩国、越南的政治、经济、社会形势以及贸易政策发生重大变化"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司业务的增长和凌臣采集的并购，公司规模进一步提高...如果公司不能持续有效地提升管理能力和水平...将对公司的经营和盈利能力造成不利影响。凌臣采集的并购是公司的第一次，如整合效果不及预期，也将对公司的业绩造成影响。",
+      "related_entity": "凌臣采集",
+      "related_product": null,
+      "quote": "（7）管理风险...凌臣采集的并购是公司的第一次，如整合效果不及预期，也将对公司的业绩造成影响"
+    }
+  ]
+}

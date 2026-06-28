@@ -1,0 +1,745 @@
+{
+  "company_name_mentioned": "中国建设银行股份有限公司",
+  "produces": [
+    {
+      "name": "公司金融业务",
+      "type": "service",
+      "revenue_proportion": "30.18%",
+      "quote": "公司金融业务实现营业收入2,296.35亿元...在本集团利润总额中的占比为22.19%。"
+    },
+    {
+      "name": "个人金融业务",
+      "type": "service",
+      "revenue_proportion": "47.10%",
+      "quote": "个人金融业务实现营业收入3,584.18亿元...在本集团利润总额中的占比为40.62%。"
+    },
+    {
+      "name": "资金资管业务",
+      "type": "service",
+      "revenue_proportion": "19.00%",
+      "quote": "资金资管业务实现营业收入1,445.07亿元...在本集团利润总额中的占比为33.58%。"
+    },
+    {
+      "name": "其他业务",
+      "type": "service",
+      "revenue_proportion": "3.74%",
+      "quote": "其他业务实现营业收入284.89亿元。"
+    },
+    {
+      "name": "发放贷款和垫款",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "发放贷款和垫款利息收入770,261百万元，在利息收入中占比66.79%。"
+    },
+    {
+      "name": "金融投资",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "金融投资利息收入305,836百万元，在利息收入中占比26.52%。"
+    },
+    {
+      "name": "手续费及佣金净收入",
+      "type": "service",
+      "revenue_proportion": "14.49%",
+      "quote": "手续费及佣金净收入对营业收入比率14.49%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "吸收存款",
+      "target_product": "发放贷款和垫款等生息资产",
+      "cost_proportion": "66.61% (在利息支出中占比)",
+      "quote": "吸收存款利息支出386,659百万元...在利息支出中占比66.61%。"
+    },
+    {
+      "name": "同业及其他金融机构存放款项和拆入资金",
+      "target_product": null,
+      "cost_proportion": "14.69% (在利息支出中占比)",
+      "quote": "同业及其他金融机构存放款项和拆入资金利息支出85,279百万元...占14.69%。"
+    },
+    {
+      "name": "已发行债务证券",
+      "target_product": null,
+      "cost_proportion": "11.62% (在利息支出中占比)",
+      "quote": "已发行债务证券利息支出67,466百万元...占11.62%。"
+    },
+    {
+      "name": "向中央银行借款",
+      "target_product": null,
+      "cost_proportion": "3.57% (在利息支出中占比)",
+      "quote": "向中央银行借款利息支出20,703百万元...占3.57%。"
+    },
+    {
+      "name": "卖出回购金融资产款",
+      "target_product": null,
+      "cost_proportion": "3.51% (在利息支出中占比)",
+      "quote": "卖出回购金融资产款利息支出20,381百万元...占3.51%。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "制造业",
+      "source_product": "发放贷款和垫款",
+      "quote": "投向制造业的贷款3.52万亿元，较上年增加4,805.62亿元，增幅15.83%。"
+    },
+    {
+      "name": "战略性新兴产业",
+      "source_product": "发放贷款和垫款",
+      "quote": "战略性新兴产业贷款3.52万亿元，较上年增加6,690.66亿元，增幅23.46%。"
+    },
+    {
+      "name": "个人住房",
+      "source_product": "个人贷款和垫款",
+      "quote": "个人住房贷款5.99万亿元。"
+    },
+    {
+      "name": "个人经营",
+      "source_product": "个人贷款和垫款",
+      "quote": "个人经营贷款1.32万亿元。"
+    },
+    {
+      "name": "信用卡消费",
+      "source_product": "信用卡贷款",
+      "quote": "信用卡贷款1.01万亿元。"
+    },
+    {
+      "name": "个人消费",
+      "source_product": "个人贷款和垫款",
+      "quote": "个人消费贷款6,831.74亿元。"
+    },
+    {
+      "name": "房地产业",
+      "source_product": "发放贷款和垫款",
+      "quote": "房地产业贷款905,583百万元。"
+    },
+    {
+      "name": "交通运输、仓储和邮政业",
+      "source_product": "发放贷款和垫款",
+      "quote": "交通运输、仓储和邮政业贷款2,587,380百万元。"
+    },
+    {
+      "name": "电力、热力、燃气及水生产和供应业",
+      "source_product": "发放贷款和垫款",
+      "quote": "电力、热力、燃气及水生产和供应业贷款1,755,960百万元。"
+    },
+    {
+      "name": "普惠型小微企业",
+      "source_product": "发放贷款和垫款",
+      "quote": "普惠型小微企业贷款余额3.83万亿元。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张金良",
+      "role": "董事长",
+      "quote": "董事长致辞 张金良 董事长"
+    },
+    {
+      "name": "张毅",
+      "role": "行长",
+      "quote": "行长致辞 张毅 行长"
+    },
+    {
+      "name": "纪志宏",
+      "role": "董事",
+      "quote": "因公务原因，张毅先生委托纪志宏先生出席并表决"
+    },
+    {
+      "name": "辛晓岱",
+      "role": "董事",
+      "quote": "史剑先生委托辛晓岱女士出席并表决"
+    },
+    {
+      "name": "殷鹏飞",
+      "role": "财会机构负责人",
+      "quote": "本行法定代表人张金良、主管财会工作负责人张毅和财会机构负责人殷鹏飞"
+    },
+    {
+      "name": "薄银根",
+      "role": "授权代表/联席公司秘书",
+      "quote": "授权代表 张毅 薄银根"
+    },
+    {
+      "name": "赵明璟",
+      "role": "联席公司秘书",
+      "quote": "联席公司秘书 薄银根、赵明璟"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中央汇金投资有限责任公司",
+      "relation_type": "investor",
+      "business_details": null,
+      "quote": "汇金公司 中央汇金投资有限责任公司"
+    },
+    {
+      "name": "中华人民共和国财政部",
+      "relation_type": "investor",
+      "business_details": "向财政部发行A股股票1,050亿元",
+      "quote": "财政部 中华人民共和国财政部"
+    },
+    {
+      "name": "安永华明会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "审计",
+      "quote": "国内会计师事务所：安永华明会计师事务所（特殊普通合伙）"
+    },
+    {
+      "name": "安永会计师事务所",
+      "relation_type": "supplier",
+      "business_details": "审计",
+      "quote": "国际会计师事务所：安永会计师事务所"
+    },
+    {
+      "name": "北京市通商律师事务所",
+      "relation_type": "supplier",
+      "business_details": "中国内地法律顾问",
+      "quote": "中国内地法律顾问 北京市通商律师事务所"
+    },
+    {
+      "name": "高伟绅律师行",
+      "relation_type": "supplier",
+      "business_details": "中国香港法律顾问",
+      "quote": "中国香港法律顾问 高伟绅律师行"
+    },
+    {
+      "name": "中国证券登记结算有限责任公司上海分公司",
+      "relation_type": "supplier",
+      "business_details": "A股股份登记处",
+      "quote": "A股股份登记处 中国证券登记结算有限责任公司上海分公司"
+    },
+    {
+      "name": "香港中央证券登记有限公司",
+      "relation_type": "supplier",
+      "business_details": "H股股份登记处",
+      "quote": "H股股份登记处 香港中央证券登记有限公司"
+    },
+    {
+      "name": "中信证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "持续督导保荐机构",
+      "quote": "持续督导保荐机构 中信证券股份有限公司"
+    },
+    {
+      "name": "国泰海通证券股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "持续督导保荐机构",
+      "quote": "持续督导保荐机构 国泰海通证券股份有限公司"
+    },
+    {
+      "name": "建信金融租赁有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信金租 建信金融租赁有限公司成立于2007年，注册资本110亿元，为本行全资子公司。"
+    },
+    {
+      "name": "建信财产保险有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信财险 建信财产保险有限公司成立于2016年，注册资本10亿元"
+    },
+    {
+      "name": "建银国际（控股）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建银国际 建银国际（控股）有限公司成立于2004年，注册资本6.01亿美元，为本行在香港的全资子公司"
+    },
+    {
+      "name": "建银工程咨询有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建银咨询 建银工程咨询有限责任公司"
+    },
+    {
+      "name": "建信金融资产投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信投资 建信金融资产投资有限公司成立于2017年，注册资本270亿元，为本行全资子公司。"
+    },
+    {
+      "name": "建信股权投资管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信股权 建信股权投资管理有限责任公司成立于2019年，注册资本1亿元"
+    },
+    {
+      "name": "中德住房储蓄银行有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "中德住房储蓄银行有限责任公司成立于2004年，注册资本20亿元，本行和德国施威比豪尔住房储蓄银行股份公司持股比例分别为75.10%和24.90%。"
+    },
+    {
+      "name": "建信住房服务有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信住房 建信住房服务有限责任公司成立于2018年，注册资本11.96亿元"
+    },
+    {
+      "name": "建信消费金融有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信消费金融 建信消费金融有限责任公司成立于2023年，注册资本72亿元"
+    },
+    {
+      "name": "建信基金管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信基金 建信基金管理有限责任公司成立于2005年，注册资本2亿元"
+    },
+    {
+      "name": "建信信托有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信信托 建信信托有限责任公司是本行2009年投资控股的信托子公司，注册资本105亿元"
+    },
+    {
+      "name": "建信期货有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信期货 建信期货有限责任公司是本行2014年投资控股的期货子公司，注册资本10亿元"
+    },
+    {
+      "name": "建信养老金管理有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信养老金 建信养老金管理有限责任公司成立于2015年，注册资本23亿元"
+    },
+    {
+      "name": "建信理财有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信理财 建信理财有限责任公司成立于2019年，注册资本150亿元，为本行全资子公司。"
+    },
+    {
+      "name": "建信金融科技有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信金科 建信金融科技有限责任公司成立于2018年，注册资本17.30亿元。"
+    },
+    {
+      "name": "建信住房租赁私募基金管理有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信住租 建信住房租赁私募基金管理有限公司成立于2022年，注册资本1亿元"
+    },
+    {
+      "name": "建信人寿保险股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建信人寿 建信人寿保险股份有限公司是本行2011年投资控股的寿险子公司，注册资本71.20亿元"
+    },
+    {
+      "name": "建信亚洲",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建行亚洲 中国建设银行（亚洲）股份有限公司是香港注册的持牌银行"
+    },
+    {
+      "name": "建行俄罗斯",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建行俄罗斯 中国建设银行（俄罗斯）有限责任公司是本行2013年在俄罗斯成立的全资子公司"
+    },
+    {
+      "name": "建行欧洲",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建行欧洲 中国建设银行（欧洲）有限公司是本行2013年在卢森堡成立的全资子公司"
+    },
+    {
+      "name": "建行新西兰",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建行新西兰 中国建设银行（新西兰）有限公司是本行2014年在新西兰成立的全资子公司"
+    },
+    {
+      "name": "建行印尼",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建行印尼 中国建设银行（印度尼西亚）股份有限公司是一家在印尼证券交易所上市的多牌照商业银行"
+    },
+    {
+      "name": "建行马来西亚",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "建行马来西亚 中国建设银行（马来西亚）有限公司是本行2016年在马来西亚成立的全资子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "公司金融业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "229,635百万元",
+      "revenue_proportion": "30.18%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "公司金融业务 229,635 230,664"
+    },
+    {
+      "name": "个人金融业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "358,418百万元",
+      "revenue_proportion": "47.10%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "个人金融业务 358,418 373,774"
+    },
+    {
+      "name": "资金资管业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "144,507百万元",
+      "revenue_proportion": "19.00%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "资金资管业务 144,507 119,663"
+    },
+    {
+      "name": "其他业务",
+      "segment_type": "business_unit",
+      "revenue_amount": "28,489百万元",
+      "revenue_proportion": "3.74%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "其他业务 28,489 22,869"
+    },
+    {
+      "name": "长江三角洲",
+      "segment_type": "region",
+      "revenue_amount": "136,456百万元",
+      "revenue_proportion": "17.93%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "长江三角洲 136,456 17.93"
+    },
+    {
+      "name": "珠江三角洲",
+      "segment_type": "region",
+      "revenue_amount": "98,601百万元",
+      "revenue_proportion": "12.96%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "珠江三角洲 98,601 12.96"
+    },
+    {
+      "name": "环渤海地区",
+      "segment_type": "region",
+      "revenue_amount": "123,727百万元",
+      "revenue_proportion": "16.26%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "环渤海地区 123,727 16.26"
+    },
+    {
+      "name": "中部地区",
+      "segment_type": "region",
+      "revenue_amount": "108,823百万元",
+      "revenue_proportion": "14.30%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "中部地区 108,823 14.30"
+    },
+    {
+      "name": "西部地区",
+      "segment_type": "region",
+      "revenue_amount": "115,568百万元",
+      "revenue_proportion": "15.19%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "西部地区 115,568 15.19"
+    },
+    {
+      "name": "东北地区",
+      "segment_type": "region",
+      "revenue_amount": "26,654百万元",
+      "revenue_proportion": "3.50%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "东北地区 26,654 3.50"
+    },
+    {
+      "name": "总行",
+      "segment_type": "region",
+      "revenue_amount": "123,710百万元",
+      "revenue_proportion": "16.25%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "总行 123,710 16.25"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "27,510百万元",
+      "revenue_proportion": "3.61%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "境外 27,510 3.61"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "发放贷款和垫款总额",
+      "metric_type": "sales_volume",
+      "value": "27,772,827百万元",
+      "period": "2025年12月31日",
+      "quote": "发放贷款和垫款总额 27,772,827"
+    },
+    {
+      "product": "吸收存款总额",
+      "metric_type": "sales_volume",
+      "value": "30,835,574百万元",
+      "period": "2025年12月31日",
+      "quote": "吸收存款 30,835,574"
+    },
+    {
+      "product": "金融投资",
+      "metric_type": "sales_volume",
+      "value": "12,897,352百万元",
+      "period": "2025年12月31日",
+      "quote": "金融投资 12,897,352"
+    },
+    {
+      "product": "不良贷款额",
+      "metric_type": "production_volume",
+      "value": "363,982百万元",
+      "period": "2025年12月31日",
+      "quote": "不良贷款额 363,982"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "1.31%",
+      "period": "2025年12月31日",
+      "quote": "不良贷款率 1.31"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "233.15%",
+      "period": "2025年12月31日",
+      "quote": "拨备覆盖率 233.15%"
+    },
+    {
+      "product": "核心一级资本净额",
+      "metric_type": "other",
+      "value": "3,464,852百万元",
+      "period": "2025年12月31日",
+      "quote": "核心一级资本净额 3,464,852"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "14.63%",
+      "period": "2025年12月31日",
+      "quote": "核心一级资本充足率 14.63%"
+    },
+    {
+      "product": null,
+      "metric_type": "other",
+      "value": "19.69%",
+      "period": "2025年12月31日",
+      "quote": "资本充足率 19.69%"
+    },
+    {
+      "product": "资产总额",
+      "metric_type": "other",
+      "value": "45,631,818百万元",
+      "period": "2025年12月31日",
+      "quote": "资产总额 45,631,818"
+    },
+    {
+      "product": "负债总额",
+      "metric_type": "other",
+      "value": "41,945,741百万元",
+      "period": "2025年12月31日",
+      "quote": "负债总额 41,945,741"
+    },
+    {
+      "product": "股东权益总额",
+      "metric_type": "other",
+      "value": "3,686,077百万元",
+      "period": "2025年12月31日",
+      "quote": "股东权益 3,686,077"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "向特定对象发行A股股票",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,050亿元",
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "顺利完成向财政部发行A股股票1,050亿元，有力补充核心一级资本。"
+    },
+    {
+      "name": "发行无固定期限资本债券",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "400亿元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "发行无固定期限资本债券400亿元，发行二级资本债券1,250亿元。"
+    },
+    {
+      "name": "发行二级资本债券",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "1,250亿元",
+      "designed_capacity": null,
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "发行无固定期限资本债券400亿元，发行二级资本债券1,250亿元。"
+    },
+    {
+      "name": "“主机核心银行系统全面下移工程”项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成",
+      "expected_completion_time": null,
+      "quote": "2025年“主机核心银行系统全面下移工程”项目荣获中国人民银行“金融科技发展奖”一等奖。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "“建行云”",
+      "asset_type": "technical_platform",
+      "related_product": "金融科技基础设施",
+      "quantitative_info": "总算力规模568.36 PFlops",
+      "quote": "“建行云”总算力规模568.36 PFlops（FP32），较上年增长12.10%。"
+    },
+    {
+      "name": "金融科技专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计获取4,847件，其中发明专利3,561件",
+      "quote": "累计获取金融科技专利授权4,847件，较上年增加1,297件，其中发明专利3,561件。"
+    },
+    {
+      "name": "人工智能大模型技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": "赋能398个场景应用",
+      "quote": "人工智能大模型技术已规模化赋能集团398个场景应用。"
+    },
+    {
+      "name": "智能风控体系",
+      "asset_type": "core_technology",
+      "related_product": "风险管理",
+      "quantitative_info": null,
+      "quote": "构建“线上+线下”“智能+人工”深度融合的智能风控体系。"
+    },
+    {
+      "name": "“技术流”科创评价",
+      "asset_type": "core_technology",
+      "related_product": "科技金融",
+      "quantitative_info": "3个发明专利获得国家知识产权局授权",
+      "quote": "“技术流”科创评价相关的3个发明专利获得国家知识产权局的授权。"
+    },
+    {
+      "name": "“双子星”平台",
+      "asset_type": "technical_platform",
+      "related_product": "个人金融业务",
+      "quantitative_info": "用户总数达5.46亿户",
+      "quote": "“双子星”用户总数达5.46亿户。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "4.14%",
+      "related_entity": null,
+      "period": "2025年12月31日",
+      "quote": "2025年末，本集团对最大单一借款人贷款总额占资本净额的4.14%"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "13.40%",
+      "related_entity": null,
+      "period": "2025年12月31日",
+      "quote": "对最大十家客户贷款总额占资本净额的13.40%。"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "贷款集中度",
+      "related_entity": null,
+      "period": null,
+      "quote": "本集团严格按照监管规定，持续开展大额风险暴露识别、计量、监测等工作"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "外部环境变化影响加深、国内供强需弱矛盾突出",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "与此同时，外部环境变化影响加深、国内供强需弱矛盾突出等困难挑战仍存。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "监管政策更趋完善，构建金融“五篇大文章”政策和制度框架",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "监管政策更趋完善，统筹推进防风险、强监管、促高质量发展各项工作。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "构建全面主动智能的风险管理体系",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本集团面临的主要风险为信用风险、市场风险、银行账簿利率风险、操作风险、流动性风险、声誉风险、国别风险、信息科技风险和战略风险等。"
+    },
+    {
+      "risk_type": "credit_risk",
+      "description": "信用风险管理",
+      "related_entity": null,
+      "related_product": "发放贷款和垫款",
+      "quote": "本集团高度重视信用风险管控，深化集团信用风险一体化穿透管理，2025年整体信用风险平稳可控。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "银行账簿利率风险管理",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "银行账簿利率风险是指利率水平、期限结构等不利变动导致银行账簿经济价值和整体收益遭受损失的风险"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率风险管理",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本集团汇率风险主要源于持有的非人民币计价的资产负债在币种间的错配"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "信息科技风险管理",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "本集团持续强化信息科技风险管理，为金融科技高质量发展保驾护航。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "内控合规管理持续深化",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "消费者权益保护、安全生产工作有序推进。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "信用减值损失增加",
+      "related_entity": null,
+      "related_product": "发放贷款和垫款",
+      "quote": "2025年，本集团信用减值损失1,333.17亿元，较上年增加126.17亿元，增幅10.45%。"
+    },
+    {
+      "risk_type": "other",
+      "description": "模型风险管理",
+      "related_entity": null,
+      "related_product": "风控模型",
+      "quote": "本集团持续完善模型风险管理机制，开展模型验证、评审与后评价"
+    }
+  ]
+}

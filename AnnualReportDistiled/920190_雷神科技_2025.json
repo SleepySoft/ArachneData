@@ -1,0 +1,511 @@
+{
+  "company_name_mentioned": "青岛雷神科技股份有限公司",
+  "produces": [
+    {
+      "name": "电竞笔记本",
+      "type": "device",
+      "revenue_proportion": "60.9% (1,835,527,307.36元 / 3,012,916,528.55元)",
+      "quote": "形成以电竞笔记本、电竞台式机、电竞显示器、外设周边四大产品阵列为主的电竞全场景硬件装备解决方案；分产品 营业收入 笔记本 1,835,527,307.36"
+    },
+    {
+      "name": "电竞台式机及服务器",
+      "type": "device",
+      "revenue_proportion": "10.8% (325,651,868.98元 / 3,012,916,528.55元)",
+      "quote": "产品包括电竞笔记本、台式机；分产品 营业收入 台式机及服务器 325,651,868.98"
+    },
+    {
+      "name": "电竞显示器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品包括电竞笔记本、台式机，以及电竞显示器、机械键盘、电竞鼠标、游戏手柄等外设周边产品"
+    },
+    {
+      "name": "机械键盘",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "电竞显示器、机械键盘、电竞鼠标、游戏手柄等外设周边产品"
+    },
+    {
+      "name": "电竞鼠标",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "电竞显示器、机械键盘、电竞鼠标、游戏手柄等外设周边产品"
+    },
+    {
+      "name": "游戏手柄",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "推出F1 游戏手柄等；外设周边 F1系列游戏手柄"
+    },
+    {
+      "name": "AR智能眼镜",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "推出雷神 Aura AR 智能眼镜、雷神Aura AI智能拍摄眼镜、雷神Aura AI智能音频眼镜"
+    },
+    {
+      "name": "信创笔记本",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司信创笔记本、台式机、miniPC、一体机、工作站、服务器、存储、云终端等产品"
+    },
+    {
+      "name": "信创台式机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司信创笔记本、台式机、miniPC、一体机、工作站、服务器、存储、云终端等产品"
+    },
+    {
+      "name": "信创服务器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司信创笔记本、台式机、miniPC、一体机、工作站、服务器、存储、云终端等产品"
+    },
+    {
+      "name": "电脑配件及其他",
+      "type": "component",
+      "revenue_proportion": "16.3% (490,383,748.82元 / 3,012,916,528.55元)",
+      "quote": "分产品 营业收入 电脑配件及其他 490,383,748.82"
+    },
+    {
+      "name": "AI PC客户端软件",
+      "type": "software",
+      "revenue_proportion": null,
+      "quote": "PC产品预装雷神AI客户端，深度整合AI智能操控、AI健康监测、AI嗨聊、文档总结、多语言翻译、AI PPT生成、视频创作、智能邮件撰写等核心能力"
+    }
+  ],
+  "procures": [
+    {
+      "name": "CPU（中央处理器）",
+      "target_product": "电竞笔记本、台式机、信创产品",
+      "cost_proportion": null,
+      "quote": "为有效应对后续原材料价格上涨风险、保障生产供应稳定并锁定采购成本，对CPU、内存、硬盘等关键核心原材料及产成品进行了备货。"
+    },
+    {
+      "name": "GPU（图形处理器）",
+      "target_product": "电竞笔记本、台式机",
+      "cost_proportion": null,
+      "quote": "电竞笔记本、台式机（RTX50系列GPU）"
+    },
+    {
+      "name": "内存",
+      "target_product": "电竞笔记本、台式机、信创产品",
+      "cost_proportion": null,
+      "quote": "对CPU、内存、硬盘等关键核心原材料及产成品进行了备货。"
+    },
+    {
+      "name": "硬盘",
+      "target_product": "电竞笔记本、台式机、信创产品",
+      "cost_proportion": null,
+      "quote": "对CPU、内存、硬盘等关键核心原材料及产成品进行了备货。"
+    },
+    {
+      "name": "笔记本电脑整机/机壳",
+      "target_product": "笔记本电脑",
+      "cost_proportion": null,
+      "quote": "公司采购计算机核心部件及整机主要以美元结算"
+    },
+    {
+      "name": "外协生产服务",
+      "target_product": "电竞笔记本、显示器、键盘、鼠标等",
+      "cost_proportion": null,
+      "quote": "电竞笔记本、电竞显示器、机械键盘、电竞鼠标、游戏手柄等外设周边产品主要采用外协生产模式"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电子竞技",
+      "source_product": "电竞笔记本、台式机、显示器、外设周边等",
+      "quote": "主要应用于电子竞技、视频创作、创意设计、数字化办公等场景"
+    },
+    {
+      "name": "视频创作",
+      "source_product": "电竞笔记本、台式机等",
+      "quote": "主要应用于电子竞技、视频创作、创意设计、数字化办公等场景"
+    },
+    {
+      "name": "创意设计",
+      "source_product": "电竞笔记本、台式机等",
+      "quote": "主要应用于电子竞技、视频创作、创意设计、数字化办公等场景"
+    },
+    {
+      "name": "数字化办公",
+      "source_product": "电竞笔记本、台式机、信创产品等",
+      "quote": "主要应用于电子竞技、视频创作、创意设计、数字化办公等场景"
+    },
+    {
+      "name": "党政领域",
+      "source_product": "信创笔记本、台式机、服务器等",
+      "quote": "已在党政领域，金融、教育、医疗等八大重点行业及其他行业广泛采用"
+    },
+    {
+      "name": "金融领域",
+      "source_product": "信创笔记本、台式机、服务器等",
+      "quote": "已在党政领域，金融、教育、医疗等八大重点行业及其他行业广泛采用，应用于工商银行、人民银行...等300多个项目"
+    },
+    {
+      "name": "教育领域",
+      "source_product": "信创笔记本、台式机等",
+      "quote": "已在党政领域，金融、教育、医疗等八大重点行业及其他行业广泛采用，应用于...成都锦江区教育局电化教育馆 2025 年学校计算机设备采购项目"
+    },
+    {
+      "name": "医疗领域",
+      "source_product": "信创产品",
+      "quote": "已在党政领域，金融、教育、医疗等八大重点行业及其他行业广泛采用"
+    },
+    {
+      "name": "能源行业",
+      "source_product": "信创产品",
+      "quote": "在能源、物流、金融、电信（运营商）、教育等关键领域实现多维度突破，成功入围中国石油天然气集团有限公司...国家能源电子商务中心...项目"
+    },
+    {
+      "name": "电信（运营商）行业",
+      "source_product": "信创产品",
+      "quote": "在能源、物流、金融、电信（运营商）、教育等关键领域实现多维度突破，成功入围...2025 年中国联通办公电脑集中采购项目"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "路凯林",
+      "role": "董事长、总经理",
+      "quote": "公司负责人路凯林、主管会计工作负责人张亮及会计机构负责人（会计主管人员）张亮保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "张亮",
+      "role": "主管会计工作负责人、会计机构负责人、财务总监",
+      "quote": "主管会计工作负责人张亮及会计机构负责人（会计主管人员）张亮；财务总监 张亮"
+    },
+    {
+      "name": "宋波",
+      "role": "董事会秘书",
+      "quote": "董事会秘书姓名 宋波"
+    },
+    {
+      "name": "李艳兵",
+      "role": "董事、副总经理",
+      "quote": "李艳兵 董事、副总经理"
+    },
+    {
+      "name": "刘纯洁",
+      "role": "控股股东法定代表人",
+      "quote": "苏州海新信息科技有限公司...法定代表人 刘纯洁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "海尔集团公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人，第一大客户（销售PC、外设周边等产品）",
+      "quote": "实际控制人及其一致行动人 实际控制人为海尔集团公司；序号 客户 销售金额 年度销售占比% 是否存在关联关系 1 海尔集团公司 659,569,885.86 21.89% 是"
+    },
+    {
+      "name": "苏州海新信息科技有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 苏州海新信息科技有限公司"
+    },
+    {
+      "name": "Intel Semiconductor(US) LLC",
+      "relation_type": "supplier",
+      "business_details": "第一大供应商，供应核心部件",
+      "quote": "序号 供应商 采购金额 年度采购占比% 是否存在关联关系 1 Intel Semiconductor(US) LLC 537,208,114.32 17.14% 否"
+    },
+    {
+      "name": "WPI INTERNATIONAL(HK) LTD.",
+      "relation_type": "supplier",
+      "business_details": "第二大供应商",
+      "quote": "序号 供应商 采购金额 年度采购占比% 是否存在关联关系 2 WPI INTERNATIONAL(HK) LTD. 429,042,011.21 13.69% 否"
+    },
+    {
+      "name": "AISTONE GLOBAL LIMITED",
+      "relation_type": "supplier",
+      "business_details": "第三大供应商，笔记本电脑受托方之一",
+      "quote": "序号 供应商 采购金额 年度采购占比% 是否存在关联关系 3 AISTONE GLOBAL LIMITED 393,853,109.95 12.56% 否；受托方情况：AISTONE GLOBAL LIMITED"
+    },
+    {
+      "name": "CLEVO CO.",
+      "relation_type": "supplier",
+      "business_details": "第四大供应商",
+      "quote": "序号 供应商 采购金额 年度采购占比% 是否存在关联关系 4 CLEVO CO. 251,952,285.92 8.04% 否"
+    },
+    {
+      "name": "达丰（重庆）电脑有限公司",
+      "relation_type": "supplier",
+      "business_details": "第五大供应商，笔记本电脑受托方之一",
+      "quote": "序号 供应商 采购金额 年度采购占比% 是否存在关联关系 5 达丰（重庆）电脑有限公司 182,922,211.71 5.84% 否；受托方情况：达丰(重庆)电脑有限公司"
+    },
+    {
+      "name": "北京京东世纪贸易有限公司",
+      "relation_type": "customer",
+      "business_details": "第二大客户",
+      "quote": "序号 客户 销售金额 年度销售占比% 是否存在关联关系 2 北京京东世纪贸易有限公司 413,146,067.53 13.71% 否"
+    },
+    {
+      "name": "广州乐道电子商务有限公司",
+      "relation_type": "customer",
+      "business_details": "第三大客户",
+      "quote": "序号 客户 销售金额 年度销售占比% 是否存在关联关系 3 广州乐道电子商务有限公司 285,898,430.44 9.49% 否"
+    },
+    {
+      "name": "深圳市怡亚通供应链股份有限公司",
+      "relation_type": "customer",
+      "business_details": "第四大客户",
+      "quote": "序号 客户 销售金额 年度销售占比% 是否存在关联关系 4 深圳市怡亚通供应链股份有限公司 193,672,548.78 6.43% 否"
+    },
+    {
+      "name": "北京神州数码有限公司",
+      "relation_type": "customer",
+      "business_details": "第五大客户",
+      "quote": "序号 客户 销售金额 年度销售占比% 是否存在关联关系 5 北京神州数码有限公司 156,678,149.15 5.20% 否"
+    },
+    {
+      "name": "蓝天电脑股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "电竞笔记本合作研发与技术服务方",
+      "quote": "合作单位 蓝天电脑股份有限公司 合作项目 电竞笔记本"
+    },
+    {
+      "name": "云达（重庆）科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "电竞笔记本合作研发与技术服务方",
+      "quote": "合作单位 云达（重庆）科技有限公司 合作项目 电竞笔记本"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "笔记本",
+      "segment_type": "product_line",
+      "revenue_amount": "1,835,527,307.36",
+      "revenue_proportion": "60.9%",
+      "gross_margin": "8.89%",
+      "yoy_change": "营业收入比上年同期增减% -6.30%",
+      "quote": "分产品 营业收入 笔记本 1,835,527,307.36 营业成本 1,672,401,193.19 毛利率% 8.89% 营业收入比上年同期增减% -6.30%"
+    },
+    {
+      "name": "台式机及服务器",
+      "segment_type": "product_line",
+      "revenue_amount": "325,651,868.98",
+      "revenue_proportion": "10.8%",
+      "gross_margin": "7.53%",
+      "yoy_change": "营业收入比上年同期增减% 2.68%",
+      "quote": "分产品 营业收入 台式机及服务器 325,651,868.98 营业成本 301,145,886.95 毛利率% 7.53% 营业收入比上年同期增减% 2.68%"
+    },
+    {
+      "name": "周边外设及",
+      "segment_type": "product_line",
+      "revenue_amount": "361,353,603.39",
+      "revenue_proportion": "12.0%",
+      "gross_margin": "9.73%",
+      "yoy_change": "营业收入比上年同期增减% -7.99%",
+      "quote": "分产品 营业收入 周边外设及 361,353,603.39 营业成本 326,202,652.16 毛利率% 9.73% 营业收入比上年同期增减% -7.99%"
+    },
+    {
+      "name": "电脑配件及其他",
+      "segment_type": "product_line",
+      "revenue_amount": "490,383,748.82",
+      "revenue_proportion": "16.3%",
+      "gross_margin": "3.56%",
+      "yoy_change": "营业收入比上年同期增减% 71.09%",
+      "quote": "分产品 营业收入 电脑配件及其他 490,383,748.82 营业成本 472,916,578.82 毛利率% 3.56% 营业收入比上年同期增减% 71.09%"
+    },
+    {
+      "name": "主营业务境内销售",
+      "segment_type": "region",
+      "revenue_amount": "1,786,397,834.49",
+      "revenue_proportion": "59.3%",
+      "gross_margin": "7.41%",
+      "yoy_change": "营业收入比上年同期增减% 17.65%",
+      "quote": "分地区 营业收入 主营业务境内销售 1,786,397,834.49 营业成本 1,653,937,635.95 毛利率% 7.41% 营业收入比上年同期增减% 17.65%"
+    },
+    {
+      "name": "主营业务境外销售",
+      "segment_type": "region",
+      "revenue_amount": "736,134,945.24",
+      "revenue_proportion": "24.4%",
+      "gross_margin": "12.27%",
+      "yoy_change": "营业收入比上年同期增减% -36.01%",
+      "quote": "分地区 营业收入 主营业务境外销售 736,134,945.24 营业成本 645,812,096.35 毛利率% 12.27% 营业收入比上年同期增减% -36.01%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "台式机、笔记本、Mini PC等",
+      "metric_type": "production_volume",
+      "value": "113,617",
+      "period": "2025年",
+      "quote": "主要产品当前产能 产品 产量 台式机、笔记本、Mini PC等 113,617"
+    },
+    {
+      "product": "台式机、笔记本、Mini PC等",
+      "metric_type": "capacity_utilization",
+      "value": "94.68%",
+      "period": "2025年",
+      "quote": "主要产品当前产能 产品 产量 产能利用率 台式机、笔记本、Mini PC等 113,617 94.68%"
+    },
+    {
+      "product": "笔记本电脑",
+      "metric_type": "other",
+      "value": "93.86%",
+      "period": null,
+      "quote": "主要产品委托生产 产品 产品种类 占同类产品的比例 笔记本电脑 笔记本电脑 93.86%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "购置自用办公场所及自建研发测试中心",
+      "project_type": "construction_project",
+      "location": "青岛海云创智商业发展有限公司办公楼资产",
+      "investment_amount": "79,000,106",
+      "designed_capacity": null,
+      "progress": "正在装修，尚未投入使用",
+      "expected_completion_time": null,
+      "quote": "公司亟需扩充办公场所及自建研发测试中心，更好地吸引各类人才，提升公司的综合竞争力，购置了自用办公场所...报告期末上述场所正在装修，尚未投入使用；交易内容：购买办公楼资产...对价金额：79,000,106元"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "公司拥有的专利数量175项，其中发明专利7项",
+      "quote": "专利情况：项目 本期数量 公司拥有的专利数量 175 公司拥有的发明专利数量 7"
+    },
+    {
+      "name": "高新技术企业",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "高新技术企业认定 是",
+      "quote": "“高新技术企业”认定 是"
+    },
+    {
+      "name": "省（市）级专精特新",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“专精特新”认定 √省（市）级"
+    },
+    {
+      "name": "省（市）级单项冠军",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "“单项冠军”认定 √省（市）级"
+    },
+    {
+      "name": "海光C86处理器应用技术",
+      "asset_type": "core_technology",
+      "related_product": "信创台式机、服务器",
+      "quantitative_info": null,
+      "quote": "重点推出...首款搭载海光C86新一代CPU的高端电竞主机、雷神博越海光服务器等信创产品"
+    },
+    {
+      "name": "雷神蜂鸟护眼屏技术",
+      "asset_type": "core_technology",
+      "related_product": "电竞笔记本",
+      "quantitative_info": null,
+      "quote": "18英寸雷神蜂鸟护眼屏：2.5K高分辨率+240Hz高刷新率"
+    },
+    {
+      "name": "“飍”科技三风扇散热技术",
+      "asset_type": "process_technology",
+      "related_product": "电竞笔记本",
+      "quantitative_info": null,
+      "quote": "“飍”科技三风扇2.0，全新散热再升级：3风扇，进气量提升40%，10秒内迅速降温；7高效3D导热管，导热效率提升25%"
+    },
+    {
+      "name": "雷神AI光幕系统",
+      "asset_type": "core_technology",
+      "related_product": "电竞笔记本",
+      "quantitative_info": null,
+      "quote": "雷神AI光幕系统，光随心（芯）动：AI智能光效调节，游戏，音乐，视频，实时动态氛围光效。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "659,569,885.86",
+      "related_entity": "海尔集团公司",
+      "period": "2025年",
+      "quote": "序号 客户 销售金额 年度销售占比% 是否存在关联关系 1 海尔集团公司 659,569,885.86 21.89% 是"
+    },
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "56.72%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "合计 1,708,965,081.76 56.72% -"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "537,208,114.32",
+      "related_entity": "Intel Semiconductor(US) LLC",
+      "period": "2025年",
+      "quote": "序号 供应商 采购金额 年度采购占比% 是否存在关联关系 1 Intel Semiconductor(US) LLC 537,208,114.32 17.14% 否"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "57.27%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "合计 1,794,977,733.11 57.27% -"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司持续到本年度的风险和应对措施。重大风险事项描述：实际控制人控制不当的风险...应对措施：公司持续不断地完善公司治理结构和内部控制措施，最大限度杜绝实际控制人利用其实际控制地位对公司进行不当控制。",
+      "related_entity": "海尔集团公司",
+      "related_product": null,
+      "quote": "重大风险事项名称 实际控制人控制不当的风险；重大风险事项描述：苏州海新为公司控股股东，海尔集团为公司的实际控制人。若控股股东苏州海新、实际控制人海尔集团利用其对公司的实际控制权，对公司的经营决策、人事、财务等进行不当控制，可能给公司经营和其他股东带来风险。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司治理的风险。重大风险事项描述：随着公司业绩及经营规模扩大、员工数量增加，公司的组织结构也愈加复杂，这对公司治理及经营管理能力提出了更高的要求。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大风险事项名称 公司治理的风险；重大风险事项描述：随着公司业绩及经营规模扩大、员工数量增加，公司的组织结构也愈加复杂，这对公司治理及经营管理能力提出了更高的要求。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动的风险。重大风险事项描述：公司采购计算机核心部件及整机主要以美元结算，美元与人民币间的汇率波动将直接影响公司的采购成本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大风险事项名称 汇率波动的风险；重大风险事项描述：公司采购计算机核心部件及整机主要以美元结算，美元与人民币间的汇率波动将直接影响公司的采购成本。"
+    },
+    {
+      "risk_type": "other",
+      "description": "关联交易的风险。重大风险事项描述：公司与控股股东苏州海新、实际控制人海尔集团及其控制的其他企业之间存在采购商品、销售商品等关联交易。",
+      "related_entity": "海尔集团公司",
+      "related_product": null,
+      "quote": "重大风险事项名称 关联交易的风险；重大风险事项描述：公司与控股股东苏州海新、实际控制人海尔集团及其控制的其他企业之间存在采购商品、销售商品等关联交易。"
+    },
+    {
+      "risk_type": "other",
+      "description": "核心人才流失风险。重大风险事项描述：公司培养了一批研发、管理、营销等方面的专业人才，这是公司核心竞争力的重要组成部分。随着市场竞争的不断加剧，行业内对人才的争夺也日趋激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大风险事项名称 核心人才流失风险；重大风险事项描述：公司培养了一批研发、管理、营销等方面的专业人才，这是公司核心竞争力的重要组成部分。随着市场竞争的不断加剧，行业内对人才的争夺也日趋激烈。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "国际贸易环境不确定性风险。重大风险事项描述：公司境外销售业务受到政策法规变动、政治经济局势变化、知识产权保护等多种因素影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "重大风险事项名称 国际贸易环境不确定性风险；重大风险事项描述：公司境外销售业务受到政策法规变动、政治经济局势变化、知识产权保护等多种因素影响。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "核心原材料供应的风险。重大风险事项描述：全球 AI 服务器市场新增内存和存储备货需求相继涌现...加剧原厂产能供应向高性能服务器存储产品倾斜，使得个人计算机使用相关核心原材料价格攀升。",
+      "related_entity": null,
+      "related_product": "内存、存储等核心原材料",
+      "quote": "新增风险事项名称 核心原材料供应的风险；重大风险事项描述：全球 AI 服务器市场新增内存和存储备货需求相继涌现...加剧原厂产能供应向高性能服务器存储产品倾斜，使得个人计算机使用相关核心原材料价格攀升。"
+    },
+    {
+      "risk_type": "other",
+      "description": "诉讼风险。报告期内存在作为原告的诉讼、仲裁事项，累计金额4,630,000元，占期末净资产比例0.54%。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "诉讼、仲裁事项 1. 报告期内发生的诉讼、仲裁事项 √适用 □不适用 单位：元 性质 累计金额 占期末净资产比例% 作为原告/申请人 4,630,000 0.54%"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "company_name_mentioned": "江西沃格光电集团股份有限公司",
+  "produces": [
+    {
+      "name": "光电玻璃精加工",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "光电玻璃精加工业务实现销售收入7.94亿元"
+    },
+    {
+      "name": "光电显示器件",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "光电显示器件产品业务实现销售收入13.36亿元"
+    },
+    {
+      "name": "玻璃基MiniLED背光显示模组",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司玻璃基MiniLED背光产品已供货海信，应用于其大圣G9系列显示器产品"
+    },
+    {
+      "name": "玻璃基线路板（GCP）",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "其生产的玻璃基线路板（GCP）及灯板产品已在MNT显示器产品中实现批量生产和商用"
+    },
+    {
+      "name": "玻璃基RF射频器件",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "在玻璃基RF射频器件方向，产品涵盖5G-A/6G通信射频天线振子等高频信号传输场景"
+    },
+    {
+      "name": "光模块/CPO玻璃基封装载板",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "在光模块/CPO玻璃基封装载板方向，目前处于批量送样验证阶段"
+    },
+    {
+      "name": "大算力芯片先进封装用全玻璃基载板",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "在大算力芯片先进封装用全玻璃基载板方向，公司配合半导体行业客户进行全玻璃基封装技术的方案验证与联合攻关"
+    },
+    {
+      "name": "CPI（透明聚酰亚胺）材料",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司面向柔性太阳翼应用开发的CPI（透明聚酰亚胺）材料以及特种光学镀膜"
+    },
+    {
+      "name": "背光模组",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "背光模组和塑料制品的研发、生产和销售"
+    },
+    {
+      "name": "高端光学膜材模切",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "北京宝昂主要生产高端光学膜材模切及代理等业务"
+    },
+    {
+      "name": "车载触控屏及薄膜开关",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "东莞兴为主要生产车载触控屏以及薄膜开关等产品"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料",
+      "target_product": "光电显示器件",
+      "cost_proportion": null,
+      "quote": "光电显示器件 直接材料 1,026,283,009.89 48.45"
+    },
+    {
+      "name": "原材料",
+      "target_product": "光电玻璃精加工",
+      "cost_proportion": null,
+      "quote": "光电玻璃精加工 直接材料 133,402,627.66 6.30"
+    },
+    {
+      "name": "偏光片",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "本报告期主要系偏光片代理收入贸易业务"
+    }
+  ],
+  "applications": [
+    {
+      "name": "手机",
+      "source_product": "显示器件",
+      "quote": "产品终端主要应用于手机、笔记本电脑、平板、车载、智能手表、工控、医疗等显示领域"
+    },
+    {
+      "name": "笔记本电脑",
+      "source_product": "显示器件、AMOLED玻璃基精加工产品",
+      "quote": "产品终端主要应用于手机、笔记本电脑、平板、车载、智能手表、工控、医疗等显示领域"
+    },
+    {
+      "name": "平板",
+      "source_product": "显示器件",
+      "quote": "产品终端主要应用于手机、笔记本电脑、平板、车载、智能手表、工控、医疗等显示领域"
+    },
+    {
+      "name": "车载",
+      "source_product": "显示器件、玻璃基MiniLED背光产品",
+      "quote": "产品终端主要应用于手机、笔记本电脑、平板、车载、智能手表、工控、医疗等显示领域"
+    },
+    {
+      "name": "显示器",
+      "source_product": "玻璃基MiniLED背光显示模组",
+      "quote": "该业务通过将传统LCD面板背光源升级为分区背光，重点赋能电视、显示器、笔电、车载等中大尺寸中高端显示市场"
+    },
+    {
+      "name": "电视",
+      "source_product": "玻璃基MiniLED背光显示模组",
+      "quote": "该业务通过将传统LCD面板背光源升级为分区背光，重点赋能电视、显示器、笔电、车载等中大尺寸中高端显示市场"
+    },
+    {
+      "name": "5G-A/6G通信",
+      "source_product": "玻璃基RF射频器件",
+      "quote": "产品涵盖5G-A/6G通信射频天线振子等高频信号传输场景"
+    },
+    {
+      "name": "AI头显/智能眼镜/可穿戴设备",
+      "source_product": "MicroLED直显产品",
+      "quote": "MicroLED直显正逐步向AI头显、智能眼镜、可穿戴设备以及商用公共大屏等近距离核心消费级场景拓展"
+    },
+    {
+      "name": "体外诊断生物芯片",
+      "source_product": "玻璃基板或基础结构件",
+      "quote": "针对体外诊断生物芯片应用玻璃基板或基础结构件"
+    },
+    {
+      "name": "柔性太阳翼",
+      "source_product": "CPI材料及特种光学镀膜",
+      "quote": "公司面向柔性太阳翼应用开发的CPI（透明聚酰亚胺）材料以及特种光学镀膜"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张春姣",
+      "role": "董事长、总经理",
+      "quote": "公司负责人张春姣"
+    },
+    {
+      "name": "易伟华",
+      "role": "实际控制人、控股股东、原董事长",
+      "quote": "易伟华先生作为公司实控人及创办人，主要负责公司产品经营战略及投资运营的整体规划"
+    },
+    {
+      "name": "王鸣昕",
+      "role": "董事、首席战略官",
+      "quote": "现任江西沃格光电集团股份有限公司首席战略官、董事"
+    },
+    {
+      "name": "李高贵",
+      "role": "职工董事、工程总监、减镀产品线总经理",
+      "quote": "现任公司职工董事"
+    },
+    {
+      "name": "龚庆宇",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 龚庆宇"
+    },
+    {
+      "name": "詹锦城",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人詹锦城及会计机构负责人（会计主管人员）詹锦城"
+    },
+    {
+      "name": "孔线宁",
+      "role": "副总经理",
+      "quote": "副总经理 孔线宁"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "京东方",
+      "relation_type": "customer",
+      "business_details": "为知名面板企业提供玻璃精加工服务",
+      "quote": "主要为京东方、TCL、天马、维信诺、群创光电、友达光电等知名面板企业提供精加工服务"
+    },
+    {
+      "name": "TCL",
+      "relation_type": "customer",
+      "business_details": "为知名面板企业提供玻璃精加工服务",
+      "quote": "主要为京东方、TCL、天马、维信诺、群创光电、友达光电等知名面板企业提供精加工服务"
+    },
+    {
+      "name": "天马",
+      "relation_type": "customer",
+      "business_details": "为知名面板企业提供玻璃精加工服务",
+      "quote": "主要为京东方、TCL、天马、维信诺、群创光电、友达光电等知名面板企业提供精加工服务"
+    },
+    {
+      "name": "维信诺",
+      "relation_type": "customer",
+      "business_details": "为知名面板企业提供玻璃精加工服务",
+      "quote": "主要为京东方、TCL、天马、维信诺、群创光电、友达光电等知名面板企业提供精加工服务"
+    },
+    {
+      "name": "群创光电",
+      "relation_type": "customer",
+      "business_details": "为知名面板企业提供玻璃精加工服务",
+      "quote": "主要为京东方、TCL、天马、维信诺、群创光电、友达光电等知名面板企业提供精加工服务"
+    },
+    {
+      "name": "友达光电",
+      "relation_type": "customer",
+      "business_details": "为知名面板企业提供玻璃精加工服务",
+      "quote": "主要为京东方、TCL、天马、维信诺、群创光电、友达光电等知名面板企业提供精加工服务"
+    },
+    {
+      "name": "海信",
+      "relation_type": "customer",
+      "business_details": "供应玻璃基MiniLED背光产品，应用于显示器",
+      "quote": "公司玻璃基MiniLED背光产品已供货海信，应用于其大圣G9系列显示器产品"
+    },
+    {
+      "name": "追觅",
+      "relation_type": "customer",
+      "business_details": "联合发布玻璃基RGB MiniLED电视",
+      "quote": "公司联合追觅发布85寸玻璃基RGB MiniLED电视Z8000"
+    },
+    {
+      "name": "北极雄芯",
+      "relation_type": "joint_venture",
+      "business_details": "围绕异构芯粒与玻璃基板的高度集成AI计算芯片展开合作",
+      "quote": "与北极雄芯签订战略合作协议，围绕异构芯粒与玻璃基板的高度集成AI计算芯片展开合作"
+    },
+    {
+      "name": "深圳沃特佳科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司",
+      "quote": "深圳沃特佳、沃特佳 指 深圳沃特佳科技有限公司，公司全资子公司"
+    },
+    {
+      "name": "深圳市汇晨电子股份有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，生产背光显示模组",
+      "quote": "汇晨电子 指 深圳市汇晨电子股份有限公司，公司控股子公司"
+    },
+    {
+      "name": "北京宝昂电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，生产高端光学膜材模切及代理",
+      "quote": "北京宝昂 指 北京宝昂电子有限公司，公司控股子公司"
+    },
+    {
+      "name": "东莞市兴为电子科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，生产车载触控屏及薄膜开关",
+      "quote": "兴为电子、东莞兴为 指 东莞市兴为电子科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "湖北汇晨电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股子公司",
+      "quote": "湖北汇晨 指 湖北汇晨电子有限公司，公司参股子公司"
+    },
+    {
+      "name": "湖北通格微电路科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，泛半导体业务经营主体",
+      "quote": "湖北通格微 指 湖北通格微电路科技有限公司，公司控股子公司"
+    },
+    {
+      "name": "江西德虹显示技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，玻璃基新型显示业务经营主体",
+      "quote": "江西德虹 指 江西德虹显示技术有限公司，公司全资子公司"
+    },
+    {
+      "name": "成都沃格显示技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，AMOLED精加工项目",
+      "quote": "成都显示、成都沃格 指 成都沃格显示技术有限公司，公司全资子公司"
+    },
+    {
+      "name": "新余市沃德投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "控股股东一致行动人",
+      "quote": "沃德投资 指 新余市沃德投资合伙企业（有限合伙）"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "光电玻璃精加工",
+      "segment_type": "product_line",
+      "revenue_amount": "793,680,147.18元",
+      "revenue_proportion": null,
+      "gross_margin": "31.14%",
+      "yoy_change": "28.49%",
+      "quote": "光电玻璃精加工 营业收入 793,680,147.18 毛利率（%） 31.14 营业收入比上年增减（%） 28.49"
+    },
+    {
+      "name": "光电显示器件",
+      "segment_type": "product_line",
+      "revenue_amount": "1,335,771,935.85元",
+      "revenue_proportion": null,
+      "gross_margin": "8.92%",
+      "yoy_change": "7.10%",
+      "quote": "光电显示器件 营业收入 1,335,771,935.85 毛利率（%） 8.92 营业收入比上年增减（%） 7.10"
+    },
+    {
+      "name": "其他",
+      "segment_type": "product_line",
+      "revenue_amount": "419,240,739.59元",
+      "revenue_proportion": null,
+      "gross_margin": "15.31%",
+      "yoy_change": "18.97%",
+      "quote": "其他 营业收入 419,240,739.59 毛利率（%） 15.31 营业收入比上年增减（%） 18.97"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "2,420,435,070.46元",
+      "revenue_proportion": null,
+      "gross_margin": "15.95%",
+      "yoy_change": "15.84%",
+      "quote": "境内 营业收入 2,420,435,070.46 毛利率（%） 15.95 营业收入比上年增减（%） 15.84"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "128,257,752.16元",
+      "revenue_proportion": null,
+      "gross_margin": "34.55%",
+      "yoy_change": "0.32%",
+      "quote": "境外 营业收入 128,257,752.16 毛利率（%） 34.55 营业收入比上年增减（%） 0.32"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "薄化",
+      "metric_type": "production_volume",
+      "value": "6,656,124片",
+      "period": "报告期（2025年）",
+      "quote": "薄化 片 6,656,124"
+    },
+    {
+      "product": "薄化",
+      "metric_type": "sales_volume",
+      "value": "6,558,099片",
+      "period": "报告期（2025年）",
+      "quote": "薄化 片 6,558,099"
+    },
+    {
+      "product": "镀膜",
+      "metric_type": "production_volume",
+      "value": "4,582,251片",
+      "period": "报告期（2025年）",
+      "quote": "镀膜 片 4,582,251"
+    },
+    {
+      "product": "镀膜",
+      "metric_type": "sales_volume",
+      "value": "4,466,817片",
+      "period": "报告期（2025年）",
+      "quote": "镀膜 片 4,466,817"
+    },
+    {
+      "product": "切割",
+      "metric_type": "production_volume",
+      "value": "68,739,588粒",
+      "period": "报告期（2025年）",
+      "quote": "切割 粒 68,739,588"
+    },
+    {
+      "product": "切割",
+      "metric_type": "sales_volume",
+      "value": "73,869,132粒",
+      "period": "报告期（2025年）",
+      "quote": "切割 粒 73,869,132"
+    },
+    {
+      "product": "LED背光",
+      "metric_type": "production_volume",
+      "value": "23,765,613个",
+      "period": "报告期（2025年）",
+      "quote": "LED背光 个 23,765,613"
+    },
+    {
+      "product": "LED背光",
+      "metric_type": "sales_volume",
+      "value": "23,682,852个",
+      "period": "报告期（2025年）",
+      "quote": "LED背光 个 23,682,852"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "成都AMOLED显示屏玻璃基光蚀刻精加工项目",
+      "project_type": "capacity_expansion",
+      "location": "成都",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "一期设备已搬入，目前处于产线调试及工艺验证阶段",
+      "expected_completion_time": null,
+      "quote": "成都ECI项目方面，公司全资子公司成都沃格投建的AMOLED显示屏玻璃基精加工项目，配套下游面板客户G8.6代AMOLED产线，一期设备已搬入，目前处于产线调试及工艺验证阶段"
+    },
+    {
+      "name": "江西德虹玻璃基MiniLED背光显示项目",
+      "project_type": "capacity_expansion",
+      "location": "江西",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "产能逐步释放",
+      "expected_completion_time": null,
+      "quote": "全资子公司江西德虹当前处于产能释放和市场拓展阶段"
+    },
+    {
+      "name": "湖北通格微玻璃基TGV项目",
+      "project_type": "capacity_expansion",
+      "location": "湖北",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "营收规模极小，处于经营亏损阶段",
+      "expected_completion_time": null,
+      "quote": "由于玻璃基TGV技术在泛半导体领域的应用尚处于产业发展早期阶段，公司多项产品技术均处于送样验证阶段，目前湖北通格微营收规模还极小，并处于经营亏损阶段"
+    },
+    {
+      "name": "向特定对象发行A股股票项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "公司已披露相关方案",
+      "expected_completion_time": null,
+      "quote": "1.关于调整公司 2025 年度向特定对象发行A股股票方案的议案"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "玻璃基MiniLED精准光源背光技术",
+      "asset_type": "core_technology",
+      "related_product": "MiniLED背光模组",
+      "quantitative_info": "可实现玻璃基超薄载板厚度200um，玻璃基线宽线距20um",
+      "quote": "公司独家开发的玻璃扩散板，利用玻璃独特的光学透射和折射性能，可实现玻璃基精准背光"
+    },
+    {
+      "name": "玻璃基TGV（玻璃通孔）技术",
+      "asset_type": "core_technology",
+      "related_product": "MicroLED直显、射频天线、光模块等",
+      "quantitative_info": "可加工玻璃常规尺寸为：510*515mm，可加工玻璃厚度为：0.1-1.1mm，可实现30～150um直径的通孔",
+      "quote": "公司自主研发玻璃通孔(TGV)技术，创新利用超快激光加湿法混合刻蚀工艺"
+    },
+    {
+      "name": "全玻璃基多层线路叠层及玻璃互联键合技术（GCP技术）",
+      "asset_type": "core_technology",
+      "related_product": "算力芯片先进封装、多芯粒异构封装",
+      "quantitative_info": null,
+      "quote": "公司全玻璃基多层线路叠层及玻璃互联键合技术采用TGV（玻璃通孔）及金属化工艺实现上下表面的电气互联"
+    },
+    {
+      "name": "ECI（Etching-Cutting-Ink）技术：玻璃基薄化、切割、丝印一体化技术",
+      "asset_type": "core_technology",
+      "related_product": "OLED显示",
+      "quantitative_info": null,
+      "quote": "公司玻璃基薄化、切割和丝印技术（ECI技术），通过前置激光工艺，对中大尺寸AMOLED显示屏玻璃基进行选择性图形蚀刻工艺"
+    },
+    {
+      "name": "CPI膜材研发、生产和纳米薄膜制备技术",
+      "asset_type": "core_technology",
+      "related_product": "柔性太阳翼保护膜",
+      "quantitative_info": "CPI薄膜的透光率可达92%以上",
+      "quote": "公司具备CPI膜材的研发和生产能力"
+    },
+    {
+      "name": "超精密玻璃光学器件加工与成型技术",
+      "asset_type": "core_technology",
+      "related_product": "半导体刻蚀设备",
+      "quantitative_info": "可实现0.1~10mm厚度，尺寸510*515mm，厚度TTV≤1μm，表面粗糙度≤1nm",
+      "quote": "公司自主研发超精密玻璃光学器件加工与成型技术"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "申请国家专利986件，其中发明专利349件；拥有核心有效授权专利480件，其中发明专利141件",
+      "quote": "截止2025年12月31日，公司申请国家专利986件，其中发明专利349件，实用新型专利633件，外观设计专利4件；拥有核心有效授权专利480件，其中发明专利141件，实用新型专利336件，外观设计专利3件"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "182,461.36万元",
+      "related_entity": null,
+      "period": "报告期（2025年）",
+      "quote": "前五名客户销售额182,461.36万元，占年度销售总额71.44%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "74,776.00万元",
+      "related_entity": null,
+      "period": "报告期（2025年）",
+      "quote": "前五名供应商采购额74,776.00万元，占年度采购总额48.15%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "公司传统业务所处的光电玻璃精加工行业受下游终端市场景气周期波动的影响较为显著，以及行业新产能扩充可能导致市场竞争加剧和产品价格的下降",
+      "related_entity": null,
+      "related_product": "光电玻璃精加工",
+      "quote": "市场需求波动及行业竞争加剧的风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "公司部分新兴业务尚处于研发验证或小批量送样阶段，产业化进程受下游客户验证周期、终端产品认证流程、市场需求释放节奏等多重外部因素影响，未来订单规模及持续性存在较大不确定性",
+      "related_entity": null,
+      "related_product": "玻璃基新兴业务",
+      "quote": "新兴业务产业化不及预期的风险"
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": "公司可能面临核心技术人员、关键岗位熟练技术工人流失的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "人才流失的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着公司业务领域的不断扩大，公司的管理跨度越来越大，这对公司管理层的管理与协调能力，以及公司在文化融合、资源整合、技术开发、市场开拓等方面的能力提出了更高的要求",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "管理风险"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司及董事会秘书分别于2026年2月4日收到上交所下发的《关于对江西沃格光电集团股份有限公司及有关责任人予以监管警示的决定》，公司在上证e互动回复中相关表述不够准确、客观，且未能充分揭示风险",
+      "related_entity": "江西沃格光电集团股份有限公司",
+      "related_product": null,
+      "quote": "公司及董事会秘书分别于2026年2月4日收到上交所下发的《关于对江西沃格光电集团股份有限公司及有关责任人予以监管警示的决定》（上证公监函〔2026〕0027号）"
+    }
+  ]
+}

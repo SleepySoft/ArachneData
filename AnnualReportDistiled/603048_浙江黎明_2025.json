@@ -1,0 +1,439 @@
+{
+  "company_name_mentioned": "浙江黎明智造股份有限公司",
+  "produces": [
+    {
+      "name": "精锻件",
+      "type": "component",
+      "revenue_proportion": "精锻件收入197,211,636.39元，毛利率41.58%",
+      "quote": "精锻件 197,211,636.39 115,217,461.17 41.58 5.46 4.21 增加0.70个百分点"
+    },
+    {
+      "name": "装配件",
+      "type": "component",
+      "revenue_proportion": "装配件收入272,772,129.90元，毛利率28.74%",
+      "quote": "装配件 272,772,129.90 194,365,725.58 28.74 14.93 15.03 减少0.06个百分点"
+    },
+    {
+      "name": "冲压件",
+      "type": "component",
+      "revenue_proportion": "冲压件收入176,457,781.36元，毛利率38.51%",
+      "quote": "冲压件 176,457,781.36 108,505,859.11 38.51 7.34 -2.2 增加6.00个百分点"
+    },
+    {
+      "name": "其他件",
+      "type": "component",
+      "revenue_proportion": "其他件收入71,446,971.92元，毛利率19.74%",
+      "quote": "其他件 71,446,971.92 57,342,169.74 19.74 48.05 56.21 减少4.19个百分点"
+    }
+  ],
+  "procures": [
+    {
+      "name": "碳素钢、合金钢等钢材",
+      "target_product": "汽车精密零部件",
+      "cost_proportion": null,
+      "quote": "公司生产所需的主要材料是碳素钢、合金钢等，因此钢材价格波动对公司盈利能力有较大影响。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "传统燃油车型",
+      "source_product": "气门桥、气门锁片、活塞冷却喷嘴、曲轴传感器信号盘等",
+      "quote": "公司产品种类众多...可广泛运用于传统燃油车型、混动车型及纯电动车型"
+    },
+    {
+      "name": "混动车型",
+      "source_product": "气门桥、气门锁片、活塞冷却喷嘴、曲轴传感器信号盘等",
+      "quote": "公司产品种类众多...可广泛运用于传统燃油车型、混动车型及纯电动车型"
+    },
+    {
+      "name": "纯电动车型",
+      "source_product": "气门桥、气门锁片、活塞冷却喷嘴、曲轴传感器信号盘等",
+      "quote": "公司产品种类众多...可广泛运用于传统燃油车型、混动车型及纯电动车型"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "俞黎明",
+      "role": "董事长",
+      "quote": "公司负责人俞黎明...保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "俞振寰",
+      "role": "董事、总经理",
+      "quote": "俞振寰 董事、总经理"
+    },
+    {
+      "name": "郑晓敏",
+      "role": "董事",
+      "quote": "郑晓敏 董事"
+    },
+    {
+      "name": "高宁平",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人高宁平"
+    },
+    {
+      "name": "陈冠羽",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 陈冠羽"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "康明斯（Cummins）",
+      "relation_type": "customer",
+      "business_details": "主要客户，并达成全球战略合作关系，荣获其‘战略核心供应商’称号。",
+      "quote": "公司主要客户包括康明斯（Cummins）...等众多国内外知名汽车整车厂或主机厂"
+    },
+    {
+      "name": "潍柴动力",
+      "relation_type": "customer",
+      "business_details": "主要客户",
+      "quote": "公司主要客户包括康明斯（Cummins）、潍柴动力、长城汽车、广汽丰田..."
+    },
+    {
+      "name": "舍弗勒（Schaeffler）",
+      "relation_type": "customer",
+      "business_details": "主要客户",
+      "quote": "公司主要客户包括...舍弗勒（Schaeffler）..."
+    },
+    {
+      "name": "浙江自贸区黎明投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东/黎明投资 指 浙江自贸区黎明投资有限公司"
+    },
+    {
+      "name": "黎明喷嘴/喷嘴事业部",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事活塞冷却喷嘴产品的研发和制造业务",
+      "quote": "黎明喷嘴/喷嘴事业部 指 浙江舟山黎明活塞冷却喷嘴有限公司"
+    },
+    {
+      "name": "黎明电磁阀",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "黎明电磁阀 指 舟山市黎明电磁阀科技有限公司"
+    },
+    {
+      "name": "佶安电控/电控事业部",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事汽车阀类零部件的研发和制造业务",
+      "quote": "佶安电控/电控事业部 指 佶安电控技术（舟山）有限公司"
+    },
+    {
+      "name": "重庆黎明/摩擦片事业部",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "重庆黎明/摩擦片事业部 指 重庆黎明汽车零部件有限公司"
+    },
+    {
+      "name": "上海黎旻/空气泵事业部",
+      "relation_type": "subsidiary",
+      "business_details": "主要从事汽车空悬气压泵、座椅泵等产品的研发和制造业务",
+      "quote": "上海黎旻/空气泵事业部 指 上海黎旻佶安汽车悬架有限公司"
+    },
+    {
+      "name": "旋变事业部",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "旋变事业部 指 黎明传感科技（舟山）有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "精锻件",
+      "segment_type": "product_line",
+      "revenue_amount": "197,211,636.39元",
+      "revenue_proportion": null,
+      "gross_margin": "41.58%",
+      "yoy_change": "营业收入比上年同期增减5.46%",
+      "quote": "精锻件 197,211,636.39 115,217,461.17 41.58 5.46 4.21 增加0.70个百分点"
+    },
+    {
+      "name": "装配件",
+      "segment_type": "product_line",
+      "revenue_amount": "272,772,129.90元",
+      "revenue_proportion": null,
+      "gross_margin": "28.74%",
+      "yoy_change": "营业收入比上年同期增减14.93%",
+      "quote": "装配件 272,772,129.90 194,365,725.58 28.74 14.93 15.03 减少0.06个百分点"
+    },
+    {
+      "name": "冲压件",
+      "segment_type": "product_line",
+      "revenue_amount": "176,457,781.36元",
+      "revenue_proportion": null,
+      "gross_margin": "38.51%",
+      "yoy_change": "营业收入比上年同期增减7.34%",
+      "quote": "冲压件 176,457,781.36 108,505,859.11 38.51 7.34 -2.2 增加6.00个百分点"
+    },
+    {
+      "name": "其他件",
+      "segment_type": "product_line",
+      "revenue_amount": "71,446,971.92元",
+      "revenue_proportion": null,
+      "gross_margin": "19.74%",
+      "yoy_change": "营业收入比上年同期增减48.05%",
+      "quote": "其他件 71,446,971.92 57,342,169.74 19.74 48.05 56.21 减少4.19个百分点"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "677,503,221.44元",
+      "revenue_proportion": null,
+      "gross_margin": "34.03%",
+      "yoy_change": "营业收入比上年同期增减15.27%",
+      "quote": "境内 677,503,221.44 446,949,882.02 34.03 15.27 14.22 增加0.63个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "40,385,298.13元",
+      "revenue_proportion": null,
+      "gross_margin": "29.48%",
+      "yoy_change": "营业收入比上年同期增减-17.94%",
+      "quote": "境外 40,385,298.13 28,481,333.58 29.48 -17.94 -20.65 增加2.41个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "精密成型事业部",
+      "metric_type": "capacity",
+      "value": "78,000万件",
+      "period": null,
+      "quote": "精密成型事业部 78,000万件 68,457.00万件 87.62"
+    },
+    {
+      "product": "精密成型事业部",
+      "metric_type": "production_volume",
+      "value": "68,457.00万件",
+      "period": null,
+      "quote": "精密成型事业部 78,000万件 68,457.00万件 87.62"
+    },
+    {
+      "product": "精密成型事业部",
+      "metric_type": "capacity_utilization",
+      "value": "87.62%",
+      "period": null,
+      "quote": "精密成型事业部 78,000万件 68,457.00万件 87.62"
+    },
+    {
+      "product": "喷嘴事业部",
+      "metric_type": "capacity",
+      "value": "5,500万件",
+      "period": null,
+      "quote": "喷嘴事业部 5,500万件 5,005.34万件 90.38"
+    },
+    {
+      "product": "喷嘴事业部",
+      "metric_type": "production_volume",
+      "value": "5,005.34万件",
+      "period": null,
+      "quote": "喷嘴事业部 5,500万件 5,005.34万件 90.38"
+    },
+    {
+      "product": "喷嘴事业部",
+      "metric_type": "capacity_utilization",
+      "value": "90.38%",
+      "period": null,
+      "quote": "喷嘴事业部 5,500万件 5,005.34万件 90.38"
+    },
+    {
+      "product": "缸内制动事业部",
+      "metric_type": "capacity",
+      "value": "10万套",
+      "period": null,
+      "quote": "缸内制动事业部 10万套 0.3万套 3.00"
+    },
+    {
+      "product": "缸内制动事业部",
+      "metric_type": "production_volume",
+      "value": "0.3万套",
+      "period": null,
+      "quote": "缸内制动事业部 10万套 0.3万套 3.00"
+    },
+    {
+      "product": "缸内制动事业部",
+      "metric_type": "capacity_utilization",
+      "value": "3.00%",
+      "period": null,
+      "quote": "缸内制动事业部 10万套 0.3万套 3.00"
+    },
+    {
+      "product": "精锻件",
+      "metric_type": "sales_volume",
+      "value": "20,952.88万件",
+      "period": null,
+      "quote": "精锻件 万件 22,236.83 20,952.88 7,117.88 28.37 20.41 22.01"
+    },
+    {
+      "product": "精锻件",
+      "metric_type": "production_volume",
+      "value": "22,236.83万件",
+      "period": null,
+      "quote": "精锻件 万件 22,236.83 20,952.88 7,117.88 28.37 20.41 22.01"
+    },
+    {
+      "product": "精锻件",
+      "metric_type": "inventory_volume",
+      "value": "7,117.88万件",
+      "period": null,
+      "quote": "精锻件 万件 22,236.83 20,952.88 7,117.88 28.37 20.41 22.01"
+    },
+    {
+      "product": "装配件",
+      "metric_type": "sales_volume",
+      "value": "5,270.91万件",
+      "period": null,
+      "quote": "装配件 万件 5,369.63 5,270.91 1,264.58 17.00 19.70 8.47"
+    },
+    {
+      "product": "装配件",
+      "metric_type": "production_volume",
+      "value": "5,369.63万件",
+      "period": null,
+      "quote": "装配件 万件 5,369.63 5,270.91 1,264.58 17.00 19.70 8.47"
+    },
+    {
+      "product": "装配件",
+      "metric_type": "inventory_volume",
+      "value": "1,264.58万件",
+      "period": null,
+      "quote": "装配件 万件 5,369.63 5,270.91 1,264.58 17.00 19.70 8.47"
+    },
+    {
+      "product": "冲压件",
+      "metric_type": "sales_volume",
+      "value": "47,169.84万件",
+      "period": null,
+      "quote": "冲压件 万件 52,137.20 47,169.84 19,252.01 21.93 11.06 34.77"
+    },
+    {
+      "product": "冲压件",
+      "metric_type": "production_volume",
+      "value": "52,137.20万件",
+      "period": null,
+      "quote": "冲压件 万件 52,137.20 47,169.84 19,252.01 21.93 11.06 34.77"
+    },
+    {
+      "product": "冲压件",
+      "metric_type": "inventory_volume",
+      "value": "19,252.01万件",
+      "period": null,
+      "quote": "冲压件 万件 52,137.20 47,169.84 19,252.01 21.93 11.06 34.77"
+    },
+    {
+      "product": "其他件",
+      "metric_type": "sales_volume",
+      "value": "3,152.94万件",
+      "period": null,
+      "quote": "其他件 万件 2,123.03 3,152.94 770.06 -26.43 10.46 -57.22"
+    },
+    {
+      "product": "其他件",
+      "metric_type": "production_volume",
+      "value": "2,123.03万件",
+      "period": null,
+      "quote": "其他件 万件 2,123.03 3,152.94 770.06 -26.43 10.46 -57.22"
+    },
+    {
+      "product": "其他件",
+      "metric_type": "inventory_volume",
+      "value": "770.06万件",
+      "period": null,
+      "quote": "其他件 万件 2,123.03 3,152.94 770.06 -26.43 10.46 -57.22"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "旋变事业部",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "计划投资金额1,400万元，报告期内投资金额800万元，累积投资金额800万元",
+      "designed_capacity": "150万件",
+      "progress": "在建",
+      "expected_completion_time": "2026-2-28",
+      "quote": "旋变事业部 1,400 800 800 2026-2-28 150万件"
+    },
+    {
+      "name": "空气泵事业部",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "计划投资金额1,500万元，报告期内投资金额200万元，累积投资金额200万元",
+      "designed_capacity": "50万套",
+      "progress": "在建",
+      "expected_completion_time": "2026-9-30",
+      "quote": "空气泵事业部 1,500 200 200 2026-9-30 50万套"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "拥有专利97项，其中境内发明专利24项，境外发明专利2项，实用新型专利71项。报告期内取得专利8项，其中发明专利7项。",
+      "quote": "公司拥有专利97项，其中境内发明专利24项，境外发明专利2项，实用新型专利71项...报告期内公司取得专利8项，其中发明专利7项"
+    },
+    {
+      "name": "团体标准制定",
+      "asset_type": "standard",
+      "related_product": "气门桥、活塞冷却喷嘴",
+      "quantitative_info": "牵头制定了2项团体标准，参与制定了1项国家级行业标准。",
+      "quote": "牵头制定了《内燃机冷挤压型气门桥》（T/ZZB0847-2018）和《往复式内燃机气门桥》（T/CAMS/CICEIA14-2019）2项团体标准，参与制定了《发动机活塞冷却喷嘴（PCJ）技术条件》（JB/T13288-2017）1项国家级行业标准"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "28,259.64万元，占年度销售总额38.87%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额28,259.64万元，占年度销售总额38.87%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "16,309.16万元，占年度采购总额49.52%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额16,309.16万元，占年度采购总额49.52%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "宏观经济及行业波动风险：公司所属行业为汽车零部件制造业，客户主要为汽车整车制造企业和发动机整机生产厂商。公司的生产经营状况与下游汽车行业的景气程度密切相关，且受宏观经济波动影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.宏观经济及行业波动风险...公司的生产经营状况与下游汽车行业的景气程度密切相关，且受宏观经济波动影响较大。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "产业结构变化的风险：尽管目前新能源汽车产业与传统汽车产业相比...但许多国家出台了鼓励新能源汽车发展的若干举措...公司目前产品主要应用于以传统燃料为主的汽车内燃机发动机，若未来新能源汽车的上述技术瓶颈取得突破性进展...将极大地改变目前以传统燃料发动机为主要动力来源的汽车产业格局，而公司若不能及时调整经营战略，则会对公司的生产经营带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.产业结构变化的风险...公司目前产品主要应用于以传统燃料为主的汽车内燃机发动机，若未来新能源汽车的上述技术瓶颈取得突破性进展...将极大地改变目前以传统燃料发动机为主要动力来源的汽车产业格局..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "产品价格下降风险：汽车零部件行业普遍存在价格年度调整惯例...由于汽车整车在其产品生命周期中一般采取前高后低的定价策略...如果公司不能够做好产品生命周期管理，积极拓展新客户，开发新产品，未来产品价格持续下降且成本控制水平未能同步提高，将会对公司的盈利带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、产品价格下降风险...如果公司不能够做好产品生命周期管理...未来产品价格持续下降且成本控制水平未能同步提高，将会对公司的盈利带来不利影响。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新产品开发风险：为了满足消费者的多样化需求，整车制造企业不断推陈出新...如果公司在新产品开发过程中，未能达到整车制造企业对新车型配套产品的要求，将会给公司的生产经营造成一定的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、新产品开发风险...如果公司在新产品开发过程中，未能达到整车制造企业对新车型配套产品的要求，将会给公司的生产经营造成一定的风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "原材料价格波动的风险：公司生产所需的主要材料是碳素钢、合金钢等，因此钢材价格波动对公司盈利能力有较大影响。近几年来，钢材价格波动较大，报告期内钢材等主要原材料价格大幅上涨，直接影响公司的采购成本。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5.原材料价格波动的风险...近几 年来，钢材价格波动较大，报告期内钢材等主要原材料价格大幅上涨，直接影响公司的采购成本。"
+    }
+  ]
+}

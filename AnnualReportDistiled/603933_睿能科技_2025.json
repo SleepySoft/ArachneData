@@ -1,0 +1,589 @@
+{
+  "company_name_mentioned": "福建睿能科技股份有限公司",
+  "produces": [
+    {
+      "name": "行业专用控制系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的行业专用控制系统主要包括针织横机、袜机、刺绣机、手套机、花样机和模板机等电控系统。"
+    },
+    {
+      "name": "可编程逻辑控制器（PLC）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的PLC主要包含过程控制型和运动控制型。"
+    },
+    {
+      "name": "伺服系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的伺服系统主要包含伺服驱动器、伺服电机和编码器。"
+    },
+    {
+      "name": "变频器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的变频器主要包含低压通用型变频器、低压工程型变频器和高压变频器。"
+    },
+    {
+      "name": "软起动器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的软起动器主要包含低压一般型软起动器...等系列。"
+    },
+    {
+      "name": "人机界面（HMI）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的 HMI主要包含 UH400 经济型系列、UH500 标准型系列和UH500W 物联网型系列。"
+    },
+    {
+      "name": "工业物联网（IOT）产品",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研发生产的物联网产品主要硬件包含标准网关 UBox 系列...；软件平台提供设备管理平台和云组态平台。"
+    },
+    {
+      "name": "工业自动化控制产品（整体业务）",
+      "type": "device",
+      "revenue_proportion": "工业自动化业务实现主营业务收入79,297.85万元",
+      "quote": "公司工业自动化业务实现主营业务收入79,297.85万元，同比增长1.97%。"
+    },
+    {
+      "name": "IC产品",
+      "type": "component",
+      "revenue_proportion": "IC分销业务实现主营业务收入138,312.37万元",
+      "quote": "公司IC分销业务实现主营业务收入138,312.37万元，同比上升25.08%。"
+    },
+    {
+      "name": "微控制器芯片、功率器件及模组、电源管理及驱动芯片、模拟及混合信号芯片等",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司分销的IC产品为广义的半导体元器件，主要是集成电路芯片和其他电子元器件，包括微控制器芯片、功率器件及模组、电源管理及驱动芯片、模拟及混合信号芯片等产品。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "IC产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": "前五名供应商采购额110,948.46万元，占年度采购总额61.50%",
+      "quote": "前五名供应商采购额110,948.46万元，占年度采购总额61.50%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    },
+    {
+      "name": "微芯科技的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "微芯科技的微控制器芯片长期行业领先；...上游优质的IC设计资源。"
+    },
+    {
+      "name": "英飞凌的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "英飞凌的功率器件及模组在全球持续拥有高市场占有率；...上游优质的IC设计资源。"
+    },
+    {
+      "name": "罗姆的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "公司与微芯科技、英飞凌、罗姆...等国内外知名IC设计制造商，保持长期稳定合作关系。"
+    },
+    {
+      "name": "华润微的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "上游供应商均为国内外知名IC设计制造商，主要有微芯科技、英飞凌、力特、罗姆和华润微、小华半导体、思瑞浦、兆易创新、矽力杰等。"
+    },
+    {
+      "name": "小华半导体的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "上游供应商均为国内外知名IC设计制造商，主要有...小华半导体、思瑞浦、兆易创新、矽力杰等。"
+    },
+    {
+      "name": "思瑞浦的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "思瑞浦的模拟芯片具有较高的技术实力。"
+    },
+    {
+      "name": "兆易创新的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "上游供应商均为国内外知名IC设计制造商，主要有...兆易创新、矽力杰等。"
+    },
+    {
+      "name": "矽力杰的产品",
+      "target_product": "IC分销业务",
+      "cost_proportion": null,
+      "quote": "上游供应商均为国内外知名IC设计制造商，主要有...矽力杰等。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "纺织机械",
+      "source_product": "行业专用控制系统、PLC、伺服系统、变频器等",
+      "quote": "深度服务于纺织、缝制...等领域，助力生产设备效能提升及数字化智能化升级。"
+    },
+    {
+      "name": "缝制机械",
+      "source_product": "行业专用控制系统",
+      "quote": "深度服务于纺织、缝制...等领域，助力生产设备效能提升及数字化智能化升级。"
+    },
+    {
+      "name": "机器人",
+      "source_product": "伺服系统、编码器、无框力矩电机等",
+      "quote": "公司积极布局人形机器人关节模组的环形驱动器、编码器、无框力矩电机等产品。"
+    },
+    {
+      "name": "机床加工",
+      "source_product": "伺服系统、PLC、变频器等",
+      "quote": "深度服务于...机床加工...等领域，助力生产设备效能提升及数字化智能化升级。"
+    },
+    {
+      "name": "3C电子",
+      "source_product": "PLC、伺服系统等",
+      "quote": "深度服务于...3C电子...等领域，助力生产设备效能提升及数字化智能化升级。"
+    },
+    {
+      "name": "印刷包装",
+      "source_product": "伺服系统、HMI等",
+      "quote": "深度服务于...印刷包装...等领域，助力生产设备效能提升及数字化智能化升级。"
+    },
+    {
+      "name": "冶金",
+      "source_product": "变频器、软起动器",
+      "quote": "公司变频器产品广泛应用于冶金、采矿...等行业。"
+    },
+    {
+      "name": "暖通",
+      "source_product": "PLC、HMI、IOT产品",
+      "quote": "公司 PLC 产品广泛应用于暖通...等行业。"
+    },
+    {
+      "name": "采矿",
+      "source_product": "变频器、软起动器",
+      "quote": "公司变频器产品广泛应用于冶金、采矿...等行业。"
+    },
+    {
+      "name": "化工",
+      "source_product": "变频器、软起动器",
+      "quote": "深度服务于...化工...等领域。"
+    },
+    {
+      "name": "能源电力",
+      "source_product": "变频器、软起动器",
+      "quote": "深度服务于...能源电力...等领域。"
+    },
+    {
+      "name": "水务环保",
+      "source_product": "变频器、软起动器、PLC、IOT产品",
+      "quote": "深度服务于...水务环保等领域。"
+    },
+    {
+      "name": "工业控制",
+      "source_product": "IC产品",
+      "quote": "主要深耕工业控制、汽车电子、消费电子等行业。"
+    },
+    {
+      "name": "汽车电子",
+      "source_product": "IC产品",
+      "quote": "主要深耕工业控制、汽车电子、消费电子等行业。"
+    },
+    {
+      "name": "消费电子",
+      "source_product": "IC产品",
+      "quote": "主要深耕工业控制、汽车电子、消费电子等行业。"
+    },
+    {
+      "name": "新能源汽车",
+      "source_product": "IC产品（汽车级MCU、电源管理芯片等）",
+      "quote": "积极开拓新能源汽车、光伏逆变、充电桩、储能、高效电机控制、工业互联、机器人和AI数据中心等新兴细分应用领域。"
+    },
+    {
+      "name": "光伏逆变",
+      "source_product": "IC产品（碳化硅器件等）",
+      "quote": "积极开拓新能源汽车、光伏逆变...等新兴细分应用领域。"
+    },
+    {
+      "name": "充电桩",
+      "source_product": "IC产品（功率器件等）",
+      "quote": "积极开拓...充电桩...等新兴细分应用领域。"
+    },
+    {
+      "name": "储能",
+      "source_product": "IC产品",
+      "quote": "积极开拓...储能...等新兴细分应用领域。"
+    },
+    {
+      "name": "高效电机控制",
+      "source_product": "IC产品",
+      "quote": "积极开拓...高效电机控制...等新兴细分应用领域。"
+    },
+    {
+      "name": "工业互联",
+      "source_product": "IC产品",
+      "quote": "积极开拓...工业互联...等新兴细分应用领域。"
+    },
+    {
+      "name": "AI数据中心",
+      "source_product": "IC产品（第三代半导体器件等）",
+      "quote": "在AI服务器电源领域，针对1.8kW至5.5kW功率段的电源供应器，已与主要电源制造商达成设计合作。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨维坚",
+      "role": "董事长、总经理",
+      "quote": "公司负责人杨维坚...保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "赵健民",
+      "role": "董事、副总经理、半导体分销事业部总经理",
+      "quote": "赵健民...现任公司董事、半导体分销事业部总经理。"
+    },
+    {
+      "name": "蓝李春",
+      "role": "董事、副总经理、董事会秘书",
+      "quote": "蓝李春...现任公司董事、副总经理、董事会秘书。"
+    },
+    {
+      "name": "张珍",
+      "role": "职工代表董事、流程与IT管理部负责人",
+      "quote": "张珍...现任公司职工代表董事、流程与IT管理部负责人。"
+    },
+    {
+      "name": "张香玉",
+      "role": "财务负责人",
+      "quote": "张香玉...现任公司财务负责人。"
+    },
+    {
+      "name": "张国利",
+      "role": "副总经理、纺织自动化事业部总经理",
+      "quote": "张国利...现任公司副总经理、纺织自动化事业部总经理。"
+    },
+    {
+      "name": "刘国鹰",
+      "role": "副总经理、通用自动化事业部总经理",
+      "quote": "刘国鹰...现任公司副总经理、通用自动化事业部总经理。"
+    },
+    {
+      "name": "李继维",
+      "role": "副总经理、通用控制事业部总经理",
+      "quote": "李继维...现任公司副总经理、通用控制事业部总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "睿能实业有限公司",
+      "relation_type": "investor",
+      "business_details": "公司控股股东",
+      "quote": "睿能实业 指 睿能实业有限公司，公司控股股东。"
+    },
+    {
+      "name": "贝能国际有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要从事中国香港地区交货的IC产品分销",
+      "quote": "贝能国际 指 贝能国际有限公司，公司全资子公司。"
+    },
+    {
+      "name": "贝能电子（福建）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要从事中国大陆地区交货的IC产品分销",
+      "quote": "福建贝能 指 贝能电子（福建）有限公司，公司全资子公司。"
+    },
+    {
+      "name": "贝能电子（上海）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要从事中国大陆地区交货的IC产品分销",
+      "quote": "上海贝能 指 贝能电子（上海）有限公司，公司全资子公司。"
+    },
+    {
+      "name": "福建睿能智能电子有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，福州生产基地及部分专用智能电控系统的研发、生产和销售",
+      "quote": "睿能智能 指 福建睿能智能电子有限公司（原名福建海睿达科技有限公司，于2025年4月更名），公司全资子公司。"
+    },
+    {
+      "name": "福州睿能控制技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，主要从事刺绣机专用智能电控系统的研发、生产和销售",
+      "quote": "睿能控制 指 福州睿能控制技术有限公司，公司控股子公司。"
+    },
+    {
+      "name": "上海奇电电气科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要从事变频器、软起动器的研发、生产和销售",
+      "quote": "奇电电气 指 上海奇电电气科技有限公司，公司全资子公司。"
+    },
+    {
+      "name": "深圳市亿维自动化技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司控股子公司，主要从事可编程逻辑控制器、人机界面、触控一体机以及工业物联网系统等产品的研发、生产和销售",
+      "quote": "深圳亿维 指 深圳市亿维自动化技术有限公司，公司控股子公司。"
+    },
+    {
+      "name": "嘉兴睿能奇电电气有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司全资子公司，主要从事电机及工业自动控制系统研发、生产、销售",
+      "quote": "嘉兴睿能 指 嘉兴睿能奇电电气有限公司（原名嘉兴睿能电气有限公司，于2025年5月更名），公司全资子公司。"
+    },
+    {
+      "name": "浙江中自机电控制技术有限公司",
+      "relation_type": "investor",
+      "business_details": "公司参股公司，工控产品（织造设备自动化控制系统）的研发生产和销售",
+      "quote": "中自机电 指 浙江中自机电控制技术有限公司，公司参股公司。"
+    },
+    {
+      "name": "微芯科技",
+      "relation_type": "supplier",
+      "business_details": "美国IC设计制造商，上游供应商",
+      "quote": "微芯科技 指 Microchip Technology Inc.；Microchip Technology Ireland，美国IC设计制造商。"
+    },
+    {
+      "name": "英飞凌",
+      "relation_type": "supplier",
+      "business_details": "德国IC设计制造商，上游供应商",
+      "quote": "英飞凌 指 Infineon Technologies.Ltd.，德国IC设计制造商。"
+    },
+    {
+      "name": "罗姆",
+      "relation_type": "supplier",
+      "business_details": "日本IC设计制造商，上游供应商",
+      "quote": "罗姆 指 ROHM Co.,Ltd.，日本IC设计制造商。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "工业自动化",
+      "segment_type": "business_unit",
+      "revenue_amount": "79,297.85万元",
+      "revenue_proportion": null,
+      "gross_margin": "36.01%",
+      "yoy_change": "1.97%",
+      "quote": "工业自动化 79,297.85 50,740.73 36.01 1.97 4.95 -1.82"
+    },
+    {
+      "name": "IC产品分销",
+      "segment_type": "business_unit",
+      "revenue_amount": "138,312.37万元",
+      "revenue_proportion": null,
+      "gross_margin": "13.76%",
+      "yoy_change": "25.08%",
+      "quote": "IC产品分销 138,312.37 119,282.79 13.76 25.08 23.90 0.82"
+    },
+    {
+      "name": "其他",
+      "segment_type": "business_unit",
+      "revenue_amount": "3,369.26万元",
+      "revenue_proportion": null,
+      "gross_margin": "47.66%",
+      "yoy_change": "38.00%",
+      "quote": "其他 3,369.26 1,763.40 47.66 38.00 45.32 -2.64"
+    },
+    {
+      "name": "工业自动化控制产品",
+      "segment_type": "product_line",
+      "revenue_amount": "79,297.85万元",
+      "revenue_proportion": null,
+      "gross_margin": "36.01%",
+      "yoy_change": "1.97%",
+      "quote": "工业自动化控制产品 79,297.85 50,740.73 36.01 1.97 4.95 -1.82"
+    },
+    {
+      "name": "IC分销产品",
+      "segment_type": "product_line",
+      "revenue_amount": "138,312.37万元",
+      "revenue_proportion": null,
+      "gross_margin": "13.76%",
+      "yoy_change": "25.08%",
+      "quote": "IC分销产品 138,312.37 119,282.79 13.76 25.08 23.90 0.82"
+    },
+    {
+      "name": "其他产品",
+      "segment_type": "product_line",
+      "revenue_amount": "3,369.26万元",
+      "revenue_proportion": null,
+      "gross_margin": "47.66%",
+      "yoy_change": "38.00%",
+      "quote": "其他产品 3,369.26 1,763.40 47.66 38.00 45.32 -2.64"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "201,653.21万元",
+      "revenue_proportion": null,
+      "gross_margin": "23.26%",
+      "yoy_change": "14.67%",
+      "quote": "境内 201,653.21 154,752.11 23.26 14.67 16.68 -1.32"
+    },
+    {
+      "name": "境外（香港及国外）",
+      "segment_type": "region",
+      "revenue_amount": "19,326.27万元",
+      "revenue_proportion": null,
+      "gross_margin": "11.86%",
+      "yoy_change": "29.50%",
+      "quote": "境外（香港及国外） 19,326.27 17,034.81 11.86 29.50 29.01 0.34"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "204,028.86万元",
+      "revenue_proportion": null,
+      "gross_margin": "21.30%",
+      "yoy_change": "21.08%",
+      "quote": "直销 204,028.86 160,568.96 21.30 21.08 22.44 -0.88"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "16,950.62万元",
+      "revenue_proportion": null,
+      "gross_margin": "33.82%",
+      "yoy_change": "-23.89%",
+      "quote": "经销 16,950.62 11,217.96 33.82 -23.89 -23.66 -0.20"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "工业自动化控制产品",
+      "metric_type": "production_volume",
+      "value": "409,599台",
+      "period": "2025年",
+      "quote": "生产量 409,599"
+    },
+    {
+      "product": "工业自动化控制产品",
+      "metric_type": "sales_volume",
+      "value": "404,380台",
+      "period": "2025年",
+      "quote": "销售量 404,380"
+    },
+    {
+      "product": "工业自动化控制产品",
+      "metric_type": "inventory_volume",
+      "value": "83,400台",
+      "period": "2025年末",
+      "quote": "库存量 83,400"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "嘉兴睿能工业自动化生产基地",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "11,275.12万元",
+      "designed_capacity": null,
+      "progress": "84.61%",
+      "expected_completion_time": null,
+      "quote": "嘉兴睿能工业自动化生产基地 自建 工业自动化 11,275.12 12,930.55 自有资金 84.61 2024/10/11"
+    },
+    {
+      "name": "首发募投项目（针织横机电脑控制系统生产建设项目等）",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "首发募投项目“针织横机电脑控制系统生产建设项目和针织袜机电脑控制系统生产建设项目”于2024年9月末达到预定可使用状态。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "273项（发明专利134项、实用新型专利112项、外观专利27项）",
+      "quote": "截至2025年12月31日，公司拥有有效专利证书273项，其中发明专利134项、实用新型专利112项、外观专利27项，另有计算机软件著作权274项。"
+    },
+    {
+      "name": "计算机软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "274项",
+      "quote": "另有计算机软件著作权274项。"
+    },
+    {
+      "name": "CNAS认证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "福州实验室通过中国合格评定委员会（CNAS）认证。"
+    },
+    {
+      "name": "研发投入",
+      "asset_type": "other",
+      "related_product": "公司整体",
+      "quantitative_info": "研发投入总额占营业收入比例（%） 5.68",
+      "quote": "研发投入总额占营业收入比例（%） 5.68"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "31,422.69万元，占年度销售总额14.06%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额31,422.69万元，占年度销售总额14.06%；其中前五名客户销售额中关联方销售额0万元，占年度销售总额0%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "110,948.46万元，占年度采购总额61.50%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额110,948.46万元，占年度采购总额61.50%；其中前五名供应商采购额中关联方采购额0万元，占年度采购总额0%。"
+    },
+    {
+      "metric_type": "supplier_dependency",
+      "value": "供应商相对集中",
+      "related_entity": null,
+      "period": null,
+      "quote": "IC分销业务的供应商为IC设计制造商，IC设计制造商在全球范围内具有市场份额相对集中...因此，也具有供应商相对集中的特征。"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "工业自动化市场的参与者众多，市场竞争激烈；若公司未能紧跟技术趋势保持适应性，又未能不断提升服务与创新能力、成本与价格等竞争优势，将面临市场竞争加剧的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "随着数字化、智能化趋势加速，工业自动化市场发展前景广阔...但由于工业自动化市场的参与者众多，市场竞争激烈；若公司未能紧跟技术趋势保持适应性，又未能不断提升服务与创新能力、成本与价格等竞争优势，将面临市场竞争加剧的风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司外汇收支主要涉及公司IC分销业务、外币借款以及海外业务，汇率的变动会产生汇兑损益，进而影响公司的利润。由于汇率的变动，受国内外政治经济金融政策等各种因素影响，具有一定的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司外汇收支主要涉及公司IC分销业务、外币借款以及海外业务，汇率的变动会产生汇兑损益，进而影响公司的利润。由于汇率的变动，受国内外政治经济金融政策等各种因素影响，具有一定的不确定性。"
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": "IC分销业务的供应商为IC设计制造商，IC设计制造商在全球范围内具有市场份额相对集中...若公司未来销售规模不理想和技术水平达不到上游IC设计制造商的要求，或上游IC设计制造商经营销售模式及经营状况发生重大变化，从而终止与公司的合作，而公司又未能在短期内成为其他IC设计制造商的授权分销商，则公司的经营业绩将会受此影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "若公司未来销售规模不理想和技术水平达不到上游IC设计制造商的要求，或上游IC设计制造商经营销售模式及经营状况发生重大变化，从而终止与公司的合作，而公司又未能在短期内成为其他IC设计制造商的授权分销商，则公司的经营业绩将会受此影响。"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "半导体集成电路产业呈现芯片供应、市场价格周期波动加剧等特点，公司为降低电子元器件行情波动风险，进行相应备货，但如果公司的销售备货预测与实际情况差异较大，未能及时把握下游行业需求变化；或由于其他原因导致存货未能顺利实现销售，存货跌价风险可能上升。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如果公司的销售备货预测与实际情况差异较大，未能及时把握下游行业需求变化；或由于其他原因导致存货未能顺利实现销售，存货跌价风险可能上升。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "随着公司业务的发展，应收账款余额相应增加，虽然公司已经建立了稳健的坏账准备计提政策和客户信用评审制度，但是如果社会经济环境恶化、客户经营不善、回款制度执行不彻底等情形出现从而导致大额应收账款不能如期收回，公司存在资金压力增大或经营业绩下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "如果社会经济环境恶化、客户经营不善、回款制度执行不彻底等情形出现从而导致大额应收账款不能如期收回，公司存在资金压力增大或经营业绩下降的风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "基于战略发展需要，公司近年来通过兼并收购等方式获得技术、资源和新市场，但是，在整体经济增长压力较大的环境下，被并购企业经营及盈利状况不达预期风险也相应增大，兼并收购中产生的商誉也将面临计提减值的压力，从而造成影响公司当期盈利业绩的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "在整体经济增长压力较大的环境下，被并购企业经营及盈利状况不达预期风险也相应增大，兼并收购中产生的商誉也将面临计提减值的压力，从而造成影响公司当期盈利业绩的风险。"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "company_name_mentioned": "北京万泰生物药业股份有限公司",
+  "produces": [
+    {
+      "name": "二价HPV疫苗（馨可宁®）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "二价HPV疫苗馨可宁®取得双线进展：国内成功入围2025年国家免疫规划集中采购，海外市场拓展同步加速"
+    },
+    {
+      "name": "九价HPV疫苗（馨可宁®9）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司实现了历史性突破——成功上市了我国首款、全球第二款九价HPV疫苗馨可宁®9"
+    },
+    {
+      "name": "体外诊断试剂",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司自主研发诊断试剂实现多平台全覆盖，其中化学发光试剂129余项、生化试剂130余项、酶免/胶体金试剂100余项、核酸试剂10余项"
+    },
+    {
+      "name": "诊断设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "推出全谱系自动化解决方案，精准匹配不同医疗机构升级需求，助力智慧医院建设与医疗数智化转型。公司推出WanTLAPrime、WanTLAMini自动化流水线"
+    },
+    {
+      "name": "原料（抗原抗体等）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司在抗原抗体原料研发方面不断取得突破，成功攻克进口‘卡脖子’难题，原料外销获得全球客户的高度认可"
+    },
+    {
+      "name": "戊肝疫苗（益可宁）",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "全球唯一一支用于戊型肝炎疾病预防的疫苗‘益可宁’，也是全球首个用大肠杆菌表达系统研制的病毒疫苗"
+    }
+  ],
+  "procures": [
+    {
+      "name": "原材料、零部件等",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "公司采购的原材料、零部件、设备、软件、服务或能源。如果文中提到了采购金额、采购占比、前五大供应商采购比例等，请摘录到 cost_proportion 中；若无，填 null。"
+    },
+    {
+      "name": "前五名供应商采购额",
+      "target_product": null,
+      "cost_proportion": "19.73%",
+      "quote": "前五名供应商采购额14,567.11万元，占年度采购总额19.73%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "宫颈癌预防",
+      "source_product": "二价/九价HPV疫苗",
+      "quote": "预防HPV16/18感染及因此引发的生殖器疣等疾病"
+    },
+    {
+      "name": "戊型肝炎预防",
+      "source_product": "戊肝疫苗",
+      "quote": "预防戊型肝炎"
+    },
+    {
+      "name": "传染病诊断",
+      "source_product": "诊断试剂",
+      "quote": "产品广泛覆盖传染病、肿瘤、心血管、内分泌等关键疾病领域"
+    },
+    {
+      "name": "临床检验与智慧实验室",
+      "source_product": "诊断设备、自动化流水线",
+      "quote": "为不同层级医疗机构提供更完整、灵活、高效的智慧检验选择"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "邱子欣",
+      "role": "董事长、法定代表人",
+      "quote": "公司负责人邱子欣"
+    },
+    {
+      "name": "JIANG ZHIMING",
+      "role": "董事、总经理",
+      "quote": "总经理 JIANG ZHIMING"
+    },
+    {
+      "name": "吕赟",
+      "role": "董事、财务总监（代行董事会秘书职责）",
+      "quote": "主管会计工作负责人吕赟"
+    },
+    {
+      "name": "李亚梅",
+      "role": "董事",
+      "quote": "李亚梅 董事"
+    },
+    {
+      "name": "王豫川",
+      "role": "董事",
+      "quote": "王豫川 董事"
+    },
+    {
+      "name": "崔萱林",
+      "role": "独立董事",
+      "quote": "崔萱林 独立董事"
+    },
+    {
+      "name": "邢会强",
+      "role": "独立董事",
+      "quote": "邢会强 独立董事"
+    },
+    {
+      "name": "王玉涛",
+      "role": "独立董事",
+      "quote": "王玉涛 独立董事"
+    },
+    {
+      "name": "叶祥忠",
+      "role": "副总经理",
+      "quote": "叶祥忠 副总经理"
+    },
+    {
+      "name": "赵灵芝",
+      "role": "副总经理",
+      "quote": "赵灵芝 副总经理"
+    },
+    {
+      "name": "潘晖榕",
+      "role": "副总经理",
+      "quote": "潘晖榕 副总经理"
+    },
+    {
+      "name": "余涛",
+      "role": "董事会秘书（离任）",
+      "quote": "董事会秘书（离任） 余涛"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "养生堂有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东 养生堂有限公司"
+    },
+    {
+      "name": "北京万泰德瑞诊断技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "诊断试剂研发、生产及销售",
+      "quote": "全资子公司 北京万泰德瑞诊断技术有限公司"
+    },
+    {
+      "name": "北京康彻思坦生物技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "诊断试剂研发、生产及销售",
+      "quote": "全资子公司 北京康彻思坦生物技术有限公司"
+    },
+    {
+      "name": "厦门万泰沧海生物技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "疫苗研发、生产及销售",
+      "quote": "全资子公司 厦门万泰沧海生物技术有限公司"
+    },
+    {
+      "name": "厦门万泰凯瑞生物技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "诊断试剂研发、生产及销售",
+      "quote": "全资子公司 厦门万泰凯瑞生物技术有限公司"
+    },
+    {
+      "name": "厦门优迈科医学仪器有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "诊断仪器研发、生产及销售",
+      "quote": "控股子公司 厦门优迈科医学仪器有限公司"
+    },
+    {
+      "name": "杭州万泰生物技术有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "疫苗研发、生产及销售",
+      "quote": "全资子公司 杭州万泰生物技术有限公司"
+    },
+    {
+      "name": "北京万泰生物药业有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "疫苗研发、生产及销售",
+      "quote": "全资子公司 北京万泰生物药业有限公司"
+    },
+    {
+      "name": "捷和泰（北京）生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "诊断试剂中间体研发和生产",
+      "quote": "控股子公司 捷和泰（北京）生物科技有限公司"
+    },
+    {
+      "name": "北京泰润创新科技孵化器有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "科技企业孵化、技术开发",
+      "quote": "控股子公司 北京泰润创新科技孵化器有限公司"
+    },
+    {
+      "name": "厦门英博迈生物科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "活性原料销售",
+      "quote": "万泰凯瑞控股子公司 厦门英博迈生物科技有限公司"
+    },
+    {
+      "name": "世界卫生组织（WHO）",
+      "relation_type": "customer",
+      "business_details": "HIV尿液自检试剂通过WHO预认证",
+      "quote": "HIV尿液自检试剂通过世界卫生组织（WHO）预认证"
+    },
+    {
+      "name": "盖茨基金会（Gates Foundation）",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "与世界卫生组织（WHO）、盖茨基金会（Gates Foundation）...等国际权威机构建立常态化沟通，实现战略合作"
+    },
+    {
+      "name": "厦门大学",
+      "relation_type": "joint_venture",
+      "business_details": "共同组建国家传染病诊断试剂与疫苗工程技术研究中心（NIDVD）",
+      "quote": "公司与厦门大学深度合作，共同组建了‘国家传染病诊断试剂与疫苗工程技术研究中心’"
+    },
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "为本公司出具了标准无保留意见的审计报告",
+      "quote": "容诚会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "疫苗",
+      "segment_type": "product_line",
+      "revenue_amount": "457,052,000.90元",
+      "revenue_proportion": null,
+      "gross_margin": "27.25%",
+      "yoy_change": "-24.63%",
+      "quote": "疫苗 457,052,000.90 332,486,939.87 27.25 -24.63"
+    },
+    {
+      "name": "诊断试剂",
+      "segment_type": "product_line",
+      "revenue_amount": "1,308,565,889.76元",
+      "revenue_proportion": null,
+      "gross_margin": "56.99%",
+      "yoy_change": "-18.65%",
+      "quote": "诊断试剂 1,308,565,889.76 562,867,272.41 56.99 -18.65"
+    },
+    {
+      "name": "国内收入",
+      "segment_type": "region",
+      "revenue_amount": "1,353,507,732.93元",
+      "revenue_proportion": null,
+      "gross_margin": "51.54%",
+      "yoy_change": "-32.30%",
+      "quote": "国内收入 1,353,507,732.93 655,851,940.38 51.54 -32.30"
+    },
+    {
+      "name": "境外收入",
+      "segment_type": "region",
+      "revenue_amount": "412,110,157.73元",
+      "revenue_proportion": null,
+      "gross_margin": "41.88%",
+      "yoy_change": "90.85%",
+      "quote": "境外收入 412,110,157.73 239,502,271.90 41.88 90.85"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "811,233,820.96元",
+      "revenue_proportion": null,
+      "gross_margin": "42.21%",
+      "yoy_change": "-26.36%",
+      "quote": "直销 811,233,820.96 468,837,822.50 42.21 -26.36"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "954,384,069.70元",
+      "revenue_proportion": null,
+      "gross_margin": "55.31%",
+      "yoy_change": "-14.29%",
+      "quote": "经销 954,384,069.70 426,516,389.78 55.31 -14.29"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "疫苗",
+      "metric_type": "production_volume",
+      "value": "2,439.31万支",
+      "period": "报告期",
+      "quote": "生产量 2,439.31"
+    },
+    {
+      "product": "疫苗",
+      "metric_type": "sales_volume",
+      "value": "1,963.28万支",
+      "period": "报告期",
+      "quote": "销售量 1,963.28"
+    },
+    {
+      "product": "疫苗",
+      "metric_type": "inventory_volume",
+      "value": "2,165.84万支",
+      "period": "报告期末",
+      "quote": "库存量 2,165.84"
+    },
+    {
+      "product": "免疫诊断试剂",
+      "metric_type": "production_volume",
+      "value": "61,641.24万人份",
+      "period": "报告期",
+      "quote": "生产量 61,641.24"
+    },
+    {
+      "product": "免疫诊断试剂",
+      "metric_type": "sales_volume",
+      "value": "59,517.99万人份",
+      "period": "报告期",
+      "quote": "销售量 59,517.99"
+    },
+    {
+      "product": "免疫诊断试剂",
+      "metric_type": "inventory_volume",
+      "value": "8,945.51万人份",
+      "period": "报告期末",
+      "quote": "库存量 8,945.51"
+    },
+    {
+      "product": "生化试剂",
+      "metric_type": "production_volume",
+      "value": "2,662.21万毫升",
+      "period": "报告期",
+      "quote": "生产量 2,662.21"
+    },
+    {
+      "product": "生化试剂",
+      "metric_type": "sales_volume",
+      "value": "2,519.57万毫升",
+      "period": "报告期",
+      "quote": "销售量 2,519.57"
+    },
+    {
+      "product": "仪器",
+      "metric_type": "production_volume",
+      "value": "766台",
+      "period": "报告期",
+      "quote": "生产量 766"
+    },
+    {
+      "product": "仪器",
+      "metric_type": "sales_volume",
+      "value": "700台",
+      "period": "报告期",
+      "quote": "销售量 700"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "九价宫颈癌疫苗二期扩产建设项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "124,918.85万元",
+      "designed_capacity": null,
+      "progress": "按计划进展中",
+      "expected_completion_time": null,
+      "quote": "九价宫颈癌疫苗二期扩产建设项目 124,918.85 8,704.08 67,449.65 自有资金、募集资金 按计划进展中"
+    },
+    {
+      "name": "二十价肺炎球菌多糖结合疫苗产业化项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": "157,762.66万元",
+      "designed_capacity": null,
+      "progress": "按计划进展中",
+      "expected_completion_time": null,
+      "quote": "二十价肺炎球菌多糖结合疫苗产业化项目 157,762.66 6,196.79 44,606.04 自有资金、募集资金 按计划进展中"
+    },
+    {
+      "name": "养生堂厦门万泰诊断基地建设项目",
+      "project_type": "construction_project",
+      "location": "厦门",
+      "investment_amount": "131,620.55万元",
+      "designed_capacity": null,
+      "progress": "按计划进展中",
+      "expected_completion_time": null,
+      "quote": "养生堂厦门万泰诊断基地建设项目 131,620.55 19,501.50 79,870.50 自有资金、募集资金 按计划进展中"
+    },
+    {
+      "name": "杭州疫苗基地建设",
+      "project_type": "construction_project",
+      "location": "杭州",
+      "investment_amount": "52,787.00万元",
+      "designed_capacity": null,
+      "progress": "2025年11月项目停止",
+      "expected_completion_time": null,
+      "quote": "杭州疫苗基地建设 52,787.00 1,412.46 39,511.90 自有资金 2025年11月项目停止"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "大肠埃希菌病毒样颗粒表达平台",
+      "asset_type": "technical_platform",
+      "related_product": "戊肝疫苗、HPV疫苗",
+      "quantitative_info": null,
+      "quote": "公司始终以创新驱动发展，在高品质人用疫苗领域持续深耕...凭借独创的技术平台"
+    },
+    {
+      "name": "化学发光技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "化学发光诊断试剂",
+      "quantitative_info": "129余项",
+      "quote": "化学发光试剂129余项"
+    },
+    {
+      "name": "生化诊断技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "生化诊断试剂",
+      "quantitative_info": "130余项",
+      "quote": "生化试剂130余项"
+    },
+    {
+      "name": "胶体金技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "酶免/胶体金试剂",
+      "quantitative_info": "100余项",
+      "quote": "酶免/胶体金试剂100余项"
+    },
+    {
+      "name": "核酸技术平台",
+      "asset_type": "technical_platform",
+      "related_product": "核酸诊断试剂",
+      "quantitative_info": "10余项",
+      "quote": "核酸试剂10余项"
+    },
+    {
+      "name": "鼻喷递送技术平台",
+      "asset_type": "process_technology",
+      "related_product": "鼻喷通用流感疫苗",
+      "quantitative_info": null,
+      "quote": "将已成熟的鼻喷递送技术平台成功应用于流感疫苗领域"
+    },
+    {
+      "name": "截短的人乳头瘤病毒16型L1蛋白专利",
+      "asset_type": "patent",
+      "related_product": "HPV疫苗",
+      "quantitative_info": null,
+      "quote": "作为公司HPV疫苗专利池的核心发明专利‘截短的人乳头瘤病毒16型L1蛋白’（专利号：ZL200810093816.8）于2025年6月荣获中国专利金奖"
+    },
+    {
+      "name": "WHO PQ认证",
+      "asset_type": "certification",
+      "related_product": "HIV尿液自检试剂等",
+      "quantitative_info": "3项",
+      "quote": "拥有3项WHO PQ认证"
+    },
+    {
+      "name": "欧盟CE认证",
+      "asset_type": "certification",
+      "related_product": "体外诊断产品等",
+      "quantitative_info": "128项",
+      "quote": "128项欧盟CE认证"
+    },
+    {
+      "name": "有效专利（体外诊断领域）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "184项",
+      "quote": "公司拥有有效专利184项"
+    },
+    {
+      "name": "有效专利（疫苗领域）",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "157项",
+      "quote": "公司拥有有效专利157项"
+    },
+    {
+      "name": "医疗器械注册证",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "460项",
+      "quote": "拥有460项医疗器械注册证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "25.46%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名客户销售额46,318.76万元，占年度销售总额25.46%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "19.73%",
+      "related_entity": null,
+      "period": "报告期",
+      "quote": "前五名供应商采购额14,567.11万元，占年度采购总额19.73%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "受国内疫苗集采政策、行业竞争、消费者疫苗犹豫等多重因素影响，国内疫苗市场整体承压，行业收入大幅下滑。",
+      "related_entity": null,
+      "related_product": "疫苗",
+      "quote": "主要受国内疫苗集采政策、行业竞争、消费者疫苗犹豫等多重因素影响，国内疫苗市场整体承压，行业收入大幅下滑。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "体外诊断行业部分细分领域产线趋同，市场竞争激烈。随着国产化率提升及带量采购政策常态化，常规生化、免疫诊断等成熟产品线面临持续的价格下行压力。中国疫苗行业竞争持续加剧，调整阵痛凸显。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "体外诊断行业部分细分领域产线趋同，市场竞争激烈。...中国疫苗行业竞争持续加剧，调整阵痛凸显。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "体外诊断产品具有技术路径多样、研发周期长且更新迭代速度快的特点，公司在新产品和新技术研发过程中，可能面临技术路线选择、关键技术突破难度、研发进度及成果转化等方面的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "体外诊断产品具有技术路径多样、研发周期长且更新迭代速度快的特点...在新产品和新技术研发过程中，可能面临技术路线选择、关键技术突破难度、研发进度及成果转化等方面的不确定性"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "公司为生产和销售产品购置的专用设备、储备的成品、专用原料可能会存在由于产品市场需求变化，导致存货积压甚至报废，专用设备闲置从而导致资产减值的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "其他资产减值面临的风险主要为存货减值风险、固定资产减值风险。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "customer_concentration",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "supplier_concentration",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "product_quality",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "litigation",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": null,
+      "related_entity": null,
+      "related_product": null,
+      "quote": null
+    }
+  ]
+}

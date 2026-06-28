@@ -1,0 +1,493 @@
+{
+  "company_name_mentioned": "永安行科技股份有限公司",
+  "produces": [
+    {
+      "name": "公共自行车系统运营项目",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司的主营业务是基于物联网和数据云技术的公共自行车及共享出行系统的研发、销售、建设、运营服务...主要代表产品和服务包括公共自行车系统运营项目..."
+    },
+    {
+      "name": "系统销售（包括用于共享出行系统的两轮车销售）项目",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "系统销售（包括用于共享出行系统的两轮车销售）项目"
+    },
+    {
+      "name": "共享出行平台服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "共享出行平台服务"
+    },
+    {
+      "name": "氢能产品",
+      "type": "device",
+      "revenue_proportion": "氢能销售及服务收入65,085,774.42元",
+      "quote": "氢能业务收入为65,085,774.42元"
+    },
+    {
+      "name": "智能门锁产品",
+      "type": "device",
+      "revenue_proportion": "智慧生活业务收入59,147,260.89元",
+      "quote": "智慧生活业务收入59,147,260.89元"
+    },
+    {
+      "name": "氢能两轮车",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "以氢能源为动力，本身带有智能电子锁，可以与手机进行通讯...共享氢能自行车...氢能自行车..."
+    },
+    {
+      "name": "太阳能制充氢一体机",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "利用PEM的制氢原理...利用市电或绿电，用纯水直接制氢并充氢...制充氢一体机"
+    },
+    {
+      "name": "低压固态储氢装置",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "由储氢瓶、合金粉、减压阀组成的一个储氢装置...常温低压固态储氢装置"
+    },
+    {
+      "name": "高压储氢瓶",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "通过物理压缩方式提高氢气存储密度的储氢瓶...高压储氢瓶"
+    },
+    {
+      "name": "燃料电池",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "主要由质子膜、催化剂、电极板、供氢和散热系统等组成...燃料电池"
+    },
+    {
+      "name": "氢能发电系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "氢能发电系统是一种利用氢气作为储能介质的能源储存产品...为居民用户直接提供氢气燃气或发电后提供电力..."
+    },
+    {
+      "name": "制氢储氢能源系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "制氢储氢系统"
+    },
+    {
+      "name": "氢气灶",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "氢气灶"
+    },
+    {
+      "name": "数字化氢能平台服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "数字化氢能平台服务是对公司相关氢能产品的配套管理服务..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "系统集成、安装成本、折旧摊销成本、维修保养、人工等",
+      "target_product": "公共自行车和共享出行",
+      "cost_proportion": null,
+      "quote": "公共自行车和共享出行...成本构成项目：系统集成、安装成本、折旧摊销成本、维修保养、人工等"
+    },
+    {
+      "name": "安装成本、原材料、人工等",
+      "target_product": "智慧生活",
+      "cost_proportion": null,
+      "quote": "智慧生活...成本构成项目：安装成本、原材料、人工等"
+    },
+    {
+      "name": "安装成本、原材料、人工等",
+      "target_product": "氢能行业",
+      "cost_proportion": null,
+      "quote": "氢能行业...成本构成项目：安装成本、原材料、人工等"
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市出行、公共出行、短途物流",
+      "source_product": "氢能两轮车",
+      "quote": "氢能两轮车适用于城市出行、公共出行、短途物流等场景..."
+    },
+    {
+      "name": "工业储氢用氢、家庭储氢",
+      "source_product": "高压储氢瓶",
+      "quote": "高压储氢瓶...可以广泛的应用于工业储氢用氢和家庭储氢场景"
+    },
+    {
+      "name": "居民用户直接提供氢气燃气或发电后提供电力",
+      "source_product": "氢能发电系统",
+      "quote": "氢能发电系统...为居民用户直接提供氢气燃气或发电后提供电力..."
+    },
+    {
+      "name": "居民从“最后一公里”到十公里甚至以上距离的中短途出行需要",
+      "source_product": "氢能两轮车",
+      "quote": "氢能两轮车...能够满足居民从“最后一公里”到十公里甚至以上距离的中短途出行需要"
+    },
+    {
+      "name": "解决居民接驳换乘“最后三公里”的问题和满足居民其他短途出行的需要",
+      "source_product": "公共自行车和共享出行服务",
+      "quote": "公共自行车和共享出行服务...最终是为了实现有效连接其他中远距离交通工具站点、解决居民接驳换乘“最后三公里”的问题和满足居民其他短途出行的需要"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "杨磊",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人杨磊...杨磊 董事长...杨磊及上海哈茂收购上市公司的控制权...杨磊为哈啰集团创始人..."
+    },
+    {
+      "name": "张贤",
+      "role": "主管会计工作负责人、会计机构负责人",
+      "quote": "主管会计工作负责人张贤及会计机构负责人（会计主管人员）张贤声明..."
+    },
+    {
+      "name": "吴佩刚",
+      "role": "董事、总经理",
+      "quote": "吴佩刚 董事、总经理..."
+    },
+    {
+      "name": "徐晓霞",
+      "role": "董事会秘书",
+      "quote": "徐晓霞 董事会秘书..."
+    },
+    {
+      "name": "孙继胜",
+      "role": "原董事长、原总经理、原控股股东、原实际控制人",
+      "quote": "孙继胜 董事长、总经理...原控股股东、实际控制人为孙继胜..."
+    },
+    {
+      "name": "陈晓冬",
+      "role": "董事",
+      "quote": "陈晓冬 董事..."
+    },
+    {
+      "name": "彭照坤",
+      "role": "董事",
+      "quote": "彭照坤 董事..."
+    },
+    {
+      "name": "朱超",
+      "role": "董事",
+      "quote": "朱超 董事..."
+    },
+    {
+      "name": "吴晓龙",
+      "role": "董事",
+      "quote": "吴晓龙 董事..."
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "上海钧川供应链科技有限公司",
+      "relation_type": "customer",
+      "business_details": "销售额为88,525,324.28元，占年度销售总额比例21.51%",
+      "quote": "上海钧川供应链科技有限公司 88,525,324.28 21.51%"
+    },
+    {
+      "name": "哈啰集团（Hello Inc.及其控制的下属企业）",
+      "relation_type": "investor",
+      "business_details": "上海哈茂（哈啰集团全资子公司）为控股股东，杨磊（哈啰集团创始人）为实际控制人",
+      "quote": "公司于2025年3月引进哈啰集团作为新的控股股东，杨磊为哈啰集团创始人，上海哈茂为哈啰集团全资子公司"
+    },
+    {
+      "name": "上海哈茂商务咨询有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "公司控股股东变更为上海哈茂，实际控制人变更为杨磊"
+    },
+    {
+      "name": "上海哈啰普惠科技有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方销售额中的一部分，属于哈啰集团控制的公司",
+      "quote": "公司客户中，上海钧啰网络科技有限公司、上海钧川供应链科技有限公司、上海哈啰普惠科技有限公司均为哈啰集团控制的公司"
+    },
+    {
+      "name": "上海钧啰网络科技有限公司",
+      "relation_type": "customer",
+      "business_details": "关联方销售额中的一部分，属于哈啰集团控制的公司",
+      "quote": "公司客户中，上海钧啰网络科技有限公司、上海钧川供应链科技有限公司、上海哈啰普惠科技有限公司均为哈啰集团控制的公司"
+    },
+    {
+      "name": "容诚会计师事务所（特殊普通合伙）",
+      "relation_type": "supplier",
+      "business_details": "公司聘请的会计师事务所",
+      "quote": "容诚会计师事务所（特殊普通合伙）为本公司出具了标准无保留意见的审计报告"
+    },
+    {
+      "name": "中国国际金融股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "报告期内履行持续督导职责的财务顾问",
+      "quote": "中国国际金融股份有限公司...报告期内履行持续督导职责的财务顾问"
+    },
+    {
+      "name": "江苏洛玛瑞芯片科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "公司投资参股，直接及间接持有股权比例合计为39.14%",
+      "quote": "公司投资参股的江苏洛玛瑞芯片科技有限公司...截至报告期末，公司直接及间接持有江苏洛玛瑞芯片科技有限公司的股权比例合计为39.14%"
+    },
+    {
+      "name": "浙江凯博压力容器有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "持股88.00%",
+      "quote": "浙江凯博压力容器有限公司 复合材料缠绕气瓶的制造、销售等 88.00%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "公共自行车和共享出行",
+      "segment_type": "product_line",
+      "revenue_amount": "268,600,607.72元",
+      "revenue_proportion": null,
+      "gross_margin": "-19.08%",
+      "yoy_change": "营业收入较上年减少10.64%",
+      "quote": "公共自行车和共享出行 营业收入 268,600,607.72 营业成本 319,857,415.27 毛利率（%） -19.08 营业收入比上年增减 -10.64"
+    },
+    {
+      "name": "智慧生活",
+      "segment_type": "product_line",
+      "revenue_amount": "59,147,260.89元",
+      "revenue_proportion": null,
+      "gross_margin": "34.51%",
+      "yoy_change": "营业收入较上年减少7.59%",
+      "quote": "智慧生活 营业收入 59,147,260.89 营业成本 38,734,876.75 毛利率（%） 34.51 营业收入比上年增减 -7.59"
+    },
+    {
+      "name": "氢能行业",
+      "segment_type": "product_line",
+      "revenue_amount": "65,085,774.42元",
+      "revenue_proportion": null,
+      "gross_margin": "30.30%",
+      "yoy_change": "营业收入较上年减少27.46%",
+      "quote": "氢能行业 营业收入 65,085,774.42 营业成本 45,361,723.43 毛利率（%） 30.30 营业收入比上年增减 -27.46"
+    },
+    {
+      "name": "系统销售业务",
+      "segment_type": "product_line",
+      "revenue_amount": "93,746,636.78元",
+      "revenue_proportion": null,
+      "gross_margin": "4.32%",
+      "yoy_change": "营业收入较上年增加712.54%",
+      "quote": "系统销售业务收入 营业收入 93,746,636.78 营业成本 89,692,857.03 毛利率（%） 4.32 营业收入比上年增减 712.54"
+    },
+    {
+      "name": "系统运营服务业务",
+      "segment_type": "product_line",
+      "revenue_amount": "92,528,895.92元",
+      "revenue_proportion": null,
+      "gross_margin": "-23.05%",
+      "yoy_change": "营业收入较上年下降49.03%",
+      "quote": "系统运营服务业务收入 营业收入 92,528,895.92 营业成本 113,861,115.76 毛利率（%） -23.05 营业收入比上年增减 -49.03"
+    },
+    {
+      "name": "共享出行业务",
+      "segment_type": "product_line",
+      "revenue_amount": "82,325,075.02元",
+      "revenue_proportion": null,
+      "gross_margin": "-41.27%",
+      "yoy_change": "营业收入较上年下降23.43%",
+      "quote": "共享出行业务收入 营业收入 82,325,075.02 营业成本 116,303,442.48 毛利率（%） -41.27 营业收入比上年增减 -23.43"
+    },
+    {
+      "name": "国内",
+      "segment_type": "region",
+      "revenue_amount": "382,978,475.16元",
+      "revenue_proportion": null,
+      "gross_margin": "-3.24%",
+      "yoy_change": "营业收入较上年减少10.45%",
+      "quote": "国内 营业收入 382,978,475.16 营业成本 395,404,933.46 毛利率（%） -3.24 营业收入比上年增减 -10.45"
+    },
+    {
+      "name": "国外",
+      "segment_type": "region",
+      "revenue_amount": "9,855,167.87元",
+      "revenue_proportion": null,
+      "gross_margin": "13.25%",
+      "yoy_change": "营业收入较上年下降63.03%",
+      "quote": "国外 营业收入 9,855,167.87 营业成本 8,549,081.99 毛利率（%） 13.25 营业收入比上年增减 -63.03"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "共享助力车智能系统的设计及投放项目",
+      "project_type": "fundraising_project",
+      "location": null,
+      "investment_amount": "73,648.00万元",
+      "designed_capacity": null,
+      "progress": "截至报告期末累计投入47,994.79万元，投入进度65.17%",
+      "expected_completion_time": "2027年12月",
+      "quote": "共享助力车智能系统的设计及投放项目...计划投资总额 73,648.00万元...截至报告期末累计投入47,994.79万元...投入进度65.17%...调整至2027年12月"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "低压固态储氢技术",
+      "asset_type": "core_technology",
+      "related_product": "氢能两轮车、氢能平衡车、氢能三轮车、制充氢一体机、氢电混合摩托车、氢气灶和氢气烧烤炉等",
+      "quantitative_info": null,
+      "quote": "低压固态储氢技术 自主研发 氢能两轮车、氢能平衡车、氢能三轮车、制充氢一体机、氢电混合摩托车、氢气灶和氢气烧烤炉等"
+    },
+    {
+      "name": "安全快速换氢技术",
+      "asset_type": "core_technology",
+      "related_product": "制充氢一体机",
+      "quantitative_info": null,
+      "quote": "安全快速换氢技术 自主研发 制充氢一体机"
+    },
+    {
+      "name": "智能化光伏制充氢技术",
+      "asset_type": "core_technology",
+      "related_product": "制充氢一体机",
+      "quantitative_info": null,
+      "quote": "智能化光伏制充氢技术 自主研发 制充氢一体机"
+    },
+    {
+      "name": "分布式氢能制充储用一体化技术",
+      "asset_type": "core_technology",
+      "related_product": "氢能两轮车、平衡车、三轮车、制充氢一体机、氢电混合摩托车",
+      "quantitative_info": null,
+      "quote": "分布式氢能制充储用一体化技术 自主研发 氢能两轮车、平衡车、三轮车、制充氢一体机、氢电混合摩托车"
+    },
+    {
+      "name": "燃料电池能量管理技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "燃料电池能量管理技术 自主研发"
+    },
+    {
+      "name": "高性能空冷电堆技术",
+      "asset_type": "core_technology",
+      "related_product": "氢电混合绿色能源系统、氢电增程低碳绿色能源系统等",
+      "quantitative_info": null,
+      "quote": "高性能空冷电堆技术 自主研发 氢电混合绿色能源系统、氢电增程低碳绿色能源系统等"
+    },
+    {
+      "name": "固态储氢热管理技术",
+      "asset_type": "core_technology",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "固态储氢热管理技术 自主研发"
+    },
+    {
+      "name": "有效专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "累计拥有有效专利364项（其中发明专利93项）",
+      "quote": "截至报告期末，公司累计拥有有效专利364项（其中发明专利93项）"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "累计获得软件著作权100项",
+      "quote": "累计获得软件著作权100项"
+    },
+    {
+      "name": "江苏省企业技术中心、江苏省工程技术研究中心、江苏省工业设计中心和江苏省研究生工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "设有江苏省企业技术中心、江苏省工程技术研究中心、江苏省工业设计中心和江苏省研究生工作站"
+    },
+    {
+      "name": "参与制修订标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "主导或参与了25项技术和服务标准的制修订工作",
+      "quote": "公司主导或参与了25项技术和服务标准的制修订工作"
+    },
+    {
+      "name": "氢能自行车设计中心及组装生产线、燃料电池研发中心及智能化生产线、低压固态储氢研发中心及制造生产线、太阳能制充氢一体机研发中心及制造生产线",
+      "asset_type": "technical_platform",
+      "related_product": "氢能自行车、燃料电池、低压固态储氢装置、太阳能制充氢一体机",
+      "quantitative_info": null,
+      "quote": "建立了氢能自行车设计中心及组装生产线、燃料电池研发中心及智能化生产线、低压固态储氢研发中心及制造生产线、太阳能制充氢一体机研发中心及制造生产线等"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "14,013.93万元，占年度销售总额34.05%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户销售额14,013.93万元，占年度销售总额34.05%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "88,525,324.28元，占年度销售总额21.51%",
+      "related_entity": "上海钧川供应链科技有限公司",
+      "period": "2025年",
+      "quote": "上海钧川供应链科技有限公司 88,525,324.28 21.51%"
+    },
+    {
+      "metric_type": "customer_dependency",
+      "value": "前五名客户销售额中关联方销售额8,852.53万元，占年度销售总额21.51%",
+      "related_entity": "哈啰集团控制的公司",
+      "period": "2025年",
+      "quote": "其中前五名客户销售额中关联方销售额8,852.53万元，占年度销售总额21.51%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "7,996.8万元，占年度采购总额25.97%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商采购额7,996.8万元，占年度采购总额25.97%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "对于公共自行车及共享出行服务业务...市场竞争不断加剧...对于氢能、新型存储芯片等相关业务及其他新兴业务...可能有更多企业加入行业和参与竞争",
+      "related_entity": null,
+      "related_product": "公共自行车及共享出行服务、氢能及新型存储芯片",
+      "quote": "市场竞争风险...如果公司未来不能够紧跟所在行业发展趋势并通过有效途径持续增强核心竞争力，则可能在日益激烈的市场竞争中被削弱竞争优势..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公共自行车项目增量不足、存量缩减...未来若政府或其他需求方对公共自行车这一交通工具的支持力度减弱...可能对公共自行车行业的整体市场规模...造成不利影响",
+      "related_entity": null,
+      "related_product": "公共自行车",
+      "quote": "公共自行车行业收缩风险...受国内宏观经济环境和终端需求变动影响，公司公共自行车项目增量不足、存量缩减..."
+    },
+    {
+      "risk_type": "other",
+      "description": "公司近年来新增了新兴氢能及高端芯片产业相关业务...存在较多的不确定因素...公司可能面临发展新兴业务拓展不及预期的风险",
+      "related_entity": null,
+      "related_product": "氢能及高端芯片产业",
+      "quote": "新兴业务拓展不及预期风险...若公司采取的技术路线与行业技术发展趋势不一致...公司可能面临发展新兴业务拓展不及预期的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "公司经营包括共享出行业务和其他新兴业务，持续发生的材料和人工成本可能随着我国整体物价和工资水平、国际原材料价格水平变化而呈波动趋势",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "原材料价格和人工成本大幅波动的风险...会对公司现有业务的毛利率水平造成一定的影响..."
+    },
+    {
+      "risk_type": "other",
+      "description": "2023年度、2024年度以及2025年度，公司营业收入...归属于上市公司股东的净利润...报告期内公司业绩有所下滑...可能导致公司业绩出现持续下滑的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "经营业绩下滑风险...若未来上述因素发生重大不利变化或出现持续不利因素...则可能导致公司业绩出现持续下滑的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "2023年末、2024年末以及2025年末，公司应收账款账面价值分别为...金额及占比较高...可能导致应收账款出现坏账风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "应收账款坏账风险...随着国内外宏观经济情况发生不利变化，可能导致客户支付能力不足的情况，并进一步导致应收账款出现坏账风险..."
+    },
+    {
+      "risk_type": "other",
+      "description": "2023年度、2024年度以及2025年度，公司毛利率分别为...若公司所处行业竞争加剧，营运成本持续攀升...可能导致公司面临毛利率持续下滑的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "毛利率下滑风险...可能导致公司面临毛利率持续下滑的风险"
+    }
+  ]
+}

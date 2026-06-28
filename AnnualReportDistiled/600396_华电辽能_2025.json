@@ -1,0 +1,357 @@
+{
+  "company_name_mentioned": "华电辽宁能源发展股份有限公司",
+  "produces": [
+    {
+      "name": "电力",
+      "type": "service",
+      "revenue_proportion": "占主营业务收入约80.87%（电力销售3,462,802,334.17元 / 主营业务收入4,287,877,665.34元）",
+      "quote": "公司主要产品为电力和热力，以电力为主、热力为辅。...电力销售 3,462,802,334.17"
+    },
+    {
+      "name": "热力",
+      "type": "service",
+      "revenue_proportion": "占主营业务收入约19.13%（热力销售820,004,214.41元 / 主营业务收入4,287,877,665.34元）",
+      "quote": "公司主要产品为电力和热力，以电力为主、热力为辅。...热力销售 820,004,214.41"
+    },
+    {
+      "name": "氢气（绿氢）",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司控股子公司辽宁铁岭华电氢能源科技发展有限公司风电离网制氢一体化项目正式投产运营，因绿氢市场仍处于培育阶段，下游需求和产品价格存在不确定性。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "煤炭",
+      "target_product": "电力、热力",
+      "cost_proportion": "燃料成本是主要成本构成，前五名供应商采购额179,696.43万元，占年度采购总额66.76%",
+      "quote": "火力发电、供热业务的主要原材料为煤炭，全部通过外部采购获得。...前五名供应商采购额179,696.43万元，占年度采购总额66.76%"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电网",
+      "source_product": "电力",
+      "quote": "公司所发电量并入电网"
+    },
+    {
+      "name": "居民及单位用户",
+      "source_product": "热力",
+      "quote": "公司生产的热水和蒸汽直接供给居民或单位用户"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "姜青松",
+      "role": "董事长",
+      "quote": "公司负责人姜青松...现任华电辽宁能源发展股份有限公司党委书记、董事长。"
+    },
+    {
+      "name": "田立",
+      "role": "董事、总经理",
+      "quote": "主管会计工作负责人薛振菊及会计机构负责人（会计主管人员）薛振菊...田立...现任华电辽宁能源发展股份有限公司董事、总经理、党委副书记。"
+    },
+    {
+      "name": "薛振菊",
+      "role": "董事会秘书、财务总监",
+      "quote": "董事会秘书...薛振菊...现任华电辽宁能源发展股份有限公司党委委员、财务总监、董事会秘书。"
+    },
+    {
+      "name": "刘刚",
+      "role": "副总经理",
+      "quote": "刘刚 副总经理...现任华电辽宁能源发展股份有限公司党委委员、副总经理。"
+    },
+    {
+      "name": "白雪飞",
+      "role": "副总经理",
+      "quote": "白雪飞 副总经理...现任华电辽宁能源发展股份有限公司党委委员、副总经理。"
+    },
+    {
+      "name": "李延春",
+      "role": "副总经理",
+      "quote": "李延春 副总经理...现任华电辽宁能源发展股份有限公司党委委员、副总经理。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "中国华电集团有限公司",
+      "relation_type": "investor",
+      "business_details": "实际控制人、控股股东",
+      "quote": "公司是中国华电集团有限公司实际控制的上市公司、中央企业的二级单位"
+    },
+    {
+      "name": "华电辽宁能源有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "本公司母公司为华电辽宁能源有限公司（以下简称“华电辽宁”）"
+    },
+    {
+      "name": "辽宁能源投资（集团）有限责任公司",
+      "relation_type": "investor",
+      "business_details": "股东",
+      "quote": "辽宁能源 辽宁能源投资（集团）有限责任公司"
+    },
+    {
+      "name": "国家电网有限公司",
+      "relation_type": "customer",
+      "business_details": "主要电力销售客户",
+      "quote": "前五名客户销售额385,150.31万元，占年度销售总额84.38%；...国家电网有限公司 369,344.01 80.92%"
+    },
+    {
+      "name": "华电集团北京燃料物流有限公司",
+      "relation_type": "supplier",
+      "business_details": "煤炭供应商",
+      "quote": "华电集团北京燃料物流有限公司天津分公司 采购燃煤 129,073,882.74"
+    },
+    {
+      "name": "华电环球（北京）能源管理有限公司",
+      "relation_type": "supplier",
+      "business_details": "煤炭供应商",
+      "quote": "华电环球（北京）能源管理有限公司 采购燃煤 166,298,897.04"
+    },
+    {
+      "name": "中国华电集团财务有限公司",
+      "relation_type": "supplier",
+      "business_details": "提供金融服务（存贷款）",
+      "quote": "与中国华电集团财务有限公司签订〈金融服务协议〉"
+    },
+    {
+      "name": "华电融资租赁有限公司",
+      "relation_type": "supplier",
+      "business_details": "提供融资租赁服务",
+      "quote": "华电融资租赁有限公司 融资租赁 578,061,733.27"
+    },
+    {
+      "name": "辽宁华电检修工程有限公司",
+      "relation_type": "supplier",
+      "business_details": "提供检修、运行服务",
+      "quote": "辽宁华电检修工程有限公司 委托运行费、修理费 22,941,578.77"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电力行业",
+      "segment_type": "product_line",
+      "revenue_amount": "4,287,877,665.34元",
+      "revenue_proportion": "100%",
+      "gross_margin": "20.65%",
+      "yoy_change": "毛利率比上年增减5.99个百分点",
+      "quote": "分行业 电力行业 营业收入 4,287,877,665.34 营业成本 3,402,310,708.20 毛利率(%) 20.65 毛利率比上年增减(%) 增加5.99个百分点"
+    },
+    {
+      "name": "电力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "3,462,802,334.17元",
+      "revenue_proportion": "约80.87%",
+      "gross_margin": "26.63%",
+      "yoy_change": "毛利率比上年增减5.45个百分点",
+      "quote": "分产品 电力销售 营业收入 3,462,802,334.17 营业成本 2,540,609,157.30 毛利率(%) 26.63 毛利率比上年增减(%) 增加5.45个百分点"
+    },
+    {
+      "name": "热力销售",
+      "segment_type": "product_line",
+      "revenue_amount": "820,004,214.41元",
+      "revenue_proportion": "约19.13%",
+      "gross_margin": "-4.85%",
+      "yoy_change": "毛利率比上年增减8.29个百分点",
+      "quote": "分产品 热力销售 营业收入 820,004,214.41 营业成本 859,774,946.94 毛利率(%) -4.85 毛利率比上年增减(%) 增加8.29个百分点"
+    },
+    {
+      "name": "辽宁地区",
+      "segment_type": "region",
+      "revenue_amount": "2,333,639,566.25元",
+      "revenue_proportion": null,
+      "gross_margin": "16.81%",
+      "yoy_change": "毛利率比上年增减5.56个百分点",
+      "quote": "分地区 辽宁地区 营业收入 2,333,639,566.25 营业成本 1,941,299,486.24 毛利率(%) 16.81 毛利率比上年增减(%) 增加5.56个百分点"
+    },
+    {
+      "name": "内蒙古地区",
+      "segment_type": "region",
+      "revenue_amount": "1,954,238,099.09元",
+      "revenue_proportion": null,
+      "gross_margin": "25.24%",
+      "yoy_change": "毛利率比上年增减6.48个百分点",
+      "quote": "分地区 内蒙古地区 营业收入 1,954,238,099.09 营业成本 1,461,011,221.96 毛利率(%) 25.24 毛利率比上年增减(%) 增加6.48个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "总装机容量",
+      "metric_type": "capacity",
+      "value": "276.25万千瓦",
+      "period": "截至2025年12月底",
+      "quote": "截至2025年12月底，公司已投运控股装机容量276.25万千瓦。"
+    },
+    {
+      "product": "发电量",
+      "metric_type": "production_volume",
+      "value": "98.55亿千瓦时",
+      "period": "报告期内",
+      "quote": "报告期内完成发电量98.55亿千瓦时"
+    },
+    {
+      "product": "售电量",
+      "metric_type": "sales_volume",
+      "value": "86.61亿千瓦时",
+      "period": "报告期内",
+      "quote": "售电量完成86.61亿千瓦时"
+    },
+    {
+      "product": "售热量",
+      "metric_type": "sales_volume",
+      "value": "1343.66万吉焦",
+      "period": "报告期内",
+      "quote": "售热量完成1343.66万吉焦"
+    },
+    {
+      "product": "火电利用小时",
+      "metric_type": "other",
+      "value": "3736.55小时",
+      "period": "报告期内",
+      "quote": "其中：火电利用小时（小时） 3,736.55"
+    },
+    {
+      "product": "风电利用小时",
+      "metric_type": "other",
+      "value": "2831.32小时",
+      "period": "报告期内",
+      "quote": "风电利用小时（小时） 2,831.32"
+    },
+    {
+      "product": "供热面积",
+      "metric_type": "capacity",
+      "value": "4458万平方米",
+      "period": null,
+      "quote": "承担4458万平方米供热面积。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "丹东“风火联营”一体化项目（含丹东海上风电项目、丹东金山热电二期项目）",
+      "project_type": "capacity_expansion",
+      "location": "辽宁丹东",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "完成投资决策；丹东海上风电项目积极开展施工准备；丹东金山热电二期项目开工建设",
+      "expected_completion_time": null,
+      "quote": "丹东“风火联营”一体化项目完成投资决策，其中丹东海上风电项目积极开展施工准备，丹东金山热电二期项目开工建设"
+    },
+    {
+      "name": "白音华公司厂用电替代7万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "7万千瓦",
+      "progress": "加快建设",
+      "expected_completion_time": null,
+      "quote": "白音华公司厂用电替代7万千瓦风电项目...加快建设"
+    },
+    {
+      "name": "白音华公司灵活性改造配套24万千瓦风电项目",
+      "project_type": "capacity_expansion",
+      "location": "内蒙古",
+      "investment_amount": null,
+      "designed_capacity": "24万千瓦",
+      "progress": "加快建设",
+      "expected_completion_time": null,
+      "quote": "灵活性改造配套24万千瓦风电项目...加快建设"
+    },
+    {
+      "name": "彰武可再生绿色热能示范项目",
+      "project_type": "capacity_expansion",
+      "location": "辽宁彰武",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "加快建设",
+      "expected_completion_time": null,
+      "quote": "彰武可再生绿色热能示范项目加快建设"
+    },
+    {
+      "name": "铁岭2.5万千瓦风电离网制氢一体化项目",
+      "project_type": "capacity_expansion",
+      "location": "辽宁铁岭",
+      "investment_amount": null,
+      "designed_capacity": "2.5万千瓦",
+      "progress": "正式投产运营",
+      "expected_completion_time": null,
+      "quote": "铁岭2.5万千瓦风电离网制氢一体化项目正式投产运营"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "火电机组能耗优化技术",
+      "asset_type": "process_technology",
+      "related_product": "电力、热力",
+      "quantitative_info": "综合供电煤耗同比下降0.59克/千瓦时",
+      "quote": "机组能耗指标持续优化，综合供电煤耗同比下降0.59克/千瓦时"
+    },
+    {
+      "name": "风电离网制氢一体化技术",
+      "asset_type": "core_technology",
+      "related_product": "氢气（绿氢）",
+      "quantitative_info": null,
+      "quote": "铁岭2.5万千瓦风电离网制氢一体化项目正式投产运营"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "84.38%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额385,150.31万元，占年度销售总额84.38%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "80.92%",
+      "related_entity": "国家电网有限公司",
+      "period": "报告期内",
+      "quote": "国家电网有限公司 369,344.01 80.92%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "66.76%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额179,696.43万元，占年度采购总额66.76%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "电量竞争及电价下降风险。随着辽宁省内新能源大量投产，全社会用电量增速不及预期，导致电量增发难度增大；同时辽宁省内现货市场开展长周期结算试运行，现货电价存在不确定性",
+      "related_entity": null,
+      "related_product": "电力",
+      "quote": "1.电量竞争及电价下降风险。随着辽宁省内新能源大量投产，全社会用电量增速不及预期，导致电量增发难度增大；同时辽宁省内现货市场开展长周期结算试运行，现货电价存在不确定性"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "煤炭供应及价格风险。受多重不确定因素影响，公司煤炭采购面临区域性、时段性、结构性供需偏紧及价格大幅波动风险",
+      "related_entity": null,
+      "related_product": "煤炭",
+      "quote": "2. 煤炭供应及价格风险。受国际地缘政治、国内外宏观政策、碳排放管控、极端天气、运输成本波动、突发事件及新能源发电出力不稳定等多重不确定因素影响，公司煤炭采购面临区域性、时段性、结构性供需偏紧及价格大幅波动风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "新能源消纳风险。随着省内新能源大量投产，因外送通道有限以及本地消纳不足，全省风光电弃风弃光率可能提高。",
+      "related_entity": null,
+      "related_product": "风电、光伏发电",
+      "quote": "3.新能源消纳风险。 随着省内新能源大量投产，因外送通道有限以及本地消纳不足，全省风光电弃风弃光率可能提高。"
+    },
+    {
+      "risk_type": "environmental_compliance",
+      "description": "安全环保风险。火电污染物排放标准收严，中央生态环境保护督察常态化推进，环保合规监管要求更高、合规成本显著增加",
+      "related_entity": null,
+      "related_product": "火电业务",
+      "quote": "4.安全环保风险。2026年，《中华人民共和国生态环境法典》施行，火电污染物排放标准同步收严，中央生态环境保护督察常态化推进，环保合规监管要求更高、合规成本显著增加，环保合规风险加剧。"
+    },
+    {
+      "risk_type": "other",
+      "description": "母公司存在未弥补亏损，导致公司暂不满足现金分红及利润分配的法定条件，对公司当期及后续阶段性利润分配事项构成限制。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "母公司未弥补亏损导致公司暂不满足现金分红及利润分配的法定条件，对公司当期及后续阶段性利润分配事项构成限制。"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "company_name_mentioned": "汇中仪表股份有限公司",
+  "produces": [
+    {
+      "name": "超声水表及系统",
+      "type": "device",
+      "revenue_proportion": "62.64%",
+      "quote": "分产品：超声水表及系统 282,197,202.33 62.64% ... 41.49%"
+    },
+    {
+      "name": "超声热量表及系统",
+      "type": "device",
+      "revenue_proportion": "20.18%",
+      "quote": "超声热量表及系统 90,912,329.39 20.18% ... -16.64%"
+    },
+    {
+      "name": "超声流量计及系统",
+      "type": "device",
+      "revenue_proportion": "7.26%",
+      "quote": "超声流量计及系统 32,720,726.35 7.26% ... 2.12%"
+    },
+    {
+      "name": "智慧供水平台与解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司能够为客户提供涵盖“数据采集、能源计量、数据分析、方案设计、节能服务”的完整产业链服务。"
+    },
+    {
+      "name": "智慧供热平台与解决方案",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司基于政策导向及市场需求持续在智慧供热领域进行技术创新。... 打造了以“智慧供热平台+三大解决方案+N个系统”为核心的服务架构。"
+    },
+    {
+      "name": "超声测流核心组件及技术服务",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "面向全市场进行超声测流技术和解决方案输出。打造控股子公司汇中科技为超声测流技术和解决方案服务商，专注于标准流量传感器组件的研发、销售及相关技术服务。"
+    },
+    {
+      "name": "户用模拟-数字转换器",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "产品名称：户用模拟-数字转换器 产品特性：NB-IoT通讯技术，体积小，稳定性高，抗干扰能力强... 应用领域：采用NB-loT通讯方式，采集户用管段压力与温度数据并上传至平台。"
+    },
+    {
+      "name": "智能模组、换能器、超声水表传感器等核心部件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "产品名称 图示 性能优势：智能模组...换能器...超声水表传感器..."
+    }
+  ],
+  "procures": [
+    {
+      "name": "直接材料",
+      "target_product": "仪器仪表",
+      "cost_proportion": "71.86%",
+      "quote": "行业分类 项目 占营业成本 金额 比重 仪器仪表制造业 直接材料 164,802,148.52 71.86%"
+    },
+    {
+      "name": "超声波传感器及压电陶瓷系列产品",
+      "target_product": "超声测流产品",
+      "cost_proportion": null,
+      "quote": "力声达传感科技唐山有限公司作为一家专业研发、生产和销售超声波传感器及压电陶瓷系列产品的高科技企业，致力于掌握超声测流压电陶瓷元器件领域的核心技术，目前已实现批量生产和产品交付，未来将在满足汇中股份计量产品核心组件自产、自用的同时夯实汇中核心竞争力。"
+    },
+    {
+      "name": "物联网通信模块",
+      "target_product": "智能仪表",
+      "cost_proportion": null,
+      "quote": "公司依托自身超声测流技术，结合产品特性与海外市场需求的适配性，持续针对欧洲、澳洲及中东地区供水市场进行重点拓展。上述目标市场普遍呈现治理数字化、通信个性化..."
+    }
+  ],
+  "applications": [
+    {
+      "name": "城市供水",
+      "source_product": "超声水表及系统",
+      "quote": "公司供水业务已覆盖源水、出厂水、引调水、城市供水管网、城乡供水一体化、工商户用水、居民用水的全流程。"
+    },
+    {
+      "name": "集中供热",
+      "source_product": "超声热量表及系统",
+      "quote": "公司供热业务已覆盖热源、热网、热力站、楼栋热、分户热全产业流程。"
+    },
+    {
+      "name": "工业计量",
+      "source_product": "超声流量计",
+      "quote": "公司超声流量计产品凭借适用范围广、安装方式多样、维护方便、质量可靠、低功耗等优势，被广泛应用于供水、工业、水利、石化、热电、钢铁、煤炭等用水量较大的行业。"
+    },
+    {
+      "name": "水利水电",
+      "source_product": "超声流量计",
+      "quote": "SCL-9多声路超声流量计 应用领域：适用于水电站和大型输水供水工程中的流量监测，广泛适用于管路、涵洞、各种形状的有压管路、水源地水利水电、涵渠输水、水资源监控及工业计量领域。"
+    },
+    {
+      "name": "智慧水务",
+      "source_product": "智慧供水平台",
+      "quote": "智慧水务、智慧供热 指 ... 形成“城市水务（供热）物联网”... 以更加精细和动态的方式管理水务（供热）系统的整个生产、管理和服务流程，从而达到“智慧”的状态。"
+    },
+    {
+      "name": "智慧供热",
+      "source_product": "智慧供热平台",
+      "quote": "公司基于政策导向及市场需求持续在智慧供热领域进行技术创新。... 打造了以“智慧供热平台+三大解决方案+N个系统”为核心的服务架构。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张力新",
+      "role": "董事长",
+      "quote": "公司负责人张力新、主管会计工作负责人冯大鹏及会计机构负责人（会计主管人员）李先兵声明：保证本年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "冯大鹏",
+      "role": "总经理、财务总监",
+      "quote": "冯大鹏先生，公司董事、总经理、财务总监，个人简介详见本节“董事会成员简介”。"
+    },
+    {
+      "name": "陈辉",
+      "role": "董事、副总经理、产品研发中心总监",
+      "quote": "陈辉女士，中国国籍，1984年1月出生，... 现任公司董事、副总经理、产品研发中心总监。"
+    },
+    {
+      "name": "张继川",
+      "role": "董事、汇中科技唐山有限公司总经理",
+      "quote": "张继川先生，中国国籍，1977年1月出生，... 现任公司董事、汇中科技唐山有限公司总经理。"
+    },
+    {
+      "name": "郭立志",
+      "role": "董事、副总经理、智能制造中心总监",
+      "quote": "郭立志先生，中国国籍，1981年6月出生，... 现任公司董事、副总经理、智能制造中心总监。"
+    },
+    {
+      "name": "邱静辉",
+      "role": "职工董事、工会主席、综合办公室总监",
+      "quote": "邱静辉女士，中国国籍，1978年6月出生，... 现任公司工会主席、综合办公室总监。"
+    },
+    {
+      "name": "李俊杰",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 李俊杰"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "汇中科技唐山有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "专注于标准流量传感器组件的研发、销售及相关技术服务。",
+      "quote": "释义项 指 释义内容 汇中科技 指 汇中科技唐山有限公司"
+    },
+    {
+      "name": "力声达传感科技唐山有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "专业研发、生产和销售超声波传感器及压电陶瓷系列产品。",
+      "quote": "力声达 指 力声达传感科技唐山有限公司"
+    },
+    {
+      "name": "汇中计量（澳大利亚）有限公司/HUIZHONG METERING (AUSTRALIA) PTY LTD",
+      "relation_type": "subsidiary",
+      "business_details": "在澳大利亚设立首个海外全资子公司，强化澳大利亚市场开发。",
+      "quote": "汇中澳洲 指 汇中计量（澳大利亚）有限公司/HUIZHONG METERING (AUSTRALIA) PTY LTD"
+    },
+    {
+      "name": "汇中仪表（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "汇中香港 指 汇中仪表（香港）有限公司"
+    },
+    {
+      "name": "Avnet AsiaPteLtd（安富利）",
+      "relation_type": "customer",
+      "business_details": "完成了与安富利战略合作协议的续签工作，并以开拓全球超声波水表市场为目标。",
+      "quote": "首次与意大利代理商建立独家合作伙伴关系，并完成了与 Avnet AsiaPteLtd（安富利）战略合作协议的续签工作。"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "仪器仪表制造业",
+      "segment_type": "product_line",
+      "revenue_amount": "450,494,523.12",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "49.09%",
+      "yoy_change": "16.79%",
+      "quote": "分行业 仪器仪表制造业 450,494,523.12 100.00% 385,724,324.81 100.00% 16.79%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "159,855,975.02",
+      "revenue_proportion": "35.48%",
+      "gross_margin": "47.97%",
+      "yoy_change": "217.49%",
+      "quote": "分地区 境外 159,855,975.02 35.48% 50,349,477.30 13.05% 217.49%"
+    },
+    {
+      "name": "华北地区",
+      "segment_type": "region",
+      "revenue_amount": "99,409,225.65",
+      "revenue_proportion": "22.07%",
+      "gross_margin": "63.69%",
+      "yoy_change": "-26.31%",
+      "quote": "华北地区 99,409,225.65 22.07% 134,901,546.13 34.97% -26.31%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "84,833,025.30",
+      "revenue_proportion": "18.83%",
+      "gross_margin": "43.76%",
+      "yoy_change": "-8.59%",
+      "quote": "华东地区 84,833,025.30 18.83% 92,808,781.84 24.06% -8.59%"
+    },
+    {
+      "name": "代理模式",
+      "segment_type": "sales_channel",
+      "revenue_amount": "182,299,233.95",
+      "revenue_proportion": "40.47%",
+      "gross_margin": "44.34%",
+      "yoy_change": "111.72%",
+      "quote": "分销售模式 代理模式 182,299,233.95 40.47% 86,104,744.12 22.32% 111.72%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "超声测流产品",
+      "metric_type": "capacity",
+      "value": "单班 150万台户用仪表，10万台工业仪表",
+      "period": null,
+      "quote": "直接助力公司实现单班 150万台户用仪表，10万台工业仪表的生产能力。"
+    },
+    {
+      "product": "仪器仪表",
+      "metric_type": "production_volume",
+      "value": "541,105.00台（套）",
+      "period": "2025年",
+      "quote": "仪器仪表制造业 生产量 台（套） 541,105.00 523,944.00 3.28%"
+    },
+    {
+      "product": "仪器仪表",
+      "metric_type": "sales_volume",
+      "value": "594,017.00台（套）",
+      "period": "2025年",
+      "quote": "仪器仪表制造业 销售量 台（套） 594,017.00 469,535.00 26.51%"
+    },
+    {
+      "product": "仪器仪表",
+      "metric_type": "inventory_volume",
+      "value": "103,350.00台（套）",
+      "period": "2025年末",
+      "quote": "仪器仪表制造业 库存量 台（套） 103,350.00 156,262.00 -33.86%"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "光伏发电系统二期项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "年发电量可达 350kw·h",
+      "progress": "2026年初投入使用",
+      "expected_completion_time": "2026年初",
+      "quote": "报告期内，公司启动了光伏发电系统二期项目建设，并于 2026年初投入使用，目前公司光伏设备年发电量可达 350kw·h。"
+    },
+    {
+      "name": "设立澳大利亚全资子公司 HUIZHONG METERING (AUSTRALIA) PTY LTD",
+      "project_type": "other",
+      "location": "澳大利亚",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "报告期内已设立",
+      "expected_completion_time": null,
+      "quote": "成功设立澳大利亚全资子公司 HUIZHONG METERING (AUSTRALIA) PTY LTD。"
+    },
+    {
+      "name": "注塑车间筹建",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "实现了注塑车间从 0到1的筹建与规模化生产",
+      "expected_completion_time": null,
+      "quote": "结合 ESG治理与绿色制造理念，实现了注塑车间从 0到1的筹建与规模化生产，进一步完善供应链布局、提升核心零部件自主供给能力。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "超声测流技术",
+      "asset_type": "core_technology",
+      "related_product": "超声水表、超声热量表、超声流量计",
+      "quantitative_info": "DN15-15000计量口径、“源、网、站、户”计量场景、NB-IoT、LoRa、Cat.1等通讯方式的应用全覆盖",
+      "quote": "公司坚持自主创新战略，凭借“技术研发”“智能制造”的雄厚实力，持续优化超声水表、超声热量表、超声流量计三大系列产品基于“一个平台、三套方案、N个系统”的智慧管理能力。"
+    },
+    {
+      "name": "专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "共计拥有有效专利 139 项，其中发明专利 17项、实用新型专利 83项、外观设计专利 39项",
+      "quote": "截至报告期末，公司共计拥有有效专利 139 项，其中发明专利 17项、实用新型专利 83项、外观设计专利 39项；共计拥有有效计算机软件著作权298项。"
+    },
+    {
+      "name": "计算机软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "共计拥有有效计算机软件著作权298项",
+      "quote": "共计拥有有效计算机软件著作权298项。"
+    },
+    {
+      "name": "国家标准",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "累计 17项国家标准、11项行业、团体及地方标准",
+      "quote": "公司先后参与制定《给排水用超声流量计（传播速度差法）》《热量表》《超声流量计检定规程》等累计 17项国家标准、11项行业、团体及地方标准。"
+    },
+    {
+      "name": "CMMI5级认证",
+      "asset_type": "certification",
+      "related_product": "软件研发",
+      "quantitative_info": null,
+      "quote": "2025年 6月公司通过 CMMI5级复评认证，这是继 2022年首次通过该认证后，公司软件研发实力再获国际权威认可。"
+    },
+    {
+      "name": "国家863课题成果",
+      "asset_type": "other",
+      "related_product": "高性能超声换能器",
+      "quantitative_info": null,
+      "quote": "高性能超声换能器：国家 863 课题的研究成果，传感器耐久稳定，可测量介质温度260℃。"
+    },
+    {
+      "name": "CNAS认证",
+      "asset_type": "certification",
+      "related_product": "检测和校准实验室",
+      "quantitative_info": null,
+      "quote": "2019年公司通过国内 CNAS认证"
+    },
+    {
+      "name": "Watermark认证",
+      "asset_type": "certification",
+      "related_product": "海外产品（如澳洲水表）",
+      "quantitative_info": null,
+      "quote": "是澳大利亚标准局（Standards Australia Limited）的认证标志，... 认证的产品包括水龙头、各种水阀、水管、水箱配件、花洒、浴缸、管接头等供水、排污类产品。"
+    },
+    {
+      "name": "MID认证",
+      "asset_type": "certification",
+      "related_product": "海外产品（如欧洲水表）",
+      "quantitative_info": null,
+      "quote": "SCL-61D5超声水表（MID）嵌入式软件"
+    },
+    {
+      "name": "HCF认证",
+      "asset_type": "certification",
+      "related_product": "防爆型超声流量计",
+      "quantitative_info": null,
+      "quote": "HCF 认证"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "40.34%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额（元） 181,720,872.47 前五名客户合计销售金额占年度销售总额比例 40.34%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "26.76%",
+      "related_entity": "客户A",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 120,557,572.58 26.76%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "37.71%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额（元） 56,222,790.25 前五名供应商合计采购金额占年度采购总额比例 37.71%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "14.85%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 22,133,302.85 14.85%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "market_competition",
+      "description": "市场竞争加剧及部分产品毛利率下降的风险",
+      "related_entity": null,
+      "related_product": "超声水表、超声热量表",
+      "quote": "公司在生产经营中可能面临... 市场竞争加剧及部分产品毛利率下降... 等风险。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "技术创新与产品迭代的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在生产经营中可能面临... 技术创新与产品迭代... 等风险。"
+    },
+    {
+      "risk_type": "policy_regulation",
+      "description": "税收优惠以及政府补贴政策变化的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司在生产经营中可能面临... 税收优惠以及政府补贴政策变化... 等风险。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "汇率波动的风险",
+      "related_entity": null,
+      "related_product": "海外销售产品",
+      "quote": "5．汇率波动的风险 ... 汇率波动风险持续凸显。"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济波动的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1．宏观经济波动的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "海外市场经营环境发生变化的风险",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5．海外市场经营环境发生变化的风险"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "直接材料成本占比较高",
+      "related_entity": null,
+      "related_product": "仪器仪表",
+      "quote": "仪器仪表制造业 直接材料 164,802,148.52 71.86%"
+    }
+  ]
+}

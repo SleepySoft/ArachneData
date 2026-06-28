@@ -1,0 +1,358 @@
+{
+  "company_name_mentioned": "青云科技集团股份有限公司",
+  "produces": [
+    {
+      "name": "云产品",
+      "type": "device",
+      "revenue_proportion": "2025年收入为100,433,347.03元，占主营业务收入44.22%",
+      "quote": "云产品 100,433,347.03 37,502,856.85 62.66 -20.57 -6.44 -5.64"
+    },
+    {
+      "name": "云服务",
+      "type": "service",
+      "revenue_proportion": "2025年收入为126,716,460.77元，占主营业务收入55.78%",
+      "quote": "云服务 126,716,460.77 120,516,564.36 4.89 -12.92 -17.37 5.13"
+    }
+  ],
+  "procures": [
+    {
+      "name": "服务器",
+      "target_product": "云产品、云服务",
+      "cost_proportion": null,
+      "quote": "云产品方面，涉及采购的主要为服务器、存储、网络设备、IoT设备、软件等系统集成所需产品服务。云服务方面，公司向硬件厂商采用服务器、网络、传输、存储、配件等产品..."
+    },
+    {
+      "name": "网络设备（交换机等）",
+      "target_product": "云服务",
+      "cost_proportion": null,
+      "quote": "...向网络设备供应厂商采购交换机等网络传输设备及配件..."
+    },
+    {
+      "name": "电信资源（机柜、带宽、IP、光纤、专线等）",
+      "target_product": "云服务",
+      "cost_proportion": null,
+      "quote": "...向数据中心服务商采购机柜、带宽、IP、光纤、专线等电信资源。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "金融行业",
+      "source_product": "云平台、云原生、软件定义存储、AI智算平台",
+      "quote": "公司在对产品性能要求高、看重稳定与安全性的金融、政企、教育、医疗、能源、交通等行业率先取得显著优势，已实现众多标志性项目商业落地。"
+    },
+    {
+      "name": "教育行业",
+      "source_product": "云平台、云原生、软件定义存储、AI智算平台",
+      "quote": "清华大学、中国农业大学、武汉协和医院、西昌市人民医院、宜昌人福药业等行业领先企业或机构。"
+    },
+    {
+      "name": "医疗行业",
+      "source_product": "云平台、云原生、软件定义存储、AI智算平台",
+      "quote": "清华大学、中国农业大学、武汉协和医院、西昌市人民医院、宜昌人福药业等行业领先企业或机构。"
+    },
+    {
+      "name": "能源行业",
+      "source_product": "云平台、云原生、软件定义存储、AI智算平台",
+      "quote": "国家电力投资集团、国网黑龙江电力公司、陕西燃气集团..."
+    },
+    {
+      "name": "交通行业",
+      "source_product": "云平台、云原生、软件定义存储、AI智算平台",
+      "quote": "江苏交通控股、新疆交投..."
+    },
+    {
+      "name": "政企",
+      "source_product": "云平台、云原生、软件定义存储、AI智算平台",
+      "quote": "中国人民银行、光大银行、中国银行、招商银行、泰康保险、阳光保险、中国国航、江苏交通控股、新疆交投、华润创业、人民网、国家电力投资集团、国网黑龙江电力公司、陕西燃气集团、国家超算济南中心、西部矿业集团、中通快递、洋河股份、清华大学、中国农业大学、武汉协和医院、西昌市人民医院、宜昌人福药业等行业领先企业或机构。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "黄允松",
+      "role": "董事长、总经理（代行）、核心技术人员",
+      "quote": "黄允松 男 48 6,709,835 6,709,835 88.7888 否"
+    },
+    {
+      "name": "林源",
+      "role": "董事、总经理、核心技术人员",
+      "quote": "林源 男 40 1,100,000 1,100,000 88.4226 否"
+    },
+    {
+      "name": "罗世芳",
+      "role": "财务负责人、副总经理",
+      "quote": "罗世芳 女 44 55.7629 否"
+    },
+    {
+      "name": "刘军军",
+      "role": "副总经理、董事会秘书",
+      "quote": "刘军军 男 41 2026年3月17日 2028年8月19日 0 否"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "光格网络技术（成都）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司全资子公司",
+      "quote": "光格网络 指 光格网络技术（成都）有限公司，为公司全资子公司"
+    },
+    {
+      "name": "青云科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的全资子公司",
+      "quote": "成都青云 指 青云科技有限公司，为公司的全资子公司"
+    },
+    {
+      "name": "北京青云信息科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的全资子公司",
+      "quote": "青云信息科技 指 北京青云信息科技有限公司，为公司的全资子公司"
+    },
+    {
+      "name": "CloudComputingHKLimited",
+      "relation_type": "subsidiary",
+      "business_details": "为公司的全资子公司",
+      "quote": "香港云计算 指 CloudComputingHKLimited，为公司的全资子公司"
+    },
+    {
+      "name": "青云创元云计算服务承德有限公司",
+      "relation_type": "investor",
+      "business_details": "为公司参股公司",
+      "quote": "青云创元 指 青云创元云计算服务承德有限公司，为公司参股公司"
+    },
+    {
+      "name": "嘉兴蓝驰帆畅投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "为公司股东",
+      "quote": "嘉兴蓝驰 指 嘉兴蓝驰帆畅投资合伙企业（有限合伙），为公司股东"
+    },
+    {
+      "name": "横琴招证睿信投资中心（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "为公司股东",
+      "quote": "横琴招证 指 横琴招证睿信投资中心（有限合伙），为公司股东"
+    },
+    {
+      "name": "北京融汇阳光新兴产业投资管理中心（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "为公司上市时股东",
+      "quote": "北京融汇 指 北京融汇阳光新兴产业投资管理中心（有限合伙），为公司上市时股东"
+    },
+    {
+      "name": "山东吉富创业投资合伙企业（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "为公司股东",
+      "quote": "山东吉富 指 山东吉富创业投资合伙企业（有限合伙），为公司股东"
+    },
+    {
+      "name": "苏州工业园区蝴蝶天翔投资中心（有限合伙）",
+      "relation_type": "investor",
+      "business_details": "为公司股东",
+      "quote": "苏州天翔 指 苏州工业园区蝴蝶天翔投资中心（有限合伙），为公司股东"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "云产品",
+      "segment_type": "product_line",
+      "revenue_amount": "100,433,347.03元",
+      "revenue_proportion": "44.22%",
+      "gross_margin": "62.66%",
+      "yoy_change": "收入同比下降20.57%",
+      "quote": "云产品 100,433,347.03 37,502,856.85 62.66 -20.57 -6.44 -5.64"
+    },
+    {
+      "name": "云服务",
+      "segment_type": "product_line",
+      "revenue_amount": "126,716,460.77元",
+      "revenue_proportion": "55.78%",
+      "gross_margin": "4.89%",
+      "yoy_change": "收入同比下降12.92%",
+      "quote": "云服务 126,716,460.77 120,516,564.36 4.89 -12.92 -17.37 5.13"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "226,840,985.37元",
+      "revenue_proportion": "99.86%",
+      "gross_margin": "31.43%",
+      "yoy_change": "收入同比下降15.85%",
+      "quote": "境内 226,840,985.37 155,549,451.13 31.43 -15.85 -14.99 -0.69"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "308,822.43元",
+      "revenue_proportion": "0.14%",
+      "gross_margin": "不适用",
+      "yoy_change": "收入同比下降87.15%",
+      "quote": "境外 308,822.43 2,469,970.08 不适用 -87.15 -16.80 不适用"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "156,855,811.95元",
+      "revenue_proportion": "69.06%",
+      "gross_margin": "18.52%",
+      "yoy_change": "收入同比下降6.77%",
+      "quote": "直销 156,855,811.95 127,813,370.65 18.52 -6.77 -12.89 5.58"
+    },
+    {
+      "name": "经销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "65,045,968.60元",
+      "revenue_proportion": "28.63%",
+      "gross_margin": "61.60%",
+      "yoy_change": "收入同比下降29.30%",
+      "quote": "经销 65,045,968.60 24,976,289.29 61.60 -29.30 -5.14 -9.78"
+    },
+    {
+      "name": "代理",
+      "segment_type": "sales_channel",
+      "revenue_amount": "5,248,027.25元",
+      "revenue_proportion": "2.31%",
+      "gross_margin": "0.35%",
+      "yoy_change": "收入同比下降55.23%",
+      "quote": "代理 5,248,027.25 5,229,761.27 0.35 -55.23 -59.37 10.16"
+    }
+  ],
+  "capacity_and_output": [],
+  "projects_and_expansion": [
+    {
+      "name": "基于Kubernetes提供界面化容器集群管理技术研究",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "拟总投资规模79,514,039.35元",
+      "designed_capacity": null,
+      "progress": "KubeSphere企业版4.2.0在产品架构上实现了重大升级...",
+      "expected_completion_time": null,
+      "quote": "基于Kubernetes提供界面化容器集群管理技术研究 79,514,039.35 2,538,606.87 74,316,418.04"
+    },
+    {
+      "name": "IaaS基础设施服务平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "拟总投资规模161,763,348.81元",
+      "designed_capacity": null,
+      "progress": "发布了多个版本及相应版本的Patch，有效的提升了产品的稳定性和易用性...",
+      "expected_completion_time": null,
+      "quote": "IaaS基础设施服务平台 161,763,348.81 3,082,973.62 141,069,618.71"
+    },
+    {
+      "name": "QingStor软件定义存储产品平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "拟总投资规模104,502,641.82元",
+      "designed_capacity": null,
+      "progress": "新发布基于全新自研的HydroFS为底层分布式数据存储平台的5.2、5.3和5.4版本...",
+      "expected_completion_time": null,
+      "quote": "QingStor软件定义存储产品平台 104,502,641.82 1,226,898.25 77,668,188.84"
+    },
+    {
+      "name": "AI智算平台",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "拟总投资规模10,000,000.00元",
+      "designed_capacity": null,
+      "progress": "提供大模型推理服务平台，支持异构分布式多渠道推理公共Tokens服务...",
+      "expected_completion_time": null,
+      "quote": "AI智算平台 10,000,000.00 6,656,849.57 10,009,523.05"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "发明专利",
+      "asset_type": "patent",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月31日，公司累计获得发明专利68个",
+      "quote": "截至2025年12月31日，公司累计获得发明专利68个，外观设计专利27个，软件著作权153个，其他作品著作权10个。"
+    },
+    {
+      "name": "软件著作权",
+      "asset_type": "software_copyright",
+      "related_product": null,
+      "quantitative_info": "截至2025年12月31日，公司累计获得软件著作权153个",
+      "quote": "截至2025年12月31日，公司累计获得发明专利68个，外观设计专利27个，软件著作权153个，其他作品著作权10个。"
+    },
+    {
+      "name": "KubeSphere容器平台",
+      "asset_type": "core_technology",
+      "related_product": "容器平台、AI智算平台、云易捷等",
+      "quantitative_info": "GitHub上Star数超16,800个，Fork数超2,600个",
+      "quote": "截至2025年12月末，KubeSphere获得超过100个国家和地区用户青睐，下载量近百万，GitHub上Star数超16,800个，Fork数超2,600个，在全球开源容器领域受欢迎程度位列第二。"
+    },
+    {
+      "name": "AIInfra3.0统一架构",
+      "asset_type": "technical_platform",
+      "related_product": "AI智算平台、AI算力云服务等",
+      "quantitative_info": null,
+      "quote": "公司发布了AIInfra3.0战略，以‘AllinOne,OneforAI’为战略核心，通过重构归一的全栈架构，搭建起一座衔接历史与未来的转型桥梁。"
+    },
+    {
+      "name": "HydroFS分布式数据存储平台",
+      "asset_type": "process_technology",
+      "related_product": "U10000对象存储",
+      "quantitative_info": null,
+      "quote": "新发布基于全新自研的HydroFS为底层分布式数据存储平台的5.2、5.3和5.4版本..."
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "47.30%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额10,789.82万元，占年度销售总额47.3%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "14.00%",
+      "related_entity": "第一名",
+      "period": "2025年度",
+      "quote": "第一名 3,193.27 14.00% 否"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "55.99%",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额12,895.99万元，占年度采购总额55.99%。"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "33.15%",
+      "related_entity": "第一名",
+      "period": "2025年度",
+      "quote": "第一名 7,637.01 33.15 否"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "technology_iteration",
+      "description": "由于云计算行业技术迭代较快，创新产品和创新模式不断涌现，推动行业产品和服务的质量不断提升...若公司不能准确把握行业发展趋势，针对性地研发技术和开发产品，导致产品性能和服务质量落后于竞争对手，可能存在已有客户流失、业务发展迟滞、市场份额下降的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "行业风险 由于互联网及信息技术行业的特性，客观上可能存在网络设备故障、软件漏洞、硬件故障、供电中断等问题..."
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "报告期公司尚未实现盈利，主要原因包括：一方面，公司前期购置云计算平台所需服务器、网络设备等固定资产的资本性支出金额带来的折旧成本较大；另一方面，公司目前的毛利贡献不足以覆盖期间费用，处于亏损状态。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "尚未盈利的风险 报告期公司尚未实现盈利..."
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "如果未来主要直销客户经营情况发生重大不利变化，将会影响公司应收账款的正常回收，公司将面临应收账款无法收回的风险，从而对公司经营活动净现金流量和经营业绩产生不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "财务风险...但如果未来主要直销客户经营情况发生重大不利变化，将会对应收账款的正常回收..."
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "当前，国内公有云市场竞争激烈，行业头部厂商如阿里云、腾讯云等，依靠全面的产品布局、雄厚的资金实力和规模效应带来的低成本着力进行市场扩张，已取得市场优势地位，占据大部分市场份额。",
+      "related_entity": "阿里云、腾讯云",
+      "related_product": "公有云",
+      "quote": "公有云领域 当前，国内公有云市场竞争激烈，行业头部厂商如阿里云、腾讯云等..."
+    }
+  ]
+}

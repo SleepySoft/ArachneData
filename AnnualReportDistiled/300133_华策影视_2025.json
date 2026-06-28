@@ -1,0 +1,519 @@
+{
+  "company_name_mentioned": "浙江华策影视股份有限公司",
+  "produces": [
+    {
+      "name": "电视剧",
+      "type": "device",
+      "revenue_proportion": "电视剧制作发行收入占营业收入61.14%，电视剧版权发行收入占13.31%",
+      "quote": "分产品 电视剧制作发行收入 1,729,301,635.14 61.14% ... 电视剧版权发行收入 376,406,091.03 13.31%"
+    },
+    {
+      "name": "电影",
+      "type": "device",
+      "revenue_proportion": "电影销售收入占营业收入6.77%，影院票房收入占1.26%",
+      "quote": "分产品 ... 电影销售 191,514,099.72 6.77% ... 影院票房 35,672,926.14 1.26%"
+    },
+    {
+      "name": "短剧/微短剧",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "2025年，公司全年上线短剧36部; ... 红果短剧《咬清梨》站内播放量破10亿"
+    },
+    {
+      "name": "国际版权与内容运营",
+      "type": "service",
+      "revenue_proportion": "海外业务收入占营业收入6.61%",
+      "quote": "分地区 海外 186,820,739.07 6.61%"
+    },
+    {
+      "name": "算力业务",
+      "type": "service",
+      "revenue_proportion": "算力业务收入占营业收入4.46%",
+      "quote": "分产品 ... 算力业务 126,142,834.71 4.46%"
+    },
+    {
+      "name": "版权运营",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司版权业务实现从\"内容存货\"向\"数据资产\"的战略跃迁。依托超5万小时正版影视版权库和约2万TB高清原始素材"
+    },
+    {
+      "name": "艺人经纪业务",
+      "type": "service",
+      "revenue_proportion": "经纪业务收入占营业收入7.85%",
+      "quote": "分产品 ... 经纪业务 222,032,292.37 7.85%"
+    },
+    {
+      "name": "音乐",
+      "type": "service",
+      "revenue_proportion": "音乐业务收入占营业收入2.52%",
+      "quote": "分产品 ... 音乐 71,218,965.64 2.52%"
+    },
+    {
+      "name": "广告及衍生收入",
+      "type": "service",
+      "revenue_proportion": "广告及衍生收入占营业收入1.70%",
+      "quote": "分产品 ... 广告及衍生收入 48,112,172.20 1.70%"
+    },
+    {
+      "name": "AI与数字化内容服务",
+      "type": "technology",
+      "revenue_proportion": null,
+      "quote": "公司已将AI从\"点状应用\"推进到\"全流程闭环\"，AI大模型在剧本评估、IP筛选、优化渲染等环节实现深度辅助应用。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "影视剧拍摄制作服务及内容",
+      "target_product": "电视剧、电影等",
+      "cost_proportion": "前五名供应商合计采购金额占年度采购总额比例32.00%",
+      "quote": "公司主要供应商情况 前五名供应商合计采购金额（元） 693,269,087.82 前五名供应商合计采购金额占年度采购总额比例 32.00%"
+    },
+    {
+      "name": "供应商一",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例25.88%",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 560,761,061.95 25.88%"
+    },
+    {
+      "name": "供应商二",
+      "target_product": null,
+      "cost_proportion": "占年度采购总额比例2.09%",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 2 供应商二 45,301,240.58 2.09%"
+    },
+    {
+      "name": "算力服务器等基础设施",
+      "target_product": "算力业务",
+      "cost_proportion": null,
+      "quote": "主要系本期新增算力业务，采购服务器等算力基础设施尚未达到预定可使用状态所致。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "电视媒体平台（电视台、视频网站）",
+      "source_product": "电视剧、电影、短剧",
+      "quote": "下游客户主要为电视台、新媒体视频网站等客户"
+    },
+    {
+      "name": "影院",
+      "source_product": "电影",
+      "quote": "院线电影... 《刺杀小说家2》... 主投主控"
+    },
+    {
+      "name": "国际流媒体及新媒体平台",
+      "source_product": "电视剧、短剧",
+      "quote": "公司长剧累计出口超过18万小时，短剧出海的全球总播放量突破10亿次；... \"华剧场\"数字平台矩阵覆盖YouTube、Facebook等超1000个频道"
+    },
+    {
+      "name": "短视频平台（如抖音）",
+      "source_product": "短剧",
+      "quote": "公司开设的抖音平台精品短剧厂牌账号“她见四季”和付费精品短剧厂牌账号“万千星辰”合计粉丝数突破170万"
+    },
+    {
+      "name": "运营商（视频彩铃等）",
+      "source_product": "版权内容",
+      "quote": "报告期内，公司运营商业务实现稳健增长，视频彩铃等融媒体业务成为集团稳定现金流来源"
+    },
+    {
+      "name": "文旅产业",
+      "source_product": "影视IP",
+      "quote": "《国色芳华》《锦绣芳华》... 实现“剧火城兴”的文旅联动效应"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "赵依芳",
+      "role": "董事长",
+      "quote": "公司负责人赵依芳... 现任浙江华策影视股份有限公司董事长"
+    },
+    {
+      "name": "傅梅城",
+      "role": "联席董事长",
+      "quote": "傅梅城先生... 现任本公司联席董事长"
+    },
+    {
+      "name": "傅斌星",
+      "role": "董事，总裁",
+      "quote": "傅斌星女士... 现任浙江华策影视股份有限公司董事、总裁"
+    },
+    {
+      "name": "张思拓",
+      "role": "董事会秘书，算力业务部总经理，投资总经理",
+      "quote": "张思拓先生... 现任公司董事会秘书、算力业务部总经理、投资总经理。"
+    },
+    {
+      "name": "沈兰英",
+      "role": "财务总监",
+      "quote": "沈兰英女士... 现任财务总监。"
+    },
+    {
+      "name": "陈敬",
+      "role": "原财务总监（离任）",
+      "quote": "2025年1月24日，陈敬因个人原因辞职，不再担任公司财务总监职务。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "杭州大策投资有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股股东",
+      "quote": "公司控股股东大策投资... 指 杭州大策投资有限公司"
+    },
+    {
+      "name": "上海克顿文化传媒有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，影视制作发行",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 上海克顿文化传媒有限公司 子公司 主要业务 影视制作、发行"
+    },
+    {
+      "name": "华策影视（北京）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，影视制作发行",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 华策影视（北京）有限公司 子公司 主要业务 影视制作、发行"
+    },
+    {
+      "name": "上海华剧汇科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，影视制作发行",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 上海华剧汇科技有限公司 子公司 主要业务 影视制作、发行"
+    },
+    {
+      "name": "杭州华策影视科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，影视制作发行",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 杭州华策影视科技有限公司 子公司 主要业务 影视制作、发行"
+    },
+    {
+      "name": "上海瞳盟影视文化有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，影视制作发行、艺人经纪服务",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 上海瞳盟影视文化有限公司 子公司 主要业务 影视制作、发行、艺人经纪服务"
+    },
+    {
+      "name": "霍城森联影视有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "主要子公司，影视策划、发行",
+      "quote": "主要子公司及对公司净利润影响达10%以上的参股公司情况 霍城森联影视有限公司 子公司 主要业务 影视策划、发行"
+    },
+    {
+      "name": "Netflix",
+      "relation_type": "customer",
+      "business_details": "国际顶级传媒集团，建立深度战略合作",
+      "quote": "与Netflix、迪士尼、亚马逊、爱奇艺、芒果TV等国内外顶级传媒集团建立深度战略合作"
+    },
+    {
+      "name": "Disney",
+      "relation_type": "customer",
+      "business_details": "国际顶级传媒集团，建立深度战略合作",
+      "quote": "与Netflix、迪士尼、亚马逊、爱奇艺、芒果TV等国内外顶级传媒集团建立深度战略合作"
+    },
+    {
+      "name": "Amazon",
+      "relation_type": "customer",
+      "business_details": "国际顶级传媒集团，建立深度战略合作",
+      "quote": "与Netflix、迪士尼、亚马逊、爱奇艺、芒果TV等国内外顶级传媒集团建立深度战略合作"
+    },
+    {
+      "name": "爱奇艺",
+      "relation_type": "customer",
+      "business_details": "国内视频平台，作品播出平台及战略合作方",
+      "quote": "《我们的河山》央视首播... 爱奇艺、优酷、腾讯、咪咕... 与Netflix、迪士尼、亚马逊、爱奇艺、芒果TV等国内外顶级传媒集团建立深度战略合作"
+    },
+    {
+      "name": "芒果TV",
+      "relation_type": "customer",
+      "business_details": "国内视频平台，作品播出平台及战略合作方",
+      "quote": "《国色芳华》... 芒果TV、咪咕视频... 与Netflix、迪士尼、亚马逊、爱奇艺、芒果TV等国内外顶级传媒集团建立深度战略合作"
+    },
+    {
+      "name": "YouTube",
+      "relation_type": "customer",
+      "business_details": "国际视频平台，公司“华剧场”频道所在地",
+      "quote": "公司\"华剧场\"数字平台矩阵覆盖YouTube、Facebook等超1000个频道"
+    },
+    {
+      "name": "Rokid",
+      "relation_type": "investor",
+      "business_details": "公司投资入股的AR/AI智能眼镜企业，并签署战略合作",
+      "quote": "2026年3月，公司已投资9000万元战略入股AR/AI智能眼镜领军企业Rokid，并签署战略合作"
+    },
+    {
+      "name": "杭州芯算元界科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "新设子公司，算力相关",
+      "quote": "杭州芯算元界科技有限公司 新设子公司 2025年3月 50,505,050.00 100.00%"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "电视剧制作发行收入",
+      "segment_type": "product_line",
+      "revenue_amount": "1,729,301,635.14元",
+      "revenue_proportion": "61.14%",
+      "gross_margin": "20.55%",
+      "yoy_change": "44.89%",
+      "quote": "分产品 电视剧制作发行收入 1,729,301,635.14 61.14% ... 毛利率 20.55% ... 营业收入比上年同期增减 44.89%"
+    },
+    {
+      "name": "电视剧版权发行收入",
+      "segment_type": "product_line",
+      "revenue_amount": "376,406,091.03元",
+      "revenue_proportion": "13.31%",
+      "gross_margin": "49.20%",
+      "yoy_change": "-0.58%",
+      "quote": "分产品 电视剧版权发行收入 376,406,091.03 13.31% ... 毛利率 49.20% ... 营业收入比上年同期增减 -0.58%"
+    },
+    {
+      "name": "电影销售",
+      "segment_type": "product_line",
+      "revenue_amount": "191,514,099.72元",
+      "revenue_proportion": "6.77%",
+      "gross_margin": "-42.41%",
+      "yoy_change": "85.40%",
+      "quote": "分产品 电影销售 191,514,099.72 6.77% ... 毛利率 -42.41% ... 营业收入比上年同期增减 85.40%"
+    },
+    {
+      "name": "算力业务",
+      "segment_type": "product_line",
+      "revenue_amount": "126,142,834.71元",
+      "revenue_proportion": "4.46%",
+      "gross_margin": "36.02%",
+      "yoy_change": "602.65%",
+      "quote": "分产品 算力业务 126,142,834.71 4.46% ... 毛利率 36.02% ... 营业收入比上年同期增减 602.65%"
+    },
+    {
+      "name": "经纪业务",
+      "segment_type": "product_line",
+      "revenue_amount": "222,032,292.37元",
+      "revenue_proportion": "7.85%",
+      "gross_margin": "27.23%",
+      "yoy_change": "54.98%",
+      "quote": "分产品 经纪业务 222,032,292.37 7.85% ... 毛利率 27.23% ... 营业收入比上年同期增减 54.98%"
+    },
+    {
+      "name": "音乐",
+      "segment_type": "product_line",
+      "revenue_amount": "71,218,965.64元",
+      "revenue_proportion": "2.52%",
+      "gross_margin": "39.75%",
+      "yoy_change": "99.14%",
+      "quote": "分产品 音乐 71,218,965.64 2.52% ... 毛利率 39.75% ... 营业收入比上年同期增减 99.14%"
+    },
+    {
+      "name": "海外地区",
+      "segment_type": "region",
+      "revenue_amount": "186,820,739.07元",
+      "revenue_proportion": "6.61%",
+      "gross_margin": "71.77%",
+      "yoy_change": "-0.45%",
+      "quote": "分地区 海外 186,820,739.07 6.61% ... 毛利率 71.77% ... 营业收入比上年同期增减 -0.45%"
+    },
+    {
+      "name": "国内地区",
+      "segment_type": "region",
+      "revenue_amount": "2,641,645,542.23元",
+      "revenue_proportion": "93.39%",
+      "gross_margin": "19.98%",
+      "yoy_change": "50.83%",
+      "quote": "分地区 国内 2,641,645,542.23 93.39% ... 毛利率 19.98% ... 营业收入比上年同期增减 50.83%"
+    },
+    {
+      "name": "影视行业",
+      "segment_type": "business_unit",
+      "revenue_amount": "2,626,146,010.04元",
+      "revenue_proportion": null,
+      "gross_margin": "21.22%",
+      "yoy_change": "39.54%",
+      "quote": "分行业 影视行业 2,626,146,010.04 2,068,957,038.41 21.22% 39.54% 57.19% -8.85%"
+    },
+    {
+      "name": "前五大作品",
+      "segment_type": "other",
+      "revenue_amount": "1,366,189,357.10元",
+      "revenue_proportion": "48.30%",
+      "gross_margin": null,
+      "yoy_change": null,
+      "quote": "前五大作品 收入（元） 占主营业务收入比例 《太平年》《家业》《锦绣芳华》《四喜》《心诉》 1,366,189,357.10 48.30%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "电视剧",
+      "metric_type": "production_volume",
+      "value": "全年实际开拍剧集7部197集",
+      "period": "2025年",
+      "quote": "2025年，公司全面践行精品战略... 实际开拍剧集7部197集"
+    },
+    {
+      "product": "电视剧",
+      "metric_type": "other",
+      "value": "取得发行许可证9部300集",
+      "period": "2025年",
+      "quote": "取得发行许可证9部300集"
+    },
+    {
+      "product": "短剧",
+      "metric_type": "production_volume",
+      "value": "全年上线短剧36部",
+      "period": "2025年",
+      "quote": "报告期内，公司全年上线短剧36部"
+    },
+    {
+      "product": "电视剧（国际）",
+      "metric_type": "sales_volume",
+      "value": "长剧累计出口超过18万小时",
+      "period": null,
+      "quote": "内容出海方面，公司长剧累计出口超过18万小时"
+    },
+    {
+      "product": "短剧（国际）",
+      "metric_type": "sales_volume",
+      "value": "短剧出海的全球总播放量突破10亿次",
+      "period": null,
+      "quote": "短剧出海的全球总播放量突破10亿次"
+    },
+    {
+      "product": "算力",
+      "metric_type": "capacity",
+      "value": "截至2025年底，公司已有智算规模8000P",
+      "period": "2025年底",
+      "quote": "截至2025年底，公司已有智算规模8000P"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "算力基础设施",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "智算规模8000P",
+      "progress": "在建工程586,084,123.14元",
+      "expected_completion_time": null,
+      "quote": "在建工程 586,084,123.14 ... 主要系本期新增算力业务，采购服务器等算力基础设施尚未达到预定可使用状态所致。"
+    },
+    {
+      "name": "中国·桐庐富春影视产教示范区",
+      "project_type": "construction_project",
+      "location": "桐庐县",
+      "investment_amount": null,
+      "designed_capacity": "建设万人规模技师学院、高科技影视创制中心",
+      "progress": "2024年1月签约",
+      "expected_completion_time": null,
+      "quote": "2024年1月，大策投资与桐庐县人民政府签约“中国·桐庐富春影视产教示范区”项目，建设万人规模技师学院、高科技影视创制中心、最美影文旅融合目的地。"
+    },
+    {
+      "name": "AIGC应用研究院",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "设立并运营",
+      "expected_completion_time": null,
+      "quote": "公司已设立AIGC应用研究院，配置人工智能专家、AI人机共创复合型人才、影视数据专家等专职人才"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "AI全流程闭环应用",
+      "asset_type": "core_technology",
+      "related_product": "影视内容生产",
+      "quantitative_info": null,
+      "quote": "公司已将AI从\"点状应用\"推进到\"全流程闭环\"，AI大模型在剧本评估、IP筛选、优化渲染等环节实现深度辅助应用。"
+    },
+    {
+      "name": "AI 3D数字资产库",
+      "asset_type": "technical_platform",
+      "related_product": "影视制作、衍生品开发",
+      "quantitative_info": "自2023年起逐步建设",
+      "quote": "以及自2023年起逐步建设的AI 3D数字资产库... 已储备大量可用于广告、影视剧拍摄制作的3D数字资产场景。"
+    },
+    {
+      "name": "正版影视版权库与高清原始素材",
+      "asset_type": "other",
+      "related_product": "版权运营、AI训练语料",
+      "quantitative_info": "超5万小时正版影视版权库和约2万TB高清原始素材",
+      "quote": "依托超5万小时正版影视版权库和约2万TB高清原始素材... 公司初步构筑起AI时代的数据竞争力。"
+    },
+    {
+      "name": "多语种配音服务平台及相关AI模型",
+      "asset_type": "software_copyright",
+      "related_product": "内容出海、译制服务",
+      "quantitative_info": null,
+      "quote": "主要研发项目 名称：1.多语种配音服务平台建设... 2.语音合成技术集成... 3.多语言支持能力"
+    },
+    {
+      "name": "LED虚拟拍摄技术",
+      "asset_type": "process_technology",
+      "related_product": "影视剧拍摄",
+      "quantitative_info": null,
+      "quote": "《太平年》已初步跑通AI应用全流程赋能，并运用LED虚拟拍摄技术，显著降低复杂场景的制作周期、外景成本"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "前五名客户合计销售金额（元） 1,886,395,413.16，占年度销售总额比例 66.69%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要销售客户情况 前五名客户合计销售金额（元） 1,886,395,413.16 前五名客户合计销售金额占年度销售总额比例 66.69%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "客户一 销售额（元） 872,063,485.63，占年度销售总额比例 30.83%",
+      "related_entity": "客户一",
+      "period": "2025年",
+      "quote": "公司前5大客户资料 序号 客户名称 销售额（元） 占年度销售总额比例 1 客户一 872,063,485.63 30.83%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "前五名供应商合计采购金额（元） 693,269,087.82，占年度采购总额比例 32.00%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "公司主要供应商情况 前五名供应商合计采购金额（元） 693,269,087.82 前五名供应商合计采购金额占年度采购总额比例 32.00%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "供应商一 采购额（元） 560,761,061.95，占年度采购总额比例 25.88%",
+      "related_entity": "供应商一",
+      "period": "2025年",
+      "quote": "公司前5名供应商资料 序号 供应商名称 采购额（元） 占年度采购总额比例 1 供应商一 560,761,061.95 25.88%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "文化影视行业具有涉及意识形态的特殊属性，现阶段国家对此执行较为严格的监管政策。若公司的内容作品在制作过程中违反了相关监管规定，该内容作品可能面临无法播出的风险。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（2）政策监管风险 文化影视行业具有涉及意识形态的特殊属性，现阶段国家对此执行较为严格的监管政策。影视作品的制作、进口、发行等环节均实行许可制度... 若公司的内容作品在制作过程中违反了相关监管规定，该内容作品可能面临无法播出的风险"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "文化影视行业一直处于充分竞争状态。近年来，业内企业资源加速集聚，行业竞争愈发激烈，行业格局持续变化，视频网站自制内容兴起。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争的风险 文化影视行业一直处于充分竞争状态。近年来，业内企业资源加速集聚，行业竞争愈发激烈，行业格局持续变化，视频网站自制内容兴起。"
+    },
+    {
+      "risk_type": "litigation",
+      "description": "随着业务版图的不断扩大、运营模式的日趋复杂、行业商业模式的创新，公司面临的仲裁、诉讼和由此导致产生损失的风险有所增加。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、仲裁和诉讼风险 随着业务版图的不断扩大、运营模式的日趋复杂、行业商业模式的创新，公司面临的仲裁、诉讼和由此导致产生损失的风险有所增加。"
+    },
+    {
+      "risk_type": "other",
+      "description": "公司业务涵盖了电视剧、电影、网络电影、动画、音乐、短视频等内容领域。... 但仍存在未来业务发展不确定的风险。影视项目的部分环节具有不确定性，公司可能不能实现全流程的风险精准把控。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "5、内容多元化业务发展存在不确定性的风险 公司业务涵盖了电视剧、电影、网络电影、动画、音乐、短视频等内容领域。... 但仍存在未来业务发展不确定的风险。影视项目的部分环节具有不确定性，公司可能不能实现全流程的风险精准把控"
+    },
+    {
+      "risk_type": "other",
+      "description": "宏观经济波动风险：公司的生产经营将受到宏观经济波动以及下游行业周期性变化的影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "（1）宏观经济波动风险 公司属于文化影视行业，下游客户主要为电视台、新媒体视频网站等客户，其商业模式主要依赖于广告、会员收入。因此，公司的生产经营将受到宏观经济波动以及下游行业周期性变化的影响。"
+    }
+  ]
+}

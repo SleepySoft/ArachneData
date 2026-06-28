@@ -1,0 +1,430 @@
+{
+  "company_name_mentioned": "上海第一医药股份有限公司",
+  "produces": [
+    {
+      "name": "医药零售业务",
+      "type": "service",
+      "revenue_proportion": "126,754.34万元（占主营业务收入126,754.34/(126,754.34+80,294.62)≈61.2%）",
+      "quote": "医药零售业务实现营业收入126,754.34万元，同比增加8.43%"
+    },
+    {
+      "name": "医药批发业务",
+      "type": "service",
+      "revenue_proportion": "80,294.62万元（占主营业务收入约38.8%）",
+      "quote": "医药批发业务实现营业收入80,294.62万元，同比增长15.56%"
+    },
+    {
+      "name": "药品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "公司主要从事药品的零售和批发业务"
+    },
+    {
+      "name": "食品",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "零售业务模式主要是从上游供应商采购药品、食品、医疗器械及健康便利品等商品"
+    },
+    {
+      "name": "医疗器械",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "经营范围涵盖中西药品、营养保健品、医疗器械、中药饮片等"
+    },
+    {
+      "name": "中药饮片",
+      "type": "material",
+      "revenue_proportion": null,
+      "quote": "经营范围涵盖中西药品、营养保健品、医疗器械、中药饮片等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "药品",
+      "target_product": "医药零售及批发",
+      "cost_proportion": "前五名供应商采购额89,439.11万元，占年度采购总额48.69%",
+      "quote": "零售业务模式主要是从上游供应商采购药品、食品、医疗器械及健康便利品等商品"
+    },
+    {
+      "name": "食品",
+      "target_product": "零售",
+      "cost_proportion": null,
+      "quote": "零售业务模式主要是从上游供应商采购药品、食品、医疗器械及健康便利品等商品"
+    },
+    {
+      "name": "医疗器械及健康便利品",
+      "target_product": "零售",
+      "cost_proportion": null,
+      "quote": "零售业务模式主要是从上游供应商采购药品、食品、医疗器械及健康便利品等商品"
+    }
+  ],
+  "applications": [
+    {
+      "name": "终端消费者",
+      "source_product": "医药零售业务",
+      "quote": "零售业务模式主要是从上游供应商采购药品、食品、医疗器械及健康便利品等商品，随后向终端消费者进行零售。"
+    },
+    {
+      "name": "终端医疗机构",
+      "source_product": "医药批发业务",
+      "quote": "批发业务模式主要是从上游供应商采购药品等商品，随后销售给终端医疗机构、其他药店或商品流通企业、公司加盟店等。"
+    },
+    {
+      "name": "其他药店或商品流通企业",
+      "source_product": "医药批发业务",
+      "quote": "批发业务模式主要是从上游供应商采购药品等商品，随后销售给终端医疗机构、其他药店或商品流通企业、公司加盟店等。"
+    },
+    {
+      "name": "公司加盟店",
+      "source_product": "医药批发业务",
+      "quote": "批发业务模式主要是从上游供应商采购药品等商品，随后销售给终端医疗机构、其他药店或商品流通企业、公司加盟店等。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "张海波",
+      "role": "党委书记、董事长、法定代表人",
+      "quote": "公司负责人张海波、主管会计工作负责人孙峥及会计机构负责人（会计主管人员）黄洁静声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "孙峥",
+      "role": "财务总监、董事会秘书",
+      "quote": "董事会秘书 证券事务代表 姓名 孙峥"
+    },
+    {
+      "name": "黄洁静",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "公司负责人张海波、主管会计工作负责人孙峥及会计机构负责人（会计主管人员）黄洁静声明：保证年度报告中财务报告的真实、准确、完整。"
+    },
+    {
+      "name": "姚军",
+      "role": "党委副书记、副董事长、总经理",
+      "quote": "姚军 党委副书记、副董事长、总经理 男 53 2023-01-05 2028-06-20"
+    },
+    {
+      "name": "周昱",
+      "role": "董事",
+      "quote": "周昱 董事 男 51 2021-11-13 2028-06-20"
+    },
+    {
+      "name": "李劲彪",
+      "role": "董事",
+      "quote": "李劲彪 董事 男 51 2018-12-27 2028-06-20"
+    },
+    {
+      "name": "张睿",
+      "role": "董事",
+      "quote": "张睿 董事 女 49 2024-04-29 2028-06-20"
+    },
+    {
+      "name": "胡良玉",
+      "role": "党委副书记、纪委书记、工会主席、职工董事",
+      "quote": "胡良玉 党委副书记、纪委书记、工会主席、职工董事 男 46 2025-06-20 2028-06-20"
+    },
+    {
+      "name": "汪丰",
+      "role": "独立董事",
+      "quote": "汪丰 独立董事 男 52 2022-06-23 2028-06-20"
+    },
+    {
+      "name": "唐松莲",
+      "role": "独立董事",
+      "quote": "唐松莲 独立董事 女 44 2022-06-23 2028-06-20"
+    },
+    {
+      "name": "陈少雄",
+      "role": "独立董事",
+      "quote": "陈少雄 独立董事 男 64 2024-06-21 2028-06-20"
+    },
+    {
+      "name": "林华艳",
+      "role": "副总经理",
+      "quote": "林华艳 副总经理 女 48 2022-09-19 2028-06-20"
+    },
+    {
+      "name": "李慧",
+      "role": "副总经理",
+      "quote": "李慧 副总经理 男 45 2024-10-29 2028-06-20"
+    },
+    {
+      "name": "陈轶梦",
+      "role": "副总经理",
+      "quote": "陈轶梦 副总经理 女 41 2024-12-13 2028-06-20"
+    },
+    {
+      "name": "姜源",
+      "role": "副总经理",
+      "quote": "姜源 副总经理 女 40 2024-12-13 2028-06-20"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "百联集团有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "百联集团有限公司通过国有股份无偿划转方式取得第一医药的股份，并构成对第一医药的收购行为，成为第一医药控股股东。"
+    },
+    {
+      "name": "上海市国有资产监督管理委员会",
+      "relation_type": "investor",
+      "business_details": "实际控制人",
+      "quote": "公司的最终控制人为上海市国有资产监督管理委员会。"
+    },
+    {
+      "name": "上海汇丰医药药材有限责任公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营医药批发",
+      "quote": "汇丰医药 指 上海汇丰医药药材有限责任公司，公司全资子公司"
+    },
+    {
+      "name": "上海市第一医药商店连锁经营有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营医药零售",
+      "quote": "第一医药连锁 指 上海市第一医药商店连锁经营有限公司，公司全资子公司"
+    },
+    {
+      "name": "上海第一医药深海医药有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主营医药批发",
+      "quote": "深海医药 指 上海第一医药深海医药有限公司，公司控股子公司"
+    },
+    {
+      "name": "上海第一医药汇丰大药房有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营医药零售",
+      "quote": "汇丰大药房 指 上海第一医药汇丰大药房有限公司，公司全资子公司"
+    },
+    {
+      "name": "上海长城华美仪器化剂有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，主营零售",
+      "quote": "长城华美 指 上海长城华美仪器化剂有限公司，公司全资子公司"
+    },
+    {
+      "name": "上海第一医药崇明医药药材有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "控股子公司，主营医药零售",
+      "quote": "崇明医药 指 上海第一医药崇明医药药材有限公司，公司控股子公司"
+    },
+    {
+      "name": "第一医药（香港）有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，开展大健康产品跨境销售业务",
+      "quote": "一医香港 指 第一医药（香港）有限公司，公司全资子公司"
+    },
+    {
+      "name": "上海泰一楠东中医门诊部有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "参股子公司",
+      "quote": "泰一楠东中医门诊部 指 上海泰一楠东中医门诊部有限公司，原名为上海泰坤堂第一医药门诊部有限公司，公司参股子公司"
+    },
+    {
+      "name": "国药控股股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "存在日常经营性关联交易",
+      "quote": "公司将于2025年度与控股股东百联集团有限公司及其下属企业、国药控股股份有限公司发生日常经营性关联交易进行了预计。"
+    },
+    {
+      "name": "上海创特私募投资基金合伙企业（有限合伙）",
+      "relation_type": "joint_venture",
+      "business_details": "公司参与投资设立的基金",
+      "quote": "创特私募基金 指 上海创特私募投资基金合伙企业（有限合伙），公司参与投资设立的基金"
+    },
+    {
+      "name": "京东",
+      "relation_type": "customer",
+      "business_details": "线上销售平台合作",
+      "quote": "相继与京东、天猫、饿了么、美团、拼多多、抖音、平安好医生等知名平台对接合作"
+    },
+    {
+      "name": "天猫",
+      "relation_type": "customer",
+      "business_details": "线上销售平台合作",
+      "quote": "相继与京东、天猫、饿了么、美团、拼多多、抖音、平安好医生等知名平台对接合作"
+    },
+    {
+      "name": "饿了么",
+      "relation_type": "customer",
+      "business_details": "线上O2O销售平台合作",
+      "quote": "相继与京东、天猫、饿了么、美团、拼多多、抖音、平安好医生等知名平台对接合作"
+    },
+    {
+      "name": "美团",
+      "relation_type": "customer",
+      "business_details": "线上O2O销售平台合作",
+      "quote": "相继与京东、天猫、饿了么、美团、拼多多、抖音、平安好医生等知名平台对接合作"
+    },
+    {
+      "name": "拼多多",
+      "relation_type": "customer",
+      "business_details": "线上销售平台合作",
+      "quote": "相继与京东、天猫、饿了么、美团、拼多多、抖音、平安好医生等知名平台对接合作"
+    },
+    {
+      "name": "抖音",
+      "relation_type": "customer",
+      "business_details": "线上销售平台合作，构建第一医药“跨境购”专属频道",
+      "quote": "在i百联、抖音平台上构建第一医药“跨境购”专属频道"
+    },
+    {
+      "name": "上海华联超市物流有限公司",
+      "relation_type": "supplier",
+      "business_details": "向其租赁物业用于物流中心",
+      "quote": "公司物流中心位于上海市普陀区，占地总面积20,610.16平方米"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "医药零售",
+      "segment_type": "product_line",
+      "revenue_amount": "1,267,543,422.03元",
+      "revenue_proportion": null,
+      "gross_margin": "20.50%",
+      "yoy_change": "8.43%",
+      "quote": "医药零售 1,267,543,422.03 1,007,427,816.73 20.50 8.43 8.97 减少0.41个百分点"
+    },
+    {
+      "name": "医药批发",
+      "segment_type": "product_line",
+      "revenue_amount": "802,946,194.21元",
+      "revenue_proportion": null,
+      "gross_margin": "3.49%",
+      "yoy_change": "15.56%",
+      "quote": "医药批发 802,946,194.21 774,944,367.44 3.49 15.56 16.58 减少0.85个百分点"
+    },
+    {
+      "name": "上海地区",
+      "segment_type": "region",
+      "revenue_amount": "2,070,489,616.24元",
+      "revenue_proportion": null,
+      "gross_margin": "13.92%",
+      "yoy_change": "11.09%",
+      "quote": "上海 2,070,489,616.24 1,782,372,184.47 13.92 11.09 12.15 减少0.81个百分点"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "零售门店",
+      "metric_type": "capacity",
+      "value": "216家",
+      "period": "截至报告期末",
+      "quote": "截至报告期末，公司零售门店数量达到216家，净增门店10家。"
+    },
+    {
+      "product": "配送服务",
+      "metric_type": "other",
+      "value": "为195家内部门店、60余家医疗机构及70余家商业企业提供高效的配送服务",
+      "period": "报告期内",
+      "quote": "物流配送中心为195家内部门店、60余家医疗机构及70余家商业企业提供高效的配送服务。"
+    },
+    {
+      "product": "物流中心自有车辆",
+      "metric_type": "capacity",
+      "value": "13台（包含2台冷链车辆），此外还配备了2台三方运输车辆，自有运力占比达到86.7%",
+      "period": "报告期内",
+      "quote": "物流中心现有自有车辆13台（包含2台冷链车辆），此外还配备了2台三方运输车辆，自有运力占比达到86.7%。"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "现代化智能物流中心建设项目",
+      "project_type": "construction_project",
+      "location": "上海市普陀区",
+      "investment_amount": null,
+      "designed_capacity": null,
+      "progress": "全面进入实施运行阶段",
+      "expected_completion_time": null,
+      "quote": "报告期内，公司完成现代化智能物流中心建设项目，集成AGV独立智能化分拣、料箱搬运机器人、视觉复核AI识别系统等多项功能"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "AGV独立智能化分拣",
+      "asset_type": "process_technology",
+      "related_product": "物流中心",
+      "quantitative_info": null,
+      "quote": "采用勾取式料箱机器人+miniKIVA+3D识别系统提升作业的自动化程度"
+    },
+    {
+      "name": "料箱搬运机器人",
+      "asset_type": "process_technology",
+      "related_product": "物流中心",
+      "quantitative_info": null,
+      "quote": "通过CTU（料箱倒箱机器人）实现自动存取，配合Q1P（潜伏式料箱搬运机器人）将货物运输至复核台"
+    },
+    {
+      "name": "视觉复核AI识别系统",
+      "asset_type": "process_technology",
+      "related_product": "物流中心",
+      "quantitative_info": null,
+      "quote": "搭配3D播种视觉复核系统，实现自动订单格口分配，提升分拣准确率"
+    },
+    {
+      "name": "WMS（仓库管理系统）",
+      "asset_type": "technical_platform",
+      "related_product": "物流中心",
+      "quantitative_info": null,
+      "quote": "升级WMS（仓库管理系统）并与iWMS进行协同配合，通过数据分析和智能算法，有效调整库区分布，提高库存使用率"
+    },
+    {
+      "name": "RCS（机器人调度系统）",
+      "asset_type": "technical_platform",
+      "related_product": "物流中心",
+      "quantitative_info": null,
+      "quote": "通过RCS（机器人调度系统）优化分拣动线，提高分拣效率"
+    },
+    {
+      "name": "医疗保险定点零售药店资格",
+      "asset_type": "certification",
+      "related_product": "零售业务",
+      "quantitative_info": "已取得“医疗保险定点零售药店”资格的药店132家，占公司直营门店总数比例为79.52%",
+      "quote": "截至2025年12月31日，公司直营门店共166家，已取得“医疗保险定点零售药店”资格的药店132家，占公司直营门店总数比例为79.52%。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "15.15%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名客户销售额31,370.98万元，占年度销售总额15.15%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "48.69%",
+      "related_entity": null,
+      "period": "报告期内",
+      "quote": "前五名供应商采购额89,439.11万元，占年度采购总额48.69%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "医药流通行业受到国家政策的规范和影响。'两票制''GPO''仿制药一致性评价''带量采购'等政策落地，行业上游格局开始重构...新一轮医改政策涉及的点多面广，复杂程度高，政策颁布、实施和监管过程都存在一定的不确定性。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1、行业政策变化风险...新一轮医改政策涉及的点多面广，复杂程度高，政策颁布、实施和监管过程都存在一定的不确定性。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "除了要面对客户消费行为和需求的不断变化，还要面对开店间距限制取消带来的本地区行业内部愈发激烈的竞争，双通道资质竞争以及基层医疗机构用药水平提升、互联网企业介入药品经营带来的额外压力。特别在线上医疗、互联网购药快速普及的背景下，行业实体门店客流下滑或向客流线上转移趋势明显，进一步加剧了行业竞争。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2、市场竞争加剧风险...特别在线上医疗、互联网购药快速普及的背景下，行业实体门店客流下滑或向客流线上转移趋势明显，进一步加剧了行业竞争。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "公司在拓展营销网络、创新业务类型、推动业务转型以及构建与现代商业运行模式相适应的管控体系过程中，会对必要的软硬件和人力资源进行投入，并开展具有一定前瞻性的项目建设。短期内，相关投入和费用的增长会高于实现收入的增长，可能对公司业绩造成一定负面影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "3、财务风险...短期内，相关投入和费用的增长会高于实现收入的增长，可能对公司业绩造成一定负面影响。"
+    },
+    {
+      "risk_type": "other",
+      "description": "随着行业竞争加剧、药店定位升级以及开店拓展，企业对药师、执业药师专业人才以及店长等前台关键岗位和总部业务关键岗位人才的需求越来越大...公司快速发展过程中，如果在人才引进和人才培养方面不能适应未来快速发展的需要，或者在人才任用、人才储备和人才管理方面出现失误导致人才流失，将对公司未来的发展扩张和业务经营带来不利影响。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "4、人才短缺的风险...将对公司未来的发展扩张和业务经营带来不利影响。"
+    }
+  ]
+}

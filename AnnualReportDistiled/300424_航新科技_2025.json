@@ -1,0 +1,422 @@
+{
+  "company_name_mentioned": "广州航新航空科技股份有限公司",
+  "produces": [
+    {
+      "name": "机载设备及系统",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研制生产的机载设备及系统主要包含飞行参数及语音记录系统、综合数据采集与信息处理系统、直升机完好性与使用监测系统（HUMS）、装备健康管理系统(PHM)、发动机健康管理系统（EHM）、数据打印机、实时监控管理组件（RTMU）、无线快速存取记录器（WQAR）等。目前应用于国内多种型号的直升机、固定翼飞机及发动机"
+    },
+    {
+      "name": "检测设备",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司研制生产的测试设备主要包括综合测试设备（ATE）、便携式检测设备、通用小型检测仪、STAR系列合成仪器、民用航空自动测试设备、VR/AR应用业务，以及软件产品、特种维修辅件和工装夹具业务等其他自动测试相关产品"
+    },
+    {
+      "name": "飞机加改装服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司可为用户提供涵盖飞行参数记录系统、防撞雷达、气象雷达、多普勒系统、数据链及飞机客舱等加改装工程全套解决方案"
+    },
+    {
+      "name": "大数据业务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司基于航空数据的使用管理和综合保障业务为核心，以在研项目为基点，重点进行飞行数据的二次开发，构建并积累模型库、算法库、软件模块库，逐步形成系统（平台）开发能力"
+    },
+    {
+      "name": "传感器产品",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司研制完成高温类振动传感器、高温类动态压力传感器、小尺寸轻量化的模态类振动传感器、复杂环境抗辐射类振动传感器、位移传感器、转速传感器等系列产品"
+    },
+    {
+      "name": "部附件维修保障服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "具备2,500多项航空电子项目、超过3,000项航空机械项目、近34,000个件号的维修能力；维修能力涵盖各主要机型和各种部附件"
+    },
+    {
+      "name": "整机维修保障服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "目前拥有4条维修服务线和1条飞机涂装服务线，可同时满足5架窄体飞机的基地维修需求，主要维修机型A320系列和B737系列等"
+    },
+    {
+      "name": "航空资产管理服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "航空资产管理可进行飞机或发动机购置租赁和销售、飞机拆解、飞机退租管理及航材管理等"
+    }
+  ],
+  "procures": [
+    {
+      "name": "航空器材及部件",
+      "target_product": "维修服务",
+      "cost_proportion": null,
+      "quote": "采购供应链的顺畅"
+    }
+  ],
+  "applications": [
+    {
+      "name": "直升机、固定翼飞机及发动机",
+      "source_product": "机载设备及系统",
+      "quote": "目前应用于国内多种型号的直升机、固定翼飞机及发动机"
+    },
+    {
+      "name": "飞机维修与改装",
+      "source_product": "检测设备、维修服务",
+      "quote": "用于对飞机机载设备进行功能检查、性能测试、参数调整、故障诊断等，开展航前航后检查、定期检修、故障修复、辅助排故、航材检验等工作"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "王磊",
+      "role": "董事长",
+      "quote": "公司负责人王磊"
+    },
+    {
+      "name": "余厚蜀",
+      "role": "副董事长、总经理",
+      "quote": "余厚蜀男，1977年2月出生...2022年1月起任航新科技副董事长、总经理"
+    },
+    {
+      "name": "李伯韬",
+      "role": "职工代表董事、副总经理",
+      "quote": "2025年12月起任航新科技职工代表董事、副总经理"
+    },
+    {
+      "name": "曹秉安",
+      "role": "财务总监",
+      "quote": "主管会计工作负责人曹秉安"
+    },
+    {
+      "name": "张文虎",
+      "role": "董事会秘书",
+      "quote": "董事会秘书 张文虎"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "航新电子",
+      "relation_type": "subsidiary",
+      "business_details": "广州航新电子有限公司，本公司的全资子公司，从事民用航空机载电子设备的维修",
+      "quote": "航新电子 子公司 50,000,000.00"
+    },
+    {
+      "name": "上海航新",
+      "relation_type": "subsidiary",
+      "business_details": "上海航新航宇机械技术有限公司，本公司的全资子公司，从事民用航空机载机电设备的维修",
+      "quote": "上海航新 子公司 30,000,000.00"
+    },
+    {
+      "name": "香港航新",
+      "relation_type": "subsidiary",
+      "business_details": "航新航空服务有限公司，本公司的全资子公司，从事航空维修业务和航空资产业务",
+      "quote": "香港航新 子公司"
+    },
+    {
+      "name": "MMRO",
+      "relation_type": "subsidiary",
+      "business_details": "Magnetic MRO AS，2018年4月通过香港航新收购的控股公司",
+      "quote": "MMRO 指 Magnetic MRO AS，2018年4月通过香港航新收购的控股公司"
+    },
+    {
+      "name": "山东翔宇",
+      "relation_type": "subsidiary",
+      "business_details": "山东翔宇航空技术服务有限责任公司，航新电子的参股公司",
+      "quote": "山东翔宇 指 山东翔宇航空技术服务有限责任公司，航新电子的参股公司"
+    },
+    {
+      "name": "天弘航空",
+      "relation_type": "subsidiary",
+      "business_details": "天弘航空科技有限公司，原珠海航新的参股公司，2023年5月通过现金收购的控股子公司",
+      "quote": "天弘航空 指 天弘航空科技有限公司，原珠海航新的参股公司，2023年5月通过现金收购的控股子公司"
+    },
+    {
+      "name": "中国电子科技集团有限公司",
+      "relation_type": "customer",
+      "business_details": null,
+      "quote": "中国电子科技集团有限公司 66,216,094.71 3.77%"
+    },
+    {
+      "name": "重庆扬子江三号飞机租赁有限公司",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "重庆扬子江三号飞机租赁有限公司 113,117,400.00 9.80%"
+    },
+    {
+      "name": "MTU Maintenance Lease Services B.V",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "MTU Maintenance Lease Services B.V 55,133,054.10 4.78%"
+    },
+    {
+      "name": "CFM International SA",
+      "relation_type": "supplier",
+      "business_details": null,
+      "quote": "CFM International SA 44,490,842.35 3.85%"
+    },
+    {
+      "name": "波音公司",
+      "relation_type": "customer",
+      "business_details": "波音公司和空客公司在华授权维修服务商",
+      "quote": "是波音公司和空客公司在华授权维修服务商"
+    },
+    {
+      "name": "空客公司",
+      "relation_type": "customer",
+      "business_details": "波音公司和空客公司在华授权维修服务商",
+      "quote": "是波音公司和空客公司在华授权维修服务商"
+    },
+    {
+      "name": "华兴会计师事务所（特殊普通合伙）",
+      "relation_type": "customer",
+      "business_details": "审计机构",
+      "quote": "华兴会计师事务所（特殊普通合伙）对公司 2025 年度财务报表出具了带有持续经营重大不确定性段落的无保留意见的审计报告"
+    },
+    {
+      "name": "国泰海通证券股份有限公司",
+      "relation_type": "customer",
+      "business_details": "保荐机构",
+      "quote": "国泰海通证券股份有限公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "设备研制及保障",
+      "segment_type": "product_line",
+      "revenue_amount": "371,336,983.05",
+      "revenue_proportion": "21.14%",
+      "gross_margin": "32.35%",
+      "yoy_change": "3.76%",
+      "quote": "设备研制及保障 371,336,983.05 21.14%"
+    },
+    {
+      "name": "航空维修及服务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,381,239,883.82",
+      "revenue_proportion": "78.62%",
+      "gross_margin": "27.31%",
+      "yoy_change": "2.90%",
+      "quote": "航空维修及服务 1,381,239,883.82 78.62%"
+    },
+    {
+      "name": "华东地区",
+      "segment_type": "region",
+      "revenue_amount": "272,031,462.16",
+      "revenue_proportion": "15.48%",
+      "gross_margin": "31.57%",
+      "yoy_change": "116.57%",
+      "quote": "华东地区 272,031,462.16 15.48%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "1,013,435,164.38",
+      "revenue_proportion": "57.69%",
+      "gross_margin": "22.62%",
+      "yoy_change": "-1.79%",
+      "quote": "境外 1,013,435,164.38 57.69%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "基地维修",
+      "metric_type": "capacity",
+      "value": "可同时满足5架窄体飞机的基地维修需求",
+      "period": null,
+      "quote": "目前拥有4条维修服务线和1条飞机涂装服务线，可同时满足5架窄体飞机的基地维修需求"
+    },
+    {
+      "product": "部附件维修",
+      "metric_type": "other",
+      "value": "近34,000个件号的维修能力",
+      "period": null,
+      "quote": "具备2,500多项航空电子项目、超过3,000项航空机械项目、近34,000个件号的维修能力"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "发动机健康管理项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "7,672.57",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "发动机健康管理项目 7,672.57 84.29%"
+    },
+    {
+      "name": "研发中心项目",
+      "project_type": "r_and_d_project",
+      "location": null,
+      "investment_amount": "8,818.21",
+      "designed_capacity": null,
+      "progress": "已结项",
+      "expected_completion_time": null,
+      "quote": "研发中心项目 8,818.21 83.46%"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "自动测试设备（ATE）研制技术",
+      "asset_type": "core_technology",
+      "related_product": "检测设备",
+      "quantitative_info": "二十余年历史",
+      "quote": "航新科技从事自动测试系统（ATE）研制已有二十余年历史，是国内规模化从事ATE研制的专业公司"
+    },
+    {
+      "name": "合成仪器技术",
+      "asset_type": "core_technology",
+      "related_product": "检测设备",
+      "quantitative_info": null,
+      "quote": "航新科技采用基于航空应用的合成仪器技术"
+    },
+    {
+      "name": "直升机振动监控与健康诊断系统核心技术",
+      "asset_type": "core_technology",
+      "related_product": "机载设备",
+      "quantitative_info": null,
+      "quote": "航新科技经过多年研制和装机使用，掌握了国内顶尖的直升机振动监控与健康诊断系统的核心技术"
+    },
+    {
+      "name": "CAAC、FAA、EASA适航认证",
+      "asset_type": "certification",
+      "related_product": "航空维修服务",
+      "quantitative_info": null,
+      "quote": "航新科技作为国内同时拥有CAAC（中国）、FAA（美国）、EASA（欧洲）等适航体系认证的航空维修企业"
+    },
+    {
+      "name": "基于ATML标准并兼容ATLAS软件平台技术",
+      "asset_type": "process_technology",
+      "related_product": "检测设备",
+      "quantitative_info": null,
+      "quote": "基于ATML标准并兼容ATLAS软件平台技术"
+    },
+    {
+      "name": "基于IEEE-1232标准的故障诊断技术",
+      "asset_type": "core_technology",
+      "related_product": "检测设备",
+      "quantitative_info": null,
+      "quote": "基于IEEE-1232标准的故障诊断技术"
+    },
+    {
+      "name": "“基础＋专业”的通用化硬件平台技术",
+      "asset_type": "process_technology",
+      "related_product": "检测设备",
+      "quantitative_info": null,
+      "quote": "“基础＋专业”的通用化硬件平台技术"
+    },
+    {
+      "name": "互联互通的模块化设计技术",
+      "asset_type": "process_technology",
+      "related_product": "检测设备",
+      "quantitative_info": null,
+      "quote": "互联互通的模块化设计技术"
+    },
+    {
+      "name": "新一代航空通用智能诊断系统",
+      "asset_type": "core_technology",
+      "related_product": "检测设备",
+      "quantitative_info": null,
+      "quote": "航新科技研发的新一代航空通用智能诊断系统，突破了国外自动测试专利封锁相关技术"
+    },
+    {
+      "name": "Boeing、AirBus、ECA、KANNAD、CSAFE等授权维修中心",
+      "asset_type": "certification",
+      "related_product": "部附件维修",
+      "quantitative_info": null,
+      "quote": "是Boeing、AirBus、ECA、KANNAD、CSAFE等授权维修中心"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "26.63%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 26.63%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "12.00%",
+      "related_entity": "第一名",
+      "period": "2025",
+      "quote": "第一名 210,766,069.83 12.00%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "24.51%",
+      "related_entity": null,
+      "period": "2025",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 24.51%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "9.80%",
+      "related_entity": "重庆扬子江三号飞机租赁有限公司",
+      "period": "2025",
+      "quote": "重庆扬子江三号飞机租赁有限公司 113,117,400.00 9.80%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "other",
+      "description": "航空维修及服务业务受国际形势影响的风险",
+      "related_entity": null,
+      "related_product": "航空维修及服务业务",
+      "quote": "（一）航空维修及服务业务受国际形势影响的风险：公司航空维修及服务业务覆盖多个国家与地区。国际形势复杂多变，境外人工成本和物价的上涨将使得航空产业运营成本增加，可能影响我公司在境外市场上航空维修和服务业务的发展。"
+    },
+    {
+      "risk_type": "other",
+      "description": "应收账款波动风险",
+      "related_entity": "特殊机构客户",
+      "related_product": null,
+      "quote": "（二）应收账款波动风险：随着公司业务规模的不断扩大，以及受航空制造及服务业务的结算特点影响，公司的应收账款可能会进一步增加，公司可能出现应收账款不能按期收回的情况"
+    },
+    {
+      "risk_type": "other",
+      "description": "毛利率下降的风险",
+      "related_entity": null,
+      "related_product": "航空维修及服务业务",
+      "quote": "（三）毛利率下降的风险：受航空维修及服务业务产品结构变化的影响，存在毛利率下降的风险。"
+    },
+    {
+      "risk_type": "goodwill_impairment",
+      "description": "商誉减值风险",
+      "related_entity": "MMRO公司和DMH B.V.公司",
+      "related_product": null,
+      "quote": "（四）商誉减值风险：为进一步开拓航空维修业务国际化市场，丰富和完善公司航空维修业务板块布局，公司收购了 MMRO 公司和 DMH B.V.公司。...若 MMRO 公司和 DMH B.V.公司未来经营情况未达预期，则相关商誉存在减值风险"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "新技术实现风险",
+      "related_entity": null,
+      "related_product": "机载设备研制和检测设备研制",
+      "quote": "（五）新技术实现风险：由于机载设备研制和检测设备研制过程中使用了大量的前沿新技术，新飞行器对于产品技术性能的要求也日新月异，新技术的运用还没有在行业内其他类似产品中得到验证，存在新产品研制过程中技术不可实现的风险"
+    },
+    {
+      "risk_type": "other",
+      "description": "管理风险",
+      "related_entity": "MMRO等境外股权资产",
+      "related_product": null,
+      "quote": "（六）管理风险：公司的资产规模和经营规模进一步扩大...公司收购 MMRO 等境外股权资产后，存在跨国管理、文化、法律、财务及整合方面的风险，增加了公司管理与运营难度。"
+    },
+    {
+      "risk_type": "trade_restriction",
+      "description": "被列入MEU清单的相关风险",
+      "related_entity": "美国供应商",
+      "related_product": null,
+      "quote": "（七）公司被列入 MEU 清单的相关风险：2020 年 12 月 21 日，美国商务部工业安全局（BIS）修改了进出口管制条例（EAR），新增了“军事最终用户清单”（下称“MEU 清单”），航新科技被列入此项清单。...受此项清单限制，航新科技如需通过美国供应商进口特定产品需由供应商/代理商向美国政府申请许可证，若无法获得美国的出口许可，则航新科技的合作和交易将受到阻碍。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "现金流管理不及预期的风险",
+      "related_entity": "特殊机构客户",
+      "related_product": null,
+      "quote": "（八）现金流管理不及预期的风险：近年受公司特殊机构客户应收款项逐年增长且项目回款周期较长等影响，公司连续两年亏损，叠加刚性运营及财务费用支出等因素，公司现金流入与流出匹配度不足。此外，公司未来 12 个月内存在大额债务到期的情况，可能会加剧资金周转困境，增加现金流管理压力。"
+    }
+  ]
+}

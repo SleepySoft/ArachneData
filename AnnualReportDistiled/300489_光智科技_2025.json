@@ -1,0 +1,542 @@
+{
+  "company_name_mentioned": "光智科技股份有限公司",
+  "produces": [
+    {
+      "name": "红外材料产品",
+      "type": "material",
+      "revenue_proportion": "89.01%",
+      "quote": "公司是领先的红外全产业链研发生产企业，主要产品包括锗、硒化锌、硫化锌、硫系玻璃等红外材料产品...报告期内，公司红外光学业务销售收入185,104.96万元，比上年同期增长44.31%。...分产品...红外光学材料 1,851,049,610.40 89.01%"
+    },
+    {
+      "name": "红外镜头",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司是领先的红外全产业链研发生产企业，主要产品包括...红外镜头、红外探测器、红外热像仪等红外器件及红外整机系统产品。"
+    },
+    {
+      "name": "红外探测器",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司是领先的红外全产业链研发生产企业，主要产品包括...红外镜头、红外探测器、红外热像仪等红外器件及红外整机系统产品。"
+    },
+    {
+      "name": "红外热像仪",
+      "type": "device",
+      "revenue_proportion": null,
+      "quote": "公司是领先的红外全产业链研发生产企业，主要产品包括...红外镜头、红外探测器、红外热像仪等红外器件及红外整机系统产品。"
+    },
+    {
+      "name": "红外整机系统产品",
+      "type": "system",
+      "revenue_proportion": null,
+      "quote": "公司是领先的红外全产业链研发生产企业，主要产品包括...红外镜头、红外探测器、红外热像仪等红外器件及红外整机系统产品。"
+    },
+    {
+      "name": "高性能铝合金材料产品",
+      "type": "material",
+      "revenue_proportion": "10.99%",
+      "quote": "公司高性能铝合金产品包括多种铝合金锻件、挤压件以及精密机加工件...分产品...铝合金材料及零部件 228,470,837.22 10.99%"
+    },
+    {
+      "name": "铝合金锻件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司高性能铝合金产品包括多种铝合金锻件、挤压件以及精密机加工件"
+    },
+    {
+      "name": "挤压件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司高性能铝合金产品包括多种铝合金锻件、挤压件以及精密机加工件"
+    },
+    {
+      "name": "精密机加工件",
+      "type": "component",
+      "revenue_proportion": null,
+      "quote": "公司高性能铝合金产品包括多种铝合金锻件、挤压件以及精密机加工件"
+    }
+  ],
+  "procures": [
+    {
+      "name": "含锗物料",
+      "target_product": "红外光学业务",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括二氧化锗、粗锗和锗精矿等含锗物料、区熔锗锭、铝锭等"
+    },
+    {
+      "name": "区熔锗锭",
+      "target_product": "红外光学业务",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括二氧化锗、粗锗和锗精矿等含锗物料、区熔锗锭、铝锭等"
+    },
+    {
+      "name": "铝锭",
+      "target_product": "高性能铝合金业务",
+      "cost_proportion": null,
+      "quote": "公司主要原材料包括二氧化锗、粗锗和锗精矿等含锗物料、区熔锗锭、铝锭等"
+    },
+    {
+      "name": "砷化镓、砷粒、锑、镓等粗硒、碲、表面处理费、贵金属回收提炼",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "关联方广东先导微电子科技有限公司...采购商品/接受劳务...砷化镓、砷粒、锑、镓等...广东先导稀贵金属材料有限公司...采购商品/接受劳务...粗硒、碲、表面处理费、贵金属回收提炼"
+    },
+    {
+      "name": "液氮、液氮罐租赁金",
+      "target_product": null,
+      "cost_proportion": null,
+      "quote": "关联方广东先导先进材料股份有限公司...采购商品/接受劳务...液氮、液氮罐租赁金"
+    }
+  ],
+  "applications": [
+    {
+      "name": "安防监控",
+      "source_product": "红外光学业务",
+      "quote": "主要下游应用领域...安防监控、辅助驾驶、消防警用、工业监测、电力监测、户外观测等领域"
+    },
+    {
+      "name": "辅助驾驶",
+      "source_product": "红外光学业务",
+      "quote": "主要下游应用领域...安防监控、辅助驾驶、消防警用、工业监测、电力监测、户外观测等领域"
+    },
+    {
+      "name": "工业监测",
+      "source_product": "红外光学业务",
+      "quote": "主要下游应用领域...安防监控、辅助驾驶、消防警用、工业监测、电力监测、户外观测等领域"
+    },
+    {
+      "name": "航空航天",
+      "source_product": "高性能铝合金材料产品",
+      "quote": "高性能铝合金产品...广泛应用于航空航天、电子信息、交通运输等下游领域"
+    },
+    {
+      "name": "电子信息",
+      "source_product": "高性能铝合金材料产品",
+      "quote": "高性能铝合金产品...广泛应用于航空航天、电子信息、交通运输等下游领域"
+    },
+    {
+      "name": "交通运输",
+      "source_product": "高性能铝合金材料产品",
+      "quote": "高性能铝合金产品...广泛应用于航空航天、电子信息、交通运输等下游领域"
+    },
+    {
+      "name": "核燃料加工设备制造",
+      "source_product": "高性能铝合金材料产品",
+      "quote": "核燃料加工专用设备用高性能铝合金材料...公司从2008年至今，一直被遴选为该领域内的主要供应商之一"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "朱世彬",
+      "role": "法定代表人、董事、总经理",
+      "quote": "公司负责人朱世彬...朱世彬先生：董事...现任光智科技股份有限公司董事兼总经理"
+    },
+    {
+      "name": "蒋桂冬",
+      "role": "主管会计工作负责人、财务总监",
+      "quote": "主管会计工作负责人蒋桂冬...蒋桂冬女士：财务总监"
+    },
+    {
+      "name": "王玮玮",
+      "role": "会计机构负责人（会计主管人员）",
+      "quote": "会计机构负责人（会计主管人员）王玮玮"
+    },
+    {
+      "name": "侯振富",
+      "role": "董事长",
+      "quote": "侯振富先生：董事长"
+    },
+    {
+      "name": "童培云",
+      "role": "董事",
+      "quote": "童培云先生：董事"
+    },
+    {
+      "name": "朱日宏",
+      "role": "独立董事",
+      "quote": "朱日宏先生：独立董事"
+    },
+    {
+      "name": "孙建军",
+      "role": "独立董事",
+      "quote": "孙建军先生：独立董事"
+    },
+    {
+      "name": "刘广民",
+      "role": "独立董事",
+      "quote": "刘广民先生：独立董事"
+    },
+    {
+      "name": "尹士平",
+      "role": "副总经理",
+      "quote": "尹士平先生：副总经理"
+    },
+    {
+      "name": "孟凡宁",
+      "role": "副总经理、董事会秘书",
+      "quote": "孟凡宁先生：副总经理兼董事会秘书"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "佛山粤邦投资有限公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "控股股东为佛山粤邦投资有限公司"
+    },
+    {
+      "name": "广东先导稀材股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购含锗物料、金属镉，出售区熔锗、四氯化锗等，委托加工费等",
+      "quote": "公司前5名供应商资料...第一名...广东先导稀材股份有限公司...公司前5大客户资料...第一名...关联方广东先导稀材股份有限公司"
+    },
+    {
+      "name": "清远先导材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "清远先导 指 清远先导材料有限公司"
+    },
+    {
+      "name": "宝鸡中飞恒力机械有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "宝鸡中飞 指 宝鸡中飞恒力机械有限公司"
+    },
+    {
+      "name": "安徽中飞科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "红外光学材料与器件的研发、生产、销售",
+      "quote": "安徽中飞 指 安徽中飞科技有限公司...主要子公司及对公司净利润影响达10%以上的参股公司情况...安徽中飞科技有限公司...主要业务 红外光学材料与器件的研发、生产、销售"
+    },
+    {
+      "name": "安徽光智科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "安徽光智 指 安徽光智科技有限公司"
+    },
+    {
+      "name": "香港光智、香港子公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "香港光智、香港子公司 指 光智红外国际有限公司（VITAL ADVANCED MATERIALS INTERNATIONAL CO., LIMITED）"
+    },
+    {
+      "name": "滁州市琅琊国有资产运营有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "琅琊资产公司 指 滁州市琅琊国有资产运营有限公司"
+    },
+    {
+      "name": "广东先导微电子科技有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购砷化镓、砷粒等，出售区熔锗、四氯化锗等，委托加工费，设备租赁",
+      "quote": "关联方广东先导微电子科技有限公司...采购商品/接受劳务...砷化镓、砷粒、锑、镓等...出售商品...区熔锗、四氯化锗、二氧化锗等"
+    },
+    {
+      "name": "广东先导先进材料股份有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购液氮、液氮罐租赁金，委托加工费，出售不锈钢气瓶阀等，厂房租赁，设备租赁",
+      "quote": "关联方广东先导先进材料股份有限公司...采购商品/接受劳务...液氮、液氮罐租赁金...出售商品...不锈钢气瓶阀...租赁...厂房租赁...设备租赁"
+    },
+    {
+      "name": "昆明先导新材料科技有限责任公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购区熔锗锭、含锗物料",
+      "quote": "关联方昆明先导新材料科技有限责任公司...采购商品/接受劳务...区熔锗锭、含锗物料"
+    },
+    {
+      "name": "广东先导稀贵金属材料有限公司",
+      "relation_type": "supplier",
+      "business_details": "关联方采购粗硒、碲、表面处理费、贵金属回收提炼，出售锑化铟边角料等",
+      "quote": "关联方广东先导稀贵金属材料有限公司...采购商品/接受劳务...粗硒、碲、表面处理费、贵金属回收提炼...出售商品...锑化铟边角料"
+    },
+    {
+      "name": "先导科技集团有限公司",
+      "relation_type": "subsidiary",
+      "business_details": null,
+      "quote": "侯振富...2018年11月至今任先导科技集团有限公司联席总裁"
+    },
+    {
+      "name": "安徽晶芯科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光电子器件制造及销售、电子元器件制造、集成电路芯片及产品制造等",
+      "quote": "控股子公司安徽光智在安徽省滁州市琅琊区分别设立全资子公司安徽晶芯科技有限公司、安徽晶微科技有限公司...主要从事光电子器件制造及销售、电子元器件制造、集成电路芯片及产品制造等"
+    },
+    {
+      "name": "安徽晶微科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "光电子器件制造及销售、电子元器件制造、集成电路芯片及产品制造等",
+      "quote": "控股子公司安徽光智在安徽省滁州市琅琊区分别设立全资子公司安徽晶芯科技有限公司、安徽晶微科技有限公司...主要从事光电子器件制造及销售、电子元器件制造、集成电路芯片及产品制造等"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "红外光学材料",
+      "segment_type": "product_line",
+      "revenue_amount": "1,851,049,610.40",
+      "revenue_proportion": "89.01%",
+      "gross_margin": "28.07%",
+      "yoy_change": "44.31%",
+      "quote": "分产品...红外光学材料 1,851,049,610.40 89.01%...营业收入比上年同期增减...44.31%...毛利率...28.07%"
+    },
+    {
+      "name": "铝合金材料及零部件",
+      "segment_type": "product_line",
+      "revenue_amount": "228,470,837.22",
+      "revenue_proportion": "10.99%",
+      "gross_margin": "8.25%",
+      "yoy_change": "32.91%",
+      "quote": "分产品...铝合金材料及零部件 228,470,837.22 10.99%...营业收入比上年同期增减...32.91%...毛利率...8.25%"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "2,009,036,747.78",
+      "revenue_proportion": "96.61%",
+      "gross_margin": "25.33%",
+      "yoy_change": "76.52%",
+      "quote": "分地区...境内 2,009,036,747.78 96.61%...营业收入比上年同期增减...76.52%...毛利率...25.33%"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "70,483,699.84",
+      "revenue_proportion": "3.39%",
+      "gross_margin": "41.81%",
+      "yoy_change": "-77.73%",
+      "quote": "分地区...境外 70,483,699.84 3.39%...营业收入比上年同期增减...-77.73%...毛利率...41.81%"
+    },
+    {
+      "name": "直销",
+      "segment_type": "sales_channel",
+      "revenue_amount": "2,079,520,447.62",
+      "revenue_proportion": "100.00%",
+      "gross_margin": "25.89%",
+      "yoy_change": "42.96%",
+      "quote": "分销售模式...直销 2,079,520,447.62 100.00%...营业收入比上年同期增减...42.96%...毛利率...25.89%"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "红外光学材料",
+      "metric_type": "sales_volume",
+      "value": "110,865.07 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年...红外光学材料 销售量 KG 110,865.07"
+    },
+    {
+      "product": "红外光学材料",
+      "metric_type": "production_volume",
+      "value": "111,134.76 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年...红外光学材料 生产量 KG 111,134.76"
+    },
+    {
+      "product": "红外光学材料",
+      "metric_type": "inventory_volume",
+      "value": "7,013.79 KG",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位...2025年...红外光学材料 库存量 KG 7,013.79"
+    },
+    {
+      "product": "铝合金材料",
+      "metric_type": "sales_volume",
+      "value": "5,964,669.17 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年...铝合金材料 销售量 KG 5,964,669.17"
+    },
+    {
+      "product": "铝合金材料",
+      "metric_type": "production_volume",
+      "value": "5,918,979.13 KG",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年...铝合金材料 生产量 KG 5,918,979.13"
+    },
+    {
+      "product": "铝合金材料",
+      "metric_type": "inventory_volume",
+      "value": "253,348.60 KG",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位...2025年...铝合金材料 库存量 KG 253,348.60"
+    },
+    {
+      "product": "铝合金零件",
+      "metric_type": "sales_volume",
+      "value": "408,759.33 件",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年...铝合金零件 销售量 件 408,759.33"
+    },
+    {
+      "product": "铝合金零件",
+      "metric_type": "production_volume",
+      "value": "462,345.33 件",
+      "period": "2025年",
+      "quote": "行业分类 项目 单位 2025年...铝合金零件 生产量 件 462,345.33"
+    },
+    {
+      "product": "铝合金零件",
+      "metric_type": "inventory_volume",
+      "value": "107,840.00 件",
+      "period": "2025年末",
+      "quote": "行业分类 项目 单位...2025年...铝合金零件 库存量 件 107,840.00"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "红外光学与辐射探测器产业化项目",
+      "project_type": "construction_project",
+      "location": null,
+      "investment_amount": "300,532,108.50 元（累计实际投入）",
+      "designed_capacity": null,
+      "progress": "建设中",
+      "expected_completion_time": null,
+      "quote": "报告期内正在进行的重大的非股权投资情况...项目名称 红外光学与辐射探测器产业化项目...资金来源 自有或自筹资金...报告期末累计实际投入金额 300,532,108.50"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "晶体生长技术",
+      "asset_type": "core_technology",
+      "related_product": "红外光学材料",
+      "quantitative_info": null,
+      "quote": "公司目前在红外光学领域已拥有晶体生长技术、硒化锌生产技术、镀膜技术、光机电学设计优化和分析技术、探测器生产技术、规模化生产精密模压镜片技术等一系列先进技术成果"
+    },
+    {
+      "name": "硒化锌生产技术",
+      "asset_type": "core_technology",
+      "related_product": "红外光学材料",
+      "quantitative_info": null,
+      "quote": "公司目前在红外光学领域已拥有...硒化锌生产技术..."
+    },
+    {
+      "name": "镀膜技术",
+      "asset_type": "core_technology",
+      "related_product": "红外镜头",
+      "quantitative_info": null,
+      "quote": "公司目前在红外光学领域已拥有...镀膜技术..."
+    },
+    {
+      "name": "探测器生产技术",
+      "asset_type": "core_technology",
+      "related_product": "红外探测器",
+      "quantitative_info": null,
+      "quote": "公司目前在红外光学领域已拥有...探测器生产技术..."
+    },
+    {
+      "name": "规模化生产精密模压镜片技术",
+      "asset_type": "core_technology",
+      "related_product": "红外镜头",
+      "quantitative_info": null,
+      "quote": "公司目前在红外光学领域已拥有...规模化生产精密模压镜片技术..."
+    },
+    {
+      "name": "MEMS芯片设计和制造工艺技术及金属、陶瓷和晶圆级封装技术",
+      "asset_type": "core_technology",
+      "related_product": "非制冷红外探测器",
+      "quantitative_info": "已建设8英寸硅基MEMS非制冷红外探测器芯片生产线",
+      "quote": "公司已建设8英寸硅基MEMS非制冷红外探测器芯片生产线，突破了红外热成像核“芯”技术，并掌握了MEMS芯片设计和制造工艺技术及金属、陶瓷和晶圆级封装技术"
+    },
+    {
+      "name": "制冷红外探测器全产业链技术",
+      "asset_type": "core_technology",
+      "related_product": "制冷探测器",
+      "quantitative_info": "已建设2-6英寸各种制冷型红外探测器芯片生产线，材料芯片种类包括碲镉汞（MCT）、锑化铟（Insb）与二类超晶格（T2SL）",
+      "quote": "公司已建设2-6英寸各种制冷型红外探测器芯片生产线，材料芯片种类包括碲镉汞（MCT）、锑化铟（Insb）与二类超晶格（T2SL）...形成了从制冷红外材料、芯片、封装到器件完整的制冷探测器产业链"
+    },
+    {
+      "name": "AEC-Q100认证",
+      "asset_type": "certification",
+      "related_product": "非制冷晶圆级封装探测器",
+      "quantitative_info": "2025年5月获得",
+      "quote": "2025年5月，公司自主研发的非制冷晶圆级封装探测器顺利通过第三方权威机构的严苛检测，获得AEC-Q100权威认证"
+    },
+    {
+      "name": "国家级企业技术中心",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": "报告期内荣获",
+      "quote": "报告期内，公司荣获国家级企业技术中心荣誉称号"
+    },
+    {
+      "name": "安徽省“专精特新”中小企业及国家级专精特新“小巨人”",
+      "asset_type": "certification",
+      "related_product": "安徽光智",
+      "quantitative_info": null,
+      "quote": "安徽光智拥有安徽省企业技术中心，被认定为安徽省“专精特新”中小企业以及国家级专精特新“小巨人”"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "36.44%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名客户合计销售金额占年度销售总额比例 36.44%"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "36.49%",
+      "related_entity": null,
+      "period": "2025年",
+      "quote": "前五名供应商合计采购金额占年度采购总额比例 36.49%"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "28.23%",
+      "related_entity": "广东先导稀材股份有限公司",
+      "period": "2025年",
+      "quote": "前五名供应商采购额中关联方采购额占年度采购总额比例 28.23%...公司前5名供应商资料...序号 供应商名称 采购额（元） 占年度采购总额比例 1 第一名 545,525,467.28 28.23%"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "9.63%",
+      "related_entity": "第一名",
+      "period": "2025年",
+      "quote": "前五名客户销售额中关联方销售额占年度销售总额比例 9.63%...公司前5大客户资料...序号 客户名称 销售额（元） 占年度销售总额比例 1 第一名 200,243,828.44 9.63%"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "出口管制政策（商务部公告2024年第46号）可能会对公司境外业务造成一定影响。",
+      "related_entity": "子公司安徽光智",
+      "related_product": "二氧化锗、四氯化锗、区熔锗锭等",
+      "quote": "2024年12月3日，商务部发布了《关于加强相关两用物项对美国出口管制的公告》（商务部公告2024年第46号）...公司子公司安徽光智主要从事红外光学业务，管制公告显示公司的二氧化锗、四氯化锗、区熔锗锭等产品属于本次被实施出口管制物，出口的管制政策可能会对公司境外业务造成一定影响"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司对境外客户主要采用美元、欧元和日元等外币结算，汇率波动可能影响经营业绩。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司对境外客户主要采用美元、欧元和日元等外币结算...如果未来公司规避汇率风险的手段不足以覆盖外汇风险敞口，公司的经营业绩可能会受到汇率变动的影响"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "主要原材料包括二氧化锗、粗锗和锗精矿等含锗物料、区熔锗锭、铝锭等，其价格波动对公司经营业绩影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "公司主要原材料包括二氧化锗、粗锗和锗精矿等含锗物料、区熔锗锭、铝锭等，直接材料采购成本占主营业务成本比例较高，原材料价格变动对公司经营业绩影响较大"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "现有竞争对手可能通过加大投资力度渗透到公司优势领域，新进入者也可能进入本行业。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "不排除其他具有类似生产经验的企业进入本行业；此外，现有竞争对手也可能通过加大投资力度，不断渗透到公司优势领域"
+    },
+    {
+      "risk_type": "inventory_impairment",
+      "description": "存货跌价准备计提。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "资产减值损失（损失以“-”号填列） -36,087,324.20"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "母公司存在未弥补亏损，且报告期内公司净利润为负值。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "截至报告期末，母公司财务报表中存在累计未弥补亏损180,524,175.06元...公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值"
+    }
+  ]
+}

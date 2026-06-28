@@ -1,0 +1,510 @@
+{
+  "company_name_mentioned": "海天水务集团股份公司",
+  "produces": [
+    {
+      "name": "光伏导电浆料",
+      "type": "material",
+      "revenue_proportion": "占公司主营业务收入的54.61%",
+      "quote": "报告期内，公司实现新能源新材料业务收入173,702.89万元，占公司主营业务收入的54.61%。"
+    },
+    {
+      "name": "自来水生产与供应服务",
+      "type": "service",
+      "revenue_proportion": "占公司主营业务收入的10.80%",
+      "quote": "实现供水业务收入34,353.88万元，占公司主营业务收入的10.80%。"
+    },
+    {
+      "name": "污水处理服务",
+      "type": "service",
+      "revenue_proportion": "占公司主营业务收入的27.03%",
+      "quote": "污水处理服务收入85,961.67万元，占公司主营业务收入的27.03%。"
+    },
+    {
+      "name": "固废处理服务（垃圾焚烧发电等）",
+      "type": "service",
+      "revenue_proportion": "占公司主营业务收入的4.44%",
+      "quote": "实现固废业务收入14,134.36万元，占公司主营业务收入的4.44%。"
+    },
+    {
+      "name": "管道直饮水产品及服务",
+      "type": "service",
+      "revenue_proportion": null,
+      "quote": "公司秉持“海天直饮水，健康好水源”的核心理念，将高品质管道直饮水业务定位为供水价值链的高端延伸。"
+    },
+    {
+      "name": "工程施工业务（EPC与EPC+O服务）",
+      "type": "service",
+      "revenue_proportion": "占公司主营业务收入的3.11%",
+      "quote": "实现工程及其他主营业务收入9,905.18万元，占公司主营业务收入的3.11%。"
+    }
+  ],
+  "procures": [
+    {
+      "name": "银粉",
+      "target_product": "光伏导电浆料",
+      "cost_proportion": null,
+      "quote": "公司生产所需的原材料主要包括银粉、玻璃氧化物、有机树脂和有机溶剂等。其中，银粉是最主要的原材料。"
+    },
+    {
+      "name": "玻璃氧化物、有机树脂和有机溶剂",
+      "target_product": "光伏导电浆料",
+      "cost_proportion": null,
+      "quote": "公司生产所需的原材料主要包括银粉、玻璃氧化物、有机树脂和有机溶剂等。"
+    },
+    {
+      "name": "电力",
+      "target_product": "污水处理、供水、固废处理",
+      "cost_proportion": null,
+      "quote": "污水处理业务成本构成项目：电耗。供水业务成本构成项目：电耗。固废业务成本构成项目：电耗。"
+    },
+    {
+      "name": "直接材料（药剂等）",
+      "target_product": "污水处理、供水",
+      "cost_proportion": null,
+      "quote": "污水处理业务成本构成项目：直接材料。供水业务成本构成项目：直接材料。"
+    },
+    {
+      "name": "白银",
+      "target_product": "对冲原材料价格风险",
+      "cost_proportion": null,
+      "quote": "备货时通过向贺利氏金属（上海）有限公司或HeraeusMetalsHongKongLtd.出售白银并租回进行风险对冲。"
+    }
+  ],
+  "applications": [
+    {
+      "name": "太阳能电池生产",
+      "source_product": "光伏导电浆料",
+      "quote": "公司新能源新材料板块核心业务为光伏电池金属化环节用导电浆料的研发、生产与销售，是光伏导电浆料产业的传统领先厂商与技术引领者。"
+    },
+    {
+      "name": "居民、工商业及公共服务机构用水",
+      "source_product": "自来水",
+      "quote": "在地方政府授予的特许经营区域内，向居民、工商业及公共服务机构提供自来水生产、输配、销售以及配套管道与户表安装全流程服务。"
+    },
+    {
+      "name": "地方政府/市政（污水处理服务）",
+      "source_product": "污水处理服务",
+      "quote": "依据实际处理量或保底结算量与政府方按月/按季结算污水处理服务费。"
+    },
+    {
+      "name": "生活垃圾处理（焚烧发电）",
+      "source_product": "固废处理服务",
+      "quote": "新增川东北地区已投运设计规模最大的达州垃圾焚烧发电项目，一期设计处理规模1200吨/日。"
+    },
+    {
+      "name": "住宅社区、学校、医院、产业园区、商务办公楼、旅游景区",
+      "source_product": "管道直饮水产品及服务",
+      "quote": "报告期内，公司直饮水业务已成功落地成都、资阳、宜宾、乐山等区域，覆盖住宅社区、学校、医院、产业园区、商务办公楼、旅游景区等多元场景。"
+    },
+    {
+      "name": "供排水环保领域",
+      "source_product": "工程施工业务",
+      "quote": "公司工程施工业务以全资子公司龙元建设为核心平台，拥有机电安装一级等核心资质，专注于供排水环保领域的EPC与EPC+O服务。"
+    }
+  ],
+  "key_personnel": [
+    {
+      "name": "费功全",
+      "role": "董事长、实际控制人",
+      "quote": "公司负责人费俊杰、主管会计工作负责人刘华及会计机构负责人（会计主管人员）李杏声明...。费功全 董事。"
+    },
+    {
+      "name": "张霞",
+      "role": "董事长",
+      "quote": "张霞 董事、董事长"
+    },
+    {
+      "name": "费俊杰",
+      "role": "董事、总裁",
+      "quote": "费俊杰 董事、总裁"
+    },
+    {
+      "name": "刘华",
+      "role": "董事会秘书、财务负责人",
+      "quote": "刘华 董事会秘书、财务负责人"
+    },
+    {
+      "name": "高昌禄",
+      "role": "副总裁（新能源板块负责人）",
+      "quote": "高昌禄 副总裁。历任贺利氏光伏事业部中国区总经理、贺利氏光伏全球事业部总裁。"
+    }
+  ],
+  "company_relations": [
+    {
+      "name": "四川海天投资有限责任公司",
+      "relation_type": "investor",
+      "business_details": "控股股东",
+      "quote": "海天投资 指 四川海天投资有限责任公司，系公司的控股股东"
+    },
+    {
+      "name": "海天世浦泰膜科技股份有限公司",
+      "relation_type": "joint_venture",
+      "business_details": "合营公司",
+      "quote": "海天世浦泰 指 海天世浦泰膜科技股份有限公司，系公司的合营公司"
+    },
+    {
+      "name": "上海康恒环境股份有限公司",
+      "relation_type": "investor",
+      "business_details": "参股环保公司",
+      "quote": "康恒环境 指 上海康恒环境股份有限公司，系公司的参股环保公司"
+    },
+    {
+      "name": "四川龙元建设有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资工程业务子公司",
+      "quote": "龙元建设 指 四川龙元建设有限公司，系公司的全资工程业务子公司"
+    },
+    {
+      "name": "四川海壹环保科技有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资检测业务子公司",
+      "quote": "四川海壹 指 四川海壹环保科技有限公司，系公司的全资检测业务子公司"
+    },
+    {
+      "name": "四川海天绿能生态环境有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司（原四川上实生态环境有限责任公司），负责固废处理（垃圾焚烧发电）业务",
+      "quote": "海天绿能 指 四川海天绿能生态环境有限公司，系公司的全资子公司，原名四川上实生态环境有限责任公司"
+    },
+    {
+      "name": "四川海天新材料有限公司",
+      "relation_type": "subsidiary",
+      "business_details": "全资子公司，用于收购光伏银浆事业部",
+      "quote": "海天新材料 指 四川海天新材料有限公司，系公司的全资子公司，原名四川海天光伏材料有限公司"
+    },
+    {
+      "name": "海天智造（上海）新材料有限公司（原贺利氏光伏（上海）有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资新能源新材料业务子公司",
+      "quote": "海天智造、贺利氏光伏 指 贺利氏光伏（上海）有限公司，现已更名为海天智造（上海）新材料有限公司，系公司的全资新能源新材料业务子公司"
+    },
+    {
+      "name": "海天智研（上海）新材料有限公司（原贺利氏光伏科技（上海）有限公司）",
+      "relation_type": "subsidiary",
+      "business_details": "全资新能源新材料业务子公司",
+      "quote": "海天智研、贺利氏光伏科技 指 贺利氏光伏科技（上海）有限公司，系公司的全资新能源新材料业务子公司，现已更名为海天智研（上海）新材料有限公司"
+    },
+    {
+      "name": "HaitianNewMaterialsSingaporePte.Ltd.（原HeraeusPhotovoltaicsSingaporePte.Ltd.）",
+      "relation_type": "subsidiary",
+      "business_details": "全资新能源新材料业务子公司",
+      "quote": "HNMS 指 HeraeusPhotovoltaicsSingaporePte.Ltd.，现已更名为HaitianNewMaterialsSingaporePte.Ltd.系公司的全资新能源新材料业务子公司"
+    },
+    {
+      "name": "Haitian Water Company",
+      "relation_type": "subsidiary",
+      "business_details": "在沙特注册的全资子公司",
+      "quote": "沙特海天 指 HaitianWaterCompany系公司在沙特注册的全资子公司"
+    }
+  ],
+  "business_segments": [
+    {
+      "name": "新能源新材料业务",
+      "segment_type": "product_line",
+      "revenue_amount": "1,737,028,905.37元",
+      "revenue_proportion": null,
+      "gross_margin": "6.95%",
+      "yoy_change": null,
+      "quote": "新能源新材料业务 营业收入 1,737,028,905.37 营业成本 1,616,391,050.50 毛利率（%） 6.95 营业收入比上年增减（%） /"
+    },
+    {
+      "name": "污水处理业务",
+      "segment_type": "product_line",
+      "revenue_amount": "859,616,665.02元",
+      "revenue_proportion": null,
+      "gross_margin": "42.13%",
+      "yoy_change": "减少8.62个百分点",
+      "quote": "污水处理业务 营业收入 859,616,665.02 营业成本 497,448,915.55 毛利率（%） 42.13 营业收入比上年增减（%） -6.88 营业成本比上年增减（%） 9.41 毛利率比上年增减（%） 减少8.62个百分点"
+    },
+    {
+      "name": "供水业务",
+      "segment_type": "product_line",
+      "revenue_amount": "343,538,839.54元",
+      "revenue_proportion": null,
+      "gross_margin": "46.38%",
+      "yoy_change": "减少2.29个百分点",
+      "quote": "供水业务 营业收入 343,538,839.54 营业成本 184,221,264.42 毛利率（%） 46.38 营业收入比上年增减（%） -11.30 营业成本比上年增减（%） -7.33 毛利率比上年增减（%） 减少2.29个百分点"
+    },
+    {
+      "name": "工程业务",
+      "segment_type": "product_line",
+      "revenue_amount": "98,510,945.04元",
+      "revenue_proportion": null,
+      "gross_margin": "10.03%",
+      "yoy_change": "减少19.62个百分点",
+      "quote": "工程业务 营业收入 98,510,945.04 营业成本 88,628,228.33 毛利率（%） 10.03 营业收入比上年增减（%） -19.29 营业成本比上年增减（%） 3.23 毛利率比上年增减（%） 减少19.62个百分点"
+    },
+    {
+      "name": "固废业务",
+      "segment_type": "product_line",
+      "revenue_amount": "141,343,643.02元",
+      "revenue_proportion": null,
+      "gross_margin": "29.57%",
+      "yoy_change": "减少15.92个百分点",
+      "quote": "固废业务 营业收入 141,343,643.02 营业成本 99,541,883.73 毛利率（%） 29.57 营业收入比上年增减（%） 123.94 营业成本比上年增减（%） 189.33 毛利率比上年增减（%） 减少15.92个百分点"
+    },
+    {
+      "name": "境内",
+      "segment_type": "region",
+      "revenue_amount": "2,926,785,259.60元",
+      "revenue_proportion": null,
+      "gross_margin": "23.42%",
+      "yoy_change": "减少25个百分点",
+      "quote": "境内 营业收入 2,926,785,259.60 营业成本 2,241,297,342.87 毛利率（%） 23.42 营业收入比上年增减（%） 95.10 营业成本比上年增减（%） 189.64 毛利率比上年增减（%） 减少25个百分点"
+    },
+    {
+      "name": "境外",
+      "segment_type": "region",
+      "revenue_amount": "253,794,604.70元",
+      "revenue_proportion": null,
+      "gross_margin": "3.37%",
+      "yoy_change": null,
+      "quote": "境外 营业收入 253,794,604.70 营业成本 245,251,291.13 毛利率（%） 3.37 营业收入比上年增减（%） / 营业成本比上年增减（%） / 毛利率比上年增减（%） /"
+    }
+  ],
+  "capacity_and_output": [
+    {
+      "product": "自来水",
+      "metric_type": "capacity",
+      "value": "43.3万吨/日",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司设计日供水能力达43.3万吨。"
+    },
+    {
+      "product": "自来水",
+      "metric_type": "sales_volume",
+      "value": "9,347.59万立方米",
+      "period": "2025年度",
+      "quote": "自来水总售水量达9,347.59万立方米"
+    },
+    {
+      "product": "污水处理",
+      "metric_type": "capacity",
+      "value": "118.66万吨/日",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司污水处理设计日处理能力达118.66万吨"
+    },
+    {
+      "product": "污水处理",
+      "metric_type": "sales_volume",
+      "value": "39,663.69万立方米",
+      "period": "2025年度",
+      "quote": "污水处理结算水量39,663.69万立方米"
+    },
+    {
+      "product": "固废处理（垃圾焚烧）",
+      "metric_type": "capacity",
+      "value": "1950吨/日",
+      "period": "报告期末",
+      "quote": "截至报告期末，公司固废处理项目集中于山西汾阳、四川达州两大基地，垃圾焚烧总处理规模达1950吨/日"
+    },
+    {
+      "product": "固废处理",
+      "metric_type": "capacity_utilization",
+      "value": "107.08%",
+      "period": "2025年度",
+      "quote": "公司固废板块产能利用率达107.08%"
+    },
+    {
+      "product": "光伏导电浆料",
+      "metric_type": "production_volume",
+      "value": "197.69吨",
+      "period": "2025年度",
+      "quote": "光伏导电浆料 生产量 197.69吨"
+    },
+    {
+      "product": "光伏导电浆料",
+      "metric_type": "sales_volume",
+      "value": "195.30吨",
+      "period": "2025年度",
+      "quote": "光伏导电浆料 销售量 195.30吨"
+    },
+    {
+      "product": "光伏导电浆料",
+      "metric_type": "capacity",
+      "value": "2700吨",
+      "period": null,
+      "quote": "在建生产线 设计产能 2,700吨"
+    }
+  ],
+  "projects_and_expansion": [
+    {
+      "name": "夹江县城市生活污水处理厂扩建项目",
+      "project_type": "capacity_expansion",
+      "location": "夹江县",
+      "investment_amount": "1.1亿元",
+      "designed_capacity": "新增污水处理规模2万m³/日",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "报告期内，公司新获得夹江县城市生活污水处理厂扩建项目特许经营权，项目总投资1.1亿元，建成后新增污水处理规模2万m³/日，特许经营期限40年。"
+    },
+    {
+      "name": "光伏导电浆料在建产能项目",
+      "project_type": "capacity_expansion",
+      "location": null,
+      "investment_amount": null,
+      "designed_capacity": "2700吨",
+      "progress": null,
+      "expected_completion_time": null,
+      "quote": "在建生产线 设计产能 2,700吨"
+    },
+    {
+      "name": "蒲江县域污水处理厂及配套管网建设工程",
+      "project_type": "fundraising_project",
+      "location": "四川省蒲江县",
+      "investment_amount": "计划以募集资金投资58，000.00万元（变更后为18，491.00万元）",
+      "designed_capacity": null,
+      "progress": "已完成施工建设，已相继完成竣工验收",
+      "expected_completion_time": null,
+      "quote": "蒲江县域污水处理厂及配套管网建设工程...本公司本次募集资金投资项目为蒲江项目中蒲江县城污水处理厂二期工程和雨污管网工程...经公司第四届董事会第二十五次会议、2025年第三次临时股东大会审议，公司变更蒲江募投项目募集资金投入金额28，009.00万元用于购买四川上实生态环境有限责任公司70%股权。"
+    },
+    {
+      "name": "雅安市大兴污水处理厂二期工程项目",
+      "project_type": "fundraising_project",
+      "location": "雅安市",
+      "investment_amount": "计划以募集资金投资11，500.00万元",
+      "designed_capacity": null,
+      "progress": "于2024年3月4日进入商业运行",
+      "expected_completion_time": null,
+      "quote": "雅安市大兴污水处理厂二期工程项目...经公司第三届董事会第三十三次会议、2022年第一次临时股东大会审议通过，本公司调减蒲江募投项目的募集资金投入金额11，500.00万元用于建设新募投项目“雅安市大兴污水处理厂二期工程项目”"
+    },
+    {
+      "name": "翠屏区象鼻镇污水处理厂及配套管网项目（一期）",
+      "project_type": "fundraising_project",
+      "location": "宜宾市翠屏区",
+      "investment_amount": "计划以募集资金投资7，101.25万元",
+      "designed_capacity": null,
+      "progress": "自2020年10月22日进入商业运营",
+      "expected_completion_time": null,
+      "quote": "翠屏区象鼻镇污水处理厂及配套管网项目（一期）...自2020年10月22日进入商业运营"
+    },
+    {
+      "name": "购买四川上实生态环境有限责任公司70%股权项目",
+      "project_type": "acquisition_project",
+      "location": null,
+      "investment_amount": "28，009.00万元（募集资金）",
+      "designed_capacity": null,
+      "progress": "已完成工商变更",
+      "expected_completion_time": "2025年4月9日",
+      "quote": "购买四川上实生态环境有限责任公司70%股权项目...2025年4月9日，四川上实生态环境有限责任公司（现更名为四川海天绿能生态环境有限公司）完成工商变更，本公司取得四川海天绿能生态环境有限公司70%股权。"
+    }
+  ],
+  "technology_assets": [
+    {
+      "name": "光伏导电浆料领域专利",
+      "asset_type": "patent",
+      "related_product": "光伏导电浆料",
+      "quantitative_info": "拥有导电浆料领域全球专利104件，其中发明专利80件",
+      "quote": "公司团队深耕电子浆料行业四十余载，截至报告期末，拥有导电浆料领域全球专利104件，其中发明专利80件，核心专利覆盖主流技术路线。"
+    },
+    {
+      "name": "国家认定企业技术中心、国家级博士后科研工作站",
+      "asset_type": "certification",
+      "related_product": null,
+      "quantitative_info": null,
+      "quote": "公司是国家技术创新示范企业，建有国家级“国家认定企业技术中心”“国家级博士后科研工作站”等平台。"
+    },
+    {
+      "name": "承担国家重点研发计划、省部级重大科技专项",
+      "asset_type": "standard",
+      "related_product": null,
+      "quantitative_info": "承担32项",
+      "quote": "承担国家重点研发计划、省部级重大科技专项32项，参编国家标准、团体标准35项。"
+    },
+    {
+      "name": "ISO9001、ISO14001、HSE等多项权威认证",
+      "asset_type": "certification",
+      "related_product": "运营管理",
+      "quantitative_info": null,
+      "quote": "通过了ISO9001、ISO14001、HSE等多项权威认证。"
+    },
+    {
+      "name": "AI大数据研发模型",
+      "asset_type": "technical_platform",
+      "related_product": "光伏导电浆料研发",
+      "quantitative_info": null,
+      "quote": "公司升级核心工艺生产设备，打造AI大数据研发模型，大幅提升研发效能。"
+    }
+  ],
+  "concentration_metrics": [
+    {
+      "metric_type": "top_five_customers_revenue",
+      "value": "159,717.94万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名客户销售额159,717.94万元，占年度销售总额49.62%。"
+    },
+    {
+      "metric_type": "top_five_suppliers_purchase",
+      "value": "180,848.04万元",
+      "related_entity": null,
+      "period": "2025年度",
+      "quote": "前五名供应商采购额180,848.04万元，占年度采购总额71.74%。"
+    },
+    {
+      "metric_type": "largest_customer_revenue",
+      "value": "102,339.59万元",
+      "related_entity": "客户一",
+      "period": "2025年度",
+      "quote": "1 客户一 102,339.59 31.80"
+    },
+    {
+      "metric_type": "largest_supplier_purchase",
+      "value": "113,638.04万元",
+      "related_entity": "供应商一",
+      "period": "2025年度",
+      "quote": "1 供应商一 113,638.04 45.08"
+    }
+  ],
+  "risk_exposures": [
+    {
+      "risk_type": "policy_regulation",
+      "description": "公司环保业务所属的公用事业行业，受国家政策影响较大，供水、污水处理价格实行政府定价或政府指导价；新能源新材料行业受国家光伏产业、能源、出口退税等政策影响较大。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "1.政策风险 公司环保业务所属的公用事业行业，受国家政策影响较大，供水、污水处理价格实行政府定价或政府指导价，若未来国家相关行业政策、价格调控政策发生不利变化，或地方政府相关政策执行不及预期，可能对公司经营业绩产生不利影响；新能源新材料行业受国家光伏产业、能源、出口退税等政策影响较大，若未来行业政策发生调整，可能对光伏行业装机规模与公司业务发展产生不利影响。"
+    },
+    {
+      "risk_type": "market_competition",
+      "description": "环保行业竞争持续加剧；光伏导电浆料行业市场参与者持续增加，技术迭代速度快，市场竞争日趋激烈。",
+      "related_entity": null,
+      "related_product": null,
+      "quote": "2.市场竞争风险 随着环保行业从增量市场转向存量市场，行业竞争持续加剧...光伏导电浆料行业市场参与者持续增加，技术迭代速度快，市场竞争日趋激烈。"
+    },
+    {
+      "risk_type": "raw_material_price",
+      "description": "新能源新材料业务的核心原材料银粉，属于贵金属，价格受国际大宗商品市场、宏观经济等因素影响较大；环保业务的运营成本受电费、药剂等原材料价格波动影响。",
+      "related_entity": null,
+      "related_product": "光伏导电浆料",
+      "quote": "3.原材料价格波动风险 公司新能源新材料业务的核心原材料为银粉，属于贵金属，价格受国际大宗商品市场、宏观经济等因素影响较大...公司环保业务的运营成本受电费、药剂等原材料价格波动影响。"
+    },
+    {
+      "risk_type": "debt_liquidity",
+      "description": "光伏导电浆料业务销售回款周期长于采购付款周期，形成对公司经营资金的占用，出现经营活动现金流量净额为负的情形，面临运营资金短缺风险。",
+      "related_entity": null,
+      "related_product": "光伏导电浆料",
+      "quote": "7.经营活动现金流量净额为负的风险 公司光伏导电浆料业务通常按行业惯例授予客户一定信用账期...使得产品销售回款周期长于采购付款周期，叠加业务规模持续扩张，公司出现经营活动现金流量净额为负的情形，同时将面临运营资金短缺，影响公司偿债能力和盈利能力。"
+    },
+    {
+      "risk_type": "technology_iteration",
+      "description": "下游光伏电池技术迭代速度快，对浆料产品的技术要求持续升级，若公司无法及时跟进下游技术变革，将导致技术优势丧失。",
+      "related_entity": null,
+      "related_product": "光伏导电浆料",
+      "quote": "5.技术迭代风险 光伏导电浆料行业属于技术密集型产业，下游光伏电池技术迭代速度快，对浆料产品的技术要求持续升级，若公司无法及时跟进下游技术变革...将导致公司技术优势丧失。"
+    },
+    {
+      "risk_type": "foreign_exchange",
+      "description": "公司在新加坡、沙特阿拉伯等海外国家布局了业务主体，海外经营受当地政治环境、法律法规、贸易政策、汇率波动、地缘冲突等因素影响较大。",
+      "related_entity": "HaitianNewMaterialsSingaporePte.Ltd.，HaitianWaterCompany",
+      "related_product": null,
+      "quote": "6.海外经营风险 公司在新加坡、沙特阿拉伯等海外国家布局了业务主体，海外经营受当地政治环境、法律法规、贸易政策、汇率波动、地缘冲突等因素影响较大。"
+    },
+    {
+      "risk_type": "other",
+      "description": "光伏导电浆料产品销售主要以“银价+加工费”的定价模式，若公司主要原材料白银价格持续上涨，叠加行业竞争持续加剧，公司议价能力下降，将对公司盈利能力产生不利影响。",
+      "related_entity": null,
+      "related_product": "光伏导电浆料",
+      "quote": "8.盈利能力下降的风险 公司光伏导电浆料产品销售主要以“银价+加工费”的定价模式，若公司主要原材料白银价格持续上涨，叠加行业竞争持续加剧，公司议价能力下降，将对公司盈利能力产生不利影响。"
+    }
+  ]
+}
