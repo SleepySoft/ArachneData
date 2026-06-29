@@ -1,5 +1,146 @@
 [
   {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "半导体晶圆制造过程中，为去除晶圆表面颗粒、有机物、金属离子和自然氧化层等污染物而进行的一系列清洗工艺的总称。包含初始晶圆清洗、光刻前晶圆清洗、刻蚀后残留物清洗、CMP后清洗、扩散前清洗、薄膜沉积前清洗等具体步骤。",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"quote\": \"将泛化的清洗工艺拆分为晶圆清洗工艺聚合节点，具体清洗步骤通过 part_of 关联，物料按语义接入对应步骤。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "晶圆清洗",
+      "wafer cleaning"
+    ],
+    "canonical_name_en": "wafer cleaning process",
+    "node_id": "wafer_cleaning_process",
+    "updated_at": "2026-06-29T02:46:08.330029Z",
+    "created_at": "2026-06-29T02:46:08.330029Z",
+    "entity_type": "process",
+    "notes": "由 cleaning_process 拆分而来，作为晶圆制造中清洗步骤的聚合节点。",
+    "canonical_name_zh": "晶圆清洗工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "初始清洗后的晶圆，作为清洗步骤与下游工艺之间的中间晶圆状态。",
+    "node_uuid": "9d620d8e-d41f-4d95-8b68-5298b7857c49",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"source_url\": null, \"quote\": \"将泛化的清洗后晶圆拆分为各清洗步骤对应的中间晶圆状态，删除统一的cleaned_wafer节点。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "initial cleaned wafer",
+    "node_id": "initial_cleaned_wafer",
+    "updated_at": "2026-06-29T07:56:31.363000000+00:00",
+    "created_at": "2026-06-29T07:56:31.363000000+00:00",
+    "entity_type": "material",
+    "notes": "由清洗工艺重构脚本生成",
+    "canonical_name_zh": "初始清洗后的晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "CMP后清洗后的晶圆，作为清洗步骤与下游工艺之间的中间晶圆状态。",
+    "node_uuid": "9e536a63-4cba-45c0-b3db-154c5acde8f2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"source_url\": null, \"quote\": \"将泛化的清洗后晶圆拆分为各清洗步骤对应的中间晶圆状态，删除统一的cleaned_wafer节点。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "CMP cleaned wafer",
+    "node_id": "cmp_cleaned_wafer",
+    "updated_at": "2026-06-29T07:56:31.572000000+00:00",
+    "created_at": "2026-06-29T07:56:31.572000000+00:00",
+    "entity_type": "material",
+    "notes": "由清洗工艺重构脚本生成",
+    "canonical_name_zh": "CMP后清洗后的晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "刻蚀后清洗后的晶圆，作为清洗步骤与下游工艺之间的中间晶圆状态。",
+    "node_uuid": "aa8c1f42-30b5-4704-aea3-b1f4dab73fe2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"source_url\": null, \"quote\": \"将泛化的清洗后晶圆拆分为各清洗步骤对应的中间晶圆状态，删除统一的cleaned_wafer节点。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "etch cleaned wafer",
+    "node_id": "etch_cleaned_wafer",
+    "updated_at": "2026-06-29T07:56:31.580000000+00:00",
+    "created_at": "2026-06-29T07:56:31.580000000+00:00",
+    "entity_type": "material",
+    "notes": "由清洗工艺重构脚本生成",
+    "canonical_name_zh": "刻蚀后清洗后的晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "光刻前清洗后的晶圆，作为清洗步骤与下游工艺之间的中间晶圆状态。",
+    "node_uuid": "7259b08e-a112-4302-84c5-6b3e98c24549",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"source_url\": null, \"quote\": \"将泛化的清洗后晶圆拆分为各清洗步骤对应的中间晶圆状态，删除统一的cleaned_wafer节点。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "lithography ready wafer",
+    "node_id": "lithography_ready_wafer",
+    "updated_at": "2026-06-29T07:56:31.587000000+00:00",
+    "created_at": "2026-06-29T07:56:31.587000000+00:00",
+    "entity_type": "material",
+    "notes": "由清洗工艺重构脚本生成",
+    "canonical_name_zh": "光刻前清洗后的晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "扩散前清洗后的晶圆，作为清洗步骤与下游工艺之间的中间晶圆状态。",
+    "node_uuid": "33bfad06-46c6-4f4e-a9e1-174d443d06ea",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"source_url\": null, \"quote\": \"将泛化的清洗后晶圆拆分为各清洗步骤对应的中间晶圆状态，删除统一的cleaned_wafer节点。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "diffusion ready wafer",
+    "node_id": "diffusion_ready_wafer",
+    "updated_at": "2026-06-29T07:56:31.595000000+00:00",
+    "created_at": "2026-06-29T07:56:31.595000000+00:00",
+    "entity_type": "material",
+    "notes": "由清洗工艺重构脚本生成",
+    "canonical_name_zh": "扩散前清洗后的晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "沉积前清洗后的晶圆，作为清洗步骤与下游工艺之间的中间晶圆状态。",
+    "node_uuid": "420d68bc-3df2-4c1f-b669-c0e7c9a143ec",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"source_url\": null, \"quote\": \"将泛化的清洗后晶圆拆分为各清洗步骤对应的中间晶圆状态，删除统一的cleaned_wafer节点。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "deposition ready wafer",
+    "node_id": "deposition_ready_wafer",
+    "updated_at": "2026-06-29T07:56:31.602000000+00:00",
+    "created_at": "2026-06-29T07:56:31.602000000+00:00",
+    "entity_type": "material",
+    "notes": "由清洗工艺重构脚本生成",
+    "canonical_name_zh": "沉积前清洗后的晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "晶圆经过量测检测后产生的几何尺寸、电学参数、缺陷分布等检测数据。",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\":\"本体设计\",\"quote\":\"量测检测的输出应为数据节点，避免工艺流断链\"}]",
+    "confidence": "HIGH",
+    "entity_type": "data_asset",
+    "canonical_name_zh": "量测数据",
+    "canonical_name_en": "metrology data",
+    "node_id": "metrology_data"
+  },
+  {
     "updated_at": "2026-05-24T07:34:26.993732000",
     "__labels": [
       "IndustrialNode"
@@ -7900,25 +8041,6 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "去除晶圆表面颗粒、有机物、金属离子和自然氧化层等污染物的工艺总称。可细分为初始晶圆清洗、光刻前清洗、刻蚀后残留物清洗、CMP后清洗、扩散前清洗、薄膜沉积前清洗等。",
-    "node_uuid": "c0c3e8dc-5b82-41ee-805d-24d9b6428016",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺\", \"source_url\": null, \"quote\": \"晶圆清洗贯穿前道制造全过程，不同工序对表面洁净度要求不同。\"}]",
-    "confidence": "HIGH",
-    "aliases": [
-      "晶圆清洗"
-    ],
-    "canonical_name_en": "wafer cleaning process",
-    "node_id": "cleaning_process",
-    "updated_at": "2026-06-28T09:06:06.595583000",
-    "created_at": "2026-06-18T07:22:04.318528000",
-    "entity_type": "process",
-    "canonical_name_zh": "清洗工艺"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
     "definition": "通过化学腐蚀与机械研磨协同作用实现晶圆表面全局平坦化的工艺，主要用于多层互连中的介质和金属层平坦化。",
     "node_uuid": "25cf612d-7697-4059-9403-c52587b24d45",
     "status": "ACTIVE",
@@ -8312,25 +8434,6 @@
     "created_at": "2026-06-23T08:50:19.125415000",
     "entity_type": "material",
     "canonical_name_zh": "图形化晶圆"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "经过清洗工艺去除颗粒、有机物和金属离子污染后的硅晶圆，是光刻、离子注入、薄膜沉积等前道工艺的标准输入状态。",
-    "node_uuid": "1983f1f9-8a21-44e6-9d4b-cd38e55863eb",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体晶圆制造工艺\", \"source_url\": null, \"quote\": \"晶圆在进入每一道关键工艺前都需要经过RCA清洗等工艺，确保表面洁净度满足加工要求。\"}]",
-    "confidence": "HIGH",
-    "aliases": [
-      "洁净晶圆"
-    ],
-    "canonical_name_en": "cleaned wafer",
-    "node_id": "cleaned_wafer",
-    "updated_at": "2026-06-28T08:40:48.585402000",
-    "created_at": "2026-06-23T08:51:14.637901000",
-    "entity_type": "material",
-    "canonical_name_zh": "清洗后晶圆"
   },
   {
     "__labels": [
