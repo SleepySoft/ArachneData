@@ -6443,25 +6443,6 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "经过显影工艺去除光刻胶可溶区域、形成光刻图形后的晶圆，是刻蚀或注入前的中间状态。",
-    "node_uuid": "7746b0b0-8f56-4e7b-90cc-0f76dbf969b2",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体光刻工艺\", \"source_url\": null, \"quote\": \"显影后，光刻胶上形成与掩模版对应的图形，暴露出需要加工的薄膜区域。\"}]",
-    "confidence": "HIGH",
-    "aliases": [
-      "显影后光刻胶晶圆"
-    ],
-    "canonical_name_en": "developed wafer",
-    "node_id": "developed_wafer",
-    "updated_at": "2026-06-28T08:40:48.873095000",
-    "created_at": "2026-06-28T08:40:48.873095000",
-    "entity_type": "material",
-    "canonical_name_zh": "显影后晶圆"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
     "definition": "经过去胶工艺去除剩余光刻胶后的晶圆，通常需要后续清洗去除残留物。",
     "node_uuid": "49c7421e-11ad-4708-8275-c94bb149bb88",
     "status": "ACTIVE",
