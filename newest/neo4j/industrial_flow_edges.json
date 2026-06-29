@@ -1829,26 +1829,6 @@
   {
     "__type": "INDUSTRIAL_FLOW",
     "edge_type": "material_input",
-    "edge_id": "euv_photoresist_to_photoresist_coating_process",
-    "description": "EUV光刻胶用于EUV涂胶工艺。",
-    "edge_namespace": "industrial_flow",
-    "__from": "euv_photoresist",
-    "__to": "photoresist_coating_process",
-    "namespace": "industrial_flow"
-  },
-  {
-    "__type": "INDUSTRIAL_FLOW",
-    "edge_type": "material_input",
-    "edge_id": "duv_photoresist_to_photoresist_coating_process",
-    "description": "DUV光刻胶用于DUV涂胶工艺。",
-    "edge_namespace": "industrial_flow",
-    "__from": "duv_photoresist",
-    "__to": "photoresist_coating_process",
-    "namespace": "industrial_flow"
-  },
-  {
-    "__type": "INDUSTRIAL_FLOW",
-    "edge_type": "material_input",
     "edge_id": "photoresist_to_photoresist_coating_process",
     "description": "光刻胶作为涂胶工艺的核心感光材料。",
     "edge_namespace": "industrial_flow",
@@ -2633,32 +2613,6 @@
     "__from": "ai_accelerator",
     "__to": "data_center",
     "confidence": "HIGH"
-  },
-  {
-    "__type": "INDUSTRIAL_FLOW",
-    "edge_type": "process_output",
-    "updated_at": "2026-06-24T01:59:29.014519000",
-    "edge_id": "thin_film_deposition_process_to_tungsten_film",
-    "description": "薄膜沉积工艺 产出 钨薄膜",
-    "evidence": "[]",
-    "edge_namespace": "industrial_flow",
-    "created_at": "2026-06-23T07:18:46.693135000",
-    "__from": "thin_film_deposition_process",
-    "__to": "tungsten_film",
-    "confidence": "LOW"
-  },
-  {
-    "__type": "INDUSTRIAL_FLOW",
-    "edge_type": "process_output",
-    "updated_at": "2026-06-24T02:00:25.336207000",
-    "edge_id": "thin_film_deposition_process_to_molybdenum_film",
-    "description": "薄膜沉积工艺 产出 钼薄膜",
-    "evidence": "[]",
-    "edge_namespace": "industrial_flow",
-    "created_at": "2026-06-23T07:21:21.589716000",
-    "__from": "thin_film_deposition_process",
-    "__to": "molybdenum_film",
-    "confidence": "LOW"
   },
   {
     "__type": "INDUSTRIAL_FLOW",

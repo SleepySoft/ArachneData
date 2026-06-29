@@ -7855,45 +7855,6 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "通过 CVD/ALD 沉积的低电阻、高抗电迁移金属薄膜，用作芯片内部接触塞、通孔填充、局部互连及存储器字线。",
-    "node_uuid": "573a0254-de9d-43fb-b9f5-a38bb4d1c9cf",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"化工新材料系列(一) 电子特气：半导体新周期将至，国产替代如火如荼\", \"source_url\": \"https://pdf.dfcfw.com/pdf/H3_AP202305241587131051_1.pdf\", \"quote\": \"六氟化钨可通过化学气相淀积法(CVD)形成金属钨，用该法制成的钨具有低电阻率、高抗电迁移性以及填充小通孔时具优异平整性等优点。\"}]",
-    "confidence": "HIGH",
-    "aliases": [
-      "钨膜",
-      "金属钨薄膜"
-    ],
-    "canonical_name_en": "Tungsten Film",
-    "node_id": "tungsten_film",
-    "updated_at": "2026-06-18T02:07:30.828121000",
-    "created_at": "2026-06-18T02:07:18.167249000",
-    "entity_type": "material",
-    "canonical_name_zh": "钨薄膜"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "通过 ALD/CVD 沉积的金属薄膜，可在部分先进互连/填充应用中替代钨薄膜，避免氟污染并改善台阶覆盖。",
-    "node_uuid": "fbb8ec83-cb5a-4d1f-994f-af06a77efcc8",
-    "status": "PENDING",
-    "evidence": "[{\"source_title\": \"Lam Research ALTUS Product Family\", \"source_url\": \"https://www.lamresearch.com/zh-hans/product/altus-product-family/\", \"quote\": \"可使用ALD沉积钼(Mo)，以便更好地填充器件特征。\"}]",
-    "confidence": "MEDIUM",
-    "aliases": [
-      "钼膜"
-    ],
-    "canonical_name_en": "Molybdenum Film",
-    "node_id": "molybdenum_film",
-    "updated_at": "2026-06-18T02:07:30.910939000",
-    "created_at": "2026-06-18T02:07:18.230329000",
-    "entity_type": "material",
-    "canonical_name_zh": "钼薄膜"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
     "definition": "半导体 CVD/ALD 钨薄膜核心前驱体，常温下为无色有毒气体，与还原剂反应在晶圆表面沉积高纯金属钨膜，用于接触孔、通孔、互连线及 3D NAND/DRAM 字线填充。",
     "node_uuid": "cc03b8e8-6afc-4fe9-a15d-52f1fa4d2c07",
     "status": "ACTIVE",
