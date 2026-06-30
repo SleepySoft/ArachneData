@@ -3,6 +3,162 @@
     "__labels": [
       "IndustrialNode"
     ],
+    "definition": "将完成前道制造的晶圆沿划片道切割成独立裸片（die）的后道工序，是芯片封装测试流程的入口步骤。",
+    "node_uuid": "7c1a9d29-cfc0-4daa-9e80-0d0f58f31b7e",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体封装测试工艺流程\", \"source_url\": null, \"quote\": \"晶圆切割是将晶圆分割成单个芯片（die）的关键工序，通常采用金刚石刀片或激光切割。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "晶圆划片",
+      "wafer sawing"
+    ],
+    "canonical_name_en": "Wafer Dicing",
+    "node_id": "wafer_dicing",
+    "updated_at": "2026-06-30T06:43:36.930403000",
+    "created_at": "2026-06-30T06:43:36.930403000",
+    "entity_type": "process",
+    "canonical_name_zh": "晶圆切割"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将切割后的裸片（die）通过导电胶或焊料固定到封装基板或引线框架上的封装工序。",
+    "node_uuid": "64768c4d-fee7-455b-97ae-33db5a325efe",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体封装工艺\", \"source_url\": null, \"quote\": \"贴片工序将裸片精确放置并固定到基板上，为后续引线键合提供机械支撑和电气连接基础。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "固晶",
+      "die attach"
+    ],
+    "canonical_name_en": "Die Bonding",
+    "node_id": "die_bonding",
+    "updated_at": "2026-06-30T06:43:36.997710000",
+    "created_at": "2026-06-30T06:43:36.997710000",
+    "entity_type": "process",
+    "canonical_name_zh": "芯片贴片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "使用金属细线（如金线、铜线、铝线）将裸片上的焊盘与封装基板/引线框架上的引脚电气互连的封装工序。",
+    "node_uuid": "d1b9d982-fad6-47f0-8279-b5fd0c86aaa6",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体封装工艺\", \"source_url\": null, \"quote\": \"引线键合通过金属细丝实现芯片焊盘与外部引脚之间的电气连接，是传统封装的核心互连技术。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "打线键合"
+    ],
+    "canonical_name_en": "Wire Bonding",
+    "node_id": "wire_bonding",
+    "updated_at": "2026-06-30T06:43:37.012289000",
+    "created_at": "2026-06-30T06:43:37.012289000",
+    "entity_type": "process",
+    "canonical_name_zh": "引线键合"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "使用环氧树脂等封装材料对已完成引线键合的芯片进行模塑封装，以保护裸片和引线免受环境损害的工序。",
+    "node_uuid": "c9b14def-d103-4803-a02c-f9888498c70a",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体封装材料与工艺\", \"source_url\": null, \"quote\": \"塑封工序通过转移成型将环氧树脂包裹在芯片和引线框架周围，形成最终的封装体。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "封装成型",
+      "molding"
+    ],
+    "canonical_name_en": "Chip Molding",
+    "node_id": "chip_molding",
+    "updated_at": "2026-06-30T06:43:37.049441000",
+    "created_at": "2026-06-30T06:43:37.049441000",
+    "entity_type": "process",
+    "canonical_name_zh": "芯片塑封"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "对封装完成的芯片进行电性、功能和可靠性测试，筛选出合格产品的后道工序。",
+    "node_uuid": "5c2e9ca0-f522-43ca-8f33-61adc8545bad",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体测试技术\", \"source_url\": null, \"quote\": \"成品测试在封装完成后进行，验证芯片的电性参数和功能是否符合规格要求。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "成品测试",
+      "final test"
+    ],
+    "canonical_name_en": "Chip Testing",
+    "node_id": "chip_testing",
+    "updated_at": "2026-06-30T06:43:37.066029000",
+    "created_at": "2026-06-30T06:43:37.066029000",
+    "entity_type": "process",
+    "canonical_name_zh": "芯片测试"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "裸片已固定到封装基板上、但尚未完成引线键合的中间状态封装半成品。",
+    "node_uuid": "8fac7f67-c1f1-4856-b473-6d23d851d9b8",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "固晶后基板"
+    ],
+    "canonical_name_en": "Die Attached Substrate",
+    "node_id": "die_attached_substrate",
+    "updated_at": "2026-06-30T06:43:37.102240000",
+    "created_at": "2026-06-30T06:43:37.102240000",
+    "entity_type": "part",
+    "canonical_name_zh": "贴片后基板"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "裸片与封装基板已完成引线电气互连、但尚未进行塑封保护的中间状态封装半成品。",
+    "node_uuid": "a727df44-2b22-42d9-9e23-bc1659f02f71",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "打线后封装体"
+    ],
+    "canonical_name_en": "Wire Bonded Package",
+    "node_id": "wire_bonded_package",
+    "updated_at": "2026-06-30T06:43:37.140286000",
+    "created_at": "2026-06-30T06:43:37.140286000",
+    "entity_type": "part",
+    "canonical_name_zh": "键合后封装体"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "已完成塑封保护的封装芯片，处于测试前的中间状态。",
+    "node_uuid": "528c50ea-546a-43b4-b64b-edc383483eb9",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "封装体"
+    ],
+    "canonical_name_en": "Molded Chip",
+    "node_id": "molded_chip",
+    "updated_at": "2026-06-30T06:43:37.152324000",
+    "created_at": "2026-06-30T06:43:37.152324000",
+    "entity_type": "part",
+    "canonical_name_zh": "塑封后芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
     "definition": "半导体晶圆制造过程中，为去除晶圆表面颗粒、有机物、金属离子和自然氧化层等污染物而进行的一系列清洗工艺的总称。包含初始晶圆清洗、光刻前晶圆清洗、刻蚀后残留物清洗、CMP后清洗、扩散前清洗、薄膜沉积前清洗等具体步骤。",
     "status": "ACTIVE",
     "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺重构\", \"quote\": \"将泛化的清洗工艺拆分为晶圆清洗工艺聚合节点，具体清洗步骤通过 part_of 关联，物料按语义接入对应步骤。\"}]",
@@ -3405,20 +3561,20 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "根据系统功能需求，通过电路设计、仿真验证、版图设计等流程，将逻辑功能转化为可制造的集成电路版图的技术活动，是半导体产业的核心环节。",
+    "definition": "根据系统功能需求，通过电路设计、仿真验证、版图设计等流程，将逻辑功能转化为可制造的集成电路版图的技术活动。与芯片设计（chip_design）为同义概念，已归并。",
     "node_uuid": "70432b62-4448-420f-a157-e3caba386290",
     "status": "ACTIVE",
     "evidence": "[{\"source_title\": \"航锦科技 主营业务\", \"source_url\": null, \"quote\": \"电子业务主要产品为特种芯片,FPGA芯片,总线接口芯片,微控制器等\"}]",
     "confidence": "HIGH",
     "aliases": [
-      "芯片设计",
       "IC设计"
     ],
     "canonical_name_en": "Integrated Circuit Design",
     "node_id": "ic_design",
-    "updated_at": "2026-05-25T04:33:02.899766000",
+    "updated_at": "2026-06-30T06:14:58.568760000",
     "created_at": "2026-05-25T04:33:02.899766000",
     "entity_type": "technology_capability",
+    "notes": "已通过 ontology/alias_of 归并到 chip_design",
     "canonical_name_zh": "集成电路设计"
   },
   {
@@ -7107,12 +7263,11 @@
     "evidence": "[]",
     "confidence": "LOW",
     "aliases": [
-      "Fabless",
-      "芯片设计"
+      "Fabless"
     ],
     "canonical_name_en": "fabless semiconductor design",
     "node_id": "fabless",
-    "updated_at": "2026-06-17T06:20:50.144958000",
+    "updated_at": "2026-06-30T06:14:58.530708000",
     "created_at": "2026-06-17T06:20:50.144958000",
     "entity_type": "service",
     "canonical_name_zh": "无晶圆厂芯片设计"
@@ -7894,15 +8049,18 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "根据功能需求进行电路设计、逻辑综合、物理实现、验证并输出掩膜版数据的过程。",
+    "definition": "根据系统功能需求，通过电路设计、仿真验证、逻辑综合、版图设计等流程，将逻辑功能转化为可制造集成电路版图数据并输出掩膜版数据的过程；其产出的设计数据是晶圆制造的信息输入。",
     "node_uuid": "0d6dc614-8ebc-4709-92dd-afaee0771103",
     "status": "ACTIVE",
     "evidence": "[{\"source_title\": \"半导体制造工艺通用分类\", \"source_url\": null, \"quote\": \"半导体制造主要包括光刻、刻蚀、薄膜沉积、离子注入、CMP、清洗、量测检测等工艺环节。\"}]",
     "confidence": "MEDIUM",
-    "aliases": [],
+    "aliases": [
+      "集成电路设计",
+      "IC设计"
+    ],
     "canonical_name_en": "Chip Design",
     "node_id": "chip_design",
-    "updated_at": "2026-06-18T07:22:04.191144000",
+    "updated_at": "2026-06-30T06:14:58.413547000",
     "created_at": "2026-06-18T07:22:04.191144000",
     "entity_type": "process",
     "canonical_name_zh": "芯片设计"
@@ -10218,6 +10376,26 @@
     "__labels": [
       "IndustrialNode"
     ],
+    "definition": "已完成封装和最终测试、可交付下游电子系统集成的合格芯片成品。",
+    "node_uuid": "383cb9a6-637c-4f52-9bb1-742b63ec8f46",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "合格芯片",
+      "成品芯片"
+    ],
+    "canonical_name_en": "Tested Chip",
+    "node_id": "tested_chip",
+    "updated_at": "2026-06-30T06:43:37.164889000",
+    "created_at": "2026-06-30T06:43:37.164889000",
+    "entity_type": "part",
+    "canonical_name_zh": "测试后芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
     "definition": "农业生产活动产出的初级产品，包括粮食、油料、棉花、糖料、蔬菜、水果等。",
     "node_uuid": "681ad0f9-721e-42e4-bedd-db77c980c4cc",
     "status": "ACTIVE",
@@ -11081,6 +11259,27 @@
     "created_at": "2026-05-23T08:30:19.743395000",
     "entity_type": "system",
     "canonical_name_zh": "汽车制动系统"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "晶圆经过切割后得到的独立裸片，尚未进行封装和测试。",
+    "node_uuid": "dcfcfcd5-da2c-4e98-b897-de5e2a4bbc95",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体封装工艺\", \"source_url\": null, \"quote\": \"晶圆切割后将晶圆分割成独立的裸片（die），随后进入封装工序。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "裸片",
+      "die",
+      "chip bare die"
+    ],
+    "canonical_name_en": "chip die",
+    "node_id": "chip_die",
+    "updated_at": "2026-06-30T09:22:26.183540000",
+    "created_at": "2026-06-30T09:22:26.183540000",
+    "entity_type": "part",
+    "canonical_name_zh": "芯片裸片"
   },
   {
     "__labels": [
