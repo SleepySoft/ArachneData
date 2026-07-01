@@ -117,16 +117,42 @@
     "updated_at": "2026-06-17T06:35:39.307177+00:00"
   },
   {
-    "industry_id": "test_robot_f66200",
-    "industry_uuid": "02649135-ed24-49f4-9f3a-8e6a75981668",
-    "name_zh": "测试机器人行业",
+    "industry_id": "test_ind_a033a9",
+    "industry_uuid": "4247bcca-eed5-4999-a7f1-30b4f50f3282",
+    "name_zh": "测试批量行业-a033a9",
     "name_en": null,
     "aliases": [],
     "industry_type": "curated_view",
-    "description": "用于测试的行业",
+    "description": null,
     "status": "ACTIVE",
     "notes": null,
-    "created_at": "2026-06-29T14:20:55.685511+00:00",
-    "updated_at": "2026-06-29T14:20:55.685511+00:00"
+    "created_at": "2026-07-01T14:11:44.048323+00:00",
+    "updated_at": "2026-07-01T14:11:44.048323+00:00"
+  },
+  {
+    "industry_id": "test_ind_up_f95224",
+    "industry_uuid": "6ba8bcb2-7a40-4722-8a94-71a374b25074",
+    "name_zh": "更新后的名称",
+    "name_en": null,
+    "aliases": [],
+    "industry_type": "curated_view",
+    "description": null,
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-01T14:11:44.067528+00:00",
+    "updated_at": "2026-07-01T14:11:44.069423+00:00"
+  },
+  {
+    "industry_id": "test_ind_map_e63f0b",
+    "industry_uuid": "741ac398-5ecd-4319-bf6f-b5a194e4a930",
+    "name_zh": "映射去重测试行业",
+    "name_en": null,
+    "aliases": [],
+    "industry_type": "curated_view",
+    "description": null,
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-01T14:11:44.072283+00:00",
+    "updated_at": "2026-07-01T14:11:44.072283+00:00"
   }
 ]

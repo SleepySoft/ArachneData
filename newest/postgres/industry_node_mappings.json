@@ -2616,5 +2616,47 @@
     "notes": null,
     "created_at": "2026-07-01T07:13:38.119763+00:00",
     "updated_at": "2026-07-01T07:13:38.119763+00:00"
+  },
+  {
+    "mapping_id": "semiconductor_industry_wet_electronic_chemicals_mapping",
+    "mapping_uuid": "ed006fc8-09d5-44b8-9df2-a6f088b7ce6a",
+    "industry_id": "semiconductor_industry",
+    "node_id": "wet_electronic_chemicals",
+    "role": "半导体材料",
+    "weight": 1.0,
+    "confidence": "LOW",
+    "evidence": "[{\"quote\": \"湿电子化学品是半导体材料重要组成\", \"source_url\": null, \"source_title\": \"国内半导体产业链公司梳理\"}]",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-01T10:00:52.586318+00:00",
+    "updated_at": "2026-07-01T10:00:52.586318+00:00"
+  },
+  {
+    "mapping_id": "test_map_a033a9",
+    "mapping_uuid": "9d1653c7-4fbc-4b02-9b5d-f87a4e4f6f42",
+    "industry_id": "test_ind_a033a9",
+    "node_id": "silicon_wafer",
+    "role": null,
+    "weight": 0.8999999761581421,
+    "confidence": "MEDIUM",
+    "evidence": "[]",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-01T14:11:44.052125+00:00",
+    "updated_at": "2026-07-01T14:11:44.052125+00:00"
+  },
+  {
+    "mapping_id": "map1_e63f0b",
+    "mapping_uuid": "245c329b-1b21-4616-88ed-564336fadb9d",
+    "industry_id": "test_ind_map_e63f0b",
+    "node_id": "lithium_battery_cell",
+    "role": null,
+    "weight": 0.800000011920929,
+    "confidence": "MEDIUM",
+    "evidence": "[]",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-01T14:11:44.073073+00:00",
+    "updated_at": "2026-07-01T14:11:44.074698+00:00"
   }
 ]
