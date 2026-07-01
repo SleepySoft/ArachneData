@@ -4129,7 +4129,7 @@
     "node_id": "new_energy_vehicle",
     "updated_at": "2026-06-17T06:58:45.277565000",
     "created_at": "2026-05-25T04:45:09.326050000",
-    "entity_type": "software",
+    "entity_type": "system",
     "canonical_name_zh": "新能源汽车"
   },
   {
@@ -6366,6 +6366,47 @@
     "node_id": "defense_equipment"
   },
   {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于将芯片电路图形转移到晶圆上的关键耗材，是光刻流程中承载图形信息的模板。",
+    "node_uuid": "326374f7-8deb-4872-90ca-cc2bc1af6476",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "光掩膜",
+      "掩膜版",
+      "photomask"
+    ],
+    "canonical_name_en": "Photomask",
+    "node_id": "photomask",
+    "updated_at": "2026-07-01T07:12:36.498094000",
+    "created_at": "2026-07-01T07:11:08.087173000",
+    "entity_type": "material",
+    "canonical_name_zh": "光罩/光掩膜"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于芯片电性测试、功能验证和可靠性测试的专用设备。",
+    "node_uuid": "7d10c7c5-32e9-40ac-824f-5432373c6dc0",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "测试机",
+      "ATE"
+    ],
+    "canonical_name_en": "Semiconductor Test Equipment",
+    "node_id": "test_equipment",
+    "updated_at": "2026-07-01T07:12:36.509607000",
+    "created_at": "2026-07-01T07:11:08.537124000",
+    "entity_type": "device",
+    "canonical_name_zh": "半导体测试设备"
+  },
+  {
     "updated_at": "2026-05-25T23:29:38.554175000",
     "__labels": [
       "IndustrialNode"
@@ -6594,6 +6635,282 @@
     "created_at": "2026-06-28T08:40:48.863454000",
     "entity_type": "material",
     "canonical_name_zh": "曝光后晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于晶圆热处理、退火工艺的半导体制造设备。",
+    "node_uuid": "519dd277-8ece-4fcb-9caf-3fe4cea43ded",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "热处理设备"
+    ],
+    "canonical_name_en": "Annealing Equipment",
+    "node_id": "annealing_equipment",
+    "updated_at": "2026-07-01T07:12:36.520259000",
+    "created_at": "2026-07-01T07:11:08.603982000",
+    "entity_type": "device",
+    "canonical_name_zh": "退火设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于半导体掺杂扩散工艺的高温炉管设备。",
+    "node_uuid": "7cfe5e49-fd49-4c21-8714-cbdcca92c23e",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "扩散炉"
+    ],
+    "canonical_name_en": "Diffusion Equipment",
+    "node_id": "diffusion_equipment",
+    "updated_at": "2026-07-01T07:12:36.531101000",
+    "created_at": "2026-07-01T07:11:08.677353000",
+    "entity_type": "device",
+    "canonical_name_zh": "扩散设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于晶圆、物料在产线内部自动传输和存储的设备与系统。",
+    "node_uuid": "fa857f8d-c965-4795-9ab4-3a1ccea927c5",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "半导体物流设备",
+      "AMHS"
+    ],
+    "canonical_name_en": "Semiconductor Material Handling Equipment",
+    "node_id": "material_handling_equipment",
+    "updated_at": "2026-07-01T07:12:36.540105000",
+    "created_at": "2026-07-01T07:11:08.692355000",
+    "entity_type": "device",
+    "canonical_name_zh": "半导体自动化搬运设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于半导体制造、检测、封装等环节的通用设备总称。",
+    "node_uuid": "180fd465-0811-4b20-9777-43696a88dc11",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "半导体制造设备"
+    ],
+    "canonical_name_en": "Semiconductor Equipment",
+    "node_id": "semiconductor_equipment",
+    "updated_at": "2026-07-01T07:12:36.550810000",
+    "created_at": "2026-07-01T07:11:08.712369000",
+    "entity_type": "device",
+    "canonical_name_zh": "半导体设备"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "集芯片设计、晶圆制造、封装测试于一体的半导体企业模式。",
+    "node_uuid": "dda844a2-5473-4ac6-aa7f-8e47826cc53f",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "IDM",
+      "垂直整合制造"
+    ],
+    "canonical_name_en": "Integrated Device Manufacturer",
+    "node_id": "integrated_device_manufacturer",
+    "updated_at": "2026-07-01T07:12:36.560980000",
+    "created_at": "2026-07-01T07:11:08.727236000",
+    "entity_type": "service",
+    "canonical_name_zh": "IDM（垂直整合制造）"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "晶圆测试中连接芯片焊盘与测试机的接口耗材。",
+    "node_uuid": "24072737-04bc-4d46-91f1-b372d753dfe7",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "probe card",
+      "测试探针卡"
+    ],
+    "canonical_name_en": "Probe Card",
+    "node_id": "probe_card",
+    "updated_at": "2026-07-01T07:12:36.569951000",
+    "created_at": "2026-07-01T07:11:08.781178000",
+    "entity_type": "part",
+    "canonical_name_zh": "探针卡"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "传统封装中用于支撑芯片并实现芯片与外部引脚电连接的金属框架。",
+    "node_uuid": "ec5f8a6c-d0a1-4a8b-a61c-87e821f3bfcb",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "引线框架",
+      "lead frame"
+    ],
+    "canonical_name_en": "Leadframe",
+    "node_id": "leadframe",
+    "updated_at": "2026-07-01T07:12:36.583091000",
+    "created_at": "2026-07-01T07:11:08.789669000",
+    "entity_type": "part",
+    "canonical_name_zh": "导线架"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "构成半导体设备的精密零部件与核心模块。",
+    "node_uuid": "828b10c8-0f4c-4181-8e85-ca5d6226f1b1",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "设备零部件"
+    ],
+    "canonical_name_en": "Semiconductor Equipment Components",
+    "node_id": "semiconductor_equipment_components",
+    "updated_at": "2026-07-01T07:12:36.599653000",
+    "created_at": "2026-07-01T07:11:09.012089000",
+    "entity_type": "part",
+    "canonical_name_zh": "半导体设备零部件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "为半导体制造提供高纯气体、化学品输送与处理支持的系统与配套服务。",
+    "node_uuid": "6a4a2c31-97c7-4599-871b-5a88c1851a7a",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "高纯系统"
+    ],
+    "canonical_name_en": "High-Purity Process System",
+    "node_id": "high_purity_process_system",
+    "updated_at": "2026-07-01T07:12:36.607650000",
+    "created_at": "2026-07-01T07:11:09.022104000",
+    "entity_type": "service",
+    "canonical_name_zh": "高纯工艺系统"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "增强现实/虚拟现实终端系统，集成显示、传感器、计算、音频等模块。",
+    "node_uuid": "37629466-f0e8-4201-8515-9351b8800577",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "AR/VR",
+      "XR系统"
+    ],
+    "canonical_name_en": "AR/VR System",
+    "node_id": "ar_vr_system",
+    "updated_at": "2026-07-01T07:12:36.615363000",
+    "created_at": "2026-07-01T07:11:09.034621000",
+    "entity_type": "system",
+    "canonical_name_zh": "AR/VR 系统"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以电驱动为主的新能源汽车系统，是汽车电子和功率半导体的重要下游应用。",
+    "node_uuid": "c8efe525-1e11-48ca-9727-a9becb54011b",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "电动车",
+      "新能源汽车",
+      "EV"
+    ],
+    "canonical_name_en": "Electric Vehicle",
+    "node_id": "electric_vehicle",
+    "updated_at": "2026-07-01T07:12:36.622665000",
+    "created_at": "2026-07-01T07:11:09.044195000",
+    "entity_type": "system",
+    "canonical_name_zh": "电动汽车"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "第五代移动通信网络的基站基础设施，集成射频、基带、天线等模块。",
+    "node_uuid": "819210bb-1c15-47ed-b453-3fa12fd401cb",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "5G基站",
+      "base station"
+    ],
+    "canonical_name_en": "5G Base Station",
+    "node_id": "base_station_5g",
+    "updated_at": "2026-07-01T07:12:36.629364000",
+    "created_at": "2026-07-01T07:11:09.054700000",
+    "entity_type": "infrastructure",
+    "canonical_name_zh": "5G 基站"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于光电信号转换的通信器件，是光通信系统的核心组件。",
+    "node_uuid": "06923723-f84c-4640-b72b-ce6187b29395",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "光模块",
+      "optical transceiver"
+    ],
+    "canonical_name_en": "Optical Module",
+    "node_id": "optical_module",
+    "updated_at": "2026-07-01T07:12:36.637880000",
+    "created_at": "2026-07-01T07:11:09.091731000",
+    "entity_type": "part",
+    "canonical_name_zh": "光模块"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将光伏组件产生的直流电转换为交流电的电力电子设备。",
+    "node_uuid": "d35f2431-cd80-417b-bc24-ddc8c1067d2d",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [
+      "逆变器",
+      "solar inverter"
+    ],
+    "canonical_name_en": "Photovoltaic Inverter",
+    "node_id": "photovoltaic_inverter",
+    "updated_at": "2026-07-01T07:12:36.649938000",
+    "created_at": "2026-07-01T07:11:09.100139000",
+    "entity_type": "device",
+    "canonical_name_zh": "光伏逆变器"
   },
   {
     "__labels": [
@@ -7141,16 +7458,16 @@
     ],
     "definition": "用于存储数字信息的芯片，按断电后是否保持数据分为易失性存储与非易失性存储。",
     "node_uuid": "68f891c2-642c-45c8-8f8a-dab103f4ed01",
-    "status": "PENDING",
-    "evidence": "[]",
-    "confidence": "LOW",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体产业本体梳理\", \"source_url\": null, \"quote\": \"存储芯片（DRAM/NAND 等）由晶圆制造产出存储晶圆，再经封装测试得到，作为内存条、SSD、U 盘等终端存储产品的核心组成。\"}]",
+    "confidence": "MEDIUM",
     "aliases": [
       "存储器芯片",
       "memory semiconductor"
     ],
     "canonical_name_en": "memory chip",
     "node_id": "memory_chip",
-    "updated_at": "2026-06-17T06:20:50.078315000",
+    "updated_at": "2026-06-30T14:47:31.742822000",
     "created_at": "2026-06-17T06:20:50.078315000",
     "entity_type": "part",
     "canonical_name_zh": "存储芯片"
@@ -7268,6 +7585,7 @@
     "canonical_name_en": "fabless semiconductor design",
     "node_id": "fabless",
     "updated_at": "2026-06-30T06:14:58.530708000",
+    "description": "无晶圆厂半导体商业模式，专注于芯片设计，制造外包给晶圆代工厂",
     "created_at": "2026-06-17T06:20:50.144958000",
     "entity_type": "service",
     "canonical_name_zh": "无晶圆厂芯片设计"
@@ -7308,6 +7626,7 @@
     "canonical_name_en": "integrated device manufacturer",
     "node_id": "idm",
     "updated_at": "2026-06-17T06:20:50.163966000",
+    "description": "集成器件制造商商业模式，同时从事芯片设计和晶圆制造",
     "created_at": "2026-06-17T06:20:50.163966000",
     "entity_type": "service",
     "canonical_name_zh": "集成器件制造"
@@ -7349,6 +7668,7 @@
     "canonical_name_en": "electronic design automation software",
     "node_id": "eda_software",
     "updated_at": "2026-06-17T06:20:50.186354000",
+    "description": "电子设计自动化软件，用于辅助芯片设计与验证",
     "created_at": "2026-06-17T06:20:50.186354000",
     "entity_type": "technology_capability",
     "canonical_name_zh": "EDA软件"
@@ -7357,21 +7677,22 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "可重复用于芯片设计的预先验证的功能模块，如CPU核、接口核、存储控制器等。",
+    "definition": "芯片设计中可复用的功能模块或架构授权，如 CPU、GPU、接口控制器等。",
     "node_uuid": "3ebd216d-4acf-49cc-b36a-91c940e6c316",
     "status": "PENDING",
     "evidence": "[]",
     "confidence": "LOW",
     "aliases": [
-      "IP core",
-      "知识产权核"
+      "IP",
+      "半导体IP",
+      " intellectual property core"
     ],
-    "canonical_name_en": "semiconductor intellectual property core",
+    "canonical_name_en": "Semiconductor IP Core",
     "node_id": "ip_core",
-    "updated_at": "2026-06-17T06:20:50.220447000",
+    "updated_at": "2026-07-01T07:12:36.591399000",
     "created_at": "2026-06-17T06:20:50.220447000",
-    "entity_type": "part",
-    "canonical_name_zh": "IP核"
+    "entity_type": "technology_capability",
+    "canonical_name_zh": "IP 核"
   },
   {
     "__labels": [
@@ -7389,7 +7710,7 @@
     "node_id": "consumer_electronics",
     "updated_at": "2026-06-17T06:20:50.230464000",
     "created_at": "2026-06-17T06:20:50.230464000",
-    "entity_type": "software",
+    "entity_type": "system",
     "canonical_name_zh": "消费电子"
   },
   {
@@ -7408,7 +7729,7 @@
     "node_id": "industrial_electronics",
     "updated_at": "2026-06-17T06:20:50.418901000",
     "created_at": "2026-06-17T06:20:50.418901000",
-    "entity_type": "software",
+    "entity_type": "system",
     "canonical_name_zh": "工业电子"
   },
   {
@@ -7850,7 +8171,7 @@
     "node_id": "smartphone",
     "updated_at": "2026-06-17T06:58:45.206534000",
     "created_at": "2026-06-17T06:58:45.206534000",
-    "entity_type": "software",
+    "entity_type": "system",
     "canonical_name_zh": "智能手机"
   },
   {
@@ -7870,7 +8191,7 @@
     "node_id": "personal_computer",
     "updated_at": "2026-06-17T06:58:45.232554000",
     "created_at": "2026-06-17T06:58:45.232554000",
-    "entity_type": "software",
+    "entity_type": "system",
     "canonical_name_zh": "个人电脑"
   },
   {
@@ -7889,7 +8210,7 @@
     "node_id": "server",
     "updated_at": "2026-06-17T06:58:45.258908000",
     "created_at": "2026-06-17T06:58:45.258908000",
-    "entity_type": "software",
+    "entity_type": "system",
     "canonical_name_zh": "服务器"
   },
   {
@@ -8061,6 +8382,7 @@
     "canonical_name_en": "Chip Design",
     "node_id": "chip_design",
     "updated_at": "2026-06-30T06:14:58.413547000",
+    "description": "集成电路/芯片的前端设计过程，包括架构设计、逻辑设计、电路设计、物理设计等",
     "created_at": "2026-06-18T07:22:04.191144000",
     "entity_type": "process",
     "canonical_name_zh": "芯片设计"
@@ -11337,7 +11659,7 @@
     "node_id": "automotive_electronics",
     "updated_at": "2026-06-17T06:20:50.263084000",
     "created_at": "2026-05-23T08:30:19.758663000",
-    "entity_type": "software",
+    "entity_type": "system",
     "canonical_name_zh": "汽车电子"
   },
   {
@@ -15759,5 +16081,169 @@
     "aliases": [],
     "canonical_name_zh": "氧化钒",
     "node_id": "vanadium_oxide"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以闪存芯片为存储介质的非易失性数据存储设备，替代传统机械硬盘。",
+    "node_uuid": "df9b440d-a6a6-40c8-a12a-5648b7f7ec9c",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"固态硬盘由 NAND 闪存芯片、主控、缓存等组成，广泛应用于服务器、PC、数据中心。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "solid_state_drive",
+      "SSD"
+    ],
+    "canonical_name_en": "Solid State Drive",
+    "node_id": "ssd",
+    "updated_at": "2026-06-30T23:45:33.791903000",
+    "created_at": "2026-06-30T23:42:43.329342000",
+    "entity_type": "device",
+    "canonical_name_zh": "固态硬盘"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "采用 NVMe 协议通过 PCIe 接口连接的高性能固态硬盘。",
+    "node_uuid": "02e7c08f-9d29-4241-8b63-f032917be18d",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"NVMe SSD 使用 PCIe 总线，相比 SATA SSD 拥有更高吞吐和更低延迟。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "NVMe SSD",
+    "node_id": "nvme_ssd",
+    "updated_at": "2026-06-30T23:45:33.825152000",
+    "created_at": "2026-06-30T23:42:45.432158000",
+    "entity_type": "device",
+    "canonical_name_zh": "NVMe 固态硬盘"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "面向数据中心和企业级应用的高可靠性、高耐久固态硬盘。",
+    "node_uuid": "6bfe900a-8bf7-401b-a0de-b9b56213d977",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"企业级 SSD 强调高写入寿命、掉电保护、一致性和全天候运行能力。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "Enterprise SSD",
+    "node_id": "enterprise_ssd",
+    "updated_at": "2026-06-30T23:45:33.851154000",
+    "created_at": "2026-06-30T23:42:47.525910000",
+    "entity_type": "device",
+    "canonical_name_zh": "企业级固态硬盘"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "面向个人电脑、笔记本和家用游戏主机的高性价比固态硬盘。",
+    "node_uuid": "5a0b6699-96e5-442a-9ee8-5e6c46a262d2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"消费级 SSD 主要应用于 PC、笔记本、游戏主机等场景。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "Consumer SSD",
+    "node_id": "consumer_ssd",
+    "updated_at": "2026-06-30T23:45:33.876152000",
+    "created_at": "2026-06-30T23:42:49.603151000",
+    "entity_type": "device",
+    "canonical_name_zh": "消费级固态硬盘"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过硅通孔（TSV）堆叠多个 DRAM die 并与 GPU/AI 芯片封装在一起的高带宽、低功耗存储器。",
+    "node_uuid": "216f58e5-ca04-43ce-aa85-64c065bff131",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"HBM 利用 TSV 和微凸点堆叠 DRAM die，提供高带宽、低功耗，广泛应用于 GPU 和 AI 加速器。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "HBM"
+    ],
+    "canonical_name_en": "High Bandwidth Memory",
+    "node_id": "hbm",
+    "updated_at": "2026-06-30T23:45:33.882152000",
+    "created_at": "2026-06-30T23:42:51.669859000",
+    "entity_type": "part",
+    "canonical_name_zh": "高带宽存储器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "第五代双倍数据速率同步动态随机存取存储器模块，用于服务器和个人电脑。",
+    "node_uuid": "c0cc2857-0af7-42e8-8e49-0732339d90a6",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"DDR5 提供更高频率、更大容量和更低功耗，是新一代服务器和 PC 的主流内存标准。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "DDR5"
+    ],
+    "canonical_name_en": "DDR5 Memory Module",
+    "node_id": "ddr5",
+    "updated_at": "2026-06-30T23:45:33.910157000",
+    "created_at": "2026-06-30T23:42:53.758263000",
+    "entity_type": "device",
+    "canonical_name_zh": "DDR5 内存条"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "符合 DDR5 接口规范的 DRAM 存储芯片，是 DDR5 内存条的核心组成。",
+    "node_uuid": "0b880791-05e5-4e6a-85e3-e61f0625fbba",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"DDR5 DRAM 芯片通过更高 Bank 数量和片上 ECC 提升性能与可靠性。\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "canonical_name_en": "DDR5 DRAM Chip",
+    "node_id": "ddr5_dram_chip",
+    "updated_at": "2026-06-30T23:45:33.914392000",
+    "created_at": "2026-06-30T23:42:55.821673000",
+    "entity_type": "part",
+    "canonical_name_zh": "DDR5 DRAM 芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "面向移动设备和低功耗场景的低功耗双倍数据速率第五代存储芯片。",
+    "node_uuid": "83160bd4-1a41-4c14-9f67-b8babe398815",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"LPDDR5 相比 LPDDR4x 进一步降低功耗并提升带宽，广泛用于智能手机、笔记本。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "LPDDR5"
+    ],
+    "canonical_name_en": "LPDDR5 Memory Chip",
+    "node_id": "lpddr5",
+    "updated_at": "2026-06-30T23:45:33.938389000",
+    "created_at": "2026-06-30T23:42:57.869518000",
+    "entity_type": "part",
+    "canonical_name_zh": "LPDDR5 低功耗内存芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过垂直堆叠存储单元实现更高存储密度的 NAND 闪存芯片。",
+    "node_uuid": "7c9f88e8-ff1a-4c9a-bb6a-78f1bb3f3fe4",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"半导体存储热点梳理\", \"source_url\": null, \"quote\": \"3D NAND 通过堆叠多层存储单元提升容量和成本效率，是 SSD 的主流闪存技术。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "3d_nand_flash"
+    ],
+    "canonical_name_en": "3D NAND Flash Chip",
+    "node_id": "three_d_nand_flash",
+    "updated_at": "2026-06-30T23:45:33.961391000",
+    "created_at": "2026-06-30T23:45:33.961391000",
+    "entity_type": "part",
+    "canonical_name_zh": "3D NAND 闪存芯片"
   }
 ]
