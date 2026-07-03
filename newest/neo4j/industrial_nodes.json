@@ -3,6 +3,269 @@
     "__labels": [
       "IndustrialNode"
     ],
+    "definition": "一种低熔点金属元素，是制备氮化镓（GaN）等第三代半导体材料的关键原材料。",
+    "node_uuid": "449068c4-3b48-4fa6-8875-0bbd8f2bf9b5",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"第三代半导体材料发展报告\", \"source_url\": null, \"quote\": \"氮化镓半导体材料以镓为主要金属原料。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "金属镓"
+    ],
+    "canonical_name_en": "gallium",
+    "node_id": "gallium",
+    "updated_at": "2026-07-03T06:58:27.231512000",
+    "created_at": "2026-07-03T06:58:27.231512000",
+    "entity_type": "material",
+    "canonical_name_zh": "镓"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "第三代宽禁带半导体材料，具有高击穿电场、高电子迁移率，适合高频、高功率器件。",
+    "node_uuid": "00f56c28-539a-45e0-9f8f-ef1347b4f521",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"宽禁带半导体技术与应用\", \"source_url\": null, \"quote\": \"氮化镓（GaN）是典型宽禁带半导体材料，广泛用于功率器件和射频器件。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "GaN"
+    ],
+    "canonical_name_en": "gallium nitride",
+    "node_id": "gallium_nitride",
+    "updated_at": "2026-07-03T06:58:28.040814000",
+    "created_at": "2026-07-03T06:58:28.040814000",
+    "entity_type": "material",
+    "canonical_name_zh": "氮化镓"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "第三代宽禁带半导体材料，具有高热导率、高击穿电压，适合高功率、高温应用。",
+    "node_uuid": "95865c07-5b03-4e0e-aae2-56fa40661a46",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"碳化硅功率器件技术\", \"source_url\": null, \"quote\": \"碳化硅（SiC）因其优异的物理特性成为高压功率器件的重要衬底材料。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "SiC"
+    ],
+    "canonical_name_en": "silicon carbide",
+    "node_id": "silicon_carbide",
+    "updated_at": "2026-07-03T06:58:28.127955000",
+    "created_at": "2026-07-03T06:58:28.127955000",
+    "entity_type": "material",
+    "canonical_name_zh": "碳化硅"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "禁带宽度大于硅的半导体材料，如氮化镓、碳化硅，适用于高频、高温、高功率场景。",
+    "node_uuid": "56d3b96d-9f9d-4715-8091-4b9e600c72f0",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"第三代半导体产业白皮书\", \"source_url\": null, \"quote\": \"宽禁带半导体以氮化镓、碳化硅为代表，性能优于传统硅材料。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "WBG",
+      "第三代半导体"
+    ],
+    "canonical_name_en": "wide bandgap semiconductor",
+    "node_id": "wide_bandgap_semiconductor",
+    "updated_at": "2026-07-03T06:58:28.158381000",
+    "created_at": "2026-07-03T06:58:28.158381000",
+    "entity_type": "material",
+    "canonical_name_zh": "宽禁带半导体"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于电能变换和控制的半导体器件，能够处理较大电流和电压。",
+    "node_uuid": "3c9cebaf-7596-420b-b59f-baed6dc3384e",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"功率半导体概论\", \"source_url\": null, \"quote\": \"功率器件是电力电子系统的核心，包括 MOSFET、IGBT、SiC/GaN 器件等。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "功率半导体器件"
+    ],
+    "canonical_name_en": "power device",
+    "node_id": "power_device",
+    "updated_at": "2026-07-03T06:58:28.475277000",
+    "created_at": "2026-07-03T06:58:28.475277000",
+    "entity_type": "part",
+    "canonical_name_zh": "功率器件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以氮化镓为材料的功率器件，适用于高频、高效率开关电源和快充等场景。",
+    "node_uuid": "e09aad5f-7ee3-4285-9faa-2f8f36d13799",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"氮化镓功率器件应用\", \"source_url\": null, \"quote\": \"GaN功率器件因其高频高效特性，在消费电子快充和数据中心电源中快速渗透。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "GaN功率器件"
+    ],
+    "canonical_name_en": "GaN power device",
+    "node_id": "gan_power_device",
+    "updated_at": "2026-07-03T06:58:28.559328000",
+    "created_at": "2026-07-03T06:58:28.559328000",
+    "entity_type": "part",
+    "canonical_name_zh": "氮化镓功率器件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以碳化硅为材料的功率器件，适用于新能源汽车、光伏逆变器等高压大电流场景。",
+    "node_uuid": "20699bef-1cfc-4313-b263-a41b5c935e3b",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"碳化硅功率器件应用\", \"source_url\": null, \"quote\": \"SiC功率器件在新能源汽车主逆变器和充电桩中应用广泛。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "SiC功率器件"
+    ],
+    "canonical_name_en": "SiC power device",
+    "node_id": "sic_power_device",
+    "updated_at": "2026-07-03T06:58:28.587511000",
+    "created_at": "2026-07-03T06:58:28.587511000",
+    "entity_type": "part",
+    "canonical_name_zh": "碳化硅功率器件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以硅为材料的功率器件，包括硅基 MOSFET、IGBT 等，技术成熟、成本较低。",
+    "node_uuid": "e47d125e-621e-4795-914f-f5372f26dba3",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"功率半导体市场分析\", \"source_url\": null, \"quote\": \"硅基功率器件目前仍占据功率半导体市场最大份额。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "硅功率器件"
+    ],
+    "canonical_name_en": "silicon power device",
+    "node_id": "silicon_power_device",
+    "updated_at": "2026-07-03T06:58:28.620213000",
+    "created_at": "2026-07-03T06:58:28.620213000",
+    "entity_type": "part",
+    "canonical_name_zh": "硅基功率器件"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "单极型电压控制功率器件，具有开关速度快、驱动功率小等特点。",
+    "node_uuid": "6062aee9-22f8-411c-96f3-351efde8baef",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"功率半导体器件\", \"source_url\": null, \"quote\": \"功率MOSFET广泛应用于电源管理、电机驱动等领域。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "功率场效应管"
+    ],
+    "canonical_name_en": "power MOSFET",
+    "node_id": "power_mosfet",
+    "updated_at": "2026-07-03T06:58:28.643698000",
+    "created_at": "2026-07-03T06:58:28.643698000",
+    "entity_type": "part",
+    "canonical_name_zh": "功率MOSFET"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "双极型功率器件，结合 MOSFET 输入特性和双极型晶体管输出特性，适合中大功率应用。",
+    "node_uuid": "fc30364f-021b-4f09-917b-460ecd071af2",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"IGBT技术与应用\", \"source_url\": null, \"quote\": \"IGBT是轨道交通、新能源和工业变频器中的核心功率器件。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "绝缘栅双极晶体管"
+    ],
+    "canonical_name_en": "IGBT",
+    "node_id": "igbt",
+    "updated_at": "2026-07-03T06:58:28.663496000",
+    "created_at": "2026-07-03T06:58:28.663496000",
+    "entity_type": "part",
+    "canonical_name_zh": "绝缘栅双极型晶体管"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以氮化镓为功能层的晶圆，是制造氮化镓功率器件的衬底/外延片。",
+    "node_uuid": "58999d74-af86-46e6-867c-3284e8ca352c",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"氮化镓功率器件制造\", \"source_url\": null, \"quote\": \"氮化镓晶圆是GaN HEMT等器件的制造基础。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "GaN外延片"
+    ],
+    "canonical_name_en": "GaN wafer",
+    "node_id": "gan_wafer",
+    "updated_at": "2026-07-03T07:24:53.139155000",
+    "created_at": "2026-07-03T07:24:53.139155000",
+    "entity_type": "material",
+    "canonical_name_zh": "氮化镓晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过外延生长等工艺在衬底上形成氮化镓功能层，制备氮化镓晶圆。",
+    "node_uuid": "bf23cefc-1b50-4278-b694-4d9a1c922c4b",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"氮化镓外延技术\", \"source_url\": null, \"quote\": \"GaN晶圆制造包括MOCVD外延等关键步骤。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "GaN wafer manufacturing",
+    "node_id": "gan_wafer_manufacturing",
+    "updated_at": "2026-07-03T07:24:53.158064000",
+    "created_at": "2026-07-03T07:24:53.158064000",
+    "entity_type": "process",
+    "canonical_name_zh": "氮化镓晶圆制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以碳化硅为材料的晶圆，是制造碳化硅功率器件的衬底/外延片。",
+    "node_uuid": "a5fd1804-3e28-47d0-820d-74cb89a53585",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"碳化硅功率器件制造\", \"source_url\": null, \"quote\": \"碳化硅晶圆是SiC MOSFET和SBD的制造基础。\"}]",
+    "confidence": "HIGH",
+    "aliases": [
+      "SiC衬底"
+    ],
+    "canonical_name_en": "SiC wafer",
+    "node_id": "sic_wafer",
+    "updated_at": "2026-07-03T07:24:53.179414000",
+    "created_at": "2026-07-03T07:24:53.179414000",
+    "entity_type": "material",
+    "canonical_name_zh": "碳化硅晶圆"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过晶体生长、切割、抛光和外延等工艺制备碳化硅晶圆。",
+    "node_uuid": "7e77ea4c-56ad-4cb9-9ebf-7b71c4e88ac6",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"碳化硅材料技术\", \"source_url\": null, \"quote\": \"SiC晶圆制造包括衬底生长、外延等复杂工序。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [],
+    "canonical_name_en": "SiC wafer manufacturing",
+    "node_id": "sic_wafer_manufacturing",
+    "updated_at": "2026-07-03T07:24:53.196426000",
+    "created_at": "2026-07-03T07:24:53.196426000",
+    "entity_type": "process",
+    "canonical_name_zh": "碳化硅晶圆制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
     "definition": "将完成前道制造的晶圆沿划片道切割成独立裸片（die）的后道工序，是芯片封装测试流程的入口步骤。",
     "node_uuid": "7c1a9d29-cfc0-4daa-9e80-0d0f58f31b7e",
     "status": "ACTIVE",
@@ -16262,5 +16525,648 @@
     "created_at": "2026-06-30T23:45:33.961391000",
     "entity_type": "part",
     "canonical_name_zh": "3D NAND 闪存芯片"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用活细胞或微生物作为表达体系，通过上游培养/发酵、下游纯化、制剂与灌装等单元操作，将原材料转化为生物药原液和成品制剂的端到端制造流程。",
+    "node_uuid": "c028a99e-41a8-4fbc-9c2a-f2154bf2f4bf",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"什么是生物制药？生物制药产业链包含哪些？\", \"source_url\": \"https://m.baidu.com/bh/m/detail/ar_9189118551673150257\", \"quote\": \"生物制药的生产通常需要经过上游和下游两个阶段。上游阶段主要是培养细胞或生产微生物，获取生物活性物质。下游阶段则涉及分离、纯化、制剂等过程，最终得到药物产品。\"}, {\"source_title\": \"Industrial Production of Therapeutic Proteins: Cell Lines, Cell Culture, and Purification\", \"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC7121293/\", \"quote\": \"Biopharmaceuticals have a vast scope of different products, including monoclonal antibodies (mAbs) and mAb fragments, vaccines, cytokines, hormones, enzymes, gene therapies, and blood products.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "生物制药生产",
+      "生物药制造"
+    ],
+    "canonical_name_en": "Biopharmaceutical Manufacturing",
+    "node_id": "biopharmaceutical_manufacturing",
+    "updated_at": "2026-07-02T02:51:15.694101000",
+    "created_at": "2026-07-02T02:51:15.694101000",
+    "entity_type": "process",
+    "notes": "作为生物制药主流程的聚合节点，其子流程通过 part_of 关联。",
+    "canonical_name_zh": "生物制药制造"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在生物反应器中利用哺乳动物细胞（如 CHO 细胞）进行扩增和产物表达的工艺步骤，是抗体、重组蛋白等生物药上游生产的核心环节。",
+    "node_uuid": "afd97a0c-2835-48a9-bfa7-62cc2b266c46",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Smart process analytics for the end-to-end batch manufacturing of monoclonal antibodies\", \"source_url\": \"https://web.mit.edu/braatzgroup/Hong_ComputChemEng_2023.pdf\", \"quote\": \"Chinese hamster ovary (CHO) cells are used to produce the monoclonal antibody. The cell culture process consists of a series of scale-up and expansion steps which generate sufficient cell mass for inoculation of the production bioreactor.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "细胞培养",
+      "动物细胞培养"
+    ],
+    "canonical_name_en": "Cell Culture Process",
+    "node_id": "cell_culture_process",
+    "updated_at": "2026-07-02T02:51:15.743169000",
+    "created_at": "2026-07-02T02:51:15.743169000",
+    "entity_type": "process",
+    "canonical_name_zh": "细胞培养工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用细菌、酵母等微生物在生物反应器中表达目标产物（如重组蛋白、疫苗抗原）的上游工艺步骤。",
+    "node_uuid": "022931cb-6980-4844-9c0a-13fee6987b01",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Recent Developments in Bioprocessing of Recombinant Proteins: Expression Hosts and Process Development\", \"source_url\": \"https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2019.00420/full\", \"quote\": \"Expression of recombinant protein-based biopharmaceuticals has been achieved using bacteria, mammalian cells, yeast, insect cells, transgenic plants, and transgenic animals.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "微生物发酵",
+      "生物发酵"
+    ],
+    "canonical_name_en": "Fermentation Process",
+    "node_id": "fermentation_process",
+    "updated_at": "2026-07-02T02:51:15.768174000",
+    "created_at": "2026-07-02T02:51:15.768174000",
+    "entity_type": "process",
+    "canonical_name_zh": "发酵工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将培养液中的细胞与产物分离，并通过离心和深层过滤去除细胞和细胞碎片，获得澄清的培养液以便进入下游纯化的工艺步骤。",
+    "node_uuid": "48f8793e-1622-461a-81f6-e2245b0013b6",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Vertical Integration of Disposables in Biopharmaceutical Drug Substance Manufacturing\", \"source_url\": \"https://www.bioprocessintl.com/monoclonal-antibodies/vertical-integration-of-disposables-in-biopharmaceutical-drug-substance-manufacturing\", \"quote\": \"Harvest and clarification remove cells and cell debris to produce a process fluid that can be loaded onto chromatography columns for purification. Typically a centrifugation step is followed by depth and membrane filtration.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "收获澄清",
+      "细胞收获"
+    ],
+    "canonical_name_en": "Harvest and Clarification Process",
+    "node_id": "harvest_clarification_process",
+    "updated_at": "2026-07-02T02:51:15.775209000",
+    "created_at": "2026-07-02T02:51:15.775209000",
+    "entity_type": "process",
+    "canonical_name_zh": "收获澄清工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "利用亲和层析、离子交换层析、尺寸排阻层析等技术从澄清培养液中捕获和纯化目标蛋白，去除宿主细胞蛋白、DNA 和杂质的工艺步骤。",
+    "node_uuid": "8d8fab9b-e41a-4b5f-8787-cbb80bbfb2f2",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Biopharmaceutical drug delivery and phototherapy using protein crystals\", \"source_url\": \"https://www.sciencedirect.com/science/article/abs/pii/S0169409X24003028\", \"quote\": \"This is followed by a series of high-resolution chromatographic purifications (protein A chromatography, anion-exchange chromatography, cation-exchange chromatography and size chromatography).\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "层析纯化",
+      "色谱纯化"
+    ],
+    "canonical_name_en": "Chromatography Purification Process",
+    "node_id": "chromatography_purification_process",
+    "updated_at": "2026-07-02T02:51:15.782207000",
+    "created_at": "2026-07-02T02:51:15.782207000",
+    "entity_type": "process",
+    "canonical_name_zh": "层析纯化工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过低 pH 孵育等化学处理方式灭活潜在病毒污染物，确保生物制品安全性的下游工艺步骤。",
+    "node_uuid": "b14344f7-7512-4632-b28b-ec1f4f8a9d5b",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Tools for Next-Generation Transcriptional Control in Chinese Hamster Ovary Cell Factories\", \"source_url\": \"https://etheses.whiterose.ac.uk/id/eprint/7335/1/Tools%20for%20Next-Generation%20Transcriptional%20Control%20in%20Chinese%20Hamster%20Ovary%20Cell%20Factories.pdf\", \"quote\": \"Product protein is specifically captured by affinity chromatography prior to a low pH viral inactivation step.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "病毒灭活",
+      "病毒清除"
+    ],
+    "canonical_name_en": "Virus Inactivation Process",
+    "node_id": "virus_inactivation_process",
+    "updated_at": "2026-07-02T02:51:15.790207000",
+    "created_at": "2026-07-02T02:51:15.790207000",
+    "entity_type": "process",
+    "canonical_name_zh": "病毒灭活工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过超滤浓缩产物并进行缓冲液置换，为最终制剂步骤准备药物原液的下游工艺步骤。",
+    "node_uuid": "e261c38f-d6d6-40db-9302-2d106af531b5",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Smart process analytics for the end-to-end batch manufacturing of monoclonal antibodies\", \"source_url\": \"https://web.mit.edu/braatzgroup/Hong_ComputChemEng_2023.pdf\", \"quote\": \"The downstream purification process starts with acid precipitation of the HCCF and continues through chromatography column 1, low pH hold for viral inactivation, chromatography columns 2 and column 3, viral filtration, and ultrafiltration/diafiltration (UF/DF) to yield the Bulk Drug Substance.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "超滤透析",
+      "UF/DF"
+    ],
+    "canonical_name_en": "Ultrafiltration and Diafiltration Process",
+    "node_id": "ultrafiltration_diafiltration_process",
+    "updated_at": "2026-07-02T02:51:15.797207000",
+    "created_at": "2026-07-02T02:51:15.797207000",
+    "entity_type": "process",
+    "canonical_name_zh": "超滤透析工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在纯化后的药物原液中加入缓冲液、稳定剂和赋形剂，优化 pH、浓度和稳定性，使其适合患者给药的工艺步骤。",
+    "node_uuid": "9a5e9703-ee67-497c-840f-83644255e1e2",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Biopharmaceutical drug delivery and phototherapy using protein crystals\", \"source_url\": \"https://www.sciencedirect.com/science/article/abs/pii/S0169409X24003028\", \"quote\": \"Subsequently, the purified protein is formulated into the final dosage form suitable for patient administration, involving buffer optimization, stabilization, and sterile filtration.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "药物制剂",
+      "制剂"
+    ],
+    "canonical_name_en": "Formulation Process",
+    "node_id": "formulation_process",
+    "updated_at": "2026-07-02T02:51:15.804208000",
+    "created_at": "2026-07-02T02:51:15.804208000",
+    "entity_type": "process",
+    "canonical_name_zh": "制剂工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将配制好的药物溶液无菌灌装到最终包装容器（如西林瓶、预充针）中，并根据需要进行冻干，形成可上市药品成品的最终工艺步骤。",
+    "node_uuid": "de951b6c-152e-428c-a5e8-9b7a4153ee24",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"A Structured Analysis of the Novel Technologies used to alleviate bottlenecks in Biopharmaceutical Manufacturing\", \"source_url\": \"https://research.thea.ie/bitstream/handle/20.500.12065/2309/Patrick%20McAuliffe_Redacted.pdf?sequence=1\", \"quote\": \"Fill/Finish: Segregate into separate doses (freeze if necessary). Equipment: Filling machine, freeze dryer. Desired outcome: Properly dosed and frozen vials.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "灌装完成",
+      "灌装"
+    ],
+    "canonical_name_en": "Fill-Finish Process",
+    "node_id": "fill_finish_process",
+    "updated_at": "2026-07-02T02:51:15.811208000",
+    "created_at": "2026-07-02T02:51:15.811208000",
+    "entity_type": "process",
+    "canonical_name_zh": "灌装冻干工艺"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "模拟细胞体内营养环境、为细胞生长和产物表达提供物质基础的复合营养液，是动物细胞培养和微生物发酵的核心原材料。",
+    "node_uuid": "7915129f-d2e5-41ec-a0a1-d67aa678c5ca",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"Cell culture medium is the core raw material of biopharmaceutical production, which simulates the nutritional environment of cell production in vivo and provides the material basis for cell nutrition and growth and proliferation.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "培养基",
+      "细胞培养液"
+    ],
+    "canonical_name_en": "Cell Culture Medium",
+    "node_id": "cell_culture_medium",
+    "updated_at": "2026-07-02T02:51:15.823207000",
+    "created_at": "2026-07-02T02:51:15.823207000",
+    "entity_type": "material",
+    "canonical_name_zh": "细胞培养基"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于细胞培养的血液来源营养添加剂，提供生长因子、激素和附着因子，常与基础培养基配合使用。",
+    "node_uuid": "e993614a-7f26-4796-a792-a7de1572182a",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"It is mainly classified into serum culture medium and serum-free cell culture medium.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "血清",
+      "胎牛血清"
+    ],
+    "canonical_name_en": "Culture Serum",
+    "node_id": "culture_serum",
+    "updated_at": "2026-07-02T02:51:15.831207000",
+    "created_at": "2026-07-02T02:51:15.831207000",
+    "entity_type": "material",
+    "canonical_name_zh": "培养血清"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在药物制剂配方中起稳定、增溶、赋形、缓冲等辅助作用的非活性成分。",
+    "node_uuid": "c35ad69d-39af-47c9-a5c9-34e83230820f",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"Excipients refer to auxiliary materials in the formula of biological products.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "辅料",
+      "制剂辅料"
+    ],
+    "canonical_name_en": "Pharmaceutical Excipient",
+    "node_id": "excipient",
+    "updated_at": "2026-07-02T02:51:15.855314000",
+    "created_at": "2026-07-02T02:51:15.855314000",
+    "entity_type": "material",
+    "canonical_name_zh": "药用辅料"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于蛋白纯化层析柱的固定相材料（如 Protein A 亲和填料、离子交换填料），通过特异性结合实现目标产物捕获和杂质去除。",
+    "node_uuid": "b1916739-5bfe-40e7-b533-b7805c90ba69",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Biopharmaceutical drug delivery and phototherapy using protein crystals\", \"source_url\": \"https://www.sciencedirect.com/science/article/abs/pii/S0169409X24003028\", \"quote\": \"While chromatography represents a significant expense in biopharmaceutical drug purification owing to the high-cost of resins and relatively long cycle times.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "层析介质",
+      "色谱填料",
+      "层析树脂"
+    ],
+    "canonical_name_en": "Chromatography Resin",
+    "node_id": "chromatography_resin",
+    "updated_at": "2026-07-02T02:51:15.878176000",
+    "created_at": "2026-07-02T02:51:15.878176000",
+    "entity_type": "material",
+    "canonical_name_zh": "层析填料"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于生物制药下游分离、除菌、病毒过滤和缓冲液置换的多孔薄膜耗材。",
+    "node_uuid": "4eb33333-95ef-47a8-82c8-735bec221605",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Vertical Integration of Disposables in Biopharmaceutical Drug Substance Manufacturing\", \"source_url\": \"https://www.bioprocessintl.com/monoclonal-antibodies/vertical-integration-of-disposables-in-biopharmaceutical-drug-substance-manufacturing\", \"quote\": \"Downstream processing is intended to produce a drug substance with consistent purity... achieved through a combination of column chromatography operations along with membrane chromatography, buffer exchange using ultra- and diafiltration (UF/DF), and viral filtration steps.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "膜过滤器",
+      "滤膜"
+    ],
+    "canonical_name_en": "Filter Membrane",
+    "node_id": "filter_membrane",
+    "updated_at": "2026-07-02T02:51:15.886176000",
+    "created_at": "2026-07-02T02:51:15.886176000",
+    "entity_type": "material",
+    "canonical_name_zh": "过滤膜"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于细胞培养、储存和转运过程的一次性柔性容器，可降低交叉污染风险并提高生产灵活性。",
+    "node_uuid": "0b953491-b53b-41aa-8ce9-39c11e7884b1",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Vertical Integration of Disposables in Biopharmaceutical Drug Substance Manufacturing\", \"source_url\": \"https://www.bioprocessintl.com/monoclonal-antibodies/vertical-integration-of-disposables-in-biopharmaceutical-drug-substance-manufacturing\", \"quote\": \"To base a facility on SU technology, all unit operations need viable alternatives that enable successful operation with disposable product-contact surfaces.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "一次性袋子",
+      "一次性储液袋"
+    ],
+    "canonical_name_en": "Single-Use Bioprocess Bag",
+    "node_id": "single_use_bag",
+    "updated_at": "2026-07-02T02:51:15.892176000",
+    "created_at": "2026-07-02T02:51:15.892176000",
+    "entity_type": "material",
+    "canonical_name_zh": "一次性生物反应袋"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "符合药典标准、用于制剂配制和设备清洗的高纯度水，是注射剂生产的关键溶剂和辅料。",
+    "node_uuid": "cd1363c9-f6ce-461b-a38f-0f1b4a86326b",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"A Structured Analysis of the Novel Technologies used to alleviate bottlenecks in Biopharmaceutical Manufacturing\", \"source_url\": \"https://research.thea.ie/bitstream/handle/20.500.12065/2309/Patrick%20McAuliffe_Redacted.pdf?sequence=1\", \"quote\": \"Additional services are required for both upstream and downstream operations such as cell culture media, buffering agents, ultra-pure water such as water for injection and various utilities.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "WFI",
+      "注射级用水"
+    ],
+    "canonical_name_en": "Water for Injection",
+    "node_id": "water_for_injection",
+    "updated_at": "2026-07-02T02:51:15.899239000",
+    "created_at": "2026-07-02T02:51:15.899239000",
+    "entity_type": "material",
+    "canonical_name_zh": "注射用水"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于细胞培养或微生物发酵的核心设备，通过控制温度、pH、溶氧等参数实现细胞扩增和产物表达。",
+    "node_uuid": "677062ad-f20f-4e91-9565-18ab34021398",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"Pharmaceutical equipment include bioreactor, liquid preparation system, chromatography system, membrane filtration system, filling system, packaging equipment and lamp inspection machine, with the bioreactors as the core equipment.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "发酵罐",
+      "细胞培养反应器"
+    ],
+    "canonical_name_en": "Bioreactor",
+    "node_id": "bioreactor",
+    "updated_at": "2026-07-02T02:51:15.906241000",
+    "created_at": "2026-07-02T02:51:15.906241000",
+    "entity_type": "device",
+    "canonical_name_zh": "生物反应器"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "由泵、柱、检测器和控制系统组成的蛋白纯化设备，用于执行亲和、离子交换和尺寸排阻等层析操作。",
+    "node_uuid": "13602978-8343-4bf8-ae3d-711dc2707e84",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"Pharmaceutical equipment include bioreactor, liquid preparation system, chromatography system, membrane filtration system, filling system, packaging equipment and lamp inspection machine.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "色谱系统",
+      "层析设备"
+    ],
+    "canonical_name_en": "Chromatography System",
+    "node_id": "chromatography_system",
+    "updated_at": "2026-07-02T02:51:15.928240000",
+    "created_at": "2026-07-02T02:51:15.928240000",
+    "entity_type": "device",
+    "canonical_name_zh": "层析系统"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于收获澄清、除菌过滤、病毒过滤和超滤透析的成套膜分离设备。",
+    "node_uuid": "bb6500c4-df47-41fe-aaa5-7113d8bebe57",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"Pharmaceutical equipment include... membrane filtration system...\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "膜过滤系统",
+      "除菌过滤系统"
+    ],
+    "canonical_name_en": "Filtration System",
+    "node_id": "filtration_system",
+    "updated_at": "2026-07-02T02:51:15.937240000",
+    "created_at": "2026-07-02T02:51:15.937240000",
+    "entity_type": "device",
+    "canonical_name_zh": "过滤系统"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在无菌条件下将药物溶液分装到西林瓶、预充针或卡式瓶中的设备。",
+    "node_uuid": "5e4f9740-bc67-4d47-aed5-5870a5348822",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"A Structured Analysis of the Novel Technologies used to alleviate bottlenecks in Biopharmaceutical Manufacturing\", \"source_url\": \"https://research.thea.ie/bitstream/handle/20.500.12065/2309/Patrick%20McAuliffe_Redacted.pdf?sequence=1\", \"quote\": \"Fill/Finish: Segregate into separate doses (freeze if necessary). Equipment: Filling machine, freeze dryer.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "灌装设备",
+      "无菌灌装机"
+    ],
+    "canonical_name_en": "Filling Machine",
+    "node_id": "filling_machine",
+    "updated_at": "2026-07-02T02:51:15.945240000",
+    "created_at": "2026-07-02T02:51:15.945240000",
+    "entity_type": "device",
+    "canonical_name_zh": "灌装机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过冷冻干燥去除药物溶液中的水分，提高蛋白质类药物长期稳定性的设备。",
+    "node_uuid": "3e6bed9a-23f7-4b7d-8d59-cb08b61871b0",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"A Structured Analysis of the Novel Technologies used to alleviate bottlenecks in Biopharmaceutical Manufacturing\", \"source_url\": \"https://research.thea.ie/bitstream/handle/20.500.12065/2309/Patrick%20McAuliffe_Redacted.pdf?sequence=1\", \"quote\": \"Fill/Finish: Segregate into separate doses (freeze if necessary). Equipment: Filling machine, freeze dryer.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "冷冻干燥机",
+      "lyophilizer"
+    ],
+    "canonical_name_en": "Freeze Dryer",
+    "node_id": "freeze_dryer",
+    "updated_at": "2026-07-02T02:51:15.951240000",
+    "created_at": "2026-07-02T02:51:15.951240000",
+    "entity_type": "device",
+    "canonical_name_zh": "冻干机"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "用于实时监测细胞密度、活力和代谢参数的分析仪器，为上游工艺控制提供数据支持。",
+    "node_uuid": "cc72865e-5b68-41ab-8af6-7f79f2fbf712",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Leveraging In Silico Data for the Development and Implementation of Multivariate Statistical Process Monitoring Models in Monoclonal Antibody Manufacturing\", \"source_url\": \"https://www.mdpi.com/2813-9380/2/4/17\", \"quote\": \"Once the cell count reaches the desired level, they are transferred to the first stage bioreactor.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "细胞计数仪",
+      "细胞活力分析仪"
+    ],
+    "canonical_name_en": "Cell Analyzer",
+    "node_id": "cell_analyzer",
+    "updated_at": "2026-07-02T02:51:15.957243000",
+    "created_at": "2026-07-02T02:51:15.957243000",
+    "entity_type": "device",
+    "canonical_name_zh": "细胞分析仪"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "由单一 B 细胞克隆产生、能特异性识别单一抗原表位的大分子蛋白药物，广泛应用于肿瘤、自身免疫病治疗。",
+    "node_uuid": "09906016-cce6-4048-a836-934edbecacf3",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Protein Therapeutics Market Share & Opportunities 2026-2033\", \"source_url\": \"https://www.coherentmarketinsights.com/industry-reports/protein-therapeutics-market\", \"quote\": \"Monoclonal Antibodies (mAbs) have emerged as the most dominant product type within the global protein therapeutics market with an estimated share of 41.1%.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "单抗",
+      "mAb"
+    ],
+    "canonical_name_en": "Monoclonal Antibody",
+    "node_id": "monoclonal_antibody",
+    "updated_at": "2026-07-02T02:51:15.963245000",
+    "created_at": "2026-07-02T02:51:15.963245000",
+    "entity_type": "material",
+    "canonical_name_zh": "单克隆抗体"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过重组 DNA 技术在宿主细胞中表达纯化得到的蛋白质类药物，包括胰岛素、生长激素、细胞因子等。",
+    "node_uuid": "1eda2f1b-8cba-4627-bf1f-673dcd040dfa",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Recent Developments in Bioprocessing of Recombinant Proteins: Expression Hosts and Process Development\", \"source_url\": \"https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2019.00420/full\", \"quote\": \"In the past 3–4 years, 62 of the 71 new biopharmaceutical active ingredients in the market were recombinant proteins.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "重组蛋白药物",
+      "重组蛋白产品"
+    ],
+    "canonical_name_en": "Recombinant Protein",
+    "node_id": "recombinant_protein",
+    "updated_at": "2026-07-02T02:51:15.969245000",
+    "created_at": "2026-07-02T02:51:15.969245000",
+    "entity_type": "material",
+    "canonical_name_zh": "重组蛋白"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "以活细胞（如 CAR-T 细胞、干细胞）为活性成分，用于修复、替换或增强患者细胞功能的创新型生物制品。",
+    "node_uuid": "a3794814-c45d-48da-a9e5-8d2f6f9c7042",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"生物医药产业链图谱全景分析\", \"source_url\": \"https://bydrug.pharmcube.com/news/detail/e51d10e5815159883c005a883203940b\", \"quote\": \"按照技术手段分为基因工程药物、细胞治疗产品、抗体药物、血制品等。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "细胞治疗",
+      "细胞药物"
+    ],
+    "canonical_name_en": "Cell Therapy Product",
+    "node_id": "cell_therapy_product",
+    "updated_at": "2026-07-02T02:51:15.976324000",
+    "created_at": "2026-07-02T02:51:15.976324000",
+    "entity_type": "material",
+    "canonical_name_zh": "细胞治疗产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过病毒载体或非病毒递送系统将外源基因导入人体细胞，以治疗遗传性或获得性疾病的生物制品。",
+    "node_uuid": "f3402e14-e7a3-4fd6-835b-9b0444e7e537",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"生物医药产业链图谱全景分析\", \"source_url\": \"https://bydrug.pharmcube.com/news/detail/e51d10e5815159883c005a883203940b\", \"quote\": \"按照技术手段分为基因工程药物、细胞治疗产品、抗体药物、血制品等。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "基因治疗",
+      "基因药物"
+    ],
+    "canonical_name_en": "Gene Therapy Product",
+    "node_id": "gene_therapy_product",
+    "updated_at": "2026-07-02T02:51:15.982324000",
+    "created_at": "2026-07-02T02:51:15.982324000",
+    "entity_type": "material",
+    "canonical_name_zh": "基因治疗产品"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在质量、安全性和有效性上与已批准原研生物药高度相似，但因分子复杂性而不能完全相同的后续生物制品。",
+    "node_uuid": "6bd98920-04d2-4407-97c9-c07b4d10a1b4",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"An Investor's Guide to the Biopharmaceutical Value Chain\", \"source_url\": \"https://www.drugpatentwatch.com/blog/an-investors-guide-to-the-biopharmaceutical-value-chain-a-comparative-analysis-of-risks-and-opportunities-in-generic-and-biosimilar-markets/\", \"quote\": \"For biosimilars, the primary risks are upstream: prohibitive development costs, complex manufacturing hurdles, clinical trial failures, and navigating dense patent thickets.\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "生物仿制药",
+      "biosimilar drug"
+    ],
+    "canonical_name_en": "Biosimilar",
+    "node_id": "biosimilar",
+    "updated_at": "2026-07-02T02:51:15.987806000",
+    "created_at": "2026-07-02T02:51:15.987806000",
+    "entity_type": "material",
+    "canonical_name_zh": "生物类似药"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "为制药企业提供药物发现、临床前研究和临床试验等研发服务的外部专业机构。",
+    "node_uuid": "e883cf9b-d408-4abd-8c8c-e37fe75d1065",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"生物医药产业链图谱全景分析\", \"source_url\": \"https://bydrug.pharmcube.com/news/detail/e51d10e5815159883c005a883203940b\", \"quote\": \"CRO、CMO、CSO 分别服务于医药行业的研发、生产、销售三大环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "CRO",
+      "医药研发外包"
+    ],
+    "canonical_name_en": "Contract Research Organization",
+    "node_id": "contract_research_organization",
+    "updated_at": "2026-07-02T02:51:15.993810000",
+    "created_at": "2026-07-02T02:51:15.993810000",
+    "entity_type": "service",
+    "canonical_name_zh": "医药合同研发组织"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "受制药企业委托，提供原料药或制剂的工艺开发、生产制造服务的外部专业机构。",
+    "node_uuid": "bc607cd0-7805-46ab-8500-d53e3c616b2f",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"生物医药产业链图谱全景分析\", \"source_url\": \"https://bydrug.pharmcube.com/news/detail/e51d10e5815159883c005a883203940b\", \"quote\": \"CRO、CMO、CSO 分别服务于医药行业的研发、生产、销售三大环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "CMO",
+      "CDMO",
+      "医药生产外包"
+    ],
+    "canonical_name_en": "Contract Manufacturing Organization",
+    "node_id": "contract_manufacturing_organization",
+    "updated_at": "2026-07-02T02:51:16.000810000",
+    "created_at": "2026-07-02T02:51:16.000810000",
+    "entity_type": "service",
+    "canonical_name_zh": "医药合同生产组织"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "为制药企业提供药品市场推广、销售和渠道管理服务的第三方专业机构。",
+    "node_uuid": "13aee215-8613-414c-a6e5-67b7f35e8629",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"生物医药产业链图谱全景分析\", \"source_url\": \"https://bydrug.pharmcube.com/news/detail/e51d10e5815159883c005a883203940b\", \"quote\": \"CRO、CMO、CSO 分别服务于医药行业的研发、生产、销售三大环节。\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "CSO",
+      "医药销售外包"
+    ],
+    "canonical_name_en": "Contract Sales Organization",
+    "node_id": "contract_sales_organization",
+    "updated_at": "2026-07-02T02:51:16.005811000",
+    "created_at": "2026-07-02T02:51:16.005811000",
+    "entity_type": "service",
+    "canonical_name_zh": "医药合同销售组织"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "为药品上市提供 I–IV 期临床试验设计、受试者招募、数据管理和监管申报服务的专业服务。",
+    "node_uuid": "dfe3c39a-e82b-45c8-9e42-bce26cff8a06",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"From R&D to marketing, a new drug needs to go through four stages: candidate drug R&D, preclinical study, clinical trials (Phase I, II and III), and new drug application, marketing approval and post-marketing surveillance (phase IV clinical trial).\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "临床试验",
+      "临床研发服务"
+    ],
+    "canonical_name_en": "Clinical Trial Service",
+    "node_id": "clinical_trial_service",
+    "updated_at": "2026-07-02T02:51:16.012810000",
+    "created_at": "2026-07-02T02:51:16.012810000",
+    "entity_type": "service",
+    "canonical_name_zh": "临床试验服务"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "通过靶点识别、先导化合物筛选和优化，为药物开发提供候选分子的研发服务。",
+    "node_uuid": "d0bf0fc7-6a72-4b56-bd40-b441b402d533",
+    "status": "PENDING",
+    "evidence": "[{\"source_title\": \"Insight into Development and Smart Transformation of Biopharmaceutical Industry in China\", \"source_url\": \"https://p7f.vogel.de/companies/67/92/6792fcfe2dcb0/2025----------------------------------------1-23.pdf\", \"quote\": \"From R&D to marketing, a new drug needs to go through four stages: candidate drug R&D, preclinical study...\"}]",
+    "confidence": "MEDIUM",
+    "aliases": [
+      "药物发现",
+      "靶点发现与验证"
+    ],
+    "canonical_name_en": "Drug Discovery Service",
+    "node_id": "drug_discovery_service",
+    "updated_at": "2026-07-02T02:51:16.020810000",
+    "created_at": "2026-07-02T02:51:16.020810000",
+    "entity_type": "service",
+    "canonical_name_zh": "药物发现服务"
   }
 ]
