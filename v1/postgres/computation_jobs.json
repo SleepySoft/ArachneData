@@ -1,0 +1,16 @@
+[
+  {
+    "job_id": "company_view_compute_all_20260526093954947663",
+    "job_uuid": "4c40c985-bc3f-44fc-9bf4-bb6609e7c3a4",
+    "job_type": "company_view_compute",
+    "target_id": null,
+    "status": "completed",
+    "total_items": 150426,
+    "processed_items": 150420,
+    "result_summary": "{\"total_pairs\": 150426, \"processed_pairs\": 150426, \"total_companies\": 549, \"synced_companies\": 551, \"cleared_relations\": 2938, \"created_relations\": 2937}",
+    "error_message": null,
+    "created_at": "2026-05-26T09:39:54.948369+00:00",
+    "started_at": "2026-05-26T09:39:54.958976+00:00",
+    "completed_at": "2026-05-26T09:45:33.191361+00:00"
+  }
+]
