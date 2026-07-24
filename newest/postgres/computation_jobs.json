@@ -12,5 +12,47 @@
     "created_at": "2026-05-26T09:39:54.948369+00:00",
     "started_at": "2026-05-26T09:39:54.958976+00:00",
     "completed_at": "2026-05-26T09:45:33.191361+00:00"
+  },
+  {
+    "job_id": "flow_compile_smartphone,personal_computer_20260724020450742443",
+    "job_uuid": "eb0ed9bc-68e7-4a23-b913-e1f1ef427781",
+    "job_type": "flow_compile",
+    "target_id": "smartphone,personal_computer",
+    "status": "completed",
+    "total_items": 2,
+    "processed_items": 2,
+    "result_summary": "{\"total\": 2, \"compiled_flows\": [\"smartphone\", \"personal_computer\"]}",
+    "error_message": null,
+    "created_at": "2026-07-24T02:04:50.743626+00:00",
+    "started_at": "2026-07-24T02:04:50.750410+00:00",
+    "completed_at": "2026-07-24T02:04:52.900833+00:00"
+  },
+  {
+    "job_id": "flow_compile_smartphone_20260724020453281538",
+    "job_uuid": "f7fce4a7-f862-4e51-b3e4-723b67e9dc75",
+    "job_type": "flow_compile",
+    "target_id": "smartphone",
+    "status": "completed",
+    "total_items": 1,
+    "processed_items": 1,
+    "result_summary": "{\"total\": 1, \"compiled_flows\": [\"smartphone\"]}",
+    "error_message": null,
+    "created_at": "2026-07-24T02:04:53.282739+00:00",
+    "started_at": "2026-07-24T02:04:53.285265+00:00",
+    "completed_at": "2026-07-24T02:04:53.465172+00:00"
+  },
+  {
+    "job_id": "flow_compile_smartphone,personal_computer,server_20260724020550026724",
+    "job_uuid": "edc32b28-8d2d-40a0-828d-409a28919af8",
+    "job_type": "flow_compile",
+    "target_id": "smartphone,personal_computer,server",
+    "status": "completed",
+    "total_items": 3,
+    "processed_items": 3,
+    "result_summary": "{\"total\": 3, \"compiled_flows\": [\"smartphone\", \"personal_computer\", \"server\"]}",
+    "error_message": null,
+    "created_at": "2026-07-24T02:05:50.027900+00:00",
+    "started_at": "2026-07-24T02:05:50.032341+00:00",
+    "completed_at": "2026-07-24T02:05:51.088028+00:00"
   }
 ]

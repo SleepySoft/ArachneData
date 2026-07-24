@@ -10,7 +10,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.384680+00:00",
-    "updated_at": "2026-05-23T01:44:16.468606+00:00"
+    "updated_at": "2026-05-23T01:44:16.468606+00:00",
+    "is_test": false
   },
   {
     "industry_id": "real_estate",
@@ -23,7 +24,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.389073+00:00",
-    "updated_at": "2026-05-23T01:44:16.471689+00:00"
+    "updated_at": "2026-05-23T01:44:16.471689+00:00",
+    "is_test": false
   },
   {
     "industry_id": "software_security",
@@ -36,7 +38,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.395135+00:00",
-    "updated_at": "2026-05-23T01:44:16.473150+00:00"
+    "updated_at": "2026-05-23T01:44:16.473150+00:00",
+    "is_test": false
   },
   {
     "industry_id": "rail_transportation",
@@ -49,7 +52,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.399084+00:00",
-    "updated_at": "2026-05-23T01:44:16.474503+00:00"
+    "updated_at": "2026-05-23T01:44:16.474503+00:00",
+    "is_test": false
   },
   {
     "industry_id": "landscaping",
@@ -62,7 +66,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.403993+00:00",
-    "updated_at": "2026-05-23T01:44:16.475891+00:00"
+    "updated_at": "2026-05-23T01:44:16.475891+00:00",
+    "is_test": false
   },
   {
     "industry_id": "new_energy_materials",
@@ -75,7 +80,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.409599+00:00",
-    "updated_at": "2026-05-23T01:44:16.477458+00:00"
+    "updated_at": "2026-05-23T01:44:16.477458+00:00",
+    "is_test": false
   },
   {
     "industry_id": "biopharma",
@@ -88,7 +94,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.412504+00:00",
-    "updated_at": "2026-05-23T01:44:16.479031+00:00"
+    "updated_at": "2026-05-23T01:44:16.479031+00:00",
+    "is_test": false
   },
   {
     "industry_id": "glass_manufacturing",
@@ -101,7 +108,8 @@
     "status": "ACTIVE",
     "notes": null,
     "created_at": "2026-05-23T01:43:23.416885+00:00",
-    "updated_at": "2026-05-23T01:44:16.480265+00:00"
+    "updated_at": "2026-05-23T01:44:16.480265+00:00",
+    "is_test": false
   },
   {
     "industry_id": "semiconductor_industry",
@@ -114,45 +122,7 @@
     "status": "ACTIVE",
     "notes": "产业框架根节点",
     "created_at": "2026-06-17T06:35:39.307177+00:00",
-    "updated_at": "2026-06-17T06:35:39.307177+00:00"
-  },
-  {
-    "industry_id": "test_ind_c79d6b",
-    "industry_uuid": "0b332395-ee18-421b-bf8a-f354167275c7",
-    "name_zh": "测试批量行业-c79d6b",
-    "name_en": null,
-    "aliases": [],
-    "industry_type": "curated_view",
-    "description": null,
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-03T08:15:42.951561+00:00",
-    "updated_at": "2026-07-03T08:15:42.951561+00:00"
-  },
-  {
-    "industry_id": "test_ind_up_04021d",
-    "industry_uuid": "dcf4ccfa-20ff-44a1-95f9-1849c7774d74",
-    "name_zh": "更新后的名称",
-    "name_en": null,
-    "aliases": [],
-    "industry_type": "curated_view",
-    "description": null,
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-03T08:15:42.971505+00:00",
-    "updated_at": "2026-07-03T08:15:42.973291+00:00"
-  },
-  {
-    "industry_id": "test_ind_map_139590",
-    "industry_uuid": "e0247f3c-132e-43d6-aa7c-a3deae3405b6",
-    "name_zh": "映射去重测试行业",
-    "name_en": null,
-    "aliases": [],
-    "industry_type": "curated_view",
-    "description": null,
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-03T08:15:42.976996+00:00",
-    "updated_at": "2026-07-03T08:15:42.976996+00:00"
+    "updated_at": "2026-06-17T06:35:39.307177+00:00",
+    "is_test": false
   }
 ]

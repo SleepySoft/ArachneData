@@ -80,6 +80,35 @@
     "__labels": [
       "IndustrialNode"
     ],
+    "definition": "（定义待补充）",
+    "node_uuid": "cd0670b3-4ee5-46d6-a3c7-35acdd828ca6",
+    "status": "PENDING",
+    "evidence": "[]",
+    "confidence": "LOW",
+    "aliases": [],
+    "node_id": "draft_95d515a1ab7a",
+    "updated_at": "2026-07-08T02:25:24.959645000",
+    "created_at": "2026-07-08T02:25:24.959645000",
+    "entity_type": "material",
+    "canonical_name_zh": "测试清理节点",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "electronic_grade_hydrofluoric_acid"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "ammonium_fluoride"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
     "definition": "用于电能变换和控制的半导体器件，能够处理较大电流和电压。",
     "node_uuid": "3c9cebaf-7596-420b-b59f-baed6dc3384e",
     "status": "ACTIVE",
@@ -261,6 +290,142 @@
     "created_at": "2026-07-03T07:24:53.196426000",
     "entity_type": "process",
     "canonical_name_zh": "碳化硅晶圆制造"
+  },
+  {
+    "updated_at": "2026-07-13T09:32:03.780178+00:00",
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "status": "ACTIVE",
+    "description": "Reified usage instance: HBM product adopts advanced packaging technology.",
+    "evidence": "[{\"source\":\"ontology-design-decision\",\"url\":\"\",\"description\":\"Reified Usage node for HBM adopting advanced packaging\",\"retrieved_at\":\"2026-07-13T09:32:03.780178+00:00\"}]",
+    "created_at": "2026-07-13T09:32:03.780178+00:00",
+    "confidence": "HIGH",
+    "entity_type": "usage",
+    "canonical_name_zh": "HBM 采用先进封装",
+    "canonical_name_en": "HBM adopts advanced packaging",
+    "node_id": "usage_hbm_advanced_packaging"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "usage_initial_wafer_cleaning"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "usage_pre_lithography_wafer_cleaning"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "usage_post_etch_residue_cleaning"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "usage_post_cmp_cleaning"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "usage_pre_deposition_cleaning"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "usage_pre_diffusion_cleaning"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "HBM 等高密度集成封装工艺",
+    "node_uuid": "d822b845-eef5-4524-8fe0-1e8f27f136b0",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"补充 先进封装\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "advanced_packaging",
+    "updated_at": "2026-07-09T01:42:23.230312000",
+    "created_at": "2026-07-09T01:42:23.230312000",
+    "entity_type": "process",
+    "canonical_name_zh": "先进封装",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "Through Silicon Via，3D 堆叠关键工艺",
+    "node_uuid": "77810ac5-6a86-4f2b-8f11-f51c920dd66c",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"补充 硅通孔\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "tsv",
+    "updated_at": "2026-07-09T01:42:23.317983000",
+    "created_at": "2026-07-09T01:42:23.317983000",
+    "entity_type": "technology_capability",
+    "canonical_name_zh": "硅通孔",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "2.5D/3D 封装中的硅基转接板",
+    "node_uuid": "e84f8163-f5e6-4324-839a-a40062246606",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"补充 硅中介层\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "silicon_interposer",
+    "updated_at": "2026-07-09T01:42:23.362340000",
+    "created_at": "2026-07-09T01:42:23.362340000",
+    "entity_type": "part",
+    "canonical_name_zh": "硅中介层",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "芯片堆叠与中介层键合的微凸点",
+    "node_uuid": "2183c105-92d3-4330-9992-a1b21d49b405",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"补充 微凸块\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "microbump",
+    "updated_at": "2026-07-09T01:42:23.373526000",
+    "created_at": "2026-07-09T01:42:23.373526000",
+    "entity_type": "part",
+    "canonical_name_zh": "微凸块",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "倒装/堆叠封装填充材料",
+    "node_uuid": "2750da3c-5b05-4aa3-8dea-ddfe406dc37f",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"补充 底部填充胶\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "underfill",
+    "updated_at": "2026-07-09T01:42:23.385077000",
+    "created_at": "2026-07-09T01:42:23.385077000",
+    "entity_type": "material",
+    "canonical_name_zh": "底部填充胶",
+    "is_test": false
   },
   {
     "__labels": [
@@ -5815,6 +5980,91 @@
     "__labels": [
       "IndustrialNode"
     ],
+    "definition": "在晶圆或裸片上制作硅通孔并实现垂直互连的工艺",
+    "node_uuid": "80030f4b-e5fd-4501-9ed1-8083d9de3d28",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"先进封装工艺组补充\", \"source_url\": null, \"quote\": \"补充 TSV 互连\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "tsv_interconnection",
+    "updated_at": "2026-07-09T03:34:17.801332000",
+    "created_at": "2026-07-09T03:34:17.801332000",
+    "entity_type": "process",
+    "canonical_name_zh": "TSV 互连",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将多颗 DRAM 裸片通过 TSV/微凸块垂直堆叠的工艺",
+    "node_uuid": "dbca70ab-6186-4080-840c-ddd20ed059f9",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"先进封装工艺组补充\", \"source_url\": null, \"quote\": \"补充 芯片堆叠\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "die_stacking",
+    "updated_at": "2026-07-09T03:34:17.809003000",
+    "created_at": "2026-07-09T03:34:17.809003000",
+    "entity_type": "process",
+    "canonical_name_zh": "芯片堆叠",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "将芯片/堆叠裸片集成到硅中介层上的 2.5D 封装工艺",
+    "node_uuid": "95059317-5f24-45f1-ac3b-013c610275fd",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"先进封装工艺组补充\", \"source_url\": null, \"quote\": \"补充 硅中介层集成\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "silicon_interposer_integration",
+    "updated_at": "2026-07-09T03:34:17.815348000",
+    "created_at": "2026-07-09T03:34:17.815348000",
+    "entity_type": "process",
+    "canonical_name_zh": "硅中介层集成",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在芯片焊盘上制作微凸块以便倒装/堆叠键合的工艺",
+    "node_uuid": "42be3744-4434-4b9a-b6e5-330177429128",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"先进封装工艺组补充\", \"source_url\": null, \"quote\": \"补充 凸块制作\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "bumping_process",
+    "updated_at": "2026-07-09T03:34:17.820528000",
+    "created_at": "2026-07-09T03:34:17.820528000",
+    "entity_type": "process",
+    "canonical_name_zh": "凸块制作",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "definition": "在倒装/堆叠芯片底部填充树脂以提高可靠性的工艺",
+    "node_uuid": "62c0e8ce-8a84-436d-8fd6-99413c897a73",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"先进封装工艺组补充\", \"source_url\": null, \"quote\": \"补充 底部填充\"}]",
+    "confidence": "HIGH",
+    "aliases": [],
+    "node_id": "underfill_process",
+    "updated_at": "2026-07-09T03:34:17.826327000",
+    "created_at": "2026-07-09T03:34:17.826327000",
+    "entity_type": "process",
+    "canonical_name_zh": "底部填充",
+    "is_test": false
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
     "definition": "用于集装箱内部的承重底板材料，需具备高强度、耐磨和防腐性能。",
     "node_uuid": "bd485b8c-3247-4f63-8599-a2b7e103351f",
     "status": "ACTIVE",
@@ -7365,110 +7615,6 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "硅片进入晶圆制造产线后进行的首次清洗，去除表面颗粒、有机物和金属离子，为氧化或光刻做准备。",
-    "node_uuid": "18582d02-4f9f-4704-812f-1745587d7ef9",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体晶圆清洗工艺\", \"source_url\": null, \"quote\": \"硅片在进入前道工序前需经过严格清洗，确保起始表面洁净。\"}]",
-    "confidence": "HIGH",
-    "aliases": [],
-    "canonical_name_en": "initial wafer cleaning",
-    "node_id": "initial_wafer_cleaning",
-    "updated_at": "2026-06-28T08:40:49.590396000",
-    "created_at": "2026-06-28T08:40:49.590396000",
-    "entity_type": "process",
-    "canonical_name_zh": "初始晶圆清洗"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "在涂胶和光刻曝光之前对晶圆进行的清洗，去除可能影响光刻胶附着和图形精度的表面污染。",
-    "node_uuid": "49045921-40b4-4239-88d3-345cbda45f97",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体清洗工艺\", \"source_url\": null, \"quote\": \"光刻前清洗是确保光刻胶均匀涂覆和良好附着的关键步骤。\"}]",
-    "confidence": "HIGH",
-    "aliases": [],
-    "canonical_name_en": "pre-lithography wafer cleaning",
-    "node_id": "pre_lithography_wafer_cleaning",
-    "updated_at": "2026-06-28T08:40:49.604435000",
-    "created_at": "2026-06-28T08:40:49.604435000",
-    "entity_type": "process",
-    "canonical_name_zh": "光刻前晶圆清洗"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "在刻蚀和去胶之后去除残留聚合物、颗粒和金属污染的清洗步骤。",
-    "node_uuid": "ac36caab-38b4-4cfe-a2cb-6d6960c79303",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体刻蚀与清洗工艺\", \"source_url\": null, \"quote\": \"刻蚀后残留物清洗去除刻蚀副产物和去胶残留，防止污染后续工艺。\"}]",
-    "confidence": "HIGH",
-    "aliases": [
-      "刻蚀后清洗"
-    ],
-    "canonical_name_en": "post-etch residue cleaning",
-    "node_id": "post_etch_residue_cleaning",
-    "updated_at": "2026-06-28T08:40:49.617804000",
-    "created_at": "2026-06-28T08:40:49.617804000",
-    "entity_type": "process",
-    "canonical_name_zh": "刻蚀后残留物清洗"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "在化学机械抛光之后去除浆料颗粒、金属残留和表面缺陷的清洗步骤。",
-    "node_uuid": "f0eb6ee2-e603-4070-a172-9efd9b3362e9",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体CMP与清洗工艺\", \"source_url\": null, \"quote\": \"CMP后清洗是去除抛光残留浆料和金属污染、恢复晶圆表面洁净度的必要步骤。\"}]",
-    "confidence": "HIGH",
-    "aliases": [],
-    "canonical_name_en": "post-CMP cleaning",
-    "node_id": "post_cmp_cleaning",
-    "updated_at": "2026-06-28T08:40:49.643915000",
-    "created_at": "2026-06-28T08:40:49.643915000",
-    "entity_type": "process",
-    "canonical_name_zh": "CMP后清洗"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "在高温扩散之前对晶圆进行的深度清洗，去除可能影响掺杂分布的表面杂质。",
-    "node_uuid": "0d77c9ed-68fb-4eee-941d-30e0fadbe23f",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体扩散工艺\", \"source_url\": null, \"quote\": \"扩散前清洗去除表面污染物，防止高温下杂质与硅发生反应或扩散进入衬底。\"}]",
-    "confidence": "HIGH",
-    "aliases": [],
-    "canonical_name_en": "pre-diffusion cleaning",
-    "node_id": "pre_diffusion_cleaning",
-    "updated_at": "2026-06-28T08:40:49.663007000",
-    "created_at": "2026-06-28T08:40:49.663007000",
-    "entity_type": "process",
-    "canonical_name_zh": "扩散前清洗"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "在薄膜沉积之前对晶圆进行的清洗，去除自然氧化层、颗粒和有机物，确保薄膜质量。",
-    "node_uuid": "ed0588fd-376f-415c-bd5c-ccba806f80e1",
-    "status": "ACTIVE",
-    "evidence": "[{\"source_title\": \"半导体薄膜沉积工艺\", \"source_url\": null, \"quote\": \"沉积前清洗去除表面污染和自然氧化层，改善薄膜与晶圆的界面特性。\"}]",
-    "confidence": "HIGH",
-    "aliases": [],
-    "canonical_name_en": "pre-deposition cleaning",
-    "node_id": "pre_deposition_cleaning",
-    "updated_at": "2026-06-28T08:40:49.674580000",
-    "created_at": "2026-06-28T08:40:49.674580000",
-    "entity_type": "process",
-    "canonical_name_zh": "薄膜沉积前清洗"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
     "status": "ACTIVE",
     "created_at": "2026-05-26T04:28:31.101000000+00:00",
     "confidence": "HIGH",
@@ -7718,16 +7864,16 @@
     ],
     "definition": "擅长并行浮点运算与图形渲染的逻辑芯片，广泛应用于图形显示、人工智能训练与推理。",
     "node_uuid": "21180d94-e88a-4f31-8044-f064c047cd30",
-    "status": "PENDING",
-    "evidence": "[]",
-    "confidence": "LOW",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"激活 gpu\"}]",
+    "confidence": "HIGH",
     "aliases": [
       "GPU",
       "显卡芯片"
     ],
     "canonical_name_en": "graphics processing unit",
     "node_id": "gpu",
-    "updated_at": "2026-06-17T06:20:50.065299000",
+    "updated_at": "2026-07-09T01:52:44.186368000",
     "created_at": "2026-06-17T06:20:50.065299000",
     "entity_type": "part",
     "canonical_name_zh": "图形处理器"
@@ -8480,15 +8626,15 @@
     ],
     "definition": "为网络中的其他设备提供计算、存储、应用服务的高性能计算机。",
     "node_uuid": "60f39f00-8614-4043-8cd8-deb89ac124f0",
-    "status": "PENDING",
-    "evidence": "[]",
-    "confidence": "LOW",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"激活 server\"}]",
+    "confidence": "HIGH",
     "aliases": [
       "伺服器"
     ],
     "canonical_name_en": "server",
     "node_id": "server",
-    "updated_at": "2026-06-17T06:58:45.258908000",
+    "updated_at": "2026-07-09T01:52:44.289759000",
     "created_at": "2026-06-17T06:58:45.258908000",
     "entity_type": "system",
     "canonical_name_zh": "服务器"
@@ -8499,16 +8645,16 @@
     ],
     "definition": "集中部署大量服务器、存储、网络设备，用于提供云计算和大数据服务的设施。",
     "node_uuid": "65e5a261-2937-46c6-8fe0-50793ac42328",
-    "status": "PENDING",
-    "evidence": "[]",
-    "confidence": "LOW",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"激活 data_center\"}]",
+    "confidence": "HIGH",
     "aliases": [
       "机房",
       "DC"
     ],
     "canonical_name_en": "data center",
     "node_id": "data_center",
-    "updated_at": "2026-06-17T06:58:45.268438000",
+    "updated_at": "2026-07-09T01:52:44.301663000",
     "created_at": "2026-06-17T06:58:45.268438000",
     "entity_type": "infrastructure",
     "canonical_name_zh": "数据中心"
@@ -8519,16 +8665,16 @@
     ],
     "definition": "专门为人工智能训练和推理 workload 优化的计算芯片，包括NPU、TPU、专用ASIC等。",
     "node_uuid": "6daba6ac-99e6-4eb1-a2c0-8e8bc00565a6",
-    "status": "PENDING",
-    "evidence": "[]",
-    "confidence": "LOW",
+    "status": "ACTIVE",
+    "evidence": "[{\"source_title\": \"HBM 产业链补充\", \"source_url\": null, \"quote\": \"激活 ai_accelerator\"}]",
+    "confidence": "HIGH",
     "aliases": [
       "AI芯片",
       "人工智能芯片"
     ],
     "canonical_name_en": "AI accelerator",
     "node_id": "ai_accelerator",
-    "updated_at": "2026-06-17T06:58:45.367101000",
+    "updated_at": "2026-07-09T01:52:44.238660000",
     "created_at": "2026-06-17T06:58:45.367101000",
     "entity_type": "part",
     "canonical_name_zh": "AI加速器"
