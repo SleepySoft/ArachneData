@@ -124,5 +124,33 @@
     "created_at": "2026-06-17T06:35:39.307177+00:00",
     "updated_at": "2026-06-17T06:35:39.307177+00:00",
     "is_test": false
+  },
+  {
+    "industry_id": "artificial_intelligence",
+    "industry_uuid": "d32aa80f-3d00-44d3-9617-4ed47d5a9a66",
+    "name_zh": "人工智能",
+    "name_en": null,
+    "aliases": [],
+    "industry_type": "formal_industry",
+    "description": "人工智能产业链：上游算力硬件（AI芯片/服务器/光模块/液冷/数据中心），中游模型与算力服务（AI框架/大模型/训练推理/算力云），下游应用（AI应用/智能体）。",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-27T13:17:57.816351+00:00",
+    "updated_at": "2026-07-27T13:17:57.816351+00:00",
+    "is_test": false
+  },
+  {
+    "industry_id": "robotics",
+    "industry_uuid": "d8f1544a-f019-4590-bdcd-e669f0cf1718",
+    "name_zh": "机器人",
+    "name_en": null,
+    "aliases": [],
+    "industry_type": "formal_industry",
+    "description": "机器人产业链：核心零部件（减速器/伺服/控制器/丝杠/传感器/执行器/灵巧手），本体（工业/协作/人形/服务/移动机器人），集成与应用（系统集成/自动化产线/仓储）。",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-27T13:17:57.819246+00:00",
+    "updated_at": "2026-07-27T13:17:57.819246+00:00",
+    "is_test": false
   }
 ]
