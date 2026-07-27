@@ -80,23 +80,6 @@
     "__labels": [
       "IndustrialNode"
     ],
-    "definition": "（定义待补充）",
-    "node_uuid": "cd0670b3-4ee5-46d6-a3c7-35acdd828ca6",
-    "status": "PENDING",
-    "evidence": "[]",
-    "confidence": "LOW",
-    "aliases": [],
-    "node_id": "draft_95d515a1ab7a",
-    "updated_at": "2026-07-08T02:25:24.959645000",
-    "created_at": "2026-07-08T02:25:24.959645000",
-    "entity_type": "material",
-    "canonical_name_zh": "测试清理节点",
-    "is_test": false
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
     "node_id": "electronic_grade_hydrofluoric_acid"
   },
   {
@@ -341,6 +324,192 @@
       "IndustrialNode"
     ],
     "node_id": "usage_pre_diffusion_cleaning"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "cho_cell_line"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "protein_a_resin"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "microbial_expression_host"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "vaccine_seed_strain"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "adjuvant"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "biologic_harvest_fluid"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "clarified_harvest_fluid"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "purified_biologic_bulk"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "inactivated_biologic_bulk"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "biologic_drug_substance"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "formulated_biologic"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "plasmid_dna"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "hek293_cell"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "viral_vector_bulk"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "viral_vector"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "patient_t_cell"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "engineered_t_cell"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "expanded_engineered_t_cell"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "formulated_gene_therapy"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "plasma_protein_fraction"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "plasma_derivative_bulk"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "formulated_blood_product"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "basic_chemical_raw_material"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "prepared_tcm_slices"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "tcm_extract"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "chemical_drug_synthesis_process"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "cold_ethanol_fractionation_process"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "gene_transduction_process"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "viral_vector_production_process"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "traditional_chinese_medicine_processing"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "tcm_extraction_process"
   },
   {
     "__labels": [
@@ -7643,23 +7812,6 @@
     "entity_type": "material",
     "notes": "产业框架根节点，待补充硅/锗/化合物半导体细分",
     "canonical_name_zh": "半导体材料"
-  },
-  {
-    "__labels": [
-      "IndustrialNode"
-    ],
-    "definition": "（定义待补充）",
-    "node_uuid": "5943a1ae-eeaf-4efe-9e50-62db8e083f2c",
-    "status": "PENDING",
-    "evidence": "[]",
-    "confidence": "LOW",
-    "aliases": [],
-    "canonical_name_en": "Test Draft Node",
-    "node_id": "draft_82427243535e",
-    "updated_at": "2026-06-16T07:02:01.204097000",
-    "created_at": "2026-06-16T07:02:01.204097000",
-    "entity_type": "unknown",
-    "canonical_name_zh": "Test Draft Node"
   },
   {
     "__labels": [
@@ -17314,5 +17466,17 @@
     "created_at": "2026-07-02T02:51:16.020810000",
     "entity_type": "service",
     "canonical_name_zh": "药物发现服务"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "human_plasma"
+  },
+  {
+    "__labels": [
+      "IndustrialNode"
+    ],
+    "node_id": "chinese_medicinal_materials"
   }
 ]
