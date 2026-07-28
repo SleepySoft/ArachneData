@@ -9988,6 +9988,29 @@
     "is_test": false
   },
   {
+    "company_id": "cansemi",
+    "company_uuid": "e83e2e6c-2ba2-49a5-bc0e-bb493636a5b4",
+    "name_zh": "粤芯半导体",
+    "name_en": "Cansemi",
+    "aliases": [],
+    "stock_codes": [],
+    "description": "广州 12 英寸特色工艺晶圆厂",
+    "country": "CN",
+    "province": null,
+    "city": null,
+    "founded_year": null,
+    "employee_count": null,
+    "revenue_cny": null,
+    "market_cap_cny": null,
+    "net_profit_cny": null,
+    "company_type": "private",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-01T10:01:30.225808+00:00",
+    "updated_at": "2026-07-01T10:01:30.225808+00:00",
+    "is_test": false
+  },
+  {
     "company_id": "wodun_tech",
     "company_uuid": "da36274e-0c13-48c4-80ee-1a10ee8b45aa",
     "name_zh": "沃顿科技股份有限公司",
@@ -10684,6 +10707,33 @@
     "notes": null,
     "created_at": "2026-06-18T01:47:51.424840+00:00",
     "updated_at": "2026-07-01T07:12:39.367468+00:00",
+    "is_test": false
+  },
+  {
+    "company_id": "longping",
+    "company_uuid": "7cdac411-df5f-469d-8cef-00dc3e40d168",
+    "name_zh": "袁隆平农业高科技股份有限公司",
+    "name_en": null,
+    "aliases": [
+      "隆平高科"
+    ],
+    "stock_codes": [
+      "000998.SZ"
+    ],
+    "description": "杂交水稻、蔬菜种子及农产品企业",
+    "country": "CN",
+    "province": "湖南",
+    "city": "长沙",
+    "founded_year": null,
+    "employee_count": 0,
+    "revenue_cny": null,
+    "market_cap_cny": null,
+    "net_profit_cny": null,
+    "company_type": "public",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-05-25T15:35:02.322120+00:00",
+    "updated_at": "2026-05-25T15:35:02.322120+00:00",
     "is_test": false
   },
   {
@@ -11413,33 +11463,6 @@
     "notes": null,
     "created_at": "2026-05-25T15:35:02.321308+00:00",
     "updated_at": "2026-05-25T15:35:02.321308+00:00",
-    "is_test": false
-  },
-  {
-    "company_id": "longping",
-    "company_uuid": "7cdac411-df5f-469d-8cef-00dc3e40d168",
-    "name_zh": "袁隆平农业高科技股份有限公司",
-    "name_en": null,
-    "aliases": [
-      "隆平高科"
-    ],
-    "stock_codes": [
-      "000998.SZ"
-    ],
-    "description": "杂交水稻、蔬菜种子及农产品企业",
-    "country": "CN",
-    "province": "湖南",
-    "city": "长沙",
-    "founded_year": null,
-    "employee_count": 0,
-    "revenue_cny": null,
-    "market_cap_cny": null,
-    "net_profit_cny": null,
-    "company_type": "public",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-05-25T15:35:02.322120+00:00",
-    "updated_at": "2026-05-25T15:35:02.322120+00:00",
     "is_test": false
   },
   {
@@ -14482,29 +14505,6 @@
     "notes": null,
     "created_at": "2026-05-25T23:28:52.750195+00:00",
     "updated_at": "2026-05-25T23:29:36.050671+00:00",
-    "is_test": false
-  },
-  {
-    "company_id": "cansemi",
-    "company_uuid": "e83e2e6c-2ba2-49a5-bc0e-bb493636a5b4",
-    "name_zh": "粤芯半导体",
-    "name_en": "Cansemi",
-    "aliases": [],
-    "stock_codes": [],
-    "description": "广州 12 英寸特色工艺晶圆厂",
-    "country": "CN",
-    "province": null,
-    "city": null,
-    "founded_year": null,
-    "employee_count": null,
-    "revenue_cny": null,
-    "market_cap_cny": null,
-    "net_profit_cny": null,
-    "company_type": "private",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-01T10:01:30.225808+00:00",
-    "updated_at": "2026-07-01T10:01:30.225808+00:00",
     "is_test": false
   },
   {
@@ -19585,6 +19585,56 @@
     "is_test": false
   },
   {
+    "company_id": "kingsoft_office",
+    "company_uuid": "45d06bd9-bba4-40a4-9c8b-c029f39e2485",
+    "name_zh": "金山办公",
+    "name_en": "Kingsoft Office",
+    "aliases": [],
+    "stock_codes": [
+      "688111.SH"
+    ],
+    "description": null,
+    "country": "CN",
+    "province": null,
+    "city": null,
+    "founded_year": null,
+    "employee_count": null,
+    "revenue_cny": null,
+    "market_cap_cny": null,
+    "net_profit_cny": null,
+    "company_type": "public",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-27T13:17:57.942045+00:00",
+    "updated_at": "2026-07-27T13:17:57.942045+00:00",
+    "is_test": false
+  },
+  {
+    "company_id": "kunlun_tech",
+    "company_uuid": "b35c56b5-6801-4baf-bc16-f5f442ba1476",
+    "name_zh": "昆仑万维",
+    "name_en": "Kunlun Tech",
+    "aliases": [],
+    "stock_codes": [
+      "300418.SZ"
+    ],
+    "description": null,
+    "country": "CN",
+    "province": null,
+    "city": null,
+    "founded_year": null,
+    "employee_count": null,
+    "revenue_cny": null,
+    "market_cap_cny": null,
+    "net_profit_cny": null,
+    "company_type": "public",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-27T13:17:57.944465+00:00",
+    "updated_at": "2026-07-27T13:17:57.944465+00:00",
+    "is_test": false
+  },
+  {
     "company_id": "wuxi_biologics",
     "company_uuid": "7837be53-2cd8-4283-952d-d5733910063c",
     "name_zh": "药明生物",
@@ -20200,6 +20250,32 @@
     "notes": null,
     "created_at": "2026-07-27T03:02:09.439613+00:00",
     "updated_at": "2026-07-27T03:02:09.439613+00:00",
+    "is_test": false
+  },
+  {
+    "company_id": "baidu",
+    "company_uuid": "ad07f859-db8e-47c7-8056-a7c1b6da33c0",
+    "name_zh": "百度",
+    "name_en": "Baidu",
+    "aliases": [],
+    "stock_codes": [
+      "9888.HK",
+      "BIDU"
+    ],
+    "description": null,
+    "country": "CN",
+    "province": null,
+    "city": null,
+    "founded_year": null,
+    "employee_count": null,
+    "revenue_cny": null,
+    "market_cap_cny": null,
+    "net_profit_cny": null,
+    "company_type": "public",
+    "status": "ACTIVE",
+    "notes": null,
+    "created_at": "2026-07-27T13:17:57.946550+00:00",
+    "updated_at": "2026-07-27T13:17:57.946550+00:00",
     "is_test": false
   },
   {
@@ -20926,82 +21002,6 @@
     "notes": null,
     "created_at": "2026-07-27T13:17:57.939833+00:00",
     "updated_at": "2026-07-27T13:17:57.939833+00:00",
-    "is_test": false
-  },
-  {
-    "company_id": "kingsoft_office",
-    "company_uuid": "45d06bd9-bba4-40a4-9c8b-c029f39e2485",
-    "name_zh": "金山办公",
-    "name_en": "Kingsoft Office",
-    "aliases": [],
-    "stock_codes": [
-      "688111.SH"
-    ],
-    "description": null,
-    "country": "CN",
-    "province": null,
-    "city": null,
-    "founded_year": null,
-    "employee_count": null,
-    "revenue_cny": null,
-    "market_cap_cny": null,
-    "net_profit_cny": null,
-    "company_type": "public",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-27T13:17:57.942045+00:00",
-    "updated_at": "2026-07-27T13:17:57.942045+00:00",
-    "is_test": false
-  },
-  {
-    "company_id": "kunlun_tech",
-    "company_uuid": "b35c56b5-6801-4baf-bc16-f5f442ba1476",
-    "name_zh": "昆仑万维",
-    "name_en": "Kunlun Tech",
-    "aliases": [],
-    "stock_codes": [
-      "300418.SZ"
-    ],
-    "description": null,
-    "country": "CN",
-    "province": null,
-    "city": null,
-    "founded_year": null,
-    "employee_count": null,
-    "revenue_cny": null,
-    "market_cap_cny": null,
-    "net_profit_cny": null,
-    "company_type": "public",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-27T13:17:57.944465+00:00",
-    "updated_at": "2026-07-27T13:17:57.944465+00:00",
-    "is_test": false
-  },
-  {
-    "company_id": "baidu",
-    "company_uuid": "ad07f859-db8e-47c7-8056-a7c1b6da33c0",
-    "name_zh": "百度",
-    "name_en": "Baidu",
-    "aliases": [],
-    "stock_codes": [
-      "9888.HK",
-      "BIDU"
-    ],
-    "description": null,
-    "country": "CN",
-    "province": null,
-    "city": null,
-    "founded_year": null,
-    "employee_count": null,
-    "revenue_cny": null,
-    "market_cap_cny": null,
-    "net_profit_cny": null,
-    "company_type": "public",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-27T13:17:57.946550+00:00",
-    "updated_at": "2026-07-27T13:17:57.946550+00:00",
     "is_test": false
   },
   {
