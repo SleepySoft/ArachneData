@@ -166,5 +166,19 @@
     "created_at": "2026-07-29T05:37:51.440621+00:00",
     "started_at": "2026-07-29T05:37:51.459385+00:00",
     "completed_at": "2026-07-29T05:38:04.437082+00:00"
+  },
+  {
+    "job_id": "flow_compile_rebuild_all_20260729112820961598",
+    "job_uuid": "33e35db8-61c5-44f6-9612-6e7b36bed182",
+    "job_type": "flow_compile",
+    "target_id": "rebuild_all",
+    "status": "completed",
+    "total_items": 75,
+    "processed_items": 75,
+    "result_summary": "{\"total\": 75, \"rebuilt_flows\": [\"biologics_manufacturing\", \"blood_product\", \"cell_therapy\", \"chemical_drug_manufacturing\", \"gene_therapy\", \"monoclonal_antibody\", \"recombinant_protein\", \"traditional_chinese_medicine_manufacturing\", \"vaccine\", \"viral_vector_manufacturing\", \"anode_material_manufacturing\", \"battery_cell_manufacturing\", \"battery_pack_assembly\", \"cathode_material_manufacturing\", \"electric_vehicle_powertrain\", \"electrolyte_manufacturing\", \"energy_storage_system\", \"lithium_salt_production\", \"separator_manufacturing\", \"pv_module_assembly\", \"pv_power_station\", \"solar_cell_manufacturing\", \"dexterous_hand_manufacturing\", \"humanoid_robot_manufacturing\", \"industrial_robot_manufacturing\", \"joint_module_manufacturing\", \"mobile_robot_manufacturing\", \"perception_suite\", \"quadruped_robot_manufacturing\", \"robot_control_system\", \"robot_services\", \"robot_system_integration_service\", \"service_robot_manufacturing\", \"servo_system_manufacturing\", \"warehouse_automation\", \"advanced_packaging\", \"ar_vr_system\", \"automotive_electronics\", \"base_station_5g\", \"chip_design\", \"consumer_electronics\", \"data_center\", \"dram_chip_manufacturing\", \"electric_vehicle\", \"hydrofluoric_acid_production\", \"industrial_electronics\", \"memory_wafer_manufacturing\", \"nand_flash_chip_manufacturing\", \"new_energy_vehicle\", \"personal_computer\", \"photovoltaic_inverter\", \"power_semiconductor_manufacturing\", \"printed_circuit_board_fabrication\", \"semiconductor_chip_manufacturing\", \"server\", \"silicon_wafer_manufacturing\", \"smartphone\", \"ssd\", \"wafer_fabrication_processes\", \"battery_solvent_production\", \"cathode_precursor_production\", \"cmp_slurry_production\", \"electronic_gas_production\", \"lipf6_production\", \"photoresist_production\", \"pv_glass_production\", \"sputtering_target_production\", \"aluminum_smelting\", \"chlor_alkali\", \"copper_smelting\", \"energy_production\", \"petrochemical\", \"rare_earth_extraction\", \"steel_making\", \"sulfuric_acid\"]}",
+    "error_message": null,
+    "created_at": "2026-07-29T11:28:20.962178+00:00",
+    "started_at": "2026-07-29T11:28:20.983056+00:00",
+    "completed_at": "2026-07-29T11:28:44.876550+00:00"
   }
 ]

@@ -4222,36 +4222,6 @@
     "confidence": "HIGH"
   },
   {
-    "edge_type": "adopts",
-    "evidence": "[]",
-    "edge_namespace": "industrial_flow",
-    "confidence": "LOW",
-    "__type": "INDUSTRIAL_FLOW",
-    "updated_at": "2026-07-29T08:23:22.460311000",
-    "edge_id": "adopts_c873f285e320cd19",
-    "description": "测试光刻前清洗 采用 测试晶圆清洗工艺（pre_lithography）",
-    "created_at": "2026-07-29T08:23:22.460311000",
-    "__from": "usage_test_exec_84ca27_test_tech_84ca27_pre_lithography",
-    "__to": "test_tech_84ca27",
-    "edge_uuid": "2fbe5248-3748-4570-950b-78fcce784c2e",
-    "is_test": true
-  },
-  {
-    "edge_type": "uses",
-    "evidence": "[]",
-    "edge_namespace": "industrial_flow",
-    "confidence": "LOW",
-    "__type": "INDUSTRIAL_FLOW",
-    "updated_at": "2026-07-29T08:23:22.379293000",
-    "edge_id": "uses_37558987d1bf74a2",
-    "description": "测试光刻前清洗 使用 测试晶圆清洗工艺（pre_lithography）",
-    "created_at": "2026-07-29T08:23:22.379293000",
-    "__from": "test_exec_84ca27",
-    "__to": "usage_test_exec_84ca27_test_tech_84ca27_pre_lithography",
-    "edge_uuid": "d408d979-1a36-42b8-ba50-3e012ec6edeb",
-    "is_test": true
-  },
-  {
     "__type": "INDUSTRIAL_FLOW",
     "edge_type": "material_input",
     "updated_at": "2026-05-25T15:33:16.881505000",
