@@ -1758,5 +1758,35 @@
     "__to": "industrial_robot",
     "edge_uuid": "50e6be27-ae99-4fa2-81e8-bf594d9d78a7",
     "is_test": false
+  },
+  {
+    "edge_type": "is_a",
+    "evidence": "[{\"source_title\": \"浙江众成2025年年度报告（提炼数据）\", \"source_url\": null, \"quote\": \"公司开展合成橡胶制造业务。\"}]",
+    "edge_namespace": "ontology",
+    "confidence": "MEDIUM",
+    "__type": "ONTOLOGY",
+    "updated_at": "2026-10-06T14:33:31.839809000",
+    "edge_id": "thermoplastic_elastomer_is_polymer",
+    "description": "热塑性弹性体属于高分子材料。",
+    "created_at": "2026-10-06T14:33:31.839809000",
+    "__from": "thermoplastic_elastomer",
+    "__to": "polymer_material",
+    "edge_uuid": "8bfad18d-cc81-4124-8914-6213c749d5df",
+    "is_test": false
+  },
+  {
+    "edge_type": "is_a",
+    "evidence": "[{\"source_title\": \"中远海能2025年年度报告（提炼数据）\", \"source_url\": null, \"quote\": \"LNG运输占主营业务收入10.7%。\"}]",
+    "edge_namespace": "ontology",
+    "confidence": "MEDIUM",
+    "__type": "ONTOLOGY",
+    "updated_at": "2026-10-06T14:33:31.858975000",
+    "edge_id": "lng_shipping_is_shipping",
+    "description": "LNG运输服务是能源海运服务的一类。",
+    "created_at": "2026-10-06T14:33:31.858975000",
+    "__from": "lng_shipping_service",
+    "__to": "shipping_service",
+    "edge_uuid": "1a4ebc9d-a133-4afe-b650-82ed344f8c00",
+    "is_test": false
   }
 ]
