@@ -154,59 +154,21 @@
     "is_test": false
   },
   {
-    "industry_id": "new_energy_battery",
-    "industry_uuid": "3f7d7f36-66bd-4bd0-b765-77ebe69bdc68",
-    "name_zh": "新能源电池",
-    "name_en": null,
-    "aliases": [],
+    "industry_id": "optical_communication",
+    "industry_uuid": "cd49c8ac-ec23-4a3c-ac6c-ed2fa6e32abd",
+    "name_zh": "光通信",
+    "name_en": "Optical Communication",
+    "aliases": [
+      "光通信产业",
+      "光模块产业链",
+      "光电子"
+    ],
     "industry_type": "formal_industry",
-    "description": "锂电池全产业链",
+    "description": "以光信号传输为核心的信息通信产业，产业链覆盖上游衬底材料与光芯片/电芯片、中游光器件/光组件与光模块制造、下游光传输设备与数据中心/电信网络应用。AI算力驱动800G/1.6T高速光模块需求爆发，中国厂商占全球光模块市场超六成份额。",
     "status": "ACTIVE",
     "notes": null,
-    "created_at": "2026-07-29T05:29:28.690045+00:00",
-    "updated_at": "2026-07-29T05:29:28.690045+00:00",
-    "is_test": false
-  },
-  {
-    "industry_id": "photovoltaic",
-    "industry_uuid": "f5983283-c031-4b6f-9bbf-c6c5b1dbc1db",
-    "name_zh": "光伏",
-    "name_en": null,
-    "aliases": [],
-    "industry_type": "formal_industry",
-    "description": "光伏全产业链",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-29T05:30:04.756441+00:00",
-    "updated_at": "2026-07-29T05:30:04.756441+00:00",
-    "is_test": false
-  },
-  {
-    "industry_id": "upstream_materials",
-    "industry_uuid": "a545f761-8ea2-4725-8450-271a32f7c537",
-    "name_zh": "能源化工金属",
-    "name_en": null,
-    "aliases": [],
-    "industry_type": "formal_industry",
-    "description": "上游基础材料",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-29T05:30:04.768096+00:00",
-    "updated_at": "2026-07-29T05:30:04.768096+00:00",
-    "is_test": false
-  },
-  {
-    "industry_id": "specialty_materials",
-    "industry_uuid": "1cca9926-96f5-4363-9b7d-aaed6ed473d8",
-    "name_zh": "特种材料",
-    "name_en": null,
-    "aliases": [],
-    "industry_type": "formal_industry",
-    "description": "特种材料：电子特气/光刻胶/CMP抛光液/靶材/电解液溶剂/六氟磷酸锂/光伏玻璃/正极前驱体",
-    "status": "ACTIVE",
-    "notes": null,
-    "created_at": "2026-07-29T06:40:03.666746+00:00",
-    "updated_at": "2026-07-29T06:40:03.666746+00:00",
+    "created_at": "2026-08-15T01:48:57.508783+00:00",
+    "updated_at": "2026-08-15T01:48:57.508783+00:00",
     "is_test": false
   }
 ]
